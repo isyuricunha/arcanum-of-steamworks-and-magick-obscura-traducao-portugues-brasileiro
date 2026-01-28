@@ -18,10 +18,10 @@
 {21}{Eu posso perguntar uma coisa pro malvado?}{}{-4}{lf2 1, re -24}{}{co, fl 44}
 {22}{Tá bom. Eu vou buscar a caixa pro senhor...}{}{-4}{qu1083 1, ni 5645}{103}{}
 {23}{Eu ainda não peguei a caixa...}{}{-4}{qu1083 2, ni 5645}{110}{}
-{24}{Eu peguei a caixa! Eu peguei a caixa!}{}{-4}{qa1083 1, qb1083 3,  in 5645}{144}{}
+{24}{Eu peguei o cofre! Eu peguei o cofre!}{}{-4}{qa1083 1, qb1083 3,  in 5645}{144}{}
 {25}{E:}{}{-4}{}{0}{}
 {29}{Nós não servimos o seu tipo aqui. Saia das dependências ou serei forçado a chamar a guarda.}{Nós não servimos o seu tipo aqui. Saia das dependências ou serei forçado a chamar a guarda.}{}{}{}{}
-{30}{Por favor, bom gnomo, tenho apenas algumas perguntas para lhe fazer.}{}{5}{}{50}{}
+{30}{Por favor, meu bom senhor, tenho apenas algumas perguntas a lhe fazer.}{}{5}{}{50}{}
 {31}{É melhor o senhor tomar cuidado com o tom ao falar comigo.}{}{5}{sk2 -11}{37}{re -5}
 {32}{É melhor o senhor tomar cuidado com o tom ao falar comigo.}{}{5}{sk2 12}{46}{}
 {33}{Hã... eu tô sendo legal. Eu só quero perguntar uma coisa...}{}{-4}{}{50}{}
@@ -54,7 +54,7 @@
 {60}{Oh, certamente, senhor! Oferecemos apenas quartos da mais alta qualidade, com excelentes comodidades. Cada quarto é decorado com o que há de mais moderno, completo com baús para guardar seus objetos de valor. Além disso, empregamos guardas para garantir a segurança de nossos hóspedes, tudo por apenas 25 moedas por noite.}{Oh, certamente, senhora! Oferecemos apenas quartos da mais alta qualidade, com excelentes comodidades. Cada quarto é decorado com o que há de mais moderno, completo com baús para guardar seus objetos de valor. Além disso, empregamos guardas para garantir a segurança de nossos hóspedes, tudo por apenas 25 moedas por noite.}{}{}{}{lf3 1}
 {61}{Parece muito bom, mas está além do que posso pagar.}{}{5}{lf 10 0, gf 2400 0}{86}{}
 {62}{Parece muito moderno. Talvez em outra ocasião. Obrigado.}{}{5}{lf 10 0, gf 2400 0}{0}{}
-{63}{Gostaria de um quarto para uma noite.}{}{5}{$$25, lf 10 0, gf 2400 0}{118}{}
+{63}{Eu gostaria de um quarto para uma noite.}{}{5}{$$25, lf 10 0, gf 2400 0}{118}{}
 {64}{Oh, bonito! Ummm... muitas moedas.}{}{-4}{lf 10 0, gf 2400 0}{86}{}
 {65}{Eu querer quarto para noite.}{}{-4}{$$25, lf 10 0, gf 2400 0}{118}{}
 {66}{K:}{}{1}{}{74}{}
@@ -63,7 +63,7 @@
 {69}{Talvez em outra ocasião. Adeus.}{}{5}{lf 10 0, gf 2400 0}{0}{}
 {70}{Eu tenho as moedas! Aqui!}{}{5}{$$35, lf 10 0, gf 2400 0}{-2}{$$-35, lf 11 1 , lf 10 1, gf 2326 0}
 {71}{Hmm... muitas moedas. Eu vou agora.}{}{-4}{lf 10 0, gf 2400 0}{0}{}
-{72}{Eu tenho moedas! Vê? (Você mostra a moeda para ele) Aqui, 35 pelo pernoite.}{}{-4}{$$35, lf 10 0, gf 2400 0}{-2}{$$-35, lf 11 1, lf 10 1, gf 2326 0}
+{72}{Eu tenho as moedas! Veja? (Você mostra a moeda para ele) Aqui estão 35 pela noite.}{}{-4}{$$35, lf 10 0, gf 2400 0}{-2}{$$-35, lf 11 1, lf 10 1, gf 2326 0}
 {73}{F:}{}{1}{}{0}{re-1}
 {74}{Mas é claro. Do que você precisa...?}{Claro. O que você precisa...?}{}{}{}{}
 {75}{T:9, 11}{}{1}{}{74}{}
@@ -91,7 +91,7 @@
 {97}{Eu peguei o cofre! Eu peguei o cofre!}{}{-4}{in 5645}{113}{re -10}
 {98}{E:}{}{1}{}{0}{}
 {99}{Ele tentou me dizer que eu tinha pedido trabalho adicional, o que não fiz, que levou muito mais tempo do que ele esperava e que perdeu outros trabalhos por causa do tempo que gastou no meu projeto. Tentei negociar, mas não há como raciocinar com aquele bruto!}{Ele tentou me dizer que eu tinha pedido trabalho adicional, o que não fiz, que levou muito mais tempo do que ele esperava e que perdeu outros trabalhos por causa do tempo que gastou no meu projeto. Tentei negociar, mas não há como raciocinar com aquele bruto!}{}{}{}{}
-{100}{Você precisa da minha ajuda para devolvê-lo?}{}{5}{}{103}{}
+{100}{O senhor precisa da minha ajuda para recuperá-lo?}{}{5}{}{103}{}
 {101}{Talvez eu ajude o Sr. Hallaway?}{}{-4}{}{103}{}
 {102}{E:}{}{1}{}{0}{}
 {103}{Sim... Eu ficaria muito grato pela sua ajuda. Se você conseguir o cofre de volta para mim, eu o recompensaria oferecendo um quarto sem cobrança. Na verdade, se você o recuperar para mim... pode ficar com um quarto pelo tempo que precisar.}{Sim... Eu ficaria muito grato pela sua ajuda. Se você conseguir o cofre de volta para mim, eu o recompensaria oferecendo um quarto sem cobrança. Na verdade, se você o recuperar para mim... pode ficar com um quarto pelo tempo que precisar.}{}{}{}{qu1083 1}
@@ -147,8 +147,8 @@
 {153}{Ele não vai mais incomodar você... nunca mais.}{}{-4}{}{176}{re -5}
 {154}{Ele está arrependido por ter te deixado bravo. Devolveu a caixa sem cobrar nada.}{}{-4}{}{158}{qu1083 4, re +10}
 {155}{Muito bom! Estou tão feliz por tê-lo recuperado!}{Muito bom! Estou tão feliz por tê-lo recuperado!}{}{}{}{}
-{156}{Sobre nosso acordo?}{}{5}{}{132}{}
-{157}{Eu consigo o quarto agora?}{}{-4}{}{132}{}
+{156}{Sobre o nosso acordo?}{}{5}{}{132}{}
+{157}{Agora me dá o quarto?}{}{-4}{}{132}{}
 {158}{Ele "devolveu" para mim!?! Isso é incrível! Você deve ter mesmo jeito com as palavras. Estou bastante impressionado. Talvez Garret não seja o idiota que eu pensava...}{Ele "devolveu" para mim!?! Isso é incrível! Você deve ter mesmo jeito com as palavras. Estou bastante impressionado. Talvez Garret não seja o idiota que eu pensava...}{}{}{}{}
 {159}{Fico feliz por ter sido útil. Sobre nosso acordo?}{}{5}{}{132}{}
 {160}{Fico feliz em ajudar. Eu consigo o quarto agora?}{}{-4}{}{132}{}

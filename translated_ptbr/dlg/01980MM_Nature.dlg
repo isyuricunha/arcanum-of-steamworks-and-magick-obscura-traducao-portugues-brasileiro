@@ -15,9 +15,9 @@
 {15}{Hã... qual é o seu nome, malvado?}{}{-4}{lf1 0, re -40}{28}{}
 {16}{Hã... Eu pergunto uma coisa?}{}{-4}{lf1 1, re 41}{36}{}
 {17}{Hã... eu pergunto uma coisa, malvado?}{}{-4}{lf1 1, re -40}{36}{}
-{18}{Melhorei minhas habilidades em Natureza, Mestre Ferko.}{}{5}{lf4 1, sc10 5}{78}{}
-{19}{Reforcei minha aura mágica, Mestre Ferko.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{20}{Tenho interesse em me tornar um Mestre de Natureza.}{}{5}{gf2411 0, ma30, lf1 1}{101}{}
+{18}{Melhorei minhas habilidades em Natureza, Mestre Ferko.}{}{5}{lf4 1, sc10 5, lf5 0}{78}{}
+{19}{Reforcei minha aura mágica, Mestre Ferko.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{20}{Estou interessado em me tornar um Mestre da Natureza.}{}{5}{gf2411 0, ma30, lf1 1, sc10 5}{101}{}
 {21}{Ainda não completei o teste para Mestria, Ferko.}{}{5}{LF7 1, gf2422 0}{115}{}
 {22}{Senhor! Completei o teste e me tornei um Mestre de Natureza!}{}{5}{gf2422 1, lf9 0}{119}{}
 {27}{E:}{}{1}{}{0}{}
@@ -30,9 +30,9 @@
 {34}{Você acha que essa teknawlugia te prejudica?}{}{-4}{sc10 0, lf3 0}{65}{}
 {35}{E:}{}{1}{sc10 0}{0}{}
 {36}{Certamente. Como posso ajudá-lo?}{Certamente. Como posso ajudá-lo?}{}{}{}{}
-{37}{Melhorei minhas habilidades em Natureza, Mestre Ferko.}{}{5}{lf4 1, sc10 5, ma 30}{78}{}
-{38}{Reforcei minha aura mágica, Mestre Ferko.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{39}{Tenho interesse em me tornar um Mestre de Natureza.}{}{5}{gf2411 0, ma30}{101}{}
+{37}{Melhorei minhas habilidades em Natureza, Mestre Ferko.}{}{5}{lf4 1, sc10 5, lf5 0}{78}{}
+{38}{Reforcei minha aura mágica, Mestre Ferko.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{39}{Estou interessado em me tornar um Mestre da Natureza.}{}{5}{gf2411 0, ma30, sc10 5}{101}{}
 {40}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
 {41}{Por favor, senhor, poderia me explicar sobre Natureza?}{}{5}{lf2 0}{57}{}
 {42}{O que é na-chur?}{}{-4}{lf2 0}{57}{}
@@ -40,9 +40,9 @@
 {44}{F:}{}{1}{}{0}{}
 {45}{E:}{}{1}{}{0}{}
 {46}{Precisa de mais alguma coisa?}{Precisa de mais alguma coisa?}{}{}{}{}
-{47}{Melhorei minhas habilidades em Natureza, Mestre Ferko.}{}{5}{lf4 1, sc10 5, ma 30}{78}{}
-{48}{Reforcei minha aura mágica, Mestre Ferko.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{49}{Estou interessado em me tornar um Mestre da Natureza.}{}{5}{gf2411 0, ma30}{101}{}
+{47}{Melhorei minhas habilidades em Natureza, Mestre Ferko.}{}{5}{lf4 1, sc10 5, lf5 0}{78}{}
+{48}{Reforcei minha aura mágica, Mestre Ferko.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{49}{Estou interessado em me tornar um Mestre da Natureza.}{}{5}{gf2411 0, ma30, sc10 5}{101}{}
 {50}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
 {51}{Por favor, explique-me sobre a Natureza, bom senhor.}{}{5}{lf2 0}{57}{}
 {52}{Não, senhor. Agradeço pelo seu tempo.}{}{5}{}{0}{}
@@ -82,7 +82,7 @@
 {86}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 1}{46}{}
 {87}{Extremamente difícil, senhor. No entanto, acredito que valeu a pena.}{}{5}{gf2411 1}{46}{}
 {88}{E:}{}{1}{}{0}{}
-{89}{Diga-me, senhor, é evidente que adquiriu conhecimento em todas as áreas da magia da Natureza, porém sinto fraqueza em você. Tem estado excessivamente próximo da tecnologia? Se algum dia aumentar seu poder mágico, gostaria de conversar sobre um treinamento adicional.}{Diga-me, senhora, é evidente que adquiriu conhecimento em todas as áreas da magia da Natureza, porém sinto fraqueza em você. Tem estado excessivamente próximo da tecnologia? Se algum dia aumentar seu poder mágico, gostaria de conversar sobre um treinamento adicional.}{}{}{}{}
+{89}{Diga-me, senhor, é evidente que adquiriu conhecimento em todas as áreas da magia da Natureza, porém sinto fraqueza em você. Tem estado excessivamente próximo da tecnologia? Se algum dia aumentar seu poder mágico, gostaria de conversar sobre um treinamento adicional.}{Diga-me, senhora, é evidente que adquiriu conhecimento em todas as áreas da magia da Natureza, porém sinto fraqueza em você. Tem estado excessivamente próximo da tecnologia? Se algum dia aumentar seu poder mágico, gostaria de conversar sobre um treinamento adicional.}{}{}{}{lf8 1}
 {90}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
 {91}{Estou tentando um equilíbrio entre magia e tecnologia.}{}{5}{}{46}{re-2}
 {92}{Abandonei a magia em favor da tecnologia.}{}{5}{}{46}{re-5}

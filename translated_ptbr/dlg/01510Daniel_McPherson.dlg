@@ -9,7 +9,7 @@
 {9}{Quem ocê é?}{}{-4}{lf1 0, re 41}{17}{}
 {10}{Hã, ô, @pcname@ fez coisa ruim?}{}{-4}{lf1 0, re -40}{17}{}
 {11}{Me pergunta uma coisa, Danyell?}{}{-4}{lf1 1, re 41}{97}{}
-{12}{Me desculpa, Danyell. Me não quer deixar bravo.}{}{-4}{lf1 1, re -40}{17}{}
+{12}{Me desculpe, Danyell. Eu não quero te deixar bravo.}{}{-4}{lf1 1, re -40}{17}{}
 {13}{Me quer passar pelo labirinto.}{}{-4}{qu1099 1}{89}{}
 {14}{Me ainda não passou pelo labirinto, Danyell.}{}{-4}{qu1099 2}{110}{}
 {15}{Me conseguiu passar pelo labirinto, Danyell!}{}{-4}{qu1099 3}{133}{}
@@ -54,7 +54,7 @@
 {54}{Ah. Isso é bom. Posso perguntar mais?}{}{-4}{}{97}{}
 {55}{E:}{}{1}{}{0}{}
 {56}{Sou dono e opero a maior empresa de segurança do reino. Até o palácio real tem contrato comigo. Talvez já tenha ouvido falar do notório J.T. Morgan, cuja maestria está em arrombar fechaduras? Bem, uma de minhas armadilhas foi responsável por sua captura quando tentou entrar ilegalmente no palácio há alguns meses. Sou o melhor no ramo.}{Sou dono e opero a maior empresa de segurança do reino. Até o palácio real tem contrato comigo. Talvez já tenha ouvido falar do notório J.T. Morgan, cuja maestria está em arrombar fechaduras? Bem, uma de minhas armadilhas foi responsável por sua captura quando tentou entrar ilegalmente no palácio há alguns meses. Sou o melhor no ramo.}{}{}{}{lf2 1}
-{57}{Impressionante. Deve ser uma grande honra estar tão requisitado.}{}{5}{}{64}{re +2}
+{57}{Impressionante. Deve ser uma grande honra estar tão requisitada.}{}{5}{}{64}{re +2}
 {58}{Como adquiriu tanta habilidade com armadilhas?}{}{5}{}{68}{}
 {59}{Seus talentos são realmente impressionantes. Tenho outra pergunta...}{}{5}{}{97}{}
 {60}{Defenda-se..... Opressor pomposo dos ladrões!}{}{5}{}{}{co, fl 41}
@@ -130,7 +130,7 @@
 {130}{Vou buscar treinamento e então retornarei. Adeus, Daniel.}{}{5}{}{0}{}
 {131}{Vou me treiná e depois volto. Tchau, Danyell.}{}{-4}{}{0}{}
 {132}{E:}{}{1}{}{0}{}
-{133}{Um trabalho admirável! Estou satisfeito em ver que você estava à altura do desafio. Além de conceder-lhe o título de Mestre na área de armar e desarmar armadilhas, permita-me presenteá-lo com estes raros óculos de fabricante de armadilhas. Um pequeno bônus pelo seu esforço. Foi um prazer, mas agora devo retornar aos meus deveres @pcname@.}{Um trabalho admirável! Estou satisfeito em ver que você estava à altura do desafio. Além de conceder-lhe o título de Mestre na área de armar e desarmar armadilhas, permita-me presenteá-lo com estes raros óculos de fabricante de armadilhas. Um pequeno bônus pelo seu esforço. Foi um prazer, mas agora devo retornar aos meus deveres @pcname@.}{}{}{}{qu1099 4, tr15 3, in -2815, rq2174}
+{133}{Um trabalho admirável! Estou satisfeito em ver que você estava à altura do desafio. Além de conceder-lhe o título de Mestre na área de armar e desarmar armadilhas, permita-me presenteá-lo com estes raros óculos de fabricante de armadilhas. Um pequeno bônus pelo seu esforço. Foi um prazer, mas agora devo retornar aos meus deveres @pcname@.}{Um trabalho admirável! Estou satisfeito em ver que você estava à altura do desafio. Além de conceder-lhe o título de Mestre na área de armar e desarmar armadilhas, permita-me presenteá-lo com estes raros óculos de fabricante de armadilhas. Um pequeno bônus pelo seu esforço. Foi um prazer, mas agora devo retornar aos meus deveres @pcname@.}{}{}{}{qu1099 4, tr15 3, in -2815, rq2174, rp1022}
 {134}{Obrigado, Daniel.}{}{5}{}{0}{}
 {135}{Seu labirinto foi realmente um desafio. Obrigado.}{}{5}{}{0}{re +5}
 {136}{Eu acho que deveria haver apenas um Mestre... EU!}{}{5}{}{}{co, fl 120}

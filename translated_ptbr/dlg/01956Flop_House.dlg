@@ -15,24 +15,24 @@
 {23}{Pfaw! Eu levo minhas moedas pra outro lugar então!}{}{-4}{}{0}{}
 {24}{F:}{}{1}{}{0}{}
 {25}{O que você quer?}{O que você quer?}{}{}{}{lf1 1}
-{26}{Eu gostaria de uma cama para passar a noite.}{}{5}{gf2399 0, lf 10 0}{45}{}
-{27}{Quanto custa ficar uma semana?}{}{5}{ha7, gf2399 0, lf 10 0}{52}{}
-{28}{Quanto custa ficar uma semana?}{}{5}{ha-6, gf2399 0, lf 10 0}{57}{}
-{29}{Eu fico aqui essa noite?}{}{-4}{gf2399 0, lf 10 0}{45}{}
-{30}{Eu consigo uma cama por uma semana?}{}{-4}{ha7, gf2399 0, lf 10 0}{52}{}
-{31}{Eu consigo uma cama por uma semana?}{}{-4}{ha-6, gf2399 0, lf 10 0}{57}{}
+{26}{Eu gostaria de uma cama para a noite.}{}{5}{gf2399 0, lf 10 0}{45}{}
+{27}{Quanto custa para ficar uma semana?}{}{5}{ha7, gf2399 0, lf 10 0}{52}{}
+{28}{Quanto custa para ficar uma semana?}{}{5}{ha-6, gf2399 0, lf 10 0}{57}{}
+{29}{Eu fico aqui 'sta noite?}{}{-4}{gf2399 0, lf 10 0}{45}{}
+{30}{Eu quero cama pra semana?}{}{-4}{ha7, gf2399 0, lf 10 0}{52}{}
+{31}{Eu quero cama pra semana?}{}{-4}{ha-6, gf2399 0, lf 10 0}{57}{}
 {32}{Eu gostaria de ser treinado para me tornar um Especialista em batedor de carteiras.}{}{5}{tr5 -1}{35}{et5 86}
-{33}{Hã... Eu quero ser um cara Xper' em roubar carteiras.}{}{-4}{tr5 -1}{35}{et5 86}
+{33}{Hmm... Eu qué sê o mestre do furto de bolso.}{}{-4}{tr5 -1}{35}{et5 86}
 {34}{E:}{}{1}{}{0}{}
 {35}{Precisa de mais alguma coisa?}{Precisa de mais alguma coisa?}{}{}{}{}
-{36}{Eu gostaria de uma cama para passar a noite.}{}{5}{gf2399 0, lf 10 0}{45}{}
-{37}{Quanto custa ficar uma semana?}{}{5}{ha7, gf2399 0, lf 10 0}{52}{}
-{38}{Quanto custa ficar uma semana?}{}{5}{ha-6, gf2399 0, lf 10 0}{57}{}
-{39}{Eu fico aqui essa noite?}{}{-4}{gf2399 0, lf 10 0}{45}{}
-{40}{Eu consigo uma cama por uma semana?}{}{-4}{ha7, gf2399 0, lf 10 0}{52}{}
-{41}{Eu consigo uma cama por uma semana?}{}{-4}{ha-6, gf2399 0, lf 10 0}{57}{}
+{36}{Eu gostaria de uma cama para a noite.}{}{5}{gf2399 0, lf 10 0}{45}{}
+{37}{Quanto custa para ficar uma semana?}{}{5}{ha7, gf2399 0, lf 10 0}{52}{}
+{38}{Quanto custa para ficar uma semana?}{}{5}{ha-6, gf2399 0, lf 10 0}{57}{}
+{39}{Eu fico aqui 'sta noite?}{}{-4}{gf2399 0, lf 10 0}{45}{}
+{40}{Eu quero cama pra semana?}{}{-4}{ha7, gf2399 0, lf 10 0}{52}{}
+{41}{Eu quero cama pra semana?}{}{-4}{ha-6, gf2399 0, lf 10 0}{57}{}
 {42}{Eu gostaria de ser treinado para me tornar um Especialista em batedor de carteiras.}{}{5}{tr5 1, tr5 -1, sk5 9}{86}{}
-{43}{Hã... Eu quero ser um cara Xper' em roubar carteiras.}{}{-4}{tr5 1, tr5 -1, sk5 9}{86}{}
+{43}{Hmm... Eu qué sê o mestre do furto de bolso.}{}{-4}{tr5 1, tr5 -1, sk5 9}{86}{}
 {44}{E:}{}{1}{}{0}{}
 {45}{O preço é 13 moedas. Aceita ou some daqui, parceiro...}{O preço é 13 moedas. Leve ou deixe, madame...}{}{}{}{}
 {46}{Aqui está. [entrega a moeda a ele]}{}{5}{$$ 13}{-2}{$$-13, lf 13 1, lf 10 1}
@@ -56,14 +56,14 @@
 {64}{Hã... V-valeu.}{}{-4}{}{0}{}
 {65}{K:}{}{1}{}{35}{}
 {66}{Eu gostaria de ser treinado para me tornar um Especialista em batedor de carteiras.}{}{5}{tr5 1, tr5 -1, sk5 9}{86}{}
-{67}{Hã... Eu qué ser o cara Xper' em roubá carteira.}{}{-4}{tr5 1, tr5 -1, sk5 9}{86}{}
+{67}{Hmm... Eu qué sê o mestre do furto de bolso.}{}{-4}{tr5 1, tr5 -1, sk5 9}{86}{}
 {68}{E:}{}{1}{}{0}{}
 {69}{Tá bom. Pode pegar um dos beliches vazios. Esse dinheiro é para os próximos sete dias. Só lembre... eu não tolero nenhuma briga ou roubo neste estabelecimento, entendeu? Fique na sua e tudo vai ficar bem.}{Tá bom. Pode pegar um dos beliches vazios. Esse dinheiro é para os próximos sete dias. Só lembre... eu não tolero nenhuma briga ou roubo neste estabelecimento, entendeu? Fique na sua e tudo vai ficar bem.}{}{}{}{}
 {70}{Obrigado.}{}{5}{}{0}{}
 {71}{Hã... V-valeu.}{}{-4}{}{0}{}
 {72}{K:}{}{1}{}{35}{}
 {73}{Eu gostaria de ser treinado para me tornar um Especialista em batedor de carteiras.}{}{5}{tr5 1, tr5 -1, sk5 9}{86}{}
-{74}{Hã... Eu qué ser o cara Xper' em roubá carteira.}{}{-4}{tr5 1, tr5 -1, sk5 9}{86}{}
+{74}{Hmm... Eu qué sê o mestre do furto de bolso.}{}{-4}{tr5 1, tr5 -1, sk5 9}{86}{}
 {75}{E:}{}{1}{}{0}{}
 {76}{Bem... Nesse caso... O que posso fazer por você?}{Bem... Nesse caso... O que posso fazer por você?}{}{}{}{}
 {77}{Eu gostaria de uma cama para a noite.}{}{5}{gf2399 0, lf 10 0}{45}{}

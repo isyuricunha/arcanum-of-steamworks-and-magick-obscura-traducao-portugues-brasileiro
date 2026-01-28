@@ -13,7 +13,7 @@
 {16}{O que está fazendo aqui? Quem é você?}{}{5}{qu1114 0, qu1105 0}{22}{}
 {17}{É esse o agradecimento que recebo? Talvez eu devesse tê-la deixado morrer...}{}{5}{}{31}{re -5}
 {19}{Hã. Agora a senhora está segura. Tudo bem. Qual é o seu nome?}{}{-4}{}{22}{}
-{20}{Talvez fosse melhor tê-la deixado morrer...}{}{-4}{}{31}{re +5}
+{20}{Talvez fosse melhor tê-la deixado morrer...}{}{-4}{}{31}{re -5}
 {21}{E:}{}{1}{}{0}{lf 7 0}
 {22}{Eu sou a Lady Druella, se precisa saber. Agora, por favor, vá embora daqui. Não quero companhia.}{Eu sou a Lady Druella, se precisa saber. Agora, por favor, vá embora daqui. Não quero companhia.}{}{}{}{}
 {23}{Mas eu acabei de resgatá-la! Não posso simplesmente deixá-la aqui...}{}{5}{}{36}{}
@@ -53,7 +53,7 @@
 {64}{Sim, posso entender por que você fugiria.}{}{5}{}{70}{}
 {65}{Sinto muito por você, Lady Druella.}{}{5}{}{70}{}
 {66}{Sir Garrick gostaria de fazer as pazes, se você permitir...}{}{5}{qa 1114 1}{136}{}
-{67}{Sir Garrick não quer que você fique triste. Ele tem uma coisa para te ajudar...}{}{-4}{qa 1114 1}{136}{}
+{67}{Sir Gareek não quer que você fique triste. Ele tem uma coisa para te ajudar...}{}{-4}{qa 1114 1}{136}{}
 {68}{Deve ter sido horrível para você.}{}{-4}{}{70}{}
 {69}{Você tem razão em ficar assustado e fugir.}{}{-4}{}{70}{}
 {70}{Vaguei sem rumo por muitos dias. Sem me importar comigo mesmo, perdido na miséria dos meus pensamentos. Encontrei este lugar enquanto passava por estas florestas. Senti que era certo ficar aqui com os Gyr-Dolours. Eles cuidaram de mim e, por um tempo, tive paz.}{Vaguei sem rumo por muitos dias. Sem me importar comigo mesmo, perdido na miséria dos meus pensamentos. Encontrei este lugar enquanto passava por estas florestas. Senti que era certo ficar aqui com os Gyr-Dolours. Eles cuidaram de mim e, por um tempo, tive paz.}{}{}{}{}
@@ -117,7 +117,7 @@
 {147}{Sua mão em casamento é o que ele deseja.}{}{5}{}{153}{}
 {148}{Receio que sim, minha senhora. Ele quer sua mão em casamento.}{}{5}{}{153}{}
 {149}{É! Ele quer você disposta a casar com ele!}{}{-4}{}{153}{}
-{153}{[Ela está obviamente horrorizada.] Disposta! Ha! Aquele será o dia! Quando eu me submeter de bom grado àquele bárbaro exagerado! Aquele "Sir" autoproclamado não passa de um bruto lascivo de baixa estirpe!}{[Ela está obviamente horrorizada.] Disposta! Ha! Aquele será o dia! Quando eu me submeter de bom grado àquele bárbaro exagerado! Aquele "Sir" autoproclamado não passa de um bruto lascivo de baixa estirpe!}{}{}{}{lf3 1}
+{153}{[Ela está obviamente horrorizada.] De bom grado! Ha! Isso vai ser no dia de São Nunca! Quando eu me submeter de bom grado àquele bárbaro exagerado! Aquele "Sir" autoproclamado não passa de um bruto lascivo de baixa estirpe!}{[Ela está obviamente horrorizada.] De bom grado! Ha! Isso vai ser no dia de São Nunca! Quando eu me submeter de bom grado àquele bárbaro exagerado! Aquele "Sir" autoproclamado não passa de um bruto lascivo de baixa estirpe!}{}{}{}{lf3 1}
 {154}{Então você vai deixar Adkin em seu estado miserável?}{}{5}{}{160}{}
 {155}{Se você realmente ama Adkin, não faria qualquer coisa para curá-lo?}{}{5}{}{160}{}
 {156}{Então você não quer fazer Aken enxergar de novo?}{}{-4}{}{160}{}
@@ -173,7 +173,7 @@
 {225}{E:}{}{1}{}{0}{qu1115 6}
 {226}{Está combinado então. Vamos logo, desejo acabar com o sofrimento de Adkin rapidamente!}{Está combinado então. Vamos logo, desejo acabar com o sofrimento de Adkin rapidamente!}{}{}{}{qu1114 3, lf 6 1, lf 14 1, rp 1074}
 {227}{Venha, siga-me. Vou levá-lo até Sir Garrick.}{}{5}{}{-10}{}
-{228}{Venha comigo. Vamos até Sir Garrick e terminamos com isso.}{}{5}{}{-10}{}
+{228}{Venha comigo. Iremos até Sir Garrick e terminaremos isso.}{}{5}{}{-10}{}
 {230}{Venha. Eu levo você até Sir Gareek.}{}{-4}{}{-10}{}
 {231}{E:}{}{1}{}{-10}{}
 {232}{Oh! É você. Por que insiste em me incomodar!? Não entendeu quando eu disse que queria ficar sozinho!?}{Oh! É você. Por que insiste em me incomodar!? Não entendeu quando eu disse que queria ficar sozinho!?}{}{}{}{}
@@ -295,7 +295,7 @@
 {362}{He he. Eu vou embora agora. Tchau!}{}{-4}{}{365}{}
 {363}{Desculpe, madame. Me tenho que ir, não fico pro seu casamento. Tchau.}{}{-4}{}{365}{}
 {364}{Não fique triste... Me lembro! Me matar Sir Garrick agora!}{}{-4}{}{-27}{}
-{365}{Mentiroso! Enganador! Destrua-o imediatamente! Você NÃO tem honra?!?}{Mentiroso! Enganador! Destrua-o imediatamente! Você NÃO tem honra?!?}{}{}{}{}
+{365}{Mentiroso! Farsante! Destrua-o imediatamente! Vocês NÃO têm honra?!?}{Mentiroso! Farsante! Destrua-o imediatamente! Vocês NÃO têm honra?!?}{}{}{}{}
 {366}{Não sei do que você está falando. Adeus.}{}{5}{}{0}{fl 372}
 {367}{Sir Garrick... talvez devesse controlar sua noiva?}{}{5}{}{0}{fl 372}
 {368}{Adeus, Senhora. Que seu casamento seja repleto de felicidade.}{}{5}{}{0}{fl 372}
@@ -324,7 +324,7 @@
 {391}{Foi um prazer. Adeus.}{}{5}{}{0}{}
 {392}{De nada. Fico feliz em ter ajudado!}{}{-4}{}{0}{}
 {393}{Fico feliz que vocês estejam felizes juntos. Tchau-tchau.}{}{-4}{}{0}{}
-{394}{Você tem notícias de Adkin, @pcname@?}{Você tem alguma notícia de Adkin, @pcname@?}{}{}{}{}
+{394}{Você tem alguma notícia de Adkin, @pcname@?}{Você tem alguma notícia de Adkin, @pcname@?}{}{}{}{}
 {395}{Não. Receio não ter conseguido localizá-lo.}{}{5}{}{401}{}
 {396}{Temo que tenha havido um acidente. Ele não sobreviveu.}{}{5}{}{404}{fl 404}
 {397}{Eu tive que matá-lo. Vou fazer o mesmo com você.}{}{5}{}{}{co, fl 48}

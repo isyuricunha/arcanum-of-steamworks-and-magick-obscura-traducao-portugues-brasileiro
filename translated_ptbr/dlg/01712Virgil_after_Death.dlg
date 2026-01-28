@@ -18,7 +18,7 @@
 {25}{[continuar]}{}{1}{}{-14}{}
 {27}{Eu estava dizendo que vim aqui esta noite para enfrentar meu passado e vingar meu irmão, a quem traí. Esses homens foram os que o mataram. Eu sabia que não sobreviveria, mas o peso de sua morte e da minha covardia eram demais para suportar por mais tempo. E foi aqui que você me encontrou...}{Eu estava dizendo que vim aqui esta noite para enfrentar meu passado e vingar meu irmão, a quem traí. Esses homens foram os que o mataram. Eu sabia que não sobreviveria, mas o peso de sua morte e da minha covardia eram demais para suportar por mais tempo. E foi aqui que você me encontrou...}{}{9}{}{}
 {28}{Posso lhe fazer algumas perguntas sobre isso, Virgil?}{}{5}{}{34}{}
-{29}{Fico feliz que você tenha voltado. Quer se juntar a nós novamente...}{}{5}{}{57}{jo 0 61}
+{29}{Fico feliz que tenha voltado. Vai se juntar a nós novamente...}{}{5}{}{57}{jo 0 61}
 {30}{Bem, fico feliz que esteja vivo. Preciso ir...}{}{5}{}{67}{}
 {31}{Hã... tá bom. Você se junta a mim de novo?}{}{-4}{}{57}{jo 0 61}
 {32}{Fico feliz que esteja vivo. Mas preciso ir...}{}{-4}{}{67}{}
@@ -36,7 +36,7 @@
 {47}{Foi... [Ele parece incapaz de colocar em palavras.]... bem, pacífico, eu acho. Lembro-me de muito pouco... tenho memórias de um lugar cinzento, quente, silencioso... não havia dor ali, nenhum sofrimento... e lembro-me de sentir que era ilimitado... um lugar que não era lugar... nem uma prisão nem um castigo, mas liberdade sem fim.}{Foi... [Ele parece incapaz de colocar em palavras.]... bem, pacífico, eu acho. Lembro-me de muito pouco... tenho memórias de um lugar cinzento, quente, silencioso... não havia dor ali, nenhum sofrimento... e lembro-me de sentir que era ilimitado... um lugar que não era lugar... nem uma prisão nem um castigo, mas liberdade sem fim.}{}{12}{}{}
 {48}{Parece que de alguma forma você gostou...}{}{5}{}{51}{}
 {49}{Mais algumas perguntas...}{}{5}{}{34}{}
-{51}{Gostei, de um jeito estranho. Você não faz ideia do que é se livrar de tudo que constitui nossas lutas nesta vida... dor, ganância, inveja, culpa. É libertador, mesmo em sua vacuidade. [Ele pensa por um momento.] Posso dizer honestamente que queria voltar, para terminar o que comecei com você, mas que uma pequena parte de mim queria muito ficar. E acho que levo aquele lugar cinzento comigo sempre... um pequeno pedaço da morte...}{Gostei, de um jeito estranho. Você não faz ideia do que é se livrar de tudo que constitui nossas lutas nesta vida... dor, ganância, inveja, culpa. É libertador, mesmo em sua vacuidade. [Ele pensa por um momento.] Posso dizer honestamente que queria voltar, para terminar o que comecei com você, mas que uma pequena parte de mim queria muito ficar. E acho que levo aquele lugar cinzento comigo sempre... um pequeno pedaço da morte...}{}{13}{}{}
+{51}{Eu fiz, de um jeito estranho. Você não faz ideia de como é abrir mão de tudo que constitui nossas lutas nesta vida... dor, ganância, inveja, culpa. É libertador, mesmo em seu vazio. [Ele pensa por um momento.] Posso dizer com honestidade que quis voltar, terminar o que havia começado com você, mas que uma pequena parte de mim queria muito ficar. E acho que levo esse lugar cinzento comigo sempre... um pequeno pedaço da morte...}{Eu fiz, de um jeito estranho. Você não faz ideia de como é abrir mão de tudo que constitui nossas lutas nesta vida... dor, ganância, inveja, culpa. É libertador, mesmo em seu vazio. [Ele pensa por um momento.] Posso dizer com honestidade que quis voltar, terminar o que havia começado com você, mas que uma pequena parte de mim queria muito ficar. E acho que levo esse lugar cinzento comigo sempre... um pequeno pedaço da morte...}{}{13}{}{}
 {52}{Mais algumas perguntas...}{}{5}{}{34}{}
 {54}{Eu sei que teria ajudado, mas esta era uma jornada que eu precisava fazer sozinho. [Ele ri.] Tudo isso soa tão terrivelmente sério, não é? Esse papo sábio e introspectivo não combina muito comigo. Vou me esforçar para dar um ponto final nisso. Mas isso me mudou para melhor, e agradeço mais uma vez...}{Eu sei que teria ajudado, mas esta era uma jornada que eu precisava fazer sozinho. [Ele ri.] Tudo isso soa tão terrivelmente sério, não é? Esse papo sábio e introspectivo não combina muito comigo. Vou me esforçar para dar um ponto final nisso. Mas isso me mudou para melhor, e agradeço mais uma vez...}{}{14}{}{}
 {55}{Mais algumas perguntas...}{}{5}{}{34}{}
@@ -93,6 +93,7 @@
 {126}{O que fazemos agora?}{}{-4}{ss23, ss -23}{281}{}
 {127}{Você parece um pouco chateado, Virgil.}{}{5}{re-20}{410}{}
 {128}{Tá bravo, Voigil?}{}{-4}{re-20}{410}{}
+{129}{E:}{}{1}{}{0}{}
 {200}{Sim, claro. O que gostaria que eu fizesse?}{Sim, claro. O que gostaria que eu fizesse?}{}{23}{}{}
 {201}{Saia do caminho, Virgil.}{}{5}{}{0}{so}
 {202}{Saia daqui. Tá perto demais!}{}{-4}{}{0}{so}

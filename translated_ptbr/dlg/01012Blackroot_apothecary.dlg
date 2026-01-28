@@ -5,7 +5,7 @@
 {6}{Meu nome é Grunwalde.}{Meu nome é Grunwalde.}{}{}{}{lf6 1}
 {7}{Olá, Grunwalde. Posso falar com você um momento?}{}{5}{}{10}{}
 {8}{E:}{}{5}{}{0}{}
-{10}{Certamente...}{Com certeza...}{}{}{}{}
+{10}{Com certeza...}{Com certeza...}{}{}{}{}
 {11}{O que você faz aqui, Grunwalde?}{}{5}{}{23}{}
 {12}{Estou interessado em comprar algum veneno.}{}{5}{qu 1007 2, lf5 0, lf1 0, lf2 0, lf3 0}{32}{lf8 1}
 {13}{Voltei para comprar o veneno.}{}{5}{lf4 1, lf1 1, lf5 0}{63}{}
@@ -45,8 +45,8 @@
 {51}{Quem falou em vender? Eu vou PEGAR o que quero...}{}{5}{}{88}{re -10}
 {52}{E:}{}{5}{}{0}{}
 {54}{100 moedas de ouro. Nem mais, nem menos.}{100 moedas de ouro. Nem mais, nem menos.}{}{}{}{}
-{55}{Parece bom.}{}{5}{$$100, ha -6}{63}{lf1 1}
-{56}{Parece bom.}{}{5}{$$-99, ha -6}{115}{lf1 1}
+{55}{Parece bom.}{}{5}{$$100, ha -9}{63}{lf1 1}
+{56}{Parece bom.}{}{5}{$$-99, ha -9}{115}{lf1 1}
 {58}{Que tal 75?}{}{5}{ha 10, ha -14}{68}{lf2 1}
 {60}{Acho que 50 parece mais apropriado.}{}{5}{ha 15}{68}{lf3 1}
 {61}{E:}{}{5}{}{0}{}
@@ -62,7 +62,7 @@
 {74}{O veneno é seu. Boa sorte com esses "ratos".}{O veneno é seu. Boa sorte com esses "ratos".}{}{}{}{in -3611, lf5 1}
 {75}{Obrigado e tenha um bom dia.}{}{5}{}{0}{}
 {79}{Receio que isso não seja aceitável. Sigilo e veneno raramente combinam.}{Receio que isso não seja aceitável. Sigilo e veneno raramente combinam.}{}{}{}{}
-{80}{Nem minha lâmina e suas entranhas vão combinar. Entregue logo.}{}{5}{}{88}{}
+{80}{Nem minha lâmina nem suas entranhas ficarão satisfeitas. Entregue isso.}{}{5}{}{88}{}
 {81}{Se precisa saber, eu tenho um problema com... er... RATOS...}{}{5}{}{43}{}
 {82}{E:}{}{5}{}{0}{}
 {83}{Seu silêncio não vai te levar a lugar nenhum. Talvez você deva ir embora.}{Seu silêncio não vai te levar a lugar nenhum. Talvez você deva ir embora.}{}{}{}{}
@@ -71,21 +71,21 @@
 {86}{K:}{}{5}{}{10}{}
 {87}{E:}{}{5}{}{0}{}
 {88}{Eu não faria isso, meu amigo. Minha lâmina está envenenada, e você provavelmente não sobreviveria à sua mordida.}{Eu não faria isso, meu amigo. Minha lâmina está envenenada, e você provavelmente não sobreviveria à sua mordida.}{}{}{}{}
-{89}{Por favor. Me dói ouvir alegações tão vazias.}{}{5}{}{}{co, fl 80}
+{89}{Por favor. Me dói ouvir alegações tão vazias.}{}{5}{}{}{co, fl 93}
 {90}{Vejo que você não é alguém com quem se brincar. Podemos continuar?}{}{5}{}{95}{}
 {91}{K:}{}{5}{}{10}{}
 {92}{E:}{}{5}{}{0}{}
 {93}{Que pena. Parece que você será o próximo exemplo da eficiência do meu veneno...}{Que pena. Parece que você será o próximo exemplo da eficiência do meu veneno...}{}{}{}{}
 {95}{Suponho que sim. Agora, qual exatamente é a natureza do seu problema?}{Suponho que sim. Agora, qual exatamente é a natureza do seu problema?}{}{}{}{}
 {96}{Tudo certo. Preciso cuidar de alguns... ah, orcs.}{}{5}{lf8 1}{49}{}
-{97}{Já que você é o meu problema, a natureza é covarde.}{}{5}{}{}{co, fl 80}
+{97}{Já que você é o meu problema, a natureza é covarde.}{}{5}{}{}{co, fl 93}
 {98}{K:}{}{5}{}{10}{}
 {99}{E:}{}{5}{}{0}{}
 {100}{Posso ser de mais alguma ajuda?}{Posso ser de mais alguma ajuda?}{}{}{}{}
 {101}{K:}{}{5}{}{10}{}
 {102}{E:}{}{5}{}{0}{}
 {105}{Ladrões! Você está louco? Tem alguma ideia do que ladrões poderiam fazer se colocassem as mãos nos meus venenos?}{Ladrões! Você está louco? Tem alguma ideia do que ladrões poderiam fazer se colocassem as mãos nos meus venenos?}{}{}{}{}
-{106}{Naturalmente. Exatamente o que estou planejando fazer com você.}{}{5}{}{}{co, fl 88}
+{106}{Naturalmente. Exatamente o que estou planejando fazer com você.}{}{5}{}{}{co, fl 93}
 {107}{Eu estava apenas brincando. Na verdade, tenho um problema com... er... RATOS.}{}{5}{}{43}{}
 {108}{E:}{}{5}{}{0}{}
 {110}{Parece uma caça pequena para os venenos que eu crio. Talvez você precise procurar em outro lugar.}{Parece uma caça pequena para os venenos que eu crio. Talvez você precise procurar em outro lugar.}{}{}{}{}
@@ -97,7 +97,7 @@
 {120}{G:}{G:}{}{}{}{}
 {121}{Hã...}{}{-4}{}{}{}
 {125}{Ah, que vergonha. Um simplório entrou na minha loja. Tome... aqui estão 5 moedas. [Ele as entrega a você.] Os deuses favorecem aqueles que são misericordiosos com os de sua espécie.}{Ah, que vergonha. Um simplório entrou na minha loja. Tome... aqui estão 5 moedas. [Ele as entrega a você.] Os deuses favorecem aqueles que são misericordiosos com os de sua espécie.}{}{}{}{$$5}
-{126}{Uh? Eu não simplório! Eu esmagar seu crânio!}{}{-4}{}{}{co, fl 80}
+{126}{Uh? Eu não simplório! Eu esmagar seu crânio!}{}{-4}{}{}{co, fl 93}
 {127}{E:}{}{-4}{}{0}{lf7 1}
-{130}{Boa sorte para você. Que os deuses tenham misericórdia da sua alma miserável...}{Boa sorte para você. Que os deuses tenham misericórdia de sua alma miserável...}{}{}{}{}
+{130}{Boa sorte para você. Que os deuses tenham misericórdia de sua alma miserável...}{Boa sorte para você. Que os deuses tenham misericórdia de sua alma miserável...}{}{}{}{}
 

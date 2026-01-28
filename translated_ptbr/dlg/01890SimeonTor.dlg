@@ -15,18 +15,18 @@
 {41}{Certo, quem foi esse Pelojian?}{}{5}{}{50}{}
 {43}{Não há outra maneira? O tempo é essencial.}{}{5}{}{170}{}
 {49}{Não tenho tempo para isso. Encontrarei minhas próprias respostas.}{}{5}{}{370}{lf2 1}
-{50}{[Ele se vira de você, talvez admirando um de seus portais místicos.] Pelojian. Clarividente. Artista. Poeta. Fundador de Tulla.}{[Ele se vira de você, talvez admirando um de seus portais místicos.] Pelojian. Clarividente. Artista. Poeta. Fundador de Tulla.}{}{6}{}{lf3 1, ru2156}
-{51}{O que pode me dizer sobre sua arte?}{}{5}{ru-2200}{60}{}
-{52}{O que pode me dizer sobre sua poesia?}{}{5}{ru-2201}{90}{}
+{50}{[Ele se vira de costas para você, talvez admirando um de seus portais místicos.] Pelojian. Vidente. Artista. Poeta. Fundador de Tulla. E acima de tudo, mestre da invocação. Ouvir histórias sobre ele na minha juventude é o que me levou à invocação, na verdade.}{[Ele se vira de costas para você, talvez admirando um de seus portais místicos.] Pelojian. Vidente. Artista. Poeta. Fundador de Tulla. E acima de tudo, mestre da invocação. Ouvir histórias sobre ele na minha juventude é o que me levou à invocação, na verdade.}{}{6}{}{lf3 1, ru2156}
+{51}{O que pode me contar sobre a arte dele?}{}{5}{ru-2200}{60}{}
+{52}{O que você pode me contar sobre a poesia dele?}{}{5}{ru-2201}{90}{}
 {53}{Ele era clarividente?}{}{5}{ru-2202}{120}{}
 {54}{Ele foi o fundador de Tulla?}{}{5}{lf20 0}{150}{}
 {55}{Não há outra maneira? O tempo é essencial.}{}{5}{}{170}{}
 {59}{Isso é fascinante, mas preciso seguir meu caminho.}{}{1}{}{370}{}
-{60}{Ele era um artista de grande talento. Dizem que suas pinturas ajudam aqueles que meditam sobre elas a se aproximarem da unidade. Em minha opinião, sua melhor obra é o apropriadamente chamado Mural da Iluminação.}{Ele era um artista de grande talento. Dizem que suas pinturas ajudam aqueles que meditam sobre elas a se aproximarem da unidade. Em minha opinião, sua melhor obra é o apropriadamente chamado Mural do Esclarecimento.}{}{7}{}{ru2200}
+{60}{Ele era um artista de grande talento. Dizem que suas pinturas ajudam aqueles que meditam sobre elas a se aproximarem da unidade. Em minha opinião, sua melhor obra é o apropriadamente chamado Mural do Esclarecimento.}{Ele era um artista de grande talento. Dizem que suas pinturas ajudam aqueles que meditam sobre elas a se aproximarem da unidade. Em minha opinião, sua melhor obra é o apropriadamente chamado Mural do Esclarecimento.}{}{7}{}{ru2200}
 {61}{Jorian me mandou ver esse mural antes de me deixar entrar aqui.}{}{5}{}{70}{}
 {70}{Sério? Isso é interessante.}{Sério? Isso é interessante.}{}{8}{}{}
 {71}{Quem é esse tal de Jorian, afinal?}{}{5}{}{260}{lf4 1}
-{72}{O que o mural deveria representar?}{}{5}{}{80}{lf5 1}
+{72}{O que esse mural pretende representar?}{}{5}{}{80}{lf5 1}
 {80}{Ninguém sabe, de verdade. Acredita-se que o maior símbolo possa representar uma faculdade perdida de magia, mas ninguém pode afirmar com certeza.}{Ninguém sabe, de verdade. Acredita-se que o maior símbolo possa representar uma faculdade perdida de magia, mas ninguém pode afirmar com certeza.}{}{9}{}{ru2203}
 {81}{O que você pode me contar sobre a poesia dele?}{}{5}{ru-2201}{90}{}
 {82}{Você mencionou que ele era clarividente?}{}{5}{ru-2202}{120}{}
@@ -39,7 +39,7 @@
 {100}{Talvez, talvez.}{Talvez, talvez.}{}{11}{}{}
 {101}{Preciso de algum tipo de pista para continuar. Por onde começo a procurar?}{}{5}{}{110}{}
 {110}{Não é assim que as coisas funcionam. O caminho é seu para trilhar, de mais ninguém.}{Não é assim que as coisas funcionam. O caminho é seu para trilhar, de mais ninguém.}{}{12}{}{}
-{111}{O que você pode me contar sobre a arte dele?}{}{5}{ru-2200}{60}{}
+{111}{O que pode me contar sobre a arte dele?}{}{5}{ru-2200}{60}{}
 {112}{Você mencionou que ele era clarividente?}{}{5}{ru-2202}{120}{}
 {113}{Você disse que ele foi o fundador de Tulla?}{}{5}{lf20 0}{150}{}
 {114}{Isso é fascinante, mas o que devo fazer agora?}{}{5}{}{300}{}
@@ -91,7 +91,7 @@
 {220}{Isso é interessante.}{Isso é interessante.}{}{24}{}{}
 {221}{Interessante? Não é um pouco eufemismo?}{}{5}{}{230}{}
 {222}{Certo... então pode me dizer onde posso falar com Pelojian?}{}{5}{}{20}{}
-{230}{É intrigante, eu admito. Mas só posso supor que ele tem seus motivos para permanecer escondido todos esses anos. Quem seria eu para questionar os motivos do grande Nasrudin? Se ele conseguiu se manter vivo por dois mil anos, sou apenas um mosquito comparado a ele. Se estiver disposto, porém... ficaria grato se compartilhasse sua história comigo.}{É intrigante, eu admito. Mas só posso supor que ele tem seus motivos para permanecer escondido todos esses anos. Quem seria eu para questionar os motivos do grande Nasrudin? Se ele conseguiu se manter vivo por dois mil anos, sou apenas um mosquito comparado a ele. Se estiver disposto, porém... ficaria grato se compartilhasse sua história comigo.}{}{25}{}{}
+{230}{É intrigante, devo admitir. Mas só posso presumir que ele tenha seus motivos para permanecer escondido todos esses anos. Quem seria eu para questionar as motivações do grande Nasrudin? Se ele conseguiu se manter vivo por dois mil anos, sou apenas um mosquito em comparação a ele. Se estiver disposto, porém... ficaria grato se compartilhasse sua história comigo.}{É intrigante, devo admitir. Mas só posso presumir que ele tenha seus motivos para permanecer escondido todos esses anos. Quem seria eu para questionar as motivações do grande Nasrudin? Se ele conseguiu se manter vivo por dois mil anos, sou apenas um mosquito em comparação a ele. Se estiver disposto, porém... ficaria grato se compartilhasse sua história comigo.}{}{25}{}{}
 {231}{[Conte a ele sua história.]}{}{5}{}{362}{}
 {240}{Pelojia... espera, você é um idiota. Como isso é possível? Como pode ser um idiota?}{Pelojia... espera, você é um idiota. Como isso é possível? Como pode ser um idiota?}{}{26}{}{}
 {241}{Eu não idiota.}{}{-4}{}{250}{}
@@ -147,8 +147,8 @@
 {373}{Chega de seus chavões vazios. Tenha um bom dia, senhor.}{}{5}{pa6577, pa-6591}{410}{}
 {374}{Chega de seus chavões vazios. Tenha um bom dia, senhor.}{}{5}{pa-6577, pa-6591}{0}{}
 {375}{Tenha um bom dia, então.}{}{5}{pa6577, pa6591}{390}{}
-{376}{Tenha um bom dia, então.}{}{5}{pa-6577, pa6591}{0}{}
-{377}{Tenha um bom dia, então.}{}{5}{pa6577, pa-6591}{410}{fl 400}
+{376}{Tenha um bom dia, então.}{}{5}{pa-6577, pa6591}{0}{fl 400}
+{377}{Tenha um bom dia, então.}{}{5}{pa6577, pa-6591}{410}{}
 {378}{Tenha um bom dia, então.}{}{5}{pa-6577, pa-6591}{0}{}
 {390}{Uma última coisa, se me permite... eu escolheria meus companheiros de viagem com um pouco mais de sabedoria, se fosse você. [Ele acena na direção de Geoffrey.] Não posso dizer que estou satisfeito em vê-lo, Sr. Tarrelond-Ashe. E Sr. Smythe - devo admitir que estou um pouco chocado em encontrá-lo viajando em tal companhia.}{Uma última coisa, se me permite... eu escolheria meus companheiros de viagem com um pouco mais de sabedoria, se fosse você. [Ele acena na direção de Geoffrey.] Não posso dizer que estou satisfeito em vê-lo, Sr. Tarrelond-Ashe. E Sr. Smythe - devo admitir que estou um pouco chocado em encontrá-lo viajando em tal companhia.}{}{42}{}{}
 {391}{Geoffrey, do que ele está falando?}{}{5}{}{-15}{}

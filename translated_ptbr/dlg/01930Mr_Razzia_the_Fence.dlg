@@ -7,7 +7,7 @@
 {7}{Você pode me treinar como Especialista em furtar bolsos?}{}{5}{rp1001, tr5 -1}{35}{et5 102}
 {8}{Você pode me treinar para ser um Especialista em Furtividade?}{}{5}{rp1001, tr6 -1}{35}{et6 114}
 {9}{Hmm... Tenho algo que você está procurando, @npcname@.}{}{5}{GF2386 1}{}{co, fl 126}
-{10}{Tenho algumas perguntas sobre um passaporte que você fez...}{}{5}{GF2410 1}{127}{}
+{10}{Tenho algumas perguntas sobre um passaporte que você fez...}{}{5}{GF2410 1, lf5 0}{127}{}
 {11}{Você pode me treinar como Especialista em ataque pelas costas?}{}{5}{rp1001, tr4 -1}{35}{et4 158}
 {13}{Hmm... Oi. Qual é o seu nome?}{}{-4}{lf1 0}{25}{}
 {14}{Hmm... Sr. Black... Eu tenho uma coisa que você talvez queira.}{}{-4}{re 41, lf1 1, rp1001}{43}{}
@@ -121,9 +121,9 @@
 {125}{E:}{}{1}{}{0}{}
 {126}{Assassino! Você vai morrer pelo que fez ao Sr. Black!}{Assassino! Você vai morrer pelo que fez ao Sr. Black!}{}{}{}{}
 {127}{Não sei do que está falando. Eu não "fabrico" passaportes... isso é contra a lei.}{Não sei do que está falando. Eu não "fabrico" passaportes... isso é contra a lei, madame.}{}{}{}{}
-{128}{O Sr. Preston Radcliffe discorda... [mostrar passaporte]}{}{5}{in5671}{132}{}
-{129}{Ora, Sr. Razzia... eu "sou" um dos seus...}{}{5}{rp1001, ni5671}{136}{}
-{130}{O nome Preston Radcliffe não lhe traz nenhuma lembrança?}{}{5}{ni5671}{154}{}
+{128}{O Sr. Preston Radcliffe discorda... [mostrar passaporte]}{}{5}{in5701}{132}{}
+{129}{Ora, Sr. Razzia... eu "sou" um dos seus...}{}{5}{rp1001, ni5701}{136}{}
+{130}{O nome Preston Radcliffe não lhe traz nenhuma lembrança?}{}{5}{ni5701}{154}{}
 {131}{E:}{}{1}{}{0}{}
 {132}{[olhando chocado... e um pouco assustado] Onde conseguiu isso?}{[olhando chocado... e um pouco assustado] Onde conseguiu isso?}{}{}{}{}
 {133}{Achei no corpo dele nos destroços do IFS Zéfiro.}{}{5}{}{136}{}
@@ -143,7 +143,7 @@
 {147}{Eles foram "insistentes" em que eu lhes desse informações sobre como chegar ao Zéfiro. Eu ri amargamente e disse que estavam loucos... O velho Maxim maluco tinha construído o Zéfiro em sua fábrica nos arredores da cidade, e era uma máquina única...}{Eles foram "insistentes" em que eu lhes desse informações sobre como chegar ao Zéfiro. Eu ri amargamente e disse que estavam loucos... O velho Maxim maluco tinha construído o Zéfiro em sua fábrica nos arredores da cidade, e era uma máquina única...}{}{}{}{}
 {148}{Você contou a eles onde ficava a fábrica?}{}{5}{}{150}{}
 {149}{E:}{}{1}{}{0}{}
-{150}{Não pensei nada a respeito. Todo mundo sabia onde ficava a fábrica do Maxim... Foi naquela mesma noite que ela foi incendiada. É tudo o que sei.}{Não pensei nada a respeito. Todo mundo sabia onde ficava a fábrica do Maxim... Foi naquela mesma noite que ela foi incendiada. É tudo o que sei.}{}{}{}{}
+{150}{Não pensei nada a respeito. Todo mundo sabia onde ficava a fábrica do Maxim... Foi naquela mesma noite que ela foi incendiada. É tudo o que sei.}{Não pensei nada a respeito. Todo mundo sabia onde ficava a fábrica do Maxim... Foi naquela mesma noite que ela foi incendiada. É tudo o que sei.}{}{}{}{lf5 1}
 {151}{Obrigado. Você foi muito prestativo.}{}{5}{}{0}{}
 {152}{Valeu.}{}{5}{}{0}{}
 {153}{E:}{}{1}{}{0}{}

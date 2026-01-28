@@ -21,11 +21,11 @@
 {27}{Obrigado pelo conselho. Posso fazer mais algumas perguntas?}{}{5}{}{42}{}
 {28}{Ninguém ouve conselhos de homens mortos...}{}{5}{}{}{co, fl 40}
 {29}{Tenha um bom dia, senhor...}{}{5}{}{0}{}
-{31}{[Ele parece aprovar sua reação.] Novo no Caldeirão, hein? Bom, não é um lugar agradável para ninguém, mas especialmente para estranhos. Eu recomendaria que você andasse com cuidado, forasteiro. Esse é um conselho de graça...}{[Ele parece aprovar sua reação.] Nova no Caldeirão, hein? Bom, não é um lugar agradável para ninguém, mas especialmente para estranhos. Eu recomendaria que você andasse com cuidado, forasteira. Esse é um conselho de graça...}{}{}{}{}
+{31}{[Ele parece aprovar sua reação.] Nova no Caldeirão, hein? Bom, não é um lugar agradável para ninguém, mas especialmente para estranhos. Eu recomendaria que você andasse com cuidado, forasteira. Esse é um conselho de graça...}{[Ele parece aprovar sua reação.] Nova no Caldeirão, hein? Bom, não é um lugar agradável para ninguém, mas especialmente para estranhos. Eu recomendaria que você andasse com cuidado, forasteira. Esse é um conselho de graça...}{}{}{}{}
 {32}{Obrigado pelo conselho. Posso fazer mais algumas perguntas?}{}{5}{}{42}{}
 {33}{E:}{}{5}{}{0}{}
 {35}{[O homem parece assustado, mas se levanta para você. Seus amigos largam suas bebidas.] Você acha que pode falar com um membro da gangue do Pollock desse jeito e sair impune, garoto? Não me importa o quão durão você parece... vou te pendurar em um mastro ensanguentado se continuar falando desse jeito!}{[O homem parece assustado, mas se levanta para você. Seus amigos largam as bebidas.] Você acha que pode falar assim com um membro da gangue do Pollock e sair impune, garota? Não me importa o quão durona você parece... Vou mandar pendurar seu traseiro num mastro ensanguentado, se continuar falando desse jeito!}{}{}{}{lf3 1}
-{36}{Minha língua às vezes se solta. Não foi minha intenção ofender...}{}{5}{}{31}{re +5}
+{36}{Minha língua às vezes se solta. Não foi por mal...}{}{5}{}{31}{re +5}
 {37}{Toda essa 'gangue do Pollock' é tão patética quanto vocês, seus otários?}{}{5}{}{}{co, fl 40}
 {38}{Talvez seja melhor eu voltar mais tarde...}{}{5}{}{0}{lf2 1}
 {40}{Erro, garoto. Erro grave...}{Erro, garota. Erro grave...}{}{}{}{}
@@ -67,12 +67,12 @@
 {89}{Minha língua às vezes se solta. Não foi por mal...}{}{5}{}{31}{lf2 0, lf1 1, re +5}
 {90}{Na verdade, voltei só para acabar com você, covarde...}{}{5}{}{}{co, fl 40}
 {91}{E:}{}{5}{}{0}{}
-{93}{[O homem olha para você, incrédulo.] Olha só isso aqui, pessoal! Temos um espertinho! Esse sujeito não tem nem três rodas numa carroça! HA HA HA! Nunca pensei que veria um idiota andando pelas ruas do Caldeirão!}{[O homem olha para você, incrédulo.] Olha só isso aqui, pessoal! Temos uma espertinha! Essa moça não tem nem três rodas numa carroça! HA HA HA! Nunca pensei que veria o dia em que uma idiota andaria pelas ruas do Caldeirão!}{}{}{}{}
+{93}{[O homem olha para você, incrédulo.]  Olha só isso aqui, companheiros!  Pegamos um espertinho de verdade!  Esse sujeito tá com três rodas a menos na carroça!  HA HA HA!  Nunca pensei que veria o dia em que um idiota andaria pelas ruas do Caldeirão!}{[O homem olha para você, incrédulo.] Olha só isso aqui, pessoal! Temos uma espertinha! Essa moça não tem nem três rodas numa carroça! HA HA HA! Nunca pensei que veria o dia em que uma idiota andaria pelas ruas do Caldeirão!}{}{}{}{}
 {94}{Hã... HAHAHAHA!!! Você é engraçado! Engraçado!}{}{-4}{}{100}{}
 {95}{Eu não gosto das suas palavras bobas. Eu vou matar você e seus amigos...}{}{-4}{}{}{co, fl 98}
 {96}{E:}{}{-4}{}{0}{}
 {98}{Isso é uma péssima ideia aqui no Caldeirão, garoto, tenha você um pingo de juízo ou não...}{Isso é uma péssima ideia aqui no Caldeirão, garota, tenha você um pingo de juízo ou não...}{}{}{}{}
-{100}{[Ele se dobra de tanto rir.] O garoto nem sabe que ELE é a piada! Não me ria tanto assim há anos... [Ele pousa sua cerveja, lágrimas escorrendo pelo rosto.] Você fez o meu dia, garoto. Não é todo dia que a gente encontra alguém com o crânio tão vazio!}{[Ele se dobra de tanto rir.] A garota nem sabe que ELA é a piada! Não me ria tanto assim há anos... [Ele pousa sua cerveja, lágrimas escorrendo pelo rosto.] Você fez o meu dia, garota. Não é todo dia que a gente encontra alguém com o crânio tão vazio!}{}{}{}{}
+{100}{[Ele se dobra de tanto rir.]  O garoto nem sabe que ELE é a piada!  Não me divertia tanto assim há anos...[Ele pousa sua cerveja, lágrimas escorrendo pelo rosto.]  Você fez meu dia, garoto.  Não é todo dia que a gente encontra alguém com o crânio vazio!}{[Ela se dobra de tanto rir.]  A garota nem sabe que ELA é a piada!  Não me divertia tanto assim há anos...[Ele pousa sua cerveja, lágrimas escorrendo pelo rosto.]  Você fez meu dia, garota.  Não é todo dia que a gente encontra alguém com o crânio vazio!}{}{}{}{}
 {101}{Então... você me ajuda?}{}{-4}{}{103}{lf5 1}
 {103}{[Ele seca os olhos, tomando um gole de cerveja em seguida.] Claro, garoto. Um sujeito como você precisa de toda a ajuda que puder conseguir. O que você quer?}{[Ele seca os olhos, tomando um gole de cerveja em seguida.] Claro, moça. Uma garota como você precisa de toda a ajuda que puder conseguir. O que você quer?}{}{}{}{}
 {104}{Tenho perguntas!}{}{-4}{}{106}{}

@@ -2,33 +2,33 @@
 {2}{Posso lhe fazer uma pergunta?}{}{5}{ me 0, re41, ss3}{21}{}
 {3}{Sinto muito por incomodá-lo, mas não pretendo causar mal...}{}{5}{re-40, ch-10}{568}{}
 {4}{Posso lhe fazer uma pergunta?}{}{5}{ me0, re41, ss-2}{47}{}
-{5}{Fale comigo assim de novo e eu arranco sua língua da boca.}{}{5}{re-40, sk2 12}{593}{re45}
+{5}{Fale comigo assim de novo e eu arranco sua língua.}{}{5}{re-40, sk2 12}{593}{re45}
 {6}{Não vejo necessidade para tanta grosseria.}{}{5}{re-40, ch11}{593}{re50}
 {7}{Olá. Posso lhe fazer uma pergunta?}{}{5}{ me 1, re41, ss3}{37}{}
 {8}{Não vejo necessidade para tanta grosseria.}{}{5}{re-40, ch-10, sk2 8, sk13 -7}{660}{re41}
 {9}{Posso lhe fazer uma pergunta?}{}{5}{ me1, re41, ss-2}{71}{}
 {10}{Não vejo necessidade para tanta grosseria.}{}{5}{re-40, ch-10,  sk13 8}{660}{re41}
 {11}{Eu pergunto uma coisa?}{}{-4}{ me 0, re41, ss3}{21}{}
-{12}{Hã... Eu pergunte uma coisa?}{}{-4}{me 0, re -40, ss3}{27}{re41}
-{13}{Hã... Eu pergunte uma coisa?}{}{-4}{me0, re41,  ss-2}{47}{}
-{14}{Hã... Eu pergunte uma coisa?}{}{-4}{ me0, re-40, ss-2}{55}{re41}
+{12}{Hã... Eu pergunto uma coisa?}{}{-4}{me 0, re -40, ss3}{27}{re41}
+{13}{Hã... Eu pergunto uma coisa?}{}{-4}{me0, re41,  ss-2}{47}{}
+{14}{Hã... Eu pergunto uma coisa?}{}{-4}{ me0, re-40, ss-2}{55}{re41}
 {15}{Hã... Eu quero gritar pelo Deespayer.}{}{-4}{ss5, ss-6}{}{fl 625}
-{16}{Hã... Eu pergunte uma coisa?}{}{-4}{me 1, re41, ss3}{37}{}
-{17}{Hã... Eu pergunte uma coisa?}{}{-4}{me 1, re-40, ss3}{42}{re41}
+{16}{Hã... Eu pergunto uma coisa?}{}{-4}{me 1, re41, ss3}{37}{}
+{17}{Hã... Eu pergunto uma coisa?}{}{-4}{me 1, re-40, ss3}{42}{re41}
 {18}{Hã... Posso te perguntar uma coisa?}{}{-4}{me1, re41, ss-2}{71}{}
-{19}{Hã... Eu pergunte uma coisa?}{}{-4}{me1, re-40, ss-2}{63}{re41}
+{19}{Hã... Eu pergunto uma coisa?}{}{-4}{me1, re-40, ss-2}{63}{re41}
 {20}{E:}{}{1}{}{0}{}
-{21}{O que posso fazer pelo senhor?}{O que posso fazer por você, madame?}{}{}{}{}
+{21}{Em que posso ajudá-lo, senhor?}{O que posso fazer por você, madame?}{}{}{}{}
 {22}{R:$0,1040-1049}{}{1}{}{33}{}
 {23}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{626}{}
-{24}{Eu quero ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
+{24}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
 {25}{C:}{}{1}{}{33}{}
 {26}{E:}{}{1}{}{0}{}
 {27}{O que é?}{O que é?}{}{}{}{}
 {28}{R:$0,1040-1049}{}{1}{}{33}{}
 {29}{C:}{}{1}{}{33}{}
 {30}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{626}{}
-{31}{Eu quero ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
+{31}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
 {32}{E:}{}{1}{}{0}{}
 {33}{Tem mais alguma coisa em que eu possa te ajudar?}{Tem mais alguma coisa em que eu possa te ajudar?}{}{}{}{}
 {34}{}{}{}{}{}{}
@@ -42,21 +42,21 @@
 {43}{R:$0,1040-1049}{}{1}{}{33}{}
 {45}{C:}{}{1}{}{33}{}
 {46}{E:}{}{1}{}{0}{}
-{47}{O que posso fazer pelo senhor?}{O que posso fazer por você, madame?}{}{}{}{}
+{47}{Em que posso ajudá-lo, senhor?}{O que posso fazer por você, madame?}{}{}{}{}
 {48}{R:$0,1040-1049}{}{1}{}{82}{}
 {49}{Como faço para chegar à Ilha do Desespero?}{}{5}{ss5, ss-6}{}{fl 625}
-{50}{Pode me indicar a propriedade de Gilbert Bates?}{}{5}{ss2, ss-2}{77}{}
-{51}{Eu procuro a casa do Bates?}{}{-4}{ss2, ss-2}{77}{}
+{50}{Você pode me indicar o caminho para a propriedade de Gilbert Bates?}{}{5}{ss2, ss-2}{77}{}
+{51}{Me procura casa de Bates?}{}{-4}{ss2, ss-2}{77}{}
 {52}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{626}{}
-{53}{Eu quero ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
+{53}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
 {54}{E:}{}{1}{}{0}{}
 {55}{O que é?}{O que é?}{}{}{}{}
 {56}{R:$0,1040-1049}{}{1}{}{82}{}
 {57}{Como faço para chegar à Ilha do Desespero?}{}{5}{ss5, ss-6}{}{fl 625}
-{58}{Pode me indicar a propriedade de Gilbert Bates?}{}{5}{ss2, ss-2}{77}{}
-{59}{Eu procuro a casa do Bates?}{}{-4}{ss2, ss-2}{77}{}
+{58}{Você pode me indicar o caminho para a propriedade de Gilbert Bates?}{}{5}{ss2, ss-2}{77}{}
+{59}{Me procura casa de Bates?}{}{-4}{ss2, ss-2}{77}{}
 {60}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{626}{}
-{61}{Eu quero ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
+{61}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
 {62}{E:}{}{1}{}{0}{}
 {63}{O que é?}{O que é?}{}{}{}{}
 {64}{R:$0,1040-1049}{}{1}{}{82}{}
@@ -64,7 +64,7 @@
 {66}{Você pode me indicar o caminho para a propriedade de Gilbert Bates?}{}{5}{ss2, ss-2}{77}{}
 {67}{Me procura casa de Bates?}{}{-4}{ss2, ss-2}{77}{}
 {68}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{626}{}
-{69}{Me quer ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
+{69}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
 {70}{E:}{}{1}{}{0}{}
 {71}{O que você precisa?}{O que você precisa?}{}{}{}{}
 {72}{R:$0,1040-1049}{}{1}{}{33}{}
@@ -94,7 +94,7 @@
 {98}{R:$0,1040-1049}{}{1}{}{33}{}
 {99}{Como faço para chegar à Ilha do Desespero?}{}{5}{ss5, ss-6}{}{fl 625}
 {100}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{626}{}
-{101}{Me quer ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
+{101}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
 {102}{Você pode me indicar o caminho para a propriedade de Gilbert Bates?}{}{5}{ ss2, ss-2}{77}{}
 {103}{Me procura casa de Bates?}{}{-4}{ ss2, ss-2}{77}{}
 {104}{C:}{}{1}{}{33}{}
@@ -104,12 +104,12 @@
 {108}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me 0, re -40}{123}{}
 {109}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me 1, re41}{136}{}
 {110}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me 1, re-40}{143}{}
-{111}{Hã... Oi. Mi pergunta uma coisa?}{}{-4}{me 0, re41}{116}{}
-{112}{Hã... Mi pergunta uma coisa?}{}{-4}{me 0, re -40}{123}{}
-{113}{Hã... Oi. Mi pergunta uma coisa?}{}{-4}{me 1, re41}{136}{}
-{114}{Hã... Mi pergunta uma coisa?}{}{-4}{me 1, re-40}{143}{}
+{111}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me 0, re41}{116}{}
+{112}{Hã... Eu pergunto uma coisa?}{}{-4}{me 0, re -40}{123}{}
+{113}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me 1, re41}{136}{}
+{114}{Hã... Eu pergunto uma coisa?}{}{-4}{me 1, re-40}{143}{}
 {115}{E:}{}{1}{}{0}{}
-{116}{Do que precisa, senhor?}{Do que precisa, senhora?}{}{}{}{}
+{116}{O que deseja, senhor?}{O que deseja, senhora?}{}{}{}{}
 {117}{O que tem ouvido ultimamente?}{}{5}{gf2751 0}{652}{}
 {118}{O que cê sabe sobre essas peças?}{}{-4}{gf2751 0}{652}{}
 {119}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{634}{}
@@ -128,13 +128,13 @@
 {133}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {134}{C:}{}{1}{}{130}{}
 {135}{E:}{}{1}{}{0}{}
-{136}{Ora, olá de novo, @pcname@. Em que posso ajudá-lo?}{Ora, olá de novo, @pcname@. Em que posso ajudá-lo?}{}{}{}{}
+{136}{Ora, olá novamente, @pcname@. O que posso fazer por você?}{Ora, olá novamente, @pcname@. O que posso fazer por você?}{}{}{}{}
 {137}{R:$0,1070-1080}{}{1}{}{130}{}
 {139}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{634}{}
 {140}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {141}{C:}{}{1}{}{130}{}
 {142}{E:}{}{1}{}{0}{}
-{143}{O que foi, @pcname@?}{O que foi, @pcname@?}{}{}{}{}
+{143}{O que é, @pcname@?}{O que é, @pcname@?}{}{}{}{}
 {144}{R:$0,1070-1080}{}{1}{}{130}{}
 {145}{I:}{}{1}{}{0}{re-2}
 {146}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{634}{}
@@ -145,7 +145,7 @@
 {151}{Posso falar com você por um momento?}{}{5}{me 0, re41, gf2342 1, lf11 1}{172}{}
 {152}{Por favor, só desejo algumas informações.}{}{5}{re -40}{533}{}
 {153}{Posso falar com você por um momento?}{}{5}{me0, re41, GF2342 0, lf11 0}{197}{}
-{154}{Não vejo necessidade para tamanha grosseria.}{}{5}{ re-40, sk2 4, ch-9, sk13 -3}{670}{re41}
+{154}{Não vejo necessidade para tanta grosseria.}{}{5}{ re-40, sk2 4, ch-9, sk13 -3}{670}{re41}
 {155}{Posso falar com você por um momento?}{}{5}{re41, GF2342 1,  lf11 0, ar-21}{230}{}
 {156}{Posso falar com você por um momento?}{}{5}{me 1, re41, gf2342 0, lf11 1}{187}{}
 {157}{Posso falar com você por um momento?}{}{5}{me 1, re41, gf2342 1, lf11 1, lf12 1}{187}{}
@@ -161,47 +161,47 @@
 {167}{Posso falar com você por um momento?}{}{5}{re41, GF2342 1,  lf11 0, ar21}{172}{}
 {168}{Não vejo necessidade para tanta grosseria.}{}{5}{ re-40, ch-9, sk13 4}{670}{re41}
 {171}{E:}{}{1}{}{0}{}
-{172}{O que posso fazer por você, senhor?}{O que posso fazer por você, madame?}{}{}{}{}
+{172}{Em que posso ajudá-lo, senhor?}{O que posso fazer por você, madame?}{}{}{}{}
 {173}{R:$0, 1020-1033}{}{1}{}{182}{}
-{174}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1}{650}{}
-{175}{Me quer ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
+{174}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1, ar-5}{650}{}
+{175}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {176}{E:}{}{1}{}{0}{}
 {177}{O que é?}{O que é?}{}{}{}{}
 {178}{R:$0, 1020-1033}{}{1}{}{182}{}
-{179}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1}{650}{}
-{180}{Me quer ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
+{179}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1, ar-5}{650}{}
+{180}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {181}{E:}{}{1}{}{0}{}
 {182}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{}
-{184}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1}{650}{}
-{185}{Me quer ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
+{184}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1, ar-5}{650}{}
+{185}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {186}{E:}{}{1}{}{0}{}
 {187}{Do que precisa?}{Olá, de novo. O que você precisa?}{}{}{}{}
 {188}{R:$0, 1020-1033}{}{1}{}{182}{}
-{189}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1}{650}{}
-{190}{Me quer ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
+{189}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1, ar-5}{650}{}
+{190}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {191}{E:}{}{1}{}{0}{}
 {192}{O que é?}{O que é?}{}{}{}{}
 {193}{R:$0, 1020-1033}{}{1}{}{182}{}
-{194}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1}{650}{}
-{195}{Me quer ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
+{194}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1, ar-5}{650}{}
+{195}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {196}{E:}{}{1}{}{0}{}
-{197}{O que posso fazer por você, senhor?}{O que posso fazer por você, madame?}{}{}{}{}
+{197}{Em que posso ajudá-lo, senhor?}{O que posso fazer por você, madame?}{}{}{}{}
 {198}{R:$0, 1020-1033}{}{1}{}{182}{}
-{199}{Poderia me dizer como aconteceu o acidente com o dirigível?}{}{5}{gf2578 1}{650}{}
-{200}{Me quer ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
-{201}{Aconteceu um terrível acidente com um dirigível lá nas colinas.}{}{5}{}{226}{}
-{202}{Dirigível ruim caiu! Hã... Lá no morro!}{}{-4}{}{226}{}
+{199}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1, ar-5}{650}{}
+{200}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
+{201}{Aconteceu o mais terrível acidente com um dirigível lá nas colinas.}{}{5}{}{226}{}
+{202}{Dirigível ruim bateu! Uh... Lá na colina!}{}{-4}{}{226}{}
 {203}{E:}{}{1}{}{0}{}
 {204}{O que é?}{O que é?}{}{}{}{}
 {205}{R:$0, 1020-1033}{}{1}{}{182}{}
-{206}{Você poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1}{650}{}
+{206}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1, ar-5}{650}{}
 {207}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {208}{Aconteceu o mais terrível acidente com um dirigível lá nas colinas.}{}{5}{}{226}{}
 {209}{Dirigível ruim bateu! Uh... Lá na colina!}{}{-4}{}{226}{}
 {210}{E:}{}{1}{}{0}{}
 {211}{O que é?}{O que é?}{}{}{}{}
 {212}{R:$0, 1020-1033}{}{1}{}{182}{}
-{213}{Você poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1}{650}{}
+{213}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1, ar-5}{650}{}
 {214}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {215}{Aconteceu o mais terrível acidente com um dirigível lá nas colinas.}{}{5}{}{226}{}
 {216}{Dirigível ruim bateu! Uh... Lá na colina!}{}{-4}{}{226}{}
@@ -210,81 +210,81 @@
 {219}{R:$0, 1020-1033}{}{1}{}{182}{}
 {221}{Aconteceu o mais terrível acidente com um dirigível lá nas colinas.}{}{5}{}{226}{}
 {222}{Dirigível ruim bateu! Uh... Lá na colina!}{}{-4}{}{226}{}
-{223}{Você poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1}{650}{}
+{223}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1, ar-5}{650}{}
 {224}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {225}{E:}{}{1}{}{0}{}
 {226}{Isso é realmente preocupante. Você deveria informar o Delegado imediatamente.}{Isso é realmente preocupante. Você deveria informar o Delegado imediatamente.}{}{}{}{lf11 1}
 {227}{Talvez eu faça isso.}{}{5}{}{182}{}
 {228}{Uhm... uhhh... urgh... hee, hee. Uh, tá bom?}{}{-4}{}{182}{}
 {229}{E:}{}{1}{}{0}{}
-{230}{O que posso fazer por você, senhor?}{O que posso fazer por você, madame?}{}{}{}{}
+{230}{Em que posso ajudá-lo, senhor?}{O que posso fazer por você, madame?}{}{}{}{}
 {231}{R:$0, 1020-1033}{}{1}{}{182}{}
 {233}{Pode me contar algo sobre este anel?}{}{5}{lf12 0}{262}{}
 {234}{Você sabe alguma coisa sobre esse anel?}{}{-4}{lf12 0}{262}{}
-{235}{Você poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1}{650}{}
+{235}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1, ar-5}{650}{}
 {236}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {237}{E:}{}{1}{}{0}{}
 {238}{O que é?}{O que é?}{}{}{}{}
 {239}{R:$0, 1020-1033}{}{1}{}{182}{}
 {241}{Pode me contar algo sobre este anel?}{}{5}{}{262}{}
 {242}{Você sabe alguma coisa sobre esse anel?}{}{-4}{}{262}{}
-{243}{Você poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1}{650}{}
+{243}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1, ar-5}{650}{}
 {244}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {245}{E:}{}{1}{}{0}{}
 {246}{O que é?}{O que é?}{}{}{}{}
 {247}{R:$0, 1020-1033}{}{1}{}{182}{}
 {249}{Pode me contar algo sobre este anel?}{}{5}{}{262}{}
 {250}{Você sabe alguma coisa sobre esse anel?}{}{-4}{}{262}{}
-{251}{Você poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1}{650}{}
+{251}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1, ar-5}{650}{}
 {252}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {253}{E:}{}{1}{}{0}{}
 {254}{Olá, de novo. O que você precisa?}{Olá de novo @pcname@. O que você precisa?}{}{}{}{}
 {255}{R:$0, 1020-1033}{}{1}{}{182}{}
 {257}{Pode me contar algo sobre este anel?}{}{5}{}{262}{}
 {258}{Você sabe alguma coisa sobre esse anel?}{}{-4}{}{262}{}
-{259}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1}{650}{}
-{260}{Eu quero ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
+{259}{Poderia me dizer como chegar a Dernholm?}{}{5}{gf2578 1, ar-5}{650}{}
+{260}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {261}{E:}{}{1}{}{0}{}
 {262}{Hmmm. Uma peça bonita... Embora eu não seja a melhor pessoa pra perguntar. Você poderia tentar o Ristezze, o Importador... ele com certeza sabe de alguma coisa.}{Hmmm. Uma peça bonita... Embora eu não seja a melhor pessoa pra perguntar. Você poderia tentar o Ristezze, o Importador... ele com certeza sabe de alguma coisa.}{}{}{}{lf12 1}
 {263}{R:$0, 1020-1033}{}{1}{}{182}{}
 {265}{E:}{}{1}{}{0}{}
 {266}{G:}{G:}{}{}{}{}
-{267}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me 0, re41, lf13 1}{284}{}
-{268}{Isso foi meio grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me 0, re -40, lf13 1}{291}{}
-{269}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me0, re41, ss13, ss-13, lf13 0}{318}{}
-{270}{Isso foi meio grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me0, re-40, ss13, ss-13, lf13 0}{326}{}
-{271}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me 1, re41, lf13 1}{304}{}
-{272}{Isso foi meio grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me 1, re-40, lf13 1}{311}{}
-{273}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me1, re41, ss13, ss-13, lf13 0}{342}{}
-{274}{Isso foi meio grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me1, re-40, ss13, ss-13, lf13 0}{334}{}
-{275}{Hã... Oi. Posso te perguntar uma coisa?}{}{-4}{me 0, re41, lf13 1}{284}{}
-{276}{Hã... Posso te perguntar uma coisa?}{}{-4}{me 0, re -40, lf13 1}{291}{}
-{277}{Hã... Oi. Posso te perguntar uma coisa?}{}{-4}{me0, re41, ss13, ss-13, lf13 0}{318}{}
-{278}{Hã... Posso te perguntar uma coisa?}{}{-4}{me0, re-40, ss13, ss-13, lf13 0}{326}{}
-{279}{Hã... Oi. Posso te perguntar uma coisa?}{}{-4}{me 1, re41, lf13 1}{304}{}
-{280}{Hã... Posso te perguntar uma coisa?}{}{-4}{me 1, re-40, lf13 1}{311}{}
-{281}{Hã... Oi. Posso te perguntar uma coisa?}{}{-4}{me1, re41, ss13, ss-13, lf13 0}{342}{}
-{282}{Hã... Posso te perguntar uma coisa?}{}{-4}{me1, re-40, ss13, ss-13, lf13 0}{334}{}
+{267}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me 0, re41, ss14}{284}{}
+{268}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me 0, re -40, ss14}{291}{}
+{269}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me0, re41, ss13, ss-13}{318}{}
+{270}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me0, re-40, ss13, ss-13}{326}{}
+{271}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me 1, re41, ss14}{304}{}
+{272}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me 1, re-40, ss14}{311}{}
+{273}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me1, re41, ss13, ss-13}{342}{}
+{274}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me1, re-40, ss13, ss-13}{334}{}
+{275}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me 0, re41, ss14}{284}{}
+{276}{Hã... Eu pergunto uma coisa?}{}{-4}{me 0, re -40, ss14}{291}{}
+{277}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me0, re41, ss13, ss-13}{318}{}
+{278}{Hã... Eu pergunto uma coisa?}{}{-4}{me0, re-40, ss13, ss-13}{326}{}
+{279}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me 1, re41, ss14}{304}{}
+{280}{Hã... Eu pergunto uma coisa?}{}{-4}{me 1, re-40, ss14}{311}{}
+{281}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me1, re41, ss13, ss-13}{342}{}
+{282}{Hã... Eu pergunto uma coisa?}{}{-4}{me1, re-40, ss13, ss-13}{334}{}
 {283}{E:}{}{1}{}{0}{}
 {284}{Em que posso ajudá-lo, senhor?}{O que posso fazer por você, madame?}{}{}{}{}
 {285}{R:$0, 1155-1165}{}{1}{}{298}{}
 {287}{C:}{}{1}{}{298}{}
-{288}{Como faço pra chegar em Qintarra?}{}{5}{ss8, ss-8}{626}{}
-{289}{Eu quero ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
+{288}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{626}{}
+{289}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
 {290}{E:}{}{1}{}{0}{}
 {291}{O que é?}{O que é?}{}{}{}{}
 {292}{R:$0, 1155-1165}{}{1}{}{298}{}
 {293}{C:}{}{1}{}{298}{}
 {294}{I:}{}{1}{}{0}{re-2}
-{295}{Como faço pra chegar em Qintarra?}{}{5}{ss8, ss-8}{626}{}
-{296}{Eu quero ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
+{295}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{626}{}
+{296}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
 {297}{E:}{}{1}{}{0}{}
 {298}{Tem mais alguma coisa em que eu possa te ajudar?}{Tem mais alguma coisa em que eu possa te ajudar?}{}{}{}{}
 {300}{C:}{}{1}{}{298}{}
-{301}{Como faço pra chegar em Qintarra?}{}{5}{ss8, ss-8}{626}{}
-{302}{Eu quero ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
+{301}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{626}{}
+{302}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
 {303}{E:}{}{1}{}{0}{}
-{304}{Ora, olá de novo @pcname@. Espero que esteja bem. O que precisa?}{Ora, olá de novo @pcname@. Espero que esteja bem. O que precisa?}{}{}{}{}
+{304}{Ora, olá de novo, @pcname@. Espero que esteja bem. Em que precisa?}{Ora, olá de novo, @pcname@. Espero que esteja bem. Em que precisa?}{}{}{}{}
 {305}{R:$0, 1155-1165}{}{1}{}{298}{}
 {306}{A:}{}{1}{}{298}{re+2}
 {307}{C:}{}{1}{}{298}{}
@@ -301,7 +301,7 @@
 {318}{Em que posso ajudá-lo, senhor?}{O que posso fazer por você, madame?}{}{}{}{}
 {319}{R:$0, 1155-1165}{}{1}{}{355}{}
 {321}{Poderia me indicar a casa de Victor Misk?}{}{5}{ss12, ss-13}{350}{}
-{322}{Mi tá procurando a casa do Misk?}{}{-4}{ss12, ss-13}{350}{}
+{322}{Eu procuro a casa do Misk?}{}{-4}{ss12, ss-13}{350}{}
 {323}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{626}{}
 {324}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
 {325}{E:}{}{1}{}{0}{}
@@ -309,7 +309,7 @@
 {327}{R:$0, 1155-1165}{}{1}{}{355}{}
 {328}{I:}{}{1}{}{0}{re-2}
 {329}{Poderia me indicar a casa de Victor Misk?}{}{5}{ss12, ss-13}{350}{}
-{330}{Mi tá procurando a casa do Misk?}{}{-4}{ss12, ss-13}{350}{}
+{330}{Eu procuro a casa do Misk?}{}{-4}{ss12, ss-13}{350}{}
 {331}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{626}{}
 {332}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
 {333}{E:}{}{1}{}{0}{}
@@ -317,7 +317,7 @@
 {335}{R:$0, 1155-1165}{}{1}{}{355}{}
 {336}{I:}{}{1}{}{0}{re-2}
 {337}{Poderia me indicar a casa de Victor Misk?}{}{5}{ss12, ss-13}{350}{}
-{338}{Mi tá procurando a casa do Misk?}{}{-4}{ss12, ss-13}{350}{}
+{338}{Eu procuro a casa do Misk?}{}{-4}{ss12, ss-13}{350}{}
 {339}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{626}{}
 {340}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
 {341}{E:}{}{1}{}{0}{}
@@ -325,11 +325,11 @@
 {343}{R:$0, 1155-1165}{}{1}{}{298}{}
 {344}{C:}{}{1}{}{298}{re+2}
 {345}{Poderia me indicar a casa de Victor Misk?}{}{5}{ss12, ss-13}{350}{}
-{346}{Mi tá procurando a casa do Misk?}{}{-4}{ss12, ss-13}{350}{}
+{346}{Eu procuro a casa do Misk?}{}{-4}{ss12, ss-13}{350}{}
 {347}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{626}{}
 {348}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
 {349}{E:}{}{1}{}{0}{}
-{350}{Ah. A residência dos Misk fica no número 9 da Alameda Lobo Cinzento.}{Ah. A residência dos Misk fica no número 9 da Alameda Lobo Cinzento.}{}{}{}{lf13 1}
+{350}{Ah. A residência dos Misk fica no número 9 da Alameda Lobo Cinzento.}{Ah. A residência dos Misk fica no número 9 da Alameda Lobo Cinzento.}{}{}{}{}
 {351}{R:$0, 1155-1165}{}{1}{}{298}{}
 {352}{A:}{}{1}{}{298}{re+2}
 {353}{C:}{}{1}{}{298}{}
@@ -338,7 +338,7 @@
 {357}{Poderia me indicar a casa de Victor Misk?}{}{5}{ss12, ss-13}{350}{}
 {358}{Eu procuro a casa do Misk?}{}{-4}{ss12, ss-13}{350}{}
 {359}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{626}{}
-{360}{Eu quero ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
+{360}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{626}{}
 {361}{E:}{}{1}{}{0}{}
 {362}{G:}{G:}{}{}{}{}
 {363}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me 0, re41}{372}{}
@@ -350,45 +350,45 @@
 {369}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me 1, re41}{389}{}
 {370}{Hã... Eu pergunto uma coisa?}{}{-4}{me 1, re-40}{395}{}
 {371}{E:}{}{1}{}{0}{}
-{372}{Do que precisa, senhor?}{Do que precisa, senhora?}{}{}{}{}
+{372}{O que deseja, senhor?}{O que deseja, senhora?}{}{}{}{}
 {374}{C:}{}{1}{}{384}{}
 {375}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{634}{}
-{376}{Eu quero ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
+{376}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {377}{E:}{}{1}{}{0}{}
 {378}{O que é?}{O que é?}{}{}{}{}
 {379}{I:}{}{1}{}{0}{re-2}
 {380}{C:}{}{1}{}{384}{}
 {381}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{634}{}
-{382}{Eu quero ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
+{382}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {383}{E:}{}{1}{}{0}{}
 {384}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{}
 {385}{C:}{}{1}{}{384}{}
 {386}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{634}{}
-{387}{Eu quero ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
+{387}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {388}{E:}{}{1}{}{0}{}
-{389}{Ora, olá de novo @pcname@. Em que posso ajudá-lo?}{Ora, olá de novo @pcname@. Em que posso ajudá-lo?}{}{}{}{}
+{389}{Ora, olá novamente, @pcname@. O que posso fazer por você?}{Ora, olá novamente, @pcname@. O que posso fazer por você?}{}{}{}{}
 {390}{A:}{}{1}{}{384}{re+2}
 {391}{C:}{}{1}{}{384}{}
 {392}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{634}{}
-{393}{Eu quero ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
+{393}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {394}{E:}{}{1}{}{0}{}
-{395}{O que foi, @pcname@?}{O que foi, @pcname@?}{}{}{}{}
+{395}{O que é, @pcname@?}{O que é, @pcname@?}{}{}{}{}
 {396}{I:}{}{1}{}{0}{re-2}
 {397}{C:}{}{1}{}{384}{}
 {398}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{634}{}
-{399}{Eu quero ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
+{399}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {400}{E:}{}{1}{}{0}{}
 {401}{G:}{G:}{}{}{}{}
 {402}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me 0, re41}{411}{}
 {403}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me 0, re -40}{418}{}
 {404}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me 1, re41}{431}{}
 {405}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me 1, re-40}{438}{}
-{406}{Hã... Oi. Mi pergunta uma coisa?}{}{-4}{me 0, re41}{411}{}
-{407}{Hã... Mi pergunta uma coisa?}{}{-4}{me 0, re -40}{418}{}
-{408}{Hã... Oi. Mi pergunta uma coisa?}{}{-4}{me 1, re41}{431}{}
-{409}{Hã... Mi pergunta uma coisa?}{}{-4}{me 1, re-40}{438}{}
+{406}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me 0, re41}{411}{}
+{407}{Hã... Eu pergunto uma coisa?}{}{-4}{me 0, re -40}{418}{}
+{408}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me 1, re41}{431}{}
+{409}{Hã... Eu pergunto uma coisa?}{}{-4}{me 1, re-40}{438}{}
 {410}{E:}{}{1}{}{0}{}
-{411}{Do que precisa, senhor?}{Do que precisa, senhora?}{}{}{}{}
+{411}{O que deseja, senhor?}{O que deseja, senhora?}{}{}{}{}
 {412}{R:$0,1175-1184}{}{1}{}{425}{}
 {413}{A:}{}{1}{}{425}{re+2}
 {414}{C:}{}{1}{}{425}{}
@@ -407,14 +407,14 @@
 {428}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{634}{}
 {429}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {430}{E:}{}{1}{}{0}{}
-{431}{Ora, olá de novo @pcname@. Em que posso ajudá-lo?}{Ora, olá de novo @pcname@. Em que posso ajudá-lo?}{}{}{}{}
+{431}{Ora, olá novamente, @pcname@. O que posso fazer por você?}{Ora, olá novamente, @pcname@. O que posso fazer por você?}{}{}{}{}
 {432}{R:$0,1175-1184}{}{1}{}{425}{}
 {433}{A:}{}{1}{}{425}{re+2}
 {434}{C:}{}{1}{}{425}{}
 {435}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{634}{}
 {436}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{634}{}
 {437}{E:}{}{1}{}{0}{}
-{438}{O que foi, @pcname@?}{O que foi, @pcname@?}{}{}{}{}
+{438}{O que é, @pcname@?}{O que é, @pcname@?}{}{}{}{}
 {439}{R:$0,1175-1184}{}{1}{}{425}{}
 {440}{I:}{}{1}{}{0}{re-2}
 {441}{C:}{}{1}{}{425}{}
@@ -426,12 +426,12 @@
 {447}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me 0, re -40}{462}{}
 {448}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me 1, re41}{475}{}
 {449}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me 1, re-40}{482}{}
-{450}{Hã... Oi. Mi pergunta uma coisa?}{}{-4}{me 0, re41}{455}{}
-{451}{Hã... Mi pergunta uma coisa?}{}{-4}{me 0, re -40}{462}{}
-{452}{Hã... Oi. Mi pergunta uma coisa?}{}{-4}{me 1, re41}{475}{}
-{453}{Hã... Mi pergunta uma coisa?}{}{-4}{me 1, re-40}{482}{}
+{450}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me 0, re41}{455}{}
+{451}{Hã... Eu pergunto uma coisa?}{}{-4}{me 0, re -40}{462}{}
+{452}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me 1, re41}{475}{}
+{453}{Hã... Eu pergunto uma coisa?}{}{-4}{me 1, re-40}{482}{}
 {454}{E:}{}{1}{}{0}{}
-{455}{Do que precisa, senhor?}{Do que precisa, madame?}{}{}{}{}
+{455}{O que deseja, senhor?}{O que deseja, senhora?}{}{}{}{}
 {456}{R:$0,1090-1099}{}{1}{}{469}{}
 {457}{Você pode me dizer como chegar a Qintarra?}{}{5}{ss 8}{682}{}
 {458}{Mi qué ir pra Kin Tara.}{}{-4}{ss 8}{682}{}
@@ -451,14 +451,14 @@
 {472}{C:}{}{1}{ss -7}{469}{}
 {473}{C:}{}{1}{ss 9}{469}{}
 {474}{E:}{}{1}{}{0}{}
-{475}{Ora, olá de novo, @pcname@. Em que posso ajudá-lo?}{Ora, olá de novo, @pcname@. Em que posso ajudá-lo?}{}{}{}{}
+{475}{Ora, olá novamente, @pcname@. O que posso fazer por você?}{Ora, olá novamente, @pcname@. O que posso fazer por você?}{}{}{}{}
 {476}{R:$0,1090-1099}{}{1}{}{469}{}
 {477}{Você pode me dizer como chegar a Qintarra?}{}{5}{ss 8}{682}{}
 {478}{Mi qué ir pra Kin Tara.}{}{-4}{ss 8}{682}{}
 {479}{C:}{}{1}{ss -7}{469}{}
 {480}{C:}{}{1}{ss 9}{469}{}
 {481}{E:}{}{1}{}{0}{}
-{482}{O que foi, @pcname@?}{O que foi, @pcname@?}{}{}{}{}
+{482}{O que é, @pcname@?}{O que é, @pcname@?}{}{}{}{}
 {483}{R:$0,1090-1099}{}{1}{}{469}{}
 {484}{Você pode me dizer como chegar a Qintarra?}{}{5}{ss 8}{682}{}
 {485}{Mi qué ir pra Kin Tara.}{}{-4}{ss 8}{682}{}
@@ -467,15 +467,15 @@
 {488}{E:}{}{1}{}{0}{}
 {489}{G:}{G:}{}{}{}{}
 {490}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me 0, re41}{499}{}
-{491}{Isso foi meio grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me 0, re -40}{504}{}
+{491}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me 0, re -40}{504}{}
 {492}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me 1, re41}{513}{}
-{493}{Isso foi meio grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me 1, re-40}{518}{}
-{494}{Hã... Oi. Mi fazê uma pergunta?}{}{-4}{me 0, re41}{499}{}
-{495}{Hã... Mi fazê uma pergunta?}{}{-4}{me 0, re -40}{504}{}
-{496}{Hã... Oi. Mi fazê uma pergunta?}{}{-4}{me 1, re41}{513}{}
-{497}{Hã... Mi fazê uma pergunta?}{}{-4}{me 1, re-40}{518}{}
+{493}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me 1, re-40}{518}{}
+{494}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me 0, re41}{499}{}
+{495}{Hã... Eu pergunto uma coisa?}{}{-4}{me 0, re -40}{504}{}
+{496}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me 1, re41}{513}{}
+{497}{Hã... Eu pergunto uma coisa?}{}{-4}{me 1, re-40}{518}{}
 {498}{E:}{}{1}{}{0}{}
-{499}{Do que precisa, senhor?}{Do que precisa, madame?}{}{}{}{}
+{499}{O que deseja, senhor?}{O que deseja, senhora?}{}{}{}{}
 {500}{R:$0,1110-1117}{}{1}{}{509}{}
 {501}{A:}{}{1}{}{509}{re+2}
 {502}{C:}{}{1}{}{509}{}
@@ -488,16 +488,16 @@
 {509}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{}
 {511}{C:}{}{1}{}{509}{}
 {512}{E:}{}{1}{}{0}{}
-{513}{Ora, olá de novo, @pcname@. Em que posso ajudá-lo?}{Ora, olá de novo, @pcname@. Em que posso ajudá-lo?}{}{}{}{}
+{513}{Ora, olá novamente, @pcname@. O que posso fazer por você?}{Ora, olá novamente, @pcname@. O que posso fazer por você?}{}{}{}{}
 {514}{R:$0,1110-1117}{}{1}{}{509}{}
 {516}{C:}{}{1}{}{509}{}
 {517}{E:}{}{1}{}{0}{}
-{518}{O que foi, @pcname@?}{O que foi, @pcname@?}{}{}{}{}
+{518}{O que é, @pcname@?}{O que é, @pcname@?}{}{}{}{}
 {519}{R:$0,1110-1117}{}{1}{}{509}{}
 {520}{I:}{}{1}{}{0}{re-2}
 {521}{C:}{}{1}{}{509}{}
 {522}{E:}{}{1}{}{0}{}
-{533}{Não sei, não gosto muito dos do seu tipo...}{Não sei, não gosto de gente como você...}{}{}{}{}
+{533}{Não sei, não gosto de gente como você...}{Não sei, não gosto de gente como você...}{}{}{}{}
 {534}{Se ao menos pudesse ter um momento do seu tempo...}{}{5}{}{538}{re45}
 {535}{Gosta de uma morte dolorosa, seu tolo?}{}{5}{}{0}{lf1 1, re-10, fl 548}
 {536}{Nem eu da sua. No entanto, preciso de informações.}{}{5}{}{538}{}
@@ -512,14 +512,14 @@
 {547}{Talvez mais tarde. Preciso ir.}{}{5}{}{0}{}
 {548}{Ora, francamente! Me deixe em paz antes que eu chame o guarda para lhe dar uma boa surra!}{Ora, francamente! Me deixe em paz antes que eu chame o guarda para lhe dar uma boa surra!}{}{}{}{}
 {549}{Não tenho mais nada a dizer, senhor!}{Não tenho mais nada a dizer, senhora!}{}{}{}{}
-{553}{Ah, sim, senhor... me desculpe, senhor, não sei no que estava pensando. Por favor, em que posso ajudá-lo?}{Ah, sim, senhora... me desculpe, senhora, não sei no que estava pensando. Por favor, em que posso ajudá-la?}{}{}{}{}
+{553}{Ah, sim, senhor... Desculpe, senhor, não sei no que estava pensando. Por favor, em que posso ajudá-lo?}{Ah, sim, senhora... Desculpe, senhora, não sei no que estava pensando. Por favor, em que posso ajudá-la?}{}{}{}{}
 {554}{Preciso de informações.}{}{5}{ gf2342 1, gf11 1, lf12 1}{177}{}
 {555}{Preciso de informações.}{}{5}{ GF2342 0, lf11 0}{187}{}
 {556}{Preciso de informações.}{}{5}{GF2342 1,  lf11 0, ar-21}{238}{}
 {557}{Preciso de informações.}{}{5}{gf2342 0, lf11 1}{187}{}
 {558}{Houve um terrível acidente com um dirigível nas colinas.}{}{5}{gf2342 0, lf11 0}{226}{}
 {559}{Preciso de informações.}{}{5}{ GF2342 1,  lf11 0, ar21}{172}{}
-{562}{Talvez mais tarde. Preciso ir embora.}{}{5}{}{0}{}
+{562}{Talvez mais tarde. Preciso ir.}{}{5}{}{0}{}
 {568}{Acho sua presença extremamente desagradável, para dizer o mínimo.}{Acho sua presença extremamente desagradável, para dizer o mínimo.}{}{}{}{}
 {569}{Se ao menos pudesse ter um momento do seu tempo...}{}{5}{}{578}{re45}
 {570}{Esse sentimento é mútuo... Mas preciso de algumas informações.}{}{5}{}{578}{}
@@ -529,7 +529,7 @@
 {580}{Posso lhe fazer uma pergunta?}{}{5}{ ss-2}{55}{}
 {581}{Posso lhe fazer uma pergunta?}{}{5}{GF2030 1, lf10 0}{87}{}
 {582}{Língua civilizada? O que me diz de meu joelho na sua cara?}{}{5}{}{0}{lf1 1, re-10, fl 588}
-{583}{Após refletir melhor, devo ir.}{}{5}{}{0}{}
+{583}{Após refletir melhor, preciso ir.}{}{5}{}{0}{}
 {584}{}{}{}{}{}{}
 {585}{}{}{}{}{}{}
 {586}{}{}{}{}{}{}
@@ -544,7 +544,7 @@
 {595}{Preciso de informações.}{}{5}{ ss-2}{55}{}
 {596}{Preciso de informações.}{}{5}{GF2030 1, lf10 0}{87}{}
 {597}{Já é tarde demais para isso. Causar-lhe grande dor é minha única alternativa.}{}{5}{}{0}{lf1 1, re-10, fl 588}
-{598}{Após refletir melhor, devo ir.}{}{5}{}{0}{}
+{598}{Após refletir melhor, preciso ir.}{}{5}{}{0}{}
 {599}{}{}{}{}{}{}
 {600}{}{}{}{}{}{}
 {601}{}{}{}{}{}{}
@@ -575,22 +575,22 @@
 {626}{Hmmm... Não tenho certeza. Talvez devesse perguntar aos bons cidadãos de Stillwater.}{Hmmm... Não tenho certeza. Talvez devesse perguntar aos bons cidadãos de Stillwater.}{}{}{}{}
 {627}{Obrigado pela informação.}{}{5}{}{0}{}
 {628}{Valeu.}{}{-4}{}{0}{}
-{629}{Posso perguntar onde fica Stillwater?}{}{5}{}{631}{}
-{630}{Onde fica Steel Wat'r?}{}{-4}{}{631}{}
+{629}{Posso perguntar onde fica Stillwater?}{}{5}{ar-10}{631}{}
+{630}{Onde fica Steel Wat'r?}{}{-4}{ar-10}{631}{}
 {631}{Mas é claro. Fica logo ali. [Eles apontam para um local no seu mapa.]}{Mas é claro. Fica logo ali. [Eles apontam para um local no seu mapa.]}{}{}{}{mm10}
 {632}{Obrigado pela informação.}{}{5}{}{0}{}
 {633}{Valeu.}{}{-4}{}{0}{}
 {634}{Hmmm... Não tenho certeza exata. Se bem me lembro, fica em algum lugar perto de Stillwater.}{Hmmm... Não tenho certeza exata. Se bem me lembro, fica em algum lugar perto de Stillwater.}{}{}{}{}
-{635}{Obrigado pela informação.}{}{5}{mm10}{0}{}
-{636}{Valeu.}{}{-4}{mm10}{0}{}
-{637}{Posso perguntar onde fica Stillwater?}{}{5}{mm-10}{639}{}
-{638}{Onde fica Steel Wat'r?}{}{-4}{mm-10}{639}{}
+{635}{Obrigado pela informação.}{}{5}{ar10}{0}{}
+{636}{Valeu.}{}{-4}{ar10}{0}{}
+{637}{Posso perguntar onde fica Stillwater?}{}{5}{ar-10}{639}{}
+{638}{Onde fica Steel Wat'r?}{}{-4}{ar-10}{639}{}
 {639}{Claro. Fica logo ali. [Eles apontam para um local no seu mapa.]}{Claro. Fica logo ali. [Eles apontam para um local no seu mapa.]}{}{}{}{mm10}
 {640}{Obrigado pela informação.}{}{5}{}{0}{}
 {641}{Valeu.}{}{-4}{}{0}{}
 {650}{Claro. Aqui, deixe-me mostrar no seu mapa.}{Claro. Aqui, deixe-me mostrar no seu mapa.}{}{}{}{mm5}
 {651}{Obrigado pela informação.}{}{5}{}{0}{}
-{652}{Corre o boato de que há as ruínas de um antigo templo logo a leste daqui. Dizem que pode guardar tesouros inestimáveis!}{Corre o boato de que há as ruínas de um antigo templo logo a leste daqui. Dizem que pode guardar tesouros inestimáveis!}{}{}{}{mm56, gf2751 1}
+{652}{Corre a notícia de que existem as ruínas de um velho templo logo a oeste daqui. Dizem que pode haver tesouros incalculáveis lá dentro!}{Corre a notícia de que existem as ruínas de um velho templo logo a oeste daqui. Dizem que pode haver tesouros incalculáveis lá dentro!}{}{}{}{mm56, gf2751 1}
 {653}{K:}{}{1}{}{130}{}
 {654}{E:}{}{1}{}{0}{}
 {655}{}{}{}{}{}{}

@@ -11,7 +11,7 @@
 {11}{Falhei, por favor, me perdoe.}{}{5}{gf 2293 1}{205}{}
 {12}{Hã, olá. Qual é o seu nome?}{}{-4}{lf1 0}{22}{}
 {13}{Me pergunta uma coisa, Thorndrops?}{}{-4}{lf1 1}{30}{}
-{14}{Você é o Mestre de Armas? Quero que me treine!}{}{-4}{tr13 2, tr13 -2, sk13 18, lf1 1, lf2 1, qu1113 0}{98}{}
+{14}{Você é Mestre de Armas? Eu quero que me treine!}{}{-4}{tr13 2, tr13 -2, sk13 18, lf1 1, lf2 1, qu1113 0}{98}{}
 {15}{Me pergunta uma coisa?}{}{-4}{lf1 1}{30}{}
 {16}{Leia isto, Thornsdroop! [Mostre-lhe a carta de Willenbecker]}{}{-4}{qu1113 0, gf2281 1}{134}{}
 {17}{Vou resgatar a Sra. Rolland! Se você disser que vai me treinar...}{}{-4}{qu1113 1, gf2281 1}{178}{}
@@ -25,7 +25,7 @@
 {25}{Ei, você é o Mestre de Armas de Fogo! Pode me treinar?}{}{5}{tr13 2, tr13 -2, lf2 0}{50}{}
 {26}{E:}{}{5}{}{0}{}
 {27}{Me pergunta uma coisa?}{}{-4}{}{30}{}
-{28}{Você é o Mestre de Armas? Quero que me treine!}{}{-4}{tr13 2, tr13 -2, lf2 0}{50}{}
+{28}{Você é Mestre de Armas? Eu quero que me treine!}{}{-4}{tr13 2, tr13 -2, lf2 0}{50}{}
 {29}{E:}{}{-4}{}{0}{}
 {30}{Certamente. Como posso ajudá-lo?}{Certamente. Como posso ajudá-lo?}{}{}{}{}
 {31}{H:}{}{5}{}{30}{}
@@ -64,7 +64,7 @@
 {67}{Vocês são um grupo pacífico? Não há muitos assim hoje em dia.}{}{5}{}{71}{}
 {69}{Você não gosta de lutar?!}{}{-4}{}{71}{}
 {70}{E:}{}{1}{}{0}{}
-{71}{A Ordem Halcyon acredita que um ser pacífico habita profundamente dentro de cada indivíduo. Basta simplificar e acalmar a vida para permitir que ele surja. Minha vida já foi violenta e cheia de ganância e engano, mas quando fiz penitência e simplifiquei minha vida, meu próprio Halcyon emergiu.}{A Ordem Halcyon acredita que um ser pacífico habita nas profundezas de cada indivíduo. Basta simplificar e acalmar a vida para permitir sua emergência. Minha vida já foi violenta e cheia de ganância e engano, mas quando fiz penitência e simplifiquei minha vida, meu próprio Halcyon emergiu.}{}{}{}{}
+{71}{A Ordem Halcyon acredita que um ser pacífico habita nas profundezas de cada indivíduo. Basta simplificar e acalmar a vida para permitir sua emergência. Minha vida já foi violenta e cheia de ganância e engano, mas quando fiz penitência e simplifiquei minha vida, meu próprio Halcyon emergiu.}{A Ordem Halcyon acredita que um ser pacífico habita nas profundezas de cada indivíduo. Basta simplificar e acalmar a vida para permitir sua emergência. Minha vida já foi violenta e cheia de ganância e engano, mas quando fiz penitência e simplifiquei minha vida, meu próprio Halcyon emergiu.}{}{}{}{}
 {72}{Fez penitência? Por quê?}{}{5}{}{76}{}
 {74}{Espetar formigas? O que é isso?}{}{-4}{}{76}{}
 {75}{E:}{}{1}{}{0}{}
@@ -73,7 +73,7 @@
 {78}{E:}{}{5}{}{0}{}
 {79}{Por que você não gosta disso agora?}{}{-4}{}{81}{}
 {80}{E:}{}{-4}{}{0}{}
-{81}{Como penitência pelos meus pecados, e para garantir que nunca mais ferisse ninguém, removi minha capacidade de disparar uma arma. [Ele mostra suas mãos. Cada uma teve os dedos indicador e médio removidos.]}{Como penitência pelos meus pecados, e para garantir que nunca mais ferisse ninguém, removi minha capacidade de disparar uma arma. [Ele mostra suas mãos. Cada uma teve os dedos indicador e médio removidos.]}{}{}{}{lf2 1}
+{81}{Como penitência por meus pecados, e para garantir que nunca mais ferisse outro ser, removi minha capacidade de disparar uma arma. [Ele mostra suas mãos. Cada uma teve os dedos indicador e médio removidos.]}{Como penitência por meus pecados, e para garantir que nunca mais ferisse outro ser, removi minha capacidade de disparar uma arma. [Ele mostra suas mãos. Cada uma teve os dedos indicador e médio removidos.]}{}{}{}{lf2 1}
 {82}{Pelos deuses, homem! O que você fez consigo mesmo?!?}{}{5}{}{88}{}
 {83}{Como conseguiu fazer isso consigo mesmo?}{}{5}{}{88}{}
 {84}{E:}{}{5}{}{0}{}
@@ -104,7 +104,7 @@
 {110}{E:}{}{5}{}{0}{}
 {111}{Seu grupo parece legal. Sabem muito sobre dor...}{}{-4}{}{113}{}
 {112}{E:}{}{-4}{}{0}{}
-{113}{Talvez você se interesse em saber mais sobre nossa Ordem? Se for o caso, deveria visitar o monastério em Roseborough. Você o achará muito esclarecedor.}{Talvez você se interesse em saber mais sobre nossa Ordem? Se for o caso, deveria visitar o monastério em Roseborough. Você o achará muito esclarecedor.}{}{}{}{}
+{113}{Talvez você tenha interesse em aprender mais sobre nossa Ordem? Se sim, deveria visitar o monastério em Vooriden. Você o achará muito esclarecedor.}{Talvez você tenha interesse em aprender mais sobre nossa Ordem? Se sim, deveria visitar o monastério em Vooriden. Você o achará muito esclarecedor.}{}{}{}{mm 26}
 {114}{Obrigado. Talvez eu faça isso mesmo. Posso te perguntar mais uma coisa?}{}{5}{}{30}{}
 {115}{Talvez... Preciso ir andando. Adeus.}{}{5}{}{0}{}
 {116}{E:}{}{5}{}{0}{}
@@ -130,7 +130,7 @@
 {136}{E:}{}{5}{}{0}{}
 {137}{Por que eles querem te machucar?}{}{-4}{}{139}{}
 {138}{E:}{}{-4}{}{0}{}
-{139}{Eu estava bêbado. O irmão dele, Darryl, veio se pavoneando até mim e me desafiou para um duelo. Ele era tão arrogante e cheio de si. Chegou até a jogar uma bebida na minha cara. Foi a gota d'água! Fiquei tão furioso que simplesmente saquei minha pistola e o derrubei onde ele estava.}{Eu estava bêbado. O irmão dele, Darryl, veio se pavoneando até mim e me desafiou para um duelo de tiros. Ele era tão arrogante e cheio de si. Chegou até a jogar uma bebida na minha cara. Aquilo foi a gota d'água! Fiquei tão furioso que simplesmente saquei minha pistola e o abati onde ele estava.}{}{}{}{}
+{139}{Eu estava bêbado. O irmão dele, Darryl, veio se pavoneando até mim e me desafiou para um duelo de tiros. Ele era tão arrogante e cheio de si. Chegou até a jogar uma bebida na minha cara. Aquilo foi a gota d'água! Fiquei tão furioso que simplesmente saquei minha pistola e o abati onde ele estava.}{Eu estava bêbado. O irmão dele, Darryl, veio se pavoneando até mim e me desafiou para um duelo de tiros. Ele era tão arrogante e cheio de si. Chegou até a jogar uma bebida na minha cara. Aquilo foi a gota d'água! Fiquei tão furioso que simplesmente saquei minha pistola e o abati onde ele estava.}{}{}{}{}
 {140}{Isso não foi uma luta justa...}{}{5}{}{147}{}
 {141}{Uau. Isso foi meio pesado.}{}{5}{}{147}{}
 {142}{Hmph. Provavelmente eu teria feito a mesma coisa!}{}{5}{}{147}{}
@@ -163,14 +163,14 @@
 {169}{Acho que é hora de pagar o pato. Boa sorte, "Mestre".}{}{5}{}{0}{}
 {170}{Eu poderia salvá-la...}{}{5}{}{173}{}
 {171}{Parece que você vai morrer. Que pena, "Mestre".}{}{-4}{}{0}{}
-{172}{Eu vô buscá ela...}{}{-4}{}{173}{}
+{172}{Eu vou buscá-la...}{}{-4}{}{173}{}
 {173}{Você!?! Bem, você é um Especialista em Armas de Fogo, não é? Talvez consiga derrotá-los. Não tenho certeza, porém. Eles são um grupo durão, você teria que matar todos eles para que acabasse. [uma expressão de horror se espalhando pelo seu rosto ao perceber o que acabou de dizer]}{Você!?! Bem, você é um Especialista em Armas de Fogo, não é? Talvez consiga derrotá-los. Não tenho certeza, porém. Eles são um grupo durão, você teria que matar todos eles para que acabasse. [uma expressão de horror se espalhando pelo seu rosto ao perceber o que acabou de dizer]}{}{}{}{}
 {174}{Eu farei isso. Mas você deve concordar em me treinar se eu tiver sucesso.}{}{5}{}{178}{}
 {175}{E:}{}{5}{}{0}{}
 {176}{Eu pego ela. Mas você tem que me treinar quando eu terminar.}{}{-4}{}{178}{}
 {177}{E:}{}{-4}{}{0}{}
 {178}{Treinamento! Eu nem consigo segurar uma arma! Nem tenho permissão para ajudar em atos de violência.}{Treinamento! Eu nem consigo segurar uma arma! Nem tenho permissão para ajudar em atos de violência.}{}{}{}{}
-{179}{Então, acho que a Sra. Rolland vai morrer. Mais uma para a sua consciência.}{}{5}{}{183}{}
+{179}{Então, suponho que a Sra. Rolland morrerá. Mais uma para sua consciência.}{}{5}{}{183}{}
 {180}{E:}{}{5}{}{0}{}
 {181}{Aquela mulher vai morrer. Acho que vai ser culpa sua...}{}{-4}{}{183}{}
 {182}{E:}{}{-4}{}{0}{}
@@ -243,7 +243,7 @@
 {249}{Eu quero treinamento!}{}{-4}{}{252}{}
 {250}{Eu não gosto de ver você machucado. Tá tudo bem. Eu vou embora, sem treinar.}{}{-4}{}{275}{gf 2289 1}
 {251}{E:}{}{-4}{}{0}{}
-{252}{[Relutantemente] Mostre-me sua arma. Mire naquela árvore ali. [Ele estuda sua postura, empunhadura e mira, fazendo correções e dando vários conselhos] Agora você acertará seu alvo não importa a distância. Nossa barganha está completa. Você é um Mestre em Armas de Fogo.}{[Relutantemente] Mostre-me sua arma. Mire naquela árvore ali. [Ele estuda sua postura, empunhadura e mira, fazendo correções e dando vários conselhos] Agora você acertará seu alvo não importa a distância. Nossa barganha está completa. Você é um Mestre em Armas de Fogo.}{}{}{}{tr13 3, rq2172, al-100}
+{252}{[Relutantemente] Mostre-me sua arma. Mire naquela árvore ali. [Ele estuda sua postura, empunhadura e mira, fazendo correções e dando vários conselhos] Agora você acertará seu alvo não importa a distância. Nossa barganha está completa. Você é um Mestre em Armas de Fogo.}{[Relutantemente] Mostre-me sua arma. Mire naquela árvore ali. [Ele estuda sua postura, empunhadura e mira, fazendo correções e dando vários conselhos] Agora você acertará seu alvo não importa a distância. Nossa barganha está completa. Você é um Mestre em Armas de Fogo.}{}{}{}{tr13 3, rq2172, al-100, rp1020}
 {253}{Obrigado.}{}{5}{}{259}{}
 {254}{UM Mestre em Armas de Fogo? Não, eu sou O Mestre em Armas de Fogo!}{}{5}{}{}{co, fl 60}
 {255}{Obrigado. Perdoe-me por forçá-lo a quebrar seus votos.}{}{5}{}{259}{}

@@ -9,8 +9,8 @@
 {9}{Quero meu dinheiro de volta}{}{-4}{}{337}{}
 {10}{E:}{}{1}{}{-1}{}
 {11}{Assentos reservados custam 75 moedas por pessoa viajando.}{Assentos reservados custam 75 moedas por pessoa viajando.}{}{}{}{}
-{12}{Gostaria de reservar alguns assentos para Ashbury.}{}{5}{gf 2327 1}{62}{}
-{13}{Gostaria de reservar alguns lugares para Ashbury.}{}{5}{gf 2327 0}{67}{}
+{12}{Gostaria de reservar algumas poltronas para Ashbury.}{}{5}{gf 2327 1}{62}{}
+{13}{Gostaria de reservar algumas poltronas para Ashbury.}{}{5}{gf 2327 0}{67}{}
 {14}{Quais são as regras sobre magia no trem?}{}{12}{lf 4 0}{85}{lf 4 1}
 {15}{E:}{}{1}{}{-1}{}
 {16}{Assentos reservados custam 75 moedas cada. Quantos assentos você precisará para o seu grupo?}{Assentos reservados custam 75 moedas cada. Quantos assentos você precisará para o seu grupo?}{}{}{}{}
@@ -59,7 +59,7 @@
 {59}{Você tem razão! Às vezes temos espaço disponível no trem por causa de cancelamentos. [verificando] Parece que temos alguns assentos reservados com desconto. Você está com sorte hoje!}{Você tem razão! Às vezes temos espaço disponível no trem por causa de cancelamentos. [verificando] Parece que temos alguns assentos reservados com desconto. Você está com sorte hoje!}{}{}{}{}
 {60}{Ótimo, qual é o preço?}{}{5}{}{35}{}
 {61}{iupiii! iupiiii! mim fazer bom negócio!}{}{-4}{}{35}{}
-{62}{Com licença, senhor, mas meus registros mostram que o senhor já tem uma reserva.}{Com licença, minha senhora, mas meus registros mostram que a senhora já tem uma reserva.}{}{}{}{}
+{62}{Com licença, senhor, mas meus registros indicam que o senhor já possui uma reserva.}{Com licença, madame, mas meus registros indicam que a senhora já possui uma reserva.}{}{}{}{}
 {63}{Hmm... Mudei de ideia. Quero um reembolso.}{}{5}{}{337}{}
 {64}{mim quer dinheiro de volta.}{}{-4}{}{337}{}
 {65}{F:}{}{1}{}{-1}{}
@@ -82,7 +82,7 @@
 {82}{Dã.}{}{-4}{}{85}{}
 {83}{Ugh.}{}{-4}{}{85}{}
 {84}{Humpf.}{}{-4}{}{85}{}
-{85}{Você, ou algum membro do seu grupo, é praticante de magia, élfico ou de herança élfica?}{Você, ou algum membro do seu grupo, é praticante de magia, élfico ou de herança élfica?}{}{}{}{lf 4 1}
+{85}{A senhora, ou algum membro do seu grupo, é praticante de magia, élfica ou de herança élfica?}{A senhora, ou algum membro do seu grupo, é praticante de magia, élfica ou de herança élfica?}{}{}{}{lf 4 1}
 {86}{Não.}{}{5}{}{99}{}
 {87}{Sim.}{}{5}{}{92}{}
 {88}{Nãããão}{}{-4}{}{99}{}
@@ -96,7 +96,7 @@
 {96}{fazer magia lá lá lá lá lá lá...}{}{-4}{}{99}{}
 {97}{fazer magia bum bum bum...}{}{-4}{}{142}{}
 {98}{E:}{}{1}{}{-1}{}
-{99}{Você está carregando algum item mágico? Foi abordado e solicitado a carregar algum item mágico por pessoas que não estão viajando com seu grupo?}{Você está carregando algum item mágico? Foi abordado e solicitado a carregar algum item mágico por pessoas que não estão viajando com seu grupo?}{}{}{}{}
+{99}{A senhora está carregando algum item mágico? Foi abordada e solicitada a carregar algum item mágico por pessoas que não estão viajando com seu grupo?}{A senhora está carregando algum item mágico? Foi abordada e solicitada a carregar algum item mágico por pessoas que não estão viajando com seu grupo?}{}{}{}{}
 {100}{Não.}{}{5}{}{114}{}
 {101}{Sim.}{}{5}{}{107}{}
 {102}{mim acha que não}{}{-4}{}{114}{}
@@ -104,28 +104,28 @@
 {104}{E:}{}{1}{}{-1}{}
 {105}{}{}{}{}{}{}
 {106}{}{}{}{}{}{}
-{107}{Algum dos itens mágicos que você está carregando está carregado com fogo explosivo, calor, frio ou energias elétricas?}{Algum dos itens mágicos que você está carregando está carregado com fogo explosivo, calor, frio ou energias elétricas?}{}{}{}{}
+{107}{Algum dos itens mágicos que a senhora está carregando está carregado com energias explosivas de fogo, calor, frio ou elétricas?}{Algum dos itens mágicos que a senhora está carregando está carregado com energias explosivas de fogo, calor, frio ou elétricas?}{}{}{}{}
 {108}{Não.}{}{5}{}{114}{}
 {109}{Sim, receio que sim.}{}{5}{}{142}{}
 {110}{eu dizer não}{}{-4}{}{114}{}
 {111}{eu dizer sim}{}{-4}{}{142}{}
 {112}{E:}{}{1}{}{-1}{}
 {113}{}{}{}{}{}{}
-{114}{Qual das seguintes categorias melhor descreve sua idade física? A - Menos de 100 anos. B - 100 a 200 anos. C - 200 a 500, D - mais de 500 anos de idade.}{Qual das seguintes categorias melhor descreve sua idade física? A - Menos de 100 anos. B - 100 a 200 anos. C - 200 a 500, D - mais de 500 anos de idade.}{}{}{}{}
+{114}{Qual das seguintes categorias melhor descreve sua idade física? A - Menos de 100 anos. B - 100 a 200 anos. C - 200 a 500. D - Mais de 500 anos de idade.}{Qual das seguintes categorias melhor descreve sua idade física? A - Menos de 100 anos. B - 100 a 200 anos. C - 200 a 500. D - Mais de 500 anos de idade.}{}{}{}{}
 {115}{A - Menos de 100 anos.}{}{1}{}{121}{}
 {116}{B - Entre 100 e 200 anos.}{}{1}{}{121}{}
 {117}{C - Entre 200 e 500 anos.}{}{1}{}{142}{}
 {118}{D - Mais de 500 anos.}{}{1}{}{142}{}
 {119}{E:}{}{1}{}{-1}{}
 {120}{}{}{}{}{}{}
-{121}{Você está viajando com elementais invocados, mortos animados, controlados mentalmente, petrificados ou outros membros do grupo com desafios físicos que precisarão de tempo e assistência adicionais para embarcar no Trem?}{Você está viajando com elementais invocados, mortos animados, controlados mentalmente, petrificados ou outros membros do grupo com desafios físicos que precisarão de tempo e assistência adicionais para embarcar no Trem?}{}{}{}{}
+{121}{A senhora está viajando com elementais invocados, mortos animados, controlados mentalmente, petrificados ou outros membros do grupo com desafios físicos que precisarão de tempo adicional e assistência para embarcar no trem?}{A senhora está viajando com elementais invocados, mortos animados, controlados mentalmente, petrificados ou outros membros do grupo com desafios físicos que precisarão de tempo adicional e assistência para embarcar no trem?}{}{}{}{}
 {122}{Não.}{}{5}{}{128}{}
 {123}{Sim.}{}{5}{}{142}{}
 {124}{ahã, eu dizer não.}{}{-4}{}{128}{}
 {125}{é é é}{}{-4}{}{142}{}
 {126}{E:}{}{1}{}{-1}{}
 {127}{}{}{}{}{}{}
-{128}{Você possui conhecimento e prática, pergaminhos encantados ou itens mágicos carregados com algum dos seguintes feitiços mágicos: Fireflash, Corpo de Fogo, Invocar Elemental do Fogo, Choque, Raio, Desintegrar, Congelar Tempo, Estase, Acelerar ou Tempus Fugit?}{Você possui conhecimento e prática, pergaminhos encantados ou itens mágicos carregados com algum dos seguintes feitiços mágicos: Fireflash, Corpo de Fogo, Invocar Elemental do Fogo, Choque, Raio, Desintegrar, Congelar Tempo, Estase, Acelerar ou Tempus Fugit?}{}{}{}{}
+{128}{A senhora possui conhecimento e prática, pergaminhos inscritos ou itens mágicos carregados com algum dos seguintes feitiços mágicos: Fireflash, Corpo de Fogo, Invocar Elemental do Fogo, Choque, Raio, Desintegrar, Congelar Tempo, Estase, Acelerar ou Tempus Fugit?}{A senhora possui conhecimento e prática, pergaminhos inscritos ou itens mágicos carregados com algum dos seguintes feitiços mágicos: Fireflash, Corpo de Fogo, Invocar Elemental do Fogo, Choque, Raio, Desintegrar, Congelar Tempo, Estase, Acelerar ou Tempus Fugit?}{}{}{}{}
 {129}{Não.}{}{5}{}{149}{}
 {130}{Sim.}{}{5}{}{142}{}
 {131}{eu dizer não}{}{-4}{}{149}{}
@@ -310,19 +310,19 @@
 {310}{Suas reservas foram feitas. A plataforma fica à sua esquerda.}{Suas reservas foram feitas. A plataforma fica à sua esquerda.}{}{}{}{}
 {311}{Valeu.}{}{5}{}{-1}{}
 {312}{aff.}{}{-4}{}{-1}{}
-{313}{Sinto muito, senhor, mas volte quando tiver moedas para a reserva.}{Sinto muito, senhora, mas volte quando tiver moedas para a reserva.}{}{}{}{}
+{313}{Sinto muito, senhor, mas por favor volte quando tiver moedas para a reserva.}{Sinto muito, madame, mas por favor volte quando tiver moedas para a reserva.}{}{}{}{}
 {314}{}{}{}{}{}{}
 {315}{}{}{}{}{}{}
 {316}{}{}{}{}{}{}
 {317}{}{}{}{}{}{}
 {318}{}{}{}{}{}{}
 {319}{}{}{}{}{}{}
-{320}{Sinto muito, senhor, mas não consta nenhum registro da sua reserva no trem. Não posso fazer o reembolso sem os registros adequados. Acho que o senhor está enganado.}{Lamento, mas não encontro nenhum registro da sua reserva no trem. Não posso fazer reembolso sem os registros adequados. Sugiro que esteja enganada, minha senhora.}{}{}{}{}
+{320}{Sinto muito, mas não consta nenhum registro da sua reserva no trem. Não posso fazer reembolso sem os registros adequados. Sugiro que o senhor esteja enganado.}{Sinto muito, mas não consta nenhum registro da sua reserva no trem. Não posso fazer reembolso sem os registros adequados. Sugiro que a senhora esteja enganada.}{}{}{}{}
 {321}{F:}{}{5}{}{-1}{}
 {322}{E:}{}{5}{}{-1}{}
 {323}{F:}{}{-4}{}{-1}{}
 {324}{E:}{}{-4}{}{-1}{}
-{325}{[devolve seu dinheiro] Aqui está seu reembolso, senhor. No futuro, por favor, não faça reservas desnecessárias. Cancelamentos podem causar problemas e inconvenientes para os outros. Tenho certeza de que o senhor entende... Obrigado pela sua cooperação, senhor.}{[devolve seu dinheiro] Aqui está seu reembolso, senhora. No futuro, por favor, não faça reservas desnecessárias. Cancelamentos podem causar problemas e inconvenientes para os outros. Tenho certeza de que a senhora entende... Obrigado pela sua cooperação, senhora.}{}{}{}{}
+{325}{[refunds your money] Aqui está seu reembolso, senhor. No futuro, por favor, não faça reservas desnecessárias. Cancelamentos podem causar problemas e inconvenientes a outros. Tenho certeza de que o senhor compreende... Obrigado pela sua cooperação, senhor.}{[refunds your money] Aqui está seu reembolso, madame. No futuro, por favor, não faça reservas desnecessárias. Cancelamentos podem causar problemas e inconvenientes a outros. Tenho certeza de que a senhora compreende... Obrigado pela sua cooperação, madame.}{}{}{}{}
 {326}{E:}{}{5}{}{-1}{}
 {327}{E:}{}{-4}{}{-1}{}
 {328}{}{}{}{}{}{}

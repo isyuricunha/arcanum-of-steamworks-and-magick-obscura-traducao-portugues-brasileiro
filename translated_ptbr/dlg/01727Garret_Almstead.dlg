@@ -80,14 +80,14 @@
 {81}{E:}{}{1}{}{0}{}
 {82}{Escuta. Quando eu faço alguma coisa, eu faço direito. Ele conhece a qualidade do meu trabalho. Se ele trouxesse as coisas para mim quando começassem a mostrar desgaste, não custaria tanto para consertá-las! Até ele pagar, vai ficar trancado na minha oficina!}{Escuta. Quando eu faço alguma coisa, eu faço direito. Ele conhece a qualidade do meu trabalho. Se ele trouxesse as coisas para mim quando começassem a mostrar desgaste, não custaria tanto para consertá-las! Até ele pagar, vai ficar trancado na minha oficina!}{}{}{}{}
 {83}{O Sr. Hallaway tem sido um bom cliente ao longo dos anos?}{}{5}{ch 7}{94}{}
-{84}{O Sr. Hallaway tem sido um bom cliente ao longo dos anos?}{}{5}{ch -7}{157}{}
-{85}{[intimidante] Acho melhor você devolver a caixa para ele... agora.}{}{5}{na -50}{177}{re -5}
-{86}{[intimidante] Acho melhor você devolver a caixa para ele... agora.}{}{5}{na 49}{138}{}
+{84}{O Sr. Hallaway tem sido um bom cliente ao longo dos anos?}{}{5}{ch -6}{157}{}
+{85}{[intimidando] Acho melhor você devolver a caixa para ele... agora.}{}{5}{na -50}{177}{re -5}
+{86}{[intimidando] Acho melhor você devolver a caixa para ele... agora.}{}{5}{na 49}{138}{}
 {87}{Eu quero aquela caixa... Vou ter que apelar para a violência?}{}{5}{na -50}{177}{re -5}
 {88}{O Sr. Hallaway tem sido um bom cliente por muito tempo?}{}{-4}{ch 7}{94}{}
-{89}{O Sr. Hallaway tem sido um bom cliente por muito tempo?}{}{-4}{ch -7}{157}{}
-{90}{[intimidante] Eu acho que é melhor você devolver a caixa... agora.}{}{-4}{na -50}{177}{re -5}
-{91}{[intimidante] Eu acho que é melhor você devolver a caixa... agora.}{}{-4}{na 49}{138}{}
+{89}{O Sr. Hallaway tem sido um bom cliente por muito tempo?}{}{-4}{ch -6}{157}{}
+{90}{[intimidando] Eu acho que você deveria devolver a caixa... agora.}{}{-4}{na -50}{177}{re -5}
+{91}{[intimidando] Eu acho que você deveria devolver a caixa... agora.}{}{-4}{na 49}{138}{}
 {92}{Eu quero essa caixa. Você devolve, ou quer que eu te machuque?}{}{-4}{na -50}{177}{re -5}
 {93}{E:}{}{1}{}{0}{}
 {94}{Bem. Sim. Ele tem sido. Traz coisas para mim regularmente. Sempre paga rápido. Ele é bem de vida, sabe.}{Bem. Sim. Ele tem sido. Traz coisas para mim regularmente. Sempre paga rápido. Ele é bem de vida, sabe.}{}{}{}{}
@@ -161,7 +161,7 @@
 {162}{[intimidando] Eu acho que você deveria devolver a caixa... agora.}{}{-4}{na -50}{177}{re -5}
 {163}{[intimidando] Eu acho que você deveria devolver a caixa... agora.}{}{-4}{na 49}{165}{re -5}
 {164}{E:}{}{1}{}{0}{}
-{165}{Ele vai pagar o preço cheio... e ponto final!}{Ele está pagando o preço cheio... e ponto final!}{}{}{}{}
+{165}{Ele está pagando o preço cheio... e ponto final!}{Ele está pagando o preço cheio... e ponto final!}{}{}{}{}
 {166}{Tudo bem! A violência vai funcionar tão bem quanto...}{}{5}{}{}{co, fl 45}
 {167}{Chega! Eu vou matar você e pegar isso!}{}{-4}{}{}{co, fl 45}
 {168}{Tudo bem! Aqui estão 150 moedas. Isso deve cobrir. Me dê a caixa!}{}{5}{$$150}{171}{$$ -150}
@@ -195,13 +195,13 @@
 {196}{Isso é aceitável. Estou pronto para ser treinado.}{}{5}{$$500, sk14 -8}{203}{}
 {197}{Tudo bem. Vamos logo com isso.}{}{5}{$$500, sk14 -8}{203}{}
 {198}{Vou precisar voltar mais tarde com mais moedas. Adeus.}{}{5}{$$-499}{0}{}
-{199}{Hã... Tá bom. Eu pronto.}{}{-4}{$$500, sk14 9}{207}{}
-{200}{Hã... Tá bom. Eu pronto.}{}{-4}{$$500, sk14 -8}{203}{}
-{201}{Hã... Eu ir buscar mais moedas. Volto já.}{}{-4}{$$-499}{0}{}
+{199}{Hmm... Tá bom. Estou pronto.}{}{-4}{$$500, sk14 9}{207}{}
+{200}{Hmm... Tá bom. Estou pronto.}{}{-4}{$$500, sk14 -8}{203}{}
+{201}{Hmm... Vou buscar mais moedas. Já volto.}{}{-4}{$$-499}{0}{}
 {202}{F:}{}{1}{}{0}{}
 {203}{Espere aí... [examina você detalhadamente] Você obviamente tem "alguma" habilidade como chaveiro, mas não acho que esteja pronto para avançar para Especialista ainda. Vá e melhore um pouco mais sua habilidade, depois conversamos.}{Espere aí... [examina você detalhadamente] Você obviamente tem "alguma" habilidade como chaveiro, mas não acho que esteja pronto para avançar para Especialista ainda. Vá e melhore um pouco mais sua habilidade, depois conversamos.}{}{}{}{}
-{204}{Tudo certo. Volto em breve.}{}{5}{}{0}{}
-{205}{Tá bom. Eu volto.}{}{-4}{}{0}{}
+{204}{Tudo certo. Volto logo.}{}{5}{}{0}{}
+{205}{Tá bom. Eu já volto.}{}{-4}{}{0}{}
 {206}{F:}{}{1}{}{0}{}
 {207}{Obrigado. [Ele pega as moedas de você] Aqui, deixe-me mostrar alguns truques [Ele passa a detalhar variações de mecanismos de fechaduras.] ...Tudo certo, @pcname@. Você se tornou um Chaveiro Especialista. Obrigado pelas moedas.}{Obrigado. [Ele pega as moedas de você] Aqui, deixe-me mostrar alguns truques [Ele passa a detalhar variações de mecanismos de fechaduras.] ...Tudo certo, @pcname@. Você se tornou um Chaveiro Especialista. Obrigado pelas moedas.}{}{}{}{tr14 2, $$-500, rq2183}
 {208}{Obrigado. Agora, onde eu encontraria o Mestre Chaveiro?}{}{5}{}{210}{}
@@ -218,7 +218,7 @@
 {219}{Isso é aceitável. Estou pronto para ser treinado.}{}{5}{$$500, sk12 -8}{226}{}
 {220}{Tudo bem. Vamos logo com isso.}{}{5}{$$500, sk12 -8}{226}{}
 {221}{Vou precisar voltar mais tarde com mais moedas. Adeus.}{}{5}{$$-499}{0}{}
-{222}{Hã... Tá bom. Eu pronto.}{}{-4}{$$500, sk12 9}{230}{}
+{222}{Hmm... Tá bom. Estou pronto.}{}{-4}{$$500, sk12 9}{230}{}
 {223}{Hmm... Tá bom. Estou pronto.}{}{-4}{$$500, sk12 -8}{226}{}
 {224}{Hmm... Vou buscar mais moedas. Já volto.}{}{-4}{$$-499}{0}{}
 {225}{F:}{}{1}{}{0}{}

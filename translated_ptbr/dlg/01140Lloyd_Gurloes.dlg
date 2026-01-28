@@ -18,11 +18,11 @@
 {19}{Muito bem, Lloyd. Tem um momento?}{}{5}{me 1}{38}{}
 {20}{E:}{}{5}{}{0}{}
 {24}{[O ferreiro esfrega as mãos, flexionando os músculos nodosos dos braços.] Procurando briga, é? Veio ao lugar certo, garoto.}{[O ferreiro esfrega as mãos, flexionando os músculos nodosos dos braços.] Não sou de bater em mulheres, mas não conheço muitas que peçam por isso...}{}{}{}{}
-{25}{Sua postura é patética, trabalhador.}{}{5}{}{}{co, fl 29}
+{25}{Sua postura é patética, operário.}{}{5}{}{}{co, fl 29}
 {26}{Peço desculpas profundas. Talvez pudéssemos recomeçar?}{}{5}{}{17}{re +15}
 {27}{E:}{}{5}{}{0}{}
 {29}{Você pediu por isso, garoto...}{Você pediu por isso, garota...}{}{}{}{}
-{33}{Saudações. Sou Lloyd Gurloes, o ferreiro local. Como posso ajudá-lo hoje?}{Saudações. Sou Lloyd Gurloes, o ferreiro local. Como posso ajudá-la hoje?}{}{}{}{}
+{33}{Saudações. Sou Lloyd Gurloes, o ferreiro local. Como posso ajudá-la hoje?}{Saudações. Sou Lloyd Gurloes, o ferreiro local. Como posso ajudá-la hoje?}{}{}{}{}
 {34}{É um prazer, Lloyd. Posso lhe fazer algumas perguntas...?}{}{5}{}{38}{}
 {36}{Oi, Furtoes! Perguntas!}{}{-4}{}{38}{}
 {37}{E:}{}{1}{}{0}{}
@@ -42,12 +42,12 @@
 {52}{K:}{}{1}{}{38}{}
 {53}{Ainda preciso dos seus serviços...}{}{5}{}{107}{}
 {54}{Ainda preciso de ser-vi-ços-sos...}{}{-4}{}{107}{}
-{55}{Onde posso encontrar um treinador especialista em Reparo, Lloyd?}{}{5}{tr 12 1, tr 12 -1}{130}{}
-{56}{Onde posso encontrar um treinador especialista em Abrir Fechaduras, Lloyd?}{}{5}{tr 14 1, tr 14 -1}{135}{}
-{57}{Onde posso encontrar um treinador especialista em Armadilhas para Braços, Lloyd?}{}{5}{tr 15 1, tr 15 -1}{140}{}
-{58}{Onde acho um treina-dor espe-cialista em Repa-ro, Furtoes?}{}{-4}{tr 12 1, tr 12 -1}{130}{}
-{59}{Onde acho um treina-dor espe-cialista em Abrir Fechadu-ras, Furtoes?}{}{-4}{tr 14 1, tr 14 -1}{135}{}
-{60}{Onde acho um treina-dor espe-cialista em Arma-dilhas e tal, Furtoes?}{}{-4}{tr 15 1, tr 15 -1}{140}{}
+{55}{Onde posso encontrar um treinador especializado em Reparo, Lloyd?}{}{5}{tr 12 1, tr 12 -1}{130}{}
+{56}{Onde posso encontrar um treinador especializado em Abrir Fechaduras, Lloyd?}{}{5}{tr 14 1, tr 14 -1}{135}{}
+{57}{Onde posso encontrar um treinador especializado em Armadilhas para Braços, Lloyd?}{}{5}{tr 15 1, tr 15 -1}{140}{}
+{58}{Onde eu acho um treina-dor es-perto pa Repa-rá, Furtoes?}{}{-4}{tr 12 1, tr 12 -1}{130}{}
+{59}{Onde eu acho um treina-dor es-perto pa Abri fechadu-ra, Furtoes?}{}{-4}{tr 14 1, tr 14 -1}{135}{}
+{60}{Onde eu acho um treina-dor es-perto pa Arma-dilha e coisa, Furtoes?}{}{-4}{tr 15 1, tr 15 -1}{140}{}
 {61}{E:}{}{1}{}{0}{}
 {62}{Negócios? Ah, acho que nunca são excepcionais aqui em Colinas Sombrias... somos uma cidade pequena e um povo simples. Mas, pra ser honesto, tô tendo dificuldade pra conseguir minério de qualidade pra forjar... é difícil tirar alguma coisa da velha Bessie Toone...}{Negócios? Ah, acho que nunca são excepcionais aqui em Colinas Sombrias... somos uma cidade pequena e um povo simples. Mas, pra ser honesto, tô tendo dificuldade pra conseguir minério de qualidade pra forjar... é difícil tirar alguma coisa da velha Bessie Toone...}{}{}{}{}
 {63}{O que é a velha Bessie Toone?}{}{5}{}{66}{}
@@ -101,10 +101,10 @@
 {126}{Tá bom! Entendi!}{}{-4}{ni 5622}{78}{qu1036 2}
 {127}{Vou pensar nisso, Furtoes... volte mais tarde...}{}{-4}{}{0}{}
 {128}{Já consegui! Aqui está...}{}{-4}{in 5622}{89}{in 5622}
-{130}{Hmmm... não tenho muita certeza... tente em Black Root ou Dernholm... acho que encontrará o que procura lá...}{Hmmm... não tenho muita certeza... tente em Black Root ou Dernholm... acho que encontrará o que procura lá...}{}{}{}{}
+{130}{Hmmm... não tenho certeza... tente Black Root ou Dernholm... acho que você encontrará o que procura lá...}{Hmmm... não tenho certeza... tente Black Root ou Dernholm... acho que você encontrará o que procura lá...}{}{}{}{}
 {131}{K:}{}{1}{}{38}{}
 {132}{E:}{}{1}{}{0}{}
-{135}{Dê uma olhada em Black Root ou Caladon... deve ter alguém lá que possa ajudá-lo...}{Dê uma olhada em Black Root ou Caladon... deve haver alguém lá que possa te ajudar...}{}{}{}{ru 2183}
+{135}{Dê uma olhada em Black Root ou Caladon... deve haver alguém lá que possa te ajudar...}{Dê uma olhada em Black Root ou Caladon... deve haver alguém lá que possa te ajudar...}{}{}{}{ru 2183}
 {136}{K:}{}{1}{}{38}{}
 {137}{E:}{}{1}{}{0}{}
 {140}{Pelo que me lembro, procure em Roseborough ou Caladon, ou talvez no Clã Roda dos anões. Acho que você encontrará o que está procurando...}{Pelo que me lembro, procure em Roseborough ou Caladon, ou talvez no Clã Roda dos anões. Acho que você encontrará o que está procurando...}{}{}{}{}

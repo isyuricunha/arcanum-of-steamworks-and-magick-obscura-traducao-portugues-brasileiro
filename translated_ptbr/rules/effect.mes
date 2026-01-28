@@ -23,9 +23,9 @@
 {69}{dx +2, prowling +2, dodge +1, crithitchance +5, st -3, age +30}	// race_halfling
 {70}{st +1, cn +1, melee +2, dodge +2, resistpoison +10, be -2, ch -2, age -5}	// race_half_orc
 {71}{st +4, resistdamage +10, be -1, in -4, prowling -2}	// race_half_ogre
-{72}{dx +1, be +1, repair -2, firearms -2, picklock -2, armtrap -2, magicpts +3, age +180}	// race_dark_elf
-{73}{st +6, be -6, in -6, prowling -3, age +20}	// race_ogre
-{74}{st +2, cn +2, resistpoison +20, be -4, ch -4, in -1}	// race_orc
+{72}{wp +1, dx +1, be +1, repair -2, firearms -2, picklock -2, armtrap -2, magicpts +3, alignment max -100, age +180}	// race_dark_elf
+{73}{st +6, resistdamage +20, be -6, in -6, prowling -3, age +20}	// race_ogre
+{74}{st +2, cn +2, melee +2, dodge +2, resistpoison +20, be -4, ch -4, in -1, age -10}	// race_orc
 {75}{st -1, be +1}	// class_noble
 {76}{in +2, wp +2, ch +2}	// class_priest
 {77}{st -2, in +4, cn +2}	// class_wizard
@@ -82,7 +82,7 @@
 {128}{ac +1}	// Sword of Defense effect
 {129}{st +1, cn +1}	// Axe of Strength effect
 {130}{prowling +1, pickpocket +1, spottrap +1}	// magic thieves leather effect
-{131}{prowling +1}	// creep jacket effect
+{131}{backstab +1, prowling +1}	// creep jacket effect
 {132}{in -3, dx -1, st +1, cn +1} // Wine
 {133}{dx -1, cn -1} // Aqua Vitae
 {134}{be +1}	// medallion of beauty
@@ -140,7 +140,7 @@
 {186}{BE +6, CN -2, ST -2, DX -2}//Lady's Man
 {187}{BE +3, CH +3, ST -1, DX -1, Melee -2, Dodge -2, Bow -2, Throwing -2}//Debutante
 {188}{CH -6, ST +2, PE +2, Melee +1, Dodge +1, Bow +1, Throwing +1}//Raised by Orcs
-{189}{CH +6, ST -2, CN -2, Melee -1, Dodge -1, Bow -1, Throwing -1}//Charlatan's ProtÈgÈ
+{189}{CH +6, ST -2, CN -2, Melee -1, Dodge -1, Bow -1, Throwing -1}//Charlatan's ProtÈgÅE
 {190}{reaction +20} //Nice Clothes
 {191}{pe +1, bow +4}//Ter'el's Blessing
 {192}{dx +1}//Makaal's Blessing
@@ -234,8 +234,8 @@
 {280}{maxhps +5%} // Used for Magic/Hexed items
 {281}{maxfatigue -5%} // Used for Magic/Hexed items
 {282}{maxfatigue +5%} // Used for Magic/Hexed items
-{283}{reaction -1} // Used for Magic/Hexed items
-{284}{reaction +1} // Used for Magic/Hexed items
+{283}{beautyreaction -1} // Used for Magic/Hexed items
+{284}{beautyreaction +1} // Used for Magic/Hexed items
 {285}{badreactionadj -1} // Used for Magic/Hexed items
 {286}{badreactionadj +1} // Used for Magic/Hexed items
 {287}{crithiteffect -1} // Used for Magic/Hexed items
@@ -286,13 +286,13 @@
 {332}{speed +1}	// Spell: Potion -- Haste
 {333}{resistdamage +1}	// Spell: Potion -- Liquid of Skin Thickening
 {334}{resistpoison +1}	// Spell: Potion -- Kalispi's Venom
-{335}{resistdamage +25, resistfire +25, resistelectrical +25, resistpoison +25, reaction -25}	// lunatic background
+{335}{resistdamage +25, resistfire +25, resistelectrical +25, resistpoison +25, beautyreaction -25}	// lunatic background
 {336}{in +6, st -1, cn -1, dx -2, wp -2, gambling +3}	// idiot savant
 {337}{st +1, cn -1} // tomboy background
 {338}{st +2, cn +1, in -1, ch -2, melee +1, haggle -2}	// barbarian
 {339}{xpgain +10%, critfailchance +20}	// nietzche
 {340}{wp +2, ch -2}	// dark elf follower
-{341}{magicpts +4, reaction -20, alignment -200, alignment max -200}
+{341}{magicpts +4, beautyreaction -20, alignment -200, alignment max -200}
 {342}{}	// INTENTIONALLY LEFT BLANK! Used for effects that are handled by the engine, but need an effect number
 {343}{persuasion +2}	// hydrophobic background
 {344}{pe +2}	// afraid of the dark

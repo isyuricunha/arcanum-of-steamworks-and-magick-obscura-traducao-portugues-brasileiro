@@ -1,12 +1,12 @@
 {1}{G:}{G:}{}{}{}{}
-{2}{Por favor, senhor. Posso fazer uma pergunta?}{}{5}{re-40}{11}{}
-{3}{Posso lhe fazer uma pergunta, senhor?}{}{5}{re41}{29}{}
-{4}{Hã... eu pergunto uma coisa... por favô?}{}{-4}{re-40}{11}{}
-{5}{Hã... eu pergunto uma coisa?}{}{-4}{re41}{29}{}
-{6}{Sobre aquele treinamento?}{}{5}{gf2677 1, sk5 9, tr5 1, tr5 -1}{62}{}
-{7}{Hã... eu ser treinado?}{}{-4}{gf2677 1, sk5 9, tr5 1, tr5 -1}{62}{}
-{8}{Você está livre!}{}{5}{gf2677 1, sk5 -8, tr5 -1}{}{fl 61}
-{9}{Hã... você estar livre!}{}{-4}{gf2677 1, sk5 -8, tr5 -1}{}{fl 61}
+{2}{Por favor, senhor. Posso fazer uma pergunta?}{}{5}{re-40, gf2678 0}{11}{}
+{3}{Posso lhe fazer uma pergunta, senhor?}{}{5}{re41, gf2678 0}{29}{}
+{4}{Hã... eu pergunto uma coisa... por favô?}{}{-4}{re-40, gf2678 0}{11}{}
+{5}{Hã... eu pergunto uma coisa?}{}{-4}{re41, gf2678 0}{29}{}
+{6}{Sobre aquele treinamento?}{}{5}{gf2678 1, sk5 9, tr5 1, tr5 -1}{62}{}
+{7}{Hã... eu ser treinado?}{}{-4}{gf2678 1, sk5 9, tr5 1, tr5 -1}{62}{}
+{8}{Você está livre!}{}{5}{gf2678 1, sk5 -8, tr5 -1}{-2}{}
+{9}{Hã... você estar livre!}{}{-4}{gf2678 1, sk5 -8, tr5 -1}{-2}{}
 {10}{E:}{}{1}{}{0}{}
 {11}{Bem, não vejo o que você poderia precisar de mim, mas pode falar...}{Bem, não vejo o que você poderia precisar de mim, mas pode falar...}{}{}{}{}
 {12}{Por que você está aqui?}{}{5}{}{40}{}
@@ -20,15 +20,15 @@
 {34}{F:}{}{1}{}{0}{}
 {40}{Digamos que, às vezes, meus dedos têm vontade própria quando se trata dos pertences alheios...}{Digamos que, às vezes, meus dedos têm vontade própria quando se trata dos pertences alheios...}{}{}{}{}
 {41}{Oh, meu Deus.}{}{1}{sk5 -8, tr5 -1}{}{fl 46}
-{42}{Habilidoso como batedor de carteiras, não é?}{}{5}{sk5 9, tr51, tr5 -1}{47}{}
-{43}{Hã... ocê é bom no roubo de bolso?}{}{-4}{sk5 9, tr51, tr5 -1}{47}{}
+{42}{Habilidoso como batedor de carteiras, não é?}{}{5}{sk5 9, tr5 1, tr5 -1}{47}{}
+{43}{Hã... ocê é bom no roubo de bolso?}{}{-4}{sk5 9, tr5 1, tr5 -1}{47}{}
 {45}{E:}{}{1}{}{0}{}
 {46}{Entendo. Bem, receio não ter mais nada a dizer, senhor. Adeus.}{Entendo. Bem, receio não ter mais nada a dizer, senhora. Adeus.}{}{}{}{}
 {47}{Habilidoso! Eu sou isso... Diga, por acaso você não estaria procurando por treinamento de Especialista na minha área específica, estaria?}{Habilidoso! Eu sou isso... Diga, por acaso você não estaria procurando por treinamento de Especialista na minha área específica, estaria?}{}{}{}{}
 {48}{Estou querendo me tornar um Especialista em bater carteiras...}{}{5}{}{51}{}
 {49}{Hã... é. Eu qué ser Exper' em roubo de bolso.}{}{-4}{}{51}{}
 {50}{F:}{}{1}{}{0}{}
-{51}{Tenho uma proposta para você então. Você paga minha fiança e me tira deste lugar horrível, e eu o treinarei. Que tal?}{Tenho uma proposta para você então. Você paga minha fiança e me tira deste lugar horrível, e eu o treinarei. Que tal?}{}{}{}{}
+{51}{Tenho uma proposta para você então. Você paga minha fiança e me tira deste lugar horrível, e eu o treinarei. Que tal?}{Tenho uma proposta para você então. Você paga minha fiança e me tira deste lugar horrível, e eu o treinarei. Que tal?}{}{}{}{gf2679 1}
 {52}{Vou pensar no assunto.}{}{5}{}{0}{}
 {53}{Com quem eu falo?}{}{5}{}{57}{}
 {54}{Hã... eu penso no assunto.}{}{-4}{}{0}{}
@@ -38,7 +38,7 @@
 {58}{Voltarei em breve.}{}{5}{}{0}{}
 {59}{Hã... eu vol...tá.}{}{-4}{}{0}{}
 {60}{E:}{}{1}{}{0}{}
-{61}{Bem! Muito obrigado, senhor!}{Bem! Muito obrigada, senhora!}{}{}{-3}{}
+{61}{Bem! Muito obrigado, senhor!}{Bem! Muito obrigada, senhora!}{}{}{}{}
 {62}{Muito obrigado, @pcname@! [Ele então leva alguns momentos para demonstrar algumas técnicas que você ainda não tinha visto.] Muito bem. Agora você é um Especialista em bater carteiras. Preciso ir. Obrigado novamente.}{Muito obrigado, @pcname@! [Ele então leva alguns momentos para demonstrar algumas técnicas que você ainda não tinha visto.] Muito bem. Agora você é um Especialista em bater carteiras. Preciso ir. Obrigado novamente.}{}{}{}{tr5 2}
 {63}{Adeus, Guido.}{}{5}{}{-3}{}
 {64}{Hã... T-tchau.}{}{-4}{}{-3}{}

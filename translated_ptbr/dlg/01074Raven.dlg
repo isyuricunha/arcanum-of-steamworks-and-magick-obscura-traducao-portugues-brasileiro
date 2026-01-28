@@ -19,7 +19,7 @@
 {82}{Talvez a senhora esteja certa. Me perdoe, por favor...}{}{5}{}{86}{re +10}
 {83}{A senhora ameaçou a pessoa errada...}{}{5}{}{}{co, fl 251}
 {84}{E:}{}{5}{}{0}{}
-{86}{[Ela sorri levemente.] Hmmm. Sim, suponho que posso relevar seus defeitos por enquanto. O que deseja de mim?}{[Ela sorri levemente.] Hmmm. Sim, suponho que posso relevar seus defeitos por agora. O que deseja de mim?}{}{6}{}{}
+{86}{[Ela sorri levemente.] Hmmm. Sim, suponho que posso relevar seus defeitos por agora. O que deseja de mim?}{[Ela sorri levemente.] Hmmm. Sim, suponho que posso relevar seus defeitos por agora. O que deseja de mim?}{}{6}{}{}
 {87}{Posso saber seu nome, senhora?}{}{5}{me 0}{94}{}
 {88}{Você tem um momento para conversar, Raven?}{}{5}{me 1}{101}{}
 {89}{E:}{}{5}{}{0}{}
@@ -67,7 +67,7 @@
 {146}{Talvez ela precise deixar outra pessoa no comando...}{}{5}{}{241}{re -5}
 {147}{E:}{}{5}{}{0}{}
 {149}{Isso pode muito bem ser verdade... mas me perdoe se não deixo um anão estranho entrar e conversar com minha mãe. Ela pode ser nossa rainha, mas sou eu quem supervisiona os assuntos diários aqui em Qintarra...}{Isso pode muito bem ser verdade... mas me perdoe se não deixo um anão estranho entrar e conversar com minha mãe. Ela pode ser nossa rainha, mas sou eu quem supervisiona os assuntos diários aqui em Qintarra...}{}{15}{}{}
-{150}{Entendo. Como posso convencê-la da urgência da minha missão...?}{}{5}{}{159}{}
+{150}{Entendo. Como posso convencê-lo da urgência da minha missão...?}{}{5}{}{159}{}
 {151}{Talvez ela precise deixar outra pessoa no comando...}{}{5}{}{241}{re -5}
 {152}{E:}{}{5}{}{0}{}
 {154}{E acredite EM MIM quando digo que NINGUÉM vê minha mãe até que eu considere necessário. Ela pode ser nossa rainha, mas sou eu quem supervisiona os assuntos diários aqui em Qintarra...}{E acredite EM MIM quando digo que NINGUÉM vê minha mãe até que eu considere necessário. Ela pode ser nossa rainha, mas sou eu quem supervisiona os assuntos diários aqui em Qintarra...}{}{16}{}{}
@@ -82,7 +82,7 @@
 {164}{Entendo. Devo voltar mais tarde?}{}{5}{}{256}{}
 {165}{E:}{}{5}{}{0}{}
 {167}{Sua oferta é muito apreciada, meu amigo... ficaríamos gratos por qualquer ajuda que você esteja disposto a oferecer...}{Sua oferta é muito apreciada, meu amigo... ficaríamos gratos por qualquer ajuda que você esteja disposto a oferecer...}{}{18}{}{}
-{168}{É um prazer... o que posso fazer?}{}{5}{}{189}{re +10}
+{168}{É um prazer... o que posso fazer por você?}{}{5}{}{189}{re +10}
 {169}{Talvez eu deva ficar fora disso por enquanto. Devo voltar mais tarde?}{}{5}{}{256}{}
 {172}{Ora, sim. É sempre um prazer trabalhar com um irmão élfico de fora... adoraríamos ter sua ajuda... [Ela sorri, radiantemente.]}{Ora, sim. É sempre um prazer trabalhar com uma irmã élfica de fora... adoraríamos ter sua ajuda... [Ela sorri, radiantemente.]}{}{19}{}{}
 {173}{É um prazer... o que posso fazer por você?}{}{5}{}{189}{re +10}
@@ -109,14 +109,14 @@
 {204}{Nada mais. Voltarei quando o trabalho estiver feito.}{}{5}{qu1019 2, lf4 1}{0}{}
 {205}{Aceito o trabalho...}{}{5}{lf4 1}{227}{qu1019 2, lf14 1}
 {206}{Vou pensar sobre isso e voltar mais tarde.}{}{5}{}{0}{}
-{208}{Falcão Dói, como eu disse, é um solo sagrado élfico. Muitos anos atrás, havia uma rainha élfica, e seu nome era Falcão. Um dia, ela saiu para caçar e, com seu arco, atingiu um cervo. Quando o alcançou, ele estava deitado ao lado de uma poça d'água, sangrando lentamente de um ferimento no flanco... [a voz de Raven é melodiosa... suas mãos gesticulam, criando a cena...]}{Falcão Dói, como eu disse, é um solo sagrado élfico. Muitos anos atrás, havia uma rainha élfica, e seu nome era Falcão. Um dia, ela saiu para caçar e, com seu arco, atingiu um cervo. Quando o alcançou, ele estava deitado ao lado de uma poça d'água, sangrando lentamente de um ferimento no flanco... [a voz de Raven é melodiosa... suas mãos gesticulam, criando a cena...]}{}{25}{}{}
+{208}{Falcon's Ache, como eu lhe disse, é solo sagrado élfico. Muitos anos atrás, havia uma rainha élfica, e seu nome era Falcon. Certo dia, ela saiu para caçar e, com seu arco, atingiu um cervo. Quando o alcançou, ele estava deitado ao lado de uma poça d'água, sangrando lentamente de um ferimento no flanco... [A voz de Raven é melodiosa... suas mãos gesticulam, recriando a cena...]}{Falcon's Ache, como eu lhe disse, é solo sagrado élfico. Muitos anos atrás, havia uma rainha élfica, e seu nome era Falcon. Certo dia, ela saiu para caçar e, com seu arco, atingiu um cervo. Quando o alcançou, ele estava deitado ao lado de uma poça d'água, sangrando lentamente de um ferimento no flanco... [A voz de Raven é melodiosa... suas mãos gesticulam, recriando a cena...]}{}{25}{}{}
 {209}{O que aconteceu?}{}{5}{}{211}{}
-{211}{O cervo falou com ela, e dentro dele estavam os espíritos dos elfos que haviam se tornado a alma do cervo, e com sua flecha ela havia perfurado tanto ele quanto eles. E ambos estavam tristes e assustados, pois a vida do cervo era a deles também, e quando ele morresse, eles também morreriam...}{O cervo falou com ela, e dentro dele estavam os espíritos dos elfos que haviam se tornado a alma do cervo, e com sua flecha ela havia perfurado tanto ele quanto eles. E ambos estavam tristes e assustados, pois a vida do cervo era a deles também, e quando ele morresse, eles também morreriam...}{}{26}{}{}
+{211}{O cervo falou com ela, e dentro dele estavam os espíritos dos elfos que haviam se tornado a alma do cervo, e com sua flecha ela havia perfurado tanto ele quanto eles. E estavam tristes e amedrontados, pois a vida do cervo era a deles, e quando ele morresse, eles também morreriam...}{O cervo falou com ela, e dentro dele estavam os espíritos dos elfos que haviam se tornado a alma do cervo, e com sua flecha ela havia perfurado tanto ele quanto eles. E estavam tristes e amedrontados, pois a vida do cervo era a deles, e quando ele morresse, eles também morreriam...}{}{26}{}{}
 {212}{O que Falcon fez?}{}{5}{}{214}{}
 {214}{[Raven parece distante, seus olhos traindo uma antiga tristeza.] Ela não podia fazer nada. Sentou-se com a cabeça do cervo em seus braços, cantou-lhe histórias e lavou sua ferida com suas lágrimas. E a dor em seu coração cresceu enquanto as antigas vozes élficas se apagavam, cresceu tanto que, quando elas finalmente partiram, ela partiu com elas...}{[Raven parece distante, seus olhos traindo uma antiga tristeza.] Ela não podia fazer nada. Sentou-se com a cabeça do cervo em seus braços, cantou-lhe histórias e lavou sua ferida com suas lágrimas. E a dor em seu coração cresceu enquanto as antigas vozes élficas se apagavam, cresceu tanto que, quando elas finalmente partiram, ela partiu com elas...}{}{27}{}{}
 {215}{É uma história triste. Mais algumas perguntas sobre este assunto...}{}{5}{}{200}{}
 {216}{E:}{}{5}{}{0}{}
-{218}{Não me importa como você os remove, mas você DEVE entender isto-SOB NENHUMA CIRCUNSTÂNCIA você deve derramar sangue naquele solo. Os espíritos ali cobram seu preço, e você não ia querer pagá-lo... entende? Não levante a mão contra outro...}{Não me importa como você os remove, mas você DEVE entender isto-SOB NENHUMA CIRCUNSTÂNCIA você deve derramar sangue naquele solo. Os espíritos ali cobram seu preço, e você não ia querer pagá-lo... entende? Não levante a mão contra outro...}{}{28}{}{}
+{218}{Não me importa como você os remove, mas você DEVE entender isto-SOB NENHUMA CIRCUNSTÂNCIA você deve derramar sangue naquele solo. Os espíritos de lá cobram seu preço, e você não quer pagá-lo... entendeu? Não levante a mão contra outro...}{Não me importa como você os remove, mas você DEVE entender isto-SOB NENHUMA CIRCUNSTÂNCIA você deve derramar sangue naquele solo. Os espíritos de lá cobram seu preço, e você não quer pagá-lo... entendeu? Não levante a mão contra outro...}{}{28}{}{}
 {219}{Tudo certo... Mais algumas perguntas sobre este assunto...}{}{5}{}{200}{}
 {222}{Não é longe daqui... Vou marcar sua <<<PH1>>> com o local...}{Não é longe daqui... Vou marcar sua <<<PH1>>> com o local...}{}{29}{}{mm 12}
 {223}{Obrigado. Mais algumas perguntas sobre isto...}{}{5}{}{200}{}
@@ -132,7 +132,7 @@
 {238}{Suas quebras de etiqueta podem se tornar dolorosas, senhora...}{}{5}{}{246}{lc1 1}
 {239}{Parece que começamos com o pé esquerdo. Adeus...}{}{5}{}{0}{}
 {241}{Ah, é mesmo, forasteiro? Você está rapidamente esgotando sua recepção, assim como minha paciência. Há um caminho mais rápido de volta ao chão da floresta... talvez queira vê-lo?}{Ah, é mesmo, forasteiro? Você está rapidamente esgotando sua recepção, assim como minha paciência. Há um caminho mais rápido de volta ao chão da floresta... talvez queira vê-lo?}{}{33}{}{}
-{242}{Perdoe-me... posso convencê-lo da urgência da minha missão...?}{}{5}{}{159}{re +5}
+{242}{Perdoe-me... posso convencê-lo da urgência da minha busca...?}{}{5}{}{159}{re +5}
 {243}{Você não sobreviveria à apresentação, Raven...}{}{5}{}{246}{re -10, lc1 1}
 {244}{Parece que começamos com o pé esquerdo. Adeus...}{}{5}{}{0}{}
 {246}{Insulte ou ameace-me novamente, forasteiro, e juro que você não verá o fim deste dia...}{Insulte ou ameace-me novamente, forasteiro, e juro que você não verá o fim deste dia...}{}{34}{}{}
@@ -157,7 +157,7 @@
 {276}{Esse é o seu problema, meu amigo. Você conhece as regras... NÃO levante a mão contra eles com violência. Apenas pense no assunto. Tenho certeza de que algo lhe ocorrerá...}{Esse é o seu problema, meu amigo. Você conhece as regras... NÃO levante a mão contra eles com violência. Apenas pense no assunto. Tenho certeza de que algo lhe ocorrerá...}{}{40}{}{}
 {280}{Muito obrigado... sua ajuda neste assunto é muito apreciada. Agora, sobre o que você precisava falar com minha mãe?}{Muito obrigado... sua ajuda neste assunto é muito apreciada. Agora, sobre o que você precisava falar com minha mãe?}{}{41}{}{qu1019 4, lf11 1}
 {281}{É uma longa história, Corvo... [Conte a ela.]}{}{5}{}{283}{}
-{283}{[Raven fica de pé, pensando. E então...] Uma história sombria, cheia de dor. E parece que a culpa recai sobre nós, os elfos...}{[Raven fica de pé, pensando. E então...] Uma história sombria, cheia de dor. E parece que a culpa recai sobre nós, os elfos...}{}{42}{}{}
+{283}{[Raven se levanta, pensando.  E então...]  Uma história sombria, cheia de dor.  E parece que a culpa é nossa, dos elfos...}{[Raven se levanta, pensando.  E então...]  Uma história sombria, cheia de dor.  E parece que a culpa é nossa, dos elfos...}{}{42}{}{}
 {284}{Há elfos envolvidos... você conhece o nome M'in Gorad?}{}{5}{}{286}{}
 {286}{Não conheço, e nenhum dos elfos que vivem aqui o possui. Mas isso me incomoda muito, puxa sombriamente meu coração e mente. Há outra possibilidade, uma que prefiro não pensar...}{Não conheço, e nenhum dos elfos que vivem aqui o possui. Mas isso me incomoda muito, puxa sombriamente meu coração e mente. Há outra possibilidade, uma que prefiro não pensar...}{}{43}{}{}
 {287}{O quê, Raven? Você sabe onde posso encontrar M'in Gorad?}{}{5}{}{289}{}
@@ -186,8 +186,7 @@
 {317}{Uma cortina rasgada... um dedo quebrado com anel apontando para o leste...}{}{5}{}{361}{}
 {318}{Uma mão que vê, mas é cega... um homem verdadeiro usando uma máscara...}{}{5}{}{367}{}
 {319}{Crianças perdidas, se escondendo... um homem foge delas e deixa cair folhas...}{}{5}{qb1046 1}{399}{}
-{320}{Crianças perdidas, se escondendo... um homem foge delas e deixa cair folhas...}{}{5}{qa1046 2}{}{}
-{321}{E:}{}{5}{}{0}{}
+{320}{E:}{}{5}{}{0}{}
 {323}{Como dissemos, o homem em fuga pode representar Renford A. Terwilliger, um pesquisador que foi capturado e depois escapou dos Elfos Negros. Não temos certeza sobre as folhas, mas acho que seria sensato procurar o Sr. Terwilliger em Tarant.}{Como dissemos, o homem em fuga pode representar Renford A. Terwilliger, um pesquisador que foi capturado e depois escapou dos Elfos Negros. Não temos certeza sobre as folhas, mas acho que seria sensato procurar o Sr. Terwilliger em Tarant.}{}{51}{}{}
 {324}{Houve outras visões de M'in Gorad...}{}{5}{}{315}{}
 {325}{Ela também teve visões do Clã da Montanha Negra...}{}{5}{}{308}{}
@@ -216,18 +215,18 @@
 {353}{Talvez precisemos começar nossa busca por lá, Corvo...}{}{5}{}{355}{}
 {355}{Não tenho tanta certeza. Lembre-se, as visões da minha mãe não são limitadas nem pelos nossos olhos nem pelo nosso tempo... os eventos que ela descreve podem estar tanto no futuro quanto no passado... vamos analisar tudo o que ela disse antes de irmos adiante...}{Não tenho tanta certeza. Lembre-se, as visões da minha mãe não são limitadas nem pelos nossos olhos nem pelo nosso tempo... os eventos que ela descreve podem estar tanto no futuro quanto no passado... vamos analisar tudo o que ela disse antes de irmos adiante...}{}{57}{}{}
 {356}{Houve outras visões de M'in Gorad...}{}{5}{}{315}{}
-{357}{Ela também teve visões do Clã da Montanha Negra...}{}{5}{}{308}{}
+{357}{Ela também teve visões sobre o Clã da Montanha Negra...}{}{5}{}{308}{}
 {358}{Vou me despedir de você, por enquanto...}{}{5}{qb1046 1}{506}{}
 {359}{Vou me despedir de você, por enquanto...}{}{5}{qa1046 2}{510}{}
 {361}{Há algo em toda essa visão que mexe com a minha memória... especialmente o anel. Vou pensar mais a respeito...}{Há algo em toda essa visão que mexe com a minha memória... especialmente o anel. Vou pensar mais a respeito...}{}{58}{}{}
 {362}{Houve outras visões de M'in Gorad...}{}{5}{}{315}{}
-{363}{Ela também teve visões do Clã da Montanha Negra...}{}{5}{}{308}{}
+{363}{Ela também teve visões sobre o Clã da Montanha Negra...}{}{5}{}{308}{}
 {364}{Vou me despedir de você, por enquanto...}{}{5}{qb1046 1}{506}{}
 {365}{Vou me despedir de você, por enquanto...}{}{5}{qa1046 2}{510}{}
 {367}{Não faço ideia...}{Não faço ideia...}{}{59}{}{}
 {368}{Espere! Isso parece com o símbolo de um amuleto que já vi...}{}{5}{gf1045 1}{374}{}
 {369}{Houve outras visões de M'in Gorad...}{}{5}{}{315}{}
-{370}{Ela também teve visões do Clã da Montanha Negra...}{}{5}{}{308}{}
+{370}{Ela também teve visões sobre o Clã da Montanha Negra...}{}{5}{}{308}{}
 {371}{Vou me despedir de você, por enquanto...}{}{5}{qb1046 1}{506}{}
 {372}{Vou me despedir de você, por enquanto...}{}{5}{qa1046 2}{510}{}
 {374}{Interessante. Esse é o símbolo antigo da Mão Molocheana. Você conhece?}{Interessante. Esse é o símbolo antigo da Mão Molocheana. Você conhece?}{}{60}{}{}
@@ -245,7 +244,7 @@
 {390}{Concordo... mas não sei por que eles estariam envolvidos nesse assunto. Muito interessante...}{Concordo... mas não sei por que eles estariam envolvidos nesse assunto. Muito interessante...}{}{64}{}{}
 {391}{O que você acha que a própria visão significa?}{}{5}{}{393}{}
 {393}{Na verdade, não sei, embora pareça que talvez eles estejam sendo enganados... a cegueira nas visões da minha mãe às vezes está associada à decepção. Quanto ao homem mascarado envolto em verdade? Não faço ideia...}{Na verdade, não sei, embora pareça que talvez eles estejam sendo enganados... a cegueira nas visões da minha mãe às vezes está associada à decepção. Quanto ao homem mascarado envolto em verdade? Não faço ideia...}{}{65}{}{}
-{394}{Houve outras visões sobre o M'in Gorad...}{}{5}{}{315}{}
+{394}{Houve outras visões de M'in Gorad...}{}{5}{}{315}{}
 {395}{Ela também teve visões sobre o Clã da Montanha Negra...}{}{5}{}{308}{}
 {396}{Vou me despedir de você, por enquanto...}{}{5}{qb1046 1}{506}{}
 {397}{Vou me despedir de você, por enquanto...}{}{5}{qa1046 2}{510}{}
@@ -266,7 +265,7 @@
 {418}{Eles acreditam que este mundo, e TODAS as suas raças, estão sujeitos ao domínio élfico. Acreditam que os elfos são superiores por causa de nossa conexão íntima com a natureza, nosso poder nas artes da magia, a longevidade de nossa forma física. Veem as outras raças como crianças desajeitadas que precisam de nossa orientação, independentemente da severidade...}{Eles acreditam que este mundo, e TODAS as suas raças, estão sujeitos ao domínio élfico. Acreditam que os elfos são superiores por causa de nossa conexão íntima com a natureza, nosso poder nas artes da magia, a longevidade de nossa forma física. Veem as outras raças como crianças desajeitadas que precisam de nossa orientação, independentemente da severidade...}{}{71}{}{}
 {419}{E quanto aos elfos de Qintarra? No que eles acreditam?}{}{5}{}{422}{}
 {420}{E você? No que VOCÊ acredita?}{}{5}{}{429}{}
-{422}{Os elfos de Qintarra... na verdade, TODOS os outros elfos... acreditam que tudo e todos têm um lugar legítimo na experiência que forma esta realidade. Os elfos sentem que muito pouco, se é que algo, acontece que não faça parte da progressão natural desse estado. Eles não sentem superioridade por causa de suas... vantagens... esse é apenas o papel que foram escolhidos para desempenhar...}{Os elfos de Qintarra... na verdade, TODOS os outros elfos... acreditam que tudo e todos têm um lugar legítimo na experiência que forma esta realidade. Os elfos sentem que muito pouco, se é que algo, acontece que não faça parte da progressão natural desse estado. Eles não sentem superioridade por causa de suas... vantagens... esse é apenas o papel que foram escolhidos para desempenhar...}{}{72}{}{}
+{422}{Os elfos de Qintarra... na verdade, TODOS os outros elfos... acreditam que tudo e todos têm um lugar legítimo na experiência que forma esta realidade. Os elfos sentem que muito pouco, se é que algo, acontece que não faça parte da progressão natural desse estado. Não sentem superioridade por causa de suas... vantagens... esse é apenas o papel que lhes foi designado...}{Os elfos de Qintarra... na verdade, TODOS os outros elfos... acreditam que tudo e todos têm um lugar legítimo na experiência que forma esta realidade. Os elfos sentem que muito pouco, se é que algo, acontece que não faça parte da progressão natural desse estado. Não sentem superioridade por causa de suas... vantagens... esse é apenas o papel que lhes foi designado...}{}{72}{}{}
 {423}{Eles veem os Elfos Negros como uma violação dessa ordem...?}{}{5}{}{425}{}
 {425}{Infelizmente, não. Os Elfos Negros são vistos da mesma forma que todos os outros... eles têm seu papel e o estão desempenhando...}{Infelizmente, não. Os Elfos Negros são vistos da mesma forma que todos os outros... eles têm seu papel e o estão desempenhando...}{}{73}{}{}
 {426}{Entendo. Vamos voltar à visão de sua mãe.}{}{5}{}{433}{}
@@ -283,37 +282,37 @@
 {445}{O nome dele...foi há muito tempo...mas eu me lembro, porque ele o dizia com tanta frequência...acho que os humanos gostam de ouvir o som de seus próprios nomes. [Ela ri, levemente.] Terwilliger...Dr. Renford A. Terwilliger...ainda posso ouvi-lo dizendo isso agora...[Ela ri novamente...]}{O nome dele...foi há muito tempo...mas eu me lembro, porque ele o dizia com tanta frequência...acho que os humanos gostam de ouvir o som de seus próprios nomes. [Ela ri, levemente.] Terwilliger...Dr. Renford A. Terwilliger...ainda posso ouvi-lo dizendo isso agora...[Ela ri novamente...]}{}{78}{}{gf1086 1, ss 10, ru 2055}
 {446}{O que eram as 'folhas' que ele estava deixando cair?}{}{5}{lf9 0}{451}{lf9 1}
 {447}{O que é o 'lugar de fumaça e água'?}{}{5}{lf10 0}{468}{lf10 1}
-{448}{E agora, o que fazemos?}{}{5}{lf81 , lf9 1, lf10 1, qb1046 1}{474}{}
+{448}{E agora, o que fazemos?}{}{5}{lf8 1 , lf9 1, lf10 1, qb1046 1}{474}{}
 {451}{Não sei. Quase pareceu, na visão, que o 'bando' que o consumiu estava mais interessado nas folhas...e minha mãe até disse para encontrar o que foi deixado para trás...essas 'folhas' podem muito bem ser o que estamos procurando...}{Não sei. Quase pareceu, na visão, que o 'bando' que o consumiu estava mais interessado nas folhas...e minha mãe até disse para encontrar o que foi deixado para trás...essas 'folhas' podem muito bem ser o que estamos procurando...}{}{79}{}{}
 {452}{Fiz uma conexão interessante entre as visões...}{}{16}{}{457}{}
 {454}{O que é o 'lugar de fumaça e água'?}{}{5}{lf10 0}{468}{lf10 1}
-{455}{E agora, o que fazemos?}{}{5}{lf81 , lf9 1, lf10 1, qb1046 1}{474}{}
+{455}{E agora, o que fazemos?}{}{5}{lf8 1 , lf9 1, lf10 1, qb1046 1}{474}{}
 {457}{O que foi que você viu?}{O que foi que você viu?}{}{80}{}{}
 {458}{Em muitas das visões, havia bandos de pássaros...}{}{5}{}{460}{}
 {460}{Pois não?}{Pois não?}{}{81}{}{}
 {461}{Acho que eles sempre representam os Elfos Negros...}{}{5}{}{463}{}
 {463}{Interessante...isso realmente pinta um quadro interessante e pode mudar a forma como pensamos sobre alguns deles...os corvos circulando a tempestade, o homem que teve os olhos arrancados pelos pássaros e agora este homem deixando cair folhas...interessante...}{Interessante...isso realmente pinta um quadro interessante e pode mudar a forma como pensamos sobre alguns deles...os corvos circulando a tempestade, o homem que teve os olhos arrancados pelos pássaros e agora este homem deixando cair folhas...interessante...}{}{82}{}{}
 {465}{O que é o 'lugar de fumaça e água'?}{}{5}{lf10 0}{468}{lf10 1}
-{466}{E agora, o que fazemos?}{}{5}{lf81 , lf9 1, lf10 1, qb1046 1}{474}{}
+{466}{E agora, o que fazemos?}{}{5}{lf8 1 , lf9 1, lf10 1, qb1046 1}{474}{}
 {468}{Poderia ser quase qualquer lugar, mas se eu tivesse que adivinhar, diria que ela estava falando sobre a cidade humana de Tarant. Fica no Golfo de Morbihan, e suas...como vocês chamam, fábricas?...estão sempre expelindo fumaça para os céus. Isso, e...[ela pisca e sorri maliciosamente] eu sei que Terwilliger era de lá...}{Poderia ser quase qualquer lugar, mas se eu tivesse que adivinhar, diria que ela estava falando sobre a cidade humana de Tarant. Fica no Golfo de Morbihan, e suas...como vocês chamam, fábricas?...estão sempre expelindo fumaça para os céus. Isso, e...[ela pisca e sorri maliciosamente] eu sei que Terwilliger era de lá...}{}{83}{}{}
 {470}{O que eram as 'folhas' que ele estava deixando cair?}{}{5}{lf9 0}{451}{lf9 1}
-{471}{E agora, o que fazemos?}{}{5}{lf81 , lf9 1, lf10 1, qb1046 1}{474}{}
-{474}{Você tem um lugar para começar sua busca, meu amigo. Parece que, se precisa encontrar este M'in Gorad, vai precisar localizar a aldeia dos Elfos Negros. A única pessoa que pode saber onde eles estão é Renford A. Terwilliger. Ele pode ou não estar em Tarant, mas é um bom lugar para começar a procurar...}{Você tem um lugar para começar sua busca, meu amigo. Parece que, se precisa encontrar este M'in Gorad, vai precisar localizar a aldeia dos Elfos Negros. A única pessoa que pode saber onde eles estão é Renford A. Terwilliger. Ele pode ou não estar em Tarant, mas é um bom lugar para começar a procurar...}{}{84}{}{qu1020 1, qu1021 1}
-{475}{Então encontrarei os Elfos Negros. Para Tarant irei...}{}{5}{}{476}{qu1020 2, qu1021 2}
+{471}{E agora, o que fazemos?}{}{5}{lf8 1 , lf9 1, lf10 1, qb1046 1}{474}{}
+{474}{Você tem um ponto de partida para sua busca, meu amigo. Parece que, se precisa encontrar este M'in Gorad, terá que localizar a aldeia dos Elfos Negros. A única pessoa que talvez saiba onde eles estão é Renford A. Terwilliger. Ele pode ou não estar em Tarant, mas é um bom lugar para começar a procurar...}{Você tem um ponto de partida para sua busca, meu amigo. Parece que, se precisa encontrar este M'in Gorad, terá que localizar a aldeia dos Elfos Negros. A única pessoa que talvez saiba onde eles estão é Renford A. Terwilliger. Ele pode ou não estar em Tarant, mas é um bom lugar para começar a procurar...}{}{84}{}{qu1020 1, qu1021 1}
+{475}{Então encontrarei os Elfos Negros. Irei para Tarant...}{}{5}{}{476}{qu1020 2, qu1021 2}
 {476}{Você me impressiona, meu amigo. [Ela segura sua mão.] Poucos são aqueles, como você, que tomariam esse fardo para si. Você conquistou meu respeito...}{Você me impressiona, meu amigo. Poucos são aqueles, como você, que tomariam esse fardo para si. Você conquistou meu respeito...}{}{85}{}{}
 {477}{Não sou nenhum herói... só quero que as pessoas parem de tentar me matar...}{}{5}{}{487}{}
 {478}{Seu respeito torna tudo ainda mais valioso...}{0}{5}{}{490}{}
 {479}{Seu respeito torna tudo ainda mais valioso...}{1}{5}{}{-31}{}
 {486}{Tanto faz. Você se importaria de soltar minha mão para que eu possa ir?}{}{5}{}{501}{}
-{487}{[Sua mão escorrega da sua.] Talvez eu tenha julgado mal você... mas não importa. Suas ações, não importa quais sejam suas motivações, são nobres. Boa sorte. Volte até mim quando encontrar os elfos negros e me conte o que descobriu...}{Talvez eu tenha julgado mal você... mas não importa. Suas ações, não importa quais sejam suas motivações, são nobres. Boa sorte. Volte até mim quando encontrar os elfos negros e me conte o que descobriu...}{}{86}{}{qu1046 1}
+{487}{[Sua mão escorrega da sua.] Talvez eu tenha julgado você mal... mas não importa. Suas ações, independentemente da motivação, são nobres. Boa sorte. Volte até mim quando encontrar os Elfos Negros e me conte o que descobriu...}{Talvez eu tenha julgado você mal... mas não importa. Suas ações, independentemente da motivação, são nobres. Boa sorte. Volte até mim quando encontrar os Elfos Negros e me conte o que descobriu...}{}{86}{}{qu1046 1}
 {488}{Voltarei quando souber mais... adeus...}{}{5}{}{0}{qu1046 2}
-{490}{[Ela crava os olhos nos seus.] Existem laços fortes entre mulheres como nós. Boa sorte. Volte até mim quando encontrar os elfos negros e me conte o que descobriu...}{[Ela crava os olhos nos seus.] Existem laços fortes entre mulheres como nós. Boa sorte. Volte até mim quando encontrar os elfos negros e me conte o que descobriu...}{}{87}{}{qu1046 1}
+{490}{[Ela crava os olhos nos seus.] Existem laços fortes entre mulheres como nós. Boa sorte. Volte até mim quando encontrar os Elfos Negros e me conte o que descobriu...}{[Ela crava os olhos nos seus.] Existem laços fortes entre mulheres como nós. Boa sorte. Volte até mim quando encontrar os Elfos Negros e me conte o que descobriu...}{}{87}{}{qu1046 1}
 {491}{Voltarei quando souber mais... adeus...}{}{5}{}{0}{qu1046 2}
-{493}{[Ela sorri.] Obrigada pelo elogio. Parece que vamos nos tornar boas amigas, @PCNAME@. Volte até mim quando encontrar os Elfos Negros e me conte o que descobrir. Teremos muito o que discutir quando retornar...}{[Ela sorri.] Obrigada pelo elogio. Parece que vamos nos tornar boas amigas, @PCNAME@. Volte até mim quando encontrar os Elfos Negros e me conte o que descobrir. Teremos muito o que discutir quando retornar...}{}{88}{}{qu1046 1}
+{493}{[Ela sorri.] Obrigada pelo elogio. Parece que vamos nos tornar boas amigas, @PCNAME@. Volte até mim quando encontrar os Elfos Negros e me conte o que descobriu. Teremos muito o que discutir quando retornar...}{[Ela sorri.] Obrigada pelo elogio. Parece que vamos nos tornar boas amigas, @PCNAME@. Volte até mim quando encontrar os Elfos Negros e me conte o que descobriu. Teremos muito o que discutir quando retornar...}{}{88}{}{qu1046 1}
 {494}{Voltarei quando souber mais... adeus...}{}{5}{}{0}{qu1046 2}
 {498}{[Raven cora e então se aproxima, falando suavemente.] Volte até mim quando encontrar os Elfos Negros e me conte o que descobrir. [Quase um sussurro.] Teremos muito o que discutir...}{[Raven cora e então se aproxima, falando suavemente.] Volte até mim quando encontrar os Elfos Negros e me conte o que descobrir. [Quase um sussurro.] Teremos muito o que discutir...}{}{89}{}{qu1046 1, lf12 1, gf2364 1}
 {499}{Voltarei quando souber mais, Raven... adeus, por enquanto...}{}{5}{}{0}{qu1046 2}
-{501}{[Rigidamente, soltando sua mão.] S-sim, claro. Me perdoe. Não vou mais detê-lo. Volte até mim quando encontrar os elfos negros e me conte o que descobriu...}{[Rigidamente.] S-sim, claro. Me perdoe. Não vou mais detê-lo. Volte até mim quando encontrar os elfos negros e me conte o que descobriu...}{}{90}{}{qu1046 1}
+{501}{[Rigidamente, soltando sua mão.] S-sim, claro. Perdoe-me. Não vou mais detê-lo. Volte até mim quando encontrar os Elfos Negros e me conte o que descobriu...}{[Rigidamente.] S-sim, claro. Perdoe-me. Não vou mais detê-lo. Volte até mim quando encontrar os Elfos Negros e me conte o que descobriu...}{}{90}{}{qu1046 1}
 {502}{Voltarei quando tiver mais informações sobre isso...}{}{5}{}{}{qu1046 2}
 {506}{Tudo bem... mas volte logo! Precisamos conversar mais sobre essas visões. Não acredito que já tenhamos encontrado o que procuramos...}{Tudo bem... mas volte logo! Precisamos conversar mais sobre essas visões. Não acredito que já tenhamos encontrado o que procuramos...}{}{91}{}{}
 {507}{Claro... mas tenho algumas perguntas gerais a mais...}{}{5}{}{101}{}
@@ -321,7 +320,7 @@
 {510}{Certo. Mas volte quando quiser falar sobre elas. Havia mais alguma coisa?}{Certo. Mas volte quando quiser falar sobre elas. Havia mais alguma coisa?}{}{92}{}{}
 {511}{Tenho algumas perguntas gerais a mais...}{}{5}{}{101}{}
 {512}{E:}{}{5}{}{0}{}
-{516}{Estou muito feliz que tenha retornado. Encontrou a vila dos Elfos Negros? O que aconteceu desde que nos deixou?}{Estou tão feliz que você voltou para nós. Encontrou a aldeia dos Elfos Negros? O que aconteceu desde que nos deixou?}{}{93}{}{qu1046 4}
+{516}{Estou tão feliz que você voltou para nós. Encontrou a aldeia dos Elfos Negros? O que aconteceu desde que nos deixou?}{Estou tão feliz que você voltou para nós. Encontrou a aldeia dos Elfos Negros? O que aconteceu desde que nos deixou?}{}{93}{}{qu1046 4}
 {517}{Viajei até Tarant e...[Conte a ela como encontrou T'sen-Ang.]}{}{5}{}{552}{}
 {522}{Estou tão feliz que você voltou em segurança, @PCNAME@, tão aliviada...[Ela segura suas mãos, seus olhos examinando você.] Está ferido? Talvez precise de cura...?}{Estou tão feliz que você voltou em segurança, @PCNAME@, tão aliviada...[Ela segura suas mãos, seus olhos examinando você.] Está ferido? Talvez precise de cura...?}{}{94}{}{qu1046 4}
 {523}{Não, Raven. Estou bem. Mas é bom vê-la...}{}{5}{}{527}{re +5}
@@ -347,14 +346,14 @@
 {553}{Pode ser difícil agendar uma reunião. Eu a matei...}{}{5}{gf1097 1}{562}{}
 {554}{Espero que você tenha a chance....}{}{5}{gf1097 0}{556}{}
 {556}{Eu também, eu também. E o que você descobriu com essa M'in Gorad...?}{Eu também, eu também. E o que você descobriu com essa M'in Gorad...?}{}{103}{}{lc4 2}
-{557}{Ela me falou sobre a CBM...[Conte para Raven o que você sabe.]}{}{5}{gf2000 1, gf2001 1}{653}{}
+{557}{Ela me falou sobre a BMC... [Conte ao Raven o que você sabe.]}{}{5}{gf2000 1, gf2001 1}{653}{}
 {558}{Eu obtive esta nota...}{}{5}{ gf1099 1}{645}{}
-{559}{Prefiro falar sobre isso mais tarde...}{}{5}{}{700}{}
+{559}{Prefiro falar sobre isso depois...}{}{5}{}{700}{}
 {562}{Você a matou? Isso é realmente lamentável, considerando os costumes élficos...[Ela se aproxima de você e sussurra...] Bem feito. Então, o que ela lhe disse?}{Você a matou? Isso é realmente lamentável, considerando os costumes élficos...[Ela se aproxima de você e sussurra...] Bem feito. Então, o que ela lhe disse?}{}{104}{}{lc4 2}
 {563}{Tudo o que ela disse foi que "Você não pode pará-lo agora. Arronax..."}{}{5}{gf2000 0}{658}{}
-{564}{Ela me falou sobre a CBM...[Conte para Raven o que você sabe.]}{}{5}{gf2000 1}{653}{}
+{564}{Ela me falou sobre a BMC... [Conte ao Raven o que você sabe.]}{}{5}{gf2000 1}{653}{}
 {565}{Eu obtive esta nota...}{}{5}{ gf1099 1}{645}{}
-{566}{Prefiro falar sobre isso mais tarde...}{}{5}{}{700}{}
+{566}{Prefiro falar sobre isso depois...}{}{5}{}{700}{}
 {568}{ELA? [Os olhos de Raven se estreitam enquanto ela joga os ombros para trás.] E o que ELA tinha a dizer? Você ficou lá tempo suficiente... obviamente vocês duas tinham muito o que discutir...}{ELA? [Os olhos de Raven se estreitam enquanto ela joga os ombros para trás.] E o que ELA tinha a dizer? Você ficou lá tempo suficiente... obviamente vocês duas tinham muito o que discutir...}{}{105}{}{}
 {569}{Não creio. Ela disse muito pouco antes de eu a matar...}{}{5}{gf1097 1}{579}{re +10}
 {570}{Sim... conversamos sobre a dedicatória no livro do Sr. Terwilliger...}{}{5}{ru 2001, lf15 0}{585}{lf15 1}
@@ -362,13 +361,13 @@
 {572}{Você vai ouvir, garota! O destino do mundo está em jogo!}{}{5}{}{593}{lf12 0, re -10, gf2364 0}
 {575}{E isso, @PCNAME@, é talvez o melhor elogio que já recebi. Obrigada... [Novamente, ela segura sua mão...] Conte-me sobre essa M'in Gorad... o que ela disse?}{E isso, @PCNAME@, é talvez o melhor elogio que já recebi. Obrigada... [Novamente, ela segura sua mão...] Conte-me sobre essa M'in Gorad... o que ela disse?}{}{106}{}{}
 {576}{Antes ou depois de eu a matar?}{}{5}{gf1097 1}{579}{re +5}
-{577}{Ela me falou sobre a CBM...[Conte para Raven o que você sabe.]}{}{5}{gf2000 1}{653}{}
+{577}{Ela me falou sobre a BMC... [Conte ao Raven o que você sabe.]}{}{5}{gf2000 1}{653}{}
 {579}{Matou ela? [Raven reprime um sorriso.] Isso foi realmente necessário, quero dizer... o costume élfico diz...[Ela se aproxima de você, falando baixinho...] Tenho certeza de que ela mereceu. O que ela lhe disse?}{Matou ela? [Raven reprime um sorriso.] Isso foi realmente necessário, quero dizer... o costume élfico diz...[Ela se aproxima de você, falando baixinho...] Tenho certeza de que ela mereceu. O que ela lhe disse?}{}{107}{}{lc4 2}
 {580}{Tudo o que ela disse foi que "Você não pode pará-lo agora. Arronax..."}{}{5}{gf1097 1}{658}{}
-{581}{Ela me falou sobre a CBM...[Conte para Raven o que você sabe.]}{}{5}{gf1097 1, gf2000 1}{653}{}
+{581}{Ela me falou sobre a BMC... [Conte ao Raven o que você sabe.]}{}{5}{gf1097 1, gf2000 1}{653}{}
 {582}{Eu obtive esta nota...}{}{5}{ gf1099 1}{645}{}
-{583}{Prefiro falar sobre isso mais tarde...}{}{5}{}{700}{}
-{585}{Dedicatória...? Ele escreveu algo...? Quero dizer, por que ele faria...? [Obviamente perturbada] O que, hã, o que dizia...?}{Dedicação...? Ele escreveu alguma coisa...? Quer dizer, por que ele faria...? [Obviamente perturbada] O que, hã, o que dizia...?}{}{108}{}{}
+{583}{Prefiro falar sobre isso depois...}{}{5}{}{700}{}
+{585}{Dedicação...? Ele escreveu alguma coisa...? Quer dizer, por que ele faria...? [Obviamente perturbada] O que, hã, o que dizia...?}{Dedicação...? Ele escreveu alguma coisa...? Quer dizer, por que ele faria...? [Obviamente perturbada] O que, hã, o que dizia...?}{}{108}{}{}
 {586}{[Conte a ela o que a dedicatória dizia...]}{}{5}{}{588}{}
 {588}{[Corando.] Que coisa linda de se dizer... [Com nostalgia, olhando para longe e depois para você...] Ele sempre foi tão atencioso...}{[Corando.] Que coisa linda de se dizer... [Com nostalgia, olhando para longe e depois para você...] Ele sempre foi tão atencioso...}{}{109}{}{}
 {589}{[Brincalhona.] E o que exatamente rolou entre vocês dois?}{}{5}{}{600}{}
@@ -376,7 +375,7 @@
 {591}{Estou cansada dessa conversa... falaremos sobre isso depois...}{}{5}{}{705}{lf12 0, gf2364 0}
 {593}{Claro... sinto MUITO por ter desperdiçado seu tempo. [Um pouco fria.] Então? O que houve com essa mulher, essa M'in Gorad? O que ela lhe contou?}{Claro... sinto MUITO por ter desperdiçado seu tempo. [Um pouco fria.] Então? O que houve com essa mulher, essa M'in Gorad? O que ela lhe contou?}{}{110}{}{}
 {594}{Eu a matei...}{}{5}{}{562}{re +5}
-{595}{Ela me falou sobre a BMC... [Conte a Raven o que você sabe.]}{}{5}{}{}{}
+{595}{Ela me falou sobre a BMC... [Conte ao Raven o que você sabe.]}{}{5}{}{}{}
 {597}{Claro... sinto MUITO por ter desperdiçado seu tempo. [Fria.] Então? E o Renford? Como ele está? Ainda mora em Tarant?}{Claro... sinto MUITO por ter desperdiçado seu tempo. [Fria.] Então? E o Renford? Como ele está? Ainda mora em Tarant?}{}{111}{}{}
 {598}{Não, Raven. Ele está morto há muito tempo...}{}{5}{}{617}{}
 {600}{Ah, nada... aquilo foi há muito tempo. Isso não te incomoda, incomoda?}{Ah, nada... aquilo foi há muito tempo. Isso não te incomoda, incomoda?}{}{112}{}{}
@@ -408,12 +407,12 @@
 {638}{E o que ela disse?}{E o que ela disse?}{}{122}{}{lc4 2}
 {639}{Você quer dizer antes ou depois de eu matá-la?}{}{5}{gf1097 1, lf12 0}{562}{}
 {640}{Você quer dizer antes ou depois de eu matá-la?}{}{5}{gf1097 1, lf12 1}{579}{}
-{641}{Ela me falou sobre a BMC...[Conte a Raven o que você sabe.]}{}{5}{gf2000 1, gf2001 1}{653}{}
+{641}{Ela me falou sobre a BMC... [Conte ao Raven o que você sabe.]}{}{5}{gf2000 1, gf2001 1}{653}{}
 {642}{Eu obtive esta nota...}{}{5}{ gf1099 1}{645}{}
 {643}{Prefiro falar sobre isso depois...}{}{5}{}{700}{}
 {645}{O que diz?}{O que diz?}{}{123}{}{lc4 3}
 {646}{Fala sobre a BMC e um homem chamado Arronax...[Mostre a ela.]}{}{5}{}{653}{lf13 1}
-{653}{Então... o Clã da Montanha Negra foi banido para ajudar Arronax a enfraquecer as barreiras. Ele está mesmo voltando. Nós, elfos, somos uma raça mágica e conhecemos os caminhos das runas e da profecia, mas eu nunca realmente pensei... Independentemente disso, devemos agir. Você deve falar com minha mãe... ela pode ser capaz de ver o que deve ser feito...}{Então... o Clã da Montanha Negra foi banido para ajudar Arronax a enfraquecer as barreiras. Ele está mesmo voltando. Nós, elfos, somos uma raça mágica e conhecemos os caminhos das runas e da profecia, mas eu nunca realmente pensei... Independentemente disso, devemos agir. Você deve falar com minha mãe... ela pode ser capaz de ver o que deve ser feito...}{}{124}{}{gf1098 1, lc4 3}
+{653}{Então... o Clã da Montanha Negra foi banido para ajudar Arronax a enfraquecer as barreiras. Ele realmente está voltando. Nós, elfos, somos uma raça mágica e sábios nos caminhos das runas e profecias, mas eu nunca realmente pensei... Independentemente disso, devemos agir. Você deve falar com minha mãe... ela pode ser capaz de ver o que deve ser feito...}{Então... o Clã da Montanha Negra foi banido para ajudar Arronax a enfraquecer as barreiras. Ele realmente está voltando. Nós, elfos, somos uma raça mágica e sábios nos caminhos das runas e profecias, mas eu nunca realmente pensei... Independentemente disso, devemos agir. Você deve falar com minha mãe... ela pode ser capaz de ver o que deve ser feito...}{}{124}{}{gf1098 1, lc4 3}
 {654}{Eu irei, Raven. Voltarei assim que tiver...}{}{5}{}{0}{lf17 1}
 {655}{Espere... tenho algumas perguntas sobre Arronax...}{}{5}{}{673}{}
 {656}{O que é essa referência a Vendigroth?}{}{5}{lf13 1}{695}{lf19 1}
@@ -422,20 +421,20 @@
 {661}{Sim, e agora M'in Gorad diz que "...você não pode detê-lo" e menciona Arronax... talvez isso seja mais grave do que qualquer um de nós imagina...}{Sim, e agora M'in Gorad diz que "...você não pode detê-lo" e menciona Arronax... talvez isso seja mais grave do que qualquer um de nós imagina...}{}{126}{}{gf1098 1}
 {662}{Quem é Arronax?}{}{5}{}{673}{}
 {663}{O que devemos fazer?}{}{5}{}{667}{}
-{664}{Eu também li uma nota que ela tinha...}{}{5}{gf1099 1, lf13 0}{645}{}
-{665}{E a referência da nota a Vendigroth?}{}{5}{gf1099 1, lf13 1, lf19 0}{695}{lf19 1}
+{664}{Eu também li um bilhete que ela tinha...}{}{5}{gf1099 1, lf13 0}{645}{}
+{665}{E a referência do bilhete a Vendigroth?}{}{5}{gf1099 1, lf13 1, lf19 0}{695}{lf19 1}
 {667}{Minha mãe saberá o caminho que devemos tomar... ela pode ser capaz de enxergar através de tudo isso e nos dizer o que deve ser feito...}{Minha mãe saberá o caminho que devemos tomar... ela pode ser capaz de enxergar através de tudo isso e nos dizer o que deve ser feito...}{}{127}{}{gf1098 1}
 {668}{Falarei com ela, Raven, e voltarei assim que tiver...}{}{5}{}{0}{lf17 1}
 {669}{O que você pode me contar sobre Arronax?}{}{5}{}{673}{}
-{670}{Eu também li uma nota que ela tinha...}{}{5}{gf1099 1, lf13 0}{645}{}
-{671}{E a referência da nota a Vendigroth?}{}{5}{gf1099 1, lf13 1, lf19 0}{695}{lf19 1}
+{670}{Eu também li um bilhete que ela tinha...}{}{5}{gf1099 1, lf13 0}{645}{}
+{671}{E a referência do bilhete a Vendigroth?}{}{5}{gf1099 1, lf13 1, lf19 0}{695}{lf19 1}
 {673}{A história de Arronax é antiga... ele era um elfo poderoso que viveu na Era das Lendas. Naquela época, havia um conselho élfico que governava a terra, e Arronax havia desafiado-os. Houve uma grande luta entre eles, e Arronax foi banido para o Vazio. A história, claro, é muito mais complicada do que isso, mas esses são os pontos importantes...}{A história de Arronax é antiga... ele era um elfo poderoso que viveu na Era das Lendas. Naquela época, havia um conselho élfico que governava a terra, e Arronax havia desafiado-os. Houve uma grande luta entre eles, e Arronax foi banido para o Vazio. A história, claro, é muito mais complicada do que isso, mas esses são os pontos importantes...}{}{128}{}{}
 {674}{O Vazio? O que é o Vazio?}{}{5}{}{681}{}
-{675}{O que você quer dizer com 'Era das Lendas'?}{}{5}{}{413}{}
+{675}{O que você quer dizer com a 'Era das Lendas'?}{}{5}{}{413}{}
 {676}{Qual é o resto da história?}{}{5}{}{688}{}
 {677}{O que devemos fazer?}{}{5}{}{667}{}
-{678}{Eu também li uma nota que ela tinha...}{}{5}{gf1099 1, lf13 0}{645}{}
-{679}{E a referência da nota a Vendigroth?}{}{5}{gf1099 1, lf13 1, lf19 0}{695}{lf19 1}
+{678}{Eu também li um bilhete que ela tinha...}{}{5}{gf1099 1, lf13 0}{645}{}
+{679}{E a referência do bilhete a Vendigroth?}{}{5}{gf1099 1, lf13 1, lf19 0}{695}{lf19 1}
 {681}{O Vazio é para onde as pessoas vão quando são banidas. Não me pergunte sobre isso... eu não sei como é. Na verdade, ninguém sabe, porque ninguém jamais voltou de lá.}{O Vazio é para onde as pessoas vão quando são banidas. Não me pergunte sobre isso... eu não sei como é. Na verdade, ninguém sabe, porque ninguém jamais voltou de lá.}{}{129}{}{}
 {682}{O que você quer dizer com a 'Era das Lendas'?}{}{5}{}{413}{}
 {683}{O que mais há na história de Arronax...?}{}{5}{}{688}{}
@@ -448,20 +447,20 @@
 {691}{O que devemos fazer?}{}{5}{}{667}{}
 {692}{Eu também li um bilhete que ela tinha...}{}{5}{gf1099 1, lf13 0}{645}{}
 {693}{E a referência do bilhete a Vendigroth?}{}{5}{gf1099 1, lf13 1, lf19 0}{695}{lf19 1}
-{695}{Vendigroth? Eu sei que as Terras Devastadas de Vendigroth ficam ao norte, e que Vendigroth tem um papel nas lendas Panarii sobre Arronax. Há um debate se foi uma cidade real ou apenas algo simbólico. Parece que os Elfos Negros, e essa K'an Hua, podem ter encontrado algo lá...}{Vendigroth? Eu sei que as Terras Devastadas de Vendigroth ficam ao norte, e que Vendigroth tem um papel nas lendas Panarii sobre Arronax. Há um debate se foi uma cidade real ou apenas algo simbólico. Parece que os Elfos Negros, e essa K'an Hua, podem ter encontrado algo lá...}{}{131}{}{}
+{695}{Vendigroth? Eu sei que as Terras Devastadas de Vendigroth ficam a nordeste e que Vendigroth tem um papel nas lendas Panarii de Arronax. Há debate se era uma cidade real ou apenas algo simbólico. Parece que os Elfos Negros, e essa K'an Hua, podem ter encontrado algo lá...}{Vendigroth? Eu sei que as Terras Devastadas de Vendigroth ficam a nordeste e que Vendigroth tem um papel nas lendas Panarii de Arronax. Há debate se era uma cidade real ou apenas algo simbólico. Parece que os Elfos Negros, e essa K'an Hua, podem ter encontrado algo lá...}{}{131}{}{}
 {696}{Tenho algumas perguntas sobre Arronax...}{}{5}{}{673}{}
 {697}{O que devemos fazer?}{}{5}{}{667}{}
 {700}{Tudo bem... mas volte logo! Ainda temos muito o que discutir aqui...}{Tudo bem... mas volte logo! Ainda temos muito o que discutir aqui...}{}{132}{}{lf18 0}
 {701}{Eu irei, Raven.}{}{5}{}{}{lf17 1}
 {705}{Sim, talvez seja melhor conversarmos mais tarde. Sua companhia me cansa rapidamente. [Friamente.] Volte quando seu humor melhorar.}{Sim, talvez seja melhor conversarmos mais tarde. Sua companhia me cansa rapidamente. [Friamente.] Volte quando seu humor melhorar.}{}{133}{}{lf17 0}
-{706}{Adeus, Raven.}{}{5}{}{}{lf18 1}
+{706}{Adeus, Corvo.}{}{5}{}{}{lf18 1}
 {710}{Sim, acho que precisamos falar sobre isso... onde estávamos?}{Sim, acho que precisamos falar sobre isso... onde estávamos?}{}{134}{}{}
 {711}{Eu falei com M'in Gorad... ELA era uma pessoa muito interessante...}{}{5}{lf12 1, gf2001 1, lc4 1}{568}{}
 {712}{Eu falei com M'in Gorad... ELA era uma pessoa muito interessante...}{}{5}{lf12  0, gf2001 1, lc4 1}{552}{}
 {713}{M'in Gorad... ELA era uma pessoa muito interessante...}{}{5}{gf2001 0, lf12 0, lc4 1}{552}{}
 {714}{M'in Gorad... ELA era uma pessoa muito interessante...}{}{5}{gf2001 0, lf12 1, lc4 1}{568}{}
-{715}{Tudo o que M'in Gorad disse foi "Você não pode pará-lo agora. Arronax..."}{}{5}{gf2000 0, gf2001 1, lc4 2}{658}{}
-{716}{Ela me falou sobre a BMC... [Conte a Raven o que você sabe.]}{}{5}{gf2000 1, gf2001 1, lc4 2}{653}{}
+{715}{Tudo o que M'in Gorad disse foi: "Você não pode pará-lo agora. Arronax..."}{}{5}{gf2000 0, gf2001 1, lc4 2}{658}{}
+{716}{Ela me falou sobre a BMC... [Conte ao Raven o que você sabe.]}{}{5}{gf2000 1, gf2001 1, lc4 2}{653}{}
 {717}{Eu não falei com ela, mas obtive esta nota...}{}{5}{gf2001 0, gf1099 1, lc4 2}{645}{}
 {718}{Agora que sabemos sobre Arronax, o que devemos fazer?}{}{5}{lc4 3}{667}{}
 {719}{Sinto muito. Prefiro falar sobre isso mais tarde...}{}{5}{}{0}{}
@@ -489,7 +488,7 @@
 {755}{Vou fazer isso, Raven. Muito obrigado pela sua ajuda...}{}{5}{}{}{fl 757}
 {757}{Boa sorte, @PCNAME@. Espero que tudo dê certo... para todos nós...}{Boa sorte, @PCNAME@. Espero que tudo dê certo... para todos nós...}{}{142}{}{}
 {759}{Tenho muito com o que me preocupar aqui em Qintarra. Mas meus melhores votos vão com você, junto com meus agradecimentos. Espero que tudo dê certo... para todos nós...}{Tenho muito com o que me preocupar aqui em Qintarra. Mas meus melhores votos vão com você, junto com meus agradecimentos. Espero que tudo dê certo... para todos nós...}{}{143}{}{}
-{760}{Obrigado, Raven. Adeus.}{}{5}{}{0}{}
+{760}{Obrigado, Corvo. Adeus.}{}{5}{}{0}{}
 {762}{[Ela se aproxima, dizendo baixinho...] Eu esperava que você oferecesse. [E então, para que todos ouçam...] Tenho muitas responsabilidades aqui em Qintarra, mas acho que meu lugar é ao seu lado. Este assunto afeta todo o Arcanum, e os elfos mais diretamente. Sim, @PCNAME@, irei com você e farei o que precisa ser feito, se me aceitar...}{[Ela se aproxima, dizendo baixinho...] Eu esperava que você oferecesse. [E então, para que todos ouçam...] Tenho muitas responsabilidades aqui em Qintarra, mas acho que meu lugar é ao seu lado. Este assunto afeta todo o Arcanum, e os elfos mais diretamente. Sim, @PCNAME@, irei com você e farei o que precisa ser feito, se me aceitar...}{}{144}{}{}
 {763}{Eu irei, Raven. Seria uma honra tê-lo comigo...}{}{5}{}{765}{}
 {765}{E será uma honra MINHA estar associado a alguém de tamanha coragem e integridade. Vamos?}{E será uma honra MINHA estar associado a alguém de tamanha coragem e integridade. Vamos?}{}{145}{}{}
@@ -506,8 +505,8 @@
 {780}{Sim, vamos partir...}{}{5}{}{0}{}
 {782}{Quem está no comando... como ousa? Sou filha da Rainha dos Elfos! Não recebo ordens de ninguém! Seria bom tê-la em seu grupo, @PCNAME@!}{Quem está no comando... como ousa? Sou filha da Rainha dos Elfos! Não recebo ordens de ninguém! Seria bom tê-la em seu grupo, @PCNAME@!}{}{150}{}{}
 {783}{Perdoe-me... viajaremos como iguais. Você se juntará a mim?}{}{5}{}{796}{lf22 1, jo 0 786}
-{784}{Agora que pensei melhor, prefiro ir sozinha...}{}{5}{}{792}{}
-{786}{Sim, como iguais. [Seu comportamento em relação a você é um pouco distante.] Então terá a mim, amigo?}{Sim, como iguais. [Seu comportamento em relação a você é um pouco distante.] Então terá a mim, amigo?}{}{151}{}{}
+{784}{Agora que penso nisso, prefiro ir sozinho...}{}{5}{}{792}{}
+{786}{Sim, como iguais. [A atitude dela em relação a você é um pouco distante.] Então você me terá, amigo?}{Sim, como iguais. [A atitude dela em relação a você é um pouco distante.] Então você me terá, amigo?}{}{151}{}{}
 {787}{Sim...}{}{5}{}{789}{}
 {789}{Então vamos logo. Estou ansioso para fazer o que precisa ser feito...}{Então vamos logo. Estou ansioso para fazer o que precisa ser feito...}{}{152}{}{}
 {790}{Como eu também. Vamos...?}{}{5}{}{0}{}
@@ -518,18 +517,18 @@
 {799}{Espere... há algo errado aqui... você está diferente...}{Espere... há algo errado aqui... você está diferente...}{}{155}{}{}
 {800}{O quê? O que você quer dizer?}{}{5}{}{802}{}
 {801}{Hã? O que você quer dizer?}{}{-4}{}{977}{}
-{802}{Você fez negócios com eles, não foi? Os Elfos Negros! Eu consigo ver... você concordou em ajudá-los! Não posso acreditar nisso. Pensei que você fosse diferente...}{Você fez negócios com eles, não foi? Os Elfos Negros! Eu consigo ver... você concordou em ajudá-los! Não posso acreditar nisso. Pensei que você fosse diferente...}{}{156}{}{}
+{802}{Você lidou com eles, não foi? Os Elfos Negros! Eu posso ver... você concordou em ajudá-los! Não posso acreditar nisso. Pensei que fosse diferente...}{Você lidou com eles, não foi? Os Elfos Negros! Eu posso ver... você concordou em ajudá-los! Não posso acreditar nisso. Pensei que fosse diferente...}{}{156}{}{}
 {803}{Espere, Raven! Eu só concordei para poder voltar aqui!}{}{5}{}{806}{}
 {804}{Sim? E daí? O que VOCÊ pretende fazer a respeito?}{}{5}{}{806}{}
 {806}{[Raven dá um passo para trás, cerrando os punhos.] Faça sua escolha, agora mesmo. Está conosco ou contra nós?}{[Raven dá um passo para trás, cerrando os punhos.] Faça sua escolha, agora mesmo. Está conosco ou contra nós?}{}{157}{}{}
-{807}{Estou com vocês!}{}{5}{}{825}{}
+{807}{Estou com vocês!}{}{5}{}{814}{}
 {808}{Não serei forçado a fazer essa escolha por ninguém...}{}{5}{}{810}{}
-{810}{[O ar ao redor de Raven começa a brilhar em carmesim - seus olhos refletem o mesmo.] Escolha. Agora.}{[O ar ao redor de Raven começa a brilhar em carmesim - seus olhos refletem o mesmo.] Escolha. Agora.}{}{158}{}{}
-{811}{Tudo bem, tudo bem... estou com vocês.}{}{5}{}{825}{}
+{810}{[O ar ao redor de Raven começa a brilhar em carmesim-seus olhos refletem o mesmo.] Escolha. Agora.}{[O ar ao redor de Raven começa a brilhar em carmesim-seus olhos refletem o mesmo.] Escolha. Agora.}{}{158}{}{}
+{811}{Tudo bem, tudo bem... estou com vocês.}{}{5}{}{814}{}
 {812}{Uma pena, minha querida. Lamentarei ter que matá-la...}{}{5}{}{}{co, fl 820}
-{814}{Tudo bem... [Ela se acalma.] Acredito em você, @PCNAME@. Mas você precisa me provar que não tem aliança com os Elfos Negros. Vá. Mate M'in Gorad e volte...}{Tudo bem... [Ela se acalma.] Acredito em você, @PCNAME@. Mas você precisa me provar que não tem aliança com os Elfos Negros. Vá. Mate M'in Gorad e volte...}{}{159}{}{}
+{814}{Tá bom...[Ela se acalma.] Eu acredito em você, @PCNAME@. Mas você precisa provar que não tem aliança com os Elfos Negros. Vá. Mate M'in Gorad e volte...}{Tá bom...[Ela se acalma.] Eu acredito em você, @PCNAME@. Mas você precisa provar que não tem aliança com os Elfos Negros. Vá. Mate M'in Gorad e volte...}{}{159}{}{}
 {815}{Mas você nem sabe o que está acontecendo...}{}{5}{}{817}{}
-{817}{Agora! Não falarei mais com você até que isso seja feito. Não volte até que M'in Gorad esteja morto.}{Agora! Não falarei mais com você até que isso seja feito. Não volte até que M'in Gorad esteja morto.}{}{160}{}{}
+{817}{Agora! Não falarei mais com você até que tenha feito isso. Não volte até que M'in Gorad esteja morto.}{Agora! Não falarei mais com você até que tenha feito isso. Não volte até que M'in Gorad esteja morto.}{}{160}{}{}
 {818}{Tudo bem... vou fazer isso e voltar...}{}{5}{}{0}{gf2002 1}
 {820}{Não tolerarei o mal em Qintarra! Você morrerá aqui hoje...}{Não tolerarei o mal em Qintarra! Você morrerá aqui hoje...}{}{161}{}{}
 {825}{E eu não conheço VOCÊ. [Essa garota élfica é linda, mas obviamente está infeliz com você. Você não tem certeza, mas acha que pode ser por causa de suas deficiências mentais.]}{E eu não conheço VOCÊ. [Essa garota élfica é linda, mas obviamente está infeliz com você. Você não tem certeza, mas acha que pode ser por causa de suas deficiências mentais.]}{}{162}{}{}
@@ -566,7 +565,7 @@
 {863}{Não bata!  Tá bom?  Não bata!}{Não bata!  Tá bom?  Não bata!}{}{170}{}{}
 {864}{Sim!  Eu entendo!  Não bater!  Eu faço eles irem embora!}{}{-4}{}{867}{qu1019 2}
 {865}{Hã... eu não quero fazer isso agora.  Eu volto mais tarde.}{}{-4}{}{0}{}
-{867}{Obrigada, meu amigo simples.  Aqui está onde fica... [Ela aponta para o seu mapa.]  Tome cuidado!  E volte quando tiver terminado...}{Obrigada, meu amigo simples.  Aqui está onde fica... [Ela aponta para o seu mapa.]  Tome cuidado!  E volte quando tiver terminado...}{}{171}{}{ru 2052, mm 12}
+{867}{Obrigado, meu amigo simples. Aqui está onde fica... [Ela aponta para o seu mapa.] Tome cuidado! E volte quando tiver terminado isso...}{Obrigado, meu amigo simples. Aqui está onde fica... [Ela aponta para o seu mapa.] Tome cuidado! E volte quando tiver terminado isso...}{}{171}{}{ru 2052, mm 12}
 {868}{Eu vou!  Eu vou!  Tchau-tchau!}{}{-4}{}{0}{}
 {870}{Eu já te disse... precisamos de ajuda na Dor do Falcão.  Você vai fazer isso?}{Eu já te disse... precisamos de ajuda na Dor do Falcão.  Você vai fazer isso?}{}{172}{}{}
 {871}{Sim!  Eu faço!}{}{-4}{}{867}{}
@@ -587,7 +586,7 @@
 {894}{É? O quê?}{}{-4}{}{896}{}
 {896}{Muitos anos atrás, havia um homem que veio aqui procurando pelos Elfos Negros. Ele era humano, muito inteligente e um pouco exagerado no vestir. [Ela sorri, para si mesma.] O nome dele era Renford... Renford A. Terwilliger. Não sei onde ele está ou o que aconteceu com ele, mas se você o encontrar, ele pode saber algo sobre os Elfos Negros...}{Muitos anos atrás, havia um homem que veio aqui procurando pelos Elfos Negros. Ele era humano, muito inteligente e um pouco exagerado no vestir. [Ela sorri, para si mesma.] O nome dele era Renford... Renford A. Terwilliger. Não sei onde ele está ou o que aconteceu com ele, mas se você o encontrar, ele pode saber algo sobre os Elfos Negros...}{}{181}{}{qu1021 1, ss 10, ru 2055}
 {897}{Eu encontro ele! Onde Tu-u-r-r-wil-l-igrrr?}{}{-4}{}{899}{qu1021 2}
-{899}{Não sei, mas eu começaria procurando nas grandes cidades humanas. Volte até mim se encontrar a aldeia dos Elfos Negros. Ficarei MUITO interessada em saber se eles estão realmente por trás disso. Boa sorte!}{Não sei, mas eu começaria procurando nas grandes cidades humanas. Volte até mim se encontrar a aldeia dos Elfos Negros. Ficarei MUITO interessada em saber se eles estão realmente por trás disso. Boa sorte!}{}{182}{}{gf1046 1}
+{899}{Não sei, mas eu começaria procurando nas grandes cidades humanas. Volte até mim se encontrar a aldeia dos Elfos Negros. Ficarei MUITO interessado em saber se eles estão realmente por trás disso. Boa sorte!}{Não sei, mas eu começaria procurando nas grandes cidades humanas. Volte até mim se encontrar a aldeia dos Elfos Negros. Ficarei MUITO interessado em saber se eles estão realmente por trás disso. Boa sorte!}{}{182}{}{gf1046 1}
 {900}{Tá bom! Eu volto se encontrar eles, garota elfa bonita! Tchau!}{}{-4}{}{0}{gf1046 2}
 {902}{Gostaria de poder ajudá-lo mais. Encontre Renford A. Terwilliger... ele pode estar em uma das maiores cidades humanas. Boa sorte!}{Gostaria de poder ajudá-lo mais. Encontre Renford A. Terwilliger... ele pode estar em uma das maiores cidades humanas. Boa sorte!}{}{183}{}{}
 {904}{Você os encontrou! Parabéns! Talvez seu estado mental não seja tanto um empecilho quanto se poderia pensar! E encontrou M'in Gorad?}{Você os encontrou! Parabéns! Talvez seu estado mental não seja tanto um empecilho quanto se poderia pensar! E encontrou M'in Gorad?}{}{184}{}{}
@@ -596,10 +595,10 @@
 {907}{Sim! Eu matei ela também!}{}{-4}{gf1097 1}{928}{}
 {908}{Hmm... eu quero ir agora.}{}{-4}{}{0}{}
 {912}{Você não conseguiu NENHUMA informação na aldeia?}{Você não conseguiu NENHUMA informação na aldeia?}{}{185}{}{}
-{913}{Uhhh... ééé... aaaahhh...}{}{-4}{}{915}{}
+{913}{Uhhh...ããã...ooohhh..}{}{-4}{}{915}{}
 {915}{Então você terá que voltar quando tiver algo mais. Volte. Encontre M'in Gorad, ou algo que nos ajude a descobrir exatamente o que está acontecendo aqui. (Talvez toda essa história seja o delírio de um idiota. Espero que seja o caso.) Boa sorte...}{Então você terá que voltar quando tiver algo mais. Volte. Encontre M'in Gorad, ou algo que nos ajude a descobrir exatamente o que está acontecendo aqui. (Talvez toda essa história seja o delírio de um idiota. Espero que seja o caso.) Boa sorte...}{}{186}{}{}
 {916}{Tchau-tchau...}{}{-4}{}{0}{}
-{918}{Interessante. Parece que o Clã da Montanha Negra foi banido para ajudar Arronax a enfraquecer as barreiras. Ele está realmente voltando. Nós, elfos, somos uma raça mágica e conhecemos os caminhos das runas e profecias, mas eu nunca realmente pensei... Independentemente disso, devemos agir.}{Interessante. Parece que o Clã da Montanha Negra foi banido para ajudar Arronax a enfraquecer as barreiras. Ele está realmente voltando. Nós, elfos, somos uma raça mágica e conhecemos os caminhos das runas e profecias, mas eu nunca realmente pensei... Independentemente disso, devemos agir.}{}{187}{}{}
+{918}{Interessante. Parece que o Clã da Montanha Negra foi banido para ajudar Arronax a enfraquecer as barreiras. Ele realmente está voltando. Nós, elfos, somos uma raça mágica e sábios nos caminhos das runas e profecias, mas eu nunca realmente pensei... Independentemente disso, devemos agir.}{Interessante. Parece que o Clã da Montanha Negra foi banido para ajudar Arronax a enfraquecer as barreiras. Ele realmente está voltando. Nós, elfos, somos uma raça mágica e sábios nos caminhos das runas e profecias, mas eu nunca realmente pensei... Independentemente disso, devemos agir.}{}{187}{}{}
 {919}{O que a gente deve fazer, garota elfa bonita?}{}{-4}{}{922}{}
 {920}{Hã... o que é Arronax?}{}{-4}{}{935}{}
 {922}{Quando você partiu para encontrar os Elfos Negros, eu falei com minha mãe, a Dama Prateada, sobre você. Ela disse que, se você voltasse, era MUITO importante que falasse com ela...}{Quando você partiu para encontrar os Elfos Negros, eu falei com minha mãe, a Dama Prateada, sobre você. Ela disse que, se você voltasse, era MUITO importante que falasse com ela...}{}{188}{}{gf1098 1}
@@ -644,7 +643,7 @@
 {979}{Hã... e daí? O que VOCÊ vai fazer a respeito?}{}{-4}{}{981}{}
 {981}{[Raven dá um passo para trás, cerrando os punhos.] Faça sua escolha, agora mesmo. Está conosco ou contra nós?}{[Raven dá um passo para trás, cerrando os punhos.] Faça sua escolha, agora mesmo. Está conosco ou contra nós?}{}{206}{}{}
 {982}{Tá bom! Tá bom! Eu estou com você! Eu estou com você!}{}{-4}{}{989}{}
-{983}{Eu não tenho que fazer o que você diz, elfa!}{}{-4}{}{985}{}
+{983}{Eu não tenho que fazer o que você diz, garota-elfo!}{}{-4}{}{985}{}
 {985}{[O ar ao redor de Raven começa a brilhar em carmesim-seus olhos refletem o mesmo.] Escolha. Agora.}{[O ar ao redor de Raven começa a brilhar em carmesim-seus olhos refletem o mesmo.] Escolha. Agora.}{}{207}{}{}
 {986}{Tá bom! Eu estou com você!}{}{-4}{}{989}{}
 {987}{Que pena que tenho que te matar agora, elfa...}{}{-4}{}{}{co, fl 820}
@@ -668,7 +667,7 @@
 {1097}{O que sabe sobre Nasrudin, Raven?}{}{1}{ss 16, ss -16}{1408}{}
 {1100}{O que sabe sobre o Anel de Brodgar, Raven?}{}{1}{ss 19, ss -19}{1412}{}
 {1102}{O que sabe sobre o Vazio, Raven?}{}{1}{ss 21, ss -21}{1416}{}
-{1104}{Raven, o que sabe sobre Kerghan?}{}{1}{ss 23, ss -23}{1420}{}
+{1104}{Raven, o que sabe sobre Kerghan?}{}{1}{ss 22, ss -22}{1420}{}
 {1105}{Raven! O que vamos fazer agora?}{}{1}{ss 24, ss -24}{1429}{}
 {1107}{O que você sabe sobre este lugar?}{}{1}{ia 21, lf12 0, gf2364 0}{1213}{}
 {1108}{O que você sabe sobre este lugar?}{}{1}{ia 21, lf12 1, gf2364 1}{1217}{}
@@ -678,23 +677,23 @@
 {1118}{O que você sabe sobre este lugar?}{}{1}{ia 11, lf12 0, gf2364 0}{1243}{}
 {1119}{O que você sabe sobre este lugar?}{}{1}{ia 11, lf12 1, gf2364 1}{1247}{}
 {1122}{O que você sabe sobre este lugar?}{}{1}{ia 16}{1257}{}
-{1124}{O que você sabe sobre este lugar?}{}{1}{ia 20, lf12 0, gf2364 0}{1261}{}
-{1125}{O que você sabe sobre este lugar?}{}{1}{ia 20, lf12 1, gf2364 1, lf26 0}{1265}{lf26 1}
+{1124}{O que você sabe sobre este lugar?}{}{1}{ia 3, lf12 0, gf2364 0}{1261}{}
+{1125}{O que você sabe sobre este lugar?}{}{1}{ia 3, lf12 1, gf2364 1, lf26 0}{1265}{lf26 1}
 {1126}{O que você sabe sobre este lugar?}{}{1}{ia 22}{1290}{}
 {1127}{O que você sabe sobre este lugar?}{}{1}{ia 23,lf12 0, gf2364 0}{1294}{}
 {1128}{O que você sabe sobre este lugar?}{}{1}{ia 23, lf12 1, gf2364 1}{1298}{}
-{1129}{Raven, parece que você está chateado comigo. Há algo que eu possa fazer?}{}{1}{re -20}{1140}{}
+{1129}{Raven, você parece chateada comigo. Há algo que eu possa fazer?}{}{1}{re -20}{1140}{}
 {1130}{E:}{}{1}{}{0}{}
 {1140}{[Raven lhe lança um olhar fulminante.] Esta jornada não está saindo nada como eu havia planejado. Como companheiro, talvez eu tenha escolhido você de forma imprudente. Devo dizer, no entanto, que um bom gole de Água da Fonte Élfica sempre me ajuda a ver as coisas sob uma luz diferente...}{[Raven lhe lança um olhar fulminante.] Esta jornada não está saindo nada como eu havia planejado. Como companheiro, talvez eu tenha escolhido você de forma imprudente. Devo dizer, no entanto, que um bom gole de Água da Fonte Élfica sempre me ajuda a ver as coisas sob uma luz diferente...}{}{253}{}{}
 {1141}{Querida Raven, você tem certeza de que se sente assim...?}{}{1}{ch 20}{1147}{re +20}
 {1142}{Que sorte, Raven, pois eu acabei de conseguir um pouco bem aqui...}{}{1}{in 3615, ch -19}{-53}{re +20}
-{1143}{Interessante. Vou ver se consigo um pouco para você...}{}{1}{in -3615, ch -19}{1156}{}
+{1143}{Interessante. Vou ver se consigo um pouco para você...}{}{1}{ni 3615, ch -19}{1156}{}
 {1144}{Hmmm. É bom ter desejos, por mais tolos que possam ser...}{}{1}{}{}{gf2364  0, re -5, fl 1159}
 {1147}{[Raven tenta resistir ao seu poderoso carisma, mas falha.] Sim, suponho que você esteja certo. Talvez eu estivesse um pouco irritadiço. Vamos continuar...}{[Raven tenta resistir ao seu poderoso carisma, mas falha.] Sim, suponho que você esteja certo. Talvez eu estivesse um pouco irritadiço. Vamos continuar...}{}{254}{}{}
 {1148}{Sim, vamos partir...}{}{1}{}{0}{}
 {1150}{[Raven pega a garrafa, esvaziando-a em um só gole.] Ah, sim! Isso é muito melhor. Tenho que admitir que estou de muito melhor humor. Obrigado...}{[Raven pega a garrafa, esvaziando-a em um só gole.] Ah, sim! Isso é muito melhor. Tenho que admitir que estou de muito melhor humor. Obrigado...}{}{255}{}{}
-{1151}{Eu estava me perguntando se você gostaria de me acompanhar novamente, Raven?}{}{1}{pa -6613, pa -6426}{1198}{jo 0 1201}
-{1152}{Eu estava me perguntando se você gostaria de me acompanhar novamente, Raven?}{}{1}{pa 6613, pa -6426}{1183}{}
+{1151}{Eu estava me perguntando se você gostaria de se juntar a mim novamente, Raven?}{}{1}{pa -6613, pa -6426}{1198}{jo 0 1201}
+{1152}{Eu estava me perguntando se você gostaria de se juntar a mim novamente, Raven?}{}{1}{pa 6613, pa -6426}{1183}{}
 {1153}{De nada. Vamos...?}{}{1}{}{0}{}
 {1156}{Ótimo. E espero que seja mais cedo do que tarde, meu amigo...}{Ótimo. E espero que seja mais cedo do que tarde, meu amigo...}{}{256}{}{}
 {1157}{Vou ver isso, meu amigo. Vamos...}{}{1}{}{0}{}
@@ -713,14 +712,14 @@
 {1173}{E:}{}{1}{}{0}{}
 {1174}{O quê? Eu... bem, suponho que a decisão seja sua. Boa sorte para você, onde quer que sua jornada o leve...}{O quê? Eu... bem, suponho que a decisão seja sua. Boa sorte para você, onde quer que sua jornada o leve...}{}{215}{}{lf31 1}
 {1175}{E:}{}{1}{}{0}{}
-{1176}{Saudações. [Raven parece um pouco distante.] O que o traz de volta? Só passando por aqui ou havia algo em particular...?}{Saudações. [Raven parece um pouco distante.] O que o traz de volta? Só passando por aqui ou havia algo em particular...?}{}{216}{}{}
+{1176}{Saudações. [Corvo parece um pouco distante.] O que o traz de volta? Só passando por aqui ou havia algo em particular...?}{Saudações. [Corvo parece um pouco distante.] O que o traz de volta? Só passando por aqui ou havia algo em particular...?}{}{216}{}{}
 {1177}{Eu estava me perguntando se você gostaria de se juntar a mim novamente, Raven?}{}{5}{pa -6613}{1198}{jo 0 1201}
 {1178}{Eu estava me perguntando se você gostaria de se juntar a mim novamente, Raven?}{}{5}{pa 6613}{1183}{}
 {1179}{Raven, você parece chateada comigo. Há algo que eu possa fazer?}{}{5}{re -20}{1140}{}
 {1180}{E:}{}{5}{}{0}{}
 {1181}{Hã...}{}{-4}{}{}{fl 1070}
 {1183}{[Raven olha para Z'an Al'urin, seus olhos se estreitando.] Eu não vou a lugar nenhum com a mulher Elfa Negra. Se ela está com você, então eu não estou... é simples assim...}{[Raven olha para Z'an Al'urin, seus olhos se estreitando.] Eu não vou a lugar nenhum com a mulher Elfa Negra. Se ela está com você, então eu não estou... é simples assim...}{}{217}{}{}
-{1184}{Raven, tenho certeza de que minha presença ofusca a de Z'an Al'urin...}{}{1}{ch 20, lf23 0}{1195}{lf23 1}
+{1184}{Raven, tenho certeza de que minha presença ofusca a de Z'an Al'urin...}{}{1}{ch 20}{1195}{}
 {1185}{Raven! Ela não é como os outros! Você não confia em mim?}{}{1}{ch -19, lf23 0}{1189}{lf23 1}
 {1186}{Eu escolho você, Raven. Espere um momento, e eu me livrarei dela...}{}{1}{lf23 1}{0}{}
 {1187}{Então parece que você vai partir, Raven...}{}{1}{lf23 1}{1174}{lf12 0, gf2364 0, lv}
@@ -810,7 +809,7 @@
 {1294}{Thanatos? A ilha da morte? Não sei muito sobre ela, além de sua reputação. Recomendo que sejamos muito cautelosos...}{Thanatos? A ilha da morte? Não sei muito sobre ela, além de sua reputação. Recomendo que sejamos muito cautelosos...}{}{243}{}{}
 {1295}{K:}{}{1}{}{1040}{}
 {1296}{E:}{}{1}{}{0}{}
-{1298}{Thanatos? A ilha da morte? Não sei muito sobre ela, além de sua reputação. Recomendo que sejamos muito cautelosos. [Ela se inclina na sua direção, sussurrando.] E você... fique perto de mim. Não vou deixar que nada de ruim aconteça com você...}{Thanatos? A ilha da morte? Não sei muito sobre ela, além de sua reputação. Recomendo que sejamos muito cautelosos. [Ela se inclina na sua direção, sussurrando.] E você... fique perto de mim. Não vou deixar que nada de ruim aconteça com você...}{}{244}{}{}
+{1298}{Thanatos? A ilha da morte? Sei muito pouco sobre ela, além de sua reputação. Recomendo que sejamos muito cautelosos. [Ela se inclina para você, sussurrando.] E você... fique perto de mim. Não deixarei que nada de ruim aconteça com você...}{Thanatos? A ilha da morte? Sei muito pouco sobre ela, além de sua reputação. Recomendo que sejamos muito cautelosos. [Ela se inclina para você, sussurrando.] E você... fique perto de mim. Não deixarei que nada de ruim aconteça com você...}{}{244}{}{}
 {1299}{K:}{}{1}{}{1040}{}
 {1300}{E:}{}{1}{}{0}{}
 {1400}{Arronax? Um elfo muito poderoso da Era das Lendas que parece estar voltando do Vazio. Além disso, ele parece ter desenvolvido uma extrema antipatia por você...}{Arronax? Um elfo muito poderoso da Era das Lendas que parece estar voltando do Vazio. Além disso, ele parece ter desenvolvido uma extrema antipatia por você...}{}{245}{}{}
@@ -825,7 +824,7 @@
 {1412}{O Anel de Brodgar é o lugar onde Arronax foi banido para o Vazio... as pedras no próprio anel são guardiãs que o mantêm lá. É um lugar antigo, mas vazio. Quando você está lá, pode sentir o vazio que o banimento causou...}{O Anel de Brodgar é o lugar onde Arronax foi banido para o Vazio... as pedras no próprio anel são guardiãs que o mantêm lá. É um lugar antigo, mas vazio. Quando você está lá, pode sentir o vazio que o banimento causou...}{}{248}{}{}
 {1413}{K:}{}{1}{}{1040}{}
 {1414}{E:}{}{1}{}{0}{}
-{1416}{Não posso dizer que conheço este lugar. É como nada que eu já tenha visto... tão estranho e tão parado... Não senti vento algum. E não há sol aqui... de onde vem a luz? Como se o próprio tempo tivesse esquecido que este lugar existia...}{Não posso dizer que conheço algo sobre este lugar. É como nada que já tenha visto... tão estranho e tão parado... não senti vento algum. E não há sol aqui... de onde vem a luz? Como se o próprio tempo tivesse esquecido que este lugar existia...}{}{249}{}{}
+{1416}{Não posso dizer que conheço algo sobre este lugar. É como nada que já tenha visto... tão estranho e tão parado... não senti vento algum. E não há sol aqui... de onde vem a luz? Como se o próprio tempo tivesse esquecido que este lugar existia...}{Não posso dizer que conheço algo sobre este lugar. É como nada que já tenha visto... tão estranho e tão parado... não senti vento algum. E não há sol aqui... de onde vem a luz? Como se o próprio tempo tivesse esquecido que este lugar existia...}{}{249}{}{}
 {1417}{K:}{}{1}{}{1040}{}
 {1418}{E:}{}{1}{}{0}{}
 {1420}{Kerghan? Só sei que ele foi o primeiro necromante das trevas e que foi banido por isso. Parece que ele finalmente vai buscar sua vingança... e só nós temos o poder de detê-lo. Pelo menos eu, estou pronto para isso...}{Kerghan? Só sei que ele foi o primeiro necromante das trevas e que foi banido por isso. Parece que ele finalmente vai buscar sua vingança... e só nós temos o poder de detê-lo. Pelo menos eu, estou pronto para isso...}{}{250}{}{}
@@ -835,7 +834,7 @@
 {1425}{Eu sei, meu amor. Eu sei...}{Eu sei, meu amor. Eu sei...}{}{251}{}{}
 {1426}{K:}{}{1}{}{1040}{}
 {1427}{E:}{}{1}{}{0}{}
-{1429}{Essa é uma pergunta tola. Você vai desligar a máquina e ir dormir. Quero dizer, o jogo acabou. Não há mais nada a fazer. Boa noite...}{Essa é uma pergunta tola. Você vai desligar a máquina e ir dormir. Quero dizer, o jogo acabou. Não há mais nada a fazer. Boa noite...}{}{252}{}{}
+{1429}{Essa é uma pergunta tola. Você vai desligar a máquina e ir para a cama. Quero dizer, o jogo acabou. Não há mais nada a fazer. Boa noite...}{Essa é uma pergunta tola. Você vai desligar a máquina e ir para a cama. Quero dizer, o jogo acabou. Não há mais nada a fazer. Boa noite...}{}{252}{}{}
 {1430}{K:}{}{1}{}{1040}{}
 {1431}{E:}{}{1}{}{0}{}
 

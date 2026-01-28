@@ -15,9 +15,9 @@
 {15}{Hã... qual é o seu nome, malvado?}{}{-4}{lf1 0, re -40}{28}{}
 {16}{Hã... Eu pergunto uma coisa?}{}{-4}{lf1 1, re 41}{36}{}
 {17}{Hã... eu pergunto uma coisa, malvado?}{}{-4}{lf1 1, re -40}{36}{}
-{18}{Eu aprimorei minhas habilidades de Meta, Mestre Raymond.}{}{5}{lf4 1, sc8 5}{78}{}
-{19}{Eu aperfeiçoei minha aura mágica, Mestre Raymond.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{20}{Tenho interesse em me tornar um mestre de Meta.}{}{5}{gf2411 0, ma30, lf1 1}{101}{}
+{18}{Eu aprimorei minhas habilidades de Meta, Mestre Raymond.}{}{5}{lf4 1, sc8 5, lf5 0}{78}{}
+{19}{Eu aperfeiçoei minha aura mágica, Mestre Raymond.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{20}{Tenho interesse em me tornar um mestre de Meta.}{}{5}{gf2411 0, ma30, lf1 1, sc8 5}{101}{}
 {21}{Ainda não completei o teste para mestria, Sr. Raymond.}{}{5}{LF7 1, gf2420 0}{115}{}
 {22}{Completei o teste e me tornei mestre de Meta!}{}{5}{gf2420 1, lf9 0}{119}{}
 {27}{E:}{}{1}{}{0}{}
@@ -25,28 +25,28 @@
 {29}{É uma honra conhecê-lo, senhor.}{}{5}{sc8 1, sc8 -4, lf4 0}{73}{}
 {30}{É uma honra conhecê-lo, senhor.}{}{5}{sc8 5, lf5 0}{78}{}
 {31}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{sc8 0, lf3 0}{65}{}
-{32}{Por favor, explique Meta para mim.}{}{5}{sc8 0, lf2 0}{57}{}
-{33}{O quê, Meta?}{}{-4}{sc8 0, lf2 0}{57}{}
+{32}{Por favor, explique meta para mim.}{}{5}{sc8 0, lf2 0}{57}{}
+{33}{O quê meta?}{}{-4}{sc8 0, lf2 0}{57}{}
 {34}{Você acha que a teknawlugia te prejudica?}{}{-4}{sc8 0, lf3 0}{65}{}
 {35}{E:}{}{1}{sc8 0}{0}{}
 {36}{Como posso ajudá-lo, @pcname@?}{Como posso ajudá-lo, @pcname@?}{}{}{}{}
-{37}{Eu aprimorei minhas habilidades de Meta, Mestre Raymond.}{}{5}{lf4 1, sc8 5}{78}{}
-{38}{Eu aperfeiçoei minha aura mágica, Mestre Raymond.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{39}{Tenho interesse em me tornar um mestre de Meta.}{}{5}{gf2411 0, ma30}{101}{}
+{37}{Eu aprimorei minhas habilidades de Meta, Mestre Raymond.}{}{5}{lf4 1, sc8 5, lf5 0}{78}{}
+{38}{Eu aperfeiçoei minha aura mágica, Mestre Raymond.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{39}{Tenho interesse em me tornar um mestre de Meta.}{}{5}{gf2411 0, ma30, sc8 5}{101}{}
 {40}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
-{41}{Por favor, explique Meta para mim.}{}{5}{lf2 0}{57}{}
-{42}{O quê, Meta?}{}{-4}{lf2 0}{57}{}
+{41}{Por favor, explique meta para mim.}{}{5}{lf2 0}{57}{}
+{42}{O quê meta?}{}{-4}{lf2 0}{57}{}
 {43}{Você acha que a teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
 {44}{F:}{}{1}{}{0}{}
 {45}{E:}{}{1}{}{0}{}
 {46}{Precisa de mais alguma coisa?}{Precisa de mais alguma coisa?}{}{}{}{}
-{47}{Eu aprimorei minhas habilidades de Meta, Mestre Raymond.}{}{5}{lf4 1, sc8 5}{78}{}
-{48}{Eu aperfeiçoei minha aura mágica, Mestre Raymond.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{49}{Tenho interesse em me tornar um mestre de Meta.}{}{5}{gf2411 0, ma30}{101}{}
+{47}{Eu aprimorei minhas habilidades de Meta, Mestre Raymond.}{}{5}{lf4 1, sc8 5, lf5 0}{78}{}
+{48}{Eu aperfeiçoei minha aura mágica, Mestre Raymond.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{49}{Tenho interesse em me tornar um mestre de Meta.}{}{5}{gf2411 0, ma30, sc8 5}{101}{}
 {50}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
-{51}{Por favor, explique Meta para mim.}{}{5}{lf2 0}{57}{}
+{51}{Por favor, explique meta para mim.}{}{5}{lf2 0}{57}{}
 {52}{Não. Obrigado pelo seu tempo.}{}{5}{}{0}{}
-{53}{O quê, Meta?}{}{-4}{lf2 0}{57}{}
+{53}{O quê meta?}{}{-4}{lf2 0}{57}{}
 {54}{Você acha que a teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
 {55}{Não. Obrigado.}{}{-4}{}{0}{}
 {56}{E:}{}{1}{}{0}{}
@@ -82,7 +82,7 @@
 {86}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 1}{46}{}
 {87}{Extremamente difícil, senhor. Porém, minha perseverança valeu a pena.}{}{5}{gf2411 1}{46}{}
 {88}{E:}{}{1}{}{0}{}
-{89}{Você teve sucesso em todos os aspectos de meta, mas sinto uma fraqueza em sua aura mágica. Presumo que tenha estudado tecnologia também. Ah... o futuro se aproxima cada vez mais rápido... Se algum dia aumentar suas habilidades mágicas, volte a me procurar. Há mais a ser aprendido...}{Você teve sucesso em todos os aspectos de meta, mas sua aura de magia parece fraca. Receio que tenha sido contaminado pelos caprichos da tecnologia. Uma pena. ...se algum dia aumentar suas habilidades mágicas, volte a me procurar. Talvez eu tenha uma oferta para lhe apresentar.}{}{}{}{}
+{89}{Você teve sucesso em todos os aspectos de meta, mas sinto uma fraqueza em sua aura mágica. Presumo que tenha estudado tecnologia também. Ah... o futuro se aproxima cada vez mais rápido... Se algum dia aumentar suas habilidades mágicas, volte a me procurar. Há mais a ser aprendido...}{Você teve sucesso em todos os aspectos de meta, mas sua aura de magia parece fraca. Receio que tenha sido contaminado pelos caprichos da tecnologia. Uma pena. ...se algum dia aumentar suas habilidades mágicas, volte a me procurar. Talvez eu tenha uma oferta para lhe apresentar.}{}{}{}{lf8 1}
 {90}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
 {91}{Prefiro permanecer equilibrado entre magia e tecnologia.}{}{5}{}{46}{}
 {92}{Sim. Busco conhecimento tanto em magia quanto em tecnologia.}{}{5}{}{46}{}
@@ -103,7 +103,7 @@
 {108}{Vou pensar a respeito.}{}{5}{}{46}{}
 {109}{Não neste momento, obrigado.}{}{5}{}{46}{}
 {110}{E:}{}{1}{}{0}{}
-{111}{Uma excelente escolha. Aqui. [Ele retira o medalhão do pescoço.] Pegue este medalhão. Quando estiver preparado para enfrentar seu teste, coloque-o e prossiga pelo portal localizado no centro deste grande salão. Isso iniciará seu teste. Desejo-lhe sorte, @pcname@.}{Uma excelente escolha. Aqui. [Ele retira o medalhão do pescoço.] Pegue este medalhão. Quando estiver preparada para enfrentar seu teste, coloque-o e prossiga pelo portal localizado no centro deste grande salão. Isso iniciará seu teste. Desejo-lhe sorte, @pcname@.}{}{}{}{in-2840, lf7 1, gf2411 1}
+{111}{Uma excelente escolha. Aqui. [Ele retira o medalhão do pescoço.] Pegue este medalhão. Quando estiver preparada para enfrentar seu teste, coloque-o e prossiga pelo portal localizado no centro deste grande salão. Isso iniciará seu teste. Desejo-lhe sorte, @pcname@.}{Uma excelente escolha. Aqui. [Ele retira o medalhão do pescoço.] Pegue este medalhão. Quando estiver preparada para enfrentar seu teste, coloque-o e prossiga pelo portal localizado no centro deste grande salão. Isso iniciará seu teste. Desejo-lhe sorte, @pcname@.}{}{}{}{in-2840, lf7 1, gf2411 1}
 {112}{Obrigado.}{}{5}{}{0}{}
 {113}{A:}{}{5}{}{0}{}
 {114}{E:}{}{1}{}{0}{}
@@ -111,7 +111,7 @@
 {116}{Vou completar meus preparativos e realizar o teste. Adeus.}{}{5}{}{0}{}
 {117}{Vou me tornar um mestre! Adeus.}{}{5}{}{0}{}
 {118}{E:}{}{1}{}{0}{}
-{119}{Muito bem! Realmente muito bem, @pcname@! Pouquíssimos tive a alegria de parabenizar por tal conquista. Você verá que sua força em nossa escola foi multiplicada por duas vezes. Assim, sentirá metade do esforço ao lançar um feitiço. Parabéns novamente.}{Muito bem! Realmente muito bem, @pcname@! Pouquíssimos tive a alegria de parabenizar por tal conquista. Você verá que sua força em nossa escola foi multiplicada por duas vezes. Assim, sentirá metade do esforço ao lançar um feitiço. Parabéns novamente.}{}{}{}{}
+{119}{Muito bem! Realmente muito bem, @pcname@! Pouquíssimos tive a alegria de parabenizar por tal conquista. Você verá que sua força em nossa escola foi multiplicada por duas vezes. Assim, sentirá metade do esforço ao lançar um feitiço. Parabéns novamente.}{Muito bem! Realmente muito bem, @pcname@! Pouquíssimos tive a alegria de parabenizar por tal conquista. Você verá que sua força em nossa escola foi multiplicada por duas vezes. Assim, sentirá metade do esforço ao lançar um feitiço. Parabéns novamente.}{}{}{}{lf9 1}
 {120}{Obrigado, mestre.}{}{5}{}{0}{}
 {121}{Obrigado, Sr. Raymond. Posso lhe perguntar mais uma coisa?}{}{5}{}{46}{}
 {122}{E:}{}{1}{}{0}{}
@@ -119,7 +119,7 @@
 {124}{Oh. Essa é uma regra sábia...}{}{5}{}{46}{}
 {125}{Entendo...}{}{5}{}{46}{}
 {126}{E:}{}{1}{}{0}{}
-{127}{Os sinais são óbvios, para aqueles que desejam vê-los, @pcname@. Infelizmente, meus irmãos de Tulla preferem fechar os olhos para a verdade. Isso será a sua ruína.}{Os sinais são óbvios, para aqueles que desejam vê-los, @pcname@. Infelizmente, meus irmãos de Tulla preferem fechar os olhos para a verdade. Isso será a sua ruína.}{}{}{}{lf9 1}
+{127}{Os sinais são óbvios, para aqueles que desejam vê-los, @pcname@. Infelizmente, meus irmãos de Tulla preferem fechar os olhos para a verdade. Isso será a sua ruína.}{Os sinais são óbvios, para aqueles que desejam vê-los, @pcname@. Infelizmente, meus irmãos de Tulla preferem fechar os olhos para a verdade. Isso será a sua ruína.}{}{}{}{}
 {128}{Bem... essa é a sua opinião, de qualquer forma.}{}{5}{}{46}{}
 {129}{O senhor deve estar enganado! Recuso-me a ouvir isso! Adeus!}{}{5}{}{0}{}
 {130}{E:}{}{1}{}{0}{}

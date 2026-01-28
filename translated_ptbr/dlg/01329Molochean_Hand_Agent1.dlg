@@ -1,7 +1,7 @@
 {1}{[O homem à sua frente é um gnomo relativamente jovem, vestido com um terno bem-feito.] Com licença... mas não pude deixar de notar que você é novo na cidade. Ouvi falar do IFS Zéfiro... você estava no dirigível quando ele caiu?}{Com licença... mas não pude deixar de notar que você é novo na cidade. Ouvi falar do IFS Zéfiro... você estava no dirigível quando ele caiu?}{}{}{}{}
-{2}{Sim, eu estava.}{}{5}{}{13}{re +5}
+{2}{Sim, fui.}{}{5}{}{13}{re +5}
 {3}{Cuide da sua vida, senhor.}{}{5}{}{7}{re -5}
-{4}{Prefiro não falar sobre isso... estou bastante traumatizado com o ocorrido...}{}{5}{}{7}{}
+{4}{Prefiro não falar sobre isso... Estou bastante traumatizado com o ocorrido...}{}{5}{}{7}{}
 {5}{É... sim! Eu no dirigível!}{}{-4}{}{13}{re +5}
 {7}{Por favor, senhor! Preciso saber! Você estava naquele dirigível ou não? Tenho um motivo muito importante para querer saber! Suplico-lhe...!}{Por favor, senhora! Preciso saber! Você estava naquele dirigível ou não? Tenho um motivo muito importante para querer saber! Suplico-lhe...!}{}{}{}{}
 {8}{Se precisa saber... sim, eu estava no dirigível...}{}{5}{}{13}{}
@@ -44,10 +44,10 @@
 {58}{Hã... não me lembro...}{}{-4}{}{111}{}
 {60}{Sério? [O homem parece surpreso... um pouco nervoso.] Sim, bem... Preston estava ficando velho... às vezes tinha um pouco de dificuldade para se lembrar exatamente de onde estava. Ele estava no exterior... [ele baixa a voz]... recebendo "tratamentos"...}{Sério? [O homem parece surpreso... um pouco nervoso.] Sim, bem... Preston estava ficando velho... às vezes tinha um pouco de dificuldade para se lembrar exatamente de onde estava. Ele estava no exterior... [ele baixa a voz]... recebendo "tratamentos"...}{}{}{}{}
 {61}{Ah. Bem, suponho que o anel seja seu... [Dê a ele.]}{}{5}{in 2804, lf3 0}{54}{in 2804, gf2311 1, lf3 1}
-{62}{Hmm. Se estiver portando identificação, eu lhe darei o anel...}{}{5}{lf3 0}{74}{}
+{62}{Hmm. Se estiver carregando algum documento de identificação, eu lhe dou o anel...}{}{5}{lf3 0}{74}{}
 {63}{Acho melhor eu ir. Tenha um bom dia...}{}{5}{lf3 0}{68}{}
 {64}{Hã... aqui! Fique com o anel! [Dê a ele.]}{}{-4}{in 2804, lf3 0}{54}{in 2804, gf2311 1, lf3 1}
-{65}{Como eu sei que você é realmente irmão dele?}{}{-4}{lf3 0}{74}{}
+{65}{Como eu sei que você é mesmo irmão dele?}{}{-4}{lf3 0}{74}{}
 {66}{Eu vou indo...}{}{-4}{lf3 0}{68}{}
 {67}{E:}{}{1}{lf3 1}{111}{}
 {68}{Espere! Por favor...posso ficar com o anel? Parece que ele queria que eu o tivesse...sou o irmão caçula dele...ele, hã, costumava me chamar de "garoto" o tempo todo. [Sua voz falha. Então ele sussurra...] É tudo o que me resta para me lembrar dele...}{Espere! Por favor...posso ficar com o anel? Parece que ele queria que eu o tivesse...sou o irmão caçula dele...ele, hã, costumava me chamar de "garoto" o tempo todo. [Sua voz falha. Então ele sussurra...] É tudo o que me resta para me lembrar dele...}{}{}{}{}
@@ -89,21 +89,21 @@
 {113}{Me desculpe... meu nome é @PCNAME@.}{}{5}{}{119}{re +5}
 {114}{Eu chamei @PCNAME@!}{}{-4}{}{119}{re +5}
 {116}{[Ele parece surpreso com sua resposta.] Hum! Não precisa ser rude, senhor. Suponho que vá ficar aqui em Colinas Sombrias. Tenho certeza de que nos veremos de novo...}{[Ele parece surpreso com sua resposta.] Hum! Não precisa ser rude, senhora. Suponho que vá ficar aqui em Colinas Sombrias. Tenho certeza de que nos veremos de novo...}{}{}{}{}
-{119}{Um prazer conhecê-lo, @PCNAME@. Vou ficar aqui na cidade... tenho certeza de que vamos nos encontrar de novo...}{Um prazer conhecê-la, @PCNAME@. Vou ficar aqui na cidade... tenho certeza de que vamos nos encontrar de novo...}{}{}{}{}
+{119}{Um prazer conhecê-la, @PCNAME@. Vou ficar aqui na cidade... tenho certeza de que vamos nos encontrar de novo...}{Um prazer conhecê-la, @PCNAME@. Vou ficar aqui na cidade... tenho certeza de que vamos nos encontrar de novo...}{}{}{}{}
 {120}{E:}{}{5}{}{0}{lf2 1, gf2132 1}
 {121}{E:}{}{-4}{}{0}{lf2 1, gf2132 1}
 {123}{[O homem sorri.] Posso te pagar 50 peças de ouro por ele...}{[O homem sorri.] Posso te pagar 50 peças de ouro por ele...}{}{}{}{}
-{124}{Trato feito. [Entregue a ele.]}{}{5}{}{135}{in 2804, $$50, lf3 1}
-{125}{Te dou por 55. [Entregue a ele.]}{}{5}{ha 7}{135}{in 2804, $$55, lf3 1}
-{126}{Te dou por 60. [Entregue a ele.]}{}{5}{ha 6, ha -6}{135}{in 2804, $$60, lf3 1}
-{127}{Te dou por 65. [Entregue a ele.]}{}{5}{ha -5}{135}{in 2804, $$65, lf3 1}
+{124}{Trato feito. [Entregue a ele.]}{}{5}{}{135}{in 2804, $$50, gf2311 1, lf3 1}
+{125}{Te dou por 55. [Entregue a ele.]}{}{5}{ha -5}{135}{in 2804, $$55, gf2311 1, lf3 1}
+{126}{Te dou por 60. [Entregue a ele.]}{}{5}{ha 6, ha -6}{135}{in 2804, $$60, gf2311 1, lf3 1}
+{127}{Te dou por 65. [Entregue a ele.]}{}{5}{ha 7}{135}{in 2804, $$65, gf2311 1, lf3 1}
 {128}{Esquece. Vou ficar com o anel.}{}{5}{}{95}{}
-{129}{Tá bom! [Entregue a ele.]}{}{-4}{}{135}{in 2804, $$50, lf3 1}
-{130}{Mais! 55 de ouro! [Entregue a ele.]}{}{-4}{ha 7}{135}{in 2804, $$55, lf3 1}
-{131}{Mais! 60 de ouro! [Entregue a ele.]}{}{-4}{ha 6, ha -6}{135}{in 2804, $$60, lf3 1}
-{132}{Mais! 65 de ouro! [Entregue a ele.]}{}{-4}{ha -5}{135}{in 2804, $$65, lf3 1}
+{129}{Tá bom! [Entregue a ele.]}{}{-4}{}{135}{in 2804, $$50, gf2311 1, lf3 1}
+{130}{Mais! 55 de ouro! [Entregue a ele.]}{}{-4}{ha -5}{135}{in 2804, $$55, gf2311 1, lf3 1}
+{131}{Mais! 60 de ouro! [Entregue a ele.]}{}{-4}{ha 6, ha -6}{135}{in 2804, $$60, gf2311 1, lf3 1}
+{132}{Mais! 65 de ouro! [Entregue a ele.]}{}{-4}{ha 7}{135}{in 2804, $$65, gf2311 1, lf3 1}
 {133}{Vou ficar com o anel.}{}{-4}{}{95}{}
-{135}{Feito. Muito obrigado. Suponho que vá ficar aqui em Colinas Sombrias? Tenho certeza de que nos veremos de novo...}{Pronto. Muito obrigado. Imagino que vá ficar aqui em Colinas Veladas, não é? Tenho certeza de que nos veremos novamente...}{}{}{}{}
+{135}{Pronto. Muito obrigado. Imagino que vá ficar aqui em Colinas Veladas, não é? Tenho certeza de que nos veremos novamente...}{Pronto. Muito obrigado. Imagino que vá ficar aqui em Colinas Veladas, não é? Tenho certeza de que nos veremos novamente...}{}{}{}{}
 {136}{E:}{}{5}{}{0}{lf2 1, gf2132 1}
 {137}{E:}{}{-4}{}{0}{lf2 1, gf2132 1}
 {138}{Não temos mais nada para conversar, senhor. Tenho arranjos a fazer. Tenha um bom dia...}{Não temos mais nada para conversar, senhora. Tenho arranjos a fazer. Tenha um bom dia...}{}{}{}{}

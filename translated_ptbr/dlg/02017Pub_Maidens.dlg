@@ -214,7 +214,7 @@
 {243}{Hã... o que tá acontecendo?}{}{-4}{}{-179}{}
 {245}{Apenas tomando uma bebida. [Ela sorri para você.] Talvez esteja interessado em um jogo de inteligência, senhor? Não há nada mais atraente do que um homem inteligente. Aposto 500 moedas que você não sabe a resposta para uma pergunta que tenho. O que me diz?}{Apenas tomando uma bebida. [Ela arqueia uma sobrancelha para você.] Talvez esteja interessada em um jogo de inteligência, madame? Aposto 500 moedas que você não sabe a resposta para uma pergunta que tenho. Entendo se estiver um pouco receosa em se testar contra uma mulher como eu.}{}{}{}{}
 {246}{Claro...}{}{5}{$$500}{-208}{lf 17 1}
-{247}{Não tenho 20 moedas. Talvez você prefira jogar dados?}{}{5}{$$-499, lf 16 0}{1}{}
+{247}{Não tenho 500 moedas. Talvez você queira jogar dados em vez disso?}{}{5}{$$-499, lf 16 0}{1}{}
 {248}{Eu preferiria jogar dados...}{}{5}{$$20, lf 16 0}{1}{}
 {249}{Hã... claro!}{}{-4}{$$500}{-208}{lf 17 1}
 {250}{Eu não tenho dinheiro... jogar dados, talvez?}{}{-4}{$$-499, lf 16 0}{1}{}
@@ -226,7 +226,7 @@
 {259}{Não. Não posso dizer que saiba...}{}{5}{}{263}{}
 {260}{Ah, sim! Eu estava no dirigível! [Conte a história.]}{}{-4}{}{-198}{}
 {261}{Não... eu não sei nada sobre isso...}{}{-4}{}{263}{}
-{263}{[Ela parece um pouco decepcionada.] Bem, acho que é isso. Suponho que foi uma boa conversa enquanto durou. [Ela lhe lança um último olhar esfumaçado.] Tenha um bom dia, forasteiro...}{Bem, suponho que uma pessoa não possa saber tudo. Adeus, madame...}{}{}{}{}
+{263}{[Ela parece um pouco decepcionada.] Bem, acho que é isso. Suponho que foi uma boa conversa enquanto durou. [Ela lhe lança um último olhar esfumaçado.] Tenha um bom dia, forasteiro...}{Bem, suponho que ninguém pode saber de tudo. Adeus, madame...}{}{}{}{}
 {264}{E:}{}{1}{}{0}{lf 17 1}
 {277}{[Os olhos dela se arregalam. Ela dá um passo mais perto de você.] Céus! Você é o sobrevivente do acidente do dirigível, não é? Li sobre você no jornal! Um homem tão CORAJOSO... [Ela sorri, misteriosamente.]}{[Os olhos dela se arregalam.] Céus! Você é a sobrevivente do acidente do dirigível, não é? Li sobre você no jornal! Uma mulher tão corajosa! Um exemplo para todos nós!}{}{}{}{}
 {278}{Sim... fui eu.}{}{5}{}{-198}{}
@@ -239,10 +239,10 @@
 {288}{E:}{}{1}{}{0}{lf 17 1}
 {290}{[Ela levanta o nariz no ar.] Está me chamando de mentirosa, senhor? Acho que sei reconhecer um homem quando o vejo! Você é incrivelmente rude, e não vou aturar mais isso. Tenha um bom dia...}{[Ela levanta o nariz no ar.] Está me chamando de mentirosa, madame? Acho que sei reconhecer uma mulher quando a vejo! Você é incrivelmente rude, e não vou aturar mais isso. Tenha um bom dia...}{}{}{}{}
 {291}{E:}{}{1}{}{0}{lf 17 1}
-{297}{Que história incrível, senhor! [Os olhos dela brilham.] E você... você é um homem incrível! [Ela olha ao redor, maliciosamente.] Sei que não é apropriado para uma dama fazer isso, mas me permitiria lhe pagar uma bebida? Isso me deixaria tão feliz...}{Que história incrível, madame! [Os olhos dela brilham.] E você... você é uma mulher incrível! Não sei se é do tipo que bebe... quero dizer, não quero fazer suposições... mas me permitiria lhe pagar uma bebida? Gostaria de brindar ao seu exemplo de coragem!}{}{}{}{}
+{297}{Essa é uma história incrível, senhor! [Os olhos dela brilham.] E o senhor... o senhor é um homem espantoso! [Ela olha ao redor, maliciosamente.] Sei que não é apropriado para uma dama fazer isso, mas o senhor me permitiria lhe pagar uma bebida? Isso me deixaria TÃO feliz...}{Essa é uma história incrível, madame! [Os olhos dela brilham.] E a senhora... a senhora é uma mulher espantosa! Não sei se a senhora é do tipo que bebe... quero dizer, não quero fazer suposições... mas me permitiria lhe pagar uma bebida? Gostaria de brindar ao seu exemplo de coragem!}{}{}{}{}
 {298}{Claro! [Bebê-la.]}{}{5}{}{-195}{}
 {299}{Desculpe, não bebo. Mas obrigado pela oferta...}{}{5}{}{303}{}
-{300}{Claro! Eu bebo!}{}{-4}{}{-195}{}
+{300}{É! Vou beber!}{}{-4}{}{-195}{}
 {301}{Hã... eu não beber...}{}{-4}{}{303}{}
 {303}{[Ela sorri, mas parece um pouco triste.] Oh, suponho que um homem tenha o direito de recusar uma bebida. [Ela segura sua mão.] Boa sorte para você, senhor...}{Claro... é apenas apropriado que uma dama controle sua ingestão. [Ela sorri, os olhos rindo.] Vou beber por nós duas. Tenha um bom dia, madame...}{}{}{}{}
 {304}{E:}{}{1}{}{0}{lf 17 1}
@@ -287,7 +287,7 @@
 {354}{Hã... eu não beber...}{}{-4}{}{303}{}
 {357}{[Ela pisca os cílios de forma encantadora.] Um jogo de inteligência, senhor? Não há nada mais atraente do que um homem inteligente. Aposto 500 moedas que você não sabe a resposta para uma pergunta que tenho. O que me diz?}{Um jogo de inteligência, senhora? Aposto 20 moedas que você não sabe a resposta para uma pergunta que tenho. Entendo se estiver um pouco receosa em testar-se contra uma mulher como eu?}{}{}{}{}
 {358}{Claro...}{}{5}{$$500}{-208}{lf 17 1}
-{359}{Não tenho 20 moedas. Talvez você prefira jogar dados?}{}{5}{$$-499, lf 16 0}{1}{}
+{359}{Não tenho 500 moedas. Talvez você queira jogar dados em vez disso?}{}{5}{$$-499, lf 16 0}{1}{}
 {360}{Eu preferiria jogar dados...}{}{5}{$$20, lf 16 0}{1}{}
 {361}{Hã... claro!}{}{-4}{$$500}{-208}{lf 17 1}
 {362}{Eu não tenho dinheiro... jogar dados, talvez?}{}{-4}{$$-499, lf 16 0}{1}{}

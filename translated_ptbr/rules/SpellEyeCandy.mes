@@ -170,11 +170,8 @@
 // 17 -- Wall of Stone
 {170}{Art: 90, Palette: 1, Scale: 100%, Blend: Add, Sound: 12030, Flags: overlay_f | animates, Light: 1, Light Color:  (201 @ 164 @ 64)}	// Cast
 {171}{}	// Projectile
-// OLD Eye-candy based wall of stone
-//-172--Art: 76, Palette: 1, Scale: 100%, Blend: None, Sound: 12035, Flags: overlay_f | animates, Light: 1, Light Color:  (0 @ 96 @ 204)-	// Destination
-//-173--Art: 77, Palette: 1, Scale: 100%, Blend: None, Flags: overlay_f | animates | anim_forever-	// Secondary Destination
-{172}{}	// Destination
-{173}{}	// Secondary Destination
+{172}{Art: 76, Palette: 1, Scale: 100%, Blend: None, Sound: 12035, Flags: overlay_f | animates, Light: 1, Light Color:  (0 @ 96 @ 204)}	// Destination
+{173}{Art: 77, Palette: 1, Scale: 100%, Blend: None, Flags: overlay_f | animates | anim_forever}	// Secondary Destination
 {174}{}	// Secondary Casting
 
 // 18 -- Body of Stone
@@ -204,11 +201,8 @@
 // 21 -- Wall of Fire
 {210}{Art: 114, Palette: 1, Scale: 75%, Blend: Add, Sound: 13020, Flags: overlay_f | animates, Light: 1, Light Color:  (242 @ 165 @ 0)}	// Cast
 {211}{}	// Projectile
-// OLD Eye-candy based wall of fire...NOTE: Mike, if you change this one, change the Explode Fire (Fire Obstruction Tech Item) as well!
-//-212--Art: 95, Palette: 1, Scale: 100%, Blend: Add, Sound: 13025, Flags: overlay_fb | animates, Light: 1, Light Color:  (0 @ 96 @ 204)-	// Destination
-//-213--Art: 96, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates | anim_forever, Light: 1, Light Color:  (0 @ 96 @ 204)-	// Secondary Destination
-{212}{}	// Destination
-{213}{}	// Secondary Destination
+{212}{Art: 95, Palette: 1, Scale: 100%, Blend: Add, Sound: 13025, Flags: overlay_fb | animates, Light: 1, Light Color:  (0 @ 96 @ 204)}	// Destination
+{213}{Art: 96, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates | anim_forever, Light: 1, Light Color:  (0 @ 96 @ 204)}	// Secondary Destination
 {214}{}	// Secondary Casting
 
 // 22 -- Fireflash
@@ -292,11 +286,8 @@
 // 32 -- Wall of Force
 {320}{Art: 159, Palette: 1, Scale: 100%, Blend: Add, Sound: 15030, Flags: overlay_f | animates, Light: 1}	// Cast
 {321}{}	// Projectile
-// OLD Eye-candy based wall of force
-//-322--Art: 143, Palette: 1, Scale: 100%, Blend: Add, Sound: 15035,  Flags: overlay_f | animates, Light: 1, Light Color:  (255 @ 255 @ 255)-	// Destination
-//-323--Art: 144, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates | anim_forever, Light: 1, Light Color:  (255 @ 255 @ 255)-	// Secondary Destination
-{322}{}	// Destination
-{323}{}	// Secondary Destination
+{322}{Art: 143, Palette: 1, Scale: 100%, Blend: Add, Sound: 15035,  Flags: overlay_f | animates, Light: 1, Light Color:  (255 @ 255 @ 255)}	// Destination
+{323}{Art: 144, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates | anim_forever, Light: 1, Light Color:  (255 @ 255 @ 255)}	// Secondary Destination
 {324}{}	// Secondary Casting
 
 // 33 -- Bolt of Lightning
@@ -1401,11 +1392,8 @@
 // 180 -- Tech: Explode (Fire)
 {1800}{}	// Cast
 {1801}{}	// Projectile
-// OLD Eye-candy based wall of fire...NOTE: Mike, if you change this one, change the Explode Fire (Fire Wall) as well!
-//-1802--Art: 95, Palette: 1, Scale: 100%, Blend: Add, Sound: 13030, Flags: overlay_fb | animates, Light: 1, Light Color:  (0 @ 96 @ 204)-	// Destination
-//-1803--Art: 96, Palette: 1, Scale: 100%, Blend: Add, Sound: 8500, Flags: overlay_fb | animates | anim_forever, Light: 1, Light Color:  (0 @ 96 @ 204)-	// Secondary Destination
-{1802}{}	// Destination
-{1803}{}	// Secondary Destination
+{1802}{Art: 95, Palette: 1, Scale: 100%, Blend: Add, Sound: 13030, Flags: overlay_fb | animates, Light: 1, Light Color:  (0 @ 96 @ 204)}	// Destination
+{1803}{Art: 96, Palette: 1, Scale: 100%, Blend: Add, Sound: 8500, Flags: overlay_fb | animates | anim_forever, Light: 1, Light Color:  (0 @ 96 @ 204)}	// Secondary Destination
 {1804}{}	// Secondary Casting
 
 // 181 -- Tech: Alchohol

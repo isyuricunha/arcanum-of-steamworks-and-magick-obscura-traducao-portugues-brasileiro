@@ -1,23 +1,23 @@
 {1}{[Esse gnomo fortemente perfumado pareceria ridículo, não fossem as cicatrizes em seu rosto ou o punhal descomunal pendurado em seu cinto.] E o que exatamente você acha que estaria fazendo aqui?}{[Esse gnomo fortemente perfumado pareceria ridículo, não fossem as cicatrizes em seu rosto ou o punhal descomunal pendurado em seu cinto.] E o que exatamente você acha que estaria fazendo aqui?}{}{}{}{}
-{2}{Muggs me disse para vir ver Damian. Acabei de fazer um serviço para ele.}{}{5}{re41, qu1084 4}{11}{lf0 0}
-{3}{Com licença, mas estou aqui para ver Damian, senhor.}{}{5}{re-40, ch-15, qu1084 4}{11}{re+10, lf0 0}
-{4}{Muggs me disse para vir ver Damian. Acabei de fazer um serviço para ele.}{}{5}{ch15, re-40, qu1084 4}{91}{re+15, lf0 0}
+{2}{Muggs me disse para vir falar com Darian. Acabei de fazer um trabalho para ele.}{}{5}{re41, qu1084 4}{11}{lf0 0}
+{3}{Com licença, mas estou aqui para ver Darian, senhor.}{}{5}{re-40, ch-15, qu1084 4}{11}{re+10, lf0 0}
+{4}{Muggs me disse para vir falar com Darian. Acabei de fazer um trabalho para ele.}{}{5}{ch15, re-40, qu1084 4}{91}{re+15, lf0 0}
 {5}{Ninguém fala comigo desse jeito, especialmente um halfling!}{}{5}{re-40, ra-6}{111}{re-10, lf0 0}
 {6}{Eu ia entrar.}{}{5}{qb1084 2}{91}{lf0 0}
 {7}{Não sei. Eu entro?}{}{-4}{qb1084 2}{91}{lf0 0}
 {8}{O quê? Hein?}{}{-4}{ qu1084 4}{11}{lf0 0}
-{9}{Estou aqui para ver Damian. Por favor, saia do meu caminho.}{}{5}{re-40, ch-15, qu1084 4}{81}{re+10, lf0 0}
+{9}{Estou aqui para ver Darian. Por favor, saia da minha frente.}{}{5}{re-40, ch-15, qu1084 4}{81}{re+10, lf0 0}
 {10}{E:}{}{1}{}{0}{lf0 1}
 {11}{Bem, senhor, eu sou Milo, o faz-tudo do Sr. Maug, por assim dizer. Ninguém entra aqui sem a minha permissão.}{Bem, senhora, eu sou Milo, o faz-tudo do Sr. Maug, por assim dizer. Ninguém entra aqui sem a minha permissão.}{}{}{}{}
-{12}{Mas Muggs me disse para...}{}{5}{}{21}{}
+{12}{Mas o Muggs me disse para...}{}{5}{}{21}{}
 {13}{Hã. Sim?}{}{-4}{}{121}{}
-{14}{Você é fêmea ou macho?}{}{5}{}{130}{re-10}
+{14}{Você é mulher ou homem?}{}{5}{}{130}{re-10}
 {15}{Você é menina?}{}{-4}{}{130}{re-10}
 {16}{Se não se importa que eu pergunte, o que um gnomo está fazendo no Caldeirão?}{}{5}{re41}{285}{}
 {21}{[Ele coloca a mão no punhal num gesto que pretende ser ameaçador, embora seja difícil levá-lo a sério.] Não me importo com o que aquele brutamontes do Muggs lhe disse. Eu decido quem entra, como já lhe disse. Não me desafie, fico bastante desagradável quando irritado.}{[Ele coloca a mão no punhal num gesto que pretende ser ameaçador, embora seja difícil levá-lo a sério.] Não me importo com o que aquele brutamontes do Muggs lhe disse. Eu decido quem entra, como já lhe disse. Não me desafie, fico bastante desagradável quando irritado.}{}{}{}{}
-{22}{Fui instruído a vir ver o Sr. Maug. Chega dessa bobagem!}{}{5}{}{140}{re-10}
-{23}{Tá bom, quanto vai custar para eu entrar?}{}{5}{}{31}{}
-{29}{Fico mentalmente instável e excessivamente violento quando irritado.}{}{5}{}{140}{re-15}
+{22}{Fui instruído a procurar o Sr. Maug. Chega dessa bobagem!}{}{5}{}{140}{re-10}
+{23}{Certo, qual vai ser o preço para eu entrar?}{}{5}{}{31}{}
+{29}{Eu fico mentalmente instável e excessivamente violento quando estou com raiva.}{}{5}{}{140}{re-15}
 {30}{Então seguirei meu caminho.}{}{5}{}{0}{lf1 1}
 {31}{Ah, não me tente! Se ao menos eu tivesse mais tempo para frivolidades. Bem, estamos sempre precisando de um braço forte - pelo menos, eu certamente estou [ele sorri para si mesmo]. Está interessado em um pouco do velho trabalho pesado?}{Ah, não me tente! Se ao menos eu tivesse mais tempo para frivolidades. Bem, estamos sempre precisando de um braço forte - pelo menos, eu certamente estou [ele sorri para si mesmo]. Está interessado em um pouco do velho trabalho pesado?}{}{}{}{}
 {32}{Que tipo de "trabalho pesado"?}{}{5}{}{41}{}
@@ -51,7 +51,7 @@
 {95}{E:}{}{-4}{}{0}{lf0 1}
 {101}{Nada me daria mais prazer do que cortar sua garganta idiota de orelha a orelha, mas detesto a sujeira que faz. Some daqui, cabeça-dura.}{Nada me daria mais prazer do que cortar sua garganta idiota de orelha a orelha, mas detesto a sujeira que faz. Some daqui, cabeça-dura.}{}{}{}{}
 {102}{Tudo bem, estou indo embora.}{}{5}{}{0}{lf3 1}
-{103}{Não se preocupe com a sujeira. Vou limpar seu sangue com sua cara.}{}{5}{}{0}{fl 180 ,co}
+{103}{Não se preocupe com a bagunça. Vou limpar seu sangue com sua cara.}{}{5}{}{0}{fl 180 ,co}
 {111}{Como ousa me comparar a um desses tolos sem cérebro e lamurientos! Nada me daria mais prazer do que cortar sua garganta idiota de orelha a orelha, mas detesto a sujeira que faz. Some daqui, cabeça-dura.}{Como ousa me comparar a um desses tolos sem cérebro e lamurientos! Nada me daria mais prazer do que cortar sua garganta idiota de orelha a orelha, mas detesto a sujeira que faz. Some daqui, cabeça-dura.}{}{}{}{}
 {112}{Tudo bem, estou indo embora.}{}{5}{}{0}{lf3 1}
 {113}{Não se preocupe com a bagunça. Vou limpar seu sangue com sua cara.}{}{5}{}{0}{fl 180 ,co}
@@ -87,7 +87,7 @@
 {190}{Você decidiu nos honrar com sua presença mais uma vez, que delícia! O que deseja agora?}{Você decidiu nos honrar com sua presença mais uma vez, que delícia! O que deseja agora?}{}{}{}{}
 {191}{Decidi aceitar seu trabalho. Qual seria o pagamento?}{}{5}{qu1087 1}{51}{}
 {192}{Você mencionou um trabalho que incluía algum "serviço pesado"?}{}{5}{lf2 1, qu1087 0}{41}{}
-{193}{O que preciso fazer para entrar e falar com Damian Maug?}{}{5}{lf1 1}{31}{}
+{193}{O que preciso fazer para entrar e falar com Darian Maug?}{}{5}{lf1 1}{31}{}
 {194}{Vou entrar.}{}{5}{qb1084 2}{91}{}
 {195}{Quero trabalho que pague. Quanto é?}{}{-4}{qu1087 1}{51}{}
 {196}{O que preciso fazer para o trabalho?}{}{-4}{lf2 1, qu1087 0}{41}{}
@@ -108,7 +108,7 @@
 {226}{Bom dia.}{}{5}{}{0}{}
 {227}{E:}{}{-4}{}{0}{}
 {228}{É difícil fingir tédio quando se está sem cabeça!}{}{5}{}{0}{fl 180 ,co}
-{235}{Tsc! Tsc! Que demonstração de emoção. Por que acha que eu mesmo não fiz o serviço? Esses... "seres" que mudam de forma são terrivelmente difíceis de lidar. E feios, também. Suponho que eu poderia lhe dar mais 50 moedas pelo trabalho extra, se você vai continuar com essa choradeira!}{Tsc! Tsc! Que demonstração de emoção. Por que acha que eu mesmo não fiz o serviço? Esses... "seres" que mudam de forma são terrivelmente difíceis de lidar. E feios, também. Suponho que eu poderia lhe dar mais 50 moedas pelo trabalho extra, se você vai continuar com essa choradeira!}{}{}{}{}
+{235}{Tsc! Tsc! Que demonstração de emoção. Por que acha que eu mesmo não fiz o trabalho? Essas cobras metamorfas... "coisas" são terrivelmente difíceis de lidar. E feias, também. Suponho que eu poderia te dar mais 50 moedas pelo trabalho extra, se você vai continuar insistindo assim!}{Tsc! Tsc! Que demonstração de emoção. Por que acha que eu mesmo não fiz o trabalho? Essas cobras metamorfas... "coisas" são terrivelmente difíceis de lidar. E feias, também. Suponho que eu poderia te dar mais 50 moedas pelo trabalho extra, se você vai continuar insistindo assim!}{}{}{}{}
 {236}{Trato feito.}{}{5}{}{245}{}
 {237}{Tá bom.}{}{-4}{}{245}{}
 {238}{Certamente você está brincando! Uma ninharia dessas é um insulto!}{}{5}{}{255}{re-5}
@@ -121,7 +121,7 @@
 {257}{Tá bom.}{}{-4}{}{245}{}
 {258}{Acho que vou tirar minha taxa do seu corpo magricela, idiota!}{}{5}{}{0}{fl 180 ,co}
 {259}{Eu mato você. Certo?}{}{-4}{}{0}{fl 180 ,co}
-{265}{Tsc! Tsc! Que demonstração de emoção. Por que você acha que eu não fiz o trabalho sozinho? Esses transmorfos cobra... "coisas" são terrivelmente difíceis de lidar. E feios, também. Suponho que eu poderia jogar mais 50 moedas pelo trabalho extra, se você vai continuar insistindo assim!}{Tsc! Tsc! Que demonstração de emoção. Por que você acha que eu não fiz o trabalho sozinho? Esses transmorfos cobra... "coisas" são terrivelmente difíceis de lidar. E feios, também. Suponho que eu poderia jogar mais 50 moedas pelo trabalho extra, se você vai continuar insistindo assim!}{}{}{}{}
+{265}{Tsc! Tsc! Que demonstração de emoção. Por que acha que eu mesmo não fiz o trabalho? Essas cobras metamorfas... "coisas" são terrivelmente difíceis de lidar. E feias, também. Suponho que eu poderia te dar mais 50 moedas pelo trabalho extra, se você vai continuar insistindo assim!}{Tsc! Tsc! Que demonstração de emoção. Por que acha que eu mesmo não fiz o trabalho? Essas cobras metamorfas... "coisas" são terrivelmente difíceis de lidar. E feias, também. Suponho que eu poderia te dar mais 50 moedas pelo trabalho extra, se você vai continuar insistindo assim!}{}{}{}{}
 {266}{Isso me parece aceitável.}{}{5}{}{275}{lf5 1}
 {267}{Tá bom.}{}{-4}{}{275}{lf5 1}
 {268}{Eu me ofendo profundamente com o fato de você ainda estar vivo.}{}{5}{}{0}{fl 180 ,co}

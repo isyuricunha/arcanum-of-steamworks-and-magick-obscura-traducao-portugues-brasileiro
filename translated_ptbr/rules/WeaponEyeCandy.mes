@@ -145,7 +145,7 @@
 {195}{} // Secondary Hit
 
 {200}{bp_weapon_bronwycks_gun}
-{201}{} // Power Gather
+{201}{Art: 397, Palette: 1, Scale: 100%, Blend: Add, Sound: 8828, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Power Gather
 {202}{} // Fire
 {203}{Proj Speed: 1} // Projectile -- Speed ONLY
 {204}{Art: 398, Palette: 1, Scale: 100%, Blend: Add, Sound: 8827, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Hit
@@ -883,8 +883,8 @@
 {1251}{} // Power Gather
 {1252}{} // Fire
 {1253}{} // Projectile -- Speed ONLY
-{1254}{} // Hit
-{1255}{} // Secondary Hit
+{1254}{Art: 150, Palette: 1, Scale: 100%, Blend: Add, Sound: 24105, Flags: overlay_fb | animates, Light: 8}	// Hit
+{1255}{Art: 349, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates}	// Secondary Hit
 
 {1260}{bp_weapon_grenade_launcher}
 {1261}{} // Power Gather
@@ -1014,14 +1014,14 @@
 
 {1440}{bp_weapon_drochs_warbringer}
 {1441}{} // Power Gather
-{1442}{} // Fire
+{1442}{Art: 370, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
 {1443}{} // Projectile -- Speed ONLY
 {1444}{} // Hit
 {1445}{} // Secondary Hit
 
 {1450}{bp_weapon_large_bore_rifle}
 {1451}{} // Power Gather
-{1452}{} // Fire
+{1452}{Art: 375, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
 {1453}{} // Projectile -- Speed ONLY
 {1454}{} // Hit
 {1455}{} // Secondary Hit

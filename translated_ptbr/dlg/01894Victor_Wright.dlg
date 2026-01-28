@@ -28,8 +28,8 @@
 {28}{Meu nome é @pcname@.}{}{-4}{}{49}{lf2 1}
 {29}{Você não precisa disso...}{}{-4}{}{30}{re-5}
 {30}{Então saia do meu escritório!}{Então saia do meu escritório!}{}{}{}{}
-{31}{Peço desculpas pela grosseria. Foi um dia difícil... Meu nome é @pcname@.}{}{5}{}{34}{re+5, lf2 1}
-{32}{Desculpa. Fui rude. Foi um dia ruim... Meu nome é @pcname@.}{}{-4}{}{34}{re+5, lf2 1}
+{31}{Peço desculpas pela rudeza. Foi um dia difícil... Meu nome é @pcname@.}{}{5}{}{34}{re+5, lf2 1}
+{32}{Desculpe. Eu rude. Foi um dia ruim... Meu nome é @pcname@.}{}{-4}{}{34}{re+5, lf2 1}
 {33}{I:}{}{1}{}{0}{re-3}
 {34}{Ah... entendo. Eu mesmo tenho alguns desses de vez em quando. Em que posso ajudá-lo, @pcname@?}{Ah... entendo. Eu mesmo tenho alguns desses de vez em quando. Em que posso ajudá-lo, @pcname@?}{}{}{}{}
 {35}{Tenho uma pergunta...}{}{5}{}{49}{}
@@ -120,11 +120,11 @@
 {120}{Também ouvi motores... Acho que eram 2 diferentes.}{}{5}{}{123}{}
 {121}{Eu ouvi motores também. Acho que eram 2.}{}{-4}{}{123}{}
 {122}{E:}{}{1}{}{0}{lf 8 0}
-{123}{Motores? O Zéfiro era único no gênero. O que mais poderia estar lá em cima com vocês?}{Motores? O Zephyr era único. O que mais poderia estar lá em cima com você?}{}{}{}{}
+{123}{Motores? O Zephyr era único. O que mais poderia estar lá em cima com você?}{Motores? O Zephyr era único. O que mais poderia estar lá em cima com você?}{}{}{}{}
 {124}{Havia destroços também, perto do dirigível. Alguma nave estranha...}{}{5}{}{-2}{}
 {125}{Me vê destroço também. Perto do dirigível. Alguma outra coisa voadora...}{}{-4}{}{-2}{}
 {126}{E:}{}{1}{}{0}{lf 8 0}
-{127}{Mais naves voadoras? Incrível! [anotando freneticamente] Então você não acha que foi um acidente? ...ou sabotagem? ...Você está me dizendo que o IFS Zephyr foi derrubado de propósito? Por algum tipo de aeronave secreta?}{Mais naves voadoras? Incrível! [anotando freneticamente] Então você não acha que foi um acidente? ...ou sabotagem? ...Você está me dizendo que o IFS Zephyr foi derrubado de propósito? Por algum tipo de aeronave secreta?}{}{}{}{gf2030 1}
+{127}{Mais naves voadoras? Incrível! [anotando freneticamente] Então você não acha que foi um acidente? ...ou sabotagem? ...Você está me dizendo que o IFS Zephyr foi derrubado de propósito? Por algum tipo de aeronave secreta?}{Mais naves voadoras? Incrível! [anotando freneticamente] Então você não acha que foi um acidente? ...ou sabotagem? ...Você está me dizendo que o IFS Zephyr foi derrubado de propósito? Por algum tipo de aeronave secreta?}{}{}{}{gf2030 1, rp1051}
 {128}{Sim. É tudo o que consegui juntar até agora.}{1}{5}{lf4 1, lf5 0}{136}{np 1150 1}
 {129}{Sim. É o que me vê.}{1}{-4}{lf4 1, lf5 0}{136}{np 1170 1}
 {130}{Sim. É tudo o que consegui juntar até agora.}{0}{5}{lf4 1, lf5 0}{136}{np 1160 1}

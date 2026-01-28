@@ -15,9 +15,9 @@
 {15}{Hã... qual é o seu nome, malvado?}{}{-4}{lf1 0, re -40}{28}{}
 {16}{Hã... Eu pergunto uma coisa?}{}{-4}{lf1 1, re 41}{36}{}
 {17}{Hã... eu pergunto uma coisa, malvado?}{}{-4}{lf1 1, re -40}{36}{}
-{18}{Eu aprimorei minhas habilidades com terra, Mestre Terrin.}{}{5}{lf4 1, sc3 5}{78}{}
-{19}{Eu intensifiquei minha aura mágica, Mestre Terrin.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{20}{Tenho interesse em me tornar um mestre da terra.}{}{5}{gf2411 0, ma30, lf1 1}{101}{}
+{18}{Eu aprimorei minhas habilidades com terra, Mestre Terrin.}{}{5}{lf4 1, sc3 5, lf5 0}{78}{}
+{19}{Eu intensifiquei minha aura mágica, Mestre Terrin.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{20}{Tenho interesse em me tornar um mestre da terra.}{}{5}{gf2411 0, ma30, lf1 1, sc3 5}{101}{}
 {21}{Ainda não completei o teste para maestria, Addo.}{}{5}{LF7 1, gf2415 0}{115}{}
 {22}{Completei o teste e me tornei mestre da terra!}{}{5}{gf2415 1, lf9 0}{119}{}
 {27}{E:}{}{1}{}{0}{}
@@ -26,23 +26,23 @@
 {30}{É uma honra conhecê-lo, senhor.}{}{5}{sc3 5, lf5 0}{78}{}
 {31}{Você acha que a proliferação da tecnologia é uma ameaça a Tulla?}{}{5}{sc3 0, lf3 0}{65}{}
 {32}{Por favor, explique-me o Colégio da Terra.}{}{5}{sc3 0, lf2 0}{57}{}
-{33}{Qua' terra?}{}{-4}{sc3 0, lf2 0}{57}{}
-{34}{Você acha que a teknawlugia prejudica Tewla?}{}{-4}{sc3 0, lf3 0}{65}{}
+{33}{Que diabos é isso?}{}{-4}{sc3 0, lf2 0}{57}{}
+{34}{Você acha que a tecnologia prejudica Tulla?}{}{-4}{sc3 0, lf3 0}{65}{}
 {35}{E:}{}{1}{sc3 0}{0}{}
 {36}{Sim, claro. Como posso ajudá-lo?}{Certamente. Como posso iluminá-lo?}{}{}{}{}
-{37}{Eu aprimorei minhas habilidades com terra, Mestre Terrin.}{}{5}{lf4 1, sc3 5}{78}{}
-{38}{Eu intensifiquei minha aura mágica, Mestre Terrin.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{39}{Tenho interesse em me tornar um mestre da terra.}{}{5}{gf2411 0, ma30}{101}{}
+{37}{Eu aprimorei minhas habilidades com terra, Mestre Terrin.}{}{5}{lf4 1, sc3 5, lf5 0}{78}{}
+{38}{Eu intensifiquei minha aura mágica, Mestre Terrin.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{39}{Tenho interesse em me tornar um mestre da terra.}{}{5}{gf2411 0, ma30, sc3 5}{101}{}
 {40}{Você acha que a proliferação da tecnologia é uma ameaça a Tulla?}{}{5}{lf3 0}{65}{}
 {41}{Por favor, explique-me o Colégio da Terra.}{}{5}{lf2 0}{57}{}
-{42}{Qua' terra?}{}{-4}{lf2 0}{57}{}
-{43}{Você acha que a teknawlugia prejudica Tewla?}{}{-4}{lf3 0}{65}{}
+{42}{Que diabos é isso?}{}{-4}{lf2 0}{57}{}
+{43}{Você acha que a tecnologia prejudica Tulla?}{}{-4}{lf3 0}{65}{}
 {44}{F:}{}{1}{}{0}{}
 {45}{E:}{}{1}{}{0}{}
 {46}{...Precisa de mais alguma coisa?}{...Precisa de mais alguma coisa?}{}{}{}{}
-{47}{Eu aprimorei minhas habilidades com terra, Mestre Terrin.}{}{5}{lf4 1, sc3 5}{78}{}
-{48}{Eu intensifiquei minha aura mágica, Mestre Terrin.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{49}{Tenho interesse em me tornar um mestre da terra.}{}{5}{gf2411 0, ma30}{101}{}
+{47}{Eu aprimorei minhas habilidades com terra, Mestre Terrin.}{}{5}{lf4 1, sc3 5, lf5 0}{78}{}
+{48}{Eu intensifiquei minha aura mágica, Mestre Terrin.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{49}{Tenho interesse em me tornar um mestre da terra.}{}{5}{gf2411 0, ma30, sc3 5}{101}{}
 {50}{Você acha que a proliferação da tecnologia é uma ameaça a Tulla?}{}{5}{lf3 0}{65}{}
 {51}{Por favor, explique-me o Colégio da Terra.}{}{5}{lf2 0}{57}{}
 {52}{Não. Obrigado pelo seu tempo.}{}{5}{}{0}{}
@@ -50,7 +50,7 @@
 {54}{Você acha que a tecnologia prejudica Tulla?}{}{-4}{lf3 0}{65}{}
 {55}{Não. Obrigado.}{}{-4}{}{0}{}
 {56}{E:}{}{1}{}{0}{}
-{57}{O Colégio da Terra lida com a força vital que emana da terra sob nossos pés. Nós reunimos essa força para nós mesmos, dobrando-a à nossa vontade e direcionando-a para agir conforme ordenamos. Para aqueles que se destacam em seus estudos, as próprias pedras ganham vida ao seu comando.}{O Colégio da Terra lida com a força vital que emana da terra sob nossos pés. Nós reunimos essa força para nós mesmos, dobrando-a à nossa vontade e direcionando-a para agir conforme ordenamos. Para aqueles que se destacam em seus estudos, as próprias pedras ganham vida ao seu comando.}{}{}{}{lf2 1}
+{57}{A Faculdade da Terra lida com a força vital que emana da terra sob nossos pés. Nós reunimos essa força para nós mesmos, dobrando-a à nossa vontade e impelindo-a a agir conforme ordenamos. Para aqueles que se destacam em seus estudos, as próprias pedras ganham vida ao seu comando.}{A Faculdade da Terra lida com a força vital que emana da terra sob nossos pés. Nós reunimos essa força para nós mesmos, dobrando-a à nossa vontade e impelindo-a a agir conforme ordenamos. Para aqueles que se destacam em seus estudos, as próprias pedras ganham vida ao seu comando.}{}{}{}{lf2 1}
 {58}{Uma forma de magia mais impressionante, senhor!}{}{5}{}{46}{re+2}
 {59}{Bastante intrigante...}{}{5}{}{46}{}
 {60}{Isso não é nada. Já vi uma arma ganhar vida ao "meu" comando.}{}{5}{ma-29}{46}{re-2}
@@ -82,13 +82,13 @@
 {86}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 1}{46}{}
 {87}{Extremamente difícil, senhor. Porém, minha perseverança valeu a pena.}{}{5}{gf2411 1}{46}{}
 {88}{E:}{}{1}{}{0}{}
-{89}{Você se tornou proficiente em todos os níveis do Colégio Terreno, mas sinto que sua aura mágica permanece fraca. Talvez você tenha estado entre os tecnólogos por tempo demais. ...caso algum dia aumente suas habilidades mágicas, retorne a Tulla. Sempre há mais para aprender...}{Você se tornou proficiente em todos os níveis do Colégio Terreno, mas sinto que sua aura mágica permanece fraca. Talvez você tenha estado entre os tecnólogos por tempo demais. ...caso algum dia aumente suas habilidades mágicas, retorne a Tulla. Sempre há mais para aprender...}{}{}{}{}
+{89}{Você se tornou proficiente em todos os níveis do Colégio Terreno, mas sinto que sua aura mágica permanece fraca. Talvez você tenha estado entre os tecnólogos por tempo demais. ...caso algum dia aumente suas habilidades mágicas, retorne a Tulla. Sempre há mais para aprender...}{Você se tornou proficiente em todos os níveis do Colégio Terreno, mas sinto que sua aura mágica permanece fraca. Talvez você tenha estado entre os tecnólogos por tempo demais. ...caso algum dia aumente suas habilidades mágicas, retorne a Tulla. Sempre há mais para aprender...}{}{}{}{lf8 1}
 {90}{Você acha que a proliferação da tecnologia é uma ameaça a Tulla?}{}{5}{lf3 0}{65}{}
 {91}{Prefiro trilhar um caminho equilibrado entre os dois.}{}{5}{}{46}{re-2}
 {92}{Acredito que a tecnologia se tornará o pilar principal, com o tempo.}{}{5}{}{46}{re-5}
 {93}{Estou trabalhando para melhorar minhas habilidades mágicas, senhor.}{}{5}{}{46}{re+5}
 {94}{E:}{}{1}{}{0}{}
-{95}{Hmm... Você realmente tem uma aura forte de magia ao seu redor... Será que estaria interessado em se tornar um mestre nas magias terrenas?}{Hmm... Você realmente tem uma aura forte de magia ao seu redor... Será que estaria interessada em se tornar uma mestre nas magias terrenas?}{}{}{}{lf6 1}
+{95}{Hmm... Você realmente tem uma aura forte de magia ao seu redor... Será que estaria interessada em se tornar uma mestre nas magias terrenas?}{Hmm... Você realmente tem uma aura forte de magia ao seu redor... Será que estaria interessada em se tornar uma mestre nas magias terrenas?}{}{}{}{lf6 1}
 {96}{Um mestre? O que é necessário para alcançar tal título?}{}{5}{}{101}{}
 {97}{O que eu preciso fazer?}{}{5}{}{101}{}
 {98}{Não neste momento, obrigado.}{}{5}{}{46}{}
@@ -98,16 +98,16 @@
 {103}{Sim.}{}{5}{}{106}{}
 {104}{Não neste momento, obrigado.}{}{5}{}{46}{}
 {105}{E:}{}{1}{}{0}{}
-{106}{Devo adverti-lo, porém... Você só poderá obter maestria em um único colégio de magia. Deseja dominar o Colégio da Terra, acima de todos os outros?}{Devo adverti-la, porém... Você só poderá obter maestria em um único colégio de magia. Deseja dominar o Colégio da Terra, acima de todos os outros?}{}{}{}{}
+{106}{Devo adverti-la, porém... Você só poderá obter maestria em um único colégio de magia. Deseja dominar o Colégio da Terra, acima de todos os outros?}{Devo adverti-la, porém... Você só poderá obter maestria em um único colégio de magia. Deseja dominar o Colégio da Terra, acima de todos os outros?}{}{}{}{}
 {107}{Sim, eu gostaria.}{}{5}{}{111}{}
 {108}{Vou pensar a respeito.}{}{5}{}{46}{}
 {109}{Não neste momento, obrigado.}{}{5}{}{46}{}
 {110}{E:}{}{1}{}{0}{}
-{111}{Uma excelente escolha. Aqui. [Ele retira o medalhão de seu pescoço.] Pegue este medalhão. Quando estiver preparado para enfrentar seu teste, coloque-o e prossiga pelo portal localizado no centro de nosso salão. Isso iniciará seu teste. Desejo-lhe sorte, @pcname@.}{Uma excelente escolha. Aqui. [Ele retira o medalhão de seu pescoço.] Pegue este medalhão. Quando estiver preparada para enfrentar seu teste, coloque-o e prossiga pelo portal localizado no centro de nosso salão. Isso iniciará seu teste. Desejo-lhe sorte, @pcname@.}{}{}{}{in-2835, lf7 1, gf2411 1}
+{111}{Uma excelente escolha. Aqui. [Ele retira o medalhão de seu pescoço.] Pegue este medalhão. Quando estiver preparada para enfrentar seu teste, coloque-o e prossiga pelo portal localizado no centro de nosso salão. Isso iniciará seu teste. Desejo-lhe sorte, @pcname@.}{Uma excelente escolha. Aqui. [Ele retira o medalhão de seu pescoço.] Pegue este medalhão. Quando estiver preparada para enfrentar seu teste, coloque-o e prossiga pelo portal localizado no centro de nosso salão. Isso iniciará seu teste. Desejo-lhe sorte, @pcname@.}{}{}{}{in-2835, lf7 1, gf2411 1}
 {112}{Obrigado.}{}{5}{}{0}{}
 {113}{A:}{}{5}{}{0}{}
 {114}{E:}{}{5}{}{0}{}
-{115}{Sim... Às vezes é difícil se preparar para tal prova. Quando se sentir adequadamente preparado, prossiga pelos arcos localizados no coração de Tulla. Lembre-se, você deve estar usando o medalhão que criei para você.}{Sim... Às vezes, é difícil preparar-se para uma provação como essa. Quando se sentir devidamente preparado, avance pelos arcos localizados no coração de Tulla. Lembre-se, você deve estar usando o medalhão que criei para você.}{}{}{}{}
+{115}{Sim... Às vezes, é difícil preparar-se para uma provação como essa. Quando se sentir devidamente preparado, avance pelos arcos localizados no coração de Tulla. Lembre-se, você deve estar usando o medalhão que criei para você.}{Sim... Às vezes, é difícil preparar-se para uma provação como essa. Quando se sentir devidamente preparado, avance pelos arcos localizados no coração de Tulla. Lembre-se, você deve estar usando o medalhão que criei para você.}{}{}{}{}
 {116}{Vou completar meus preparativos e realizar o teste. Adeus.}{}{5}{}{0}{}
 {117}{Vou me tornar um mestre! Adeus.}{}{5}{}{0}{}
 {118}{E:}{}{5}{}{0}{}

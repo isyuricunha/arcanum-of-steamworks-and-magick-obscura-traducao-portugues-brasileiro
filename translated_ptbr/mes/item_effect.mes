@@ -30,8 +30,8 @@
 {6051}{}
 {6052}{}
 {6053}{}
-{6054}{Dano:1-6 (Mana:10)}
-{6055}{Dano:1-6 (Velocidade+4)}
+{6054}{D:1-4 FT:1-2 (Mana:10)}
+{6055}{D:1-4 FT:1-2 (Velocidade +4)}
 {6056}{}
 {6057}{}
 {6058}{}
@@ -40,21 +40,21 @@
 {6061}{}
 {6062}{}
 {6063}{}
-{6064}{Dano:5-10 Fadiga: 1-3(CA+15)}
-{6065}{Dano:5-10(+4)Fadiga: 1-3(Invocar Animal)}
+{6064}{D:1-8 FT:1-4 (CA+15)}
+{6065}{D:1-8(+4) FT:1-4 (Invocar Animal)}
 {6066}{}
 {6067}{}
 {6068}{}
 {6069}{}
-{6070}{Dano:6-12(+10 Mortos-Vivos) Fadiga:1-3}Reaper's Axe 
-{6071}{Dano:6-12 Fadiga:1-3 (FR+1 CN+1)}Axe of Strength 
+{6070}{D:1-12(+10 Mortos-Vivos) FT:1-9}Reaper's Axe 
+{6071}{D:1-12 FT:1-9 (FR:+1 CN:+1)}Axe of Strength 
 {6072}{}
 {6073}{}
 {6074}{}
 {6075}{}
 {6076}{}
 {6077}{}
-{6078}{Dano:1-8 Fadiga:1-10 (Acerto Crítico:+10%)}Crushing Hammer 
+{6078}{D:1-8 FT:1-10 (Acerto Crítico:+10%)}Crushing Hammer 
 {6079}{}
 {6080}{}
 {6081}{}
@@ -70,13 +70,13 @@
 {6091}{}
 {6092}{}
 {6093}{}
-{6094}{Dano:5-20 Fadiga:1-5 (Peso:20)}
-{6095}{Dano:5-20 Fadiga:1-5 (Veneno:1-20)}
+{6094}{D:4-16 FT:3-11 (Peso:20)}
+{6095}{}
 {6096}{}
 {6097}{}
 {6098}{}
-{6099}{Dano:10-20 (Acerto Crítico:+50Animais)Alcance:20}
-{6100}{Dano:1-6 Fadiga:1-2 (5% de Chance de Medo)}
+{6099}{D:1-10 FT:2-5 (Acerto Crítico:+50% contra Animais) ALC:15}
+{6100}{D:1-12 FT:3-9 (5% de Chance de Medo) ALC:20}
 {6101}{}
 {6102}{}
 {6103}{}
@@ -88,16 +88,51 @@
 {6109}{}
 {6110}{ED:5-10 Requer Cargas}
 {6111}{}
-{6112}{}
-{6113}{}
-{6114}{}
+{6112}{D:1-8 FT:3-12 Cura Maior}
+{6113}{D:1-8 FT:3-12 Cura Maior, Encantar Besta, Regeneração}
+{6114}{D:1-8 FT:3-12 (Mana:50) Iluminar, Escudo de Dweomer}
 {6115}{}
 {6116}{}
 {6117}{}
 {6118}{}
 {6119}{}
-{6120}{Dano:5-10(+12) Efeito de Acerto Crítico:+50, Falha Crítica: +20}
+{6120}{D:1-8(+12) FT:1-4 Efeito de Acerto Crítico:+50, Falha Crítica:+20}
+{6123}{D:1-4(+6) FT:1-2(+1) (Mana:5)}
+{6124}{D:1-4(+9) FT:1-2(+2) (Mana:10)}
+{6125}{D:1-6(+12) FT:1-2(+4) (Mana:20)}
+{6128}{D:1-8(+8) FT:1-4(+2) (Mana:4)}
+{6129}{D:1-8(+12) FT:1-4(+4) (Mana:8)}
+{6130}{D:1-8(+16) FT:1-4(+8) (Mana:16)}
+{6135}{D:1-12(+10) FT:1-9(+3) (Mana:4)}
+{6136}{D:1-13(+15) FT:1-9(+6) (Mana:8)}
+{6137}{D:3-14(+20) FT:2-10(+9) (Mana:16)}
+{6138}{D:1-5(+4) FT:1-9(+2) (Mana:8)}
+{6139}{D:2-5(+8) FT:2-9(+4) (Mana:16)}
+{6140}{D:1-9(+12) FT:1-12(+8) (Mana:24)}
+{6141}{D:3-9(+16) FT:3-12(+12) (Mana:32)}
+{6142}{D:4-16(+4) FT:3-11(+4) (Mana:8)}
+{6143}{D:4-16(+8) FT:3-11(+8) (Mana:12)}
+{6144}{D:4-16(+12) FT:3-11(+12) (Mana:16)}
+{6145}{D:4-16(+16) FT:3-11(+16) (Mana:20)}
 {6154}{ED:10-80 Requer Cargas} Tesla Gun
+{6160}{D:1-8 FT:3-12(+6) (Mana:20)}
+{6161}{D:1-8 FT:3-12(+12) (Mana:40)}
+{6162}{D:1-8 FT:3-12(+18) (Mana:60)}
+{6163}{D:1-8 FT:3-12(+24) (Mana:80)}
+{6164}{}
+{6165}{}
+{6166}{}
+{6167}{}
+{6168}{}
+{6169}{}
+{6170}{}
+{6171}{}
+{6172}{}
+{6173}{}
+{6174}{}
+{6175}{}
+{6176}{D:3-6 Ignora CA/RD}Stiletto
+
 
 //Ammo
 {7038}{Flecha}
@@ -121,7 +156,7 @@
 {8054}{}
 {8055}{}
 {8056}{}
-{8057}{}
+{8057}{DX:+2}
 {8058}{}
 {8059}{}
 {8060}{}
@@ -135,7 +170,7 @@
 {8068}{}
 {8069}{}
 {8070}{}
-{8071}{}
+{8071}{CA:9 RD:16 RF:5 Furtividade, Bater Carteira, Detectar Armadilha +1}
 {8072}{}
 {8073}{}
 {8074}{CA:5 RD:7 RM:3 Furtividade +2}
@@ -143,15 +178,15 @@
 {8076}{}
 {8077}{CA:2 RD:1 Reação +20}
 {8078}{}
-{8079}{}
+{8079}{CA:9 RD:14 RF:5 NP:+5 Furtividade, Bater Carteira, Detectar Armadilha +1}
 {8080}{}
 {8081}{}
-{8082}{}
+{8082}{CA:5 RD:7 RM:3 Furtividade +2}
 {8083}{}
 {8084}{}
 {8085}{CA:2 RD:1 Reação +20}
 {8086}{}
-{8087}{} 
+{8087}{CA:9 RD:18 RF:5 NP:-5 Furtividade, Bater Carteira, Detectar Armadilha +1} 
 {8088}{}
 {8089}{CA:2 RD:1 Reação +20}
 {8090}{}
@@ -212,23 +247,23 @@
 {8145}{}
 {8146}{}
 {8147}{}
-{8148}{CA:10 RD:+5 RM:+5 NP:-20 Cura Acelerada, Requer Cargas} 
-{8149}{CA:10 RD:+5 RM:+5 NP:-20 Cura Acelerada} 
-{8150}{CA:10 RD:+5 RM:+5 NP:-20 Cura Acelerada} 
+{8148}{CA:8 RD:14 RF:5 Cura Acelerada, Requer Cargas}
+{8149}{CA:8 RD:14 RF:5 Cura Acelerada, Requer Cargas}
+{8150}{CA:8 RD:14 RF:5 Cura Acelerada, Requer Cargas}
 {8151}{}
 {8152}{}
 {8153}{}
-{8154}{CA:10 RD:+5 RM:+5 NP:-10(+15) ++Golpe pelas Costas, Furtividade}
+{8154}{CA:10 RD:+5 RF:+5 NP:-10(+15) Golpe pelas Costas, Furtividade +2}
 {8155}{}
 {8156}{}
 {8157}{}
 {8158}{}
 {8159}{}
-{8160}{}
-{8161}{Resistência à Magia +40}
+{8160}{BE:+2}
+{8161}{RM:+40}
 {8162}{}
 {8163}{}
-{8164}{CA +10, RD +10}
+{8164}{}
 {8165}{Chance de Acerto Crítico +5, Jogos de Azar +1}
 {8166}{}
 {8167}{}
@@ -238,20 +273,20 @@
 {8171}{}
 {8172}{}
 {8173}{}
-{8174}{} 
+{8174}{CA:5 RD:+6 NP:-10 Velocidade +5} 
 {8175}{}
 {8176}{}
 {8177}{} 
 {8178}{}
-{8179}{CA:5 Bônus em Furtividade}
-{8180}{CA:3 DX:+2}
+{8179}{RD:+5 Bater Carteira Adicional}
+{8180}{RD:+5 DX:+2}
 {8181}{CA:6 RD:9 PE:-1}
 {8182}{CA:10 RD:12 PE:-1}
-{8183}{+2PE}Eye Gear 
-{8184}{PE <7 +1 senão -1}
+{8183}{PE:+2}Eye Gear 
+{8184}{PE <8 +1 senão -1}
 {8185}{}
 {8186}{}
-{8187}{RD:20 Requer Cargas}
+{8187}{RD:+20}
 {8188}{CA:3 RD:7 PE:-1 Leve}
 {8189}{CA:3(+15) RD:7 PE:-1}
 {8190}{}
@@ -260,7 +295,7 @@
 {8193}{} Kite Shield 
 {8194}{Detecta Armadilhas, Requer Cargas} 
 {8195}{CA:30 ED:1-10 para o Atacante}
-{8196}{CA:10 CA=Alinhamento Maligno/10} 
+{8196}{CA=Alinhamento Maligno/2} 
 {8197}{}
 {8198}{}  
 {8199}{CA:3 RD:7 PE:-1}
@@ -285,25 +320,25 @@
 {8218}{}
 {8219}{}
 {8220}{}
-{8221}{CA:12(+5) RE:-10(+0) Todas as Outras Resistências(+5)}
-{8222}{CA:12(+5) RE:-10(+0) Todas as Outras Resistências(+5)}
-{8223}{CA:12(+5) RE:-10(+5) Todas as Outras Resistências(+10)}
-{8224}{CA:12(+5) RE:-10(+5) Todas as Outras Resistências(+10)}
-{8225}{CA:12(+5) RE:-10(+10) Todas as Outras Resistências(+15)}
-{8226}{CA:12(+5) RE:-10(+10) Todas as Outras Resistências(+15)}
-{8227}{CA:12(+5) RE:-10(+15) Todas as Outras Resistências(+20)}
-{8228}{CA:12(+5) RE:-10(+15) Todas as Outras Resistências(+20)}
+{8221}{CA:12(+5) RD:23 RF:5 ER:-10 Todas as Resistências(+5)}
+{8222}{CA:12(+5) RD:10 RF:5 ER:-10 Todas as Resistências(+5)}
+{8223}{CA:12(+10) RD:23 RF:5 ER:-10 Todas as Resistências(+10)}
+{8224}{CA:12(+10) RD:10 RF:5 ER:-10 Todas as Resistências(+10)}
+{8225}{CA:12(+15) RD:23 RF:5 ER:-10 Todas as Resistências(+15)}
+{8226}{CA:12(+15) RD:10 RF:5 ER:-10 Todas as Resistências(+15)}
+{8227}{CA:12(+20) RD:23 RF:5 RE:-10 Todas as Resistências(+20)}
+{8228}{CA:12(+20) RD:21 RF:5 RE:-10 Todas as Resistências(+20)}
 {8229}{}
 {8230}{}
 {8231}{}
-{8232}{CA:3(+10) RD:3(+0) Todas as Outras Resistências(+10)}
-{8233}{CA:3(+10) RD:3(+0) Todas as Outras Resistências(+10)}
-{8234}{CA:3(+10) RD:3(+0) Todas as Outras Resistências(+20)}
-{8235}{CA:3(+10) RD:3(+0) Todas as Outras Resistências(+20)}
-{8236}{CA:3(+10) RD:3(+0) Todas as Outras Resistências(+35)}
-{8237}{CA:3(+10) RD:3(+0) Todas as Outras Resistências(+35)}
-{8238}{CA:3(+10) RD:3(+0) Todas as Outras Resistências(+50)}
-{8239}{CA:3(+10) RD:3(+0) Todas as Outras Resistências(+50)}
+{8232}{CA:3 RD:3 RF:2(+10) Outras Resistências(+10)}
+{8233}{CA:3 RD:3 RF:2(+10) Outras Resistências(+10)}
+{8234}{CA:3 RD:3 RF:2(+20) Outras Resistências(+20)}
+{8235}{CA:3 RD:3 RF:2(+20) Outras Resistências(+20)}
+{8236}{CA:3 RD:3 RF:2(+35) Outras Resistências(+35)}
+{8237}{CA:3 RD:3 RF:2(+35) Outras Resistências(+35)}
+{8238}{CA:3 RD:3 RF:2(+50) Outras Resistências(+50)}
+{8239}{CA:3 RD:3 RF:2(+50) Outras Resistências(+50)}
 {8240}{}
 {8241}{}
 {8242}{}
@@ -314,14 +349,14 @@
 {8247}{}
 {8248}{}
 {8249}{}
-{8250}{CA:15(+4) Todas as Resistências:(+4)}
-{8251}{CA:15(+4) Todas as Resistências:(+4)}
-{8252}{CA:15(+6) Todas as Resistências:(+6)}
-{8253}{CA:15(+6) Todas as Resistências:(+6)}
-{8254}{CA:15(+8) Todas as Resistências:(+8)}
-{8255}{CA:15(+8) Todas as Resistências:(+8)}
-{8256}{CA:15(+10) Todas as Resistências:(+10)}
-{8257}{CA:15(+10) Todas as Resistências:(+10)}
+{8250}{CA:15(+4) RD:36 RF:10 RE:-20 Todas as Resistências(+4)}
+{8251}{CA:15(+4) RD:32 RF:10 RE:-20 Todas as Resistências(+4)}
+{8252}{CA:15(+6) RD:36 RF:10 RE:-20 Todas as Resistências(+6)}
+{8253}{CA:15(+6) RD:32 RF:10 RE:-20 Todas as Resistências(+6)}
+{8254}{CA:15(+8) RD:36 RF:10 RE:-20 Todas as Resistências(+8)}
+{8255}{CA:15(+8) RD:32 RF:10 RE:-20 Todas as Resistências(+8)}
+{8256}{CA:15(+10) RD:36 RF:10 RE:-20 Todas as Resistências(+10)}
+{8257}{CA:15(+10) RD:32 RF:10 RE:-20 Todas as Resistências(+10)}
 {8258}{}
 {8259}{}
 {8260}{}
@@ -354,7 +389,7 @@
 {8287}{}
 {8288}{}
 {8289}{}
-{8290}{CA:6 RD:9 PE:+3Tec}
+{8290}{CA:6 RD:9 PE:+3}
 
 //Gold
 {9056}{}
@@ -378,7 +413,7 @@
 {10072}{}
 {10073}{}
 {10074}{Cura até 20 pontos de Vida}
-{10075}{Veneno Forte}
+{10075}{}Strong Poison
 {10076}{Cura até 60 pontos de Vida e Fadiga}
 {10077}{Reduz níveis de veneno}
 {10078}{}Fatigue Limiter
@@ -443,7 +478,7 @@
 {10137}{Cura até 120 pontos de Veneno.}
 {10138}{Cura até 120 pontos de Vida, Veneno e Fadiga.}
 {10139}{Retarda o uso de Fadiga.}
-{10140}{Aumenta a Inteligência.}
+{10140}{Aumenta Inteligência.}
 {10141}{Aumenta a Velocidade.}
 {10142}{Aumenta a Resistência a Dano.}
 {10143}{Aumenta a Resistência a Veneno.}
@@ -600,7 +635,7 @@
 {15109}{}
 {15110}{}
 {15111}{}
-{15112}{}Fire Obstruction
+{15112}{Cria Cortina de Fogo}Fire Obstruction
 {15113}{}
 {15114}{}
 {15115}{}
@@ -620,9 +655,9 @@
 {15129}{}
 {15130}{}
 {15131}{}
-{15132}{}
+{15132}{D:5-30 FT:5-30}Explosive Grenade
 {15133}{}
-{15134}{}
+{15134}{D:100-200 FT:5-20}Dynamite
 {15135}{}
 {15136}{}
 {15137}{}
@@ -638,16 +673,70 @@
 {15147}{}
 {15148}{}
 {15149}{}
-{15150}{}
-{15151}{}
-{15152}{}
-{15153}{Barreira de Fogo}
+{15150}{Cega o Alvo}Flash Grenade
+{15151}{Cria Cortina de Fumaça}Smoke Grenade
+{15152}{Atordoa o Alvo}Stun Grenade
+{15153}{Cria Cortina de Fogo}Fire Obstruction
 {15154}{}
 {15155}{}
 {15156}{}
 {15157}{Primeiro Componente necessário para criar um Item Tecnológico}
 {15158}{Segundo Componente necessário para criar um Item Tecnológico}
 {15159}{Lança um feitiço aleatório}
+{15160}{}
+{15161}{Deixa o Alvo Inconsciente}Knock Out Gas Grenade
+{15162}{Faz o Alvo Fugir}Hallucination Grenade
+{15163}{D:1-5 ED:5-30}Electrocution Grenade
+{15164}{D:7,5-15m FT:3-6m}Concussion Grenade
+{15165}{Paralisa o Alvo}Paralysis Grenade
+{15166}{Cria Cortina de Veneno}Mustard Gas Grenade
+{15167}{}
+{15168}{}
+{15169}{}
+{15170}{}
+{15171}{}
+{15172}{}
+{15173}{}
+{15174}{}
+{15175}{}
+{15176}{}
+{15177}{}
+{15178}{}
+{15179}{}
+{15180}{}
+{15181}{}
+{15182}{}
+{15183}{}
+{15184}{}
+{15185}{}
+{15186}{}
+{15187}{}
+{15188}{Concede bônus de perícia igual à Inteligência, pode ser acumulado}
+{15189}{Concede bônus de perícia igual à Inteligência, pode ser acumulado}
+{15190}{Concede bônus de perícia igual à Inteligência, pode ser acumulado}
+{15191}{Concede bônus de perícia igual à Inteligência, pode ser acumulado}
+{15192}{Concede bônus de perícia igual à Inteligência, pode ser acumulado}
+{15193}{Concede bônus de perícia igual à Inteligência, pode ser acumulado}
+{15194}{Concede bônus de perícia igual à Inteligência, pode ser acumulado}
+{15195}{Concede bônus de perícia igual à Inteligência, pode ser acumulado}
+{15196}{}
+{15197}{}
+{15198}{}
+{15199}{}
+{15200}{}
+{15201}{}
+{15202}{}
+{15203}{}
+{15204}{}
+{15205}{}
+{15206}{}
+{15207}{}
+{15208}{}
+{15209}{D:0,9-4,5m FT:0,9-4,5m}Molotov Cocktail
+{15210}{}
+{15211}{}
+{15212}{}
+{15213}{Compartilha suas experiências com o restante do grupo}
 
 
 // Traps

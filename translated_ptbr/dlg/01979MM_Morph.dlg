@@ -15,9 +15,9 @@
 {15}{Hã... qual é o seu nome, malvado?}{}{-4}{lf1 0, re -40}{28}{}
 {16}{Hã... Eu pergunto uma coisa?}{}{-4}{lf1 1, re 41}{38}{}
 {17}{Hã... eu pergunto uma coisa, malvado?}{}{-4}{lf1 1, re -40}{38}{}
-{18}{Melhorei minhas habilidades de morfose, S'Btin'ka.}{}{5}{lf4 1, sc9 5}{84}{}
-{19}{Reforcei minha aura mágica, S'Btin'ka.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{101}{}
-{20}{Tenho interesse em me tornar um mestre da morfose.}{}{5}{gf2411 0, ma30}{107}{}
+{18}{Eu aprimorei minhas habilidades de metamorfose, S'Btin'ka.}{}{5}{lf4 1, sc9 5, lf5 0}{84}{}
+{19}{Eu intensifiquei minha aura mágica, S'Btin'ka.}{}{5}{lf14 1, lf6 0, ma 30, lf7 0}{101}{}
+{20}{Tenho interesse em me tornar um mestre da metamorfose.}{}{5}{gf2411 0, ma30, sc9 5}{107}{}
 {21}{Ainda não completei o teste de mestria, S'Btin'ka.}{}{5}{LF7 1, gf2421 0}{121}{}
 {22}{Completei o teste e me tornei mestre da morfose!}{}{5}{gf2421 1, lf13 0}{125}{}
 {23}{Tenho a moeda para o Restaurador de Licantropos!}{}{5}{lf12 1}{160}{}
@@ -27,36 +27,36 @@
 {29}{É uma grande honra conhecê-la, madame.}{}{5}{sc9 1, sc9 -4, lf4 0}{79}{}
 {30}{É uma grande honra conhecê-la, madame.}{}{5}{sc9 5, lf5 0}{84}{}
 {31}{Você já ouviu falar muito sobre tecnologia?}{}{5}{sc9 0, lf3 0}{71}{}
-{32}{Por favor, explique-me o que é morfose.}{}{5}{sc9 0, lf2 0}{63}{}
+{32}{Por favor, explique-me o que é metamorfose.}{}{5}{sc9 0, lf2 0}{63}{}
 {33}{O que é morf?}{}{-4}{sc9 0, lf2 0}{63}{}
-{34}{Cê num sabe o que é teknawlugia?}{}{-4}{sc9 0, lf3 0}{71}{}
-{35}{A senhora sabe de algo que cure um lobisomem?}{}{5}{qa1138 1}{129}{}
-{36}{Tem alguma coisa que faça o lobisomem melhorar, senhora?}{}{-4}{qa1138 1}{129}{}
+{34}{Você não sabe o que é teknawlugia?}{}{-4}{sc9 0, lf3 0}{71}{}
+{35}{A senhora sabe de algo que cure um lobisomem?}{}{5}{qa1138 1, in-3605}{129}{}
+{36}{Tem alguma coisa que faça o lobisomem melhorar, senhora?}{}{-4}{qa1138 1, in-3605}{129}{}
 {37}{E:}{}{1}{sc9 0}{0}{}
 {38}{Em que posso ajudá-lo?}{Em que posso ajudá-lo?}{}{}{}{}
-{39}{Melhorei minhas habilidades de morfose, S'Btin'ka.}{}{5}{lf4 1, sc9 5, ma 30}{84}{}
-{40}{Reforcei minha aura mágica, S'Btin'ka.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{101}{}
-{41}{Tenho interesse em me tornar um mestre da morfose.}{}{5}{gf2411 0, ma30}{107}{}
+{39}{Eu aprimorei minhas habilidades de metamorfose, S'Btin'ka.}{}{5}{lf4 1, sc9 5, lf5 0}{84}{}
+{40}{Eu intensifiquei minha aura mágica, S'Btin'ka.}{}{5}{lf14 1, lf6 0, ma 30, lf7 0}{101}{}
+{41}{Tenho interesse em me tornar um mestre da metamorfose.}{}{5}{gf2411 0, ma30, sc9 5}{107}{}
 {42}{Você já ouviu falar muito sobre tecnologia?}{}{5}{lf3 0}{71}{}
-{43}{Por favor, explique-me o que é morfose.}{}{5}{lf2 0}{63}{}
+{43}{Por favor, explique-me o que é metamorfose.}{}{5}{lf2 0}{63}{}
 {44}{O que é morf?}{}{-4}{lf2 0}{63}{}
-{45}{Cê num sabe o que é teknawlugia?}{}{-4}{lf3 0}{71}{}
-{46}{Você sabe de algo que cure um lobisomem?}{}{5}{qa1138 1}{129}{}
-{47}{Tem alguma coisa que melhore um lobisomem?}{}{-4}{qa1138 1}{129}{}
+{45}{Você não sabe o que é teknawlugia?}{}{-4}{lf3 0}{71}{}
+{46}{Você conhece algo que cure um lobisomem?}{}{5}{qa1138 1, in-3605}{129}{}
+{47}{Tem alguma coisa que melhore um lobisomem?}{}{-4}{qa1138 1, in-3605}{129}{}
 {48}{F:}{}{1}{}{0}{}
 {49}{E:}{}{1}{}{0}{}
 {50}{Há algo mais, @pcname@?}{Há algo mais, @pcname@?}{}{}{}{}
-{51}{Eu aprimorei minhas habilidades de metamorfose, S'Btin'ka.}{}{5}{lf4 1, sc9 5, ma 30}{84}{}
-{52}{Eu intensifiquei minha aura mágica, S'Btin'ka.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{101}{}
-{53}{Tenho interesse em me tornar um mestre da metamorfose.}{}{5}{gf2411 0, ma30}{107}{}
+{51}{Eu aprimorei minhas habilidades de metamorfose, S'Btin'ka.}{}{5}{lf4 1, sc9 5, lf5 0}{84}{}
+{52}{Eu intensifiquei minha aura mágica, S'Btin'ka.}{}{5}{lf14 1, lf6 0, ma 30, lf7 0}{101}{}
+{53}{Tenho interesse em me tornar um mestre da metamorfose.}{}{5}{gf2411 0, ma30, sc9 5}{107}{}
 {54}{Você já ouviu falar muito sobre tecnologia?}{}{5}{lf3 0}{71}{}
 {55}{Por favor, explique-me o que é metamorfose.}{}{5}{lf2 0}{63}{}
 {56}{Não. Obrigado pelo seu tempo.}{}{5}{}{0}{}
 {57}{O que é morf?}{}{-4}{lf2 0}{63}{}
 {58}{Você não sabe o que é teknawlugia?}{}{-4}{lf3 0}{71}{}
 {59}{Não. Obrigado.}{}{-4}{}{0}{}
-{60}{Você conhece algo que cure um lobisomem?}{}{5}{qa1138 1}{129}{}
-{61}{Tem alguma coisa que melhore um lobisomem?}{}{-4}{qa1138 1}{129}{}
+{60}{Você conhece algo que cure um lobisomem?}{}{5}{qa1138 1, in-3605}{129}{}
+{61}{Tem alguma coisa que melhore um lobisomem?}{}{-4}{qa1138 1, in-3605}{129}{}
 {62}{E:}{}{1}{}{0}{}
 {63}{Metamorfose é simplesmente magia incrível! Ver a essência de uma criatura se enfraquecer diante dos seus olhos... ou se tornar uma representação minúscula do que já foi... É de tirar o fôlego. Apenas um tolo ousa irritar um mago que possui tal habilidade.}{Metamorfose é simplesmente magia incrível! Ver a essência de uma criatura se enfraquecer diante dos seus olhos... ou se tornar uma representação minúscula do que já foi... É de tirar o fôlego. Apenas um tolo ousa irritar um mago que possui tal habilidade.}{}{}{}{lf2 1}
 {64}{Uma das mais refinadas habilidades mágicas disponíveis, na minha opinião, madame.}{}{5}{}{50}{re+2}
@@ -90,7 +90,7 @@
 {92}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 1}{50}{}
 {93}{Extremamente difícil, senhora. Porém, minha resistência compensou.}{}{5}{gf2411 1}{50}{}
 {94}{E:}{}{1}{}{0}{}
-{95}{Hmm... É bem estranho que você tenha se mostrado um mago poderoso por suas habilidades de metamorfose, mas eu sinto uma aura mágica fraca ao seu redor...}{Hmm... É bem estranho que você tenha se mostrado um mago poderoso por suas habilidades de metamorfose, mas eu sinto uma aura mágica fraca ao seu redor...}{}{}{}{}
+{95}{Hmm... É bem estranho que você tenha se mostrado um mago poderoso por suas habilidades de metamorfose, mas eu sinto uma aura mágica fraca ao seu redor...}{Hmm... É bem estranho que você tenha se mostrado um mago poderoso por suas habilidades de metamorfose, mas eu sinto uma aura mágica fraca ao seu redor...}{}{}{}{lf14 1}
 {96}{Você já ouviu falar muito sobre tecnologia?}{}{5}{lf3 0}{71}{}
 {97}{Eu estudei tanto magia quanto tecnologia, madame.}{}{5}{}{50}{re-2}
 {98}{Agora eu busco a tecnologia como minha principal fonte de estudo, madame.}{}{5}{}{50}{re-5}
@@ -132,22 +132,22 @@
 {135}{Me arruma um pouco? Tem uma garota doente...}{}{-4}{ha -8}{138}{}
 {136}{Me arruma um pouco? Tem uma garota doente...}{}{-4}{ha 9}{150}{}
 {137}{E:}{}{1}{}{0}{}
-{138}{Oh, céus! Acreditávamos que os lobisomens estavam extintos há algumas centenas de anos... Há um lote disponível em nossos estoques. Você pode comprá-lo por 2.000 moedas. Sinto muito que seja tão caro, mas os ingredientes e o tempo necessário exigem que seja assim.}{Ah, claro... O Soro de Licantropia restaura uma pessoa que foi infectada por um lobisomem. É uma cura muito difícil de criar, levando anos para ser preparada corretamente. Sua fabricação é um segredo bem guardado aqui em Tulla.}{}{}{}{lf8 1, lf12 1}
-{139}{Nossa! Isso é caro! [...suspiro] Aqui. Tenho as moedas.}{}{5}{$$2000}{144}{$$-2000}
-{140}{Preciso juntar mais moedas. Voltarei depois.}{}{5}{$$-1999}{0}{}
+{138}{Oh, céus! Acreditávamos que os lobisomens estavam extintos há algumas centenas de anos... Há um lote disponível em nossos estoques. Você pode comprá-lo por 2.000 moedas. Sinto muito que seja tão caro, mas os ingredientes e o tempo necessário exigem que seja assim.}{Oh, céus! Acreditávamos que os lobisomens estavam extintos há algumas centenas de anos... Há um lote disponível em nossos estoques. Você pode comprá-lo por 2.000 moedas. Sinto muito que seja tão caro, mas os ingredientes e o tempo necessário exigem que seja assim.}{}{}{}{lf8 1, lf12 1}
+{139}{Meu Deus! Isso é caro! [...suspiro] Aqui. Tenho as moedas.}{}{5}{$$2000}{144}{$$-2000}
+{140}{Preciso juntar mais moedas. Voltarei.}{}{5}{$$-1999}{0}{}
 {141}{Isso é muito! [...suspiro] Aqui. Eu tenho as moedas.}{}{-4}{$$2000}{144}{$$-2000}
 {142}{Me arruma mais moeda. Me volta.}{}{-4}{$$-1999}{0}{}
 {143}{F:}{}{1}{}{0}{}
-{144}{Obrigado, @pcname@. Aqui está. [entrega a poção] Rezo para que você chegue a tempo e que ninguém tenha destruído a garota que você está tentando ajudar. Boa sorte.}{Obrigado, @pcname@. Aqui está. [entrega-lhe a poção] Rezo para que chegue a tempo e que ninguém tenha destruído a garota que está tentando ajudar. Boa sorte.}{}{}{}{in-3605}
+{144}{Obrigado, @pcname@. Aqui está. [entrega-lhe a poção] Rezo para que chegue a tempo e que ninguém tenha destruído a garota que está tentando ajudar. Boa sorte.}{Obrigado, @pcname@. Aqui está. [entrega-lhe a poção] Rezo para que chegue a tempo e que ninguém tenha destruído a garota que está tentando ajudar. Boa sorte.}{}{}{}{in-3605, lf12 0}
 {145}{Obrigado, madame.}{}{5}{}{50}{}
 {146}{Obrigado. Vou levar isso a ela imediatamente. Adeus.}{}{5}{}{0}{}
 {147}{Hã... Obridado...}{}{-4}{}{50}{}
 {148}{Obridado. Eu ir agora. Tchau.}{}{-4}{}{0}{}
 {149}{E:}{}{1}{}{0}{}
-{150}{Oh, céus! Acreditávamos que os lobisomens estavam extintos nestes últimos séculos... Há um lote disponível em nosso estoque. Você pode comprá-lo por 1.000 moedas. Lamento que seja tão caro, mas os ingredientes e o tempo necessário exigem que seja assim.}{Oh, céus! Acreditávamos que os lobisomens estavam extintos nestes últimos séculos... Há um lote disponível em nosso estoque. Você pode comprá-lo por 1.000 moedas. Lamento que seja tão caro, mas os ingredientes e o tempo necessário exigem que seja assim.}{}{}{}{lf91, lf12 1}
+{150}{Oh, céus! Acreditávamos que os lobisomens estavam extintos nestes últimos séculos... Há um lote disponível em nosso estoque. Você pode comprá-lo por 1.000 moedas. Lamento que seja tão caro, mas os ingredientes e o tempo necessário exigem que seja assim.}{Oh, céus! Acreditávamos que os lobisomens estavam extintos nestes últimos séculos... Há um lote disponível em nosso estoque. Você pode comprá-lo por 1.000 moedas. Lamento que seja tão caro, mas os ingredientes e o tempo necessário exigem que seja assim.}{}{}{}{lf9 1, lf12 1}
 {151}{Meu Deus! Isso é caro! [...suspiro] Aqui. Tenho as moedas.}{}{5}{$$1000}{144}{$$-1000}
 {152}{Preciso juntar mais moedas. Voltarei.}{}{5}{$$-999}{0}{}
-{153}{Isso é muito! [...suspiro] Aqui. Eu tenho as moedas.}{}{5}{$$1000}{144}{$$-1000}
+{153}{Isso é muito! [...suspiro] Aqui. Eu tenho as moedas.}{}{-4}{$$1000}{144}{$$-1000}
 {154}{Me arruma mais moeda. Me volta.}{}{-4}{$$-999}{0}{}
 {155}{F:}{}{1}{}{0}{}
 {156}{Oh, céus! Acreditávamos que os lobisomens estavam extintos nestes últimos séculos... Há um lote disponível em nosso estoque. Você pode comprá-lo por 500 moedas. Lamento que seja tão caro, mas os ingredientes e o tempo necessário exigem que seja assim.}{Oh, céus! Acreditávamos que os lobisomens estavam extintos nestes últimos séculos... Há um lote disponível em nosso estoque. Você pode comprá-lo por 500 moedas. Lamento que seja tão caro, mas os ingredientes e o tempo necessário exigem que seja assim.}{}{}{}{lf10 1, lf12 1}

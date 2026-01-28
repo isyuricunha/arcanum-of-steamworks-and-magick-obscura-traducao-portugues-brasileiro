@@ -12,10 +12,10 @@
 {32}{Eles acham que você seria uma influência corruptora para a escola.}{}{5}{ps-14, ps12,  ta50}{150}{ }
 {33}{Eles acham que você seria uma influência corruptora para a escola.}{}{5}{ps-11}{240}{ }
 {39}{Não faço ideia. Tenha um bom dia.}{}{5}{}{0}{ }
-{40}{Influência corruptora? Eu arrisquei minha vida para recuperar essa gema para eles!}{Influência corruptora? Eu arrisquei minha vida para recuperar essa gema para eles!}{}{}{}{ }
+{40}{Influência corruptora? Arriscquei minha vida para recuperar esta gema para eles!}{Influência corruptora? Arriscquei minha vida para recuperar esta gema para eles!}{}{}{}{ }
 {41}{O Mestre Eckes me disse que você se ofereceu como voluntário.}{}{5}{gf2396 1}{50}{ }
 {42}{Exatamente! Por que você iria querer viver com ingratos como estes?}{}{5}{gf2396 0}{90}{ }
-{43}{Obviamente, você achou que eles sabiam o que era melhor quando o mandaram para fora.}{}{5}{gf2396 0}{60}{ }
+{43}{Obviamente, você achou que eles sabiam o que era melhor quando te mandaram embora.}{}{5}{gf2396 0}{60}{ }
 {50}{Voluntário?! Ele me pediu para fazer isso por ele! Como eu poderia recusar, sendo ele meu professor?}{Voluntário?! Ele me pediu para fazer isso por ele! Como eu poderia recusar, sendo ele meu professor?}{}{}{}{ }
 {51}{Exatamente! Por que você iria querer viver com ingratos como estes?}{}{5}{}{90}{ }
 {52}{No entanto, você ainda acreditou neles o suficiente para ouvi-los.}{}{5}{}{60}{ }
@@ -26,7 +26,7 @@
 {71}{Exatamente! Me dê a gema, e você pode seguir seu caminho.}{}{5}{}{120}{ }
 {72}{Tulla é muito limitante para alguém com sua experiência, agora.}{}{5}{}{80}{ }
 {80}{Você tem razão! Aqui está a gema. Por favor, entregue-a ao Mestre Eckes por mim. Obrigado por me mostrar como eu havia superado este lugar. Boa sorte para você, amigo.}{Você tem razão! Aqui está a gema. Por favor, entregue-a ao Mestre Eckes por mim. Obrigado por me mostrar como eu havia superado este lugar. Boa sorte para você, amigo.}{}{}{}{in-5680, lf2 1 }
-{81}{Boa sorte para você também.}{}{5}{}{-6}{script-walk away }
+{81}{Boa sorte para você também.}{}{5}{}{-6}{ }
 {90}{Como ousa! Arriscquei minha vida por essas pessoas! Ao insultá-las, você insulta a mim!}{Como ousa! Arriscquei minha vida por essas pessoas! Ao insultá-las, você insulta a mim!}{}{}{}{ }
 {91}{Minhas desculpas. Achei apenas que elas deveriam tê-lo tratado melhor.}{}{5}{}{100}{ }
 {92}{Não fui eu quem o insultou, foram elas ao rejeitá-lo.}{}{5}{}{130}{re-5 }
@@ -34,12 +34,12 @@
 {101}{Elas o mandaram para ser corrompido de propósito, para se livrar de você!}{}{5}{}{130}{re-5 }
 {102}{Elas nem sequer tiveram a cortesia de lhe dizer isso pessoalmente.}{}{5}{}{110}{ }
 {110}{Você tem razão. Sou bom demais para este lugar, sou mesmo. O que elas sabem de cortesia ou respeito. Aqui está a maldita gema. Espero que Eckes se engasgue com ela. Obrigado por abrir meus olhos. Tenha um bom dia.}{Você tem razão. Sou bom demais para este lugar, sou mesmo. O que elas sabem de cortesia ou respeito. Aqui está a maldita gema. Espero que Eckes se engasgue com ela. Obrigado por abrir meus olhos. Tenha um bom dia.}{}{}{}{in-5680, lf2 1 }
-{111}{Boa sorte para você também.}{}{5}{}{-6}{script-walk away }
+{111}{Boa sorte para você também.}{}{5}{}{-6}{ }
 {120}{Você me toma por um tolo? Esta gema pode ser a única maneira de eu ser bem-vindo de volta a Tulla!}{Você me toma por um tolo? Esta gema pode ser a única maneira de eu ser bem-vindo de volta a Tulla!}{}{}{}{ }
 {121}{Eles nunca permitirão que você volte. Não respeitam o seu sacrifício.}{}{5}{lf5 0}{100}{ }
 {122}{Você é burro, homem? Eles não o querem.}{}{5}{}{130}{re-10 }
 {130}{Não quero mais falar com você. Não quero falar com ninguém além do Mestre Eckes. Tenha um bom dia, senhor!}{Não quero mais falar com você. Não quero falar com ninguém além do Mestre Eckes. Tenha um bom dia, senhora!}{}{}{}{ }
-{131}{Preciso pegar a gema de você antes de partir.}{}{5}{}{140}{re-5 }
+{131}{Preciso pegar a gema de você antes de ir embora.}{}{5}{}{140}{re-5 }
 {132}{Não vou embora sem a gema!}{}{5}{}{140}{re-10 }
 {140}{Você terá que arrancá-la dos meus dedos mortos, tolo!}{Você terá que arrancá-la dos meus dedos mortos, tolo!}{}{}{}{lf10 1 }
 {141}{Peço desculpas. Vou deixá-lo agora.}{}{5}{}{0}{ }

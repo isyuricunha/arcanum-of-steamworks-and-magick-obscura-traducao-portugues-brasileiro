@@ -22,7 +22,7 @@
 {26}{Você pode me treinar para me tornar um Curandeiro Especialista?}{}{5}{tr10 -1}{82}{et10 102}
 {27}{Mi qué sê Curandeiro Espers'...}{}{-4}{tr10 -1}{82}{et10 102}
 {28}{Estou procurando trabalho. Você precisa de ajuda com alguma coisa?}{}{5}{qu1160 0}{113}{}
-{29}{Eu quero trabalho. Você me quer?}{}{-4}{qu1160 0}{113}{}
+{29}{Me quer trabaiá. Você qué me?}{}{-4}{qu1160 0}{113}{}
 {30}{H:}{}{1}{}{82}{}
 {32}{C:}{}{1}{qu1160 4, ss8, ss-8}{82}{}
 {34}{Percebo que você é um grande mago. É uma honra estar em sua presença. Como posso ajudá-lo?}{Percebo que você é um grande mago. É uma honra estar em sua presença. Como posso ajudá-lo?}{}{}{}{}
@@ -77,7 +77,7 @@
 {83}{T:10}{}{1}{}{82}{}
 {84}{H:}{}{1}{}{82}{}
 {85}{Estou procurando trabalho. Você precisa de ajuda com alguma coisa?}{}{5}{qu1160 0}{113}{}
-{86}{Eu quero trabalho. Você me quer?}{}{-4}{qu1160 0}{113}{}
+{86}{Me quer trabaiá. Você qué me?}{}{-4}{qu1160 0}{113}{}
 {87}{C:}{}{1}{qa1160 1, qb1160 3}{82}{}
 {88}{C:}{}{1}{qu1160 4, ss8, ss-8}{82}{ss9}
 {89}{B:}{}{1}{}{82}{}
@@ -93,7 +93,7 @@
 {99}{Me quer trabaiá. Você qué me?}{}{-4}{qu1160 0}{113}{}
 {100}{B:}{}{1}{}{82}{}
 {101}{E:}{}{1}{}{0}{}
-{102}{Posso treiná-lo para ser um curandeiro especialista, mas isso terá um custo... Peço 500 moedas. O que me diz? Meu conhecimento vale suas moedas?}{Posso treiná-la para ser uma curandeira especialista, mas isso terá um custo... Peço 500 moedas. O que me diz? Meu conhecimento vale suas moedas?}{}{}{}{}
+{102}{Posso treiná-la para ser uma curandeira especialista, mas isso terá um custo... Peço 500 moedas. O que me diz? Meu conhecimento vale suas moedas?}{Posso treiná-la para ser uma curandeira especialista, mas isso terá um custo... Peço 500 moedas. O que me diz? Meu conhecimento vale suas moedas?}{}{}{}{}
 {103}{Vale. Aqui está. Podemos começar imediatamente?}{}{5}{$$500}{108}{}
 {104}{Estou sem moedas. Voltarei com mais depois.}{}{5}{$$-499}{82}{}
 {105}{Ah... sim. Aqui estão as moedas. (você entrega a ela as 500 moedas)}{}{-4}{$$500}{108}{}
@@ -104,7 +104,7 @@
 {110}{A:}{}{5}{}{82}{}
 {111}{Hã... V-valeu.}{}{-4}{}{82}{}
 {112}{E:}{}{-4}{}{0}{}
-{113}{Esta cidade é pequena, e minhas necessidades são poucas. Não há nada que eu precise que um forasteiro faça por mim. [ela o observa, parecendo distante e pensativa por um momento] Você parece um viajante. Diga-me, viaja para longe?}{Esta cidade é pequena, e minhas necessidades são poucas. Não há nada que eu precise que um forasteiro faça por mim. [ela a observa, parecendo distante e pensativa por um momento] Você parece uma viajante. Diga-me, viaja para longe?}{}{}{}{}
+{113}{Esta cidade é pequena, e minhas necessidades são poucas. Não há nada que eu precise que um forasteiro faça por mim. [ela a observa, parecendo distante e pensativa por um momento] Você parece uma viajante. Diga-me, viaja para longe?}{Esta cidade é pequena, e minhas necessidades são poucas. Não há nada que eu precise que um forasteiro faça por mim. [ela a observa, parecendo distante e pensativa por um momento] Você parece uma viajante. Diga-me, viaja para longe?}{}{}{}{}
 {114}{Sou novo nesta terra, mas suspeito que minhas viagens me levarão longe.}{}{5}{}{119}{}
 {115}{Estou apenas começando minha jornada. Não sei até onde irei.}{}{5}{}{119}{}
 {116}{Sim.}{}{5}{}{119}{}
@@ -113,7 +113,7 @@
 {119}{Bem, então. Se, em suas andanças, por acaso encontrar um amuleto élfico gravado com o nome N'Tala em sua face, peço que o devolva para mim. É uma antiga relíquia de família, roubada há uma geração.}{Bem, então. Se, em suas andanças, por acaso encontrar um amuleto élfico gravado com o nome N'Tala em sua face, peço que o devolva para mim. É uma antiga relíquia de família, roubada há uma geração.}{}{}{}{qu1160 1}
 {120}{Onde acha que ele pode estar?}{}{5}{}{122}{}
 {121}{Uh... você sabe onde tá?}{}{-4}{}{122}{}
-{122}{Não tenho a menor ideia de onde possa estar. [parecendo ligeiramente perplexa] Não consigo entender por que contei isso a você. ...talvez esses muitos anos tenham confundido minha mente. Bem, não importa. "Se" por acaso encontrá-lo, eu o recompensarei generosamente. Agora... há mais alguma coisa que eu possa fazer por você?}{Não tenho a menor ideia de onde possa estar. [parecendo ligeiramente perplexa] Não consigo entender por que contei isso a você. ...talvez esses muitos anos tenham confundido minha mente. Bem, não importa. "Se" por acaso encontrá-lo, eu a recompensarei generosamente. Agora... há mais alguma coisa que eu possa fazer por você?}{}{}{}{}
+{122}{Não tenho a menor ideia de onde possa estar. [parecendo ligeiramente perplexa] Não consigo entender por que contei isso a você. ...talvez esses muitos anos tenham confundido minha mente. Bem, não importa. "Se" por acaso encontrá-lo, eu a recompensarei generosamente. Agora... há mais alguma coisa que eu possa fazer por você?}{Não tenho a menor ideia de onde possa estar. [parecendo ligeiramente perplexa] Não consigo entender por que contei isso a você. ...talvez esses muitos anos tenham confundido minha mente. Bem, não importa. "Se" por acaso encontrá-lo, eu a recompensarei generosamente. Agora... há mais alguma coisa que eu possa fazer por você?}{}{}{}{}
 {123}{T:10}{}{1}{}{82}{}
 {124}{H:}{}{1}{}{82}{}
 {125}{Você pode me treinar para me tornar um Curandeiro Especialista?}{}{5}{tr10 1, tr10 -1, sk10 9}{102}{}
@@ -123,9 +123,9 @@
 {129}{[parecendo chocada e radiante] Você tem o Amuleto de N'Tala?}{[parecendo chocada e radiante] Você tem o Amuleto de N'Tala?}{}{}{}{}
 {130}{Tenho. Um elfo em Stillwater o tinha em sua posse.}{}{5}{}{132}{}
 {131}{Sim... Me pegou de elfo em Still Watur.}{}{-4}{}{132}{}
-{132}{[ela pega o amuleto de você - segurando-o com carinho] Oh, obrigada! Pensei que estivesse perdido para sempre! Minha mãe veio de uma família de curandeiros. Este amuleto foi passado por gerações, até ser roubado há quase 70 anos! Aqui estão 1000 moedas... Sei que vale muito mais, mas é tudo o que tenho. Muito obrigada, @pcname@!}{[ela pega o amuleto de você - segurando-o com carinho] Oh, obrigada! Pensei que estivesse perdido para sempre! Minha mãe veio de uma família de curandeiros. Este amuleto foi passado de geração em geração, até ser roubado há quase 70 anos! Aqui estão 1000 moedas... Sei que vale muito mais, mas é tudo o que tenho. Muito obrigada, @pcname@!}{}{}{}{in2864, $$1000, qu1160 4}
+{132}{[ela pega o amuleto de você - segurando-o com carinho] Oh, obrigada! Pensei que estivesse perdido para sempre! Minha mãe veio de uma família de curandeiros. Este amuleto foi passado de geração em geração, até ser roubado há quase 70 anos! Aqui estão 1000 moedas... Sei que vale muito mais, mas é tudo o que tenho. Muito obrigada, @pcname@!}{[ela pega o amuleto de você - segurando-o com carinho] Oh, obrigada! Pensei que estivesse perdido para sempre! Minha mãe veio de uma família de curandeiros. Este amuleto foi passado de geração em geração, até ser roubado há quase 70 anos! Aqui estão 1000 moedas... Sei que vale muito mais, mas é tudo o que tenho. Muito obrigada, @pcname@!}{}{}{}{in2864, $$1000, qu1160 4}
 {133}{Foi um prazer. Por acaso saberia a localização de Qintarra?}{}{5}{ss9}{139}{}
-{134}{Hã... é. Hum... ocê num sabe ondé Quintarra, né?}{}{-4}{ss9}{139}{}
+{134}{Hã... é. Hum... ocê num sabe ondé Quentarra, né?}{}{-4}{ss9}{139}{}
 {135}{Foi um prazer. Por acaso saberia a localização de Qintarra?}{}{5}{ss8, ss-8}{139}{ss9}
 {136}{Hã... é. Hum... ocê num sabe ondé Quentarra, né?}{}{-4}{ss8, ss-8}{139}{ss9}
 {137}{Foi um prazer. Por acaso saberia a localização de Qintarra?}{}{5}{ss-7}{139}{}
@@ -146,8 +146,8 @@
 {152}{Você morre agora, dona!}{}{-4}{}{}{co, fl 164}
 {153}{F:}{}{1}{}{0}{}
 {154}{Q... Q... Qintarra? [Os olhos dela se arregalam de medo.] Sua localização é um segredo bem guardado...}{Q... Q... Qintarra? [Os olhos dela se arregalam de medo.] Sua localização é um segredo bem guardado...}{}{}{}{}
-{155}{Diga-me onde fica, mulher! ...ou vai se arrepender.}{}{5}{}{158}{}
-{156}{Fala logo! Ou ocê vai se machucá muito!}{}{-4}{}{158}{}
+{155}{Diga-me onde fica, mulher! ...ou vai se arrepender.}{}{5}{}{158}{ss9}
+{156}{Fala logo! Ou ocê vai se machucá muito!}{}{-4}{}{158}{ss9}
 {157}{F:}{}{1}{}{0}{}
 {158}{Tudo bem. [A mão dela treme de medo enquanto aponta um local no seu mapa.] Eu lhe dei o que queria... Agora tenha misericórdia... Eu lhe imploro...}{Tudo bem. [A mão dela treme de medo enquanto aponta um local no seu mapa.] Eu lhe dei o que queria... Agora tenha misericórdia... Eu lhe imploro...}{}{}{}{mm6, mm17}
 {159}{Posso ser misericordioso... Obrigado pela informação, Gaylin.}{}{5}{}{0}{}
@@ -170,8 +170,8 @@
 {176}{Ha ha! Você tá morto de novo, Gayleen!}{}{-4}{ss 9}{}{fl 197}
 {177}{F:}{}{1}{}{0}{}
 {178}{Nãoooo! Eu não posso! [Ela geme novamente, como se sua dor tivesse aumentado.] Sua localização... É um segredo guardado... Não devo contar...}{Nãoooo! Eu não posso! [Ela geme novamente, como se sua dor tivesse aumentado.] Sua localização... É um segredo guardado... Não devo contar...}{}{}{}{}
-{179}{Diga-me onde fica, mulher! ...ou eu nunca a deixarei descansar!}{}{5}{}{182}{}
-{180}{Fala agora! Ou eu não deixo você ir!}{}{-4}{}{182}{}
+{179}{Diga-me onde fica, mulher! ...ou eu nunca a deixarei descansar!}{}{5}{}{182}{ss9}
+{180}{Fala agora! Ou eu não deixo você ir!}{}{-4}{}{182}{ss9}
 {181}{F:}{}{1}{}{0}{}
 {182}{Não! Você não pode fazer isso! Você não faria... [Ela chora e geme por alguns momentos em grande agonia.] Eu vou contar! [Ela explica como chegar a Qintarra, e você marca as instruções em seu mapa.] Eu lhe dei o que queria... Agora mostre misericórdia... Eu imploro... Liberte-me!}{Não! Você não pode fazer isso! Você não faria... [Ela chora e geme por alguns momentos em grande agonia.] Eu vou contar! [Ela explica como chegar a Qintarra, e você marca as instruções em seu mapa.] Eu lhe dei o que queria... Agora mostre misericórdia... Eu imploro... Liberte-me!}{}{}{}{mm6, mm17}
 {183}{Posso ser misericordioso... Adeus, Gaylin.}{}{5}{}{0}{}

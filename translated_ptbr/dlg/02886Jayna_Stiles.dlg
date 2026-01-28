@@ -12,7 +12,7 @@
 {13}{Jayna! Pensei que tivéssemos deixado nossas diferenças para trás...}{}{5}{me 1}{24}{re +15}
 {14}{Está pedindo encrenca com palavras como essas, vadia...}{}{5}{}{17}{re -5}
 {15}{E:}{}{1}{}{0}{}
-{17}{Não serei ameaçado por gente como você! Posso me defender se necessário!}{Não serei ameaçada por gente como você! Posso me defender se necessário!}{}{}{}{}
+{17}{Não serei ameaçada por gente como você! Posso me defender se necessário!}{Não serei ameaçada por gente como você! Posso me defender se necessário!}{}{}{}{}
 {18}{As coisas não precisam piorar assim. Por favor, aceite minhas desculpas...}{}{5}{}{24}{re +15}
 {19}{Receio que terá que fazer isso. Você selou seu destino...}{}{5}{}{}{co, fl 22}
 {20}{E:}{}{1}{}{0}{}
@@ -54,7 +54,7 @@
 {66}{Por que isso, Jayna?}{}{5}{}{75}{lf2 1}
 {67}{Por quê, Jayna?}{}{-4}{}{75}{lf2 1}
 {68}{Como estão progredindo seus estudos?}{}{5}{}{95}{}
-{69}{Você tá aprendendo muito?}{}{-4}{}{95}{}
+{69}{Tá aprendendo muito?}{}{-4}{}{95}{}
 {70}{E:}{}{1}{}{0}{}
 {75}{Bem... [Ela olha para o chão. Você percebe que é difícil para ela falar sobre isso.]... houve uma doença que chegou a Dernholm alguns anos atrás. Como eu disse, não há médico aqui há muito tempo. Não tínhamos remédios, e os carregamentos de Tarant são muito escassos...}{Bem... [Ela olha para o chão. Você percebe que é difícil para ela falar sobre isso.]... houve uma doença que chegou a Dernholm alguns anos atrás. Como eu disse, não há médico aqui há muito tempo. Não tínhamos remédios, e os carregamentos de Tarant são muito escassos...}{}{}{}{}
 {76}{E então?}{}{5}{}{80}{}
@@ -153,15 +153,15 @@
 {234}{O que você sabe sobre este lugar, Jayna?}{}{-4}{ia 21}{316}{}
 {235}{O que você sabe sobre este lugar, Jayna?}{}{-4}{ia 3}{321}{}
 {236}{O que você sabe sobre este lugar, Jayna?}{}{-4}{ia -5, ia -21, ia -3}{326}{}
-{237}{Você está brava comigo, Jayna! Posso fazer algo por você?}{}{-4}{re -20}{239}{}
+{237}{Tá brava comigo, Jayna! Posso fazer alguma coisa por você?}{}{-4}{re -20}{239}{}
 {238}{E:}{}{1}{}{0}{}
 {239}{Bem... não é que eu seja ingrata por você ter me convidado, mas não estou muito feliz com a forma como você tem agido. Claro, sempre gostei de bolos doces... se por acaso tiver alguns, tudo pode parecer um pouco melhor...}{Bem... não é que eu seja ingrata por você ter me convidado, mas não estou muito feliz com a forma como você tem agido. Claro, sempre gostei de bolos doces... se por acaso tiver alguns, tudo pode parecer um pouco melhor...}{}{}{}{}
 {240}{Ora, Jayna... isso é realmente necessário?}{}{5}{ch 20}{249}{re +20}
 {241}{Graças ao Criador que tenho alguns bem aqui!}{}{5}{in 3618, ch -19}{-11}{re +20}
-{242}{Vou ver se consigo alguns para você, Jayna...}{}{5}{in -3618, ch -19}{257}{}
+{242}{Vou ver se consigo alguns para você, Jayna...}{}{5}{ni 3618, ch -19}{257}{}
 {243}{Oh, as coisas tolas com que sonhamos! Vamos, que tal?}{}{5}{}{}{re -5, fl 259}
 {246}{Ótimo! Tenho alguns aqui!}{}{-4}{in 3618, ch -19}{-11}{re +20}
-{247}{Vou conseguir alguns pra você logo, Jayna!}{}{-4}{in -3618, ch -19}{257}{}
+{247}{Vou conseguir alguns pra você logo, Jayna!}{}{-4}{ni 3618, ch -19}{257}{}
 {248}{Que pena! Você não vai ganhar nada!}{}{-4}{}{}{re -5, fl 259}
 {249}{[Jayna parece dividida, mas não consegue resistir ao seu charme.] Ah, me desculpe. Deve ser culpa minha, de alguma forma. Vamos continuar?}{[Jayna parece dividida, mas não consegue resistir ao seu charme.] Ah, me desculpe. Deve ser culpa minha, de alguma forma. Vamos continuar?}{}{}{}{}
 {250}{E:}{}{5}{}{0}{}
@@ -187,7 +187,7 @@
 {281}{E:}{}{1}{}{0}{}
 {283}{Tá bom. Mas tente não demorar muito, certo?}{Tá bom. Mas tente não demorar muito, certo?}{}{}{}{}
 {284}{E:}{}{1}{}{0}{}
-{286}{Oh. [Ela parece muito triste, um pouco assustada.] Bem... tenho certeza de que vou encontrar algo para fazer por aqui. Adeus...}{Oh. [Ela parece muito triste, um pouco assustada.] Bem... tenho certeza de que vou encontrar algo para fazer por aqui. Adeus...}{}{}{}{lf31 1}
+{286}{Oh. [Ela parece muito triste, um pouco assustada.] Bem... tenho certeza de que encontrarei algo para fazer por aqui. Adeus...}{Oh. [Ela parece muito triste, um pouco assustada.] Bem... tenho certeza de que encontrarei algo para fazer por aqui. Adeus...}{}{}{}{lf31 1}
 {287}{E:}{}{1}{}{0}{}
 {289}{Olá de novo! Que bom te ver novamente!}{Olá de novo! Que bom te ver novamente!}{}{}{}{}
 {290}{Você vai se juntar a mim de novo, Jayna?}{}{5}{}{295}{jo 0 298}
@@ -209,7 +209,7 @@
 {316}{Esta é Tarant! Estou tão animada! Se existe algum lugar onde uma pessoa possa aprender sobre tecnologia, este é o lugar! Acho que Gilbert Bates, o inventor da máquina a vapor, mora aqui! E ainda tem a Universidade de Tarant, os estaleiros, as fábricas... Nunca vi um lugar mais lindo em toda a minha vida!}{Esta é Tarant! Estou tão animada! Se existe algum lugar onde uma pessoa possa aprender sobre tecnologia, este é o lugar! Acho que Gilbert Bates, o inventor da máquina a vapor, mora aqui! E ainda tem a Universidade de Tarant, os estaleiros, as fábricas... Nunca vi um lugar mais lindo em toda a minha vida!}{}{}{}{}
 {317}{K:}{}{1}{}{225}{}
 {318}{E:}{}{1}{}{0}{}
-{321}{Oh... esta é Black Root. É uma pequena cidade pesqueira, mas ultimamente tem estado nas notícias. Dizem os boatos que Black Root quer se separar de Cumbria e se juntar ao Reino Unificado! O Rei Praetor não está nada feliz com isso...}{Oh...esta é Black Root. É uma pequena cidade pesqueira, mas ultimamente tem estado nas notícias. Rumores dizem que Black Root quer se separar de Cumbria e se juntar ao Reino Unificado! O Rei Praetor não está nada feliz com isso...}{}{}{}{}
+{321}{Oh...esta é Black Root. É uma pequena cidade pesqueira, mas ultimamente tem estado nas notícias. Rumores dizem que Black Root quer se separar de Cumbria e se juntar ao Reino Unificado! O Rei Praetor não está nada feliz com isso...}{Oh...esta é Black Root. É uma pequena cidade pesqueira, mas ultimamente tem estado nas notícias. Rumores dizem que Black Root quer se separar de Cumbria e se juntar ao Reino Unificado! O Rei Praetor não está nada feliz com isso...}{}{}{}{}
 {322}{K:}{}{1}{}{225}{}
 {323}{E:}{}{1}{}{0}{}
 {326}{[Ela olha ao redor, balançando a cabeça.] Não saberia dizer ao certo. Não vi muito do mundo, amigo. Mas vou ficar de olhos abertos para você...}{[Ela olha ao redor, balançando a cabeça.] Não saberia dizer ao certo. Não vi muito do mundo, amigo. Mas vou ficar de olhos abertos para você...}{}{}{}{}

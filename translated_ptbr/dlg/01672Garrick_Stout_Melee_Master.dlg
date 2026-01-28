@@ -2,33 +2,33 @@
 {2}{Sir Garrick, tenho uma pergunta...}{}{5}{}{37}{}
 {3}{Sua habilidade no Combate Corpo a Corpo é reconhecida por todos, Sir Garrick.}{}{5}{tr2 1, tr2 -2, qu1114 0}{80}{}
 {4}{Me pergunta uma coisa, Sir Gareek?}{}{-4}{}{37}{}
-{5}{O Senhor é Mestre do Maylay?}{}{-4}{tr2 1, tr2 -2, qu1114 0}{80}{}
+{5}{Você é o Mestre do Combate?}{}{-4}{tr2 1, tr2 -2, qu1114 0}{80}{}
 {6}{E:}{}{1}{}{0}{}
 {7}{}{}{}{}{}{}
 {8}{}{}{}{}{}{}
 {10}{Firme, cidadão! Tem novamente a honra da minha companhia... sem dúvida se lembra de mim, Sir Garrick Stout, Mestre do Combate Corpo a Corpo?! O que tem a dizer?}{Firme, cidadão! Tem novamente a honra da minha companhia... sem dúvida se lembra de mim, Sir Garrick Stout, Mestre do Combate Corpo a Corpo?! O que tem a dizer?}{}{}{}{}
 {11}{Sir Garrick... tenho uma pergunta...}{}{5}{}{37}{}
-{12}{Tenho uma mensagem para entregar da parte de Adkin Chambers.}{}{5}{qu 1105 2}{252}{}
-{13}{Tenho uma mensagem para entregar da parte de Adkin Chambers.}{}{5}{qu 1116 2}{252}{}
+{12}{Tenho uma mensagem para entregar de Adkin Chambers.}{}{5}{qu 1105 2}{252}{}
+{13}{Tenho uma mensagem para entregar de Adkin Chambers.}{}{5}{qu 1116 2}{252}{}
 {14}{Sua habilidade no Combate Corpo a Corpo é reconhecida por todos, Sir Garrick.}{}{5}{tr2 1, tr2 -2, qu1114 0}{80}{}
-{15}{Eu resgatarei a Lady Druella. O que devo fazer?}{}{5}{qu1114 1}{152}{}
-{16}{Ainda estou tentando convencer a Lady Druella a voltar...}{}{5}{qu1114 2}{180}{}
-{17}{A Lady Druella está morta. Você é o próximo, Sir Garrick!}{}{5}{qu1114 6, gf2290 1}{}{co, fl 188}
-{18}{Resgatei a Lady. Eu a entrego aos seus cuidados.}{}{5}{lf 13 1, qu1114 2}{-7}{}
-{19}{Voltei com a Lady Druella. Ela está disposta a se casar com você.}{}{5}{lf 13 1, qu1114 3}{-7}{}
-{20}{Falhei em trazer a Lady Druella. Por favor, me perdoe.}{}{5}{lf 13 0, qu1114 3}{183}{qu1115 6}
-{21}{Falhei em trazer a Lady Druella. Por favor, me perdoe.}{}{5}{qu1114 5, gf2290 0}{183}{}
-{22}{A Lady Druella está morta. Você é o próximo, Sir Garrick!}{}{5}{qu1114 5, gf2290 1}{}{co, fl 188}
+{15}{Eu devo resgatar a Dama Druella. O que devo fazer?}{}{5}{qu1114 1}{152}{}
+{16}{Ainda estou tentando convencer a Dama Druella a voltar...}{}{5}{qu1114 2}{180}{}
+{17}{A Dama Druella está morta. Você é o próximo, Sir Garrick!}{}{5}{qu1114 6, gf2290 1}{}{co, fl 188}
+{18}{Eu resgatei a Dama. Eu a confio aos seus cuidados.}{}{5}{lf 13 1, qu1114 2}{-7}{}
+{19}{Voltei com a Dama Druella. Ela está disposta a se casar com você.}{}{5}{lf 13 1, qu1114 3}{-7}{}
+{20}{Falhei em trazer a Dama Druella. Por favor, me perdoe.}{}{5}{lf 13 0, qu1114 3}{183}{qu1115 6}
+{21}{Falhei em trazer a Dama Druella. Por favor, me perdoe.}{}{5}{qu1114 5, gf2290 0}{183}{}
+{22}{A Dama Druella está morta. Você é o próximo, Sir Garrick!}{}{5}{qu1114 5, gf2290 1}{}{co, fl 188}
 {23}{Me pergunta uma coisa, Sir Gareek?}{}{-4}{}{37}{}
-{24}{Me tem mensagem de Adkin pra você.}{}{-4}{qu 1105 2}{252}{}
-{25}{Me tem mensagem de Adkin pra você.}{}{-4}{qu 1116 2}{252}{}
-{26}{O Senhor é Mestre do Maylay?}{}{-4}{tr2 1, tr2 -2, qu1114 0}{80}{}
-{27}{Me vai trazer a Lady de volta. O que me faz agora?}{}{-4}{qu1114 1}{152}{}
-{28}{Me ainda não pegou a Lady...}{}{-4}{qu1114 2}{180}{}
-{29}{Lady bonita morta. Me sente muito... agora você sente muito!}{}{-4}{qu1114 6, gf2290 1}{}{co, fl 188}
-{30}{Me pegou a Lady! Ela não gosta de você. Me quer treinamento.}{}{-4}{lf 13 1, qu1114 2}{-7}{}
-{31}{Me pegou a Lady! Ela diz que casa com você.}{}{-4}{lf 13 1, qu1114 3}{-7}{}
-{32}{Me achou Lady bonita... me perdeu Lady... o que me faz agora?}{}{-4}{lf 13 0, qu1114 3}{183}{qu1115 6}
+{24}{Eu tenho uma mensagem de Adkin para você.}{}{-4}{qu 1105 2}{252}{}
+{25}{Eu tenho uma mensagem de Adkin para você.}{}{-4}{qu 1116 2}{252}{}
+{26}{Você é o Mestre do Combate?}{}{-4}{tr2 1, tr2 -2, qu1114 0}{80}{}
+{27}{Eu vou trazer a Dama de volta. O que eu faço agora?}{}{-4}{qu1114 1}{152}{}
+{28}{Eu ainda não consegui a Dama...}{}{-4}{qu1114 2}{180}{}
+{29}{A Dama bonita está morta. Me desculpe... agora você vai se arrepender!}{}{-4}{qu1114 6, gf2290 1}{}{co, fl 188}
+{30}{Eu consegui a Dama! Ela não gosta de você. Eu quero treinamento.}{}{-4}{lf 13 1, qu1114 2}{-7}{}
+{31}{Eu consegui a Dama! Ela disse que vai se casar com você.}{}{-4}{lf 13 1, qu1114 3}{-7}{}
+{32}{Eu encontrei a Dama bonita... eu perdi a Dama... o que eu faço agora?}{}{-4}{lf 13 0, qu1114 3}{183}{qu1115 6}
 {33}{Eu não consegui a Dama. Me desculpe...}{}{-4}{qu1114 5, gf2290 0}{183}{}
 {34}{A Dama bonita está morta. Me desculpe... agora você vai se arrepender!}{}{-4}{qu1114 5, gf2290 1}{}{co, fl 188}
 {35}{F:}{}{1}{}{0}{}
@@ -100,14 +100,14 @@
 {103}{Minhas desculpas, mas preciso seguir meu caminho.}{}{5}{}{0}{}
 {104}{O que aconteceu?}{}{-4}{}{106}{}
 {105}{E:}{}{-4}{}{0}{}
-{106}{Ela fugiu da cena, claramente perturbada. Tentei segui-la para acalmá-la, mas quando descobri sua localização, já era tarde demais. Ela havia sido cercada por uma matilha de Gyr-Dolour. Não ousei me mostrar, com medo de aumentar seu desespero e provocar as feras.}{Ela fugiu da cena, claramente perturbada. Eu a segui para tentar acalmá-la, mas quando descobri sua localização, já era tarde demais. Ela havia sido cercada por uma matilha de Gyr-Dolour. Não ousei me mostrar, com medo de aumentar seu desespero e provocar as feras.}{}{}{}{}
+{106}{Ela fugiu da cena, claramente perturbada. Eu a segui para tentar acalmá-la, mas quando descobri sua localização, já era tarde demais. Ela havia sido cercada por uma matilha de Gyr-Dolour. Não ousei me mostrar, com medo de aumentar seu desespero e provocar as feras.}{Ela fugiu da cena, claramente perturbada. Eu a segui para tentar acalmá-la, mas quando descobri sua localização, já era tarde demais. Ela havia sido cercada por uma matilha de Gyr-Dolour. Não ousei me mostrar, com medo de aumentar seu desespero e provocar as feras.}{}{}{}{}
 {107}{Gyr-Dolour? O que são eles?}{}{5}{}{113}{}
 {108}{Minhas desculpas, mas preciso seguir meu caminho.}{}{5}{}{0}{}
 {109}{Por que você não a resgatou das criaturas?}{}{5}{}{118}{}
 {110}{Geer Doler? O que é isso?}{}{-4}{}{113}{}
 {111}{Por que você não foi buscá-la?}{}{-4}{}{118}{}
 {112}{E:}{}{-4}{}{0}{}
-{113}{Feras nojentas e muito mortais! Elas buscam os fracos e os traumatizados e se alimentam de suas emoções fortes. Suas vítimas existem em um estado de transe de agonia emocional... às vezes por meses antes de morrerem. Os Gyr-Dolour, geralmente uma matilha deles, suprem as necessidades básicas de suas presas para prolongar sua alimentação.}{Feras nojentas e muito mortais! Elas buscam os fracos e os traumatizados e se alimentam de suas emoções fortes. Suas vítimas existem em um estado de transe de agonia emocional... às vezes por meses antes de morrerem. Os Gyr-Dolour, geralmente uma matilha deles, suprem as necessidades básicas de suas presas para prolongar sua alimentação.}{}{}{}{}
+{113}{Criaturas imundas e mortais! Elas buscam os fracos e os traumatizados e se alimentam de suas emoções intensas. Suas vítimas permanecem em um estado de transe, sofrendo uma agonia emocional... às vezes por meses antes de morrerem. Os Gyr-Dolours, geralmente em bando, suprem as necessidades básicas de suas presas para prolongar seu banquete.}{Criaturas imundas e mortais! Elas buscam os fracos e os traumatizados e se alimentam de suas emoções intensas. Suas vítimas permanecem em um estado de transe, sofrendo uma agonia emocional... às vezes por meses antes de morrerem. Os Gyr-Dolours, geralmente em bando, suprem as necessidades básicas de suas presas para prolongar seu banquete.}{}{}{}{}
 {114}{Por que você não a resgatou das criaturas?}{}{5}{}{118}{}
 {116}{Por que você não foi buscá-la?}{}{-4}{}{118}{}
 {118}{Temo que minha presença agravaria ainda mais a agonia da Lady Druella, talvez mergulhando-a ainda mais nos reinos traumatizados de sua mente assombrada. Se isso acontecer, os Gyr-Dolour certamente entrarão em frenesi. Receio que possam machucá-la nesse estado.}{Temo que minha presença agravaria ainda mais a agonia da Lady Druella, talvez mergulhando-a ainda mais nos reinos traumatizados de sua mente assombrada. Se isso acontecer, os Gyr-Dolour certamente entrarão em frenesi. Receio que possam machucá-la nesse estado.}{}{}{}{}
@@ -177,10 +177,10 @@
 {193}{Ela disse que tá bom. [Lady Druella concorda com a cabeça]}{}{-4}{qu1114 3}{195}{}
 {194}{Não, ela não quer vir. Eu fiz ela dizer que sim.}{}{-4}{qu1114 2}{239}{}
 {195}{Ah, Lady, você é um espetáculo para os olhos... [ele se recompõe, lembrando de sua presença]. Sim, vamos prosseguir. Aqui está a poção de que falei [ele lhe entrega um frasco] - certifique-se de que seja entregue a Adkin Chambers, em Stillwater.}{Ah, Lady, você é um espetáculo para os olhos... [ele se recompõe, lembrando de sua presença]. Sim, vamos prosseguir. Aqui está a poção de que falei [ele lhe entrega um frasco] - certifique-se de que seja entregue a Adkin Chambers, em Stillwater.}{}{}{}{qu1114 4, qu1115 1, in -3603}
-{196}{O quê, sou seu serviçal? E o meu treinamento?!}{}{5}{}{200}{}
-{197}{Eu gostaria do meu treinamento agora...}{}{5}{}{200}{}
+{196}{O quê, sou seu serviçal? E o meu treinamento!?!}{}{5}{}{200}{}
+{197}{Gostaria de receber meu treinamento agora...}{}{5}{}{200}{}
 {198}{O que aconteceu que eu peguei o trem?}{}{-4}{}{200}{}
-{200}{Treinamento? Ah, sim... [ele olha para você com desdém]. Você cumpriu nossa barganha. Muito bem, eu lhe concedo o treinamento. Agora você é um Mestre. Seu título é igual ao meu, mas duvido que sua habilidade algum dia será. Agora suma daqui, tenho uma noiva para levar para a cama!}{Treinamento? Ah, sim... [ele olha para você com desdém]. Você cumpriu nossa barganha. Muito bem, eu lhe concedo o treinamento. Agora você é um Mestre. Seu título é igual ao meu, mas duvido que sua habilidade algum dia será. Agora suma daqui, tenho uma noiva para levar para a cama!}{}{}{}{tr2 3, rq2164}
+{200}{Treinamento? Ah, sim... [ele olha para você com desdém]. Você cumpriu nossa barganha. Muito bem, eu lhe concedo o treinamento. Agora você é um Mestre. Seu título é igual ao meu, mas duvido que sua habilidade algum dia será. Agora suma daqui, tenho uma noiva para levar para a cama!}{Treinamento? Ah, sim... [ele olha para você com desdém]. Você cumpriu nossa barganha. Muito bem, eu lhe concedo o treinamento. Agora você é um Mestre. Seu título é igual ao meu, mas duvido que sua habilidade algum dia será. Agora suma daqui, tenho uma noiva para levar para a cama!}{}{}{}{tr2 3, rq2164, rp1014}
 {201}{É só isso? Tudo bem. Vou seguir meu caminho. Adeus!}{}{5}{}{-15}{}
 {202}{É só isso? Seu bastardo! A Druella está certa! Você precisa morrer!}{}{5}{}{}{co, fl 87}
 {203}{Bem, agora acho que é hora de você pagar por seus crimes!}{}{5}{}{}{co, fl 87}
@@ -191,8 +191,8 @@
 {210}{Eu poderia mentir para a dama, dizer que Chambers viveu.}{}{5}{ps 12}{222}{}
 {211}{Seu plano precisa de ajustes.}{}{5}{ps -11}{215}{}
 {212}{Eu matei o cara nervoso em Stillwa'er. Ha ha. Ele tá morto agora.}{}{-4}{}{}{co, fl 87}
-{213}{Meus parentes mentem! Você sabe, eu digo que Chambers tá bem!}{}{-4}{ps -11}{222}{}
-{214}{Seu plano não presta.}{}{-4}{}{215}{}
+{213}{Meus parentes mentem! Você sabe, eu digo que Chambers tá bem!}{}{-4}{ps 12}{222}{}
+{214}{Seu plano não presta.}{}{-4}{ps -11}{215}{}
 {215}{[Ele parece estar pensando.] Muito lamentável para mim... mas a dama ainda não sabe que Chambers está morto. Meu plano ainda poderia funcionar se a Dama pudesse ser enganada e retornasse a Dernholm.}{[Ele parece estar pensando.] Muito lamentável para mim... mas a dama ainda não sabe que Chambers está morto. Meu plano ainda poderia funcionar se a Dama pudesse ser enganada e retornasse a Dernholm.}{}{}{}{}
 {216}{Pelo menos ela estaria segura de volta a Dernholm.}{}{5}{}{222}{}
 {217}{A dama legal estaria aqui então... isso é bom para você!}{}{-4}{}{222}{}
@@ -221,7 +221,7 @@
 {240}{O quê, sou seu serviçal? E o meu treinamento!?!}{}{5}{}{244}{}
 {241}{Gostaria de receber meu treinamento agora...}{}{5}{}{244}{}
 {243}{Eu quero treinamento!}{}{-4}{}{244}{}
-{244}{Treinamento? Ah, sim. [Ele olha para você com desdém.] Você cumpriu nossa barganha. Muito bem, concedo-lhe o treinamento. Agora você é um Mestre. Seu título é igual ao meu, mas duvido que sua habilidade algum dia será. Agora vá embora, vou me preparar para a bela dama e nosso... prazer... mútuo!}{Treinamento? Ah, sim... [olha para você com desdém] Você cumpriu nossa barganha. Muito bem. Concedo-lhe o treinamento. Agora você é um Mestre. Seu título é igual ao meu, mas duvido que sua habilidade algum dia será. Agora vá embora. Vou me preparar para a bela dama! E nosso... prazer... mútuo!}{}{}{}{tr2 3, rq2164}
+{244}{Treinamento? Ah, sim. [Ele olha para você com desdém.] Você cumpriu nossa barganha. Muito bem, concedo-lhe o treinamento. Agora você é um Mestre. Seu título é igual ao meu, mas duvido que sua habilidade algum dia será. Agora vá embora, vou me preparar para a bela dama e nosso... prazer... mútuo!}{Treinamento? Ah, sim... [olha para você com desdém] Você cumpriu nossa barganha. Muito bem. Concedo-lhe o treinamento. Agora você é um Mestre. Seu título é igual ao meu, mas duvido que sua habilidade algum dia será. Agora vá embora. Vou me preparar para a bela dama! E nosso... prazer... mútuo!}{}{}{}{tr2 3, rq2164, rp1014}
 {245}{É só isso? Tudo bem. Vou seguir meu caminho. Adeus!}{}{5}{}{0}{}
 {246}{Acho que é hora de você pagar por seus crimes, cão!}{}{5}{}{}{al +100, co, fl 87}
 {248}{Isso é tudo? Tá bom. Eu vou embora agora.}{}{-4}{}{0}{}

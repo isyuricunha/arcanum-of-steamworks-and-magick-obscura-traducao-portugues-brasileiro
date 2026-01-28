@@ -15,9 +15,9 @@
 {15}{Hã... qual é o seu nome, malvado?}{}{-4}{lf1 0, re -40}{28}{}
 {16}{Hã... Eu pergunto uma coisa?}{}{-4}{lf1 1, re 41}{36}{}
 {17}{Hã... eu pergunto uma coisa, malvado?}{}{-4}{lf1 1, re -40}{36}{}
-{18}{Melhorei minhas habilidades em Necromancia Negra, Mestre D'Ary.}{}{5}{lf4 1, sc11 5}{78}{}
-{19}{Reforcei minha aura mágica, Mestre D'Ary.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{20}{Tenho interesse em me tornar um Mestre em Necromancia Negra.}{}{5}{gf2411 0, ma30, lf1 1}{101}{}
+{18}{Melhorei minhas habilidades em Necromancia Negra, Mestre D'Ary.}{}{5}{lf4 1, sc11 5, lf5 0}{78}{}
+{19}{Reforcei minha aura mágica, Mestre D'Ary.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{20}{Tenho interesse em me tornar um Mestre em Necromancia Negra.}{}{5}{gf2411 0, ma30, lf1 1, sc11 5}{101}{}
 {21}{Ainda não completei o teste para Mestria, senhor.}{}{5}{LF7 1, gf2423 0}{115}{}
 {22}{Senhor, completei o teste de Mestria em Necromancia Negra!}{}{5}{gf2423 1, lf9 0}{119}{}
 {27}{E:}{}{1}{}{0}{}
@@ -26,27 +26,27 @@
 {30}{É uma honra conhecê-lo, senhor.}{}{5}{sc11 5, lf5 0}{78}{}
 {31}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{sc11 0, lf3 0}{65}{}
 {32}{Por favor, explique-me sobre Necromancia Negra.}{}{5}{sc11 0, lf2 0}{57}{}
-{33}{O quê? <<<PH1>>>?}{}{-4}{sc11 0, lf2 0}{57}{}
+{33}{O quê? Necro... mancia Negra?}{}{-4}{sc11 0, lf2 0}{57}{}
 {34}{Você acha que essa teknawlugia te prejudica?}{}{-4}{sc11 0, lf3 0}{65}{}
 {35}{E:}{}{1}{sc11 0}{0}{}
 {36}{Suponho... O que deseja?}{Suponho... O que deseja?}{}{}{}{}
-{37}{Melhorei minhas habilidades em Necromancia Negra, Mestre D'Ary.}{}{5}{lf4 1, sc11 5, ma 30}{78}{}
-{38}{Reforcei minha aura mágica, Mestre D'Ary.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{39}{Tenho interesse em me tornar um Mestre em Necromancia Negra.}{}{5}{gf2411 0, ma30}{101}{}
+{37}{Melhorei minhas habilidades em Necromancia Negra, Mestre D'Ary.}{}{5}{lf4 1, sc11 5, lf5 0}{78}{}
+{38}{Reforcei minha aura mágica, Mestre D'Ary.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{39}{Tenho interesse em me tornar um Mestre em Necromancia Negra.}{}{5}{gf2411 0, ma30, sc11 5}{101}{}
 {40}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
 {41}{Poderia, por favor, me explicar sobre Necromancia Negra?}{}{5}{lf2 0}{57}{}
-{42}{O quê? <<<PH1>>>?}{}{-4}{lf2 0}{57}{}
+{42}{O quê? Necro... mancia Negra?}{}{-4}{lf2 0}{57}{}
 {43}{Você acha que essa teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
 {44}{F:}{}{1}{}{0}{}
 {45}{E:}{}{1}{}{0}{}
 {46}{Precisa de mais alguma coisa? Tenho feitiços para estudar, sabe.}{Precisa de mais alguma coisa? Tenho feitiços para estudar, sabe.}{}{}{}{}
-{47}{Melhorei minhas habilidades em Necromancia Negra, Mestre D'Ary.}{}{5}{lf4 1, sc11 5, ma 30}{78}{}
-{48}{Reforcei minha aura mágica, Mestre D'Ary.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{49}{Tenho interesse em me tornar um Mestre em Necromancia Negra.}{}{5}{gf2411 0, ma30}{101}{}
+{47}{Melhorei minhas habilidades em Necromancia Negra, Mestre D'Ary.}{}{5}{lf4 1, sc11 5, lf5 0}{78}{}
+{48}{Reforcei minha aura mágica, Mestre D'Ary.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{49}{Tenho interesse em me tornar um Mestre em Necromancia Negra.}{}{5}{gf2411 0, ma30, sc11 5}{101}{}
 {50}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
 {51}{Senhor, por favor, explique-me sobre Necromancia Negra.}{}{5}{lf2 0}{57}{}
 {52}{Não, senhor. Obrigado pelo seu tempo.}{}{5}{}{0}{}
-{53}{O quê? <<<PH1>>>?}{}{-4}{lf2 0}{57}{}
+{53}{O quê? Necro... mancia Negra?}{}{-4}{lf2 0}{57}{}
 {54}{Hã... Você acha que essa tecno-lugia vai te prejudicar?}{}{-4}{lf3 0}{65}{}
 {55}{Nã-nã.}{}{-4}{}{0}{}
 {56}{E:}{}{1}{}{0}{}
@@ -82,7 +82,7 @@
 {86}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 1}{46}{}
 {87}{Extremamente, senhor. No entanto, parece que meus esforços foram recompensados.}{}{5}{gf2411 1}{46}{}
 {88}{E:}{}{1}{}{0}{}
-{89}{Você teve sucesso em todos os aspectos da Necromancia Negra, mas sua aura mágica está fraca. Receio que tenha cedido à tentação da tecnologia. Que pena... Se algum dia aumentar suas habilidades mágicas, volte a mim. Talvez eu tenha uma oferta para você.}{Você teve sucesso em todos os aspectos da Necromancia Negra, mas sua aura mágica está fraca. Receio que tenha cedido à tentação da tecnologia. Que pena... Se algum dia aumentar suas habilidades mágicas, volte a mim. Talvez eu tenha uma oferta para você.}{}{}{}{}
+{89}{Você teve sucesso em todos os aspectos da Necromancia Negra, mas sua aura mágica está fraca. Receio que tenha cedido à tentação da tecnologia. Que pena... Se algum dia aumentar suas habilidades mágicas, volte a mim. Talvez eu tenha uma oferta para você.}{Você teve sucesso em todos os aspectos da Necromancia Negra, mas sua aura mágica está fraca. Receio que tenha cedido à tentação da tecnologia. Que pena... Se algum dia aumentar suas habilidades mágicas, volte a mim. Talvez eu tenha uma oferta para você.}{}{}{}{lf8 1}
 {90}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
 {91}{Prefiro trilhar um caminho equilibrado entre os dois, senhor.}{}{5}{}{46}{re-2}
 {92}{Mas senhor! Sinto que a tecnologia se tornará a base, com o tempo.}{}{5}{}{46}{re-5}
@@ -91,7 +91,7 @@
 {95}{Hmm... Você realmente tem uma aura mágica forte ao seu redor... Deveria considerar se tornar um Mestre de Necromancia Negra.}{Hmm... Você realmente tem uma aura mágica forte ao seu redor... Deveria considerar se tornar um Mestre de Necromancia Negra.}{}{}{}{lf6 1}
 {96}{Um Mestre? O que é necessário para alcançar tal título?}{}{5}{}{101}{}
 {97}{O que eu preciso fazer?}{}{5}{}{101}{}
-{98}{Não me sinto pronto neste momento, senhor, mas agradeço.}{}{5}{}{46}{}
+{98}{Não me sinto preparado neste momento, senhor, embora lhe agradeça.}{}{5}{}{46}{}
 {99}{F:}{}{5}{}{0}{}
 {100}{E:}{}{1}{}{0}{}
 {101}{Para Dominar a Magia Negra Necromântica, você deve primeiro passar por um teste difícil e perigoso. Aqueles que conseguem são recompensados com um grande presente... o esforço necessário para lançar cada feitiço da escola é reduzido pela metade! ...Esse prêmio lhe interessa?}{Para Dominar a Magia Negra Necromântica, você deve primeiro passar por um teste difícil e perigoso. Aqueles que conseguem são recompensados com um grande presente... o esforço necessário para lançar cada feitiço da escola é reduzido pela metade! ...Esse prêmio lhe interessa?}{}{}{}{}

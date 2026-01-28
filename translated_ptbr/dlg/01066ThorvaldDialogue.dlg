@@ -15,8 +15,8 @@
 {15}{Aqui está seu dinheiro. Agora, por favor, a localização do Clã da Roda.}{}{5}{$$500,lf22 1,gf2526 0}{26}{$$-500,lf22 0}
 {16}{Aqui está seu dinheiro. Agora, por favor, a localização do Clã da Roda.}{}{5}{$$-499,lf22 1,gf2526 0}{452}{}
 {17}{Aqui está uma garrafa de licor de lua de Norian. Agora, a informação...}{}{5}{in 3602, lf24 1,gf2526 0}{463}{in 3602}
-{18}{Tudo bem, dou minha palavra, avisarei o Clã da Roda sobre você.}{}{5}{lf23 1,ch -14,gf2526 0}{26}{lf23 0}
-{19}{Tudo bem, dou minha palavra, avisarei o Clã da Roda sobre você.}{}{5}{lf23 1,ch 15,gf2526 0}{133}{lf23 0}
+{18}{Certo, dou minha palavra, vou contar ao Clã da Roda sobre você.}{}{5}{lf23 1,ch -14,gf2526 0}{26}{lf23 0}
+{19}{Certo, dou minha palavra, vou contar ao Clã da Roda sobre você.}{}{5}{lf23 1,ch 15,gf2526 0}{133}{lf23 0}
 {20}{E:}{}{5}{me 1}{0}{}
 {26}{Muito bem, deixe-me ver seu mapa.}{Muito bem, deixe-me ver seu mapa.}{}{}{}{}
 {27}{[Mostre-lhe seu mapa]}{}{1}{}{467}{}
@@ -24,15 +24,15 @@
 {29}{Qual é o seu assunto aqui?}{O que está fazendo aqui?}{}{}{}{}
 {30}{Ogdin me deixou entrar.}{}{5}{}{32}{}
 {31}{Estou procurando falar com Thorvald.}{}{5}{}{41}{}
-{32}{Por que, em nome do martelo de Alberich, eu tenho um guarda? Esse maldito meio-sangue intelectualizado demais deixa todo mundo entrar aqui.}{Por que, em nome do martelo de Alberich, eu tenho um guarda? Esse maldito meio-sangue intelectualizado demais deixa todo mundo entrar aqui.}{}{}{}{}
-{33}{Preciso falar com Thorvald. É você?}{}{5}{}{41}{}
+{32}{Pelo martelo de Alberich, por que eu tenho um guarda? Esse maldito meio-sangue intelectualizado demais deixa todo mundo entrar aqui.}{Pelo martelo de Alberich, por que eu tenho um guarda? Esse maldito meio-sangue intelectualizado demais deixa todo mundo entrar aqui.}{}{}{}{}
+{33}{Preciso falar com Thorvald. Você é ele?}{}{5}{}{41}{}
 {34}{Não vi outros anões na ilha, você é o único?}{}{5}{}{48}{}
 {35}{E:}{}{5}{}{0}{}
 {36}{Ahhh. Você é o tal. O primeiro a derrotar Borag. Devo dizer que estou impressionado com sua performance.}{Ahhh. Você é o tal. O primeiro a derrotar Borag. Devo dizer que estou impressionado com sua performance.}{}{}{}{}
 {37}{Ele era um oponente formidável.}{}{5}{}{39}{}
 {38}{Seus oponentes anteriores devem ter sido fracos. Ele não foi problema algum.}{}{5}{}{39}{re -2}
 {39}{Você queria falar comigo. Em que posso ajudá-lo?}{Você queria falar comigo. Em que posso ajudá-lo?}{}{}{}{}
-{40}{Preciso falar com Thorvald. É você?}{}{5}{}{41}{}
+{40}{Preciso falar com Thorvald. Você é ele?}{}{5}{}{41}{}
 {41}{Você está falando com ele.}{Você está falando com ele.}{}{}{}{}
 {42}{Você é o único anão nesta ilha?}{}{5}{}{48}{}
 {43}{Como você se tornou o líder dessas pessoas?}{}{5}{}{45}{}
@@ -48,9 +48,9 @@
 {53}{O que aconteceu?}{}{5}{}{245}{}
 {54}{Então me diga, onde está o resto do Clã da Montanha Negra?}{}{5}{lf0 0}{58}{}
 {58}{Clã da Montanha Negra? Não há ninguém do Clã da Montanha Negra aqui, sou o único anão que já viveu nesta rocha.}{Clã da Montanha Negra? Não há ninguém do Clã da Montanha Negra aqui, sou o único anão que já viveu nesta rocha.}{}{}{}{ru2026}
-{59}{Você não é do clã da Montanha Negra?}{}{5}{}{68}{lf0 1}
+{59}{Você não é do Clã da Montanha Negra?}{}{5}{}{68}{lf0 1}
 {68}{Sou Thorvald Duas Pedras do Clã da Roda. Você está um pouco perdido em suas direções, o Clã da Montanha Negra fica na região mais ao norte das Montanhas da Muralha de Pedra.}{Sou Thorvald Duas Pedras do Clã da Roda. Você está um pouco perdido em suas direções, o Clã da Montanha Negra fica na região mais ao norte das Montanhas da Muralha de Pedra.}{}{}{}{}
-{69}{Eu estive lá. As minas deles estão desertas.}{}{5}{}{79}{}
+{69}{Eu estive lá. As minas deles estão abandonadas.}{}{5}{}{79}{}
 {78}{É óbvio que você não vai me ajudar em nada. Tenha um bom dia.}{}{5}{}{0}{re -10}
 {79}{Isso é estranho. Mas por que você acredita que eles estão aqui?}{Estranho? Mas por que você acredita que eles estão aqui?}{}{}{}{}
 {80}{Eles deveriam ter sido banidos para cá. Por ordem do Clã da Roda.}{}{5}{}{89}{}
@@ -61,7 +61,7 @@
 {90}{Um anão de mente fraca escondido nas profundezas das minas deles.}{}{5}{}{99}{}
 {99}{Qual era o nome dele?}{Qual era o nome dele?}{}{}{}{}
 {100}{Ele disse que se chamava Gudmund.}{}{5}{}{109}{}
-{109}{Gudmund? Gudmund Quebra-Minério e eu éramos amigos, mas ele de forma alguma era fraco de mente. Era um dos guerreiros mais corajosos que conheci. Acho difícil imaginar que ele tenha ficado fraco de mente em tão pouco tempo.}{Gudmund? Gudmund Quebra-Minério e eu éramos amigos, mas ele de forma alguma era fraco de mente. Era um dos guerreiros mais corajosos que conheci. Acho difícil imaginar que ele tenha ficado fraco de mente em tão pouco tempo.}{}{}{}{}
+{109}{Gudmund? Gudmund Dobrador de Minério e eu éramos amigos, mas de forma alguma ele era fraco de mente. Ele era um dos guerreiros mais corajosos que conheci. Acho difícil imaginar que ele pudesse ter ficado fraco de mente em tão pouco tempo.}{Gudmund? Gudmund Dobrador de Minério e eu éramos amigos, mas de forma alguma ele era fraco de mente. Ele era um dos guerreiros mais corajosos que conheci. Acho difícil imaginar que ele pudesse ter ficado fraco de mente em tão pouco tempo.}{}{}{}{}
 {110}{A história que ele contou foi muito perturbadora.}{}{5}{}{111}{}
 {111}{O que ele lhe disse?}{O que ele lhe disse?}{}{}{}{}
 {112}{[Conte a ele a história de Gudmund sobre o banimento.]}{}{5}{}{121}{}
@@ -80,15 +80,15 @@
 {154}{Eu tiro você desta ilha se me levar até o Clã da Roda.}{}{5}{}{162}{}
 {155}{Agradeço pela sua ajuda. Adeus.}{}{5}{}{0}{}
 {162}{Não... Não acredito que algum dia você vá deixar esta ilha. Vivo, pelo menos.}{Não... Não acredito que algum dia você vá deixar esta ilha. Vivo, pelo menos.}{}{}{}{}
-{163}{Por que diz isso?}{}{5}{}{172}{}
+{163}{Por que você diz isso?}{}{5}{}{172}{}
 {172}{Achou mesmo que poderia desembarcar um barco nesta ilha sem que ninguém soubesse? Tenho certeza de que ele já foi capturado, e seu capitão jogado aos tubarões...}{Achou mesmo que poderia desembarcar um barco nesta ilha sem que ninguém soubesse? Tenho certeza de que ele já foi capturado, e seu capitão jogado aos tubarões...}{}{}{}{gf1043 1}
 {173}{Então venha comigo. Com você ao meu lado, eles nos deixarão passar.}{}{5}{}{182}{}
 {174}{Esse é o meu problema. Mas ainda preciso dos seus óculos.}{}{5}{}{195}{}
 {182}{Parece tentador, mas é arriscado demais. Estou numa boa posição aqui e não quero colocá-la em risco. Se os homens descobrissem que me juntei a você e que planejava deixá-los aqui apodrecendo, significaria nossas cabeças.}{Parece tentador, mas é arriscado demais. Estou numa boa posição aqui e não quero colocá-la em risco. Se os homens descobrissem que me juntei a você e que planejava deixá-los aqui apodrecendo, significaria nossas cabeças.}{}{}{}{}
 {183}{Então me dê os óculos. Você não tem nada a perder.}{}{8}{}{195}{lf5 1}
-{184}{Você é um Anão ou um Gnomo? Quer sair desta rocha ou não?}{}{5}{ps 9, ra -5}{701}{jo 1 693}
+{184}{Você é um anão ou um gnomo? Quer sair desta rocha ou não?}{}{5}{ps 9, ra -5}{701}{jo 1 693}
 {185}{Faça como quiser. Eu vou sair desta rocha, de um jeito ou de outro.}{}{8}{}{186}{}
-{186}{Bem?... Se por acaso você conseguir sair desta "rocha", poderia me fazer um favor?}{Bem?... Se por acaso você conseguir sair desta "rocha", poderia me fazer um favor?}{}{}{}{}
+{186}{Bem?... Se por acaso você sair desta rocha, poderia me fazer um favor?}{Bem?... Se por acaso você sair desta rocha, poderia me fazer um favor?}{}{}{}{}
 {187}{Y:}{}{5}{}{190}{lf8 1}
 {188}{Talvez, o que é?}{}{5}{}{190}{}
 {189}{Esquece.}{}{5}{}{0}{re -10}
@@ -112,7 +112,7 @@
 {215}{Muito bem... digamos que você consiga sair da ilha. E depois?}{Muito bem... digamos que você consiga sair da ilha. E depois?}{}{}{}{}
 {216}{Vou contar à sua clã sobre sua situação, e eles virão em seu auxílio.}{}{5}{ps 5}{225}{}
 {217}{Vou contar à sua clã sobre sua situação, e eles virão em seu auxílio.}{}{5}{ps -4}{218}{}
-{218}{Não. Você não pode me convencer. Há muito em risco. O cristal de Kathorn é comum. Você pode criar seus próprios óculos.}{Não. Você não pode me convencer. Há muito em risco. O cristal de Kathorn é comum. Você pode criar seus próprios óculos.}{}{}{}{}
+{218}{Não. Você não pode me convencer. Há muito em risco. Cristal de Kathorn é comum. Você pode criar seus próprios óculos.}{Não. Você não pode me convencer. Há muito em risco. Cristal de Kathorn é comum. Você pode criar seus próprios óculos.}{}{}{}{}
 {219}{Tudo bem. Ainda assim, avisarei sua clã sobre você.}{}{5}{}{222}{al +50,qu1042 2}
 {220}{Bem, então posso fazer outra pergunta?}{}{5}{}{526}{}
 {221}{E:}{}{5}{}{0}{}
@@ -129,10 +129,10 @@
 {237}{E:}{}{5}{}{0}{}
 {245}{Eu estava defendendo a honra da minha clã. Os gnomos inchados e cabeçudos e suas leis me mandaram para esta rocha.}{Eu estava defendendo a honra da minha clã. Os gnomos inchados e cabeçudos e suas leis me mandaram para esta rocha.}{}{}{}{}
 {246}{Tenho certeza de que eles tinham seus motivos. O que você fez?}{}{5}{lf3 0}{256}{re -2}
-{247}{Continue...}{}{5}{lf3 1}{256}{re +2}
+{247}{Prossiga...}{}{5}{lf3 1}{256}{re +2}
 {248}{Você e sua clã não foram banidos por compartilhar sua tecnologia?}{}{5}{lf0 0, gf1040 0,lf7 0,lf2 0}{287}{}
 {249}{Talvez a honra da sua clã não valesse a pena ser defendida.}{}{5}{}{511}{re -5}
-{256}{Eu estava em uma taverna cuidando da minha vida quando ouvi um mercador gnomo falando mal, dizendo que o Clã da Roda não passava de um bando de cavadores de valas baratos e inúteis.}{Eu estava em um bar cuidando da minha vida quando ouvi um mercador gnomo falando mal do Clã da Roda, dizendo que não passavam de um bando de cavadores de valas baratos e inúteis.}{}{}{}{}
+{256}{Eu estava em um bar cuidando da minha vida quando ouvi um mercador gnomo falando mal do Clã da Roda, dizendo que não passavam de um bando de cavadores de valas baratos e inúteis.}{Eu estava em um bar cuidando da minha vida quando ouvi um mercador gnomo falando mal do Clã da Roda, dizendo que não passavam de um bando de cavadores de valas baratos e inúteis.}{}{}{}{}
 {257}{Prossiga...}{}{5}{}{266}{}
 {258}{Isso é fascinante, mas onde está o resto do seu clã?}{}{5}{lf0 0, gf1040 0,lf7 0,lf2 0}{287}{lf3 1,re -5}
 {266}{Eu o enfrentei e disse para ele se desculpar. Ele não quis. Em vez disso, deixou a bebida falar por ele, então eu deixei meu punho falar por mim.}{Eu o enfrentei e disse para ele se desculpar. Ele não quis. Em vez disso, deixou a bebida falar por ele, então eu deixei meu punho falar por mim.}{}{}{}{}
@@ -141,7 +141,7 @@
 {269}{Sim, sim, isso é fascinante. Onde está o resto do seu clã?}{}{5}{lf0 0, gf1040 0,lf7 0,lf2 0}{287}{lf3 1,re -5}
 {277}{Bastou um soco bem dado e ele se foi. Foi-se. Desgraçados de pescoço fraco. No dia seguinte, fui despachado para esta rocha.}{Bastou um soco bem dado e ele se foi. Foi-se. Desgraçados de pescoço fraco. No dia seguinte, fui despachado para esta rocha.}{}{}{}{}
 {278}{Para onde foi o resto do seu clã quando foram banidos?}{}{5}{lf0 0, gf1040 0,lf7 0,lf2 0}{287}{lf3 1}
-{279}{Você sabe onde posso encontrar o Clã da Montanha Negra?}{}{5}{lf0 1,gf1040 0,lf7 0,lf2 0,lf3 0,lf10 0}{555}{lf3 1}
+{279}{Você sabe onde posso encontrar o Clã Montanha Negra?}{}{5}{lf0 1,gf1040 0,lf7 0,lf2 0,lf3 0,lf10 0}{555}{lf3 1}
 {280}{Posso fazer mais algumas perguntas?}{}{5}{re -40}{317}{lf3 1}
 {281}{Posso fazer mais algumas perguntas?}{}{5}{re 41}{526}{lf3 1}
 {286}{E:}{}{5}{}{0}{lf3 1}
@@ -152,13 +152,13 @@
 {299}{Essas foram as regras que me foram apresentadas. Acredite, eu não queria.}{}{5}{}{-17}{}
 {307}{[Suspiro] Eu entendo. Em que posso ajudá-lo?}{[Suspiro] Eu entendo. Em que posso ajudá-lo?}{}{}{}{re +20}
 {308}{Você é o único anão nesta ilha?}{}{5}{}{48}{}
-{309}{Seu sentimento me lembra uma velha.}{}{5}{}{0}{co,fl 522}
+{309}{Seu sentimento me lembra uma velha senhora.}{}{5}{}{0}{co,fl 522}
 {317}{O que você quer? E seja rápido.}{O que você quer? E seja rápido.}{}{}{}{}
 {318}{Você é o único anão nesta ilha?}{}{5}{lf0 0, gf1040 0,lf7 0,lf2 0,lf3 0}{336}{}
 {319}{Estou procurando pelos anões do Clã da Montanha Negra.}{}{5}{lf0 0, gf1040 0,lf7 0,lf2 0,lf3 0}{330}{}
 {320}{Há algo que eu precise para entrar no Clã da Roda?}{}{5}{gf1035 0,gf1040 1}{325}{}
 {321}{Gostaria de lhe fazer algumas perguntas.}{}{5}{lf0 1, gf1040 0,lf7 1,lf2 1,lf3 1}{526}{}
-{322}{Como você acabou chegando aqui?}{}{5}{lf0 1, gf1040 1,lf7 1,lf2 1,lf3 1}{0}{fl 523}
+{322}{Como você acabou aqui?}{}{5}{lf0 1, gf1040 1,lf7 1,lf2 1,lf3 1}{0}{fl 523}
 {323}{Posso quebrar seu pescoço bem rápido.}{}{5}{}{0}{co, fl 523}
 {324}{Deixa pra lá.}{}{5}{me 1}{0}{}
 {325}{Sim, um par de óculos com lentes de Cristal de Kathorn. E não, você não pode ficar com os meus. Nem peça, você já me incomodou o suficiente.}{Sim, um par de óculos com lentes de Cristal de Kathorn. E não, você não pode ficar com os meus. Nem peça.}{}{}{}{gf1035 1, gf2526 1, ru2027, gf2701 1}
@@ -173,14 +173,14 @@
 {334}{Obtive minhas informações de um eremita anão.}{}{5}{}{367}{}
 {335}{Ele estava um pouco senil, mas disse que se chamava Gudmund.}{}{5}{}{109}{re 45}
 {336}{Sou o único anão que já esteve nesta ilha, ponto final.}{Sou o único anão que já esteve nesta ilha, ponto final.}{}{}{}{ru2026}
-{337}{Mas onde está o resto do Clã Montanha Negra?}{}{5}{}{338}{}
+{337}{Mas onde está o resto do Clã da Montanha Negra?}{}{5}{}{338}{}
 {338}{Você é idiota? O que qualquer uma dessas coisas tem a ver com o Clã Montanha Negra? Eu não sou deles.}{Você é idiota? O que qualquer uma dessas coisas tem a ver com o Clã Montanha Negra? Eu não sou deles.}{}{}{}{lf0 1}
-{339}{Então onde está o Clã Montanha Negra?}{}{5}{}{347}{}
+{339}{Então, onde está o Clã da Montanha Negra?}{}{5}{}{347}{}
 {340}{Por favor, me perdoe, não tive a intenção de ofendê-lo.}{}{5}{ps 5}{68}{re 41}
 {341}{Por favor, me perdoe, não tive a intenção de ofendê-lo.}{}{5}{ps -4}{347}{}
-{347}{Qualquer tolo sabe que o Clã Montanha Negra reside na região mais ao norte das Montanhas Muralha de Pedra. Qualquer tolo, menos você, obviamente.}{Qualquer tolo sabe que o Clã Montanha Negra reside na região mais ao norte das Montanhas Muralha de Pedra. Qualquer tolo, menos você, obviamente.}{}{}{}{}
+{347}{Qualquer tolo sabe que o Clã da Montanha Negra reside na região mais ao norte das Montanhas Muralha de Pedra. Qualquer tolo, menos você, obviamente.}{Qualquer tolo sabe que o Clã da Montanha Negra reside na região mais ao norte das Montanhas Muralha de Pedra. Qualquer tolo, menos você, obviamente.}{}{}{}{}
 {348}{Eu estive lá, está deserto.}{}{5}{}{357}{}
-{349}{Cuidado com a língua! Ou vou arrancá-la!}{}{5}{}{0}{co.fl 522}
+{349}{Cuidado com a língua! Ou eu a corto fora!}{}{5}{}{0}{co,fl 522}
 {357}{Isso é estranho. Mas por que você acredita que eles estão aqui?}{Isso é estranho. Mas por que você acredita que eles estão aqui?}{}{}{}{}
 {358}{Um eremita anão me contou que o clã foi banido para cá.}{}{5}{}{367}{}
 {367}{O que exatamente ele te disse?}{O que exatamente ele te disse?}{}{}{}{}
@@ -196,7 +196,7 @@
 {410}{Não estou interessado. Tenha um bom dia.}{}{5}{}{0}{}
 {411}{1500 moedas e sua palavra de que informará ao meu clã que estou aqui compram a informação que você precisa.}{1500 moedas e sua palavra de que informará ao meu clã que estou aqui compram a informação que você precisa.}{}{}{}{lf20 1}
 {412}{Que assim seja.}{}{5}{$$1500}{467}{$$-1500,lf7 1}
-{413}{Tudo bem, mas vou ter que trazer para você depois.}{}{5}{$$-1499}{0}{lf2 1,lf7 1,fl 525}
+{413}{Tudo bem, mas vou ter que trazer para você mais tarde.}{}{5}{$$-1499}{0}{lf2 1,lf7 1,fl 525}
 {414}{1500? Isso é um pouco caro, se quer saber minha opinião.}{}{5}{}{416}{}
 {415}{Esquece.}{}{5}{}{0}{lf7 1}
 {416}{Caro demais para o seu bolso, talvez. O que você tem?}{Caro demais para o seu bolso, talvez. O que você tem?}{}{}{}{lf7 1}
@@ -209,7 +209,7 @@
 {423}{Tenho esta garrafa de <<<PH1>>>... [Dê a ele.]}{}{5}{in 3602,ps 9,lf24 1}{463}{in -3602}
 {424}{O que mais você aceitaria?}{}{5}{ps 9,lf24 0,lf11 0}{458}{lf24 1,lf20 0}
 {425}{Esquece.}{}{5}{}{0}{}
-{426}{Hmm. Se jurar contar ao Clã da Roda sobre o meu destino, aceitarei sua oferta.}{Hmm. Se jurar contar ao Clã da Roda sobre meu destino, aceitarei sua oferta.}{}{}{}{lf2 1}
+{426}{Hmm. Se jurar contar ao Clã da Roda sobre meu destino, aceitarei sua oferta.}{Hmm. Se jurar contar ao Clã da Roda sobre meu destino, aceitarei sua oferta.}{}{}{}{lf2 1}
 {427}{Dou minha palavra. [Verdade]}{}{5}{$$1000}{26}{$$-1000,qu1042 2}
 {428}{Dou minha palavra. [Mentira]}{}{5}{$$1000}{26}{al -100,$$-1000}
 {429}{Dou minha palavra. [Verdade]}{}{5}{$$-999}{452}{qu1042 2}
@@ -233,12 +233,12 @@
 {447}{1500, então, e contarei ao clã sobre sua situação. [Mentira]}{}{5}{$$1500}{467}{al -100}
 {448}{1500, então, e contarei ao clã sobre sua situação. [Verdade]}{}{5}{$$-1499}{452}{}
 {449}{1500, então, e contarei ao clã sobre sua situação. [Mentira]}{}{5}{$$-1499}{452}{}
-{450}{Vou pensar nisso e volto...}{}{5}{}{0}{}
+{450}{Vou pensar nisso e voltar...}{}{5}{}{0}{}
 {451}{Deixe pra lá!}{}{5}{}{0}{re -5}
 {452}{Você não tem o dinheiro, amigo. Sem dinheiro, sem informação.}{Tá bom... Você não tem o dinheiro, amigo. Sem dinheiro, sem informação.}{}{}{}{lf2 1}
 {453}{Posso lhe fazer algumas outras perguntas?}{}{5}{}{526}{}
 {454}{Tem mais alguma coisa que você aceitaria no lugar?}{}{5}{ps9}{458}{}
-{456}{Tudo bem, voltarei quando tiver o dinheiro.}{}{5}{}{0}{}
+{456}{Certo, voltarei quando tiver o dinheiro.}{}{5}{}{0}{}
 {457}{E:}{}{5}{}{0}{}
 {458}{Hmmm. Tem um sujeito na cidade chamado Norian que destila sua própria cachaça de batata. Se você me trouxer uma garrafa daquilo, posso pensar no assunto...}{Hmmm. Tem um sujeito na cidade chamado Norian que destila sua própria cachaça de batata. Se você me trouxer uma garrafa daquilo, posso pensar no assunto...}{}{}{}{lf20 1, ru2196,lf11 1,lf24 1}
 {459}{Na verdade, tenho uma garrafa bem aqui. [Entregue-a a ele.]}{}{5}{in 3602}{463}{in 3602}
@@ -248,20 +248,20 @@
 {463}{Então, você realmente convenceu o velho Norian a se desfazer de uma garrafa? Até eu tenho dificuldade de conseguir essa porcaria. [Ele toma um grande gole, fazendo careta.] Uggghh. Nunca se acostuma com essa coisa...}{Então, você realmente convenceu o velho Norian a se desfazer de uma garrafa? Até eu tenho dificuldade de conseguir essa porcaria. [Ele toma um grande gole, fazendo careta.] Uggghh. Nunca se acostuma com essa coisa...}{}{}{}{}
 {464}{Entendo. Agora, você ia me falar sobre o Clã da Roda...}{}{5}{ch -14}{26}{}
 {465}{Entendo. Agora, você ia me falar sobre o Clã da Roda...}{}{5}{ch 15}{133}{}
-{467}{O clã da Roda fica aqui. [Ele marca seu mapa] Você também vai precisar de um par de óculos com lentes feitas de cristal de Kathorn para conseguir ver a entrada.}{O clã da Roda fica aqui. [Ele marca seu mapa] Você também vai precisar de um par de óculos com lentes feitas de cristal puro para conseguir ver a entrada.}{}{}{}{gf1040 1, mm 9, ru2027, gf2526 1, ss7,gf1035 1, qu1015 4, gf2701 1}
+{467}{O Clã da Roda está localizado aqui. [Ele marca seu mapa] Você também precisará de um par de óculos com lentes feitas de Cristal de Kathorn para conseguir ver a entrada.}{O Clã da Roda está localizado aqui. [Ele marca seu mapa] Você também precisará de um par de óculos com lentes feitas de Cristal de Kathorn para conseguir ver a entrada.}{}{}{}{gf1040 1, mm 9, ru2027, gf2526 1, ss7,gf1035 1, qu1015 4, gf2701 1}
 {468}{Onde posso encontrar óculos como esses?}{}{5}{}{471}{}
 {469}{E:}{}{5}{}{0}{}
 {471}{Esse é seu problema. Além do mais, você nem vai sair desta ilha. Vivo, pelo menos.}{Esse é seu problema. Além do mais, você nem vai sair desta ilha. Vivo, pelo menos.}{}{}{}{}
 {472}{Por que você diz isso?}{}{5}{}{481}{}
 {473}{E:}{}{5}{}{0}{}
-{474}{Esquece! O acordo está cancelado! 1500, quer ou não quer!}{Esquece! O acordo está cancelado! 1500, quer ou não quer!}{}{}{}{}
+{474}{Esquece! O acordo está cancelado! 1500, ou aceita ou deixa pra lá!}{Esquece! O acordo está cancelado! 1500, ou aceita ou deixa pra lá!}{}{}{}{}
 {481}{Você acha mesmo que consegue desembarcar um barco nesta ilha sem ninguém saber? Tenho certeza de que já foi capturado, e seu capitão foi jogado aos tubarões...}{Você acha mesmo que consegue desembarcar um barco nesta ilha sem ninguém saber? Tenho certeza de que já foi capturado, e seu capitão foi jogado aos tubarões...}{}{}{}{gf1043 1}
 {482}{Bem, nesse caso, eu mesmo teria que recuperá-lo, não é?}{}{5}{}{0}{fl 492}
 {483}{Se for o caso, não seria do seu interesse me ajudar?}{}{5}{}{501}{}
 {484}{E:}{}{5}{}{0}{}
 {491}{Boa sorte.}{Boa sorte.}{}{}{}{}
 {492}{É?... Boa sorte, você vai precisar.}{É?... Boa sorte, você vai precisar.}{}{}{}{}
-{501}{Duvido. Só continuo sendo o líder por aqui enquanto mantenho o respeito dos homens. Se achassem que estou trabalhando contra eles, seria descartado tão rápido quanto qualquer outro.}{Duvido disso, amigo. Só continuo sendo o líder por aqui enquanto mantenho o respeito dos homens. Se achassem que estou trabalhando contra eles, seria descartado tão rápido quanto qualquer outro.}{}{}{}{}
+{501}{Duvido muito. Só continuo líder aqui enquanto mantiver o respeito dos homens. Se achassem que estou trabalhando contra eles, seria descartado tão rápido quanto qualquer outro.}{Duvido muito, amigo. Só continuo líder aqui enquanto mantiver o respeito dos homens. Se achassem que estou trabalhando contra eles, seria descartado tão rápido quanto qualquer outro.}{}{}{}{}
 {502}{Tenho certeza de que não é nada que eu não consiga resolver. Tenha um bom dia.}{}{5}{}{0}{fl 492}
 {511}{Talvez não valha a pena perder meu tempo falando com você.}{Talvez não valha a pena perder meu tempo falando com você.}{}{}{}{}
 {512}{Por favor, não fique zangado. Foi tudo de brincadeira.}{}{5}{ps 9}{256}{}
@@ -292,7 +292,7 @@
 {545}{500 moedas e sua palavra de que informará meu clã sobre minha situação.}{500 moedas e sua palavra de que informará meu clã sobre minha situação.}{}{}{}{}
 {546}{Muito bem, aqui está sua moeda. Agora a informação.}{}{5}{$$500,lf22 1}{26}{}
 {547}{Vou ter que voltar quando tiver a moeda.}{}{5}{$$-499,lf22 1}{0}{fl 525}
-{548}{Por favor, vou contar ao seu clã que você está aqui. Pode colocar um preço nisso?}{}{5}{ha 13}{26}{lf22 0,lf23 1}
+{548}{Por favor, eu direi ao seu clã que você está aqui. Dá para colocar um preço nisso?}{}{5}{ha 13}{26}{lf22 0,lf23 1}
 {551}{Não tenho nada a dizer para você.}{Não tenho nada a dizer para você.}{}{}{}{}
 {552}{S:}{}{5}{ps 5}{526}{re 40}
 {553}{S:}{}{5}{ps -4}{0}{fl 523}
@@ -305,21 +305,21 @@
 {560}{S:}{}{5}{ps -4}{0}{fl 523}
 {561}{I:}{}{5}{}{0}{co, fl 522}
 {562}{E:}{}{5}{}{0}{}
-{563}{O que você quer dizer com 'pequeno como eu'? Anões?}{O que você quer dizer com 'pequeno como eu'. Anões?}{}{}{}{}
+{563}{O que você quer dizer com 'pequeno como eu'? Anões?}{O que você quer dizer com 'pequeno como eu'? Anões?}{}{}{}{}
 {564}{Ah, sim! Sim! Onde eles estão?}{}{-4}{}{573}{}
 {573}{Sou o único anão aqui, amigo.}{Sou o único anão aqui, amigo.}{}{}{}{ru2026}
 {574}{Nãooo... Clã da Montanha aqui. Eu sei.}{}{-4}{}{583}{}
 {583}{O Clã da Montanha Negra? Você está terrivelmente perdido. Eles estão nas regiões mais ao norte das montanhas Muralha de Pedra.}{O Clã da Montanha Negra? Você está terrivelmente perdido. Eles estão nas regiões mais ao norte das montanhas Muralha de Pedra.}{}{}{}{}
 {584}{Tem um povo pequeno lá. Procuro mais.}{}{-4}{}{593}{}
-{593}{Olha só. Você vai até o meu clã, o Clã da Roda, e diz a eles que Thorvald Duas Pedras está preso na Ilha do Desespero, e eles vão te ajudar a encontrar o Clã da Montanha Negra.}{Olha só. Você vai até o meu clã, o Clã da Roda, e diz a eles que Thorvald Duas Pedras está preso na Ilha do Desespero, e eles vão te ajudar a encontrar o Clã da Montanha Negra.}{}{}{}{}
+{593}{Olha, você vai até o meu clã, o Clã da Roda, e diz a eles que Thorvald Duas Pedras está preso na Ilha do Desespero, e eles o ajudarão a encontrar o Clã da Montanha Negra.}{Olha, você vai até o meu clã, o Clã da Roda, e diz a eles que Thorvald Duas Pedras está preso na Ilha do Desespero, e eles o ajudarão a encontrar o Clã da Montanha Negra.}{}{}{}{}
 {594}{Tá booom. Eu faço isso.}{}{-4}{}{603}{qu1042 2}
 {603}{O que você vai dizer a eles?}{O que você vai dizer a eles?}{}{}{}{}
 {604}{Duas pedras carecas de Thor estão presas no desespero.}{}{-4}{}{622}{}
 {622}{O quê??? Ah, bom, faça o seu melhor.}{O quê??? Ah, bom, faça o seu melhor.}{}{}{}{}
-{623}{Tá bom, vou agora.}{}{-4}{}{632}{}
+{623}{Tá bom, eu vou agora.}{}{-4}{}{632}{}
 {632}{Não, espere! Você precisa saber onde fica.}{Não, espere! Você precisa saber onde fica.}{}{}{}{}
 {633}{Ah! Ah, é mesmo!}{}{-4}{}{642}{}
-{642}{Aqui, vou marcar no seu mapa. Além disso, você vai precisar arranjar um par de óculos como estes. [Mostra um par de óculos rústicos com lentes de Cristal de Kathorn] Sem eles, você não conseguirá ver a entrada das minas do Clã da Roda.}{Aqui, vou marcar seu mapa. Além disso, você vai precisar arranjar um par de óculos como estes. [Mostra um par de óculos rústicos com lentes de Cristal de Kathorn] Sem eles, você não conseguirá ver a entrada das minas do Clã da Roda.}{}{}{}{gf2526 1, gf1035 1,mm 9, ru2027, ss7, gf1040 1, qu1015 4, gf2701 1, qu1017 2}
+{642}{Aqui, vou marcar seu mapa. Além disso, você vai precisar arranjar um par de óculos como estes. [Mostra um par de óculos rústicos com lentes de Cristal de Kathorn] Sem eles, você não conseguirá ver a entrada das minas do Clã da Roda.}{Aqui, vou marcar seu mapa. Além disso, você vai precisar arranjar um par de óculos como estes. [Mostra um par de óculos rústicos com lentes de Cristal de Kathorn] Sem eles, você não conseguirá ver a entrada das minas do Clã da Roda.}{}{}{}{gf2526 1, gf1035 1,mm 9, ru2027, ss7, gf1040 1, qu1015 4, gf2701 1, qu1017 2}
 {643}{Eu quero suas coisas de olho.}{}{-4}{ps 4}{673}{}
 {652}{Eu quero suas coisas de olho.}{}{-4}{ps -3}{662}{}
 {662}{Desculpe, estes são meus, você vai ter que encontrar os seus.}{Desculpe, estes são meus, você vai ter que encontrar os seus.}{}{}{}{}
@@ -336,16 +336,16 @@
 {681}{Aqui, pegue. Não quero confusão.}{Aqui, pegue. Não quero confusão.}{}{}{}{}
 {682}{Ooooo coiisaaa de ooolho...}{}{-4}{}{0}{}
 {683}{Olá, meu amigo simples.}{Olá, meu amigo simples.}{}{}{}{}
-{684}{Oi.}{}{-4}{re 21}{686}{}
-{685}{Oi.}{}{-4}{re -20}{689}{}
+{684}{Olá.}{}{-4}{re 21}{686}{}
+{685}{Olá.}{}{-4}{re -20}{689}{}
 {686}{Olá.}{Olá.}{}{}{}{}
-{687}{Oi.}{}{-4}{}{696}{re -2}
+{687}{Olá.}{}{-4}{}{696}{re -2}
 {688}{Deixa pra lá.}{}{-4}{}{0}{fl 700}
 {689}{Estou ficando cansado disso.}{Estou ficando cansado disso.}{}{}{}{}
-{690}{Oi.}{}{-4}{re 5}{0}{re -5}
-{691}{Oi.}{}{-4}{re -4}{0}{co, fl 699}
+{690}{Olá.}{}{-4}{re 5}{0}{re -5}
+{691}{Olá.}{}{-4}{re -4}{0}{co, fl 699}
 {692}{Tá bom, eu vou agora.}{}{-4}{}{0}{fl 700}
-{693}{Certo, vamos lá. Já estou aqui há tempo demais.}{Certo, vamos lá. Já estou aqui há tempo demais.}{}{}{}{}
+{693}{Tá bom, vamos logo. Já estou aqui há tempo demais.}{Tá bom, vamos logo. Já estou aqui há tempo demais.}{}{}{}{}
 {694}{Vamos lá.}{}{5}{}{0}{}
 {695}{Você não é bem o tipo de pessoa com quem eu me vejo viajando.}{Isso vai ser o dia em que uma mulher vai me comandar.}{}{}{}{}
 {696}{Pois não?}{Pois não?}{}{}{}{}
@@ -353,13 +353,13 @@
 {698}{Deixa pra lá.}{}{-4}{}{0}{fl 700}
 {699}{Chega, já aguentei o suficiente disso.}{Chega, já aguentei o suficiente disso.}{}{}{}{}
 {700}{Adeus.}{Adeus.}{}{}{}{}
-{701}{... e eu lhe asseguro que sou Anão, e são comentários como esses que me garantem que estou tomando a decisão certa ao dizer Não, Eu Não Vou Me Juntar a Você. Então não pergunte de novo.}{... e eu lhe asseguro que sou Anão, e são comentários como esses que me garantem que estou tomando a decisão certa ao dizer Não, Eu Não Vou Me Juntar a Você. Então não pergunte de novo, mulher!}{}{}{}{re -15}
+{701}{...e lhe garanto que sou um anão, e são comentários como esses que me asseguram de que estou tomando a decisão certa ao dizer "Não, não me juntarei a vocês." Então não pergunte de novo.}{...e lhe garanto que sou um anão, e são comentários como esses que me asseguram de que estou tomando a decisão certa ao dizer "Não, não me juntarei a vocês." Então não pergunte de novo, mulher!}{}{}{}{re -15}
 {702}{Posso ficar com os óculos, então?}{}{10}{lf5 0}{732}{}
 {703}{Então você pode morrer em agonia excruciante.}{}{5}{}{0}{co,fl 522}
 {704}{Lamento que se sinta assim. Posso lhe fazer algumas perguntas?}{}{5}{re 41}{526}{}
 {705}{Lamento que se sinta assim. Posso lhe fazer algumas perguntas?}{}{5}{re -40}{317}{}
 {711}{E:}{}{5}{}{0}{}
-{712}{O quê? Isso é ridículo. Onde você ouviu uma coisa dessas?}{O quê? Isso é ridículo. Onde você ouviu uma coisa dessas?}{}{}{}{}
+{712}{O quê? Isso é ridículo. Onde ouviu uma coisa dessas?}{O quê? Isso é ridículo. Onde ouviu uma coisa dessas?}{}{}{}{}
 {713}{Um anão que conheci na cidade.}{}{5}{}{714}{}
 {714}{Anão típico da cidade.}{Anão típico da cidade.}{}{}{}{}
 {721}{Posso lhe fazer outra pergunta?}{}{5}{re 41}{526}{}
@@ -375,11 +375,11 @@
 {750}{Onde estão os Anões do Clã da Montanha Negra?}{}{5}{gf1035 0}{755}{}
 {751}{Onde fica o seu clã? O Clã da Roda.}{}{5}{lf0 1}{799}{}
 {755}{Partiram...}{Partiram...}{}{}{}{}
-{756}{Partiram para onde? Em algum lugar na ilha?}{}{5}{}{760}{}
+{756}{Foi para onde? Em algum lugar da ilha?}{}{5}{}{760}{}
 {757}{Onde fica o seu clã? O Clã da Roda.}{}{5}{lf0 1}{799}{}
 {760}{Nunca na ilha...}{Nunca na ilha...}{}{}{}{ru2026}
 {761}{Então onde eles estão?}{}{5}{}{773}{}
-{773}{Longe... em nome de Alberich, por favor, deixe-me descansar...}{Longe... em nome de Alberich, por favor, deixe-me descansar...}{}{}{}{}
+{773}{Para longe... em nome de Alberich, por favor, deixe-me descansar...}{Para longe... em nome de Alberich, por favor, deixe-me descansar...}{}{}{}{}
 {774}{Mas onde eles estão?}{}{5}{}{755}{}
 {779}{A qual clã você pertence?}{}{5}{lf0 0}{789}{}
 {780}{Onde fica o seu clã? O Clã da Roda.}{}{5}{lf0 1}{799}{}
@@ -399,7 +399,7 @@
 {823}{Novos olhos... de vidro...}{Novos olhos... de vidro...}{}{}{}{}
 {824}{Você quer dizer óculos?}{}{12}{}{826}{}
 {825}{Tenho outra pergunta.}{}{5}{}{830}{}
-{826}{Sim... Kathorn....}{Sim...}{}{}{}{gf1035 1, gf2526 1, ru2027, gf2701 1}
+{826}{Sim... Kathorn....}{Sim... Kathorn....}{}{}{}{gf1035 1, gf2526 1, ru2027, gf2701 1}
 {827}{Tenho outra pergunta.}{}{5}{}{830}{}
 {828}{E:}{}{5}{}{0}{}
 {830}{Não tenho respostas...}{Não tenho respostas...}{}{}{}{}
@@ -420,27 +420,28 @@
 {857}{O quê? Um anão não esconde seu nome em segredo! Ele tem orgulho dele e o dirá a todos! Quem lhe disse tamanha bobagem?}{O quê? Um anão não esconde seu nome em segredo! Ele tem orgulho dele e o dirá a todos! Quem lhe disse tamanha bobagem?}{}{}{}{}
 {858}{Hã... Magnus? Como você explica isso?}{}{5}{}{-24}{}
 {869}{Sim? O que você quer?}{Como posso ajudá-lo?}{}{}{}{}
-{870}{B:}{}{1}{}{}{}
-{871}{K:}{}{1}{}{878}{}
-{872}{Gostaria que você fizesse algo por mim, Thorvald...}{}{5}{}{886}{}
-{873}{Preciso que você faça algo, Thorvald.}{}{-4}{}{886}{}
-{874}{E:}{}{1}{}{0}{}
+{870}{B:}{}{1}{wa 0}{}{}
+{871}{K:}{}{1}{wa 0}{878}{}
+{872}{Gostaria que você fizesse algo por mim, Thorvald...}{}{5}{wa 0}{886}{}
+{873}{Preciso que você faça algo, Thorvald.}{}{-4}{wa 0}{886}{}
+{874}{Pode parar de esperar agora, Thorvald.}{}{5}{wa 1}{913}{uw 1 899}
+{875}{Pare de esperar, Thorvald!}{}{-4}{wa 1}{913}{uw 1 899}
+{876}{E:}{}{1}{}{0}{}
 {878}{O que você precisa saber?}{O que você precisa saber?}{}{}{}{}
 {879}{Gostaria de saber algumas coisas sobre você, Thorvald...}{}{5}{}{}{ce}
 {880}{O que devemos fazer agora?}{}{5}{}{923}{}
 {881}{Quero saber algumas coisas sobre você, Thorvald!}{}{-4}{}{}{ce}
 {882}{O que você acha que devemos fazer agora, Thorvald?}{}{-4}{}{923}{}
-{883}{[Voltar.]}{}{1}{}{869}{}
-{884}{E:}{}{1}{}{0}{}
+{883}{O que você sabe sobre este lugar?}{}{5}{ia-9}{927}{}
+{884}{O que você sabe sobre este lugar?}{}{5}{ia 9}{930}{}
+{885}{E:}{}{1}{}{0}{}
 {886}{Não sou de receber ordens, mas acho que posso abrir uma exceção...}{Não sou de receber ordens, mas acho que posso abrir uma exceção...}{}{}{}{}
 {887}{Saia da frente, Thorvald.}{}{5}{}{0}{so}
 {888}{Saia daí, Thorvald!}{}{-4}{}{0}{so}
 {889}{Chegue um pouco mais perto, Thorvald.}{}{5}{}{0}{sc}
 {890}{Venha aqui, Thorvald!}{}{-4}{}{0}{sc}
-{891}{Espere aqui por um tempo...}{}{5}{wa 0}{902}{wa}
-{892}{Hã... espere aqui um minutinho...}{}{-4}{wa 0}{902}{wa}
-{893}{Pode parar de esperar agora, Thorvald.}{}{5}{wa 1}{913}{uw 1 899}
-{894}{Pare de esperar, Thorvald!}{}{-4}{wa 1}{913}{uw 1 899}
+{891}{Espere aqui por um tempo...}{}{5}{}{902}{wa}
+{892}{Hã... espere aqui um minutinho...}{}{-4}{}{902}{wa}
 {895}{Acho melhor você deixar o grupo.}{}{5}{}{905}{lv}
 {896}{Eu não querer mais você no grupo...}{}{-4}{}{905}{lv}
 {897}{[Voltar]}{}{1}{}{869}{}
@@ -461,7 +462,7 @@
 {919}{Que diabos? O que te faz pensar que pode me fazer esperar tanto tempo? Já esmaguei cabeças por menos...}{Que diabos? O que te faz pensar que pode me fazer esperar tanto tempo? Já esmaguei cabeças por menos...}{}{}{}{}
 {920}{Gostaria de se juntar a mim de novo, Thorvald?}{}{5}{}{913}{jo 1 916}
 {921}{Junte-se a mim de novo!}{}{-4}{}{913}{jo 1 916}
-{923}{Agora, é melhor irmos logo para o Clã da Roda. Não vou esperar para sempre...}{Melhor irmos logo voltando para o Clã da Roda. Não vou esperar para sempre...}{}{}{}{}
+{923}{Melhor irmos logo voltando para o Clã da Roda. Não vou esperar para sempre...}{Melhor irmos logo voltando para o Clã da Roda. Não vou esperar para sempre...}{}{}{}{}
 {924}{K:}{}{1}{}{869}{}
 {925}{E:}{}{1}{}{0}{}
 {927}{O que eu sei, garoto, é que isto aqui não é o Clã da Roda. É melhor chegarmos lá bem rápido...}{O que eu sei, garota, é que isto aqui não é o Clã da Roda. É melhor chegarmos lá bem rápido...}{}{}{}{}

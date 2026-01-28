@@ -15,35 +15,35 @@
 {15}{Hã... qual é o seu nome, malvado?}{}{-4}{lf1 0, re -40}{28}{}
 {16}{Hã... Eu pergunto uma coisa?}{}{-4}{lf1 1, re 41}{36}{}
 {17}{Hã... eu pergunto uma coisa, malvado?}{}{-4}{lf1 1, re -40}{36}{}
-{18}{Aperfeiçoei minhas habilidades temporais, S'yala.}{}{5}{lf4 1, sc15 5}{78}{}
-{19}{Reforcei minha aura mágica, S'yala.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{20}{Tenho interesse em me tornar Mestre do temporal.}{}{5}{gf2411 0, ma30, lf1 1}{101}{}
+{18}{Aperfeiçoei minhas habilidades temporais, S'yala.}{}{5}{lf4 1, sc15 5, lf5 0}{78}{}
+{19}{Reforcei minha aura mágica, S'yala.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{20}{Tenho interesse em me tornar Mestre do temporal.}{}{5}{gf2411 0, ma30, lf1 1, sc15 5}{101}{}
 {21}{Ainda não completei o teste de mestria, S'yala.}{}{5}{LF7 1, gf2427 0}{115}{}
 {22}{Completei o teste de mestria do temporal!}{}{5}{gf2427 1, lf9 0}{119}{}
 {27}{E:}{}{1}{}{0}{}
 {28}{Eu sou S'yala, Mestra da Magia Temporal.}{Eu sou S'yala, Mestra da Magia Temporal.}{}{}{}{lf1 1}
 {29}{É uma honra conhecê-la, senhora.}{}{5}{sc15 1, sc15 -4, lf4 0}{73}{}
 {30}{É uma honra conhecê-la, senhora.}{}{5}{sc15 5, lf5 0}{78}{}
-{31}{Qual sua opinião sobre tecnologia, madame?}{}{5}{sc15 0, lf3 0}{65}{}
+{31}{O que a senhora acha da tecnologia?}{}{5}{sc15 0, lf3 0}{65}{}
 {32}{Por favor, explique-me o temporal.}{}{5}{sc15 0, lf2 0}{57}{}
-{33}{Wha' tim porul?}{}{-4}{sc15 0, lf2 0}{57}{}
-{34}{Wha' you t'ink o teknawlugy?}{}{-4}{sc15 0, lf3 0}{65}{}
+{33}{O que é 'tim porul'?}{}{-4}{sc15 0, lf2 0}{57}{}
+{34}{O que você acha da tecnomagia?}{}{-4}{sc15 0, lf3 0}{65}{}
 {35}{E:}{}{1}{sc15 0}{0}{}
 {36}{Do que precisa, @pcname@?}{Do que precisa, @pcname@?}{}{}{}{}
-{37}{Aperfeiçoei minhas habilidades temporais, S'yala.}{}{5}{lf4 1, sc15 5, ma 30}{78}{}
-{38}{Reforcei minha aura mágica, S'yala.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{39}{Tenho interesse em me tornar Mestre do temporal.}{}{5}{gf2411 0, ma30}{101}{}
-{40}{Qual sua opinião sobre tecnologia, madame?}{}{5}{lf3 0}{65}{}
+{37}{Aperfeiçoei minhas habilidades temporais, S'yala.}{}{5}{lf4 1, sc15 5, lf5 0}{78}{}
+{38}{Reforcei minha aura mágica, S'yala.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{39}{Tenho interesse em me tornar Mestre do temporal.}{}{5}{gf2411 0, ma30, sc15 5}{101}{}
+{40}{O que a senhora acha da tecnologia?}{}{5}{lf3 0}{65}{}
 {41}{Por favor, explique-me o temporal.}{}{5}{lf2 0}{57}{}
-{42}{Wha' tim porul?}{}{-4}{lf2 0}{57}{}
-{43}{Wha' you t'ink o teknawlugy?}{}{-4}{lf3 0}{65}{}
+{42}{O que é 'tim porul'?}{}{-4}{lf2 0}{57}{}
+{43}{O que você acha da tecnomagia?}{}{-4}{lf3 0}{65}{}
 {44}{F:}{}{1}{}{0}{}
 {45}{E:}{}{1}{}{0}{}
 {46}{Precisa de algo mais?}{Precisa de algo mais?}{}{}{}{}
-{47}{Aperfeiçoei minhas habilidades temporais, S'yala.}{}{5}{lf4 1, sc15 5, ma 30}{78}{}
-{48}{Reforcei minha aura mágica, S'yala.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{49}{Tenho interesse em me tornar Mestre do temporal.}{}{5}{gf2411 0, ma30}{101}{}
-{50}{Qual sua opinião sobre tecnologia, madame?}{}{5}{lf3 0}{65}{}
+{47}{Aperfeiçoei minhas habilidades temporais, S'yala.}{}{5}{lf4 1, sc15 5, lf5 0}{78}{}
+{48}{Reforcei minha aura mágica, S'yala.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{49}{Tenho interesse em me tornar Mestre do temporal.}{}{5}{gf2411 0, ma30, sc15 5}{101}{}
+{50}{O que a senhora acha da tecnologia?}{}{5}{lf3 0}{65}{}
 {51}{Por favor, explique-me o temporal.}{}{5}{lf2 0}{57}{}
 {52}{Não. Obrigado pelo seu tempo.}{}{5}{}{0}{}
 {53}{O que é 'tim porul'?}{}{-4}{lf2 0}{57}{}
@@ -82,7 +82,7 @@
 {86}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 1}{46}{}
 {87}{Extremamente difícil, senhora. Porém, minha resistência compensou.}{}{5}{gf2411 1}{46}{}
 {88}{E:}{}{1}{}{0}{}
-{89}{[pensativa] Você tem conhecimento dos cinco feitiços... No entanto, o poder que emana de seu ser não condiz com seu nível de realização. Receio que tenha passado tempo demais na presença da tecnologia. Posso ensinar-lhe mais, caso algum dia escolha aumentar sua aura mágica, @pcname@.}{[pensativa] Você tem conhecimento dos cinco feitiços... No entanto, o poder que emana de seu ser não condiz com seu nível de realização. Receio que tenha passado tempo demais na presença da tecnologia. Posso ensinar-lhe mais, caso algum dia escolha aumentar sua aura mágica, @pcname@.}{}{}{}{}
+{89}{[pensativa] Você tem conhecimento dos cinco feitiços... No entanto, o poder que emana de seu ser não condiz com seu nível de realização. Receio que tenha passado tempo demais na presença da tecnologia. Posso ensinar-lhe mais, caso algum dia escolha aumentar sua aura mágica, @pcname@.}{[pensativa] Você tem conhecimento dos cinco feitiços... No entanto, o poder que emana de seu ser não condiz com seu nível de realização. Receio que tenha passado tempo demais na presença da tecnologia. Posso ensinar-lhe mais, caso algum dia escolha aumentar sua aura mágica, @pcname@.}{}{}{}{lf8 1}
 {90}{O que a senhora acha da tecnologia?}{}{5}{lf3 0}{65}{}
 {91}{É meu desejo permanecer equilibrado entre as duas forças.}{}{5}{}{46}{re-2}
 {92}{Acredito que o futuro está na tecnologia, não na magia, senhora.}{}{5}{}{46}{re-5}

@@ -3,7 +3,7 @@
 {3}{T:10}{}{1}{}{36}{}
 {4}{Que tipo de mercadorias você tem aqui?}{}{5}{}{43}{}
 {5}{Hã... O que você tem aí?}{}{-4}{}{43}{}
-{6}{H:}{}{1}{}{43}{}
+{6}{H:}{}{1}{}{36}{}
 {7}{Você pode me treinar para me tornar um Curandeiro Especialista?}{}{5}{tr10 -1}{36}{et10 58}
 {8}{Mi qué sê Curandeiro Espers'...}{}{-4}{tr10 -1}{36}{et10 58}
 {9}{E:}{}{1}{}{0}{}
@@ -16,7 +16,7 @@
 {16}{Você pode me treinar para me tornar um Curandeiro Especialista?}{}{5}{tr10 -1}{36}{et10 58}
 {17}{Mi qué sê Curandeiro Espers'...}{}{-4}{tr10 -1}{36}{et10 58}
 {18}{E:}{}{1}{}{0}{}
-{19}{Encontramo-nos novamente, grandioso. Em que posso ajudá-lo?}{Encontramo-nos novamente, grandiosa. Em que posso ajudá-la?}{}{}{}{}
+{19}{Encontramo-nos novamente, grandiosa. Em que posso ajudá-la?}{Encontramo-nos novamente, grandiosa. Em que posso ajudá-la?}{}{}{}{}
 {20}{B:}{}{1}{}{36}{}
 {21}{T:10}{}{1}{}{36}{}
 {22}{C:}{}{1}{}{36}{}
@@ -61,7 +61,7 @@
 {61}{Ah... sim.}{}{-4}{$$500}{64}{}
 {62}{Mi arrumá moeda primêro.}{}{-4}{$$-499}{36}{}
 {63}{F:}{}{1}{}{0}{}
-{64}{Obrigado. [ela pega as moedas de você e passa algum tempo instruindo-o nas técnicas de cura mais recentes] Seu treinamento está completo agora. Parabéns, você é um Curandeiro Especialista. ...Caso deseje se tornar um Mestre Curandeiro, precisará procurar Fawn. Ela mora em Qintarra.}{Obrigado. [ela pega a moeda de você e passa algum tempo instruindo-o nas técnicas de cura mais recentes] Seu treinamento está completo agora. Parabéns, você é um Curandeiro Especialista. ...Caso algum dia deseje se tornar um Curandeiro Mestre, precisará procurar por Fawn. Ela mora em Qintarra.}{}{}{}{$$-500, tr10 2, ru2170}
+{64}{Obrigado. [ela pega a moeda de você e passa algum tempo instruindo-o nas técnicas de cura mais recentes] Seu treinamento está completo agora. Parabéns, você é um Curandeiro Especialista. ...Caso algum dia deseje se tornar um Curandeiro Mestre, precisará procurar por Fawn. Ela mora em Qintarra.}{Obrigado. [ela pega a moeda de você e passa algum tempo instruindo-o nas técnicas de cura mais recentes] Seu treinamento está completo agora. Parabéns, você é um Curandeiro Especialista. ...Caso algum dia deseje se tornar um Curandeiro Mestre, precisará procurar por Fawn. Ela mora em Qintarra.}{}{}{}{$$-500, tr10 2, ru2170}
 {65}{Obrigado.}{}{5}{}{36}{}
 {66}{Hã... V-valeu.}{}{-4}{}{36}{}
 {67}{E:}{}{-4}{}{0}{}

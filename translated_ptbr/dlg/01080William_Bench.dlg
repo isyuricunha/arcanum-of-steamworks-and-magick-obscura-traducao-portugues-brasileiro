@@ -5,7 +5,8 @@
 {5}{Sr. Bench! Por que esse mau humor? Eu o ofendi?}{}{5}{me 1, re -29}{232}{}
 {6}{Oi! Eu burro! Quem você?}{}{-4}{me 0}{17}{}
 {7}{E:}{}{5}{}{0}{}
-{8}{Eu vou embora agora.}{}{-4}{}{0}{}
+{8}{Olá, Senhor Bench! Posso falar com você?}{}{-4}{me 1}{22}{}
+{9}{Eu vou embora agora.}{}{-4}{}{0}{}
 {12}{Eu sou William Bench, homem do campo e naturalista, e líder deste grupo que você vê aqui. E quem seria você?}{Eu sou William Bench, homem do campo e naturalista, e líder deste grupo que você vê aqui. E quem seria você?}{}{}{}{}
 {13}{Eu sou @PCNAME@. Um prazer. Posso falar com você...?}{}{5}{}{22}{}
 {17}{Eu sou William Bench, meu simples amigo! Homem do campo e naturalista, e líder deste grupo que você vê aqui. E quem seria você?}{Eu sou William Bench, meu simples amigo! Homem do campo e naturalista, e líder deste grupo que você vê aqui. E quem seria você?}{}{}{}{}
@@ -76,7 +77,7 @@
 {118}{Vou dizer que você sempre pode mentir para... quer dizer, CONFIAR no Sr. Bench.}{}{5}{}{}{fl 120}
 {120}{Certo! Vamos arrumar nossas coisas agora mesmo e ir embora. Ficarei no aguardo de ouvir notícias suas em breve...}{Certo! Vamos arrumar nossas coisas agora mesmo e ir embora. Ficarei no aguardo de ouvir notícias suas em breve...}{}{}{}{qu1019 4}
 {121}{[Ele pisca.] Certifique-se de dar minhas melhores lembranças ao Sr. Bates!}{[Ele pisca.] Certifique-se de dar minhas melhores lembranças ao Sr. Bates!}{}{}{}{}
-{139}{Não serve para exploração madeireira? Você está louco? Esta é uma das melhores florestas para exploração madeireira que já vi! Obviamente, você NÃO faz ideia do que está falando...}{Não serve para extração de madeira? Você está louco? Esta é uma das melhores florestas para extração que já vi! Obviamente, você não faz a menor ideia do que está falando...}{}{}{}{}
+{139}{Não serve para extração de madeira? Você está louco? Esta é uma das melhores florestas para extração que já vi! Obviamente, você não faz a menor ideia do que está falando...}{Não serve para extração de madeira? Você está louco? Esta é uma das melhores florestas para extração que já vi! Obviamente, você não faz a menor ideia do que está falando...}{}{}{}{}
 {140}{Isso não é importante. Você tem alguma ideia de quem eu represento?}{}{5}{}{67}{lc1 1}
 {141}{Esqueça. Este é solo sagrado élfico e você está saindo daqui...}{}{5}{}{175}{}
 {142}{E:}{}{5}{}{0}{gf1071 1}
@@ -121,7 +122,7 @@
 {199}{Bench! Fale comigo!}{}{5}{}{}{gf1071 1, fl 204}
 {200}{Não queria mencionar, mas você tem jeito de mulher...}{}{5}{}{209}{}
 {201}{Ei! Por favor! Preciso falar...!}{}{-4}{}{}{gf1071 1, fl 204}
-{202}{Você parece um macaco! Fede como um macaco também! Ha Ha!}{}{-4}{}{209}{}
+{202}{Você parece um macaco! Fede como um macaco também! Ha ha!}{}{-4}{}{209}{}
 {204}{Eu já disse. Não vou mais falar sobre isso. Por favor, vá embora...}{Eu já disse. Não vou mais falar sobre isso. Por favor, vá embora...}{}{}{}{}
 {209}{O quê? Está me insultando agora? Está testando minha paciência...}{O quê? Está me insultando agora? Está testando minha paciência...}{}{}{}{}
 {210}{Só queria chamar sua atenção! Agora escute!}{}{5}{}{}{gf1071 1, fl 204}
@@ -140,12 +141,12 @@
 {226}{Já vi garçonetes mais duronas! Vá em frente! Eu te desafio a me bater!}{}{5}{}{-12}{}
 {227}{HA HA! Vá em frente, seu idiota! Me bata! HAHAHAHAHAHA!!!}{}{-4}{}{-12}{}
 {229}{Chega! Você está pedindo por isso! Vamos pegá-lo, homens!}{Chega! Você está pedindo por isso! Vamos pegá-la, homens!}{}{}{}{}
-{232}{Recomendo que vá embora, amigo... sua simples presença já me deixou de mau humor...}{Recomendo que vá embora, amigo... sua simples presença já me deixou de mau humor...}{}{}{}{}
-{233}{Olha, não quero ofender. Vamos conversar sobre isso...}{}{5}{}{237}{re 10}
+{232}{Eu recomendo que você vá embora, amigo... sua simples presença já me deixou de mau humor...}{Eu recomendo que você vá embora, amigo... sua simples presença já me deixou de mau humor...}{}{}{}{}
+{233}{Olha, não quero ofender. Vamos conversar sobre isso...}{}{5}{}{237}{re +10}
 {234}{Tenho uma solução permanente para esse seu humor, amigo...}{}{5}{}{}{re -10, co, fl 248}
-{235}{Acho que você já decidiu sobre isso. Adeus.}{}{5}{}{0}{}
+{235}{Acho que você já tomou sua decisão quanto a isso. Adeus.}{}{5}{}{0}{}
 {237}{Hmmm. Normalmente não sou de guardar rancor, mas você está ME DEIXANDO MUITO IRRITADO. Talvez seja melhor você sumir...}{Hmmm. Normalmente não sou de guardar rancor, mas você está ME DEIXANDO MUITO IRRITADO. Talvez seja melhor você sumir...}{}{}{}{}
-{238}{Estou disposto a melhorar essa situação...}{}{5}{}{242}{re 10}
+{238}{Estou disposto a melhorar essa situação...}{}{5}{}{242}{re +10}
 {239}{Daqui a pouco você vai estar segurando suas próprias VÍSCERAS...}{}{5}{}{}{re -10, co, fl 248}
 {240}{Lamento que veja as coisas dessa forma. Vou me retirar.}{}{5}{}{0}{}
 {242}{Ah, tá bom. Você não deve ser tão ruim assim, se rastejando desse jeito. Como posso te ajudar?}{Você é bem determinado. Ah, tudo bem! Não consigo deixar de perdoar suas óbvias falhas de caráter...}{}{}{}{}
@@ -153,5 +154,5 @@
 {244}{Obrigado, Sr. Bench. Tenho uma pergunta...}{}{5}{me 1}{22}{}
 {245}{Rastejando? Talvez eu vá te estripar mesmo assim...}{}{5}{}{}{re -10, co, fl 248}
 {246}{E:}{}{5}{}{0}{}
-{248}{O quê! Não vou tolerar sua língua! Ataquem-no, homens!}{O quê! Não vou tolerar sua língua! Ataquem-na, homens!}{}{}{}{}
+{248}{O quê?! Não vou tolerar sua língua! Ataquem-no, homens!}{O quê?! Não vou tolerar sua língua! Ataquem-na, homens!}{}{}{}{}
 

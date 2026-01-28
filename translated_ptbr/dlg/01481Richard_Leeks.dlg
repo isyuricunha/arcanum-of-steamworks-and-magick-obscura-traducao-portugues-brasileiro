@@ -8,10 +8,11 @@
 {13}{Oi, Leeky! Tenho perguntas!}{}{-4}{me 1}{43}{}
 {14}{E:}{}{-4}{}{0}{}
 {17}{Sinto muito, mas estou começando a não gostar de você. Talvez seja melhor voltar para onde veio...}{Sinto muito, mas estou começando a não gostar de você. Talvez seja melhor voltar para onde veio...}{}{}{}{}
-{18}{Certamente homens de razão não precisam falar uns com os outros assim...}{}{5}{}{22}{re +10}
-{19}{Suas maneiras deixam muito a desejar. Assim como minha paciência...}{}{5}{}{29}{}
-{20}{E:}{}{5}{}{0}{}
-{22}{Sim... acho que talvez eu tenha me enganado sobre você. Talvez possamos conversar um pouco?}{Sim... acho que talvez eu tenha me enganado sobre você. Talvez possamos conversar um pouco?}{}{}{}{}
+{18}{Certamente homens de razão não precisam falar uns com os outros assim...}{1}{5}{}{22}{re +10}
+{19}{Por favor, meu bom senhor, não poderíamos conversar como iguais?}{0}{5}{}{22}{re +10}
+{20}{Suas maneiras deixam muito a desejar. Assim como minha paciência...}{}{5}{}{29}{}
+{21}{E:}{}{5}{}{0}{}
+{22}{Sim... acho que talvez eu tenha me enganado a seu respeito. Talvez possamos conversar por um tempo?}{Sim... acho que talvez eu tenha me enganado a seu respeito. Talvez possamos conversar por um tempo?}{}{}{}{}
 {23}{Eu gostaria disso. Posso perguntar quem é você, senhor?}{}{5}{me 0}{38}{}
 {24}{Seria bom. Tem um momento, Richard?}{}{5}{me 1}{43}{}
 {25}{E:}{}{5}{}{0}{}
@@ -20,7 +21,7 @@
 {31}{Suas maneiras são um testemunho de sua criação interiorana...}{}{5}{}{}{co, fl 34}
 {32}{E:}{}{5}{}{0}{}
 {34}{Sinto muito ter que fazer isso, garoto, mas é para o seu próprio bem...}{Sinto muito ter que fazer isso, garota, mas é para o seu próprio bem...}{}{}{}{}
-{38}{Olá. Sou Richard Leeks, ferreiro de Stillwater. Como posso ajudá-lo?}{Olá. Sou Richard Leeks, ferreiro de Stillwater. Como posso ajudá-la?}{}{}{}{}
+{38}{Olá. Sou Richard Leeks, ferreiro de Stillwater. Como posso ajudá-la?}{Olá. Sou Richard Leeks, ferreiro de Stillwater. Como posso ajudá-la?}{}{}{}{}
 {39}{Saudações, Richard. Posso lhe fazer algumas perguntas...?}{}{5}{}{43}{}
 {41}{Oi, Leeks! Perguntas!}{}{-4}{}{43}{}
 {42}{E:}{}{1}{}{0}{}
@@ -60,16 +61,16 @@
 {83}{Você mencionou algo sobre o Gigante de Stillwater...?}{}{5}{}{87}{}
 {84}{O que é o Culto de Geshtianna?}{}{5}{}{93}{}
 {85}{E:}{}{5}{}{0}{}
-{87}{O Gigante de Stillwater? Ah... é só uma lenda local, na verdade. As pessoas vêm avistando o monstro por todo o país há anos, mas acho que é tudo bobagem. Se estiver interessado em saber mais, tem um homem chamado Stanley Hippington aqui na cidade que pode lhe contar mais sobre isso...}{O Gigante de Stillwater? Ah... é só uma lenda local, na verdade. As pessoas vêm avistando o monstro por todo o país há anos, mas acho que é tudo bobagem. Se estiver interessado em saber mais, tem um homem chamado Stanley Hippington aqui na cidade que pode lhe contar mais sobre isso...}{}{}{}{}
+{87}{O Gigante de Stillwater? Ah... é apenas uma lenda local, na verdade. As pessoas vêm avistando o monstro por todo o país há anos, mas acho que tudo não passa de bobagem. Se estiver interessado em saber mais, há um homem chamado Stanley Hippington aqui na cidade que pode lhe contar mais sobre isso...}{O Gigante de Stillwater? Ah... é apenas uma lenda local, na verdade. As pessoas vêm avistando o monstro por todo o país há anos, mas acho que tudo não passa de bobagem. Se estiver interessado em saber mais, há um homem chamado Stanley Hippington aqui na cidade que pode lhe contar mais sobre isso...}{}{}{}{}
 {88}{Você disse que algumas das armas eram encantadas... você faz isso?}{}{5}{}{119}{}
 {89}{O que é o Culto de Geshtianna?}{}{5}{}{93}{}
 {90}{E:}{}{5}{}{0}{}
-{93}{O Culto? Ah, é uma das novas religiões que parecem surgir por toda parte. Eles adoram alguma deusa da fertilidade, fazem grandes festivais... geralmente se tornam um incômodo. Pagãos, se me perguntar. Mas, se tiver dúvidas sobre isso, talvez queira falar com Brigitte... ela é uma sumo-sacerdotisa do culto...}{O Culto? Ah, é uma das novas religiões que parecem surgir por toda parte. Eles adoram alguma deusa da fertilidade, fazem grandes festivais... geralmente se tornam um incômodo. Pagãos, se me perguntar. Mas, se tiver dúvidas sobre isso, talvez queira falar com Brigitte... ela é uma sumo-sacerdotisa do culto...}{}{}{}{}
+{93}{O Culto? Ah, é uma das novas religiões que parecem surgir por toda parte. Eles adoram uma deusa da fertilidade, fazem grandes festivais... geralmente se tornam um incômodo. Pagãos, se me perguntar. Mas, se tiver dúvidas sobre isso, talvez deva falar com Brigitte... ela é uma sumo-sacerdotisa do culto...}{O Culto? Ah, é uma das novas religiões que parecem surgir por toda parte. Eles adoram uma deusa da fertilidade, fazem grandes festivais... geralmente se tornam um incômodo. Pagãos, se me perguntar. Mas, se tiver dúvidas sobre isso, talvez deva falar com Brigitte... ela é uma sumo-sacerdotisa do culto...}{}{}{}{}
 {94}{Você mencionou algo sobre o Gigante de Stillwater...?}{}{5}{}{87}{}
 {95}{O que há de único nas armas feitas aqui?}{}{5}{}{78}{}
 {96}{E:}{}{5}{}{0}{}
-{98}{[Uma expressão severa toma conta de seu rosto.] Está questionando minha habilidade, filho? Eu recomendaria repensar essas palavras... sou tão habilidoso em manejar lâminas quanto em forjá-las...}{[Uma expressão severa toma conta de seu rosto.] Está questionando minha habilidade, filho? Eu recomendaria repensar essas palavras... sou tão habilidoso em manejar lâminas quanto em forjá-las...}{}{}{}{}
-{99}{Me perdoe. Você também enfeitiça as armas?}{}{5}{lf3 0, qb1096 4}{119}{re +5}
+{98}{[Uma expressão severa toma conta de seu rosto.] Está questionando minha habilidade, rapaz? Eu recomendaria repensar essas palavras... sou tão habilidoso em manejar lâminas quanto em forjá-las...}{[Uma expressão severa toma conta de seu rosto.] Está questionando minha habilidade, moça? Eu recomendaria repensar essas palavras... sou tão habilidoso em manejar lâminas quanto em forjá-las...}{}{}{}{}
+{99}{Perdoe-me. Você também enfeitiça as armas?}{}{5}{lf3 0, qb1096 4}{119}{re +5}
 {100}{Perdoe-me. Você também enfeitiça as armas?}{}{5}{lf3 1, qb1096 4}{113}{re +5}
 {101}{Por favor, aceite minhas desculpas. E quanto ao Gigante de Stillwater...?}{}{5}{}{87}{re +5}
 {102}{Desculpe-me, senhor. O que é o Culto de Geshtianna?}{}{5}{}{93}{re +5}
@@ -86,7 +87,7 @@
 {115}{Você mencionou algo sobre o Gigante de Stillwater...?}{}{5}{}{87}{}
 {116}{O que é o Culto de Geshtianna?}{}{5}{}{93}{}
 {117}{E:}{}{5}{}{0}{}
-{119}{Não... há um mago local por estas bandas que eu uso para enfeitiçar as armas... ele é um velho teimoso, mas nos damos bem. Atende pelo nome de Cyrus. Ele lança feitiços nas minhas armas, e eu dou uma olhada nele de vez em quando, faço algum trabalho em sua casa quando ele precisa. Pensando bem... que dia é hoje...?}{Não... há um mago local por estas bandas que eu uso para enfeitiçar as armas... ele é um velho teimoso, mas nos damos bem. Atende pelo nome de Cyrus. Ele lança feitiços nas minhas armas, e eu dou uma olhada nele de vez em quando, faço algum trabalho em sua casa quando ele precisa. Pensando bem... que dia é hoje...?}{}{}{}{}
+{119}{Não... há um mago local por estas bandas que eu costumo usar para encantar as armas... é um velho teimoso, mas nos damos bem. Ele atende pelo nome de Cyrus. Ele lança feitiços nas minhas armas, e eu dou uma passada de vez em quando, faço alguns serviços no lugar dele quando ele precisa. Pensando bem... que dia é hoje...?}{Não... há um mago local por estas bandas que eu costumo usar para encantar as armas... é um velho teimoso, mas nos damos bem. Ele atende pelo nome de Cyrus. Ele lança feitiços nas minhas armas, e eu dou uma passada de vez em quando, faço alguns serviços no lugar dele quando ele precisa. Pensando bem... que dia é hoje...?}{}{}{}{}
 {120}{[Diga a ele.]}{}{5}{}{122}{}
 {122}{Isso é estranho. O velho Cyrus deveria ter vindo aqui ontem. Não tive tempo de verificar como ele está, e hoje estou especialmente ocupado com um pedido da Guarda Caledoniana. [Richard parece preocupado.] Espero mesmo que ele esteja bem...}{Isso é estranho. O velho Cyrus deveria ter vindo aqui ontem. Não tive tempo de verificar como ele está, e hoje estou especialmente ocupado com um pedido da Guarda Caledoniana. [Richard parece preocupado.] Espero mesmo que ele esteja bem...}{}{}{}{lf3 1}
 {123}{Talvez eu pudesse dar uma olhada nele, para você...}{}{5}{}{128}{}
@@ -108,7 +109,7 @@
 {146}{Sério? Você deve estar falando do velho Drog Dente Negro... ele está morando nas colinas há muito tempo, mas na maioria das vezes é só latido e nenhuma mordida... parece que dessa vez a fome foi mais forte. Bom trabalho, amigo! Aqui está a lâmina que prometi. [Ele a entrega para você.] Tenha um bom dia...}{Sério? Você deve estar falando do velho Drog Dente Negro... ele está morando nas colinas há muito tempo, mas na maioria das vezes é só latido e nenhuma mordida... parece que dessa vez a fome foi mais forte. Bom trabalho, amigo! Aqui está a lâmina que prometi. [Ele a entrega para você.] Tenha um bom dia...}{}{}{}{qu1096 4, lf1 1, in -2018}
 {147}{K:}{}{1}{}{43}{}
 {148}{E:}{}{1}{}{0}{}
-{165}{[Ele parece abatido.] Oh, céus. Deve ter sido o velho Drog Dente Negro. Aquele ogro vive nas colinas há anos, mas nunca realmente incomodou ninguém. Acho que dessa vez a fome foi mais forte. Obrigado por tentar, amigo. Infelizmente, a lâmina não será sua...}{[Ele parece abatido.] Oh, céus. Deve ter sido o velho Drog Dente Negro. Aquele ogro vive nas colinas há anos, mas nunca realmente incomodou ninguém. Acho que dessa vez a fome foi mais forte. Obrigado por tentar, amigo. Infelizmente, a lâmina não será sua...}{}{}{}{lf1 1}
+{165}{[Ele parece abatido.] Oh, céus. Deve ter sido o velho Drog Dente Negro. Aquele ogro vive nas colinas há anos, mas nunca realmente incomodou ninguém. Acho que dessa vez a fome foi mais forte. Obrigado por tentar, amigo. Infelizmente, a lâmina não será sua...}{[Ele parece abatido.] Oh, céus. Deve ter sido o velho Drog Dente Negro. Aquele ogro vive nas colinas há anos, mas nunca realmente incomodou ninguém. Acho que dessa vez a fome foi mais forte. Obrigado por tentar, amigo. Infelizmente, a lâmina não será sua...}{}{}{}{qu1096 6, lf1 1}
 {166}{K:}{}{1}{}{43}{}
 {167}{E:}{}{1}{}{0}{}
 {171}{Que serviços você precisa?}{Que serviços você precisa?}{}{}{}{}

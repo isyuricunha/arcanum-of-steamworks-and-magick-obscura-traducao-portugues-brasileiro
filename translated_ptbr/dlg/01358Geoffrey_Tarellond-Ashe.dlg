@@ -39,7 +39,7 @@
 {48}{E:}{}{5}{}{0}{}
 {50}{O meu? Ah, o de sempre... criado em Caladon, estudado em Tarant, verões na costa de Cattan. Sou dos Falsburg Tarrelond-Ashes, se é que conhece esse tipo de coisa. Passei alguns anos em Tulla, entre os velhos magos... um bando de velhos chatos, aqueles velhotes...}{O meu? Ah, o de sempre... criado em Caladon, estudado em Tarant, verões na costa de Cattan. Sou dos Falsburg Tarrelond-Ashes, se é que conhece esse tipo de coisa. Passei alguns anos em Tulla, entre os velhos magos... um bando de velhos chatos, aqueles velhotes...}{}{10}{}{}
 {51}{Entendo. Em qual faculdade de magia estudou?}{}{5}{}{53}{}
-{53}{Ah... mexi um pouco com as artes necromânticas, principalmente do lado mais sombrio... um pouco disso e daquilo. Tenho um trabalho me esperando em Tarant com um dos novos consórcios de magos, se algum dia resolver ir para lá...}{Ah... mexi um pouco com as artes necromânticas, principalmente do lado mais sombrio... um pouco disso e daquilo. Tenho um trabalho me esperando em Tarant com um dos novos consórcios de magos, se algum dia resolver ir para lá...}{}{11}{}{}
+{53}{Ah... mexi um pouco com as artes necromânticas, principalmente do lado mais sombrio... um pouco disso e daquilo. Tenho um trabalho me esperando em Tarant com um dos novos consórcios de magos, se algum dia resolver ir para lá...}{Ah... mexi um pouco com as artes necromânticas, principalmente do lado mais sombrio... um pouco disso e daquilo. Tenho um trabalho me esperando em Tarant com um dos novos consórcios de magos, se algum dia resolver ir para lá...}{}{11}{}{lf4 1}
 {54}{Interessante. Então o que está fazendo AQUI?}{}{5}{}{57}{}
 {55}{E:}{}{5}{}{0}{}
 {57}{Não ouviu? Ashbury está com um problema no cemitério. Parece que têm zumbis brotando do chão toda noite, e ninguém sabe por quê. Eu só estava de passagem a caminho de Caladon e achei que poderia investigar o assunto...}{Não ouviu? Ashbury está com um problema no cemitério. Parece que têm zumbis brotando do chão toda noite, e ninguém sabe por quê. Eu só estava de passagem a caminho de Caladon e achei que poderia investigar o assunto...}{}{12}{}{lf2 1}
@@ -59,11 +59,11 @@
 {78}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{17}{}{}
 {79}{Ainda aceito sua proposta. Voltarei quando encontrar o objeto...}{}{5}{}{0}{qu1075 2}
 {80}{Vou considerar sua proposta. Tenha um bom dia por enquanto...}{}{5}{}{0}{}
-{81}{Excelente. Vamos ao trabalho, então.}{Excelente. Vamos ao trabalho, então.}{}{18}{}{qu1075 2}
+{81}{Excelente. Vamos ao trabalho, então.}{Excelente. Vamos ao trabalho, então.}{}{18}{}{qu1075 2, lf5 0}
 {82}{E:}{}{1}{}{0}{}
 {85}{Sim? O que é?}{Sim? O que é?}{}{19}{}{}
-{86}{Conte-me sobre seu passado, Geoffrey...}{}{5}{ni 5637}{50}{}
-{87}{Por que você está parado aqui perto do cemitério?}{}{5}{lf2 1}{57}{}
+{86}{Conte-me sobre seu passado, Geoffrey...}{}{5}{lf4 0}{50}{}
+{87}{Por que você está parado aqui perto do cemitério?}{}{5}{lf4 1, qu1075 0}{57}{}
 {88}{Gostaria de alguma ajuda para resolver o problema aqui?}{}{5}{qu1075 1, lf2 1, ni 5637}{74}{}
 {89}{Encontrei o que estava debaixo do cemitério, Geoffrey...}{}{5}{lf2 1, in 5637}{123}{}
 {90}{E:}{}{5}{}{0}{}
@@ -81,17 +81,17 @@
 {110}{Sim... nós tínhamos um acordo...}{}{5}{}{99}{in 5637, $$500, qu1075 4, gf2142 1}
 {111}{Escute, Geoffrey... só quero dar uma olhada nessa maldita coisa...}{}{5}{}{114}{re -5}
 {112}{Desculpe... parece que mudei de ideia...}{}{5}{}{114}{re -5}
-{114}{[Um leve brilho começa a se formar ao redor dele. Suas mãos começam a tremer.] Última vez que peço educadamente. Qual vai ser?}{[Um leve brilho começa a se formar ao redor dele. Suas mãos começam a tremer.] Última vez que peço educadamente. Qual vai ser?}{}{25}{}{}
+{114}{[Um leve brilho começa a se formar ao redor dele. Suas mãos começam a tremer.] Última vez que pergunto educadamente. Qual vai ser?}{[Um leve brilho começa a se formar ao redor dele. Suas mãos começam a tremer.] Última vez que pergunto educadamente. Qual vai ser?}{}{25}{}{}
 {115}{Tudo bem. Fique com a droga da coisa...}{}{5}{}{99}{in 5637, $$500, qu1075 4, gf2142 1}
 {116}{Vou ficar com isso, e ponto final...}{}{5}{}{}{lv, co, fl 118}
-{118}{Eu vou ficar com essa gema... de um jeito ou de outro. Adeus, amigo...}{Eu vou ficar com essa gema... de um jeito ou de outro. Adeus, amigo...}{}{26}{}{}
-{120}{Acho que este é o nosso adeus, então. Não posso dizer que estou tão chateado em te ver partir...}{Acho que este é o nosso adeus, então. Não posso dizer que estou tão chateado em te ver partir...}{}{27}{}{}
+{118}{Vou ficar com essa gema... de um jeito ou de outro. Adeus, amigo...}{Vou ficar com essa gema... de um jeito ou de outro. Adeus, amigo...}{}{26}{}{}
+{120}{Acho que isso é um adeus, então. Não posso dizer que estou muito chateado em te ver partir...}{Acho que isso é um adeus, então. Não posso dizer que estou muito chateado em te ver partir...}{}{27}{}{}
 {121}{E:}{}{5}{}{0}{}
 {123}{Sério? [Ele parece um pouco agitado com isso.] Estou MUITO interessado em obter esse objeto. Pagarei 500 peças de ouro por ele agora mesmo...}{Sério? [Ele parece um pouco agitado com isso.] Estou MUITO interessado em obter esse objeto. Pagarei 500 peças de ouro por ele agora mesmo...}{}{28}{}{}
 {124}{Hmmm. Parece bom. Aqui está...}{}{5}{}{}{qu1075 4, in 5637, $$500, lf3 1, fl 127}
 {125}{Acho que não, Geoffrey...}{}{5}{}{129}{}
 {127}{Muito obrigado. Tenha um bom dia...}{Muito obrigado. Tenha um bom dia...}{}{29}{}{}
-{129}{Talvez eu precise ser um pouco mais claro. Você VAI me dar essa gema, e eu VOU te pagar uma bela quantia de 500 peças de ouro. Agora me entregue...}{Talvez eu precise ser um pouco mais claro. Você VAI me dar essa gema, e eu VAI te pagar uma bela quantia de 500 peças de ouro. Agora me entregue...}{}{30}{}{}
+{129}{Talvez eu precise ser um pouco mais claro. Você VAI me dar essa gema, e eu VAI te pagar uma bela quantia de 500 peças de ouro. Agora me entregue...}{Talvez eu precise ser um pouco mais claro. Você VAI me dar essa gema, e eu VAI te pagar uma bela quantia de 500 peças de ouro. Agora me entregue...}{}{30}{}{}
 {130}{Claro. Aqui está...}{}{5}{}{}{qu1075 4, in 5637, $$500, lf3 1, fl 127}
 {131}{Receio não ter gostado do seu tom, Geoffrey...}{}{5}{}{133}{}
 {133}{[Um leve brilho começa a se formar ao redor dele. Suas mãos começam a tremer.] Última vez que pergunto educadamente. Qual vai ser?}{[Um leve brilho começa a se formar ao redor dele. Suas mãos começam a tremer.] Última vez que pergunto educadamente. Qual vai ser?}{}{31}{}{}
@@ -100,10 +100,10 @@
 {137}{Você não é má pessoa. Foi um prazer fazer negócios com você...}{Você não é má pessoa. Foi um prazer fazer negócios com você...}{}{32}{}{}
 {139}{Olá... parece que estamos indo pelo caminho errado. Está mesmo falando sério em descobrir o que está acontecendo aqui no cemitério ou não?}{Olá... parece que estamos indo pelo caminho errado. Está mesmo falando sério em descobrir o que está acontecendo aqui no cemitério ou não?}{}{33}{}{}
 {140}{Claro, Geoffrey... vamos voltar...}{}{5}{}{0}{}
-{141}{Na verdade, não. Talvez devêssemos fazer isso mais tarde...}{}{5}{}{}{lv, fl 143}
+{141}{Na verdade, não. Talvez devêssemos fazer isso mais tarde...}{}{5}{}{}{lf5 1, lv, fl 143}
 {143}{Entendo. Bem, estarei esperando perto da entrada quando estiver pronto...}{Entendo. Bem, estarei esperando perto da entrada quando estiver pronto...}{}{34}{}{}
 {145}{Vejo que não está nem um pouco interessado em resolver o mistério do cemitério. Quando estiver, me encontre na entrada...}{Vejo que não está nem um pouco interessado em resolver o mistério do cemitério. Quando estiver, me encontre na entrada...}{}{35}{}{}
-{147}{Está pronto para ir descobrir o que está criando esses zumbis?}{Você está pronto para ir e descobrir o que está criando esses zumbis?}{}{36}{}{}
+{147}{Você está pronto para ir e descobrir o que está criando esses zumbis?}{Você está pronto para ir e descobrir o que está criando esses zumbis?}{}{36}{}{}
 {148}{Sim... vamos lá...}{}{5}{ni 5637}{78}{jo 0 81}
 {149}{Talvez mais tarde... tenha um bom dia.}{}{5}{ni 5637}{0}{}
 {150}{Eu já fiz isso. Era essa gema...}{}{5}{in 5637}{123}{}
@@ -127,7 +127,7 @@
 {179}{Você sabe alguma coisa sobre Nasrudin, Geoffrey?}{}{1}{ss 16, ss -16}{510}{}
 {181}{O que pode me contar sobre as ruínas de Vendigroth, Geoffrey?}{}{1}{ss 18, ss -18}{514}{}
 {182}{O que você sabe sobre o Anel de Brodgar?}{}{1}{ss 19, ss -19}{518}{}
-{186}{Geoffrey, o que você sabe sobre Kerghan?}{}{1}{ss 23, ss -23}{522}{}
+{186}{Geoffrey, o que você sabe sobre Kerghan?}{}{1}{ss 22, ss -22}{522}{}
 {187}{Geoffrey! O que vamos fazer agora?}{}{1}{ss 24, ss -24}{526}{}
 {188}{O que você sabe sobre este lugar?}{}{1}{ia 1}{317}{}
 {189}{O que você sabe sobre este lugar?}{}{1}{ia 21}{321}{}
@@ -144,7 +144,7 @@
 {250}{Oh! Que bom que finalmente notou! Que gentileza a sua pensar em alguém além do seu maldito eu. Não sei se consigo relevar isso, mas... bem... se você me trouxer uma garrafa de Conhaque Chateau de Be'ron, talvez eu consiga perdoar sua falta de atenção...}{Oh! Que bom que finalmente notou! Que gentileza a sua pensar em alguém além do seu maldito eu. Não sei se consigo relevar isso, mas... bem... se você me trouxer uma garrafa de Conhaque Chateau de Be'ron, talvez eu consiga perdoar sua falta de atenção...}{}{69}{}{}
 {251}{Geoffrey, você tem tanta certeza assim de tudo isso?}{}{1}{ch 20}{257}{re +20}
 {252}{Exatamente o que eu teria escolhido! E por acaso tenho um pouco aqui!}{}{1}{in 3613, ch -19}{-52}{re +20}
-{253}{Vou levar em consideração, Geoffrey...}{}{1}{in -3613, ch -19}{264}{}
+{253}{Vou levar em consideração, Geoffrey...}{}{1}{ni 3613, ch -19}{264}{}
 {254}{Você não merece um conhaque tão fino, Geoffrey. Vamos...}{}{1}{}{}{re -5, fl 266}
 {257}{[Geoffrey olha para você com cara feia, mas finalmente abre um sorriso.] Ah, você é terrivelmente encantador, não é? Suponho que podemos esquecer isso. Por enquanto, veja bem...}{[Geoffrey olha para você com cara feia, mas finalmente abre um sorriso.] Ah, você é terrivelmente encantador, não é? Suponho que podemos esquecer isso. Por enquanto, veja bem...}{}{70}{}{}
 {258}{Sim, sim, eu sei. Vamos, Geoffrey...}{}{1}{}{0}{}
@@ -172,7 +172,7 @@
 {290}{Tudo bem, então. Não é como se eu não pudesse encontrar companheiros de viagem. Muito provavelmente terão melhores modos e um pouco mais de cérebro debaixo do chapéu. Tenha um bom dia...}{Tudo bem, então. Não é como se eu não pudesse encontrar companheiros de viagem. Muito provavelmente terão melhores modos e um pouco mais de cérebro debaixo do chapéu. Tenha um bom dia...}{}{42}{}{lf31 1}
 {291}{E:}{}{1}{}{0}{}
 {292}{Ah... é você. Não posso dizer que estou surpreso por você ter voltado. Talvez tenha adquirido um leve caso de civilidade... é isso? O que você quer?}{Ah... é você. Não posso dizer que estou surpreso por você ter voltado. Talvez tenha adquirido um leve caso de civilidade... é isso? O que você quer?}{}{43}{}{}
-{293}{Eu estava me perguntando se você gostaria de se juntar a mim novamente, Geoffrey?}{}{5}{ni 5637, gf2142 0}{303}{jo 0 306}
+{293}{Estava me perguntando se você não gostaria de me acompanhar novamente, Geoffrey?}{}{5}{ni 5637, gf2142 0}{303}{jo 0 306}
 {294}{Estava me perguntando se você não gostaria de me acompanhar novamente, Geoffrey?}{}{5}{in 5637, gf2142 0}{93}{}
 {295}{Estava me perguntando se você não gostaria de me acompanhar novamente, Geoffrey?}{}{5}{pa -6591, gf2142 1}{303}{jo 0 306}
 {296}{Estava me perguntando se você não gostaria de me acompanhar novamente, Geoffrey?}{}{5}{pa 6591, gf2142 1}{-18}{}
@@ -188,9 +188,9 @@
 {306}{Bem, acho que poderia tolerar sua companhia por mais um tempinho. Não dá pra dizer que você é um indivíduo entediante para se ter por perto. Ótimo! Vamos então...}{Bem, acho que poderia tolerar sua companhia por mais um tempinho. Não dá pra dizer que você é um indivíduo entediante para se ter por perto. Ótimo! Vamos então...}{}{46}{}{lf31 0}
 {307}{E:}{}{1}{}{0}{}
 {308}{Bem! Vejo que você finalmente decidiu voltar! Não se preocupe por ter deixado o velho Geoffrey esperando! Ah, não!}{Bem! Vejo que você finalmente decidiu voltar! Não se preocupe por ter deixado o velho Geoffrey esperando! Ah, não!}{}{47}{}{}
-{309}{Gostaria de me acompanhar novamente, Geoffrey?}{}{5}{ni 5637, gf2142 0}{303}{jo 0 314}
+{309}{Gostaria de me acompanhar novamente, Geoffrey?}{}{5}{ni 5637, gf2142 0}{303}{jo 0 315}
 {310}{Gostaria de me acompanhar novamente, Geoffrey?}{}{5}{in 5637, gf2142 0}{93}{}
-{311}{Gostaria de me acompanhar novamente, Geoffrey?}{}{5}{pa -6591, gf2142 1}{303}{jo 0 314}
+{311}{Gostaria de me acompanhar novamente, Geoffrey?}{}{5}{pa -6591, gf2142 1}{303}{jo 0 315}
 {312}{Gostaria de me acompanhar novamente, Geoffrey?}{}{5}{pa 6591, gf2142 1}{-18}{}
 {313}{Geoffrey, você parece chateado comigo. Há algo que eu possa fazer por você?}{}{5}{re -20}{250}{}
 {314}{Hã...}{}{-4}{}{}{fl 530}

@@ -303,7 +303,7 @@
 {8073}{Armadura de Placas Usinada}
 {8074}{Vestes das Sombras}
 {8075}{Armadura de Placas Básica}
-{8076}{Roupas de Bárbaro de Bronze}
+{8076}{Vestes Vermelhas de Bárbaro}
 {8077}{Paletó para Fumar}
 {8078}{Jaqueta Pequena de Camurça}
 {8079}{Couro Pequeno de Ladrão Oleado}
@@ -311,19 +311,19 @@
 {8081}{Armadura de Placas Usinada Pequena}
 {8082}{Pequena Túnica do Camaleão}
 {8083}{Pequena Cota de Malha Básica}
-{8084}{Pequenas Vestes Bárbaras de Bronze}
+{8084}{Vestes Vermelhas de Bárbaro Pequenas}
 {8085}{Pequeno Paletó para Fumar}
 {8086}{Trapos Pesados}
 {8087}{Couro de Ladrão Oleado Grande}
 {8088}{Grande Cota de Malha Básica}
-{8089}{Paletó para Fumar}
+{8089}{Casaco Grande para Fumar}
 {8090}{Jaqueta de Lã}
 {8091}{Armadura de Couro}
 {8092}{Cota de Malha Oleada}
 {8093}{Placa Usinada Básica}
 {8094}{Túnicas}
 {8095}{Placa de Bronze}
-{8096}{Vestes Bárbaras Escuras}
+{8096}{Roupas de Bárbaro de Bronze}
 {8097}{Roupas de Servo}
 {8098}{Pequena Jaqueta de Lã}
 {8099}{Pequena Armadura de Couro}
@@ -331,7 +331,7 @@
 {8101}{Pequena Placa Usinada Básica}
 {8102}{Pequenas Túnicas}
 {8103}{Pequena Placa de Bronze}
-{8104}{Pequenas Vestes Bárbaras Escuras}
+{8104}{Pequenas Vestes Bárbaras de Bronze}
 {8105}{Pequenas Roupas de Criado}
 {8106}{Jaqueta de Lã Grande}
 {8107}{Armadura de Couro Grande}
@@ -343,7 +343,7 @@
 {8113}{Armadura de Placas de Guarda}
 {8114}{Túnicas Mágicas}
 {8115}{Armadura de Placas Élite}
-{8116}{Vestes Vermelhas de Bárbaro}
+{8116}{Roupas Bárbaras}
 {8117}{Elegância Rústica}
 {8118}{Jaqueta Pequena}
 {8119}{Couro Cravejado Pequeno}
@@ -351,7 +351,7 @@
 {8121}{Armadura de Placas de Guarda Pequena}
 {8122}{Túnicas Mágicas Pequenas}
 {8123}{Armadura de Placas Élite Pequena}
-{8124}{Vestes Vermelhas de Bárbaro Pequenas}
+{8124}{Roupas Bárbaras Pequenas}
 {8125}{Elegância Rústica Pequena}
 {8126}{Trapos}
 {8127}{Couro Cravejado Grande}
@@ -361,16 +361,16 @@
 {8131}{Cota de Malha Peso-Pena Pequena}
 {8132}{Anel de Cobre}
 {8133}{Vestido Simples}
-{8134}{SEM QUALIDADE}Small Ladies City Dweller Clothes
-{8135}{SEM QUALIDADE}Small Ladies City Dweller Clothes
+{8134}{Vestido Simples Pequeno}Small Ladies City Dweller Clothes
+{8135}{SEM QUALIDADE}Large Ladies City Dweller Clothes
 {8136}{Vestido Elegante}Ladies Smoking Jacket
-{8137}{SEM QUALIDADE}Small Ladies Smoking Jacket
+{8137}{Vestido Elegante Pequeno}Small Ladies Smoking Jacket
 {8138}{SEM QUALIDADE}Large Ladies Smoking Jacket
 {8139}{Vestido de Servo}FEMALE
-{8140}{SEM QUALIDADE}Small Ladyservants Clothes
+{8140}{Vestido de Criada Pequeno}Small Ladyservants Clothes
 {8141}{SEM QUALIDADE}Large Ladyservants Clothes
 {8142}{Vestido Rústico}FEMALE
-{8143}{SEM QUALIDADE}Small Ladies Rustic Finery
+{8143}{Vestido Rústico Pequeno}Small Ladies Rustic Finery
 {8144}{SEM QUALIDADE}Large Ladies Rustic Finery
 {8145}{Veste Escudada contra Veneno}
 {8146}{Veste Pequena Escudada contra Veneno}
@@ -736,7 +736,7 @@
 {14084}{Disruptor de Fluxo}
 {14085}{Arma de Tesla}
 {14086}{Sino de Alarme}
-{14087}{Armadura Elétrica (Média)}
+{14087}{Armadura Eletro}
 {14088}{Arco Pirotécnico}
 {14089}{Gás de Atordoamento}
 {14090}{Granada de Alucinação}
@@ -889,11 +889,11 @@
 {15169}{Médico Mecânico}
 {15170}{Isca Iluminada}
 {15171}{Isca Explosiva}
-{15172}{Atirador Autômato}
+{15172}{NÃO UTILIZADO}Automaton Gunner
 {15173}{Bomba Relógio}
 {15174}{Plastique}
 {15175}{Detonador}
-{15176}{Aracnídeo Médico}
+{15176}{NÃO UTILIZADO}Medical Arachnid
 {15177}{Minifábrica a Vapor}
 {15178}{Gazuas Rústicas}
 {15179}{Ataduras}
@@ -930,6 +930,7 @@
 {15210}{Essência de Wisp}
 {15211}{Essência de Wisp de Volar}
 {15212}{Aracnídeo Médico}
+{15213}{Guia do Educador}
 
 // Critter Names
 
@@ -1286,6 +1287,9 @@
 {27391}{Isca Mecânica}
 {27392}{Halfling Nu}
 {27393}{Oren}
+{27394}{Médico Mecânico}
+{27395}{Isca Iluminada}
+{27396}{Isca Explosiva}
 
 // Monsters
 

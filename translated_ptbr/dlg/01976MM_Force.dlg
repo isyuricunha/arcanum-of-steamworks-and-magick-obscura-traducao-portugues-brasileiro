@@ -15,9 +15,9 @@
 {15}{Hã... qual é o seu nome, malvado?}{}{-4}{lf1 0, re -40}{28}{}
 {16}{Hã... Eu pergunto uma coisa?}{}{-4}{lf1 1, re 41}{36}{}
 {17}{Hã... eu pergunto uma coisa, malvado?}{}{-4}{lf1 1, re -40}{36}{}
-{18}{Eu aprimorei minhas habilidades de força, Mestre Rys'Ard.}{}{5}{lf4 1, sc6 5}{78}{}
-{19}{Eu intensifiquei minha aura mágica, Mestre Rys'Ard.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{20}{Tenho interesse em me tornar um mestre de força.}{}{5}{gf2411 0, ma30, lf1 1}{101}{}
+{18}{Eu aprimorei minhas habilidades de força, Mestre Rys'Ard.}{}{5}{lf4 1, sc6 5, lf5 0}{78}{}
+{19}{Eu intensifiquei minha aura mágica, Mestre Rys'Ard.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{20}{Tenho interesse em me tornar um mestre de força.}{}{5}{gf2411 0, ma30, lf1 1, sc6 5}{101}{}
 {21}{Ainda não completei o teste para mestria, Rys'Ard.}{}{5}{LF7 1, gf2418 0}{115}{}
 {22}{Completei o teste e me tornei mestre de força!}{}{5}{gf2418 1, lf9 0}{119}{}
 {27}{E:}{}{1}{}{0}{}
@@ -25,28 +25,28 @@
 {29}{É uma honra conhecê-lo, senhor.}{}{5}{sc6 1, sc6 -4, lf4 0}{73}{}
 {30}{É uma honra conhecê-lo, senhor.}{}{5}{sc6 5, lf5 0}{78}{}
 {31}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{sc6 0, lf3 0}{65}{}
-{32}{Por favor, explique-me o que é força.}{}{5}{sc6 0, lf2 0}{57}{}
-{33}{O que é 'fors'?}{}{-4}{sc6 0, lf2 0}{57}{}
+{32}{Por favor, explique-me a força.}{}{5}{sc6 0, lf2 0}{57}{}
+{33}{Força do quê?}{}{-4}{sc6 0, lf2 0}{57}{}
 {34}{Você acha que a teknawlugia te prejudica?}{}{-4}{sc6 0, lf3 0}{65}{}
 {35}{E:}{}{1}{sc6 0}{0}{}
 {36}{Sim... O que deseja?}{Sim... O que deseja?}{}{}{}{}
-{37}{Eu aprimorei minhas habilidades de força, Mestre Rys'Ard.}{}{5}{lf4 1, sc6 5, ma 30}{78}{}
-{38}{Eu intensifiquei minha aura mágica, Mestre Rys'Ard.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{39}{Tenho interesse em me tornar um mestre de força.}{}{5}{gf2411 0, ma30}{101}{}
+{37}{Eu aprimorei minhas habilidades de força, Mestre Rys'Ard.}{}{5}{lf4 1, sc6 5, lf5 0}{78}{}
+{38}{Eu intensifiquei minha aura mágica, Mestre Rys'Ard.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{39}{Tenho interesse em me tornar um mestre de força.}{}{5}{gf2411 0, ma30, sc6 5}{101}{}
 {40}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
-{41}{Por favor, explique-me o que é força.}{}{5}{lf2 0}{57}{}
-{42}{O que é 'fors'?}{}{-4}{lf2 0}{57}{}
+{41}{Por favor, explique-me a força.}{}{5}{lf2 0}{57}{}
+{42}{Força do quê?}{}{-4}{lf2 0}{57}{}
 {43}{Você acha que a teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
 {44}{F:}{}{1}{}{0}{}
 {45}{E:}{}{1}{}{0}{}
 {46}{Hmm... Precisa de algo mais?}{Hmm... Precisa de algo mais?}{}{}{}{}
-{47}{Eu aprimorei minhas habilidades de força, Mestre Rys'Ard.}{}{5}{lf4 1, sc6 5, ma 30}{78}{}
-{48}{Eu intensifiquei minha aura mágica, Mestre Rys'Ard.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{49}{Tenho interesse em me tornar um mestre de força.}{}{5}{gf2411 0, ma30}{101}{}
+{47}{Eu aprimorei minhas habilidades de força, Mestre Rys'Ard.}{}{5}{lf4 1, sc6 5, lf5 0}{78}{}
+{48}{Eu intensifiquei minha aura mágica, Mestre Rys'Ard.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{49}{Tenho interesse em me tornar um mestre de força.}{}{5}{gf2411 0, ma30, sc6 5}{101}{}
 {50}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
-{51}{Por favor, explique-me o que é força.}{}{5}{lf2 0}{57}{}
+{51}{Por favor, explique-me a força.}{}{5}{lf2 0}{57}{}
 {52}{Não. Obrigado pelo seu tempo.}{}{5}{}{0}{}
-{53}{O que é 'fors'?}{}{-4}{lf2 0}{57}{}
+{53}{Força do quê?}{}{-4}{lf2 0}{57}{}
 {54}{Você acha que a teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
 {55}{Não. Obrigado.}{}{-4}{}{0}{}
 {56}{E:}{}{1}{}{0}{}
@@ -82,7 +82,7 @@
 {86}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 1}{46}{}
 {87}{Extremamente difícil, senhor. Porém, minha perseverança valeu a pena.}{}{5}{gf2411 1}{46}{}
 {88}{E:}{}{1}{}{0}{}
-{89}{Intrigante... Você aprendeu com sucesso todos os cinco feitiços de força, mas sua aura mágica é fraca. Se algum dia desejar se tornar um grande mago, ou talvez até um mestre, terá que corrigir esse problema.}{Intrigante... Você aprendeu com sucesso todos os cinco feitiços de força, mas sua aura mágica é fraca. Se algum dia desejar se tornar um grande mago, ou talvez até um mestre, terá que corrigir esse problema.}{}{}{}{}
+{89}{Intrigante... Você aprendeu com sucesso todos os cinco feitiços de força, mas sua aura mágica é fraca. Se algum dia desejar se tornar um grande mago, ou talvez até um mestre, terá que corrigir esse problema.}{Intrigante... Você aprendeu com sucesso todos os cinco feitiços de força, mas sua aura mágica é fraca. Se algum dia desejar se tornar um grande mago, ou talvez até um mestre, terá que corrigir esse problema.}{}{}{}{lf8 1}
 {90}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
 {91}{Não é fraqueza, estou apenas equilibrado entre magia e tecnologia.}{}{5}{}{46}{re-2}
 {92}{Não é um problema. Acredito que a tecnologia é superior. É só isso.}{}{5}{}{46}{re-4}
@@ -111,11 +111,11 @@
 {116}{Vou completar meus preparativos e realizar o teste. Adeus.}{}{5}{}{0}{}
 {117}{Vou me tornar um mestre! Adeus.}{}{5}{}{0}{}
 {118}{E:}{}{5}{}{0}{}
-{119}{Muito bem! Muito bem mesmo @pcname@! São poucos aqueles que parabenizei por tal conquista. Você verá que sua resistência em nosso colégio foi fortalecida em dobro. Assim, sentirá metade do esforço para cada feitiço de força que lançar. Mais uma vez, meus parabéns.}{Muito bem! Muito bem mesmo @pcname@! São poucos aqueles que parabenizei por tal conquista. Você verá que sua resistência em nosso colégio foi fortalecida em dobro. Assim, sentirá metade do esforço para cada feitiço de força que lançar. Mais uma vez, meus parabéns.}{}{}{}{}
+{119}{Muito bem! Muito bem mesmo @pcname@! São poucos aqueles que parabenizei por tal conquista. Você verá que sua resistência em nosso colégio foi fortalecida em dobro. Assim, sentirá metade do esforço para cada feitiço de força que lançar. Mais uma vez, meus parabéns.}{Muito bem! Muito bem mesmo @pcname@! São poucos aqueles que parabenizei por tal conquista. Você verá que sua resistência em nosso colégio foi fortalecida em dobro. Assim, sentirá metade do esforço para cada feitiço de força que lançar. Mais uma vez, meus parabéns.}{}{}{}{lf9 1}
 {120}{Obrigado, mestre.}{}{5}{}{0}{}
 {121}{Obrigado, Rys'Ard. Posso lhe perguntar mais uma coisa?}{}{5}{}{46}{}
 {122}{E:}{}{5}{}{0}{}
-{123}{Não. Duvido muito que essa "tecnologia" seja remotamente equivalente à minha magia. Pelo que ouvi... não é possível moldar esses itens tecnológicos à sua vontade, e cada um serve apenas a um único propósito. Que desperdício.}{Não. Duvido muito que essa "tecnologia" seja remotamente equivalente à minha magia. Pelo que ouvi... não é possível moldar esses itens à sua vontade, e cada um serve apenas a um único propósito. Que desperdício.}{}{}{}{lf9 1}
+{123}{Não. Duvido muito que essa "tecnologia" seja remotamente equivalente à minha magia. Pelo que ouvi... não é possível moldar esses itens tecnológicos à sua vontade, e cada um serve apenas a um único propósito. Que desperdício.}{Não. Duvido muito que essa "tecnologia" seja remotamente equivalente à minha magia. Pelo que ouvi... não é possível moldar esses itens à sua vontade, e cada um serve apenas a um único propósito. Que desperdício.}{}{}{}{}
 {124}{Hmm... Entendo seu ponto de vista.}{}{5}{}{46}{}
 {125}{Se você analisar melhor, acho que a disciplina elétrica vai te surpreender.}{}{5}{}{46}{}
 {126}{E:}{}{5}{}{0}{}

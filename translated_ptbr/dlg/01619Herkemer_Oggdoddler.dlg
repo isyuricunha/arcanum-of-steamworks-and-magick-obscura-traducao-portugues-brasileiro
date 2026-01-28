@@ -8,14 +8,14 @@
 {8}{Me fala oi!}{}{-4}{re 41, me 0}{19}{}
 {9}{Você não deveria ser rude comigo!}{}{-4}{re -40, me 1}{34}{re41}
 {10}{Me fala oi!}{}{-4}{re 41, me 1}{34}{}
-{11}{Me quer aprender.}{}{-4}{lf 13 1}{155}{}
+{11}{Eu quero aprender.}{}{-4}{lf 13 1}{155}{}
 {12}{É verdade, é verdade. Você tem toda a razão, às vezes esqueço meus modos. Por favor, desculpe minha grosseria.}{É verdade, é verdade. Você tem toda a razão, às vezes esqueço meus modos. Por favor, desculpe minha grosseria.}{}{}{}{}
 {13}{Não se preocupe com isso.}{}{5}{}{19}{re +10}
 {14}{Permita-me ensinar-lhe algumas coisas, cão!}{}{5}{}{0}{co, fl 255}
 {15}{Tá tudo bem! Me não tá bravo!}{}{-4}{}{19}{re +10}
 {16}{Me mata você agora!}{}{-4}{}{0}{co, fl 255}
 {18}{E:}{}{1}{}{0}{}
-{19}{Permita-me me apresentar, sou Herkemer Ogg. Quem seria você?}{Permita-me me apresentar, sou Herkemer Ogg. Quem seria você?}{}{}{}{lf 1 1}
+{19}{Permita-me apresentar-me, sou Herkemer Oggdoddler. Quem poderia ser você?}{Permita-me apresentar-me, sou Herkemer Oggdoddler. Quem poderia ser você?}{}{}{}{lf 1 1}
 {20}{Sou conhecido como @pcname@.}{}{5}{}{34}{}
 {21}{Meu nome não é importante.}{}{5}{}{24}{}
 {22}{Me @pcname@}{}{-4}{}{34}{}
@@ -54,7 +54,7 @@
 {60}{Não preciso de nada extravagante, apenas 500 moedas, e você deve estar pronto para aprender. Acho que você precisa de mais experiência antes que eu aceite seu dinheiro, no entanto. Volte quando estiver pronto.}{Não preciso de nada extravagante, apenas 500 moedas, e você deve estar pronto para aprender. Acho que você precisa de mais experiência antes que eu aceite seu dinheiro, no entanto. Volte quando estiver pronto.}{}{}{}{}
 {61}{K:}{}{1}{}{47}{}
 {62}{E:}{}{1}{}{0}{}
-{68}{Sou um simples soldado... um veterano das guerras contra Tarant e Dernholm. [hesitando um pouco] Estou aposentado agora, vivendo aqui em Blackroot. Às vezes ofereço instrução em habilidades marciais para aqueles que se qualificam e têm um interesse genuíno em aprender. É um dinheiro honesto, e eu gosto da companhia.}{Sou um simples soldado... um veterano das guerras contra Tarant e Dernholm. [hesitando um pouco] Estou aposentado agora, vivendo aqui em Blackroot. Às vezes ofereço instrução em habilidades marciais para aqueles que se qualificam e têm um interesse genuíno em aprender. É um dinheiro honesto, e eu gosto da companhia.}{}{}{}{}
+{68}{Sou um simples soldado... um veterano das guerras contra Tarant e Dernholm. [hesitando um pouco] Agora estou aposentado, vivendo aqui em Blackroot. Às vezes ofereço instrução em habilidades marciais para aqueles que se qualificam e têm um interesse genuíno em aprender. É um dinheiro honesto, e gosto da companhia.}{Sou um simples soldado... um veterano das guerras contra Tarant e Dernholm. [hesitando um pouco] Agora estou aposentado, vivendo aqui em Blackroot. Às vezes ofereço instrução em habilidades marciais para aqueles que se qualificam e têm um interesse genuíno em aprender. É um dinheiro honesto, e gosto da companhia.}{}{}{}{}
 {69}{Talvez eu treine com você algum dia.}{}{5}{}{47}{}
 {70}{Se não for um incômodo, poderia me contar sobre a guerra?}{}{5}{lf 14 0}{73}{lf 14 1}
 {71}{Talvez eu aprenda com você algum dia.}{}{-4}{}{47}{}
@@ -63,12 +63,12 @@
 {74}{Isso é uma coisa boa, também. Cumbria é irremediavelmente atrasada!}{}{5}{}{193}{}
 {75}{Por favor, continue.}{}{5}{}{81}{}
 {77}{Eu quero ouvir mais!}{}{-4}{}{81}{}
-{79}{Eu já ouvi sua história.}{}{-4}{}{47}{}
+{79}{Eu escutei sua história.}{}{-4}{}{47}{}
 {80}{Obrigado por compartilhar sua história comigo.}{}{5}{}{47}{}
 {81}{Na guerra, servi na guarda de elite de Cumbria, os Cavaleiros do Dragão. Éramos imbatíveis com a espada, maça ou machado. Treinados desde a infância, éramos. Primeiro escudeiros, depois homens de armas, e então cavaleiros servindo ao nosso Rei. Lutamos com honra e virtude.}{Na guerra, servi na guarda de elite de Cumbria, os Cavaleiros do Dragão. Éramos imbatíveis com a espada, maça ou machado. Treinados desde a infância, éramos. Primeiro escudeiros, depois homens de armas, e então cavaleiros servindo ao nosso Rei. Lutamos com honra e virtude.}{}{}{}{}
 {82}{Por favor, continue.}{}{5}{}{88}{}
 {83}{Eu quero ouvir mais!}{}{-4}{}{88}{}
-{86}{Eu já ouvi sua história.}{}{-4}{}{47}{}
+{86}{Eu escutei sua história.}{}{-4}{}{47}{}
 {87}{Obrigado por compartilhar sua história comigo.}{}{5}{}{47}{}
 {88}{A guerra contra Tarant foi diferente de todas as outras guerras. Viu o fim da era da cavalaria. O nobre cavaleiro foi substituído por uma linha de recrutas novatos com armas de fogo.}{A guerra contra Tarant foi diferente de todas as outras guerras. Viu o fim da era da cavalaria. O nobre cavaleiro foi substituído por uma linha de recrutas novatos com armas de fogo.}{}{}{}{}
 {89}{Por favor, continue.}{}{5}{}{96}{}
@@ -76,7 +76,7 @@
 {94}{Eu escutei sua história.}{}{-4}{}{47}{}
 {95}{Obrigado por compartilhar sua história comigo.}{}{5}{}{47}{}
 {96}{No início da guerra, o rifle era distribuído apenas para atiradores de elite tarantianos, mas, no fim, já era equipamento padrão para todo recruta do Exército Tarantiano! Combinado com formações de unidades em fileiras para concentrar o fogo, os tarantianos conseguiam controlar o campo de batalha. E fazer isso com soldados inferiores!}{No início da guerra, o rifle era distribuído apenas para atiradores de elite tarantianos, mas, no fim, já era equipamento padrão para todo recruta do Exército Tarantiano! Combinado com formações de unidades em fileiras para concentrar o fogo, os tarantianos conseguiam controlar o campo de batalha. E fazer isso com soldados inferiores!}{}{}{}{}
-{97}{De fato, a arma de fogo sempre será o refúgio do covarde.}{}{5}{}{103}{re+10}
+{97}{De fato, a arma de fogo será sempre o refúgio dos covardes.}{}{5}{}{103}{re+10}
 {98}{Por favor, continue.}{}{5}{}{103}{}
 {99}{Obrigado por compartilhar sua história comigo.}{}{5}{}{47}{}
 {100}{Eu quero ouvir mais!}{}{-4}{}{103}{}
@@ -105,7 +105,7 @@
 {128}{Gosto da história!}{}{-4}{}{131}{}
 {129}{Eu digo que Tarant é melhor.!}{}{-4}{}{193}{re -25}
 {130}{Sinto muito por você.}{}{-4}{}{131}{}
-{131}{Você tem sido muito paciente... sinal de um bom aluno. Se algum dia precisar de treinamento em Combate Corpo a Corpo, Esquiva, Detecção de Armadilhas ou Armas de Fogo, eu o aceitarei como aluno.}{Você tem sido muito paciente... sinal de um bom aluno. Se algum dia precisar de treinamento em Combate Corpo a Corpo, Esquiva, Detecção de Armadilhas ou Armas de Fogo, eu o aceitarei como aluno.}{}{}{}{lf 13 1, re 75}
+{131}{Você tem sido muito paciente... sinal de um bom aluno. Se algum dia precisar de treinamento em Combate Corpo a Corpo, Esquiva, Detecção de Armadilhas ou Armas de Fogo, eu o aceitarei como aluno.}{Você tem sido muito paciente... sinal de um bom aluno. Se algum dia precisar de treinamento em Combate Corpo a Corpo, Esquiva, Detecção de Armadilhas ou Armas de Fogo, eu o aceitarei como aluno.}{}{}{}{lf 13 1, re +25}
 {132}{A senhora é muito bondosa.}{}{5}{}{47}{}
 {133}{A:}{}{5}{}{47}{}
 {134}{O que exatamente você está propondo?}{}{5}{}{138}{}
@@ -115,7 +115,7 @@
 {138}{Estou aposentado agora, mas já fui mestre de armas do Exército Cumbriano. Cavaleiros que treinaram comigo se tornaram especialistas em Combate Corpo a Corpo e Esquiva. Perto do fim da minha carreira, também treinei em Armas de Fogo e Detecção de Armadilhas. Posso treiná-lo em qualquer uma dessas habilidades por uma taxa modesta.}{Estou aposentado agora, mas já fui mestre de armas do Exército Cumbriano. Cavaleiros que treinaram comigo se tornaram especialistas em Combate Corpo a Corpo e Esquiva. Perto do fim da minha carreira, também treinei em Armas de Fogo e Detecção de Armadilhas. Posso treiná-lo em qualquer uma dessas habilidades por uma taxa modesta.}{}{}{}{}
 {139}{Conte-me mais sobre o treinamento.}{}{5}{}{144}{}
 {140}{K:}{}{5}{}{47}{}
-{141}{Quero saber mais.}{}{-4}{}{144}{}
+{141}{Eu quero saber mais.}{}{-4}{}{144}{}
 {142}{K:}{}{-4}{}{47}{}
 {144}{Não exijo nada extravagante, apenas 500 moedas, e você deve estar pronto para aprender. Ou seja, se já tiver treinamento básico e habilidade suficiente para se tornar um especialista.}{Não exijo nada extravagante, apenas 500 moedas, e você deve estar pronto para aprender. Ou seja, se já tiver treinamento básico e habilidade suficiente para se tornar um especialista.}{}{}{}{}
 {146}{Uma política bastante razoável.}{}{5}{}{47}{}
@@ -125,7 +125,7 @@
 {154}{E:}{}{1}{}{0}{}
 {155}{Ofereço instrução em quatro habilidades. Esquiva, Combate Corpo a Corpo, Detecção de Armadilhas e Armas de Fogo, como já disse, por 500 moedas. Você deve ser um aprendiz e ter habilidade suficiente.}{Ofereço instrução em quatro habilidades. Esquiva, Combate Corpo a Corpo, Detecção de Armadilhas e Armas de Fogo, como já disse, por 500 moedas. Você deve ser um aprendiz e ter habilidade suficiente.}{}{}{}{}
 {156}{Gostaria de ser treinado na habilidade de Esquiva.}{}{5}{tr 1 1, tr 1 -1, sk 1 9,  $$ 500}{204}{tr 1 2,  $$ -500, rq2178}
-{157}{Gostaria de ser treinado na habilidade de Combate Corpo a Corpo.}{}{5}{tr 2 1, tr 2 -1, sk 2 9,  $$ 500}{213}{tr 2 2, $$ - 500, rq2179}
+{157}{Gostaria de ser treinado na habilidade de Combate Corpo a Corpo.}{}{5}{tr 2 1, tr 2 -1, sk 2 9,  $$ 500}{213}{tr 2 2, $$ -500, rq2179}
 {158}{Gostaria de ser treinado na habilidade de Detecção de Armadilhas.}{}{5}{tr 7 1, tr 7 -1, sk 7 9,  $$ 500}{235}{tr 7 2, $$ -500, rq2181}
 {159}{Gostaria de ser treinado na habilidade de Armas de Fogo.}{}{5}{tr 13 1, tr 13 -1, sk 13 9,  $$ 500}{244}{tr 13 2,  $$ -500, rq2182}
 {160}{Quem pode me treinar para ser um Mestre em Esquiva?}{}{5}{tr 1 2, tr 1 -2}{209}{}
@@ -134,8 +134,8 @@
 {163}{Quem pode me treinar para ser um Mestre em Armas de Fogo?}{}{5}{tr 13 2, tr 13 -2}{249}{}
 {164}{Sinto muito, mas não posso pagar seu preço de 500 moedas.}{}{5}{$$ -499}{178}{}
 {165}{Está disposto a negociar a taxa?}{}{5}{ha 11}{181}{}
-{166}{Quero aprender Esquiva agora.}{}{-4}{tr 1 1, tr 1 -1, sk 1 9,  $$ 500}{204}{tr 1 2,  $$ -500, rq2178}
-{167}{Eu vou aprender Combate Corpo a Corpo agora.}{}{-4}{tr 2 1, tr 2 -1, sk 2 9,  $$ 500}{213}{tr 2 2, $$ - 500, rq2179}
+{166}{Eu vou aprender Esquiva agora.}{}{-4}{tr 1 1, tr 1 -1, sk 1 9,  $$ 500}{204}{tr 1 2,  $$ -500, rq2178}
+{167}{Eu vou aprender Combate Corpo a Corpo agora.}{}{-4}{tr 2 1, tr 2 -1, sk 2 9,  $$ 500}{213}{tr 2 2, $$ -500, rq2179}
 {168}{Eu vou aprender a Detectar Armadilhas agora.}{}{-4}{tr 7 1, tr 7 -1, sk 7 9,  $$ 500}{235}{tr 7 2, $$ -500, rq2181}
 {169}{Eu vou aprender Armas de Fogo agora.}{}{-4}{tr 13 1, tr 13 -1, sk 13 9,  $$ 500}{244}{tr 13 2,  $$ -500, rq2182}
 {170}{Quem foi esse cara que me tornou Mestre em Esquiva?}{}{-4}{tr 1 2, tr 1 -2}{209}{}
@@ -160,8 +160,8 @@
 {189}{Eu vou aprender Armas de Fogo agora.}{}{-4}{tr 13 1, tr 13 -1, sk 13 9,  $$ 300}{244}{tr 13 2, $$ -300, rq2182}
 {190}{F:}{}{1}{}{47}{}
 {191}{E:}{}{1}{}{0}{}
-{193}{O senhor me ofendeu! Retire o que disse ou exigirei satisfação. Escolha suas palavras com cuidado...}{O senhor me ofendeu! Retire o que disse ou exigirei satisfação. Escolha suas palavras com cuidado...}{}{}{}{}
-{194}{Peço desculpas e retiro minhas palavras.}{}{5}{}{47}{}
+{193}{O senhor me ofendeu! Retire o que disse ou exigirei satisfação. Escolha suas palavras com cuidado...}{A senhora me ofendeu! Retire o que disse ou exigirei satisfação. Escolha suas palavras com cuidado...}{}{}{}{}
+{194}{Peço desculpas e retiro o que disse.}{}{5}{}{47}{}
 {195}{Tarant venceu a Guerra, eles são superiores. Não retiro nada.}{}{5}{}{0}{lf 5 1,co , fl 254}
 {196}{Eu sinto muito.}{}{-4}{}{47}{}
 {197}{Eu digo que não sinto muito. Eu digo que você vai morrer!}{}{-4}{}{0}{lf 5 1,co , fl 254}
@@ -175,7 +175,7 @@
 {205}{Quem poderia me treinar para ser um mestre em esquiva?}{}{5}{}{209}{}
 {206}{Obrigado pela sua ajuda.}{}{5}{}{0}{}
 {207}{Eu quero saber quem é o mestre da esquiva?}{}{-4}{}{209}{}
-{208}{Eu digo valeu.}{}{-4}{}{0}{}
+{208}{Me diz valeu.}{}{-4}{}{0}{}
 {209}{Por mais incrível que pareça, o mestre da esquiva é um eremita cego chamado Adkin Chambers. Ele foi cegado e desfigurado em um duelo, por um golpe desleal desferido depois que ele já havia se rendido. Essas coisas são esperadas na guerra, mas não em um duelo de armas. Agora ele se esconde da sociedade nos arredores de Stillwater.}{Por mais incrível que pareça, o mestre da esquiva é um eremita cego chamado Adkin Chambers. Ele foi cegado e desfigurado em um duelo, por um golpe desleal desferido depois que ele já havia se rendido. Essas coisas são esperadas na guerra, mas não em um duelo de armas. Agora ele se esconde da sociedade nos arredores de Stillwater.}{}{}{}{ru 2163}
 {210}{Conte-me mais sobre esse duelo.}{}{5}{}{198}{}
 {211}{Eu quero saber mais.}{}{-4}{}{198}{}
@@ -183,8 +183,8 @@
 {214}{Quem poderia me treinar para ser um mestre em combate corpo a corpo?}{}{5}{}{218}{}
 {215}{Obrigado pela sua expertise.}{}{5}{}{0}{}
 {216}{Eu quero saber quem é o mestre do combate corpo a corpo.}{}{-4}{}{218}{}
-{217}{Eu digo valeu.}{}{-4}{}{0}{}
-{218}{Garrick Stout é o mestre do combate corpo a corpo. Ele provou ser o melhor em inúmeros duelos de armas. Sua habilidade é lendária e respeitada por todo o Arcanum, mas sua proeza gerou arrogância em seu caráter. É lamentável que tantos o procurem por sua "sabedoria".}{Garrick Stout é o mestre do combate corpo a corpo. Ele provou ser o melhor em inúmeros duelos de armas. Sua habilidade é lendária e respeitada por todo o Arcanum, mas sua proeza gerou arrogância em seu caráter. É lamentável que tantos o procurem por sua "sabedoria".}{}{}{}{ru 2164}
+{217}{Me diz valeu.}{}{-4}{}{0}{}
+{218}{Garrick Stout é o mestre do combate corpo a corpo. Ele provou ser o melhor em inúmeros duelos. Sua habilidade é lendária e respeitada por todo o Arcanum, mas sua proeza gerou arrogância em seu caráter. É lamentável que tantos o procurem por sua "sabedoria".}{Garrick Stout é o mestre do combate corpo a corpo. Ele provou ser o melhor em inúmeros duelos. Sua habilidade é lendária e respeitada por todo o Arcanum, mas sua proeza gerou arrogância em seu caráter. É lamentável que tantos o procurem por sua "sabedoria".}{}{}{}{ru 2164}
 {219}{Você não deveria invejar a habilidade de um mestre.}{}{5}{}{257}{}
 {220}{É uma pena... a arrogância é um luxo de tolos.}{}{5}{}{227}{}
 {221}{Não vamos discutir isso mais.}{}{5}{}{47}{}

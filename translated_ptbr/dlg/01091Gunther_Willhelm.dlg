@@ -6,7 +6,7 @@
 {6}{E:}{}{5}{}{0}{}
 {7}{E:}{}{-4}{}{0}{}
 {10}{[O homem magro à sua frente está muito bem vestido - em vez de robes, ele usa um terno finamente feito. Um par de óculos dourados e finos repousa sobre seu nariz. Seus traços são delicados, mas seus olhos revelam uma força física e de caráter, além de abrigar uma inteligência feroz. Ele o observa, intensamente.] Talvez. Eu sou Willhelm. Gunther Willhelm.}{[O homem magro à sua frente está muito bem vestido - em vez de robes, ele usa um terno finamente feito. Um par de óculos dourados e finos repousa sobre seu nariz. Seus traços são delicados, mas seus olhos revelam uma força física e de caráter, além de abrigar uma inteligência feroz. Ele o observa, intensamente.] Talvez. Eu sou Willhelm. Gunther Willhelm.}{}{}{}{}
-{11}{Um prazer, cavalheiro. O que exatamente o senhor faz aqui?}{}{5}{}{15}{}
+{11}{Um prazer, senhor. Em que exatamente o senhor trabalha aqui?}{}{5}{}{15}{}
 {12}{Oi, Goonter. Tem perguntas}{}{-4}{}{260}{}
 {15}{Sou o historiador da igreja. Tenho diversas responsabilidades aqui, desde traduções até restaurações de documentos, além da autenticação de quaisquer achados literários. Se está escrito e tem a ver com os Panarii, é meu trabalho saber sobre isso. Isso responde à sua pergunta?}{Sou o historiador da igreja. Tenho diversas responsabilidades aqui, desde traduções até restaurações de documentos, além da autenticação de quaisquer achados literários. Se está escrito e tem a ver com os Panarii, é meu trabalho saber sobre isso. Isso responde à sua pergunta?}{}{}{}{}
 {16}{Sim, e muito bem. Posso lhe fazer algumas perguntas?}{}{5}{}{20}{}
@@ -45,15 +45,15 @@
 {61}{Você diz 'supostamente', Gunther. Você não acredita?}{}{5}{}{63}{}
 {63}{[Gunther sorri para você.] Não há dúvida em minha mente de que Mannox foi um homem muito santo. Minha crença em um conjunto inconclusivo de circunstâncias não invalida esse fato, independentemente de como isso possa refletir na minha própria fé...}{[Gunther sorri para você.] Não há dúvida em minha mente de que Mannox foi um homem muito santo. Minha crença em um conjunto inconclusivo de circunstâncias não invalida esse fato, independentemente de como isso possa refletir na minha própria fé...}{}{}{}{}
 {64}{Mas ouvi dizer que houve testemunhas oculares do evento...}{}{5}{gf2025 1}{78}{}
-{65}{Houve alguma testemunha ocular do evento?}{}{5}{gf2025 0}{78}{}
+{65}{Havia alguma testemunha ocular do evento?}{}{5}{gf2025 0}{78}{}
 {70}{O que você gostaria de saber sobre São Mannox?}{O que você gostaria de saber sobre São Mannox?}{}{}{}{}
 {71}{Você acredita na ascensão, Gunther?}{}{5}{}{63}{}
 {72}{O que mais você sabe sobre ele, Gunther?}{}{5}{}{85}{}
 {73}{Alexander parecia um pouco... estranho... ao falar dele...}{}{5}{gf2026 1}{85}{}
 {74}{Vamos falar das testemunhas oculares de sua ascensão...}{}{5}{gf2025 1}{78}{}
-{75}{Houve alguma testemunha ocular de sua ascensão?}{}{5}{gf2025 0}{78}{}
+{75}{Havia alguma testemunha ocular de sua ascensão?}{}{5}{gf2025 0}{78}{}
 {76}{E:}{}{5}{}{0}{}
-{78}{Houve duas testemunhas oculares da ascensão de Mannox - dois elfos. Um era um elfo chamado R'aan-Dar, e o outro... qual era o nome dele... K'an Hua, creio. Seus relatos do incidente eram quase idênticos, e ambos foram lindamente escritos...}{Houve duas testemunhas oculares da ascensão de Mannox - dois elfos. Um era um elfo chamado R'aan-Dar, e o outro... qual era o nome dele... K'an Hua, creio. Seus relatos do incidente eram quase idênticos, e ambos foram lindamente escritos...}{}{}{}{lf3 1}
+{78}{Houve duas testemunhas oculares da ascensão de Mannox. Uma era um elfo chamado R'aan-Dar, e o outro... qual era o nome dele... K'an Hua, creio eu. Seus relatos do incidente eram quase idênticos, e ambos foram lindamente escritos...}{Houve duas testemunhas oculares da ascensão de Mannox. Uma era um elfo chamado R'aan-Dar, e o outro... qual era o nome dele... K'an Hua, creio eu. Seus relatos do incidente eram quase idênticos, e ambos foram lindamente escritos...}{}{}{}{lf3 1}
 {79}{Alexander parecia um pouco... estranho... ao falar dele...}{}{5}{gf2026 1}{88}{}
 {80}{K'an Hua? Não é a mesma pessoa que encontrou os restos mortais?}{}{5}{lf4 1}{134}{}
 {81}{Mais algumas perguntas sobre Mannox...}{}{5}{}{70}{}
@@ -86,7 +86,7 @@
 {117}{Os registros da igreja dizem quem os descobriu?}{}{5}{}{126}{}
 {118}{Mais algumas perguntas gerais sobre o seu trabalho...}{}{5}{}{30}{}
 {119}{E:}{}{5}{}{0}{}
-{121}{[Ele baixa a voz.] Para ser sincero, eu realmente não sei. Fiz muitas pesquisas sobre as gravações no sarcófago... tudo parece estar em ordem... só me parece que é tudo muito conveniente. Quer dizer, quem o enterrou? Não temos registros disso. Não há dúvida de que um elfo de sua estatura teria recebido um enterro elaborado, mas quem o fez? Não sabemos...}{[Ele baixa a voz.] Para ser sincero, eu realmente não sei. Fiz muitas pesquisas sobre as gravações no sarcófago... tudo parece estar em ordem... só me parece que é tudo muito conveniente. Quer dizer, quem o enterrou? Não temos registros disso. Não há dúvida de que um elfo de sua estatura teria recebido um enterro elaborado, mas quem o fez? Não sabemos...}{}{}{}{}
+{121}{[Ele baixa a voz.] Para dizer a verdade, eu realmente não sei. Fiz muitas pesquisas sobre as gravações no sarcófago... tudo parece estar em ordem... só me parece que é tudo muito conveniente. Quer dizer, quem o enterrou? Não temos registros disso. Não há dúvida de que um elfo de sua estatura teria recebido um enterro elaborado, mas quem o fez? Não sabemos...}{[Ele baixa a voz.] Para dizer a verdade, eu realmente não sei. Fiz muitas pesquisas sobre as gravações no sarcófago... tudo parece estar em ordem... só me parece que é tudo muito conveniente. Quer dizer, quem o enterrou? Não temos registros disso. Não há dúvida de que um elfo de sua estatura teria recebido um enterro elaborado, mas quem o fez? Não sabemos...}{}{}{}{}
 {122}{Os registros da igreja dizem quem os descobriu?}{}{5}{}{126}{}
 {123}{Mais algumas perguntas gerais sobre o seu trabalho...}{}{5}{}{30}{}
 {124}{E:}{}{5}{}{0}{}
@@ -107,16 +107,16 @@
 {143}{Não. Tenho outra história... [Conte-lhe tudo o que aconteceu.]}{}{5}{}{147}{}
 {144}{Hmm... acho que talvez tenha ouvido falar de passagem...}{}{5}{}{161}{lf7 1}
 {145}{E:}{}{5}{}{0}{}
-{147}{Entendo. [Gunther o estuda por um momento, calculando.] Você está me dizendo que VOCÊ é o único sobrevivente do acidente do dirigível IFS Zephyr?}{Entendo. [Gunther o estuda por um momento, calculando.] Você está me dizendo que VOCÊ é o único sobrevivente do acidente do dirigível IFS Zephyr?}{}{}{}{}
+{147}{Entendo. [Gunther o observa por um momento, calculando.] Você está me dizendo que VOCÊ é o único sobrevivente do acidente do dirigível IFS Zephyr?}{Entendo. [Gunther o observa por um momento, calculando.] Você está me dizendo que VOCÊ é o único sobrevivente do acidente do dirigível IFS Zephyr?}{}{}{}{}
 {148}{Sim.}{}{5}{}{152}{lf6 1, lf7 0}
 {149}{Não... eu estava falando de outra pessoa...}{}{5}{}{161}{lf7 1, lf6 0}
 {150}{E:}{}{5}{}{0}{}
-{152}{[Gunther fica em silêncio por um longo tempo. Então, um leve sorriso surge em seu rosto, e ele segura sua mão.] Eu estava me perguntando quando você ia me contar. Estou procurando por você há muito tempo, sabia? Os rumores são muitos, e ouvimos dizer que você poderia aparecer. Estou muito feliz que tenha decidido confiar em mim...}{[Gunther fica em silêncio por um longo tempo. Então, um leve sorriso surge em seu rosto, e ele segura sua mão.] Eu estava me perguntando quando você ia me contar. Estou procurando por você há muito tempo, sabia? Os rumores são muitos, e ouvimos dizer que você poderia aparecer. Estou muito feliz que tenha decidido confiar em mim...}{}{}{}{ru 2068}
+{152}{[Gunther fica em silêncio por um bom tempo. Então, um leve sorriso aparece em seu rosto, e ele segura sua mão.] Eu estava me perguntando quando você ia me contar. Estou procurando por você há muito tempo, sabe. Os rumores são muitos, e ouvimos dizer que você poderia aparecer. Estou muito feliz que tenha decidido confiar em mim...}{[Gunther fica em silêncio por um bom tempo. Então, um leve sorriso aparece em seu rosto, e ele segura sua mão.] Eu estava me perguntando quando você ia me contar. Estou procurando por você há muito tempo, sabe. Os rumores são muitos, e ouvimos dizer que você poderia aparecer. Estou muito feliz que tenha decidido confiar em mim...}{}{}{}{ru 2068}
 {153}{Obrigado, Gunther. Eu realmente preciso ver esses restos...}{}{5}{}{155}{}
 {155}{Escute, meu amigo. Nem todos aqui são simpáticos à sua causa. Hadrian, o arqueólogo, é a pessoa com quem você precisa falar, mas tenha muito cuidado... ele é um velho e leal amigo, mas a crença em você virá devagar. Ele será a melhor fonte de informações sobre os restos e como você pode vê-los, mas ande com cuidado... subterfúgio pode ser necessário...}{Escute, meu amigo. Nem todos aqui são simpáticos à sua causa. Hadrian, o arqueólogo, é a pessoa com quem você precisa falar, mas tenha muito cuidado... ele é um velho e leal amigo, mas a crença em você virá devagar. Ele será a melhor fonte de informações sobre os restos e como você pode vê-los, mas ande com cuidado... subterfúgio pode ser necessário...}{}{}{}{ru 2071}
 {156}{Vou me lembrar disso, Gunther. Obrigado pela sua ajuda...}{}{5}{}{158}{}
 {158}{Não... obrigado, meu amigo. Volte aqui depois de ver os restos e me conte o que encontrou... Talvez eu possa ajudá-lo quando souber o que está procurando...}{Não... obrigado, meu amigo. Volte aqui depois de ver os restos e me conte o que encontrou... Talvez eu possa ajudá-lo quando souber o que está procurando...}{}{}{}{lf10 1}
-{159}{Eu irei, Gunther. Adeus...}{}{5}{}{0}{}
+{159}{Vou fazer isso, Gunther. Adeus...}{}{5}{}{0}{}
 {161}{Entendo. [Gunther o observa por um momento, calculando.] Bem, se são os restos que lhe interessam, procure Hadrian, o arqueólogo-ele terá mais respostas para você.}{Entendo. [Gunther o observa por um momento, calculando.] Bem, se são os restos que lhe interessam, procure Hadrian, o arqueólogo-ele terá mais respostas para você.}{}{}{}{lf10 1}
 {162}{Claro, Gunther. Obrigado pela ajuda, e tenha um bom dia.}{}{5}{}{0}{}
 {165}{Fale com Hadrian e depois volte a mim... talvez tenhamos mais o que conversar...}{Fale com Hadrian e depois volte a mim... talvez tenhamos mais o que conversar...}{}{}{}{}
@@ -128,7 +128,7 @@
 {177}{[Gunther pensa por um momento.] Não faço ideia do que o anel quebrado representa, mas as duas palavras estão escritas em antigo Panarum-uma língua morta que já foi usada pelos líderes da igreja. A primeira palavra significa 'espelho' ou 'oposto'... e a segunda palavra significa 'verdade'. Quanto ao significado da mensagem inteira, estou perdido. Acho que podemos supor que Mannox estava tentando nos dizer algo...}{[Gunther pensa por um momento.] Não faço ideia do que o anel quebrado representa, mas as duas palavras estão escritas em antigo Panarum-uma língua morta que já foi usada pelos líderes da igreja. A primeira palavra significa 'espelho' ou 'oposto'... e a segunda palavra significa 'verdade'. Quanto ao significado da mensagem inteira, estou perdido. Acho que podemos supor que Mannox estava tentando nos dizer algo...}{}{}{}{ru 2072}
 {178}{E o que VOCÊ encontrou, Gunther?}{}{5}{lf9 0}{181}{lf9 1}
 {179}{Então, onde estão os restos dele?}{}{5}{lf9 1}{193}{}
-{181}{Lembra que eu disse que estava trabalhando naquelas traduções mais antigas? Encontrei outro trecho que é inconsistente com o Arqueão que lemos hoje. Você já ouviu o trecho que fala sobre o local de descanso final de Nasrudin...?}{Lembra que eu disse que estava trabalhando naquelas traduções mais antigas? Encontrei outro trecho que é inconsistente com o Arqueão que lemos hoje. Você já ouviu o trecho que fala sobre o local de descanso final de Nasrudin...?}{}{}{}{}
+{181}{Lembra que eu disse que estava trabalhando naquelas traduções mais antigas? Encontrei outro trecho que é inconsistente com o Archaeon que lemos hoje. Já ouviu o trecho que fala sobre o local de descanso final de Nasrudin...?}{Lembra que eu disse que estava trabalhando naquelas traduções mais antigas? Encontrei outro trecho que é inconsistente com o Archaeon que lemos hoje. Já ouviu o trecho que fala sobre o local de descanso final de Nasrudin...?}{}{}{}{}
 {182}{Sim... Alexander me contou...}{}{5}{gf2021 1}{185}{}
 {183}{Não, nunca ouvi...}{}{5}{gf2021 0}{185}{}
 {185}{Bem, o Arqueão de hoje diz "...Nasrudin viajou até a ponta mais ao sul da terra e lá descansou." A cópia que tenho traduzido diz quase a mesma coisa, exceto por uma pequena diferença. Diz "...Nasrudin ATRAVESSOU AS ÁGUAS e viajou até a ponta mais ao sul da terra."}{Bem, o Arqueão de hoje diz "...Nasrudin viajou até a ponta mais ao sul da terra e lá descansou." A cópia que tenho traduzido diz quase a mesma coisa, exceto por uma pequena diferença. Diz "...Nasrudin ATRAVESSOU AS ÁGUAS e viajou até a ponta mais ao sul da terra." Você sabe o que isso significa?}{}{}{}{gf2037 1, gf2040 1}
@@ -182,7 +182,7 @@
 {263}{Ainda preciso encontrar Nasrudin, Goonter!}{}{-4}{lf13 1, gf2020 0}{300}{}
 {264}{Encontrei o diário de Manix, Goonter!}{}{-4}{gf2020 1}{320}{}
 {265}{E:}{}{-4}{}{0}{}
-{270}{Infelizmente, não sou a pessoa com quem falar. Seus restos estão nas catacumbas inferiores... Alexander pode lhe mostrar onde. Mas o homem com quem realmente quer falar é Hadrian, o arqueólogo. Seu escritório fica logo ali no corredor.}{Infelizmente, não sou a pessoa com quem deveria falar. Seus restos estão nas catacumbas inferiores... Alexander pode lhe mostrar onde. Mas o homem com quem você realmente deveria falar é Hadrian, o arqueólogo. Seus escritórios ficam logo ali no corredor.}{}{}{}{}
+{270}{Infelizmente, não sou a pessoa com quem deveria falar. Seus restos estão nas catacumbas inferiores... Alexander pode lhe mostrar onde. Mas o homem com quem você realmente deveria falar é Hadrian, o arqueólogo. Seus escritórios ficam logo ali no corredor.}{Infelizmente, não sou a pessoa com quem deveria falar. Seus restos estão nas catacumbas inferiores... Alexander pode lhe mostrar onde. Mas o homem com quem você realmente deveria falar é Hadrian, o arqueólogo. Seus escritórios ficam logo ali no corredor.}{}{}{}{}
 {271}{Hã... tá bom. O que você faz, Goonter?}{}{-4}{}{275}{}
 {272}{Perguntas!}{}{-4}{}{260}{}
 {273}{E:}{}{-4}{}{0}{}
@@ -204,10 +204,10 @@
 {296}{Uma mensagem de Mannox, talvez? O que isso significa? Essas duas palavras estão em antigo Panarum - uma língua morta usada antigamente pelos anciãos da igreja. A primeira significa 'espelho' ou 'oposto', e a segunda significa 'verdade'. Não faço ideia do que o anel quebrado representa. Muito, muito estranho...}{Uma mensagem de Mannox, talvez? O que isso significa? Essas duas palavras estão em antigo Panarum - uma língua morta usada antigamente pelos anciãos da igreja. A primeira significa 'espelho' ou 'oposto', e a segunda significa 'verdade'. Não faço ideia do que o anel quebrado representa. Muito, muito estranho...}{}{}{}{lf13 1, ru 2072}
 {297}{Goonter! Preciso encontrar Nasrudin! Me ajude!}{}{-4}{}{300}{}
 {298}{E:}{}{-4}{}{0}{}
-{300}{Bem, encontrei uma pista... lembra que eu estava trabalhando na tradução da cópia mais antiga do Arqueon?}{Bem, encontrei uma pista... lembra que eu estava trabalhando na tradução da cópia mais antiga do Archeon?}{}{}{}{}
+{300}{Bem, encontrei uma pista... lembra que eu estava trabalhando na tradução da cópia mais antiga do Archeon?}{Bem, encontrei uma pista... lembra que eu estava trabalhando na tradução da cópia mais antiga do Archeon?}{}{}{}{}
 {301}{Tra-du-zir Ar-que-on?... Hã...}{}{-4}{}{304}{}
 {302}{E:}{}{-4}{}{0}{}
-{304}{Esquece. Há uma passagem que descreve onde Nasrudin morreu... o Arqueon de hoje diz: "...Nasrudin viajou até a ponta mais ao sul da terra e lá se deitou para descansar."}{Esquece. Há uma passagem que descreve onde Nasrudin morreu... o Archeon de hoje diz: "...Nasrudin viajou até a ponta mais ao sul da terra e lá se deitou para descansar."}{}{}{}{}
+{304}{Esquece. Há uma passagem que descreve onde Nasrudin morreu... o Archeon de hoje diz: "...Nasrudin viajou até a ponta mais ao sul da terra e lá se deitou para descansar."}{Esquece. Há uma passagem que descreve onde Nasrudin morreu... o Archeon de hoje diz: "...Nasrudin viajou até a ponta mais ao sul da terra e lá se deitou para descansar."}{}{}{}{}
 {305}{Hã... o quê?}{}{-4}{}{308}{}
 {306}{E:}{}{-4}{}{0}{}
 {308}{Só escute... a cópia mais antiga que tenho traduzido diz quase a mesma coisa, exceto por uma pequena diferença. Ela diz: "...Nasrudin ATRAVESSOU AS ÁGUAS e viajou até a ponta mais ao sul da terra."}{Só escute... a cópia mais antiga que tenho traduzido diz quase a mesma coisa, exceto por uma pequena diferença. Ela diz: "...Nasrudin ATRAVESSOU AS ÁGUAS e viajou até a ponta mais ao sul da terra."}{}{}{}{}
@@ -222,7 +222,7 @@
 {321}{Olha! [Mostre-lhe o diário.]}{}{-4}{}{323}{}
 {323}{Você precisa mostrar isso para Alexander, se ainda não o fez. Talvez não saiba, mas ele é um descendente direto de Mannox... sua família ocupa o cargo de Primeiro Acólito há 1500 anos. Ele vai ficar MUITO interessado em chegar ao fundo disso...}{Você precisa mostrar isso para Alexander. Talvez não saiba, mas ele é um descendente direto de Mannox... sua família ocupa o cargo de Primeiro Acólito há 1500 anos. Ele vai ficar MUITO interessado em chegar ao fundo disso...}{}{}{}{ru 2069, ru 2074}
 {324}{Hã... eu mostro pro 'Zander, Goonter! Tchau!}{}{-4}{}{}{lf11 1, fl 326}
-{326}{E adeus para você também, meu amigo. Desejo-lhe a melhor das sortes, onde quer que sua busca o leve...}{E adeus para você também, meu amigo. Desejo-lhe a melhor das sortes, onde quer que sua busca o leve...}{}{}{}{}
+{326}{E adeus a você também, meu amigo. Desejo-lhe toda a sorte do mundo, onde quer que sua jornada o leve...}{E adeus a você também, meu amigo. Desejo-lhe toda a sorte do mundo, onde quer que sua jornada o leve...}{}{}{}{}
 {328}{Posso lhe dizer uma coisa... as duas palavras na mensagem que você viu... a primeira significa 'oposto' e a segunda significa 'verdade'. Quanto ao anel quebrado... não faço ideia...}{Posso lhe dizer uma coisa... as duas palavras na mensagem que você viu... a primeira significa 'oposto' e a segunda significa 'verdade'. Quanto ao anel quebrado... não faço ideia...}{}{}{}{ru 2072}
 {329}{Interessante. Bem, eu realmente preciso ir...}{}{5}{lf12 0}{227}{}
 {330}{Obrigado, Gunther. Vou investigar mais sobre isso...}{}{5}{lf12 1}{}{lf14 1, fl 332}

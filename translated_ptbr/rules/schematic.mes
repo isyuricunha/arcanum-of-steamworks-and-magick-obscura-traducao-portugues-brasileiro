@@ -691,6 +691,15 @@ example:
 {4455}{8229 8230 8231} //Result
 {4456}{1} // Result Amount
 
+//Charged Axe
+{4460}{632} //Name
+{4461}{633} //Description
+{4462}{789} //Drawing
+{4463}{15109} //Large Capacitor
+{4464}{6069} //Ultralite Axe
+{4465}{6132} //Result
+{4466}{1} // Result Amount
+
 //4600-4799 Explosives Schematics (Found)
 
 //Pyrotechnic Bow
@@ -760,7 +769,7 @@ example:
 {4670}{694} //Name
 {4671}{695} //Description
 {4672}{711} //Drawing
-{4673}{15132} //Stun Grenade
+{4673}{15152} //Stun Grenade
 {4674}{10075} //Poison
 {4675}{15165} //Result
 {4676}{1} // Result Amount
@@ -946,7 +955,7 @@ example:
 {5042}{366} //Drawing
 {5043}{15066} //Mechanized Arachnid
 {5044}{10084} //Wonder Drug
-{5045}{15176} //Result
+{5045}{15212} //Result
 {5046}{1} // Result Amount
 
 //Illuminated Decoy
@@ -955,7 +964,7 @@ example:
 {5052}{515} //Drawing
 {5053}{15116} //Clockwork Decoy
 {5054}{15070} //Electric Light
-{5055}{15176} //Result
+{5055}{15170} //Result
 {5056}{1} // Result Amount
 
 //Explosive Decoy
@@ -1020,7 +1029,7 @@ example:
 {5222}{733} //Drawing
 {5223}{6069} //Ultralite Axe
 {5224}{10075} //Poison
-{5225}{6038} //Result
+{5225}{6131} //Result
 {5226}{1} // Result Amount
 
 //Miner's Helmet

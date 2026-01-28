@@ -2,7 +2,7 @@
 {2}{Sério? E quem você pensa que é para achar isso?}{}{5}{}{10}{lf2 1}
 {3}{Não quero incomodar. Posso perguntar quem é você?}{}{5}{}{15}{}
 {4}{Hã... quem é você, velho?}{}{-4}{}{20}{lf2 1}
-{10}{[Ele olha para você em silêncio, então abre um sorriso.] Esse é o espírito, garoto. Talvez você ainda tenha um pouco de fibra! Eu me chamo Gorrin, mestre do Fosso. Qual é o seu assunto aqui?}{[Ele olha para você em silêncio, então abre um sorriso.] Esse é o espírito, garota! Talvez você ainda tenha um pouco de fibra! Eu me chamo Gorrin, mestre do Fosso. Qual é o seu assunto aqui?}{}{}{}{}
+{10}{[Ele olha para você em silêncio, então abre um sorriso.] Esse é o espírito, garoto. Talvez você ainda tenha um pouco de fibra! Eu me chamo Gorrin, mestre do fosso. Qual o seu assunto aqui?}{[Ele olha para você em silêncio, então abre um sorriso.] Esse é o espírito, garota! Talvez você ainda tenha um pouco de fibra! Eu me chamo Gorrin, mestre do fosso. Qual o seu assunto aqui?}{}{}{}{}
 {11}{Só dando uma olhada, Gorrin. O que é esse "fosso"?}{}{5}{}{39}{}
 {12}{E:}{}{5}{}{0}{}
 {15}{[Ele ri de você.] Não, você não pode. Seus modos de serviçal não vão te levar a lugar nenhum aqui, fracote. Recomendo que encontre outro lugar para bancar o idiota. [Ele vira as costas para você.]}{[Ele ri de você.] Não, você não pode. Seus modos de serviçal não vão te levar a lugar nenhum aqui, fracote. Recomendo que encontre outro lugar para bancar o idiota. [Ele vira as costas para você.]}{}{}{}{}
@@ -18,18 +18,18 @@
 {32}{Olá, garoto. O que o traz de volta por aqui?}{Olá, garota. O que a traz de volta por aqui?}{}{}{}{}
 {33}{K:}{}{1}{}{44}{}
 {34}{E:}{}{1}{}{0}{}
-{39}{Aqui é o Fosso, garoto. Se há algum problema entre dois prisioneiros nesta ilha, geralmente é aqui que se resolve. Aqui, ou com Thorvald Dois-Pedras. Os homens apostam muito nos resultados, e há alguns homens e mulheres que vivem na ilha lutando aqui o tempo todo...}{Aqui é o Fosso, garota. Se há algum problema entre dois prisioneiros nesta ilha, geralmente é aqui que se resolve. Aqui, ou com Thorvald Dois-Pedras. Os homens apostam muito nos resultados, e há alguns homens e mulheres que vivem na ilha lutando aqui o tempo todo...}{}{}{}{}
+{39}{Aqui é o fosso, garoto. Se há algum problema entre dois detentos nesta ilha, geralmente é resolvido aqui. Aqui, ou com Thorvald Dois-Pedras. Os homens apostam muito nos resultados, e há alguns homens e mulheres que vivem na ilha lutando aqui o tempo todo...}{Aqui é o fosso, garota. Se há algum problema entre dois detentos nesta ilha, geralmente é resolvido aqui. Aqui, ou com Thorvald Dois-Pedras. Os homens apostam muito nos resultados, e há alguns homens e mulheres que vivem na ilha lutando aqui o tempo todo...}{}{}{}{}
 {40}{K:}{}{1}{}{44}{}
 {41}{E:}{}{1}{}{0}{}
 {44}{O que é que você precisa saber, garoto?}{O que é que você precisa saber, garota?}{}{}{}{}
-{45}{Estou procurando treinamento avançado em Combate Corpo a Corpo, Gorrin...}{}{5}{lf6 1, tr 2 -1}{155}{et 2 129}
+{45}{Estou procurando treinamento avançado em Luta Corporal, Gorrin...}{}{5}{lf6 1, tr 2 -1}{155}{et 2 129}
 {46}{O que você faz aqui, Gorrin?}{}{5}{lf3 0}{85}{}
 {47}{Estou procurando alguns anões... com quem eu poderia falar sobre isso?}{}{5}{lf3 0, gf2727 0}{90}{}
 {48}{Quem é Thorvald Duas Pedras?}{}{5}{lf3 0, gf2727 0}{60}{}
 {49}{Como se marca uma luta?}{}{5}{gf1060 0, lf5 0, lf3 0}{69}{}
 {50}{Estou aqui para marcar uma luta...}{}{5}{gf1060 1, lf5 0, lf3 0}{75}{}
 {51}{Estou pronto para lutar agora, Gorrin.}{}{5}{lf5 1, lf3 0}{80}{}
-{52}{Você me treina para ser ex-x-p-erto em Ma-nu-seio, Gorun...?}{}{-4}{lf6 1, tr 2 -1}{155}{et 2 129}
+{52}{Você me treina para ser ex-x-p-erto em Lu-ta Cor-po-ral, Gorun...?}{}{-4}{lf6 1, tr 2 -1}{155}{et 2 129}
 {53}{O que você faz, Gorun? Luta?}{}{-4}{lf3 0}{85}{}
 {54}{Estou procurando anões. Você viu algum anão, Gorun?}{}{-4}{lf3 0, gf2727 0}{90}{}
 {55}{Quem é Th-h-orva-ald Cocô de Ossos?}{}{-4}{lf3 0, gf2727 0}{60}{}
@@ -104,8 +104,8 @@
 {147}{Bom, você não vai ser nenhum especialista até conseguir esse dinheiro, garoto...}{Bom, você não vai ser nenhuma especialista até conseguir esse dinheiro, garota...}{}{}{}{}
 {148}{K:}{}{1}{}{44}{}
 {149}{E:}{}{1}{}{0}{}
-{150}{[Gorrin olha atrás de você.] Ah... eu não te contei. Você entra no fosso sozinho, rapaz... não pode levar seus amigos lá para baixo. Eles vão ter que esperar até você terminar a luta. Volte quando estiver pronto...}{[Gorrin olha atrás de você.] Ah... eu não te contei. Você entra no fosso sozinho, rapaz... não pode levar seus amigos lá para baixo. Eles vão ter que esperar até você terminar a luta. Volte quando estiver pronta...}{}{}{}{}
+{150}{[Gorrin olha atrás de você.] Ah... eu não te contei. Você entra no fosso sozinho, rapaz... não pode levar seus amigos lá para baixo. Eles vão ter que esperar até você terminar a luta. Volte quando estiver pronta...}{[Gorrin olha para trás de você.] Ah... eu não te avisei. Você entra no fosso sozinha, garota... não pode levar seus amigos lá para baixo. Eles vão ter que esperar até você terminar a luta. Volte quando estiver pronta...}{}{}{}{}
 {151}{E:}{}{1}{}{0}{}
-{155}{Precisa de mais alguma coisa, rapaz?}{Precisa de mais alguma coisa, rapaz?}{}{}{}{}
+{155}{Precisa de mais alguma coisa, rapaz?}{Precisa de mais alguma coisa, garota?}{}{}{}{}
 {156}{E:}{}{1}{}{0}{}
 

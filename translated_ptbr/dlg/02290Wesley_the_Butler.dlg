@@ -12,7 +12,7 @@
 {14}{E:}{}{1}{}{0}{}
 {16}{Claro, senhor...}{Claro, senhora...}{}{}{}{}
 {17}{Onde posso encontrar o Sr. Victor Misk?}{}{5}{gf2521 0, lf1 0}{30}{lf1 1}
-{18}{Tenho algumas perguntas sobre aquele livro do Sr. Wales...}{}{5}{gf2521 1}{35}{}
+{18}{Tenho algumas perguntas sobre aquele livro do Sr. Wales...}{}{5}{gf2521 1, qa1052 1}{35}{}
 {19}{Nenhuma pergunta por enquanto, Wesley. Tenha um bom dia...}{}{5}{}{0}{}
 {30}{[Seu rosto empalidece.] O senhor não ficou sabendo...? Ah, entendo. Talvez devesse falar com a Sra. Misk. Ela está na sala de estar, senhor...}{[Seu rosto empalidece.] A senhora não ficou sabendo...? Ah, entendo. Talvez devesse falar com a Sra. Misk. Ela está na sala de estar, senhora...}{}{}{}{}
 {31}{Vou fazer isso. Obrigado, Wesley...}{}{5}{}{0}{}
@@ -21,9 +21,9 @@
 {40}{[Ele estreita os olhos para você.] O senhor está insinuando que eu possa ter algo a ver com isso, senhor...?}{[Ele estreita os olhos para você.] A senhora está insinuando que eu possa ter algo a ver com isso, senhora...?}{}{}{}{lf5 1}
 {41}{Não foi isso que eu disse, Wesley. Talvez você possa me ajudar...}{}{5}{gf2520 0}{45}{re +5}
 {42}{Você parece bastante nervoso com a situação, Wesley...}{}{5}{gf2520 0}{55}{re -10}
-{43}{O que pode me dizer sobre Elmer Burbottom, Wesley?}{}{5}{gf2520 1}{69}{}
+{43}{O que pode me contar sobre Elmer Burbottom, Wesley?}{}{5}{gf2520 1}{69}{}
 {44}{Claro que não. Despeço-me do senhor...}{}{5}{gf2520 0}{0}{}
-{45}{[Ele parece aliviado.] Ótimo, ótimo. Tenho sido um servo leal dos Misk por muitos anos. Odiarei pensar que a Sra. Misk não confia mais em mim...}{[Ele parece aliviado.]  Bom, bom. Tenho sido um servo leal dos Misk por muitos anos. Odiaría pensar que a Sra. Misk não confia mais em mim...}{}{}{}{}
+{45}{[Ele parece aliviado.]  Bom, bom. Tenho sido um servo leal dos Misk por muitos anos. Odiaría pensar que a Sra. Misk não confia mais em mim...}{[Ele parece aliviado.]  Bom, bom. Tenho sido um servo leal dos Misk por muitos anos. Odiaría pensar que a Sra. Misk não confia mais em mim...}{}{}{}{}
 {46}{Hmmm. Há algo que você saiba que possa me ajudar?}{}{5}{}{49}{}
 {49}{[Ele olha ao redor, baixando a voz.] Não sou de falar mal das pessoas, mas se está procurando um lugar para começar sua busca, eu não iria além de Brinda, a empregada. Ela pode não parecer, mas é...[Ele está quase sussurrando.]...uma MEIO-ORC. Nunca se sabe...}{[Ele olha ao redor, baixando a voz.] Não sou de falar mal das pessoas, mas se está procurando um lugar para começar sua busca, eu não iria além de Brinda, a empregada. Ela pode não parecer, mas é...[Ele está quase sussurrando.]...uma MEIO-ORC. Nunca se sabe...}{}{}{}{}
 {50}{Uma teoria interessante, Wesley. Há mais alguma coisa que possa me contar?}{}{5}{}{52}{}

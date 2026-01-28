@@ -69,7 +69,7 @@
 {59}{Aceitará a tarefa, então?}{Aceitará a tarefa, então?}{}{}{}{}
 	{60}{Às suas ordens, sire.}{}{5}{}{0}{ qu1000 2, re +10}
 	{61}{Lamento, mas não posso.}{}{5}{}{63}{re +5}
-	{62}{Se sua filha não fosse tão terrível de se olhar, talvez eu aceitasse.}{}{5}{}{0}{fl 173, co}
+	{62}{Se sua filha não fosse tão terrível de se ver, talvez eu ficasse.}{}{5}{}{0}{fl 173, co}
 
 {63}{Volte se mudar de ideia.}{Volte se mudar de ideia.}{}{}{}{}
 	{64}{E:}{}{5}{}{0}{}
@@ -116,9 +116,9 @@
 
 {109}{Excelente!! Obrigado por recuperar os impostos, aqui está sua parte.}{Excelente!! Obrigado por recuperar os impostos, aqui está sua parte.}{}{}{}{qu 1000 4, $$ 200}
 	{110}{Valia mais do que 200 moedas.}{}{5}{pa-6408, ps 8}{114}{$$ 75}
-	{111}{Dante foi fundamental na recuperação dos impostos.}{}{5}{pa6408}{380}{$$ 75}
+	{111}{Dante foi fundamental na recuperação dos impostos.}{}{5}{pa6408}{380}{}
 	{112}{Mais alguma coisa, milorde?}{}{5}{pa-6408}{410}{}
-	{113}{Valia mais do que 200 moedas.}{}{5}{pa6408, ps 8}{}{$$ 75}
+	{113}{Valia mais do que 200 moedas.}{}{5}{pa6408, ps 8}{390}{$$ 75}
 
 {114}{Normalmente, eu jamais renegociaria um pagamento combinado. No seu caso, porém, sinto-me inclinado a abrir uma exceção. Aqui estão mais 75 pelas suas dificuldades.}{Normalmente, eu jamais renegociaria um pagamento combinado. No seu caso, porém, sinto-me inclinado a abrir uma exceção. Aqui estão mais 75 pelas suas dificuldades.}{}{}{}{}
 	{115}{Mais alguma tarefa para um humilde servo?}{}{5}{}{410}{}
@@ -250,8 +250,8 @@
 
 {207}{Está feito? Está feito?}{Está feito? Está feito?}{}{}{}{}
 	{208}{Ainda não.}{}{5}{}{177}{}
-	{209}{Mudei de ideia. Não posso matá-lo.}{}{5}{}{0}{fl 211}
-	{210}{Eu estava enganado, ela pereceu em um naufrágio.}{}{5}{}{0}{fl 211}
+	{209}{Mudei de ideia. Não posso matá-lo.}{}{5}{}{0}{fl 211, qu1002 6}
+	{210}{Eu estava enganado, ela pereceu em um naufrágio.}{}{5}{}{0}{fl 211, qu1002 6}
 
 {211}{Não falaremos mais disso.}{Não falaremos mais disso.}{}{}{}{}
 
@@ -382,7 +382,7 @@
 	{351}{Ele só deseja servi-lo novamente, Vossa Majestade.}{}{5}{}{-89}{}
 	{352}{Toque nele e morrerá.}{}{5}{}{0}{fl 176, co}
 
-{360}{Ela diz a verdade, milorde. Estou aqui apenas como humilde serva de @pcname@. Peço desculpas pela minha presença, meu único desejo é provar minha devoção, para que um dia possa voltar a servi-lo.}{Ela diz a verdade, milorde. Estou aqui apenas como humilde serva de @pcname@. Peço desculpas pela minha presença, meu único desejo é provar minha devoção, para que um dia possa voltar a servi-lo.}{}{}{}{}
+{360}{Ele diz a verdade, milorde. Estou aqui apenas como humilde servo de @pcname@. Peço desculpas pela minha presença, meu único desejo é provar minha devoção, para que um dia eu possa voltar a servi-lo.}{Ela diz a verdade, milorde. Estou aqui apenas como humilde serva de @pcname@. Peço desculpas pela minha presença, meu único desejo é provar minha devoção, para que um dia eu possa voltar a servi-lo.}{}{}{}{}
 
 {370}{Cadela covarde! Tolerarei sua presença apenas enquanto seu "mestre" estiver aqui para falar por você. [Ele se vira para você.] Agora, o que tem a me dizer?}{Cadela covarde! Tolerarei sua presença apenas enquanto seu "mestre" estiver aqui para falar por você. [Ele se vira para você.] Agora, o que tem a me dizer?}{}{}{}{}
 	{371}{Q:1000}{}{1}{}{1}{}

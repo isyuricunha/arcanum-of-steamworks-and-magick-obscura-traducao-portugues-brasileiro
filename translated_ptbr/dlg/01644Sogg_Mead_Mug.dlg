@@ -67,10 +67,10 @@
 {78}{E:}{}{1}{}{0}{}
 {79}{Como posso [HIC!] te ajudar?}{Como posso [HIC!] te ajudar?}{}{}{}{}
 {80}{B:}{}{1}{wa 0}{}{}
-{81}{K:}{}{5}{wa 0}{87}{}
+{81}{K:}{}{1}{wa 0}{87}{}
 {82}{Gostaria que fizesse algo por mim, Sogg...}{}{5}{wa 0}{190}{}
 {83}{Preciso que faça algo, Soggy...}{}{-4}{wa 0}{190}{}
-{84}{Pode parar de esperar agora, Sogg...}{}{5}{wa 1}{222}{uw 0 208}
+{84}{Pode parar de esperar agora, Molenga...}{}{5}{wa 1}{222}{uw 0 208}
 {85}{Você pode parar de esperá, Soggy!}{}{-4}{wa 1}{222}{uw 0 208}
 {86}{E:}{}{1}{}{0}{}
 {87}{O que você precisa saber?}{O que você precisa saber?}{}{}{}{}
@@ -95,21 +95,21 @@
 {106}{O que você sabe sobre este lugar?   [Roseborough.]}{}{-4}{ia 13}{269}{}
 {107}{O que você sabe sobre este lugar?   [Ilha do Desespero.]}{}{-4}{ia 19}{273}{}
 {108}{Sogg... você parece bravo comigo. Tem algo que eu possa fazer por você?}{}{5}{re -20}{120}{}
-{109}{Soggy! Você tá bravo comigo! Posso fazer alguma coisa por você?}{}{-4}{re -20}{120}{}
+{109}{Soggy! Tá bravo comigo! Eu fiz alguma coisa pra você?}{}{-4}{re -20}{120}{}
 {110}{E:}{}{1}{}{0}{}
 {120}{Bom...[HIC!]...normalmente não sou do tipo exigente, mas...[BURP!]...não tô nada feliz com o que...[HIC!] você anda fazendo. Claro...não é nada que uma garrafinha de vinho não resolva...[HIC!]...}{Bom...[HIC!]...normalmente não sou do tipo exigente, mas...[BURP!]...não tô nada feliz com o que...[HIC!] você anda fazendo. Claro...não é nada que uma garrafinha de vinho não resolva...[HIC!]...}{}{69}{}{}
 {121}{Sogg... precisamos mesmo ser assim?}{}{5}{ch 20}{130}{re +20}
 {122}{Claro, meu amigo! E tenho uma aqui agora mesmo!}{}{5}{in 3608, ch -19}{-11}{re +20}
-{123}{Tenho certeza de que podemos arranjar um pouco para você, Sogg. Vou ver o que consigo...}{}{5}{in -3608, ch -19}{133}{}
+{123}{Tenho certeza de que podemos arranjar um pouco para você, Sogg. Vou ver o que consigo...}{}{5}{ni 3608, ch -19}{133}{}
 {124}{Acho que essa é a ÚLTIMA coisa que você precisa, meu amigo bêbado. Vamos...}{}{5}{}{}{re -5, fl 139}
 {125}{Tô com um pouco aqui mesmo, Molenga!}{}{-4}{in 3608, ch -19}{-11}{re +20}
-{126}{Hmm...talvez eu arrume uns pra você, Molenga!}{}{-4}{in -3608, ch -19}{133}{}
+{126}{Hmm...talvez eu arrume uns pra você, Molenga!}{}{-4}{ni 3608, ch -19}{133}{}
 {127}{Que pena você não conseguir nenhum. A gente vai agora...}{}{-4}{}{}{re -5, fl 139}
 {130}{[Molenga parece bravo, mas então seu rosto se abre num sorriso enorme e desleixado.] Tá certo! Essa maldita bebida me deixou todo...[HIC!]...meloso! Desculpa pelo incômodo, meu chapa..}{[Molenga parece bravo, mas então seu rosto se abre num sorriso enorme e desleixado.] Tá certo! Essa maldita bebida me deixou todo...[HIC!]...meloso! Desculpa pelo incômodo, meu chapa..}{}{70}{}{}
 {131}{E:}{}{1}{}{0}{}
 {133}{[Ele pega a garrafa de você e vira tudo de uma vez.] Ahhh! Isso é bem...[BURP!]...melhor! Tô pronto pra ir...[HIC!]...quando você estiver!}{[Ele pega a garrafa de você e vira tudo de uma vez.] Ahhh! Isso é bem...[BURP!]...melhor! Tô pronto pra ir...[HIC!]...quando você estiver!}{}{71}{}{}
-{134}{Eu estava pensando se você gostaria de me acompanhar de novo?}{}{5}{pa -6612}{222}{jo 0 233}
-{135}{Quer me acompanhar de novo, Molenga?}{}{-4}{pa -6612}{222}{jo 0 233}
+{134}{Eu estava me perguntando se você gostaria de se juntar a mim de novo?}{}{5}{pa -6612}{222}{jo 0 233}
+{135}{Quer se juntar a mim de novo, Soggy?}{}{-4}{pa -6612}{222}{jo 0 233}
 {136}{E:}{}{1}{}{0}{}
 {137}{É melhor ser...[HIC!]...rápido, antes que eu vá procurar sozinho...}{É melhor ser...[HIC!]...rápido, antes que eu vá procurar sozinho...}{}{72}{}{}
 {138}{E:}{}{1}{}{0}{}
@@ -130,7 +130,7 @@
 {209}{E:}{}{1}{}{0}{}
 {211}{Claro...[HIC!]. Vou ficar aqui um tempinho... mas posso acabar procurando uma taverna se você demorar muito...}{Claro...[HIC!]. Vou ficar aqui um tempinho... mas posso acabar procurando uma taverna se você demorar muito...}{}{}{}{}
 {212}{E:}{}{1}{}{0}{}
-{214}{Tá. Talvez eu [HIC!] te veja de novo, qualquer hora. Agora... onde é que a gente tá? Tem que ter uma taverna por aqui em algum lugar...}{Tá. Talvez eu [HIC!] te veja de novo, qualquer hora. Agora... onde é que a gente tá? Tem que ter uma taverna por aqui em algum lugar...}{}{}{}{lf31 1}
+{214}{Tá bom. Talvez eu [HIC!] te veja de novo, algum dia. Agora... onde é que nós estamos? Deve ter uma taverna por aqui em algum lu...}{Tá bom. Talvez eu [HIC!] te veja de novo, algum dia. Agora... onde é que nós estamos? Deve ter uma taverna por aqui em algum lu...}{}{}{}{lf31 1}
 {215}{E:}{}{1}{}{0}{}
 {217}{Ora! Se não é o meu velho [HIC!] amigo! Quer tomar uma...?}{Ora! Se não é o meu velho [HIC!] amigo! Quer tomar uma...?}{}{}{}{}
 {218}{Não, Sogg. Eu estava me perguntando se você gostaria de se juntar a mim de novo?}{}{5}{}{222}{jo 0 225}

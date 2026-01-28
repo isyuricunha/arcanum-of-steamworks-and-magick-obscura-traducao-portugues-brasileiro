@@ -65,7 +65,7 @@
 {79}{Fale-me sobre as coisas que preciso fazer...}{}{-4}{}{82}{}
 {80}{E:}{}{1}{}{}{lf16 1, fl 252}
 {82}{Sobre qual delas você quer ouvir?}{Sobre qual delas você quer ouvir?}{}{}{}{}
-{83}{A primeira tarefa...}{}{5}{}{94}{}
+{83}{A primeira tarefa...}{}{5}{gf2748 0}{94}{}
 {84}{A segunda tarefa...}{}{5}{lf9 0}{117}{}
 {85}{A terceira tarefa...}{}{5}{}{135}{}
 {86}{Já ouvi todas... há mais alguma coisa?}{}{5}{lf6 1, lf7 1, lf8 1}{190}{}
@@ -79,18 +79,18 @@
 {95}{Isso foi bem cruel, Pete. Como você pode corrigir isso?}{}{5}{}{99}{}
 {96}{Hmm... tô confuso...}{}{-4}{}{99}{}
 {97}{E:}{}{1}{}{}{lf16 1, fl 252}
-{99}{Bom... a família dele... eles passaram por tempos difíceis sem ele, e os Williamson continuam pobres desde então. Você vai precisar desenterrar meu tesouro, incluindo aquelas fivelas de prata, e entregá-lo para quem sobrou dos Williamson... meu tesouro está enterrado um pouco ao norte daqui... [Ele aponta para uma área logo ao norte de onde você está.]}{Bom... a família dele... eles passaram por tempos difíceis sem ele, e os Williamson continuam pobres desde então. Você vai precisar desenterrar meu tesouro, incluindo aquelas fivelas de prata, e entregá-lo para quem sobrou dos Williamson... meu tesouro está enterrado um pouco ao norte daqui... [Ele aponta para uma área logo ao norte de onde você está.]}{}{}{}{mm 29}
+{99}{Bom... a família dele... eles passaram por tempos difíceis sem ele, e os Williamson continuam pobres desde então. Você vai precisar desenterrar meu tesouro, incluindo aquelas fivelas de prata, e entregá-lo para quem sobrou dos Williamson... meu tesouro está enterrado um pouco ao norte daqui... [Ele aponta para uma área logo ao norte de onde você está.]}{Bom... a família dele... eles passaram por tempos difíceis sem ele, e os Williamson continuam pobres desde então. Você vai precisar desenterrar meu tesouro, incluindo aquelas fivelas de prata, e entregá-lo para quem sobrou dos Williamson... meu tesouro está enterrado um pouco ao norte daqui... [Ele aponta para uma área logo ao norte de onde você está.]}{}{}{}{mm 29, qu1054 1}
 {100}{Onde estão os Williamson?}{}{5}{}{105}{}
 {101}{Não estou mais interessado em fazer isso. Vou embora...}{}{5}{}{}{lf16 1, fl 252}
 {102}{Onde tá o tesouro? Onde tá os Willemsuns?}{}{-4}{}{105}{}
 {103}{Tô entediado... vou embora...}{}{-4}{}{}{lf16 1, fl 252}
-{105}{Aqui... vou mostrar no seu mapa. [O dedo espectral aponta para um local na costa leste de Arcanum.] Eu sei que eles ainda moram lá. Passei por lá nos anos desde que morri... não é um lugar agradável...}{Aqui... vou mostrar no seu mapa. [O dedo espectral aponta para um local na costa leste de Arcanum.] Eu sei que eles ainda moram lá. Passei por lá nos anos desde que morri... não é um lugar agradável...}{}{}{}{mm 25}
+{105}{Aqui... vou te mostrar no seu mapa. [O dedo espectral aponta para um local na costa leste de Arcanum.] Eu sei que eles ainda vivem lá. Tenho passado por lá nos anos desde que morri... não é um lugar agradável...}{Aqui... vou te mostrar no seu mapa. [O dedo espectral aponta para um local na costa leste de Arcanum.] Eu sei que eles ainda vivem lá. Tenho passado por lá nos anos desde que morri... não é um lugar agradável...}{}{}{}{mm 25}
 {106}{Entendo. Tem mais alguma coisa?}{}{5}{}{109}{}
 {107}{Hã...}{}{-4}{}{109}{}
 {109}{Sim... não pense que pode ficar com parte do tesouro pra você... essas maldições são antigas e espertas, e se tentar enganá-las, ainda vou estar navegando por esses mares, e aí vou atrás de você. Entendeu, companheiro?}{Sim... não pense que pode ficar com parte do tesouro pra você... essas maldições são antigas e espertas, e se tentar enganá-las, ainda vou estar navegando por esses mares, e aí vou atrás de você. Entendeu, garota?}{}{}{}{lf6 1}
 {110}{Claro... e as outras tarefas?}{}{5}{}{82}{}
 {111}{Isso tudo é terrivelmente complicado. Talvez eu simplesmente te destrua.}{}{5}{}{232}{lf12 1}
-{112}{Já tive o suficiente disso. Volto mais tarde...}{}{5}{}{}{lf16 1, fl 252}
+{112}{Já estou farto disso. Voltarei mais tarde...}{}{5}{}{}{lf16 1, fl 252}
 {113}{E o que mais tem pra fazer?}{}{-4}{}{82}{}
 {114}{Isso tá muito difícil... acho que vou te matar...}{}{-4}{}{232}{lf12 1}
 {115}{Vou embora agora}{}{-4}{}{}{lf16 1, fl 252}
@@ -101,14 +101,14 @@
 {123}{Dá pra ver por que eles podem ter ficado chateados com isso...}{}{5}{}{125}{}
 {124}{Monges ficam bravos, né?}{}{-4}{}{125}{}
 {125}{É, eles não estavam cantando hinos quando a gente foi embora. Enfim... aquele altar deles... acho que precisa ser substituído... você vai ter que falar com os monges de lá pra descobrir o que precisa ser feito... entendeu? Aqui fica o templo... [Ele mostra no seu mapa.]}{É, eles não estavam cantando hinos quando a gente foi embora. Enfim... aquele altar deles... acho que precisa ser substituído... você vai ter que falar com os monges de lá pra descobrir o que precisa ser feito... entendeu? Aqui fica o templo... [Ele mostra no seu mapa.]}{}{}{}{mm 26, lf7 1}
-{126}{Já fiz isso... [Fale a ele sobre Edwin Wallows.]}{}{5}{gf2535 1}{295}{lf9 1}
-{127}{Eu já fiz isso! [Diga a ele sobre Edwin Wallows.]}{}{-4}{gf2535 1}{295}{lf9 1}
-{128}{E as outras tarefas?}{}{5}{gf2535 0}{82}{}
-{129}{Acho que isso é demais. Talvez eu simplesmente te destrua.}{}{5}{gf2535 0}{232}{lf13 1}
-{130}{Já estou farto disso. Voltarei mais tarde...}{}{5}{gf2535 0}{}{lf16 1, fl 252}
-{131}{E o que mais tem pra fazer?}{}{-4}{gf2535 0}{82}{}
-{132}{Isso tá muito confuso... Eu só mato você...}{}{-4}{gf2535 0}{232}{lf13 1}
-{133}{É melhor eu ir...}{}{-4}{gf2535 0}{}{lf16 1, fl 252}
+{126}{Já fiz isso... [Fale a ele sobre Edwin Wallows.]}{}{5}{gf2435 1}{295}{lf9 1}
+{127}{Eu já fiz isso! [Diga a ele sobre Edwin Wallows.]}{}{-4}{gf2435 1}{295}{lf9 1}
+{128}{E as outras tarefas?}{}{5}{gf2435 0}{82}{qu1055 1}
+{129}{Acho que isso é demais. Talvez eu simplesmente te destrua.}{}{5}{gf2435 0}{232}{lf13 1, qu1055 1}
+{130}{Já estou farto disso. Voltarei mais tarde...}{}{5}{gf2435 0}{}{qu1055 1, lf16 1, fl 252}
+{131}{E o que mais tem pra fazer?}{}{-4}{gf2435 0}{82}{qu1055 1}
+{132}{Isso tá muito confuso... Eu só mato você...}{}{-4}{gf2435 0}{232}{lf13 1, qu1055 1}
+{133}{É melhor eu ir...}{}{-4}{gf2435 0}{}{qu1055 1, lf16 1, fl 252}
 {135}{A última tarefa será a mais difícil. Sabe, conforme eu ia ficando mais velho, não havia nada que eu não tivesse feito, nenhum lugar onde eu não tivesse navegado e nenhum tesouro que eu não tivesse posto as mãos. Só havia uma coisa que eu queria, e eu nem tinha certeza se existia, e fiz disso meu objetivo descobrir...}{A última tarefa será a mais difícil. Sabe, conforme eu ia ficando mais velho, não havia nada que eu não tivesse feito, nenhum lugar onde eu não tivesse navegado e nenhum tesouro que eu não tivesse posto as mãos. Só havia uma coisa que eu queria, e eu nem tinha certeza se existia, e fiz disso meu objetivo descobrir...}{}{}{}{}
 {136}{O que era?}{}{5}{}{139}{}
 {137}{O quê?}{}{-4}{}{139}{}
@@ -121,11 +121,11 @@
 {146}{Interessante...}{}{5}{}{155}{lf11 1}
 {147}{Is-so ho-o-r-rí-vel...}{}{-4}{}{150}{}
 {148}{E:}{}{1}{}{}{lf16 1, fl 252}
-{150}{Horrível nem chega perto. Dizem também que o Flagelo de Kree dizimou um batalhão inteiro de guerreiros Élficos antes de ser banido, e que Lorek a empunhou durante as Guerras Clânicas dos Anões, e que qualquer um que não seja dos mais malignos morre só de olhar para ela...}{Horrível nem chega perto. Dizem também que o Flagelo de Kree dizimou um batalhão inteiro de guerreiros Élficos antes de ser banido, e que Lorek a empunhou durante as Guerras Clânicas dos Anões, e que qualquer um que não seja dos mais malignos morre só de olhar para ela...}{}{}{}{}
+{150}{Horrível nem chega perto. Também se diz que o Flagelo de Kree dizimou um batalhão inteiro de guerreiros élficos com ela antes de ser banido, e que Lorek a empunhou durante as Guerras Clânicas dos Anões, e que qualquer um que não seja dos mais malignos morre só de vê-la...}{Horrível nem chega perto. Também se diz que o Flagelo de Kree dizimou um batalhão inteiro de guerreiros élficos com ela antes de ser banido, e que Lorek a empunhou durante as Guerras Clânicas dos Anões, e que qualquer um que não seja dos mais malignos morre só de vê-la...}{}{}{}{}
 {151}{Parece uma lâmina maligna...}{}{5}{}{160}{lf10 1}
 {152}{Parece o tipo de arma que eu gosto...}{}{5}{}{165}{lf11 1}
 {153}{Espada ruim!}{}{-4}{}{160}{}
-{155}{[O fantasma hesita por um momento, parecendo encarar você das profundezas sem visão de seu crânio.] E dizem também que o Flagelo de Kree dizimou um batalhão inteiro de guerreiros Élficos antes de ser banido, e que Lorek a empunhou durante as Guerras Clânicas dos Anões, e que qualquer um que não seja dos mais malignos morre só de olhar para ela...}{[O fantasma hesita por um momento, parecendo encarar você das profundezas sem visão de seu crânio.] E dizem também que o Flagelo de Kree dizimou um batalhão inteiro de guerreiros Élficos antes de ser banido, e que Lorek a empunhou durante as Guerras Clânicas dos Anões, e que qualquer um que não seja dos mais malignos morre só de olhar para ela...}{}{}{}{}
+{155}{[O fantasma hesita por um momento, parecendo encarar você das profundezas sem visão de seu crânio.] E diz-se que o Flagelo de Kree dizimou um batalhão inteiro de guerreiros élficos com ela antes de ser banido, e que Lorek a empunhou durante as Guerras Clânicas dos Anões, e que qualquer um que não seja dos mais malignos morre só de vê-la...}{[O fantasma hesita por um momento, parecendo encarar você das profundezas sem visão de seu crânio.] E diz-se que o Flagelo de Kree dizimou um batalhão inteiro de guerreiros élficos com ela antes de ser banido, e que Lorek a empunhou durante as Guerras Clânicas dos Anões, e que qualquer um que não seja dos mais malignos morre só de vê-la...}{}{}{}{}
 {156}{Parece uma lâmina maligna...}{}{5}{}{160}{lf10 1}
 {157}{Parece o tipo de arma que eu gosto...}{}{5}{}{165}{lf11 1}
 {160}{Sim, companheiro... e uma lâmina maligna ela é. Eu a queria mais do que qualquer coisa em todo o Arcanum. E planejei colocar as mãos nela...}{Sim, companheira... e uma lâmina maligna ela é. Eu a queria mais do que qualquer coisa em todo o Arcanum. E planejei colocar as mãos nela...}{}{}{}{}
@@ -135,7 +135,7 @@
 {165}{O quê? Tá com a cabeça cheia de espuma do mar? Essa lâmina é uma maldição pra quem tocar nela! Escuta aqui e presta atenção nas palavras do velho Stringy Pete!}{O quê? Tá com a cabeça cheia de espuma do mar? Essa lâmina é uma maldição pra quem tocar nela! Escuta aqui e presta atenção nas palavras do velho Stringy Pete!}{}{}{}{}
 {166}{Por favor, continue...}{}{5}{}{170}{}
 {167}{Estou cansado disso. Talvez eu volte mais tarde...}{}{5}{}{}{lf16 1, fl 252}
-{170}{Na época, eu tinha uma tripulação de sete dos piratas mais desalmados e cruéis, e todos concordaram que era um belo tesouro pra ir atrás, e fizemos um juramento de sangue de pirata pra ficar um ao lado do outro e dividir o tesouro. E assim procuramos por ele em Arcanum, e um dia o encontramos... nos pântanos das Fens Sombrias, lá nas Profundezas Bangellianas...}{Na época, eu tinha uma tripulação de sete dos piratas mais desalmados e cruéis, e todos concordaram que era um belo tesouro pra ir atrás, e fizemos um juramento de sangue de pirata pra ficar um ao lado do outro e dividir o tesouro. E assim procuramos por ele em Arcanum, e um dia o encontramos... nos pântanos das Fens Sombrias, lá nas Profundezas Bangellianas...}{}{}{}{}
+{170}{Na época, eu tinha uma tripulação de sete dos piratas mais desalmados e cruéis, e todos concordaram que era um belo tesouro para buscar, e fizemos um juramento de sangue de pirata para ficarmos juntos e dividir o tesouro. E assim procuramos por Arcanum e o encontramos um dia... nos pântanos dos Charcos Sombrios, nas Profundezas Bangellianas...}{Na época, eu tinha uma tripulação de sete dos piratas mais desalmados e cruéis, e todos concordaram que era um belo tesouro para buscar, e fizemos um juramento de sangue de pirata para ficarmos juntos e dividir o tesouro. E assim procuramos por Arcanum e o encontramos um dia... nos pântanos dos Charcos Sombrios, nas Profundezas Bangellianas...}{}{}{}{}
 {171}{E depois?}{}{5}{}{175}{}
 {172}{Hã...}{}{-4}{}{175}{}
 {173}{E:}{}{1}{}{}{lf16 1, fl 252}
@@ -143,16 +143,16 @@
 {176}{O que vocês fizeram com ela?}{}{5}{}{180}{}
 {177}{O que piratas fazem com uma espada amaldiçoada?}{}{-4}{}{180}{}
 {178}{E:}{}{1}{}{}{lf16 1, fl 252}
-{180}{Nós TODOS não fizemos nada, companheiro. Naquela noite, quando todos estavam dormindo, aquela lâmina amaldiçoada distorceu minha mente e me disse que minha tripulação estava amotinada e querendo se livrar de mim. Então eu matei todos enquanto dormiam, companheiro... cortei suas gargantas de orelha a orelha. Quando acordei de manhã e vi o que tinha feito, joguei a lâmina fora e saí correndo de lá...}{Nós TODOS não fizemos nada, moça. Naquela noite, quando todos estavam dormindo, aquela lâmina amaldiçoada distorceu minha mente e me disse que minha tripulação estava amotinada e querendo se livrar de mim. Então eu matei todos enquanto dormiam, senhorita... cortei suas gargantas de orelha a orelha. Quando acordei de manhã e vi o que tinha feito, joguei a lâmina fora e saí correndo de lá...}{}{}{}{}
+{180}{NÓS não fizemos nada, companheiro. Naquela noite, quando todos estavam dormindo, aquela lâmina amaldiçoada distorceu minha mente e me disse que minha tripulação estava amotinada e querendo se livrar de mim. Então matei todos enquanto dormiam, companheiro... cortei todas as gargantas de orelha a orelha. Quando acordei de manhã e vi o que tinha feito, joguei a lâmina fora e saí correndo de lá...}{NÓS não fizemos nada, moça. Naquela noite, quando todos estavam dormindo, aquela lâmina amaldiçoada distorceu minha mente e me disse que minha tripulação estava amotinada e querendo se livrar de mim. Então matei todos enquanto dormiam, garota... cortei todas as gargantas de orelha a orelha. Quando acordei de manhã e vi o que tinha feito, joguei a lâmina fora e saí correndo de lá...}{}{}{}{}
 {181}{E a Praga Bangelliana?}{}{5}{lf10 1, lf11 0}{185}{}
 {182}{E a Praga Bangelliana?}{}{5}{lf11 1, lf10 0}{185}{}
 {183}{E a Praga Bangelliana?}{}{5}{lf11 1, lf10 1}{185}{}
 {184}{E a espada amaldiçoada?}{}{-4}{}{185}{}
-{185}{Ainda está lá, pelo que eu sei. Entre os ossos assassinados da minha tripulação. Você precisa destruir essa lâmina maligna... no fundo da caverna onde a encontramos há uma grande fornalha. Jogue-a lá dentro e livre o mundo dela. Aqui é onde ficam as Profundezas... [Ele aponta para uma área no seu mapa na parte mais ao norte de Arcanum.]}{Ainda está lá, pelo que eu sei. Entre os ossos assassinados da minha tripulação. Você precisa destruir essa lâmina maligna... no fundo da caverna onde a encontramos há uma grande fornalha. Jogue-a lá dentro e livre o mundo dela. Aqui é onde ficam as Profundezas... [Ele aponta para uma área no seu mapa na parte mais ao norte de Arcanum.]}{}{}{}{mm 27, lf8 1 }
-{186}{E as outras tarefas?}{}{5}{}{82}{}
-{187}{Não estou mais interessado em fazer isso. Vou embora...}{}{5}{}{}{lf16 1, fl 252}
-{188}{E as outras coisas?}{}{-4}{}{82}{}
-{189}{Vou agora...}{}{-4}{}{}{lf16 1, fl 252}
+{185}{Ainda está lá, pelo que eu sei. Entre os ossos assassinados da minha tripulação. Você precisa destruir essa lâmina maligna... no fundo da caverna onde a encontramos há uma grande fornalha. Jogue-a lá dentro e livre o mundo dela. Aqui é onde ficam as Profundezas... [Ele aponta para uma área no seu mapa na parte mais ao norte de Arcanum.]}{Ainda está lá, pelo que eu sei. Entre os ossos assassinados da minha tripulação. Você precisa destruir essa lâmina maligna... no fundo da caverna onde a encontramos há uma grande fornalha. Jogue-a lá dentro e livre o mundo dela. Aqui é onde ficam as Profundezas... [Ele aponta para uma área no seu mapa na parte mais ao norte de Arcanum.]}{}{}{}{mm 27, lf8 1, qu1056 1 }
+{186}{E as outras tarefas?}{}{5}{gf2599 0}{82}{}
+{187}{Já fiz isso. E as outras tarefas?}{}{5}{gf2599 1}{82}{qu1056 4}
+{188}{E as outras coisas?}{}{-4}{gf2599 0}{82}{}
+{189}{Já fiz isso! E quanto às outras coisas?}{}{-4}{gf2599 1}{82}{qu1056 4}
 {190}{É só isso, companheiro. Vai me ajudar? Se fizer essas coisas, dou minha palavra de pirata que te dou meu navio. Ele é velho, mas não existe embarcação melhor que já navegou pelos mares de Arcanum...}{É só isso, moça. Vai me ajudar? Se fizer essas coisas, dou minha palavra de pirata que te dou meu navio. Ele é velho, mas não existe embarcação melhor que já navegou pelos mares de Arcanum...}{}{}{}{}
 {191}{Preciso pensar sobre isso... talvez eu volte mais tarde...}{}{5}{lf9 0}{}{qu1054 1, qu1055 1, qu1056 1, lf16 1, fl 252}
 {192}{Preciso pensar sobre isso... talvez eu volte mais tarde...}{}{5}{lf9 1}{}{qu1054 1, qu1056 1, lf16 1, fl 252}
@@ -170,7 +170,7 @@
 {209}{Talvez eu tenha falado um pouco apressadamente! Olha, eu preciso do seu barco!}{}{5}{}{25}{}
 {210}{Ameaçando você? Claro que não! Vou matar você!}{}{5}{}{}{gf2729 1, co, fl 250}
 {211}{Talvez seja melhor eu ir embora...}{}{5}{}{}{lf15 1, fl 206}
-{212}{Espere! Eu preciso de barco! Barco!}{}{-4}{}{25}{}
+{212}{Espere! Preciso de um barco! Um barco!}{}{-4}{}{25}{}
 {213}{Não! Eu só vou matar você!}{}{-4}{}{}{gf2729 1, co, fl 250}
 {214}{É melhor eu ir...}{}{-4}{}{}{lf15 1, fl 206}
 {216}{Você está pedindo uma espada na barriga, sua cobra-do-mar de lábios azuis e ranhenta! Vou atravessar você aqui mesmo!}{Você está pedindo uma espada na barriga, sua harpia-do-mar de lábios azuis e ranhenta! Vou atravessar você aqui mesmo!}{}{}{}{}
@@ -178,7 +178,7 @@
 {218}{Espere! Eu preciso do seu barco, Capitão!}{}{5}{}{25}{}
 {219}{Talvez seja melhor eu ir embora...}{}{5}{}{}{lf15 1, fl 206}
 {220}{Você parece burro e diz coisas burras, Pé Fedorento! Vou esmagar você agora!}{}{-4}{}{}{gf2729 1, co, fl 250}
-{221}{Espere! Eu preciso de barco! Barco!}{}{-4}{}{25}{}
+{221}{Espere! Preciso de um barco! Um barco!}{}{-4}{}{25}{}
 {222}{É melhor eu ir...}{}{-4}{}{}{lf15 1, fl 206}
 {224}{Você está louco, companheiro? NINGUÉM fala mal da minha velha Madeleine! Vou usar suas entranhas como cordame!}{Você está louca, moça? NINGUÉM fala mal da minha velha Madeleine! Vou usar suas entranhas como cordame!}{}{}{}{}
 {225}{Eu tinha ouvido que TODOS tinham algo a dizer sobre ela...}{}{5}{}{}{gf2729 1, co, fl 250}
@@ -214,16 +214,17 @@
 {260}{Então você voltou, companheiro. Decidiu me ajudar a me livrar dessa maldita maldição?}{Então você voltou, moça. Decidiu me ajudar a me livrar dessa maldita maldição?}{}{}{}{}
 {261}{Talvez. Poderia me contar sobre as tarefas de novo?}{}{5}{}{82}{}
 {262}{Sim. Já ouvi falar de todas as tarefas. Tem mais alguma coisa?}{}{5}{lf6 1, lf7 1, lf8 1}{190}{qu1054 2, qu1055 2, qu1056 2, lf18 1}
-{263}{Ainda não. Volto mais tarde.}{}{5}{}{}{lf16 1, fl 252}
+{263}{N:}{}{1}{}{0}{lf16 1, fl 252}
 {264}{Hã... é! Me diz de novo o que preciso fazer...}{}{-4}{}{82}{}
 {265}{Eu sei das coisas... o que mais preciso saber?}{}{-4}{lf6 1, lf7 1, lf8 1}{190}{}
-{266}{Hã... não. Vou indo agora...}{}{-4}{}{}{lf16 1, fl 252}
+{266}{Já está feito...}{}{1}{gf2748 1, gf2435 1, gf2599 1, qb1151 4, lf9 1}{290}{}
+{267}{Já está feito...}{}{1}{gf2748 1, gf2435 1, gf2599 1, qb1151 4, lf9 0}{276}{}
 {268}{Olá, companheiro! Conseguiu terminar suas tarefas?}{Olá, moça! Conseguiu terminar suas tarefas?}{}{}{}{}
 {269}{N:}{}{1}{}{}{fl 274}
-{270}{Sim, fiz o que precisava ser feito...}{}{5}{gf2748 1, gf2535 1, gf2599 1, qb1151 4, lf9 1}{290}{}
-{271}{Sim! Fiz as coisas!}{}{-4}{gf2748 1, gf2535 1, gf2599 1, qb1151 4, lf9 1}{290}{}
-{272}{Sim, fiz o que precisava ser feito...}{}{5}{gf2748 1, gf2535 1, gf2599 1, qb1151 4, lf9 0}{276}{}
-{273}{Sim! Fiz as coisas!}{}{-4}{gf2748 1, gf2535 1, gf2599 1, qb1151 4, lf9 0}{276}{}
+{270}{Sim, fiz o que precisava ser feito...}{}{5}{gf2748 1, gf2435 1, gf2599 1, qb1151 4, lf9 1}{290}{}
+{271}{Sim! Fiz as coisas!}{}{-4}{gf2748 1, gf2435 1, gf2599 1, qb1151 4, lf9 1}{290}{}
+{272}{Sim, fiz o que precisava ser feito...}{}{5}{gf2748 1, gf2435 1, gf2599 1, qb1151 4, lf9 0}{276}{}
+{273}{Sim! Fiz as coisas!}{}{-4}{gf2748 1, gf2435 1, gf2599 1, qb1151 4, lf9 0}{276}{}
 {274}{Então volte aqui quando tiver... meu barco estará esperando...}{Então volte aqui quando tiver... meu barco estará esperando...}{}{}{}{}
 {276}{Isso é incrível, rapaz! Nunca pensei que conseguiria... Nunca imaginei que um dia me livraria dessa maldita maldição! Obrigado, do fundo do meu coração de pirata...}{Isso é incrível, moça! Nunca pensei que conseguiria... Nunca imaginei que um dia me livraria dessa maldita maldição! Obrigado, do fundo do meu coração de pirata...}{}{}{}{qu1054 4, qu1055 4, qu1056 4}
 {277}{Não foi nada, Pete. Agora, sobre aquele barco...}{}{5}{}{282}{}

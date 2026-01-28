@@ -15,19 +15,19 @@
 {15}{Hã... Oi. Qual é o seu nome?}{}{-4}{ra 6, lf1 0}{59}{}
 {16}{Hã... Oi. Qual é o seu nome?}{}{-4}{ra 7, lf1 0}{65}{}
 {17}{Hã... Oi. Qual é o seu nome?}{}{-4}{ra 8, lf1 0}{71}{}
-{18}{Preciso ser disciplinado, Alice...}{}{5}{lf1 1,lf 2 0, lf 3 0, lf 4 0, lf 5 0}{107}{}
-{19}{Eu fui mau, Aliss...}{}{-4}{lf1 1,lf 2 0, lf 3 0, lf 4 0, lf 5 0}{107}{}
-{20}{Preciso ser disciplinado, Alice...}{}{5}{lf1 1,lf 2 1, lf 3 0, lf 4 0, lf 5 0}{137}{}
-{21}{Eu fui mau, Aliss...}{}{-4}{lf1 1,lf 2 1, lf 3 0, lf 4 0, lf 5 0}{137}{}
-{22}{Preciso ser disciplinado, Alice...}{}{5}{lf1 1,lf 2 1, lf 3 1, lf 4 0, lf 5 0}{167}{}
-{23}{Eu fui má, Aliss...}{}{-4}{lf1 1,lf 2 1, lf 3 1, lf 4 0, lf 5 0}{167}{}
-{24}{Preciso ser disciplinado, Alice...}{}{5}{lf1 1,lf 2 1, lf 3 1, lf 4 1, lf 5 0}{179}{}
-{25}{Eu fui má, Aliss...}{}{-4}{lf1 1,lf 2 1, lf 3 1, lf 4 1, lf 5 0}{179}{}
+{18}{Preciso ser disciplinada, Alice...}{}{5}{lf1 1,lf 2 0, lf 3 0, lf 4 0, lf 5 0}{107}{}
+{19}{Eu fui um Aliss ruim...}{}{-4}{lf1 1,lf 2 0, lf 3 0, lf 4 0, lf 5 0}{107}{}
+{20}{Preciso ser disciplinada, Alice...}{}{5}{lf1 1,lf 2 1, lf 3 0, lf 4 0, lf 5 0}{137}{}
+{21}{Eu fui um Aliss ruim...}{}{-4}{lf1 1,lf 2 1, lf 3 0, lf 4 0, lf 5 0}{137}{}
+{22}{Preciso ser disciplinada, Alice...}{}{5}{lf1 1,lf 2 1, lf 3 1, lf 4 0, lf 5 0}{167}{}
+{23}{Eu fui um Aliss ruim...}{}{-4}{lf1 1,lf 2 1, lf 3 1, lf 4 0, lf 5 0}{167}{}
+{24}{Preciso ser disciplinada, Alice...}{}{5}{lf1 1,lf 2 1, lf 3 1, lf 4 1, lf 5 0}{179}{}
+{25}{Eu fui um Aliss ruim...}{}{-4}{lf1 1,lf 2 1, lf 3 1, lf 4 1, lf 5 0}{179}{}
 {26}{Preciso ser disciplinada, Alice...}{}{5}{lf1 1,lf 2 1, lf 3 1, lf 4 1, lf 5 1}{191}{}
-{27}{Eu fui má, Aliss...}{}{-4}{lf1 1,lf 2 1, lf 3 1, lf 4 1, lf 5 1}{191}{}
+{27}{Eu fui um Aliss ruim...}{}{-4}{lf1 1,lf 2 1, lf 3 1, lf 4 1, lf 5 1}{191}{}
 {28}{E:}{}{1}{}{0}{}
 {29}{Eu sou Alice. Você tem sido um menino mau?}{Eu sou Alice. Você tem sido uma menina má?}{}{}{}{}
-{30}{Hã... é... mau?}{}{5}{}{77}{}
+{30}{Hmm... é... ruim?}{}{5}{}{77}{}
 {31}{Talvez eu tenha sido mau, Alice...}{}{5}{}{77}{}
 {32}{Hmm... é... ruim?}{}{-4}{}{77}{}
 {33}{Talvez eu seja mau, Aliss...}{}{-4}{}{77}{}
@@ -42,9 +42,9 @@
 {42}{Hmm... é... levado?}{}{5}{}{77}{}
 {43}{Talvez eu tenha sido levado, Alice...}{}{5}{}{77}{}
 {44}{Hmm... é... levado?}{}{-4}{}{77}{}
-{45}{Talvez eu seja levado, Aliss...}{}{-4}{}{77}{}
+{45}{Talvez eu tenha sido levado, Aliss...}{}{-4}{}{77}{}
 {46}{E:}{}{1}{}{0}{}
-{47}{Eu sou Alice. Você precisa de um pouco de disciplina, mestiço?}{Eu sou Alice. Você precisa de um pouco de disciplina, mestiço?}{}{}{}{}
+{47}{Eu sou Alice. Você precisa de um pouco de disciplina, mestiça?}{Eu sou Alice. Você precisa de um pouco de disciplina, mestiça?}{}{}{}{}
 {48}{Hmm... é... disciplina?}{}{5}{}{77}{}
 {49}{Talvez eu precise, Alice...}{}{5}{}{77}{}
 {50}{Hmm... é... o quê?}{}{-4}{}{77}{}
@@ -54,7 +54,7 @@
 {54}{Hmm... é... levado?}{}{5}{}{77}{}
 {55}{Talvez eu tenha sido levado, Alice...}{}{5}{}{77}{}
 {56}{Hmm... é... levado?}{}{-4}{}{77}{}
-{57}{Talvez eu seja levado, Aliss...}{}{-4}{}{77}{}
+{57}{Talvez eu tenha sido levado, Aliss...}{}{-4}{}{77}{}
 {58}{E:}{}{1}{}{0}{}
 {59}{Eu sou Alice. Você tem sido um menino mau?}{Eu sou Alice. Você tem sido uma menina má?}{}{}{}{}
 {60}{Hmm... é... ruim?}{}{5}{}{77}{}
@@ -62,7 +62,7 @@
 {62}{Hmm... é... ruim?}{}{-4}{}{77}{}
 {63}{Talvez eu seja mau, Aliss...}{}{-4}{}{77}{}
 {64}{E:}{}{1}{}{0}{}
-{65}{Eu sou Alice. Você precisa de um pouco de disciplina, mestiço?}{Eu sou Alice. Você precisa de um pouco de disciplina, mestiça?}{}{}{}{}
+{65}{Eu sou Alice. Você precisa de um pouco de disciplina, mestiça?}{Eu sou Alice. Você precisa de um pouco de disciplina, mestiça?}{}{}{}{}
 {66}{Hmm... é... disciplina?}{}{5}{}{77}{}
 {67}{Talvez eu precise, Alice...}{}{5}{}{77}{}
 {68}{Hmm... é... o quê?}{}{-4}{}{77}{}
@@ -79,20 +79,20 @@
 {79}{Ah, sim! ...por favor.}{}{5}{gf2335 1}{217}{}
 {80}{Ah, sim! ...por favor.}{}{5}{gf2334 1}{-2}{lf2 1, lf13 1, gf2445 1}
 {81}{Ah, sim! ...por favor.}{}{5}{gf2336 1}{219}{}
-{82}{Posso amarrar você e fazer doer, Alice?}{}{5}{}{203}{}
-{83}{E se eu tiver sido muito levado?}{1}{5}{ra1, lf6 0}{242}{}
-{84}{Você acha que pode me dominar?}{1}{5}{ra2, lf6 0}{246}{}
-{85}{Marcas?}{1}{5}{ra3, lf6 0}{250}{}
-{86}{Acho que prefiro apenas sentir o calor dos seus lábios, linda...}{1}{5}{ra4, lf6 0}{254}{}
-{87}{Tenho sido tão mau ultimamente...}{1}{5}{ra5, lf6 0}{258}{}
+{82}{Posso te amarrar e fazer doer, Alice?}{}{5}{}{203}{}
+{83}{E se eu tiver sido muito levada?}{1}{5}{ra1, lf6 0}{242}{}
+{84}{Acha que pode me dominar?}{1}{5}{ra2, lf6 0}{246}{}
+{85}{Cicatrizes?}{1}{5}{ra3, lf6 0}{250}{}
+{86}{Prefiro sentir o ardor dos seus lábios, linda...}{1}{5}{ra4, lf6 0}{254}{}
+{87}{Tenho sido tão má ultimamente...}{1}{5}{ra5, lf6 0}{258}{}
 {88}{O que você vai fazer comigo?}{1}{5}{ra6, lf6 0}{262}{}
 {89}{O que você vai fazer comigo, mulher?}{1}{5}{ra7, lf6 0}{266}{}
 {90}{Você vai me mostrar a dor?}{1}{5}{ra8, lf6 0}{270}{}
 {91}{Hmm... Talvez mais tarde...}{}{5}{}{0}{}
-{92}{Hã... Sim! ...por favor.}{}{-4}{gf2334 0, gf2336 0, gf2335 0}{214}{}
-{93}{Hã... Sim! ...por favor.}{}{-4}{gf2335 1}{217}{}
-{94}{Hã... Sim! ...por favor.}{}{-4}{gf2334 1}{-2}{lf2 1, lf13 1, gf2445 1}
-{95}{Hã... Sim! ...por favor.}{}{-4}{gf2336 1}{219}{}
+{92}{Hã... Tá bom! ...por favô.}{}{-4}{gf2334 0, gf2336 0, gf2335 0}{214}{}
+{93}{Hã... Tá bom! ...por favô.}{}{-4}{gf2335 1}{217}{}
+{94}{Hã... Tá bom! ...por favô.}{}{-4}{gf2334 1}{-2}{lf2 1, lf13 1, gf2445 1}
+{95}{Hã... Tá bom! ...por favô.}{}{-4}{gf2336 1}{219}{}
 {96}{Eu amarro você e faço doer, Aliss?}{}{-4}{}{203}{}
 {97}{E se eu ficar muito mal?}{1}{-4}{ra1, lf6 0}{242}{}
 {98}{Você me bateu?}{1}{-4}{ra2, lf6 0}{246}{}
@@ -102,7 +102,7 @@
 {102}{O que você vai fazer comigo?}{1}{-4}{ra6, lf6 0}{262}{}
 {103}{O que você vai fazer comigo?}{1}{-4}{ra7, lf6 0}{266}{}
 {104}{Você vai me machucar?}{1}{-4}{ra8, lf6 0}{270}{}
-{105}{Hã... Talvez mais tarde...}{}{-4}{}{0}{}
+{105}{Hmm... Talvez mais tarde...}{}{-4}{}{0}{}
 {106}{T:11}{}{1}{}{107}{}
 {107}{Vou te dar o que você precisa... Está pronta para sentir minha dor?}{Vou te dar o que você precisa... Está pronta para sentir minha dor?}{}{}{}{lf2 1}
 {108}{Ah, sim! ...por favor.}{}{5}{gf2334 0, gf2336 0, gf2335 0}{214}{}
@@ -111,34 +111,34 @@
 {111}{Ah, sim! ...por favor.}{}{5}{gf2336 1}{219}{}
 {112}{Posso te amarrar e fazer doer, Alice?}{}{5}{}{203}{}
 {113}{E se eu tiver sido muito levada?}{1}{5}{ra1, lf6 0}{242}{}
-{114}{Você acha que pode me dominar?}{1}{5}{ra2, lf6 0}{246}{}
+{114}{Acha que pode me dominar?}{1}{5}{ra2, lf6 0}{246}{}
 {115}{Cicatrizes?}{1}{5}{ra3, lf6 0}{250}{}
-{116}{Acho que prefiro só sentir o calor dos seus lábios, linda...}{1}{5}{ra4, lf6 0}{254}{}
+{116}{Prefiro sentir o ardor dos seus lábios, linda...}{1}{5}{ra4, lf6 0}{254}{}
 {117}{Tenho sido tão má ultimamente...}{1}{5}{ra5, lf6 0}{258}{}
 {118}{O que você vai fazer comigo?}{1}{5}{ra6, lf6 0}{262}{}
 {119}{O que você vai fazer comigo, mulher?}{1}{5}{ra7, lf6 0}{266}{}
 {120}{Você vai me mostrar a dor?}{1}{5}{ra8, lf6 0}{270}{}
-{121}{Hã... Talvez mais tarde...}{}{5}{}{0}{}
-{122}{Hã... Sim! ...Por favor.}{}{-4}{gf2334 0, gf2336 0, gf2335 0}{214}{}
-{123}{Hã... Sim! ...Por favor.}{}{-4}{gf2335 1}{217}{}
-{124}{Hã... Sim! ...Por favor.}{}{-4}{gf2334 1}{-2}{lf2 1, lf13 1, gf2445 1}
-{125}{Hã... Sim! ...Por favor.}{}{-4}{gf2336 1}{219}{}
-{126}{Eu amarro você e faço doer, Alice?}{}{-4}{}{203}{}
-{127}{E se eu tiver sido muito mau?}{1}{-4}{ra1, lf6 0}{242}{}
+{121}{Hmm... Talvez mais tarde...}{}{5}{}{0}{}
+{122}{Hã... Tá bom! ...por favô.}{}{-4}{gf2334 0, gf2336 0, gf2335 0}{214}{}
+{123}{Hã... Tá bom! ...por favô.}{}{-4}{gf2335 1}{217}{}
+{124}{Hã... Tá bom! ...por favô.}{}{-4}{gf2334 1}{-2}{lf2 1, lf13 1, gf2445 1}
+{125}{Hã... Tá bom! ...por favô.}{}{-4}{gf2336 1}{219}{}
+{126}{Eu amarro você e faço doer, Aliss?}{}{-4}{}{203}{}
+{127}{E se eu ficar muito mal?}{1}{-4}{ra1, lf6 0}{242}{}
 {128}{Você me bateu?}{1}{-4}{ra2, lf6 0}{246}{}
 {129}{Cicatrizes?}{1}{-4}{ra3, lf6 0}{250}{}
 {130}{Eu só quero você... bonita.}{1}{-4}{ra4, lf6 0}{254}{}
-{131}{Eu fui um mau Alice...}{1}{-4}{ra5, lf6 0}{258}{}
+{131}{Eu fui um Aliss ruim...}{1}{-4}{ra5, lf6 0}{258}{}
 {132}{O que você vai fazer comigo?}{1}{-4}{ra6, lf6 0}{262}{}
 {133}{O que você vai fazer comigo?}{1}{-4}{ra7, lf6 0}{266}{}
 {134}{Você vai me machucar?}{1}{-4}{ra8, lf6 0}{270}{}
-{135}{Hã... Talvez mais tarde...}{}{-4}{}{0}{}
+{135}{Hmm... Talvez mais tarde...}{}{-4}{}{0}{}
 {136}{T:11}{}{1}{}{107}{}
 {137}{Oh @pcname@... Você tem sido muito levado, não é? ...Tenho saboreado a ideia do seu castigo. Está preparado?}{Oh @pcname@... Você tem sido muito levado, não é? ...Tenho saboreado a ideia do seu castigo. Está preparado?}{}{}{}{lf3 1}
-{138}{Ah, sim! ...Por favor.}{}{5}{gf2334 0, gf2336 0, gf2335 0}{214}{}
-{139}{Ah, sim! ...Por favor.}{}{5}{gf2335 1}{217}{}
-{140}{Ah, sim! ...Por favor.}{}{5}{gf2334 1}{-2}{lf2 1, lf13 1, gf2445 1}
-{141}{Ah, sim! ...Por favor.}{}{5}{gf2336 1}{219}{}
+{138}{Ah, sim! ...por favor.}{}{5}{gf2334 0, gf2336 0, gf2335 0}{214}{}
+{139}{Ah, sim! ...por favor.}{}{5}{gf2335 1}{217}{}
+{140}{Ah, sim! ...por favor.}{}{5}{gf2334 1}{-2}{lf2 1, lf13 1, gf2445 1}
+{141}{Ah, sim! ...por favor.}{}{5}{gf2336 1}{219}{}
 {142}{Posso te amarrar e fazer doer, Alice?}{}{5}{}{203}{}
 {143}{E se eu tiver sido muito levada?}{1}{5}{ra1, lf6 0}{242}{}
 {144}{Acha que pode me dominar?}{1}{5}{ra2, lf6 0}{246}{}
@@ -148,11 +148,11 @@
 {148}{O que você vai fazer comigo?}{1}{5}{ra6, lf6 0}{262}{}
 {149}{O que você vai fazer comigo, mulher?}{1}{5}{ra7, lf6 0}{266}{}
 {150}{Você vai me mostrar a dor?}{1}{5}{ra8, lf6 0}{270}{}
-{151}{Hã... Talvez mais tarde...}{}{5}{}{0}{}
-{152}{Hã... Sim! ...por favor.}{}{-4}{gf2334 0, gf2336 0, gf2335 0}{214}{}
-{153}{Hã... Sim! ...por favor.}{}{-4}{gf2335 1}{217}{}
-{154}{Hã... Sim! ...por favor.}{}{-4}{gf2334 1}{-2}{lf2 1, lf13 1, gf2445 1}
-{155}{Hã... Sim! ...por favor.}{}{-4}{gf2336 1}{219}{}
+{151}{Hmm... Talvez mais tarde...}{}{5}{}{0}{}
+{152}{Hã... Tá bom! ...por favô.}{}{-4}{gf2334 0, gf2336 0, gf2335 0}{214}{}
+{153}{Hã... Tá bom! ...por favô.}{}{-4}{gf2335 1}{217}{}
+{154}{Hã... Tá bom! ...por favô.}{}{-4}{gf2334 1}{-2}{lf2 1, lf13 1, gf2445 1}
+{155}{Hã... Tá bom! ...por favô.}{}{-4}{gf2336 1}{219}{}
 {156}{Eu amarro você e faço doer, Aliss?}{}{-4}{}{203}{}
 {157}{E se eu ficar muito mal?}{1}{-4}{ra1, lf6 0}{242}{}
 {158}{Você me bateu?}{1}{-4}{ra2, lf6 0}{246}{}
@@ -162,19 +162,19 @@
 {162}{O que você vai fazer comigo?}{1}{-4}{ra6, lf6 0}{262}{}
 {163}{O que você vai fazer comigo?}{1}{-4}{ra7, lf6 0}{266}{}
 {164}{Você vai me machucar?}{1}{-4}{ra8, lf6 0}{270}{}
-{165}{Hã... Talvez mais tarde...}{}{-4}{}{0}{}
+{165}{Hmm... Talvez mais tarde...}{}{-4}{}{0}{}
 {166}{T:11}{}{1}{}{107}{}
 {167}{Já estava na hora de você voltar, @pcname@... Receio que precise de correção novamente... Venha... Está pronto para sua surra?}{Já estava na hora de você voltar, @pcname@... Receio que precise de correção novamente... Venha... Está pronto para sua surra?}{}{}{}{lf4 1}
 {168}{Ah, sim! ...por favor.}{}{5}{gf2334 0, gf2336 0, gf2335 0}{214}{}
 {169}{Ah, sim! ...por favor.}{}{5}{gf2335 1}{217}{}
 {170}{Ah, sim! ...por favor.}{}{5}{gf2334 1}{-2}{lf2 1, lf13 1, gf2445 1}
 {171}{Ah, sim! ...por favor.}{}{5}{gf2336 1}{219}{}
-{172}{Hã... Talvez mais tarde...}{}{5}{}{0}{}
-{173}{Hã... Sim! ...por favor.}{}{-4}{gf2334 0, gf2336 0, gf2335 0}{214}{}
-{174}{Hã... Sim! ...por favor.}{}{-4}{gf2335 1}{217}{}
-{175}{Hã... Sim! ...por favor.}{}{-4}{gf2334 1}{-2}{lf2 1, lf13 1, gf2445 1}
-{176}{Hã... Sim! ...por favor.}{}{-4}{gf2336 1}{219}{}
-{177}{Hã... Talvez mais tarde...}{}{-4}{}{0}{}
+{172}{Hmm... Talvez mais tarde...}{}{5}{}{0}{}
+{173}{Hã... Tá bom! ...por favô.}{}{-4}{gf2334 0, gf2336 0, gf2335 0}{214}{}
+{174}{Hã... Tá bom! ...por favô.}{}{-4}{gf2335 1}{217}{}
+{175}{Hã... Tá bom! ...por favô.}{}{-4}{gf2334 1}{-2}{lf2 1, lf13 1, gf2445 1}
+{176}{Hã... Tá bom! ...por favô.}{}{-4}{gf2336 1}{219}{}
+{177}{Hmm... Talvez mais tarde...}{}{-4}{}{0}{}
 {178}{T:11}{}{1}{}{107}{}
 {179}{Venha aos meus aposentos, @pcname@... Adquiri alguns novos instrumentos... Talvez eu encontre novas formas de castigá-lo... Vamos começar?}{Venha aos meus aposentos, @pcname@... Adquiri alguns novos instrumentos... Talvez eu encontre novas formas de castigá-lo... Vamos começar?}{}{}{}{lf5 1}
 {180}{Ah, sim! ...por favor.}{}{5}{gf2334 0, gf2336 0, gf2335 0}{214}{}
@@ -182,10 +182,10 @@
 {182}{Ah, sim! ...por favor.}{}{5}{gf2334 1}{-2}{lf2 1, lf13 1, gf2445 1}
 {183}{Ah, sim! ...por favor.}{}{5}{gf2336 1}{219}{}
 {184}{Hmm... Talvez mais tarde...}{}{5}{}{0}{}
-{185}{Hmm... Sim! ...por favô.}{}{-4}{gf2334 0, gf2336 0, gf2335 0}{214}{}
-{186}{Hmm... Sim! ...por favô.}{}{-4}{gf2335 1}{217}{}
-{187}{Hmm... Sim! ...por favô.}{}{-4}{gf2334 1}{-2}{lf2 1, lf13 1, gf2445 1}
-{188}{Hmm... Sim! ...por favô.}{}{-4}{gf2336 1}{219}{}
+{185}{Hã... Tá bom! ...por favô.}{}{-4}{gf2334 0, gf2336 0, gf2335 0}{214}{}
+{186}{Hã... Tá bom! ...por favô.}{}{-4}{gf2335 1}{217}{}
+{187}{Hã... Tá bom! ...por favô.}{}{-4}{gf2334 1}{-2}{lf2 1, lf13 1, gf2445 1}
+{188}{Hã... Tá bom! ...por favô.}{}{-4}{gf2336 1}{219}{}
 {189}{Hmm... Talvez mais tarde...}{}{-4}{}{0}{}
 {190}{T:11}{}{1}{}{107}{}
 {191}{Oh @pcname@... Sua dor foi sublime da última vez que estivemos juntos... Estou pronta para alcançar a perfeição novamente... você está?}{Oh @pcname@... Sua dor foi sublime da última vez que estivemos juntos... Estou pronta para alcançar a perfeição novamente... você está?}{}{}{}{lf2 0, lf3 0, lf4 0, lf5 0}
@@ -194,10 +194,10 @@
 {194}{Ah, sim! ...por favor.}{}{5}{gf2334 1}{-2}{lf2 1, lf13 1, gf2445 1}
 {195}{Ah, sim! ...por favor.}{}{5}{gf2336 1}{219}{}
 {196}{Hmm... Talvez mais tarde...}{}{5}{}{0}{}
-{197}{Hmm... Sim! ...por favô.}{}{-4}{gf2334 0, gf2336 0, gf2335 0}{214}{}
-{198}{Hmm... Sim! ...por favô.}{}{-4}{gf2335 1}{217}{}
-{199}{Hmm... Sim! ...por favô.}{}{-4}{gf2334 1}{-2}{lf2 1, lf13 1, gf2445 1}
-{200}{Hmm... Sim! ...por favô.}{}{-4}{gf2336 1}{219}{}
+{197}{Hã... Tá bom! ...por favô.}{}{-4}{gf2334 0, gf2336 0, gf2335 0}{214}{}
+{198}{Hã... Tá bom! ...por favô.}{}{-4}{gf2335 1}{217}{}
+{199}{Hã... Tá bom! ...por favô.}{}{-4}{gf2334 1}{-2}{lf2 1, lf13 1, gf2445 1}
+{200}{Hã... Tá bom! ...por favô.}{}{-4}{gf2336 1}{219}{}
 {201}{Hmm... Talvez mais tarde...}{}{-4}{}{0}{}
 {202}{T:11}{}{1}{}{107}{}
 {203}{Se é isso que você quer, então precisa falar com Cassie. Eu estou aqui para dar punição... Vamos prosseguir para minha câmara?}{Se é isso que você quer, então precisa falar com Cassie. Eu estou aqui para dar punição... Vamos prosseguir para minha câmara?}{}{}{}{}
@@ -272,7 +272,7 @@
 {272}{Hã... Tá bom!}{}{-4}{}{107}{}
 {273}{F:}{}{1}{}{0}{}
 {274}{}{}{}{}{}{}
-{275}{De joelhos! Submeta-se! Você foi muito, muito mau!}{De joelhos! Submeta-se! Você foi muito, muito má!}{}{}{}{lf13 0, gf2347 0, gv1040 0, gf2445 0, gf 2338 0}
+{275}{De joelhos! Submeta-se! Você foi muito, muito má!}{De joelhos! Submeta-se! Você foi muito, muito má!}{}{}{}{lf13 0, gf2347 0, gv1040 0, gf2445 0, gf 2338 0}
 {276}{Ahh... mais uma boa surra. Preciso de um descanso!}{Ahh... mais uma boa surra. Preciso de um descanso!}{}{}{}{lf13 0 }
 {277}{Menino mau! Vou castigá-lo em breve!}{Menina má! Vou castigá-la em breve!}{}{}{}{}
 {278}{Não se atrase para sua consulta, seu garoto levado!}{Não se atrase para o seu compromisso, sua garota levada!}{}{}{}{}

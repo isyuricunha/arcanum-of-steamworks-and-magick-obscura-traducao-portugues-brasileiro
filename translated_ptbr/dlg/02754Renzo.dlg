@@ -3,7 +3,7 @@
 {3}{Irmã?}{0}{5}{rp1001, lf1 0}{20}{lf1 1 }
 {4}{Eu não sou seu irmão!}{1}{-4}{rp1001, lf1 0}{0}{lf1 1, fl 158}
 {5}{Eu não sou sua irmã!}{0}{-4}{rp1001, lf1 0}{0}{lf1 1, fl 158}
-{6}{Saudações. Posso saber seu nome?}{}{5}{rp-1001, lf1 0}{160}{lf1 1 }
+{6}{Saudações. Posso perguntar seu nome?}{}{5}{rp-1001, lf1 0}{160}{lf1 1 }
 {7}{Quem é você?}{}{-4}{rp-1001, lf1 0}{0}{lf1 1, fl 158}
 {8}{Está feito. Entreguei Frederik por você.}{}{5}{gf2638 1}{100}{qu1157 4 }
 {9}{Ainda não terminei sua tarefa.}{}{5}{gf2638 0, qu1157 2}{0}{lf1 1, fl 159}
@@ -25,12 +25,12 @@
 {61}{Há alguma forma de eu ajudá-lo a acertar as contas, talvez?}{}{5}{}{70}{ }
 {69}{Isso é fascinante, mas preciso ir. Adeus.}{}{5}{}{0}{lf3 1 }
 {70}{Seria muito apreciado, amigo. [Ele pensa por um momento.] Há uma maneira... se você pudesse plantar algo nele e depois denunciá-lo ao Capitão da Guarda em Roseborough, isso limparia nosso nome. Sem mencionar dar a ele a recompensa que merece. Eu pagaria 500 moedas pelo seu trabalho.}{Seria muito apreciado, amigo. [Ele pensa por um momento.] Há uma maneira... se você pudesse plantar algo nele e depois denunciá-lo ao Capitão da Guarda em Roseborough, isso limparia nosso nome. Sem mencionar dar a ele a recompensa que merece. Eu pagaria 500 moedas pelo seu trabalho.}{}{}{}{qu1157 1 }
-{71}{Tudo bem, eu faço. O que você gostaria que eu plantasse nele?}{}{5}{}{90}{qu1157 2 }
+{71}{Tudo bem, eu faço. O que você quer que eu plante nele?}{}{5}{}{90}{qu1157 2 }
 {72}{Não sou muito de roubar, que tal eu simplesmente matá-lo?}{}{5}{}{80}{ }
 {79}{No momento, não estou interessado. Vou pensar no assunto. Adeus.}{}{5}{}{0}{ }
 {80}{Não, não, isso não seria nada adequado. Seria extremamente desonroso, mesmo que ele não tenha honra alguma.}{Não, não, isso não seria nada adequado. Seria extremamente desonroso, mesmo que ele não tenha honra alguma.}{}{}{}{ }
 {81}{Tudo bem, eu faço. O que você quer que eu plante nele?}{}{5}{}{90}{qu1157 2 }
-{89}{Bem, então meus talentos estariam sendo desperdiçados aqui. Adeus.}{}{5}{}{0}{ }
+{89}{Bem, então meus talentos seriam desperdiçados aqui. Adeus.}{}{5}{}{0}{ }
 {90}{Aqui. [Ele mostra uma estátua antiga.] Isso não só resolveria o problema, como também seria uma justiça poética. Frederik não só nos entregou, como conseguiu fugir com a maior parte dos objetos de valor do roubo. Esta estátua é uma antiga relíquia de família dos turistas que assaltamos. Não tem quase valor algum, mas é o suficiente para convencer a lei local de que Frederik estava envolvido. [Ele a entrega a você.]}{Aqui. [Ele mostra uma estátua antiga.] Isso não só resolveria o problema, como também seria uma justiça poética. Frederik não só nos entregou, como conseguiu fugir com a maior parte dos objetos de valor do roubo. Esta estátua é uma antiga relíquia de família dos turistas que assaltamos. Não tem quase valor algum, mas é o suficiente para convencer a lei local de que Frederik estava envolvido. [Ele a entrega a você.]}{}{}{}{in-5696 }
 {91}{Onde posso encontrar esse Frederik?}{}{5}{gf2636 0}{0}{fl 95}
 {92}{Frederik? De Roseborough? Eu, hã, matei ele...}{}{5}{gf2636 1}{110}{ }
@@ -49,7 +49,7 @@
 {142}{Houve, hã, morte envolvida... Prefiro não falar sobre isso.}{}{5}{}{150}{ }
 {150}{Entendido. Bem, agradeço pela sua tentativa de ajudar, pelo menos. Aqui estão algumas moedas pelo seu incômodo.}{Entendido. Bem, agradeço pela sua tentativa de ajudar, pelo menos. Aqui estão algumas moedas pelo seu incômodo.}{}{}{}{$$150, lf6 1 }
 {151}{A:}{}{5}{}{0}{ }
-{158}{Ah, que triste. Um simplório. Vá embora, não há nada para você aqui.}{Ah, que triste. Um simplório. Siga seu caminho, não há nada para você aqui.}{}{}{}{ }
+{158}{Ah, que triste. Um simplório. Siga seu caminho, não há nada para você aqui.}{Ah, que triste. Um simplório. Siga seu caminho, não há nada para você aqui.}{}{}{}{ }
 {159}{Bem, avise-me quando souber.}{Bem, avise-me quando souber.}{}{}{}{ }
 {160}{Sou conhecido como Renzo. E você é?}{Sou conhecido como Renzo. E você é?}{}{}{}{ }
 {161}{Sou conhecido como @pcname@.}{}{5}{}{170}{ }

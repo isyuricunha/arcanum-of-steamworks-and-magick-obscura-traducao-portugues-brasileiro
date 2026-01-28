@@ -17,23 +17,23 @@
 {27}{[O sacerdote passa a mão sobre o senhor, fazendo um sinal. Ele inclina levemente a cabeça.] O senhor tem razão, meu filho. Um sacerdote deveria ter mais paciência e compreensão. Farei o possível para ignorar seus defeitos...}{[O sacerdote passa a mão sobre a senhora, fazendo um sinal. Ele inclina levemente a cabeça.] A senhora tem razão, boa mulher. Um sacerdote deveria ter mais paciência e compreensão. Farei o possível para ignorar seus defeitos...}{}{}{}{}
 {28}{Obrigado. Posso perguntar quem é o senhor?}{}{5}{me 0}{44}{}
 {29}{O senhor é muito generoso, Sr. Wallows. Tem um momento?}{}{5}{me 1}{51}{}
-{35}{[O sacerdote dá um passo para trás, franzindo a testa.] Não recomendo que fale comigo dessa maneira. Posso ser um sacerdote, mas não hesitarei em derramar o sangue de um estrangeiro ignorante...}{[O sacerdote dá um passo para trás, franzindo a testa.] Não recomendo que fale comigo dessa maneira. Posso ser um sacerdote, mas não hesitarei em derramar o sangue de uma estrangeira ignorante...}{}{}{}{}
+{35}{[O sacerdote dá um passo para trás, franzindo a testa.] Não recomendo que fale comigo dessa maneira. Posso ser um sacerdote, mas não hesitarei em derramar o sangue de uma estrangeira ignorante...}{[O sacerdote dá um passo para trás, franzindo a testa.] Não recomendo que fale comigo dessa maneira. Posso ser um sacerdote, mas não hesitarei em derramar o sangue de uma estrangeira ignorante...}{}{}{}{}
 {36}{Acho que não é necessário. Por favor, perdoe minhas palavras duras...}{}{5}{}{27}{re +10}
 {37}{Espero que tenha feito as pazes com seus deuses, sacerdote...}{}{5}{}{}{co, fl 40}
 {38}{E:}{}{5}{}{0}{}
 {40}{Sinto muito que as coisas tenham terminado dessa forma...}{Sinto muito que as coisas tenham terminado dessa forma...}{}{}{}{}
-{44}{Sou Edwin Wallows, um sacerdote da Ordem Halcyon aqui em Vooriden. Como posso ajudá-lo hoje?}{Sou Edwin Wallows, um sacerdote da Ordem Halcyon aqui em Vooriden. Como posso ajudá-la hoje?}{}{}{}{}
+{44}{Sou Edwin Wallows, um sacerdote da Ordem Halcyon aqui em Vooriden. Como posso ajudá-la hoje?}{Sou Edwin Wallows, um sacerdote da Ordem Halcyon aqui em Vooriden. Como posso ajudá-la hoje?}{}{}{}{}
 {45}{Um prazer, Edwin. Tem um momento para conversar?}{}{5}{}{51}{}
 {48}{Oi! Posso lhe fazer perguntas?}{}{-4}{}{51}{}
 {51}{Claro...}{Claro...}{}{}{}{}
 {52}{Conte-me sobre este templo, Edwin...}{}{5}{}{66}{}
 {53}{Tenho algumas perguntas sobre sua religião...}{}{5}{lf1 1}{81}{}
-{54}{Talvez eu possa resolver o problema com seu altar}{}{5}{lf2 1, lf3 0, lf4 0}{148}{}
+{54}{Talvez eu pudesse resolver o problema com o seu altar?}{}{5}{lf2 1, lf3 0, lf4 0}{148}{}
 {55}{Ainda não recuperei a pedra do altar...}{}{5}{lf3 1, lf4 0, ni 5621}{182}{}
 {56}{Voltei com a pedra do altar...}{}{5}{qa1151 1, in 5621, lf3 1, lf4 0}{185}{}
 {57}{Voltei com a pedra do altar...}{}{5}{qa1055 1, in 5621, lf3 1, lf4 0}{189}{}
 {58}{Que templo é este...?}{}{-4}{}{66}{}
-{59}{Eu faço umas perguntas sobre ree-li-jjun...?}{}{-4}{lf1 1}{81}{}
+{59}{Vou te fazer umas perguntas sobre ree-li-jjun...?}{}{-4}{lf1 1}{81}{}
 {60}{Talvez eu ajude você com a pedra al-tur...}{}{-4}{lf2 1, lf3 0, lf4 0}{148}{}
 {61}{Ainda estou procurando pela pedra al-tur...}{}{-4}{lf3 1, lf4 0, ni 5621}{182}{}
 {62}{Consegui a pedra al-tur!}{}{-4}{qa1151 1, in 5621, lf3 1, lf4 0}{185}{}
@@ -47,19 +47,19 @@
 {71}{O que aconteceu?}{}{-4}{}{73}{}
 {73}{Ah, suponho que seja apenas o jeito das coisas mudarem. A religião Panarii surgiu, falando de Nasrudin e sua sabedoria. Sua religião era muito mais fácil e muito mais tolerante. Os deuses antigos não são assim. E embora sua voz seja fraca, ainda é possível ouvi-los... e eles ainda ouvem aqueles que os invocam. Nós, da Ordem Halcyon, ainda adoramos o deus Halcyon...}{Ah, suponho que seja apenas o jeito das coisas mudarem. A religião Panarii surgiu, falando de Nasrudin e sua sabedoria. Sua religião era muito mais fácil e muito mais tolerante. Os deuses antigos não são assim. E embora sua voz seja fraca, ainda é possível ouvi-los... e eles ainda ouvem aqueles que os invocam. Nós, da Ordem Halcyon, ainda adoramos o deus Halcyon...}{}{}{}{}
 {74}{Tenho algumas perguntas sobre sua religião...}{}{5}{}{81}{}
-{75}{Eu faço umas perguntas sobre ree-li-jjun...?}{}{-4}{}{81}{}
+{75}{Vou te fazer umas perguntas sobre ree-li-jjun...?}{}{-4}{}{81}{}
 {78}{K:}{}{1}{}{51}{}
 {79}{E:}{}{1}{}{0}{}
 {81}{Claro. O que posso lhe contar sobre nossas crenças?}{Claro. O que posso lhe contar sobre nossas crenças?}{}{}{}{}
 {82}{Fale-me sobre os deuses antigos...}{}{5}{}{99}{}
 {83}{Fale-me sobre o deus Halcyon...}{}{5}{}{106}{}
-{84}{Posso fazer uma oferenda ao deus Halcyon?}{}{5}{lf4 0}{115}{}
+{84}{Posso fazer uma oferenda ao deus Halcyon?}{}{5}{lf2 0, lf4 0}{115}{}
 {85}{Posso fazer uma oferenda ao deus Halcyon?}{}{5}{lf4 1}{94}{}
 {86}{Mais algumas perguntas gerais...}{}{5}{}{51}{}
 {87}{Fala-me dos deuses antigos!}{}{-4}{}{99}{}
 {88}{Fala-me do seu deus!}{}{-4}{}{106}{}
-{89}{Posso fazer uma aw-fur-ing para o seu deus?}{}{-4}{lf4 0}{115}{}
-{90}{Posso fazer uma aw-fur-ing para o seu deus?}{}{-4}{lf4 1}{94}{}
+{89}{Posso fazer uma aw-fur-ing pro seu deus?}{}{-4}{lf2 0, lf4 0}{115}{}
+{90}{Posso fazer uma aw-fur-ing pro seu deus?}{}{-4}{lf4 1}{94}{}
 {91}{Outras perguntas!}{}{-4}{}{51}{}
 {92}{E:}{}{1}{}{0}{}
 {94}{Sim... se você for até o altar, ele lhe dirá o que precisa fazer...}{Sim... se você for até o altar, ele lhe dirá o que precisa fazer...}{}{}{}{}
@@ -70,15 +70,15 @@
 {100}{E quanto ao deus Halcyon?}{}{5}{}{106}{}
 {101}{Mais algumas perguntas sobre sua religião...}{}{5}{}{81}{}
 {102}{E o seu deus?}{}{-4}{}{106}{}
-{103}{Vou te fazer perguntas sobre ree-li-jjun...?}{}{-4}{}{81}{}
+{103}{Vou te fazer umas perguntas sobre ree-li-jjun...?}{}{-4}{}{81}{}
 {104}{E:}{}{1}{}{0}{}
 {106}{O deus Halcyon é o deus da Verdade. Nós o veneramos olhando para nós mesmos e descobrindo a verdade interior. Removemos tudo o que está em conflito com essa verdade interna. A verdade é diferente para cada homem... Halcyon apenas pede que cada homem seja honesto consigo mesmo ao buscá-la. Então, e somente então, o Halcyon interior de um homem pode emergir. [Ele inclina a cabeça, em respeito ao seu deus.]}{O deus Halcyon é o deus da Verdade. Nós o veneramos olhando para nós mesmos e descobrindo a verdade interior. Removemos tudo o que está em conflito com essa verdade interna. A verdade é diferente para cada homem... Halcyon apenas pede que cada homem seja honesto consigo mesmo ao buscá-la. Então, e somente então, o Halcyon interior de um homem pode emergir. [Ele inclina a cabeça, em respeito ao seu deus.]}{}{}{}{}
-{107}{Posso fazer uma oferenda a Halcyon?}{}{5}{lf4 0}{115}{}
-{108}{Posso fazer uma oferenda a Halcyon?}{}{5}{lf4 1}{}{}
+{107}{Posso fazer uma oferenda a Halcyon?}{}{5}{lf2 0, lf4 0}{115}{}
+{108}{Posso fazer uma oferenda a Halcyon?}{}{5}{lf4 1}{94}{}
 {109}{Mais algumas perguntas sobre sua religião...}{}{5}{}{81}{}
-{110}{Posso fazer uma aw-fur-ing pro seu deus?}{}{-4}{lf4 0}{115}{}
-{111}{Posso fazer uma aw-fur-ing pro seu deus?}{}{-4}{lf4 1}{}{}
-{112}{Vou te fazer perguntas sobre ree-li-jjun...?}{}{-4}{}{81}{}
+{110}{Posso fazer uma aw-fur-ing pro seu deus?}{}{-4}{lf2 0, lf4 0}{115}{}
+{111}{Posso fazer uma aw-fur-ing pro seu deus?}{}{-4}{lf4 1}{94}{}
+{112}{Vou te fazer umas perguntas sobre ree-li-jjun...?}{}{-4}{}{81}{}
 {113}{E:}{}{1}{}{0}{}
 {115}{Não... sinto muito, mas ninguém fez uma oferenda verdadeira a Halcyon aqui há quase 200 anos...}{Não... sinto muito, mas ninguém fez uma oferenda verdadeira a Halcyon aqui há quase 200 anos...}{}{}{}{}
 {116}{Por quê?}{}{5}{}{119}{}
@@ -91,7 +91,7 @@
 {125}{Entendo. Por que vocês não conseguem um novo altar?}{}{5}{}{131}{}
 {126}{Mais algumas perguntas sobre sua religião...}{}{5}{}{81}{}
 {127}{Por que vocês não arrumam um altur novo?}{}{-4}{}{131}{}
-{128}{Vou te fazer perguntas sobre ree-li-jjun...?}{}{-4}{}{81}{}
+{128}{Vou te fazer umas perguntas sobre ree-li-jjun...?}{}{-4}{}{81}{}
 {129}{E:}{}{1}{}{0}{}
 {131}{Não é tão fácil quanto você pensa. Veja bem, há regras relacionadas à construção de altares...}{Não é tão fácil quanto você pensa. Veja bem, há regras relacionadas à construção de altares...}{}{}{}{}
 {132}{O que são eles?}{}{5}{}{135}{}
@@ -138,8 +138,8 @@
 {179}{É! O que preciso fazer?}{}{-4}{}{131}{}
 {182}{Entendo. Desejo-lhe boa sorte em sua busca...}{Entendo. Desejo-lhe boa sorte em sua busca...}{}{}{}{}
 {183}{E:}{}{1}{}{0}{}
-{185}{Você conseguiu! Isso é maravilhoso! Aqui... deixe-me pegar... [Ele o faz.] Uau! Isso é pesado! Vamos consertar este altar em um instante! Muito obrigado! Que Halcyon sempre ilumine seu caminho e lhe mostre a verdade que nos aguarda...}{Você conseguiu! Isso é maravilhoso! Aqui... deixe-me pegar... [Ele o faz.] Uau! Isso é pesado! Muito obrigado! Que Halcyon sempre ilumine seu caminho e lhe mostre a verdade que nos aguarda...}{}{}{}{gf2749 1, in 5621, qu1151 4, lf4 1, gf2535 1, fp}
+{185}{Você conseguiu! Isso é maravilhoso! Aqui... deixe-me pegar... [Ele o faz.] Uau! Isso é pesado! Vamos consertar este altar em um instante! Muito obrigado! Que Halcyon sempre ilumine seu caminho e lhe mostre a verdade que nos aguarda...}{Você conseguiu! Isso é maravilhoso! Aqui... deixe-me pegar... [Ele o faz.] Uau! Isso é pesado! Muito obrigado! Que Halcyon sempre ilumine seu caminho e lhe mostre a verdade que nos aguarda...}{}{}{}{gf2749 1, in 5621, qu1151 4, lf4 1, gf2435 1, fp}
 {186}{E:}{}{1}{}{-2}{}
-{189}{Você conseguiu! Isso é maravilhoso! Aqui... deixe-me pegar... [Ele o faz.] Uau! Isso é pesado! Vamos consertar este altar em um instante! Muito obrigado! Que Halcyon sempre ilumine seu caminho e lhe mostre a verdade que nos aguarda...}{Você conseguiu! Isso é maravilhoso! Aqui... deixe-me pegar... [Ele o faz.] Uau! Isso é pesado! Muito obrigado! Que Halcyon sempre ilumine seu caminho e lhe mostre a verdade que nos aguarda...}{}{}{}{in 5621, lf4 1, gf2535 1, qu1055 4}
+{189}{Você conseguiu! Isso é maravilhoso! Aqui... deixe-me pegar... [Ele o faz.] Uau! Isso é pesado! Vamos consertar este altar em um instante! Muito obrigado! Que Halcyon sempre ilumine seu caminho e lhe mostre a verdade que nos aguarda...}{Você conseguiu! Isso é maravilhoso! Aqui... deixe-me pegar... [Ele o faz.] Uau! Isso é pesado! Muito obrigado! Que Halcyon sempre ilumine seu caminho e lhe mostre a verdade que nos aguarda...}{}{}{}{in 5621, lf4 1, gf2435 1, qu1055 4}
 {190}{E:}{}{1}{}{-2}{}
 

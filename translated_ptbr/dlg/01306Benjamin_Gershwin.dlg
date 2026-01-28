@@ -36,7 +36,7 @@
 {37}{No que você está trabalhando agora?}{}{-4}{qu1154 0}{39}{}
 {39}{É interessante você perguntar... Estou procurando adquirir os crânios de Jin e Xin, as famosas gêmeas siamesas Ren'ar, para meus estudos. Elas eram debutantes élficas que viveram unidas pelo quadril a vida toda! Personagens escandalosas também... histórias de suas façanhas ainda circulam nos círculos sociais elitistas de Tarant...}{É interessante você perguntar... Estou procurando adquirir os crânios de Jin e Xin, as famosas gêmeas siamesas Ren'ar, para meus estudos. Elas eram debutantes élficas que viveram unidas pelo quadril a vida toda! Personagens escandalosas também... histórias de suas façanhas ainda circulam nos círculos sociais elitistas de Tarant...}{}{}{}{}
 {40}{Adquirir? Onde esses crânios podem ser encontrados?}{}{5}{}{45}{re +5}
-{41}{Bem. Cada um com seus hobbies. Deixo você com os seus...}{}{5}{}{0}{}
+{41}{Bem. Todo homem tem seus hobbies. Deixo você com os seus...}{}{5}{}{0}{}
 {42}{Eu quero ver crânios!}{}{-4}{}{45}{re +5}
 {43}{Que chato. Tchau!}{}{-4}{}{0}{re -5}
 {45}{Bem, isso vai ser um pequeno problema... talvez você possa me ajudar? Elas estão sepultadas em um mausoléu no cemitério de Tarant. Pagarei 100 peças de ouro pelo seu trabalho...}{Bem, isso vai ser um pequeno problema... talvez você possa me ajudar? Elas estão sepultadas em um mausoléu no cemitério de Tarant. Pagarei 100 peças de ouro pelo seu trabalho...}{}{}{}{qu1069 1, ru2209}
@@ -48,20 +48,20 @@
 {51}{Não sei. Talvez eu volte mais tarde.}{}{-4}{}{0}{}
 {52}{Vou pensar a respeito. Tenha um bom dia...}{}{5}{}{0}{}
 {53}{Muito obrigado. As informações nesses crânios podem muito bem desvendar os últimos segredos frenológicos... nos ajudar a obter insights sobre o funcionamento da mente humana!}{Muito obrigado. As informações nesses crânios podem muito bem desvendar os últimos segredos frenológicos... nos ajudar a obter insights sobre o funcionamento da mente humana!}{}{}{}{}
-{54}{Tenho certeza que sim. Adeus...}{}{5}{}{0}{}
+{54}{Tenho certeza de que sim. Adeus...}{}{5}{}{0}{}
 {55}{E:}{}{-4}{}{0}{}
 {63}{Claro...}{Claro...}{}{}{}{}
 {64}{O que a senhora faz aqui?}{}{5}{qu1069 0, ni 5629}{33}{}
-{65}{Talvez eu consiga encontrar esses crânios para você...}{}{5}{qu1069 1, ni 5629}{53}{}
+{65}{Talvez eu consiga encontrar esses crânios para você...}{}{5}{qu1069 1, ni 5629}{53}{qu1069 2}
 {66}{Ainda não encontrei os crânios...}{}{5}{qu1069 2, ni 5629}{76}{}
 {67}{Encontrei os crânios... [Você os entrega a ele.]}{}{5}{qa1069 1, in 5629, qu1154 0}{80}{in 5629}
-{68}{Preciso falar com você sobre esses crânios...}{}{5}{qu1069 4, qa1154 1}{150}{}
+{68}{Preciso falar com você sobre aqueles crânios...}{}{5}{qu1069 4, qa1154 1}{150}{}
 {69}{O que você está fazendo aqui?}{}{-4}{qu1069 0, ni 5629}{33}{}
-{70}{Talvez eu consiga os crânios para você?}{}{-4}{qu1069 1, ni 5629}{53}{}
+{70}{Talvez eu consiga os crânios para você?}{}{-4}{qu1069 1, ni 5629}{53}{qu1069 2}
 {71}{Eu não encontrei os crânios!}{}{-4}{qu1069 2, ni 5629}{76}{}
 {72}{Eu peguei os crânios... [Você os entrega a ele.]}{}{-4}{qu1069 2, in 5629}{80}{in 5629}
 {73}{Encontrei os crânios, mas preciso falar com você sobre eles...}{}{5}{qa1069 1, in 5629, qa1154 1}{195}{}
-{74}{Preciso falar com você sobre aqueles crânios...}{}{5}{qa1069 1, ni 5629, qa1154 1}{235}{}
+{74}{Preciso falar com você sobre aqueles crânios...}{}{5}{qu1069 2, ni 5629, qa1154 1}{235}{}
 {75}{E:}{}{1}{}{0}{}
 {76}{Depressa! Quanto antes eu os examinar, mais rápido poderemos descobrir que segredos eles guardam!}{Depressa! Quanto antes eu os examinar, mais rápido poderemos descobrir que segredos eles guardam!}{}{}{}{}
 {77}{E:}{}{5}{}{0}{}
@@ -79,13 +79,13 @@
 {94}{[Fazer isso.]}{}{1}{ra 8}{124}{}
 {96}{Ah... oh! Muito interessante! Eu diria, sem dúvida, que você é de fato um humano!}{Ah... oh! Muito interessante! Eu diria, sem dúvida, que você é de fato um humano!}{}{}{}{}
 {97}{Seus poderes me impressionam, Benjamin...}{}{5}{}{128}{}
-{98}{Hã... é! Tá certo! Você é esperto!}{}{-4}{}{128}{}
+{98}{Uh... é! Você tem razão! Você é esperto!}{}{-4}{}{128}{}
 {100}{Ah... oh! Muito interessante! Eu diria, sem dúvida, que você é de fato um anão!}{Ah... oh! Muito interessante! Eu diria, sem dúvida, que você é de fato um anão!}{}{}{}{}
 {101}{Seus poderes me impressionam, Benjamin...}{}{5}{}{128}{}
-{102}{Hã... é! Tá certo! Você é esperto!}{}{-4}{}{128}{}
+{102}{Uh... é! Você tem razão! Você é esperto!}{}{-4}{}{128}{}
 {104}{Ah... oh! Muito interessante! Eu diria, sem dúvida, que você é de fato um elfo!}{Ah... oh! Muito interessante! Eu diria, sem dúvida, que você é de fato um elfo!}{}{}{}{}
 {105}{Seus poderes me impressionam, Benjamin...}{}{5}{}{128}{}
-{106}{Hã... é! Tá certo! Você é esperto!}{}{-4}{}{128}{}
+{106}{Uh... é! Você tem razão! Você é esperto!}{}{-4}{}{128}{}
 {108}{Ah... oh! Muito interessante! Eu diria, sem dúvida, que você é de fato um meio-elfo!}{Ah... oh! Muito interessante! Eu diria, sem dúvida, que você é de fato um meio-elfo!}{}{}{}{}
 {109}{Seus poderes me impressionam, Benjamin...}{}{5}{}{128}{}
 {110}{Uh... é! Você tem razão! Você é esperto!}{}{-4}{}{128}{}
@@ -111,14 +111,14 @@
 {137}{Acho que não. Você precisa aprender algumas boas maneiras.}{}{5}{}{16}{re-10}
 {140}{Tudo em nome da ciência, meu rapaz, tudo em nome da ciência. Só pense nos avanços que poderiam ser feitos com apenas essa pequena... "indiscrição".}{Tudo em nome da ciência, senhorita, tudo em nome da ciência. Só pense nos avanços que poderiam ser feitos com apenas essa pequena... "indiscrição".}{}{}{}{}
 {141}{Bem, já que você colocou de forma tão eloquente... eu aceito.}{}{5}{}{53}{qu1069 2}
-{149}{Vou ter que pensar melhor sobre isso. Adeus.}{}{5}{}{0}{}
+{149}{Vou ter que refletir mais sobre isso. Adeus.}{}{5}{}{0}{}
 {150}{Sim, o que há com eles?}{Sim, o que há com eles?}{}{}{}{}
 {151}{Eles fazem parte de algo que não estou autorizado a discutir...}{}{5}{}{160}{}
 {160}{[Uma expressão desconfiada cruza seu rosto.] Do que se trata tudo isso? O que está dizendo?}{[Uma expressão desconfiada cruza seu rosto.] Do que se trata tudo isso? O que está dizendo?}{}{}{}{}
 {161}{Estou dizendo que preciso recuperar aqueles crânios de você. Não posso dizer o motivo.}{}{5}{}{170}{}
 {170}{O quê? Nunca! Esperei anos por esta oportunidade! Não vou permitir que me sejam arrancados na véspera de estabelecer meu nome como o principal frenologista do mundo! Ora, apenas um olhar superficial neles já levantou muitas questões fascinantes a serem desvendadas!}{O quê? Nunca! Esperei anos por esta oportunidade! Não vou permitir que me sejam arrancados na véspera de estabelecer meu nome como o principal frenologista do mundo! Ora, apenas um olhar superficial neles já levantou muitas questões fascinantes a serem desvendadas!}{}{}{}{}
 {171}{Talvez haja alguma forma de eu persuadi-lo...}{}{5}{ps4}{180}{}
-{172}{Escute aqui, velho, entregue-os ou torço seu pescoço!}{}{5}{sk2 12}{0}{re-10, in5629, lf2 1, fl 179}
+{172}{Escute aqui, velho, entregue-os ou torço seu pescoço!}{}{5}{sk2 12}{0}{re-10, in-5629, lf2 1, fl 179}
 {173}{É perigoso tê-los. Você não sabe no que está se metendo.}{}{5}{ps-3}{0}{gf2602 1, lf4 1, fl 190}
 {179}{Aqui estão! Por favor, não me machuque! Sou um homem da ciência, não um bárbaro!}{Aqui estão! Por favor, não me machuque! Sou um homem da ciência, não um bárbaro!}{}{}{}{}
 {180}{[Ele hesita por um momento.] Não... não. Estamos falando da minha vida aqui. Não vou entregá-los, não vou!}{[Ele hesita por um momento.] Não... não. Estamos falando da minha vida aqui. Não vou entregá-los, não vou!}{}{}{}{}
@@ -146,7 +146,7 @@
 {241}{Eles fazem parte de uma enorme conspiração e são perigosos.}{}{5}{}{0}{fl 249}
 {249}{[Ele o dispensa com um gesto.] Ora, ora! Não quero ouvir nada disso! Não sou homem de política, não me importo com essas coisas. Tudo o que me interessa é adquirir esses crânios!}{[Ele o dispensa com um gesto.] Ora, ora! Não quero ouvir nada disso! Não sou homem de política, não me importo com essas coisas. Tudo o que me interessa é adquirir esses crânios!}{}{}{}{}
 {250}{Que respostas você poderia me dar? Sou uma autoridade, e você não passa de um leigo!}{Que respostas você poderia me dar? Sou uma autoridade!}{}{}{}{}
-{251}{Os gêmeos foram resultado de experimentos de cruzamento, para começar...}{}{5}{}{0}{gf2602 1, lf4 1, fl 259}
+{251}{Os gêmeos foram resultado de experimentos de reprodução, para começar...}{}{5}{}{0}{gf2602 1, lf4 1, fl 259}
 {252}{Sua própria reputação está em jogo aqui.}{}{5}{}{335}{}
 {259}{Hoh! Isso é rico! Eu consigo identificar um crânio puro só pelo toque, e posso lhe dizer que só havia sangue élfico correndo por suas veias! Não sei por que está me incomodando com essa farsa, mas estou cansado disso. Tenha um bom dia.}{Hoh! Isso é rico! Eu consigo identificar um crânio puro só pelo toque, e posso lhe dizer que só havia sangue élfico correndo por suas veias! Não sei por que está me incomodando com essa farsa, mas estou cansado disso. Tenha um bom dia.}{}{}{}{}
 {260}{O... o que você q-quer dizer com perigosos??}{O... o que você q-quer dizer com perigosos??}{}{}{}{}
@@ -163,7 +163,7 @@
 {300}{Espere um momento, quando foi que você falou com ele?}{Espere um momento, quando foi que você falou com ele?}{}{}{}{}
 {301}{Hã... pouco antes de vir falar com você?}{}{5}{}{0}{gf2602 1, lf4 1, fl 310}
 {310}{Acho que não. Ele está fora, no continente distante, há mais de seis meses, tentando provar sua última teoria maluca. Não sei se você está trabalhando para ele de alguma forma, ou qual é o seu jogo, mas não desejo mais falar com você. Tenha um bom dia.}{Acho que não. Ele está fora, no continente distante, há mais de seis meses, tentando provar sua última teoria maluca. Não sei se você está trabalhando para ele de alguma forma, ou qual é o seu jogo, mas não desejo mais falar com você. Tenha um bom dia.}{}{}{}{}
-{315}{Sim, sim, claro. Aqui estão. Obrigado por toda a sua ajuda, meu filho.}{Sim, sim, claro. Aqui estão. Obrigado por toda a sua ajuda, senhorita.}{}{}{in-5629, xp2, lf6 1}{}
+{315}{Sim, sim, claro. Aqui estão. Obrigado por toda a sua ajuda, meu filho.}{Sim, sim, claro. Aqui estão. Obrigado por toda a sua ajuda, senhorita.}{}{}{}{in-5629, xp2, lf6 1}
 {316}{Isso nem merece ser mencionado, na verdade.}{}{5}{}{0}{}
 {325}{Pelos deuses! De quem foi esse plano desonroso... espere, foi o Dr. von Felden, não foi?! Aquele desgraçado está sempre tentando me superar! Ele tem inveja do meu gênio, tem sim!}{Pelos deuses! De quem foi esse plano desonroso... espere, foi o Dr. von Felden, não foi?! Aquele desgraçado está sempre tentando me superar! Ele tem inveja do meu gênio, tem sim!}{}{}{}{}
 {326}{Se você me der os crânios, encontrarei um jeito de frustrar seus planos ardilosos...}{}{5}{}{315}{}

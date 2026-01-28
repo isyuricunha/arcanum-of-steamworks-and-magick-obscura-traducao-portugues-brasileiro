@@ -1,20 +1,20 @@
 {1}{Saudações, sangue-quente. Eu sou Waromon.}{Saudações, sangue-quente. Eu sou Waromon.}{}{}{}{}
-{2}{Estou aqui para descobrir o que aconteceu com o caçador élfico...}{}{5}{qb1079 3, gf2154 0}{16}{}
+{2}{Estou aqui para descobrir o que aconteceu com o caçador élfico...}{}{5}{gf2146 0, gf2154 0}{16}{}
 {3}{Kan Kerai me disse para falar com você...}{}{5}{gf2154 1}{7}{}
 {4}{Tem certeza de que não quer se juntar a mim, Waromon?}{}{5}{lf1 1}{}{jo 0  13}
 {5}{E:}{}{5}{}{0}{}
 {7}{Sim? Então falaremos...}{Sim? Então falaremos...}{}{}{}{lf1 1}
 {8}{Ele ofereceu seus serviços, se quiser se juntar a mim...}{}{5}{}{10}{jo 0  13}
-{10}{Há mais alguma coisa, sangue-quente?}{Há mais alguma coisa, sangue-quente?}{}{}{}{}
+{10}{Havia mais alguma coisa, sangue-quente?}{Havia mais alguma coisa, sangue-quente?}{}{}{}{}
 {11}{E:}{}{5}{}{0}{}
 {13}{Sim... Eu me juntarei a você em sua missão. Que os pais-serpentes caminhem conosco...}{Sim... Eu me juntarei a você em sua missão. Que os pais-serpentes caminhem conosco...}{}{}{}{}
 {14}{E:}{}{5}{}{0}{}
 {16}{Você terá que falar com Kan Kerai, nosso chefe. [O homem-lagarto o observa com cautela.] Só ele saberá de tais coisas, sangue-quente.}{Você terá que falar com Kan Kerai, nosso chefe. [O homem-lagarto o observa com cautela.] Só ele saberá de tais coisas, sangue-quente.}{}{}{}{}
 {17}{E:}{}{5}{}{0}{}
-{19}{Como posso servi-lo?}{Como posso [HIC!] te ajudar?}{}{}{}{}
-{20}{B:}{}{5}{}{}{}
-{21}{Tenho algumas perguntas para você, Waromon...}{}{5}{}{27}{}
-{22}{Gostaria que fizesse algo por mim, Waromon...}{}{5}{}{140}{}
+{19}{Como posso servi-lo?}{Como posso servi-lo?}{}{}{}{}
+{20}{B:}{}{5}{wa 0}{}{}
+{21}{Tenho algumas perguntas para você, Waromon...}{}{5}{wa 0}{27}{}
+{22}{Gostaria que fizesse algo por mim, Waromon...}{}{5}{wa 0}{140}{}
 {23}{Pode parar de esperar agora, Waromon...}{}{5}{wa 1}{162}{uw 0 148}
 {24}{E:}{}{5}{}{0}{}
 {25}{Hã...}{}{-4}{}{}{fl 180}
@@ -48,5 +48,5 @@
 {171}{Hã...}{}{-4}{}{}{fl 180}
 {173}{Sim. Parece ser a vontade dos pais-serpentes que eu caminhe com você mais uma vez...}{Sim. Parece ser a vontade dos pais-serpentes que eu caminhe com você mais uma vez...}{}{}{}{}
 {174}{E:}{}{1}{}{0}{}
-{180}{<<<PH1>>>}{<<<PH2>>>}{}{}{}{}
+{180}{<<<PH2>>>}{<<<PH2>>>}{}{}{}{}
 

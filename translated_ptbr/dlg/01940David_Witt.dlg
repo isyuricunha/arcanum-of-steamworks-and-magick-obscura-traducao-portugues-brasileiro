@@ -46,12 +46,12 @@
 {54}{E um cachorro? Você tem um cachorro? ...ou talvez seja um lobo?}{}{5}{}{59}{} 
 {55}{Você mora aqui sozinho?}{}{5}{}{65}{} 
 {56}{Você tem cachorro? ...ou tem lobo?}{}{-4}{}{59}{} 
-{57}{Você tá aqui sozinho?}{}{-4}{}{65}{} 
+{57}{Você é o único aqui?}{}{-4}{}{65}{} 
 {58}{E:}{}{1}{}{0}{} 
 {59}{Não há lobos por quilômetros ao redor. Não tenho cachorro... já tentei antes, mas dava muito trabalho evitar que assustassem os coelhos. Nunca tive um que os comesse, no entanto...}{Não há lobos por quilômetros ao redor. Não tenho cachorro... já tentei antes, mas dava muito trabalho evitar que assustassem os coelhos. Nunca tive um que os comesse, no entanto...}{}{}{}{} 
 {60}{Alguém mais mora aqui com você?}{}{5}{}{65}{} 
 {61}{Hmm... Intrigante. Há mais alguém com quem eu possa falar?}{}{5}{}{65}{} 
-{62}{Você tá aqui sozinho?}{}{-4}{}{65}{} 
+{62}{Você é o único aqui?}{}{-4}{}{65}{} 
 {63}{Hmm... isso é estranho. Eu falo com mais alguém sobre isso?}{}{-4}{}{65}{} 
 {64}{E:}{}{1}{}{0}{} 
 {65}{Minha filha mora comigo. Você pode falar com ela, se quiser. Ela tem sumido muitas noites... suspeito que esteja saindo escondida para ver seu prometido. [piscadela] Ahh... ser jovem de novo...}{Minha filha mora comigo. Você pode falar com ela, se quiser. Ela tem sumido muitas noites... suspeito que esteja saindo escondida para ver seu prometido. [piscadela] Ahh... ser jovem de novo...}{}{}{}{lf3 1} 
@@ -60,7 +60,7 @@
 {68}{E:}{}{1}{}{0}{} 
 {69}{O que posso fazer por você, @pcname@?}{O que posso fazer por você, @pcname@?}{}{}{}{} 
 {70}{O que tem acontecido aqui na fazenda?}{}{5}{QB1137 1}{49}{} 
-{71}{Com a crescente conscientização social, você recebe muitos manifestantes?}{}{5}{lf2 0}{87}{} 
+{71}{Com a crescente consciência social, você recebe muitos manifestantes?}{}{5}{lf2 0}{87}{} 
 {72}{Alguém mais mora aqui com você?}{}{5}{lf3 0}{65}{} 
 {73}{Aconteceu alguma coisa aqui?}{}{-4}{QB1137 1}{49}{} 
 {74}{Você viu muitos que não gostam que machuque coelhinhos?}{}{-4}{lf2 0}{87}{} 
@@ -81,10 +81,10 @@
 {89}{I:}{}{1}{}{78}{re-5} 
 {90}{É exatamente o que eu penso...}{}{5}{}{78}{} 
 {91}{Hã... Ah!}{}{-4}{}{78}{} 
-{92}{Isso é bom... eu gosto!}{}{-4}{}{78}{re-5} 
+{92}{Isso é bom... eu gosto!}{}{-4}{}{78}{} 
 {93}{É tão frustrante! ...Simplesmente não consigo entender. Se algo não for descoberto logo, estarei arruinado...}{É tão frustrante! ...Simplesmente não consigo entender. Se algo não for descoberto logo, estarei arruinado...}{}{}{}{} 
 {94}{Vou continuar procurando. Até logo.}{}{5}{}{0}{} 
-{95}{Eu procuro mais.}{}{-4}{}{0}{} 
+{95}{Me procurar mais.}{}{-4}{}{0}{} 
 {96}{E:}{}{1}{}{0}{} 
 {97}{Você descobriu? O quê? O que é?}{Você descobriu? O quê? O que é?}{}{}{}{} 
 {98}{Receio que seja sobre sua filha...}{}{5}{gf2377 0}{103}{} 

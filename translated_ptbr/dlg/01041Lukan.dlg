@@ -4,12 +4,12 @@
 {4}{Estou só de passagem... Já paguei minha taxa...}{}{5}{re 41, lf2 1}{}{fl 142}
 {5}{O que fiz para ofendê-lo? Permita-me reparar...}{}{5}{re -40}{383}{re +10}
 {6}{Você insultou a pessoa errada. O preço é a sua vida.}{}{5}{re -40}{}{re -10, co, fl 131}
-{7}{Eu não ser esperto.}{}{-4}{re 41, me 0}{326}{}
+{7}{Eu não ser esperto.}{}{-4}{me 0}{326}{}
 {8}{Ei! Ladrão que fala esquisito! Eu querer conversar!}{}{-4}{me 1}{329}{}
 {10}{Eu esmagar sua cabeça pra palavras burras pararem de sair.}{}{-4}{re -40}{}{re -10, co, fl 131}
 {11}{E:}{}{1}{}{0}{}
 {16}{Quem sou eu? QUEM SOU EU? Eu sou Lukan! Lukan, o Desmiolado! Onde eu caminho, as massas se atracam em pertubisividade e trepidunção! Ousa fingir que não me reconhece?}{Quem sou eu? QUEM SOU EU? Eu sou Lukan! Lukan, o Desmiolado! Onde eu caminho, as massas se atracam em pertubisividade e trepidunção! Ousa fingir que não me reconhece?}{}{}{}{}
-{17}{Ah, sim! Agora entendo... por favor, perdoe a desconsideração, Lukan...}{}{5}{}{57}{}
+{17}{Ah, sim! Agora entendo... por favor, perdoe a desconsideração, Lukan...}{}{5}{}{43}{}
 {18}{Sua trupe maltrapilha de tolos já excedeu a hospitalidade.}{}{5}{}{}{co, fl 137}
 {19}{Desmiolado. Bastante apropriado, eu diria...}{}{5}{lf1 0}{50}{lf1 1}
 {20}{Preciso atravessar a ponte, Sr. Desmiolado...}{}{5}{}{86}{}
@@ -22,7 +22,7 @@
 {31}{Destruí os materiais da ponte inferior.}{}{5}{qu1033 2, gf1014 1}{302}{}
 {32}{Vim pagar a taxa que combinamos...}{}{5}{lf3 0, lf4 1}{290}{}
 {33}{Vim pagar a taxa que combinamos...}{}{5}{lf3 1, lf4 0}{296}{}
-{34}{Acho que é hora de me retirar.}{}{5}{}{0}{}
+{34}{Acho que está na hora de eu me retirar.}{}{5}{}{0}{}
 {43}{Você está perdoado, meu amigo complicativo...}{Você está perdoado, meu amigo complicativo...}{}{}{}{}
 {44}{Hã, não quis dizer 'complacente'?}{}{5}{}{78}{}
 {45}{Lukan é generoso. Desmiolado... um nome tão descritivo...}{}{5}{lf1 0}{50}{lf1 1}
@@ -38,21 +38,21 @@
 {57}{Muito obrigado. Quase consigo perdoar sua grosseria com comentários como esse.}{Muito obrigado. Quase consigo perdoar sua grosseria com comentários como esse.}{}{}{}{}
 {58}{E seus amigos assustadores? Onde os conheceu?}{}{5}{}{70}{}
 {59}{Estou muito feliz. Agora, sobre atravessar esta ponte...}{}{5}{lf3 0, lf4 0, lf11 0, lf5 0, gf1014 0}{86}{}
-{60}{Seu vocabulário... Meu Deus! Agora EU estou fazendo isso...}{}{5}{}{64}{}
+{60}{Seu vocabulário... Meu deus! Agora EU estou fazendo isso...}{}{5}{}{64}{}
 {61}{Imbecil. Nunca ouvi um nome mais apropriado...}{}{5}{lf1 0}{50}{lf1 1}
 {62}{Vamos voltar a assuntos mais urgentes...}{}{5}{}{26}{}
-{64}{Não é incomum que minha eloquentologia contamine aqueles ao meu redor... oralização como a minha é quase preterlateral em sua singularidade...}{Não é incomum que minha eloquentologia contamine aqueles ao meu redor... oralização como a minha é quase preterlateral em sua singularidade...}{}{}{}{}
+{64}{Não é incomum que minha eloquência contagie aqueles ao meu redor... a oralização como a minha é quase preterlateral em sua singularidade...}{Não é incomum que minha eloquência contagie aqueles ao meu redor... a oralização como a minha é quase preterlateral em sua singularidade...}{}{}{}{}
 {65}{Ah... por favor, não aguento mais.}{}{5}{}{78}{}
 {66}{Eu realmente preciso atravessar esta ponte.}{}{5}{lf3 0, lf4 0, lf11 0, lf5 0, gf1014 0}{86}{}
 {67}{Acho que 'Imbecil' define perfeitamente sua natureza...}{}{5}{lf1 0}{50}{lf1 1}
 {68}{Vamos voltar a assuntos mais urgentes...}{}{5}{}{26}{}
-{70}{Na universidade, onde fiquei desencantado com a monotonia da vida acadêmica estruturada. Claro, esses cavalheiros eram cozinheiros na cantina... mas todos compartilhávamos um ódio comum pela autoridade e por um salário honesto do dia...}{Na universidade, onde fiquei desencantado com a monotonia da vida acadêmica estruturada. Claro, esses cavalheiros eram cozinheiros na cantina... mas todos compartilhávamos um ódio comum pela autoridade e por um salário honesto do dia...}{}{}{}{}
+{70}{Na universidade, onde me desencantei com a monotonia da vida acadêmica estruturada. Claro, esses cavalheiros eram cozinheiros da cantina... mas todos compartilhávamos um ódio comum pela autoridade e por um salário honesto...}{Na universidade, onde me desencantei com a monotonia da vida acadêmica estruturada. Claro, esses cavalheiros eram cozinheiros da cantina... mas todos compartilhávamos um ódio comum pela autoridade e por um salário honesto...}{}{}{}{}
 {71}{Universidade. Ah. Eu deveria ter imaginado...}{}{5}{}{73}{}
 {73}{Sim, mas minha mente superou seus ensinamentos subterrâneos! Não me curvei à vontade da tiranulocidade! E assim nasceu Lukan, o Imbecil, ladrão extraordinário! O Flagelo das Colinas Sombrias e além!}{Sim, mas minha mente superou seus ensinamentos subterrâneos! Não me curvei à vontade da tiranulocidade! E assim nasceu Lukan, o Imbecil, ladrão extraordinário! O Flagelo das Colinas Sombrias e além!}{}{}{}{}
 {74}{Que história sem igual! Agora, eu realmente preciso atravessar...}{}{5}{lf3 0, lf4 0, lf11 0, lf5 0, gf1014 0}{86}{}
 {75}{Chega disso. Você é um candidato provável para o esmagamento cerebral do dia.}{}{5}{}{}{co, fl 137}
 {76}{Vamos voltar a assuntos mais urgentes...}{}{5}{}{26}{}
-{78}{Você questiona a validade da minha verbosidade?}{Você questiona a validade da minha verborragia?}{}{}{}{}
+{78}{Você questiona a validade da minha verborragia?}{Você questiona a validade da minha verborragia?}{}{}{}{}
 {79}{Nunca, nunca. Sobre atravessar esta ponte...}{}{5}{lf3 0, lf4 0, lf11 0, lf5 0, gf1014 0}{86}{}
 {80}{E seus amigos assustadores? Onde os conheceu?}{}{5}{}{70}{}
 {81}{Imbecil. Nunca ouvi um nome mais apropriado...}{}{5}{lf1 0}{50}{lf1 1}
@@ -79,7 +79,7 @@
 {109}{Eu diria que você vai precisar da atenção do cirurgião.}{}{5}{}{}{co, fl 137}
 {110}{E:}{}{5}{}{0}{}
 {112}{Os locais não parecem gostar da taxa que estou cobrando aqui... eles começaram a preparar outra ponte ao sul daqui. Se houvesse uma maneira de sabotar seus esforços, eu agradeceria... poderíamos até torná-lo um membro honorário de nossa tripulação...}{Os locais não parecem gostar da taxa que estou cobrando aqui... eles começaram a preparar outra ponte ao sul daqui. Se houvesse uma maneira de sabotar seus esforços, eu agradeceria... poderíamos até torná-lo um membro honorário de nossa tripulação...}{}{}{}{}
-{113}{Como exatamente alguém IMPEDIRIA seus esforços?}{}{5}{}{119}{}
+{113}{Como, exatamente, alguém IMPEDIRIA seus esforços?}{}{5}{}{119}{}
 {114}{Talvez eu apenas pague a taxa... quanto era mesmo?}{}{5}{}{96}{}
 {115}{Acho que estou mais no clima de ver suas entranhas espalhadas...}{}{5}{}{}{co, fl 131}
 {116}{E:}{}{5}{}{0}{}
@@ -115,9 +115,9 @@
 {159}{Talvez você esteja certo. Quanto era mesmo?}{}{5}{}{290}{}
 {160}{Desculpe... parece que superestimei suas habilidades perceptivas.}{}{5}{}{286}{}
 {161}{E:}{}{5}{}{0}{}
-{162}{Suponho que seja possível... suas roupas não parecem tão surradas. Hum. Se você é um ladrão, o que está fazendo AQUI?}{Suponho que seja possível... suas roupas não parecem tão surradas. Hum. Se você é um ladrão, o que está fazendo AQUI?}{}{}{}{}
+{162}{Suponho que seja possível... suas vestes não parecem tão decrépitas. Hmmm. Se você é uma ladra, o que está fazendo AQUI?}{Suponho que seja possível... suas vestes não parecem tão decrépitas. Hmmm. Se você é uma ladra, o que está fazendo AQUI?}{}{}{}{}
 {163}{Eu poderia perguntar o mesmo a você, meu amigo curioso demais.}{}{5}{}{238}{}
-{164}{A notícia se espalha... você sabe como é...}{}{5}{}{168}{                  }
+{164}{A notícia se espalha... você sabe como é...}{}{5}{}{168}{}
 {165}{Bem, não é como se houvesse ladrões por aqui agora.}{}{5}{}{280}{}
 {166}{E:}{}{5}{}{0}{}
 {168}{Oh! Então você ouviu falar de nós pelo Submundo dos Ladrões! Fantástico! Eu sabia que era só questão de tempo até sermos notados!}{Oh! Então você ouviu falar de nós pelo Submundo dos Ladrões! Fantástico! Eu sabia que era só questão de tempo até sermos notados!}{}{}{}{gf2121 1}
@@ -158,7 +158,7 @@
 {222}{Graças aos deuses que mandaram alguém tão paciente e compreensivo quanto você. E com isso, já vamos! Não causaremos mais problemas em Colinas Sombrias! Aqui... pegue a chave do portão da ponte com meus agradecimentos... [Ele lhe entrega uma chave...]}{Graças aos deuses que mandaram alguém tão paciente e compreensivo quanto você. E com isso, já vamos! Não causaremos mais problemas em Colinas Sombrias! Aqui... pegue a chave do portão da ponte com meus agradecimentos... [Ele lhe entrega uma chave...]}{}{}{}{gf1015 1, xp 1, in -4402}
 {223}{Pode demorar... mas não quero vê-lo aqui se eu voltar.}{}{5}{}{228}{lf11 1}
 {228}{Entendido! Adeus, bom senhor! Você é um tributo à vigilância e ao voyeurismo do Submundo!}{Entendido! Adeus, boa senhora! Você é um tributo à vigilância e ao voyeurismo do Submundo!}{}{}{}{mm 1, ru 2186, fp, lf8 1}
-{229}{Obrigado... acho. Tenha um bom dia, Lukan.}{}{5}{}{-2}{}
+{229}{Obrigado... acho. Tenha um bom dia, Lukan.}{}{5}{}{-3}{}
 {232}{Ah, é? Como se VOCÊ soubesse o que procurar? Acho que essa conversa está chegando ao fim rapidamente... por que não me dá a taxa de passagem logo...}{Ah, é? Como se VOCÊ soubesse o que procurar? Acho que essa conversa está chegando ao fim rapidamente... por que não me dá a taxa de passagem logo...}{}{}{}{}
 {233}{Perdoe minha insolência. Este é meu DISFARCE...}{}{5}{}{162}{lc1 1}
 {234}{Tudo bem. Quanto era mesmo?}{}{5}{}{290}{}
@@ -190,7 +190,7 @@
 {266}{É, hã, novo... mas isso não muda o que você fez aqui.}{}{5}{lc1 0}{204}{lc1 1}
 {267}{É, hã, novo... mas isso não muda o que você fez aqui.}{}{5}{lc1 1}{280}{}
 {268}{E:}{}{5}{}{0}{}
-{270}{Conselho? Você está louco? O Submundo não tem autoridade central! Isso vai contra tudo o que eles defendem... quem exatamente é você?}{Conselho? Você está louco? O Submundo não tem autoridade central! Isso vai contra tudo o que eles defendem... quem exatamente você é?}{}{}{}{}
+{270}{Conselho? Você está louco? O Submundo não tem autoridade central! Isso vai contra tudo o que eles defendem... quem exatamente você é?}{Conselho? Você está louco? O Submundo não tem autoridade central! Isso vai contra tudo o que eles defendem... quem exatamente você é?}{}{}{}{}
 {271}{Cala a boca, idiota! Você cometeu um erro, e vai pagar por isso!}{}{5}{lc1 0}{210}{lc1 1}
 {272}{Cala a boca, idiota! Você cometeu um erro, e vai pagar por isso!}{}{5}{lc1 1}{280}{}
 {273}{E:}{}{5}{}{0}{}
@@ -242,7 +242,7 @@
 {337}{Sinto muito, meu amigo de mente lenta, mas não posso fazer exceções, nem mesmo no seu estado lastimável... você precisa pagar um pedágio...}{Sinto muito, meu amigo de mente lenta, mas não posso fazer exceções, nem mesmo no seu estado lastimável... você precisa pagar um pedágio...}{}{}{}{gf2363 1}
 {338}{E-x-e-r-ç-õ-e-s? O que você quer dizer?}{}{-4}{}{342}{}
 {339}{Eu não pago pedágio. Eu só esmago todos vocês!}{}{-4}{}{}{co, fl 368}
-{340}{Eu cansado. Eu ir embora}{}{-4}{}{0}{}
+{340}{Me cansado. Me ir embora.}{}{-4}{}{0}{}
 {342}{Que triste quando o vocabulário de alguém é tão ruim quanto o seu. DINHEIRO... você precisa de dinheiro!}{Que triste quando o vocabulário de alguém é tão ruim quanto o seu. DINHEIRO... você precisa de dinheiro!}{}{}{}{}
 {343}{Quanto? Quanto dinheiro?}{}{-4}{}{349}{}
 {344}{Eu não quero pagar. Talvez por você eu faça alguma coisa?}{}{-4}{qu 1032 2}{375}{}
@@ -265,7 +265,7 @@
 {364}{Tá bom! Tchau-tchau!}{}{-4}{}{0}{}
 {366}{Tá bom... vou esperar você voltar...}{Tá bom... vou esperar você voltar...}{}{}{}{}
 {368}{Lukan, o Desmiolado, não aceita esse tipo de palavras de homem nenhum! Especialmente de um bufão imbecil como você! Defenda-se, idiota!}{Lukan, o Desmiolado, não aceita esse tipo de palavras de mulher nenhuma! Especialmente de uma bufona imbecil como você! Defenda-se, idiota!}{}{}{}{}
-{370}{Obrigado pela contracepção, meu compatrício de mente embotada! Pode passar por aqui quando quiser! [Ele te entrega uma chave.]}{Obrigado pela contracepção, minha compatrícia de mente embotada! Pode passar por aqui quando quiser! [Ele te entrega uma chave.]}{}{}{}{in -4402}
+{370}{Obrigado pela contracepção, minha compatrícia de mente embotada! Pode passar por aqui quando quiser! [Ele te entrega uma chave.]}{Obrigado pela contracepção, minha compatrícia de mente embotada! Pode passar por aqui quando quiser! [Ele te entrega uma chave.]}{}{}{}{in -4402}
 {371}{Tá bom! Tchau-tchau!}{}{-4}{}{0}{}
 {373}{Então por que voltou? Some daqui, antes que aquele guarda confuso apareça fazendo perguntas! Não volte até ter destruído tudo!}{Então por que voltou? Some daqui, antes que aquele guarda confuso apareça fazendo perguntas! Não volte até ter destruído tudo!}{}{}{}{}
 {375}{Não, meu amigo. Estamos dolorosamente cientes de sua <<<PH1>>> com o guarda. Recomendo que pague a tarifa ou vá embora... caso contrário, posso ser forçado a soltar meus amigos aqui em cima de você...}{Não, meu amigo. Estamos dolorosamente cientes de sua <<<PH1>>> com o guarda. Recomendo que pague a tarifa ou vá embora... caso contrário, posso ser forçado a soltar meus amigos aqui em cima de você...}{}{}{}{}

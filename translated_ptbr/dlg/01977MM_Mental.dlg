@@ -15,9 +15,9 @@
 {15}{Hã... qual é o seu nome, malvado?}{}{-4}{lf1 0, re -40}{28}{}
 {16}{Hã... Eu pergunto uma coisa?}{}{-4}{lf1 1, re 41}{36}{}
 {17}{Hã... eu pergunto uma coisa, malvado?}{}{-4}{lf1 1, re -40}{36}{}
-{18}{Aperfeiçoei minhas habilidades mentais, Mestre Jerryl.}{}{5}{lf4 1, sc7 5}{78}{}
-{19}{Reforcei minha aura mágica, Mestre Jerryl.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{20}{Tenho interesse em me tornar um mestre da escola mental.}{}{5}{gf2411 0, ma30}{101}{}
+{18}{Aperfeiçoei minhas habilidades mentais, Mestre Jerryl.}{}{5}{lf4 1, sc7 5, lf5 0}{78}{}
+{19}{Reforcei minha aura mágica, Mestre Jerryl.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{20}{Tenho interesse em me tornar um mestre da escola mental.}{}{5}{gf2411 0, ma30, sc7 5}{101}{}
 {21}{Ainda não completei o teste de mestria, Sr. Jerryl.}{}{5}{LF7 1, gf2419 0}{115}{}
 {22}{Completei o teste e me tornei mestre da escola mental!}{}{5}{gf2419 1, lf9 0}{119}{}
 {27}{E:}{}{1}{}{0}{}
@@ -25,24 +25,24 @@
 {29}{É uma honra conhecê-lo, senhor.}{}{5}{sc7 1, sc7 -4, lf4 0}{73}{}
 {30}{É uma honra conhecê-lo, senhor.}{}{5}{sc7 5, lf5 0}{78}{}
 {31}{O que o senhor acha da tecnologia?}{}{5}{sc7 0, lf3 0}{65}{}
-{32}{Por favor, explique-me o Colégio de Magia Mental.}{}{5}{sc7 0, lf2 0}{57}{}
-{33}{Fala pra mim sobre a escola mental?}{}{-4}{sc7 0, lf2 0}{57}{}
-{34}{O que cê acha da tecno-logia?}{}{-4}{sc7 0, lf3 0}{65}{}
+{32}{Por favor, explique para mim o Colégio Mágico da Mente.}{}{5}{sc7 0, lf2 0}{57}{}
+{33}{Fala pra mim sobre 'mentul'?}{}{-4}{sc7 0, lf2 0}{57}{}
+{34}{O que você acha da teknawlugia?}{}{-4}{sc7 0, lf3 0}{65}{}
 {35}{E:}{}{1}{sc7 0}{0}{}
 {36}{O que deseja?}{O que deseja?}{}{}{}{}
-{37}{Aperfeiçoei minhas habilidades mentais, Mestre Jerryl.}{}{5}{lf4 1, sc7 5}{78}{}
-{38}{Reforcei minha aura mágica, Mestre Jerryl.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{39}{Tenho interesse em me tornar um mestre da escola mental.}{}{5}{gf2411 0, ma30}{101}{}
+{37}{Aperfeiçoei minhas habilidades mentais, Mestre Jerryl.}{}{5}{lf4 1, sc7 5, lf5 0}{78}{}
+{38}{Reforcei minha aura mágica, Mestre Jerryl.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{39}{Tenho interesse em me tornar um mestre da escola mental.}{}{5}{gf2411 0, ma30, sc7 5}{101}{}
 {40}{O que o senhor acha da tecnologia?}{}{5}{lf3 0}{65}{}
-{41}{Por favor, explique-me o Colégio de Magia Mental.}{}{5}{lf2 0}{57}{}
-{42}{Fala pra mim sobre a escola mental?}{}{-4}{lf2 0}{57}{}
-{43}{O que cê acha da tecno-logia?}{}{-4}{lf3 0}{65}{}
+{41}{Por favor, explique para mim o Colégio Mágico da Mente.}{}{5}{lf2 0}{57}{}
+{42}{Fala pra mim sobre 'mentul'?}{}{-4}{lf2 0}{57}{}
+{43}{O que você acha da teknawlugia?}{}{-4}{lf3 0}{65}{}
 {44}{F:}{}{1}{}{0}{}
 {45}{E:}{}{1}{}{0}{}
 {46}{Hmm... Há algo mais, @pcname@?}{Há algo mais, @pcname@?}{}{}{}{}
-{47}{Aperfeiçoei minhas habilidades mentais, Mestre Jerryl.}{}{5}{lf4 1, sc7 5}{78}{}
-{48}{Reforcei minha aura mágica, Mestre Jerryl.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{49}{Tenho interesse em me tornar um mestre da escola mental.}{}{5}{gf2411 0, ma30}{101}{}
+{47}{Aperfeiçoei minhas habilidades mentais, Mestre Jerryl.}{}{5}{lf4 1, sc7 5, lf5 0}{78}{}
+{48}{Reforcei minha aura mágica, Mestre Jerryl.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{49}{Tenho interesse em me tornar um mestre da escola mental.}{}{5}{gf2411 0, ma30, sc7 5}{101}{}
 {50}{O que o senhor acha da tecnologia?}{}{5}{lf3 0}{65}{}
 {51}{Por favor, explique para mim o Colégio Mágico da Mente.}{}{5}{lf2 0}{57}{}
 {52}{Não. Obrigado pelo seu tempo.}{}{5}{}{0}{}
@@ -82,7 +82,7 @@
 {86}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 1}{46}{}
 {87}{Extremamente difícil, senhor. Porém, minha perseverança valeu a pena.}{}{5}{gf2411 1}{46}{}
 {88}{E:}{}{1}{}{0}{}
-{89}{Você aprendeu todo o Colégio da Mente, mas sua aura mágica está fraca. Parece que passou muito tempo na companhia da tecnologia. Uma pena. Há mais que poderia aprender, se algum dia escolher aumentar suas habilidades mágicas...}{Você teve sucesso em todos os aspectos da Mente, mas sua aura mágica parece fraca. Receio que tenha sido contaminado pelos caprichos da tecnologia. Uma pena. ...se algum dia aumentar suas habilidades mágicas, volte a mim. Talvez eu tenha uma oferta para lhe apresentar.}{}{}{}{}
+{89}{Você aprendeu todo o Colégio da Mente, mas sua aura mágica está fraca. Parece que passou muito tempo na companhia da tecnologia. Uma pena. Há mais que poderia aprender, se algum dia escolher aumentar suas habilidades mágicas...}{Você teve sucesso em todos os aspectos da Mente, mas sua aura mágica parece fraca. Receio que tenha sido contaminado pelos caprichos da tecnologia. Uma pena. ...se algum dia aumentar suas habilidades mágicas, volte a mim. Talvez eu tenha uma oferta para lhe apresentar.}{}{}{}{lf8 1}
 {90}{O senhor se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
 {91}{É meu desejo manter uma aura equilibrada, senhor.}{}{5}{}{46}{re-2}
 {92}{Na minha opinião, a tecnologia está superando a magia, senhor.}{}{5}{}{46}{re-3}
@@ -93,7 +93,7 @@
 {97}{O que eu preciso fazer?}{}{5}{}{101}{}
 {98}{Não neste momento, obrigado.}{}{5}{}{46}{}
 {100}{E:}{}{1}{}{0}{}
-{101}{Para se tornar mestre, primeiro deve passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande dom... a habilidade de lançar qualquer feitiço da Mente gastando apenas metade do esforço normal! ...Isso lhe interessa, senhor?}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande presente... a habilidade de lançar qualquer feitiço da Escola Mental gastando apenas metade do esforço normal! ...Isso lhe interessa, senhor?}{}{}{}{}
+{101}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande presente... a habilidade de lançar qualquer feitiço da Escola Mental gastando apenas metade do esforço normal! ...Isso lhe interessa, senhor?}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande presente... a habilidade de lançar qualquer feitiço da Escola Mental gastando apenas metade do esforço normal! ...Isso lhe interessa, senhor?}{}{}{}{}
 {102}{Sim, tenho, senhor.}{}{5}{}{106}{}
 {103}{Sim.}{}{5}{}{106}{}
 {104}{Não neste momento, obrigado.}{}{5}{}{46}{}
@@ -111,9 +111,9 @@
 {116}{Vou completar meus preparativos e realizar o teste. Adeus.}{}{5}{}{0}{}
 {117}{Vou me tornar um mestre! Adeus.}{}{5}{}{0}{}
 {118}{E:}{}{5}{}{0}{}
-{119}{Muito bem! Muito bem mesmo @pcname@! É raro eu poder parabenizar alguém por tal conquista. Você verá que sua força em nossa escola dobrou! Assim, sentirá metade do esforço ao lançar um feitiço. Mais uma vez, meus parabéns.}{Muito bem! Muito bem mesmo @pcname@! É raro eu poder parabenizar alguém por tal conquista. Você verá que sua força em nossa escola dobrou! Assim, sentirá metade do esforço ao lançar um feitiço. Mais uma vez, meus parabéns.}{}{}{}{}
+{119}{Muito bem! Muito bem mesmo @pcname@! É raro eu poder parabenizar alguém por tal conquista. Você verá que sua força em nossa escola dobrou! Assim, sentirá metade do esforço ao lançar um feitiço. Mais uma vez, meus parabéns.}{Muito bem! Muito bem mesmo @pcname@! É raro eu poder parabenizar alguém por tal conquista. Você verá que sua força em nossa escola dobrou! Assim, sentirá metade do esforço ao lançar um feitiço. Mais uma vez, meus parabéns.}{}{}{}{lf9 1}
 {120}{Obrigado, mestre.}{}{5}{}{0}{}
 {121}{Obrigado, Sr. Jerryl. Posso lhe perguntar mais uma coisa?}{}{5}{}{46}{}
 {122}{E:}{}{5}{}{0}{}
-{123}{Você pediu minha opinião... Não se ofenda quando lhe dão exatamente o que pediu! Adeus, senhor!}{Você pediu minha opinião... Não se ofenda quando lhe dão exatamente o que pediu! Adeus, senhora!}{}{}{}{lf9 1}
+{123}{Você pediu minha opinião... Não se ofenda quando lhe dão exatamente o que pediu! Adeus, senhor!}{Você pediu minha opinião... Não se ofenda quando lhe dão exatamente o que pediu! Adeus, senhora!}{}{}{}{}
 

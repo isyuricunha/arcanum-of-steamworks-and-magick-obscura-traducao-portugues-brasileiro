@@ -5,21 +5,21 @@
 {5}{Acredito que formulei um plano. Quer se juntar a mim?}{}{5}{lf1 1, qu1000 2}{201}{lf4 1, jo 0  140}
 {9}{E:}{}{1}{}{0}{}
 {10}{O senhor também estaria rabugento se fosse indesejado em sua própria terra natal. Mas isso não é desculpa para ser rude com os outros. Minhas desculpas, cavalheiro.}{A senhora também estaria rabugenta se fosse indesejada em sua própria terra natal. Mas isso não é desculpa para ser rude com os outros. Minhas desculpas, madame.}{}{}{}{}
-{11}{De onde o senhor vem?}{}{5}{}{20}{}
+{11}{De onde você vem?}{}{5}{}{20}{}
 {12}{Eu também estaria rabugento se tivesse que olhar para sua cara no espelho todos os dias.}{}{5}{ch13}{171}{}
 {13}{Talvez nos encontremos quando estiver de melhor humor.}{}{5}{}{0}{re-5, fl 170}
 {14}{Mude o tom ou vou ter que lhe ensinar algumas boas maneiras.}{}{5}{}{180}{re-15}
 {20}{Venho de Dernholm, capital de Cúmbria. Fui expulso da minha amada Cúmbria e acabei aqui.}{Venho de Dernholm, capital de Cúmbria. Fui expulso da minha amada Cúmbria e acabei aqui.}{}{}{}{}
 {21}{Mas Black Root também é uma província de Cúmbria.}{}{5}{gv1001 0, gf1000 0, qa1000 1}{30}{}
-{22}{É melhor fazer as malas. Black Root se reuniu a Cúmbria.}{}{5}{gf1000 1}{190}{}
-{23}{Por que ficar aqui? Por que não deixar esta região completamente?}{}{5}{gv1001 1, gf1000 0}{50}{}
+{22}{É melhor arrumar suas coisas. Black Root se reuniu à Cumbria.}{}{5}{gf1000 1}{190}{}
+{23}{Por que ficar aqui? Por que não deixar esta área completamente?}{}{5}{gv1001 1, gf1000 0}{50}{}
 {24}{Não tem medo de ser expulso de Black Root também?}{}{5}{gv1001 0, gf1000 0}{30}{}
 {25}{Talvez eu possa ajudá-lo?}{}{5}{}{335}{}
-{29}{Meus pêsames, cavalheiro. Talvez nos encontremos novamente.}{}{5}{}{0}{}
-{30}{Ha! Obviamente o senhor não está aqui há muito tempo. O prefeito traiu o Pretor e aliou Black Root a Tarant.}{Ha! Obviamente a senhora não está aqui há muito tempo. O prefeito traiu o Pretor e aliou Black Root a Tarant.}{}{}{}{gv1001 1}
-{31}{Isso é uma vergonha! Devo reportar isso ao pretor imediatamente!}{}{5}{qu1000 2}{40}{}
+{29}{Meus pêsames, senhor. Talvez nos encontremos novamente.}{}{5}{}{0}{}
+{30}{Ha! Obviamente a senhora não está aqui há muito tempo. O prefeito traiu o Pretor e aliou Black Root a Tarant.}{Ha! Obviamente a senhora não está aqui há muito tempo. O prefeito traiu o Pretor e aliou Black Root a Tarant.}{}{}{}{gv1001 1}
+{31}{Isso é uma vergonha! Devo reportar isso ao Pretor imediatamente!}{}{5}{qu1000 2}{40}{}
 {32}{O Rei Pretor poderia gostar de saber sobre isso.}{}{5}{qu1000 1}{40}{}
-{33}{Por que ficar aqui? Por que não deixar esta região completamente?}{}{5}{}{50}{}
+{33}{Por que ficar aqui? Por que não deixar esta área completamente?}{}{5}{}{50}{}
 {34}{Bom para ele. Cúmbria está praticamente morta, graças aos deuses.}{}{5}{}{150}{re-10}
 {35}{Alguém precisa mostrar ao prefeito o erro de seus caminhos.}{}{5}{qa1000 1}{160}{re+10}
 {39}{E:}{}{5}{}{0}{}
@@ -28,7 +28,7 @@
 {42}{Alguém precisa ensinar boas maneiras ao Pretor.}{}{5}{}{150}{re-10}
 {43}{Por que não deixar Cúmbria de vez?}{}{5}{}{50}{}
 {49}{E:}{}{5}{}{0}{}
-{50}{Vivi em Cúmbria a vida toda. É a minha casa. Eu era... o líder da Igreja de Cúmbria.}{Vivi em Cúmbria a vida toda. É o meu lar. Eu sou... era o líder da Igreja de Cúmbria.}{}{}{}{}
+{50}{Vivi em Cúmbria a vida toda. É o meu lar. Eu sou... era o líder da Igreja de Cúmbria.}{Vivi em Cúmbria a vida toda. É o meu lar. Eu sou... era o líder da Igreja de Cúmbria.}{}{}{}{}
 {51}{Por que você não é mais o líder da igreja?}{}{5}{}{60}{}
 {52}{A religião lhe fez um mundo de bem, hein, irmão?}{}{5}{}{180}{re-15}
 {59}{E:}{}{5}{}{0}{}
@@ -36,7 +36,7 @@
 {61}{O Rei Praetor não tem estado bem desde o dia em que nasceu.}{}{5}{}{150}{re-15}
 {62}{Você é um tolo por tentar argumentar com um tolo.}{}{5}{}{180}{re-15}
 {63}{Então é seguro presumir que você não gosta muito de Praetor?}{}{5}{}{70}{}
-{64}{Você poderia me ajudar? Estou aqui para cobrar os impostos para Praetor.}{}{5}{qu1000 2}{201}{lf4 1, jo 0 80}
+{64}{Você poderia me ajudar? Estou aqui para cobrar os impostos para Praetor?}{}{5}{qu1000 2}{201}{lf4 1, jo 0 80}
 {65}{Poderia me dizer onde fica Dernholm?}{}{5}{ar-5}{355}{}
 {69}{E:}{}{5}{}{0}{}
 {70}{De forma alguma. Praetor precisa de mais ajuda do que nunca, agora que suas faculdades estão se esvaindo. Mesmo no exílio, defenderei meu rei até o meu último suspiro.}{De forma alguma. Praetor precisa de mais ajuda do que nunca, agora que suas faculdades estão se esvaindo. Mesmo no exílio, defenderei meu rei até o meu último suspiro.}{}{}{}{}
@@ -49,7 +49,7 @@
 {80}{Sim, isso poderia melhorar minha posição com Praetor. Eu o farei, com os deuses como minhas testemunhas.}{Sim, isso poderia melhorar minha posição com Praetor. Eu o farei, com os deuses como minhas testemunhas.}{}{}{}{}
 {81}{Vamos prosseguir, então, não é?}{}{5}{}{0}{}
 {82}{Gostaria de lhe pedir algo.}{}{5}{}{220}{}
-{83}{Na verdade, não acredito que você seja digno o suficiente para me ajudar.}{}{5}{}{130}{re-15}
+{83}{Na verdade, não acredito que seja digno o suficiente para me ajudar.}{}{5}{}{130}{re-15}
 {90}{Não tenho certeza se Praetor apreciaria eu me intrometendo nos assuntos dele.}{Não tenho certeza se Praetor apreciaria eu me intrometendo nos assuntos dele.}{}{}{}{}
 {91}{Esta seria uma maneira muito oportuna de provar sua lealdade.}{}{5}{}{201}{re+10, lf4 1, jo 0 80}
 {92}{Acho que lhe falta a fortaleza necessária para esta tarefa, de qualquer forma.}{}{5}{ps13}{120}{}
@@ -61,7 +61,7 @@
 {101}{Isso é compreensível, a julgar pelo seu fedor repulsivo.}{}{5}{}{180}{re-15}
 {102}{E a sua casa verdadeira seria onde?}{}{5}{lf2 0}{20}{}
 {103}{Outras cidades o receberiam, por que não deixar Cúmbria?}{}{5}{lf2 1}{50}{}
-{109}{Sinto muito em saber disso. Adeus.}{}{5}{}{0}{}
+{109}{Lamento ouvir isso. Adeus.}{}{5}{}{0}{}
 {110}{Ha! Isso é mais do que verdade, meu bom homem. Bem, não posso piorar a situação em que me encontro, não é?}{Ha! Isso é mais do que verdade, minha boa senhora. Bem, não posso piorar a situação em que me encontro, não é?}{}{}{}{}
 {111}{Isso poderia, na verdade, melhorar sua posição.}{}{5}{}{201}{jo 0 80}
 {112}{Não parece que você seja capaz de fazer coisa alguma.}{}{5}{}{180}{re-15}
@@ -70,13 +70,13 @@
 {120}{Ousa duvidar do meu comprometimento, senhor? Posso suportar qualquer coisa que me impuser.}{Ousa duvidar do meu comprometimento, senhora? Posso suportar qualquer coisa que me impuser.}{}{}{}{}
 {121}{Então eu o desafio a me acompanhar, se for capaz.}{}{5}{}{201}{lf4 1, jo 0 140}
 {122}{Vamos ver como você suporta uma evisceração.}{}{5}{}{0}{fl 200 ,co}
-{123}{Duvido sinceramente. Adeus.}{}{5}{}{0}{re-10}
+{123}{Duvido muito. Adeus.}{}{5}{}{0}{re-10}
 {129}{E:}{}{5}{}{0}{}
 {130}{Ousa duvidar de mim?! Some daqui antes que eu o estrangule, fedelho!}{Ousa duvidar de mim?! Some daqui antes que eu a estrangule, rameira!}{}{}{}{}
 {131}{Para me seguir, você precisará suportar mais do que uma palavra dura.}{}{5}{ps10}{201}{re+10, lf4 1, jo 0 140}
 {132}{Simplesmente preciso ter certeza sobre aqueles que me seguiriam.}{}{5}{ps-9}{201}{re-10}
 {133}{Você estaria morto antes de dar um passo na minha direção.}{}{5}{}{0}{fl 200 ,co}
-{140}{Bom espetáculo! Admiro um homem que não tem medo de mostrar sua têmpera. Que sejam amaldiçoados aqueles que se colocarem em nosso caminho! Avante, bom senhor.}{Bom espetáculo! Admiro um homem que não tem medo de mostrar sua têmpera. Que sejam amaldiçoados aqueles que se colocarem em nosso caminho! Avante, senhora.}{}{}{}{}
+{140}{Bom espetáculo! Admiro um homem que não tem medo de mostrar sua têmpera. Que sejam amaldiçoados aqueles que se colocarem em nosso caminho! Avante, bom senhor.}{Muito bem! Admiro uma mulher que não tem medo de mostrar sua têmpera. Que sejam amaldiçoados todos que ousarem ficar em nosso caminho! Avante, madame.}{}{}{}{}
 {141}{Vamos prosseguir então, não é?}{}{5}{}{0}{}
 {142}{Gostaria de lhe pedir algo.}{}{5}{}{220}{}
 {150}{Seria melhor tomar cuidado com sua língua. Posso estar exilado, mas ainda sou um cidadão cúmbrio leal.}{Seria melhor tomar cuidado com sua língua. Posso estar exilado, mas ainda sou um cidadão cúmbrio leal.}{}{}{}{}
@@ -85,10 +85,10 @@
 {153}{Como foi que acabou exilado?}{}{5}{lf3 0}{60}{}
 {159}{Muitas desculpas, vou me retirar agora.}{}{5}{}{0}{}
 {160}{Ouçam! Ouçam! Tem algum plano de ação para sugerir?}{Ouçam! Ouçam! Tem algum plano de ação para sugerir?}{}{}{}{}
-{161}{Vou receber o imposto do Pretor, quer o prefeito goste ou não.}{}{5}{}{201}{lf4 1, jo 0 140}
+{161}{Vou cobrar o imposto do Pretor, quer o prefeito goste ou não.}{}{5}{}{201}{lf4 1, jo 0 140}
 {162}{Sim, e envolve causar uma quantidade intensa de dor em você.}{}{5}{}{0}{fl 200 ,co}
 {163}{No momento, não. Avisarei se formular um. Tenha um bom dia.}{}{5}{}{0}{lf1 1}
-{170}{Bom débarras para você, seu sapo arrogante.}{Bom débarras para você, sua prostituta rastejante!}{}{}{}{}
+{170}{Bom débarras para você, seu sapo arrogante.}{Bom débarras para você, sua rameira de fundo de poço!}{}{}{}{}
 {171}{Heh heh! Sua perspicácia me superou, senhor. Tiro o chapéu para você.}{Heh heh! Sua perspicácia me superou, senhora. Tiro o chapéu para você.}{}{}{}{}
 {172}{De onde você vem?}{}{5}{}{20}{}
 {173}{Não se espera ver um sacerdote em um estabelecimento como este.}{}{5}{}{100}{}
@@ -131,18 +131,18 @@
 {300}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{}
 {301}{Não é todo dia que se vê um sacerdote em um estabelecimento como este.}{}{5}{}{100}{}
 {302}{Você está um pouco rabugento para um sacerdote, não está?}{}{5}{}{10}{}
-{303}{N:}{}{5}{}{10}{}
+{303}{N:}{}{5}{}{0}{}
 {310}{O que você gostaria que eu fizesse?}{O que você gostaria que eu fizesse?}{}{}{}{}
 {311}{Poderia se afastar um pouco de mim?}{}{1}{}{210}{so}
 {312}{Não fique tão longe de mim.}{}{1}{}{210}{sc}
 {313}{Poderia esperar aqui?}{}{1}{wa 0}{0}{wa, fl 325}
-{314}{Gostaria de se reunir comigo novamente?}{}{1}{wa 1}{201}{uw1 270}
+{314}{Gostaria de se reunir comigo novamente?}{}{1}{wa 1}{201}{uw 0 270}
 {315}{Receio que seja hora de nos separarmos, Dante.}{}{1}{}{0}{lv, fl 326}
 {316}{Na verdade, nada.}{}{1}{}{210}{}
 {325}{Claro.}{Claro.}{}{}{}{}
 {326}{Talvez nossos caminhos se cruzem novamente algum dia.}{Talvez nossos caminhos se cruzem novamente algum dia.}{}{}{}{}
 {329}{É bom vê-lo novamente, senhor.}{É bom vê-la novamente, senhora.}{}{}{}{}
-{330}{Sim, aqui é onde fica minha casa. Sou grato por sua ajuda em permitir que eu retorne para servir minha amada Cúmbria mais uma vez.}{Sim, aqui é onde fica minha casa. Sou grato por sua ajuda em permitir que eu retorne para servir minha amada Cúmbria mais uma vez.}{}{}{}{lf30 1, lv}
+{330}{Sim, aqui é onde fica minha casa. Sou grato pela sua ajuda em me permitir retornar para servir minha amada Cúmbria mais uma vez.}{Sim, aqui é onde fica minha casa. Sou grato pela sua ajuda em me permitir retornar para servir minha amada Cúmbria mais uma vez.}{}{}{}{lf30 1, lv}
 {331}{Talvez eu o veja novamente algum dia, então.}{}{5}{}{-16}{}
 {335}{Receio que não... Estou além de qualquer ajuda.}{Receio que não... Estou além de qualquer ajuda.}{}{}{}{}
 {336}{Você pode me dizer pelo menos onde fica Dernholm?}{}{5}{ar-5}{345}{}

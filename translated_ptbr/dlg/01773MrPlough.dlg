@@ -2,9 +2,9 @@
 {2}{W:}{}{5}{re41, lf1 0}{15}{}
 {3}{Peço desculpas, senhor, estava se dirigindo a mim?}{}{5}{re-40, ch10}{55}{re41}
 {4}{Por favor, perdoe minha audácia ao dirigir-me a alguém de posição superior, senhor.}{}{5}{re-40, ch-9}{50}{re+10}
-{5}{Já matei homens por me falarem nesse tom, porco!}{}{5}{re-40, sk2 -4}{40}{re-10}
-{6}{Já matei homens por me falarem nesse tom, porco!}{}{5}{re-40, sk2 4}{90}{re41}
-{9}{W:}{}{-4}{}{65}{}
+{5}{Já matei homens por me falarem nesse tom, porco!}{}{5}{lf1 0, re-40, sk2 -3}{40}{re-10}
+{6}{Já matei homens por me falarem nesse tom, porco!}{}{5}{lf1 0, re-40, sk2 4}{90}{re41}
+{9}{W:}{}{-4}{qu1131 0}{65}{}
 {10}{Eu mato ratos.}{}{-4}{gv1039 20}{80}{qu1131 4, re+15}
 {11}{Seu armazém está livre de ratos, senhor.}{}{5}{gv1039 20}{80}{qu1131 4, re+15}
 {12}{Decidi ajudar você com o seu problema de ratos.}{}{5}{qu1131 1}{30}{qu1131 2}
@@ -12,7 +12,6 @@
 {14}{E:}{}{1}{}{0}{}
 {15}{Oh, desculpe minha rudeza, senhor. Meu nome é Simon Plough. Estou um pouco distraído, pois estou numa enrascada.}{Oh, desculpe minha rudeza, senhora. Meu nome é Simon Plough. Estou um pouco distraído, pois estou numa enrascada.}{}{}{}{lf1 1}
 {16}{Qual é o seu problema, senhor?}{}{5}{}{20}{}
-{19}{E:}{}{1}{}{0}{}
 {20}{Recentemente herdei estes armazéns aqui e preciso vendê-los para pagar minhas dívidas. Mas tenho um problema com ratos. Um GRANDE problema com ratos. E ninguém vai comprá-los de mim até que os ratos sejam erradicados.}{Recentemente herdei estes armazéns aqui e preciso vendê-los para pagar minhas dívidas. Mas tenho um problema com ratos. Um GRANDE problema com ratos. E ninguém vai comprá-los de mim até que os ratos sejam erradicados.}{}{}{}{qu1131 1}
 {21}{Quanto pagaria para que eu resolvesse o problema dos ratos?}{}{5}{}{25}{}
 {22}{Oh, já matei todos os seus ratos.}{}{5}{gv1039 20}{80}{qu1131 4, re+15}
@@ -32,7 +31,7 @@
 {42}{Deixe-me mostrar a maneira mais eficaz de machucar pessoas, porco.}{}{5}{}{0}{fl 110 ,co}
 {44}{Não preciso disso. Tenha um bom dia.}{}{5}{}{0}{}
 {45}{Não tenho certeza se gosto de você. Ofendeu minhas refinadas sensibilidades.}{Não tenho certeza se gosto de você. Ofendeu minhas refinadas sensibilidades.}{}{}{}{}
-{46}{Por favor, senhor, foi apenas uma brincadeira. Aceito sua oferta.}{}{5}{}{30}{re+5, qu1131 2}
+{46}{Por favor, senhor, foi apenas uma brincadeira.}{}{5}{}{50}{re+5}
 {47}{Espero que a visão de suas próprias entranhas não o ofenda.}{}{5}{}{90}{re41}
 {49}{E:}{}{5}{}{0}{}
 {50}{Já que parece conhecer seu lugar, suponho que posso conversar com você. Estou com um pouco de dificuldade, para ser sincero.}{Já que parece conhecer seu lugar, suponho que posso conversar com você. Estou com um pouco de dificuldade, para ser sincero.}{}{}{}{}
@@ -49,13 +48,13 @@
 {69}{Não. Eu vou embora.}{}{-4}{}{0}{}
 {70}{MATE TODOS OS RATOS EM MEUS ARMAZÉNS, AQUI, E PODE LEVAR O QUE ENCONTRAR.}{MATE TODOS OS RATOS EM MEUS ARMAZÉNS, AQUI, E PODE LEVAR O QUE ENCONTRAR.}{}{}{}{qu1131 1}
 {71}{VOU MATAR RATOS AGORA.}{}{1}{}{0}{qu1131 2}
-{74}{}{}{}{}{}{}
+{74}{E:}{}{-4}{}{0}{}
 {80}{Muito obrigado. Você me ajudou mais do que pode imaginar. Sinto muito por não ter nada para lhe dar além de meus agradecimentos.}{Muito obrigado. Você me ajudou mais do que pode imaginar. Sinto muito por não ter nada para lhe dar além de meus agradecimentos.}{}{}{}{}
-{81}{Tudo bem. Tenha um bom dia.}{}{5}{}{0}{}
+{81}{Tudo bem. Tenha um bom dia.}{}{5}{}{-5}{}
 {82}{Isso não tem valor para mim. Vou cobrar meu pagamento de sua pele.}{}{5}{}{0}{fl 110 ,co}
+{83}{E:}{}{-4}{}{-5}{}
 {90}{Eek! Por favor, não me obrigue a entrar em uma briga! É tão grosseiro! Desculpe se o ofendi, bom senhor....}{Eek! Por favor, não me obrigue a entrar em uma briga! É tão grosseiro! Desculpe se a ofendi, boa senhora....}{}{}{}{}
 {91}{Tudo bem, então. Qual é o seu nome?}{}{5}{lf1 0}{15}{}
-{92}{}{}{5}{lf1 1}{}{}
 {93}{Tudo bem, matá-lo vai me fazer sentir muito melhor.}{}{5}{}{}{fl 110 ,co}
 {94}{E:}{}{1}{}{0}{}
 {95}{Oh... você é um desses. Bem, tenho certeza de que o que quer que encontre renderia um bom preço, se não tiver utilidade para isso.}{Oh... você é um desses. Bem, tenho certeza de que o que quer que encontre renderia um bom preço, se não tiver utilidade para isso.}{}{}{}{}
@@ -67,6 +66,6 @@
 {110}{Seu insolente! Vou fazer você pagar por isso!}{Seu insolente! Vou fazer você pagar por isso!}{}{}{}{}
 {120}{Você já livrou meus armazéns dos ratos?}{Você já livrou meus armazéns dos ratos?}{}{}{}{}
 {121}{Não, ainda não.}{}{5}{}{0}{fl 130}
-{122}{Urgh... não.}{}{4}{}{0}{fl 130}
+{122}{Urgh... não.}{}{-4}{}{0}{fl 130}
 {130}{Por favor, apresse-se com o trabalho, senhor. Preciso me livrar deste lugar horrível.}{Por favor, apresse-se com o trabalho, senhora. Preciso me livrar deste lugar horrível.}{}{}{}{}
 

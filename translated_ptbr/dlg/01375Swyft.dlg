@@ -1,12 +1,12 @@
 {1}{G:}{G:}{}{}{}{ }
 {2}{W:}{}{5}{qu1078 0, re 41, lf1 0}{10}{lf1 1 }
-{3}{Decidi levar você a Tarant.}{}{5}{qu1078 1}{50}{qu1078 2 }
+{3}{Decidi levar você a Tarant.}{}{5}{qu1078 1}{50}{lf3 1, qu1078 2 }
 {4}{E aquele trabalho de guia que você mencionou, então?}{}{5}{qu1078 0, lf2 1}{40}{ }
 {6}{Com licença, não quis ofender.}{}{5}{re-40, ch-13}{150}{re+10 }
 {7}{Com licença?}{}{5}{re-40, ch14}{130}{re+15 }
 {9}{E:}{}{1}{}{0}{ }
 {10}{Meu nome é Swyft. Você é um aventureiro, não é?}{Meu nome é Swyft. Você é um aventureiro, não é?}{}{}{}{ }
-{13}{Sim, na verdade, sou. Por que pergunta?}{}{5}{}{20}{ }
+{13}{Sim, de fato sou. Por que pergunta?}{}{5}{}{20}{ }
 {14}{Não, não sou.}{}{5}{}{0}{fl 180}
 {19}{E:}{}{1}{}{0}{ }
 {20}{Por favor, diga-me, você já esteve naquela cidade fabulosa conhecida como Tarant?}{Por favor, diga-me, você já esteve naquela cidade fabulosa conhecida como Tarant?}{}{}{}{ }
@@ -18,18 +18,18 @@
 {32}{Acho que isso não me interessaria no momento.}{}{5}{}{60}{ }
 {40}{Pagarei 300 moedas para que me leve em segurança a Tarant.}{Pagarei 300 moedas para que me leve em segurança a Tarant.}{}{}{}{qu1078 1 }
 {41}{Isso parece um acordo aceitável.}{}{5}{ha-11}{50}{lf3 1, qu1078 2 }
-{42}{Farei por 350.}{}{5}{ha12, ha-12}{80}{lf4 1, qu1078 2 }
-{43}{Farei por 400.}{}{5}{ha13, ha-13}{80}{lf5 1, qu1078 2 }
-{44}{Farei por 450.}{}{5}{ha14, ha-14}{80}{lf6 1, qu1078 2 }
+{42}{Vou fazer isso por 350.}{}{5}{ha12, ha-12}{80}{lf4 1, qu1078 2 }
+{43}{Vou fazer isso por 400.}{}{5}{ha13, ha-13}{80}{lf5 1, qu1078 2 }
+{44}{Vou fazer isso por 450.}{}{5}{ha14}{80}{lf6 1, qu1078 2 }
 {45}{Por que você quer ir para lá?}{}{5}{lf7 0}{120}{lf7 1 }
 {49}{Não estou interessado. Tenha um bom dia.}{}{5}{}{60}{ }
 {50}{Oooh! Vou para Tarant! Estou tão animada! [Ela começa a pular de alegria e então te abraça.]}{Oooh! Vou para Tarant! Estou tão animada! [Ela começa a pular de alegria e então te abraça.]}{}{}{}{ }
 {51}{Na verdade, quantos anos você tem?}{}{5}{}{70}{ }
-{52}{Tudo bem. Está preparado para partir agora?}{}{5}{}{0}{jo1 90}
+{52}{Hã, tá bom. Está preparado para partir agora?}{}{5}{}{0}{jo1 90}
 {60}{Por que não? Por favor? Preciso chegar a Tarant!}{Por que não? Por favor? Preciso chegar a Tarant!}{}{}{}{ }
 {61}{Então, vai custar 350.}{}{5}{ha-11}{80}{lf4 1, qu1078 2 }
 {62}{Vai custar 400, então.}{}{5}{ha12, ha-12}{80}{lf5 1, qu1078 2 }
-{63}{Vai custar 450, então.}{}{5}{ha13, ha-13}{80}{lf6 1, qu1078 2 }
+{63}{Vai custar 450, então.}{}{5}{ha13}{80}{lf6 1, qu1078 2 }
 {68}{Por que você quer ir para lá?}{}{5}{lf7 0}{120}{lf7 1 }
 {69}{Não estou interessado em ser guia. Tenha um bom dia.}{}{5}{}{0}{ }
 {70}{Eu tenho 150 anos. Por quê?}{Eu tenho 150 anos. Por quê?}{}{}{}{ }
@@ -54,7 +54,7 @@
 {121}{Sim, eu faço isso.}{}{5}{ha-11}{50}{lf3 1, qu1078 2 }
 {122}{Vou fazer isso por 350.}{}{5}{ha12, ha-12}{80}{lf4 1, qu1078 2 }
 {123}{Vou fazer isso por 400.}{}{5}{ha13, ha-13}{80}{lf5 1, qu1078 2 }
-{124}{Vou fazer isso por 450.}{}{5}{ha14, ha-14}{80}{lf6 1, qu1078 2 }
+{124}{Vou fazer isso por 450.}{}{5}{ha14}{80}{lf6 1, qu1078 2 }
 {129}{Não estou interessado. Desculpe.}{}{5}{}{60}{ }
 {130}{Ah, você é um aventureiro, não é? Pensei que fosse apenas mais um viajante chato. Desculpe se fui rude.}{Ah, você é um aventureiro, não é? Pensei que fosse apenas mais um viajante chato. Desculpe se fui rude.}{}{}{}{ }
 {131}{Tudo bem. Quem seria você?}{}{5}{}{140}{lf1 1 }

@@ -29,7 +29,7 @@
 {34}{No que está trabalhando agora, Erick?}{}{5}{}{40}{}
 {37}{Hã... tá bom. No que você está trabalhando agora?}{}{-4}{}{40}{}
 {39}{E:}{}{1}{}{0}{}
-{40}{Atualmente, estou estudando lendas e mitologia anãs. E recentemente, encontrei algo muito interessante... muito interessante mesmo... [Parece perdido em pensamentos.]}{Bem... eu tenho muitos fornecedores. Costumamos negociar em Stillwater quando surge a necessidade. Mas, ultimamente, estou sem mithril. Se você sabe algo sobre esse metal, sabe que ele é raro. Estou tendo dificuldade em encontrar uma nova fonte, e muitos dos meus objetos estão incompletos sem ele...}{}{}{}{}
+{40}{Atualmente, estou estudando lendas e mitologia anãs. E recentemente, encontrei algo muito interessante... muito interessante mesmo... [Parece perdido em pensamentos.]}{Atualmente, estou estudando lendas e mitologia anãs. E recentemente, encontrei algo muito interessante... muito interessante mesmo... [Parece perdido em pensamentos.]}{}{}{}{}
 {41}{O que foi, Erick? O que foi que você encontrou?}{}{5}{}{46}{}
 {43}{O quê, Erick? O que você achou?}{}{-4}{}{46}{}
 {44}{E:}{}{1}{}{0}{}
@@ -38,8 +38,8 @@
 {49}{Hã... onde Clã de Ferro?}{}{-4}{}{54}{}
 {50}{E:}{}{1}{}{0}{}
 {54}{Bem, ninguém sabe realmente se eles eram reais, ou o que aconteceu com eles se fossem, porque não encontramos nenhuma prova de sua existência. MAS! Um dos nossos mineiros desenterrou uma antiga maça anã algumas semanas atrás... o cabo daquele machado era oco, e dentro dele estava isto... [Ele lhe mostra o que parece ser um antigo esquema.]}{Bem, ninguém sabe realmente se eles eram reais, ou o que aconteceu com eles se fossem, porque não encontramos nenhuma prova de sua existência. MAS! Um dos nossos mineiros desenterrou uma antiga maça anã algumas semanas atrás... o cabo daquele machado era oco, e dentro dele estava isto... [Ele lhe mostra o que parece ser um antigo esquema.]}{}{}{}{}
-{55}{O que é isso, Erick?}{}{5}{}{94}{}
-{57}{Hã... o que é isso?}{}{-4}{}{94}{}
+{55}{O que é isso, Erick?}{}{5}{}{60}{}
+{57}{Hã... o que é isso?}{}{-4}{}{60}{}
 {58}{E:}{}{1}{}{0}{}
 {60}{Parece ser o esquema de uma chave. Há algum texto aqui que parece sugerir que esta é a primeira de muitas chaves, chaves que abrem o 'Lugar de Ferro onde jaz a Pedra'... você sabe o que isso pode significar?}{Parece ser o esquema de uma chave. Há algum texto aqui que parece sugerir que esta é a primeira de muitas chaves, chaves que abrem o 'Lugar de Ferro onde jaz a Pedra'... você sabe o que isso pode significar?}{}{}{}{}
 {61}{Não... o quê? O que isso significa?}{}{5}{}{64}{}
@@ -51,11 +51,11 @@
 {69}{Hã... por que você não procura o Clã de Ferro?}{}{-4}{}{84}{}
 {70}{E:}{}{1}{}{0}{}
 {72}{Você não sabe, sendo um anão? [Ele olha para você estranhamente.] Não sou eu quem deve lhe contar essas coisas. A Forma e a Pedra são a vida para um anão... talvez você aprenda sobre elas um dia.}{Você não sabe, sendo um anão? [Ele olha para você estranhamente.] Não sou eu quem deve lhe contar essas coisas. A Forma e a Pedra são a vida para um anão... talvez você aprenda sobre elas um dia.}{}{}{}{}
-{73}{Entendo. E por que você não foi procurar o Clã de Ferro?}{}{5}{}{84}{}
+{73}{Entendo. E por que você não foi procurar o Clã de Ferro?}{}{5}{qb1093 1}{84}{}
 {74}{K:}{}{5}{lf3 1}{104}{}
 {75}{E:}{}{5}{}{0}{}
 {78}{Sinto muito, meu amigo, mas a Forma e a Pedra são para a alma anã. Não cabe a mim lhe contar tais coisas...}{Sinto muito, meu amigo, mas a Forma e a Pedra são para a alma anã. Não cabe a mim lhe contar tais coisas...}{}{}{}{}
-{79}{Entendo. E por que você não foi procurar o Clã de Ferro?}{}{5}{}{84}{}
+{79}{Entendo. E por que você não foi procurar o Clã de Ferro?}{}{5}{qb1093 1}{84}{}
 {80}{K:}{}{5}{lf3 1}{104}{}
 {81}{E:}{}{5}{}{0}{}
 {84}{[Por um momento, Erick parece quase triste.] Não tenho tempo, amigo. Há tanto aqui que é real e conhecido, que não posso sair correndo atrás de fantasmas por todo o Arcanum. Talvez um dia eu encontre tempo para fazer esta chave e ver aonde ela me leva...}{[Por um momento, Erick parece quase triste.] Não tenho tempo, amigo. Há tanto aqui que é real e conhecido, que não posso sair correndo atrás de fantasmas por todo o Arcanum. Talvez um dia eu encontre tempo para fazer esta chave e ver aonde ela me leva...}{}{}{}{lf4 1}
@@ -88,11 +88,11 @@
 {120}{Volte o mais rápido possível se algum dia conseguir... eu ficaria muito interessado em ouvir o que você teria a dizer...}{Volte o mais rápido possível se algum dia conseguir... eu ficaria muito interessado em ouvir o que você teria a dizer...}{}{}{}{}
 {121}{K:}{}{1}{}{104}{}
 {122}{E:}{}{1}{}{0}{}
-{125}{Você conseguiu! Meu deus! Eu nunca sonhei, quero dizer, eles eram reais... a Pedra... é linda. [Ele fica em silêncio por um longo tempo, virando a pedra nas mãos.] E quanto ao Clã do Ferro? O que você viu?}{Você conseguiu! Meu deus! Eu nunca sonhei, quero dizer, eles eram reais... a Pedra... é linda. [Ele fica em silêncio por um longo tempo, virando a pedra nas mãos.] E quanto ao Clã do Ferro? O que você viu?}{}{}{}{qu1093 4}
+{125}{Você conseguiu! Meu deus! Eu nunca sonhei, quero dizer, eles eram reais... a Pedra... é linda. [Ele fica em silêncio por um longo tempo, virando a pedra nas mãos.] E quanto ao Clã de Ferro? O que você viu?}{Você conseguiu! Meu deus! Eu nunca sonhei, quero dizer, eles eram reais... a Pedra... é linda. [Ele fica em silêncio por um longo tempo, virando a pedra nas mãos.] E quanto ao Clã de Ferro? O que você viu?}{}{}{}{qu1093 4}
 {126}{[Diga a ele.]}{}{1}{}{128}{}
-{128}{É mais do que eu jamais esperava ou sonhava. Parece que eles eram realmente avançados, muito além do que qualquer um poderia imaginar. Mal posso esperar para visitar as cavernas do Clã do Ferro e aprender sobre seus costumes. Obrigado, meu amigo. Você não faz ideia do presente que nos concedeu...}{É mais do que eu jamais esperava ou sonhava. Parece que eles eram realmente avançados, muito além do que qualquer um poderia imaginar. Mal posso esperar para visitar as cavernas do Clã do Ferro e aprender sobre seus costumes. Obrigado, meu amigo. Você não faz ideia do presente que nos concedeu...}{}{}{}{}
+{128}{É mais do que eu jamais esperava ou sonhava. Parece que eles eram realmente avançados, muito além do que qualquer um poderia imaginar. Mal posso esperar para visitar as cavernas do Clã de Ferro e aprender sobre seus costumes. Obrigado, meu amigo. Você não faz ideia do presente que nos concedeu...}{É mais do que eu jamais esperava ou sonhava. Parece que eles eram realmente avançados, muito além do que qualquer um poderia imaginar. Mal posso esperar para visitar as cavernas do Clã de Ferro e aprender sobre seus costumes. Obrigado, meu amigo. Você não faz ideia do presente que nos concedeu...}{}{}{}{}
 {129}{E:}{}{1}{}{0}{lf5 1}
-{132}{O Clã do Ferro? Eles eram uma raça de anões que viveu há milhares de anos - alguns anões os consideram apenas um mito. Supostamente, sua civilização era muito avançada, criando objetos maravilhosos de beleza e poder. Infelizmente, não temos provas de sua existência, e qualquer fato sobre eles é pura especulação...}{O Clã de Ferro? Eles eram uma raça de anões que viveu há milhares de anos - alguns anões os consideram apenas um mito. Supostamente, sua civilização era muito avançada, criando objetos maravilhosos de beleza e poder. Infelizmente, não temos provas de sua existência, e qualquer fato sobre eles é pura especulação...}{}{}{}{}
+{132}{O Clã de Ferro? Eles eram uma raça de anões que viveu há milhares de anos - alguns anões os consideram apenas um mito. Supostamente, sua civilização era muito avançada, criando objetos maravilhosos de beleza e poder. Infelizmente, não temos provas de sua existência, e qualquer fato sobre eles é pura especulação...}{O Clã de Ferro? Eles eram uma raça de anões que viveu há milhares de anos - alguns anões os consideram apenas um mito. Supostamente, sua civilização era muito avançada, criando objetos maravilhosos de beleza e poder. Infelizmente, não temos provas de sua existência, e qualquer fato sobre eles é pura especulação...}{}{}{}{}
 {133}{Eles são reais? E você disse que encontrou algo...}{}{5}{lf1 1, lf3 0, qb1093 1}{54}{}
 {134}{Por que você não foi procurá-los, Erick?}{}{5}{lf3 1, lf4 0, qb1093 1}{84}{}
 {135}{Entendo. Talvez eu pudesse ajudá-lo a encontrar o Clã de Ferro...?}{}{5}{lf4 1, qb1093 1}{94}{}

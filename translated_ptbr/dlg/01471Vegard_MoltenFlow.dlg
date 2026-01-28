@@ -24,7 +24,7 @@
 {29}{Olá, Vegard. Eu sou @PCNAME@...}{}{5}{}{34}{}
 {31}{Eu chamei @PCNAME@!}{}{-4}{}{34}{}
 {32}{E:}{}{-4}{}{0}{}
-{34}{Muito prazer, @PCNAME@. Bem-vindo ao Clã Roda. Há algo em que eu possa ajudá-lo?}{Muito prazer, @PCNAME@. Bem-vinda ao Clã Roda. Há algo em que eu possa ajudá-la?}{}{}{}{}
+{34}{Muito prazer, @PCNAME@. Bem-vinda ao Clã Roda. Há algo em que eu possa ajudá-la?}{Muito prazer, @PCNAME@. Bem-vinda ao Clã Roda. Há algo em que eu possa ajudá-la?}{}{}{}{}
 {35}{Na verdade, tenho algumas perguntas...}{}{5}{}{91}{}
 {36}{Na verdade, não. Eu já estava de saída...}{}{5}{}{0}{}
 {37}{Hã... tenho perguntas!}{}{-4}{}{91}{}
@@ -41,7 +41,7 @@
 {66}{O que você perdeu?}{}{-4}{}{125}{}
 {67}{Hã... Rei? Que Rei?}{}{-4}{}{71}{}
 {69}{E:}{}{1}{}{0}{}
-{71}{O Rei? Bem... essa é uma história mais longa, garoto. Você sabe algo sobre o Clã da Roda?}{O Rei? Bem... essa é uma história mais longa, garota. Você sabe algo sobre o Clã da Roda?}{}{}{}{}
+{71}{O Rei? Bem... essa é uma história mais longa, garoto. Você sabe alguma coisa sobre o Clã da Roda?}{O Rei? Bem... essa é uma história mais longa, garota. Você sabe alguma coisa sobre o Clã da Roda?}{}{}{}{}
 {72}{O que foi que você perdeu nas Minas Abandonadas, Vegard?}{}{5}{}{125}{}
 {73}{Conte-me sobre o Clã da Roda...}{}{5}{}{148}{}
 {74}{Tenho mais algumas perguntas...}{}{5}{}{91}{}
@@ -60,20 +60,20 @@
 {91}{O que você precisa saber?}{O que você precisa saber?}{}{}{}{}
 {92}{Você pode me treinar para ser especialista em detectar armadilhas, Vegard?}{}{5}{tr 7 -1}{107}{et 7 201}
 {93}{Conte-me algo sobre o Clã da Roda...}{}{5}{ni 5648, lf2 0}{148}{}
-{94}{Conte-me sobre o que você faz aqui, Vegard...}{}{5}{qu1092 0, ni 5648, lf3 0, lf2 0}{47}{}
+{94}{Conte-me sobre o que você faz aqui, Vegard...}{}{5}{qu1092 0, lf3 0, lf2 0}{47}{}
 {95}{O que você perdeu no Dredge, Vegard?}{}{5}{lf3 1, qu1092 0, lf2 0}{125}{}
 {96}{Talvez eu consiga devolver a relíquia de família de vocês...}{}{5}{qu1092 1, ni 5648, lf2 0}{81}{}
 {97}{Ainda não encontrei a relíquia de família de vocês...}{}{5}{qu1092 2, ni 5648, lf2 0}{111}{}
 {98}{Eu encontrei sua... hã... 'relíquia'. Aqui está...}{}{5}{qa1092 1, qb1092 3,  in 5648, lf2 0}{116}{in 5648}
 {99}{Hã... você me ensina a ver armadilhas, Vee-gard?}{}{-4}{tr 7 -1}{107}{et 7 201}
 {100}{Hã... me fala sobre o Clã da Roda...}{}{-4}{ni 5648, lf2 0}{148}{}
-{101}{Qual é o seu trabalho, Vee-gard?}{}{-4}{qu1092 0, ni 5648, lf3 0, lf2 0}{47}{}
+{101}{Qual é o seu trabalho, Vee-gard?}{}{-4}{qu1092 0, lf3 0, lf2 0}{47}{}
 {102}{O que você perdeu no Dredge, Vee-gard?}{}{-4}{lf3 1, qu1092 0, lf2 0}{125}{}
 {103}{Quem sabe eu ache o <<<PH1>>>!}{}{-4}{qu1092 1, ni 5648, lf2 0}{81}{}
 {104}{Hã... ainda não achei o <<<PH1>>>...}{}{-4}{qu1092 2, ni 5648, lf2 0}{111}{}
 {105}{Eu achei o <<<PH1>>>! Eu achei o <<<PH1>>>!}{}{-4}{qa1092 1, qb1092 3,  in 5648, lf2 0}{116}{in 5648}
 {106}{E:}{}{1}{}{0}{}
-{107}{Havia mais alguma coisa, amigo?}{Havia mais alguma coisa, amiga?}{}{}{}{}
+{107}{Havia mais alguma coisa, amiga?}{Havia mais alguma coisa, amiga?}{}{}{}{}
 {108}{K:}{}{1}{}{91}{}
 {109}{E:}{}{1}{}{0}{}
 {111}{Espero que deixem você ir procurar, garoto. Boa sorte...}{Espero que deixem você ir procurar, garota. Boa sorte...}{}{}{}{}
@@ -81,13 +81,13 @@
 {113}{Espere! Eu esqueci... o que eu deveria fazer?}{}{-4}{}{87}{}
 {114}{K:}{}{1}{}{91}{}
 {115}{E:}{}{1}{}{0}{}
-{116}{Sério? Eu o parabenizo pela sua bravura... o Dredge não é lugar para os fracos de coração. Muito obrigado por devolver isto para mim... aqui está o capacete que prometi...}{Sério? Eu a parabenizo pela sua bravura... o Dredge não é lugar para os fracos de coração. Muito obrigado por devolver isto para mim... aqui está o capacete que prometi...}{}{}{}{qu1092 4}
+{116}{Sério? Eu a parabenizo pela sua bravura... o Dredge não é lugar para os fracos de coração. Muito obrigado por devolver isto para mim... aqui está o capacete que prometi...}{Sério? Eu a parabenizo pela sua bravura... o Dredge não é lugar para os fracos de coração. Muito obrigado por devolver isto para mim... aqui está o capacete que prometi...}{}{}{}{qu1092 4}
 {117}{Sem ofensas, mas toda essa história me deixa perplexo. Por que a carroça de brinquedo?}{}{5}{}{-2}{}
 {119}{Hã... por que você gosta tanto de um brinquedo, Vee-gard?}{}{-4}{}{-2}{}
 {125}{Há muito tempo, perdi uma chave. Essa chave abre a porta de uma sala secreta nas profundezas das cavernas do Dredge, uma sala que eu mesmo esculpi com minhas próprias mãos. Nessa sala está uma antiga relíquia de família, e eu adoraria vê-la novamente antes de morrer. Eu costumava ir procurar a chave, mas depois que fecharam o Dredge, não pude mais fazer isso...}{Há muito tempo, perdi uma chave. Essa chave abre a porta de uma sala secreta nas profundezas das cavernas do Dredge, uma sala que eu mesmo esculpi com minhas próprias mãos. Nessa sala está uma antiga relíquia de família, e eu adoraria vê-la novamente antes de morrer. Eu costumava ir procurar a chave, mas depois que fecharam o Dredge, não pude mais fazer isso...}{}{}{}{lf4 1}
 {126}{Talvez eu possa recuperar essa relíquia?}{}{5}{}{81}{re +5}
 {127}{O que é o Dredge, e como chego lá?}{}{5}{}{133}{}
-{129}{Hã... quem sabe eu pego o <<<PH1>>> para você?}{}{-4}{}{81}{re +5}
+{129}{Hmm...talvez eu consiga um tear voador pra você?}{}{-4}{}{81}{re +5}
 {130}{O que é o Dredge? Onde fica o Dredge?}{}{-4}{}{133}{}
 {131}{E:}{}{1}{}{0}{}
 {133}{O Dredge? É um sistema de cavernas que antes era uma mina de ferro. A entrada não fica longe daqui... bem ao lado do palácio real. Um lugar horrível, cheio de monstros e maldade...}{O Dredge? É um sistema de cavernas que antes era uma mina de ferro. A entrada não fica longe daqui... bem ao lado do palácio real. Um lugar horrível, cheio de monstros e maldade...}{}{}{}{}
@@ -105,11 +105,11 @@
 {148}{O Clã da Roda é o mais antigo de todos os Clãs. Loghaire Pedra do Trovão é nosso chefe de clã e também Rei de todos os Anões. Ele governa há mais de 600 anos, até que... bem...}{O Clã da Roda é o mais antigo de todos os Clãs. Loghaire Pedra do Trovão é nosso chefe de clã e também Rei de todos os Anões. Ele governa há mais de 600 anos, até que... bem...}{}{}{}{}
 {149}{O quê? O que aconteceu com Loghaire?}{}{5}{ra 2}{182}{}
 {150}{O quê? O que aconteceu com Loghaire?}{}{5}{ra -2}{166}{}
-{151}{Você disse que perdeu algo nos Túneis?}{}{5}{lf3 1}{125}{}
+{151}{Você disse que perdeu algo nos Túneis?}{}{5}{lf3 1, qu1092 0, lf2 0}{125}{}
 {152}{O que mais pode me contar sobre o Clã da Roda?}{}{5}{}{195}{}
 {153}{Tenho mais algumas perguntas gerais...}{}{5}{}{91}{}
 {155}{O que aconteceu com o rei?}{}{-4}{}{161}{}
-{156}{O que você perdeu nos Túneis?}{}{-4}{lf3 1}{125}{}
+{156}{O que você perdeu nos Túneis?}{}{-4}{lf3 1, qu1092 0, lf2 0}{125}{}
 {157}{Hmm... tem mais alguma coisa sobre o Clã da Roda?}{}{-4}{}{195}{}
 {158}{Outras perguntas!}{}{-4}{}{91}{}
 {159}{E:}{}{1}{}{0}{}
@@ -123,7 +123,7 @@
 {169}{Claro. O que mais pode me contar sobre o Clã da Roda?}{}{5}{}{195}{}
 {170}{Mais algumas perguntas gerais...}{}{5}{}{91}{}
 {171}{E:}{}{5}{}{0}{}
-{173}{Hmmm. [Ele olha para você, ponderando.] Talvez você tenha razão. Você fala como alguém confiável, de qualquer forma. [Ele abaixa a voz.] Loghaire teve alguns problemas com elfos há uns 50 ou 60 anos. Ele tinha saído para algum tipo de conselho e, quando voltou... bem... entrou em fúria de pedra. Socando as paredes, gritando sobre traição e sangue...}{Hmmm. [Ele olha para você, ponderando.] Talvez você tenha razão. De qualquer forma, você fala como alguém confiável. [Ele abaixa a voz.] Loghaire teve alguns problemas com elfos cerca de 50 ou 60 anos atrás. Ele tinha partido para algum tipo de conselho, e quando voltou... bem... ele entrou em uma fúria de pedra. Esmurrou as paredes, gritando sobre traição e sangue...}{}{}{}{}
+{173}{Hmmm. [Ele olha para você, ponderando.] Talvez você tenha razão. De qualquer forma, você fala como alguém confiável. [Ele abaixa a voz.] Loghaire teve alguns problemas com elfos cerca de 50 ou 60 anos atrás. Ele tinha partido para algum tipo de conselho, e quando voltou... bem... ele entrou em uma fúria de pedra. Esmurrou as paredes, gritando sobre traição e sangue...}{Hmmm. [Ele olha para você, ponderando.] Talvez você tenha razão. De qualquer forma, você fala como alguém confiável. [Ele abaixa a voz.] Loghaire teve alguns problemas com elfos cerca de 50 ou 60 anos atrás. Ele tinha partido para algum tipo de conselho, e quando voltou... bem... ele entrou em uma fúria de pedra. Esmurrou as paredes, gritando sobre traição e sangue...}{}{}{}{}
 {174}{Sério? O que tinha acontecido?}{}{5}{}{186}{}
 {175}{E:}{}{5}{}{0}{}
 {177}{Hmmm. [Ele olha para você, ponderando.] Desculpe, garoto. Anões não confiam em qualquer um. Talvez devêssemos falar de outras coisas...}{Hmmm. [Ele olha para você, ponderando.] Desculpe, garota. Anões não confiam em qualquer um. Talvez devêssemos falar de outras coisas...}{}{}{}{}

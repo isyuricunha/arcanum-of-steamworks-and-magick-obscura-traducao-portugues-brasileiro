@@ -1,10 +1,10 @@
 {1}{G:}{}{}{}{}{}
 {2}{Olá. Posso perguntar qual é o seu cargo aqui?}{}{5}{lf5 0, ra7, ma-29, re41}{46}{}
-{3}{Tenho uma pergunta, Mestre de Obras...}{}{5}{lf5 1, ra7, ma-29}{56}{}
+{3}{Tenho uma pergunta, Mestre...}{}{5}{lf5 1, ra7, ma-29}{56}{}
 {4}{Olá. Posso perguntar qual é o seu cargo aqui?}{}{5}{lf5 0, re 41, ra-7, ma-29}{61}{}
 {5}{Olá. Posso perguntar qual é o seu cargo aqui?}{}{5}{lf5 0, re -40, ra-7, ma-29}{76}{}
 {6}{Olá, Mestre de Obras.}{}{5}{lf5 1, re 41, ra-7, ma-29}{71}{}
-{7}{Tenho uma pergunta, Mestre de Obras...}{}{5}{lf5 1, re -40, ra-7, ma-29}{86}{}
+{7}{Tenho uma pergunta, Mestre...}{}{5}{lf5 1, re -40, ra-7, ma-29}{86}{}
 {8}{Olá. Posso perguntar qual é o seu cargo aqui?}{}{5}{ma30, lf1 0}{33}{}
 {9}{Olá, Mestre de Obras.}{}{5}{ma30, lf1 1, lf2 0}{37}{}
 {10}{Olá, Mestre de Obras.}{}{5}{ma30, lf1 0, lf5 1}{142}{}
@@ -33,7 +33,7 @@
 {38}{I:}{}{1}{}{0}{re-3}
 {39}{E:}{}{1}{}{0}{}
 {40}{F:}{}{1}{}{0}{re-1}
-{41}{Quantas vezes preciso dizer? Sua aura é mágica demais para este lugar! Este é seu último aviso. Saia, ou mandarei removê-lo!}{Quantas vezes preciso te dizer? Sua aura é mágica demais para este lugar! Este é seu último aviso. Saia, ou mandarei removê-lo!}{}{}{}{lf3 1}
+{41}{Quantas vezes preciso te dizer? Sua aura é mágica demais para este lugar! Este é seu último aviso. Saia, ou mandarei removê-lo!}{Quantas vezes preciso te dizer? Sua aura é mágica demais para este lugar! Este é seu último aviso. Saia, ou mandarei removê-lo!}{}{}{}{lf3 1}
 {42}{I:}{}{1}{}{0}{re-3}
 {43}{E:}{}{1}{}{0}{}
 {44}{F:}{}{1}{}{0}{re-1}
@@ -85,11 +85,11 @@
 {90}{E:}{}{1}{}{0}{}
 {97}{Heh! Gostei da sua submissão, garoto.}{Heh! Gostei da sua submissão, mocinha.}{}{}{}{}
 {98}{Posso perguntar qual é o seu cargo aqui?}{}{5}{lf5 0}{46}{}
-{99}{Tenho uma pergunta, Encarregado...}{}{5}{lf5 1}{86}{}
+{99}{Tenho uma pergunta, Mestre...}{}{5}{lf5 1}{86}{}
 {106}{E:}{}{5}{}{0}{}
 {107}{Oh, me desculpe, senhor, eu, hã, confundi-o com alguém das classes inferiores, entende. O que posso fazer por você?}{Oh, me desculpe, senhora, eu, hã, confundi-a com alguém das classes inferiores, entende. O que posso fazer por você?}{}{}{}{}
 {108}{Posso perguntar qual é o seu cargo aqui?}{}{5}{lf5 0}{117}{}
-{109}{Tenho uma pergunta, Encarregado...}{}{5}{lf5 1}{137}{}
+{109}{Tenho uma pergunta, Mestre...}{}{5}{lf5 1}{137}{}
 {116}{E:}{}{5}{}{0}{}
 {117}{Sou o Encarregado por aqui. O que posso fazer por você?}{Sou o Encarregado por aqui. O que posso fazer por você?}{}{}{}{lf5 1}
 {118}{B:}{}{1}{}{66}{}

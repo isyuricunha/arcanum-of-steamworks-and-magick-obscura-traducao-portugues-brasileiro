@@ -62,7 +62,7 @@
 {31}{Art: 388, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates}
 {32}{Art: 389, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates}
 {33}{Art: 395, Palette: 1, Scale: 100%, Blend: None, Flags: overlay_f | animates}
-{34}{Art: 350, Palette: 1, Scale: 100%, Blend: None, Sound: 8524, Flags: overlay_f | animates}
+{34}{Art: 350, Palette: 1, Scale: 100%, Blend: Add, Sound: 8524, Flags: overlay_f | animates, Light: 1, Light Color:   (242 @ 165 @ 0)}
 
 {35}{Art: 500, Palette: 1, Scale: 100%, Blend: Add, Sound: 24070, Flags: overlay_f | animates}//Generic Light Heal Effect
 {36}{Art: 501, Palette: 1, Scale: 50%, Blend: Add, Sound: 24070, Flags: overlay_f | animates}//Generic Parial Light Heal Effect

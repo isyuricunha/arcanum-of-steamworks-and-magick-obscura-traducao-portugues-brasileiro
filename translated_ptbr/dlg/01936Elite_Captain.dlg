@@ -18,8 +18,8 @@
 {24}{E:}{}{1}{}{0}{}
 {25}{Claro. Cobro uma taxa de 500 moedas pelo treinamento. Isso é aceitável?}{Claro. Cobro uma taxa de 500 moedas pelo treinamento. Isso é aceitável?}{}{}{}{}
 {26}{Sim. Aqui está. [entrega as moedas]}{}{5}{}{31}{}
-{27}{Vou juntar mais moedas e volto.}{}{5}{}{0}{}
-{28}{Hã... tá. [entrega as moedas]}{}{-4}{}{31}{}
+{27}{Vou juntar mais moedas e voltar.}{}{5}{}{0}{}
+{28}{Hmm... sim. [entrega-lhe a moeda]}{}{-4}{}{31}{}
 {29}{Me arruma mais moeda. Me volta.}{}{-4}{}{0}{}
 {30}{F:}{}{1}{}{0}{}
 {31}{Obrigado. [Ele dedica um tempo para avaliar sua competência com o arco e lhe ensinar algumas técnicas novas.] Agora você é um Especialista com o arco. Se desejar obter o Mestrado, deve procurar Kietzel Pearce em Blackroot. Use bem sua nova habilidade, @pcname@.}{Obrigado. [Ele dedica um tempo para avaliar sua competência com o arco e lhe ensinar algumas técnicas novas.] Agora você é um Especialista com o arco. Se desejar obter o Mestrado, deve procurar Kietzel Pearce em Blackroot. Use bem sua nova habilidade, @pcname@.}{}{}{}{$$-500, tr0 2, ru2162}
@@ -28,8 +28,8 @@
 {34}{E:}{}{1}{}{0}{}
 {45}{Sim. No entanto, cobro uma taxa de 500 moedas pelos meus serviços. Isso é aceitável?}{Sim. No entanto, cobro uma taxa de 500 moedas pelos meus serviços. Isso é aceitável?}{}{}{}{}
 {46}{Sim. Aqui está. [entrega as moedas]}{}{5}{}{51}{}
-{47}{Vou juntar mais moedas e volto.}{}{5}{}{0}{}
-{48}{Hã... tá. [entrega as moedas]}{}{-4}{}{51}{}
+{47}{Vou juntar mais moedas e voltar.}{}{5}{}{0}{}
+{48}{Hmm... sim. [entrega-lhe a moeda]}{}{-4}{}{51}{}
 {49}{Me arruma mais moeda. Me volta.}{}{-4}{}{0}{}
 {50}{F:}{}{1}{}{0}{}
 {51}{Certo. [Ele lhe ensina algumas técnicas novas.] Agora você é um Especialista em furtividade. Aqui, pegue este bilhete. Se, por algum motivo, desejar obter o Mestrado, precisará seguir as pistas no bilhete para localizar o Mestre.}{Certo. [Ele lhe ensina algumas técnicas novas.] Agora você é um Especialista em furtividade. Aqui, pegue este bilhete. Se, por algum motivo, desejar obter o Mestrado, precisará seguir as pistas no bilhete para localizar o Mestre.}{}{}{}{$$-500, tr6 2, ru2161, in-5233}
@@ -38,7 +38,7 @@
 {54}{E:}{}{1}{}{0}{}
 {55}{Tenho certeza de que gostaria... [suspiro] Posso treiná-lo. No entanto, isso vai lhe custar. Quero 600 moedas.}{Tenho certeza de que gostaria... [suspiro] Posso treiná-lo. No entanto, isso vai lhe custar. Quero 600 moedas.}{}{}{}{}
 {56}{Tudo bem. Aqui está. [entrega as moedas]}{}{5}{$$600}{61}{}
-{57}{Vou juntar mais moedas e volto.}{}{5}{$$-599}{0}{}
+{57}{Vou juntar mais moedas e voltar.}{}{5}{$$-599}{0}{}
 {58}{Hã... tá bom. [entrega as moedas]}{}{-4}{$$600}{61}{}
 {59}{Me arruma mais moeda. Me volta.}{}{-4}{$$-599}{0}{}
 {60}{F:}{}{1}{}{0}{}
@@ -46,7 +46,7 @@
 {62}{Obrigado. Adeus.}{}{5}{}{0}{}
 {63}{Valeu. Falou.}{}{-4}{}{0}{}
 {64}{E:}{}{1}{}{0}{}
-{75}{Sim. Cobro uma taxa de 600 moedas por esses desperdícios do meu tempo.}{Sim. Cobro uma taxa de 600 moedas por tais desperdícios do meu tempo.}{}{}{}{}
+{75}{Sim. Cobro uma taxa de 600 moedas por tais desperdícios do meu tempo.}{Sim. Cobro uma taxa de 600 moedas por tais desperdícios do meu tempo.}{}{}{}{}
 {76}{Hmm... está bem. Aqui está. [entrega-lhe a moeda]}{}{5}{$$600}{81}{}
 {77}{Vou juntar mais moedas e voltar.}{}{5}{$$-599}{0}{}
 {78}{Hmm... sim. [entrega-lhe a moeda]}{}{-4}{$$600}{81}{}

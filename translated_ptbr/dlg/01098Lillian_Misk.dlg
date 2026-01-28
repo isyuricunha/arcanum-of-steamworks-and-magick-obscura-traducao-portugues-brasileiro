@@ -1,5 +1,5 @@
 {1}{G:}{G:}{}{}{}{}
-{2}{É um prazer, madame. Posso saber quem é a senhora?}{}{5}{lf1 0}{10}{lf1 1}
+{2}{Um prazer, madame. Posso saber quem é a senhora?}{}{5}{lf1 0}{10}{lf1 1}
 {3}{Olá, Srta. Misk. A senhora tem um momento?}{}{5}{lf1 1}{20}{}
 {4}{Oi, moça! Quem é você?}{}{-4}{lf1 0}{10}{lf1 1}
 {5}{Oi, Srta. Misk! Tem perguntas?}{}{-4}{lf1 1}{20}{}
@@ -124,7 +124,7 @@
 {172}{Entendo. Então vou me despedir...}{}{5}{}{0}{lf6 1}
 {174}{[Ela olha para você, ponderando. Então, estendendo a mão para você...] Sim, tem sido... exaustivo. Talvez possamos encontrar algo para distrair minha mente de tudo isso...}{[Ela olha para você, seus olhos se arregalando, então ponderando. Então, estendendo a mão para você...] Sim, tem sido... exaustivo. Talvez algo... novo... possa distrair minha mente de tudo isso...}{}{}{}{}
 {175}{Tenho certeza de que vamos dar um jeito...}{}{5}{}{-12}{}
-{180}{[Ela se inclina para você, beijando-o suavemente na bochecha.] Você foi um grande... 'conforto' para mim, @PCNAME@. Talvez quando sua missão terminar, você possa voltar para mim? Não ficarei de luto para sempre... (ela olha para você, esperançosa...)}{[Ela se inclina para você, beijando-o suavemente na bochecha.] Você foi um grande... 'conforto' para mim. Lembrarei com carinho do tempo que passamos juntos...}{}{}{}{}
+{180}{[Ela se inclina em sua direção, beijando-o suavemente na bochecha.] Você tem sido um grande... 'conforto' para mim, @PCNAME@. Talvez, quando sua missão terminar, você possa voltar para mim? Não ficarei de luto para sempre... [ela olha para você, com expectativa...]}{[Ela se inclina para você, beijando-o suavemente na bochecha.] Você foi um grande... 'conforto' para mim. Lembrarei com carinho do tempo que passamos juntos...}{}{}{}{}
 {181}{Assim como eu, senhora... tenha um bom dia.}{0}{5}{}{}{lf7 1}
 {182}{Talvez eu faça isso, Lillian. Tenha um bom dia...}{1}{5}{}{}{lf 8 1, fl 185}
 {183}{Duvido. Tenho uma longa lista de outros que requerem minha atenção...}{1}{5}{}{}{lf9 1, fl 187}
@@ -136,26 +136,26 @@
 {195}{Você tem? Quem foi?}{Você tem? Quem foi?}{}{}{}{}
 {196}{Quem mais? O mordomo fez isso... [Conte a ela a história.]}{}{5}{}{199}{}
 {199}{Entendo. [Há uma grande tristeza em seus olhos.] Bem, acho que nunca se sabe sobre as pessoas. Nem mesmo as mais próximas. Talvez houvesse alguma justiça em sua morte prematura. Agradeço pela sua ajuda, senhor...}{Entendo. [Há uma grande tristeza em seus olhos.] Bem, acho que nunca se sabe sobre as pessoas. Nem mesmo as mais próximas. Talvez houvesse alguma justiça em sua morte prematura. Agradeço pela sua ajuda, senhora...}{}{}{}{qu1052 4}
-{200}{Foi um prazer. Mais algumas perguntas, se não se importa...}{}{5}{gf2522 1}{20}{}
+{200}{Foi um prazer. Mais algumas perguntas, se não se importar...}{}{5}{gf2522 1}{20}{}
 {201}{O que você quer dizer com 'morte prematura' dele?}{}{5}{gf2522 0}{204}{}
 {202}{E:}{}{1}{}{0}{}
 {204}{Não ficou sabendo? Ele foi encontrado em sua casa há alguns dias, com uma faca cravada no coração. Talvez houvesse algo de verdade naquela maldição, afinal. Bem, agradeço pela sua ajuda no assunto, senhor...}{Não ficou sabendo? Ele foi encontrado em sua casa há alguns dias, com uma faca cravada no coração. Talvez houvesse algo de verdade naquela maldição, afinal. Bem, agradeço pela sua ajuda no assunto, senhora...}{}{}{}{}
 {205}{Foi um prazer. Mais algumas perguntas, se não se importar...}{}{5}{}{20}{}
 {206}{E:}{}{1}{}{0}{}
-{207}{"O Livro da Verdade de Durin? Sobre o que deseja falar?}{"O Livro da Verdade de Durin? Sobre o que deseja falar?}{}{}{}{}
+{207}{"O Livro da Verdade de Durin"? Sobre o que deseja falar?}{"O Livro da Verdade de Durin"? Sobre o que deseja falar?}{}{}{}{}
 {208}{Entendo. Está à venda?}{}{5}{ru -2215}{237}{}
 {209}{Hã... eu posso comprá-lo de você?}{}{-4}{ru -2215}{237}{}
 {210}{Preciso desse livro. Há alguma forma de consegui-lo?}{}{5}{ru 2215, lf8 0, lf9 0, lf10 0, lf11 0}{242}{}
 {211}{Eu preciso dele! Eu preciso dele!}{}{-4}{ru 2215, lf8 0, lf9 0, lf10 0, lf11 0}{242}{}
-{212}{Estou aqui com o dinheiro que combinamos, senhora...}{}{5}{lf8 1, $$2000}{298}{}
-{215}{Ainda não tenho as 2000 peças de ouro pelo livro, senhora...}{}{5}{lf8 1, $$2000}{288}{}
-{216}{Estou aqui com o dinheiro que combinamos, senhora...}{}{5}{lf9 1, $$2000}{298}{}
-{217}{Ainda não tenho as 1750 peças de ouro pelo livro, senhora...}{}{5}{lf9 1, $$2000}{288}{}
-{218}{Estou aqui com o dinheiro que combinamos, senhora...}{}{5}{lf10 1, $$2000}{298}{}
-{219}{Ainda não tenho as 1500 peças de ouro pelo livro, senhora...}{}{5}{lf10 1, $$2000}{288}{}
-{220}{Estou aqui com o dinheiro que combinamos, senhora...}{}{5}{lf11 1, $$2000}{298}{}
-{221}{Ainda não tenho as 1250 peças de ouro pelo livro, senhora...}{}{5}{lf11 1, $$2000}{288}{}
-{222}{Eu trago dinheiro pelo livro!}{}{-4}{$$2000, lf13 1}{298}{}
+{212}{Estou aqui com o dinheiro que combinamos, senhora...}{}{5}{lf8 1, $$2000}{298}{$$-2000}
+{215}{Ainda não tenho as 2000 peças de ouro pelo livro, senhora...}{}{5}{lf8 1, $$-1999}{288}{}
+{216}{Estou aqui com o dinheiro que combinamos, senhora...}{}{5}{lf9 1, $$1750}{298}{$$-1750}
+{217}{Ainda não tenho as 1750 peças de ouro pelo livro, senhora...}{}{5}{lf9 1, $$-1749}{288}{}
+{218}{Estou aqui com o dinheiro que combinamos, senhora...}{}{5}{lf10 1, $$1500}{298}{$$-1500}
+{219}{Ainda não tenho as 1500 peças de ouro pelo livro, senhora...}{}{5}{lf10 1, $$-1499}{288}{}
+{220}{Estou aqui com o dinheiro que combinamos, senhora...}{}{5}{lf11 1, $$1250}{298}{$$-1250}
+{221}{Ainda não tenho as 1250 peças de ouro pelo livro, senhora...}{}{5}{lf11 1, $$-1249}{288}{}
+{222}{Eu trago dinheiro pelo livro!}{}{-4}{$$2000, lf13 1}{298}{$$-2000}
 {223}{Eu ainda não tenho 2000 peças de ouro pelo livro, senhora...}{}{-4}{$$-1999, lf13 1}{288}{}
 {224}{K:}{}{1}{}{20}{}
 {225}{E:}{}{1}{}{0}{}
@@ -180,7 +180,7 @@
 {255}{Comprar? Madame! Isto é uma relíquia cultural! Não tem vergonha na cara?}{}{5}{}{278}{}
 {256}{Hã... Eu não quero comprar! Só me dê o livro!}{}{-4}{}{278}{}
 {257}{E:}{}{1}{}{0}{}
-{258}{Que tal estabelecermos o preço em 2000 peças de ouro? Mais do que um preço justo, considerando seu valor...}{Entendo. Bem, parece uma missão muito importante, meu amigo. Talvez eu possa ser persuadido a vender o livro para você, afinal. Que tal estabelecermos o preço em 2000 peças de ouro? Mais do que um preço justo, considerando seu valor...}{}{}{}{}
+{258}{Que tal estabelecermos o preço em 2000 peças de ouro? Mais do que um preço justo, considerando seu valor...}{Que tal estabelecermos o preço em 2000 peças de ouro? Mais do que um preço justo, considerando seu valor...}{}{}{}{}
 {259}{Feito. [Dê o dinheiro a ela.]}{}{5}{ha -6, $$2000}{298}{$$-2000}
 {260}{Feito.}{}{5}{ha -6, $$-1999}{288}{lf8 1}
 {261}{Eu estava pensando mais em algo como 1750... [Dê o dinheiro a ela.]}{}{5}{ha 7, ha -10, $$1750}{298}{$$-1750}

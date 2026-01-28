@@ -39,7 +39,7 @@
 {52}{Trago notícias de Maximillian, Lianna...}{}{5}{qa1072 1, qb1072 3, lf6 1, lf7 0}{124}{}
 {53}{Trago notícias de Maximillian, Lianna...}{}{5}{qa1164 1, qb1164 3, lf6 1, lf7 0}{124}{}
 {54}{Que notícias tem de Maximillian, Lianna?}{}{5}{gf2447 1}{141}{}
-{55}{Você me treina pra arremessar coisas muito bem? Ser um ex-p-er-to?}{}{-4}{lf8 1, tr 3 -1}{165}{et 3 132}
+{55}{Você me treina pra jogar coisas muito bem? Ser ex-x-p-erto?}{}{-4}{lf8 1, tr 3 -1}{165}{et 3 132}
 {56}{Hã... o que você faz aqui, Lianna?}{}{-4}{}{59}{}
 {57}{E:}{}{5}{}{0}{}
 {59}{O que há para contar? Sou cúmbria. Amo meu país. Lutaria até a morte por ele, usando todas as habilidades que meu pai me ensinou. [Seu rosto fica muito triste.] Só posso esperar que um dia eu seja tão grande guerreira quanto ele...}{O que há para contar? Sou cúmbria. Amo meu país. Lutaria até a morte por ele, usando todas as habilidades que meu pai me ensinou. [Seu rosto fica muito triste.] Só posso esperar que um dia eu seja tão grande guerreira quanto ele...}{}{}{}{}
@@ -52,7 +52,7 @@
 {67}{E:}{}{1}{}{0}{}
 {69}{O que você gostaria de saber?}{O que você gostaria de saber?}{}{}{}{}
 {70}{Fale-me sobre Dernholm...}{}{5}{}{76}{}
-{71}{Fale-me sobre a guerra com Tarant...}{}{5}{lf4 1}{93}{}
+{71}{Conte-me sobre a guerra com Tarant...}{}{5}{lf4 1}{93}{}
 {72}{Conte-me novamente sobre os Cavaleiros Dragão...}{}{5}{lf5 1}{119}{}
 {73}{Mais algumas perguntas gerais...}{}{5}{}{48}{}
 {74}{E:}{}{1}{}{0}{}
@@ -97,7 +97,7 @@
 {124}{[Seus olhos se arregalam, incrédula.] Oh, meu deus. Maximiliano...? Nunca sonhamos que ele ainda estivesse vivo. Onde? Onde ele está...?}{[Seus olhos se arregalam, incrédula.] Oh, meu deus. Maximiliano...? Nunca sonhamos que ele ainda estivesse vivo. Onde? Onde ele está...?}{}{}{}{}
 {125}{Ele está na Ilha do Desespero... <<<PH1>>>}{}{5}{qa1072 1, qb1072 3}{127}{}
 {126}{Ele está na Ilha do Desespero... <<<PH1>>>}{}{5}{qa1164 1, qb1164 3}{160}{}
-{127}{Entendo. [Há determinação em seus olhos. E esperança.] Obrigada, meu amigo. Meu pai teria ficado tão feliz... ele costumava falar de Maximiliano sem parar, dizendo como Cúmbria teria sido ainda maior se ele tivesse assumido seu lugar de direito no trono. [Ela olha para o leste.] Talvez isso ainda possa acontecer. Irei e retornarei com o verdadeiro Rei...}{Entendo. [Há determinação em seus olhos. E esperança.] Obrigada, meu amigo. Meu pai teria ficado tão feliz... ele costumava falar de Maximiliano sem parar, dizendo como Cúmbria teria sido ainda maior se ele tivesse assumido seu lugar de direito no trono. [Ela olha para o leste.] Talvez isso ainda possa acontecer. Irei e retornarei com o verdadeiro Rei...}{}{}{}{qu1072 4, lf7 1}
+{127}{Entendo. [Há determinação em seus olhos. E esperança.] Obrigado, meu amigo. Meu pai teria ficado tão feliz... ele costumava falar de Maximillian sem parar, dizendo como Cúmbria teria sido ainda maior se ele tivesse assumido seu lugar de direito no trono. [Ela olha para o leste.] Talvez isso ainda possa acontecer. Eu irei e retornarei com o verdadeiro Rei...}{Entendo. [Há determinação em seus olhos. E esperança.] Obrigado, meu amigo. Meu pai teria ficado tão feliz... ele costumava falar de Maximillian sem parar, dizendo como Cúmbria teria sido ainda maior se ele tivesse assumido seu lugar de direito no trono. [Ela olha para o leste.] Talvez isso ainda possa acontecer. Eu irei e retornarei com o verdadeiro Rei...}{}{}{}{qu1072 4, lf7 1}
 {128}{Espero sinceramente que sim. Adeus, Lianna...}{}{5}{}{-2}{}
 {132}{Sim, claro. Sempre fico feliz em treinar um companheiro de armas. Você sabe que, pela tradição, devo cobrar 500 peças de ouro...}{Sim, claro. Sempre fico feliz em treinar um companheiro de armas. Você sabe que, pela tradição, devo cobrar 500 peças de ouro...}{}{}{}{}
 {133}{Claro. Aqui está o dinheiro... [Entregue a ela.]}{}{5}{$$500}{146}{$$-500}
@@ -123,6 +123,6 @@
 {160}{Entendo. [Há determinação em seus olhos. E esperança.] Obrigado, meu amigo. Meu pai teria ficado tão feliz... ele costumava falar de Maximillian sem parar, dizendo como Cúmbria teria sido ainda maior se ele tivesse assumido seu lugar de direito no trono. [Ela olha para o leste.] Talvez isso ainda possa acontecer. Eu irei e retornarei com o verdadeiro Rei...}{Entendo. [Há determinação em seus olhos. E esperança.] Obrigado, meu amigo. Meu pai teria ficado tão feliz... ele costumava falar de Maximillian sem parar, dizendo como Cúmbria teria sido ainda maior se ele tivesse assumido seu lugar de direito no trono. [Ela olha para o leste.] Talvez isso ainda possa acontecer. Eu irei e retornarei com o verdadeiro Rei...}{}{}{}{qu1164 4, lf7 1}
 {161}{Espero sinceramente que sim. Adeus, Lianna...}{}{5}{}{-2}{}
 {165}{Havia algo mais que você precisava?}{Havia algo mais que você precisava?}{}{}{}{}
-{166}{K:}{}{1}{}{0}{}
+{166}{K:}{}{1}{}{48}{}
 {167}{E:}{}{1}{}{0}{}
 

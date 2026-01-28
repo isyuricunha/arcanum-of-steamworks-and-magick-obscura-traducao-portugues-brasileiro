@@ -16,7 +16,7 @@
 {18}{Espero que saiba voar, elfo...}{}{5}{ra -3}{}{co, fl 21}
 {19}{Espero que saiba voar, "irmão" élfico...}{}{5}{ra 3}{}{co, fl 21}
 {20}{E:}{}{5}{}{0}{}
-{21}{Qintarra tem beleza, mas também morte. Adeus, tolo...}{Qintarra tem beleza, mas também morte. Adeus, tolo...}{}{}{}{}
+{21}{Qintarra tem beleza, mas também a morte. Adeus, tolo...}{Qintarra tem beleza, mas também a morte. Adeus, tolo...}{}{}{}{}
 {23}{[O elfo pondera suas palavras, então sorri.] Sim, a razão é sempre o melhor caminho. Perdoe minhas palavras, amigo. Até nós, elfos, não estamos livres de nossos momentos de fraqueza...}{[O elfo pondera suas palavras, então sorri.] Sim, a razão é sempre o melhor caminho. Perdoe minhas palavras, amigo. Até nós, elfos, não estamos livres de nossos momentos de fraqueza...}{}{}{}{}
 {24}{Claro. Tudo está perdoado. Posso saber quem é você?}{}{5}{me 0}{27}{re +5}
 {25}{Não precisa se desculpar, Ellumyn. Tem um momento?}{}{5}{me 1}{70}{}
@@ -30,20 +30,20 @@
 {37}{Vejo muita madeira, mas de onde você tira metal, Maluco?}{}{-4}{}{40}{}
 {38}{B:}{}{1}{}{}{}
 {39}{E:}{}{1}{}{0}{}
-{40}{Bem... tenho muitos fornecedores. Costumamos negociar em Stillwater quando surge a necessidade. Mas, ultimamente, fiquei sem mithril. Se sabe algo sobre o metal, sabe que é raro. Estou tendo dificuldade em encontrar uma nova fonte, e muitos dos meus objetos estão incompletos sem ele...}{Bem... tenho muitos fornecedores. Costumamos negociar em Stillwater quando surge a necessidade. Mas, ultimamente, fiquei sem mithril. Se você sabe algo sobre esse metal, sabe que ele é raro. Estou tendo dificuldade em encontrar uma nova fonte, e muitos dos meus objetos estão incompletos sem ele...}{}{}{}{}
+{40}{Bem... tenho muitos fornecedores. Costumamos negociar em Stillwater quando surge a necessidade. Mas, ultimamente, fiquei sem mithril. Se você sabe algo sobre esse metal, sabe que ele é raro. Estou tendo dificuldade em encontrar uma nova fonte, e muitos dos meus objetos estão incompletos sem ele...}{Bem... tenho muitos fornecedores. Costumamos negociar em Stillwater quando surge a necessidade. Mas, ultimamente, fiquei sem mithril. Se você sabe algo sobre esse metal, sabe que ele é raro. Estou tendo dificuldade em encontrar uma nova fonte, e muitos dos meus objetos estão incompletos sem ele...}{}{}{}{}
 {41}{O que é mithril? Por que você não pode usar metais comuns, como ferro?}{}{5}{}{46}{}
 {42}{Hã... o que é mi-t-t-hr-a-l...?}{}{-4}{}{46}{}
 {43}{Interessante... por acaso tenho um pouco de mithril aqui...}{}{5}{in 5638}{105}{}
 {44}{Consegui mithril! Consegui mithril!}{}{-4}{in 5638}{105}{}
 {46}{Mithril é um tipo de metal muito especial. É muito leve e muito resistente... mas suas propriedades mais interessantes estão relacionadas à magia. Embora não seja inerentemente mágico, o mithril é muito condutivo à magia e a manter feitiços mágicos. Não há nada igual...}{Mithril é um tipo de metal muito especial. É muito leve e muito resistente... mas suas propriedades mais interessantes estão relacionadas à magia. Embora não seja inerentemente mágico, o mithril é muito condutivo à magia e a manter feitiços mágicos. Não há nada igual...}{}{}{}{}
-{47}{Entendo. Talvez eu pudesse ajudá-lo a conseguir mais...?}{}{5}{}{60}{re +5}
+{47}{Entendo. Talvez eu possa ajudá-lo a conseguir mais...?}{}{5}{}{60}{re +5}
 {48}{Onde eu poderia encontrar um pouco desse mithril?}{}{5}{}{54}{}
-{50}{Talvez eu encontre um pouco de mi-t-t-hr-a-l pra você!}{}{-4}{}{60}{re +5}
+{50}{Talvez eu arrume um p-o-u-c-o de m-i-t-h-r-i-l pra você!}{}{-4}{}{60}{re +5}
 {51}{Hã... onde fica o mi-t-t-hr-a-l...?}{}{-4}{}{54}{}
 {52}{K:}{}{1}{}{70}{}
 {54}{O único lugar que conheço onde você pode encontrar mithril é nas cavernas do Clã da Roda. Somente lá eles ainda o mineram, e sei que o têm em abundância.}{O único lugar que conheço onde você pode encontrar mithril é nas cavernas do Clã da Roda. Somente lá eles ainda o mineram, e sei que o têm em abundância.}{}{}{}{}
-{55}{Entendo. Talvez eu pudesse ajudá-lo a conseguir mais...?}{}{5}{}{60}{}
-{56}{Onde ficam as cavernas do Clã da Roda?}{}{5}{}{0}{}
+{55}{Entendo. Talvez eu possa ajudá-lo a conseguir mais...?}{}{5}{}{60}{}
+{56}{Onde ficam as cavernas do Clã da Roda?}{}{5}{}{97}{}
 {57}{Talvez eu ajude, Lunático!}{}{-4}{}{60}{}
 {58}{Hã... não gosto disso. Tchau!}{}{-4}{}{0}{}
 {60}{Hmm. Sim... ficaria muito grato pela sua ajuda. Se você conseguir encontrar as cavernas do Clã da Roda e me trazer um pouco de mithril, eu estaria disposto a lhe dar um dos meus arcos artesanais. Dizem que não há melhores em Qintarra...}{Hmm. Sim... ficaria muito grato pela sua ajuda. Se você conseguir encontrar as cavernas do Clã da Roda e me trazer um pouco de mithril, eu estaria disposto a lhe dar um dos meus arcos artesanais. Dizem que não há melhores em Qintarra...}{}{}{}{qu1077 1}
@@ -65,7 +65,7 @@
 {81}{Ainda não consegui nenhum mi-th-r-r-al...}{}{-4}{qu1077 2, ni 5638}{85}{}
 {82}{Consegui mithril! Consegui mithril! Quero trocar com você pelo arco...}{}{-4}{qa1077 1, qb1077 3,  in 5638}{90}{in 5638}
 {83}{E:}{}{1}{}{0}{}
-{85}{Agradeceria se você conseguisse um pouco o mais rápido possível...}{Eu ficaria grato se você encontrasse alguns o mais rápido possível...}{}{}{}{}
+{85}{Eu ficaria grato se você encontrasse alguns o mais rápido possível...}{Eu ficaria grato se você encontrasse alguns o mais rápido possível...}{}{}{}{}
 {86}{K:}{}{1}{}{70}{}
 {87}{E:}{}{1}{}{0}{}
 {90}{Isso é impressionante, meu amigo. Os anões do Clã da Roda são, no mínimo, reclusos... você deve ser uma pessoa e tanto para ter ganhado a confiança deles. Aqui, pegue este arco como pagamento. Você é sempre bem-vindo em minha loja...}{Isso é impressionante, meu amigo. Os anões do Clã da Roda são, no mínimo, reclusos... você deve ser uma pessoa e tanto para ter ganhado a confiança deles. Aqui, pegue este arco como pagamento. Você é sempre bem-vindo em minha loja...}{}{}{}{qu1077 4, in -2014}

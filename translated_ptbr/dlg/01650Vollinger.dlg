@@ -21,12 +21,12 @@
 {37}{Muito obrigado! Posso lhe fazer algumas perguntas?}{}{5}{lf1 0}{46}{re +5}
 {38}{Obrigado, Vollinger. Tem um momento?}{}{5}{lf1 1}{46}{}
 {39}{E:}{}{5}{lf1 1}{0}{}
-{41}{[O gnomo olha para você e dá de ombros.] Talvez você não seja tão insuportável quanto pensei. Talvez tenhamos algumas palavras a trocar...}{[O gnoma olha para você e dá de ombros.] Talvez você não seja tão insuportável quanto pensei. Talvez tenhamos algumas palavras a trocar...}{}{}{}{}
+{41}{[O gnoma olha para você e dá de ombros.] Talvez você não seja tão insuportável quanto pensei. Talvez tenhamos algumas palavras a trocar...}{[O gnoma olha para você e dá de ombros.] Talvez você não seja tão insuportável quanto pensei. Talvez tenhamos algumas palavras a trocar...}{}{}{}{}
 {42}{Estou muito feliz. Posso lhe fazer algumas perguntas?}{}{5}{lf1 0}{46}{}
 {43}{Ótimo, Vollinger. Posso lhe fazer algumas perguntas?}{}{5}{lf1 1}{46}{}
 {44}{E:}{}{5}{lf1 1}{0}{}
 {46}{Suponho que sim...}{Suponho que sim...}{}{}{}{}
-{47}{O que sabe sobre este lugar?}{}{5}{lf2 0}{66}{}
+{47}{O que você sabe sobre este lugar?}{}{5}{lf2 0}{66}{}
 {48}{O que você sabe sobre este lugar?}{}{-4}{lf2 0}{66}{}
 {49}{Gostaria de se juntar a mim, Vollinger?}{}{5}{lf2 1}{137}{jo 0 129}
 {50}{Hã... você se junta a mim, Vollinjer?}{}{-4}{lf2 1}{137}{jo 0 129}
@@ -52,8 +52,8 @@
 {72}{Tá bom. Vou deixar você sozinho...}{}{-4}{}{0}{}
 {74}{[Ele lhe lança um olhar duro.] Quer brigar comigo, garoto? Porque estou mais do que disposto a te satisfazer, se é isso que quer...}{[Ele lhe lança um olhar duro.] Quer brigar comigo, garota? Porque estou mais do que disposto a te satisfazer, se é isso que quer...}{}{}{}{}
 {75}{Não... só estava fazendo uma pergunta simples, amigo...}{}{5}{}{80}{}
-{76}{Não... eu tava só fazendo uma pergunta...}{}{5}{}{80}{}
-{77}{Essa é a ideia geral, escória gnomica...}{}{-4}{}{}{co,fl 34}
+{76}{Não... eu tava só fazendo uma pergunta...}{}{-4}{}{80}{}
+{77}{Essa é a ideia geral, escória gnomica...}{}{5}{}{}{co,fl 34}
 {78}{É! Vou lutar com você agora mesmo!}{}{-4}{}{}{co fl 34}
 {79}{E:}{}{1}{}{0}{}
 {80}{É? Bem, aqui vai uma pergunta simples PRA VOCÊ. O que alguém como você está fazendo aqui no meio deste reino desonroso? Não é exatamente o tipo de lugar que alguém visita para passar férias...}{É? Bem, aqui vai uma pergunta simples para você. O que alguém como você está fazendo aqui no meio deste reino desonroso? Não é exatamente o tipo de lugar que alguém visita para passar férias...}{}{}{}{}
@@ -139,16 +139,16 @@
 {190}{O que você sabe sobre este lugar?}{}{-4}{ia 19, gf2467 0}{353}{}
 {191}{O que você sabe sobre este lugar?}{}{-4}{ia 22, gf2467 0}{357}{}
 {192}{O que você sabe sobre este lugar?}{}{-4}{ia 23, gf2467 0}{361}{}
-{193}{Você parece bravo comigo, Vollinger. Tem algo que eu possa fazer?}{}{5}{re -20}{230}{}
-{194}{Hã... tá bravo comigo, Vollinjer? Eu fiz alguma coisa por você?}{}{-4}{re -20}{230}{}
+{193}{Você parece bravo comigo, Vollinger. Há algo que eu possa fazer?}{}{5}{re -20}{230}{}
+{194}{Hã... tá bravo comigo, Vollinjer? Fiz alguma coisa por você?}{}{-4}{re -20}{230}{}
 {195}{E:}{}{1}{}{0}{}
 {230}{Não posso dizer que estou muito feliz com as coisas que têm acontecido por aqui. Nem um pouco feliz. [Ele lhe lança um olhar desconfiado.] Não é que você tenha um pouco de absinto, né? Isso poderia ajudar bastante a me fazer esquecer certas coisas...}{Não posso dizer que estou muito feliz com as coisas que têm acontecido por aqui. Nem um pouco feliz. [Ele lhe lança um olhar desconfiado.] Não é que você tenha um pouco de absinto, né? Isso poderia ajudar bastante a me fazer esquecer certas coisas...}{}{}{}{}
 {231}{Vollinger, sério. Isso é realmente necessário?}{}{5}{ch 20}{240}{re +20}
 {232}{Bom, felizmente eu tenho um pouco aqui...}{}{5}{in 3617, ch -19}{-31}{re +20}
-{233}{Vou ver se consigo um pouco para você, Vollinger...}{}{5}{in -3617, ch -19}{248}{}
+{233}{Vou ver se consigo um pouco para você, Vollinger...}{}{5}{ni 3617, ch -19}{248}{}
 {234}{Como se eu fosse incentivar um hábito desses! Vamos logo, que tal?}{}{5}{}{}{re -5, fl 246}
 {235}{Eu tenho um pouco aqui, Vollinger!}{}{-4}{in 3617, ch -19}{-31}{re +20}
-{236}{Hã... talvez eu arrume um pouco pra você, Vollinjer!}{}{-4}{in -3617, ch -19}{248}{}
+{236}{Hã... talvez eu arrume um pouco pra você, Vollinjer!}{}{-4}{ni 3617, ch -19}{248}{}
 {237}{Que pena você não conseguir nenhum. A gente vai agora...}{}{-4}{}{}{re -5, fl 246}
 {240}{[Vollinger franze a testa, mas parece não resistir à sua personalidade.] Hmmm. Talvez você esteja certo.}{[Vollinger franze a testa, mas parece não resistir à sua personalidade.] Hmmm. Talvez você esteja certo.}{}{}{}{}
 {241}{Ótimo. Então você vai me acompanhar de novo?}{}{5}{pa -6614}{287}{jo 0 298}

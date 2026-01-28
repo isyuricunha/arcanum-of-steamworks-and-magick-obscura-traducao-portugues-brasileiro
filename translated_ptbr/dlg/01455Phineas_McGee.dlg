@@ -87,7 +87,7 @@
 {95}{Não é tão ruim assim... ainda me viro bem. Só preciso ter mais cuidado com meus projetos e tento ficar na minha também. Não quero mais problemas com a gangue do Pollock. Heh heh! Ashbury é tipo uma aposentadoria comparado ao Caldeirão.}{Não é tão ruim assim... ainda me viro bem. Só preciso ter mais cuidado com meus projetos e tento ficar na minha também. Não quero mais problemas com a gangue do Pollock. Heh heh! Ashbury é tipo uma aposentadoria comparado ao Caldeirão.}{}{}{}{lf3 1}
 {96}{Que tipo de projetos você está falando?}{}{5}{}{102}{}
 {97}{Quanto valeria para você ver o Pollock morto?}{}{5}{gf2187 0, lf 12 0}{110}{lf 12 1}
-{98}{Tenho uma novidade para você, Pollock está morto.}{}{5}{gf2187 1, lf 13 0}{114}{lf 13 1}
+{98}{Tenho notícias para você, Pollock está falecido.}{}{5}{gf2187 1, lf 13 0}{114}{lf 13 1}
 {99}{Sim, este é um lugar muito mais agradável.}{}{5}{}{117}{}
 {100}{E:}{}{1}{}{0}{}
 {102}{Bom, por exemplo, só aceito trabalhos de baixo risco. Como trabalhar nas multidões em Tarant ou nessas reuniõezinhas patéticas aqui em Ashbury. As pessoas estão distraídas e não vigiam suas bolsas. Heh! Mesmo com essas mãos, ainda consigo surrupiar uma ou duas bolsas. Só não posso ficar ganancioso e tenho que sair de lá antes que a reunião acabe!}{Bom, por exemplo, só aceito trabalhos de baixo risco. Como trabalhar nas multidões em Tarant ou nessas reuniõezinhas patéticas aqui em Ashbury. As pessoas estão distraídas e não vigiam suas bolsas. Heh! Mesmo com essas mãos, ainda consigo surrupiar uma ou duas bolsas. Só não posso ficar ganancioso e tenho que sair de lá antes que a reunião acabe!}{}{}{}{lf0 1}
@@ -97,7 +97,7 @@
 {107}{Obrigado pela lição, Phineas.}{}{5}{}{117}{}
 {108}{O que você pode me contar sobre a próxima reunião?}{}{5}{}{124}{}
 {109}{E:}{}{1}{}{}{}
-{110}{Ei, bem, eu não quero mais problemas com o Pollock, ou com a gangue dele, aliás! Mas posso dizer que, se você me contasse que ele está morto, eu ficaria feliz em saber da notícia.}{Olha, bem, eu não quero mais problemas com o Pollock, ou com a gangue dele, aliás! Mas eu poderia dizer que, se você me contasse que ele está morto, eu ficaria grato em ouvir a notícia.}{}{}{}{lf1 1}
+{110}{Olha, bem, eu não quero mais problemas com o Pollock, ou com a gangue dele, aliás! Mas eu poderia dizer que, se você me contasse que ele está morto, eu ficaria grato em ouvir a notícia.}{Olha, bem, eu não quero mais problemas com o Pollock, ou com a gangue dele, aliás! Mas eu poderia dizer que, se você me contasse que ele está morto, eu ficaria grato em ouvir a notícia.}{}{}{}{lf1 1}
 {111}{Não te culpo. Aquela gangue é problema.}{}{5}{}{117}{}
 {112}{Bem, tenho boas notícias, senhor. Pollock está, de fato, morto.}{}{5}{gf2187 1}{114}{lf 13 1}
 {114}{Pollock, morto! Essa é a melhor notícia que ouvi em muito tempo. He he he. Só espero que tenha sido lento e doloroso!}{Pollock, morto! Essa é a melhor notícia que ouvi em muito tempo. He he he. Só espero que tenha sido lento e doloroso!}{}{}{}{}
@@ -121,7 +121,7 @@
 {136}{[Ele está tremendo de medo, nervoso.] Uh, olá, de novo... err... o que posso fazer por você?}{[Ele está tremendo de medo, nervoso.] Uh, olá, de novo... err... o que posso fazer por você?}{}{}{}{re -10}
 {137}{R:($0, 1070-1075)}{}{5}{}{140}{}
 {138}{E:}{}{5}{}{0}{ fl  139}
-{139}{[Ele parece aliviado] Adeus.}{[com alívio] Adeus.}{}{}{}{}
+{139}{[Ele parece aliviado] Adeus.}{[olhando aliviado] Adeus.}{}{}{}{}
 {140}{[Seu corpo ainda está tremendo de medo] É tudo o que sei... juro... por favor, não me machuque!}{[Seu corpo ainda está tremendo de medo] É tudo o que sei... juro... por favor, não me machuque!}{}{}{}{}
 {143}{E:}{}{1}{}{0}{ fl  139}
 {144}{}{}{}{}{}{}

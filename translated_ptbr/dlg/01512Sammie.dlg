@@ -67,13 +67,13 @@
 {67}{[Ele sorri de orelha a orelha.] Hah Hah Hah, então você descobriu meu segredo, meu amigo! É verdade! Que os deuses me perdoem, mas não consigo resistir a uma boa troca de farpas com o povo comum. Mas você, senhor, me parece fora do comum. Meu nome é Sammie White, mas as pessoas só me chamam de Sammie. Qual é o seu nome?}{[Ele sorri de orelha a orelha.] Hah Hah Hah, então você descobriu meu segredo, meu amigo! É verdade! Que os deuses me perdoem, mas não consigo resistir a um pouco de conversa com o povo comum. Mas você, madame, me parece incomum. O nome é Sammie White, mas as pessoas só me chamam de Sammie. Qual é o seu nome?}{}{}{}{lf9 1, re 75}
 {68}{Eu sou @pcname@.}{}{5}{}{80}{}
 {69}{Prefiro não revelar meu nome por enquanto.}{}{5}{sk 5 18, lf6 0}{74}{lf6 1}
-{70}{Prefiro não revelar meu nome por enquanto.}{}{5}{sk 5 -17, lf6 0}{74}{lf6 1}
+{70}{Prefiro não revelar meu nome por enquanto.}{}{5}{sk 5 -17, lf6 0}{77}{lf6 1}
 {71}{Mim @pcname@.}{}{-4}{}{80}{}
 {72}{Mim não dizer ocê meu nome.}{}{-4}{sk 5 18, lf6 0}{74}{lf6 1}
-{73}{Mim não dizer ocê meu nome.}{}{-4}{sk 5 -17, lf6 0}{74}{lf6 1}
+{73}{Mim não dizer ocê meu nome.}{}{-4}{sk 5 -17, lf6 0}{77}{lf6 1}
 {74}{Entendo perfeitamente, amigo. No nosso ramo, é preciso ter cuidado.}{Entendo perfeitamente, amigo. No nosso ramo, é preciso ter cuidado.}{}{}{}{}
 {75}{Sim, claro.}{}{5}{}{80}{}
-{76}{}{}{-4}{}{80}{}
+{76}{Sim.}{}{-4}{}{80}{}
 {77}{Entendo perfeitamente, amigo.}{Entendo perfeitamente, amigo.}{}{}{}{}
 {78}{Isso é bom.}{}{5}{}{80}{}
 {79}{Isso é bom!}{}{-4}{}{80}{}
@@ -83,9 +83,9 @@
 {83}{Por que você gosta de insultar as pessoas?}{}{5}{lf12 0, qb 1094 1}{115}{lf12 1}
 {84}{Você me treinaria para ser um batedor de carteiras melhor?}{}{5}{lf10 1, lf 11 0, qb 1094 1}{130}{}
 {85}{R:($0, 1040-1049)}{}{5}{lf13 0}{80}{lf13 1}
-{86}{O que ocê faz, pequenino?}{}{-4}{sk 5 -17, lf7 0, qb 1094 1}{93}{lf7 1}
-{87}{O que ocê faz, pequenino?}{}{-4}{sk 5 18, lf7 0,  qb 1094 1}{96}{lf7 1}
-{88}{Por que ocê é tão malvado com as pessoas?}{}{-4}{lf12 0, qb 1094 1}{115}{lf12 1}
+{86}{O que você faz, amiguinho?}{}{-4}{sk 5 -17, lf7 0, qb 1094 1}{93}{lf7 1}
+{87}{O que você faz, amiguinho?}{}{-4}{sk 5 18, lf7 0,  qb 1094 1}{96}{lf7 1}
+{88}{Por que você é tão rude com as pessoas?}{}{-4}{lf12 0, qb 1094 1}{115}{lf12 1}
 {89}{Por favor me ensina... mim quer ser melhor ladrão furtivo.}{}{-4}{lf10 1, lf 11 0, qb 1094 1}{130}{}
 {90}{R:($0, 1040-1049)}{}{-4}{lf13 0}{80}{lf13 1}
 {91}{C:}{}{1}{lf 19 0}{80}{lf 19 1}
@@ -100,7 +100,7 @@
 {100}{Como ocê aprendeu a roubar coisas, senhor?}{}{-4}{}{188}{}
 {101}{Por favor me ensina... mim quer ser melhor ladrão furtivo.}{}{-4}{lf10 1, lf 11 0, qb 1094 1}{130}{}
 {102}{Eu digo tchau tchau, amiguinho.}{}{-4}{}{0}{re 50}
-{103}{Bem, nossa pequena conversa foi um alívio animador das circunstâncias mundanas que devo suportar aqui em Tarant. O que era mesmo que você queria comigo? Parece que esqueci. [Ele boceja.]}{Bem, nossa pequena conversa foi um alívio animador das circunstâncias mundanas que devo suportar aqui em Tarant. O que era mesmo que você queria comigo? Parece que esqueci. [Ele boceja.]}{}{}{}{}
+{103}{Bem, nossa pequena conversa foi um alívio animador das circunstâncias mundanas que sou obrigado a suportar aqui em Tarant. O que era mesmo que você queria comigo? Parece que esqueci. [Ele boceja.]}{Bem, nossa pequena conversa foi um alívio animador das circunstâncias mundanas que sou obrigado a suportar aqui em Tarant. O que era mesmo que você queria comigo? Parece que esqueci. [Ele boceja.]}{}{}{}{}
 {104}{O que você faz?}{}{5}{sk 5 -9, lf7 0}{93}{lf7 1}
 {105}{O que você faz?}{}{5}{sk 5 10, lf7 0, me 0}{96}{lf7 1}
 {106}{Por que você gosta de insultar as pessoas?}{}{5}{lf12 0}{115}{lf12 1}
@@ -127,7 +127,7 @@
 {127}{É um trabalho sujo, mas alguém precisa fazê-lo.}{}{5}{}{80}{}
 {128}{[Bocejo] Estou com sono.}{}{-4}{}{80}{}
 {129}{Você é um homenzinho esperto. Eu penso como você também.}{}{-4}{}{80}{}
-{130}{[Ele obviamente não está interessado em você.] Treinamento é tão chato. Prefiro não me incomodar com incompetentes, sem ofensas. Que habilidade você já possui em bater carteiras?}{[Ele claramente não está interessado em você.] Treinamento é tão chato. Prefiro não me incomodar com incompetentes, sem ofensas. Que habilidade você já possui em bater carteiras?}{}{}{}{lf 18 1}
+{130}{[Ele claramente não está interessado em você.] Treinamento é tão chato. Prefiro não me incomodar com incompetentes, sem ofensas. Que habilidade você já possui em bater carteiras?}{[Ele claramente não está interessado em você.] Treinamento é tão chato. Prefiro não me incomodar com incompetentes, sem ofensas. Que habilidade você já possui em bater carteiras?}{}{}{}{lf 18 1}
 {131}{Tenho alguma habilidade, mas nenhum treinamento formal.}{}{5}{sk 5 1, sk 5 -9, tr 5 -1}{140}{}
 {132}{Sou um aprendiz.}{}{5}{tr 5 1, tr 5 -1}{140}{}
 {133}{Sou um especialista.}{}{5}{tr 5 2, tr 5 -2, sk 5 -17}{143}{}
@@ -159,14 +159,14 @@
 {159}{Embora tenha certeza de que vou me arrepender, concordo em fazer isso.}{}{5}{}{171}{}
 {160}{Preciso pensar sobre isso. Volto mais tarde.}{}{5}{}{177}{}
 {161}{Mim achar isso ruim, mas mim dizer okay. Mim fazer o que você quer.}{}{-4}{}{171}{}
-{162}{Eu digo não! Eu não sou esse tipo de homem.}{1}{-4}{}{165}{}
-{163}{Eu digo não! Eu não sou esse tipo de garota.}{0}{-4}{}{165}{}
-{164}{Talvez... Eu volto mais tarde.}{}{-4}{}{177}{}
+{162}{Me fala não! Me não esse tipo de homem.}{1}{-4}{}{165}{}
+{163}{Me fala não! Me não esse tipo de mulher.}{0}{-4}{}{165}{}
+{164}{Quiçá, me volta depois.}{}{-4}{}{177}{}
 {165}{Olha, amigo, ou você quer o treinamento ou não quer. Esse é o meu preço. Aceita ou deixa pra lá.}{Olha, amigo, ou você quer o treinamento ou não quer. Esse é o meu preço. Aceita ou deixa pra lá.}{}{}{}{}
 {166}{Nada vale essa humilhação. Esquece, eu não vou fazer isso.}{}{5}{}{177}{}
 {167}{Você não me deixa escolha. Eu aceito sua proposta.}{}{5}{}{171}{}
-{168}{Eu digo não! Eu não sou esse tipo de homem.}{1}{-4}{}{177}{}
-{169}{Eu digo não! Eu não sou esse tipo de garota.}{0}{-4}{}{177}{}
+{168}{Me fala não! Me não esse tipo de homem.}{1}{-4}{}{177}{}
+{169}{Me fala não! Me não esse tipo de mulher.}{0}{-4}{}{177}{}
 {170}{Eu não gosto disso. Eu acho que vai dar problema, mas eu faço o que você quer.}{}{-4}{}{171}{}
 {171}{Essas são as regras. Tem que ser de dia. Você tem que estar nu... e tem que correr pra cima e pra baixo na Kensington Broadway e em volta desta Praça algumas vezes, e quando terminar, volte aqui que eu te treino.}{Essas são as regras. Tem que ser de dia. Você tem que estar nu... e tem que correr pra cima e pra baixo na Kensington Broadway e em volta desta Praça algumas vezes, e quando terminar, volte aqui que eu te treino.}{}{}{}{}
 {172}{Tá bom, eu concordo.}{}{5}{}{0}{qu 1094 2 , re 50}
@@ -194,11 +194,11 @@
 {194}{Bom, então, já se divertiu o suficiente?}{Bom, então, já se divertiu o suficiente?}{}{}{}{}
 {195}{Claro, estou mais do que pronto para parar com essa bobagem.}{}{5}{}{204}{}
 {196}{Não, eu quero fazer mais.}{}{5}{lf23 0}{211}{lf23 1, fl  211}
-{197}{Sim, estou cansado. Não gosto que as pessoas zombem de mim.}{}{-4}{}{204}{}
-{198}{Não, eu quero mais.}{}{-4}{lf23 0}{211}{lf23 1, fl  211}
+{197}{Sim, me cansado. Me não gosta de gente tirando sarro de mim.}{}{-4}{}{204}{}
+{198}{Não, me quer mais.}{}{-4}{lf23 0}{211}{lf23 1, fl  211}
 {199}{Não está vendo? Agora que você foi alvo de risos e zombarias de todos em Tarant, vai descobrir que é muito mais "prazeroso" roubá-los... gordos, presunçosos e arrogantes como são. Estão chamando você de o Pervertido de Tarant! Uma reputação da qual não vai se livrar facilmente. Mas não se preocupe, com sua nova habilidade, você vai poder equilibrar as contas bem direitinho.}{Não está vendo? Agora que você foi alvo de risos e zombarias de todos em Tarant, vai descobrir que é muito mais "prazeroso" roubá-los... gordos, presunçosos e arrogantes como são. Estão chamando você de o Pervertido de Tarant! Uma reputação da qual não vai se livrar facilmente. Mas não se preocupe, com sua nova habilidade, você vai poder equilibrar as contas bem direitinho.}{}{}{}{}
-{200}{O senhor tem um senso de Lógica bem distorcido. Adeus.}{}{5}{lf23 0}{218}{fl 218}
-{201}{O senhor tem um senso de Lógica bem distorcido. Adeus.}{}{5}{lf23 1}{215}{}
+{200}{O senhor tem uma lógica bem distorcida. Adeus.}{}{5}{lf23 0}{218}{fl 218}
+{201}{O senhor tem uma lógica bem distorcida. Adeus.}{}{5}{lf23 1}{215}{}
 {202}{Tá bom, senhor. Você é um homem bobo. Eu digo tchau.}{}{-4}{lf23 0}{218}{fl 218}
 {203}{Tá bom, senhor. Você é um homem bobo. Eu digo tchau.}{}{-4}{lf23 1}{215}{}
 {204}{[Ele ri alto de você.] Parabéns, agora você é um Mestre Batedor de Carteiras. Não será mais necessário treinamento... pode ir.}{[rindo] Parabéns, agora você é um Mestre Batedor de Carteiras. Não será mais necessário treinamento... Pode ir.}{}{}{}{tr 5 3, qu1094 4, rq2160}

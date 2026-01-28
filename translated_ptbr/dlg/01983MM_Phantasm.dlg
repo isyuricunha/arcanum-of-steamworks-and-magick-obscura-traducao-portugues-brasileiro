@@ -15,9 +15,9 @@
 {15}{Hã... qual é o seu nome, malvado?}{}{-4}{lf1 0, re -40}{28}{}
 {16}{Hã... Eu pergunto uma coisa?}{}{-4}{lf1 1, re 41}{36}{}
 {17}{Hã... eu pergunto uma coisa, malvado?}{}{-4}{lf1 1, re -40}{36}{}
-{18}{Aperfeiçoei minhas habilidades em Fantasmagoria, Mestre Gardi.}{}{5}{lf4 1, sc13 5}{78}{}
-{19}{Refinei minha aura mágica, Mestre Gardi.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{20}{Tenho interesse em me tornar um mestre em Fantasmagoria, Mestre Gardi.}{}{5}{gf2411 0, ma30, lf1 1}{101}{}
+{18}{Aperfeiçoei minhas habilidades em Fantasmagoria, Mestre Gardi.}{}{5}{lf4 1, sc13 5, lf5 0}{78}{}
+{19}{Refinei minha aura mágica, Mestre Gardi.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{20}{Tenho interesse em me tornar um mestre em Fantasmagoria, Mestre Gardi.}{}{5}{gf2411 0, ma30, lf1 1, sc13 5}{101}{}
 {21}{Ainda não completei o teste para Mestria, senhor.}{}{5}{LF7 1, gf2425 0}{115}{}
 {22}{Senhor, completei o teste de Mestria em Fantasmagoria!}{}{5}{gf2425 1, lf9 0}{119}{}
 {27}{E:}{}{1}{}{0}{}
@@ -26,27 +26,27 @@
 {30}{É uma honra conhecê-lo, senhor.}{}{5}{sc13 5, lf5 0}{78}{}
 {31}{Senhor, não se sente ameaçado pelo avanço da tecnologia?}{}{5}{sc13 0, lf3 0}{65}{}
 {32}{Por favor, explique-me a Fantasmagoria, Mestre Gardi.}{}{5}{sc13 0, lf2 0}{57}{}
-{33}{Wha' fan ta zum?}{}{-4}{sc13 0, lf2 0}{57}{}
+{33}{O quê fan tá zum?}{}{-4}{sc13 0, lf2 0}{57}{}
 {34}{Você acha que essa teknawlugia te prejudica?}{}{-4}{sc13 0, lf3 0}{65}{}
 {35}{E:}{}{1}{sc13 0}{0}{}
 {36}{Certamente. Que espectro surgiu em sua mente, @pcname@?}{Certamente. Que espectro surgiu em sua mente, @pcname@?}{}{}{}{}
-{37}{Aperfeiçoei minhas habilidades em Fantasmagoria, Mestre Gardi.}{}{5}{lf4 1, sc13 5, ma 30}{78}{}
-{38}{Refinei minha aura mágica, Mestre Gardi.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{39}{Tenho interesse em me tornar um Mestre em Fantasmagoria.}{}{5}{gf2411 0, ma30}{101}{}
+{37}{Aperfeiçoei minhas habilidades em Fantasmagoria, Mestre Gardi.}{}{5}{lf4 1, sc13 5, lf5 0}{78}{}
+{38}{Refinei minha aura mágica, Mestre Gardi.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{39}{Tenho interesse em me tornar um Mestre em Fantasmagoria.}{}{5}{gf2411 0, ma30, sc13 5}{101}{}
 {40}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
 {41}{Por favor, explique-me a fantasmagoria.}{}{5}{lf2 0}{57}{}
-{42}{Wha' fan ta zum?}{}{-4}{lf2 0}{57}{}
+{42}{O quê fan tá zum?}{}{-4}{lf2 0}{57}{}
 {43}{Você acha que essa teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
 {44}{F:}{}{1}{}{0}{}
 {45}{E:}{}{1}{}{0}{}
 {46}{Precisa de mais alguma coisa?}{Precisa de mais alguma coisa?}{}{}{}{}
-{47}{Aperfeiçoei minhas habilidades em Fantasmagoria, Mestre Gardi.}{}{5}{lf4 1, sc13 5, ma 30}{78}{}
-{48}{Refinei minha aura mágica, Mestre Gardi.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{49}{Tenho interesse em me tornar um Mestre em Fantasmagoria.}{}{5}{gf2411 0, ma30}{101}{}
+{47}{Aperfeiçoei minhas habilidades em Fantasmagoria, Mestre Gardi.}{}{5}{lf4 1, sc13 5, lf5 0}{78}{}
+{48}{Refinei minha aura mágica, Mestre Gardi.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{49}{Tenho interesse em me tornar um Mestre em Fantasmagoria.}{}{5}{gf2411 0, ma30, sc13 5}{101}{}
 {50}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
 {51}{Por favor, senhor, explique-me a Fantasmagoria.}{}{5}{lf2 0}{57}{}
 {52}{Não. Obrigado pelo seu tempo.}{}{5}{}{0}{}
-{53}{Wha' fan ta zum?}{}{-4}{lf2 0}{57}{}
+{53}{O quê fan tá zum?}{}{-4}{lf2 0}{57}{}
 {54}{Você acha que essa teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
 {55}{Nã-nã.}{}{-4}{}{0}{}
 {56}{E:}{}{1}{}{0}{}
@@ -82,7 +82,7 @@
 {86}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 1}{46}{}
 {87}{Extremamente difícil, senhor. Porém, minha mente é afiada e eu consegui.}{}{5}{gf2411 1}{46}{}
 {88}{E:}{}{1}{}{0}{}
-{89}{Embora conheça todos os feitiços da escola de Fantasmagoria, sinto uma fraqueza em sua aura... Você tem se afundado no covil da tecnologia, não é, @pcname@! [balança a cabeça] Tsc tsc... Se algum dia retornar aos caminhos da magia, talvez eu tenha mais a lhe ensinar.}{Embora conheça todos os feitiços da escola de Fantasmagoria, sinto uma fraqueza em sua aura... Você tem se afundado no covil da tecnologia, não é, @pcname@! [balança a cabeça] Tsc tsc... Se algum dia retornar aos caminhos da magia, talvez eu tenha mais a lhe ensinar.}{}{}{}{}
+{89}{Embora conheça todos os feitiços da escola de Fantasmagoria, sinto uma fraqueza em sua aura... Você tem se afundado no covil da tecnologia, não é, @pcname@! [balança a cabeça] Tsc tsc... Se algum dia retornar aos caminhos da magia, talvez eu tenha mais a lhe ensinar.}{Embora conheça todos os feitiços da escola de Fantasmagoria, sinto uma fraqueza em sua aura... Você tem se afundado no covil da tecnologia, não é, @pcname@! [balança a cabeça] Tsc tsc... Se algum dia retornar aos caminhos da magia, talvez eu tenha mais a lhe ensinar.}{}{}{}{lf8 1}
 {90}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
 {91}{Prefiro trilhar um caminho claro e equilibrado entre as duas forças.}{}{5}{}{46}{re-2}
 {92}{Meus instintos me dizem que a tecnologia se tornará o padrão, senhor.}{}{5}{}{46}{re-5, fl 124}

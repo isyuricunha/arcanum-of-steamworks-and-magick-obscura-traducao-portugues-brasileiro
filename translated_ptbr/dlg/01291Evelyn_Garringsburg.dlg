@@ -9,13 +9,13 @@
 {9}{Oi! Trouxe o quadro de volta!}{}{-4}{lf1 0, in 5627}{117}{}
 {10}{E:}{}{1}{}{0}{}
 {13}{[Ela parece surpresa. E então...] Perdoe-me, cavalheiro... fui tomada por uma impressão obviamente equivocada sobre o senhor... por favor, perdoe o desabafo...}{[Ela parece surpresa. E então...] Perdoe-me, madame... fui tomada por uma impressão obviamente equivocada sobre a senhora... por favor, perdoe o desabafo...}{}{}{}{}
-{14}{Claro, madame. E quem seria a senhora?}{}{5}{}{18}{}
-{15}{Certamente, Sra. Garringsburg. A senhora teria um momento?}{}{5}{}{83}{}
+{14}{Claro, madame. E quem seria a senhora?}{}{5}{lf1 0}{18}{}
+{15}{Certamente, Sra. Garringsburg. A senhora teria um momento?}{lf1 1}{5}{}{83}{}
 {18}{[Ela parece um pouco distraída e algo angustiada.] Sim... onde estão meus modos? Sou a Sra. Evelyn Garringsburg. Por favor, fique à vontade. Desculpe... qual disse que era o seu nome?}{[Ela parece um pouco distraída e algo angustiada.] Sim... onde estão meus modos? Sou a Sra. Evelyn Garringsburg. Por favor, fique à vontade. Desculpe... qual disse que era o seu nome?}{}{}{}{lf1 1}
 {19}{Eu não disse, madame.}{}{5}{}{27}{re -5}
 {20}{Meu nome é @PCNAME@. Prazer em conhecê-la, madame.}{}{5}{}{33}{re +5}
-{23}{[Ela parece um pouco distraída e algo angustiada.] Meu Deus! O senhor parece um pouco lerdo! Mas os bons modos ditam que sejamos civilizados com todas as pessoas. Tem um nome?}{[Ela parece um pouco distraída e algo angustiada.] Meu Deus! A senhora parece um pouco lerda! Mas os bons modos ditam que sejamos civilizados com todas as pessoas. Tem um nome?}{}{}{}{lf1 1}
-{24}{Hã... eu não conto meu nome pra todo mundo...}{}{-4}{}{27}{re 5}
+{23}{[Ela parece um pouco distraída e algo angustiada.] Meu Deus! A senhora parece um pouco lerda! Mas os bons modos ditam que sejamos civilizados com todas as pessoas. Tem um nome?}{[Ela parece um pouco distraída e algo angustiada.] Meu Deus! A senhora parece um pouco lerda! Mas os bons modos ditam que sejamos civilizados com todas as pessoas. Tem um nome?}{}{}{}{lf1 1}
+{24}{Hã... eu não conto meu nome pra todo mundo...}{}{-4}{}{27}{re -5}
 {25}{Hã... é! Eu sou o @PCNAME@! Prazer em conhecê-la!}{}{-4}{}{33}{re +5}
 {27}{Sério? Ah, isso não vai dar certo, receio. Um homem que não revela seu nome geralmente está escondendo algo. Talvez seja melhor o senhor ir embora...}{Sério? Ah, isso não vai dar certo, receio. Uma mulher que não revela seu nome geralmente está escondendo algo. Talvez seja melhor a senhora ir embora...}{}{}{}{}
 {28}{Não tenho nada a esconder... meu nome é @PCNAME@.}{}{5}{}{33}{re +5}
@@ -38,7 +38,7 @@
 {49}{E:}{}{5}{}{0}{}
 {50}{Talvez eu consiga encontrar o quadro, madame!}{}{-4}{}{52}{}
 {51}{E:}{}{-4}{}{0}{}
-{52}{Oh, sim! Ficaria muito grata! Você realmente faria isso? Eu poderia lhe oferecer, ah, 300 peças de ouro se o devolvesse!}{Oh, sim! Ficaria muito grata! Você realmente faria isso? Eu poderia lhe oferecer, ah, 300 peças de ouro se o devolvesse!}{}{}{}{qu1063 1}
+{52}{Ah, sim! Ficaria muito grato! Você realmente faria isso? Eu poderia lhe oferecer, ah, 300 peças de ouro se o devolvesse!}{Ah, sim! Ficaria muito grato! Você realmente faria isso? Eu poderia lhe oferecer, ah, 300 peças de ouro se o devolvesse!}{}{}{}{qu1063 1}
 {53}{Claro, madame. Seria uma honra aceitar o trabalho!}{}{5}{}{58}{qu1063 2}
 {54}{Vou pensar no assunto e volto...}{}{5}{}{0}{}
 {55}{É isso aí, Evlin! Eu encontro o quadro!}{}{-4}{}{58}{qu1063 2}
@@ -109,11 +109,11 @@
 {133}{Tudo bem... vou levar a pintura para outro lugar... tchau!}{}{-4}{}{-15}{re -5, lf3 1, fl 135}
 {135}{Sim! Faça isso! Vou chamar as autoridades agora mesmo! Ladrão! Ladrão! Ah... estou me sentindo fraca... [ela desmaia.]}{Sim! Faça isso! Vou chamar as autoridades agora mesmo! Ladrão! Ladrão! Ah... estou me sentindo fraca... [ela desmaia.]}{}{}{}{}
 {137}{Você não vai conseguir nada de mim, ladrão! Estou vendo através do seu ardil, cretino! Vou denunciar você às autoridades agora mesmo!}{Você não vai conseguir nada de mim, ladrão! Estou vendo através do seu ardil, cretino! Vou denunciar você às autoridades agora mesmo!}{}{}{}{}
-{138}{Não tenho certeza se aprecio seu tom, senhora.}{}{5}{}{163}{re -5}
-{139}{Nenhuma recompensa vale essa angústia. Apenas pegue essa coisa maldita.}{}{5}{}{156}{in 5627, re +10}
-{140}{Talvez eu encontre outro comprador... tenha um bom dia.}{}{5}{}{-15}{re -5, lf3 1, fl 135}
-{141}{Não gosto dos nomes que você me chama. Talvez eu faça você calar a boca...}{}{-4}{}{163}{}
-{142}{Hã... pare de chorar! Apenas pegue a pintura e fique quieta!}{}{-4}{}{156}{in 5627, re +10}
+{138}{Não tenho certeza se gostei do seu tom, <<<PH1>>>.}{}{5}{}{163}{re -5}
+{139}{Nenhuma recompensa vale essa angústia. Apenas leve essa maldita coisa.}{}{5}{}{156}{in 5627, re +10}
+{140}{Talvez eu consiga encontrar outro comprador... tenha um bom dia.}{}{5}{}{-15}{re -5, lf3 1, fl 135}
+{141}{Eu não gosto dos nomes que você me chama. Talvez eu cale você...}{}{-4}{}{163}{}
+{142}{Ei... pare de chorar! Apenas pegue o quadro e fique quieto!}{}{-4}{}{156}{in 5627, re +10}
 {143}{Vou embora agora... encontrar outra pessoa que a queira...}{}{-4}{}{-15}{re -5, lf3 1, fl 135}
 {145}{Hah! Uma história bem conveniente! Como se eu fosse acreditar em um monte de mentiras dessas! Acho que você é o ladrão... tentando me extorquir por dinheiro!}{Hah! Uma história bem conveniente! Como se eu fosse acreditar em um monte de mentiras dessas! Acho que você é o ladrão... tentando me extorquir por dinheiro!}{}{}{}{}
 {146}{Não tenho certeza se gostei do seu tom, <<<PH1>>>.}{}{5}{}{163}{re -5}

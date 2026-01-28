@@ -25,7 +25,7 @@
 {44}{Meu nome é Molly Williamson, senhor...}{Meu nome é Molly Williamson, madame...}{}{}{}{}
 {45}{Um prazer, Molly. Tem um momento para conversar?}{}{5}{}{51}{}
 {48}{Eu @PCNAME@! Faço perguntas a você?}{}{-4}{}{51}{}
-{51}{Claro. O que precisa saber?}{Claro. O que você precisa saber?}{}{}{}{}
+{51}{Claro. O que você precisa saber?}{Claro. O que você precisa saber?}{}{}{}{}
 {52}{O que você está fazendo aqui fora, Molly?}{}{5}{lf2 0}{65}{}
 {53}{Ainda estou procurando pelo tesouro e pelas fivelas...}{}{5}{lf2 1, ni 5624, ni 5625}{101}{}
 {54}{Ainda estou procurando pelo tesouro e pelas fivelas...}{}{5}{lf2 1, in 5624, ni 5625}{101}{}
@@ -55,9 +55,9 @@
 {87}{Bom, que coisa. [A mulher balança a cabeça.] Já ouvi histórias estranhas, mas a sua leva o prêmio, senhor. Pensar que o fantasma daquele velho pirata quer se redimir pelo que fez há quase 200 anos...}{Bom, que coisa. [A mulher balança a cabeça.] Já ouvi histórias estranhas, mas a sua leva o prêmio, senhora. Pensar que o fantasma daquele velho pirata quer se redimir pelo que fez há quase 200 anos...}{}{}{}{}
 {88}{Sim, é um pouco inacreditável...}{}{5}{}{91}{}
 {89}{Pois é... engraçado, né?}{}{-4}{}{91}{}
-{91}{Então... você trouxe aquele tesouro antigo e as fivelas?}{Então... você trouxe aquele tesouro antigo e as fivelas pra mim?}{}{}{}{}
-{92}{Sim. [Entregá-los a ela.]}{}{5}{in 5624, in 5625}{104}{in 5624, in 5625}
-{93}{É! [Entregá-los a ela.]}{}{-4}{in 5624, in 5625}{104}{in 5624, in 5625}
+{91}{Então... você trouxe aquele tesouro antigo e as fivelas pra mim?}{Então... você trouxe aquele tesouro antigo e as fivelas pra mim?}{}{}{}{}
+{92}{Sim. [Entregá-los a ela.]}{}{5}{in 5624, in 5625}{104}{in 5624, in 5625, qu1054 4}
+{93}{É! [Entregá-los a ela.]}{}{-4}{in 5624, in 5625}{104}{in 5624, in 5625, qu1054 4}
 {94}{Hm... ainda não. Vou fazer isso em breve...}{}{5}{}{101}{lf2 1}
 {95}{Hm... eu ainda não tenho. Mas vou ter!}{}{-4}{}{101}{lf2 1}
 {96}{Na verdade, acho que vou te matar e ficar com o tesouro...}{}{5}{}{}{co, fl 99}
@@ -65,7 +65,7 @@
 {99}{Você está cometendo um grande erro! Nós, Williamsons, não vamos embora quietos!}{Você está cometendo um grande erro! Nós, Williamsons, não vamos embora quietos!}{}{}{}{}
 {101}{Humpf. Bom, se algum dia você encontrar, acho que poderíamos dar um jeito de usar um pouco...}{Humpf. Bom, se algum dia você encontrar, acho que poderíamos dar um jeito de usar um pouco...}{}{}{}{}
 {102}{E:}{}{1}{}{0}{}
-{104}{Bem, obrigado. Acho que o velho Stringy Pete não é um sujeito tão ruim afinal. Adeus, senhor...}{Bem, obrigado. Acho que o velho Stringy Pete não é um sujeito tão ruim afinal. Adeus, senhora...}{}{}{}{lf3 1, gf2748 1}
+{104}{Bem, obrigado. Acho que o velho Stringy Pete não é um sujeito tão ruim assim, afinal. Adeus, senhor...}{Bem, obrigado. Acho que o velho Stringy Pete não é um sujeito tão ruim assim, afinal. Adeus, senhora...}{}{}{}{lf3 1, gf2748 1}
 {105}{E:}{}{1}{}{0}{}
 {107}{Muito obrigado, senhor. Os Williamsons poderiam usar esse tesouro aí...}{Muito obrigado, senhora. Os Williamsons poderiam usar esse tesouro aí...}{}{}{}{}
 

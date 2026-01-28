@@ -4,8 +4,8 @@
 {4}{Por favor, desculpe minha presença, senhor. Não quero ofender.}{}{5}{re-40, ch-9}{250}{re41 }
 {5}{Fale comigo desse jeito de novo e eu arranco sua língua.}{}{5}{re-40, sk2 12}{210}{re-10 }
 {6}{Parece haver... "irregularidades" com a posse da sua mina.}{}{5}{lf3 1, lf4 0, ps4}{70}{ }
-{7}{Estou aqui para falar sobre um preço para a sua mina.}{}{5}{lf4 1, lf5 0}{190}{ }
-{8}{Estou aqui para falar sobre um preço para a sua mina.}{}{5}{lf5 1}{190}{ }
+{7}{Estou aqui para negociar um preço pela sua mina.}{}{5}{lf4 1, lf5 0}{190}{ }
+{8}{Estou aqui para negociar um preço pela sua mina.}{}{5}{lf5 1}{190}{ }
 {19}{E:}{}{1}{}{0}{ }
 {20}{O nome é Stanton, como diz a placa lá fora. Importador. O que você precisa?}{O nome é Stanton, como diz a placa lá fora. Importador. O que você precisa?}{}{}{}{ }
 {21}{Ouvi dizer que você é o dono da Bessie Toone.}{}{5}{}{30}{ }
@@ -26,7 +26,7 @@
 {72}{Foi isso mesmo? Acho que você a subavaliou substancialmente.}{}{5}{}{130}{lf2 1 }
 {80}{Eu não intimidei ninguém... quero dizer, ele me devia dinheiro. Foi sugestão dele!}{Eu não intimidei ninguém... quero dizer, ele me devia dinheiro. Foi sugestão dele!}{}{}{}{ }
 {81}{Suas desculpas não me convencem.}{}{5}{lf2 0}{160}{lf2 1 }
-{82}{Parece haver dúvidas se ela era mesmo dele para vender.}{}{5}{}{90}{ }
+{82}{Parece haver alguma dúvida se ela era dele para vender.}{}{5}{}{90}{ }
 {83}{Suas desculpas não me convencem.}{}{5}{lf2 1}{150}{lf4 1, re-10 }
 {90}{Ei, espere um minuto! Como eu disse, paguei uma boa grana por aquela mina! Não é minha culpa que ele não foi honesto comigo!}{Ei, espere um minuto! Como eu disse, paguei uma boa grana por aquela mina! Não é minha culpa que ele não foi honesto comigo!}{}{}{}{ }
 {92}{Claro. Você se importaria de comparecer ao tribunal como testemunha?}{}{5}{}{-4}{ }
@@ -50,7 +50,7 @@
 {160}{[Ele muda o peso do corpo.] Eu poderia mandar o Og aqui te convencer. O que acha disso?}{[Ele muda o peso do corpo.] Eu poderia mandar o Og aqui te convencer. O que acha disso?}{}{}{}{ }
 {161}{Parece que estamos nos desviando do assunto. Vamos voltar ao tema.}{}{5}{}{150}{lf4 1, re-10 }
 {162}{Entendo. Ameaçar um oficial do conselho. Eu voltarei, senhor.}{}{5}{}{170}{ }
-{170}{Agora espere, espere. Heh, heh. Foi só uma brincadeirinha. Olha, estou cooperando. Paguei uma boa grana por aquela mina... não sei de nenhuma "irregularidade".}{Espere aí, espere. Heh, heh. Foi só uma brincadeirinha, foi. Olha, estou cooperando. Paguei um bom dinheiro por aquela mina... não sei de nenhuma "irregularidade".}{}{}{}{ }
+{170}{Espere aí, espere. Heh, heh. Foi só uma brincadeirinha, foi. Olha, estou cooperando. Paguei um bom dinheiro por aquela mina... não sei de nenhuma "irregularidade".}{Espere aí, espere. Heh, heh. Foi só uma brincadeirinha, foi. Olha, estou cooperando. Paguei um bom dinheiro por aquela mina... não sei de nenhuma "irregularidade".}{}{}{}{ }
 {171}{Claro. O senhor não se importaria de comparecer ao tribunal para testemunhar isso?}{}{5}{}{-4}{ }
 {180}{"Forçado"? Hah! Isso é bom! Foi sugestão dele. Ele me devia uma graninha, entende, foi o jeito dele de acertar as contas.}{"Forçado"? Hah! Isso é bom! Foi sugestão dele. Ele me devia uma graninha, entende, foi o jeito dele de acertar as contas.}{}{}{}{ }
 {181}{Bom, por quanto o senhor venderia?}{}{5}{}{190}{ }
@@ -69,13 +69,13 @@
 {215}{Og! Mate esse idiota.}{Og! Mate esse idiota.}{}{}{}{ }
 {220}{Isso é melhor. Agora, o que posso fazer por você?}{Isso é melhor. Agora, o que posso fazer por você?}{}{}{}{ }
 {221}{W:}{}{5}{lf1 0, re41}{20}{lf1 1 }
-{222}{Parece que há... "irregularidades" com a posse da sua mina.}{}{5}{lf3 1, lf4 0, ps4}{70}{ }
-{223}{Estou aqui para falar sobre um preço para sua mina.}{}{5}{lf4 1, lf5 0}{190}{ }
-{224}{Estou aqui para falar sobre um preço para sua mina.}{}{5}{lf5 1}{190}{ }
+{222}{Parece haver... "irregularidades" com a posse da sua mina.}{}{5}{lf3 1, lf4 0, ps4}{70}{ }
+{223}{Estou aqui para negociar um preço pela sua mina.}{}{5}{lf4 1, lf5 0}{190}{ }
+{224}{Estou aqui para negociar um preço pela sua mina.}{}{5}{lf5 1}{190}{ }
 {234}{E:}{}{1}{}{0}{ }
 {235}{Me perdoe, senhor. Pensei que fosse um desses malandros da classe baixa, entende?}{Me perdoe, madame. Pensei que fosse uma dessas prostitutas da classe baixa, entende?}{}{}{}{ }
 {236}{W:}{}{5}{lf1 0, re41}{20}{lf1 1 }
-{237}{Parece que há... "irregularidades" com a posse da sua mina.}{}{5}{lf3 1, lf4 0, ps4}{70}{ }
+{237}{Parece haver... "irregularidades" com a posse da sua mina.}{}{5}{lf3 1, lf4 0, ps4}{70}{ }
 {238}{Estou aqui para negociar um preço pela sua mina.}{}{5}{lf4 1, lf5 0}{190}{ }
 {239}{Estou aqui para negociar um preço pela sua mina.}{}{5}{lf5 1}{190}{ }
 {249}{E:}{}{1}{}{0}{ }

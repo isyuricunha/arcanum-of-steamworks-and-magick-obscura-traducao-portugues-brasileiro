@@ -104,7 +104,7 @@
 {143}{Você não irá além de mim, Kerai...}{}{5}{}{}{co, fl 80}
 {145}{Suas palavras são vazias, de sangue-quente. Quer provar sua inocência? A inocência desse elfo? Então deve matar esses homens malignos. Deve matá-los e voltar para mim. Só então o elfo ficará livre...}{Suas palavras são vazias, sangue-quente. Você deseja provar sua inocência? A inocência desses elfos? Então deve matar esses homens maus. Deve matá-los e retornar a mim. Somente então esses elfos serão libertados...}{}{}{}{qu1080 1}
 {146}{Tudo bem. Eu o farei.}{}{5}{}{152}{lf1 1, qu1080 2, gf2159 1}
-{147}{Esqueça. Não matarei os da minha espécie, não importa quão maus sejam...}{}{5}{ra 1}{}{lf1 1, fl 150}
+{147}{Deixa pra lá. Não vou assassinar os da minha própria espécie, não importa o quão maus sejam...}{}{5}{ra 1}{}{lf1 1, fl 150}
 {148}{Não me tornarei um assassino por ninguém...}{}{5}{ra -1}{}{lf1 1, fl 150}
 {150}{Tudo bem. Então saia daqui. Eu farei guerra, e o sangue-quente correrá em rios...}{Tudo bem. Então saia daqui. Eu farei guerra, e o sangue-quente correrá em rios...}{}{}{}{}
 {152}{Você fará? [O Bedokaan parece surpreso.] Bom. Aqui é onde os homens foram vistos pela última vez. [Ele aponta para um lugar no seu mapa, não muito longe de onde você está.] Mate todos os homens e retorne a mim...}{Você fará? [O Bedokaan parece surpreso.] Bom. Aqui é onde os homens foram vistos pela última vez. [Ele aponta para um lugar no seu mapa, não muito longe de onde você está.] Mate todos os homens e retorne a mim...}{}{}{}{mm 35}
@@ -120,12 +120,12 @@
 {166}{[Ele dá meio passo à frente, sua mão pairando sobre a espada.] Suponho que isso acontecerá com o tempo, @PCNAME@. É melhor que nos enfrentemos agora? Lutarei com você aqui, com honra, de acordo com os costumes dos sangue-frios...}{[Ele dá meio passo à frente, sua mão pairando sobre a espada.] Suponho que isso acontecerá com o tempo, @PCNAME@. É melhor que nos enfrentemos agora? Lutarei com você aqui, com honra, de acordo com os costumes dos sangue-frios...}{}{}{}{}
 {167}{Não! Você deve me permitir convencê-lo de que a guerra é tolice!}{}{5}{ps 12}{182}{}
 {168}{Não! Você deve me permitir convencê-lo de que a guerra é tolice!}{}{5}{ps -11}{173}{}
-{169}{Sim. Agora é tão bom quanto qualquer hora. Adeus, Kan Kerai...}{}{5}{}{}{co, fl 171}
+{169}{Sim. Agora é tão bom momento quanto qualquer outro. Adeus, Kan Kerai...}{}{5}{}{}{co, fl 171}
 {171}{Muito bem. Você tem um coração de sangue-frio, @PCNAME@. Desejo-lhe sorte quando encontrar os pais-serpentes...}{Muito bem. Você tem um coração de sangue-frio, @PCNAME@. Desejo-lhe sorte quando encontrar os pais-serpentes...}{}{}{}{}
 {173}{Não. Não há palavras que me desviem do meu caminho. Devo fazer guerra contra os sangue-quentes. A menos que... [Ele hesita.]}{Não. Não há palavras que me desviem do meu caminho. Devo fazer guerra contra os sangue-quentes. A menos que... [Ele hesita.]}{}{}{}{}
 {174}{O quê? O que mais pode ser feito?}{}{5}{}{176}{}
 {175}{Entendo. Então o deixo com seu destino...}{}{5}{}{}{lf1 1, fl 150}
-{176}{Você pode pagar o preço exigido pelos pais-serpentes, @PCNAME@. Se um sangue-quente matar aqueles responsáveis, então não terei que fazer guerra contra todos eles. Os costumes dos sangue-frios permitem essa retribuição. Se matar esses caçadores, libertarei o elfo e abandonarei o caminho da guerra. Você fará isso?}{Você pode pagar o preço exigido pelos pais-serpentes, @PCNAME@. Se um sangue-quente fosse matar aqueles responsáveis, então eu não teria que guerrear contra todos eles. Os caminhos dos sangue-frio permitem essa retribuição. Se você matar esses caçadores, eu libertarei o elfo e abandonarei os caminhos da guerra. Fará isso?}{}{}{}{}
+{176}{Você pode pagar o preço exigido pelos pais-serpentes, @PCNAME@. Se um sangue-quente fosse matar aqueles responsáveis, então eu não teria que guerrear contra todos eles. Os caminhos dos sangue-frio permitem essa retribuição. Se você matar esses caçadores, eu libertarei o elfo e abandonarei os caminhos da guerra. Fará isso?}{Você pode pagar o preço exigido pelos pais-serpentes, @PCNAME@. Se um sangue-quente fosse matar aqueles responsáveis, então eu não teria que guerrear contra todos eles. Os caminhos dos sangue-frio permitem essa retribuição. Se você matar esses caçadores, eu libertarei o elfo e abandonarei os caminhos da guerra. Fará isso?}{}{}{}{}
 {177}{Já fiz isso...}{}{5}{gf2150 1}{319}{}
 {178}{Sim, eu farei isso...}{}{5}{gf2150 0}{152}{lf1 1, qu1080 2, gf2159 1}
 {179}{Deixa pra lá. Não vou assassinar os da minha própria espécie, não importa o quão maus sejam...}{}{5}{ra 1, gf2150 0}{}{lf1 1, fl 150}

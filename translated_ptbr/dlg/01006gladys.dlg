@@ -2,8 +2,8 @@
 {2}{Há algo em que eu possa ajudá-lo?}{}{5}{qu1003 0}{10}{ }
 {3}{Tenho pensado sobre o seu anel.}{}{5}{qu1003 1}{50}{ }
 {4}{Ainda estou procurando pelo seu anel, senhora.}{}{5}{qu1003 2, ni2801}{70}{ }
-{5}{Sinto muito pelo seu anel, senhora.}{}{5}{qu1003 6}{0}{fl 211}
-{6}{Eu encontrei o seu anel.}{}{5}{qa1003 1, in2801}{100}{ }
+{5}{Lamento pelo seu anel, senhora.}{}{5}{qu1003 6}{0}{fl 211}
+{6}{Encontrei o seu anel.}{}{5}{qa1003 1, in2801}{100}{ }
 {7}{Archibald chamou-a de bruxa e disse que nunca devolveria o seu anel.}{}{5}{gf2622 1}{215}{ }
 {8}{Falei com Archibald. Ele está com o seu anel.}{}{5}{gf2618 1, qa1003 1, ni2801, gf2619 0}{290}{ }
 {9}{E:}{}{1}{}{0}{ }
@@ -26,7 +26,7 @@
 {52}{Claro, como poderia não ajudar?}{}{5}{}{40}{re+5 }
 {53}{Você me entristece porque é um miserável patético.}{}{5}{}{0}{lf2 1, re-15, fl 210}
 {59}{Acho que não. Tenha um bom dia.}{}{5}{}{0}{re-5 }
-{60}{Sou apenas uma pobre velha. Não tenho nada para lhe oferecer.}{Sou apenas uma pobre velhinha. Não tenho nada para lhe oferecer.}{}{}{}{ }
+{60}{Sou apenas uma pobre velhinha. Não tenho nada para lhe oferecer.}{Sou apenas uma pobre velhinha. Não tenho nada para lhe oferecer.}{}{}{}{ }
 {61}{Então é nada o que receberá.}{}{5}{}{0}{lf2 1, re-10, fl 210}
 {62}{Ainda assim, vou ajudá-lo.}{}{5}{}{40}{re+5 }
 {63}{Tudo bem. Quando foi a última vez que viu o anel?}{}{5}{lf0 0}{80}{lf0 1 }
@@ -38,7 +38,7 @@
 {90}{Vinte anos atrás. Perdi tanto ele quanto meu marido para a peste. Estou sozinha desde então.}{Vinte anos atrás. Perdi tanto ele quanto meu marido para a peste. Estou sozinha desde então.}{}{}{}{ }
 {92}{Com quem mais eu poderia falar sobre seu filho?}{}{5}{}{180}{ }
 {100}{Você o encontrou? Como conseguiu?}{Oh, que bênção. Posso tê-lo de volta, por favor?}{}{}{}{ }
-{101}{Hmm, o Archibald... me deu ele.}{}{5}{in2801, gf1001 0}{250}{in 2801 }
+{101}{Hmm, o Archibald... me deu ele.}{}{5}{in2801, gf1001 0}{250}{ }
 {102}{Archibald me deu ele, junto com seus cumprimentos.}{}{5}{in2801, gf1001 1}{130}{in 2801 }
 {103}{Matei o desgraçado que o roubou de você!}{}{5}{in2801, gf1001 0, gf2621 1}{0}{lf5 1, qu1003 6, re-20, fl 270}
 {110}{Obrigada pelo seu esforço...}{Obrigada pelo seu esforço...}{}{}{}{qu1003 4, re+10, al+50 }

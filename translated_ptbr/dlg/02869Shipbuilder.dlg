@@ -6,12 +6,12 @@
 {6}{W:}{}{-4}{lf1 0}{110}{re45 }
 {7}{Gostaria de falar com você sobre um barco...}{}{5}{lf1 1, re41, ss17}{90}{ }
 {8}{Quero falar com você sobre barco!}{}{-4}{lf1 1, ss17}{90}{ }
-{9}{Você tem algum barco à venda?}{}{5}{lf1 1, re41, ss-16}{0}{lf4 1, fl 80}
+{9}{Você tem um barco à venda?}{}{5}{lf1 1, re41, ss-16}{0}{lf4 1, fl 80}
 {10}{Cê tem barco que eu possa comprar?}{}{-4}{lf1 1, re41, ss-16}{0}{lf4 1, fl 80}
 {19}{E:}{}{1}{}{0}{ }
 {20}{Sou o mestre construtor naval aqui em Black Root. Prazer em conhecê-lo.}{Sou o mestre construtor naval aqui em Black Root. Prazer em conhecê-lo.}{}{}{}{ }
 {21}{Construtor naval? Você tem algum navio à venda?}{}{5}{ss17}{30}{ }
-{22}{Construtor naval? Você tem algum navio à venda?}{}{5}{ss-16}{0}{lf4 1, fl 80}
+{22}{Construtor naval? Você tem algum navio à venda?}{}{5}{ss-16}{0}{fl 80}
 {29}{E:}{}{1}{}{0}{ }
 {30}{[Ele sorri amplamente para você.] Ora, sim, tenho, na verdade. [Ele aponta para o barco atrás dele.] Acabamos de terminar este aqui. É uma pechincha por 50.000 moedas!}{[Ele sorri amplamente para você.] Ora, sim, tenho, na verdade. [Ele aponta para o barco atrás dele.] Acabamos de terminar este aqui. É uma pechincha por 50.000 moedas!}{}{}{}{lf4 1 }
 {31}{50.000 parece um pouco exorbitante. Que tal 35.000?}{}{5}{sk9 20, tr9 -2}{40}{ }
@@ -22,10 +22,10 @@
 {37}{Certo!}{}{-4}{$$50000}{60}{$$-50000 }
 {38}{Eu vô embora.}{}{-4}{}{0}{ }
 {39}{Vou ter que pensar sobre isso. Adeus.}{}{5}{}{0}{ }
-{40}{Hmmm. Não sei por que estou até considerando isso, normalmente não pechincharia por um barco dessa qualidade! [Ele pensa por um momento.] Tudo bem! 75.000 está valendo!}{Hmmm. Não sei por que estou até considerando isso, normalmente não pechincharia por um barco dessa qualidade! [Ele pensa por um momento.] Tudo bem! 75.000 está valendo!}{}{}{}{ }
+{40}{Hmmm. Não sei por que estou até considerando isso, normalmente eu não pechincharia por um barco dessa qualidade! [Ele pensa por um momento.] Tá bom! 35.000 e está fechado!}{Hmmm. Não sei por que estou até considerando isso, normalmente eu não pechincharia por um barco dessa qualidade! [Ele pensa por um momento.] Tá bom! 35.000 e está fechado!}{}{}{}{ }
 {41}{Temos um acordo.}{}{5}{$$35000}{60}{$$-35000 }
 {42}{No momento, não tenho tantas moedas. Voltarei mais tarde.}{}{5}{}{0}{lf2 1 }
-{50}{Hmmm. Não sei por que estou até considerando isso, normalmente não pechincharia por um barco dessa qualidade! [Ele pensa por um momento.] Tudo bem! 50.000 está valendo!}{Hmmm. Não sei por que estou até considerando isso, normalmente não pechincharia por um barco dessa qualidade! [Ele pensa por um momento.] Tudo bem! 50.000 está valendo!}{}{}{}{ }
+{50}{Hmmm. Não sei por que estou até considerando isso, normalmente eu não pechincharia por um barco dessa qualidade! [Ele pensa por um momento.] Tá bom! 25.000 e está fechado!}{Hmmm. Não sei por que estou até considerando isso, normalmente eu não pechincharia por um barco dessa qualidade! [Ele pensa por um momento.] Tá bom! 25.000 e está fechado!}{}{}{}{ }
 {51}{Temos um acordo.}{}{5}{$$25000}{60}{$$-25000 }
 {52}{No momento, não tenho tantas moedas. Voltarei mais tarde.}{}{5}{}{0}{lf3 1 }
 {60}{Excelente! Ela é sua! Boa navegação para você, senhor.}{Excelente! Ela é sua! Boa navegação para você, senhora.}{}{}{}{gf2670 1, re+25 }
@@ -45,20 +45,20 @@
 {94}{Eu queria fazer uma contraproposta pelo seu barco.}{}{5}{lf4 1, lf3 0, lf2 0, sk9 20, tr9 -2}{100}{ }
 {95}{Eu trouxe dinheiro para comprar o barco.}{}{5}{lf4 1, lf3 0, lf2 0, sk9 -19, $$50000}{60}{$$-50000 }
 {96}{Eu tenho grana pro barco!}{}{-4}{$$50000}{60}{$$-50000 }
-{97}{Você tem algum à venda?}{}{5}{lf4 0, lf3 0, lf2 0}{30}{ }
-{98}{Quanto custa o barco?}{}{-4}{lf4 0, lf3 0, lf2 0}{30}{ }
+{97}{Você tem algum à venda?}{}{5}{lf3 0, lf2 0}{30}{ }
+{98}{Quanto custa o barco?}{}{-4}{lf3 0, lf2 0}{30}{ }
 {99}{Nada. Adeus.}{}{5}{}{0}{ }
 {100}{E o que seria isso?}{E o que seria isso?}{}{}{}{ }
 {101}{Seria 35.000.}{}{5}{sk9 20, tr9 -2}{40}{ }
 {102}{Seria 25.000.}{}{5}{tr9 3}{50}{ }
 {110}{Oh, céus, um imbecil. EU SOU O CARA QUE CONSTRÓI BARCOS. O QUE VOCÊ QUER?}{Oh, céus, um imbecil. EU SOU O CARA QUE CONSTRÓI BARCOS. O QUE VOCÊ QUER?}{}{}{}{ }
 {111}{Navios? Você tem algum pra eu comprar?}{}{-4}{ss17}{30}{ }
-{112}{Navios? Você tem algum pra eu comprar?}{}{-4}{ss-16}{0}{lf4 1, fl 80}
+{112}{Navios? Você tem algum pra eu comprar?}{}{-4}{ss-16}{0}{fl 80}
 {119}{E:}{}{1}{}{0}{ }
 {120}{Com licença, onde estão meus modos? Não faço ideia do que eu poderia estar pensando... em que posso ajudá-lo?}{Com licença, onde estão meus modos? Não faço ideia do que eu poderia estar pensando... em que posso ajudá-lo?}{}{}{}{ }
 {121}{W:}{}{5}{lf1 0}{20}{lf1 1 }
 {122}{Gostaria de falar com você sobre um barco...}{}{5}{lf1 1, ss17}{90}{ }
-{123}{Você tem algum barco à venda?}{}{5}{lf1 1, ss-16}{0}{lf4 1, fl 80}
+{123}{Você tem um barco à venda?}{}{5}{lf1 1, ss-16}{0}{fl 80}
 {129}{E:}{}{1}{}{0}{ }
 {130}{Sim, bem, eu não costumo me associar com pessoas de caráter tão... baixo.}{Sim, bem, eu não costumo me associar com pessoas de caráter tão... baixo.}{}{}{}{ }
 {131}{Só preciso de um momento do seu tempo, senhor...}{}{5}{}{140}{re41 }
@@ -67,15 +67,15 @@
 {140}{Ah, tudo bem. O que é?}{Ah, tudo bem. O que é?}{}{}{}{ }
 {141}{Posso perguntar quem é o senhor, bom homem?}{}{5}{lf1 0}{150}{lf1 1 }
 {142}{Gostaria de falar com você sobre um barco...}{}{5}{lf1 1, ss17}{90}{re45 }
-{143}{Você tem algum barco à venda?}{}{5}{lf1 1, ss-16}{0}{lf4 1, fl 80}
+{143}{Você tem um barco à venda?}{}{5}{lf1 1, ss-16}{0}{fl 80}
 {149}{E:}{}{1}{}{0}{ }
 {150}{Sou o mestre construtor naval aqui em Black Root. Agora, se não há mais nada...}{Sou o mestre construtor naval aqui em Black Root. Agora, se não há mais nada...}{}{}{}{ }
 {151}{Construtor naval? Você tem algum navio à venda?}{}{5}{ss17}{30}{re50 }
-{152}{Construtor naval? Você tem algum navio à venda?}{}{5}{ss-16}{0}{re50, lf4 1, fl 80}
+{152}{Construtor naval? Você tem algum navio à venda?}{}{5}{ss-16}{0}{re50, fl 80}
 {159}{E:}{}{1}{}{0}{ }
 {160}{Acho que não, senhor. Meus amigos aqui me oferecem proteção mais do que adequada. Mesmo assim, peço desculpas por qualquer ofensa que possa ter causado. Em que posso ajudá-lo?}{Acho que não, senhora. Meus amigos aqui me oferecem proteção mais do que adequada. Mesmo assim, peço desculpas por qualquer ofensa que possa ter causado. Em que posso ajudá-la?}{}{}{}{ }
 {161}{W:}{}{5}{lf1 0}{20}{lf1 1 }
 {162}{Gostaria de falar com você sobre um barco...}{}{5}{lf1 1, ss17}{90}{ }
-{163}{Você tem um barco à venda?}{}{5}{lf1 1, ss-16}{0}{lf4 1, fl 80}
+{163}{Você tem um barco à venda?}{}{5}{lf1 1, ss-16}{0}{fl 80}
 {169}{E:}{}{1}{}{0}{ }
 

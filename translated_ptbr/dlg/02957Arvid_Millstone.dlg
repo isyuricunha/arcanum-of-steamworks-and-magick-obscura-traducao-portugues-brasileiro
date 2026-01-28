@@ -21,11 +21,11 @@
 {24}{Vou mentir para sua família e dizer que você morreu bem...}{}{5}{}{}{co, fl 26}
 {25}{E:}{}{5}{}{0}{}
 {26}{Você não fala assim com um anão e vive, garoto...}{Você não fala assim com um anão e vive, garota...}{}{}{}{}
-{28}{[O anão pondera suas palavras, então sorri meio de lado.] Bem, suponho que possa mostrar um pouco de misericórdia com alguém como você. Pelo menos por enquanto. Em que posso ajudá-lo?}{[O anão pondera suas palavras, então sorri meio de lado.] Bem, suponho que possa mostrar um pouco de misericórdia com alguém como você. Pelo menos por enquanto. Em que posso ajudá-la?}{}{}{}{}
+{28}{[O anão pondera suas palavras, então sorri meio de lado.] Bem, suponho que possa mostrar um pouco de misericórdia com alguém como você. Pelo menos por enquanto. Em que posso ajudá-la?}{[O anão pondera suas palavras, então sorri meio de lado.] Bem, suponho que possa mostrar um pouco de misericórdia com alguém como você. Pelo menos por enquanto. Em que posso ajudá-la?}{}{}{}{}
 {29}{Obrigado pela consideração. Posso perguntar quem é você?}{}{5}{me 0}{32}{re +5}
 {30}{Agradeço, Arvid. Tem um momento?}{}{5}{me 1}{69}{}
 {31}{E:}{}{5}{}{0}{}
-{32}{[O anão à sua frente é robusto, coberto de fuligem, com tatuagens nos antebraços.] Meu nome é Arvid Millstone, e sou o feitor aqui nas Minas do Clã Roda...}{[A anã à sua frente é robusta, coberta de fuligem, com tatuagens nos antebraços.] Meu nome é Arvid Millstone, e sou a feitora aqui nas Minas do Clã Roda...}{}{}{}{}
+{32}{[A anã à sua frente é robusta, coberta de fuligem, com tatuagens nos antebraços.] Meu nome é Arvid Millstone, e sou a feitora aqui nas Minas do Clã Roda...}{[A anã à sua frente é robusta, coberta de fuligem, com tatuagens nos antebraços.] Meu nome é Arvid Millstone, e sou a feitora aqui nas Minas do Clã Roda...}{}{}{}{}
 {33}{Prazer, Arvid. Por que todos esses mineiros estão aqui parados?}{}{5}{}{38}{}
 {35}{Oi, Arvid! O que vocês todos estão fazendo aqui?}{}{-4}{}{38}{}
 {36}{E:}{}{-4}{}{0}{}
@@ -50,17 +50,17 @@
 {59}{Uh... quiçá mais tarde. Tchau...}{}{-4}{}{0}{}
 {60}{[Arvid assente para você, estendendo a mão.] Obrigado, senhor. Fico muito agradecido... eu e toda a tripulação aqui...}{[Arvid assente para você, estendendo a mão.] Obrigada, senhora. Fico muito agradecida... eu e toda a tripulação aqui...}{}{}{}{}
 {61}{É um prazer, Arvid. Voltarei quando tiver despachado a criatura...}{}{5}{}{65}{}
-{62}{Claro, Arvid! Eu volto quando matá-la!}{}{5}{}{65}{}
+{62}{Claro, Arvid! Eu volto quando matá-la!}{}{-4}{}{65}{}
 {65}{Novamente, meus agradecimentos. Vamos esperá-lo aqui...}{Novamente, meus agradecimentos. Vamos esperá-lo aqui...}{}{}{}{}
 {67}{E:}{}{1}{}{0}{}
 {69}{Do que precisa?}{Do que precisa?}{}{}{}{}
 {70}{Por que todos vocês estão parados aqui, Arvid?}{}{5}{qu1156 0}{38}{}
-{71}{Talvez eu consiga cuidar desse monstro, Arvid...}{}{5}{qu1156 1}{46}{}
-{72}{Ainda não matei a criatura, Arvid...}{}{5}{qu1156 2}{82}{}
+{71}{Talvez eu consiga cuidar desse monstro, Arvid...}{}{5}{qu1156 1, gf2614 0}{46}{}
+{72}{Ainda não matei a criatura, Arvid...}{}{5}{qu1156 2, gf2614 0}{82}{}
 {73}{Matei as criaturas, Arvid...}{}{5}{qa1156 1, gf2614 1}{90}{}
 {76}{Pra que vocês tão todos aí parados?}{}{-4}{qu1156 0}{38}{}
-{77}{Hã... talvez eu mate coisa pra você!}{}{-4}{qu1156 1}{46}{}
-{78}{Eu ainda não matei monstro, Arvid...}{}{-4}{qu1156 2}{82}{}
+{77}{Hã... talvez eu mate coisa pra você!}{}{-4}{qu1156 1, gf2614 0}{46}{}
+{78}{Eu ainda não matei monstro, Arvid...}{}{-4}{qu1156 2, gf2614 0}{82}{}
 {79}{Eu matei monstros! Eu matei monstro!}{}{-4}{qa1156 1, gf2614 1}{90}{}
 {80}{E:}{}{1}{}{0}{}
 {82}{Tenha cuidado lá fora. Boa sorte...}{Tenha cuidado lá fora. Boa sorte...}{}{}{}{}

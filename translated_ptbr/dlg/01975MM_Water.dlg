@@ -1,18 +1,18 @@
 {1}{G:}{G:}{}{}{}{ }
-{2}{W:}{}{5}{lf1 0, sc1 -5}{15}{lf1 1 }
-{3}{W:}{}{5}{lf1 0, gf2411 0, sc1 5}{260}{lf1 1 }
+{2}{W:}{}{5}{lf1 0, sc5 -4}{15}{lf1 1 }
+{3}{W:}{}{5}{lf1 0, gf2411 0, sc5 5}{260}{lf1 1 }
 {4}{W:}{}{5}{gf2411 1, lf1 0}{15}{lf1 1 }
-{5}{Decidi falar com seu aluno por você.}{}{5}{qu1142 1, ni5680}{100}{qu1142 2 }
+{5}{Decidi falar com seu aprendiz por você.}{}{5}{qu1142 1, ni5680}{100}{qu1142 2 }
 {6}{Qual era o problema sobre o qual você estava me contando?}{}{5}{lf2 1}{60}{ }
-{7}{Mestre Eckes, desejo falar com o senhor sobre magia da água.}{}{5}{lf1 1, gf2411 0, sc1 5}{415}{ }
+{7}{Mestre Eckes, desejo falar com o senhor sobre magia da água.}{}{5}{lf1 1, gf2411 0, sc5 5}{415}{ }
 {8}{Completei o teste e alcancei o domínio da água.}{}{5}{gf2417 1}{380}{ }
 {9}{W:}{}{-4}{qu1142 0}{15}{ }
 {10}{Eu falei com o cara burro. [Entregue a gema para ele.]}{}{-4}{qb1142 3, in5680}{250}{qu1142 4, in5680 }
-{11}{Eu... hã... falei com seu aluno lá na frente. [Entregue a gema para ele.]}{}{5}{qb1142 3, in5680}{180}{qu1142 4, in5680 }
+{11}{Eu... hã... falei com seu aprendiz lá fora. [Entregue-lhe a gema.]}{}{5}{qb1142 3, in5680}{180}{qu1142 4, in5680 }
 {12}{Eu decido ir falar com o cara estudante.}{}{-4}{qu1142 1}{0}{qu1142 2, fl 245}
 {13}{Ainda não completei minha busca pelo domínio da água.}{}{5}{gf2417 0, lf7 1}{410}{ }
 {14}{E:}{}{1}{}{0}{ }
-{15}{Eu sou V'ed Eckes, o mestre de hidromancia aqui em Tulla.}{Eu sou V'ed Eckes, o mestre de hidromancia aqui em Tulla.}{}{}{}{ }
+{15}{Eu sou V'ed Eckes, o mestre da hidromancia aqui em Tulla.}{Eu sou V'ed Eckes, o mestre da hidromancia aqui em Tulla.}{}{}{}{ }
 {16}{Hidromancia?}{}{5}{}{40}{ }
 {17}{Fedex? Hidromanância? Eu não entendo.}{}{-4}{}{200}{ }
 {19}{E:}{}{1}{}{0}{lf1 0 }
@@ -67,7 +67,7 @@
 {171}{Vamos prosseguir. Você estava dizendo?}{}{5}{}{50}{ }
 {172}{Eu prefiro uma agressão violenta a essa conversa infantil.}{}{5}{}{0}{lf2 1, fl 179}
 {179}{Por favor, volte se decidir ter uma conversa madura, criança.}{Por favor, volte se decidir ter uma conversa madura, criança.}{}{}{}{ }
-{180}{Magnífico! [Ele examina a gema por um momento.] Obrigado por trazê-la para mim. Aqui estão as vestes que prometi a você.}{Magnífico! [Ele examina a gema por um momento.] Obrigado por trazê-la para mim. Aqui estão as vestes que prometi a você.}{}{}{}{in-2831 }
+{180}{Magnífico! [Ele inspeciona a gema por um momento.] Obrigado por trazê-la até mim. Aqui estão as vestes que prometi.}{Magnífico! [Ele inspeciona a gema por um momento.] Obrigado por trazê-la até mim. Aqui estão as vestes que prometi.}{}{}{}{in-2831 }
 {181}{Obrigado.}{}{5}{}{0}{ }
 {182}{Você não se importa com o que aconteceu com seu aluno?}{}{5}{}{190}{ }
 {190}{Não particularmente. Ele conhecia os perigos de se envolver com o mundo exterior.}{Não particularmente. Ele conhecia os perigos de se envolver com o mundo exterior.}{}{}{}{ }
@@ -75,7 +75,7 @@
 {200}{[A expressão no rosto deste homem muda de uma seriedade contemplativa para uma diversão levemente disfarçada.] Certo. EU SOU O HOMEM DA MAGIA DA ÁGUA. VOCÊ QUER FAZER ALGO POR MIM?}{[A expressão no rosto deste homem muda de uma seriedade contemplativa para uma diversão levemente disfarçada.] Certo. EU SOU O HOMEM DA MAGIA DA ÁGUA. VOCÊ QUER FAZER ALGO POR MIM?}{}{}{}{ }
 {201}{Tudo bem?}{}{-4}{}{210}{ }
 {202}{Não.}{}{-4}{}{0}{ }
-{210}{Há um aluno que recuperou... uh, conseguiu uma gema nova brilhante para nós. Você a pega dele, certo? E diga para ele ir embora também...}{Há um aluno que recuperou... uh, conseguiu uma gema nova brilhante para nós. Você a pega dele, certo? E diga para ele ir embora também...}{}{}{}{qu1142 1 }
+{210}{Há um aluno que recuperou... uh, conseguiu uma gema nova brilhante para nós. Você a pega dele, certo? E diga para ele ir embora também...}{Há um aluno que recuperou... uh, conseguiu uma gema nova brilhante para nós. Você a pega dele, certo? E diga para ele ir embora também...}{}{}{}{qu1142 1, gf2394 1 }
 {211}{Tá.}{}{-4}{}{220}{qu1142 2 }
 {212}{Por quê?}{}{-4}{}{230}{ }
 {219}{Não.}{}{-4}{}{0}{ }
@@ -100,7 +100,7 @@
 {281}{O que a maestria me dará?}{}{5}{}{290}{ }
 {290}{Para se tornar mestre, primeiro deve passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande dom... o esforço necessário para lançar cada feitiço na escola de maestria é grandemente reduzido!}{Para se tornar mestre, primeiro deve passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande dom... o esforço necessário para lançar cada feitiço na escola de maestria é grandemente reduzido!}{}{}{}{lf3 1 }
 {291}{Entendo.}{}{5}{}{300}{ }
-{300}{[Ele o observa por um momento.] Você é o andarilho, não é?}{[Ele a observa por um momento.] Você é a andarilha, não é?}{}{}{}{ }
+{300}{[Ele a observa por um momento.] Você é a andarilha, não é?}{[Ele a observa por um momento.] Você é a andarilha, não é?}{}{}{}{ }
 {301}{Como você sabia disso?}{}{5}{}{25}{ }
 {310}{Isso é realmente fortuito. Se conseguir se livrar da contaminação da tecnologia, ainda poderá alcançar a maestria na arte da hidromancia.}{Isso é realmente fortuito. Se conseguir se livrar da contaminação da tecnologia, ainda poderá alcançar a maestria na arte da hidromancia.}{}{}{}{ }
 {311}{O que a maestria me dará?}{}{5}{}{290}{ }
@@ -110,10 +110,10 @@
 {331}{O que a maestria me dará?}{}{5}{}{340}{ }
 {340}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande presente... o esforço necessário para lançar cada feitiço na escola de maestria é grandemente reduzido! ...Você está interessado em tentar o teste?}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande presente... o esforço necessário para lançar cada feitiço na escola de maestria é grandemente reduzido! ...Você está interessado em tentar o teste?}{}{}{}{ }
 {341}{Sim, estou.}{}{5}{}{360}{ }
-{349}{Acho que não, pelo menos por enquanto.}{}{5}{}{350}{ }
+{349}{Acho que não, pelo menos não por enquanto.}{}{5}{}{350}{ }
 {350}{Muito bem... [ele lhe observa por um momento.] Você é o andarilho, não é?}{Muito bem... [ele lhe observa por um momento.] Você é o andarilho, não é?}{}{}{}{ }
 {351}{Como você sabia disso?}{}{5}{}{25}{ }
-{360}{Devo adverti-lo, no entanto... Você só poderá dominar 1 colégio de magia. Deseja dominar o colégio da água, acima de todos os outros?}{Devo adverti-lo, no entanto... Você só poderá dominar 1 colégio de magia. Deseja dominar o colégio da água, acima de todos os outros?}{}{}{}{ }
+{360}{Devo adverti-lo, porém... Você só poderá obter maestria em 1 colégio de magia. Deseja dominar o colégio da água, acima de todos os outros?}{Devo adverti-lo, porém... Você só poderá obter maestria em 1 colégio de magia. Deseja dominar o colégio da água, acima de todos os outros?}{}{}{}{ }
 {361}{Sim.}{}{5}{}{370}{ }
 {369}{Acho que não, pelo menos não por enquanto.}{}{5}{}{350}{ }
 {370}{Uma excelente escolha. Aqui. [Um medalhão aparece subitamente em sua mão] Pegue este medalhão. Quando estiver preparado para enfrentar sua prova, coloque-o e avance pelo portal no centro deste salão. Isso iniciará seu teste. Desejo-lhe sorte.}{Uma excelente escolha. Aqui. [Um medalhão aparece subitamente em sua mão] Pegue este medalhão. Quando estiver preparado para enfrentar sua prova, coloque-o e avance pelo portal no centro deste salão. Isso iniciará seu teste. Desejo-lhe sorte.}{}{}{}{in-2837, lf7 1, gf2411 1 }

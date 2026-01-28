@@ -2,13 +2,13 @@
 {2}{Hã... nada. Eu estava apenas viajando pelo interior...}{}{5}{}{15}{ }
 {3}{Hã. Nada?}{}{-4}{}{220}{ }
 {4}{Sou arqueólogo. Fui enviado aqui para explorar essas ruínas.}{}{5}{ps4}{25}{ }
-{5}{Vim aqui para impedir esse estupro científico de nossas terras sagradas.}{}{5}{ra3}{160}{ }
+{5}{Vim aqui para impedir este estupro científico de nossas terras sagradas.}{}{5}{ra3}{160}{ }
 {14}{Nada. Na verdade, eu estava justamente de saída.}{}{5}{}{130}{ }
 {15}{Não acredito em você. Vou perguntar mais uma vez: o que está fazendo aqui?}{Não acredito em você. Vou perguntar mais uma vez: o que está fazendo aqui?}{}{}{}{ }
-{16}{Tá bom. Sou arqueólogo. Fui enviado aqui para explorar essas ruínas.}{}{5}{ps4, ra-3}{25}{ }
+{16}{Tudo bem. Sou arqueólogo. Fui enviado aqui para explorar estas ruínas.}{}{5}{ps4, ra-3}{25}{ }
 {17}{Fui enviado aqui para recuperar algo.}{}{5}{qa1062 1}{180}{ }
-{18}{Vou dizer mais uma vez: eu estava apenas explorando o interior.}{}{5}{}{0}{fl 240 ,co}
-{19}{Vim aqui para impedir esse estupro científico de nossas terras sagradas.}{}{5}{ra3}{160}{ }
+{18}{Vou lhe dizer mais uma vez, eu estava apenas explorando o interior.}{}{5}{}{0}{fl 240 ,co}
+{19}{Vim aqui para impedir este estupro científico de nossas terras sagradas.}{}{5}{ra3}{160}{ }
 {25}{Explorar? Não quer dizer saquear e profanar nosso antigo solo sagrado?}{Explorar? Não quer dizer saquear e profanar nosso antigo solo sagrado?}{}{}{}{ }
 {26}{Claro que não. Sou um homem da ciência.}{1}{5}{}{140}{lf1 1, re-5 }
 {27}{Ahhh, não. Eu, hã, menti. Estou aqui para recuperar algo.}{}{5}{}{180}{ }
@@ -19,11 +19,11 @@
 {37}{Ele era, mas eu não concordava com suas ideias.}{}{5}{}{45}{ }
 {45}{Isso é sorte para você. Ele e todos que compartilham suas ideias são nossos inimigos. [Ele estreita os olhos para você.] Suponho que gostaria que o deixássemos ir.}{Isso é sorte para você. Ele e todos que compartilham suas ideias são nossos inimigos. [Ele estreita os olhos para você.] Suponho que gostaria que o deixássemos ir.}{}{}{}{ }
 {46}{Seria apreciado.}{}{5}{}{55}{ }
-{47}{Não, quero que VOCÊS MORRAM!}{}{5}{}{0}{fl 240 ,co}
+{47}{Não, eu quero que vocês MORRAM!}{}{5}{}{0}{fl 240 ,co}
 {55}{Diga-me, o que vai fazer se o deixarmos ir?}{Diga-me, o que vai fazer se o deixarmos ir?}{}{}{}{ }
 {56}{Eu, é claro, não contaria a ninguém o que vi aqui.}{}{5}{}{120}{re-5 }
 {57}{Eu contaria a todos o que aconteceu aqui como um aviso.}{}{5}{}{-4}{lf2 1 }
-{65}{[Ele faz uma pausa por um momento antes de responder.] Você tem sorte de ser uma pessoa honesta. A maioria teria mentido e tentado me convencer de que não diria nada sobre isso. Você está livre para ir... mas eu o aviso, nunca mais volte. Você tem dois minutos para sair deste lugar.}{[Ele faz uma pausa por um momento antes de responder.] Você tem sorte de ser uma pessoa honesta. A maioria teria mentido e tentado me convencer de que não diria nada sobre isso. Você está livre para ir... mas eu o aviso, nunca mais volte. Você tem dois minutos para sair deste lugar.}{}{}{}{ }
+{65}{[Ele faz uma pausa por um momento antes de responder.] Você tem sorte de ser uma pessoa honesta. A maioria teria mentido e tentado me convencer de que não diria nada sobre isso. Você está livre para ir... mas eu o aviso, nunca mais volte. Você tem dois minutos para deixar este lugar.}{[Ele faz uma pausa por um momento antes de responder.] Você tem sorte de ser uma pessoa honesta. A maioria teria mentido e tentado me convencer de que não diria nada sobre isso. Você está livre para ir... mas eu o aviso, nunca mais volte. Você tem dois minutos para deixar este lugar.}{}{}{}{ }
 {70}{[Ele obviamente não acredita em você.] Então, por favor, me diga, de onde exatamente você é?}{[Ele obviamente não acredita em você.] Então, por favor, me diga, de onde exatamente você é?}{}{}{}{ }
 {71}{Sou professor associado na Universidade de Tarant.}{}{5}{}{110}{re-5 }
 {72}{Tudo bem, eu menti. Fui enviado aqui para recuperar algo.}{}{5}{}{180}{ }
@@ -33,7 +33,7 @@
 {82}{Ele não me pagava dinheiro suficiente.}{}{5}{}{90}{ }
 {83}{Acho que lugares como este devem ser deixados em paz. Ele não concordava.}{}{5}{ps8}{55}{ }
 {90}{Hah! Um homem como eu! Suponho que gostaria que o deixássemos ir agora?}{Hah! Um homem como eu! Suponho que gostaria que o deixássemos ir agora?}{}{}{}{ }
-{91}{Isso seria apreciado.}{}{5}{}{55}{ }
+{91}{Seria apreciado.}{}{5}{}{55}{ }
 {92}{Não, eu quero que vocês MORRAM!}{}{5}{}{0}{fl 240 ,co}
 {100}{Não aprecio mentirosos. Acho que é hora de você morrer.}{Não aprecio mentirosos. Acho que é hora de você morrer.}{}{}{}{ }
 {101}{Você primeiro.}{}{5}{}{0}{fl 240 ,co}

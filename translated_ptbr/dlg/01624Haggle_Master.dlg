@@ -21,7 +21,7 @@
 {21}{Hã, ...o quê?}{}{-4}{}{22}{}
 {22}{Seu nome, bom rapaz. Estou perguntando seu nome, se faz favor...}{Seu nome, madame. Estou perguntando seu nome, se faz favor...}{}{}{}{}
 {23}{Ah, meu nome é @pcname@.}{}{-4}{}{24}{}
-{24}{O que o traz a este excelente estabelecimento, @pcname@? Permita-me recomendar a cerveja. É inquestionavelmente a melhor de Tarant.}{O que a traz a este excelente estabelecimento, @pcname@? Permita-me recomendar a cerveja. É inquestionavelmente a melhor de Tarant.}{}{}{}{}
+{24}{O que a traz a este excelente estabelecimento, @pcname@? Permita-me recomendar a cerveja. É inquestionavelmente a melhor de Tarant.}{O que a traz a este excelente estabelecimento, @pcname@? Permita-me recomendar a cerveja. É inquestionavelmente a melhor de Tarant.}{}{}{}{}
 {25}{Acabei de chegar. Posso lhe fazer algumas perguntas?}{}{5}{}{43}{}
 {26}{Precisava de uma bebida. Tenho algumas perguntas...}{}{5}{}{43}{}
 {27}{Eu acabei de chegar. Posso te perguntar uma coisa?}{}{-4}{}{43}{}
@@ -55,24 +55,24 @@
 {55}{Sim! Estudei com bastante dedicação. Posso lhe pedir um favor?}{}{5}{}{43}{}
 {56}{Sim! Sim! Eu sou X-pert! Eu sou bom! Posso perguntar uma coisa?}{}{-4}{}{43}{}
 {57}{E:}{}{1}{}{0}{}
-{58}{Não se preocupe. Estarei aqui esperando quando você juntar a quantia. Ahhh, a aposentadoria será uma verdadeira recompensa!...}{Não se preocupe. Vou ficar aqui esperando você juntar a quantia. Ahhh, a aposentadoria será uma recompensa e tanto!...}{}{}{}{}
+{58}{Não se preocupe. Vou ficar aqui esperando você juntar a quantia. Ahhh, a aposentadoria será uma recompensa e tanto!...}{Não se preocupe. Vou ficar aqui esperando você juntar a quantia. Ahhh, a aposentadoria será uma recompensa e tanto!...}{}{}{}{}
 {59}{Continuarei em direção ao seu objetivo. Estou ansioso pelo meu treinamento.}{}{5}{}{0}{}
 {60}{Isso é trabalho demais. Talvez fosse mais fácil com você morto...}{}{5}{}{}{co, fl 29}
 {61}{Tá bom, tá bom. Eu vou buscar a grana... depois você treina.}{}{-4}{}{0}{}
-{62}{K:}{}{-4}{}{43}{}
+{62}{K:}{}{1}{}{43}{}
 {63}{Isso tá muito difícil. Seria melhor se você estivesse morto...}{}{-4}{}{}{co, fl 29}
 {64}{E:}{}{1}{}{0}{}
 {65}{Esse é um bom rapaz! Eu sabia que você conseguiria. Tive a sensação de que você era o único aluno que vi em um tempo com espírito suficiente para dominar a arte da pechincha. Posso ficar com as moedas, por favor?}{Esse é o espírito, madame! Eu sabia que você conseguiria. Tive a sensação de que você era a única aluna que vi em um tempo com espírito suficiente para dominar a arte da pechincha. Posso ficar com as moedas, por favor?}{}{}{}{}
 {66}{Sim. Isso foi um verdadeiro desafio. Aqui está...}{}{5}{}{71}{$$ -10000}
 {67}{Aqui está, Sr. Morat. Agora, sobre esse treinamento...}{}{5}{}{71}{$$ -10000}
 {68}{Depois de todo esse trabalho, decidi que prefiro ficar com o dinheiro!}{}{5}{}{}{co, fl 29}
-{69}{Aqui está. Isso foi difícil de conseguir!}{}{-4}{}{71}{}
+{69}{Aqui está. Isso foi difícil de conseguir!}{}{-4}{}{71}{$$ -10000}
 {70}{Eu acho que vou ficar com isso. Foi difícil de conseguir. Vou te matar em vez disso...}{}{-4}{}{}{co, fl 29}
-{71}{Oh, muito bem feito! Muito bem feito mesmo! Vou realmente compartilhar meus segredos com você e elevar seu status a Mestre da pechincha. Agora escute com atenção... para ser um Mestre na arte da pechincha, você só precisa perceber que as pessoas são criaturas básicas. Elogie-as adequadamente, faça delas suas amigas e elas lhe venderão qualquer coisa!}{Oh, muito bem feito! Muito bem feito mesmo! Vou realmente compartilhar meus segredos com você e elevar seu status a Mestre da pechincha. Agora escute com atenção... para ser um Mestre na arte da pechincha, você só precisa perceber que as pessoas são criaturas básicas. Elogie-as adequadamente, faça delas suas amigas e elas lhe venderão qualquer coisa!}{}{}{}{qu1106 4, tr9 3, rq2169}
-{72}{O senhor é muito sábio, Sr. Morat. Vou levar suas palavras a sério.}{}{5}{}{76}{}
+{71}{Oh, muito bem feito! Muito bem feito mesmo! Vou realmente compartilhar meus segredos com você e elevar seu status a Mestre da pechincha. Agora escute com atenção... para ser um Mestre na arte da pechincha, você só precisa perceber que as pessoas são criaturas básicas. Elogie-as adequadamente, faça delas suas amigas e elas lhe venderão qualquer coisa!}{Oh, muito bem feito! Muito bem feito mesmo! Vou realmente compartilhar meus segredos com você e elevar seu status a Mestre da pechincha. Agora escute com atenção... para ser um Mestre na arte da pechincha, você só precisa perceber que as pessoas são criaturas básicas. Elogie-as adequadamente, faça delas suas amigas e elas lhe venderão qualquer coisa!}{}{}{}{qu1106 4, tr9 3, rq2169, rp1017}
+{72}{O senhor é muito sábio, Sr. Morat. Levarei suas palavras a sério.}{}{5}{}{76}{}
 {73}{Isso é tudo!?! Eu lhe dei todas aquelas moedas por isso!?! Defenda-se!}{}{5}{}{}{co, fl 29}
-{74}{Você é esperto. Eu escuto bem... agora sou Mast'r!}{}{-4}{}{76}{}
-{75}{Isso é tudo?!? Você não disse nada de novo! Vou te machucar agora e pegar as moedas de volta!}{}{-4}{}{}{co, fl 29}
+{74}{Você é esperto. Eu escutar bem... eu ser o Mestre agora!}{}{-4}{}{76}{}
+{75}{Isso é tudo?!? Você não dizer nada novo! Eu machucar você agora, pegar moedas de volta!}{}{-4}{}{}{co, fl 29}
 {76}{Além disso, permita-me conceder-lhe meu "assistente secreto". Aqui. Eu carinhosamente chamo isso de "Anel do Mestre da Pechincha". Se souber que vai tentar uma transação difícil, não deixe de usá-lo. A concorrência será massa de modelar em suas mãos! Desejo-lhe sorte. Considere-me aposentado!}{Além disso, permita-me conceder-lhe meu "assistente secreto". Aqui. Eu carinhosamente chamo isso de "Anel do Mestre da Pechincha". Se souber que vai tentar uma transação difícil, não deixe de usá-lo. A concorrência será massa de modelar em suas mãos! Desejo-lhe sorte. Considere-me aposentado!}{}{}{}{in -2817}
 {77}{Agradeço pelo seu conhecimento e pelo seu presente, Sr. Morat.}{}{5}{}{0}{}
 {78}{Ah, excelente. Agora vou despachá-lo e recuperar minhas moedas...}{}{5}{}{}{co, fl 29}
@@ -84,11 +84,11 @@
 {84}{Que bobeira a minha... Esqueci de te matar... Permita-me corrigir meu erro...}{}{5}{}{}{co, fl 29}
 {85}{Uh. Opa! Eu devo ter contado errado. Vou buscar mais.}{}{-4}{}{0}{}
 {86}{Não! Você contou errado! Mentiroso! Vou te pegar agora!}{}{-4}{}{}{co, fl 29}
-{87}{Gostaria de treinamento para se tornar um Mestre da Pechincha? Certamente tem a experiência. Acho que se tornaria um excelente Mestre. Tenho um favor a lhe pedir antes de treiná-lo...}{Gostaria de treinamento para se tornar um Mestre da Pechincha? Certamente tem a experiência. Acho que se tornaria um excelente Mestre. Tenho um favor a lhe pedir antes de treiná-la...}{}{}{}{}
+{87}{Gostaria de treinamento para se tornar um Mestre da Pechincha? Certamente tem a experiência. Acho que se tornaria um excelente Mestre. Tenho um favor a lhe pedir antes de treiná-la...}{Gostaria de treinamento para se tornar um Mestre da Pechincha? Certamente tem a experiência. Acho que se tornaria um excelente Mestre. Tenho um favor a lhe pedir antes de treiná-la...}{}{}{}{}
 {88}{O que você gostaria que eu fizesse?}{}{5}{}{91}{}
 {89}{O que eu faço?}{}{-4}{}{91}{}
 {90}{E:}{}{1}{}{0}{}
-{91}{Na arte da pechincha, tenho sido o Mestre por muito, muito tempo. Estou cansado de pechinchar. Gostaria muito de deixar este cargo e me aposentar. Se me trouxer 10.000 moedas, para que eu possa me aposentar da maneira a que estou acostumado, ficarei feliz em passar o título de Mestre da Pechincha para você. O que me diz?}{Na arte da pechincha, tenho sido o Mestre por muito, muito tempo. Estou cansado de pechinchar. Gostaria muito de deixar este cargo e me aposentar. Se me trouxer 10.000 moedas, para que eu possa me aposentar da maneira a que estou acostumada, ficarei feliz em passar o título de Mestre da Pechincha para você. O que me diz?}{}{}{}{qu1106 1}
+{91}{Na arte da pechincha, tenho sido o Mestre por muito, muito tempo. Estou cansado de pechinchar. Gostaria muito de deixar este cargo e me aposentar. Se me trouxer 10.000 moedas, para que eu possa me aposentar da maneira a que estou acostumada, ficarei feliz em passar o título de Mestre da Pechincha para você. O que me diz?}{Na arte da pechincha, tenho sido o Mestre por muito, muito tempo. Estou cansado de pechinchar. Gostaria muito de deixar este cargo e me aposentar. Se me trouxer 10.000 moedas, para que eu possa me aposentar da maneira a que estou acostumada, ficarei feliz em passar o título de Mestre da Pechincha para você. O que me diz?}{}{}{}{qu1106 1}
 {92}{É uma quantia e tanto. Mas eu a reunirei, se é isso que deseja.}{}{5}{$$-9999}{101}{qu1106 2}
 {93}{Já tenho a quantia! Vamos começar o treinamento?}{}{5}{$$10000}{113}{qu1106 2}
 {94}{Vou ter que ponderar seu pedido. É uma quantia muito grande.}{}{5}{}{0}{}
@@ -103,17 +103,17 @@
 {103}{Tá bom. Eu vou buscar suas moedas... Depois você treina. É bom.}{}{-4}{}{0}{}
 {104}{K:}{}{1}{}{43}{}
 {105}{E:}{}{1}{}{0}{}
-{106}{Hmmm. Sim. Posso ver que se tornou um Especialista em pechincha, o que é uma grande conquista. Infelizmente, receio que sua habilidade ainda não esteja no nível de mestria. Por favor, @pcname@, vá e aumente sua habilidade em pechinchar. Então reconsiderarei seu pedido. Aguardo ansiosamente seu retorno.}{Hmmm. Sim. Posso ver que se tornou uma Especialista em pechincha, o que é uma grande conquista. Infelizmente, receio que sua habilidade ainda não esteja no nível de mestria. Por favor, @pcname@, vá e aumente sua habilidade em pechinchar. Então reconsiderarei seu pedido. Aguardo ansiosamente seu retorno.}{}{}{}{}
+{106}{Hmmm. Sim. Posso ver que se tornou uma Especialista em pechincha, o que é uma grande conquista. Infelizmente, receio que sua habilidade ainda não esteja no nível de mestria. Por favor, @pcname@, vá e aumente sua habilidade em pechinchar. Então reconsiderarei seu pedido. Aguardo ansiosamente seu retorno.}{Hmmm. Sim. Posso ver que se tornou uma Especialista em pechincha, o que é uma grande conquista. Infelizmente, receio que sua habilidade ainda não esteja no nível de mestria. Por favor, @pcname@, vá e aumente sua habilidade em pechinchar. Então reconsiderarei seu pedido. Aguardo ansiosamente seu retorno.}{}{}{}{}
 {107}{Obrigado. Voltarei em breve.}{}{5}{}{0}{}
 {108}{O quê!?! Você me insulta com sua arrogância. Defenda-se!}{}{5}{}{}{co, fl 29}
 {109}{Obrigado. Vou melhorar e depois volto.}{}{-4}{}{0}{}
 {110}{K:}{}{1}{}{43}{}
 {111}{O quê? Eu ainda não sou bom o suficiente? Vou te mostrar!}{}{-4}{}{}{co, fl 29}
 {112}{E:}{}{1}{}{0}{}
-{113}{Excelente! Qualquer um com a visão de ter um amplo suprimento de moedas para oportunidades inesperadas se sairá bem como Mestre da Pechincha. Tenho certeza disso!}{Excelente! Qualquer uma com a visão de ter um amplo suprimento de moedas para oportunidades inesperadas se sairá bem como Mestre da Pechincha. Tenho certeza disso!}{}{}{}{}
-{114}{Obrigado. Que mais conselhos pode me oferecer?}{}{5}{}{116}{}
-{115}{Eu agradeço. Quero aprender mais.}{}{-4}{}{116}{}
-{116}{Agora escute com atenção... para ser um Mestre na arte da pechincha, você só precisa perceber que as pessoas são criaturas básicas. Elogie-as adequadamente, faça delas suas amigas e elas lhe venderão qualquer coisa! Empregado corretamente, este único segredo simples de negociação elevará seu status a Mestre da Pechincha.}{Agora escute com atenção... para ser uma Mestra na arte da pechincha, você só precisa perceber que as pessoas são criaturas básicas. Elogie-as adequadamente, faça delas suas amigas e elas lhe venderão qualquer coisa! Empregado corretamente, este único segredo simples de negociação elevará seu status a Mestra da Pechincha.}{}{}{}{qu1106 4, tr9 3, rq2169}
+{113}{Excelente! Qualquer uma com a visão de ter um amplo suprimento de moedas para oportunidades inesperadas se sairá bem como Mestre da Pechincha. Tenho certeza disso!}{Excelente! Qualquer uma com a visão de ter um amplo suprimento de moedas para oportunidades inesperadas se sairá bem como Mestre da Pechincha. Tenho certeza disso!}{}{}{}{}
+{114}{Obrigado. Que mais conselhos pode me oferecer?}{}{5}{}{116}{$$ -10000}
+{115}{Eu agradeço. Quero aprender mais.}{}{-4}{}{116}{$$ -10000}
+{116}{Agora escute com atenção... para ser uma Mestra na arte da pechincha, você só precisa perceber que as pessoas são criaturas básicas. Elogie-as adequadamente, faça delas suas amigas e elas lhe venderão qualquer coisa! Empregado corretamente, este único segredo simples de negociação elevará seu status a Mestra da Pechincha.}{Agora escute com atenção... para ser uma Mestra na arte da pechincha, você só precisa perceber que as pessoas são criaturas básicas. Elogie-as adequadamente, faça delas suas amigas e elas lhe venderão qualquer coisa! Empregado corretamente, este único segredo simples de negociação elevará seu status a Mestra da Pechincha.}{}{}{}{qu1106 4, tr9 3, rq2169, rp1017}
 {117}{O senhor é muito sábio, Sr. Morat. Levarei suas palavras a sério.}{}{5}{}{76}{}
 {118}{Isso é tudo!?! Eu lhe dei todas aquelas moedas por isso!?! Defenda-se!}{}{5}{}{}{co, fl 29}
 {119}{Você é esperto. Eu escutar bem... eu ser o Mestre agora!}{}{-4}{}{76}{}

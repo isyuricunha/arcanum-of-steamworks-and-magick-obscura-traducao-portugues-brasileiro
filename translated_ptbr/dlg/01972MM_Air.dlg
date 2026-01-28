@@ -15,9 +15,9 @@
 {15}{Hã... qual é o seu nome, malvado?}{}{-4}{lf1 0, re -40}{28}{}
 {16}{Hã... Eu pergunto uma coisa?}{}{-4}{lf1 1, re 41}{36}{}
 {17}{Hã... eu pergunto uma coisa, malvado?}{}{-4}{lf1 1, re -40}{36}{}
-{18}{Melhorei minhas habilidades com o ar, Mestre Wel' K'ene.}{}{5}{lf4 1, sc2 5}{78}{}
-{19}{Reforcei minha aura mágica, Mestre Wel' K'ene.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{20}{Tenho interesse em me tornar um mestre do ar.}{}{5}{lf6 1, gf2411 0, ma30, lf1 1}{101}{}
+{18}{Melhorei minhas habilidades com o ar, Mestre Wel' K'ene.}{}{5}{lf4 1, sc2 5, lf5 0}{78}{}
+{19}{Reforcei minha aura mágica, Mestre Wel' K'ene.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{20}{Tenho interesse em me tornar um mestre do ar.}{}{5}{gf2411 0, ma30, lf1 1, sc2 5}{101}{}
 {21}{Ainda não completei o teste de maestria, Wel' K'ene.}{}{5}{LF7 1, gf2414 0}{115}{}
 {22}{Completei o teste e me tornei mestre do ar!}{}{5}{gf2414 1, lf9 0}{119}{}
 {27}{E:}{}{1}{}{0}{}
@@ -26,27 +26,27 @@
 {30}{É uma honra conhecê-lo, senhor.}{}{5}{sc2 5, lf5 0}{78}{}
 {31}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{sc2 0, lf3 0}{65}{}
 {32}{Por favor, explique-me o Colégio do Ar.}{}{5}{sc2 0, lf2 0}{57}{}
-{33}{O quê? Ar?}{}{-4}{sc2 0, lf2 0}{57}{}
+{33}{Quê? Ar?}{}{-4}{sc2 0, lf2 0}{57}{}
 {34}{Você acha que a teknawlugia te prejudica?}{}{-4}{sc2 0, lf3 0}{65}{}
 {35}{E:}{}{1}{sc2 0}{0}{}
 {36}{Certamente. O que deseja?}{Certamente. O que deseja?}{}{}{}{}
-{37}{Melhorei minhas habilidades com o ar, Mestre Wel' K'ene.}{}{5}{lf4 1, sc2 5}{78}{}
-{38}{Reforcei minha aura mágica, Mestre Wel' K'ene.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{39}{Tenho interesse em me tornar um mestre do ar.}{}{5}{gf2411 0, ma30}{101}{}
+{37}{Melhorei minhas habilidades com o ar, Mestre Wel' K'ene.}{}{5}{lf4 1, sc2 5, lf5 0}{78}{}
+{38}{Reforcei minha aura mágica, Mestre Wel' K'ene.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{39}{Tenho interesse em me tornar um mestre do ar.}{}{5}{gf2411 0, ma30, sc2 5}{101}{}
 {40}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
 {41}{Por favor, explique-me o Colégio do Ar.}{}{5}{lf2 0}{57}{}
-{42}{O quê? Ar?}{}{-4}{lf2 0}{57}{}
+{42}{Quê? Ar?}{}{-4}{lf2 0}{57}{}
 {43}{Você acha que a teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
 {44}{F:}{}{1}{}{0}{}
 {45}{E:}{}{1}{}{0}{}
 {46}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{}
-{47}{Melhorei minhas habilidades com o ar, Mestre Wel' K'ene.}{}{5}{lf4 1, sc2 5}{78}{}
-{48}{Reforcei minha aura mágica, Mestre Wel' K'ene.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{49}{Tenho interesse em me tornar um mestre do ar.}{}{5}{gf2411 0, ma30}{101}{}
+{47}{Melhorei minhas habilidades com o ar, Mestre Wel' K'ene.}{}{5}{lf4 1, sc2 5, lf5 0}{78}{}
+{48}{Reforcei minha aura mágica, Mestre Wel' K'ene.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{49}{Tenho interesse em me tornar um mestre do ar.}{}{5}{gf2411 0, ma30, sc2 5}{101}{}
 {50}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
 {51}{Por favor, explique-me o Colégio do Ar.}{}{5}{lf2 0}{57}{}
 {52}{Não. Obrigado pelo seu tempo.}{}{5}{}{0}{}
-{53}{O quê? Ar?}{}{-4}{lf2 0}{57}{}
+{53}{Quê? Ar?}{}{-4}{lf2 0}{57}{}
 {54}{Você acha que a teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
 {55}{Não. Obrigado.}{}{-4}{}{0}{}
 {56}{E:}{}{1}{}{0}{}
@@ -82,7 +82,7 @@
 {86}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 1}{46}{}
 {87}{Extremamente difícil, senhor. Porém, minha perseverança valeu a pena.}{}{5}{gf2411 1}{46}{}
 {88}{E:}{}{1}{}{0}{}
-{89}{Você teve sucesso em todos os aspectos do ar, mas sua aura mágica parece fraca. Receio que tenha sido contaminado pela tecnologia. Uma pena... caso algum dia aumente suas habilidades mágicas, volte a me procurar. Talvez eu tenha uma oferta para lhe apresentar.}{Você teve sucesso em todos os aspectos do ar, mas sua aura mágica parece fraca. Receio que tenha sido contaminado pela tecnologia. Uma pena... caso algum dia aumente suas habilidades mágicas, volte a me procurar. Talvez eu tenha uma oferta para lhe apresentar.}{}{}{}{}
+{89}{Você teve sucesso em todos os aspectos do ar, mas sua aura mágica parece fraca. Receio que tenha sido contaminado pela tecnologia. Uma pena... caso algum dia aumente suas habilidades mágicas, volte a me procurar. Talvez eu tenha uma oferta para lhe apresentar.}{Você teve sucesso em todos os aspectos do ar, mas sua aura mágica parece fraca. Receio que tenha sido contaminado pela tecnologia. Uma pena... caso algum dia aumente suas habilidades mágicas, volte a me procurar. Talvez eu tenha uma oferta para lhe apresentar.}{}{}{}{lf8 1}
 {90}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
 {91}{Prefiro trilhar um caminho equilibrado entre os dois.}{}{5}{}{46}{re-2}
 {92}{Acredito que a tecnologia se tornará o pilar principal, com o tempo.}{}{5}{}{46}{re-5}
@@ -103,7 +103,7 @@
 {108}{Vou pensar a respeito.}{}{5}{}{46}{}
 {109}{Não neste momento, obrigado.}{}{5}{}{46}{}
 {110}{E:}{}{1}{}{0}{}
-{111}{Uma excelente escolha. Aqui. [Ele retira o medalhão do pescoço.] Pegue este medalhão. Quando estiver preparado para enfrentar seu teste, coloque-o e prossiga pelo portal localizado no centro deste salão. Isso iniciará seu teste. Desejo-lhe sorte, @pcname@.}{Uma excelente escolha. Aqui. [Ele retira o medalhão de seu pescoço.] Pegue este medalhão. Quando estiver preparado para enfrentar sua prova, coloque-o e avance pelo portal localizado no centro deste salão. Isso dará início ao seu teste. Desejo-lhe sorte, @pcname@.}{}{}{}{in-2834, lf7 1, gf2411 1}
+{111}{Uma excelente escolha. Aqui. [Ele retira o medalhão de seu pescoço.] Pegue este medalhão. Quando estiver preparado para enfrentar sua prova, coloque-o e avance pelo portal localizado no centro deste salão. Isso dará início ao seu teste. Desejo-lhe sorte, @pcname@.}{Uma excelente escolha. Aqui. [Ele retira o medalhão de seu pescoço.] Pegue este medalhão. Quando estiver preparado para enfrentar sua prova, coloque-o e avance pelo portal localizado no centro deste salão. Isso dará início ao seu teste. Desejo-lhe sorte, @pcname@.}{}{}{}{in-2834, lf7 1, gf2411 1}
 {112}{Obrigado.}{}{5}{}{0}{}
 {113}{A:}{}{5}{}{0}{}
 {114}{E:}{}{5}{}{0}{}

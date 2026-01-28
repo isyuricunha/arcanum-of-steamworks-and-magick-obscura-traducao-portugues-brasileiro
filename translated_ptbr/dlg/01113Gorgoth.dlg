@@ -1,4 +1,4 @@
-{1}{Uggh... Gorgoth aqui... Gorgoth precisa de comida...}{Uggh... eu Gorgoth... Gorgoth precisa de comida...}{}{}{}{}
+{1}{Uggh... eu Gorgoth... Gorgoth precisa de comida...}{Uggh... eu Gorgoth... Gorgoth precisa de comida...}{}{}{}{}
 {2}{Gorgoth? Você quer dizer O Gorgoth? Que mundo pequeno!}{}{5}{lf1 0}{12}{}
 {3}{Você é o Gorgo? O famoso Gorgo! O Gorgo assustador!}{}{-4}{lf1 0}{12}{}
 {4}{Eu trouxe uma carcaça de animal para você, Gorgoth...}{}{5}{lf1 1, in 5620}{44}{}
@@ -6,7 +6,7 @@
 {6}{Ainda estou procurando comida para você...}{}{5}{lf1 1, ni 5620}{0}{}
 {7}{Ainda estou procurando comida, Gorgo!}{}{-4}{lf1 1, ni 5620}{0}{}
 {8}{E:}{}{1}{me 1, lf1 0}{0}{}
-{12}{Uggh... Gorgoth com fome...}{Uggh... Gorgoth está com fome...}{}{}{}{}
+{12}{Uggh... Gorgoth está com fome...}{Uggh... Gorgoth está com fome...}{}{}{}{}
 {13}{Ah... claro que está, meu bom homem... tem um momento?}{}{5}{}{17}{}
 {14}{Ah... monstro, eu tenho perguntas...}{}{-4}{}{17}{}
 {17}{Gorgoth come você, homenzinho... parece bom!}{Gorgoth come você, moça... parece boa!}{}{}{}{}
@@ -21,8 +21,8 @@
 {28}{Fique longe, monstro, ou vou ficar bravo...}{}{-4}{}{49}{}
 {29}{E:}{}{1}{}{0}{}
 {32}{Sim! GORGOTH MATA QUALQUER COISA POR COMIDA!}{Sim! GORGOTH MATA QUALQUER COISA POR COMIDA!}{}{}{}{}
-{33}{Tudo bem... vou voltar com comida...}{}{5}{}{0}{lf1 1}
-{34}{Tá bom... vou arranjar comida...}{}{-4}{}{0}{lf1 1}
+{33}{Tá bom... vou voltar com um pouco de comida...}{}{5}{}{0}{lf1 1}
+{34}{Tá bom... eu pego comida...}{}{-4}{}{0}{lf1 1}
 {36}{Sim! Gorgoth gosta de carne... CARNE! CARNE! CARNE!}{Sim! Gorgoth gosta de carne... CARNE! CARNE! CARNE!}{}{}{}{}
 {37}{Se eu te der isso, você me ajuda a lutar contra Arronax?}{}{5}{}{109}{jo 0 40}
 {38}{Eu te dou comida, você me ajuda a matar os Flecha-Nacos?}{}{-4}{}{109}{jo 0 40}
@@ -48,7 +48,7 @@
 {66}{E:}{}{1}{me 1, lf2 0}{0}{}
 {69}{Gorgoth está com fome! Precisa de comida! COMER! COMER! COMER!}{Gorgoth está com fome! Precisa de comida! COMER! COMER! COMER!}{}{}{}{}
 {70}{Eu consigo comida para você se me ajudar a lutar contra Kerghan...}{}{5}{}{77}{}
-{71}{Eu consigo comida para o Gorgo se ele me ajudar a esmagar Kur-gun!}{}{-4}{}{77}{}
+{71}{Eu pego comida pro Gorgo se ele me ajudar a esmagar Kur-gun!}{}{-4}{}{77}{}
 {72}{Seus modos deixam a desejar, Gorgoth...}{}{5}{}{93}{}
 {73}{Eu não gosto de você, Gorgoth...}{}{-4}{}{93}{}
 {74}{E:}{}{1}{}{0}{}
@@ -74,7 +74,7 @@
 {103}{Acho que você deveria sair do grupo, Gorgoth...}{}{5}{}{}{lv}
 {104}{Vai embora, Gorgoth! Eu não quero você aqui mais!}{}{-4}{}{}{lv}
 {105}{Aqui está mais um pouco de comida!}{}{5}{in 5620, lf 11 0}{-22}{in 5620, lf10 0, gf2086 0, lf 11 1}
-{106}{Aqui tem um pouco de comida pra você.}{}{-4}{in 5620, lf 11 0}{-22}{in 5620, lf10 0, gf2086 0, lf 11 1}
+{106}{Aqui está um pouco de comida para você.}{}{-4}{in 5620, lf 11 0}{-22}{in 5620, lf10 0, gf2086 0, lf 11 1}
 {107}{Entendi. Vou deixar você com seus afazeres, então...}{}{5}{}{0}{}
 {108}{Tá bom, Gorgo!}{}{-4}{}{0}{}
 {109}{Grrr! Você está incomodando o Gorgoth! Deixe o Gorgoth em paz!}{Grrr! Você está incomodando o Gorgoth! Deixe o Gorgoth em paz!}{}{}{}{}
@@ -92,11 +92,11 @@
 {122}{GORGOTH PRECISA DE COMIDA AGORA! ME DÊ COMIDA!}{GORGOTH PRECISA DE COMIDA AGORA! ME DÊ COMIDA!}{}{}{}{lf 11 0}
 {123}{Aqui está...}{}{5}{in 5620}{-22}{in 5620, lf10 0, gf2086 0, lf 11 1}
 {124}{Desculpe... vou arranjar um pouco pra você logo...}{}{5}{}{127}{gf2086 1}
-{125}{Aqui tem um pouco de comida pra você.}{}{-4}{in 5620}{-22}{in 5620, lf10 0, gf2086 0, lf 11 1}
+{125}{Aqui está um pouco de comida para você.}{}{-4}{in 5620}{-22}{in 5620, lf10 0, gf2086 0, lf 11 1}
 {126}{Eu peço desculpas! Eu trago um pouco logo.}{}{-4}{}{127}{gf2086 1}
 {127}{Tá bom, mas se apresse! Se demorar muito, vou embora dessa festa...}{Tá bom, mas se apresse! Se demorar muito, vou embora dessa festa...}{}{}{}{}
 {128}{E:}{}{1}{}{-22}{}
-{129}{Se você não tiver comida agora, eu vou embora!}{Se você não tem comida agora, eu vou embora!}{}{}{}{lf 11 0}
+{129}{Se você não tem comida agora, eu vou embora!}{Se você não tem comida agora, eu vou embora!}{}{}{}{lf 11 0}
 {130}{Aqui está...}{}{5}{in 5620}{-22}{in 5620, lf10 0, gf2086 0, lf 11 1}
 {131}{Espere! Eu não tenho nenhuma!}{}{5}{}{}{lv, gf2086 1, fl 134}
 {132}{Aqui está um pouco de comida para você.}{}{-4}{in 5620}{-22}{in 5620, lf10 0, gf2086 0, lf 11 1}

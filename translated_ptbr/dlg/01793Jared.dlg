@@ -4,10 +4,10 @@
 {4}{Por favor, honrado senhor, busco apenas um mero momento do seu tempo.}{}{5}{re-40, ch-9}{50}{re+10 }
 {5}{Talvez você queira provar do meu punho, peão capitalista!}{}{5}{re-40}{40}{re-10 }
 {6}{Resolvi falar com o cortador de pedras por você.}{}{5}{qu1133 1}{0}{re+10, fl 195}
-{7}{Trouxe um bilhete de Wilhemina para você.}{}{5}{in5242, qa1132 1, qb1132 3}{25}{al+50 }
+{7}{Trouxe um bilhete de Wilhemina para você.}{}{5}{in5242, qa1132 1, qb1132 3}{25}{in5242, al+50 }
 {8}{Eu vou falar com o cara das pedras.}{}{-4}{qu1133 1}{0}{re+10, fl 195}
 {9}{W:}{}{-4}{lf1 0}{65}{lf1 1 }
-{10}{Eu tenho um bilhete da garota morta.}{}{-4}{in5242, qa1132 1, qb1132 3}{25}{al+50 }
+{10}{Eu tenho um bilhete da garota morta.}{}{-4}{in5242, qa1132 1, qb1132 3}{25}{in5242, al+50 }
 {11}{Eu vou ao acidente do dirigível por você.}{}{-4}{qu1132 1}{160}{qu1132 2 }
 {12}{Eu queria falar com você sobre Wilhemina.}{}{5}{lf5 1}{260}{ }
 {13}{Falei com o cortador de pedras. Ele vai passar aqui.}{}{5}{qu1133 4}{0}{ fl 250}
@@ -27,20 +27,20 @@
 {30}{Nãoooooo! [Ele começa a soluçar.]}{Nãoooooo! [Ele começa a soluçar.]}{}{}{}{ }
 {31}{Meus pêsames, senhor.}{}{5}{}{170}{ }
 {32}{Me desculpe.}{}{-4}{}{170}{ }
-{35}{O quê?! O que é? Você tem notícias dela?}{O quê?! O que é? Você tem notícias dela?}{}{}{}{lf5 0 }
+{35}{O quê?! O que é? Tem notícias dela?}{O quê?! O que é? Tem notícias dela?}{}{}{}{lf5 0 }
 {36}{Sinto muito. Ela está morta.}{}{5}{}{30}{qu1132 4 }
-{37}{Ela te deixou por um homem que conheceu no zepelim.}{}{5}{na-200}{80}{al-50, qu1132 4, lf10 1 }
+{37}{Ela o deixou por um homem que conheceu no zepelim.}{}{5}{na-200}{80}{al-50, qu1132 4, lf10 1 }
 {40}{Vou ignorar isso, tolo. Saia daqui antes que eu faça você sustentar suas palavras.}{Vou ignorar isso, tolo. Saia daqui antes que eu faça você sustentar suas palavras.}{}{}{}{ }
 {41}{Não sei o que me possuiu. Peço seu perdão.}{}{5}{}{45}{re+5 }
-{42}{Sugiro que se despeça de seus entes queridos primeiro, cão.}{}{5}{}{0}{fl 240 ,co}
+{42}{Sugiro que se despeça dos seus entes queridos primeiro, cão.}{}{5}{}{0}{fl 240 ,co}
 {44}{Não preciso disso. Estou indo embora.}{}{5}{}{0}{ }
 {45}{[Ele olha para você com desconfiança.] Por que essa mudança repentina de opinião, tolo?}{[Ele olha para você com desconfiança.] Por que essa mudança repentina de opinião, tolo?}{}{}{}{ }
 {46}{Tenho, hã, problemas pessoais que estão testando minha alma.}{}{5}{}{75}{re+5 }
 {47}{Para te pegar desprevenido enquanto enfio esta faca em suas entranhas!}{}{5}{}{0}{fl 240 ,co}
 {49}{E:}{}{5}{}{0}{ }
 {50}{Sim, bem, acho que não há motivo para tratar um cidadão assim, independentemente dos meus problemas pessoais, hein?}{Sim, bem, acho que não há motivo para tratar um cidadão assim, independentemente dos meus problemas pessoais, hein?}{}{}{}{ }
-{51}{Problemas? Posso ajudar em algo?}{}{5}{re41}{20}{lf1 1 }
-{52}{Problemas? Posso ajudar em algo?}{}{5}{re-40}{20}{re41, lf1 1 }
+{51}{Problemas? Tem algo em que eu possa ajudar?}{}{5}{re41}{20}{lf1 1 }
+{52}{Problemas? Tem algo em que eu possa ajudar?}{}{5}{re-40}{20}{re41, lf1 1 }
 {54}{E:}{}{5}{}{0}{ }
 {55}{Oh, uh, senhor, por favor, perdoe minha insolência, devo ter confundido você com outra pessoa. Minha mente está em outros assuntos, ultimamente. Não posso me desculpar o suficiente.}{Oh, uh, senhora, por favor, perdoe minha insolência, devo ter confundido você com outra pessoa. Minha mente está em outros assuntos, ultimamente. Não posso me desculpar o suficiente.}{}{}{}{ }
 {56}{Tudo bem. Qual é o seu nome?}{}{5}{}{15}{lf1 1 }
@@ -50,9 +50,9 @@
 {61}{Acho que posso perdoar você. Qual é o seu nome?}{}{5}{}{15}{lf1 1 }
 {62}{Então vamos colocar sua cabeça em outro lugar também, tolo!}{}{5}{}{0}{fl 240 ,co}
 {64}{Aceito suas desculpas, mas preciso ir.}{}{5}{}{0}{ }
-{65}{Hã? Ah, entendi, um dos pobres coitados das fábricas. MEU NOME É JARED. SOU GUARDA AQUI.}{Hã? Ah, entendi, um dos pobres coitados das fábricas. MEU NOME É JARED. SOU GUARDA AQUI.}{}{}{}{ }
+{65}{Hã? Ah, entendi, um dos pobres coitados das fábricas. MEU NOME É JARED. SOU UM GUARDA AQUI.}{Hã? Ah, entendi, um dos pobres coitados das fábricas. MEU NOME É JARED. SOU UM GUARDA AQUI.}{}{}{}{ }
 {66}{Tem trabalho?}{}{-4}{gf2346 0, ni5242}{70}{ }
-{67}{Você é Jared? Você é a garota Wilbehooma? [Entregue o bilhete para ele.]}{}{-4}{gf2346 1, in5242}{25}{ }
+{67}{Você é Jared? Você é a garota Wilbehooma? [Entregue o bilhete para ele.]}{}{-4}{gf2346 1, in5242}{25}{in5242 }
 {68}{Você é Jared? Você é a garota Wilbehooma? Ela está morta.}{}{-4}{gf2346 1, ni5242}{30}{ }
 {70}{Sim, na verdade. Preciso que alguém vá descobrir se minha garota morreu no acidente do Zéfiro. A notícia ainda não chegou até nós. Vá até as Colinas Sombrias e descubra para mim se ela está viva.}{Sim, na verdade. Preciso que alguém vá descobrir se minha garota morreu no acidente do Zéfiro. A notícia ainda não chegou até nós. Vá até as Colinas Sombrias e descubra para mim se ela está viva.}{}{}{}{qu1132 1 }
 {71}{Tá bom.}{}{1}{}{0}{qu1132 2 }
@@ -69,7 +69,7 @@
 {92}{Seu cão! Vou tirar sua vida por isso! Defenda-se!}{}{5}{}{0}{fl 240 ,co}
 {99}{Lamento que se sinta assim. Tenha um bom dia.}{}{5}{}{0}{ }
 {100}{Não me importa! Vocês são todos iguais! Caiam fora, antes que eu o espete na minha espada!}{Não me importa! Vocês são todos iguais! Caiam fora, antes que eu o espete na minha espada!}{}{}{}{ }
-{101}{Sugiro que se despeça de seus entes queridos primeiro, cão.}{}{5}{}{0}{fl 240 ,co}
+{101}{Sugiro que se despeça dos seus entes queridos primeiro, cão.}{}{5}{}{0}{fl 240 ,co}
 {104}{Lamento que se sinta assim. Tenha um bom dia.}{}{5}{}{0}{ }
 {110}{Você estava? Por favor, me conte, que notícias?}{Você estava? Por favor, me conte, que notícias?}{}{}{}{ }
 {111}{Não são boas. Todos os passageiros estavam mortos quando chegamos.}{}{5}{}{120}{ }
@@ -79,7 +79,7 @@
 {129}{Sinto muito, não posso. Vou deixá-lo com sua dor.}{}{5}{}{0}{lf5 1, re-10, fl 150}
 {130}{Obrigado, senhor. Lamento não ter dinheiro para pagá-lo, tudo o que posso oferecer é minha gratidão.}{Obrigado, senhora. Lamento não ter dinheiro para pagá-la, tudo o que posso oferecer é minha gratidão.}{}{}{}{ }
 {131}{Tudo bem.}{}{5}{}{0}{re+10, qu1132 2 }
-{132}{Ah, nesse caso, mudei de ideia.}{}{5}{}{0}{lf5 1, re-10, fl 150}
+{132}{Oh, nesse caso, mudei de ideia.}{}{5}{}{0}{lf5 1, re-10, fl 150}
 {140}{Lamento não ter dinheiro para pagá-lo, tudo o que posso oferecer é minha gratidão.}{Lamento não ter dinheiro para pagá-lo, tudo o que posso oferecer é minha gratidão.}{}{}{}{ }
 {141}{Tudo bem. Vou ajudar, de qualquer forma.}{}{5}{}{0}{re+10, qu1132 2, fl 160}
 {142}{Oh, nesse caso, mudei de ideia.}{}{5}{}{0}{lf5 1, re-10, fl 150}
@@ -101,7 +101,7 @@
 {195}{Obrigado.}{Obrigado.}{}{}{}{ }
 {200}{Então agradeço que vá embora.}{Então agradeço que vá embora.}{}{}{}{ }
 {210}{O quê?! O que é? Tem notícias dela?}{O quê?! O que é? Tem notícias dela?}{}{}{}{ }
-{211}{Tenho um bilhete para você, dela.}{}{5}{in5242}{25}{ }
+{211}{Tenho um bilhete para você, dela.}{}{5}{in5242}{25}{in5242 }
 {212}{Eu, hã, fazia parte da equipe de resgate que encontrou o acidente do dirigível.}{}{5}{ni5242}{35}{ }
 {220}{Esses filhinhos de <<<PH1>>> acham que, só porque são ricos, podem simplesmente levar a garota de um homem, né? O mundo está ficando cada vez mais podre desde que esses tolos assumiram o controle!}{Esses filhinhos de <<<PH1>>> acham que, só porque são ricos, podem simplesmente levar a garota de um homem, né? O mundo está ficando cada vez mais podre desde que esses tolos assumiram o controle!}{}{}{}{lf1 1 }
 {221}{Concordo. Tenha um bom dia.}{}{5}{}{0}{ }

@@ -18,10 +18,10 @@
 {50}{Isso não é permissível! Está vendo? O dispositivo deve ser destruído. Me entregue-o, e eu cuidarei disso.}{Isso não é permissível! Está vendo? O dispositivo deve ser destruído. Me entregue-o, e eu cuidarei disso.}{}{5}{}{}
 {51}{Aqui está. [Entregue-lhe o dispositivo.]}{}{5}{in5616}{30}{in 5616}
 {52}{Aqui está a coisa. [Entregue-lhe o dispositivo.]}{}{-4}{in5616}{30}{in 5616}
-{53}{Eu estava brincando com você. Já foi destruído. [Mentira]}{}{5}{}{60}{}
-{54}{Quebrou. Eu, hã, esqueci. [Mentira]}{}{-4}{}{60}{}
+{53}{Eu estava brincando com você. Foi destruído. [Mentira]}{}{5}{}{60}{}
+{54}{Quebrou. Eu... hã... esqueci. [Mentira]}{}{-4}{}{60}{}
 {55}{Não vou lhe entregar o dispositivo.}{}{5}{}{70}{re -10}
-{56}{Dispositivo é meu!}{}{-4}{}{70}{re -10}
+{56}{Dispositivo meu!}{}{-4}{}{70}{re -10}
 {60}{[Ele o observa com desconfiança por um momento antes de falar.] Entendo... estou satisfeito com seu sucesso, eu e Arronax estamos. Um coração de soldado bate em seu peito, não é?}{[Ele o observa com desconfiança por um momento antes de falar.] Entendo... estou satisfeito com seu sucesso, eu e Arronax estamos. Um coração de soldado bate em seu peito, não é?}{}{6}{}{}
 {62}{Foi um prazer fazer negócios, mas preciso ir.}{}{5}{}{20}{}
 {63}{Terminei com você. Vou embora agora.}{}{-4}{}{20}{}
@@ -30,13 +30,13 @@
 {72}{Aqui está a coisa. [Entregue-lhe o dispositivo.]}{}{-4}{in5616}{30}{in 5616}
 {73}{Eu estava brincando com você. Foi destruído. [Mentira]}{}{5}{}{60}{}
 {74}{Quebrou. Eu... hã... esqueci. [Mentira]}{}{-4}{}{60}{}
-{75}{Rio do seu poder fraco. Por que você é tão feio, aliás?}{}{5}{}{0}{fl 84 ,co}
+{75}{Rio do seu poder fraco. Por que você é tão feio, aliás?}{}{5}{}{0}{fl 84, co}
 {76}{Dispositivo meu!}{}{-4}{}{0}{fl 84 ,co}
 {84}{Você deve morrer para preparar o caminho para Arronax, então!}{Você deve morrer para preparar o caminho para Arronax, então!}{}{8}{}{}
 {85}{Seus protestos não importam. O exílio é o seu destino. Prepare-se.}{Seus protestos não importam. O exílio é o seu destino. Prepare-se.}{}{9}{}{}
 {90}{É a vontade de Arronax. Não nos cabe questionar por quê ou o que nosso líder exige de nós, sssim? A honra de ser chamado ao lado de Arronax não tem igual.}{É a vontade de Arronax. Não nos cabe questionar por quê ou o que nosso líder exige de nós, sssim? A honra de ser chamado ao lado de Arronax não tem igual.}{}{10}{}{qu1029 1}
-{91}{Esqueça. Eu me recuso. Vou matá-lo primeiro.}{}{5}{}{-2}{ss20, fl  85}
+{91}{Esqueça. Eu me recuso. Vou matá-lo primeiro.}{}{5}{}{-2}{ss20, fl 85, co}
 {92}{Se isso é o que se exige de mim, estou pronto.}{}{5}{}{-2}{ss20, qu1029 2}
 {93}{Tá.}{}{-4}{}{-2}{ss20, qu1029 2}
-{94}{De jeito nenhum. Eu mato você.}{}{-4}{}{-2}{ss20, fl  85}
+{94}{De jeito nenhum. Eu mato você.}{}{-4}{}{-2}{ss20, fl 85, co}
 

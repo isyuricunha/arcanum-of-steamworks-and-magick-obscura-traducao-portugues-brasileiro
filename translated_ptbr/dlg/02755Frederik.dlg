@@ -27,8 +27,8 @@
 {71}{Então suponho que terei que contar ao Capitão da Guarda...}{}{5}{}{80}{}
 {79}{Se é assim que se sente, adeus.}{}{5}{}{0}{lf2 1, re-10}
 {80}{[Ele o agarra.] Não, você não pode! Não vou deixar!}{[Ele o agarra.] Não, você não pode! Não vou deixar!}{}{}{}{}
-{81}{Já que me abordou, sua vida agora vai lhe custar 500 moedas.}{}{5}{sk2 12}{60}{}
-{82}{Já que me abordou, sua vida agora vai lhe custar 500 moedas.}{}{5}{sk2 -11}{100}{re-10}
+{81}{Já que me abordou, sua vida agora vai custar 500 moedas.}{}{5}{sk2 12}{60}{}
+{82}{Já que me abordou, sua vida agora vai custar 500 moedas.}{}{5}{sk2 -11}{100}{re-10}
 {89}{Tá bom, tá bom. Me solta e a gente esquece tudo isso.}{}{5}{}{100}{}
 {90}{[Ele te agarra.] O que você vai fazer?! Você não pode fazer isso comigo, não fiz nada de errado!}{[Ele te agarra.] O que você vai fazer?! Você não pode fazer isso comigo, não fiz nada de errado!}{}{}{}{}
 {91}{Já que me abordou, sua vida agora vai custar 500 moedas.}{}{5}{sk2 12}{60}{}
@@ -36,11 +36,11 @@
 {99}{Tá bom, tá bom. Me solta e a gente esquece tudo isso.}{}{5}{}{100}{}
 {100}{Ahhh, agora entendi sua jogada! Você não sabe de nada e está tentando me fazer de bobo! Some daqui, cão!}{Ahhh, agora entendi sua jogada! Você não sabe de nada e está tentando me fazer de boba! Some daqui, vadia!}{}{}{}{}
 {101}{Prefiro ver você sofrer uma morte dolorosa, em vez disso.}{}{5}{}{0}{co}
-{109}{Acredite no que quiser. Adeus.}{}{5}{}{0}{lf2 1, re-10}
+{109}{Você pode acreditar no que quiser. Adeus.}{}{5}{}{0}{lf2 1, re-10}
 {110}{Você me ouviu, idiota! Frederik não vai se deixar levar pelos seus modos sedutores! Me deixe em paz!}{Você me ouviu, idiota! Frederik não vai se deixar levar pelo piscar dos seus olhos! Me deixe em paz!}{}{}{}{}
 {111}{Acho que você não se importa com o que seu amigo Renzo quer que eu faça...}{}{5}{qa1157 1}{30}{re-5}
 {119}{E:}{}{1}{}{0}{}
 {120}{Não há desculpa para gente da sua laia, imbecil! Me deixe em paz. Eu sou Frederik, e sou uma pessoa importante! Não tenho tempo para lidar com escória comum como você!}{Não há desculpa para gente da sua laia, imbecil! Me deixe em paz. Eu sou Frederik, e sou uma pessoa importante! Não tenho tempo para lidar com escória comum como você!}{}{}{}{}
 {121}{Fale comigo assim de novo e você vai se arrepender seriamente.}{}{5}{sk2 12}{50}{}
-{129}{Tá bom, então. Adeus.}{}{5}{}{0}{lf2 1, re-10}
+{129}{Tudo bem, então. Adeus.}{}{5}{}{0}{lf2 1, re-10}
 

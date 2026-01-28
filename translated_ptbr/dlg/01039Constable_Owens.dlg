@@ -1,5 +1,5 @@
 {1}{G:}{G:}{}{}{}{}
-{2}{Acabei de passar pelo pior acidente de dirigível, senhor!}{}{5}{me 0, lf3 0}{165}{gf2342 1, lf3 1}
+{2}{Acabei de sofrer o pior acidente com um dirigível, senhor!}{}{5}{me 0, lf3 0}{165}{gf2342 1, lf3 1}
 {3}{Hã... eu acabei de passar por um acidente ruim de dirigível!}{}{-4}{me 0, lf3 0}{165}{gf2342 1, lf3 1}
 {4}{Guarda! Tem ladrões controlando a ponte!}{}{5}{me 1, qu1032 0, gf2363 1, gf1015 0, gf1016 0}{75}{}
 {5}{Acho que não ouvi direito, o senhor estava falando comigo?}{}{5}{re-40, ch9}{530}{re50}
@@ -33,8 +33,9 @@
 {34}{E:}{}{5}{}{0}{}
 {35}{Claro... pode prosseguir.}{Claro... pode prosseguir.}{}{}{}{}
 {36}{O que pode me dizer sobre este lugar?}{}{5}{}{45}{}
+{37}{Você sabe alguma coisa sobre o altar nas montanhas?}{}{5}{gf2128 1, lf9 0}{185}{lf 9 1}
 {38}{Pode me contar algo sobre este anel?}{}{5}{ss -1, lf8 0}{175}{lf8 1}
-{39}{Poderia me dizer onde fica Tarant?}{}{5}{gf1100 1}{71}{mm 21, ss 1, lf7 1}
+{39}{Poderia me dizer onde fica Tarant?}{}{5}{gf1100 1, lf7 0}{71}{mm 21, lf7 1}
 {41}{E:}{}{5}{}{0}{}
 {45}{Certamente. Esta é Shrouded Hills, uma cidade mineradora de cabo a rabo. Para uma cidade, é bem antiga, mas temos quase tudo de que uma alma possa precisar.}{Certamente. Esta é Shrouded Hills, uma cidade mineradora de cabo a rabo. Para uma cidade, é bem antiga, mas temos quase tudo de que uma alma possa precisar.}{}{}{}{}
 {46}{Que tipo de mineração é feita por aqui?}{}{5}{rp-1047}{65}{}
@@ -59,7 +60,7 @@
 {69}{E:}{}{5}{}{0}{}
 {71}{Claro... é uma das maiores cidades de Arcanum. Aqui, deixe-me mostrar... [Ele marca seu mapa.]}{Claro... é uma das maiores cidades de Arcanum. Aqui, deixe-me mostrar... [Ele marca seu mapa.]}{}{}{}{}
 {72}{Obrigado. Posso lhe fazer algumas perguntas?}{}{5}{}{23}{}
-{73}{Tá legal. Posso fazer mais perguntas?}{}{-4}{}{294}{}
+{73}{Tá legal. Eu faço mais perguntas?}{}{-4}{}{294}{}
 {75}{Sim... bem, essa é uma situação complicada. Sabe, só existe uma ponte a leste da cidade, e, no momento, ela está sendo controlada por um grupo de ladrões...}{Sim... bem, essa é uma situação complicada. Sabe, só existe uma ponte a leste da cidade, e, no momento, ela está sendo controlada por um grupo de ladrões...}{}{}{}{}
 {76}{Por favor, continue...}{}{5}{}{80}{}
 {80}{Estamos construindo outra ponte mais abaixo no rio, mas esses ladrões estão cobrando um pedágio alto de quem cruza a ponte. Não preciso dizer que os moradores não estão nada felizes.}{Estamos construindo outra ponte mais abaixo no rio, mas esses ladrões estão cobrando um pedágio alto de quem cruza a ponte. Não preciso dizer que os moradores não estão nada felizes.}{}{}{}{}
@@ -85,7 +86,7 @@
 {108}{Uma oferta interessante. Vou considerar. Mais uma coisa...}{}{5}{}{23}{}
 {110}{Entendo. A oferta continua em 50 peças de ouro. Aceita?}{Entendo. A oferta continua em 50 peças de ouro. Aceita?}{}{}{}{}
 {111}{Feito.}{}{5}{}{120}{qu1032 2}
-{112}{Talvez. Mais uma coisa...}{}{5}{}{23}{}
+{112}{Talvez. Só mais uma coisa...}{}{5}{}{23}{}
 {115}{Já lhe falei sobre os ladrões e fiz uma oferta. Quer resolver isso por 50 peças de ouro?}{Já lhe falei sobre os ladrões e fiz uma oferta. Quer resolver isso por 50 peças de ouro?}{}{}{}{}
 {116}{Feito.}{}{5}{}{120}{qu1032 2}
 {117}{Talvez. Só mais uma coisa...}{}{5}{}{23}{}
@@ -94,8 +95,8 @@
 {125}{Muito bem! Ofereci 50 peças de ouro pelo trabalho... aqui está!}{Muito bem! Ofereci 50 peças de ouro pelo trabalho... aqui está!}{}{}{}{$$ 50, qu1032 4, lf30 1}
 {126}{Obrigado. Só mais uma coisinha chata...}{}{5}{}{23}{}
 {127}{Meus agradecimentos. Vou me retirar agora.}{}{5}{}{0}{}
-{130}{O quê? Está me insultando? N-n-não preciso disso v-v-vindo de gente c-c-como você...}{O quê? Está me insultando? N-n-não preciso disso v-v-vindo de gente c-c-como você...}{}{}{}{}
-{131}{Você é patético, uma vergonha para o distintivo.}{}{5}{}{}{co, fl  135}
+{130}{O quê? Você está me insultando? N-n-não preciso disso vindo d-d-dos c-c-como você...}{O quê? Você está me insultando? N-n-não preciso disso vindo d-d-dos c-c-como você...}{}{}{}{}
+{131}{Você é patético, uma vergonha para o distintivo.}{}{5}{}{}{co, fl 135}
 {132}{Só brincando, velho companheiro. Se eu removê-los, qual é o pagamento?}{}{5}{}{105}{}
 {133}{Ha! Só brincando com você! Quem são esses degenerados?}{}{5}{}{95}{}
 {134}{E:}{}{5}{}{0}{}
@@ -123,15 +124,16 @@
 {177}{E:}{}{5}{}{0}{}
 {185}{Negócio estranho, esse. Pertence aos religiosos locais... um grupo chamado Panarii. Parece que eles acham que algo estranho vai acontecer por aqui, então estão sempre indo lá para esperar.}{Negócio estranho, esse. Pertence aos religiosos locais... um grupo chamado Panarii. Parece que eles acham que algo estranho vai acontecer por aqui, então estão sempre indo lá para esperar.}{}{}{}{}
 {186}{Um dirigível caindo em chamas se qualificaria?}{}{5}{lf3 0}{165}{gf2342 1, lf3 1}
-{187}{No que exatamente os Panarii acreditam?}{}{5}{}{195}{}
-{188}{E:}{}{1}{}{0}{}
-{190}{[Ele olha para Virgil, parecendo notá-lo pela primeira vez.] Acho que o seu companheiro Panarii ali saberia muito mais sobre isso. Por que não pergunta a ele?}{[Ele olha para Virgil, parecendo notá-lo pela primeira vez.] Acho que o seu companheiro Panarii ali saberia muito mais sobre isso. Por que não pergunta a ele?}{}{}{}{}
+{187}{No que exatamente os Panarii acreditam?}{}{5}{pa 6409}{190}{}
+{188}{No que exatamente os Panarii acreditam?}{}{5}{pa -6409}{195}{}
+{189}{E:}{}{1}{}{0}{}
+{190}{[Ele observa Virgil, parecendo notá-lo pela primeira vez.] Acho que seu companheiro Panarii ali saberia muito mais sobre isso. Por que não pergunta a ele?}{[Ele observa Virgil, parecendo notá-lo pela primeira vez.] Acho que seu companheiro Panarii ali saberia muito mais sobre isso. Por que não pergunta a ele?}{}{}{}{}
 {191}{Obrigado. Posso fazer mais algumas perguntas?}{}{5}{}{35}{}
 {192}{Vou fazer isso. Tenha um bom dia.}{}{5}{}{0}{}
 {195}{Um grupo estranho, esses Panarii. Acreditam em todo tipo de coisa... deuses élficos e coisas do gênero. Eu mesmo não sei muito sobre isso.}{Um grupo estranho, esses Panarii. Acreditam em todo tipo de coisa... deuses élficos e coisas do gênero. Eu mesmo não sei muito sobre isso.}{}{}{}{}
 {197}{Por acaso eles têm um templo por aqui?}{}{5}{}{215}{}
 {198}{E:}{}{5}{}{}{}
-{215}{Não mais um oficial. Você deve ter notado um grande templo ao entrar, mas ele serve como nossa Prefeitura aqui em Shrouded Hills. Talvez já tenha sido um templo Panarii, mas ninguém por aqui se lembra de quando foi...}{Não mais um oficial. Você deve ter notado um grande templo ao entrar, mas ele serve como nossa Prefeitura aqui em Shrouded Hills. Talvez já tenha sido um templo Panarii, mas ninguém por aqui se lembra de quando foi...}{}{}{}{}
+{215}{Não é mais um oficial. Você deve ter notado um grande templo no caminho para cá, mas ele serve como nossa Prefeitura aqui em Shrouded Hills. Talvez já tenha sido um templo Panarii, mas ninguém por aqui se lembra de quando foi...}{Não é mais um oficial. Você deve ter notado um grande templo no caminho para cá, mas ele serve como nossa Prefeitura aqui em Shrouded Hills. Talvez já tenha sido um templo Panarii, mas ninguém por aqui se lembra de quando foi...}{}{}{}{}
 {216}{Interessante. Só mais algumas perguntas...}{}{5}{}{35}{}
 {217}{E:}{}{5}{}{0}{}
 {225}{Oh, não! E o cirurgião local? Há outros sobreviventes?}{Oh, não! E o cirurgião local? Há outros sobreviventes?}{}{}{}{}
@@ -145,7 +147,7 @@
 {234}{E:}{}{-4}{}{0}{}
 {235}{Claro, claro... agora mesmo! E você veio falar com o homem certo! Como o delegado local, caberá a mim tomar providências! Vou chamar os voluntários imediatamente!}{Claro, claro... agora mesmo! E você veio falar com o homem certo! Como o delegado local, caberá a mim tomar providências! Vou chamar os voluntários imediatamente!}{}{}{}{}
 {236}{Boa ideia. Mais uma ou duas perguntas...}{}{5}{}{35}{}
-{238}{Hã... tá bom. Eu não sou muito esperto... preciso de ajuda...}{}{-4}{}{35}{}
+{238}{Hã... tá bom. Eu não sou muito esperto... preciso de ajuda...}{}{-4}{}{306}{}
 {239}{E:}{}{-4}{}{0}{}
 {240}{Sangue e cinzas! Claro, teremos que enviar alguns voluntários imediatamente!}{Sangue e cinzas! Claro, teremos que enviar alguns voluntários imediatamente!}{}{}{}{}
 {241}{Sim, sim... mas tenho mais algumas perguntas...}{}{5}{}{35}{}
@@ -197,10 +199,10 @@
 {298}{Eu preciso de dinheiro!}{}{-4}{qu1032 0, qu1035 0}{321}{}
 {299}{Eu preciso de muito mais dinheiro.}{}{-4}{qa1032 4, qu1035 0, ni 5605, lf6 0, gf1017 1}{359}{}
 {300}{Ei! Policial! Tem bandidos na ponte!}{}{-4}{me 1, qu1032 0, gf2363 1, gf1015 0, gf1016 0}{321}{}
-{301}{Você sabe onde fica Ta-r-ran-t?}{}{-4}{gf1100 1, lf7 0}{420}{lf7 1, mm 21, ss 1}
-{302}{Dois bobos mortos na estalagem!}{}{-4}{gf2524 1}{490}{}
+{301}{Você sabe onde fica Ta-r-ran-t?}{}{-4}{gf1100 1, lf7 0}{420}{lf7 1, mm 21}
+{302}{Dois bobos mortos na estalagem!}{}{-4}{gf2524 1, lf25 0}{490}{lf25 1}
 {303}{Um cara fedido quer que eu assalte um banco para ele!}{}{-4}{qa1059 1, qb1059 2}{500}{}
-{304}{Jungle Jim quer que eu quebre um motor.}{}{-4}{qa1034 1, qb1034 2}{460}{gf2525 1}
+{304}{Jungle Jim quer que eu quebre um motor.}{}{-4}{qa1034 1, qb1034 2, lf27 0}{460}{gf2525 1, lf27 1}
 {305}{Eu quero ir brincar. Tchau-tchau.}{}{-4}{}{0}{}
 {306}{Entendi. Vou tentar manter as palavras bem simples...}{Entendi. Vou tentar manter as palavras bem simples...}{}{}{}{}
 {307}{Pequeno?}{}{-4}{}{311}{}
@@ -261,17 +263,17 @@
 {387}{Hã? P-P-Ponte? Acho que vou embora agora.}{}{-4}{}{0}{}
 {389}{Colocamos guardas para vigiar os ladrões, e todos estavam na ponte superior quando os materiais foram destruídos. Não tenho provas, mas você parece a escolha óbvia.}{Colocamos guardas para vigiar os ladrões, e todos estavam na ponte superior quando os materiais foram destruídos. Não tenho provas, mas você parece a escolha óbvia.}{}{}{}{}
 {390}{Aponte esse dedo para mim de novo, e vai perdê-lo.}{}{5}{}{394}{re -5}
-{391}{É uma pena que pense assim. Adeus.}{}{5}{}{0}{}
+{391}{É uma pena você pensar assim. Adeus.}{}{5}{}{0}{}
 {394}{V-V-V-Você acha que pode me a-a-assustar? Eu sou um h-h-homem da l-l-lei...}{V-V-V-Você acha que pode me a-a-assustar? Eu sou um h-h-homem da l-l-lei...}{}{}{}{}
 {395}{Você é uma lesma gaga. Sua esposa me assusta mais.}{}{5}{}{}{co, fl 135}
 {396}{E:}{}{5}{}{0}{}
 {398}{Como delegado da cidade, tenho muita paciência, mas simplesmente não gosto de você...}{Como delegado da cidade, tenho muita paciência, mas simplesmente não gosto de você...}{}{}{}{}
 {399}{Poderia me conceder um momento do seu tempo, bom senhor?}{}{5}{}{407}{re +10}
-{400}{Já ouvi o suficiente das suas bobagens. Levante os punhos!}{}{5}{}{}{re -10, fl 135}
+{400}{Já ouvi o suficiente das suas bobagens. Levante os punhos!}{}{5}{}{}{co, fl 135}
 {403}{Vejo que não há como mudar sua opinião. Adeus.}{}{5}{}{0}{}
 {407}{Não sei... você é um pouco irritante. Hmm. [Ele o examina.] Bem, parece que sabe seu lugar, isso é um bom sinal. Talvez haja esperança para você, mesmo sendo tão degenerado e inferior como é...}{Não sei... você é um pouco irritante. Hmm. [Ele o examina.] Bem, parece que sabe seu lugar, isso é um bom sinal. Talvez haja esperança para você, mesmo sendo tão degenerado e inferior como é...}{}{}{}{}
 {408}{Obrigado, senhor. Agradeço pela sua paciência comigo.}{}{5}{}{412}{re +10}
-{409}{Eu diria que VOCÊ é um incômodo que não posso mais tolerar.}{}{5}{}{}{re -10, fl 135}
+{409}{Eu diria que VOCÊ é um incômodo que não posso mais tolerar.}{}{5}{}{}{co, fl 135}
 {410}{Lamento que veja as coisas dessa forma. Vou me retirar.}{}{5}{}{0}{}
 {412}{O que é que você quer de mim?}{O que é que você quer de mim?}{}{}{}{}
 {413}{Posso lhe perguntar uma coisa?}{}{5}{}{23}{}
@@ -289,7 +291,7 @@
 {442}{Você é um pouco covarde para um delegado, não é?}{}{5}{}{470}{re-10}
 {443}{K:}{}{1}{}{35}{}
 {449}{E:}{}{1}{}{0}{}
-{450}{Is-is-is-isso r-r-realmente n-n-não é da minha área... talvez você devesse falar com o Doutor Roberts sobre isso. Ele pode saber o que fazer... s-s-s-sim, é isso, você deveria falar com o Doutor Roberts.}{Is-is-is-isso r-r-realmente n-n-não é da minha área... talvez você devesse falar com o Doutor Roberts sobre isso. Ele pode saber o que fazer... s-s-s-sim, é isso, você deveria falar com o Doutor Roberts.}{}{}{}{}
+{450}{Isso é, hã, r-r-realmente n-n-não é minha área de especialidade... talvez você devesse falar com o Doutor Roberts sobre isso. Ele pode saber o que fazer... s-s-s-sim, é isso, você deveria falar com o Doutor Roberts.}{Isso é, hã, r-r-realmente n-n-não é minha área de especialidade... talvez você devesse falar com o Doutor Roberts sobre isso. Ele pode saber o que fazer... s-s-s-sim, é isso, você deveria falar com o Doutor Roberts.}{}{}{}{}
 {451}{Entendo... há outra coisa que preciso discutir com você.}{}{5}{}{430}{}
 {452}{Não acredito como você é patético.}{}{5}{}{470}{re-10}
 {453}{K:}{}{1}{}{35}{}
@@ -322,12 +324,12 @@
 {521}{Meus agradecimentos. Posso fazer mais algumas perguntas?}{}{5}{}{35}{}
 {529}{E:}{}{1}{}{0}{}
 {530}{Oh... não, eu hã, pensei, bem, é só que eu pensei que... ahem. Hã, o que posso fazer por você, bom senhor?}{Oh... não, eu hã, pensei, bem, é só que eu pensei que... ahem. Hã, o que posso fazer por você, minha boa senhora?}{}{}{}{}
-{531}{Acabei de sofrer um terrível acidente com um dirigível, senhor!}{}{5}{me 0, lf3 0}{165}{gf2342 1, lf3 1}
+{531}{Acabei de sofrer o pior acidente com um dirigível, senhor!}{}{5}{me 0, lf3 0}{165}{gf2342 1, lf3 1}
 {532}{Há ladrões controlando a ponte!}{}{5}{me 1, qu1032 0, gf2363 1, gf1015 0, gf1016 0}{75}{}
 {533}{Posso perguntar quem é o senhor?}{}{5}{me 0, re 41}{13}{}
 {534}{Tenho algumas perguntas...}{}{5}{}{35}{}
 {539}{E:}{}{1}{}{0}{}
-{540}{[Ele começa a suar um pouco.] Sim, claro, peço desculpas, senhor! Não há necessidade de grosseria, não é? Não quero problemas...}{[Ele começa a suar, levemente.] Sim, claro, peço desculpas, madame! Não há necessidade de grosseria, há? Eu não quero problemas...}{}{}{}{}
+{540}{[Ele começa a suar, levemente.] Sim, claro, peço desculpas, senhor! Não há necessidade de grosseria, não é? Não quero problemas...}{[Ele começa a suar, levemente.] Sim, claro, peço desculpas, senhora! Não há necessidade de grosseria, não é? Não quero problemas...}{}{}{}{}
 {541}{Acabei de sofrer o pior acidente com um dirigível, senhor!}{}{5}{me 0, lf3 0}{165}{gf2342 1, lf3 1}
 {542}{Há ladrões controlando a ponte!}{}{5}{me 1, qu1032 0, gf2363 1, gf1015 0, gf1016 0}{75}{}
 {543}{Posso perguntar quem é o senhor?}{}{5}{me 0, re 41}{13}{}

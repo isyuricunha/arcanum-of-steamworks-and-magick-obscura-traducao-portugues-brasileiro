@@ -10,22 +10,22 @@
 {10}{E:}{}{1}{}{0}{}
 {11}{O que eu tô fazeno? Tô trabaiando, seu <<<PH1>>> de orelha pontuda. O que parece que eu tô fazeno?}{O que eu tô fazeno? Tô trabaiando, seu <<<PH1>>> de orelha pontuda. O que parece que eu tô fazeno?}{}{}{}{}
 {12}{Grosso como o resto da sua raça, vejo...}{}{5}{}{17}{}
-{13}{Trabalho? Eles realmente pagam orcs?}{}{5}{}{21}{}
+{13}{Trabalhar? Eles realmente pagam orcs?}{}{5}{}{21}{}
 {14}{Você não é legal... igual a todos os orcs.}{}{-4}{}{17}{}
 {15}{Eles pagam orcs?}{}{-4}{}{21}{}
 {16}{F:}{}{1}{}{0}{}
-{17}{Bah! Não preciso falar com você. Eu tenho trabalho. Eu vou.}{Bah! Não preciso falar com você. Eu tenho trabalho. Eu vou.}{}{}{}{}
+{17}{Bah! Não preciso falar com você. Tenho trabalho. Vou embora.}{Bah! Não preciso falar com você. Tenho trabalho. Vou embora.}{}{}{}{}
 {18}{Eles realmente pagam vocês, orcs, para trabalhar?}{}{5}{}{21}{}
-{19}{Você recebe para trabalhar?}{}{-4}{}{21}{}
+{19}{Vocês recebem para trabalhar?}{}{-4}{}{21}{}
 {20}{E:}{}{1}{}{0}{}
-{21}{[Rosnado irritado] Mais salário de escravo... moedas tão poucas.}{[Rosnado irritado] Mais salário de escravo... moedas tão poucas.}{}{}{}{}
+{21}{[Rosnado raivoso] Mais salário de escravo... moeda tão pouca.}{[Rosnado raivoso] Mais salário de escravo... moeda tão pouca.}{}{}{}{}
 {22}{Espero que sim! Odeio ver moedas desperdiçadas com tanta preguiça.}{}{5}{}{}{re-2, fl 27}
 {23}{Você não recebe um salário justo?}{}{5}{}{29}{}
-{24}{Ah... isso é bom. Não desperdiçar moedas. Orcs preguiçosos.}{}{-4}{}{}{re-2, fl 27}
+{24}{Uh... isso é bom. Não desperdiçar moedas. Orcs preguiçosos.}{}{-4}{}{}{re-2, fl 27}
 {25}{Eles não pagam bem pelo trabalho?}{}{-4}{}{29}{}
 {26}{E:}{}{1}{}{0}{}
-{27}{Elfo inútil! Me deixe em paz! Eu trabalho.}{Elfo inútil! Me deixe em paz! Eu trabalho.}{}{}{}{}
-{28}{[Rugido] Não quero pena de elfo! Me deixe em paz! Eu trabalho agora!}{[Rugido] Não quero pena de elfo! Me deixe em paz! Eu trabalho agora!}{}{}{}{}
+{27}{Elfo inútil! Me deixe em paz! Tô trabalhando.}{Elfo inútil! Me deixe em paz! Tô trabalhando.}{}{}{}{}
+{28}{[Rugido] Não quero pena de elfo! Deixe-me em paz! Preciso trabalhar agora!}{[Rugido] Não quero pena de elfo! Deixe-me em paz! Preciso trabalhar agora!}{}{}{}{}
 {29}{Não. Não pagam bem. Tratam mal. Como escravo... não posso ir. [rosnado] É um lugar ruim.}{Não. Não pagam bem. Tratam mal. Como escravo... não posso ir. [rosnado] É um lugar ruim.}{}{}{}{}
 {30}{Isso é horrível! Você merece um tratamento justo. Sinto muito.}{}{5}{}{}{re +3, fl 28}
 {31}{Bom. É exatamente o tratamento que os orcs deveriam receber.}{}{5}{}{}{re-3, fl 27}
@@ -42,7 +42,7 @@
 {42}{Eles realmente pagam vocês, orcs, para trabalhar?}{}{5}{}{45}{}
 {43}{Vocês recebem para trabalhar?}{}{-4}{}{45}{}
 {44}{E:}{}{1}{}{0}{}
-{45}{[Rosnado irritado] Mais salário de escravo... tão poucas moedas.}{[Rosnado irritado] Mais salário de escravo... tão poucas moedas.}{}{}{}{}
+{45}{[Rosnado raivoso] Mais salário de escravo... moeda tão pouca.}{[Rosnado raivoso] Mais salário de escravo... moeda tão pouca.}{}{}{}{}
 {46}{Espero que sim! Odeio ver moedas desperdiçadas com esses preguiçosos.}{}{5}{}{}{re-3, fl 52}
 {47}{Você não recebe um salário justo?}{}{5}{}{53}{}
 {48}{Uh... isso é bom. Não desperdiçar moedas. Orcs preguiçosos.}{}{-4}{}{}{re-3, fl 52}
@@ -125,14 +125,14 @@
 {125}{Bom. Fico feliz em ver que eles mantêm vocês, Orcs, no seu lugar.}{}{5}{}{}{re-3, fl 130}
 {126}{Você não recebe um salário justo? Que terrível!}{}{5}{}{132}{}
 {127}{Bom. Esse é o jeito certo de tratar um orc.}{}{-4}{}{}{re-3, fl 130}
-{128}{Você não paga bem? Isso não está certo.}{}{-4}{}{132}{}
+{128}{Você não paga bem? Isso não tá certo.}{}{-4}{}{132}{}
 {129}{E:}{}{1}{}{0}{}
 {130}{I:}{I:}{}{}{}{}
 {131}{[rosnado] talvez. Você vai. Eu trabalho agora.}{[rosnado] talvez. Você vai. Eu trabalho agora.}{}{}{}{}
-{132}{É. Eles são ruins com os orcs. Orcs não estão felizes.}{É. Eles são ruins com os orcs. Orcs não estão felizes.}{}{}{}{}
+{132}{É. Eles são ruins com os orcs. Os orcs não estão felizes.}{É. Eles são ruins com os orcs. Os orcs não estão felizes.}{}{}{}{}
 {133}{Talvez você devesse organizar um sindicato ou algo assim?}{}{5}{}{}{re +3, fl 131}
-{134}{Bom. Orcs não deveriam estar felizes.}{}{5}{}{}{re-3, fl 130}
-{135}{Talvez o orc fale com o chefe, melhore as coisas.}{}{-4}{}{}{re +3, fl 131}
+{134}{Bom. Os orcs não deveriam estar felizes.}{}{5}{}{}{re-3, fl 130}
+{135}{Talvez o orc fale com o chefe, pra melhorar.}{}{-4}{}{}{re +3, fl 131}
 {136}{Bom. Esse é o jeito certo de tratar um orc.}{}{-4}{}{}{re-3, fl 130}
 {137}{E:}{}{1}{}{0}{}
 {138}{Orc aqui trabalha. Faz boa tecnologia. Ganha moedas.}{Orc aqui trabalha. Faz boa tecnologia. Ganha moedas.}{}{}{}{}
@@ -166,38 +166,38 @@
 {166}{Eu pergunto uma coisa pro orc rude!}{}{-4}{ra-3, ra-7}{186}{}
 {167}{E:}{}{1}{}{0}{}
 {168}{Não! O elfo burro vai meter o orc em encrenca! Vá embora!}{Não! O elfo burro vai meter o orc em encrenca! Vá embora!}{}{}{}{}
-{169}{Encrenca? Como posso te meter em encrenca?}{}{5}{}{174}{}
-{170}{Pode ser divertido meter um orc em encrenca...}{}{5}{}{178}{}
-{171}{Encrenca? Como eu meto o orc em encrenca?}{}{-4}{}{174}{}
-{172}{Ha! Eu gosto de meter orc em encrenca...}{}{-4}{}{178}{}
+{169}{Problemas? Como posso te arranjar problemas?}{}{5}{}{174}{}
+{170}{Pode ser divertido arranjar problemas para um orc...}{}{5}{}{178}{}
+{171}{Problema? Como eu arrumo problema pro orc?}{}{-4}{}{174}{}
+{172}{Ha! Eu gosto de arranjar problema pro orc...}{}{-4}{}{178}{}
 {173}{F:}{}{1}{}{0}{}
 {174}{Me deixe em paz, elfo malvado!}{Me deixe em paz, elfo malvado!}{}{}{}{}
-{175}{Bah! Que tipo de encrenca eu poderia te meter?}{}{5}{}{178}{}
-{176}{Bah! Que encrenca eu meto o orc?}{}{-4}{}{178}{}
+{175}{Puxa! Que tipo de problema eu poderia te arranjar?}{}{5}{}{178}{}
+{176}{Puxa! Que problema eu arrumo pro orc?}{}{-4}{}{178}{}
 {177}{I:}{}{1}{}{}{re-2, fl 184}
 {178}{Se o feitor ver que não estou trabalhando... vai dar encrenca feia. Sem moeda. Sem comida. Talvez surra. Não... Orc não fala com elfo!}{Se o feitor ver que não estou trabalhando... vai dar encrenca feia. Sem moeda. Sem comida. Talvez surra. Não... Orc não fala com elfo!}{}{}{}{}
-{179}{Hmm... Estou começando a gostar deste lugar...}{}{5}{}{}{re-2, fl 184}
-{180}{Isso é terrível! Não acredito que eles possam te tratar dessa maneira!}{}{5}{}{}{fl 185}
-{181}{Hmm... Gostá desse lugar...}{}{-4}{}{}{re-2, fl 184}
-{182}{Isso é ruim! Eles não deviam tratar orc assim!}{}{-4}{}{}{fl 185}
+{179}{Hmm... estou começando a gostar deste lugar...}{}{5}{}{}{re-2, fl 184}
+{180}{Isso é terrível! Não acredito que eles te tratem assim!}{}{5}{}{}{fl 185}
+{181}{Hmm... eu gosto desse lugar...}{}{-4}{}{}{re-2, fl 184}
+{182}{Isso é ruim! Eles não deviam tratar o orc assim!}{}{-4}{}{}{fl 185}
 {183}{E:}{}{1}{}{0}{}
 {184}{Vai embora, elfo imundo! Tenho trabalho a fazer!}{Vai embora, elfo imundo! Tenho trabalho a fazer!}{}{}{}{}
 {185}{É assim que é. Trabalhar aqui... não pode sair mais. Precisa de moeda. É um lugar ruim para orc. Agora vai! O feitor vem!}{É assim que é. Trabalhar aqui... não pode sair mais. Precisa de moeda. É um lugar ruim para orc. Agora vai! O feitor vem!}{}{}{}{}
 {186}{Não! Não fale. Vai arranjar problema para orc! Vai embora!}{Não! Não fale. Vai arranjar problema para orc! Vai embora!}{}{}{}{}
-{187}{Problema? Como posso te arranjar problema?}{}{5}{}{192}{}
-{188}{Pode ser divertido arranjar problema para um orc...}{}{5}{}{196}{}
-{189}{Problema? Como eu arranjá problema pra orc?}{}{-4}{}{192}{}
-{190}{Ha! Gostá de arranjá problema pra orc...}{}{-4}{}{196}{}
+{187}{Problemas? Como posso te arranjar problemas?}{}{5}{}{192}{}
+{188}{Pode ser divertido arranjar problemas para um orc...}{}{5}{}{196}{}
+{189}{Problema? Como eu arrumo problema pro orc?}{}{-4}{}{192}{}
+{190}{Ha! Eu gosto de arranjar problema pro orc...}{}{-4}{}{196}{}
 {191}{F:}{}{1}{}{0}{}
 {192}{Me deixa em paz! Você é ruim!}{Me deixa em paz! Você é ruim!}{}{}{}{}
-{193}{Ora! Que tipo de problema eu poderia te arranjar?}{}{5}{}{196}{}
-{194}{Ora! Que problema eu arranjá pra orc?}{}{-4}{}{196}{}
+{193}{Puxa! Que tipo de problema eu poderia te arranjar?}{}{5}{}{196}{}
+{194}{Puxa! Que problema eu arrumo pro orc?}{}{-4}{}{196}{}
 {195}{I:}{}{1}{}{}{re-2, fl 202}
 {196}{Feitor vê que não tá trabalhando... arranja problema feio. Sem moeda. Sem comida. Talvez surra. Não... Orc não fala com você!}{Feitor vê que não tá trabalhando... arranja problema feio. Sem moeda. Sem comida. Talvez surra. Não... Orc não fala com você!}{}{}{}{}
-{197}{Hmm... Estou começando a gostar deste lugar...}{}{5}{}{}{re-2, fl 202}
-{198}{Isso é terrível! Não acredito que eles possam te tratar dessa maneira!}{}{5}{}{}{fl 203}
-{199}{Hmm... Gostá desse lugar...}{}{-4}{}{}{re-2, fl 202}
-{200}{Isso é ruim! Eles não deviam tratar orc assim!}{}{-4}{}{}{fl 203}
+{197}{Hmm... estou começando a gostar deste lugar...}{}{5}{}{}{re-2, fl 202}
+{198}{Isso é terrível! Não acredito que eles te tratem assim!}{}{5}{}{}{fl 203}
+{199}{Hmm... eu gosto desse lugar...}{}{-4}{}{}{re-2, fl 202}
+{200}{Isso é ruim! Eles não deviam tratar o orc assim!}{}{-4}{}{}{fl 203}
 {201}{E:}{}{1}{}{0}{}
 {202}{Vai embora! Tenho trabalho a fazer!}{Vai embora! Tenho trabalho a fazer!}{}{}{}{}
 {203}{É assim que é. Trabalhar aqui... não pode sair mais. Precisa de moeda. É um lugar ruim para orc. Agora vai! O feitor vem!}{É assim que é. Trabalhar aqui... não pode sair mais. Precisa de moeda. É um lugar ruim para orc. Agora vai! O feitor vem!}{}{}{}{}
@@ -227,38 +227,38 @@
 {227}{O que orc faz aqui?}{}{-4}{ra7}{266}{}
 {228}{O que orc faz aqui?}{}{-4}{ra-3, ra-7}{248}{}
 {229}{E:}{}{1}{}{0}{}
-{230}{[Rosna] Vá embora! Não falo com você. Tenho que trabalhar! Capataz fica bravo se não trabalhar!}{[Rosna] Vá embora! Não falo com você. Tenho que trabalhar! Capataz fica bravo se não trabalhar!}{}{}{}{}
-{231}{Você não tem direito a pausas?}{}{5}{}{236}{}
-{232}{Vocês, orcs preguiçosos, devem estar sempre em apuros!}{}{5}{}{}{re-2, fl 246}
-{233}{É ruim você tirar uma pausa?}{}{-4}{}{236}{}
-{234}{Orcs preguiçosos se metem em encrenca o tempo todo, eu acho...}{}{-4}{}{}{re-2, fl 246}
+{230}{[Rosnado] Vá embora! Não fale comigo. Preciso trabalhar! O capataz fica bravo se não trabalhar!}{[Rosnado] Vá embora! Não fale comigo. Preciso trabalhar! O capataz fica bravo se não trabalhar!}{}{}{}{}
+{231}{Você não tem direito a nenhum descanso?}{}{5}{}{236}{}
+{232}{Vocês, orcs preguiçosos, devem estar sempre encrencados!}{}{5}{}{}{re-2, fl 246}
+{233}{É ruim você tirar um descanso?}{}{-4}{}{236}{}
+{234}{Orcs preguiçosos se metem em encrenca direto, eu acho...}{}{-4}{}{}{re-2, fl 246}
 {235}{F:}{}{1}{}{0}{}
-{236}{Pausa? O que é isso?}{Pausa? O que é isso?}{}{}{}{}
-{237}{Um período de descanso. Para se revigorar antes de voltar ao trabalho.}{}{5}{}{240}{}
-{238}{Descansar. Descansar antes de trabalhar mais.}{}{-4}{}{240}{}
+{236}{Descanso? O que é isso?}{Descanso? O que é isso?}{}{}{}{}
+{237}{Um período de repouso. Para se recuperar antes de voltar ao trabalho.}{}{5}{}{240}{}
+{238}{Descanso. Descansar antes de trabalhar mais.}{}{-4}{}{240}{}
 {239}{E:}{}{1}{}{0}{}
-{240}{[rosnado] Nunca ouvi isso antes. Seria bom ter... Capataz nos faz trabalhar duro... trabalhamos muito... poucas moedas.}{[rosnado] Nunca ouvi isso antes. Seria bom ter... Capataz nos faz trabalhar duro... trabalhamos muito... poucas moedas.}{}{}{}{}
-{241}{Fico feliz em saber que você está no seu lugar, orc.}{}{5}{}{}{re-2, fl 246}
+{240}{[rosnado] Nunca ouvi falar disso antes. Seria bom ter... O capataz nos faz trabalhar duro... muito tempo... e não ganhamos muitas moedas.}{[rosnado] Nunca ouvi falar disso antes. Seria bom ter... O capataz nos faz trabalhar duro... muito tempo... e não ganhamos muitas moedas.}{}{}{}{}
+{241}{Fico feliz em ver que você está no seu lugar, orc.}{}{5}{}{}{re-2, fl 246}
 {242}{Isso não está certo. Sinto muito.}{}{5}{}{}{re-2, fl 247}
-{243}{Bom. Você no seu lugar, orc.}{}{-4}{}{}{re-2, fl 246}
+{243}{Bom. Você está no seu lugar, orc.}{}{-4}{}{}{re-2, fl 246}
 {244}{Isso não é bom.}{}{-4}{}{}{re-2, fl 247}
 {245}{E:}{}{1}{}{0}{}
 {246}{Bah! Palavras afiadas... ouvidos afiados... mente lenta. [rosnado] Vá embora!}{Bah! Palavras afiadas... ouvidos afiados... mente lenta. [rosnado] Vá embora!}{}{}{}{}
 {247}{[Rugido] Não quero pena de elfo! Deixe-me em paz! Preciso trabalhar agora!}{[Rugido] Não quero pena de elfo! Deixe-me em paz! Preciso trabalhar agora!}{}{}{}{}
-{248}{[Rosnado] Vá embora! Não fale comigo. Preciso trabalhar! Capataz fica bravo se não trabalhar!}{[Rosnado] Vá embora! Não fale comigo. Preciso trabalhar! Capataz fica bravo se não trabalhar!}{}{}{}{}
-{249}{Vocês não têm direito a pausas?}{}{5}{}{254}{}
+{248}{[Rosnado] Vá embora! Não fale comigo. Preciso trabalhar! O capataz fica bravo se não trabalhar!}{[Rosnado] Vá embora! Não fale comigo. Preciso trabalhar! O capataz fica bravo se não trabalhar!}{}{}{}{}
+{249}{Você não tem direito a nenhum descanso?}{}{5}{}{254}{}
 {250}{Vocês, orcs preguiçosos, devem estar sempre encrencados!}{}{5}{}{}{re-2, fl 265}
-{251}{É ruim você tirar uma pausa?}{}{-4}{}{254}{}
+{251}{É ruim você tirar um descanso?}{}{-4}{}{254}{}
 {252}{Orcs preguiçosos se metem em encrenca direto, eu acho...}{}{-4}{}{}{re-2, fl 265}
 {253}{E:}{}{1}{}{0}{}
-{254}{Pausa? O que é isso?}{Pausa? O que é isso?}{}{}{}{}
-{255}{Um período de descanso. Para se revigorar antes de voltar ao trabalho.}{}{5}{}{258}{}
-{256}{Descansar. Descansar antes de trabalhar mais.}{}{-4}{}{258}{}
+{254}{Descanso? O que é isso?}{Descanso? O que é isso?}{}{}{}{}
+{255}{Um período de repouso. Para se recuperar antes de voltar ao trabalho.}{}{5}{}{258}{}
+{256}{Descanso. Descansar antes de trabalhar mais.}{}{-4}{}{258}{}
 {257}{E:}{}{1}{}{0}{}
-{258}{[rosnado] Nunca ouvi isso antes. Seria bom ter... Capataz nos faz trabalhar duro... trabalhamos muito... poucas moedas.}{[rosnado] Nunca ouvi isso antes. Seria bom ter... Capataz nos faz trabalhar duro... trabalhamos muito... poucas moedas.}{}{}{}{}
-{259}{Fico feliz em saber que você está no seu lugar, orc.}{}{5}{}{}{re-3, fl 265}
+{258}{[rosnado] Nunca ouvi falar disso antes. Seria bom ter... O capataz nos faz trabalhar duro... muito tempo... e não ganhamos muitas moedas.}{[rosnado] Nunca ouvi falar disso antes. Seria bom ter... O capataz nos faz trabalhar duro... muito tempo... e não ganhamos muitas moedas.}{}{}{}{}
+{259}{Fico feliz em ver que você está no seu lugar, orc.}{}{5}{}{}{re-3, fl 265}
 {260}{Isso não está certo. Sinto muito.}{}{5}{}{}{re-3, fl 264}
-{261}{Bom. Você no seu lugar, orc.}{}{-4}{}{}{re-3, fl 265}
+{261}{Bom. Você está no seu lugar, orc.}{}{-4}{}{}{re-3, fl 265}
 {262}{Isso não é bom.}{}{-4}{}{}{re-3, fl 264}
 {263}{E:}{}{1}{}{0}{}
 {264}{[Rugido] Não quero pena! Deixe-me em paz! Preciso trabalhar agora!}{[Rugido] Não quero pena! Deixe-me em paz! Preciso trabalhar agora!}{}{}{}{}

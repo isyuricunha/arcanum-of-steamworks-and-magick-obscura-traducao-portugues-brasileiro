@@ -12,7 +12,7 @@
 {12}{Arremesso}{}{1}{}{50}{}
 {13}{Mais Treinamento}{}{1}{}{1}{}
 {14}{Treinamento Acelerado de Ladrão}{Treinamento Acelerado de Ladrão}{}{}{}{}
-{15}{Dissimulação}{}{1}{}{56}{}
+{15}{Furtividade}{}{1}{}{56}{}
 {16}{Bater Carteira}{}{1}{}{62}{}
 {17}{Movimento Silencioso}{}{1}{}{68}{}
 {18}{Detectar Armadilha}{}{1}{}{74}{}
@@ -26,7 +26,7 @@
 {26}{Instituto Técnico Arcanum}{Instituto Técnico Arcanum}{}{}{}{}
 {27}{Reparo}{}{1}{}{104}{}
 {28}{Armas de Fogo}{}{1}{}{110}{}
-{29}{Destrancar Fechadura}{}{1}{}{116}{}
+{29}{Abrir Fechadura}{}{1}{}{116}{}
 {30}{Armar Armadilha}{}{1}{}{122}{}
 {31}{Mais Treinamento}{}{1}{}{1}{}
 {32}{Treinamento com Arco}{Treinamento com Arco}{}{}{}{}
@@ -138,26 +138,26 @@
 {138}{Bondade}{Bondade}{}{}{}{}
 {139}{definir como 200}{}{1}{}{138}{al +200}
 {140}{definir como 400}{}{1}{}{138}{al +400}
-{141}{definir como 600}{}{1}{}{138}{al +600}
-{142}{definir como 800}{}{1}{}{138}{al +800}
+{141}{definir para 600}{}{1}{}{138}{al +600}
+{142}{definir para 800}{}{1}{}{138}{al +800}
 {143}{E:}{}{1}{}{}{}
 {144}{Maldade}{Maldade}{}{}{}{}
 {145}{definir como 200}{}{1}{}{144}{al -200}
 {146}{definir como 400}{}{1}{}{144}{al -400}
-{147}{definir como 600}{}{1}{}{144}{al -600}
-{148}{definir como 800}{}{1}{}{144}{al -800}
+{147}{definir para 600}{}{1}{}{144}{al -600}
+{148}{definir para 800}{}{1}{}{144}{al -800}
 {149}{E:}{}{1}{}{}{}
 {150}{Aptidão Mágica}{Aptidão Mágica}{}{}{}{}
 {151}{definir como 200}{}{1}{}{150}{ma + 200}
 {152}{definir como 400}{}{1}{}{150}{ma + 400}
-{153}{definir como 600}{}{1}{}{150}{ma + 600}
-{154}{definir como 800}{}{1}{}{150}{ma + 800}
+{153}{definir para 600}{}{1}{}{150}{ma + 600}
+{154}{definir para 800}{}{1}{}{150}{ma + 800}
 {155}{E:}{}{1}{}{}{}
 {156}{Aptidão Técnica}{Aptidão Técnica}{}{}{}{}
 {157}{definir como 200}{}{1}{}{156}{ta + 200}
 {158}{definir como 400}{}{1}{}{156}{ta + 400}
-{159}{definir como 600}{}{1}{}{156}{ta + 600}
-{160}{definir como 800}{}{1}{}{156}{ta + 800}
+{159}{definir para 600}{}{1}{}{156}{ta + 600}
+{160}{definir para 800}{}{1}{}{156}{ta + 800}
 {161}{E:}{}{1}{}{}{}
 {162}{Aptidão Técnica}{Aptidão Técnica}{}{}{}{}
 {163}{Submundo dos Ladrões}{}{1}{}{162}{rp 1001}

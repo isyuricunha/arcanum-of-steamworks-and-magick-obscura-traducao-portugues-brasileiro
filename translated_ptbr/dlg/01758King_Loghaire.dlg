@@ -13,7 +13,7 @@
 {18}{O que quer dizer com 'nós', Loghaire?}{}{5}{}{20}{}
 {20}{Isso vai muito além do que eu imaginava. O destino de Arcanum está em jogo. Parece que mais uma vez é meu dever consertar as coisas.}{Isso vai muito além do que eu imaginava. O destino de Arcanum está em jogo. Parece que mais uma vez é meu dever consertar as coisas.}{}{6}{}{}
 {21}{O que quer dizer, Loghaire?}{}{5}{pa -6411}{37}{}
-{22}{O que está dizendo, Loghaire?}{}{5}{pa 6411}{25}{}
+{22}{O que você quer dizer, Loghaire?}{}{5}{pa 6411}{25}{}
 {25}{[Ele nota Magnus parado ao seu lado.] Quero dizer que seu amigo aqui não é o único anão em Arcanum disposto a fazer sua parte nesta missão. Diga-me, jovem irmão... quem é você?}{[Ele nota Magnus parado ao seu lado.] Quero dizer que seu amigo aqui não é o único anão em Arcanum disposto a fazer sua parte nesta missão. Diga-me, jovem irmão... quem é você?}{}{7}{}{}
 {26}{[Ouvir.]}{}{5}{}{-28}{}
 {28}{Magnus Punho de Xisto, é? É um prazer conhecê-lo, Magnus. Acredito que nunca ouvi o nome Punho de Xisto... a qual clã pertence?}{Magnus Punho de Xisto, é? É um prazer conhecê-lo, Magnus. Acredito que nunca ouvi o nome Punho de Xisto... a qual clã pertence?}{}{8}{}{}
@@ -21,7 +21,7 @@
 {31}{Entendo. [Loghaire coloca a mão no ombro dele.] Ouça, rapaz. Um anão carrega seu clã no coração. Nem o tempo nem a distância podem separá-lo deles, e um anão sempre acaba voltando para casa. Você entende, Magnus...?}{Entendo. [Loghaire coloca a mão no ombro dele.] Ouça, rapaz. Um anão carrega seu clã no coração. Nem o tempo nem a distância podem separá-lo deles, e um anão sempre acaba voltando para casa. Você entende, Magnus...?}{}{9}{}{}
 {32}{[Ouvir.]}{}{5}{}{-45}{}
 {34}{Você já está fazendo isso, rapaz. [Loghaire gesticula para você.] Já fez o suficiente para deixar qualquer clã orgulhoso. Arcanum precisa de heróis, e você atendeu ao chamado. [Ele olha de volta para você.] Estou pronto para atender a esse chamado também...}{Você já está fazendo isso, rapaz. [Loghaire gesticula para você.] Já fez o suficiente para deixar qualquer clã orgulhoso. Arcanum precisa de heróis, e você atendeu ao chamado. [Ele olha de volta para você.] Estou pronto para atender a esse chamado também...}{}{10}{}{}
-{35}{O que está dizendo, Loghaire?}{}{5}{}{37}{}
+{35}{O que você quer dizer, Loghaire?}{}{5}{}{37}{}
 {37}{Estou dizendo que pretendo fazer o que for necessário para vingar meu povo e salvar nosso mundo...}{Estou dizendo que pretendo fazer o que for necessário para vingar meu povo e salvar nosso mundo...}{}{11}{}{}
 {38}{Excelente. Você vai se juntar a mim?}{}{5}{}{81}{jo 0 73}
 {39}{E:}{}{5}{}{0}{}
@@ -77,7 +77,7 @@
 {210}{A paciência é, sem dúvida, uma virtude régia, mas suas ações ultimamente têm sido questionáveis. Porém, até mesmo um rei tem seus vícios. Se você me trouxesse um bom rapé anão, eu poderia ser persuadido a relevar certas coisas...}{A paciência é, sem dúvida, uma virtude régia, mas suas ações ultimamente têm sido questionáveis. Porém, até mesmo um rei tem seus vícios. Se você me trouxesse um bom rapé anão, eu poderia ser persuadido a relevar certas coisas...}{}{48}{}{}
 {211}{Ora, vamos, Loghaire... isso é realmente necessário?}{}{5}{ch 20}{217}{re +20}
 {212}{Certamente, Loghaire... eu tenho um pouco aqui mesmo...}{}{5}{in 3614, ch -19}{-111}{re +20}
-{213}{Vou providenciar um pouco para Vossa Alteza...}{}{5}{in -3614, ch -19}{223}{}
+{213}{Vou providenciar um pouco para Vossa Alteza...}{}{5}{ni 3614, ch -19}{223}{}
 {214}{Bem, eu odiaria incentivar um vício tão baixo. Vamos embora...}{}{5}{}{}{re -5, fl 226}
 {217}{[A raiva lampeja nos olhos de Loghaire, mas ele se rende à sua forte personalidade.] Sim, bem... suponho que até mesmo um rei pode estar errado de vez em quando. Vamos esquecer que falamos sobre isso...}{[A raiva lampeja nos olhos de Loghaire, mas ele se rende à sua forte personalidade.] Sim, bem... suponho que até mesmo um rei pode estar errado de vez em quando. Vamos esquecer que falamos sobre isso...}{}{49}{}{}
 {218}{Tudo bem, Vossa Alteza. Vamos...}{}{5}{}{0}{}
@@ -125,13 +125,13 @@
 {282}{Não seria Tarant? Nunca estive aqui, mas ouvi dizer que, de todos os lugares em Arcanum, Tarant foi a que mais se beneficiou da tecnologia.}{Não seria Tarant? Nunca estive aqui, mas ouvi dizer que, de todos os lugares em Arcanum, Tarant foi a que mais se beneficiou da tecnologia.}{}{37}{}{}
 {283}{Mais algumas perguntas...}{}{1}{}{116}{}
 {284}{E:}{}{1}{}{0}{}
-{285}{Esta é Qintarra. É loucura viver tão longe do chão, se quer saber minha opinião. Não gosto daqui, para ser sincero. Consigo sentir magia no ar e isso me deixa enjoado.}{Esta é Qintarra. É loucura viver tão longe do chão, se quer saber minha opinião. Não gosto daqui, para ser sincero. Consigo sentir magia no ar e isso me deixa enjoado.}{}{38}{}{}
+{285}{Isso é Qintarra. É loucura viver tão longe do chão, se quer saber minha opinião. Não gosto daqui, para ser sincero. Consigo sentir a magia no ar e isso me dá náuseas.}{Isso é Qintarra. É loucura viver tão longe do chão, se quer saber minha opinião. Não gosto daqui, para ser sincero. Consigo sentir a magia no ar e isso me dá náuseas.}{}{38}{}{}
 {286}{Mais algumas perguntas...}{}{1}{}{116}{}
 {287}{E:}{}{1}{}{0}{}
 {288}{O que eu sei sobre este lugar? Você deve estar brincando, o Clã da Roda é a minha casa! Eu sei tudo sobre este lugar.}{O que eu sei sobre este lugar? Você deve estar brincando, o Clã da Roda é a minha casa! Eu sei tudo sobre este lugar.}{}{39}{}{}
 {292}{K:}{}{1}{}{116}{}
 {293}{E:}{}{1}{}{0}{}
-{294}{[Loghaire range os dentes.] Tulla. Achei que me sentia enjoado em Qintarra, mas isso é quase insuportável. Não consigo aguentar toda essa magia. Estou começando a desejar que este lugar realmente fosse um mito.}{[Loghaire range os dentes.] Tulla. Achei que me sentia enjoado em Qintarra, mas isso é quase insuportável. Não consigo aguentar toda essa magia. Estou começando a desejar que este lugar realmente fosse um mito.}{}{40}{}{}
+{294}{[Loghaire range os dentes.] Tulla. Achei que me sentia mal em Qintarra, mas isso aqui é quase insuportável. Não aguento toda essa magia. Estou começando a desejar que esse lugar fosse mesmo um mito.}{[Loghaire range os dentes.] Tulla. Achei que me sentia mal em Qintarra, mas isso aqui é quase insuportável. Não aguento toda essa magia. Estou começando a desejar que esse lugar fosse mesmo um mito.}{}{40}{}{}
 {295}{K:}{}{1}{}{116}{}
 {296}{E:}{}{1}{}{0}{}
 {297}{[Loghaire parece furioso, à beira de ficar berserk.] Elfos Negros! Esta é a casa deles, [Ele cospe.] T'sen-Ang! Cuspo em vocês!}{[Loghaire parece furioso, à beira de ficar berserk.] Elfos Negros! Esta é a casa deles, [Ele cospe.] T'sen-Ang! Cuspo em vocês!}{}{41}{}{}
@@ -150,7 +150,7 @@
 {310}{Ha! [Ele dá um tapa nas suas costas.] Gostei do seu senso de humor, garoto! Não leve tão a sério, há uma pequena chance de sobrevivermos.}{Ha! [Ele dá um tapa nas suas costas.] Gostei do seu senso de humor, moça! Não leve tão a sério, há uma pequena chance de sobrevivermos.}{}{45}{}{}
 {311}{K:}{}{1}{}{116}{}
 {312}{E:}{}{1}{}{0}{}
-{313}{Dizem que as Terras Devastadas são a faixa de terra mais perigosa de todo o Arcanum.}{Dizem que as Terras Devastadas são a faixa de terra mais perigosa de todo o Arcanum.}{}{46}{}{}
+{313}{As Terras Devastadas deveriam ser a faixa de terra mais perigosa de todo o Arcanum.}{As Terras Devastadas deveriam ser a faixa de terra mais perigosa de todo o Arcanum.}{}{46}{}{}
 {314}{K:}{}{1}{}{116}{}
 {315}{E:}{}{1}{}{0}{}
 {316}{Eu sei que deveríamos estar procurando Arronax, mas não podemos esquecer do Clã da Montanha Negra. Só se eu encontrar uma maneira de devolvê-los ao Arcanum é que sentirei que comecei a reparar meu erro grave.}{Eu sei que deveríamos estar procurando Arronax, mas não podemos esquecer do Clã da Montanha Negra. Só se eu encontrar uma maneira de devolvê-los ao Arcanum é que sentirei que comecei a reparar meu erro grave.}{}{47}{}{}

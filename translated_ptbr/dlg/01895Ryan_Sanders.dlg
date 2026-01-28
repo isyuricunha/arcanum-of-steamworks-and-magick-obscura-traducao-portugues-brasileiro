@@ -2,11 +2,11 @@
 {2}{Saudações, bom senhor. Posso saber o seu nome?}{}{5}{lf1 0, re 41}{33}{}
 {3}{Isso foi muito indelicado.}{}{5}{lf1 0, re -40}{46}{}
 {4}{Eu o ofendi de alguma forma, Ryan?}{}{5}{lf1 1, lf2 0}{57}{}
-{5}{Olá novamente, Ryan. Poderia me conceder um pouco mais do seu tempo?}{}{5}{lf1 1, lf2 1,re 41}{62}{}
-{6}{Eu o ofendi de alguma forma, Ryan?}{}{5}{lf1 1, lf2 1, re -40}{53}{}
+{5}{Olá novamente, Ryan. Poderia me conceder um pouco mais do seu tempo?}{}{5}{lf1 1, lf2 1, lf3 0, re 41}{62}{}
+{6}{Eu o ofendi de alguma forma, Ryan?}{}{5}{lf1 1, lf2 1, lf3 0, re -40}{53}{}
 {8}{Olá novamente, Ryan. Poderia me conceder um pouco mais do seu tempo?}{}{5}{lf3 1, al 301}{171}{}
 {9}{Olá, Ryan. Mudei de ideia. Sobre aquele trabalho...}{}{5}{lf3 1, al-300}{107}{}
-{10}{Acho que poderia arranjar algo especial para o seu pai...}{}{5}{QU1136 1}{113}{}
+{10}{Acho que poderia arranjar uma coisinha especial para o seu pai...}{}{5}{QU1136 1}{113}{}
 {11}{Ainda não cuidei do assunto...}{}{5}{QU1136 2}{172}{}
 {12}{Cumpri nosso acordo. Gostaria de receber meu pagamento.}{}{5}{QU1136 3}{177}{al -100}
 {13}{Olá, Ryan. Tem mais algum trabalho para mim?}{}{5}{QU1136 4}{156}{}
@@ -14,7 +14,7 @@
 {18}{Ei, senhor. Qual é o seu nome?}{}{-4}{lf1 0, re 41}{33}{}
 {19}{Isso não foi legal...}{}{-4}{lf1 0, re -40}{46}{}
 {20}{Hã... Oi, Ryan. Eu pergunto uma coisa?}{}{-4}{lf1 1, lf2 0}{57}{}
-{21}{Hã... Oi, Ryan. Eu pergunto uma coisa?}{}{-4}{lf1 1, lf2 1}{62}{}
+{21}{Hã... Oi, Ryan. Eu pergunto uma coisa?}{}{-4}{lf1 1, lf2 1, lf3 0}{62}{}
 {22}{Hã... Oi, Ryan. Eu pergunto uma coisa?}{}{-4}{lf3 1, al 301}{171}{}
 {23}{Hã... Oi, Ryan. Eu penso mais em coisas... Você ainda tem trabalho?}{}{-4}{lf3 1, al-300}{107}{}
 {24}{Quiçá eu faça algo para o seu pai por você?}{}{-4}{QU1136 1}{113}{}
@@ -42,7 +42,7 @@
 {49}{Hã, tá bom. Qual é o seu nome?}{}{-4}{}{33}{}
 {50}{Você é malvado! Precisa morrer!}{}{-4}{}{}{co, fl 52}
 {51}{E:}{}{1}{}{0}{}
-{52}{Por que, seu mendigo desprezível... Vai morrer por seus insultos!}{Por que, seu mendigo desprezível... Você vai morrer por seus insultos!}{}{}{}{}
+{52}{Por que, seu mendigo desprezível... Você vai morrer por seus insultos!}{Por que, seu mendigo desprezível... Você vai morrer por seus insultos!}{}{}{}{}
 {53}{Você é tão facilmente manipulado, @pcname@... O que é que você quer?}{Você é tão facilmente manipulado, @pcname@... O que é que você quer?}{}{}{}{}
 {54}{Hmm... Tenho uma pergunta.}{}{5}{}{62}{}
 {55}{Vim lhe ensinar alguns modos... seu esnobe!}{}{5}{}{}{co, fl 52}
@@ -77,7 +77,7 @@
 {84}{"Era?" O que mudou agora?}{}{5}{}{87}{}
 {85}{O que aconteceu?}{}{-4}{}{87}{}
 {86}{E:}{}{1}{}{0}{}
-{87}{Ele sofreu um acidente há cerca de um ano. Quase o matou. [baixo] Que pena que não morreu... [volta a atenção para você] Desde então, ele se tornou um homem "mudado".}{Ele sofreu um acidente há cerca de um ano. Quase o matou. [baixo, entre dentes] Que pena que não o matou... [volta a atenção para você] Desde então, ele se tornou um homem "mudado".}{}{}{}{}
+{87}{Ele sofreu um acidente há cerca de um ano. Quase o matou. [baixo, entre dentes] Que pena que não o matou... [volta a atenção para você] Desde então, ele se tornou um homem "mudado".}{Ele sofreu um acidente há cerca de um ano. Quase o matou. [baixo, entre dentes] Que pena que não o matou... [volta a atenção para você] Desde então, ele se tornou um homem "mudado".}{}{}{}{}
 {88}{Mudado?}{}{5}{}{91}{}
 {89}{Hã?}{}{-4}{}{91}{}
 {90}{E:}{}{1}{}{0}{}
@@ -104,8 +104,8 @@
 {111}{Hã... tem trabalho pra mim?}{}{-4}{}{134}{}
 {112}{E:}{}{1}{}{0}{}
 {113}{Sim... acho que gostaria disso...}{Sim... acho que gostaria disso...}{}{}{}{}
-{114}{Hmmm... Isso seria muito benéfico para você...}{}{5}{}{117}{}
-{115}{Hmmm... isso seria bom pra você...}{}{-4}{}{117}{}
+{114}{Hmmm... Isso lhe beneficiaria muito...}{}{5}{}{117}{}
+{115}{Hmmm... isso deve ser bom pra você...}{}{-4}{}{117}{}
 {116}{E:}{}{1}{}{0}{}
 {117}{Sim. Sim, seria... [um sorriso malicioso se espalhando pelo rosto]}{Sim. Sim, seria... [um sorriso malicioso se espalhando pelo rosto]}{}{}{}{}
 {118}{Eu esperaria uma compensação apropriada.}{}{5}{}{121}{}

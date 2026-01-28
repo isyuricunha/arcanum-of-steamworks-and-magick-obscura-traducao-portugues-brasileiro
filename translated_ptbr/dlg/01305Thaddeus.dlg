@@ -5,7 +5,7 @@
 {5}{Com licença, eu estava apenas procurando algum trabalho.}{}{5}{re-39, ch16}{60}{re+15 }
 {6}{Preciso de um trabalho que dê dinheiro.}{}{-4}{}{46}{ }
 {7}{Acho que prefiro ficar por um tempo.}{}{5}{ch15}{31}{ }
-{8}{Essa é uma atitude bem rude de se ter.}{}{5}{ch-14}{26}{re-15 }
+{8}{Essa é uma atitude bem rude.}{}{5}{ch-14}{26}{re-15 }
 {9}{E:}{}{1}{}{0}{ }
 {16}{[Ele o observa como se estivesse decidindo algo.] Não tenho trabalho nenhum no momento. Tem algum motivo em especial para estar aqui me perguntando sobre emprego?}{[Ele o observa como se estivesse decidindo algo.] Não tenho trabalho nenhum no momento. Tem algum motivo em especial para estar aqui me perguntando sobre emprego?}{}{}{}{ }
 {17}{Não, estou apenas procurando ganhar o salário de um dia.}{}{5}{}{21}{ }
@@ -53,8 +53,8 @@
 {82}{E:}{}{1}{}{0}{ }
 {85}{Vou esmagar sua cabeça, seu idiota!}{Vou esmagar sua cabeça, sua vadia!}{}{}{}{ }
 {90}{Ei! Se não é o homem que fez o impossível! Invadindo a Bates'! Devo dizer que estou bem impressionado, garoto!}{Ei! Se não é a mulher que fez o impossível! Invadindo a Bates'! Devo dizer que estou bem impressionada, garota!}{}{}{}{ }
-{91}{Como soube disso?}{}{5}{}{98}{ }
-{92}{Deve ter me confundido com outra pessoa, receio.}{}{5}{}{115}{ }
+{91}{Como você soube disso?}{}{5}{}{98}{ }
+{92}{Acho que me confundiu com outra pessoa.}{}{5}{}{115}{ }
 {93}{Urgh?}{}{-4}{}{98}{ }
 {94}{Devo me retirar. Tenha um bom dia.}{}{1}{}{0}{ }
 {98}{Ora, ora, o Thaddeus tem seus métodos, ele tem mesmo!}{Ora, ora, o Thaddeus tem seus métodos, ele tem mesmo!}{}{}{}{ }
@@ -124,11 +124,11 @@
 {227}{Eles estão no departamento de água, na prefeitura, no número 87 da Avenida East End, logo depois da mansão dos Bates. Quando você trouxer os planos de volta, eu lhe darei 300 moedas. Boa sorte.}{Eles estão no departamento de água, na prefeitura, no número 87 da Avenida East End, logo depois da mansão dos Bates. Quando você trouxer os planos de volta, eu lhe darei 300 moedas. Boa sorte.}{}{}{}{lf11 1 }
 {228}{Acho que não estou interessado neste trabalho, afinal.}{}{5}{}{250}{lf10 1 }
 {229}{Aceito sua proposta. Voltarei com os planos. Bom dia.}{}{5}{ni5627}{0}{qu1067 2 }
-{230}{Aceito sua proposta. Voltarei com os planos. Bom dia.}{}{5}{in5627}{235}{qu1067 2 }
+{230}{Aceito sua proposta. Voltarei com os planos. Bom dia.}{}{5}{in5627, lf25 0}{235}{qu1067 2 }
 {231}{Eles estão no departamento de água, na prefeitura, no número 87 da Avenida East End, logo depois da mansão dos Bates. Quando você trouxer os planos de volta, eu o tornarei um membro pleno.}{Eles estão no departamento de água, na prefeitura, no número 87 da Avenida East End, logo depois da mansão dos Bates. Quando você trouxer os planos de volta, eu o tornarei um membro pleno.}{}{}{}{ }
 {232}{Acho que não estou interessado neste trabalho, afinal.}{}{5}{}{250}{lf10 1 }
 {233}{Aceito sua proposta. Voltarei com os planos. Bom dia.}{}{5}{ni5627}{0}{qu1067 2 }
-{234}{Aceito sua proposta. Voltarei com os planos. Bom dia.}{}{5}{in5627}{235}{qu1067 2 }
+{234}{Aceito sua proposta. Voltarei com os planos. Bom dia.}{}{5}{in5627, lf25 0}{235}{qu1067 2 }
 {235}{Ah, eu esqueci de perguntar se você estaria interessado em vender uma certa pintura que parece ter adquirido.}{Ah, eu esqueci de perguntar se você estaria interessado em vender uma certa pintura que parece ter adquirido.}{}{}{}{ }
 {236}{Como você soube disso?}{}{5}{}{245}{ }
 {237}{Claro. Quanto você está oferecendo?}{}{5}{}{255}{ }
@@ -141,32 +141,32 @@
 {250}{Que pena. Avise-me se mudar de ideia.}{Que pena. Avise-me se mudar de ideia.}{}{}{}{ }
 {251}{E:}{}{1}{}{0}{ }
 {255}{Eu poderia lhe dar, digamos, 300 moedas.}{Eu poderia lhe dar, digamos, 300 moedas.}{}{}{}{ }
-{256}{Combinado.}{}{5}{ha-11}{265}{in5627, lf11 1 }
+{256}{Combinado.}{}{5}{ha-11}{265}{in5627, lf25 1, lf11 1 }
 {257}{Ora, nós dois sabemos que isso vale mais do que isso.}{}{5}{ha12, ha-12}{267}{ }
 {258}{Ora, nós dois sabemos que isso vale mais do que isso.}{}{5}{ha13, ha-13}{273}{ }
 {259}{Ora, nós dois sabemos que isso vale mais do que isso.}{}{5}{ha14}{279}{ }
-{260}{Tá.}{}{-4}{ha-11}{265}{in5627, lf11 1 }
+{260}{Tá.}{}{-4}{ha-11}{265}{in5627, lf 25 1, lf11 1 }
 {261}{Eu quero mais.}{}{-4}{ha12, ha-12}{267}{ }
 {262}{Eu quero mais.}{}{-4}{ha13, ha-13}{273}{ }
 {263}{Eu quero mais.}{}{-4}{ha14}{279}{ }
 {264}{N:}{}{1}{}{250}{lf6 1  }
 {265}{Veja só, eu disse que se associar conosco seria lucrativo. A gente se vê por aí, hein?}{Veja só, eu disse que se associar conosco seria lucrativo. A gente se vê por aí, hein?}{}{}{}{$$300 }
 {266}{E:}{}{1}{}{0}{ }
-{267}{Você é esperto, hein. Tá bom, eu te dou 350.}{Você é esperto, hein. Tá bom, eu te dou 350.}{}{}{}{ }
-{268}{Combinado.}{}{5}{}{271}{in5627 }
-{269}{Tá.}{}{-4}{}{271}{in5627 }
+{267}{Você é esperto, hein. Tudo bem, vou te dar 350.}{Você é esperto, hein. Tudo bem, vou te dar 350.}{}{}{}{ }
+{268}{Combinado.}{}{5}{}{271}{in5627, lf25 1 }
+{269}{Tá.}{}{-4}{}{271}{in5627, lf25 1 }
 {270}{N:}{}{1}{}{250}{lf7 1 }
 {271}{Veja só, eu disse que se associar conosco seria lucrativo. A gente se vê por aí, hein?}{Veja só, eu disse que se associar conosco seria lucrativo. A gente se vê por aí, hein?}{}{}{}{$$350 }
 {272}{E:}{}{1}{}{0}{ }
-{273}{Você é esperto, hein. Tá bom, eu te dou 400.}{Você é esperto, hein. Tá bom, eu te dou 400.}{}{}{}{ }
-{274}{Combinado.}{}{5}{}{277}{in5627 }
-{275}{Tá.}{}{-4}{}{277}{in5627 }
+{273}{Você é esperto, hein. Tudo bem, vou te dar 400.}{Você é esperto, hein. Tudo bem, vou te dar 400.}{}{}{}{ }
+{274}{Combinado.}{}{5}{}{277}{in5627, lf25 1 }
+{275}{Tá.}{}{-4}{}{277}{in5627, lf25 1 }
 {276}{N:}{}{1}{}{250}{lf8 1 }
 {277}{Veja só, eu disse que se associar conosco seria lucrativo. A gente se vê por aí, hein?}{Veja só, eu disse que se associar conosco seria lucrativo. A gente se vê por aí, hein?}{}{}{}{$$400 }
 {278}{E:}{}{1}{}{0}{ }
-{279}{Você é esperto, hein. Tá bom, eu te dou 450.}{Você é esperto, hein. Tá bom, eu te dou 450.}{}{}{}{ }
-{280}{Combinado.}{}{5}{}{283}{in5627 }
-{281}{Tá.}{}{-4}{}{283}{in5627 }
+{279}{Você é esperto, hein. Tudo bem, vou te dar 450.}{Você é esperto, hein. Tudo bem, vou te dar 450.}{}{}{}{ }
+{280}{Combinado.}{}{5}{}{283}{in5627, lf25 1 }
+{281}{Tá.}{}{-4}{}{283}{in5627, lf25 1 }
 {282}{N:}{}{1}{}{250}{lf9 1 }
 {283}{Veja só, eu disse que se associar conosco seria lucrativo. A gente se vê por aí, hein?}{Veja só, eu disse que se associar conosco seria lucrativo. A gente se vê por aí, hein?}{}{}{}{$$450 }
 {284}{E:}{}{1}{}{0}{ }
@@ -184,7 +184,7 @@
 {299}{Mais algum trabalho?}{}{1}{le18, qb1039 2, gf1009 0, gf1012 0}{750}{ }
 {300}{Mais algum trabalho?}{}{1}{le-17, gf1009 1}{422}{ }
 {301}{Mais algum trabalho?}{}{1}{le18, gf1009 1}{427}{ }
-{302}{Tem mais algum trabalho disponível?}{}{5}{le-17, qa1039 4, gf1009 0}{422}{ }
+{302}{Ainda há mais trabalhos para pegar?}{}{5}{le-17, qa1039 4, gf1009 0}{422}{ }
 {303}{Mais algum trabalho?}{}{1}{le18, qb1039 2, gf1009 0, gf1012 1}{427}{ }
 {304}{Mais algum trabalho?}{}{1}{le18, qa1039 4, gf1009 0}{427}{ }
 {306}{E:}{}{1}{}{0}{ }
@@ -202,12 +202,12 @@
 {320}{N:}{}{1}{}{322}{lf14 1 }
 {322}{Tudo bem, se é assim que você se sente. Volte se mudar de ideia.}{Tudo bem, se é assim que você se sente. Volte se mudar de ideia.}{}{}{}{ }
 {323}{E:}{}{1}{}{0}{ }
-{327}{Tenho uma coisa, não é exatamente um dos nossos trabalhos, é só um pedido externo. Cedric Appleby quer que algo seja roubado da casa de Gilbert Bates. Ele tem a chave de algum tipo de entrada secreta na casa dos Bates. Heh, Appleby odeia aquele sujeito com todas as forças. Ele mora na Rua Baixo Dervish, 29, se estiver interessado.}{Tenho uma coisa, não é exatamente um dos nossos trabalhos, é só um pedido externo. Cedric Appleby quer que algo seja roubado da casa de Gilbert Bates. Ele tem a chave de algum tipo de entrada secreta na casa dos Bates. Heh, Appleby odeia aquele sujeito com todas as forças. Ele mora na Rua Baixo Dervish, 29, se estiver interessado.}{}{}{}{ru2195 }
+{327}{Tenho uma coisa, não é exatamente um dos nossos trabalhos, só um pedido externo. Cedric Appleby quer que algo seja roubado da casa de Gilbert Bates. Ele tem a chave para algum tipo de entrada secreta na casa dos Bates. Heh, Appleby odeia aquele sujeito com todas as forças. Ele mora na Rua Low Dervish, número 29, se você estiver interessado.}{Tenho uma coisa, não é exatamente um dos nossos trabalhos, só um pedido externo. Cedric Appleby quer que algo seja roubado da casa de Gilbert Bates. Ele tem a chave para algum tipo de entrada secreta na casa dos Bates. Heh, Appleby odeia aquele sujeito com todas as forças. Ele mora na Rua Low Dervish, número 29, se você estiver interessado.}{}{}{}{ru2195 }
 {328}{Vou tentar.}{}{5}{}{337}{gf1006 1 }
 {329}{Tá.}{}{-4}{}{337}{gf1006 1 }
-{330}{Não acho que seja comigo. Chantagem não é minha praia. Tem outros trabalhos?}{}{5}{}{332}{gf1006 1 }
+{330}{Não acho que seja minha praia. Tem mais algum trabalho?}{}{5}{}{332}{gf1006 1 }
 {331}{Não. Não quero outro trabalho.}{}{-4}{}{332}{gf1006 1 }
-{332}{Não é para alguém com seu nível de experiência. Você vai ter que aprimorar suas habilidades um pouco mais antes de encarar alguns desses outros trabalhos que tenho.}{Não é para alguém com seu nível de experiência. Você vai ter que aprimorar suas habilidades um pouco mais antes de encarar alguns desses outros trabalhos que tenho.}{}{}{}{ }
+{332}{Não é para alguém com o seu nível de habilidade. Você vai ter que aprimorar suas habilidades um pouco mais antes de encarar alguns desses outros trabalhos que tenho.}{Não é para alguém com o seu nível de habilidade. Você vai ter que aprimorar suas habilidades um pouco mais antes de encarar alguns desses outros trabalhos que tenho.}{}{}{}{ }
 {333}{Hmm. Nesse caso, vou aceitar o trabalho do Appleby.}{}{5}{}{337}{ }
 {334}{Tudo bem. Eu trabalho pro rapaz Appleby.}{}{-4}{}{337}{ }
 {335}{Voltarei mais tarde, então.}{}{5}{}{0}{lf15 1 }
@@ -217,14 +217,14 @@
 {352}{Você voltou.}{Você voltou.}{}{}{}{ }
 {354}{Sim, tem algo a dizer sobre isso?}{}{5}{qu1039 4, gf1067 0}{412}{re +15 }
 {355}{Urgh?}{}{-4}{qu1039 4, gf1067 0}{412}{re +15 }
-{356}{Decidi vender o quadro para você.}{}{5}{lf6 1, in5627}{442}{ }
-{357}{Decidi vender o quadro para você.}{}{5}{lf7 1, in5627}{448}{ }
-{358}{Decidi vender o quadro para você.}{}{5}{lf8 1, in5627}{454}{ }
-{359}{Decidi vender o quadro para você.}{}{5}{lf9 1, in5627}{460}{ }
-{360}{Eu vendo quadro para você.}{}{-4}{lf6 1, in5627}{442}{ }
-{361}{Eu vendo quadro para você.}{}{-4}{lf7 1, in5627}{448}{ }
-{362}{Eu vendo quadro para você.}{}{-4}{lf8 1, in5627}{454}{ }
-{363}{Eu vendo quadro para você.}{}{-4}{lf9 1, in5627}{460}{ }
+{356}{Decidi vender o quadro para você.}{}{5}{lf6 1, in5627, lf25 0}{442}{in5627, lf25 1 }
+{357}{Decidi vender o quadro para você.}{}{5}{lf7 1, in5627, lf25 0}{448}{in5627, lf25 1 }
+{358}{Decidi vender o quadro para você.}{}{5}{lf8 1, in5627, lf25 0}{454}{in5627, lf25 1 }
+{359}{Decidi vender o quadro para você.}{}{5}{lf9 1, in5627, lf25 0}{460}{in5627, lf25 1 }
+{360}{Eu vendo quadro para você.}{}{-4}{lf6 1, in5627, lf25 0}{442}{in5627, lf25 1 }
+{361}{Eu vendo quadro para você.}{}{-4}{lf7 1, in5627, lf25 0}{448}{in5627, lf25 1 }
+{362}{Eu vendo quadro para você.}{}{-4}{lf8 1, in5627, lf25 0}{454}{in5627, lf25 1 }
+{363}{Eu vendo quadro para você.}{}{-4}{lf9 1, in5627, lf25 0}{460}{in5627, lf25 1 }
 {364}{Tem certeza de que não tem nenhum trabalho para mim?}{}{5}{lf1 1, lf10 0, lf3 0, qb1062 2, qb1039 2}{0}{fl 468}
 {365}{Só passei para dar um oi.}{}{5}{lf1 1, lf10 0, lf3 0, qu1062 4, qb1039 2}{472}{ }
 {366}{Tem algum trabalho pago para mim?}{}{-4}{lf1 1, lf10 0, lf3 0, qb1062 2, qb1039 2}{0}{fl 468}
@@ -254,18 +254,18 @@
 {394}{Decidi me juntar à sua... "organização".}{}{5}{lf4 1, lf10 0, qu1067 0, qu1039 4}{192}{ }
 {395}{Eu quero ser subterrâneo! Quero ser desgrenhado!}{}{-4}{lf4 1, lf10 0, qu1067 0, qu1039 4}{192}{ }
 {396}{Tem algum trabalho para mim?}{}{5}{le-17, qb1039 2, gf1009 0, ss2, gf1012 0, rp1001}{327}{ }
-{397}{Quanto você me pagaria por este quadro?}{}{5}{rp1001, in5627}{255}{ }
-{398}{Tem algum trabalho para mim?}{}{-4}{le-17, qb1039 2, gf1009 0, ss2, gf1012 0, rp1001}{327}{ }
-{399}{O que você me dá por esta pintura?}{}{-4}{rp1001, in5627}{255}{ }
+{397}{Quanto você me pagaria por este quadro?}{}{5}{rp1001, in5627, lf25 0}{255}{ }
+{398}{Você tem trabalhos para mim?}{}{-4}{le-17, qb1039 2, gf1009 0, ss2, gf1012 0, rp1001}{327}{ }
+{399}{O que você me dá por esta pintura?}{}{-4}{rp1001, in5627, lf25 0}{255}{ }
 {401}{E:}{}{1}{}{0}{ }
 {402}{Excelente. Aqui está sua moeda. Bem feito, parceiro. Bem feito. E agora que você é um dos nossos, acho que deveria mencionar que tem um receptador na 11 Low Dervish Road, perto de Devonshire. Se algum dia precisar se livrar de alguns itens quentes, esse é o lugar. Bom lugar para comprar também.}{Excelente. Aqui está sua moeda. Bem feito, senhorita. Bem feito. E agora que você é uma dos nossos, acho que deveria mencionar que tem um receptador na 11 Low Dervish Road, perto de Devonshire. Se algum dia precisar se livrar de alguns itens quentes, esse é o lugar. Bom lugar para comprar também.}{}{}{}{rp1001, qu1067 4, in5222, ru2158 }
-{403}{Tem mais algum trabalho?}{}{1}{le-17, qb1039 2, gf1009 0, ss2, gf1012 0}{327}{ }
-{404}{Tem mais algum trabalho?}{}{1}{le18, qb1039 2, gf1009 0, gf1012 0}{750}{ }
-{405}{Tem mais algum trabalho?}{}{1}{le-17, gf1009 1}{422}{ }
-{406}{Tem mais algum trabalho?}{}{1}{le18, gf1009 1}{427}{ }
-{407}{Ainda há mais trabalhos a serem feitos?}{}{5}{le-17, qa1039 4, gf1009 0}{422}{ }
-{408}{Tem mais algum trabalho?}{}{1}{le18, qb1039 2, gf1009 0, gf1012 1}{427}{ }
-{409}{Tem mais algum trabalho?}{}{1}{le18, qa1039 4, gf1009 0}{427}{ }
+{403}{Mais algum trabalho?}{}{1}{le-17, qb1039 2, gf1009 0, ss2, gf1012 0}{327}{ }
+{404}{Mais algum trabalho?}{}{1}{le18, qb1039 2, gf1009 0, gf1012 0}{750}{ }
+{405}{Mais algum trabalho?}{}{1}{le-17, gf1009 1}{422}{ }
+{406}{Mais algum trabalho?}{}{1}{le18, gf1009 1}{427}{ }
+{407}{Ainda há mais trabalhos para pegar?}{}{5}{le-17, qa1039 4, gf1009 0}{422}{ }
+{408}{Mais algum trabalho?}{}{1}{le18, qb1039 2, gf1009 0, gf1012 1}{427}{ }
+{409}{Mais algum trabalho?}{}{1}{le18, qa1039 4, gf1009 0}{427}{ }
 {411}{E:}{}{1}{}{0}{ }
 {412}{[Este homem robusto olha para você por um momento, como se estivesse considerando a melhor forma de causar a maior dor possível. Lentamente, um largo sorriso se espalha pelo seu rosto.] Invadir a Bates'! Devo dizer que estou realmente impressionado, garoto! Fazendo o impossível!}{[Este homem robusto olha para você por um momento, como se estivesse considerando a melhor forma de causar a maior dor possível. Lentamente, um largo sorriso se espalha pelo seu rosto.] Invadir a Bates'! Devo dizer que estou realmente impressionada, garota! Fazendo o impossível!}{}{}{}{ }
 {413}{Como você soube disso?}{}{5}{}{98}{ }
@@ -275,9 +275,9 @@
 {422}{Não é para alguém com o seu nível de habilidade. Você vai ter que aprimorar suas habilidades um pouco mais antes de encarar alguns desses outros trabalhos que tenho.}{Não é para alguém com o seu nível de habilidade. Você vai ter que aprimorar suas habilidades um pouco mais antes de encarar alguns desses outros trabalhos que tenho.}{}{}{}{ }
 {423}{E:}{}{1}{}{0}{ }
 {427}{Na verdade, há um bem perigoso, se estiver disposto a esse tipo de coisa.}{Na verdade, há um bem perigoso, se estiver disposto a esse tipo de coisa.}{}{}{}{ }
-{428}{O perigo não é uma preocupação, desde que o preço esteja certo.}{}{5}{}{540}{ }
+{428}{Perigo não é problema, contanto que o preço esteja certo.}{}{5}{}{540}{ }
 {429}{Eu querer dinheiro emprego.}{}{-4}{}{540}{ }
-{431}{Eu não quero perigo. Vou embora.}{}{-4}{}{0}{lf19 1 }
+{431}{Eu não quero encrenca. Vou embora.}{}{-4}{}{0}{lf19 1 }
 {432}{Prefiro manter minha pele inteira, obrigado. Tenha um bom dia.}{}{5}{}{0}{lf19 1 }
 {442}{Veja, eu disse que se associar conosco seria lucrativo.}{Veja, eu disse que se associar conosco seria lucrativo. Vejo você quando voltar com os planos.}{}{}{}{$$300 }
 {443}{Eu também tenho seus planos.}{}{5}{in5222}{286}{ }
@@ -337,11 +337,11 @@
 {522}{Mais algum trabalho?}{}{1}{le18, qb1039 2, gf1009 0, gf1012 0}{750}{ }
 {523}{Mais algum trabalho?}{}{1}{le-17, gf1009 1}{422}{ }
 {524}{Mais algum trabalho?}{}{1}{le18, gf1009 1}{427}{ }
-{525}{Há mais algum trabalho para conseguir?}{}{5}{le-17, qa1039 4, gf1009 0}{422}{ }
+{525}{Ainda há mais trabalhos para pegar?}{}{5}{le-17, qa1039 4, gf1009 0}{422}{ }
 {526}{Mais algum trabalho?}{}{1}{le18, qb1039 2, gf1009 0, gf1012 1}{427}{ }
 {527}{Mais algum trabalho?}{}{1}{le18, qa1039 4, gf1009 0}{427}{ }
-{528}{O receptador estaria interessado neste quadro?}{}{5}{rp1001, in5627}{255}{ }
-{529}{Receptador quer quadro?}{}{-4}{rp1001, in5627}{255}{ }
+{528}{O receptador estaria interessado neste quadro?}{}{5}{rp1001, in5627, lf25 0}{255}{ }
+{529}{Receptador quer quadro?}{}{-4}{rp1001, in5627, lf25 0}{255}{ }
 {539}{E:}{}{1}{}{0}{ }
 {540}{Sempre, meu amigo, o preço está sempre certo quando se trata com Thaddeus. 1000 moedas devem resolver, não acha?}{Sempre, meu amigo, o preço está sempre certo quando se trata com Thaddeus. 1000 moedas devem resolver, não acha?}{}{}{}{ }
 {541}{Esse é um valor aceitável.}{}{5}{ha-16}{590}{lf20 1 }
@@ -363,7 +363,7 @@
 {580}{Ah, eu tinha esquecido que estava lidando com um negociador astuto. 2000 então.}{Ah, eu tinha esquecido que estava lidando com um negociador astuto. 2000 então.}{}{}{}{ }
 {581}{Qual é o trabalho?}{}{5}{}{590}{ }
 {582}{Qual é o trampo?}{}{-4}{}{590}{ }
-{590}{Como eu disse, é um trabalho perigoso. Já ouviu falar dos Bárbaros de Kree?}{Como eu disse, é uma missão perigosa. Já ouviu falar dos Bárbaros de Kree?}{}{}{}{lf19 0 }
+{590}{Como eu disse, é uma missão perigosa. Já ouviu falar dos Bárbaros de Kree?}{Como eu disse, é uma missão perigosa. Já ouviu falar dos Bárbaros de Kree?}{}{}{}{lf19 0 }
 {591}{H.T. Parnell me contou um pouco sobre eles, mas não muito.}{}{5}{gf2264 1}{600}{ }
 {592}{Aquele boboca do museu me contou sobre eles.}{}{-4}{gf2264 1}{600}{ }
 {593}{Não, nunca ouvi falar.}{}{5}{gf2264 0}{600}{ }
@@ -389,7 +389,7 @@
 {647}{Tenho o ídolo dos Bárbaros.}{}{5}{qu1107 2, in5661}{720}{ }
 {648}{Quero aquele trabalho perigoso que você mencionou, pelo pagamento certo.}{}{5}{ lf19 1}{540}{ }
 {649}{Tem mais algum trabalho disponível?}{}{5}{qu1107 0, lf19 0, le18}{427}{ }
-{650}{Quero outro trabalho.}{}{-4}{qu1107 0, lf19 0, le18}{427}{ }
+{650}{Não quero outro trabalho.}{}{-4}{qu1107 0, lf19 0, le18}{427}{ }
 {651}{Não quero outro trabalho.}{}{-4}{qu1107 4}{670}{ }
 {652}{Consegui um mapa!}{}{-4}{qa1067 1, in5222}{680}{ }
 {653}{Quero ser ladrão.}{}{-4}{qu1067 0}{202}{ }
@@ -399,13 +399,13 @@
 {657}{Quero um trabalho perigoso. Por dinheiro.}{}{-4}{lf19 1}{540}{ }
 {658}{Não quero outro trabalho.}{}{-4}{qu1067 4, le-17, ru2195}{422}{ }
 {659}{Tem algum trabalho para mim?}{}{5}{le-17, qb1039 2, gf1009 0, ss2, gf1012 0, rp1001, ru-2195}{327}{ }
-{660}{Você estaria interessado em comprar esta pintura?}{}{5}{rp1001, in5627}{255}{ }
+{660}{Você estaria interessado em comprar esta pintura?}{}{5}{rp1001, in5627, lf25 0}{255}{ }
 {661}{Você tem trabalhos para mim?}{}{-4}{le-17, qb1039 2, gf1009 0, ss2, gf1012 0, rp1001, ru-2195}{327}{ }
-{662}{Você quer esta pintura aqui?}{}{-4}{rp1001, in5627}{255}{ }
+{662}{Você quer esta pintura aqui?}{}{-4}{rp1001, in5627, lf25 0}{255}{ }
 {669}{E:}{}{1}{}{0}{ }
 {670}{Desculpe, parceiro, parece que estamos passando por uma seca por aqui. Nossos ladrões são bons demais. Talvez outras cidades tenham alguns trabalhos, não ouvi nada recentemente.}{Desculpe, senhorita, parece que estamos passando por uma seca por aqui. Nossos ladrões são bons demais. Talvez outras cidades tenham alguns trabalhos, não ouvi nada recentemente.}{}{}{}{ }
 {671}{E:}{}{1}{}{0}{ }
-{680}{Excelente! Qual foi o preço que combinamos?}{Excelente! Qual foi o preço que combinamos?}{}{}{}{ }
+{680}{Excelente! Qual foi o preço que combinamos, então?}{Excelente! Qual foi o preço que combinamos, então?}{}{}{}{ }
 {681}{300 foi o preço que combinamos.}{}{5}{lf11 1}{700}{$$300, in5222 }
 {682}{400 foi o preço que combinamos.}{}{5}{lf12 1}{700}{$$400, in5222 }
 {683}{450 foi o preço que combinamos.}{}{5}{lf13 1}{700}{$$450, in5222 }

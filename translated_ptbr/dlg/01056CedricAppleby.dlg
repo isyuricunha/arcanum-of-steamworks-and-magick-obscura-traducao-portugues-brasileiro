@@ -13,7 +13,7 @@
 {16}{O senhor é o Sr. Bates, certo?}{}{-4}{me 1}{415}{ }
 {19}{E:}{}{1}{}{0}{ }
 {20}{Minha insatisfação seria imensurável se eu acreditasse que você realmente não conhece o gênio de Cedric Appleby. Poucos podem desfrutar da minha presença e não se sentirem humildes.}{Minha insatisfação seria imensurável se eu acreditasse que você realmente não conhece o gênio de Cedric Appleby. Poucos podem desfrutar da minha presença e não se sentirem humildes.}{}{}{}{ }
-{21}{Eu não fazia ideia de que o senhor era O Cedric Appleby.}{}{5}{}{80}{ }
+{21}{Eu não fazia ideia de que você era O Cedric Appleby.}{}{5}{}{80}{ }
 {22}{Gostaria de falar com você sobre um ou dois assuntos, se me permite.}{}{5}{}{30}{ }
 {23}{Sua opinião sobre si mesmo é tão avassaladora quanto seu gênio.}{}{5}{ch13}{390}{ }
 {24}{Poucos conseguem desfrutar de sua presença sem sentir náuseas.}{}{5}{}{395}{ }
@@ -28,8 +28,8 @@
 {34}{Tenho algo que pode lhe interessar.}{}{5}{in 5202, qb1039 1}{485}{ }
 {35}{Não tenho tempo para conversa fiada, estou procurando um trabalho.}{}{5}{qu1041 0}{130}{ }
 {36}{Preciso entrar na casa de Bates para falar com ele. Pode me ajudar?}{}{5}{qu1041 0}{150}{lf3 1 }
-{37}{Decidi aceitar sua "oferta".}{}{5}{qu1041 1, qa1040 1}{210}{qu1041 2, qu1040 6 }
-{38}{Decidi aceitar sua "oferta".}{}{5}{qu1041 1, qu1040 0}{210}{qu1041 2 }
+{37}{Decidi aceitar sua "oferta".}{}{5}{qu1041 1, qa1040 1}{210}{qu1041 2, lf2 1, qu1040 6}
+{38}{Decidi aceitar sua "oferta".}{}{5}{qu1041 1, qu1040 0}{210}{qu1041 2, lf2 1}
 {39}{F:}{}{5}{}{0}{ }
 {40}{Desculpe meu comportamento obstreperoso, senhor. Devo tê-lo confundido com... outra pessoa. Sou Cedric Appleby, certamente já ouviu falar do meu nome e das minhas realizações.}{Desculpe meu comportamento obstreperoso, senhora. Devo tê-la confundido com... outra pessoa.}{}{}{}{ }
 {41}{Eu não fazia ideia de que você era O Cedric Appleby.}{}{5}{}{80}{ }
@@ -50,7 +50,7 @@
 {79}{E:}{}{5}{}{0}{ }
 {80}{Está correto, senhor. Cedric Appleby. Erudito, cavalheiro, empresário e proprietário da segunda maior empresa de motores a vapor de toda Tarant.}{Está correto, senhora. Cedric Appleby. Erudito, cavalheiro, empresário e proprietário da segunda maior empresa de motores a vapor de toda Tarant.}{}{}{}{ }
 {81}{O que você sabe sobre Gilbert Bates?}{}{5}{lf1 0}{100}{lf1 1 }
-{82}{Segunda maior? Por que não é a maior?}{}{5}{}{90}{ }
+{82}{O segundo maior? Por que não é o maior?}{}{5}{}{90}{ }
 {83}{É uma afirmação e tanto, já que só existem duas, seu tolo pomposo.}{}{5}{}{395}{re -15 }
 {89}{E:}{}{5}{}{0}{ }
 {90}{É aquele maldito charlatão Bates, sendo aclamado como herói... Hah! Cuspo nele! Sua inteligência não passa da de um mosquito comparada à minha!}{É aquele maldito charlatão Bates, sendo aclamado como herói... Hah! Cuspo nele! Sua inteligência não passa da de um mosquito comparada à minha!}{}{}{}{ }
@@ -72,7 +72,7 @@
 {129}{Então deixarei você com suas fantasias.}{}{5}{}{0}{ }
 {130}{Não tenho certeza se você é digno da minha confiança. A confiança de Cedric Appleby não é algo fácil de se obter, pois consigo ler a maioria dos homens como se fossem um livro aberto.}{Não tenho certeza se você é digno da minha confiança. A confiança de Cedric Appleby não é algo fácil de se obter, pois consigo ler a maioria dos homens como se fossem um livro aberto.}{}{}{}{ }
 {131}{Garanto que pode confiar em mim.}{}{5}{}{140}{ }
-{138}{Consegue ler meu completo desgosto e ódio por você?}{}{5}{}{0}{fl 660 ,co}
+{138}{Dá para ler o meu profundo nojo e ódio por você?}{}{5}{}{0}{fl 660 ,co}
 {139}{Se é assim que se sente, então irei embora.}{}{5}{}{0}{ }
 {140}{Veremos o que veremos. Você estaria interessado em provar que posso confiar em você?}{Veremos o que veremos. Você estaria interessado em provar que posso confiar em você?}{}{}{}{ }
 {141}{Sim, desde que você consiga me levar até a casa dele.}{}{5}{lf3 1}{160}{ }
@@ -100,7 +100,7 @@
 {191}{Aceito sua proposta. [Mentira]}{}{5}{}{210}{lf2 1 }
 {192}{Aceito sua proposta. [Verdade]}{}{5}{}{210}{qu1041 2, lf2 1, qu1040 6 }
 {198}{Vamos ver se você consegue acompanhar meu raciocínio. Eu corto você, você sangra.}{}{5}{}{0}{fl 660 ,co}
-{199}{Vou ter que refletir mais sobre isso. Tenha um bom dia.}{}{5}{}{0}{ }
+{199}{Preciso refletir mais sobre isso. Tenha um bom dia.}{}{5}{}{0}{ }
 {200}{Claro que eu poderia conseguir sua entrada na casa de Gilbert Bates, posso fazer qualquer coisa que eu queira. Mas por que você gostaria de se encontrar com aquele ladrão ignorante?}{Claro que eu poderia conseguir sua entrada na casa de Gilbert Bates, posso fazer qualquer coisa que eu queira. Mas por que você gostaria de se encontrar com aquele ladrão ignorante?}{}{}{}{ }
 {201}{Minhas razões são minhas. Como vamos expô-lo?}{}{5}{}{190}{ }
 {202}{Dizer a ele que você está tentando destruí-lo, é claro.}{}{5}{ch 13}{220}{ }
@@ -118,7 +118,7 @@
 {242}{Bem, eu sou a mulher certa para esse trabalho, se estiver interessada.}{0}{5}{}{250}{ }
 {243}{Sim, eu teria que concordar. Posso lhe fazer uma pergunta?}{}{5}{}{30}{ }
 {249}{Bem, isso me exclui. Tenha um bom dia.}{}{5}{}{0}{ }
-{250}{Eu estaria muito interessado. Você sabe no que o trabalho consiste?}{Eu estaria muito interessada. Você sabe no que o trabalho consiste?}{}{}{}{ }
+{250}{Eu estaria muito interessada. Você sabe no que o trabalho consiste?}{Eu estaria muito interessada. Você sabe no que o trabalho consiste?}{}{}{}{ }
 {251}{Tenho uma ideia vaga. Talvez você possa me dar mais informações.}{}{5}{}{290}{ }
 {252}{Y:}{}{5}{}{310}{ }
 {260}{Ah, é mesmo? Acontece que tenho um trabalho que pode ser perfeito para você.}{Ah, é mesmo? Acontece que tenho um trabalho que pode ser perfeito para você.}{}{}{}{ }
@@ -129,7 +129,7 @@
 {281}{Onde fica esse corredor?}{}{5}{}{290}{ }
 {282}{Parece difícil demais para mim. Vou aceitar o trabalho de sabotador. [Verdade]}{}{5}{}{210}{qu1041 2, lf2 1, qu1040 6 }
 {283}{Parece difícil demais para mim. Vou aceitar o trabalho de sabotador. [Mentira]}{}{5}{}{210}{lf2 1 }
-{289}{Preciso pensar sobre isso. Tenha um bom dia.}{}{5}{}{0}{ }
+{289}{Vou ter que pensar sobre isso. Tenha um bom dia.}{}{5}{}{0}{ }
 {290}{A entrada para o corredor da casa de Bates está escondida na cripta dos Bates, no centro do cemitério de Tarant. Preciso que você traga qualquer evidência incriminadora que encontrar.}{A entrada para o corredor da casa de Bates está escondida na cripta dos Bates, no centro do cemitério de Tarant. Preciso que você traga qualquer evidência incriminadora que encontrar.}{}{}{}{ }
 {291}{Vou fazer isso. [Mentira]}{}{5}{}{310}{lf2 1 }
 {292}{Vou fazer isso. [Verdade]}{}{5}{}{310}{qu1039 2, lf2 1 }
@@ -152,7 +152,7 @@
 {332}{Hã?}{}{-4}{}{340}{ }
 {339}{Eu ir?}{}{-4}{}{0}{ }
 {340}{Hmm. Isso vai exigir uma quantidade considerável de intelecto para transmitir meus pensamentos complexos a alguém como você. Por sorte, estou mais do que à altura da tarefa.}{Hmm. Isso vai exigir uma quantidade considerável de intelecto para transmitir meus pensamentos complexos a alguém como você. Por sorte, estou mais do que à altura da tarefa.}{}{}{}{ }
-{341}{Precisa falar com Bates? Ajuda?}{}{-4}{gf1009 0}{350}{ }
+{341}{Precisa falar com o Bates? Ajuda?}{}{-4}{gf1009 0}{350}{ }
 {343}{Você é burro como eu. Bates é esperto.}{}{-4}{}{423}{ }
 {349}{E:}{}{-4}{}{0}{ }
 {350}{Poderei conseguir sua entrada na menos que humilde residência de Bates, mas primeiro, você deve realizar uma pequena tarefa para mim.}{Poderei conseguir sua entrada na menos que humilde residência de Bates, mas primeiro, você deve realizar uma pequena tarefa para mim.}{}{}{}{ }
@@ -163,8 +163,8 @@
 {361}{Precisa falar com o Bates? Ajuda?}{}{-4}{gf1009 0}{370}{ }
 {369}{tchau.}{}{-4}{}{0}{ }
 {370}{EXPLODE A MÁQUINA, EU TE DEIXO ENTRAR!}{EXPLODE A MÁQUINA, EU TE DEIXO ENTRAR!}{}{}{}{qu1041 1, lf2 1 }
-{371}{Tá bom. [Mentira]}{}{-4}{gf1019 0}{380}{ }
-{372}{Tá bom. [Verdade]}{}{-4}{gf1019 0}{380}{qu1041 2, qu1040 6 }
+{371}{Tá bom. [Mentira]}{}{-4}{gf1019 0}{380}{lf2 1}
+{372}{Tá bom. [Verdade]}{}{-4}{gf1019 0}{380}{qu1041 2, lf2 1, qu1040 6}
 {373}{Eu fiz isso.}{}{-4}{gf1019 1}{440}{ }
 {378}{Seu bobinho burro. Bates é inteligente.}{}{-4}{}{0}{fl 660 ,co}
 {379}{E:}{}{-4}{}{0}{ }
@@ -206,8 +206,8 @@
 {437}{Isso seria o... ahem... negócio do protótipo, correto?}{Isso seria o... ahem... negócio do protótipo, correto?}{}{}{}{ }
 {438}{Y:}{}{5}{}{440}{qu1041 4 }
 {440}{He he he. Você terá que desculpar minha risadinha, este é um momento doce para mim. 300 peças de ouro para você, satisfação para mim.}{He he he. Você terá que desculpar minha risadinha, este é um momento doce para mim. 300 peças de ouro para você, satisfação para mim.}{}{}{}{$$300 }
-{441}{Agora que fiz seu trabalho, você pode me deixar entrar na casa do Bates?}{}{5}{lf3 0, in -2805}{450}{ }
-{442}{Agora você vai me deixar entrar na casa do Bates?}{}{5}{lf3 1, in  -2805}{450}{ }
+{441}{Agora que fiz o seu trabalho, pode me ajudar a entrar na casa do Bates?}{}{5}{lf3 0, in -2805}{450}{ }
+{442}{Agora você vai me ajudar a entrar na casa do Bates?}{}{5}{lf3 1, in  -2805}{450}{ }
 {443}{Eu na casa do Bates?}{}{-4}{in -2805}{450}{ }
 {444}{Eu na casa do Bates?}{}{-4}{ni -2805}{661}{ }
 {445}{Agora que fiz o seu trabalho, pode me ajudar a entrar na casa do Bates?}{1}{5}{lf3 0, ni -2805}{661}{ }
@@ -235,9 +235,9 @@
 {485}{Ah, isso parece muito intrigante. O que, por favor, você tem para despertar meu interesse?}{Ah, isso parece muito intrigante. O que, por favor, você tem para despertar meu interesse?}{}{}{}{ }
 {486}{Tenho o diário do Bates. Ele conta sobre sua vida entre os anões.}{}{5}{}{490}{ }
 {490}{Finalmente chegou o meu dia! Vingado por fim! Me dê o livro, por favor.}{Finalmente chegou o meu dia! Vingado por fim! Me dê o livro, por favor.}{}{}{}{ }
-{491}{Não tão rápido. Isto vale uma boa quantia de moedas.}{}{5}{qa1039 1, gf2706 1}{500}{ }
-{492}{Preciso lê-lo primeiro. Vou devolvê-lo quando terminar.}{}{5}{lf5 0, gf2706 0}{0}{lf5 1, fl 690}
-{493}{Um item deste tipo não sai barato, meu amigo.}{}{5}{qu1039 0, gf2706 1}{500}{ }
+{491}{Espere aí. Isso vale uma boa quantia de moedas.}{}{5}{qa1039 1, gf2706 1}{500}{ }
+{492}{Preciso ler primeiro. Trarei de volta quando terminar.}{}{5}{lf5 0, gf2706 0}{0}{lf5 1, fl 690}
+{493}{Um item desse tipo não sai barato, meu amigo.}{}{5}{qu1039 0, gf2706 1}{500}{ }
 {500}{Vou lhe dar 500 moedas pelo diário. Por favor, entregue-o.}{Vou lhe dar 500 moedas pelo diário. Por favor, entregue-o.}{}{}{}{ }
 {501}{Aqui está. [Entregue-lhe o diário]}{}{5}{}{-15}{$$500, qu1039 4, in 5202, gf2094 1, rp1011, fp }
 {502}{Não é muito pelo diário pessoal de Bates, não é?}{}{5}{ha 11}{510}{ }
@@ -254,7 +254,7 @@
 {521}{Vou deixá-lo com sua baba. Tenha um bom dia.}{}{5}{}{0}{ }
 {524}{E:}{}{-4}{}{0}{ }
 {525}{[Ele começa a gritar com você, perdendo qualquer semblante de controle que possa ter tido.] ISTO NÃO É UMA NEGOCIAÇÃO! [Ele faz uma pausa, tentando se controlar.] Desculpe. Minhas emoções me dominaram por um momento. 500 moedas é o que você receberá por me trazer o livro. Ou posso simplesmente tomá-lo de você.}{[Ele começa a gritar com você, perdendo qualquer semblante de controle que possa ter tido.] ISTO NÃO É UMA NEGOCIAÇÃO! [Ele faz uma pausa, tentando se controlar.] Desculpe. Minhas emoções me dominaram por um momento. 500 moedas é o que você receberá por me trazer o livro. Ou posso simplesmente tomá-lo de você.}{}{}{}{ }
-{526}{Tá bom, tá bom. Aqui está. [Entregue-lhe o diário]}{}{5}{}{-15}{$$700, qu1039 4, in 5202, gf2094 1, rp1011, fp }
+{526}{Tá bom, tá bom. Aqui está. [Entregue-lhe o diário]}{}{5}{}{-15}{$$500, qu1039 4, in 5202, gf2094 1, rp1011, fp }
 {529}{Gostaria de ver você tentar, velho. Sem acordo.}{}{5}{}{0}{fl 660 ,co}
 {530}{[Ele começa a gritar com você, perdendo qualquer semblante de controle que possa ter tido.] ISTO NÃO É UMA NEGOCIAÇÃO! [Ele faz uma pausa, tentando se controlar.] Desculpe. Minhas emoções me dominaram por um momento. 700 moedas é o que você receberá por me trazer o livro. Ou posso simplesmente tomá-lo de você.}{[Ele começa a gritar com você, perdendo qualquer semblante de controle que possa ter tido.] ISTO NÃO É UMA NEGOCIAÇÃO! [Ele faz uma pausa, tentando se controlar.] Desculpe. Minhas emoções me dominaram por um momento. 700 moedas é o que você receberá por me trazer o livro. Ou posso simplesmente tomá-lo de você.}{}{}{}{ }
 {531}{Tá bom, tá bom. Aqui está. [Entregue-lhe o diário]}{}{5}{}{-15}{$$700, qu1039 4, in 5202, gf2094 1, rp1011, fp }
@@ -262,7 +262,7 @@
 {535}{Oh, deuses! Oh, é, eu... suponho que poderia lhe dar, digamos, 25 moedas por ele.}{Oh, deuses! Oh, é, eu... suponho que poderia lhe dar, digamos, 25 moedas por ele.}{}{}{}{ }
 {536}{OK!}{}{-4}{}{-15}{$$25, qu1039 4, in 5202, gf2094 1, rp1011, fp }
 {537}{Quero mais.}{}{-4}{}{540}{ }
-{538}{Eu preciso ler isso primeiro!}{}{-4}{lf5 0, gf2706 0}{0}{lf5 1, fl 690}
+{538}{Eu tenho que ler primeiro!}{}{-4}{lf5 0, gf2706 0}{0}{lf5 1, fl 690}
 {540}{50 moedas. Agora me entregue.}{50 moedas. Agora me entregue.}{}{}{}{ }
 {541}{OK}{}{-4}{}{-15}{$$50, qu1039 4, in 5202, gf2094 1, rp1011, fp }
 {542}{Não.}{}{-4}{}{0}{fl 436 ,co}
@@ -296,7 +296,7 @@
 {585}{Ainda não consegui recuperar nenhuma evidência incriminadora.}{}{5}{qu1039 2, ni 5202}{460}{ }
 {586}{Você conhecia Gilbert Bates?}{}{5}{lf1 0}{601}{lf1 1 }
 {589}{Tá a fim de um trampo?}{}{-4}{lf2 0}{645}{ }
-{590}{Eu explodi mi- minha máquina.}{}{-4}{gf1019 1, qu1041 2}{650}{qu1041 4 }
+{590}{Eu explodi mi-nha má-quina.}{}{-4}{gf1019 1, qu1041 2}{650}{qu1041 4 }
 {591}{Quer esse livro?}{}{-4}{in 5202}{535}{ }
 {593}{Eu matei Gilbert Bates.}{}{5}{lf10 0}{630}{ }
 {594}{urf.}{}{-4}{}{0}{ }
@@ -330,7 +330,7 @@
 {640}{Esse é um excelente ponto. Aqui estão 200 moedas para você, senhor.}{Esse é um excelente ponto. Aqui estão 200 moedas para você, senhora.}{}{}{}{$$200, lf10 1 }
 {641}{Há mais alguma coisa que precise que seja feita?}{}{5}{qu1039 0}{606}{ }
 {644}{A:}{}{5}{}{0}{ }
-{645}{Para você, meu amigo tapado? Bem, se pudesse encontrar quaisquer pedaços de papel com escrita na casa de Bates, eu lhe pagaria.}{Para você, meu amigo tapado? Bem, se pudesse encontrar quaisquer pedaços de papel com escrita na casa de Bates, eu lhe pagaria.}{}{}{}{ }
+{645}{Para você, meu amigo tapado? Bem, se conseguir encontrar algum pedaço de papel com escrita na casa do Bates, eu pagaria.}{Para você, meu amigo tapado? Bem, se conseguir encontrar algum pedaço de papel com escrita na casa do Bates, eu pagaria.}{}{}{}{ }
 {646}{Otá.}{}{-4}{}{0}{qu1039 2, lf2 1 }
 {647}{Não.}{}{-4}{}{0}{ }
 {650}{Parece meio sem sentido agora. Ah, bem, aqui estão 50 moedas pelo seu trabalho.}{Parece meio sem sentido agora. Ah, bem, aqui estão 50 moedas pelo seu trabalho.}{}{}{}{$$50 }

@@ -1,22 +1,22 @@
 {1}{G:}{G:}{}{}{}{ }
 {2}{Olá. Posso perguntar o que é esta coisa?}{}{5}{lf1 0, re41}{15}{lf1 1 }
 {3}{O que é esta coisa?}{}{-4}{lf1 0}{30}{lf1 1 }
-{4}{Eu, hmm, estou procurando alguém. Preciso entrar nas Fossas.}{}{5}{lf1 1, re41, qa1050 1, qb1050 3}{40}{ }
+{4}{Eu, hmm, estou procurando alguém. Preciso entrar nas fossas.}{}{5}{lf1 1, re41, qa1050 1, qb1050 3}{40}{ }
 {5}{Eu tenho que entrar nas Fossas.}{}{-4}{lf1 1}{40}{ }
-{6}{Eu gostaria de entrar nas Fossas.}{}{5}{lf1 1, re41, qu1050 0}{40}{ }
+{6}{Eu gostaria de entrar nas fossas.}{}{5}{lf1 1, re41, qu1050 0}{40}{ }
 {11}{Estava falando comigo? Não há necessidade de grosseria, senhor.}{}{5}{re-40, ch10}{65}{re50 }
 {12}{Peço humildemente perdão, senhor. Posso lhe fazer uma pergunta?}{}{5}{re-40, ch-9}{90}{re41 }
 {13}{Como ousa falar comigo assim! Exijo satisfação!}{}{5}{re-40, ch-9}{50}{re-5 }
 {14}{E:}{}{1}{}{0}{ }
 {15}{Estas são as infames Fossas de Dernholm. É para onde você vai parar se ficar do lado errado da lei aqui em Dernholm.}{Estas são as infames Fossas de Dernholm. É para onde você vai parar se ficar do lado errado da lei aqui em Dernholm.}{}{}{}{ }
-{16}{Eu, hmm, estou procurando alguém. Preciso entrar nas Fossas.}{}{5}{qa1050 1, qb1050 3}{40}{ }
+{16}{Eu, hmm, estou procurando alguém. Preciso entrar nas fossas.}{}{5}{qa1050 1, qb1050 3}{40}{ }
 {17}{Posso entrar?}{}{5}{qu1050 0}{40}{ }
 {29}{E:}{}{1}{}{0}{ }
 {30}{Olha, imbecil, estas são as Fossas de Dernholm. É para onde você vai parar se ficar do lado errado da lei aqui em Dernholm.}{Olha, imbecil, estas são as Fossas de Dernholm. É para onde você vai parar se ficar do lado errado da lei aqui em Dernholm.}{}{}{}{ }
 {31}{Eu tenho que entrar nas Fossas.}{}{-4}{}{40}{ }
 {39}{E:}{}{1}{}{0}{ }
 {40}{Hah! Ou você está brincando comigo ou é um completo tolo. Ninguém que entra nas Fossas sai de lá novamente. Nós jogamos os piores canalhas da sociedade lá e jogamos fora a chave.}{Hah! Ou você está brincando comigo ou é um completo tolo. Ninguém que entra nas Fossas sai de lá novamente. Nós jogamos os piores canalhas da sociedade lá e jogamos fora a chave.}{}{}{}{ }
-{41}{Estou falando muito sério. Preciso entrar nas Fossas.}{}{5}{}{50}{re-5 }
+{41}{Estou falando muito sério. Preciso entrar nas fossas.}{}{5}{}{50}{re-5 }
 {42}{Eu não sou bobo. Eu tenho que entrar nas Fossas.}{}{-4}{}{50}{re-5 }
 {49}{E:}{}{1}{}{0}{ }
 {50}{Olha, você está começando a testar minha paciência. Se não sair daqui agora, EU vou te jogar nas Fossas. Posso garantir que você não vai querer isso.}{Olha, você está começando a testar minha paciência. Se não sair daqui agora, EU vou te jogar nas Fossas. Posso garantir que você não vai querer isso.}{}{}{}{ }
@@ -27,7 +27,7 @@
 {58}{Você tem razão. Eu vou embora agora.}{}{5}{}{0}{ }
 {59}{Vou embora agora.}{}{-4}{}{0}{ }
 {60}{Não. Saia daqui, garoto.}{Não. Saia daqui, mocinha.}{}{}{}{ }
-{65}{Oh, me desculpe, eu não percebi que, hmm, isto é, em que posso ajudá-lo?}{Oh, me desculpe, eu não percebi que, hmm, isto é, em que posso ajudá-la?}{}{}{}{ }
+{65}{Oh, me desculpe, eu não percebi que, hmm, isto é, em que posso ajudá-la?}{Oh, me desculpe, eu não percebi que, hmm, isto é, em que posso ajudá-la?}{}{}{}{ }
 {66}{Olá. Posso perguntar o que é esta coisa?}{}{5}{lf1 0, re41}{70}{lf1 1 }
 {69}{E:}{}{1}{}{0}{ }
 {70}{Estas são as infames Fossas de Dernholm. É para onde vão os canalhas, assassinos e ladrões em Dernholm.}{Estas são as infames Fossas de Dernholm. É para onde vão os canalhas, assassinos e ladrões em Dernholm.}{}{}{}{ }

@@ -32,7 +32,7 @@
 {35}{E:}{}{5}{}{0}{}
 {36}{Hã... tá bom. Muitos caçadores?}{}{-4}{}{40}{}
 {37}{E:}{}{-4}{}{0}{}
-{40}{Não, somos uma pequena comunidade aqui... nunca precisamos de mais do que três ou quatro caçadores ao mesmo tempo. [Novamente, ele olha para cima.] A propósito, sabe que horas são?}{Não, somos uma pequena comunidade aqui... nunca precisamos de mais do que três ou quatro caçadores ao mesmo tempo. [Novamente, ele olha para cima.] Diga, por acaso sabe que horas são?}{}{}{}{}
+{40}{Não, somos uma pequena comunidade aqui... nunca precisamos de mais do que três ou quatro caçadores ao mesmo tempo. [Novamente, ele olha para cima.] Diga, por acaso sabe que horas são?}{Não, somos uma pequena comunidade aqui... nunca precisamos de mais do que três ou quatro caçadores ao mesmo tempo. [Novamente, ele olha para cima.] Diga, por acaso sabe que horas são?}{}{}{}{}
 {41}{Claro...[Diga a ele.]}{}{5}{}{50}{}
 {42}{Hã...tempo? Do que você está falando?}{}{-4}{}{50}{}
 {50}{[Ele só ouve você pela metade.] Estou muito preocupado...há um caçador que saiu daqui ontem e não voltou. Normalmente, eu não me preocuparia, mas ele estava caçando na floresta perto dos Pântanos Sombrios. Há coisas estranhas naquelas áreas alagadas...}{[Ele só ouve você pela metade.] Estou muito preocupado...há um caçador que saiu daqui ontem e não voltou. Normalmente, eu não me preocuparia, mas ele estava caçando na floresta perto dos Pântanos Sombrios. Há coisas estranhas naquelas áreas alagadas...}{}{}{}{}
@@ -63,7 +63,7 @@
 {89}{E:}{}{1}{}{0}{}
 {92}{Entendo. Espero que consiga um tempo para investigar este assunto...}{Entendo. Espero que consiga um tempo para investigar este assunto...}{}{}{}{}
 {93}{E:}{}{5}{}{0}{}
-{97}{Sim...ele voltou aqui e me contou o que aconteceu com os Bedokaan. Os elfos de Qintarra estão em dívida com você, amigo. Por favor...pegue a armadura que prometi como pagamento por suas ações corajosas. Adeus e boa sorte...}{Sim...ele voltou aqui e me contou o que aconteceu com os Bedokaan. Os elfos de Qintarra estão em dívida com você, amigo. Por favor...pegue a armadura que prometi como pagamento por suas ações corajosas. Adeus e boa sorte...}{}{}{}{qu1079 4, in -2813, lf2 1}
+{97}{Sim... ele voltou aqui e me contou o que aconteceu com os Bedokaan. Os elfos de Qintarra estão em dívida com você, amigo. Por favor... leve a armadura que prometi como pagamento por suas ações corajosas. Adeus, e boa sorte a você...}{Sim... ele voltou aqui e me contou o que aconteceu com os Bedokaan. Os elfos de Qintarra estão em dívida com você, amigo. Por favor... leve a armadura que prometi como pagamento por suas ações corajosas. Adeus, e boa sorte a você...}{}{}{}{qu1079 4, in -2813, lf2 1}
 {98}{E:}{}{5}{}{0}{}
 {100}{Isso é estranho...ele nunca voltou aqui. Você sabe o que aconteceu com ele?}{Isso é estranho...ele nunca voltou aqui. Você sabe o que aconteceu com ele?}{}{}{}{}
 {101}{Não...eu, hã, achei que ele estava voltando para cá...}{}{5}{}{104}{al -10}
@@ -75,10 +75,10 @@
 {114}{Sinto muito, meu amigo. Agradeço pela oferta, mas não acho que você tenha as faculdades mentais necessárias para assumir tal responsabilidade. Sinto muito. Tenha um bom dia...}{Sinto muito, meu amigo. Agradeço pela oferta, mas não acho que você tenha as faculdades mentais necessárias para assumir tal responsabilidade. Sinto muito. Tenha um bom dia...}{}{}{}{}
 {115}{E:}{}{-4}{}{0}{}
 {117}{Ora, sim! E me parece que você já tem algum treinamento. Um elfo reconhece essas coisas só pelo jeito que alguém se move, sabe? Infelizmente, o custo é de 500 peças de ouro... a tradição exige...}{Ora, sim! E me parece que você já tem algum treinamento. Um elfo reconhece essas coisas só pelo jeito que alguém se move, sabe? Infelizmente, o custo é de 500 peças de ouro... a tradição exige...}{}{}{}{}
-{118}{Claro. Aqui está o dinheiro... [Dê a ele.]}{}{5}{$500}{126}{ $$-500}
+{118}{Claro. Aqui está o dinheiro... [Dê a ele.]}{}{5}{$$500}{126}{ $$-500}
 {119}{Entendo. Talvez eu volte mais tarde. Mas algumas perguntas a mais...}{}{5}{$$500}{74}{}
 {120}{Eu não tenho o dinheiro agora...}{}{5}{$$-499}{135}{}
-{121}{Sim! Aqui está o dinheiro...! [Dê a ele.]}{}{-4}{$500}{126}{$$-500}
+{121}{Sim! Aqui está o dinheiro...! [Dê a ele.]}{}{-4}{$$500}{126}{$$-500}
 {122}{Hmm... talvez mais tarde. Tenho mais perguntas!}{}{-4}{$$500}{74}{}
 {123}{Eu não tenho dinheiro agora...}{}{-4}{$$-499}{135}{}
 {124}{E:}{}{1}{}{0}{}

@@ -1,10 +1,11 @@
 {1}{G:}{G:}{}{}{}{}
 {2}{Olá. E quem seria você?}{}{5}{me 0, re 41}{23}{}
 {3}{Saudações, Maximillian. Tem um momento?}{}{5}{me 1, re 41}{26}{}
-{4}{Senhor! Isso é jeito de cavalheiros falarem uns com os outros?}{}{5}{me 0, re -40}{13}{re +5}
+{4}{Senhor! Isso é jeito de cavalheiros falarem uns com os outros?}{1}{5}{me 0, re -40}{13}{re +5}
 {5}{Você está pedindo uma surra, falando desse jeito...}{}{5}{me 0, re -40}{17}{re -5}
 {6}{Maximillian! Por que essa palavra dura?}{}{5}{me 1, re -40}{13}{}
 {7}{É melhor retirar esse comentário ou encarar uma surra, Maximillian...}{}{5}{me 1, re -40}{17}{}
+{8}{Senhor! Esse é jeito de um cavalheiro falar com uma dama?}{0}{5}{me 0, re -40}{13}{re +5}
 {9}{Hã, oi! Quem é você?}{}{-4}{me 0}{23}{}
 {10}{Ei, Max! Tem perguntas!}{}{-4}{me 1}{26}{}
 {11}{E:}{}{1}{}{0}{}
@@ -53,7 +54,7 @@
 {68}{Na verdade, vim para cá por vontade própria...}{}{5}{}{187}{}
 {69}{Está fazendo suposições infundadas. Um erro de jovem...}{}{5}{ch 15}{74}{re +5}
 {70}{Está fazendo suposições infundadas. Um erro de jovem...}{}{5}{ch -14}{79}{re -5}
-{71}{Os velhos são todos iguais também... senis e fracos...}{}{5}{}{}{co, fl 21}
+{71}{Os velhos são todos iguais... senis e fracos...}{}{5}{}{}{co, fl 21}
 {72}{E:}{}{5}{}{0}{}
 {74}{[Ele parece um pouco surpreso. Olha para você com perspicácia, fazendo uma nova avaliação.] Tem razão. Por favor, perdoe minha miopia. Sem dúvida, você também tem coisas valiosas para compartilhar. Talvez você e eu tenhamos algo sobre o que conversar, afinal...}{[Ele parece um pouco surpreso. Olha para você com perspicácia, fazendo uma nova avaliação.] Tem razão. Por favor, perdoe minha miopia. Sem dúvida, você também tem coisas valiosas para compartilhar. Talvez você e eu tenhamos algo sobre o que conversar, afinal...}{}{}{}{}
 {75}{Gostaria disso. Conte-me sobre você, Maximillian...}{}{5}{}{89}{}
@@ -80,26 +81,26 @@
 {102}{Por que você não me conta sua história, Maximiliano...?}{}{5}{}{107}{}
 {104}{[Maximiliano sorri.] Você não faz ideia do quão refrescante é ouvir alguém falar de maneira tão nobre, senhor. Houve anos em que acreditei que não restavam homens nesta terra que soubessem o que essas palavras significavam...}{[Maximiliano sorri.] Você não faz ideia do quão refrescante é ouvir alguém falar de maneira tão nobre, senhora. Houve anos em que acreditei que não restavam homens nesta terra que soubessem o que essas palavras significavam...}{}{}{}{}
 {105}{Por que você não me conta sua história, Maximiliano...?}{}{5}{}{107}{}
-{107}{Sim... já passou da hora de alguém conhecer minha história. Diga-me, amigo... você sabe algo sobre o reino de Cúmbria? Sua capital, Dernholm? O rei Prætor, o Primeiro?}{Sim... já passou da hora de alguém conhecer minha história. Diga-me, amigo... você sabe algo sobre o reino de Cúmbria? Sua capital, Dernholm? O Rei Prætor, o Primeiro?}{}{}{}{}
+{107}{Sim... já passou da hora de alguém conhecer minha história. Diga-me, amigo... você sabe algo sobre o reino de Cúmbria? Sua capital, Dernholm? O Rei Prætor, o Primeiro?}{Sim... já passou da hora de alguém conhecer minha história. Diga-me, amigo... você sabe algo sobre o reino de Cúmbria? Sua capital, Dernholm? O Rei Prætor, o Primeiro?}{}{}{}{}
 {108}{Já ouvi falar desse lugar, mas sei muito pouco...}{}{5}{}{112}{}
 {109}{Já estive lá antes...}{}{5}{}{112}{}
 {110}{Não sei nada sobre Cúmbria...}{}{5}{}{112}{}
 {112}{Entendo. A Cúmbria da qual falo era um lugar muito diferente... bem diferente do que é hoje, tenho certeza. Falo de uma época em que Cúmbria era um reino poderoso, quando elfos e anões vinham até seus muros para prestar tributo a seu rei. Quando as bandeiras dos famosos Cavaleiros do Dragão eram algo a ser respeitado e temido...}{Entendo. A Cúmbria da qual falo era um lugar muito diferente... bem diferente do que é hoje, tenho certeza. Falo de uma época em que Cúmbria era um reino poderoso, quando elfos e anões vinham até seus muros para prestar tributo a seu rei. Quando as bandeiras dos famosos Cavaleiros do Dragão eram algo a ser respeitado e temido...}{}{}{}{}
 {113}{Então Cúmbria não é mais esse lugar?}{}{5}{}{116}{}
 {114}{Eu vi Cúmbria... está muito longe do que você descreve...}{}{5}{}{116}{}
-{116}{Não... não há dúvida de que Cúmbria é apenas uma sombra de sua antiga glória. Há muito tempo chegou o dia em que seu destino foi selado. O dia em que a tecnologia começou a rivalizar com a magia, quando os velhos costumes começaram a cair diante dos novos...}{Não... não há dúvida de que Cúmbria é apenas uma sombra de sua antiga glória. Há muito tempo chegou o dia em que seu destino foi selado. O dia em que a tecnologia começou a rivalizar com a magia, quando os velhos costumes começaram a cair diante dos novos...}{}{}{}{}
+{116}{Não... não há dúvida de que Cúmbria não passa de uma sombra de sua antiga glória. O dia chegou há muito tempo, quando seu destino foi selado. O dia em que a tecnologia começou a rivalizar com a magia, quando os velhos costumes começaram a cair diante dos novos...}{Não... não há dúvida de que Cúmbria não passa de uma sombra de sua antiga glória. O dia chegou há muito tempo, quando seu destino foi selado. O dia em que a tecnologia começou a rivalizar com a magia, quando os velhos costumes começaram a cair diante dos novos...}{}{}{}{}
 {117}{O que aconteceu? Cúmbria resistiu a essa mudança?}{}{5}{}{120}{}
-{118}{Vamos falar sobre isso mais tarde...}{}{5}{}{}{lc1 2, fl 178}
+{118}{Falemos sobre isso mais tarde...}{}{5}{}{}{lc1 2, fl 178}
 {120}{Sim, e veementemente. Meu... o Rei na época, Torren, era um homem sábio e corajoso, mas preso às suas convicções. [Maximilian sorri, tristemente.] Ele era feito de material mais rígido, mas era como pedra... inabalável, porém inflexível. Ele não conseguiu ver como Cúmbria precisava crescer, mudar...}{Sim, e veementemente. Meu... o Rei na época, Torren, era um homem sábio e corajoso, mas preso às suas convicções. [Maximilian sorri, tristemente.] Ele era feito de material mais rígido, mas era como pedra... inabalável, porém inflexível. Ele não conseguiu ver como Cúmbria precisava crescer, mudar...}{}{}{}{}
 {121}{E então?}{}{5}{}{123}{}
 {123}{E então, ele promulgou leis proibindo o uso da tecnologia em suas terras e estabeleceu um conselho governante de magos conselheiros ao seu lado. Por anos, Cúmbria ainda foi muito forte e influente, mas era apenas uma questão de tempo...}{E então, ele promulgou leis proibindo o uso da tecnologia em suas terras e estabeleceu um conselho governante de magos conselheiros ao seu lado. Por anos, Cúmbria ainda foi muito forte e influente, mas era apenas uma questão de tempo...}{}{}{}{}
 {124}{O que aconteceu?}{}{5}{}{127}{}
-{125}{Vamos falar sobre isso mais tarde...}{}{5}{}{}{lc1 3, fl 178}
+{125}{Falemos sobre isso mais tarde...}{}{5}{}{}{lc1 3, fl 178}
 {127}{Bem, Cúmbria foi superada, tanto no comércio quanto no poder. Quando a poderosa Tarant exigiu a liberação de certas terras em disputa, Cúmbria aprendeu uma lição dura. Os exércitos de Cúmbria foram massacrados, os Cavaleiros do Dragão abatidos por tiros e canhões. A glória dos dias antigos se perdeu...}{Bem, Cúmbria foi superada, tanto no comércio quanto no poder. Quando a poderosa Tarant exigiu a liberação de certas terras em disputa, Cúmbria aprendeu uma lição dura. Os exércitos de Cúmbria foram massacrados, os Cavaleiros do Dragão abatidos por tiros e canhões. A glória dos dias antigos se perdeu...}{}{}{}{}
 {128}{E quanto ao Rei Torren? O que aconteceu com ele...}{}{5}{}{131}{}
 {131}{[Maximilian olha para o horizonte; ele parece distante.] Ele foi morto. Liderou a última carga dos Cavaleiros do Dragão e foi baleado como qualquer soldado comum. Inabalável e corajoso até o fim...}{[Maximilian olha para o horizonte; ele parece distante.] Ele foi morto. Liderou a última carga dos Cavaleiros do Dragão e foi baleado como qualquer soldado comum. Inabalável e corajoso até o fim...}{}{}{}{}
 {132}{Entendo. O que tudo isso tem a ver com você, Maximilian...?}{}{5}{}{135}{}
-{133}{Vamos falar sobre isso mais tarde...}{}{5}{}{}{lc1 4, fl 178}
+{133}{Falemos sobre isso mais tarde...}{}{5}{}{}{lc1 4, fl 178}
 {135}{[Ele parece voltar a si, olhando de volta para você.] Com a morte de Torren, veio uma luta pelo poder. Havia aqueles que acreditavam que Cúmbria deveria abraçar a nova era, buscar um caminho melhor e tornar-se poderosa novamente...}{[Ele parece voltar a si, olhando de volta para você.] Com a morte de Torren, veio uma luta pelo poder. Havia aqueles que acreditavam que Cúmbria deveria abraçar a nova era, buscar um caminho melhor e tornar-se poderosa novamente...}{}{}{}{}
 {136}{Mas outros pensavam diferente...?}{}{5}{}{138}{}
 {138}{Sim. Algumas pessoas não conseguem ver a resposta, mesmo quando ela está diante delas na forma de um Rei morto. Torren tinha dois filhos... o filho mais velho acreditava nos novos caminhos, e o filho mais novo não acreditava em nada. E assim, o conselho de magos que Torren havia estabelecido colocou sua influência atrás do filho mais novo...}{Sim. Algumas pessoas não conseguem ver a resposta, mesmo quando ela está diante delas na forma de um Rei morto. Torren tinha dois filhos... o filho mais velho acreditava nos novos caminhos, e o filho mais novo não acreditava em nada. E assim, o conselho de magos que Torren havia estabelecido colocou sua influência atrás do filho mais novo...}{}{}{}{}
@@ -128,7 +129,7 @@
 {168}{Volte comigo, Maximillian. Ainda não é tarde demais...}{}{5}{}{170}{}
 {170}{[Ele olha para trás novamente.] Talvez. Vou lhe perguntar uma coisa, amigo. O Capitão dos Cavaleiros do Dragão era um homem chamado Warren Pel Dar. Ele foi meu único verdadeiro amigo. Se ele ainda estiver vivo e se importar em fazê-lo, diga-lhe que estou aqui e que gostaria de desfrutar mais uma vez do prazer de sua companhia...}{[Ele olha para trás novamente.] Talvez. Vou lhe perguntar uma coisa, amigo. O Capitão dos Cavaleiros do Dragão era um homem chamado Warren Pel Dar. Ele foi meu único verdadeiro amigo. Se ele ainda estiver vivo e se importar em fazê-lo, diga-lhe que estou aqui e que gostaria de desfrutar mais uma vez do prazer de sua companhia...}{}{}{}{}
 {171}{Eu já ouvi falar de Warren Pel Dar... [Fale-lhe sobre Lianna.]}{}{5}{gf2750 1}{195}{}
-{172}{Eu o farei, Maximillian. Juro a você...}{}{5}{gf2750 0}{174}{qu1072 2, re +5}
+{172}{Eu o farei, Maximiliano. Juro a você...}{}{5}{gf2750 0}{174}{qu1072 2, re +5}
 {173}{Se eu tiver a chance, vou investigar o assunto...}{}{5}{gf2750 0}{174}{qu1072 1}
 {174}{Agradeço-lhe, meu amigo. E se ele estiver morto, então esqueça de mim. Não tenho desejo de voltar a uma Cúmbria onde homens como ele não mais existam...}{Agradeço-lhe, meu amigo. E se ele estiver morto, então esqueça de mim. Não tenho desejo de voltar a uma Cúmbria onde homens como ele não mais existam...}{}{}{}{}
 {175}{Entendo. Posso lhe fazer mais algumas perguntas?}{}{5}{}{26}{lf3 1}

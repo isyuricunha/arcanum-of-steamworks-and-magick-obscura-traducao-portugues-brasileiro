@@ -1,35 +1,35 @@
 {1}{G:}{G:}{}{}{}{ }
 {2}{W:}{}{5}{re41}{52}{lf1 1 }
 {3}{H:}{}{1}{re41}{46}{ }
-{4}{Por favor, desculpe minha intrusão, senhor. Não tive intenção de ofender.}{}{5}{re-40, ch-9}{12}{ }
+{4}{Peço desculpas pela minha intrusão, senhor. Não tive intenção de ofender.}{}{5}{re-40, ch-9}{12}{ }
 {5}{Acho que sua atitude é injustificada, senhor.}{}{5}{re-40, ch10}{27}{re50 }
 {6}{Não gosto da sua atitude, senhor.}{}{5}{re-40, ch-9}{32}{re-10 }
-{7}{O senhor poderia me treinar para me tornar um especialista em armas de fogo?}{}{5}{tr13 -1, re41}{46}{et13 310 }
+{7}{O senhor pode me treinar para ser um especialista em armas de fogo?}{}{5}{tr13 -1, re41}{46}{et13 310 }
 {8}{Posso fazer uma pergunta?}{}{-4}{}{12}{ }
-{9}{Você quer dizer. Eu não gosto de você.}{}{-4}{re-40}{32}{ }
+{9}{Você quer dizer... eu não gosto de você.}{}{-4}{re-40}{32}{ }
 {10}{T:10,13}{}{1}{re41}{46}{ }
 {11}{E:}{}{1}{}{0}{ }
 {12}{Normalmente não falo com gente da sua laia, garoto.}{Normalmente não falo com gente da sua laia, madame.}{}{}{}{ }
-{13}{Ficaria muito grato se fizesse uma exceção para mim.}{}{5}{}{18}{re41 }
+{13}{Ficaria muito agradecido se fizesse uma exceção para mim.}{}{5}{}{18}{re41 }
 {14}{Você não vai falar com ninguém depois que eu arrancar sua língua.}{}{5}{}{0}{fl 137 ,co}
 {15}{Por favoooor?}{}{-4}{}{18}{re41 }
-{16}{Eu não gosto da sua boca estúpida. Eu mato você!}{}{-4}{}{0}{fl 137 ,co}
+{16}{Eu não gosto dessa sua boca estúpida. Eu mato você!}{}{-4}{}{0}{fl 137 ,co}
 {17}{E:}{}{1}{}{0}{ }
-{18}{Muito bem. Vejo que conhece seu lugar. O que posso fazer por você?}{Muito bem. Vejo que conhece seu lugar. O que posso fazer por você?}{}{}{}{ }
+{18}{Muito bem. Vejo que conhece o seu lugar. Em que posso ajudá-la?}{Muito bem. Vejo que conhece o seu lugar. Em que posso ajudá-la?}{}{}{}{ }
 {19}{W:}{}{1}{lf1 0}{52}{lf1 1 }
 {20}{H:}{}{1}{}{46}{ }
-{21}{Meu lugar é dançando sobre o seu túmulo, cão!}{}{5}{}{0}{fl 137 ,co}
-{22}{Eu não conheço meu lugar. Vou te bater até ficar tonto, cara mau.}{}{-4}{}{0}{fl 137 ,co}
+{21}{Meu lugar é dançar sobre o seu túmulo, cão!}{}{5}{}{0}{fl 137 ,co}
+{22}{Eu não conheço meu lugar. Vou te bater até ficar tonto, seu valentão.}{}{-4}{}{0}{fl 137 ,co}
 {23}{T:10,13}{}{1}{}{46}{ }
-{24}{O senhor poderia me treinar para me tornar um especialista em armas de fogo?}{}{5}{tr13 -1}{46}{et13 310 }
-{25}{Eu quero ser expeito nas armas!}{}{-4}{tr13 -1}{46}{et13 310 }
+{24}{O senhor pode me treinar para ser um especialista em armas de fogo?}{}{5}{tr13 -1}{46}{et13 310 }
+{25}{Eu quero ser exxperto nas armas!}{}{-4}{tr13 -1}{46}{et13 310 }
 {26}{E:}{}{1}{}{0}{ }
-{27}{Oh, desculpe-me, senhor! Eu... hã... peço desculpas por qualquer ofensa que possa ter lhe causado! Por favor, o que posso fazer pelo senhor?}{Oh, desculpe-me, madame! Eu... hã... peço desculpas por qualquer ofensa que possa ter lhe causado! Por favor, o que posso fazer pela senhora?}{}{}{}{ }
+{27}{Oh, me desculpe, senhor! Eu... hã... peço desculpas por qualquer ofensa que possa ter lhe causado! Por favor, o que posso fazer por você?}{Oh, me desculpe, senhora! Eu... hã... peço desculpas por qualquer ofensa que possa ter lhe causado! Por favor, o que posso fazer por você?}{}{}{}{ }
 {28}{W:}{}{1}{lf1 0}{52}{lf1 1 }
 {29}{H:}{}{1}{}{46}{ }
 {30}{Seria bom tomar cuidado com seus modos no futuro, senhor.}{}{5}{ch13}{37}{ }
 {31}{E:}{}{1}{}{0}{ }
-{32}{Não me importa do que você gosta ou não, garoto! Sugiro que suma daqui antes que eu o jogue fora pelo ouvido!}{Não me importa do que você gosta ou não, mocinha! Sugiro que suma daqui antes que eu a jogue fora pelo ouvido!}{}{}{}{ }
+{32}{Não me importa do que você gosta ou não, garoto! Sugiro que suma daqui antes que eu o jogue fora pelo pé!}{Não me importa do que você gosta ou não, mocinha! Sugiro que suma daqui antes que eu a jogue fora pelo pé!}{}{}{}{ }
 {33}{Por favor, perdoe minha insolência. Não sou digno do seu respeito.}{}{5}{}{18}{re41 }
 {34}{[Encara-o com firmeza.] Está me testando, senhor? Exijo respeito!}{}{5}{sk13 4}{430}{re50 }
 {35}{[Encara-o com firmeza.] Está me testando, senhor? Exijo respeito!}{}{5}{sk2 4, sk13 -3}{430}{re50 }
@@ -38,7 +38,7 @@
 {38}{W:}{}{1}{lf1 0}{52}{lf1 1 }
 {39}{H:}{}{1}{}{46}{ }
 {40}{E:}{}{1}{}{0}{ }
-{46}{Deseja mais alguma coisa?}{Deseja mais alguma coisa?}{}{}{}{ }
+{46}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{ }
 {47}{Posso perguntar seu nome?}{}{5}{lf1 0}{52}{lf1 1 }
 {48}{Quem é você?}{}{-4}{lf1 0}{52}{lf1 1 }
 {49}{T:10,13}{}{1}{}{46}{ }
@@ -49,27 +49,27 @@
 {54}{Eu sou eu.}{}{-4}{qu1059 0}{199}{ }
 {55}{Eu sou @pcname@.}{}{5}{qa1059 1}{380}{ }
 {56}{Eu sou eu.}{}{-4}{qa1059 1}{380}{ }
-{57}{Bem, @pcname@, se não há mais nada, agradeço que siga seu caminho.}{Bem, @pcname@, se não há mais nada, agradeço que siga seu caminho.}{}{}{}{ }
-{58}{Há algum trabalho por aqui?}{}{5}{gf2106 0, qu1060 0}{63}{ }
+{57}{Bom, @pcname@, se não há mais nada, agradeço se seguir seu caminho.}{Bom, @pcname@, se não há mais nada, agradeço se seguir seu caminho.}{}{}{}{ }
+{58}{Tem algum trabalho por aqui?}{}{5}{gf2106 0, qu1060 0}{63}{ }
 {59}{Preciso de emprego.}{}{-4}{gf2106 0, qu1060 0}{67}{ }
 {60}{O senhor pode me treinar para ser um especialista em armas de fogo?}{}{5}{tr13 -1}{46}{et13 310 }
 {61}{T:10,13}{}{1}{}{57}{ }
 {62}{E:}{}{1}{}{0}{ }
 {63}{[Este velho calejado lhe examina, como se avaliasse qualquer potencial que você possa ter sem querer.] Pode ser que haja algo, se não se importar em arriscar o pescoço.}{[Este velho calejado lhe examina, como se avaliasse qualquer potencial que você possa ter sem querer.] Pode ser que haja algo, se não se importar em arriscar o pescoço.}{}{}{}{ }
 {64}{Não me importo com um pouco de perigo, desde que o pagamento seja justo.}{}{5}{}{72}{ }
-{65}{Prefiro evitar confusões violentas. Tenha um bom dia.}{}{5}{}{0}{lf2 1 }
+{65}{Prefiro me manter longe de confusões violentas. Tenha um bom dia.}{}{5}{}{0}{lf2 1 }
 {67}{[Este velho calejado lhe examina, como se avaliasse qualquer potencial que você possa ter sem querer.] Você é meio burro, não é, garoto? Bem, de qualquer forma, eu poderia usar uma ajuda, se não se importar com um pouco de perigo.}{[Este velho calejado lhe examina, como se avaliasse qualquer potencial que você possa ter sem querer.] Você é meio burra, não é, moça? Bem, de qualquer forma, eu poderia usar uma ajuda, se não se importar com um pouco de perigo.}{}{}{}{ }
-{68}{Não tenho medo se me pagar um monte de dinheiro.}{}{-4}{}{72}{ }
-{69}{Não gosto de coisas assustadoras. Tchau.}{}{-4}{}{0}{lf2 1 }
+{68}{Eu não tenho medo se me pagar um monte de dinheiro.}{}{-4}{}{72}{ }
+{69}{Eu não gosto de coisas assustadoras. Tchau.}{}{-4}{}{0}{lf2 1 }
 {72}{Chegou aos meus ouvidos que a gangue Bowen está vindo para roubar o banco. Azar o deles, já que meu dinheiro também está lá.}{Chegou aos meus ouvidos que a gangue Bowen está vindo para roubar o banco. Azar o deles, já que meu dinheiro também está lá.}{}{}{}{qu1060 1 }
 {73}{Então, para que precisa de mim?}{}{5}{}{82}{ }
-{74}{Por que precisa de mim?}{}{-4}{}{82}{ }
-{75}{Um bêbado no saloon me pediu para roubar o banco para ele.}{}{5}{qa1059 1, qb1059 3}{138}{qu1059 6, al+15 }
-{76}{Um sujeito fedido me pediu para roubar dinheiro do banco.}{}{-4}{qa1059 1, qb1059 3}{138}{qu1059 6, al+15 }
+{74}{Por que você precisa de mim?}{}{-4}{}{82}{ }
+{75}{Um beberrão no saloon me pediu para assaltar o banco para ele.}{}{5}{qa1059 1, qb1059 3}{138}{qu1059 6, al+15 }
+{76}{Um sujeito fedorento me pediu para roubar dinheiro no banco.}{}{-4}{qa1059 1, qb1059 3}{138}{qu1059 6, al+15 }
 {77}{Se é tão durão, por que não para os ladrões na ponte?}{}{5}{qa1032 1, gv1005 -3}{144}{ }
 {78}{Se é tão durão, por que não para os ladrões na ponte?}{}{-4}{qa1032 1, gv1005 -3}{144}{ }
 {79}{Você não mencionou quanto é o pagamento.}{}{5}{}{90}{ }
-{80}{Quanto dinheiro você vai me dar?}{}{-4}{}{90}{ }
+{80}{Quanto dinheiro você me dá?}{}{-4}{}{90}{ }
 {82}{Eu poderia usar alguém para me cobrir as costas, e não tem ninguém que preste nessa cidade.}{Eu poderia usar alguém para me cobrir as costas, e não tem ninguém que preste nessa cidade.}{}{}{}{ }
 {83}{Parece interessante. Quanto você pagaria pela minha ajuda?}{}{5}{}{90}{ }
 {84}{Você quer que eu arranje um pouco de sal para você?}{}{-4}{}{127}{ }
@@ -94,10 +94,10 @@
 {110}{Tá bom. O que eu preciso fazer?}{}{-4}{}{-32}{ }
 {111}{Não sei o que vou fazer. Volto mais tarde.}{}{-4}{}{122}{ }
 {112}{Encontre-me em frente ao banco. Vou ficar de olho para quando a confusão começar. Quando isso acontecer, espero você ao meu lado.}{Encontre-me em frente ao banco. Vou ficar de olho para quando a confusão começar. Quando isso acontecer, espero você ao meu lado.}{}{}{}{lf6 1, gf2107 1 }
-{113}{Então te vejo lá.}{}{5}{re40}{-30}{ }
-{114}{Então te vejo lá.}{}{5}{re-39}{117}{ }
-{115}{Tá bom. Eu vou agora.}{}{-4}{re40}{-30}{ }
-{116}{Tá bom. Eu vou agora.}{}{-4}{re-39}{117}{ }
+{113}{Te vejo lá, então.}{}{5}{re40}{-30}{ }
+{114}{Te vejo lá, então.}{}{5}{re-39}{117}{ }
+{115}{Tá bom. Vou indo agora.}{}{-4}{re40}{-30}{ }
+{116}{Tá bom. Vou indo agora.}{}{-4}{re-39}{117}{ }
 {117}{[Ele olha nos seus olhos.] Deixa eu te avisar, garoto, nem pense em me passar a perna ou em amarelar. Eu te derrubo sem pensar duas vezes.}{[Ele olha nos seus olhos.] Deixa eu te avisar, mocinha, nem pense em me passar a perna ou em amarelar. Eu te derrubo sem pensar duas vezes.}{}{}{}{ }
 {118}{Entendido. Te vejo então.}{}{5}{}{-30}{ }
 {119}{Eu te derrubo agora mesmo, velho.}{}{5}{}{0}{fl 137 ,co}
@@ -116,7 +116,7 @@
 {138}{Ah, ele fez isso, é? Malditos Bens! Vou ter que dar um jeito naquele garoto! Bom, não importa, ele não está envolvido com esses sujeitos que vão chegar amanhã. Vai me ajudar com eles ou não?}{Ah, ele fez isso, é? Malditos Bens! Vou ter que dar um jeito naquele garoto! Bom, não importa, ele não está envolvido com esses sujeitos que vão chegar amanhã. Vai me ajudar com eles ou não?}{}{}{}{gf2105 1 }
 {139}{O que você precisa que eu faça?}{}{5}{}{82}{ }
 {140}{Por que você precisa de mim?}{}{-4}{}{82}{ }
-{141}{Depende. Qual é o pagamento?}{}{5}{}{90}{ }
+{141}{Depende. Quanto vai pagar?}{}{5}{}{90}{ }
 {142}{Quanto dinheiro você me dá?}{}{-4}{}{90}{ }
 {144}{Esses idiotas sabem muito bem que não devem me incomodar. Eu os arrastaria pelo casco num segundo se tentassem. Além disso, eles são bons para os negócios, quebrando ossos e tal. Mas deixa esses bobos pra lá, você está comigo ou não?}{Esses idiotas sabem muito bem que não devem me incomodar. Eu os arrastaria pelo casco num segundo se tentassem. Além disso, eles são bons para os negócios, quebrando ossos e tal. Mas deixa esses bobos pra lá, você está comigo ou não?}{}{}{}{ }
 {145}{O que você precisa que eu faça?}{}{5}{}{82}{ }
@@ -143,7 +143,7 @@
 {175}{Estou aqui para testar a resistência da sua carne a uma boa surra.}{}{5}{}{0}{fl 137 ,co}
 {176}{Estou aqui para chutar sua cabeça.}{}{-4}{}{0}{fl 137 ,co}
 {177}{E:}{}{1}{}{0}{ }
-{182}{Droga! Eles entraram de algum jeito! Vamos enterrar esses idiotas, garoto!}{Droga! Eles entraram de algum jeito! Vamos enterrar esses idiotas, garota!}{}{}{}{ }
+{182}{Droga! Eles entraram de alguma forma! Vamos colocar esses tolos a seis pés debaixo da terra, garoto!}{Droga! Eles entraram de algum jeito! Vamos enterrar esses idiotas, garota!}{}{}{}{ }
 {183}{Seu covarde de merda! É isso que você ganha por não me apoiar!}{Sua vadia covarde! É isso que você ganha por não me apoiar!}{}{}{}{ }
 {184}{Seu filho de um cão vira-lata traidor! Vou te matar por isso!}{Sua vadia traiçoeira! Vou te matar por isso!}{}{}{}{ }
 {185}{Ninguém assalta o banco enquanto eu estiver por perto, cachorro!}{Ninguém assalta o banco enquanto eu estiver por perto, vagabunda!}{}{}{}{ }
@@ -174,7 +174,7 @@
 {213}{Você quer dizer... eu não gosto de você.}{}{-4}{re-40}{240}{ }
 {214}{T:10,13}{}{1}{re40}{254}{ }
 {215}{Tem algum trabalho por aqui?}{}{5}{lf1 1, gf2106 0, lf6 0}{63}{ }
-{216}{Preciso de um emprego.}{}{-4}{lf1 1, gf2106 0}{67}{ }
+{216}{Preciso de emprego.}{}{-4}{lf1 1, gf2106 0}{67}{ }
 {217}{E:}{}{1}{}{0}{ }
 {218}{Normalmente não falo com gente da sua laia, garoto.}{Normalmente não falo com gente da sua laia, madame.}{}{}{}{ }
 {219}{Ficaria muito agradecido se fizesse uma exceção para mim.}{}{5}{}{224}{re +5 }
@@ -182,20 +182,20 @@
 {221}{Por favoooor?}{}{-4}{}{224}{re +5 }
 {222}{Eu não gosto dessa sua boca estúpida. Eu mato você!}{}{-4}{}{0}{fl 137 ,co}
 {223}{E:}{}{1}{}{0}{ }
-{224}{Muito bem. Vejo que conhece o seu lugar. Em que posso ajudá-lo?}{Muito bem. Vejo que conhece o seu lugar. Em que posso ajudá-la?}{}{}{}{ }
+{224}{Muito bem. Vejo que conhece o seu lugar. Em que posso ajudá-la?}{Muito bem. Vejo que conhece o seu lugar. Em que posso ajudá-la?}{}{}{}{ }
 {225}{W:}{}{1}{lf1 0}{52}{lf1 1 }
 {226}{H:}{}{1}{}{254}{ }
 {227}{Meu lugar é dançar sobre o seu túmulo, cão!}{}{5}{}{0}{fl 137 ,co}
 {228}{Eu não conheço meu lugar. Vou te bater até ficar tonto, seu valentão.}{}{-4}{}{0}{fl 137 ,co}
 {229}{T:10,13}{}{1}{}{254}{ }
-{230}{Há algum trabalho por aqui?}{}{5}{lf1 1}{63}{ }
+{230}{Tem algum trabalho por aqui?}{}{5}{lf1 1}{63}{ }
 {231}{Preciso de emprego.}{}{-4}{lf1 1}{67}{ }
 {232}{E:}{}{1}{}{0}{ }
 {233}{Oh, me desculpe, senhor! Eu... hã... peço desculpas por qualquer ofensa que possa ter lhe causado! Por favor, o que posso fazer por você?}{Oh, me desculpe, senhora! Eu... hã... peço desculpas por qualquer ofensa que possa ter lhe causado! Por favor, o que posso fazer por você?}{}{}{}{ }
 {234}{W:}{}{1}{lf1 0}{52}{lf1 1 }
 {235}{H:}{}{1}{}{254}{ }
 {236}{Seria bom tomar cuidado com seus modos no futuro, senhor.}{}{5}{ch13}{245}{ }
-{237}{Há algum trabalho por aqui?}{}{5}{lf1 1, gf2106 0}{63}{ }
+{237}{Tem algum trabalho por aqui?}{}{5}{lf1 1, gf2106 0}{63}{ }
 {238}{Preciso de emprego.}{}{-4}{lf1 1, gf2106 0}{67}{ }
 {239}{E:}{}{1}{}{0}{ }
 {240}{Não me importa do que você gosta ou não, garoto! Sugiro que suma daqui antes que eu o jogue fora pelo pé!}{Não me importa do que você gosta ou não, mocinha! Sugiro que suma daqui antes que eu a jogue fora pelo pé!}{}{}{}{ }
@@ -204,7 +204,7 @@
 {245}{Claro. Não acontecerá novamente. Em que posso ajudá-lo hoje, meu bom homem?}{Claro. Não acontecerá novamente. Em que posso ajudá-la hoje, minha boa mulher?}{}{}{}{ }
 {246}{W:}{}{1}{lf1 0}{52}{lf1 1 }
 {247}{H:}{}{1}{}{254}{ }
-{251}{Há algum trabalho por aqui?}{}{5}{lf1 1, gf2106 0}{63}{ }
+{251}{Tem algum trabalho por aqui?}{}{5}{lf1 1, gf2106 0}{63}{ }
 {252}{Preciso de emprego.}{}{-4}{lf1 1, gf2106 0}{67}{ }
 {253}{E:}{}{1}{}{0}{ }
 {254}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{ }
@@ -212,14 +212,14 @@
 {256}{Quem é você?}{}{-4}{lf1 0}{52}{lf1 1 }
 {258}{H:}{}{1}{}{254}{ }
 {259}{T:10,13}{}{1}{}{254}{ }
-{260}{Há algum trabalho por aqui?}{}{5}{lf1 1, gf2106 0}{63}{ }
+{260}{Tem algum trabalho por aqui?}{}{5}{lf1 1, gf2106 0}{63}{ }
 {261}{Preciso de emprego.}{}{-4}{lf1 1, gf2106 0}{67}{ }
 {262}{O senhor pode me treinar para ser um especialista em armas de fogo?}{}{5}{tr13 -1}{46}{et13 310 }
-{263}{Quero ser espertu em armas!}{}{-4}{tr13 -1}{46}{et13 310 }
+{263}{Eu quero ser exxperto nas armas!}{}{-4}{tr13 -1}{46}{et13 310 }
 {264}{N:}{}{1}{}{0}{ }
 {265}{Droga! Eles entraram de alguma forma! Vamos colocar esses tolos a seis pés debaixo da terra, garoto!}{Droga! Eles entraram de alguma forma! Vamos colocar esses tolos a seis pés debaixo da terra, garota!}{}{}{}{ }
 {266}{Estou com você.}{}{5}{}{0}{ }
-{267}{De repente, tudo isso parece um pouco real demais para o meu gosto. Estou indo embora.}{}{5}{}{0}{lv, fl 183 ,co}
+{267}{De repente, tudo isso parece um tanto real demais para o meu gosto. Estou indo embora.}{}{5}{}{0}{lv, fl 183 ,co}
 {268}{Tá.}{}{-4}{}{0}{ }
 {269}{Estou com medo. Vou indo agora.}{}{-4}{}{0}{lv, fl 183 ,co}
 {275}{É melhor você correr para aquele banco antes que eu encha seu traseiro de chumbo, garoto.}{É melhor você correr para aquele banco antes que eu encha seu traseiro de chumbo, mocinha.}{}{}{}{ }
@@ -267,9 +267,9 @@
 {382}{Preciso de emprego.}{}{-4}{gf2106 0}{67}{ }
 {383}{O senhor pode me treinar para ser um especialista em armas de fogo?}{}{5}{tr13 -1, re41}{46}{et13 310 }
 {384}{T:10,13}{}{1}{}{57}{ }
-{385}{Um bêbado no saloon me pediu para assaltar o banco para ele.}{}{5}{qa1059 1, qb1059 3}{360}{qu1059 6, re+10, al+15 }
-{386}{Um fedorento me pediu pra roubar dinheiro do banco.}{}{-4}{qa1059 1, qb1059 3}{370}{qu1059 6, re+10, al+15 }
-{387}{Quero ser expeito nas arma de fogo!}{}{-4}{tr13 -1}{46}{et13 310 }
+{385}{Um beberrão no saloon me pediu para assaltar o banco para ele.}{}{5}{qa1059 1, qb1059 3}{360}{qu1059 6, re+10, al+15 }
+{386}{Um sujeito fedorento me pediu para roubar dinheiro no banco.}{}{-4}{qa1059 1, qb1059 3}{370}{qu1059 6, re+10, al+15 }
+{387}{Eu quero ser exxperto nas armas!}{}{-4}{tr13 -1}{46}{et13 310 }
 {389}{E:}{}{1}{}{0}{ }
 {390}{Tudo bem, então. Te vejo na frente do banco amanhã.}{Tudo bem, então. Te vejo na frente do banco amanhã.}{}{}{}{ }
 {400}{Olá, amigo, o que posso fazer por você?}{Olá, amigo, o que posso fazer por você?}{}{}{}{ }

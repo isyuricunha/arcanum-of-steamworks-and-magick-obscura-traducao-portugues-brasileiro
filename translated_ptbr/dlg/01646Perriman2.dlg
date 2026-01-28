@@ -50,7 +50,7 @@
 {58}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{}{}{}
 {59}{K:}{}{1}{}{45}{}
 {60}{Ah, nada em particular, na verdade. Só viajando e tal. Eu realmente não tinha visto nada além dos muros de Tulla antes de algumas semanas atrás. [O jovem mago sorri, um pouco sem jeito.] Você poderia dizer que vivi uma vida bem protegida.}{Ah, nada em particular, na verdade. Só viajando e tal. Eu realmente não tinha visto nada além dos muros de Tulla antes de algumas semanas atrás. [O jovem mago sorri, um pouco sem jeito.] Você poderia dizer que vivi uma vida bem protegida...}{}{11}{}{}
-{61}{Interessante. Conte-me sobre Tulla... como é lá?}{}{5}{}{67}{lf2 1}
+{61}{Interessante. Fale-me de Tulla... como é lá?}{}{5}{}{67}{lf2 1}
 {62}{Por que deixou Tulla em primeiro lugar?}{}{5}{}{89}{lf3 1}
 {63}{Hã... me fala sobre Toola!}{}{-4}{}{67}{lf2 1}
 {64}{Por que você deixou Toola, Perry?}{}{-4}{}{89}{lf3 1}
@@ -95,7 +95,7 @@
 {109}{Tenho outras perguntas!}{}{-4}{}{45}{}
 {110}{E:}{}{1}{}{0}{}
 {112}{Hmmm. Uma proposta interessante. Você parece bem viajado, meu amigo... mas o que VOCÊ está fazendo pelo mundo? O que o traz até Tarant?}{Hmmm. Uma proposta interessante. Você parece bem viajado, meu amigo... mas o que VOCÊ está fazendo pelo mundo? O que o traz até Tarant?}{}{18}{}{}
-{113}{É uma história muito longa, Perriman... [Conte-lhe tudo.]}{}{5}{}{119}{}
+{113}{É uma história muito longa, Perriman...[Conte tudo a ele.]}{}{5}{}{119}{}
 {114}{Só viajando, como você, meu velho...}{}{5}{}{143}{}
 {115}{Aquilo é uma LONGA história, Perry...[Conte tudo a ele.]}{}{-4}{}{119}{}
 {116}{Ah... só estou andando por aí e tal...}{}{-4}{}{143}{}
@@ -133,7 +133,7 @@
 {156}{Tá bom... é uma LONGA história, Perriman! [Conte tudo a ele.]}{}{-4}{}{126}{}
 {157}{Ah... eu já disse que só estou andando por aí!}{}{-4}{}{143}{}
 {158}{E:}{}{1}{}{0}{}
-{160}{Ora, sim! Seria uma honra. Não quero ser rude, mas a tradição exige que eu cobre 500 peças de ouro para isso... você tem o dinheiro?}{Ora, sim! Seria uma honra. Não quero ser rude, mas a tradição exige que eu cobre 500 peças de ouro para isso... você tem o dinheiro?}{}{26}{}{}
+{160}{Ora, sim! Seria uma honra fazer isso. Não quero ser rude, mas a tradição determina que eu cobre 500 peças de ouro para fazê-lo... você tem o dinheiro?}{Ora, sim! Seria uma honra fazer isso. Não quero ser rude, mas a tradição determina que eu cobre 500 peças de ouro para fazê-lo... você tem o dinheiro?}{}{26}{}{}
 {161}{Sim. Vou pagar pelo treinamento agora mesmo...}{}{5}{$$500}{166}{}
 {162}{Sim, mas talvez em outra hora. Mais algumas perguntas...}{}{5}{$$500}{45}{}
 {163}{Não... vamos falar sobre isso de novo, mais tarde. Mais algumas perguntas...}{}{5}{$$-499}{45}{}
@@ -150,9 +150,9 @@
 {177}{Gostaria que fizesse algo por mim, Perriman...}{}{5}{wa 0}{289}{}
 {178}{Preciso que você faça uma coisa pra mim, Perry!}{}{-4}{wa 0}{289}{}
 {179}{Você pode me treinar para ser um especialista em cura, Perriman?}{}{5}{tr 10 -1, wa 0}{332}{et 10  610}
-{180}{Pode parar de esperar agora, Perriman...}{}{5}{wa 1, pa -6577}{332}{uw 0 303}
+{180}{Você pode parar de esperar agora, Perriman...}{}{5}{wa 1, pa -6577}{332}{uw 0 303}
 {181}{Pare de esperar, Perry!...}{}{-4}{wa 1, pa -6577}{332}{uw 0 303}
-{182}{Pode parar de esperar agora, Perriman...}{}{5}{wa 1, pa 6577}{318}{}
+{182}{Você pode parar de esperar agora, Perriman...}{}{5}{wa 1, pa 6577}{318}{}
 {183}{Pare de esperar, Perry!...}{}{-4}{wa 1, pa 6577}{318}{}
 {184}{E:}{}{1}{}{0}{}
 {195}{Que tipo de perguntas você tem?}{Que tipo de perguntas você tem?}{}{30}{}{}
@@ -171,9 +171,8 @@
 {209}{Você sabe algo sobre a Ilha de Thanatos, Perriman?}{}{5}{ss 17, ss -17}{578}{}
 {210}{O que pode me contar sobre as ruínas de Vendigroth, Perriman?}{}{5}{ss 18, ss -18}{582}{}
 {211}{O que você sabe sobre o Anel de Brodgar, Perriman?}{}{5}{ss 19, ss -19}{590}{}
-{212}{Como vamos encontrar Arronax?}{}{5}{ss 20, ss -20}{}{}
-{213}{Perriman, você sabe ALGUMA COISA sobre esse Vazio?}{}{5}{ss 21, ss -21}{594}{}
-{214}{Perriman, o que você sabe sobre Kerghan?}{}{5}{ss 23, ss -23}{598}{}
+{213}{Perriman, você sabe ALGUMA coisa sobre esse Vazio?}{}{5}{ss 20, ss -21}{594}{}
+{214}{Perriman, o que você sabe sobre Kerghan?}{}{5}{ss 22, ss -22}{598}{}
 {215}{Perriman! O que vamos fazer agora?}{}{5}{ss 24, ss -24}{602}{}
 {216}{O que você sabe sobre este lugar?}{}{5}{ia 1}{352}{}
 {217}{O que você sabe sobre este lugar?}{}{5}{ia 21}{356}{}
@@ -199,29 +198,27 @@
 {237}{Hmm... preciso saber sobre Th-h-ana-tos...!}{}{-4}{ss 17, ss -17}{578}{}
 {238}{Hmm... me fale sobre Vend-d-ee-g-roooth Roons?}{}{-4}{ss 18, ss -18}{582}{}
 {239}{Você sabe alguma coisa sobre a Coisa do Guarda-Costas, Perry?}{}{-4}{ss 19, ss -19}{590}{}
-{240}{Ahh! Perry! O que você sabe sobre o Vazio?}{}{-4}{ss 20, ss -20}{594}{}
+{240}{Ahh! Perry! O que você sabe sobre o Vazio?}{}{-4}{ss 20, ss -21}{594}{}
 {241}{Você sabe algo sobre Kergun?}{}{-4}{ss 22, ss -22}{598}{}
 {242}{Perry! O que vamos fazer agora?}{}{-4}{ss 24, ss -24}{602}{}
 {243}{O que você sabe sobre este lugar?}{}{-4}{ia 1}{352}{}
 {244}{O que você sabe sobre este lugar?}{}{-4}{ia 21}{356}{}
 {245}{O que você sabe sobre este lugar?}{}{-4}{ia 3}{360}{}
-{246}{O que você sabe sobre este lugar?}{}{-4}{ia 4}{364}{}
 {247}{O que você sabe sobre este lugar?}{}{-4}{ia 5}{364}{}
 {248}{O que você sabe sobre este lugar?}{}{-4}{ia 8}{368}{}
-{249}{O que você sabe sobre este lugar?}{}{-4}{ia 9}{372}{}
 {250}{O que você sabe sobre este lugar?}{}{-4}{ia 10}{372}{}
 {251}{O que você sabe sobre este lugar?}{}{-4}{ia 11}{376}{}
 {252}{O que você sabe sobre este lugar?}{}{-4}{ia 16}{380}{}
-{253}{Você parece bravo comigo, Perriman. Tem algo que eu possa fazer?}{}{5}{re -20}{268}{}
+{253}{Você parece bravo comigo, Perriman. Há algo que eu possa fazer?}{}{5}{re -20}{268}{}
 {254}{Hmm... você está bravo comigo?}{}{-4}{re -20}{268}{}
 {255}{E:}{}{1}{}{0}{}
 {268}{Bem, devo dizer que não estou nada feliz com o rumo que essa aventura está tomando. Mas, hmm... se você me trouxer um pouco de Chá Earl Grey... bem, meu humor pode melhorar muito...}{Bem, devo dizer que não estou nada feliz com o rumo que essa aventura está tomando. Mas, hmm... se você me trouxer um pouco de Chá Earl Grey... bem, meu humor pode melhorar muito...}{}{69}{}{}
 {269}{Ora, Perriman... isso é realmente necessário?}{}{5}{ch 20}{276}{re +20}
 {270}{Uma excelente escolha, meu amigo. E eu tenho um pouco bem aqui...!}{}{5}{in 3616, ch -19}{-30}{re +20}
-{271}{Vou ver se consigo arranjar um pouco para você, Perriman...}{}{5}{in -3616, ch -19}{285}{}
+{271}{Vou ver se consigo arranjar um pouco para você, Perriman...}{}{5}{ni 3616, ch -19}{285}{}
 {272}{Oh, as coisas tolas com que sonhamos! Vamos, que tal?}{}{5}{}{}{re -5, fl 287}
 {273}{Eu tenho um pouco aqui mesmo, Perry!}{}{-4}{in 3616, ch -19}{-30}{re +20}
-{274}{Hm... talvez eu encontre alguns pra você, Perry!}{}{-4}{in -3616, ch -19}{285}{}
+{274}{Hm... talvez eu encontre alguns pra você, Perry!}{}{-4}{ni 3616, ch -19}{285}{}
 {275}{Que pena você não conseguir nenhum. A gente vai agora...}{}{-4}{}{}{re -5, fl 287}
 {276}{[Perriman franze a testa, então sorri sem jeito, incapaz de resistir ao seu poderoso carisma.] Sim... suponho que eu esteja sendo um pouco tolo, não estou? Vamos simplesmente esquecer que eu disse qualquer coisa...}{[Perriman franze a testa, então sorri sem jeito, incapaz de resistir ao seu poderoso carisma.] Sim... suponho que eu esteja sendo um pouco tolo, não estou? Vamos simplesmente esquecer que eu disse qualquer coisa...}{}{70}{}{}
 {277}{E:}{}{1}{}{0}{}
@@ -270,7 +267,7 @@
 {324}{Hã... tá bravo comigo? Quem sabe eu faço alguma coisa por você, Perry?}{}{-4}{re -20}{268}{}
 {325}{E:}{}{1}{lf5 1}{0}{}
 {326}{[Perriman parece dividido, mas assente.] Sim... suponho que você esteja certo. Mas que fique registrado que eu disse que isso era uma má ideia! Tarrelond-Ashe não é amigo de ninguém!}{[Perriman parece dividido, mas assente.] Sim... suponho que você esteja certo. Mas que fique registrado que eu disse que isso era uma má ideia! Tarrelond-Ashe não é amigo de ninguém!}{}{37}{}{}
-{327}{Você vai se juntar a mim?}{}{1}{}{318}{jo 0 336}
+{327}{Você vai se juntar a mim?}{}{1}{}{318}{jo 0 335}
 {328}{Sim, tenho certeza de que ele o convenceu de que é um sujeito direito. Mas o fato é que ele não passa de maldade... um necromante negro de cabo a rabo. Além disso, não teve coragem de terminar seus estudos em Tulla. Imperdoável, na minha opinião. Não, receio que você terá que escolher entre nós...}{Sim, tenho certeza de que ele o convenceu de que é um sujeito direito. Mas o fato é que ele não passa de maldade... um necromante negro de cabo a rabo. Além disso, não teve coragem de terminar seus estudos em Tulla. Imperdoável, na minha opinião. Não, receio que você terá que escolher entre nós...}{}{38}{}{}
 {329}{Mas Perriman...}{}{5}{}{-15}{}
 {330}{Hã... Perry...}{}{-4}{}{-15}{}
@@ -285,7 +282,7 @@
 {341}{E:}{}{1}{}{0}{}
 {344}{Sim! Estou mais do que pronto para me juntar a você, se me aceitar! Vamos!}{Sim! Estou mais do que pronto para me juntar a você, se me aceitar! Vamos!}{}{42}{}{}
 {345}{E:}{}{1}{}{0}{}
-{352}{Nunca estive aqui, mas tenho alguns livros que descrevem o lugar. Colinas Sombrias, acho que é o nome. Ligado àquela profecia Panarii, creio... e deve haver um belo templo Panarii aqui também. Parece que me lembro de ter lido que ele caiu em desuso...}{Nunca estive aqui, mas tenho alguns livros que descrevem o lugar. Colinas Encobertas, acho que é assim que se chama. Está ligado àquela profecia dos Panarii, eu acho... e dizem que há um belo templo Panarii aqui também. Lembro-me de ter lido que ele caiu em desuso...}{}{43}{}{}
+{352}{Nunca estive aqui, mas tenho alguns livros que descrevem o lugar. Colinas Encobertas, acho que é assim que se chama. Está ligado àquela profecia dos Panarii, eu acho... e dizem que há um belo templo Panarii aqui também. Lembro-me de ter lido que ele caiu em desuso...}{Nunca estive aqui, mas tenho alguns livros que descrevem o lugar. Colinas Encobertas, acho que é assim que se chama. Está ligado àquela profecia dos Panarii, eu acho... e dizem que há um belo templo Panarii aqui também. Lembro-me de ter lido que ele caiu em desuso...}{}{43}{}{}
 {353}{K:}{}{1}{}{195}{}
 {354}{E:}{}{1}{}{0}{}
 {356}{Esta é Tarant, meu amigo! Uma das maiores cidades da história de Arcanum! Grande população humana, muito influenciada pelas novas tecnologias, aparentemente avessa aos caminhos da magia. Bem, nenhum lugar é perfeito. Sempre quis conhecer a Universidade de Tarant...}{Esta é Tarant, meu amigo! Uma das maiores cidades da história de Arcanum! Grande população humana, muito influenciada pelas novas tecnologias, aparentemente avessa aos caminhos da magia. Bem, nenhum lugar é perfeito. Sempre quis conhecer a Universidade de Tarant...}{}{44}{}{}
@@ -330,7 +327,7 @@
 {558}{Bem, sei que a rainha élfica mora lá... seu nome está na antiga língua élfica, mas acho que se traduz como a Dama de Prata. Acredito que ela tenha uma filha também, mas devo dizer que não sou especialista em tradições élficas...}{Bem, sei que a rainha élfica mora lá... seu nome está na antiga língua élfica, mas acho que se traduz como a Dama de Prata. Acredito que ela tenha uma filha também, mas devo dizer que não sou especialista em tradições élficas...}{}{57}{}{}
 {559}{K:}{}{1}{}{195}{}
 {560}{E:}{}{1}{}{0}{}
-{562}{Ah, com certeza! Nunca estive lá de fato, mas li bastante sobre o lugar! Uma das últimas grandes monarquias em todo o Arcanum, embora eu saiba que eles estão começando a abraçar os caminhos da tecnologia. Suponho que não se pode explicar gostos. Ah! E acredito que a religião Panarii também tenha seu templo principal lá...}{Ah, com certeza! Nunca estive lá de fato, mas li bastante sobre o lugar! Um dos últimos grandes monarquias em todo o Arcanum, embora eu saiba que eles estão começando a adotar os caminhos da tecnologia. Suponho que não se pode julgar gostos. Ah! E acredito que a religião Panarii tem seu templo principal lá também...}{}{58}{}{}
+{562}{Ah, com certeza! Nunca estive lá de fato, mas li bastante sobre o lugar! Um dos últimos grandes monarquias em todo o Arcanum, embora eu saiba que eles estão começando a adotar os caminhos da tecnologia. Suponho que não se pode julgar gostos. Ah! E acredito que a religião Panarii tem seu templo principal lá também...}{Ah, com certeza! Nunca estive lá de fato, mas li bastante sobre o lugar! Um dos últimos grandes monarquias em todo o Arcanum, embora eu saiba que eles estão começando a adotar os caminhos da tecnologia. Suponho que não se pode julgar gostos. Ah! E acredito que a religião Panarii tem seu templo principal lá também...}{}{58}{}{}
 {563}{K:}{}{1}{}{195}{}
 {564}{E:}{}{1}{}{0}{}
 {566}{Bem, eles são uma espécie de lenda, não são? Quero dizer, não é como se você os visse por aí se anunciando. Lembro-me de um dos anciãos me contar sobre um livro sobre os Elfos Negros nos arquivos Tullan... um dia ele desapareceu, e ninguém nunca soube para onde. Estranho, não acha...?}{Bem, eles são uma espécie de lenda, não são? Quero dizer, não é como se você os visse por aí se anunciando. Lembro-me de um dos anciãos me contar sobre um livro sobre os Elfos Negros nos arquivos Tullan... um dia ele desapareceu, e ninguém nunca soube para onde. Estranho, não acha...?}{}{59}{}{}

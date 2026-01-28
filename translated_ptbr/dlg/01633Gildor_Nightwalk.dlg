@@ -3,13 +3,13 @@
 {3}{Isso foi muito indelicado.}{}{5}{lf1 0, re -40}{39}{}
 {4}{Eu o ofendi de alguma forma, Gildor?}{}{5}{lf1 1, lf2 0}{51}{}
 {5}{Olá novamente, Gildor. Poderia me conceder um pouco mais do seu tempo?}{}{5}{lf1 1, lf2 1,re 41, qu1109 0, lf3 0}{57}{}
-{6}{Eu o ofendi de alguma forma, Gildor?}{}{5}{lf1 1, lf2 1, re -40}{47}{}
+{6}{Eu o ofendi de alguma forma, Gildor?}{}{5}{lf1 1, lf2 1, re -40, qu1109 0}{47}{}
 {7}{Perdoe-me por ter saído tão abruptamente. Por favor, continue sua história.}{}{5}{lf3 0, lf4 1, qu1109 0, ni 5232}{177}{}
 {8}{Terminei o livro, fascinante... Por favor, continue...}{}{5}{lf3 1, qu1109 0, in 5232}{105}{}
 {9}{Perdoe-me por ter saído tão abruptamente. Por favor, continue sua história.}{}{5}{lf5 1, qu1109 0}{184}{}
 {10}{Eu trarei o rubi para você!}{}{5}{lf3 1, qu1109 1}{151}{}
 {11}{Não consegui obter o grande rubi.}{}{5}{lf3 1, qu1109 2, ni 5662}{158}{}
-{12}{Eu tenho O Grande Rubi de K'alru!}{}{5}{lf3 1,  in 5662}{163}{re +20}
+{12}{Eu tenho O Grande Rubi de K'alru!}{}{5}{lf3 1,  in 5662, qb1109 3}{163}{re +20}
 {13}{E:}{}{5}{}{0}{}
 {14}{Ei, senhor. Qual é o seu nome?}{}{-4}{lf1 0, re 41}{25}{}
 {15}{Isso não foi legal...}{}{-4}{lf1 0, re -40}{39}{}
@@ -20,7 +20,7 @@
 {20}{Me desculpe por ter ido embora... você conta mais?}{}{-4}{lf5 1, qu1109 0}{184}{}
 {21}{Eu pego o rubi pra você!}{}{-4}{lf3 1, qu1109 1}{151}{}
 {22}{Eu não consegui o rubi.}{}{-4}{lf3 1, qu1109 2, ni5662}{158}{}
-{23}{Eu consegui o rubi!}{}{-4}{lf3 1,  in 5662}{163}{re +20}
+{23}{Eu consegui o rubi!}{}{-4}{lf3 1,  in 5662, qb1109 3}{163}{re +20}
 {24}{E:}{}{-4}{}{0}{}
 {25}{Eu sou Gildor Nightwalk. Quem é você?}{Eu sou Gildor Nightwalk. Quem é você?}{}{}{}{lf1 1}
 {26}{Meu nome é @pcname@.}{}{5}{}{57}{lf2 1}
@@ -36,14 +36,14 @@
 {36}{Desculpe. Eu fui mau. Meu nome é @pcname@.}{}{-4}{}{57}{re+5, lf2 1}
 {37}{Não precisa... Você vai estar morto...}{}{-4}{}{}{co, fl 46}
 {38}{E:}{}{-4}{}{0}{}
-{39}{Se não consegue lidar nem com isso, o que está fazendo perambulando longe de casa, tolo? Agora diga o que quer ou saia da minha casa!}{Se você não consegue nem lidar com isso, o que está fazendo perambulando longe de casa, idiota? Agora diga logo o que quer ou saia da minha casa!}{}{}{}{}
+{39}{Se você não consegue nem lidar com isso, o que está fazendo perambulando longe de casa, idiota? Agora diga logo o que quer ou saia da minha casa!}{Se você não consegue nem lidar com isso, o que está fazendo perambulando longe de casa, idiota? Agora diga logo o que quer ou saia da minha casa!}{}{}{}{}
 {40}{Tudo bem. Posso saber seu nome?}{}{5}{}{25}{}
 {41}{Chega! Você já me insultou o suficiente! Defenda-se!}{}{5}{}{}{co, fl 46}
 {42}{E:}{}{5}{}{0}{}
 {43}{Hã, tá bom. Qual é o seu nome?}{}{-4}{}{25}{}
 {44}{Você é muito mau! Precisa morrer!}{}{-4}{}{}{co, fl 46}
 {45}{E:}{}{-4}{}{0}{}
-{46}{Você nem sabe com quem está se metendo, idiota...}{Você nem sabe com quem está se metendo, idiota...}{}{}{}{}
+{46}{Você nem sabe com quem está lidando, tolo...}{Você nem sabe com quem está lidando, tolo...}{}{}{}{}
 {47}{Vejo que ainda se irrita com facilidade. O que você quer @pcname@?}{Vejo que ainda se irrita com facilidade. O que você quer @pcname@?}{}{}{}{}
 {48}{Hmm... Tenho uma pergunta.}{}{5}{}{57}{}
 {49}{Vejo que ainda é um homenzinho rude... Tenho uma pergunta...}{}{5}{}{57}{re-5}
@@ -56,12 +56,12 @@
 {56}{E:}{}{-4}{}{0}{}
 {57}{Bem, o que é, @pcname@?}{Bem, o que é, @pcname@?}{}{}{}{}
 {58}{R:($0, 1090-1099)}{}{5}{}{57}{}
-{59}{Você tem algum trabalho para mim?}{}{5}{sk6 13}{66}{}
-{60}{Você tem algum trabalho para mim?}{}{5}{sk6 -12}{203}{}
+{59}{Você tem algum trabalho para mim?}{}{5}{sk6 13, qu1109 0}{66}{}
+{60}{Você tem algum trabalho para mim?}{}{5}{sk6 -12, qu1109 0}{203}{}
 {61}{E:}{}{5}{}{0}{}
 {62}{R:($0, 1090-1099)}{}{-4}{}{57}{}
-{63}{Você tem trabalho pra mim fazer?}{}{-4}{sk6 13}{66}{}
-{64}{Você tem trabalho pra mim fazer?}{}{-4}{sk6 -12}{203}{}
+{63}{Você tem trabalho pra mim fazer?}{}{-4}{sk6 13, qu1109 0}{66}{}
+{64}{Você tem trabalho pra mim fazer?}{}{-4}{sk6 -12, qu1109 0}{203}{}
 {65}{E:}{}{-4}{}{0}{}
 {66}{[ele o examina minuciosamente, avaliando suas habilidades] Trabalho, é? Pode ser que haja algo... No entanto, não é uma tarefa simples e exigirá muita coragem para ser concluída. Isso lhe interessa @pcname@?}{[ele o examina minuciosamente, avaliando suas habilidades] Trabalho, é? Pode ser que haja algo... No entanto, não é uma tarefa simples e exigirá muita coragem para ser concluída. Isso lhe interessa @pcname@?}{}{}{}{}
 {67}{Interessa. O que você quer que eu faça?}{}{5}{}{71}{}
@@ -80,7 +80,7 @@
 {80}{E:}{}{5}{}{0}{}
 {81}{Hum hum...}{}{-4}{}{83}{}
 {82}{E:}{}{-4}{}{0}{}
-{83}{ Com o passar do tempo, provei a eles que não era apenas um servo forçado e me tornei um membro valorizado do grupo. Aventuramo-nos juntos por vários anos, seguindo antigas lendas e descobrindo tesouros perdidos. Foi um período rico e selvagem em minha vida... [ele se perde em pensamentos por um momento]}{ Com o passar do tempo, provei a eles que não era apenas um servo forçado e me tornei um membro valorizado do grupo. Aventuramo-nos juntos por vários anos, seguindo antigas lendas e descobrindo tesouros perdidos. Foi um período rico e selvagem em minha vida... [ele se perde em pensamentos por um momento]}{}{}{}{}
+{83}{Com o passar do tempo, provei a eles que não era apenas um servo impressionado, e me tornei um membro valorizado do grupo. Aventureiros juntos por vários anos, seguindo antigas lendas e descobrindo tesouros perdidos. Foi um período rico e selvagem em minha vida... [ele se perde em pensamentos por um momento]}{Com o passar do tempo, provei a eles que não era apenas um servo impressionado, e me tornei um membro valorizado do grupo. Aventureiros juntos por vários anos, seguindo antigas lendas e descobrindo tesouros perdidos. Foi um período rico e selvagem em minha vida... [ele se perde em pensamentos por um momento]}{}{}{}{}
 {84}{Por favor, continue.}{}{5}{}{88}{}
 {85}{E:}{}{5}{}{0}{}
 {86}{Hum hum...}{}{-4}{}{88}{}
@@ -107,7 +107,7 @@
 {107}{E:}{}{5}{}{0}{}
 {108}{Hum hum...}{}{-4}{}{110}{}
 {109}{E:}{}{-4}{}{0}{}
-{110}{Ao nos aproximarmos do local, era como a carta descrevia. Os pelos de nossos pescoços se eriçaram e os sons da floresta cessaram. Dava para sentir a apreensão no ar... Então chegamos à clareira... e ao rubi. Era incrível. Nunca havia contemplado algo tão belo. Todos ficamos hipnotizados, sonhando com os prazeres que poderíamos desfrutar ao possuir tal tesouro.}{Ao nos aproximarmos do local, era como a carta descrevia. Os pelos de nossos pescoços se eriçaram e os sons da floresta cessaram. Dava para sentir a apreensão no ar... Então chegamos à clareira... e ao rubi. Era incrível. Nunca havia contemplado algo tão belo. Todos ficamos hipnotizados, sonhando com os prazeres que poderíamos desfrutar ao possuir tal tesouro.}{}{}{}{}
+{110}{À medida que nos aproximávamos do local, era exatamente como o livro descrevia. Os pelos de nossa nuca se arrepiaram e os sons da floresta cessaram. Dava para sentir a apreensão no ar... Então chegamos à clareira... e ao rubi. Era incrível. Nunca havia contemplado algo tão belo. Todos ficamos hipnotizados, sonhando com os prazeres que poderíamos desfrutar ao possuir tal tesouro.}{À medida que nos aproximávamos do local, era exatamente como o livro descrevia. Os pelos de nossa nuca se arrepiaram e os sons da floresta cessaram. Dava para sentir a apreensão no ar... Então chegamos à clareira... e ao rubi. Era incrível. Nunca havia contemplado algo tão belo. Todos ficamos hipnotizados, sonhando com os prazeres que poderíamos desfrutar ao possuir tal tesouro.}{}{}{}{}
 {111}{Hum hum...}{}{5}{}{115}{}
 {112}{E:}{}{5}{}{0}{}
 {113}{Conte mais. Mais!}{}{-4}{}{115}{}
@@ -122,17 +122,17 @@
 {122}{Que horrível!}{}{5}{}{125}{}
 {123}{Que terrível... E depois, o que aconteceu?}{}{-4}{}{125}{}
 {124}{E:}{}{1}{}{0}{}
-{125}{Cautelosamente, aproximei-me das pedras, mas não ousei passar por sua marca. Enquanto observava a cena macabra diante de mim, notei que havia um aviso esculpido em cada pedra. Dizia: "O Grande Rubi de K'alru foi encontrado. Ouça este aviso antes de se mover. Aquele que caminha sem fazer som passará pela morte sob o chão."}{Cautelosamente, aproximei-me das pedras, mas não ousei passar por sua marca. Enquanto observava a cena macabra diante de mim, notei que havia um aviso esculpido em cada pedra. Dizia: "The Great Ruby of K'alru is found. Heed this warning ere you move around. He who walks without a sound shall pass the death beneath the ground."}{}{}{}{}
+{125}{Cautelosamente, aproximei-me das pedras, mas não ousei passar por sua marca. Enquanto observava a cena macabra diante de mim, notei que havia um aviso esculpido em cada pedra. Dizia: "The Great Ruby of K'alru is found. Heed this warning ere you move around. He who walks without a sound shall pass the death beneath the ground."}{Cautelosamente, aproximei-me das pedras, mas não ousei passar por sua marca. Enquanto observava a cena macabra diante de mim, notei que havia um aviso esculpido em cada pedra. Dizia: "The Great Ruby of K'alru is found. Heed this warning ere you move around. He who walks without a sound shall pass the death beneath the ground."}{}{}{}{}
 {126}{Se ao menos tivessem lido as pedras...}{}{5}{}{130}{}
-{127}{Que ironia...}{}{5}{}{0}{}
+{127}{Que ironia...}{}{5}{}{130}{}
 {128}{Hum hum...}{}{-4}{}{130}{}
-{129}{E:}{}{-4}{}{0}{}
+{129}{E:}{}{1}{}{0}{}
 {130}{Uma doença cresceu dentro de mim, pois eu sabia que, se meus companheiros tivessem apenas esperado, ainda estariam vivos, pois eu tinha a habilidade necessária para obter o rubi.    Mas, no rescaldo, enquanto o terror sacudia meus ossos, eu estava abalado demais pelo que havia testemunhado e me faltou a confiança para completar a tarefa.}{Uma doença cresceu dentro de mim, pois eu sabia que, se meus companheiros tivessem apenas esperado, ainda estariam vivos, pois eu tinha a habilidade necessária para obter o rubi.    Mas, no rescaldo, enquanto o terror sacudia meus ossos, eu estava abalado demais pelo que havia testemunhado e me faltou a confiança para completar a tarefa.}{}{}{}{}
 {131}{O que você fez?}{}{5}{}{135}{}
 {132}{Você foi embora?}{}{5}{}{135}{}
 {133}{O que cê fez?}{}{-4}{}{135}{}
 {134}{E:}{}{1}{}{0}{}
-{135}{Fugi da cena do massacre.    Vaguei sem rumo por um tempo, antes de fazer de Stillwater meu lar.    Nunca mais saí de lá.    Receio que meus dias de aventura tenham chegado ao fim.    No entanto, como diz o autor da carta, a joia e as feras ainda assombram meu sono.}{Fugi da cena do massacre.    Vaguei sem rumo por um tempo, antes de fazer de Stillwater meu lar.    Nunca mais saí de lá.    Receio que meus dias de aventura tenham chegado ao fim.    No entanto, como diz o autor da carta, a joia e as feras ainda assombram meu sono.}{}{}{}{}
+{135}{Fugi da cena do massacre. Vaguei sem rumo por um tempo, antes de fazer de Stillwater meu lar. Nunca mais saí de lá. Receio que meus dias de aventura tenham chegado ao fim. No entanto, como diz o autor do livro, a joia e as feras ainda assombram meu sono.}{Fugi da cena do massacre. Vaguei sem rumo por um tempo, antes de fazer de Stillwater meu lar. Nunca mais saí de lá. Receio que meus dias de aventura tenham chegado ao fim. No entanto, como diz o autor do livro, a joia e as feras ainda assombram meu sono.}{}{}{}{}
 {136}{Então você não recuperou o rubi?}{}{5}{}{142}{}
 {137}{Então você nunca voltou?}{}{5}{}{142}{}
 {138}{E:}{}{5}{}{0}{}

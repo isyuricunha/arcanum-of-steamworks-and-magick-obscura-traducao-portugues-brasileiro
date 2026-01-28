@@ -5,20 +5,20 @@
 {11}{Aqui está a prova que você precisará para condenar Sharpe.}{}{5}{in5641, lf1 1, qb1081 2}{231}{ }
 {12}{Sharpe tinha um frasco vazio do mesmo veneno usado para matar Wrath.}{}{5}{gf2164 1, ni5641, lf1 1, qb1081 2, gf2166 0}{280}{ }
 {13}{Acredito que sei quem matou Wrath.}{}{5}{gf2698 1, lf25 0, gf2166 0}{450}{lf25 1 }
-{15}{Você pode me dizer como Wrath foi morto?}{}{5}{gf2163 1, lf2 0}{50}{lf2 1 }
+{15}{Pode me dizer como Wrath foi morto?}{}{5}{gf2163 1, lf2 0}{50}{lf2 1 }
 {16}{Posso entrar e falar com Jormund?}{}{5}{lf3 1, gf2163 0}{150}{ }
 {17}{Falei com Ivory. Há algo que você deveria saber.}{}{5}{gf2166 1, qu1081 4}{310}{ }
 {18}{Wrath se matou. Ele estava tentando incriminar Sharpe.}{}{5}{gf2166 1, qb1081 2}{320}{ }
 {19}{E:}{}{5}{}{0}{ }
 {20}{Ele matou Wrath, seu mentor. A antipatia de Jormund por Wrath é bem conhecida em Qintarra, assim como seu desejo de ser liberado de seu contrato.}{Ele matou Wrath, seu mentor. A antipatia de Jormund por Wrath é bem conhecida em Qintarra, assim como seu desejo de ser liberado de seu contrato.}{}{}{}{ }
 {21}{Isso não prova que ele o matou.}{}{5}{}{30}{ }
-{29}{Isso é tudo muito interessante. Posso entrar e falar com ele?}{}{5}{}{150}{ }
+{29}{Isso tudo é muito interessante. Posso entrar e falar com ele?}{}{5}{}{150}{ }
 {30}{Quem mais poderia ter feito isso? Elfos como nós não se matam. Além de você, ele era o único outro forasteiro em Qintarra quando o assassinato ocorreu.}{Quem mais poderia ter feito isso? Elfos como nós não se matam. Além de você, ele era o único outro forasteiro em Qintarra quando o assassinato ocorreu.}{}{}{}{lf15 1 }
 {31}{"Elfos como nós"? Existem outros tipos de elfos?}{}{5}{ra-3}{40}{ }
 {32}{Isso não faz de mim um suspeito também?}{}{5}{}{140}{ }
 {33}{"Elfos como nós"? Existem outros tipos de elfos?}{}{5}{ra3}{80}{ }
-{39}{Isso é tudo muito interessante. Posso entrar e falar com ele?}{}{5}{}{150}{ }
-{40}{Hmm. Não, não existem. Você deve ter entendido mal o que eu quis dizer.}{Hmm. Não, não existem. Você deve ter entendido mal o que eu quis dizer.}{}{}{}{ }
+{39}{Isso tudo é muito interessante. Posso entrar e falar com ele?}{}{5}{}{150}{ }
+{40}{Hã. Não, não existem. Você deve ter entendido mal o que eu quis dizer.}{Hã. Não, não existem. Você deve ter entendido mal o que eu quis dizer.}{}{}{}{ }
 {41}{Como ele foi morto, se não se importa que eu pergunte?}{}{5}{lf2 0}{50}{lf2 1 }
 {42}{Você está dizendo que não há assassinato entre elfos "como vocês"?}{}{5}{}{160}{ }
 {49}{Posso entrar e falar com ele?}{}{5}{}{150}{ }
@@ -39,10 +39,10 @@
 {92}{Por favor, me esclareça. Sou novo por aqui.}{}{5}{ps8}{100}{ }
 {93}{Por favor, me esclareça. Sou novo por aqui.}{}{5}{ps-7}{120}{ }
 {94}{Você tem utilidade para um ferimento sério no estômago, idiota?}{}{5}{}{130}{re-10 }
-{100}{[Ele olha ao redor para ter certeza de que ninguém mais está ouvindo e sussurra:] Os sombrios! Nunca ouviu falar dos elfos negros?}{[Ele olha ao redor para ter certeza de que ninguém mais está ouvindo e sussurra:] Os elfos negros! Nunca ouviu falar dos elfos negros?}{}{}{}{ }
-{101}{Não, não ouvi. O que mais pode me contar sobre eles?}{}{5}{}{110}{ }
+{100}{[Ele olha ao redor para ter certeza de que ninguém mais está ouvindo e sussurra:] Os sombrios! Você nunca ouviu falar dos elfos negros?}{[Ele olha ao redor para ter certeza de que ninguém mais está ouvindo e sussurra:] Os elfos negros! Nunca ouviu falar dos elfos negros?}{}{}{}{ }
+{101}{Não, nunca ouvi. O que mais pode me contar sobre eles?}{}{5}{}{110}{ }
 {102}{Ah, sim, claro! Agora me diga, como Wrath foi morto?}{}{5}{}{50}{ }
-{110}{Eu nem deveria ter falado sobre isso. Não sei como conseguiu arrancar isso de mim, mas não vou lhe contar mais nada.}{Eu nem deveria ter falado sobre isso. Não sei como conseguiu arrancar isso de mim, mas não vou lhe contar mais nada.}{}{}{}{ }
+{110}{Eu nem deveria ter falado sobre isso. Não sei como você conseguiu arrancar isso de mim, mas não vou contar mais nada.}{Eu nem deveria ter falado sobre isso. Não sei como você conseguiu arrancar isso de mim, mas não vou contar mais nada.}{}{}{}{ }
 {111}{Poderia me dizer como Wrath foi morto?}{}{5}{}{50}{ }
 {120}{Não é meu trabalho lhe informar sobre detalhes a respeito da sua própria raça. Se vai continuar me fazendo perguntas tolas, agradeceria se fosse embora.}{Não é meu trabalho lhe informar sobre detalhes a respeito da sua própria raça. Se vai continuar me fazendo perguntas tolas, agradeceria se fosse embora.}{}{}{}{ }
 {121}{Pode me dizer como Wrath foi morto?}{}{5}{lf2 0}{50}{ }
@@ -112,7 +112,7 @@
 {310}{E isso seria?}{E isso seria?}{}{}{}{ }
 {311}{Wrath se matou e incriminou Sharpe.}{}{5}{}{320}{ }
 {320}{Um elfo se matando? Isso é inédito! Matar o corpo físico interromperia o fluxo, seria a morte definitiva! Eu esperaria que um agitador como Ivory pensasse em algo tão ridículo.}{Um elfo se matando? Isso é inédito! Matar o corpo físico interromperia o fluxo, seria a morte definitiva! Eu esperaria que um agitador como Ivory pensasse em algo tão ridículo.}{}{}{}{ }
-{321}{Foi Wrath quem bolou a ideia de eles morarem juntos.}{}{5}{}{330}{ }
+{321}{Foi Wrath quem bolou a ideia de eles viverem juntos.}{}{5}{}{330}{ }
 {322}{O que acontece quando os elfos morrem, em circunstâncias normais?}{}{5}{ra-3}{350}{ }
 {323}{Então não haveria transmutação para o próximo nível?}{}{5}{ra3}{370}{ }
 {330}{O degenerado! Eu sabia que Sharpe devia ter sido desviado por alguém. Ele sempre foi um bom rapaz.}{O degenerado! Eu sabia que Sharpe devia ter sido desviado por alguém. Ele sempre foi um bom rapaz.}{}{}{}{ }
@@ -121,7 +121,7 @@
 {340}{Certamente. Obrigado por toda a sua ajuda.}{Certamente. Obrigado por toda a sua ajuda.}{}{}{}{al+100, fp }
 {341}{De nada, bom senhor.}{}{5}{}{0}{lf10 1 }
 {350}{Se um elfo não conseguir transmutar seu corpo físico antes que seu espírito tenha partido, ele não poderá continuar sua existência no próximo plano. É por isso que um assassinato entre elfos é inédito.}{Se um elfo não conseguir transmutar seu corpo físico antes que seu espírito tenha partido, ele não poderá continuar sua existência no próximo plano. É por isso que um assassinato entre elfos é inédito.}{}{}{}{ }
-{351}{Wrath estava simplesmente perturbado, suspeito.}{}{5}{}{360}{ }
+{351}{Wrath era simplesmente desequilibrado, eu suspeito.}{}{5}{}{360}{ }
 {360}{Eu concordaria que Wrath era uma figura estranha, mas por que você diz que ele era desequilibrado? Pelo menos ele vivia como um elfo deveria, sozinho.}{Eu concordaria que Wrath era uma figura estranha, mas por que você diz que ele era desequilibrado? Pelo menos ele vivia como um elfo deveria, sozinho.}{}{}{}{ }
 {361}{Foi Wrath quem bolou a ideia de eles viverem juntos.}{}{5}{}{330}{ }
 {370}{Exatamente. Como você bem sabe, se um elfo não conseguir transmutar seu corpo físico antes que seu espírito tenha partido, ele não poderá continuar sua existência no próximo plano. É por isso que um assassinato é algo inédito entre nós.}{Exatamente. Como você bem sabe, se um elfo não conseguir transmutar seu corpo físico antes que seu espírito tenha partido, ele não poderá continuar sua existência no próximo plano. É por isso que um assassinato é algo inédito entre nós.}{}{}{}{ }
@@ -165,7 +165,7 @@
 {490}{Não brinque comigo. Você é um elfo, sabe do que estou falando.}{Não brinque comigo. Você é um elfo, sabe do que estou falando.}{}{}{}{ }
 {491}{Por favor, me esclareça. Sou novo por aqui.}{}{5}{ps8}{500}{ }
 {492}{Por favor, me esclareça. Sou novo por aqui.}{}{5}{ps-7}{120}{ }
-{499}{Ah, sim... claro. Já vou indo, então.}{}{5}{}{0}{ }
+{499}{Ah, sim... claro. Então, já vou indo.}{}{5}{}{0}{ }
 {500}{[Ele olha ao redor para ter certeza de que ninguém mais está ouvindo e sussurra:] Os sombrios! Você nunca ouviu falar dos elfos negros?}{[Ele olha ao redor para ter certeza de que ninguém mais está ouvindo e sussurra:] Os sombrios! Você nunca ouviu falar dos elfos negros?}{}{}{}{ }
 {501}{Não, nunca ouvi. O que mais pode me contar sobre eles?}{}{5}{}{510}{ }
 {502}{Ah, sim... claro. Então, já vou indo.}{}{5}{}{0}{ }

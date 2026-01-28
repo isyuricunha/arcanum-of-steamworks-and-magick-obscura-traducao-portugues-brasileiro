@@ -13,7 +13,7 @@
 {14}{Descobri como Erland morreu.}{}{5}{lf4 1, lf5 0, lf1 1, ru2137}{261}{ }
 {15}{Falei com seu irmão.}{}{5}{qu1091 4, gf2193 0, gf2194 0}{350}{ }
 {16}{Ainda não falei com seu irmão.}{}{5}{qb1091 2, gf2193 0, gf2194 0, lf10 1}{420}{ }
-{17}{Você pode me treinar para ser um especialista em armar e desarmar armadilhas?}{}{5}{tr15 -1, lf1 1}{430}{ }
+{17}{Você pode me treinar para ser um especialista em armar e desarmar armadilhas?}{}{5}{tr15 -1, lf1 1}{81}{et15 430 }
 {20}{E:}{}{1}{}{0}{ }
 {21}{Sou conhecido como Thrayne Coração de Ferro. E você?}{Sou conhecido como Thrayne Coração de Ferro. E você?}{}{}{}{ }
 {22}{Eu sou @pcname@.}{}{5}{gf1046 1}{31}{re+15 }
@@ -21,7 +21,7 @@
 {24}{Eu sou @pcname@.}{}{5}{gf1046 0, gf1039 0}{51}{ }
 {31}{Sim, ouvi falar de você. Você é o viajante que trouxe Thorvald de volta. Temos uma dívida de gratidão com você, como tenho certeza de que sabe.}{Sim, ouvi falar de você. Você é o viajante que trouxe Thorvald de volta. Temos uma dívida de gratidão com você, como tenho certeza de que sabe.}{}{}{}{ }
 {32}{Sendo esse o caso, posso lhe fazer algumas perguntas?}{}{5}{}{81}{ }
-{33}{Você pode me treinar para ser um especialista em armar e desarmar armadilhas?}{}{5}{tr15 -1}{430}{ }
+{33}{Você pode me treinar para ser um especialista em armar e desarmar armadilhas?}{}{5}{tr15 -1}{81}{et15 430 }
 {40}{Agradeço pelos elogios, mas preciso seguir meu caminho.}{}{5}{}{131}{ }
 {41}{Sim, ouvi falar de você. Você é o viajante que nos trouxe notícias do apuro de Thorvald. Temos uma dívida de gratidão com você, como tenho certeza de que sabe.}{Sim, ouvi falar de você. Você é o viajante que nos trouxe notícias do apuro de Thorvald. Temos uma dívida de gratidão com você, como tenho certeza de que sabe.}{}{}{}{ }
 {42}{Sendo esse o caso, posso lhe fazer algumas perguntas?}{}{5}{}{81}{ }
@@ -30,7 +30,7 @@
 {52}{Por que isso?}{}{5}{ra-1}{61}{ }
 {53}{Posso lhe fazer algumas perguntas?}{}{5}{}{81}{ }
 {54}{Por que isso?}{}{5}{ra1}{71}{ }
-{60}{Gostaria de ficar para conversar, mas preciso seguir meu caminho.}{}{5}{}{131}{ }
+{60}{Eu gostaria de ficar para conversar, mas preciso seguir meu caminho.}{}{5}{}{131}{ }
 {61}{Desde que... [ele começa a dizer algo, mas obviamente pensa melhor.] Nós nos isolamos desde que os humanos roubaram nossa tecnologia. Meras crianças com o poder de nossos deuses em suas mãos! Só de pensar nisso meu sangue gela. Nunca em toda a nossa história poderíamos ter imaginado tal coisa. Desde que nosso lugar no mundo foi roubado, nos afastamos dele.}{Desde que... [ele começa a dizer algo, mas obviamente pensa melhor.] Nós nos isolamos desde que os humanos roubaram nossa tecnologia. Meras crianças com o poder de nossos deuses em suas mãos! Só de pensar nisso meu sangue gela. Nunca em toda a nossa história poderíamos ter imaginado tal coisa. Desde que nosso lugar no mundo foi roubado, nos afastamos dele.}{}{}{}{ }
 {62}{K:}{}{5}{}{81}{ }
 {69}{E:}{}{5}{qa1091 1}{0}{ }
@@ -47,7 +47,7 @@
 {84}{Onde estão todas as suas mulheres?}{}{5}{ra2, lf2 0}{121}{re-5 }
 {85}{Por que o Clã da Roda é tão recluso?}{}{5}{ ra-1}{61}{ }
 {86}{Por que o Clã da Roda é tão recluso?}{}{5}{ ra1}{71}{ }
-{87}{Você pode me treinar para ser um especialista em armar e desarmar armadilhas?}{}{5}{tr15 -1}{430}{ }
+{87}{Você pode me treinar para ser um especialista em armar e desarmar armadilhas?}{}{5}{tr15 -1}{81}{et15 430 }
 {89}{E:}{}{5}{qa1091 1}{0}{ }
 {90}{E:}{}{5}{qu1091 0}{131}{ }
 {91}{O Clã da Roda é o primeiro e o maior de todos, daí nossa posição como Cabeça dos Clãs. Governamos sem contestação desde as grandes Guerras dos Clãs.}{O Clã da Roda é o primeiro e o maior de todos, daí nossa posição como Cabeça dos Clãs. Governamos sem contestação desde as grandes Guerras dos Clãs.}{}{}{}{ }
@@ -91,7 +91,7 @@
 {182}{Se algum dia eu voltar lá, entregarei sua mensagem para você.}{}{5}{lf5 0}{0}{qu1091 2, re+5 }
 {190}{Tudo certo. Tenha um bom dia.}{}{5}{}{0}{ }
 {191}{Você tem direito às suas opiniões, humano, mesmo que possam estar erradas. Não o culpo pessoalmente - na verdade, já conheci muitos humanos excelentes. Mas como raça, vocês carecem de maturidade.}{Você tem direito às suas opiniões, humano, mesmo que possam estar erradas. Não o culpo pessoalmente - na verdade, já conheci muitos humanos excelentes. Mas como raça, vocês carecem de maturidade.}{}{}{}{ }
-{192}{Acho que não posso discutir com isso. Posso lhe perguntar uma coisa?}{}{5}{}{81}{ }
+{192}{Acho que não posso discutir com isso. Posso te perguntar uma coisa?}{}{5}{}{81}{ }
 {193}{Como indivíduo, você logo vai carecer de uma cabeça.}{}{5}{}{0}{fl 340 ,co}
 {201}{Ora, seu filho de uma cadela sem mãe! Ninguém fala comigo dessa maneira! Defenda-se!}{Ora, sua prostituta inútil! Ninguém fala comigo dessa maneira! Defenda-se!}{}{}{}{ }
 {202}{Por favor, acalme-se. Eu estava apenas brincando.}{}{5}{}{211}{re+5 }

@@ -1,4 +1,4 @@
-{1}{Posso ajudá-lo?}{Posso ajudá-lo?}{}{}{}{}
+{1}{G:}{G:}{}{}{}{}
 {2}{Talvez. Posso saber quem é o senhor?}{}{5}{me 0, re 41}{27}{}
 {3}{Olá, Caleb. Tem um momento?}{}{5}{me 1, re 41}{84}{}
 {4}{Senhor! O que eu fiz para merecer tal tratamento?}{}{5}{me 0, re -40}{11}{}
@@ -33,7 +33,7 @@
 {42}{O Clã Maug e a gangue do Pollock... quem são eles?}{}{5}{lf1 0}{159}{}
 {43}{Você pode me contar mais alguma coisa sobre o Caldeirão?}{}{5}{lf1 0}{145}{}
 {44}{Estou procurando trabalho...}{}{5}{}{54}{}
-{45}{Hã... quem é o Clã Mog e a G-g-gangue do Po-o-ll-o-ks...?}{}{-4}{}{159}{}
+{45}{Hã... quem é o Clã Mog e a G-g-gangue do Po-o-ll-a-ks...?}{}{-4}{}{159}{}
 {53}{Preciso de trabalho...}{}{-4}{}{54}{}
 {54}{Bem... você poderia conversar com alguns dos rapazes aqui no bar. Claro, isso significaria que você teria que escolher com qual gangue gostaria de se juntar... a do Maug ou a do Pollock... e aí a outra gangue viria atrás de você para te matar. As coisas ficam bem complicadas por aqui... [Ele ri consigo mesmo.]}{Bem... você poderia conversar com alguns dos rapazes aqui no bar. Claro, isso significaria que você teria que escolher com qual gangue gostaria de se juntar... a do Maug ou a do Pollock... e aí a outra gangue viria atrás de você para te matar. As coisas ficam bem complicadas por aqui... [Ele ri consigo mesmo.]}{}{}{}{}
 {55}{Quem são Maug e Pollock?}{}{5}{lf1 0}{159}{}
@@ -77,7 +77,7 @@
 {109}{Você conseguiu! Ótimo, rapaz. Muito obrigado pela ajuda. Aqui está seu dinheiro... [Ele lhe entrega um punhado de ouro.] Você é sempre bem-vindo no Malloy's...}{Você conseguiu! Ótimo, moça. Muito obrigado pela ajuda. Aqui está seu dinheiro... [Ele lhe entrega um punhado de ouro.] Você é sempre bem-vinda no Malloy's...}{}{}{}{qu1086 4, $$500}
 {110}{K:}{}{1}{}{84}{}
 {111}{E:}{}{1}{}{0}{}
-{114}{Sério? Que pena, rapaz. Eu já imaginava que algo assim pudesse acontecer. Você conseguiu ver bem quem fez isso?}{Sério? Que pena, moça. Eu já imaginava que algo assim pudesse acontecer. Você conseguiu ver bem quem fez isso?}{}{}{}{}
+{114}{Sério? Que pena, rapaz. Eu já imaginava que algo assim pudesse acontecer. Você conseguiu ver bem quem fez isso?}{Sério? Que pena, moça. Eu já imaginava que algo assim pudesse acontecer. Você conseguiu ver bem quem fez isso?}{}{}{}{qu1086 6}
 {115}{Não... hã, eles não disseram...}{}{5}{}{120}{}
 {116}{Sim... foi Malek Nebbs, do Clã Maug...}{}{5}{}{125}{gf2180 1}
 {117}{Hã... não sei...}{}{-4}{}{120}{}
@@ -109,20 +109,21 @@
 {152}{Hã... quem é o Clã Mog e a G-g-gangue do Po-o-ll-a-ks...?}{}{-4}{}{159}{}
 {153}{Onde eu compro coisas no Caldeirão?}{}{-4}{}{175}{}
 {154}{Onde eu durmo no Caldeirão?}{}{-4}{}{183}{}
-{155}{Hã... mais algumas perguntas...}{}{-4}{}{84}{}
+{155}{Hmm... outras perguntas...}{}{-4}{}{84}{}
 {156}{E:}{}{1}{}{0}{}
 {159}{Pollock é um meio-ogro que comanda um bando misturado de Valentões aqui no Caldeirão - não são muito organizados, veja bem, mas são vis e cruéis.}{Pollock é um meio-ogro que comanda um bando misturado de Valentões aqui no Caldeirão - não são muito organizados, veja bem, mas são vis e cruéis.}{}{}{}{}
 {160}{E o Clã Maug?}{}{5}{}{163}{}
+{161}{E o que me diz do Clã Mog?}{}{-4}{}{163}{}
 {163}{O clã de Darian Maug é composto principalmente de orcs e meio-orcs. Ele age de forma mais discreta, mas não se pode confiar nele mais do que em uma víbora de Bangellia.}{O clã de Darian Maug é composto principalmente de orcs e meio-orcs. Ele age de forma mais discreta, mas não se pode confiar nele mais do que em uma víbora de Bangellia. De qualquer forma, se você se envolver com um, a outra gangue vai querer sua pele. Um homem precisa ter cuidado com quem trabalha no Caldeirão...}{}{}{}{}
 {164}{Qual é a melhor gangue para trabalhar?}{}{5}{}{167}{}
 {165}{Para quem é melhor trabalhar?}{}{-4}{}{167}{}
 {167}{Bem, isso é difícil de dizer, rapaz. Se você se envolver com uma, a outra gangue vai querer sua pele. Um homem precisa ter cuidado com quem trabalha no Caldeirão... uma vez que decidir, não há volta...}{Bem, isso é difícil de dizer, moça. Se você se envolver com uma, a outra gangue vai querer sua pele. Um homem precisa ter cuidado com quem trabalha no Caldeirão... uma vez que decidir, não há volta...}{}{}{}{}
-{168}{Entendo. Mais algumas perguntas sobre o Caldeirão...}{}{5}{}{145}{}
+{168}{Entendi. Mais algumas perguntas sobre o Caldeirão...}{}{5}{}{145}{}
 {169}{Mais algumas perguntas gerais...}{}{5}{}{84}{}
 {171}{Certo! Mais algumas perguntas sobre o Caldeirão...}{}{-4}{}{145}{}
-{172}{Hã... mais algumas perguntas...}{}{-4}{}{84}{}
+{172}{Hmm... outras perguntas...}{}{-4}{}{84}{}
 {173}{E:}{}{1}{}{0}{}
-{175}{Não tem muita coisa para comprar por aqui. O velho Mellin Bungerton, o halfling, tem uma carroça montada em algum lugar por aqui. Ele geralmente tem alguma coisa para vender, e a maioria é roubada...}{Não tem muita coisa pra comprar por aqui. O velho Mellin Bungerton, o meio-elfo, tem uma carroça montada em algum lugar por perto. Ele geralmente tem alguma coisa pra vender, e a maioria é roubada...}{}{}{}{}
+{175}{Não tem muita coisa pra comprar por aqui. O velho Mellin Bungerton, o meio-elfo, tem uma carroça montada em algum lugar por perto. Ele geralmente tem alguma coisa pra vender, e a maioria é roubada...}{Não tem muita coisa pra comprar por aqui. O velho Mellin Bungerton, o meio-elfo, tem uma carroça montada em algum lugar por perto. Ele geralmente tem alguma coisa pra vender, e a maioria é roubada...}{}{}{}{}
 {176}{Entendi. Mais algumas perguntas sobre o Caldeirão...}{}{5}{}{145}{}
 {177}{Mais algumas perguntas gerais...}{}{5}{}{84}{}
 {179}{Certo! Mais algumas perguntas sobre o Caldeirão...}{}{-4}{}{145}{}

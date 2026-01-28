@@ -8,34 +8,34 @@
 {8}{Seria melhor tomar cuidado com o tom que usa comigo.}{}{5}{re-40, sk2 15, gf2210 1}{45}{re50 }
 {9}{Fui instruído a perguntar sobre os assassinatos.}{}{5}{gf2210 1, re61, lf1 0}{260}{lf1 1 }
 {10}{Houve algum novo desenvolvimento nos assassinatos?}{}{5}{gf2252 1, gf2210 0, lf1 0}{15}{lf1 1 }
-{11}{Falei com o espírito de uma das vítimas.}{}{5}{gf2536 1, qu1100 1, lf10 0}{440}{ }
+{11}{Eu falei com o espírito de uma das vítimas.}{}{5}{gf2536 1, qu1100 1, lf10 0}{440}{ }
 {12}{Decidi ajudar com o seu problema com demônios.}{}{5}{qu1100 1, lf10 1}{470}{qu1100 2 }
 {14}{E:}{}{1}{}{0}{ }
 {15}{[Ele olha para você pensativamente, mastigando um velho charuto pela metade.] Não tenho tempo para entreter viajantes. Por que deveria ouvir suas bobagens?}{[Ele olha para você pensativamente, mastigando um velho charuto pela metade.] Não tenho tempo para entreter viajantes. Por que deveria ouvir suas bobagens?}{}{}{}{ }
 {16}{Estou aqui para oferecer minha ajuda.}{}{5}{}{25}{ }
-{17}{Porque eu poderia matá-lo antes que qualquer um dos guardas pudesse ajudá-lo.}{}{5}{sk2 15}{65}{re+10 }
-{18}{Porque eu poderia matá-lo antes que qualquer um dos guardas pudesse ajudá-lo.}{}{5}{sk2 -14}{45}{re-10 }
-{19}{Falei com o espírito de uma das vítimas.}{}{5}{gf2536 1}{440}{ }
+{17}{Porque eu poderia matá-lo antes que qualquer um dos guardas pudesse ajudá-lo.}{}{5}{sk2 15}{45}{re+10 }
+{18}{Porque eu poderia matá-lo antes que qualquer um dos guardas pudesse ajudá-lo.}{}{5}{sk2 -14}{65}{re-10 }
+{19}{Eu falei com o espírito de uma das vítimas.}{}{5}{gf2536 1}{440}{ }
 {24}{E:}{}{1}{}{0}{lf1 0 }
 {25}{Esplêndido! O estrangeiro vai nos ajudar! Bem, não tenho nada a perder aqui, todos esses imbecis que trabalham para mim não conseguem descobrir nada. O primeiro local do assassinato foi no <<<PH1>>> Whytechurch Landing, entre Grey Wolf Terrace e Temple Road, e o segundo foi no <<<PH2>>> Dragon Turnabout, saindo de Temple Road. Vá examiná-los em busca de pistas e me deixe em paz.}{Esplêndido! O estrangeiro vai nos ajudar! Bem, não tenho nada a perder aqui, todos esses imbecis que trabalham para mim não conseguem descobrir nada. O primeiro local do assassinato foi no <<<PH1>>> Whytechurch Landing, entre Grey Wolf Terrace e Temple Road, e o segundo foi no <<<PH2>>> Dragon Turnabout, saindo de Temple Road. Vá examiná-los em busca de pistas e me deixe em paz.}{}{}{}{qu1100 1, ru2205 }
-{26}{Há alguma pista que você conheça que possa me ajudar?}{}{5}{}{35}{ }
+{26}{Existe alguma pista que você conheça que possa me ajudar?}{}{5}{}{35}{ }
 {27}{Obrigado. Tenha um bom dia.}{}{5}{}{0}{qu1100 2, gf2211 1 }
 {34}{Após refletir melhor, acho que não quero me envolver.}{}{5}{}{0}{ }
 {35}{Bem, o assassino da Igreja Whyte, como os jornalistas começaram a chamá-lo, gosta de suas prostitutas, sim. Temos uma lá atrás, chamada Renee. Ela chegou a ver o degenerado enquanto ele esquartejava uma amiga dela. Ela exigiu que a trancássemos para sua proteção, porque ficou tão assustada. Você pode ir falar com ela, se quiser.}{Bem, o assassino da Igreja Whyte, como os jornalistas começaram a chamá-lo, gosta de suas prostitutas, sim. Temos uma lá atrás, chamada Renee. Ela chegou a ver o degenerado enquanto ele esquartejava uma amiga dela. Ela exigiu que a trancássemos para sua proteção, porque ficou tão assustada. Você pode ir falar com ela, se quiser.}{}{}{}{gf2212 1 }
-{36}{Entendo. Parece uma ideia excelente. Tenha um bom dia.}{}{5}{}{0}{qu1100 2, gf2211 1 }
+{36}{Entendo. Parece uma ideia capital. Tenha um bom dia.}{}{5}{}{0}{qu1100 2, gf2211 1 }
 {37}{Mas o que pode me dizer sobre os detalhes dos assassinatos?}{}{5}{}{390}{ }
 {38}{Falei com ela. Agora vou ver os locais dos assassinatos.}{}{5}{gf2256 1}{0}{ }
-{44}{"Esquartejou ela"? Não gostei do som disso. Tenha um bom dia.}{}{5}{}{0}{ }
+{44}{"Cortá-la em pedaços"? Não gostei do som disso. Tenha um bom dia.}{}{5}{}{0}{ }
 {45}{[Ele sorri para você com um largo sorriso cheio de dentes.] Gostei de você, um homem com verdadeira força de caráter! Poderia usar alguém com sua atitude me ajudando aqui. [Ele se vira e grita para a sala.] TRABALHO COM COMPLETOS E ABSOLUTOS IDIOTAS!}{[Ele sorri para você com um largo sorriso cheio de dentes.] Gostei de você, uma mulher com verdadeira força de caráter! Poderia usar alguém com sua atitude me ajudando aqui. [Ele se vira e grita para a sala.] TRABALHO COM COMPLETOS E ABSOLUTOS IDIOTAS!}{}{}{}{ }
 {46}{Estou aqui para oferecer minha ajuda na resolução dos assassinatos.}{}{5}{gf2210 1}{55}{ }
 {47}{Não estava brincando. Pretendo matá-lo, e de forma dolorosa.}{}{5}{}{0}{fl 252 ,co}
 {48}{Estou aqui para oferecer minha ajuda na resolução dos assassinatos.}{}{5}{gf2210 0, gf2252 1}{55}{ }
 {49}{Há alguma investigação em que eu possa dar uma mão?}{}{5}{gf2210 0, gf2252 0}{430}{ }
 {55}{Bem, todos esses imbecis que trabalham para mim não conseguiram descobrir nada. Aqui está uma lista dos locais dos assassinatos, vou alertar os guardas para deixarem você entrar. Vá examiná-los em busca de pistas, veja se algo lhe ocorre.}{Bem, todos esses imbecis que trabalham para mim não conseguiram descobrir nada. Aqui está uma lista dos locais dos assassinatos, vou alertar os guardas para deixarem você entrar. Vá examiná-los em busca de pistas, veja se algo lhe ocorre.}{}{}{}{ }
-{56}{Há alguma pista que você conheça que possa me ajudar?}{}{5}{}{35}{ }
+{56}{Existe alguma pista que você conheça que possa me ajudar?}{}{5}{}{35}{ }
 {57}{Eu falei com o espírito de uma das vítimas.}{}{5}{gf2536 1, qu1100 1, lf10 0}{440}{ }
 {63}{Obrigado. Tenha um bom dia.}{}{5}{}{0}{qu1100 2, gf2211 1 }
-{64}{Após mais reflexão, acho que não quero me envolver.}{}{5}{}{0}{ }
+{64}{Após refletir melhor, acho que não quero me envolver.}{}{5}{}{0}{ }
 {65}{Leve sua estupidez para outro lugar, imbecil.}{Leve sua estupidez para outro lugar, imbecil.}{}{}{}{ }
 {66}{Por favor, não tive intenção de ofender. Peço seu perdão.}{}{5}{}{75}{re+5 }
 {67}{Acho que chegou a hora de você morrer.}{}{5}{}{0}{fl 252 ,co}
@@ -45,14 +45,14 @@
 {78}{O senhor está absolutamente correto. Sou um covarde.}{}{5}{ch-9}{0}{re-10, fl 280}
 {79}{Eu não diria um covarde completo.}{}{10}{ch10, re40}{85}{re+10 }
 {85}{Bem, pelo menos você tem algum senso de humor. Que negócios o traz aqui?}{Bem, pelo menos você tem algum senso de humor. Que negócios o traz aqui?}{}{}{}{ }
-{86}{Quero oferecer minha ajuda na resolução dos assassinatos.}{}{5}{gf2210 1}{25}{ }
-{87}{Quero oferecer minha ajuda na resolução dos assassinatos.}{}{5}{gf2210 0, gf2252 1}{25}{ }
+{86}{Quero oferecer minha ajuda para resolver os assassinatos.}{}{5}{gf2210 1}{25}{ }
+{87}{Quero oferecer minha ajuda para resolver os assassinatos.}{}{5}{gf2210 0, gf2252 1}{25}{ }
 {88}{Há alguma investigação em que eu possa dar uma mão?}{}{5}{gf2210 0, gf2252 0}{420}{ }
-{89}{Eu falei com o espírito de uma das vítimas dos assassinatos.}{}{5}{gf2536 1, qu1100 1, lf10 0}{440}{ }
+{89}{Falei com o espírito de uma das vítimas dos assassinatos.}{}{5}{gf2536 1, qu1100 1, lf10 0}{440}{ }
 {94}{E:}{}{5}{}{0}{lf1 0 }
 {95}{Espere aí, deixe-me alertar os jornalistas dos jornais! Estou feliz como uma colegial ao saber que temos alguém como você oferecendo ajuda a nós, pobres moradores da cidade.}{Espere aí, deixe-me alertar os jornalistas dos jornais! Estou feliz como uma colegial ao saber que temos alguém como você oferecendo ajuda a nós, pobres moradores da cidade.}{}{}{}{ }
 {96}{[Sarcasticamente] Fico feliz em ter trazido um pouco de alegria à sua vida.}{}{5}{}{0}{qu1100 2, gf2211 1, fl 290}
-{97}{Há alguma pista que você conheça que possa me ajudar?}{}{5}{}{35}{qu1100 2, gf2211 1 }
+{97}{Existe alguma pista que você conheça que possa me ajudar?}{}{5}{}{35}{qu1100 2, gf2211 1 }
 {105}{Não tenho um momento sequer a perder com gente como você.}{Não tenho um momento sequer a perder com gente como você.}{}{}{}{ }
 {106}{Percebo que não sou digno nem de engraxar suas botas, senhor.}{}{5}{ch-12}{115}{re41 }
 {107}{Por sorte, tenho um momento para castrá-lo.}{}{5}{}{0}{fl 252 ,co}
@@ -81,7 +81,7 @@
 {143}{Você tinha razão. Foi uma verdadeira alegria recuperar a Lâmina de Xerxes.}{}{5}{qu1103 4, gf2722 1}{230}{gf2215 1 }
 {144}{E:}{}{5}{}{0}{ }
 {145}{Esses são resquícios dos antigos esgotos da cidade, nenhum ser senciente em todo o Arcanum é forte o suficiente para levantá-los. Quando os funcionários da manutenção dos esgotos precisam acessá-los, usam algum tipo de máquina. Além disso, há outro assassinato com que se preocupar agora.}{Esses são resquícios dos antigos esgotos da cidade, nenhum ser senciente em todo o Arcanum é forte o suficiente para levantá-los. Quando os funcionários da manutenção dos esgotos precisam acessá-los, usam algum tipo de máquina. Além disso, há outro assassinato com que se preocupar agora.}{}{}{}{ }
-{146}{Se puder me indicar o local do assassinato mais recente, eu irei embora.}{}{5}{}{165}{ }
+{146}{Se puder me indicar o local do crime mais recente, eu já vou indo.}{}{5}{}{165}{ }
 {147}{Poderia ser um demônio ou alguma outra criatura mágica?}{}{10}{}{175}{ }
 {148}{O homem que Renee descreveu era franzino, no entanto.}{}{5}{gf2219 1}{370}{ }
 {154}{Após refletir melhor, acho que não quero me envolver.}{}{5}{}{0}{lf2 1 }
@@ -98,13 +98,13 @@
 {197}{Mais alguma coisa?}{}{5}{gf2722 1}{475}{ }
 {204}{}{}{}{}{}{ }
 {205}{É melhor estar preparado para enfrentar algumas criaturas hediondas em algum calabouço úmido. Demônios malditos! Quando vou ter um caso em que preciso ir a uma ilha tropical agradável para resolvê-lo? Estou velho demais para essas bobagens. E se apresse, se os conselheiros do rei ficarem sabendo que o assassino é um demônio, vão tentar chamar o Payne.}{É melhor estar preparado para enfrentar algumas criaturas hediondas em algum calabouço úmido. Demônios malditos! Quando vou ter um caso em que preciso ir a uma ilha tropical agradável para resolvê-lo? Estou velho demais para essas bobagens. E se apresse, se os conselheiros do rei ficarem sabendo que o assassino é um demônio, vão tentar chamar o Payne.}{}{}{}{ }
-{206}{Você faz isso parecer tão glamuroso.}{}{5}{}{300}{ }
+{206}{Você faz tudo isso parecer tão glamuroso.}{}{5}{}{300}{ }
 {207}{Quem é Payne?}{}{5}{}{215}{lf3 1 }
-{214}{Voltarei, senhor.}{}{5}{}{0}{ }
+{214}{Voltarei em breve, senhor.}{}{5}{}{0}{ }
 {215}{Ele é um caçador de grandes presas superestimado, inflado e cheio de si. O sujeito já rastreou e matou quase tudo que se pode imaginar, e todo mundo corre para ele ao menor sinal de problema. Não preciso da arrogância dele atrapalhando minha investigação. Sou capaz de resolver isso sozinho, muito obrigado.}{Ele é um caçador de grandes presas superestimado, inflado e cheio de si. O sujeito já rastreou e matou quase tudo que se pode imaginar, e todo mundo corre para ele ao menor sinal de problema. Não preciso da arrogância dele atrapalhando minha investigação. Sou capaz de resolver isso sozinho, muito obrigado.}{}{}{}{ru2141 }
 {216}{Você resolve? Não quer dizer eu?}{}{5}{}{300}{re-5 }
 {219}{Entendo. Bem, estou a caminho, então.}{}{5}{}{0}{ }
-{220}{Só posso dizer que fico feliz que tenha sido você, e não eu. Analisando todas as evidências, acho bastante óbvio que essa criatura está escondida nos antigos esgotos. Vá até a entrada do esgoto no final desta rua, o guarda vai deixá-lo entrar. E resolva isso rápido, antes que chamem o Payne. Não preciso desse sujeito aqui.}{Só posso dizer que fico feliz que tenha sido você, e não eu. Analisando todas as evidências, acho bastante óbvio que essa criatura está escondida nos antigos esgotos. Vá até a entrada do esgoto no final desta rua, o guarda vai deixá-lo entrar. E resolva isso rápido, antes que chamem o Payne. Não preciso desse sujeito aqui.}{}{}{}{ }
+{220}{Só posso dizer que fico aliviado por ter sido você, e não eu. Após revisar todas as provas, acho bastante óbvio que essa criatura está escondida nos antigos esgotos. Vá até a entrada do esgoto no final desta rua, o guarda vai deixar você entrar. E resolva isso rápido, antes que chamem o Payne. Não preciso desse sujeito aqui.}{Só posso dizer que fico aliviado por ter sido você, e não eu. Após revisar todas as provas, acho bastante óbvio que essa criatura está escondida nos antigos esgotos. Vá até a entrada do esgoto no final desta rua, o guarda vai deixar você entrar. E resolva isso rápido, antes que chamem o Payne. Não preciso desse sujeito aqui.}{}{}{}{ }
 {221}{Tudo bem.}{}{5}{}{0}{ }
 {222}{Quem é esse tal de Payne?}{}{5}{}{215}{ }
 {223}{Agora, pelo que exatamente está me pagando?}{}{5}{lf6 0}{310}{lf6 1 }
@@ -112,9 +112,9 @@
 {231}{Tudo bem.}{}{5}{}{0}{ }
 {232}{Agora, pelo que exatamente está me pagando?}{}{5}{lf6 0}{310}{lf6 1 }
 {240}{Para que veio aqui, então? Eu disse para se apressar. O Payne já está na cidade. Você está me fazendo passar vergonha.}{Para que veio aqui, então? Eu disse para se apressar. O Payne já está na cidade. Você está me fazendo passar vergonha.}{}{}{}{ }
-{241}{Estou a caminho, então.}{}{5}{}{0}{ }
+{241}{Estou indo, então.}{}{5}{}{0}{ }
 {242}{Quem é esse indivíduo Payne, afinal?}{}{5}{lf3 0}{215}{ }
-{243}{Essa não é uma tarefa difícil.}{}{5}{}{300}{re-10 }
+{243}{Isso não é uma tarefa difícil.}{}{5}{}{300}{re-10 }
 {250}{}{}{}{}{}{ }
 {252}{Você assinou sua própria sentença de morte, tolo!}{Você assinou sua própria sentença de morte, tolo!}{}{}{}{ }
 {260}{Bem, estou satisfeito que alguém com um mínimo de inteligência tenha se interessado por este caso. [Ele se vira e grita para a sala.] TUDO QUE EU TENHO TRABALHANDO PARA MIM É UM GRUPO DE MACACOS BOBOS!}{Bem, estou satisfeito que alguém com um mínimo de inteligência tenha se interessado por este caso. [Ele se vira e grita para a sala.] TUDO QUE EU TENHO TRABALHANDO PARA MIM É UM GRUPO DE MACACOS BOBOS!}{}{}{}{ }
@@ -166,7 +166,7 @@
 {451}{Tenho certeza de que não sei.}{}{5}{}{460}{ }
 {460}{Bem, fico feliz que tenha se voluntariado para ajudar. O que precisa fazer agora é encontrar um bom demonologista. Eu o mandaria falar com o demonologista que me ajudou, mas ele teve um, hã, encontro bem infeliz com o demônio que eu estava caçando. Demônios não gostam que os demonologistas revelem seus segredos, né?}{Bem, fico feliz que tenha se voluntariado para ajudar. O que precisa fazer agora é encontrar um bom demonologista. Eu o mandaria falar com o demonologista que me ajudou, mas ele teve um, hã, encontro bem infeliz com o demônio que eu estava caçando. Demônios não gostam que os demonologistas revelem seus segredos, né?}{}{}{}{ }
 {461}{Mais alguma coisa?}{}{5}{}{205}{qu1100 2 }
-{462}{Não estou envolvido, só estava lhe dando informações. Adeus.}{}{5}{}{0}{qu1100 1, lf10 1 }
+{462}{Não estou envolvido, só estava te passando informações. Adeus.}{}{5}{}{0}{qu1100 1, lf10 1 }
 {470}{Bem, como já lhe disse antes, você vai ter que encontrar um demonologista, então.}{Bem, como já lhe disse antes, você vai ter que encontrar um demonologista, então.}{}{}{}{ }
 {471}{Mais alguma coisa?}{}{5}{}{205}{ }
 {475}{É melhor estar preparado para enfrentar algumas criaturas hediondas em algum calabouço úmido. Demônios malditos! Quando vou ter um caso em que precise ir a alguma ilha tropical agradável para resolvê-lo? Estou velho demais para essas bobagens. E se apresse, se os conselheiros do rei ficarem sabendo que o assassino é um demônio, vão tentar chamar um caçador de recompensas.}{É melhor estar preparado para enfrentar algumas criaturas hediondas em algum calabouço úmido. Demônios malditos! Quando vou ter um caso em que precise ir a alguma ilha tropical agradável para resolvê-lo? Estou velho demais para essas bobagens. E se apresse, se os conselheiros do rei ficarem sabendo que o assassino é um demônio, vão tentar chamar um caçador de recompensas.}{}{}{}{ }

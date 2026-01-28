@@ -13,7 +13,7 @@
 {15}{Posso lhe assegurar que é de extrema importância.}{}{5}{}{20}{}
 {16}{Esta também é a sua casa? Pelo amor de Deus, homem! Isto aqui é uma cripta!}{}{5}{lf1 0}{118}{re -5, lf1 1}
 {17}{Talvez você tenha razão. Vou me retirar.}{}{5}{}{146}{}
-{20}{Eu serei o juiz do que é importante na minha própria casa! O que você poderia precisar saber que justifique esta afronta?}{Eu serei o juiz do que é importante na minha própria casa! O que você poderia precisar saber que justifique esta afronta!}{}{}{}{}
+{20}{Eu serei o juiz do que é importante na minha própria casa! O que você poderia precisar saber que justifique esta afronta!}{Eu serei o juiz do que é importante na minha própria casa! O que você poderia precisar saber que justifique esta afronta!}{}{}{}{}
 {21}{Sua atitude deixa a desejar, mago.}{}{5}{lc2 0}{223}{lc2 1}
 {22}{Sua atitude deixa a desejar, mago.}{}{5}{lc2 1}{}{co, fl 238}
 {23}{O que, exatamente, está acontecendo aqui?}{}{5}{lf2 0}{127}{lf2 1}
@@ -22,8 +22,8 @@
 {28}{Impossível! Mesmo que estivesse aqui a negócios legítimos, nós da P. Schuyler e Filhos jamais trairíamos a confidencialidade dos nossos clientes! Só de pensar nisso...}{Impossível! Mesmo que estivesse aqui a negócios legítimos, nós da P. Schuyler e Filhos jamais trairíamos a confidencialidade dos nossos clientes! Só de pensar nisso...}{}{}{}{}
 {29}{Como se este Circo de Horrores tivesse algo a ver com legitimidade...}{}{5}{lf1 0}{118}{lf1 1}
 {30}{Qual é o seu negócio, afinal, senhor?}{}{5}{lf2 0}{127}{lf2 1}
-{31}{Estou a um passo de acabar com o seu negócio.}{}{5}{lc2 0, pa -6411}{223}{lc2 1}
-{32}{Meu amigo Magnus e eu estamos aqui para acabar com o seu negócio.}{}{5}{lc2 0, pa 6411}{223}{lc2 1}
+{31}{Estou extremamente perto de tirar você do negócio.}{}{5}{lc2 0, pa -6411}{223}{lc2 1}
+{32}{Meu amigo Magnus e eu estamos aqui para tirar você do negócio.}{}{5}{lc2 0, pa 6411}{223}{lc2 1}
 {33}{Estou extremamente perto de tirar você do negócio.}{}{5}{lc2 1, pa -6411}{}{co, fl 238}
 {34}{Meu amigo Magnus e eu estamos aqui para tirar você do negócio.}{}{5}{lc2 1, pa 6411}{}{co, fl 238}
 {35}{Ouça, não estou aqui para criar problemas, mas já vi muita coisa...}{}{5}{}{38}{}
@@ -51,12 +51,12 @@
 {61}{Tenho uma solução permanente para a sua perversidade, Schuyler.}{}{5}{lc2 1, pa -6411}{}{co, fl 238}
 {62}{Magnus e eu oferecemos uma solução permanente para a sua perversidade.}{}{5}{lc2 1, pa 6411}{}{co, fl 238}
 {63}{Realmente preciso ir andando...}{}{5}{}{146}{}
-{65}{Acho que não há mal em lhe contar agora. Eu sou Winston Schuyler, e estes são meus irmãos, Edward e Niles. O nome Schuyler é um nome antigo... uma das famílias mais antigas de todo o Arcanum... rastreamos nossas linhagens sanguíneas até a Era das Lendas e além. E sempre, desde o início, praticamos as artes sombrias...}{Acho que não há mal em lhe contar agora. Eu sou Winston Schuyler, e estes são meus irmãos, Edward e Niles. O nome Schuyler é um nome antigo... uma das famílias mais antigas de todo o Arcanum... rastreamos nossas linhagens sanguíneas até a Era das Lendas e além. E sempre, desde o início, praticamos as artes sombrias...}{}{}{}{lc1 4}
+{65}{Suponho que não há mal em contar agora. Eu sou Winston Schuyler, e estes são meus irmãos, Edward e Niles. O nome Schuyler é um nome antigo... uma das famílias mais antigas de todo o Arcanum... rastreamos nossas linhagens até a Era das Lendas e além. E sempre, desde o início, praticamos as artes sombrias...}{Suponho que não há mal em contar agora. Eu sou Winston Schuyler, e estes são meus irmãos, Edward e Niles. O nome Schuyler é um nome antigo... uma das famílias mais antigas de todo o Arcanum... rastreamos nossas linhagens até a Era das Lendas e além. E sempre, desde o início, praticamos as artes sombrias...}{}{}{}{lc1 4}
 {66}{O que exatamente você quer dizer com 'artes sombrias'?}{}{5}{}{74}{}
-{67}{As antigas linhagens sanguíneas precisam terminar em algum lugar, Winston.}{}{5}{lc2 0, pa -6411}{223}{lc2 1}
-{68}{Magnus e eu vamos acabar com as linhagens sanguíneas dos Schuyler, bem aqui.}{}{5}{lc2 0, pa 6411}{223}{lc2 1}
-{69}{As antigas linhagens sanguíneas precisam terminar em algum lugar, Winston.}{}{5}{lc2 1, pa -6411}{}{co, fl 238}
-{70}{Magnus e eu vamos acabar com as linhagens sanguíneas dos Schuyler, bem aqui.}{}{5}{lc2 1, pa 6411}{}{co, fl 238}
+{67}{As antigas linhagens têm que acabar em algum lugar, Winston.}{}{5}{lc2 0, pa -6411}{223}{lc2 1}
+{68}{Magnus e eu vamos acabar com as linhagens Schuyler, bem aqui.}{}{5}{lc2 0, pa 6411}{223}{lc2 1}
+{69}{As antigas linhagens têm que acabar em algum lugar, Winston.}{}{5}{lc2 1, pa -6411}{}{co, fl 238}
+{70}{Magnus e eu vamos acabar com as linhagens Schuyler, bem aqui.}{}{5}{lc2 1, pa 6411}{}{co, fl 238}
 {71}{Talvez seja melhor eu ir.}{}{5}{}{146}{}
 {74}{Necromancia, meu curioso amigo. Invocações de espíritos, fala fantasmagórica, a animação dos mortos incuráveis. Os Schuylers são uma família que passa seu tempo nas terras do crepúsculo, envoltos em morte e sombra...}{Necromancia, meu curioso amigo. Invocações de espíritos, fala fantasmagórica, a animação dos mortos incuráveis. Os Schuylers são uma família que passa seu tempo nas terras do crepúsculo, envoltos em morte e sombra...}{}{}{}{lc1 5, lf8 1}
 {75}{Entendo. Isso explica os zumbis anões. São obra sua.}{}{5}{}{83}{}
@@ -74,13 +74,13 @@
 {90}{Sim... descobrimos a tumba há mais de 150 anos, antes de Tarant se tornar uma cidade tão grandiosa. Então nossa família deixou sua casa na antiga Caladon e se mudou para cá. Não lamentamos deixar aquele lugar... alguns dos locais começaram a desconfiar de nossas atividades.}{Sim... descobrimos a tumba há mais de 150 anos, antes de Tarant se tornar uma cidade tão grandiosa. Então nossa família deixou sua casa na antiga Caladon e se mudou para cá. Não lamentamos deixar aquele lugar... alguns dos locais começaram a desconfiar de nossas atividades.}{}{}{}{lc1 7}
 {91}{Sem ofensas, mas posso entender por que eles poderiam ficar um pouco desconfiados...}{}{5}{}{94}{}
 {92}{Desconfiados? Vocês são monstros! Claro que estavam desconfiados!}{}{5}{lf4 0}{200}{lf4 1}
-{94}{Infelizmente, posso ver seu ponto de vista. O mundo, para pessoas como nós, está se tornando menor. Tão poucas pessoas se lembram dos velhos costumes, quando a magia fazia parte de tudo e de todos. Houve um tempo em que éramos homens de negócios legítimos, e ninguém piscava um olho para nossas operações...}{Infelizmente, posso ver seu ponto de vista. O mundo, para pessoas como nós, está se tornando menor. Tão poucas pessoas se lembram dos velhos costumes, quando a magia fazia parte de tudo e de todos. Houve um tempo em que éramos homens de negócios legítimos, e ninguém piscava um olho para nossas operações...}{}{}{}{lc1 8}
+{94}{Infelizmente, vejo seu ponto. O mundo, para os de nossa espécie, está se tornando menor. Tão poucas pessoas se lembram dos velhos costumes, quando a magia era parte de tudo e de todos. Houve um tempo em que éramos homens de negócios legítimos, e ninguém piscava um olho para nossas operações...}{Infelizmente, vejo seu ponto. O mundo, para os de nossa espécie, está se tornando menor. Tão poucas pessoas se lembram dos velhos costumes, quando a magia era parte de tudo e de todos. Houve um tempo em que éramos homens de negócios legítimos, e ninguém piscava um olho para nossas operações...}{}{}{}{lc1 8}
 {95}{Infelizmente, não posso ignorar o que você fez aqui.}{}{5}{lc2 0, pa -6411}{223}{lc2 1}
 {96}{Magnus e eu viemos para retificar esta tragédia anã.}{}{5}{lc2 0, pa 6411}{223}{lc2 1}
 {97}{Infelizmente, não posso ignorar o que você fez aqui.}{}{5}{lc2 1, pa -6411}{}{co, fl 238}
 {98}{Magnus e eu viemos para retificar esta tragédia anã.}{}{5}{lc2 1, pa 6411}{}{co, fl 238}
 {99}{Parece, como você disse, que estamos numa encruzilhada. Para onde ir?}{}{5}{}{103}{}
-{100}{Deixo-o com o seu mundo, senhor. Já é hora de me despedir...}{}{5}{}{146}{}
+{100}{Deixo-o para o seu mundo, senhor. É hora de eu me despedir...}{}{5}{}{146}{}
 {103}{Sim, para onde? Parece que tenho algo que você precisa, e você tem algo nosso também... nosso anonimato. Não estamos prejudicando ninguém aqui... os espíritos desses anões já se foram há muito tempo, e nós somos donos da terra onde esta tumba repousa...}{Sim, para onde? Parece que tenho algo que você precisa, e você tem algo nosso também... nosso anonimato. Não estamos prejudicando ninguém aqui... os espíritos desses anões já se foram há muito tempo, e nós somos donos da terra onde esta tumba repousa...}{}{}{}{lc1 9}
 {104}{Você não acha que os anões poderiam considerar isso hediondo?}{}{5}{}{208}{}
 {105}{Como pôde pensar que eu faria vista grossa para seus crimes?}{}{5}{lc2 0, pa -6411}{223}{lc2 1}
@@ -102,15 +102,15 @@
 {125}{Acho que é hora de eu ir embora...}{}{5}{}{146}{}
 {127}{Serei eu quem exigirá respostas por aqui. Você obviamente NÃO faz ideia do que se meteu... e sua situação só está piorando. Não vou perguntar de novo. POR QUE VOCÊ ESTÁ AQUI?}{Serei eu quem exigirá respostas por aqui. Você obviamente NÃO faz ideia do que se meteu... e sua situação só está piorando. Não vou perguntar de novo. POR QUE VOCÊ ESTÁ AQUI?}{}{}{}{}
 {128}{Tudo bem, tudo bem. Estou desesperadamente precisando de algumas informações...}{}{5}{lf7 0}{10}{lf7 1}
-{129}{Certo. Por favor, dê uma olhada neste anel... [Mostre-lhe o anel.]}{}{5}{in 2804, lc1 1}{50}{}
-{130}{Tudo bem. Eu tinha este anel, entende...[Descreva o anel.]}{}{5}{ni 2804, lc1 1}{50}{}
-{131}{Por favor, eu só preciso saber a identidade do dono do anel...}{}{5}{lc1 2}{56}{}
-{132}{Certo, mas eu gostaria de saber o que está acontecendo aqui embaixo.}{}{5}{lc1 3}{65}{}
+{129}{Tudo bem. Por favor, dê uma olhada neste anel... <<<PH1>>>}{}{5}{in 2804, lc1 1}{50}{}
+{130}{Tudo bem. Eu costumava ter este anel, veja... <<<PH2>>>}{}{5}{ni 2804, lc1 1}{50}{}
+{131}{Por favor, só preciso saber a identidade do dono do anel...}{}{5}{lc1 2}{56}{}
+{132}{Tudo bem, mas eu gostaria de saber o que está acontecendo aqui embaixo.}{}{5}{lc1 3}{65}{}
 {133}{Certo. Mas você mencionou antes algo sobre as artes das trevas?}{}{5}{lc1 4}{74}{}
-{134}{Tudo bem. Esses zumbis... são obra sua?}{}{5}{lc1 5}{83}{}
-{135}{Tudo bem... mas esta loja! Você a construiu bem em cima da tumba dos anões?}{}{5}{lc1 6}{90}{}
+{134}{Tá. Esses zumbis... são obra sua?}{}{5}{lc1 5}{83}{}
+{135}{Tá bom... mas essa loja! Você a construiu bem em cima da tumba dos anões?}{}{5}{lc1 6}{90}{}
 {136}{Tudo bem. Mas dá para entender por que as pessoas podem achar você um pouco estranho?}{}{5}{lc1 7}{103}{}
-{137}{Certo. Parece que chegamos a um impasse. Para onde vamos?}{}{5}{lc1 8}{110}{}
+{137}{Tudo bem. Parece que chegamos a um impasse. Para onde vamos agora?}{}{5}{lc1 8}{110}{}
 {138}{Conveniente estarmos em uma tumba. Você vai precisar de uma.}{}{5}{lc2 0, pa -6411}{223}{lc2 1}
 {139}{Magnus e eu vamos enterrar você aqui, palhaço.}{}{5}{lc2 0, pa 6411}{223}{lc2 1}
 {140}{Conveniente estarmos em uma tumba. Você vai precisar de uma.}{}{5}{lc2 1, pa 6411}{}{co, fl 238}
@@ -118,15 +118,15 @@
 {142}{Não estamos nos entendendo. Talvez seja melhor eu ir...}{}{5}{}{146}{}
 {146}{Você está enganado, forasteiro. Você NÃO VAI A LUGAR NENHUM até me dizer exatamente por que está aqui. Qualquer tentativa sua de sair antes disso será recebida com a MAIS EXTREMA resistência.}{Você está enganado, forasteiro. Você NÃO VAI A LUGAR NENHUM até me dizer exatamente por que está aqui. Qualquer tentativa sua de sair antes disso será recebida com a MAIS EXTREMA resistência.}{}{}{}{}
 {147}{Tudo bem, tudo bem. Estou desesperadamente precisando de algumas informações...}{}{5}{lf7 0}{10}{lf7 1}
-{148}{Tudo bem. Por favor, dê uma olhada neste anel...[Mostre o anel a ele.]}{}{5}{in 2804, lc1 1}{50}{}
-{149}{Tudo bem. Eu tinha este anel, entende...[Descreva o anel.]}{}{5}{ni 2804, lc1 1}{50}{}
-{150}{Por favor, eu só preciso saber a identidade do dono do anel...}{}{5}{lc1 2}{56}{}
-{151}{Certo, mas eu gostaria de saber o que está acontecendo aqui embaixo.}{}{5}{lc1 3}{65}{}
+{148}{Tudo bem. Por favor, dê uma olhada neste anel... <<<PH1>>>}{}{5}{in 2804, lc1 1}{50}{}
+{149}{Tudo bem. Eu costumava ter este anel, veja... <<<PH2>>>}{}{5}{ni 2804, lc1 1}{50}{}
+{150}{Por favor, só preciso saber a identidade do dono do anel...}{}{5}{lc1 2}{56}{}
+{151}{Tudo bem, mas eu gostaria de saber o que está acontecendo aqui embaixo.}{}{5}{lc1 3}{65}{}
 {152}{Certo. Mas você mencionou antes algo sobre as artes das trevas?}{}{5}{lc1 4}{74}{}
-{153}{Tudo bem. Esses zumbis... são obra sua?}{}{5}{lc1 5}{83}{}
-{154}{Tudo bem... mas esta loja! Você a construiu bem em cima da tumba dos anões?}{}{5}{lc1 6}{90}{}
+{153}{Tá. Esses zumbis... são obra sua?}{}{5}{lc1 5}{83}{}
+{154}{Tá bom... mas essa loja! Você a construiu bem em cima da tumba dos anões?}{}{5}{lc1 6}{90}{}
 {155}{Tudo bem. Mas dá para entender por que as pessoas podem achar você um pouco estranho?}{}{5}{lc1 7}{94}{}
-{156}{Certo. Parece que chegamos a um impasse. Para onde vamos?}{}{5}{lc1 8}{103}{}
+{156}{Tudo bem. Parece que chegamos a um impasse. Para onde vamos agora?}{}{5}{lc1 8}{103}{}
 {157}{Tudo bem. Podemos chegar a algum tipo de acordo?}{}{5}{lc1 9}{110}{}
 {158}{Receio que tenha sido VOCÊ quem cometeu o terrível erro...}{}{5}{lc2 0, pa -6411}{223}{lc2 1}
 {159}{Acho que já tivemos o suficiente de você, tolo.}{}{5}{lc2 0, pa 6411}{223}{lc2 1}
@@ -158,7 +158,7 @@
 {193}{Aquele homem já estava doente antes mesmo de o vermos. Nosso encontro foi uma transação comercial legítima. Sua morte após isso foi, infelizmente, uma inevitabilidade causada por sua constituição fraca.}{Aquele homem já estava doente antes mesmo de o vermos. Nosso encontro foi uma transação comercial legítima. Sua morte após isso foi, infelizmente, uma inevitabilidade causada por sua constituição fraca.}{}{}{}{}
 {194}{E os Cinco Sem Olhos?}{}{5}{lf9 0}{189}{lf9 1}
 {195}{Entendo. Então, sua família construiu esta loja sobre a tumba anã?}{}{5}{}{90}{}
-{200}{Sério? Mais monstruoso do que os madeireiros que destroem árvores habitadas pelos espíritos de elfos sagrados? Ou os grandes industriais que explodem túneis de trem através das pedras de sangue sagradas das antigas tribos de Ogros? Nosso pequeno empreendimento aqui mal pode ser chamado de monstruoso...}{Sério? Mais monstruoso do que os madeireiros que destroem árvores habitadas pelos espíritos de elfos sagrados? Ou os grandes industriais que explodem túneis de trem através das pedras de sangue sagradas das antigas tribos de Ogros? Nosso pequeno empreendimento aqui mal pode ser chamado de monstruoso...}{}{}{}{}
+{200}{Sério? Mais monstruoso do que os madeireiros que destroem árvores habitadas pelos espíritos de elfos sagrados? Ou os grandes industriais que explodem túneis de trem através das pedras de sangue sagradas das antigas tribos de ogros? Nossa pequena empreitada aqui mal pode ser chamada de monstruosa...}{Sério? Mais monstruoso do que os madeireiros que destroem árvores habitadas pelos espíritos de elfos sagrados? Ou os grandes industriais que explodem túneis de trem através das pedras de sangue sagradas das antigas tribos de ogros? Nossa pequena empreitada aqui mal pode ser chamada de monstruosa...}{}{}{}{}
 {201}{É verdade. Verdade. Ainda assim, seu negócio aqui é um tanto estranho.}{}{5}{}{94}{}
 {202}{Suas justificativas são frágeis. Eu diria que sua têmpera é a mesma.}{}{5}{lc2 0}{223}{}
 {203}{Suas justificativas são frágeis. Eu diria que sua têmpera é a mesma.}{}{5}{lc2 1}{}{co, fl 238}
@@ -170,9 +170,9 @@
 {214}{Esse é um argumento forte. Podemos chegar a um entendimento?}{}{5}{}{110}{}
 {215}{Espere! Você está falando de um povo antigo e orgulhoso aqui!}{}{5}{pa -6411}{218}{}
 {216}{Espere! Esses eram os antepassados de Magnus!}{}{5}{pa 6411}{218}{}
-{218}{Sinto muito, mas a prova é irrefutável! Olhe para esses zumbis anões... todas as suas testas são inclinadas, muitos têm defeitos físicos como dedos extras nos pés, os olhos são muito próximos. Nenhum anão reivindicaria esses anões deformados como seu povo!}{Sinto muito, mas a prova é irrefutável! Olhe para esses zumbis anões... todas as suas testas são inclinadas, muitos têm defeitos físicos como dedos extras nos pés, os olhos são muito próximos. Nenhum anão reivindicaria esses anões deformados como seu povo!}{}{}{}{}
+{218}{Sinto muito, mas as provas são irrefutáveis! Olhe para esses zumbis anões... todas as suas testas são inclinadas, muitos têm defeitos físicos como dedos extras nos pés, os olhos são muito próximos. Nenhum anão reconheceria esses anões deformados como seu povo!}{Sinto muito, mas as provas são irrefutáveis! Olhe para esses zumbis anões... todas as suas testas são inclinadas, muitos têm defeitos físicos como dedos extras nos pés, os olhos são muito próximos. Nenhum anão reconheceria esses anões deformados como seu povo!}{}{}{}{}
 {219}{Você me convenceu. Podemos chegar a um entendimento?}{}{5}{}{110}{}
-{220}{Meu Deus, homem! Não ouvirei mais nada! Prepare-se para morrer!}{}{5}{pa -6411}{}{co, fl 207}
+{220}{Meu deus, homem! Não ouvirei mais nada! Prepare-se para morrer!}{}{5}{pa -6411}{}{co, fl 207}
 {221}{O quê! Magnus e eu vamos vingar esses anões! Ataque!}{}{5}{pa 6411}{}{co, fl 207}
 {223}{Não me teste, estranho. Há apenas tanta insolência que tolerarei aqui. Insulte ou ameace-me novamente, e eu o destruirei...}{Não me teste, estranho. Há apenas tanta insolência que tolerarei aqui. Insulte ou ameace-me novamente, e eu o destruirei...}{}{}{}{}
 {224}{Tudo bem, tudo bem. Estou desesperadamente precisando de algumas informações...}{}{5}{lf7 0}{10}{lf7 1}
@@ -189,7 +189,7 @@
 {235}{Talvez eu não tenha me explicado direito. Você não é motivo de preocupação para mim.}{}{5}{pa -6411}{}{co, fl 237}
 {236}{Talvez eu não tenha me explicado direito. Você não é motivo de preocupação para nós.}{}{5}{pa 6411}{}{co, fl 237}
 {238}{Chega! Você trouxe isso para si mesmo! Renda-se às trevas...!}{Chega! Você trouxe isso para si mesmo! Renda-se às trevas...!}{}{}{}{}
-{244}{Sinto muito pela morte do seu amigo, mas essas são as baixas dos negócios. Agora! Para sua informação. Nossos registros aqui embaixo são muito extensos, mas pode levar horas para encontrar o que procuramos. Tenho uma maneira melhor. Vamos perguntar ao meu pai, Pelonious Schuyler.}{Excelente. Nossos registros aqui embaixo são muito extensos, mas pode levar horas para encontrar o que procuramos. Tenho uma maneira melhor. Vamos perguntar ao meu pai.}{}{}{}{ru 2037, gf2345 1}
+{244}{Sinto muito pela morte do seu amigo, mas essas são as baixas dos negócios. Agora! Para sua informação. Nossos registros aqui embaixo são muito extensos, mas pode levar horas para encontrar o que procuramos. Tenho uma maneira melhor. Vamos perguntar ao meu pai, Pelonious Schuyler.}{Sinto muito pela morte do seu amigo, mas essas são as baixas dos negócios. Agora! Para sua informação. Nossos registros aqui embaixo são muito extensos, mas pode levar horas para encontrar o que procuramos. Tenho uma maneira melhor. Vamos perguntar ao meu pai, Pelonious Schuyler.}{}{}{}{ru 2037, gf2345 1}
 {245}{Seu pai? E onde ele está?}{}{5}{}{247}{}
 {247}{Bem, ele está aqui e não está. Como pode ver, preservamos sua casca terrena aqui embaixo... aquele é o corpo dele sentado em sua poltrona favorita ali, encostado na parede.}{Bem, ele está aqui e não está. Como pode ver, preservamos sua casca terrena aqui embaixo... aquele é o corpo dele sentado em sua poltrona favorita ali, encostado na parede.}{}{}{}{}
 {248}{Hmmm. Estou confuso... isso é uma prática necromântica padrão?}{}{5}{}{250}{}
@@ -199,7 +199,7 @@
 {254}{Claro. É um pouco perturbador, mas acho que consigo lidar.}{}{5}{}{256}{}
 {256}{Muito bem. Vamos prosseguir. Agora chamo o outro lado, o lugar das sombras e dos espectros... invocamos você, espírito de Pelonious Schuyler, que agora caminha onde nós apenas podemos olhar. Você nos ouve...?}{Muito bem. Vamos prosseguir. Agora chamo o outro lado, o lugar das sombras e dos espectros... invocamos você, espírito de Pelonious Schuyler, que agora caminha onde nós apenas podemos olhar. Você nos ouve...?}{}{}{}{}
 {257}{Sim, sim... vamos logo com isso, então...}{}{5}{}{-15}{}
-{263}{Foi um prazer fazer negócios com você. Boa sorte para onde quer que suas viagens o levem.}{Foi um prazer fazer negócios com você. Boa sorte para onde quer que suas viagens a levem.}{}{}{}{}
+{263}{Foi um prazer fazer negócios com você. Boa sorte para onde quer que suas viagens a levem.}{Foi um prazer fazer negócios com você. Boa sorte para onde quer que suas viagens a levem.}{}{}{}{}
 {273}{Pelos deuses! Um completo imbecil violou nosso santuário interno, meus irmãos! Isso não pode ser permitido! Matem-no imediatamente!}{Pelos deuses! Uma completa imbecil violou nosso santuário interno, meus irmãos! Isso não pode ser permitido! Matem-na imediatamente!}{}{}{}{}
 {274}{Muito bem! Agora, para sua informação. Nossos registros aqui embaixo são muito extensos, mas pode levar horas para encontrar o que procuramos. Tenho uma maneira melhor. Vamos perguntar ao meu pai, Pelonious Schuyler.}{Muito bem! Agora, para sua informação. Nossos registros aqui embaixo são muito extensos, mas pode levar horas para encontrar o que procuramos. Tenho uma maneira melhor. Vamos perguntar ao meu pai, Pelonious Schuyler.}{}{}{}{}
 {275}{Seu pai? E onde ele está?}{}{5}{}{247}{}

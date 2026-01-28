@@ -15,9 +15,9 @@
 {15}{Hã... qual é o seu nome, malvado?}{}{-4}{lf1 0, re -40}{28}{}
 {16}{Hã... Eu pergunto uma coisa?}{}{-4}{lf1 1, re 41}{36}{}
 {17}{Hã... eu pergunto uma coisa, malvado?}{}{-4}{lf1 1, re -40}{36}{}
-{18}{Melhorei minhas habilidades com fogo, Mestra Naph'Tha.}{}{5}{lf4 1, sc4 5}{78}{}
-{19}{Aperfeiçoei minha aura mágica, Mestra Naph'Tha.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{20}{Tenho interesse em me tornar um mestre do fogo.}{}{5}{gf2411 0, ma30, lf1 1}{101}{}
+{18}{Melhorei minhas habilidades com fogo, Mestra Naph'Tha.}{}{5}{lf4 1, sc4 5, lf5 0}{78}{}
+{19}{Aperfeiçoei minha aura mágica, Mestra Naph'Tha.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{20}{Tenho interesse em me tornar um mestre do fogo.}{}{5}{gf2411 0, ma30, lf1 1, sc4 5}{101}{}
 {21}{Ainda não completei o teste de mestria, Naph'Tha.}{}{5}{LF7 1, gf2416 0}{115}{}
 {22}{Completei o teste e me tornei mestre do fogo!}{}{5}{gf2416 1, lf9 0}{119}{}
 {27}{E:}{}{1}{}{0}{}
@@ -25,24 +25,24 @@
 {29}{É uma honra conhecê-la, senhora.}{}{5}{sc4 1, sc4 -4, lf4 0}{73}{}
 {30}{É uma honra conhecê-la, senhora.}{}{5}{sc4 5, lf5 0}{78}{}
 {31}{O que você acha da disseminação da tecnologia?}{}{5}{sc4 0, lf3 0}{65}{}
-{32}{Você pode me explicar mais sobre o fogo e suas qualidades mágicas?}{}{5}{sc4 0, lf2 0}{57}{}
-{33}{O que é fôgo?}{}{-4}{sc4 0, lf2 0}{57}{}
-{34}{O que cê acha da tecno-lugia?}{}{-4}{sc4 0, lf3 0}{65}{}
+{32}{Você poderia me explicar mais sobre o fogo e suas qualidades mágicas?}{}{5}{sc4 0, lf2 0}{57}{}
+{33}{O qu'é fogo?}{}{-4}{sc4 0, lf2 0}{57}{}
+{34}{O que você acha da tecno-logia?}{}{-4}{sc4 0, lf3 0}{65}{}
 {35}{E:}{}{1}{sc4 0}{0}{}
 {36}{Qual pensamento arde mais forte em sua mente @pcname@?}{Qual pensamento arde mais forte em sua mente @pcname@?}{}{}{}{}
-{37}{Gostaria de informar que melhorei minhas habilidades com fogo, Mestra.}{}{5}{lf4 1, sc4 5}{78}{}
-{38}{Voltei com a aura mágica aprimorada, Mestra Naph'Tha.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{39}{O desejo de dominar a escola do fogo.}{}{5}{gf2411 0, ma30}{101}{}
+{37}{Gostaria de informar que melhorei minhas habilidades com fogo, Mestra.}{}{5}{lf4 1, sc4 5, lf5 0}{78}{}
+{38}{Voltei com a aura mágica aprimorada, Mestra Naph'Tha.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{39}{O desejo de dominar a escola do fogo.}{}{5}{gf2411 0, ma30, sc4 5}{101}{}
 {40}{O que você acha da disseminação da tecnologia?}{}{5}{lf3 0}{65}{}
-{41}{Você pode me explicar mais sobre o fogo e suas qualidades mágicas?}{}{5}{lf2 0}{57}{}
-{42}{O que é fôgo?}{}{-4}{lf2 0}{57}{}
-{43}{O que cê acha da tecno-lugia?}{}{-4}{lf3 0}{65}{}
+{41}{Você poderia me explicar mais sobre o fogo e suas qualidades mágicas?}{}{5}{lf2 0}{57}{}
+{42}{O qu'é fogo?}{}{-4}{lf2 0}{57}{}
+{43}{O que você acha da tecno-logia?}{}{-4}{lf3 0}{65}{}
 {44}{F:}{}{1}{}{0}{}
 {45}{E:}{}{1}{}{0}{}
 {46}{Minha explicação despertou mais perguntas, senhor?}{Minha explicação despertou mais perguntas, senhora?}{}{}{}{}
-{47}{Gostaria de informar que melhorei minhas habilidades com fogo, Mestra.}{}{5}{lf4 1, sc4 5}{78}{}
-{48}{Voltei com a aura mágica aprimorada, Mestra Naph'Tha.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
-{49}{Posso dominar a escola do fogo, Mestra Naph'Tha?}{}{5}{gf2411 0, ma30}{101}{}
+{47}{Gostaria de informar que melhorei minhas habilidades com fogo, Mestra.}{}{5}{lf4 1, sc4 5, lf5 0}{78}{}
+{48}{Voltei com a aura mágica aprimorada, Mestra Naph'Tha.}{}{5}{lf8 1, lf6 0, ma 30, lf7 0}{95}{}
+{49}{Posso dominar a escola do fogo, Mestra Naph'Tha?}{}{5}{gf2411 0, ma30, sc4 5}{101}{}
 {50}{O que você acha da disseminação da tecnologia?}{}{5}{lf3 0}{65}{}
 {51}{Você poderia me explicar mais sobre o fogo e suas qualidades mágicas?}{}{5}{lf2 0}{57}{}
 {52}{Não. Obrigado pelo seu tempo.}{}{5}{}{0}{}
@@ -71,7 +71,7 @@
 {75}{Obrigado, madame. Você poderia me explicar um pouco mais sobre o fogo?}{}{5}{lf2 0}{57}{}
 {76}{Obrigado, mestre.}{}{5}{}{0}{}
 {77}{E:}{}{1}{}{0}{}
-{78}{Vejo que você se tornou bastante habilidoso. Agora domina todos os cinco feitiços mágicos! Ofereço minhas congratulações. Tenho certeza de que está bastante intoxicado com o poder que comanda... Exigiu muito esforço se tornar proficiente nos cinco?}{Vejo que você se tornou bastante habilidosa. Agora domina todos os cinco feitiços mágicos! Ofereço minhas congratulações. Tenho certeza de que está bastante intoxicada com o poder que comanda... Exigiu muito esforço se tornar proficiente nos cinco?}{}{}{}{lf5 1}
+{78}{Vejo que você se tornou bastante habilidosa. Agora domina todos os cinco feitiços mágicos! Ofereço minhas congratulações. Tenho certeza de que está bastante intoxicada com o poder que comanda... Exigiu muito esforço se tornar proficiente nos cinco?}{Vejo que você se tornou bastante habilidosa. Agora domina todos os cinco feitiços mágicos! Ofereço minhas congratulações. Tenho certeza de que está bastante intoxicada com o poder que comanda... Exigiu muito esforço se tornar proficiente nos cinco?}{}{}{}{lf5 1}
 {79}{Fui um talento natural, senhora.}{}{5}{gf2411 0, ma 30}{95}{}
 {80}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 0, ma 30}{95}{}
 {81}{Extremamente difícil, senhora. Porém, minha resistência compensou.}{}{5}{gf2411 0, ma 30}{95}{}
@@ -82,18 +82,18 @@
 {86}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 1}{46}{}
 {87}{Extremamente difícil, senhora. Porém, minha resistência compensou.}{}{5}{gf2411 1}{46}{}
 {88}{E:}{}{1}{}{0}{}
-{89}{Você teve sucesso em todos os níveis com a magia do fogo, mas sua aura mágica geral é fraca. Hmm... Você fede a tecnologia! É uma abominação imunda! Deveria se afastar dela imediatamente! Melhore sua aura, e talvez eu tenha uma oferta que aumentará seus poderes...}{Você teve sucesso em todos os níveis com a magia do fogo, mas sua aura mágica geral é fraca. Hmm... Você fede a tecnologia! É uma abominação imunda! Deveria se afastar dela imediatamente! Melhore sua aura, e talvez eu tenha uma oferta que aumentará seus poderes...}{}{}{}{}
+{89}{Você teve sucesso em todos os níveis com a magia do fogo, mas sua aura mágica geral é fraca. Hmm... Você fede a tecnologia! É uma abominação imunda! Deveria se afastar dela imediatamente! Melhore sua aura, e talvez eu tenha uma oferta que aumentará seus poderes...}{Você teve sucesso em todos os níveis com a magia do fogo, mas sua aura mágica geral é fraca. Hmm... Você fede a tecnologia! É uma abominação imunda! Deveria se afastar dela imediatamente! Melhore sua aura, e talvez eu tenha uma oferta que aumentará seus poderes...}{}{}{}{lf8 1}
 {90}{O que você acha da disseminação da tecnologia?}{}{5}{lf3 0}{65}{}
 {91}{Prefiro trilhar um caminho equilibrado entre magia e tecnologia, madame.}{}{5}{}{46}{re-2}
 {92}{Talvez seja da magia que eu precise me afastar...}{}{5}{}{}{re-3, fl 123}
 {93}{Estou trabalhando para melhorar minhas habilidades mágicas, senhora.}{}{5}{}{46}{re+3}
 {94}{E:}{}{1}{}{0}{}
-{95}{Hmm... Você realmente tem uma aura forte de magia ao seu redor... Será que teria interesse em se tornar um mestre no Colégio do Fogo?}{Hmm... Você realmente tem uma aura forte de magia ao seu redor... Será que teria interesse em se tornar uma mestra no Colégio do Fogo?}{}{}{}{lf6 1}
+{95}{Hmm... Você realmente tem uma aura forte de magia ao seu redor... Será que teria interesse em se tornar uma mestra no Colégio do Fogo?}{Hmm... Você realmente tem uma aura forte de magia ao seu redor... Será que teria interesse em se tornar uma mestra no Colégio do Fogo?}{}{}{}{lf6 1}
 {96}{Um mestre? O que é necessário para alcançar tal título?}{}{5}{}{101}{}
 {97}{O que eu preciso fazer?}{}{5}{}{101}{}
 {98}{Não neste momento, obrigado.}{}{5}{}{46}{}
 {100}{E:}{}{1}{}{0}{}
-{101}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso recebem uma grande recompensa... o esforço necessário para lançar cada feitiço de fogo é reduzido pela metade! ...Tem interesse em tentar o teste?}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso recebem uma grande recompensa... o esforço necessário para lançar cada feitiço de fogo é reduzido pela metade! ...Você está interessado em tentar o teste?}{}{}{}{}
+{101}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso recebem uma grande recompensa... o esforço necessário para lançar cada feitiço de fogo é reduzido pela metade! ...Você está interessado em tentar o teste?}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso recebem uma grande recompensa... o esforço necessário para lançar cada feitiço de fogo é reduzido pela metade! ...Você está interessado em tentar o teste?}{}{}{}{}
 {102}{Sim, estou, madame.}{}{5}{}{106}{}
 {103}{Sim.}{}{5}{}{106}{}
 {104}{Não neste momento, obrigado.}{}{5}{}{46}{}
@@ -111,9 +111,9 @@
 {116}{Vou completar meus preparativos e realizar o teste. Adeus.}{}{5}{}{0}{}
 {117}{Vou me tornar um mestre! Adeus.}{}{5}{}{0}{}
 {118}{E:}{}{5}{}{0}{}
-{119}{Muito bem! Muito bem mesmo, @pcname@! Raramente tive a alegria de parabenizar alguém por tal conquista. Você verá que sua força em nossa escola foi duplicada. Assim, sentirá metade do esforço ao lançar um feitiço. Mais uma vez, meus parabéns.}{Muito bem! Muito bem mesmo, @pcname@! Pouquíssimos foram aqueles que tive a alegria de parabenizar por tal conquista. Você verá que sua força em nossa escola foi duplicada. Assim, sentirá metade do esforço ao lançar um feitiço. Novamente, meus parabéns.}{}{}{}{}
+{119}{Muito bem! Muito bem mesmo, @pcname@! Raramente tive a alegria de parabenizar alguém por tal conquista. Você verá que sua força em nossa escola foi duplicada. Assim, sentirá metade do esforço ao lançar um feitiço. Mais uma vez, meus parabéns.}{Muito bem! Muito bem mesmo, @pcname@! Pouquíssimos foram aqueles que tive a alegria de parabenizar por tal conquista. Você verá que sua força em nossa escola foi duplicada. Assim, sentirá metade do esforço ao lançar um feitiço. Novamente, meus parabéns.}{}{}{}{lf9 1}
 {120}{Obrigado, mestre.}{}{5}{}{0}{}
 {121}{Obrigado, Naph'Tha. Posso lhe perguntar mais uma coisa?}{}{5}{}{46}{}
 {122}{E:}{}{5}{}{0}{}
-{123}{Não me importo com essa escória comum! Acho que terminei de falar com você. Adeus!}{Não me importo com essa escória comum! Acho que terminei de falar com você, @pcname@. Adeus!}{}{}{}{lf9 1}
+{123}{Não me importo com essa escória comum! Acho que terminei de falar com você. Adeus!}{Não me importo com essa escória comum! Acho que terminei de falar com você, @pcname@. Adeus!}{}{}{}{}
 

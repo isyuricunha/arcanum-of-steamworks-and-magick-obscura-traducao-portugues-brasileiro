@@ -28,7 +28,7 @@
 {37}{Pode repetir, garoto. Não há muito mais para distrair a mente de um homem. Isso me torna bem popular por aqui também... a maioria dos homens vem aqui quando tem algo para trocar. Falando nisso... [Ele olha você de cima a baixo, avaliando.]... talvez eu tenha um trabalho para você, se estiver procurando...}{Pode repetir, moça. Não há muito mais para distrair a mente de um homem. Isso me torna bem popular por aqui também... a maioria dos homens vem aqui quando tem algo para trocar. Falando nisso... [Ele olha você de cima a baixo, avaliando.]... talvez eu tenha um trabalho para você, se estiver procurando...}{}{}{}{}
 {38}{Que tipo de trabalho você está falando, Norian?}{}{5}{}{43}{}
 {39}{Hã... que trabalho?}{}{-4}{}{43}{}
-{43}{Não é um trabalho difícil. Eu negocio com um velho chamado Maximillian, que mora nas terras selvagens, além da muralha da vila. O velho Max não é má pessoa, mas é perigoso... sabe o que quero dizer? Faz uma quinzena que lhe devo um jarro de aguardente, mas com todos os homens desaparecendo, tenho tido medo de ir até lá levá-lo...}{Não é um trabalho difícil. Eu negocio com um velho chamado Maximillian, que mora lá fora, nos ermos, além da muralha da vila. O velho Max não é má pessoa, mas é perigoso... sabe o que quero dizer? Faz duas semanas que lhe devo um garrafão de aguardente, mas com todos os homens desaparecendo, tenho ficado com medo de sair e levar para ele...}{}{}{}{}
+{43}{Não é um trabalho difícil. Eu negocio com um velho chamado Maximillian, que mora lá fora, nos ermos, além da muralha da vila. O velho Max não é má pessoa, mas é perigoso... sabe o que quero dizer? Faz duas semanas que lhe devo um garrafão de aguardente, mas com todos os homens desaparecendo, tenho ficado com medo de sair e levar para ele...}{Não é um trabalho difícil. Eu negocio com um velho chamado Maximillian, que mora lá fora, nos ermos, além da muralha da vila. O velho Max não é má pessoa, mas é perigoso... sabe o que quero dizer? Faz duas semanas que lhe devo um garrafão de aguardente, mas com todos os homens desaparecendo, tenho ficado com medo de sair e levar para ele...}{}{}{}{}
 {44}{Talvez eu possa ajudar?}{}{5}{}{57}{re +5}
 {45}{O que você quer dizer? Quem está desaparecendo?}{}{5}{}{51}{}
 {46}{Acho que não estou interessado nisso. Tenha um bom dia...}{}{5}{}{0}{re -5}
@@ -57,7 +57,7 @@
 {75}{Ainda não entreguei a a-g-u-a-r-d-e-n-t-e nem trouxe o bilhete...}{}{-4}{qu1070 2, ni 5223}{79}{}
 {76}{Entreguei a a-g-u-a-r-d-e-n-t-e! Aqui está o bilhete!}{}{-4}{qu1070 2, in 5223}{83}{in 5223}
 {77}{E:}{}{1}{}{0}{}
-{79}{Hmmm. É melhor você entregar logo. Não quero que o velho Max fique com raiva de mim...}{Hmmm. É melhor você entregar isso logo. Não quero que o velho Max fique com raiva de mim...}{}{}{}{}
+{79}{Hmmm. É melhor você entregar isso logo. Não quero que o velho Max fique com raiva de mim...}{Hmmm. É melhor você entregar isso logo. Não quero que o velho Max fique com raiva de mim...}{}{}{}{}
 {80}{E:}{}{1}{}{0}{}
 {83}{Você conseguiu! Fico feliz em ver... Agradeço a ajuda, amigo. Aqui está sua garrafa de aguardente. [Ele a entrega para você.] Boa sorte para você...}{Você conseguiu! Fico feliz em ver... Agradeço a ajuda, amigo. Aqui está sua garrafa de aguardente. [Ele a entrega para você.] Boa sorte para você...}{}{}{}{qu1070 4, in -3602}
 {84}{E:}{}{1}{}{0}{lf2 1}

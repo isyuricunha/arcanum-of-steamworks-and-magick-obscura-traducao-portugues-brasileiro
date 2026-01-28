@@ -48,9 +48,9 @@
 {48}{Ah, sim. O que você precisa, @pcname@?}{Ah, sim. O que você precisa, @pcname@?}{}{}{}{}
 {49}{H:}{}{1}{}{48}{}
 {50}{B:}{}{1}{}{48}{}
-{51}{Gostaria de ser treinado como Mestre Curandeiro}{}{5}{sk10 18, tr10 2, tr10 -2, al 400, lf 14 0}{62}{re +10, lf 14 1}
+{51}{Gostaria de ser treinada como Mestra Curandeira}{}{5}{sk10 18, tr10 2, tr10 -2, al 400, lf 14 0}{62}{re +10, lf 14 1}
 {52}{Gostaria de ser treinada como Mestra Curandeira}{}{5}{sk10 18, tr10 2, tr10 -2, al -399, lf 14 0}{68}{re +10, lf 14 1}
-{53}{Gostaria de ser treinado como Mestre Curandeiro}{}{5}{tr10 1, tr10 -1, al 400, lf 14 0}{73}{re +10, lf 14 1}
+{53}{Gostaria de ser treinada como Mestra Curandeira}{}{5}{tr10 1, tr10 -1, al 400, lf 14 0}{73}{re +10, lf 14 1}
 {54}{Gostaria de ser treinada como Mestra Curandeira}{}{5}{tr10 1, tr10 -1, al -399, lf 14 0}{76}{re +10, lf 14 1}
 {55}{E:}{}{1}{}{0}{}
 {56}{Hmmm. Nosso encontro não está indo muito bem. Talvez devêssemos fazer as pazes e recomeçar. Por favor, vamos tentar.}{Hmmm. Nosso encontro não está indo muito bem. Talvez devêssemos fazer as pazes e recomeçar. Por favor, vamos tentar.}{}{}{}{}
@@ -59,7 +59,7 @@
 {59}{Uh, oh. Sim. Quer saber seu nome.}{}{-4}{}{38}{re +5}
 {60}{Agradeço à gentil dama. Quem é você? O que faz?}{}{-4}{}{38}{re +5}
 {61}{F:}{}{1}{}{0}{re -2}
-{62}{Você é sábio e bondoso. Seria uma honra treiná-lo como Mestre na arte da cura. Como presente para celebrar sua passagem, permita-me presenteá-lo com o amuleto de K'an-el. Ele está repleto de magia poderosa e irá restaurá-lo quando estiver fraco. Vá e seja generoso com suas novas habilidades, @pcname@.}{Você é sábia e bondosa. Seria uma honra treiná-la como Mestra na arte da cura. Como presente para celebrar sua passagem, permita-me presenteá-la com o amuleto de K'an-el. Ele está repleto de magia poderosa e irá restaurá-la quando estiver fraca. Vá e seja generosa com suas novas habilidades, @pcname@.}{}{}{}{tr10 3, in -2816, rq2170}
+{62}{Você é sábio e bondoso. Seria uma honra treiná-lo como Mestre na arte da cura. Como presente para celebrar sua passagem, permita-me oferecer-lhe o amuleto de K'an-el. Ele está repleto de poderosa magia e irá restaurá-lo quando estiver fraco. Vá e seja generoso com suas novas habilidades, @pcname@.}{Você é sábio e bondoso. Seria uma honra treiná-lo como Mestre na arte da cura. Como presente para celebrar sua passagem, permita-me oferecer-lhe o amuleto de K'an-el. Ele está repleto de poderosa magia e irá restaurá-lo quando estiver fraco. Vá e seja generoso com suas novas habilidades, @pcname@.}{}{}{}{tr10 3, in -2816, rq2170, rp1005}
 {63}{Obrigado, Fawn.}{}{5}{}{0}{}
 {64}{Obrigado, Fawn. Continuarei a ajudar outros com o seu dom.}{}{5}{ra -3}{0}{}
 {65}{Meus agradecimentos, Kal-N'driel. Compartilharei seu dom com aqueles que precisam.}{}{5}{ra 3}{0}{}

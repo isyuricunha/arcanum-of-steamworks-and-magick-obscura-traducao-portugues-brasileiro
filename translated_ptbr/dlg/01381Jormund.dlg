@@ -14,7 +14,7 @@
 {15}{O que um anão está fazendo em Qintarra?}{}{5}{ra-2}{172}{ }
 {16}{O que você está fazendo em Qintarra?}{}{5}{ra2}{172}{ }
 {21}{Estou de saída.}{}{5}{}{0}{ }
-{22}{Não sei nada sobre isso. Renunciei a todas as minhas afiliações anãs para vir aqui e estudar os caminhos da magia. Para informações desse tipo, você precisaria consultar Raven.}{Não sei nada sobre isso. Renunciei a todas as minhas afiliações anãs para vir aqui e estudar os caminhos da magia. Para informações desse tipo, você precisaria consultar Raven.}{}{}{}{ }
+{22}{Não sei nada sobre isso. Renunciei a todas as minhas afiliações anãs para vir aqui estudar os caminhos da magia. Para informações desse tipo, você precisaria consultar o Raven.}{Não sei nada sobre isso. Renunciei a todas as minhas afiliações anãs para vir aqui estudar os caminhos da magia. Para informações desse tipo, você precisaria consultar o Raven.}{}{}{}{ }
 {23}{Você é um mago? Isso parece um pouco... incomum.}{}{5}{}{42}{ }
 {25}{Quem é Raven?}{}{5}{}{33}{ }
 {26}{Você é um traidor da nossa raça! Me dá nojo!}{}{5}{ra2}{152}{lf2 1, re-10 }
@@ -35,9 +35,9 @@
 {65}{Você não gosta tanto assim de elfos?}{}{5}{ra-3}{240}{ }
 {72}{Meu contrato dura até o fim da vida de Wrath. Em troca de treinamento nas artes mágicas, concordei em servi-lo. Mas aquele elfo velho e amargo pode durar mais duzentos, possivelmente trezentos anos!}{Meu contrato dura até o fim da vida de Wrath. Em troca de treinamento nas artes mágicas, concordei em servi-lo. Mas aquele elfo velho e amargo pode durar mais duzentos, possivelmente trezentos anos!}{}{}{}{ }
 {73}{Por que você concordou com um período de serviço tão interminável?}{}{5}{}{82}{ }
-{74}{Por que você simplesmente não vai embora?}{}{5}{}{92}{ }
+{74}{Por que você não vai embora?}{}{5}{}{92}{ }
 {82}{Nenhum elfo quis aceitar um anão como aprendiz, foi a melhor oferta que consegui. Não era ruim no começo, quando Wrath era apenas rabugento. Nos últimos cinquenta anos, mais ou menos, ele se tornou cada vez mais amargo e difícil de trabalhar. Não sei o que farei se não conseguir convencê-lo a me libertar em breve.}{Nenhum elfo quis aceitar um anão como aprendiz, foi a melhor oferta que consegui. Não era ruim no começo, quando Wrath era apenas rabugento. Nos últimos cinquenta anos, mais ou menos, ele se tornou cada vez mais amargo e difícil de trabalhar. Não sei o que farei se não conseguir convencê-lo a me libertar em breve.}{}{}{}{ }
-{83}{Por que você simplesmente não vai embora?}{}{5}{}{92}{ }
+{83}{Por que você não vai embora?}{}{5}{}{92}{ }
 {92}{Eu jamais me desonraria assim. A única coisa que pode me libertar, além da morte dele, é a palavra dele.}{Eu jamais me desonraria assim. A única coisa que pode me libertar, além da morte dele, é a palavra dele.}{}{}{}{gf2144 1, lf16 1 }
 {93}{Talvez eu possa convencê-lo a libertar você.}{}{5}{}{103}{ }
 {94}{Posso matá-lo para você. Por um preço, é claro.}{}{5}{ch15, ra-3}{192}{ }
@@ -47,13 +47,13 @@
 {98}{Por que os anões são tão teimosos? Deixe esse maldito tolo!}{}{5}{ra-2}{221}{re-10 }
 {102}{Espero que você encontre uma maneira de se libertar. Tenha um bom dia.}{}{5}{}{0}{ }
 {103}{Agradeço pela oferta, mas sua interferência só serviria para irritá-lo, o que levaria a um tormento ainda maior para mim nas mãos dele.}{Agradeço pela oferta, mas sua interferência só serviria para irritá-lo, o que levaria a um tormento ainda maior para mim nas mãos dele.}{}{}{}{ }
-{104}{Se tem certeza, acho que vou seguir meu caminho, então.}{}{5}{}{0}{ }
+{104}{Se você tem certeza, acho que seguirei meu caminho, então.}{}{5}{}{0}{ }
 {112}{Não, sou eu quem deveria pedir seu perdão. Sentimentos pessoais não deveriam ser tão claramente demonstrados, especialmente por alguém com meu treinamento.}{Não, sou eu quem deveria pedir seu perdão. Sentimentos pessoais não deveriam ser tão claramente demonstrados, especialmente por alguém com meu treinamento.}{}{}{}{ }
 {113}{Seu treinamento? Você é um mago? Como isso aconteceu?}{}{11}{lf3 0, lf16 0}{42}{lf3 1 }
-{114}{O que você quer dizer com 'seu treinamento'? O que um anão está fazendo aqui?}{}{5}{ra-2, lf16 0}{122}{ }
+{114}{O que você quer dizer com seu treinamento? O que um anão está fazendo aqui?}{}{5}{ra-2, lf16 0}{122}{ }
 {115}{Como um anão se tornou mago em Qintarra, de todos os lugares?}{}{5}{lf2 1, ra -2, lf3 0, lf16 0}{42}{lf3 1 }
 {116}{Como você se tornou mago em Qintarra, de todos os lugares?}{}{5}{ra2, lf2 1, lf3 0, lf16 0}{42}{lf3 1 }
-{117}{O que você quer dizer com seu treinamento? O que está fazendo aqui?}{}{5}{ra2, lf2 0, lf16 0}{122}{ }
+{117}{O que você quer dizer com seu treinamento? O que você está fazendo aqui?}{}{5}{ra2, lf2 0, lf16 0}{122}{ }
 {118}{Você estava me contando sobre seus problemas, da última vez que conversamos.}{}{5}{lf15 1, lf16 0}{62}{ }
 {121}{E:}{}{5}{}{0}{ }
 {122}{Sou um mago, e esta é minha casa.}{Sou um mago, e esta é minha casa.}{}{}{}{ }
@@ -65,21 +65,21 @@
 {134}{O que você quer dizer com seu treinamento? O que um anão está fazendo aqui?}{}{5}{ra-2, lf16 0}{122}{ }
 {135}{Como um anão se tornou mago em Qintarra, de todos os lugares?}{}{5}{lf2 1, ra -2, lf16 0}{42}{ }
 {136}{Como você se tornou mago em Qintarra, de todos os lugares?}{}{5}{ra2, lf2 1, lf16 0}{42}{ }
-{137}{O que você quer dizer com seu treinamento? O que está fazendo aqui?}{}{5}{ra2, lf16 0}{122}{ }
+{137}{O que você quer dizer com seu treinamento? O que você está fazendo aqui?}{}{5}{ra2, lf16 0}{122}{ }
 {138}{Você estava me contando sobre seus problemas, da última vez que conversamos.}{}{5}{lf15 1, lf16 0}{62}{ }
 {141}{E:}{}{5}{}{0}{ }
 {142}{Você tem razão, meu irmão. Por favor, me perdoe. Sentimentos pessoais não devem ser exibidos tão abertamente, especialmente por alguém do meu treinamento. Humildemente peço seu perdão, senhor.}{Você tem razão, minha irmã. Por favor, me perdoe. Sentimentos pessoais não devem ser exibidos tão abertamente, especialmente por alguém do meu treinamento. Humildemente peço seu perdão, senhora.}{}{}{}{ }
 {143}{Seu treinamento? Você é um mago? Como isso aconteceu?}{}{11}{lf3 0, lf16 0}{42}{lf3 1 }
 {144}{Como você se tornou mago em Qintarra, de todos os lugares?}{}{-10}{ra2, lf2 1, lf16 0}{42}{ }
-{145}{O que você quer dizer com seu treinamento? O que está fazendo aqui?}{}{-10}{lf3 0, lf16 0}{122}{lf3 1 }
+{145}{O que você quer dizer com seu treinamento? O que você está fazendo aqui?}{}{-10}{lf3 0, lf16 0}{122}{lf3 1 }
 {146}{Você estava me contando sobre seus problemas, da última vez que conversamos.}{}{5}{lf15 1, lf16 0}{62}{ }
 {150}{Não perdoo um insulto tão facilmente! Defenda-se, peão élfico!}{}{5}{}{152}{re-10 }
 {151}{E:}{}{5}{}{0}{ }
 {152}{Embora tente testar minha paciência, minha disciplina é tal que não cederei aos meus impulsos mais violentos. Considere-se sortudo. Por favor, saia da minha casa.}{Embora tente testar minha paciência, minha disciplina é tal que não cederei aos meus impulsos mais violentos. Considere-se sortudo. Por favor, saia da minha casa.}{}{}{}{ }
 {153}{Peço humildemente perdão. Falei fora de hora.}{}{5}{}{162}{re+10 }
 {154}{Você é um covarde, como todos os anões.}{}{5}{}{0}{fl 236 ,co}
-{155}{Você é um covarde e uma desgraça para seu clã!}{}{5}{}{0}{fl 236 ,co}
-{162}{Seu pedido de desculpas é aceito. Meu treinamento é tal que eu não deveria ter permitido que me provocasse dessa maneira, independentemente de tudo.}{Seu pedido de desculpas é aceito. Meu treinamento é de tal forma que eu não deveria ter permitido que você me provocasse dessa maneira, independentemente das circunstâncias.}{}{}{}{ }
+{155}{Você é um covarde e uma desonra para o seu clã!}{}{5}{}{0}{fl 236 ,co}
+{162}{Seu pedido de desculpas é aceito. Meu treinamento é de tal forma que eu não deveria ter permitido que você me provocasse dessa maneira, independentemente das circunstâncias.}{Seu pedido de desculpas é aceito. Meu treinamento é de tal forma que eu não deveria ter permitido que você me provocasse dessa maneira, independentemente das circunstâncias.}{}{}{}{ }
 {163}{Seu treinamento? Você é um mago? Como isso aconteceu?}{}{11}{lf3 0, lf16 0}{42}{lf3 1 }
 {164}{O que você quer dizer com seu treinamento? O que um anão está fazendo aqui?}{}{5}{ra-2, lf16 0}{122}{ }
 {165}{Como um anão se tornou mago em Qintarra, de todos os lugares?}{}{5}{lf2 1, ra -2, lf16 0}{42}{ }
@@ -131,7 +131,7 @@
 {275}{Simplesmente não acho que você mataria alguém a sangue frio.}{}{-13}{}{343}{ }
 {283}{Hmmm. Só existe um boticário, Sharpe, em Qintarra. Se o veneno foi comprado aqui, ele teria sido quem o vendeu. Preciso falar com ele de alguma forma. Como estou confinado à minha casa, preciso de alguém para ajudar a limpar meu nome. Está interessado em me ajudar?}{Hmmm. Só existe um boticário, Sharpe, em Qintarra. Se o veneno foi comprado aqui, ele teria sido quem o vendeu. Preciso falar com ele de alguma forma. Como estou confinado à minha casa, preciso de alguém para ajudar a limpar meu nome. Está interessado em me ajudar?}{}{}{}{qu1081 1, ru2133, gf2165 1 }
 {284}{Claro, vou tentar.}{}{5}{}{293}{al+10 }
-{285}{Ficaria feliz em ajudá-lo, por uma taxa, é claro.}{}{5}{}{293}{ }
+{285}{Ficaria feliz em ajudá-lo, é claro, por uma taxa.}{}{5}{}{293}{ }
 {286}{Prefiro ajudar um elfo, traidor. [Cuspir no rosto dele.]}{}{5}{ra2}{423}{lf6 1 }
 {287}{Prefiro não me envolver nesse assunto.}{}{5}{ra-2}{293}{ }
 {293}{Darei a você meu cajado precioso, o Cajado de Xoranth, pelo seu auxílio, bom senhor.}{Darei a você meu cajado precioso, o Cajado de Xoranth, pelo seu auxílio, minha senhora.}{}{}{}{lf10 1 }
@@ -141,7 +141,7 @@
 {303}{Eu teria servido meus anos restantes em silêncio a levantar minha mão contra meu mentor, independentemente da minha antipatia por sua pessoa.}{Eu teria servido meus anos restantes em silêncio a levantar minha mão contra meu mentor, independentemente da minha antipatia por sua pessoa.}{}{}{}{ }
 {304}{Se não foi você quem o matou, então quem foi?}{}{5}{}{313}{ }
 {313}{Não tenho ideias sobre o assunto. Como ele foi morto?}{Não tenho ideias sobre o assunto. Como ele foi morto?}{}{}{}{ }
-{314}{Os guardas dizem que ele não foi morto com uma arma ou com Magick.}{}{-13}{gf2148 1, gf2149 1}{353}{ }
+{314}{Os guardas dizem que ele não foi morto com uma arma ou com Magicka.}{}{-13}{gf2148 1, gf2149 1}{353}{ }
 {315}{Eu não sei.}{}{-13}{gf2148 0, gf2149 0}{323}{ }
 {316}{Não foi com uma arma ou Magick. Isso deixa o veneno.}{}{14}{gf2148 1, gf2149 1}{283}{ }
 {323}{Talvez você possa conseguir mais informações com o capitão da guarda lá fora.}{Talvez você possa conseguir mais informações com o capitão da guarda lá fora.}{}{}{}{ }
@@ -155,7 +155,7 @@
 {346}{N:}{}{-13}{gf2148 0, gf2149 0}{323}{ }
 {353}{Existe alguma evidência que você conheça?}{Existe alguma evidência que você conheça?}{}{}{}{ }
 {354}{Havia uma taça de vinho vazia com um odor forte.}{}{5}{gf2151 1, ni5639}{363}{ }
-{355}{Apenas esta taça. Ela tem um cheiro estranho. [Mostre-lhe a taça.]}{}{5}{in5639}{413}{ }
+{355}{Só este copo. Tem um cheiro estranho. [Mostre-lhe o copo.]}{}{5}{in5639}{413}{ }
 {356}{Eu não revistei a casa dele.}{}{5}{gf2151 0}{403}{ }
 {363}{Com o que cheirava?}{Com o que cheirava?}{}{}{}{ }
 {364}{Se eu tivesse que adivinhar, diria que era veneno.}{}{12}{}{283}{ }
@@ -173,8 +173,8 @@
 {405}{Boa sorte.}{}{5}{}{0}{ }
 {413}{[Ele segura o copo perto do rosto e o cheira.] Isto é veneno. Hmmm. Só há um boticário, Sharpe, em Qintarra. Se o veneno foi comprado aqui, ele teria sido quem o vendeu. Preciso falar com ele, de alguma forma. Como estou confinado à minha casa, preciso de alguém para me ajudar a limpar meu nome. Você está interessado em me ajudar?}{[Ele segura o copo perto do rosto e o cheira.] Isto é veneno. Hmmm. Só há um boticário, Sharpe, em Qintarra. Se o veneno foi comprado aqui, ele teria sido quem o vendeu. Preciso falar com ele, de alguma forma. Como estou confinado à minha casa, preciso de alguém para me ajudar a limpar meu nome. Você está interessado em me ajudar?}{}{}{}{qu1081 1, ru2133, gf2165 1 }
 {414}{Claro, vou tentar.}{}{5}{}{293}{al+10 }
-{415}{Ficaria feliz em te ajudar, por uma taxa, é claro.}{}{5}{}{293}{ }
-{416}{Prefiro ajudar um elfo, traidor. [Cospe na cara dele.]}{}{5}{ra2}{423}{lf6 1 }
+{415}{Ficaria feliz em ajudá-lo, é claro, por uma taxa.}{}{5}{}{293}{ }
+{416}{Prefiro ajudar um elfo, traidor. [Cuspir no rosto dele.]}{}{5}{ra2}{423}{lf6 1 }
 {417}{Prefiro não me envolver nesse assunto.}{}{5}{ra-2}{293}{ }
 {423}{Se eu não estivesse preso por assassinato, mataria você onde está. Agora saia da minha casa.}{Se eu não estivesse preso por assassinato, mataria você onde está. Agora saia da minha casa.}{}{}{}{ }
 {424}{Adeus, porco traidor.}{}{5}{}{0}{ }
@@ -195,7 +195,7 @@
 {477}{De nada.}{}{5}{re41, lf10 0, lf5 1, lf11 0}{523}{ }
 {478}{Será que eu poderia convencê-lo a aventurar-se comigo, talvez?}{}{5}{lf11 1}{513}{jo 0 503}
 {483}{Aqui está o cajado que prometi a você. Você é sempre bem-vindo em minha casa.}{Aqui está o cajado que prometi a você. Você é sempre bem-vindo em minha casa.}{}{}{}{in -2015 }
-{484}{Você não vai embora, agora que Wrath está morto?}{}{5}{gf2152 0}{493}{ }
+{484}{Você não vai embora, agora que Wrath está morto?}{}{5}{}{493}{ }
 {492}{Obrigado. Eu já vou indo, então.}{}{5}{}{0}{lf11 1, gf2153 1 }
 {493}{Tenho certeza de que deixarei este lugar em breve. Primeiro, preciso decidir para onde irei, hein?}{Tenho certeza de que deixarei este lugar em breve. Primeiro, preciso decidir para onde irei, hein?}{}{}{}{ }
 {494}{Por que você não se aventura comigo?}{}{5}{}{513}{jo 0 503}
@@ -222,8 +222,8 @@
 {565}{Saia da frente.}{}{1}{}{554}{so }
 {566}{Chegue mais perto.}{}{1}{}{554}{sc }
 {567}{Espere aqui.}{}{1}{wa 0}{0}{wa, fl 574}
-{568}{Reagrupe-se.}{}{1}{wa 1}{0}{uw1 554}
-{569}{Dispensar.}{}{1}{}{0}{lf2 1,lv, fl 573}
+{568}{Reagrupe-se.}{}{1}{wa 1}{0}{uw 0 554}
+{569}{Dispensar.}{}{1}{}{0}{lf11 1,lv, fl 573}
 {570}{[Voltar]}{}{1}{}{554}{ }
 {573}{Foi bom aventurar-me com você. Talvez nossos caminhos se cruzem novamente, algum dia.}{Foi bom aventurar-me com você. Talvez nossos caminhos se cruzem novamente, algum dia.}{}{}{}{ }
 {574}{Eu estarei aqui.}{Eu estarei aqui.}{}{}{}{ }

@@ -1,5 +1,5 @@
 {1}{}{}{}{}{}{}
-{300}{Sim. O que foi?}{Sim. O que foi?}{}{1}{}{}
+{300}{Sim. O que é?}{Sim. O que é?}{}{1}{}{}
 {301}{B:}{}{1}{wa 0}{}{}
 {302}{H:}{}{1}{wa 0}{300}{}
 {303}{K:}{}{1}{wa 0}{310}{}
@@ -86,7 +86,7 @@
 {449}{E:}{}{1}{}{0}{}
 {450}{Hmmm. Tudo bem, vou viajar com você de novo. Não é como se eu tivesse algo melhor para fazer.}{Hmmm. Tudo bem, vou viajar com você de novo. Não é como se eu tivesse algo melhor para fazer.}{}{10}{}{lf31 0}
 {451}{E:}{}{1}{}{0}{}
-{453}{Bem, já estava na hora de você voltar para me buscar. Eu estava prestes a ir embora. Tenho coisas melhores para fazer do que ficar esperando por você aqui.}{Bom, já estava na hora de você voltar para me buscar. Eu estava prestes a ir embora. Tenho coisas melhores para fazer do que ficar esperando por você aqui.}{}{11}{}{}
+{453}{Bom, já estava na hora de você voltar para me buscar. Eu estava prestes a ir embora. Tenho coisas melhores para fazer do que ficar esperando por você aqui.}{Bom, já estava na hora de você voltar para me buscar. Eu estava prestes a ir embora. Tenho coisas melhores para fazer do que ficar esperando por você aqui.}{}{11}{}{}
 {454}{Vamos, Virgil.}{}{5}{}{447}{jo 1 458}
 {455}{Vamos agora, Virgool!}{}{-4}{}{447}{jo 1 458}
 {456}{E:}{}{1}{}{0}{}
@@ -129,7 +129,7 @@
 {495}{Caladon. Eu, hã, morei aqui uma vez. [Ele olha ao redor, nervoso.] Odeio este lugar.}{Caladon. Eu, hã, morei aqui uma vez. [Ele olha ao redor, nervoso.] Odeio este lugar.}{}{24}{}{}
 {496}{K:}{}{1}{}{300}{}
 {497}{E:}{}{1}{}{0}{}
-{498}{Este é o Círculo de Brodgar. Os Panarii costumavam ter alguns negócios com ele. Acho que era importante para eles, por algum motivo.}{Este é o Anel de Brodgar. Os Panarii costumavam ter algum tipo de relação com ele. Acho que era importante para eles, por algum motivo.}{}{25}{}{}
+{498}{Este é o Anel de Brodgar. Os Panarii costumavam ter algum tipo de relação com ele. Acho que era importante para eles, por algum motivo.}{Este é o Anel de Brodgar. Os Panarii costumavam ter algum tipo de relação com ele. Acho que era importante para eles, por algum motivo.}{}{25}{}{}
 {499}{K:}{}{1}{}{300}{}
 {500}{E:}{}{1}{}{0}{}
 {501}{Tarant? Eu não, hã, sei muito sobre o lugar. [Virgil parece desconfortável.] Não gosto muito de cidades... sempre me sinto tão apertado, cercado. Prefiro não falar mais sobre isso...}{Tarant? Eu não, hã, sei muito sobre o lugar. [Virgil parece desconfortável.] Não gosto muito de cidades... sempre me sinto tão apertado, cercado. Prefiro não falar mais sobre isso...}{}{26}{}{}
@@ -150,13 +150,13 @@
 {516}{Este lugar? Sabe... foi aqui que todo esse circo sangrento começou. O Vivo retornando em asas de fogo e tudo mais. As coisas eram bem diferentes naquela época, não?}{Este lugar? Sabe... foi aqui que todo esse circo sangrento começou. O Vivo retornando em asas de fogo e tudo mais. As coisas eram bem diferentes naquela época, não?}{}{31}{}{}
 {517}{K:}{}{1}{}{300}{}
 {518}{E:}{}{1}{}{0}{}
-{519}{Algum problema? De jeito nenhum. Se é que posso dizer, estou mais eu mesmo do que estive em muito tempo. Você me mostrou que não preciso viver seguindo algum código moral ridiculamente rígido. Posso ser quem eu quiser e quando quiser. Então não há nada de errado comigo. Na verdade, eu deveria te agradecer. Então, obrigado...}{Algum problema? De jeito nenhum. Se é que posso dizer, estou mais eu mesmo do que estive em muito tempo. Você me mostrou que não preciso viver seguindo algum código moral ridiculamente rígido. Posso ser quem eu quiser e quando quiser. Então não há nada de errado comigo. Na verdade, eu deveria te agradecer. Então, obrigado...}{}{32}{}{}
+{519}{Algo errado? De jeito nenhum. Se é que há algo, estou mais eu mesmo do que estive em muito tempo. Você me mostrou que não preciso viver seguindo um código moral ridiculamente rígido. Posso ser quem eu quiser e quando eu quiser. Então não há nada de errado comigo. Na verdade, eu deveria te agradecer. Então, obrigado...}{Algo errado? De jeito nenhum. Se é que há algo, estou mais eu mesmo do que estive em muito tempo. Você me mostrou que não preciso viver seguindo um código moral ridiculamente rígido. Posso ser quem eu quiser e quando eu quiser. Então não há nada de errado comigo. Na verdade, eu deveria te agradecer. Então, obrigado...}{}{32}{}{}
 {520}{K:}{}{1}{}{300}{}
 {521}{E:}{}{1}{}{0}{}
 {530}{O que você pode fazer por mim? Hmmm... gostei do som disso. Acho que uma garrafa de um bom absinto velho cairia bem agora.}{O que você pode fazer por mim? Hmmm... gostei do som disso. Acho que uma garrafa de um bom absinto velho cairia bem agora.}{}{34}{}{}
 {531}{Certamente, isso não é necessário?}{}{5}{ch17}{540}{re+20}
-{532}{Claro, tenho um pouco aqui mesmo.}{}{5}{in3617, ch-16}{-2}{re+20}
-{533}{Eu peguei isso! Eu dou para você!}{}{-4}{in3617, ch-16}{-2}{re+20}
+{532}{Claro, tenho um pouco aqui mesmo.}{}{5}{in3617, ch-16}{-4}{re+20}
+{533}{Eu peguei isso! Eu dou para você!}{}{-4}{in3617, ch-16}{-4}{re+20}
 {534}{Entendo. Talvez eu consiga um pouco para você, Virgil...}{}{5}{in-3617, ch-16}{0}{fl 560}
 {535}{Talvez eu consiga um pouco para você, Voibal.}{}{-4}{in-3617, ch-16}{0}{fl 560}
 {536}{Estou cansado dos seus choramingos. Não tenho tempo para essa bobagem.}{}{5}{}{0}{re-5, fl 570}
@@ -169,6 +169,6 @@
 {552}{Vamos agora.}{}{-4}{pa6409}{0}{}
 {553}{Você vai se juntar a mim novamente, Virgil?}{}{5}{pa-6409}{447}{jo 0 450}
 {554}{Junte-se a mim!}{}{-4}{pa-6409}{447}{jo 0 450}
-{560}{Veja se faz isso, ou não estarei por perto para salvá-lo por muito mais tempo.}{Veja bem, ou não estarei por perto para salvá-lo por muito mais tempo.}{}{37}{}{}
+{560}{Veja bem, ou não estarei por perto para salvá-lo por muito mais tempo.}{Veja bem, ou não estarei por perto para salvá-lo por muito mais tempo.}{}{37}{}{}
 {570}{Vou aguentar você só até certo ponto antes de ir embora... "amigo".}{Vou aguentar você só até certo ponto antes de ir embora... "amigo".}{}{38}{}{}
 

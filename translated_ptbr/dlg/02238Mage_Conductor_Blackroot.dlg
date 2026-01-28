@@ -37,7 +37,7 @@
 {37}{}{}{}{}{}{}
 {38}{Heh Heh... Você tem razão. Recebo todo tipo de gente estranha tentando pegar o trem. Cabe a mim decidir quais são seguros para embarcar. Meu reloginho aqui me diz quem é mágico e quem não é. O relógio enlouquece quando há influência mágica por perto.}{Heh Heh... Você tem razão. Recebo todo tipo de gente estranha tentando pegar o trem. Cabe a mim decidir quais são seguros para embarcar. Meu reloginho aqui me diz quem é mágico e quem não é. O relógio enlouquece quando há influência mágica por perto.}{}{}{}{lf2 1}
 {39}{Bem, espero que me deixe embarcar.}{}{5}{}{9}{}
-{40}{Hã... O que o seu relógio diz sobre mim?}{}{5}{ma 50}{-12}{}
+{40}{Hmm... O que o seu relógio diz sobre mim?}{}{5}{ma 50}{-12}{}
 {41}{Gostaria de embarcar no trem.}{}{5}{}{-12}{}
 {42}{E:}{}{1}{}{-1}{}
 {43}{}{}{}{}{}{}
@@ -55,13 +55,13 @@
 {55}{[Embarcar no trem]}{}{1}{}{-10}{gf2487 0, gv 1066 0}
 {56}{E:}{}{1}{}{-1}{}
 {57}{}{}{}{}{}{}
-{58}{Não, Senhor! Não vou arriscar vidas por suas preocupações mesquinhas. SAIA AGORA! Ou terei que chamar os guardas. Você pode obter um reembolso no escritório de reservas.}{Não, Senhora! Não vou arriscar vidas por suas preocupações mesquinhas. SAIA AGORA! Ou terei que chamar os guardas. Você pode obter um reembolso no escritório de reservas.}{}{}{}{}
+{58}{Não, senhor! Não colocarei vidas em risco por suas preocupações mesquinhas. SAIA AGORA! Ou terei que chamar os guardas. Você pode obter reembolso no escritório de reservas.}{Não, madame! Não colocarei vidas em risco por suas preocupações mesquinhas. SAIA AGORA! Ou terei que chamar os guardas. Você pode obter reembolso no escritório de reservas.}{}{}{}{}
 {59}{E:}{}{1}{}{-1}{}
 {60}{Obrigado por viajar a bordo do trem. Esperamos que aproveite sua estadia em Tarant.}{Obrigado por viajar a bordo do trem. Esperamos que aproveite sua estadia em Tarant.}{}{}{}{}
 {61}{Obrigado por viajar a bordo do trem. Esperamos que aproveite sua estadia em Ashbury.}{Obrigado por viajar a bordo do trem. Esperamos que aproveite sua estadia em Ashbury.}{}{}{}{}
 {62}{[olhando nervosamente para seu relógio de bolso] Senhor, a magia que estou detectando é tão forte que não posso permitir que embarque no trem! O risco é simplesmente grande demais! Sinto muito, mas precisará obter um reembolso e deixar a estação imediatamente!}{[estudando seu relógio de bolso] Senhora, a magia que estou detectando é tão forte que não posso permitir que embarque no trem! O risco é simplesmente grande demais! Sinto muito, mas precisará obter um reembolso e deixar a estação imediatamente!}{}{}{}{}
-{63}{Pode abrir uma exceção? Preciso muito chegar a Ashbury.}{}{5}{ps 18}{54}{}
-{64}{Pode abrir uma exceção? Preciso muito chegar a Ashbury.}{}{5}{ps -14}{58}{}
+{63}{Você pode abrir uma exceção? Eu realmente preciso chegar lá.}{}{5}{ps 18}{54}{}
+{64}{Você pode abrir uma exceção? Eu realmente preciso chegar lá.}{}{5}{ps -14}{58}{}
 {65}{Vou pedir um reembolso.}{}{5}{}{-1}{}
 {66}{eu ir agora.}{}{-4}{}{-1}{}
 {67}{}{}{}{}{}{}
@@ -84,21 +84,21 @@
 {84}{}{}{}{}{}{}
 {85}{}{}{}{}{}{}
 {86}{[estudando seu relógio de bolso] Estou sentindo uma presença mágica em seu grupo.}{[estudando seu relógio de bolso] Estou sentindo uma presença mágica em seu grupo.}{}{}{}{}
-{87}{Bem, estou no Vagão dos Magos. Posso embarcar no trem?}{}{5}{}{13}{}
+{87}{Bem, estou no Vagão de Guarda do Mago. Posso embarcar no trem?}{}{5}{}{13}{}
 {88}{mim lugar certo mim andar tchuc tchuc}{}{-4}{}{13}{}
 {89}{E:}{}{1}{}{-1}{}
 {90}{[estudando seu relógio de bolso] Estou sentindo uma presença mágica em seu grupo.}{[estudando seu relógio de bolso] Estou sentindo uma presença mágica em seu grupo.}{}{}{}{}
-{91}{Bem, estou no Vagão dos Magos. Posso embarcar no trem?}{}{5}{}{95}{}
+{91}{Bem, estou no Vagão de Guarda do Mago. Posso embarcar no trem?}{}{5}{}{95}{}
 {92}{mim lugar certo mim andar tchuc tchuc}{}{-4}{}{95}{}
 {93}{E:}{}{1}{}{-1}{}
 {94}{}{}{}{}{}{}
-{95}{Você está no lugar certo, sim. Pode embarcar no trem, mas permaneça no vagão. SOB NENHUMA CIRCUNSTÂNCIA AVANCE PELO TREM. Estamos prestes a partir. Embarquem todos!!}{Você está no lugar certo, sim. Pode embarcar no trem, mas permaneça no vagão. SOB NENHUMA CIRCUNSTÂNCIA AVANCE PELO TREM. Estamos prestes a partir. Embarquem todos!!}{}{}{}{}
+{95}{Você está no lugar certo, sim. Pode embarcar no trem, mas permaneça no vagão de guarda. SOB NENHUMA CIRCUNSTÂNCIA AVANCE NO TREM. Estamos prestes a partir. Todos a bordo!!}{Você está no lugar certo, sim. Pode embarcar no trem, mas permaneça no vagão de guarda. SOB NENHUMA CIRCUNSTÂNCIA AVANCE NO TREM. Estamos prestes a partir. Todos a bordo!!}{}{}{}{}
 {96}{[Embarcar no trem]}{}{1}{}{-10}{gf2487 0, gv 1066 0}
 {97}{E:}{}{1}{}{-1}{}
 {98}{}{}{}{}{}{}
 {99}{}{}{}{}{}{}
 {100}{[estudando seu relógio de bolso] Estou sentindo uma presença mágica em seu grupo.}{[estudando seu relógio de bolso] Estou sentindo uma presença mágica em seu grupo.}{}{}{}{}
-{101}{Bem, estou no Vagão dos Magos. Posso embarcar no trem?}{}{5}{}{62}{}
+{101}{Bem, estou no Vagão de Guarda do Mago. Posso embarcar no trem?}{}{5}{}{62}{}
 {102}{mim lugar certo mim andar tchuc tchuc}{}{-4}{}{62}{}
 {103}{E:}{}{1}{}{-1}{}
 {104}{}{}{}{}{}{}

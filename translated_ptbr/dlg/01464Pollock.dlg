@@ -60,15 +60,15 @@
 {75}{O Bentley está bem trancado, garoto. E tem um monte de lixo orque vigiando o tempo todo, por dentro e por fora. Você tem que ser esperto, não fazer muito barulho. Tem que entrar sorrateiramente, ser esperto, matá-lo. Entendeu? Tenho algumas coisas que podem te ajudar, garoto... podem te ajudar a não morrer. Você é um mago ou um tecno?}{O Bentley está bem trancado, garota. E tem um monte de lixo orque vigiando o tempo todo, por dentro e por fora. Você tem que ser esperta, não fazer muito barulho. Tem que entrar sorrateiramente, ser esperta, matá-lo. Entendeu? Tenho algumas coisas que podem te ajudar, garota... podem te ajudar a não morrer. Você é uma maga ou uma tecno?}{}{}{}{}
 {76}{Prefiro os caminhos da tecnologia...}{}{5}{}{-21}{}
 {77}{Eu diria que sou mais um mago...}{}{5}{}{-26}{}
-{78}{Hã... magia!}{}{-4}{}{-21}{}
-{79}{Tecnologia! Tecnologia!}{}{-4}{}{-26}{}
+{78}{Hã... magia!}{}{-4}{}{-26}{}
+{79}{Tecnologia! Tecnologia!}{}{-4}{}{-21}{}
 {81}{Um tecno, é? Tenho algo que pode ajudar um tecno como você. [Ele te entrega três objetos.] Use-os bem, garoto. Você só vai ter uma chance nisso. E não volte aqui a menos que Maug seja um orque morto... se eu te ver antes disso acontecer, eu mesmo te mato. Entendeu?}{Uma tecno, é? Tenho algo que pode ajudar uma tecno como você. [Ele te entrega três objetos.] Use-os bem, garota. Você só vai ter uma chance nisso. E não volte aqui a menos que Maug seja um orque morto... se eu te ver antes disso acontecer, eu mesmo te mato. Entendeu?}{}{}{}{}
 {82}{Sim. E o que eu ganho em troca?}{}{5}{}{89}{}
 {83}{Hã... tá bom! O que você me dá para matar o Mog?}{}{-4}{}{89}{}
 {85}{Um mago, é? Tenho algo que pode ajudar um mago como você. [Ele te entrega três objetos.] Use-os bem, garoto. Você só vai ter uma chance nisso. E não volte aqui a menos que Maug seja um orque morto... se eu te ver antes disso acontecer, eu mesmo te mato. Entendeu?}{Uma maga, é? Tenho algo que pode ajudar uma maga como você. [Ele te entrega três objetos.] Use-os bem, garota. Você só vai ter uma chance nisso. E não volte aqui a menos que Maug seja um orque morto... se eu te ver antes disso acontecer, eu mesmo te mato. Entendeu?}{}{}{}{}
 {86}{Sim. E o que eu ganho em troca?}{}{5}{}{89}{}
 {87}{Hã... tá bom! O que você me dá para matar o Mog?}{}{-4}{}{89}{}
-{89}{Você pode ficar com as coisas que eu te dei, e se voltar vivo, te dou 1500 moedas de ouro. É tudo que você vai conseguir de Pollock, entendeu?}{Você pode ficar com as coisas que eu te dei, e se voltar viva, te dou 1500 moedas de ouro. É tudo que você vai conseguir de Pollock, entendeu?}{}{}{}{qu1089 1}
+{89}{Você pode ficar com as coisas que eu te dei, e se voltar viva, te dou 1500 moedas de ouro. É tudo que você vai conseguir de Pollock, entendeu?}{Você pode ficar com as coisas que eu te dei, e se voltar viva, te dou 1500 moedas de ouro. É tudo que você vai conseguir de Pollock, entendeu?}{}{}{}{qu1089 1}
 {90}{Trato feito.}{}{5}{ha -9}{105}{lf1 1, qu 1089 2}
 {91}{1600 e fechamos o acordo.}{}{5}{ha 10, ha -13}{105}{lf2 1, qu 1089 2}
 {92}{1700, nem um tostão a menos.}{}{5}{ha 14, ha -14}{105}{lf3 1, qu 1089 2}

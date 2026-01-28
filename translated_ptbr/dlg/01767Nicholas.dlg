@@ -1,8 +1,8 @@
 {1}{G:}{}{}{}{}{re 50}
-{2}{Que tal uma bebida, meu bom companheiro?}{}{5}{me 0, re 41, gf2338 0, lc 0 0}{-14}{lc 0 1}
-{3}{Me dá uma bebida, vira-lata...}{}{5}{gf2338 0, lc 0 0}{-14}{lc 0 1}
-{4}{Eu gostaria de uma bebida, Nicholas...}{}{5}{me 1, re 41, gf2338 0, lc 0 0}{-11}{lc 0 1}
-{5}{Bem falante, para um escravo... Me dê uma bebida, vira-lata!}{}{5}{me 0, re -40, gf2338 0, lc 0 0}{-11}{lc 0 1}
+{2}{Que tal uma bebida, meu bom companheiro?}{}{5}{me 0, re 41, lc 0 0}{-14}{lc 0 1}
+{3}{Me dá uma bebida, vira-lata...}{}{5}{lc 0 0}{-14}{lc 0 1}
+{4}{Eu gostaria de uma bebida, Nicholas...}{}{5}{me 1, re 41, lc 0 0}{-11}{lc 0 1}
+{5}{Bem falante, para um escravo... Me dê uma bebida, vira-lata!}{}{5}{me 0, re -40, lc 0 0}{-11}{lc 0 1}
 {6}{Me dá uma bebida, vira-lata...}{}{5}{gf2338 0, lc 0 1}{72}{}
 {7}{Eu gostaria de uma bebida, Nicholas...}{}{5}{re 41, gf2338 0, lc 0 1}{72}{}
 {8}{Me dá uma bebida, vira-lata...}{}{5}{gf2338 1, lc 0 1}{-17}{lc 0 2}
@@ -16,16 +16,16 @@
 {16}{Ei! Você! Me dá outra bebida...}{}{5}{gf2338 1, lc 0 5}{-29}{ lc 0 6}
 {17}{Vamos, Nicholas... Só quero mais uma bebida...}{}{5}{gf2338 1, lc 0 5}{-29}{ lc 0 6}
 {18}{[hic] Essas garotas me querem agora... Eu sei. [arrotar]}{}{5}{gf2338 1, lc 0 5}{-29}{ lc 0 6}
-{19}{Mim quer bebida, xixi?}{}{-4}{me 0, re 41, gf2338 0, lc 0 0}{-14}{lc 0 1}
-{20}{Me dá bebida.}{}{-4}{gf2338 0, lc 0 0}{-14}{lc 0 1}
-{21}{Mim quer bebida, Nikoless?}{}{-4}{me 1, re 41, gf2338 0, lc 0 0}{-11}{lc 0 1}
-{22}{Me dá bebida, feio.}{}{-4}{me 0, re -40, gf2338 0, lc 0 0}{-11}{lc 0 1}
+{19}{Mim quer bebida, xixi?}{}{-4}{me 0, re 41, lc 0 0}{-14}{lc 0 1}
+{20}{Me dá bebida.}{}{-4}{lc 0 0}{-14}{lc 0 1}
+{21}{Mim quer bebida, Nikoless?}{}{-4}{me 1, re 41, lc 0 0}{-11}{lc 0 1}
+{22}{Me dá bebida, feio.}{}{-4}{me 0, re -40, lc 0 0}{-11}{lc 0 1}
 {23}{Me dá bebida, feio.}{}{-4}{gf2338 0, lc 0 1}{72}{}
 {24}{Mim quer bebida, Nikoless?}{}{-4}{re 41, gf2338 0, lc 0 1}{72}{}
 {25}{Me dá bebida, feio.}{}{-4}{gf2338 1, lc 0 1}{-17}{lc 0 2}
 {26}{Mim quer bebida, Nikoless?}{}{-4}{gf2338 1, lc 0 1}{-17}{lc 0 2}
 {27}{Quero mais bebida.}{}{-4}{gf2338 1, lc 0 2}{-20}{lc 0 3}
-{28}{Me traz mais bebida, Nikoless?}{}{-4}{gf2338 1, lc 0 2}{-20}{lc 0 3}
+{28}{Me arranja mais bebida, Nikoless?}{}{-4}{gf2338 1, lc 0 2}{-20}{lc 0 3}
 {29}{Quero mais! ...essa bebida boa!}{}{-4}{gf2338 1, lc 0 3}{-23}{lc 0 4}
 {30}{Mais uma [hic] bebida...}{}{-4}{gf2338 1, lc 0 3}{-23}{lc 0 4}
 {31}{mais uma daquelas xixi...}{}{-4}{gf2338 1, lc 0 4}{-26}{lc 0 5}
@@ -37,26 +37,26 @@
 {47}{Não tem ruim aqui! Some daqui!}{Não tem ruim aqui! Some daqui!}{}{}{}{}
 {48}{Eu sou Nikoless. Vou te dar uma bebida agora. Aqui.}{Eu sou Nikoless. Vou te dar uma bebida agora. Aqui.}{}{}{}{}
 {49}{Ahh... Isso caiu bem. Valeu, velho.}{}{5}{}{-2}{}
-{50}{Eu queria outra, Nicholas.}{}{5}{gf2338 0}{72}{}
+{50}{Eu gostaria de mais uma, Nicholas.}{}{5}{gf2338 0}{72}{}
 {51}{Me dá outra bebida.}{}{5}{gf2338 0}{72}{}
-{52}{Eu queria outra, Nicholas.}{}{5}{gf2338 1}{-17}{}
+{52}{Eu gostaria de mais uma, Nicholas.}{}{5}{gf2338 1}{-17}{}
 {53}{Me dá outra bebida.}{}{5}{gf2338 1}{-17}{}
 {54}{Isso é bom. Valeu.}{}{-4}{}{-2}{}
-{55}{Me traz mais bebida, Nikoless?}{}{-4}{gf2338 0}{72}{}
+{55}{Me arranja mais bebida, Nikoless?}{}{-4}{gf2338 0}{72}{}
 {56}{Quero mais bebida.}{}{-4}{gf2338 0}{72}{}
-{57}{Me traz mais bebida, Nikoless?}{}{-4}{gf2338 1}{-17}{}
+{57}{Me arranja mais bebida, Nikoless?}{}{-4}{gf2338 1}{-17}{}
 {58}{Quero mais bebida.}{}{-4}{gf2338 1}{-17}{}
 {59}{E:}{}{1}{}{0}{}
-{60}{Aqui, bebe. Aproveita.}{Eu sou Nikoless. Vou te dar uma bebida agora. Aqui.}{}{}{}{}
+{60}{Aqui, bebe. Aproveita.}{Aqui, bebe. Aproveita.}{}{}{}{}
 {61}{Ahh... Isso caiu bem. Valeu, velho.}{}{5}{}{0}{}
-{62}{Eu queria outra, Nicholas.}{}{5}{gf2338 0}{72}{}
+{62}{Eu gostaria de mais uma, Nicholas.}{}{5}{gf2338 0}{72}{}
 {63}{Me dá outra bebida.}{}{5}{gf2338 0}{72}{}
-{64}{Eu queria outra, Nicholas.}{}{5}{gf2338 1}{-17}{}
+{64}{Eu gostaria de mais uma, Nicholas.}{}{5}{gf2338 1}{-17}{}
 {65}{Me dá outra bebida.}{}{5}{gf2338 1}{-17}{}
 {66}{Isso é bom. Valeu.}{}{-4}{}{0}{}
-{67}{Me traz mais bebida, Nikoless?}{}{-4}{gf2338 0}{72}{}
+{67}{Me arranja mais bebida, Nikoless?}{}{-4}{gf2338 0}{72}{}
 {68}{Quero mais bebida.}{}{-4}{gf2338 0}{72}{}
-{69}{Me traz mais bebida, Nikoless?}{}{-4}{gf2338 1}{-17}{}
+{69}{Me arranja mais bebida, Nikoless?}{}{-4}{gf2338 1}{-17}{}
 {70}{Quero mais bebida.}{}{-4}{gf2338 1}{-17}{}
 {71}{E:}{}{1}{}{0}{}
 {72}{Chega. Você pega a garota primeiro. Depois bebe mais. Vá falar com Madum.}{Chega. Você, hã... pega hã... a garota primeiro. Depois bebe mais. Hã... vá falar com Madum.}{}{}{}{}
@@ -93,10 +93,10 @@
 {103}{Vamos... [tontura] Me dá outra! [ameaçador] É melhor você...}{}{5}{}{110}{}
 {104}{É... [soluço] você tá certo... Buh-bye.}{}{1}{}{0}{}
 {105}{Vamos, Nikoless... Você não quer [soluço] se machucar, né?}{}{-4}{}{110}{}
-{106}{Unnhhh... será que você vai pra cama comigo? Eu [hic] amo Nikkolasss...}{}{1}{ra-1, ra-3, ra-4, ra-7, ra-8}{}{fl 133}
-{107}{Unnhhh... será que você vai pra cama comigo? Eu [hic] amo Nikkolasss...}{}{1}{ra 1}{}{fl 133}
-{108}{Unnhhh... será que você vai pra cama comigo? Eu [hic] amo Nikkolasss...}{}{1}{ra-1, ra-2, ra-5, ra-6, ra-7, ra-8}{}{fl 133}
-{109}{Unnhhh... será que você vai pra cama comigo? Eu [hic] amo Nikkolasss...}{}{1}{ra-1, ra-2, ra-3, ra-4, ra-5, ra-6}{}{fl 133}
+{106}{Unnhhh... será que você vai pra cama comigo? Eu [hic] amo Nikkolasss...}{}{1}{ra-1, ra-3, ra-4, ra-7, ra-8}{-32}{}
+{107}{Unnhhh... será que você vai pra cama comigo? Eu [hic] amo Nikkolasss...}{}{1}{ra 1}{-35}{}
+{108}{Unnhhh... será que você vai pra cama comigo? Eu [hic] amo Nikkolasss...}{}{1}{ra-1, ra-2, ra-5, ra-6, ra-7, ra-8}{-38}{}
+{109}{Unnhhh... será que você vai pra cama comigo? Eu [hic] amo Nikkolasss...}{}{1}{ra-1, ra-2, ra-3, ra-4, ra-5, ra-6}{-41}{}
 {110}{Se lutar comigo... você nunca mais vai conseguir garotas. Só lembra disso.}{Se lutar comigo... você nunca mais vai conseguir, hã... garotas, hã... não. ...Só lembra disso.}{}{}{}{}
 {111}{Eu vou. Aposto que aquelas garotas me querem agora! [arroto]}{}{5}{}{0}{}
 {112}{Ei! Me dá outra! Ou [soluço] morre!}{}{5}{}{}{co, fl 47}
@@ -110,7 +110,7 @@
 {120}{Ah, é VOCÊ. Fala mais alto. Não consigo ouvir o @pcname@ pequenininho chiar. Talvez o resto de você também seja pequeno, hmm?}{Hmm... não tô vendo curvas. Tem certeza que você é mu-lher?}{}{}{}{}
 {121}{O quê, você quer tentar usar o seu... Você TEM um, @pcname@?}{Hmm... não tô vendo curvas. Tem certeza que você é mu-lher?}{}{}{}{}
 {122}{Você não aguenta... humano ruim sempre dorme antes de eu terminar.}{Você não aguenta... humano ruim sempre dorme antes de eu terminar.}{}{}{}{}
-{123}{Vocês humanos não têm re-sis-tên-cia. O que eu ganho vendo você dormir?}{Vocês hu-manos não têm resistência. O que eu ganho vendo você dormir?}{}{}{}{}
+{123}{Vocês hu-manos não têm resistência. O que eu ganho vendo você dormir?}{Vocês hu-manos não têm resistência. O que eu ganho vendo você dormir?}{}{}{}{}
 {124}{Só porque esse caldo não quer dizer que você pode conseguir algo, elfinho...}{Só porque esse caldo não quer dizer que você pode conseguir algo, elfinho...}{}{}{}{}
 {125}{Não quero elfo. Elfo não sabe se DIVERTIR.}{Não quero elfo. Elfo não sabe se DIVERTIR.}{}{}{}{}
 {126}{O que você sabe sobre isso, elfinho?}{O que você sabe sobre isso, elfinho?}{}{}{}{}

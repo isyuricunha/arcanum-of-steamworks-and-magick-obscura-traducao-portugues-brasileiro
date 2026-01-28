@@ -6,7 +6,7 @@
 {6}{Decidi ajudar você com seu "problema".}{}{5}{qu1152 1, gf2577 0}{60}{qu1152 2 }
 {7}{Eu "falei" com o fantasma da sua mãe.}{}{5}{gf2577 1, qa1152 1, qb1152 2, lf3 0}{80}{lf3 1 }
 {8}{Eu falei com sua irmã.}{}{5}{gf2584 1}{180}{re-5 }
-{9}{Recuperei sua mina para você. [Entregue a escritura para ele.]}{}{5}{in6698}{215}{in6698, gf2585 1, qu1152 4, rp1047, re+15 }
+{9}{Recuperei sua mina para o senhor. [Entregue-lhe a escritura.]}{}{5}{in6698}{215}{in6698, gf2585 1, qu1152 4, rp1047, re+15 }
 {10}{Decidi ajudar você com seu "problema".}{}{5}{lf3 1, qu1152 1}{60}{qu1152 2 }
 {11}{Por que sua irmã foi para Dernholm?}{}{5}{ru2210, lf6 0}{140}{ }
 {12}{Eu agradeceria se me tratasse com um pouco de respeito, senhor.}{}{5}{re-40, sk2 4, sk13 -3, ch-9}{260}{re45 }
@@ -25,14 +25,14 @@
 {40}{[Ele balança a cabeça, tristemente.] Minha pobre mãe... ela se matou, sabe. Quando a prata acabou, fomos forçados a vender a mina. Ela perdeu o juízo logo depois. Foi até a mina, ela foi, demitiu todos os trabalhadores e se matou.}{[Ele balança a cabeça, tristemente.] Minha pobre mãe... ela se matou, sabe. Quando a prata acabou, fomos forçados a vender a mina. Ela perdeu o juízo logo depois. Foi até a mina, ela foi, demitiu todos os trabalhadores e se matou.}{}{}{}{lf2 1 }
 {41}{Por que ficou tão nervoso quando perguntei quem você era?}{}{5}{qu1152 0}{50}{ }
 {42}{Talvez eu possa ajudar a libertar o fantasma da sua mãe.}{}{5}{qu1152 1}{60}{qu1152 2 }
-{43}{Eu "falei" com o fantasma da sua mãe.}{}{5}{gf2577 1}{80}{ }
+{43}{Eu "falei" com o fantasma da sua mãe.}{}{5}{gf2577 1, qa1152 1, qb1152 2, lf3 0}{80}{lf3 1 }
 {49}{Meus pêsames. Tenha um bom dia.}{}{5}{qu1152 1}{0}{ }
 {50}{O quê? Hã... hã, eu... [ele murcha visivelmente]. Pensei que você estivesse aqui para me matar. O... "homem de negócios" para quem fui forçado a vender a mina não é nada escrupuloso. Ele está muito irritado porque o minério da mina ficou "azedo". [Ele torce as mãos em desespero.] Preciso encontrar uma maneira de libertar minha mãe, é o fantasma dela que está estragando o minério, de alguma forma. [Ele olha para você com um olhar suplicante.]}{O quê? Hã... hã, eu... [ele murcha visivelmente]. Pensei que você estivesse aqui para me matar. O... "homem de negócios" para quem fui forçado a vender a mina não é nada escrupuloso. Ele está muito irritado porque o minério da mina ficou "azedo". [Ele torce as mãos em desespero.] Preciso encontrar uma maneira de libertar minha mãe, é o fantasma dela que está estragando o minério, de alguma forma. [Ele olha para você com um olhar suplicante.]}{}{}{}{qu1152 1 }
 {51}{Talvez eu possa ajudar.}{}{5}{}{60}{qu1152 2 }
 {52}{Matar você? Gnomos não são conhecidos por serem assassinos temidos, geralmente.}{}{5}{ra5}{70}{ }
 {53}{Matar você? Halflings não são conhecidos por serem assassinos temidos, geralmente.}{}{5}{ra6}{70}{ }
 {54}{O fantasma da sua mãe?}{}{5}{lf2 0}{40}{ }
-{55}{Eu "falei" com o espírito da sua mãe.}{}{5}{gf2577 1}{80}{ }
+{55}{Eu "falei" com o fantasma da sua mãe.}{}{5}{gf2577 1, qa1152 1, qb1152 2, lf3 0}{80}{lf3 1 }
 {59}{Meus pêsames. Tenha um bom dia.}{}{5}{}{0}{ }
 {60}{Oh... isso seria maravilhoso! [Ele bate palmas.] Se você pudesse fazer isso, eu ficaria muito grato. Isso significaria uma recompensa monetária de 500 moedas também.}{Oh... isso seria maravilhoso! [Ele bate palmas.] Se você pudesse fazer isso, eu ficaria muito grato. Isso significaria uma recompensa monetária de 500 moedas também.}{}{}{}{ }
 {61}{Voltarei quando tiver investigado esse assunto.}{}{5}{}{0}{ }
@@ -52,7 +52,7 @@
 {109}{Como desejar. Estarei de saída, então.}{}{5}{}{0}{ }
 {110}{NÃO! Quer dizer, eu não sei exatamente como chegar lá... suponho que você terá que encontrar respostas em outro lugar...}{NÃO! Quer dizer, eu não sei exatamente como chegar lá... suponho que você terá que encontrar respostas em outro lugar...}{}{}{}{ }
 {111}{Talvez eu deva falar com o sujeito que é dono da mina agora?}{}{5}{}{160}{ }
-{119}{Sinto muito por ter mencionado isso. Já vou indo.}{}{5}{}{0}{ }
+{119}{Sinto muito por ter mencionado isso. Vou indo agora.}{}{5}{}{0}{ }
 {120}{Por quê? Por que você quer fazer isso? Ela não pode ajudar em nada, disso tenho certeza. Seria insensato... quero dizer, não há nada que ela possa lhe dizer que ajude.}{Por quê? Por que você quer fazer isso? Ela não pode ajudar em nada, disso tenho certeza. Seria insensato... quero dizer, não há nada que ela possa lhe dizer que ajude.}{}{}{}{ }
 {121}{Mas não custa tentar, e eu realmente preciso de algo para seguir em frente...}{}{5}{}{130}{ }
 {130}{Não! Eu, hã, quer dizer, não sei direito se ela ainda está, hã, morando em Dernholm. Na verdade, agora que pensei melhor, acho que ela não mora mais lá... Suponho que você terá que encontrar respostas em outro lugar...}{Não! Eu, hã, quer dizer, não sei direito se ela ainda está, hã, morando em Dernholm. Na verdade, agora que pensei melhor, acho que ela não mora mais lá... Suponho que você terá que encontrar respostas em outro lugar...}{}{}{}{lf10 1 }
@@ -90,16 +90,16 @@
 {250}{Isso é maravilhoso! Minha mãe e minha irmã se foram, posso vender a mina por um belo lucro... ahhh! Que dia glorioso!}{Isso é maravilhoso! Minha mãe e minha irmã se foram, posso vender a mina por um belo lucro... ahhh! Que dia glorioso!}{}{}{}{ }
 {260}{[Ele se encolhe.] Oh, por favor, me desculpe, senhor, não tive intenção de ofender. O que... o que posso fazer pelo senhor?}{[Ele se encolhe.] Oh, por favor, me desculpe, senhora, não tive intenção de ofender. O que... o que posso fazer pela senhora?}{}{}{}{ }
 {261}{W:}{}{5}{lf1 0, re41}{20}{lf1 1 }
-{262}{Decidi ajudar com o seu "problema".}{}{5}{qu1152 1, gf2577 0}{60}{qu1152 2 }
+{262}{Decidi ajudar você com seu "problema".}{}{5}{qu1152 1, gf2577 0}{60}{qu1152 2 }
 {263}{Eu "falei" com o fantasma da sua mãe.}{}{5}{gf2577 1, qa1152 1, qb1152 2, lf3 0}{80}{lf3 1 }
 {264}{Eu falei com sua irmã.}{}{5}{gf2584 1}{180}{re-5 }
 {265}{Recuperei sua mina para o senhor. [Entregue-lhe a escritura.]}{}{5}{in6698}{215}{in6698, gf2585 1, qu1152 4, rp1047, re+15 }
-{266}{Decidi ajudar com o seu "problema".}{}{5}{lf3 1, qu1152 1}{60}{ }
+{266}{Decidi ajudar você com seu "problema".}{}{5}{lf3 1, qu1152 1}{60}{ }
 {267}{Por que sua irmã foi para Dernholm?}{}{5}{ru2210, lf6 0}{140}{ }
 {269}{E:}{}{1}{}{0}{ }
-{270}{[Ele olha para você com desconfiança.] N-não é incômodo... eu, hã, não quis dizer... hã, o que posso fazer pelo senhor?}{[Ele olha para você com desconfiança.] N-não é incômodo... eu, hã, não quis dizer... hã, o que posso fazer pela senhora?}{}{}{}{ }
+{270}{[Ele olha para você com desconfiança.] N-não é incômodo... eu, hã, não quis dizer... hã, o que posso fazer pela senhora?}{[Ele olha para você com desconfiança.] N-não é incômodo... eu, hã, não quis dizer... hã, o que posso fazer pela senhora?}{}{}{}{ }
 {271}{W:}{}{5}{lf1 0, re41}{20}{lf1 1 }
-{272}{Decidi ajudar com o seu "problema".}{}{5}{qu1152 1, gf2577 0}{60}{qu1152 2 }
+{272}{Decidi ajudar você com seu "problema".}{}{5}{qu1152 1, gf2577 0}{60}{qu1152 2 }
 {273}{Eu "falei" com o fantasma da sua mãe.}{}{5}{gf2577 1, qa1152 1, qb1152 2, lf3 0}{80}{lf3 1 }
 {274}{Eu falei com sua irmã.}{}{5}{gf2584 1}{180}{re-5 }
 {275}{Recuperei sua mina para o senhor. [Entregue-lhe a escritura.]}{}{5}{in6698}{215}{in6698, gf2585 1, qu1152 4, rp1047, re+15 }

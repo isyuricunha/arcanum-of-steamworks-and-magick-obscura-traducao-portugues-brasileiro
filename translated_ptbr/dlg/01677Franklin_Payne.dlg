@@ -25,7 +25,7 @@
 {31}{Claro que não, senhor. Posso perguntar quem é você?}{}{5}{lf1 0}{35}{}
 {32}{Não, Franklin, de forma alguma. Posso lhe fazer algumas perguntas?}{}{5}{lf1 1}{40}{}
 {33}{E:}{}{5}{lf1 1}{0}{}
-{35}{Eu? [O homem diante de você é alto e largo, sua pele de um bronze profundo com uma barba de um dia emoldurando um sorriso expansivo de dentes brancos e perfeitos.] O nome é Payne. Franklin Payne! Aventureiro, explorador, cientista e doutor honorário em... ah, que se dane tudo isso! Apenas me chame de Franklin e pronto! Prazer em conhecê-lo!}{Eu? [O homem diante de você é alto e largo, sua pele de um bronze profundo com uma barba de um dia emoldurando um sorriso expansivo de dentes brancos e perfeitos.] O nome é Payne. Franklin Payne! Aventureiro, explorador, cientista e doutor honorário em... ah, que se dane tudo isso! Apenas me chame de Franklin e pronto! Prazer em conhecê-la!}{}{7}{}{lf1 1}
+{35}{Eu? [O homem diante de você é alto e largo, sua pele de um bronze profundo com uma barba de um dia emoldurando um sorriso expansivo de dentes brancos e perfeitos.] O nome é Payne. Franklin Payne! Aventureiro, explorador, cientista e doutor honorário em... ah, que se dane tudo isso! Apenas me chame de Franklin e pronto! Prazer em conhecê-la!}{Eu? [O homem diante de você é alto e largo, sua pele de um bronze profundo com uma barba de um dia emoldurando um sorriso expansivo de dentes brancos e perfeitos.] O nome é Payne. Franklin Payne! Aventureiro, explorador, cientista e doutor honorário em... ah, que se dane tudo isso! Apenas me chame de Franklin e pronto! Prazer em conhecê-la!}{}{7}{}{lf1 1}
 {36}{Bem-vindo, Franklin. Tem alguns momentos?}{}{5}{}{40}{}
 {37}{Oi, Frankie! Posso lhe fazer algumas perguntas...?}{}{-4}{}{40}{}
 {38}{E:}{}{1}{}{0}{}
@@ -92,8 +92,8 @@
 {111}{O quê? Você conhece Edward Teach? Ora, mas isso é o que faltava! O Capitão Teach é um dos maiores marinheiros de todo o Arcanum! E aquele barco dele! O Gypsy Shadow! Não há embarcação mais sólida entre aqui e as Montanhas Serpentespinha! Imagine só! Ha! Muito bom! Então o capitão já te contou a história?}{O quê? Você conhece Edward Teach? Ora, mas isso é o que faltava! O Capitão Teach é um dos maiores marinheiros de todo o Arcanum! E aquele barco dele! O Gypsy Shadow! Não há embarcação mais sólida entre aqui e as Montanhas Serpentespinha! Imagine só! Ha! Muito bom! Então o capitão já te contou a história?}{}{18}{}{}
 {112}{Sim... mas por que você não me conta a SUA versão, Franklin...}{}{5}{}{117}{}
 {113}{Sim... mas adoraria ouvir mais sobre suas aventuras...}{}{5}{}{99}{}
-{114}{K:}{}{5}{}{40}{}
-{115}{E:}{}{5}{}{0}{}
+{114}{K:}{}{1}{}{40}{}
+{115}{E:}{}{1}{}{0}{}
 {117}{Certo! Então lá estávamos nós, o Capitão Teach e eu... a centenas de quilômetros do continente, as malditas montanhas vulcânicas Serpentespinha expelindo lava acima de nós, e os temíveis Tubarões-Sombra abaixo, grandes como o próprio Gypsy Shadow. Metade da tripulação estava de joelhos no convés, rezando por uma morte rápida e indolor!}{Certo! Então lá estávamos nós, o Capitão Teach e eu... a centenas de quilômetros do continente, as malditas montanhas vulcânicas Serpentespinha expelindo lava acima de nós, e os temíveis Tubarões-Sombra abaixo, grandes como o próprio Gypsy Shadow. Metade da tripulação estava de joelhos no convés, rezando por uma morte rápida e indolor!}{}{19}{}{}
 {118}{E então? O que aconteceu?}{}{5}{}{121}{}
 {119}{Hã... o que vocês fizeram?}{}{-4}{}{121}{}
@@ -118,7 +118,7 @@
 {143}{Que tipo de trabalho você já fez para a igreja...?}{}{5}{}{147}{}
 {144}{K:}{}{5}{}{40}{}
 {145}{E:}{}{5}{}{0}{}
-{147}{A lenda dizia que uma das tribos bárbaras do sul adorava uma pedra preta e lisa, e a igreja ficou com um incômodo na cabeça por causa disso... eles estavam convencidos de que era o Olho de Kraka-tur! E não é só o nome... dizem que é realmente o olho daquele maldito demônio! Contam que o velho Nasrudin o arrancou quando baniu o desgraçado para o Vazio! Imagine só!}{A lenda dizia que uma das tribos bárbaras do sul adorava uma pedra preta e lisa, e a igreja ficou com um incômodo na cabeça por causa disso... eles estavam convencidos de que era o Olho de Kraka-tur! E não é só o nome... dizem que é realmente o olho daquele maldito demônio! Contam que o velho Nasrudin o arrancou quando baniu o desgraçado para o Vazio! Imagine só!}{}{25}{}{}
+{147}{Conta a lenda que uma das tribos bárbaras do sul venerava uma pedra lisa e negra, e a igreja ficou toda agitada com isso... eles tinham certeza de que era o Olho de Kraka-tur! E não é só o nome... dizem que é mesmo o olho do maldito demônio! Dizem que o velho Nasrudin o arrancou quando baniu o desgraçado para o Vazio! Dá pra acreditar?}{Conta a lenda que uma das tribos bárbaras do sul venerava uma pedra lisa e negra, e a igreja ficou toda agitada com isso... eles tinham certeza de que era o Olho de Kraka-tur! E não é só o nome... dizem que é mesmo o olho do maldito demônio! Dizem que o velho Nasrudin o arrancou quando baniu o desgraçado para o Vazio! Dá pra acreditar?}{}{25}{}{}
 {148}{Então... o que você fez?}{}{5}{}{151}{}
 {149}{Hã... você pegou?}{}{-4}{}{151}{}
 {151}{Bom, você sabe como são os bárbaros... um bando supersticioso... não conseguiam nem ir ao banheiro de manhã sem beijar aquela maldita coisa! Então, como você pode imaginar, eles não ficaram nada felizes quando apareci vestido como um de seus feiticeiros de nariz de osso e a roubei bem debaixo do nariz deles! A horda maldita inteira veio atrás de mim!}{Bom, você sabe como são os bárbaros... um bando supersticioso... não conseguiam nem ir ao banheiro de manhã sem beijar aquela maldita coisa! Então, como você pode imaginar, eles não ficaram nada felizes quando apareci vestido como um de seus feiticeiros de nariz de osso e a roubei bem debaixo do nariz deles! A horda maldita inteira veio atrás de mim!}{}{26}{}{}
@@ -152,13 +152,13 @@
 {181}{De alguma forma, consegui levar a melhor! E justo quando estava prestes a acabar com o bicho de uma vez por todas, o desgraçado se transformou de volta num coelho ensanguentado e pulou fora! Droga! Que azar dos diabos! Ha!}{De alguma forma, consegui levar a melhor! E justo quando estava prestes a acabar com o bicho de uma vez por todas, o desgraçado se transformou de volta num coelho ensanguentado e pulou fora! Droga! Que azar dos diabos! Ha!}{}{33}{}{}
 {182}{Franklin, você não espera que eu acredite nessa história, não é?}{}{5}{gf2295 0, lf6 0}{194}{re -5}
 {183}{Interessante. Na verdade, eu matei o Gigante de Stillwater... [Conte a ele.]}{}{5}{gf2295 1, lf6 0}{189}{re +10}
-{184}{Adoraria ouvir mais sobre suas aventuras...}{}{5}{lf6 0}{99}{}
+{184}{Eu adoraria ouvir mais sobre suas aventuras...}{}{5}{lf6 0}{99}{}
 {185}{Mais histórias!}{}{-4}{lf6 0}{99}{}
 {186}{K:}{}{1}{lf6 0}{40}{}
 {187}{E:}{}{1}{lf6 0}{0}{}
 {188}{K:}{}{1}{lf6 1}{266}{}
 {189}{Não me diga! Bom trabalho, meu velho! Bom trabalho! Meu chapéu está tirado para você... qualquer homem que tenha coragem de enfrentar aquela monstruosidade é um homem de verdade! Muito bem!}{Não me diga! Bom trabalho, minha velha! Bom trabalho! Meu chapéu está tirado para você, madame... qualquer mulher que tenha coragem de enfrentar aquela monstruosidade é uma mulher de verdade! Muito bem!}{}{34}{}{}
-{190}{Adoraria ouvir mais sobre suas aventuras...}{}{5}{}{99}{}
+{190}{Eu adoraria ouvir mais sobre suas aventuras...}{}{5}{}{99}{}
 {191}{K:}{}{5}{}{40}{}
 {192}{E:}{}{5}{}{0}{}
 {194}{E por que não?}{E por que não?}{}{35}{}{}
@@ -172,7 +172,7 @@
 {204}{Talvez você esteja certo. Acredito em você, Franklin...}{}{5}{}{219}{re +10}
 {205}{Bem, você tem alguma prova?}{}{5}{}{208}{}
 {206}{E:}{}{5}{}{0}{}
-{208}{[Seus olhos brilham.] Seria realmente divertido se eu tivesse a prova, meu amigo? Você só vai ter que acreditar na minha palavra...}{[Seus olhos brilham.]  Seria realmente divertido se eu tivesse a prova, velho amigo? Você vai ter que acreditar na minha palavra...}{}{38}{}{}
+{208}{[Seus olhos brilham.]  Seria realmente divertido se eu tivesse a prova, velho amigo? Você vai ter que acreditar na minha palavra...}{[Seus olhos brilham.]  Seria realmente divertido se eu tivesse a prova, velho amigo? Você vai ter que acreditar na minha palavra...}{}{38}{}{}
 {209}{Tudo bem, eu acredito em você...}{}{5}{}{219}{re +10}
 {210}{Você provou meu ponto. A história é falsa...}{}{5}{}{213}{re -10}
 {211}{E:}{}{5}{}{0}{}
@@ -235,12 +235,12 @@
 {294}{O que sabe sobre o Anel de Brodgar, Franklin?}{}{1}{ss 19, ss -19}{603}{}
 {295}{Como vamos encontrar Arronax?}{}{1}{ss 20, ss -20}{608}{}
 {296}{Franklin, o que sabe sobre o Vazio?}{}{1}{ss 21, ss -21}{613}{}
-{298}{Franklin, o que sabe sobre Kerghan?}{}{1}{ss 23, ss -23}{618}{}
-{299}{Magnus! O que vamos fazer agora?}{}{1}{ss 24, ss -24}{623}{}
+{298}{Franklin, o que sabe sobre Kerghan?}{}{1}{ss 22, ss -22}{618}{}
+{299}{Franklin! O que vamos fazer agora?}{}{1}{ss 24, ss -24}{623}{}
 {300}{O que você sabe sobre este lugar?}{}{1}{ia 1}{423}{}
 {301}{O que você sabe sobre este lugar?}{}{1}{ia 21}{427}{}
 {302}{O que você sabe sobre este lugar?}{}{1}{ia 3}{431}{}
-{305}{O que sabe sobre este lugar?}{}{1}{ia 6}{435}{}
+{305}{O que você sabe sobre este lugar?}{}{1}{ia 6}{435}{}
 {306}{O que você sabe sobre este lugar?}{}{1}{ia 7}{439}{}
 {308}{O que você sabe sobre este lugar?}{}{1}{ia 9}{439}{}
 {309}{O que você sabe sobre este lugar?}{}{1}{ia 10}{443}{}
@@ -248,15 +248,15 @@
 {316}{O que você sabe sobre este lugar?}{}{1}{ia 22}{453}{}
 {317}{O que você sabe sobre este lugar?}{}{1}{ia 23}{457}{}
 {318}{Parece que está chateado comigo, Franklin! Há algo que eu possa fazer por você?}{}{5}{re -20}{360}{}
-{319}{Frankie! Tá bravo comigo! Talvez eu faça alguma coisa por você?}{}{-4}{re -20}{360}{}
+{319}{Frankie! Tá bravo comigo! Será que eu faço alguma coisa por você?}{}{-4}{re -20}{360}{}
 {320}{E:}{}{1}{}{0}{}
-{360}{Bem, não posso dizer que estou muito satisfeito com o rumo que esta aventura está tomando! Mas, se você me arranjasse uma xícara daquele bom e velho Chá Earl Grey, talvez eu conseguisse ver as coisas de um jeito diferente...}{Bem, não posso dizer que estou muito satisfeito com o rumo que esta aventura está tomando! Mas, se você conseguisse me arranjar um pouco daquele bom e velho Chá Earl Grey, talvez eu pudesse ver as coisas de um jeito um pouco diferente...}{}{70}{}{}
+{360}{Bem, não posso dizer que estou muito satisfeito com o rumo que esta aventura está tomando! Mas, se você conseguisse me arranjar um pouco daquele bom e velho Chá Earl Grey, talvez eu pudesse ver as coisas de um jeito um pouco diferente...}{Bem, não posso dizer que estou muito satisfeito com o rumo que esta aventura está tomando! Mas, se você conseguisse me arranjar um pouco daquele bom e velho Chá Earl Grey, talvez eu pudesse ver as coisas de um jeito um pouco diferente...}{}{70}{}{}
 {361}{Ora, Franklin...isso é realmente necessário?}{}{5}{ch 20}{368}{re +20}
 {362}{Uma excelente escolha, meu amigo. E eu tenho um pouco bem aqui...!}{}{5}{in 3616, ch -19}{-11}{re +20}
-{363}{Vou ver se consigo arranjar um pouco para você, Franklin...}{}{5}{in -3616, ch -19}{377}{}
+{363}{Vou ver se consigo arranjar um pouco para você, Franklin...}{}{5}{ni 3616, ch -19}{377}{}
 {364}{Oh, as coisas tolas com que sonhamos! Vamos, que tal?}{}{5}{}{}{re -5, fl 379}
 {365}{Tenho um pouco aqui, Frankie!}{}{-4}{in 3616, ch -19}{-11}{re +20}
-{366}{Hã...talvez eu consiga arranjar um pouco para você, Frankie!}{}{-4}{in -3616, ch -19}{377}{}
+{366}{Hã...talvez eu consiga arranjar um pouco para você, Frankie!}{}{-4}{ni 3616, ch -19}{377}{}
 {367}{Que pena você não conseguir nenhum. A gente vai agora...}{}{-4}{}{}{re -5, fl 379}
 {368}{[Franklin lhe lança um olhar perspicaz e então joga as mãos para o alto, exasperado.] Oh! Você é tão malditamente simpático que não sei o que fazer comigo mesmo! Esqueça que eu disse qualquer coisa sobre isso... vamos em frente, certo?}{[Franklin lhe lança um olhar perspicaz e então joga as mãos para o alto, exasperado.] Oh! Você é tão malditamente simpático que não sei o que fazer comigo mesmo! Esqueça que eu disse qualquer coisa sobre isso... vamos em frente, certo?}{}{71}{}{}
 {369}{E:}{}{1}{}{0}{}
@@ -283,7 +283,7 @@
 {396}{E:}{}{1}{}{0}{}
 {398}{Pode deixar! Mas tente não demorar muito, tá? Só temos tantas horas no dia, e tudo mais...}{Pode deixar! Mas tente não demorar muito, tá? Só temos tantas horas no dia, e tudo mais...}{}{54}{}{}
 {399}{E:}{}{1}{}{0}{}
-{401}{Oh? Bem, acho que nos separamos aqui, então! Foi uma grande aventura! Talvez nos encontremos novamente algum dia! Tchau!}{Ora! Bem, acho que nossos caminhos se separam aqui, então! Foi uma grande aventura! Talvez nos encontremos novamente algum dia! Tchauzinho!}{}{55}{}{lf31 1}
+{401}{Ora! Bem, acho que nossos caminhos se separam aqui, então! Foi uma grande aventura! Talvez nos encontremos novamente algum dia! Tchauzinho!}{Ora! Bem, acho que nossos caminhos se separam aqui, então! Foi uma grande aventura! Talvez nos encontremos novamente algum dia! Tchauzinho!}{}{55}{}{lf31 1}
 {402}{E:}{}{1}{}{0}{}
 {404}{Olá, por aqui! Que surpresa te ver de novo! O que o traz de volta?}{Olá, por aqui! Que surpresa te ver de novo! O que o traz de volta?}{}{56}{}{}
 {405}{Você vai se juntar a mim?}{}{1}{}{409}{jo 0 412}
@@ -313,7 +313,7 @@
 {435}{Ora, esta é Qintarra, a terra ancestral dos elfos. Um lugar bem chato... sabe, os elfos nunca foram muito de aventura ou emoção. Geralmente estão por aí cantando para árvores ou algo assim... não é muito a minha praia! Mas a Floresta Brilhante está cheia de criaturas estranhas... tenho certeza de que podemos encontrar uma ou duas mortais o suficiente para merecer nossa atenção! Talvez devêssemos dar uma olhada!}{Ora, esta é Qintarra, a terra ancestral dos elfos. Um lugar bem chato... sabe, os elfos nunca foram muito de aventura ou emoção. Geralmente estão por aí cantando para árvores ou algo assim... não é muito a minha praia! Mas a Floresta Brilhante está cheia de criaturas estranhas... tenho certeza de que podemos encontrar uma ou duas mortais o suficiente para merecer nossa atenção! Talvez devêssemos dar uma olhada!}{}{64}{}{}
 {436}{K:}{}{1}{}{266}{}
 {437}{E:}{}{1}{}{0}{}
-{439}{Oh! Este é o Clã Wheel! Lugar maravilhoso, embora anões sendo anões, eles geralmente não deixam gente como eu andar pelas cavernas deles! Rumores dizem que há uma mina abandonada por aqui que está lotada de feras ferozes! Vamos nessa então!}{Oh! Este é o Clã Wheel! Lugar maravilhoso, embora anões sendo anões, eles geralmente não deixam gente como eu andar pelas cavernas deles! Rumores dizem que há uma mina abandonada por aqui que está lotada de feras ferozes! Vamos nessa então!}{}{65}{}{}
+{439}{Oh! Este é o Clã da Roda! Lugar maravilhoso, embora anões sendo anões, eles geralmente não deixem gente como eu andar por suas cavernas! Corre o boato de que há uma antiga mina abandonada por aqui que está lotada de feras selvagens! Certo! Vamos nessa então!}{Oh! Este é o Clã da Roda! Lugar maravilhoso, embora anões sendo anões, eles geralmente não deixem gente como eu andar por suas cavernas! Corre o boato de que há uma antiga mina abandonada por aqui que está lotada de feras selvagens! Certo! Vamos nessa então!}{}{65}{}{}
 {440}{K:}{}{1}{}{266}{}
 {441}{E:}{}{1}{}{0}{}
 {443}{Stillwater! Lar do temível Gigante de Stillwater! Já contei a história daquele monstro medonho...?}{Stillwater! Lar do temível Gigante de Stillwater! Já contei a história daquele monstro medonho...?}{}{66}{}{}
@@ -321,7 +321,7 @@
 {445}{Conte de novo, Frankie!}{}{-4}{}{161}{lf6 1}
 {446}{K:}{}{1}{}{266}{}
 {447}{E:}{}{1}{}{0}{}
-{449}{Eu diria que esta é Tulla! Cidade dos Magos! Lar dos velhos feiticeiros e tudo mais! Tenho certeza de que há muito para ver por aqui, mas devo dizer que a maioria dos sujeitos que conheci de Tulla tendem a ser um pouco secos. Mas! Logo além dos muros estão os Desertos de Vendigroth! Nunca um momento de tédio por lá! Mil maneiras de morrer a cada esquina! Ótimo programa!}{Eu ouso dizer que isto é Tulla! A Cidade dos Magos! Lar dos antigos feiticeiros e tudo mais! Tenho certeza de que há muito para ver por aqui, mas devo dizer que a maioria dos sujeitos que conheci de Tulla tende a ser um pouco seca. Mas! Logo além dos muros estão os Ermos de Vendigroth! Nunca um momento de tédio por lá! Mil maneiras de morrer a cada esquina! Espetáculo!}{}{67}{}{}
+{449}{Eu ouso dizer que isto é Tulla! A Cidade dos Magos! Lar dos antigos feiticeiros e tudo mais! Tenho certeza de que há muito para ver por aqui, mas devo dizer que a maioria dos sujeitos que conheci de Tulla tende a ser um pouco seca. Mas! Logo além dos muros estão os Ermos de Vendigroth! Nunca um momento de tédio por lá! Mil maneiras de morrer a cada esquina! Espetáculo!}{Eu ouso dizer que isto é Tulla! A Cidade dos Magos! Lar dos antigos feiticeiros e tudo mais! Tenho certeza de que há muito para ver por aqui, mas devo dizer que a maioria dos sujeitos que conheci de Tulla tende a ser um pouco seca. Mas! Logo além dos muros estão os Ermos de Vendigroth! Nunca um momento de tédio por lá! Mil maneiras de morrer a cada esquina! Espetáculo!}{}{67}{}{}
 {450}{K:}{}{1}{}{266}{}
 {451}{E:}{}{1}{}{0}{}
 {453}{Você não disse que este era o Covil de Vendigroth? Tudo isso é novo para mim! Um lugarzinho assustador, de verdade! Não saberia dizer como já estive tão apavorado em toda a minha vida! Brilhante!}{Você não disse que este era o Covil de Vendigroth? Tudo isso é novo para mim! Um lugarzinho assustador, de verdade! Não saberia dizer como já estive tão apavorado em toda a minha vida! Brilhante!}{}{68}{}{}

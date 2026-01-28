@@ -17,19 +17,19 @@
 {23}{K:}{}{1}{lf 10 1}{25}{}
 {24}{F:}{}{1}{}{0}{}
 {25}{Em que posso ajudá-lo?}{Em que posso ajudá-lo?}{}{}{}{}
-{26}{Gostaria de um quarto para a noite.}{}{5}{lf 10 0}{45}{}
-{27}{Vou ficar na cidade por um tempo. Gostaria de um quarto por uma semana.}{}{5}{ha7, lf 10 0}{52}{}
-{28}{Vou ficar na cidade por um tempo. Gostaria de um quarto por uma semana.}{}{5}{ha-6, lf 10 0}{57}{}
+{26}{Gostaria de um quarto para esta noite.}{}{5}{lf 10 0}{45}{}
+{27}{Vou ficar na cidade por um tempo. Gostaria de um quarto para uma semana.}{}{5}{ha7, lf 10 0}{52}{}
+{28}{Vou ficar na cidade por um tempo. Gostaria de um quarto para uma semana.}{}{5}{ha-6, lf 10 0}{57}{}
 {29}{Eu fico aqui 'sta noite?}{}{-4}{lf 10 0}{45}{}
-{30}{Talvez fique por aqui. Eu pegar quarto por semana?}{}{-4}{ha7, lf 10 0}{52}{}
-{31}{Talvez fique por aqui. Eu pegar quarto por semana?}{}{-4}{ha-6, lf 10 0}{57}{}
+{30}{Talvez mais tarde. Eu fico com o quarto por uma semana?}{}{-4}{ha7, lf 10 0}{52}{}
+{31}{Talvez mais tarde. Eu fico com o quarto por uma semana?}{}{-4}{ha-6, lf 10 0}{57}{}
 {32}{C:}{}{1}{lf 14 0}{35}{lf 14 1}
 {33}{E:}{}{1}{}{0}{}
 {34}{}{}{}{}{}{}
 {35}{Há mais alguma coisa?}{Há mais alguma coisa?}{}{}{}{}
-{36}{Gostaria de um quarto para a noite.}{}{5}{lf 10 0}{45}{}
-{37}{Vou ficar na cidade por um tempo. Gostaria de um quarto por uma semana.}{}{5}{ha7, lf 10 0}{52}{}
-{38}{Vou ficar na cidade por um tempo. Gostaria de um quarto por uma semana.}{}{5}{ha-6, lf 10 0}{57}{}
+{36}{Gostaria de um quarto para esta noite.}{}{5}{lf 10 0}{45}{}
+{37}{Vou ficar na cidade por um tempo. Gostaria de um quarto para uma semana.}{}{5}{ha7, lf 10 0}{52}{}
+{38}{Vou ficar na cidade por um tempo. Gostaria de um quarto para uma semana.}{}{5}{ha-6, lf 10 0}{57}{}
 {39}{Eu ficar aqui de noite?}{}{-4}{lf 10 0}{45}{}
 {40}{Eu pegar quarto por semana?}{}{-4}{ha7, lf 10 0}{52}{}
 {41}{Eu pegar quarto por semana?}{}{-4}{ha-6, lf 10 0}{57}{}
@@ -55,14 +55,14 @@
 {61}{O quê! Não fica mais barato ficar mais tempo?}{}{-4}{}{78}{}
 {62}{K:}{}{1}{}{35}{}
 {63}{F:}{}{1}{}{0}{re -2}
-{64}{Obrigado, senhor! O senhor encontrará seu quarto logo ali no corredor. O quarto estará à sua disposição apenas esta noite. A porta estará destrancada. Espero que aproveite sua estadia.}{Obrigado, minha senhora! A senhora encontrará seu quarto logo ali no corredor. O quarto estará à sua disposição apenas esta noite. A porta estará destrancada. Espero que aproveite sua estadia.}{}{}{}{}
+{64}{Obrigado, senhor! O senhor encontrará seu quarto logo ali no corredor. O quarto estará à sua disposição apenas esta noite. A porta estará destrancada. Espero que aproveite sua estadia.}{Obrigado, minha senhora! Seu quarto fica logo ali no corredor. Você poderá usar o quarto apenas esta noite. A porta ficará destrancada. Espero sinceramente que aproveite sua estadia.}{}{}{}{}
 {65}{Obrigado.}{}{5}{}{0}{}
 {66}{Hã... V-valeu.}{}{-4}{}{0}{}
 {67}{K:}{}{1}{}{35}{}
 {68}{C:}{}{1}{lf 14 0}{35}{lf 14 1 }
 {69}{E:}{}{1}{}{0}{}
 {70}{}{}{}{}{}{}
-{71}{Obrigado, senhor! O senhor encontrará seu quarto logo ali no corredor. O quarto estará à sua disposição pelas próximas sete noites. A porta estará destrancada. Espero que aproveite sua estadia.}{Obrigado, minha senhora! A senhora encontrará seu quarto logo ali no corredor. O quarto estará à sua disposição pelas próximas sete noites. A porta estará destrancada. Espero que aproveite sua estadia.}{}{}{}{}
+{71}{Obrigado, senhor! O senhor encontrará seu quarto logo ali no corredor. O quarto estará à sua disposição pelas próximas sete noites. A porta estará destrancada. Espero que aproveite sua estadia.}{Obrigado, minha senhora! Seu quarto fica logo ali no corredor. Você poderá usá-lo pelas próximas sete noites. A porta ficará destrancada. Espero sinceramente que aproveite sua estadia.}{}{}{}{}
 {72}{Obrigado.}{}{5}{}{0}{}
 {73}{Hã... V-valeu.}{}{-4}{}{0}{}
 {74}{K:}{}{1}{}{35}{}
@@ -114,7 +114,7 @@
 {153}{K:}{}{1}{}{35}{}
 {154}{C:}{}{1}{lf 14 0}{35}{lf 14 1 }
 {155}{E:}{}{1}{}{0}{}
-{160}{Tudo bem, então. Seu quarto fica logo ali no corredor, mas você só poderá usá-lo por esta noite. Não arranje confusão, ou não hesitarei em mandar removê-lo. E não há reembolsos.}{Tudo bem, então. Seu quarto fica logo ali no corredor, mas você só poderá usá-lo por esta noite. Não arranje confusão, ou não hesitarei em mandar removê-la. E não há reembolsos.}{}{}{}{}
+{160}{Tudo bem, então. Seu quarto fica logo ali no corredor, mas você só poderá usá-lo por esta noite. Não arranje confusão, ou não hesitarei em mandar removê-la. E não há reembolsos.}{Tudo bem, então. Seu quarto fica logo ali no corredor, mas você só poderá usá-lo por esta noite. Não arranje confusão, ou não hesitarei em mandar removê-la. E não há reembolsos.}{}{}{}{}
 {161}{Obrigado.}{}{5}{}{0}{}
 {162}{Hã... V-valeu.}{}{-4}{}{0}{}
 {163}{K:}{}{1}{}{35}{}

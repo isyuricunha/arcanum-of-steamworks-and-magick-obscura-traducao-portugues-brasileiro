@@ -30,7 +30,7 @@
 {36}{Quiçá eu ajude a senhora a encontrar a bola de cristal?}{}{-4}{qu1064 1}{81}{}
 {37}{Preciso de ajuda para encontrar a bola!}{}{-4}{lf3 1, lf4 0, qu1064 2, ni 5628}{95}{}
 {38}{Ainda procurando pela bola!}{}{-4}{qu1064 2, ni 5628}{120}{}
-{39}{Achei a bola, moça!}{}{-4}{qu1064 2, in 5628, qb1065 1}{125}{}
+{39}{Achei uma bola, madame!}{}{-4}{qu1064 2, in 5628, qb1065 1}{125}{}
 {40}{Achei uma bola, madame!}{}{-4}{in 5628, qa1064 1, qb1064 2, qu1065 2}{175}{}
 {41}{Tenho uma coisinha para você, madame!}{}{-4}{qu1064 0, qu1065 2, in 5628}{178}{}
 {42}{E:}{}{1}{}{0}{}
@@ -93,13 +93,13 @@
 {116}{Eu irei, querida senhora. Obrigado pelo conselho. Voltarei mais tarde...}{}{5}{}{0}{}
 {117}{Certo! Mais perguntas!}{}{-4}{}{25}{}
 {118}{Eu irei, senhora! Volto mais tarde!}{}{-4}{}{0}{}
-{120}{Bem, espero que a encontre logo...os negócios andam ruins desde que a antiga quebrou. Há mais alguma coisa em que eu possa ajudá-lo?}{Bem, espero que você o encontre logo... os negócios andam ruins desde que o antigo quebrou. Tem mais alguma coisa em que eu possa te ajudar?}{}{}{}{}
+{120}{Bem, espero que você o encontre logo... os negócios andam ruins desde que o antigo quebrou. Tem mais alguma coisa em que eu possa te ajudar?}{Bem, espero que você o encontre logo... os negócios andam ruins desde que o antigo quebrou. Tem mais alguma coisa em que eu possa te ajudar?}{}{}{}{}
 {121}{Sim... mais algumas perguntas...}{}{5}{}{25}{}
 {123}{Mais perguntas!}{}{-4}{}{25}{}
 {124}{E:}{}{1}{}{0}{}
 {125}{[Ela parece surpresa.] Isso... bem, isso é simplesmente maravilhoso! Aqui está o pagamento. [Ela te entrega 200 peças de ouro.] Onde você conseguiu isso?}{[Ela parece surpresa.] Isso... bem, isso é simplesmente maravilhoso! Aqui está o pagamento. [Ela te entrega 200 peças de ouro.] Onde você conseguiu isso?}{}{}{}{qu1064 4, $$200}
-{126}{Madame Toussaude, uma médium no distrito dos armazéns...}{}{5}{}{129}{}
-{127}{Hã... uma mulher esquisita... To-os-s-ow-wde...?}{}{-4}{}{129}{}
+{126}{Madame Toussaud, uma médium no distrito dos armazéns...}{}{5}{}{129}{}
+{127}{Hã... alguma mulher estranha... To-os-s-ow-wde...?}{}{-4}{}{129}{}
 {129}{Hahahahahaha! A velha bruxa! Ela não sabia absolutamente nada! Eu sabia que ela era uma farsa desde o começo...!}{Hahahahahaha! A velha bruxa! Ela não sabia absolutamente nada! Eu sabia que ela era uma farsa desde o começo...!}{}{}{}{}
 {130}{Me desculpe... o que você quer dizer?}{}{5}{}{133}{}
 {131}{Hã... o quê?}{}{-4}{}{133}{}

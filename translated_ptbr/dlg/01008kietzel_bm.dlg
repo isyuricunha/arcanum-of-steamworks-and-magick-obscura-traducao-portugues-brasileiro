@@ -1,4 +1,4 @@
-{1}{G:}{}{}{}{}{}
+{1}{G:}{G:}{}{}{}{}
 {2}{Saudações, senhor.}{}{5}{re 41, lf1 0, ru-2216}{41}{}
 {3}{Peço perdão, "senhor".}{}{5}{re -40, lf1 0, ru-2216}{35}{}
 {4}{Olá novamente, Kietzel.}{}{5}{re 41, lf1 1, lf2 0, ru-2216}{58}{}
@@ -12,7 +12,7 @@
 {12}{Encontrei o arco, Kietzel!}{}{5}{in 2001, lf9 0}{156}{}
 {13}{Explorei as ruínas, Kietzel, mas não havia nenhum arco nelas.}{}{5}{in 2001, lf9 0}{168}{lf9 1}
 {14}{Tenho a moeda que você pediu para o treinamento, Kietzel.}{}{5}{$$2000, lf5 1, lf9 1}{181}{}
-{15}{Ainda preciso juntar mais moedas para o treinamento, Kietzel.}{}{5}{lf5 1, $$-2000, lf9 1}{0}{}
+{15}{Ainda preciso juntar mais moedas para o treinamento, Kietzel.}{}{5}{lf5 1, $$-1999, lf9 1}{0}{}
 {16}{Aumentei minha habilidade, Kietzel.}{}{5}{lf6 1}{184}{}
 {18}{Hã... Oi.}{}{-4}{re 41, lf1 0, ru-2216}{41}{}
 {19}{Hã... Num é legal.}{}{-4}{re -40, lf1 0, ru-2216}{35}{}
@@ -27,8 +27,8 @@
 {28}{Eu consegui o arco!}{}{-4}{in 2001, lf9 0}{156}{}
 {29}{Hã... Eu vi todas as ruínas... num tinha arco, Keeyesul.}{}{-4}{in 2001, lf9 0}{168}{lf9 1}
 {30}{Eu tenho a moeda pro ensinamento agora!}{}{-4}{$$2000, lf5 1, lf9 1}{181}{}
-{31}{Eu preciso de mais moedas antes de Keeyesul me ensinar.}{}{-4}{lf5 1, $$-2000, lf9 1}{0}{}
-{32}{Tô melhor no arco agora, Keeyesul...}{}{-4}{lf6 1}{184}{}
+{31}{Eu preciso de mais moedas antes de Keeyesul me ensinar.}{}{-4}{lf5 1, $$-1999, lf9 1}{0}{}
+{32}{Tô melhor com o arco agora, Keeyesul...}{}{-4}{lf6 1}{184}{}
 {34}{E:}{}{1}{}{0}{}
 {35}{Não tenho tempo para lidar com gente como "você", forasteiro.}{Não tenho tempo para lidar com gente como "você", forasteiro.}{}{}{}{}
 {36}{Não tive intenção de ofender, senhor. Sou apenas um viajante nesta grande terra.}{}{5}{}{46}{re +5}
@@ -66,7 +66,7 @@
 {74}{O que o Keeyesul qué cumigo?}{}{-4}{tr0 -1}{77}{}
 {75}{Mestre Arqueiro! Eu procurei longe por Keeyesul!}{}{-4}{tr0 2}{92}{}
 {76}{E:}{}{1}{}{0}{}
-{77}{Se por acaso o encontrar em suas andanças, poderia informá-lo que fui para Caladon a negócios para o Rei? Ele deve me procurar lá.}{Se por acaso o encontrar em suas andanças, poderia informá-lo que fui para Caladon a negócios para o Rei? Ele deve me procurar lá.}{}{}{}{ru2216}
+{77}{Se por acaso o encontrar em suas andanças, poderia informá-lo que viajei para Caladon a negócios do Rei? Ele deveria me procurar lá.}{Se por acaso o encontrar em suas andanças, poderia informá-lo que viajei para Caladon a negócios do Rei? Ele deveria me procurar lá.}{}{}{}{ru2216}
 {78}{Sim, posso fazer isso.}{}{5}{}{84}{re +5}
 {79}{Hã... é. Eu posso fazê isso.}{}{-4}{}{84}{re +5}
 {82}{F:}{}{1}{}{0}{}
@@ -87,7 +87,7 @@
 {99}{E:}{}{1}{}{0}{}
 {100}{Meu aluno, Dudley, estava completando uma tarefa a meu pedido. Isso era, claro, para conquistar o status de Mestre com o arco. Como ele está desaparecido, vou atribuir a mesma tarefa a você, na esperança de que um de vocês consiga completá-la satisfatoriamente. Isso lhe parece aceitável?}{Meu aluno, Dudley, estava completando uma tarefa a meu pedido. Isso era, claro, para conquistar o status de Mestre com o arco. Como ele está desaparecido, vou atribuir a mesma tarefa a você, na esperança de que um de vocês consiga completá-la satisfatoriamente. Isso lhe parece aceitável?}{}{}{}{}
 {101}{Sim. O que preciso fazer?}{}{5}{}{105}{}
-{102}{Hã... Tá bom. O que eu faço?}{}{-4}{}{105}{}
+{102}{Hmm... Sim. O que eu faço?}{}{-4}{}{105}{}
 {103}{F:}{}{1}{}{0}{}
 {104}{E:}{}{1}{}{0}{}
 {105}{Primeiro, gostaria que ficasse de olho em Dudley, Dudley Crosston, durante sua jornada. Ele é um rapaz humano, de altura e compleição medianas. Da última vez que o vi, há quase um mês, estava vestido com equipamento de aventureiro simples, armado com arco e faca e com provisões para uma quinzena. Se o encontrar, por favor, diga-lhe para me procurar em Caladon, em vez de Blackroot.}{Primeiro, gostaria que ficasse de olho em Dudley, Dudley Crosston, durante sua jornada. Ele é um rapaz humano, de altura e compleição medianas. Da última vez que o vi, há quase um mês, estava vestido com equipamento de aventureiro simples, armado com arco e faca e com provisões para uma quinzena. Se o encontrar, por favor, diga-lhe para me procurar em Caladon, em vez de Blackroot.}{}{}{}{}
@@ -104,14 +104,14 @@
 {118}{Hmm... sim. Tchau.}{}{-4}{}{-9}{}
 {119}{E:}{}{1}{}{-9}{}
 {120}{Eu me retiro. Adeus.}{Eu me retiro. Adeus.}{}{}{}{}
-{121}{Oh! Não reconheci você de primeira, @pcname@! Diga-me, tem alguma notícia do Dudley?}{Oh! Não reconheci você de primeira, @pcname@! Diga-me, tem alguma notícia do Dudley?}{}{}{}{}
+{121}{Oh! Não reconheci você de primeira, @pcname@! Diga-me, tem notícias do Dudley?}{Oh! Não reconheci você de primeira, @pcname@! Diga-me, tem notícias do Dudley?}{}{}{}{}
 {122}{Não.}{}{5}{}{125}{}
 {123}{Sinto dizer que não o encontrei em minhas viagens.}{}{5}{}{125}{}
 {124}{Hmm... não.}{}{-4}{}{125}{}
 {125}{[Ele parece entristecido com suas palavras.] Bem... Agradeço imensamente por ficar de olho no rapaz. Só posso esperar que ele tenha decidido voltar para casa e não achou necessário me avisar. Obrigado, @pcname@.}{[Ele parece entristecido com suas palavras.] Bem... Agradeço imensamente por ficar de olho no rapaz. Só posso esperar que ele tenha decidido voltar para casa e não achou necessário me avisar. Obrigado, @pcname@.}{}{}{}{lf3 1}
 {126}{De nada. Adeus.}{}{5}{tr0 -1}{0}{}
-{127}{De nada. Posso receber o treinamento de Mestre no arco, Kietzel?}{}{-4}{tr0 2}{131}{}
-{128}{Hmm... Sim. Tchau.}{}{5}{tr0 -1}{0}{}
+{127}{De nada. Posso receber o treinamento de Mestre em arco, Kietzel?}{}{-4}{tr0 2}{131}{}
+{128}{Hã... É. Té logo.}{}{5}{tr0 -1}{0}{}
 {129}{Tá bom... Hmm... eu qué sê Mestre do arco também.}{}{-4}{tr0 2}{131}{}
 {130}{E:}{}{1}{}{0}{}
 {131}{Posso treiná-lo... [Ele parece pensativo por um momento.] Dudley estava completando uma tarefa a meu pedido. Isso, claro, para ganhar o status de Mestre com o arco. Como ele não a concluiu, vou atribuir a mesma tarefa a você. Isso lhe parece aceitável?}{Posso treiná-lo... [Ele parece pensativo por um momento.] Dudley estava completando uma tarefa a meu pedido. Isso, claro, para ganhar o status de Mestre com o arco. Como ele não a concluiu, vou atribuir a mesma tarefa a você. Isso lhe parece aceitável?}{}{}{}{}
@@ -133,36 +133,34 @@
 {147}{Hã... É! Ele tá em Dern'ome. Tá de guarda com o arco agora.}{}{-4}{}{148}{}
 {148}{[Ele parece aliviado, mas irritado com suas palavras.] Dernholm! ...se alistou nas forças do Rei, foi? Bem! O mínimo que o rapaz podia ter feito era me avisar de suas intenções, para não me deixar preocupado! ...Bem, obrigado, @pcname@! Obrigado por ter se dado ao trabalho de me trazer essa notícia. Você tirou um grande peso dos meus ombros.}{[Ele parece aliviado, mas irritado com suas palavras.] Dernholm! ...se alistou nas forças do Rei, foi? Bem! O mínimo que o rapaz podia ter feito era me avisar de suas intenções, para não me deixar preocupado! ...Bem, obrigado, @pcname@! Obrigado por ter se dado ao trabalho de me trazer essa notícia. Você tirou um grande peso dos meus ombros.}{}{}{}{lf4 1, rq2216, xp 5}
 {149}{De nada. Adeus, Kietzel.}{}{5}{tr0 -1}{0}{}
-{150}{De nada. Posso receber o treinamento de Mestre arqueiro, Kietzel?}{}{-4}{tr0 2}{131}{}
+{150}{De nada. Posso receber o treinamento de Mestre em arco, Kietzel?}{}{-4}{tr0 2}{131}{}
 {151}{Hã... É. Té logo.}{}{5}{tr0 -1}{0}{}
 {152}{Tá... Hã... eu qué ser Mestre arco também. Você ensina?}{}{-4}{tr0 2}{131}{}
 {153}{E:}{}{1}{}{0}{}
 {154}{Eu realmente gostaria de saber se aquele arco existe. Por favor, se apresse, @pcname@.}{Eu realmente gostaria de saber se aquele arco existe. Por favor, se apresse, @pcname@.}{}{}{}{}
 {155}{E:}{}{1}{}{0}{}
 {156}{Magnífico! Aqui, permita-me o prazer de examiná-lo. [Ele pega o arco de você, comentando sobre sua bela manufatura e beleza.] Uma peça maravilhosa, simplesmente maravilhosa. Muito obrigado. Começaremos o treinamento imediatamente. Por favor, demonstre sua postura com o arco.}{Magnífico! Aqui, permita-me o prazer de examiná-lo. [Ele pega o arco de você, comentando sobre sua bela manufatura e beleza.] Uma peça maravilhosa, simplesmente maravilhosa. Muito obrigado. Começaremos o treinamento imediatamente. Por favor, demonstre sua postura com o arco.}{}{}{}{qu1004 4, in 2001}
-{157}{[Você segura seu arco, como se mirasse um alvo do outro lado da sala.]}{}{1}{sk0 18}{159}{}
+{157}{[Você segura seu arco, como se mirasse um alvo do outro lado da sala.]}{}{1}{sk0 18}{189}{}
 {158}{[Você segura seu arco, como se mirasse um alvo do outro lado da sala.]}{}{1}{sk0 -17}{166}{}
-{159}{[Kietzel faz alguns ajustes em sua postura, mostrando como corrigir sua mira. Em seguida, demonstra várias técnicas novas, aumentando sua habilidade com o arco.] Seu treinamento está completo, @pcname@. Agradeço por este arco magnífico. Desejo-lhe boa sorte em sua jornada. Adeus.}{[Kietzel faz alguns ajustes em sua postura, mostrando como corrigir sua mira. Em seguida, demonstra várias técnicas novas, aumentando sua habilidade com o arco.] Seu treinamento está completo, @pcname@. Agradeço por este arco magnífico. Desejo-lhe boa sorte em sua jornada. Adeus.}{}{}{}{tr0 3, rq2162}
+{159}{[Kietzel faz alguns ajustes na sua postura, mostrando como corrigir a mira. Em seguida, demonstra várias técnicas novas, aumentando sua destreza com o arco.] Seu treinamento está completo, @pcname@. Desejo-lhe boa sorte em sua jornada. Adeus.}{[Kietzel faz alguns ajustes na sua postura, mostrando como corrigir a mira. Em seguida, demonstra várias técnicas novas, aumentando sua destreza com o arco.] Seu treinamento está completo, @pcname@. Desejo-lhe boa sorte em sua jornada. Adeus.}{}{}{}{tr0 3, rq2162, rp1012}
 {160}{Obrigado, Kietzel. Adeus.}{}{5}{}{0}{}
-{161}{Obrigado, mas acho que vou ficar com esse arco de volta agora...}{}{5}{}{}{co, fl 165}
-{162}{Hã... Valeu, Keeyesul. Té logo.}{}{-4}{}{0}{}
-{163}{Hã... Valeu... Mas acho que quero esse arco de volta agora...}{}{-4}{}{}{co, fl 165}
-{164}{E:}{}{1}{}{0}{}
+{161}{Hã... Valeu, Keeyesul. Té logo.}{}{-4}{}{0}{}
+{162}{E:}{}{1}{}{0}{}
 {165}{Você se acha páreo para "mim", patife!?}{Você se acha páreo para "mim", patife!?}{}{}{}{}
 {166}{[Ele avalia suas habilidades por alguns instantes.] @pcname@, sinto muito ter que lhe dizer isso, mas não acredito que você ainda tenha habilidade para se tornar um Mestre. Por favor, vá praticar com seu arco. Quando sua habilidade tiver melhorado o suficiente, volte até mim e eu o treinarei.}{[Ele avalia suas habilidades por alguns instantes.] @pcname@, sinto muito ter que lhe dizer isso, mas não acredito que você ainda tenha habilidade para se tornar um Mestre. Por favor, vá praticar com seu arco. Quando sua habilidade tiver melhorado o suficiente, volte até mim e eu o treinarei.}{}{}{}{lf6 1}
 {167}{E:}{}{1}{}{0}{}
-{168}{Lamento ouvir isso. Espero que pelo menos tenha encontrado algumas riquezas para tornar sua jornada proveitosa. ...Bem, normalmente cobro 5.000 moedas dos meus alunos pelo treinamento. No entanto, como você completou uma caçada bastante infrutífera para mim, reduzirei o valor para 2.000 moedas. Você tem os fundos para começar seu treinamento, @pcname@?}{Lamento ouvir isso. Espero que pelo menos tenha encontrado algumas riquezas para tornar sua jornada proveitosa. ...Bem, normalmente cobro 5.000 moedas dos meus alunos pelo treinamento. No entanto, como você completou uma caçada bastante infrutífera para mim, reduzirei o valor para 2.000 moedas. Você tem os fundos para começar seu treinamento, @pcname@?}{}{}{}{}
+{168}{Lamento ouvir isso. Espero que pelo menos contenha algumas riquezas para tornar sua jornada proveitosa. ...Bem, normalmente cobro 5.000 moedas dos alunos pelo meu ensino. No entanto, como você completou uma caçada bastante infrutífera para mim, vou reduzir o valor para 2.000 moedas. Você tem os fundos para começar seu treinamento, @pcname@?}{Lamento ouvir isso. Espero que pelo menos contenha algumas riquezas para tornar sua jornada proveitosa. ...Bem, normalmente cobro 5.000 moedas dos alunos pelo meu ensino. No entanto, como você completou uma caçada bastante infrutífera para mim, vou reduzir o valor para 2.000 moedas. Você tem os fundos para começar seu treinamento, @pcname@?}{}{}{}{qu1004 6}
 {169}{2.000! Isso parece um pouco alto, depois da jornada que completei.}{}{5}{}{175}{re-5}
-{170}{Sim. Aqui está. [Você lhe entrega as 2.000 moedas.]}{}{5}{}{181}{$$-2000}
-{171}{Vou precisar voltar mais tarde, com mais moedas.}{}{5}{}{0}{lf5 1}
+{170}{Sim. Aqui está. [Você lhe entrega as 2.000 moedas.]}{}{5}{$$2000}{181}{}
+{171}{Vou precisar voltar mais tarde, com mais moedas.}{}{5}{$$-1999}{0}{lf5 1}
 {172}{2.000! Isso é muito!}{}{-4}{}{175}{re-5}
-{173}{Hã... sim. [Você lhe entrega as 2.000 moedas.]}{}{-4}{}{181}{$$-2000}
-{174}{Hã... Eu arrumo mais moedas. Eu volto.}{}{-4}{}{0}{lf5 1}
-{175}{Esses são os meus honorários, @pcname@. Meu conhecimento tem um preço. Eu acharia que você ficaria grato por estar conseguindo com desconto!}{Lamento ouvir isso. Espero que pelo menos contenha algumas riquezas para tornar sua jornada proveitosa. ...Bem, normalmente cobro 5.000 moedas dos alunos pelo meu ensino. No entanto, como você completou uma caçada bastante infrutífera para mim, vou reduzir o valor para 2.000 moedas. Você tem os fundos para começar seu treinamento, @pcname@?}{}{}{}{}
-{176}{Muito bem. Aqui está. [Você lhe entrega as 2.000 moedas.]}{}{5}{}{181}{$$-2000}
-{177}{Vou precisar voltar mais tarde, com mais moedas.}{}{5}{}{0}{lf5 1}
-{178}{Hã... sim. [Você lhe entrega as 2.000 moedas.]}{}{-4}{}{181}{$$-2000}
-{179}{Hã... Eu arrumo mais moedas. Eu volto.}{}{-4}{}{0}{lf5 1}
+{173}{Hã... sim. [Você lhe entrega as 2.000 moedas.]}{}{-4}{$$2000}{181}{}
+{174}{Hã... Eu arrumo mais moedas. Eu volto.}{}{-4}{$$-1999}{0}{lf5 1}
+{175}{Esses são os meus honorários, @pcname@. Meu conhecimento tem um preço. Eu acharia que você ficaria grato por estar conseguindo com desconto!}{Esses são os meus honorários, @pcname@. Meu conhecimento tem um preço. Eu acharia que você ficaria grato por estar conseguindo com desconto!}{}{}{}{}
+{176}{Muito bem. Aqui está. [Você lhe entrega as 2.000 moedas.]}{}{5}{$$2000}{181}{}
+{177}{Vou precisar voltar mais tarde, com mais moedas.}{}{5}{$$-1999}{0}{lf5 1}
+{178}{Hã... sim. [Você lhe entrega as 2.000 moedas.]}{}{-4}{$$2000}{181}{}
+{179}{Hã... Eu arrumo mais moedas. Eu volto.}{}{-4}{$$-1999}{0}{lf5 1}
 {180}{F:}{}{1}{}{0}{re-5}
 {181}{Muito obrigado. Vamos começar o treinamento imediatamente. Por favor, demonstre sua postura com o arco.}{Muito obrigado. Vamos começar o treinamento imediatamente. Por favor, demonstre sua postura com o arco.}{}{}{}{$$-2000, lf5 0}
 {182}{[Você segura seu arco, como se mirasse um alvo do outro lado da sala.]}{}{1}{sk0 18}{159}{}
@@ -172,4 +170,9 @@
 {186}{[Você segura seu arco, como se mirasse um alvo do outro lado da sala.]}{}{1}{sk0 -17}{}{fl 187}
 {187}{Receio que você precise praticar um pouco mais, @pcname@. Você ainda não está pronto.}{Receio que você precise praticar um pouco mais, @pcname@. Você ainda não está pronto.}{}{}{}{}
 {188}{Encontro você em Caladon, @pcname@. Adeus.}{Encontro você em Caladon, @pcname@. Adeus.}{}{}{}{}
-
+{189}{[Kietzel faz alguns ajustes em sua postura, mostrando como corrigir sua mira. Em seguida, demonstra várias técnicas novas, aumentando sua habilidade com o arco.] Seu treinamento está completo, @pcname@. Agradeço por este arco magnífico. Desejo-lhe boa sorte em sua jornada. Adeus.}{[Kietzel faz alguns ajustes em sua postura, mostrando como corrigir sua mira. Em seguida, demonstra várias técnicas novas, aumentando sua habilidade com o arco.] Seu treinamento está completo, @pcname@. Agradeço por este arco magnífico. Desejo-lhe boa sorte em sua jornada. Adeus.}{}{}{}{tr0 3, rq2162, rp1012}
+{190}{Obrigado, Kietzel. Adeus.}{}{5}{}{0}{}
+{191}{Obrigado, mas acho que vou ficar com esse arco de volta agora...}{}{5}{}{}{co, fl 165}
+{192}{Hã... Valeu, Keeyesul. Té logo.}{}{-4}{}{0}{}
+{193}{Hã... Valeu... Mas acho que quero esse arco de volta agora...}{}{-4}{}{}{co, fl 165}
+{194}{E:}{}{1}{}{0}{}

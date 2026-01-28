@@ -2,7 +2,7 @@
 {2}{Posso perguntar o que alguém como você está fazendo aqui?}{}{5}{re41, lf7 0}{15}{lf7 1 }
 {3}{Peço desculpas se a ofendi de alguma forma, madame.}{}{5}{re-40, ch-13}{135}{re+5 }
 {4}{Nenhum condenado fala comigo dessa maneira, prostituta!}{}{5}{re-40}{155}{re -10 }
-{5}{Voltei para ajudá-lo a escapar.}{}{5}{gf2136 1, qb1074 2}{220}{ }
+{5}{Voltei para ajudá-la a escapar.}{}{5}{gf2136 1, qb1074 2}{220}{ }
 {6}{Não acredito que haja motivo para me insultar, madame.}{}{5}{re-40, ch14}{165}{re+15 }
 {7}{Urgh?}{}{-4}{}{175}{ }
 {8}{Decidi ajudá-lo. O que preciso fazer?}{}{5}{lf1 1, qb1074 1}{45}{ }
@@ -32,7 +32,7 @@
 {67}{Tudo bem. Eu vou ajudá-lo, independentemente disso.}{}{5}{}{75}{lf3 1, qu1074 2 }
 {68}{Desculpe, só ajudo pessoas por recompensa monetária.}{}{5}{}{125}{lf4 1, al-25 }
 {75}{Oh, que bênção! Mostre-me seu mapa. [Ela marca seu mapa.] Aqui está a localização da tribo, até onde eu sei. Além disso, aqui está um lenço branco para usar na cabeça. Se eles virem um homem se aproximando sem ele, o atacarão.}{Oh, que bênção! Mostre-me seu mapa. [Ela marca seu mapa.] Aqui está a localização da tribo, até onde eu sei.}{}{}{}{mm33 }
-{76}{Como você sabe todas essas informações?}{1}{5}{}{85}{in-2811 }
+{76}{Como a senhora sabe todas essas informações?}{1}{5}{}{85}{in-2811 }
 {77}{Como a senhora sabe todas essas informações?}{0}{5}{}{85}{ }
 {78}{E:}{1}{5}{}{0}{in-2811 }
 {79}{E:}{0}{5}{}{0}{ }
@@ -45,22 +45,22 @@
 {106}{Então, onde fica essa tribo?}{}{5}{}{115}{al-10 }
 {107}{Pensando melhor, pode ficar com ele. Vou ajudá-lo sem nada em troca.}{}{5}{}{75}{al+10, lf2 0, lf3 1 }
 {115}{Mostre-me seu mapa. [Ela marca seu mapa.] Aqui está a localização da tribo, até onde eu sei. Além disso, aqui está um lenço branco para usar na cabeça. Se virem um homem se aproximando sem ele, o atacarão na hora!}{Mostre-me seu mapa. [Ela marca seu mapa.] Aqui está a localização da tribo, até onde eu sei.}{}{}{}{mm33 }
-{116}{Como você sabe todas essas informações?}{1}{5}{}{85}{in-2811 }
+{116}{Como a senhora sabe todas essas informações?}{1}{5}{}{85}{in-2811 }
 {117}{Como a senhora sabe todas essas informações?}{0}{5}{}{85}{ }
 {118}{E:}{1}{5}{}{0}{in-2811 }
 {119}{E:}{0}{5}{}{0}{ }
-{125}{Espero que um dia seu coração se amoleça e você se importe com algo além de si mesmo.}{Espero que um dia seu coração se amoleça e você se importe com algo além de si mesma.}{}{}{}{ }
+{125}{Espero que um dia seu coração se amoleça e você se importe com algo além de si mesma.}{Espero que um dia seu coração se amoleça e você se importe com algo além de si mesma.}{}{}{}{ }
 {126}{Você tem razão. Preciso mudar meus hábitos. Vou ajudá-lo.}{}{5}{}{75}{al+25, lf4 0, lf3 1, qu1074 2 }
 {127}{Muito provavelmente não. Tenha um bom dia.}{}{5}{}{0}{ }
 {128}{Talvez um dia eu amoleça sua cabeça com um objeto contundente.}{}{5}{}{155}{re-10 }
-{135}{Não se pode ajudar as circunstâncias do seu nascimento, suponho. Não é sua culpa que seus pais fossem da classe mais baixa.}{Suponho que não se pode ajudar as circunstâncias do seu nascimento. Não é sua culpa que seus pais fossem da classe mais baixa.}{}{}{}{ }
+{135}{Suponho que não se pode ajudar as circunstâncias do seu nascimento. Não é sua culpa que seus pais fossem da classe mais baixa.}{Suponho que não se pode ajudar as circunstâncias do seu nascimento. Não é sua culpa que seus pais fossem da classe mais baixa.}{}{}{}{ }
 {136}{Obrigado por compreender minha situação infeliz.}{}{5}{}{145}{re+10 }
 {137}{Olhe aqui, sua ingrata desavergonhada. Voltei para ajudá-la.}{}{5}{gf2136 1, qb1074 2}{260}{ }
 {138}{É lamentável que as classes mais baixas sejam propensas ao assassinato violento.}{}{5}{}{155}{re-10 }
 {144}{E:}{}{5}{}{0}{ }
 {145}{De nada.}{De nada.}{}{}{}{ }
 {146}{Posso perguntar o que alguém como você está fazendo aqui?}{}{5}{lf7 0}{15}{lf7 1 }
-{147}{Voltei para ajudá-lo a escapar.}{}{5}{gf2136 1, qb1074 2}{220}{ }
+{147}{Voltei para ajudá-la a escapar.}{}{5}{gf2136 1, qb1074 2}{220}{ }
 {154}{E:}{}{5}{}{0}{ }
 {155}{Está me ameaçando? Eu o aviso, posso parecer uma dama gentil e desamparada, mas tive que lutar para sobreviver aqui, cão! Deixe-me em paz, seu tolo. Não tenho mais nada a dizer.}{Está me ameaçando? Eu a aviso, posso parecer uma dama gentil e desamparada, mas tive que lutar para sobreviver aqui, cão!}{}{}{}{ }
 {156}{Pretendo testar suas habilidades defensivas, desavergonhada!}{}{5}{}{0}{fl 271 ,co}
@@ -71,9 +71,9 @@
 {168}{E:}{}{5}{}{0}{ }
 {175}{Oh, um imbecil babão! Que nojo! Deixe-me em paz, troglodita!}{Oh, um imbecil babão! Que nojo! Deixe-me em paz, troglodita!}{}{}{}{ }
 {176}{Oogah.}{}{-4}{}{0}{ }
-{180}{Por que deve me insultar? Não tem nenhuma decência, senhor?}{Por que deve me insultar? Não tem nenhuma decência, senhora?}{}{}{}{ }
+{180}{Por que deve me insultar? Não tem nenhuma decência, senhor?}{Por que precisa me insultar? Não tem nenhum decoro, madame?}{}{}{}{ }
 {181}{Minhas desculpas, senhora. Você estava me contando sobre sua vida?}{}{5}{}{25}{ }
-{182}{Não, não tenho. E você é feio também. E está prestes a morrer.}{}{5}{}{155}{re-10 }
+{182}{Não, não tenho. E você é feia também. E está prestes a morrer.}{}{5}{}{155}{re-10 }
 {190}{Não percebi que era um deles, senhor. Não tenho mais nada a dizer.}{Não percebi que era uma delas, senhora. Não tenho mais nada a dizer.}{}{}{}{ }
 {191}{Por favor, me perdoe. Há algo que possa ser feito por você?}{}{5}{}{45}{ }
 {192}{Trate seus superiores com respeito, ou vou lhe dar o que merece!}{}{5}{}{155}{ }
@@ -98,14 +98,14 @@
 {246}{Aqui está o medalhão que prometi a você pela sua ajuda, senhor.}{Aqui está o medalhão que prometi a você pela sua ajuda, madame.}{}{}{}{in -2812, qu1074 4, or 0 }
 {247}{Obrigado. Tenha um bom dia.}{}{5}{}{-33}{ }
 {250}{Faria isso por mim? Agradeço-lhe e humildemente aceito sua oferta de ajuda. Ah, e aqui está o medalhão que prometi a você.}{Faria isso por mim? Agradeço-lhe e humildemente aceito sua oferta de ajuda. Ah, e aqui está o medalhão que prometi a você.}{}{}{}{in-2812, qu1074 4 }
-{251}{Siga-me. Aqui está uma pistola que eles me deram para entregar a você.}{}{5}{in2811}{390}{in2013, jo1 255}
+{251}{Siga-me. Aqui está uma pistola que eles me deram para entregar a você.}{}{5}{in2013}{390}{in2013, jo1 255}
 {252}{Siga-me. Vou encontrar um jeito de tirá-lo daqui.}{}{5}{}{390}{jo1 255}
 {255}{Obrigado novamente, senhor.}{Obrigado novamente, boa mulher.}{}{}{}{or 0 }
 {256}{De nada.}{}{5}{}{0}{ }
 {260}{Peço desculpas pela minha insolência, senhor. Mas diga-me, você falou com a Lorria? Eles não vão vir me resgatar pessoalmente?}{Peço desculpas pela minha insolência, madame. Mas diga-me, você falou com a Lorria? Eles não vão vir me resgatar pessoalmente?}{}{}{}{ }
 {261}{Eles não querem nada com aqueles que não conseguem se ajudar.}{}{5}{}{230}{ }
 {262}{Faria isso por mim? Agradeço-lhe e humildemente aceito sua oferta de ajuda.}{Faria isso por mim? Agradeço-lhe e humildemente aceito sua oferta de ajuda.}{}{}{}{qu1074 4 }
-{263}{Siga-me. Aqui está uma pistola que eles me deram para entregar a você.}{}{5}{in2811}{390}{in2811, jo1 255}
+{263}{Siga-me. Aqui está uma pistola que eles me deram para entregar a você.}{}{5}{in2013}{390}{in2013, jo1 255}
 {264}{Siga-me. Vou encontrar um jeito de tirá-lo daqui.}{}{5}{}{390}{jo1 255}
 {270}{Não tenho desejo algum de falar com um canalha como o senhor!}{Não tenho desejo algum de falar com uma meretriz como a senhora!}{}{}{}{ }
 {271}{Já estou farto de você e dessa sua boca. Morra!}{Já estou farto de você e dessa sua boca. Morra!}{}{}{}{ }
@@ -149,7 +149,7 @@
 {380}{Obrigada por me resgatar daquela ilha terrível. A verdadeira liberdade foi mais do que eu poderia esperar.}{Obrigada por me resgatar daquela ilha terrível. A verdadeira liberdade foi mais do que eu poderia esperar.}{}{}{}{lf10 1, qu1074 4 }
 {381}{De nada. Boa sorte.}{}{5}{}{0}{ }
 {390}{É só isso?}{É só isso?}{}{}{}{or 0 }
-{391}{Bem, aqui está uma pistola que me deram para entregar a você.}{}{5}{in2811}{-33}{ in2811 }
+{391}{Bem, aqui está uma pistola que me deram para entregar a você.}{}{5}{in2013}{-33}{ in2013 }
 {392}{Sim. Adeus, madame.}{}{5}{}{-33}{ }
 {400}{Obrigada por me trazer até aqui. Nunca esquecerei sua ajuda.}{Obrigada por me trazer até aqui. Nunca esquecerei sua ajuda.}{}{}{}{lf10 1, qu1074 4 }
 {401}{De nada. Boa sorte.}{}{5}{}{-54}{ }

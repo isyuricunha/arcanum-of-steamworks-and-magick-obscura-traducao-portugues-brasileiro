@@ -1,16 +1,16 @@
 {1}{G:}{G:}{}{}{}{}
 {2}{Olá novamente, Sra. Cameron. Posso lhe fazer algumas perguntas?}{}{5}{lf1 1, re 41}{24}{}
-{3}{Peço desculpas por tê-la ofendido. Por favor, me perdoe. Posso saber seu nome?}{}{5}{lf1 1, re -40}{19}{}
+{3}{Peço desculpas por tê-la ofendido. Por favor, me perdoe. Posso saber seu nome?}{}{5}{lf1 0, re -40}{19}{}
 {4}{É um prazer conhecê-la, boa mulher. Posso saber seu nome?}{}{5}{lf1 0, re 41}{19}{}
-{5}{Desculpe tê-la ofendido, Sra. Cameron. Eu tinha algumas perguntas...}{}{5}{lf1 0, re -40}{35}{}
+{5}{Desculpe tê-la ofendido, Sra. Cameron. Eu tinha algumas perguntas...}{}{5}{lf1 1, re -40}{35}{}
 {6}{Vou tentar encontrar seu filho, Sra. Cameron.}{}{5}{qu1119 1}{85}{}
 {7}{Ainda não localizei Liam, Sra. Cameron.}{}{5}{qu1119 2}{93}{}
 {8}{Tenho notícias de Liam, Sra. Cameron.}{}{5}{qu1119 3}{97}{}
-{9}{Eu destruí o portal.}{}{5}{qu1119 4, qu1120 4}{169}{}
+{9}{Eu destruí o portal.}{}{5}{qu1119 4, qu1120 4, lf5 0}{169}{}
 {10}{Oi, Sra. Cameron. Eu te pergunto uma coisa?}{}{-4}{lf1 1, re 41}{24}{}
-{11}{Me desculpe você não gostar de mim... Você me diz seu nome?}{}{-4}{lf1 1, re -40}{19}{}
+{11}{Me desculpe você não gostar de mim... Você me diz seu nome?}{}{-4}{lf1 0, re -40}{19}{}
 {12}{Oi, senhora! Qual é o seu nome?}{}{-4}{lf1 0, re 41}{19}{}
-{13}{Me desculpe você estar brava, senhora. Eu te pergunto uma coisa?}{}{-4}{lf1 0, re -40}{35}{}
+{13}{Me desculpe você estar brava, senhora. Eu te pergunto uma coisa?}{}{-4}{lf1 1, re -40}{35}{}
 {14}{Eu vou procurar o Liam.}{}{-4}{qu1119 1}{85}{}
 {15}{Eu ainda não encontrei o Lee am, Sra. Cameron.}{}{-4}{qu1119 2}{93}{}
 {16}{Eu falo com você sobre o Liam?}{}{-4}{qu1119 3}{97}{}
@@ -22,17 +22,17 @@
 {22}{E:}{}{1}{}{0}{}
 {23}{Socorro! Guardas! Socorro! Socorro!}{Socorro! Guardas! Socorro! Socorro!}{}{}{}{}
 {24}{Em que posso ajudá-lo?}{Em que posso ajudá-lo?}{}{}{}{}
-{25}{Conte-me sobre seu filho...}{}{5}{qu1119 0}{60}{}
+{25}{Fale-me sobre seu filho...}{}{5}{qu1119 0}{60}{}
 {26}{Você pode me dar treinamento especializado em reparos?}{}{5}{tr12 1, tr12 -1, sk12 10}{46}{}
-{27}{Como você se tornou tão habilidoso em consertar coisas?}{}{5}{qu1119 1, lf2 0}{56}{}
-{28}{Eu quero saber sobre seu filho...}{}{-4}{qu1119 0}{60}{}
-{29}{Você me treina como Especialista em Reparos?}{}{-4}{tr12 1, tr12 -1, sk12 10}{46}{}
+{27}{Como você se tornou tão habilidosa em consertar coisas?}{}{5}{qu1119 1, lf2 0}{56}{}
+{28}{Me querer saber sobre seu filho...}{}{-4}{qu1119 0}{60}{}
+{29}{Você me treinar como Especialista em reparos?}{}{-4}{tr12 1, tr12 -1, sk12 10}{46}{}
 {30}{Como você ficou tão bom em consertar coisas?}{}{-4}{qu1119 1, lf2 0}{56}{}
 {31}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
 {32}{Você conserta minhas coisas?}{}{-4}{}{0}{ri}
 {33}{C:}{}{1}{}{35}{}
 {34}{E:}{}{1}{}{0}{}
-{35}{Claro. Em que mais posso ajudá-lo?}{Claro. Em que mais posso ajudá-la?}{}{}{}{}
+{35}{Claro. Em que mais posso ajudá-la?}{Claro. Em que mais posso ajudá-la?}{}{}{}{}
 {36}{Fale-me sobre seu filho...}{}{5}{qu1119 0}{60}{}
 {37}{Você pode me dar treinamento especializado em reparos?}{}{5}{tr12 1, tr12 -1, sk12 10}{46}{}
 {38}{Como você se tornou tão habilidosa em consertar coisas?}{}{5}{qu1119 1, lf2 0}{56}{}
@@ -166,6 +166,6 @@
 {166}{Eu faço isso! Eu vou fechar... Eu salvo vocês!}{}{-4}{}{0}{qu1120 2}
 {167}{Eu espero que você encontre alguém bom. Essas coisas estão ficando maiores!}{}{-4}{}{0}{}
 {168}{E:}{}{1}{}{0}{}
-{169}{Obrigado @pcname@. Sou eternamente grato.}{Obrigado @pcname@. Sou eternamente grata.}{}{re -80}{}{re +5, lf5 1}
+{169}{Obrigado @pcname@. Sou eternamente grata.}{Obrigado @pcname@. Sou eternamente grata.}{}{re -80}{}{re +5, lf5 1}
 {170}{E:}{}{1}{}{0}{}
 

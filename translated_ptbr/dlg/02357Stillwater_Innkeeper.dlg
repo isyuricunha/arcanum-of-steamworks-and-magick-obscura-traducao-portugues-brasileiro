@@ -5,12 +5,12 @@
 {5}{Posso fazer uma pergunta, Estalajadeiro?}{}{5}{lf1 1, ch-10, re -40}{19}{}
 {6}{Não há necessidade de grosseria, senhor.}{}{5}{lf1 1, ch11, re -40}{83}{}
 {7}{O senhor sempre cumprimenta novos clientes dessa maneira?!}{}{5}{lf1 0, ch11, re -40}{83}{lf1 1}
-{8}{Acredito que Joachim deixou algo para mim...?}{}{5}{gf2306 1, ni5238}{166}{}
+{8}{Acredito que Joachim deixou algo para mim...?}{}{5}{gf2306 1, in-5238}{166}{}
 {13}{Olá, olá.}{}{-4}{lf1 0, re 41}{25}{lf1 1}
 {14}{Seu sujeito estúpido e maldoso.}{}{-4}{lf1 0, re -40}{19}{lf1 1}
 {15}{Falar com Estalajadeiro?}{}{-4}{lf1 1, re 41}{25}{}
 {16}{Eu pergunto, Innk'per tem perguntas para você?}{}{-4}{lf1 1, re -40}{140}{}
-{17}{Wa-keem deixou algo pra mim...?}{}{-4}{gf2306 1, ni5238}{166}{}
+{17}{Wa-keem deixou algo pra mim...?}{}{-4}{gf2306 1, in-5238}{166}{}
 {18}{E:}{}{1}{}{0}{}
 {19}{Nós não servimos o seu tipo aqui. Saia das dependências ou serei forçado a chamar a guarda.}{Nós não servimos o seu tipo aqui. Saia das dependências ou serei forçado a chamar a guarda.}{}{}{}{}
 {20}{Por favor, senhor, só desejo alugar um quarto.}{}{5}{lf 10 0}{100}{}
@@ -57,14 +57,14 @@
 {61}{O quê! Não fica mais barato ficar mais tempo?}{}{-4}{}{78}{}
 {62}{K:}{}{1}{lf 14 0}{35}{lf 14 1}
 {63}{F:}{}{1}{}{0}{re -2}
-{64}{Obrigado, senhor! O senhor encontrará seu quarto logo ali no corredor. O quarto estará à sua disposição apenas esta noite. A porta estará destrancada. Espero que aproveite sua estadia.}{Obrigado, minha senhora! A senhora encontrará seu quarto logo ali no corredor. O quarto estará à sua disposição apenas esta noite. A porta estará destrancada. Espero que aproveite sua estadia.}{}{}{}{}
+{64}{Obrigado, senhor! O senhor encontrará seu quarto logo ali no corredor. O quarto estará à sua disposição apenas esta noite. A porta estará destrancada. Espero que aproveite sua estadia.}{Obrigado, minha senhora! Seu quarto fica logo ali no corredor. Você poderá usar o quarto apenas esta noite. A porta ficará destrancada. Espero sinceramente que aproveite sua estadia.}{}{}{}{}
 {65}{Obrigado.}{}{5}{}{0}{}
 {66}{Hã... V-valeu.}{}{-4}{}{0}{}
 {67}{K:}{}{1}{}{35}{}
 {68}{C:}{}{1}{lf 14 0}{35}{lf 14 1}
 {69}{E:}{}{1}{}{0}{}
 {70}{}{}{}{}{}{}
-{71}{Obrigado, senhor! O senhor encontrará seu quarto logo ali no corredor. O quarto estará à sua disposição pelas próximas sete noites. A porta estará destrancada. Espero que aproveite sua estadia.}{Obrigado, minha senhora! A senhora encontrará seu quarto logo ali no corredor. O quarto estará à sua disposição pelas próximas sete noites. A porta estará destrancada. Espero que aproveite sua estadia.}{}{}{}{}
+{71}{Obrigado, senhor! O senhor encontrará seu quarto logo ali no corredor. O quarto estará à sua disposição pelas próximas sete noites. A porta estará destrancada. Espero que aproveite sua estadia.}{Obrigado, minha senhora! Seu quarto fica logo ali no corredor. Você poderá usá-lo pelas próximas sete noites. A porta ficará destrancada. Espero sinceramente que aproveite sua estadia.}{}{}{}{}
 {72}{Obrigado.}{}{5}{}{0}{}
 {73}{Hã... V-valeu.}{}{-4}{}{0}{}
 {74}{K:}{}{1}{}{35}{}

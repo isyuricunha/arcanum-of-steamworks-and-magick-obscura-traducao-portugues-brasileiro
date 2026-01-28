@@ -4,17 +4,17 @@
 {4}{Peço desculpas pela intrusão, mas eu esperava que pudesse me ajudar.}{}{5}{re 36,re -59,ra -6}{91}{re 40}
 {5}{Peço desculpas pela intrusão, mas eu esperava que pudesse me ajudar.}{}{5}{re 36,re -59,ra 6}{14}{re 50}
 {6}{Peço desculpas pela intrusão, mas eu esperava que pudesse me ajudar.}{}{5}{re 60}{11}{}
-{7}{Me disseram que o senhor poderia saber onde fica Qintarra...}{}{5}{qu1043 0, gf2754 1}{152}{}
+{7}{Me disseram que você talvez saiba onde fica Qintarra...}{}{5}{qu1043 0, gf2754 1}{152}{}
 {8}{Com licença. Vou me retirar.}{}{5}{}{0}{fl 89}
 {9}{Ugh.}{}{-4}{}{0}{fl 89}
-{10}{Onde é que o povo elfo vive??}{}{-4}{ss 8,ss-8}{237}{re 20}
-{11}{Não foi uma intrusão, meu amigo! Você apenas me assustou. O que posso fazer por você?}{Não foi uma intrusão, meu amigo! Você apenas me assustou. O que posso fazer por você?}{}{}{}{}
+{10}{Onde os elfos moram??}{}{-4}{ss 8,ss-8}{237}{re 20}
+{11}{Sem intromissão, meu amigo! Você apenas me assustou. O que posso fazer por você?}{Sem intromissão, meu amigo! Você apenas me assustou. O que posso fazer por você?}{}{}{}{}
 {12}{K:}{}{5}{}{91}{}
 {13}{E:}{}{5}{}{0}{}
 {14}{O problema com sua altura não é algo que eu possa resolver, meu amigo!}{O problema com sua altura não é algo que eu possa resolver, meu amigo!}{}{}{}{}
 {15}{[Sarcasmo.] Isso é MUITO engraçado.}{}{5}{}{18}{}
 {16}{Não vou aceitar esse tipo de besteira de um elfo!}{}{5}{}{21}{}
-{17}{Já estou de saco cheio de você e da sua boca. Adeus.}{}{5}{}{21}{}
+{17}{Já estou farto de você e da sua boca. Adeus.}{}{5}{}{21}{}
 {18}{Eu pensei que fosse... Então, o que posso fazer por você?}{Eu pensei que fosse... Então, o que posso fazer por você?}{}{}{}{}
 {19}{K:}{}{5}{}{91}{}
 {20}{E:}{}{5}{}{0}{}
@@ -22,28 +22,28 @@
 {22}{K:}{}{5}{}{91}{}
 {23}{Eu realmente preciso ir.}{}{5}{}{0}{re -5}
 {24}{G:}{G:}{}{}{}{}
-{25}{Onde é que o povo elfo vive??}{}{-4}{ss 8,ss-8,qu1043 0,qu 1018 2}{237}{}
-{26}{Achei coisa de pelo! Pra você!}{}{-4}{qu1043 2,in 5612,qu 1018 2}{250}{}
-{27}{Onde Gigante?}{}{-4}{qu1043 2,ni 5612,qu 1018 2}{246}{}
-{28}{Aqui. Gigante inteiro. [Mostrar a jaula para ele.]}{}{-4}{qu1043 2,in 5610,lf7 0,qu 1018 2}{261}{lf7 1}
-{29}{Eu capturei o Gigante. Dê uma olhada... [Mostrar a jaula para ele.]}{}{5}{qu1043 2,in 5610,lf7 0,qu 1018 2}{37}{lf7 1}
+{25}{Onde os elfos moram??}{}{-4}{ss 8,ss-8,qu1043 0,qu 1018 2}{237}{}
+{26}{Eu achei essa coisa de pele! Pra você!}{}{-4}{qu1043 2,in 5612,qu 1018 2}{250}{}
+{27}{Onde está o gigante?}{}{-4}{qu1043 2,ni 5612,qu 1018 2}{246}{}
+{28}{Aqui. O gigante inteiro. [Mostre-lhe a jaula.]}{}{-4}{qu1043 2,in 5610,lf7 0,qu 1018 2}{261}{lf7 1}
+{29}{Eu capturei o gigante. Dê uma olhada... [Mostre-lhe a jaula.]}{}{5}{qu1043 2,in 5610,lf7 0,qu 1018 2}{37}{lf7 1}
 {30}{Aqui... eu trouxe a pele para você...}{}{5}{qu1043 2,in 5612,qu 1018 2}{48}{}
-{31}{Não era essa pele que você queria?}{}{5}{lf16 1,lf17 0}{100}{lf17 1}
+{31}{Você não queria esta pele?}{}{5}{lf16 1,lf17 0}{100}{lf17 1}
 {32}{K:}{}{5}{}{91}{}
-{33}{Me disseram que você poderia saber onde fica Qintarra...}{}{5}{qu1043 0,qu 1018 2}{152}{}
+{33}{Me disseram que você talvez saiba onde fica Qintarra...}{}{5}{qu1043 0,qu 1018 2}{152}{}
 {34}{Falei com um zoólogo e ele disse que o Gigante de Stillwater é uma farsa.}{}{5}{qu1043 2,gf1054 1,gf1065 0,ni 5612,qu 1018 2}{57}{}
 {35}{Falei com um zoólogo e ele disse que o Gigante de Stillwater é uma farsa.}{}{5}{qu1043 2,gf1054 1,gf1065 1,ni 5612,qu 1018 2}{51}{}
 {36}{E:}{}{1}{}{0}{}
 {37}{O que você acha que eu sou, um simplório? Você vai ter que se esforçar mais do que isso. Como se eu fosse cair nessa enganação...!}{O que você acha que eu sou, um simplório? Você vai ter que se esforçar mais do que isso. Como se eu fosse cair nessa enganação...!}{}{}{}{}
-{38}{Esse é o Gigante! Mas ele está em sua forma de "coelho" agora...}{}{5}{}{41}{}
-{39}{Aqui. Isso vai te convencer? [Mostrar a pele para ele]}{}{5}{qu1043 2,in 5612}{48}{}
+{38}{Este é o gigante! Mas está em sua forma de "coelho" agora...}{}{5}{}{41}{}
+{39}{Aqui. Isso vai convencê-lo? [Mostre-lhe a pele.]}{}{5}{qu1043 2,in 5612}{48}{}
 {40}{Deixa pra lá, estou indo embora. Adeus.}{}{5}{}{0}{}
 {41}{Olha, amigo. Você sabe o que precisa ser feito. Chega dessa palhaçada! Quer dizer, eu gosto de uma boa brincadeira tanto quanto qualquer elfo... mas isso já é ridículo! Traga-me a pele, e eu lhe darei a informação que deseja...}{Olha, senhora. Você sabe o que precisa ser feito. Chega dessa palhaçada! Quer dizer, eu gosto de uma boa brincadeira tanto quanto qualquer elfo... mas isso já é ridículo! Traga-me a pele, e eu lhe darei a informação que deseja...}{}{}{}{}
 {42}{Mas...}{}{5}{}{44}{}
-{43}{Aqui. Isso vai te convencer? [Mostrar a pele para ele]}{}{5}{qu1043 2,in 5612}{48}{}
+{43}{Aqui. Isso vai convencê-lo? [Mostre-lhe a pele.]}{}{5}{qu1043 2,in 5612}{48}{}
 {44}{E uma pele de coelho tingida de azul também não vai colar.}{E uma pele de coelho tingida de azul também não vai colar.}{}{}{}{}
 {45}{K:}{}{5}{re 21}{91}{}
-{46}{Aqui. Isso vai te convencer? [Mostrar a pele para ele]}{}{5}{qu1043 2,in 5612}{48}{}
+{46}{Aqui. Isso vai convencê-lo? [Mostre-lhe a pele.]}{}{5}{qu1043 2,in 5612}{48}{}
 {47}{E:}{}{1}{}{0}{}
 {48}{[Uma expressão de verdadeiro choque passa pelo seu rosto] O quê!?}{[Uma expressão de verdadeiro choque passa pelo seu rosto] O quê!?}{}{}{}{}
 {49}{A pele que você queria. Aqui está.}{}{5}{}{203}{}
@@ -61,12 +61,12 @@
 {61}{K:}{}{5}{re 21}{91}{}
 {62}{E:}{}{5}{}{0}{}
 {63}{Você de novo. É melhor ter um bom motivo para me incomodar outra vez...}{Você de novo. É melhor ter um bom motivo para me incomodar outra vez...}{}{}{}{}
-{64}{Onde é que o povo élfico vive??}{}{-4}{ss 8,ss-8, qu1043 0}{237}{}
-{65}{Aqui. Trouxe para você a pele de um Gigante...}{}{5}{qu1043 2,in 5612}{48}{}
+{64}{Onde os elfos moram??}{}{-4}{ss 8,ss-8, qu1043 0}{237}{}
+{65}{Aqui. Eu trouxe a pele do gigante para você...}{}{5}{qu1043 2,in 5612}{48}{}
 {66}{Achei essa coisa de pele! Pra você.}{}{-4}{qu1043 2,in 5612}{250}{}
-{67}{Onde está o Gigante?}{}{-4}{qu1043 2,ni 5612}{246}{}
-{68}{Aqui! O Gigante inteiro! [Mostre a ele o <<<PH1>>> na jaula]}{}{-4}{qu1043 2,in 5610,lf7 0}{261}{}
-{69}{Eu capturei o Gigante. Dê uma olhada... [Mostre a ele a jaula.]}{}{5}{qu1043 2,in 5610,lf7 0}{37}{}
+{67}{Onde está o gigante?}{}{-4}{qu1043 2,ni 5612}{246}{}
+{68}{Aqui! O gigante inteiro! [Mostre-lhe a jaula.]}{}{-4}{qu1043 2,in 5610,lf7 0}{261}{}
+{69}{Eu capturei o gigante. Dê uma olhada... [Mostre-lhe a jaula.]}{}{5}{qu1043 2,in 5610,lf7 0}{37}{}
 {70}{Me disseram que você talvez saiba onde fica Qintarra...}{}{5}{qu1043 0}{152}{lf3 1}
 {71}{Tenho só uma pergunta... você poderia respondê-la para mim?}{}{5}{ch 10}{141}{}
 {72}{Tenho só uma pergunta... você poderia respondê-la para mim?}{}{5}{ch -9}{89}{}
@@ -78,8 +78,8 @@
 {78}{[Incrédulo.] O quê!? Uma farsa mesmo?}{[Incrédulo.] O quê!? Uma farsa mesmo?}{}{}{}{}
 {79}{Sim, foi o que ele disse.}{}{5}{}{81}{}
 {80}{Já estou farto dos seus jogos! [Ataque-o.]}{}{5}{}{0}{co}
-{81}{Ha! Claro que era uma farsa, seu cabeça-dura! Eu só estava tentando me livrar de você! Aqui, me dê seu mapa... você não só é irritante, como também é incrivelmente burro...}{Ha! Claro que era uma farsa, seu cabeça-dura! Eu só estava tentando me livrar de você! Aqui, me dê seu mapa... você não só é irritante, como também é incrivelmente burro...}{}{}{}{}
-{82}{[Entregue o mapa para ele]}{}{5}{}{84}{}
+{81}{Ha! Claro que era um embuste, seu cabeça-dura! Eu só estava tentando me livrar de você! Aqui, me dê seu mapa... você não só é irritante, como também é incrivelmente burro...}{Ha! Claro que era um embuste, seu cabeça-dura! Eu só estava tentando me livrar de você! Aqui, me dê seu mapa... você não só é irritante, como também é incrivelmente burro...}{}{}{}{}
+{82}{[Entregue-lhe seu mapa.]}{}{5}{}{84}{}
 {83}{Eu teria mais satisfação em te matar.}{}{5}{}{0}{co}
 {84}{É ali. E aqui está o passe que você vai precisar para chegar lá. [Ele aponta para um local no mapa. Depois o joga de volta para você] Agora, suma daqui! Nunca mais quero ver você!}{É ali. E aqui está o passe que você vai precisar para chegar lá. [Ele aponta para um local no mapa. Depois o joga de volta para você] Agora, suma daqui! Nunca mais quero ver você!}{}{}{}{mm 17, mm 6, qu1018 4, ss 9, gf2681 1}
 {85}{E:}{}{5}{}{0}{}
@@ -88,10 +88,10 @@
 {88}{E:}{}{5}{}{0}{}
 {89}{Eu recomendo que você vá embora o mais rápido possível.}{Eu recomendo que você vá embora o mais rápido possível.}{}{}{}{}
 {90}{E:}{}{5}{}{0}{}
-{91}{O que você deseja saber?}{O que é que você deseja saber?}{}{}{}{}
+{91}{O que é que você deseja saber?}{O que é que você deseja saber?}{}{}{}{}
 {92}{C:}{}{5}{ss -7}{106}{}
 {93}{Poderia me indicar como chegar à cidade élfica de Qintarra?}{}{5}{ss 8,ss-8,qu1043 0,qu 1018 2}{152}{lf3 1}
-{94}{Por favor, você não poderia me dizer onde fica Qintarra?}{}{5}{ss 8,ss-8,qu1043 2,qu 1018 2}{109}{lf3 1}
+{94}{Por favor, você pode me dizer onde fica Qintarra?}{}{5}{ss 8,ss-8,qu1043 2,qu 1018 2}{109}{lf3 1}
 {95}{C:}{}{5}{ss 9}{106}{}
 {96}{Você é da cidade élfica de Qintarra?}{}{5}{lf1 0,lf3 1}{397}{lf1 1}
 {97}{Por que você mora aqui e não em Qintarra?}{}{5}{lf1 1, lf2 0,lf3 1,ra 3}{402}{lf2 1}
@@ -128,7 +128,7 @@
 {128}{Nunca tinha percebido como um elfo bravo fica ridículo...}{}{5}{}{0}{co}
 {129}{Vou fazer isso. Tenha um bom dia, senhor...}{}{5}{}{0}{}
 {130}{Não estou procurando encrenca aqui. Por favor, me deixe em paz...}{Não estou procurando encrenca aqui. Por favor, me deixe em paz...}{}{}{}{}
-{131}{Há um problema... você já o encontrou, e é grave. [Ataque.]}{}{5}{}{0}{co}
+{131}{Há um problema... você já a encontrou, e está ruim. [Ataque.]}{}{5}{}{0}{co}
 {132}{Tudo bem. Vou deixá-lo...}{}{5}{}{0}{}
 {133}{Depressa. O que, exatamente, você quer de mim?}{Depressa. O que, exatamente, você quer de mim?}{}{}{}{}
 {134}{Posso lhe fazer uma pergunta?}{}{5}{}{135}{}
@@ -144,12 +144,12 @@
 {144}{Poderia, por favor, me indicar o caminho para a cidade élfica de Qintarra?}{}{5}{ss 8,ss-8,qu1043 2,qu1018 2}{0}{fl 265}
 {145}{C:}{}{5}{ss 9}{147}{}
 {146}{Todos os elfos são tão rudes quanto você?}{}{5}{ra -3}{89}{}
-{147}{Suas perguntas foram respondidas. Vá embora. Agora.}{Suas perguntas foram respondidas. Vá embora. Agora.}{}{}{}{lf0 1}
+{147}{Sua pergunta foi respondida. Saia. Agora.}{Sua pergunta foi respondida. Saia. Agora.}{}{}{}{lf0 1}
 {148}{Tudo bem. Vou deixá-lo...}{}{5}{}{0}{}
 {149}{Já tive o suficiente de você! Saia daqui!}{Já tive o suficiente de você! Saia daqui!}{}{}{}{}
 {150}{Tudo bem. Vou deixá-lo...}{}{5}{}{0}{}
 {151}{Não até que você responda à minha pergunta...}{}{5}{}{0}{co}
-{152}{Qintarra? Você procura Qintarra?}{Qintarra? Você procura por Qintarra?}{}{}{}{}
+{152}{Qintarra? Você procura por Qintarra?}{Qintarra? Você procura por Qintarra?}{}{}{}{}
 {153}{Sim, foi o que eu disse. Você sabe onde fica?}{}{5}{ra -3}{155}{lf15 1}
 {154}{Sim. Você sabe onde fica?}{}{5}{ra 3}{267}{lf15 1}
 {155}{Fica na floresta. Até um tolo sabe disso.}{Fica na floresta. Até um tolo sabe disso.}{}{}{}{}
@@ -169,19 +169,19 @@
 {169}{Em quais árvores?!}{}{5}{lf14 0}{164}{lf14 1}
 {170}{Por favor. É urgente que eu encontre Qintarra...}{}{5}{}{173}{}
 {171}{Acho que vou ter que arrancar a informação de você, então...}{}{5}{lf15 1}{0}{co}
-{172}{Esquece. Isso é perda de tempo. Adeus.}{}{5}{}{0}{re -10}
+{172}{Esqueça. Isso é perda de tempo. Adeus.}{}{5}{}{0}{re -10}
 {173}{Por que é tão importante que você encontre Qintarra, se não se importa que eu pergunte?}{Por que é tão importante que você encontre Qintarra, se não se importa que eu pergunte?}{}{}{}{}
 {174}{Não, não me importo nem um pouco que pergunte.}{}{5}{}{176}{}
 {175}{Por favor, apenas me diga o que preciso saber.}{}{5}{lf13 0}{155}{lf13 1}
 {176}{E então? ... Por que é tão importante?}{E então? ... Por que é tão importante?}{}{}{}{}
-{177}{Um clã inteiro de Anões desapareceu...}{}{5}{lf12 0}{189}{}
-{178}{[Deixe-o esperar]}{}{5}{}{180}{}
+{177}{Um clã inteiro de anões desapareceu...}{}{5}{lf12 0}{189}{}
+{178}{[Deixe-o esperar.]}{}{5}{}{180}{}
 {179}{Esquece.}{}{5}{}{0}{}
 {180}{Bem...?}{Bem...?}{}{}{}{}
-{181}{Um clã inteiro de Anões desapareceu...}{}{5}{lf12 0}{189}{lf12 1}
-{182}{[Deixe-o esperar]}{}{5}{}{183}{}
+{181}{Um clã inteiro de anões desapareceu...}{}{5}{lf12 0}{189}{lf12 1}
+{182}{[Deixe-o esperar.]}{}{5}{}{183}{}
 {183}{Bem, você vai me contar ou não?}{Bem, você vai me contar ou não?}{}{}{}{}
-{184}{Tudo bem... um clã inteiro de Anões desapareceu...}{}{5}{lf12 0}{191}{lf12 1}
+{184}{Tudo bem... um clã inteiro de anões desapareceu...}{}{5}{lf12 0}{191}{lf12 1}
 {185}{Eu disse que não me importava que você perguntasse, não que eu contaria.}{}{5}{}{187}{}
 {186}{Você me entedia. Vou encontrar a informação de outro jeito.}{}{5}{}{0}{re -10}
 {187}{Ha! Muito bom! Um homem do meu coração! [Ri] Qintarra... sim, eu sei onde fica.}{Ha! Muito bom! Uma mulher do meu coração! [Ri] Qintarra... sim, eu sei onde fica.}{}{}{}{re +10}
@@ -205,25 +205,25 @@
 {205}{É uma longa história, mas eu capturei e esfolou um sozinho...}{}{5}{re 21}{207}{re -10}
 {206}{Na verdade, eu roubei do museu de H.T. Parnell em Tarant...}{}{5}{}{223}{re +10}
 {207}{[Seu sorriso some.] Acho difícil de acreditar, amigo.}{[Seu sorriso some.] Acho difícil de acreditar, senhora.}{}{}{}{}
-{209}{Sim! Eu sei... achei difícil de acreditar também! Mas é verdade...}{}{5}{ps 8}{211}{}
+{209}{Sim! Eu sei... achei difícil acreditar também! Mas é verdade...}{}{5}{ps 8}{211}{}
 {210}{Na verdade, eu roubei do museu de H.T. Parnell em Tarant...}{}{5}{}{223}{}
 {211}{[Impressionado.] Eu pensei... pensei que fosse apenas uma lenda! Como conseguiu?}{[Impressionado.] Eu pensei... pensei que fosse apenas uma lenda! Como conseguiu?}{}{}{}{re +10,in 5612,qu1043 4}
 {212}{Os detalhes são assustadores e macabros... mas eu venci.}{}{5}{}{213}{}
 {213}{Verdadeiramente impressionante. Conheci poucos homens como você...}{Verdadeiramente impressionante. Conheci poucas mulheres como você...}{}{}{}{}
 {214}{Meus agradecimentos. E Qintarra? Pode me dizer onde fica?}{}{5}{}{215}{}
-{215}{Ah, sim! Claro! Suas façanhas lhe garantiram esse direito. Qintarra fica bem ali, e aqui está a passagem nas montanhas que você precisará seguir para chegar lá. [Ele aponta para um local no seu mapa]}{Ah, sim! Claro! Suas façanhas lhe garantiram esse direito. Qintarra fica bem ali, e aqui está a passagem nas montanhas que você precisará seguir para chegar lá. [Ele aponta para um local no seu mapa]}{}{}{}{mm17, re +5,mm 6,qu1018 4,ss 9, gf2681 1}
+{215}{Oh, sim! Claro! Seus feitos lhe garantiram esse direito. Qintarra fica logo ali, e aqui está a passagem nas montanhas que você precisará tomar para chegar lá. [Ele aponta para um local no seu mapa.]}{Oh, sim! Claro! Seus feitos lhe garantiram esse direito. Qintarra fica logo ali, e aqui está a passagem nas montanhas que você precisará tomar para chegar lá. [Ele aponta para um local no seu mapa.]}{}{}{}{mm17, re +5,mm 6,qu1018 4,ss 9, gf2681 1}
 {216}{K:}{}{5}{re 50}{91}{}
 {217}{E:}{}{5}{}{0}{}
 {218}{Impossível, seu imbecil! O Gigante de Stillwater é apenas uma lenda, um conto de parteiras! Eu só o mandei procurá-lo porque achei que nunca voltaria! Você era um incômodo, e era a maneira mais fácil de me livrar de você...}{Impossível, seu imbecil! O Gigante de Stillwater é apenas uma lenda, um conto de parteiras! Eu só o mandei procurá-lo porque achei que nunca voltaria! Você era um incômodo, e era a maneira mais fácil de me livrar de você...}{}{}{}{lf16 1,qu1043 4}
 {219}{Tudo bem. Apenas me diga a localização de Qintarra e se livre de mim...}{}{5}{}{221}{}
 {220}{Entendo. Talvez eu apenas arranque a informação de você à força.}{}{5}{}{0}{co}
 {221}{Tudo bem! Me dê seu mapa!}{Tudo bem! Me dê seu mapa!}{}{}{}{gf2681 1}
-{222}{[Entregue o mapa a ele]}{}{5}{}{84}{}
-{223}{Ha! Muito bom! Você é esperto e também um bom esportista! Você mereceu saber a localização de Qintarra. Deixe-me mostrar no seu mapa... [ele mostra dois locais no seu mapa]... e aqui está a passagem nas montanhas que você precisará seguir para chegar lá.}{Ha! Muito bom! Você é esperta e também uma boa esportista! Você mereceu saber a localização de Qintarra. Deixe-me mostrar no seu mapa... [ele mostra dois locais no seu mapa]... e aqui está a passagem nas montanhas que você precisará seguir para chegar lá.}{}{}{}{qu1043 4, qu1018 4,lf16 1, mm17, mm6, ss9, gf2702 1, gf2681 1}
+{222}{[Entregue-lhe seu mapa.]}{}{5}{}{84}{}
+{223}{Ha! Muito bom! Você é esperta e também uma boa esportista! Você mereceu saber a localização de Qintarra. Deixe-me mostrar no seu mapa... [ele mostra dois locais no seu mapa]... e aqui está a passagem nas montanhas que você precisará seguir para chegar lá.}{Ha! Muito bom! Você é esperta e também uma boa esportista! Você mereceu saber a localização de Qintarra. Deixe-me mostrar no seu mapa... [ele mostra dois locais no seu mapa]... e aqui está a passagem nas montanhas que você precisará seguir para chegar lá.}{}{}{}{qu1043 4, qu1018 4,lf16 1, mm17, mm6, ss9, gf2702 1, gf2681 1}
 {224}{A:}{}{5}{}{0}{}
 {225}{K:}{}{5}{re 21}{91}{}
 {226}{Recomendo que fale com Stanley Xavier Hippington... ele é o especialista local no Gigante de Stillwater.}{Recomendo que fale com Stanley Xavier Hippington... ele é o especialista local no Gigante de Stillwater.}{}{}{}{}
-{227}{O que pode me contar sobre esse Gigante de Stillwater?}{}{5}{lf4 0}{230}{lf4 1}
+{227}{O que você pode me contar sobre esse Gigante de Stillwater?}{}{5}{lf4 0}{230}{lf4 1}
 {228}{A mesma criatura da qual ergueram uma estátua na praça da cidade?}{}{5}{gf1067 1,lf6 0}{234}{lf6 1}
 {229}{E:}{}{5}{}{0}{}
 {230}{É uma criatura antiga e mística. De uma época anterior à Era das Lendas. Uma fera temível, conhecida por possuir poderes mágicos.}{É uma criatura antiga e mística. De uma época anterior à Era das Lendas. Uma fera temível, conhecida por possuir poderes mágicos.}{}{}{}{}
@@ -235,7 +235,7 @@
 {236}{E onde eu poderia encontrá-lo?}{}{5}{lf5 0}{226}{lf5 1}
 {237}{Qintarra?}{Qintarra?}{}{}{}{}
 {238}{Onde?}{}{-4}{}{239}{}
-{239}{Eu diria que sua idiotice faz de você um candidato improvável para descobrir a localização de Qintarra...}{Eu diria que sua idiotice faz de você um candidato improvável para descobrir a localização de Qintarra...}{}{}{}{}
+{239}{Eu diria que sua idiotice faz de você um candidato improvável para encontrar a localização de Qintarra...}{Eu diria que sua idiotice faz de você um candidato improvável para encontrar a localização de Qintarra...}{}{}{}{}
 {240}{Eu sei... Onde Kinn...Tar... A.}{}{-4}{}{241}{}
 {241}{Tudo bem. [Ele pensa por um momento.]}{Tudo bem. [Ele pensa por um momento.]}{}{}{}{}
 {242}{Merf??}{}{-4}{}{244}{}
@@ -248,7 +248,7 @@
 {249}{Ele está por aí... aqui em Stillwater. Você vai encontrá-lo. Agora vá embora.}{Ele está por aí... aqui em Stillwater. Você vai encontrá-lo. Agora vá embora.}{}{}{}{}
 {250}{[Uma expressão de verdadeiro choque passa pelo seu rosto.] O quê!?}{[Uma expressão de verdadeiro choque passa pelo seu rosto.] O quê!?}{}{}{}{}
 {251}{Eu encontrei para você! Aqui, olhe!}{}{-4}{}{252}{}
-{252}{Isso é uma pele de urso velha e mofada com galhadas presas nela.}{Isso é uma velha pele de urso mofada com chifres enfiados nela.}{}{}{}{}
+{252}{Isso é uma velha pele de urso mofada com chifres enfiados nela.}{Isso é uma velha pele de urso mofada com chifres enfiados nela.}{}{}{}{}
 {253}{Não. Eu peguei do mus... eu... eu, é reeeal.}{}{-4}{}{254}{re +40}
 {254}{[Ele se dobra ao meio, rindo descontroladamente.]}{[Ele se dobra ao meio, rindo descontroladamente.]}{}{}{}{}
 {255}{Do que você está rindo???}{}{-4}{}{257}{}
@@ -257,7 +257,7 @@
 {258}{Você me diz onde fica Kinn... Tar... A.}{}{-4}{}{259}{}
 {259}{Claro. Claro... Fica logo ali. E aqui está a passagem nas montanhas que você precisará seguir para chegar lá. [Ele aponta para um local no seu mapa.] Boa sorte. Talvez você não seja tão desamparado quanto eu pensava...}{Claro. Claro... Fica logo ali. E aqui está a passagem nas montanhas que você precisará seguir para chegar lá. [Ele aponta para um local no seu mapa.] Boa sorte. Talvez você não seja tão desamparado quanto eu pensava...}{}{}{}{mm 6,qu1018 4,ss 9, mm17,qu1043 4, gf2681 1}
 {260}{Tchauzinho.}{}{-4}{}{0}{}
-{261}{O quê? Isso não é um Gigante! Isso é um coelho, seu idiota!? E ainda por cima um azul! Traga-me a pele do Gigante se quiser saber onde fica Qintarra!}{O quê? Isso não é um Gigante! Isso é um coelho, seu idiota!? E ainda por cima um azul! Traga-me a pele do Gigante se quiser saber onde fica Qintarra!}{}{}{}{}
+{261}{O quê? Isso não é um gigante! Isso é um coelho, seu idiota! E ainda por cima azul! Traga-me a pele do gigante se quiser saber onde fica Qintarra!}{O quê? Isso não é um gigante! Isso é um coelho, seu idiota! E ainda por cima azul! Traga-me a pele do gigante se quiser saber onde fica Qintarra!}{}{}{}{}
 {262}{Tá bom...}{}{-4}{}{0}{fl 263}
 {263}{E não quero que você volte aqui com a pele de um coelho azul, também...}{E não quero que você volte aqui com a pele de um coelho azul, também...}{}{}{}{}
 {264}{Volte amanhã...}{Volte amanhã...}{}{}{}{}
@@ -274,7 +274,7 @@
 {276}{[É óbvio que ele não acredita em você.] [Sarcasticamente] Claro. Um elfo de alguma terra distante apareceu à minha porta e está pedindo direções para Qintarra... Acontece todo dia.}{[É óbvio que ele não acredita em você.] [Sarcasticamente] Claro. Um elfo de alguma terra distante apareceu à minha porta e está pedindo direções para Qintarra... Acontece todo dia.}{}{}{}{}
 {277}{É verdade! Agora, por favor! Preciso saber a localização.}{}{5}{}{155}{}
 {278}{E:}{}{1}{}{0}{}
-{279}{Ah... Isso explica muita coisa. Bem, permita-me ajudá-lo em sua jornada, senhor. [Ele aponta um local no seu mapa] Ali fica Qintarra. Mas cuidado. O caminho para Qintarra passa pelo Passo de Hardin, um lugar perigoso cheio de feras ferozes e placas de gelo traiçoeiras. Desejo-lhe uma boa viagem. Seja cauteloso em sua jornada, irmão.}{[Ele cora levemente] Ah... Isso explica muita coisa, madame. Bem, permita-me ajudá-la em sua jornada. [Ele aponta um local no seu mapa] Ali fica Qintarra. Mas você deve ter cuidado! O caminho para Qintarra passa pelo Passo de Hardin, um lugar perigoso cheio de feras ferozes e placas de gelo traiçoeiras. Desejo-lhe uma viagem segura, @pcname@.}{}{}{}{mm17,mm 6,qu1018 4,ss 9}
+{279}{Ah... Isso explica muita coisa. Bem, permita-me ajudá-lo em sua jornada, senhor. [Ele aponta um local em seu mapa.] Ali fica Qintarra. Mas cuidado. O caminho para Qintarra passa pelo Passo de Hardin, um lugar perigoso repleto de feras selvagens e placas de gelo traiçoeiras. Desejo-lhe uma boa viagem. Seja cauteloso em sua jornada, irmão.}{[Ele cora levemente] Ah... Isso explica muita coisa, madame. Bem, permita-me ajudá-la em sua jornada. [Ele aponta um local em seu mapa.] Ali fica Qintarra. Mas você deve ser cautelosa! O caminho para Qintarra passa pelo Passo de Hardin, um lugar perigoso repleto de feras selvagens e placas de gelo traiçoeiras. Desejo-lhe uma viagem segura, @pcname@.}{}{}{}{mm17,mm 6,qu1018 4,ss 9}
 {280}{Obrigado.}{}{5}{}{0}{}
 {281}{E:}{}{1}{}{0}{}
 {372}{Está tão escuro... tão frio... por quê...?}{Está tão escuro... frio... por quê...?}{}{}{}{}
@@ -299,7 +299,7 @@
 {391}{Árvores....}{Árvores....}{}{}{}{}
 {392}{Onde vivem os elfos de Qintarra?}{}{5}{}{393}{}
 {393}{Talans....}{Talans....}{}{}{}{}
-{394}{Aqui, me mostre. [Segure seu mapa diante do espírito.]}{}{5}{}{395}{}
+{394}{Aqui, mostre-me. [Erga seu mapa para o espírito.]}{}{5}{}{395}{}
 {395}{Aqui... [A aparição aponta para um local nas profundezas da Floresta Cintilante.]...e aqui está a passagem nas montanhas que você precisará usar para chegar lá...}{Aqui... [A aparição aponta para um local nas profundezas da Floresta Cintilante.]...e aqui está a passagem nas montanhas que você precisará usar para chegar lá...}{}{}{}{mm 6,qu1018 4,ss 9, mm17}
 {396}{Descanse em paz.}{}{5}{}{0}{}
 {397}{Sim. Eu sou de Qintarra.}{Sim. Eu sou de Qintarra.}{}{}{}{}
@@ -310,20 +310,20 @@
 {402}{Sabe... ser elfo é assim às vezes. Temos a tendência de ficar inquietos, buscar novas experiências. A cada cem anos ou mais, eu sigo em frente, assumo uma nova identidade, tento algo diferente...}{Sabe... ser elfo é assim às vezes. Temos a tendência de ficar inquietos, buscar novas experiências. A cada cem anos ou mais, eu sigo em frente, assumo uma nova identidade, tento algo diferente...}{}{}{}{}
 {403}{K:}{}{5}{}{91}{}
 {404}{E:}{}{1}{}{0}{}
-{405}{Você pode não saber disso, mas poucos elfos ficam em um só lugar por muito tempo. A maioria assume novas vidas a cada 100 anos ou mais. É simplesmente como somos...}{Você pode não saber disso, mas poucos elfos ficam em um só lugar por muito tempo. A maioria assume novas vidas a cada 100 anos ou mais. É simplesmente como somos...}{}{}{}{}
+{405}{Você pode não saber disso, mas poucos elfos ficam em um mesmo lugar por muito tempo. A maioria dos elfos começa uma nova vida a cada 100 anos ou mais. É simplesmente como somos...}{Você pode não saber disso, mas poucos elfos ficam em um mesmo lugar por muito tempo. A maioria dos elfos começa uma nova vida a cada 100 anos ou mais. É simplesmente como somos...}{}{}{}{}
 {406}{K:}{}{5}{}{91}{}
 {407}{E:}{}{1}{}{0}{}
 {408}{G:}{G:}{}{}{}{}
 {409}{Onde os elfos moram??}{}{-4}{ss 8,ss-8,qu1043 0}{237}{}
 {410}{Eu achei essa coisa de pele! Pra você!}{}{-4}{qu1043 2,in 5612}{250}{}
-{411}{Onde está o Gigante?}{}{-4}{qu1043 2,ni 5612}{246}{}
-{412}{Aqui. O Gigante inteiro. [Mostre a ele a jaula.]}{}{-4}{qu1043 2,in 5610,lf7 0}{261}{lf7 1}
+{411}{Onde está o gigante?}{}{-4}{qu1043 2,ni 5612}{246}{}
+{412}{Aqui. O gigante inteiro. [Mostre-lhe a jaula.]}{}{-4}{qu1043 2,in 5610,lf7 0}{261}{lf7 1}
 {413}{Oi, Merf!}{}{-4}{qu1043 4}{0}{fl 418}
 {414}{Você não quer a pele do gigante.}{}{-4}{qu1043 4,in 5612}{422}{}
 {415}{Você está me enganando. Eu não gosto de você.}{}{-4}{qu1043 4}{0}{re -10, fl 421}
-{418}{Espero que não haja ressentimentos, meu amigo simples. Você foi um bom esportista.}{Espero que não haja ressentimentos, meu amigo simples. Você foi um bom esportista.}{}{}{}{}
-{421}{Acho que você é burro demais para entender uma piada. Espero que não seja burro demais para sair... Agora vá embora.}{Acho que você é burro demais para entender uma piada. Espero que não seja burro demais para sair... Agora vá embora.}{}{}{}{}
-{422}{Não, não. Tudo bem, você pode ficar com isso.}{Não, não. Tudo bem, você pode ficar com isso.}{}{}{}{}
+{418}{Espero que não haja ressentimentos, meu simples amigo. Você foi um bom esportista.}{Espero que não haja ressentimentos, meu simples amigo. Você foi um bom esportista.}{}{}{}{}
+{421}{Acho que você é burro demais para entender uma piada. Espero que não seja burro demais para ir embora... Agora suma daqui.}{Acho que você é burro demais para entender uma piada. Espero que não seja burro demais para ir embora... Agora suma daqui.}{}{}{}{}
+{422}{Não, não. Tudo bem, pode ficar com isso.}{Não, não. Tudo bem, pode ficar com isso.}{}{}{}{}
 {423}{Hmm...? Tá bom, tchau.}{}{-4}{}{0}{}
 {424}{Você não é legal, você me engana! Eu não gosto de você.}{}{-4}{}{0}{re -10, fl 421}
 
