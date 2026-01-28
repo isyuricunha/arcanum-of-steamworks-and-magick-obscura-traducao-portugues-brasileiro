@@ -67,6 +67,10 @@ jobs:
           if [[ "${GITHUB_REF:-}" != refs/tags/* ]]; then
             tag_name="${{ steps.set_tag.outputs.tag_name }}"
 
+            # Configure git user for tag creation
+            git config user.name "GitHub Actions"
+            git config user.email "actions@github.com"
+
             # Create annotated tag
             git tag -a "$tag_name" -m "Automated release $tag_name"
 
