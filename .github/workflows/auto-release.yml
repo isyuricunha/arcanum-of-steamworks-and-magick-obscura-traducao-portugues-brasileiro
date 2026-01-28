@@ -2,6 +2,8 @@ name: deploy release and notes / change logs
 
 on:
   push:
+    branches:
+      - main
     tags:
       - 'v*'
   workflow_dispatch:
@@ -22,16 +24,6 @@ jobs:
           fetch-depth: 0
           fetch-tags: true
 
-      - name: validate tag ref
-        shell: bash
-        run: |
-          set -euo pipefail
-          # Allow workflow to run for tags or manual dispatch
-          if [[ "${GITHUB_EVENT_NAME}" == "push" && "${GITHUB_REF:-}" != refs/tags/* ]]; then
-            echo "This workflow must be triggered by a tag ref (refs/tags/v*)."
-            exit 1
-          fi
-
       - name: set tag name
         id: set_tag
         shell: bash
@@ -40,9 +32,46 @@ jobs:
           if [[ "${GITHUB_EVENT_NAME}" == "workflow_dispatch" ]]; then
             # For manual testing, use a default tag or allow input
             echo "tag_name=test-release-$(date +%Y%m%d%H%M%S)" >> "$GITHUB_OUTPUT"
-          else
+          elif [[ "${GITHUB_REF:-}" == refs/tags/* ]]; then
             # For tag pushes, use the actual tag name
             echo "tag_name=${GITHUB_REF_NAME}" >> "$GITHUB_OUTPUT"
+          else
+            # For branch pushes, generate a version tag automatically
+            # Get the latest tag and increment version
+            latest_tag=$(git describe --tags --match 'v*' --abbrev=0 2>/dev/null || echo "v0.0.0")
+
+            # Extract version components
+            if [[ "$latest_tag" =~ ^v([0-9]+)\.([0-9]+)\.([0-9]+)$ ]]; then
+              major=${BASH_REMATCH[1]}
+              minor=${BASH_REMATCH[2]}
+              patch=${BASH_REMATCH[3]}
+
+              # Increment patch version
+              new_patch=$((patch + 1))
+              new_tag="v${major}.${minor}.${new_patch}"
+            else
+              # Fallback if version format is not recognized
+              new_tag="v1.0.0"
+            fi
+
+            echo "tag_name=${new_tag}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: create and push tag
+        if: github.event_name == 'push' && !contains(github.ref, 'refs/tags/')
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          # Only create tag for branch pushes, not for existing tag pushes
+          if [[ "${GITHUB_REF:-}" != refs/tags/* ]]; then
+            tag_name="${{ steps.set_tag.outputs.tag_name }}"
+
+            # Create annotated tag
+            git tag -a "$tag_name" -m "Automated release $tag_name"
+
+            # Push tag to repository
+            git push origin "$tag_name"
           fi
 
       # DO MY BUILD HERE
