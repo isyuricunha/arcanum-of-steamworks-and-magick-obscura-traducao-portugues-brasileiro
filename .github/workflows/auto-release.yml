@@ -26,9 +26,23 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          if [[ "${GITHUB_REF:-}" != refs/tags/* ]]; then
+          # Allow workflow to run for tags or manual dispatch
+          if [[ "${GITHUB_EVENT_NAME}" == "push" && "${GITHUB_REF:-}" != refs/tags/* ]]; then
             echo "This workflow must be triggered by a tag ref (refs/tags/v*)."
             exit 1
+          fi
+
+      - name: set tag name
+        id: set_tag
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [[ "${GITHUB_EVENT_NAME}" == "workflow_dispatch" ]]; then
+            # For manual testing, use a default tag or allow input
+            echo "tag_name=test-release-$(date +%Y%m%d%H%M%S)" >> "$GITHUB_OUTPUT"
+          else
+            # For tag pushes, use the actual tag name
+            echo "tag_name=${GITHUB_REF_NAME}" >> "$GITHUB_OUTPUT"
           fi
 
       # DO MY BUILD HERE
@@ -49,7 +63,7 @@ jobs:
         run: |
           set -euo pipefail
 
-          current_tag="${GITHUB_REF_NAME}"
+          current_tag="${{ steps.set_tag.outputs.tag_name }}"
 
           previous_tag=$(git describe --tags --abbrev=0 --match 'v*' "${current_tag}^" 2>/dev/null || true)
 
@@ -116,7 +130,7 @@ jobs:
         run: |
           set -euo pipefail
 
-          current_tag="${GITHUB_REF_NAME}"
+          current_tag="${{ steps.set_tag.outputs.tag_name }}"
           title="Release ${current_tag}"
 
           shopt -s nullglob
