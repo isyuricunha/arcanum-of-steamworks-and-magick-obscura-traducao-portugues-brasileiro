@@ -1,0 +1,286 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá. E quem seria você?}{}{5}{lf1 0}{10}{lf1 1}
+{3}{Olá, Hadrian. Poderia me conceder alguns minutos?}{}{5}{lf1 1}{20}{}
+{4}{Oi! Eu num ser mui esperto! Quem ocê?}{}{-4}{lf1 0}{10}{lf1 1}
+{5}{Oi, Hagian! Tenho algumas perguntas..!}{}{-4}{lf 1 1}{322}{}
+{6}{E:}{}{5}{}{0}{}
+{7}{E:}{}{-4}{}{0}{}
+{10}{[O homem à sua frente é um gnomo velho e enrugado, com cabelos grisalhos desgrenhados e uma barba de três dias. Ele olha para você, sorrindo sem dentes.] Pode me chamar de Hadrian! Acólito dos Panarii e especialista local em arqueologia da igreja. Como posso ajudá-lo hoje?}{[O homem à sua frente é um gnomo velho e enrugado, com cabelos grisalhos desgrenhados e uma barba de três dias. Ele olha para você, sorrindo sem dentes.] Pode me chamar de Hadrian! Acólito dos Panarii e especialista local em arqueologia da igreja. Como posso ajudá-lo hoje?}{}{}{}{}
+{11}{Saudações, sou @PCNAME@. Posso falar com você um momento?}{}{5}{}{20}{}
+{12}{Oi, Hagian! Prazer em conhecê-lo! Tenho algumas perguntas!}{}{-4}{}{322}{}
+{20}{Certamente...}{Certamente...}{}{}{}{}
+{21}{Vamos falar sobre o seu trabalho...}{}{5}{}{31}{}
+{22}{Ainda tenho perguntas sobre os restos mortais de Nasrudin...}{}{5}{lf11 1, lf2 0, lf3 0, lf4 0, qb1049 1}{116}{}
+{23}{Ainda preciso ver os restos mortais de Nasrudin...}{}{5}{gf2016 0, lf2 1, lf4 0, qb1049 1}{123}{}
+{24}{Ainda preciso ver os restos mortais de Nasrudin...}{}{5}{gf2016 0, lf4 1, lf2 0, qb1049 1}{173}{}
+{25}{Ainda estou procurando pelos restos mortais de Nasrudin...}{}{5}{qu1049 2, gf2016 0}{184}{}
+{26}{Voltei da cripta...}{}{5}{gf2016 1, lf12 0}{189}{}
+{27}{Voltei da cripta...}{}{5}{gf2016 1, lf12 1}{273}{}
+{28}{E:}{}{5}{}{0}{}
+{31}{O que você gostaria de saber?}{O que você gostaria de saber?}{}{}{}{}
+{32}{Fale-me sobre alguns dos objetos que você tem aqui...}{}{5}{}{39}{}
+{33}{O que você sabe sobre os restos mortais de Nasrudin?}{}{5}{}{46}{}
+{34}{Mais algumas perguntas gerais...}{}{5}{}{20}{}
+{35}{E:}{}{5}{}{0}{}
+{39}{Sobre o que você gostaria de saber?}{Sobre o que você gostaria de saber?}{}{}{}{}
+{40}{O que é isso? Um dedo de esqueleto?}{}{5}{}{280}{}
+{41}{O que é esse dispositivo de vidro?}{}{5}{}{307}{}
+{42}{O que é essa gema negra?}{}{5}{}{298}{}
+{43}{Eles estão à venda?}{}{5}{}{400}{}
+{44}{Vamos falar sobre o seu trabalho...}{}{5}{}{31}{}
+{46}{Os restos mortais de Nasrudin? O que gostaria de saber sobre eles?}{Os restos mortais de Nasrudin? O que gostaria de saber sobre eles?}{}{}{}{}
+{47}{Onde eles estão?}{}{5}{}{53}{}
+{48}{Você já os viu?}{}{5}{lf10 0}{64}{lf10 1}
+{49}{Quem os encontrou?}{}{5}{}{59}{}
+{50}{Algumas perguntas mais gerais sobre o seu trabalho...}{}{5}{}{31}{}
+{51}{E:}{}{5}{}{0}{}
+{53}{Eles estão guardados nas antigas catacumbas sob o Templo. O Primeiro Acólito, Alexander, pode orientá-lo se tiver problemas para encontrá-las.}{Eles estão guardados nas antigas catacumbas sob o Templo. O Primeiro Acólito, Alexander, pode orientá-lo se tiver problemas para encontrá-las.}{}{}{}{}
+{54}{Você os viu?}{}{5}{lf10 0}{64}{lf10 1}
+{55}{Quem os encontrou?}{}{5}{}{59}{}
+{56}{Mais algumas perguntas gerais sobre o seu trabalho...}{}{5}{}{31}{}
+{57}{E:}{}{5}{}{0}{}
+{59}{A câmara mortuária e o sarcófago foram encontrados por um dos elfos da antiga igreja... o nome me escapa, mas se você falar com Gunther Willhelm sobre isso, ele poderá lhe dar os detalhes. A igreja foi então construída sobre as catacumbas.}{A câmara mortuária e o sarcófago foram encontrados por um dos elfos da antiga igreja... o nome me escapa, mas se você falar com Gunther Willhelm sobre isso, ele poderá lhe dar os detalhes. A igreja foi então construída sobre as catacumbas.}{}{}{}{}
+{60}{Você os viu?}{}{5}{lf10 0}{64}{lf10 1}
+{61}{Mais algumas perguntas gerais sobre o seu trabalho...}{}{5}{}{31}{}
+{62}{E:}{}{5}{}{0}{}
+{64}{[Sua testa se franze.] Não, e eu faria qualquer coisa para ver aqueles velhos ossos dele! Há tantas perguntas que eu poderia responder se pudesse dar uma olhada neles! Quando ele morreu, como ele morreu... quero saber se sua estrutura esquelética é igual à dos elfos comuns, ou se o uso prolongado de magias poderosas o mudou de alguma forma... tantas perguntas! E eu nunca consegui vê-los!}{[Sua testa se franze.] Não, e eu faria qualquer coisa para ver aqueles velhos ossos dele! Há tantas perguntas que eu poderia responder se pudesse dar uma olhada neles! Quando ele morreu, como ele morreu... quero saber se sua estrutura esquelética é igual à dos elfos comuns, ou se o uso prolongado de magias poderosas o mudou de alguma forma... tantas perguntas! E eu nunca consegui vê-los!}{}{}{}{ru 2075}
+{65}{Por quê, Hadrian? Você é o arqueólogo da igreja. Certamente você...}{}{5}{}{67}{}
+{67}{Sim, você pensaria isso, não é, jovem? [Ele se levanta da cadeira, gesticulando de um lado para o outro...] Quero dizer, quando os Anciãos precisam de alguém para cavar nas cavernas úmidas das Profundezas Bangellianas, a quem eles chamam? Ou se algum pobre tolo encontra uma tumba selada com uma maldição de sangue Gorgothiana? Toque o sino para o Velho Hadrian!}{Sim, você pensaria isso, não é, jovem? [Ele se levanta da cadeira, gesticulando de um lado para o outro...] Quero dizer, quando os Anciãos precisam de alguém para cavar nas cavernas úmidas das Profundezas Bangellianas, a quem eles chamam? Ou se algum pobre tolo encontra uma tumba selada com uma maldição de sangue Gorgothiana? Toque o sino para o Velho Hadrian!}{}{}{}{}
+{68}{Mas por que eles não deixam você ver os restos mortais, Hadrian?}{}{5}{}{70}{}
+{70}{Não faço ideia! [Ele joga as mãos para o alto, derrubando uma pilha de papéis e o que parece ser uma caneca de cerveja escura.] Eles falam de profanação e sacrilégio, mas... [Ele abaixa a voz, inclinando-se mais perto]... o homem está MORTO. M-O-R-T-O. Eu respeito e venero Nasrudin e o que ele nos ensinou mais do que qualquer um, mas dificilmente acho que ele ficaria chateado se eu tirasse um pedaço de osso de sua casca terrena...}{Não faço ideia! [Ele joga as mãos para o alto, derrubando uma pilha de papéis e o que parece ser uma caneca de cerveja escura.] Eles falam de profanação e sacrilégio, mas... [Ele abaixa a voz, inclinando-se mais perto]... o homem está MORTO. M-O-R-T-O. Eu respeito e venero Nasrudin e o que ele nos ensinou mais do que qualquer um, mas dificilmente acho que ele ficaria chateado se eu tirasse um pedaço de osso de sua casca terrena...}{}{}{}{}
+{71}{Entendo seu ponto. Eu mesmo adoraria dar uma olhada neles...}{}{5}{}{75}{}
+{72}{E:}{}{5}{}{0}{}
+{75}{Sério? [Seu rosto se ilumina.] Você é um colega arqueólogo, meu amigo?}{Sério? [Seu rosto se ilumina.] Você é um colega arqueólogo, minha amiga?}{}{}{}{}
+{76}{Hã... sim. Sim, sou. Estritamente freelancer, é claro...}{}{5}{ps 16, lf4 0, lf2 0}{82}{}
+{77}{Hã... sim. Sim, sou. Estritamente freelancer, é claro...}{}{5}{ps -15, lf4 0, lf2 0}{85}{}
+{78}{Não, mas é uma longa história... [Conte a ele tudo o que aconteceu.]}{}{5}{}{157}{lf12 1}
+{79}{Não, mas digamos que eu tenha interesse no local de descanso de Nasrudin...}{}{5}{}{167}{}
+{80}{E:}{}{5}{}{0}{}
+{82}{S-s-i-m... [Ele o observa por um momento, avaliando suas palavras.] Você realmente parece ter aquele jeito característico. Provavelmente um pouco de terra debaixo dessas unhas, hein? Muito prazer! E que interesse você tem nos restos mortais de Nasrudin...?}{S-s-i-m... [Ele a observa por um momento, avaliando suas palavras.] Você realmente parece ter aquele jeito característico. Provavelmente um pouco de terra debaixo dessas unhas, hein? Muito prazer! E que interesse você tem nos restos mortais de Nasrudin...?}{}{}{}{}
+{83}{Hã... estou pensando em me converter, mas preciso de uma pequena prova...}{}{5}{}{113}{lf11 1}
+{85}{S-s-i-m... [Ele o observa por um momento, avaliando suas palavras.] Você realmente parece ter aquele jeito característico, mas quase qualquer um poderia. Talvez pudéssemos conversar sobre o assunto por um momento?}{S-s-i-m... [Ele a observa por um momento, avaliando suas palavras.] Você realmente parece ter aquele jeito característico, mas quase qualquer um poderia. Talvez pudéssemos conversar sobre o assunto por um momento?}{}{}{}{}
+{86}{Claro...}{}{5}{}{90}{}
+{87}{Hã, estou de férias. Deixei os negócios em casa e tal...}{}{5}{}{149}{re -5}
+{90}{Recentemente, estava lendo sobre as ilhas da Serpente Espinhal... você sabe algo sobre elas?}{Eu estava lendo recentemente sobre as ilhas da Espinha da Serpente... você sabe algo sobre elas?}{}{}{}{}
+{91}{Claro... há uma grande população de Gigantes do Fogo lá...}{}{5}{gf2015 1}{95}{lf11 1}
+{92}{Não posso dizer que conheço muito SOBRE aquela região em particular...}{}{5}{gf2015 0}{149}{re -5}
+{95}{[Obviamente impressionado.] Sim, sim, eles têm. Esse é um conjunto de ilhas bastante obscuro... você deve ser um pouco mais do que um mercenário, amigo...}{[Obviamente impressionado.] Sim, sim, eles têm. Esse é um conjunto de ilhas bastante obscuro... você deve ser um pouco mais do que um mercenário, amigo...}{}{}{}{}
+{96}{Ah... a gente tenta, a gente se envolve. Eu... uh... estudo gemas de fogo...}{}{5}{}{98}{}
+{98}{[Hadrian se anima novamente.] Sério? Então você DEVE ter ouvido falar sobre a recente aquisição de Franklin Payne de uma...?}{[Hadrian se anima novamente.] Sério? Então você DEVE ter ouvido falar sobre a recente aquisição de Franklin Payne de uma...?}{}{}{}{}
+{99}{Ahem... um de meus colegas pode ter mencionado isso de passagem...}{}{5}{}{101}{}
+{101}{Claro, claro. As operações de Payne tendem ao sensacional, mas nunca conheci um homem mais destemido e honrado...}{Claro, claro. As operações de Payne tendem ao sensacional, mas nunca conheci um homem mais destemido e honrado...}{}{}{}{}
+{102}{Você já conheceu o Sr. Payne?}{}{5}{}{106}{gf2294 1}
+{103}{Tenho certeza de que ele é. Sobre esses restos...}{}{5}{}{110}{}
+{104}{Vamos falar sobre isso mais tarde. Adeus...}{}{5}{}{0}{}
+{106}{Sim... ele já fez algum trabalho para a igreja. Quando há um objeto particularmente difícil de encontrar que precisamos, Payne é o homem que contatamos. Ninguém conhece mais as terras distantes do que ele...}{Sim... ele já fez algum trabalho para a igreja. Quando há um objeto particularmente difícil de encontrar que precisamos, Payne é o homem que contatamos. Ninguém conhece mais as terras distantes do que ele...}{}{}{}{}
+{107}{Interessante. Sobre esses restos...}{}{5}{}{110}{}
+{108}{Vamos falar sobre isso mais tarde. Adeus...}{}{5}{}{}{}
+{110}{Sim! Os restos! Que interesse VOCÊ tem nesses restos?}{Sim! Os restos! Que interesse VOCÊ tem nesses restos?}{}{}{}{}
+{111}{Uh... estou pensando em me converter, mas preciso de um pouco de prova...}{}{5}{}{113}{lf11 1}
+{113}{[Ele olha para você, piscando.] Entendo, meu amigo. A fé é uma coisa maravilhosa... especialmente quando apoiada por algumas evidências sólidas e concretas. [Ele ri, remexendo em sua escrivaninha.] Fiz algumas anotações ao longo dos anos sobre o sarcófago... aqui está...}{[Ele olha para você, piscando.] Entendo, meu amigo. A fé é uma coisa maravilhosa... especialmente quando apoiada por algumas evidências sólidas e concretas. [Ele ri, remexendo em sua escrivaninha.] Fiz algumas anotações ao longo dos anos sobre o sarcófago... aqui está...}{}{}{}{}
+{114}{O que você sabe, Hadrian?}{}{5}{}{116}{}
+{116}{Vamos ver. Informações padrão. A pedra é da região local, há caracteres élficos nomeando-a como o local de descanso final de Nasrudin... o design é Élfico Antigo, consistente com o final da Era das Lendas... o trabalho com runas é primoroso, embora talvez um pouco exagerado, na minha opinião. Claro, sou mais conservador...}{Vamos ver. Informações padrão. A pedra é da região local, há caracteres élficos nomeando-a como o local de descanso final de Nasrudin... o design é Élfico Antigo, consistente com o final da Era das Lendas... o trabalho com runas é primoroso, embora talvez um pouco exagerado, na minha opinião. Claro, sou mais conservador...}{}{}{}{}
+{117}{Mas você nunca viu o interior. Alguém já viu?}{}{5}{}{120}{}
+{118}{Vamos falar sobre isso mais tarde. Adeus...}{}{5}{}{0}{}
+{120}{Até onde eu sei, ninguém jamais quebrou o selo do sarcófago.}{Até onde eu sei, ninguém jamais quebrou o selo do sarcófago.}{}{}{}{}
+{121}{Interessante. Eu REALMENTE gostaria de ver o que há lá dentro, Hadrian...}{}{5}{}{123}{}
+{123}{[Ele se aproxima, indicando que você faça o mesmo.] Até que ponto você quer vê-los, meu amigo?}{[Ele se aproxima, indicando que você faça o mesmo.] Até que ponto você quer vê-los, meu amigo?}{}{}{}{lf2 1}
+{124}{MUITO.}{}{5}{}{127}{}
+{125}{Não tanto assim. Talvez conversemos sobre isso mais tarde...}{}{5}{}{0}{}
+{127}{Entendo. [Ele olha ao redor furtivamente.] Olha, sou um membro importante desta igreja... meu rosto é bem conhecido. Não posso exatamente sair por aí profanando artefatos sagrados da igreja. [Ele ri.] Mas se eu tivesse um cúmplice, talvez pudéssemos entrar e sair sem que ninguém percebesse...}{Entendo. [Ele olha ao redor furtivamente.] Olha, sou um membro importante desta igreja... meu rosto é bem conhecido. Não posso exatamente sair por aí profanando artefatos sagrados da igreja. [Ele ri.] Mas se eu tivesse um cúmplice, talvez pudéssemos entrar e sair sem que ninguém percebesse...}{}{}{}{lf3 1}
+{128}{Estou ouvindo...}{}{5}{}{130}{}
+{130}{A tumba fica dentro das antigas catacumbas, e a entrada da câmara funerária é bem vigiada. MAS! Cerca de um ano atrás, eu estava folheando as páginas de um de nossos textos antigos e, em suas páginas, encontrei uma ilustração antiga das catacumbas, desenhada pelo primeiro guardião da cripta, aparentemente para seu próprio uso na navegação delas...}{A tumba fica dentro das antigas catacumbas, e a entrada da câmara funerária é bem vigiada. MAS! Cerca de um ano atrás, eu estava folheando as páginas de um de nossos textos antigos e, em suas páginas, encontrei uma ilustração antiga das catacumbas, desenhada pelo primeiro guardião da cripta, aparentemente para seu próprio uso na navegação delas...}{}{}{}{}
+{131}{O que ela mostra, Hadrian?}{}{5}{}{133}{}
+{133}{Todos os corredores de ligação para a câmara funerária foram murados logo após a descoberta. Todos, exceto um! Há uma passagem que sobe pelo chão, e está tão bem escondida na alvenaria que passou despercebida todos esses anos! Não compartilhei essa informação com ninguém... você e eu somos as únicas almas vivas que conhecem sua existência...}{Todos os corredores de ligação para a câmara funerária foram murados logo após a descoberta. Todos, exceto um! Há uma passagem que sobe pelo chão, e está tão bem escondida na alvenaria que passou despercebida todos esses anos! Não compartilhei essa informação com ninguém... você e eu somos as únicas almas vivas que conhecem sua existência...}{}{}{}{}
+{134}{Isso é fascinante. E acho que entendo seu plano...}{}{5}{}{136}{}
+{136}{Ótimo. Eis o que precisa ser feito. Entre no esgoto pela grade logo em frente ao Templo... quando entrar, você estará em uma pequena sala. Há uma rachadura na parede... ela leva às antigas catacumbas sob o templo. Entre nelas...}{Ótimo. Eis o que precisa ser feito. Entre no esgoto pela grade logo em frente ao Templo... quando entrar, você estará em uma pequena sala. Há uma rachadura na parede... ela leva às antigas catacumbas sob o templo. Entre nelas...}{}{}{}{}
+{137}{E depois?}{}{5}{}{139}{}
+{139}{Você se verá em um corredor... quando ele chegar ao fim, verá uma porta na parede. Diga a palavra "Crimstone" para ela, e ela se abrirá para você. Além dessa porta há um corredor que leva a uma escadaria. Essa escadaria leva à tumba de Nasrudin.}{Você se verá em um corredor... quando ele chegar ao fim, verá uma porta na parede. Diga a palavra "Crimstone" para ela, e ela se abrirá para você. Além dessa porta há um corredor que leva a uma escadaria. Essa escadaria leva à tumba de Nasrudin.}{}{}{}{gf2046 1}
+{140}{Há mais alguma coisa que eu precise saber?}{}{5}{}{142}{}
+{142}{Assim que entrar nas catacumbas, você verá corredores adjacentes também. NÃO entre neles. Estão cheios de espíritos das trevas e outras criaturas... se quiser evitá-los, vá direto pela porta e suba para a câmara funerária...}{Assim que entrar nas catacumbas, você verá corredores adjacentes também. NÃO entre neles. Estão cheios de espíritos das trevas e outras criaturas... se quiser evitá-los, vá direto pela porta e suba para a câmara funerária...}{}{}{}{ru 2077}
+{143}{Vou me lembrar disso. Obrigado, Hadrian...}{}{5}{}{145}{}
+{145}{Foi um prazer. [Ele pisca.] Volte até mim com o que encontrar. Se possível, traga-me um pedaço do esqueleto... eu adoraria finalmente dar uma olhada nele. Juntos, veremos o que o velho Nasrudin tem a nos dizer...}{Foi um prazer. [Ele pisca.] Volte até mim com o que encontrar. Se possível, traga-me um pedaço do esqueleto... eu adoraria finalmente dar uma olhada nele. Juntos, veremos o que o velho Nasrudin tem a nos dizer...}{}{}{}{qu1049 1}
+{146}{Vou pensar sobre isso e voltar mais tarde...}{}{5}{}{180}{}
+{147}{Voltarei quando tiver concluído isso...}{}{5}{}{180}{qu1049 2}
+{149}{Entendo. [Ele parece um pouco decepcionado, parecendo fazer uma nova avaliação.] Bem, seja como for... sobre o que estávamos falando?}{Entendo. [Ele parece um pouco decepcionado, parecendo fazer uma nova avaliação.] Bem, seja como for... sobre o que estávamos falando?}{}{}{}{lf4 1}
+{150}{Eu estava dizendo que talvez tivesse interesse em ver os restos...}{}{5}{}{167}{}
+{151}{Nada importante. Talvez eu volte mais tarde.}{}{5}{}{0}{}
+{157}{O Escolhido? Você? [Ele recua, cruzando os braços.] Acho isso de muito mau gosto. Você tem ideia do que está propondo...}{O Escolhido? Você? [Ele recua, cruzando os braços.] Acho isso de muito mau gosto. Você tem ideia do que está propondo...}{}{}{}{}
+{158}{Sim... sei que é difícil de acreditar, mas...}{}{5}{}{160}{}
+{160}{Sabe, fomos avisados para ficar de olho em alguém como você... o sumo sacerdote disse que haveria um impostor tentando se passar pelo Escolhido. Você tem sorte de eu não mandar prendê-lo aqui mesmo!}{Sabe, fomos avisados para ficar de olho em alguém como você... o sumo sacerdote disse que haveria um impostor tentando se passar pelo Escolhido. Você tem sorte de eu não mandar prendê-lo aqui mesmo!}{}{}{}{}
+{161}{Espere, Hadrian! Isso é importante! Preciso da sua ajuda...}{}{5}{}{163}{}
+{163}{[Ele olha para você, em conflito...] Olha, por favor, vá embora. De qualquer forma, eu não poderia ajudá-lo a ver os restos... se eu nunca os vi, certamente não vão deixar VOCÊ...}{[Ele olha para você, em conflito...] Olha, por favor, vá embora. De qualquer forma, eu não poderia ajudá-lo a ver os restos... se eu nunca os vi, certamente não vão deixar VOCÊ...}{}{}{}{ru 2078}
+{164}{Entendo. Bem, tenha um bom dia...}{}{5}{}{259}{}
+{167}{Certo. Bem, não posso dizer que poderia ajudá-lo. Nunca vi os restos, então duvido que deixem um estranho entrar e começar a mexer nos ossos. Sinto muito, mas acho que está por sua conta...}{Certo. Bem, não posso dizer que poderia ajudá-lo. Nunca vi os restos, então duvido que deixem um estranho entrar e começar a mexer nos ossos. Sinto muito, mas acho que está por sua conta...}{}{}{}{}
+{168}{Entendo. Bem, tenha um bom dia...}{}{5}{}{170}{}
+{170}{Espere...!}{Espere...!}{}{}{}{}
+{171}{Pois não?}{}{5}{}{173}{}
+{173}{Olha. [Ele se aproxima de você, quase sussurrando.] Se alguém estivesse procurando uma maneira discreta de entrar na câmara funerária, e por acaso estivesse perambulando pelos esgotos, poderia encontrar um caminho para as antigas catacumbas. Quem sabe o que poderia encontrar lá embaixo?}{Olha. [Ele se aproxima de você, quase sussurrando.] Se alguém estivesse procurando uma maneira discreta de entrar na câmara funerária, e por acaso estivesse perambulando pelos esgotos, poderia encontrar um caminho para as antigas catacumbas. Quem sabe o que poderia encontrar lá embaixo?}{}{}{}{ru 2076}
+{174}{Ah...}{}{5}{}{176}{}
+{176}{E, se essa pessoa encontrasse algo, como um pedaço do esqueleto de Nasrudin, um certo arqueólogo poderia se interessar em dar uma olhada...}{E, se essa pessoa encontrasse algo, como um pedaço do esqueleto de Nasrudin, um certo arqueólogo poderia se interessar em dar uma olhada...}{}{}{}{qu1049 1}
+{177}{Vou dar uma olhada. Se encontrar algo, trago de volta...}{}{5}{}{180}{qu1049 2}
+{178}{Vou pensar no assunto...}{}{5}{}{180}{}
+{180}{Faça isso, meu amigo. [Ele sorri.] Mais alguma coisa?}{Faça isso, meu amigo. [Ele sorri.] Mais alguma coisa?}{}{}{}{}
+{181}{Algumas perguntas gerais...}{}{5}{}{20}{}
+{182}{Acho que é tudo por enquanto. Adeus.}{}{5}{}{0}{}
+{184}{Infelizmente, já lhe contei tudo o que posso sobre isso. Mais alguma coisa?}{Infelizmente, já lhe contei tudo o que posso sobre isso. Mais alguma coisa?}{}{}{}{}
+{185}{Sim, tenho mais algumas perguntas gerais...}{}{5}{}{31}{}
+{186}{Não... voltarei mais tarde quando tiver descoberto mais...}{}{5}{}{0}{}
+{189}{Excelente! Venha! Conte-me o que encontrou!}{Magnífico! Venha! Conte-me o que descobriu!}{}{}{}{qu1049 4}
+{190}{Recuperei o crânio e fiz algumas observações interessantes...}{}{5}{in 5615}{194}{in -5615}
+{191}{Não tenho nada, mas fiz algumas observações interessantes...}{}{5}{ni 5615}{206}{}
+{192}{E:}{}{5}{}{0}{}
+{194}{O crânio! Maravilhoso! Posso vê-lo, por favor?}{O crânio! Maravilhoso! Posso vê-lo, por favor?}{}{}{}{}
+{195}{Claro... [Entregue-o a ele.]}{}{5}{}{197}{in 5615}
+{197}{Obrigado. Este é um momento emocionante! Seremos as primeiras pessoas a pôr os olhos em Nasrudin em mais de 2000 anos! As coisas que descobriremos... espere! Um momento... o que é isto?}{Obrigado. Este é um momento emocionante! Seremos as primeiras pessoas a pôr os olhos em Nasrudin em mais de 2000 anos! As coisas que descobriremos... espere! Um momento... o que é isto?}{}{}{}{}
+{198}{O que foi, Hadrian...?}{}{5}{}{200}{}
+{200}{Este crânio... você diz que é o próprio crânio do sarcófago na câmara mortuária? Tem certeza...?}{Este crânio... você diz que é o próprio crânio do sarcófago na câmara mortuária? Tem certeza...?}{}{}{}{}
+{201}{Sim, tenho certeza. Qual é o problema?}{}{5}{}{203}{}
+{203}{Este crânio... não é élfico! É um crânio humano! Isso é impossível... [Hadrian balança a cabeça lentamente, perdido em pensamentos.]}{Este crânio... não é élfico! É um crânio humano! Isso é impossível... [Hadrian balança a cabeça lentamente, perdido em pensamentos.]}{}{}{}{gf2033 1, gf2040 1, ru 2079}
+{204}{Havia algumas outras coisas estranhas no que vi...}{}{5}{}{206}{}
+{206}{O quê? O que você viu?}{O quê? O que você viu?}{}{}{}{}
+{207}{Algo foi desenhado com sangue no interior do sarcófago...}{}{5}{lf6 0, gf2096 1}{210}{lf6 1}
+{208}{Percebi que o esqueleto estava sem o dedo indicador direito...}{}{5}{lf5 0}{218}{lf5 1}
+{210}{O que era? Você disse que foi desenhado com SANGUE?}{O que era? Você disse que foi desenhado com SANGUE?}{}{}{}{}
+{211}{[Conte a ele o que viu.]}{}{5}{}{213}{}
+{213}{Eu... eu não sei o que aquele símbolo significa, nem por que estaria ali. A palavra parece antigo Panarum, uma língua antiga usada pelos primeiros Anciãos da igreja. Não é usada há séculos, mas Gunther Willhelm é um especialista e saberia o que significa... se foi desenhado ali por... Oh, deus... eles o enterraram VIVO...}{Eu... eu não sei o que aquele símbolo significa, nem por que estaria ali. A palavra parece antigo Panarum, uma língua antiga usada pelos primeiros Anciãos da igreja. Não é usada há séculos, mas Gunther Willhelm é um especialista e saberia o que significa... se foi desenhado ali por... Oh, deus... eles o enterraram VIVO...}{}{}{}{ru 2080}
+{214}{Percebi também que o esqueleto estava sem o dedo indicador direito...}{}{5}{lf5 0}{218}{lf5 1}
+{215}{Você acha que o corpo no sarcófago é o próprio Mannox?}{}{5}{lf5 1}{224}{}
+{216}{O que devemos fazer agora, Hadrian?}{}{5}{lf5 1, lf6 1}{229}{}
+{218}{O dedo indicador direito? [O rosto de Hadrian empalidece.] Você sabe o que isso significa. Oh, não... não pode ser...}{O dedo indicador direito? [O rosto de Hadrian empalidece.] Você sabe o que isso significa. Oh, não... não pode ser...}{}{}{}{}
+{219}{O quê, Hadrian? Do que está falando?}{}{5}{lf7 0}{235}{lf8 1, lf7 1}
+{220}{Você está dizendo que o corpo no sarcófago é o de Mannox?}{}{5}{lf5 1, lf7 1}{224}{}
+{221}{Há algo mais...[Conte a ele sobre a mensagem escrita em sangue.]}{}{5}{lf6 0, lf7 1, gf2096 1}{213}{}
+{222}{O que devemos fazer agora, Hadrian?}{}{5}{lf5 1, lf7 1}{229}{}
+{224}{Eu não sei. Meu Deus. [Hadrian olha vagamente pela janela. Ele está claramente em choque.] Por quê? Por que o teriam enterrado na tumba de Nasrudin? Eu...simplesmente...[ele se interrompe...]}{Eu não sei. Meu Deus. [Hadrian olha vagamente pela janela. Ele está claramente em choque.] Por quê? Por que o teriam enterrado na tumba de Nasrudin? Eu...simplesmente...[ele se interrompe...]}{}{}{}{gf2034 1, gf2040 1, ru 2101}
+{225}{Hadrian...o que vamos fazer?}{}{5}{lf5 1, lf7 1}{229}{}
+{226}{Há algo mais...[Conte a ele sobre a mensagem escrita em sangue.]}{}{5}{lf6 0, gf2096 1}{213}{lf6 1}
+{229}{Não tenho ideia...essa descoberta...estou sem palavras. [Ele se apoia na escrivaninha.] Dois mil anos...e ninguém sequer se deu ao trabalho de verificar. Que tolos fomos? [Ele se endireita.] Escute, meu amigo. Recomendo que vá falar com Gunther sobre isso. Descubra o que a mensagem diz. Eu...eu não posso ser de mais nenhuma ajuda. [Ele olha além de você, perdido em pensamentos.]}{Não tenho ideia...essa descoberta...estou sem palavras. [Ele se apoia na escrivaninha.] Dois mil anos...e ninguém sequer se deu ao trabalho de verificar. Que tolos fomos? [Ele se endireita.] Escute, meu amigo. Recomendo que vá falar com Gunther sobre isso. Descubra o que a mensagem diz. Eu...eu não posso ser de mais nenhuma ajuda. [Ele olha além de você, perdido em pensamentos.]}{}{}{}{}
+{230}{Vou chegar ao fundo disso, Hadrian. Eu prometo...}{}{5}{}{232}{}
+{232}{[Hadrian ri, amargamente.] Talvez essa fosse uma pedra melhor deixada sem ser revirada, meu amigo. Não é todo dia que alguém se depara com a negação de suas crenças...[Ele baixa a cabeça.]}{[Hadrian ri, amargamente.] Talvez essa fosse uma pedra melhor deixada sem ser revirada, meu amigo. Não é todo dia que alguém se depara com a negação de suas crenças...[Ele baixa a cabeça.]}{}{}{}{}
+{233}{Sinto muito, Hadrian. Vou me retirar...}{}{5}{}{0}{lf9 1}
+{235}{Um dos objetos que tenho aqui é o Dedo de Mannox...há uma lenda associada a ele. Nunca se soube se o dedo realmente pertencia ao grande Santo...parece que pode muito bem ser...}{Um dos objetos que tenho aqui é o Dedo de Mannox...há uma lenda associada a ele. Nunca se soube se o dedo realmente pertencia ao grande Santo...parece que pode muito bem ser...}{}{}{}{}
+{236}{O que diz a lenda?}{}{5}{}{289}{}
+{237}{Você está dizendo que o corpo no sarcófago é o de Mannox?}{}{5}{lf5 1}{224}{}
+{239}{[Hadrian olha para você com olhos assombrados, mas não diz nada antes de baixar a cabeça novamente.]}{[Hadrian olha para você com olhos assombrados, mas não diz nada antes de baixar a cabeça novamente.]}{}{}{}{}
+{242}{[Hadrian olha para você com olhos assombrados...]}{[Hadrian olha para você com olhos assombrados...]}{}{}{}{}
+{243}{Hadrian...eu descobri toda a verdade.}{}{5}{}{245}{}
+{244}{Hagian! Encontrei o diário de Manix!}{}{-4}{}{245}{}
+{245}{[Um sussurro leve.] O quê?}{[Um sussurro leve.] O quê?}{}{}{}{}
+{246}{[Conte a ele toda a história de Mannox.]}{}{5}{}{248}{}
+{247}{[Conte a ele o que diz.]}{}{-4}{}{248}{}
+{248}{[A raiva arde nos olhos de Hadrian.] O homem era realmente um Santo...um santo e um guerreiro. E parece que nós, Panarii, temos negligenciado nossos verdadeiros deveres...isso não acontecerá mais. [Ele coloca a mão no seu ombro.] Obrigado, meu amigo. Você prestou um grande serviço a esta igreja e ao mundo...}{[A raiva arde nos olhos de Hadrian.] O homem era realmente um Santo...um santo e um guerreiro. E parece que nós, Panarii, temos negligenciado nossos verdadeiros deveres...isso não acontecerá mais. [Ele coloca a mão no seu ombro.] Obrigado, meu amigo. Você prestou um grande serviço a esta igreja e ao mundo...}{}{}{}{}
+{249}{Fico feliz em ajudar, Hadrian.}{}{5}{}{251}{}
+{250}{Hã... claro, Hagian!}{}{-4}{}{251}{}
+{251}{Como um gesto de minha gratidão, fique à vontade para pegar os objetos nas vitrines. Não posso dizer para que serviriam, mas são seus mesmo assim. As vitrines estarão abertas agora... [Hadrian faz um gesto rápido na direção geral das vitrines.]}{Como um gesto de minha gratidão, fique à vontade para pegar os objetos nas vitrines. Não posso dizer para que serviriam, mas são seus mesmo assim. As vitrines estarão abertas agora... [Hadrian faz um gesto rápido na direção geral das vitrines.]}{}{}{}{gf2097 1}
+{252}{Muito obrigado...}{}{5}{}{394}{}
+{253}{Obrigado!}{}{-4}{}{394}{}
+{259}{Espere...!}{Espere...!}{}{}{}{}
+{260}{Pois não?}{}{5}{}{262}{}
+{262}{Escute... não sei mais o que pensar... sou um homem velho e muito apegado às minhas crenças. É muito mais fácil te considerar um charlatão do que encarar a alternativa...}{Escute... não sei mais o que pensar... sou um homem velho e muito apegado às minhas crenças. É muito mais fácil te considerar um charlatão do que encarar a alternativa...}{}{}{}{}
+{263}{Eu entendo, Hadrian. E sinto muito...}{}{5}{}{265}{}
+{265}{Se os restos são o que procura... [Ele respira fundo, olhando ao redor. Sua voz abaixa.] ...talvez devesse dar uma volta pelos esgotos locais. Nunca se sabe o que pode encontrar lá embaixo. Talvez pudesse trazer de volta o que quer que encontre. Talvez pudesse trazê-lo para que eu dê uma olhada...}{Se os restos são o que procura... [Ele respira fundo, olhando ao redor. Sua voz abaixa.] ...talvez devesse dar uma volta pelos esgotos locais. Nunca se sabe o que pode encontrar lá embaixo. Talvez pudesse trazer de volta o que quer que encontre. Talvez pudesse trazê-lo para que eu dê uma olhada...}{}{}{}{qu1049 1}
+{266}{Vou dar uma olhada. Se encontrar algo, trago de volta...}{}{5}{}{269}{qu1049 2}
+{267}{Vou pensar no assunto...}{}{5}{}{269}{}
+{269}{Faça isso.}{Faça isso, meu amigo. [Ele sorri.] Precisa de mais alguma coisa?}{}{}{}{}
+{270}{Algumas perguntas gerais...}{}{5}{}{31}{}
+{271}{Acho que é tudo por enquanto. Até logo.}{}{5}{}{0}{}
+{273}{Então o encontrou? E o que viu lá?}{Então o encontrou? E o que viu lá?}{}{}{}{}
+{274}{Trouxe o crânio para você examinar... [Entregue-o a ele.]}{}{5}{in 5615}{277}{in 5615}
+{275}{Fiz algumas observações interessantes...}{}{5}{}{206}{}
+{277}{[A atitude de Hadrian em relação a você é distante, mas ele não consegue esconder uma empolgação evidente pelo crânio.] Suponho que vou dar uma olhada... vamos ver aqui... o que é isso?}{[A atitude de Hadrian em relação a você é distante, mas ele não consegue esconder uma empolgação evidente pelo crânio.] Suponho que vou dar uma olhada... vamos ver aqui... o que é isso?}{}{}{}{qu1049 4}
+{278}{O que foi, Hadrian?}{}{5}{}{200}{in 5605}
+{280}{Sim... esse é o Dedo de São Mannox.}{Sim... esse é o Dedo de São Mannox.}{}{}{}{}
+{281}{O quê? Quem foi São Mannox?}{}{5}{gf2022 0}{284}{}
+{282}{O dedo dele? Por que está aqui?}{}{5}{}{289}{}
+{284}{São Mannox foi um dos anciãos da igreja Panarii... um homem muito, muito santo. Ele foi o único na história de nossa igreja que foi 'ascendido' por Nasrudin-isso significa que seu corpo foi levado diretamente desta vida para a próxima...}{São Mannox foi um dos anciãos da igreja Panarii... um homem muito, muito santo. Ele foi o único na história de nossa igreja que foi 'ascendido' por Nasrudin-isso significa que seu corpo foi levado diretamente desta vida para a próxima...}{}{}{}{}
+{285}{Entendo. E o dedo dele? Por que está aqui?}{}{5}{}{289}{}
+{289}{A lenda conta sobre uma época em que São Mannox foi capturado por bárbaros... eles estavam saqueando o interior, e o mantinham como refém para resgate. Ele disse ao seu povo para recusar, então os bárbaros ameaçaram cortar um de seus dedos se ele não cedesse. Mannox calmamente pegou uma faca, disse que não haveria resgate, e cortou o dedo ele mesmo.}{A lenda conta sobre uma época em que São Mannox foi capturado por bárbaros... eles estavam saqueando o interior, e o mantinham como refém para resgate. Ele disse ao seu povo para recusar, então os bárbaros ameaçaram cortar um de seus dedos se ele não cedesse. Mannox calmamente pegou uma faca, disse que não haveria resgate, e cortou o dedo ele mesmo.}{}{}{}{}
+{290}{Parece um homem duro...}{}{5}{lf7 0}{293}{}
+{291}{Você está dizendo que o corpo no sarcófago é o de Mannox?}{}{5}{lf7 1}{224}{}
+{293}{Sim, ele era assim quando precisava ser. Há mais alguma coisa que gostaria de saber?}{Sim, ele era assim quando precisava ser. Há mais alguma coisa que gostaria de saber?}{}{}{}{}
+{294}{Sim, gostaria de perguntar sobre mais alguns objetos...}{}{5}{}{39}{}
+{295}{Mais algumas perguntas gerais...}{}{5}{}{31}{}
+{296}{E:}{}{5}{}{0}{}
+{298}{Esse é o olho de Kraka-tur...}{Esse é o olho de Kraka-tur...}{}{}{}{}
+{299}{Sério? É uma pedra linda...}{}{5}{}{301}{}
+{300}{Pedra bonita!}{}{-4}{}{301}{}
+{301}{Não... quero dizer que é REALMENTE o olho de Kraka-tur! Quando o conselho o baniu, ele resistiu bastante. De alguma forma, o olho do monstro foi arrancado, e alguém o encontrou enquanto limpavam. Kraka-tur era uma criatura terrível. Se perguntar a Alexander sobre quem foi banido ao longo dos anos, ele lhe contará a história...}{Não... quero dizer que é REALMENTE o olho de Kraka-tur! Quando o conselho o baniu, ele resistiu bastante. De alguma forma, o olho do monstro foi arrancado, e alguém o encontrou enquanto limpavam. Kraka-tur era uma criatura terrível. Se perguntar a Alexander sobre quem foi banido ao longo dos anos, ele lhe contará a história...}{}{}{}{}
+{302}{Talvez eu faça isso. Sobre esses objetos...}{}{5}{}{39}{}
+{303}{Mais algumas perguntas gerais...}{}{5}{}{31}{}
+{304}{E:}{}{5}{}{0}{}
+{305}{Outros objetos!}{}{-4}{}{385}{}
+{306}{Perguntas!}{}{-4}{}{322}{}
+{307}{Não temos ideia do que seja isso... mas com certeza é bonito, não é?}{Não temos ideia do que seja isso... mas com certeza é bonito, não é?}{}{}{}{}
+{308}{Hmm... acho que sim. Mais algumas perguntas sobre os objetos...}{}{5}{}{39}{}
+{309}{Mais algumas perguntas gerais...}{}{5}{}{31}{}
+{310}{E:}{}{5}{}{0}{}
+{311}{Outros objetos!}{}{-4}{}{385}{}
+{312}{Perguntas!}{}{-4}{}{322}{}
+{313}{Bem... dê uma olhada em alguns deles... se tiver alguma dúvida sobre eles mais tarde, pode me perguntar...}{Bem... dê uma olhada em alguns deles... se tiver alguma dúvida sobre eles mais tarde, pode me perguntar...}{}{}{}{}
+{314}{Vou fazer isso. Mais algumas perguntas gerais...?}{}{5}{}{31}{}
+{315}{E:}{}{5}{}{0}{}
+{316}{Perguntas!}{}{-4}{}{322}{}
+{317}{E:}{}{-4}{}{0}{}
+{320}{Obrigado mais uma vez, meu amigo. Você nos prestou um grande serviço...}{Obrigado mais uma vez, meu amigo. Você nos prestou um grande serviço...}{}{}{}{}
+{322}{Certo! Do que precisa?}{Certo! Do que precisa?}{}{}{}{}
+{323}{O que são esses <<<PH1>>>, Hagian?}{}{-4}{}{385}{}
+{324}{Preciso encontrar Nasrudin! Nasrudin!}{}{-4}{qb1049 1, gf2016 0, gf2020 0}{332}{}
+{325}{Ainda procuro o caixão!}{}{-4}{qu1049 2, gf2016 0, gf2020 0}{356}{}
+{326}{Eu vi o caixão!}{}{-4}{gf2016 1, gf2020 0}{360}{}
+{332}{Nasrudin! Ele está deitado logo ali embaixo! Em um sarcófago, enterrado há mais de 2000 anos! Fique à vontade! Dê uma olhada!}{Nasrudin! Ele está deitado logo ali embaixo! Em um sarcófago, enterrado há mais de 2000 anos! Fique à vontade! Dê uma olhada!}{}{}{}{}
+{333}{Hã... sar-có-fa-go? O que é isso?}{}{-4}{}{336}{}
+{334}{E:}{}{-4}{}{0}{}
+{336}{Caixão, meu garoto, caixão! Ele não passa de um monte de ossos!}{Caixão, madame, caixão! Ele não passa de um monte de ossos!}{}{}{}{}
+{337}{Hã... posso vê-lo?}{}{-4}{}{340}{}
+{338}{E:}{}{-4}{}{0}{}
+{340}{Vê-lo! Rapaz, nem a MIM eles deixam vê-lo! Então não acho que você vá ver esses ossos velhos tão cedo...}{Vê-lo! Rapaz, nem a MIM eles deixam vê-lo! Então não acho que você vá ver esses ossos velhos tão cedo...}{}{}{}{ru 2075}
+{341}{Hã... tá bom... vou indo agora.}{}{-4}{}{343}{}
+{343}{Espere aí...!}{Espere aí...!}{}{}{}{}
+{344}{Hã...?}{}{-4}{}{346}{}
+{346}{Olha, garoto, eu sei que você não é muito esperto... isso é óbvio... mas parece que está determinado a ver o velho Nasrudin lá embaixo. Então vou te dizer uma coisa... se por acaso estiver perambulando pelos esgotos locais, talvez encontre uma passagem para as antigas catacumbas... nunca se sabe o que pode achar lá embaixo... entendeu?}{Olha, garota, eu sei que você não é muito esperta... isso é óbvio... mas parece que está determinada a ver o velho Nasrudin lá embaixo. Então vou te dizer uma coisa... se por acaso estiver perambulando pelos esgotos locais, talvez encontre uma passagem para as antigas catacumbas... nunca se sabe o que pode achar lá embaixo... entendeu?}{}{}{}{ru 2076}
+{347}{E-sgo-tos?}{}{-4}{}{349}{}
+{349}{Sim, sim... os esgotos. Se encontrar um CAIXÃO e achar um esqueleto lá dentro... talvez traga um pedaço dele? O crânio, quem sabe?}{Sim, sim... os esgotos. Se encontrar um CAIXÃO e achar um esqueleto lá dentro... talvez traga um pedaço dele? O crânio, quem sabe?}{}{}{}{qu1049 1}
+{350}{Hã... tá bom, Hagian...}{}{-4}{}{352}{qu1049 2}
+{352}{Bom, bom... [ele pisca para você.] Boa sorte! E se alguém perguntar, hã, você nunca esteve aqui... tá?}{Bom, bom... [ele pisca para você.] Boa sorte! E se alguém perguntar, hã, você nunca esteve aqui... tá?}{}{}{}{}
+{353}{Mais perguntas!}{}{-4}{}{322}{}
+{354}{Tá bom! Tchau!}{}{-4}{}{0}{}
+{356}{Já te contei tudo o que podia sobre isso. Tem mais alguma coisa?}{Já te contei tudo o que podia sobre isso. Tem mais alguma coisa?}{}{}{}{}
+{357}{Mais perguntas!}{}{-4}{}{322}{}
+{358}{Tá bom! Tchau!}{}{-4}{}{0}{}
+{360}{Você foi! Trouxe alguma coisa de volta?}{Você foi! Trouxe alguma coisa de volta?}{}{}{}{}
+{361}{Hã... não...}{}{-4}{ni 5615}{370}{}
+{362}{Sim! Eu achei o crânio! [Entregue a ele.]}{}{-4}{in5615}{364}{in5615}
+{364}{Muito bom! Isso é absolutamente incrí... espere um momento! O que é isso? Tem certeza de que este é o crânio da tumba de Nasrudin?}{Muito bom! Isso é absolutamente incrí... espere um momento! O que é isso? Tem certeza de que este é o crânio da tumba de Nasrudin?}{}{}{}{qu1049 4}
+{365}{Yeam Hagian... o que houve?}{}{-4}{}{367}{}
+{367}{Este é um crânio humano! Não é élfico! Nasrudin era um elfo! Como isso pode ser...? Você viu mais alguma coisa?}{Este é um crânio humano! Não é élfico! Nasrudin era um elfo! Como isso pode ser...? Você viu mais alguma coisa?}{}{}{}{ru 2079}
+{368}{Hã... o esqueleto está faltando um dedo!}{}{-4}{}{373}{}
+{370}{Não! Bem, suponho que você seja um pouco lerdo... pelo menos viu alguma coisa?}{Não! Bem, suponho que você seja um pouco lerdo... pelo menos viu alguma coisa?}{}{}{}{}
+{371}{Hã... o esqueleto está faltando um dedo!}{}{-4}{}{373}{}
+{373}{[Hadrian empalidece...] Faltando um dedo. O dedo direito dele? [Ele levanta a mão e aponta para ele.]}{[Hadrian empalidece...] Faltando um dedo. O dedo direito dele? [Ele levanta a mão e aponta para ele.]}{}{}{}{}
+{374}{Sim! Sim!}{}{-4}{gf2096 1}{376}{}
+{375}{Sim! Sim!}{}{-4}{gf2096 0}{392}{}
+{376}{Meu deus... é o mesmo dedo que faltava em Santo Mannox. Uma estranha coincidência... havia mais alguma coisa?}{Meu deus... é o mesmo dedo que faltava em Santo Mannox. Uma estranha coincidência... havia mais alguma coisa?}{}{}{}{ru 2101}
+{377}{Um desenho de sangue! [Conte a ele sobre isso.]}{}{-4}{}{379}{}
+{379}{Em SANGUE? Mas isso significaria... oh, deus... eles o enterraram VIVO... [Hadrian desvia o olhar, desolado.] Já se passaram 2000 anos, e ninguém jamais se importou em olhar... eles nunca nos deixaram...}{Em SANGUE? Mas isso significaria... oh, deus... eles o enterraram VIVO... [Hadrian desvia o olhar, desolado.] Já se passaram 2000 anos, e ninguém jamais se importou em olhar... eles nunca nos deixaram...}{}{}{}{}
+{380}{Hã... Hagian?}{}{-4}{}{382}{}
+{382}{Ouça... vá contar a Gunther Willhelm sobre a mensagem... ele poderá lhe dizer o que as palavras significam. [Ele divaga novamente, seus olhos traindo uma profunda tristeza.] Fomos enganados... nossa crença não significava nada... [Ele fica em silêncio.]}{Ouça... vá contar a Gunther Willhelm sobre a mensagem... ele poderá lhe dizer o que as palavras significam. [Ele divaga novamente, seus olhos traindo uma profunda tristeza.] Fomos enganados... nossa crença não significava nada... [Ele fica em silêncio.]}{}{}{}{ru 2080}
+{383}{Tá bom, Hagian... vou falar com o Goonter... Hagian..?}{}{-4}{}{}{lf9 1, fl 239}
+{385}{Sobre o que você gostaria de saber?}{Sobre o que você gostaria de saber?}{}{}{}{}
+{386}{O que é isso? Osso de dedo?}{}{-4}{gf2017 1}{289}{}
+{387}{Coisa de vidro bonita!}{}{-4}{gf2018 1}{307}{}
+{388}{Pedra preta! Legal!}{}{-4}{gf2019 1}{298}{}
+{389}{Posso comprá-las?}{}{-4}{gf2017 0, gf2018 0, gf2019 0}{400}{}
+{390}{Perguntas!}{}{-4}{}{322}{}
+{392}{Ouça... vá contar a Gunther sobre isso... [Ele divaga novamente, seus olhos traindo uma profunda tristeza.] Fomos enganados... nossa crença não significava nada... [Ele fica em silêncio.]}{Ouça... vá contar a Gunther sobre isso... [Ele divaga novamente, seus olhos traindo uma profunda tristeza.] Fomos enganados... nossa crença não significava nada... [Ele fica em silêncio.]}{}{}{}{}
+{393}{Tá bom, Hagian... vou falar com o Goonter... Hagian..?}{}{-4}{}{}{lf9 1, fl 239}
+{394}{Você faria o favor? Fale com Alexander sobre essas coisas, se ainda não o fez. Sou um homem velho e cansado... há pouco que eu possa fazer para corrigir esse erro. Mas Alexander é forte, o mais forte de todos nós, e saberá o que fazer. [Ele sorri, para si mesmo.] Não invejo o homem que Alexander considerar responsável...}{Você faria esse favor para mim? Fale com Alexander sobre essas coisas, se ainda não o fez. Sou um velho, e estou cansado... há pouco que posso fazer para corrigir esse erro. Mas Alexander é forte, o mais forte de todos nós, e saberá o que fazer. [Ele sorri, para si mesmo.] Não invejo o homem que Alexander considerar responsável...}{}{}{}{ru 2081}
+{395}{Vou fazer isso, Hadrian...}{}{5}{}{0}{lf13 1}
+{396}{Vou falar com o 'Zander, Hagian! Tchau...!}{}{-4}{}{0}{lf13 1}
+{400}{Não... não... estas são relíquias eclesiásticas inestimáveis. Não poderia me desfazer delas nem por todas as riquezas mundanas...}{Não... não... estas são relíquias eclesiásticas inestimáveis. Não poderia me desfazer delas nem por todas as riquezas mundanas...}{}{}{}{}
+{401}{Mais algumas perguntas gerais...}{}{5}{}{31}{}
+{402}{Gostaria de perguntar sobre mais alguns objetos...}{}{5}{}{39}{}
+{403}{Mais perguntas!}{}{-4}{}{322}{}
+{404}{Tenho perguntas sobre os obje<<<PH1>>>tos!}{}{-4}{}{385}{}
+{405}{E:}{}{1}{}{0}{}
+

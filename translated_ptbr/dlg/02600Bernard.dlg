@@ -1,0 +1,54 @@
+
+{1}{G:}{G:}{}{}{}{ }
+{2}{W:}{}{5}{lf1 0, re41}{15}{lf1 1 }
+{3}{Desculpe, estava falando comigo?}{}{5}{re-40, ch10}{40}{re50 }
+{4}{Por favor, desculpe minha presença, senhor. Não quero ofender.}{}{5}{re-40, ch-9}{50}{re41 }
+{5}{Fale comigo assim de novo e você vai se arrepender seriamente.}{}{5}{re-40, sk2 12}{55}{ }
+{7}{W:}{}{-4}{lf1 0}{15}{lf1 1 }
+{8}{K:}{}{1}{lf1 1}{45}{ }
+{14}{E:}{}{1}{}{0}{ }
+{15}{Meu nome é Bernard. Trabalho nos docas aqui... pelo pouco trabalho que há.}{Meu nome é Bernard. Trabalho nos docas aqui... pelo pouco trabalho que há.}{}{}{}{ }
+{16}{Tem algum trabalho para mim por aqui?}{}{5}{}{25}{ }
+{17}{Você viu a princesa recentemente?}{}{5}{qa1001 1, qb1001 4}{30}{ }
+{18}{Tem trabalho pra mim?}{}{-4}{}{25}{ }
+{19}{Bernard? Você é filho do Archibald?}{}{5}{gf2618 1, lf10 0}{60}{lf10 1 }
+{24}{E:}{}{1}{}{0}{ }
+{25}{Você é louco, homem? Olhe ao redor. Dernholm está morrendo. Não há trabalho suficiente aqui para os cidadãos, quanto mais para um andarilho...}{Você é louca, mulher? Olhe ao redor. Dernholm está morrendo. Não há trabalho suficiente aqui para os cidadãos, quanto mais para uma andarilha...}{}{}{}{ }
+{26}{Entendo. Você viu a princesa por aí recentemente?}{}{5}{qa1001 1, qb1001 4}{30}{ }
+{29}{E:}{}{1}{}{0}{ }
+{30}{Não desde que ela embarcou no navio, qual era o nome... ah, cerca de um mês atrás. Eu disse ao capitão que ele era um tolo por tentar navegar com aquele tempo, mas alguém escuta o velho Bernard?}{Não desde que ela embarcou no navio, qual era o nome... ah, cerca de um mês atrás. Eu disse ao capitão que ele era um tolo por tentar navegar com aquele tempo, mas alguém escuta o velho Bernard?}{}{}{}{ }
+{31}{O tempo estava tão ruim assim?}{}{5}{}{35}{ }
+{34}{E:}{}{1}{}{0}{ }
+{35}{O pior que vi em muito tempo, posso te garantir. Tolo maldito. Ele deveria ter voltado de Cúmbria até agora. Se o rei descobrir, vai ter um preço alto a pagar.}{O pior que vi em muito tempo, posso te garantir. Tolo maldito. Ele deveria ter voltado de Cúmbria até agora. Se o rei descobrir, vai ter um preço alto a pagar.}{}{}{}{ }
+{36}{Obrigado pelo seu tempo. Tenha um bom dia.}{}{5}{}{0}{lf2 1 }
+{40}{Oh, me desculpe, senhor. Eu o confundi com algum andarilho de vida miserável. Em que posso ajudá-lo?}{Oh, me desculpe, senhora. Eu a confundi com alguma mulher de vida fácil. Em que posso ajudá-la?}{}{}{}{ }
+{41}{Posso perguntar quem é você?}{}{5}{lf1 0}{15}{lf1 1 }
+{42}{K:}{}{5}{lf1 1}{45}{ }
+{44}{E:}{}{1}{}{0}{ }
+{45}{Claro, o que você quer saber?}{Claro, o que você quer saber?}{}{}{}{ }
+{46}{Você viu a princesa por aí recentemente?}{}{5}{qa1001 1, qb1001 4}{30}{ }
+{47}{Tem algum trabalho por aqui?}{}{5}{}{25}{ }
+{48}{Você é filho do Archibald?}{}{5}{gf2618 1, lf10 0}{60}{lf10 1 }
+{49}{E:}{}{1}{}{0}{ }
+{50}{Bom, acho que você é gente boa. Em que posso ajudá-lo?}{Bom, acho que você é gente boa. Em que posso ajudá-la?}{}{}{}{ }
+{51}{Você viu a princesa por aí recentemente?}{}{5}{qa1001 1, qb1001 4}{30}{ }
+{52}{Tem algum trabalho por aqui?}{}{5}{}{25}{ }
+{54}{E:}{}{1}{}{0}{ }
+{55}{Hah! Gostei do seu estilo. Em que posso ajudá-lo?}{Hah! Gostei do seu estilo. Em que posso ajudá-la?}{}{}{}{ }
+{56}{Você viu a princesa por aí recentemente?}{}{5}{qa1001 1, qb1001 4}{30}{ }
+{57}{Tem algum trabalho por aqui?}{}{5}{}{25}{ }
+{59}{E:}{}{1}{}{0}{ }
+{60}{Sim... por que pergunta?}{Sim... por que pergunta?}{}{}{}{ }
+{61}{Gladys acha que seu pai pode saber algo sobre um anel.}{}{5}{}{70}{ }
+{62}{Eu o matei. Só achei que gostaria de saber.}{}{5}{gf2621 1}{0}{fl 110 ,co}
+{70}{De novo não! Todo mês, mais ou menos, ela encontra alguém para mandar aqui tentar pegar aquele anel do meu pai! Isso é tão cansativo, de verdade. Dá para pensar que são crianças da escola, do jeito que agem!}{De novo não! Todo mês, mais ou menos, ela encontra alguém para mandar aqui tentar pegar aquele anel do meu pai! Isso é tão cansativo, de verdade. Dá para pensar que são crianças da escola, do jeito que agem!}{}{}{}{ }
+{71}{O que você quer dizer?}{}{5}{}{80}{ }
+{80}{Minha irmã e o filho de Gladys estavam noivos há uns vinte anos. Então a praga chegou... [ele balança a cabeça com tristeza]... os dois morreram, junto com o marido de Gladys. O anel que ela mandou você buscar era o anel de noivado que o filho dela deu à minha irmã.}{Minha irmã e o filho de Gladys estavam noivos há uns vinte anos. Então a praga chegou... [ele balança a cabeça com tristeza]... os dois morreram, junto com o marido de Gladys. O anel que ela mandou você buscar era o anel de noivado que o filho dela deu à minha irmã.}{}{}{}{ }
+{81}{Então por que ela diz que foi roubado?}{}{5}{}{90}{ }
+{90}{Não sei. É algum jogo perverso que eles vêm fazendo nos últimos dez anos. Ela encontra alguém para vir procurar o anel, meu pai grita com eles e os manda embora. Essa é realmente a única forma de contato que qualquer um deles tem com o mundo exterior.}{Não sei. É algum jogo perverso que eles vêm fazendo nos últimos dez anos. Ela encontra alguém para vir procurar o anel, meu pai grita com eles e os manda embora. Essa é realmente a única forma de contato que qualquer um deles tem com o mundo exterior.}{}{}{}{ }
+{91}{Você já tentou fazê-los entrar em razão?}{}{5}{}{100}{ }
+{100}{Sim, mas desisti deles há muito tempo. Meu pai não quer ouvir nada sobre isso de mim. Ele só fica sentado, esperando o próximo sujeito aparecer perguntando sobre o anel para poder gritar com ele.}{Sim, mas desisti deles há muito tempo. Meu pai não quer ouvir nada sobre isso de mim. Ele só fica sentado, esperando o próximo sujeito, ou mulher, no seu caso, aparecer perguntando sobre o anel para poder gritar com ela.}{}{}{}{gf2619 1 }
+{101}{K:}{}{5}{}{45}{ }
+{109}{Entendo. Obrigado pelo seu tempo.}{}{5}{}{0}{ }
+{110}{Aaaagh! Vou te matar!}{Aaaagh! Vou te matar!}{}{}{}{ }
+

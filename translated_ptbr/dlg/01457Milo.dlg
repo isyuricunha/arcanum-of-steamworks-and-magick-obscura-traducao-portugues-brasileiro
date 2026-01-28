@@ -1,0 +1,141 @@
+{1}{[Esse gnomo fortemente perfumado pareceria ridículo, não fossem as cicatrizes em seu rosto ou o punhal descomunal pendurado em seu cinto.] E o que exatamente você acha que estaria fazendo aqui?}{[Esse gnomo fortemente perfumado pareceria ridículo, não fossem as cicatrizes em seu rosto ou o punhal descomunal pendurado em seu cinto.] E o que exatamente você acha que estaria fazendo aqui?}{}{}{}{}
+{2}{Muggs me disse para vir ver Damian. Acabei de fazer um serviço para ele.}{}{5}{re41, qu1084 4}{11}{lf0 0}
+{3}{Com licença, mas estou aqui para ver Damian, senhor.}{}{5}{re-40, ch-15, qu1084 4}{11}{re+10, lf0 0}
+{4}{Muggs me disse para vir ver Damian. Acabei de fazer um serviço para ele.}{}{5}{ch15, re-40, qu1084 4}{91}{re+15, lf0 0}
+{5}{Ninguém fala comigo desse jeito, especialmente um halfling!}{}{5}{re-40, ra-6}{111}{re-10, lf0 0}
+{6}{Eu ia entrar.}{}{5}{qb1084 2}{91}{lf0 0}
+{7}{Não sei. Eu entro?}{}{-4}{qb1084 2}{91}{lf0 0}
+{8}{O quê? Hein?}{}{-4}{ qu1084 4}{11}{lf0 0}
+{9}{Estou aqui para ver Damian. Por favor, saia do meu caminho.}{}{5}{re-40, ch-15, qu1084 4}{81}{re+10, lf0 0}
+{10}{E:}{}{1}{}{0}{lf0 1}
+{11}{Bem, senhor, eu sou Milo, o faz-tudo do Sr. Maug, por assim dizer. Ninguém entra aqui sem a minha permissão.}{Bem, senhora, eu sou Milo, o faz-tudo do Sr. Maug, por assim dizer. Ninguém entra aqui sem a minha permissão.}{}{}{}{}
+{12}{Mas Muggs me disse para...}{}{5}{}{21}{}
+{13}{Hã. Sim?}{}{-4}{}{121}{}
+{14}{Você é fêmea ou macho?}{}{5}{}{130}{re-10}
+{15}{Você é menina?}{}{-4}{}{130}{re-10}
+{16}{Se não se importa que eu pergunte, o que um gnomo está fazendo no Caldeirão?}{}{5}{re41}{285}{}
+{21}{[Ele coloca a mão no punhal num gesto que pretende ser ameaçador, embora seja difícil levá-lo a sério.] Não me importo com o que aquele brutamontes do Muggs lhe disse. Eu decido quem entra, como já lhe disse. Não me desafie, fico bastante desagradável quando irritado.}{[Ele coloca a mão no punhal num gesto que pretende ser ameaçador, embora seja difícil levá-lo a sério.] Não me importo com o que aquele brutamontes do Muggs lhe disse. Eu decido quem entra, como já lhe disse. Não me desafie, fico bastante desagradável quando irritado.}{}{}{}{}
+{22}{Fui instruído a vir ver o Sr. Maug. Chega dessa bobagem!}{}{5}{}{140}{re-10}
+{23}{Tá bom, quanto vai custar para eu entrar?}{}{5}{}{31}{}
+{29}{Fico mentalmente instável e excessivamente violento quando irritado.}{}{5}{}{140}{re-15}
+{30}{Então seguirei meu caminho.}{}{5}{}{0}{lf1 1}
+{31}{Ah, não me tente! Se ao menos eu tivesse mais tempo para frivolidades. Bem, estamos sempre precisando de um braço forte - pelo menos, eu certamente estou [ele sorri para si mesmo]. Está interessado em um pouco do velho trabalho pesado?}{Ah, não me tente! Se ao menos eu tivesse mais tempo para frivolidades. Bem, estamos sempre precisando de um braço forte - pelo menos, eu certamente estou [ele sorri para si mesmo]. Está interessado em um pouco do velho trabalho pesado?}{}{}{}{}
+{32}{Que tipo de "trabalho pesado"?}{}{5}{}{41}{}
+{33}{Não sou muito chegado nesse tipo de coisa, tem algum outro trabalho?}{}{5}{}{150}{}
+{40}{Não, preciso ir.}{}{5}{}{0}{lf2 1}
+{41}{Sabe, o de sempre: matar rivais, e tudo mais. Um cavalheiro moreno, que por acaso pertence àquela terrível gangue Pollock, se interessou pela minha garota. Gostaria que ele fosse removido deste mundo.}{Sabe, o de sempre: matar rivais, e tudo mais. Um cavalheiro moreno, que por acaso pertence àquela terrível gangue Pollock, se interessou pela minha garota. Gostaria que ele fosse removido deste mundo.}{}{}{}{qu1087 1}
+{42}{Sua garota? Você tem uma garota? Acho isso um pouco difícil de acreditar.}{}{5}{}{160}{}
+{43}{Qual é o pagamento para um trabalho desse tipo?}{}{5}{}{51}{}
+{44}{Você me dá dinheiro?}{}{-4}{}{51}{}
+{49}{E:}{}{-4}{}{0}{lf2 1}
+{50}{Não estou interessado em ser um assassino. Tenha um bom dia.}{}{5}{}{0}{lf2 1}
+{51}{Que tal 500 peças de ouro, combinado?}{Que tal 500 peças de ouro, combinado?}{}{}{}{}
+{52}{Combinado. Onde posso encontrar esse sujeito?}{}{5}{}{61}{qu1087 2}
+{53}{Essa quantia é um pouco baixa para um "serviço pesado".}{}{5}{}{170}{}
+{54}{500 tá bom.}{}{-4}{}{61}{qu1087 2}
+{55}{500 não tá bom.}{}{-4}{}{170}{}
+{61}{Sendo da gangue Pollock, ele mora lá no terrível sul do Boil. Ele atende pelo nome de Treat, um orc feio. Ele alega ter apenas parte da herança orc, mas, olhando para ele, você juraria que é orc de cabo a rabo.}{Sendo da gangue Pollock, ele mora lá no terrível sul do Boil. Ele atende pelo nome de Treat, um orc feio. Ele alega ter apenas parte da herança orc, mas, olhando para ele, você juraria que é orc de cabo a rabo.}{}{}{}{}
+{62}{Considere-o falecido.}{}{5}{gf2184 0}{72}{re+5}
+{63}{O quê? Eu já matei aquele maldito metamorfo!}{}{5}{gf2184 1}{181}{}
+{70}{Eu matei o cara cobra. Já.}{}{-4}{gf2184 1}{181}{}
+{71}{Eu o mato agora.}{}{-4}{gf2184 0}{72}{re+5}
+{72}{Oooh! Esplêndido!}{Oooh! Esplêndido!}{}{}{}{}
+{73}{Bom dia.}{}{5}{}{0}{}
+{81}{Oh, céus! Que atitude. Que precoce. Tenho um fraco por durões como você. Permita-me apresentar, sou Milo, o braço direito do Sr. Maug, por assim dizer. Ninguém entra aqui sem a minha permissão. Está claro?}{Oh, céus! Que atitude. Que precoce. Tenho um fraco por durões como você. Permita-me apresentar, sou Milo, o braço direito do Sr. Maug, por assim dizer. Ninguém entra aqui sem a minha permissão. Está claro?}{}{}{}{}
+{82}{Mas o Muggs me disse para...}{}{5}{}{21}{}
+{84}{Você é mulher ou homem?}{}{5}{}{130}{re-10}
+{91}{Hmm, hmm, não acho que isso vá acontecer. Apenas o Clã Maug é permitido dentro destes muros, e mesmo assim só membros selecionados. Dê meia-volta e volte por onde veio.}{Hmm, hmm, não acho que isso vá acontecer. Apenas o Clã Maug é permitido dentro destes muros, e mesmo assim só membros selecionados. Dê meia-volta e volte por onde veio.}{}{}{}{}
+{92}{Vou entrar aqui, quer você goste ou não.}{}{5}{}{101}{re-10}
+{93}{Entendo. Então vou indo.}{}{5}{}{0}{lf0 1}
+{94}{Não. Eu entro.}{}{-4}{}{101}{re-10}
+{95}{E:}{}{-4}{}{0}{lf0 1}
+{101}{Nada me daria mais prazer do que cortar sua garganta idiota de orelha a orelha, mas detesto a sujeira que faz. Some daqui, cabeça-dura.}{Nada me daria mais prazer do que cortar sua garganta idiota de orelha a orelha, mas detesto a sujeira que faz. Some daqui, cabeça-dura.}{}{}{}{}
+{102}{Tudo bem, estou indo embora.}{}{5}{}{0}{lf3 1}
+{103}{Não se preocupe com a sujeira. Vou limpar seu sangue com sua cara.}{}{5}{}{0}{fl 180 ,co}
+{111}{Como ousa me comparar a um desses tolos sem cérebro e lamurientos! Nada me daria mais prazer do que cortar sua garganta idiota de orelha a orelha, mas detesto a sujeira que faz. Some daqui, cabeça-dura.}{Como ousa me comparar a um desses tolos sem cérebro e lamurientos! Nada me daria mais prazer do que cortar sua garganta idiota de orelha a orelha, mas detesto a sujeira que faz. Some daqui, cabeça-dura.}{}{}{}{}
+{112}{Tudo bem, estou indo embora.}{}{5}{}{0}{lf3 1}
+{113}{Não se preocupe com a bagunça. Vou limpar seu sangue com sua cara.}{}{5}{}{0}{fl 180 ,co}
+{121}{Oh, que esplendidamente delicioso! Um brutamontes desajeitado com a inteligência de um orc! Tenho um trabalho para você fazer antes de deixá-lo entrar.}{Oh, que esplendidamente delicioso! Um brutamontes desajeitado com a inteligência de um orc! Tenho um trabalho para você fazer antes de deixá-lo entrar.}{}{}{}{}
+{122}{O que é isso?}{}{-4}{}{41}{}
+{130}{Estou completamente descontente com sua fraca tentativa de humor. Sugiro que me trate com o devido respeito ou serei forçado a lhe dar um tapa.}{Estou completamente descontente com sua fraca tentativa de humor. Sugiro que me trate com o devido respeito ou serei forçado a lhe dar um tapa.}{}{}{}{}
+{131}{Peço desculpas. Agora, se me deixar passar, tenho assuntos a tratar lá dentro.}{}{5}{}{21}{}
+{132}{Desculpe. Eu entro?}{}{-4}{}{21}{}
+{133}{Você me lembra uma namorada que eu tinha. Eu sempre a odiei.}{1}{5}{}{0}{fl 180 ,co}
+{134}{Você é uma vergonha para as mulheres em todos os lugares.}{0}{5}{}{0}{fl 180 ,co}
+{140}{Se continuar me pressionando, ficará extremamente infeliz.}{Se continuar me pressionando, ficará extremamente infeliz.}{}{}{}{}
+{141}{Nada me deixaria mais feliz agora do que matar você.}{}{5}{}{0}{fl 180 ,co}
+{142}{Peço desculpas pelo meu acesso de raiva. O que preciso fazer para entrar?}{}{5}{}{31}{}
+{149}{Não aguento mais essa conversa. Tenha um bom dia.}{}{5}{}{0}{lf1 1}
+{150}{Você preferiria algo mais na linha de serviços de limpeza, talvez? Somos uma gangue, idiota. Mantemos nosso poder através do medo e da intimidação. Se é muito sensível para esse tipo de trabalho, talvez devesse simplesmente ir embora.}{Você preferiria algo mais na linha de serviços de limpeza, talvez? Somos uma gangue, idiota. Mantemos nosso poder através do medo e da intimidação. Se é muito sensível para esse tipo de trabalho, talvez devesse simplesmente ir embora.}{}{}{}{}
+{151}{Tá bom, qual é o trabalho, então?}{}{5}{}{41}{}
+{152}{Prefiro matar você a qualquer outra pessoa que eu consiga pensar.}{}{5}{}{0}{fl 180 ,co}
+{159}{Acho que vou seguir meu caminho, então. Tenha um bom dia.}{}{5}{}{0}{lf2 1}
+{160}{Que tedioso. Você é tão divertido. Quer o trabalho ou não?}{Que tedioso. Você é tão divertido. Quer o trabalho ou não?}{}{}{}{}
+{161}{Depende. Qual é o pagamento para esse tipo de trabalho?}{}{5}{}{51}{}
+{169}{Não, não quero. Tenha um bom dia.}{}{5}{}{0}{lf2 1}
+{170}{É isso que vale, e é a única maneira de você entrar no Bentley. O que vai ser, então?}{É isso que vale, e é a única maneira de você entrar no Bentley. O que vai ser, então?}{}{}{}{}
+{171}{Tá bom, eu faço. Onde posso encontrar esse sujeito?}{}{5}{}{61}{qu1087 2}
+{172}{Certo. Onde tá esse cara?}{}{-4}{}{61}{qu1087 2}
+{173}{Há outra maneira de entrar - por cima do seu cadáver.}{}{5}{}{0}{fl 180 ,co}
+{174}{Vou te matar agora, tá bom?}{}{-4}{}{0}{fl 180 ,co}
+{178}{E:}{}{-4}{}{0}{}
+{179}{Acho que vou embora, então.}{}{5}{}{0}{}
+{180}{Ooh! É uma briga! Eu simplesmente adoro matar!}{Ooh! É uma briga! Eu simplesmente adoro matar!}{}{}{}{}
+{181}{Oooh! Esplêndido! Aqui estão suas 500 moedas de ouro. Você é bem-vindo para entrar na majestosa Bentley, lar do Clã Maug!}{Oooh! Esplêndido! Aqui estão suas 500 moedas de ouro. Você é bem-vindo para entrar na majestosa Bentley, lar do Clã Maug!}{}{}{}{qu1087 4, gf2185 1}
+{182}{Obrigado. Tenha um bom dia.}{}{5}{}{0}{$$500}
+{183}{E:}{}{-4}{}{0}{$$500}
+{190}{Você decidiu nos honrar com sua presença mais uma vez, que delícia! O que deseja agora?}{Você decidiu nos honrar com sua presença mais uma vez, que delícia! O que deseja agora?}{}{}{}{}
+{191}{Decidi aceitar seu trabalho. Qual seria o pagamento?}{}{5}{qu1087 1}{51}{}
+{192}{Você mencionou um trabalho que incluía algum "serviço pesado"?}{}{5}{lf2 1, qu1087 0}{41}{}
+{193}{O que preciso fazer para entrar e falar com Damian Maug?}{}{5}{lf1 1}{31}{}
+{194}{Vou entrar.}{}{5}{qb1084 2}{91}{}
+{195}{Quero trabalho que pague. Quanto é?}{}{-4}{qu1087 1}{51}{}
+{196}{O que preciso fazer para o trabalho?}{}{-4}{lf2 1, qu1087 0}{41}{}
+{197}{Falo com Dumium Moog?}{}{-4}{lf1 1}{31}{}
+{198}{Vou entrar.}{}{-4}{qb1084 2}{91}{}
+{210}{O galante guerreiro retorna! Diga-me, você veio entregar a cabeça do Treat em uma bandeja, hmm?}{O galante guerreiro retorna! Diga-me, você veio entregar a cabeça do Treat em uma bandeja, hmm?}{}{}{}{}
+{211}{Ele está morto.}{}{5}{gf2184 1, lf5 0}{181}{}
+{212}{Você convenientemente esqueceu de mencionar que ele podia se transformar!}{}{5}{gf2184 1, lf4 0}{235}{lf4 1}
+{213}{Não, ele ainda não está morto.}{}{5}{gf2184 0}{225}{}
+{214}{Ele não está morto, se transformou em uma cobra, seu bastardo!}{}{5}{gf2186 1, gf2184 0}{265}{lf4 1}
+{215}{Ele morreu.}{}{-4}{gf2184 1, lf5 0}{181}{}
+{216}{Ele se transformou! Uh... coisa de cobra.}{}{-4}{gf2184 1, lf4 0}{235}{lf4 1}
+{217}{Hã... não?}{}{-4}{gf2184 0}{225}{}
+{218}{Ele não está morto, é uma cobra!}{}{-4}{gf2186 1, gf2184 0}{265}{lf4 1}
+{219}{Ele está morto.}{}{5}{gf2184 1, lf5 1}{245}{}
+{220}{Ele morreu.}{}{-4}{gf2184 1, lf5 1}{245}{}
+{225}{[Ele age como se estivesse contendo um bocejo.] Por que você tem que me entediar? Saia daqui, peão.}{[Ele age como se estivesse contendo um bocejo.] Por que você tem que me entediar? Saia daqui, peão.}{}{}{}{}
+{226}{Bom dia.}{}{5}{}{0}{}
+{227}{E:}{}{-4}{}{0}{}
+{228}{É difícil fingir tédio quando se está sem cabeça!}{}{5}{}{0}{fl 180 ,co}
+{235}{Tsc! Tsc! Que demonstração de emoção. Por que acha que eu mesmo não fiz o serviço? Esses... "seres" que mudam de forma são terrivelmente difíceis de lidar. E feios, também. Suponho que eu poderia lhe dar mais 50 moedas pelo trabalho extra, se você vai continuar com essa choradeira!}{Tsc! Tsc! Que demonstração de emoção. Por que acha que eu mesmo não fiz o serviço? Esses... "seres" que mudam de forma são terrivelmente difíceis de lidar. E feios, também. Suponho que eu poderia lhe dar mais 50 moedas pelo trabalho extra, se você vai continuar com essa choradeira!}{}{}{}{}
+{236}{Trato feito.}{}{5}{}{245}{}
+{237}{Tá bom.}{}{-4}{}{245}{}
+{238}{Certamente você está brincando! Uma ninharia dessas é um insulto!}{}{5}{}{255}{re-5}
+{239}{Isso não é o suficiente.}{}{-4}{}{255}{re-5}
+{245}{Oooh! Magnífico! Aqui estão seus 550 de ouro. Você é bem-vindo para entrar na majestosa Bentley, lar do Clã Maug!}{Oooh! Magnífico! Aqui estão seus 550 de ouro. Você é bem-vindo para entrar na majestosa Bentley, lar do Clã Maug!}{}{}{}{qu1087 4, gf2185 1}
+{246}{Obrigado. Tenha um bom dia.}{}{5}{}{0}{$$550}
+{247}{E:}{}{-4}{}{0}{$$550}
+{255}{Isso é tudo que estou disposto a oferecer. Posso não lhe pagar nada, se preferir.}{Isso é tudo que estou disposto a oferecer. Posso não lhe pagar nada, se preferir.}{}{}{}{}
+{256}{Tudo bem, eu aceito.}{}{5}{}{245}{}
+{257}{Tá bom.}{}{-4}{}{245}{}
+{258}{Acho que vou tirar minha taxa do seu corpo magricela, idiota!}{}{5}{}{0}{fl 180 ,co}
+{259}{Eu mato você. Certo?}{}{-4}{}{0}{fl 180 ,co}
+{265}{Tsc! Tsc! Que demonstração de emoção. Por que você acha que eu não fiz o trabalho sozinho? Esses transmorfos cobra... "coisas" são terrivelmente difíceis de lidar. E feios, também. Suponho que eu poderia jogar mais 50 moedas pelo trabalho extra, se você vai continuar insistindo assim!}{Tsc! Tsc! Que demonstração de emoção. Por que você acha que eu não fiz o trabalho sozinho? Esses transmorfos cobra... "coisas" são terrivelmente difíceis de lidar. E feios, também. Suponho que eu poderia jogar mais 50 moedas pelo trabalho extra, se você vai continuar insistindo assim!}{}{}{}{}
+{266}{Isso me parece aceitável.}{}{5}{}{275}{lf5 1}
+{267}{Tá bom.}{}{-4}{}{275}{lf5 1}
+{268}{Eu me ofendo profundamente com o fato de você ainda estar vivo.}{}{5}{}{0}{fl 180 ,co}
+{269}{Eu mato você. Certo?}{}{-4}{}{0}{fl 180 ,co}
+{275}{Saia daqui, então. Você está começando a me entediar.}{Saia daqui, então. Você está começando a me entediar.}{}{}{}{}
+{276}{E:}{}{1}{}{0}{}
+{277}{É difícil fingir tédio quando se está sem cabeça!}{}{5}{}{0}{fl 180 ,co}
+{285}{Com isso você quer dizer por que eu não estou no colo do luxo como todos os meus "irmãos de alta classe"? É muito simples, na verdade. Eu ganho mais em um mês do que qualquer um deles em um ano. Atender aos instintos mais básicos sempre foi um negócio muito lucrativo.}{Com isso você quer dizer por que eu não estou no colo do luxo como todos os meus "irmãos de alta classe"? É muito simples, na verdade. Eu ganho mais em um mês do que qualquer um deles em um ano. Atender aos instintos mais básicos sempre foi um negócio muito lucrativo.}{}{}{}{}
+{286}{Entendo. Então não é o caso de você não ser permitido na alta sociedade?}{}{5}{}{130}{re-10}
+{287}{Interessante. Bem, se você sair da frente, eu vou entrar.}{}{5}{}{295}{}
+{295}{[Ele coloca a mão no punhal em um gesto que deveria ser ameaçador, embora seja difícil levá-lo a sério.] Eu decido quem entra, como já lhe disse. Não me desafie, eu fico bastante desagradável quando estou com raiva.}{[Ele coloca a mão no punhal em um gesto que deveria ser ameaçador, embora seja difícil levá-lo a sério.] Eu decido quem entra, como já lhe disse. Não me desafie, eu fico bastante desagradável quando estou com raiva.}{}{}{}{}
+{296}{Fui instruído a procurar o Sr. Maug. Chega dessa bobagem!}{}{5}{}{140}{re-10}
+{297}{Certo, qual vai ser o preço para eu entrar?}{}{5}{}{31}{}
+{303}{Eu fico mentalmente instável e excessivamente violento quando estou com raiva.}{}{5}{}{140}{re-15}
+{304}{Então seguirei meu caminho.}{}{5}{}{0}{lf1 1}
+{305}{Por favor, entre à vontade.}{Por favor, entre à vontade.}{}{}{}{}
+

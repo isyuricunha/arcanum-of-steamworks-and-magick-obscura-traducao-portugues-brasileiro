@@ -1,0 +1,19 @@
+{1}{Pois não?}{Pois não?}{}{}{}{}
+{2}{Só estou de passagem.}{}{5}{}{5}{}
+{3}{Hmm... deve ser o lugar errado.}{}{-4}{}{5}{}
+{5}{Tenha um bom dia, então.}{Tenha um bom dia, então.}{}{}{}{}
+{6}{E:}{}{5}{}{0}{}
+{7}{E:}{}{-4}{}{0}{}
+{10}{Você é o mensageiro. Vamos logo com o bilhete e acabemos com isso...}{Você é o mensageiro. Vamos logo com o bilhete e acabemos com isso...}{}{}{}{}
+{11}{Aqui está...}{}{5}{in 5219, gf2112 0}{18}{in 5219}
+{12}{Aqui está...}{}{5}{in 5219, gf2112 1}{}{in 5219, co, fl 24}
+{13}{Hmm... parece que o perdi...}{}{5}{in -5219}{}{co, fl 22}
+{14}{Tá bom... pode pegar!}{}{-4}{in 5219, gf2112 0}{18}{}
+{15}{Tá bom... pode pegar!}{}{-4}{in 5219, gf2112 1}{}{co, fl 24}
+{16}{Hmm... eu o perdi...}{}{-4}{in -5219}{}{co, fl 22}
+{18}{[O homem pega o bilhete de você, examinando-o e verificando o selo. Ele parece satisfeito.] Aqui. Pegue o dinheiro e esqueça este lugar. [Ele lhe entrega 100 peças de ouro.]}{[O homem pega o bilhete de você, examinando-o e verificando o selo. Ele parece satisfeito.] Aqui. Pegue o dinheiro e esqueça este lugar. [Ele lhe entrega 100 peças de ouro.]}{}{}{}{qu1061 4, $$100}
+{19}{E:}{}{5}{}{0}{}
+{20}{E:}{}{-4}{}{0}{}
+{22}{Que pena. Matem-no, rapazes.}{Que pena. Matem-no, rapazes.}{}{}{}{}
+{24}{Nós lhe dissemos para não abrir. Isso lhe custou a vida...}{Nós lhe dissemos para não abrir. Isso lhe custou a vida...}{}{}{}{}
+

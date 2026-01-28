@@ -1,0 +1,84 @@
+{1}{Aguarde um momento enquanto verifico suas reservas.}{Aguarde um momento enquanto verifico suas reservas.}{}{}{}{lf 10 0, lf 11 0, lf 12 0, lf 13 0 , lf 14 0}
+{2}{Sim.}{}{5}{}{-12}{}
+{3}{Hã, tá bom.}{}{-4}{}{-12}{}
+{4}{[interrompendo] Conte-me sobre esse novo aparato, o trem.}{}{5}{lf 2 0}{38}{lf 2 1}
+{5}{E:}{}{1}{}{-1}{}
+{6}{}{}{}{}{}{}
+{7}{}{}{}{}{}{}
+{8}{}{}{}{}{}{}
+{9}{}{}{}{}{}{}
+{10}{[lembrando-se de seu dever] Só um momento, por favor, enquanto verifico suas reservas.}{[lembrando-se de seu dever] Só um momento, por favor, enquanto verifico suas reservas.}{}{}{}{}
+{11}{Sim.}{}{5}{}{-12}{}
+{12}{Tá.}{}{-4}{}{-12}{}
+{13}{E:}{}{1}{}{-1}{}
+{14}{}{}{}{}{}{}
+{15}{Vocês estão liberados para embarcar no trem. Estamos prestes a partir. Embarquem todos para Ashbury! Todos a bordo!}{Vocês estão liberados para embarcar no trem. Estamos prestes a partir. Embarquem todos para Ashbury! Todos a bordo!}{}{}{}{}
+{16}{[Embarcar no trem]}{}{1}{}{-10}{gf2327 0, gv 1037 0}
+{17}{}{}{}{}{}{}
+{18}{}{}{}{}{}{}
+{19}{}{}{}{}{}{}
+{20}{[verificando sua reserva] Sim, suas reservas estão em ordem.}{[verificando sua reserva] Sim, suas reservas estão em ordem.}{}{}{}{}
+{21}{Podemos embarcar então?}{}{5}{}{-16}{}
+{22}{O que pode me dizer sobre esse novo aparato, o trem?}{}{5}{lf 2 0}{38}{lf 2 1}
+{23}{E:}{}{5}{}{-1}{}
+{24}{Eu andar trem? Hã? Eu ir no tchuc-tchuc.}{}{-4}{}{-16}{}
+{25}{E:}{}{-4}{}{-1}{}
+{26}{}{}{}{}{}{}
+{27}{}{}{}{}{}{}
+{28}{}{}{}{}{}{}
+{29}{[notando uma discrepância] Parece que há mais pessoas aqui do que consta em sua reserva. Sugiro que resolva isso com o escritório da frente. Peça um reembolso primeiro, depois compre sua passagem novamente.}{[notando uma discrepância] Parece que há mais pessoas aqui do que consta em sua reserva. Sugiro que resolva isso com o escritório da frente. Peça um reembolso primeiro, depois compre sua passagem novamente.}{}{}{}{}
+{30}{Desculpe, não sei como isso pode ter acontecido.}{}{5}{}{-1}{}
+{31}{Seu pessoal das reservas deve ter cometido um erro.}{}{5}{}{-1}{}
+{32}{Vou resolver isso e já volto.}{}{5}{}{-1}{}
+{33}{Eu vou ver o que aconteceu}{}{-4}{}{-1}{}
+{34}{E:}{}{1}{}{-1}{}
+{35}{[notando uma discrepância] Não há registro de sua reserva. Tem certeza de que fez uma reserva? Resolva isso com o guichê de passagens. Não tenho tempo para esse tipo de consternação!}{[notando uma discrepância] Não há registro de sua reserva. Tem certeza de que fez uma reserva? Resolva isso com o guichê de passagens. Não tenho tempo para esse tipo de consternação!}{}{}{}{}
+{36}{E:}{}{1}{}{-1}{}
+{37}{}{}{}{}{}{}
+{38}{Isto, Senhor, é a peça de maquinário mais notável de toda a terra. A engenhosidade mecânica por trás de seus componentes funcionais irá tanto surpreender quanto maravilhar. Nunca antes as massas tiveram acesso a acomodações de viagem tão luxuosas.}{Isto, Senhora, é a peça de maquinário mais notável de toda a terra. A engenhosidade mecânica por trás de seus componentes funcionais irá tanto surpreender quanto maravilhar. Nunca antes as massas tiveram acesso a acomodações de viagem tão luxuosas.}{}{}{}{lf2 1}
+{39}{Obrigado. Estou ansioso para viajar a bordo dele.}{}{5}{}{10}{}
+{40}{Engenhosidade Tecnológica! Um bom teleporte vence isso a qualquer momento!}{}{5}{ma 50}{10}{re -5}
+{41}{Incrível! Mal posso acreditar em todas as novidades desses dias.}{}{5}{}{10}{}
+{42}{Obrigado. Eu acho que vai ser divertido andar nele!}{}{-4}{}{10}{}
+{43}{Uau! Só de olhar já me dói a cabeça!}{}{-4}{}{10}{}
+{44}{E:}{}{1}{}{-1}{}
+{45}{O trem está prestes a partir. Por favor, apressem-se para embarcar. Espero que tenham uma experiência agradável a bordo.}{O trem está prestes a partir. Por favor, apresse-se para embarcar. Espero que tenha uma experiência agradável a bordo.}{}{}{}{}
+{46}{[estudando seu relógio de bolso] Estou detectando uma forte presença MÁGICA em seu grupo. Vocês, seus tolos, não sabem o que pode acontecer se chegarem perto de uma poderosa máquina a vapor como esta locomotiva? Vá falar com o Condutor do Vagão dos Magos! Saia daqui agora!}{[estudando seu relógio de bolso] Estou detectando uma forte presença MÁGICA em seu grupo. Vocês, seus tolos, não sabem o que pode acontecer se chegarem perto de uma poderosa máquina a vapor como esta locomotiva? Vá falar com o Condutor do Vagão dos Magos! Saia daqui agora!}{}{}{}{}
+{47}{Minha aptidão não é suficiente para interferir na mecânica.}{}{5}{ma-10, ps 10}{54}{}
+{48}{Minha aptidão não é suficiente para interferir na mecânica.}{}{5}{ma41}{58}{re -5}
+{49}{Vou falar com ele. Obrigado.}{}{5}{}{-1}{}
+{50}{mim andar, mim dizer tá bom, mim saber, mim fazer.}{}{-4}{ma-10, ps 10}{54}{}
+{51}{mim andar, mim dizer tá bom, mim saber, mim fazer.}{}{-4}{ma41}{58}{re -5}
+{52}{mim ir. fazer o que você diz.}{}{-4}{}{-1}{}
+{53}{E:}{}{1}{}{-1}{}
+{54}{[Ele o observa cuidadosamente] Hmm... Sim. Acredito que você está certo. Permitirei que viaje.}{[Ele o observa cuidadosamente] Hmm... Sim. Acredito que você está certo. Permitirei que viaje.}{}{}{}{}
+{55}{[Embarcar no trem]}{}{1}{}{-10}{gf2327 0, gv 1037 0}
+{56}{E:}{}{1}{}{-1}{}
+{57}{}{}{}{}{}{}
+{58}{Você me toma por um tolo? Não colocarei vidas em risco por sua conveniência! SAIA AGORA! Ou terei que chamar os guardas.}{Você me toma por um tolo? Não colocarei vidas em risco por sua conveniência! SAIA AGORA! Ou terei que chamar os guardas.}{}{}{}{}
+{59}{E:}{}{1}{}{-1}{}
+{60}{Obrigado por viajar a bordo do trem. Esperamos que aproveite sua estadia em Tarant.}{Obrigado por viajar a bordo do trem. Esperamos que aproveite sua estadia em Tarant.}{}{}{}{}
+{61}{Obrigado por viajar a bordo do trem. Esperamos que aproveite sua estadia em Ashbury.}{Obrigado por viajar a bordo do trem. Esperamos que aproveite sua estadia em Ashbury.}{}{}{}{}
+{62}{}{}{}{}{}{}
+{63}{}{}{}{}{}{}
+{64}{}{}{}{}{}{}
+{65}{}{}{}{}{}{}
+{66}{}{}{}{}{}{}
+{67}{}{}{}{}{}{}
+{68}{}{}{}{}{}{}
+{69}{[notando uma discrepância] Parece que há mais pessoas aqui do que consta em sua reserva. Sugiro que vá resolver isso com o escritório central. Primeiro, peça reembolso e depois compre uma nova passagem.}{[notando uma discrepância] Parece que há mais pessoas aqui do que consta em sua reserva. Sugiro que vá resolver isso com o escritório central. Primeiro, peça reembolso e depois compre uma nova passagem.}{}{}{}{}
+{70}{I:}{}{5}{}{-1}{}
+{71}{E:}{}{5}{}{-1}{}
+{72}{I:}{}{-4}{}{-1}{}
+{73}{E:}{}{-4}{}{-1}{}
+{74}{Meu Deus, não permitimos mortos-vivos no trem! Tire essa coisa daqui! Se tiver alguma reclamação, procure um Agente de Bilhetes. Eles poderão providenciar seu reembolso.}{Meu Deus, não permitimos mortos-vivos no trem! Tire essa coisa daqui! Se tiver alguma reclamação, procure um Agente de Bilhetes. Eles poderão providenciar seu reembolso.}{}{}{}{}
+{75}{E:}{}{5}{}{-1}{}
+{76}{E:}{}{-4}{}{-1}{}
+{77}{}{}{}{}{}{}
+{78}{}{}{}{}{}{}
+{79}{}{}{}{}{}{}
+{80}{Desculpe, NÃO são permitidos animais no trem. Se tiver alguma reclamação, pode solicitar reembolso com o agente de bilhetes.}{Desculpe, NÃO são permitidos animais no trem. Se tiver alguma reclamação, pode solicitar reembolso com o agente de bilhetes.}{}{}{}{}
+{81}{E:}{}{5}{}{-1}{}
+{82}{E:}{}{-4}{}{-1}{}
+{83}{}{}{}{}{}{}
+

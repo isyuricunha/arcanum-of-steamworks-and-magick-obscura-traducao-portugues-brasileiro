@@ -1,0 +1,85 @@
+{1}{Pare aí! O que está fazendo aqui?}{Pare aí! O que está fazendo aqui?}{}{}{}{ }
+{2}{Hã... nada. Eu estava apenas viajando pelo interior...}{}{5}{}{15}{ }
+{3}{Hã. Nada?}{}{-4}{}{220}{ }
+{4}{Sou arqueólogo. Fui enviado aqui para explorar essas ruínas.}{}{5}{ps4}{25}{ }
+{5}{Vim aqui para impedir esse estupro científico de nossas terras sagradas.}{}{5}{ra3}{160}{ }
+{14}{Nada. Na verdade, eu estava justamente de saída.}{}{5}{}{130}{ }
+{15}{Não acredito em você. Vou perguntar mais uma vez: o que está fazendo aqui?}{Não acredito em você. Vou perguntar mais uma vez: o que está fazendo aqui?}{}{}{}{ }
+{16}{Tá bom. Sou arqueólogo. Fui enviado aqui para explorar essas ruínas.}{}{5}{ps4, ra-3}{25}{ }
+{17}{Fui enviado aqui para recuperar algo.}{}{5}{qa1062 1}{180}{ }
+{18}{Vou dizer mais uma vez: eu estava apenas explorando o interior.}{}{5}{}{0}{fl 240 ,co}
+{19}{Vim aqui para impedir esse estupro científico de nossas terras sagradas.}{}{5}{ra3}{160}{ }
+{25}{Explorar? Não quer dizer saquear e profanar nosso antigo solo sagrado?}{Explorar? Não quer dizer saquear e profanar nosso antigo solo sagrado?}{}{}{}{ }
+{26}{Claro que não. Sou um homem da ciência.}{1}{5}{}{140}{lf1 1, re-5 }
+{27}{Ahhh, não. Eu, hã, menti. Estou aqui para recuperar algo.}{}{5}{}{180}{ }
+{28}{Claro que não. Sou uma mulher da ciência.}{0}{5}{}{140}{lf1 1, re-5 }
+{29}{Estou aqui para preservar este sítio do mau uso por gente como ele.}{}{5}{}{35}{ }
+{35}{[Ele chuta o cadáver.] Oh? Então este não é seu colega?}{[Ele chuta o cadáver.] Oh? Então este não é seu colega?}{}{}{}{ }
+{36}{Não, eu não tinha nenhuma ligação com gente como ele.}{}{5}{}{70}{re-5 }
+{37}{Ele era, mas eu não concordava com suas ideias.}{}{5}{}{45}{ }
+{45}{Isso é sorte para você. Ele e todos que compartilham suas ideias são nossos inimigos. [Ele estreita os olhos para você.] Suponho que gostaria que o deixássemos ir.}{Isso é sorte para você. Ele e todos que compartilham suas ideias são nossos inimigos. [Ele estreita os olhos para você.] Suponho que gostaria que o deixássemos ir.}{}{}{}{ }
+{46}{Seria apreciado.}{}{5}{}{55}{ }
+{47}{Não, quero que VOCÊS MORRAM!}{}{5}{}{0}{fl 240 ,co}
+{55}{Diga-me, o que vai fazer se o deixarmos ir?}{Diga-me, o que vai fazer se o deixarmos ir?}{}{}{}{ }
+{56}{Eu, é claro, não contaria a ninguém o que vi aqui.}{}{5}{}{120}{re-5 }
+{57}{Eu contaria a todos o que aconteceu aqui como um aviso.}{}{5}{}{-4}{lf2 1 }
+{65}{[Ele faz uma pausa por um momento antes de responder.] Você tem sorte de ser uma pessoa honesta. A maioria teria mentido e tentado me convencer de que não diria nada sobre isso. Você está livre para ir... mas eu o aviso, nunca mais volte. Você tem dois minutos para sair deste lugar.}{[Ele faz uma pausa por um momento antes de responder.] Você tem sorte de ser uma pessoa honesta. A maioria teria mentido e tentado me convencer de que não diria nada sobre isso. Você está livre para ir... mas eu o aviso, nunca mais volte. Você tem dois minutos para sair deste lugar.}{}{}{}{ }
+{70}{[Ele obviamente não acredita em você.] Então, por favor, me diga, de onde exatamente você é?}{[Ele obviamente não acredita em você.] Então, por favor, me diga, de onde exatamente você é?}{}{}{}{ }
+{71}{Sou professor associado na Universidade de Tarant.}{}{5}{}{110}{re-5 }
+{72}{Tudo bem, eu menti. Fui enviado aqui para recuperar algo.}{}{5}{}{180}{ }
+{73}{Trabalho sozinho. Parei de trabalhar para gente como ele há algum tempo.}{}{5}{}{80}{ }
+{80}{E por que foi isso?}{E por que foi isso?}{}{}{}{ }
+{81}{Acho que lugares como este devem ser deixados em paz. Ele não concordava.}{}{5}{ps-7}{120}{re-5 }
+{82}{Ele não me pagava dinheiro suficiente.}{}{5}{}{90}{ }
+{83}{Acho que lugares como este devem ser deixados em paz. Ele não concordava.}{}{5}{ps8}{55}{ }
+{90}{Hah! Um homem como eu! Suponho que gostaria que o deixássemos ir agora?}{Hah! Um homem como eu! Suponho que gostaria que o deixássemos ir agora?}{}{}{}{ }
+{91}{Isso seria apreciado.}{}{5}{}{55}{ }
+{92}{Não, eu quero que vocês MORRAM!}{}{5}{}{0}{fl 240 ,co}
+{100}{Não aprecio mentirosos. Acho que é hora de você morrer.}{Não aprecio mentirosos. Acho que é hora de você morrer.}{}{}{}{ }
+{101}{Você primeiro.}{}{5}{}{0}{fl 240 ,co}
+{102}{Não, por favor, não me mate!}{}{5}{}{0}{fl 240 ,co}
+{110}{[Ele se aproxima de você, um olhar ameaçador cruzando seu rosto.] Isso é interessante. Era o que diziam as credenciais dele.}{[Ele se aproxima de você, um olhar ameaçador cruzando seu rosto.] Isso é interessante. Era o que diziam as credenciais dele.}{}{}{}{ }
+{111}{Tudo bem, eu menti. Fui enviado aqui para recuperar algo.}{}{5}{}{180}{ }
+{112}{Devem ser falsificações! Nunca vi este homem antes na minha vida!}{}{5}{}{100}{re-10 }
+{120}{Não aprecio mentirosos, especialmente os covardes que diriam qualquer coisa para salvar suas vidas patéticas. Acho que é hora de você morrer.}{Não aprecio mentirosos, especialmente os covardes que diriam qualquer coisa para salvar suas vidas patéticas. Acho que é hora de você morrer.}{}{}{}{ }
+{121}{Você primeiro.}{}{5}{}{0}{fl 240 ,co}
+{122}{Não, por favor, não me mate!}{}{5}{}{0}{fl 240 ,co}
+{130}{Acho que não. Vou perguntar mais uma vez. O que você está fazendo aqui?}{Acho que não. Vou perguntar mais uma vez. O que você está fazendo aqui?}{}{}{}{ }
+{131}{Tudo bem. Sou arqueólogo. Fui enviado aqui para explorar estas ruínas.}{}{5}{ps4, ra-3}{25}{ }
+{132}{Fui enviado aqui para recuperar algo.}{}{5}{qa1062 1}{180}{ }
+{133}{Vou lhe dizer mais uma vez, eu estava apenas explorando o interior.}{}{5}{}{0}{fl 240 ,co}
+{134}{Vim aqui para impedir este estupro científico de nossas terras sagradas.}{}{5}{ra3}{160}{ }
+{140}{Ciência! Você ousa falar comigo sobre ciência! Olhe ao redor e veja o que a ciência está fazendo com o nosso mundo!}{Ciência! Você ousa falar comigo sobre ciência! Olhe ao redor e veja o que a ciência está fazendo com o nosso mundo!}{}{}{}{ }
+{141}{Tá bom, eu menti. Fui enviado aqui para recuperar algo.}{}{5}{}{180}{ }
+{142}{Você tem razão. Agora vejo o erro dos meus atos.}{}{5}{}{120}{re-5 }
+{143}{Não renunciarei às minhas crenças porque você me ameaça, senhor.}{}{5}{}{150}{ }
+{150}{[Ele sorri.] Posso respeitar isso. Suponho que gostaria que o deixássemos seguir seu caminho?}{[Ele sorri.] Posso respeitar isso. Suponho que gostaria que o deixássemos seguir seu caminho?}{}{}{}{ }
+{151}{Seria apreciado.}{}{5}{}{55}{ }
+{152}{Não, eu quero que vocês MORRAM!}{}{5}{}{0}{fl 240 ,co}
+{160}{Então deixaremos você passar, irmão.}{Então deixaremos você passar, irmã.}{}{}{}{gf2589 1 }
+{161}{Posso descer para dar uma olhada?}{}{5}{}{-13}{ }
+{170}{Certamente. Mas eu o aviso para não levar nada daqui.}{Certamente. Mas eu o aviso para não levar nada daqui.}{}{}{}{ }
+{180}{O que você quer dizer com "recuperar algo"?}{O que você quer dizer com "recuperar algo"?}{}{}{}{ }
+{181}{Uma mulher rica da alta sociedade me pagou para pegar uma lápide funerária.}{}{5}{}{190}{ }
+{190}{Então você simplesmente pensou em vir aqui e profanar nosso solo sagrado?}{Então você simplesmente pensou em vir aqui e profanar nosso solo sagrado?}{}{}{}{ }
+{191}{Eu não fazia ideia. Só precisava do dinheiro. Sinto muito de verdade.}{}{5}{}{200}{ }
+{200}{Diga-nos quem ela é, e o deixaremos ir.}{Diga-nos quem ela é, e o deixaremos ir.}{}{}{}{ }
+{201}{Sra. Pettibone. Ela mora na Rua Lungsten, 21, em Tarant.}{}{5}{}{-7}{gf2588 1, np1220 1, qu1062 6, lf2 1 }
+{202}{Não trairei a confiança dela, não importa o que ela tenha feito.}{}{5}{}{210}{re-5 }
+{210}{Eu o aconselharia a repensar sua posição. Ela não vale a sua vida, vale?}{Eu o aconselharia a repensar sua posição. Ela não vale a sua vida, vale?}{}{}{}{ }
+{211}{Prefiro matar vocês.}{}{5}{}{0}{fl 240 ,co}
+{212}{Sra. Pettibone. Ela mora na Rua Lungsten, 21, em Tarant.}{}{5}{}{-7}{gf2588 1, np1220 1, qu1062 6, lf2 1 }
+{220}{Vou perguntar mais uma vez, idiota, o que você está fazendo aqui?}{Vou perguntar mais uma vez, idiota, o que você está fazendo aqui?}{}{}{}{ }
+{221}{Eu aqui matar você.}{}{-4}{}{0}{fl 240 ,co}
+{222}{Eu aqui arranjar uma coisa pra madame rica.}{}{-4}{}{230}{ }
+{230}{Ah, é? E quem seria?}{Ah, é? E quem seria?}{}{}{}{ }
+{231}{Eu não contar.}{}{-4}{}{235}{ }
+{232}{Osso bonito. Rua Lumpin, 21, em Trant.}{}{-4}{}{-7}{gf2588 1, np1220 1, qu1062 6, lf2 1 }
+{234}{Você está livre para ir... mas eu o aviso, nunca mais volte. Você tem dois minutos para sair deste lugar.}{Você está livre para ir... mas eu o aviso, nunca mais volte. Você tem dois minutos para sair deste lugar.}{}{}{}{ }
+{235}{Então você morrerá.}{Então você morrerá.}{}{}{}{ }
+{236}{Tá.}{}{-4}{}{0}{fl 240 ,co}
+{237}{Osso bonito. Rua Lumpin, 21, em Trant.}{}{-4}{}{-7}{gf2588 1, np1220 1, qu1062 6, lf2 1 }
+{240}{Eles encontrarão seus ossos branqueados ao sol, cão!}{Eles encontrarão seus ossos branqueados ao sol, vadia!}{}{}{}{ }
+{241}{Como ousa roubar de nossas terras sagradas!}{Como ousa roubar de nossas terras sagradas!}{}{}{}{ }
+{242}{Eu disse para você sair deste lugar! Agora, você morre!}{Eu disse para você sair deste lugar! Agora, você morre!}{}{}{}{ }
+

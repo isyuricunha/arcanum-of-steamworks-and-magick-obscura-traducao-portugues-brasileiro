@@ -1,0 +1,120 @@
+{1}{G:}{}{}{}{}{}
+{2}{Saudações, Mestre. Posso perguntar em qual colégio você se especializou?}{}{5}{lf1 0, re 41}{28}{}
+{3}{De qual colégio você é Mestre, grande mago?}{}{5}{lf1 0, re 41}{28}{}
+{4}{Então do que você é Mestre, mago?}{}{5}{lf1 0, re 41}{28}{}
+{5}{Perdoe-me por qualquer ofensa, grande mago. Posso saber seu nome?}{}{5}{lf1 0, re -40}{28}{re+5}
+{6}{Hmm... Posso saber seu nome, senhor?}{}{5}{lf1 0, re -40}{28}{re+2}
+{7}{Bem grosseiro para um "Mestre". Quem é você, afinal?}{}{5}{lf1 0, re -40}{28}{}
+{8}{Tenho uma pergunta.}{}{5}{lf1 1, re 41}{36}{}
+{9}{Mestre Ferko? Posso lhe fazer uma pergunta?}{}{5}{lf1 1, re 41}{36}{}
+{10}{Posso tomar um momento do seu tempo, Mestre Ferko?}{}{5}{lf1 1, re 41}{36}{}
+{11}{Humpf! ...Tenho uma pergunta... "Mestre".}{}{5}{lf1 1, re -40}{36}{}
+{12}{Por favor, perdoe minha intrusão, Mestre Ferko. Posso fazer uma pergunta?}{}{5}{lf1 1, re -40}{36}{re+2}
+{13}{Posso tomar um momento do seu tempo, Mestre Ferko?}{}{5}{lf1 1, re -40}{36}{re+1}
+{14}{Hã... Qual é o seu nome?}{}{-4}{lf1 0, re 41}{28}{}
+{15}{Hã... qual é o seu nome, malvado?}{}{-4}{lf1 0, re -40}{28}{}
+{16}{Hã... Eu pergunto uma coisa?}{}{-4}{lf1 1, re 41}{36}{}
+{17}{Hã... eu pergunto uma coisa, malvado?}{}{-4}{lf1 1, re -40}{36}{}
+{18}{Melhorei minhas habilidades em Natureza, Mestre Ferko.}{}{5}{lf4 1, sc10 5}{78}{}
+{19}{Reforcei minha aura mágica, Mestre Ferko.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
+{20}{Tenho interesse em me tornar um Mestre de Natureza.}{}{5}{gf2411 0, ma30, lf1 1}{101}{}
+{21}{Ainda não completei o teste para Mestria, Ferko.}{}{5}{LF7 1, gf2422 0}{115}{}
+{22}{Senhor! Completei o teste e me tornei um Mestre de Natureza!}{}{5}{gf2422 1, lf9 0}{119}{}
+{27}{E:}{}{1}{}{0}{}
+{28}{Eu sou Ferko Lydell, Mestre de Natureza.}{Eu sou Ferko Lydell, Mestre de Natureza.}{}{}{}{lf1 1}
+{29}{É uma honra conhecê-lo, senhor.}{}{5}{sc10 1, sc10 -4, lf4 0}{73}{}
+{30}{É uma honra conhecê-lo, senhor.}{}{5}{sc10 5, lf5 0}{78}{}
+{31}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{sc10 0, lf3 0}{65}{}
+{32}{Poderia me explicar sobre Natureza, por favor?}{}{5}{sc10 0, lf2 0}{57}{}
+{33}{O que é na-chur?}{}{-4}{sc10 0, lf2 0}{57}{}
+{34}{Você acha que essa teknawlugia te prejudica?}{}{-4}{sc10 0, lf3 0}{65}{}
+{35}{E:}{}{1}{sc10 0}{0}{}
+{36}{Certamente. Como posso ajudá-lo?}{Certamente. Como posso ajudá-lo?}{}{}{}{}
+{37}{Melhorei minhas habilidades em Natureza, Mestre Ferko.}{}{5}{lf4 1, sc10 5, ma 30}{78}{}
+{38}{Reforcei minha aura mágica, Mestre Ferko.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
+{39}{Tenho interesse em me tornar um Mestre de Natureza.}{}{5}{gf2411 0, ma30}{101}{}
+{40}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
+{41}{Por favor, senhor, poderia me explicar sobre Natureza?}{}{5}{lf2 0}{57}{}
+{42}{O que é na-chur?}{}{-4}{lf2 0}{57}{}
+{43}{Você acha que essa teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
+{44}{F:}{}{1}{}{0}{}
+{45}{E:}{}{1}{}{0}{}
+{46}{Precisa de mais alguma coisa?}{Precisa de mais alguma coisa?}{}{}{}{}
+{47}{Melhorei minhas habilidades em Natureza, Mestre Ferko.}{}{5}{lf4 1, sc10 5, ma 30}{78}{}
+{48}{Reforcei minha aura mágica, Mestre Ferko.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
+{49}{Estou interessado em me tornar um Mestre da Natureza.}{}{5}{gf2411 0, ma30}{101}{}
+{50}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
+{51}{Por favor, explique-me sobre a Natureza, bom senhor.}{}{5}{lf2 0}{57}{}
+{52}{Não, senhor. Agradeço pelo seu tempo.}{}{5}{}{0}{}
+{53}{O que é na-chur?}{}{-4}{lf2 0}{57}{}
+{54}{Você acha que essa teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
+{55}{Nã-nã.}{}{-4}{}{0}{}
+{56}{E:}{}{1}{}{0}{}
+{57}{As magias da Natureza envolvem as coisas que nos cercam, como a vegetação e a vida selvagem. A Natureza é, em grande parte, uma magia benevolente, permitindo ao conjurador encantar criaturas e acelerar a cura. No entanto, também pode ser usada defensivamente, se assim desejar.}{As magias da Natureza envolvem as coisas que nos cercam, como a vegetação e a vida selvagem. A Natureza é, em grande parte, uma magia benevolente, permitindo ao conjurador encantar criaturas e acelerar a cura. No entanto, também pode ser usada defensivamente, se assim desejar.}{}{}{}{lf2 1}
+{58}{Parece que a Natureza é uma escola de magia muito versátil e poderosa.}{}{5}{}{46}{re+2}
+{59}{Hmm... interessante.}{}{5}{}{46}{}
+{60}{Então você considera invocar um coelho um grande feito mágico?}{}{5}{ma-29}{}{re-5, fl 123}
+{61}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
+{62}{Você acha que essa teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
+{63}{Hã... tá bom. Valeu.}{}{-4}{}{0}{}
+{64}{E:}{}{1}{}{0}{}
+{65}{Hmm... tenho ouvido muito sobre essa "tecnologia" ultimamente. Certamente eu "não" a vejo como uma ameaça... Parece mais uma magia de pobre, se me perguntar. Carece tanto da força quanto da disciplina proporcionadas pela magia. Quando as pessoas perceberem isso, duvido que ela dure muito tempo.}{Hmm... tenho ouvido muito sobre essa "tecnologia" ultimamente. Certamente eu "não" a vejo como uma ameaça... Parece mais uma magia de pobre, se me perguntar. Carece tanto da força quanto da disciplina proporcionadas pela magia. Quando as pessoas perceberem isso, duvido que ela dure muito tempo.}{}{}{}{lf3 1}
+{66}{Sim. O senhor é muito sábio, Mestre Ferko, por enxergar tal verdade.}{}{5}{}{46}{re+3}
+{67}{O senhor é claramente ingênuo nos caminhos da tecnologia, mago.}{}{5}{ma-29}{}{re-5, fl 124}
+{68}{Hmm... Uma opinião interessante. Obrigado por compartilhá-la comigo.}{}{5}{}{46}{}
+{69}{Por favor, poderia me explicar sobre a Natureza, bom senhor?}{}{5}{lf2 0}{57}{}
+{70}{O que é na-chur?}{}{-4}{lf2 0}{57}{}
+{71}{Hã... tá bom. Valeu.}{}{-4}{}{0}{}
+{72}{E:}{}{1}{}{0}{}
+{73}{Ah... O senhor estudou a escola mágica da Natureza... Uma escolha inteligente de estudos, senhor. Também me sinto honrado em conhecê-lo, @pcname@.}{Ah... A senhora estudou a escola mágica da Natureza... Uma escolha inteligente de estudos, madame. Também me sinto honrada em conhecê-la, @pcname@.}{}{}{}{lf4 1}
+{74}{Agradeço, senhor. Diga-me, o senhor não se sente ameaçado pela tecnologia?}{}{5}{lf3 0}{65}{}
+{75}{Agradeço, senhor. Poderia me explicar um pouco mais sobre a Natureza?}{}{5}{lf2 0}{57}{}
+{76}{Agradeço, Mestre.}{}{5}{}{0}{}
+{77}{E:}{}{1}{}{0}{}
+{78}{Vejo que o senhor se tornou proficiente em todas as áreas da escola da Natureza. Muito impressionante. Diga-me, senhor, achou difícil dominar Regenerar?}{Vejo que a senhora se tornou proficiente em todas as áreas da escola da Natureza. Muito impressionante. Diga-me, madame, achou difícil dominar Regenerar?}{}{}{}{lf5 1}
+{79}{Fui um talento natural, senhor.}{}{5}{gf2411 0, ma 30}{95}{}
+{80}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 0, ma 30}{95}{}
+{81}{Extremamente difícil, senhor. No entanto, sinto que meus esforços valeram a pena.}{}{5}{gf2411 0, ma 30}{95}{}
+{82}{Não, senhor. Foi algo natural para mim.}{}{5}{gf2411 0, ma -29}{89}{}
+{83}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 0, ma -29}{89}{}
+{84}{Extremamente difícil, senhor. No entanto, acho que definitivamente valeu a pena.}{}{5}{gf2411 0, ma -29}{89}{}
+{85}{Não, senhor. Foi algo natural para mim.}{}{5}{gf2411 1}{46}{}
+{86}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 1}{46}{}
+{87}{Extremamente difícil, senhor. No entanto, acredito que valeu a pena.}{}{5}{gf2411 1}{46}{}
+{88}{E:}{}{1}{}{0}{}
+{89}{Diga-me, senhor, é evidente que adquiriu conhecimento em todas as áreas da magia da Natureza, porém sinto fraqueza em você. Tem estado excessivamente próximo da tecnologia? Se algum dia aumentar seu poder mágico, gostaria de conversar sobre um treinamento adicional.}{Diga-me, senhora, é evidente que adquiriu conhecimento em todas as áreas da magia da Natureza, porém sinto fraqueza em você. Tem estado excessivamente próximo da tecnologia? Se algum dia aumentar seu poder mágico, gostaria de conversar sobre um treinamento adicional.}{}{}{}{}
+{90}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
+{91}{Estou tentando um equilíbrio entre magia e tecnologia.}{}{5}{}{46}{re-2}
+{92}{Abandonei a magia em favor da tecnologia.}{}{5}{}{46}{re-5}
+{93}{Estou trabalhando para melhorar minhas habilidades mágicas, senhor.}{}{5}{}{46}{re+5}
+{94}{E:}{}{1}{}{0}{}
+{95}{Hmm... Sinto uma magia forte em você... Será que teria interesse em se tornar um Mestre da Natureza?}{Hmm... Sinto uma magia forte em você... Será que teria interesse em se tornar um Mestre da Natureza?}{}{}{}{lf6 1}
+{96}{Um Mestre? O que é necessário para alcançar tal título?}{}{5}{}{101}{}
+{97}{O que eu preciso fazer?}{}{5}{}{101}{}
+{98}{Não neste momento, embora agradeça pela oferta, senhor.}{}{5}{}{46}{}
+{100}{E:}{}{1}{}{0}{}
+{101}{Para se tornar um Mestre, primeiro deve passar por um teste. É difícil e perigoso. Mas para aqueles que conseguem, a recompensa é grande! ...o esforço necessário para lançar cada feitiço na escola dominada é grandemente reduzido! ...Gostaria de tentar o teste?}{Para se tornar um Mestre, primeiro deve passar por um teste. É difícil e perigoso. Mas para aqueles que conseguem, a recompensa é grande! ...o esforço necessário para lançar cada feitiço na escola dominada é grandemente reduzido! ...Gostaria de tentar o teste?}{}{}{}{}
+{102}{Sim, tenho, senhor.}{}{5}{}{106}{}
+{103}{Sim.}{}{5}{}{106}{}
+{104}{Não me sinto preparado neste momento, senhor.}{}{5}{}{46}{}
+{105}{E:}{}{1}{}{0}{}
+{106}{Devo adverti-lo, porém... Você só pode obter Mestria em uma escola de magia. Deseja que a Natureza seja essa escola?}{Devo adverti-lo, porém... Você só pode obter Mestria em uma escola de magia. Deseja que a Natureza seja essa escola?}{}{}{}{}
+{107}{Sim, senhor, desejo.}{}{5}{}{111}{}
+{108}{Preciso pensar sobre isso, senhor.}{}{5}{}{46}{}
+{109}{Não neste momento, embora agradeça pela oferta, senhor.}{}{5}{}{46}{}
+{110}{E:}{}{1}{}{0}{}
+{111}{Uma excelente escolha. Aqui. [Ele retira o medalhão de seu pescoço.] Pegue este medalhão. Quando estiver preparado para enfrentar sua prova, coloque-o e avance pelo portal localizado no centro deste salão. Isso dará início ao seu teste. Desejo-lhe sorte, @pcname@.}{Uma excelente escolha. Aqui. [Ele retira o medalhão de seu pescoço.] Pegue este medalhão. Quando estiver preparado para enfrentar sua prova, coloque-o e avance pelo portal localizado no centro deste salão. Isso dará início ao seu teste. Desejo-lhe sorte, @pcname@.}{}{}{}{in-2842, lf7 1, gf2411 1}
+{112}{Muito obrigado, senhor.}{}{5}{}{0}{}
+{113}{A:}{}{5}{}{0}{}
+{114}{E:}{}{5}{}{0}{}
+{115}{Sim... Pode ser difícil se preparar para tal prova. Quando se sentir adequadamente preparado, prossiga pelos arcos localizados no coração de Tulla. Lembre-se, deve estar usando o medalhão que criei para você.}{Sim... Pode ser difícil se preparar para tal prova. Quando se sentir adequadamente preparado, prossiga pelos arcos localizados no coração de Tulla. Lembre-se, deve estar usando o medalhão que criei para você.}{}{}{}{}
+{116}{Completarei meus preparativos e realizarei a prova. Obrigado.}{}{5}{}{0}{}
+{117}{Vou me tornar um mestre. Adeus!}{}{5}{}{0}{}
+{118}{E:}{}{5}{}{0}{}
+{119}{Muito bem feito! Tenho orgulho de lhe oferecer meus parabéns, @pcname@! Tendo alcançado a Mestria, verá que agora gasta apenas metade do esforço que antes gastava para lançar qualquer feitiço da Natureza. Mais uma vez, ofereço meus parabéns.}{Muito bem feito! Tenho orgulho de lhe oferecer meus parabéns, @pcname@! Tendo alcançado a Mestria, verá que agora gasta apenas metade do esforço que antes gastava para lançar qualquer feitiço da Natureza. Mais uma vez, ofereço meus parabéns.}{}{}{}{lf9 1}
+{120}{Obrigado, Mestre Ferko.}{}{5}{}{0}{}
+{121}{Obrigado, Mestre Ferko. Posso lhe perguntar algo mais?}{}{5}{}{46}{}
+{122}{E:}{}{5}{}{0}{}
+{123}{[com ar altamente irritado] Vejo que não tem compreensão das nuances da magia. Não tenho tempo a perder com filhotes ignorantes. Adeus!}{[com ar altamente irritado] Vejo que não tem compreensão das nuances da magia. Não tenho tempo a perder com filhotes ignorantes. Adeus!}{}{}{}{}
+{124}{[com ar altamente irritado] É realmente rude de sua parte me insultar por expressar minha opinião. Afinal, foi você quem a pediu. Não tenho tempo para pessoas como você, @pcname@. Adeus!}{[com ar altamente irritado] É realmente rude de sua parte me insultar por expressar minha opinião. Afinal, foi você quem a pediu. Não tenho tempo para pessoas como você, @pcname@. Adeus!}{}{}{}{}
+

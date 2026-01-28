@@ -1,0 +1,115 @@
+{1}{HHhhhaaaarrr, companheiro! Nunca bata no ombro do velho Salty! A menos que queira o mesmo destino do velho Esqueleto-Ossudo!}{HHhhhaaaarrr, senhorita! Nunca bata no ombro do velho Salty! A menos que queira o mesmo destino do velho Esqueleto-Ossudo!}{}{}{}{}
+{2}{Se eu soubesse quem foi esse Esqueleto, talvez isso fizesse sentido.}{}{5}{me 0}{125}{}
+{3}{Quem é Esqueleto Ossudo?}{}{-4}{me 0}{125}{}
+{4}{Pete Magricela sabia como lidar com homens como Esqueleto-Ossudo...}{}{5}{gf1027 1}{30}{}
+{5}{Esqueleto Ossudo é burro por falar do Pé-Fedorento!}{}{-4}{gf1027 1}{30}{}
+{6}{Saudações, Salty. Posso falar com você um momento?}{}{5}{me 1}{20}{}
+{7}{Ei, Salty! Posso falar com você?}{}{-4}{me 1}{20}{}
+{8}{Me perdoe, vou deixá-lo em paz.}{}{5}{}{0}{fl 121}
+{9}{Me desculpe. Vou deixá-lo em paz.}{}{-4}{}{0}{fl 121}
+{20}{Aaarrrgghhh! O que você quer?}{Aaarrrgghhh! O que você quer?}{}{}{}{}
+{21}{Quem, exatamente, é o "velho Esqueleto-Ossudo"?}{}{5}{lf3 0}{125}{}
+{22}{Quem é Esqueleto Ossudo?}{}{-4}{lf3 0}{125}{}
+{23}{Não são muitos os homens que falam de Pete Magricela, Salty...}{}{5}{gf1027 0, lf3 1}{30}{}
+{24}{Eu também sei sobre Pé-Fedorento! Ele é um cara assustador, Salty!}{}{-4}{gf1027 0, lf3 1}{30}{}
+{25}{Não são muitos os homens que falam de Pete Magricela, Salty...}{}{5}{gf1027 1}{30}{}
+{26}{Eu também sei sobre Pé-Fedorento! Ele é um cara assustador, Salty!}{}{-4}{gf1027 1}{30}{}
+{27}{O que você estava dizendo antes sobre um tesouro enterrado?}{}{5}{lf4 1}{82}{}
+{28}{Antes você estava falando sobre um tesouro enterrado?}{}{-4}{lf4 1}{82}{}
+{29}{E:}{}{1}{}{0}{}
+{30}{Você conhece a história do velho Pete Magricela! Então sabe como cruzar o pirata errado pode levar você a um fim rápido num pedaço de tábua!}{Você conhece a história do velho Pete Magricela! Então sabe como cruzar o pirata errado pode levar você a um fim rápido num pedaço de tábua!}{}{}{}{}
+{31}{Talvez pudéssemos tomar uma bebida e tudo seria perdoado?}{}{5}{}{47}{}
+{32}{A gente toma uma bebida e você não fica mais bravo?}{}{-4}{}{47}{}
+{35}{Eu não ousaria cruzar um pirata como você. Adeus.}{}{5}{}{0}{fl 121}
+{36}{Eu num cruzo não! Eu vô embora.}{}{-4}{}{0}{fl 121}
+{37}{Sim, sim... o que você estava dizendo sobre um tesouro enterrado?}{}{5}{lf4 1}{82}{}
+{38}{É! Mas antes você tava falando sobre um tesouro enterrado...}{}{-4}{lf4 1}{82}{}
+{40}{Ninguém abala a postura deste lobo do mar calejado! Já enfrentei inúmeras provações e naveguei mares com ondas de trinta metros, veja bem!}{Ninguém abala a postura deste lobo do mar calejado! Já enfrentei inúmeras provações e naveguei mares com ondas de trinta metros, veja bem!}{}{}{}{}
+{41}{Fascinante. Talvez você possa me contar mais tomando uma bebida?}{}{5}{}{47}{}
+{42}{Uau! Vamos tomar uma bebida, grande homem pirata!}{}{-4}{}{47}{}
+{43}{Parece notável. Adeus.}{}{5}{}{0}{fl 121}
+{44}{Hmm. Tchau.}{}{-4}{}{0}{fl 121}
+{47}{Uma bebida, você diz? Bem, companheiro, uma cerveja pode até lubrificar o temperamento enferrujado deste velho pirata. Uhh... eu pago a primeira rodada! Deixa eu ver aqui... [Ele remexe nos bolsos.]... hmmm... deve ter deixado meu saco de ouro no navio, companheiro. Uh... talvez você possa pagar a primeira rodada. O que me diz? Só 10 moedas pela boa qualidade!}{Uma bebida, você diz? Bem, senhorita, uma cerveja pode até lubrificar o temperamento enferrujado deste velho pirata. Uhh... eu pago a primeira rodada! Deixa eu ver aqui... [Ele remexe nos bolsos.]... hmmm... deve ter deixado meu saco de ouro no navio, companheiro. Uh... talvez você possa pagar a primeira rodada. O que me diz? Só 10 moedas pela boa qualidade!}{}{}{}{}
+{48}{[Pagar uma bebida para ele.]}{}{1}{$$10}{53}{$$-10}
+{49}{Parece que não tenho dinheiro. Tenha um bom dia...}{}{5}{$$-9}{0}{fl 121}
+{50}{Uh... eu não tenho dinheiro. Buh-bye.}{}{-4}{$$-9}{0}{fl 121}
+{51}{Talvez outra hora. Adeus.}{}{5}{$$10}{0}{fl 121}
+{52}{Mudei de ideia. Buh-bye.}{}{-4}{$$10}{0}{fl 121}
+{53}{Haaaarrrggh! Então vamos beber! Salty é o meu nome! Naveguei pelos mares de Arcanum por meio século! [Ele vira a caneca inteira.] Aaaaahhhh...! Ufa... você não pode chamar uma caneca de uma rodada agora, pode, companheiro?}{Haaaarrrggh! Então vamos beber! Salty é o meu nome! Naveguei pelos mares de Arcanum por meio século! [Ele vira a caneca inteira.] Aaaaahhhh...! Ufa... você não pode chamar uma caneca de uma rodada agora, pode, senhorita?}{}{}{}{}
+{54}{[Pagar outra bebida para ele.]}{}{1}{$$10}{59}{$$-10}
+{55}{Parece que estou sem ouro. Me despeço de você...}{}{5}{$$-9}{0}{fl 121}
+{56}{Acabei com a grana! Buh-bye!}{}{-4}{$$-9}{0}{fl 121}
+{57}{Acho que você já bebeu o suficiente. Tenha um bom dia.}{}{5}{$$10}{0}{fl 121}
+{58}{Chega pro velho Salty, cara.}{}{-4}{$$10}{0}{fl 121}
+{59}{Haaarrggh!! Isso sim é diversão, companheiro! Uma vez eu estava... [Ele termina metade da caneca.]... caçando uma lula gigante com meu arpão confiável, Ol' Painless, e... [Ele termina o resto.]... Aaahhhhhh! Ufa! Onde eu estava? Ah, sim, meu arpão confiável, e, ah... toda essa conversa está deixando minha garganta seca como meu olho de madeira...}{Haaarrgg!! Isso sim é diversão, senhorita! Uma vez eu estava... [Ele termina metade da caneca.]... caçando uma lula gigante com meu arpão confiável, Ol' Painless, e... [Ele termina o resto.]... Aaahhhhhh! Ufa! Onde eu estava? Ah, sim, meu arpão confiável, e, ah... toda essa conversa está deixando minha garganta seca como meu olho de madeira...}{}{}{}{}
+{60}{Seco, você diz? Bem, aposto que outra caneca pode ajudar!}{}{5}{$$10}{67}{$$-10}
+{61}{Garganta seca! Toma mais uma bebida!}{}{-4}{$$10}{67}{$$-10}
+{62}{Bem, parece que você secou minha bolsa, cão do mar. Tenha um bom dia...}{}{5}{$$-9}{0}{fl 121}
+{63}{Não tenho mais grana, Salty! Tenho que ir!}{}{-4}{$$-9}{0}{fl 121}
+{64}{Suas histórias também secaram, meu amigo. Adeus.}{}{5}{$$10}{0}{fl 121}
+{65}{Você está me deixando sonolento. Buh-bye.}{}{-4}{$$10}{0}{fl 121}
+{67}{Hhhaaaaarrrgghhhhhh!!!! [Hic!] Enfim... caçar lulas não é pra todo mundo! [Ele toma um longo gole da caneca.] Agora caçar tesouros... essa é uma história completamente diferente... [Ele esvazia o resto da caneca.] Aahhhh....! EI, MARUJO!! [Ele grita para o barman.] Esse companheiro aqui quer que você me sirva outra!}{Hhhaaaaarrrgghhhhhh!!!! [Hic!] Enfim... caçar lulas não é pra todo mundo! [Ele toma um longo gole da caneca.] Agora caçar tesouros... essa é uma história completamente diferente... [Ele esvazia o resto da caneca.] Aahhhh....! EI, MARUJO!! [Ele grita para o barman.] Essa senhorita aqui quer que você me sirva outra!}{}{}{}{}
+{68}{Sim, sirva outra para ele! Conte-me mais, Salty...}{}{5}{$$10}{75}{$$-10}
+{69}{É! Eu pago mais uma pra você! Ooo! Conte mais!}{}{-4}{$$10}{75}{$$-10}
+{70}{Gostaria de poder, Salty, mas parece que estou sem grana. Adeus...}{}{5}{$$-9}{0}{fl 121}
+{71}{Hmm... ah... sem mais moedas, Salty! Tenho que ir...}{}{-4}{$$-9}{0}{fl 121}
+{72}{Desculpe, Salty. Já ouvi o suficiente. Tenha um bom dia.}{}{5}{$$10}{0}{fl 121}
+{73}{Chega, velho Salty. Tchau.}{}{-4}{$$10}{0}{fl 121}
+{75}{Ora, a maioria dos piratas diz que sabe de tesouros secretos enterrados. [Hic!] Mas escute aqui, companheiro! [Mais cerveja some em sua goela.] O velho Salty vai [BURP!] mostrar pra todos eles... [O caneco fica vazio mais uma vez.] Aaahhhh! OUTRO MARUJO!!!}{Ora, a maioria dos piratas diz que sabe de tesouros secretos enterrados. [Hic!] Mas escute aqui, moça! [Mais cerveja some em sua goela.] O velho Salty vai [BURP!] mostrar pra todos eles... [O caneco fica vazio mais uma vez.] Aaahhhh! OUTRO MARUJO!!!}{}{}{}{lf4 1}
+{76}{[Você acena para o barman.]}{}{1}{$$10}{82}{$$-10}
+{77}{[Você mostra a ele seus bolsos vazios, indo embora.]}{}{1}{$$-9}{0}{fl 121}
+{78}{Já ouvi o suficiente. Tenha um bom dia, senhor.}{}{5}{$$10}{0}{fl 121}
+{79}{Num me importo mais. Tchau.}{}{-4}{$$10}{0}{fl 121}
+{82}{[Hic!] Olha só, o velho Salty tem algo que nenhum daqueles cães do mar imundos sabe. [Hic!] Vê, quando encontrei aquele polvo gigante na praia [Hic!], achei outra coisa também, ouça bem... [Ele bebe a maior parte do caneco. O resto vai parar na camisa.] MARUJOOO!}{[Hic!] Olha só, o velho Salty tem algo que nenhum daqueles cães do mar imundos sabe. [Hic!] Vê, quando encontrei aquele polvo gigante na praia [Hic!], achei outra coisa também, ouça bem... [Ele bebe a maior parte do caneco. O resto vai parar na camisa.] MARUJOOO!}{}{}{}{}
+{83}{[Você acena novamente para o barman.]}{}{1}{$$10}{89}{}
+{84}{Gostaria de poder, Salty, mas parece que estou sem grana. Adeus...}{}{5}{$$-9}{0}{fl 121}
+{85}{Hmm... ah... sem mais moedas, Salty! Tenho que ir...}{}{-4}{$$-9}{0}{fl 121}
+{86}{Acho que você já bebeu o suficiente. Tenha um bom dia.}{}{5}{$$10}{0}{fl 121}
+{87}{Chega, velho Salty.}{}{-4}{$$10}{0}{fl 121}
+{89}{[Ele toma outro gole.] Foi só eu cortar aquele polvo velho com minha faca [Hic!] e o velho Salty encontrou um monte de coisas... [Hic!]... incluindo um pequeno estojo de couro selado... [Ele termina o caneco.] Um estojo com um mapa dentro...}{[Ele toma outro gole.]] Foi só eu cortar aquele polvo velho com minha faca [Hic!] e o velho Salty encontrou um monte de coisas... [Hic!]... incluindo um pequeno estojo de couro selado... [Ele termina o caneco.] Um estojo com um mapa dentro...}{}{}{}{}
+{90}{Toma mais uma, Salty... e me conte sobre o mapa!}{}{5}{$$10}{96}{$$-10}
+{91}{Eu compro mais uma pra você, amigo Salty. Me conte sobre o mapa!}{}{-4}{$$10}{96}{$$-10}
+{92}{Bem, você já bebeu mais do que sua cerveja, Salty. Preciso ir...}{}{5}{$$-9}{0}{fl 121}
+{93}{Tô sem grana! Tenho que ir!}{}{-4}{$$-9}{0}{fl 121}
+{94}{É melhor você encerrar a noite, Salty. Adeus.}{}{5}{$$10}{0}{fl 121}
+{95}{Você tá ficando bêbado demais. Eu vou indo, tchau.}{}{-4}{$$10}{0}{fl 121}
+{96}{[Hic!] Ele nunca sai do meu lado, meu mapa... [Ele dá um tapinha numa bolsa murcha no quadril.] O velho Salty não sabe ler nem enxerga muito bem, ouça bem... [Ele solta um arroto fedido.] Mas o velho Salty não precisa dos olhos de uma águia-marinha pra saber o que é importante nesse mapa velho! [Ele joga a maior parte da cerveja garganta abaixo, o resto no homem atrás dele.]}{[Hic!] Ele nunca sai do meu lado, meu mapa... [Ele dá um tapinha numa bolsa murcha no quadril.] O velho Salty não sabe ler nem enxerga muito bem, ouça bem... [Ele solta um arroto fedido.] Mas o velho Salty não precisa dos olhos de uma águia-marinha pra saber o que é importante nesse mapa velho! [Ele joga a maior parte da cerveja garganta abaixo, o resto no homem atrás dele.]}{}{}{}{}
+{97}{Continue, senhor.}{}{5}{}{100}{}
+{98}{Conte mais!}{}{-4}{}{100}{}
+{100}{[Hic!] Talvez você esteja se perguntando por que o velho Salty nunca pegou seu ouro, companheiro. [Ele cambaleia, olhando para o barman.] Bom, vou te contar por que eu nunca... [BURP!]... peguei meu ouro maldito... [Ele cambaleia. Dá pra ver que está quase apagando.]}{[Hic!] Talvez a senhorita esteja se perguntando por que o velho Salty nunca pegou seu ouro. [Ele cambaleia, olhando para o barman.] Bom, vou lhe contar por que eu nunca... [BURP!] ...peguei meu ouro maldito... [Ele cambaleia. Dá para ver que está prestes a apagar.]}{}{}{}{}
+{101}{Interessante. Por favor, continue...}{}{5}{}{104}{}
+{102}{Mais! Mais!}{}{-4}{}{104}{}
+{104}{Bom, companheiro, vi uma coisa naquele mapa que tira as calças até de um velho lobo do mar como eu. [Ele o puxa fracamente para perto.] No mapa, companheiro... [Ele sussurra.] ...vi o olho maligno do próprio Stringy Pete! [Seus olhos estão se fechando. Ele se agarra ao balcão...]}{Bom, senhorita, vi uma coisa naquele mapa que tira as calças até de um velho lobo do mar como eu. [Ele a puxa fracamente para perto.] No mapa, senhorita... [Ele sussurra.] ...vi o olho maligno do próprio Stringy Pete! [Seus olhos estão se fechando. Ele se agarra ao balcão...]}{}{}{}{}
+{105}{Incrível...}{}{5}{}{151}{lf2 1}
+{106}{Hã... é?}{}{-4}{}{151}{lf2 1}
+{121}{Some daqui, seu rato de porão imundo!}{Some daqui, seu rato de porão imundo!}{}{}{}{}
+{122}{[BURP!]}{[BURP!]}{}{}{}{}
+{123}{Não diga que o velho Salty não avisou, seu rato de porão!}{Não diga que o velho Salty não avisou, seu rato de porão!}{}{}{}{}
+{125}{Hhaaaaarrrrggghhhhh!!!! O velho Jack Skellybones era um pirata, companheiro! Um grande pirata, que cometeu o erro de um bêbado numa noite turva! O velho Skelly bebeu muito e começou a delirar sobre suas aventuras pelos mares! Ele não parava de falar, entende? Gritava e berrava que era o maior pirata que já navegou pelos mares.....}{Hhaaaaarrrrggghhhhh!!!! Skelly Bones era um pirata, senhorita! Um grande pirata, que cometeu o erro de um bêbado numa noite turva! O velho Skelly bebeu muito e começou a delirar sobre suas aventuras pelos mares! Ele não parava de falar, entende? Gritava e berrava que era o maior pirata que já navegou pelos mares.....}{}{}{}{}
+{126}{[Ouvir.]}{}{1}{}{128}{}
+{128}{Sua tripulação ria alto com o capitão enquanto ele se vangloriava, mas aí ele foi longe demais. Disse que era até maior que o próprio Stringy Pete! Bom, a tripulação deveria ter tido juízo para calar o velho capitão. Sabe, há uma coisa que simplesmente não se fala, companheiro. Uma linha que nem ESTE velho pirata cruza. Pode falar e se gabar do que quiser, mas em cada tom e nota que sai desses lábios salgados...}{Sua tripulação ria alto com o capitão enquanto ele se vangloriava, mas quando ele começou a ir longe demais... bom, a tripulação deveria ter tido juízo para calar o velho capitão. Sabe, há uma coisa que simplesmente não se fala, senhorita. Uma linha que nem ESTE velho pirata cruza. Pode falar e se gabar do que quiser, mas em cada tom e nota que sai desses lábios salgados...}{}{}{}{}
+{129}{[Ouvir.]}{}{1}{}{131}{}
+{131}{...com cada palavra que sai da sua boca, companheiro, se mencionar um nome sem o mais alto respeito, temo pela sua alma. [Ele se aproxima e olha ao redor, com cuidado.] Stringy Pete é o nome que deve pronunciar com respeito. O velho Skellybones não o fez, e, bom, naquela noite... Stringy Pete veio fazer uma visita...}{...com cada palavra que sai da sua boca, senhorita, se mencionar um nome sem o mais alto respeito, temo pela sua alma. [Ele se aproxima e olha ao redor, com cuidado.] Stringy Pete é o nome que deve pronunciar com respeito. O velho Skelly Bones não o fez, e, bom, naquela noite... Stringy Pete veio fazer uma visita...}{}{}{}{}
+{132}{[Ouvir.]}{}{1}{}{134}{}
+{134}{Sua tripulação era um bando destemido... até o velho Edward Teach aprendeu o ofício no barco do Skellybones... mas naquela noite, ninguém pregou o olho. Quando Skelly apagou, a tripulação o trancou em sua cabine... seus leais cães do mar trancaram a porta. Estavam com medo pelo velho capitão. E então o vigia viu a névoa no horizonte...}{Sua tripulação era um bando destemido... até o velho Edward Teach aprendeu o ofício no barco do Skellybones... mas naquela noite, ninguém pregou o olho. Quando Skelly apagou, a tripulação o trancou em sua cabine... seus leais cães do mar trancaram a porta. Estavam com medo pelo velho capitão. E então o vigia viu a névoa no horizonte...}{}{}{}{}
+{135}{[Ouvir.]}{}{1}{}{137}{}
+{137}{Os marinheiros viraram forte a estibordo, mas não importava para onde virassem, a névoa continuava a alcançá-los. Quando a bruma finalmente os atingiu, os homens ouviram um grito terrível, como algo saído das profundezas turvas do próprio inferno! Correram para a cabine do capitão, temendo o pior... as portas ainda estavam trancadas. Removeram os ferrolhos e abriram a porta devagar...}{Os marinheiros viraram forte a estibordo, mas não importava para onde virassem, a névoa continuava a alcançá-los. Quando a bruma finalmente os atingiu, os homens ouviram um grito terrível, como algo saído das profundezas turvas do próprio inferno! Correram para a cabine do capitão, temendo o pior... as portas ainda estavam trancadas. Removeram os ferrolhos e abriram a porta devagar...}{}{}{}{}
+{138}{[Ouvir.]}{}{1}{}{140}{}
+{140}{Encontraram o capitão encostado na parede, companheiro. Seus intestinos estendidos como uma teia de aranha do chão ao teto. Entre os olhos do velho Skellybones, encontraram um punhal pingando sangue! No cabo da adaga, havia uma gravação que todo pirata conhecia muito bem. Um sinal para lembrá-los de vigiar suas palavras e prestar os devidos respeitos.....}{Encontraram o capitão encostado na parede, senhorita. Seus intestinos estendidos como uma teia de aranha do chão ao teto. No centro do peito do velho Skelly Bones, encontraram um punhal pingando sangue vermelho e quente. No cabo da adaga, havia uma gravação que todo pirata conhecia muito bem. Um sinal para lembrá-los de vigiar suas palavras e prestar os devidos respeitos.....}{}{}{}{}
+{141}{[Ouvir.]}{}{1}{}{143}{}
+{143}{Era a marca do Capitão Stringy Pete, companheiro! A marca do olho maligno! Talvez o velho Skelly pensasse que Pete não viria, já que ele está morto há mais de duzentos anos. Não haja mal-entendidos, companheiro. Até hoje, o navio do velho Stringy navega pelos mares! Marinheiros e piratas conhecem o código não escrito, e sugiro que a senhorita também o respeite...}{Era a marca do Capitão Stringy Pete, senhorita! A marca do olho maligno! Talvez o velho Skelly pensasse que Pete não viria, já que ele está morto há mais de duzentos anos. Não haja mal-entendidos, senhorita. Até hoje, o navio do velho Stringy navega pelos mares! Marinheiros e piratas conhecem o código não escrito, e sugiro que a senhorita também o respeite...}{}{}{}{ru 2084, lf3 1}
+{144}{História impressionante, senhor. Vamos tomar uma bebida.}{}{5}{}{47}{lf1 1}
+{145}{Uau. Eu preciso de uma bebida.}{}{-4}{}{47}{lf1 1}
+{146}{O senhor deve viver com medo.}{}{5}{}{40}{lf1 1}
+{147}{Uau. Você deve estar com medo do Chulé Poderoso!}{}{-4}{}{40}{lf1 1}
+{148}{Oooh, estou aterrorizado, velho tolo. Devo me despedir de você.}{}{5}{}{0}{fl 102}
+{149}{Você é burro e a história também!}{}{-4}{}{0}{fl 102}
+{150}{}{}{}{}{}{}
+{151}{Ele mal segura o balcão, tropeçando para frente.] Aaaarrrgggghhh! Você me embebedou, seu demônio marinho maldito! Me deixe em paz! Mantenha suas mãos onde eu possa vê-las! Não aceitarei mais nada de gente como você!}{Ele mal segura o balcão, tropeçando para frente.] Aaaarrrgggghhh! Você me embebedou, seu demônio marinho maldito! Me deixe em paz! Mantenha suas mãos onde eu possa vê-las! Não aceitarei mais nada de gente como você!}{}{}{}{}
+{152}{Mas, senhor! Eu pensei que fôssemos amigos...!}{}{5}{}{}{fl 157}
+{153}{Por que você está bravo comigo, Salty?}{}{-4}{}{}{fl 157}
+{154}{Eu não aceito esse tipo de palavras de piratas velhos e acabados como você...}{}{5}{}{}{co, fl 156}
+{155}{Hã... você me deixa bravo. Eu mato você...}{}{-4}{}{}{co, fl 156}
+{156}{Ninguém fala assim com o velho Salty! Vou atravessar você!}{Ninguém fala assim com o velho Salty! Vou atravessar você!}{}{}{}{}
+{157}{Saia daqui! Deixe eu e meu mapa em paz!}{Saia daqui! Deixe eu e meu mapa em paz!}{}{}{}{}
+

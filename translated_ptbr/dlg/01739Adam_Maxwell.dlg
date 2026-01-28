@@ -1,0 +1,217 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Saudações, senhor. Posso perguntar seu nome?}{}{5}{lf1 0, re 41}{34}{}
+{3}{Isso foi muito indelicado.}{}{5}{lf1 0, re -40}{47}{}
+{4}{Eu te ofendi, Adam?}{}{5}{lf1 1, lf2 0}{58}{}
+{5}{Olá de novo, Adam. Posso te fazer uma pergunta?}{}{5}{lf1 1, lf2 1,re 41}{64}{}
+{6}{Eu te ofendi, Adam?}{}{5}{lf1 1, lf2 1, re -40}{54}{}
+{7}{Acho que vou pegar aquele livro para você, Adam. Quanto vai pagar?}{}{5}{qu1122 1}{102}{}
+{8}{Ainda estou tentando conseguir o livro...}{}{5}{qu1122 2, ni 5241}{118}{}
+{9}{Consegui o livro. Aqui.}{}{5}{lf3 0,  in 5241}{121}{re +10, in5241}
+{10}{Consegui o livro. Aqui.}{}{5}{lf3 1,  in 5241}{126}{re +10, in5241}
+{11}{Talvez eu consiga aquele colar... Quanto você me paga?}{}{5}{qu1123 1}{136}{}
+{12}{Estou tendo um pouco de dificuldade para recuperar o colar.}{}{5}{qu1123 2, ni 2825}{144}{}
+{13}{Consegui o colar. Aqui... pegue.}{}{5}{lf4 0,   in 2825}{155}{re +10, in2825}
+{14}{Consegui o colar. Aqui... pegue.}{}{5}{lf4 1,   in 2825}{160}{re +10, in2825}
+{15}{Tenho um pacote para você...}{}{5}{qu1124 2, in 5666}{168}{lf1 1, lf2 1}
+{16}{Eu tenho uma bolsa para você...}{}{-4}{qu1124 2, in 5666}{168}{lf1 1, lf2 1}
+{17}{Ei, senhor. Qual é o seu nome?}{}{-4}{lf1 0, re 41}{34}{}
+{18}{Isso não foi legal...}{}{-4}{lf1 0, re -40}{47}{}
+{19}{Oi, Adam. Eu posso te perguntar uma coisa?}{}{-4}{lf1 1, lf2 0}{58}{}
+{20}{Oi, Adam. Eu posso te perguntar uma coisa?}{}{-4}{lf1 1, lf2 1}{64}{}
+{21}{Eu pego o livro para você. Quanto você paga?}{}{-4}{qu1122 1}{102}{}
+{22}{Eu ainda não peguei o livro...}{}{-4}{qu1122 2, ni 5241}{118}{}
+{23}{Eu consegui o livro! Aqui. É para você.}{}{-4}{lf3 0,  in 5241}{121}{re +10, in5241}
+{24}{Eu consegui o livro! Aqui. É para você.}{}{-4}{lf3 1,  in 5241}{126}{re +10, in5241}
+{25}{Talvez eu pegue o colar. Quanto você me paga?}{}{-4}{qu1123 1}{136}{}
+{26}{Aquele colar é difícil de conseguir!}{}{-4}{qu1123 2, ni 2825}{144}{}
+{27}{Eu consegui o colar! Aqui. Pegue.}{}{-4}{lf4 0,   in 2825}{155}{re +10, in2825}
+{28}{Eu consegui o colar! Aqui. Pegue.}{}{-4}{lf4 1,   in 2825}{160}{re +10, in2825}
+{29}{Você pode me treinar para ser um Especialista em fechaduras?}{}{5}{tr14 -1}{0}{et14 174}
+{30}{Você pode me treinar para ser um Especialista em desarmar armadilhas?}{}{5}{tr15 -1}{0}{et15 197}
+{31}{Hã... eu quero treinar para ser Exper' com fechaduras...}{}{-4}{tr14 -1}{0}{et14 174}
+{32}{Hã... eu quero treinar para ser Exper' em desarmar armadilhas...}{}{-4}{tr15 -1}{0}{et15 197}
+{33}{E:}{}{1}{}{0}{}
+{34}{Meu nome é Adam Maxwell. ...e quem é você?}{Meu nome é Adam Maxwell. ...e quem é você?}{}{}{}{lf1 1}
+{35}{Meu nome é @pcname@.}{}{5}{}{64}{lf2 1}
+{36}{Isso não é da sua conta.}{}{5}{}{41}{re-10}
+{37}{Não gosto particularmente de conversar com raças inferiores...}{}{5}{ra-1}{41}{re-15}
+{38}{Meu nome é @pcname@.}{}{-4}{}{64}{lf2 1}
+{39}{Não.}{}{-4}{ra-8}{41}{re-10}
+{40}{Eu não gosto de você, homenzinho.}{}{-4}{ra 8}{41}{re-15}
+{41}{Não tenho utilidade para alguém tão desprovido de modos... adeus.}{Não tenho utilidade para alguém tão desprovido de modos... adeus.}{}{}{}{}
+{42}{Isso foi muito rude. Peço desculpas. Meu nome é @pcname@.}{}{5}{}{64}{re+5, lf2 1}
+{43}{Acho que você não tem utilidade para viver. Acho que posso resolver esse problema...}{}{5}{}{}{co, fl 53}
+{44}{Desculpe. Eu fui mau. Meu nome é @pcname@.}{}{-4}{}{64}{re+5, lf2 1}
+{45}{Eu acho que ocê vai morrê...}{}{-4}{}{}{co, fl 53}
+{46}{E:}{}{1}{}{0}{}
+{47}{I:}{I:}{}{}{}{}
+{48}{Tudo bem... Acho que serei o educado. Poderia me dizer seu nome, senhor?}{}{5}{}{34}{}
+{49}{É isso! Defenda-se!}{}{5}{}{}{co, fl 53}
+{50}{Hmm... Ah, tá bom. Hum... Qual é o seu nome?}{}{-4}{}{34}{}
+{51}{Ocê é só maldade! Eu pego ocê!}{}{-4}{}{}{co, fl 53}
+{52}{E:}{}{1}{}{0}{}
+{53}{A morte vem tão fácil para os tolos...}{A morte vem tão fácil para os tolos...}{}{}{}{}
+{54}{Vejo que você não tem estômago para sarcasmo. Muito bem. Peço desculpas. Por favor, continue...}{Vejo que você não tem estômago para sarcasmo. Muito bem. Peço desculpas. Por favor, continue...}{}{}{}{}
+{55}{Hmm... Tenho uma pergunta.}{}{5}{}{64}{}
+{56}{Vejo que você é um idiota. ...Tenho uma pergunta.}{}{5}{}{64}{}
+{57}{E:}{}{5}{}{0}{}
+{58}{Eu lhe disse meu nome de bom grado. Se não vai retribuir, então não falarei com você.}{Eu lhe disse meu nome de bom grado. Se não vai retribuir, então não falarei com você.}{}{}{}{}
+{59}{Desculpe. Meu nome é @pcname@.}{}{5}{}{64}{lf2 1}
+{60}{Então lute comigo!}{}{5}{}{}{co, fl, re -10 53}
+{61}{Me desculpa. Meu nome @pcname@.}{}{-4}{}{64}{lf2 1}
+{62}{Então eu tenho que te matá!}{}{-4}{}{}{co, fl, re -10 53}
+{63}{E:}{}{1}{}{0}{}
+{64}{Bem... O que você deseja, @pcname@?}{Bem... O que você deseja, @pcname@?}{}{}{}{}
+{65}{C:}{}{1}{}{75}{}
+{66}{T:4, 5, 6}{}{1}{}{75}{}
+{67}{Você tem algum trabalho que eu possa fazer?}{}{5}{rp 1001, qu1122 0}{86}{}
+{68}{Você tem algum trabalho pra mim?}{}{-4}{rp 1001, qu1122 0}{86}{}
+{69}{Há mais alguma coisa que eu possa fazer por você?}{}{5}{rp1001, qu1122 4, qu1123 0}{131}{}
+{70}{Mais trabalho para mim?}{}{-4}{rp1001, qu1122 4, qu1123 0}{131}{}
+{71}{Diga-me, por que você me mandou buscar um livro em branco?}{}{5}{qa1122 3, qb 1122 4, lf0 0}{165}{}
+{72}{Por que num tem palavras no livro?}{}{-4}{qa1122 3, qb 1122 4, lf0 0}{165}{}
+{74}{F:}{}{1}{}{0}{}
+{75}{Mais alguma coisa que precise, @pcname@?}{Mais alguma coisa que precise, @pcname@?}{}{}{}{}
+{76}{C:}{}{1}{}{75}{}
+{77}{T:4, 5, 6}{}{1}{}{75}{}
+{78}{Você tem algum trabalho que eu possa fazer?}{}{5}{rp 1001, qu1122 0}{86}{}
+{79}{Você tem algum trabalho pra mim?}{}{-4}{rp 1001, qu1122 0}{86}{}
+{80}{Há mais alguma coisa que eu possa fazer por você?}{}{5}{rp1001, qu1122 4, qu1123 0}{131}{}
+{81}{Mais trabalho para mim?}{}{-4}{rp1001, qu1122 4, qu1123 0}{131}{}
+{82}{Diga-me, por que você me mandou buscar um livro em branco?}{}{5}{qa1122 3, qb 1122 4, lf0 0}{165}{}
+{83}{Por que num tem palavras no livro?}{}{-4}{qa1122 3, qb 1122 4, lf0 0}{165}{}
+{84}{I:}{}{1}{re -40}{75}{re -5}
+{85}{F:}{}{1}{}{0}{}
+{86}{Ahh... Um membro da Resistência. Achei que reconhecia seu nome. Na verdade, temos um pedido que precisa ser atendido. Você está disponível?}{Ahh... Um membro da Resistência. Achei que reconhecia seu nome. Na verdade, temos um pedido que precisa ser atendido. Você está disponível?}{}{}{}{}
+{87}{Depende do trabalho...}{}{5}{}{90}{}
+{88}{O que você qué que eu faça?}{}{-4}{}{90}{}
+{89}{E:}{}{1}{}{0}{}
+{90}{A casa da viúva Misk, localizada aqui em Caladon, contém uma extensa biblioteca de livros raros e incomuns que pertenceram a seu falecido marido. Um de nossos clientes deseja obter um volume que é de particular interesse para ele. É um tomo muito antigo intitulado *Adivinhações e Magias para o Mago Experiente*. Você pode recuperá-lo para mim?}{A casa da viúva Misk, localizada aqui em Caladon, contém uma extensa biblioteca de livros raros e incomuns que pertenceram a seu falecido marido. Um de nossos clientes deseja obter um volume que é de particular interesse para ele. É um tomo muito antigo intitulado *Adivinhações e Magias para o Mago Experiente*. Você pode recuperá-lo para mim?}{}{}{}{qu1122 1}
+{91}{Sim, posso. Qual é o pagamento?}{}{5}{}{102}{}
+{92}{No momento não estou interessado. Talvez mais tarde...}{}{5}{}{96}{}
+{93}{Sim. Eu faço. Quanto você me paga?}{}{-4}{}{102}{}
+{94}{Não sei. Talvez eu faça depois.}{}{-4}{}{96}{}
+{95}{E:}{}{1}{}{0}{}
+{96}{Bem... Vejo que sua dedicação à Irmandade é bem fraca. Não importa... Encontrarei alguém mais dedicado.}{Bem... Vejo que sua dedicação à Irmandade é bem fraca. Não importa... Encontrarei alguém mais dedicado.}{}{}{}{}
+{97}{Posso te perguntar mais uma coisa?}{}{5}{}{75}{}
+{98}{Pensando melhor... eu faço. Quanto paga?}{}{5}{}{102}{}
+{99}{Eu pergunto mais uma coisa?}{}{-4}{}{75}{}
+{100}{Hmmm... Eu entendi! Quanto você paga?}{}{-4}{}{102}{}
+{101}{E:}{}{1}{}{0}{}
+{102}{Não é um trabalho grande. Porém, o cliente está pagando bem. 250 moedas são aceitáveis?}{Não é um trabalho grande. Porém, o cliente está pagando bem. 250 moedas são aceitáveis?}{}{}{}{}
+{103}{Feito o acordo. Voltarei com ele em breve.}{}{5}{}{0}{qu1122 2}
+{104}{Eu faço por 350. Estamos de acordo?}{}{5}{ch -11}{110}{re -5}
+{105}{Eu faço por 350. Estamos de acordo?}{}{5}{ch 12}{114}{re +5}
+{106}{Tá bom. Eu pego. Volto logo.}{}{-4}{}{0}{qu1122 2}
+{107}{Eu tô bom. Eu quero 350 moedas. Tá bom?}{}{-4}{ch -11}{110}{re -5}
+{108}{Eu tô bom. Eu quero 350 moedas. Tá bom?}{}{-4}{ch 12}{114}{re +5}
+{109}{E:}{}{1}{}{0}{}
+{110}{Recuperar um livro não vale isso! As 250 moedas não eram negociáveis. Ou aceita, ou pode ir embora.}{Recuperar um livro não vale isso! As 250 moedas não eram negociáveis. Ou aceita, ou pode ir embora.}{}{}{}{}
+{111}{Eu aceito. Voltarei com o livro em breve.}{}{5}{}{0}{qu1122 2}
+{112}{Tá bom. Eu pego por 250. Eu volto já.}{}{-4}{}{0}{qu1122 2}
+{113}{E:}{}{1}{}{0}{}
+{114}{Bem... Pode ser difícil recuperá-lo. Certo. 350 então. Aceita o trabalho?}{Bem... Pode ser difícil recuperá-lo. Certo. 350 então. Aceita o trabalho?}{}{}{}{lf3 1}
+{115}{Feito o acordo. Voltarei com ele em breve.}{}{5}{}{0}{qu1122 2}
+{116}{Tá bom. Eu pego. Volto logo.}{}{-4}{}{0}{qu1122 2}
+{117}{E:}{}{1}{}{0}{}
+{118}{Por favor, recupere o tomo logo. Nosso cliente está começando a ficar impaciente com a espera.}{Por favor, recupere o tomo logo. Nosso cliente está começando a ficar impaciente com a espera.}{}{}{}{}
+{119}{K:}{}{1}{}{75}{}
+{120}{E:}{}{1}{}{0}{}
+{121}{Muito bem! Aqui estão as 250 moedas que combinamos. Obrigado pela ajuda. Sua dedicação será mencionada à Irmandade.}{Muito bem! Aqui estão as 250 moedas que combinamos. Obrigado pela ajuda. Sua dedicação será mencionada à Irmandade.}{}{}{}{$$ 250,  qu1122 4}
+{122}{Obrigado, @npcname@. Adeus.}{}{5}{}{0}{}
+{123}{Obrigado, @npcname@. Posso te perguntar uma coisa?}{}{5}{}{75}{}
+{124}{Valeu, @npcname@. Tchau.}{}{-4}{}{0}{}
+{125}{Tanques @npcname@. Quer me perguntar mais alguma coisa?}{}{-4}{}{75}{}
+{126}{Muito bem! Aqui estão as 350 moedas que combinamos. Obrigado pela ajuda. Sua dedicação será mencionada à Irmandade.}{Muito bem! Aqui estão as 350 moedas que combinamos. Obrigado pela ajuda. Sua dedicação será mencionada à Irmandade.}{}{}{}{$$ 350, qu1122 4}
+{127}{Obrigado, @npcname@. Adeus.}{}{5}{}{0}{}
+{128}{Obrigado, @npcname@. Posso te perguntar uma coisa?}{}{5}{}{75}{}
+{129}{Valeu, @npcname@. Tchau.}{}{-4}{}{0}{}
+{130}{Tanques @npcname@. Quer me perguntar mais alguma coisa?}{}{-4}{}{75}{}
+{131}{Muito bem. Sua dedicação é admirável. Sim. Há outro trabalho. Será mais difícil. Há um colar de valor inestimável, O Colar da Rainha K'na S'ea, guardado em um cofre no Museu de Caladon. Temos um cliente muito interessado em obter a peça. Você está interessado?}{Muito bem. Sua dedicação é admirável. Sim. Há outro trabalho. Será mais difícil. Há um colar de valor inestimável, O Colar da Rainha K'na S'ea, guardado em um cofre no Museu de Caladon. Temos um cliente muito interessado em obter a peça. Você está interessado?}{}{}{}{qu1123 1}
+{132}{Acho que consigo dar conta. Qual é o pagamento?}{}{5}{}{136}{}
+{133}{Não tenho certeza. Isso parece muito mais desafiador...}{}{5}{}{144}{}
+{134}{Eu consigo fazer isso! Quanto você me paga?}{}{-4}{}{136}{}
+{135}{Eu não sei. Isso talvez seja difícil demais de conseguir...}{}{-4}{}{144}{}
+{136}{Devo avisá-lo. O museu empregou algum tipo de novo sistema de segurança tecnológico. Não conheço os detalhes, mas pode ser útil para você examinar o museu minuciosamente antes de retirar o colar. ...Esta é uma missão perigosa, então paga 550 moedas. Você aceita?}{Devo avisá-lo. O museu empregou algum tipo de novo sistema de segurança tecnológico. Não conheço os detalhes, mas pode ser útil para você examinar o museu minuciosamente antes de retirar o colar. ...Esta é uma missão perigosa, então paga 550 moedas. Você aceita?}{}{}{}{}
+{137}{Sim. Eu o farei por 550. Obrigado pelo aviso.}{}{5}{}{0}{qu1123 2}
+{138}{Parece perigoso. Eu gostaria de 750 para roubar a joia.}{}{5}{ch -11}{151}{re -5}
+{139}{Parece perigoso. Eu gostaria de 750 para roubar a joia.}{}{5}{ch 12}{148}{}
+{140}{Tá bom. Eu faço. Já volto.}{}{-4}{}{0}{qu1123 2}
+{141}{Isso parece ruim. Eu quero 750 moedas.}{}{-4}{ch -11}{151}{re -5}
+{142}{Isso parece ruim. Eu quero 750 moedas.}{}{-4}{ch 12}{148}{}
+{143}{E:}{}{1}{}{0}{}
+{144}{Entendo. O risco envolvido dissuadiu muitos de nossa liga de tentar roubar o colar. Obrigado pela sua ajuda com o livro. Adeus.}{Entendo. O risco envolvido dissuadiu muitos de nossa liga de tentar roubar o colar. Obrigado pela sua ajuda com o livro. Adeus.}{}{}{}{}
+{145}{Espere! Eu vou tentar. Quanto você me pagará?}{}{5}{}{136}{}
+{146}{Espere! Eu vou tentar pegar! Quanto você me paga?}{}{-4}{}{136}{}
+{147}{E:}{}{1}{}{0}{}
+{148}{Hmm... Você é o único membro que encontrei disposto a correr o risco. Então sim, 750 moedas são aceitáveis.}{Hmm... Você é o único membro que encontrei disposto a correr o risco. Então sim, 750 moedas são aceitáveis.}{}{}{}{lf4 1}
+{149}{Vou movê-los num instante!}{}{5}{}{0}{qu1123 2}
+{150}{Tá bom. Eu faço. Já volto.}{}{-4}{}{0}{qu1123 2}
+{151}{Isso é irracional. Acredito que 550 moedas são uma oferta muito generosa. Se não for o suficiente, encontrarei outro para a tarefa.}{Isso é irracional. Acredito que 550 moedas são uma oferta muito generosa. Se não for o suficiente, encontrarei outro para a tarefa.}{}{}{}{}
+{152}{Tudo bem. Eu o farei por 550.}{}{5}{}{0}{qu1123 2}
+{153}{Tá bom. Eu faço.}{}{-4}{}{0}{qu1123 2}
+{154}{F:}{}{1}{}{0}{}
+{155}{Uau! Você é extremamente talentoso. Bom trabalho. Aqui estão as 550 moedas que prometi. O Submundo agradece.}{Uau! Você é extremamente talentoso. Bom trabalho. Aqui estão as 550 moedas que prometi. O Submundo agradece.}{}{}{}{$$ 550, qu1123 4}
+{156}{Obrigado, @npcname@. Adeus.}{}{5}{}{0}{}
+{157}{Obrigado, @npcname@. Posso te perguntar uma coisa?}{}{5}{}{75}{}
+{158}{Valeu, @npcname@. Tchau.}{}{-4}{}{0}{}
+{159}{Tanques @npcname@. Quer me perguntar mais alguma coisa?}{}{-4}{}{75}{}
+{160}{Uau! Você é extremamente talentoso. Bom trabalho. Aqui estão as 750 moedas que prometi. O Submundo agradece.}{Uau! Você é extremamente talentoso. Bom trabalho. Aqui estão as 750 moedas que prometi. O Submundo agradece.}{}{}{}{$$ 750, qu1123 4}
+{161}{Obrigado, @npcname@. Adeus.}{}{5}{}{0}{}
+{162}{Obrigado, @npcname@. Posso te perguntar uma coisa?}{}{5}{}{75}{}
+{163}{Valeu, @npcname@. Tchau.}{}{-4}{}{0}{}
+{164}{Tanques @npcname@. Quer me perguntar mais alguma coisa?}{}{-4}{}{75}{}
+{165}{Ahh... Muito observador da sua parte. Ele foi escondido, então não será discernido por aqueles sem o conhecimento apropriado. Não se preocupe, porém, nosso cliente é bem versado em seu uso. Ele ficará extremamente satisfeito por você tê-lo obtido. Obrigado.}{Ahh... Muito observador da sua parte. Ele foi escondido, então não será discernido por aqueles sem o conhecimento apropriado. Não se preocupe, porém, nosso cliente é bem versado em seu uso. Ele ficará extremamente satisfeito por você tê-lo obtido. Obrigado.}{}{}{}{lf0 1}
+{166}{K:}{}{1}{}{75}{}
+{167}{E:}{}{1}{}{0}{}
+{168}{Ahh... As joias. Sim. Eu estava esperando por elas... Aqui. Deixe-me vê-las. [pega a bolsa de você e olha dentro] ...Sim. Tudo parece estar em ordem. Você nos prestou um grande serviço, transportando-as por canais alternativos.}{Ahh... As joias. Sim. Eu estava esperando por elas... Aqui. Deixe-me vê-las. [pega a bolsa de você e olha dentro] ...Sim. Tudo parece estar em ordem. Você nos prestou um grande serviço, transportando-as por canais alternativos.}{}{}{}{qu1124 4, in 5666}
+{169}{Fiquei feliz em ajudar. Disseram que eu seria compensado?}{}{5}{}{171}{}
+{170}{Eu feliz ajudar. Ele diz que eu ganhar alguma coisa?}{}{-4}{}{171}{}
+{171}{Sim... Sim. Compensação. Fui instruído a oferecer um pouco a mais, já que a carga que você entregou era de tamanha importância. Aqui estão 350 moedas pelo seu trabalho. O Submundo agradece.}{Sim... Sim. Compensação. Fui instruído a oferecer um pouco a mais, já que a carga que você entregou era de tamanha importância. Aqui estão 350 moedas pelo seu trabalho. O Submundo agradece.}{}{}{}{$$ 350}
+{172}{K:}{}{1}{}{75}{}
+{173}{E:}{}{1}{}{0}{}
+{174}{Sim... Posso fazer isso. Mas quero 500 moedas adiantadas, como taxa de treinamento.}{Sim... Posso fazer isso. Mas quero 500 moedas adiantadas, como taxa de treinamento.}{}{}{}{}
+{175}{Isso é aceitável. Estou pronto para ser treinado.}{}{5}{$$500, sk14 9}{188}{}
+{176}{Tudo bem. Vamos logo com isso.}{}{5}{$$500, sk14 9}{188}{}
+{177}{Isso é aceitável. Estou pronto para ser treinado.}{}{5}{$$500, sk14 -8}{184}{}
+{178}{Tudo bem. Vamos logo com isso.}{}{5}{$$500, sk14 -8}{184}{}
+{179}{Vou precisar voltar mais tarde com mais moedas. Adeus.}{}{5}{$$-499}{0}{}
+{180}{Hmm... Tá bom. Estou pronto.}{}{-4}{$$500, sk14 9}{188}{}
+{181}{Hmm... Tá bom. Estou pronto.}{}{-4}{$$500, sk14 -8}{184}{}
+{182}{Hmm... Vou buscar mais moedas. Já volto.}{}{-4}{$$-499}{0}{}
+{183}{F:}{}{1}{}{0}{}
+{184}{[Depois de trabalhar com você por alguns instantes, ele faz uma pausa.] Espere aí... Você obviamente tem "alguma" habilidade como chaveiro, mas não acho que esteja pronto para avançar para Especialista ainda. Vá e aprimore um pouco mais sua habilidade, depois conversamos.}{[Depois de trabalhar com você por alguns instantes, ele faz uma pausa.] Espere aí... Você obviamente tem "alguma" habilidade como chaveiro, mas não acho que esteja pronto para avançar para Especialista ainda. Vá e aprimore um pouco mais sua habilidade, depois conversamos.}{}{}{}{}
+{185}{Tudo certo. Volto logo.}{}{5}{}{0}{}
+{186}{Tá bom. Eu já volto.}{}{-4}{}{0}{}
+{187}{F:}{}{1}{}{0}{}
+{188}{Obrigado. [Ele pega a moeda de você] Aqui, deixe-me mostrar alguns truques [Ele passa a expandir seu conhecimento sobre variações de mecanismos de fechadura em detalhes.] ...Tudo certo, @pcname@. Você se tornou um Chaveiro Especialista.}{Obrigado. [Ele pega a moeda de você] Aqui, deixe-me mostrar alguns truques [Ele passa a expandir seu conhecimento sobre variações de mecanismos de fechadura em detalhes.] ...Tudo certo, @pcname@. Você se tornou um Chaveiro Especialista.}{}{}{}{tr14 2, $$-500, rq2183}
+{189}{Obrigado. Agora, onde eu encontraria o Mestre Chaveiro?}{}{5}{}{191}{}
+{190}{Obrigadu. Onde tá o home que treina Mast'r Lock?}{}{-4}{}{191}{}
+{191}{[olhando com um leve divertimento] Eu sei exatamente onde ele está! J.T. Morgan é quem você procura. Ele está bem fácil de achar agora, já que está cumprindo pena perpétua aqui mesmo na prisão de Caladon. Boa sorte em se tornar um Mestre Chaveiro! ...você vai precisar!}{[olhando com um leve divertimento] Eu sei exatamente onde ele está! J.T. Morgan é quem você procura. Ele está bem fácil de achar agora, já que está cumprindo pena perpétua aqui mesmo na prisão de Caladon. Boa sorte em se tornar um Mestre Chaveiro! ...você vai precisar!}{}{}{}{ru2173}
+{192}{Bem... isso pode ser problemático. Obrigado, mesmo assim. Adeus.}{}{5}{}{0}{}
+{193}{Parece que vou precisar mesmo! Obrigado pelo treinamento. Adeus.}{}{5}{}{0}{}
+{194}{Oh! Num é bom, num... Hã... Obrigadu por me treinar. Tchau.}{}{-4}{}{0}{}
+{195}{Uh!... Eu precisar de sorte, talvez! Obrigadu pelo treino. Eu ir agora. Tchau.}{}{-4}{}{0}{}
+{196}{E:}{}{1}{}{0}{}
+{197}{Sim... Posso fazer isso. Mas quero 500 moedas adiantadas, como taxa de treinamento.}{Sim... Posso fazer isso. Mas quero 500 moedas adiantadas, como taxa de treinamento.}{}{}{}{}
+{198}{Isso é aceitável. Estou pronto para ser treinado.}{}{5}{$$500, sk15 9}{211}{}
+{199}{Tudo bem. Vamos logo com isso.}{}{5}{$$500, sk15 9}{211}{}
+{200}{Isso é aceitável. Estou pronto para ser treinado.}{}{5}{$$500, sk15 -8}{207}{}
+{201}{Tudo bem. Vamos logo com isso.}{}{5}{$$500, sk15 -8}{207}{}
+{202}{Vou precisar voltar mais tarde com mais moedas. Adeus.}{}{5}{$$-499}{0}{}
+{203}{Hmm... Tá bom. Estou pronto.}{}{-4}{$$500, sk15 9}{211}{}
+{204}{Hmm... Tá bom. Estou pronto.}{}{-4}{$$500, sk15 -8}{207}{}
+{205}{Hmm... Vou buscar mais moedas. Já volto.}{}{-4}{$$-499}{0}{}
+{206}{F:}{}{1}{}{0}{}
+{207}{[Depois de trabalhar com você por alguns instantes, ele para.] Espere aí... Você obviamente tem "alguma" habilidade em desarmar armadilhas, mas não acho que esteja pronto para avançar para Especialista ainda. Vá e aprimore um pouco mais sua habilidade, depois conversamos.}{[Depois de trabalhar com você por alguns instantes, ele para.] Espere aí... Você obviamente tem "alguma" habilidade em desarmar armadilhas, mas não acho que esteja pronto para avançar para Especialista ainda. Vá e aprimore um pouco mais sua habilidade, depois conversamos.}{}{}{}{}
+{208}{Tudo certo. Volto logo.}{}{5}{}{0}{}
+{209}{Tá bom. Eu já volto.}{}{-4}{}{0}{}
+{210}{F:}{}{1}{}{0}{}
+{211}{Obrigado. [Ele pega a moeda de você] Aqui, deixe-me mostrar alguns truques [Ele passa a expandir seu conhecimento sobre desarme de armadilhas, demonstrando vários métodos novos.] ...Tudo certo, @pcname@. Você se tornou um Especialista em Desarme de Armadilhas.}{Obrigado. [Ele pega a moeda de você] Aqui, deixe-me mostrar alguns truques [Ele passa a expandir seu conhecimento sobre desarme de armadilhas, demonstrando vários métodos novos.] ...Tudo certo, @pcname@. Você se tornou um Especialista em Desarme de Armadilhas.}{}{}{}{tr15 2, $$-500, rq2184}
+{212}{Obrigado. Agora, onde eu encontraria o Mestre?}{}{5}{}{214}{}
+{213}{Obrigado. Onde tá o Mestre treinador?}{}{-4}{}{214}{}
+{214}{[olhando com um leve divertimento] Eu sei exatamente onde ele está! Daniel McPherson é o homem que você procura. A casa dele fica bem em frente à minha, aqui em Caladon, mas ele está sempre ocupado. O rei está constantemente chamando-o para melhorar as defesas do castelo. Eu ficaria surpreso se ele ainda arranjasse tempo para ensinar.}{[olhando com um leve divertimento] Eu sei exatamente onde ele está! Daniel McPherson é o homem que você procura. A casa dele fica bem em frente à minha, aqui em Caladon, mas ele está sempre ocupado. O rei está constantemente chamando-o para melhorar as defesas do castelo. Eu ficaria surpreso se ele ainda arranjasse tempo para ensinar.}{}{}{}{ru2174}
+{215}{Bem... isso pode ser problemático. Obrigado, mesmo assim. Adeus.}{}{5}{}{0}{}
+{216}{Oh! Num é bom, num... Hã... Obrigadu por me treinar. Tchau.}{}{-4}{}{0}{}
+{217}{E:}{}{1}{}{0}{}
+

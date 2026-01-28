@@ -1,0 +1,140 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá. Acredito que ainda não nos conhecemos, madame...}{}{5}{lf1 0, re 35}{18}{}
+{3}{Olá, Sra. Garringsburg. A senhora teria um momento?}{}{5}{lf1 1, re 35}{83}{}
+{4}{Com licença, madame? Precisamos mesmo recorrer a tal desagrado?}{}{5}{lf1 0, re -34}{13}{re +10}
+{5}{Sra. Garringsburg! Não podemos conversar civilizadamente?}{}{5}{lf1 1, re -34}{13}{re +10}
+{6}{Hã... oi, moça! Quem é você?}{}{-4}{lf1 0, ni 5627}{23}{}
+{7}{Ei, Evlin! Podemos conversar?}{}{-4}{lf1 1}{83}{}
+{8}{Olá, Sra. Garringsburg. Trouxe de volta o seu quadro...}{}{5}{lf1 0, in 5627}{117}{}
+{9}{Oi! Trouxe o quadro de volta!}{}{-4}{lf1 0, in 5627}{117}{}
+{10}{E:}{}{1}{}{0}{}
+{13}{[Ela parece surpresa. E então...] Perdoe-me, cavalheiro... fui tomada por uma impressão obviamente equivocada sobre o senhor... por favor, perdoe o desabafo...}{[Ela parece surpresa. E então...] Perdoe-me, madame... fui tomada por uma impressão obviamente equivocada sobre a senhora... por favor, perdoe o desabafo...}{}{}{}{}
+{14}{Claro, madame. E quem seria a senhora?}{}{5}{}{18}{}
+{15}{Certamente, Sra. Garringsburg. A senhora teria um momento?}{}{5}{}{83}{}
+{18}{[Ela parece um pouco distraída e algo angustiada.] Sim... onde estão meus modos? Sou a Sra. Evelyn Garringsburg. Por favor, fique à vontade. Desculpe... qual disse que era o seu nome?}{[Ela parece um pouco distraída e algo angustiada.] Sim... onde estão meus modos? Sou a Sra. Evelyn Garringsburg. Por favor, fique à vontade. Desculpe... qual disse que era o seu nome?}{}{}{}{lf1 1}
+{19}{Eu não disse, madame.}{}{5}{}{27}{re -5}
+{20}{Meu nome é @PCNAME@. Prazer em conhecê-la, madame.}{}{5}{}{33}{re +5}
+{23}{[Ela parece um pouco distraída e algo angustiada.] Meu Deus! O senhor parece um pouco lerdo! Mas os bons modos ditam que sejamos civilizados com todas as pessoas. Tem um nome?}{[Ela parece um pouco distraída e algo angustiada.] Meu Deus! A senhora parece um pouco lerda! Mas os bons modos ditam que sejamos civilizados com todas as pessoas. Tem um nome?}{}{}{}{lf1 1}
+{24}{Hã... eu não conto meu nome pra todo mundo...}{}{-4}{}{27}{re 5}
+{25}{Hã... é! Eu sou o @PCNAME@! Prazer em conhecê-la!}{}{-4}{}{33}{re +5}
+{27}{Sério? Ah, isso não vai dar certo, receio. Um homem que não revela seu nome geralmente está escondendo algo. Talvez seja melhor o senhor ir embora...}{Sério? Ah, isso não vai dar certo, receio. Uma mulher que não revela seu nome geralmente está escondendo algo. Talvez seja melhor a senhora ir embora...}{}{}{}{}
+{28}{Não tenho nada a esconder... meu nome é @PCNAME@.}{}{5}{}{33}{re +5}
+{29}{Sinto muito, mas receio não concordar com suas filosofias...}{}{5}{}{111}{re -5}
+{30}{Hã... tá bom! Eu me chamo @PCNAME@!}{}{-4}{}{33}{re +5}
+{31}{O que você diz é bobagem! Eu não gosto disso!}{}{-4}{}{111}{re -5}
+{33}{Muito bem! É tão agradável conhecer pessoas bem-educadas! Agora, desculpe a rudeza, mas preciso me retirar. Tenho tanto com o que lidar, com o roubo e tudo mais...}{Muito bem! É tão agradável conhecer pessoas bem-educadas! Agora, desculpe a rudeza, mas preciso me retirar. Tenho tanto com o que lidar, com o roubo e tudo mais...}{}{}{}{}
+{34}{Roubo! Madame! Há algo que eu possa fazer?}{}{5}{}{39}{}
+{35}{Claro. Se me der licença...}{}{5}{}{0}{}
+{36}{Hmm...fu-fu-furto? Talvez eu ajude!}{}{-4}{}{39}{}
+{37}{E:}{}{-4}{}{0}{}
+{39}{Receio que pouco possa ser feito agora. Há duas noites houve uma invasão aqui na mansão... pela manhã, descobrimos que algumas de nossas posses mais valiosas haviam sido roubadas, incluindo nossa amada "Kerghan e Perséfone"... um original de Pizarro...}{Receio que pouco possa ser feito agora. Há duas noites houve uma invasão aqui na mansão... pela manhã, descobrimos que algumas de nossas posses mais valiosas haviam sido roubadas, incluindo nossa amada "Kerghan e Perséfone"... um original de Pizarro...}{}{}{}{}
+{40}{Sinto muito. A polícia tem alguma pista?}{}{5}{}{45}{}
+{41}{Parece uma tragédia. Vou me despedir...}{}{5}{}{0}{}
+{42}{Hmm... que pena. Quem roubou as coisas?}{}{-4}{}{45}{}
+{43}{E:}{}{-4}{}{0}{}
+{45}{A polícia teve pouca sorte em capturar os criminosos... parece que eles cobriram bem seus rastros. Tem um jornal local por aqui em algum lugar descrevendo o incidente. Fique à vontade para pegá-lo. [Ela gesticula preguiçosamente.] E eu amava tanto aquele quadro...}{A polícia teve pouca sorte em capturar os criminosos... parece que eles cobriram bem seus rastros. Tem um jornal local por aqui em algum lugar descrevendo o incidente. Fique à vontade para pegá-lo. [Ela gesticula preguiçosamente.] E eu amava tanto aquele quadro...}{}{}{}{}
+{46}{Talvez eu possa oferecer meus serviços para encontrar o quadro?}{}{5}{}{52}{}
+{47}{Posso lhe fazer algumas perguntas sobre o crime?}{}{5}{}{63}{}
+{49}{E:}{}{5}{}{0}{}
+{50}{Talvez eu consiga encontrar o quadro, madame!}{}{-4}{}{52}{}
+{51}{E:}{}{-4}{}{0}{}
+{52}{Oh, sim! Ficaria muito grata! Você realmente faria isso? Eu poderia lhe oferecer, ah, 300 peças de ouro se o devolvesse!}{Oh, sim! Ficaria muito grata! Você realmente faria isso? Eu poderia lhe oferecer, ah, 300 peças de ouro se o devolvesse!}{}{}{}{qu1063 1}
+{53}{Claro, madame. Seria uma honra aceitar o trabalho!}{}{5}{}{58}{qu1063 2}
+{54}{Vou pensar no assunto e volto...}{}{5}{}{0}{}
+{55}{É isso aí, Evlin! Eu encontro o quadro!}{}{-4}{}{58}{qu1063 2}
+{56}{Hmm... talvez. Eu volto mais tarde...}{}{-4}{}{0}{}
+{58}{Maravilhoso! Muito obrigada! Aguardarei seu retorno...}{Maravilhoso! Muito obrigada! Aguardarei seu retorno...}{}{}{}{}
+{59}{Posso lhe fazer algumas perguntas sobre o crime?}{}{5}{}{63}{}
+{60}{E:}{}{5}{}{0}{}
+{61}{E:}{}{-4}{}{0}{}
+{63}{Claro. O que gostaria de saber?}{Claro. O que gostaria de saber?}{}{}{}{}
+{64}{Como a casa foi invadida?}{}{5}{}{71}{}
+{65}{Alguém mais tem a chave da casa?}{}{5}{}{75}{}
+{66}{Quem sabia que o quadro estava aqui na casa?}{}{5}{}{79}{}
+{67}{Mais algumas perguntas gerais...}{}{5}{qa1063 2}{83}{}
+{68}{Talvez eu possa oferecer meus serviços para encontrar o quadro?}{}{5}{qb1063 1}{52}{}
+{69}{E:}{}{5}{}{0}{}
+{71}{A porta da frente... foi um trabalho profissional, pois não ouvimos nada de nossa cama. Nosso mordomo, Polgram... [ela aponta para seu servo meio-ogro.]... estava do lado de fora, em sua ronda noturna. O ladrão entrou e saiu em minutos...}{A porta da frente... foi um trabalho profissional, pois não ouvimos nada de nossa cama. Nosso mordomo, Polgram... [ela aponta para seu servo meio-ogro.]... estava do lado de fora, em sua ronda noturna. O ladrão entrou e saiu em minutos...}{}{}{}{}
+{72}{Entendo. Mais algumas perguntas sobre o crime...}{}{5}{}{63}{}
+{73}{Vou pensar nisso e voltar...}{}{5}{}{0}{}
+{75}{Não... meu marido e eu somos as únicas pessoas que têm chaves da mansão. Nem mesmo Polgram tem uma...}{Não... meu marido e eu somos as únicas pessoas que têm chaves da mansão. Nem mesmo Polgram tem uma...}{}{}{}{}
+{76}{Entendo. Mais algumas perguntas sobre o crime...}{}{5}{}{63}{}
+{77}{Vou pensar nisso e voltar...}{}{5}{}{0}{}
+{79}{Ninguém, além dos nossos amigos mais próximos. É claro, meu marido costuma sair para beber com os amigos de vez em quando... existe algum homem que não goste de um ocasional cálice de conhaque?... Suponho que ele possa ter revelado algo em público em um de seus... momentos de fraqueza...}{Ninguém, além dos nossos amigos mais próximos. É claro, meu marido costuma sair para beber com os amigos de vez em quando... existe algum homem que não goste de um ocasional cálice de conhaque?... Suponho que ele possa ter revelado algo em público em um de seus... momentos de fraqueza...}{}{}{}{}
+{80}{Entendo. Mais algumas perguntas sobre o crime...}{}{5}{}{63}{}
+{81}{Vou pensar nisso e voltar...}{}{5}{}{0}{}
+{83}{Como posso ajudá-lo?}{Como posso ajudá-lo?}{}{}{}{}
+{84}{Voltei para falar sobre o roubo...}{}{5}{qu1063 0}{39}{}
+{85}{Posso fazer mais algumas perguntas sobre o crime?}{}{5}{qa1063 1}{63}{}
+{86}{Estava pensando em ajudá-lo com seu problema...}{}{5}{qu1063 1, ni 5627}{52}{}
+{87}{Ainda estou procurando pelo seu quadro...}{}{5}{qu1063 2, ni 5627}{96}{}
+{88}{Trouxe de volta o seu quadro... aqui está...}{}{5}{in 5627, qu1063 2}{102}{in 5627}
+{90}{Falar sobre o r-o-u-b-o de novo...?}{}{-4}{qu1063 0}{39}{}
+{91}{Talvez eu encontre o quadro para você...?}{}{-4}{qu1063 1, ni 5627}{52}{}
+{92}{Ainda estou procurando pelo quadro...!}{}{-4}{qu1063 2, ni 5627}{96}{}
+{93}{Encontrei o quadro! Aqui está!}{}{-4}{in 5627, qu1063 2}{102}{in 5627}
+{94}{E:}{}{1}{}{0}{}
+{96}{Espero que o encontre logo, meu amigo... havia mais alguma coisa?}{Espero que o encontre logo, meu amigo... havia mais alguma coisa?}{}{}{}{}
+{97}{Mais algumas perguntas gerais...}{}{5}{}{83}{}
+{98}{E:}{}{5}{}{0}{}
+{99}{Hã... mais perguntas!}{}{-4}{}{83}{}
+{100}{E:}{}{-4}{}{0}{}
+{102}{Isso é maravilhoso, @PCNAME@! Estou tão feliz! Sabia que você era um homem de bom caráter! Aqui está sua recompensa...}{Isso é maravilhoso, @PCNAME@! Estou tão feliz! Sabia que você era uma mulher de bom caráter! Aqui está sua recompensa...}{}{}{}{$$300, qu1063 4}
+{103}{Obrigado, madame. Fico feliz em ajudar...}{}{5}{}{106}{}
+{104}{Claro, Evlin! Fico feliz em ajudar...}{}{-4}{}{106}{}
+{106}{Vou ligar para o jornal agora mesmo! Toda a cidade saberá até de manhã que você é um homem que resolve as coisas!}{Vou ligar para o jornal agora mesmo! Toda a cidade saberá até de manhã que você é uma mulher que resolve as coisas!}{}{}{}{}
+{107}{Agradeço pela confiança. Tenha um bom dia...}{1}{5}{}{0}{lf2 1, np 1120 0}
+{108}{Agradeço pela confiança. Tenha um bom dia...}{0}{5}{}{0}{lf2 1, np 1130 0}
+{109}{Obrigado! Tchau!}{1}{-4}{}{0}{lf2 1, np 1120 0}
+{110}{Obrigado! Tchau!}{0}{-4}{}{0}{lf2 1, np 1130 0}
+{111}{O quê? Você é muito rude. Polgram! [Ela acena para o servo meio-ogro.] Polgram, talvez precisemos remover este jovem da casa se ele continuar a demonstrar tão maus modos...}{O quê? Você é muito rude. Polgram! [Ela acena para o servo meio-ogro.] Polgram, talvez precisemos remover esta jovem da casa se ele continuar a demonstrar tão maus modos...}{}{}{}{}
+{112}{Aceite minhas mais humildes desculpas. Meu nome é @PCNAME@.}{}{5}{}{33}{re +10}
+{113}{Querida senhora, eu odiaria ter que machucar você e seu bicho de estimação...}{}{5}{}{-8}{}
+{114}{Hã... vamos ser amigos! Eu chamei @PCNAME@!}{}{-4}{}{33}{}
+{115}{Eu esmago você E o ogro burro...}{}{-4}{}{-8}{}
+{117}{O quê? Minha pintura! Quem é você? Como você... [Ela parece surpresa. Então, com frieza...] Suponho que você esteja esperando a recompensa...}{O quê? Minha pintura! Quem é você? Como você... [Ela olha para você com frieza, a raiva aumentando.] Conveniente, não é? Suponho que você esteja esperando a recompensa...}{}{}{}{}
+{118}{Bem, é claro. O jornal dizia que você tinha oferecido uma...}{}{5}{gf2110 1}{125}{re -5}
+{119}{Recompensa? Você está oferecendo uma? Eu apreciaria isso...}{}{5}{gf2110 0}{125}{re -5}
+{120}{Claro que não, madame. Estou apenas devolvendo o que é seu...}{}{5}{}{153}{}
+{121}{É! Dinheiro! Dinheiro!}{}{-4}{}{125}{}
+{122}{E:}{}{-4}{}{0}{}
+{125}{Hah! Conveniente, não é! Nossa pintura é roubada, e então um estranho que nunca vi aparece na porta, oferecendo-a de volta pela recompensa! Eu diria que VOCÊ é quem a roubou!}{Hah! Conveniente, não é! Nossa pintura é roubada, e então um estranho que nunca vi aparece na porta, oferecendo-a de volta pela recompensa! Eu diria que VOCÊ é quem a roubou!}{}{}{}{}
+{126}{Passei por muita coisa. Vou apenas pegar a recompensa e ir embora...}{}{5}{}{137}{re -5}
+{127}{Você precisa acreditar em mim... [Conte a ela a história.]}{}{5}{ch 12}{160}{}
+{128}{Você precisa acreditar em mim... [Conte a ela a história.]}{}{5}{ch -11}{145}{re -5}
+{129}{Ouça. Isso não vale mais o aborrecimento. Apenas pegue...}{}{5}{}{156}{in 5627, re +10}
+{130}{Talvez eu encontre alguém mais agradecido. Tenha um bom dia.}{}{5}{}{-15}{re -5, lf3 1, fl 135}
+{131}{Hã... eu não roubei! Eu consegui por acidente...}{}{-4}{}{145}{re -5}
+{132}{Estou cansado disso. Apenas pegue a pintura idiota e eu vou...}{}{-4}{}{156}{in 5627, re +10}
+{133}{Tudo bem... vou levar a pintura para outro lugar... tchau!}{}{-4}{}{-15}{re -5, lf3 1, fl 135}
+{135}{Sim! Faça isso! Vou chamar as autoridades agora mesmo! Ladrão! Ladrão! Ah... estou me sentindo fraca... [ela desmaia.]}{Sim! Faça isso! Vou chamar as autoridades agora mesmo! Ladrão! Ladrão! Ah... estou me sentindo fraca... [ela desmaia.]}{}{}{}{}
+{137}{Você não vai conseguir nada de mim, ladrão! Estou vendo através do seu ardil, cretino! Vou denunciar você às autoridades agora mesmo!}{Você não vai conseguir nada de mim, ladrão! Estou vendo através do seu ardil, cretino! Vou denunciar você às autoridades agora mesmo!}{}{}{}{}
+{138}{Não tenho certeza se aprecio seu tom, senhora.}{}{5}{}{163}{re -5}
+{139}{Nenhuma recompensa vale essa angústia. Apenas pegue essa coisa maldita.}{}{5}{}{156}{in 5627, re +10}
+{140}{Talvez eu encontre outro comprador... tenha um bom dia.}{}{5}{}{-15}{re -5, lf3 1, fl 135}
+{141}{Não gosto dos nomes que você me chama. Talvez eu faça você calar a boca...}{}{-4}{}{163}{}
+{142}{Hã... pare de chorar! Apenas pegue a pintura e fique quieta!}{}{-4}{}{156}{in 5627, re +10}
+{143}{Vou embora agora... encontrar outra pessoa que a queira...}{}{-4}{}{-15}{re -5, lf3 1, fl 135}
+{145}{Hah! Uma história bem conveniente! Como se eu fosse acreditar em um monte de mentiras dessas! Acho que você é o ladrão... tentando me extorquir por dinheiro!}{Hah! Uma história bem conveniente! Como se eu fosse acreditar em um monte de mentiras dessas! Acho que você é o ladrão... tentando me extorquir por dinheiro!}{}{}{}{}
+{146}{Não tenho certeza se gostei do seu tom, <<<PH1>>>.}{}{5}{}{163}{re -5}
+{147}{Nenhuma recompensa vale essa angústia. Apenas leve essa maldita coisa.}{}{5}{}{156}{in 5627, re +10}
+{148}{Talvez eu consiga encontrar outro comprador... tenha um bom dia.}{}{5}{}{-15}{re -5, lf3 1, fl 135}
+{149}{Eu não gosto dos nomes que você me chama. Talvez eu cale você...}{}{-4}{}{163}{}
+{150}{Ei... pare de chorar! Apenas pegue o quadro e fique quieto!}{}{-4}{}{156}{in 5627, re +10}
+{151}{Eu vou embora agora... encontrar alguém que queira isso...}{}{-4}{}{-15}{re -5, lf3 1, fl 135}
+{153}{[Ela fica surpresa.] Obrigada! Devo admitir... achei que talvez você fosse o ladrão e estivesse aqui para extorquir o dinheiro da recompensa. Você me envergonha com sua generosidade, estranho. Por favor, aceite isto... [Ela lhe entrega algum dinheiro.] É o dobro da recompensa anunciada...}{[Ela fica surpresa.] Obrigada! Devo admitir... achei que talvez você fosse o ladrão e estivesse aqui para extorquir o dinheiro da recompensa. Você me envergonha com sua generosidade, estranho. Por favor, aceite isto... [Ela lhe entrega algum dinheiro.] É o dobro da recompensa anunciada...}{}{}{}{$$600, lf2 1, qu1063 4, in 5627}
+{154}{Obrigado, <<<PH1>>>. Tenha um bom dia.}{}{5}{}{106}{}
+{156}{[Ela pega o quadro, incrédula. Seus olhos se abaixam.] Sinto muito, bom senhor. Meu acesso de raiva foi imperdoável. Você me envergonhou com sua bravura, paciência e generosidade. Obrigada. [Ela abre uma pequena bolsa.] Aqui, vou dobrar a recompensa anunciada... por favor, me perdoe.}{[Ela pega o quadro, incrédula. Seus olhos se abaixam.] Sinto muito, <<<PH1>>>. Meu acesso de raiva foi imperdoável. Você me envergonhou com sua bravura, paciência e generosidade. Obrigada. [Ela abre uma pequena bolsa.] Aqui, vou dobrar a recompensa anunciada... por favor, me perdoe.}{}{}{}{$$600, lf2 1, qu1063 4, in 5627}
+{157}{Claro, <<<PH1>>>. Obrigado, e tenha um bom dia.}{}{5}{}{106}{}
+{158}{Claro, <<<PH1>>>! Tchau!}{}{-4}{}{106}{}
+{160}{[Ela escuta, atentamente.] Incrível. Que aventura maravilhosa! E tamanha bravura, bom senhor! Por favor, perdoe meu acesso de raiva antes... eu costumo ficar emotiva. Por favor, aceite minhas mais humildes desculpas e este símbolo da minha gratidão. [Ela lhe entrega algum dinheiro.]}{[Ela escuta, atentamente.] Incrível. Que aventura maravilhosa! E tamanha bravura, <<<PH1>>>! Por favor, perdoe meu acesso de raiva antes... eu costumo ficar emotiva. Por favor, aceite minhas mais humildes desculpas e este símbolo da minha gratidão. [Ela lhe entrega algum dinheiro.]}{}{}{}{$$600, lf2 1, qu1063 4, in 5627}
+{161}{Agradeço, madame.}{}{5}{}{106}{}
+{163}{O quê? Você está me ameaçando na minha própria casa! Polgram! Socorro! Esse ladrão está me ameaçando!}{O quê? Você está me ameaçando na minha própria casa! Polgram! Socorro! Esse ladrão está me ameaçando!}{}{}{}{}
+{164}{Muito bem... agora vocês dois morrem.}{}{5}{}{-8}{}
+{165}{Estou cansado dos seus delírios, <<<PH1>>>. Vou embora.}{}{5}{}{}{re -5, lf3 1, fl 135}
+{166}{Eu mato vocês dois!}{}{-4}{}{-8}{}
+{167}{Seus sons idiotas me cansam. Vou embora agora...}{}{-4}{}{}{re -5, lf3 1, fl 135}
+{169}{Mais uma vez, obrigado pela sua ajuda neste assunto. Você é um verdadeiro cavalheiro...}{Mais uma vez, obrigado pela sua ajuda neste assunto. Você é verdadeiramente uma <<<PH1>>> de alta estima...}{}{}{}{}
+{171}{Ladrão! Ladrão! Polgram... me ajude!... Estou desmaiando... [Ela desmaia novamente.]}{Ladrão! Ladrão! Polgram... me ajude!... Estou desmaiando... [Ela desmaia novamente.]}{}{}{}{}
+{172}{Que vergonha. Polgram... livre-se desse degenerado...}{Que vergonha. Polgram... livre-se desse degenerado...}{}{}{}{}
+

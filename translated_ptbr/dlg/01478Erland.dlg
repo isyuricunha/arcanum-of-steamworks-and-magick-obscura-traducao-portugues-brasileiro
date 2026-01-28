@@ -1,0 +1,31 @@
+{1}{Graças a Alberich você nos encontrou! Estávamos prestes a morrer de fome lá dentro. Malditos zumbis. Você deu conta deles rapidinho, hein?}{Graças a Alberich você nos encontrou! Estávamos prestes a morrer de fome lá dentro. Malditos zumbis. Você deu conta deles rapidinho, hein?}{}{}{}{}
+{2}{O que aconteceu aqui?}{}{5}{}{50}{lf5 1}
+{3}{Estou procurando por Erland Coração de Ferro. Você o conhece?}{}{5}{qa1091 1}{10}{lf1 1}
+{10}{Claro que o conheço. Sou eu.}{Claro que o conheço. Sou eu.}{}{}{}{}
+{11}{Seu irmão me mandou pedir para você voltar para casa.}{}{5}{}{20}{}
+{20}{[Ele balança a cabeça.] Thrayne, pobre Thrayne. Ele tem sido tão superprotetor comigo desde que nosso pai morreu. Ele se culpa por isso, você sabe.}{[Ele balança a cabeça.] Thrayne, pobre Thrayne. Ele tem sido tão superprotetor comigo desde que nosso pai morreu. Ele se culpa por isso, você sabe.}{}{}{}{gf2195 1}
+{21}{O que aconteceu com seu pai?}{}{5}{}{30}{}
+{22}{Então você vai voltar para casa?}{}{5}{}{40}{}
+{23}{O que aconteceu aqui?}{}{5}{lf5 0}{50}{lf5 1}
+{30}{Prefiro não falar mais sobre isso. É melhor eu ir para casa antes que meu querido irmão se preocupe até morrer.}{Prefiro não falar mais sobre isso. É melhor eu ir para casa antes que meu querido irmão se preocupe até morrer.}{}{}{}{qu1091 4}
+{31}{O que aconteceu aqui?}{}{5}{lf5 0}{50}{lf5 1}
+{40}{Acho que é melhor eu ir. Eu já estava planejando voltar para casa em breve, de qualquer forma, antes de tudo isso acontecer. [Ele olha ao redor.] E acho que não sou mais bem-vindo por aqui.}{Acho que é melhor eu ir. Eu já estava planejando voltar para casa em breve, de qualquer forma, antes de tudo isso acontecer. [Ele olha ao redor.] E acho que não sou mais bem-vindo por aqui.}{}{}{}{qu1091 4}
+{41}{O que aconteceu aqui?}{}{5}{lf5 0}{50}{lf5 1}
+{49}{É melhor eu ir andando.}{}{5}{}{0}{lf2 1}
+{50}{[Ele ri baixinho e olha para os sapatos, um pouco sem jeito.] Eu, ah, seria o responsável por tudo isso. Encontrei o laboratório de um antigo necromante em uma caverna de acesso abandonada. Ao pesquisar seus diários, deduzi uma maneira de reproduzir o que ele fez através da magia usando princípios científicos.}{[Ele ri baixinho e olha para os sapatos, um pouco sem jeito.] Eu, ah, seria o responsável por tudo isso. Encontrei o laboratório de um antigo necromante em uma caverna de acesso abandonada. Ao pesquisar seus diários, deduzi uma maneira de reproduzir o que ele fez através da magia usando princípios científicos.}{}{}{}{ru2137}
+{51}{Então você criou todos esses zumbis? Isso foi um pouco irresponsável.}{}{5}{}{60}{}
+{52}{Onde fica esse laboratório?}{}{5}{}{70}{lf3 1}
+{60}{Garanto que foi um acidente. O primeiro que criei começou a soltar um grito horrível e a se debater. Ele derrubou meus produtos químicos e, antes que eu percebesse, eles estavam saindo do chão. Estavam por toda parte! Por sorte, consegui voltar aqui para avisar a todos.}{Garanto que foi um acidente. O primeiro que criei começou a soltar um grito horrível e a se debater. Ele derrubou meus produtos químicos e, antes que eu percebesse, eles estavam saindo do chão. Estavam por toda parte! Por sorte, consegui voltar aqui para avisar a todos.}{}{}{}{}
+{61}{Onde fica esse laboratório?}{}{5}{lf3 0}{70}{lf3 1}
+{62}{Estou procurando por Erland Coração de Ferro. Você o conhece?}{}{5}{lf1 0, qa1091 1}{10}{lf1 1}
+{70}{Você precisa passar pela porta no fundo da sala de armazenamento, saindo do salão principal, para chegar ao túnel antigo que leva até lá, mas eu teria cuidado se estiver planejando ir até lá. [Ele lhe entrega uma chave.]}{Você precisa passar pela porta no fundo da sala de armazenamento, saindo do salão principal, para chegar ao túnel antigo que leva até lá, mas eu teria cuidado se estiver planejando ir até lá. [Ele lhe entrega uma chave.]}{}{}{}{lf3 1, in-4421}
+{71}{Estou procurando por Erland Coração de Ferro. Você o conhece?}{}{5}{lf1 0, qa1091 1}{10}{lf1 1}
+{72}{Cuidado? Como todos aqueles zumbis escaparam?}{}{5}{lf3 0}{60}{lf3 1}
+{80}{Viajante. Obrigado mais uma vez por me salvar.}{Viajante. Obrigado mais uma vez por me salvar.}{}{}{}{}
+{81}{Então, o que realmente aconteceu aqui?}{}{5}{lf2 1, ru-2137, lf5 0}{50}{lf5 1}
+{82}{Você é Erland Coração de Ferro?}{}{5}{lf1 0, qa1091 1}{90}{lf1 1}
+{83}{Onde fica o laboratório de que você estava me falando?}{}{5}{lf4 0, ru2137}{70}{lf3 1}
+{89}{E:}{}{1}{}{0}{}
+{90}{Sim, sou eu.}{Sim, sou eu.}{}{}{}{}
+{91}{Seu irmão me enviou para pedir que você volte para casa.}{}{5}{}{20}{}
+

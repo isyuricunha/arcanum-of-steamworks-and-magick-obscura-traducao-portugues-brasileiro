@@ -1,0 +1,18 @@
+{1}{Acredito que o senhor tenha se enganado de casa. Talvez seja melhor ir embora.}{Acredito que a senhora tenha se enganado de casa. Talvez seja melhor ir embora.}{}{}{}{}
+{2}{Recebi um bilhete com este endereço...}{}{5}{qu1061 2}{10}{}
+{3}{Me desculpe. Não vou mais incomodá-lo. Tenha um bom dia.}{}{5}{}{0}{}
+{4}{Hã... Eu trago bilhete aqui...}{}{-4}{qu1061 2}{10}{}
+{5}{E:}{}{-4}{}{0}{}
+{10}{[O meio-ogro se ergue sobre você, encarando.] E aí? Que negócio você tem vindo aqui com isso?}{[O meio-ogro se ergue sobre você, encarando.] E aí? Que negócio você tem vindo aqui com isso?}{}{}{}{}
+{11}{Hã... Não tenho certeza. Talvez o senhor possa me dizer?}{}{5}{}{}{co, fl 15}
+{12}{Estou aqui pelo quadro...}{}{5}{gf2010 1}{20}{}
+{13}{Hã... Não sei... você me diz!}{}{-4}{}{}{co, fl 15}
+{15}{Resposta errada. Agora você morre...}{Resposta errada. Agora você morre...}{}{}{}{}
+{20}{[O meio-ogro parece incerto. Ele gagueja...] O-quê...? Quer dizer, eu pensei... quem é você? Como sabe do quadro?}{[O meio-ogro parece incerto. Ele gagueja...] O-quê...? Quer dizer, eu pensei... quem é você? Como sabe do quadro?}{}{}{}{}
+{21}{Relaxe, amigo. Rorry Limes me enviou...}{}{5}{gf2011 1}{25}{}
+{22}{Li no jornal. Só pensei em dar uma passada...}{}{5}{gf2011 0}{}{co, fl 15}
+{23}{E:}{}{5}{gf2011 0}{}{co, fl 15}
+{25}{[Ele parece aliviado.] Certo. Bom, então. Rorry o enviou. Tome... pegue isto. [Ele lhe entrega uma chave.] Está lá nos fundos...}{[Ele parece aliviado.] Certo. Bom, então. Rorry o enviou. Tome... pegue isto. [Ele lhe entrega uma chave.] Está lá nos fundos...}{}{}{}{in -4408, lf1 1}
+{26}{Claro que está. Muito obrigado...}{}{5}{}{0}{}
+{28}{Mande meus cumprimentos a Rorry...}{Mande meus cumprimentos a Rorry...}{}{}{}{}
+

@@ -1,0 +1,174 @@
+{1}{Que negócios você tem aqui? Jormund está preso por assassinato.}{Que negócios você tem aqui? Jormund está preso por assassinato.}{}{}{}{ }
+{2}{Assassinato? Quem ele teria matado?}{}{-11}{}{20}{lf1 1 }
+{3}{Você acredita que ele matou Wrath?}{}{12}{}{30}{lf1 1 }
+{10}{De volta, hein?}{De volta, hein?}{}{}{}{ }
+{11}{Aqui está a prova que você precisará para condenar Sharpe.}{}{5}{in5641, lf1 1, qb1081 2}{231}{ }
+{12}{Sharpe tinha um frasco vazio do mesmo veneno usado para matar Wrath.}{}{5}{gf2164 1, ni5641, lf1 1, qb1081 2, gf2166 0}{280}{ }
+{13}{Acredito que sei quem matou Wrath.}{}{5}{gf2698 1, lf25 0, gf2166 0}{450}{lf25 1 }
+{15}{Você pode me dizer como Wrath foi morto?}{}{5}{gf2163 1, lf2 0}{50}{lf2 1 }
+{16}{Posso entrar e falar com Jormund?}{}{5}{lf3 1, gf2163 0}{150}{ }
+{17}{Falei com Ivory. Há algo que você deveria saber.}{}{5}{gf2166 1, qu1081 4}{310}{ }
+{18}{Wrath se matou. Ele estava tentando incriminar Sharpe.}{}{5}{gf2166 1, qb1081 2}{320}{ }
+{19}{E:}{}{5}{}{0}{ }
+{20}{Ele matou Wrath, seu mentor. A antipatia de Jormund por Wrath é bem conhecida em Qintarra, assim como seu desejo de ser liberado de seu contrato.}{Ele matou Wrath, seu mentor. A antipatia de Jormund por Wrath é bem conhecida em Qintarra, assim como seu desejo de ser liberado de seu contrato.}{}{}{}{ }
+{21}{Isso não prova que ele o matou.}{}{5}{}{30}{ }
+{29}{Isso é tudo muito interessante. Posso entrar e falar com ele?}{}{5}{}{150}{ }
+{30}{Quem mais poderia ter feito isso? Elfos como nós não se matam. Além de você, ele era o único outro forasteiro em Qintarra quando o assassinato ocorreu.}{Quem mais poderia ter feito isso? Elfos como nós não se matam. Além de você, ele era o único outro forasteiro em Qintarra quando o assassinato ocorreu.}{}{}{}{lf15 1 }
+{31}{"Elfos como nós"? Existem outros tipos de elfos?}{}{5}{ra-3}{40}{ }
+{32}{Isso não faz de mim um suspeito também?}{}{5}{}{140}{ }
+{33}{"Elfos como nós"? Existem outros tipos de elfos?}{}{5}{ra3}{80}{ }
+{39}{Isso é tudo muito interessante. Posso entrar e falar com ele?}{}{5}{}{150}{ }
+{40}{Hmm. Não, não existem. Você deve ter entendido mal o que eu quis dizer.}{Hmm. Não, não existem. Você deve ter entendido mal o que eu quis dizer.}{}{}{}{ }
+{41}{Como ele foi morto, se não se importa que eu pergunte?}{}{5}{lf2 0}{50}{lf2 1 }
+{42}{Você está dizendo que não há assassinato entre elfos "como vocês"?}{}{5}{}{160}{ }
+{49}{Posso entrar e falar com ele?}{}{5}{}{150}{ }
+{50}{Ainda não determinamos isso. Até agora, tudo o que sabemos é que não encontramos evidências de ferimentos causados por armas.}{Ainda não determinamos isso. Até agora, tudo o que sabemos é que não encontramos evidências de ferimentos causados por armas.}{}{}{}{gf2149 1, lf2 1 }
+{51}{E quanto à Magick? "Quench Life" teria resolvido.}{}{5}{}{60}{ }
+{60}{Não. Nós de Qintarra somos extremamente sintonizados com os fluxos. Se alguma necromancia sombria tivesse sido usada, nós teríamos sentido.}{Não. Nós de Qintarra somos extremamente sintonizados com os fluxos. Se alguma necromancia sombria tivesse sido usada, nós teríamos sentido.}{}{}{}{gf2148 1 }
+{61}{Sem armas ou Magick? Isso deixa veneno, certo?}{}{14}{}{70}{ }
+{62}{Interessante. Obrigado pela informação.}{}{5}{gf2163 1}{0}{ }
+{69}{Isso tudo é muito interessante. Posso entrar e falar com ele?}{}{5}{gf2163 0}{150}{ }
+{70}{Não estou autorizado a discutir mais nada sobre este caso com você. Já revelei demais, temo.}{Não estou autorizado a discutir mais nada sobre este caso com você. Já revelei demais, temo.}{}{}{}{ }
+{71}{Posso ao menos entrar e falar com ele?}{}{5}{}{150}{ }
+{79}{Agradeço pelo seu tempo, mesmo assim.}{}{5}{}{0}{lf3 1 }
+{80}{Não brinque comigo. Você é um elfo, sabe do que estou falando.}{Não brinque comigo. Você é um elfo, sabe do que estou falando.}{}{}{}{ }
+{81}{Na verdade, não sei.}{}{5}{}{90}{ }
+{82}{Hmm, claro. Como ele foi morto, se não se importa que eu pergunte?}{}{5}{}{50}{ }
+{90}{Bem, você ou está mentindo ou é ignorante. Não tenho utilidade para nenhum dos dois.}{Bem, você ou está mentindo ou é ignorante. Não tenho utilidade para nenhum dos dois.}{}{}{}{ }
+{91}{Desculpe minha ignorância. Como ele foi morto, se posso perguntar?}{}{5}{}{50}{ }
+{92}{Por favor, me esclareça. Sou novo por aqui.}{}{5}{ps8}{100}{ }
+{93}{Por favor, me esclareça. Sou novo por aqui.}{}{5}{ps-7}{120}{ }
+{94}{Você tem utilidade para um ferimento sério no estômago, idiota?}{}{5}{}{130}{re-10 }
+{100}{[Ele olha ao redor para ter certeza de que ninguém mais está ouvindo e sussurra:] Os sombrios! Nunca ouviu falar dos elfos negros?}{[Ele olha ao redor para ter certeza de que ninguém mais está ouvindo e sussurra:] Os elfos negros! Nunca ouviu falar dos elfos negros?}{}{}{}{ }
+{101}{Não, não ouvi. O que mais pode me contar sobre eles?}{}{5}{}{110}{ }
+{102}{Ah, sim, claro! Agora me diga, como Wrath foi morto?}{}{5}{}{50}{ }
+{110}{Eu nem deveria ter falado sobre isso. Não sei como conseguiu arrancar isso de mim, mas não vou lhe contar mais nada.}{Eu nem deveria ter falado sobre isso. Não sei como conseguiu arrancar isso de mim, mas não vou lhe contar mais nada.}{}{}{}{ }
+{111}{Poderia me dizer como Wrath foi morto?}{}{5}{}{50}{ }
+{120}{Não é meu trabalho lhe informar sobre detalhes a respeito da sua própria raça. Se vai continuar me fazendo perguntas tolas, agradeceria se fosse embora.}{Não é meu trabalho lhe informar sobre detalhes a respeito da sua própria raça. Se vai continuar me fazendo perguntas tolas, agradeceria se fosse embora.}{}{}{}{ }
+{121}{Pode me dizer como Wrath foi morto?}{}{5}{lf2 0}{50}{ }
+{129}{Tenha um bom dia, então.}{}{5}{}{0}{ }
+{130}{Muito engraçado. Pode ir andando, tolo.}{Muito engraçado. Pode ir andando, tolo.}{}{}{}{ }
+{131}{Minhas desculpas. Você pode me dizer como Wrath foi morto?}{}{5}{lf2 0}{50}{ }
+{139}{Acho que vou seguir meu caminho, então.}{}{5}{}{0}{ }
+{140}{Já falei com várias pessoas que afirmam ter visto você perambulando por aí na hora em que o assassinato deve ter sido cometido.}{Já falei com várias pessoas que afirmam ter visto você perambulando por aí na hora em que o assassinato deve ter sido cometido.}{}{}{}{ }
+{141}{Como ele foi morto, se não se importa que eu pergunte?}{}{5}{lf2 0}{50}{ }
+{149}{Posso entrar e falar com ele?}{}{5}{}{150}{ }
+{150}{Claro, pode entrar. Mas não tente nada, estarei ouvindo daqui.}{Claro, pode entrar. Mas não tente nada, estarei ouvindo daqui.}{}{}{}{gf2163 1 }
+{151}{E:}{}{5}{}{0}{ }
+{160}{No meu tempo de vida, não houve. Simplesmente não acontece. Elfos não são como as outras raças.}{No meu tempo de vida, não houve. Simplesmente não acontece. Elfos não são como as outras raças.}{}{}{}{ }
+{161}{Tenho certeza de que você também acredita nisso.}{}{5}{ra-3}{170}{re-5 }
+{162}{Claro, isso nem precisa ser dito.}{}{5}{ra3}{380}{ }
+{163}{Vamos voltar ao assunto em questão. Como Wrath foi morto?}{}{5}{lf2 0}{50}{ }
+{169}{Entendo. Bem, posso entrar e falar com Jormund?}{}{5}{}{150}{ }
+{170}{A prova está bem na sua frente. Olhe para esta vila pacífica.}{A prova está bem na sua frente. Olhe para esta vila pacífica.}{}{}{}{ }
+{172}{Vamos voltar ao assunto em questão. Como Wrath foi morto?}{}{5}{lf2 0}{50}{ }
+{173}{Exceto pelo assassinato.}{}{5}{}{180}{ }
+{178}{}{}{}{}{}{ }
+{179}{Entendo. Bem, posso entrar e falar com Jormund?}{}{5}{}{150}{ }
+{180}{Exatamente. Nunca deveríamos ter permitido que um anão vivesse entre nós.}{Exatamente. Nunca deveríamos ter permitido que um anão vivesse entre nós.}{}{}{}{ }
+{181}{Acho que você está predisposto a acreditar que ele é o assassino.}{}{5}{ra-2}{190}{ }
+{182}{Olha, elfo, os anões são uma raça superior aos elfos. E você sabe disso.}{}{5}{ra2}{220}{re-10 }
+{183}{Vamos voltar ao assunto em questão. Como Wrath foi morto?}{}{5}{lf2 0}{50}{ }
+{184}{Acho que você está predisposto a acreditar que ele é o assassino.}{}{5}{ra2}{210}{ }
+{189}{Entendo. Bem, posso entrar e falar com Jormund?}{}{5}{}{150}{ }
+{190}{Claro que estamos. Por que não deveríamos estar? Anões são uma raça violenta e primitiva. Como alguém pode viver debaixo da terra está além da minha compreensão.}{Claro que estamos. Por que não deveríamos estar? Anões são uma raça violenta e primitiva. Como alguém pode viver debaixo da terra está além da minha compreensão.}{}{}{}{ }
+{191}{Acho que os fatos devem ser considerados, e não sentimentos pessoais.}{}{5}{}{200}{ }
+{192}{Vamos voltar ao assunto em questão. Como Wrath foi morto?}{}{5}{lf2 0}{50}{ }
+{199}{Bem, posso entrar e falar com Jormund?}{}{5}{}{150}{ }
+{200}{Ah, entendo. Um idealista. Bem, os fatos são estes: um elfo está morto, um anão o odiava. Não preciso de outros fatos além desses.}{Ah, entendo. Um idealista. Bem, os fatos são estes: um elfo está morto, um anão o odiava. Não preciso de outros fatos além desses.}{}{}{}{ }
+{201}{Espero provar que você está errado. Diga-me, como Wrath foi morto?}{}{5}{lf2 0}{50}{ }
+{209}{Entendo. Bem, posso entrar e falar com o anão assassino?}{}{5}{}{150}{ }
+{210}{Olha aqui, anão, aqui estão os fatos: vocês são uma raça primitiva e violenta. Pelos deuses, como conseguem viver debaixo da terra, de todos os lugares?}{Olha aqui, anão, aqui estão os fatos: vocês são uma raça primitiva e violenta. Pelos deuses, como conseguem viver debaixo da terra, de todos os lugares?}{}{}{}{ }
+{211}{Bem, isso não está levando a lugar nenhum. Diga-me, como Wrath foi morto?}{}{5}{}{50}{ }
+{218}{Olha, elfo, os anões são uma raça superior aos elfos. E você sabe disso.}{}{5}{}{220}{re-10 }
+{219}{Entendo. Posso entrar e falar com meu irmão assassino?}{}{5}{}{150}{ }
+{220}{Não vou tolerar mais sua insolência, anão. Se vai continuar com essa bobagem, agradeceria se fosse embora.}{Não vou tolerar mais sua insolência, anão. Se vai continuar com essa bobagem, agradeceria se fosse embora.}{}{}{}{ }
+{221}{Peço desculpas. Pode me dizer como Wrath foi morto?}{}{5}{lf2 0}{50}{lf2 1 }
+{228}{Chega, orelhudo. Está na hora de você morrer, dolorosamente!}{}{5}{}{0}{fl 230 ,co}
+{229}{Minhas desculpas. Posso entrar e falar com Jormund?}{}{5}{}{150}{ }
+{230}{Você percebe que luta como um halfling, anão?}{Você percebe que luta como um halfling, anão?}{}{}{}{ }
+{231}{[Ele olha para o frasco de veneno vazio.] Isso não é possível. Elfos não se matam... simplesmente não acontece! [Ele balança a cabeça.] Eu deveria ter percebido, vivendo na mesma casa, agindo como se fossem "casados".}{[Ele olha para o frasco de veneno vazio.] Isso não é possível. Elfos não se matam... simplesmente não acontece! [Ele balança a cabeça.] Eu deveria ter percebido, vivendo na mesma casa, agindo como se fossem "casados".}{}{}{}{ }
+{232}{O que você quer dizer?}{}{5}{ra-3}{241}{ }
+{233}{O que você quer dizer?}{}{-10}{ra3}{251}{ }
+{234}{É difícil acreditar que eles ignorariam os costumes élficos dessa maneira.}{}{11}{ra3}{300}{ }
+{241}{Nossa aldeia é nossa família. O amor romântico pode ser algo com que alguns de nós brincam quando jovens, mas nenhum adulto que se respeite se isola da comunidade dessa forma. Isso perturba o fluxo comunitário.}{Nossa aldeia é nossa família. O amor romântico pode ser algo com que alguns de nós brincam quando jovens, mas nenhum adulto que se respeite se isola da comunidade dessa forma. Isso perturba o fluxo comunitário.}{}{}{}{ }
+{242}{Obviamente, Sharpe estava determinado a arruinar a ordem social!}{}{5}{}{260}{ }
+{251}{[Ele olha para você, confuso.] De onde você é? Não me diga que vocês, elfos estrangeiros, se casam!}{[Ele olha para você, confuso.] De onde você é? Não me diga que vocês, elfos estrangeiros, se casam!}{}{}{}{ }
+{252}{Alguns de nossos costumes são diferentes. Quais são suas crenças?}{}{5}{}{241}{ }
+{253}{Não, claro que não! Não posso acreditar que você permitiu isso aqui!}{}{5}{}{260}{ }
+{254}{Agradeceria se cuidasse da sua língua, senão vou arrancá-la da sua boca!}{}{5}{}{390}{re-10 }
+{260}{Eu sabia que algo assim acabaria acontecendo. Esses aberrações, tentando arruinar Qintarra com seu "casamento". Agora tudo faz sentido.}{Eu sabia que algo assim acabaria acontecendo. Esses aberrações, tentando arruinar Qintarra com seu "casamento". Agora tudo faz sentido.}{}{}{}{ }
+{261}{Estou supondo que vai libertar Jormund agora, não?}{}{5}{}{270}{ }
+{270}{Claro, ele está livre para ir. Vou mandar alguns homens prenderem aquele anarquista também!}{Claro, ele está livre para ir. Vou mandar alguns homens prenderem aquele anarquista também!}{}{}{}{qu1081 4 }
+{271}{E:}{}{5}{}{0}{ }
+{280}{Está insinuando algo?}{Está insinuando algo?}{}{}{}{ }
+{281}{Não estou insinuando, estou dizendo. Sharpe envenenou Wrath!}{}{5}{}{290}{ }
+{290}{Mas... elfos simplesmente não fazem isso! É inimaginável. [Ele balança a cabeça.] Eu deveria ter percebido, com eles morando na mesma casa, agindo como se fossem "casados".}{Mas... elfos simplesmente não fazem isso! É inimaginável. [Ele balança a cabeça.] Eu deveria ter percebido, com eles morando na mesma casa, agindo como se fossem "casados".}{}{}{}{ }
+{291}{O que você quer dizer?}{}{5}{ra-3}{241}{ }
+{292}{O que você quer dizer?}{}{-10}{ra3}{251}{ }
+{293}{É difícil acreditar que eles ignorariam os costumes élficos dessa maneira.}{}{11}{ra3}{300}{ }
+{300}{Não é? Desfilando seu desprezo pela comunidade familiar da aldeia! Todos nós podemos brincar de amor romântico quando somos jovens, mas nenhum adulto com auto-respeito se isola da comunidade dessa forma. Só lamento que um visitante como você tenha se envolvido nessa desgraça.}{Não é? Desfilando seu desprezo pela comunidade familiar da aldeia! Todos nós podemos brincar de amor romântico quando somos jovens, mas nenhum adulto com auto-respeito se isola da comunidade dessa forma. Só lamento que um visitante como você tenha se envolvido nessa desgraça.}{}{}{}{ }
+{301}{Para mim, é óbvio que Sharpe está determinado a arruinar a ordem social.}{}{5}{}{260}{ }
+{310}{E isso seria?}{E isso seria?}{}{}{}{ }
+{311}{Wrath se matou e incriminou Sharpe.}{}{5}{}{320}{ }
+{320}{Um elfo se matando? Isso é inédito! Matar o corpo físico interromperia o fluxo, seria a morte definitiva! Eu esperaria que um agitador como Ivory pensasse em algo tão ridículo.}{Um elfo se matando? Isso é inédito! Matar o corpo físico interromperia o fluxo, seria a morte definitiva! Eu esperaria que um agitador como Ivory pensasse em algo tão ridículo.}{}{}{}{ }
+{321}{Foi Wrath quem bolou a ideia de eles morarem juntos.}{}{5}{}{330}{ }
+{322}{O que acontece quando os elfos morrem, em circunstâncias normais?}{}{5}{ra-3}{350}{ }
+{323}{Então não haveria transmutação para o próximo nível?}{}{5}{ra3}{370}{ }
+{330}{O degenerado! Eu sabia que Sharpe devia ter sido desviado por alguém. Ele sempre foi um bom rapaz.}{O degenerado! Eu sabia que Sharpe devia ter sido desviado por alguém. Ele sempre foi um bom rapaz.}{}{}{}{ }
+{331}{Então vai libertar Sharpe, então?}{}{5}{qu1081 4}{340}{gf2474 1 }
+{332}{Então vai libertar Jormund, então?}{}{5}{qb1081 2}{340}{qu1081 4, gf2474 1 }
+{340}{Certamente. Obrigado por toda a sua ajuda.}{Certamente. Obrigado por toda a sua ajuda.}{}{}{}{al+100, fp }
+{341}{De nada, bom senhor.}{}{5}{}{0}{lf10 1 }
+{350}{Se um elfo não conseguir transmutar seu corpo físico antes que seu espírito tenha partido, ele não poderá continuar sua existência no próximo plano. É por isso que um assassinato entre elfos é inédito.}{Se um elfo não conseguir transmutar seu corpo físico antes que seu espírito tenha partido, ele não poderá continuar sua existência no próximo plano. É por isso que um assassinato entre elfos é inédito.}{}{}{}{ }
+{351}{Wrath estava simplesmente perturbado, suspeito.}{}{5}{}{360}{ }
+{360}{Eu concordaria que Wrath era uma figura estranha, mas por que você diz que ele era desequilibrado? Pelo menos ele vivia como um elfo deveria, sozinho.}{Eu concordaria que Wrath era uma figura estranha, mas por que você diz que ele era desequilibrado? Pelo menos ele vivia como um elfo deveria, sozinho.}{}{}{}{ }
+{361}{Foi Wrath quem bolou a ideia de eles viverem juntos.}{}{5}{}{330}{ }
+{370}{Exatamente. Como você bem sabe, se um elfo não conseguir transmutar seu corpo físico antes que seu espírito tenha partido, ele não poderá continuar sua existência no próximo plano. É por isso que um assassinato é algo inédito entre nós.}{Exatamente. Como você bem sabe, se um elfo não conseguir transmutar seu corpo físico antes que seu espírito tenha partido, ele não poderá continuar sua existência no próximo plano. É por isso que um assassinato é algo inédito entre nós.}{}{}{}{ }
+{371}{Wrath era simplesmente desequilibrado, eu suspeito.}{}{5}{}{360}{ }
+{380}{Eu sabia que um elfo companheiro concordaria. Quero dizer, as evidências estão bem na sua frente. Olhe para esta vila pacífica.}{Eu sabia que um elfo companheiro concordaria. Quero dizer, as evidências estão bem na sua frente. Olhe para esta vila pacífica.}{}{}{}{ }
+{381}{Exceto pelo assassinato.}{}{5}{}{180}{ }
+{382}{Vamos voltar ao assunto em questão. Como Wrath foi morto?}{}{5}{}{50}{ }
+{389}{Entendo. Bem, posso entrar e falar com Jormund?}{}{5}{}{150}{ }
+{390}{Você tem sorte de ser um elfo, garoto. Qualquer outro abrisse a boca para mim desse jeito, eu o mataria.}{Você tem sorte de ser uma elfa, garota. Qualquer outro abrisse a boca para mim desse jeito, eu o mataria.}{}{}{}{ }
+{391}{Você tem razão, perdi a cabeça por um momento.}{}{5}{}{400}{ }
+{392}{Com medo de uma luta de verdade, é?}{}{5}{}{0}{fl 410 ,co}
+{399}{E:}{}{5}{}{0}{ }
+{400}{Veja para que isso não aconteça novamente.}{Veja para que isso não aconteça novamente.}{}{}{}{ }
+{401}{E quanto ao assassino, Sharpe?}{}{5}{}{260}{ }
+{410}{Vou te dar uma luta de verdade, garoto!}{Vou te dar uma luta de verdade, garota!}{}{}{}{ }
+{411}{Ah! É bom te ver, @pcname@}{Ah! É bom te ver, @pcname@}{}{}{}{ }
+{420}{Que negócios você tem aqui? Jormund está preso por assassinato... e ficar espreitando por aqui invisível assim não vai te levar a lugar nenhum comigo.}{Que negócios você tem aqui? Jormund está preso por assassinato... e ficar espreitando por aqui invisível assim não vai te levar a lugar nenhum comigo.}{}{}{}{ }
+{421}{Você pode me ver?}{}{5}{}{430}{ }
+{422}{Assassinato? Quem ele teria matado?}{}{-11}{}{20}{lf1 1 }
+{423}{Você acredita que ele matou Wrath?}{}{12}{}{30}{lf1 1 }
+{429}{E:}{}{1}{}{0}{ }
+{430}{Claro que posso te ver. O que, achou que o Capitão da Guarda de Qintarra não seria capaz de detectar aqueles encobertos pela invisibilidade? Eu seria um tanto ineficaz neste mundo mágico, não seria?}{Claro que posso te ver. O que, achou que o Capitão da Guarda de Qintarra não seria capaz de detectar aqueles encobertos pela invisibilidade? Eu seria um tanto ineficaz neste mundo mágico, não seria?}{}{}{}{ }
+{431}{Sim, claro. Na verdade, eu tinha esquecido que estava com o feitiço lançado...}{}{5}{}{440}{ }
+{440}{Seja como for, o que deseja de Jormund? Como eu disse, ele está preso por assassinato.}{Seja como for, o que deseja de Jormund? Como eu disse, ele está preso por assassinato.}{}{}{}{ }
+{441}{Assassinato? Quem ele teria matado?}{}{-11}{}{20}{lf1 1 }
+{442}{Você acredita que ele matou Wrath?}{}{12}{}{30}{lf1 1 }
+{450}{Ah? E quem seria?}{Ah? E quem seria?}{}{}{}{ }
+{451}{Sharpe. Wrath e Sharpe estavam apaixonados pela mesma mulher.}{}{5}{lf15 1}{460}{ }
+{452}{Sharpe. Wrath e Sharpe estavam apaixonados pela mesma mulher.}{}{5}{lf15 0}{470}{ }
+{460}{Sim, sim, eu sei de toda essa esquisitice. Mas como já expliquei, elfos simplesmente não se matam. Você terá que me trazer alguma prova para que eu acredite nessas acusações temerárias.}{Sim, sim, eu sei de toda essa esquisitice. Mas como já expliquei, elfos simplesmente não se matam. Você terá que me trazer alguma prova para que eu acredite nessas acusações temerárias.}{}{}{}{ }
+{461}{Assim? [Mostre a ele o frasco de veneno vazio.]}{}{5}{in5641, lf1 1, qb1081 2}{231}{ }
+{462}{Sharpe tinha um frasco vazio do mesmo veneno usado para matar Wrath!}{}{5}{gf2164 1, ni5641, lf1 1, qb1081 2}{290}{ }
+{469}{Entendo. Adeus.}{}{5}{}{0}{ }
+{470}{Sim, sim, eu sei de toda essa esquisitice. Mas elfos como nós simplesmente não se matam. Você terá que me trazer alguma prova para que eu acredite nessas acusações temerárias.}{Sim, sim, eu sei de toda essa esquisitice. Mas elfos como nós simplesmente não se matam. Você terá que me trazer alguma prova para que eu acredite nessas acusações temerárias.}{}{}{}{ }
+{471}{"Elfos como você"? Existem outros tipos de elfos?}{}{5}{ra-3, gf2164 0, ni5641}{480}{ }
+{472}{"Elfos como nós"? Existem outros tipos de elfos?}{}{5}{ra-3, gf2164 0, ni5641}{490}{ }
+{473}{Assim? [Mostre a ele o frasco de veneno vazio.]}{}{5}{in5641, lf1 1, qb1081 2}{231}{ }
+{474}{Sharpe tinha um frasco vazio do mesmo veneno usado para matar Wrath!}{}{5}{gf2164 1, ni5641, lf1 1, qb1081 2}{290}{ }
+{480}{Hã. Não, não existem. Você deve ter entendido mal o que eu quis dizer.}{Hã. Não, não existem. Você deve ter entendido mal o que eu quis dizer.}{}{}{}{ }
+{489}{Entendo. Adeus.}{}{5}{}{0}{ }
+{490}{Não brinque comigo. Você é um elfo, sabe do que estou falando.}{Não brinque comigo. Você é um elfo, sabe do que estou falando.}{}{}{}{ }
+{491}{Por favor, me esclareça. Sou novo por aqui.}{}{5}{ps8}{500}{ }
+{492}{Por favor, me esclareça. Sou novo por aqui.}{}{5}{ps-7}{120}{ }
+{499}{Ah, sim... claro. Já vou indo, então.}{}{5}{}{0}{ }
+{500}{[Ele olha ao redor para ter certeza de que ninguém mais está ouvindo e sussurra:] Os sombrios! Você nunca ouviu falar dos elfos negros?}{[Ele olha ao redor para ter certeza de que ninguém mais está ouvindo e sussurra:] Os sombrios! Você nunca ouviu falar dos elfos negros?}{}{}{}{ }
+{501}{Não, nunca ouvi. O que mais pode me contar sobre eles?}{}{5}{}{510}{ }
+{502}{Ah, sim... claro. Então, já vou indo.}{}{5}{}{0}{ }
+{510}{Eu nem deveria ter falado sobre isso. Não sei como você conseguiu arrancar isso de mim, mas não vou contar mais nada.}{Eu nem deveria ter falado sobre isso. Não sei como você conseguiu arrancar isso de mim, mas não vou contar mais nada.}{}{}{}{ }
+{519}{Ah, sim... claro. Então, já vou indo.}{}{5}{}{0}{ }
+

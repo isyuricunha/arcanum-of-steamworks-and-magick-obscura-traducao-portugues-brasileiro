@@ -1,0 +1,357 @@
+// These are the general messages said by a PC to a female NPC
+
+
+// Yes messages go between 1 and 99
+{1}{Sim.}
+{2}{Indubitavelmente.}
+{3}{Certamente.}
+{4}{Com toda a certeza.}
+{5}{Sem dúvida.}
+{6}{Absolutamente.}
+{7}{Nem é preciso dizer.}
+{8}{Manifesta e corretamente.}
+{9}{Indiscutivelmente assim.}
+{10}{Indiscutivelmente.}
+{11}{Com certeza.}
+{12}{Definitivamente.}
+{13}{Sem sombra de dúvida.}
+{14}{Inquestionavelmente.}
+{15}{Incontestavelmente.}
+{16}{Sem questionamentos.}
+{17}{Indubitavelmente.}
+{18}{Claro.}
+{19}{Sim, minha senhora.}
+{20}{Sim, madame.}
+{21}{Sim, boa mulher.}
+{22}{Sim, senhorita.}
+{23}{Indubitavelmente, madame.}
+{24}{Certamente, madame.}
+{25}{Com toda a certeza, madame.}
+{26}{Com certeza, madame.}
+{27}{Absolutamente, madame.}
+{28}{Nem é preciso dizer, minha senhora.}
+{29}{Manifesta e corretamente, minha senhora.}
+{30}{Indiscutivelmente assim, minha senhora.}
+{31}{Indiscutivelmente, madame.}
+{32}{Com certeza, madame.}
+{33}{Certamente, madame.}
+{34}{Sem dúvida, minha boa senhora.}
+{35}{Indubitavelmente, madame.}
+{36}{Inquestionavelmente, madame.}
+{37}{Incontestavelmente, cara senhora.}
+{38}{Sem questionar, cara senhora.}
+{39}{Indubitavelmente, madame.}
+{40}{Claro, madame.}
+{41}{Sim, certamente, madame.}
+{42}{Sim, com toda a certeza, madame.}
+{43}{Sim, claro, cara dama.}
+{44}{Sim, claro, cara senhora.}
+{45}{Sim, claro, boa senhora.}
+{46}{Sim, claro, madame.}
+{47}{Sim, claro, senhorita.}
+{48}{Sim, claro.}
+{49}{Concordo, madame.}
+{50}{Concordo, cara senhora.}
+{51}{Indubitavelmente sim, madame.}
+{52}{Com certeza, madame.}
+{53}{Absolutamente, madame.}
+{54}{Indiscutivelmente sim, senhorita.}
+{55}{Indiscutivelmente, senhorita.}
+{56}{Com certeza, senhorita.}
+{57}{Certamente, boa senhora.}
+{58}{Com toda a certeza, cara dama.}
+{59}{Sem dúvida, cara dama.}
+{60}{Sem questionar, madame.}
+{61}{Claro, senhorita.}
+
+
+
+// No messages go between 100 and 199
+{100}{Não.}
+{101}{Eu não acho que sim.}
+{102}{Receio que não.}
+{103}{Não!}
+{104}{Hmm, não.}
+{105}{Certamente que não.}
+{106}{Acho que não.}
+{107}{De jeito nenhum.}
+{108}{Acho que não, senhorita.}
+{109}{Dificilmente, não.}
+{110}{Não, senhorita.}
+{111}{Receio que não, senhorita.}
+{112}{Não! senhorita!}
+{113}{Hmm, não, madame.}
+{114}{Certamente que não, madame.}
+{115}{Acho que não, madame.}
+{116}{Nunca.}
+{117}{Nem fodendo, minha boa mulher.}
+{118}{De forma alguma.}
+{119}{Nem de longe, madame.}
+{120}{Dificilmente, não!}
+{121}{Não, senhorita.}
+{122}{Receio que não, senhorita.}
+{123}{Não, madame.}
+
+
+
+
+// Sorry messages go between 200 and 299
+{200}{Sinto muito.}
+{201}{Desculpe.}
+{202}{Sinto muito.}
+{203}{Peço desculpas.}
+{204}{Minhas desculpas.}
+{205}{Minhas desculpas.}
+{206}{Minhas sinceras desculpas.}
+{207}{Meus sinceros pesares.}
+{208}{Meus pesares.}
+{209}{Minhas mais sinceras desculpas.}
+{210}{Sinto muito de verdade.}
+{211}{Minhas desculpas francas.}
+{212}{Minhas mais profundas desculpas.}
+{213}{Sinto muito, senhorita.}
+{214}{Desculpe, senhorita.}
+{215}{Sinto muitíssimo, minha querida.}
+{216}{Peço desculpas, senhorita.}
+{217}{Minhas desculpas, senhorita.}
+{218}{Minhas desculpas, madame.}
+{219}{Minhas sinceras desculpas, madame.}
+{220}{Minhas mais profundas desculpas, madame.}
+{221}{Sinto muito de verdade, senhorita.}
+{222}{Minhas desculpas sinceras, madame.}
+{223}{Minhas mais profundas desculpas, senhorita.}
+{224}{Por favor, aceite minhas desculpas, madame.}
+{225}{Desculpe mesmo por isso, senhorita.}
+{226}{Muito desculpe, senhorita.}
+
+
+// Barter messages go between 300 and 399
+{300}{Vamos negociar.}
+{301}{Vamos negociar, senhorita.}
+{302}{Vamos negociar, minha boa senhora.}
+{303}{Vamos negociar.}
+{304}{Tem algo que queira comprar ou vender?}
+{305}{Interessado em negociar?}
+{306}{Interessada em negociar, cara senhora?}
+{307}{Interessada em negociar, senhorita?}
+{308}{Posso ver suas mercadorias?}
+{309}{Posso ver suas mercadorias, senhorita?}
+{310}{Vamos negociar.}
+{311}{Vamos negociar, senhorita.}
+{312}{Vamos negociar, cara senhora.}
+{313}{Vamos negociar, moça.}
+{314}{Vamos negociar?}
+{315}{Vamos negociar, cara senhora?}
+{316}{Vamos negociar, senhorita?}
+
+
+
+
+// Exit messages go between 400 and 499
+{400}{Adeus.}
+{401}{Preciso me retirar.}
+{402}{Vou indo agora. Tenha um bom dia.}
+{403}{Adeus.}
+{404}{Preciso ir.}
+{405}{Preciso partir.}
+{406}{Vou indo agora.}
+{407}{Bom dia.}
+{408}{Bom dia para você.}
+{409}{Preciso partir.}
+{410}{Estarei partindo agora.}
+{411}{Estarei partindo agora.}
+{412}{Vou indo, então.}
+{413}{Estou partindo agora.}
+{414}{Bom dia para você.}
+{415}{Preciso ir. Tenha um bom dia.}
+{416}{Adeus.}
+{417}{Adeus.}
+{418}{Vou indo agora.}
+{419}{Preciso ir.}
+{420}{Bom dia.}
+{421}{Adeus.}
+{422}{Preciso partir.}
+{423}{Estou partindo.}
+{424}{Despeço-me de vós.}
+{425}{Vou agora.}
+{426}{Preciso partir.}
+{427}{Estarei partindo agora.}
+{428}{Bom dia para você.}
+{429}{Preciso ir. Tenha um bom dia.}
+
+
+// Ask for training messages go between 500 and 599
+{500}{Gostaria de receber treinamento como aprendiz.}
+{501}{Gostaria de receber treinamento como aprendiz.}
+{502}{Pode me treinar para ser um aprendiz?}
+{503}{Pode me treinar para ser um aprendiz?}
+{504}{Estou procurando treinamento como aprendiz.}
+{505}{Estou procurando treinamento como aprendiz.}
+{506}{Preciso de treinamento como aprendiz.}
+{507}{Preciso de treinamento como aprendiz.}
+{508}{Procuro treinamento de aprendiz.}
+{509}{Procuro treinamento de aprendiz.}
+
+
+// Continue messages goes between 600 and 699
+{600}{[continuar]}
+
+
+// Ask for healing messages go between 700 and 799
+{700}{Preciso de cura.}
+{701}{Poderia me curar?}
+{702}{Gostaria de ser curado.}
+{703}{Estou precisando de cura.}
+
+
+// Forget it messages go between 800 and 899
+{800}{Esquece.}
+{801}{Deixa pra lá.}
+{802}{Deixa pra lá.}
+{803}{Mudei de ideia, madame.}
+{804}{Mudei de ideia.}
+{805}{Mudei de ideia, madame.}
+{806}{Esquece.}
+
+// Use skill messages go between 900 and 999
+{900}{[Habilidade de %s]}
+
+// Use spell messages go between 1000 and 1099
+{1000}{[Feitiço de %s]}
+
+
+// Asking to heal wounds messages go between 1100 and 1199
+{1100}{[Cura Mágica]}
+
+
+// Asking to heal poison messages go between 1200 and 1299
+{1200}{[Cura de Envenenamento Mágico]}
+
+
+
+// Asking for directions messages go between 1300 and 1399
+{1300}{Preciso de direções.}
+{1301}{Preciso de direções, minha senhora.}
+{1302}{Pode me dar direções?}
+{1303}{Pode me dar direções, madame?}
+{1304}{Estou procurando um lugar.}
+{1305}{Estou meio perdido. Pode me guiar?}
+{1306}{Madame, estou meio perdido. Pode me guiar?}
+{1307}{Estou precisando mesmo de direções.}
+{1308}{Estou precisando mesmo de direções, madame.}
+{1309}{Pode me ajudar a encontrar meu caminho?}
+{1310}{Por favor, pode me ajudar a encontrar meu caminho?}
+{1311}{Estou perdido. Pode me ajudar?}
+{1312}{Com licença. Estou perdido. Pode me ajudar?}
+{1313}{Não consigo encontrar meu caminho. Você me ajuda?}
+{1314}{Não consigo encontrar meu caminho. Pode me dar uma direção?}
+{1315}{Parece que estou perdido. Pode me ajudar a encontrar meu caminho?}
+
+
+// Asking for map-marking messages go between 1400 and 1499
+{1400}{Preciso que me mostre um lugar no meu mapa.}
+{1401}{Você poderia me mostrar um lugar no meu mapa?}
+{1402}{Senhora, poderia me mostrar um lugar no meu mapa?}
+{1403}{Por favor, marque meu mapa.}
+{1404}{Por favor, marque meu mapa, boa mulher.}
+{1405}{Por favor, marque meu mapa para mim.}
+{1406}{Por favor, marque meu mapa para mim, cara senhora.}
+{1407}{Preciso que um lugar seja marcado no meu mapa.}
+{1408}{Preciso que um lugar seja marcado no meu mapa, senhora.}
+{1409}{Talvez você possa marcar meu mapa para mim?}
+{1410}{Talvez, boa senhora, você possa marcar meu mapa para mim?}
+{1411}{Por favor, marque alguns lugares no meu mapa.}
+{1412}{Por favor, senhorita, marque alguns lugares no meu mapa.}
+{1413}{Preciso de sua ajuda para marcar meu mapa.}
+{1414}{Preciso de sua ajuda, senhorita, para marcar meu mapa.}
+{1415}{Tenho um mapa aqui. Pode marcá-lo para mim?}
+{1416}{Tenho um mapa aqui, senhora, pode marcá-lo para mim?}
+
+
+// Request to ask more questions go between 1500 and 1599
+{1500}{Posso fazer mais algumas perguntas?}
+{1501}{Posso fazer mais perguntas?}
+{1502}{Posso lhe fazer algumas outras perguntas?}
+{1503}{Senhora, posso lhe fazer algumas outras perguntas?}
+{1504}{Poderia me conceder a honra de responder mais algumas perguntas?}
+{1505}{Talvez você possa responder mais algumas perguntas?}
+{1506}{Talvez, senhora, você possa responder mais algumas perguntas?}
+{1507}{Talvez me permita fazer mais algumas perguntas?}
+{1508}{Me permitiria fazer mais algumas perguntas?}
+{1509}{Tem tempo para mais algumas perguntas...?}
+{1510}{Se me permite, tenho mais algumas perguntas?}
+{1511}{Só mais algumas perguntas, por favor.}
+{1512}{Só mais algumas perguntas.}
+{1513}{Poderia lhe fazer mais algumas perguntas?}
+{1514}{Você tem tempo para mais algumas perguntas?}
+
+
+
+// Bartering with follower messages go between 1600 and 1699
+{1600}{Vamos negociar.}
+{1601}{Vamos negociar.}
+{1602}{Deixe-me ver suas coisas.}
+{1603}{Talvez possamos negociar.}
+{1604}{Talvez possamos negociar algumas coisas.}
+{1605}{Você tem algumas coisas pelas quais eu gostaria de negociar.}
+{1606}{Vamos negociar.}
+{1607}{Vamos negociar?}
+
+
+
+// Story state messages go between 1700 and 1799
+{1700}{Você pode me falar sobre este anel que encontrei? [Descreva o anel.]}
+{1701}{O que você pode me dizer sobre "P. Schuyler e Filhos"?}
+{1702}{Quem é Gilbert Bates?}
+{1703}{O que você pode me dizer sobre Gilbert Bates?}
+{1704}{O que você pode me dizer sobre o Clã Montanha Negra?}
+{1705}{Onde fica a Ilha do Desespero?}
+{1706}{O que você pode me dizer sobre a Ilha do Desespero?}
+{1707}{O que você pode me dizer sobre o Clã Roda?}
+{1708}{Onde fica a cidade élfica de Qintarra?}
+{1709}{O que você pode me dizer sobre Qintarra?}
+{1710}{Quem é Renford A. Terwilliger?}
+{1711}{Onde posso encontrar um exemplar de "Horror Entre os Elfos Negros"?}
+{1712}{O que você pode me dizer sobre Caladon?}
+{1713}{O que você pode me dizer sobre Victor Misk?}
+{1714}{O que você pode me dizer sobre os Elfos Negros?}
+{1715}{O que você pode me dizer sobre Arronax?}
+{1716}{O que você pode me dizer sobre Nasrudin?}
+{1717}{O que você pode me contar sobre a ilha de Thanatos?}
+{1718}{O que você pode me dizer sobre as ruínas de Vendigroth?}
+{1719}{O que você pode me dizer sobre o Anel de Brodgar?}
+{1720}{Onde posso encontrar Arronax?}
+{1721}{O que você pode me contar sobre o Vazio?}
+{1722}{O que você pode me contar sobre o livro da Ruína de Kerghan?}
+{1723}{O que você pode me contar sobre Kerghan?}
+{1724}{Ei! Eu preciso de uma Missão!}
+
+// Who are you? messages go between 1800 and 1899
+{1800}{Quem é você?}
+{1801}{Quem poderia ser você?}
+{1802}{Posso perguntar seu nome?}
+{1803}{Por favor, me diga, quem é você?}
+{1804}{E quem poderia ser você, madame?}
+{1805}{Acho que não tive o prazer. Quem é você?}
+{1806}{Posso perguntar quem é você?}
+{1807}{Qual é o seu nome, madame?}
+
+// asking for a newspaper messages go between 1900 and 1999
+{1900}{Gostaria de comprar um jornal.}
+{1901}{Você tem jornais à venda?}
+{1902}{Deixe-me ver seus jornais.}
+
+// asking for the headline of today's newspaper go between 2000 and 2099
+{2000}{Qual é a manchete do jornal de hoje?}
+{2001}{Diga-me a manchete do jornal de hoje.}
+
+// asking for older newspapers go between 2100 and 2199
+{2100}{Gostaria de ver alguns jornais mais antigos.}
+{2101}{Que jornais antigos você tem?}
+
+// asking to buy todays newspaper go between 2200 and 2299
+{2200}{Quero comprar o jornal de hoje.}
+{2201}{Por favor, me dê o jornal de hoje.}
+
+// wants to start the WorldMap
+{2300}{[begin WorldMap]}

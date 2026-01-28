@@ -1,0 +1,45 @@
+{1}{G:}{}{}{}{}{}
+{2}{Olá, senhor. Posso lhe fazer algumas perguntas?}{}{5}{re 41, lf1 0}{13}{}
+{3}{Olá. Posso lhe fazer algumas perguntas?}{}{5}{re 41, lf1 1}{24}{}
+{4}{Hmm... Posso lhe fazer algumas perguntas, "senhor"?}{}{5}{re -40, lf1 0}{13}{}
+{5}{Hã... Posso fazer mais algumas perguntas?}{}{5}{re -40, lf1 1}{24}{}
+{6}{Oi! Eu pergunto uma coisa?}{}{-4}{re 41, lf1 0}{13}{}
+{7}{Hã... Eu pergunto mais uma coisa?}{}{-4}{re 41, lf1 1}{24}{}
+{8}{Ei! Isso não foi legal... Hã... Posso te perguntar uma coisa?}{}{-4}{re -40, lf1 0}{13}{}
+{9}{Hã... Eu pergunto mais uma coisa?}{}{-4}{re -40, lf1 1}{24}{}
+{10}{Ei! Você não é o Dudley Crosston?}{}{5}{ru2216, lf9 0}{33}{}
+{11}{Hã... Ei! Tu é o Dudlee Cros'tun?}{}{-4}{ru2216, lf9 0}{33}{}
+{12}{E:}{}{1}{}{0}{}
+{13}{Claro. O que você precisa?}{Claro. O que você precisa?}{}{}{}{lf1 1}
+{14}{T:0, 6, 4}{}{1}{}{19}{}
+{15}{Quem pode me treinar como Especialista com o arco?}{}{5}{tr0 1, tr0 -1, sk0 10, lf3 0}{30}{}
+{16}{Hã... Eu pergunto mais uma coisa?}{}{-4}{tr0 1, tr0 -1, sk0 10, lf3 0}{30}{}
+{17}{R:$0, 1110-1117}{}{1}{}{19}{}
+{18}{E:}{}{1}{}{0}{}
+{19}{Há mais alguma coisa?}{Há mais alguma coisa?}{}{}{}{}
+{20}{T:0, 6, 4}{}{1}{}{19}{}
+{21}{Quem pode me treinar como Especialista com o arco?}{}{5}{tr0 1, tr0 -1, sk0 10, lf3 0}{30}{}
+{22}{Hã... Eu pergunto mais uma coisa?}{}{-4}{tr0 1, tr0 -1, sk0 10, lf3 0}{30}{}
+{23}{E:}{}{1}{}{0}{}
+{24}{Certamente, @pcname@.}{Certamente, @pcname@.}{}{}{}{}
+{25}{T:0, 6, 4}{}{1}{}{19}{}
+{26}{Quem pode me treinar como Especialista com o arco?}{}{5}{tr0 1, tr0 -1, sk0 10, lf3 0}{30}{}
+{27}{Hã... Eu pergunto mais uma coisa?}{}{-4}{tr0 1, tr0 -1, sk0 10, lf3 0}{30}{}
+{28}{R:$0, 1110-1117}{}{1}{}{19}{}
+{29}{E:}{}{1}{}{0}{}
+{30}{Você deveria falar com nosso Capitão. Ele provavelmente pode te ajudar.}{Você deveria falar com nosso Capitão. Ele provavelmente pode te ajudar.}{}{}{}{lf3 1}
+{31}{K:}{}{1}{}{19}{}
+{32}{E:}{}{1}{}{0}{}
+{33}{Por que... sim, sou eu. Eu te conheço? Do que se trata?}{Por que... sim, sou eu. Eu te conheço? Do que se trata?}{}{}{}{}
+{34}{Kietzel Pierce me pediu para ficar de olho em você.}{}{5}{}{36}{}
+{35}{Keeyesul mandou eu te achá.}{}{-4}{}{36}{}
+{36}{Ora! Aquele arrogante metido a besta! [ele resmunga baixinho] Acha que pode me tratar como algum maldito garoto de recados, é? [falando mais alto] Afinal, o que é que "ele" quer?}{Ora! Aquele arrogante metido a besta! [ele resmunga baixinho] Acha que pode me tratar como algum maldito garoto de recados, é? [falando mais alto] Afinal, o que é que "ele" quer?}{}{}{}{}
+{37}{Ele estava preocupado. Te mandou sair e você nunca voltou.}{}{5}{}{39}{}
+{38}{Ele num te achou. Ele disse que cê foi... num vortou...}{}{-4}{}{39}{}
+{39}{Bom, diga a ele que me alistei na guarda de Dernholm... uma força altamente de elite! Vou receber meu treinamento aqui, não correndo por aí em missões inúteis para ele! Agora, tenho deveres a cumprir. Precisa de algo oficial de mim?}{Bom, diga a ele que me alistei na guarda de Dernholm... uma força altamente de elite! Vou receber meu treinamento aqui, não correndo por aí em missões inúteis para ele! Agora, tenho deveres a cumprir. Precisa de algo oficial de mim?}{}{}{}{lf9 1, gf2658 1}
+{40}{T:0, 6, 4}{}{1}{}{19}{}
+{41}{Quem pode me treinar como Especialista com o arco?}{}{5}{tr0 1, tr0 -1, sk0 10, lf3 0}{30}{}
+{42}{Hã... Eu pergunto mais uma coisa?}{}{-4}{tr0 1, tr0 -1, sk0 10, lf3 0}{30}{}
+{43}{R:$0, 1110-1117}{}{1}{}{19}{}
+{44}{E:}{}{1}{}{0}{}
+

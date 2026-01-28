@@ -1,0 +1,95 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá, madame. Posso saber quem é a senhora?}{}{5}{me 0, re 41}{28}{}
+{3}{Olá, Whysper. Tem um momento?}{}{5}{me 1, re 41}{80}{}
+{4}{Madame! Nunca nos vimos antes, e ainda assim diz essas coisas!}{}{5}{me 0, re -40}{11}{}
+{5}{Whysper! O que está acontecendo?}{}{5}{me 1, re -40}{11}{}
+{7}{Oi! Quem é você?}{}{-4}{me 0}{28}{}
+{8}{Ei, Irmã! Você fala comigo...?}{}{-4}{me 1}{80}{}
+{9}{E:}{}{1}{}{0}{}
+{11}{[Ela levanta o queixo, olhando para longe de você.] Você... realmente, só se afaste de mim. Mal suporto olhar para você!}{[Ela levanta o queixo, olhando para longe de você.] Você... realmente, só se afaste de mim. Mal suporto olhar para você!}{}{}{}{}
+{12}{A razão e a civilidade não são virtudes élficas sagradas?}{}{5}{me 0}{24}{re +10}
+{13}{Whysper... não há como nos entendermos?}{}{5}{me 1}{24}{re +10}
+{14}{Não sou de machucar uma dama, mas sua atitude me perturba...}{1}{5}{}{17}{re -5}
+{15}{Como mulher, aviso para pisar com cuidado...}{0}{5}{}{17}{}
+{16}{E:}{}{5}{}{0}{}
+{17}{[Seus olhos se arregalam.] O quê? Você ousa me ameaçar aqui em Qintarra? Não vou tolerar isso! Faça isso de novo, e chamarei os guardas...!}{[Seus olhos se arregalam.] O quê? Você ousa me ameaçar aqui em Qintarra? Não vou tolerar isso! Faça isso de novo, e chamarei os guardas...!}{}{}{}{}
+{18}{Acho que não será necessário. Talvez eu tenha falado cedo demais...}{}{5}{}{24}{re +10}
+{19}{Vou me arrepender de ter que fazer isso com uma dama...}{}{5}{}{}{co, fl 22}
+{20}{Você é uma maldição para a face da feminilidade, vadia...}{}{5}{}{}{co, fl 22}
+{21}{E:}{}{5}{}{0}{}
+{22}{Não vou aceitar esse tratamento de gente como você!}{Não vou aceitar esse tratamento de gente como você!}{}{}{}{}
+{24}{[Ela sorri calorosamente.] Me desculpe. Às vezes minhas emoções me dominam, senhor. Por favor, falemos como iguais...}{[Ela sorri calorosamente.] Me desculpe. Às vezes minhas emoções me dominam, madame. Por favor, falemos como iguais...}{}{}{}{}
+{25}{Sim, façamos isso. Posso perguntar quem é você?}{}{5}{me 0}{28}{re +5}
+{26}{Já está esquecido, Whysper. Posso lhe fazer algumas perguntas?}{}{5}{me 1}{80}{}
+{27}{E:}{}{5}{}{0}{}
+{28}{[A mulher élfica sorri. Embora ainda muito bela, seus olhos revelam uma grande idade e sabedoria, além do brilho vivo da juventude preservada.] Claro. Em sua língua, sou chamada de Whysper. Posso perguntar quem é você, senhor...?}{[A mulher élfica sorri. Embora ainda muito bela, seus olhos revelam uma grande idade e sabedoria, além do brilho vivo da juventude preservada.] Claro. Em sua língua, sou chamada de Whysper. Posso perguntar quem é você, madame...?}{}{}{}{}
+{29}{Sim, claro. Eu sou @PCNAME@...}{}{5}{}{34}{}
+{31}{Eu chamei @PCNAME@!}{}{-4}{}{34}{}
+{32}{E:}{}{1}{}{0}{}
+{34}{É um prazer conhecê-lo, @PCNAME@. O que o traz a Qintarra?}{É um prazer conhecê-la, @PCNAME@. O que a traz a Qintarra?}{}{}{}{}
+{35}{Ah, só passando por aqui. Provando o clima local e tal...}{}{5}{}{39}{re -5}
+{36}{Na verdade, é uma longa história. [Conte a ela tudo o que aconteceu.]}{}{5}{}{126}{re +5}
+{37}{Hmm... não sei. Coisas estranhas acontecem, e agora estou aqui...}{}{-4}{}{39}{}
+{39}{Entendo. [Ela arqueia uma sobrancelha, dando-lhe um leve sorriso.] Qintarra é um lugar estranho para aparecer em uma visita amigável. Bem, seja como for... em que posso ajudá-lo?}{Entendo. [Ela arqueia uma sobrancelha, dando um leve sorriso.] Qintarra é um lugar estranho para aparecer em uma visita amigável. Bem, seja como for... em que posso ajudá-lo?}{}{}{}{}
+{40}{Eu tinha algumas perguntas, se não se importa...}{}{5}{}{80}{}
+{42}{Posso fazer algumas perguntas, Irmã?}{}{-4}{}{80}{}
+{43}{E:}{}{1}{}{0}{}
+{46}{Suponho que você poderia me chamar de... [Ela se inclina para sussurrar.] ...uma cientista. Psiu! Se alguém me ouvisse dizer isso aqui, eu seria jogada no chão da floresta! [Ela ri, de bom coração.]}{Suponho que você poderia me chamar de... [Ela se inclina para sussurrar.] ...uma cientista. Psiu! Se alguém me ouvisse dizer isso aqui, eu seria jogada no chão da floresta! [Ela ri, de bom coração.]}{}{}{}{}
+{47}{Uma cientista? O que é que você está estudando, Whysper?}{}{5}{}{52}{}
+{48}{Hã... ci-ê-n-cia...? O que é ci-ê-n-cia?}{}{-4}{}{52}{}
+{52}{Bem, estou estudando a fauna local... há muitas criaturas estranhas e mágicas na Floresta Brilhante, e ninguém realmente se deu ao trabalho de catalogar todas elas, estudar suas características únicas. Eu estou fazendo isso...}{Bem, estou estudando a fauna local... há muitas criaturas estranhas e mágicas na Floresta Brilhante, e ninguém realmente se deu ao trabalho de catalogar todas elas, estudar suas características únicas. Eu estou fazendo isso...}{}{}{}{}
+{53}{Que criaturas você está estudando agora?}{}{5}{}{60}{}
+{54}{Que animais você estuda agora?}{}{-4}{}{60}{}
+{60}{No momento, estou catalogando todos os diferentes tipos de Fogo-Fátuo de acordo com sua essência particular. Estou quase terminando, mas não consigo coletar uma amostra do raro Fogo-Fátuo Vol'ars...}{No momento, estou catalogando todos os diferentes tipos de Fogo-Fátuo de acordo com sua essência particular. Estou quase terminando, mas não consigo coletar uma amostra do raro Fogo-Fátuo Vol'ar...}{}{}{}{}
+{61}{O que você quer dizer com essência...?}{}{5}{}{110}{}
+{62}{O que é esse 'Fogo-Fátuo Vol'ars'?}{}{5}{}{118}{}
+{63}{Talvez eu possa ajudá-la a coletar um pouco de essência...?}{}{5}{}{70}{}
+{65}{O que é e-e-ss-ê-n-cia?}{}{-4}{}{110}{}
+{66}{Hã... o que você quer dizer com 'Fo-go-Fá-tuo V-v-ol-lars'?}{}{-4}{}{118}{}
+{67}{Talvez eu consiga um pouco de e-s-sên-cia para você, Irmã?}{}{-4}{}{70}{}
+{68}{E:}{}{1}{}{0}{}
+{70}{Sim, talvez você possa. Tenho estado muito ocupada aqui e não consegui sair para caçar Fogos-Fátuos. Se você me trouxer um pouco da essência do Fogo-Fátuo Vol'ar, eu poderia lhe oferecer um pergaminho mágico. Você estaria interessado em algo assim?}{Sim, talvez você possa. Tenho estado muito ocupada aqui e não consegui sair para caçar Fogos-Fátuos. Se você me trouxer um pouco da essência do Fogo-Fátuo Vol'ar, eu poderia lhe oferecer um pergaminho mágico. Você estaria interessado em algo assim?}{}{}{}{qu1082 1}
+{71}{Vou fazer isso e retornar...}{}{5}{}{76}{qu1082 2}
+{72}{Talvez. Tenha um bom dia...}{}{5}{}{0}{}
+{73}{Hã... tá bom! Eu faço isso!}{}{-4}{}{76}{qu1082 2}
+{74}{Hã... a gente conversa depois...}{}{-4}{}{0}{}
+{76}{Isso é maravilhoso! Se viajar pela Floresta Brilhante por tempo suficiente, você deve encontrar um Fogo-Fátuo Vol'ar. Boa sorte, meu amigo!}{Isso é maravilhoso! Se viajar pela Floresta Brilhante por tempo suficiente, você deve encontrar um Fogo-Fátuo Vol'ar. Boa sorte, meu amigo!}{}{}{}{}
+{77}{E:}{}{1}{}{0}{}
+{80}{Certamente...}{Certamente...}{}{}{}{}
+{81}{O que você faz aqui em Qintarra, Whysper...?}{}{5}{qu1082 0, ni 5642}{46}{}
+{82}{O que você quis dizer com essência...?}{}{5}{qu1082 1, ni 5642}{110}{}
+{83}{O que é o Fogo-Fátuo Vol'ar?}{}{5}{qu1082 1, ni 5642}{118}{}
+{84}{Talvez eu consiga obter um pouco de essência de fogo-fátuo para você...}{}{5}{qu1082 1, ni 5642}{70}{}
+{85}{Ainda não consegui coletar a essência do fogo-fátuo...}{}{5}{qu1082 2, ni 5642}{98}{}
+{86}{Consegui coletar um pouco de essência de fogo-fátuo... aqui está...}{}{5}{qu1082 2,  in 5642}{103}{in 5642}
+{88}{O que você faz aqui, Irmã?}{}{-4}{qu1082 0, ni 5642}{39}{}
+{89}{Hã... o que você quer dizer com 'E-e-es-s-p-írito V-v-o-l-lar'?}{}{-4}{qu1082 1, ni 5642}{118}{}
+{90}{O que é e-e-ss-ên-cia?}{}{-4}{qu1082 1, ni 5642}{110}{}
+{91}{Talvez eu consiga um pouco de e-ssên-cia pra você, Irmã?}{}{-4}{qu1082 1, ni 5642}{70}{}
+{92}{Ainda não consegui nenhuma e-ssên-cia...}{}{-4}{qu1082 2, ni 5642}{98}{}
+{93}{Eu tenho e-ssên-cia pra você...!}{}{-4}{qu1082 2,  in 5642}{103}{in 5642}
+{94}{E:}{}{1}{}{0}{}
+{98}{Espero que você encontre algumas logo! Não consigo continuar meus estudos sem elas...}{Espero que você encontre algumas logo! Não consigo continuar meus estudos sem elas...}{}{}{}{}
+{99}{K:}{}{1}{}{80}{}
+{100}{E:}{}{1}{}{0}{}
+{103}{Você conseguiu! Esplêndido! Muito obrigada! E aqui está o pergaminho que prometi... [Ela lhe entrega um pergaminho gasto.] Acredito que achará útil, especialmente aqui na floresta. Boa sorte, meu amigo!}{Você conseguiu! Esplêndido! Muito obrigada! E aqui está o pergaminho que prometi... [Ela lhe entrega um pergaminho gasto.] Acredito que achará útil, especialmente aqui na floresta. Boa sorte, meu amigo!}{}{}{}{qu1082 4, in -4002, lf2 1}
+{104}{E:}{}{1}{}{0}{}
+{110}{Alguns Espíritos-da-Luz, quando morrem, deixam para trás o que é conhecido como sua essência. É uma manifestação física de suas propriedades mágicas. Às vezes, é usada em poções e venenos mágicos. Temos um boticário aqui em Qintarra, o Sr. Sharpe, que é especialista nesse tipo de coisa...}{Alguns Espíritos-da-Luz, quando morrem, deixam para trás o que é conhecido como sua essência. É uma manifestação física de suas propriedades mágicas. Às vezes, é usada em poções e venenos mágicos. Temos um boticário aqui em Qintarra, o Sr. Sharpe, que é especialista nesse tipo de coisa...}{}{}{}{}
+{111}{Entendo. Talvez eu possa ajudar?}{}{5}{}{70}{re +5}
+{112}{O que é esse 'Espírito Vol'ars'?}{}{5}{}{118}{}
+{114}{Talvez eu ajude você a encontrar essência, Irmã?}{}{-4}{}{70}{re +5}
+{115}{Hã... o que você quer dizer com 'E-e-es-s-p-írito V-v-o-l-lar'?}{}{-4}{}{118}{}
+{116}{E:}{}{1}{}{0}{}
+{118}{O Espírito Vol'ars é um tipo especial de Espírito-da-Luz, muito raro e tipicamente hostil. Você pode identificá-los pela sua tonalidade azul... Espíritos-da-Luz vêm em todas as cores, mas apenas o Espírito Vol'ars é azul. Tenho tido muita dificuldade em encontrar um e coletar sua essência...}{O Espírito Vol'ars é um tipo especial de Espírito-da-Luz, muito raro e tipicamente hostil. Você pode identificá-los pela sua tonalidade azul... Espíritos-da-Luz vêm em todas as cores, mas apenas o Espírito Vol'ars é azul. Tenho tido muita dificuldade em encontrar um e coletar sua essência...}{}{}{}{qu1082 1}
+{119}{Entendo. Talvez eu possa ajudar?}{}{5}{}{70}{}
+{120}{O que você quer dizer com essência...?}{}{5}{}{80}{}
+{122}{Talvez eu ajude você, Irmã?}{}{-4}{}{103}{}
+{123}{O que é e-e-ss-ên-cia?}{}{-4}{}{80}{}
+{124}{E:}{}{1}{}{0}{}
+{125}{O senhor é um erudito e um cavalheiro! Muito obrigado pela sua ajuda...!}{Sua contribuição para a ciência foi inestimável, madame! Muito obrigada pela sua ajuda...!}{}{}{}{}
+{126}{[Ela fica em silêncio por um momento.] Então, todas as suas aventuras começaram quando você saiu dos destroços daquele... como você chamou mesmo... hã, dirigível?}{[Ela fica em silêncio por um momento.] Então, todas as suas aventuras começaram quando você saiu dos destroços daquele... como você chamou mesmo... hã, dirigível?}{}{}{}{}
+{127}{Sim.}{}{5}{}{130}{}
+{128}{Não... eu estava falando de outra pessoa...}{}{5}{}{39}{}
+{130}{[Ela sorri calorosamente, pegando sua mão nas dela.] Essa é uma história e tanto, e agradeço por confiar em mim. Gostaria de lhe dar algo também, talvez para ajudá-lo nos dias que virão. [Ela lhe entrega uma pequena gema.] Pode ajudá-lo a... bem... se tornar um pouco menos visível...}{[Ela sorri calorosamente, pegando sua mão nas dela.] Essa é uma história e tanto, e agradeço por confiar em mim. Gostaria de lhe dar algo também, talvez para ajudá-lo nos dias que virão. [Ela lhe entrega uma pequena gema.] Pode ajudá-lo a... bem... se tornar um pouco menos visível...}{}{}{}{in -5644}
+{131}{Obrigado. Posso lhe fazer algumas perguntas?}{}{5}{}{80}{}
+

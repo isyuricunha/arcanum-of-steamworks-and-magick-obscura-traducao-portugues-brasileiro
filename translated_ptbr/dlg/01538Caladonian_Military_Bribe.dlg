@@ -1,0 +1,21 @@
+{1}{Saudações, senhor. [Este anão é rude e marcado por batalhas.] Posso incomodá-lo por um momento?}{Saudações, senhora. [Este anão é rude e marcado por batalhas.] Posso incomodá-la por um momento?}{}{}{}{}
+{2}{Claro...}{}{5}{}{5}{}
+{3}{Não... Preciso ir imediatamente às câmaras do conselheiro...}{}{5}{}{9}{}
+{5}{[Ele acena brevemente.] Agradeço. Serei breve e direto. Meu nome é General Veers. Represento o Exército Caladônio...}{[Ele acena brevemente.] Agradeço. Serei breve e direto. Meu nome é General Veers. Represento o Exército Caladônio...}{}{}{}{}
+{6}{Olá, General. Como posso ajudá-lo?}{}{5}{}{-12}{}
+{9}{[Ele parece irritado com sua recusa, mas se controla.] Acho que seria bom ouvir o que tenho a dizer, senhor...}{[Ela parece irritada com sua recusa, mas se controla.] Acho que seria bom ouvir o que tenho a dizer, senhora...}{}{}{}{}
+{10}{Talvez o senhor tenha razão, General. Por favor, continue...}{}{5}{}{5}{}
+{11}{Eu já disse... Não tenho tempo para essas coisas...}{}{5}{}{13}{}
+{13}{Entendo. Bem, ficarei aqui até que entre nos procedimentos. Volte se desejar falar mais.}{Entendo. Bem, ficarei aqui até que entre nos procedimentos. Volte se desejar falar mais.}{}{}{}{}
+{16}{[Ele o observa por um momento, então parece tomar uma decisão sobre você.] Talvez NÃO tenhamos nada para conversar. Apenas um homem versado nas artes da guerra entenderia o que tenho a dizer...}{[Ele a observa por um momento, então parece tomar uma decisão sobre você.] Talvez NÃO tenhamos nada para conversar. Apenas uma mulher versada nas artes da guerra entenderia o que tenho a dizer...}{}{}{}{}
+{17}{E:}{}{5}{}{0}{lf2 1}
+{19}{[Ele o observa por um momento, então parece tomar uma decisão sobre você.] Posso ver que é um homem experiente nas artes da guerra. Talvez entenda nossa posição aqui nas negociações e possa nos dar alguma assistência...}{[Ele a observa por um momento, então parece tomar uma decisão sobre você.] Posso ver que é uma mulher experiente nas artes da guerra. Talvez entenda nossa posição aqui nas negociações e possa nos dar alguma assistência...}{}{}{}{}
+{20}{Claro. Como posso ajudar?}{}{5}{}{22}{}
+{22}{O senhor está ciente de que o Reino Unificado exige que metade das tropas dos novos membros sirvam sob os Batalhões Unificados. Entendemos essa posição, mas acreditamos que Caladon precisa manter seu exército permanente indefinidamente. Se concordar e garantir que isso faça parte do acordo, lhe daremos um estipêndio de 2000 peças de ouro. [Ele pisca para você.] Os espólios da guerra...}{A senhora está ciente de que o Reino Unificado exige que metade das tropas dos novos membros sirvam sob os Batalhões Unificados. Entendemos essa posição, mas acreditamos que Caladon precisa manter seu exército permanente indefinidamente. Se concordar e garantir que isso faça parte do acordo, lhe daremos um estipêndio de 2000 peças de ouro. [Ele pisca para você.] Os espólios da guerra...}{}{}{}{gf2235 1}
+{23}{Vejo validade em seu argumento. Vou considerar...}{}{5}{}{}{lf1 1, fl 25}
+{25}{Se vencer esta batalha em particular, volte aqui após os procedimentos.}{Se vencer esta batalha em particular, volte aqui após os procedimentos.}{}{}{}{}
+{27}{Eu o saúdo, senhor! [Ele o faz.] O senhor é um herói aos meus olhos! [Ele lhe entrega um pesado saco de ouro.] Que sempre seja vitorioso...}{Eu a saúdo, senhora! [Ele o faz.] A senhora é uma heroína aos meus olhos! [Ele lhe entrega um pesado saco de ouro.] Que sempre seja vitoriosa...}{}{}{}{$$2000}
+{28}{Obrigado, tenha um bom dia...}{}{1}{}{0}{lf3 1}
+{30}{O senhor sempre será um herói aos olhos do Exército Caladônio, senhor!}{A senhora sempre será uma heroína aos olhos do Exército Caladônio, senhora!}{}{}{}{}
+{32}{[O general parece não notar que o senhor está à sua frente.]}{[O general parece não notar que a senhora está à sua frente.]}{}{}{}{}
+

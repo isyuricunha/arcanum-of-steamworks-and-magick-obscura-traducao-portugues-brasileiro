@@ -1,0 +1,166 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá, senhor. Posso perguntar seu nome?}{}{5}{re 41, lf1 0}{25}{}
+{3}{Saudações, @npcname@. Tenho algo que você está procurando.}{}{5}{re 41, lf1 1, rp1001}{43}{}
+{4}{Hmm... tá bom... Posso perguntar seu nome?}{}{5}{re -40, lf1 0}{25}{}
+{5}{Hmm... Tenho algo que você está procurando, @npcname@.}{}{5}{re -40, lf1 1, rp1001}{43}{}
+{6}{Olá, Sr. Razzia. Tenho algumas perguntas...}{}{5}{rp-1001, lf1 1}{}{fl 101}
+{7}{Você pode me treinar como Especialista em furtar bolsos?}{}{5}{rp1001, tr5 -1}{35}{et5 102}
+{8}{Você pode me treinar para ser um Especialista em Furtividade?}{}{5}{rp1001, tr6 -1}{35}{et6 114}
+{9}{Hmm... Tenho algo que você está procurando, @npcname@.}{}{5}{GF2386 1}{}{co, fl 126}
+{10}{Tenho algumas perguntas sobre um passaporte que você fez...}{}{5}{GF2410 1}{127}{}
+{11}{Você pode me treinar como Especialista em ataque pelas costas?}{}{5}{rp1001, tr4 -1}{35}{et4 158}
+{13}{Hmm... Oi. Qual é o seu nome?}{}{-4}{lf1 0}{25}{}
+{14}{Hmm... Sr. Black... Eu tenho uma coisa que você talvez queira.}{}{-4}{re 41, lf1 1, rp1001}{43}{}
+{15}{Ei! Esse Sr. Black mal-educado... Eu tenho uma coisa que você talvez queira.}{}{-4}{re -40, lf1 1, rp1001}{43}{}
+{16}{Hmm... Oi, Sr. Black. Posso te perguntar uma coisa?}{}{-4}{rp-1001, lf1 1}{}{fl 101}
+{17}{Me quer treinar pra ser Perito em Bater Carteira...}{}{-4}{rp1001, tr5 -1}{35}{et5 102}
+{18}{Me quer treinar pra ser Perito em Infiltrador...}{}{-4}{rp1001, tr6 -1}{35}{et6 114}
+{19}{Hmm... Sr. Black... Eu tenho uma coisa que você talvez queira.}{}{-4}{GF2386 1}{}{co, fl 126}
+{20}{Eu quero treinar pra ser Especialista em ataque pelas costas...}{}{-4}{rp1001, tr4 -1}{35}{et4 158}
+{24}{E:}{}{1}{}{0}{}
+{25}{Eu sou o Sr. Razzia. ...O que você quer?}{Eu sou o Sr. Razzia. ...O que você quer?}{}{}{}{lf1 1}
+{26}{Tenho algo que talvez lhe interesse.}{}{5}{rp1001}{43}{}
+{27}{O que pode me contar sobre este lugar?}{}{5}{rp-1001}{}{fl 101}
+{28}{Você pode me treinar como Especialista em furtar bolsos?}{}{5}{rp1001, tr5 1, tr5 -1, sk5 10}{102}{}
+{29}{Você pode me treinar para ser um Especialista em Furtividade?}{}{5}{rp1001, tr6 1, tr6 -1, sk6 10}{114}{}
+{30}{Eu tenho uma coisa que talvez você queira...}{}{-4}{rp1001}{43}{}
+{31}{Me fala sobre esse lugar?}{}{-4}{rp-1001}{}{fl 101}
+{32}{Eu quero treinar para ser Especialista em Bater Carteiras...}{}{-4}{rp1001, tr5 1, tr5 -1, sk5 10}{102}{}
+{33}{Eu quero treinar para ser Especialista em Furtividade...}{}{-4}{rp1001, tr6 1, tr6 -1, sk6 10}{114}{}
+{34}{E:}{}{1}{}{0}{}
+{35}{Há mais alguma coisa?}{Há mais alguma coisa?}{}{}{}{}
+{36}{Tenho algo que talvez lhe interesse.}{}{5}{rp1001}{43}{}
+{37}{Você pode me treinar como Especialista em furtar bolsos?}{}{5}{rp1001, tr5 1, tr5 -1, sk5 10}{102}{}
+{38}{Você pode me treinar para ser um Especialista em Furtividade?}{}{5}{rp1001, tr6 1, tr6 -1, sk6 10}{114}{}
+{39}{Eu tenho uma coisa que talvez você queira...}{}{-4}{rp1001}{43}{}
+{40}{Eu quero treinar para ser Especialista em Bater Carteiras...}{}{-4}{rp1001, tr5 1, tr5 -1, sk5 10}{102}{}
+{41}{Eu quero treinar para ser Especialista em Furtividade...}{}{-4}{rp1001, tr6 1, tr6 -1, sk6 10}{114}{}
+{42}{E:}{}{1}{}{0}{}
+{43}{O que você tem?}{O que você tem?}{}{}{}{}
+{44}{Tenho o Amuleto que pertence ao casal da Estalagem do Cogumelo.}{}{5}{ru1145, rq-1145, in2851}{59}{}
+{45}{Recuperei o relógio de bolso de Ryan Sanders.}{}{5}{ru1146, rq-1146, in5689}{65}{}
+{46}{Recuperei o baú de ouro do naufrágio.}{}{5}{ru1147, rq-1147, in5674}{71}{}
+{47}{Obtive uma armadura de Cruzado de Caladon.}{}{5}{ru1148, rq-1148, in2850}{77}{}
+{48}{Tenho o arquivo de registros criminais de Ryan Marshall.}{}{5}{ru1149, rq-1149, in5690}{83}{}
+{49}{Tenho a mala postal que estava destinada a Tarant.}{}{5}{ru1150, rq-1150, in5676}{89}{}
+{50}{Recuperei o Cajado da Restauração de Jonathan Sanders.}{}{5}{ru1151, rq-1151, in2028}{95}{}
+{51}{Me peguei o amuleto daquela gente da estalagem do cogumelo.}{}{-4}{ru1145, rq-1145, in2851}{59}{}
+{52}{Me peguei o relógio.}{}{-4}{ru1146, rq-1146, in5689}{65}{}
+{53}{Me peguei ouro do navio.}{}{-4}{ru1147, rq-1147, in5674}{71}{}
+{54}{Me peguei armadura da casa do guarda do subsolo.}{}{-4}{ru1148, rq-1148, in2850}{77}{}
+{55}{Me peguei os papéis da polícia sobre o Rian Marshall.}{}{-4}{ru1149, rq-1149, in5690}{83}{}
+{56}{Me peguei saco de cartas.}{}{-4}{ru1150, rq-1150, in5676}{89}{}
+{57}{Me peguei o cajado da casa do Sandur do subsolo.}{}{-4}{ru1151, rq-1151, in2028}{95}{}
+{58}{F:}{}{1}{}{0}{}
+{59}{Sim... Estávamos aguardando a chegada dessa peça. Obrigado por recuperá-la para nós. O Submundo está pagando uma recompensa de 250 moedas por ela. Aqui está @pcname@. Bom trabalho.}{Sim... Estávamos aguardando a chegada dessa peça. Obrigado por recuperá-la para nós. O Submundo está pagando uma recompensa de 250 moedas por ela. Aqui está @pcname@. Bom trabalho.}{}{}{}{$$250, rq1145, in2851, xp4}
+{60}{Foi um prazer. Adeus @npcname@.}{}{5}{}{0}{}
+{61}{Obrigado. Tenho mais uma coisa...}{}{5}{}{43}{}
+{62}{Valeu. Falou.}{}{-4}{}{0}{}
+{63}{Valeu. Eu tenho mais...}{}{-4}{}{43}{}
+{64}{E:}{}{1}{}{0}{}
+{65}{Sim... Estávamos aguardando a chegada dessa peça. Obrigado por recuperá-la para nós. O Submundo está pagando uma recompensa de 300 moedas por ela. Aqui está @pcname@. Bom trabalho.}{Sim... Estávamos aguardando a chegada dessa peça. Obrigado por recuperá-la para nós. O Submundo está pagando uma recompensa de 300 moedas por ela. Aqui está @pcname@. Bom trabalho.}{}{}{}{$$300, rq1146, in5689, xp4}
+{66}{Foi um prazer. Adeus @npcname@.}{}{5}{}{0}{}
+{67}{Obrigado. Tenho mais uma coisa...}{}{5}{}{43}{}
+{68}{Valeu. Falou.}{}{-4}{}{0}{}
+{69}{Valeu. Eu tenho mais...}{}{-4}{}{43}{}
+{70}{E:}{}{1}{}{0}{}
+{71}{Sim... Estávamos aguardando a chegada dessa peça. Obrigado por recuperá-la para nós. O Submundo está pagando uma recompensa de 700 moedas por ela. Aqui está @pcname@. Bom trabalho.}{Sim... Estávamos aguardando a chegada dessa peça. Obrigado por recuperá-la para nós. O Submundo está pagando uma recompensa de 700 moedas por ela. Aqui está @pcname@. Bom trabalho.}{}{}{}{$$700, rq1147, in5674, xp2}
+{72}{Foi um prazer. Adeus @npcname@.}{}{5}{}{0}{}
+{73}{Obrigado. Tenho mais uma coisa...}{}{5}{}{43}{}
+{74}{Valeu. Falou.}{}{-4}{}{0}{}
+{75}{Valeu. Eu tenho mais...}{}{-4}{}{43}{}
+{76}{E:}{}{1}{}{0}{}
+{77}{Sim... Estávamos esperando pela chegada dessa peça. Obrigado por recuperá-la para nós. O Submundo está pagando uma taxa de 400 moedas por ela. Aqui está @pcname@. Bom trabalho.}{Sim... Estávamos esperando pela chegada dessa peça. Obrigado por recuperá-la para nós. O Submundo está pagando uma taxa de 400 moedas por ela. Aqui está @pcname@. Bom trabalho.}{}{}{}{$$400, rq1148, in2850, xp7}
+{78}{Foi um prazer. Adeus @npcname@.}{}{5}{}{0}{}
+{79}{Obrigado. Tenho mais uma coisa...}{}{5}{}{43}{}
+{80}{Valeu. Falou.}{}{-4}{}{0}{}
+{81}{Valeu. Eu tenho mais...}{}{-4}{}{43}{}
+{82}{E:}{}{1}{}{0}{}
+{83}{Sim... Estávamos aguardando a chegada dessa peça. Obrigado por recuperá-la para nós. O Submundo está pagando uma recompensa de 300 moedas por ela. Aqui está @pcname@. Bom trabalho.}{Sim... Estávamos aguardando a chegada dessa peça. Obrigado por recuperá-la para nós. O Submundo está pagando uma recompensa de 300 moedas por ela. Aqui está @pcname@. Bom trabalho.}{}{}{}{$$300, rq1149, in5690, xp10}
+{84}{Foi um prazer. Adeus @npcname@.}{}{5}{}{0}{}
+{85}{Obrigado. Tenho mais uma coisa...}{}{5}{}{43}{}
+{86}{Valeu. Falou.}{}{-4}{}{0}{}
+{87}{Valeu. Eu tenho mais...}{}{-4}{}{43}{}
+{88}{E:}{}{1}{}{0}{}
+{89}{Sim... Estávamos esperando pela chegada dessa peça. Obrigado por recuperá-la para nós. O Submundo está pagando uma taxa de 350 moedas por ela. Aqui está @pcname@. Bom trabalho.}{Sim... Estávamos esperando pela chegada dessa peça. Obrigado por recuperá-la para nós. O Submundo está pagando uma taxa de 350 moedas por ela. Aqui está @pcname@. Bom trabalho.}{}{}{}{$$350, rq1150, in5676, xp6}
+{90}{Foi um prazer. Adeus @npcname@.}{}{5}{}{0}{}
+{91}{Obrigado. Tenho mais uma coisa...}{}{5}{}{43}{}
+{92}{Valeu. Falou.}{}{-4}{}{0}{}
+{93}{Valeu. Eu tenho mais...}{}{-4}{}{43}{}
+{94}{E:}{}{1}{}{0}{}
+{95}{Sim... Estávamos aguardando a chegada dessa peça. Obrigado por recuperá-la para nós. O Submundo está pagando uma recompensa de 500 moedas por ela. Aqui está @pcname@. Bom trabalho.}{Sim... Estávamos aguardando a chegada dessa peça. Obrigado por recuperá-la para nós. O Submundo está pagando uma recompensa de 500 moedas por ela. Aqui está @pcname@. Bom trabalho.}{}{}{}{$$500, rq1151, in2028, xp9}
+{96}{Foi um prazer. Adeus @npcname@.}{}{5}{}{0}{}
+{97}{Obrigado. Tenho mais uma coisa...}{}{5}{}{43}{}
+{98}{Valeu. Falou.}{}{-4}{}{0}{}
+{99}{Valeu. Eu tenho mais...}{}{-4}{}{43}{}
+{100}{E:}{}{1}{}{0}{}
+{101}{[com ar irritado] Escuta aqui, parceiro... Não tenho tempo para suas interrupções. Se precisa de ajuda, fale com o lojista. Adeus.}{[com ar irritado] Escuta aqui, moça... Não tenho tempo para suas interrupções. Se precisa de ajuda, fale com o lojista. Adeus.}{}{}{}{}
+{102}{Sim. Posso, de fato, lhe dar treinamento de Especialista em bater carteiras. A taxa é de 500 moedas. Está interessado?}{Sim. Posso, de fato, lhe dar treinamento de Especialista em bater carteiras. A taxa é de 500 moedas. Está interessado?}{}{}{}{}
+{103}{Sim. Aqui estão as moedas. [entrega-lhe as moedas]}{}{5}{$$500}{108}{}
+{104}{Preciso juntar algumas moedas primeiro. Volto depois.}{}{5}{$$-499}{0}{}
+{105}{Ah... tá. Aqui óia, moeda. [entrega-lhe as moedas]}{}{-4}{$$500}{108}{}
+{106}{Eu num tenho moeda. Eu vorto.}{}{-4}{$$-499}{0}{}
+{107}{F:}{}{1}{}{0}{}
+{108}{Obrigado @pcname@. [Ele leva alguns momentos para revisar suas habilidades e demonstrar algumas novas técnicas] Agora você é um Perito em Bater Carteiras. Se quiser se tornar um Mestre no ofício, precisará procurar Sammie White. Ele mora em Tarant e geralmente pode ser encontrado perto da Estação do Metrô. ...Que suas novas habilidades lhe tragam muitas moedas.}{Obrigado @pcname@. [Ele leva alguns momentos para revisar suas habilidades e demonstrar algumas novas técnicas] Agora você é um Perito em Bater Carteiras. Se quiser se tornar um Mestre no ofício, precisará procurar Sammie White. Ele mora em Tarant e geralmente pode ser encontrado perto da Estação do Metrô. ...Que suas novas habilidades lhe tragam muitas moedas.}{}{}{}{$$-500, tr5 2, ru2160}
+{109}{Obrigado. Adeus.}{}{5}{}{0}{}
+{110}{Obrigado. Tenho algo que pode lhe interessar.}{}{5}{}{43}{}
+{111}{Valeu. Falou.}{}{-4}{}{0}{}
+{112}{Obrigadu. Eu tô cum arguma coisa qui ocê qué.}{}{-4}{}{43}{}
+{113}{E:}{}{1}{}{0}{}
+{114}{Sim. Posso lhe dar treinamento de Especialista em Furtividade. A taxa é de 500 moedas. Está interessado?}{Sim. Posso lhe dar treinamento de Especialista em Furtividade. A taxa é de 500 moedas. Está interessado?}{}{}{}{}
+{115}{Sim. Aqui estão as moedas. [entrega-lhe as moedas]}{}{5}{$$500}{120}{}
+{116}{Preciso juntar algumas moedas primeiro. Volto depois.}{}{5}{$$-499}{0}{}
+{117}{Ah... tá. Aqui óia, moeda. [entrega-lhe as moedas]}{}{-4}{$$500}{120}{}
+{118}{Eu num tenho moeda. Eu vorto.}{}{-4}{$$-499}{0}{}
+{119}{F:}{}{1}{}{0}{}
+{120}{Obrigado @pcname@. [Ele leva alguns momentos para revisar suas habilidades e demonstrar algumas técnicas novas] Agora você é um Especialista em Furtividade. Aqui, pegue este bilhete. Se algum dia desejar se tornar um Mestre em furtividade, precisará seguir as pistas do bilhete para localizar o treinador Mestre. Boa sorte, @pcname@. Tenho certeza de que suas novas habilidades impressionarão o Submundo.}{Obrigado @pcname@. [Ele leva alguns momentos para revisar suas habilidades e demonstrar algumas técnicas novas] Agora você é um Especialista em Furtividade. Aqui, pegue este bilhete. Se algum dia desejar se tornar um Mestre em furtividade, precisará seguir as pistas do bilhete para localizar o treinador Mestre. Boa sorte, @pcname@. Tenho certeza de que suas novas habilidades impressionarão o Submundo.}{}{}{}{$$-500, tr6 2, ru2161, in-5233}
+{121}{Obrigado. Adeus.}{}{5}{}{0}{}
+{122}{Obrigado. Tenho algo que pode lhe interessar.}{}{5}{}{43}{}
+{123}{Valeu. Falou.}{}{-4}{}{0}{}
+{124}{Obrigadu. Eu tô cum arguma coisa qui ocê qué.}{}{-4}{}{43}{}
+{125}{E:}{}{1}{}{0}{}
+{126}{Assassino! Você vai morrer pelo que fez ao Sr. Black!}{Assassino! Você vai morrer pelo que fez ao Sr. Black!}{}{}{}{}
+{127}{Não sei do que está falando. Eu não "fabrico" passaportes... isso é contra a lei.}{Não sei do que está falando. Eu não "fabrico" passaportes... isso é contra a lei, madame.}{}{}{}{}
+{128}{O Sr. Preston Radcliffe discorda... [mostrar passaporte]}{}{5}{in5671}{132}{}
+{129}{Ora, Sr. Razzia... eu "sou" um dos seus...}{}{5}{rp1001, ni5671}{136}{}
+{130}{O nome Preston Radcliffe não lhe traz nenhuma lembrança?}{}{5}{ni5671}{154}{}
+{131}{E:}{}{1}{}{0}{}
+{132}{[olhando chocado... e um pouco assustado] Onde conseguiu isso?}{[olhando chocado... e um pouco assustado] Onde conseguiu isso?}{}{}{}{}
+{133}{Achei no corpo dele nos destroços do IFS Zéfiro.}{}{5}{}{136}{}
+{134}{Tirei de um corpo perto do IFS Zéfiro. Preciso de algumas informações sobre ele.}{}{5}{}{136}{}
+{135}{E:}{}{1}{}{0}{}
+{136}{[olhando para você com desconfiança] Quem era esse homem, afinal? Você não é a única pessoa fazendo perguntas...}{[olhando para você com desconfiança] Quem era esse homem, afinal? Você não é a única pessoa fazendo perguntas...}{}{}{}{}
+{137}{Quem mais esteve aqui?}{}{5}{}{140}{}
+{138}{Outras pessoas estiveram procurando por ele?}{}{5}{}{140}{}
+{139}{E:}{}{1}{}{0}{}
+{140}{Um par de bandidos passou por aqui logo depois que o Zéfiro partiu de Caladon. Eles queriam informações sobre ele. Quando me recusei a falar, decidiram que eu precisava de um pouco de "incentivo" [você vê a dor nos olhos dele]. Não sei quem eram...}{Um par de bandidos passou por aqui logo depois que o Zéfiro partiu de Caladon. Eles queriam informações sobre ele. Quando me recusei a falar, decidiram que eu precisava de um pouco de "incentivo" [você vê a dor nos olhos dele]. Não sei quem eram...}{}{}{}{}
+{141}{O que você contou a eles?}{}{5}{}{144}{}
+{142}{O que eles conseguiram arrancar de você?}{}{5}{}{144}{}
+{143}{E:}{}{1}{}{0}{}
+{144}{Contei que eu tinha feito um passaporte para ele... que ele havia escolhido Preston Radcliffe como nome, um gnomo de Tarant. Também disse que era tarde demais... Ele tinha acabado de partir no Zéfiro e não havia nada que pudessem fazer... ou assim eu pensava...}{Contei que eu tinha feito um passaporte para ele... que ele havia escolhido Preston Radcliffe como nome, um gnomo de Tarant. Também disse que era tarde demais... Ele tinha acabado de partir no Zéfiro e não havia nada que pudessem fazer... ou assim eu pensava...}{}{}{}{}
+{145}{O que eles fizeram?}{}{5}{}{147}{}
+{146}{E:}{}{1}{}{0}{}
+{147}{Eles foram "insistentes" em que eu lhes desse informações sobre como chegar ao Zéfiro. Eu ri amargamente e disse que estavam loucos... O velho Maxim maluco tinha construído o Zéfiro em sua fábrica nos arredores da cidade, e era uma máquina única...}{Eles foram "insistentes" em que eu lhes desse informações sobre como chegar ao Zéfiro. Eu ri amargamente e disse que estavam loucos... O velho Maxim maluco tinha construído o Zéfiro em sua fábrica nos arredores da cidade, e era uma máquina única...}{}{}{}{}
+{148}{Você contou a eles onde ficava a fábrica?}{}{5}{}{150}{}
+{149}{E:}{}{1}{}{0}{}
+{150}{Não pensei nada a respeito. Todo mundo sabia onde ficava a fábrica do Maxim... Foi naquela mesma noite que ela foi incendiada. É tudo o que sei.}{Não pensei nada a respeito. Todo mundo sabia onde ficava a fábrica do Maxim... Foi naquela mesma noite que ela foi incendiada. É tudo o que sei.}{}{}{}{}
+{151}{Obrigado. Você foi muito prestativo.}{}{5}{}{0}{}
+{152}{Valeu.}{}{5}{}{0}{}
+{153}{E:}{}{1}{}{0}{}
+{154}{Como já disse, não sei do que está falando. Agradeceria se fosse embora.}{Como já disse, não sei do que está falando. Agradeceria se fosse embora.}{}{}{}{}
+{155}{[ameaçador] Não me "force" a violência, "senhor"...}{}{5}{}{136}{}
+{156}{[ameaçador] Eu quero algumas respostas... Agora!}{}{5}{}{136}{}
+{157}{E:}{}{1}{}{0}{}
+{158}{Sim. Posso lhe dar treinamento de Especialista em Ataque pelas Costas. A taxa é de 500 moedas. Está interessado?}{Sim. Posso lhe dar treinamento de Especialista em Ataque pelas Costas. A taxa é de 500 moedas. Está interessado?}{}{}{}{}
+{159}{Sim. Aqui estão as moedas. [entrega-lhe as moedas]}{}{5}{$$500}{164}{}
+{160}{Preciso juntar algumas moedas primeiro. Volto depois.}{}{5}{$$-499}{0}{}
+{161}{Ah... tá. Aqui óia, moeda. [entrega-lhe as moedas]}{}{-4}{$$500}{164}{}
+{162}{Eu num tenho moeda. Eu vorto.}{}{-4}{$$-499}{0}{}
+{163}{F:}{}{1}{}{0}{}
+{164}{Obrigado @pcname@. [Ele leva alguns momentos para revisar e comentar sobre suas habilidades, depois demonstra algumas novas técnicas para você.] Agora você é um Especialista em ataque pelas costas. Se algum dia desejar se tornar um Mestre, deve localizar o Doutor Edmund Craig. Ele está escondido em algum lugar após um incidente recente em Tarant. Não sei onde...}{Obrigado @pcname@. [Ele leva alguns momentos para revisar e comentar sobre suas habilidades, depois demonstra algumas novas técnicas para você.] Agora você é um Especialista em ataque pelas costas. Se algum dia desejar se tornar um Mestre, deve localizar o Doutor Edmund Craig. Ele está escondido em algum lugar após um incidente recente em Tarant. Não sei onde...}{}{}{}{$$-500, tr4 2, ru2166}
+{165}{Obrigado. Adeus.}{}{5}{}{0}{}
+{166}{Obrigado. Tenho algo que pode lhe interessar.}{}{5}{}{43}{}
+{167}{Valeu. Falou.}{}{-4}{}{0}{}
+{168}{Obrigadu. Eu tô cum arguma coisa qui ocê qué.}{}{-4}{}{43}{}
+{169}{E:}{}{1}{}{0}{}
+

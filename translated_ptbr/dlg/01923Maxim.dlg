@@ -1,0 +1,155 @@
+{1}{G:}{G:}{}{}{}{ }
+{2}{W:}{}{5}{re41, lf1 0}{12}{lf1 1 }
+{3}{Por favor, permita a este humilde tolo um momento do seu tempo, senhor.}{}{5}{re-40, ch-14}{140}{re41 }
+{4}{Com licença? Acho que não ouvi direito.}{}{5}{re-40, ch15}{150}{re50 }
+{5}{Não aprecio o seu tom, tolo!}{}{5}{re-40}{160}{re-10 }
+{6}{Trouxe uma câmera com imagens das suas máquinas voando.}{}{5}{in5607, qa1141 1, qb1141 2}{200}{qu1141 4, in5607 }
+{7}{Você disse que construiria uma arma mecanizada para mim.}{}{5}{in5678, in2026, qu1141 4, lf15 0}{-2}{lf15 1 }
+{8}{Se eu trouxesse provas, você me treinaria para dominar o reparo?}{}{5}{lf2 1, qu1141 0, tr12 2, sk12 18}{52}{ }
+{9}{Que tipo de prova você precisaria para provar que seus aviões voaram?}{}{5}{lf2 1, qu1141 0, tr12 -1}{81}{ }
+{10}{K:}{}{5}{lf1 1, re41, qa1141 2}{22}{ }
+{11}{E:}{}{5}{}{0}{ }
+{12}{Eu sou Hieronymous Maxim, inventor da arma mecanizada e do recém-furtado aeroplano, uma máquina voadora mais pesada que o ar. [Ele parece distraído por um momento e então estende a mão para você.] Ah, você terá que me desculpar minha distração, eu estava apenas admirando as ruínas da minha vida.}{Eu sou Hieronymous Maxim, inventor da arma mecanizada e do recém-furtado aeroplano, uma máquina voadora mais pesada que o ar. [Ele parece distraído por um momento e então estende a mão para você.] Ah, você terá que me desculpar minha distração, eu estava apenas admirando as ruínas da minha vida.}{}{}{}{ }
+{13}{Você é o Maxim? Estou buscando obter maestria na minha habilidade de reparo.}{}{5}{tr12 2, sk12 18}{32}{lf3 1 }
+{14}{O que aconteceu com a sua fábrica?}{}{5}{ra-8}{42}{ }
+{15}{O que aconteceu com a sua fábrica?}{}{5}{ra 8}{62}{ }
+{16}{Você é o Maxim? Estou buscando obter maestria na minha habilidade de reparo.}{}{5}{tr12 2, sk12 -17}{350}{ }
+{22}{Quais são as suas perguntas para mim?}{Quais são as suas perguntas para mim?}{}{}{}{ }
+{23}{Você pode consertar alguns itens para mim?}{}{5}{}{0}{ri }
+{27}{Interessaria a você saber que eu vi suas máquinas voando?}{}{5}{lf4 0, qb1141 3}{220}{lf4 1 }
+{28}{Por que os ogros roubaram suas máquinas voadoras?}{}{5}{ra8, qb1141 3}{250}{ }
+{29}{Por que os ogros roubaram suas máquinas voadoras?}{}{5}{ra-8, qb1141 3}{270}{ }
+{30}{Você me treinaria para ser um mestre em reparos?}{}{5}{tr12 -2, sk12 18, qu1141 4}{330}{ }
+{31}{E:}{}{5}{}{0}{ }
+{32}{Eu adoraria ajudá-lo, mas preciso deixar a cidade em breve antes de ser jogado na prisão.}{Eu adoraria ajudá-lo, mas preciso deixar a cidade em breve antes de ser jogado na prisão.}{}{}{}{ }
+{33}{O que aconteceu?}{}{5}{ra-8}{42}{ }
+{34}{O que aconteceu?}{}{5}{ra8}{62}{ }
+{42}{Aqueles ogros imbecis roubaram meus protótipos de máquinas voadoras e incendiaram minha fábrica. E, para adicionar um pouco mais de alegria a toda essa situação, eles me espancaram até perder os sentidos. Agora, os conselheiros do Rei dizem que sou um fraudador, que voar com algo mais pesado que o ar é impossível. Dizem que encenei tudo para encobrir meu fracasso. Sem provas, meus dias aqui estão contados.}{Aqueles ogros imbecis roubaram meus protótipos de máquinas voadoras e incendiaram minha fábrica. E, para adicionar um pouco mais de alegria a toda essa situação, eles me espancaram até perder os sentidos. Agora, os conselheiros do Rei dizem que sou um fraudador, que voar com algo mais pesado que o ar é impossível. Dizem que encenei tudo para encobrir meu fracasso. Sem provas, meus dias aqui estão contados.}{}{}{}{lf2 1 }
+{43}{Se eu trouxesse provas, você então me treinaria?}{}{5}{lf3 1, sk12 18}{52}{qu1141 1 }
+{44}{Que tipo de prova você precisaria?}{}{5}{lf3 0}{81}{qu1141 1 }
+{45}{Por que você simplesmente não constrói outra?}{}{5}{}{210}{ }
+{46}{Eu vi suas máquinas voando.}{}{5}{lf4 0}{220}{lf4 1 }
+{47}{Por que eles roubaram suas máquinas voadoras?}{}{5}{ra8}{250}{ }
+{48}{Se eu trouxesse provas, você me treinaria para dominar o reparo?}{}{5}{lf3 0, tr12 2, sk12 18}{52}{qu1141 1 }
+{49}{Por que eles roubaram suas máquinas voadoras?}{}{5}{ra-8}{270}{ }
+{51}{E:}{}{5}{}{0}{ }
+{52}{Com toda certeza. Prefiro muito mais fazer de bobos aqueles conselheiros idiotas do que dar no pé. Mas como você poderia provar que eles voaram?}{Com toda certeza. Prefiro muito mais fazer de bobos aqueles conselheiros idiotas do que dar no pé. Mas como você poderia provar que eles voaram?}{}{}{}{qu1141 2 }
+{53}{E se eu trouxesse uma câmera com fotos deles voando?}{}{15}{ni5607}{72}{ }
+{54}{Não sei, mas vou encontrar algum tipo de prova.}{}{-14}{ni5607}{101}{ }
+{55}{Já fiz isso. Aqui está uma câmera com fotos deles voando.}{}{5}{in5607}{131}{in5607 }
+{62}{Alguns dos seus irmãos ogros de sangue puro roubaram meus protótipos de máquina voadora e incendiaram minha fábrica. E, só para adicionar um pouco mais de alegria a toda essa situação, eles me deixaram inconsciente também. Agora, os conselheiros do Rei dizem que sou um charlatão, que voar com algo mais pesado que o ar é impossível. Dizem que encenei tudo para encobrir meu fracasso. Sem provas, meus dias aqui estão contados.}{Alguns dos seus irmãos ogros de sangue puro roubaram meus protótipos de máquina voadora e incendiaram minha fábrica. E, só para adicionar um pouco mais de alegria a toda essa situação, eles me deixaram inconsciente também. Agora, os conselheiros do Rei dizem que sou um charlatão, que voar com algo mais pesado que o ar é impossível. Dizem que encenei tudo para encobrir meu fracasso. Sem provas, meus dias aqui estão contados.}{}{}{}{lf2 1 }
+{63}{Se eu trouxesse provas, você então me treinaria?}{}{5}{lf3 1}{52}{qu1141 1 }
+{64}{Que tipo de prova você precisaria?}{}{5}{lf3 0}{81}{qu1141 1 }
+{65}{Eu os vi voar.}{}{5}{lf4 0}{220}{lf4 1 }
+{66}{Por que eles roubaram suas máquinas voadoras?}{}{5}{}{250}{ }
+{67}{Por que você simplesmente não constrói outra?}{}{5}{}{210}{ }
+{71}{E:}{}{5}{}{0}{ }
+{72}{[Ele sorri.] Isso resolveria. Eu definitivamente o treinaria se você me trouxesse provas fotográficas.}{[Ele sorri.] Isso resolveria. Eu definitivamente o treinaria se você me trouxesse provas fotográficas.}{}{}{}{ }
+{73}{Voltarei com a prova, então.}{}{5}{}{0}{ }
+{81}{Qualquer coisa que provasse que eles eram capazes de voar.}{Qualquer coisa que provasse que eles eram capazes de voar.}{}{}{}{ }
+{82}{Digamos que eu encontrasse provas para você. O que isso valeria?}{}{5}{}{320}{qu1141 1 }
+{90}{E:}{}{5}{}{0}{ }
+{91}{Bem, traria uma boa quantia no mercado aberto se você não tivesse uso pessoal para isso.}{Bem, traria uma boa quantia no mercado aberto se você não tivesse uso pessoal para isso.}{}{}{}{ }
+{92}{Certo, então. Por onde começo a procurar?}{}{-14}{ni5607}{116}{qu1141 2 }
+{93}{Um registro fotográfico deles voando seria suficiente?}{}{15}{ni5607}{111}{qu1141 2 }
+{99}{Aqui está uma câmera com fotos deles voando. Isso serviria?}{}{5}{in5607}{121}{in5607 }
+{100}{Acho que não. Tenha um bom dia.}{}{5}{}{0}{ }
+{101}{Espero que você consiga, em nome de nós dois.}{Espero que você consiga, em nome de nós dois.}{}{}{}{ }
+{102}{Voltarei com a prova.}{}{5}{}{0}{ }
+{111}{[Ele sorri.] Isso resolveria.}{[Ele sorri.] Isso resolveria.}{}{}{}{ }
+{112}{Voltarei com a prova.}{}{5}{}{0}{ }
+{116}{Não faço a menor ideia de por onde você deveria começar.}{Não tenho a menor ideia por onde começar.}{}{}{}{ }
+{117}{É melhor eu começar a procurar, então.}{}{5}{}{0}{ }
+{121}{Sim! Vindicação! Obrigado por isso. Não só poderei continuar meu trabalho, como também posso fazer aqueles conselheiros parecerem ridículos! [Ele remexe em algumas peças no chão.] E aqui está o aracnídeo médico que prometi a você. Ah, e é melhor você levar os planos dele, caso precise deles.}{Sim! Vindicação! Obrigado por isso. Não só poderei continuar meu trabalho, como também posso fazer aqueles conselheiros parecerem ridículos! [Ele remexe em algumas peças no chão.] E aqui está o aracnídeo médico que prometi a você. Ah, e é melhor você levar os planos dele, caso precise deles.}{}{}{}{qu1141 4, in-5679, re+10, in-5253 }
+{122}{Obrigado.}{}{5}{}{126}{qu1141 4 }
+{123}{Você poderia me treinar para ser um mestre em reparos também?}{}{5}{tr12 2, sk12 18}{310}{qu1141 4 }
+{124}{Você poderia me treinar para ser um mestre em reparos também?}{}{5}{tr12 2, sk12 -17}{360}{ }
+{125}{}{}{}{}{}{ }
+{126}{Ah, e já que foi gentil o suficiente para me ajudar, se algum dia precisar de uma arma mecanizada, basta trazer as peças e eu a construirei. Já mencionei que também inventei a arma mecanizada?}{Ah, e já que foi gentil o suficiente para me ajudar, se algum dia precisar de uma arma mecanizada, basta trazer as peças e eu a construirei. Já mencionei que também inventei a arma mecanizada?}{}{}{}{ }
+{130}{Que peças eu precisaria?}{}{5}{}{300}{ }
+{131}{Sim! Vindicação! Obrigado por isso. Não só poderei continuar meu trabalho, como também posso fazer aqueles conselheiros parecerem ridículos! E agora, seria um prazer instruí-lo a dominar as maravilhas do reparo!}{Sim! Vindicação! Obrigado por isso. Não só poderei continuar meu trabalho, como também posso fazer aqueles conselheiros parecerem ridículos! E agora, seria um prazer instruí-lo a dominar as maravilhas do reparo!}{}{}{}{tr12 3, re+10, rq2171 }
+{132}{Obrigado.}{}{5}{}{126}{qu1141 4 }
+{140}{Ah, por favor, não se rebaixe. Peço desculpas pela minha rudeza, estou passando por um momento difícil, por assim dizer. Agora, em que posso ajudá-lo?}{Ah, por favor, não se rebaixe. Peço desculpas pela minha rudeza, estou passando por um momento difícil, por assim dizer. Agora, em que posso ajudá-lo?}{}{}{}{ }
+{141}{W:}{}{5}{lf1 0}{12}{lf1 1 }
+{142}{K:}{}{5}{lf1 1}{22}{ }
+{143}{Vou tirar minha satisfação da sua pele, idiota!}{}{5}{}{0}{fl 315 ,co}
+{149}{E:}{}{5}{}{0}{ }
+{150}{Oh, peço mil desculpas. Confundi você com um dos sanguessugas que aparecem por aqui de vez em quando. O que posso dizer para mostrar meu verdadeiro arrependimento por não tê-lo tratado com o devido respeito?}{Oh, peço mil desculpas. Confundi você com um dos sanguessugas que aparecem por aqui de vez em quando. O que posso dizer para mostrar meu verdadeiro arrependimento por não tê-lo tratado com o devido respeito?}{}{}{}{ }
+{151}{Está tudo bem, de verdade. Posso perguntar seu nome?}{}{5}{lf1 0}{12}{lf1 1 }
+{152}{K:}{}{5}{lf1 1}{22}{ }
+{153}{Pode implorar pela sua vida, seu cão pulguento!}{}{5}{}{0}{fl 315 ,co}
+{159}{E:}{}{5}{}{0}{ }
+{160}{Nem eu o seu, cão! Saia da minha frente antes que eu seja forçado a lhe dar o que merece!}{Nem eu o seu, cão! Saia da minha frente antes que eu seja forçado a lhe dar o que merece!}{}{}{}{ }
+{161}{Por favor, perdoe meu acesso de raiva. Estou mentalmente perturbado.}{}{5}{}{170}{re+5 }
+{162}{Você está convidado a tentar, assim como está convidado a morrer!}{}{5}{}{0}{fl 315 ,co}
+{169}{E:}{}{5}{}{0}{ }
+{170}{Perturbado? Eu deveria ter imaginado. Você tem a aparência dos feios, sujos e repugnantes que se vê no manicômio.}{Perturbado? Eu deveria ter imaginado. Você tem a aparência dos feios, sujos e repugnantes que se vê no manicômio.}{}{}{}{ }
+{171}{Sim, senhor, sou apenas um cão vira-lata atormentado por instabilidade mental.}{}{5}{}{180}{re+5 }
+{172}{Logo você terá a aparência que se vê no necrotério!}{}{5}{}{0}{fl 315 ,co}
+{179}{E:}{}{5}{}{0}{ }
+{180}{Suponho que não se pode culpar alguém por sua doença. Você é exatamente como os deuses o fizeram, não é?}{Suponho que não se pode culpar alguém por sua doença. Você é exatamente como os deuses o fizeram, não é?}{}{}{}{ }
+{181}{W:}{}{5}{lf1 0}{12}{lf1 1 }
+{182}{K:}{}{5}{lf1 1}{22}{ }
+{183}{Um maníaco homicida raivoso que está prestes a arrancar seu coração!}{}{5}{}{0}{fl 315 ,co}
+{189}{E:}{}{5}{}{0}{ }
+{190}{[Suas mãos se movem com velocidade, agilidade e graça incríveis sobre as peças mecanizadas que você lhe entregou.] Aqui está, senhor.}{[Suas mãos se movem com velocidade, agilidade e graça impressionantes sobre as peças mecanizadas que você lhe entregou.] Aqui está, madame.}{}{}{}{ }
+{191}{A:}{}{5}{}{0}{ }
+{200}{Sim! Vindicação! Obrigado por isso. Não só poderei continuar meu trabalho, como também farei aqueles conselheiros parecerem ridículos! Devo muito a você pela sua ajuda.}{Sim! Vindicação! Obrigado por isso. Não só poderei continuar meu trabalho, como também farei aqueles conselheiros parecerem ridículos! Devo muito a você pela sua ajuda.}{}{}{}{ }
+{201}{Você me treinaria para me tornar um mestre em reparos?}{}{5}{tr12 2, sk12 18}{330}{ }
+{202}{Acredito que isso seria um aracnídeo medicinal.}{}{5}{tr12 -1}{340}{ }
+{203}{Você me treinaria para me tornar um mestre em reparos?}{}{5}{tr12 2, sk12 -17}{360}{ }
+{210}{Sem dinheiro. Tudo isso foi financiado pelo Rei. É por isso que seus conselheiros estão atrás da minha cabeça e não consigo mais fundos sem provas. Um círculo vicioso, não é?}{Sem dinheiro. Tudo isso foi financiado pelo Rei. É por isso que seus conselheiros estão atrás da minha cabeça e não consigo mais fundos sem provas. Um círculo vicioso, não é?}{}{}{}{ }
+{211}{Se eu conseguisse provas para você, me treinaria então?}{}{5}{lf3 1, qu1141 0}{52}{qu1141 1 }
+{212}{Que tipo de prova você precisaria?}{}{5}{lf3 0, qu1141 0}{81}{qu1141 1 }
+{219}{E:}{}{5}{}{0}{ }
+{220}{Você os viu voar? Onde? Onde estão meus aeroplanos?}{Você os viu voar? Onde? Onde estão meus aeroplanos?}{}{}{}{ }
+{221}{Os ogros os derrubaram depois de abater o Zéfiro.}{}{5}{ra-8}{230}{ }
+{222}{Os ogros os derrubaram depois de abater o Zéfiro.}{}{5}{ra8}{290}{ }
+{230}{Esses estúpidos, endogâmicos, ignorantes! Eles destruíram minhas obras-primas! E para quê? Para matar pessoas inocentes?! Os bastardos!}{Esses estúpidos, endogâmicos, ignorantes! Eles destruíram minhas obras-primas! E para quê? Para matar pessoas inocentes?! Os bastardos!}{}{}{}{ }
+{231}{Posso dizer que vi suas máquinas voarem. Isso ajudaria?}{}{5}{}{240}{ }
+{240}{Sinto dizer, mas receio que sua palavra não seja suficiente. Preciso de evidências tangíveis que não possam ser refutadas.}{Sinto dizer, mas receio que sua palavra não seja suficiente. Preciso de evidências tangíveis que não possam ser refutadas.}{}{}{}{ }
+{241}{Se eu trouxesse provas, você me treinaria para dominar reparos?}{}{5}{lf3 0, tr12 2, qu1141 0, sk12 18}{52}{qu1141 1 }
+{242}{Se eu trouxesse provas, você me treinaria então?}{}{5}{lf3 1, qu1141 0}{52}{qu1141 1 }
+{243}{Por que eles roubaram suas máquinas voadoras?}{}{5}{ra8}{250}{ }
+{244}{Por que você simplesmente não constrói outra?}{}{5}{}{210}{ }
+{245}{Que tipo de prova você precisaria?}{}{5}{lf3 0, tr12 -1, qu1141 0}{81}{qu1141 1 }
+{246}{Por que eles roubaram suas máquinas voadoras?}{}{5}{ra-8}{270}{ }
+{249}{Preciso partir.}{}{5}{}{0}{ }
+{250}{Não sei, mas duvido que tenham tido facilidade. Essas máquinas são, na verdade, bastante fáceis de decolar, mas pousar é outra história.}{Não sei, mas duvido que tenham tido facilidade. Essas máquinas são, na verdade, bastante fáceis de decolar, mas pousar é outra história.}{}{}{}{ }
+{251}{Eu os vi pilotando suas máquinas.}{}{5}{lf4 0}{220}{lf4 1 }
+{260}{Se eu trouxesse provas do voo delas, você me treinaria então?}{}{5}{lf3 1, qu1141 0}{52}{qu1141 1 }
+{261}{Se eu trouxesse provas, você me treinaria para dominar reparos?}{}{5}{lf3 0, tr12 2, qu1141 0, sk12 18}{52}{qu1141 1 }
+{262}{Que tipo de prova ajudaria você?}{}{5}{lf3 0, tr12 -1, qu1141 0}{81}{qu1141 1 }
+{269}{E:}{}{5}{}{0}{ }
+{270}{Não sei, mas duvido que tenham tido facilidade. Essas máquinas são bem fáceis de decolar, mas pousar é outra história, especialmente para seres com cérebros tão inferiores.}{Não sei, mas duvido que tenham tido facilidade. Essas máquinas são bem fáceis de decolar, mas pousar é outra história, especialmente para seres com cérebros tão inferiores.}{}{}{}{ }
+{271}{Eu os vi pilotando suas máquinas.}{}{5}{lf4 0}{220}{lf4 1 }
+{280}{Se eu trouxesse uma prova do voo deles, você me treinaria?}{}{5}{lf3 1, qu1141 0}{52}{qu1141 1 }
+{281}{Se eu trouxesse uma prova, você me treinaria para dominar reparos?}{}{5}{lf3 0, tr12 2, qu1141 0, sk12 18}{52}{qu1141 1 }
+{282}{Que tipo de prova ajudaria você?}{}{5}{lf3 0, tr12 -1, qu1141 0}{81}{qu1141 1 }
+{289}{E:}{}{5}{}{0}{ }
+{290}{Desgraçados! Como puderam usar minhas obras-primas para tamanha destruição gratuita?}{Desgraçados! Como puderam usar minhas obras-primas para tamanha destruição gratuita?}{}{}{}{ }
+{291}{Posso dizer que vi suas máquinas voando. Isso ajudaria?}{}{5}{}{240}{ }
+{300}{Você precisaria trazer para mim um mecanismo de carregamento e um rifle Clarington.}{Você precisaria trazer para mim um mecanismo de carregamento e um rifle Clarington.}{}{}{}{ru2175 }
+{301}{Por acaso tenho as peças comigo.}{}{5}{in5678, in2026}{-2}{ }
+{302}{Vou me lembrar disso. Tenha um bom dia.}{}{5}{}{0}{ }
+{310}{Claro! Qualquer coisa pelo rapaz que me impediu de ser expulso da cidade em um trilho! [Ele prossegue treinando você para dominar Reparos.]}{Claro! Qualquer coisa pela moça que me impediu de ser expulso da cidade em um trilho! [Ele prossegue treinando você para dominar Reparos.]}{}{}{}{tr12 3 }
+{311}{Obrigado.}{}{5}{}{126}{ }
+{315}{Que lutemos até a morte, seu cão miserável!}{Que lutemos até a morte, você, cão miserável!}{}{}{}{ }
+{320}{Eu poderia lhe dar um aracnídeo mecanizado experimental que venho desenvolvendo. Muito útil em uma briga, ele irá curá-lo automaticamente!}{Eu poderia lhe dar um aracnídeo mecanizado experimental que venho desenvolvendo. Muito útil em uma briga, ele irá curá-lo automaticamente!}{}{}{}{ }
+{321}{Um registro fotográfico deles voando seria suficiente?}{}{15}{ni5607}{111}{qu1141 2 }
+{322}{Alguma ideia de por onde começar a procurar?}{}{-14}{ni5607}{116}{qu1141 2 }
+{323}{Aqui está uma câmera com fotos deles voando. Isso serviria?}{}{5}{in5607}{121}{in5607 }
+{329}{Não acredito que teria utilidade para um dispositivo como esse.}{}{5}{}{91}{ }
+{330}{Seria um prazer instruí-lo nos mistérios do reparo. [Ele prossegue treinando você para dominar Reparos.]}{Seria um prazer instruí-la nos mistérios do reparo. [Ele prossegue treinando você para dominar Reparos.]}{}{}{}{tr12 3, re+10, rq2171 }
+{331}{Obrigado.}{}{5}{lf15 0}{126}{qu1141 4 }
+{332}{Obrigado.}{}{5}{lf15 1}{0}{qu1141 4 }
+{340}{[Ele remexe em algumas peças no chão.] Está aqui em algum lugar... ah, sim! Aqui está, o primeiro aracnídeo médico do mundo! [Ele o entrega a você.] Ah, e é melhor levar os planos dele, caso precise deles.}{[Ele remexe em algumas peças no chão.] Está aqui em algum lugar... ah, sim! Aqui está, o primeiro aracnídeo médico do mundo! [Ele o entrega a você.] Ah, e é melhor levar os planos dele, caso precise deles.}{}{}{}{qu1141 4, in-5679, re+10, in-5253 }
+{342}{Você poderia me treinar para ser um mestre em reparos também?}{}{5}{tr12 2, sk12 18}{330}{qu1141 4 }
+{343}{Você poderia me treinar para ser um mestre em reparos também?}{}{5}{tr12 2, sk12 -17}{360}{ }
+{349}{Obrigado.}{}{5}{}{0}{ }
+{350}{Você não possui habilidade suficiente para ser treinado como mestre. Além disso, receio que logo deixarei a cidade, antes que seja jogado na prisão.}{Você não possui habilidade suficiente para ser treinado como mestre. Além disso, receio que logo deixarei a cidade, antes que seja jogado na prisão.}{}{}{}{ }
+{351}{Por quê? O que aconteceu?}{}{5}{ra-8}{42}{ }
+{352}{Por quê? O que aconteceu?}{}{5}{ra 8}{62}{ }
+{360}{Claro. Volte assim que suas habilidades estiverem no nível exigido.}{Claro. Volte assim que suas habilidades estiverem no nível exigido.}{}{}{}{ }
+{361}{E:}{}{1}{}{0}{ }
+

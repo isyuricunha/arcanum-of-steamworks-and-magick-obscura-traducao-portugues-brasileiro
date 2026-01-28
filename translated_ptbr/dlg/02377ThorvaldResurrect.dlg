@@ -1,0 +1,16 @@
+{1}{Obrigado por me ressuscitar.}{Obrigado por me ressuscitar.}{}{1}{}{ }
+{2}{Isso nem merece ser mencionado, na verdade. Você gostaria de se juntar a mim novamente?}{}{5}{}{15}{jo 0 10 lf30 1}
+{3}{Você se une.}{}{-4}{}{15}{jo 0 10 lf30 1}
+{9}{E:}{}{1}{}{0}{  lf30 1}
+{10}{Claro.}{Claro. Nem precisa perguntar.}{}{2}{}{ }
+{11}{Vamos então.}{}{5}{}{-8}{ }
+{12}{Tá.}{}{-4}{}{-8}{ }
+{15}{Deseja algo mais?}{Deseja algo mais?}{}{3}{}{ }
+{16}{N:}{}{1}{}{0}{ }
+{20}{Essa dor é insuportável... por favor, me liberte...}{Essa dor é insuportável... por favor, me liberte...}{}{4}{}{ }
+{25}{Mais uma vez, obrigado por me trazer de volta a este mundo. O que posso fazer por você?}{Mais uma vez, obrigado por me trazer de volta a este mundo. O que posso fazer por você?}{}{5}{}{ }
+{26}{Isso nem merece ser mencionado, na verdade. Você gostaria de se juntar a mim novamente?}{}{5}{}{15}{jo 0 10}
+{27}{Você se une.}{}{-4}{}{15}{jo 0 10}
+{33}{E:}{}{1}{}{0}{ }
+{34}{Agradeço por me erguer dos mortos, amigo...}{Agradeço por me erguer dos mortos, amigo...}{}{}{}{ }
+

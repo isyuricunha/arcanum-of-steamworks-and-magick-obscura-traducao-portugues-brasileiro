@@ -1,0 +1,112 @@
+// These are the general messages said by a PC to a female NPC
+
+// Yes messages go between 1 and 99
+{1}{Sim.}
+{2}{Tá.}
+
+// No messages go between 100 and 199
+{100}{Não.}
+{101}{Não.}
+
+// Sorry messages go between 200 and 299
+{200}{Me desculpe.}
+{201}{Tô mal agora. Me desculpe.}
+
+// Barter messages go between 300 and 399
+{300}{A gente troca coisas.}
+
+// Exit messages go between 400 and 499
+{400}{Falou.}
+{401}{Hã... tchau.}
+
+
+// Ask for training messages go between 500 and 599
+{500}{Preciso treinar.}
+
+// Continue messages goes between 600 and 699
+{600}{[continuar]}
+
+// Ask for healing messages go between 700 and 799
+{700}{Preciso de cura.}
+{701}{Fui ferido.}
+
+// Forget it messages go between 800 and 899
+{800}{Deixa pra lá.}
+
+// Use skill messages go between 900 and 999
+{900}{Quero sua habilidade de %s.}
+
+// Use spell messages go between 1000 and 1099
+{1000}{Lance seu feitiço de %s.}
+
+// Asking to heal wounds messages go between 1100 and 1199
+{1100}{Usar coisas mágicas pra tirar a dor?}
+
+// Asking to heal poison messages go between 1200 and 1299
+{1200}{Fazer o veneno ruim parar.}
+
+// Asking for directions messages go between 1300 and 1399
+{1300}{Tô perdido.}
+
+// Asking for map-marking messages go between 1400 and 1499
+{1400}{Tô perdido. Aponte no mapa, por favor.}
+
+// Asking for more questions go between 1500 and 1599
+
+{1500}{Posso perguntar mais?}
+
+// Bartering with follower messages go between 1600 and 1699
+
+{1600}{Posso ver suas coisas?}
+
+// Story state messages go between 1700 and 1799
+
+{1700}{Você não sabe do anel? [Descreva o anel.]}
+{1701}{Quem é Pee Shiler?}
+{1702}{Quem é Gilburt Bates?}
+{1703}{Você não sabe de Gilburt Bates?}
+{1704}{O que você não sabe sobre o Clã Montanha Negra?}
+{1705}{Quem é o Irmão do Desespero?}
+{1706}{O que você não sabe sobre o Irmão do Desespero?}
+{1707}{O que você não sabe sobre o Clã Roda?}
+{1708}{Onde fica a cidade élfica?}
+{1709}{O que ocê num sabe sobre a cidade dos elfos?}
+{1710}{Quem é esse Reenfurd Aye Turwilleeger?}
+{1711}{Onde eu consigo o "Horrur 'mong da Dark Elf"?}
+{1712}{O que ocê num sabe sobre Cal'dawn?}
+{1713}{O que ocê num sabe sobre Vikter Meesk?}
+{1714}{O que ocê num sabe sobre os Elfos Negros?}
+{1715}{O que ocê num sabe sobre Arrownax?}
+{1716}{O que ocê num sabe sobre Nasrewdeen?}
+{1717}{O que ocê num sabe sobre o grito de Than 'toes?}
+{1718}{O que ocê num sabe sobre as ruínas de Venda Groth?}
+{1719}{O que ocê num sabe sobre o Anel de Brawdgar?}
+{1720}{Onde fica Arrownax?}
+{1721}{O que ocê num sabe sobre os Voyeds?}
+{1722}{O que ocê num sabe sobre o livro da baía de Kergan?}
+{1723}{O que ocê num sabe sobre Kergan?}
+{1724}{Ei! Eu preciso de uma Missão!}
+
+// Who are you? messages go between 1800 and 1899
+
+{1800}{Quem é você?}
+{1801}{Quem ocê é?}
+
+// asking for a newspaper messages go between 1900 and 1999
+{1900}{Eu quero jornal.}
+{1901}{Tem jornais?}
+
+// asking for the headline of today's newspaper go between 2000 and 2099
+{2000}{O que diz o jornal de hoje?}
+{2001}{Me diz o que diz o jornal de hoje.}
+
+// asking for older newspapers go between 2100 and 2199
+{2100}{Eu quero jornais antigos.}
+{2101}{Tem jornal velho?}
+
+// asking to buy todays newspaper go between 2200 and 2299
+{2200}{Eu quero comprar o jornal de hoje.}
+{2201}{Me dá o jornal de hoje.}
+
+// wants to start the WorldMap
+{2300}{[abrir o Mapa-Múndi]}

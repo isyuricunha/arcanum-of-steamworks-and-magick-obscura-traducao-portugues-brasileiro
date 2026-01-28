@@ -1,0 +1,73 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{B:}{}{1}{}{39}{}
+{3}{T:9, 12, 14, 15}{}{1}{}{39}{}
+{4}{Que tipo de mercadorias você tem aqui?}{}{5}{lf1 0}{47}{}
+{5}{Hã... O que você tem aí?}{}{-4}{lf1 0}{47}{}
+{6}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{7}{Hã... você conserta coisas?}{}{-4}{}{0}{ri}
+{8}{Você pode me treinar para ser um Especialista em reparos?}{}{5}{tr12 -1}{39}{et12 63}
+{9}{Eu qué sê um Espert' em reparo.}{}{-4}{tr12 -1}{39}{et12 63}
+{10}{E:}{}{1}{}{0}{}
+{11}{Ei! Você é um daqueles magos poderosos? ...Você é! Que honra conhecê-lo, senhor! Tem algo em que eu possa ajudá-lo hoje?}{Ei! Você é uma daquelas magas poderosas? ...Você é! Que honra conhecê-la, senhorita! Tem algo em que eu possa ajudá-la hoje?}{}{}{}{}
+{12}{T:9, 12, 14, 15}{}{1}{}{39}{}
+{13}{Que tipo de mercadorias você tem aqui?}{}{5}{lf1 0}{47}{}
+{14}{Hã... O que você tem aí?}{}{-4}{lf1 0}{47}{}
+{15}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{16}{Hã... você conserta coisas?}{}{-4}{}{0}{ri}
+{17}{B:}{}{1}{}{39}{}
+{18}{Você pode me treinar para ser um Especialista em reparos?}{}{5}{tr12 -1}{39}{et12 63}
+{19}{Eu qué sê um Espert' em reparo.}{}{-4}{tr12 -1}{39}{et12 63}
+{20}{E:}{}{1}{}{0}{}
+{21}{De volta? Bem! Devo ter coisas melhores do que pensava. Talvez tenha que aumentar os preços para meus clientes regulares, se você continuar aparecendo aqui.}{De volta? Bem! Devo ter coisas melhores do que pensava. Talvez tenha que aumentar os preços para minhas clientes regulares, se você continuar aparecendo aqui.}{}{}{}{}
+{22}{T:9, 12, 14, 15}{}{1}{}{39}{}
+{23}{B:}{}{1}{}{39}{}
+{24}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{25}{Hã... você conserta coisas?}{}{-4}{}{0}{ri}
+{26}{Você pode me treinar para ser um Especialista em reparos?}{}{5}{tr12 -1}{39}{et12 63}
+{27}{Eu qué sê um Espert' em reparo.}{}{-4}{tr12 -1}{39}{et12 63}
+{28}{E:}{}{1}{}{0}{}
+{29}{Ei! Você é um daqueles tecnólogos de quem ouço falar! Incrível! Nunca pensei que veria alguém como você "aqui"... O que "eu" posso fazer por você, afinal?}{Ei! Você é uma daquelas tecnólogas de quem ouço falar! Incrível! Nunca pensei que veria alguém como você "aqui"... O que "eu" posso fazer por você, afinal?}{}{}{}{}
+{30}{T:9, 12, 14, 15}{}{1}{}{39}{}
+{31}{Que tipo de mercadorias você tem aqui?}{}{5}{lf1 0}{47}{}
+{32}{Hã... O que você tem aí?}{}{-4}{lf1 0}{47}{}
+{33}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{34}{Hã... você conserta coisas?}{}{-4}{}{0}{ri}
+{35}{B:}{}{1}{}{39}{}
+{36}{Você pode me treinar para ser um Especialista em reparos?}{}{5}{tr12 -1}{39}{et12 63}
+{37}{Eu qué sê um Espert' em reparo.}{}{-4}{tr12 -1}{39}{et12 63}
+{38}{E:}{}{1}{}{0}{}
+{39}{Deseja mais alguma coisa?}{Deseja mais alguma coisa?}{}{}{}{}
+{40}{T:9, 12, 14, 15}{}{1}{}{39}{}
+{41}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{42}{Hã... você conserta coisas?}{}{-4}{}{0}{ri}
+{43}{B:}{}{1}{}{39}{}
+{44}{Você pode me treinar para ser um Especialista em reparos?}{}{5}{tr12 -1}{39}{et12 63}
+{45}{Eu qué sê um Espert' em reparo.}{}{-4}{tr12 -1}{39}{et12 63}
+{46}{E:}{}{1}{}{0}{}
+{47}{Ah... um pouco disso, um pouco daquilo. Nada de mais. Um monte de quinquilharias. Claro, muito está enferrujado... Mas um pouco de cuspe e polimento vai deixar tudo novinho em folha, eu acho!}{Ah... um pouco disso, um pouco daquilo. Nada de mais. Um monte de quinquilharias. Claro, muito está enferrujado... Mas um pouco de cuspe e polimento vai deixar tudo novinho em folha, eu acho!}{}{}{}{lf1 1}
+{48}{T:9, 12, 14, 15}{}{1}{}{39}{}
+{49}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{50}{Hã... você conserta coisas?}{}{-4}{}{0}{ri}
+{51}{B:}{}{1}{}{39}{}
+{52}{Você pode me treinar para ser um Especialista em reparos?}{}{5}{tr12 -1}{39}{et12 63}
+{53}{Eu qué sê um Espert' em reparo.}{}{-4}{tr12 -1}{39}{et12 63}
+{54}{E:}{}{1}{}{0}{}
+{55}{O que você quer?}{O que você quer?}{}{}{}{}
+{56}{T:9, 12, 14, 15}{}{1}{}{39}{}
+{57}{B:}{}{1}{}{39}{}
+{58}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{59}{Hã... você conserta coisas?}{}{-4}{}{0}{ri}
+{60}{Você pode me treinar para ser um Especialista em reparos?}{}{5}{tr12 -1}{39}{et12 63}
+{61}{Eu qué sê um Espert' em reparo.}{}{-4}{tr12 -1}{39}{et12 63}
+{62}{E:}{}{1}{}{0}{}
+{63}{Claro... Posso fazer isso. Mas vai custar... 500 moedas. Tem?}{Claro... Posso fazer isso. Mas vai custar... 500 moedas. Tem?}{}{}{}{}
+{64}{Sim. Aqui está.}{}{5}{$$500}{69}{}
+{65}{Isso é um pouco caro. Vou ter que conseguir mais moedas.}{}{5}{$$-499}{39}{}
+{66}{Hã... sim. Aqui.}{}{-4}{$$500}{69}{}
+{67}{Hã... Mi arruma mais moeda.}{}{-4}{$$-499}{39}{}
+{68}{F:}{}{1}{}{0}{}
+{69}{Bem, isso foi muito gentil da sua parte, @pcname@. Certo. Agora você é um Espert' em consertar coisas. Divirta-se com isso! ...Ah, é! Quase esqueci... Se algum dia quiser ser um Mestre, vá encontrar o Maxim. Ele tem uma fábrica perto de Caladon. Bem, é só isso. Tchau.}{Bem, isso foi muito gentil da sua parte, @pcname@. Certo. Agora você é uma Espert' em consertar coisas. Divirta-se com isso! ...Ah, é! Quase esqueci... Se algum dia quiser ser uma Mestra, vá encontrar o Maxim. Ele tem uma fábrica perto de Caladon. Bem, é só isso. Tchau.}{}{}{}{$$-500, tr12 2, ru2171}
+{70}{Obrigado.}{}{5}{}{39}{}
+{71}{Valeu.}{}{-4}{}{39}{}
+{72}{E:}{}{1}{}{0}{}
+

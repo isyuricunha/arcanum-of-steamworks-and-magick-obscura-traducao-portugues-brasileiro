@@ -1,0 +1,49 @@
+{1}{}{Olá...}{}{}{}{}
+{2}{Sr. Franklin?}{}{5}{lf1 0}{19}{}
+{3}{Senhor Franklin?}{}{-4}{lf1 0}{19}{}
+{4}{Sr. Franklin?}{}{5}{lf2 1, lf3 0}{41}{}
+{5}{Senhor Franklin?}{}{-4}{lf2 1, lf3 0}{41}{}
+{6}{Sr. Franklin?}{}{5}{lf3 1}{45}{}
+{7}{Senhor Franklin?}{}{-4}{lf3 1}{45}{}
+{8}{E:}{}{1}{}{0}{}
+{9}{Sr. Franklin?}{}{5}{QU1129 3}{49}{}
+{10}{Senhor Franklin?}{}{-4}{QU1129 3}{49}{}
+{19}{}{Ooooo! Você é a garota do Lil's? [passando a língua pelos lábios]}{}{}{}{}
+{20}{Hmm... sim.}{}{5}{QU1129 2}{25}{}
+{21}{Sim, estou.}{}{5}{QU1129 2}{25}{}
+{22}{Sim... sou eu.}{}{-4}{QU1129 2}{25}{}
+{23}{}{}{}{}{}{}
+{24}{}{Nãooo! Socorro! Socorro!}{}{}{}{}
+{25}{}{Oh, meu! Que achado! Que achado! Lil fez um trabalho maravilhoso desta vez. Vamos nos divertir tanto juntos! [esfregando suas grandes e ásperas palmas]}{}{}{}{re 75, lf1 1}
+{26}{Hã... Sim. Vamos começar, que tal?}{}{5}{}{33}{}
+{27}{Tenho certeza que sim...}{}{5}{}{33}{}
+{28}{Hã... só um minuto...}{}{5}{}{36}{}
+{29}{Hã... Sim. Vamos lá... Começamos.}{}{-4}{}{33}{}
+{30}{Sim, nós vamos...}{}{-4}{}{33}{}
+{31}{Hã... só um minutinho...}{}{-4}{}{36}{}
+{32}{}{}{}{}{}{}
+{33}{}{Ahh... e tão ansiosa! ...Sim. Vamos começar. Por favor... tire suas roupas, minha linda.}{}{}{}{}
+{34}{Sim, Sr. Franklin. [começa a tirar as roupas para ele]}{}{1}{}{-5}{QU1129 3}
+{35}{Hã... tá bom, Senhor Franklin. [começa a tirar as roupas para ele]}{}{1}{}{-5}{QU1129 3}
+{36}{}{O que é?}{}{}{}{re 75}
+{37}{Hã... deixa pra lá. Vamos começar, que tal?}{}{5}{}{33}{}
+{38}{Hã... não consigo fazer isso, me desculpe...}{}{5}{}{0}{lf2 1}
+{39}{Hã... é... Vamos lá... Começamos.}{}{-4}{}{33}{}
+{40}{Hã... Me não fazê isso. Me desculpa.}{}{-4}{}{0}{lf2 1}
+{41}{}{Então voltou, é? Está preparada desta vez?}{}{}{}{}
+{42}{Estou. Vamos começar.}{}{5}{}{33}{}
+{43}{Sim. Vamos lá... Começamos.}{}{-4}{}{33}{}
+{44}{F:}{}{1}{}{0}{lf3 1}
+{45}{}{Saia da minha frente, vadia. Não preciso das suas palhaçadas! Vou informar Lil sobre seu comportamento, pode ter certeza!}{}{}{}{}
+{46}{Não fale assim comigo, seu pervertido! Vou te pegar!}{}{5}{}{}{co, fl 24}
+{47}{Num fala assim cumigo! Eu te pego!}{}{-4}{}{}{co, fl 24}
+{48}{E:}{}{1}{}{0}{}
+{49}{}{[suspirando satisfeito] Chega, garoto. Três vezes é o suficiente para qualquer homem! Você despertou um verdadeiro animal em mim. Volte para a Lil. Fez um excelente trabalho. Adeus.}{}{}{}{}
+{50}{Ah, sim, senhor. Adeus.}{}{5}{}{0}{}
+{51}{Hã... É. Tchau.}{}{-4}{}{0}{}
+{52}{E:}{}{1}{}{0}{}
+{53}{Eca! Seu porco! Já estou indo... tomar um banho!}{}{5}{}{55}{}
+{54}{Eca! Ocê é um porco! Eu vô... tomá um banho!}{}{-4}{}{55}{}
+{55}{}{[acenando a mão em despedida] Não... Chega de suas travessuras. Estou cansado. Adeus.}{}{}{}{}
+{56}{Argh! [você sai furioso da sala]}{}{1}{}{0}{}
+

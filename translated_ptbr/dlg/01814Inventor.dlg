@@ -1,0 +1,59 @@
+{1}{G:}{}{}{}{}{}
+{2}{B:}{}{1}{}{29}{}
+{3}{T:12, 15, 13}{}{1}{}{29}{}
+{4}{Que tipo de mercadorias você tem aqui?}{}{5}{}{41}{}
+{5}{Hã... O que você tem aí?}{}{-4}{}{41}{}
+{6}{E:}{}{1}{}{0}{}
+{9}{[O inventor de repente parece perceber algo sobre você.] Oh, céus! Você não pode entrar na minha loja, mago... Certamente deve saber o efeito que sua aura terá sobre meus finos instrumentos? Você deve sair imediatamente!}{[O inventor de repente parece perceber algo sobre você.] Oh, céus! Você não pode entrar na minha loja, mago... Certamente deve saber o efeito que sua aura terá sobre meus finos instrumentos? Você deve sair imediatamente!}{}{}{}{lf1 1}
+{10}{I:}{}{1}{}{0}{re -3}
+{11}{F:}{}{1}{}{0}{re -1}
+{12}{E:}{}{1}{}{0}{}
+{15}{Você voltou à minha humilde loja! É bom vê-lo novamente, @pcname@. Em que posso ajudá-lo?}{Você voltou à minha humilde loja! É bom vê-la novamente, @pcname@. Em que posso ajudá-la?}{}{}{}{}
+{16}{T:12, 15, 13}{}{1}{}{29}{}
+{17}{B:}{}{1}{}{29}{}
+{18}{E:}{}{1}{}{0}{}
+{21}{Oh, meu! Oh, meu... É uma honra estar na presença de um grande tecnólogo como o senhor. Talvez um dia eu também seja capaz de tamanha genialidade. Por favor... o que posso fazer para ajudá-lo, senhor?}{Oh, meu! Oh, meu... É uma honra estar na presença de uma grande tecnóloga como a senhora. Talvez um dia eu também seja capaz de tamanha genialidade. Por favor... o que posso fazer para ajudá-la, senhora?}{}{}{}{}
+{22}{T:12, 15, 13}{}{1}{}{29}{}
+{23}{Que tipo de mercadorias você tem aqui?}{}{5}{}{41}{}
+{24}{Hã... O que você tem aí?}{}{-4}{}{41}{}
+{25}{B:}{}{1}{}{29}{}
+{26}{E:}{}{1}{}{0}{}
+{29}{Deseja mais alguma coisa?}{Deseja mais alguma coisa?}{}{}{}{}
+{30}{T:12, 15, 13}{}{1}{}{29}{}
+{33}{B:}{}{1}{}{29}{}
+{34}{Onde posso encontrar um Especialista em armar e desarmar armadilhas?}{}{5}{tr15 1, tr15 -1}{61}{}
+{35}{Where Expert for to be armenin trapses be?}{}{-4}{tr15 1, tr15 -1}{61}{}
+{36}{Onde posso encontrar um Especialista em treinamento com armas de fogo?}{}{5}{tr13 1, tr13 -1}{65}{}
+{37}{Wer Expert guns guy be?}{}{-4}{tr13 1, tr13 -1}{65}{}
+{38}{Onde posso encontrar um Especialista em treinamento de chaveiro?}{}{5}{tr12 1, tr12 -1}{69}{}
+{39}{Where lock picken' guy expurt guy bein'?}{}{-4}{tr12 1, tr12 -1}{69}{}
+{40}{E:}{}{1}{}{0}{}
+{41}{Bem, sendo um inventor, tenho uma grande variedade de peças tecnológicas em mãos. Tenho muitos componentes elétricos, alguns elementos mecânicos e explosivos, e também mantenho um estoque de combustível e cargas. Alguma dessas coisas lhe interessaria?}{Bem, sendo um inventor, tenho uma grande variedade de peças tecnológicas em mãos. Tenho muitos componentes elétricos, alguns elementos mecânicos e explosivos, e também mantenho um estoque de combustível e cargas. Alguma dessas coisas lhe interessaria?}{}{}{}{}
+{42}{T:12, 15, 13}{}{1}{}{29}{}
+{45}{B:}{}{1}{}{29}{}
+{46}{E:}{}{1}{}{0}{}
+{47}{O que você quer, @pcname@?}{O que você quer, @pcname@?}{}{}{}{}
+{48}{T:12, 15, 13}{}{1}{}{29}{}
+{49}{B:}{}{1}{}{29}{}
+{52}{E:}{}{1}{}{0}{}
+{53}{Não posso permitir magos do seu calibre dentro da minha loja. Há dispositivos tecnológicos finos por aqui!}{Não posso permitir magos do seu calibre dentro da minha loja. Há dispositivos tecnológicos finos por aqui!}{}{}{}{}
+{54}{I:}{}{1}{}{0}{re -3}
+{55}{F:}{}{1}{}{0}{re -1}
+{56}{E:}{}{1}{}{0}{}
+{57}{Deseja destruir minhas finas mercadorias? Saia da minha loja, mago!}{Deseja destruir minhas finas mercadorias? Saia da minha loja, mago!}{}{}{}{}
+{58}{I:}{}{1}{}{0}{re -3}
+{59}{F:}{}{1}{}{0}{re -1}
+{60}{E:}{}{1}{}{0}{}
+{61}{Você pode tentar procurar em Caladon ou Roseborough, ou talvez no Clã Roda dos Anões, por alguém que possa lhe dar treinamento Especializado em desarmar armadilhas.}{Você pode tentar procurar em Caladon ou Roseborough, ou talvez no Clã Roda dos Anões, por alguém que possa lhe dar treinamento Especializado em desarmar armadilhas.}{}{}{}{ru 2184}
+{62}{Obrigado.}{}{5}{}{29}{}
+{63}{Valeu.}{}{-4}{}{29}{}
+{64}{E:}{}{1}{}{0}{}
+{65}{Você pode encontrar treinamento mais avançado em armas de fogo em Shrouded Hills ou Blackroot.}{Você pode encontrar treinamento mais avançado em armas de fogo em Shrouded Hills ou Blackroot.}{}{}{}{ru 2182}
+{66}{Obrigado.}{}{5}{}{29}{}
+{67}{Valeu.}{}{-4}{}{29}{}
+{68}{E:}{}{1}{}{0}{}
+{69}{Eu sei que há um sujeito em Blackroot, mas qualquer um dos mercadores de sucata que se especializam em negociar metal velho, peças de máquinas e outros refugo provavelmente também poderiam ajudá-lo.}{Eu sei que há um sujeito em Blackroot, mas qualquer um dos mercadores de sucata que se especializam em negociar metal velho, peças de máquinas e outros refugo provavelmente também poderiam ajudá-lo.}{}{}{}{}
+{70}{Obrigado.}{}{5}{}{29}{}
+{71}{Valeu.}{}{-4}{}{29}{}
+{72}{E:}{}{1}{}{0}{}
+

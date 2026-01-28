@@ -1,0 +1,131 @@
+// These are class-based NPC messages, said by dumb male NPC's to male PC's
+
+// Asking for money messages start at 1000. 
+
+{1000}{Eu quero %d moedas. Tá bom?}
+
+
+// Not enough money messages start at 2000. 
+
+{2000}{Você não tem a grana!}
+
+
+
+// Offers to train a beginner cannot 3000. 
+
+{3000}{Que treinamento você quer?}
+
+
+
+// Already trained messages start at 4000. 
+
+{4000}{Você já sabe isso!}
+
+
+
+// Not ready to train messages start at 5000. 
+
+{5000}{Você ainda não sabe o suficiente.}
+
+
+
+// Did training messages start at 6000. 
+
+{6000}{Agora você é um aprendiz!}
+
+
+
+// No rumors messages start at 7000. 
+
+{7000}{Eu não sei de nada.}
+
+
+
+// Initial great greeting messages start at 8000. 
+
+{8000}{Oi! Eu gosto de você!}
+
+
+
+// Initial good greeting messages start at 9000. 
+
+{9000}{Oi!}
+
+
+// Initial neutral greeting messages start at 10000. 
+
+{10000}{Hã?}
+
+
+
+// Second great greeting messages start at 11000. 
+
+{11000}{Oi de novo! Eu ainda gosto de você!}
+
+
+// Second good greeting messages start at 12000. 
+
+{12000}{Te vejo de novo! Oi de novo!}
+
+
+
+// Second neutral greeting messages start at 13000. 
+
+{13000}{Urgh.}
+
+
+// Offer healing messages start at 14000. 
+
+{14000}{Que cura você quer?}
+
+
+
+// Finished messages start at 15000. 
+
+{15000}{Eu terminei.}
+
+
+
+
+// Greeting a PC in underwear messages start at 16000. 
+
+{16000}{Hehe, você tá peladão!}
+
+
+
+
+// Greeting a PC in barbarian armor messages start at 17000. 
+
+{17000}{Você parece um cara durão.}
+
+
+
+
+// Fear of associates messages start at 18000. 
+
+{18000}{Seus amigos fedem.}
+
+
+
+// Body spell messages start at 19000. 
+
+{19000}{Você tem uma cara engraçada.}
+
+
+
+
+// Polymorph messages start at 20000. 
+
+{20000}{Oi. Você é o jantar?}
+
+
+// Mirror image messages start at 21000. 
+
+{21000}{NÃO UTILIZADO}
+
+
+
+
+// Invisibility messages start at 22000. 
+
+{22000}{Eu não te vejo!}

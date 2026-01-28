@@ -1,0 +1,459 @@
+{1}{Ora, olá. Seja bem-vindo ao estabelecimento de Madame Lil, o melhor de Tarant.}{Bem-vinda ao estabelecimento de Madame Lil, senhorita.}{}{}{}{re 50}
+{2}{E a senhora seria Madame Lil?}{1}{5}{lf1 0}{78}{}
+{3}{A senhora é a Madame?}{1}{5}{lf1 0}{78}{}
+{4}{A senhora é a Madame?}{0}{5}{lf1 0}{78}{}
+{5}{Saudações, Madame Lil.}{}{5}{lf1 1, QB1128 3}{181}{}
+{6}{Saudações, Madame Lil.}{}{5}{lf1 1, QU1128 4}{233}{}
+{7}{Ainda não consegui o colar.}{}{5}{QU1125 2, ni2826}{294}{}
+{8}{Tenho o colar da Cassie.}{1}{5}{Qa1125 2, in 2826}{297}{}
+{9}{Tenho o colar da Cassie.}{0}{5}{Qa1125 2, in 2826}{300}{}
+{10}{O colar da Cassie quebrou...}{}{5}{QU1125 6}{71}{}
+{11}{Ainda estou tentando receber de Mr. Langley...}{}{5}{QU1126 2}{313}{}
+{12}{Consegui a moeda de Mr. Langley!}{1}{5}{QU1126 3, $$400}{316}{}
+{13}{Consegui a moeda de Mr. Langley!}{0}{5}{QU1126 3, $$400}{319}{}
+{14}{Consegui a moeda de Mr. Langley!}{}{5}{QU1126 6, $$400}{}{co, fl 64}
+{15}{Ainda não entreguei o pacote...}{1}{5}{QU1127 2}{332}{}
+{16}{Entreguei o presente para a Sra. Halster.}{1}{5}{QU1127 3, ni5667}{335}{}
+{17}{Entreguei o presente para a Sra. Halster.}{1}{5}{QU1127 6, ni5667}{}{co, fl 64}
+{18}{Sinto muito, mas deixei o presente cair...}{1}{5}{QU1127 2, ni5667}{65}{}
+{19}{Ainda estou procurando um medalhão.}{}{5}{QU1128 2, ni2827}{350}{}
+{20}{Consegui o medalhão.}{1}{5}{QU1128 2, in2827}{353}{}
+{21}{Consegui o medalhão.}{0}{5}{QU1128 2, in2827}{356}{}
+{22}{Ainda não vi o Sr. Franklin.}{0}{5}{QU1129 2}{457}{}
+{23}{Já cuidei do Sr. Franklin...}{0}{5}{QU1129 3}{462}{}
+{24}{Já cuidei do Sr. Franklin...}{0}{5}{QU1129 6}{}{co, fl 64}
+{25}{Gostaria de ser treinado como Especialista em persuasão.}{}{5}{tr11 1, tr11-1}{472}{}
+{34}{A senhora é a Madama?}{}{-4}{lf1 0}{78}{}
+{35}{Oi, Madama.}{}{-4}{lf1 1, QB1128 3}{181}{}
+{36}{Oi, Madama.}{}{-4}{lf1 1, QU1128 4}{233}{}
+{37}{Num consegui o colar ainda...}{}{-4}{QU1125 2}{294}{}
+{38}{Eu fiquei sem pescoço!}{1}{-4}{QU1125 3, in 2826}{297}{}
+{39}{Eu fiquei sem pescoço!}{0}{-4}{QU1125 3, in 2826}{300}{}
+{40}{O sem-pescoço quebrou...}{}{-4}{QU1125 6, in 2826}{71}{}
+{41}{Eu ainda não recebi moeda...}{}{-4}{QU1126 2}{313}{}
+{42}{Eu recebi moeda!}{1}{-4}{QU1126 3, $$400}{316}{}
+{43}{Eu recebi moeda!}{0}{-4}{QU1126 3, $$400}{319}{}
+{44}{Eu recebi moeda!}{}{-4}{QU1126 6, $$400}{}{co, fl 64}
+{45}{Eu ainda não dei presente...}{1}{-4}{QU1127 2}{332}{}
+{46}{Eu dei presente para a Senhora Halster...}{1}{-4}{QU1127 3, ni5667}{335}{}
+{47}{Eu dei presente para a Senhora Halster...}{1}{-4}{QU1127 6, ni5667}{}{co, fl 64}
+{48}{Hmm... Eu derrubei o presente...}{1}{-4}{QU1127 2, ni5667}{65}{}
+{49}{Eu não tenho medalhão.}{}{-4}{QU1128 2, ni2827}{350}{}
+{50}{Eu consegui o medalhão!}{1}{-4}{QU1128 2, in2827}{353}{}
+{51}{Eu consegui o medalhão!}{0}{-4}{QU1128 2, in2827}{356}{}
+{52}{Eu ainda não vi o Senhor Franklin...}{}{-4}{QU1129 2}{457}{}
+{53}{Eu fiz pro Senhor Franklin...}{}{-4}{QU1129 3}{462}{}
+{54}{Eu fiz pro Senhor Franklin...}{}{-4}{QU1129 6}{}{co, fl 64}
+{55}{Eu vou ficar Expert em perseguição no trem?}{}{-4}{tr11 1, tr11-1}{472}{}
+{63}{E:}{}{1}{}{0}{}
+{64}{Assassino! Você também vai morrer!}{}{}{}{}{}
+{65}{Ah não! Esse vaso era requintado! ...e muito frágil também. Não acredito que você o quebrou! Custou uma pequena fortuna! [parecendo extremamente perturbada] ...Receio que não precise mais da sua ajuda. Se estiver interessado numa garota, terá que pagar o preço cheio @pcname@.}{}{}{}{}{}
+{66}{Sinto muito.}{}{5}{}{0}{}
+{67}{Bem... Vou levar meus negócios para outro lugar então.}{}{5}{}{0}{}
+{68}{Me desculpe.}{}{-4}{}{0}{}
+{69}{Presente estúpido.}{}{-4}{}{0}{}
+{70}{E:}{}{1}{}{0}{}
+{71}{Ah não! Esse colar era requintado! ...tão belo trabalho em metal, e joias valiosas. Não acredito que você o quebrou! Custou uma pequena fortuna! [parecendo extremamente perturbada] ...Receio que não precise mais da sua ajuda. Se estiver interessado numa garota, terá que pagar o preço cheio @pcname@.}{}{}{}{}{}
+{72}{Sinto muito.}{}{5}{}{0}{}
+{73}{Bem... Vou levar meus negócios para outro lugar então.}{}{5}{}{0}{}
+{74}{Me desculpe.}{}{-4}{}{0}{}
+{75}{Sem-pescoço estúpido!}{}{-4}{}{0}{}
+{76}{E:}{}{1}{}{0}{}
+{77}{Nicholas! Remova esse rufião imediatamente!}{Nicholas! Remova essa meretriz imediatamente!}{}{}{}{}
+{78}{Sim, sou eu. Sou a Madame Lil.}{Sou eu mesma.}{}{}{}{lf1 1}
+{79}{Um prazer. Você vai me contar sobre o seu estabelecimento?}{}{5}{}{112}{}
+{80}{Madame Lil's? Que tipo de estabelecimento é este?}{}{5}{}{112}{}
+{81}{Eu já imaginava. Que tipo de lugar é este?}{}{5}{}{112}{}
+{82}{Madum Lils? Que lugá é esse?}{}{-4}{}{112}{}
+{83}{Hã... Oi. Que lugá é esse?}{}{-4}{}{112}{}
+{84}{E:}{}{1}{}{0}{}
+{85}{O que posso fazer por você?}{Posso ajudar em algo?}{}{}{}{}
+{86}{Quanto custa uma garota?}{}{5}{lf2 0, lf4 0}{118}{}
+{87}{Quanto custa uma garota?}{}{5}{lf2 0, lf4 1}{383}{}
+{88}{Posso levar duas?}{}{5}{lf4 0}{157}{}
+{89}{Posso levar duas?}{}{5}{lf4 1}{409}{}
+{90}{Meus gostos são um pouco incomuns. Vocês têm algo mais?}{}{5}{}{140}{}
+{91}{Estou procurando trabalho...}{0}{5}{lf4 0, QU1125 0, QU1129 0}{429}{}
+{92}{Estou procurando trabalho...}{0}{5}{lf4 1, QU1125 0, QU1129 0}{438}{}
+{98}{Quanto custa uma garota?}{}{-4}{lf2 0, lf4 0}{118}{}
+{99}{Quanto custa uma garota?}{}{-4}{lf2 0, lf4 1}{383}{}
+{100}{Quanto custam duas?}{}{-4}{lf4 0}{157}{}
+{101}{Quanto custam duas?}{}{-4}{lf4 1}{409}{}
+{102}{Eu num quero garota... Eu quero outra coisa... Vocês têm?}{}{-4}{}{140}{}
+{103}{Eu posso trabalhar aqui?}{0}{-4}{lf4 0, QU1125 0, QU1129 0}{429}{}
+{104}{Eu posso trabalhar aqui?}{0}{-4}{lf4 1, QU1125 0, QU1129 0}{438}{}
+{105}{E:}{}{1}{}{0}{}
+{112}{Certamente. Este é o melhor bordel de toda Tarant. Seus ambientes são refinados, a atmosfera é relaxada, e reuni as mulheres mais requintadas disponíveis... tudo para satisfazer seus desejos.}{Certamente. Este é o melhor bordel de toda Tarant. Seus ambientes são refinados, a atmosfera é relaxada, e reuni as mulheres mais requintadas disponíveis para o uso de nossos clientes.}{}{}{}{lf0 1}
+{113}{Este lugar definitivamente é a minha cara.}{1}{5}{}{85}{}
+{114}{Ah! Isso explica a falta de roupas...}{0}{5}{}{85}{}
+{115}{Oh...}{0}{-4}{}{85}{}
+{116}{Ah! Eu gosto!}{1}{-4}{}{85}{}
+{117}{E:}{}{1}{}{0}{}
+{118}{Minhas garotas são as melhores de Tarant. Você verá que elas são bastante habilidosas na disciplina carnal. Basta dizer seu desejo, e elas satisfarão sua paixão. Por 100 moedas, você pode escolher uma garota.}{Ahh... Minhas desculpas. Eu não tinha percebido que você era desse tipo... Minhas garotas ficarão felizes em satisfazê-lo, meu caro. Por 100 moedas, você pode escolher a garota que mais lhe agradar.}{}{}{}{lf2 1}
+{119}{Eu gostaria de experimentar uma. Aqui estão 100 moedas.}{}{5}{$$ 100}{126}{}
+{120}{Eu gostaria de experimentar uma. Aqui estão 100 moedas.}{}{5}{$$ -99}{132}{}
+{121}{Isso está um pouco caro. Vocês têm opções mais baratas?}{}{5}{}{140}{}
+{122}{Eu quero uma. Aqui estão 100 moedas.}{}{-4}{$$ 100}{126}{}
+{123}{Eu quero uma. Aqui estão 100 moedas.}{}{-4}{$$ -99}{132}{}
+{124}{Muito obrigado! Tem algo mais barato?}{}{-4}{}{140}{}
+{125}{E:}{}{1}{}{0}{}
+{126}{Escolha o que você quer...}{Escolha o que você quer...}{}{}{}{$$-100, GF2334 1, GF2338 1}
+{127}{Obrigada, Madame Lil.}{}{5}{}{0}{}
+{128}{Obrigadu, Madama.}{}{-4}{}{0}{}
+{129}{Escolha o que você quer...}{Escolha o que você quer...}{}{}{}{$$-50, GF2334 1, GF2338 1}
+{130}{Obrigada, Madame Lil.}{}{5}{}{0}{}
+{131}{Obrigadu, Madama.}{}{-4}{}{0}{}
+{132}{Vejo que está meio sem moedas. Talvez se interesse por algo um pouco menos caro?}{Vejo que está meio sem moedas. Hmmm...}{}{}{}{}
+{133}{Ah, sim!}{1}{5}{$$-99}{140}{}
+{134}{Ah, sim!}{1}{5}{$$100, $$-174}{118}{}
+{135}{Não consigo nada por menos?}{0}{5}{}{140}{}
+{136}{Hã... Sim.}{1}{-4}{$$-99}{140}{}
+{137}{Hã... Sim.}{1}{-4}{$$100, $$-174}{118}{}
+{138}{Nada mais barato?}{0}{-4}{}{140}{}
+{139}{E:}{}{1}{}{0}{}
+{140}{Bem, por 25 moedas, temos uma coisinha para satisfazer nossa clientela mais... excêntrica, Belle, nossa ovelha.}{Bem, por 25 moedas, temos uma coisinha para satisfazer nossa clientela mais... excêntrica, Belle, nossa ovelha. Porém, não vejo como ela poderia satisfazê-lo, senhorita.}{}{}{}{lf6 1}
+{141}{Ah... Ela é exatamente o que eu preciso. Vou levá-la. Aqui estão as moedas.}{}{5}{$$ 25}{150}{}
+{142}{Ah... Ela é exatamente o que eu preciso. Vou levá-la. Aqui estão as moedas.}{1}{5}{$$ -24, QU1125 0, QU1129 0}{153}{}
+{143}{Hmm, não tenho o suficiente. Volto mais tarde.}{1}{5}{$$ -24}{0}{}
+{144}{Hã... Não, não é isso que eu quis dizer...}{}{5}{QU1125 0}{177}{}
+{145}{Ela ser boa! Eu levar ela. Aqui tá moeda.}{}{-4}{$$ 25}{150}{}
+{146}{Ela ser boa! Eu levar ela. Aqui tá moeda.}{1}{-4}{$$ -24, QU1125 0, QU1129 0}{153}{}
+{147}{Eu precisar mais moeda. Eu voltar depois.}{1}{-4}{$$ -24}{0}{}
+{148}{Hã... Não, não é isso que eu quis dizer...}{}{-4}{QU1125 0}{177}{}
+{149}{F:}{}{1}{}{0}{}
+{150}{Obrigado, senhor. Vá lá para os fundos, ela está na outra sala. Tenho certeza de que se divertirá.}{Err... Obrigada, senhorita. Vá lá para os fundos, ela está na outra sala. Hã... divirta-se.}{}{}{}{$$-25, GF2335 1, GF2338 1}
+{151}{Obrigada, Madame Lil.}{}{5}{}{0}{}
+{152}{Valeu, Madam.}{}{-4}{}{0}{}
+{153}{Oh, céus. Você está mesmo sem dinheiro. Olha só... Talvez eu tenha uma coisinha para você fazer, em troca de um tempinho com uma das garotas. Está interessado?}{Oh, céus. Você está mesmo sem dinheiro. Olha só... Talvez eu tenha uma coisinha para você fazer, em troca de um tempinho com uma das garotas. Está interessado?}{}{}{}{}
+{154}{Sim. O que você quer que eu faça?}{}{5}{}{283}{}
+{155}{Sim. O que eu faço?}{}{-4}{}{283}{}
+{156}{E:}{}{1}{}{0}{}
+{157}{Ahh. Sim, de fato. Duas mulheres estão disponíveis por um custo combinado de 175 moedas. Tenho certeza de que você achará a experiência muito prazerosa.}{Ahh... Minhas desculpas. Não tinha percebido que era esse seu tipo... Sim, de fato. Você pode escolher duas por um custo combinado de 175 moedas. Tenho certeza de que minhas garotas vão gostar da experiência tanto quanto você.}{}{}{}{lf5 1}
+{158}{Sim, eu gostaria! Aqui estão as moedas.}{}{5}{$$ 175}{171}{}
+{159}{Sim, eu gostaria! Aqui estão as moedas.}{}{5}{$$-174}{132}{}
+{160}{Oh. Qual é o preço para uma garota?}{}{5}{}{118}{}
+{161}{Tá bom! Aqui tá as moedas!}{}{-4}{$$ 175}{171}{}
+{162}{Tá bom! Aqui tá as moedas!}{}{-4}{$$-174}{132}{}
+{163}{Isso é muito! Quanto custa uma?}{}{-4}{}{118}{}
+{164}{E:}{}{1}{}{0}{}
+{165}{Ahh. Sim, de fato @pcname@. Isso custará 85 moedas, por favor.}{Ahh. Sim, @pcname@. Isso custará 85 moedas, por favor.}{}{}{}{}
+{166}{Aqui estão as moedas.}{}{5}{$$85}{174}{}
+{167}{Aqui estão as moedas.}{}{5}{$$-84}{132}{}
+{168}{Aqui tá as moedas.}{}{-4}{$$85}{174}{}
+{169}{Aqui tá as moedas.}{}{-4}{$$-84}{132}{}
+{170}{E:}{}{1}{}{0}{}
+{171}{Obrigado @pcname@. Escolha quaisquer duas que desejar. Sei que você vai se divertir muito.}{Obrigado @pcname@. Escolha quaisquer duas que desejar. Sei que você vai ter um tempo maravilhoso.}{}{}{}{$$-175, GF2336 1, GF2338 1}
+{172}{Obrigado, Madame Lil.}{}{5}{}{0}{}
+{173}{Valeu, Madam.}{}{-4}{}{0}{}
+{174}{Obrigado @pcname@. Escolha quaisquer duas que desejar. Sei que você vai se divertir muito.}{Obrigado @pcname@. Escolha quaisquer duas que desejar. Sei que você vai ter um tempo maravilhoso.}{}{}{}{$$-85, GF2336 1, GF2338 1}
+{175}{Obrigado, Madame Lil.}{}{5}{}{0}{}
+{176}{Valeu, Madam.}{}{-4}{}{0}{}
+{177}{Olha só... Talvez eu tenha uma coisinha para você fazer, em troca de um tempinho com uma das garotas. Está interessado?}{Olha só... Talvez eu tenha uma coisinha para você fazer, em troca de um tempinho com uma das garotas. Está interessado?}{}{}{}{}
+{178}{Sim. O que você quer que eu faça?}{}{5}{}{283}{}
+{179}{Sim. O que eu faço?}{}{-4}{}{283}{}
+{180}{E:}{}{1}{}{0}{}
+{181}{Olá @pcname@. É bom ver você de novo. O que posso fazer por você?}{Olá de novo @pcname@. O que posso fazer por você?}{}{}{}{}
+{182}{Quanto custa uma moça?}{}{5}{lf2 0, lf4 0}{118}{}
+{183}{Quanto custa uma moça?}{}{5}{lf2 0, lf4 1}{383}{}
+{184}{Eu gostaria de uma moça...}{}{5}{lf2 1, lf4 0, $$100}{245}{}
+{185}{Eu gostaria de uma moça...}{}{5}{lf2 1, lf4 1, $$150}{253}{}
+{186}{Posso conseguir duas moças?}{}{5}{lf5 0, lf4 0}{157}{}
+{187}{Posso conseguir duas moças?}{}{5}{lf5 0, lf4 1}{409}{}
+{188}{Eu gostaria de 2 moças...}{}{5}{lf5 1, lf4 0, $$175}{261}{}
+{189}{Eu gostaria de 2 moças...}{}{5}{lf5 1, lf4 1, $$300}{267}{}
+{190}{Meus gostos são um pouco incomuns. Você tem algo mais?}{}{5}{lf6 0}{140}{}
+{191}{Eu gostaria de passar um tempo com Belle...}{}{5}{lf6 1, $$25}{273}{}
+{192}{Há algum trabalho que eu possa fazer em troca de uma moça? Estou meio sem fundos.}{1}{5}{QU1125 0}{177}{}
+{193}{Você tem algo mais que eu possa fazer para ganhar tempo com uma moça?}{1}{5}{QU1125 4, QU1126 0}{305}{}
+{194}{Você tem algo mais que eu possa fazer para ganhar tempo com uma moça?}{1}{5}{QU1126 4, QU1127 0}{324}{}
+{195}{Você tem algo mais que eu possa fazer para ganhar tempo com uma moça?}{1}{5}{QU1127 4, QU1128 0}{338}{}
+{196}{Você tem algo mais que eu possa fazer para ganhar tempo com uma moça?}{1}{5}{QU1128 4}{361}{}
+{197}{Estou procurando trabalho...}{0}{5}{lf4 0, QU1125 0, QU1129 0}{429}{}
+{198}{Estou procurando trabalho...}{0}{5}{lf4 1, QU1125 0, QU1129 0}{438}{}
+{199}{Há mais alguma coisa que eu possa fazer?}{0}{5}{QU1125 4, QU1126 0, QU1129 0}{305}{}
+{200}{Há mais alguma coisa que eu possa fazer?}{0}{5}{QU1129 4, QU1126 0}{305}{}
+{201}{Há mais alguma coisa que eu possa fazer?}{0}{5}{QU1126 4, QU1128 0}{338}{}
+{202}{Há mais alguma coisa que eu possa fazer?}{0}{5}{QU1128 4}{361}{}
+{207}{Quanto custa uma moça?}{}{-4}{lf2 0, lf4 0}{118}{}
+{208}{Quanto custa uma moça?}{}{-4}{lf2 0, lf4 1}{383}{}
+{209}{Eu quero uma moça...}{}{-4}{lf2 1, lf4 0, $$100}{245}{}
+{210}{Eu quero uma moça...}{}{-4}{lf2 1, lf4 1, $$150}{253}{}
+{211}{Quanto custam duas moças?}{}{-4}{lf5 0, lf4 0}{157}{}
+{212}{Quanto custam duas moças?}{}{-4}{lf5 0, lf4 1}{409}{}
+{213}{Eu quero duas moças...}{}{-4}{lf5 1, lf4 0, $$175}{261}{}
+{214}{Eu quero duas moças...}{}{-4}{lf5 1, lf4 1, $$300}{267}{}
+{215}{Eu não quero uma moça... Eu quero outra coisa... Você tem?}{}{-4}{lf6 0}{140}{}
+{216}{Eu quero a Belle...}{}{-4}{lf6 1}{273}{}
+{217}{Eu não tenho moedas... Posso fazer outra coisa pra pagar pela garota?}{1}{-4}{QU1125 0}{177}{}
+{218}{Posso fazer outra coisa pra conseguir a garota?}{1}{-4}{QU1125 4, QU1126 0}{305}{}
+{219}{Posso fazer outra coisa pra conseguir a garota?}{1}{-4}{QU1126 4, QU1127 0}{324}{}
+{220}{Posso fazer outra coisa pra conseguir a garota?}{1}{-4}{QU1127 4, QU1128 0}{338}{}
+{221}{Posso fazer outra coisa pra conseguir a garota?}{1}{-4}{QU1128 4}{361}{}
+{222}{Posso trabalhar?}{0}{-4}{lf4 0, QU1125 0, QU1129 0}{429}{}
+{223}{Posso trabalhar?}{0}{-4}{lf4 1, QU1125 0, QU1129 0}{438}{}
+{224}{Mais trabalho?}{0}{-4}{QU1125 4, QU1126 0, QU1129 0}{305}{}
+{225}{Mais trabalho?}{0}{-4}{QU1129 4, QU1126 0}{305}{}
+{226}{Mais trabalho?}{0}{-4}{QU1126 4, QU1128 0}{338}{}
+{227}{Mais trabalho?}{0}{-4}{QU1128 4}{361}{}
+{232}{E:}{}{1}{}{0}{}
+{233}{Olá @pcname@. É bom te ver de novo. O que posso fazer por você?}{Olá @pcname@. É bom te ver de novo. O que posso fazer por você?}{}{}{}{}
+{234}{Eu gostaria de uma garota...}{}{5}{lf4 0}{277}{}
+{235}{Eu gostaria de uma garota...}{}{5}{lf4 1}{391}{}
+{236}{Eu gostaria de duas garotas...}{}{5}{lf4 0}{165}{}
+{237}{Eu gostaria de duas garotas...}{}{5}{lf4 1}{417}{}
+{238}{Eu gostaria de usar a Belle...}{}{5}{}{375}{}
+{239}{Eu quero uma garota...}{}{-4}{lf4 0}{277}{}
+{240}{Eu quero uma garota...}{}{-4}{lf4 1}{391}{}
+{241}{Eu quero 2 garotas...}{}{-4}{lf4 0}{165}{}
+{242}{Eu quero 2 garotas...}{}{-4}{lf4 1}{417}{}
+{243}{Eu quero a Bell...}{}{-4}{}{375}{}
+{244}{E:}{}{1}{}{0}{}
+{245}{Mas é claro. Isso vai custar 100 moedas, por favor.}{Mas é claro. Isso vai custar 100 moedas, por favor.}{}{}{}{}
+{246}{Aqui estão.}{}{5}{}{126}{}
+{247}{Talvez a Belle seja mais acessível...}{}{5}{lf6 1}{273}{}
+{248}{Isso é um pouco caro. Você tem alguma opção mais barata?}{}{5}{lf6 0}{140}{}
+{249}{Aqui estão 100 moedas.}{}{-4}{}{126}{}
+{250}{Talvez a Bell seja melhor...}{}{-4}{lf6 1}{273}{}
+{251}{Isso é muito! Você tem algo que custe menos?}{}{-4}{lf6 0}{140}{}
+{252}{F:}{}{1}{}{0}{}
+{253}{Mas é claro. Isso custará 150 moedas, por favor.}{Mas é claro. Isso custará 150 moedas, por favor.}{}{}{}{}
+{254}{Aqui estão.}{}{5}{}{397}{}
+{255}{Talvez Belle seja mais acessível...}{}{5}{lf6 1}{273}{}
+{256}{Isso está um pouco caro. Você tem alguma opção mais barata?}{}{5}{lf6 0}{140}{}
+{257}{Aqui estão 150 moedas.}{}{-4}{}{397}{}
+{258}{Talvez Bell seja melhor...}{}{-4}{lf6 1}{273}{}
+{259}{Isso é muito! Você tem algo que custe menos?}{}{-4}{lf6 0}{140}{}
+{260}{F:}{}{1}{}{0}{}
+{261}{Certamente. Isso custará 175 moedas, por favor.}{Certamente. Isso custará 175 moedas, por favor.}{}{}{}{}
+{262}{Aqui estão.}{}{5}{}{171}{}
+{263}{Talvez uma opção seja mais acessível...}{}{5}{lf6 1}{245}{}
+{264}{Aqui estão 175 moedas.}{}{-4}{}{171}{}
+{265}{Talvez uma seja melhor...}{}{-4}{lf6 1}{245}{}
+{266}{F:}{}{1}{}{0}{}
+{267}{Certamente. Isso custará 300 moedas, por favor.}{Certamente. Isso custará 300 moedas, por favor.}{}{}{}{}
+{268}{Aqui estão.}{}{5}{}{423}{}
+{269}{Talvez uma opção seja mais acessível...}{}{5}{lf6 1}{253}{}
+{270}{Aqui estão 300 moedas.}{}{-4}{}{423}{}
+{271}{Isso é muito... Talvez uma seja melhor...}{}{-4}{lf6 1}{253}{}
+{272}{F:}{}{1}{}{0}{}
+{273}{O que desejar, senhor. Isso custará 25 moedas, por favor.}{Hmm... O que desejar, @pcname@. Isso custará 25 moedas, por favor.}{}{}{}{}
+{274}{Aqui estão.}{}{5}{}{150}{}
+{275}{Aqui.}{}{-4}{}{150}{}
+{276}{F:}{}{1}{}{0}{}
+{277}{Qualquer coisa por você, @pcname@. Isso custará 50 moedas, por favor.}{Qualquer coisa por você, @pcname@. Isso custará 50 moedas, por favor.}{}{}{}{}
+{278}{Aqui estão.}{}{5}{$$50}{129}{}
+{279}{Estou meio sem moedas. Volto mais tarde.}{}{5}{$$-49}{0}{}
+{280}{Aqui estão 50 moedas.}{}{-4}{$$50}{129}{}
+{281}{Vou buscar mais moedas... volto já.}{}{-4}{$$-49}{0}{}
+{282}{E:}{}{1}{}{0}{}
+{283}{Cassie estava atendendo o Sr. Mooreland na casa dele semana passada... Ela esqueceu um lindo colar de rubi lá. Se você pudesse recuperá-lo, eu garantiria que uma das garotas cuidasse muito bem de você. Mas tem um porém...}{Cassie estava atendendo o Sr. Mooreland na casa dele semana passada... Ela esqueceu um lindo colar de rubi lá. Se você pudesse recuperá-lo, eu deixaria você escolher entre uma recompensa de 100 moedas ou garantiria que uma das garotas cuidasse muito bem de você. Mas tem um porém...}{}{}{}{}
+{284}{O quê?}{}{5}{}{286}{}
+{285}{O quê?}{}{-4}{}{286}{}
+{286}{A Sra. Mooreland não pode saber que você está recuperando isso. Ela ficaria muito chateada se soubesse que o marido foi entretido por uma integrante do nosso estabelecimento. A casa deles fica na Devonshire, entre Vermillion e Kensington. Você está interessado?}{A Sra. Mooreland não pode saber que você está recuperando isso. Ela ficaria muito chateada se soubesse que o marido foi entretido por uma integrante do nosso estabelecimento. A casa deles fica na Devonshire, entre Vermillion e Kensington. Você está interessado?}{}{}{}{}
+{287}{Entendido. Vou trazê-lo em um instante.}{}{5}{}{0}{QU1125 2}
+{288}{Tá bom. Vou buscar.}{}{-4}{}{0}{QU1125 2}
+{289}{Na verdade, eu já tenho o colar para devolver a você. Aqui.}{1}{5}{in2826}{297}{}
+{290}{Hã... Eu já peguei... Devolver pra madame. Aqui.}{1}{-4}{in2826}{297}{}
+{291}{Na verdade, eu já tenho o colar para devolver a você. Aqui.}{0}{5}{in2826}{300}{}
+{292}{Hã... Eu já peguei... Devolver pra madame. Aqui.}{0}{-4}{in2826}{300}{}
+{293}{F:}{}{1}{}{0}{}
+{294}{Ah, por favor, recupere-o o mais rápido possível! Eu odiaria que a Sra. Mooreland o encontrasse!}{Ah, por favor, recupere-o o mais rápido possível! Eu odiaria que a Sra. Mooreland o encontrasse!}{}{}{}{}
+{295}{Vou pegá-lo em breve, não se preocupe.}{}{5}{}{0}{}
+{296}{Eu pego.}{}{-4}{}{0}{}
+{297}{Ah, muito bem! [ela pega o colar de você] Então, como prometi, agora você pode escolher uma garota para um pouco de diversão. Aproveite sua recompensa.}{}{}{}{}{in 2826, GF2334 1, QU1125 4, GF2338 1, gf2335 0, gf2336 0}
+{298}{Obrigada, Madame Lil.}{}{5}{}{0}{}
+{299}{Obrigadu, madama.}{}{-4}{}{0}{}
+{300}{}{Ah, muito bem! [ela pega o colar de você] Agora então, você prefere uma garota ou as 100 moedas?}{}{}{}{in 2826, QU1125 4, GF2338 1}
+{301}{As moedas, por favor.}{}{5}{}{445}{}
+{302}{Acho que preferiria uma garota.}{}{5}{}{442}{}
+{303}{Hã... moeda.}{}{-4}{}{445}{}
+{304}{Hã... garota.}{}{-4}{}{442}{}
+{305}{Hmm... Deixe-me pensar... [pausa por um momento] Ah, sim, eu sei exatamente o que fazer. Temos um cliente em particular que tem sido bastante negligente com seus pagamentos ultimamente. Se você pudesse convencê-lo a pagar sua dívida...}{Hmm... Deixe-me pensar... [pausa por um momento] Ah, sim, eu sei exatamente o que fazer. Temos um cliente em particular que tem sido bastante negligente com seus pagamentos ultimamente. Se você pudesse convencê-lo a pagar sua dívida... Pagarei 200 moedas, ou uma garota, o que você preferir.}{}{}{}{}
+{306}{Sem problemas. Onde posso encontrá-lo?}{}{5}{}{309}{}
+{307}{Tá bom. Onde ele tá?}{}{-4}{}{309}{}
+{308}{E:}{}{1}{}{0}{}
+{309}{O nome dele é Sr. Langley, ele é o porteiro da Estalagem Bridesdale. Ele acumulou uma dívida de 400 moedas em sua conta conosco e não fez nenhuma tentativa de pagá-la. Por favor, cuide para que ele pague. Mas cuidado, não o machuque. Não queremos prejudicar os clientes...}{O nome dele é Sr. Langley, ele é o porteiro da Estalagem Bridesdale. Ele acumulou uma dívida de 400 moedas em sua conta conosco e não fez nenhuma tentativa de pagá-la. Por favor, cuide para que ele pague. Mas cuidado, não o machuque. Não queremos prejudicar os clientes...}{}{}{}{}
+{310}{Vou resolver isso imediatamente.}{}{5}{}{0}{QU1126 2}
+{311}{Eu pego ele.}{}{-4}{}{0}{QU1126 2}
+{312}{E:}{}{1}{}{0}{}
+{313}{Por favor, resolva a situação rapidamente. Não quero que se espalhe a notícia de que permito que os clientes se divirtam de graça...}{Por favor, resolva a situação rapidamente. Não quero que se espalhe a notícia de que permito que os clientes se divirtam de graça...}{}{}{}{}
+{314}{Vou pegá-lo em breve, não se preocupe.}{}{5}{}{0}{}
+{315}{Eu pego.}{}{-4}{}{0}{}
+{316}{Obrigada, @pcname@! [pega as moedas de você] Como prometi, agora você pode escolher uma garota para um pouco de diversão. Divirta-se.}{}{}{}{}{$$-400, GF2334 1, QU1126 4, GF2338 1, gf2335 0, gf2336 0}
+{317}{Obrigada, Madame Lil.}{}{5}{}{0}{}
+{318}{Obrigada, Madam.}{}{-4}{}{0}{}
+{319}{}{Obrigado, @pcname@! [pega a moeda de você] Prefere uma garota ou as 200 moedas?}{}{}{}{$$ -400, QU1126 4, GF2338 1}
+{320}{A moeda, por favor.}{}{5}{}{448}{}
+{321}{Acho que gostaria mais de uma garota.}{}{5}{}{442}{}
+{322}{É... moeda.}{}{-4}{}{448}{}
+{323}{É... garota.}{}{-4}{}{442}{}
+{324}{Sim... preciso que algo seja feito no momento. Um de nossos melhores clientes, o Sr. Halster, está brigando com a esposa. Normalmente isso seria bom, mas ele nos visita mais quando eles estão se dando bem.}{}{}{}{}{}
+{325}{O que precisa que eu faça?}{}{5}{}{328}{}
+{326}{O que você qué que eu faça?}{}{-4}{}{328}{}
+{327}{E:}{}{1}{}{0}{}
+{328}{Gostaria que entregasse este presente para a Sra. Halster. Você deve dizer que é do marido dela. Certifique-se de que ela não saiba que você tem ligação comigo. Eles moram na esquina da Devonshire com a Vermillion. [ela olha o pacote] ...Isso deve resolver as coisas entre eles.}{}{}{}{}{}
+{329}{Vou cuidar disso agora mesmo.}{}{5}{}{0}{QU1127 2, in -5667}
+{330}{Eu pego ele.}{}{-4}{}{0}{QU1127 2, in -5667}
+{331}{E:}{}{1}{}{0}{}
+{332}{Você precisa entregar isso rápido!}{}{}{}{}{}
+{333}{Vou agora mesmo.}{}{5}{}{0}{}
+{334}{Eu ir embora.}{}{-4}{}{0}{}
+{335}{Confio que ela ficou satisfeita? [Você assente] Ah, bom. Como combinado, agora pode escolher uma garota para um pouco de diversão. Tchau-tchau.}{}{}{}{}{GF2334 1, QU1127 4, GF2338 1, gf2335 0, gf2336 0}
+{336}{Obrigado, Madame Lil.}{}{5}{}{0}{}
+{337}{Obrigada, Madam.}{}{-4}{}{0}{}
+{338}{Ah, eu aprecio sua clientela, @pcname@... [reflete por um momento] Sabe do que eu realmente gostaria?}{Ah, eu aprecio seus esforços, @pcname@... [reflete por um momento] Sabe do que eu realmente gostaria?}{}{}{}{}
+{339}{O quê?}{}{5}{}{342}{}
+{340}{O quê?}{}{-4}{}{342}{}
+{341}{E:}{}{1}{}{0}{}
+{342}{[em voz baixa] Um Medalhão da Beleza! ...Eles são muito raros e difíceis de conseguir... magia negra, sabe. Se me arranjar um, eu lhe dou... duas garotas! Seria um encontro aventureiro... O que acha?}{[em voz baixa] Um Medalhão da Beleza! ...Eles são muito raros e difíceis de conseguir... magia negra, sabe. Se me arranjar um, eu lhe dou sua escolha... 600 moedas ou duas garotas! [Seria um encontro aventureiro...] O que preferir. O que acha?}{}{}{}{}
+{343}{Combinado!}{}{5}{ni 2827}{0}{QU1128 2}
+{344}{Acontece que tenho um comigo...}{1}{5}{in 2827}{353}{QU1128 2}
+{345}{Acontece que tenho um comigo...}{0}{5}{in 2827}{356}{QU1128 2}
+{346}{Eu pego um.}{}{-4}{ni 2827}{0}{QU1128 2}
+{347}{Eu já tenho um pronto.}{1}{-4}{in 2827}{353}{QU1128 2}
+{348}{Eu já tenho um pronto.}{0}{-4}{in 2827}{356}{QU1128 2}
+{349}{E:}{}{1}{}{0}{}
+{350}{Ah, se apresse! Mal posso esperar!}{Ah, se apresse! Mal posso esperar!}{}{}{}{}
+{351}{Não se preocupe. Vou conseguir um em breve.}{}{5}{}{0}{}
+{352}{Eu pego um.}{}{-4}{}{0}{}
+{353}{Oh! Você é incrível! Deixe-me ver! [ela pega o medalhão de você] É lindo! Muito obrigada... [ainda olhando maravilhada para o medalhão] ...Vá em frente, escolha quaisquer dois que você gostar... Você com certeza mereceu.}{}{}{}{}{GF2336 1, QU1128 4, in2827, GF2338 1, gf2334 0, gf2335 0}
+{354}{Obrigada, Madame Lil.}{}{5}{}{0}{}
+{355}{Obrigadu, Madama.}{}{-4}{}{0}{}
+{356}{}{Oh! Você é incrível! Deixe-me ver! [ela pega o medalhão de você] É lindo! Muito obrigada... [ainda olhando maravilhada para o medalhão] ...Vá em frente, diga-me o que você gostaria, a moeda ou as garotas... Você com certeza mereceu.}{}{}{}{QU1128 4, in2827, GF2338 1}
+{357}{A moeda, por favor.}{}{5}{}{451}{}
+{358}{Acho que gostaria mais das garotas.}{}{5}{}{454}{}
+{359}{Hum... moeda.}{}{-4}{}{451}{}
+{360}{Hum... garotas.}{}{-4}{}{454}{}
+{361}{Sinto muito, @pcname@, mas não tenho mais nada para você fazer. Mas vou lhe dizer uma coisa... Você tem sido tão prestativo... E ainda me trouxe aquele magnífico medalhão... De agora em diante, só vou cobrar metade do preço pelas garotas. Visite com a frequência que quiser, acredito que algumas delas gostam bastante de você...}{Sinto muito, @pcname@, mas não tenho mais nada para você fazer. Bem, há uma coisa... Você tem sido tão prestativo... E ainda me trouxe aquele magnífico medalhão... Se as garotas lhe interessam... Vou cobrar apenas metade do preço. (Acredito que algumas delas gostam bastante de você...)}{}{}{}{}
+{362}{Obrigado, Madame. Gostaria de uma garota agora...}{}{5}{lf4 0}{277}{}
+{363}{Obrigado, Madame. Gostaria de uma garota agora...}{}{5}{lf4 1}{391}{}
+{364}{Obrigado. O mesmo vale para duas garotas?}{}{5}{lf4 0}{165}{}
+{365}{Obrigado. O mesmo vale para duas garotas?}{}{5}{lf4 1}{417}{}
+{366}{Quanto custa a Belle?}{}{5}{}{375}{}
+{367}{Não, obrigado, Madame. Vou seguir meu caminho. Adeus.}{0}{5}{}{0}{}
+{368}{Obrigadu, Madama. Eu pego uma garota então.}{}{-4}{lf4 0}{277}{}
+{369}{Obrigadu, Madama. Eu pego uma garota então.}{}{-4}{lf4 1}{391}{}
+{370}{Obrigadu, Madama. Eu pego 2 garotas agora?}{}{-4}{lf4 0}{165}{}
+{371}{Obrigadu, Madama. Eu pego 2 garotas agora?}{}{-4}{lf4 1}{417}{}
+{372}{Quanto custa a Bell agora?}{}{-4}{}{375}{}
+{373}{Não, obrigadu, Madama. Eu vou agora. Tchau.}{0}{-4}{}{0}{}
+{374}{E:}{}{1}{}{0}{}
+{375}{Para você? Vá em frente... Pode usá-la de graça, quantas vezes quiser. Quer usá-la agora?}{Err... Bem... [olha para você de um jeito estranho] Se você realmente a quer... hum... Ela é por conta da casa. ...Use-a quantas vezes desejar. Gostaria de passar um tempo com ela agora?}{}{}{}{}
+{376}{Sim.}{}{5}{}{380}{}
+{377}{Talvez mais tarde.}{}{5}{}{0}{}
+{378}{Sim.}{}{-4}{}{380}{}
+{379}{Talvez mais tarde.}{}{-4}{}{0}{}
+{380}{Vá lá atrás, ela está na outra sala @pcname@. Divirta-se! Tchau...}{Err... Obrigado @pcname@. Vá lá atrás, ela está na outra sala. Uh... aproveite...}{}{}{}{GF2335 1, GF2338 1}
+{381}{Obrigado, Madame Lil.}{}{5}{}{0}{}
+{382}{Obrigado, Madam.}{}{-4}{}{0}{}
+{383}{Minhas garotas são as melhores de Tarant. Você verá que elas são bastante habilidosas na disciplina carnal. Hmm... Você não é o mais bonito dos homens, não é?... Talvez eu precise pagar um pouco a mais a elas para atender você... [Pensa por um momento] Por 150 moedas, você pode escolher uma garota.}{Ahh... Minhas desculpas. Eu não tinha percebido que você era desse tipo... Minhas garotas ficarão felizes em satisfazê-lo, minha querida. [avalia você detalhadamente] Por 150 moedas, você pode escolher a garota que mais lhe agradar.}{}{}{}{lf2 1}
+{384}{Eu gostaria de experimentar uma. Aqui estão 150 moedas.}{}{5}{$$150}{397}{}
+{385}{Eu gostaria de experimentar uma. Aqui estão 150 moedas.}{}{5}{$$-149}{403}{}
+{386}{Isso está um pouco caro. Você tem alguma opção mais barata?}{}{5}{lf6 0}{140}{}
+{387}{Eu querer uma. Aqui 150 moeda.}{}{-4}{$$150}{397}{}
+{388}{Eu querer uma. Aqui 150 moeda.}{}{-4}{$$-149}{403}{}
+{389}{Isso tá caro! Você tem alguma coisa mais barata?}{}{-4}{lf6 0}{140}{}
+{390}{E:}{}{1}{}{0}{}
+{391}{Qualquer coisa por você @pcname@. Isso custará 75 moedas, por favor.}{Qualquer coisa por você @pcname@. Isso custará 75 moedas, por favor.}{}{}{}{}
+{392}{Aqui estão.}{}{5}{$$75}{400}{}
+{393}{Parece que estou um pouco sem moedas. Volto mais tarde.}{}{5}{$$-74}{0}{}
+{394}{Aqui estão 75 moedas.}{}{-4}{$$75}{400}{}
+{395}{Eu conseguir mais moeda... volto depois.}{}{-4}{$$-74}{0}{}
+{396}{E:}{}{1}{}{0}{}
+{397}{Obrigado. Escolha qual você quer...}{Obrigado. Escolha qual você quer...}{}{}{}{$$-150, GF2334 1, GF2338 1, gf2335 0, gf2336 0}
+{398}{Obrigado, Madame Lil.}{}{5}{}{0}{}
+{399}{Obrigado, Madam.}{}{-4}{}{0}{}
+{400}{Escolha qual você quer...}{Escolha qual você quer...}{}{}{}{$$-75, GF2334 1, GF2338 1, gf2335 0, gf2336 0}
+{401}{Obrigado, Madame Lil.}{}{5}{}{0}{}
+{402}{Obrigado, Madam.}{}{-4}{}{0}{}
+{403}{Vejo que você está um pouco sem moedas. Talvez se interesse por algo um pouco menos caro? Além disso, ela não se importará com sua... ahem, como posso dizer... aparência simples.}{Vejo que você está um pouco sem moedas. Talvez se interesse por algo um pouco menos caro? Além disso, ela não se importará com sua... ahem, como posso dizer... aparência simples.}{}{}{}{}
+{404}{Ah, sim!}{}{5}{$$-149}{140}{}
+{405}{Ah, sim!}{}{5}{$$150, $$-299}{383}{}
+{406}{Hmm... Sim.}{}{-4}{$$-149}{140}{}
+{407}{Hmm... Sim.}{}{-4}{$$150, $$-299}{383}{}
+{408}{F:}{}{1}{}{0}{}
+{409}{Ahh. Sim, de fato. Umm... Sua aparência é um pouco rude... Vai custar um pouco mais para convencer as garotas a darem o melhor de si. Por duas mulheres, o custo total é de 300 moedas. Garanto que você achará a experiência muito prazerosa.}{Ahh... Minhas desculpas. Eu não tinha percebido que você era desse tipo... Hmm... Sua aparência é um pouco, bem... você sabe. Custará 300 moedas por um encontro com duas das minhas garotas. Garanto que valerá cada moeda.}{}{}{}{}
+{410}{Sim, eu gostaria! Aqui está a moeda.}{}{5}{$$300}{423}{}
+{411}{Sim, eu gostaria! Aqui está a moeda.}{}{5}{$$-299}{403}{}
+{412}{Oh... Qual é o preço por uma?}{}{5}{}{383}{}
+{413}{Tá bom! Aqui tá a moeda!}{}{-4}{$$300}{423}{}
+{414}{Tá bom! Aqui tá a moeda!}{}{-4}{$$-299}{403}{}
+{415}{Isso é muito! Quanto custa uma?}{}{-4}{}{383}{}
+{416}{E:}{}{1}{}{0}{}
+{417}{Ahh. Sim, de fato @pcname@. Isso custará 150 moedas, por favor.}{Ahh. Sim, de fato @pcname@. Isso custará 150 moedas, por favor.}{}{}{}{}
+{418}{Aqui estão as moedas.}{}{5}{$$150}{426}{}
+{419}{Parece que estou um pouco sem moedas. Volto depois.}{}{5}{-149}{0}{}
+{420}{Aqui tá a moeda.}{}{-4}{$$150}{426}{}
+{421}{Vou arranjar mais moedas... volto já.}{}{-4}{-149}{0}{}
+{422}{E:}{}{1}{}{0}{}
+{423}{Obrigado @pcname@. Escolha quaisquer duas que desejar. Sei que vai se divertir muito.}{Obrigado @pcname@. Escolha quaisquer duas que desejar. Sei que vai se divertir muito.}{}{}{}{$$-300, GF2336 1, GF2338 1}
+{424}{Obrigado, Madame Lil.}{}{5}{}{0}{}
+{425}{Valeu, Madama.}{}{-4}{}{0}{}
+{426}{Obrigado @pcname@. Escolha quaisquer duas que desejar. Sei que vai se divertir muito.}{Obrigado @pcname@. Escolha quaisquer duas que desejar. Sei que vai se divertir muito.}{}{}{}{$$-150, GF2336 1, GF2338 1}
+{427}{Obrigado, Madame Lil.}{}{5}{}{0}{}
+{428}{Valeu, Madama.}{}{-4}{}{0}{}
+{429}{}{[Ela olha você de cima a baixo, calculando seu valor...] Hmm... Tenho um cliente específico... O gosto dele é incomum. Você pode ser exatamente o que ele procura para satisfazê-lo. O pagamento é generoso... 300 moedas. Você estaria interessado em atendê-lo?}{}{}{}{}
+{430}{300 moedas? Eu topo.}{}{5}{}{469}{QU1129 2}
+{431}{Uh... Não era esse tipo de trabalho que eu quis dizer.}{}{5}{}{435}{}
+{432}{Oooo... Eu topo!}{}{-4}{}{469}{QU1129 2}
+{433}{Uh... Não! Não é isso que eu quis dizer...}{}{-4}{}{435}{}
+{434}{F:}{}{1}{}{0}{}
+{435}{}{Oh... Minhas desculpas. ...tsc, tsc, que desperdício. Bem, tenho algumas coisas que precisam ser feitas. Imagino que esteja procurando tarefas mais simples, não?}{}{}{}{}
+{436}{Sim.}{}{1}{}{283}{}
+{437}{F:}{}{1}{}{0}{}
+{438}{}{[Ela olha você de cima a baixo, calculando seu valor...] Hmm... Receio que sua aparência não se encaixe bem nos meus negócios... Uma tarefa mais simples lhe interessaria?}{}{}{}{}
+{439}{Sim.}{}{5}{}{283}{}
+{440}{Sim.}{}{-4}{}{283}{}
+{441}{F:}{}{1}{}{0}{}
+{442}{}{Escolha qual você quer...}{}{}{}{GF2334 1, GF2338 1, gf2335 0, gf2336 0}
+{443}{Obrigado, Madame Lil.}{}{5}{}{0}{}
+{444}{Valeu, Madum.}{}{-4}{}{0}{}
+{445}{}{Aqui estão.}{}{}{}{$$ 100, GF2338 1}
+{446}{Obrigada, Madame Lil.}{}{5}{}{0}{}
+{447}{Valeu, Madum.}{}{-4}{}{0}{}
+{448}{}{Aqui estão.}{}{}{}{$$ 200, GF2338 1}
+{449}{Obrigada, Madame Lil.}{}{5}{}{0}{}
+{450}{Valeu, Madum.}{}{-4}{}{0}{}
+{451}{}{Aqui está. Muito obrigada!}{}{}{}{$$ 600, GF2338 1}
+{452}{Obrigada, Madame Lil.}{}{5}{}{0}{}
+{453}{Valeu, Madum.}{}{-4}{}{0}{}
+{454}{}{Pode ir. Escolha os dois que quiser. Muito obrigada!}{}{}{}{GF2336 1, GF2338 1, gf2335 0, gf2334 0}
+{455}{Obrigada, Madame Lil.}{}{5}{}{0}{}
+{456}{Valeu, Madum.}{}{-4}{}{0}{}
+{457}{}{Anda logo, garota! Já avisei a ele sobre sua visita!}{}{}{}{}
+{458}{Vou cuidar dele agora mesmo.}{}{5}{}{0}{}
+{459}{Eu ir embora.}{}{-4}{}{0}{}
+{460}{Hmm... Mudei de ideia...}{}{5}{}{465}{}
+{461}{Num qué mais não...}{}{-4}{}{465}{}
+{462}{}{Muito bem. Ele ficou muito satisfeito com seu desempenho... Espero que a experiência tenha sido pelo menos um pouco agradável para você também. Aqui estão as 300 moedas que prometi. Obrigada.}{}{}{}{$$300, GF2338 1, qu 1129 4}
+{463}{Obrigada, Madame Lil.}{}{5}{}{0}{}
+{464}{Valeu, Madum.}{}{-4}{}{0}{}
+{465}{}{Mudou de ideia, é? Bom, não posso dizer que te culpo... Ele não é o leitãozinho mais bonito do chiqueiro, né? Talvez você se interesse em completar algo um pouco mais mundano?}{}{}{}{QU1129 5}
+{466}{Sim.}{}{5}{}{283}{}
+{467}{Sim.}{}{-4}{}{283}{}
+{468}{F:}{}{1}{}{0}{}
+{469}{}{Muito bem. O nome dele é Sr. Franklin. Ele mora na esquina da Vermillion com a Grimson. Ele não é o homem mais atraente, mas é, digamos, bem dotado... Tente se divertir. Volte quando terminar @pcname@, e eu te pagarei.}{}{}{}{}
+{470}{Voltarei daqui a pouco...}{}{5}{}{0}{}
+{471}{Me volta logo.}{}{-4}{}{0}{}
+{472}{Sim @pcname@. Posso treiná-lo como Especialista. Cobro uma taxa de 500 moedas pelo meu tempo. Isso é aceitável para você?}{Sim @pcname@. Posso treiná-lo como Especialista. Cobro uma taxa de 500 moedas pelo meu tempo. Isso é aceitável para você?}{}{}{}{}
+{473}{Preciso ganhar mais moedas. Voltarei.}{}{5}{}{0}{}
+{474}{Sim. Isso é aceitável.}{}{5}{sk11 9, $$500}{489}{}
+{475}{Sim. Isso é aceitável.}{}{5}{sk11 9, $$-499}{482}{}
+{476}{Sim. Isso é aceitável.}{}{5}{sk11 -8}{485}{}
+{477}{Me arruma mais moeda. Me volta.}{}{-4}{}{0}{}
+{478}{Hmm... tá. Tá bom.}{}{-4}{sk11 9, $$500}{489}{}
+{479}{Hmm... tá. Tá bom.}{}{-4}{sk11 9, $$-499}{482}{}
+{480}{Hmm... tá. Tá bom.}{}{-4}{sk11 -8}{485}{}
+{481}{F:}{}{1}{}{0}{}
+{482}{Você está um pouco sem fundos @pcname@. Por favor, volte quando tiver a grana.}{Você está um pouco sem fundos @pcname@. Por favor, volte quando tiver a grana.}{}{}{}{}
+{483}{E:}{}{1}{}{0}{}
+{484}{F:}{}{1}{}{0}{}
+{485}{Você precisa aumentar sua habilidade antes que eu possa treiná-lo @pcname@. Por favor, retorne quando sua habilidade estiver mais desenvolvida.}{Você precisa aumentar sua habilidade antes que eu possa treiná-lo @pcname@. Por favor, retorne quando sua habilidade estiver mais desenvolvida.}{}{}{}{}
+{486}{Assim farei. Obrigado, Senhora.}{}{5}{}{0}{}
+{487}{Hmm... Tá bom.}{}{-4}{}{0}{}
+{488}{E:}{}{1}{}{0}{}
+{489}{[Ela pega as moedas de você, sussurrando seus segredos do "ofício" em seu ouvido.] Obrigado @pcname@. Você agora é um Especialista em persuasão. Se desejar estudar mais e se tornar um mestre, precisará procurar o Sr. Willoughsby. Ele tem uma casa aqui em Tarant, mas costuma viajar a negócios em Caladon.}{[Ela pega as moedas de você, tomando o tempo para lhe contar todos os seus segredos do "ofício".] Obrigado @pcname@. Você agora é um Especialista em persuasão. Se desejar estudar mais e se tornar um mestre, precisará procurar o Sr. Willoughsby. Ele tem uma casa aqui em Tarant, mas costuma viajar a negócios em Caladon.}{}{}{}{$$-500, TR11 2, ru 2157}
+{490}{Obrigado, Senhora Lil.}{}{5}{}{0}{}
+{491}{Obrigadu, Sinhora.}{}{-4}{}{0}{}
+{492}{E:}{}{1}{}{0}{}
+

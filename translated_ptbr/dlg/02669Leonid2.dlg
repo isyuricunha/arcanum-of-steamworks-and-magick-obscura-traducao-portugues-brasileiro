@@ -1,0 +1,65 @@
+{1}{Ainda não. Eu te aviso quando for seguro.}{Ainda não. Eu te aviso quando for seguro.}{}{}{}{ }
+{2}{Tudo bem, podemos conversar aqui.}{Tudo bem, podemos conversar aqui.}{}{}{}{lf1 1 }
+{3}{O que está acontecendo aqui? Quem é você?}{}{5}{}{95}{ }
+{12}{Bem, isso pode soar estranho para você, mas estou aqui em Tarant para recuperar os crânios dos gêmeos siameses Ren'ar. Seus crânios são evidências de que... bem, eu te explico se você os trouxer para mim.}{Bem, isso pode soar estranho para você, mas estou aqui em Tarant para recuperar os crânios dos gêmeos siameses Ren'ar. Seus crânios são evidências de que... bem, eu te explico se você os trouxer para mim.}{}{}{}{qu1154 1 }
+{13}{Eu já os encontrei. Aqui estão. [Entregá-los a ele.]}{}{5}{in5629}{22}{in5629, qu1154 4 }
+{14}{Eu já os encontrei, mas os entreguei a alguém.}{}{5}{qu1069 4}{30}{ }
+{15}{Onde se encontrariam esses crânios?}{}{5}{}{60}{ }
+{21}{Vou ter que pensar melhor sobre isso. Tenha um bom dia.}{}{5}{}{0}{ }
+{22}{Hah! Não acredito nessa sorte! Desculpe por ter duvidado de você antes.}{Hah! Não acredito nessa sorte! Desculpe por ter duvidado de você antes.}{}{}{}{ }
+{23}{Você ia me contar o que está acontecendo aqui?}{}{5}{}{160}{ }
+{30}{O quê? Para quem você os entregou?}{O quê? Para quem você os entregou?}{}{}{}{ }
+{31}{Dr. Gershwin, o frenologista.}{}{5}{}{40}{ }
+{40}{Um frenologista? Droga! Se ele for pelo menos um pouco competente, vai perceber que há algo estranho nesses crânios!}{Um frenologista? Droga! Se ele for pelo menos um pouco competente, vai perceber que há algo estranho nesses crânios!}{}{}{}{ }
+{41}{Estranho? O que quer dizer com estranho?}{}{5}{}{50}{ }
+{50}{Eles faziam parte de um experimento de reprodução bizarro e distorcido... mas esse não é o ponto agora. Preciso desses crânios de volta! Acha que pode recuperá-los para mim?}{Eles faziam parte de um experimento de reprodução bizarro e distorcido... mas esse não é o ponto agora. Preciso desses crânios de volta! Acha que pode recuperá-los para mim?}{}{}{}{ }
+{51}{Posso tentar.}{}{5}{}{0}{qu1154 2, fl 59}
+{58}{Vou ter que pensar melhor sobre isso. Tenha um bom dia.}{}{5}{}{0}{ }
+{59}{Ótimo! Vou esperar aqui...}{Ótimo! Vou esperar aqui...}{}{}{}{ }
+{60}{Bem, é aí que a coisa fica difícil. Os crânios haviam sido sepultados em um mausoléu no cemitério de Tarant, mas quando fui procurá-los, já tinham sumido.}{Bem, é aí que a coisa fica difícil. Os crânios haviam sido sepultados em um mausoléu no cemitério de Tarant, mas quando fui procurá-los, já tinham sumido.}{}{}{}{ }
+{61}{Então onde eu deveria procurá-los?}{}{5}{}{70}{ }
+{70}{Não sei. Acredito que ainda estejam em Tarant, em algum armazém, esperando para serem despachados.}{Não sei. Acredito que ainda estejam em Tarant, em algum armazém, esperando para serem despachados.}{}{}{}{ }
+{71}{Tudo bem, eu farei isso. Voltarei com os crânios.}{}{5}{}{0}{qu1154 2 }
+{79}{Preciso refletir mais sobre isso. Tenha um bom dia.}{}{5}{}{0}{ }
+{80}{Quais são as novidades?}{Quais são as novidades?}{}{}{}{ }
+{81}{Decidi procurar pelos crânios. Onde eles estão?}{}{5}{qu1154 1, qb1069 2}{60}{qu1154 2 }
+{82}{Ainda não encontrei os crânios.}{}{5}{qu1154 2, ni5629, gf2604 0}{0}{fl 105}
+{84}{Trouxe os crânios para você. [Entregue-os a ele.]}{}{5}{qa1154 1, qb1154 3, in5629}{150}{in5629, qu1154 4 }
+{85}{Decidi levar os crânios até Tyron para você. Onde ele está?}{}{5}{qu1155 1}{190}{in-5629, qu1155 2 }
+{86}{Tyron não está em Black Root.}{}{5}{gf2605 0, lf2 0, qu1155 2, gf2603 1}{130}{lf2 1 }
+{87}{Ainda não encontrei Tyron.}{}{5}{gf2605 0, lf2 1}{0}{fl 119}
+{88}{Não consigo recuperar os crânios do Dr. Gershwin.}{}{5}{gf2602 1, ni5629}{120}{ }
+{89}{Quero saber no que me meti aqui...}{}{5}{qu1154 0}{12}{ }
+{90}{Já encontrei os crânios, mas os entreguei a outra pessoa.}{}{5}{qu1069 4}{30}{ }
+{91}{Ainda não encontrei os crânios, mas falei com Tyron em...}{}{5}{ni5629, gf2605 1, lf2 1, qb1069 3}{210}{ }
+{94}{E:}{}{1}{}{0}{ }
+{95}{Ainda não posso lhe dar essas respostas... basta dizer que faço parte de algo que... bem, nem eu sei exatamente do que se trata. É mais seguro assim, caso eu seja capturado... mas sei algumas coisas, que posso lhe contar se provar que é digno de confiança. Parece que vou precisar de sua ajuda agora que minha presença aqui foi comprometida.}{Ainda não posso lhe dar essas respostas... basta dizer que faço parte de algo que... bem, nem eu sei exatamente do que se trata. É mais seguro assim, caso eu seja capturado... mas sei algumas coisas, que posso lhe contar se provar que é digno de confiança. Parece que vou precisar de sua ajuda agora que minha presença aqui foi comprometida.}{}{}{}{lf1 1 }
+{96}{Como faço isso?}{}{5}{}{12}{ }
+{104}{Não estou interessado em me envolver com tudo isso. Tenha um bom dia.}{}{5}{}{0}{ }
+{105}{Bem, continue tentando... isso é da mais alta importância.}{Bem, continue tentando... isso é da mais alta importância.}{}{}{}{ }
+{119}{Por favor, continue procurando por ele. É imperativo que ele receba esses crânios.}{Por favor, continue procurando por ele. É imperativo que ele receba esses crânios.}{}{}{}{ }
+{120}{Você deve usar qualquer meio necessário para convencê-lo a entregá-los a você. Ninguém deve ser autorizado a atrapalhar esta investigação!}{Você deve usar qualquer meio necessário para convencê-lo a entregá-los a você. Ninguém deve ser autorizado a atrapalhar esta investigação!}{}{}{}{ }
+{121}{"Qualquer" meio?}{}{5}{}{0}{fl 129}
+{128}{E:}{}{1}{}{0}{ }
+{129}{Foi o que eu disse, e é o que eu quis dizer. QUALQUER meio.}{Foi o que eu disse, e é o que eu quis dizer. QUALQUER meio.}{}{}{}{ }
+{130}{Ele não está? Você encontrou algo dele?}{Ele não está? Você encontrou algo dele?}{}{}{}{ }
+{131}{Um bilhete que dizia "O corvo está em perigo."}{}{5}{}{140}{ }
+{140}{Hmmm. Eu temia por isso. Eles estão mais próximos de nós do que eu imaginava. Tão próximos, na verdade, que ele nem mesmo deixou sua nova localização codificada naquela nota...}{Hmmm. Eu temia por isso. Eles estão mais próximos de nós do que eu imaginava. Tão próximos, na verdade, que ele nem mesmo deixou sua nova localização codificada naquela nota...}{}{}{}{ru2211 }
+{141}{O que devo fazer agora?}{}{5}{}{0}{fl 119}
+{150}{Excelente! Essa é a pista que estávamos procurando.}{Excelente! Essa é a pista que estávamos procurando.}{}{}{}{ }
+{151}{Você ia me contar o que está acontecendo aqui, não é?}{}{5}{}{160}{ }
+{160}{Posso lhe contar o que sei, e um homem chamado Arthur Tyron pode lhe dar os detalhes restantes.}{Posso lhe contar o que sei, e um homem chamado Arthur Tyron pode lhe dar os detalhes restantes.}{}{}{}{ }
+{161}{Por favor, continue.}{}{5}{}{170}{ }
+{170}{Alguns anos atrás, experimentos bizarros de reprodução foram iniciados em segredo, o que acabaria afetando o equilíbrio de poder aqui em Tarant. Os gêmeos Ren'ar foram os primeiros descendentes viáveis produzidos por esses experimentos. Seus crânios são apenas a primeira peça de uma longa cadeia de evidências que estamos reunindo para expô-los!}{Alguns anos atrás, experimentos bizarros de reprodução foram iniciados em segredo, o que acabaria afetando o equilíbrio de poder aqui em Tarant. Os gêmeos Ren'ar foram os primeiros descendentes viáveis produzidos por esses experimentos. Seus crânios são apenas a primeira peça de uma longa cadeia de evidências que estamos reunindo para expô-los!}{}{}{}{ }
+{171}{Quem está fazendo isso? Qual era o propósito desses experimentos?}{}{5}{}{180}{ }
+{180}{Eu lhe contei tudo o que ouso... Tyron pode lhe dar os detalhes restantes. Preciso que você leve os crânios para ele, se puder. Seria perigoso demais para mim procurá-lo...}{Eu lhe contei tudo o que ouso... Tyron pode lhe dar os detalhes restantes. Preciso que você leve os crânios para ele, se puder. Seria perigoso demais para mim procurá-lo...}{}{}{}{qu1155 1 }
+{181}{Tudo bem, eu farei isso.}{}{5}{gf2605 0}{190}{in-5629, qu1155 2 }
+{182}{Já falei com ele, ele está em...}{}{5}{gf2605 1}{200}{in-5629, qu1155 2 }
+{189}{Não estou interessado em continuar nesse caminho. Adeus.}{}{5}{}{0}{ }
+{190}{Ótimo! Até onde eu sei, ele estava em Black Root. Talvez você ainda o encontre lá.}{Ótimo! Até onde eu sei, ele estava em Black Root. Talvez você ainda o encontre lá.}{}{}{}{mm3 }
+{191}{Tudo bem. Estou a caminho.}{}{5}{}{0}{ }
+{200}{[Ele o interrompe abruptamente.] Não quero saber - é melhor assim. Por favor, apresse-se em levar os crânios para ele... [ele parece preocupado] se você conseguiu encontrá-lo, eles também podem ter conseguido.}{[Ele o interrompe abruptamente.] Não quero saber - é melhor assim. Por favor, apresse-se em levar os crânios para ele... [ele parece preocupado] se você conseguiu encontrá-lo, eles também podem ter conseguido.}{}{}{}{ }
+{201}{Estou indo agora mesmo.}{}{5}{}{0}{ }
+{210}{[Ele o interrompe abruptamente.] Não quero saber - é melhor assim. Você deve encontrar os crânios o mais rápido possível... [ele parece preocupado] se você conseguiu encontrá-lo, eles também podem ter conseguido.}{[Ele o interrompe abruptamente.] Não quero saber - é melhor assim. Você deve encontrar os crânios o mais rápido possível... [ele parece preocupado] se você conseguiu encontrá-lo, eles também podem ter conseguido.}{}{}{}{ }
+{211}{Estou indo agora mesmo.}{}{5}{}{0}{ }
+

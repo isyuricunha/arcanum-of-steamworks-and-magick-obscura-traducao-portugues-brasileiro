@@ -1,0 +1,198 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Saudações, bom senhor. Posso saber o seu nome?}{}{5}{lf1 0, re 41}{33}{}
+{3}{Isso foi muito indelicado.}{}{5}{lf1 0, re -40}{46}{}
+{4}{Eu o ofendi de alguma forma, Ryan?}{}{5}{lf1 1, lf2 0}{57}{}
+{5}{Olá novamente, Ryan. Poderia me conceder um pouco mais do seu tempo?}{}{5}{lf1 1, lf2 1,re 41}{62}{}
+{6}{Eu o ofendi de alguma forma, Ryan?}{}{5}{lf1 1, lf2 1, re -40}{53}{}
+{8}{Olá novamente, Ryan. Poderia me conceder um pouco mais do seu tempo?}{}{5}{lf3 1, al 301}{171}{}
+{9}{Olá, Ryan. Mudei de ideia. Sobre aquele trabalho...}{}{5}{lf3 1, al-300}{107}{}
+{10}{Acho que poderia arranjar algo especial para o seu pai...}{}{5}{QU1136 1}{113}{}
+{11}{Ainda não cuidei do assunto...}{}{5}{QU1136 2}{172}{}
+{12}{Cumpri nosso acordo. Gostaria de receber meu pagamento.}{}{5}{QU1136 3}{177}{al -100}
+{13}{Olá, Ryan. Tem mais algum trabalho para mim?}{}{5}{QU1136 4}{156}{}
+{14}{Olá, Ryan...}{}{5}{QU1136 6}{200}{}
+{18}{Ei, senhor. Qual é o seu nome?}{}{-4}{lf1 0, re 41}{33}{}
+{19}{Isso não foi legal...}{}{-4}{lf1 0, re -40}{46}{}
+{20}{Hã... Oi, Ryan. Eu pergunto uma coisa?}{}{-4}{lf1 1, lf2 0}{57}{}
+{21}{Hã... Oi, Ryan. Eu pergunto uma coisa?}{}{-4}{lf1 1, lf2 1}{62}{}
+{22}{Hã... Oi, Ryan. Eu pergunto uma coisa?}{}{-4}{lf3 1, al 301}{171}{}
+{23}{Hã... Oi, Ryan. Eu penso mais em coisas... Você ainda tem trabalho?}{}{-4}{lf3 1, al-300}{107}{}
+{24}{Quiçá eu faça algo para o seu pai por você?}{}{-4}{QU1136 1}{113}{}
+{25}{Eu ainda não fiz o trabalho...}{}{-4}{QU1136 2}{172}{}
+{26}{Está feito. Eu quero minha grana.}{}{-4}{QU1136 3}{177}{al -100}
+{27}{Hã... Oi, Ryan. Tem mais trabalho?}{}{-4}{QU1136 4}{156}{}
+{28}{Hã... Oi, Ryan...}{}{-4}{QU1136 6}{200}{}
+{32}{E:}{}{1}{}{0}{}
+{33}{Eu sou Ryan Sanders. E quem seria o senhor?}{Eu sou Ryan Sanders. E quem seria a senhora?}{}{}{}{lf1 1}
+{34}{Eu sou @pcname@.}{}{5}{}{62}{lf2 1}
+{35}{Isso não é da sua conta.}{}{5}{}{40}{}
+{36}{Eu sou @pcname@, um recém-chegado a esta nobre terra.}{}{5}{}{62}{lf2 1}
+{37}{Meu nome é @pcname@.}{}{-4}{}{62}{lf2 1}
+{38}{Não precisa de...}{}{-4}{}{40}{}
+{39}{E:}{}{1}{}{0}{}
+{40}{Você não tem modos, serviçal?}{Você não tem modos, serviçal?}{}{}{}{}
+{41}{Isso foi rude. Peço desculpas. Meu nome é @pcname@.}{}{5}{}{62}{lf2 1}
+{42}{Não com escória como você!}{}{5}{}{}{co, fl 52}
+{43}{Desculpe. Eu fui mau. Meu nome é @pcname@.}{}{-4}{}{62}{lf2 1}
+{44}{Não precisa... Você vai estar morto...}{}{-4}{}{}{co, fl 52}
+{45}{E:}{}{1}{}{0}{}
+{46}{Isso não foi nada... Se não consegue lidar com as sutilezas de uma sociedade culta, não tem o que fazer aqui. Agora, explique sua presença ou suma da minha vista!}{Isso não foi nada... Se não consegue lidar com as sutilezas de uma sociedade culta, não tem o que fazer aqui. Agora, explique sua presença ou suma da minha vista!}{}{}{}{}
+{47}{Tudo bem. Posso saber seu nome?}{}{5}{}{33}{}
+{48}{Chega! Você já me insultou o suficiente! Defenda-se!}{}{5}{}{}{co, fl 52}
+{49}{Hã, tá bom. Qual é o seu nome?}{}{-4}{}{33}{}
+{50}{Você é malvado! Precisa morrer!}{}{-4}{}{}{co, fl 52}
+{51}{E:}{}{1}{}{0}{}
+{52}{Por que, seu mendigo desprezível... Vai morrer por seus insultos!}{Por que, seu mendigo desprezível... Você vai morrer por seus insultos!}{}{}{}{}
+{53}{Você é tão facilmente manipulado, @pcname@... O que é que você quer?}{Você é tão facilmente manipulado, @pcname@... O que é que você quer?}{}{}{}{}
+{54}{Hmm... Tenho uma pergunta.}{}{5}{}{62}{}
+{55}{Vim lhe ensinar alguns modos... seu esnobe!}{}{5}{}{}{co, fl 52}
+{56}{E:}{}{1}{}{0}{}
+{57}{Você ou não tem modos ou não tem inteligência. De qualquer forma, não tem valor para mim... Saia daqui!}{Você ou não tem modos ou não tem inteligência. De qualquer forma, não tem valor para mim... Saia daqui!}{}{}{}{}
+{58}{Ah, você tem razão. Por favor, me perdoe. Meu nome é @pcname@.}{}{5}{}{62}{lf2 1}
+{59}{Talvez um pouco de dor lhe mostre meu verdadeiro valor...}{}{5}{}{40}{}
+{60}{Me desculpa. Meu nome @pcname@.}{}{-4}{}{62}{lf2 1}
+{61}{E:}{}{1}{}{0}{}
+{62}{Bem, o que você quer, @pcname@?}{Bem, o que você quer, @pcname@?}{}{}{}{}
+{63}{Estou procurando trabalho... Você tem algum problema que precise ser resolvido?}{}{5}{QU1136 0}{74}{}
+{64}{Estou procurando mais trabalho...}{}{5}{QA1136 3}{156}{}
+{65}{Mim quer trabaiá... Você tem problema? Mim resolvê.}{}{-4}{QU1136 0}{74}{}
+{66}{Mim quer mais trabaiá...}{}{-4}{QA1136 3}{156}{}
+{67}{E:}{}{1}{}{0}{}
+{68}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{}
+{69}{Estou procurando trabalho... Você tem algum problema que precise ser resolvido?}{}{5}{QU1136 0}{74}{}
+{70}{Estou procurando mais trabalho...}{}{5}{QA1136 3}{156}{}
+{71}{Mim quer trabaiá... Você tem problema? Mim resolvê.}{}{-4}{QU1136 0}{74}{}
+{72}{Mim quer mais trabaiá...}{}{-4}{QA1136 3}{156}{}
+{73}{E:}{}{1}{}{0}{}
+{74}{Problema? Ha! O único "problema" que tenho é meu pai! Duvido que haja muito o que você possa fazer sobre isso!}{Problema? Ha! O único "problema" que tenho é meu pai! Duvido que haja muito o que você possa fazer sobre isso!}{}{}{}{}
+{75}{Seu pai? Por que ele é um problema?}{}{5}{}{78}{}
+{76}{Por que ele problema?}{}{-4}{}{78}{}
+{77}{E:}{}{1}{}{0}{}
+{78}{Meu pai é Jonathan Sanders... Tenho certeza de que você já ouviu falar dele. [espera que você fique devidamente impressionado] Ele é o maior proprietário de terras em todo o Caladon. O nome Sanders tem sido sinônimo de poder e influência por gerações.}{Meu pai é Jonathan Sanders... Tenho certeza de que você já ouviu falar dele. [espera que você fique devidamente impressionado] Ele é o maior proprietário de terras em todo o Caladon. O nome Sanders tem sido sinônimo de poder e influência por gerações.}{}{}{}{}
+{79}{E isso é um problema?}{}{5}{}{82}{}
+{80}{Isso ruim?}{}{-4}{}{82}{}
+{81}{E:}{}{1}{}{0}{}
+{82}{Não costumava ser. Ele sempre foi um homem de negócios forte e implacável. As pessoas o temiam. Seu poder e influência eram uma força com a qual se devia contar...}{Não costumava ser. Ele sempre foi um homem de negócios forte e implacável. As pessoas o temiam. Seu poder e influência eram uma força com a qual se devia contar...}{}{}{}{}
+{83}{O que aconteceu?}{}{5}{}{87}{}
+{84}{"Era?" O que mudou agora?}{}{5}{}{87}{}
+{85}{O que aconteceu?}{}{-4}{}{87}{}
+{86}{E:}{}{1}{}{0}{}
+{87}{Ele sofreu um acidente há cerca de um ano. Quase o matou. [baixo] Que pena que não morreu... [volta a atenção para você] Desde então, ele se tornou um homem "mudado".}{Ele sofreu um acidente há cerca de um ano. Quase o matou. [baixo, entre dentes] Que pena que não o matou... [volta a atenção para você] Desde então, ele se tornou um homem "mudado".}{}{}{}{}
+{88}{Mudado?}{}{5}{}{91}{}
+{89}{Hã?}{}{-4}{}{91}{}
+{90}{E:}{}{1}{}{0}{}
+{91}{Ele quer ser bondoso! É patético! Faz de tudo para ajudar os fracos, perdoa dívidas, até distribui nossas riquezas! Ele chegou a me dizer que a história da nossa família é vergonhosa! Mal consigo suportar vê-lo hoje em dia...}{Ele quer ser bondoso! É patético! Faz de tudo para ajudar os fracos, perdoa dívidas, até distribui nossas riquezas! Ele chegou a me dizer que a história da nossa família é vergonhosa! Mal consigo suportar vê-lo hoje em dia...}{}{}{}{}
+{92}{Essa é uma mudança e tanto. Ele deve ter ficado muito traumatizado.}{}{5}{}{97}{}
+{93}{Isso é maravilhoso! Estou tão feliz que ele tenha se iluminado!}{}{5}{}{}{re-10, lf3 1, fl 155}
+{94}{Uau! Mudança grande essa...}{}{-4}{}{97}{}
+{95}{Isso é bom. Ele tá sendo legal agora. Eu gosto.}{}{-4}{}{}{re-10, lf3 1, fl 155}
+{96}{E:}{}{1}{}{0}{}
+{97}{Ele está desperdiçando uma fortuna que é meu direito! Ele não tem o direito de dar o que deveria ser meu! Nenhum!}{Ele está desperdiçando uma fortuna que é meu direito! Ele não tem o direito de dar o que deveria ser meu! Nenhum!}{}{}{}{}
+{98}{Se fosse comigo, eu colocaria um fim nas ações dele...}{}{5}{na 300}{107}{}
+{99}{Consigo entender como as ações dele podem ser perturbadoras...}{}{5}{al-300}{107}{}
+{100}{Consigo entender como as ações dele podem ser perturbadoras...}{}{5}{al 300, al-499}{138}{}
+{101}{É bom ouvir sobre um homem que mudou de vida.}{}{5}{al 500}{}{re-10, lf3 1, fl 155}
+{102}{Eu não deixaria meu pai fazer isso... Eu pararia!}{}{-4}{na 300}{107}{}
+{103}{Hã... é. Eu não entendo por que você tá bravo...}{}{-4}{al-300}{107}{}
+{104}{Hã... é. Eu não entendo por que você tá bravo...}{}{-4}{al 300, al-499}{138}{}
+{105}{Isso é bom. Fico feliz que ele queira ser bom agora.}{}{-4}{al 500}{}{re-10, lf3 1, fl 155}
+{106}{E:}{}{1}{}{0}{}
+{107}{Hmmm... [olha para você pensativamente, como se avaliando suas habilidades] Talvez eu realmente tenha um trabalho para você...}{Hmmm... [olha para você pensativamente, como se avaliando suas habilidades] Talvez eu realmente tenha um trabalho para você...}{}{}{}{QU1136 1}
+{108}{Acho que poderia arranjar uma coisinha especial para o seu pai...}{}{5}{na 300}{113}{}
+{109}{Você está insinuando o que eu acho que está?}{}{5}{}{134}{}
+{110}{Talvez eu faça alguma coisa pro seu pai?}{}{-4}{na 300}{113}{}
+{111}{Hã... tem trabalho pra mim?}{}{-4}{}{134}{}
+{112}{E:}{}{1}{}{0}{}
+{113}{Sim... acho que gostaria disso...}{Sim... acho que gostaria disso...}{}{}{}{}
+{114}{Hmmm... Isso seria muito benéfico para você...}{}{5}{}{117}{}
+{115}{Hmmm... isso seria bom pra você...}{}{-4}{}{117}{}
+{116}{E:}{}{1}{}{0}{}
+{117}{Sim. Sim, seria... [um sorriso malicioso se espalhando pelo rosto]}{Sim. Sim, seria... [um sorriso malicioso se espalhando pelo rosto]}{}{}{}{}
+{118}{Eu esperaria uma compensação apropriada.}{}{5}{}{121}{}
+{119}{Me qué pagá.}{}{-4}{}{121}{}
+{120}{E:}{}{1}{}{}{}
+{121}{E o que alguém consideraria "apropriado" para tais arranjos?}{E o que alguém consideraria "apropriado" para tais arranjos?}{}{}{}{}
+{122}{Acredito que 1.000 cobririam isso.}{}{5}{}{125}{}
+{123}{Me qué 1.000.}{}{-4}{}{125}{}
+{124}{E:}{}{1}{}{}{}
+{125}{[com expressão chocada] 1.000! Isso é um pouco caro, não acha?}{[com expressão chocada] 1.000! Isso é um pouco caro, não acha?}{}{}{}{}
+{126}{Você está pedindo muito... e tem muito a ganhar...}{}{5}{}{129}{}
+{127}{Me fazê coisa grande... Você ganha muito...}{}{-4}{}{129}{}
+{128}{E:}{}{1}{}{}{}
+{129}{[fica pensativo por um momento] Sim. Entendo o que quer dizer... Muito bem. 1.000. Mas quero que os arranjos sejam feitos rapidamente! Volte até mim quando terminar, e será compensado pelos seus serviços. Temos um acordo?}{[fica pensativo por um momento] Sim. Entendo o que quer dizer... Muito bem. 1.000. Mas quero que os arranjos sejam feitos rapidamente! Volte até mim quando terminar, e será compensado pelos seus serviços. Temos um acordo?}{}{}{}{}
+{130}{Temos. Voltarei em breve. Adeus, Sr. Sanders.}{}{5}{}{0}{QU1136 2}
+{131}{Sabe... isso é muito pouco para mim. Recuso.}{}{5}{}{}{co, fl 170}
+{132}{Hã... é. Ele tá morto. Voltei.}{}{-4}{}{0}{QU1136 2}
+{133}{Hã... Não. Isso é ruim demais pra mim. Não faço.}{}{-4}{}{}{co, fl 170}
+{134}{Se deduziu que eu gostaria que você arranjasse uma coisinha para o meu pai... está correto.}{Se deduziu que eu gostaria que você arranjasse uma coisinha para o meu pai... está correto.}{}{}{}{}
+{135}{Hmmm... Isso lhe beneficiaria muito...}{}{5}{}{117}{}
+{136}{Senhor! Estou chocado! Que tipo de homem é você?}{}{5}{}{}{co, fl 170}
+{137}{Hã... O quê?}{}{-4}{}{146}{}
+{138}{Inaceitável! Nunca antes ouvi tamanha minimização! As ações dele são revoltantes! Ele está desperdiçando tudo o que construímos ao longo de gerações! Suas ações são imperdoáveis!}{Inaceitável! Nunca antes ouvi tamanha minimização! As ações dele são revoltantes! Ele está desperdiçando tudo o que construímos ao longo de gerações! Suas ações são imperdoáveis!}{}{}{}{}
+{139}{Sim... aos seus olhos. Mas eu entendo de onde ele vem.}{}{5}{}{}{re-10, lf3 1, fl 155}
+{140}{Talvez você devesse conversar com ele sobre o que sente?}{}{5}{}{149}{}
+{141}{Talvez você devesse fazer algo a respeito.}{}{5}{}{107}{}
+{142}{Hã... é assim que você se sente. Eu acho que ele tá fazendo coisa boa...}{}{-4}{}{}{re-10, lf3 1, fl 155}
+{143}{Talvez você faça alguma coisa...}{}{-4}{}{107}{}
+{144}{Talvez você precise falar com ele. Dizer que tá bravo.}{}{-4}{}{149}{}
+{145}{E:}{}{1}{}{0}{}
+{146}{Mate-o, seu idiota! Quero que você o mate.}{Mate-o, seu idiota! Quero que você o mate.}{}{}{}{}
+{147}{Hmmm... isso deve ser bom pra você...}{}{-4}{}{117}{}
+{148}{O quê! Essa coisa ruim! Eu não faço coisa ruim!}{}{-4}{}{}{co, fl 170}
+{149}{Falar com ele? Ele não escuta nada do que eu digo!}{Falar com ele? Ele não escuta nada do que eu digo!}{}{}{}{}
+{150}{Talvez você devesse tentar de novo. Tenho certeza de que seu pai te ama.}{}{5}{}{}{re-10, lf3 1, fl 155}
+{151}{Tenho certeza de que há outras opções, se isso falhar.}{}{5}{}{107}{}
+{152}{Talvez você devesse conversar mais. Ele é seu pai. Ele te ama.}{}{-4}{}{}{re-10, lf3 1, fl 155}
+{153}{Talvez você precise fazer outra coisa então...}{}{-4}{}{107}{}
+{154}{E:}{}{1}{}{0}{}
+{155}{Você também é um tolo solidário. Não fale mais comigo.}{Você também é um tolo solidário. Não fale mais comigo.}{}{}{}{}
+{156}{Não tenho mais necessidade de você, @pcname@. Acho que está na hora de você ir embora...}{Não tenho mais necessidade de você, @pcname@. Acho que está na hora de você ir embora...}{}{}{}{}
+{157}{Não sirvo pra nada! [incrédulo] Depois de tudo que eu te dei?}{}{5}{}{162}{}
+{158}{Tudo bem. Adeus!}{}{5}{}{0}{}
+{159}{O quê? [incrédulo] Depois do que eu te dei?}{}{-4}{}{162}{}
+{160}{Ah... É assim que você quer? Tudo bem! Tchau!}{}{-4}{}{0}{}
+{161}{E:}{}{1}{}{0}{}
+{162}{O que você me deu? Pelo contrário, há um espaço bem visível vazio nos meus cofres por sua causa. ...Agora suma da minha frente, ou vou te mostrar o quão poderoso eu me tornei...}{O que você me deu? Pelo contrário, há um espaço bem visível vazio nos meus cofres por sua causa. ...Agora suma da minha frente, ou vou te mostrar o quão poderoso eu me tornei...}{}{}{}{}
+{163}{Por que você, seu ingratozinho... [se controla] Tudo bem. Adeus!}{}{5}{}{0}{}
+{164}{Seria sábio da sua parte ficar de olho nas costas. Adeus, Ryan.}{}{5}{}{0}{}
+{165}{Acho que sou eu quem vai mostrar... seu filhote ingrato!}{}{5}{}{}{co, fl 199}
+{166}{Tenha cuidado... você não sabe o que pode acontecer às vezes... Tchau, Ryan.}{}{-4}{}{0}{}
+{167}{Por que você! Ah... você... [se controla] Tudo bem!}{}{-4}{}{0}{}
+{168}{Eu te mostro!}{}{-4}{}{}{co, fl 199}
+{169}{E:}{}{1}{}{0}{}
+{170}{Parece que eu julguei você mal, seu tolo solidário! Agora você sabe demais! Vamos nos livrar desse lixo, Zaugg...}{Parece que eu julguei você mal, sua cadela solidária! Agora você sabe demais! Vamos nos livrar desse lixo, Zaugg...}{}{}{}{}
+{171}{Eu não te disse para não falar comigo? Não tenho mais nada a dizer a você, capacho!}{Eu não te disse para não falar comigo? Não tenho mais nada a dizer a você, capacho!}{}{}{}{}
+{172}{Por favor, faça isso rápido. Estou começando a perder a paciência com você...}{Por favor, faça isso rápido. Estou começando a perder a paciência com você...}{}{}{}{}
+{173}{Vou resolver isso rapidamente.}{}{5}{}{0}{}
+{174}{Mudei de ideia. Não quero mais o trabalho.}{}{5}{}{}{co, fl 170}
+{175}{Eu faço. Adeus.}{}{-4}{}{0}{}
+{176}{Eu num quero mais fazê isso.}{}{-4}{}{}{co, fl 170}
+{177}{Ahh... @pcname@... Sim. Seu pagamento foi bem merecido... Muito merecido! Você me tornou um homem poderoso. Agradeço-lhe. Aqui está sua recompensa.}{Ahh... @pcname@... Sim. Seu pagamento foi bem merecido... Muito merecido! Você me tornou um homem poderoso. Agradeço-lhe. Aqui está sua recompensa.}{}{}{}{}
+{178}{Obrigado. Foi um prazer fazer negócios com você. Adeus.}{}{5}{}{0}{$$1000, qu1136 4}
+{179}{Espere um momento. O trabalho foi difícil. Dobrei meu preço...}{}{5}{}{182}{}
+{180}{Valeu. Falou.}{}{-4}{}{0}{$$1000, qu1136 4}
+{181}{Não. Trabalho difícil. Eu quero 2.000...}{}{-4}{}{182}{}
+{182}{[engasgando de raiva] Dobrar seu preço! Isso é um absurdo! Tínhamos um acordo!}{[engasgando de raiva] Dobrar seu preço! Isso é um absurdo! Tínhamos um acordo!}{}{}{}{}
+{183}{Tenho certeza de que você, mais do que ninguém, sabe que os acordos mudam...}{}{5}{}{185}{}
+{184}{Esse é o meu preço!}{}{-4}{}{185}{}
+{185}{Não vou pagar!}{Não vou pagar!}{}{}{}{}
+{186}{Você não quer que o nosso acordo seja divulgado, quer?}{}{5}{}{188}{}
+{187}{Você qué que eu fale?}{}{-4}{}{188}{}
+{188}{Está me ameaçando? A MIM? [ameaçador] Eu não faria isso, se fosse você...}{Está me ameaçando? A MIM? [ameaçador] Eu não faria isso, se fosse você...}{}{}{}{}
+{189}{Digamos apenas que tenho uma pequena apólice de seguro para minha boa saúde...}{}{5}{}{191}{}
+{190}{Eu tenho uma coisinha que garante que eu fique bem...}{}{-4}{}{191}{}
+{191}{[parecendo preocupado] Olha... Sou um homem importante por aqui. Não posso deixar histórias como a sua circulando. Isso me arruinaria...}{[parecendo preocupado] Olha... Sou um homem importante por aqui. Não posso deixar histórias como a sua circulando. Isso me arruinaria...}{}{}{}{}
+{192}{Então sugiro que aceite meus termos...}{}{5}{}{194}{}
+{193}{Então me dê a grana!}{}{-4}{}{194}{}
+{194}{Aqui! Pegue. Você vai se arrepender de ter posto os olhos em mim, @pcname@...}{Aqui! Pegue. Você vai se arrepender de ter posto os olhos em mim, @pcname@...}{}{}{}{$$2000, qu1136 4}
+{195}{Já estou... Obrigado pela grana, otário!}{}{5}{}{}{co, fl 199}
+{196}{Não me ameace, fedelho!}{}{5}{}{}{co, fl 199}
+{197}{Eu... Obrigado pela grana, Ryan!}{}{-4}{}{}{co, fl 199}
+{198}{E:}{}{1}{}{}{co, fl 199}
+{199}{Zaugg! Leach! Certifiquem-se de que @pcname@ receba o que merece...}{Zaugg! Leach! Certifiquem-se de que @pcname@ receba o que merece...}{}{}{}{}
+{200}{Traidor! Como ousa falar comigo!}{Traidor! Como ousa falar comigo!}{}{}{}{}
+{201}{E:}{}{1}{}{}{co, fl 199}
+{202}{}{}{}{}{}{}
+{203}{}{}{}{}{}{}
+{204}{}{}{}{}{}{}
+

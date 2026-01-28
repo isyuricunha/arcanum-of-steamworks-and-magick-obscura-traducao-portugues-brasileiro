@@ -1,0 +1,65 @@
+{1}{G:}{}{}{}{}{}
+{2}{B:}{}{1}{}{29}{}
+{3}{T:12, 2}{}{1}{}{29}{}
+{4}{Que tipo de mercadorias você tem aqui?}{}{5}{}{41}{}
+{5}{Hã... O que você tem aí?}{}{-4}{}{41}{}
+{6}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{7}{Hmm... você conserta coisas?}{}{-4}{}{0}{ri}
+{8}{E:}{}{1}{}{0}{}
+{9}{[Ele olha para você atentamente.] Pare aí mesmo, mago! Você é poderoso, eu percebo. Não permito sua espécie aqui, trabalhei demais para ter minhas mercadorias finamente trabalhadas destruídas por sua aura descontrolada.}{[Ele olha para você atentamente.] Pare aí mesmo, mago! Você é poderoso, eu percebo. Não permito sua espécie aqui, trabalhei demais para ter minhas mercadorias finamente trabalhadas destruídas por sua aura descontrolada.}{}{}{}{lf1 1}
+{10}{I:}{}{1}{}{0}{re -3}
+{11}{F:}{}{1}{}{0}{re -1}
+{12}{E:}{}{1}{}{0}{}
+{13}{}{}{}{}{}{}
+{14}{}{}{}{}{}{}
+{15}{Bom ver você de novo. O que posso fazer por você hoje?}{Bom ver você de novo. O que posso fazer por você hoje?}{}{}{}{}
+{16}{T:12, 2}{}{1}{}{29}{}
+{17}{B:}{}{1}{}{29}{}
+{18}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{19}{Hmm... você conserta coisas?}{}{-4}{}{0}{ri}
+{20}{E:}{}{1}{}{0}{}
+{21}{Você parece um tecnólogo poderoso. Orgulhoso em conhecê-lo, senhor. Há algo que eu possa fazer por você?}{Você parece uma tecnóloga poderosa. Orgulhoso em conhecê-la, senhora. Há algo que eu possa fazer por você?}{}{}{}{}
+{22}{T:12, 2}{}{1}{}{29}{}
+{23}{Que tipo de mercadorias você tem aqui?}{}{5}{}{41}{}
+{24}{Hã... O que você tem aí?}{}{-4}{}{41}{}
+{25}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{26}{Hmm... você conserta coisas?}{}{-4}{}{0}{ri}
+{27}{B:}{}{1}{}{29}{}
+{28}{E:}{}{1}{}{0}{}
+{29}{Deseja mais alguma coisa?}{Deseja mais alguma coisa?}{}{}{}{}
+{30}{T:12, 2}{}{1}{}{29}{}
+{31}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{32}{Hmm... você conserta coisas?}{}{-4}{}{0}{ri}
+{33}{B:}{}{1}{}{29}{}
+{34}{Onde posso encontrar um Mestre em combate corpo a corpo?}{}{5}{tr2 1, tr2 -1}{61}{}
+{35}{Onde tá o cara do Maylay Exper'? Pra me treiná!}{}{-4}{tr2 1, tr2 -1}{61}{}
+{36}{E:}{}{1}{}{0}{}
+{37}{}{}{}{}{}{}
+{38}{}{}{}{}{}{}
+{39}{}{}{}{}{}{}
+{40}{}{}{}{}{}{}
+{41}{Eu forjo armaduras e armas finas seguindo os mais altos padrões anões. Dê uma olhada... Tenho certeza de que ficará impressionado com a qualidade das minhas mercadorias.}{Eu forjo armaduras e armas finas seguindo os mais altos padrões anões. Dê uma olhada... Tenho certeza de que ficará impressionado com a qualidade das minhas mercadorias.}{}{}{}{}
+{42}{T:12, 2}{}{1}{}{29}{}
+{43}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{44}{Hmm... você conserta coisas?}{}{-4}{}{0}{ri}
+{45}{B:}{}{1}{}{29}{}
+{46}{E:}{}{1}{}{0}{}
+{47}{O que você quer agora @pcname@?}{O que você quer agora @pcname@?}{}{}{}{}
+{48}{T:12, 2}{}{1}{}{29}{}
+{49}{B:}{}{1}{}{29}{}
+{50}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{51}{Hmm... você conserta coisas?}{}{-4}{}{0}{ri}
+{52}{E:}{}{1}{}{0}{}
+{53}{Olha aqui, há dispositivos tecnológicos sensíveis por perto! Saia da minha loja imediatamente!}{Olha aqui, há dispositivos tecnológicos sensíveis por perto! Saia da minha loja imediatamente!}{}{}{}{lf2 1}
+{54}{I:}{}{1}{}{0}{re -3}
+{55}{F:}{}{1}{}{0}{re -1}
+{56}{E:}{}{1}{}{0}{}
+{57}{Você quer me arruinar? Saia da minha loja, mago!}{Você quer me arruinar? Saia da minha loja, mago!}{}{}{}{}
+{58}{I:}{}{1}{}{0}{re -3}
+{59}{F:}{}{1}{}{0}{re -1}
+{60}{E:}{}{1}{}{0}{}
+{61}{Você pode tentar procurar em Blackroot ou na Ilha do Desespero por um Especialista em Combate Corpo a Corpo.}{Você pode tentar procurar em Blackroot ou na Ilha do Desespero por um Especialista em Combate Corpo a Corpo.}{}{}{}{ru 2179}
+{62}{Obrigado.}{}{5}{}{29}{}
+{63}{Valeu.}{}{-4}{}{29}{}
+{64}{E:}{}{1}{}{0}{}
+

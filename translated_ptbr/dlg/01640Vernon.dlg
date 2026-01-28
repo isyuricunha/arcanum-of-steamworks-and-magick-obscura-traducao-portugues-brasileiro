@@ -1,0 +1,14 @@
+{1}{[Este homem fala com você em voz baixa.] Que bom ver que conseguiu chegar. Eu sou Vernon...}{[Este homem fala com você em voz baixa.] Que bom ver que conseguiu chegar. Eu sou Vernon...}{}{}{}{}
+{2}{Olá. O que devo fazer agora?}{}{5}{}{5}{}
+{3}{O que eu faço agora?}{}{-4}{}{5}{}
+{5}{Aqui, pegue isto. [Ele lhe entrega uma chave.] Você vai precisar dela para abrir a porta nos fundos das cozinhas...}{Aqui, pegue isto. [Ele lhe entrega uma chave.] Você vai precisar dela para abrir a porta nos fundos das cozinhas...}{}{}{}{in -4425}
+{6}{Para onde leva essa porta?}{}{5}{}{9}{}
+{7}{O que tem atrás da porta?}{}{-4}{}{9}{}
+{9}{Ela leva a um corredor. A partir desse corredor, você precisará encontrar um caminho para o interior do castelo...}{Ela leva a um corredor. A partir desse corredor, você precisará encontrar um caminho para o interior do castelo...}{}{}{}{}
+{10}{Certo. Algum conselho final?}{}{5}{}{13}{}
+{11}{Hã... tá bom. Mais alguma coisa?}{}{-4}{}{13}{}
+{13}{Apenas tome cuidado. Se despertar as suspeitas dos guardas, eles o matarão à primeira vista. Quando encontrar os Aposentos do Rei, você sabe o que fazer. Depois que o ato estiver feito, estará por sua conta até voltar a Tarant.}{Apenas tome cuidado. Se despertar as suspeitas dos guardas, eles o matarão à primeira vista. Quando encontrar os Aposentos do Rei, você sabe o que fazer. Depois que o ato estiver feito, estará por sua conta até voltar a Tarant.}{}{}{}{}
+{14}{Tudo bem. Tenha um bom dia, senhor...}{}{5}{}{}{lf1 1, fl 17}
+{15}{Certo, Vernon! Vou agora...}{}{-4}{}{}{lf1 1, fl 17}
+{17}{Você é o homem mais corajoso que já conheci. Que os deuses estejam com você...}{Você é a mulher mais corajosa que já conheci. Que os deuses estejam com você...}{}{}{}{}
+

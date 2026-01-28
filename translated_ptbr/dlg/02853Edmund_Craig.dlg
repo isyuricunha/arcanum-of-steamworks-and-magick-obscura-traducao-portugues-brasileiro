@@ -1,0 +1,42 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Posso tomar um momento do seu tempo, por favor?}{}{5}{}{13}{}
+{3}{Hmm... Saudações, senhor.}{}{5}{}{13}{}
+{7}{Hmm... Isso não é legal.}{}{-4}{}{13}{}
+{8}{Hã... Oi.}{}{-4}{}{13}{}
+{12}{E:}{}{1}{}{0}{}
+{13}{[Ele parece muito agitado com a sua presença.] O que você quer, forasteiro?}{[Ele parece muito agitado com a sua presença.] O que você quer, forasteiro?}{}{}{}{}
+{14}{Eu só queria lhe fazer algumas perguntas.}{}{5}{tr4 -2, sk4 -17}{}{fl 21}
+{15}{Eu gostaria que você me treinasse como Mestre em Golpe pelas Costas, Dr. Craig...}{}{5}{tr4 2, tr4 -2, sk4 18}{22}{}
+{17}{Hmm... Eu fazê pergutas?}{}{-4}{tr4 -2, sk4 -17}{}{fl 21}
+{18}{Hmm... Eu querê treiná pra sê Mast'r do Golpe pelas Costa, Doutô Krayg...}{}{-4}{tr4 2, tr4 -2, sk4 18}{22}{}
+{20}{E:}{}{1}{}{0}{}
+{21}{[Ele olha ao redor pensativo, então fala com você, o sarcasmo escorrendo em cada palavra.] Isto aqui parece uma taverna para você? Talvez queira uma bebida, enquanto temos uma longa conversa? [Seu comportamento de repente se torna ameaçador.] Eu não tenho "nada" a dizer para você! Saia da minha casa agora! Não me force à violência...}{[Ele olha ao redor pensativo, então fala com você, o sarcasmo escorrendo em cada palavra.] Isto aqui parece uma taverna para você? Talvez queira uma bebida, enquanto temos uma longa conversa? [Seu comportamento de repente se torna ameaçador.] Eu não tenho "nada" a dizer para você! Saia da minha casa agora! Não me force à violência...}{}{}{}{}
+{22}{[Surpresa aparece em seu rosto, então a suspeita retorna.] Quem lhe disse onde eu estava?}{[Surpresa aparece em seu rosto, então a suspeita retorna.] Quem lhe disse onde eu estava?}{}{}{}{}
+{23}{Ninguém. Você tem sido muito difícil de localizar.}{}{5}{}{30}{}
+{26}{Hmm... Ninguém contá... Eu procurá munto... foi difícil achá Doutô...}{}{-4}{}{30}{}
+{29}{E:}{}{1}{}{0}{}
+{30}{O que você vai fazer agora que me encontrou?}{O que você vai fazer agora que me encontrou?}{}{}{}{}
+{31}{Eu só quero treinamento. O que "você" faz é problema seu.}{}{5}{}{38}{}
+{34}{Hmm... treiná? Eu querê sê Mast'r do Golpe pelas Costa também. Você ensiná?}{}{-4}{}{38}{}
+{37}{E:}{}{1}{}{0}{}
+{38}{Eu suspeito que haja uma grande recompensa por informações que levem ao meu paradeiro.}{Eu suspeito que haja uma grande recompensa por informações que levem ao meu paradeiro.}{}{}{}{}
+{39}{Não estou interessado nisso. Eu só desejo ser treinado.}{}{5}{}{46}{}
+{42}{Hmm... eu num querê moeda! Eu querê você ensiná!}{}{-4}{}{46}{}
+{45}{E:}{}{1}{}{0}{}
+{46}{Se eu concordar em treiná-lo... você promete ir embora daqui e esquecer que me viu?}{Se eu concordar em treiná-lo... você promete ir embora daqui e esquecer que me viu?}{}{}{}{}
+{47}{Eu prometo. Não tenho ideia de onde você está.}{}{5}{}{54}{}
+{50}{Hã... tá bom.}{}{-4}{}{54}{}
+{53}{E:}{}{1}{}{0}{}
+{54}{[Ele concorda a contragosto, embora ainda pareça muito desconfiado.] Muito bem. Venha, vou treiná-lo. Ele passa as próximas horas explicando anatomia para você e o posicionamento preciso de armas, para que possam causar morte instantânea. Muito bem @pcname@. Seu treinamento está completo. Agora saia deste lugar e nunca mais fale o meu nome.}{[Ele concorda a contragosto, embora ainda pareça muito desconfiado.] Muito bem. Venha, vou treiná-lo. Ele passa as próximas horas explicando anatomia para você e o posicionamento preciso de armas, para que possam causar morte instantânea. Muito bem @pcname@. Seu treinamento está completo. Agora saia deste lugar e nunca mais fale o meu nome.}{}{}{}{tr4 3, rq2166}
+{55}{Obrigado.}{}{5}{}{62}{}
+{58}{Hã... tá bom.}{}{-4}{}{62}{}
+{62}{Você não deve falar sobre o meu paradeiro, entendeu!? [Sua agitação parece estar aumentando.]}{Você não deve falar sobre o meu paradeiro. Entendeu, madame!? [Sua agitação parece estar aumentando.]}{}{}{}{}
+{63}{Não tenho intenção de traí-lo, Doutor Craig.}{}{5}{}{70}{}
+{66}{Hmm... tá bom.}{}{-4}{}{70}{}
+{70}{Como posso ter certeza? [Ele parece lutar com algum conflito interno, então se mostra resoluto.] Muito bem. Vou confiar em você. Acho que está na hora de você ir. Adeus, @pcname@.}{Como posso ter certeza? [Ele parece lutar com algum conflito interno, então se mostra resoluto.] Muito bem. Vou confiar em você. Acho que está na hora de você ir. Adeus, @pcname@.}{}{}{}{}
+{71}{Adeus, Doutor.}{}{5}{}{74}{}
+{72}{Vou embora. Pode confiar em mim... Adeus, Doutor Craig.}{}{5}{}{74}{}
+{73}{Hã... T-tchau.}{}{-4}{}{74}{}
+{74}{[Ao se virar para sair, ele subitamente saca um punhal, cravando-o em suas costas com precisão exata. Uma dor excruciante turva sua visão, enquanto você tenta desesperadamente se defender.]}{[Ao se virar para sair, ele subitamente saca um punhal, cravando-o em suas costas com precisão exata. Uma dor excruciante turva sua visão, enquanto você tenta desesperadamente se defender.]}{}{}{}{}
+{75}{[se defender.]}{}{1}{}{-3}{}
+

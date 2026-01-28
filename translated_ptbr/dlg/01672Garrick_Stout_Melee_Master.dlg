@@ -1,0 +1,237 @@
+{1}{Firme, senhor! Tem a honra de se dirigir ao Sir Garrick Stout... Capitão da Guarda de Dernholm e Mestre do Combate Corpo a Corpo! O que tem a dizer, cidadão?}{Firme, senhora! Tem a honra de se dirigir ao Sir Garrick Stout... Capitão da Guarda de Dernholm e Mestre do Combate Corpo a Corpo! O que tem a dizer, cidadã?}{}{}{}{lf 1 1}
+{2}{Sir Garrick, tenho uma pergunta...}{}{5}{}{37}{}
+{3}{Sua habilidade no Combate Corpo a Corpo é reconhecida por todos, Sir Garrick.}{}{5}{tr2 1, tr2 -2, qu1114 0}{80}{}
+{4}{Me pergunta uma coisa, Sir Gareek?}{}{-4}{}{37}{}
+{5}{O Senhor é Mestre do Maylay?}{}{-4}{tr2 1, tr2 -2, qu1114 0}{80}{}
+{6}{E:}{}{1}{}{0}{}
+{7}{}{}{}{}{}{}
+{8}{}{}{}{}{}{}
+{10}{Firme, cidadão! Tem novamente a honra da minha companhia... sem dúvida se lembra de mim, Sir Garrick Stout, Mestre do Combate Corpo a Corpo?! O que tem a dizer?}{Firme, cidadão! Tem novamente a honra da minha companhia... sem dúvida se lembra de mim, Sir Garrick Stout, Mestre do Combate Corpo a Corpo?! O que tem a dizer?}{}{}{}{}
+{11}{Sir Garrick... tenho uma pergunta...}{}{5}{}{37}{}
+{12}{Tenho uma mensagem para entregar da parte de Adkin Chambers.}{}{5}{qu 1105 2}{252}{}
+{13}{Tenho uma mensagem para entregar da parte de Adkin Chambers.}{}{5}{qu 1116 2}{252}{}
+{14}{Sua habilidade no Combate Corpo a Corpo é reconhecida por todos, Sir Garrick.}{}{5}{tr2 1, tr2 -2, qu1114 0}{80}{}
+{15}{Eu resgatarei a Lady Druella. O que devo fazer?}{}{5}{qu1114 1}{152}{}
+{16}{Ainda estou tentando convencer a Lady Druella a voltar...}{}{5}{qu1114 2}{180}{}
+{17}{A Lady Druella está morta. Você é o próximo, Sir Garrick!}{}{5}{qu1114 6, gf2290 1}{}{co, fl 188}
+{18}{Resgatei a Lady. Eu a entrego aos seus cuidados.}{}{5}{lf 13 1, qu1114 2}{-7}{}
+{19}{Voltei com a Lady Druella. Ela está disposta a se casar com você.}{}{5}{lf 13 1, qu1114 3}{-7}{}
+{20}{Falhei em trazer a Lady Druella. Por favor, me perdoe.}{}{5}{lf 13 0, qu1114 3}{183}{qu1115 6}
+{21}{Falhei em trazer a Lady Druella. Por favor, me perdoe.}{}{5}{qu1114 5, gf2290 0}{183}{}
+{22}{A Lady Druella está morta. Você é o próximo, Sir Garrick!}{}{5}{qu1114 5, gf2290 1}{}{co, fl 188}
+{23}{Me pergunta uma coisa, Sir Gareek?}{}{-4}{}{37}{}
+{24}{Me tem mensagem de Adkin pra você.}{}{-4}{qu 1105 2}{252}{}
+{25}{Me tem mensagem de Adkin pra você.}{}{-4}{qu 1116 2}{252}{}
+{26}{O Senhor é Mestre do Maylay?}{}{-4}{tr2 1, tr2 -2, qu1114 0}{80}{}
+{27}{Me vai trazer a Lady de volta. O que me faz agora?}{}{-4}{qu1114 1}{152}{}
+{28}{Me ainda não pegou a Lady...}{}{-4}{qu1114 2}{180}{}
+{29}{Lady bonita morta. Me sente muito... agora você sente muito!}{}{-4}{qu1114 6, gf2290 1}{}{co, fl 188}
+{30}{Me pegou a Lady! Ela não gosta de você. Me quer treinamento.}{}{-4}{lf 13 1, qu1114 2}{-7}{}
+{31}{Me pegou a Lady! Ela diz que casa com você.}{}{-4}{lf 13 1, qu1114 3}{-7}{}
+{32}{Me achou Lady bonita... me perdeu Lady... o que me faz agora?}{}{-4}{lf 13 0, qu1114 3}{183}{qu1115 6}
+{33}{Eu não consegui a Dama. Me desculpe...}{}{-4}{qu1114 5, gf2290 0}{183}{}
+{34}{A Dama bonita está morta. Me desculpe... agora você vai se arrepender!}{}{-4}{qu1114 5, gf2290 1}{}{co, fl 188}
+{35}{F:}{}{1}{}{0}{}
+{36}{}{}{}{}{}{}
+{37}{Meus deveres estão me chamando... seja rápido e não perca meu tempo com assuntos frívolos!}{Meus deveres estão me chamando... seja rápido e não perca meu tempo com assuntos frívolos!}{}{}{}{}
+{38}{Eu devo resgatar a Dama Druella. O que devo fazer?}{}{5}{qu1114 1}{152}{}
+{39}{Ainda estou tentando convencer a Dama Druella a voltar...}{}{5}{qu1114 2}{180}{}
+{40}{Tenho uma mensagem para entregar de Adkin Chambers.}{}{5}{qu 1105 2}{252}{}
+{41}{Tenho uma mensagem para entregar de Adkin Chambers.}{}{5}{qu 1116 2}{252}{}
+{42}{Eu resgatei a Dama. Eu a confio aos seus cuidados.}{}{5}{lf 13 1, qu1114 2}{-7}{}
+{43}{Voltei com a Dama Druella. Ela está disposta a se casar com você.}{}{5}{lf 13 1, qu1114 3}{-7}{}
+{44}{Falhei em trazer a Dama Druella. Por favor, me perdoe.}{}{5}{lf 13 0, qu1114 3}{183}{qu1115 6}
+{45}{Falhei em trazer a Dama Druella. Por favor, me perdoe.}{}{5}{qu1114 5, gf2290 0}{183}{}
+{46}{A Dama Druella está morta. Você é o próximo, Sir Garrick!}{}{5}{qu1114 5, gf2290 1}{}{co, fl 188}
+{47}{A Dama Druella está morta. Você é o próximo, Sir Garrick!}{}{5}{qu1114 6, gf2290 1}{}{co, fl 188}
+{48}{Eu vou trazer a Dama de volta. O que eu faço agora?}{}{-4}{qu1114 1}{152}{}
+{49}{Eu ainda não consegui a Dama...}{}{-4}{qu1114 2}{180}{}
+{50}{Eu tenho uma mensagem de Adkin para você.}{}{-4}{qu 1105 2}{252}{}
+{51}{Eu tenho uma mensagem de Adkin para você.}{}{-4}{qu 1116 2}{252}{}
+{52}{Eu consegui a Dama! Ela não gosta de você. Eu quero treinamento.}{}{-4}{lf 13 1, qu1114 2}{-7}{}
+{53}{Eu consegui a Dama! Ela disse que vai se casar com você.}{}{-4}{lf 13 1, qu1114 3}{-7}{}
+{54}{Eu encontrei a Dama bonita... eu perdi a Dama... o que eu faço agora?}{}{-4}{lf 13 0, qu1114 3}{183}{qu1115 6}
+{55}{Eu não consegui a Dama. Me desculpe...}{}{-4}{qu1114 5, gf2290 0}{183}{}
+{56}{A Dama bonita está morta. Me desculpe... Agora você vai se arrepender!}{}{-4}{qu1114 5, gf2290 1}{}{co, fl 188}
+{57}{A Dama bonita está morta. Me desculpe... agora você vai se arrepender!}{}{-4}{qu1114 6, gf2290 1}{}{co, fl 188}
+{58}{Sou um especialista em Combate Corpo a Corpo e procuro um Mestre.}{}{5}{tr2 1, tr2 -2, qb1114 1}{80}{}
+{59}{Você é Mestre de <<<PH1>>>? Eu quero que você me treine!}{}{-4}{tr2 1, tr2 -2, qb1114 1}{80}{}
+{60}{K:}{}{1}{}{0}{fl  72}
+{61}{E:}{}{1}{}{0}{}
+{62}{}{}{}{}{}{}
+{63}{}{}{}{}{}{}
+{64}{O que você quer? Não perca meu tempo...}{O que você quer? Não perca meu tempo...}{}{}{}{}
+{65}{C:}{}{5}{}{64}{}
+{66}{Você não é o Mestre de Combate Corpo a Corpo?}{}{5}{tr2 1, tr2 -2, qu1114 0}{80}{}
+{67}{Há algo de interessante por aqui?}{}{5}{}{0}{fl  72}
+{68}{H:}{}{1}{}{64}{}
+{69}{Você é o Mestre do Combate?}{}{-4}{tr2 1, tr2 -2, qu1114 0}{80}{}
+{70}{O que tá rolando por aqui?}{}{-4}{}{0}{fl  72}
+{71}{E:}{}{1}{}{0}{}
+{72}{Sério, senhor! Não tenho tempo para essas trivialidades comuns! Não me incomode mais!}{Sério, madame! Não tenho tempo para essas trivialidades comuns! Não me incomode mais!}{}{}{}{re -10}
+{73}{Não quero nada de você, seu cão choramingão!}{Não quero nada de você, seu cão choramingão!}{}{}{}{}
+{74}{Cão choramingão! Exijo satisfação! [Bate nele.]}{}{5}{}{}{co, fl 87}
+{75}{K:}{}{5}{}{64}{}
+{76}{E:}{}{5}{}{0}{}
+{77}{Eu não sou cão! Eu mato você!}{}{-4}{}{}{co, fl 87}
+{78}{K:}{}{-4}{}{64}{}
+{79}{E:}{}{-4}{}{0}{}
+{80}{Sim, sou o Mestre do Combate. Não tenho igual, pois nunca fui derrotado em batalha! Por que me procura?}{Sim, sou o Mestre do Combate. Não tenho igual, pois nunca fui derrotado em batalha! Por que me procura?}{}{}{}{}
+{81}{Você me treinaria para ser um Mestre como você?}{}{5}{tr2 2, tr2 -2, sk2 18}{93}{}
+{82}{Pode me ensinar? Preciso melhorar minhas habilidades de luta.}{}{5}{tr2 -2, sk2 -17}{88}{}
+{84}{Você me ensina a ser Mast'r também?}{}{-4}{tr2 2, tr2 -2, sk2 18}{93}{}
+{85}{Oh! Eu querer saber lutar bem. Você ensina?}{}{-4}{tr2 -2, sk2 -17}{88}{}
+{86}{E:}{}{1}{}{0}{}
+{87}{A morte está sobre você, escória inútil!}{A morte está sobre você, escória inútil!}{}{}{}{}
+{88}{Sua habilidade insignificante não seria desafio para mim, eu o espetaria tão facilmente quanto um peixe em uma bandeja. Vá embora e não me incomode novamente, a menos que alcance um nível digno da minha atenção.}{Sua habilidade insignificante não seria desafio para mim, eu o espetaria tão facilmente quanto um peixe em uma bandeja. Vá embora e não me incomode novamente, a menos que alcance um nível digno da minha atenção.}{}{}{}{}
+{89}{Como ousa! Vou lhe mostrar quão habilidoso sou!}{}{5}{}{}{co, fl 87}
+{90}{E:}{}{5}{}{0}{}
+{91}{Eu te mato!}{}{-4}{}{}{co, fl 87}
+{92}{E:}{}{-4}{}{0}{}
+{93}{Você parece ter algum treinamento, embora eu duvide que algum dia chegue perto do meu nível. Se realmente deseja treinamento, tenho uma tarefa para você completar como teste de sua habilidade.}{Você parece ter algum treinamento, embora eu duvide que algum dia chegue perto do meu nível. Se realmente deseja treinamento, tenho uma tarefa para você completar como teste de sua habilidade.}{}{}{}{}
+{94}{Estou pronto. Qual é a sua tarefa?}{}{5}{}{101}{}
+{96}{E:}{}{5}{}{0}{}
+{97}{Já sou seu Mestre. Permita-me demonstrar!}{}{5}{}{}{co, fl 87}
+{98}{Tá bom. O que você quer que eu faça?}{}{-4}{}{101}{}
+{99}{Eu já sou melhor que você! Vou provar!}{}{-4}{}{}{co, fl 87}
+{100}{E:}{}{-4}{}{0}{}
+{101}{Trata-se da minha noiva, a Lady Druella. Ela é uma beleza delicada, frágil como são as mulheres de berço... Fui forçado a um duelo, que ela infelizmente presenciou. Destruí o ofensor e temo que a visão de tanta violência tenha sido demais para sua sensibilidade delicada.}{Trata-se da minha noiva, a Lady Druella. Ela é uma beleza delicada, frágil como são as mulheres de berço... Fui forçado a um duelo, que ela infelizmente presenciou. Destruí o ofensor e temo que a visão de tanta violência tenha sido demais para sua sensibilidade delicada.}{}{}{}{}
+{102}{O que aconteceu?}{}{5}{}{106}{}
+{103}{Minhas desculpas, mas preciso seguir meu caminho.}{}{5}{}{0}{}
+{104}{O que aconteceu?}{}{-4}{}{106}{}
+{105}{E:}{}{-4}{}{0}{}
+{106}{Ela fugiu da cena, claramente perturbada. Tentei segui-la para acalmá-la, mas quando descobri sua localização, já era tarde demais. Ela havia sido cercada por uma matilha de Gyr-Dolour. Não ousei me mostrar, com medo de aumentar seu desespero e provocar as feras.}{Ela fugiu da cena, claramente perturbada. Eu a segui para tentar acalmá-la, mas quando descobri sua localização, já era tarde demais. Ela havia sido cercada por uma matilha de Gyr-Dolour. Não ousei me mostrar, com medo de aumentar seu desespero e provocar as feras.}{}{}{}{}
+{107}{Gyr-Dolour? O que são eles?}{}{5}{}{113}{}
+{108}{Minhas desculpas, mas preciso seguir meu caminho.}{}{5}{}{0}{}
+{109}{Por que você não a resgatou das criaturas?}{}{5}{}{118}{}
+{110}{Geer Doler? O que é isso?}{}{-4}{}{113}{}
+{111}{Por que você não foi buscá-la?}{}{-4}{}{118}{}
+{112}{E:}{}{-4}{}{0}{}
+{113}{Feras nojentas e muito mortais! Elas buscam os fracos e os traumatizados e se alimentam de suas emoções fortes. Suas vítimas existem em um estado de transe de agonia emocional... às vezes por meses antes de morrerem. Os Gyr-Dolour, geralmente uma matilha deles, suprem as necessidades básicas de suas presas para prolongar sua alimentação.}{Feras nojentas e muito mortais! Elas buscam os fracos e os traumatizados e se alimentam de suas emoções fortes. Suas vítimas existem em um estado de transe de agonia emocional... às vezes por meses antes de morrerem. Os Gyr-Dolour, geralmente uma matilha deles, suprem as necessidades básicas de suas presas para prolongar sua alimentação.}{}{}{}{}
+{114}{Por que você não a resgatou das criaturas?}{}{5}{}{118}{}
+{116}{Por que você não foi buscá-la?}{}{-4}{}{118}{}
+{118}{Temo que minha presença agravaria ainda mais a agonia da Lady Druella, talvez mergulhando-a ainda mais nos reinos traumatizados de sua mente assombrada. Se isso acontecer, os Gyr-Dolour certamente entrarão em frenesi. Receio que possam machucá-la nesse estado.}{Temo que minha presença agravaria ainda mais a agonia da Lady Druella, talvez mergulhando-a ainda mais nos reinos traumatizados de sua mente assombrada. Se isso acontecer, os Gyr-Dolour certamente entrarão em frenesi. Receio que possam machucá-la nesse estado.}{}{}{}{}
+{119}{Entendo. O que você quer que eu faça?}{}{5}{}{130}{}
+{120}{Ela não vai acabar voltando a si e retornando?}{}{5}{}{125}{}
+{122}{Eu entendo. O que você quer que eu faça?}{}{-4}{}{130}{}
+{123}{Ela não vai melhorar e voltar quando estiver feliz?}{}{-4}{}{125}{}
+{125}{Se a vítima algum dia se fortalecer e tentar partir, os Gyr-Dolour a matam e saem em busca de novas presas.}{Se a vítima algum dia se fortalecer e tentar partir, os Gyr-Dolour a matam e saem em busca de novas presas.}{}{}{}{}
+{126}{Entendo. O que você quer que eu faça?}{}{5}{}{130}{}
+{127}{Minhas desculpas, mas preciso seguir meu caminho.}{}{5}{}{0}{}
+{128}{Eu entendo. O que você quer que eu faça?}{}{-4}{}{130}{}
+{129}{E:}{}{-4}{}{0}{}
+{130}{Primeiro, você deve destruir as feras.}{Primeiro, você deve destruir as feras.}{}{}{}{}
+{131}{E depois?}{}{5}{}{135}{}
+{132}{Tudo bem?}{}{-4}{}{135}{}
+{135}{Então preciso que você fale com a Lady Druella. Diga a ela sobre meu desejo de me casar com ela. Avise que sinto muito por ela ter ficado perturbada ao testemunhar o massacre, diga que tenho uma proposta para ela...}{Então preciso que você fale com a Lady Druella. Diga a ela sobre meu desejo de me casar com ela. Avise que sinto muito por ela ter ficado perturbada ao testemunhar o massacre, diga que tenho uma proposta para ela...}{}{}{}{}
+{136}{Uma proposta?}{}{5}{}{140}{}
+{138}{Uma proypoysal? O que é isso?}{}{-4}{}{140}{}
+{140}{Durante a batalha, meu oponente, Adkin Chambers, ficou gravemente desfigurado e cego. Ele agora reside nos arredores de Stillwater, um recluso enlouquecido. A Lady Druella o conhecia e está perturbada com a situação. Diga a ela que encontrei uma maneira de curar sua cegueira.}{Durante a batalha, meu oponente, Adkin Chambers, ficou gravemente desfigurado e cego. Ele agora reside nos arredores de Stillwater, um recluso enlouquecido. A Lady Druella o conhecia e está perturbada com a situação. Diga a ela que encontrei uma maneira de curar sua cegueira.}{}{}{}{}
+{141}{Você encontrou uma maneira de curar a cegueira?}{}{5}{}{147}{}
+{142}{Curar a cegueira? Como você pode fazer isso?}{}{5}{}{147}{}
+{143}{E:}{}{5}{}{0}{}
+{144}{Você vai consertar os olhos dele?}{}{-4}{}{147}{}
+{145}{Curar ele? Como você faz isso?}{}{-4}{}{147}{}
+{146}{E:}{}{-4}{}{0}{}
+{147}{Sim. Adquiri uma poção mágica que, uma vez ingerida, restaurará a visão dos cegos. Como pode imaginar, não foi fácil de obter. Para apaziguar os sentimentos dela, estou oferecendo presentear Adkin com a poção. Se ela concordar, é claro.}{Sim. Adquiri uma poção mágica que, uma vez ingerida, restaurará a visão dos cegos. Como pode imaginar, não foi fácil de obter. Para apaziguar os sentimentos dela, estou oferecendo presentear Adkin com a poção. Se ela concordar, é claro.}{}{}{}{}
+{148}{O que você quer dizer com 'se ela concordar'?}{}{5}{}{152}{}
+{150}{O que você quer dizer com 'se ela concordar'?}{}{-4}{}{152}{}
+{152}{Tudo o que peço é a mão dela em casamento, de livre vontade. Ela só precisa voltar para mim em um estado de concordância, e eu garantirei que Adkin seja curado e volte a ser como antes. O que me diz? Aceita minha tarefa?}{Tudo o que peço é a mão dela em casamento, de livre vontade. Ela só precisa voltar para mim em um estado de concordância, e eu garantirei que Adkin seja curado e volte a ser como antes. O que me diz? Aceita minha tarefa?}{}{}{}{qu1114 1}
+{153}{Há apenas um problema. Adkin Chambers está morto.}{}{5}{gf 2286 1}{208}{}
+{154}{Hã, esse cara tá morto. Você tem cura pra isso?}{}{-4}{gf 2286 1}{208}{}
+{155}{Aceito. Onde ela está?}{}{5}{gf 2286 0}{175}{qu1114 2}
+{156}{Preciso pensar sobre isso. Voltarei mais tarde.}{}{5}{}{0}{}
+{157}{Você quer chantageá-la para se casar com você? Não, obrigado!}{}{5}{}{163}{}
+{158}{Você quer uma noiva que foi coagida? Tudo bem, eu a trago.}{}{5}{gf 2286 0}{175}{qu1114 2}
+{159}{Eu a trago! Me diga onde ela está.}{}{-4}{gf 2286 0}{175}{qu1114 2}
+{160}{Não tenho certeza. Preciso pensar. Volto mais tarde.}{}{-4}{}{0}{}
+{161}{Você quer uma garota que não te quer. Eu a trago para você!}{}{-4}{gf 2286 0}{175}{qu1114 2}
+{162}{Você quer que eu faça uma garota gostar de você!?! Eu não quero.}{}{-4}{}{163}{}
+{163}{Como eu suspeitava. Você não é verdadeiramente capaz de se tornar um Mestre.}{Como eu suspeitava. Você não é verdadeiramente capaz de se tornar um Mestre.}{}{}{}{}
+{164}{O que sua vida amorosa tem a ver com minhas habilidades de combate corpo a corpo!?}{}{5}{}{170}{}
+{165}{Vou buscá-la, e então veremos quem é capaz!}{}{5}{}{175}{qu1114 2}
+{166}{Você não é capaz de continuar vivo! Morra, porco!}{}{5}{}{}{co, fl 87}
+{167}{O que sua garota tem a ver com meu treinamento com você?}{}{-4}{}{170}{}
+{168}{Eu sou bom o suficiente! Eu a trago! Você vai ver! Onde ela está?}{}{-4}{}{175}{qu1114 2}
+{169}{Eu mato você! Então você vai ver que sou bom o suficiente!}{}{-4}{}{}{co, fl 87}
+{170}{Você acha que o Gyr-Dolour não será desafio suficiente para você? Druella é meu pequeno bônus. Você só precisa trazê-la para mim, então eu o treinarei...}{Você acha que o Gyr-Dolour não será desafio suficiente para você? Druella é meu pequeno bônus. Você só precisa trazê-la para mim, então eu o treinarei...}{}{}{}{}
+{171}{Não, obrigado. Eu não gosto de você, e tenho certeza de que ela nunca vai gostar.}{}{5}{}{0}{re -10}
+{172}{Aceitarei sua tarefa. Onde está a moça?}{}{5}{}{175}{qu1114 2}
+{173}{Não! Eu não gosto de você. Aposto que ela NÃO gosta mesmo de você.}{}{-4}{}{0}{re -10}
+{174}{Eu vou fazer isso. Onde ela está?}{}{-4}{}{175}{qu1114 2}
+{175}{Excelente. Aqui, deixe-me mostrar no seu mapa. Agora vá e a traga para mim. Mal posso esperar para tê-la só para mim...}{Excelente. Aqui, deixe-me mostrar no seu mapa. Agora vá e a traga para mim. Mal posso esperar para tê-la só para mim...}{}{}{}{MM 41}
+{176}{Voltarei em breve com a Lady Druella.}{}{5}{}{0}{}
+{177}{Eu a trago de volta. Esteja pronto para treinar!}{}{-4}{}{0}{}
+{180}{Preciso possuir aquela mulher! Ande logo, seu inútil!}{Preciso possuir aquela mulher! Ande logo, seu inútil!}{}{}{}{}
+{181}{Estou tendo algumas dificuldades. Mas não se preocupe, eu a trarei.}{}{5}{}{0}{}
+{182}{Tá bom. Eu pego ela pra você.}{}{-4}{}{0}{}
+{183}{Eu sabia que você era um fracasso desde o início, seu bastardo de baixa estirpe! Não conseguiu nem ficar de olho em uma mulher frágil! Saia daqui! Não receberá treinamento algum de mim!}{Eu sabia que você era um fracasso desde o início, seu bastardo de baixa estirpe! Não conseguiu nem ficar de olho em uma mulher frágil! Saia daqui! Não receberá treinamento algum de mim!}{}{}{}{}
+{185}{Já aguentei o suficiente dos seus insultos! Defenda-se, "mestre"!}{}{5}{}{}{co, fl 87}
+{186}{Eu não gosto de você. Eu mato você.}{}{-4}{}{}{co, fl 87}
+{187}{E:}{}{1}{}{0}{}
+{188}{Você a matou! Seu bastardo! Morte ao assassino!}{Você a matou! Sua vadia! Morte à assassina!}{}{}{}{}
+{189}{Como ousa difamar a honra dela! Você a matou! Morte a você!}{Como ousa difamar a honra dela! Você a matou! Morte a você!}{}{}{}{}
+{190}{Bem feito! Eu não achava que você fosse capaz! Então, ela vem por vontade própria? Para se casar comigo, em troca da visão de Adkin?}{Bem feito! Eu não achava que você fosse capaz! Então, ela vem por vontade própria? Para se casar comigo, em troca da visão de Adkin?}{}{}{}{}
+{191}{Sim. Ela vem. [Lady Druella concorda com a cabeça]}{}{5}{qu1114 3}{195}{}
+{192}{Não exatamente... ela não veio por escolha própria.}{}{5}{qu1114 2}{239}{}
+{193}{Ela disse que tá bom. [Lady Druella concorda com a cabeça]}{}{-4}{qu1114 3}{195}{}
+{194}{Não, ela não quer vir. Eu fiz ela dizer que sim.}{}{-4}{qu1114 2}{239}{}
+{195}{Ah, Lady, você é um espetáculo para os olhos... [ele se recompõe, lembrando de sua presença]. Sim, vamos prosseguir. Aqui está a poção de que falei [ele lhe entrega um frasco] - certifique-se de que seja entregue a Adkin Chambers, em Stillwater.}{Ah, Lady, você é um espetáculo para os olhos... [ele se recompõe, lembrando de sua presença]. Sim, vamos prosseguir. Aqui está a poção de que falei [ele lhe entrega um frasco] - certifique-se de que seja entregue a Adkin Chambers, em Stillwater.}{}{}{}{qu1114 4, qu1115 1, in -3603}
+{196}{O quê, sou seu serviçal? E o meu treinamento?!}{}{5}{}{200}{}
+{197}{Eu gostaria do meu treinamento agora...}{}{5}{}{200}{}
+{198}{O que aconteceu que eu peguei o trem?}{}{-4}{}{200}{}
+{200}{Treinamento? Ah, sim... [ele olha para você com desdém]. Você cumpriu nossa barganha. Muito bem, eu lhe concedo o treinamento. Agora você é um Mestre. Seu título é igual ao meu, mas duvido que sua habilidade algum dia será. Agora suma daqui, tenho uma noiva para levar para a cama!}{Treinamento? Ah, sim... [ele olha para você com desdém]. Você cumpriu nossa barganha. Muito bem, eu lhe concedo o treinamento. Agora você é um Mestre. Seu título é igual ao meu, mas duvido que sua habilidade algum dia será. Agora suma daqui, tenho uma noiva para levar para a cama!}{}{}{}{tr2 3, rq2164}
+{201}{É só isso? Tudo bem. Vou seguir meu caminho. Adeus!}{}{5}{}{-15}{}
+{202}{É só isso? Seu bastardo! A Druella está certa! Você precisa morrer!}{}{5}{}{}{co, fl 87}
+{203}{Bem, agora acho que é hora de você pagar por seus crimes!}{}{5}{}{}{co, fl 87}
+{205}{Isso é tudo? Tá bom. Eu vou embora agora.}{}{-4}{}{-15}{}
+{206}{Seu cara malvado e burro! A dama tá certa! Você vai morrer agora!}{}{-4}{}{}{co, fl 87}
+{208}{O quê! Chambers está morto! Maldição! Maldição, eu digo! Nunca mais terei a Bela Dama Druella agora! Parece que os deuses conspiraram para me negar essa conquista! Nunca mais a possuirei!}{O quê! Chambers está morto! Maldição! Maldição, eu digo! Nunca mais terei a Bela Dama Druella agora! Parece que os deuses conspiraram para me negar essa conquista! Nunca mais a possuirei!}{}{}{}{}
+{209}{Eu gostei muito de matá-lo.}{}{5}{}{}{co, fl 87}
+{210}{Eu poderia mentir para a dama, dizer que Chambers viveu.}{}{5}{ps 12}{222}{}
+{211}{Seu plano precisa de ajustes.}{}{5}{ps -11}{215}{}
+{212}{Eu matei o cara nervoso em Stillwa'er. Ha ha. Ele tá morto agora.}{}{-4}{}{}{co, fl 87}
+{213}{Meus parentes mentem! Você sabe, eu digo que Chambers tá bem!}{}{-4}{ps -11}{222}{}
+{214}{Seu plano não presta.}{}{-4}{}{215}{}
+{215}{[Ele parece estar pensando.] Muito lamentável para mim... mas a dama ainda não sabe que Chambers está morto. Meu plano ainda poderia funcionar se a Dama pudesse ser enganada e retornasse a Dernholm.}{[Ele parece estar pensando.] Muito lamentável para mim... mas a dama ainda não sabe que Chambers está morto. Meu plano ainda poderia funcionar se a Dama pudesse ser enganada e retornasse a Dernholm.}{}{}{}{}
+{216}{Pelo menos ela estaria segura de volta a Dernholm.}{}{5}{}{222}{}
+{217}{A dama legal estaria aqui então... isso é bom para você!}{}{-4}{}{222}{}
+{218}{Os fins justificam os meios, não é?}{}{5}{}{227}{}
+{219}{Eu não vou me rebaixar à desonestidade.}{}{5}{}{235}{}
+{220}{Eu digo não. Não é certo fazer mentira para a dama bonita.}{}{-4}{}{235}{}
+{221}{E:}{}{1}{}{0}{}
+{222}{Mentir para a Dama Druella? Dizer que Chambers vive e que eu tenho uma cura, e convencê-la a voltar para Dernholm, onde pelo menos ela estaria segura... hmmm... acho que seu plano pode ter algum mérito.}{Mentir para a Dama Druella? Dizer que Chambers vive e que eu tenho uma cura, e convencê-la a voltar para Dernholm, onde pelo menos ela estaria segura... hmmm... acho que seu plano pode ter algum mérito.}{}{}{}{}
+{223}{Pelo menos ela estaria segura de volta a Dernholm.}{}{5}{}{227}{}
+{224}{A dama legal estaria aqui então... isso é bom para você!}{}{-4}{}{227}{}
+{225}{Os fins justificam os meios, não é?}{}{5}{}{227}{}
+{226}{}{}{}{}{}{}
+{227}{[Um sorriso se abre em seu rosto] E uma vez que ela estivesse aqui... eu teria a vantagem natural da minha masculinidade e inteligência para conquistar seu coração novamente. Talvez uma mentira seja justificada. Mulheres são criaturas tão difíceis!}{[Um sorriso se abre em seu rosto] E uma vez que ela estivesse aqui... eu teria a vantagem natural da minha masculinidade e inteligência para conquistar seu coração novamente. Talvez uma mentira seja justificada. Mulheres são criaturas tão difíceis!}{}{}{}{}
+{228}{Vou encontrá-la e trazê-la de volta.}{}{5}{}{175}{qu1114 2, lf 7 1}
+{229}{Senhor, não posso mentir para a mulher. É errado.}{}{5}{}{235}{}
+{230}{Sua natureza básica não tem limites! Sugiro que se defenda.}{}{5}{}{0}{co, fl 87}
+{231}{Tá bom! Eu vou buscar a moça bonita...}{}{-4}{}{175}{qu1114 2, lf 7 1}
+{232}{Eu não minto. Mentir é ruim para as pessoas.}{}{-4}{}{235}{}
+{233}{Você é um homem mau. Vou esmagar sua cabeça!}{}{-4}{}{0}{co, fl 87}
+{234}{Abra caminho, cidadão! Deixem passar o Mestre de Combate Corpo a Corpo!}{Abra caminho, cidadão! Deixem passar o Mestre de Combate Corpo a Corpo!}{}{}{}{}
+{235}{Vejo que você professa a ultrapassada, assim chamada "virtude", da honestidade! O conceito de honestidade não tem significado para uma mente tática. Há apenas vantagem e desvantagem. Não perderei mais tempo com você sobre isso. Sua incompetência também me convenceu de que treiná-lo para ser um Mestre de Combate Corpo a Corpo seria igualmente um desperdício de tempo. Devo seguir com meus deveres.}{Vejo que você professa a ultrapassada, assim chamada "virtude", da honestidade! O conceito de honestidade não tem significado para uma mente tática. Há apenas vantagem e desvantagem. Não perderei mais tempo com você sobre isso. Sua incompetência também me convenceu de que treiná-<<<PH1>>>o para ser um Mestre de Combate Corpo a Corpo seria igualmente um desperdício de tempo. Devo seguir com meus deveres.}{}{}{}{qu 1114 6 }
+{236}{Sua arrogância lhe custou a vida!}{}{5}{}{0}{co, fl  87}
+{237}{Vou esmagar sua cabeça! Morra!}{}{-4}{}{0}{co, fl 87}
+{238}{E:}{}{1}{}{0}{lf 8 1, fl 234}
+{239}{Ah, Senhora, você é um espetáculo para ser visto... Em breve visitarei você com minhas afeições. [Ele está tremendo de excitação.] Talvez depois que você tenha se refrescado e reconsiderado sua situação, se torne mais razoável.}{Ah, Senhora, você é um espetáculo para ser visto... Em breve visitarei você com minhas afeições. [Ele está tremendo de excitação.] Talvez depois que você tenha se refrescado e reconsiderado sua situação, se torne mais razoável.}{}{}{}{qu1114 4}
+{240}{O quê, sou seu serviçal? E o meu treinamento!?!}{}{5}{}{244}{}
+{241}{Gostaria de receber meu treinamento agora...}{}{5}{}{244}{}
+{243}{Eu quero treinamento!}{}{-4}{}{244}{}
+{244}{Treinamento? Ah, sim. [Ele olha para você com desdém.] Você cumpriu nossa barganha. Muito bem, concedo-lhe o treinamento. Agora você é um Mestre. Seu título é igual ao meu, mas duvido que sua habilidade algum dia será. Agora vá embora, vou me preparar para a bela dama e nosso... prazer... mútuo!}{Treinamento? Ah, sim... [olha para você com desdém] Você cumpriu nossa barganha. Muito bem. Concedo-lhe o treinamento. Agora você é um Mestre. Seu título é igual ao meu, mas duvido que sua habilidade algum dia será. Agora vá embora. Vou me preparar para a bela dama! E nosso... prazer... mútuo!}{}{}{}{tr2 3, rq2164}
+{245}{É só isso? Tudo bem. Vou seguir meu caminho. Adeus!}{}{5}{}{0}{}
+{246}{Acho que é hora de você pagar por seus crimes, cão!}{}{5}{}{}{al +100, co, fl 87}
+{248}{Isso é tudo? Tá bom. Eu vou embora agora.}{}{-4}{}{0}{}
+{249}{Vou pegar você agora! Seu homem mau, você vai morrer!!}{}{-4}{}{}{al +100, co, fl 87}
+{251}{}{}{}{}{}{}
+{252}{[zombeteiramente] Hmm... Chambers? ...esse nome me é familiar. Ah... agora me lembro. Você se refere àquele covarde que se esconde em Stillwater? O que aquele fraco sem espinha poderia ter a me dizer?}{[zombeteiramente] Hmm... Chambers? ...esse nome me é familiar. Ah... agora me lembro. Você se refere àquele covarde que se esconde em Stillwater? O que aquele fraco sem espinha poderia ter a me dizer?}{}{}{}{}
+{253}{Ele quer você morto. E, digamos... eu concordo com ele!}{}{5}{}{}{co, fl 87}
+{254}{O homem cego diz que você deve morrer. Eu digo o mesmo...}{}{-4}{}{}{co, fl 87}
+{255}{Hmm... parece que esqueci a mensagem.}{}{5}{}{0}{fl 72}
+{256}{Eu não lembro o que queria dizer.}{}{-4}{}{0}{fl 72}
+{257}{F:}{}{1}{}{0}{fl 72}
+{258}{}{}{}{}{}{}
+

@@ -1,0 +1,48 @@
+{1}{G:}{}{}{}{}{}
+{2}{B:}{}{1}{}{25}{}
+{3}{T:10, 6}{}{1}{}{25}{}
+{4}{Que tipo de mercadorias você tem aqui?}{}{5}{}{30}{}
+{5}{Hã... O que você tem aí?}{}{-4}{}{30}{}
+{6}{C:}{}{1}{}{30}{}
+{7}{E:}{}{1}{}{0}{}
+{8}{Ah... um mago verdadeiramente poderoso! Será um prazer ajudá-lo, senhor.}{Ah... uma maga verdadeiramente poderosa! Será um prazer ajudá-la, senhora.}{}{}{}{}
+{9}{T:10, 6}{}{1}{}{25}{}
+{10}{Que tipo de mercadorias você tem aqui?}{}{5}{}{30}{}
+{11}{Hã... O que você tem aí?}{}{-4}{}{30}{}
+{12}{B:}{}{1}{}{25}{}
+{13}{E:}{}{1}{}{0}{}
+{14}{É bom vê-lo novamente, @pcname@. O que posso lhe oferecer?}{É bom vê-la novamente, @pcname@. O que posso lhe oferecer?}{}{}{}{}
+{15}{T:10, 6}{}{1}{}{25}{}
+{16}{B:}{}{1}{}{25}{}
+{17}{C:}{}{1}{}{25}{}
+{18}{E:}{}{1}{}{0}{}
+{19}{Acho que entendo agora... o senhor é um homem de meios tecnológicos! Receio não poder ajudá-lo, pois não desejo que minhas mercadorias mágicas sejam comprometidas.}{Acho que entendo agora... a senhora é uma pessoa de meios tecnológicos! Receio não poder ajudá-la, pois não desejo que minhas mercadorias mágicas sejam comprometidas.}{}{}{}{}
+{20}{I:}{}{1}{}{0}{re -3}
+{21}{F:}{}{1}{}{0}{re -1}
+{22}{E:}{}{1}{}{0}{}
+{23}{}{}{}{}{}{}
+{24}{}{}{}{}{}{}
+{25}{Há algo mais que eu possa fazer por você?}{Há algo mais que eu possa fazer por você?}{}{}{}{}
+{26}{T:10, 6}{}{1}{}{25}{}
+{27}{C:}{}{1}{}{25}{}
+{28}{B:}{}{1}{}{25}{}
+{29}{E:}{}{1}{}{0}{}
+{30}{Tenho todo tipo de mercadorias para negociar... Armaduras mágicas, armas encantadas, arcos élficos finos, joias encantadas e todo tipo de pergaminhos mágicos. Tenho certeza de que ficará satisfeito com sua qualidade e poder.}{Tenho todo tipo de mercadorias para negociar... Armaduras mágicas, armas encantadas, arcos élficos finos, joias encantadas e todo tipo de pergaminhos mágicos. Tenho certeza de que ficará satisfeita com sua qualidade e poder.}{}{}{}{}
+{31}{T:10, 6}{}{1}{}{25}{}
+{32}{C:}{}{1}{}{25}{}
+{33}{B:}{}{1}{}{25}{}
+{34}{E:}{}{1}{}{0}{}
+{35}{O que você quer, @pcname@?}{O que você quer, @pcname@?}{}{}{}{}
+{36}{T:10, 6}{}{1}{}{25}{}
+{37}{B:}{}{1}{}{25}{}
+{38}{C:}{}{1}{}{25}{}
+{39}{E:}{}{1}{}{0}{}
+{40}{Espere, reconheço um tecnólogo quando vejo um! Sua aura tecnológica é poderosa demais para minhas mercadorias! Por favor, afaste-se da minha presença!}{Espere, reconheço uma tecnóloga quando vejo uma! Sua aura tecnológica é poderosa demais para minhas mercadorias! Por favor, afaste-se da minha presença!}{}{}{}{}
+{41}{I:}{}{1}{}{0}{re -3}
+{42}{F:}{}{1}{}{0}{re -1}
+{43}{E:}{}{1}{}{0}{}
+{44}{O quê? Você é um tecnólogo! Está tentando destruir minhas mercadorias? Saia daqui!}{O quê? Você é uma tecnóloga! Está tentando destruir minhas mercadorias? Saia daqui!}{}{}{}{}
+{45}{I:}{}{1}{}{0}{re -3}
+{46}{F:}{}{1}{}{0}{re -1}
+{47}{E:}{}{1}{}{0}{}
+

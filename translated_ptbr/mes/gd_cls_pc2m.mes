@@ -1,0 +1,511 @@
+// These are class-based PC messages, said to male NPC's based on their
+// class.
+
+// Appreciation (thanks) messages start at 1000. Each class gets 50
+// messages starting on multiples of 50
+
+// noble
+{1000}{Obrigado, senhor.}
+{1001}{Obrigado.}
+{1002}{Sou muito grato.}
+{1003}{O senhor foi muito gentil.}
+{1004}{A senhora é muito gentil.}
+{1005}{O senhor foi muito bondoso.}
+{1006}{A senhora é muito bondosa.}
+{1007}{Você tem sido muito prestativo.}
+{1008}{O senhor é muito prestativo.}
+{1009}{O senhor foi muito generoso.}
+{1010}{O senhor é muito generoso.}
+{1011}{Meus sinceros agradecimentos, senhor.}
+{1012}{O senhor tem minha gratidão.}
+{1013}{A senhora tem minha gratidão.}
+{1014}{Muitíssimo obrigado, senhor.}
+{1015}{Muitíssimo obrigado.}
+{1016}{Sou grato, senhor.}
+{1017}{Sou grato.}
+{1018}{Agradeço-lhe, senhor.}
+{1019}{Agradeço.}
+{1020}{Obrigado.}
+{1021}{Muito obrigado.}
+{1022}{Obrigado.}
+
+// priest
+{1050}{Obrigado.}
+{1051}{Obrigado.}
+{1052}{Sou muito grato.}
+{1053}{Você tem sido muito gracioso.}
+{1054}{A senhora é muito gentil.}
+{1055}{Muitíssimo obrigado.}
+{1056}{A senhora é muito bondosa.}
+{1057}{Você tem sido muito prestativo.}
+{1058}{Obrigado.}
+{1059}{O senhor foi muito generoso. Tenho minha gratidão.}
+{1060}{O senhor é muito generoso.}
+{1061}{Meus sinceros agradecimentos.}
+{1062}{A senhora tem minha gratidão.}
+{1063}{O senhor tem minha gratidão.}
+{1064}{Muitíssimo obrigado.}
+{1065}{Muitíssimo obrigado, senhor.}
+{1066}{Muitíssimo obrigado, senhor.}
+{1067}{Obrigado pelo seu tempo, senhor.}
+{1068}{Obrigado.}
+{1069}{Obrigado.}
+{1070}{Obrigado.}
+{1071}{Muito obrigado.}
+{1072}{Agradeço gentilmente, senhor.}
+{1073}{Obrigado, senhor.}
+{1074}{Obrigado.}
+
+
+// wizard
+{1100}{Obrigado, senhor.}
+{1101}{Obrigado.}
+{1102}{Sou-lhe muito grato, senhor.}
+{1103}{O senhor foi muito gentil.}
+{1104}{A senhora é muito gentil.}
+{1105}{O senhor foi muito bondoso.}
+{1106}{O senhor é muito bondoso.}
+{1107}{O senhor foi muito prestativo.}
+{1108}{O senhor é muito prestativo.}
+{1109}{O senhor foi muito generoso.}
+{1110}{O senhor é muito generoso.}
+{1111}{Meus sinceros agradecimentos, senhor.}
+{1112}{O senhor tem minha gratidão.}
+{1113}{A senhora tem minha gratidão.}
+{1114}{Muitíssimo obrigado.}
+{1115}{Muitíssimo obrigado, senhor.}
+{1116}{Sou grato.}
+{1117}{Sou grato, senhor.}
+{1118}{Agradeço-lhe, senhor.}
+{1119}{Sou muito grato.}
+{1120}{Obrigado, estou muito agradecido.}
+{1121}{Obrigado. Fico muito agradecido.}
+{1122}{É uma honra, senhor.}
+{1123}{É uma honra, senhor.}
+{1124}{Que seus feitiços nunca falhem, senhor.}
+{1125}{Que seus feitiços nunca falhem, senhor.}
+{1126}{Obrigado pelo seu tempo, senhor.}
+{1127}{Obrigado, senhor. Avise-me se algum dia puder ser útil.}
+{1128}{Obrigado, senhor.}
+{1129}{Obrigado, senhor.}
+{1130}{Obrigado, senhor.}
+
+// technologist
+{1150}{Obrigado, senhor.}
+{1151}{Sou muito grato.}
+{1152}{Sou-lhe muito grato, senhor.}
+{1153}{O senhor foi muito gentil.}
+{1154}{A senhora é muito gentil.}
+{1155}{O senhor foi muito bondoso.}
+{1156}{A senhora é muito bondosa.}
+{1157}{Muito obrigado pelo seu tempo.}
+{1158}{Obrigado pelo seu valioso tempo.}
+{1159}{Obrigado pelo seu valioso tempo.}
+{1160}{Obrigado pelo seu tempo, senhor.}
+{1161}{Obrigado, senhor.}
+{1162}{Muitíssimo obrigado, bom senhor.}
+
+
+
+// shopkeeper
+{1200}{Obrigado.}
+{1201}{Obrigado.}
+{1202}{Sou-lhe muito grato, senhor.}
+{1203}{Você tem sido muito gracioso.}
+{1204}{Você tem sido muito gentil.}
+{1205}{Você tem sido muito prestativo.}
+{1206}{Você tem sido muito generoso.}
+{1207}{Meus sinceros agradecimentos.}
+{1208}{A senhora tem minha gratidão.}
+{1209}{Muitíssimo obrigado.}
+{1210}{Muitíssimo obrigado.}
+{1211}{Obrigado.}
+{1212}{Obrigado pelo seu tempo.}
+{1213}{Obrigado. Avise-me se algum dia puder ser útil.}
+{1214}{Obrigado. Fico muito agradecido.}
+{1215}{Devo-lhe uma dívida de gratidão.}
+{1216}{Estou em dívida com o senhor, obrigado.}
+{1217}{Sua bondade é apreciada.}
+{1218}{Muito obrigado.}
+{1219}{Muito gentil da sua parte.}
+{1220}{Obrigado.}
+{1221}{Muito obrigado.}
+
+
+// guard
+{1250}{Obrigado.}
+{1251}{Obrigado.}
+{1252}{Obrigado, e que suas vigílias sejam tranquilas.}
+{1253}{Você tem sido muito gracioso.}
+{1254}{A senhora é muito gentil.}
+{1255}{Você tem sido muito gentil.}
+{1256}{A senhora é muito bondosa.}
+{1257}{Você tem sido muito prestativo.}
+{1258}{O senhor é muito prestativo.}
+{1259}{Você tem sido muito generoso.}
+{1260}{O senhor é muito generoso.}
+{1261}{Meus sinceros agradecimentos.}
+{1262}{A senhora tem minha gratidão.}
+{1263}{A senhora tem minha gratidão.}
+{1264}{Muitíssimo obrigado.}
+{1265}{Muitíssimo obrigado.}
+
+// city_dweller
+{1300}{Obrigado.}
+{1301}{Muitíssimo obrigado. Vocês, gente da cidade, são muito gentis.}
+{1302}{Obrigado, bom senhor.}
+{1303}{Obrigado. Fico muito agradecido.}
+{1304}{Sou muito grato.}
+{1305}{Você tem sido muito gracioso.}
+{1306}{A senhora é muito gentil.}
+{1307}{Você tem sido muito gentil.}
+{1308}{A senhora é muito bondosa.}
+{1309}{Você tem sido muito prestativo.}
+{1310}{O senhor é muito prestativo.}
+{1311}{Você tem sido muito generoso.}
+{1312}{O senhor é muito generoso.}
+{1313}{Meus sinceros agradecimentos.}
+{1314}{A senhora tem minha gratidão.}
+{1315}{A senhora tem minha gratidão.}
+{1316}{Muitíssimo obrigado.}
+{1317}{Muitíssimo obrigado.}
+{1318}{Sou grato.}
+{1319}{Sou grato.}
+{1320}{Obrigado.}
+{1321}{Muitíssimo obrigado, bom senhor.}
+
+
+// villager
+{1350}{Valeu.}
+{1351}{Muitíssimo obrigado.}
+{1352}{Obrigado.}
+{1353}{Obrigado. Fico muito agradecido.}
+{1354}{Sou muito grato.}
+{1355}{Você tem sido muito gracioso.}
+{1356}{A senhora é muito gentil.}
+{1357}{Você tem sido muito gentil.}
+{1358}{A senhora é muito bondosa.}
+{1359}{Você tem sido muito prestativo.}
+{1360}{O senhor é muito prestativo.}
+{1361}{Você tem sido muito generoso.}
+{1362}{O senhor é muito generoso.}
+{1363}{Meus sinceros agradecimentos.}
+{1364}{A senhora tem minha gratidão.}
+{1365}{A senhora tem minha gratidão.}
+{1366}{Muitíssimo obrigado.}
+{1367}{Muitíssimo obrigado.}
+{1368}{Sou grato.}
+{1369}{Sou grato.}
+{1370}{Agradeço.}
+{1371}{Muitíssimo obrigado, bom senhor.}
+
+
+
+
+// beggar
+{1400}{Valeu.}
+{1401}{Obrigado e boa sorte.}
+{1402}{Valeu.}
+{1403}{Muitíssimo obrigado.}
+{1404}{Sou grato, senhor.}
+{1405}{Agradeço-lhe, senhor.}
+{1406}{Obrigado pelo seu tempo.}
+{1407}{Obrigado. Espero que sua sorte melhore.}
+{1408}{Obrigado, senhor. Espero que sua sorte melhore.}
+{1409}{Devo-lhe um agradecimento.}
+{1410}{Estou em dívida com você.}
+{1411}{Sua bondade é apreciada.}
+{1412}{Muito obrigado.}
+{1413}{Muito gentil da sua parte.}
+{1414}{Muito obrigado.}
+{1415}{Obrigado.}
+
+// thief
+{1450}{Obrigado.}
+{1451}{Obrigado.}
+{1452}{Obrigado. Avise-me se algum dia eu puder ser útil.}
+{1453}{Obrigado. Fico muito agradecido.}
+{1454}{Sou-lhe muito grato, senhor.}
+{1455}{A senhora tem sido muito gentil.}
+{1456}{A senhora tem minha gratidão.}
+{1457}{O senhor tem minha gratidão.}
+{1458}{Muitíssimo obrigado.}
+{1459}{Sou grato, senhor.}
+{1460}{De fato, obrigado.}
+{1461}{Obrigado pelo seu tempo.}
+{1462}{Muito gentil da sua parte.}
+{1463}{Obrigado e boa sorte.}
+{1464}{Devo-lhe um agradecimento.}
+{1465}{Estou em dívida com você.}
+{1466}{Sua bondade é apreciada.}
+{1467}{Muito obrigado.}
+{1468}{Fico lhe devendo uma.}
+{1469}{Muito obrigado.}
+{1470}{Obrigado.}
+
+// bandit
+{1500}{Valeu.}
+{1501}{Obrigado, senhor.}
+{1502}{Obrigado. Avise-me se algum dia eu puder ser útil.}
+{1503}{Obrigado. Fico muito agradecido.}
+{1504}{Obrigado e boa sorte.}
+{1505}{A senhora tem sido muito gentil.}
+{1506}{O senhor é muito bondoso.}
+{1507}{A senhora tem sido muito prestativa.}
+{1508}{A senhora tem sido muito generosa.}
+{1509}{Meus sinceros agradecimentos.}
+{1510}{A senhora tem minha gratidão.}
+{1511}{Muitíssimo obrigado.}
+{1512}{Muitíssimo obrigado, senhor.}
+{1513}{Sou grato.}
+{1514}{Agradeço.}
+{1515}{Agradeço-lhe, senhor.}
+{1516}{Obrigado pelo seu tempo.}
+{1517}{Obrigado.}
+{1518}{Devo-lhe uma dívida de gratidão.}
+{1519}{Estou em dívida com você.}
+{1520}{Sua bondade é apreciada.}
+{1521}{Muito obrigado.}
+{1522}{Muito obrigado.}
+
+
+// Asking for rumors messages start at 2000. Each class gets 50
+// messages starting on multiples of 50
+
+// noble
+{2000}{Ouviu alguma notícia interessante, senhor?}
+{2001}{Diga-me, alguma novidade entre a alta sociedade?}
+{2002}{Estou em busca de informações, senhor.}
+{2003}{Ouviu algo de interessante, senhor?}
+{2004}{Que escândalos circulam este mês, senhor?}
+{2005}{Acredito que a senhora deva saber tudo que vale a pena saber por aqui.}
+{2006}{Alguma novidade da alta sociedade, senhor?}
+{2007}{Aconteceu algo de interesse incomum ultimamente, senhor?}
+{2008}{Aconteceu algo de interesse incomum por aqui ultimamente?}
+{2009}{Aconteceu algo importante que eu deva saber, senhor?}
+{2010}{Aconteceu algo digno de nota que eu deva saber, senhor?}
+{2011}{Por acaso, sabe das últimas notícias e rumores?}
+
+// priest
+{2050}{Estou procurando informações.}
+{2051}{Algum rumor chegou até você?}
+{2052}{Ouviu algo interessante, senhor?}
+{2053}{Ouviu alguma boa história, senhor?}
+{2054}{Quais são as notícias?}
+{2055}{O senhor sabe mais que a maioria. Quais são as notícias?}
+{2056}{Aconteceu algo que eu deva saber, senhor?}
+
+// wizard
+{2100}{Já adivinhou alguma informação relevante?}
+{2101}{Ouviu algo interessante em suas viagens?}
+{2102}{Alguma novidade dos círculos arcanos?}
+{2103}{A senhora tem um ouvido perspicaz. Quais são as notícias?}
+{2104}{Aconteceu algo preocupante que eu deva saber, senhor?}
+{2105}{Quais são as notícias deste dia, senhor?}
+{2106}{Quais são as notícias de interesse, senhor?}
+
+// technologist
+{2150}{Alguma novidade ou boato, senhor?}
+{2151}{Ouviu algo interessante?}
+{2152}{Algum rumor de interesse?}
+{2153}{Ouviu alguma notícia recentemente, senhor?}
+{2154}{Aconteceu algo útil que eu deva saber?}
+{2155}{Quais são as notícias dos mestres da indústria?}
+{2156}{Que notícias pode me contar, senhor?}
+{2157}{Quais são as notícias de hoje, senhor?}
+{2158}{Encontrou algo de interesse ultimamente?}
+
+// shopkeeper
+{2200}{Alguma notícia interessante?}
+{2201}{Qual é a última novidade?}
+{2202}{Ouviu algo interessante ultimamente?}
+{2203}{Alguma notícia chegou até você recentemente?}
+{2204}{Alguma fofoca boa ultimamente?}
+{2205}{Algum rumor das rotas comerciais?}
+{2206}{O que está acontecendo por aqui?}
+{2207}{O que acontece por aqui?}
+{2208}{O que rola no moinho de rumores daqui?}
+{2209}{Qual é a fofoca atual, meu bom homem?}
+{2210}{Me conte as fofocas da cidade, meu bom homem?}
+{2211}{Algo de valor que eu deva saber?}
+
+// guard
+{2250}{Ouviu algo durante sua vigia?}
+{2251}{Algo interessante acontecendo?}
+{2252}{Ouviu algo interessante?}
+{2253}{O que está acontecendo por aqui?}
+{2254}{O que acontece por aqui?}
+{2255}{Que notícias estão circulando?}
+{2256}{Há algo que eu deva saber?}
+{2257}{Algo que eu deva tomar cuidado por aqui?}
+{2258}{Algo de importância que eu deva saber?}
+{2259}{Alguma notícia importante que eu deva saber?}
+
+// city_dweller
+{2300}{O que acontece nesta cidade?}
+{2301}{Ouviu algo interessante?}
+{2302}{O que acontece por aqui?}
+{2303}{Alguma notícia?}
+{2304}{Algo especial que eu deva saber?}
+
+// villager
+{2350}{Algo digno de notícia acontecendo?}
+{2351}{Está acontecendo alguma coisa?}
+{2352}{Ouviu algum boato, bom senhor?}
+{2353}{Ouviu algo interessante?}
+{2354}{Aconteceu algo por estas bandas?}
+{2355}{O que está acontecendo por aqui, meu bom homem?}
+{2356}{Alguma novidade passou por aqui ultimamente?}
+{2357}{Algum boato para mim, senhor?}
+{2358}{Não está acontecendo muita coisa por aqui, não é?}
+{2359}{O que me diz? Alguma ocorrência estranha ultimamente?}
+{2360}{Qual é o boato mais recente?}
+{2361}{Algo fora do comum que eu deva saber, senhor?}
+
+// beggar
+{2400}{A senhora deve ouvir muitos boatos.}
+{2401}{A senhora ouve muitos boatos?}
+{2402}{Ouviu algo interessante?}
+{2403}{Ouviu algo que possa me interessar?}
+{2404}{Algum boato chegou aos seus ouvidos, meu bom homem?}
+{2405}{O que está acontecendo por aqui?}
+{2406}{Qual tem sido a fofoca nos becos ultimamente?}
+{2407}{Aconteceu algo estranho por aqui?}
+{2408}{Que boatos tem para mim hoje?}
+{2409}{Aconteceu algo que eu deva saber?}
+
+// thief
+{2450}{Qual é a palavra nas ruas?}
+{2451}{Está acontecendo alguma coisa?}
+{2452}{Ouviu algum boato?}
+{2453}{Ouviu algo interessante?}
+{2454}{Aconteceu algo por estas bandas?}
+{2455}{O que está acontecendo por aqui, bom senhor?}
+{2456}{Alguma novidade passou por aqui ultimamente?}
+{2457}{Algum boato para mim, senhor?}
+{2458}{Não está acontecendo muita coisa por aqui, não é?}
+{2459}{O que me diz? Alguma ocorrência estranha ultimamente?}
+{2460}{Qual é o boato mais recente?}
+{2461}{Algo fora do comum que eu deva saber?}
+
+
+// bandit
+{2500}{Ouviu algum boato?}
+{2501}{Estou em busca de informações, senhor.}
+{2502}{Ouviu algo bom ultimamente?}
+{2503}{O que está acontecendo por aqui?}
+{2504}{Ouviu algo interessante?}
+{2505}{Algum boato chegou até você?}
+{2506}{Algum problema por aqui que eu deva saber?}
+
+// Insult messages start at 3000. Each class gets 50 messages starting
+// on multiples of 50
+
+// noble
+{3000}{A consanguinidade é óbvia no seu caso.}
+{3001}{Se a ignorância é uma bênção, você deve ser a pessoa mais feliz do mundo.}
+{3002}{Você possui uma inteligência comparável à de ferramentas de jardinagem.}
+{3003}{Você é um invertebrado viscoso, choramingas e rastejante!}
+{3004}{O senhor, é um nobre covarde e trêmulo, senhor.}
+{3005}{Você está privando alguma aldeia de um idiota.}
+{3006}{Você é um caso clássico de inversão crânio-retal.}
+{3007}{Você está misericordiosamente livre das devastações da inteligência.}
+{3008}{Você tem sérias ilusões de adequação.}
+{3009}{Você é tão charmoso quanto um rato morto em um pão.}
+
+// priest
+{3050}{Você deveria fazer uma busca interior, talvez encontre uma alma.}
+{3051}{Você tem um cérebro de penas e um coração de chumbo.}
+{3052}{Você parece ser um homem feito por si mesmo que idolatra seu criador.}
+{3053}{No lugar de um coração, você carrega um tumor de princípios podres.}
+{3054}{Não há nada de errado com você que a reencarnação não resolva.}
+{3055}{Seu trabalho é dedicado a espalhar ignorância?}
+{3056}{Você tem um coração mole... e uma cabeça para combinar.}
+
+// wizard
+{3100}{A magia deve confundir o cérebro, porque você é bem tapado.}
+{3101}{Não há nada soprando pelos moinhos da sua mente.}
+{3102}{Você não passa de uma treliça para varizes.}
+{3103}{Já vi pessoas como você antes, mas tive que pagar entrada.}
+{3104}{As ideias parecem apenas ecoar entre seus ouvidos.}
+{3105}{Você está em licença permanente dos seus sentidos.}
+{3106}{Vejo que usa a cabeça para evitar que a chuva entre no seu pescoço.}
+{3107}{Você é uma lenda na sua própria imaginação.}
+{3108}{Você tem uma mente tão refinada que nenhuma ideia consegue violá-la.}
+{3109}{Ouvir você é como atravessar um pântano de cola.}
+{3110}{Você é só barulho e nenhuma coerência.}
+
+// technologist
+{3150}{Acho que seu cérebro perdeu uma engrenagem.}
+{3151}{Levaram um martelo na sua cabeça ou algo assim?}
+{3152}{Eu não sou tão burro quanto você aparenta.}
+{3153}{Perdeu uma engrenagem na velha caixa craniana, foi?}
+{3154}{Esqueceu de lubrificar a caixa de engrenagens hoje de manhã, foi?}
+{3155}{Você está alguns volts abaixo do necessário.}
+{3156}{Acho que levaram pancada na cabeça uma vez a mais, não?}
+{3157}{Sua mente é tão aberta que as ideias simplesmente passam direto por ela.}
+{3158}{Você tem diarreia na boca e prisão de ventre nas ideias.}
+{3159}{Você é afiado como a borda de um rolamento de esferas.}
+
+// shopkeeper
+{3200}{Você é um verdadeiro bobo, não é?}
+{3201}{Suas mercadorias foram claramente feitas para bêbados e idiotas.}
+{3202}{Você já foi jovem e tolo. Agora não é mais jovem.}
+{3203}{Não consigo decidir. Você é um imbecil ou só meio imbecil?}
+{3204}{Vejo que você se confunde facilmente com fatos.}
+{3205}{Acho que levaram pancada na cabeça uma vez a mais, não?}
+
+// guard
+{3250}{Chamar você de burro seria um insulto aos burros.}
+{3251}{Sua boca funciona tão rápido que seu cérebro não consegue acompanhar.}
+{3252}{Acho que levaram pancada na cabeça uma vez a mais, não?}
+{3253}{Vejo que você tem uma má postura - ela não tem espinha dorsal.}
+{3254}{Se o que você não sabe não pode te machucar, você é invencível.}
+{3255}{Tenho certeza de que você não é tão burro quanto parece. Ninguém poderia ser.}
+{3256}{Você é um verdadeiro bobo, não é?}
+
+// city_dweller
+{3300}{Sua mente está sempre fresca. Deveria estar. Você nunca a usa.}
+{3301}{Sua mente está de férias, mas sua boca está trabalhando horas extras.}
+{3302}{Você não conseguiria um emprego nem como alvo de pelotão de fuzilamento.}
+{3303}{Tenho certeza de que você não é tão burro quanto parece. Ninguém poderia ser.}
+{3304}{Acho que levaram pancada na cabeça uma vez a mais, não?}
+
+
+// villager
+{3350}{Você é um verdadeiro bobo, não é?}
+{3351}{Você é afiado como um saco cheio de ratos molhados.}
+{3352}{Quando você vai ao leitor de mentes, paga meia entrada?}
+{3353}{Você tem a inteligência de um mosquito.}
+{3354}{Você é burro como uma porta de curral.}
+{3355}{Acho que levaram pancada na cabeça uma vez a mais, não?}
+{3356}{Vejo que você se confunde facilmente com fatos.}
+
+
+// beggar
+{3400}{Vejo que você se confunde facilmente com fatos.}
+{3401}{Se a ignorância é uma bênção, você deve estar em êxtase.}
+{3402}{Pensar não é o seu forte, é?}
+{3403}{Você é a prova viva de que esterco pode criar pernas e andar.}
+{3404}{Acho que levaram pancada na cabeça uma vez a mais, não?}
+{3405}{Vejo que você se confunde facilmente com fatos.}
+
+// thief
+{3450}{Vejo que você se confunde facilmente com fatos.}
+{3451}{Aposto que sua consciência está limpinha. Você nunca a usa.}
+{3452}{Você tem todas as características de um cachorro, menos a lealdade.}
+{3453}{Se cérebro fosse banha, você não conseguiria engraxar nem uma frigideira.}
+{3454}{Incrível! Nunca soube que uma pessoa podia viver sem cérebro.}
+{3455}{Acho que levaram pancada na cabeça uma vez a mais, não?}
+
+// bandit
+{3500}{Acho que levaram pancada na cabeça uma vez a mais, não?}
+{3501}{Acometido por um pouco de cérebro molhado, hein, o quê?}
+{3502}{Caramba! Você não passa de um comedor de nabos!}
+{3503}{Acabou de sair de debaixo de uma pedra, foi?}
+{3504}{Seu miserável, covarde <<<PH1>>>!}
+{3505}{O senhor é um canalha de boca suja!}
+{3506}{Seu <<<PH3>>> desgraçado!}
+{3507}{Você é um bom exemplo do porquê alguns animais comem seus filhotes.}
+
+

@@ -1,0 +1,36 @@
+// These are race-based NPC messages, said by dumb female NPC's to male PC's
+// based on the PC's race
+
+// Insult messages start at 1000.
+
+{1000}{Seu burro e feio!}
+
+
+
+// Initial bad greeting messages start at 2000. 
+
+{2000}{O que você quer?!}
+
+
+
+// Initial worst greeting messages start at 3000.
+
+{3000}{Eu num quero falar com você.}
+
+
+// Second bad greeting messages start at 4000. 
+
+{4000}{Por que você voltou aqui? Eu num gosto de você!}
+
+
+
+// Second worst greeting messages start at 5000. 
+
+{5000}{Eu ainda num quero falar com você!}
+
+
+
+// Shrink spell messages start at 6000. 
+
+{6000}{Por que você é tão <<<PH1>>>?}
+

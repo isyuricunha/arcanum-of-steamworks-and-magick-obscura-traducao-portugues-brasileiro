@@ -1,0 +1,18 @@
+// Language.mes
+//
+// Specify here what language the data files are currently in.
+// This is required to be set to the correct language, otherwise the
+// game will get patches possibly in a different language that for what
+// is installed.
+//
+// These are actually stored in ISO 639-1 Alpha-2 code:
+//    see: http://lcweb.loc.gov/standards/iso639-2/termcodes.html
+//
+// The default is en (for English) other known languages are:
+//    de - German
+//    en - English
+//    es - Spanish
+//    fr - French
+//    it - Italian
+//    sv - Swedish
+{1}{pt-BR}

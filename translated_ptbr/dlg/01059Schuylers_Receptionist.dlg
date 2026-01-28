@@ -1,0 +1,46 @@
+{1}{Olá. Bem-vindo à P. Schuyler & Filhos, comerciantes do raro e belo. Meu nome é James Kingsford. Como posso ajudá-lo?}{Olá. Bem-vindo à P. Schuyler & Filhos, comerciantes do raro e belo. Meu nome é James Kingsford. Como posso ajudá-lo?}{}{}{}{}
+{2}{Olá. Gostaria de falar com alguém sobre este anel.}{}{5}{in 2804, lf1 0}{10}{}
+{3}{Olá. Gostaria de falar com alguém sobre um anel que eu tinha.}{}{5}{ni 2804, lf1 0}{10}{}
+{4}{Olha, eu PRECISO falar com alguém sobre este anel...}{}{5}{in 2804, lf1 1}{20}{}
+{5}{Olha, eu PRECISO falar com alguém sobre um anel que eu tive...}{}{5}{ni 2804, lf1 1}{20}{}
+{6}{Hã... escute, Sr. Kingsford. Eu RECOMENDO que me deixe entrar aqui...}{}{5}{lf1 1, lf2 0}{27}{}
+{8}{Hã... tenho perguntas sobre um anel...}{}{-4}{}{64}{}
+{9}{E:}{}{1}{}{0}{}
+{10}{Com o que exatamente posso ajudá-lo? O senhor comprou o anel na P. Schuyler & Filhos?}{Com o que exatamente posso ajudá-lo? A senhora comprou o anel na P. Schuyler & Filhos?}{}{}{}{}
+{11}{Não exatamente. Eu recebi o anel de... hã... alguém...}{}{5}{}{15}{}
+{15}{Sinto muito, mas não garantimos a qualidade de nossos produtos a menos que tenham sido comprados diretamente conosco. Agora, se não há mais nada, realmente preciso voltar ao trabalho...}{Sinto muito, mas não garantimos a qualidade de nossos produtos a menos que tenham sido comprados diretamente conosco. Agora, se não há mais nada, realmente preciso voltar ao trabalho...}{}{}{}{}
+{16}{Não, o senhor não entende. Talvez se eu falasse com o Sr. Schuyler?}{}{5}{}{20}{}
+{20}{Receio que isso seja impossível. Os Schuyler são homens extremamente ocupados, e eu SEI que eles não podem ser incomodados com algo tão trivial quanto suas preocupações com um produto que nem sequer comprou...}{Receio que isso seja impossível. Os Schuyler são homens extremamente ocupados, e eu SEI que eles não podem ser incomodados com algo tão trivial quanto suas preocupações com um produto que nem sequer comprou...}{}{}{}{}
+{21}{Mas espere! Eu só preciso descobrir quem...}{}{5}{}{}{lf1 1, fl 25}
+{25}{Fico muito feliz que tenha passado aqui, no entanto. Sinta-se à vontade para dar uma olhada na loja, se desejar. Tenha um bom dia...}{Fico muito feliz que tenha passado aqui, no entanto. Sinta-se à vontade para dar uma olhada na loja, se desejar. Tenha um bom dia...}{}{}{}{gf1018 1}
+{27}{[Seu tom parece preocupá-lo.] Ah, é mesmo? Com que base o senhor RECOMENDA que eu o deixe entrar aqui?}{[Seu tom parece preocupá-la.] Ah, é mesmo? Com que base a senhora RECOMENDA que eu a deixe entrar aqui?}{}{}{}{}
+{28}{Sou das autoridades de Tarant. Estamos conduzindo uma investigação...}{}{5}{}{34}{}
+{29}{Com base no fato de que o senhor vai sangrar, caso contrário...}{}{5}{}{}{co, fl 32}
+{30}{Sem motivo, realmente. Tenha um bom dia, senhor...}{}{5}{}{0}{}
+{32}{Não aceitarei tal tratamento do senhor! Defenda-se!}{Não aceitarei tal tratamento da senhora! Defenda-se!}{}{}{}{}
+{34}{[Ele parece um pouco abalado.] A-a-as autoridades... por quê...? [Ele recupera um pouco da compostura perdida.] Entendo. Bem, se for o caso, exijo ver suas credenciais, senhor...}{[Ela parece um pouco abalada.] A-a-as autoridades... por quê...? [Ela recupera um pouco da compostura perdida.] Entendo. Bem, se for o caso, exijo ver suas credenciais, senhora...}{}{}{}{}
+{35}{O senhor não está em posição de exigir nada. Abra estas portas...}{}{5}{ps 4}{44}{}
+{36}{A senhora não está em posição de exigir nada. Abra estas portas...}{}{5}{ps -3}{40}{lf2 1}
+{37}{[Enfie a mão dentro do seu paletó.] Parece que as perdi em algum lugar...}{}{5}{}{40}{}
+{38}{Esta investigação terminou. Tenha um bom dia...}{}{5}{}{0}{}
+{40}{[Ele dá um sorrisinho para você, não convencido pela sua tentativa.] Entendo... uh, guarda. Olha, amigo... se você for embora agora, não chamarei as autoridades DE VERDADE e mandarei jogá-lo para fora daqui pelos ouvidos. Já terminamos aqui?}{[Ele dá um sorrisinho para você.] Entendo. Olha, madame... se você for embora agora, não chamarei as autoridades DE VERDADE e mandarei jogá-la para fora daqui pelos ouvidos. Já terminamos aqui?}{}{}{}{}
+{41}{Sim, terminamos. Parece que não tenho escolha a não ser matá-lo...}{}{5}{}{}{co, fl 32}
+{42}{Sim, acho que já vou indo...}{}{5}{}{0}{}
+{44}{[O estratagema parece funcionar.] Uh... olha, eu não tenho NADA a ver com o que está acontecendo lá embaixo! Eu só trabalho aqui em cima, vigio a porta da frente...}{[O estratagema parece funcionar.] Uh... olha, eu não tenho NADA a ver com o que está acontecendo lá embaixo! Eu só trabalho aqui em cima, vigio a porta da frente...}{}{}{}{}
+{45}{O que exatamente está acontecendo lá embaixo, Sr. Kingsford?}{}{5}{}{47}{}
+{47}{Não! Não posso falar sobre isso! E-eles... fizeram algo comigo... se eu contar, então... por favor, não me obrigue a dizer mais nada! [Ele lhe entrega uma chave.] Por favor, pegue isto e me deixe ir...!}{Não! Não posso falar sobre isso! E-eles... fizeram algo comigo... se eu contar, então... por favor, não me obrigue a dizer mais nada! [Ele lhe entrega uma chave.] Por favor, pegue isto e me deixe ir...!}{}{}{}{in -4403}
+{48}{Tudo bem, James. Você pode ir. Eu cuido disso...}{}{5}{}{-9}{}
+{49}{Sinto muito, mas você vai ter que me contar TUDO!}{}{5}{}{53}{}
+{51}{Obrigado! Estou indo embora e prometo que nunca mais voltarei...!}{Obrigado! Estou indo embora e prometo que nunca mais voltarei...!}{}{}{}{}
+{53}{Oh, deus, não... [Ele se aproxima, sussurrando.] Tudo bem, talvez se eles não ouvirem. Eles são monstros! Você não faz ideia do que acontece lá embaixo! Eu só trabalho para eles porque estava passando por dificuldades e minha família precisava do dinheiro. Mas se eu soubesse... preferiria morrer de fome a saber o que sei!}{Oh, deus, não... [Ele se aproxima, sussurrando.] Tudo bem, talvez se eles não ouvirem. Eles são monstros! Você não faz ideia do que acontece lá embaixo! Eu só trabalho para eles porque estava passando por dificuldades e minha família precisava do dinheiro. Mas se eu soubesse... preferiria morrer de fome a saber o que sei!}{}{}{}{}
+{54}{O quê? O que é isso! O que há de tão estranho na P. Schuyler & Filhos?}{}{5}{}{56}{}
+{56}{[Ele está suando, sibilando entre os dentes.] Eles não são o que parecem, eles FAZEM coisas... oh, deus! NÃO! EU DISSE QUE ELES SABERIAM SE EU FALASSE...! ESTÁ DOENDO! OH DEUS, COMO DÓI!}{[Ele está suando, sibilando entre os dentes.] Eles não são o que parecem, eles FAZEM coisas... oh, deus! NÃO! EU DISSE QUE ELES SABERIAM SE EU FALASSE...! ESTÁ DOENDO! OH DEUS, COMO DÓI!}{}{}{}{}
+{57}{O que...? O que está acontecendo?}{}{5}{}{-4}{}
+{59}{É veneno! Oh, a dor...! DEUS, ME AJUDE...!}{É veneno! Oh, a dor...! DEUS, ME AJUDE...!}{}{}{}{}
+{60}{O que posso fazer? James, o que posso fazer...?}{}{5}{}{}{nk, fl 62}
+{61}{Ah. Parece que finalmente está recebendo o que merece, velho...}{}{5}{}{}{al -20, nk, fl 62}
+{62}{[James Kingsford cai no chão. Ele está morto.]}{[James Kingsford cai no chão. Ele está morto.]}{}{}{}{}
+{64}{[O homem está obviamente enojado com sua inferioridade mental.] Por favor, senhor. Isto é um estabelecimento comercial, não um asilo. Por favor, deixe o local imediatamente...}{[O homem está obviamente enojado com sua inferioridade mental.] Por favor, madame. Isto é um estabelecimento comercial, não um asilo. Por favor, deixe o local imediatamente...}{}{}{}{}
+{65}{Hã? Eu não gosto de você! Agora vou ver você sangrar e morrer!}{}{-4}{}{}{co, fl 32}
+{66}{E:}{}{-4}{}{0}{}
+

@@ -1,0 +1,61 @@
+{1}{Sim, amigo? Há algo que eu possa fazer por você?}{Sim, amigo? Há algo que eu possa fazer por você?}{}{}{}{}
+{2}{B:}{}{1}{rp1001}{0}{}
+{3}{B:}{}{1}{lf10 1, rp-1001}{0}{}
+{4}{Vamos negociar.}{}{5}{rp-1001, al 51, lf1 0}{}{fl 23}
+{5}{Nós trocamos coisas.}{}{-4}{rp-1001, al 51, lf1 0}{}{fl 23}
+{6}{Vamos negociar.}{}{5}{rp-1001, al -50, lf1 1, lf2 1}{}{fl 23}
+{7}{Nós trocamos coisas.}{}{-4}{rp-1001, al -50, lf1 1, lf2 1}{}{fl 23}
+{8}{Vamos negociar.}{}{5}{rp-1001, al -50, lf2 0}{24}{}
+{9}{Nós trocamos coisas.}{}{-4}{rp-1001, al -50, lf2 0}{24}{}
+{10}{Há um assunto que precisamos discutir.}{}{5}{rp1001}{48}{}
+{11}{Há um assunto que precisamos discutir.}{}{5}{lf10 1, rp-1001}{48}{}
+{14}{Vamos negociar.}{}{5}{gf2386 1}{}{co, fl 63}
+{15}{Nós trocamos coisas.}{}{-4}{gf2386 1}{}{co, fl 63}
+{16}{Vamos negociar.}{}{5}{gf2387 1}{}{co, fl 63}
+{17}{Nós trocamos coisas.}{}{-4}{gf2387 1}{}{co, fl 63}
+{18}{Nós nós conversamos.}{}{-4}{rp1001}{48}{}
+{19}{Nós nós conversamos.}{}{-4}{lf10 1, rp-1001}{48}{}
+{20}{Você quer que eu o treine para ser um Especialista em apunhalar pelas costas?}{}{5}{tr4-1}{0}{et4 53}
+{21}{Me quer ser treinado em enfiar faca nas costas das pessoas!}{}{-4}{tr4-1}{0}{et4 53}
+{22}{E:}{}{1}{}{0}{}
+{23}{Não temos nada de interesse para "você" aqui, senhor. Adeus.}{Não temos nada de interesse para "você" aqui, madame. Adeus.}{}{}{}{}
+{24}{Sou muito seletivo com minha clientela, senhor. Meu estoque é altamente... "especializado".}{Sou muito seletiva com minha clientela, madame. Meu estoque é altamente... "especializado".}{}{}{}{lf2 1}
+{25}{Tenho procurado por alguns produtos muito "especializados"...}{}{5}{}{30}{}
+{26}{O que você quer dizer com especializado?}{}{5}{}{}{fl 47}
+{27}{Hã... Me quer coisa tipo aquela...}{}{-4}{}{30}{}
+{28}{Hã... O que você quer dizer?}{}{-4}{}{}{fl 47}
+{29}{E:}{}{1}{}{0}{}
+{30}{Tenho muitos itens que são difíceis de obter por canais "padrão". Discrição é uma qualidade valorizada por mim.}{Tenho muitos itens que são difíceis de obter por canais "padrão". Discrição é uma qualidade valorizada por mim.}{}{}{}{}
+{31}{Entendo.}{}{5}{}{36}{}
+{32}{Ah... então você negocia mercadorias roubadas?}{}{5}{}{}{fl 47}
+{33}{Certo!}{}{-4}{}{36}{}
+{34}{Ah... você tem coisa roubada?}{}{-4}{}{}{fl 47}
+{35}{E:}{}{1}{}{0}{}
+{36}{Há consequências terríveis para quem espalha boatos sobre minhas mercadorias...}{Há consequências terríveis para quem espalha boatos sobre minhas mercadorias...}{}{}{}{}
+{37}{Serei muito discreto sobre meu fornecedor, senhor.}{}{5}{}{42}{}
+{38}{É necessário ameaçar seus clientes, senhor?}{}{5}{}{}{fl 47}
+{39}{Me não fala de onde me pega coisa!}{}{-4}{}{42}{}
+{40}{Hã... o quê?}{}{-4}{}{}{fl 47}
+{41}{E:}{}{1}{}{0}{}
+{42}{Acho que vamos trabalhar bem juntos @pcname@. Em que posso ajudá-lo?}{Acho que vamos trabalhar bem juntos @pcname@. Em que posso ajudá-la?}{}{}{}{lf10 1}
+{43}{B:}{}{1}{}{48}{}
+{44}{Você quer que eu o treine para ser um Especialista em apunhalar pelas costas?}{}{5}{tr4 1, tr4-1, sk4 10}{53}{}
+{45}{Me quer ser treinado em enfiar faca nas costas das pessoas!}{}{-4}{tr4 1, tr4-1, sk4 10}{53}{}
+{46}{E:}{}{1}{}{0}{}
+{47}{Receio que não tenhamos nada de interesse para você aqui. Adeus!}{Receio que não tenhamos nada de interessante para você aqui. Adeus!}{}{}{}{lf1 1}
+{48}{Há algo mais que eu possa fazer pelo senhor?}{Há algo mais que eu possa fazer pela senhora?}{}{}{}{}
+{49}{Você me treinaria para me tornar um Especialista em apunhalar pelas costas?}{}{5}{tr4 1, tr4-1, sk4 10}{53}{}
+{50}{Me quer ser treinado em enfiar coisa nas costa das pessoa!}{}{-4}{tr4 1, tr4-1, sk4 10}{53}{}
+{51}{B:}{}{1}{}{48}{}
+{52}{E:}{}{1}{}{0}{}
+{53}{Sim... posso treiná-lo para se tornar um Especialista em apunhalar pelas costas. Isso custará 500 moedas.}{Sim... posso treiná-la para se tornar uma Especialista em apunhalar pelas costas. Isso custará 500 moedas.}{}{}{}{}
+{54}{Isso é aceitável. [Entregue as moedas a ele.]}{}{5}{$$500}{59}{}
+{55}{Vou "adquirir" algumas moedas adicionais e voltar. Adeus.}{}{5}{$$-499}{0}{}
+{56}{Tá bom. [Entregue as moedas a ele.]}{}{-4}{$$500}{59}{}
+{57}{Me arruma mais moeda. Aí me volta!}{}{-4}{$$-499}{0}{}
+{58}{F:}{}{1}{}{0}{}
+{59}{[Ele pega as moedas de você. Depois, leva alguns momentos para explicar algumas dicas e técnicas novas.] Agora você é um Especialista em apunhalar pelas costas. Se quiser se tornar um Mestre, deve procurar o Doutor Edmund Craig. Infelizmente, ele está escondido após um recente, hã, incidente "noticioso", então não posso dizer onde pode ser encontrado. Boa sorte, senhor.}{[Ele pega as moedas de você. Depois, leva alguns momentos para explicar algumas dicas e técnicas novas.] Agora você é uma Especialista em apunhalar pelas costas. Se quiser se tornar uma Mestra, deve procurar o Doutor Edmund Craig. Infelizmente, ele está escondido após um recente, hã, incidente "noticioso", então não posso dizer onde pode ser encontrado. Boa sorte, senhora.}{}{}{}{$$-500, tr4 2, ru2166}
+{60}{Obrigado.}{}{5}{}{0}{}
+{61}{Valeu!}{}{-4}{}{0}{}
+{63}{A Resistência quer que eu entregue uma "mensagem", assassino!}{A Resistência quer que eu entregue uma "mensagem", assassina!}{}{}{}{}
+

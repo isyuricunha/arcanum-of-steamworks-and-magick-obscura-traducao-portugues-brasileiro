@@ -1,0 +1,120 @@
+{1}{G:}{}{}{}{}{}
+{2}{Saudações, Mestre. Posso perguntar em qual colégio você se especializou?}{}{5}{lf1 0, re 41}{28}{}
+{3}{De qual colégio você é Mestre, grande mago?}{}{5}{lf1 0, re 41}{28}{}
+{4}{Então do que você é Mestre, mago?}{}{5}{lf1 0, re 41}{28}{}
+{5}{Perdoe-me por qualquer ofensa, grande mago. Posso saber seu nome?}{}{5}{lf1 0, re -40}{28}{re+5}
+{6}{Hmm... Posso saber seu nome, senhor?}{}{5}{lf1 0, re -40}{28}{re+2}
+{7}{Bem grosseiro para um "Mestre". Quem é você, afinal?}{}{5}{lf1 0, re -40}{28}{}
+{8}{Tenho uma pergunta, senhor.}{}{5}{lf1 1, re 41}{36}{}
+{9}{Mestre D'Ary? Posso lhe fazer uma pergunta?}{}{5}{lf1 1, re 41}{36}{}
+{10}{Poderia me conceder um momento do seu tempo, D'Ary?}{}{5}{lf1 1, re 41}{36}{}
+{11}{Humpf! ...Tenho uma pergunta... "Mestre".}{}{5}{lf1 1, re -40}{36}{}
+{12}{Por favor, perdoe minha intrusão, Mestre D'Ary. Posso fazer uma pergunta?}{}{5}{lf1 1, re -40}{36}{re+2}
+{13}{Poderia me conceder um momento do seu tempo, Mestre D'Ary?}{}{5}{lf1 1, re -40}{36}{re+1}
+{14}{Hã... Qual é o seu nome?}{}{-4}{lf1 0, re 41}{28}{}
+{15}{Hã... qual é o seu nome, malvado?}{}{-4}{lf1 0, re -40}{28}{}
+{16}{Hã... Eu pergunto uma coisa?}{}{-4}{lf1 1, re 41}{36}{}
+{17}{Hã... eu pergunto uma coisa, malvado?}{}{-4}{lf1 1, re -40}{36}{}
+{18}{Melhorei minhas habilidades em Necromancia Negra, Mestre D'Ary.}{}{5}{lf4 1, sc11 5}{78}{}
+{19}{Reforcei minha aura mágica, Mestre D'Ary.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
+{20}{Tenho interesse em me tornar um Mestre em Necromancia Negra.}{}{5}{gf2411 0, ma30, lf1 1}{101}{}
+{21}{Ainda não completei o teste para Mestria, senhor.}{}{5}{LF7 1, gf2423 0}{115}{}
+{22}{Senhor, completei o teste de Mestria em Necromancia Negra!}{}{5}{gf2423 1, lf9 0}{119}{}
+{27}{E:}{}{1}{}{0}{}
+{28}{Sou D'Ary, Mestre em Necromancia Negra. Precisa de algo?}{Sou D'Ary, Mestre em Necromancia Negra. Precisa de algo?}{}{}{}{lf1 1}
+{29}{É uma honra conhecê-lo, senhor.}{}{5}{sc11 1, sc11 -4, lf4 0}{73}{}
+{30}{É uma honra conhecê-lo, senhor.}{}{5}{sc11 5, lf5 0}{78}{}
+{31}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{sc11 0, lf3 0}{65}{}
+{32}{Por favor, explique-me sobre Necromancia Negra.}{}{5}{sc11 0, lf2 0}{57}{}
+{33}{O quê? <<<PH1>>>?}{}{-4}{sc11 0, lf2 0}{57}{}
+{34}{Você acha que essa teknawlugia te prejudica?}{}{-4}{sc11 0, lf3 0}{65}{}
+{35}{E:}{}{1}{sc11 0}{0}{}
+{36}{Suponho... O que deseja?}{Suponho... O que deseja?}{}{}{}{}
+{37}{Melhorei minhas habilidades em Necromancia Negra, Mestre D'Ary.}{}{5}{lf4 1, sc11 5, ma 30}{78}{}
+{38}{Reforcei minha aura mágica, Mestre D'Ary.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
+{39}{Tenho interesse em me tornar um Mestre em Necromancia Negra.}{}{5}{gf2411 0, ma30}{101}{}
+{40}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
+{41}{Poderia, por favor, me explicar sobre Necromancia Negra?}{}{5}{lf2 0}{57}{}
+{42}{O quê? <<<PH1>>>?}{}{-4}{lf2 0}{57}{}
+{43}{Você acha que essa teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
+{44}{F:}{}{1}{}{0}{}
+{45}{E:}{}{1}{}{0}{}
+{46}{Precisa de mais alguma coisa? Tenho feitiços para estudar, sabe.}{Precisa de mais alguma coisa? Tenho feitiços para estudar, sabe.}{}{}{}{}
+{47}{Melhorei minhas habilidades em Necromancia Negra, Mestre D'Ary.}{}{5}{lf4 1, sc11 5, ma 30}{78}{}
+{48}{Reforcei minha aura mágica, Mestre D'Ary.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
+{49}{Tenho interesse em me tornar um Mestre em Necromancia Negra.}{}{5}{gf2411 0, ma30}{101}{}
+{50}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
+{51}{Senhor, por favor, explique-me sobre Necromancia Negra.}{}{5}{lf2 0}{57}{}
+{52}{Não, senhor. Obrigado pelo seu tempo.}{}{5}{}{0}{}
+{53}{O quê? <<<PH1>>>?}{}{-4}{lf2 0}{57}{}
+{54}{Hã... Você acha que essa tecno-lugia vai te prejudicar?}{}{-4}{lf3 0}{65}{}
+{55}{Nã-nã.}{}{-4}{}{0}{}
+{56}{E:}{}{1}{}{0}{}
+{57}{Necromancia Negra lida com o dano e controle de homens e bestas através da magia. É a forma mais poderosa de magia, transcendendo até mesmo a fronteira entre vida e morte. NÃO é uma magia com a qual se deve brincar.}{Necromancia Negra lida com o dano e controle de homens e bestas através da magia. É a forma mais poderosa de magia, transcendendo até mesmo a fronteira entre vida e morte. NÃO é uma magia com a qual se deve brincar.}{}{}{}{lf2 1}
+{58}{Uma das mais refinadas habilidades mágicas disponíveis, na minha opinião, senhor.}{}{5}{}{46}{re+2}
+{59}{Muito interessante...}{}{5}{}{46}{}
+{60}{Ha! Eu não preciso me concentrar para matar pessoas!}{}{5}{ma-29}{46}{re-2}
+{61}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
+{62}{Você acha que essa teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
+{63}{Hã... tá bom. Valeu.}{}{-4}{}{0}{}
+{64}{E:}{}{1}{}{0}{}
+{65}{Ameaçado? Hah! O que eu tenho a temer? Eu, que por um capricho, posso controlar as próprias pessoas que criam essas engenhocas desprezíveis? Não, meu amigo, essa loucura certamente passará.}{Ameaçado? Hah! O que eu tenho a temer? Eu, que por um capricho, posso controlar as próprias pessoas que criam essas engenhocas desprezíveis? Não, meu amigo, essa loucura certamente passará.}{}{}{}{lf3 1}
+{66}{Sim. Você é muito sábio, Mestre D'Ary, por enxergar tal verdade.}{}{5}{}{46}{re+3}
+{67}{Você tem muito a aprender se realmente acredita nisso, mago.}{}{5}{ma-29}{}{re-5, fl 123}
+{68}{Hmm... Uma opinião interessante. Obrigado por compartilhá-la comigo.}{}{5}{}{46}{}
+{69}{Por favor, senhor, explique-me sobre a Necromancia Negra.}{}{5}{lf2 0}{57}{}
+{70}{O quê? Necro... mancia Negra?}{}{-4}{lf2 0}{57}{}
+{71}{Hã... tá bom. Valeu.}{}{-4}{}{0}{}
+{72}{E:}{}{1}{}{0}{}
+{73}{[analisando você detalhadamente] Vejo que você é um estudante de Necromancia Negra. Uma escolha sábia. Prevejo que se tornará um mago poderoso, @pcname@.}{[analisando você detalhadamente] Vejo que você é um estudante de Necromancia Negra. Uma escolha sábia. Prevejo que se tornará um mago poderoso, @pcname@.}{}{}{}{lf4 1}
+{74}{Obrigado, senhor. Mas o senhor não se sente ameaçado pela tecnologia?}{}{5}{lf3 0}{65}{}
+{75}{Obrigado, senhor. Poderia me explicar sobre a Necromancia Negra?}{}{5}{lf2 0}{57}{}
+{76}{Obrigado, Mestre D'Ary.}{}{5}{}{0}{}
+{77}{E:}{}{1}{}{0}{}
+{78}{[analisando você detalhadamente] Você é forte nas magias de Necromancia Negra. Impressionante... Tenho certeza de que está desfrutando da emoção de comandar tal poder. Diga-me... teve alguma dificuldade em aprender a Extinguir Vida?}{[analisando você detalhadamente] Você é forte nas magias de Necromancia Negra. Impressionante... Tenho certeza de que está desfrutando da emoção de comandar tal poder. Diga-me... teve alguma dificuldade em aprender a Extinguir Vida?}{}{}{}{lf5 1}
+{79}{Fui um talento natural, senhor.}{}{5}{gf2411 0, ma 30}{95}{}
+{80}{Levou algum tempo, mas valeu muito a pena.}{}{5}{gf2411 0, ma 30}{95}{}
+{81}{Extremamente, senhor. No entanto, sinto que meus esforços foram recompensados.}{}{5}{gf2411 0, ma 30}{95}{}
+{82}{Ah, eu fui um talento natural, senhor.}{}{5}{gf2411 0, ma -29}{89}{}
+{83}{Levou algum tempo, mas sinto que valeu muito a pena.}{}{5}{gf2411 0, ma -29}{89}{}
+{84}{Extremamente, senhor. No entanto, sinto que meus esforços foram recompensados.}{}{5}{gf2411 0, ma -29}{89}{}
+{85}{Fui um talento natural, senhor.}{}{5}{gf2411 1}{46}{}
+{86}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 1}{46}{}
+{87}{Extremamente, senhor. No entanto, parece que meus esforços foram recompensados.}{}{5}{gf2411 1}{46}{}
+{88}{E:}{}{1}{}{0}{}
+{89}{Você teve sucesso em todos os aspectos da Necromancia Negra, mas sua aura mágica está fraca. Receio que tenha cedido à tentação da tecnologia. Que pena... Se algum dia aumentar suas habilidades mágicas, volte a mim. Talvez eu tenha uma oferta para você.}{Você teve sucesso em todos os aspectos da Necromancia Negra, mas sua aura mágica está fraca. Receio que tenha cedido à tentação da tecnologia. Que pena... Se algum dia aumentar suas habilidades mágicas, volte a mim. Talvez eu tenha uma oferta para você.}{}{}{}{}
+{90}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
+{91}{Prefiro trilhar um caminho equilibrado entre os dois, senhor.}{}{5}{}{46}{re-2}
+{92}{Mas senhor! Sinto que a tecnologia se tornará a base, com o tempo.}{}{5}{}{46}{re-5}
+{93}{Estou trabalhando para melhorar minhas habilidades mágicas, senhor.}{}{5}{}{46}{re+5}
+{94}{E:}{}{1}{}{0}{}
+{95}{Hmm... Você realmente tem uma aura mágica forte ao seu redor... Deveria considerar se tornar um Mestre de Necromancia Negra.}{Hmm... Você realmente tem uma aura mágica forte ao seu redor... Deveria considerar se tornar um Mestre de Necromancia Negra.}{}{}{}{lf6 1}
+{96}{Um Mestre? O que é necessário para alcançar tal título?}{}{5}{}{101}{}
+{97}{O que eu preciso fazer?}{}{5}{}{101}{}
+{98}{Não me sinto pronto neste momento, senhor, mas agradeço.}{}{5}{}{46}{}
+{99}{F:}{}{5}{}{0}{}
+{100}{E:}{}{1}{}{0}{}
+{101}{Para Dominar a Magia Negra Necromântica, você deve primeiro passar por um teste difícil e perigoso. Aqueles que conseguem são recompensados com um grande presente... o esforço necessário para lançar cada feitiço da escola é reduzido pela metade! ...Esse prêmio lhe interessa?}{Para Dominar a Magia Negra Necromântica, você deve primeiro passar por um teste difícil e perigoso. Aqueles que conseguem são recompensados com um grande presente... o esforço necessário para lançar cada feitiço da escola é reduzido pela metade! ...Esse prêmio lhe interessa?}{}{}{}{}
+{102}{Sim, senhor, estou.}{}{5}{}{106}{}
+{103}{Sim!}{}{5}{}{106}{}
+{104}{Não me sinto preparado neste momento, senhor, embora lhe agradeça.}{}{5}{}{46}{}
+{105}{E:}{}{1}{}{0}{}
+{106}{Devo adverti-lo, no entanto... Você só pode obter o Domínio em uma escola de magia. Deseja tentar o teste e Dominar a escola de Magia Negra Necromântica, acima de todas as outras?}{Devo adverti-lo, no entanto... Você só pode obter o Domínio em uma escola de magia. Deseja tentar o teste e Dominar a escola de Magia Negra Necromântica, acima de todas as outras?}{}{}{}{}
+{107}{Sim, senhor, desejo.}{}{5}{}{111}{}
+{108}{Preciso pensar a respeito, senhor.}{}{5}{}{46}{}
+{109}{Não neste momento, senhor, embora lhe agradeça.}{}{5}{}{46}{}
+{110}{E:}{}{1}{}{0}{}
+{111}{Uma excelente escolha. Aqui. [Ele retira o medalhão de seu pescoço.] Pegue este medalhão. Quando estiver preparado para enfrentar seu teste, coloque-o e avance pelo portal localizado no centro deste grande salão. Isso iniciará seu teste. Você terá sucesso se seu poder for verdadeiro, @pcname@.}{Uma excelente escolha. Aqui. [Ele retira o medalhão de seu pescoço.] Pegue este medalhão. Quando estiver preparado para enfrentar seu teste, coloque-o e avance pelo portal localizado no centro deste grande salão. Isso iniciará seu teste. Você terá sucesso se seu poder for verdadeiro, @pcname@.}{}{}{}{in-2843, lf7 1, gf2411 1}
+{112}{Agradeço-lhe gentilmente, Mestre D'ary.}{}{5}{}{0}{}
+{113}{A:}{}{5}{}{0}{}
+{114}{E:}{}{5}{}{0}{}
+{115}{Sim... Às vezes, é difícil preparar-se para tal prova. Quando se sentir adequadamente preparado, avance pelos arcos localizados no coração de Tulla. Não se esqueça de usar o medalhão que criei!}{Sim... Às vezes, é difícil preparar-se para tal prova. Quando se sentir adequadamente preparado, avance pelos arcos localizados no coração de Tulla. Não se esqueça de usar o medalhão que criei!}{}{}{}{}
+{116}{Completarei meus preparativos e realizarei o teste. Adeus.}{}{5}{}{0}{}
+{117}{Vou me tornar um Mestre! Adeus!}{}{5}{}{0}{}
+{118}{E:}{}{5}{}{0}{}
+{119}{Muito bem! Muito bem mesmo, @pcname@! Pouquíssimos têm a força de vontade para alcançar tal feito. Você verá que seu poder em nossa escola aumentou em dobro. Assim, sentirá metade do esforço ao lançar um feitiço. Novamente, parabenizo-o. Que seu controle jamais vacile.}{Muito bem! Muito bem mesmo, @pcname@! Pouquíssimos têm a força de vontade para alcançar tal feito. Você verá que seu poder em nossa escola aumentou em dobro. Assim, sentirá metade do esforço ao lançar um feitiço. Novamente, parabenizo-o. Que seu controle jamais vacile.}{}{}{}{lf9 1}
+{120}{Obrigado, Mestre D'Ary.}{}{5}{}{0}{}
+{121}{Obrigado, Mestre D'Ary. Posso lhe perguntar algo mais?}{}{5}{}{46}{}
+{122}{E:}{}{5}{}{0}{}
+{123}{Você está claramente abaixo da minha inteligência. Chega dessa conversa com a ralé. Saia daqui!}{Você está claramente abaixo da minha inteligência. Chega dessa conversa com a ralé. Saia daqui!}{}{}{}{}
+

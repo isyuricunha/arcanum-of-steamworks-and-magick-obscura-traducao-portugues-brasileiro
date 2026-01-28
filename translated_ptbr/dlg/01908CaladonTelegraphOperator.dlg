@@ -1,0 +1,62 @@
+{1}{Como nós do Escritório Telegráfico Caledoniano podemos ajudá-lo hoje? Gostaria de enviar um telegrama, talvez?}{Como nós do Escritório Telegráfico Caledoniano podemos ajudá-lo hoje? Gostaria de enviar um telegrama, talvez?}{}{}{}{ }
+{2}{Quero enviar um telegrama para o Prof. Eakins na Universidade de Tarant.}{}{5}{gf2214 1, gf2385 1, gf2480 0, gf2736 0, qu1103 0}{10}{ }
+{8}{Não preciso de ajuda. Tchau.}{}{-4}{}{0}{ }
+{9}{Hoje não, obrigado.}{}{5}{}{0}{ }
+{10}{[Ele remexe alguns papéis.] Vamos ver aqui... isso custará 5 moedas. Está de acordo?}{[Ele remexe alguns papéis.] Vamos ver aqui... isso custará 5 moedas. Está de acordo?}{}{}{}{ }
+{11}{Sim. Aqui está. [Entregue as moedas a ele.]}{}{5}{$$5}{20}{$$-5 }
+{13}{Estou um pouco aquém dessa quantia.}{}{5}{$$-5}{0}{fl 30}
+{19}{Talvez em outra ocasião. Tenha um bom dia.}{}{5}{}{0}{ }
+{20}{O que deseja que este telegrama diga?}{O que deseja que este telegrama diga?}{}{}{}{lf1 1 }
+{21}{L'anamelach está livre. Por favor, indique um método para detê-lo.}{}{5}{re41}{110}{gf2378 1 }
+{22}{L'anamelach está livre. Por favor, indique um método para detê-lo.}{}{5}{re-40}{110}{gf2378 1 }
+{30}{Por favor, volte quando puder pagar pelo telegrama. Tenha um bom dia.}{Por favor, volte quando puder pagar pelo telegrama. Tenha um bom dia.}{}{}{}{ }
+{40}{O que alguém como o senhor poderia querer do Escritório Telegráfico? Tenho certeza de que não tenho nada para alguém de sua... classe.}{O que alguém como a senhora poderia querer do Escritório Telegráfico? Tenho certeza de que não tenho nada para alguém de sua... classe.}{}{}{}{ }
+{41}{Preciso enviar um telegrama para o Prof. Eakins na Universidade de Tarant.}{}{5}{gf2214 1, gf2385 1, ch-13, gf2480 0, gf2736 0, qu1103 0}{49}{ }
+{43}{Preciso enviar um telegrama para o Prof. Eakins na Universidade de Tarant.}{}{5}{gf2214 1, gf2385 1, ch14, gf2480 0, gf2736 0, qu1103 0}{70}{re50 }
+{44}{Eu até poderia ter algo para você, um chute rápido na sua cabeça.}{}{5}{}{80}{re-10 }
+{48}{E:}{}{1}{}{0}{ }
+{49}{[Ele remexe alguns papéis e olha para você com desconfiança.] Isso custará 15 moedas. Suponho que não esteja mais interessado agora que sabe o preço.}{[Ele remexe alguns papéis e olha para você com desconfiança.] Isso custará 15 moedas. Suponho que não esteja mais interessado agora que sabe o preço.}{}{}{}{ }
+{50}{Tudo certo, aqui. [Entregue as moedas a ele.]}{}{5}{$$2}{20}{lf1 1, $$-2, in-5230, fl 59}
+{52}{Estou um pouco aquém dessa quantia.}{}{5}{$$-2}{0}{fl 69}
+{58}{E:}{}{1}{}{0}{ }
+{69}{Então por que está perdendo meu tempo? Eu sabia que não tinha negócios aqui.}{Então por que está perdendo meu tempo? Eu sabia que não tinha negócios aqui.}{}{}{}{ }
+{70}{Oh, por favor, me desculpe, senhor. Eu o confundi com alguém das classes inferiores. Espero que possa perdoar minha impertinência. [Ele remexe alguns papéis.] Isso custará... bem, considerando minha rudeza, vamos dizer que será de graça para o senhor.}{Oh, por favor, me desculpe, senhora. Eu a confundi com alguém das classes inferiores. Espero que possa perdoar minha impertinência. [Ele remexe alguns papéis.] Isso custará... bem, considerando minha rudeza, vamos dizer que será de graça para a senhora.}{}{}{}{ }
+{71}{Obrigado.}{}{5}{}{20}{ }
+{75}{Obrigado, volte sempre.}{Obrigado, volte sempre.}{}{}{}{ }
+{80}{Estou pouco impressionado com o que passa por humor entre vocês, arruaceiros. Sugiro que saiam.}{Estou pouco impressionado com o que passa por humor entre vocês, arruaceiros. Sugiro que saiam.}{}{}{}{ }
+{81}{Depois que eu enviar um telegrama para o Prof. Eakins na Universidade de Tarant.}{}{5}{gf2214 1, gf2385 1, gf2480 0, gf2736 0, qu1103 0}{90}{ }
+{82}{Depois que eu acabar com sua vida miserável.}{}{5}{}{0}{fl 85 ,co}
+{84}{E:}{}{5}{}{0}{ }
+{85}{Guardas!}{Guardas!}{}{}{}{ }
+{90}{[Ele remexe alguns papéis e olha para você com desconfiança.] Isso custará 25 moedas. Suponho que não esteja mais interessado agora que sabe o preço.}{[Ele remexe alguns papéis e olha para você com desconfiança.] Isso custará 25 moedas. Suponho que não esteja mais interessado agora que sabe o preço.}{}{}{}{ }
+{91}{Tudo certo, aqui. [Entregue as moedas a ele.]}{}{5}{$$25}{20}{$$-25 }
+{92}{Estou um pouco aquém dessa quantia.}{}{5}{$$-25}{0}{fl 69}
+{93}{Isso é um absurdo!}{}{5}{}{100}{ }
+{99}{E:}{}{5}{}{0}{ }
+{100}{Talvez você aprenda a se comportar no futuro, se quiser pagar um valor razoável por telegramas no MEU escritório.}{Talvez você aprenda a se comportar no futuro, se quiser pagar um valor razoável por telegramas no MEU escritório.}{}{}{}{ }
+{101}{Tudo certo, aqui. [Entregue as moedas a ele.]}{}{5}{$$25}{20}{$$-25 }
+{102}{Estou um pouco aquém dessa quantia.}{}{5}{$$-25}{0}{fl 69}
+{103}{Estou cansado de você. Vai morrer agora.}{}{5}{}{0}{fl 85 ,co}
+{109}{E:}{}{5}{}{0}{ }
+{110}{Enviarei este telegrama com a máxima urgência, por favor, verifique mais tarde por uma resposta. Tenha um bom dia.}{Enviarei este telegrama com a máxima urgência, por favor, verifique mais tarde por uma resposta. Tenha um bom dia.}{}{}{}{ }
+{111}{E:}{}{1}{}{-8}{ }
+{115}{Enviarei este telegrama imediatamente. Qualquer coisa para tirá-lo do meu escritório. Você pode verificar mais tarde por uma resposta, mas não consigo imaginar um professor de Tarant reconhecendo um telegrama de alguém como você. Tenha um bom dia.}{Enviarei este telegrama imediatamente. Qualquer coisa para tirá-lo do meu escritório. Você pode verificar mais tarde por uma resposta, mas não consigo imaginar um professor de Tarant reconhecendo um telegrama de alguém como você. Tenha um bom dia.}{}{}{}{ }
+{116}{E:}{}{1}{}{-8}{ }
+{120}{Sim, em que podemos ajudá-lo aqui no escritório telegráfico?}{Sim, em que podemos ajudá-lo aqui no escritório telegráfico?}{}{}{}{ }
+{121}{Você já recebeu uma resposta ao meu telegrama?}{}{5}{in-5246}{135}{ }
+{122}{Você já recebeu uma resposta ao meu telegrama?}{}{5}{ni-5246, lf2 0}{0}{fl 130}
+{129}{Nada hoje.}{}{5}{}{0}{ }
+{130}{Ainda não recebemos nada. Tente novamente mais tarde.}{Ainda não recebemos nada. Tente novamente mais tarde.}{}{}{}{ }
+{135}{Sim, recebemos. E um livro chegou junto. Aqui está. [Ele os entrega a você.]}{Sim, recebemos. E um livro chegou junto. Aqui está. [Ele os entrega a você.]}{}{}{}{in-5246, in-5229, lf2 1 }
+{149}{Obrigado. Tenha um bom dia.}{}{5}{}{0}{ }
+{150}{Ah, o que você quer agora? [Ele revira os olhos.]}{Ah, o que você quer agora? [Ele revira os olhos.]}{}{}{}{ }
+{151}{Você já recebeu uma resposta ao meu telegrama?}{}{5}{in-5246, ch-13}{160}{ }
+{152}{Você já recebeu uma resposta ao meu telegrama?}{}{5}{ni-5246, lf2 0}{0}{fl 160}
+{153}{Você já recebeu uma resposta ao meu telegrama?}{}{5}{in-5246, ch14}{170}{re50 }
+{159}{Nada hoje.}{}{5}{}{0}{ }
+{160}{Estou perplexo, mas recebemos uma resposta. Um livro veio junto, embora eu não saiba que serventia isso terá para alguém como você. [Ele os entrega a você.]}{Estou perplexo, mas recebemos uma resposta. Um livro veio junto, embora eu não saiba que serventia isso terá para alguém como você. [Ele os entrega a você.]}{}{}{}{in-5246, in-5229, lf2 1 }
+{161}{Um livro pesado sempre é bom para rachar cabeças como a sua!}{}{5}{}{0}{fl 85 ,co}
+{169}{Obrigado. Tenha um bom dia.}{}{5}{}{0}{ }
+{170}{Ah, é, sim senhor, recebemos! Aqui está, e veio com um livro também. Por favor, aceite minhas desculpas, não sei no que eu estava pensando. Devo ter confundido você com outra pessoa.}{Ah, é, sim senhora, recebemos! Aqui está, e veio com um livro também. Por favor, aceite minhas desculpas, não sei no que eu estava pensando. Devo ter confundido você com outra pessoa.}{}{}{}{in-5246, in-5229, lf2 1 }
+{171}{Obrigado. Tenha um bom dia.}{}{5}{}{0}{ }
+

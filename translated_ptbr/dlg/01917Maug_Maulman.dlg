@@ -1,0 +1,38 @@
+{1}{G:}{}{}{}{}{}
+{2}{Olá. Quem é você? O que está fazendo aqui?}{}{5}{lf1 0, GF2381 0}{26}{}
+{3}{Por que você não mata essa criatura insuportável, Maug?}{}{5}{lf1 1, GF2381 0}{32}{}
+{4}{Matei o seu mestre.}{}{5}{GF2381 1}{}{fl 53}
+{15}{Hã... oi. Qual é o seu nome? Por que você tá aqui?}{}{-4}{lf1 0, GF2381 0}{26}{}
+{16}{Por que Mog não mata o elfo malvado?}{}{-4}{lf1 1, GF2381 0}{32}{}
+{17}{Eu matei o seu amo.}{}{-4}{GF2381 1}{}{fl 53}
+{25}{E:}{}{1}{}{0}{}
+{26}{Eu sou Maug. Escravo aqui.}{Eu sou Maug. Escravo aqui.}{}{}{}{lf1 1}
+{27}{Escravo? É por isso que você não destruiu essa criatura insultante?}{}{5}{}{32}{}
+{28}{É por isso que você permite que essa criatura insultante o trate mal?}{}{5}{}{32}{}
+{29}{Escravo? É por isso que você não mata esse elfo?}{}{-4}{}{32}{}
+{30}{É por isso que você deixa o elfo ser malvado?}{}{-4}{}{32}{}
+{31}{E:}{}{1}{}{0}{}
+{32}{[olhando extremamente frustrado] Quero matar. Quero matar muito! Odeio elfos... todos esses aqui... Muito ruins pra nós! Não posso lutar. Grande feitiço. Grande magia me impede de lutar. Não posso lutar com elfos... isso causa muita dor. Muita dor!}{[olhando extremamente frustrado] Quero matar. Quero matar muito! Odeio elfos... todos esses aqui... Muito ruins pra nós! Não posso lutar. Grande feitiço. Grande magia me impede de lutar. Não posso lutar com elfos... isso causa muita dor. Muita dor!}{}{}{}{}
+{33}{Grande feitiço? Alguém está te controlando com magia? Quem?}{}{5}{}{36}{}
+{34}{Grande feitiço? Te seguram aqui com magia? Quem faz isso?}{}{-4}{}{36}{}
+{35}{E:}{}{1}{}{0}{}
+{36}{T'val N'or. Mago das Trevas. Muito forte. Eu odeio muito! Quero ele morto! Quero esmagar os ossos dele com minhas mãos... isso deixaria Maug feliz! Mas Maug não pode ser feliz... não posso fazer nada!}{T'val N'or. Mago das Trevas. Muito forte. Eu odeio muito! Quero ele morto! Quero esmagar os ossos dele com minhas mãos... isso deixaria Maug feliz! Mas Maug não pode ser feliz... não posso fazer nada!}{}{}{}{}
+{37}{Não há como quebrar esse feitiço?}{}{5}{}{40}{}
+{38}{Não dá pra parar a magia?}{}{-4}{}{40}{}
+{39}{E:}{}{1}{}{0}{}
+{40}{[bufa com desgosto] Sim. Dá pra parar a magia... Tem que matar T'val N'or. ...Tenho que fazer o que Maug quer, mas não posso. Isso deixa Maug mais furioso...}{[bufa com desgosto] Sim. Dá pra parar a magia... Tem que matar T'val N'or. ...Tenho que fazer o que Maug quer, mas não posso. Isso deixa Maug mais furioso...}{}{}{}{}
+{41}{Você tem que matá-lo? ...ou qualquer um pode matá-lo?}{}{5}{}{44}{}
+{42}{Só para se Mog matar? Ou para se alguém matar o mago malvado?}{}{-4}{}{44}{}
+{43}{E:}{}{1}{}{0}{}
+{44}{Não precisa ser eu... Ele só precisa morrer, então o feitiço quebra, Maug luta de novo. [expressão de compreensão surgindo em seu rosto] Você mata T'val N'or por Maug?}{Não precisa ser eu... Ele só precisa morrer, então o feitiço quebra, Maug luta de novo. [expressão de compreensão surgindo em seu rosto] Você mata T'val N'or por Maug?}{}{}{}{}
+{45}{Talvez... O que você faria se eu fizesse isso?}{}{5}{}{48}{}
+{46}{Talvez eu possa... O que você faz então?}{}{-4}{}{48}{}
+{47}{E:}{}{1}{}{0}{}
+{48}{Maug mata todos os elfos ruins aqui. Esmaga cada osso um por um. Maug vai se divertir! Maug adora despedaçá-los! Lug, Thrall... eles também querem matá-los. [aponta para o elfo provocador] Esse morre primeiro... Você faz T'val N'or morrer?}{Maug mata todos os elfos ruins aqui. Esmaga cada osso um por um. Maug vai se divertir! Maug adora despedaçá-los! Lug, Thrall... eles também querem matá-los. [aponta para o elfo provocador] Esse morre primeiro... Você faz T'val N'or morrer?}{}{}{}{QU1140 1}
+{49}{Vou ver o que posso fazer...}{}{5}{}{0}{QU1140 2}
+{50}{Eu tento...}{}{-4}{}{0}{QU1140 2}
+{51}{F:}{}{1}{}{0}{}
+{52}{E:}{}{1}{}{0}{}
+{53}{Você é um grande guerreiro! Deixa Maug feliz. Thrall e Lugg felizes também. Muito obrigado. Vamos garantir que todos os elfos ruins estejam mortos agora. Tchau.}{Você é uma grande guerreira! Deixa Maug feliz. Thrall e Lugg felizes também. Muito obrigado. Vamos garantir que todos os elfos ruins estejam mortos agora. Tchau.}{}{}{}{gf 2717 1}
+{54}{}{}{}{}{}{}
+

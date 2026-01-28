@@ -1,0 +1,21 @@
+{1}{Saudações, bom senhor. Poderia pedir alguns momentos do seu tempo?}{Saudações, madame. Poderia pedir alguns momentos do seu tempo?}{}{}{}{}
+{2}{Claro...}{}{5}{}{5}{}
+{3}{Não... Preciso ir imediatamente às câmaras do conselheiro...}{}{5}{}{9}{}
+{5}{Muito obrigado. Muito obrigado mesmo. Entendo a situação em que se encontra, e não tomarei muito do seu tempo. Sou um representante do Departamento do Tesouro aqui em Caladon...}{Muito obrigado. Muito obrigado mesmo. Entendo a situação em que se encontra, e não tomarei muito do seu tempo. Sou um representante do Departamento do Tesouro aqui em Caladon...}{}{}{}{}
+{6}{Saudações, madame. Como posso ajudá-lo?}{}{5}{}{-12}{}
+{9}{Por favor, senhor! Apenas alguns momentos! Tenho certeza de que ficará muito feliz em ouvir o que tenho a dizer...}{Por favor, madame! Apenas alguns momentos! Tenho certeza de que ficará muito feliz em ouvir o que tenho a dizer...}{}{}{}{}
+{10}{Ah, talvez o senhor tenha razão. Alguns momentos, então...}{}{5}{}{5}{}
+{11}{Eu já disse... Não tenho tempo para essas coisas...}{}{5}{}{13}{}
+{13}{Não quis incomodar, senhor! Mas sinta-se à vontade para voltar aqui a qualquer momento antes de entrar nas câmaras do conselheiro!}{Não quis incomodar, madame! Mas sinta-se à vontade para voltar aqui a qualquer momento antes de entrar nas câmaras do conselheiro!}{}{}{}{}
+{16}{[Ela parece prestes a dizer algo, mas então para.] Ah, é VOCÊ. Fui informada de que haviam escolhido o outro sujeito. [Ela parece perder o interesse.] Suas... habilidades... em definir preços não são o que consideramos favoráveis a estas negociações. Receio que não tenhamos mais nada a tratar...}{[Ela parece prestes a dizer algo, mas então para.] Ah, é VOCÊ. Fui informada de que haviam escolhido o outro sujeito. [Ela parece perder o interesse.] Suas... habilidades... em definir preços não são o que consideramos favoráveis a estas negociações. Receio que não tenhamos mais nada a tratar...}{}{}{}{}
+{17}{E:}{}{5}{}{0}{lf2 1}
+{19}{Ouvimos grandes coisas sobre sua habilidade em definir preços, e precisamos de alguém com essa competência para nos representar de forma justa nas negociações...}{Ouvimos grandes coisas sobre sua habilidade em definir preços, e precisamos de alguém com essa competência para nos representar de forma justa nas negociações...}{}{}{}{}
+{20}{Claro. Como posso ajudar?}{}{5}{}{22}{}
+{22}{Bem, os membros do Reino Unificado pagam um imposto considerável para serem incluídos. Novos membros geralmente são mais taxados. Caladon precisa de tempo para se desenvolver nesta nova era, e o imposto nos prejudicará. Claro que gostaríamos de não pagar imposto algum, mas se conseguir uma isenção de cinco anos e depois uma taxa reduzida, estaria autorizado a 'doar' 1000 peças de ouro a você...}{Bem, os membros do Reino Unificado pagam um imposto considerável para serem incluídos. Novos membros geralmente são mais taxados. Caladon precisa de tempo para se desenvolver nesta nova era, e o imposto nos prejudicará. Claro que gostaríamos de não pagar imposto algum, mas se conseguir uma isenção de cinco anos e depois uma taxa reduzida, estaria autorizado a 'doar' 1000 peças de ouro a você...}{}{}{}{gf2237 1}
+{23}{Interessante. Deixe-me pensar a respeito...}{}{5}{}{}{lf1 1, fl 25}
+{25}{Volte aqui se for bem-sucedido, e eu lhe darei nossa 'doação'...}{Volte aqui se for bem-sucedido, e eu lhe darei nossa 'doação'...}{}{}{}{}
+{27}{Parabéns, senhor! O senhor é um verdadeiro gênio e prestou um grande serviço financeiro a Caladon. [Ele lhe entrega 1000 peças de ouro.] Boa sorte, senhor!}{Parabéns, madame! A senhora é um verdadeiro gênio e prestou um grande serviço financeiro a Caladon. [Ele lhe entrega 1000 peças de ouro.] Boa sorte, madame!}{}{}{}{$$1000}
+{28}{Obrigado, tenha um bom dia...}{}{5}{}{0}{lf3 1}
+{30}{Caladon sempre será grata ao senhor!}{Caladon sempre será grata à senhora!}{}{}{}{}
+{32}{[A mulher parece não notar que você está ali.]}{[A mulher parece não notar que você está ali.]}{}{}{}{}
+

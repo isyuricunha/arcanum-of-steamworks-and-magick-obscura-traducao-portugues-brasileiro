@@ -1,0 +1,473 @@
+{1}{G:1 20, 2 20, 3 20, 4 fl 30, 5 20, 6 20, 7 31, 8 31}{G:1 20, 2 20, 3 20, 4 fl 30, 5 20, 6 20, 7 31, 8 31}{}{}{}{ }
+{2}{W:}{}{5}{lf1 0, re 41}{40}{lf1 1 }
+{3}{Posso lhe fazer algumas perguntas?}{}{5}{re 41, lf1 1}{60}{ }
+{4}{Com licença, senhor, posso lhe fazer algumas perguntas?}{}{5}{re -40}{268}{ }
+{5}{W:}{}{-4}{lf1 0}{40}{lf1 1 }
+{6}{Posso fazer perguntas?}{}{-4}{lf1 1}{60}{ }
+{19}{E:}{}{1}{}{0}{ }
+{20}{Por favor, leve sua magia descarada para outro lugar. Meus expositores não precisam de competição dentro do meu próprio salão.}{Por favor, leve sua magia descarada para outro lugar. Meus expositores não precisam de competição dentro do meu próprio salão.}{}{}{}{ }
+{21}{W:}{}{5}{lf1 0, re 41}{40}{lf1 1 }
+{22}{Posso lhe fazer algumas perguntas?}{}{5}{re 41, lf1 1}{60}{ }
+{23}{Com licença, senhor, posso lhe fazer algumas perguntas?}{}{5}{re -40}{268}{ }
+{24}{W:}{}{-4}{lf1 0}{40}{lf1 1 }
+{25}{Posso fazer perguntas?}{}{-4}{lf1 1}{60}{ }
+{29}{E:}{}{1}{}{0}{ }
+{30}{Quem deixou essa maldita ovelha entrar aqui?}{Quem deixou essa maldita ovelha entrar aqui?}{}{}{}{ }
+{31}{Sua falta de vestimenta apropriada, embora divertida, tende a desviar a atenção dos meus expositores. Poderia, por favor, usar uma roupa adequada no futuro?}{Sua falta de vestimenta apropriada, embora divertida, tende a desviar a atenção dos meus expositores. Poderia, por favor, usar uma roupa adequada no futuro?}{}{}{}{ }
+{32}{W:}{}{5}{lf1 0, re 41}{40}{lf1 1 }
+{33}{Posso lhe fazer algumas perguntas?}{}{5}{re 41}{60}{ }
+{34}{Com licença, senhor, posso lhe fazer algumas perguntas?}{}{5}{re -40}{268}{ }
+{35}{W:}{}{-4}{lf1 0}{40}{lf1 1 }
+{36}{Posso fazer perguntas?}{}{-4}{lf1 1}{60}{ }
+{39}{E:}{}{1}{}{0}{ }
+{40}{[Este sujeito de aparência estranha infla o peito e estende os braços como se estivesse se dirigindo a uma grande multidão.] Eu sou H.T. Parnell, showman mundialmente famoso e colecionador de tudo que é estranho e fabuloso!}{[Este sujeito de aparência estranha infla o peito e estende os braços como se estivesse se dirigindo a uma grande multidão.] Eu sou H.T. Parnell, showman mundialmente famoso e colecionador de tudo que é estranho e fabuloso!}{}{}{}{ }
+{41}{O que é este lugar?}{}{5}{lf2 0}{50}{lf2 1 }
+{42}{K:}{}{1}{}{60}{ }
+{43}{O que é esse lugar?}{}{-4}{}{50}{ }
+{49}{E:}{}{1}{}{0}{ }
+{50}{Este é o meu Empório das Maravilhas, lar de algumas das exposições mais intrigantes do mundo!}{Este é o meu Empório das Maravilhas, lar de algumas das exposições mais intrigantes do mundo!}{}{}{}{ }
+{52}{K:}{}{1}{}{60}{ }
+{59}{E:}{}{1}{}{0}{ }
+{60}{Claro.}{Claro.}{}{}{}{ }
+{61}{Gostaria de perguntar sobre suas criaturas.}{}{5}{gf2013 1}{511}{ }
+{62}{Gostaria de perguntar sobre seus objetos.}{}{5}{gf2012 1}{539}{ }
+{63}{Talvez seja melhor eu dar uma olhada para saber o que perguntar, hein?}{}{5}{gf2012 0, gf2013 0}{0}{ }
+{64}{Vou dar uma olhada primeiro.}{}{-4}{gf2012 0, gf2013 0}{0}{ }
+{66}{Gostaria de comprar a pele do Gigante de Stillwater.}{}{5}{qa1043 1, ni 5613, lf3 0, gf1092 0, gf1093 0}{235}{ }
+{67}{Você estaria interessado na pele verdadeira do Gigante de Stillwater?}{}{5}{in 5613, lf5 0}{396}{ }
+{69}{Gostaria de negociar a compra de Gar, o chamado Orc.}{}{5}{gf1090 1, lf4 0, gf1094 1, lf8 0, lf7 0}{342}{ }
+{70}{Voltei para concluir nossa transação comercial.}{}{5}{lf7 1}{80}{ }
+{71}{Gostaria de falar com você sobre Gar, o HUMANO.}{}{5}{gf1090 1, gf1095 0, ps8, lf8 0}{185}{ }
+{72}{Gostaria de falar com você sobre Gar, o HUMANO.}{}{5}{gf1090 1, gf1095 0, ps-7, lf8 0}{172}{re -5 }
+{73}{Perguntar sobre criaturas?}{}{-4}{gf2013 1}{511}{ }
+{74}{Você tem objetos interessantes.}{}{-4}{gf2012 1}{539}{ }
+{75}{Eu compro Gigante.}{}{-4}{qa1043 1, ni 5613, lf3 0, gf1092 0, gf1093 0}{235}{ }
+{76}{Eu tenho uma pele de gigante de verdade.}{}{-4}{in 5613, lf5 0}{396}{ }
+{78}{E:}{}{1}{gf2013 1}{0}{ }
+{79}{E:}{}{1}{gf2012 1, gf2013 0}{0}{ }
+{80}{E isso seria?}{E isso seria?}{}{}{}{ }
+{81}{Decidi comprar a pele por 2000 moedas.}{}{5}{$$2000, lf3 1, gf1093 0}{297}{$$-2000 }
+{82}{Voltei para comprar o Gar por 3000 moedas.}{}{5}{$$3000, lf4 1, gf1095 0}{370}{$$-3000 }
+{83}{Voltei para comprar o Gar por 2750 moedas.}{}{5}{lf15 1, gf1095 0, $2750}{377}{ }
+{84}{Voltei para comprar o Gar por 2500 moedas.}{}{5}{lf16 1, gf1095 0, $2500}{383}{ }
+{85}{Voltei para comprar o Gar por 2250 moedas.}{}{5}{lf17 1, gf1095 0, $2250}{389}{ }
+{90}{Decidi comprar a pele por 1750 moedas.}{}{5}{$$1750, lf11 1, gf1093 0}{322}{ }
+{91}{Decidi comprar a pele por 1500 moedas.}{}{5}{$$1500, lf12 1, gf1093 0}{331}{ }
+{92}{Decidi comprar a pele por 1250 moedas.}{}{5}{$$1250, lf13 1, gf1093 0}{337}{ }
+{93}{Decidi aceitar sua oferta pela pele do Gigante de Stillwater.}{}{5}{lf5 1}{446}{ }
+{94}{Eu vendo a pele de gigante para você.}{}{-4}{in 5613, lf5 1}{446}{ }
+{98}{E:}{}{5}{}{0}{ }
+{99}{Essa é uma das minhas exposições mais famosas. Ela desperta um sentimento de admiração só de contemplar uma criatura feroz daquele tamanho, uma relíquia do passado distante de Arcanum! Como deve ter sido ver manadas dessas criaturas caçando suas presas?}{Essa é uma das minhas exposições mais famosas. Ela desperta um sentimento de admiração só de contemplar uma criatura feroz daquele tamanho, uma relíquia do passado distante de Arcanum! Como deve ter sido ver manadas dessas criaturas caçando suas presas?}{}{}{}{ }
+{100}{Parece falsa para mim.}{}{5}{gf1048 1, ch -11}{153}{re -5 }
+{101}{Parece falsa para mim.}{}{5}{gf1048 1, ch 12}{158}{ }
+{102}{Deve ter parecido manadas de coelhos azuis. Apavorante, né?}{}{5}{gf1091 1, ch -11}{172}{re -5 }
+{103}{Deve ter parecido manadas de coelhos azuis. Apavorante, né?}{}{5}{gf1091 1, ch12}{135}{re +10 }
+{104}{Como você conseguiu adquirir a pele?}{}{5}{}{162}{ }
+{105}{Posso perguntar sobre algumas de suas outras exposições?}{}{5}{}{109}{ }
+{106}{oooh. Eu pergunto sobre zibits?}{}{-4}{}{109}{ }
+{107}{K:}{}{1}{}{60}{ }
+{108}{E:}{}{1}{}{0}{ }
+{109}{Certamente, pois estou aqui apenas para servir às necessidades dos meus clientes. Sobre qual das minhas exposições impressionantes você gostaria de perguntar?}{Certamente, pois estou aqui apenas para servir às necessidades dos meus clientes. Sobre qual das minhas exposições impressionantes você gostaria de perguntar?}{}{}{}{ }
+{110}{Gostaria de perguntar sobre suas criaturas.}{}{5}{gf2013 1}{511}{ }
+{111}{Gostaria de perguntar sobre seus objetos.}{}{5}{gf2012 1}{539}{ }
+{112}{Preciso saber sobre criaturas.}{}{-4}{gf2013 1}{511}{ }
+{113}{E sobre suas coisas de objetos?}{}{-4}{gf2012 1}{539}{ }
+{133}{K:}{}{1}{}{60}{ }
+{134}{E:}{}{1}{}{0}{ }
+{135}{[Ele ri às gargalhadas e dá um tapa nas suas costas.] Ah, isso é ótimo! É tão raro encontrar alguém com verdadeiro espírito. Um pouco de exagero nunca faz mal quando se vende mercadorias para os caipiras locais, né?}{[Ele ri às gargalhadas e dá um tapa nas suas costas.] Ah, isso é ótimo! É tão raro encontrar uma pessoa de verdadeiro espírito. Um pouco de exagero nunca faz mal quando se vende mercadorias para os caipiras locais, não é?}{}{}{}{ }
+{136}{De fato. Posso perguntar sobre algumas de suas outras exposições?}{}{5}{}{109}{ }
+{137}{Gostaria de comprar a pele de você. Qual é o seu preço?}{}{5}{qa1043 1, lf3 0, gf1093 0, gf1092 0}{235}{ }
+{138}{É um pouco menos do que eu esperava. Parece faltar algo, de alguma forma.}{}{5}{ch12}{465}{ }
+{139}{E:}{}{5}{}{0}{ }
+{140}{Infelizmente, foi levado por algum intruso nojento! Era uma das minhas exposições mais famosas. Você deveria ter visto, era uma maravilha!}{Infelizmente, foi levado por algum intruso nojento! Era uma das minhas exposições mais famosas. Você deveria ter visto, era uma maravilha!}{}{}{}{lf23 1 }
+{141}{Levado? Você quer dizer que foi roubado?}{}{5}{}{146}{ }
+{142}{Ab fonded? O quê?}{}{-4}{}{146}{ }
+{143}{Posso perguntar sobre algumas de suas outras exposições?}{}{5}{}{109}{ }
+{144}{E:}{}{-4}{}{0}{ }
+{145}{Isso é uma terrível tragédia. Preciso ir, bom senhor.}{}{5}{}{0}{ }
+{146}{Claro. [Ele olha para você como se fosse um idiota.] Foi o que eu acabei de dizer, não foi?}{Claro. [Ele olha para você como se fosse um idiota.] Foi o que eu acabei de dizer, não foi?}{}{}{}{ }
+{147}{Posso perguntar sobre algumas de suas outras exposições?}{}{5}{}{109}{ }
+{148}{Seria melhor tomar cuidado com o tom que usa comigo, gordo.}{}{5}{}{287}{re -10 }
+{149}{Udder pretty eggs zibits?}{}{-4}{}{109}{ }
+{150}{Eu não burro. Você burro gordo cabeça homem!}{}{-4}{}{287}{re -10 }
+{151}{K:}{}{1}{}{60}{ }
+{152}{E:}{}{1}{}{0}{ }
+{153}{O que está insinuando, senhor?}{O que está insinuando, senhora?}{}{}{}{ }
+{154}{Hmm... nada. Posso perguntar sobre outra de suas exposições?}{}{5}{}{109}{ }
+{155}{Não estou insinuando nada. Eu DISSE que parecia falso. Você é lerdo?}{}{5}{}{287}{re -10 }
+{156}{E:}{}{5}{}{0}{ }
+{158}{Ah, o senhor tem um olhar perspicaz, bom senhor! Asseguro-lhe que é real. Foi remendado várias vezes ao longo dos anos, além de ter sido danificado na luta épica que resultou em sua morte.}{Ah, a senhora tem um olhar perspicaz, minha boa mulher! Asseguro-lhe que é real. Foi remendado várias vezes ao longo dos anos, além de ter sido danificado na luta épica que resultou em sua morte.}{}{}{}{ }
+{159}{Luta épica?}{}{5}{}{162}{ }
+{160}{Fascinante. Posso perguntar sobre algumas de suas outras exposições?}{}{5}{}{109}{ }
+{161}{E:}{}{5}{}{0}{ }
+{162}{Franklin Payne, aventureiro de renome mundial (sob contrato comigo, é claro), havia rastreado a criatura elusiva até seu covil, apenas para ter os ventos traiçoeiros delatando sua presença! Antes que pudesse erguer sua arma, a terrível besta atacou!}{Franklin Payne, aventureiro de renome mundial (sob contrato comigo, é claro), havia rastreado a criatura elusiva até seu covil, apenas para ter os ventos traiçoeiros delatando sua presença! Antes que pudesse erguer sua arma, a terrível besta atacou!}{}{}{}{ }
+{163}{E então, o que aconteceu?}{}{5}{}{167}{ }
+{164}{Fascinante. Posso perguntar sobre algumas de suas outras exposições?}{}{5}{}{109}{ }
+{165}{A emoção da sua história me exauriu. Tenha um bom dia, senhor.}{}{5}{}{0}{ }
+{167}{Armado apenas com um pequeno punhal, Payne saltou sobre a criatura! Muito sangue foi derramado por homem e besta, mas Payne saiu vitorioso após empalar a criatura em uma de suas próprias garras!}{Armado apenas com um pequeno punhal, Payne saltou sobre a criatura! Muito sangue foi derramado por homem e besta, mas Payne saiu vitorioso após empalar a criatura em uma de suas próprias garras!}{}{}{}{ }
+{168}{Fascinante. Posso lhe perguntar sobre algumas de suas outras exposições?}{}{5}{}{109}{ }
+{169}{Uma de suas próprias garras? Isso parece um pouco forçado.}{}{5}{ch -11}{172}{re -5 }
+{170}{Tem certeza de que Payne não arrancou o coração dela com as próprias mãos?}{}{5}{ch 12}{135}{lf18 1 }
+{171}{A empolgação da sua história me exauriu. Tenha um bom dia, senhor.}{}{5}{}{0}{ }
+{172}{O que o senhor está insinuando?}{O que a senhora está insinuando?}{}{}{}{ }
+{173}{Hã... nada. Posso perguntar sobre suas outras exposições?}{}{5}{}{109}{ }
+{174}{Que o senhor é um pomposo e mentiroso tagarela.}{}{5}{}{287}{re -10 }
+{176}{E:}{}{5}{}{0}{ }
+{177}{Ah, sim, Gar, o Orc! Eu o resgatei de alguns escravistas orcs em uma de minhas muitas expedições em busca de raridades em terras exóticas. Eles o haviam capturado recentemente e estavam prestes a executá-lo quando eu intervim! Eles confundiram sua inteligência com possessão sobrenatural, veja bem.}{Ah, sim, Gar, o Orc! Eu o resgatei de alguns escravistas orcs em uma de minhas muitas expedições em busca de raridades em terras exóticas. Eles o haviam capturado recentemente e estavam prestes a executá-lo quando eu intervim! Eles confundiram sua inteligência com possessão sobrenatural, veja bem.}{}{}{}{ }
+{178}{Gostaria de comprar Gar de você. Qual é o seu preço?}{}{5}{gf1094 1}{342}{ }
+{179}{Então Black Root é uma terra exótica, cheia de escravistas orcs supersticiosos?}{}{5}{gf1090 1, ps -7}{172}{ }
+{180}{Então Black Root é uma terra exótica, cheia de escravistas orcs supersticiosos?}{}{5}{gf1090 1, lf4 0, gf1094 1, ps 8}{185}{ }
+{181}{O que pode me contar sobre suas outras exposições?}{}{5}{}{109}{ }
+{182}{ooh. Perguntar mais eggzbets?}{}{-4}{}{109}{ }
+{183}{K:}{}{1}{}{60}{ }
+{184}{E:}{}{1}{}{0}{ }
+{185}{[Sua mandíbula cai, e ele se agita furiosamente por um ou dois minutos antes de começar a falar.] O... o que o senhor está dizendo?}{[Sua mandíbula cai, e ela se agita furiosamente por um ou dois minutos antes de começar a falar.] O... o que a senhora está dizendo?}{}{}{}{ }
+{186}{Estou dizendo que a lei tarantiana não vê com bons olhos a escravidão humana.}{}{5}{}{190}{ }
+{187}{Estou apenas informando que é fácil conseguir a história verdadeira com Gar.}{}{5}{}{201}{ }
+{188}{Me dê 1000 moedas e nunca mais mencionarei isso.}{}{5}{}{206}{re -5 }
+{189}{Nada, eu só estava provocando. Tenha um bom dia.}{}{5}{}{0}{ }
+{190}{Gar pode ser humano, mas ele não é um escravo! Tenho um contrato legalmente vinculativo! Eu o tratei bem em todos os anos em que esteve sob meu emprego!}{Gar pode ser humano, mas ele não é um escravo! Tenho um contrato legalmente vinculativo! Eu o tratei bem em todos os anos em que esteve sob meu emprego!}{}{}{}{ }
+{191}{Ele diz que você o espancou impiedosamente.}{}{5}{}{212}{re -5 }
+{193}{A verdade nunca atrapalhou uma boa história de jornal.}{}{5}{}{196}{ }
+{194}{Interpretei mal a situação, por favor, perdoe meu erro.}{}{5}{}{60}{ }
+{195}{Peço desculpas pela ofensa, senhor. Tenha um bom dia.}{}{5}{}{0}{ }
+{196}{[Ele está suando profusamente e cuspindo enquanto fala.] Você não ousaria!}{[Ele está suando profusamente e cuspindo enquanto fala.] Você não ousaria!}{}{}{}{ }
+{197}{Você deve ver como é fácil alguém arruinar sua reputação.}{}{5}{}{225}{ }
+{198}{Claro, o senhor está correto. O senhor descobriu meu ardil.}{}{5}{}{219}{ }
+{201}{Obrigado por me informar sobre a indiscrição de Gar. Preciso ter uma palavrinha com aquele rapaz.}{Obrigado por me informar sobre a indiscrição de Gar. Preciso ter uma palavrinha com aquele rapaz.}{}{}{}{lf8 1 }
+{202}{K:}{}{5}{}{60}{ }
+{203}{Posso perguntar sobre algumas de suas outras exposições?}{}{5}{}{109}{ }
+{204}{E:}{}{5}{}{0}{ }
+{206}{Ah, o senhor realmente me enganou por um momento. Só um completo imbecil tentaria extorquir dinheiro de H.T. Parnell! Eu odiaria pensar nas consequências para sua saúde caso estivesse falando sério.}{Ah, o senhor realmente me enganou por um momento. Só um completo imbecil tentaria extorquir dinheiro de H.T. Parnell! Eu odiaria pensar nas consequências para sua saúde caso estivesse falando sério.}{}{}{}{lf8 1 }
+{207}{Ah, eu estava falando sério, gordo. Entregue o dinheiro ou morra violentamente.}{}{5}{}{0}{fl 550 ,co}
+{208}{Foi engraçado, não foi? Posso perguntar sobre suas outras exposições?}{}{5}{}{109}{ }
+{209}{K:}{}{5}{}{60}{ }
+{210}{Tenho certeza de que os jornais teriam interesse nessa história.}{}{5}{}{190}{ }
+{211}{E:}{}{5}{}{0}{ }
+{212}{O senhor está obviamente mentindo. Gar nunca diria uma coisa dessas sobre mim. Ele é escrupulosamente honesto.}{O senhor está obviamente mentindo. Gar nunca diria uma coisa dessas sobre mim. Ele é escrupulosamente honesto.}{}{}{}{lf8 1 }
+{213}{Bem, senhor, parabenizo-o por ter descoberto meu ardil.}{}{5}{lf9 1}{219}{ }
+{214}{Em quem as pessoas vão acreditar? Em mim ou em um orc mentiroso, espancado por seu dono?}{}{5}{lf9 0}{196}{lf9 1 }
+{215}{O senhor tem razão, esqueça que eu mencionei isso. Tenha um bom dia.}{}{5}{}{0}{ }
+{219}{Hã... sim, eu sabia que o senhor estava apenas se divertindo às custas do velho H.T. [Ele enxuga a testa.] Achei engraçado deixá-lo continuar assim.}{Hã... sim, eu sabia que o senhor estava apenas se divertindo às custas do velho H.T. [Ele enxuga a testa.] Achei engraçado deixá-lo continuar assim.}{}{}{}{ }
+{220}{K:}{}{5}{}{60}{ }
+{221}{Posso perguntar sobre algumas de suas outras exposições?}{}{5}{}{109}{ }
+{222}{E:}{}{5}{}{0}{ }
+{225}{Então o senhor não está me chantageando? Mas... o que pode ser feito para me proteger desse tipo de ataque calunioso? Poderia levar ele com o senhor? Ele é um risco grande demais para mim.}{Então o senhor não está me chantageando? Mas... o que pode ser feito para me proteger desse tipo de ataque calunioso? Poderia levar ele com o senhor? Ele é um risco grande demais para mim.}{}{}{}{lf8 1, gf1095 1 }
+{226}{Ficaria feliz em ajudá-lo.}{}{5}{}{710}{re+10 }
+{230}{Muitíssimo obrigado, bom senhor.}{Muitíssimo obrigado, madame.}{}{}{}{ }
+{231}{K:}{}{5}{}{60}{ }
+{232}{Tenho algumas perguntas sobre algumas das outras exposições.}{}{5}{}{109}{ }
+{233}{E:}{}{5}{}{0}{ }
+{235}{Espere um minuto aí, meu bom homem. O Gigante de Stillwater foi a primeira grande exposição que já exibi. Ainda é uma de minhas posses mais queridas. Não poderia me separar dele por menos de 2000 moedas.}{Espere um minuto aí, minha boa senhora. O Gigante de Stillwater foi a primeira grande exposição que já exibi. Ainda é uma de minhas posses mais queridas. Não poderia me separar dele por menos de 2000 moedas.}{}{}{}{ }
+{237}{Aceito seus termos.}{}{5}{$$2000, ha-13}{297}{$$-2000 }
+{238}{2000 moedas! Isso é uma quantia ridiculamente alta, senhor.}{}{5}{}{307}{ }
+{239}{tá bom.}{}{-4}{$$2000, ha-13}{297}{$$ -2000 }
+{240}{2000 é demais!}{}{-4}{}{307}{ }
+{241}{Pago 1750 por ele.}{}{5}{ha 14, ha-14}{322}{ }
+{242}{Pago 1500 por ele.}{}{5}{ha 15, ha-15}{331}{ }
+{243}{Vou pagar 1250 por isso.}{}{5}{ha 16}{337}{ }
+{244}{Pago 1750.}{}{-4}{ha 14, ha-14}{322}{ }
+{245}{Pago 1500.}{}{-4}{ha 15, ha-15}{331}{ }
+{246}{Pago 1250.}{}{-4}{ha 16}{337}{ }
+{247}{Vou ter que pensar sobre isso. Tenha um bom dia.}{}{5}{}{0}{lf3 1, lf7 1 }
+{248}{E:}{}{-4}{}{0}{ }
+{268}{Prefiro que não. Não gosto de ver o seu tipo frequentando meu estabelecimento, mesmo que tenha moedas para gastar.}{Prefiro que não. Não gosto de ver o seu tipo frequentando meu estabelecimento, mesmo que tenha moedas para gastar.}{}{}{}{ }
+{269}{Além da carteira, por que mais um homem pode ser julgado?}{1}{5}{ch 12}{274}{re +10 }
+{270}{Além da carteira, por que mais uma mulher pode ser julgada?}{0}{5}{ch 13}{274}{re +10 }
+{271}{Por favor, permita-me desfrutar da sombra do seu gênio, caro senhor.}{}{5}{ch -11}{278}{re +5 }
+{272}{Não trouxe moedas para gastar, mas sim para enfiar goela abaixo.}{}{5}{}{0}{fl  550 , co}
+{273}{Vou me retirar, então. Tenha um bom dia.}{}{5}{}{0}{ }
+{274}{Muito bem, senhor! Sua sagacidade cortante me feriu! Parece que eu o julguei mal. Qual é o seu desejo?}{Muito bem, madame! Sua sagacidade cortante me feriu! Parece que eu a julguei mal. Qual é o seu desejo?}{}{}{}{ }
+{275}{W:}{}{5}{lf1 0}{40}{lf1 1 }
+{276}{K:}{}{5}{lf1 1}{60}{ }
+{277}{E:}{}{5}{}{0}{ }
+{278}{Talvez eu tenha sido um pouco duro com você. Sempre tive um lugar no meu coração para lambe-botas patéticos.}{Talvez eu tenha sido um pouco duro com você. Sempre tive um lugar no meu coração para lambe-botas patéticos.}{}{}{}{ }
+{279}{Obrigado, senhor. Posso fazer algumas perguntas agora?}{}{5}{lf1 1}{60}{re +5 }
+{280}{Posso saber com quem tenho a grande honra de estar falando?}{}{5}{lf1 0}{40}{re +5, lf1 1 }
+{281}{Você está prestes a ter um lugar no seu coração para a minha lâmina!}{}{5}{}{0}{fl  550 ,co}
+{282}{Acho que terminei esta conversa. Adeus.}{}{5}{}{0}{ }
+{287}{Cuidado, ou serei forçado a mostrar minhas habilidades de combate, aprimoradas em incontáveis lutas de vida ou morte!}{Cuidado, ou serei forçado a mostrar minhas habilidades de combate, aprimoradas em incontáveis lutas de vida ou morte!}{}{}{}{ }
+{288}{Minhas desculpas. Posso fazer outra pergunta?}{}{5}{}{60}{ }
+{289}{Desculpe, gorducho. Kestão?}{}{-4}{}{60}{ }
+{290}{Peço perdão. E quanto aos seus outros itens em exposição?}{}{5}{}{109}{ }
+{291}{Eu desculpa. Pergunta sobre outros ovos ibits?}{}{-4}{}{109}{ }
+{292}{Mais provável que tenha sido aprimorada roubando dinheiro de velhinhas e crianças.}{}{5}{}{0}{fl  550 , co}
+{293}{Hah! Cabeça gorda burra não sabe lutar! Eu vence você agora.}{}{-4}{}{0}{fl  550 , co}
+{294}{E:}{}{1}{}{0}{ }
+{297}{Esplêndido! Aqui está a chave da vitrine do Gigante de Stillwater, senhor. Mais alguma coisa?}{Esplêndido! Aqui está a chave da vitrine do Gigante de Stillwater, madame. Mais alguma coisa?}{}{}{}{gf1093 1, in -4406, xp 6 }
+{298}{K:}{}{1}{}{60}{ }
+{299}{De fato. Posso perguntar sobre alguns dos seus outros itens em exposição?}{}{5}{}{109}{ }
+{300}{Outros ovos-zibitz?}{}{-4}{}{109}{ }
+{301}{E:}{}{1}{}{0}{ }
+{307}{Esse é o preço de mercado. Um objeto tão raro é praticamente inestimável! 2000 moedas é uma pechincha.}{Esse é o preço de mercado. Um objeto tão raro é praticamente inestimável! 2000 moedas é uma pechincha.}{}{}{}{ }
+{308}{Aceito seus termos.}{}{5}{$$2000, ha-13}{297}{$$-2000 }
+{309}{Tudo bem.}{}{-4}{$$2000, ha-13}{297}{$$-2000 }
+{310}{Vou pagar 1750 por isso.}{}{5}{ha 14, ha-14}{322}{ }
+{311}{Vou pagar 1500 por isso.}{}{5}{ha 15, ha-15}{331}{ }
+{312}{Vou pagar 1250 por isso.}{}{5}{ha 16}{337}{ }
+{313}{Pago 1750.}{}{-4}{ha 14, ha-14}{322}{ }
+{314}{Pago 1500.}{}{-4}{ha 15, ha-15}{331}{ }
+{315}{Pago 1250.}{}{-4}{ha 16}{337}{ }
+{316}{Isso é muito caro. Posso perguntar sobre suas outras peças em exposição, no entanto?}{}{5}{}{109}{ }
+{317}{Muito caro. Pergunto sobre outros ovos-zibitz?}{}{-4}{}{109}{ }
+{318}{K:}{}{1}{}{60}{ }
+{320}{Vou ter que pensar sobre isso. Tenha um bom dia.}{}{5}{}{0}{lf3 1, lf7 1 }
+{321}{E:}{}{-4}{}{0}{ }
+{322}{Normalmente, eu não me separaria de um espécime raro como este por uma quantia tão irrisória, mas no seu caso, farei uma exceção.}{Normalmente, eu não me separaria de um espécime raro como este por uma quantia tão irrisória, mas no seu caso, farei uma exceção.}{}{}{}{ }
+{323}{Voltarei em breve com o dinheiro.}{}{5}{$$ -1750}{327}{lf11 1 }
+{324}{Foi um prazer fazer negócios. [Dê o dinheiro a ele.]}{}{5}{$$1750}{297}{$$-1750 }
+{325}{Volto com o dinheiro.}{}{-4}{$$ -1750}{327}{lf11 1 }
+{326}{Aqui está o dinheiro. Dê a pele.}{}{-4}{$$1750}{297}{$$-1750 }
+{327}{Ficarei ansioso para concluir nosso negócio nessa ocasião, então.}{Ficarei ansioso para concluir nosso negócio nessa ocasião, então.}{}{}{}{ }
+{328}{K:}{}{1}{}{60}{ }
+{329}{E:}{}{1}{}{0}{ }
+{331}{Normalmente, eu não me separaria de um espécime raro como este por uma quantia tão irrisória, mas no seu caso, farei uma exceção.}{Normalmente, eu não me separaria de um espécime raro como este por uma quantia tão irrisória, mas no seu caso, farei uma exceção.}{}{}{}{ }
+{332}{Voltarei em breve com o dinheiro.}{}{5}{$$ -1500}{327}{lf12 1, lf7 1 }
+{333}{Foi um prazer fazer negócios. [Dê o dinheiro a ele.]}{}{5}{$$1500}{297}{$$-1500 }
+{334}{Volto com o dinheiro.}{}{-4}{$$ -1500}{327}{lf12 1, lf7 1 }
+{335}{Aqui está o dinheiro. Dê a pele.}{}{-4}{$$1500}{297}{$$-1500 }
+{337}{Normalmente, eu não me separaria de um espécime tão primoroso como este por uma quantia tão irrisória, mas no seu caso, farei uma exceção.}{Normalmente, eu não me separaria de um espécime tão primoroso como este por uma quantia tão irrisória, mas no seu caso, farei uma exceção.}{}{}{}{ }
+{338}{Voltarei em breve com o dinheiro.}{}{5}{$$ -1250}{327}{lf13 1, lf7 1 }
+{339}{Foi um prazer fazer negócios. [Dê-lhe o dinheiro.]}{}{5}{$$1250}{297}{$$1250 }
+{340}{Volto com o dinheiro.}{}{-4}{$$ -1250}{327}{lf13 1, lf7 1 }
+{341}{Aqui dinheiro. Dê pele.}{}{-4}{$$1250}{297}{$$1250 }
+{342}{Entendo. Ele tem sido como um filho para mim, o senhor compreende. Seria difícil para mim me separar de alguém tão próximo. [Ele enxuga uma lágrima imaginária do olho.] Não poderia deixá-lo ir por menos de 3000 moedas.}{Entendo. Ele tem sido como um filho para mim, a senhora compreende. Seria difícil para mim me separar de alguém tão próximo. [Ele enxuga uma lágrima imaginária do olho.] Não poderia deixá-lo ir por menos de 3000 moedas.}{}{}{}{ }
+{343}{Está combinado. [Dê-lhe o dinheiro]}{}{5}{$$3000, ha-13}{370}{$$-3000 }
+{345}{3000 moedas! Isso é um valor ridiculamente alto, senhor.}{}{5}{}{355}{ }
+{347}{Pago 2750 por ele.}{}{5}{ha 14, ha-14}{377}{ }
+{348}{Pago 2500 por ele.}{}{5}{ha 15, ha-15}{383}{ }
+{349}{Pago 2250 por ele.}{}{5}{ha 16}{389}{ }
+{353}{Vou ter que pensar sobre isso. Tenha um bom dia.}{}{5}{}{0}{ }
+{355}{Não me separarei do meu querido amigo Gar por um centavo a menos.}{Não me separarei do meu querido amigo Gar por um centavo a menos.}{}{}{}{ }
+{356}{Tudo bem, aqui está seu dinheiro.}{}{5}{$$3000, gf1095 0, ha-13}{370}{$$-3000 }
+{358}{Pago 2750 por ele.}{}{5}{ha 14, ha-14}{377}{ }
+{359}{Pago 2500 por ele.}{}{5}{ha 15, ha-15}{383}{ }
+{360}{Pago 2250 por ele.}{}{5}{ha 16}{389}{ }
+{364}{Isso é muito. Posso perguntar sobre seus outros itens em exposição, no entanto?}{}{5}{}{109}{ }
+{366}{K:}{}{5}{}{60}{ }
+{368}{Vou ter que pensar sobre isso. Tenha um bom dia.}{}{5}{}{0}{lf4 1, lf7 1 }
+{370}{Maravilhoso! Gar será um perfeito criado para sua casa.}{Maravilhoso! Gar será um perfeito "criado". [Ele lhe lança uma piscadela maliciosa.]}{}{}{}{gf1095 1 }
+{371}{O que o senhor está insinuando?}{}{5}{}{451}{ }
+{375}{E:}{}{5}{}{0}{ }
+{377}{Normalmente, eu não aceitaria uma quantia tão irrisória pela vida de alguém, especialmente alguém por quem tenho tanto afeto quanto Gar. Mas, no seu caso, posso abrir uma exceção. Está combinado, senhor!}{Normalmente, eu não aceitaria uma quantia tão irrisória pela vida de alguém, especialmente alguém por quem tenho tanto afeto quanto Gar. Mas, no seu caso, posso abrir uma exceção. Está combinado, senhora!}{}{}{}{ }
+{378}{Voltarei em breve com o dinheiro.}{}{5}{$$ -2750}{327}{lf15 1, lf7 1 }
+{379}{Foi um prazer fazer negócios. [Dê-lhe o dinheiro.]}{}{5}{$$2750}{370}{$$-2750 }
+{383}{Normalmente, eu não aceitaria uma quantia tão irrisória pela vida de alguém, especialmente alguém por quem tenho tanto afeto quanto Gar. Mas, no seu caso, posso abrir uma exceção. Está combinado, senhor!}{Normalmente, eu não aceitaria uma quantia tão irrisória pela vida de alguém, especialmente alguém por quem tenho tanto afeto quanto Gar. Mas, no seu caso, posso abrir uma exceção. Está combinado, senhora!}{}{}{}{ }
+{384}{Voltarei em breve com o dinheiro.}{}{5}{$$ -2500}{327}{lf16 1, lf7 1 }
+{385}{Foi um prazer fazer negócios. [Dê-lhe o dinheiro.]}{}{5}{$$2500}{370}{$$-2500 }
+{389}{Normalmente, eu não aceitaria uma quantia tão irrisória pela vida de alguém, especialmente alguém por quem tenho tanto afeto quanto Gar. Mas, no seu caso, posso abrir uma exceção. Está combinado, senhor!}{Normalmente, eu não aceitaria uma quantia tão irrisória pela vida de alguém, especialmente alguém por quem tenho tanto afeto quanto Gar. Mas, no seu caso, posso abrir uma exceção. Está combinado, senhora!}{}{}{}{ }
+{390}{Voltarei com o dinheiro em breve.}{}{5}{$$ -2250}{327}{lf17 1, lf7 1 }
+{391}{Foi um prazer fazer negócios. [Entregue o dinheiro a ele.]}{}{5}{$$2250}{370}{$$-2250 }
+{396}{O verdadeiro gigante! Isso é terrivelmente engraçado! Não seria aconselhável tentar me vencer no meu próprio jogo. Consigo identificar um impostor a quilômetros de distância.}{O verdadeiro gigante! Isso é terrivelmente engraçado! Não seria aconselhável tentar me vencer no meu próprio jogo. Consigo identificar um impostor a quilômetros de distância.}{}{}{}{ }
+{397}{Asseguro-lhe, é autêntico. [Mostre-lhe a pele.]}{}{5}{}{401}{ }
+{398}{É de verdade. Veja?}{}{-4}{}{401}{ }
+{401}{Deixe-me ver isso. [Ele inspeciona a pele de perto.] Pelos deuses! Isso é real! Dou-lhe 2000 moedas por ela!}{Deixe-me ver isso. [Ele inspeciona a pele de perto.] Pelos deuses! Isso é real! Dou-lhe 2000 moedas por ela!}{}{}{}{ }
+{402}{Está combinado.}{}{5}{ha-13}{414}{$$2000, in 5613 }
+{403}{Tá.}{}{-4}{ha-13}{414}{$$2000, in 5613 }
+{404}{Isso não é o suficiente. Vai custar 2500 moedas.}{}{5}{ha 14, ha-14}{431}{ }
+{405}{Isso não é o suficiente. Vai custar 2750 moedas.}{}{5}{ha15, ha-15}{436}{ }
+{406}{Isso não é o suficiente. Vai custar 3000 moedas.}{}{5}{ha16}{441}{ }
+{407}{Não é o suficiente. 2500 moedas!}{}{5}{ha 14, ha-14}{431}{ }
+{408}{Não é o suficiente. 2750 moedas!}{}{5}{ha15, ha-15}{436}{ }
+{409}{Não é o suficiente. 3000 moedas!}{}{5}{ha16}{441}{ }
+{410}{Isso vale muito mais do que isso.}{}{5}{ha-13}{421}{ }
+{411}{Vale mais!}{}{-4}{ha-13}{421}{ }
+{414}{Magnífico! Isso será uma grande vantagem para o meu negócio de museu. Há mais alguma coisa em que eu possa ajudá-lo?}{Magnífico! Isso será uma grande vantagem para o meu negócio de museu. Há mais alguma coisa em que eu possa ajudá-lo?}{}{}{}{ }
+{415}{K:}{}{1}{}{60}{ }
+{416}{De fato. Posso perguntar sobre algumas de suas outras exposições?}{}{5}{}{109}{ }
+{417}{Outros <<<PH1>>>?}{}{-4}{}{109}{ }
+{418}{E:}{}{1}{}{0}{ }
+{421}{Discordo, embora seja um ponto discutível. Só posso oferecer 2000 moedas por isso, essa é minha oferta final.}{Discordo, embora seja um ponto discutível. Só posso oferecer 2000 moedas por isso, essa é minha oferta final.}{}{}{}{ }
+{422}{Está combinado.}{}{5}{}{414}{$$2000, in 5613 }
+{423}{Tá.}{}{-4}{}{414}{$$2000, in 5613 }
+{424}{Que pena. Posso lhe fazer algumas outras perguntas?}{}{5}{}{60}{ }
+{425}{Não. Eu faço pergun<<<PH2>>>, tá bom?}{}{-4}{}{60}{ }
+{426}{Não acredito que possa aceitar sua oferta. Tenha um bom dia.}{}{5}{}{0}{lf5 1, lf7 1 }
+{427}{Não gosto da sua oferta. Adeus.}{}{-4}{}{0}{lf5 1, lf7 1 }
+{431}{Você é um adversário muito astuto na mesa de negociações. Normalmente, eu não concordaria com esse roubo descarado, mas você me convenceu. Aqui está o seu dinheiro.}{Você é um adversário muito astuto na mesa de negociações. Normalmente, eu não concordaria com esse roubo descarado, mas você me convenceu. Aqui está o seu dinheiro.}{}{}{}{$$2500, in 5613 }
+{432}{Obrigado. Gostaria de lhe fazer mais perguntas, se me permite.}{}{5}{}{60}{ }
+{433}{Valeu. Mais perguntas?}{}{-4}{}{60}{ }
+{434}{E:}{}{1}{}{0}{ }
+{436}{Você é um adversário muito astuto na mesa de negociações. Normalmente, eu não concordaria com esse roubo descarado, mas você me convenceu. Aqui está o seu dinheiro.}{Você é um adversário muito astuto na mesa de negociações. Normalmente, eu não concordaria com esse roubo descarado, mas você me convenceu. Aqui está o seu dinheiro.}{}{}{}{$$2750, in 5613 }
+{437}{Obrigado. Gostaria de lhe fazer mais perguntas, se me permite.}{}{5}{}{60}{ }
+{438}{Valeu. Mais perguntas?}{}{-4}{}{60}{ }
+{439}{E:}{}{1}{}{0}{ }
+{441}{Você é um adversário muito astuto na mesa de negociações. Normalmente, eu não concordaria com esse roubo descarado, mas você me convenceu. Aqui está o seu dinheiro.}{Você é um adversário muito astuto na mesa de negociações. Normalmente, eu não concordaria com esse roubo descarado, mas você me convenceu. Aqui está o seu dinheiro.}{}{}{}{$$3000, in 5613 }
+{442}{Obrigado. Gostaria de lhe fazer mais perguntas, se me permite.}{}{5}{}{60}{ }
+{443}{Valeu. Mais perguntas?}{}{-4}{}{60}{ }
+{444}{E:}{}{1}{}{0}{ }
+{446}{Então está combinado, bom senhor.}{Então está combinado, minha boa senhora.}{}{}{}{$$2000, in 5613 }
+{447}{Obrigado. Gostaria de lhe fazer mais perguntas, se me permite.}{}{5}{}{60}{ }
+{448}{Valeu. Mais perguntas?}{}{-4}{}{60}{ }
+{449}{E:}{}{1}{}{0}{ }
+{451}{Ora, nada. O que você faz na privacidade do seu lar não é da minha conta.}{Ora, nada. O que você faz na privacidade do seu lar não é da minha conta.}{}{}{}{ }
+{453}{Seu cão! Prepare-se para pagar por lançar calúnias à minha reputação!}{}{5}{}{0}{fl 550 , co}
+{454}{E:}{}{5}{}{0}{ }
+{455}{Com certeza! Cada uma das minhas exposições tem uma história inspiradora, toda própria. Sobre qual delas gostaria de ouvir?}{Com certeza! Cada uma das minhas exposições tem uma história inspiradora, toda própria. Sobre qual delas gostaria de ouvir?}{}{}{}{ }
+{464}{E:}{}{1}{}{0}{ }
+{465}{Ah, sim. Infelizmente, acredito que seus dias de glória já passaram. Está um pouco desgastado nas bordas, não está?}{Ah, sim. Infelizmente, acredito que seus dias de glória já passaram. Está um pouco desgastado nas bordas, não está?}{}{}{}{ }
+{466}{Não acredito que as pessoas ainda estejam lotando para vê-lo.}{}{5}{ps8, lf21 0}{471}{ }
+{467}{Dá até para ver onde foi costurado.}{}{5}{}{491}{lf21 1 }
+{469}{K:}{}{5}{}{60}{ }
+{470}{E:}{}{5}{}{0}{ }
+{471}{Quem dera fosse o caso. Com certeza, perdeu seu antigo poder de atração.}{Quem dera fosse o caso. Com certeza, perdeu seu antigo poder de atração.}{}{}{}{ }
+{472}{Não ficaria tão ruim se você o consertasse.}{}{5}{ lf21 0}{504}{lf21 1 }
+{473}{Não ficaria tão ruim se você o consertasse.}{}{5}{lf21 1}{504}{ }
+{474}{K:}{}{5}{}{60}{ }
+{475}{Deve haver outra maneira de você ganhar dinheiro com isso.}{}{5}{}{477}{ }
+{476}{E:}{}{5}{}{0}{ }
+{477}{Receio que não. É engraçado, na verdade. Houve tanta publicidade quando eu o segurei por uma quantia fenomenal de dinheiro. Pessoas que juravam ser falso vieram só para ver algo que estava segurado por tanto. Isso lhe deu um ar de autenticidade, sim.}{Receio que não. É engraçado, na verdade. Houve tanta publicidade quando eu o segurei por uma quantia fenomenal de dinheiro. Pessoas que juravam ser falso vieram só para ver algo que estava segurado por tanto. Isso lhe deu um ar de autenticidade, sim.}{}{}{}{ }
+{478}{Vou tirá-lo daqui escondido, e você pode reportar como roubado.}{}{5}{}{482}{ }
+{479}{Não acredito que eles deixariam você segurar algo tão obviamente falso.}{}{5}{lf 2 1}{497}{re -5 }
+{482}{Que ideia engenhosa! Gosto do seu raciocínio, senhor. Aqui está a chave do estojo. Tire-o quando ninguém estiver olhando, hmm?}{Que ideia engenhosa! Gosto do seu raciocínio, senhora. Aqui está a chave do estojo. Tire-o quando ninguém estiver olhando, hmm?}{}{}{}{in -4406, gf1092 1, lf20 1, xp 6 }
+{483}{A:}{}{5}{}{0}{ }
+{486}{Infelizmente, foi roubado por algum intruso vil! Era uma das minhas exposições mais famosas. Você deveria ter visto, era uma maravilha de se contemplar! [Ele pisca para você, sabiamente.]}{Infelizmente, foi roubado por algum intruso vil! Era uma das minhas exposições mais famosas. Você deveria ter visto, era uma maravilha de se contemplar! [Ele pisca para você, sabiamente.]}{}{}{}{lf23 1 }
+{487}{Posso lhe perguntar sobre algumas de suas outras exposições?}{}{5}{}{109}{ }
+{488}{Isso é uma terrível tragédia. Preciso ir, bom senhor.}{}{5}{}{0}{ }
+{491}{Está dizendo que é falso? Não aprecio sua insinuação, senhor.}{Está dizendo que é falso? Não aprecio sua insinuação, senhora.}{}{}{}{ }
+{492}{Não, eu só estava dizendo que dá para ver como foi remendado várias vezes.}{}{5}{}{495}{ }
+{493}{Ainda está tentando fingir que é real, não é?}{}{5}{}{497}{lf22 1, re -5 }
+{494}{Peço desculpas. Posso lhe fazer algumas outras perguntas?}{}{5}{}{60}{ }
+{495}{Ah, entendo. Bem, ele já viu sua cota deste mundo, com todas as exposições e tudo mais.}{Ah, entendo. Bem, ele já viu sua cota deste mundo, com todas as exposições e tudo mais.}{}{}{}{ }
+{496}{Bem, pelo menos ainda atrai os clientes.}{}{5}{}{471}{ }
+{497}{Falso?! Acho que não! Como ousa me acusar de tal artimanha!}{Falso?! Acho que não! Como ousa me acusar de tal artimanha!}{}{}{}{ }
+{498}{Minhas desculpas. Não tive intenção de acusá-lo de desonestidade.}{}{5}{}{501}{ }
+{501}{Cuide para que isso não aconteça novamente.}{Cuide para que isso não aconteça novamente.}{}{}{}{ }
+{502}{K:}{}{5}{}{60}{ }
+{503}{E:}{}{5}{}{0}{ }
+{504}{Não, acho que seria muito caro. Além disso, ainda tem alguma fama e é valioso como uma rara descoberta arqueológica.}{Não, acho que seria muito caro. Além disso, ainda tem alguma fama e é valioso como uma rara descoberta arqueológica.}{}{}{}{ }
+{505}{K:}{}{5}{}{60}{ }
+{506}{E:}{}{5}{}{0}{ }
+{511}{Sobre qual de nossas criaturas fantásticas você gostaria de saber mais?}{Sobre qual de nossas criaturas fantásticas você gostaria de saber mais?}{}{}{}{ }
+{512}{O que pode me contar sobre a pele do Gigante de Stillwater?}{}{5}{gf1048 1, gf1092 0, gf1093 0}{99}{ }
+{513}{O que pode me contar sobre Gar, o Orc?}{}{5}{gf1089 1, lf8 0}{177}{ }
+{514}{O que pode me contar sobre a pele do Gigante de Stillwater?}{}{5}{gf1092 1, lf20 0, gf1093 0, lf23 0}{140}{ }
+{515}{O que pode me contar sobre a pele do Gigante de Stillwater?}{}{5}{gf1092 1, lf20 1, gf1093 0, lf23 0}{486}{ }
+{516}{Gigante?}{}{-4}{gf1048 1, gf1092 0, gf1093 0}{99}{ }
+{517}{Um orc esperto, é?}{}{-4}{gf1089 1, lf8 0}{177}{ }
+{518}{Um grandalhão, é?}{}{-4}{gf1092 1, gf1093 0}{140}{ }
+{533}{Aquela vaca boba tem 2 cabeças!}{}{-4}{gf2258 1}{610}{ }
+{534}{E aquele dragão ali?}{}{-4}{gf2259 1}{630}{ }
+{535}{O que você pode me contar sobre a vaca com duas cabeças?}{}{5}{gf2258 1}{610}{ }
+{536}{Qual é a história sobre o dragão petrificado?}{}{5}{gf2259 1}{630}{ }
+{537}{E:}{}{1}{}{0}{ }
+{539}{Sobre qual de nossos objetos exóticos e intrigantes você gostaria de saber mais?}{Sobre qual de nossos objetos exóticos e intrigantes você gostaria de saber mais?}{}{}{}{ }
+{540}{O que é aquela rocha de formato estranho?}{}{5}{gf2260 1}{650}{ }
+{541}{O que é aquela cabecinha pequena?}{}{5}{gf2261 1}{690}{ }
+{542}{Fiquei intrigado com aquele motor em miniatura.}{}{5}{gf2262 1}{700}{ }
+{543}{Você teria interesse em comprar um objeto exótico de mim?}{}{5}{in 5606}{551}{ }
+{544}{O que é aquela rocha?}{}{-4}{gf2260 1}{650}{ }
+{545}{Cabeça de boneca pequena?}{}{-4}{gf2261 1}{690}{ }
+{546}{Ooooh. Meu motoorzinho?}{}{-4}{gf2262 1}{700}{ }
+{547}{Eu tenho um objeto egg-zótico.}{}{-4}{in5606}{551}{ }
+{548}{E:}{}{1}{}{0}{ }
+{550}{O soco da guilhotina voadora dos antigos mestres élficos vai calar sua boca!}{O soco da guilhotina voadora dos antigos mestres élficos vai calar sua boca!}{}{}{}{ }
+{551}{Estou sempre no mercado em busca do bizarro ou incomum! O que você tem?}{Estou sempre no mercado em busca do bizarro ou incomum! O que você tem?}{}{}{}{ }
+{552}{A bota da Bessie Toone. [Mostre a bota para ele.]}{}{5}{in5606}{561}{ }
+{556}{Ah, tenho a bota da Bessie Tun.}{}{-4}{in5606}{561}{ }
+{560}{E:}{}{1}{}{0}{ }
+{561}{Excelente! Vou te dar 250 moedas pela famosa bota da Bessie!}{Excelente! Vou te dar 250 moedas pela famosa bota da Bessie!}{}{}{}{ }
+{562}{Acho que não. Posso te fazer algumas outras perguntas?}{}{1}{}{60}{ }
+{569}{Trato feito.}{}{5}{ha-11}{414}{$$250, in 5606 }
+{570}{Tá.}{}{-4}{ha-11}{414}{$$250, in 5606 }
+{571}{Não é o suficiente. Vai custar 300 moedas.}{}{5}{ha 12, ha-12}{590}{ }
+{572}{Não é o suficiente. Vai custar 350 moedas.}{}{5}{ha13, ha-13}{595}{ }
+{573}{Não é o suficiente. Vai custar 400 moedas.}{}{5}{ha14}{600}{ }
+{574}{Não é suficiente. 300 moedas!}{}{5}{ha 12, ha-12}{590}{ }
+{575}{Não é o suficiente. 350 moedas!}{}{5}{ha13, ha-13}{595}{ }
+{576}{Não é o suficiente. 400 moedas!}{}{5}{ha14}{600}{ }
+{577}{Isso vale muito mais do que isso.}{}{5}{ha-11}{580}{ }
+{578}{Vale mais!}{}{-4}{ha-11}{580}{ }
+{579}{E:}{}{1}{}{0}{ }
+{580}{Discordo, embora seja um ponto discutível. Eu só poderia oferecer 250 moedas por isso, essa é minha oferta final.}{Discordo, embora seja um ponto discutível. Eu só poderia oferecer 250 moedas por isso, essa é minha oferta final.}{}{}{}{ }
+{581}{Está fechado o acordo.}{}{5}{}{414}{$$250, in 5606 }
+{582}{Tá.}{}{-4}{}{414}{$$250, in 5606 }
+{583}{Que pena. Posso lhe fazer algumas outras perguntas?}{}{5}{}{60}{ }
+{584}{Não. Eu faço as perguntas, está bem?}{}{-4}{}{60}{ }
+{585}{Não acredito que possa aceitar sua oferta. Tenha um bom dia.}{}{5}{}{0}{ }
+{586}{Não gosto da sua oferta. Adeus.}{}{-4}{}{0}{ }
+{590}{Você é um adversário muito astuto na mesa de negociações. Normalmente, eu não concordaria com esse roubo descarado, mas você me convenceu. Aqui está o seu dinheiro.}{Você é um adversário muito astuto na mesa de negociações. Normalmente, eu não concordaria com esse roubo descarado, mas você me convenceu. Aqui está o seu dinheiro.}{}{}{}{$$300, in 5606 }
+{591}{Obrigado. Gostaria de lhe fazer mais perguntas, se me permitir.}{}{5}{}{60}{ }
+{592}{Obrigado. Mais perguntas?}{}{-4}{}{60}{ }
+{593}{E:}{}{1}{}{0}{ }
+{595}{Você é um adversário muito astuto na mesa de negociações. Normalmente, eu não concordaria com esse roubo descarado, mas você me convenceu. Aqui está o seu dinheiro.}{Você é um adversário muito astuto na mesa de negociações. Normalmente, eu não concordaria com esse roubo descarado, mas você me convenceu. Aqui está o seu dinheiro.}{}{}{}{$$350, in 5606 }
+{596}{Obrigado. Gostaria de lhe fazer mais perguntas, se me permitir.}{}{5}{}{60}{ }
+{597}{Obrigado. Mais perguntas?}{}{-4}{}{60}{ }
+{598}{E:}{}{1}{}{0}{ }
+{600}{Você é um adversário muito astuto na mesa de negociações. Normalmente, eu não concordaria com esse roubo descarado, mas você me convenceu. Aqui está o seu dinheiro.}{Você é um adversário muito astuto na mesa de negociações. Normalmente, eu não concordaria com esse roubo descarado, mas você me convenceu. Aqui está o seu dinheiro.}{}{}{}{$$400, in 5606 }
+{601}{Obrigado. Gostaria de lhe fazer mais perguntas, se me permitir.}{}{5}{}{60}{ }
+{602}{Obrigado. Mais perguntas?}{}{-4}{}{60}{ }
+{603}{E:}{}{1}{}{0}{ }
+{610}{Ahhhh! Aquele enigmático ruminante foi abatido em um safári nos ermos de Vendigroth! Quem sabe que magia ou ciências proibidas foram usadas para criar tal criatura! Você pode não pensar assim só de olhar, mas era um devorador de homens, era sim.}{Ahhhh! Aquele enigmático ruminante foi abatido em um safári nos ermos de Vendigroth! Quem sabe que magia ou ciências proibidas foram usadas para criar tal criatura! Você pode não pensar assim só de olhar, mas era um devorador de homens, era sim.}{}{}{}{ }
+{611}{Um devorador de homens? Senhor, o senhor está exagerando nos limites da credibilidade.}{}{5}{}{620}{re-5 }
+{612}{Oooh. Assustador. Posso perguntar sobre outras criaturas?}{}{-4}{}{511}{ }
+{613}{E quanto a algumas dessas outras criaturas?}{}{5}{}{511}{ }
+{614}{Gostaria de perguntar sobre seus objetos.}{}{5}{}{539}{ }
+{615}{Oooh. Assustador. O que há sobre os objetos?}{}{-4}{}{539}{ }
+{616}{Hmm. Acho que já vi uma vaca de duas cabeças em algum lugar antes...}{}{5}{}{640}{ }
+{619}{E:}{}{1}{}{0}{ }
+{620}{[Ele age como se estivesse ferido pelo seu comentário.] Senhor, eu jamais embelezaria a verdade! Sou um homem honesto!}{[Ele age como se estivesse ferido pelo seu comentário.] Senhora, eu jamais embelezaria a verdade! Sou um homem honesto!}{}{}{}{ }
+{621}{Que tal algumas dessas outras criaturas?}{}{5}{}{511}{ }
+{622}{Gostaria de perguntar sobre seus objetos.}{}{5}{}{539}{ }
+{629}{E:}{}{5}{}{0}{ }
+{630}{Magnífico, não é? Considero este um dos meus mais tristes exemplares, um resquício de um mundo que já se foi. O jovem dragão, separado de sua mãe para toda a eternidade!}{Magnífico, não é? Considero este um dos meus mais tristes exemplares, um resquício de um mundo que já se foi. O jovem dragão, separado de sua mãe para toda a eternidade!}{}{}{}{ }
+{631}{Parece um pedaço de rocha esculpido. E mal feito, ainda por cima.}{}{5}{}{172}{ }
+{632}{Parente pergunta sobre outras criaturas?}{}{-4}{}{511}{ }
+{633}{Que tal algumas dessas outras criaturas?}{}{5}{}{511}{ }
+{634}{Gostaria de perguntar sobre seus objetos.}{}{5}{}{539}{ }
+{635}{O que sobre objetos?}{}{-4}{}{539}{ }
+{636}{E:}{}{1}{}{0}{ }
+{640}{Só se o senhor tiver ido àquelas terras devastadas de Vendigroth.}{Só se a senhora tiver ido àquelas terras devastadas de Vendigroth.}{}{}{}{ }
+{641}{Que tal algumas dessas outras criaturas?}{}{5}{}{511}{ }
+{642}{Gostaria de perguntar sobre seus objetos.}{}{5}{}{539}{ }
+{649}{E:}{}{5}{}{0}{ }
+{650}{Esta é a face de ninguém menos que Arronax, misteriosamente queimada na rocha por forças místicas durante seu banimento para os reinos inferiores!}{Esta é a face de ninguém menos que Arronax, misteriosamente queimada na rocha por forças místicas durante seu banimento para os reinos inferiores!}{}{}{}{ }
+{653}{Arronax? Quem é ele?}{}{5}{}{670}{ }
+{654}{Quem ajax?}{}{-4}{}{670}{ }
+{655}{Que tal algumas dessas outras criaturas?}{}{5}{}{511}{ }
+{656}{Gostaria de perguntar sobre seus outros objetos.}{}{5}{}{539}{ }
+{657}{O que sobre objetos?}{}{-4}{}{539}{ }
+{658}{Perguntar sobre criaturas?}{}{-4}{}{511}{ }
+{659}{E:}{}{1}{}{0}{ }
+{660}{Por que não pergunta ao seu amigo Panarii ali? [Ele aponta para Virgil.] Ele pode lhe contar tudo sobre ele.}{Por que não pergunta à sua amiga Panarii ali? [Ele aponta para Virgil.] Ela pode lhe contar tudo sobre ele.}{}{}{}{ }
+{661}{Ele não é muito versado na religião Panarii. O que pode me contar?}{}{5}{}{670}{ }
+{662}{Tá bom. Eu pergunto sobre outras coisas?}{}{-4}{}{539}{ }
+{663}{Que tal algumas dessas outras criaturas?}{}{5}{}{511}{ }
+{664}{Gostaria de perguntar sobre seus outros objetos.}{}{5}{}{539}{ }
+{665}{E as outras criaturas?}{}{-4}{}{511}{ }
+{666}{Ele não sabe de nada. Você me conta.}{}{-4}{}{670}{ }
+{669}{E:}{}{1}{}{0}{ }
+{670}{Arronax era a encarnação do mal, tentou dominar o mundo e estabelecer os elfos como os governantes supremos de todas as raças! Por sorte, Nasrudin o esmagou como o verme que ele era.}{Arronax era a encarnação do mal, tentou dominar o mundo e estabelecer os elfos como os governantes supremos de todas as raças! Por sorte, Nasrudin o esmagou como o verme que ele era.}{}{}{}{ }
+{671}{certo. Eu pergunto sobre outras coisas?}{}{-4}{}{511}{ }
+{672}{E sobre algumas dessas criaturas?}{}{5}{}{511}{ }
+{673}{Gostaria de perguntar sobre seus outros objetos.}{}{5}{}{539}{ }
+{674}{E as outras criaturas?}{}{-4}{}{539}{ }
+{675}{O que mais você pode me contar sobre Arronax e Nasrudin?}{}{5}{}{680}{ }
+{676}{Você conta mais sobre <<<PH1>>> e <<<PH2>>>?}{}{-4}{}{680}{ }
+{679}{E:}{}{1}{}{0}{ }
+{680}{Não muito, lamento dizer. Teologia e lendas antigas não são meu forte. Talvez você devesse falar com um sacerdote dos Panarii. Acho que eles têm um templo por aqui em algum lugar.}{Não muito, lamento dizer. Teologia e lendas antigas não são meu forte. Talvez você devesse falar com um sacerdote dos Panarii. Acho que eles têm um templo por aqui em algum lugar.}{}{}{}{gf2263 1 }
+{681}{certo. Eu pergunto sobre outras coisas?}{}{-4}{}{539}{ }
+{682}{E sobre algumas dessas criaturas?}{}{5}{}{511}{ }
+{683}{Gostaria de perguntar sobre seus outros objetos.}{}{5}{}{539}{ }
+{684}{E as outras criaturas?}{}{-4}{}{511}{ }
+{689}{E:}{}{1}{}{0}{ }
+{690}{A cabeça encolhida dos Bárbaros de Kree! [Ele abaixa a voz em falsa seriedade.] Conta-se que ainda existem tribos de bárbaros nômades vagando pelo sudeste, que seriam os descendentes das mesmas tribos que seguiram o Flagelo de Kree em sua campanha assassina por Arcanum! Esta cabeça é tudo o que restou de um aventureiro que foi procurá-los...}{A cabeça encolhida dos Bárbaros de Kree! [Ele abaixa a voz em falsa seriedade.] Conta-se que ainda existem tribos de bárbaros nômades vagando pelo sudeste, que seriam os descendentes das mesmas tribos que seguiram o Flagelo de Kree em sua campanha assassina por Arcanum! Esta cabeça é tudo o que restou de um aventureiro que foi procurá-los...}{}{}{}{ }
+{691}{certo. Eu pergunto sobre outras coisas?}{}{-4}{}{539}{ }
+{692}{E sobre algumas dessas criaturas?}{}{5}{}{511}{ }
+{693}{Gostaria de perguntar sobre seus outros objetos.}{}{5}{}{539}{ }
+{694}{E as outras criaturas?}{}{-4}{}{511}{ }
+{699}{E:}{}{1}{}{0}{ }
+{700}{Essa é uma réplica em escala exata da primeira máquina a vapor de Bates, feita exclusivamente com palitos de dente e barbante! E funciona, também!}{Essa é uma réplica em escala exata da primeira máquina a vapor de Bates, feita exclusivamente com palitos de dente e barbante! E funciona, também!}{}{}{}{ }
+{701}{certo. Eu pergunto sobre outras coisas?}{}{-4}{}{539}{ }
+{702}{E sobre algumas dessas criaturas?}{}{5}{}{511}{ }
+{703}{Gostaria de perguntar sobre seus outros objetos.}{}{5}{}{539}{ }
+{704}{E as outras criaturas?}{}{-4}{}{511}{ }
+{709}{E:}{}{1}{}{0}{ }
+{710}{Ah, obrigado! Muito obrigado!}{Ah, obrigado! Muito obrigado!}{}{}{}{ }
+{711}{Gostaria de perguntar sobre suas outras criaturas, se me permite.}{}{5}{}{511}{ }
+{712}{E quanto a alguns destes objetos?}{}{5}{}{539}{ }
+{713}{E as outras criaturas?}{}{-4}{}{511}{ }
+{714}{tá. Eu pergunto sobre outras coisas?}{}{-4}{}{539}{ }
+{718}{Por favor, não foi nada. Adeus, senhor.}{}{5}{}{0}{ }
+{719}{E:}{}{1}{}{0}{ }
+

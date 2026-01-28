@@ -1,0 +1,76 @@
+{1}{[A mulher à sua frente é alta, de constituição forte, com um par de cicatrizes que vão do canto de cada olho até o maxilar. Isso faz com que ela pareça estar chorando.] O que você quer? Tem algum motivo para me incomodar, ou só gosta de jogar os dados com a velha Scratch?}{O que você quer? Tem algum motivo para me incomodar, ou só gosta de jogar os dados com a velha Scratch?}{}{}{}{}
+{2}{Se está insinuando que minha vida está em perigo, está redondamente enganado.}{}{5}{}{9}{re -10}
+{3}{Um dos seus homens me disse que eu poderia falar com você sobre um trabalho...}{}{5}{gf2172 1}{19}{}
+{4}{Acho que você diz uma besteira, moça...}{}{-4}{}{9}{}
+{5}{Homem disse que eu pergunto para você sobre trabalho...}{}{-4}{gf2172 1}{19}{}
+{6}{E:}{}{1}{}{}{lf1 1, fl 17}
+{9}{Sério? [Ela se vira para você, um par de lâminas aparecendo em suas mãos.] Quer testar essa teoria, forasteiro? Eu te estripo mais rápido que um cação de Morbihan...}{Sério? [Ela se vira para você, um par de lâminas aparecendo em suas mãos.] Quer testar essa teoria, vadia? Eu te estripo mais rápido que um cação de Morbihan...}{}{}{}{}
+{10}{Eu adoraria isso, senhorita...}{}{5}{}{}{co, fl 15}
+{11}{Não, acho que prefiro ir embora, obrigado...}{}{5}{}{}{lf1 1, fl 17}
+{12}{É! Vamos lutar!}{}{-4}{}{}{co, fl 15}
+{13}{E:}{}{-4}{}{}{lf1 1, fl 17}
+{15}{Palavras corajosas para um homem morto...}{Palavras corajosas para uma mulher morta...}{}{}{}{}
+{17}{É... suma daqui, cão. Se voltar aqui sem motivo, vai se arrepender...}{É... suma daqui, vadia. Se voltar aqui sem motivo, vai se arrepender...}{}{}{}{}
+{19}{Ah, disseram, é? [Ela te examina.] Hmmm. Talvez tenhamos um trabalho ou dois para você. Sabe para quem vai trabalhar...?}{Ah, disseram, é? [Ela te examina.] Hmmm. Talvez tenhamos um trabalho ou dois para você. Sabe para quem vai trabalhar...?}{}{}{}{}
+{20}{Sim... ele mencionou um meio-ogro chamado Pollock...}{}{5}{}{23}{}
+{21}{Hã... Po-l-l-o-k-k?}{}{-4}{}{23}{}
+{23}{É, o nome dele é Pollock, e ele não é um ogro muito compreensivo, se entende o que quero dizer. [Duas lâminas brilham sob sua armadura.] Um homem comete um erro com Pollock, e não há mais erros. Estamos nos entendendo aqui, amigo?}{É, o nome dele é Pollock, e ele não é um ogro muito compreensivo, se entende o que quero dizer. [Duas lâminas brilham sob sua armadura.] Um homem comete um erro com Pollock, e não há mais erros. Estamos nos entendendo aqui, querida?}{}{}{}{}
+{24}{Claro...}{}{5}{}{29}{}
+{25}{Acho que não quero me envolver em assuntos como esses...}{}{5}{}{0}{lf1 1, fl 17}
+{26}{É!}{}{-4}{}{29}{}
+{27}{Hã... eu não gosto disso. Acho que vou embora agora...}{}{-4}{}{0}{lf1 1, fl 17}
+{29}{Bom. Porque o que estou tentando te dizer é que você não faz negócios com um homem como Pollock a menos que esteja disposto a ir até o fim. Muitos sujeitos acharam que queriam entrar para a gangue de Pollock, depois viram demais e ficaram com medo, tentaram fugir. [Ela sorri, maldosamente.] É aí que eu entro...}{Bom. Porque o que estou tentando te dizer é que você não faz negócios com um homem como Pollock a menos que esteja disposto a ir até o fim. Muitos sujeitos acharam que queriam entrar para a gangue de Pollock, depois viram demais e ficaram com medo, tentaram fugir. [Ela sorri, maldosamente.] É aí que eu entro...}{}{}{}{}
+{30}{E quem poderia ser você?}{}{5}{}{35}{}
+{31}{Acho que não quero me envolver em assuntos como esses...}{}{5}{}{0}{lf1 1, fl 17}
+{32}{Quem é você, moça?}{}{-4}{}{35}{}
+{33}{Hã... eu não gosto disso. Acho que vou embora agora...}{}{-4}{}{0}{lf1 1, fl 17}
+{35}{O nome é Lágrimas... Miranda Lágrimas. Eu cuido das coisas para Pollock, todo tipo de coisa. Como garantir que ele não tenha nenhum coração mole trabalhando para ele. Se Pollock não gosta de algo ou alguém [Ela te lança um olhar direto.], então Miranda cuida disso.}{Os nomes... Miranda Lágrimas. Eu cuido das coisas para o Pollock, todo tipo de coisa. Como garantir que ele não tenha nenhum coração mole trabalhando para ele. Se o Pollock não gosta de algo ou alguém [Ela te lança um olhar direto.], então a Miranda cuida deles.}{}{}{}{}
+{36}{Então. Quando você vai parar de falar e me dar um trabalho?}{}{5}{ch 15}{43}{re +5}
+{37}{Então. Quando você vai parar de falar e me dar um trabalho?}{}{5}{ch -14}{46}{re -10}
+{38}{Claro, Miranda. Podemos falar sobre emprego?}{}{5}{}{50}{}
+{39}{Acho que não quero me envolver em assuntos como esses...}{}{5}{}{}{lf1 1, fl 17}
+{40}{Tá bom! Eu quero trabalho!}{}{-4}{}{50}{}
+{41}{Hã... eu não gosto disso. Acho que vou embora agora...}{}{-4}{}{}{lf1 1, fl 17}
+{43}{[Ela olha para você, avaliando, e então ri.] Acho que você vai se sair bem na Gangue do Pollock, parceiro. Você pode ser um pouco novato, mas parece saber se virar. Acho que podemos fazer negócios...}{[Ela olha para você, avaliando, e então ri.] Acho que você vai se sair bem na Gangue do Pollock. Você pode ser um pouco novato, mas parece saber se virar. Acho que podemos fazer negócios...}{}{}{}{}
+{44}{Vamos logo com isso então...}{}{5}{}{50}{}
+{46}{[Ela agarra a frente da sua camisa, uma lâmina brilhando em sua garganta.] Você pode achar que conhece o papo aqui no Caldeirão, <<<PH1>>>, mas Miranda Lágrimas não é alguém com quem se brincar. Quando falar comigo, mostre respeito, entendeu?}{[Ela agarra a frente da sua camisa, uma lâmina brilhando em sua garganta.] Você pode achar que conhece o papo aqui no Caldeirão, <<<PH2>>>, mas Miranda Lágrimas não é alguém com quem se brincar. Quando falar comigo, mostre respeito, entendeu?}{}{}{}{}
+{47}{Claro, Miranda. Perdoe minha língua afiada. Sobre aquele trabalho...}{}{5}{}{50}{re +5}
+{48}{Se você merecesse respeito, eu o daria, vadia.}{}{5}{}{}{co, fl 15}
+{50}{Sim, o trabalho. Bom, não é muito difícil, especialmente para alguém que tem cérebro na cabeça. Estamos ficando sem cerveja por aqui, e o Pollock não gosta quando não tem a cerveja dele...}{Sim, o trabalho. Bom, não é muito difícil, especialmente para alguém que tem cérebro na cabeça. Estamos ficando sem cerveja por aqui, e o Pollock não gosta quando não tem a cerveja dele...}{}{}{}{}
+{51}{Entendi. O que eu preciso fazer?}{}{5}{}{54}{}
+{52}{Hã... tá bom. Onde eu pego mais cerveja?}{}{-4}{}{54}{}
+{54}{Tem um pequeno armazém aqui no Caldeirão, a alguns quarteirões ao norte daqui. É propriedade do Clã Maug, e está cheio de cerveja. Geralmente tem um guarda na frente e outro patrulhando por perto. Traga de volta um caixote de cerveja, e conversamos sobre outras oportunidades de emprego...}{Tem um pequeno armazém aqui no Caldeirão, a alguns quarteirões ao norte daqui. É propriedade do Clã Maug, e está cheio de cerveja. Geralmente tem um guarda na frente e outro patrulhando por perto. Traga de volta um caixote de cerveja, e conversamos sobre outras oportunidades de emprego...}{}{}{}{qu1085 1}
+{55}{Vou fazer isso.}{}{5}{}{66}{qu1085 2, rp 1003}
+{56}{Esquece. Não serei seu garoto de recados, nem para você NEM para o Pollock.}{}{5}{}{60}{}
+{57}{Tá bom! Eu vou pegar a cerveja...}{}{-4}{}{66}{qu1085 2, rp 1003}
+{58}{Hã... esquece. Eu não quero fazer esse trabalho idiota...}{}{-4}{}{60}{}
+{60}{O quê? [Ela se inclina na sua direção, olhos ameaçadores.] Eu recomendo que você mude de ideia, <<<PH1>>>. Já é um pouco tarde para ficar com medo. O que vai ser?}{O quê? [Ela se inclina na sua direção, olhos ameaçadores.] Eu recomendo que você mude de ideia, <<<PH1>>>. Já é um pouco tarde para ficar com medo. O que vai ser?}{}{}{}{}
+{61}{Não vou repetir. Eu NÃO vou aceitar o trabalho...}{}{5}{}{}{co, fl 15}
+{62}{Tudo bem. Eu faço...}{}{5}{}{66}{qu1085 2, rp 1003}
+{63}{Hã... você me cansa, moça. Eu esmago seu crânio, agora...}{}{-4}{}{}{co, fl 15}
+{64}{Tá bom, Manda, eu aceito o trabalho...}{}{-4}{}{66}{qu1085 2, rp 1003}
+{66}{Ótimo. Volte aqui quando tiver aquela cerveja. Jogue bem suas cartas, e talvez você até conheça o próprio Pollock...}{Ótimo. Volte aqui quando tiver aquela cerveja. Jogue bem suas cartas, e talvez você até conheça o próprio Pollock...}{}{}{}{}
+{67}{Estou ansioso por isso. Tenha um bom dia...}{}{5}{}{0}{lf1 1}
+{68}{E:}{}{-4}{}{0}{lf1 1}
+{70}{O que traz VOCÊ de volta aqui tão cedo?}{O que traz VOCÊ de volta aqui tão cedo?}{}{}{}{}
+{71}{Nenhum motivo em particular...}{}{5}{}{}{co, fl 84}
+{72}{Um dos seus homens me disse que eu poderia falar com você sobre um trabalho...}{}{5}{gf 2172 1, qu1085 0}{19}{}
+{73}{Ainda estou resolvendo aquele problema da cerveja para você...}{}{5}{ni 5646, qu1085 2, lf2 0}{86}{}
+{74}{Ainda estou resolvendo aquele problema da cerveja para você...}{}{5}{ni 5646, qu1085 2, lf2 1}{}{co, fl 84}
+{75}{Trouxe de volta o engradado de cerveja... aqui está...}{}{5}{in 5646, qu1085 2}{90}{in 5646}
+{76}{Hã... não sei...}{}{-4}{}{}{co, fl 84}
+{77}{Hã... homem dizer que eu perguntar para você sobre trabalho...}{}{-4}{gf 2172 1, qu1085 0}{19}{}
+{78}{Ainda estou procurando a cerveja...}{}{-4}{ni 5646, qu1085 2, lf2 0}{86}{}
+{79}{Ainda estou procurando a cerveja...}{}{-4}{ni 5646, qu1085 2, lf2 1}{}{co, fl 84}
+{80}{Trouxe a cerveja de volta... aqui está!}{}{-4}{in 5646, qu1085 2}{90}{in 5646}
+{84}{Eu disse para não voltar aqui sem motivo. Agora você vai pagar o preço...}{Eu disse para não voltar aqui sem motivo. Agora você vai pagar o preço...}{}{}{}{}
+{86}{Bem, por que está aqui dentro e não lá fora resolvendo aquele problema? [Ela o empurra para longe.] Saia daqui e não volte a menos que tenha um bom motivo...}{Bem, por que está aqui dentro e não lá fora resolvendo aquele problema? [Ela o empurra para longe.] Saia daqui e não volte a menos que tenha um bom motivo...}{}{}{}{}
+{87}{Certo. Voltarei quando tiver.}{}{5}{}{0}{lf2 1}
+{88}{E:}{}{-4}{}{0}{lf2 1}
+{90}{Conseguiu? Bem feito. Seja bem-vindo à Gangue de Pollock. Eu falei sobre você para ele, e ele quer conhecê-lo o mais rápido possível. Se for até o Sul Fervente, encontrará onde ele mora. Diga ao guarda que Miranda autorizou sua entrada. Tome cuidado e não faça nada estúpido. Pollock estará esperando...}{Conseguiu? Bem feito. Seja bem-vindo à Gangue de Pollock. Eu falei sobre você para ele, e ele quer conhecê-lo o mais rápido possível. Se for até o Sul Fervente, encontrará onde ele mora. Diga ao guarda que Miranda autorizou sua entrada. Tome cuidado e não faça nada estúpido. Pollock estará esperando...}{}{}{}{qu1085 4, gf2189 1}
+{91}{Vou fazer isso, Miranda. Tenha um bom dia...}{}{5}{}{0}{lf3 1}
+{92}{E:}{}{-4}{}{0}{lf3 1}
+{94}{Vá falar com Pollock... diga que Miranda o enviou...}{Vá falar com Pollock... diga que Miranda o enviou...}{}{}{}{}
+{95}{[Ela o encara, adagas brilhando sob seus pulsos.] Eu sei que você faz parte do Clã Maug. Saia daqui agora, antes que se machuque...}{[Ela o encara, adagas brilhando sob seus pulsos.] Eu sei que você faz parte do Clã Maug. Saia daqui agora, antes que se machuque...}{}{}{}{}
+{100}{[A mulher o encara.] Você não ficou sabendo? O chefe está morto. A Gangue de Pollock acabou, e eu também. [Ela se vira, balançando a cabeça.] Saia da minha frente...}{[A mulher o encara.] Você não ficou sabendo? O chefe está morto. A Gangue de Pollock acabou, e eu também. [Ela se vira, balançando a cabeça.] Saia da minha frente...}{}{}{}{}
+

@@ -1,0 +1,65 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá, senhor. Posso saber quem é você?}{}{5}{lf1 0, re 41}{27}{lf1 1}
+{3}{Olá, Matthew. Tem um momento?}{}{5}{lf1 1, re 41}{53}{}
+{4}{Senhor! Que tipo de cumprimento é esse? Acabamos de nos conhecer!}{}{5}{lf1 0, re -40}{11}{lf1 1}
+{5}{Matthew! Qual parece ser o problema?}{}{5}{lf1 1, re -40}{11}{}
+{7}{Oi! Quem é você?}{}{-4}{lf1 0}{27}{lf1 1}
+{8}{Oi, Matthew! Você fala comigo...?}{}{-4}{lf1 1}{53}{}
+{9}{E:}{}{1}{}{0}{}
+{11}{Sinto muito, mas sua presença me irrita profundamente. Não costumo me associar com pessoas do seu... tipo...}{Sinto muito, mas sua presença me irrita profundamente. Não costumo me associar com pessoas do seu... tipo...}{}{}{}{}
+{12}{Vamos lá, senhor. Tenho certeza de que podemos deixar essas ideias para trás...}{}{5}{}{23}{re +10}
+{13}{Não gosto do que está insinuando...}{}{5}{}{16}{re -5}
+{14}{E:}{}{5}{}{0}{}
+{16}{Não poderia me importar menos com o que você gosta ou não, estranho. Recomendo que vá embora...}{Não poderia me importar menos com o que você gosta ou não, estranho. Recomendo que vá embora...}{}{}{}{}
+{17}{Escute, estou disposto a fazer as pazes aqui, se você também estiver...}{}{5}{}{23}{re +10}
+{18}{Vou fazer isso... logo depois de lhe ensinar uma lição de boas maneiras...}{}{5}{}{}{co, fl 21}
+{19}{E:}{}{5}{}{0}{}
+{21}{Você escolheu brigar com o cara errado, estranho. Prepare os punhos!}{Você escolheu brigar com o cara errado, estranho. Prepare os punhos!}{}{}{}{}
+{23}{Hmm. Talvez você esteja certo. Por favor, perdoe minha mesquinhez. Eu sou Matthew Jameson. Prazer em conhecê-lo...}{Hmm. Talvez você esteja certo. Por favor, perdoe minha mesquinhez. Eu sou Matthew Jameson. Prazer em conhecê-lo...}{}{}{}{}
+{24}{E o senhor? O que está fazendo aqui na rua?}{}{5}{}{33}{re +5}
+{25}{E:}{}{5}{}{0}{}
+{27}{[O homem está olhando para uma grade de esgoto bem à sua frente.] Sim, claro. Meu nome é Matthew Jameson. Prazer em conhecê-lo...}{[O homem está olhando para uma grade de esgoto bem à sua frente.] Sim, claro. Meu nome é Matthew Jameson. Prazer em conhecê-lo...}{}{}{}{}
+{28}{Um prazer. O que está fazendo aqui na rua?}{}{5}{}{33}{}
+{30}{Hã... por que você tá aqui na rua?}{}{-4}{}{33}{}
+{31}{E:}{}{1}{}{0}{}
+{33}{Ah, que droga! Acordei hoje de manhã, sabe... fui ao banheiro cedinho. Estava lavando as mãos e minha aliança caiu! Direto no ralo e sumiu!}{Ah, que droga! Acordei hoje de manhã, sabe... fui ao banheiro cedinho. Estava lavando as mãos e minha aliança caiu! Direto no ralo e sumiu!}{}{}{}{}
+{34}{Que pena...}{}{5}{}{37}{}
+{35}{Que azar!}{}{-4}{}{37}{}
+{37}{E ontem à noite saí com os rapazes... bebemos umas canecas a mais e só cheguei em casa tarde. Sabe o que a patroa vai pensar. Pensei em descer até os esgotos para ver se a encontrava, mas ouvi coisas horríveis sobre os esgotos...}{E ontem à noite saí com os rapazes... bebemos umas canecas a mais e só cheguei em casa tarde. Sabe o que a patroa vai pensar. Pensei em descer até os esgotos para ver se a encontrava, mas ouvi coisas horríveis sobre os esgotos...}{}{}{}{}
+{38}{Talvez eu possa ajudar?}{}{5}{}{43}{re +5}
+{39}{Que pena mesmo, meu velho. Tenha um bom dia...}{}{5}{}{0}{re -5}
+{40}{Quem sabe eu ajudo, Matthew!}{}{-4}{}{43}{re +5}
+{41}{Hmmm. Quem me dera poder ajudar. Até mais!}{}{-4}{}{0}{re -5}
+{43}{Ah, iria? Ficaria muito agradecido... não me agrada nem um pouco a ideia de andar pelos esgotos, sujando meus sapatos. Se você fosse lá embaixo e encontrasse o anel para mim, eu lhe pagaria 150 peças de ouro!}{Ah, iria? Ficaria muito agradecido... não me agrada nem um pouco a ideia de andar pelos esgotos, sujando meus sapatos. Se você fosse lá embaixo e encontrasse o anel para mim, eu lhe pagaria 150 peças de ouro!}{}{}{}{qu1068 1}
+{44}{Feito.}{}{5}{}{49}{qu1068 2}
+{45}{Vou pensar no assunto. Tenha um bom dia...}{}{5}{}{0}{}
+{46}{Hã... tá bom! Eu faço isso!}{}{-4}{}{49}{qu1068 2}
+{47}{Talvez. Eu volto mais tarde.}{}{-4}{}{0}{}
+{49}{Excelente! Vou aguardar seu retorno, então...}{Excelente! Vou aguardar seu retorno, então...}{}{}{}{}
+{50}{E:}{}{1}{}{0}{}
+{53}{Claro...}{Claro...}{}{}{}{}
+{54}{Eu estava me perguntando por que você está parado aqui na rua...}{}{5}{qu1068 0, ni 2809}{33}{}
+{55}{Eu estava pensando que talvez pudesse recuperar seu anel de casamento...}{}{5}{qu1068 1, ni 2809}{43}{}
+{56}{Ainda estou procurando seu anel...}{}{5}{qu1068 2, ni 2809}{65}{}
+{57}{Encontrei seu anel... [Você o entrega a ele.]}{}{5}{qa1068 1, in 2809}{69}{in 2809}
+{58}{Encontrei seu anel! Infelizmente, acho que vou ficar com ele...}{}{5}{qu1068 2, in 2809}{75}{al -25, re -10}
+{59}{Por que você está aqui na rua?}{}{-4}{qu1068 0, ni 2809}{33}{}
+{60}{Quem sabe eu ajudo você a encontrar o anel de casamento?}{}{-4}{qu1068 1, ni 2809}{43}{}
+{61}{Ainda estou procurando o anel!}{}{-4}{qu1068 2, ni 2809}{65}{}
+{62}{Achei o anel! Achei o anel! Aqui está... [Você o entrega a ele.]}{}{-4}{qa1068 1, in 2809}{69}{in 2809}
+{63}{Achei o anel! Achei o anel! Que pena pra você, vou ficar com ele!}{}{-4}{qu1068 2, in 2809}{75}{al -25, re -10}
+{64}{E:}{}{1}{}{0}{}
+{65}{Espero que o encontre logo! Minha esposa tem me lançado olhares estranhos hoje!}{Espero que o encontre logo! Minha esposa tem me lançado olhares estranhos hoje!}{}{}{}{}
+{66}{E:}{}{1}{}{0}{}
+{69}{Maravilhoso! Aqui está seu dinheiro. Você me fez um grande favor... parece que não vou dormir na varanda...}{Maravilhoso! Aqui está seu dinheiro. Você me fez um grande favor... parece que não vou dormir na varanda...}{}{}{}{$$150, qu1068 4}
+{70}{E:}{}{1}{}{0}{lf2 1}
+{73}{Você é um bom sujeito... obrigado novamente pela ajuda...}{Você é uma dama e tanto... obrigado novamente pela ajuda...}{}{}{}{}
+{74}{}{}{}{}{}{}
+{75}{O quê? Minha esposa me deu isso! Pertence a mim, senhor! Estou preparado para fazer o que for necessário para recuperá-lo! [Ele cerra os punhos.]}{O quê? Minha esposa me deu isso! Pertence a mim, madame! Estou preparado para fazer o que for necessário para recuperá-lo! [Ele cerra os punhos.]}{}{}{}{}
+{76}{Eu só estava brincando, meu velho! Aqui está o anel! [Entregue-o a ele.]}{}{5}{}{69}{al +15, re +5, in 2809}
+{77}{Você nunca cometeu um erro maior, Matthew...}{}{5}{}{}{co, fl 21}
+{78}{Tá bom! Eu só tava brincando! Pode ficar com o anel! [Entregue-o a ele.]}{}{-4}{}{69}{al +15, re +5, in 2809}
+{79}{HA! Você não me assusta! Eu mato você!}{}{-4}{}{}{co, fl 21}
+{80}{[Ele lhe lança um olhar desconfiado.] Eh, claro. Aqui está seu dinheiro. Tenha um bom dia...}{[Ele lhe lança um olhar desconfiado.] Eh, claro. Aqui está seu dinheiro. Tenha um bom dia...}{}{}{}{$$150, qu1068 4}
+{81}{E:}{}{1}{}{0}{lf2 1}
+

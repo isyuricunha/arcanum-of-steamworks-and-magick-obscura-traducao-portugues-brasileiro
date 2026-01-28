@@ -1,0 +1,54 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Estou aqui por causa do Muggs. Ele disse para pagar ou você está morto.}{}{5}{qu1084 2, re41}{21}{}
+{3}{Cuidado com a boca. Estou aqui para cobrar para o Muggs.}{}{5}{qu1084 2, re-40}{21}{}
+{4}{W:}{}{5}{qu1084 0, re41}{61}{}
+{5}{Com licença, senhor. Não tive a intenção de invadir.}{}{5}{qu1084 0, re-40, ch-14}{71}{}
+{6}{O que foi que você disse?}{}{5}{qu1084 0, re-40, ch15}{81}{}
+{7}{Eu aqui pegar dinheiro pro cara do Muggy.}{}{-4}{qu1084 2}{21}{}
+{8}{Não gosto de você, nem da sua atitude. Preciso te dar uma surra, agora.}{}{5}{re-40}{0}{co}
+{9}{Eu te surro por diversão.}{}{-4}{re-40}{0}{co}
+{10}{E:}{}{1}{}{0}{}
+{21}{Pelos Deuses! Por favor, tenha piedade de mim! Estou doente e pobre. Tenho 25 moedas de ouro no nome, e estamos morrendo de fome!}{Pelos Deuses! Por favor, tenha piedade de mim! Estou doente e pobre. Tenho 25 moedas de ouro no nome, e estamos morrendo de fome!}{}{}{}{}
+{22}{Que pena. Me dê o dinheiro, ou terei que te matar.}{}{5}{}{31}{}
+{23}{Se você me der as 25, eu pago o resto.}{}{5}{}{41}{re+10}
+{24}{Não se preocupe com isso, eu pago sua dívida por você.}{}{5}{}{51}{re+15, al+50}
+{25}{Dá o dinheiro ou eu te mato.}{}{-4}{}{31}{}
+{26}{Me dá 25. Eu pago o resto.}{}{-4}{}{41}{re+10}
+{27}{Não se preocupe. Eu pago por você.}{}{-4}{}{51}{re+15, al+50}
+{29}{Eu volto.}{}{-4}{}{0}{lf2 1}
+{30}{Vou voltar depois para pegar o dinheiro.}{}{5}{}{0}{lf2 1}
+{31}{Mas eu não tenho!}{Mas eu não tenho!}{}{}{}{}
+{32}{Sinto muito. Mas tenho que te matar. Nada pessoal, é meu trabalho.}{}{5}{}{0}{fl 56 ,co}
+{33}{Se você me der as 25, eu pago o resto.}{}{5}{}{41}{re+10}
+{34}{Não se preocupe com isso, eu pago sua dívida por você.}{}{5}{}{51}{re+15, al+50}
+{35}{Desculpa. Eu te mato agora.}{}{-4}{}{0}{fl 56 ,co}
+{37}{Me dá 25. Eu pago o resto.}{}{-4}{}{41}{re+10}
+{38}{Não se preocupe. Eu pago por você.}{}{-4}{}{51}{re+15, al+50}
+{39}{Eu volto.}{}{-4}{}{0}{lf2 1}
+{40}{Vou voltar depois para pegar o dinheiro.}{}{5}{}{0}{lf2 1}
+{41}{Oh, que os Deuses o abençoem, senhor! Aqui, pegue. Não se preocupe, vou dar um jeito de alimentar minha família.}{Oh, que os Deuses a abençoem, senhora! Aqui, pegue. Não se preocupe, vou dar um jeito de alimentar minha família.}{}{}{}{}
+{42}{Não deixe isso acontecer de novo. Da próxima vez, você não terá tanta sorte.}{}{5}{}{51}{$$25, al+100}
+{43}{Fique com seu dinheiro, eu pago para você.}{}{5}{}{51}{re+10, al+50}
+{44}{Estou cansado do seu choramingo. Mudei de ideia, você está morto.}{}{5}{}{0}{fl 56 ,co}
+{45}{Tá bom. Tchau.}{}{-4}{}{51}{$$25, al+100}
+{46}{Eu pago todo o dinheiro por você.}{}{-4}{}{51}{re+10, al+50}
+{47}{Mudei de ideia. Você morre.}{}{-4}{}{0}{fl 56 ,co}
+{51}{[Ele cai no chão e começa a beijar sua mão.] Obrigado! Obrigado!}{[Ele cai no chão e começa a beijar sua mão.] Obrigado! Obrigado!}{}{}{}{gf2171 1}
+{52}{E:}{}{1}{}{0}{}
+{56}{Por favor, não! Me poupe!}{Por favor, não! Me poupe!}{}{}{}{}
+{61}{Meu nome é Larrs. O que você quer de mim?}{Meu nome é Larrs. O que você quer de mim?}{}{}{}{}
+{62}{Nada. Só estou viajando por aí. Tenha um bom dia.}{}{5}{}{0}{}
+{63}{Nada. Tchau.}{}{-4}{}{0}{}
+{71}{Então vá embora, idiota!}{Então vá embora, idiota!}{}{}{}{}
+{72}{Tudo bem, estou indo embora.}{}{5}{}{0}{}
+{73}{Tá.}{}{-4}{}{0}{}
+{74}{Primeiro, preciso lhe dar uma surra severa.}{}{5}{}{0}{co}
+{75}{Eu mato você feio.}{}{-4}{}{0}{co}
+{81}{Ah, hã, nada, quero dizer, como o senhor está hoje?}{Ah, hã, nada, quero dizer, como a senhora está hoje?}{}{}{}{}
+{82}{W:}{}{1}{}{61}{}
+{83}{E:}{}{1}{}{0}{}
+{90}{Você voltou pelo dinheiro?}{Você voltou pelo dinheiro?}{}{}{}{}
+{91}{Y:}{}{1}{}{31}{}
+{99}{E:}{}{1}{}{0}{}
+{100}{Obrigado por me ajudar, senhor.}{Obrigado por me ajudar, senhora.}{}{}{}{}
+

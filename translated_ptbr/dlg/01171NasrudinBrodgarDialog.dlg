@@ -1,0 +1,32 @@
+{1}{Você está preparado para enfrentar Arronax?}{Você está preparado para enfrentar Arronax?}{}{1}{}{ }
+{2}{Sim.}{}{5}{gf2463 1, gf2465 1}{40}{ }
+{3}{Sim. Tô pronto!}{}{-4}{gf2463 1, gf2465 1}{40}{ }
+{4}{Sim.}{}{5}{gf2463 1, gf2465 0}{20}{ }
+{5}{Sim. Tô pronto!}{}{-4}{gf2463 1, gf2465 0}{20}{ }
+{6}{Sim.}{}{5}{gf2463 0}{40}{ }
+{7}{Sim. Tô pronto!}{}{-4}{gf2463 0}{40}{ }
+{8}{Ainda não.}{}{5}{}{30}{ }
+{9}{Eu num tô pronto pra ir ainda não!}{}{-4}{}{30}{ }
+{10}{Espere, o que aconteceu aqui? [Aponte para o cadáver de K'an Hua.]}{}{5}{lf1 0, gf2035 1}{50}{lf1 1 }
+{11}{O que aconteceu aqui? [Aponte para o cadáver de K'an Hua.]}{}{-4}{lf1 0, gf2035 1}{50}{lf1 1 }
+{19}{}{}{}{}{}{ }
+{20}{Parece que a princesa Raven está desaparecida. Você vai precisar dela na batalha que se aproxima. Encontre-a e depois retorne a mim...}{Parece que a princesa Raven está desaparecida. Você vai precisar dela na batalha que se aproxima. Encontre-a e depois retorne a mim...}{}{2}{}{ }
+{21}{E:}{}{1}{}{0}{ }
+{30}{Por que está demorando? O tempo é essencial!}{Por que está demorando? O tempo é essencial!}{}{3}{}{ }
+{31}{Você está certo. Estou pronto para ser banido, então.}{}{5}{}{40}{ }
+{32}{Tá bom. Eu vou agora!}{}{-4}{}{40}{ }
+{33}{Tenho meus motivos. Voltarei.}{}{5}{}{0}{ }
+{34}{Eu num quero ir agora! Vou embora!}{}{-4}{}{0}{ }
+{40}{Então é a hora. Que seus deuses o acompanhem para o outro lado e o ajudem a deter Arronax.}{Então é a hora. Que seus deuses o acompanhem para o outro lado e o ajudem a deter Arronax.}{}{4}{}{qu1111 2, qu1051 4, ss20 }
+{41}{Hã?}{}{-4}{}{-2}{ }
+{42}{É melhor que ajudem, ou todos nós estaremos em apuros.}{}{5}{}{-2}{ }
+{50}{Ah, isso. Muito estranho, na verdade... ele começou a gritar "você não pode ainda estar vivo" e me atacou. Tive que matá-lo, maldito tolo. Acredito que ele estava aqui para impedir que você fosse banido, embora eu não faça ideia de como ele sabia o que iria acontecer aqui. Mas temos coisas mais importantes para tratar... você está pronto?}{Ah, isso. Muito estranho, na verdade... ele começou a gritar "você não pode ainda estar vivo" e me atacou. Tive que matá-lo, maldito tolo. Acredito que ele estava aqui para impedir que você fosse banido, embora eu não faça ideia de como ele sabia o que iria acontecer aqui. Mas temos coisas mais importantes para tratar... você está pronto?}{}{5}{}{ }
+{51}{Sim.}{}{5}{gf2463 1, gf2465 1}{40}{ }
+{52}{Sim. Tô pronto!}{}{-4}{gf2463 1, gf2465 1}{40}{ }
+{53}{Sim.}{}{5}{gf2463 1, gf2465 0}{20}{ }
+{54}{Sim. Tô pronto!}{}{-4}{gf2463 1, gf2465 0}{20}{ }
+{55}{Sim.}{}{5}{gf2463 0}{40}{ }
+{56}{Sim. Tô pronto!}{}{-4}{gf2463 0}{40}{ }
+{59}{Ainda não.}{}{5}{}{30}{ }
+{60}{Eu num tô pronto pra ir ainda não!}{}{-4}{}{30}{ }
+

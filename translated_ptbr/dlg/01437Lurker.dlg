@@ -1,0 +1,76 @@
+{1}{Ei, o quê?}{Ei, o quê?}{}{}{}{ }
+{2}{Posso perguntar seu nome?}{}{5}{re41, qu1039 4, lf1 0, lf2 0, lf3 0}{20}{ }
+{3}{Por acaso você conhece um sujeito chamado Lukan?}{}{5}{re41, gf2121 1, qb1039 2, lf1 0, lf2 0, lf3 0}{50}{ }
+{4}{Posso perguntar seu nome?}{}{5}{re41, qu1062 4, qb1039 2, lf1 0, lf2 0, lf3 0}{120}{ }
+{5}{Posso perguntar seu nome?}{}{5}{re-40, qu1039 4, lf1 0, lf2 0, lf3 0}{20}{re+15 }
+{6}{Por acaso você conhece um sujeito chamado Lukan?}{}{5}{re-40, gf2121 1, qb1039 2, lf1 0, lf2 0, lf3 0}{150}{ }
+{7}{Posso perguntar seu nome?}{}{5}{re-40, qu1062 4, qb1039 2, lf1 0, lf2 0, lf3 0}{120}{re+15 }
+{8}{Whurgle?}{}{-4}{ qu1039 4}{130}{ }
+{9}{Você conhece o tal do Lukee?}{}{-4}{gf2121 1, qb1039 2, qb1033 2}{180}{ }
+{10}{Ughaberg?}{}{-4}{qu1062 4, qb1039 2}{140}{ }
+{11}{Afinal, decidi seguir a vida de ladrão.}{}{5}{lf1 1}{70}{ }
+{12}{Você tem alguma informação para um colega ladrão?}{}{5}{lf2 1}{30}{ }
+{13}{Roubei o diário do Bates. Tem alguma informação para mim?}{}{5}{lf3 1}{30}{ }
+{14}{Fui eu quem ajudou a Sra. Pettibone. Tem alguma informação?}{}{5}{lf10 1}{30}{ }
+{15}{Eu ajudo o Lukuhn, o ladrão lá dos Morros Arbustivos!}{}{-4}{qu1033 4}{180}{ }
+{19}{E:}{}{1}{}{0}{ }
+{20}{Meu nome? Mas você é o importante aqui, não é, @pcname@? Eu sei tudo sobre você, sei sim. O homem que entregou o Bates! Hah! Parabéns, velho!}{Meu nome? Mas você é a importante aqui, não é, @pcname@? Eu sei tudo sobre você, sei sim. A mulher que entregou o Bates! Hah! Parabéns, madame!}{}{}{}{ }
+{21}{Deve ter me confundido com outra pessoa.}{}{5}{}{110}{ }
+{22}{Vejo que minha fama me precede.}{}{5}{}{30}{ }
+{29}{Preciso ir andando. Tenha um bom dia.}{}{5}{}{0}{ }
+{30}{Com certeza, senhor. Tenho um conhecido que você deveria conhecer. O nome dele é Thaddeus Mynor. Ele é o contato da Resistência nesta área.}{Com certeza, madame. Tenho um conhecido que você deveria conhecer. O nome dele é Thaddeus Mynor. Ele é o contato da Resistência nesta área.}{}{}{}{ }
+{31}{A Resistência?}{}{5}{}{40}{ }
+{32}{Resistência?}{}{-4}{}{40}{ }
+{40}{É uma confederação livre de ladrões. Evita que pisemos no trabalho uns dos outros. O Thaddeus sempre sabe dos melhores serviços. Você deveria visitá-lo, a casa dele fica na esquina da Westrel Sul com a Quilton Bend. Vou avisá-lo para esperar por você.}{É uma confederação livre de ladrões. Evita que pisemos no trabalho uns dos outros. O Thaddeus sempre sabe dos melhores serviços. Você deveria visitá-lo, a casa dele fica na esquina da Westrel Sul com a Quilton Bend. Vou avisá-lo para esperar por você.}{}{}{}{ru2153 }
+{41}{Obrigado, acho.}{}{5}{}{0}{gf2122 1 }
+{42}{Gurgle.}{}{-4}{}{0}{gf2122 1 }
+{50}{[Ele começa a rir, incontrolavelmente.] Ah, o desmiolado! Pura genialidade, ele é. Amigo seu?}{[Ele começa a rir, incontrolavelmente.] Ah, o desmiolado! Pura genialidade, ele é. Amiga sua?}{}{}{}{ }
+{51}{Na verdade, não. Mas ele mencionou uma resistência de ladrões...}{}{5}{}{60}{ }
+{60}{Ah, mencionou, foi? Ele nunca soube quando manter essa boca boba fechada. E então, hein? Se acha um ladrão, é?}{Ah, mencionou, foi? Ele nunca soube quando manter essa boca boba fechada. E então, hein? Se acha uma ladra, é?}{}{}{}{ }
+{61}{Não particularmente. Mas gostaria de me tornar um.}{}{5}{}{80}{ }
+{62}{Talvez eu seja, por que pergunta?}{}{5}{}{100}{ }
+{63}{Sim, na verdade, eu sou.}{}{5}{}{70}{ }
+{64}{Hã?}{}{-4}{}{70}{ }
+{70}{Bom, então você precisa conhecer um sujeito muito bacana chamado Thaddeus Mynor. Ele é o contato do Subterrâneo nesta área.}{Bom, então você precisa conhecer um sujeito muito bacana chamado Thaddeus Mynor. Ele é o contato do Subterrâneo nesta área.}{}{}{}{ }
+{71}{O Subterrâneo?}{}{5}{}{40}{ }
+{72}{Subterrâneo?}{}{-4}{}{40}{ }
+{80}{Tem certeza disso ou está apenas brincando com a ideia da vida glamurosa de um ladrão?}{Tem certeza disso ou está apenas brincando com a ideia da vida glamurosa de um ladrão?}{}{}{}{ }
+{81}{Tenho certeza.}{}{5}{}{70}{ }
+{82}{Vou ter que pensar melhor sobre isso.}{}{5}{}{90}{lf1 1 }
+{90}{Heh, heh. Eu sabia. Bom, se um dia decidir, você deveria me procurar, deveria.}{Heh, heh. Eu sabia. Bom, se um dia decidir, você deveria me procurar, deveria.}{}{}{}{ }
+{91}{Vou fazer isso. Tenha um bom dia.}{}{5}{}{0}{ }
+{100}{Ei, você é quem está fazendo perguntas aqui, não é, parceiro? Se for um ladrão, posso ter uma informação que você precise. Agora, você é um ladrão ou não?}{Ei, você é quem está fazendo perguntas aqui, não é, moça? Se for uma ladra, posso ter uma informação que você precise. Agora, você é uma ladra ou não?}{}{}{}{ }
+{101}{Sim, sou.}{}{5}{}{70}{ }
+{102}{Terminei esta conversa. Tenha um bom dia.}{}{5}{}{0}{lf2 1 }
+{110}{Que pena, eu tinha uma informação bem útil sobre o traidor de Bates. Se por acaso o encontrar, mande-o aqui, pode ser?}{Que pena, eu tinha uma informação bem útil sobre a traidora de Bates. Se por acaso a encontrar, mande-a aqui, pode ser?}{}{}{}{ }
+{111}{Vou fazer isso. Tenha um bom dia.}{}{5}{}{0}{lf3 1 }
+{112}{Tá bom, eu roubei o diário de Bates. Você tem alguma informação para mim?}{}{5}{}{30}{ }
+{120}{Meu nome não importa, mas você, você é @pcname@, o sujeito que ajudou a Sra. Pettibone, não é?}{Meu nome não importa, mas você, você é @pcname@, a moça que ajudou a Sra. Pettibone, não é?}{}{}{}{ }
+{121}{Deve estar me confundindo com outra pessoa.}{}{5}{}{210}{ }
+{122}{Vejo que minha fama me precede.}{}{5}{}{30}{ }
+{129}{Preciso ir andando. Tenha um bom dia.}{}{5}{}{0}{ }
+{130}{Caramba! Não acredito que você é o sujeito que deu um fim no velho Bates! Um imbecil completo! Bom, se isso não é de surpreender!}{Caramba! Não acredito que você é o sujeito que deu um fim no velho Bates! Um imbecil completo! Bom, se isso não é de surpreender!}{}{}{}{ }
+{131}{Urgh?}{}{-4}{}{30}{ }
+{140}{Caramba! Não acredito que você é o sujeito que ajudou a Sra. Pettibone! Um imbecil completo! Bom, se isso não é de surpreender!}{Caramba! Não acredito que você é o sujeito que ajudou a Sra. Pettibone! Um imbecil dos bons! Bom, se isso não é de surpreender!}{}{}{}{ }
+{141}{Urgh?}{}{-4}{}{30}{ }
+{150}{Posso até ajudar, mas também posso não ajudar. [Ele te examina.] Acho que não gosto de você, parceiro.}{Posso até ajudar, mas também posso não ajudar. [Ele te examina.] Acho que não gosto de você, moça.}{}{}{}{ }
+{151}{Humildemente peço seu perdão, senhor. Só preciso de algumas informações.}{}{5}{}{160}{ }
+{152}{Alguns golpes na sua cabeça podem amolecer seu jeito.}{}{5}{}{170}{ }
+{160}{Some daqui, puxa-saco! Pedir meu perdão. Bah!}{Some daqui, vadia! Pedir meu perdão. Bah!}{}{}{}{ }
+{161}{Minhas desculpas, senhor. Tenha um bom dia.}{}{5}{}{0}{lf4 1 }
+{162}{Na verdade, acho que prefiro fazer você implorar por misericórdia, cão!}{}{5}{}{170}{ }
+{170}{Ei, calma aí. Não precisa disso, agora. Eu só estava brincando com você. O que queria saber sobre o velho maluco, hein?}{Ei, calma aí. Não precisa disso, agora. Eu só estava brincando com você. O que queria saber sobre o velho maluco, hein?}{}{}{}{ }
+{171}{Ele mencionou um submundo de ladrões...}{}{5}{}{60}{ }
+{180}{Posso ver que você é amigo do velho maluco, hein? Um pouco mais esperto que ele, porém. Em que posso te ajudar?}{Posso ver que você é amiga do velho maluco, hein? Um pouco mais esperta que ele, porém. Em que posso te ajudar?}{}{}{}{ }
+{182}{Quero dizer ladrão!!! Você me ajuda, tá bom?}{}{-4}{}{30}{ }
+{190}{Ei, se não é o velho lambe-botas! Some daqui, covarde.}{Ei, se não é a velha lambe-botas! Some daqui, covarde.}{}{}{}{ }
+{191}{Desculpe. Tenha um bom dia.}{}{5}{}{0}{ }
+{192}{Você vai ter dificuldade em insultar as pessoas sem dentes.}{}{5}{}{170}{ }
+{200}{E aí, irmão, como vão as coisas?}{E aí, irmã, como vão as coisas?}{}{}{}{ }
+{201}{Sempre bom ver um dos nossos por aqui, hein?}{Sempre bom ver uma dos nossos por aqui, hein?}{}{}{}{ }
+{202}{Como vão as coisas, irmão?}{Como vão as coisas, irmã?}{}{}{}{ }
+{203}{Fique longe da lei, hein?}{Fique longe da lei, hein?}{}{}{}{ }
+{210}{Que pena, eu tinha uma informação bem útil para o benfeitor da Sra. Pettibone. Se por acaso o encontrar, mande-o aqui, tá?}{Que pena, eu tinha uma informação bem útil para a benfeitora da Sra. Pettibone. Se por acaso a encontrar, mande-a aqui, tá?}{}{}{}{ }
+{211}{Vou fazer isso. Tenha um bom dia.}{}{5}{}{0}{lf10 1 }
+{212}{Certo, ajudei a Sra. Pettibone. Você tem alguma informação?}{}{5}{}{30}{ }
+

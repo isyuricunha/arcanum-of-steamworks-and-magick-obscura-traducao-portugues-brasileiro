@@ -1,0 +1,23 @@
+{1}{Olá, amigo. Lugar estranho para estar passeando. Se importa de me dizer o que está fazendo aqui?}{Olá, moça. Lugar estranho para estar passeando. Se importa de me dizer o que está fazendo aqui?}{}{}{}{}
+{2}{Sim. Vim aqui para matá-lo...}{}{5}{gf2159 1}{15}{}
+{3}{Na verdade, talvez eu tenha uma proposta de negócios para você...}{}{5}{gf2159 1, al -500}{11}{}
+{4}{Hã... só estou aproveitando um passeio tranquilo pelos Pântanos...}{}{5}{gf2159 1}{7}{}
+{7}{Ninguém dá um passeio tranquilo pelos Pântanos Sombrios, amigo. Desembucha, ou vai ter que se explicar para mim...}{Ninguém dá um passeio tranquilo pelos Pântanos Sombrios, moça. Desembucha, ou vai ter que se explicar para mim...}{}{}{}{}
+{8}{Se precisa saber, estou aqui para matá-lo...}{}{5}{}{15}{}
+{11}{Sério? E o que seria isso?}{Sério? E o que seria isso?}{}{}{}{}
+{12}{Eu sei a localização do acampamento dos Bedokaan...}{}{5}{}{25}{}
+{15}{É mesmo? [Ele olha para você com desconfiança, gesticulando para seus companheiros.] Posso saber o motivo?}{É mesmo? [Ele olha para você com desconfiança, gesticulando para seus companheiros.] Posso saber o motivo?}{}{}{}{}
+{16}{Fui enviado aqui pelos Bedokaan...}{}{5}{}{18}{}
+{18}{Ha! Temos aqui um amante de lagartos, rapazes! Achava que gente como você só vivia nas grandes cidades, choramingando pelos pobres lagartos, enquanto usa botas feitas com a pele inútil deles...}{Ha! Temos aqui uma amante de lagartos, rapazes! Achava que gente como você só vivia nas grandes cidades, choramingando pelos pobres lagartos, enquanto usa botas feitas com a pele inútil deles...}{}{}{}{}
+{19}{Palavras corajosas para um assassino. Prepare-se para morrer...}{}{5}{}{21}{}
+{21}{[Ele ri novamente, ainda mais alto.] Olha, amigo. Tenho uma ideia melhor. Por que não me diz onde estão esses lagartos, e eu lhe pago uma boa quantia... vamos chamar de mil peças de ouro?}{[Ela ri novamente, ainda mais alto.] Olha, moça. Tenho uma ideia melhor. Por que não me diz onde estão esses lagartos, e eu lhe pago uma boa quantia... vamos chamar de mil peças de ouro?}{}{}{}{}
+{22}{Deve estar brincando. Vou rachar seu crânio só por pensar nisso...}{}{5}{}{}{co, fl 33}
+{23}{Hmmm. Uma oferta interessante... quais são os termos?}{}{5}{}{25}{}
+{25}{Heh... sabia que estávamos falando a mesma língua. Meu nome é Robert Milton. Você me dá a localização do acampamento dos lagartos, e nos encontramos lá. Se os lagartos estiverem todos lá, eu lhe pago mil peças de ouro... o que me diz, amigo?}{Heh... sabia que estávamos falando a mesma língua. Você me dá a localização do acampamento dos lagartos, e nos encontramos lá. Se os lagartos estiverem todos lá, eu lhe pago mil peças de ouro... o que me diz, moça?}{}{}{}{}
+{26}{Combinado, Robert. Aqui está onde eles estão... [Mostre a ele no mapa.]}{}{5}{}{29}{qu1079 6}
+{27}{Seu idiota, Milton. Eu jamais trairia os Bedokaan!}{}{5}{}{}{co, fl 33}
+{29}{Muito bem. Vamos encontrá-lo lá... se eles realmente estiverem lá, você vai ganhar uma boa grana...}{Muito bem. Vamos encontrá-la lá... se eles realmente estiverem lá, você vai ganhar uma boa grana...}{}{}{}{lf1 1}
+{30}{E:}{}{5}{}{-5}{}
+{33}{Ha! Vamos esfolar você também, amigo! Peguem-no, rapazes!}{Ha! Vamos esfolar você também, moça! Peguem-na, rapazes!}{}{}{}{}
+{34}{}{}{}{}{}{}
+

@@ -1,0 +1,172 @@
+{1}{G:}{}{}{}{}{}
+{2}{Posso pedir uma apresentação, bom senhor?}{}{5}{lf1 0, re 41}{43}{}
+{3}{Saudações, Sr. Fitzgerald! Poderia me conceder um momento do seu tempo?}{}{5}{lf1 1, re 41}{85}{}
+{4}{Senhor! Isso foi completamente desnecessário!}{}{5}{lf1 0, re -40}{17}{}
+{5}{Peço perdão por tê-lo ofendido, Sr. Fitzgerald.}{}{5}{lf1 1, re -40}{39}{}
+{6}{Tentarei obter o cajado de K'an T'au para você.}{}{5}{qu1101 1, ni 2020}{115}{qu1101 2}
+{7}{Ainda não consegui penetrar nas defesas de S'nel N'fa.}{}{5}{qu1101 2, ni 2020}{90}{re +5}
+{8}{Estou de posse do poderoso cajado de K'an T'au.}{}{5}{qa1101 1, qb1101 3,  in 2020}{120}{}
+{9}{Quem ocê é?}{}{-4}{lf1 0, re 41}{43}{}
+{10}{O quê? Isso não foi legal!}{}{-4}{lf1 0, re -40}{17}{}
+{11}{Hã... Oi, seu Feetzgeruld. Eu pergunto uma coisa?}{}{-4}{lf1 1, re 41}{85}{}
+{12}{Me desculpe se eu fiz algo errado, seu Feetzgeruld.}{}{-4}{lf1 1, re -40}{39}{}
+{13}{Eu vou tentar pegar o cajado.}{}{-4}{qu1101 1, ni 2020}{115}{qu1101 2}
+{14}{Eu ainda não consegui o cajado...}{}{-4}{qu1101 2, ni 2020}{90}{re +5}
+{15}{Eu consegui o cajado!}{}{-4}{qa1101 1, qb1101 3,  in 2020}{120}{}
+{16}{E:}{}{1}{}{0}{}
+{17}{Apenas a lebre tola saúda o falcão aos gritos.}{Apenas a lebre tola saúda o falcão aos gritos.}{}{}{}{}
+{18}{Por favor, nobre cavalheiro, tenho apenas algumas perguntas a fazer.}{}{5}{lf1 0}{39}{re +5}
+{19}{Que metáfora interessante. Vejo que é um intelectual.}{}{5}{lf1 0}{39}{re+15}
+{20}{Tenho apenas uma ou duas perguntas, Sr. Fitzgerald. Por favor, atenda ao meu pedido.}{}{5}{lf1 1}{85}{}
+{21}{Temo que esta "lebre" esteja farta da sua bravata.}{}{5}{}{28}{re -5}
+{22}{Hã, cabelo? Meu cabelo tá ruim?}{}{-4}{}{28}{re -5}
+{23}{Eu não sou pássaro, maluco!}{}{-4}{}{28}{re -10}
+{24}{Por favô, sinhô... Eu só quero perguntá uma coisa...}{}{-4}{lf1 0}{39}{re +5}
+{25}{Oooo! Você é esperto, né?}{}{-4}{lf1 0}{39}{re+15}
+{26}{Por favô, seu Feetzgeruld. Eu só quero perguntá mais uma coisa...}{}{-4}{lf1 1}{85}{}
+{27}{E:}{}{1}{}{0}{}
+{28}{Vejo que um dos da sua raça não tem intelecto para compreender sutilezas.}{Vejo que um dos da sua raça não tem intelecto para compreender sutilezas.}{}{}{}{}
+{29}{Não tive intenção de ofender. Minhas desculpas.}{}{5}{lf1 0}{39}{re +5}
+{30}{Não... você logo ficará sem cérebro. Agora se defenda!}{}{5}{}{}{co, fl 38}
+{31}{Hã... Me desculpe. Eu não quero deixar bravo.}{}{-4}{lf1 0}{39}{re +5}
+{32}{Hã, o quê?}{}{-4}{}{35}{re -5}
+{33}{Me machucou feio, gnomo!}{}{-4}{}{}{co, fl 38}
+{34}{E:}{}{1}{}{0}{}
+{35}{Ou até mesmo uma conversa civilizada...    Saia da minha presença, simplório!}{Ou até mesmo uma conversa civilizada...    Saia da minha presença, simplório!}{}{}{}{}
+{36}{Maldoso! ...Você vai morrer agora!}{}{-4}{}{}{co, fl 38}
+{37}{E:}{}{1}{}{0}{}
+{38}{Ahh... A morte chega rápido para aqueles cuja existência carece de mérito.}{Ahh... A morte chega rápido para aqueles cuja existência carece de mérito.}{}{}{}{}
+{39}{Talvez minha impressão anterior sobre você estivesse equivocada. Adiarei meu julgamento final por um momento. Por favor, fale o seu pedido.}{Talvez minha impressão anterior sobre você estivesse equivocada. Adiarei meu julgamento final por um momento. Por favor, fale o seu pedido.}{}{}{}{}
+{40}{Obrigado. Posso perguntar seu nome?}{}{5}{lf1 0}{43}{re +5}
+{41}{Valeu. Qual é o seu nome, sinhô?}{}{-4}{lf1 0}{43}{re +5}
+{42}{E:}{}{1}{}{0}{}
+{43}{Ahhh... Você deve ser bastante novo em Tarant, para não saber quem eu sou. Permita-me apresentar-me. Sou Frederick T. Fitzgerald. Talvez já tenha ouvido falar de mim? Em certos círculos, sou lendário.}{Ahhh... Você deve ser bastante novo em Tarant, para não saber quem eu sou. Permita-me apresentar-me. Sou Frederick T. Fitzgerald. Talvez já tenha ouvido falar de mim? Em certos círculos, sou lendário.}{}{}{}{lf1 1}
+{44}{Ah, sim. Sua proeza como o ladrão-fantasma de Tarant é mítica.}{}{5}{sk7 18, tr7 2, tr7 -2}{50}{re +10}
+{45}{Lembro-me de algo sobre um F. Fitzgerald... um ladrão, talvez?}{}{5}{tr7 1, tr7 -1}{50}{re +5}
+{46}{Errr... desculpe, mas não. O que você faz aqui?}{}{5}{sk7 -4, tr7 -1}{68}{}
+{47}{Oh! Ser o famigerado ladrão-fantasma! Você é um cara esperto!}{}{-4}{sk7 18, tr7 2, tr7 -2}{50}{re +10}
+{48}{Hmm... talvez um ladrão, eu acho?}{}{-4}{tr7 1, tr7 -1}{50}{re +5}
+{49}{Hmm... não. Desculpe. O que você faz?}{}{-4}{sk7 -4, tr7 -1}{68}{}
+{50}{Parece que você está pelo menos associado ao tipo certo de pessoas. Você está correto. Sou o ladrão-fantasma mais famoso de Tarant.}{Parece que você está pelo menos associado ao tipo certo de pessoas. Você está correto. Sou o ladrão-fantasma mais famoso de Tarant.}{}{}{}{}
+{51}{Uma honra conhecê-lo, senhor. Sua vida deve ser invejável.}{}{5}{}{59}{re +5}
+{52}{Impressionante. Deve ser uma posição bastante emocionante.}{}{5}{}{59}{}
+{53}{Ouço rumores de que você também é o Mestre em detectar armadilhas...}{}{5}{}{64}{re +5}
+{54}{Seus dias de ladrão acabaram, Fitzgerald!}{}{5}{}{}{co, fl 38}
+{55}{Uau! É bom conhecer você, Mestre Feetzgeruld!}{}{-4}{}{59}{}
+{56}{Ouvi dizer que você é o Mestre em ver armadilhas...}{}{-4}{}{64}{re +5}
+{57}{Não há mais roubos para você, Feetzgeruld!}{}{-4}{}{}{co, fl 38}
+{58}{E:}{}{1}{}{0}{}
+{59}{Eu aprecio minha notoriedade como o infame Ladrão-Fantasma de Tarant. Folhear o jornal local e notar que suas façanhas da noite anterior foram significativas o bastante para serem mencionadas é bastante gratificante. Sim, é muito prazeroso ser um Mestre em suas empreitadas.}{Eu aprecio minha notoriedade como o infame Ladrão-Fantasma de Tarant. Folhear o jornal local e notar que suas façanhas da noite anterior foram significativas o bastante para serem mencionadas é bastante gratificante. Sim, é muito prazeroso ser um Mestre em suas empreitadas.}{}{}{}{}
+{60}{É verdade que você também é o Mestre em detectar armadilhas?}{}{5}{}{64}{}
+{61}{Você também é o Mestre em ver armadilhas?}{}{-4}{}{64}{}
+{62}{K:}{}{1}{}{85}{}
+{63}{E:}{}{1}{}{0}{}
+{64}{Ah, sim... Além da minha habilidade com fechaduras, sou o Mestre em detectar armadilhas, o que é de grande importância no meu ramo de negócios. Nunca se pode ser cuidadoso demais ao se aventurar para remover as posses valiosas de outra pessoa.}{Ah, sim... Além da minha habilidade com fechaduras, sou o Mestre em detectar armadilhas, o que é de grande importância no meu ramo de negócios. Nunca se pode ser cuidadoso demais ao se aventurar para remover as posses valiosas de outra pessoa.}{}{}{}{}
+{65}{Eu também gostaria de me tornar um Mestre em detectar armadilhas.}{}{5}{}{70}{re -5}
+{66}{Você me ensina a ser Mestre também?}{}{-4}{}{70}{re -5}
+{67}{E:}{}{1}{}{0}{}
+{68}{Digamos apenas que sou um cidadão bastante íntegro e respeitado aqui em Tarant. Agora, se me der licença, tenho assuntos importantes para tratar. Foi um prazer.}{Digamos apenas que sou um cidadão bastante íntegro e respeitado aqui em Tarant. Agora, se me der licença, tenho assuntos importantes para tratar. Foi um prazer.}{}{}{}{}
+{69}{E:}{}{1}{}{0}{}
+{70}{Receio que você não tenha nem a integridade nem as qualificações necessárias para se tornar um Mestre em detecção de armadilhas.}{Receio que você não tenha nem a integridade nem as qualificações necessárias para se tornar um Mestre em detecção de armadilhas.}{}{}{}{}
+{71}{Concluí meu treinamento como Especialista e desejo mais conhecimento.}{}{5}{sk7 18, tr7 2, tr7 -2}{80}{}
+{72}{Sei que sou apenas um iniciante, mas sou muito ambicioso.}{}{5}{tr7 1, tr7 -1}{143}{}
+{73}{Eu tenho o status de Especialista! Como ousa me julgar de outra forma!}{}{5}{sk7 18, tr7 2, tr7 -2}{80}{re -5}
+{74}{Concluí meu treinamento como Especialista!}{}{5}{sk7 -17, tr7 2, tr7 -2}{147}{}
+{75}{Eu ser Especialista e querer aprender mais.}{}{-4}{sk7 18, tr7 2, tr7 -2}{80}{}
+{76}{Eu não ser mais iniciante. Mas querer saber mais.}{}{-4}{tr7 1, tr7 -1}{143}{}
+{77}{Eu ser Especialista! Você me ensina!}{}{-4}{sk7 18, tr7 2, tr7 -2}{80}{re -5}
+{78}{Eu ser Especialista! Você me ensina!}{}{-4}{sk7 -17, tr7 2, tr7 -2}{147}{}
+{79}{E:}{}{1}{}{0}{}
+{80}{Admito que você possui a competência mínima necessária para se tornar um Mestre. No entanto, ainda tenho dúvidas quanto aos seus verdadeiros méritos. Para provar seu valor e habilidades, tenho um teste que gostaria que você completasse antes do treinamento.}{Admito que você possui a competência mínima necessária para se tornar um Mestre. No entanto, ainda tenho dúvidas quanto aos seus verdadeiros méritos. Para provar seu valor e habilidades, tenho um teste que gostaria que você completasse antes do treinamento.}{}{}{}{}
+{81}{Estou preparado. Quais são os detalhes?}{}{5}{}{97}{}
+{82}{Um teste? Que tipo de teste?}{}{5}{}{97}{}
+{83}{O que é que é.}{}{-4}{}{97}{}
+{84}{E:}{}{1}{}{0}{}
+{85}{O que você quer agora?}{O que você quer agora?}{}{}{}{}
+{86}{C:}{}{5}{}{85}{}
+{87}{Eu também gostaria de me tornar um Mestre em detectar armadilhas.}{}{5}{tr7 1, tr 7 -2, qb 1101 1}{70}{}
+{88}{Eu querer ser Mestre em ver armadilhas.}{}{-4}{tr7 1, tr 7 -2, qb 1101 1}{70}{}
+{89}{E:}{}{1}{}{0}{}
+{90}{Obviamente, eu estava correto em minha avaliação sobre você. Você não está pronto para se tornar um Mestre. Não me incomode novamente a menos que tenha sucesso na tarefa que lhe propus.}{Obviamente, eu estava correto em minha avaliação sobre você. Você não está pronto para se tornar um Mestre. Não me incomode novamente a menos que tenha sucesso na tarefa que lhe propus.}{}{}{}{}
+{91}{Sua avaliação está incorreta. Voltarei com o cajado!}{}{5}{}{0}{re +5}
+{92}{Vou lhe mostrar o quão pronto eu estou!}{}{5}{}{}{co, fl 100}
+{93}{Você tá errado! Eu VOU conseguir o cajado! Vou te mostrar!}{}{-4}{}{0}{re +5}
+{94}{Talvez seja melhor você estar morto...}{}{-4}{}{}{co, fl 100}
+{95}{K:}{}{1}{}{85}{}
+{96}{E:}{}{1}{}{0}{}
+{97}{Várias gerações atrás, viveu um grande mago élfico chamado K'an T'au. Ele criou um cajado de grande poder. As histórias contam que quem o empunhasse poderia perceber todas as coisas ocultas. Além disso, rumores diziam que o cajado era capaz de transportar instantaneamente seu portador de um lugar para outro. Muitos foram os inimigos que tentaram obtê-lo, mas todos fracassaram.}{Várias gerações atrás, viveu um grande mago élfico chamado K'an T'au. Ele criou um cajado de grande poder. As histórias contam que quem o empunhasse poderia perceber todas as coisas ocultas. Além disso, rumores diziam que o cajado era capaz de transportar instantaneamente seu portador de um lugar para outro. Muitos foram os inimigos que tentaram obtê-lo, mas todos fracassaram.}{}{}{}{}
+{98}{Por favor, continue.}{}{5}{}{101}{}
+{99}{Hum hum...}{}{-4}{}{101}{}
+{100}{Se a morte é o que deseja, que assim seja.... Insensato}{Se a morte é o que deseja, que assim seja.... Insensato}{}{}{}{}
+{101}{Com o passar dos anos, a mente de K'an T'au começou a falhar. Ele se isolou em seu grande castelo, S'nel N'fa. À medida que sua saúde se deteriorava, o grande mago colocou camada após camada de armadilhas dentro e ao redor de seus domínios para proteger sua criação. Rumores dizem que existe apenas uma rota segura através do castelo, e que somente K'an T'au possuía o conhecimento para atravessar esse caminho traiçoeiro.}{Com o passar dos anos, a mente de K'an T'au começou a falhar. Ele se isolou em seu grande castelo, S'nel N'fa. À medida que sua saúde se deteriorava, o grande mago colocou camada após camada de armadilhas dentro e ao redor de seus domínios para proteger sua criação. Rumores dizem que existe apenas uma rota segura através do castelo, e que somente K'an T'au possuía o conhecimento para atravessar esse caminho traiçoeiro.}{}{}{}{}
+{102}{Sim, posso ver como o cajado lhe interessaria.}{}{5}{}{106}{re +5}
+{103}{E ele permanece escondido até hoje? Essas armadilhas devem ser mortais!}{}{5}{}{106}{}
+{104}{Uau! Essas armadilhas devem ser difíceis!}{}{-4}{}{106}{}
+{105}{E:}{}{1}{}{0}{re -5}
+{106}{[Ele levanta as sobrancelhas para você.] Acredito que o cajado de K'an T'au complementaria minhas habilidades admiravelmente. Entregue-me o cajado, e certamente lhe concederei o status de Mestre que deseja.}{Acredito que o cajado de K'an T'au complementaria minhas habilidades admiravelmente. Entregue-me o cajado, e certamente lhe concederei o status de Mestre que deseja.}{}{}{}{qu1101 1}
+{107}{Aceito seu desafio. Voltarei em breve com o cajado.}{}{5}{ni 2020}{115}{qu1101 2}
+{108}{Aparentemente, você deseja minha morte. No entanto, provarei que está enganado.}{}{5}{ni 2020}{115}{qu1101 2}
+{109}{Sua tarefa parece quase impossível. Vou pensar um pouco sobre isso...}{}{5}{}{0}{}
+{110}{Isso será fácil. Já estou de posse do cajado.}{}{5}{in 2020}{151}{qu1101 4}
+{111}{É difícil... mas eu pego o cajado.}{}{-4}{ni 2020}{115}{qu1101 2}
+{112}{Hmm... Isso parece difícil. Vou pensar primeiro.}{}{-4}{}{0}{}
+{113}{Eu já tenho o cajado. Veja. [Você lhe mostra o cajado.]}{}{-4}{in 2020}{151}{qu1101 4}
+{114}{E:}{}{1}{}{0}{}
+{115}{Como desejar. Permita-me compartilhar com você a localização do castelo S'nel N'fa. Nos encontraremos novamente, talvez...}{Como desejar. Permita-me compartilhar com você a localização do castelo S'nel N'fa. Nos encontraremos novamente, talvez...}{}{}{}{mm 40}
+{116}{Pode ter certeza disso!}{}{5}{}{0}{}
+{117}{Ah, não se preocupe... Voltarei para receber meu treinamento.}{}{5}{}{0}{}
+{118}{Eu volto logo!}{}{-4}{}{0}{}
+{119}{E:}{}{1}{}{0}{}
+{120}{... @pcname@! Você voltou de S'nel N'fa!?! [ele está visivelmente abalado] ...ãh... err... Por favor, perdoe minha falta de educação. Eu não esperava encontrá-lo novamente... err... tão cedo. Você recuperou o cajado de K'an T'au?}{... @pcname@! Você voltou de S'nel N'fa!?! [ele está visivelmente abalado] ...ãh... err... Por favor, perdoe minha falta de educação. Eu não esperava encontrá-lo novamente... err... tão cedo. Você recuperou o cajado de K'an T'au?}{}{}{}{qu1101 4}
+{121}{Cumpri o desafio. Agora desejo o treinamento de Mestre.}{}{5}{}{127}{}
+{122}{Ha! Velho tolo! Duvidou de mim, não é? Voltei!}{}{5}{}{127}{}
+{123}{Recuperei o cajado... e vim para destruí-lo!}{}{5}{}{}{co, fl 100}
+{124}{Eu peguei o cajado! Agora quero ser Mestre!}{}{-4}{}{127}{}
+{125}{Eu consegui o cajado! Agora é a sua hora de morrer!}{}{-4}{}{}{co, fl 100}
+{126}{E:}{}{1}{}{0}{}
+{127}{Sim... sim... Seu valor foi comprovado sem sombra de dúvida! Irei concluir seu treinamento de Mestre imediatamente. Por favor, entregue-me o cajado para que eu possa examiná-lo com mais detalhes.}{Sim... sim... Seu valor foi comprovado sem sombra de dúvida! Irei concluir seu treinamento de Mestre imediatamente. Por favor, entregue-me o cajado para que eu possa examiná-lo com mais detalhes.}{}{}{}{}
+{128}{Aqui está, "Mestre".}{}{5}{}{137}{in 2020}
+{129}{[com desdém] Ainda sou digno? Termine logo meu treinamento, velho.}{}{5}{}{137}{re -10, in 2020}
+{130}{Para o inferno com o treinamento... Meu único desejo é a sua morte!}{}{5}{}{}{co, fl 100}
+{131}{Você vai me treinar primeiro. Depois eu lhe darei o cajado.}{}{5}{ps 12}{166}{}
+{132}{Aqui... "Mestre".}{}{-4}{}{137}{in 2020}
+{133}{[com desdém] Eu já sou digno? Me treine agora, velho!}{}{-4}{}{137}{re -10, in 2020}
+{134}{Para o inferno com o treinamento... Eu só quero ver você morrer!}{}{-4}{}{}{co, fl 100}
+{135}{Eu treino primeiro... Depois eu dou o cajado.}{}{-4}{ps 12}{166}{}
+{136}{E:}{}{1}{}{0}{}
+{137}{Uma peça magnífica. Certamente será minha posse mais preciosa. Hum, agora... eu, hã... *tosse* Por provar sua dedicação e qualificação no ofício, eu aqui finalizo seu treinamento e lhe concedo o título de Mestre em Detectar Armadilhas. .....Pronto, nosso acordo está completo.}{Uma peça magnífica. Certamente será minha posse mais preciosa. Hum, agora... eu, hã... *tosse* Por provar sua dedicação e qualificação no ofício, eu aqui finalizo seu treinamento e lhe concedo o título de Mestre em Detectar Armadilhas. .....Pronto, nosso acordo está completo.}{}{}{}{tr7 3, rq2167}
+{138}{Agradeço e agora me retiro de sua presença.}{}{5}{}{0}{}
+{139}{Ótimo! Agora é a hora de você morrer por sua insolência!}{}{5}{}{}{co, fl 100}
+{140}{Valeu. Eu vou indo agora. Tchau!}{}{-4}{}{0}{}
+{141}{Ótimo! Agora é a hora de você morrer! Seu rude!}{}{-4}{}{}{co, fl 100}
+{142}{E:}{}{1}{}{0}{}
+{143}{Pf! Que insolência! Não acredito que desperdicei meu fôlego com você! Saia da minha presença até que seja pelo menos tão habilidoso quanto um Especialista em detectar armadilhas!}{Pf! Que insolência! Não acredito que desperdicei meu fôlego com você! Saia da minha presença até que seja pelo menos tão habilidoso quanto um Especialista em detectar armadilhas!}{}{}{}{}
+{144}{Posso não ser um especialista em detectar armadilhas, mas aposto que consigo matá-lo!}{}{5}{}{}{co, fl 100}
+{145}{Mebbe eu num sô Exper', mas acho que consigo te matá!}{}{-4}{}{}{co, fl 100}
+{146}{E:}{}{1}{}{0}{}
+{147}{Pf! Que insolência! Não acredito que desperdicei meu fôlego com você! Saia da minha presença até que tenha habilidade suficiente para se qualificar ao treinamento de Mestre!}{Pf! Que insolência! Não acredito que desperdicei meu fôlego com você! Saia da minha presença até que tenha habilidade suficiente para se qualificar ao treinamento de Mestre!}{}{}{}{}
+{148}{Cada respiração sua é desperdiçada! Permita-me consertar isso...}{}{5}{}{}{co, fl 100}
+{149}{Cê fala e desperdiça fôlego! Mebbe eu faço cê pará de falá...}{}{-4}{}{}{co, fl 100}
+{150}{E:}{}{1}{}{0}{}
+{151}{Você tem o cajado de K'an T'au!?! [ele está visivelmente abalado] ....hã... err... Eu não achava isso possível!... Aqui! Entregue-o para que eu possa examiná-lo em detalhes. Certamente lhe concederei o status de Mestre.}{Você tem o cajado de K'an T'au!?! [ele está visivelmente abalado] ....hã... err... Eu não achava isso possível!... Aqui! Entregue-o para que eu possa examiná-lo em detalhes. Certamente lhe concederei o status de Mestre.}{}{}{}{}
+{152}{Aqui. É, de fato, um instrumento poderoso.}{}{5}{}{159}{}
+{153}{Acho que não. É óbvio que você não é digno de seu poder.}{}{5}{}{}{co, fl 100}
+{154}{Acho que devo receber meu treinamento primeiro. Depois eu o entregarei a você.}{}{5}{ps 12}{166}{}
+{155}{Aqui. Tem uma magia poderosa...}{}{-4}{}{159}{}
+{156}{Não... Acho que você não é bom o suficiente para isso.}{}{-4}{}{}{co, fl 100}
+{157}{Atire primeiro. Depois pegue o cajado.}{}{-4}{ps 12}{166}{}
+{158}{E:}{}{1}{}{0}{}
+{159}{Uma peça mais que requintada. Certamente será minha posse mais preciosa. Hum, agora... Eu, ah, ... *Ahem*... Por fornecer prova de seu domínio na arte, eu lhe concedo, a partir de agora, o título de Mestre em Detectar Armadilhas. .....Agora você é meu igual.}{Uma peça mais que requintada. Certamente será minha posse mais preciosa. Hum, agora... Eu, ah, ... *Ahem*... Por fornecer prova de seu domínio na arte, eu lhe concedo, a partir de agora, o título de Mestre em Detectar Armadilhas. .....Agora você é meu igual.}{}{}{}{tr7 3, in 2020, rq2167}
+{160}{Agradeço e agora me retiro de sua presença.}{}{5}{}{0}{}
+{161}{Seu igual? Você quer dizer seu mestre!}{}{5}{}{}{co, fl 100}
+{162}{Acho melhor que haja apenas um Mestre em nossa arte...}{}{5}{}{}{co, fl 100}
+{163}{Valeu. Eu vou agora. Tchau!}{}{-4}{}{0}{}
+{164}{Acho que um Mestre é o suficiente. Hora de você morrer...}{}{-4}{}{}{co, fl 100}
+{165}{E:}{}{1}{}{0}{}
+{166}{Um acordo bastante incomum. [Ele pensa por um momento.] Muito bem... Hum, agora... Eu, ah, ... *Ahem*... Por fornecer prova de seu domínio na arte, eu lhe concedo, a partir de agora, o título de Mestre em Detectar Armadilhas. .....Agora você é meu igual. Não aqui... me dê o cajado.}{Um acordo bastante incomum. [Ele pensa por um momento.] Muito bem... Hum, agora... Eu, ah, ... *Ahem*... Por fornecer prova de seu domínio na arte, eu lhe concedo, a partir de agora, o título de Mestre em Detectar Armadilhas. .....Agora você é meu igual. Não aqui... me dê o cajado.}{}{}{}{tr7 3, rq2167}
+{167}{Aqui está o cajado. Agora me retiro de sua presença.}{}{5}{}{0}{in 2020}
+{168}{Seu igual? Não enquanto eu tiver o cajado de K'an T'au.}{}{5}{}{}{co, fl 100}
+{169}{Você não é digno do cajado. Venha, a morte o espera...}{}{5}{}{}{co, fl 100}
+{170}{Aqui está o cajado. Eu vou agora. Tchau!}{}{-4}{}{0}{in 2020}
+{171}{Eu tenho o cajado. Eu sou o Mestre. Hora de você morrer...}{}{-4}{}{}{co, fl 100}
+

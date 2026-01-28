@@ -1,0 +1,180 @@
+{1}{G:}{G:}{}{}{}{ }
+{2}{Estou procurando pelo Sharpe.}{}{5}{re41, lf1 0}{12}{lf1 1 }
+{3}{Eu fiz algo para ofendê-la, madame?}{}{5}{re-40, ch14}{172}{re+15 }
+{4}{Peço desculpas se estou sendo ofensivo com você.}{}{5}{re-40, ch-13}{182}{re+10 }
+{5}{B:}{}{5}{re41}{190}{ }
+{6}{Preciso lhe perguntar sobre um veneno. [Mostre a ela o vidro.]}{}{5}{in5639, re41, lf1 1, lf10 0}{22}{lf10 1 }
+{7}{Preciso lhe perguntar sobre um veneno que você vende.}{}{5}{ni5639, gf2151 1, re41, lf1 1, lf11 0}{142}{lf11 1 }
+{8}{Preciso lhe perguntar sobre este frasco. [Mostre a ela o frasco.]}{}{5}{in5641, re41, lf1 1}{200}{ }
+{9}{Preciso lhe perguntar sobre um frasco vazio de veneno que encontrei.}{}{5}{ni5641, gf2164 1, re41, lf1 1}{360}{ }
+{10}{Não é estranho que o Sharpe tenha deixado a cidade logo após o assassinato?}{}{5}{ni5641, gf2164 0, ni5639, gf2151 0, lf6 1}{380}{re-5 }
+{11}{E:}{}{5}{}{0}{ }
+{12}{Sharpe foi chamado para fora da vila de repente. Sou a esposa dele. Posso ajudá-lo em algo?}{Sharpe foi chamado para fora da vila de repente. Sou a esposa dele. Posso ajudá-lo em algo?}{}{}{}{ }
+{13}{Eu precisava perguntar a ele sobre um veneno. [Mostre a ela o vidro.]}{}{5}{in5639, lf10 0}{22}{lf10 1 }
+{14}{Eu precisava perguntar a ele sobre um veneno que vocês vendem.}{}{5}{ni5639, gf2151 1, lf11 0}{142}{lf11 1 }
+{15}{Eu precisava perguntar a ele sobre este frasco. [Mostre a ela o frasco.]}{}{5}{in5641}{200}{ }
+{16}{Eu precisava perguntar a ele sobre um frasco vazio de veneno que encontrei.}{}{5}{ni5641, gf2164 1}{360}{ }
+{17}{Não é estranho que ele tenha deixado a cidade logo após o assassinato?}{}{5}{ni5641, gf2164 0, ni5639, gf2151 0}{380}{re-5 }
+{21}{No momento, não. Tenha um bom dia.}{}{5}{}{0}{lf6 1 }
+{22}{Sim, eu o reconheço. Tem um odor muito característico.}{Sim, eu o reconheço. Tem um odor muito característico.}{}{}{}{ }
+{23}{Vocês vendem esse tipo de veneno aqui?}{}{5}{}{32}{ }
+{24}{O veneno naquele vidro matou o Wrath. Você o conhecia?}{}{5}{}{42}{ }
+{32}{Sim, vendemos. Mas não sei se temos algum no momento.}{Sim, vendemos. Mas não sei se temos algum no momento.}{}{}{}{ }
+{33}{O veneno naquele vidro matou o Wrath. Você o conhecia?}{}{5}{}{42}{ }
+{42}{Wrath está morto? Pelos deuses!}{Wrath está morto? Pelos deuses!}{}{}{}{lf10 1 }
+{43}{O que pode me dizer sobre ele?}{}{5}{}{52}{ }
+{52}{Nós tínhamos um... passado. Os três éramos amigos, há muito tempo, mas ele ficou bravo quando o Sharpe e eu começamos a viver juntos. Quem o matou, aquele aluno anão dele?}{Nós tínhamos um... passado. Os três éramos amigos, há muito tempo, mas ele ficou bravo quando o Sharpe e eu começamos a viver juntos. Quem o matou, aquele aluno anão dele?}{}{}{}{ }
+{53}{Por que ele ficou bravo quando vocês começaram a viver juntos?}{}{5}{}{62}{ }
+{54}{Por que vocês, elfos, logo assumem que foi um anão?}{}{5}{ra-3}{390}{ }
+{55}{Só porque ele não é um de nós não significa que seja culpado.}{}{5}{ra3}{390}{ }
+{62}{Ele disse que era ofensivo e prejudicial à aldeia continuarmos "como humanos", nas palavras dele.}{Ele disse que era ofensivo e prejudicial à aldeia continuarmos "como humanos", nas palavras dele. Acredito que ele estava com ciúmes, no entanto.}{}{}{}{ }
+{63}{Ele sentiu que você estava violando os costumes élficos?}{}{5}{}{72}{ }
+{64}{É compreensível que você tenha começado a odiar Wrath.}{}{5}{ps8}{82}{ }
+{65}{Então você e Sharpe o odiavam por isso, não é?}{}{5}{ps-7}{112}{re-5 }
+{69}{Ele está certo. Você é muito ofensivo. Tenho certeza de que Sharpe também é.}{}{5}{}{410}{re-10 }
+{72}{Acredito que ele estava realmente com ciúmes. Sharpe e ele brigavam frequentemente, nos últimos anos.}{Acredito que ele estava realmente com ciúmes. Sharpe e ele brigavam frequentemente, nos últimos anos.}{}{}{}{ }
+{73}{Sharpe odiava Wrath o suficiente para matá-lo?}{}{5}{}{82}{ }
+{82}{Na verdade, foi o contrário. Acho que Wrath ficou um pouco desequilibrado. Claro, todos sabemos que os elfos não têm em si o desejo de assassinar uns aos outros por coisas como ciúmes.}{Na verdade, foi o contrário. Acho que Wrath ficou um pouco desequilibrado. Claro, todos sabemos que os elfos não têm em si o desejo de assassinar uns aos outros por coisas como ciúmes.}{}{}{}{ }
+{83}{Sharpe poderia ter envenenado Wrath para protegê-lo?}{}{5}{}{92}{ }
+{84}{Qualquer um pode ser levado ao assassinato, dadas as circunstâncias certas.}{}{5}{ra-3}{470}{lf25 1, re-5 }
+{85}{Qualquer um pode ser levado ao assassinato, dadas as circunstâncias certas.}{}{5}{ra3}{480}{lf25 1, re-5 }
+{92}{Se ele tivesse sentido que eu estava em perigo, acredito que faria qualquer coisa para me proteger, até mesmo se sacrificar. Mas como eu disse, os elfos nunca nem pensariam em matar uns aos outros. Nós temos uma visão mais ampla das coisas, como você sabe. Esta vida é apenas uma em que os elfos existem. Quando morremos, passamos para outro nível. Então, qual seria o propósito do assassinato?}{Se ele tivesse sentido que eu estava em perigo, acredito que faria qualquer coisa para me proteger, até mesmo se sacrificar. Mas como eu disse, os elfos nunca nem pensariam em matar uns aos outros. Nós temos uma visão mais ampla das coisas, como você sabe. Esta vida é apenas uma em que os elfos existem. Quando morremos, passamos para outro nível. Então, qual seria o propósito do assassinato?}{}{}{}{ }
+{93}{Mas você mesmo disse que Wrath estava desequilibrado.}{}{5}{}{102}{ }
+{94}{O assassinato não é um ato lógico, geralmente é governado por emoção violenta.}{}{5}{ra-3, lf25 0}{470}{lf25 1, re-5 }
+{95}{O assassinato não é um ato lógico, geralmente é governado por emoção violenta.}{}{5}{ra3, lf25 0}{480}{lf25 1, re-5 }
+{96}{Talvez você devesse perguntar ao seu namorado homicida.}{}{5}{lf25 1}{122}{ }
+{101}{}{}{}{}{}{ }
+{102}{Isso está me perturbando. Não desejo mais falar sobre isso.}{Isso está me perturbando. Não desejo mais falar sobre isso.}{}{}{}{gf2698 1 }
+{103}{Seu desconforto é porque sabe que Sharpe é culpado?}{}{5}{}{122}{re-10 }
+{104}{Só tenho mais algumas perguntas, se me permite?}{}{5}{}{132}{re-5 }
+{105}{Tudo bem. Este frasco é suficiente para mostrar que Sharpe é culpado.}{}{5}{lf11 1}{230}{ }
+{111}{Obrigado pelo seu tempo. Tenha um bom dia.}{}{5}{}{0}{lf4 1, lf3 0, lf2 0 }
+{112}{Como ousa! Somos muito mais civilizados do que isso! Wrath tinha ficado um pouco desequilibrado, sim, mas toda essa ideia de assassinato nos é estranha! Esta vida é apenas uma em que os elfos existem. Quando morremos, passamos para outro nível. Então, qual seria o propósito do assassinato?}{Como ousa! Somos muito mais civilizados do que isso! Wrath tinha ficado um pouco desequilibrado, sim, mas toda essa ideia de assassinato nos é estranha! Esta vida é apenas uma em que os elfos existem. Quando morremos, passamos para outro nível. Então, qual seria o propósito do assassinato?}{}{}{}{ }
+{113}{Sharpe poderia ter envenenado Wrath para protegê-lo?}{}{5}{}{92}{ }
+{120}{Estou cansado de vocês, elfos arrogantes, falando sobre como são superiores.}{}{5}{ra-3}{122}{re-10 }
+{121}{Entendo. Obrigado por responder às minhas perguntas. Tenha um bom dia.}{}{5}{}{0}{ }
+{122}{Eu agradeceria se você saísse da minha loja agora. Terminei de falar com você.}{Eu agradeceria se você saísse da minha loja agora. Terminei de falar com você.}{}{}{}{gf2698 1 }
+{123}{Você só termina de falar comigo quando EU disser, sua rameira!}{}{5}{}{0}{fl 420 ,co}
+{131}{E:}{}{5}{}{0}{lf5 1 }
+{132}{Não tenho mais nada a dizer. Por favor, me desculpe.}{Não tenho mais nada a dizer. Por favor, me desculpe.}{}{}{}{ }
+{134}{Você só termina de falar comigo quando EU disser, sua vadia!}{}{5}{}{0}{fl 420 ,co}
+{141}{E:}{}{5}{}{0}{lf5 1 }
+{142}{Que tipo de veneno?}{Que tipo de veneno?}{}{}{}{ }
+{143}{Tem um odor forte.}{}{5}{}{152}{ }
+{152}{Temos muitas poções com odores fortes. Poderia ser mais específico?}{Temos muitas poções com odores fortes. Poderia ser mais específico?}{}{}{}{ }
+{153}{Foi usado para matar alguém misturando-o ao vinho da vítima.}{}{5}{}{162}{ }
+{162}{Que infortúnio! Asseguro-lhe que só vendemos venenos para pessoas que conhecemos bem. O que o leva a acreditar que foi uma de nossas poções?}{Que infortúnio! Asseguro-lhe que só vendemos venenos para pessoas que conhecemos bem. O que a leva a acreditar que foi uma de nossas poções?}{}{}{}{ }
+{163}{Porque a vítima, Wrath, morava perto daqui.}{}{5}{}{42}{ }
+{172}{Terá que me perdoar pelo meu mau humor, senhor. Não tive o direito de falar com você dessa maneira.}{Terá que me perdoar pelo meu mau humor, senhora. Não tive o direito de falar com você dessa maneira.}{}{}{}{ }
+{173}{Tudo bem. Estou procurando por Sharpe...}{}{5}{re41, lf1 0}{12}{lf1 1 }
+{174}{B:}{}{5}{re41}{190}{ }
+{175}{Não farei tal coisa, sua vadia! Vocês, elfos arrogantes, me enojam!}{}{5}{ra-3}{122}{re-15 }
+{176}{Não farei tal coisa, sua vadia! Você me enoja!}{}{5}{ra3}{122}{re-15 }
+{181}{E:}{}{5}{}{0}{ }
+{182}{Se conseguir se abster de agir segundo algumas de suas tendências mais repulsivas, talvez eu consiga tolerar sua presença.}{Se conseguir se abster de agir segundo algumas de suas tendências mais repulsivas, talvez eu consiga tolerar sua presença.}{}{}{}{ }
+{183}{Farei o meu melhor. Sabe onde posso encontrar Sharpe?}{}{5}{}{12}{ }
+{184}{B:}{}{5}{}{190}{ }
+{185}{Não consigo... controlar a tendência... de... causar... ferimentos graves... em você...}{}{5}{}{0}{fl 420 ,co}
+{189}{E:}{}{5}{}{0}{ }
+{190}{Há mais alguma coisa em que eu possa ajudar?}{Há mais alguma coisa em que eu possa ajudar?}{}{}{}{ }
+{191}{Estou procurando por Sharpe.}{}{5}{re41, lf1 0}{12}{lf1 1 }
+{192}{Preciso lhe perguntar sobre um veneno. [Mostre a ela o copo.]}{}{5}{in5639, re41, lf1 1, lf10 0}{22}{lf10 1 }
+{193}{Preciso lhe perguntar sobre um veneno que você vende.}{}{5}{ni5639, gf2151 1, re41, lf1 1, lf11 0}{142}{lf11 1 }
+{194}{Preciso lhe perguntar sobre este frasco. [Mostre a ela o frasco.]}{}{5}{in5641, re41, lf1 1}{200}{ }
+{195}{Preciso lhe perguntar sobre um frasco de veneno vazio que encontrei.}{}{5}{ni5641, gf2164 1, re41, lf1 1}{360}{ }
+{196}{B:}{}{5}{re41}{0}{ }
+{199}{E:}{}{5}{}{0}{ }
+{200}{Isso parece um de nossos frascos. Onde o conseguiu?}{Aquilo parece um de nossos frascos. Onde você o conseguiu?}{}{}{}{ }
+{201}{Isso não é importante. O que importa é o que ele continha.}{}{5}{}{210}{ }
+{210}{E o que seria isso?}{E o que seria isso?}{}{}{}{ }
+{211}{Estava cheio de veneno - o mesmo veneno usado para matar Wrath.}{}{5}{lf10 0}{42}{lf11 1 }
+{212}{Estava cheio de veneno - o mesmo veneno usado para matar Wrath.}{}{5}{lf10 1, lf2 0}{220}{ }
+{220}{E daí? Isso não prova nada!}{E daí? Isso não prova nada!}{}{}{}{ }
+{221}{Você pode me contar sobre seu relacionamento com Wrath?}{}{5}{lf2 1}{52}{lf11 1 }
+{222}{Você me disse antes que ele ficou ofendido com seu comportamento?}{}{5}{lf3 1}{72}{lf11 1 }
+{223}{Isso, somado a tudo o que você me contou antes, aponta para Sharpe.}{}{5}{lf4 1}{230}{ }
+{229}{Veremos, suponho. Tenha um bom dia.}{}{5}{}{0}{ }
+{230}{Mas ele não pode tê-lo matado! Ele é um bom homem, não como Wrath!}{Mas ele não pode tê-lo matado! Ele é um bom homem, não como Wrath!}{}{}{}{gf2698 1 }
+{231}{O que exatamente você quer dizer com isso?}{}{5}{ps8}{240}{ }
+{232}{Então, Wrath era mau... e Sharpe o matou para protegê-la!}{}{5}{lf25 1}{122}{re-10 }
+{233}{O que exatamente você quer dizer com isso?}{}{5}{ps-7}{490}{ }
+{234}{Então, Wrath era mau... e Sharpe o matou para protegê-la!}{}{5}{lf25 0}{500}{lf25 1 }
+{240}{Wrath tinha um coração negro! Não acredito que já fomos amigos dele. Ele mudou quando descobriu que eu não o amava.}{Wrath tinha um coração negro! Não acredito que já fomos amigos dele. Ele mudou quando descobriu que eu não o amava.}{}{}{}{ }
+{241}{O ciúme de Wrath é compreensível. Você é muito bonita.}{}{5}{ch14}{510}{ }
+{242}{Ele estava apaixonado por você?}{}{5}{}{250}{ }
+{243}{Então, você o empurrou para a loucura?}{}{5}{lf25 1}{520}{ }
+{250}{Foi ele quem sugeriu que eu morasse com ELE. Eu gostei da ideia, por mais estranha que fosse, mas nunca senti nada além de amizade por Wrath. Sharpe era quem eu amava.}{Foi ele quem sugeriu que eu morasse com ELE. Eu gostei da ideia, por mais estranha que fosse, mas nunca senti nada além de amizade por Wrath. Sharpe era quem eu amava.}{}{}{}{ }
+{251}{Então, o que aconteceu depois?}{}{5}{}{260}{ }
+{252}{Por que isso era uma ideia tão estranha?}{}{5}{ra-3}{330}{ }
+{253}{Por que isso era uma ideia tão estranha?}{}{5}{ra3}{350}{ }
+{260}{Foi quando Wrath se tornou uma pessoa verdadeiramente miserável. Ele aparecia quando Sharpe não estava aqui e tentava me convencer de que ou eu deveria amá-lo, ou que Sharpe de alguma forma não era digno de mim. Quando finalmente lhe disse para parar de me incomodar, foi quando ele começou a me ameaçar.}{Foi quando Wrath se tornou uma pessoa verdadeiramente miserável. Ele aparecia quando Sharpe não estava aqui e tentava me convencer de que ou eu deveria amá-lo, ou que Sharpe de alguma forma não era digno de mim. Quando finalmente lhe disse para parar de me incomodar, foi quando ele começou a me ameaçar.}{}{}{}{ }
+{262}{Espere um minuto - ele ameaçou você?}{}{5}{}{270}{ }
+{270}{E as ameaças foram ficando cada vez piores. Em certo momento, ele ameaçou matar Sharpe. A última coisa que me disse foi que não deixaria Sharpe me ter se ele não pudesse.}{E as ameaças foram ficando cada vez piores. Em certo momento, ele ameaçou matar Sharpe. A última coisa que me disse foi que não deixaria Sharpe me ter se ele não pudesse.}{}{}{}{ }
+{271}{Entendo. Acho que ele se matou e incriminou Sharpe.}{}{13}{}{310}{gf2166 1, xp10 }
+{272}{Você deve ter pensado que ele era uma ameaça para você, então.}{}{-12}{}{280}{ }
+{280}{Isso foi há cem anos, ele nem tinha falado conosco desde então. Sei que nós, elfos, somos um povo paciente, mas não consigo acreditar que ele guardou rancor todo esse tempo.}{Isso foi há cem anos, ele nem tinha falado conosco desde então. Sei que nós, elfos, somos um povo paciente, mas não consigo acreditar que ele guardou rancor todo esse tempo.}{}{}{}{ }
+{281}{Então o que você está dizendo é que Sharpe não tinha motivo para matar Wrath?}{}{5}{}{290}{ }
+{290}{Mas Wrath tinha muitos motivos para querer prejudicar Sharpe.}{Mas Wrath tinha muitos motivos para querer prejudicar Sharpe.}{}{}{}{ }
+{291}{Se Wrath o matasse, porém, você o odiaria.}{}{5}{}{300}{ }
+{300}{Mas se ele conseguisse fazer Sharpe matá-lo, toda a aldeia, incluindo eu, se voltaria contra Sharpe.}{Mas se ele conseguisse fazer Sharpe matá-lo, toda a aldeia, incluindo eu, se voltaria contra Sharpe.}{}{}{}{ }
+{302}{Ou se ele se matasse e incriminasse Sharpe.}{}{5}{}{310}{ }
+{310}{[Uma expressão de reconhecimento cruza seu rosto.] Pelos deuses! Aquele desgraçado fez isso! Não consigo acreditar que ele pudesse guardar tanto rancor... a ponto de se matar! Que tolo!}{[Uma expressão de reconhecimento cruza seu rosto.] Pelos deuses! Aquele desgraçado fez isso! Não consigo acreditar que ele pudesse guardar tanto rancor... a ponto de se matar! Que tolo!}{}{}{}{gf2166 1, xp10 }
+{311}{É melhor eu avisar os guardas para que soltem Jormund.}{}{5}{}{320}{gf2165 0 }
+{320}{Se algum dia precisar de algo de nós, por favor, não hesite em nos visitar.}{Se algum dia precisar de algo de nós, por favor, não hesite em nos visitar.}{}{}{}{ }
+{321}{A:}{}{5}{re-80}{0}{re81 }
+{322}{A:}{}{5}{re 81}{0}{ }
+{330}{Elfos simplesmente não vivem juntos. Somos um povo comunitário, mas solitário. Vivemos juntos como uma aldeia inteira, mas temos uma vida espiritual intensa que é melhor buscada individualmente.}{Elfos simplesmente não vivem juntos. Somos um povo comunitário, mas solitário. Vivemos juntos como uma aldeia inteira, mas temos uma vida espiritual intensa que é melhor buscada individualmente.}{}{}{}{ }
+{331}{Então por que VOCÊS decidiram viver juntos, afinal?}{}{5}{}{340}{ }
+{332}{O que aconteceu depois que começaram a viver juntos?}{}{5}{}{260}{ }
+{340}{Sentimos que nosso amor era tão importante quanto nossa comunidade, se não mais. Recebemos muito desprezo por nossa decisão, as pessoas achavam que estávamos danificando o tecido de nossa sociedade. Nos chamaram de egoístas.}{Sentimos que nosso amor era tão importante quanto nossa comunidade, se não mais. Recebemos muito desprezo por nossa decisão, as pessoas achavam que estávamos danificando o tecido de nossa sociedade. Nos chamaram de egoístas.}{}{}{}{ }
+{341}{Wrath deve ter vociferado contra vocês por sua "traição" a ele.}{}{5}{}{270}{ }
+{350}{Sentimos que nosso amor era tão importante quanto nossa comunidade, se não mais. Sendo elfos, você pode imaginar o desprezo que recebemos por causa de nossa decisão. A aldeia achava que estávamos danificando o tecido de nossa sociedade. Nos chamaram de egoístas.}{Sentimos que nosso amor era tão importante quanto nossa comunidade, se não mais. Sendo elfos, você pode imaginar o desprezo que recebemos por causa de nossa decisão. A aldeia achava que estávamos danificando o tecido de nossa sociedade. Nos chamaram de egoístas.}{}{}{}{ }
+{351}{Então por que VOCÊS decidiram viver juntos, afinal?}{}{5}{}{340}{ }
+{352}{O que aconteceu depois que começaram a viver juntos?}{}{5}{}{260}{ }
+{360}{Um frasco de veneno vazio? Por que me pergunta sobre isso?}{Um frasco de veneno vazio? Por que me pergunta sobre isso?}{}{}{}{ }
+{361}{Era um dos seus.}{}{5}{}{370}{ }
+{370}{Certo, o que é que o preocupa nesse frasco?}{Certo, o que é que o preocupa nesse frasco?}{}{}{}{ }
+{371}{Estava cheio de veneno - o mesmo veneno usado para matar Wrath.}{}{5}{lf10 0}{42}{lf11 1 }
+{372}{Estava cheio de veneno - o mesmo veneno usado para matar Wrath.}{}{5}{lf10 1, lf2 0}{220}{ }
+{380}{Não faço a menor ideia do que está falando, mas de qualquer forma, não gostei da sua insinuação.}{Não faço a menor ideia do que está falando, mas de qualquer forma, não gostei da sua insinuação.}{}{}{}{ }
+{381}{Wrath foi assassinado.}{}{5}{}{42}{ }
+{390}{Você tem razão. Não deveria presumir nada. Nem conhecia o rapaz. Embora estar sob o jugo de Wrath pudesse levar qualquer um ao assassinato.}{Você tem razão. Não deveria presumir nada. Nem conhecia o rapaz. Embora estar sob o jugo de Wrath pudesse levar qualquer um ao assassinato.}{}{}{}{ }
+{391}{O que Wrath fez para você o odiar tanto?}{}{5}{}{400}{ }
+{400}{Ele começou a espalhar ódio e mentiras sobre Sharpe e eu. Disse que era ofensivo e prejudicial para a aldeia continuarmos "como humanos", nas palavras dele.}{Ele começou a espalhar ódio e mentiras sobre Sharpe e eu. Disse que era ofensivo e prejudicial para a aldeia continuarmos "como humanos", nas palavras dele.}{}{}{}{ }
+{401}{Ele achava que vocês estavam violando os costumes élficos?}{}{5}{}{72}{ }
+{402}{É compreensível que tenha começado a odiar Wrath.}{}{5}{ch14}{82}{ }
+{403}{Então você e Sharpe o odiavam por isso, não é?}{}{5}{ch-13}{112}{re-5 }
+{407}{Ele está certo. Você é muito ofensiva. Tenho certeza de que Sharpe também é.}{}{5}{}{410}{ }
+{410}{Não precisava dos insultos de Wrath naquela época, assim como não preciso dos seus agora.}{Não precisava dos insultos de Wrath naquela época, assim como não preciso dos seus agora.}{}{}{}{ }
+{411}{É difícil encarar a verdade, não é, prostituta?}{}{5}{}{0}{fl 420 ,co}
+{419}{Vou indo, então.}{}{5}{}{0}{ }
+{420}{Você é um homem morto!}{Você está morta, mulher!}{}{}{}{ }
+{430}{Foi você! Você acusou Sharpe de matar Wrath! Como pôde?!}{Foi você! Você acusou Sharpe de matar Wrath! Como pôde?!}{}{}{}{ }
+{431}{O pote de Sharpe tinha um frasco vazio do veneno usado para matar Wrath.}{}{5}{}{230}{ }
+{440}{Eu disse para me deixar em paz. Não tenho nada a dizer a você, por favor, vá embora.}{Eu disse para me deixar em paz. Não tenho nada a dizer a você, por favor, vá embora.}{}{}{}{ }
+{450}{Olá, @pcname@. Em que posso ajudá-lo?}{Olá, @pcname@. Em que posso ajudá-lo?}{}{}{}{ }
+{451}{B:}{}{5}{}{460}{ }
+{452}{Não, só passei para cumprimentar.}{}{5}{}{0}{ }
+{460}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{ }
+{461}{Não. Tenha um bom dia.}{}{5}{}{0}{ }
+{470}{Talvez os da sua raça possam ser levados ao assassinato, mas os elfos estão acima dessas coisas!}{Talvez os da sua raça possam ser levados ao assassinato, mas os elfos estão acima dessas coisas!}{}{}{}{ }
+{471}{Ninguém está acima dessas coisas, nem mesmo os elfos.}{}{5}{}{122}{ }
+{473}{O frasco de veneno aponta para a culpa de Sharpe...}{}{5}{lf11 1}{230}{ }
+{480}{Não sei de qual tribo degenerada você vem, mas os elfos da minha tribo estão acima de tamanha vileza!}{Não sei de qual tribo degenerada você vem, mas os elfos da minha tribo estão acima de tamanha vileza!}{}{}{}{ }
+{481}{Ninguém está acima dessas coisas! Nem mesmo os elfos!}{}{5}{}{122}{ }
+{482}{Mesmo para proteger aqueles que amam?}{}{5}{}{92}{ }
+{483}{O frasco de veneno aponta para a culpa de Sharpe...}{}{5}{lf11 1}{230}{ }
+{490}{Hmm... nada, nada. Eu preferiria que você fosse embora agora. Não desejo mais falar com você.}{Hmm... nada, nada. Eu preferiria que você fosse embora agora. Não desejo mais falar com você.}{}{}{}{ }
+{491}{Você só termina de falar comigo quando eu disser, vadia!}{}{5}{}{0}{fl 420 ,co}
+{499}{E:}{}{5}{}{0}{lf5 1 }
+{500}{O quê?! Não, claro que não!}{O quê?! Não, claro que não!}{}{}{}{ }
+{501}{Mas você disse que Wrath não era um bom homem...}{}{5}{}{240}{ }
+{502}{Você não pode negar a verdade! Sharpe é um assassino, e você sabe disso!}{}{5}{}{122}{re-10 }
+{510}{[Ela cora e sorri timidamente.] É muito gentil da sua parte dizer isso. Minha beleza é minha maldição, foi o que levou Wrath à loucura, acredito.}{[Ela cora e sorri timidamente.] É muito gentil da sua parte dizer isso. Minha beleza é minha maldição, foi o que levou Wrath à loucura, acredito.}{}{}{}{ }
+{511}{Por que você diz isso?}{}{5}{}{250}{ }
+{512}{Acho que sua arrogância desenfreada é sua verdadeira maldição, na verdade.}{}{5}{}{122}{re-10, lf25 1 }
+{520}{Como ousa sugerir tal coisa! Eu lhe agradeceria se saísse da minha loja agora. Não desejo mais falar com você.}{Como ousa sugerir tal coisa! Eu lhe agradeceria se saísse da minha loja agora. Não desejo mais falar com você.}{}{}{}{ }
+{521}{Você só termina de falar comigo quando eu disser, vadia!}{}{5}{}{0}{fl 420 ,co}
+{529}{E:}{}{5}{}{0}{lf5 1 }
+{530}{[Esta elfa está obviamente envolvida em algum tipo de ritual. Ela nem sequer olha para você.] Estou realizando minhas meditações noturnas. Por favor, não me perturbe até de manhã.}{[Esta elfa está obviamente envolvida em algum tipo de ritual. Ela nem sequer olha para você.] Estou realizando minhas meditações noturnas. Por favor, não me perturbe até de manhã.}{}{}{}{ }
+

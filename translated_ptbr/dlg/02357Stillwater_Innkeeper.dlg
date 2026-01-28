@@ -1,0 +1,129 @@
+{1}{G:}{}{}{}{}{lf 11 0, lf 12 0 , lf 13 0, lf 14 0}
+{2}{Saudações, bom senhor.}{}{5}{lf1 0, re 41}{25}{lf1 1}
+{3}{O senhor sempre cumprimenta novos clientes dessa maneira?!}{}{5}{lf1 0, ch-10, re -40}{19}{lf1 1}
+{4}{Olá, Estalajadeiro. Posso incomodá-lo por um momento?}{}{5}{lf1 1, re 41}{25}{}
+{5}{Posso fazer uma pergunta, Estalajadeiro?}{}{5}{lf1 1, ch-10, re -40}{19}{}
+{6}{Não há necessidade de grosseria, senhor.}{}{5}{lf1 1, ch11, re -40}{83}{}
+{7}{O senhor sempre cumprimenta novos clientes dessa maneira?!}{}{5}{lf1 0, ch11, re -40}{83}{lf1 1}
+{8}{Acredito que Joachim deixou algo para mim...?}{}{5}{gf2306 1, ni5238}{166}{}
+{13}{Olá, olá.}{}{-4}{lf1 0, re 41}{25}{lf1 1}
+{14}{Seu sujeito estúpido e maldoso.}{}{-4}{lf1 0, re -40}{19}{lf1 1}
+{15}{Falar com Estalajadeiro?}{}{-4}{lf1 1, re 41}{25}{}
+{16}{Eu pergunto, Innk'per tem perguntas para você?}{}{-4}{lf1 1, re -40}{140}{}
+{17}{Wa-keem deixou algo pra mim...?}{}{-4}{gf2306 1, ni5238}{166}{}
+{18}{E:}{}{1}{}{0}{}
+{19}{Nós não servimos o seu tipo aqui. Saia das dependências ou serei forçado a chamar a guarda.}{Nós não servimos o seu tipo aqui. Saia das dependências ou serei forçado a chamar a guarda.}{}{}{}{}
+{20}{Por favor, senhor, só desejo alugar um quarto.}{}{5}{lf 10 0}{100}{}
+{21}{Não, o senhor será forçado a chamar o agente funerário.}{}{5}{}{0}{re -10, fl 130}
+{22}{Mas eu quero alugar um quarto.}{}{-4}{lf 10 0}{100}{}
+{23}{K:}{}{1}{lf 10 1}{25}{}
+{24}{F:}{}{1}{}{0}{}
+{25}{Em que posso ajudá-lo?}{Em que posso ajudá-lo?}{}{}{}{}
+{26}{Gostaria de um quarto para esta noite.}{}{5}{lf 10 0}{45}{}
+{27}{Vou ficar na cidade por um tempo. Gostaria de um quarto para uma semana.}{}{5}{ha7, lf 10 0}{52}{}
+{28}{Vou ficar na cidade por um tempo. Gostaria de um quarto para uma semana.}{}{5}{ha-6, lf 10 0}{57}{}
+{29}{Eu fico aqui 'sta noite?}{}{-4}{lf 10 0}{45}{}
+{30}{Talvez mais tarde. Eu fico com o quarto por uma semana?}{}{-4}{ha7, lf 10 0}{52}{}
+{31}{Talvez mais tarde. Eu fico com o quarto por uma semana?}{}{-4}{ha-6, lf 10 0}{57}{}
+{32}{C:}{}{1}{lf 14 0}{35}{lf 14 1}
+{33}{E:}{}{1}{}{0}{}
+{34}{}{}{}{}{}{}
+{35}{Há mais alguma coisa?}{Há mais alguma coisa?}{}{}{}{}
+{36}{Gostaria de um quarto para esta noite.}{}{5}{lf 10 0}{45}{}
+{37}{Vou ficar na cidade por um tempo. Gostaria de um quarto para uma semana.}{}{5}{ha7, lf 10 0}{52}{}
+{38}{Vou ficar na cidade por um tempo. Gostaria de um quarto para uma semana.}{}{5}{ha-6, lf 10 0}{57}{}
+{39}{Eu ficar aqui de noite?}{}{-4}{lf 10 0}{45}{}
+{40}{Eu pegar quarto por semana?}{}{-4}{ha7, lf 10 0}{52}{}
+{41}{Eu pegar quarto por semana?}{}{-4}{ha-6, lf 10 0}{57}{}
+{42}{C:}{}{1}{lf 14 0}{35}{lf 14 1}
+{43}{E:}{}{1}{}{0}{}
+{44}{}{}{}{}{}{}
+{45}{Ah, claro, senhor. Isso custará 25 moedas, por favor.}{Ah, claro, senhora. Isso custará 25 moedas, por favor.}{}{}{}{}
+{46}{Aqui está. [Dá-lhe as moedas]}{}{5}{$$ 25}{-2}{$$-25, lf 13 0, lf 10 1}
+{47}{Isso é um pouco caro... [suspiro] Aqui. [Dá-lhe as moedas.]}{}{5}{$$ 25}{-2}{$$-25, lf 13 0, lf 10 1}
+{48}{Hã... aqui. [Dá-lhe as moedas.]}{}{-4}{$$ 25}{-2}{$$-25, lf 13 0, lf 10 1}
+{49}{Isso é muito! Tá bom, aqui. [Dá-lhe as moedas.]}{}{-4}{$$ 25}{-2}{$$-25, lf 13 0, lf 10 1}
+{50}{K:}{}{1}{}{35}{}
+{51}{F:}{}{1}{}{0}{re-2}
+{52}{Ah, sim, senhor! Ficaria muito feliz se o senhor abençoasse meu estabelecimento com sua presença por uma estadia prolongada. Hmm... [reflete um momento] Por demonstrar tamanha preferência, reduzirei a tarifa para 130 moedas pela semana completa.}{Ah, sim, senhora! Ficaria muito feliz se a senhora abençoasse meu estabelecimento com sua presença por uma estadia prolongada. Hmm... [reflete um momento] Por demonstrar tamanha preferência, reduzirei a tarifa para 130 moedas pela semana completa.}{}{}{}{}
+{53}{Obrigado. Aqui. [Dê a ele as moedas.]}{}{5}{$$ 130}{-5}{$$-130, lf 13 1, lf 10 1}
+{54}{Hã...  Valeu.  Aqui.  [Dê a ele as moedas.]}{}{-4}{$$ 130}{-5}{$$-130, lf 13 1, lf 10 1}
+{55}{K:}{}{1}{}{35}{}
+{56}{F:}{}{1}{}{0}{re -2}
+{57}{Oh! Mas é claro... A diária de uma semana custa 175 moedas, senhor.}{Oh! Mas é claro... A diária de uma semana custa 175 moedas, senhora.}{}{}{}{}
+{58}{Obrigado. Aqui. [Dê a ele as moedas.]}{}{5}{$$ 175}{-5}{$$-175, lf 13 1, lf 10 1}
+{59}{Vocês não oferecem um preço reduzido para pagamento adiantado?}{}{5}{}{78}{}
+{60}{Hã...  Valeu.  Aqui.  [Dê a ele as moedas.]}{}{-4}{$$ 175}{-5}{$$-175, lf 13 1, lf 10 1}
+{61}{O quê! Não fica mais barato ficar mais tempo?}{}{-4}{}{78}{}
+{62}{K:}{}{1}{lf 14 0}{35}{lf 14 1}
+{63}{F:}{}{1}{}{0}{re -2}
+{64}{Obrigado, senhor! O senhor encontrará seu quarto logo ali no corredor. O quarto estará à sua disposição apenas esta noite. A porta estará destrancada. Espero que aproveite sua estadia.}{Obrigado, minha senhora! A senhora encontrará seu quarto logo ali no corredor. O quarto estará à sua disposição apenas esta noite. A porta estará destrancada. Espero que aproveite sua estadia.}{}{}{}{}
+{65}{Obrigado.}{}{5}{}{0}{}
+{66}{Hã... V-valeu.}{}{-4}{}{0}{}
+{67}{K:}{}{1}{}{35}{}
+{68}{C:}{}{1}{lf 14 0}{35}{lf 14 1}
+{69}{E:}{}{1}{}{0}{}
+{70}{}{}{}{}{}{}
+{71}{Obrigado, senhor! O senhor encontrará seu quarto logo ali no corredor. O quarto estará à sua disposição pelas próximas sete noites. A porta estará destrancada. Espero que aproveite sua estadia.}{Obrigado, minha senhora! A senhora encontrará seu quarto logo ali no corredor. O quarto estará à sua disposição pelas próximas sete noites. A porta estará destrancada. Espero que aproveite sua estadia.}{}{}{}{}
+{72}{Obrigado.}{}{5}{}{0}{}
+{73}{Hã... V-valeu.}{}{-4}{}{0}{}
+{74}{K:}{}{1}{}{35}{}
+{75}{C:}{}{1}{lf 14 0}{35}{lf 14 1}
+{76}{E:}{}{1}{}{0}{}
+{77}{}{}{}{}{}{}
+{78}{Sinto muito, senhor. As reservas têm estado extremamente movimentadas ultimamente. Estou bastante surpreso por ainda termos um quarto disponível. Tenho certeza de que não durará muito, caso o senhor decida recusá-lo.}{Sinto muito, senhora. As reservas têm estado extremamente movimentadas ultimamente. Estou bastante surpresa por ainda termos um quarto disponível. Tenho certeza de que não durará muito, caso a senhora decida recusá-lo.}{}{}{}{}
+{79}{[suspiro] Aqui. [Dê a ele as moedas.]}{}{5}{$$ 175}{-5}{$$-175, lf 13 1, lf 10 1}
+{80}{[suspiro] Aqui. [Dê a ele as moedas.]}{}{-4}{$$ 175}{-5}{$$-175, lf 13 1, lf 10 1}
+{81}{K:}{}{1}{}{35}{}
+{82}{F:}{}{1}{}{0}{re -2}
+{83}{Oh!... Eu, hã, não, quer dizer, por favor, aceite minhas desculpas, senhor! Eu o confundi com outra pessoa. Como posso servi-lo?}{Oh!... Eu, hã, não, quer dizer, por favor, aceite minhas desculpas, senhora! Eu a confundi com outra pessoa. Como posso servi-la?}{}{}{}{}
+{84}{Gostaria de um quarto para esta noite.}{}{5}{lf 10 0}{45}{}
+{85}{Vou ficar na cidade por um tempo. Gostaria de um quarto para uma semana.}{}{5}{ha7, lf 10 0}{52}{}
+{86}{Vou ficar na cidade por um tempo. Gostaria de um quarto para uma semana.}{}{5}{ha-6, lf 10 0}{57}{}
+{87}{Eu fico aqui 'sta noite?}{}{-4}{lf 10 0}{45}{}
+{88}{Eu ficar aqui muito tempo. Eu querer quarto por semana?}{}{-4}{ha7, lf 10 0}{52}{}
+{89}{Eu ficar aqui muito tempo. Eu querer quarto por semana?}{}{-4}{ha-6, lf 10 0}{57}{}
+{90}{C:}{}{1}{lf 14 0}{35}{lf 14 1}
+{91}{E:}{}{1}{}{0}{}
+{100}{[Ele olha para você com desaprovação.] Bem, vai custar 30 moedas por uma noite, cinco moedas a mais do que o normal, pois terei que limpar a cama para me livrar dos piolhos que tenho certeza de que você está infestado.}{[Ele olha para você com desaprovação.] Bem, vai custar 30 moedas, cinco moedas a mais do que o normal, pois terei que limpar a cama para me livrar dos piolhos que tenho certeza de que você está infestado. Mas você provavelmente não tem 30 moedas, tem?}{}{}{}{}
+{101}{Vou querer um quarto para esta noite. [Dê a ele as moedas.]}{}{5}{$$30, lf 10 0}{-2}{$$-30, re +5, lf 12 1, lf 10 1}
+{102}{Quanto custa por uma semana?}{}{5}{lf 10 0}{120}{}
+{103}{Eu não pagaria para você ficar aqui nem que me pagassem, cão!}{}{5}{}{0}{re -10, fl 130}
+{104}{Não acho que valha 30 moedas ficar aqui. Tenha um bom dia.}{}{5}{}{0}{re -5}
+{105}{Tem razão, não tenho as moedas. Tenha um bom dia.}{}{5}{}{0}{}
+{106}{Eu ter dinheiro. Eu querer quarto. [Dê a ele as moedas.]}{}{-4}{$$30, lf 10 0}{-2}{$$-30, re +5, lf 12 1, lf 10 1}
+{107}{Eu querer quarto por semana! Quanto custar?}{}{-4}{lf 10 0}{120}{}
+{109}{Tenho dinheiro, mas não dou para gente malvada!}{}{-4}{}{0}{re-5}
+{110}{Hm, preciso ir embora agora.}{}{-4}{}{0}{}
+{120}{210 moedas para você, mas duvido que alguém do seu tipo possa pagar.}{210 moedas para você, mas duvido que alguém do seu tipo possa pagar.}{}{}{}{}
+{121}{Posso, e vou ficar com o quarto. [Dê-lhe as moedas.]}{}{5}{$$210}{-5}{$$-210, re 45, lf 11 1, lf 10 1}
+{122}{Tenho dinheiro! Vou ficar com o quarto! [Dê-lhe as moedas.]}{}{-4}{$$210}{-5}{$$-210, re 45, lf 11 1, lf 10 1}
+{123}{Isso não vale nem metade disso. Tenha um bom dia, senhor.}{}{5}{}{0}{re-5}
+{124}{Tenho dinheiro, mas não gosto da sua estalagem. Tchau.}{}{-4}{}{0}{re-5}
+{127}{Já estou farto de você e da sua estalagem infestada de pulgas! Tenha um bom dia!}{}{5}{}{0}{re-10}
+{128}{Hm, vou embora.}{}{-4}{}{0}{}
+{129}{Entendo. Talvez eu volte mais tarde.}{}{5}{}{0}{}
+{130}{Não estou achando graça, senhor. Por favor, tire essa sua carcaça infestada de pulgas do meu estabelecimento, antes que eu seja forçado a chamar a guarda.}{Não estou achando graça, senhora. Por favor, tire essa sua carcaça infestada de pulgas do meu estabelecimento, antes que eu seja forçado a chamar a guarda.}{}{}{}{}
+{140}{[suspiro] O que é?}{[suspiro] O que é?}{}{}{}{}
+{141}{Eu fico aqui 'sta noite?}{}{-4}{lf 10 0}{45}{}
+{142}{Talvez mais tarde. Eu fico com o quarto por uma semana?}{}{-4}{ha7, lf 10 0}{52}{}
+{143}{Talvez mais tarde. Eu fico com o quarto por uma semana?}{}{-4}{ha-6, lf 10 0}{57}{}
+{144}{C:}{}{1}{lf 14 0}{35}{lf 14 1}
+{145}{E:}{}{1}{}{0}{}
+{150}{[Ele aceita suas moedas com avidez.] Oh, me perdoe, senhor! Não sabia que era uma pessoa de posses. Seu quarto fica logo ali no corredor. Você poderá usá-lo pelas próximas sete noites. A porta ficará destrancada. Espero que aproveite sua estadia e, por favor, perdoe qualquer ofensa que eu possa ter cometido.}{[Ele aceita suas moedas com avidez.] Oh, me perdoe, senhora! Não sabia que era uma pessoa de posses. Seu quarto fica logo ali no corredor. Você poderá usá-lo pelas próximas sete noites. A porta ficará destrancada. Espero que aproveite sua estadia e, por favor, perdoe qualquer ofensa que eu possa ter cometido.}{}{}{}{}
+{151}{Obrigado.}{}{5}{}{0}{}
+{152}{Hã... V-valeu.}{}{-4}{}{0}{}
+{153}{K:}{}{1}{}{35}{}
+{154}{C:}{}{1}{lf 14 0}{35}{lf 14 1}
+{155}{E:}{}{1}{}{0}{}
+{160}{Tudo bem, então. Seu quarto fica logo ali no corredor, mas você só poderá usá-lo por esta noite. Não arranje confusão, ou não hesitarei em mandar removê-la. E não há reembolsos.}{Tudo bem, então. Seu quarto fica logo ali no corredor, mas você só poderá usá-lo por esta noite. Não arranje confusão, ou não hesitarei em mandar removê-la. E não há reembolsos.}{}{}{}{}
+{161}{Obrigado.}{}{5}{}{0}{}
+{162}{Hã... V-valeu.}{}{-4}{}{0}{}
+{163}{K:}{}{1}{}{35}{}
+{164}{C:}{}{1}{lf 14 0}{35}{lf 14 1}
+{165}{E:}{}{1}{}{0}{}
+{166}{Ah, sim... Ele deixou algumas coisas para você. Agora, onde foi que eu coloquei? Ah, sim! Lembro-me agora... aqui está.}{Ah, sim... Ele deixou algumas coisas para você. Agora, onde foi que eu coloquei? Ah, sim! Lembro-me agora... aqui está.}{}{}{}{in -5238, gf2307 1}
+{167}{Obrigado.}{}{5}{}{35}{}
+{168}{Valeu}{}{-4}{}{35}{}
+{169}{}{}{}{}{}{}
+

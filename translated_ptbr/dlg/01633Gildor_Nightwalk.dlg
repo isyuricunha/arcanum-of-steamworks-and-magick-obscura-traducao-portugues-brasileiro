@@ -1,0 +1,215 @@
+{1}{G:}{}{}{}{}{}
+{2}{Saudações, bom halfling. Posso saber seu nome?}{}{5}{lf1 0, re 41}{25}{}
+{3}{Isso foi muito indelicado.}{}{5}{lf1 0, re -40}{39}{}
+{4}{Eu o ofendi de alguma forma, Gildor?}{}{5}{lf1 1, lf2 0}{51}{}
+{5}{Olá novamente, Gildor. Poderia me conceder um pouco mais do seu tempo?}{}{5}{lf1 1, lf2 1,re 41, qu1109 0, lf3 0}{57}{}
+{6}{Eu o ofendi de alguma forma, Gildor?}{}{5}{lf1 1, lf2 1, re -40}{47}{}
+{7}{Perdoe-me por ter saído tão abruptamente. Por favor, continue sua história.}{}{5}{lf3 0, lf4 1, qu1109 0, ni 5232}{177}{}
+{8}{Terminei o livro, fascinante... Por favor, continue...}{}{5}{lf3 1, qu1109 0, in 5232}{105}{}
+{9}{Perdoe-me por ter saído tão abruptamente. Por favor, continue sua história.}{}{5}{lf5 1, qu1109 0}{184}{}
+{10}{Eu trarei o rubi para você!}{}{5}{lf3 1, qu1109 1}{151}{}
+{11}{Não consegui obter o grande rubi.}{}{5}{lf3 1, qu1109 2, ni 5662}{158}{}
+{12}{Eu tenho O Grande Rubi de K'alru!}{}{5}{lf3 1,  in 5662}{163}{re +20}
+{13}{E:}{}{5}{}{0}{}
+{14}{Ei, senhor. Qual é o seu nome?}{}{-4}{lf1 0, re 41}{25}{}
+{15}{Isso não foi legal...}{}{-4}{lf1 0, re -40}{39}{}
+{16}{Oi, Gildoor. Posso te perguntar uma coisa?}{}{-4}{lf1 1, lf2 0}{51}{}
+{17}{Oi, Gildoor. Posso te perguntar uma coisa?}{}{-4}{lf1 1, lf2 1, qu1109 0, lf3 0}{57}{}
+{18}{Me desculpe por ter ido embora... você conta mais?}{}{-4}{lf3 0, lf4 1, qu1109 0, ni5232}{177}{}
+{19}{Uh, eu li o livro. É difícil. Fale @pcname@ mais da história?}{}{-4}{lf3 1, qu1109 0, in5232}{105}{}
+{20}{Me desculpe por ter ido embora... você conta mais?}{}{-4}{lf5 1, qu1109 0}{184}{}
+{21}{Eu pego o rubi pra você!}{}{-4}{lf3 1, qu1109 1}{151}{}
+{22}{Eu não consegui o rubi.}{}{-4}{lf3 1, qu1109 2, ni5662}{158}{}
+{23}{Eu consegui o rubi!}{}{-4}{lf3 1,  in 5662}{163}{re +20}
+{24}{E:}{}{-4}{}{0}{}
+{25}{Eu sou Gildor Nightwalk. Quem é você?}{Eu sou Gildor Nightwalk. Quem é você?}{}{}{}{lf1 1}
+{26}{Meu nome é @pcname@.}{}{5}{}{57}{lf2 1}
+{27}{Isso não é da sua conta.}{}{5}{}{32}{re-10}
+{28}{Não gosto particularmente de conversar com raças inferiores...}{}{5}{ra-6}{32}{re-15}
+{29}{Meu nome é @pcname@.}{}{-4}{}{57}{lf2 1}
+{30}{Não.}{}{-4}{}{32}{re-10}
+{31}{Eu não gosto de você, homenzinho.}{}{-4}{ra-6}{32}{re-15}
+{32}{Você não tem modos?}{Você não tem modos?}{}{}{}{}
+{33}{Isso foi rude. Peço desculpas. Meu nome é @pcname@.}{}{5}{}{57}{re+5}
+{34}{Não com escória como você!}{}{5}{}{}{co, fl 46}
+{35}{E:}{}{5}{}{0}{}
+{36}{Desculpe. Eu fui mau. Meu nome é @pcname@.}{}{-4}{}{57}{re+5, lf2 1}
+{37}{Não precisa... Você vai estar morto...}{}{-4}{}{}{co, fl 46}
+{38}{E:}{}{-4}{}{0}{}
+{39}{Se não consegue lidar nem com isso, o que está fazendo perambulando longe de casa, tolo? Agora diga o que quer ou saia da minha casa!}{Se você não consegue nem lidar com isso, o que está fazendo perambulando longe de casa, idiota? Agora diga logo o que quer ou saia da minha casa!}{}{}{}{}
+{40}{Tudo bem. Posso saber seu nome?}{}{5}{}{25}{}
+{41}{Chega! Você já me insultou o suficiente! Defenda-se!}{}{5}{}{}{co, fl 46}
+{42}{E:}{}{5}{}{0}{}
+{43}{Hã, tá bom. Qual é o seu nome?}{}{-4}{}{25}{}
+{44}{Você é muito mau! Precisa morrer!}{}{-4}{}{}{co, fl 46}
+{45}{E:}{}{-4}{}{0}{}
+{46}{Você nem sabe com quem está se metendo, idiota...}{Você nem sabe com quem está se metendo, idiota...}{}{}{}{}
+{47}{Vejo que ainda se irrita com facilidade. O que você quer @pcname@?}{Vejo que ainda se irrita com facilidade. O que você quer @pcname@?}{}{}{}{}
+{48}{Hmm... Tenho uma pergunta.}{}{5}{}{57}{}
+{49}{Vejo que ainda é um homenzinho rude... Tenho uma pergunta...}{}{5}{}{57}{re-5}
+{50}{E:}{}{5}{}{0}{}
+{51}{Se não vai me dizer seu nome, não tem motivo para falar comigo!}{Se não vai me dizer seu nome, não tem motivo para falar comigo!}{}{}{}{}
+{52}{Por favor, me perdoe. Meu nome é @pcname@.}{}{5}{}{57}{lf2 1}
+{53}{Talvez meu objetivo seja esmagar seres minúsculos...}{}{5}{}{32}{re-5}
+{54}{E:}{}{5}{}{0}{}
+{55}{Me desculpa. Meu nome @pcname@.}{}{-4}{}{57}{lf2 1}
+{56}{E:}{}{-4}{}{0}{}
+{57}{Bem, o que é, @pcname@?}{Bem, o que é, @pcname@?}{}{}{}{}
+{58}{R:($0, 1090-1099)}{}{5}{}{57}{}
+{59}{Você tem algum trabalho para mim?}{}{5}{sk6 13}{66}{}
+{60}{Você tem algum trabalho para mim?}{}{5}{sk6 -12}{203}{}
+{61}{E:}{}{5}{}{0}{}
+{62}{R:($0, 1090-1099)}{}{-4}{}{57}{}
+{63}{Você tem trabalho pra mim fazer?}{}{-4}{sk6 13}{66}{}
+{64}{Você tem trabalho pra mim fazer?}{}{-4}{sk6 -12}{203}{}
+{65}{E:}{}{-4}{}{0}{}
+{66}{[ele o examina minuciosamente, avaliando suas habilidades] Trabalho, é? Pode ser que haja algo... No entanto, não é uma tarefa simples e exigirá muita coragem para ser concluída. Isso lhe interessa @pcname@?}{[ele o examina minuciosamente, avaliando suas habilidades] Trabalho, é? Pode ser que haja algo... No entanto, não é uma tarefa simples e exigirá muita coragem para ser concluída. Isso lhe interessa @pcname@?}{}{}{}{}
+{67}{Interessa. O que você quer que eu faça?}{}{5}{}{71}{}
+{68}{Sim.}{}{5}{}{71}{}
+{69}{Sim. O que eu faço?}{}{-4}{}{71}{}
+{70}{E:}{}{1}{}{0}{}
+{71}{Vou lhe contar uma história. O conto lhe dará uma visão melhor da tarefa que vai tentar realizar. Então, por favor, tenha paciência e ouça.}{Vou lhe contar uma história. O conto lhe dará uma visão melhor da tarefa que vai tentar realizar. Então, por favor, tenha paciência e ouça.}{}{}{}{}
+{72}{Prossiga. Estou ouvindo.}{}{5}{}{78}{}
+{73}{Não tenho tempo para suas divagações, velho...}{}{5}{}{0}{re -5}
+{74}{E:}{}{5}{}{0}{}
+{75}{Eu escuto. Você conta.}{}{-4}{}{78}{}
+{76}{Não tenho tempo pra você, velho...}{}{-4}{}{0}{re -5}
+{77}{E:}{}{-4}{}{0}{}
+{78}{Quando jovem, fui forçado a servir um grupo de viajantes. Eram um bando barulhento e bárbaro, buscando ganhar grande riqueza e reputação enquanto aventuravam-se por toda a terra. Encontrei meu lugar entre eles, pois às vezes a discrição era necessária, e essa era minha maior habilidade.}{Quando jovem, fui forçado a servir um grupo de viajantes. Eram um bando barulhento e bárbaro, buscando ganhar grande riqueza e reputação enquanto aventuravam-se por toda a terra. Encontrei meu lugar entre eles, pois às vezes a discrição era necessária, e essa era minha maior habilidade.}{}{}{}{lf4 1}
+{79}{Prossiga...}{}{5}{}{83}{}
+{80}{E:}{}{5}{}{0}{}
+{81}{Hum hum...}{}{-4}{}{83}{}
+{82}{E:}{}{-4}{}{0}{}
+{83}{ Com o passar do tempo, provei a eles que não era apenas um servo forçado e me tornei um membro valorizado do grupo. Aventuramo-nos juntos por vários anos, seguindo antigas lendas e descobrindo tesouros perdidos. Foi um período rico e selvagem em minha vida... [ele se perde em pensamentos por um momento]}{ Com o passar do tempo, provei a eles que não era apenas um servo forçado e me tornei um membro valorizado do grupo. Aventuramo-nos juntos por vários anos, seguindo antigas lendas e descobrindo tesouros perdidos. Foi um período rico e selvagem em minha vida... [ele se perde em pensamentos por um momento]}{}{}{}{}
+{84}{Por favor, continue.}{}{5}{}{88}{}
+{85}{E:}{}{5}{}{0}{}
+{86}{Hum hum...}{}{-4}{}{88}{}
+{87}{E:}{}{-4}{}{0}{}
+{88}{Em um dia fatídico, estávamos descansando, recuperando-nos de nossa última aventura. Havíamos acabado de limpar uma caverna cheia de homens-lagarto que aterrorizavam a comunidade local. No fundo da caverna, descobrimos um baú sem marcações, bem lacrado. Quando recebemos nossa recompensa do magistrado local, convenientemente omitimos mencionar o baú.}{Em um dia fatídico, estávamos descansando, recuperando-nos de nossa última aventura. Havíamos acabado de limpar uma caverna cheia de homens-lagarto que aterrorizavam a comunidade local. No fundo da caverna, descobrimos um baú sem marcações, bem lacrado. Quando recebemos nossa recompensa do magistrado local, convenientemente omitimos mencionar o baú.}{}{}{}{}
+{89}{Hum hum...}{}{5}{}{95}{}
+{90}{Heh heh, não exatamente honesto, né?}{}{5}{}{172}{re -5}
+{91}{E:}{}{5}{}{0}{}
+{92}{Hum hum...}{}{-4}{}{95}{}
+{93}{Quer mais recompensa, hein? Isso é bom... eu gosto...}{}{-4}{}{172}{re -5}
+{94}{E:}{}{-4}{}{0}{}
+{95}{Levou quase dois dias para Nightfire, um membro meio-elfo do grupo, abrir o cadeado e destrancar o baú. Como Nightfire era um especialista em fechaduras, havia muita expectativa e especulação sobre o suposto conteúdo da caixa.}{Levou quase dois dias para Nightfire, um membro meio-elfo do grupo, abrir o cadeado e destrancar o baú. Como Nightfire era um especialista em fechaduras, havia muita expectativa e especulação sobre o suposto conteúdo da caixa.}{}{}{}{}
+{96}{Prossiga...}{}{5}{}{100}{}
+{97}{E:}{}{5}{}{0}{}
+{98}{Hum hum...}{}{-4}{}{100}{}
+{99}{E:}{}{-4}{}{0}{}
+{100}{Dentro do baú, ficamos decepcionados ao encontrar apenas algumas moedas, vários objetos interessantes e um livro. Como eu era o único membro alfabetizado, coube a mim examinar o livro. Aqui, ainda tenho o livro, por que você mesmo não o lê? Avise-me quando terminar, e continuarei.}{Dentro do baú, ficamos decepcionados ao encontrar apenas algumas moedas, vários objetos interessantes e um livro. Como eu era o único membro alfabetizado, coube a mim examinar o livro. Aqui, ainda tenho o livro, por que você mesmo não o lê? Avise-me quando terminar, e continuarei.}{}{}{}{in -5232, lf3 1}
+{101}{Vou ler, obrigado.}{}{5}{}{0}{re +5}
+{102}{E:}{}{5}{}{0}{}
+{103}{Ah, tá bom. Valeu.}{}{-4}{}{0}{re +5}
+{104}{E:}{}{-4}{}{0}{}
+{105}{Ahem... Sim... Onde eu estava? Ah, sim, eu tinha acabado de ler o livro... Rapidamente analisamos o mapa desenhado dentro para determinar nossa distância do rubi. Ficava a vários dias de viagem do nosso acampamento. Tolos que éramos, partimos ao amanhecer em busca da gema.}{Ahem... Sim... Onde eu estava? Ah, sim, eu tinha acabado de ler o livro... Rapidamente analisamos o mapa desenhado dentro para determinar nossa distância do rubi. Ficava a vários dias de viagem do nosso acampamento. Tolos que éramos, partimos ao amanhecer em busca da gema.}{}{}{}{lf5 1}
+{106}{Sim...}{}{5}{}{110}{}
+{107}{E:}{}{5}{}{0}{}
+{108}{Hum hum...}{}{-4}{}{110}{}
+{109}{E:}{}{-4}{}{0}{}
+{110}{Ao nos aproximarmos do local, era como a carta descrevia. Os pelos de nossos pescoços se eriçaram e os sons da floresta cessaram. Dava para sentir a apreensão no ar... Então chegamos à clareira... e ao rubi. Era incrível. Nunca havia contemplado algo tão belo. Todos ficamos hipnotizados, sonhando com os prazeres que poderíamos desfrutar ao possuir tal tesouro.}{Ao nos aproximarmos do local, era como a carta descrevia. Os pelos de nossos pescoços se eriçaram e os sons da floresta cessaram. Dava para sentir a apreensão no ar... Então chegamos à clareira... e ao rubi. Era incrível. Nunca havia contemplado algo tão belo. Todos ficamos hipnotizados, sonhando com os prazeres que poderíamos desfrutar ao possuir tal tesouro.}{}{}{}{}
+{111}{Hum hum...}{}{5}{}{115}{}
+{112}{E:}{}{5}{}{0}{}
+{113}{Conte mais. Mais!}{}{-4}{}{115}{}
+{114}{E:}{}{-4}{}{0}{}
+{115}{Dois do nosso grupo correram de repente para pegar a joia, e todos os outros, exceto eu, os seguiram. Pois eu nunca participo de batalhas, minha força não está no combate. "Espere!" gritei. "Lembrem-se da fera!" Mas era tarde demais. Quando os dois homens passaram pela primeira pedra, uma criatura hedionda emergiu das profundezas. Meus companheiros sacaram suas armas, mas estavam claramente em desvantagem.}{Dois do nosso grupo correram de repente para pegar a joia, e todos os outros, exceto eu, os seguiram. Pois eu nunca participo de batalhas, minha força não está no combate. "Espere!" gritei. "Lembrem-se da fera!" Mas era tarde demais. Quando os dois homens passaram pela primeira pedra, uma criatura hedionda emergiu das profundezas. Meus companheiros sacaram suas armas, mas estavam claramente em desvantagem.}{}{}{}{}
+{116}{Oh meu Deus...}{}{5}{}{120}{}
+{117}{E:}{}{5}{}{0}{}
+{118}{Ah, não!}{}{-4}{}{120}{}
+{119}{E:}{}{-4}{}{0}{}
+{120}{Em horror, fiquei ali parado! Enquanto a luta se desenrolava, mais feras se materializaram para se juntar à refrega. Contei 7 feras naquele dia terrível, uma para cada uma das estranhas pedras que enchiam a clareira. Os gritos de morte dos meus companheiros foram rapidamente silenciados. E, em vez de se voltarem contra mim, como temia que fariam, as criaturas desapareceram de volta nas profundezas quando o último corpo caiu.}{Em horror, fiquei ali parado! Enquanto a luta se desenrolava, mais feras se materializaram para se juntar à refrega. Contei 7 feras naquele dia terrível, uma para cada uma das estranhas pedras que enchiam a clareira. Os gritos de morte dos meus companheiros foram rapidamente silenciados. E, em vez de se voltarem contra mim, como temia que fariam, as criaturas desapareceram de volta nas profundezas quando o último corpo caiu.}{}{}{}{}
+{121}{Continue. Por favor...}{}{5}{}{125}{}
+{122}{Que horrível!}{}{5}{}{125}{}
+{123}{Que terrível... E depois, o que aconteceu?}{}{-4}{}{125}{}
+{124}{E:}{}{1}{}{0}{}
+{125}{Cautelosamente, aproximei-me das pedras, mas não ousei passar por sua marca. Enquanto observava a cena macabra diante de mim, notei que havia um aviso esculpido em cada pedra. Dizia: "O Grande Rubi de K'alru foi encontrado. Ouça este aviso antes de se mover. Aquele que caminha sem fazer som passará pela morte sob o chão."}{Cautelosamente, aproximei-me das pedras, mas não ousei passar por sua marca. Enquanto observava a cena macabra diante de mim, notei que havia um aviso esculpido em cada pedra. Dizia: "The Great Ruby of K'alru is found. Heed this warning ere you move around. He who walks without a sound shall pass the death beneath the ground."}{}{}{}{}
+{126}{Se ao menos tivessem lido as pedras...}{}{5}{}{130}{}
+{127}{Que ironia...}{}{5}{}{0}{}
+{128}{Hum hum...}{}{-4}{}{130}{}
+{129}{E:}{}{-4}{}{0}{}
+{130}{Uma doença cresceu dentro de mim, pois eu sabia que, se meus companheiros tivessem apenas esperado, ainda estariam vivos, pois eu tinha a habilidade necessária para obter o rubi.    Mas, no rescaldo, enquanto o terror sacudia meus ossos, eu estava abalado demais pelo que havia testemunhado e me faltou a confiança para completar a tarefa.}{Uma doença cresceu dentro de mim, pois eu sabia que, se meus companheiros tivessem apenas esperado, ainda estariam vivos, pois eu tinha a habilidade necessária para obter o rubi.    Mas, no rescaldo, enquanto o terror sacudia meus ossos, eu estava abalado demais pelo que havia testemunhado e me faltou a confiança para completar a tarefa.}{}{}{}{}
+{131}{O que você fez?}{}{5}{}{135}{}
+{132}{Você foi embora?}{}{5}{}{135}{}
+{133}{O que cê fez?}{}{-4}{}{135}{}
+{134}{E:}{}{1}{}{0}{}
+{135}{Fugi da cena do massacre.    Vaguei sem rumo por um tempo, antes de fazer de Stillwater meu lar.    Nunca mais saí de lá.    Receio que meus dias de aventura tenham chegado ao fim.    No entanto, como diz o autor da carta, a joia e as feras ainda assombram meu sono.}{Fugi da cena do massacre.    Vaguei sem rumo por um tempo, antes de fazer de Stillwater meu lar.    Nunca mais saí de lá.    Receio que meus dias de aventura tenham chegado ao fim.    No entanto, como diz o autor da carta, a joia e as feras ainda assombram meu sono.}{}{}{}{}
+{136}{Então você não recuperou o rubi?}{}{5}{}{142}{}
+{137}{Então você nunca voltou?}{}{5}{}{142}{}
+{138}{E:}{}{5}{}{0}{}
+{139}{Cê num pegou o rubi?}{}{-4}{}{142}{}
+{140}{Cê num vortô, nunca?}{}{-4}{}{142}{}
+{141}{E:}{}{-4}{}{0}{}
+{142}{Nunca o fiz.    No entanto, ainda desejo o Grande Rubi de K'alru.    Como provavelmente deduziu, quero que você recupere a joia para mim.    Se conseguir realizar esse feito, pagarei 1500 moedas.    Uma grande quantia, mas acredito que o risco exige tal preço.    O que me diz?    Aceita essa tarefa para mim?}{Nunca o fiz.    No entanto, ainda desejo o Grande Rubi de K'alru.    Como provavelmente deduziu, quero que você recupere a joia para mim.    Se conseguir realizar esse feito, pagarei 1500 moedas.    Uma grande quantia, mas acredito que o risco exige tal preço.    O que me diz?    Aceita essa tarefa para mim?}{}{}{}{qu1109 1}
+{143}{Eu o recuperarei para você, Gildor!}{}{5}{}{151}{}
+{144}{Não tenho certeza.    Parece muito perigoso.    Vou pensar no assunto.}{}{5}{}{0}{}
+{145}{Não.    Se você não conseguiu, por que acha que eu conseguiria?}{}{5}{}{189}{}
+{146}{E:}{}{5}{}{0}{}
+{147}{Eu pego pra você!    Você treina.    É bom.}{}{-4}{}{151}{}
+{148}{Hã, eu num sei.    Parece difícil...    Eu preciso pensá.}{}{-4}{}{0}{}
+{149}{Não.    Cê num pegou, por que acha que eu pego?}{}{-4}{}{189}{}
+{150}{E:}{}{-4}{}{0}{}
+{151}{Muito bem!    Aqui, deixe-me ver seu mapa.    Vou mostrar a localização.}{Muito bem!    Aqui, deixe-me ver seu mapa.    Vou mostrar a localização.}{}{}{}{mm 39, qu1109 2}
+{152}{Partirei imediatamente.    Obrigado.}{}{5}{}{0}{}
+{153}{K:}{}{5}{}{57}{}
+{154}{E:}{}{5}{}{0}{}
+{155}{Eu vô agora.    Obrigado.}{}{-4}{}{0}{}
+{156}{K:}{}{-4}{}{57}{}
+{157}{E:}{}{-4}{}{0}{}
+{158}{Não se sinta mal por não conseguir obter o rubi.    Muitos falharam antes de você.    Que os deuses o abençoem em sua jornada @pcname@, e lembre-se, caso tente recuperar o rubi novamente e tenha sucesso, minha oferta de 1500 moedas ainda está de pé.}{Não se sinta mal por não conseguir obter o rubi.    Muitos falharam antes de você.    Que os deuses o abençoem em sua jornada @pcname@, e lembre-se, caso tente recuperar o rubi novamente e tenha sucesso, minha oferta de 1500 moedas ainda está de pé.}{}{}{}{}
+{159}{K:}{}{5}{}{57}{}
+{160}{A:}{}{1}{}{0}{}
+{161}{K:}{}{-4}{}{57}{}
+{162}{E:}{}{1}{}{0}{}
+{163}{Ah, muito bem feito!    Eu tinha grande esperança de que fosse capaz.    [resmunga] Já era hora de alguém ser!    Hum...    Por favor, deixe-me vê-lo...}{Ah, muito bem feito!    Eu tinha grande esperança de que fosse capaz.    Por favor, deixe-me vê-lo...}{}{}{}{}
+{164}{Aqui está.    Foi uma tarefa e tanto!}{}{5}{}{194}{re +5, in 5662}
+{165}{Aqui está.    Na verdade, achei bastante simples recuperá-lo...}{}{5}{}{194}{re -5, in 5662}
+{166}{Sabe, eu acabei gostando dela. Acho que prefiro ficar com ela...}{}{5}{}{}{co, fl 46}
+{167}{E:}{}{5}{}{0}{}
+{168}{Aqui está. Foi difícil de fazer!}{}{-4}{}{194}{re +5, in 5662}
+{169}{Aqui está. Foi fácil. Eu peguei, sem monstros...}{}{-4}{}{194}{re -5, in 5662}
+{170}{Hmm, eu gostei. Acho que vou ficar com a recom...}{}{-4}{}{}{co, fl 46}
+{171}{E:}{}{-4}{}{0}{}
+{172}{Silêncio! Você quer que eu termine a história ou não?}{Silêncio! Você quer que eu termine a história ou não?}{}{}{}{}
+{173}{Desculpe, por favor continue...}{}{5}{}{95}{re +5}
+{174}{E:}{}{5}{}{0}{}
+{175}{Hã, desculpe. Fale mais..}{}{-4}{}{95}{re +5}
+{176}{E:}{}{-4}{}{0}{}
+{177}{Humpf! Você realmente espera que eu me lembre onde parei? Agora vou ter que começar de novo. Preste atenção desta vez!}{Humpf! Você realmente espera que eu me lembre onde parei? Agora vou ter que começar de novo. Preste atenção desta vez!}{}{}{}{}
+{178}{Com certeza vou prestar.}{}{5}{}{78}{}
+{179}{Eu não tenho paciência! Deixa eu te matar e acabar com isso!}{}{5}{}{}{co, fl 46}
+{180}{E:}{}{5}{}{0}{}
+{181}{Hã, tá bom.}{}{-4}{}{78}{}
+{182}{Você fala demais! Eu te mato... vai ser melhor!}{}{-4}{}{}{co, fl 46}
+{183}{E:}{}{-4}{}{0}{}
+{184}{Com certeza você é impaciente, não é? Tente prestar atenção... você quer ouvir a história, não quer???}{Com certeza você é impaciente, não é? Tente prestar atenção... você quer ouvir a história, não quer???}{}{}{}{}
+{185}{Sim. Desculpe. Vou ouvir com atenção.}{}{5}{}{105}{}
+{186}{E:}{}{5}{}{0}{}
+{187}{Me desculpa. Vou escutar bem agora...}{}{-4}{}{105}{}
+{188}{E:}{}{-4}{}{0}{}
+{189}{Não se sinta mal por não querer tentar uma tarefa tão perigosa. Muitos morreram tentando completá-la, você provavelmente está mostrando um julgamento sábio. Que os deuses o abençoem em sua jornada @pcname@, e lembre-se, caso mude de ideia, minha oferta de 1500 moedas ainda está de pé.}{Não se sinta mal por não querer tentar uma tarefa tão perigosa. Muitos morreram tentando completá-la, você provavelmente está mostrando um julgamento sábio. Que os deuses o abençoem em sua jornada @pcname@, e lembre-se, caso mude de ideia, minha oferta de 1500 moedas ainda está de pé.}{}{}{}{}
+{190}{Pensando melhor... Eu vou pegá-lo. Tenho habilidade!}{}{5}{}{151}{}
+{191}{E:}{}{5}{}{0}{}
+{192}{Hmmm... Me pegar. Me bom o bastante!}{}{-4}{}{151}{}
+{193}{E:}{}{-4}{}{0}{}
+{194}{Oh! É tudo o que eu me lembrava! Você é realmente uma alma corajosa. [dá um momento para admirar a bela joia] Oh, sim. Perdoe minha distração... Você é realmente um grande aventureiro! Aqui... Aqui estão as 1500 moedas que prometi. Obrigado. Obrigado, @pcname@. Que os deuses o abençoem em sua jornada.}{Oh! É tudo o que eu me lembrava! Você é realmente uma alma corajosa. [dá um momento para admirar a bela joia] Oh, sim. Perdoe minha distração... Você é realmente um grande aventureiro! Aqui... Aqui estão as 1500 moedas que prometi. Obrigado. Obrigado, @pcname@. Que os deuses o abençoem em sua jornada.}{}{}{}{qu1109 4, $$1500}
+{195}{Obrigado, Gildor. Eu me despeço.}{}{5}{}{0}{}
+{196}{Obrigado, Gildor. Posso fazer uma pergunta?}{}{5}{}{57}{}
+{197}{Hmmm... Talvez eu vá pegar aquele rubi de volta agora...}{}{5}{}{}{co, fl 46}
+{198}{E:}{}{5}{}{0}{}
+{199}{Obrigadu, Gildoor. Adeus.}{}{-4}{}{0}{}
+{200}{Obrigadu, Gildoor. Me pergunta uma coisa?}{}{-4}{}{57}{}
+{201}{Heh heh, halfling burro. Me pegar rubi agora!... você morre!}{}{-4}{}{}{co, fl 46}
+{202}{E:}{}{-4}{}{0}{}
+{203}{[ele te examina minuciosamente, avaliando suas capacidades] Trabalho, é? Não acho que você esteja à altura da tarefa que eu teria para você. Não é uma tarefa simples e exigirá grande discrição para ser concluída. Você não tem cara de ladrão.}{[ele te examina minuciosamente, avaliando suas capacidades] Trabalho, é? Não acho que você esteja à altura da tarefa que eu teria para você. Não é uma tarefa simples e exigirá grande discrição para ser concluída. Você não tem cara de ladrão.}{}{}{}{}
+{204}{Você está certo, minhas habilidades não estão nessa área.}{}{5}{}{209}{}
+{205}{Talvez eu seja mais discreto do que pareço...}{}{5}{}{71}{}
+{206}{É, eu não sou bom nisso não.}{}{-4}{}{209}{}
+{207}{Eu talvez seja melhor do que você pensa.}{}{-4}{}{71}{}
+{208}{E:}{}{1}{}{0}{}
+{209}{Então, dar essa tarefa específica para você provavelmente o mataria. Algo que tenho certeza de que você não apreciaria. Sinto muito, mas não tenho trabalho para você. Adeus @pcname@.}{Então, dar essa tarefa específica para você provavelmente o mataria. Algo que tenho certeza de que você não apreciaria. Sinto muito, mas não tenho trabalho para você. Adeus @pcname@.}{}{}{}{}
+{210}{Posso te perguntar outra coisa, Gildor?}{}{5}{}{57}{}
+{211}{Espere! Fale-me da tarefa. Deixe-me julgar minhas próprias capacidades.}{}{5}{}{71}{}
+{212}{Posso perguntar mais?}{}{-4}{}{57}{}
+{213}{Não! Você me fala. Eu penso se consigo fazer. Fala!}{}{-4}{}{71}{}
+{214}{E:}{}{1}{}{0}{}
+

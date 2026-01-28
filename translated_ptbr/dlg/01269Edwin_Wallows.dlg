@@ -1,0 +1,145 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Posso perguntar quem é o senhor?}{}{5}{re 41, me 0}{44}{}
+{3}{Senhor! O que eu fiz para merecer tal tratamento?}{}{5}{re -40, me 0}{17}{}
+{6}{Saudações, Edwin Wallows. Posso falar com o senhor por um momento?}{}{5}{re 41, me 1}{51}{}
+{7}{Sr. Wallows! Por que está falando comigo dessa forma?}{}{5}{re -40, me 1}{17}{}
+{8}{Oi! Eu não muito esperto. Quem você?}{}{-4}{me 0}{44}{}
+{9}{Ei, Wallows! Posso lhe fazer algumas perguntas?}{}{-4}{me 1}{51}{}
+{10}{E:}{}{1}{me 1}{0}{}
+{17}{Sinto muito, senhor. Os sacerdotes de Vooriden são compassivos, mas só de olhar para o senhor me dá vontade de largar a batina! Vá embora!}{Sinto muito, senhora. Os sacerdotes de Vooriden são compassivos, mas só de olhar para a senhora me dá vontade de largar a batina! Vá embora!}{}{}{}{}
+{18}{Como disse? O senhor está certo dessa avaliação?}{}{5}{ch 16}{23}{re +15}
+{19}{Por favor, senhor... tenha piedade de um pobre miserável como eu...}{}{5}{}{27}{re +10}
+{20}{Não terei problemas em repreendê-lo, sacerdote...}{}{5}{}{35}{re -5}
+{21}{E:}{}{5}{}{0}{}
+{23}{[O sacerdote parece surpreso com suas palavras. Ele faz uma leve reverência.] Muito bem, senhor. Parece que até um sacerdote pode se enganar sobre a natureza de um homem. Por favor, perdoe-me...}{[O sacerdote parece surpreso com suas palavras. Ele faz uma leve reverência.] Muito bem, senhora. Parece que até um sacerdote pode se enganar sobre a natureza de uma mulher. Por favor, perdoe-me...}{}{}{}{}
+{24}{Vamos esquecer o que aconteceu, madame. Posso saber quem é a senhora?}{}{5}{me 0}{44}{}
+{25}{Está esquecido, Molly. Tem um momento?}{}{5}{me 1}{51}{}
+{27}{[O sacerdote passa a mão sobre o senhor, fazendo um sinal. Ele inclina levemente a cabeça.] O senhor tem razão, meu filho. Um sacerdote deveria ter mais paciência e compreensão. Farei o possível para ignorar seus defeitos...}{[O sacerdote passa a mão sobre a senhora, fazendo um sinal. Ele inclina levemente a cabeça.] A senhora tem razão, boa mulher. Um sacerdote deveria ter mais paciência e compreensão. Farei o possível para ignorar seus defeitos...}{}{}{}{}
+{28}{Obrigado. Posso perguntar quem é o senhor?}{}{5}{me 0}{44}{}
+{29}{O senhor é muito generoso, Sr. Wallows. Tem um momento?}{}{5}{me 1}{51}{}
+{35}{[O sacerdote dá um passo para trás, franzindo a testa.] Não recomendo que fale comigo dessa maneira. Posso ser um sacerdote, mas não hesitarei em derramar o sangue de um estrangeiro ignorante...}{[O sacerdote dá um passo para trás, franzindo a testa.] Não recomendo que fale comigo dessa maneira. Posso ser um sacerdote, mas não hesitarei em derramar o sangue de uma estrangeira ignorante...}{}{}{}{}
+{36}{Acho que não é necessário. Por favor, perdoe minhas palavras duras...}{}{5}{}{27}{re +10}
+{37}{Espero que tenha feito as pazes com seus deuses, sacerdote...}{}{5}{}{}{co, fl 40}
+{38}{E:}{}{5}{}{0}{}
+{40}{Sinto muito que as coisas tenham terminado dessa forma...}{Sinto muito que as coisas tenham terminado dessa forma...}{}{}{}{}
+{44}{Sou Edwin Wallows, um sacerdote da Ordem Halcyon aqui em Vooriden. Como posso ajudá-lo hoje?}{Sou Edwin Wallows, um sacerdote da Ordem Halcyon aqui em Vooriden. Como posso ajudá-la hoje?}{}{}{}{}
+{45}{Um prazer, Edwin. Tem um momento para conversar?}{}{5}{}{51}{}
+{48}{Oi! Posso lhe fazer perguntas?}{}{-4}{}{51}{}
+{51}{Claro...}{Claro...}{}{}{}{}
+{52}{Conte-me sobre este templo, Edwin...}{}{5}{}{66}{}
+{53}{Tenho algumas perguntas sobre sua religião...}{}{5}{lf1 1}{81}{}
+{54}{Talvez eu possa resolver o problema com seu altar}{}{5}{lf2 1, lf3 0, lf4 0}{148}{}
+{55}{Ainda não recuperei a pedra do altar...}{}{5}{lf3 1, lf4 0, ni 5621}{182}{}
+{56}{Voltei com a pedra do altar...}{}{5}{qa1151 1, in 5621, lf3 1, lf4 0}{185}{}
+{57}{Voltei com a pedra do altar...}{}{5}{qa1055 1, in 5621, lf3 1, lf4 0}{189}{}
+{58}{Que templo é este...?}{}{-4}{}{66}{}
+{59}{Eu faço umas perguntas sobre ree-li-jjun...?}{}{-4}{lf1 1}{81}{}
+{60}{Talvez eu ajude você com a pedra al-tur...}{}{-4}{lf2 1, lf3 0, lf4 0}{148}{}
+{61}{Ainda estou procurando pela pedra al-tur...}{}{-4}{lf3 1, lf4 0, ni 5621}{182}{}
+{62}{Consegui a pedra al-tur!}{}{-4}{qa1151 1, in 5621, lf3 1, lf4 0}{185}{}
+{63}{Consegui a pedra al-tur!}{}{-4}{qa1055 1, in 5621, lf3 1, lf4 0}{189}{}
+{64}{E:}{}{1}{}{0}{}
+{65}{}{}{}{}{}{}
+{66}{Este templo aqui é antigo, meu amigo. É dedicado ao deus Halcyon. Veja, há muito tempo existiam muitos deuses, e cada deus representava uma virtude específica. Um homem escolhia seus deuses com cuidado... a religião era algo muito sério...}{A Ordem Halcyon é antiga, meu amigo. Há muito tempo existiam muitos deuses, e cada deus representava uma virtude específica. Um homem escolhia seus deuses com cuidado... a religião era algo muito sério...}{}{}{}{lf1 1}
+{67}{[Ouvir.]}{}{1}{}{69}{}
+{69}{Todos os deuses foram criados pelo Pai de Todos, que reinava sobre eles e garantia que nenhum fosse mais importante ou mais poderoso que os outros. O equilíbrio entre os deuses era bem mantido, e nenhuma religião era mais poderosa que outra...}{Todos os deuses foram criados pelo Pai de Todos, que reinava sobre eles e garantia que nenhum fosse mais importante ou mais poderoso que os outros. O equilíbrio entre os deuses era bem mantido, e nenhuma religião era mais poderosa que outra...}{}{}{}{}
+{70}{O que aconteceu?}{}{5}{}{73}{}
+{71}{O que aconteceu?}{}{-4}{}{73}{}
+{73}{Ah, suponho que seja apenas o jeito das coisas mudarem. A religião Panarii surgiu, falando de Nasrudin e sua sabedoria. Sua religião era muito mais fácil e muito mais tolerante. Os deuses antigos não são assim. E embora sua voz seja fraca, ainda é possível ouvi-los... e eles ainda ouvem aqueles que os invocam. Nós, da Ordem Halcyon, ainda adoramos o deus Halcyon...}{Ah, suponho que seja apenas o jeito das coisas mudarem. A religião Panarii surgiu, falando de Nasrudin e sua sabedoria. Sua religião era muito mais fácil e muito mais tolerante. Os deuses antigos não são assim. E embora sua voz seja fraca, ainda é possível ouvi-los... e eles ainda ouvem aqueles que os invocam. Nós, da Ordem Halcyon, ainda adoramos o deus Halcyon...}{}{}{}{}
+{74}{Tenho algumas perguntas sobre sua religião...}{}{5}{}{81}{}
+{75}{Eu faço umas perguntas sobre ree-li-jjun...?}{}{-4}{}{81}{}
+{78}{K:}{}{1}{}{51}{}
+{79}{E:}{}{1}{}{0}{}
+{81}{Claro. O que posso lhe contar sobre nossas crenças?}{Claro. O que posso lhe contar sobre nossas crenças?}{}{}{}{}
+{82}{Fale-me sobre os deuses antigos...}{}{5}{}{99}{}
+{83}{Fale-me sobre o deus Halcyon...}{}{5}{}{106}{}
+{84}{Posso fazer uma oferenda ao deus Halcyon?}{}{5}{lf4 0}{115}{}
+{85}{Posso fazer uma oferenda ao deus Halcyon?}{}{5}{lf4 1}{94}{}
+{86}{Mais algumas perguntas gerais...}{}{5}{}{51}{}
+{87}{Fala-me dos deuses antigos!}{}{-4}{}{99}{}
+{88}{Fala-me do seu deus!}{}{-4}{}{106}{}
+{89}{Posso fazer uma aw-fur-ing para o seu deus?}{}{-4}{lf4 0}{115}{}
+{90}{Posso fazer uma aw-fur-ing para o seu deus?}{}{-4}{lf4 1}{94}{}
+{91}{Outras perguntas!}{}{-4}{}{51}{}
+{92}{E:}{}{1}{}{0}{}
+{94}{Sim... se você for até o altar, ele lhe dirá o que precisa fazer...}{Sim... se você for até o altar, ele lhe dirá o que precisa fazer...}{}{}{}{}
+{95}{Obrigado. Mais algumas perguntas...}{}{5}{}{51}{}
+{96}{Certo! Tenho mais perguntas...}{}{-4}{}{51}{}
+{97}{E:}{}{1}{}{0}{}
+{99}{Os deuses antigos? Havia muitos deles, embora os nomes da maioria tenham se perdido na história. Conheço alguns... Shakar era o deus da guerra, Geshtianna a deusa do Amor, Bolo o deus dos ladrões. Poucas pessoas sabem algo sobre essas coisas, mas ouvi dizer que há um homem na universidade de Tarant que estuda os deuses antigos... ele pode saber mais...}{Os deuses antigos? Havia muitos deles, embora os nomes da maioria tenham se perdido na história. Conheço alguns... Shakar era o deus da guerra, Geshtianna a deusa do Amor, Bolo o deus dos ladrões. Poucas pessoas sabem algo sobre essas coisas, mas ouvi dizer que há um homem na universidade de Tarant que estuda os deuses antigos... ele pode saber mais...}{}{}{}{}
+{100}{E quanto ao deus Halcyon?}{}{5}{}{106}{}
+{101}{Mais algumas perguntas sobre sua religião...}{}{5}{}{81}{}
+{102}{E o seu deus?}{}{-4}{}{106}{}
+{103}{Vou te fazer perguntas sobre ree-li-jjun...?}{}{-4}{}{81}{}
+{104}{E:}{}{1}{}{0}{}
+{106}{O deus Halcyon é o deus da Verdade. Nós o veneramos olhando para nós mesmos e descobrindo a verdade interior. Removemos tudo o que está em conflito com essa verdade interna. A verdade é diferente para cada homem... Halcyon apenas pede que cada homem seja honesto consigo mesmo ao buscá-la. Então, e somente então, o Halcyon interior de um homem pode emergir. [Ele inclina a cabeça, em respeito ao seu deus.]}{O deus Halcyon é o deus da Verdade. Nós o veneramos olhando para nós mesmos e descobrindo a verdade interior. Removemos tudo o que está em conflito com essa verdade interna. A verdade é diferente para cada homem... Halcyon apenas pede que cada homem seja honesto consigo mesmo ao buscá-la. Então, e somente então, o Halcyon interior de um homem pode emergir. [Ele inclina a cabeça, em respeito ao seu deus.]}{}{}{}{}
+{107}{Posso fazer uma oferenda a Halcyon?}{}{5}{lf4 0}{115}{}
+{108}{Posso fazer uma oferenda a Halcyon?}{}{5}{lf4 1}{}{}
+{109}{Mais algumas perguntas sobre sua religião...}{}{5}{}{81}{}
+{110}{Posso fazer uma aw-fur-ing pro seu deus?}{}{-4}{lf4 0}{115}{}
+{111}{Posso fazer uma aw-fur-ing pro seu deus?}{}{-4}{lf4 1}{}{}
+{112}{Vou te fazer perguntas sobre ree-li-jjun...?}{}{-4}{}{81}{}
+{113}{E:}{}{1}{}{0}{}
+{115}{Não... sinto muito, mas ninguém fez uma oferenda verdadeira a Halcyon aqui há quase 200 anos...}{Não... sinto muito, mas ninguém fez uma oferenda verdadeira a Halcyon aqui há quase 200 anos...}{}{}{}{}
+{116}{Por quê?}{}{5}{}{119}{}
+{117}{Hã... por quê?}{}{-4}{}{119}{}
+{119}{Bem, dois séculos atrás havia um pirata maligno chamado Stringy Pete. Ele era um verdadeiro demônio... não há ato de malícia, devassidão ou irreverência que ele não tenha cometido enquanto navegava pelos mares de Arcanum. E então, um dia, ele ancorou a oeste daqui e encontrou nossa pequena vila...}{Bem, dois séculos atrás havia um pirata maligno chamado Stringy Pete. Ele era um verdadeiro demônio... não há ato de malícia, devassidão ou irreverência que ele não tenha cometido enquanto navegava pelos mares de Arcanum. E então, um dia, ele ancorou a oeste daqui e encontrou nossa pequena vila...}{}{}{}{}
+{120}{[Ouvir.]}{}{1}{qu1055 0}{124}{}
+{121}{Na verdade, é por isso que estou aqui...}{}{5}{qa1055 1}{169}{}
+{122}{Hã... foi por isso que eu vim aqui...}{}{-4}{qa1055 1}{169}{}
+{124}{Ele e seus homens destruíram tudo na cidade, saqueando o que queriam e queimando o resto. Quando encontraram o templo... bem, basta dizer que o velho pirata fez coisas com nosso altar que nunca mais precisam ser mencionadas. Não houve oferenda feita naquele altar desde então...}{Ele e seus homens destruíram tudo na cidade, saqueando o que queriam e queimando o resto. Quando encontraram o templo... bem, basta dizer que o velho pirata fez coisas com nosso altar que nunca mais precisam ser mencionadas. Não houve oferenda feita naquele altar desde então...}{}{}{}{}
+{125}{Entendo. Por que vocês não conseguem um novo altar?}{}{5}{}{131}{}
+{126}{Mais algumas perguntas sobre sua religião...}{}{5}{}{81}{}
+{127}{Por que vocês não arrumam um altur novo?}{}{-4}{}{131}{}
+{128}{Vou te fazer perguntas sobre ree-li-jjun...?}{}{-4}{}{81}{}
+{129}{E:}{}{1}{}{0}{}
+{131}{Não é tão fácil quanto você pensa. Veja bem, há regras relacionadas à construção de altares...}{Não é tão fácil quanto você pensa. Veja bem, há regras relacionadas à construção de altares...}{}{}{}{}
+{132}{O que são eles?}{}{5}{}{135}{}
+{133}{Hã... que regras?}{}{-4}{}{135}{}
+{135}{Bem, o importante é que a pedra venha da antiga pedreira anã de Torin. O caminho até lá é perigoso, e a própria pedreira está infestada de monstros e todo tipo de mal. Somos gente simples aqui... não há ninguém que sobreviveria à viagem...}{Bem, o importante é que a pedra venha da antiga pedreira anã de Torin. O caminho até lá é perigoso, e a própria pedreira está infestada de monstros e todo tipo de mal. Somos gente simples aqui... não há ninguém que sobreviveria à viagem...}{}{}{}{}
+{136}{Entendo. Talvez eu possa ajudar?}{}{5}{}{141}{}
+{137}{Mais algumas perguntas sobre sua religião...}{}{5}{}{81}{}
+{138}{Talvez eu pudesse ir?}{}{-4}{}{141}{}
+{139}{Vou te fazer umas perguntas sobre ree-li-jjun...?}{}{-4}{}{81}{}
+{140}{E:}{}{1}{}{0}{}
+{141}{Hmmm. Talvez você consiga. A pedra que precisará recuperar será grande e pesada. A menos que seja muito forte, recomendo que tente encontrar Murgo... ele é um meio-ogro que trabalha por aqui e pode te ajudar...}{Hmmm. Talvez você consiga. A pedra que precisará recuperar será grande e pesada. A menos que seja muito forte, recomendo que tente encontrar Murgo... ele é um meio-ogro que trabalha por aqui e pode te ajudar...}{}{}{}{}
+{142}{Onde fica a Pedreira de Torin?}{}{5}{qa1055 1, ni 5621}{157}{}
+{143}{Onde fica a Pedreira To-r-rin Kw-ar-ee?}{}{-4}{qa1055 1, ni 5621}{157}{}
+{144}{Onde fica a Pedreira de Torin?}{}{5}{qu1055 0, ni 5621}{148}{}
+{145}{Onde fica a Pedreira To-r-rin Kw-ar-ee?}{}{-4}{qu1055 0, ni 5621}{148}{}
+{146}{Por acaso tenho uma pedra aqui que pode servir...}{}{5}{qu1055 0, in 5621}{185}{}
+{147}{Espere! Eu já tenho uma!}{}{-4}{qu1055 0, in 5621}{185}{}
+{148}{A Pedreira de Torin fica a oeste daqui... perto da base das Montanhas Stonewall. [Ele aponta para um lugar no seu mapa.] Você deve conseguir encontrar uma pedra adequada por lá. Somos gente pobre aqui... não posso lhe oferecer nada além de nossa gratidão...}{A Pedreira de Torin fica a oeste daqui... perto da base das Montanhas Stonewall. [Ele aponta para um lugar no seu mapa.] Você deve conseguir encontrar uma pedra adequada por lá. Somos gente pobre aqui... não posso lhe oferecer nada além de nossa gratidão...}{}{}{}{mm 28, qu1151 1, lf2 1}
+{149}{Por acaso tenho uma pedra aqui que pode servir...}{}{5}{qu1055 0, in 5621}{185}{}
+{150}{Espere! Eu já tenho uma!}{}{-4}{qu1055 0, in 5621}{185}{}
+{151}{Não pediria mais nada. Eu o farei...}{}{5}{}{166}{qu1151 2, lf3 1}
+{152}{Tá bom! Eu faço!}{}{-4}{}{166}{qu1151 2, lf3 1}
+{153}{Vou pensar nisso. Mais algumas perguntas...}{}{5}{}{51}{}
+{154}{Talvez. Tenho mais perguntas!}{}{-4}{}{51}{}
+{155}{E:}{}{1}{}{0}{}
+{157}{A Pedreira de Torin fica a oeste daqui... perto da base das Montanhas Stonewall. [Ele aponta para um lugar no seu mapa.] Você deve conseguir encontrar uma pedra adequada por lá. Somos gente pobre aqui... não posso lhe oferecer nada além de nossa gratidão...}{A Pedreira de Torin fica a oeste daqui... perto da base das Montanhas Stonewall. [Ele aponta para um lugar no seu mapa.] Você deve conseguir encontrar uma pedra adequada por lá. Somos gente pobre aqui... não posso lhe oferecer nada além de nossa gratidão...}{}{}{}{mm 28, lf2 1}
+{158}{Por acaso tenho uma pedra aqui que pode servir...}{}{5}{qa1055 1, in 5621}{189}{}
+{159}{Espere! Eu já tenho uma!}{}{-4}{qa1055 1, in 5621}{189}{}
+{160}{Não pediria mais nada. Eu o farei...}{}{5}{}{166}{lf3 1}
+{161}{Tá bom! Eu faço!}{}{-4}{}{166}{lf3 1}
+{162}{Vou pensar nisso. Mais algumas perguntas...}{}{5}{}{51}{}
+{163}{Talvez. Tenho mais perguntas!}{}{-4}{}{51}{}
+{164}{E:}{}{1}{}{0}{}
+{166}{Muito obrigado pela sua ajuda! Certifique-se de encontrar Murgo se quiser a ajuda dele. [Ele faz um gesto sobre você, traçando um sinal.] Desejo-lhe sorte, e que a bênção de Halcyon esteja com você...}{Muito obrigado pela sua ajuda! Certifique-se de encontrar Murgo se quiser a ajuda dele. [Ele faz um gesto sobre você, traçando um sinal.] Desejo-lhe sorte, e que a bênção de Halcyon esteja com você...}{}{}{}{gf2434 1}
+{167}{E:}{}{1}{}{0}{}
+{169}{O que você quer dizer? Como poderia saber sobre nosso altar?}{O que você quer dizer? Como poderia saber sobre nosso altar?}{}{}{}{}
+{170}{É uma LONGA história, mas... [Conte-lhe a história.]}{}{5}{}{173}{}
+{171}{Hã... [Conte-lhe a história.]}{}{-4}{}{173}{}
+{173}{Bem. Devo dizer que nunca ouvi nada parecido em toda a minha vida. O fantasma do próprio Stringy Pete, tentando corrigir os erros que cometeu...}{Bem. Devo dizer que nunca ouvi nada parecido em toda a minha vida. O fantasma do próprio Stringy Pete, tentando corrigir os erros que cometeu...}{}{}{}{}
+{174}{Eu mesmo estou um pouco pasmo...}{}{5}{}{177}{}
+{175}{Estranho, né?}{}{-4}{}{177}{}
+{177}{Então... você está aqui para consertar o altar?}{Então... você está aqui para consertar o altar?}{}{}{}{}
+{178}{Sim... o que preciso fazer?}{}{5}{}{131}{}
+{179}{É! O que preciso fazer?}{}{-4}{}{131}{}
+{182}{Entendo. Desejo-lhe boa sorte em sua busca...}{Entendo. Desejo-lhe boa sorte em sua busca...}{}{}{}{}
+{183}{E:}{}{1}{}{0}{}
+{185}{Você conseguiu! Isso é maravilhoso! Aqui... deixe-me pegar... [Ele o faz.] Uau! Isso é pesado! Vamos consertar este altar em um instante! Muito obrigado! Que Halcyon sempre ilumine seu caminho e lhe mostre a verdade que nos aguarda...}{Você conseguiu! Isso é maravilhoso! Aqui... deixe-me pegar... [Ele o faz.] Uau! Isso é pesado! Muito obrigado! Que Halcyon sempre ilumine seu caminho e lhe mostre a verdade que nos aguarda...}{}{}{}{gf2749 1, in 5621, qu1151 4, lf4 1, gf2535 1, fp}
+{186}{E:}{}{1}{}{-2}{}
+{189}{Você conseguiu! Isso é maravilhoso! Aqui... deixe-me pegar... [Ele o faz.] Uau! Isso é pesado! Vamos consertar este altar em um instante! Muito obrigado! Que Halcyon sempre ilumine seu caminho e lhe mostre a verdade que nos aguarda...}{Você conseguiu! Isso é maravilhoso! Aqui... deixe-me pegar... [Ele o faz.] Uau! Isso é pesado! Muito obrigado! Que Halcyon sempre ilumine seu caminho e lhe mostre a verdade que nos aguarda...}{}{}{}{in 5621, lf4 1, gf2535 1, qu1055 4}
+{190}{E:}{}{1}{}{-2}{}
+

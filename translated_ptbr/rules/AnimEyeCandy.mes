@@ -1,0 +1,61 @@
+//
+// Anim EyeCandy Effect List:
+//
+
+
+
+// WARNING: NOTE: Palette numbers are 1-4 instead of 0-3!
+
+
+// Each line consists of a sequence of descriptor fields.  These are:
+// Art: -- The Art # from the eyecandy.mes message file corresponding to this art
+// Palette: -- Which of the 4 palettes (currently 1-4, not 0-3) to use
+// Scale: -- What scale (25%-200%) to display the art at -- NOT CURRENTLY WORKING
+// Blend: -- Which of the various blending functions to use -- NOT CURRENTLY WORKING
+// Sound: -- The Sound #.  This is the same as the number which is prepended to the
+// .snd file in the sounds folder.
+// Flags: -- These specify various extra things:
+		// overlay_f -- the art is a foreground overlay
+		// overlay_b -- the art is a background overlay
+		// overlay_fb -- the art has both foreground and background overlays
+		// underlay -- the art is an underlay (flat under object)
+		// animates -- the art should animate once
+		// anim_forever -- the art should continuously loop animating
+// Light: -- the art # from the art\light\light.mes file
+// Light Color: (red @ green @ blue)
+
+
+
+
+// Normal Blood Splotch
+{0}{Art: 1, Palette: 1, Scale: 100%, Blend: None, Flags: overlay_f | animates}
+
+// Poison Blood Splotch
+{1}{Art: 360, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates}
+
+// Electrical Blood Splotch
+{2}{Art: 358, Palette: 1, Scale: 100%, Blend: Add, Sound: 24105, Flags: overlay_f | animates}
+
+// Fire Blood Splotch
+{3}{Art: 359, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates}
+
+// Fatigue Blood Splotch
+{4}{Art: 1, Palette: 1, Scale: 100%, Blend: None, Flags: overlay_f | animates}
+
+// Critical Splotch
+{5}{Art: 2, Palette: 1, Scale: 100%, Blend: None, Flags: overlay_f | animates}
+
+// Normal Blood Splotch for Undead
+{6}{Art: 361, Palette: 1, Scale: 100%, Blend: None, Flags: overlay_f | animates}
+
+// Normal Blood Splotch for STONED critters
+{7}{Art: 74, Palette: 1, Scale: 100%, Blend: None, Flags: overlay_f | animates}
+
+// Normal Blood Splotch Scaled X2
+{8}{Art: 429, Palette: 1, Scale: 100%, Blend: None, Flags: overlay_f | animates}
+
+// Normal Blood Splotch Scaled X3
+{9}{Art: 430, Palette: 1, Scale: 100%, Blend: None, Flags: overlay_f | animates}
+
+// Normal Blood Splotch Scaled X4
+{10}{Art: 431, Palette: 1, Scale: 100%, Blend: None, Flags: overlay_f | animates}

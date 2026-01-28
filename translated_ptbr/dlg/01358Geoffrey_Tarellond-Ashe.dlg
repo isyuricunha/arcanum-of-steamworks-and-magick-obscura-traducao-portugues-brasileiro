@@ -1,0 +1,259 @@
+{1}{G:}{G:}{}{1}{}{}
+{2}{Olá, senhor. Posso saber seu nome?}{}{5}{lf1 0, re 41}{27}{lf1 1}
+{3}{Saudações, Geoffrey. Será que poderia tomar um momento do seu tempo?}{}{5}{lf1 1, re 41}{85}{}
+{4}{Senhor! Por que me fala dessa maneira?}{}{5}{lf1 0, re -40}{11}{lf1 1}
+{5}{Geoffrey? O que o deixou de tão mau humor?}{}{5}{lf1 1, re -40}{11}{}
+{7}{Oi! Hã... quem é você?}{}{-4}{lf1 0}{27}{lf1 1}
+{8}{Oi, Jeffey! Você fala comigo...?}{}{-4}{lf1 1}{}{fl 21}
+{9}{E:}{}{1}{}{0}{}
+{11}{O senhor está tendo o efeito mais desagradável sobre meus sentidos. Não posso dizer que já tenha visto algo parecido. Repulsivo, para dizer o mínimo...}{A senhora está tendo o efeito mais desagradável sobre meus sentidos. Não posso dizer que já tenha visto algo parecido. Repulsiva, para dizer o mínimo...}{}{2}{}{}
+{12}{Eu esperaria que alguém do seu calibre fosse um pouco mais mente aberta...}{}{5}{}{23}{re +10}
+{13}{Seu rosto mostrará qualidades semelhantes quando eu terminar com ele...}{}{5}{}{16}{re -5}
+{14}{E:}{}{5}{}{0}{}
+{16}{[Ele sorri, lentamente.] Deseja testar meu poder, forasteiro? Eu não recomendaria...}{[Ele sorri, lentamente.] Deseja testar meu poder, forasteiro? Eu não recomendaria...}{}{3}{}{}
+{17}{Talvez haja algum meio-termo aqui...}{}{5}{}{23}{re +10}
+{18}{Já testei sua covardia, e você passou brilhantemente...}{}{5}{}{}{co, fl 21}
+{19}{E:}{}{5}{}{0}{}
+{21}{Que desperdício... do meu tempo. Adeus...}{Que desperdício... do meu tempo. Adeus...}{}{4}{}{}
+{23}{[O homem lhe lança um olhar arrogante, depois ri, fracamente.] Sim... prefiro não amarrotar minhas vestes por assuntos tão triviais. Suponho que posso relevar seus defeitos desta vez...}{[O homem lhe lança um olhar arrogante, depois ri, fracamente.] Sim... prefiro não amarrotar minhas vestes por assuntos tão triviais. Suponho que posso relevar seus defeitos desta vez...}{}{5}{}{}
+{24}{E eu farei o mesmo. Posso perguntar quem é você?}{}{5}{me 0}{27}{re +5}
+{25}{Sim, eu sei, Geoffrey. Tem um momento...?}{}{5}{me 1}{}{}
+{26}{E:}{}{5}{}{0}{}
+{27}{Meu nome é Geoffrey Tarrellond-Ashe. E quem, posso perguntar, é você?}{Meu nome é Geoffrey Tarrellond-Ashe. E quem, posso perguntar, é você?}{}{6}{}{lf1 1}
+{28}{Eu sou @PCNAME@. O que está fazendo aqui fora?}{}{5}{pa -6591}{35}{}
+{29}{Eu sou @PCNAME@. O que está fazendo aqui fora?}{}{5}{pa 6591}{-36}{}
+{30}{E:}{}{5}{}{0}{}
+{31}{Eu @PCNAME@! O que você tá fazendo aqui fora?}{}{-4}{pa -6591}{35}{}
+{32}{Eu @PCNAME@! O que você tá fazendo aqui fora?}{}{-4}{pa 6591}{-36}{}
+{33}{E:}{}{-4}{}{0}{}
+{35}{Estou cuidando dos meus próprios assuntos, é o que estou fazendo. [Ele revira os olhos para você.] Juro... os modos da plebe...}{Estou cuidando dos meus próprios assuntos, é o que estou fazendo. [Ele revira os olhos para você.] Juro... os modos da plebe...}{}{7}{}{}
+{36}{Desculpe? Talvez eu não tenha ouvido corretamente...}{}{5}{}{40}{re -5}
+{37}{Que engraçado. Quase pensei que tivesse senso de humor...}{}{5}{}{46}{re +5}
+{38}{Eu não gosto das suas palavras idiotas. Acho que vou te matar agora...}{}{-4}{}{}{co, fl 21}
+{39}{E:}{}{-4}{}{0}{}
+{40}{[Ele se vira diretamente para você.] Acho que me ouviu muito bem, meu bom homem. Agora, a menos que planeje se tornar menos irritante, sugiro que vá embora. Sério, não tenho tempo para suas insignificâncias...}{[Ele se vira diretamente para você.] Acho que me ouviu muito bem, madame. Agora, a menos que planeje se tornar menos irritante, sugiro que vá embora. Sério, não tenho tempo para suas insignificâncias...}{}{8}{}{}
+{41}{Essa é uma maneira eloquente de dizer que não tem propósito aqui...?}{}{5}{}{46}{re +5}
+{42}{Acho que já aguentei o suficiente de sua postura, tolo. Agora você vai pagar.}{}{5}{}{}{co, fl 21}
+{46}{[Ele ri, de coração.] Talvez você não seja tão ignorante e insosso quanto parece, forasteiro. Pelo menos tem capacidade cerebral para conceber uma resposta divertida. Bem feito... você não teve a criação bárbara que eu esperava.}{[Ele ri, de coração.] Talvez você não seja tão ignorante e insosso quanto parece, forasteiro. Pelo menos tem capacidade cerebral para conceber uma resposta divertida. Bem feito... você não teve a criação bárbara que eu esperava.}{}{9}{}{}
+{47}{E qual é o SEU histórico, Geoffrey...?}{}{5}{}{50}{}
+{48}{E:}{}{5}{}{0}{}
+{50}{O meu? Ah, o de sempre... criado em Caladon, estudado em Tarant, verões na costa de Cattan. Sou dos Falsburg Tarrelond-Ashes, se é que conhece esse tipo de coisa. Passei alguns anos em Tulla, entre os velhos magos... um bando de velhos chatos, aqueles velhotes...}{O meu? Ah, o de sempre... criado em Caladon, estudado em Tarant, verões na costa de Cattan. Sou dos Falsburg Tarrelond-Ashes, se é que conhece esse tipo de coisa. Passei alguns anos em Tulla, entre os velhos magos... um bando de velhos chatos, aqueles velhotes...}{}{10}{}{}
+{51}{Entendo. Em qual faculdade de magia estudou?}{}{5}{}{53}{}
+{53}{Ah... mexi um pouco com as artes necromânticas, principalmente do lado mais sombrio... um pouco disso e daquilo. Tenho um trabalho me esperando em Tarant com um dos novos consórcios de magos, se algum dia resolver ir para lá...}{Ah... mexi um pouco com as artes necromânticas, principalmente do lado mais sombrio... um pouco disso e daquilo. Tenho um trabalho me esperando em Tarant com um dos novos consórcios de magos, se algum dia resolver ir para lá...}{}{11}{}{}
+{54}{Interessante. Então o que está fazendo AQUI?}{}{5}{}{57}{}
+{55}{E:}{}{5}{}{0}{}
+{57}{Não ouviu? Ashbury está com um problema no cemitério. Parece que têm zumbis brotando do chão toda noite, e ninguém sabe por quê. Eu só estava de passagem a caminho de Caladon e achei que poderia investigar o assunto...}{Não ouviu? Ashbury está com um problema no cemitério. Parece que têm zumbis brotando do chão toda noite, e ninguém sabe por quê. Eu só estava de passagem a caminho de Caladon e achei que poderia investigar o assunto...}{}{12}{}{lf2 1}
+{58}{O que acha que é o problema...?}{}{5}{}{60}{}
+{60}{[Ele se inclina na sua direção.] Bem, só entre nós, há um indivíduo bastante famoso enterrado aqui no cemitério de Ashbury. Um sujeito chamado Malachi Rench, que foi um necromante e tanto em sua época... escreveu alguns textos polêmicos, esse tipo de coisa...}{[Ele se inclina na sua direção.] Bem, só entre nós, há um indivíduo bastante famoso enterrado aqui no cemitério de Ashbury. Um sujeito chamado Malachi Rench, que foi um necromante e tanto em sua época... escreveu alguns textos polêmicos, esse tipo de coisa...}{}{13}{}{}
+{61}{Mas se ele está morto...?}{}{5}{}{63}{}
+{63}{Sim, sim... já chego lá. Acho que o velho foi enterrado com algo... algo poderoso, e seja lá o que for, finalmente escapou e agora todo João e José morto desta cidade está voltando para o jantar! Hah! Uma história e tanto, se é do seu gosto...}{Sim, sim... já chego lá. Acho que o velho foi enterrado com algo... algo poderoso, e seja lá o que for, finalmente escapou e agora todo João e José morto desta cidade está voltando para o jantar! Hah! Uma história e tanto, se é do seu gosto...}{}{14}{}{}
+{64}{E então?}{}{5}{}{68}{}
+{68}{E então...? E então quero seja lá o que diabos estiver lá embaixo! E pretendo descobrir, assim que conseguir dar um jeito nesses zumbis malditos...}{E então...? E então quero seja lá o que diabos estiver lá embaixo! E pretendo descobrir, assim que conseguir dar um jeito nesses zumbis malditos...}{}{15}{}{}
+{69}{Hmmm. Talvez eu possa ajudar?}{}{5}{}{74}{}
+{70}{Sim... essa é uma situação complicada. Boa sorte e tenha um bom dia...}{}{5}{}{0}{}
+{71}{Sinto informar, mas eu já tenho isso aqui, meu caro. É uma gema...}{}{5}{in 5637}{123}{}
+{74}{Sim... [Ele o examina.] Sim, talvez você possa ser útil, afinal. Estou disposto a oferecer 500 peças de ouro por seja lá o que estiver erguendo esses zumbis...}{Sim... [Ele o examina.] Sim, talvez você possa ser útil, afinal. Estou disposto a oferecer 500 peças de ouro por seja lá o que estiver erguendo esses zumbis...}{}{16}{}{qu1075 1}
+{75}{Feito. Voltarei quando encontrar.}{}{5}{}{0}{qu1075 2}
+{76}{Hmmm. Talvez possamos trabalhar juntos nisso?}{}{5}{}{78}{jo 0 81}
+{77}{Talvez. Tenha um bom dia...}{}{5}{}{0}{}
+{78}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{17}{}{}
+{79}{Ainda aceito sua proposta. Voltarei quando encontrar o objeto...}{}{5}{}{0}{qu1075 2}
+{80}{Vou considerar sua proposta. Tenha um bom dia por enquanto...}{}{5}{}{0}{}
+{81}{Excelente. Vamos ao trabalho, então.}{Excelente. Vamos ao trabalho, então.}{}{18}{}{qu1075 2}
+{82}{E:}{}{1}{}{0}{}
+{85}{Sim? O que é?}{Sim? O que é?}{}{19}{}{}
+{86}{Conte-me sobre seu passado, Geoffrey...}{}{5}{ni 5637}{50}{}
+{87}{Por que você está parado aqui perto do cemitério?}{}{5}{lf2 1}{57}{}
+{88}{Gostaria de alguma ajuda para resolver o problema aqui?}{}{5}{qu1075 1, lf2 1, ni 5637}{74}{}
+{89}{Encontrei o que estava debaixo do cemitério, Geoffrey...}{}{5}{lf2 1, in 5637}{123}{}
+{90}{E:}{}{5}{}{0}{}
+{93}{Excelente! Parece que escolhi um companheiro competente, afinal. Agora, se me entregar a gema, eu lhe darei seu dinheiro...}{Excelente! Parece que escolhi um companheiro competente, afinal. Agora, se me entregar a gema, eu lhe darei seu dinheiro...}{}{20}{}{}
+{94}{Claro... aqui está...}{}{5}{}{99}{in 5637, $$500, qu1075 4, gf2142 1}
+{95}{Espere... deixe-me dar uma olhada primeiro...}{}{5}{}{109}{re -5}
+{96}{Hmmm. Acho que vou ficar com ela...}{}{5}{}{109}{re -5}
+{99}{[Ele lhe entrega o dinheiro, virando a gema nas mãos.] Muito obrigado. Tenho certeza de que isso será útil. Olhe... talvez devêssemos continuar juntos? Você é bem tolerável, depois que um sujeito passa a conhecê-lo...}{[Ele lhe entrega o dinheiro, virando a gema nas mãos.] Muito obrigado. Tenho certeza de que isso será útil. Olhe... talvez devêssemos continuar juntos? Você é bem tolerável, depois que um sujeito passa a conhecê-lo...}{}{21}{}{}
+{100}{Claro, Geoffrey. Acho que posso aturar você por mais um tempo...}{}{5}{pa -6591}{}{fl 107}
+{102}{Claro, Geoffrey. Acho que posso aturar você por mais um tempo...}{}{5}{pa 6591}{-18}{}
+{103}{Desculpe, Geoffrey. Não tenho interesse em continuar esse relacionamento...}{}{5}{}{}{lf31 1, lv, fl 105}
+{105}{Hmmph! Devo dizer que talvez você não tenha os modos que eu lhe atribuí. Tenha um bom dia, senhor...}{Hmmph! Devo dizer que talvez você não tenha os modos que eu lhe atribuí. Tenha um bom dia, senhora...}{}{22}{}{}
+{107}{Muito bom! Será uma verdadeira aventura! E vai me fazer bem "viver no duro" por um tempo. Avante!}{Muito bom! Será uma verdadeira aventura! E vai me fazer bem "viver no duro" por um tempo. Avante!}{}{23}{}{}
+{109}{[Ele se aproxima de você, com raiva nos olhos.] Desculpe, meu caro. Isso não fazia parte do acordo. Agora entregue a gema, e isso não precisará ficar desagradável...}{[Ele se aproxima de você, com raiva nos olhos.] Desculpe, minha cara. Isso não fazia parte do acordo. Agora entregue a gema, e isso não precisará ficar desagradável...}{}{24}{}{}
+{110}{Sim... nós tínhamos um acordo...}{}{5}{}{99}{in 5637, $$500, qu1075 4, gf2142 1}
+{111}{Escute, Geoffrey... só quero dar uma olhada nessa maldita coisa...}{}{5}{}{114}{re -5}
+{112}{Desculpe... parece que mudei de ideia...}{}{5}{}{114}{re -5}
+{114}{[Um leve brilho começa a se formar ao redor dele. Suas mãos começam a tremer.] Última vez que peço educadamente. Qual vai ser?}{[Um leve brilho começa a se formar ao redor dele. Suas mãos começam a tremer.] Última vez que peço educadamente. Qual vai ser?}{}{25}{}{}
+{115}{Tudo bem. Fique com a droga da coisa...}{}{5}{}{99}{in 5637, $$500, qu1075 4, gf2142 1}
+{116}{Vou ficar com isso, e ponto final...}{}{5}{}{}{lv, co, fl 118}
+{118}{Eu vou ficar com essa gema... de um jeito ou de outro. Adeus, amigo...}{Eu vou ficar com essa gema... de um jeito ou de outro. Adeus, amigo...}{}{26}{}{}
+{120}{Acho que este é o nosso adeus, então. Não posso dizer que estou tão chateado em te ver partir...}{Acho que este é o nosso adeus, então. Não posso dizer que estou tão chateado em te ver partir...}{}{27}{}{}
+{121}{E:}{}{5}{}{0}{}
+{123}{Sério? [Ele parece um pouco agitado com isso.] Estou MUITO interessado em obter esse objeto. Pagarei 500 peças de ouro por ele agora mesmo...}{Sério? [Ele parece um pouco agitado com isso.] Estou MUITO interessado em obter esse objeto. Pagarei 500 peças de ouro por ele agora mesmo...}{}{28}{}{}
+{124}{Hmmm. Parece bom. Aqui está...}{}{5}{}{}{qu1075 4, in 5637, $$500, lf3 1, fl 127}
+{125}{Acho que não, Geoffrey...}{}{5}{}{129}{}
+{127}{Muito obrigado. Tenha um bom dia...}{Muito obrigado. Tenha um bom dia...}{}{29}{}{}
+{129}{Talvez eu precise ser um pouco mais claro. Você VAI me dar essa gema, e eu VOU te pagar uma bela quantia de 500 peças de ouro. Agora me entregue...}{Talvez eu precise ser um pouco mais claro. Você VAI me dar essa gema, e eu VAI te pagar uma bela quantia de 500 peças de ouro. Agora me entregue...}{}{30}{}{}
+{130}{Claro. Aqui está...}{}{5}{}{}{qu1075 4, in 5637, $$500, lf3 1, fl 127}
+{131}{Receio não ter gostado do seu tom, Geoffrey...}{}{5}{}{133}{}
+{133}{[Um leve brilho começa a se formar ao redor dele. Suas mãos começam a tremer.] Última vez que pergunto educadamente. Qual vai ser?}{[Um leve brilho começa a se formar ao redor dele. Suas mãos começam a tremer.] Última vez que pergunto educadamente. Qual vai ser?}{}{31}{}{}
+{134}{Tudo bem. Fique com a droga da coisa...}{}{5}{}{}{qu1075 4, in 5637, $$500, lf3 1, fl 127}
+{135}{Vou ficar com isso, e ponto final...}{}{5}{}{}{co, fl 118}
+{137}{Você não é má pessoa. Foi um prazer fazer negócios com você...}{Você não é má pessoa. Foi um prazer fazer negócios com você...}{}{32}{}{}
+{139}{Olá... parece que estamos indo pelo caminho errado. Está mesmo falando sério em descobrir o que está acontecendo aqui no cemitério ou não?}{Olá... parece que estamos indo pelo caminho errado. Está mesmo falando sério em descobrir o que está acontecendo aqui no cemitério ou não?}{}{33}{}{}
+{140}{Claro, Geoffrey... vamos voltar...}{}{5}{}{0}{}
+{141}{Na verdade, não. Talvez devêssemos fazer isso mais tarde...}{}{5}{}{}{lv, fl 143}
+{143}{Entendo. Bem, estarei esperando perto da entrada quando estiver pronto...}{Entendo. Bem, estarei esperando perto da entrada quando estiver pronto...}{}{34}{}{}
+{145}{Vejo que não está nem um pouco interessado em resolver o mistério do cemitério. Quando estiver, me encontre na entrada...}{Vejo que não está nem um pouco interessado em resolver o mistério do cemitério. Quando estiver, me encontre na entrada...}{}{35}{}{}
+{147}{Está pronto para ir descobrir o que está criando esses zumbis?}{Você está pronto para ir e descobrir o que está criando esses zumbis?}{}{36}{}{}
+{148}{Sim... vamos lá...}{}{5}{ni 5637}{78}{jo 0 81}
+{149}{Talvez mais tarde... tenha um bom dia.}{}{5}{ni 5637}{0}{}
+{150}{Eu já fiz isso. Era essa gema...}{}{5}{in 5637}{123}{}
+{152}{Com o que você está me incomodando agora?}{Com o que você está me incomodando agora?}{}{37}{}{}
+{153}{B:}{}{5}{wa 0}{}{}
+{154}{K:}{}{5}{wa 0}{162}{}
+{155}{Gostaria que você fizesse algo por mim, Geoffrey...}{}{5}{wa 0}{271}{}
+{156}{Você pode parar de esperar agora, Geoffrey...}{}{5}{ni 5637, gf2142 0, wa 1}{303}{uw 0 284}
+{157}{Você pode parar de esperar agora, Geoffrey...}{}{5}{in 5637, gf2142 0, wa 1}{93}{}
+{158}{Você pode parar de esperar agora, Geoffrey...}{}{5}{pa -6591, gf2142 1, wa 1}{303}{uw 0 284}
+{159}{Você pode parar de esperar agora, Geoffrey...}{}{5}{pa 6591, gf2142 1, wa 1}{-18}{}
+{160}{E:}{}{5}{}{0}{}
+{161}{Hã...}{}{-4}{}{}{fl 530}
+{162}{Sim, acho que poderia responder algumas perguntas triviais...}{Sim, acho que poderia responder algumas perguntas triviais...}{}{38}{}{}
+{163}{Gostaria de saber algumas coisas sobre você, Geoffrey...}{}{1}{}{}{ce}
+{168}{Geoffrey, você sabe onde fica a Ilha do Desespero?}{}{1}{ss 5, ss -5}{494}{}
+{171}{Geoffrey, você tem alguma ideia de como chegamos a Qintarra?}{}{1}{ss 8, ss -8}{498}{}
+{176}{O que você sabe sobre Victor Misk?}{}{1}{ss 13, ss -13}{502}{}
+{177}{O que pode me contar sobre os Elfos Negros, Geoffrey?}{}{1}{ss 14, ss -14}{506}{}
+{178}{Você sabe alguma coisa sobre esse tal de Arronax?}{}{1}{ss 15, ss -15}{506}{}
+{179}{Você sabe alguma coisa sobre Nasrudin, Geoffrey?}{}{1}{ss 16, ss -16}{510}{}
+{181}{O que pode me contar sobre as ruínas de Vendigroth, Geoffrey?}{}{1}{ss 18, ss -18}{514}{}
+{182}{O que você sabe sobre o Anel de Brodgar?}{}{1}{ss 19, ss -19}{518}{}
+{186}{Geoffrey, o que você sabe sobre Kerghan?}{}{1}{ss 23, ss -23}{522}{}
+{187}{Geoffrey! O que vamos fazer agora?}{}{1}{ss 24, ss -24}{526}{}
+{188}{O que você sabe sobre este lugar?}{}{1}{ia 1}{317}{}
+{189}{O que você sabe sobre este lugar?}{}{1}{ia 21}{321}{}
+{191}{O que você sabe sobre este lugar?}{}{1}{ia 4}{325}{}
+{192}{O que você sabe sobre este lugar?}{}{1}{ia 5}{329}{}
+{195}{O que você sabe sobre este lugar?}{}{1}{ia 8}{333}{}
+{197}{O que você sabe sobre este lugar?}{}{1}{ia 10}{337}{}
+{198}{O que você sabe sobre este lugar?}{}{1}{ia 11}{341}{}
+{200}{O que você sabe sobre este lugar?}{}{1}{ia 16}{345}{}
+{201}{O que você sabe sobre este lugar?}{}{1}{ia 19}{349}{}
+{204}{O que você sabe sobre este lugar?}{}{1}{ia 23}{357}{}
+{205}{Geoffrey, você parece chateado comigo. Há algo que eu possa fazer por você?}{}{1}{re -20}{250}{}
+{206}{E:}{}{1}{}{0}{}
+{250}{Oh! Que bom que finalmente notou! Que gentileza a sua pensar em alguém além do seu maldito eu. Não sei se consigo relevar isso, mas... bem... se você me trouxer uma garrafa de Conhaque Chateau de Be'ron, talvez eu consiga perdoar sua falta de atenção...}{Oh! Que bom que finalmente notou! Que gentileza a sua pensar em alguém além do seu maldito eu. Não sei se consigo relevar isso, mas... bem... se você me trouxer uma garrafa de Conhaque Chateau de Be'ron, talvez eu consiga perdoar sua falta de atenção...}{}{69}{}{}
+{251}{Geoffrey, você tem tanta certeza assim de tudo isso?}{}{1}{ch 20}{257}{re +20}
+{252}{Exatamente o que eu teria escolhido! E por acaso tenho um pouco aqui!}{}{1}{in 3613, ch -19}{-52}{re +20}
+{253}{Vou levar em consideração, Geoffrey...}{}{1}{in -3613, ch -19}{264}{}
+{254}{Você não merece um conhaque tão fino, Geoffrey. Vamos...}{}{1}{}{}{re -5, fl 266}
+{257}{[Geoffrey olha para você com cara feia, mas finalmente abre um sorriso.] Ah, você é terrivelmente encantador, não é? Suponho que podemos esquecer isso. Por enquanto, veja bem...}{[Geoffrey olha para você com cara feia, mas finalmente abre um sorriso.] Ah, você é terrivelmente encantador, não é? Suponho que podemos esquecer isso. Por enquanto, veja bem...}{}{70}{}{}
+{258}{Sim, sim, eu sei. Vamos, Geoffrey...}{}{1}{}{0}{}
+{260}{[Ele pega a bebida, cheira e toma um gole.] Ah! Exquisito, meu amigo! Devo dizer que estou tendo dificuldade em lembrar por que estava bravo com você!}{[Ele pega a bebida, cheira e toma um gole.] Ah! Exquisito, meu amigo! Devo dizer que estou tendo dificuldade em lembrar por que estava bravo com você!}{}{71}{}{}
+{261}{Então você vai se juntar a mim novamente, Geoffrey?}{}{1}{pa -6591, gf2142 1, pa -6577}{303}{jo 0 306}
+{262}{Então você vai se juntar a mim novamente, Geoffrey?}{}{1}{pa 6591, gf2142 1, pa -6577}{-18}{}
+{263}{Estou muito feliz, Geoffrey.}{}{1}{}{0}{}
+{264}{Bem, não demore muito, amigo. Um homem só tem tanta paciência, você sabe...}{Bem, não demore muito, amigo. Um homem só tem tanta paciência, você sabe...}{}{72}{}{}
+{265}{Entendo, Geoffrey. Vamos...}{}{1}{}{0}{}
+{266}{Ora, veja só! Eu não mereço esse tratamento vindo de alguém como você! Vamos ver no que isso vai dar!}{Ora, veja só! Eu não mereço esse tratamento vindo de alguém como você! Vamos ver no que isso vai dar!}{}{73}{}{}
+{271}{Contanto que não seja muito incômodo...}{Contanto que não seja muito incômodo...}{}{39}{}{}
+{272}{Saia do caminho, Geoffrey.}{}{5}{}{0}{so}
+{273}{Chegue um pouco mais perto, Geoffrey.}{}{5}{}{0}{sc}
+{274}{Espere aqui por um tempo...}{}{5}{wa 0}{287}{wa}
+{275}{Você pode parar de esperar agora, Geoffrey...}{}{5}{ni 5637, gf2142 0, wa 1}{303}{uw 0 284}
+{276}{Você pode parar de esperar agora, Geoffrey...}{}{5}{in 5637, gf2142 0, wa 1}{93}{}
+{277}{Você pode parar de esperar agora, Geoffrey...}{}{5}{pa -6591, gf2142 1, wa 1}{303}{uw 0 284}
+{278}{Você pode parar de esperar agora, Geoffrey...}{}{5}{pa 6591, gf2142 1, wa 1}{-18}{}
+{279}{Acho melhor você deixar o grupo.}{}{5}{}{290}{lv}
+{280}{[Voltar]}{}{1}{}{152}{}
+{284}{Demorou bem mais do que devia. Vamos embora, então...}{Demorou bem mais do que devia. Vamos embora, então...}{}{40}{}{}
+{285}{E:}{}{1}{}{0}{}
+{287}{Sim, suponho que posso esperar alguns momentos. Mas seja rápido! Não vou ficar parado aqui para sempre...}{Sim, suponho que posso esperar alguns momentos. Mas seja rápido! Não vou ficar parado aqui para sempre...}{}{41}{}{}
+{288}{E:}{}{1}{}{0}{}
+{290}{Tudo bem, então. Não é como se eu não pudesse encontrar companheiros de viagem. Muito provavelmente terão melhores modos e um pouco mais de cérebro debaixo do chapéu. Tenha um bom dia...}{Tudo bem, então. Não é como se eu não pudesse encontrar companheiros de viagem. Muito provavelmente terão melhores modos e um pouco mais de cérebro debaixo do chapéu. Tenha um bom dia...}{}{42}{}{lf31 1}
+{291}{E:}{}{1}{}{0}{}
+{292}{Ah... é você. Não posso dizer que estou surpreso por você ter voltado. Talvez tenha adquirido um leve caso de civilidade... é isso? O que você quer?}{Ah... é você. Não posso dizer que estou surpreso por você ter voltado. Talvez tenha adquirido um leve caso de civilidade... é isso? O que você quer?}{}{43}{}{}
+{293}{Eu estava me perguntando se você gostaria de se juntar a mim novamente, Geoffrey?}{}{5}{ni 5637, gf2142 0}{303}{jo 0 306}
+{294}{Estava me perguntando se você não gostaria de me acompanhar novamente, Geoffrey?}{}{5}{in 5637, gf2142 0}{93}{}
+{295}{Estava me perguntando se você não gostaria de me acompanhar novamente, Geoffrey?}{}{5}{pa -6591, gf2142 1}{303}{jo 0 306}
+{296}{Estava me perguntando se você não gostaria de me acompanhar novamente, Geoffrey?}{}{5}{pa 6591, gf2142 1}{-18}{}
+{297}{Geoffrey, você parece chateado comigo. Há algo que eu possa fazer por você?}{}{5}{re -20}{250}{}
+{298}{Hã...}{}{-4}{}{}{fl 530}
+{299}{Ah, vá se danar, Smythe! Você sempre foi um maldito chato! É óbvio que nosso amigo aqui tem melhor gosto do que escolher um velho tolo como você em vez de mim. Não é mesmo? AMIGO?}{Ah, vá se danar, Smythe! Você sempre foi um maldito chato! É óbvio que nosso amigo aqui tem melhor gosto do que escolher um velho tolo como você em vez de mim. Não é mesmo? AMIGO?}{}{44}{}{}
+{300}{Tenho certeza de que Perriman verá que essa atitude dele é infantil...}{}{1}{ch 20}{-24}{}
+{301}{Desculpe, Geoffrey. Receio que vou ficar do lado do Perriman...}{}{1}{}{290}{lv}
+{302}{Claro, Geoffrey. Deixe-me me livrar do Perriman...}{}{1}{}{0}{}
+{303}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{45}{}{}
+{304}{E:}{}{1}{}{0}{}
+{305}{}{}{}{}{}{}
+{306}{Bem, acho que poderia tolerar sua companhia por mais um tempinho. Não dá pra dizer que você é um indivíduo entediante para se ter por perto. Ótimo! Vamos então...}{Bem, acho que poderia tolerar sua companhia por mais um tempinho. Não dá pra dizer que você é um indivíduo entediante para se ter por perto. Ótimo! Vamos então...}{}{46}{}{lf31 0}
+{307}{E:}{}{1}{}{0}{}
+{308}{Bem! Vejo que você finalmente decidiu voltar! Não se preocupe por ter deixado o velho Geoffrey esperando! Ah, não!}{Bem! Vejo que você finalmente decidiu voltar! Não se preocupe por ter deixado o velho Geoffrey esperando! Ah, não!}{}{47}{}{}
+{309}{Gostaria de me acompanhar novamente, Geoffrey?}{}{5}{ni 5637, gf2142 0}{303}{jo 0 314}
+{310}{Gostaria de me acompanhar novamente, Geoffrey?}{}{5}{in 5637, gf2142 0}{93}{}
+{311}{Gostaria de me acompanhar novamente, Geoffrey?}{}{5}{pa -6591, gf2142 1}{303}{jo 0 314}
+{312}{Gostaria de me acompanhar novamente, Geoffrey?}{}{5}{pa 6591, gf2142 1}{-18}{}
+{313}{Geoffrey, você parece chateado comigo. Há algo que eu possa fazer por você?}{}{5}{re -20}{250}{}
+{314}{Hã...}{}{-4}{}{}{fl 530}
+{315}{Bem... suponho que poderia relevar a ofensa só desta vez. Não posso esperar muito de um indivíduo como você, posso? Vamos então...?}{Bem... suponho que poderia relevar a ofensa só desta vez. Não posso esperar muito de um indivíduo como você, posso? Vamos então...?}{}{48}{}{}
+{316}{E:}{}{1}{}{0}{}
+{317}{Não sei... mas é terrivelmente pequeno e fede como um curral. O que é isso, bosta de vaca? Meu DEUS...}{Não sei... mas é terrivelmente pequeno e fede como um curral. O que é isso, bosta de vaca? Meu DEUS...}{}{49}{}{}
+{318}{K:}{}{1}{}{152}{}
+{319}{E:}{}{1}{}{0}{}
+{320}{}{}{}{}{}{}
+{321}{O que eu sei sobre este lugar? Esta é Tarant! O que eu NÃO sei sobre ela. Cheia de tecnólogos bárbaros e trabalhadores incultos. Toda essa maldita cidade GRITA "dinheiro novo". Será difícil encontrar uma xícara decente de chá aqui. Sem mencionar que eles não gostam muito de tipos mágicos como eu.}{O que eu sei sobre este lugar? Esta é Tarant! O que eu NÃO sei sobre ela. Cheia de tecnólogos bárbaros e trabalhadores incultos. Toda essa maldita cidade GRITA "dinheiro novo". Será difícil encontrar uma xícara decente de chá aqui. Sem mencionar que eles não gostam muito de tipos mágicos como eu.}{}{50}{}{}
+{322}{K:}{}{1}{}{152}{}
+{323}{E:}{}{1}{}{0}{}
+{324}{}{}{}{}{}{}
+{325}{Caladon? Ah, não é um lugar ruim... melhor que Tarant, mas não muito. Cheia de nobres velhos que não saberiam distinguir bom gosto de suas ceroulas amarrotadas. E ainda têm um maldito rei aqui! Falar em visões políticas antiquadas! É o suficiente para fazer um homem perder o apetite...}{Caladon? Ah, não é um lugar ruim... melhor que Tarant, mas não muito. Cheia de nobres velhos que não saberiam distinguir bom gosto de suas ceroulas amarrotadas. E ainda têm um maldito rei aqui! Falar em visões políticas antiquadas! É o suficiente para fazer um homem perder o apetite...}{}{51}{}{}
+{326}{K:}{}{1}{}{152}{}
+{327}{E:}{}{1}{}{0}{}
+{329}{DERNholm? Ah, meu deus... nem me faça começar. Nunca houve um lugar mais patético, entediante e deprimente na história de Arcanum! Nem sempre foi assim, mas o bom e velho Rei Praetor condenou o lugar com sua estupenda miopia. Quanto antes sairmos daqui, melhor...}{DERNholm? Ah, meu deus... nem me faça começar. Nunca houve um lugar mais patético, entediante e deprimente na história de Arcanum! Nem sempre foi assim, mas o bom e velho Rei Praetor condenou o lugar com sua estupenda miopia. Quanto antes sairmos daqui, melhor...}{}{52}{}{}
+{330}{K:}{}{1}{}{152}{}
+{331}{E:}{}{1}{}{0}{}
+{333}{Ashbury? Duas palavras... VELHOS. Claro, há um castelo bastante interessante não muito longe daqui... parece que me lembro de algo sobre ele ser assombrado. Exatamente o meu tipo de coisa... heh heh...}{Ashbury? Duas palavras... VELHOS. Claro, há um castelo bastante interessante não muito longe daqui... parece que me lembro de algo sobre ele ser assombrado. Exatamente o meu tipo de coisa... heh heh...}{}{53}{}{}
+{334}{K:}{}{1}{}{152}{}
+{335}{E:}{}{1}{}{0}{}
+{337}{Sim, sim... eu sei um pouco sobre Stillwater. Eles têm uma lenda sobre uma criatura que perambula pelas colinas, arrancando a carne de caçadores desavisados ou algo do tipo. Você me conhece... sempre pronto para ouvir uma boa história de arrepiar. Acho que eles fabricam armas bem decentes por aqui também...}{Sim, sim... eu sei um pouco sobre Stillwater. Eles têm uma lenda sobre uma criatura que perambula pelas colinas, arrancando a carne de caçadores desavisados ou algo do tipo. Você me conhece... sempre pronto para ouvir uma boa história de arrepiar. Acho que eles fabricam armas bem decentes por aqui também...}{}{54}{}{}
+{338}{K:}{}{1}{}{152}{}
+{339}{E:}{}{1}{}{0}{}
+{341}{Ah, eu conheço Tulla muito bem. Passei dois dos anos mais ENTEDIANTES aqui. Não saí nas melhores condições com o diretor, se é que você me entende. Velho rabugento, responde pelo nome de Simeon Tor...}{Ah, eu conheço Tulla muito bem. Passei dois dos anos mais ENTEDIANTES aqui. Não saí nas melhores condições com o diretor, se é que você me entende. Velho rabugento, responde pelo nome de Simeon Tor...}{}{55}{}{}
+{342}{K:}{}{1}{}{152}{}
+{343}{E:}{}{1}{}{0}{}
+{345}{Não posso dizer que sei algo sobre isso... mas devo admitir que estou me divertindo muito aqui. Esses Elfos Negros são o meu tipo de gente... dá para sentir o mal fluindo por este lugar. Não é um mau lugar para uma casa de verão...}{Não posso dizer que sei algo sobre isso... mas devo admitir que estou me divertindo muito aqui. Esses Elfos Negros são o meu tipo de gente... dá para sentir o mal fluindo por este lugar. Não é um mau lugar para uma casa de verão...}{}{56}{}{}
+{346}{K:}{}{1}{}{152}{}
+{347}{E:}{}{1}{}{0}{}
+{349}{A Ilha do Desespero? Cheia de criminosos e tipos malignos... na verdade, não me importo muito com o lugar.}{A Ilha do Desespero? Cheia de criminosos e tipos malignos... na verdade, não me importo muito com o lugar.}{}{57}{}{}
+{350}{K:}{}{1}{}{152}{}
+{351}{E:}{}{1}{}{0}{}
+{357}{Isto? Ah, é só a Ilha de Thanatos. A Ilha dos Monstros, acho que chamam. Não posso dizer que estou extremamente feliz por estar aqui, considerando que é provavelmente o lugar mais perigoso de todo o Arcanum. Já agradeci pela maravilhosa viagem, meu amigo?}{Isto? Ah, é só a Ilha de Thanatos. A Ilha dos Monstros, acho que chamam. Não posso dizer que estou extremamente feliz por estar aqui, considerando que é provavelmente o lugar mais perigoso de todo o Arcanum. Já agradeci pela maravilhosa viagem, meu amigo?}{}{59}{}{}
+{358}{K:}{}{1}{}{152}{}
+{359}{E:}{}{1}{}{0}{}
+{494}{A Ilha do Desespero? Claro, quem não conhece? Fica logo ali na costa leste... aqui, vou marcar no seu mapa. [Ele o faz.] Não que vá adiantar muito... não há como chegar lá, já que é uma colônia penal. Não exatamente o tipo de lugar que se visita nas férias...}{A Ilha do Desespero? Claro, quem não conhece? Fica logo ali na costa leste... aqui, vou marcar no seu mapa. [Ele o faz.] Não que vá adiantar muito... não há como chegar lá, já que é uma colônia penal. Não exatamente o tipo de lugar que se visita nas férias...}{}{60}{}{mm 19}
+{495}{Mais uma ou duas coisas...}{}{1}{}{152}{}
+{496}{E:}{}{1}{}{0}{}
+{498}{Qintarra? A cidade-árvore élfica? Bem, se eu soubesse, seria um homem rico! Não que eu seja pobre, é claro, pelos meus padrões. Mas a localização de Qintarra é um segredo muito procurado... você terá dificuldade em encontrar alguém que saiba onde fica...}{Qintarra? A cidade-árvore élfica? Bem, se eu soubesse, seria um homem rico! Não que eu seja pobre, é claro, pelos meus padrões. Mas a localização de Qintarra é um segredo muito procurado... você terá dificuldade em encontrar alguém que saiba onde fica...}{}{61}{}{}
+{499}{Mais uma ou duas coisas...}{}{1}{}{152}{}
+{500}{E:}{}{1}{}{0}{}
+{502}{Victor Misk? Sim, o nome é familiar. Um colecionador de livros bastante respeitado, a menos que eu esteja muito enganado. O que RARAMENTE acontece. Acredito que o sujeito mora em Caladon... não dá para entender o gosto de certos homens...}{Victor Misk? Sim, o nome é familiar. Um colecionador de livros bastante respeitado, a menos que eu esteja muito enganado. O que RARAMENTE acontece. Acredito que o sujeito mora em Caladon... não dá para entender o gosto de certos homens...}{}{62}{}{}
+{503}{Mais uma ou duas coisas...}{}{1}{}{152}{}
+{504}{E:}{}{1}{}{0}{}
+{506}{Arronax! Um elfo velho e poderoso pra caramba, a menos que eu esteja confundindo com outra pessoa... havia tantos malditos elfos por aí durante a Era das Lendas. Juro, se você não tivesse orelhas pontudas e uma aparência fantasmagórica naquela época, não entrava na lista histórica de quem era quem. Tão antiquado...}{Arronax! Um elfo velho e poderoso pra caramba, a menos que eu esteja confundindo com outra pessoa... havia tantos malditos elfos por aí durante a Era das Lendas. Juro, se você não tivesse orelhas pontudas e uma aparência fantasmagórica naquela época, não entrava na lista histórica de quem era quem. Tão antiquado...}{}{63}{}{}
+{507}{Mais uma ou duas coisas...}{}{1}{}{152}{}
+{508}{E:}{}{1}{}{0}{}
+{510}{Já não falamos sobre isso? Ah, é verdade... estávamos falando do outro sujeito. Nasrudin... deixa ver... chefe do Conselho Élfico durante a Era das Lendas, acredito. Também tenho certeza de que aqueles Panarii o têm em alta estima. Sabedoria élfica e tudo mais. Uma chatice dos infernos, se me perguntar...}{Já não falamos sobre isso? Ah, é verdade... estávamos falando do outro sujeito. Nasrudin... deixa ver... chefe do Conselho Élfico durante a Era das Lendas, acredito. Também tenho certeza de que aqueles Panarii o têm em alta estima. Sabedoria élfica e tudo mais. Uma chatice dos infernos, se me perguntar...}{}{64}{}{}
+{511}{Mais uma ou duas coisas...}{}{1}{}{152}{}
+{512}{E:}{}{1}{}{0}{}
+{514}{Ruínas de Vendigroth? Eu nem sabia que isso existia. Quero dizer, não estou surpreso... praticamente qualquer coisa que passe algum tempo nos Desertos de Vendigroth vai acabar em ruínas! Ha! Às vezes sou tão esperto que até assusto!}{Ruínas de Vendigroth? Eu nem sabia que isso existia. Quero dizer, não estou surpreso... praticamente qualquer coisa que passe algum tempo nos Desertos de Vendigroth vai acabar em ruínas! Ha! Às vezes sou tão esperto que até assusto!}{}{65}{}{}
+{515}{Mais uma ou duas coisas...}{}{1}{}{152}{}
+{516}{E:}{}{1}{}{0}{}
+{518}{O Anel de Brodgar? Está tudo ligado a Nasrudin e Arronax... ah, que saco! Dormi durante a maioria das aulas de história élfica. Parece que me lembro de algo sobre barreiras mágicas ou alguma bobagem do tipo...}{O Anel de Brodgar? Está tudo ligado a Nasrudin e Arronax... ah, que saco! Dormi durante a maioria das aulas de história élfica. Parece que me lembro de algo sobre barreiras mágicas ou alguma bobagem do tipo...}{}{66}{}{}
+{519}{Mais uma ou duas coisas...}{}{1}{}{152}{}
+{520}{E:}{}{1}{}{0}{}
+{522}{Kerghan? Ele foi o primeiro dos Necromantes, meu amigo ignorante! Ele começou todo esse maldito negócio... conjurando almas, ressuscitando os mortos... se era maligno ou proibido, Kerghan foi quem fez! Um sujeito interessante... devo dizer que estou ansioso para conhecê-lo...}{Kerghan? Ele foi o primeiro dos Necromantes, meu amigo ignorante! Ele começou todo esse maldito negócio... conjurando almas, ressuscitando os mortos... se era maligno ou proibido, Kerghan foi quem fez! Um sujeito interessante... devo dizer que estou ansioso para conhecê-lo...}{}{67}{}{}
+{523}{Mais uma ou duas coisas...}{}{1}{}{152}{}
+{524}{E:}{}{1}{}{0}{}
+{526}{O que vamos fazer agora? Está de brincadeira? Vamos parar de jogar esse jogo, porque você já ganhou, seu idiota! Vá dormir... você tem ideia de que horas são? Juro... não entendo algumas pessoas...}{O que vamos fazer agora? Está de brincadeira? Vamos parar de jogar esse jogo, porque você já ganhou, seu idiota! Vá dormir... você tem ideia de que horas são? Juro... não entendo algumas pessoas...}{}{68}{}{}
+{527}{Mais uma ou duas coisas...}{}{1}{}{152}{}
+{528}{E:}{}{1}{}{0}{}
+{530}{[Geoffrey lhe lança um olhar arrogante. É óbvio que ele não falará com você em seu estado mental atual.]}{[Geoffrey lhe lança um olhar arrogante. É óbvio que ele não falará com você em seu estado mental atual.]}{}{}{}{}
+

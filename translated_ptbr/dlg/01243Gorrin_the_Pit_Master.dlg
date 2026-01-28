@@ -1,0 +1,111 @@
+{1}{[O velho à sua frente é magro e cheio de cicatrizes.] Cuidado com o passo aí, garoto. Este não é lugar para quem tem espinha fraca. Talvez seja melhor você seguir em frente...}{[O velho à sua frente é magro e cheio de cicatrizes.] Cuidado com o passo aí, garota. Este não é lugar para quem tem espinha fraca. Talvez seja melhor você seguir em frente...}{}{}{}{}
+{2}{Sério? E quem você pensa que é para achar isso?}{}{5}{}{10}{lf2 1}
+{3}{Não quero incomodar. Posso perguntar quem é você?}{}{5}{}{15}{}
+{4}{Hã... quem é você, velho?}{}{-4}{}{20}{lf2 1}
+{10}{[Ele olha para você em silêncio, então abre um sorriso.] Esse é o espírito, garoto. Talvez você ainda tenha um pouco de fibra! Eu me chamo Gorrin, mestre do Fosso. Qual é o seu assunto aqui?}{[Ele olha para você em silêncio, então abre um sorriso.] Esse é o espírito, garota! Talvez você ainda tenha um pouco de fibra! Eu me chamo Gorrin, mestre do Fosso. Qual é o seu assunto aqui?}{}{}{}{}
+{11}{Só dando uma olhada, Gorrin. O que é esse "fosso"?}{}{5}{}{39}{}
+{12}{E:}{}{5}{}{0}{}
+{15}{[Ele ri de você.] Não, você não pode. Seus modos de serviçal não vão te levar a lugar nenhum aqui, fracote. Recomendo que encontre outro lugar para bancar o idiota. [Ele vira as costas para você.]}{[Ele ri de você.] Não, você não pode. Seus modos de serviçal não vão te levar a lugar nenhum aqui, fracote. Recomendo que encontre outro lugar para bancar o idiota. [Ele vira as costas para você.]}{}{}{}{}
+{16}{Minha paciência está se esgotando, velho. Quero saber quem você é.}{}{5}{}{10}{lf2 1}
+{17}{Me desculpe. Vou me retirar...}{}{5}{}{}{lf1 1, fl 25}
+{20}{Sangue e cinzas! Um débil mental! Até o velho Gorrin não tem coragem de cuspir no SEU olho. O que é que você quer?}{Sangue e cinzas! Um débil mental! Até o velho Gorrin não tem coragem de cuspir no SEU olho. O que é que você quer?}{}{}{}{}
+{21}{Que lugar esse, Gorun?}{}{-4}{}{39}{}
+{22}{E:}{}{-4}{}{0}{}
+{25}{Faça isso. E não volte por aqui até ter coragem de parar de agir como traseiro de nobre.}{Faça isso. E não volte por aqui até ter coragem de parar de agir como traseiro de nobre.}{}{}{}{}
+{27}{Ah! Se não é o fracote covarde. Não lhe disse para não voltar aqui, garoto? Você provavelmente vai bagunçar seu cabelo bonito...}{Ah! Se não é a fracote covarde. Não lhe disse para não voltar aqui, garota? Você provavelmente vai bagunçar seu cabelo bonito...}{}{}{}{}
+{28}{Seus insultos me cansam, velho. Sugiro que pare com isso. Agora.}{}{5}{}{10}{lf2 1, lf1 0}
+{29}{De novo... me perdoe. Vou me retirar...}{}{-4}{}{}{lf1 1, fl 328}
+{32}{Olá, garoto. O que o traz de volta por aqui?}{Olá, garota. O que a traz de volta por aqui?}{}{}{}{}
+{33}{K:}{}{1}{}{44}{}
+{34}{E:}{}{1}{}{0}{}
+{39}{Aqui é o Fosso, garoto. Se há algum problema entre dois prisioneiros nesta ilha, geralmente é aqui que se resolve. Aqui, ou com Thorvald Dois-Pedras. Os homens apostam muito nos resultados, e há alguns homens e mulheres que vivem na ilha lutando aqui o tempo todo...}{Aqui é o Fosso, garota. Se há algum problema entre dois prisioneiros nesta ilha, geralmente é aqui que se resolve. Aqui, ou com Thorvald Dois-Pedras. Os homens apostam muito nos resultados, e há alguns homens e mulheres que vivem na ilha lutando aqui o tempo todo...}{}{}{}{}
+{40}{K:}{}{1}{}{44}{}
+{41}{E:}{}{1}{}{0}{}
+{44}{O que é que você precisa saber, garoto?}{O que é que você precisa saber, garota?}{}{}{}{}
+{45}{Estou procurando treinamento avançado em Combate Corpo a Corpo, Gorrin...}{}{5}{lf6 1, tr 2 -1}{155}{et 2 129}
+{46}{O que você faz aqui, Gorrin?}{}{5}{lf3 0}{85}{}
+{47}{Estou procurando alguns anões... com quem eu poderia falar sobre isso?}{}{5}{lf3 0, gf2727 0}{90}{}
+{48}{Quem é Thorvald Duas Pedras?}{}{5}{lf3 0, gf2727 0}{60}{}
+{49}{Como se marca uma luta?}{}{5}{gf1060 0, lf5 0, lf3 0}{69}{}
+{50}{Estou aqui para marcar uma luta...}{}{5}{gf1060 1, lf5 0, lf3 0}{75}{}
+{51}{Estou pronto para lutar agora, Gorrin.}{}{5}{lf5 1, lf3 0}{80}{}
+{52}{Você me treina para ser ex-x-p-erto em Ma-nu-seio, Gorun...?}{}{-4}{lf6 1, tr 2 -1}{155}{et 2 129}
+{53}{O que você faz, Gorun? Luta?}{}{-4}{lf3 0}{85}{}
+{54}{Estou procurando anões. Você viu algum anão, Gorun?}{}{-4}{lf3 0, gf2727 0}{90}{}
+{55}{Quem é Th-h-orva-ald Cocô de Ossos?}{}{-4}{lf3 0, gf2727 0}{60}{}
+{56}{Eu quero lutar!}{}{-4}{gf1060 0, lf5 0, lf3 0}{69}{}
+{57}{Eu consigo lutar agora!}{}{-4}{gf1060 1, lf5 0, lf3 0}{75}{}
+{58}{Eu luto na arena agora, Gorun!}{}{-4}{lf5 1, lf3 0}{80}{}
+{59}{E:}{}{1}{}{0}{}
+{60}{Thorvald Duas Pedras? Ele é quem manda nesta ilha. Um anão durão... está aqui há mais tempo que qualquer um de nós, e ninguém questiona o que ele diz. Tem um meio-ogro grandalhão chamado Ogdin Punhos Grandes para garantir que continue assim.}{Thorvald Duas Pedras? Ele é quem manda nesta ilha. Um anão durão... está aqui há mais tempo que qualquer um de nós, e ninguém questiona o que ele diz. Tem um meio-ogro grandalhão chamado Ogdin Punhos Grandes para garantir que continue assim.}{}{}{}{}
+{61}{K:}{}{1}{}{44}{}
+{62}{E:}{}{1}{}{0}{}
+{69}{Quer tentar a sorte na arena, hein, garoto? Ogdin Punhos Grandes é o homem com quem você deve falar sobre isso. Ele é o segundo no comando de Thorvald, e Thorvald é quem decide as coisas por aqui. Estou te avisando, garoto... não entre na arena a menos que esteja disposto a ser carregado para fora. Entendeu o que estou dizendo?}{Quer tentar a sorte na arena, hein, garota? Ogdin Punhos Grandes é o homem com quem você deve falar sobre isso. Ele é o segundo no comando de Thorvald, e Thorvald é quem decide as coisas por aqui. Estou te avisando, garota... não entre na arena a menos que esteja disposta a ser carregada para fora. Entendeu o que estou dizendo?}{}{}{}{}
+{70}{Entendi. Vou falar com Ogdin sobre isso. Mais algumas perguntas...}{}{5}{}{44}{}
+{72}{Tá bom! Eu falo com Oggin! Mais algumas perguntas!}{}{-4}{}{44}{}
+{73}{E:}{}{1}{}{0}{}
+{75}{Sério, agora? Ogdin mandou você aqui para lutar, garoto? Não sei se isso significa que ele gosta de você ou te odeia! [O velho ri, de coração.] Não importa... logo veremos do que você é feito! Você vai lutar com o que tiver consigo. Além disso, não há regras. Só um homem sai da arena, garoto. Está pronto para lutar?}{Sério, agora? Ogdin mandou você aqui para lutar, moça? Não sei se isso significa que ele gosta de você ou te odeia! [O velho ri, de coração.] Não importa... logo veremos do que você é feita! Você vai lutar com o que tiver consigo. Além disso, não há regras. Só uma pessoa sai da arena, garota. Está pronta para lutar?}{}{}{}{}
+{76}{Vou me lembrar disso, Gorrin. Estou pronto... me mande...}{}{5}{}{-23}{}
+{77}{K:}{}{5}{}{0}{lf5 1}
+{78}{Tá bom, Gorun! Me mande para lutar...}{}{-4}{}{-23}{}
+{79}{K:}{}{-4}{}{0}{lf5 1}
+{80}{Tá certo, garoto. Vou te mandar agora mesmo... Boa sorte... você vai precisar lá dentro...}{Tá certo, moça. Entre por esta porta atrás de mim. Boa sorte... você vai precisar lá dentro...}{}{}{}{}
+{81}{Estou pronto...}{}{5}{}{-23}{}
+{82}{VÁ! LUTE!}{}{-4}{}{-23}{}
+{85}{Eu? Sou o mestre desta arena... costumava ser lutador há muitos anos. Supervisiono todas as lutas, garanto que ninguém entre lá sem permissão. Sou leal a Thorvald há muito tempo, e ele cuida dos seus...}{Eu? Sou o mestre desta arena... costumava ser lutador há muitos anos. Supervisiono todas as lutas, garanto que ninguém entre lá sem permissão. Sou leal a Thorvald há muito tempo, e ele cuida dos seus...}{}{}{}{lf6 1}
+{86}{Então, você lutava. Estou procurando treinamento especializado em Combate Corpo a Corpo...}{}{5}{lf6 1, tr 2 -1}{155}{et 2 129}
+{87}{Você sabe lutar? Me treina para ser ex-x-p-erto em Ma-nu-seio...?}{}{-4}{lf6 1, tr 2 -1}{155}{et 2 129}
+{88}{K:}{}{1}{}{44}{}
+{89}{E:}{}{1}{}{0}{}
+{90}{Anões? O único anão por aqui é Thorvald Duas Pedras. E mesmo que houvesse mais, o velho Thorvald seria o único que importaria...}{Anões? O único anão por aqui é Thorvald Duas Pedras. E mesmo que houvesse mais, o velho Thorvald seria o único que importaria...}{}{}{}{}
+{91}{K:}{}{1}{}{44}{}
+{92}{E:}{}{1}{}{0}{}
+{96}{Parabéns, garoto! Borag era um dos nossos lutadores mais durões... você se saiu bem lá dentro. Vai falar com Thorvald agora mesmo?}{Parabéns, garota! Borag era um dos nossos lutadores mais durões... você se saiu bem lá dentro. Vai falar com Thorvald agora mesmo?}{}{}{}{}
+{97}{Não tem nenhum lutador de verdade por aqui, Gorrin?}{}{5}{}{105}{}
+{98}{Sim. Tenha um bom dia, Gorrin...}{}{5}{}{}{lf4 1, fl 103}
+{99}{Eu quero lutar mais!}{}{-4}{}{105}{}
+{100}{Eu vou agora, Gorun! Tchauzinho!}{}{-4}{}{}{lf4 1, fl 103}
+{103}{Que pena... faz muito tempo que não víamos um lutador como você. Volte quando quiser!}{Que pena... faz muito tempo que não víamos um lutador como você. Volte quando quiser!}{}{}{}{}
+{105}{HA! Você é um verdadeiro cão de briga se eu já vi um! Volte lá! Vai ter outro lutador esperando por você...}{HA! Você é um verdadeiro cão de briga se eu já vi um! Volte lá! Vai ter outro lutador esperando por você...}{}{}{}{}
+{106}{Vou fazer isso...}{}{5}{}{-23}{}
+{107}{Certo!}{}{-4}{}{-23}{}
+{109}{Você venceu de novo! Está querendo testar sua coragem mais uma vez?}{Você venceu de novo! Está querendo testar sua coragem mais uma vez?}{}{}{}{}
+{110}{Claro... se você tiver algum lutador para me desafiar...}{}{5}{}{105}{}
+{112}{Isso! Luta! Luta!}{}{-4}{}{105}{}
+{113}{E:}{}{1}{}{}{lf4 1, fl 103}
+{114}{Nunca vi nada igual! Você é um cão raivoso, um maníaco! A arena nunca viu um lutador mais temível!}{Nunca vi nada igual! Você é um cão raivoso, um maníaco! A arena nunca viu um lutador mais temível!}{}{}{}{}
+{115}{Quem é o próximo, Gorrin?}{}{5}{}{119}{}
+{116}{Mais luta! Mais luta!}{}{-4}{}{119}{}
+{119}{Ninguém seria tolo o suficiente para lutar com você, garoto. Você derrotou todos os nossos melhores. Eu diria que isso faz de você o campeão. Acho que os homens por aqui vão ficar longe do seu caminho...}{Ninguém seria tola o suficiente para lutar com você, garota. Você derrotou todos os nossos melhores. Eu diria que isso faz de você a campeã. Acho que os homens por aqui vão ficar longe do seu caminho...}{}{}{}{rp 1042}
+{120}{K:}{}{1}{}{44}{lf3 1}
+{121}{E deveriam mesmo. Tenha um bom dia, Gorrin.}{}{5}{}{0}{lf3 1}
+{122}{Tá bom, Gorun! Eu luto melhor! Tchauzinho!}{}{-4}{}{0}{lf3 1}
+{123}{Ele voltou! Quer lutar mais um pouco, garoto?}{Ela voltou! Quer lutar mais um pouco, garota?}{}{}{}{}
+{124}{Claro, Gorrin. Se você conseguir encontrar alguém à altura...}{}{5}{}{105}{lf4 0}
+{125}{Isso! Luta! Luta!}{}{-4}{}{105}{lf4 0}
+{126}{Estou procurando treinamento avançado em Luta Corporal, Gorrin...}{}{5}{lf6 1, tr 2 -1,}{155}{et 2 129}
+{127}{Você me treina para ser ex-x-p-erto em Lu-ta Cor-po-ral, Gorun...?}{}{-4}{lf6 1, tr 2 -1,}{155}{et 2 129}
+{128}{E:}{}{1}{}{0}{}
+{129}{Claro, garoto. Eu conheço meu caminho numa briga. É claro que isso vai custar 500 peças de ouro. Nada é de graça na Ilha do Desespero...}{Claro, garota. Eu conheço meu caminho em uma luta. É claro que isso vai custar 500 peças de ouro. Nada é de graça na Ilha do Desespero...}{}{}{}{}
+{130}{Claro. Aqui está o dinheiro... [Dê a ele.]}{}{5}{$$500}{138}{$$-500}
+{131}{Entendo. Talvez eu volte mais tarde. Mas algumas perguntas a mais...}{}{5}{$$500}{44}{}
+{132}{Eu não tenho o dinheiro agora...}{}{5}{$$-499}{147}{}
+{133}{Sim! Aqui está o dinheiro...! [Dê a ele.]}{}{-4}{$$500}{138}{$$-500}
+{134}{Hmm... talvez mais tarde. Tenho mais perguntas!}{}{-4}{$$500}{44}{}
+{135}{Eu não tenho dinheiro agora...}{}{-4}{$$-499}{147}{}
+{136}{E:}{}{1}{}{0}{}
+{138}{Então, quando for lutar, você quer ficar assim... NÃO! Mantenha os olhos em mim... bom. Assim! Você está se tornando um ótimo lutador, garoto...}{Então, quando for lutar, você quer ficar assim... NÃO! Mantenha os olhos em mim... bom. Assim! Você está se tornando uma ótima lutadora, garota...}{}{}{}{tr 2 2, rq2179}
+{139}{Diga-me... quem é o Mestre do Combate Corpo a Corpo?}{}{5}{}{142}{}
+{140}{Hmm... quem é o mestre em Ma-lê?}{}{-4}{}{142}{}
+{142}{Não tenho certeza, garoto. Faz muito tempo que estou aqui. O nome dele pode ter sido Sir Garrick Stout... e tenho quase certeza de que ele morava em Dernholm. Vou marcar no seu mapa se você ainda não souber onde fica. [Ele o faz.] Você pode começar sua busca por lá...}{Não tenho certeza, garota. Faz muito tempo que estou aqui. O nome dele pode ter sido Sir Garrick Stout... e tenho quase certeza de que ele morava em Dernholm. Vou marcar no seu mapa se você ainda não souber onde fica. [Ele o faz.] Você pode começar sua busca por lá...}{}{}{}{ru 2164, mm 5}
+{143}{Obrigado, Gorrin. Mais algumas perguntas?}{}{5}{}{44}{}
+{144}{Tá bom, Gorun! Mais algumas perguntas?}{}{-4}{}{44}{}
+{145}{E:}{}{1}{}{0}{}
+{147}{Bom, você não vai ser nenhum especialista até conseguir esse dinheiro, garoto...}{Bom, você não vai ser nenhuma especialista até conseguir esse dinheiro, garota...}{}{}{}{}
+{148}{K:}{}{1}{}{44}{}
+{149}{E:}{}{1}{}{0}{}
+{150}{[Gorrin olha atrás de você.] Ah... eu não te contei. Você entra no fosso sozinho, rapaz... não pode levar seus amigos lá para baixo. Eles vão ter que esperar até você terminar a luta. Volte quando estiver pronto...}{[Gorrin olha atrás de você.] Ah... eu não te contei. Você entra no fosso sozinho, rapaz... não pode levar seus amigos lá para baixo. Eles vão ter que esperar até você terminar a luta. Volte quando estiver pronta...}{}{}{}{}
+{151}{E:}{}{1}{}{0}{}
+{155}{Precisa de mais alguma coisa, rapaz?}{Precisa de mais alguma coisa, rapaz?}{}{}{}{}
+{156}{E:}{}{1}{}{0}{}
+

@@ -1,0 +1,94 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Saudações, senhor. Posso perguntar quem é você?}{}{5}{me 0, re 41, gf2283 0}{34}{}
+{3}{Olá, Professor Buxington. Será que eu poderia incomodá-lo por um momento?}{}{5}{me 1, re 41}{38}{}
+{4}{Senhor! Acabamos de nos conhecer! Onde estão seus modos?}{}{5}{me 0, re -40}{11}{}
+{5}{Professor Buxington! Fiz algo para ofendê-lo?}{}{5}{me 1, re -40}{11}{}
+{6}{Oi! Quem é você?}{}{-4}{me 0, gf2283 0}{34}{}
+{7}{Perry! Que bom vê-lo!}{}{-4}{gf2283 1, me 0}{38}{}
+{8}{E:}{}{1}{}{0}{}
+{11}{Sinto muito, mas o senhor está tendo um efeito bastante desagradável em meu humor. Por favor, prefiro que me deixe em paz...}{Sinto muito, mas a senhora está tendo um efeito bastante desagradável em meu humor. Por favor, prefiro que me deixe em paz...}{}{}{}{}
+{12}{Como disse? Talvez o senhor queira reconsiderar suas palavras...}{}{5}{ch 15}{30}{re +15}
+{13}{Senhor! Deve haver algo que possamos fazer para superar isso...}{}{5}{me 0}{25}{re +10}
+{14}{Professor Buxington! Certamente podemos superar nossas diferenças...}{}{5}{me 1}{25}{re +10}
+{15}{Não gostei do seu tom, senhor...}{}{5}{}{18}{re -5}
+{16}{E:}{}{1}{}{0}{}
+{18}{Receio não me importar nem um pouco, senhor. E se não for embora agora, posso ser forçado a recorrer aos meus dotes pugilísticos!}{Receio não me importar nem um pouco, senhora. E se não for embora agora, posso ser forçado a recorrer aos meus dotes pugilísticos! Não sou homem de bater em uma mulher, mas o farei se for provocado!}{}{}{}{}
+{19}{Não precisa chegar a isso, senhor. Por favor, aceite minhas desculpas...}{}{5}{}{25}{re +15}
+{20}{Parece que, apesar de todo o seu conhecimento, o senhor ainda é um asno...}{}{5}{}{}{co, fl 23}
+{21}{E:}{}{1}{}{0}{}
+{23}{Muito bem! Então será na base dos punhos, senhor!}{Muito bem! Então será na base dos punhos, senhora!}{}{}{}{}
+{25}{Bem, suponho que eu possa ignorar seus defeitos gritantes por enquanto. Agora, o que exatamente o senhor precisa?}{Bem, suponho que eu possa ignorar seus defeitos gritantes por enquanto. Agora, o que exatamente a senhora precisa?}{}{}{}{}
+{26}{Posso perguntar quem é você?}{}{5}{me 0}{34}{re +5}
+{27}{Agradeço por isso, Professor. O senhor tem um momento?}{}{5}{me 1}{38}{}
+{28}{E:}{}{1}{}{0}{}
+{30}{[O homem parece surpreso, sorrindo amplamente.] Ora! Chame-me de rabugento tolo! Mil desculpas, senhor! Parece que eu estava muito enganado sobre seu caráter! Por favor, aceite minhas mais humildes desculpas!}{[O homem parece surpreso, sorrindo amplamente.] Ora! Chame-me de rabugento tolo! Mil desculpas, senhora! Parece que eu estava muito enganado sobre seu caráter! Por favor, aceite minhas mais humildes desculpas!}{}{}{}{}
+{31}{Está esquecido. Posso perguntar seu nome?}{}{5}{me 0}{34}{}
+{32}{Está esquecido. Posso fazer algumas perguntas?}{}{5}{me 1}{38}{}
+{33}{E:}{}{1}{}{0}{}
+{34}{Sou o Professor Aldous Buxington, e sou o chefe do departamento de Religião aqui na Universidade de Tarant. E o senhor é?}{Sou o Professor Aldous Buxington, e sou o chefe do departamento de Religião aqui na Universidade de Tarant. E a senhora é?}{}{}{}{}
+{35}{Eu sou @PCNAME@. Posso lhe fazer algumas perguntas?}{}{5}{}{38}{}
+{36}{Eu @PCNAME@! Faço perguntas a você?}{}{-4}{}{38}{}
+{37}{E:}{}{1}{}{0}{}
+{38}{Certamente...}{Certamente...}{}{}{}{}
+{39}{Conte-me sobre o que o senhor faz aqui...}{}{5}{}{46}{}
+{40}{Poderia me responder algumas perguntas sobre as religiões pagãs?}{}{5}{lf1 1}{57}{}
+{41}{O que exatamente é aquele diagrama na parede?}{}{5}{lf4 1}{105}{}
+{42}{O que cê faz aqui, Aldust?}{}{-4}{}{46}{}
+{43}{Hã... fala pra mim sobre essas coisas pagãs!}{}{-4}{lf5 1}{128}{}
+{44}{E:}{}{1}{}{0}{}
+{46}{Eu? Ah, estou aqui na Universidade de Tarant há muitos anos. Principalmente dou aulas, mas ainda faço uma boa quantidade de pesquisa quando consigo tempo...}{Eu? Ah, estou aqui na Universidade de Tarant há muitos anos. Principalmente dou aulas, mas ainda faço uma boa quantidade de pesquisa quando consigo tempo...}{}{}{}{}
+{47}{Que tipo de pesquisa o senhor está fazendo no momento?}{}{5}{}{51}{}
+{48}{Hã... é?}{}{-4}{}{54}{}
+{49}{E:}{}{1}{}{0}{}
+{51}{Atualmente, estou estudando as antigas religiões pagãs de Arcanum. Como tenho certeza de que você sabe, os Panarii têm sido a religião predominante em Arcanum nos últimos 1500 anos, mas nos anos anteriores à Era das Lendas, havia muitas religiões e muitos deuses. Cada uma das raças tinha certos deuses aos quais rezavam, e são esses deuses que tenho estudado...}{Atualmente, estou estudando as antigas religiões pagãs de Arcanum. Como tenho certeza de que você sabe, os Panarii têm sido a religião predominante em Arcanum nos últimos 1500 anos, mas nos anos anteriores à Era das Lendas, havia muitas religiões e muitos deuses. Cada uma das raças tinha certos deuses aos quais rezavam, e são esses deuses que tenho estudado...}{}{}{}{lf1 1}
+{52}{Entendo. Posso lhe fazer algumas perguntas sobre as religiões pagãs?}{}{5}{}{57}{}
+{53}{E:}{}{1}{}{0}{}
+{54}{[Ele lhe lança um olhar estranho, como se só agora tivesse notado sua deficiência mental.] Vamos ver. Como posso dizer isso? EU ESTUDO RELIGIÕES ANTIGAS! DEUSES PAGÃOS. VOCÊ ENTENDE?}{[Ele lhe lança um olhar estranho, como se só agora tivesse notado sua deficiência mental.] Vamos ver. Como posso dizer isso? EU ESTUDO RELIGIÕES ANTIGAS! DEUSES PAGÃOS. VOCÊ ENTENDE?}{}{}{}{}
+{55}{Hã... é! Me fale sobre coisas pagãs!}{}{1}{}{125}{}
+{57}{Claro...}{Claro...}{}{}{}{}
+{58}{Fale-me sobre os deuses pagãos...}{}{5}{}{65}{}
+{59}{Ainda existem templos pagãos?}{}{5}{}{85}{}
+{60}{O senhor acredita nos deuses pagãos, Professor?}{}{5}{}{95}{}
+{61}{O que é aquele diagrama na parede?}{}{5}{}{105}{}
+{62}{E:}{}{1}{}{0}{}
+{65}{Havia doze deuses pagãos no total. Oito deuses menores, um para cada uma das oito raças, três deuses maiores e o Pai de Todos. Ofertas eram feitas aos deuses na esperança de obter suas bênçãos, e cada deus exigia uma oferta diferente. Fiz bastante pesquisa sobre eles... escrevi um livro sobre eles... gostaria de uma cópia?}{Havia doze deuses pagãos no total. Oito deuses menores, um para cada uma das oito raças, três deuses maiores e o Pai de Todos. Ofertas eram feitas aos deuses na esperança de obter suas bênçãos, e cada deus exigia uma oferta diferente. Fiz bastante pesquisa sobre eles... escrevi um livro sobre eles... gostaria de uma cópia?}{}{}{}{}
+{66}{Claro.}{}{5}{lf6 0}{75}{lf2 1}
+{67}{Não, obrigado. Posso fazer mais algumas perguntas sobre os deuses pagãos?}{}{5}{lf6 0}{57}{}
+{68}{Você já me deu um. Mais algumas perguntas...}{}{5}{lf6 1}{57}{}
+{69}{E:}{}{1}{}{0}{}
+{75}{Aqui está. [Ele lhe entrega o livro.] Há mais alguma coisa em que eu possa ajudá-lo?}{Aqui está. [Ele lhe entrega um.] Há mais alguma coisa em que eu possa ajudá-lo?}{}{}{}{in -5249, lf6 1}
+{76}{Tenho mais algumas perguntas sobre as religiões pagãs...}{}{5}{}{57}{}
+{77}{Mais algumas perguntas gerais...}{}{5}{}{38}{}
+{78}{E:}{}{1}{}{0}{}
+{85}{Sim. Ainda há indivíduos que os adoram... tanto a Ordem de Halcyon quanto o culto de Geshtianna são exemplos. A maioria dos antigos templos pagãos está em ruínas agora. Mas ainda é possível encontrá-los, espalhados por Arcanum, e alguns ainda têm seus altares intactos...}{Sim. Ainda há indivíduos que os adoram... tanto a Ordem de Halcyon quanto o culto de Geshtianna são exemplos. A maioria dos antigos templos pagãos está em ruínas agora. Mas ainda é possível encontrá-los, espalhados por Arcanum, e alguns ainda têm seus altares intactos...}{}{}{}{}
+{86}{Tenho mais algumas perguntas sobre as religiões pagãs...}{}{5}{}{57}{}
+{87}{Mais algumas perguntas gerais...}{}{5}{}{38}{}
+{88}{E:}{}{1}{}{0}{}
+{95}{[Ele lhe lança um olhar perspicaz.] Acredito neles? Essa é uma pergunta interessante. Estudei quase tudo o que há para saber sobre os deuses pagãos... visitei alguns dos templos, até fiz uma ou duas oferendas. Tudo o que direi é isto... vi o suficiente para saber que essas antigas crenças não devem ser tratadas com leviandade. Ande com cuidado entre os velhos deuses, meu amigo.}{[Ele lhe lança um olhar perspicaz.] Acredito neles? Essa é uma pergunta interessante. Estudei quase tudo o que há para saber sobre os deuses pagãos... visitei alguns dos templos, até fiz uma ou duas oferendas. Tudo o que direi é isto... vi o suficiente para saber que essas antigas crenças não devem ser tratadas com leviandade. Ande com cuidado entre os velhos deuses, meu amigo.}{}{}{}{}
+{96}{Tenho mais algumas perguntas sobre as religiões pagãs...}{}{5}{}{57}{}
+{97}{Mais algumas perguntas gerais...}{}{5}{}{38}{}
+{98}{E:}{}{1}{}{0}{}
+{105}{Ah, sim. Chamamos isso de Mistério de Mazzerin.}{Ah, sim. Chamamos isso de Mistério de Mazzerin.}{}{}{}{lf4 1}
+{106}{Quem foi Mazzerin?}{}{5}{}{109}{}
+{107}{Mais algumas perguntas sobre as religiões pagãs...}{}{5}{lf3 1}{57}{}
+{108}{E:}{}{5}{lf3 1}{0}{}
+{109}{Mazzerin foi um místico élfico, que fez sua parte de pesquisa sobre as antigas religiões. Há cerca de 300 anos, ele escreveu "O Livro dos Doze Poderes", que era uma análise bastante enigmática das religiões pagãs. Segundo Mazzerin, havia algum tipo de conexão mais profunda entre todas elas...}{Mazzerin foi um místico élfico, que fez sua parte de pesquisa sobre as antigas religiões. Há cerca de 300 anos, ele escreveu "O Livro dos Doze Poderes", que era uma análise bastante enigmática das religiões pagãs. Segundo Mazzerin, havia algum tipo de conexão mais profunda entre todas elas...}{}{}{}{}
+{110}{O que você quer dizer com 'conexão mais profunda'?}{}{5}{}{113}{}
+{111}{Mais algumas perguntas sobre as religiões pagãs...}{}{5}{lf3 1}{57}{}
+{112}{E:}{}{5}{lf3 1}{0}{}
+{113}{Bem, Mazzerin acreditava que os deuses e seus poderes estavam de alguma forma entrelaçados, e este diagrama deveria explicar como eles se relacionam. Certos deuses não se dão bem com outros deuses, fulano gerou beltrano, você é abençoado por este e amaldiçoado por aquele. Esse tipo de coisa...}{Bem, Mazzerin acreditava que os deuses e seus poderes estavam de alguma forma entrelaçados, e este diagrama deveria explicar como eles se relacionam. Certos deuses não se dão bem com outros deuses, fulano gerou beltrano, você é abençoado por este e amaldiçoado por aquele. Esse tipo de coisa...}{}{}{}{}
+{114}{Entendi. Você pode me explicar o diagrama?}{}{5}{}{117}{}
+{115}{Mais algumas perguntas sobre as religiões pagãs...}{}{5}{lf3 1}{57}{}
+{116}{E:}{}{5}{lf3 1}{0}{}
+{117}{Há um trecho de "O Livro dos Doze Poderes" que pode ajudar a explicar o que isso significa, mas ninguém jamais conseguiu resolver o Mistério de Mazzerin. Esse trecho está no livro que escrevi...}{Há um trecho de "O Livro dos Doze Poderes" que pode ajudar a explicar o que isso significa, mas ninguém jamais conseguiu resolver o Mistério de Mazzerin. Esse trecho está no livro que escrevi...}{}{}{}{lf3 1}
+{118}{Entendi. Posso ficar com o livro, por favor?}{}{5}{lf2 0, lf6 0}{75}{}
+{119}{Eu já tenho um. Mais algumas perguntas sobre as religiões pagãs...}{}{5}{lf6 1}{57}{}
+{120}{E:}{}{1}{}{0}{}
+{125}{[O professor lança um olhar piedoso.] Sim, sim, claro, meu simples amigo. Hum... talvez você gostasse deste panfleto! Tenho certeza de que ele pode lhe explicar sobre eles muito melhor do que eu! [Ele lhe entrega um panfleto.]}{[O professor lança um olhar piedoso.] Sim, sim, claro, meu simples amigo. Hum... talvez você gostasse deste panfleto! Tenho certeza de que ele pode lhe explicar sobre eles muito melhor do que eu! [Ele lhe entrega um panfleto.]}{}{}{}{in -5249, lf6 1}
+{126}{Ah... tá bom!}{}{5}{}{128}{lf5 1}
+{128}{Desculpe, mas eu realmente preciso voltar ao trabalho. Coisas para fazer e tudo mais. [Ele dá um tapinha na sua cabeça.] Você já pode ir! Sinta-se à vontade para passar aqui a qualquer momento!}{Desculpe, mas eu realmente preciso voltar ao trabalho. Coisas para fazer e tudo mais. [Ele dá um tapinha na sua cabeça.] Você já pode ir! Sinta-se à vontade para passar aqui a qualquer momento!}{}{}{}{}
+{129}{E:}{}{5}{}{0}{}
+{130}{}{}{}{}{}{}
+{131}{}{}{}{}{}{}
+{132}{}{}{}{}{}{}
+

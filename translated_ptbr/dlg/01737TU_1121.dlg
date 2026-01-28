@@ -1,0 +1,31 @@
+{1}{Psst... Ei, parceiro... Preciso falar com você rapidinho.}{Psst... Ei, moça... Preciso falar com você rapidinho.}{}{}{}{}
+{2}{Sim? O que posso fazer por você?}{}{5}{}{5}{}
+{3}{E:}{}{1}{}{-4}{}
+{4}{O que você quer?}{}{-4}{}{5}{}
+{5}{A Resistência precisa de você. Ainda é leal a nós?}{A Resistência precisa de você. Ainda é leal a nós?}{}{}{}{}
+{6}{Estou. O que você quer que eu faça?}{}{5}{}{16}{}
+{7}{<<<PH1>>>?}{}{5}{}{10}{}
+{8}{Tô sim. O que você quer que eu faça?}{}{-4}{}{16}{}
+{9}{<<<PH1>>>?}{}{-4}{}{10}{}
+{10}{..."Ladrões"...}{..."Ladrões"...}{}{}{}{}
+{11}{Ah! Sim... O que você quer que eu faça?}{}{5}{}{16}{}
+{12}{Não tenho certeza se entendi...}{}{5}{}{-4}{lf 15 1, fl 15}
+{13}{Hã... Sim! O que você qué que eu faça?}{}{-4}{}{16}{}
+{14}{Hã... O quê?}{}{-4}{}{-4}{lf 15 1, fl 15}
+{15}{Devo ter sido mal informado. Me desculpe pela interrupção.}{Devo ter sido mal informado. Me desculpe pela interrupção.}{}{}{}{}
+{16}{Tenho um pacote que precisa ser entregue. Não queremos que passe pelos canais normais... Está disponível para a tarefa?}{Tenho um pacote que precisa ser entregue. Não queremos que passe pelos canais normais... Está disponível para a tarefa?}{}{}{}{qu1121 1}
+{17}{Sim.}{}{5}{}{22}{}
+{18}{Sinto muito, mas devo recusar.}{}{5}{}{-4}{lf 15 1, fl 21}
+{19}{Tô sim. Eu faço.}{}{-4}{}{22}{}
+{20}{Não. Não posso agora.}{}{-4}{}{-4}{lf 15 1, fl 21}
+{21}{Sua falta de compromisso foi registrada. [olha ao redor com suspeita] Tchau.}{Sua falta de compromisso foi registrada. [olha ao redor com suspeita] Tchau.}{}{}{}{}
+{22}{Aqui. Leve isso para a Sra. Morgan. Ela mora em Roseborough.}{Aqui. Leve isso para a Sra. Morgan. Ela mora em Roseborough.}{}{}{}{in -5664, qu1121 2}
+{23}{Pode contar comigo.}{}{5}{}{-4}{lf 15 1, fl 27}
+{24}{Hã... Em Roseborough?}{}{5}{}{-4}{lf 15 1, fl 27}
+{25}{Tá bom. Eu levo.}{}{-4}{}{-4}{lf 15 1, fl 27}
+{26}{Hmm... Como eu a encontro?}{}{-4}{}{-4}{lf 15 1, fl 27}
+{27}{Vá até Roseborough. Você vai encontrá-la. Preciso ir. Não devo ser visto na sua companhia. Adeus.}{Vá até Roseborough. Você vai encontrá-la. Preciso ir. Não devo ser visto na sua companhia. Adeus.}{}{}{}{}
+{28}{}{}{}{}{}{}
+{29}{}{}{}{}{}{}
+{30}{}{}{}{}{}{}
+

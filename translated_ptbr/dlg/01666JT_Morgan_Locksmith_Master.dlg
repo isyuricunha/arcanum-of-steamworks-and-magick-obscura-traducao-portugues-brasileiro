@@ -1,0 +1,73 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{JT Morgan?}{}{5}{qu1112 2, re 41}{11}{}
+{3}{Não é assim que se fala com alguém que está prestes a te libertar...}{}{5}{qu1112 2, re -40}{18}{}
+{4}{Quem é você?}{}{5}{qu1112 0}{51}{}
+{5}{Sr. Morgan?}{}{5}{qu1112 4}{69}{}
+{6}{Jay Tee Moorgun?}{}{-4}{qu1112 2, re 41}{11}{}
+{7}{Isso não é legal! Eu vou te tirar daqui!}{}{-4}{qu1112 2, re -40}{18}{}
+{8}{Quem ocê é?}{}{-4}{qu1112 0}{51}{}
+{9}{Jay Tee?}{}{-4}{qu1112 4}{69}{}
+{10}{E:}{}{1}{}{0}{}
+{11}{Sou eu. Posso ajudá-lo com algo?}{Sou eu. Posso ajudá-lo com algo?}{}{}{}{}
+{12}{Sua mãe me enviou. Tenho suas ferramentas.}{}{5}{}{22}{}
+{13}{Sua mãe não lhe informou que eu viria?}{}{5}{}{22}{}
+{14}{Acredito que sou eu quem pode ajudá-lo...}{}{5}{}{45}{}
+{15}{Sua mãe me deu ferramentas pra você...}{}{-4}{}{22}{}
+{16}{Acho que eu 'elpo você com arguma coisa...}{}{-4}{}{45}{}
+{17}{E:}{}{1}{}{0}{}
+{18}{Oh! Você deve ser quem minha mãe mencionou. Por favor, aceite minhas desculpas. Vou me lembrar de não ser tão rude no futuro quando conhecer alguém pela primeira vez. Estou impressionado. Sua habilidade é grande, por ter chegado tão longe...}{Oh! Você deve ser quem minha mãe mencionou. Por favor, aceite minhas desculpas. Vou me lembrar de não ser tão rude no futuro quando conhecer alguém pela primeira vez. Estou impressionado. Sua habilidade é grande, por ter chegado tão longe...}{}{}{}{}
+{19}{Sua mãe lhe informou sobre nosso acordo?}{}{5}{}{27}{}
+{20}{Ela te contou o que eu quero?}{}{-4}{}{27}{}
+{21}{E:}{}{1}{}{0}{}
+{22}{Oh! Sim. Ela me avisou sobre sua vinda. Estou impressionado com sua habilidade, por ter chegado tão longe...}{Oh! Sim. Ela me avisou sobre sua vinda. Estou impressionado com sua habilidade, por ter chegado tão longe...}{}{}{}{}
+{23}{Sua mãe lhe informou sobre nosso acordo?}{}{5}{}{27}{}
+{24}{Ela te contou o que eu quero?}{}{-4}{}{27}{}
+{25}{E:}{}{1}{}{0}{}
+{26}{Socorro! Socorro! GUARDAS!!!}{Socorro! Socorro! GUARDAS!!!}{}{}{}{}
+{27}{Sim. Em troca do meu kit de chaveiro, vou treiná-lo como Mestre na arte. É o mínimo que posso fazer.}{Sim. Em troca do meu kit de chaveiro, vou treiná-lo como Mestre na arte. É o mínimo que posso fazer.}{}{}{}{}
+{28}{Muito bem. Aqui estão suas ferramentas.}{}{5}{}{31}{in 5659}
+{29}{Tá bom. Aqui estão suas ferramentas...}{}{-4}{}{31}{in 5659}
+{30}{E:}{}{1}{}{0}{}
+{31}{Obrigado. [Ele dá uma olhada nelas] Sim. Estão todas aqui. Muito bem. Agora, sobre seu treinamento...}{Obrigado. [Ele dá uma olhada nelas] Sim. Estão todas aqui. Muito bem. Agora, sobre seu treinamento...}{}{}{}{qu1112 4, gf2277 1}
+{32}{Pois não?}{}{5}{}{35}{}
+{33}{Sim?}{}{-4}{}{35}{}
+{34}{E:}{}{1}{}{0}{}
+{35}{Ao conseguir trazer essas ferramentas até mim, você demonstrou que já dominou a arte da serralheria. Sua habilidade é impressionante. Ouso dizer que rivaliza com a minha própria? Permita-me conceder-lhe o título formal de Mestre Serralheiro. Você o conquistou.}{Ao conseguir trazer essas ferramentas até mim, você demonstrou que já dominou a arte da serralheria. Sua habilidade é impressionante. Ouso dizer que rivaliza com a minha própria? Permita-me conceder-lhe o título formal de Mestre Serralheiro. Você o conquistou.}{}{}{}{tr14 3, rq2173}
+{36}{Obrigado. Vamos sair deste lugar miserável?}{}{5}{}{39}{}
+{37}{Obrigadu. Ocê tá prontu pá i?}{}{-4}{}{39}{}
+{38}{E:}{}{1}{}{0}{}
+{39}{Você deve refazer seus passos e sair sozinho. Esperarei um tempo para garantir sua passagem segura. Assim que tiver certeza de que se foi, farei minha fuga. Não faz sentido dois de nós sermos pegos, se o alarme soar. Seja cauteloso. Agora vá!}{Você deve refazer seus passos e sair sozinho. Esperarei um tempo para garantir sua passagem segura. Assim que tiver certeza de que se foi, farei minha fuga. Não faz sentido dois de nós sermos pegos, se o alarme soar. Seja cauteloso. Agora vá!}{}{}{}{}
+{40}{Eu vou. Foi um prazer conhecê-lo, senhor. Adeus.}{}{5}{}{0}{}
+{41}{Acredito que só deve haver um Mestre... Eu. Me desculpe...}{}{5}{}{}{co, fl 26}
+{42}{Eu vou. Obrigadu. Adeus.}{}{-4}{}{0}{}
+{43}{Acho qui só deve tê um Mestre... Eu. Adeus...}{}{-4}{}{}{co, fl 26}
+{44}{E:}{}{1}{}{0}{}
+{45}{O que você quer dizer? Quem é você?!}{O que você quer dizer? Quem é você?!}{}{}{}{}
+{46}{Sua mãe não lhe informou que eu viria?}{}{5}{}{22}{}
+{47}{Sua mãe me enviou. Tenho suas ferramentas.}{}{5}{}{22}{}
+{48}{Sua mãe num te avisou qui eu vinha cá?}{}{-4}{}{22}{}
+{49}{Sua mãe me deu as ferramentas pra você...}{}{-4}{}{22}{}
+{50}{E:}{}{1}{}{0}{}
+{51}{Ora, sou JT Morgan, Mestre Serralheiro.}{Ora, sou JT Morgan, Mestre Serralheiro.}{}{}{}{}
+{52}{Um Mestre, hein? Como entrou aqui?}{}{5}{}{59}{}
+{53}{Mestre, é? Bem, estou aqui para libertá-lo. Venha, junte-se a mim...}{}{5}{}{63}{}
+{54}{E eu sou o seu pior pesadelo...}{}{5}{}{}{co, fl 26}
+{55}{Mestre, é? Por que você tá aqui?}{}{-4}{}{59}{}
+{56}{Mestre, é? Tô aqui pra te soltar. Venha comigo...}{}{-4}{}{63}{}
+{57}{Sou a sua morte...}{}{-4}{}{}{co, fl 26}
+{58}{E:}{}{1}{}{0}{}
+{59}{Fui pego no meio de um roubo no palácio real. Aquele maldito novo dispositivo tecnológico me pegou rápido! Estou aqui desde então.}{Fui pego no meio de um roubo no palácio real. Aquele maldito novo dispositivo tecnológico me pegou rápido! Estou aqui desde então.}{}{}{}{}
+{60}{Que pena. Por que não vem comigo?}{}{5}{}{63}{}
+{61}{Que ruim. Ocê num qué vim comigo?}{}{-4}{}{63}{}
+{62}{E:}{}{1}{}{0}{}
+{63}{Não consigo. As proteções colocadas para me manter aqui são impenetráveis. Já tentei tudo o que sei. Nada funciona.}{Não consigo. As proteções colocadas para me manter aqui são impenetráveis. Já tentei tudo o que sei. Nada funciona.}{}{}{}{}
+{64}{Não se preocupe. Eu vou tirar você daqui...}{}{5}{}{0}{}
+{65}{Hmmm. Acho que vou ter que matar você através das grades...}{}{5}{}{}{co, fl 26}
+{66}{Tá bom. Eu te tiro daqui...}{}{-4}{}{0}{}
+{67}{Que pena. Vou ter que matar você através dessas grades...}{}{-4}{}{}{co, fl 26}
+{68}{E:}{}{1}{}{0}{}
+{69}{Pois não?}{Pois não?}{}{}{}{}
+{70}{Obrigado mais uma vez pelo meu treinamento. Desejo sucesso na sua fuga.}{}{5}{}{0}{}
+{71}{Valeu. Espero que sua fuga dê certo. Tchau.}{}{-4}{}{0}{}
+{72}{E:}{}{1}{}{0}{}
+

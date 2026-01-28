@@ -1,0 +1,253 @@
+{1}{Quem ousa perturbar o poderoso Kraka-tur?}{Quem ousa perturbar o poderoso Kraka-tur?}{}{}{}{}
+{2}{Suponho que esse seria eu... mil desculpas por isso...}{}{5}{me 0}{8}{}
+{3}{Eu de novo. Posso lhe fazer algumas perguntas?}{}{5}{me 1}{21}{}
+{4}{Hã... acho que sou eu! Desculpe se estou incomodando!}{}{-4}{me 0}{8}{}
+{5}{Oi! Eu de novo! Posso lhe fazer algumas perguntas?}{}{-4}{me 1}{21}{}
+{6}{E:}{}{1}{}{0}{}
+{8}{Desculpe? DESCULPE? Você tem noção dos poderes que posso lançar contra você? A fúria de Kraka-tur não tem limites!}{Desculpe? DESCULPE? Você tem noção dos poderes que posso lançar contra você? A fúria de Kraka-tur não tem limites!}{}{}{}{}
+{9}{Tenho certeza. Talvez eu pudesse lhe fazer algumas perguntas, ó poderoso?}{}{5}{}{21}{}
+{10}{Sim, sim... tenho muita certeza disso. Escute, preciso de ajuda...}{}{5}{}{77}{}
+{11}{Espere... você disse Kraka-tur? Eu li o seu diário...}{}{5}{gf2436 1}{170}{lf2 1}
+{12}{Você é um sujeito bem irritante, não é?}{}{5}{}{103}{}
+{13}{Hã... preciso de ajuda!}{}{-4}{}{77}{}
+{14}{Você diz coisas estúpidas. Está me deixando com raiva...}{}{-4}{}{103}{}
+{15}{E:}{}{1}{}{0}{}
+{21}{Suponho que eu poderia deixá-lo viver tempo suficiente para responder algumas perguntas...}{Suponho que eu poderia deixá-lo viver tempo suficiente para responder algumas perguntas...}{}{}{}{}
+{22}{Por que não me conta um pouco sobre você, Kraka-tur...}{}{5}{}{40}{}
+{23}{Qual é a sua opinião sobre Kerghan, o Terrível?}{}{5}{lf4 0, lf5 0, lf6 0, lf7 0, gf2060 1}{87}{}
+{24}{Qual é a sua opinião sobre Arronax?}{}{5}{lf4 0, lf5 0, lf6 0, lf7 0, gf2060 0}{95}{}
+{25}{Talvez você gostaria de se juntar a mim para destruir Kerghan?}{}{5}{lf4 0, lf5 0, lf6 0, lf7 0, gf2060 1}{112}{}
+{26}{Talvez você gostaria de se juntar a mim para destruir Arronax?}{}{5}{lf4 0, lf5 0, lf6 0, lf7 0, gf2060 0}{112}{}
+{27}{Tem certeza de que não quer se juntar a mim, Kraka-tur?}{}{5}{lf4 1}{142}{}
+{28}{Tem certeza de que não quer se juntar a mim, Kraka-tur? Pela sua liberdade?}{}{5}{lf5 1}{160}{}
+{29}{Tem certeza de que não quer se juntar a mim, Kraka-tur? Pelo diário?}{}{5}{lf6 1}{197}{}
+{30}{Tem certeza de que não quer se juntar a mim, Kraka-tur? Pelo seu olho?}{}{5}{lf7 1}{214}{}
+{31}{Preciso de ajuda!}{}{-4}{}{77}{}
+{32}{Hã... você quer me ajudar a matar Kerghan?}{}{-4}{lf4 0, lf5 0, lf6 0, lf7 0, gf2060 1}{87}{}
+{33}{Hã... você quer me ajudar a matar Arronax?}{}{-4}{lf4 0, lf5 0, lf6 0, lf7 0, gf2060 0}{95}{}
+{34}{Vai se juntar a mim ou não?}{}{-4}{lf4 1}{142}{}
+{35}{Vai se juntar a mim ou não? Eu levo você para casa!}{}{-4}{lf5 1}{160}{}
+{36}{Vai se juntar a mim ou não? Vou devolver seu diário!}{}{-4}{lf6 1}{197}{}
+{37}{Vai se juntar a mim ou não? Vou devolver seu olho!}{}{-4}{lf7 1}{214}{}
+{38}{E:}{}{1}{}{0}{}
+{40}{O que você quer saber sobre o temível Kraka-tur?}{O que você quer saber sobre o temível Kraka-tur?}{}{}{}{}
+{41}{Conte-me sobre sua vida em Arcanum...}{}{5}{}{47}{}
+{42}{Como você foi enviado para cá?}{}{5}{}{68}{}
+{43}{O que você tem feito aqui no Vazio?}{}{5}{}{73}{}
+{44}{Mais algumas perguntas...}{}{5}{}{21}{}
+{45}{E:}{}{5}{}{0}{}
+{47}{Minha vida em Arcanum foi há milênios! Assim são as vidas dos deuses! Mas vou lhe contar... certa vez, eu era um mero mortal, assim como você. Vivia em uma pequena aldeia onde era ridicularizado e menosprezado, apenas por ser diferente! Reconheço que talvez nem sempre tenha sido a pessoa mais fácil de conviver, mas não é assim que são os homens fortes? Eu era um visionário e fui desprezado por isso...}{Minha vida em Arcanum foi há milênios! Assim são as vidas dos deuses! Mas vou lhe contar... certa vez, eu era um mero mortal, assim como você. Vivia em uma pequena aldeia onde era ridicularizado e menosprezado, apenas por ser diferente! Reconheço que talvez nem sempre tenha sido a pessoa mais fácil de conviver, mas não é assim que são os homens fortes? Eu era um visionário e fui desprezado por isso...}{}{}{}{}
+{48}{[Ouvir.]}{}{1}{}{50}{}
+{50}{Então, eu estava em uma aventura... como costumava fazer... e me deparei com um antigo templo nas montanhas. Lá, encontrei um pergaminho antigo que descrevia um feitiço tão poderoso, tão horrível, que ainda acredito que foi escondido de propósito. Antes de mim, não havia nenhum homem na história de Arcanum que pudesse lidar com uma magia tão antiga e poderosa!}{Então, eu estava em uma aventura... como costumava fazer... e me deparei com um antigo templo nas montanhas. Lá, encontrei um pergaminho antigo que descrevia um feitiço tão poderoso, tão horrível, que ainda acredito que foi escondido de propósito. Antes de mim, não havia nenhum homem na história de Arcanum que pudesse lidar com uma magia tão antiga e poderosa!}{}{}{}{}
+{51}{[Ouvir.]}{}{5}{}{55}{}
+{52}{Espere... já ouvi isso antes... eu encontrei seu diário...}{}{5}{gf2436 1}{170}{}
+{53}{E:}{}{1}{}{0}{}
+{55}{Esse pergaminho descrevia um feitiço para transformar um homem em uma terrível besta-dragão [Ele gesticula para si mesmo.]. Tudo o que era necessário eram as palavras certas e uma gota de sangue de dragão. Como você provavelmente pode imaginar, sangue de dragão geralmente é bem escasso...}{Esse pergaminho descrevia um feitiço para transformar um homem em uma terrível besta-dragão [Ele gesticula para si mesmo.]. Tudo o que era necessário eram as palavras certas e uma gota de sangue de dragão. Como você provavelmente pode imaginar, sangue de dragão geralmente é bem escasso...}{}{}{}{}
+{56}{[Ouvir.]}{}{5}{}{59}{}
+{57}{E:}{}{1}{}{0}{}
+{59}{O último dragão em Arcanum era Bellerogrim... a criatura mais poderosa e temível que já caminhou pela terra. E então fui direto para seu covil e lutei contra ele até a morte para conseguir uma única gota de sangue! Foi uma batalha feroz, mas, no fim, eu saí vitorioso. Mesmo como um mortal, eu era muito, muito corajoso e poderoso...}{O último dragão em Arcanum era Bellerogrim... a criatura mais poderosa e temível que já caminhou pela terra. E então fui direto para seu covil e lutei contra ele até a morte para conseguir uma única gota de sangue! Foi uma batalha feroz, mas, no fim, eu saí vitorioso. Mesmo como um mortal, eu era muito, muito corajoso e poderoso...}{}{}{}{}
+{60}{[Ouvir.]}{}{5}{gf2436 0}{64}{}
+{61}{Hã... desculpe. Seu diário não diz que você o envenenou...?}{}{5}{gf2436 1}{170}{}
+{62}{E:}{}{1}{}{0}{}
+{64}{E assim... com o sangue de Bellerogrim, o dragão, usei o pergaminho e me tornei o maligno e destrutivo Kraka-tur! Poderoso Kraka-tur! Saqueador de cidades, devorador de mulheres e crianças! E Kraka-tur ruge com...!}{E assim... com o sangue de Bellerogrim, o dragão, usei o pergaminho e me tornei o maligno e destrutivo Kraka-tur! Poderoso Kraka-tur! Saqueador de cidades, devorador de mulheres e crianças! E Kraka-tur ruge com...!}{}{}{}{}
+{65}{Acho que entendi. Mais algumas perguntas sobre você...}{}{5}{}{40}{}
+{66}{E:}{}{1}{}{0}{}
+{68}{Fui enviado para cá apenas pelos esforços do poderoso Conselho Élfico, liderado pelo próprio Nasrudin! Houve uma batalha colossal entre nós, e apenas pela força bruta de seus números eles finalmente subjugaram o poderoso Kraka-tur! Nasrudin se escondeu como um covarde enquanto seus lacaios morriam aos milhares...! Fui banido, mas nunca derrotado! Eu sou Kraka-tur! Eu...!}{Fui enviado para cá apenas pelos esforços do poderoso Conselho Élfico, liderado pelo próprio Nasrudin! Houve uma batalha colossal entre nós, e apenas pela força bruta de seus números eles finalmente subjugaram o poderoso Kraka-tur! Nasrudin se escondeu como um covarde enquanto seus lacaios morriam aos milhares...! Fui banido, mas nunca derrotado! Eu sou Kraka-tur! Eu...!}{}{}{}{}
+{69}{Certo. Mais algumas perguntas sobre você...}{}{5}{}{40}{}
+{70}{Nasrudin parecia pintar um quadro diferente dessa batalha...}{}{5}{gf2439 1}{182}{}
+{71}{E:}{}{1}{}{0}{}
+{73}{Tenho espalhado o terror aqui, como fiz em Arcanum! Olhe ao seu redor! Este é o vale da morte! Ninguém sobreviveu à fúria de Kraka-tur!}{Tenho espalhado o terror aqui, como fiz em Arcanum! Olhe ao seu redor! Este é o vale da morte! Ninguém sobreviveu à fúria de Kraka-tur!}{}{}{}{}
+{74}{Entendo. Mais algumas perguntas...}{}{5}{}{40}{}
+{75}{E:}{}{1}{}{0}{}
+{77}{Ajuda? Por que você acha que o poderoso Kraka-tur se rebaixaria para ajudar uma criatura tão patética quanto você? Kraka-tur é terrível... seus julgamentos são rápidos e mortais! Eu esmago o mundo sob meu calcanhar! Destruo tudo! Eu vou...}{Ajuda? Por que você acha que o poderoso Kraka-tur se rebaixaria para ajudar uma criatura tão patética quanto você? Kraka-tur é terrível... seus julgamentos são rápidos e mortais! Eu esmago o mundo sob meu calcanhar! Destruo tudo! Eu vou...}{}{}{}{}
+{78}{Sim... entendi. Isso tem a ver com Kerghan...}{}{5}{gf2060 1}{87}{}
+{79}{Sim... já entendi. Isso tem a ver com Arronax...}{}{5}{gf2060 0}{95}{}
+{80}{Esse discurso foi a coisa mais ridícula que já ouvi...}{}{5}{}{103}{}
+{81}{Hã... preciso de ajuda com Kerghan!}{}{-4}{gf2060 1}{87}{}
+{82}{Hã... preciso de ajuda com os Arrow-nacks!}{}{-4}{gf2060 0}{95}{}
+{83}{Você diz coisas engraçadas! Me faz rir!}{}{-4}{}{103}{}
+{84}{K:}{}{1}{}{21}{re -5}
+{85}{E:}{}{1}{}{0}{}
+{87}{Kerghan? [A criatura massiva à sua frente parece se encolher.] O-o que você quer dizer? O que você quer com K-kerghan?}{Kerghan? [A criatura massiva à sua frente parece se encolher.] O-o que você quer dizer? O que você quer com K-kerghan?}{}{}{}{}
+{88}{Estou procurando destruí-lo. Preciso da ajuda do poderoso Kraka-tur!}{}{5}{}{112}{re +5}
+{89}{Nossa! Nunca acreditei que veria uma criatura tão covarde!}{}{5}{}{103}{re -5}
+{90}{Talvez você não seja tão terrível e cruel quanto pensei...}{}{5}{}{103}{re -5}
+{91}{Preciso matá-lo! Preciso que você me ajude!}{}{-4}{}{112}{}
+{92}{Hã... você parece assustado. Talvez vá chorar?}{}{-4}{}{103}{}
+{93}{E:}{}{1}{}{0}{}
+{95}{Arronax? [A criatura massiva à sua frente parece se encolher.] O-o que você quer dizer? O que você quer com A-arronax?}{Arronax? [A criatura massiva à sua frente parece se encolher.] O-o que você quer dizer? O que você quer com A-arronax?}{}{}{}{}
+{96}{Estou procurando destruí-lo. Preciso da ajuda do poderoso Kraka-tur!}{}{5}{}{112}{re +5}
+{97}{Nossa! Nunca acreditei que veria uma criatura tão covarde!}{}{5}{}{103}{re -5}
+{98}{Talvez você não seja tão terrível e cruel quanto pensei...}{}{5}{}{103}{re -5}
+{99}{Preciso matá-lo! Preciso que você me ajude!}{}{-4}{}{112}{}
+{100}{Hã... você parece assustado. Talvez vá chorar?}{}{-4}{}{103}{}
+{101}{E:}{}{1}{}{0}{}
+{103}{O quê? Você ousa zombar de mim? Eu sou Kraka-tur! Destruidor de mundos! Criador de viúvas e órfãos! Não aceitarei tal tratamento de um mero mortal como você...!}{O quê? Você ousa zombar de mim? Eu sou Kraka-tur! Destruidor de mundos! Criador de viúvas e órfãos! Não aceitarei tal tratamento de um mero mortal como você...!}{}{}{}{}
+{104}{Por favor, me perdoe, grande Kraka-tur! Você me ajudará com Kerghan?}{}{5}{}{112}{re +5}
+{105}{Pensando bem, a última coisa que preciso é de um tolo covarde ao meu lado...}{}{5}{}{227}{}
+{106}{Espere, ó grande Kraka-tur! Posso lhe fazer algumas perguntas?}{}{5}{}{21}{}
+{107}{Talvez falemos sobre isso mais tarde...}{}{5}{}{0}{}
+{108}{Hã... não gosto de você. Você age como uma garota!}{}{-4}{}{227}{}
+{109}{Hã... posso lhe fazer algumas perguntas?}{}{-4}{}{21}{}
+{110}{Tenho que ir. Talvez eu volte mais tarde...}{}{-4}{}{0}{}
+{112}{Hmmm. Talvez. O que exatamente está acontecendo?}{Hmmm. Talvez. O que exatamente está acontecendo?}{}{}{}{}
+{113}{[Diga a ele.]}{}{1}{gf2060 1}{116}{}
+{114}{[Diga a ele.]}{}{1}{gf2060 0}{122}{}
+{116}{Entendo. [A criatura se ergue em toda a sua altura, as narinas soltando vapor.] Então! Você pede ajuda ao terrível Kraka-tur para lutar contra o maligno Kerghan! Lutar fogo com fogo! Eu destruirei aquele necromante desastrado com um grande golpe de minha garra! Seu sangue fluirá quando o poderoso Kraka-tur passar seu julgamento! Todos tremerão diante do poder de Kraka-tur!}{Entendo. [A criatura se ergue em toda a sua altura, as narinas soltando vapor.] Então! Você pede ajuda ao terrível Kraka-tur para lutar contra o maligno Kerghan! Lutar fogo com fogo! Eu destruirei aquele necromante desastrado com um grande golpe de minha garra! Seu sangue fluirá quando o poderoso Kraka-tur passar seu julgamento! Todos tremerão diante do poder de Kraka-tur!}{}{}{}{}
+{117}{Então... você vai me ajudar?}{}{5}{}{138}{}
+{118}{Você faz parecer tão fácil! Por que não fez isso antes?}{}{5}{}{126}{}
+{119}{Então você vai me ajudar?}{}{-4}{}{138}{}
+{120}{E:}{}{5}{}{0}{}
+{122}{Entendo. [A criatura se ergue em toda a sua altura, as narinas soltando vapor.] Então! Você pede ajuda ao terrível Kraka-tur para lutar contra Arronax! Lutar fogo com fogo! Eu destruirei aquele elfo presunçoso com um único golpe poderoso! Vou banquetear-me com seus ossos! Mastigar sua carne! Todos tremerão diante do poder de Kraka-tur!}{Entendo. [A criatura se ergue em toda a sua altura, as narinas soltando vapor.] Então! Você pede ajuda ao terrível Kraka-tur para lutar contra o maligno Arronax! Lutar fogo com fogo! Eu destruirei aquele elfo presunçoso com um único golpe poderoso! Vou banquetear-me com seus ossos! Mastigar sua carne! Todos tremerão diante do poder de Kraka-tur!}{}{}{}{}
+{123}{Então você vai me ajudar?}{}{1}{}{134}{}
+{124}{E:}{}{1}{}{0}{}
+{126}{Bem, é... ahem... você sabe como são as coisas aqui no Vazio. Tantas coisas para fazer... é... e... é, e Kerghan era um peão tão insignificante! Sim, é isso! Eu não precisava me preocupar em esmagar o pobre tolo! Achei que poderia, é... deixá-lo esperar... err, imaginar quando o poderoso Kraka-tur apareceria para despedaçá-lo!}{Bem, é... ahem... você sabe como são as coisas aqui no Vazio. Tantas coisas para fazer... é... e... é, e Kerghan era um peão tão insignificante! Sim, é isso! Eu não precisava me preocupar em esmagar o pobre tolo! Achei que poderia, é... deixá-lo esperar... err, imaginar quando o poderoso Kraka-tur apareceria para despedaçá-lo!}{}{}{}{}
+{127}{Ah. Entendo. Ele deve estar apavorado além da conta!}{}{5}{}{131}{re +10}
+{128}{Parece que as lendas não são confiáveis. Você não passa de um covarde choramingas!}{}{5}{}{227}{}
+{129}{E:}{}{5}{}{0}{}
+{131}{É... sim! Eu sei que ele é como uma criança assustada, tremendo em sua grande fortaleza! Deixe-o tremer! Pois Kraka-tur é todo-poderoso, onipotente, terrível como os grandes dragões de outrora! Eu mergulharei sobre ele com asas de fúria, purificando-o com fogo ancestral! Eu vou...}{É... sim! Eu sei que ele é como uma criança assustada, tremendo em sua grande fortaleza! Deixe-o tremer! Pois Kraka-tur é todo-poderoso, onipotente, terrível como os grandes dragões de outrora! Eu mergulharei sobre ele com asas de fúria, purificando-o com fogo ancestral! Eu vou...}{}{}{}{}
+{132}{Sim, tenho certeza. Agora... você vai me ajudar?}{}{5}{}{138}{}
+{134}{Bem, agora não vamos nos precipitar... Quero dizer, estamos falando de Arronax. Não que eu vá ter qualquer dificuldade em despachá-lo, é claro! Pois eu sou Kraka-tur! A ruína do passado, presente e futuro! O...!}{Bem, agora não vamos nos precipitar... Quero dizer, estamos falando de Arronax. Não que eu vá ter qualquer dificuldade em despachá-lo, é claro! Pois eu sou Kraka-tur! A ruína do passado, presente e futuro! O...!}{}{}{}{}
+{135}{É... o que é que você quer?}{}{5}{}{142}{}
+{136}{O que você qué?}{}{-4}{}{142}{}
+{138}{Bem, agora não vamos nos precipitar... Quero dizer, estamos falando do terrível Kerghan. Não que eu vá ter qualquer dificuldade em despachá-lo, é claro! Pois eu sou Kraka-tur! A ruína do passado, presente e futuro! O...!}{Bem, agora não vamos nos precipitar... Quero dizer, estamos falando do terrível Kerghan. Não que eu vá ter qualquer dificuldade em despachá-lo, é claro! Pois eu sou Kraka-tur! A ruína do passado, presente e futuro! O...!}{}{}{}{}
+{139}{Sim, por favor! O que você está dizendo?}{}{5}{}{142}{}
+{140}{É... o que você tá falando?}{}{-4}{}{142}{}
+{142}{Kraka-tur exige pagamento por seus serviços! Você achou que eu viria em seu socorro sem algum tipo de oferenda? Você deve prestar suas homenagens! Kraka-tur cobra um preço alto! Aldeias inteiras foram sacrificadas para me apaziguar! Pois eu sou...!}{Kraka-tur exige pagamento por seus serviços! Você achou que eu viria em seu socorro sem algum tipo de oferenda? Você deve prestar suas homenagens! Kraka-tur cobra um preço alto! Aldeias inteiras foram sacrificadas para me apaziguar! Pois eu sou...!}{}{}{}{}
+{143}{Vejamos. Espere! Acho que tenho seu olho aqui em algum lugar...}{}{5}{in 5248}{207}{}
+{144}{Bem, talvez eu pudesse devolver este diário a você...}{}{5}{in 5619, lf2 0}{170}{lf3 1}
+{145}{Bem, talvez eu pudesse devolver este diário a você...}{}{5}{in 5619, lf2 1}{214}{lf3 1}
+{146}{E se eu dissesse que posso tirar você daqui?}{}{5}{}{160}{}
+{147}{Esqueça. Você não seria de nenhuma ajuda na batalha que está por vir. Tenha um bom dia...}{}{5}{}{0}{lf4 1}
+{148}{Ei! Esse é o seu olho, certo? Eu devolvo o olho para você!}{}{-4}{in 5248}{207}{}
+{149}{Hã... eu tenho esse, hã, diár... acho que é seu...}{}{-4}{in 5619, lf2 0}{170}{lf3 1}
+{150}{Hã... eu tenho esse, hã, diár... acho que é seu...}{}{-4}{in 5619, lf2 1}{214}{lf3 1}
+{151}{Hã... eu poderia te levar de volta para 'Canum'!}{}{-4}{}{160}{}
+{152}{Hã... eu não preciso de você. Vou indo agora...}{}{-4}{}{0}{lf4 1}
+{154}{Que oferenda você preferiria dar?}{Que oferenda você preferiria dar?}{}{}{}{}
+{155}{Acho que prefiro te dar o olho...}{}{5}{}{214}{}
+{156}{Que tal o diário em vez disso?}{}{5}{}{197}{}
+{157}{Talvez eu pudesse simplesmente oferecer sua liberdade do Vazio...}{}{5}{}{160}{}
+{158}{Talvez a gente converse sobre isso mais tarde...}{}{5}{}{0}{lf4 1}
+{160}{Você quer dizer voltar para Arcanum? Bem, é claro! Eu poderia continuar meu reinado de terror sobre todos os povos da terra! Todo o Arcanum tremerá diante da fúria de Kraka-tur! Poderoso Kraka-tur! O...}{Você quer dizer voltar para Arcanum? Bem, é claro! Eu poderia continuar meu reinado de terror sobre todos os povos da terra! Todo o Arcanum tremerá diante da fúria de Kraka-tur! Poderoso Kraka-tur! O...}{}{}{}{}
+{161}{Certo, certo. Então você vai se juntar a mim?}{}{5}{}{220}{lf5 1, jo 0 166}
+{162}{Hã... talvez eu tenha falado rápido demais. Tenha um bom dia...}{}{5}{}{0}{lf4 1}
+{163}{É! Você vai se juntar a mim então?}{}{-4}{}{220}{lf5 1, jo 0 166}
+{164}{Hã... talvez não. Vou indo agora...}{}{-4}{}{0}{lf4 1}
+{166}{Sim... em troca da minha libertação deste lugar infernal, eu me juntarei a você! Você precisará da minha ajuda para derrotar esse monstro! Ele cairá diante do nosso poder combinado! Talvez você nem precise da força do poderoso Kraka-tur! Hã... talvez eu só observe enquanto você dá um jeito nesse cretino! Na verdade, talvez eu fique vigiando a porta da frente enquanto você luta com ele até a morte! Eu...}{Sim... em troca da minha libertação deste lugar infernal, eu me juntarei a você! Você precisará da minha ajuda para derrotar esse monstro! Ele cairá diante do nosso poder combinado! Talvez você nem precise da força do poderoso Kraka-tur! Hã... talvez eu só observe enquanto você dá um jeito nesse cretino! Na verdade, talvez eu fique vigiando a porta da frente enquanto você luta com ele até a morte! Eu...}{}{}{}{gf2440 1}
+{167}{Certo, certo. Vamos lá, Kraka-tur...}{}{5}{}{0}{}
+{168}{Hã... tanto faz.}{}{-4}{}{0}{}
+{170}{O quê...? Meu diário? Você quer dizer meu último testamento? Onde conseguiu isso?}{O quê...? Meu diário? Você quer dizer meu último testamento? Onde conseguiu isso?}{}{}{}{}
+{171}{[Diga a ele.]}{}{1}{}{173}{}
+{173}{Esse ainda estava no covil de Bellerogrim depois de todos esses anos! Espere! Não me lembro direito do que escrevi... foi na véspera da minha gloriosa batalha contra o Nasrudin e o Conselho Élfico! Que grande batalha foi aquela!}{Esse ainda estava no covil de Bellerogrim depois de todos esses anos! Espere! Não me lembro direito do que escrevi... foi na véspera da minha gloriosa batalha contra o Nasrudin e o Conselho Élfico! Que grande batalha foi aquela!}{}{}{}{}
+{174}{O Nasrudin parecia descrever a batalha de forma diferente...}{}{5}{gf2439 1}{182}{}
+{175}{Estranho. Seu diário tinha um cheiro de covardia por toda parte...}{}{5}{}{190}{}
+{176}{Tenho certeza que sim, poderoso Kraka-tur! Agora você vai me ajudar?}{}{5}{lf3 0, gf2060 1}{138}{}
+{177}{Tenho certeza de que foi, poderoso Kraka-tur! Agora você vai me ajudar?}{}{5}{lf3 0, gf2060 0}{134}{}
+{178}{Sim, tenho certeza. Então você se juntará a mim se eu devolvê-lo a você...?}{}{5}{lf3 1}{197}{}
+{179}{Hã... então você me ajuda se eu der para você?}{}{-4}{}{197}{}
+{180}{E:}{}{1}{}{0}{}
+{182}{O quê? Você falou com Nasrudin? E-e... ele ainda está vivo? Já se passaram mais de 2000 anos! Hã... ele ainda guarda rancor de tudo aquilo, não é? Quer dizer... deixe o passado para trás, é o que sempre digo... Quer dizer, é... que Nasrudin tema o poder de Kraka-tur! Que ele se alegre por o Vazio estar entre nós! Eu arrancaria a carne dos seus...!}{O quê? Você falou com Nasrudin? E-e... ele ainda está vivo? Já se passaram mais de 2000 anos! Hã... ele ainda guarda rancor de tudo aquilo, não é? Quer dizer... deixe o passado para trás, é o que sempre digo... Quer dizer, é... que Nasrudin tema o poder de Kraka-tur! Que ele se alegre por o Vazio estar entre nós! Eu arrancaria a carne dos seus...!}{}{}{}{}
+{183}{Tá bom, tá bom. Mais algumas perguntas sobre você...}{}{5}{}{40}{}
+{184}{Sim, entendi. Escute... preciso da sua ajuda com Kerghan...}{}{5}{lf3 0, gf2060 1}{87}{}
+{185}{Sim, entendi. Escute... preciso da sua ajuda com Arronax...}{}{5}{lf3 0, gf2060 0}{95}{}
+{186}{Ele me disse que você chorou como uma mulher quando o baniram!}{}{5}{}{190}{re -5}
+{187}{Entendi, entendi. Agora você vai se juntar a mim ou não?}{}{5}{lf3 1}{197}{}
+{188}{E:}{}{5}{}{0}{}
+{190}{O quê? Eu vou matar você só por dizer essas palavras! Kraka-tur é como um deus! Kraka-tur é monstruoso, erguendo-se acima das massas choramingantes como uma tempestade furiosa! Kraka-tur...!}{O quê? Eu vou matar você só por dizer essas palavras! Kraka-tur é como um deus! Kraka-tur é monstruoso, erguendo-se acima das massas choramingantes como uma tempestade furiosa! Kraka-tur...!}{}{}{}{}
+{191}{Meu deus. Escute, sinto muito. POR FAVOR, me ajude contra Kerghan...}{}{5}{lf3 0, gf2060 1}{87}{re +5}
+{192}{Meu deus. Escute, sinto muito. POR FAVOR, me ajude contra Arronax...}{}{5}{lf3 0, gf2060 0}{95}{}
+{193}{Tá bom, tá bom... me perdoe. Então você vai se juntar a mim ou não?}{}{5}{lf3 1}{197}{re +5}
+{194}{Você é patético e fraco, Kraka-tur. É simples assim...}{}{5}{}{227}{}
+{195}{Não suporto mais isso. Tenha um bom dia.}{}{5}{}{0}{}
+{197}{Hmmm. Então você vai me devolver o diário, e eu ajudo você a derrotá-lo? Poderia, hã, garantir que nunca conte a ninguém o que leu ali...? Não que eu tema algo ou alguém! Kraka-tur é como a lua e o sol! Atemporal e terrível! Eu profanarei tudo...!}{Hmmm. Então você vai me devolver o diário, e eu ajudo você a derrotá-lo? Poderia, hã, garantir que nunca conte a ninguém o que leu ali...? Não que eu tema algo ou alguém! Kraka-tur é como a lua e o sol! Atemporal e terrível! Eu profanarei tudo...!}{}{}{}{}
+{198}{Sim, sim. Então você vai se juntar a mim ou não?}{}{5}{}{220}{lf6 1, jo 0 203}
+{199}{Hã... talvez eu tenha falado rápido demais. Tenha um bom dia...}{}{5}{}{0}{lf4 1}
+{200}{É! Então você se junta a mim?}{}{-4}{}{220}{lf6 1, jo 0 203}
+{201}{Hã... talvez não. Eu vou indo...}{}{-4}{}{0}{lf4 1}
+{203}{Sim! E você PRECISARÁ da minha ajuda para derrotá-lo! Ele cairá diante do nosso poder combinado! Ou, talvez você nem precise da força do poderoso Kraka-tur! Hã... talvez eu só assista enquanto você dá um jeito nesse cretino! Na verdade, talvez eu fique vigiando a porta da frente enquanto você luta com ele até a morte! Pois eu sou Kraka-tur, o...!}{Sim! E você PRECISARÁ da minha ajuda para derrotá-lo! Ele cairá diante do nosso poder combinado! Ou, talvez você nem precise da força do poderoso Kraka-tur! Hã... talvez eu só assista enquanto você dá um jeito nesse cretino! Na verdade, talvez eu fique vigiando a porta da frente enquanto você luta com ele até a morte! Pois eu sou Kraka-tur, o...!}{}{}{}{}
+{204}{Ah, meu deus. Vamos logo...}{}{5}{}{0}{}
+{205}{Hã... tanto faz...}{}{-4}{}{0}{}
+{207}{O quê? Meu olho? Como em nome dos deuses você conseguiu isso...?}{O quê? Meu olho? Como em nome dos deuses você conseguiu isso...?}{}{}{}{}
+{208}{[Diga a ele.]}{}{1}{}{210}{}
+{210}{Interessante. Eu deveria matar você só por trazê-lo de volta para mim! Pois eu sou o poderoso Kraka-tur! Donzelas tremem ao ouvir meu nome! Eu assombro os pesadelos das crianças! Eu...}{Interessante. Eu deveria matar você só por trazê-lo de volta para mim! Pois eu sou o poderoso Kraka-tur! Donzelas tremem ao ouvir meu nome! Eu assombro os pesadelos das crianças! Eu...}{}{}{}{}
+{211}{Temos um acordo ou não?}{}{5}{}{214}{}
+{212}{Hã... sim ou não?}{}{-4}{}{214}{}
+{214}{Hmmm. Sim... suponho que esteja sentindo falta do meu olho há bastante tempo. Acho que poderia aceitá-lo como pagamento pelos meus serviços contra... esse... m-maluco...}{Hmmm. Sim... suponho que esteja sentindo falta do meu olho há bastante tempo. Acho que poderia aceitá-lo como pagamento pelos meus serviços contra... esse... m-maluco...}{}{}{}{}
+{215}{Então... você vai se juntar a mim?}{}{5}{}{220}{lf7 1, jo 0 223}
+{216}{Hã... talvez eu tenha falado rápido demais. Tenha um bom dia...}{}{5}{}{0}{lf4 1}
+{217}{É! Você se junta a mim então?}{}{-4}{}{220}{lf7 1, jo 0 223}
+{218}{Hã... talvez não. Eu vou indo...}{}{-4}{}{0}{lf4 1}
+{220}{Precisa de mais alguma coisa do poderoso Kraka-tur?}{Precisa de mais alguma coisa do poderoso Kraka-tur?}{}{}{}{lf1 1}
+{221}{E:}{}{1}{}{0}{}
+{223}{Sim! Você vai precisar da minha ajuda para derrotá-lo! Ele cairá diante do nosso poder combinado! Talvez você nem precise da força do poderoso Kraka-tur! Hã... talvez eu só observe enquanto você dá um jeito nesse cretino! Na verdade, talvez eu fique vigiando a porta da frente enquanto você o enfrenta até a morte! Eu...}{Sim! Você vai precisar da minha ajuda para derrotá-lo! Ele cairá diante do nosso poder combinado! Talvez você nem precise da força do poderoso Kraka-tur! Hã... talvez eu só observe enquanto você dá um jeito nesse cretino! Na verdade, talvez eu fique vigiando a porta da frente enquanto você o enfrenta até a morte! Eu...}{}{}{}{}
+{224}{Certo. Vamos lá...}{}{5}{}{0}{}
+{225}{Hã... tá bom! Vamos lá!}{}{-4}{}{0}{}
+{227}{O-quê? Ninguém fala tais palavras e vive! Trema diante do poder de Kraka-tur! Derramei oceanos de sangue! Montanhas de ossos marcam os caminhos da minha fúria! Fogo e destruição...!}{O-quê? Ninguém fala tais palavras e vive! Trema diante do poder de Kraka-tur! Derramei oceanos de sangue! Montanhas de ossos marcam os caminhos da minha fúria! Fogo e destruição...!}{}{}{}{}
+{228}{Por favor... me perdoe. Mais algumas perguntas...}{}{5}{}{21}{}
+{229}{Talvez eu não esteja me fazendo claro. Você é uma piada...}{}{5}{}{233}{}
+{230}{Desculpe! Posso fazer mais algumas perguntas...?}{}{-4}{}{21}{}
+{231}{Hã... você também fede muito...}{}{-4}{}{233}{}
+{233}{[Os olhos da criatura quase saltam para fora.] EU NUNCA OUVI TANTA INSOLENCIA! DEVOURAREI 100 GERAÇÕES DA SUA FAMÍLIA! ELES AMALDIÇOARÃO SEU NOME PELA TRAGÉDIA QUE VOCÊ TROUXE NESTE DIA! ELES IRÃO...!}{[Os olhos da criatura quase saltam para fora.] EU NUNCA OUVI TANTA INSOLENCIA! DEVOURAREI 100 GERAÇÕES DA SUA FAMÍLIA! ELES AMALDIÇOARÃO SEU NOME PELA TRAGÉDIA QUE VOCÊ TROUXE NESTE DIA! ELES IRÃO...!}{}{}{}{}
+{234}{Por favor... me perdoe. Mais algumas perguntas...}{}{5}{}{21}{}
+{235}{Tá bom. Isso é ridículo. EU ACHO QUE VOCÊ É UM FRACOTE! LUTE COMIGO!}{}{5}{}{239}{}
+{236}{Desculpe! Posso fazer mais algumas perguntas...?}{}{-4}{}{21}{}
+{237}{Hã... você não entende. Eu acho que quero matar você, Kraka-merda!}{}{-4}{}{239}{}
+{239}{[A grande fera dragão parece recuar.] Bem, vamos não deixar isso sair do controle! Quero dizer, eu não fiz nada com você... v-você que me incomodou aqui. Hã... não que eu não vá matar você se disser mais uma bobagem! Pois eu sou Kraka-tur! O terrível devastador da história! Morte a todos e a tudo! Eu irei...!}{[A grande fera dragão parece recuar.] Bem, vamos não deixar isso sair do controle! Quero dizer, eu não fiz nada com você... v-você que me incomodou aqui. Hã... não que eu não vá matar você se disser mais uma bobagem! Pois eu sou Kraka-tur! O terrível devastador da história! Morte a todos e a tudo! Eu irei...!}{}{}{}{}
+{240}{Por favor... me perdoe. Só mais algumas perguntas...}{}{5}{}{21}{}
+{241}{Lute comigo, seu covarde!}{}{5}{}{245}{}
+{242}{Desculpe! Posso fazer mais algumas perguntas...?}{}{-4}{}{21}{}
+{243}{Eu só quero lutar! Cale a boca e lute!}{}{-4}{}{245}{}
+{245}{[Sua imponência parece diminuir, ele abaixa a cabeça.] Hã... você não parece estar no melhor dos humores. O-o que eu fiz para merecer esse t-tratamento? Quer dizer, primeiro Nasrudin e seus capangas me atacam em bando, e agora... err, quero dizer... você vai pagar por isso! Eu sou Kraka-tur! O Mastigador de Milhões! Vou banquetear-me com suas entranhas...!}{[Sua imponência parece diminuir, ele abaixa a cabeça.] Hã... você não parece estar no melhor dos humores. O-o que eu fiz para merecer esse t-tratamento? Quer dizer, primeiro Nasrudin e seus capangas me atacam em bando, e agora... err, quero dizer... você vai pagar por isso! Eu sou Kraka-tur! O Mastigador de Milhões! Vou banquetear-me com suas entranhas...!}{}{}{}{}
+{246}{Por favor... me perdoe. Só mais algumas perguntas...}{}{5}{}{21}{}
+{247}{Você é só um fanfarrão! Já conheci leiteiras mais duronas!}{}{5}{}{251}{}
+{248}{Desculpe! Posso fazer mais algumas perguntas...?}{}{-4}{}{21}{}
+{249}{Você me cansa. Por favor... lute logo. Pare de choramingar!}{}{-4}{}{251}{}
+{251}{N-não me pressione! Se continuar nesse caminho, eu v-v-vou destruir você, seus descendentes e seus a-a-ancestrais também! S-sim! P-pois eu sou o grandioso e poderoso Kraka-tur! Não restará nem uma memória de você! Pois eu controlo o tempo e os elementos! Sou um deus, em forma de dragão! Eu sou...!}{N-não me pressione! Se continuar nesse caminho, eu v-v-vou destruir você, seus descendentes e seus a-a-ancestrais também! S-sim! P-pois eu sou o grandioso e poderoso Kraka-tur! Não restará nem uma memória de você! Pois eu controlo o tempo e os elementos! Sou um deus, em forma de dragão! Eu sou...!}{}{}{}{}
+{252}{Por favor... me perdoe. Só mais algumas perguntas...}{}{5}{}{21}{}
+{253}{Aaaarrrggghhh! APENAS LUTE COMIGO E CALE A BOCA!}{}{5}{}{227}{}
+{254}{Desculpe! Posso fazer mais algumas perguntas...?}{}{-4}{}{21}{}
+{255}{Talvez você não tenha me ouvido. EU VOU TE MATAR!!!!!}{}{-4}{}{227}{}
+{260}{Sim? O que deseja do poderoso Kraka-tur?}{Sim? O que deseja do poderoso Kraka-tur?}{}{}{}{}
+{261}{B:}{}{1}{wa 0}{}{}
+{263}{Gostaria de saber algumas coisas sobre você, Kraka-tur...}{}{5}{wa 0}{}{ce}
+{264}{Gostaria que fizesse algo por mim, Kraka-tur...}{}{5}{wa 0}{275}{}
+{265}{Preciso que faça algo por mim, Kraka-turzinho.}{}{-4}{wa 0}{275}{}
+{266}{Pode parar de esperar agora, Kraka-tur.}{}{5}{wa 1}{302}{uw 0 288}
+{267}{Pare de esperar, Kraka-tur!}{}{-4}{wa 1}{302}{uw 0 288}
+{268}{Quero saber algumas coisas sobre você, Kraka-tur!}{}{-4}{wa 0}{}{ce}
+{269}{E:}{}{1}{}{0}{}
+{270}{O que Kraka-tur pode responder para você?}{O que Kraka-tur pode responder para você?}{}{}{}{}
+{271}{Gostaria de saber algumas coisas sobre você, Kraka-tur...}{}{5}{}{}{ce}
+{272}{Quero saber algumas coisas sobre você, Kraka-tur!}{}{-4}{}{}{ce}
+{273}{E:}{}{1}{}{0}{}
+{275}{Que trivialidade deseja do terrível Kraka-tur?}{Que trivialidade deseja do terrível Kraka-tur?}{}{}{}{}
+{276}{Saia da frente, Kraka-tur.}{}{5}{}{0}{so}
+{277}{Saia daqui, Kraka-tur!}{}{-4}{}{0}{so}
+{278}{Chegue um pouco mais perto, Kraka-tur.}{}{5}{}{0}{sc}
+{279}{Venha aqui, Kraka-tur!}{}{-4}{}{0}{sc}
+{280}{Espere aqui por um tempo...}{}{5}{wa 0}{291}{wa}
+{281}{Hã... espere aqui um minutinho...}{}{-4}{wa 0}{291}{wa}
+{282}{Você pode parar de esperar agora, Kraka-tur.}{}{5}{wa 1}{302}{uw 0 288}
+{283}{Pare de esperar, Kraka-tur!}{}{-4}{wa 1}{302}{uw 0 288}
+{284}{Acho melhor você deixar o grupo.}{}{5}{}{294}{lv}
+{285}{Eu não querer mais você no grupo...}{}{-4}{}{294}{lv}
+{286}{[Voltar]}{}{1}{}{260}{}
+{288}{Kraka-tur está sempre pronto para semear o caos e a destruição! Vamos lá e façamos isso!}{Kraka-tur está sempre pronto para semear o caos e a destruição! Vamos lá e façamos isso!}{}{}{}{}
+{289}{E:}{}{1}{}{0}{}
+{291}{O quê? Você ousa fazer Kraka-tur esperar? Isso não será esquecido!}{O quê? Você ousa fazer Kraka-tur esperar? Isso não será esquecido!}{}{}{}{}
+{292}{E:}{}{1}{}{0}{}
+{294}{NINGUÉM DIZ AO INCRÍVEL KRAKA-TUR QUANDO ELE DEVE PARTIR! VOCÊ SOFRERÁ UMA ETERNIDADE DE DOR POR ESTA ATROCIDADE! VOCÊ VAI...!!!!}{NINGUÉM DIZ AO INCRÍVEL KRAKA-TUR QUANDO ELE DEVE PARTIR! VOCÊ SOFRERÁ UMA ETERNIDADE DE DOR POR ESTA ATROCIDADE! VOCÊ VAI...!!!!}{}{}{}{lf31 1}
+{295}{E:}{}{1}{}{0}{}
+{297}{Hã... ei! É você! Bom te ver... er, hã... QUERO DIZER... VOCÊ OUSA SE APROXIMAR DA MASSA MORTÍFERA DE KRAKA-TUR APÓS A IRREVERÊNCIA QUE DEMONSTROU? ISTO NÃO PODE SER TOLERADO!!!!}{Hã... ei! É você! Bom te ver... er, hã... QUERO DIZER... VOCÊ OUSA SE APROXIMAR DA MASSA MORTÍFERA DE KRAKA-TUR APÓS A IRREVERÊNCIA QUE DEMONSTROU? ISTO NÃO PODE SER TOLERADO!!!!}{}{}{}{}
+{298}{Eu estava me perguntando se você gostaria de se juntar a mim novamente, Kraka-tur?}{}{5}{}{302}{jo 0 305}
+{299}{Você quer se juntar a mim de novo, Kraka-tur?}{}{-4}{}{302}{jo 0 305}
+{300}{E:}{}{1}{}{0}{}
+{302}{Você precisa de mais alguma coisa de Kraka-tur?}{Você precisa de mais alguma coisa de Kraka-tur?}{}{}{}{}
+{303}{E:}{}{1}{}{0}{}
+{305}{Ótimo! Claro que irei!.. hã, er... SIM!!!! EU DEIGNEI A REBAIXAR-ME E VIAJAR COM VOCÊ!!!! CONSIDERE-SE SORTUDO!!!!}{Ótimo! Claro que irei!.. hã, er... SIM!!!! EU DEIGNEI A REBAIXAR-ME E VIAJAR COM VOCÊ!!!! CONSIDERE-SE SORTUDO!!!!}{}{}{}{lf31 0}
+{306}{E:}{}{1}{}{0}{}
+{308}{[snif.] Você demorou demais. Por que está sendo tão mau... er.. uh, VOCÊ DESPERTOU A FÚRIA SANGUINÁRIA ESPUMANTE DE KRAKA-TUR! A MORTE ESTÁ PRÓXIMA, MORTAL TOLO E INCONSIDERADO!!!!}{[snif.] Você demorou demais. Por que está sendo tão mau... er.. uh, VOCÊ DESPERTOU A FÚRIA SANGUINÁRIA ESPUMANTE DE KRAKA-TUR! A MORTE ESTÁ PRÓXIMA, MORTAL TOLO E INCONSIDERADO!!!!}{}{}{}{}
+{309}{Você gostaria de se juntar a mim novamente, Kraka-tur?}{}{5}{}{302}{jo 0 305}
+{310}{Junte-se a mim de novo!}{}{-4}{}{302}{jo 0 305}
+

@@ -1,0 +1,81 @@
+{1}{Olá, senhor. Posso ajudá-lo?}{Olá, madame. Posso ajudá-la?}{}{}{}{}
+{2}{Posso entrar para tomar uma bebida?}{1}{5}{}{9}{}
+{3}{Posso entrar para tomar uma bebida?}{0}{5}{}{12}{}
+{4}{Eu tinha uma ou duas perguntas sobre o roubo em Garringsburg...}{}{5}{qa1063 1, qb1063 3, gf2268 0}{27}{}
+{5}{Um nome na lista que você me deu... Rorry Limes. Quem é ele?}{}{5}{gf2268 1}{90}{}
+{6}{Hã... eu entro?}{1}{-4}{}{9}{}
+{7}{Hã... eu entro?}{0}{-4}{}{12}{}
+{8}{Hã... pergunto sobre o rou-bo em Gar-r-ings-b-urg...?}{}{-4}{qa1063 1, qb1063 3}{27}{}
+{9}{Claro, senhor. Pedimos apenas que se comporte de maneira cavalheiresca. Permita-me abrir a porta. [Ele o faz.] Por favor... aproveite.}{Claro, madame. Pedimos apenas que se comporte de maneira elegante. Permita-me abrir a porta. [Ele o faz.] Por favor... aproveite.}{}{}{}{}
+{10}{Obrigado, eu vou.}{}{5}{}{-2}{}
+{11}{Obrigado!}{}{-4}{}{-2}{}
+{12}{Sinto muito, madame. Este é um clube de cavalheiros. Sem ofensas, mas mulheres não são permitidas aqui dentro.}{Sinto muito, madame. Este é um clube de cavalheiros. Sem ofensas, mas mulheres não são permitidas aqui dentro.}{}{}{}{}
+{13}{Não há como eu ser autorizada a entrar...?}{}{5}{ni 5231}{94}{}
+{14}{Hã... você tem certeza que eu não posso entrar?}{}{-4}{ni 5231}{94}{}
+{17}{Recebi este convite especial, senhor...}{}{5}{in 5231}{86}{}
+{18}{Eu tenho um con-v-i-te! Olha!}{}{-4}{in 5231}{86}{}
+{19}{Entendo. Bom dia para você.}{}{5}{}{0}{}
+{20}{Hã... tchau.}{}{-4}{}{0}{}
+{27}{O roubo em Garringsburg? Sim... um assunto terrível. Não posso dizer que estou surpreso, no entanto... o velho James esteve aqui há uma semana, alardeando sobre sua pintura e o quanto valia. Todo homem em Tarant já sabia que ela estava lá quando o arrastaram para fora daqui...}{O roubo em Garringsburg? Sim... um assunto terrível. Não posso dizer que estou surpreso, no entanto... o velho James esteve aqui há uma semana, alardeando sobre sua pintura e o quanto valia. Todo homem em Tarant já sabia que ela estava lá quando o arrastaram para fora daqui...}{}{}{}{}
+{28}{Posso lhe fazer algumas perguntas sobre aquela noite?}{}{5}{}{37}{}
+{29}{Acho que gostaria de entrar e dar uma olhada...}{1}{5}{}{9}{}
+{30}{Acho que gostaria de entrar e dar uma olhada...}{0}{5}{}{12}{}
+{32}{Posso fazer perguntas?}{}{-4}{}{37}{}
+{33}{Eu entro no bar?}{1}{-4}{}{9}{}
+{34}{Eu entro no bar?}{0}{-4}{}{12}{}
+{35}{E:}{}{1}{}{0}{}
+{36}{}{}{}{}{}{}
+{37}{O que você gostaria de saber?}{O que você gostaria de saber?}{}{}{}{}
+{38}{Com quem o Sr. Garringsburg estava naquela noite?}{}{5}{}{50}{}
+{39}{Quem poderia guardar rancor do Sr. Garringsburg?}{}{5}{}{54}{}
+{40}{Havia alguém estranho aqui naquela noite?}{}{5}{lf1 0}{58}{}
+{41}{Teve alguém estranho aqui naquela noite?}{}{5}{lf1 1}{83}{}
+{42}{Talvez eu pudesse dar uma olhada lá dentro?}{1}{5}{}{9}{}
+{43}{Talvez eu pudesse dar uma olhada lá dentro?}{0}{5}{}{12}{}
+{45}{Hã... eu não sou muito esperto... preciso de ajuda...}{}{-4}{}{78}{}
+{46}{Eu entro no bar?}{1}{-4}{}{9}{}
+{47}{Eu entro no bar?}{0}{-4}{}{12}{}
+{48}{E:}{}{1}{}{0}{}
+{50}{Ah... você sabe, os círculos de sempre... o Sr. Willoughsby, o Sr. Pettibone e a maioria dos cavalheiros gnomos, além de alguns dos elfos urbanos mais... decadentes. O pessoal com quem ele costuma andar...}{Ah... você sabe, os círculos de sempre... o Sr. Willoughsby, o Sr. Pettibone e a maioria dos cavalheiros gnomos, além de alguns dos elfos urbanos mais... decadentes. O pessoal com quem ele costuma andar...}{}{}{}{}
+{51}{Entendo. Mais algumas perguntas sobre aquela noite...}{}{5}{}{37}{}
+{52}{E:}{}{5}{}{0}{}
+{54}{Ninguém que eu conheça... ele é um sujeitinho alegre, o Sr. Garringsburg. Sempre disposto a pagar uma rodada para a casa... ah, as histórias que eu poderia contar...}{Ninguém que eu conheça... ele é um sujeitinho alegre, o Sr. Garringsburg. Sempre disposto a pagar uma rodada para a casa... ah, as histórias que eu poderia contar...}{}{}{}{}
+{55}{Sim, tenho certeza. Mais algumas perguntas sobre aquela noite...}{}{5}{}{37}{}
+{56}{E:}{}{5}{}{0}{}
+{58}{Bem... não tenho muita certeza. E esse tipo de informação pode custar algumas moedas... eu diria uns 50 peças de ouro?}{Bem... não tenho muita certeza. E esse tipo de informação pode custar algumas moedas... eu diria uns 50 peças de ouro?}{}{}{}{}
+{59}{Feito.}{}{5}{$$50}{74}{$$-50}
+{60}{Desculpe... parece que não tenho o dinheiro.}{}{5}{$$-49}{64}{}
+{61}{Talvez eu pudesse convencê-lo a baixar um pouco o preço?}{}{5}{ha 6, $$45}{68}{}
+{62}{Não, acho que não. Mais algumas perguntas?}{}{5}{}{37}{}
+{64}{Sem problemas... estou sempre aqui. Se conseguir o dinheiro, passe de novo...}{Sem problemas... estou sempre aqui. Se conseguir o dinheiro, passe de novo...}{}{}{}{}
+{65}{Vou fazer isso... mais algumas perguntas?}{}{5}{}{37}{}
+{66}{E:}{}{5}{}{0}{}
+{68}{No que estava pensando?}{No que estava pensando?}{}{}{}{}
+{69}{Talvez 45 peças de ouro fossem mais apropriadas...}{}{5}{ha -7}{74}{$$-45}
+{70}{Vamos fechar em 40 peças de ouro e encerrar isso...}{}{5}{ha 8, ha -8}{74}{$$-40}
+{71}{35 peças de ouro pareceriam mais apropriadas...}{}{5}{ha 9}{74}{$$-35}
+{72}{Mudei de ideia. Mais algumas perguntas...}{}{5}{}{37}{}
+{74}{Parece bom. [Ele tira um pedaço de papel do paletó.] Esta página é do livro de visitas... é daquela noite. Talvez você consiga encontrar algo nela...}{Parece bom. [Ele tira um pedaço de papel do paletó.] Esta página é do livro de visitas... é daquela noite. Talvez você consiga encontrar algo nela...}{}{}{}{lf1 1, in -5221}
+{75}{Agradeço a ajuda. Mais algumas perguntas...?}{}{5}{}{37}{}
+{76}{E:}{}{5}{}{0}{}
+{78}{[O homem olha para você, sorrindo torto.] Sim, você precisa mesmo. Escute, amigo... você é meio lerdo, mas parece ter o coração no lugar certo. Se está procurando respostas, deveria consultar a Madame Toussaude... ela é uma cigana com uma loja lá na Rua de Avellone. Uma velha esquisita, mas às vezes sabe das coisas mais estranhas...}{[O homem olha para você, sorrindo torto.] Sim, sim, você tem razão. Escute, madame... você é um pouco lenta, mas parece ter o coração no lugar certo. Se são respostas que está procurando, deveria consultar Madame Toussaude... ela é uma cigana com uma loja na Rue de Avellone. Uma velha esquisita, mas às vezes sabe das coisas mais estranhas...}{}{}{}{gf2114 1}
+{79}{Ah... tá bom! Vou falar com ela... obrigada!}{}{-4}{}{0}{}
+{80}{Obrigado! Posso entrar agora?}{1}{-4}{}{9}{}
+{81}{Obrigado! Posso entrar agora?}{0}{-4}{}{12}{}
+{83}{Já conversamos sobre isso, lembra? [Ele pisca para você.] Tenho certeza de que aquela página do livro de visitas será muito útil...}{Já conversamos sobre isso, lembra? [Ele pisca para você.] Tenho certeza de que aquela página do livro de visitas será muito útil...}{}{}{}{}
+{84}{Ah, sim. Mais algumas perguntas...}{}{5}{}{37}{}
+{85}{E:}{}{5}{}{0}{}
+{86}{[Dá para ver que ele não está feliz com isso.] Entendo. Bem, madame, não posso impedi-la de entrar. Mas isso é altamente irregular. Receio que os membros regulares não ficarão nada satisfeitos. Peço-lhe... resolva seus assuntos aqui e saia o mais rápido possível. [Ele abre a porta para você.]}{[Dá para ver que ele não está feliz com isso.] Entendo. Bem, madame, não posso impedi-la de entrar. Mas isso é altamente irregular. Receio que os membros regulares não ficarão nada satisfeitos. Peço-lhe... resolva seus assuntos aqui e saia o mais rápido possível. [Ele abre a porta para você.]}{}{}{}{}
+{87}{E:}{}{1}{}{-2}{}
+{90}{[Ele puxa você para o lado, sussurrando com rispidez.] Meu Deus, homem! Quer calar a boca de uma vez? Se alguém descobrir que eu lhe dei isso... [Ele se acalma um pouco.] Escute, não sei quem é Limes, mas você sempre pode verificar no Salão dos Registros. Eles podem ter alguma informação...}{[Ele puxa você para o lado, sussurrando com rispidez.] Meu Deus, mulher! Quer calar a boca de uma vez? Se alguém descobrir que eu lhe dei isso... [Ele se acalma um pouco.] Escute, não sei quem é Limes, mas você sempre pode verificar no Salão dos Registros. Eles podem ter alguma informação...}{}{}{}{}
+{91}{Entendo. Obrigado. Posso entrar?}{1}{5}{}{9}{}
+{92}{Entendo. Obrigado. Posso entrar?}{0}{5}{}{12}{}
+{93}{E:}{}{5}{}{0}{}
+{94}{[Ele lhe lança um olhar arrogante.] Sinto muito, MADAME. Este é um clube de cavalheiros, e há regras antigas sobre o... uh... sexo frágil. O Sr. Wendell Wellington fundou este clube há 30 anos, e se ele diz que não permite mulheres, então não haverá mulheres sob minha supervisão. Sinto muito, mas é assim que as coisas são.}{[Ele lhe lança um olhar arrogante.] Sinto muito, MADAME. Este é um clube de cavalheiros, e há regras antigas sobre o... uh... sexo frágil. O Sr. Wendell Wellington fundou este clube há 30 anos, e se ele diz que não permite mulheres, então não haverá mulheres sob minha supervisão. Sinto muito, mas é assim que as coisas são.}{}{}{}{gf2649 1}
+{95}{Entendo. E onde eu poderia encontrar esse Sr. Wellington?}{}{5}{}{100}{}
+{96}{Hã... onde fica o Wen-dell Wellin-ton?}{}{-4}{}{100}{}
+{97}{Tenha um bom dia, então...}{}{5}{}{0}{}
+{98}{E:}{}{-4}{}{0}{}
+{100}{[O segurança olha para você com incredulidade.] Madame! Como se eu fosse lhe dizer onde o honorável Sr. Wellington mora! Por favor, respeite os desejos e a privacidade do homem. Devo pedir que deixe o local...}{[O segurança olha para você com incredulidade.] Madame! Como se eu fosse lhe dizer onde o honorável Sr. Wellington mora! Por favor, respeite os desejos e a privacidade do homem. Devo pedir que deixe o local...}{}{}{}{ru 2213}
+{101}{E:}{}{1}{}{0}{}
+

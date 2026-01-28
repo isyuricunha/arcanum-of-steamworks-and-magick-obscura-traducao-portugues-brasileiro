@@ -1,0 +1,45 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Por favor, senhor. Posso fazer uma pergunta?}{}{5}{re-40}{11}{}
+{3}{Posso lhe fazer uma pergunta, senhor?}{}{5}{re41}{29}{}
+{4}{Hã... eu pergunto uma coisa... por favô?}{}{-4}{re-40}{11}{}
+{5}{Hã... eu pergunto uma coisa?}{}{-4}{re41}{29}{}
+{6}{Sobre aquele treinamento?}{}{5}{gf2677 1, sk4 9, tr4 1, tr4 -1}{62}{}
+{7}{Hã... eu ser treinado?}{}{-4}{gf2677 1, sk4 9, tr4 1, tr4 -1}{62}{}
+{8}{Você está livre!}{}{5}{gf2677 1, sk4 -8, tr4 -1}{}{fl 61}
+{9}{Hã... você estar livre!}{}{-4}{gf2677 1, sk4 -8, tr4 -1}{}{fl 61}
+{10}{E:}{}{1}{}{0}{}
+{11}{Normalmente eu não perderia meu tempo com você, parceiro... mas como não tenho nada melhor para me distrair, vou te dar um minuto.}{Normalmente eu não perderia meu tempo com você, moça... mas como não tenho nada melhor para me distrair, você vai ter que servir. O que você quer?}{}{}{}{}
+{12}{Por que você está aqui?}{}{5}{}{40}{}
+{13}{Hã... por que você 'tá aqui?}{}{-4}{}{40}{}
+{14}{}{}{}{}{}{}
+{16}{F:}{}{1}{}{0}{}
+{29}{...Não é como se eu tivesse algo melhor para fazer. O que você quer?}{...Bem! Você é um colírio para os olhos. O que posso fazer por você, querida?}{}{}{}{}
+{30}{Eu estava me perguntando por que você estava aqui?}{}{5}{}{40}{}
+{31}{Hã... por que você 'tá aqui?}{}{-4}{}{40}{}
+{32}{}{}{}{}{}{}
+{34}{F:}{}{1}{}{0}{}
+{40}{Bah! Algum idiota me insultou lá no bar! Eu estava ensinando boas maneiras a ele quando aqueles malditos guardas apareceram e me arrastaram pra cá. Se tivessem me deixado mais uns minutos, eu teria ensinado àquele caipira uma lição que ele nunca esqueceria. [Ele faz gestos com as mãos, como se apunhalando alguém pelas costas.]}{Bah! Algum idiota me insultou lá no bar! Eu estava ensinando boas maneiras a ele quando aqueles malditos guardas apareceram e me arrastaram pra cá. Se tivessem me deixado mais uns minutos, eu teria ensinado àquele caipira uma lição que ele nunca esqueceria. [Ele faz gestos com as mãos, como se apunhalando alguém pelas costas.]}{}{}{}{}
+{41}{Oh, meu Deus.}{}{1}{sk4 -8, tr4 -1}{}{fl 46}
+{42}{Você é habilidoso em apunhalar pelas costas?}{}{5}{sk4 9, tr41, tr4 -1}{47}{}
+{43}{Hã... você ser bom em apunhalar pelas costas?}{}{-4}{sk4 9, tr41, tr4 -1}{47}{}
+{45}{E:}{}{1}{}{0}{}
+{46}{Bah! Já estou farto de você! Me deixe em paz!}{Bah! Já estou farto de você! Me deixe em paz!}{}{}{}{}
+{47}{Habilidoso! Eu sou isso... Diga, por acaso você não estaria procurando por treinamento de Especialista na minha área específica, estaria?}{Habilidoso! Eu sou isso... Diga, por acaso você não estaria procurando por treinamento de Especialista na minha área específica, estaria?}{}{}{}{}
+{48}{Estou procurando me tornar um Especialista em apunhalar pelas costas...}{}{5}{}{51}{}
+{49}{Hã... sim. Eu quer ser Especialista em apunhalar pelas costas.}{}{-4}{}{51}{}
+{50}{F:}{}{1}{}{0}{}
+{51}{Vou te dizer uma coisa. Você paga minha fiança. Sabe... me tira daqui, e eu te treino. O que me diz?}{Vou te dizer uma coisa. Você paga minha fiança. Sabe... me tira daqui, e eu te treino. O que me diz?}{}{}{}{}
+{52}{Vou pensar no assunto.}{}{5}{}{0}{}
+{53}{Com quem eu falo?}{}{5}{}{57}{}
+{54}{Hã... eu penso no assunto.}{}{-4}{}{0}{}
+{55}{Hã... com quem eu falo?}{}{-4}{}{57}{}
+{56}{F:}{}{1}{}{0}{}
+{57}{O carcereiro. Volte para falar comigo depois de pagar a fiança. Aí eu te treino.}{O carcereiro. Venha falar comigo depois de pagar a fiança. Então, eu treinarei você.}{}{}{}{}
+{58}{Voltarei em breve.}{}{5}{}{0}{}
+{59}{Hã... eu vol...tá.}{}{-4}{}{0}{}
+{60}{E:}{}{1}{}{0}{}
+{61}{Bem! Valeu, parceiro!}{Bem! Valeu, moça!}{}{}{-3}{}
+{62}{Muito obrigado, @pcname@! [Ele então leva alguns momentos para demonstrar algumas técnicas que você ainda não tinha visto.] Muito bem. Agora você é um Especialista em ataques pelas costas. Preciso ir. Obrigado novamente.}{Muito obrigado, @pcname@! [Ele então leva alguns momentos para demonstrar algumas técnicas que você ainda não tinha visto.] Muito bem. Agora você é um Especialista em ataques pelas costas. Preciso ir. Obrigado novamente.}{}{}{}{tr4 2}
+{63}{Adeus, Jerrold.}{}{5}{}{-3}{}
+{64}{Hã... T-tchau.}{}{-4}{}{-3}{}
+

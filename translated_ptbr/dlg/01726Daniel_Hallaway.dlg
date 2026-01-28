@@ -1,0 +1,195 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Saudações, bom senhor. Posso perguntar sua posição?}{}{5}{lf1 0, re 41}{54}{}
+{3}{Senhor! O senhor sempre cumprimenta novos clientes dessa maneira?!}{}{5}{lf1 0, re -40, ch -10}{29}{}
+{4}{Senhor! O senhor sempre cumprimenta novos clientes dessa maneira?!}{}{5}{lf1 0, re -40, ch 11}{46}{}
+{5}{Saudações, Sr. Hallaway. Posso incomodá-lo por um momento?}{}{5}{lf1 1, lf2 0, Re 41}{74}{}
+{6}{Não há necessidade de grosseria, Sr. Hallaway.}{}{5}{lf1 1, lf2 0, Re -40}{80}{}
+{7}{Não há necessidade de grosseria, Sr. Hallaway.}{}{5}{lf2 1, re -40, re 25}{}{re -5, fl 45}
+{8}{Não há necessidade de grosseria, Sr. Hallaway.}{}{5}{lf2 1, re -24}{}{co, fl 44}
+{9}{Eu poderia conseguir aquele cofre forte para o senhor...}{}{5}{qu1083 1, ni 5645}{103}{}
+{10}{Ainda não consegui o cofre forte para o senhor...}{}{5}{qu1083 2, ni 5645}{110}{}
+{11}{Consegui o cofre forte.}{}{5}{qa1083 1, qb1083 3,  in 5645}{144}{}
+{15}{Quem ocê é?}{}{-4}{lf1 0, re 41}{54}{}
+{16}{Ei! Isso não é legal!}{}{-4}{lf1 0, re -40, ch -10}{29}{}
+{17}{Ei! Isso não é legal!}{}{-4}{lf1 0, re -40, ch 11}{46}{}
+{18}{Eu posso perguntar uma coisa, Sr. Hallaway?}{}{-4}{lf1 1, lf2 0, Re 41}{74}{}
+{19}{Eu posso perguntar uma coisa pro malvado?}{}{-4}{lf1 1, lf2 0, Re -40}{80}{}
+{20}{Eu posso perguntar uma coisa pro malvado?}{}{-4}{lf2 1, re -40, re 25}{}{re -5, fl 45}
+{21}{Eu posso perguntar uma coisa pro malvado?}{}{-4}{lf2 1, re -24}{}{co, fl 44}
+{22}{Tá bom. Eu vou buscar a caixa pro senhor...}{}{-4}{qu1083 1, ni 5645}{103}{}
+{23}{Eu ainda não peguei a caixa...}{}{-4}{qu1083 2, ni 5645}{110}{}
+{24}{Eu peguei a caixa! Eu peguei a caixa!}{}{-4}{qa1083 1, qb1083 3,  in 5645}{144}{}
+{25}{E:}{}{-4}{}{0}{}
+{29}{Nós não servimos o seu tipo aqui. Saia das dependências ou serei forçado a chamar a guarda.}{Nós não servimos o seu tipo aqui. Saia das dependências ou serei forçado a chamar a guarda.}{}{}{}{}
+{30}{Por favor, bom gnomo, tenho apenas algumas perguntas para lhe fazer.}{}{5}{}{50}{}
+{31}{É melhor o senhor tomar cuidado com o tom ao falar comigo.}{}{5}{sk2 -11}{37}{re -5}
+{32}{É melhor o senhor tomar cuidado com o tom ao falar comigo.}{}{5}{sk2 12}{46}{}
+{33}{Hã... eu tô sendo legal. Eu só quero perguntar uma coisa...}{}{-4}{}{50}{}
+{34}{[ameaçador] Eu acho que ocê precisa ser legal agora.}{}{-4}{sk2 -11}{37}{re -5}
+{35}{[ameaçador] Eu acho que ocê precisa ser legal agora.}{}{-4}{sk2 12}{46}{}
+{36}{E:}{}{1}{}{0}{}
+{37}{Isso é uma ameaça, senhor?}{Isso é uma ameaça, madame?}{}{}{}{}
+{38}{Não, não... não tive intenção de ofender. Por favor, aceite minhas desculpas.}{}{5}{}{50}{}
+{39}{[Olhando feio para ele] Sim, foi mesmo, seu arrogante bufão.}{}{5}{}{}{re -5, lf2 1, fl 43}
+{40}{Oh! Não... Não... Eu ser bonzinho. Eu desculpa. Eu perguntar <<<PH1>>>?}{}{-4}{}{50}{}
+{41}{[Olhando feio para ele] É... Talvez você seja mais esperto do que parece...}{}{-4}{}{}{re -5, lf2 1, fl 43}
+{42}{E:}{}{1}{}{0}{}
+{43}{Saia do meu estabelecimento. Ninguém fala assim com o Sr. Hallaway! Se você voltar a me dirigir a palavra, entrarei em contato com as autoridades imediatamente!}{Saia do meu estabelecimento. Ninguém fala assim com o Sr. Hallaway! Se você voltar a me dirigir a palavra, entrarei em contato com as autoridades imediatamente!}{}{}{}{}
+{44}{Guardas! Guardas!!}{Guardas! Guardas!!}{}{}{}{}
+{45}{Isso não foi uma ameaça vazia. Se continuar a me importunar, serei forçado a tomar providências contra você!}{Isso não foi uma ameaça vazia. Se continuar a me importunar, serei forçado a tomar providências contra você!}{}{}{}{}
+{46}{Oh!... Eu, hã, não, quer dizer, por favor, aceite minhas desculpas, senhor! Eu o confundi com outra pessoa. Como posso servi-lo?}{Oh!... Eu, hã, não, quer dizer, por favor, aceite minhas desculpas, senhora! Eu a confundi com outra pessoa. Como posso servi-la?}{}{}{}{re+10}
+{47}{Posso perguntar quem é você?}{}{5}{}{54}{}
+{48}{Qual é o seu nome?}{}{-4}{}{54}{}
+{49}{E:}{}{1}{}{0}{}
+{50}{[Ele olha para você com desdém] O que é? Seja rápido. Não tenho tempo a perder com você.}{[Ele olha para você com desdém] O que é? Seja rápido. Não tenho tempo a perder com você.}{}{}{}{}
+{51}{Posso perguntar quem é você?}{}{5}{}{54}{}
+{52}{Qual é o seu nome?}{}{-4}{}{54}{}
+{53}{E:}{}{1}{}{0}{}
+{54}{Eu sou o Sr. Hallaway, o dono desta fina hospedaria.}{Eu sou o Sr. Hallaway, o dono desta fina hospedaria.}{}{}{}{lf1 1}
+{55}{É um prazer, Sr. Hallaway. O que o senhor tem a oferecer a um viajante?}{}{5}{re 41}{60}{}
+{56}{Este é um estabelecimento de alta qualidade, Sr. Hallaway?}{}{5}{re-40}{68}{}
+{57}{Senhor Hallaway? Uhhhh... Eu querer lugar bonito... esse lugar bonito?}{}{-4}{re 41}{60}{}
+{58}{Senhor Hallaway? Uhhhh... Eu querer lugar bonito... esse lugar bonito?}{}{-4}{re-40}{68}{}
+{59}{E:}{}{1}{}{0}{}
+{60}{Oh, certamente, senhor! Oferecemos apenas quartos da mais alta qualidade, com excelentes comodidades. Cada quarto é decorado com o que há de mais moderno, completo com baús para guardar seus objetos de valor. Além disso, empregamos guardas para garantir a segurança de nossos hóspedes, tudo por apenas 25 moedas por noite.}{Oh, certamente, senhora! Oferecemos apenas quartos da mais alta qualidade, com excelentes comodidades. Cada quarto é decorado com o que há de mais moderno, completo com baús para guardar seus objetos de valor. Além disso, empregamos guardas para garantir a segurança de nossos hóspedes, tudo por apenas 25 moedas por noite.}{}{}{}{lf3 1}
+{61}{Parece muito bom, mas está além do que posso pagar.}{}{5}{lf 10 0, gf 2400 0}{86}{}
+{62}{Parece muito moderno. Talvez em outra ocasião. Obrigado.}{}{5}{lf 10 0, gf 2400 0}{0}{}
+{63}{Gostaria de um quarto para uma noite.}{}{5}{$$25, lf 10 0, gf 2400 0}{118}{}
+{64}{Oh, bonito! Ummm... muitas moedas.}{}{-4}{lf 10 0, gf 2400 0}{86}{}
+{65}{Eu querer quarto para noite.}{}{-4}{$$25, lf 10 0, gf 2400 0}{118}{}
+{66}{K:}{}{1}{}{74}{}
+{67}{E:}{}{1}{}{0}{}
+{68}{Bah! O que alguém como "você" entende de qualidade? Vou lhe dizer uma coisa... Você não vai se hospedar neste fino estabelecimento por menos de 35 moedas por noite. Isso é certo!... Pelo jeito, duvido que tenha nem essa mixaria. Saia da minha propriedade, vagabundo!}{Bah! O que alguém como "você" entende de qualidade? Vou lhe dizer uma coisa... Você não vai se hospedar neste fino estabelecimento por menos de 35 moedas por noite. Isso é certo!... Pelo jeito, duvido que tenha nem essa mixaria. Saia da minha propriedade, vagabundo!}{}{}{}{lf3 1}
+{69}{Talvez em outra ocasião. Adeus.}{}{5}{lf 10 0, gf 2400 0}{0}{}
+{70}{Eu tenho as moedas! Aqui!}{}{5}{$$35, lf 10 0, gf 2400 0}{-2}{$$-35, lf 11 1 , lf 10 1, gf 2326 0}
+{71}{Hmm... muitas moedas. Eu vou agora.}{}{-4}{lf 10 0, gf 2400 0}{0}{}
+{72}{Eu tenho moedas! Vê? (Você mostra a moeda para ele) Aqui, 35 pelo pernoite.}{}{-4}{$$35, lf 10 0, gf 2400 0}{-2}{$$-35, lf 11 1, lf 10 1, gf 2326 0}
+{73}{F:}{}{1}{}{0}{re-1}
+{74}{Mas é claro. Do que você precisa...?}{Claro. O que você precisa...?}{}{}{}{}
+{75}{T:9, 11}{}{1}{}{74}{}
+{76}{Eu gostaria de um quarto para uma noite.}{}{5}{lf 10 0, gf 2400 0}{118}{}
+{77}{Eu fico aqui essa noite?}{}{-4}{lf 10 0, gf 2400 0}{118}{}
+{78}{R:$0, 1175-1184}{}{1}{}{74}{}
+{79}{E:}{}{1}{}{0}{}
+{80}{[Ele parece muito irritado] O que é agora?}{[Ele parece muito irritado] O que é agora?}{}{}{}{}
+{81}{T:9, 11}{}{1}{}{80}{}
+{82}{Quanto custa um quarto para uma noite?}{}{5}{lf 10 0, gf 2400 0}{125}{}
+{83}{Eu quero ficar aqui essa noite. Quanto custa?}{}{-4}{lf 10 0, gf 2400 0}{125}{}
+{84}{R:$0, 1175-1184}{}{1}{}{80}{}
+{85}{E:}{}{1}{}{0}{}
+{86}{[Ele te examina, como se avaliando suas capacidades] Bem, os negócios estão meio parados no momento. Você estaria interessado em completar uma tarefa em troca de um quarto?}{[Ele te examina, como se avaliando suas capacidades] Bem, os negócios estão meio parados no momento. Você estaria interessado em completar uma tarefa em troca de um quarto?}{}{}{}{}
+{87}{Acho que isso dependeria da tarefa....}{}{5}{}{91}{}
+{88}{O que você quer que eu faça?}{}{-4}{}{91}{}
+{89}{K:}{}{1}{}{74}{}
+{90}{E:}{}{1}{}{0}{}
+{91}{Há algum tempo, levei meu cofre para o ferreiro local, Garret, para consertar. Ele disse que o consertaria por 50 moedas, e eu concordei. Quando voltei para pegá-lo, ele exigiu 137 moedas. Recusei-me a pagar, não vou ser enganado por aquele vira-lata! Mas é uma relíquia de família antiga, e eu quero de volta.}{Há algum tempo, levei meu cofre para o ferreiro local, Garret, para consertar. Ele disse que o consertaria por 50 moedas, e eu concordei. Quando voltei para pegá-lo, ele exigiu 137 moedas. Recusei-me a pagar, não vou ser enganado por aquele vira-lata! Mas é uma relíquia de família antiga, e eu quero de volta.}{}{}{}{}
+{92}{Então você precisa da minha ajuda para recuperá-lo?}{}{5}{}{103}{}
+{93}{Ele não deu nenhuma explicação para o aumento?}{}{5}{}{99}{}
+{94}{Acredito que estou de posse do cofre ao qual você se refere.}{}{5}{in 5645}{113}{re -10}
+{95}{Eu pego o cofre de volta?}{}{-4}{}{103}{}
+{96}{Ah, mais moedas... Isso não é bom.}{}{-4}{}{99}{}
+{97}{Eu peguei o cofre! Eu peguei o cofre!}{}{-4}{in 5645}{113}{re -10}
+{98}{E:}{}{1}{}{0}{}
+{99}{Ele tentou me dizer que eu tinha pedido trabalho adicional, o que não fiz, que levou muito mais tempo do que ele esperava e que perdeu outros trabalhos por causa do tempo que gastou no meu projeto. Tentei negociar, mas não há como raciocinar com aquele bruto!}{Ele tentou me dizer que eu tinha pedido trabalho adicional, o que não fiz, que levou muito mais tempo do que ele esperava e que perdeu outros trabalhos por causa do tempo que gastou no meu projeto. Tentei negociar, mas não há como raciocinar com aquele bruto!}{}{}{}{}
+{100}{Você precisa da minha ajuda para devolvê-lo?}{}{5}{}{103}{}
+{101}{Talvez eu ajude o Sr. Hallaway?}{}{-4}{}{103}{}
+{102}{E:}{}{1}{}{0}{}
+{103}{Sim... Eu ficaria muito grato pela sua ajuda. Se você conseguir o cofre de volta para mim, eu o recompensaria oferecendo um quarto sem cobrança. Na verdade, se você o recuperar para mim... pode ficar com um quarto pelo tempo que precisar.}{Sim... Eu ficaria muito grato pela sua ajuda. Se você conseguir o cofre de volta para mim, eu o recompensaria oferecendo um quarto sem cobrança. Na verdade, se você o recuperar para mim... pode ficar com um quarto pelo tempo que precisar.}{}{}{}{qu1083 1}
+{104}{Isso é muito aceitável. Considere feito!}{}{5}{}{108}{qu1083 2}
+{105}{Vou pensar no assunto. Tenha um bom dia...}{}{5}{}{0}{}
+{106}{Uau! Eu consigo!}{}{-4}{}{108}{qu1083 2}
+{107}{Não sei, a gente conversa sobre isso depois...}{}{-4}{}{0}{}
+{108}{Um excelente acordo, senhor. Aguardo seu retorno.}{Um excelente acordo, senhora. Aguardarei ansiosamente seu retorno.}{}{}{}{}
+{109}{E:}{}{1}{}{0}{}
+{110}{Eu agradeceria se você o recuperasse o mais rápido possível...}{Eu agradeceria se você o recuperasse o mais rápido possível...}{}{}{}{}
+{111}{K:}{}{1}{}{74}{}
+{112}{E:}{}{1}{}{0}{}
+{113}{Você está de posse do meu cofre? ...O quê? ...Como? [realização surgindo em seu rosto] Ladrão! [arranca a caixa de você] Seu ladrão! Guardas!}{Você está de posse do meu cofre? ...O quê? ...Como? [realização surgindo em seu rosto] Ladrão! [arranca a caixa de você] Seu ladrão! Guardas!}{}{}{}{qu1083 6, in 5645 }
+{114}{Achei que ficaria feliz em ter seu cofre de volta...}{}{5}{}{}{co, fl 44}
+{115}{Ops... Nada de ficar feliz por ter a caixa de volta?}{}{-4}{}{}{co, fl 44}
+{116}{Ora, não havia necessidade disso.}{}{5}{}{}{co, fl 44}
+{117}{Mau senhor Hallaway... Não chamar guardas...}{}{-4}{}{}{co, fl 44}
+{118}{Ah, claro, senhor. Isso custará 25 moedas, por favor.}{Ah, claro, senhora. Isso custará 25 moedas, por favor.}{}{}{}{}
+{119}{Aqui estão.}{}{5}{lf 10 0, gf 2400 0}{-2}{$$ -25, lf 11 0, lf 10 1, gf 2326 1}
+{120}{Oh! Isso é um pouco caro... Esse é seu preço final?}{}{5}{qu1083 0, lf 10 0, gf 2400 0}{86}{}
+{121}{hmmm, aqui.}{}{-4}{lf 10 0, gf 2400 0}{-2}{$$ -25, lf 11 0, lf 10 1, gf 2326 1}
+{122}{Oh! Isso é muito! Você aceita menos pelo quarto?}{}{-4}{qu1083 0, lf 10 0, gf 2400 0}{86}{}
+{123}{K:}{}{1}{}{74}{re -5}
+{124}{E:}{}{1}{}{0}{}
+{125}{35 moedas. E nem uma moeda a menos! Duvido que um malandro como você tenha sequer essa quantia!}{35 moedas. E nem uma moeda a menos! Duvido que um malandro como você tenha sequer essa quantia!}{}{}{}{}
+{126}{Eu tenho as moedas... Aqui.}{}{5}{$$35 , lf 10 0, gf 2400 0}{-2}{$$-35, lf 11 1, lf 10 1, gf 2326 0}
+{127}{Duvido que teria valido a pena de qualquer forma. Adeus.}{}{5}{lf 10 0, gf 2400 0}{0}{0}
+{128}{Eu tenho as moedas! Veja? (Você mostra a moeda para ele) Aqui estão 35 pela noite.}{}{-4}{$$35, lf 10 0, gf 2400 0}{-2}{$$-35, lf 11 1, lf 10 1, gf 2326 0}
+{129}{Esse lugar não vale 35! Eu tenho agora! Humpf!}{}{-4}{lf 10 0, gf 2400 0}{0}{0}
+{130}{K:}{}{1}{}{80}{re -5}
+{131}{F:}{}{1}{}{0}{}
+{132}{Como combinado, lhe darei um quarto para usar à vontade. Você encontrará uma excelente suíte logo ali no corredor. Espero que aproveite sua estadia e agradeço novamente.}{Como combinado, lhe darei um quarto para usar à vontade. Você encontrará uma excelente suíte logo ali no corredor. Espero que aproveite sua estadia e agradeço novamente.}{}{}{}{GF2400 1, gf2326 1}
+{133}{Foi um prazer fazer negócios com você.}{}{5}{}{0}{}
+{134}{Obrigado. Tenho mais algumas perguntas...}{}{5}{}{74}{}
+{135}{Valeu.}{}{-4}{}{0}{}
+{136}{Valeu. Posso te perguntar mais uma coisa?}{}{-4}{}{74}{}
+{137}{Obrigado, senhor! Seu quarto fica logo à direita. Espero que aproveite sua estadia.}{Obrigado, senhora! Seu quarto fica logo à direita. Espero que aproveite sua estadia.}{}{}{}{}
+{138}{Obrigado.}{}{5}{}{0}{}
+{139}{ah... valeu.}{}{-4}{}{0}{}
+{140}{K:}{}{1}{}{74}{}
+{141}{Bem! Isso com certeza foi uma surpresa... Acho que você pode ficar com o quarto à sua esquerda. [Ele murmura "Duvido que você consiga deixar esse quarto com um cheiro pior do que já está."] Comporte-se enquanto estiver aqui. Vou ficar de olho em você...}{Bem! Isso com certeza foi uma surpresa... Acho que você pode ficar com o quarto à sua esquerda. [Ele murmura "Duvido que você consiga deixar esse quarto com um cheiro pior do que já está."] Comporte-se enquanto estiver aqui. Vou ficar de olho em você...}{}{}{}{re +3}
+{142}{K:}{}{1}{}{80}{}
+{143}{E:}{}{1}{}{0}{}
+{144}{Muito bem! Aqui está. [Ele pega de você] Tenho certeza de que foi difícil negociar com aquele medíocre. Diga-me... como conseguiu recuperá-lo de um bárbaro desses?}{Muito bem! Aqui está. [Ele pega de você] Tenho certeza de que foi difícil negociar com aquele medíocre. Diga-me... como conseguiu recuperá-lo de um bárbaro desses?}{}{}{}{in 5645}
+{145}{Ele era durão, mas acho que negociei um preço justo.}{}{5}{}{155}{qu1083 4}
+{146}{Acho que o tolo ainda não percebeu que sumiu... por enquanto.}{}{5}{}{161}{re -5}
+{147}{Ele pensou duas vezes antes de tentar enganar alguém com minha habilidade.}{}{5}{}{155}{qu1083 4}
+{148}{Vamos dizer apenas que você nunca mais será incomodado por ele...}{}{5}{}{176}{re -5}
+{149}{Garret pede desculpas e devolveu-o a você de graça.}{}{5}{}{158}{qu1083 4, re +10}
+{150}{Sim. Foi difícil. Mas acho que consegui um bom preço.}{}{-4}{}{155}{qu1083 4}
+{151}{Aposto que ele ainda não percebeu que sumiu.}{}{-4}{}{161}{re -5}
+{152}{Ele olhou uma vez e pensou melhor antes de tentar me enganar.}{}{-4}{}{155}{qu1083 4}
+{153}{Ele não vai mais incomodar você... nunca mais.}{}{-4}{}{176}{re -5}
+{154}{Ele está arrependido por ter te deixado bravo. Devolveu a caixa sem cobrar nada.}{}{-4}{}{158}{qu1083 4, re +10}
+{155}{Muito bom! Estou tão feliz por tê-lo recuperado!}{Muito bom! Estou tão feliz por tê-lo recuperado!}{}{}{}{}
+{156}{Sobre nosso acordo?}{}{5}{}{132}{}
+{157}{Eu consigo o quarto agora?}{}{-4}{}{132}{}
+{158}{Ele "devolveu" para mim!?! Isso é incrível! Você deve ter mesmo jeito com as palavras. Estou bastante impressionado. Talvez Garret não seja o idiota que eu pensava...}{Ele "devolveu" para mim!?! Isso é incrível! Você deve ter mesmo jeito com as palavras. Estou bastante impressionado. Talvez Garret não seja o idiota que eu pensava...}{}{}{}{}
+{159}{Fico feliz por ter sido útil. Sobre nosso acordo?}{}{5}{}{132}{}
+{160}{Fico feliz em ajudar. Eu consigo o quarto agora?}{}{-4}{}{132}{}
+{161}{Você roubou!?!}{Você roubou!?!}{}{}{}{}
+{162}{Roubei.}{}{5}{}{166}{re -5}
+{163}{Isso soa tão errado. Eu apenas o devolvi ao seu verdadeiro dono.}{}{5}{}{166}{re -5}
+{164}{Sim. Eu peguei.}{}{-4}{}{166}{re -5}
+{165}{Não gosto dessa palavra. Eu só devolvi para quem pertencia.}{}{-4}{}{166}{re -5}
+{166}{Eu não sabia que você era um homem de tais métodos! Não sei como lidar com isso. Você não resolveu meu problema! Você o agravou! ...Não vê que ele virá direto até mim quando perceber que sumiu!?!}{Eu não sabia que você era uma mulher de tais métodos! Não sei como lidar com isso. Você não resolveu meu problema! Você o agravou! ...Não vê que ele virá direto até mim quando perceber que sumiu!?!}{}{}{}{}
+{167}{Por que ele faria isso? Ele não sabe que você o tem.}{}{5}{}{171}{}
+{168}{Ele não faz ideia de onde foi parar. Por que ele viria atrás de você?}{}{5}{}{171}{}
+{169}{Por que ele faria isso? Ele não sabe que você pegou a caixa.}{}{-4}{}{171}{}
+{170}{Ele não sabe que a caixa está aqui. Você é a última pessoa com quem ele quer falar!}{}{-4}{}{171}{}
+{171}{[pensa por um momento] ...Suponho que você esteja certo. Ele não me associaria ao seu desaparecimento, associaria? [De repente parecendo divertido] Além disso, quando eu pedir por ela... Ele terá que admitir que sumiu. E então eu vou fazê-lo me pagar seu valor total! Oh, isso é uma reviravolta e tanto!}{[pensa por um momento] ...Suponho que você esteja certo. Ele não me associaria ao seu desaparecimento, associaria? [De repente parecendo divertido] Além disso, quando eu pedir por ela... Ele terá que admitir que sumiu. E então eu vou fazê-lo me pagar seu valor total! Oh, isso é uma reviravolta e tanto!}{}{}{}{re +15}
+{172}{Sim. Eu sabia que você ficaria satisfeito. Agora, sobre o nosso acordo?}{}{5}{}{132}{qu1083 4}
+{173}{Sobre o nosso acordo?}{}{5}{}{132}{qu1083 4}
+{174}{Sim. Eu sabia que você ficaria feliz. Agora me dá o quarto?}{}{-4}{}{132}{qu1083 4}
+{175}{Agora me dá o quarto?}{}{-4}{}{132}{qu1083 4}
+{176}{Você... Você o matou!?! [totalmente chocado] Eu só queria a caixa de volta por um preço justo... Eu não queria que ele fosse assassinado! No que você estava pensando!?!}{Você... Você o matou!?! [totalmente chocado] Eu só queria a caixa de volta por um preço justo... Eu não queria que ele fosse assassinado! No que você estava pensando!?!}{}{}{}{}
+{177}{Foi um acidente. Sinto muito que tenha acontecido dessa forma.}{}{5}{}{183}{}
+{178}{Esse porco merecia morrer! Ele não passava de um ladrão!}{}{5}{}{183}{}
+{179}{Você tem sua caixa. Meu método não deveria importar.}{}{5}{}{183}{}
+{180}{Foi sem querer. Foi um acidente.}{}{-4}{}{183}{}
+{181}{Ele era um homem ruim! Precisava morrer!}{}{-4}{}{183}{}
+{182}{Você tem a caixa. Não importa como eu a consegui.}{}{-4}{}{183}{}
+{183}{Vou ter que reportar isso às autoridades. Você não pode sair por aí matando pessoas!}{Vou ter que reportar isso às autoridades. Você não pode sair por aí matando pessoas!}{}{}{}{}
+{184}{[intimidador] Eu não faria isso se fosse você... Tínhamos um acordo.}{}{5}{}{195}{}
+{185}{Você não quer que eles encontrem 2 corpos, quer? Sobre o nosso acordo...}{}{5}{}{195}{}
+{186}{Não. Não. Eu vou embora. Não precisa fazer isso...}{}{5}{}{190}{}
+{187}{[intimidador] É melhor você não fazer isso... Tínhamos um acordo...}{}{-4}{}{195}{}
+{188}{Você não quer que eles achem dois mortos, quer? Eu quero aquele quarto...}{}{-4}{}{195}{}
+{189}{Não. Não chame eles. Eu vou embora.}{}{-4}{}{190}{}
+{190}{Saia do meu estabelecimento. Os da sua espécie não são bem-vindos aqui. Se você voltar a falar comigo, vou contatar as autoridades imediatamente!}{Saia do meu estabelecimento. Os da sua espécie não são bem-vindos aqui. Se você voltar a falar comigo, vou contatar as autoridades imediatamente!}{}{}{}{}
+{191}{Estou indo embora.}{}{5}{}{0}{lf2 1, qu1083 4}
+{192}{[intimidador] Eu não faria isso se fosse você... Tínhamos um acordo.}{}{5}{}{195}{}
+{193}{Eu vou agora.}{}{-4}{}{0}{lf2 1, qu1083 4}
+{194}{[intimidador] É melhor você não fazer isso... Tínhamos um acordo...}{}{-4}{}{195}{}
+{195}{[A cor some do rosto dele]  Hum...  Sim...  Sim, nós fizemos.  Hum...  Seu [tosse]  Seu quarto fica logo ali à direita...  Use-o pelo tempo que precisar.  Eu estou...  hum...  muito [tosse] feliz em tê-lo aqui.}{[A cor some do rosto dele]  Hum...  Sim...  Sim, nós fizemos.  Hum...  Seu [tosse]  Seu quarto fica logo ali à direita...  Use-o pelo tempo que precisar.  Eu estou...  hum...  muito [tosse] feliz em tê-lo aqui.}{}{}{}{GF2400 1, gf 2326 1}
+{196}{Assim está melhor.  Adeus.}{}{5}{}{0}{qu1083 4}
+{197}{Isso aí.  Xau-xau.}{}{-4}{}{0}{qu1083 4}
+{198}{}{}{}{}{}{}
+{199}{}{}{}{}{}{}
+{200}{}{}{}{}{}{}
+

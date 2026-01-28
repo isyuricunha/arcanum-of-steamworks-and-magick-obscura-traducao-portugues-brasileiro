@@ -1,0 +1,147 @@
+{1}{Posso ajudá-lo?}{Posso ajudá-lo?}{}{}{}{}
+{2}{Talvez. Posso saber quem é o senhor?}{}{5}{me 0, re 41}{27}{}
+{3}{Olá, Caleb. Tem um momento?}{}{5}{me 1, re 41}{84}{}
+{4}{Senhor! O que eu fiz para merecer tal tratamento?}{}{5}{me 0, re -40}{11}{}
+{5}{O que foi, Caleb? Fiz algo para ofendê-lo?}{}{5}{me 1, re -40}{11}{}
+{7}{Hã... Eu não sou muito esperto. Quem é você?}{}{-4}{me 0}{27}{}
+{8}{Oi, Caleb! Tenho algumas perguntas...}{}{-4}{me 1}{84}{}
+{9}{E:}{}{-4}{}{0}{}
+{11}{Eu simplesmente não gosto de você. É só o que tenho a dizer sobre isso.}{Eu simplesmente não gosto de você, forasteiro. É só o que tenho a dizer sobre isso.}{}{}{}{}
+{12}{Não estou procurando confusão, só gostaria de falar com você...}{}{5}{me 0}{23}{re +10}
+{13}{Caleb! Não estamos acima desse tipo de coisa?}{}{5}{me 1}{23}{re +10}
+{14}{Eu recomendaria que controlasse sua língua, taberneiro...}{}{5}{}{16}{re -5}
+{15}{E:}{}{5}{}{0}{}
+{16}{[Sua testa se franze. De alguma forma, o cenho fica ainda mais carregado.] Ouvi direito? Está me desafiando no meu próprio bar, garoto? Você não faz ideia do tamanho do erro que acabou de cometer...}{[Sua testa se franze. De alguma forma, o cenho fica ainda mais carregado.] Ouvi direito? Está me desafiando no meu próprio bar, garota? Você não faz ideia do tamanho do erro que acabou de cometer...}{}{}{}{}
+{17}{Talvez eu tenha falado cedo demais. Aceite minhas desculpas, senhor...}{}{5}{}{23}{re +10}
+{18}{Este lugar é seu? Que monturo completo...}{}{5}{}{}{co, fl 21}
+{19}{E:}{}{5}{}{0}{}
+{21}{Chega, garoto. Ninguém fala assim com Caleb Malloy...}{Chega, moça. Ninguém fala assim com Caleb Malloy...}{}{}{}{}
+{23}{[Ele coça o queixo, semicerrando um olho para você.] Bem, talvez você não seja tão ruim assim, afinal, garoto. O que precisa?}{[Ele coça o queixo, semicerrando um olho para você.] Bem, talvez você não seja tão ruim assim, afinal, garota. O que precisa?}{}{}{}{}
+{24}{Poderia começar perguntando quem é você?}{}{5}{me 0}{27}{re +5}
+{25}{Excelente, Caleb. Posso fazer algumas perguntas?}{}{5}{me 1}{84}{}
+{26}{E:}{}{5}{}{0}{}
+{27}{[O homem à sua frente é robusto, peito largo, usando um avental e o que parece ser um cenho permanentemente franzido. Ele olha para você com firmeza.] Me chamam de Malloy... Caleb Malloy, e este é o meu pub.}{[O homem à sua frente é robusto, peito largo, usando um avental e o que parece ser um cenho permanentemente franzido. Ele olha para você com firmeza.] Me chamam de Malloy... Caleb Malloy, e este é o meu pub.}{}{}{}{}
+{28}{Prazer em conhecê-lo, Caleb.}{}{5}{}{33}{}
+{30}{Oi, Caleb!}{}{-4}{}{33}{}
+{31}{E:}{}{1}{}{0}{}
+{33}{Prazer em conhecê-lo também, garoto. [Ele olha ao redor, então se inclina um pouco mais perto.] Escute, você é novo por aqui... um homem consegue perceber só de olhar quem conhece a Fervura e quem não conhece. Este não é um lugar agradável para se visitar, especialmente quando não se conhece o terreno...}{Prazer em conhecê-lo também, senhorita. [Ele olha ao redor, então se inclina um pouco mais perto.] Escute, você é nova por aqui... um homem consegue perceber só de olhar quem conhece a Fervura e quem não conhece. Este não é um lugar agradável para se visitar, especialmente quando não se conhece o terreno...}{}{}{}{}
+{34}{O que quer dizer com 'a Fervura'?}{}{5}{lf1 0}{41}{}
+{35}{Obrigado pelo conselho, mas acho que consigo me virar...}{}{5}{}{191}{re -5}
+{37}{Hã... o que você quer dizer com 'a Fervura'?}{}{-4}{}{41}{}
+{38}{E:}{}{1}{}{0}{}
+{41}{A Fervura... é assim que chamam este bairro fedorento aqui. [Ele ri, limpando o balcão.] Um antro sangrento de ladrões, bandidos e assassinos. Algumas famílias pobres aqui e ali... a maioria só tentando ganhar a vida e ficar fora do caminho do Clã Maug e da gangue do Pollock...}{A Fervura... é assim que chamam este bairro fedorento aqui. [Ele ri, limpando o balcão.] Um antro sangrento de ladrões, bandidos e assassinos. Algumas famílias pobres aqui e ali... a maioria só tentando ganhar a vida e ficar fora do caminho do Clã Maug e da gangue do Pollock...}{}{}{}{}
+{42}{O Clã Maug e a gangue do Pollock... quem são eles?}{}{5}{lf1 0}{159}{}
+{43}{Você pode me contar mais alguma coisa sobre o Caldeirão?}{}{5}{lf1 0}{145}{}
+{44}{Estou procurando trabalho...}{}{5}{}{54}{}
+{45}{Hã... quem é o Clã Mog e a G-g-gangue do Po-o-ll-o-ks...?}{}{-4}{}{159}{}
+{53}{Preciso de trabalho...}{}{-4}{}{54}{}
+{54}{Bem... você poderia conversar com alguns dos rapazes aqui no bar. Claro, isso significaria que você teria que escolher com qual gangue gostaria de se juntar... a do Maug ou a do Pollock... e aí a outra gangue viria atrás de você para te matar. As coisas ficam bem complicadas por aqui... [Ele ri consigo mesmo.]}{Bem... você poderia conversar com alguns dos rapazes aqui no bar. Claro, isso significaria que você teria que escolher com qual gangue gostaria de se juntar... a do Maug ou a do Pollock... e aí a outra gangue viria atrás de você para te matar. As coisas ficam bem complicadas por aqui... [Ele ri consigo mesmo.]}{}{}{}{}
+{55}{Quem são Maug e Pollock?}{}{5}{lf1 0}{159}{}
+{56}{Existem outras alternativas?}{}{5}{}{60}{}
+{57}{Quem é Mog e Po-o-ll-a-k?}{}{-4}{}{159}{}
+{58}{O que mais eu posso fazer, Caleb?}{}{-4}{}{60}{}
+{60}{Hmmm. [Ele te examina.] Tenho um trabalho que precisa ser feito. Pode ser fácil, ou pode ficar complicado. Nunca se sabe aqui no Caldeirão...}{Hmmm. [Ele te examina.] Tenho um trabalho que precisa ser feito. Pode ser fácil, ou pode ficar complicado. Nunca se sabe aqui no Caldeirão...}{}{}{}{}
+{61}{Eu gostaria de saber mais sobre isso...}{}{5}{}{68}{}
+{62}{Que trabalho?}{}{-4}{}{68}{}
+{63}{K:}{}{1}{}{84}{}
+{64}{E:}{}{1}{}{0}{}
+{68}{Bem, eu recebo um carregamento bem regular de uísque toda semana. Só que ultimamente, uma das gangues anda roubando. Normalmente, eu não tenho problemas com eles, e nenhum dos dois está assumindo a culpa porque sabem que alguém vai ter o crânio esmagado quando eu descobrir quem foi...}{Bem, eu recebo um carregamento bem regular de uísque toda semana. Só que ultimamente, uma das gangues anda roubando. Normalmente, eu não tenho problemas com eles, e nenhum dos dois está assumindo a culpa porque sabem que alguém vai ter o crânio esmagado quando eu descobrir quem foi...}{}{}{}{}
+{69}{Entendi. O que é que você precisa de mim?}{}{5}{}{74}{}
+{70}{Prefiro não me envolver. Posso te fazer algumas perguntas?}{}{5}{}{0}{}
+{71}{O que você precisa que eu faça, Caleb?}{}{-4}{}{74}{}
+{72}{Hã... eu não gosto disso. Quero fazer mais perguntas!}{}{-4}{}{0}{}
+{74}{Bem, eu preciso que alguém vá buscar o uísque para mim. Estou ficando sem estoque. Você vai buscá-lo, e eu te dou 500 peças de ouro quando você voltar com ele. O que acha?}{Bem, eu preciso que alguém vá buscar o uísque para mim. Estou ficando sem estoque. Você vai buscá-lo, e eu te dou 500 peças de ouro quando você voltar com ele. O que acha?}{}{}{}{qu1086 1}
+{75}{Parece bom. O que eu faço?}{}{5}{}{80}{qu1086 2, gf2178 1}
+{76}{Não estou interessado. Mais algumas perguntas...}{}{5}{}{84}{}
+{77}{Claro! Onde eu pego?}{}{-4}{}{80}{qu1086 2, gf2178 1}
+{78}{Eu não vou fazer isso... mas tenho mais perguntas...}{}{-4}{}{84}{}
+{80}{O nome do homem é Biggs. Ele vai estar te esperando no meio da Ponte Garrillon, nas torres. Vou mandar um garoto até lá e dizer para ele esperar por você. Tome cuidado, rapaz... o Caldeirão não é lugar para descuidos, está me ouvindo?}{O nome do homem é Biggs. Ele vai estar te esperando no meio da Ponte Garrillon, nas torres. Vou mandar um garoto até lá e dizer para ele esperar por você. Tome cuidado, moça... o Caldeirão não é lugar para descuidos, está me ouvindo?}{}{}{}{}
+{81}{E:}{}{1}{}{0}{}
+{84}{Claro. Como posso ajudá-lo...?}{Claro. Como posso ajudá-lo...?}{}{}{}{}
+{86}{O que você pode me contar sobre 'o Caldeirão'?}{}{5}{lf1 0}{145}{}
+{87}{Tem algum trabalho por aqui?}{}{5}{qu1086 0}{54}{}
+{88}{Você disse que talvez tivesse um trabalho para buscar um pouco de uísque...?}{}{5}{qu1086 1}{68}{}
+{90}{Ainda não busquei seu uísque, Caleb...}{}{5}{qu1086 2, ni 5647, gf2179 0}{104}{}
+{91}{Busquei seu uísque, Caleb... aqui está...}{}{5}{qu1086 2, in 5647}{109}{in 5647}
+{92}{Tentei buscar o uísque, mas fui atacado...}{}{5}{qu1086 2, gf2179 1, ni 5647}{114}{}
+{94}{Conte-me sobre 'o Furúnculo', Caleb!}{}{-4}{}{145}{}
+{95}{Preciso de um trabalho, Caleb...}{}{-4}{qu1086 0}{54}{}
+{96}{Você disse que tem um trabalho para mim, Caleb...?}{}{-4}{qu1086 1}{68}{}
+{97}{Eu não busco uísqui, Caleb...}{}{-4}{qu1086 2, ni 5647, gf2179 0}{104}{}
+{98}{Tenho uísqui, Caleb! Aqui, pegue...!}{}{-4}{qu1086 2, in 5647}{109}{in 5647}
+{99}{Tentei buscar uísqui, mas homens maus o levaram...!}{}{-4}{qu1086 2, gf2179 1, ni 5647}{114}{}
+{100}{E:}{}{1}{}{0}{}
+{104}{Quanto mais rápido fizer isso, melhor, rapaz. Os rapazes aqui não gostam quando o velho Caleb fica sem uísque...}{Quanto mais rápido fizer isso, melhor, moça. Os rapazes aqui não gostam quando o velho Caleb fica sem uísque...}{}{}{}{}
+{105}{K:}{}{1}{}{84}{}
+{106}{E:}{}{1}{}{0}{}
+{109}{Você conseguiu! Ótimo, rapaz. Muito obrigado pela ajuda. Aqui está seu dinheiro... [Ele lhe entrega um punhado de ouro.] Você é sempre bem-vindo no Malloy's...}{Você conseguiu! Ótimo, moça. Muito obrigado pela ajuda. Aqui está seu dinheiro... [Ele lhe entrega um punhado de ouro.] Você é sempre bem-vinda no Malloy's...}{}{}{}{qu1086 4, $$500}
+{110}{K:}{}{1}{}{84}{}
+{111}{E:}{}{1}{}{0}{}
+{114}{Sério? Que pena, rapaz. Eu já imaginava que algo assim pudesse acontecer. Você conseguiu ver bem quem fez isso?}{Sério? Que pena, moça. Eu já imaginava que algo assim pudesse acontecer. Você conseguiu ver bem quem fez isso?}{}{}{}{}
+{115}{Não... hã, eles não disseram...}{}{5}{}{120}{}
+{116}{Sim... foi Malek Nebbs, do Clã Maug...}{}{5}{}{125}{gf2180 1}
+{117}{Hã... não sei...}{}{-4}{}{120}{}
+{118}{Sim! Um homem chamado Ma-lek Ne-bbs?}{}{-4}{}{125}{gf2180 1}
+{120}{Sinto muito, rapaz. Obrigado por tentar me ajudar mesmo assim... aqui estão 100 peças de ouro pelo seu incômodo...}{Sinto muito, moça. Obrigado por tentar me ajudar mesmo assim... aqui estão 100 peças de ouro pelo seu incômodo...}{}{}{}{$$100}
+{121}{K:}{}{1}{}{84}{}
+{122}{E:}{}{1}{}{0}{}
+{125}{Nebbs! Aquele filho de uma... Vou matá-lo! Juro que vou!}{Nebbs! Aquele filho de uma... Vou matá-lo! Juro que vou!}{}{}{}{}
+{126}{Shhh! Caleb! Abaixe a voz!}{}{5}{}{135}{}
+{127}{Concordo! Estou com você, Caleb... vamos matar o desgraçado!}{}{5}{}{-2}{}
+{128}{Talvez eu deva ir embora... tenha um bom dia, Caleb...}{}{5}{}{-2}{}
+{130}{Caleb! Fique quieto! Tem homens maus aqui...}{}{-4}{}{135}{}
+{132}{Isso! Acabe com Nebbs!}{}{-4}{}{-2}{}
+{133}{E:}{}{-4}{}{-2}{}
+{134}{}{}{}{}{}{}
+{135}{Não tenho medo de nenhum desses rapazes! Caleb Malloy não é homem de quem se rouba! Nebbs acabou de cometer um grande erro!}{Não tenho medo de nenhum desses rapazes! Caleb Malloy não é homem de quem se rouba! Nebbs acabou de cometer um grande erro!}{}{}{}{}
+{136}{Não quero mais saber disso... tenha um bom dia, Caleb...}{}{5}{}{-2}{}
+{137}{Hã... tenho que ir! Tchau!}{}{-4}{}{-2}{}
+{138}{O velho Nebbs tem sorte de não estar aqui. Da próxima vez que eu o vir, ele é um homem morto! Que o Clã Maug se dane!}{O velho Nebbs tem sorte de não estar aqui. Da próxima vez que eu o vir, ele é um homem morto! Que o Clã Maug se dane!}{}{}{}{}
+{139}{K:}{}{1}{}{84}{}
+{140}{E:}{}{1}{}{0}{}
+{143}{Aí está você, Nebbs! Vou quebrar seu pescoço magrelo!}{Aí está você, Nebbs! Vou quebrar seu pescoço magrelo!}{}{}{}{}
+{145}{O que você quer saber sobre o Caldeirão?}{O que você quer saber sobre o Caldeirão?}{}{}{}{}
+{146}{Quem são o Clã Maug e a Gangue do Pollock?}{}{5}{}{159}{}
+{147}{Existem lojas no Caldeirão?}{}{5}{}{175}{}
+{148}{Onde um homem pode se hospedar no Caldeirão?}{1}{5}{}{183}{}
+{149}{Onde uma mulher pode se hospedar no Caldeirão?}{0}{5}{}{183}{}
+{150}{Tenho mais algumas perguntas gerais...}{}{5}{}{84}{}
+{152}{Hã... quem é o Clã Mog e a G-g-gangue do Po-o-ll-a-ks...?}{}{-4}{}{159}{}
+{153}{Onde eu compro coisas no Caldeirão?}{}{-4}{}{175}{}
+{154}{Onde eu durmo no Caldeirão?}{}{-4}{}{183}{}
+{155}{Hã... mais algumas perguntas...}{}{-4}{}{84}{}
+{156}{E:}{}{1}{}{0}{}
+{159}{Pollock é um meio-ogro que comanda um bando misturado de Valentões aqui no Caldeirão - não são muito organizados, veja bem, mas são vis e cruéis.}{Pollock é um meio-ogro que comanda um bando misturado de Valentões aqui no Caldeirão - não são muito organizados, veja bem, mas são vis e cruéis.}{}{}{}{}
+{160}{E o Clã Maug?}{}{5}{}{163}{}
+{163}{O clã de Darian Maug é composto principalmente de orcs e meio-orcs. Ele age de forma mais discreta, mas não se pode confiar nele mais do que em uma víbora de Bangellia.}{O clã de Darian Maug é composto principalmente de orcs e meio-orcs. Ele age de forma mais discreta, mas não se pode confiar nele mais do que em uma víbora de Bangellia. De qualquer forma, se você se envolver com um, a outra gangue vai querer sua pele. Um homem precisa ter cuidado com quem trabalha no Caldeirão...}{}{}{}{}
+{164}{Qual é a melhor gangue para trabalhar?}{}{5}{}{167}{}
+{165}{Para quem é melhor trabalhar?}{}{-4}{}{167}{}
+{167}{Bem, isso é difícil de dizer, rapaz. Se você se envolver com uma, a outra gangue vai querer sua pele. Um homem precisa ter cuidado com quem trabalha no Caldeirão... uma vez que decidir, não há volta...}{Bem, isso é difícil de dizer, moça. Se você se envolver com uma, a outra gangue vai querer sua pele. Um homem precisa ter cuidado com quem trabalha no Caldeirão... uma vez que decidir, não há volta...}{}{}{}{}
+{168}{Entendo. Mais algumas perguntas sobre o Caldeirão...}{}{5}{}{145}{}
+{169}{Mais algumas perguntas gerais...}{}{5}{}{84}{}
+{171}{Certo! Mais algumas perguntas sobre o Caldeirão...}{}{-4}{}{145}{}
+{172}{Hã... mais algumas perguntas...}{}{-4}{}{84}{}
+{173}{E:}{}{1}{}{0}{}
+{175}{Não tem muita coisa para comprar por aqui. O velho Mellin Bungerton, o halfling, tem uma carroça montada em algum lugar por aqui. Ele geralmente tem alguma coisa para vender, e a maioria é roubada...}{Não tem muita coisa pra comprar por aqui. O velho Mellin Bungerton, o meio-elfo, tem uma carroça montada em algum lugar por perto. Ele geralmente tem alguma coisa pra vender, e a maioria é roubada...}{}{}{}{}
+{176}{Entendi. Mais algumas perguntas sobre o Caldeirão...}{}{5}{}{145}{}
+{177}{Mais algumas perguntas gerais...}{}{5}{}{84}{}
+{179}{Certo! Mais algumas perguntas sobre o Caldeirão...}{}{-4}{}{145}{}
+{180}{Hmm... outras perguntas...}{}{-4}{}{84}{}
+{181}{E:}{}{1}{}{0}{}
+{183}{Não tem muitos lugares pra um estranho descansar a cabeça aqui no Caldeirão, garoto. Você pode tentar a velha Mãe Tilley... ela tem um barraco logo a oeste daqui. Às vezes ela aceita um ou dois hóspedes, se confiar neles...}{Não tem muitos lugares pra uma estranha descansar a cabeça aqui no Caldeirão, moça. Você pode tentar a velha Mãe Tilley... ela tem um barraco logo a oeste daqui. Às vezes ela aceita um ou dois hóspedes, se confiar neles...}{}{}{}{}
+{184}{Entendi. Mais algumas perguntas sobre o Caldeirão...}{}{5}{}{145}{}
+{185}{Mais algumas perguntas gerais...}{}{5}{}{84}{}
+{187}{Certo! Mais algumas perguntas sobre o Caldeirão...}{}{-4}{}{145}{}
+{188}{Hmm... outras perguntas...}{}{-4}{}{84}{}
+{189}{E:}{}{1}{}{0}{}
+{191}{[Ele dá um sorrisinho pra você.] Sério, agora? Acha que conhece bem o Caldeirão, é? Acho que você não vai precisar dos meus conselhos, então. Acho que vou ficar de boca fechada sobre o que acontece por aqui...}{[Ele dá um sorrisinho pra você.] Sério, agora? Acha que conhece bem o Caldeirão, é? Acho que você não vai precisar dos meus conselhos, então. Acho que vou ficar de boca fechada sobre o que acontece por aqui...}{}{}{}{}
+{192}{É assim que eu gosto. Agora, tem algum trabalho pra conseguir por aqui?}{}{5}{}{54}{lf1 1}
+{193}{Espere! Talvez eu tenha falado cedo demais, Caleb...}{}{5}{}{196}{re +5}
+{194}{E:}{}{5}{}{0}{}
+{196}{[Ele ri, batendo a mão no balcão.] Talvez você não seja tão burro quanto parece, garoto. Podia ser bem pior do que ouvir o que o velho Caleb tem pra dizer sobre o Caldeirão...}{[Ela ri, batendo a mão no balcão.] Talvez você não seja tão burra quanto parece, moça. Podia ser bem pior do que ouvir o que o velho Caleb tem pra dizer sobre o Caldeirão...}{}{}{}{}
+{197}{K:}{}{5}{}{84}{}
+{198}{E:}{}{5}{}{0}{}
+{200}{[Caleb olha para o cadáver de Nebbs.] Heh. Parece que alguém já resolveu ele. Bem feito pro desgraçado...}{[Caleb olha para o cadáver de Nebbs.] Heh. Parece que alguém já resolveu ele. Bem feito pro desgraçado...}{}{}{}{}
+{201}{K:}{}{5}{}{84}{}
+{202}{E:}{}{5}{}{0}{}
+

@@ -1,0 +1,169 @@
+{1}{[Diante de você está Simeon Tor, mago-mestre de toda Tulla. Seu poder impressionante é evidente até em seu mais leve gesto enquanto ele faz sinal para que você se aproxime.] Veio em busca de informações? [Ele o observa por um momento. A experiência é um tanto perturbadora.]}{[Diante de você está Simeon Tor, mago-mestre de toda Tulla. Seu poder impressionante é evidente até em seu mais leve gesto enquanto ele faz sinal para que você se aproxime.] Veio em busca de informações? [Ele o observa por um momento. A experiência é um tanto perturbadora.]}{}{1}{}{}
+{2}{Nasrudin me enviou para descobrir a localização das ruínas de Vendigroth.}{}{5}{ta-74}{10}{lf1 1}
+{3}{Nafroodin say find Vendibot roons.}{}{-4}{}{240}{lf1 1}
+{4}{Nasrudin me enviou para descobrir a localização das ruínas de Vendigroth.}{}{5}{ta75}{345}{}
+{9}{E:}{}{1}{}{0}{}
+{10}{Pelojian. [Ele deixa o nome pairar no ar por alguns momentos antes de continuar.] Pelojian é o único que pode responder essa pergunta para você.}{Pelojian. [Ele deixa o nome pairar no ar por alguns momentos antes de continuar.] Pelojian é o único que pode responder essa pergunta para você.}{}{2}{}{}
+{11}{Onde posso falar com esse Pelojian?}{}{5}{}{20}{}
+{12}{Não está surpreso que eu tenha falado com Nasrudin?}{}{5}{}{210}{}
+{20}{Como. Como é a pergunta, não onde. Pelojian está morto. Faz mil anos.}{Como. Como é a pergunta, não onde. Pelojian está morto. Faz mil anos.}{}{3}{}{}
+{21}{Tudo bem, então, COMO faço para falar com ele?}{}{5}{}{30}{}
+{30}{Ninguém sabe. Desde sua morte, ele aparece sobre a piscina de Pelojian todas as noites à meia-noite. Ele flutua ali por uma hora e então se dissipa. Ninguém jamais conseguiu fazê-lo falar. Você deve encontrar uma maneira de trazer sua voz à tona.}{Ninguém sabe. Desde sua morte, ele aparece sobre a piscina de Pelojian todas as noites à meia-noite. Ele flutua ali por uma hora e então se dissipa. Ninguém jamais conseguiu fazê-lo falar. Você deve encontrar uma maneira de trazer sua voz à tona.}{}{4}{}{qu1139 1}
+{31}{Certo. Tem alguma sugestão sobre como posso prosseguir?}{}{5}{}{40}{qu1139 2}
+{32}{Certo, mas quem foi esse Pelojian?}{}{5}{}{50}{qu1139 2}
+{40}{As respostas cabem a você encontrar, andarilho. Talvez a história de Pelojian possa lhe fornecer algumas pistas.}{As respostas cabem a você encontrar, andarilho. Talvez a história de Pelojian possa lhe fornecer algumas pistas.}{}{5}{}{}
+{41}{Certo, quem foi esse Pelojian?}{}{5}{}{50}{}
+{43}{Não há outra maneira? O tempo é essencial.}{}{5}{}{170}{}
+{49}{Não tenho tempo para isso. Encontrarei minhas próprias respostas.}{}{5}{}{370}{lf2 1}
+{50}{[Ele se vira de você, talvez admirando um de seus portais místicos.] Pelojian. Clarividente. Artista. Poeta. Fundador de Tulla.}{[Ele se vira de você, talvez admirando um de seus portais místicos.] Pelojian. Clarividente. Artista. Poeta. Fundador de Tulla.}{}{6}{}{lf3 1, ru2156}
+{51}{O que pode me dizer sobre sua arte?}{}{5}{ru-2200}{60}{}
+{52}{O que pode me dizer sobre sua poesia?}{}{5}{ru-2201}{90}{}
+{53}{Ele era clarividente?}{}{5}{ru-2202}{120}{}
+{54}{Ele foi o fundador de Tulla?}{}{5}{lf20 0}{150}{}
+{55}{Não há outra maneira? O tempo é essencial.}{}{5}{}{170}{}
+{59}{Isso é fascinante, mas preciso seguir meu caminho.}{}{1}{}{370}{}
+{60}{Ele era um artista de grande talento. Dizem que suas pinturas ajudam aqueles que meditam sobre elas a se aproximarem da unidade. Em minha opinião, sua melhor obra é o apropriadamente chamado Mural da Iluminação.}{Ele era um artista de grande talento. Dizem que suas pinturas ajudam aqueles que meditam sobre elas a se aproximarem da unidade. Em minha opinião, sua melhor obra é o apropriadamente chamado Mural do Esclarecimento.}{}{7}{}{ru2200}
+{61}{Jorian me mandou ver esse mural antes de me deixar entrar aqui.}{}{5}{}{70}{}
+{70}{Sério? Isso é interessante.}{Sério? Isso é interessante.}{}{8}{}{}
+{71}{Quem é esse tal de Jorian, afinal?}{}{5}{}{260}{lf4 1}
+{72}{O que o mural deveria representar?}{}{5}{}{80}{lf5 1}
+{80}{Ninguém sabe, de verdade. Acredita-se que o maior símbolo possa representar uma faculdade perdida de magia, mas ninguém pode afirmar com certeza.}{Ninguém sabe, de verdade. Acredita-se que o maior símbolo possa representar uma faculdade perdida de magia, mas ninguém pode afirmar com certeza.}{}{9}{}{ru2203}
+{81}{O que você pode me contar sobre a poesia dele?}{}{5}{ru-2201}{90}{}
+{82}{Você mencionou que ele era clarividente?}{}{5}{ru-2202}{120}{}
+{83}{Você disse que ele foi o fundador de Tulla?}{}{5}{lf20 0}{150}{}
+{84}{Quem é esse tal de Jorian, afinal?}{}{5}{lf4 0}{260}{lf4 1}
+{88}{E:}{}{1}{lf10 0}{370}{lf3 1, ru2156}
+{89}{E:}{}{1}{lf10 1}{0}{}
+{90}{Sua poesia era um pouco avassaladora para a maioria. Muito menos lírica que suas pinturas, os poemas pareciam revelar seu eu interior de uma forma que poucos conseguiam entender. Infelizmente, não conhecemos sua poesia em primeira mão, suas obras se perderam para nós. Tudo o que temos são escritos de outros sobre ela.}{Sua poesia era um pouco avassaladora para a maioria. Muito menos lírica que suas pinturas, os poemas pareciam revelar seu eu interior de uma forma que poucos conseguiam entender. Infelizmente, não conhecemos sua poesia em primeira mão, suas obras se perderam para nós. Tudo o que temos são escritos de outros sobre ela.}{}{10}{}{ru2201}
+{91}{Então a resposta para fazê-lo falar pode estar em sua poesia?}{}{5}{}{100}{}
+{100}{Talvez, talvez.}{Talvez, talvez.}{}{11}{}{}
+{101}{Preciso de algum tipo de pista para continuar. Por onde começo a procurar?}{}{5}{}{110}{}
+{110}{Não é assim que as coisas funcionam. O caminho é seu para trilhar, de mais ninguém.}{Não é assim que as coisas funcionam. O caminho é seu para trilhar, de mais ninguém.}{}{12}{}{}
+{111}{O que você pode me contar sobre a arte dele?}{}{5}{ru-2200}{60}{}
+{112}{Você mencionou que ele era clarividente?}{}{5}{ru-2202}{120}{}
+{113}{Você disse que ele foi o fundador de Tulla?}{}{5}{lf20 0}{150}{}
+{114}{Isso é fascinante, mas o que devo fazer agora?}{}{5}{}{300}{}
+{118}{E:}{}{1}{lf10 0}{370}{lf3 1, ru2156}
+{119}{E:}{}{1}{lf10 1}{0}{}
+{120}{Sim. É por isso que acredito que, mesmo que ele não tenha visto as ruínas que você procura com seus próprios olhos, poderá lhe dar as respostas que busca. Acredita-se que seus escritos e pinturas prenunciavam eventos futuros. Na verdade, muito do que ele profetizou já se cumpriu.}{Sim. É por isso que acredito que, mesmo que ele não tenha visto as ruínas que você procura com seus próprios olhos, poderá lhe dar as respostas que busca. Acredita-se que seus escritos e pinturas prenunciavam eventos futuros. Na verdade, muito do que ele profetizou já se cumpriu.}{}{13}{}{ru2202}
+{121}{Que coisas ele previu?}{}{5}{}{130}{}
+{130}{Ele viu muitas coisas, coisas que a maioria se recusou a acreditar...}{Ele viu muitas coisas, coisas que a maioria se recusou a acreditar...}{}{14}{}{}
+{131}{Uau, isso é impressionante. Não consigo entender a descrença deles...}{}{5}{}{140}{}
+{140}{[Ele ri.] Aprecio seu humor, mas tudo o que posso dizer é que as coisas são como precisam ser.}{[Ele ri.] Aprecio seu humor, mas tudo o que posso dizer é que as coisas são como precisam ser.}{}{15}{}{}
+{141}{O que pode me contar sobre a arte dele?}{}{5}{ru-2200}{60}{}
+{142}{Você mencionou que ele era um poeta?}{}{5}{ru-2201}{90}{}
+{143}{Você disse que ele foi o fundador de Tulla?}{}{5}{lf20 0}{150}{}
+{144}{Isso é fascinante, mas o que devo fazer agora?}{}{5}{}{300}{}
+{148}{E:}{}{1}{lf10 0}{370}{lf3 1, ru2156}
+{149}{E:}{}{1}{lf10 1}{0}{}
+{150}{Pelojian nasceu em grande riqueza, mas seu espírito era o de um místico errante. Não lhe permitia viver uma vida de ócio. Quando, em suas viagens, encontrou apenas arrogância, ganância e sede de poder entre os magos de sua época, isso perturbou profundamente sua alma. Ele vagou pelo ermo, e foi lá que encontrou o que procurava.}{Pelojian nasceu em grande riqueza, mas seu espírito era o de um místico errante. Não lhe permitia viver uma vida de ócio. Quando, em suas viagens, encontrou apenas arrogância, ganância e sede de poder entre os magos de sua época, isso perturbou profundamente sua alma. Ele vagou pelo ermo, e foi lá que encontrou o que procurava.}{}{16}{}{lf20 1}
+{151}{O que ele procurava?}{}{5}{}{160}{}
+{160}{Clareza. Uma consciência singular. Um lugar onde pudesse iniciar uma nova filosofia da magia. Ele reuniu jovens discípulos promissores ao seu redor e criou este lugar maravilhoso, um farol para todos aqueles que buscam os caminhos da magia com um coração puro.}{Clareza. Uma consciência singular. Um lugar onde pudesse iniciar uma nova filosofia da magia. Ele reuniu jovens discípulos promissores ao seu redor e criou este lugar maravilhoso, um farol para todos aqueles que buscam os caminhos da magia com um coração puro.}{}{17}{}{}
+{161}{O que pode me contar sobre a arte dele?}{}{5}{ru-2200}{60}{}
+{162}{Você mencionou que ele era um poeta?}{}{5}{ru-2201}{90}{}
+{163}{Você disse que ele foi o fundador de Tulla?}{}{5}{lf20 0}{150}{}
+{164}{Isso é fascinante, mas o que devo fazer agora?}{}{5}{}{300}{}
+{168}{E:}{}{1}{lf10 0}{370}{lf3 1, ru2156}
+{169}{E:}{}{1}{lf10 1}{0}{}
+{170}{Pode haver alguma menção ao que procura em algum lugar de nossos vastos arquivos, mas poderia levar anos para encontrá-la. Não há garantia de que esteja lá. Não, os arquivos não são o que procura.}{Pode haver alguma menção ao que procura em algum lugar de nossos vastos arquivos, mas poderia levar anos para encontrá-la. Não há garantia de que esteja lá. Não, os arquivos não são o que procura.}{}{18}{}{}
+{171}{Tudo bem. Então me fale sobre Pelojian.}{}{5}{}{50}{}
+{172}{Não faria mal dar uma olhada nos arquivos antes de descartá-los.}{}{5}{}{180}{}
+{178}{Não tenho tempo para isso. Tenha um bom dia.}{}{5}{lf10 0}{370}{lf2 1}
+{179}{Não tenho tempo para isso. Tenha um bom dia.}{}{5}{lf10 1}{0}{}
+{180}{Esse não é o caminho.}{Esse não é o caminho.}{}{19}{}{}
+{181}{Tudo bem. Então me fale sobre Pelojian.}{}{5}{}{50}{}
+{182}{O quê? Como pode ter tanta certeza?}{}{5}{}{190}{}
+{188}{Não tenho tempo para isso. Tenha um bom dia.}{}{5}{lf10 0}{370}{lf2 1}
+{189}{Não tenho tempo para isso. Tenha um bom dia.}{}{5}{lf10 1}{0}{}
+{190}{[Ele olha para você com firmeza, ponderando suas próximas palavras.] Pelojian é o caminho. Tenho certeza disso. Sempre foi o caminho.}{[Ele olha para você com firmeza, ponderando suas próximas palavras.] Pelojian é o caminho. Tenho certeza disso. Sempre foi o caminho.}{}{20}{}{}
+{191}{Tudo bem. Então me fale sobre Pelojian.}{}{5}{}{50}{}
+{192}{Chega dessa bobagem mística! Quero respostas!}{}{5}{}{200}{re-10}
+{198}{Não tenho tempo para isso. Tenha um bom dia.}{}{5}{lf10 0}{370}{lf2 1}
+{199}{Não tenho tempo para isso. Tenha um bom dia.}{}{5}{lf10 1}{0}{}
+{200}{Talvez você não seja o escolhido, afinal. Independentemente disso, você tem duas escolhas. Siga o caminho traçado para você ou vá embora.}{Talvez você não seja o escolhido, afinal. Independentemente disso, você tem duas escolhas. Siga o caminho traçado para você ou vá embora.}{}{21}{}{}
+{201}{Há uma terceira opção - eu mato você e dou risada.}{}{5}{}{0}{fl 209 ,co}
+{202}{Tudo bem. Então me fale sobre Pelojian.}{}{5}{}{60}{}
+{207}{Não tenho tempo para isso. Tenha um bom dia.}{}{5}{lf10 0}{370}{lf2 1}
+{208}{Não tenho tempo para isso. Tenha um bom dia.}{}{5}{lf10 1}{0}{}
+{209}{Você não é o escolhido. Agora você vai morrer!}{Você não é o escolhido. Agora você vai morrer!}{}{22}{}{}
+{210}{Nasrudin fala conosco todos, em um momento ou outro.}{Nasrudin fala conosco todos, em um momento ou outro.}{}{23}{}{}
+{211}{Você não entende. Ele está vivo, na ilha de Thanatos!}{}{5}{}{220}{}
+{220}{Isso é interessante.}{Isso é interessante.}{}{24}{}{}
+{221}{Interessante? Não é um pouco eufemismo?}{}{5}{}{230}{}
+{222}{Certo... então pode me dizer onde posso falar com Pelojian?}{}{5}{}{20}{}
+{230}{É intrigante, eu admito. Mas só posso supor que ele tem seus motivos para permanecer escondido todos esses anos. Quem seria eu para questionar os motivos do grande Nasrudin? Se ele conseguiu se manter vivo por dois mil anos, sou apenas um mosquito comparado a ele. Se estiver disposto, porém... ficaria grato se compartilhasse sua história comigo.}{É intrigante, eu admito. Mas só posso supor que ele tem seus motivos para permanecer escondido todos esses anos. Quem seria eu para questionar os motivos do grande Nasrudin? Se ele conseguiu se manter vivo por dois mil anos, sou apenas um mosquito comparado a ele. Se estiver disposto, porém... ficaria grato se compartilhasse sua história comigo.}{}{25}{}{}
+{231}{[Conte a ele sua história.]}{}{5}{}{362}{}
+{240}{Pelojia... espera, você é um idiota. Como isso é possível? Como pode ser um idiota?}{Pelojia... espera, você é um idiota. Como isso é possível? Como pode ser um idiota?}{}{26}{}{}
+{241}{Eu não idiota.}{}{-4}{}{250}{}
+{250}{Claro que não é... mas não faço ideia de como vai resolver o mistério da piscina de Pelojian.}{Claro que não é... mas não faço ideia de como vai resolver o mistério da piscina de Pelojian.}{}{27}{}{}
+{251}{Pelojianos quem no quê agora?}{}{-4}{}{290}{}
+{260}{Jorian é o mestre da Adivinhação aqui em Tulla. Tem um pouco de clarividência nele. Jorian nunca faz ninguém fazer nada sem motivo, disso você pode ter certeza. Ele sabe mais do que está deixando transparecer, sinto isso.}{Jorian é o mestre da Adivinhação aqui em Tulla. Tem um pouco de clarividência nele. Jorian nunca faz ninguém fazer nada sem motivo, disso você pode ter certeza. Ele sabe mais do que está deixando transparecer, sinto isso.}{}{28}{}{}
+{261}{Bem, então vou falar mais com ele.}{}{5}{}{270}{}
+{270}{Não vai adiantar. Ele revelou tudo o que ia revelar. E se o conheço bem, não foi muito.}{Não vai adiantar. Ele revelou tudo o que ia revelar. E se o conheço bem, não foi muito.}{}{29}{}{}
+{271}{O que esse mural pretende representar?}{}{5}{lf5 0}{80}{}
+{280}{O que você pode me contar sobre a poesia de Pelojian?}{}{5}{lf5 1, ru-2201}{90}{}
+{281}{Você mencionou que Pelojian era clarividente?}{}{5}{lf5 1, ru-2202}{120}{}
+{282}{Você disse que Pelojian foi o fundador de Tulla?}{}{5}{lf5 1, lf20 0}{150}{}
+{283}{Isso é fascinante, mas o que devo fazer agora?}{}{5}{lf5 1}{300}{}
+{288}{E:}{}{1}{lf5 1, lf10 0}{370}{lf3 1, ru2156}
+{289}{E:}{}{1}{lf5 1, lf10 1}{0}{}
+{290}{Bem, não faço ideia de como você vai descobrir, mas precisa discernir como fazer o espírito dele falar com você. Ele aparece acima da piscina de Pelojian toda noite à meia-noite, mas nunca falou. Boa sorte, você vai precisar.}{Bem, não faço ideia de como você vai descobrir, mas precisa discernir como fazer o espírito dele falar com você. Ele aparece acima da piscina de Pelojian toda noite à meia-noite, mas nunca falou. Boa sorte, você vai precisar.}{}{30}{}{qu1139 1}
+{291}{Tá bom.}{}{-4}{}{0}{qu1139 2, lf6 1}
+{300}{Só você pode determinar isso.}{Só você pode determinar isso.}{}{31}{}{}
+{301}{Isso é enlouquecedor, não aguento mais! Tenha um bom dia!}{}{5}{lf10 1}{0}{}
+{302}{K:}{}{5}{}{310}{}
+{303}{Isso é enlouquecedor, não aguento mais! Tenha um bom dia!}{}{5}{lf10 0}{370}{}
+{308}{E:}{}{1}{lf10 0}{370}{}
+{309}{E:}{}{1}{lf10 1}{0}{}
+{310}{Que perguntas você tem para mim?}{Que perguntas você tem para mim?}{}{32}{}{}
+{311}{O que você pode me contar sobre a poesia de Pelojian?}{}{5}{ru-2201}{90}{}
+{312}{Você mencionou que Pelojian era clarividente?}{}{5}{ru-2202}{120}{}
+{313}{Você disse que Pelojian foi o fundador de Tulla?}{}{5}{lf20 0}{150}{}
+{314}{O que você pode me contar sobre a arte de Pelojian?}{}{5}{ru-2200}{60}{}
+{315}{O que são essas janelas? São quadros?}{}{5}{}{420}{}
+{318}{E:}{}{5}{lf10 0}{370}{lf3 1, ru2156}
+{319}{E:}{}{5}{lf10 1}{0}{}
+{320}{Ah. Você voltou para ouvir sobre Pelojian?}{Ah. Você voltou para ouvir sobre Pelojian?}{}{33}{}{}
+{321}{Sim. O que pode me contar sobre ele?}{}{5}{}{50}{}
+{322}{Não, estou aqui para aliviar minha frustração matando você.}{}{5}{}{0}{fl 209 ,co}
+{329}{Não, preciso ir.}{}{5}{}{0}{}
+{330}{Sim, em que posso ajudá-lo agora?}{Sim, em que posso ajudá-lo agora?}{}{34}{}{}
+{331}{K:}{}{5}{}{310}{}
+{332}{Preciso saber o que fazer em seguida.}{}{5}{}{300}{}
+{339}{Nada, preciso ir. Tenha um bom dia.}{}{5}{}{0}{}
+{340}{Por favor, não me incomode. Conversar com alguém de habilidades mentais tão limitadas é desgastante, no mínimo. Não posso ajudá-lo.}{Por favor, não me incomode. Conversar com alguém de habilidades mentais tão limitadas é desgastante, no mínimo. Não posso ajudá-lo.}{}{35}{}{}
+{341}{Que os deuses abençoem sua jornada.}{Que os deuses abençoem sua jornada.}{}{36}{}{}
+{345}{[Enquanto ele o fita com um olhar intenso, o ar na sala fica carregado de tensão.] Você é um praticante da tecnologia.}{[Enquanto ele o fita com um olhar intenso, o ar na sala fica carregado de tensão.] Você é um praticante da tecnologia.}{}{37}{}{}
+{346}{E por que isso importa?}{}{5}{}{350}{}
+{350}{E você afirma ter visto Nasrudin? Devo acreditar que não só ele ainda está vivo, como usaria um tecnólogo como seu emissário?}{E você afirma ter visto Nasrudin? Devo acreditar que não só ele ainda está vivo, como usaria um tecnólogo como seu emissário?}{}{38}{}{}
+{351}{[Conte a ele sua história.]}{}{5}{}{360}{}
+{360}{E ele lhe disse para encontrar Vendigroth? Sua história soa verdadeira, apesar de sua implausibilidade. Não tenho a informação que procura, de qualquer forma.}{E ele lhe disse para encontrar Vendigroth? Sua história soa verdadeira, apesar de sua implausibilidade. Não tenho a informação que procura, de qualquer forma.}{}{39}{}{}
+{361}{Quem pode me ajudar, então?}{}{5}{}{10}{}
+{362}{Sua história soa verdadeira, apesar de sua implausibilidade. Mas, como já disse, Pelojian é o único que talvez possa ajudá-lo.}{Sua história soa verdadeira, apesar de sua implausibilidade. Mas, como já disse, Pelojian é o único que talvez possa ajudá-lo.}{}{40}{}{}
+{363}{Onde posso falar com ele?}{}{5}{}{20}{}
+{370}{Como deve ser. Você deve encontrar seu próprio caminho.}{Como deve ser. Você deve encontrar seu próprio caminho.}{}{41}{}{lf10 1}
+{371}{Chega de seus chavões vazios. Tenha um bom dia, senhor.}{}{5}{pa6577, pa6591}{390}{}
+{372}{Chega de seus chavões vazios. Tenha um bom dia, senhor.}{}{5}{pa-6577, pa6591}{0}{fl 400}
+{373}{Chega de seus chavões vazios. Tenha um bom dia, senhor.}{}{5}{pa6577, pa-6591}{410}{}
+{374}{Chega de seus chavões vazios. Tenha um bom dia, senhor.}{}{5}{pa-6577, pa-6591}{0}{}
+{375}{Tenha um bom dia, então.}{}{5}{pa6577, pa6591}{390}{}
+{376}{Tenha um bom dia, então.}{}{5}{pa-6577, pa6591}{0}{}
+{377}{Tenha um bom dia, então.}{}{5}{pa6577, pa-6591}{410}{fl 400}
+{378}{Tenha um bom dia, então.}{}{5}{pa-6577, pa-6591}{0}{}
+{390}{Uma última coisa, se me permite... eu escolheria meus companheiros de viagem com um pouco mais de sabedoria, se fosse você. [Ele acena na direção de Geoffrey.] Não posso dizer que estou satisfeito em vê-lo, Sr. Tarrelond-Ashe. E Sr. Smythe - devo admitir que estou um pouco chocado em encontrá-lo viajando em tal companhia.}{Uma última coisa, se me permite... eu escolheria meus companheiros de viagem com um pouco mais de sabedoria, se fosse você. [Ele acena na direção de Geoffrey.] Não posso dizer que estou satisfeito em vê-lo, Sr. Tarrelond-Ashe. E Sr. Smythe - devo admitir que estou um pouco chocado em encontrá-lo viajando em tal companhia.}{}{42}{}{}
+{391}{Geoffrey, do que ele está falando?}{}{5}{}{-15}{}
+{400}{[Ele se vira para Perriman.] Sr. Smythe, eu queria elogiá-lo pelo seu trabalho recente em Tarant. Bem feito.}{[Ele se vira para Perriman.] Sr. Smythe, eu queria elogiá-lo pelo seu trabalho recente em Tarant. Bem feito.}{}{43}{}{}
+{410}{Uma última coisa, se me permite... eu escolheria meus companheiros de viagem com um pouco mais de sabedoria, se fosse você. [Ele acena na direção de Geoffrey.] Não posso dizer que estou satisfeito em vê-lo, Sr. Tarrelond-Ashe.}{Uma última coisa, se me permite... eu escolheria meus companheiros de viagem com um pouco mais de sabedoria, se fosse você. [Ele acena na direção de Geoffrey.] Não posso dizer que estou satisfeito em vê-lo, Sr. Tarrelond-Ashe.}{}{44}{}{}
+{411}{Geoffrey, do que ele está falando?}{}{5}{}{-15}{}
+{420}{Estes? Não, são portais para outros lugares... um capricho, mas acho reconfortante olhar através deles.}{Estes? Não, são portais para outros lugares... um capricho, mas acho reconfortante olhar através deles.}{}{45}{}{}
+{421}{Portais? Eles podem ser usados para chegar a esses lugares?}{}{5}{}{430}{}
+{430}{Claro.}{Claro.}{}{46}{}{}
+{431}{Posso usá-los?}{}{5}{ta-59}{440}{}
+{432}{Posso usá-los?}{}{5}{ta60}{450}{}
+{440}{Claro. Quando você tiver completado a tarefa que Nasrudin lhe designou, poderá fazer uso completo delas.}{Claro. Quando você tiver completado a tarefa que Nasrudin lhe designou, poderá fazer uso completo delas.}{}{47}{}{}
+{441}{Posso lhe fazer mais algumas perguntas?}{}{5}{}{310}{}
+{449}{Obrigado. Acho que vou indo, agora.}{}{5}{}{0}{}
+{450}{Receio que não. Alguém com sua aptidão tecnológica poderia perturbar o fluxo das magias envolvidas. Seria... letal... na melhor das hipóteses.}{Receio que não. Alguém com sua aptidão tecnológica poderia perturbar o fluxo das magias envolvidas. Seria... letal... na melhor das hipóteses.}{}{48}{}{}
+{451}{Posso lhe fazer mais algumas perguntas?}{}{5}{}{310}{}
+{459}{Obrigado. Acho que vou indo, agora.}{}{5}{}{0}{}
+

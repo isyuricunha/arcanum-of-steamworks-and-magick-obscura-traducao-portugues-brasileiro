@@ -1,0 +1,40 @@
+{1}{Pare! Qual é o seu propósito aqui a esta hora?}{Pare! Qual é o seu propósito aqui a esta hora?}{}{}{}{}
+{2}{Peço desculpas pela interrupção. Não conseguia dormir. Onde estou?}{}{5}{}{7}{}
+{3}{Apenas passando por aqui. Minhas desculpas pela interrupção.}{}{5}{gf2225 1}{36}{}
+{4}{E:}{}{5}{}{0}{}
+{5}{Me desculpa. Eu só tava andando, sem sono. Onde é que tô?}{}{-4}{}{7}{}
+{6}{E:}{}{-4}{}{0}{}
+{7}{Esta é a masmorra de segurança máxima de Caladon. É aqui que residem os criminosos mais notórios de Caladon. Agora saia desta área. Não me force à violência.}{Esta é a masmorra de segurança máxima de Caladon. É aqui que residem os criminosos mais notórios de Caladon. Agora saia desta área. Não me force à violência.}{}{}{}{re -5}
+{8}{Ouvi um boato de que vocês mantêm JT Morgan aqui.}{}{5}{tr14 1}{11}{}
+{9}{E:}{}{5}{}{0}{}
+{10}{E:}{}{-4}{}{0}{}
+{11}{Sim, o notório Sr. Morgan de fato está detido atrás dessas portas.}{Sim, o notório Sr. Morgan de fato está detido atrás dessas portas.}{}{}{}{}
+{12}{Aposto que ele os mantém ocupados, com suas habilidades de chaveiro e tudo mais...}{}{5}{}{15}{}
+{13}{Posso entrar para dar uma olhada? Nunca vi um criminoso de verdade antes.}{}{5}{}{22}{}
+{14}{E:}{}{5}{}{0}{}
+{15}{Não exatamente. Desde que ele resolveu invadir o palácio real, adicionamos extensas medidas de segurança para garantir sua estadia prolongada. Além disso, ele não pode ser tão bom quanto dizem. Afinal, foi capturado, não foi?}{Não exatamente. Desde que ele resolveu invadir o palácio real, adicionamos extensas medidas de segurança para garantir sua estadia prolongada. Além disso, ele não pode ser tão bom quanto dizem. Afinal, foi capturado, não foi?}{}{}{}{}
+{16}{Então vocês não estão preocupados com uma possível fuga?}{}{5}{}{19}{}
+{17}{E:}{}{5}{}{0}{}
+{18}{Inimigo de Caladon! Inimigo de Caladon! Morte ao traidor!}{Inimigo de Caladon! Inimigo de Caladon! Morte ao traidor!}{}{}{}{re-15}
+{19}{De forma alguma. Como já afirmei, esta é a masmorra de segurança máxima de Caladon. Está sob vigilância constante. Além disso, sua cela possui o sistema de trancas mais forte e intrincado que já vi. O inventor real o construiu especialmente para o Sr. Morgan.}{De forma alguma. Como já afirmei, esta é a masmorra de segurança máxima de Caladon. Está sob vigilância constante. Além disso, sua cela possui o sistema de trancas mais forte e intrincado que já vi. O inventor real o construiu especialmente para o Sr. Morgan.}{}{}{}{}
+{20}{Como alguém poderia entrar para vê-lo?}{}{5}{}{22}{re -5}
+{21}{E:}{}{5}{}{0}{}
+{22}{O Sr. Morgan não tem permissão para receber visitas, por ordem do Rei.}{O Sr. Morgan não tem permissão para receber visitas, por ordem do Rei.}{}{}{}{}
+{23}{Nenhuma visita? Acho que isso deixaria qualquer um louco.}{}{5}{}{25}{re -5}
+{24}{E:}{}{5}{}{0}{}
+{25}{Ele tem permissão para receber uma visita. Sua mãe, a Sra. Morgan, pode ver o filho para garantir seu bem-estar em intervalos regulares.}{Ele tem permissão para receber uma visita. Sua mãe, a Sra. Morgan, pode ver o filho para garantir seu bem-estar em intervalos regulares.}{}{}{}{}
+{26}{Ah. Então ela mora por perto?}{}{5}{}{28}{}
+{27}{E:}{}{5}{}{0}{}
+{28}{Não muito longe. Sua residência fica em Roseborough.}{Não muito longe. Sua residência fica em Roseborough.}{}{}{}{gf2225 1}
+{29}{Bem. Acho que vou falar com ela...}{}{5}{}{32}{re -10}
+{30}{Uma história muito interessante. Obrigado pelo seu tempo. Adeus.}{}{5}{}{0}{}
+{31}{E:}{}{5}{}{0}{}
+{32}{Que negócios você teria com ela? Ousa simpatizar com uma inimiga de Caladon?!}{Que negócios você teria com ela? Ousa simpatizar com uma inimiga de Caladon?!}{}{}{}{}
+{33}{Uh... Não! Não! Não é nada disso. Preciso ir embora... Adeus.}{}{5}{}{36}{}
+{34}{Que interesse é o seu, com quem eu falo?}{}{5}{}{}{co, fl 18}
+{35}{E:}{}{5}{}{0}{}
+{36}{Seria do seu maior interesse deixar este lugar, forasteiro. Não me deixe pegá-lo aqui novamente...}{Seria do seu maior interesse deixar este lugar, forasteiro. Não me deixe pegá-lo aqui novamente...}{}{}{}{re -5}
+{37}{E:}{}{5}{}{0}{}
+{38}{}{}{}{}{}{}
+{39}{}{}{}{}{}{}
+

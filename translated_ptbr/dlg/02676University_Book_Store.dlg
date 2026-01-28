@@ -1,0 +1,40 @@
+{1}{Bem-vindo à Livraria da Universidade. Posso ajudá-lo?}{Olá... posso ajudá-lo?}{}{}{}{}
+{2}{Que tipo de livros vocês vendem aqui?}{}{5}{}{8}{}
+{3}{Gostaria de comprar alguns manuais técnicos, por favor...}{}{5}{}{20}{}
+{4}{Que lugar é <<<PH1>>>?}{}{-4}{}{8}{}
+{5}{Hã... eu compro livros de tec?}{}{-4}{}{20}{}
+{6}{E:}{}{1}{}{0}{}
+{8}{Bem, como tenho certeza de que você está ciente, a Universidade de Tarant é uma instituição dedicada ao estudo da ciência. Os livros que vendemos aqui também são sobre ciência e tecnologia...}{Bem, como tenho certeza de que você está ciente, a Universidade de Tarant é uma instituição dedicada ao estudo da ciência. Os livros que vendemos aqui também são sobre ciência e tecnologia...}{}{}{}{}
+{9}{Entendo. De que servem esses livros, amigo?}{}{5}{}{15}{}
+{10}{Interessante. Acho que gostaria de comprar alguns manuais técnicos...}{}{5}{}{25}{}
+{11}{Hã... pra que servem esses livros?}{}{-4}{}{15}{}
+{12}{Eu quero comprar livros!}{}{-4}{}{25}{}
+{13}{E:}{}{1}{}{0}{}
+{15}{Os manuais que vendemos são muito úteis para aprender conhecimentos gerais sobre uma disciplina tecnológica específica. Se você passa a maior parte do tempo estudando eletricidade, mas tem interesse em aprender um pouco sobre química, então o manual de química lhe dará um pouco de conhecimento extra sem precisar se dedicar a um diploma completo em química...}{Os manuais que vendemos são muito úteis para aprender conhecimentos gerais sobre uma disciplina tecnológica específica. Se você passa a maior parte do tempo estudando eletricidade, mas tem interesse em aprender um pouco sobre química, então o manual de química lhe dará um pouco de conhecimento extra sem precisar se dedicar a um diploma completo em química...}{}{}{}{}
+{16}{Hmm. Acho que gostaria de comprar alguns manuais técnicos...}{}{5}{}{25}{}
+{17}{Tá bom! Eu quero comprar livros de tec!}{}{-4}{}{20}{}
+{18}{E:}{}{1}{}{0}{}
+{20}{O preço é 750 moedas por manual. Você tem dinheiro suficiente?}{O preço é 750 moedas por manual. Você tem dinheiro suficiente?}{}{}{}{}
+{21}{Sim...}{}{1}{$$750}{25}{}
+{22}{Não. Talvez eu volte mais tarde...}{}{1}{$$-749}{0}{}
+{25}{Quais manuais você gostaria de comprar...?}{Quais manuais você gostaria de comprar...?}{}{}{}{}
+{26}{Manuais de química...}{}{1}{}{-2}{$$-750}
+{27}{Manuais de explosivos...}{}{1}{}{-5}{$$-750}
+{28}{Manuais de herbologia...}{}{1}{}{-8}{$$-750}
+{29}{[Mais.]}{}{1}{}{32}{}
+{30}{E:}{}{1}{}{0}{}
+{32}{Quais manuais você gostaria de comprar...?}{Quais manuais você gostaria de comprar...?}{}{}{}{}
+{33}{Manuais de forja...}{}{1}{}{-11}{$$-750}
+{34}{Manuais de terapêutica...}{}{1}{}{-14}{$$-750}
+{35}{Armeiros...}{}{1}{}{-17}{$$-750}
+{36}{[Mais.]}{}{1}{}{39}{}
+{37}{E:}{}{1}{}{0}{}
+{39}{Quais manuais você gostaria de comprar...?}{Quais manuais você gostaria de comprar...?}{}{}{}{}
+{40}{Manuais elétricos...}{}{1}{}{-20}{$$-750}
+{41}{Manuais mecânicos...}{}{1}{}{-23}{$$-750}
+{42}{[Voltar.]}{}{1}{}{25}{}
+{43}{E:}{}{1}{}{0}{}
+{45}{[Ele lhe entrega o livro.] Havia mais alguma coisa?}{[Ele lhe entrega o livro.] Havia mais alguma coisa?}{}{}{}{}
+{46}{Eu gostaria de comprar outro manual...}{}{1}{}{20}{}
+{47}{E:}{}{1}{}{0}{}
+

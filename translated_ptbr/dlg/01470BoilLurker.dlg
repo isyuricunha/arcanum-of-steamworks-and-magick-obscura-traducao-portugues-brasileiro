@@ -1,0 +1,67 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{O que você pode me contar sobre o Fervedouro?}{}{5}{re 41, lf1 0}{14}{lf1 1}
+{3}{O que é o Fervedouro?}{}{-4}{re41, lf1 0}{14}{lf1 1}
+{4}{Me desculpe.}{}{-4}{re-40}{43}{re+10}
+{5}{Você estava falando comigo sobre oportunidades?}{}{5}{lf1 1, lf5 0}{24}{}
+{6}{Por favor, peço-lhe perdão, senhor.}{}{5}{re-40, ch-13}{53}{re+10}
+{7}{Com licença?}{}{5}{re-40, ch14}{100}{re+15}
+{8}{Decidi me juntar ao Clã Maug.}{}{5}{lf5 1}{33}{}
+{9}{Eu me junto com vocês.}{}{-4}{lf1 1}{33}{}
+{10}{Já matei homens por falarem comigo nesse tom.}{}{5}{re-40, sk2 15}{60}{}
+{11}{Já matei homens por falarem comigo nesse tom.}{}{5}{re-40, sk13 15, sk2 -14}{60}{}
+{12}{Já matei homens por falarem comigo nesse tom.}{}{5}{re-40, sk13 -14, sk2 -14}{70}{re-10}
+{13}{E:}{}{1}{}{0}{}
+{14}{O Fervedouro é um lugar de grandes oportunidades para quem sabe das coisas, é sim. Você, senhor, é um homem de sorte por ter escolhido falar comigo em vez de alguns dos outros vagabundos por aqui. [Ele lança um olhar desconfiado pelo bar.]}{O Fervedouro é um lugar de grandes oportunidades para quem sabe das coisas, é sim. A senhora teve sorte de ter escolhido falar comigo em vez de alguns dos outros vagabundos por aqui. [Ele lança um olhar desconfiado pelo bar.]}{}{}{}{}
+{15}{O que quer dizer com isso, senhor?}{}{5}{}{24}{}
+{16}{Hã?}{}{-4}{}{24}{}
+{17}{Seu fedor está me fazendo questionar minha sorte, na verdade.}{}{5}{ch15}{110}{}
+{18}{Seu fedor está me fazendo questionar minha sorte, na verdade.}{}{5}{ch-14}{70}{}
+{22}{E:}{}{-4}{}{0}{}
+{23}{Tenho certeza, mas preciso ir. Tenha um bom dia.}{}{5}{}{0}{}
+{24}{Nós do Clã Maug comandamos o Fervedouro. Seria bom você se juntar a nós. Interessado?}{Nós do Clã Maug comandamos o Fervedouro. Seria bom você se juntar a nós. Interessado?}{}{}{}{}
+{25}{Talvez.}{}{5}{}{33}{}
+{26}{Urgh?}{}{-4}{}{33}{}
+{27}{Não gostaria de tomar uma decisão precipitada. Voltarei depois.}{}{5}{}{0}{lf5 1}
+{28}{Não.}{}{-4}{}{0}{lf5 1}
+{33}{Então você precisa falar com o Muggs ali. [Ele aponta para um anão bem-vestido por perto.] Ele sempre tem um trabalho para quem quer provar seu valor ao Clã Maug.}{Então você precisa falar com o Muggs ali. [Ele aponta para um anão bem-vestido por perto.] Ele sempre tem um trabalho para quem quer provar seu valor ao Clã Maug.}{}{}{}{gf2169 1, ru2136}
+{34}{Vou fazer isso. Adeus.}{}{5}{}{0}{}
+{35}{Urgh.}{}{-4}{}{0}{}
+{43}{Suponho que não pode evitar, sendo um idiota e tal.}{Suponho que não pode evitar, sendo um idiota e tal.}{}{}{}{}
+{44}{Tá bom. Você tem trabalho?}{}{-4}{}{14}{}
+{45}{Ergh.}{}{-4}{}{0}{}
+{53}{Por que eu deveria?}{Por que eu deveria?}{}{}{}{}
+{54}{Porque já matei homens por menos.}{}{5}{sk2 15, sk13 15}{60}{}
+{55}{Porque já matei homens por menos.}{}{5}{sk13 15, sk2 -14}{60}{}
+{56}{Só posso esperar que sua bondade lhe permita.}{}{5}{}{80}{re+5}
+{57}{Porque já matei homens por menos.}{}{5}{sk13 -14, sk2 -14}{70}{re-10}
+{58}{Porque já matei homens por menos.}{}{5}{sk13 -14, sk2 15}{60}{}
+{59}{Lamento que se sinta assim. Tenha um bom dia.}{}{5}{}{0}{}
+{60}{Tá bom, tá bom, não quero cruzar com alguém como você. Foi só uma brincadeirinha, nada mais.}{Tá bom, tá bom, não quero cruzar com alguém como você. Foi só uma brincadeirinha, nada mais.}{}{}{}{}
+{61}{O que você pode me contar sobre o Furúnculo?}{}{5}{lf1 0}{14}{lf1 1}
+{62}{Já é tarde demais para isso. Prepare-se para uma dor imensa, seguida de morte.}{}{5}{}{0}{fl 109 ,co}
+{63}{Decidi me juntar ao Clã Maug.}{}{5}{lf1 1}{33}{}
+{70}{Saia daqui antes que eu corte suas orelhas e as alimente a você, idiota.}{Saia daqui antes que eu corte suas orelhas e as alimente a você, idiota.}{}{}{}{}
+{71}{Eu estava apenas testando sua determinação. Peço-lhe perdão.}{}{5}{ch13}{90}{re+10}
+{72}{Por favor, me perdoe. Eu sei que não sou nada comparado a você.}{}{5}{}{80}{re+5}
+{73}{Peço desculpas por sujar seus sapatos de sangue, mas a morte é bagunçada.}{}{5}{}{0}{fl 109 ,co}
+{79}{Não preciso desse abuso. Tenha um bom dia.}{}{5}{}{0}{}
+{80}{Suponho que alguém da minha classe deva perdoar aqueles que vivem na sarjeta, como você.}{Suponho que alguém da minha classe deva perdoar aqueles que vivem na sarjeta, como você.}{}{}{}{}
+{81}{Obrigado. O que você pode me contar sobre o Furúnculo?}{}{5}{lf1 0}{14}{lf1 1}
+{82}{Já é tarde demais para isso. Prepare-se para uma dor imensa, seguida de morte.}{}{5}{}{0}{fl 109 ,co}
+{83}{Decidi me juntar ao Clã Maug.}{}{5}{lf5 1}{33}{}
+{84}{Você estava falando de oportunidades?}{}{5}{lf1 1, lf5 0}{24}{}
+{89}{Não preciso desse abuso. Tenha um bom dia.}{}{5}{}{0}{}
+{90}{Claro, eu sabia disso. Heh, heh. Eu estava apenas brincando com aquele comentário sobre "orelha", entende.}{Claro, eu sabia disso. Heh, heh. Eu estava apenas brincando com aquele comentário sobre "orelha", entende.}{}{}{}{}
+{91}{O que você pode me contar sobre o Furúnculo?}{}{5}{lf1 0}{14}{lf1 1}
+{92}{Já é tarde demais para isso. Prepare-se para uma dor imensa, seguida de morte.}{}{5}{}{0}{fl 109 ,co}
+{93}{Decidi me juntar ao Clã Maug.}{}{5}{lf1 1}{33}{}
+{100}{Muitas desculpas, muitas desculpas, senhor. Não fazia ideia de que era da alta sociedade. Em que posso ajudá-lo?}{Muitas desculpas, muitas desculpas, senhora. Não fazia ideia de que era da alta sociedade. Em que posso ajudá-la?}{}{}{}{}
+{101}{O que você pode me contar sobre o Furúnculo?}{}{5}{lf1 0}{14}{lf1 1}
+{102}{Já é tarde demais para isso. Prepare-se para uma dor imensa, seguida pela morte.}{}{5}{}{0}{fl 109 ,co}
+{103}{Decidi me juntar ao Clã Maug.}{}{5}{lf1 1}{33}{}
+{109}{Você escolheu uma morte dolorosa, porco!}{Você escolheu uma morte dolorosa, porco!}{}{}{}{}
+{110}{Hah! Sua perspicácia me mata, senhor. Mas certamente você já ouviu falar do Clã Maug.}{Hah! Sua perspicácia me mata, senhora. Mas certamente você já ouviu falar do Clã Maug.}{}{}{}{}
+{111}{Claro. Quem são eles mesmo?}{}{5}{}{24}{}
+{112}{Parece que a pancadaria terá que assumir o lugar onde minha perspicácia falhou.}{}{5}{}{0}{fl 109 ,co}
+{120}{Como vão as coisas, irmão?}{Como vão as coisas, irmã?}{}{}{}{}
+

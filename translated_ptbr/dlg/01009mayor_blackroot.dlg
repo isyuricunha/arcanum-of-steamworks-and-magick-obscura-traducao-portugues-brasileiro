@@ -1,0 +1,248 @@
+// need a gang of thieves on outskirts of Black Root
+// need a silver dagger with name 2002 on a thief above
+// need a case of 5 gold bars with name 5601 on Mayor
+// newspaper with name 5201 must be available somewhere (perhaps in Tarant)
+// in all 10 Tarant Black Root guards' death scripts: increment global 1003
+
+// lines 120,260,350 and 390 need a global FLAG added to say that Black root has rejoined Cumbria
+
+//lf1 1 - already asked Mayor for taxes
+
+//lf2 1 - talked to Mayor before
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+{1}{G:}{G:}{}{}{}{}
+	{2}{Estou aqui em nome do Rei Praetor.}{}{5}{lf1 0, qu 1000 2}{30}{lf2 1, lf1 1}
+	{3}{Decidi localizar sua adaga para você.}{}{5}{qu 1005 1}{90}{qu 1005 2}
+	{4}{Recuperei sua adaga.}{}{5}{qb 1005 3, in 2002}{100}{}
+	{5}{T:11}{}{5}{qu1005 4, re 41}{20}{}
+	{6}{Por favor, senhor, não quero ofendê-lo.}{}{5}{ch-9, re-40}{470}{re41}	
+	{7}{Pre-tor.Táxis.}{}{-4}{qu 1000 2}{360}{lf2 1}
+	{8}{guurf.}{}{-4}{}{0}{}
+	{9}{Quem é você?}{}{5}{re41, lf2 0}{400}{lf2 1}
+	{10}{O senhor não tem mais a proteção de Tarant, Prefeito.}{}{5}{qb1000 3, gv 1003 6}{200}{}
+	{11}{Ainda não localizei sua adaga.}{}{5}{qu 1005 2, ni2002}{20}{}
+	{12}{Queria que soubesse que tenho seus impostos.}{}{5}{qb1000 3, in 5601, lf5 0}{140}{re -15}
+	{13}{Acho que não ouvi corretamente, senhor.}{}{5}{ch10, re-40}{490}{re50}
+	{14}{E:}{}{5}{}{0}{}
+	
+{20}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{}
+	{21}{N:}{}{5}{}{0}{}
+	{23}{Já reconsiderou me entregar os impostos, talvez?}{}{5}{}{420}{re +5}
+
+{30}{O que você quer?}{O que você quer?}{}{}{}{}
+	{31}{Estou aqui para cobrar os impostos que Black Root deve.}{}{5}{}{40}{lf 1 1}
+	{32}{O senhor não tem mais a proteção de Tarant, Prefeito.}{}{5}{gv 1003 6}{200}{}
+	{33}{Acredito que este editorial do jornal vá interessá-lo.}{}{5}{gv 1001 1, in 5201}{150}{}
+	{34}{Queria que soubesse que tenho seus impostos.}{}{5}{in 5601}{140}{re -15}
+	{35}{F:}{}{5}{}{0}{}
+
+{40}{Black Root agora é aliada do Reino Unificado. Cobro impostos apenas para Tarant.}{Black Root agora é aliada do Reino Unido. Cobro impostos apenas para Tarant.}{}{}{}{gv 1001 1}
+	{41}{O Rei Praetor discordaria.}{}{5}{}{50}{}
+	{42}{Vou cobrar esses impostos por quaisquer meios necessários.}{}{5}{}{50}{re -15}
+
+{50}{Não me importo com Praetor ou com o senhor. Cumbria nos deixou à própria sorte por tempo demais. Agora estamos sob a proteção de Tarant.}{Não me importo com Praetor ou com a senhora. Cumbria nos deixou à própria sorte por tempo demais. Agora estamos sob a proteção de Tarant.}{}{}{}{}
+	{51}{Permita-me discordar.}{}{5}{}{300}{re -10}
+	{52}{Então os guardas de Tarant estão mantendo Black Root segura?}{}{5}{}{60}{}
+	{53}{Como se sente sendo o cachorrinho de Tarant?}{}{5}{ps -7}{300}{re -15}
+      {54}{Como se sente sendo o cachorrinho de Tarant?}{}{5}{ps 8}{290}{re +10}
+
+{60}{Claro. Eles têm seus próprios procedimentos, mas têm protegido nossa bela cidade dentro de suas capacidades.}{Claro. Eles têm seus próprios procedimentos, mas têm protegido nossa bela cidade dentro de suas capacidades.}{}{}{}{}
+	{61}{Dentro de suas capacidades? O que isso quer dizer?}{}{5}{}{210}{}
+	{62}{Eles parecem fracos e sem firmeza.}{}{5}{ps 8}{70}{}
+
+{70}{Os guardas não podem prender ninguém sem provas, ou pelo menos é o que dizem.}{Os guardas não podem prender ninguém sem provas, ou pelo menos é o que dizem.}{}{}{}{}
+	{71}{Que tipo de prova?}{}{5}{}{80}{}
+	{72}{Não tenho interesse em seu choro, senhor. Os impostos?}{}{5}{}{310}{re -15}
+	{73}{Que provas esses idiotas precisam?}{}{5}{ps 8}{80}{}
+
+{80}{Ladrões roubaram meu distintivo de cargo, um punhal cerimonial de prata. Se você conseguir recuperá-lo deles, isso será prova suficiente para que eu os mande prender.}{Ladrões roubaram meu distintivo de cargo, um punhal cerimonial de prata. Se você conseguir recuperá-lo deles, isso será prova suficiente para que eu os mande prender.}{}{}{}{qu 1005 1}
+	{81}{Aceito sua missão, meu bom homem.}{}{5}{}{90}{qu 1005 2}
+	{82}{Não tenho interesse em suas preocupações mesquinhas.}{}{5}{}{0}{re -10, fl 1020}
+	{83}{Preciso ponderar sobre isso com calma. Tenha um bom dia.}{}{5}{}{0}{}
+        {84}{Coincidentemente, já consegui obter seu punhal.}{}{5}{in 2002}{100}{}
+
+{90}{Sabe-se que os ladrões costumam se esconder nos arredores da cidade. O líder deles é um elfo chamado D'ak Taan, creio eu. Que a sorte o acompanhe, senhor.}{Sabe-se que os ladrões costumam se esconder nos arredores da cidade. O líder deles é um elfo chamado D'ak Taan, creio eu. Que a sorte a acompanhe, senhora.}{}{}{}{}
+	{91}{E:}{}{5}{}{0}{}
+
+{100}{Excelente. Entregue-o para mim e mandarei prender os ladrões imediatamente.}{Excelente. Entregue-o para mim e mandarei prender os ladrões imediatamente.}{}{}{}{}
+	{101}{Seus guardas nem conseguem protegê-lo de ladrões insignificantes.}{}{5}{}{110}{}
+	{102}{Aqui está.}{}{5}{}{430}{qu 1005 4, in 2002}
+	{103}{Só depois que reconsiderar suas alianças.}{}{5}{ch 13}{340}{}
+
+{110}{Seu argumento é válido, mas o que gostaria que eu fizesse?}{Seu argumento é válido, mas o que gostaria que eu fizesse?}{}{}{}{}
+	{111}{Entregue-me os impostos e alinhe-se a Cumbria.}{}{5}{}{120}{}
+	{112}{Você sempre age como um idiota ineficaz, seu tolo?}{}{5}{}{0}{fl 1010, co} 
+
+{120}{Aceito sua proposta - se você me devolver o punhal cerimonial.}{Aceito sua proposta - se você me devolver o punhal cerimonial.}{}{}{}{}
+	{121}{Aqui está seu punhal, senhor.}{}{5}{}{130}{gf 1000 1, qu 1005 4, qu 1000 3, in -5601, in 2002, lf5 1}
+	{122}{Esse maldito punhal é tudo em que você pensa?}{}{5}{ch 13}{350}{re - 5}
+
+{130}{Obrigado, @pcname@. Sua engenhosidade me impressiona.}{Obrigado, @pcname@. Sua engenhosidade me impressiona.}{}{}{}{}
+	{131}{A:}{}{5}{}{0}{}
+	{132}{E:}{}{5}{}{0}{}
+
+{140}{O quê?! Ladrão!}{O quê?! Ladrão!}{}{}{}{}
+	{141}{Acalme-se, tenho uma proposta para você.}{}{5}{}{230}{}
+	{142}{Acho que você morre agora.}{}{5}{}{0}{co}
+
+{150}{O que o leva a pensar que eu teria interesse nisso?}{O que o leva a pensar que eu teria interesse nisso?}{}{}{}{}
+	{151}{Detalha as dificuldades atuais entre Caladon e Tarant.}{}{5}{}{160}{}
+	{152}{Foi um engano meu. Tenha um bom dia.}{}{5}{}{0}{}
+
+{160}{Entendo.}{Entendo.}{}{}{}{}
+	{161}{Insta Tarant a declarar guerra contra Caladon.}{}{5}{}{170}{}
+
+{170}{O quê? O Reino Unificado invadiria Caladon para anexá-los?}{O quê? O Reino Unificado invadiria Caladon para anexá-los?}{}{}{}{}
+	{171}{Obviamente você não quer fazer parte deste conflito que se aproxima.}{}{5}{ps -6}{0}{fl 1000, re -10}
+	{172}{Obviamente você não quer fazer parte deste conflito que se aproxima.}{}{5}{ps 8}{180}{}
+	{173}{Este editorial é obra de um respeitado jornalista.}{}{5}{ps -7}{280}{}
+
+{180}{Isso é desastroso! Nunca deveríamos ter deixado a proteção de Cúmbria!}{Isso é desastroso! Nunca deveríamos ter deixado a proteção de Cúmbria!}{}{}{}{}
+	{181}{Me dê os impostos e você pode ter essa proteção novamente.}{}{5}{}{190}{}
+
+{190}{Com certeza! Por favor, transmita meus cumprimentos junto com os impostos... e talvez o velho Pretor não precise saber sobre toda essa situação tarantiana?}{Com certeza! Por favor, transmita meus cumprimentos junto com os impostos... e talvez o velho Pretor não precise saber sobre toda essa situação tarantiana?}{}{}{}{qu 1000 3, in -5601}
+	{191}{Claro. Foi um prazer fazer negócios. Tenha um bom dia.}{}{5}{}{0}{}
+
+{200}{O que você quer dizer?}{O que você quer dizer?}{}{}{}{}
+	{201}{Todos os guardas estão mortos. Os impostos serão pagos. Agora.}{}{5}{}{190}{}
+
+{210}{Bem, existem certas regras de decoro, você sabe, causa provável e provas de delitos, por assim dizer.}{Bem, existem certas regras de decoro, você sabe, causa provável e provas de delitos, por assim dizer.}{}{}{}{}
+	{211}{Há alguma dificuldade que eles não consigam resolver?}{}{5}{}{220}{}
+	{212}{E:}{}{5}{}{0}{}
+
+{220}{Tenho certeza de que eles resolverão nosso problema de roubos no devido tempo.}{Tenho certeza de que eles resolverão nosso problema de roubos no devido tempo.}{}{}{}{}
+	{221}{Por que agora não é a hora?}{}{5}{}{70}{}
+	{222}{Vou resolver qualquer problema de roubo que o senhor possa ter.}{}{5}{}{80}{}
+	{223}{E:}{}{5}{}{0}{} 
+
+{230}{Que proposta sua poderia me interessar?}{Que proposta sua poderia me interessar?}{}{}{}{}
+	{231}{Posso roubar os impostos anualmente ou o senhor pode pagar de boa vontade.}{}{5}{}{240}{}
+
+{240}{Cão! Eu deveria mandar os guardas atravessarem você!}{Cão! Eu deveria mandar os guardas atravessarem você!}{}{}{}{}
+	{241}{Seus guardas nem conseguem protegê-lo de ladrões de meia-tigela.}{}{5}{}{250}{}
+
+{250}{Há alguma verdade no seu argumento, canalha. Que curso de ação está me oferecendo?}{Há alguma verdade no seu argumento, canalha. Que curso de ação está me oferecendo?}{}{}{}{}
+	{251}{Sua lealdade deveria ser com Cúmbria mais uma vez.}{}{5}{}{260}{}
+
+{260}{Por Júpiter, acredito que o senhor está correto. Que se danem esses vagabundos tarantinos, hein?}{Por Júpiter, acredito que a senhora está correta. Que se danem esses vagabundos tarantinos, hein?}{}{}{}{gf 1000 1}
+	{261}{Concordo plenamente.}{}{5}{}{270}{}
+
+{270}{Por favor, transmita meus cumprimentos junto com os impostos... e talvez o velho Pretor não precise saber sobre toda essa situação tarantina?}{Por favor, transmita meus cumprimentos junto com os impostos... e talvez o velho Pretor não precise saber sobre toda essa situação tarantina?}{}{}{}{}
+	{271}{Claro. Foi um prazer fazer negócios. Tenha um bom dia.}{}{5}{}{0}{}
+
+{280}{O senhor me toma por um tolo? Essas são as divagações de um jornalista sensacionalista!}{A senhora me toma por um tola? Essas são as divagações de um jornalista sensacionalista!}{}{}{}{}
+	{281}{Eu estava em Tarant há pouco e eles estão se preparando para a guerra.}{}{5}{}{180}{}
+	{282}{O senhor tem razão. Desculpe pelo incômodo.}{}{5}{}{0}{}
+
+{290}{Seu humor lhe serve bem, velho companheiro. Mas seu ardil não funcionará, pois estamos satisfeitos com nosso acordo atual com Tarant.}{Seu humor lhe serve bem, madame. Mas seu ardil não funcionará, pois estamos satisfeitos com nosso acordo atual com Tarant.}{}{}{}{}
+	{291}{Então o senhor não tem reclamações sobre os guardas tarantinos?}{}{5}{}{60}{}
+	{292}{E:}{}{5}{}{0}{}
+
+{300}{Seria melhor tomar cuidado com sua língua. Tenho pouca paciência para o cacarejar de tolos.}{Seria melhor tomar cuidado com sua língua. Tenho pouca paciência para o cacarejar de tolos.}{}{}{}{}
+	{301}{Então a senhora não tem reclamações sobre os guardas tarantinos?}{}{5}{}{60}{}
+	{302}{Tenho pouca paciência para deixar tolos vivos, tolo.}{}{5}{}{0}{fl 1010, co}
+	{303}{E:}{}{5}{}{0}{}
+
+{310}{Seu filho de uma mãe sem cabra!}{Sua prostituta de quinta!}{}{}{}{}
+	{311}{Por favor, perdoe minha transgressão, senhor.}{}{5}{}{320}{re +5}
+	{312}{Exijo satisfação, cavalheiro! [Dê um tapa nele.]}{}{5}{}{0}{}
+
+{320}{Certifique-se de que sua língua seja civilizada, cavalheiro. E pode dizer ao Pretor que os impostos agora e no futuro vão para Tarant.}{Certifique-se de que sua língua seja civilizada, madame. E pode dizer ao Pretor que os impostos agora e no futuro vão para Tarant.}{}{}{}{}
+	{321}{Então não tem problemas em ser policiado por Tarant?}{}{5}{}{330}{}
+	{322}{Os impostos terão que ser arrancados do seu cadáver estripado.}{}{5}{}{0}{fl 1010, co}
+
+{330}{Tenho certeza de que resolverão nosso problema de roubos no devido tempo.}{Tenho certeza de que resolverão nosso problema de roubos no devido tempo.}{}{}{}{}
+	{331}{Eu mesmo resolverei qualquer problema de roubos que possa ter.}{}{5}{}{80}{}
+	{332}{E:}{}{5}{}{0}{}
+
+{340}{Por que eu deveria fazer uma coisa dessas?}{Por que eu deveria fazer uma coisa dessas?}{}{}{}{}
+	{341}{Os guardas nem sequer recuperariam o punhal para você.}{}{5}{}{110}{} 
+	{342}{F:}{}{5}{}{0}{}
+
+{350}{É um símbolo do meu cargo, cavalheiro. E cuidado, pois sua sagacidade está se esgotando.}{É um símbolo do meu cargo, senhorita. E cuidado, pois sua sagacidade está se esgotando.}{}{}{}{} 
+	{351}{Aqui está seu punhal, cavalheiro.}{}{5}{}{130}{gf 1000 1, qu 1005 4, qu 1000 3, in -5601, in 2002}
+	{352}{E:}{}{5}{}{0}{}
+	{353}{Então minha faca falará por mim!}{}{5}{}{0}{co}
+
+{360}{Vejo que o Pretor enviou um de seus conselheiros. Mas Black Root agora é aliada do Reino Unificado. Eu recolho impostos apenas para Tarant.}{Vejo que o Pretor enviou um de seus conselheiros. Mas Black Root agora é aliada do Reino Unificado. Eu recolho impostos apenas para Tarant.}{}{}{}{}
+	{361}{Eu pego imposto.}{}{-4}{}{fl 370}{re -10}
+	{362}{snork}{}{-4}{}{0}{}
+      {363}{Guarda morto. Dá imposto.}{}{-4}{gv 1003 6}{380}{}
+
+{370}{Sim, tenho certeza de que fará isso. Siga em frente, imbecil.}{Sim, tenho certeza de que fará isso. Siga em frente, imbecil.}{}{}{}{}
+
+{380}{Pelos deuses! Aqui, leve-os. Por favor, não me machuque, farei o que quiser.}{Pelos deuses! Aqui, leve-os. Por favor, não me machuque, farei o que quiser.}{}{}{}{}
+	{381}{Tank yu. Vai ficar com Cumbee-a de novo?}{}{-4}{}{0}{fl 390}
+	{382}{Você morre. Agora.}{}{-4}{}{0}{co}
+
+{390}{Sim, sim, qualquer coisa. Só por favor vá embora.}{Sim, sim, qualquer coisa. Só por favor vá embora.}{}{}{}{gf 1000 1}
+
+{400}{Sou o prefeito de Black Root. E quem, posso perguntar, é você?}{Sou o prefeito de Black Root. E quem, posso perguntar, é você?}{}{}{}{lf2 1}
+	{401}{Eu sou @pcname@. Você teria algum trabalho para mim?}{}{5}{qu 1000 0}{410}{}
+	{402}{Eu sou @pcname@. Você teria algum trabalho para mim?}{}{5}{qu 1000 1}{410}{}
+	{403}{Estou aqui em nome do Rei Praetor.}{}{5}{qu 1000 2, lf1 0}{30}{lf1 1, lf2 1}
+	{404}{Decidi localizar sua adaga para você.}{}{5}{qu 1005 1}{90}{qu 1005 2}
+	{405}{Recuperei sua adaga.}{}{5}{qu 1005 2, in 2002}{100}{}
+	{406}{E:}{}{5}{}{0}{}
+	{407}{Sou a última pessoa que você verá, seu tolo.}{}{5}{}{0}{fl 1010, co}
+
+{410}{Não por enquanto. Talvez você possa voltar mais tarde.}{Não por enquanto. Talvez você possa voltar mais tarde.}{}{}{}{}
+	{411}{E:}{}{5}{}{0}{} 
+
+{420}{Ha ha! Você é um sujeito engraçado. Mas a resposta continua sendo não.}{Ha ha! Você é uma mulher engraçada. Mas a resposta continua sendo não.}{}{}{}{}
+	{421}{Tenha um bom dia, então.}{}{5}{}{0}{}
+	{422}{Que pena, agora terei que estripar você.}{}{5}{}{0}{fl 1010, co}
+
+{430}{Muito obrigado, senhor. Permita-me compensá-lo pelos seus problemas.}{Muito obrigada, senhora. Permita-me compensá-la pelos seus problemas.}{}{}{}{}
+	{431}{O pagamento dos impostos já seria compensação suficiente.}{}{5}{}{440}{}
+	{432}{200 moedas me cairiam muito bem.}{}{5}{ha 13}{460}{}
+
+{440}{Receio não poder atendê-lo. Os impostos vão para Tarant, mas aqui estão 100 moedas para você.}{Receio não poder atendê-la. Os impostos vão para Tarant, mas aqui estão 100 moedas para você.}{}{}{}{$$100}
+	{441}{Sem seus guardas, você não me negaria os impostos.}{}{5}{}{450}{re -15}
+	{442}{Seus guardas não podem me impedir de roubar os impostos.}{}{5}{}{450}{re -15}
+	{443}{Obrigado, tenha um bom dia.}{}{5}{}{0}{}
+
+{450}{Pode até ser, mas você não tem a habilidade necessária para sustentar suas ameaças, então nunca saberemos, não é? Agora afaste sua presença nojenta de mim.}{Pode até ser, mas você não tem a habilidade necessária para sustentar suas ameaças, então nunca saberemos, não é? Agora afaste sua presença nojenta de mim.}{}{}{}{}
+	{451}{Suponho que você possa ficar tranquilo, então. Tenha um bom dia.}{}{5}{}{0}{}
+
+{460}{200 moedas, então. Obrigado pela sua ajuda, senhor.}{200 moedas, então. Obrigada pela sua ajuda, senhora.}{}{}{}{$$200}
+	{461}{A:}{}{5}{}{0}{}
+
+{470}{Sim, sim, suponho que você não possa evitar ser quem é. O que posso fazer por você?}{Sim, sim, suponho que você não possa evitar ser quem é. O que posso fazer por você?}{}{}{}{}
+	{471}{Estou aqui em nome do Rei Praetor.}{}{5}{lf1 0, qu 1000 2}{30}{lf2 1, lf1 1}
+	{472}{Decidi localizar sua adaga para você.}{}{5}{qu 1005 1}{90}{qu 1005 2}
+	{473}{Eu recuperei sua adaga.}{}{5}{qu 1005 3, in 2002}{100}{}
+	{474}{T:11}{}{5}{qu1005 4, re 41}{20}{}
+	{476}{Preto.Taxiz.}{}{-4}{qu 1000 2}{360}{}
+	{477}{guurf.}{}{-4}{}{0}{}
+	{478}{Quem é você?}{}{5}{lf2 0}{400}{lf2 1}
+	{479}{O Prefeito Tarant não lhe oferece mais proteção.}{}{5}{lf5 0, qb1000 3, gv 1003 6}{200}{}
+	{480}{Ainda não localizei sua adaga.}{}{5}{qu 1005 2}{20}{}
+	{481}{Eu queria que você soubesse que estou com seus impostos.}{}{5}{qb1000 3, in 5601, lf5 0}{140}{re -15}
+	{482}{E:}{}{5}{}{0}{}
+
+{490}{Sim, sim, suponho que você não possa evitar ser quem é. Em que posso ajudá-lo?}{Sim, sim, suponho que você não possa evitar ser quem é. Em que posso ajudá-lo?}{}{}{}{}
+	{491}{Estou aqui em nome do Rei Preto.}{}{5}{lf1 0, qu 1000 2}{30}{lf1 1, lf2 1}
+	{492}{Decidi localizar sua adaga para você.}{}{5}{qu 1005 1}{90}{qu 1005 2}
+	{493}{Eu recuperei sua adaga.}{}{5}{qu 1005 3, in 2002}{100}{}
+	{494}{T:11}{}{5}{qu1005 4, re 41}{20}{}
+	{496}{Preto.Taxiz.}{}{-4}{qu 1000 2}{360}{}
+	{497}{guurf.}{}{-4}{}{0}{}
+	{498}{Quem é você?}{}{5}{lf2 0}{400}{lf2 1}
+	{499}{O Prefeito Tarant não lhe oferece mais proteção.}{}{5}{lf5 0, qb1000 3, gv 1003 6}{200}{}
+	{500}{Ainda não localizei sua adaga.}{}{5}{qu 1005 2}{20}{}
+	{501}{Eu queria que você soubesse que estou com seus impostos.}{}{5}{qb1000 3, in 5601}{140}{re -15}
+	{502}{E:}{}{5}{}{0}{}
+
+
+
+//npc floats
+
+{1000}{Você me toma por um tolo? Isso não passa de delírios de um jornalista sensacionalista! Deixe-me em paz.}{Você me toma por um tolo? Isso não passa de delírios de um jornalista sensacionalista! Deixe-me em paz.}{}{}{}{}
+
+{1010}{Cão cumbriano! Morra!}{Prostituta cumbriana! Morra!}{}{}{}{}
+
+{1020}{Saia daqui, idiota!}{Saia daqui, idiota!}{}{}{}{}

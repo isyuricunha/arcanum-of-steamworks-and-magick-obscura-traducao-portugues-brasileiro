@@ -1,0 +1,23 @@
+{1}{Pare aí! Que negócios você tem aqui, amigo?}{Pare aí! Que negócios você tem aqui, amigo?}{}{}{}{}
+{2}{Eu estava me perguntando para onde esta porta leva...}{}{5}{lf1 0}{10}{lf1 1}
+{3}{Pra onde vai essa porta?}{}{-4}{lf1 0}{10}{lf1 1}
+{4}{Eu gostaria de ver a Tumba de Nasrudin...}{}{5}{lf1 1}{-2}{}
+{5}{Eu quero ver a tuma do Naz-rúúú-din!}{}{-4}{lf1 1}{-2}{}
+{6}{E:}{}{1}{}{0}{}
+{10}{Esta porta leva à Tumba de Nasrudin.}{Esta porta leva à Tumba de Nasrudin.}{}{}{}{}
+{11}{Entendo. Posso ir dar uma olhada?}{}{5}{}{20}{}
+{12}{Oh! Eu quero ir ver!}{}{-4}{}{20}{}
+{13}{E:}{}{1}{}{0}{}
+{20}{Sinto muito, mas as únicas pessoas além dos Anciãos da Igreja que têm permissão para ver os restos são os irmãos e irmãs Panarii em peregrinação, e não vemos um desses há muito, muito tempo...}{Sinto muito, mas as únicas pessoas além dos Anciãos da Igreja que têm permissão para ver os restos são os irmãos e irmãs Panarii em peregrinação, e não vemos um desses há muito, muito tempo...}{}{}{}{}
+{21}{Ah... eu, hã, estou em peregrinação também! Só vim ver os restos...}{}{5}{}{-2}{}
+{22}{Hmm... eu em peregrinaaaagem!}{}{-4}{}{-2}{}
+{23}{E:}{}{1}{}{0}{}
+{50}{[Ele olha você de cima a baixo.] Claro, irmão! Faz muitos anos que não vemos alguém usando as Vestes do Peregrino! Você é bem-vindo aqui. Só pedimos que não toque nos restos sagrados do nosso mestre... mas pode passar o tempo que quiser na tumba...}{[Ele olha você de cima a baixo.] Claro, irmã! Faz muitos anos que não vemos alguém usando as Vestes do Peregrino! Você é bem-vinda aqui. Só pedimos que não toque nos restos sagrados do nosso mestre... mas pode passar o tempo que quiser na tumba...}{}{}{}{gf2730 1}
+{51}{Obrigado.}{}{5}{}{-14}{}
+{52}{Valeu!}{}{-4}{}{-14}{}
+{55}{Que o espírito de Nasrudin esteja com você...}{Que o espírito de Nasrudin esteja com você...}{}{}{}{}
+{100}{Sinto muito, mas você não está usando as Vestes do Peregrino. E não gosto de ser enganado, forasteiro. Recomendo que siga seu caminho. Tenha um bom dia...}{Sinto muito, mas você não está usando as Vestes do Peregrino. E não gosto de ser enganado, forasteiro. Recomendo que siga seu caminho. Tenha um bom dia...}{}{}{}{}
+{101}{E:}{}{1}{}{0}{}
+{150}{Sinto muito, mas nenhum de vocês está usando as Vestes do Peregrino. Como eu disse, apenas peregrinos têm permissão para ver a tumba. Tenham um bom dia...}{Sinto muito, mas nenhum de vocês está usando as Vestes do Peregrino. Como eu disse, apenas peregrinos têm permissão para ver a tumba. Tenham um bom dia...}{}{}{}{}
+{151}{E:}{}{1}{}{0}{}
+

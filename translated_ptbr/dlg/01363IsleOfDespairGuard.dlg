@@ -1,0 +1,97 @@
+{1}{G:}{G:}{}{}{}{ }
+{2}{Muitas desculpas, senhor. Posso lhe fazer uma pergunta?}{}{5}{re-40, ch-14}{17}{re+10 }
+{3}{Estou procurando o Clã da Montanha Negra. Você pode me ajudar?}{}{5}{re41, gf1036 0, lf2 0}{27}{lf2 1 }
+{4}{Olha aqui, condenado, não gosto da sua atitude.}{}{5}{re-40, gf1036 0, ch-14}{132}{re -10 }
+{5}{Desculpe, está falando comigo?}{}{5}{re-40, gf1036 0, ch15}{112}{re +15 }
+{6}{Há alguma aventura para se ter por estas bandas?}{}{5}{gf1036 1, re 41, qb1071 1, gf2134 0}{102}{ }
+{7}{Onde estão os anões?}{}{-4}{gf1036 0}{151}{ }
+{8}{Tem serviço remunerado?}{}{-4}{gf1036 1}{102}{ }
+{9}{O que pode me dizer sobre as mulheres nômades?}{}{5}{gf2135 1}{122}{lf3 1 }
+{10}{Posso entrar para buscar uma audiência com Thorvald?}{0}{5}{re41, gf1058 1}{42}{gf2133 1 }
+{11}{Posso entrar para buscar uma audiência com Thorvald?}{1}{5}{re41, gf1058 1}{72}{gf2133 1 }
+{12}{Posso entrar para buscar uma audiência com Thorvald?}{}{5}{re-40, gf1058 1}{92}{ }
+{13}{Posso entrar?}{}{-4}{gf1058 1}{92}{ }
+{14}{Eu despachei a besta mágica para você.}{}{5}{qa1071 1, qb1071 3, gf2134 1}{170}{re +10 }
+{15}{Eu matei o monstro ruim.}{}{-4}{qa1071 1, qb1071 3, gf2134 1}{170}{re +10 }
+{16}{E:}{}{1}{}{0}{ }
+{17}{Não gosto de você, mas, desde que não se ache demais, acho que posso responder uma ou duas perguntas.}{Não gosto de você, mas, desde que não se ache demais, acho que posso responder uma ou duas perguntas.}{}{}{}{ }
+{18}{Estou procurando o Clã da Montanha Negra. Você pode me ajudar?}{}{5}{gf1036 0, lf2 0}{27}{lf2 1 }
+{19}{Há alguma aventura para se ter por estas bandas?}{}{5}{gf1036 1, qb1071 1, gf2134 0}{102}{ }
+{20}{Você consideraria um tapa na sua cara como se achar demais, idiota?}{}{5}{}{132}{re-10 }
+{25}{Não preciso ficar aqui ouvindo isso. Tenha um bom dia.}{}{5}{}{0}{ }
+{27}{Um clã? Não conheço nenhum clã por aqui. Você precisaria falar com Thorvald sobre isso.}{Um clã? Não conheço nenhum clã por aqui. Você precisaria falar com Thorvald sobre isso.}{}{}{}{ }
+{28}{Thorvald? Quem é ele?}{}{5}{}{32}{ }
+{32}{Thorvald é o líder deste enclave. Ele resolve todas as disputas dentro destes muros. Mas para vê-lo, você precisará falar primeiro com Ogdin, seu guarda.}{Thorvald é o líder deste enclave. Ele resolve todas as disputas dentro destes muros. Mas para vê-lo, você precisará falar primeiro com Ogdin, seu guarda.}{}{}{}{gf1058 1 }
+{33}{Posso entrar agora?}{0}{5}{re41}{42}{gf2133 1 }
+{34}{Posso entrar agora?}{1}{5}{re41}{72}{gf2133 1 }
+{35}{Posso entrar agora?}{}{5}{re-40}{92}{ }
+{36}{Eu entro agora?}{}{-4}{}{72}{ }
+{41}{E:}{}{1}{}{0}{ }
+{42}{Mulheres são sempre bem-vindas aqui. Você pode entrar, mas primeiro precisa ouvir as regras. Há apenas duas delas: você pode fazer o que quiser, desde que não interfira com os outros, e em caso de qualquer disputa, a palavra final é de Thorvald.}{Mulheres são sempre bem-vindas aqui. Você pode entrar, mas primeiro precisa ouvir as regras. Há apenas duas delas: você pode fazer o que quiser, desde que não interfira com os outros, e em caso de qualquer disputa, a palavra final é de Thorvald.}{}{}{}{in-4410, gf2133 1 }
+{43}{A:}{}{5}{}{52}{ }
+{52}{Mais uma coisa. Devo alertá-lo sobre perambular fora do acampamento, aqui.}{Mais uma coisa. Devo alertá-lo sobre perambular fora do acampamento, aqui.}{}{}{}{ }
+{53}{Por que isso?}{}{5}{}{62}{ }
+{54}{Por que isso?}{}{-4}{}{62}{ }
+{62}{Já perdemos várias pessoas para uma fera mágica que desafia nossas armas. Eu mesmo vi um homem ser devorado vivo pela criatura quando sua arma falhou.}{Já perdemos várias pessoas para uma fera mágica que desafia nossas armas. Eu mesmo vi um homem ser devorado vivo pela criatura quando sua arma falhou.}{}{}{}{qu1071 1 }
+{63}{Obrigado pelo aviso.}{}{5}{gf2134 0}{0}{ }
+{64}{Onde está essa fera? Eu a matarei para vocês, por um preço.}{}{5}{gf2134 0}{82}{ }
+{65}{Eu já dei um jeito naquela fera, senhor.}{}{5}{gf2134 1}{170}{re+10 }
+{66}{Eu matei o monstro ruim.}{}{-4}{gf2134 1}{170}{re+10 }
+{67}{Onde tá a fera malvada? Eu mato. Trabalho por dinheiro.}{}{-4}{gf2134 0}{82}{ }
+{72}{Claro, mas primeiro você precisa ouvir as regras. Há apenas duas delas - você pode fazer o que quiser, desde que não interfira com mais ninguém, e em caso de qualquer disputa, a palavra final é de Thorvald.}{Claro, mas primeiro você precisa ouvir as regras. Há apenas duas delas - você pode fazer o que quiser, desde que não interfira com mais ninguém, e em caso de qualquer disputa, a palavra final é de Thorvald.}{}{}{}{in-4410, gf2133 1 }
+{73}{A:}{}{5}{}{52}{ }
+{82}{Achamos que ela vive ao norte daqui. Isso é tudo que sabemos, você terá que rastreá-la sozinho para encontrar seu covil. Temos um amuleto mágico poderoso que lhe daremos por matá-la, mas não posso dizer que poder ele possui. Nunca foi identificado.}{Achamos que ela vive ao norte daqui. Isso é tudo que sabemos, você terá que rastreá-la sozinho para encontrar seu covil. Temos um amuleto mágico poderoso que lhe daremos por matá-la, mas não posso dizer que poder ele possui. Nunca foi identificado.}{}{}{}{ }
+{83}{Trato feito, senhor.}{}{5}{gf2133 1}{0}{qu1071 2 }
+{84}{Vou ter que pensar melhor sobre isso.}{}{5}{gf2133 1}{0}{lf1 1 }
+{92}{Acho que podemos deixá-lo entrar, mas ande na linha. Se sair do caminho certo, serei forçado a lhe dar uma lição. Entendeu?}{Acho que podemos deixá-lo entrar, mas ande na linha. Se sair do caminho certo, serei forçado a lhe dar uma lição. Entendeu?}{}{}{}{ }
+{93}{Serei cuidadoso. Obrigado.}{}{5}{}{0}{in-4410 }
+{94}{Farei o que bem entender. Nenhum condenado vai ditar meu comportamento.}{}{5}{}{132}{re-10 }
+{95}{Certo!}{}{-4}{}{0}{in-4410 }
+{102}{Só se você não valoriza sua vida. Há uma fera mágica rondando por aí, em algum lugar. Eu mesmo a vi devorar um homem quando sua arma engasgou. Sua magia torna nossas armas inúteis.}{Só se você não valoriza sua vida. Há uma fera mágica rondando por aí, em algum lugar. Eu mesmo a vi devorar um homem quando sua arma engasgou. Sua magia torna nossas armas inúteis.}{}{}{}{qu1071 1 }
+{103}{Onde está essa fera? Eu a matarei para vocês, por um preço.}{}{5}{}{82}{ }
+{104}{Isso parece arriscado demais para mim. Tenha um bom dia.}{}{5}{}{0}{ }
+{105}{Eu já dei um jeito naquela fera, senhor.}{}{5}{gf2134 1}{170}{re+10 }
+{106}{Eu matei o monstro ruim.}{}{-4}{gf2134 1}{170}{re+10 }
+{107}{Onde tá a fera malvada? Eu mato. Trabalho por dinheiro.}{}{-4}{}{82}{ }
+{108}{E:}{}{-4}{}{0}{ }
+{112}{Minhas desculpas, senhor. Não percebi que era de linhagem nobre. Pensei que fosse um dos maltrapilhos comuns que aparecem aqui, chegando à praia. Por favor, me perdoe.}{Minhas desculpas, senhora. Não percebi que era de linhagem nobre. Pensei que fosse uma das maltrapilhas comuns que aparecem aqui, chegando à praia. Por favor, me perdoe.}{}{}{}{ }
+{113}{Ouço isso com frequência. Pode me indicar onde fica o Clã da Montanha Negra?}{}{5}{gf1036 0, lf2 0}{27}{lf2 1 }
+{114}{Há alguma aventura para se ter por estas bandas?}{}{5}{gf1036 1, qb1071 1, gf2134 0}{102}{ }
+{115}{O que você pode me contar sobre as mulheres nômades?}{}{5}{gf2135 1, lf3 0}{122}{lf3 1 }
+{116}{Não posso perdoar tamanha insolência, cão! Defenda-se!}{}{5}{}{0}{fl 210 ,co}
+{121}{E:}{}{1}{}{0}{ }
+{122}{Essas vadiazinhas metidas não querem saber da nossa civilização que construímos aqui. Acham que são boas demais para nos servir. Ingratas!}{Essas vadiazinhas metidas não querem saber da nossa civilização que construímos aqui. Acham que são boas demais para nos servir. Espero que a senhora não seja parente delas, madame.}{}{}{}{ }
+{123}{Como puderam abrir mão de tudo isso?}{}{5}{}{190}{re-5 }
+{124}{Eu não teria nada a ver com essas rameiras grosseiras!}{0}{5}{}{200}{re+5 }
+{125}{Prefiro ser parente delas do que sua, porco!}{0}{5}{}{132}{re-10 }
+{126}{K:}{}{1}{}{180}{ }
+{127}{E:}{}{1}{}{0}{ }
+{132}{Gostaria que eu abrisse suas entranhas, suíno?}{Gostaria que eu abrisse suas entranhas, rameira?}{}{}{}{ }
+{133}{Pode tentar, homem morto.}{}{5}{}{0}{fl 210 ,co}
+{134}{Após refletir melhor, talvez eu tenha falado fora de hora.}{}{5}{}{141}{ }
+{141}{É melhor que isso não aconteça de novo, canalha.}{É melhor que isso não aconteça de novo, mulher.}{}{}{}{ }
+{142}{Vou tentar me controlar. Posso lhe fazer uma pergunta?}{}{5}{}{17}{ }
+{146}{E:}{}{1}{}{0}{ }
+{151}{O que está perguntando, imbecil?}{O que está perguntando, imbecil?}{}{}{}{ }
+{152}{Dorfs! Dorfs! Onde estão os dorfs?}{}{-4}{}{160}{ }
+{153}{nuttin.}{}{-4}{}{0}{ }
+{160}{Dorfs? Você quer dizer anões, idiota? Terá que falar com Thorvald sobre quaisquer anões.}{Dorfs? Você quer dizer anões, idiota? Terá que falar com Thorvald sobre quaisquer anões.}{}{}{}{ }
+{161}{Quem é Careca da Porta?}{}{-4}{}{32}{ }
+{162}{Urgh.}{}{-4}{}{0}{ }
+{170}{Esplêndido. Nossa pequena comunidade agradece. Aqui está um símbolo de nossa gratidão.}{Esplêndido. Nossa pequena comunidade agradece. Aqui está um símbolo de nossa gratidão.}{}{}{}{in -2810, qu1071 4 }
+{171}{Obrigado. Posso entrar?}{}{5}{gf2133 0}{72}{ }
+{172}{K:}{}{1}{}{180}{ }
+{173}{E:}{}{1}{}{0}{ }
+{180}{Quais são suas perguntas?}{Quais são suas perguntas?}{}{}{}{ }
+{181}{Há alguma aventura para se ter por estas bandas?}{}{5}{qb1071 1}{102}{ }
+{182}{Estou procurando pelo Clã da Montanha Negra. Pode me ajudar?}{}{5}{gf1036 0, lf2 0}{27}{lf2 1 }
+{183}{O que você pode me contar sobre as mulheres nômades?}{}{5}{lf3 0, gf2135 1}{122}{lf3 1 }
+{190}{Não aprecio seu tom de sarcasmo, forasteiro.}{Não aprecio seu tom de sarcasmo, forasteiro.}{}{}{}{ }
+{191}{Não foi minha intenção ofender. Posso lhe fazer uma pergunta?}{}{5}{}{180}{ }
+{192}{Não aprecio você respirando ar tão perto de mim, cão.}{}{5}{}{132}{re-10 }
+{193}{E:}{}{1}{}{0}{ }
+{200}{Esse é o tipo de atitude que apreciamos por aqui.}{Esse é o tipo de atitude que apreciamos por aqui.}{}{}{}{ }
+{201}{K:}{}{1}{}{180}{ }
+{202}{E:}{}{1}{}{0}{ }
+{210}{Você trouxe essa surra para si mesmo, garoto!}{Você trouxe essa surra para si mesma, mulher!}{}{}{}{ }
+

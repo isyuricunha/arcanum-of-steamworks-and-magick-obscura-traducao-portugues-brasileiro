@@ -1,0 +1,216 @@
+{1}{Ahhhhh!!!!  Sim!!!!  Minha carne foi restaurada!!! [O homem diante de você ri, de forma sinistra.]  Eu havia esquecido os prazeres, as sensações, a emoção do sangue correndo pelas minhas veias.  É êxtase...!}{Ahhhhh!!!!  Sim!!!!  Minha carne foi restaurada!!! [O homem diante de você ri, de forma sinistra.]  Eu havia esquecido os prazeres, as sensações, a emoção do sangue correndo pelas minhas veias.  É êxtase...!}{}{1}{}{}
+{2}{Quem é você?}{}{5}{}{5}{}
+{3}{Hã... quem é você?}{}{-4}{}{5}{}
+{5}{[Ele olha para você, surpreso, como se tivesse esquecido que você estava ali.]  Eu?  Sou Torian Kel, Senhor da Guerra nas Legiões Cinzentas dos Derian-Ka.  [Ele olha ao redor, para você e para o templo ao redor.]  Quantos anos se passaram...?  Tudo isso, e você... tão desconhecido...}{Eu?  Sou Torian Kel, Senhor da Guerra nas Legiões Cinzentas dos Derian-Ka.  [Ele olha ao redor, para você e para o templo ao redor.]  Quantos anos se passaram...?  Tudo isso, e você... tão desconhecido...}{}{2}{}{}
+{6}{Não sei... há quanto tempo você estava assim?}{}{5}{}{9}{}
+{7}{Há quanto tempo você está assim, esqueleto...?}{}{-4}{}{9}{}
+{9}{Eu... eu não sei.  Eu era um guerreiro, ressuscitado dos mortos para servir nas legiões de mortos-vivos dos Derian-Ka.  Lutamos uma grande batalha contra os... o que era mesmo?... Tantas eras atrás, e eu sou tudo o que restou... [Uma grande tristeza passa por suas feições.]  Sozinho, tão sozinho...}{Eu... eu não sei.  Eu era um guerreiro, ressuscitado dos mortos para servir nas legiões de mortos-vivos dos Derian-Ka.  Lutamos uma grande batalha contra os... o que era mesmo?... Tantas eras atrás, e eu sou tudo o que restou... [Uma grande tristeza passa por suas feições.]  Sozinho, tão sozinho...}{}{3}{}{}
+{10}{Torian Kel... tenho muitas perguntas.  Você poderia respondê-las?}{}{5}{}{15}{}
+{11}{Entendo.  Bem, boa sorte para você.  Tenha um bom dia.}{}{5}{}{0}{}
+{12}{Hã... não entendi.  Eu faço perguntas para você...?}{}{-4}{}{15}{}
+{13}{Bem, pelo menos você tem pele agora!  Tchau...}{}{-4}{}{0}{}
+{15}{[O guerreiro se recompõe, virando-se para você.]  Perdoe-me.  Tenho uma dívida de gratidão com você.  [Ele leva um braço ao peito, inclinando-se levemente.]  Que pergunta você tinha?}{[O guerreiro se recompõe, virando-se para você.]  Perdoe-me.  Tenho uma dívida de gratidão com você.  [Ele leva um braço ao peito, inclinando-se levemente.]  Que pergunta você tinha?}{}{4}{}{lf4 1}
+{16}{Na verdade, tenho várias.  Você tem alguns momentos?}{}{5}{}{25}{}
+{18}{Tenho muitas perguntas!}{}{-4}{}{25}{}
+{19}{E:}{}{1}{}{0}{}
+{21}{Sim?  O que você quer, estranho?}{Sim?  O que você quer, estranho?}{}{5}{}{}
+{22}{K:}{}{1}{}{25}{}
+{23}{E:}{}{1}{}{0}{}
+{25}{Claro...}{Claro...}{}{6}{}{}
+{26}{Eu tinha algumas perguntas sobre os Derian-Ka...}{}{5}{}{37}{}
+{27}{O que é este lugar?}{}{5}{}{113}{}
+{28}{O que você fará agora, Torian Kel?}{}{5}{lf3 1}{117}{}
+{29}{Tem certeza de que não quer me acompanhar?}{}{5}{lf2 1}{123}{}
+{31}{O que você quer dizer com... Dar-r-ee-on Kaaah?}{}{-4}{}{37}{}
+{32}{O que é este lugar?}{}{-4}{}{113}{}
+{33}{O que você vai fazer agora, Torreeun?}{}{-4}{}{117}{}
+{34}{Você quer vir comigo?}{}{-4}{}{123}{}
+{35}{E:}{}{1}{}{0}{}
+{37}{O que você gostaria de saber sobre os Derian-Ka?}{O que você gostaria de saber sobre os Derian-Ka?}{}{7}{}{}
+{38}{Quem eram eles?}{}{5}{}{49}{}
+{39}{O que eram as Legiões Cinzentas?}{}{5}{}{74}{}
+{40}{Você falou de uma grande batalha?}{}{5}{}{80}{}
+{41}{Você disse que era 'o último'... o que isso queria dizer?}{}{5}{lf1 1}{92}{}
+{42}{Mais algumas perguntas gerais...}{}{5}{}{25}{}
+{43}{Quem são 'eles'?}{}{-4}{}{49}{}
+{44}{O que é o 'Gr-ray Le-j-j-uns'?}{}{-4}{}{74}{}
+{45}{Você disse que esteve em uma grande batalha...?}{}{-4}{}{80}{}
+{46}{Hã... você disse 'o último'...}{}{-4}{lf1 1}{92}{}
+{47}{Outras perguntas!}{}{-4}{}{25}{}
+{49}{O Derian-Ka foi a antiga Ordem dos Mortos, formada pelos discípulos do grande necromante, Kerghan, nos anos seguintes ao seu banimento. Eles eram uma sociedade secreta, desconhecida por anos, que praticava as artes da Necromancia Negra...}{O Derian-Ka foi a antiga Ordem dos Mortos, formada pelos discípulos do grande necromante, Kerghan, nos anos seguintes ao seu banimento. Eles eram uma sociedade secreta, desconhecida por anos, que praticava as artes da Necromancia Negra...}{}{8}{}{}
+{50}{Por que era tão secreto? O que eles estavam fazendo?}{}{5}{pa 6577, lf5 0}{56}{lf5 1}
+{51}{Por que era tão secreto? O que eles estavam fazendo?}{}{5}{pa -6577, lf5 0}{60}{}
+{52}{Por que era tão secreto? O que eles estavam fazendo?}{}{5}{pa 6577, lf5 1}{56}{lf5 1}
+{53}{Por que era tão secreto? O que eles estavam fazendo?}{}{5}{pa -6577, lf5 1}{60}{}
+{54}{Por que tanto segredo? Eles faziam coisas ruins?}{}{-4}{}{60}{}
+{56}{[Ele olha para Geoffrey, fazendo uma leve reverência.] Talvez você devesse perguntar ao seu companheiro. Ele é do Derian-Ka... posso sentir. Saudações, senhor...}{[Ele olha para Geoffrey, fazendo uma leve reverência.] Talvez você devesse perguntar ao seu companheiro. Ele é do Derian-Ka... posso sentir. Saudações, senhor...}{}{9}{}{}
+{57}{Hã... Geoffrey? Do que ele está falando...?}{}{5}{}{-13}{}
+{60}{Talvez as coisas sejam diferentes agora, mas a prática das artes necromânticas negras foi proibida por muitos anos. O Derian-Ka viveu entre as sombras por séculos, empunhando suas magias negras atrás de portas trancadas, descobrindo os segredos dos mundos espirituais... venenos da alma, a ressurreição dos mortos-vivos [Ele aponta para si mesmo.], conversando com espíritos além-túmulo...}{Talvez as coisas sejam diferentes agora, mas a prática das artes necromânticas negras foi proibida por muitos anos. O Derian-Ka viveu entre as sombras por séculos, empunhando suas magias negras atrás de portas trancadas, descobrindo os segredos dos mundos espirituais... venenos da alma, a ressurreição dos mortos-vivos [Ele aponta para si mesmo.], conversando com espíritos além-túmulo...}{}{10}{}{}
+{61}{O que aconteceu com eles?}{}{5}{}{64}{}
+{62}{O que aconteceu com eles?}{}{-4}{}{64}{}
+{64}{Houve um grande cisma na Ordem. Dentro do Derian-Ka havia uma ordem de assassinos. Eles eram chamados de Mão Molocheana, e por séculos foram a arma silenciosa do Derian-Ka, uma defesa mortal contra o mundo e seus preconceitos. Mas um dia a Mão se voltou contra a Ordem, e houve guerra entre eles...}{Houve um grande cisma na Ordem. Dentro do Derian-Ka havia uma ordem de assassinos. Eles eram chamados de Mão Molocheana, e por séculos foram a arma silenciosa do Derian-Ka, uma defesa mortal contra o mundo e seus preconceitos. Mas um dia a Mão se voltou contra a Ordem, e houve guerra entre eles...}{}{11}{}{}
+{65}{E então? O que causou o cisma...?}{}{5}{}{68}{}
+{66}{Hã... o que aconteceu com a Mão?}{}{-4}{}{68}{}
+{68}{Eu nunca soube o que causou essa ruptura. Mas por causa dela, as Legiões Cinzentas foram erguidas...}{Eu nunca soube o que causou essa ruptura. Mas por causa dela, as Legiões Cinzentas foram erguidas...}{}{12}{}{}
+{69}{O que eram as Legiões Cinzentas?}{}{5}{}{74}{}
+{70}{O que é o 'Gr-ray Le-j-j-uns'?}{}{-4}{}{74}{}
+{71}{K:}{}{1}{}{37}{}
+{72}{E:}{}{1}{}{0}{}
+{74}{As Legiões Cinzentas eram um grande exército de mortos-vivos, erguido pelo Derian-Ka como proteção contra a Mão Molocheana. Nosso único propósito era erradicar todos os vestígios da Mão, para que a Ordem pudesse continuar...}{As Legiões Cinzentas eram um grande exército de mortos-vivos, erguido pelo Derian-Ka como proteção contra a Mão Molocheana. Nosso único propósito era erradicar todos os vestígios da Mão, para que a Ordem pudesse continuar...}{}{13}{}{}
+{75}{Você falou de uma grande batalha?}{}{5}{}{80}{}
+{76}{Você disse que esteve em uma grande batalha...?}{}{-4}{}{80}{}
+{77}{K:}{}{1}{}{37}{}
+{78}{E:}{}{1}{}{0}{}
+{80}{[Torian Kel parece perdido em pensamentos, seus olhos em algum lugar distante.] Éramos 10 mil, destemidos e de uma só mente. De pé naquele campo de batalha, o céu escurecido refletido em nossas negras e polidas Armaduras do Pavor... a cavalaria pisoteando em seus Corcéis das Sombras, atrás das intermináveis fileiras de piquenos de rosto pétreo. Estava frio, mas não tínhamos fôlego... o ar estava tão parado...}{[Torian Kel parece perdido em pensamentos, seus olhos em algum lugar distante.] Éramos 10 mil, destemidos e de uma só mente. De pé naquele campo de batalha, o céu escurecido refletido em nossas negras e polidas Armaduras do Pavor... a cavalaria pisoteando em seus Corcéis das Sombras, atrás das intermináveis fileiras de piquenos de rosto pétreo. Estava frio, mas não tínhamos fôlego... o ar estava tão parado...}{}{14}{}{}
+{81}{E a Mão?}{}{5}{}{84}{}
+{82}{E a Mo-o-lo-che-a M-ã-ã-o?}{}{-4}{}{84}{}
+{84}{A Mão? Sim, a Mão... [Uma expressão de dor, arrependimento.] A Mão era os maiores guerreiros de sua época. Rápidos, mortais, precisos. Eles estavam do outro lado, na colina oposta. Levemente blindados, rostos mascarados... seus arqueiros armados com Grandes Arcos Élficos, quase tão altos quanto eles. [Sua voz é um sussurro.] E fogo, forasteiro, tanto fogo...}{A Mão? Sim, a Mão... [Uma expressão de dor, arrependimento.] A Mão era os maiores guerreiros de sua época. Rápidos, mortais, precisos. Eles estavam do outro lado, na colina oposta. Levemente blindados, rostos mascarados... seus arqueiros armados com Grandes Arcos Élficos, quase tão altos quanto eles. [Sua voz é um sussurro.] E fogo, forasteiro, tanto fogo...}{}{15}{}{}
+{85}{E houve uma batalha?}{}{5}{}{88}{}
+{86}{Vocês lutaram contra eles?}{}{-4}{}{88}{}
+{88}{Ah, sim... houve uma batalha como Arcanum jamais viu, talvez nunca mais veja. A Mão se lançou contra nós, nós sem morte, repetidas vezes. Eles decepavam o braço que segurava a espada, queimavam o corpo que segurava o braço, destruíam as almas dentro daqueles corpos... a Mão, veja bem, também não era ignorante nas artes da magia...}{Ah, sim... houve uma batalha como Arcanum jamais viu, talvez nunca mais veja. A Mão se lançou contra nós, nós sem morte, repetidas vezes. Eles decepavam o braço que segurava a espada, queimavam o corpo que segurava o braço, destruíam as almas dentro daqueles corpos... a Mão, veja bem, também não era ignorante nas artes da magia...}{}{16}{}{}
+{89}{E as Legiões Cinzentas foram derrotadas?}{}{5}{}{92}{}
+{90}{A Mão venceu as Lejiões Cinzentas?}{}{-4}{}{92}{}
+{92}{Sim... as Legiões Cinzentas caíram naquele dia, mas muitos da Mão Molocheana também. Alguns soldados de ambos os exércitos cambalearam para fora do campo de batalha e se perderam na história. Os Derian-Ka nunca mais foram vistos...}{Sim... as Legiões Cinzentas caíram naquele dia, mas muitos da Mão Molocheana também. Alguns soldados de ambos os exércitos cambalearam para fora do campo de batalha e se perderam na história. Os Derian-Ka nunca mais foram vistos...}{}{17}{}{lf1 1}
+{93}{Você disse que era 'o último'... o que isso significava?}{}{5}{}{98}{}
+{94}{Hã... você disse 'o último'...}{}{-4}{}{98}{}
+{95}{K:}{}{1}{}{37}{}
+{96}{E:}{}{1}{}{0}{}
+{98}{Como eu disse, houve alguns Legionários Cinzentos que sobreviveram. Como éramos mortos-vivos, caminhamos por Arcanum por séculos, tentando nos manter escondidos dos olhos dos homens. Mas a carne, mesmo a carne dos mortos-vivos, não dura para sempre. Pouco a pouco, ano após ano, nossas cascas terrenas se deterioraram...}{Como eu disse, houve alguns Legionários Cinzentos que sobreviveram. Como éramos mortos-vivos, caminhamos por Arcanum por séculos, tentando nos manter escondidos dos olhos dos homens. Mas a carne, mesmo a carne dos mortos-vivos, não dura para sempre. Pouco a pouco, ano após ano, nossas cascas terrenas se deterioraram...}{}{18}{}{}
+{99}{Daí, por isso você era um esqueleto há pouco...}{}{5}{}{102}{}
+{100}{É por isso que você tava um esqueleto!}{}{-4}{}{102}{}
+{102}{Sim... e eu tive sorte. Está vendo aqueles montes de poeira espalhados por aí? São os últimos restos dos meus companheiros. Mortos, mas não mortos... veja bem, suas almas ainda estão presas neste plano. Para sempre ligadas aos seus restos terrenos. Uma maldição... uma maldição cruel, cruel...}{Sim... e eu tive sorte. Está vendo aqueles montes de poeira espalhados por aí? São os últimos restos dos meus companheiros. Mortos, mas não mortos... veja bem, suas almas ainda estão presas neste plano. Para sempre ligadas aos seus restos terrenos. Uma maldição... uma maldição cruel, cruel...}{}{19}{}{}
+{103}{Não há nada a ser feito?}{}{5}{}{106}{}
+{104}{O que pode ser feito?}{}{-4}{}{106}{}
+{106}{Não há nada que eu possa fazer. A poça de Sangue de Dragão pode restaurar a carne, mas até ela tem seus limites. Nada jamais ressuscitará meus companheiros da poeira. Eles viverão... sem voz, sem sonhos, sem visão...}{Não há nada que eu possa fazer. A poça de Sangue de Dragão pode restaurar a carne, mas até ela tem seus limites. Nada jamais ressuscitará meus companheiros da poeira. Eles viverão... sem voz, sem sonhos, sem visão...}{}{20}{}{lf3 1}
+{107}{O que você fará agora, Torian?}{}{5}{}{117}{}
+{108}{O que você vai fazer agora, Toreun?}{}{-4}{}{117}{}
+{109}{K:}{}{1}{}{25}{}
+{110}{E:}{}{1}{}{0}{}
+{113}{Este era o maior templo dos Derian-Ka. Quando a batalha entre a Legião Cinzenta e a Mão Molocheana terminou, retornamos aqui, esperando encontrar nossos mestres. Eles nunca voltaram...}{Este foi o maior templo dos Derian-Ka. Quando a batalha entre a Legião Cinzenta e a Mão Molocheana terminou, retornamos aqui, na esperança de encontrar nossos mestres. Eles nunca voltaram...}{}{21}{}{}
+{114}{Espere... Tenho algumas perguntas sobre os Derian-Ka...}{}{5}{}{37}{}
+{115}{K:}{}{1}{}{25}{}
+{116}{E:}{}{1}{}{0}{}
+{117}{Agora? Não sei... Não pertenço a este lugar... não parece em nada com o mundo que eu me lembro. Tudo o que conheço é guerra e morte... mesmo depois de todos esses séculos, ainda sinto a sede de sangue, a necessidade de batalha. Mas, acima de tudo, desejo libertar meus companheiros restantes, assim como fui libertado. Talvez eu tente encontrar os meios para fazer isso...}{Agora? Não sei... Não pertenço a este lugar... não parece em nada com o mundo que eu me lembro. Tudo o que conheço é guerra e morte... mesmo depois de todos esses séculos, ainda sinto a sede de sangue, a necessidade de batalha. Mas, acima de tudo, desejo libertar meus companheiros restantes, assim como fui libertado. Talvez eu tente encontrar os meios para fazer isso...}{}{22}{}{}
+{118}{Hmmm. Talvez você devesse vir comigo...}{}{5}{}{123}{}
+{119}{Desejo-lhe sorte, Torian Kel. Tenha um bom dia...}{}{5}{}{0}{}
+{120}{Hã... talvez você queira ficar comigo...?}{}{-4}{}{123}{}
+{121}{Tá bom! Tchauzinho...}{}{-4}{}{0}{}
+{123}{Vir com você? Mas por quê? Somos de mundos diferentes, estranho. Sou um guerreiro imortal, criado para derramar sangue em defesa de uma ordem há muito morta. Tudo o que me resta são minhas memórias e minha busca sem esperança...}{Vir com você? Mas por quê? Somos de mundos diferentes, estranho. Sou um guerreiro imortal, criado para derramar sangue em defesa de uma ordem há muito morta. Tudo o que me resta são minhas memórias e minha busca sem esperança...}{}{23}{}{lf2 1}
+{124}{Eu também busco algo. Talvez possamos encontrar respostas juntos.}{}{5}{}{129}{}
+{125}{Você tem razão. Tenha um bom dia...}{}{5}{}{0}{}
+{126}{Hã... talvez a gente encontre coisas juntos!}{}{-4}{}{129}{}
+{127}{Hã... acho que você tá certo. Tchauzinho...}{}{-4}{}{0}{}
+{129}{[Ele fica em silêncio por um tempo, refletindo.] Talvez você esteja certo...}{[Ele fica em silêncio por um tempo, refletindo.] Talvez você esteja certo...}{}{24}{}{}
+{130}{Então... você vai se juntar a mim?}{}{5}{}{140}{jo 0 133}
+{131}{Então... você quer vir comigo?}{}{-4}{}{140}{jo 0 133}
+{133}{Sim. Talvez encontremos nossas respostas no mesmo lugar. Irei com você e lutarei ao seu lado. Qual é o seu nome, estranho?}{Sim. Talvez encontremos nossas respostas no mesmo lugar. Irei com você e lutarei ao seu lado. Qual é o seu nome, estranho?}{}{25}{}{}
+{134}{Eu sou @PCNAME@.}{}{5}{}{137}{}
+{135}{Eu me chamo @PCNAME@.}{}{-4}{}{137}{}
+{137}{Como estou em dívida com você, @PCNAME@, prometo lutar ao seu lado até... bem, até não poder mais fazê-lo...}{Como estou em dívida com você, @PCNAME@, prometo lutar ao seu lado até... bem, até não poder mais fazê-lo...}{}{26}{}{}
+{138}{E:}{}{1}{}{0}{}
+{140}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{27}{}{}
+{141}{K:}{}{1}{}{25}{}
+{142}{E:}{}{1}{}{0}{}
+{145}{Do que precisa?}{Do que precisa?}{}{28}{}{}
+{146}{B:}{}{1}{wa 0}{}{}
+{147}{Gostaria que fizesse algo por mim, Torian Kel...}{}{5}{wa 0}{264}{}
+{148}{Faça uma coisa pra mim!}{}{-4}{wa 0}{325}{}
+{149}{Tenho algumas perguntas para você, Torian Kel...}{}{5}{wa 0}{170}{}
+{150}{Tenho umas perguntas, Torian Kel!}{}{-4}{wa 0}{170}{}
+{151}{Você pode parar de esperar agora, Torian Kel...}{}{5}{pa -6411, wa 1}{286}{jo 0 289}
+{152}{Você pode parar de esperar agora, Torian Kel...}{}{5}{pa 6411, wa 1}{-25}{}
+{153}{Você pode parar de esperar agora, Toreun!}{}{-4}{pa -6411, wa 1}{286}{jo 0 289}
+{154}{Pode parar de esperar agora, Toreun!}{}{-4}{pa 6411, wa 1}{-25}{}
+{155}{E:}{}{1}{}{0}{}
+{170}{Vou tentar responder a eles...}{Vou tentar responder a eles...}{}{29}{}{}
+{171}{Gostaria de saber algumas coisas sobre você, Torian...}{}{5}{}{}{ce}
+{172}{Quero saber umas coisas sobre você, Toreun!}{}{-4}{}{}{ce}
+{173}{O que você sabe sobre este lugar?}{}{5}{ia 17}{305}{}
+{174}{O que você sabe sobre este lugar?}{}{5}{ia 21}{309}{}
+{175}{O que você sabe sobre este lugar?}{}{5}{ia 4}{301}{}
+{176}{O que você sabe sobre este lugar?}{}{5}{ia 6}{313}{}
+{177}{O que você sabe sobre este lugar?}{}{5}{ia 43}{316}{}
+{178}{O que você acha que eu deveria fazer agora, Torian Kel?}{}{5}{ss6, ss-7}{319}{}
+{179}{Algum conselho estratégico, Torian Kel?}{}{5}{ss17, ss-17}{322}{}
+{180}{O que você sabe sobre este lugar?}{}{-4}{ia 17}{305}{}
+{181}{O que você sabe sobre este lugar?}{}{-4}{ia 21}{309}{}
+{182}{O que você sabe sobre este lugar?}{}{-4}{ia 4}{301}{}
+{183}{O que você sabe sobre este lugar?}{}{-4}{ia 6}{313}{}
+{184}{O que você sabe sobre este lugar?}{}{-4}{ia 43}{316}{}
+{185}{O que você acha que eu deveria fazer agora, Torian Kel?}{}{-4}{ss6, ss-7}{319}{}
+{186}{Algum conselho estratégico, Torian Kel?}{}{-4}{ss17, ss-17}{322}{}
+{187}{Você parece estar chateado comigo, Torian.}{}{5}{re-20}{340}{}
+{188}{Por que está bravo comigo?}{}{-4}{re-20}{340}{}
+{263}{E:}{}{1}{}{0}{}
+{264}{Sim? O que é?}{Sim? O que é?}{}{30}{}{}
+{265}{Afaste-se...}{}{5}{}{0}{so}
+{266}{Chegue mais perto...}{}{5}{}{0}{sc}
+{267}{Espere aqui...}{}{5}{wa 0}{275}{wa}
+{268}{Pare de esperar...}{}{5}{wa 1}{286}{uw 0 272}
+{269}{Saia do grupo...}{}{5}{}{278}{lv}
+{270}{[Voltar]}{}{5}{}{145}{}
+{272}{Sim, claro. Estou pronto para marchar quando você estiver...}{Sim, claro. Estou pronto para marchar quando você estiver...}{}{31}{}{}
+{273}{E:}{}{1}{}{0}{}
+{275}{Vou ficar aqui, @PCNAME@. Não me faça esperar demais...}{Vou ficar aqui, @PCNAME@. Não me faça esperar demais...}{}{32}{}{}
+{276}{E:}{}{1}{}{0}{}
+{278}{Claro. Parece que nossos caminhos se separam aqui. [Ele leva um braço ao peito, fazendo uma reverência profunda.] Agradeço por me restaurar. Que encontre as respostas que procura...}{Claro. Parece que nossos caminhos se separam aqui. [Ele leva um braço ao peito, fazendo uma reverência profunda.] Agradeço por me restaurar. Que encontre as respostas que procura...}{}{33}{}{lf31 1}
+{279}{E:}{}{1}{}{0}{}
+{281}{O que o traz de volta aqui? Sua jornada já terminou tão cedo?}{O que o traz de volta aqui? Sua jornada já terminou tão cedo?}{}{34}{}{}
+{282}{Vai se juntar a mim...?}{}{1}{pa -6411}{286}{jo 0 289}
+{283}{Vai se juntar a mim...?}{}{1}{pa 6411}{-25}{}
+{284}{Está chateado comigo...?}{}{1}{re-20}{340}{}
+{285}{E:}{}{1}{}{0}{}
+{286}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{35}{}{}
+{287}{E:}{}{1}{}{0}{}
+{289}{Sim, acho bom continuarmos juntos. Minha lâmina, mais uma vez, está a seu serviço...}{Sim, acho bom continuarmos juntos. Minha lâmina, mais uma vez, está a seu serviço...}{}{36}{}{lf31 0}
+{290}{E:}{}{1}{}{0}{}
+{292}{Esperei muito tempo, @PCNAME@. Pensei que poderia ter caído sem minha proteção.}{Esperei muito tempo, @PCNAME@. Pensei que poderia ter caído sem minha proteção.}{}{37}{}{}
+{293}{Vai se juntar a mim...?}{}{1}{pa -6411}{286}{jo 0 297}
+{294}{Vai se juntar a mim...?}{}{1}{pa 6411}{-25}{}
+{295}{Está chateado comigo...?}{}{1}{re-20}{340}{}
+{296}{E:}{}{1}{}{0}{}
+{297}{Claro. Nossa jornada é semelhante, e acho prazeroso lutar ao seu lado. Vamos...}{Claro. Nossa jornada é semelhante, e acho prazeroso lutar ao seu lado. Vamos...}{}{38}{}{}
+{298}{E:}{}{1}{}{0}{}
+{301}{Este lugar... parece algo que nunca vi antes. Tanta coisa mudou...}{Este lugar... parece algo que nunca vi antes. Tanta coisa mudou...}{}{39}{}{}
+{302}{K:}{}{1}{}{145}{}
+{303}{E:}{}{1}{}{0}{}
+{305}{Acho que marchamos por aqui a caminho de enfrentar a Mão Molocheana. Não me lembro do nome deste lugar...}{Acho que marchamos por aqui a caminho de enfrentar a Mão Molocheana. Não me lembro do nome deste lugar...}{}{40}{}{}
+{306}{K:}{}{1}{}{145}{}
+{307}{E:}{}{1}{}{0}{}
+{309}{Não conheço este lugar... mas que lugar maravilhoso... Nunca vi tanta gente, ou construções tão estranhas... o mundo mudou tanto...}{Não conheço este lugar... mas que lugar maravilhoso... Nunca vi tanta gente, ou construções tão estranhas... o mundo mudou tanto...}{}{41}{}{}
+{310}{K:}{}{1}{}{145}{}
+{311}{E:}{}{1}{}{0}{}
+{313}{Nunca havia posto os olhos neste lugar antes, mas já ouvi histórias sobre ele... as lembranças da vida... Eu tive uma amante élfica, ainda me lembro do rosto dela quando a deixei para lutar na batalha que tiraria minha vida.}{Nunca havia posto os olhos neste lugar antes, mas já ouvi histórias sobre ele... as lembranças da vida... Eu tive uma amante élfica, ainda me lembro do rosto dela quando a deixei para lutar na batalha que tiraria minha vida.}{}{42}{}{}
+{314}{K:}{}{1}{}{145}{}
+{315}{E:}{}{1}{}{0}{}
+{316}{Esta é Kree. Esta era a cidade mais bela de Arcanum. Sei que estou morto há muito tempo, mas como pôde chegar a este ponto? Um desastre natural, talvez...}{Esta é Kree. Esta era a cidade mais bela de Arcanum. Sei que estou morto há muito tempo, mas como pôde chegar a este ponto? Um desastre natural, talvez...}{}{43}{}{}
+{317}{K:}{}{1}{}{145}{}
+{318}{E:}{}{1}{}{0}{}
+{319}{[Ele parece distraído.] Oh, me desculpe, senhor. Acho que estava rememorando novamente. Eu o sigo, minha opinião não importa. O sangue de um soldado corre em minhas veias, não o de um general.}{[Ele parece distraído.] Oh, me desculpe, senhora. Acho que estava rememorando novamente. Eu a sigo, minha opinião não importa. O sangue de um soldado corre em minhas veias, não o de um general.}{}{44}{}{}
+{320}{K:}{}{1}{}{145}{}
+{321}{E:}{}{1}{}{0}{}
+{322}{Lute, até a morte se necessário. Estou preparado para dar minha vida por você, e a Ilha da Morte parece um lugar apropriado para isso.}{Lute, até a morte se necessário. Estou preparado para dar minha vida por você, e a Ilha da Morte parece um lugar apropriado para isso.}{}{45}{}{}
+{323}{K:}{}{1}{}{145}{}
+{324}{E:}{}{1}{}{0}{}
+{325}{Sim? O que é?}{Sim? O que é?}{}{46}{}{}
+{326}{Você está perto demais. Fique longe.}{}{-4}{}{0}{so}
+{327}{Você está longe demais. Fique perto.}{}{-4}{}{0}{sc}
+{328}{Espere.}{}{-4}{wa 0}{275}{wa}
+{329}{Pare de ser esperado.}{}{-4}{wa 1, pa -6411}{286}{uw 0 272}
+{330}{Pare de ser esperado.}{}{-4}{wa 1, pa 6411}{-25}{}
+{331}{Vá embora. Agora. Para sempre.}{}{-4}{}{278}{lv}
+{332}{[Voltar]}{}{-4}{}{145}{}
+{340}{Suas ações recentes não são as de um bom comandante, senhor. Devo dizer que... desaprovo.}{Suas ações recentes não são as de uma boa comandante, senhora. Devo dizer que... desaprovo.}{}{}{}{}
+{341}{O que posso fazer para melhorar as coisas entre nós?}{}{5}{ch-16}{0}{fl 350}
+{342}{O que faço para te deixar feliz?}{}{-4}{ch-16}{0}{fl 350}
+{343}{Tive meus motivos. Espero que possa compreender isso.}{}{5}{ch17}{355}{re+20}
+{344}{Não me importo com o que pensa. Fique quieto e siga ordens.}{}{5}{}{0}{fl 360}
+{345}{Não me importo com o que pensa. Fique quieto.}{}{-4}{}{0}{fl 360}
+{350}{Não há nada que possa fazer para amenizar a situação. Um comandante mantém suas decisões, e você tomou as suas. Se deseja que eu continue a segui-lo, porém, sugiro que mude seu caminho no futuro.}{Não há nada que possa fazer para amenizar a situação. Uma comandante mantém suas decisões, e você tomou as suas. Se deseja que eu continue a segui-la, porém, sugiro que mude seu caminho no futuro.}{}{}{}{}
+{355}{Claro, senhor. Não tive a intenção de questionar suas ordens. Por favor, perdoe minha impertinência.}{Claro, senhora. Não tive a intenção de questionar suas ordens. Por favor, perdoe minha impertinência.}{}{}{}{}
+{356}{Você se juntará a mim novamente?}{}{5}{pa-6616}{286}{jo 0 289}
+{357}{Não pense mais nisso. Vamos.}{}{5}{pa6616}{0}{}
+{358}{Você me segue? Certo?}{}{-4}{pa-6616}{286}{jo 0 289}
+{359}{Vamos agora.}{}{-4}{pa6616}{0}{}
+{360}{Farei isso por enquanto, mas não por muito mais tempo se essa for sua atitude.}{Farei isso por enquanto, mas não por muito mais tempo se essa for sua atitude.}{}{}{}{}
+

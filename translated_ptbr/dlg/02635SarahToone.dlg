@@ -1,0 +1,108 @@
+{1}{G:}{G:}{}{}{}{ }
+{2}{W:}{}{5}{lf1 0, re41}{20}{lf1 1 }
+{3}{Desculpe, estava falando comigo?}{}{5}{re-40, ch10}{240}{re50 }
+{4}{Por favor, perdoe minha presença, senhora. Não pretendo ofendê-la.}{}{5}{re-40, ch-9}{250}{re41 }
+{5}{Fale comigo assim de novo e você vai se arrepender seriamente.}{}{5}{re-40, sk2 8}{260}{re41 }
+{6}{K:}{}{5}{lf1 1}{120}{ }
+{7}{Urgh.}{}{-4}{lf1 0}{270}{lf1 1 }
+{8}{Trouxe a escritura da mina para a senhora. [Entregue a escritura para ela.]}{}{5}{in6698, lf1 1}{-7}{in6698, gf2586 1, qu1152 4, rp1047, al+25 }
+{9}{Recuperei a escritura da mina para o seu irmão.}{}{5}{lf1 1, qu1152 4}{0}{lf4 1, re-10, fl 230}
+{10}{Não acredito que haja motivo para falar comigo dessa forma.}{}{5}{re-40, sk2 8}{240}{re45 }
+{19}{E:}{}{1}{}{0}{ }
+{20}{Meu nome é Sarah Toone. Prazer em conhecê-lo.}{Meu nome é Sarah Toone. Prazer em conhecê-lo.}{}{}{}{ }
+{21}{Igualmente, tenho certeza. Você é a filha da Bessie?}{}{5}{}{30}{ }
+{30}{[Ela de repente parece muito triste.] Sim, sou. Por que pergunta?}{[Ela de repente parece muito triste.] Sim, sou. Por que pergunta?}{}{}{}{ }
+{31}{Estou tentando encontrar uma maneira de libertar o fantasma da sua mãe.}{}{5}{}{40}{ }
+{40}{Oh? E por que, se me permite perguntar, está fazendo isso?}{Oh? E por que, se me permite perguntar, está fazendo isso?}{}{}{}{ }
+{41}{Seu irmão está bastante chateado, compreensivelmente. Ofereci ajuda.}{}{5}{}{50}{ }
+{50}{Meu irmão? Chateado? Por quê? Ele deveria estar feliz, o cão! Afinal, conseguiu o que queria.}{Meu irmão? Chateado? Por quê? Ele deveria estar feliz, o cão! Afinal, conseguiu o que queria.}{}{}{}{ }
+{51}{Ele me disse que você não gostava dele.}{}{5}{}{60}{ }
+{52}{O fantasma da sua mãe "azedou" o minério, e ele teme por sua vida.}{}{5}{}{70}{ }
+{60}{"Não gostar dele"? Isso é um eufemismo. Sabe o que ele fez? Convenceu minha mãe a passar a mina para o nome dele e depois a vendeu para aqueles bandidos em Tarant! Ela se matou por causa disso!}{"Não gostar dele"? Isso é um eufemismo. Sabe o que ele fez? Convenceu minha mãe a passar a mina para o nome dele e depois a vendeu para aqueles bandidos em Tarant! Ela se matou por causa disso!}{}{}{}{ }
+{61}{Como ele a convenceu a assinar?}{}{5}{}{90}{ }
+{62}{Por que ela se matou por causa da mina?}{}{5}{}{100}{ }
+{70}{Perdoe-me enquanto derramo uma lágrima pelo meu "querido" irmão. Como eu disse, ele está recebendo o que merece.}{Perdoe-me enquanto derramo uma lágrima pelo meu "querido" irmão. Como eu disse, ele está recebendo o que merece.}{}{}{}{ }
+{71}{Por que você é tão hostil com ele?}{}{5}{}{80}{ }
+{80}{"Hostil com ele"? Isso é um eufemismo. Sabe o que ele fez? Convenceu minha mãe a passar a mina para o nome dele e depois a vendeu para aqueles bandidos em Tarant! Ela se matou por causa disso!}{"Hostil com ele"? Isso é um eufemismo. Sabe o que ele fez? Convenceu minha mãe a passar a mina para o nome dele e depois a vendeu para aqueles bandidos em Tarant! Ela se matou por causa disso!}{}{}{}{ }
+{81}{Como ele a convenceu a assinar?}{}{5}{}{90}{ }
+{82}{Por que ela se matou por causa da mina?}{}{5}{}{100}{ }
+{90}{Ela sempre quis que eu a administrasse, já que meu irmão era notório por estragar as coisas. Ele a convenceu de que "por razões legais" deveria estar no nome dele, pois ela estava envelhecendo e eu ainda não tinha idade legal. Ela resistiu no início, mas meu irmão sempre conseguia convencê-la. Ele era insidioso dessa forma.}{Ela sempre quis que eu a administrasse, já que meu irmão era notório por estragar as coisas. Ele a convenceu de que "por razões legais" deveria estar no nome dele, pois ela estava envelhecendo e eu ainda não tinha idade legal. Ela resistiu no início, mas meu irmão sempre conseguia convencê-la. Ele era insidioso dessa forma.}{}{}{}{ }
+{91}{Mas por que ela se matou por ele ter vendido aquilo?}{}{5}{}{100}{ }
+{92}{Você sabia que ela está chamando o seu nome? Por que será?}{}{5}{}{280}{ }
+{100}{O único desejo dela era que a mina permanecesse em nossa família, como tinha sido por mais de três gerações. Era o nosso legado. Ela costumava me dizer que preferiria estar morta a deixar qualquer um que não fosse um Toone administrá-la.}{O único desejo dela era que a mina permanecesse em nossa família, como tinha sido por mais de três gerações. Era o nosso legado. Ela costumava me dizer que preferiria estar morta a deixar qualquer um que não fosse um Toone administrá-la.}{}{}{}{ru2206 }
+{101}{Você pode me dizer quem é o dono da mina da sua família agora?}{}{5}{}{110}{ }
+{102}{Você sabia que ela está chamando o seu nome? Por que será?}{}{5}{}{280}{ }
+{109}{E:}{}{1}{}{0}{ }
+{110}{Não me lembro de cabeça, mas acho que anotei em algum lugar... [ela remexe alguns papéis]. Sim, aqui está. Stanton Importers, 25 Lion's Head Circle, Tarant.}{Não me lembro de cabeça, mas acho que anotei em algum lugar... [ela remexe alguns papéis]. Sim, aqui está. Stanton Importers, 25 Lion's Head Circle, Tarant.}{}{}{}{ru2207 }
+{111}{K:}{}{5}{}{120}{ }
+{118}{}{}{}{}{}{ }
+{119}{E:}{}{1}{}{0}{ }
+{120}{Sim, o que é?}{Sim, o que é?}{}{}{}{ }
+{121}{Por que você se mudou para cá? Este lugar já viu dias melhores.}{}{5}{}{200}{ }
+{122}{Você pode me dizer quem é o dono da mina da sua família agora?}{}{5}{ru-2207}{110}{ }
+{123}{Qual foi a desculpa do seu irmão para vender a mina?}{}{5}{}{190}{ }
+{124}{Você teria interesse em ser dono da mina novamente?}{}{5}{lf2 0}{130}{lf2 1 }
+{125}{Você sabia que ela está chamando o seu nome? Por que será?}{}{5}{}{280}{ }
+{129}{E:}{}{1}{}{0}{ }
+{130}{Claro que teria... mas achei que você estivesse trabalhando para o meu irmão.}{Claro que teria... mas achei que você estivesse trabalhando para o meu irmão.}{}{}{}{qu1163 1 }
+{131}{Eu estava, mas acho que não gosto muito dele mais.}{}{5}{}{140}{re+10 }
+{132}{Ainda não decidi para quem vou trabalhar. O que você pode me pagar?}{}{5}{}{170}{ }
+{139}{Você tem razão. Acho que já vou indo.}{}{5}{}{0}{lf2 0 }
+{140}{Hah! Bem-vindo ao clube. Sabe, estou começando a gostar de você. [Ela suspira.] Não posso te pagar pela sua ajuda, você sabe.}{Hah! Bem-vindo ao clube. Sabe, estou começando a gostar de você. [Ela suspira.] Não posso te pagar pela sua ajuda, você sabe.}{}{}{}{ }
+{141}{Tudo bem. Eu quero te ajudar.}{}{5}{}{160}{gf2584 1, qu1163 2 }
+{142}{Eu gostaria de ajudar, mas poderia usar o dinheiro que seu irmão ofereceu.}{}{5}{}{150}{re-5 }
+{143}{Bem, então, não vou te ajudar. Eu só trabalho por dinheiro.}{}{5}{}{180}{re-10 }
+{150}{[Ela olha para o chão.] Eu entendo. Todos nós precisamos fazer o que podemos para sobreviver. Obrigada por vir falar comigo, de qualquer forma.}{[Ela olha para o chão.] Eu entendo. Todos nós precisamos fazer o que podemos para sobreviver. Obrigada por vir falar comigo, de qualquer forma.}{}{}{}{ }
+{151}{Tá bom, tá bom. Eu vou te ajudar.}{}{5}{}{160}{ }
+{159}{E:}{}{1}{}{0}{ }
+{160}{Eu agradeço por isso... mas entendo o forte apelo do dinheiro. Quero que saiba que não guardaria rancor se decidisse ajudar meu irmão em vez de mim.}{Eu agradeço por isso... mas entendo o forte apelo do dinheiro. Quero que saiba que não guardaria rancor se decidisse ajudar meu irmão em vez de mim.}{}{}{}{ }
+{161}{K:}{}{5}{}{120}{ }
+{169}{Espero voltar em breve com algumas novidades...}{}{5}{}{0}{ }
+{170}{Não tenho como te pagar pela ajuda, me desculpe. Olhe onde eu moro. Talvez você devesse continuar trabalhando para o meu irmão...}{Receio não ter nada para lhe pagar pela sua ajuda. Veja só onde vivo. Talvez devesse continuar trabalhando para meu irmão...}{}{}{}{ }
+{171}{Gostaria de ajudar, mas poderia usar o dinheiro que seu irmão ofereceu.}{}{5}{}{150}{re-5 }
+{172}{Mudei de ideia. Vou ajudá-lo sem nada em troca.}{}{5}{}{160}{gf2584 1, re+10, qu1163 2 }
+{179}{Você tem razão. Vou indo agora.}{}{5}{}{0}{lf2 0 }
+{180}{Se o dinheiro é tudo o que importa para você, então sugiro que trabalhe para meu irmão.}{Se o dinheiro é tudo o que importa para você, então sugiro que trabalhe para meu irmão.}{}{}{}{ }
+{181}{Mudei de ideia. Vou ajudá-lo sem nada em troca.}{}{5}{}{160}{gf2584 1, re+5, qu1163 2 }
+{189}{Você tem razão. Vou indo agora.}{}{5}{}{0}{lf2 0 }
+{190}{Ele inventou uma história sobre os compradores ameaçando sua vida se não vendesse. Acho que, na verdade, ele devia dinheiro a eles, mas nunca admitiria.}{Ele inventou uma história sobre os compradores ameaçando sua vida se não vendesse. Acho que, na verdade, ele devia dinheiro a eles, mas nunca admitiria.}{}{}{}{ }
+{191}{K:}{}{5}{}{120}{ }
+{199}{E:}{}{1}{}{0}{ }
+{200}{Eu sabia o que meu irmão ia fazer assim que ele "roubou" a mina de mim e da minha mãe. Não aguentei assistir. Tentei convencer minha mãe a vir comigo, mas ela não quis deixar sua casa. Mudei-me para cá porque não tinha nada... nem sequer sou dona deste lugar, estava abandonado.}{Eu sabia o que meu irmão ia fazer assim que ele "roubou" a mina de mim e da minha mãe. Não aguentei assistir. Tentei convencer minha mãe a vir comigo, mas ela não quis deixar sua casa. Mudei-me para cá porque não tinha nada... nem sequer sou dona deste lugar, estava abandonado.}{}{}{}{ }
+{201}{Seu irmão não ajudaria você? Ele parece estar bem de vida.}{}{5}{}{210}{ }
+{202}{K:}{}{5}{}{120}{ }
+{209}{E:}{}{1}{}{0}{ }
+{210}{Está falando sério? Eu nunca pediria ajuda a ele.}{Está falando sério? Eu nunca pediria ajuda a ele.}{}{}{}{ }
+{211}{K:}{}{5}{}{120}{ }
+{219}{E:}{}{5}{}{0}{ }
+{220}{Ah, obrigada, isso é uma ótima notícia! Não tenho como agradecer o suficiente. [Ela olha a escritura por um momento e, de repente, parece se lembrar de algo.] Espere - tem uma coisa que posso lhe dar. Não acho que valha muita coisa, nunca a identifiquei, mas sei que é pelo menos mágica... [ela lhe entrega uma espada].}{Ah, obrigada, isso é uma ótima notícia! Não tenho como agradecer o suficiente. [Ela olha a escritura por um momento e, de repente, parece se lembrar de algo.] Espere - tem uma coisa que posso lhe dar. Não acho que valha muita coisa, nunca a identifiquei, mas sei que é pelo menos mágica... [ela lhe entrega uma espada].}{}{}{}{xp1, qu1163 4 }
+{221}{Obrigado. Tenha um bom dia.}{}{5}{}{0}{lf3 1 }
+{229}{Obrigada novamente por devolver a mina para mim...}{Obrigada novamente por devolver a mina para mim...}{}{}{}{ }
+{230}{Sinto muito ouvir isso, mas suponho que você fez o que tinha que fazer. Se pudesse, por favor, me deixe em paz agora.}{Sinto muito ouvir isso, mas suponho que você fez o que tinha que fazer. Se pudesse, por favor, me deixe em paz agora.}{}{}{}{ }
+{231}{Por favor, me deixe em paz. Não estou com vontade de falar com você.}{Por favor, me deixe em paz. Não estou com vontade de falar com você.}{}{}{}{ }
+{240}{Peço desculpas pela minha rudeza, senhor, devo tê-lo confundido com alguém das classes inferiores.}{Peço desculpas pela minha rudeza, senhora, devo tê-la confundido com alguém das classes inferiores.}{}{}{}{ }
+{241}{W:}{}{5}{lf1 0, re41}{20}{lf1 1 }
+{242}{K:}{}{5}{lf1 1}{120}{ }
+{243}{Trouxe a escritura da mina para você. [Entregue-lhe a escritura.]}{}{5}{in6698}{-7}{in6698, gf2586 1, qu1152 4, rp1047 }
+{244}{Recuperei a escritura para seu irmão.}{}{5}{}{0}{lf4 1, re-10, fl 465}
+{249}{E:}{}{1}{}{0}{ }
+{250}{Não, eu é que devo pedir desculpas. Não há motivo para tratá-lo dessa forma, não importa quem você seja.}{Não, eu é que devo pedir desculpas. Não há motivo para tratá-lo dessa forma, não importa quem você seja.}{}{}{}{ }
+{251}{W:}{}{5}{lf1 0, re41}{20}{lf1 1 }
+{252}{K:}{}{5}{lf1 1}{120}{ }
+{253}{Trouxe a escritura da mina para você. [Entregue-lhe a escritura.]}{}{5}{in6698}{-7}{in6698, gf2586 1, qu1152 4, rp1047 }
+{254}{Recuperei a escritura para o seu irmão.}{}{5}{}{0}{lf4 1, re-10, fl 475}
+{255}{É tarde demais para isso, vadia! Prepare-se para morrer!}{}{5}{}{0}{co }
+{259}{E:}{}{1}{}{0}{ }
+{260}{[Ela sorri amplamente para você.] Hah! Gostei de você. [Ela faz uma reverência teatral.] Por favor, me perdoe, senhor.}{[Ela sorri amplamente para você.] Hah! Gostei de você. [Ela faz uma reverência teatral.] Por favor, me perdoe, senhora.}{}{}{}{ }
+{261}{W:}{}{5}{lf1 0, re41}{20}{lf1 1 }
+{262}{K:}{}{5}{lf1 1}{120}{ }
+{263}{Trouxe a escritura da mina para você. [Entregue a escritura a ela.]}{}{5}{in6698}{-7}{in6698, gf2586 1, qu1152 4, rp1047 }
+{264}{Recuperei a escritura para o seu irmão.}{}{5}{}{0}{lf4 1, re-10, fl 485}
+{265}{É tarde demais para isso, vadia! Prepare-se para morrer!}{}{5}{}{0}{co }
+{269}{E:}{}{1}{}{0}{ }
+{270}{[Ela toca o lado do seu rosto.] Oh, sinto muito, mas não tenho nada para lhe dar hoje, meu amigo imbecil.}{[Ela toca o lado do seu rosto.] Oh, sinto muito, mas não tenho nada para lhe dar hoje, minha amiga imbecil.}{}{}{}{ }
+{271}{E:}{}{1}{}{0}{ }
+{280}{Sim, eu tinha ouvido falar... Não sei por quê. Acho que ela percebeu que eu era a única em quem podia confiar. Talvez ela deseje ter vindo comigo... ou... [ela segura as lágrimas]... ou sinta que a abandonei quando precisava de mim... Eu simplesmente não suportava ver a vida dela sendo arrancada assim.}{Sim, eu tinha ouvido falar... Não sei por quê. Acho que ela percebeu que eu era a única em quem podia confiar. Talvez ela deseje ter vindo comigo... ou... [ela segura as lágrimas]... ou sinta que a abandonei quando precisava de mim... Eu simplesmente não suportava ver a vida dela sendo arrancada assim.}{}{}{}{ }
+{282}{K:}{}{5}{}{120}{ }
+{289}{E:}{}{1}{}{0}{ }
+

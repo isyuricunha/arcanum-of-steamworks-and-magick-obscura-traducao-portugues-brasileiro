@@ -1,0 +1,104 @@
+{1}{G:}{G:}{}{}{}{lf 15 0, lf 14 0}
+{2}{Saudações, senhorita. Posso saber o seu nome?}{}{5}{lf1 0, re 41}{38}{}
+{3}{Saudações, Fawn. Posso tomar um momento do seu tempo?}{}{5}{lf1 1, re 41}{48}{}
+{4}{Madame! Fiz algo para ofendê-la?!}{}{5}{lf1 0, re -40}{14}{}
+{5}{Perdoe-me, Fawn. Posso tomar um momento do seu tempo?}{}{5}{lf1 1, re -40}{48}{}
+{6}{Obrigado por me treinar como Mestre curandeiro.}{}{5}{tr10 3, re -80}{0}{re +5}
+{7}{Oh, Linda... Como é que você se chama?}{1}{-4}{lf1 0, re 41}{38}{}
+{8}{Oh, Linda, linda elfa... Qual é o seu nome?}{0}{-4}{lf1 0, re 41}{38}{}
+{9}{Oh, Linda... Como é que você se chama?}{1}{-4}{lf1 0, re -40}{14}{}
+{10}{Oh, Linda, linda elfa... Qual é o seu nome?}{0}{-4}{lf1 0, re -40}{14}{}
+{11}{Falar com Faw'?}{}{-4}{lf1 1, re 41}{48}{}
+{12}{Falar com Faw', por favor?}{}{-4}{lf1 1, re -40}{48}{}
+{13}{E:}{}{1}{}{0}{}
+{14}{Sua própria aura ofende os espíritos. Você precisa ir embora... imediatamente!}{Sua própria aura ofende os espíritos. Você precisa ir embora... imediatamente!}{}{}{}{}
+{15}{Por favor, gentil senhorita, preciso da sua ajuda.}{}{5}{}{56}{re +10}
+{16}{De alguma forma, causei-lhe descontentamento. Por favor, perdoe-me.}{}{5}{}{56}{re +10}
+{17}{Vejo que a raça élfica só aprende boas maneiras mais tarde na vida.}{}{5}{}{21}{re -10}
+{18}{Opa... Eu fui mau? Não! Você que é mau... elfo burro!}{}{-4}{}{21}{re -10}
+{19}{Eu fui mau? Você não gostou?}{}{-4}{}{56}{}
+{20}{E:}{}{1}{}{0}{}
+{21}{O senhor acabou de me insultar?}{A senhora acabou de me insultar?}{}{}{}{}
+{22}{Não tive intenção de ofender. Peço desculpas pelo mal-entendido.}{}{5}{}{56}{re +10}
+{23}{Talvez... Talvez não... Isso depende do seu ponto de vista.}{}{5}{ch -11}{29}{re -10}
+{24}{Talvez... Talvez não... Isso depende do seu ponto de vista.}{}{5}{ch 12}{56}{}
+{25}{Vejo que a sabedoria deles também só se revela com a idade.}{}{5}{}{29}{re -10}
+{26}{Má, má senhora. Não é legal.}{}{-4}{}{29}{re -10}
+{27}{Oh! Me desculpe. Não vou ser mau mais.}{}{-4}{}{56}{re +10}
+{28}{E:}{}{1}{}{0}{}
+{29}{Se não parar com essa grosseria, senhor, serei forçado a mandar removê-lo!}{Se não parar com essa grosseria, senhora, serei forçado a mandá-la remover!}{}{}{}{}
+{30}{Perdoe-me. Fui muito indelicado. Permita-me pedir desculpas.}{}{5}{}{56}{re +10}
+{31}{Sempre trata os convidados dessa maneira?}{}{5}{ch 12}{56}{re +10}
+{32}{Acho que está na hora de eu te ensinar alguns modos, sua vadia!}{1}{5}{}{}{co, fl 37}
+{33}{Acho que está na hora de eu te ensinar alguns modos, criança!}{0}{5}{}{}{co, fl 37}
+{34}{Oh, deixar linda dama brava. Não bom..... Me desculpe.}{}{-4}{}{56}{re +10}
+{35}{Minha irmã? Você vai respeitar a dama!}{}{-4}{}{}{co, fl 37}
+{36}{E:}{}{1}{}{0}{}
+{37}{Guardas! Guardas! Socorro! Removam esse arruaceiro imediatamente! Guardas!!!}{Guardas! Guardas! Socorro! Removam esse selvagem imediatamente! Guardas!!!}{}{}{}{}
+{38}{Mas é claro. Sou conhecida como Kal-N'driel na língua élfica. Porém, pode me chamar de Fawn.}{Mas é claro. Sou conhecida como Kal-N'driel na língua élfica. Porém, pode me chamar de Fawn.}{}{}{}{lf1 1}
+{39}{Um prazer, Fawn. O que você faz aqui?}{}{5}{ra -3}{43}{re +5}
+{40}{Saudações, Kal-N'driel. Posso perguntar qual é sua posição?}{}{5}{ra 3}{43}{re +10}
+{41}{Oh, Faw'..... O que Faw' faz?}{}{-4}{}{43}{}
+{42}{E:}{}{1}{}{0}{}
+{43}{Oh! [risadinha nervosa] Perdoe-me por não ter dito antes, estou acostumada que todos saibam minha posição. Sou a Mestra Curandeira. Estou aqui para ajudar todos que precisam de restauração.}{Oh! [risadinha nervosa] Perdoe-me por não ter dito antes, estou acostumada que todos saibam minha posição. Sou a Mestra Curandeira. Estou aqui para ajudar todos que precisam de restauração.}{}{}{}{}
+{44}{Oh, que prazer conhecê-la, grande dama! Poderia pedir um favor?}{}{5}{}{48}{re +5}
+{45}{Tenho a sorte de tê-la conhecido. Poderia me conceder mais um favor?}{}{5}{}{48}{}
+{46}{Oh! Curandeira! Me pergunta mais uma coisa?}{}{-4}{}{48}{}
+{47}{E:}{}{1}{}{0}{}
+{48}{Ah, sim. O que você precisa, @pcname@?}{Ah, sim. O que você precisa, @pcname@?}{}{}{}{}
+{49}{H:}{}{1}{}{48}{}
+{50}{B:}{}{1}{}{48}{}
+{51}{Gostaria de ser treinado como Mestre Curandeiro}{}{5}{sk10 18, tr10 2, tr10 -2, al 400, lf 14 0}{62}{re +10, lf 14 1}
+{52}{Gostaria de ser treinada como Mestra Curandeira}{}{5}{sk10 18, tr10 2, tr10 -2, al -399, lf 14 0}{68}{re +10, lf 14 1}
+{53}{Gostaria de ser treinado como Mestre Curandeiro}{}{5}{tr10 1, tr10 -1, al 400, lf 14 0}{73}{re +10, lf 14 1}
+{54}{Gostaria de ser treinada como Mestra Curandeira}{}{5}{tr10 1, tr10 -1, al -399, lf 14 0}{76}{re +10, lf 14 1}
+{55}{E:}{}{1}{}{0}{}
+{56}{Hmmm. Nosso encontro não está indo muito bem. Talvez devêssemos fazer as pazes e recomeçar. Por favor, vamos tentar.}{Hmmm. Nosso encontro não está indo muito bem. Talvez devêssemos fazer as pazes e recomeçar. Por favor, vamos tentar.}{}{}{}{}
+{57}{Eu gostaria disso. Obrigado, dama. Posso perguntar seu nome?}{}{5}{}{38}{re +5}
+{58}{A senhora é muito gentil. Posso perguntar seu nome e posição?}{}{5}{}{38}{re +5}
+{59}{Uh, oh. Sim. Quer saber seu nome.}{}{-4}{}{38}{re +5}
+{60}{Agradeço à gentil dama. Quem é você? O que faz?}{}{-4}{}{38}{re +5}
+{61}{F:}{}{1}{}{0}{re -2}
+{62}{Você é sábio e bondoso. Seria uma honra treiná-lo como Mestre na arte da cura. Como presente para celebrar sua passagem, permita-me presenteá-lo com o amuleto de K'an-el. Ele está repleto de magia poderosa e irá restaurá-lo quando estiver fraco. Vá e seja generoso com suas novas habilidades, @pcname@.}{Você é sábia e bondosa. Seria uma honra treiná-la como Mestra na arte da cura. Como presente para celebrar sua passagem, permita-me presenteá-la com o amuleto de K'an-el. Ele está repleto de magia poderosa e irá restaurá-la quando estiver fraca. Vá e seja generosa com suas novas habilidades, @pcname@.}{}{}{}{tr10 3, in -2816, rq2170}
+{63}{Obrigado, Fawn.}{}{5}{}{0}{}
+{64}{Obrigado, Fawn. Continuarei a ajudar outros com o seu dom.}{}{5}{ra -3}{0}{}
+{65}{Meus agradecimentos, Kal-N'driel. Compartilharei seu dom com aqueles que precisam.}{}{5}{ra 3}{0}{}
+{66}{Agradeço por sua sabedoria. Posso lhe pedir um favor?}{}{5}{}{48}{}
+{67}{E:}{}{1}{}{0}{}
+{68}{Posso ver que você é muito conhecedor quando se trata da arte de curar @pcname@. Mas verdadeiros curandeiros devem ter o coração puro. Receio que o seu esteja um pouco obscurecido. Não irei treiná-lo agora. Vá e ajude as pessoas. Faça o bem àqueles ao seu redor. Talvez então eu reconsidere.}{Posso ver que você é muito conhecedor quando se trata da arte de curar @pcname@. Mas verdadeiros curandeiros devem ter o coração puro. Receio que o seu esteja longe de ser puro. Não irei treiná-lo agora. Vá e ajude as pessoas. Faça o bem àqueles ao seu redor. Talvez então eu reconsidere.}{}{}{}{}
+{69}{Irei me aperfeiçoar. Obrigado por sua sabedoria.}{}{5}{}{0}{lf3 1}
+{70}{Agradeço por seu conselho. Posso fazer uma pergunta?}{}{5}{}{48}{lf3 1}
+{71}{Maldito seja você e tudo o que defende!}{}{5}{}{}{lf3 1, co, fl 37}
+{72}{E:}{}{1}{}{0}{}
+{73}{Você parece ter o coração puro @pcname@, o que é necessário para se tornar um Mestre Curandeiro. No entanto, lhe falta treinamento. Antes que eu possa torná-lo um Mestre, você precisa estudar muito e se tornar um Especialista na arte de curar. Volte a mim quando tiver concluído seus estudos.}{Você parece ter o coração puro @pcname@, o que é necessário para se tornar um Mestre Curandeiro. No entanto, lhe falta treinamento. Antes que eu possa torná-lo um Mestre, você precisa estudar muito e se tornar um Especialista na arte de curar. Volte a mim quando tiver concluído seus estudos.}{}{}{}{}
+{74}{Agradeço por seu conselho. Posso fazer uma pergunta?}{}{5}{}{48}{lf3 1}
+{75}{E:}{}{1}{}{0}{}
+{76}{Antes que eu possa compartilhar com você o conhecimento de um Mestre Curandeiro, você deve ser treinado como um especialista. Mas, mais importante, @pcname@, seu coração parece estar obscurecido pelo mal. Apenas aqueles de coração puro podem verdadeiramente alcançar o status de Mestre Curandeiro.}{Antes que eu possa compartilhar com você o conhecimento de um Mestre Curandeiro, você deve ser treinado como um especialista. Mas, mais importante, @pcname@, seu coração parece estar obscurecido pelo mal. Apenas aqueles de coração puro podem verdadeiramente alcançar o status de Mestre Curandeiro.}{}{}{}{}
+{77}{Agradeço por seu conselho. Tenho outra pergunta...}{}{5}{}{48}{lf3 1}
+{78}{Vou lhe mostrar o que acho do seu insignificante "conhecimento!"}{}{5}{}{}{lf3 1, co, fl 37}
+{79}{E:}{}{1}{}{0}{}
+{80}{Saudações, @pcname@. Você se preparou para receber o Treinamento de Mestre na arte de curar?}{Saudações, @pcname@. Você se preparou para receber o Treinamento de Mestre na arte de curar?}{}{}{}{}
+{81}{Sim, sábio. Peço que compartilhe seu conhecimento comigo.}{}{5}{sk10 18, tr10 2, tr10 -2, al 400}{62}{}
+{82}{Ainda não completei meu treinamento de Especialista.}{}{5}{tr10 1, tr10 -1}{88}{}
+{83}{Ainda não alcancei a pureza de coração que exige.}{}{5}{sk10 18, tr10 2, tr10 -2, al -399}{88}{}
+{84}{Sim, sábio. Peço que compartilhe seu conhecimento comigo.}{}{5}{sk10 18, tr10 2, tr10 -2, al -399, ps -15}{92}{}
+{85}{Sim, sábio. Peço que compartilhe seu conhecimento comigo.}{}{5}{sk10 18, tr10 2, tr10 -2, al -399, ps 16}{62}{}
+{86}{Você se preparou para a morte?}{}{5}{na -200}{}{co, fl 37}
+{87}{E:}{}{1}{}{0}{}
+{88}{Volte quando estiver pronto para receber o treinamento. O mundo precisa muito das habilidades que posso lhe ensinar, @pcname@.}{Volte quando estiver pronto para receber o treinamento. O mundo precisa muito das habilidades que posso lhe ensinar, @pcname@.}{}{}{}{}
+{89}{Retornarei.}{}{5}{}{0}{}
+{90}{Acho que o mundo está cansado de suas maneiras arrogantes!}{}{5}{}{}{co, fl 37}
+{91}{E:}{}{1}{}{0}{}
+{92}{Você não percebe que posso ver dentro do seu coração? Ele continua sujo e manchado pelo mal. Purifique-o bem e talvez ainda possa se tornar um Mestre Curandeiro.}{Você não percebe que posso ver dentro do seu coração? Ele continua sujo e manchado pelo mal. Purifique-o bem e talvez ainda possa se tornar um Mestre Curandeiro.}{}{}{}{}
+{93}{Perdoe-me pelo meu erro. Retornarei quando estiver puro.}{}{5}{}{0}{re +10}
+{94}{Bom, não dá para culpar um cara por tentar, dá?}{1}{5}{}{0}{}
+{95}{Bom, não dá para culpar uma moça por tentar, dá?}{0}{5}{}{0}{}
+{96}{Chega dessa conversa sobre pureza! É hora de morrer...}{}{5}{na -200}{}{co, fl 37}
+{97}{Mas Fawn!?! Eu melhorei! Que nível de pureza você exige?}{}{5}{ra -3}{100}{}
+{98}{Eu melhorei, Kal-N'driel. Quão puro devo me tornar?}{}{5}{ra 3}{100}{}
+{99}{E:}{}{1}{}{0}{}
+{100}{Um verdadeiro curandeiro deve ter o coração puro e estar repleto de bondade para melhor auxiliar aqueles que precisam. Exijo que meus alunos não sejam nem maus, nem neutros, pois essas pessoas são egoístas. Treino apenas aqueles que estão cheios de bondade e compaixão e se aproximam do meio do caminho para a santidade.}{Um verdadeiro curandeiro deve ter o coração puro e estar repleto de bondade para melhor auxiliar aqueles que precisam. Exijo que meus alunos não sejam nem maus, nem neutros, pois essas pessoas são egoístas. Treino apenas aqueles que estão cheios de bondade e compaixão e se aproximam do meio do caminho para a santidade.}{}{}{}{}
+{101}{Retornarei quando tiver atendido ao seu requisito.}{}{5}{}{0}{}
+{102}{Santidade?!? Acho que é hora de ver um pouco de martírio!}{}{5}{na -200}{}{co, fl 37}
+{103}{E:}{}{1}{}{0}{}
+

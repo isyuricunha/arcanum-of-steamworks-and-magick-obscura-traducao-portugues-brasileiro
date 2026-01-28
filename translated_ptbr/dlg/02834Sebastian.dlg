@@ -1,0 +1,246 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Saudações, senhor. Posso perguntar quem é você?}{}{5}{me 0, re 41}{32}{}
+{3}{Olá para você, Sebastian. Posso lhe fazer algumas perguntas?}{}{5}{me 1, re 41}{36}{}
+{4}{Senhor! Fui eu que ouvi direito? O que eu fiz para ofendê-lo?}{}{5}{me 0, re -40}{8}{}
+{5}{Sebastian! Há algo que eu tenha feito para ofendê-lo?}{}{5}{me 1, re -40}{8}{}
+{8}{Acho que você me ouviu muito bem, meu amigo. Eu não gosto de você, e é assim que as coisas são. Recomendo que saia daqui, e rápido.}{Acho que você me ouviu muito bem, madame. Eu não gosto de você, e é assim que as coisas são. Recomendo que saia daqui, e rápido.}{}{}{}{}
+{9}{Tem CERTEZA dessa opinião, senhor?}{}{5}{ch 15}{27}{}
+{10}{Senhor! Tenho certeza de que podemos deixar isso para trás...}{}{5}{me 0}{22}{re +15}
+{11}{Sebastian! Não há como superarmos isso?}{}{5}{me 1}{22}{re +15}
+{12}{Continue falando assim, e você vai levar uma surra...}{}{5}{}{15}{re -5}
+{13}{E:}{}{5}{}{0}{}
+{15}{[Ele se posiciona diante de você, sussurrando ameaçadoramente.] Estou pronto quando você estiver.}{[Ele se posiciona diante de você, sussurrando ameaçadoramente.] Estou pronto quando você estiver.}{}{}{}{}
+{16}{Talvez eu tenha exagerado um pouco. Aceite minhas desculpas...}{}{5}{}{22}{re +15}
+{17}{Sua boca lhe custou a vida hoje, forasteiro...}{}{5}{}{}{co, fl 20}
+{18}{E:}{}{5}{}{0}{}
+{20}{Tudo bem por mim. Você é um homem morto...}{Tudo bem por mim. Você está morta, madame...}{}{}{}{}
+{22}{[Ele lhe lança um olhar perspicaz, ponderando.] Talvez eu tenha sido um pouco duro com você, mas não sou homem de medir palavras. Diga logo o que quer, e rápido...}{[Ele lhe lança um olhar perspicaz, ponderando.] Talvez eu tenha sido um pouco duro com você, mas não sou homem de medir palavras. Diga logo o que quer, e rápido...}{}{}{}{}
+{23}{Claro, senhor. Eu estava me perguntando quem é você...?}{}{5}{me 0}{32}{re +5}
+{24}{Com certeza, Sebastian. Posso lhe fazer uma ou duas perguntas?}{}{5}{me 1}{36}{}
+{25}{E:}{}{5}{}{0}{}
+{27}{[O homem faz uma pausa, então assente levemente.] Vejo que talvez eu tenha sido um pouco apressado com a língua, forasteiro. Vamos considerar um erro honesto e encerrar isso...}{[O homem faz uma pausa, então assente levemente.] Vejo que talvez eu tenha sido um pouco apressado com a língua, forasteiro. Vamos considerar um erro honesto e encerrar isso...}{}{}{}{}
+{28}{Eu sinto o mesmo. Posso saber seu nome, senhor?}{}{5}{me 0}{32}{}
+{29}{Claro, Sebastian. Você tem um momento?}{}{5}{me 1}{36}{}
+{30}{E:}{}{5}{}{0}{}
+{32}{O nome é Sebastian.}{O nome é Sebastian.}{}{}{}{}
+{33}{Saudações, senhor. Tem um momento?}{}{5}{}{36}{}
+{36}{O que você precisa?}{O que você precisa?}{}{}{}{}
+{37}{Eu conversei com Edward Willoughsby sobre você...}{}{5}{}{56}{}
+{38}{Conte-me um pouco sobre o Furúnculo, Sebastian...}{}{5}{lf2 1, qu1161 0, gf2187 0, lf6 0}{97}{}
+{39}{Diga-me de novo o que está fazendo aqui, Sebastian...}{}{5}{lf3 1, qu1161 0, gf2187 0, lf6 0}{112}{}
+{40}{Posso ser capaz de resolver esse "problema", Sebastian...}{}{5}{lf4 1, qu1161 1, gf2187 0, lf6 0}{187}{}
+{41}{Ainda não resolvi esse "problema", Sebastian...}{}{5}{qu1161 2, gf2187 0, lf6 0}{202}{}
+{42}{Resolvi esse "problema", Sebastian...}{}{5}{qu1161 2, gf2187 1, lf6 0}{207}{}
+{43}{Talvez eu consiga resolver aquele "problema", Sebastian...}{}{5}{lf4 1, qu1162 1, gf2188 0, lf6 0}{187}{}
+{44}{Ainda não resolvi aquele "problema", Sebastian...}{}{5}{qu1162 2, gf2188 0, lf6 0}{202}{}
+{45}{Resolvi aquele "problema", Sebastian...}{}{5}{qu1162 2, gf2188 1, lf6 0}{209}{}
+{46}{Você disse que talvez estivesse interessado em me ajudar, Sebastian?}{}{5}{lf6 1, lf7 0}{212}{}
+{47}{Tem certeza de que não vai se juntar a mim, Sebastian?}{}{5}{lf7 1}{242}{jo 0 237}
+{48}{E:}{}{5}{}{0}{}
+{56}{Sim... o Sr. Willoughsby mencionou que alguém poderia aparecer aqui para tomar uma bebida. [Ele olha ao redor.] Posso respeitar um homem que tem coragem de fazer uma viagem até o Caldeirão...}{Sim... o Sr. Willoughsby mencionou que alguém poderia aparecer aqui para tomar uma bebida. [Ele olha ao redor.] Posso respeitar uma dama com fibra para fazer uma viagem até o Caldeirão...}{}{}{}{}
+{57}{Bem... acho que você poderia me chamar de um cidadão "preocupado"...}{}{5}{}{61}{}
+{58}{E:}{}{5}{}{0}{}
+{61}{[Ele lhe lança um olhar avaliador.] Entendo. O Sr. Willoughsby lhe contou sobre os... "planos"... dele aqui no Caldeirão?}{[Ele lhe lança um olhar avaliador.] Entendo. O Sr. Willoughsby lhe contou sobre os... "planos"... dele aqui no Caldeirão?}{}{}{}{}
+{62}{Ele mencionou. Talvez você possa me dar mais detalhes...?}{}{5}{}{66}{}
+{63}{E:}{}{5}{}{0}{}
+{66}{Bem... [Ele abaixa a voz, inclinando-se em sua direção.]... o Sr. Willoughsby tem suas preocupações sobre o que está acontecendo aqui no Caldeirão. Você sabe alguma coisa sobre o lugar?}{Bem... [Ele abaixa a voz, inclinando-se em sua direção.]... o Sr. Willoughsby tem suas preocupações sobre o que está acontecendo aqui no Caldeirão. Você sabe alguma coisa sobre o lugar?}{}{}{}{}
+{67}{Já estive por aí...}{}{5}{}{71}{re +5}
+{68}{Na verdade, não muito...}{}{5}{}{76}{re -5}
+{69}{E:}{}{5}{}{0}{}
+{71}{[Ele faz um aceno de aprovação.] Bem, então tenho certeza de que você sabe sobre o Clã Maug e a Gangue do Pollock...}{[Ele faz um aceno de aprovação.] Bem, então tenho certeza de que você sabe sobre o Clã Maug e a Gangue do Pollock...}{}{}{}{}
+{72}{Claro... quem não sabe?}{}{5}{}{107}{re +5}
+{73}{Bem... talvez você possa refrescar minha memória...}{}{5}{lf1 0}{76}{lf1 1, re -5}
+{74}{Bem... talvez você possa refrescar minha memória...}{}{5}{lf1 1}{97}{}
+{75}{E:}{}{5}{}{0}{}
+{76}{[Sebastian parece um pouco decepcionado com sua falta de conhecimento.] Hmmm. O Caldeirão não é um lugar onde você quer entrar sem saber do que se trata. A maioria dos lugares é assim, na verdade. Lembre-se disso... pode salvar sua vida algum dia...}{[Sebastian parece um pouco decepcionado com sua falta de conhecimento.] Hmmm. O Caldeirão não é um lugar onde você quer entrar sem saber do que se trata. A maioria dos lugares é assim, na verdade. Lembre-se disso... pode salvar sua vida algum dia...}{}{}{}{}
+{77}{Agradeço a dica, Sebastian. O que você estava dizendo?}{}{5}{}{97}{re +5}
+{78}{Não pedi seu conselho, amigo. Guarde para você da próxima vez...}{}{5}{}{93}{re -5}
+{79}{[Sorriso de deboche.] Eu estava TESTANDO VOCÊ, amigo. Até agora, você não está me impressionando...}{}{5}{ps 12}{86}{re +5}
+{80}{[Sorriso de deboche.] Eu estava TESTANDO VOCÊ, amigo. Até agora, você não está me impressionando...}{}{5}{ps -11}{89}{}
+{81}{E:}{}{5}{}{0}{}
+{86}{[Sebastian sorri; sua artimanha parece ter funcionado.] Gostei da sua técnica, amigo. Tenho que admitir... me pegou um pouco desprevenido. Bem feito...}{[Sebastian sorri; sua artimanha parece ter funcionado.] Gostei da sua técnica, amigo. Tenho que admitir... me pegou um pouco desprevenido. Bem feito...}{}{}{}{}
+{87}{Obrigado. Por que você não me diz o que VOCÊ acha deste lugar...}{}{5}{}{97}{}
+{89}{[Sebastian dá um sorrisinho; sua artimanha parece ter falhado.] Boa tentativa, amigo, mas você não está convencendo ninguém por aqui. Não estou gostando do rumo desta conversa... talvez o Sr. Willoughsby tenha se enganado ao lhe indicar para mim...}{[Sebastian sorri com desdém; sua artimanha parece ter falhado.] Boa tentativa, amigo, mas você não está convencendo ninguém por aqui. Não estou gostando do rumo desta conversa... talvez o Sr. Willoughsby tenha se enganado ao lhe indicar para mim...}{}{}{}{}
+{90}{Por favor, aceite minhas desculpas. Gostaria de ouvir o que você tem a dizer...}{}{5}{}{97}{}
+{91}{Hmmm. Ele vai precisar encaminhar você ao necrotério, idiota.}{}{5}{}{}{co, fl 20}
+{92}{Isso foi uma perda de tempo. Tenha um bom dia.}{}{5}{}{0}{}
+{93}{[A raiva lampeja em seus olhos, então uma frieza resoluta.] Tudo bem por mim, forasteiro. Não me importo se você acabar sangrando na sarjeta. Talvez devêssemos encerrar esta conversa...}{[A raiva lampeja em seus olhos, então uma frieza resoluta.] Tudo bem por mim, forasteiro. Não me importo se você acabar sangrando na sarjeta. Talvez devêssemos encerrar esta conversa...}{}{}{}{}
+{94}{Por favor, aceite minhas desculpas. Gostaria de ouvir o que você tem a dizer...}{}{5}{}{97}{re +5}
+{95}{Não, você está enganado. Vou ser EU quem vai deixar VOCÊ sangrando na sarjeta...}{}{5}{}{}{co, fl 20}
+{96}{Sim. Boa ideia. Me despeço de você.}{}{5}{}{0}{re -5}
+{97}{Bem, o Caldeirão é um lugar violento. Há duas gangues aqui que controlam a maior parte da atividade criminosa... uma é o Clã Maug, e a outra é a Gangue do Pollock.}{Bem, o Caldeirão é um lugar violento. Há duas gangues aqui que controlam a maior parte da atividade criminosa... uma é o Clã Maug, e a outra é a Gangue do Pollock.}{}{}{}{lf2 1}
+{98}{Entendo. Conte-me um pouco sobre elas...}{}{5}{}{102}{}
+{99}{K:}{}{5}{}{36}{}
+{100}{E:}{}{5}{}{0}{}
+{102}{Bem, a Gangue do Pollock é um grupo de desordeiros maltrapilhos que controla as coisas no Caldeirão Sul. O Clã Maug está entrincheirado no Bentley, um antigo hotel logo ao norte daqui. Eles são um pouco mais espertos que os rapazes da Gangue do Pollock, mas não menos letais...}{Bem, a Gangue do Pollock é um grupo de desordeiros maltrapilhos que controla as coisas no Caldeirão Sul. O Clã Maug está entrincheirado no Bentley, um antigo hotel logo ao norte daqui. Eles são um pouco mais espertos que os rapazes da Gangue do Pollock, mas não menos letais...}{}{}{}{}
+{103}{Prossiga...}{}{5}{}{107}{}
+{104}{E:}{}{5}{}{0}{}
+{107}{Como você pode imaginar, o Clã Maug e a Gangue do Pollock não se dão muito bem. Há muitas desavenças entre os membros das gangues, e a maioria termina com pessoas mortas...}{Como você pode imaginar, o Clã Maug e a Gangue do Pollock não se dão muito bem. Há muitas desavenças entre os membros das gangues, e a maioria termina com pessoas mortas...}{}{}{}{}
+{108}{Interessante. O que o Sr. Willoughsby tem a ver com tudo isso?}{}{5}{}{112}{}
+{109}{E:}{}{5}{}{0}{}
+{112}{Bem, o Sr. Willoughsby é um homem importante aqui na cidade. Ele está mais do que preocupado que a "escória" do Caldeirão se espalhe para as partes mais nobres de Tarant. E, claro, ele não pode permitir que isso aconteça...}{Bem, o Sr. Willoughsby é um homem importante aqui na cidade. Ele está mais do que preocupado que a "escória" do Caldeirão se espalhe para as partes mais nobres de Tarant. E, claro, ele não pode permitir que isso aconteça...}{}{}{}{lf3 1}
+{113}{Então é aí que você entra?}{}{5}{}{117}{}
+{114}{E:}{}{5}{}{0}{}
+{117}{[Sebastian sorri, de forma lupina.] Exatamente.}{[Sebastian sorri, de forma lupina.] Exatamente.}{}{}{}{}
+{118}{Hmmm. Parece algo em que eu poderia me envolver...}{}{5}{}{122}{}
+{119}{Bem, desejo-lhe sorte, Sebastian. Tenha um bom dia...}{}{5}{}{0}{}
+{122}{[Sebastian olha para você, estreitando os olhos.] Sério? Acha que está à altura desse tipo de trabalho, amigo?}{[Sebastian olha para você, estreitando os olhos.] Sério? Acha que está à altura desse tipo de trabalho, amigo?}{}{}{}{}
+{123}{Está questionando minha coragem? Não recomendo...}{}{5}{}{-11}{}
+{124}{Acho que estou à altura da tarefa...}{}{5}{}{142}{}
+{125}{O que você quer dizer com... "esse tipo de trabalho"?}{}{5}{}{137}{}
+{126}{E:}{}{5}{}{0}{}
+{127}{[Ele lhe lança um olhar duro, então assente com aprovação.] Sim, parece que você sabe se virar em uma briga. Nada pessoal...}{[Ele lhe lança um olhar duro, então assente aprovadoramente.] Sim, parece que você sabe se virar em uma briga. Nada pessoal...}{}{}{}{}
+{128}{Pode-se dizer que sim. Agora... o trabalho...}{}{5}{}{142}{}
+{130}{[Sebastian ri, parecendo pouco impressionado.] Você não vai se safar de uma briga com conversa por aqui, garoto. E nunca comigo. Ficamos entendidos?}{[Sebastian ri, parecendo pouco impressionado.] Você não vai se safar de uma briga com conversa por aqui, garota. E nunca comigo. Ficamos entendidos?}{}{}{}{}
+{131}{Sim, suponho que sim. Mas ainda estou interessado em trabalhar com você...}{}{5}{}{142}{}
+{132}{Ameace-me de novo, idiota, e você vai encher um túmulo...}{}{5}{}{}{co, fl 20}
+{133}{Estou cansado dessa conversa. Tenha um bom dia...}{}{5}{}{0}{}
+{137}{Que tipo de trabalho, você pergunta? [Sebastian lhe lança um olhar sombrio.] Bem, que tipo de trabalho você acha que é, amigo? Há uma infestação aqui no Caldeirão... alguém tem que dar um jeito nisso.}{Que tipo de trabalho, você pergunta? [Sebastian lhe lança um olhar sombrio.] Bem, que tipo de trabalho você acha que é, amigo? Há uma infestação aqui no Caldeirão... alguém tem que dar um jeito nisso.}{}{}{}{}
+{138}{Ah. Bem, estou ouvindo, Sebastian.}{}{5}{}{142}{}
+{139}{Acho que não estou interessado nesse tipo de coisa. Tenha um bom dia...}{}{5}{}{0}{}
+{142}{Bom, bom. Escute, eu sei um pouco sobre você... o Sr. Willoughsby sabe muito sobre o que acontece aqui em Tarant e no exterior, e ele me mantém informado. Não tenho certeza exata do que você está procurando, mas talvez eu possa ajudar.}{Bom, bom. Escute, eu sei um pouco sobre você... o Sr. Willoughsby sabe muito sobre o que acontece aqui em Tarant e no exterior, e ele me mantém informado. Não tenho certeza exata do que você está procurando, mas talvez eu possa ajudar.}{}{}{}{}
+{143}{O que é que você está propondo, Sebastian?}{}{5}{}{147}{}
+{147}{O que estou dizendo é... você me ajuda a resolver meu problema aqui no Caldeirão, então talvez eu seja persuadido a ajudá-lo com o seu. O que acha?}{O que estou dizendo é... você me ajuda a resolver meu problema aqui no Caldeirão, então talvez eu seja persuadido a ajudá-lo com o seu. O que acha?}{}{}{}{}
+{148}{Parece intrigante. Vamos continuar...}{}{5}{}{157}{re +5}
+{149}{Infelizmente, não preciso da sua ajuda. Obrigado mesmo assim. Adeus...}{}{5}{}{0}{re -5}
+{157}{[Sebastian assente com a cabeça, então abaixa a voz.] Bem, como você sabe, Darien Maug e Pollock sempre comandaram as coisas aqui no Caldeirão. Estou procurando resolver essa situação em particular...}{[Sebastian assente com a cabeça, então abaixa a voz.] Bem, como você sabe, Darien Maug e Pollock sempre comandaram as coisas aqui no Caldeirão. Estou procurando resolver essa situação em particular...}{}{}{}{}
+{158}{Bem, eu já "resolvi" o Pollock...}{}{5}{gf2187 1, gf2188 0}{167}{re + 5}
+{159}{Bem, eu já "resolvi" o Damien Maug...}{}{5}{gf2187 0, gf2188 1}{170}{re + 5}
+{160}{Desculpe, velho. Eu já matei os dois...}{}{5}{gf2187 1, gf2188 1}{173}{re +10}
+{161}{Entendo. O que você pretende fazer?}{}{5}{gf2187 0, gf2188 0}{176}{}
+{167}{Sério? Foi você? Meus respeitos, senhor. Ouvi falar desse trabalho... bonito e bagunçado...}{Sério? Foi você? Meus respeitos, senhora. Ouvi falar desse trabalho... bonito e bagunçado...}{}{}{}{}
+{168}{Obrigado. Então, o que você pretende fazer?}{}{5}{}{180}{}
+{170}{Sério? Foi você? Meus respeitos, senhor. Ouvi falar desse trabalho... bonito e bagunçado...}{Sério? Foi você? Meus respeitos, senhora. Ouvi falar desse trabalho... bonito e bagunçado...}{}{}{}{}
+{171}{Obrigado. Então, o que você pretende fazer?}{}{5}{}{182}{}
+{173}{O quê? Eu tinha ouvido falar de Pollock, mas Maug também? [Sebastian parece devidamente impressionado.] Bem, parece que você já cumpriu sua parte no acordo, meu amigo...}{O quê? Eu tinha ouvido falar de Pollock, mas Maug também? [Sebastian parece devidamente impressionado.] Bem, parece que você já cumpriu sua parte no acordo, meu amigo...}{}{}{}{}
+{174}{Não foi nada. E quanto à SUA parte, Sebastian?}{}{5}{}{212}{}
+{176}{Bem, normalmente, com toda a briga que acontece por aqui, as gangues tendem a se eliminar umas às outras. Mas ultimamente, dizem que o Clã Maug está ficando mais poderoso a cada dia... que é só uma questão de tempo até Darien Maug assumir TODAS as operações aqui no Caldeirão...}{Bem, normalmente, com toda a briga que acontece por aqui, as gangues tendem a se eliminar umas às outras. Mas ultimamente, dizem que o Clã Maug está ficando mais poderoso a cada dia... que é só uma questão de tempo até Darien Maug assumir TODAS as operações aqui no Caldeirão...}{}{}{}{}
+{177}{E daí?}{}{5}{}{178}{}
+{178}{Se Maug consolidar seu poder aqui no Caldeirão sem nenhuma oposição, o que o impediria de corromper o resto da cidade da mesma forma? Entendeu o que quero dizer, amigo?}{Se Maug consolidar seu poder aqui no Caldeirão sem nenhuma oposição, o que o impediria de corromper o resto da cidade da mesma forma? Entendeu o que quero dizer, amigo?}{}{}{}{}
+{179}{Claro. Você quer se livrar de Maug.}{}{5}{}{187}{}
+{180}{Bem, com Pollock morto, Maug consolidou seu poder aqui no Caldeirão. O que o impediria de corromper o resto da cidade da mesma forma? Entendeu o que quero dizer, amigo?}{Bem, com Pollock morto, Maug consolidou seu poder aqui no Caldeirão. O que o impediria de corromper o resto da cidade da mesma forma? Entendeu o que quero dizer, amigo?}{}{}{}{}
+{181}{Claro. Você quer se livrar de Maug.}{}{5}{}{187}{}
+{182}{Bem, com Maug morto, Pollock consolidou seu poder aqui no Caldeirão. O que o impediria de corromper o resto da cidade da mesma forma? Entendeu o que quero dizer, amigo?}{Bem, com Maug morto, Pollock consolidou seu poder aqui no Caldeirão. O que o impediria de corromper o resto da cidade da mesma forma? Entendeu o que quero dizer, amigo?}{}{}{}{}
+{183}{Claro. Você quer se livrar de Pollock.}{}{5}{}{197}{}
+{187}{É o seguinte que estou propondo. Você se livra de Darien Maug para mim, e talvez eu pense em ajudar você a resolver seu problema... seja lá qual for...}{Sim. É o seguinte que estou propondo. Você se livra de Darien Maug para mim, e talvez eu pense em ajudar você a resolver seu problema... seja lá qual for...}{}{}{}{qu1162 1}
+{188}{Feito.}{}{5}{}{192}{qu1162 2}
+{189}{Está louco? Como se eu fosse trair minha própria gangue! Morra, idiota!}{}{5}{rp 1002}{}{co,fl 20}
+{190}{Hmmm. Interessante. Vou pensar no assunto e volto a falar com você...}{}{5}{}{}{lf4 1, fl 191}
+{191}{Faça isso. Estarei esperando aqui se quiser conversar mais sobre o assunto...}{Faça isso. Estarei esperando aqui se quiser conversar mais sobre o assunto...}{}{}{}{}
+{192}{Ótimo. Quando resolver o problema, volte aqui e conversaremos mais...}{Ótimo. Quando resolver o problema, volte aqui e conversaremos mais...}{}{}{}{}
+{193}{E:}{}{5}{}{0}{}
+{197}{É o seguinte que estou propondo. Você se livra de Pollock para mim, e talvez eu pense em ajudar você a resolver seu problema... seja lá qual for...}{É o seguinte que estou propondo. Você se livra de Pollock para mim, e talvez eu pense em ajudar você a resolver seu problema... seja lá qual for...}{}{}{}{qu1161 1}
+{198}{Feito.}{}{5}{}{192}{qu1161 2}
+{199}{Está louco? Como se eu fosse trair minha própria gangue! Morra, idiota!}{}{5}{rp 1003}{}{co,fl 20}
+{200}{Hmmm. Interessante. Vou pensar no assunto e volto a falar com você...}{}{5}{}{}{lf4 1, fl 191}
+{202}{Bem, boa sorte para você. Volte aqui quando tiver resolvido...}{Bem, boa sorte para você. Volte aqui quando tiver resolvido...}{}{}{}{}
+{203}{E:}{}{5}{}{0}{}
+{207}{Sim... eu tinha ouvido falar disso. Bem feito.}{Sim...eu tinha ouvido falar sobre isso. Bem feito.}{}{}{}{qu1161 4}
+{208}{Então...você disse que poderia estar interessado em me ajudar?}{}{5}{}{212}{}
+{209}{Sim...eu tinha ouvido falar sobre isso. Bem feito.}{Sim...eu tinha ouvido falar sobre isso. Bem feito.}{}{}{}{qu1162 4}
+{210}{Então...você disse que poderia estar interessado em me ajudar?}{}{5}{}{212}{}
+{212}{Sim...você parece um sujeito bastante competente. No que exatamente está envolvido?}{Sim...você parece uma mulher bastante competente. No que exatamente está envolvida?}{}{}{}{lf6 1}
+{213}{Bem, essa é uma longa história...[Conte para ele.]}{}{5}{}{222}{}
+{214}{Desculpe, não posso falar. Mas ainda espero que cumpra sua obrigação...}{}{5}{}{217}{}
+{215}{Talvez conversemos sobre isso mais tarde. Tenha um bom dia...}{}{5}{}{0}{}
+{217}{[Ele balança a cabeça, olhando de volta para sua cerveja.] Desculpe, amigo. Não entro às cegas em QUALQUER situação sem saber no que estou me metendo. Se continuar de boca fechada, terá que seguir sozinho...}{[Ele balança a cabeça, olhando de volta para sua cerveja.] Desculpe, amigo. Não entro às cegas em QUALQUER situação sem saber no que estou me metendo. Se continuar de boca fechada, terá que seguir sozinho...}{}{}{}{}
+{218}{Tudo bem. É uma longa história...[Conte para ele.]}{}{5}{}{222}{}
+{219}{Esqueça. Isso não fazia parte do acordo. Tenha um bom dia.}{}{5}{}{0}{}
+{220}{Talvez conversemos sobre isso mais tarde. Tenha um bom dia...}{}{5}{}{0}{}
+{222}{[Ele espera um pouco antes de continuar.] Então. Está me dizendo que tudo isso aconteceu com você porque foi o único sobrevivente do desastre do IFS Zéfiro?}{[Ele espera um pouco antes de continuar.] Então. Está me dizendo que tudo isso aconteceu com você porque foi o único sobrevivente do desastre do IFS Zéfiro?}{}{}{}{}
+{223}{Sim.}{}{5}{}{232}{}
+{224}{Não...mas foi uma boa piada, não foi, velho?}{}{5}{}{227}{}
+{225}{E:}{}{5}{}{0}{}
+{227}{[Sebastian parece um pouco confuso.] Hmmm. Sua história não parece verdadeira, amigo. Talvez seja melhor seguirmos caminhos separados aqui...}{[Sebastian parece um pouco confuso.] Hmmm. Sua história não parece verdadeira, amigo. Talvez seja melhor seguirmos caminhos separados aqui...}{}{}{}{}
+{228}{E:}{}{5}{}{0}{}
+{232}{Bem, não sou nenhum herói, mas gosto de uma boa briga. Você parece do tipo confiável, e posso estar disposto a dar uma mão...}{Bem, não sou nenhum herói, mas gosto de uma boa briga. Você parece do tipo confiável, e posso estar disposto a dar uma mão...}{}{}{}{}
+{233}{Então, vai se juntar a mim...?}{}{5}{}{242}{jo 0 237}
+{237}{Certamente, amigo. Por que não seguimos nosso caminho...}{Certamente, amigo. Por que não seguimos nosso caminho...}{}{}{}{}
+{238}{Seja bem-vindo, Sebastian.}{}{5}{}{0}{}
+{242}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{}{}{lf7 1}
+{243}{K:}{}{5}{}{36}{}
+{244}{E:}{}{5}{}{0}{}
+{256}{O que posso fazer por você?}{O que posso fazer por você?}{}{}{}{}
+{257}{B:}{}{5}{wa 0}{}{}
+{258}{Tenho algumas perguntas para você, Sebastian...}{}{5}{wa 0}{264}{}
+{259}{Gostaria que fizesse algo por mim, Sebastian...}{}{5}{wa 0}{354}{}
+{260}{Que tipo de coisas você pode fabricar, Sebastian?}{}{5}{wa 0}{}{su}
+{261}{Pode parar de esperar agora, Sebastian...}{}{5}{wa 1}{376}{uw 0 362}
+{262}{E:}{}{5}{}{0}{}
+{263}{Hã...}{}{-4}{}{}{fl 550}
+{264}{O que você precisa saber?}{O que você precisa saber?}{}{}{}{}
+{265}{Gostaria de saber algumas coisas sobre você, Sebastian...}{}{5}{}{}{ce}
+{266}{Você sabe algo sobre a Ilha de Thanatos, Sebastian?}{}{5}{ss 17, ss -17}{541}{}
+{267}{Sebastian! O que vamos fazer agora?}{}{5}{ss 24, ss -24}{545}{}
+{268}{O que sabe sobre este lugar? [Colinas Nebulosas.]}{}{5}{ia 1}{388}{}
+{269}{O que sabe sobre este lugar? [Tarant.]}{}{5}{ia 21}{392}{}
+{270}{O que você sabe sobre este lugar? [Black Root.]}{}{5}{ia 3}{396}{}
+{271}{O que você sabe sobre este lugar? [Stillwater.]}{}{5}{ia 10}{400}{}
+{272}{O que sabe sobre este lugar? [Thanatos.]}{}{5}{ia 23}{405}{}
+{273}{Você parece chateado comigo, Sebastian! Tem algo que eu possa fazer por você?}{}{5}{re -20}{330}{}
+{274}{E:}{}{5}{}{0}{}
+{330}{Estou um pouco insatisfeito com a forma como toda esta operação é conduzida, amigo. Claro, uma garrafa de vinho sempre ajuda um homem a esquecer seus problemas...}{Estou um pouco insatisfeito com a forma como toda esta operação é conduzida, amigo. Claro, uma garrafa de vinho sempre ajuda um homem a esquecer seus problemas...}{}{}{}{}
+{331}{Ora, Sebastian... isso é realmente necessário?}{}{5}{ch 20}{336}{re +20}
+{332}{Entendo. E por acaso tenho um pouco aqui mesmo...}{}{5}{in 3608, ch -19}{-17}{re +20}
+{333}{Vou ver se consigo arranjar um pouco para você, Sebastian...}{}{5}{in -3608, ch -19}{344}{}
+{334}{Oh, as coisas tolas com que sonhamos! Vamos, que tal?}{}{5}{}{}{re -5, fl 346}
+{336}{[Sebastian lhe lança um olhar perspicaz, então sorri.] Hmmm. Talvez EU esteja sendo um pouco irracional aqui. Vamos simplesmente esquecer que eu disse qualquer coisa...}{[Sebastian lhe lança um olhar perspicaz, então sorri.] Hmmm. Talvez EU esteja sendo um pouco irracional aqui. Vamos simplesmente esquecer que eu disse qualquer coisa...}{}{}{}{}
+{337}{E:}{}{5}{}{0}{}
+{338}{[Ele pega a garrafa, terminando-a em um longo gole.] Ah. Vamos seguir em frente, não é?}{[Ele pega a garrafa, terminando-a em um longo gole.] Ah. Vamos seguir em frente, não é?}{}{}{}{}
+{339}{Então você vai se juntar a mim novamente, Sebastian?}{}{5}{}{376}{jo 0 378}
+{340}{E:}{}{5}{}{0}{}
+{344}{Quanto antes, melhor, amigo...}{Quanto antes, melhor, amigo...}{}{}{}{}
+{345}{E:}{}{5}{}{0}{}
+{346}{Entendo. Acho que todos temos que fazer nossas escolhas, amigo...}{Entendo. Acho que todos temos que fazer nossas escolhas, amigo...}{}{}{}{}
+{354}{O que você precisa que eu faça?}{O que você precisa que eu faça?}{}{}{}{}
+{355}{Saia do caminho, Sebastian.}{}{5}{}{0}{so}
+{356}{Chegue um pouco mais perto, Sebastian.}{}{5}{}{0}{sc}
+{357}{Espere aqui por um tempo...}{}{5}{wa 0}{365}{wa}
+{358}{Pode parar de esperar agora, Sebastian.}{}{5}{wa 1}{376}{uw 0 362}
+{359}{Acho melhor você deixar o grupo.}{}{5}{}{368}{lv}
+{360}{[Voltar]}{}{5}{}{256}{}
+{362}{Vamos seguir em frente...}{Vamos seguir em frente...}{}{}{}{}
+{363}{E:}{}{5}{}{0}{}
+{365}{Vou esperar aqui por um tempinho, mas não demore muito...}{Vou esperar aqui por um tempinho, mas não demore muito...}{}{}{}{}
+{366}{E:}{}{5}{}{0}{}
+{368}{Entendo. Bem, boa sorte para você.}{Entendo. Bem, boa sorte para você.}{}{}{}{lf31 1}
+{369}{E:}{}{5}{}{0}{}
+{371}{Saudações, amigo. O que o traz de volta aqui?}{Saudações, amigo. O que o traz de volta aqui?}{}{}{}{}
+{372}{Você vai se juntar a mim?}{}{5}{}{376}{jo 0 378}
+{373}{Você parece chateado comigo, Sebastian! Há algo que eu possa fazer por você?}{}{5}{re -20}{330}{}
+{374}{E:}{}{5}{}{0}{}
+{375}{Hã...}{}{-4}{}{}{fl 550}
+{376}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{}{}{}
+{377}{E:}{}{5}{}{0}{}
+{378}{Sim, parece uma boa ideia. Vamos nessa...}{Sim, parece uma boa ideia. Vamos nessa...}{}{}{}{lf31 0}
+{379}{E:}{}{5}{}{0}{}
+{381}{Hmmm. Me fez esperar bastante tempo, não é?}{Hmmm. Me fez esperar bastante tempo, não é?}{}{}{}{}
+{382}{Desculpe por isso, Sebastian. Vai me acompanhar novamente?}{}{5}{}{376}{jo 0 386}
+{383}{Você parece chateado comigo, Sebastian! Há algo que eu possa fazer por você?}{}{5}{re -20}{330}{}
+{384}{E:}{}{5}{}{0}{}
+{385}{Hã...}{}{-4}{}{}{fl 550}
+{386}{Sim, acho que estou pronto para ir...}{Sim, acho que estou pronto para ir...}{}{}{}{}
+{387}{E:}{}{1}{}{0}{}
+{388}{Shrouded Hills... uma pequena cidade mineradora. Até onde eu sei, não acontece muita coisa por aqui...}{Shrouded Hills... uma pequena cidade mineradora. Até onde eu sei, não acontece muita coisa por aqui...}{}{}{}{}
+{389}{K:}{}{1}{}{256}{}
+{390}{E:}{}{1}{}{0}{}
+{392}{Esta é Tarant. A cidade tem quase tudo de que você possa precisar... um bom lugar para um tecnólogo. [Sebastian sorri, sombriamente.] E sempre há muito trabalho para um homem que não tem medo de sujar um pouco as mãos...}{Esta é Tarant. A cidade tem quase tudo de que você possa precisar... um bom lugar para um tecnólogo. [Sebastian sorri, sombriamente.] E sempre há muito trabalho para um homem que não tem medo de sujar um pouco as mãos...}{}{}{}{}
+{393}{K:}{}{1}{}{256}{}
+{394}{E:}{}{1}{}{0}{}
+{396}{Esta é Black Root. Tome cuidado por aqui... muitos marinheiros bêbados sem nada para fazer além de arranjar confusão. Se estiver procurando informações, o Sour Barnacle, lá nos docas, é sempre um bom lugar para começar...}{Esta é Black Root. Tome cuidado por aqui... muitos marinheiros bêbados sem nada para fazer além de arranjar confusão. Se estiver procurando informações, o Sour Barnacle, lá nos docas, é sempre um bom lugar para começar...}{}{}{}{}
+{397}{K:}{}{1}{}{256}{}
+{398}{E:}{}{1}{}{0}{}
+{400}{Stillwater? Eles fabricam boas armas por aqui... pelo menos é o que eu sei. E um homem como eu está sempre no mercado por boas armas...}{Stillwater? Eles fabricam boas armas por aqui... pelo menos é o que eu sei. E um homem como eu está sempre no mercado por boas armas...}{}{}{}{}
+{401}{K:}{}{1}{}{256}{}
+{402}{E:}{}{1}{}{0}{}
+{405}{O que eu sei sobre Thanatos? O que eu não sei sobre ela, meu caro? Territórios inexplorados, bestas malignas devoradoras de homens e mais mitos e lendas do que um maldito historiador élfico! Ha HA! Não há lugar onde eu preferiria estar!}{O que eu sei sobre Thanatos? O que eu não sei sobre ela, madame? Territórios inexplorados, bestas malignas devoradoras de homens e mais mitos e lendas do que um maldito historiador élfico! Ha HA! Não há lugar onde eu preferiria estar!}{}{}{}{}
+{406}{K:}{}{1}{}{256}{}
+{407}{E:}{}{1}{}{0}{}
+{541}{Thanatos? Não sei muito, a não ser que dizem ser o lugar mais perigoso que existe. Não sou de fugir de uma briga, mas não estou especialmente ansioso para visitá-lo...}{Thanatos? Não sei muito, a não ser que dizem ser o lugar mais perigoso que existe. Não sou de fugir de uma briga, mas não estou especialmente ansioso para visitá-lo...}{}{}{}{}
+{542}{Mais uma ou duas coisas...}{}{5}{}{256}{}
+{543}{E:}{}{1}{}{0}{}
+{545}{O que você acha que vamos fazer? Vamos desligar este jogo e ir para a cama! Às vezes me pergunto sobre você...}{O que você acha que vamos fazer? Vamos desligar este jogo e ir para a cama! Às vezes me pergunto sobre você...}{}{}{}{}
+{546}{Mais uma ou duas coisas...}{}{5}{}{256}{}
+{547}{E:}{}{1}{}{0}{}
+{550}{[Sebastian lança um olhar duro para você, desaprovando seu estado mental atual.]}{[Sebastian lança um olhar duro para você, desaprovando seu estado mental atual.]}{}{}{}{}
+

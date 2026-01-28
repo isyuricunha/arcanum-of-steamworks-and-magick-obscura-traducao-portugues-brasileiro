@@ -1,0 +1,128 @@
+{0}{Pontos}
+{1}{Nível}
+{2}{XP Próximo}
+{3}{}
+{4}{Raça}
+{5}{Gênero}
+{6}{Idade}
+{7}{Atributos Derivados}
+{8}{Resistência}
+{9}{Base} 
+{10}{Ajust.}
+{11}{Total}
+{12}{Dano}
+{13}{Magia}
+{14}{Fogo}
+{15}{Veneno}
+{16}{Elétrico}
+{17}{O atributo atingiu seu valor máximo.}
+{18}{Você não tem pontos de personagem suficientes.}
+{19}{Você não pode reduzir este atributo abaixo do último nível aceito.}
+{20}{O atributo atingiu seu valor mínimo.}
+{21}{A habilidade atingiu seu valor máximo.}
+{22}{Você precisa aumentar seus atributos primeiro.}
+{23}{Você não pode reduzir esta habilidade abaixo do último nível aceito.}
+{24}{Você não tem pontos nesta habilidade.}
+{25}{A habilidade atingiu seu valor mínimo.}
+{26}{Você precisa aumentar sua Inteligência primeiro.}
+{27}{Não é possível revender um feitiço aceito.}
+{28}{O atributo não pode ser reduzido porque o nível atual é pré-requisito para uma habilidade.}
+{29}{Sua Inteligência não pode ser reduzida porque o nível atual é pré-requisito para um feitiço.}
+{30}{Seu nível não é alto o suficiente para comprar este feitiço.}
+{31}{Sua Inteligência não pode ser reduzida porque o nível atual é pré-requisito para uma disciplina tecnológica.}
+{32}{Você precisa aumentar sua Força primeiro.}
+{33}{Você precisa aumentar sua Destreza primeiro.}
+{34}{Você deve aumentar sua Constituição primeiro.}
+{35}{Você deve aumentar sua Beleza primeiro.}
+{36}{Você deve aumentar sua Força de Vontade primeiro.}
+{37}{Você deve aumentar sua Percepção primeiro.}
+{38}{Você deve aumentar seu Carisma primeiro.}
+{39}{Sua Força de Vontade não pode ser reduzida porque o nível atual é um pré-requisito para um feitiço.}
+{40}{Fadiga}
+{41}{Missão}
+{42}{segundo}
+{43}{segundos}
+{44}{Nível Mínimo}
+
+{100}{Retrato
+Esta é a aparência do personagem.}
+{101}{Informações do Personagem
+Estas são algumas informações pessoais básicas.}
+{102}{Medidor de Alinhamento
+Este é o alinhamento do personagem, uma medida de bem e mal.}
+{103}{Pontos Disponíveis
+Estes são os pontos disponíveis para gastar na melhoria do personagem. Um ponto é recebido cada vez que o personagem sobe de nível.}
+{104}{Nível
+Este é o nível atual do personagem. Os pontos de experiência ganhos no jogo aumentarão o nível e fornecerão mais pontos para gastar.}
+{105}{Experiência Necessária
+Esta é a quantidade de pontos de experiência necessários para subir ao próximo nível.}
+{106}{Saúde
+Dano reduzirá os pontos de vida, e quando chegar a 0, a morte ocorre. Saúde é baseada em Força e Força de Vontade.}
+{107}{Fadiga
+Lançar feitiços, sobrecarga e alguns danos reduzirão os pontos de fadiga, e quando chegar a 0, a inconsciência ocorre. Fadiga é baseada em Constituição e Força de Vontade.}
+{108}{Medidor de Magitecnologia
+Esta escala exibe a aptidão mágico-tecnológica. Quanto mais alta a agulha, mais mágico, e quanto mais baixa, mais tecnológico.}
+{109}{Força
+Como poder muscular físico, a Força determina quanto dano pode ser infligido e absorvido. Armas têm uma Força mínima para operá-las efetivamente.}
+{110}{Constituição
+Os limites de resistência do corpo, a Constituição determina a fadiga e a resistência a venenos e alguns feitiços.}
+{111}{Destreza
+Como coordenação geral do corpo, a Destreza afeta a habilidade padrão em mais perícias do que qualquer outro atributo.}
+{112}{Beleza
+Como aparência física, a Beleza afeta a reação inicial das pessoas a este personagem.}
+{113}{Inteligência
+Como poder mental, a Inteligência afeta várias perícias, além de ser o fator limitante no aprendizado de feitiços e habilidades tecnológicas.}
+{114}{Força de Vontade
+A capacidade de resistir a influências mentais, a Força de Vontade limita o lançamento de feitiços, afeta a Pechincha e contribui para pontos de vida, fadiga e certas resistências a feitiços.}
+{115}{Percepção
+A habilidade de notar o ambiente, a Percepção também afeta a capacidade de usar armas de longo alcance com eficácia.}
+{116}{Carisma
+A soma da personalidade e charme, o Carisma afeta a capacidade de persuadir os outros e mudar sua reação inicial.}
+{117}{Atributos Derivados
+Estes são atributos baseados nos atributos básicos acima. Feitiços e itens também podem modificá-los.}
+{118}{Capacidade de Carga
+Esta é a quantidade total de equipamento que pode ser carregada e é baseada em Força.}
+{119}{Bônus de Dano
+Este é o dano extra causado por qualquer ataque corpo a corpo e é baseado em Força.}
+{120}{Ajuste de Classe de Armadura
+Esta é uma melhoria na CA que torna o personagem mais difícil de ser atingido. Baseia-se em Destreza.}
+{121}{Velocidade
+Com maior Velocidade, o personagem se move mais rápido e realiza mais ataques. A Velocidade pode ser modificada por sobrecarga e escolha de arma. A Velocidade é baseada em Destreza.}
+{122}{Taxa de Cura
+Esta é a taxa na qual os pontos de vida são recuperados e é baseada em Constituição.}
+{123}{Recuperação de Veneno
+Esta é a taxa na qual o veneno é metabolizado, reduzindo o dano causado por ele. Baseia-se em Constituição.}
+{124}{Modificador de Reação
+Este é o ajuste na reação inicial que os outros têm. Baseia-se em Beleza.}
+{125}{Máximo de Seguidores
+Este é o número máximo de pessoas que seguem este personagem devido à liderança. Baseia-se em Carisma.}
+{126}{Resistência
+Existem cinco resistências básicas que podem variar de 0 a 95%. Itens, histórico, raça e magia podem modificar todas as resistências.}
+{127}{Resistência a Dano
+Esta é uma resistência geral a danos causados por armas e ataques físicos.}
+{128}{Resistência a Magia
+Esta é a resistência a feitiços e efeitos mágicos. Diferente da Aptidão Tecnológica, a resistência à magia não afeta o uso de itens ou feitiços.}
+{129}{Resistência a Fogo
+Esta é a resistência a danos por fogo e feitiços que produzem fogo.}
+{130}{Resistência a Veneno
+Esta é a resistência a danos causados por qualquer tipo de envenenamento, seja natural, artificial ou sobrenatural. É afetada pela Constituição.}
+{131}{Resistência a Eletricidade
+Esta é a resistência a danos por eletricidade e relâmpagos de feitiços ou dispositivos tecnológicos.}
+{132}{Habilidades
+Este botão ativará a exibição das habilidades abaixo. As habilidades são divididas em quatro grupos: Combate, Ladrão, Sociais e Tecnológicas.}
+{133}{Disciplinas Tecnológicas
+Este botão ativará a exibição das disciplinas tecnológicas abaixo. Existem oito disciplinas, cada uma com 7 graus disponíveis.}
+{134}{Escolas de Magia
+Este botão ativará a exibição das escolas de magia abaixo. Existem 16 escolas, cada uma com 5 feitiços disponíveis.}
+{135}{Habilidades de Combate
+Estas são as habilidades usadas principalmente para atacar e se defender durante o combate.}
+{136}{Habilidades de Ladrão
+Estas são habilidades usadas principalmente por ladrões, embora também tenham outros usos não criminosos.}
+{137}{Habilidades Sociais
+Estas são as habilidades usadas com outras pessoas ou em situações sociais.}
+{138}{Habilidades Tecnológicas
+Estas são habilidades que lidam com tecnologia. Comprar essas habilidades aumentará a Aptidão Tecnológica.}
+{139}{Grau Atual
+Este é o grau atual na disciplina tecnológica selecionada. O número à direita é a Expertise e controla quais tipos de esquemas podem ser usados.}
+{140}{Esquemas de Nivelamento Automático
+Este botão ativará a exibição dos esquemas de nivelamento automático disponíveis. Esses esquemas gastam pontos de personagem automaticamente.}

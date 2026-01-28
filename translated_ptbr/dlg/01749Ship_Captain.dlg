@@ -1,0 +1,713 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá, desejo reservar uma passagem em seu navio.}{}{5}{lf6 0, lf15 0}{27}{}
+{3}{Preciso de uma passagem para a Ilha do Desespero.}{}{5}{lf8 0, ss 5, ss -6}{542}{gv 1036 7}
+{4}{Você pode me dar uma passagem para a Ilha do Desespero?}{}{5}{lf8 1, ss 5, ss -6}{654}{gv 1036 7}
+{5}{Gostaria de uma passagem para Thanatos.}{}{5}{lf3 0, ss 17, ss -17, gf2037 1}{527}{}
+{6}{Posso reservar uma passagem para Thanatos?}{}{5}{lf3 1, ss 17, ss -17, gf2037 1}{538}{}
+{7}{Preciso que alguém me leve para Caladon.}{}{5}{lf4 0, ss 12, ss -12}{44}{gv 1036 4, ss13}
+{8}{Preciso que alguém me leve para Caladon.}{}{5}{lf4 0, ss 13}{44}{gv 1036 4}
+{9}{Tarant é certamente uma cidade incrível!}{}{5}{lf21 1}{559}{}
+{10}{O que pode me dizer sobre Ashbury?}{}{5}{lf8 1}{578}{}
+{11}{Os estaleiros de Black Root são bastante impressionantes.}{}{5}{lf3 1}{588}{}
+{12}{Quais são alguns pontos de interesse aqui em Caladon?}{}{5}{lf4 1}{595}{}
+{13}{Estou procurando uma passagem para a Ilha do Meio-Ogro.}{}{5}{lf 6 0, qa1143 2}{44}{gv 1036 6}
+{14}{Gostaria de voltar para Caladon, por favor.}{}{5}{lf6 1}{705}{}
+{15}{Gostaria de voltar para Ashbury, por favor.}{}{5}{lf15 1}{705}{}
+{16}{Ah! Tarant é divertida!}{}{-4}{lf21 1}{559}{}
+{17}{O que você me diz sobre Ashberry?}{}{-4}{lf8 1}{578}{}
+{18}{Black Root tem um bom lugar para construir navios.}{}{-4}{lf3 1}{588}{}
+{19}{O que há de bom para ver em Caladon?}{}{-4}{lf4 1}{595}{}
+{20}{Eu quero ir para Thanatos.}{}{-4}{lf3 0, ss 17, ss -17, gf2037 1}{527}{}
+{21}{Eu quero ir para Thanatos.}{}{-4}{lf3 1, ss 17, ss -17, gf2037 1}{538}{}
+{22}{Posso ir com você no barco?}{}{-4}{lf6 0, lf15 0}{608}{}
+{23}{Eu quero voltar para Caladon agora?}{}{-4}{lf6 1}{705}{}
+{24}{Eu quero voltar para Ashberry agora?}{}{-4}{lf15 1}{705}{}
+{25}{Eu quero voltar para Tarant agora?}{}{-4}{lf21 0, lf4 1}{711}{}
+{26}{E:}{}{1}{}{0}{}
+{27}{Para onde gostaria de ir?}{Para onde gostaria de ir?}{}{}{}{}
+{28}{Não sei? Para onde devo ir?}{}{5}{ss -1}{0}{fl 516}
+{29}{Gostaria de ir para Tarant.}{}{5}{lf21 0, ss 2}{44}{gv 1036 1}
+{30}{Ashbury seria um bom destino.}{}{5}{lf8 0, lf21 0,ss 5}{44}{gv 1036 2}
+{31}{Gostaria de ir para Ashbury.}{}{5}{lf21 1,ss 5}{520}{gv 1036 2}
+{32}{Que tal Black Root?}{}{5}{lf8 0, lf3 0, lf21 0, ss 3}{44}{gv 1036 3}
+{33}{Raiz Negra, por favor.}{}{5}{lf21 1, ss 3}{517}{gv 1036 3}
+{34}{Quero ir para Caladon}{}{5}{lf4 0, ss 12, ss -12}{44}{gv 1036 4, ss13}
+{35}{Quero ir para Caladon}{}{5}{lf4 0,  ss13}{44}{gv 1036 4}
+{36}{Posso ir para Thanatos?}{}{5}{lf3 0, ss 17, ss -17, gf2037 1}{527}{gv 1036 6}
+{37}{Gostaria de ir para Thanatos.}{}{5}{lf3 1, ss 17, ss -17, gf2037 1}{538}{gv 1036 6}
+{38}{Mi qué ir pa Thanatos.}{}{-4}{lf3 0, ss 17, ss -17, gf2037 1}{527}{gv 1036 6}
+{39}{Mi qué ir pa Thanatos.}{}{-4}{lf3 1, ss 17, ss -17, gf2037 1}{538}{gv 1036 6}
+{40}{A Ilha do Desespero, por favor.}{}{5}{lf15 0, lf8 0, ss 5, ss -6}{542}{gv 1036 7}
+{41}{Gostaria de ir para a Ilha do Desespero.}{}{5}{lf15 0, lf8 1, ss 5, ss -6}{654}{gv 1036 7}
+{42}{Gostaria de ir para a Ilha dos Meio-Ogros.}{}{5}{lf 6 0, qa1143 2}{44}{gv 1036 6}
+{43}{E:}{}{1}{}{0}{}
+{44}{A passagem vai custar 100 moedas por cabeça.}{A passagem vai custar 100 moedas por cabeça.}{}{}{}{}
+{45}{Passagem para apenas um.}{}{1}{gv 1035 1}{81}{}
+{46}{Passagem para dois.}{}{1}{gv 1035 2}{119}{}
+{47}{Passagem para três.}{}{1}{gv 1035 3}{157}{}
+{48}{Passagem para quatro.}{}{1}{gv 1035 4}{195}{}
+{49}{Passagem para cinco.}{}{1}{gv 1035 5}{233}{}
+{50}{Passagem para seis.}{}{1}{gv 1035 6}{271}{}
+{51}{Passagem para sete.}{}{1}{gv 1035 7}{309}{}
+{52}{Passagem para oito.}{}{1}{gv 1035 8}{347}{}
+{53}{Passagem para nove.}{}{1}{gv 1035 9}{385}{}
+{54}{Passagem para dez.}{}{1}{gv 1035 10}{404}{}
+{55}{Passagem para onze.}{}{1}{gv 1035 11}{423}{}
+{56}{Passagem para doze.}{}{1}{gv 1035 12}{442}{}
+{57}{Passagem para treze ou mais.}{}{1}{gv 1035 13}{461}{}
+{58}{Essa tarifa está alta! Não há uma tarifa melhor disponível?}{}{5}{ha 12}{485}{}
+{59}{Essa tarifa está alta! Não há uma tarifa melhor disponível?}{}{5}{ha -11}{480}{}
+{60}{Gostaria de ir para outro lugar.}{}{5}{}{27}{}
+{61}{Hã... Mi num qué ir lá. Vai pra um lugá diferenti.}{}{-4}{}{27}{}
+{62}{Se você conseguir calcular, sabe que vai custar 50 moedas}{Se o senhor conseguir calcular, então sabe que serão 50 moedas}{}{}{}{}
+{63}{Estou pronto para ir a Tarant.}{}{5}{gv 1036 1,$$ 50}{-20}{$$ -50}
+{64}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 50}{-22}{$$ -50}
+{65}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 50}{-24}{$$ -50}
+{66}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 50}{-26}{$$ -50}
+{67}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 50}{-30}{$$ -50}
+{68}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 50}{-32}{$$ -50}
+{69}{Está aceitável, vamos partir imediatamente.}{}{5}{$$ -49}{514}{}
+{70}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -49}{644}{}
+{71}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{72}{mim ir tarant.}{}{-4}{gv 1036 1,$$ 50}{-20}{$$ -50}
+{73}{mim ir asshhhberry.}{}{-4}{gv 1036 2,$$ 50}{-22}{$$ -50}
+{74}{mim ir back wroot.}{}{-4}{gv 1036 3,$$ 50}{-24}{$$ -50}
+{75}{mim ir cawedon.}{}{-4}{gv 1036 4,$$ 50}{-26}{$$ -50}
+{76}{Mim ir Haf Oger I Lan.}{}{-4}{gv 1036 6,$$ 50}{-30}{$$ -50}
+{77}{mim ir o olho do dispear.}{}{-4}{gv 1036 7,$$ 50}{-32}{$$ -50}
+{78}{mim prontu pra ir.}{}{-4}{$$ -49}{514}{}
+{79}{mim não tem dinheiro, mim quer ir no barquinho de ovelha.}{}{-4}{$$ -49}{644}{}
+{80}{mim volta aqui de novo.}{}{-4}{}{0}{}
+{81}{Se o senhor conseguir calcular, então sabe que serão 100 moedas}{Se o senhor conseguir calcular, então sabe que serão 100 moedas}{}{}{}{}
+{82}{Estou pronto para ir a Tarant.}{}{5}{gv 1036 1,$$ 100}{-20}{$$ -100}
+{83}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 100}{-22}{$$ -100}
+{84}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 100}{-24}{$$ -100}
+{85}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 100}{-26}{$$ -100}
+{86}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 100}{-30}{$$ -100}
+{87}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 100}{-32}{$$ -100}
+{88}{Está aceitável, vamos partir imediatamente.}{}{5}{$$ -99}{514}{}
+{89}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -99}{644}{}
+{90}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{91}{vou pra Tarântia.}{}{-4}{gv 1036 1,$$ 100}{-20}{$$ -100}
+{92}{vou pra Asbéria.}{}{-4}{gv 1036 2,$$ 100}{-22}{$$ -100}
+{93}{vou pra Raiz Negra.}{}{-4}{gv 1036 3,$$ 100}{-24}{$$ -100}
+{94}{vou pra Caladônia.}{}{-4}{gv 1036 4,$$ 100}{-26}{$$ -100}
+{95}{Vou pra Ilha do Meio-Ogro.}{}{-4}{gv 1036 6,$$ 100}{-30}{$$ -100}
+{96}{vou pra Ilha do Desespero.}{}{-4}{gv 1036 7,$$ 100}{-32}{$$ -100}
+{97}{tô pronto pra ir.}{}{-4}{$$ -99}{514}{}
+{98}{não tenho dinheiro, quero ir de graça no navio.}{}{-4}{$$ -99}{644}{}
+{99}{voltei aqui de novo.}{}{-4}{}{0}{}
+{100}{Se conseguir decifrar, vai saber que vai custar 150 moedas}{Se conseguir decifrar, vai saber que vai custar 150 moedas}{}{}{}{}
+{101}{Estou pronto para ir a Tarântia.}{}{5}{gv 1036 1,$$ 150}{-20}{$$ -150}
+{102}{Estou pronto para ir a Asbéria.}{}{5}{gv 1036 2,$$ 150}{-22}{$$ -150}
+{103}{Estou pronto para ir a Raiz Negra.}{}{5}{gv 1036 3,$$ 150}{-24}{$$ -150}
+{104}{Estou pronto para ir a Caladônia.}{}{5}{gv 1036 4,$$ 150}{-26}{$$ -150}
+{105}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 150}{-30}{$$ -150}
+{106}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 150}{-32}{$$ -150}
+{107}{É aceitável, vamos partir imediatamente.}{}{5}{$$ -149}{514}{}
+{108}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -149}{644}{}
+{109}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{110}{vou pra Tarântia.}{}{-4}{gv 1036 1,$$ 150}{-20}{$$ -150}
+{111}{vou pra Asbéria.}{}{-4}{gv 1036 2,$$ 150}{-22}{$$ -150}
+{112}{vou pra Raiz Negra.}{}{-4}{gv 1036 3,$$ 150}{-24}{$$ -150}
+{113}{vou pra Caladônia.}{}{-4}{gv 1036 4,$$ 150}{-26}{$$ -150}
+{114}{Vou pra Ilha do Meio-Ogro.}{}{-4}{gv 1036 6,$$ 150}{-30}{$$ -150}
+{115}{vou pra Ilha do Desespero.}{}{-4}{gv 1036 7,$$ 150}{-32}{$$ -150}
+{116}{tô pronto pra ir.}{}{-4}{$$ -149}{514}{}
+{117}{não tenho dinheiro, quero ir de graça no navio.}{}{-4}{$$ -149}{644}{}
+{118}{voltei aqui de novo.}{}{-4}{}{0}{}
+{119}{Se conseguir decifrar, vai saber que vai custar 200 moedas}{Se o senhor conseguir calcular, então sabe que serão 200 moedas}{}{}{}{}
+{120}{Estou pronto para ir a Tarant.}{}{5}{gv 1036 1,$$ 200}{-20}{$$ -200}
+{121}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 200}{-22}{$$ -200}
+{122}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 200}{-24}{$$ -200}
+{123}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 200}{-26}{$$ -200}
+{124}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 200}{-30}{$$ -200}
+{125}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 200}{-32}{$$ -200}
+{126}{Está aceitável, vamos partir imediatamente.}{}{5}{$$ -199}{514}{}
+{127}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -199}{644}{}
+{128}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{129}{mim ir tarant.}{}{-4}{gv 1036 1,$$ 200}{-20}{$$ -200}
+{130}{mim ir asshhhberry.}{}{-4}{gv 1036 2,$$ 200}{-22}{$$ -200}
+{131}{mim ir back wroot.}{}{-4}{gv 1036 3,$$ 200}{-24}{$$ -200}
+{132}{mim ir cawedon.}{}{-4}{gv 1036 4,$$ 200}{-26}{$$ -200}
+{133}{Mim ir Haf Oger I Lan.}{}{-4}{gv 1036 6,$$ 200}{-30}{$$ -200}
+{134}{mim ir o olho do dispear.}{}{-4}{gv 1036 7,$$ 200}{-32}{$$ -200}
+{135}{mim prontu pra ir.}{}{-4}{$$ -199}{514}{}
+{136}{mim num tê dinhero, mim quer ir no barquinho de ovelha.}{}{-4}{$$ -199}{644}{}
+{137}{mim vortá aqui de novo.}{}{-4}{}{0}{}
+{138}{Se o senhor conseguir calcular, então sabe que serão 250 moedas}{Se o senhor conseguir calcular, então sabe que serão 250 moedas}{}{}{}{}
+{139}{Estou pronto para ir a Tarant.}{}{5}{gv 1036 1,$$ 250}{-20}{$$ -250}
+{140}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 250}{-22}{$$ -250}
+{141}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 250}{-24}{$$ -250}
+{142}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 250}{-26}{$$ -250}
+{143}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 250}{-30}{$$ -250}
+{144}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 250}{-32}{$$ -250}
+{145}{Está aceitável, vamos partir imediatamente.}{}{5}{$$ -249}{514}{}
+{146}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -249}{644}{}
+{147}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{148}{vou pra Tarântia.}{}{-4}{gv 1036 1,$$ 250}{-20}{$$ -250}
+{149}{vou pra Ashbéria.}{}{-4}{gv 1036 2,$$ 250}{-22}{$$ -250}
+{150}{vou pra Raiz Negra.}{}{-4}{gv 1036 3,$$ 250}{-24}{$$ -250}
+{151}{vou pra Caladônia.}{}{-4}{gv 1036 4,$$ 250}{-26}{$$ -250}
+{152}{Vou pra Ilha do Meio-Ogro.}{}{-4}{gv 1036 6,$$ 250}{-30}{$$ -250}
+{153}{vou pra Ilha do Desespero.}{}{-4}{gv 1036 7,$$ 250}{-32}{$$ -250}
+{154}{tô prontu pra ir.}{}{-4}{$$ -249}{514}{}
+{155}{num tenho dinheiro, quero ir de graça no navio.}{}{-4}{$$ -249}{644}{}
+{156}{voltei aqui de novo.}{}{-4}{}{0}{}
+{157}{Se conseguir decifrar, vai saber que vai custar 300 moedas}{Se conseguir decifrar, vai saber que vai custar 300 moedas}{}{}{}{}
+{158}{Estou pronto para ir a Tarântia.}{}{5}{gv 1036 1,$$ 300}{-20}{$$ -300}
+{159}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 300}{-22}{$$ -300}
+{160}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 300}{-24}{$$ -300}
+{161}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 300}{-26}{$$ -300}
+{162}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 300}{-30}{$$ -300}
+{163}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 300}{-32}{$$ -300}
+{164}{É aceitável, vamos partir imediatamente.}{}{5}{$$ -299}{514}{}
+{165}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -299}{644}{}
+{166}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{167}{vou pra Tarântia.}{}{-4}{gv 1036 1,$$ 300}{-20}{$$ -300}
+{168}{vou pra Ashbéria.}{}{-4}{gv 1036 2,$$ 300}{-22}{$$ -300}
+{169}{vou pra Raiz Negra.}{}{-4}{gv 1036 3,$$ 300}{-24}{$$ -300}
+{170}{vou pra Caladônia.}{}{-4}{gv 1036 4,$$ 300}{-26}{$$ -300}
+{171}{Vou pra Ilha do Meio-Ogro.}{}{-4}{gv 1036 6,$$ 300}{-30}{$$ -300}
+{172}{vou pra Ilha do Desespero.}{}{-4}{gv 1036 7,$$ 300}{-32}{$$ -300}
+{173}{tô prontu pra ir.}{}{-4}{$$ -299}{514}{}
+{174}{num tenho dinheiro, quero ir de graça no navio.}{}{-4}{$$ -299}{644}{}
+{175}{voltei aqui de novo.}{}{-4}{}{0}{}
+{176}{Se conseguir decifrar, vai saber que vai custar 350 moedas}{Se você conseguir calcular, então sabe que serão 350 moedas}{}{}{}{}
+{177}{Estou pronto para ir a Tarant.}{}{5}{gv 1036 1,$$ 350}{-20}{$$ -350}
+{178}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 350}{-22}{$$ -350}
+{179}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 350}{-24}{$$ -350}
+{180}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 350}{-26}{$$ -350}
+{181}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 350}{-30}{$$ -350}
+{182}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 350}{-32}{$$ -350}
+{183}{Isso é aceitável, vamos partir imediatamente.}{}{5}{$$ -349}{514}{}
+{184}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -349}{644}{}
+{185}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{186}{mim ir tarant.}{}{-4}{gv 1036 1,$$ 350}{-20}{$$ -350}
+{187}{mim ir asshhhberry.}{}{-4}{gv 1036 2,$$ 350}{-22}{$$ -350}
+{188}{mim ir back wroot.}{}{-4}{gv 1036 3,$$ 350}{-24}{$$ -350}
+{189}{mim ir cawedon.}{}{-4}{gv 1036 4,$$ 350}{-26}{$$ -350}
+{190}{Mim ir Haf Oger I Lan.}{}{-4}{gv 1036 6,$$ 350}{-30}{$$ -350}
+{191}{mim ir o ilha de dispear.}{}{-4}{gv 1036 7,$$ 350}{-32}{$$ -350}
+{192}{mim prontu pra ir.}{}{-4}{$$ -349}{514}{}
+{193}{mim num tê dinhero, mim quer ir no barcu.}{}{-4}{$$ -349}{644}{}
+{194}{mim vortá aqui.}{}{-4}{}{0}{}
+{195}{Se você conseguir calcular, então sabe que serão 400 moedas}{Se você conseguir calcular, então sabe que serão 400 moedas}{}{}{}{}
+{196}{Estou pronto para ir a Tarant.}{}{5}{gv 1036 1,$$ 400}{-20}{$$ -400}
+{197}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 400}{-22}{$$ -400}
+{198}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 400}{-24}{$$ -400}
+{199}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 400}{-26}{$$ -400}
+{200}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 400}{-30}{$$ -400}
+{201}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 400}{-32}{$$ -400}
+{202}{Isso é aceitável, vamos partir imediatamente.}{}{5}{$$ -399}{514}{}
+{203}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -399}{644}{}
+{204}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{205}{vou pra Tarântia.}{}{-4}{gv 1036 1,$$ 400}{-20}{$$ -400}
+{206}{vou pra Ashbéria.}{}{-4}{gv 1036 2,$$ 400}{-22}{$$ -400}
+{207}{vou pra Raiz Negra.}{}{-4}{gv 1036 3,$$ 400}{-24}{$$ -400}
+{208}{vou pra Caladônia.}{}{-4}{gv 1036 4,$$ 400}{-26}{$$ -400}
+{209}{Vou pra Ilha do Meio-Ogro.}{}{-4}{gv 1036 6,$$ 400}{-30}{$$ -400}
+{210}{vou pra Ilha do Desespero.}{}{-4}{gv 1036 7,$$ 400}{-32}{$$ -400}
+{211}{tô pronto pra ir.}{}{-4}{$$ -399}{514}{}
+{212}{num tenho dinheiro, quero ir de graça no navio.}{}{-4}{$$ -399}{644}{}
+{213}{voltei aqui de novo.}{}{-4}{}{0}{}
+{214}{Se conseguir decifrar, vai saber que vai custar 450 moedas}{Se conseguir decifrar, vai saber que vai custar 450 moedas}{}{}{}{}
+{215}{Estou pronto para ir a Tarântia.}{}{5}{gv 1036 1,$$ 450}{-20}{$$ -450}
+{216}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 450}{-22}{$$ -450}
+{217}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 450}{-24}{$$ -450}
+{218}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 450}{-26}{$$ -450}
+{219}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 450}{-30}{$$ -450}
+{220}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 450}{-32}{$$ -450}
+{221}{É aceitável, vamos partir imediatamente.}{}{5}{$$ -449}{514}{}
+{222}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -449}{644}{}
+{223}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{224}{vou pra Tarântia.}{}{-4}{gv 1036 1,$$ 450}{-20}{$$ -450}
+{225}{vou pra Ashbéria.}{}{-4}{gv 1036 2,$$ 450}{-22}{$$ -450}
+{226}{vou pra Raiz Negra.}{}{-4}{gv 1036 3,$$ 450}{-24}{$$ -450}
+{227}{vou pra Caladônia.}{}{-4}{gv 1036 4,$$ 450}{-26}{$$ -450}
+{228}{Vou pra Ilha do Meio-Ogro.}{}{-4}{gv 1036 6,$$ 450}{-30}{$$ -450}
+{229}{vou pra Ilha do Desespero.}{}{-4}{gv 1036 7,$$ 450}{-32}{$$ -450}
+{230}{tô pronto pra ir.}{}{-4}{$$ -449}{514}{}
+{231}{num tenho dinheiro, quero ir de graça no navio.}{}{-4}{$$ -449}{644}{}
+{232}{voltei aqui de novo.}{}{-4}{}{0}{}
+{233}{Se conseguir decifrar, vai saber que vai custar 500 moedas}{Se você conseguir calcular, então sabe que serão 500 moedas}{}{}{}{}
+{234}{Estou pronto para ir a Tarant.}{}{5}{gv 1036 1,$$ 500}{-20}{$$ -500}
+{235}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 500}{-22}{$$ -500}
+{236}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 500}{-24}{$$ -500}
+{237}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 500}{-26}{$$ -500}
+{238}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 500}{-30}{$$ -500}
+{239}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 500}{-32}{$$ -500}
+{240}{Está aceitável, vamos partir imediatamente.}{}{5}{$$ -499}{514}{}
+{241}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -499}{644}{}
+{242}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{243}{mim ir tarant.}{}{-4}{gv 1036 1,$$ 500}{-20}{$$ -500}
+{244}{mim ir asshhhberry.}{}{-4}{gv 1036 2,$$ 500}{-22}{$$ -500}
+{245}{mim ir back wroot.}{}{-4}{gv 1036 3,$$ 500}{-24}{$$ -500}
+{246}{mim ir cawedon.}{}{-4}{gv 1036 4,$$ 500}{-26}{$$ -500}
+{247}{Mim ir Haf Oger I Lan.}{}{-4}{gv 1036 6,$$ 500}{-30}{$$ -500}
+{248}{mim ir o olho do dispear.}{}{-4}{gv 1036 7,$$ 500}{-32}{$$ -500}
+{249}{mim prontu pra ir.}{}{-4}{$$ -499}{514}{}
+{250}{mim num tem dinheiro, mim quer ir no barquinho de ovelha.}{}{-4}{$$ -499}{644}{}
+{251}{mim volta aqui de novo.}{}{-4}{}{0}{}
+{252}{Se você conseguir calcular, então sabe que serão 550 moedas}{Se você conseguir calcular, então sabe que serão 550 moedas}{}{}{}{}
+{253}{Estou pronto para ir a Tarant.}{}{5}{gv 1036 1,$$ 550}{-20}{$$ -550}
+{254}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 550}{-22}{$$ -550}
+{255}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 550}{-24}{$$ -550}
+{256}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 550}{-26}{$$ -550}
+{257}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 550}{-30}{$$ -550}
+{258}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 550}{-32}{$$ -550}
+{259}{Está aceitável, vamos partir imediatamente.}{}{5}{$$ -549}{514}{}
+{260}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -549}{644}{}
+{261}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{262}{vou pra Tarântia.}{}{-4}{gv 1036 1,$$ 550}{-20}{$$ -550}
+{263}{vou pra Ashbéria.}{}{-4}{gv 1036 2,$$ 550}{-22}{$$ -550}
+{264}{vou pra Raiz Negra.}{}{-4}{gv 1036 3,$$ 550}{-24}{$$ -550}
+{265}{vou pra Caladônia.}{}{-4}{gv 1036 4,$$ 550}{-26}{$$ -550}
+{266}{Vou pra Ilha do Meio-Ogro.}{}{-4}{gv 1036 6,$$ 550}{-30}{$$ -550}
+{267}{vou pra Ilha do Desespero.}{}{-4}{gv 1036 7,$$ 550}{-32}{$$ -550}
+{268}{tô prontu pra ir.}{}{-4}{$$ -549}{514}{}
+{269}{num tenho grana, quero ir de graça no navio.}{}{-4}{$$ -549}{644}{}
+{270}{voltei aqui de novo.}{}{-4}{}{0}{}
+{271}{Se conseguir decifrar, vai saber que vai custar 600 moedas}{Se conseguir decifrar, vai saber que vai custar 600 moedas}{}{}{}{}
+{272}{Estou pronto para ir a Tarântia.}{}{5}{gv 1036 1,$$ 600}{-20}{$$ -600}
+{273}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 600}{-22}{$$ -600}
+{274}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 600}{-24}{$$ -600}
+{275}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 600}{-26}{$$ -600}
+{276}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 600}{-30}{$$ -600}
+{277}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 600}{-32}{$$ -600}
+{278}{Isso é aceitável, vamos partir imediatamente.}{}{5}{$$ -599}{514}{}
+{279}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -599}{644}{}
+{280}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{281}{vou pra Tarântia.}{}{-4}{gv 1036 1,$$ 600}{-20}{$$ -600}
+{282}{vou pra Ashbéria.}{}{-4}{gv 1036 2,$$ 600}{-22}{$$ -600}
+{283}{vou pra Raiz Negra.}{}{-4}{gv 1036 3,$$ 600}{-24}{$$ -600}
+{284}{vou pra Caladônia.}{}{-4}{gv 1036 4,$$ 600}{-26}{$$ -600}
+{285}{Vou pra Ilha do Meio-Ogro.}{}{-4}{gv 1036 6,$$ 600}{-30}{$$ -600}
+{286}{vou pra Ilha do Desespero.}{}{-4}{gv 1036 7,$$ 600}{-32}{$$ -600}
+{287}{tô prontu pra ir.}{}{-4}{$$ -599}{514}{}
+{288}{num tenho grana, quero ir de graça no navio.}{}{-4}{$$ -599}{644}{}
+{289}{voltei aqui de novo.}{}{-4}{}{0}{}
+{290}{Se conseguir decifrar, vai saber que vai custar 650 moedas}{Se o senhor conseguir calcular, então sabe que serão 650 moedas}{}{}{}{}
+{291}{Estou pronto para ir a Tarant.}{}{5}{gv 1036 1,$$ 650}{-20}{$$ -650}
+{292}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 650}{-22}{$$ -650}
+{293}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 650}{-24}{$$ -650}
+{294}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 650}{-26}{$$ -650}
+{295}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 650}{-30}{$$ -650}
+{296}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 650}{-32}{$$ -650}
+{297}{Está aceitável, vamos partir imediatamente.}{}{5}{$$ -649}{514}{}
+{298}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -649}{644}{}
+{299}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{300}{mim ir tarant.}{}{-4}{gv 1036 1,$$ 650}{-20}{$$ -650}
+{301}{mim ir asshhhberry.}{}{-4}{gv 1036 2,$$ 650}{-22}{$$ -650}
+{302}{mim ir back wroot.}{}{-4}{gv 1036 3,$$ 650}{-24}{$$ -650}
+{303}{mim ir cawedon.}{}{-4}{gv 1036 4,$$ 650}{-26}{$$ -650}
+{304}{Mim ir Haf Oger I Lan.}{}{-4}{gv 1036 6,$$ 650}{-30}{$$ -650}
+{305}{mim ir o olho do dispear.}{}{-4}{gv 1036 7,$$ 650}{-32}{$$ -650}
+{306}{mim prontu pra ir.}{}{-4}{$$ -649}{514}{}
+{307}{mim num tê dinhero, mim quer ir na ovelha.}{}{-4}{$$ -649}{644}{}
+{308}{mim vortá aqui di novo.}{}{-4}{}{0}{}
+{309}{Se o senhor conseguir calcular, então sabe que serão 700 moedas}{Se o senhor conseguir calcular, então sabe que serão 700 moedas}{}{}{}{}
+{310}{Estou pronto para ir a Tarant.}{}{5}{gv 1036 1,$$ 700}{-20}{$$ -700}
+{311}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 700}{-22}{$$ -700}
+{312}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 700}{-24}{$$ -700}
+{313}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 700}{-26}{$$ -700}
+{314}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 700}{-30}{$$ -700}
+{315}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 700}{-32}{$$ -700}
+{316}{Está aceitável, vamos partir imediatamente.}{}{5}{$$ -699}{514}{}
+{317}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -699}{644}{}
+{318}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{319}{vou pra Tarântia.}{}{-4}{gv 1036 1,$$ 700}{-20}{$$ -700}
+{320}{vou pra Asbéria.}{}{-4}{gv 1036 2,$$ 700}{-22}{$$ -700}
+{321}{vou pra Raiz Negra.}{}{-4}{gv 1036 3,$$ 700}{-24}{$$ -700}
+{322}{vou pra Caladônia.}{}{-4}{gv 1036 4,$$ 700}{-26}{$$ -700}
+{323}{Vou pra Ilha do Meio-Ogro.}{}{-4}{gv 1036 6,$$ 700}{-30}{$$ -700}
+{324}{vou pra Ilha do Desespero.}{}{-4}{gv 1036 7,$$ 700}{-32}{$$ -700}
+{325}{tô pronto pra ir.}{}{-4}{$$ -699}{514}{}
+{326}{num tenho dinheiro, quero ir de graça no navio.}{}{-4}{$$ -699}{644}{}
+{327}{voltei aqui de novo.}{}{-4}{}{0}{}
+{328}{Se conseguir decifrar, vai saber que vai custar 750 moedas}{Se conseguir decifrar, vai saber que vai custar 750 moedas}{}{}{}{}
+{329}{Estou pronto para ir a Tarântia.}{}{5}{gv 1036 1,$$ 750}{-20}{$$ -750}
+{330}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 750}{-22}{$$ -750}
+{331}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 750}{-24}{$$ -750}
+{332}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 750}{-26}{$$ -750}
+{333}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 750}{-30}{$$ -750}
+{334}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 750}{-32}{$$ -750}
+{335}{Isso é aceitável, vamos partir imediatamente.}{}{5}{$$ -749}{514}{}
+{336}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -749}{644}{}
+{337}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{338}{vou pra Tarântia.}{}{-4}{gv 1036 1,$$ 750}{-20}{$$ -750}
+{339}{vou pra Asbéria.}{}{-4}{gv 1036 2,$$ 750}{-22}{$$ -750}
+{340}{vou pra Raiz Negra.}{}{-4}{gv 1036 3,$$ 750}{-24}{$$ -750}
+{341}{vou pra Caladônia.}{}{-4}{gv 1036 4,$$ 750}{-26}{$$ -750}
+{342}{Vou pra Ilha do Meio-Ogro.}{}{-4}{gv 1036 6,$$ 750}{-30}{$$ -750}
+{343}{vou pra Ilha do Desespero.}{}{-4}{gv 1036 7,$$ 750}{-32}{$$ -750}
+{344}{tô pronto pra ir.}{}{-4}{$$ -749}{514}{}
+{345}{num tenho dinheiro, quero ir de graça no navio.}{}{-4}{$$ -749}{644}{}
+{346}{voltei aqui de novo.}{}{-4}{}{0}{}
+{347}{Se conseguir decifrar, vai saber que vai custar 800 moedas}{Se o senhor conseguir calcular, então sabe que serão 800 moedas}{}{}{}{}
+{348}{Estou pronto para ir a Tarant.}{}{5}{gv 1036 1,$$ 800}{-20}{$$ -800}
+{349}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 800}{-22}{$$ -800}
+{350}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 800}{-24}{$$ -800}
+{351}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 800}{-26}{$$ -800}
+{352}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 800}{-30}{$$ -800}
+{353}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 800}{-32}{$$ -800}
+{354}{Isso é aceitável, vamos partir imediatamente.}{}{5}{$$ -799}{514}{}
+{355}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -799}{644}{}
+{356}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{357}{mim ir tarant.}{}{-4}{gv 1036 1,$$ 800}{-20}{$$ -800}
+{358}{mim ir asshhhberry.}{}{-4}{gv 1036 2,$$ 800}{-22}{$$ -800}
+{359}{mim ir back wroot.}{}{-4}{gv 1036 3,$$ 800}{-24}{$$ -800}
+{360}{mim ir cawedon.}{}{-4}{gv 1036 4,$$ 800}{-26}{$$ -800}
+{361}{Mim ir Haf Oger I Lan.}{}{-4}{gv 1036 6,$$ 800}{-30}{$$ -800}
+{362}{mim ir o olho do dispear.}{}{-4}{gv 1036 7,$$ 800}{-32}{$$ -800}
+{363}{mim prontu pra ir.}{}{-4}{$$ -799}{514}{}
+{364}{mim num tem dinheiro, mim quer ir no ovino.}{}{-4}{$$ -799}{644}{}
+{365}{mim volta aqui de novo.}{}{-4}{}{0}{}
+{366}{Se o senhor conseguir calcular, então sabe que serão 850 moedas}{Se o senhor conseguir calcular, então sabe que serão 850 moedas}{}{}{}{}
+{367}{Estou pronto para ir a Tarant.}{}{5}{gv 1036 1,$$ 850}{-20}{$$ -850}
+{368}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 850}{-22}{$$ -850}
+{369}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 850}{-24}{$$ -850}
+{370}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 850}{-26}{$$ -850}
+{371}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 850}{-30}{$$ -850}
+{372}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 850}{-32}{$$ -850}
+{373}{Isso é aceitável, vamos partir imediatamente.}{}{5}{$$ -849}{514}{}
+{374}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -849}{644}{}
+{375}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{376}{vou pra Tarântia.}{}{-4}{gv 1036 1,$$ 850}{-20}{$$ -850}
+{377}{vou pra Asbéria.}{}{-4}{gv 1036 2,$$ 850}{-22}{$$ -850}
+{378}{vou pra Raiz Negra.}{}{-4}{gv 1036 3,$$ 850}{-24}{$$ -850}
+{379}{vou pra Caladônia.}{}{-4}{gv 1036 4,$$ 850}{-26}{$$ -850}
+{380}{Vou pra Ilha do Meio-Ogro.}{}{-4}{gv 1036 6,$$ 850}{-30}{$$ -850}
+{381}{vou pra Ilha do Desespero.}{}{-4}{gv 1036 7,$$ 850}{-32}{$$ -850}
+{382}{tô prontu pra ir.}{}{-4}{$$ -849}{514}{}
+{383}{num tenho dinheiro, quero ir de graça no navio.}{}{-4}{$$ -849}{644}{}
+{384}{voltei aqui de novo.}{}{-4}{}{0}{}
+{385}{Se tu conseguir decifrar, sabe que vai custar 900 moedas}{Se tu conseguir decifrar, sabe que vai custar 900 moedas}{}{}{}{}
+{386}{Estou pronto para ir a Tarântia.}{}{5}{gv 1036 1,$$ 900}{-20}{$$ -900}
+{387}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 900}{-22}{$$ -900}
+{388}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 900}{-24}{$$ -900}
+{389}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 900}{-26}{$$ -900}
+{390}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 900}{-30}{$$ -900}
+{391}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 900}{-32}{$$ -900}
+{392}{Isso é aceitável, vamos partir imediatamente.}{}{5}{$$ -899}{514}{}
+{393}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -899}{644}{}
+{394}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{395}{vou pra Tarântia.}{}{-4}{gv 1036 1,$$ 900}{-20}{$$ -900}
+{396}{vou pra Asbéria.}{}{-4}{gv 1036 2,$$ 900}{-22}{$$ -900}
+{397}{vou pra Raiz Negra.}{}{-4}{gv 1036 3,$$ 900}{-24}{$$ -900}
+{398}{vou pra Caladônia.}{}{-4}{gv 1036 4,$$ 900}{-26}{$$ -900}
+{399}{Vou pra Ilha do Meio-Ogro.}{}{-4}{gv 1036 6,$$ 900}{-30}{$$ -900}
+{400}{vou pra Ilha do Desespero.}{}{-4}{gv 1036 7,$$ 900}{-32}{$$ -900}
+{401}{tô prontu pra ir.}{}{-4}{$$ -899}{514}{}
+{402}{num tenho dinheiro, quero ir de graça no navio.}{}{-4}{$$ -899}{644}{}
+{403}{voltei aqui de novo.}{}{-4}{}{0}{}
+{404}{Se tu conseguir decifrar, sabe que vai custar 1000 moedas}{Se você conseguir calcular, então sabe que serão 1000 moedas}{}{}{}{}
+{405}{Estou pronto para ir a Tarant.}{}{5}{gv 1036 1,$$ 1000}{-20}{$$ -1000}
+{406}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 1000}{-22}{$$ -1000}
+{407}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 1000}{-24}{$$ -1000}
+{408}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 1000}{-26}{$$ -1000}
+{409}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 1000}{-30}{$$ -1000}
+{410}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 1000}{-32}{$$ -1000}
+{411}{Isso é aceitável, vamos partir imediatamente.}{}{5}{$$ -999}{514}{}
+{412}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -999}{644}{}
+{413}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{414}{mim ir tarant.}{}{-4}{gv 1036 1,$$ 1000}{-20}{$$ -1000}
+{415}{mim ir asshhhberry.}{}{-4}{gv 1036 2,$$ 1000}{-22}{$$ -1000}
+{416}{mim ir back wroot.}{}{-4}{gv 1036 3,$$ 1000}{-24}{$$ -1000}
+{417}{mim ir cawedon.}{}{-4}{gv 1036 4,$$ 1000}{-26}{$$ -1000}
+{418}{Mim ir Haf Oger I Lan.}{}{-4}{gv 1036 6,$$ 1000}{-30}{$$ -1000}
+{419}{mim ir o olho do dispear.}{}{-4}{gv 1036 7,$$ 1000}{-32}{$$ -1000}
+{420}{mim prontu pra ir.}{}{-4}{$$ -999}{514}{}
+{421}{mim num tê dinhero, mim quer ir no barquinho de ovelha.}{}{-4}{$$ -999}{644}{}
+{422}{mim vortá aqui de novo.}{}{-4}{}{0}{}
+{423}{Se você conseguir calcular, então sabe que serão 1100 moedas}{Se você conseguir calcular, então sabe que serão 1100 moedas}{}{}{}{}
+{424}{Estou pronto para ir a Tarant.}{}{5}{gv 1036 1,$$ 1100}{-20}{$$ -1100}
+{425}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 1100}{-22}{$$ -1100}
+{426}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 1100}{-24}{$$ -1100}
+{427}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 1100}{-26}{$$ -1100}
+{428}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 1100}{-30}{$$ -1100}
+{429}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 1100}{-32}{$$ -1100}
+{430}{Isso é aceitável, vamos partir imediatamente.}{}{5}{$$ -1099}{514}{}
+{431}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -1099}{644}{}
+{432}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{433}{vou pra Tarântia.}{}{-4}{gv 1036 1,$$ 1100}{-20}{$$ -1100}
+{434}{vou pra Ashbéria.}{}{-4}{gv 1036 2,$$ 1100}{-22}{$$ -1100}
+{435}{vou pra Raiz Negra.}{}{-4}{gv 1036 3,$$ 1100}{-24}{$$ -1100}
+{436}{vou pra Caladônia.}{}{-4}{gv 1036 4,$$ 1100}{-26}{$$ -1100}
+{437}{Vou pra Ilha Meio-Ogro.}{}{-4}{gv 1036 6,$$ 1100}{-30}{$$ -1100}
+{438}{vou pra Ilha do Desespero.}{}{-4}{gv 1036 7,$$ 1100}{-32}{$$ -1100}
+{439}{tô pronto pra ir.}{}{-4}{$$ -1099}{514}{}
+{440}{não tenho dinheiro, quero ir de graça no navio.}{}{-4}{$$ -1099}{644}{}
+{441}{voltei aqui de novo.}{}{-4}{}{0}{}
+{442}{Se conseguir decifrar, vai saber que vai custar 1200 moedas}{Se conseguir decifrar, vai saber que vai custar 1200 moedas}{}{}{}{}
+{443}{Estou pronto para ir a Tarântia.}{}{5}{gv 1036 1,$$ 1200}{-20}{$$ -1200}
+{444}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 1200}{-22}{$$ -1200}
+{445}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 1200}{-24}{$$ -1200}
+{446}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 1200}{-26}{$$ -1200}
+{447}{Estou pronto para ir à Ilha Meio-Ogro.}{}{5}{gv 1036 6,$$ 1200}{-30}{$$ -1200}
+{448}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 1200}{-32}{$$ -1200}
+{449}{É aceitável, vamos partir imediatamente.}{}{5}{$$ -1199}{514}{}
+{450}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -1199}{644}{}
+{451}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{452}{vou pra Tarântia.}{}{-4}{gv 1036 1,$$ 1200}{-20}{$$ -1200}
+{453}{vou pra Ashbéria.}{}{-4}{gv 1036 2,$$ 1200}{-22}{$$ -1200}
+{454}{vou pra Raiz Negra.}{}{-4}{gv 1036 3,$$ 1200}{-24}{$$ -1200}
+{455}{vou pra Caladônia.}{}{-4}{gv 1036 4,$$ 1200}{-26}{$$ -1200}
+{456}{Vou pra Ilha Meio-Ogro.}{}{-4}{gv 1036 6,$$ 1200}{-30}{$$ -1200}
+{457}{vou pra Ilha do Desespero.}{}{-4}{gv 1036 7,$$ 1200}{-32}{$$ -1200}
+{458}{tô pronto pra ir.}{}{-4}{$$ -1199}{514}{}
+{459}{não tenho dinheiro, quero ir de graça no navio.}{}{-4}{$$ -1199}{644}{}
+{460}{voltei aqui de novo.}{}{-4}{}{0}{}
+{461}{Se conseguir decifrar, vai saber que vai custar 1300 moedas}{Se o senhor conseguir calcular, então sabe que serão 1300 moedas}{}{}{}{}
+{462}{Estou pronto para ir a Tarant.}{}{5}{gv 1036 1,$$ 1300}{-20}{$$ -1300}
+{463}{Estou pronto para ir a Ashbury.}{}{5}{gv 1036 2,$$ 1300}{-22}{$$ -1300}
+{464}{Estou pronto para ir a Black Root.}{}{5}{gv 1036 3,$$ 1300}{-24}{$$ -1300}
+{465}{Estou pronto para ir a Caladon.}{}{5}{gv 1036 4,$$ 1300}{-26}{$$ -1300}
+{466}{Estou pronto para ir à Ilha do Meio-Ogro.}{}{5}{gv 1036 6,$$ 1300}{-30}{$$-1300}
+{467}{Estou pronto para ir à Ilha do Desespero.}{}{5}{gv 1036 7,$$ 1300}{-32}{$$ -1300}
+{468}{Isso é aceitável, vamos partir imediatamente.}{}{5}{$$ -1299}{514}{}
+{469}{Não tenho dinheiro suficiente para a passagem.}{}{5}{$$ -1299}{644}{}
+{470}{Voltarei quando estiver pronto para viajar.}{}{5}{}{0}{}
+{471}{mim ir tarant.}{}{-4}{gv 1036 1,$$ 1300}{-20}{$$ -1300}
+{472}{mim ir asshhhberry.}{}{-4}{gv 1036 2,$$ 1300}{-22}{$$ -1300}
+{473}{mim ir back wroot.}{}{-4}{gv 1036 3,$$ 1300}{-24}{$$ -1300}
+{474}{mim ir cawedon.}{}{-4}{gv 1036 4,$$ 1300}{-26}{$$ -1300}
+{475}{Mim ir Haf Oger I Lan.}{}{-4}{gv 1036 6,$$ 1300}{-30}{$$ -1300}
+{476}{mim ir the eyele of dispear.}{}{-4}{gv 1036 7,$$ 1300}{-32}{$$ -1300}
+{477}{mim prontu pra ir.}{}{-4}{$$ -1299}{514}{}
+{478}{mim não ter dinheiro, mim querer ir no barquinho de ovelha.}{}{-4}{$$ -1299}{644}{}
+{479}{mim voltar aqui de novo.}{}{-4}{}{0}{}
+{480}{É esse o preço que estou cobrando. O senhor pode aceitar ou recusar... Não me importa... Então, o que vai ser?}{É esse o preço que estou cobrando, senhorita. A senhora pode aceitar ou recusar... Não me importa...}{}{}{}{}
+{481}{Entendo... Qual era mesmo o preço?}{}{5}{}{44}{}
+{482}{F:}{}{5}{}{0}{}
+{483}{Hã... Quantas moedas?}{}{-4}{}{44}{}
+{484}{F:}{}{-4}{}{0}{}
+{485}{O senhor tem um jeito especial. Talvez traga sorte para nós no mar. Aceitarei 50 por cabeça... Desta vez... Nem uma moeda a menos! Esta é minha oferta final, então é melhor aceitar antes que eu mude de ideia.}{A senhorita tem um jeito especial. Talvez traga sorte para nós no mar. Aceitarei 50 por cabeça... Desta vez... Nem uma moeda a menos! Esta é minha oferta final. Então é melhor aceitar antes que eu mude de ideia.}{}{}{}{}
+{486}{Negócio bom, Capitão. O senhor não vai se arrepender!}{}{5}{gv 1035 1}{62}{}
+{487}{Negócio bom, Capitão. O senhor não vai se arrepender!}{}{5}{gv 1035 2}{81}{}
+{488}{Negócio bom, Capitão. O senhor não vai se arrepender!}{}{5}{gv 1035 3}{100}{}
+{489}{Negócio bom, Capitão. O senhor não vai se arrepender!}{}{5}{gv 1035 4}{119}{}
+{490}{Negócio bom, Capitão. O senhor não vai se arrepender!}{}{5}{gv 1035 5}{138}{}
+{491}{Isso é um bom negócio, Capitão. O senhor não vai se arrepender!}{}{5}{gv 1035 6}{157}{}
+{492}{Isso é um bom negócio, Capitão. O senhor não vai se arrepender!}{}{5}{gv 1035 7}{176}{}
+{493}{Isso é um bom negócio, Capitão. O senhor não vai se arrepender!}{}{5}{gv 1035 8}{195}{}
+{494}{Isso é um bom negócio, Capitão. O senhor não vai se arrepender!}{}{5}{gv 1035 9}{214}{}
+{495}{Isso é um bom negócio, Capitão. O senhor não vai se arrepender!}{}{5}{gv 1035 10}{233}{}
+{496}{Isso é um bom negócio, Capitão. O senhor não vai se arrepender!}{}{5}{gv 1035 11}{252}{}
+{497}{Isso é um bom negócio, Capitão. O senhor não vai se arrepender!}{}{5}{gv 1035 12}{271}{}
+{498}{Isso é um bom negócio, Capitão. O senhor não vai se arrepender!}{}{5}{gv 1035 13}{290}{}
+{499}{F:}{}{5}{}{0}{}
+{500}{Capitão esperto. Temos um bom acordo agora!}{}{-4}{gv 1035 1}{62}{}
+{501}{Capitão esperto. Temos um bom acordo agora!}{}{-4}{gv 1035 2}{81}{}
+{502}{Capitão esperto. Temos um bom acordo agora!}{}{-4}{gv 1035 3}{100}{}
+{503}{Capitão esperto. Temos um bom acordo agora!}{}{-4}{gv 1035 4}{119}{}
+{504}{Capitão esperto. Temos um bom acordo agora!}{}{-4}{gv 1035 5}{138}{}
+{505}{Capitão esperto. Temos um bom acordo agora!}{}{-4}{gv 1035 6}{157}{}
+{506}{Capitão esperto. Temos um bom acordo agora!}{}{-4}{gv 1035 7}{176}{}
+{507}{Capitão esperto. Temos um bom acordo agora!}{}{-4}{gv 1035 8}{195}{}
+{508}{Capitão esperto. Temos um bom acordo agora!}{}{-4}{gv 1035 9}{214}{}
+{509}{Capitão esperto. Temos um bom acordo agora!}{}{-4}{gv 1035 10}{233}{}
+{510}{Capitão esperto. Temos um bom acordo agora!}{}{-4}{gv 1035 11}{252}{}
+{511}{Capitão esperto. Temos um bom acordo agora!}{}{-4}{gv 1035 12}{271}{}
+{512}{Capitão esperto. Temos um bom acordo agora!}{}{-4}{gv 1035 13}{290}{}
+{513}{F:}{}{-4}{}{0}{}
+{514}{Argh! O senhor não tem a passagem! Se eu perder a maré por causa do seu tempo perdido... Eu vou pegar o senhor... Pode contar com isso! Agora suma do meu navio!}{Argh! O senhor não tem a passagem! Se eu perder a maré por causa do seu tempo perdido... Eu vou pegar o senhor... Pode contar com isso! Agora suma do meu navio!}{}{}{}{re -5}
+{515}{E:}{}{5}{}{0}{}
+{516}{Suma do meu navio! Não volte a menos que saiba para onde está indo.}{Suma do meu navio! Não volte a menos que saiba para onde está indo.}{}{}{}{}
+{517}{Argh! O senhor é louco? Este navio nunca vai para lá!}{Argh! O senhor é louco? Este navio nunca vai para lá!}{}{}{}{}
+{518}{Hmm... Talvez um local diferente...}{}{5}{}{27}{}
+{519}{O senhor pode me dizer onde fica Blackroot?}{}{5}{}{535}{}
+{520}{Bah! Esses malditos trilhos a vapor garantiram que meu navio não fosse útil para Ashbury! Essa maldita geringonça ainda vai ser a minha ruína! Marque minhas palavras!}{Bah! Esses malditos trilhos a vapor garantiram que meu navio não servisse para nada em Ashbury! Essa engenhoca danada ainda vai ser a minha ruína! Anote minhas palavras!}{}{}{}{}
+{521}{Então talvez eu deva navegar para um local diferente...}{}{5}{}{27}{}
+{522}{Você pode me dizer onde fica Ashbury?}{}{5}{}{524}{}
+{523}{E:}{}{1}{}{0}{}
+{524}{Fica bem ali. [Ele aponta para um ponto no seu mapa.]}{Fica bem ali. [Ele aponta para um ponto no seu mapa.]}{}{}{}{mm 8}
+{525}{Posso reservar passagem para outro lugar?}{}{5}{}{27}{}
+{526}{E:}{}{1}{}{0}{}
+{527}{Thanatos! Você não vai encontrar nenhum tolo disposto a levá-lo para esse destino por aqui! Tente Blackroot. Aquele lugar está cheio de tolos desesperados!}{Thanatos! Você não vai encontrar nenhum tolo disposto a levá-lo para esse destino por aqui! Tente Blackroot. Aquele lugar está cheio de tolos desesperados!}{}{}{}{}
+{529}{Posso reservar passagem para outro lugar, então?}{}{5}{}{27}{}
+{530}{Hã... Eu ir no barco?}{}{-4}{}{608}{}
+{531}{E:}{}{1}{}{0}{}
+{532}{Claro. Deixe-me dar uma olhada no seu mapa...}{Claro. Deixe-me dar uma olhada no seu mapa...}{}{}{}{}
+{533}{[Mostre-lhe seu mapa]}{}{5}{}{535}{}
+{534}{F:}{}{1}{}{0}{}
+{535}{É ali. [Ele aponta para um local no seu mapa.]}{É ali. [Ele aponta para um local no seu mapa.]}{}{}{}{mm 3}
+{536}{Poderia me levar para outro lugar?}{}{5}{}{27}{}
+{537}{E:}{}{1}{}{0}{}
+{538}{Thanatos? Você é louco? Este barco nunca irá para lá!}{Thanatos? Você é louco? Este barco nunca irá para lá!}{}{}{}{}
+{539}{Posso reservar passagem para outro lugar, então?}{}{5}{}{27}{}
+{540}{Hã... Eu ir no barco?}{}{-4}{}{608}{}
+{541}{E:}{}{1}{}{0}{}
+{542}{Ilha do Desespero? Se você tiver um pingo de juízo, vai evitar desembarcar naquela rocha!}{Ilha do Desespero? Se você tiver um pingo de juízo, vai evitar desembarcar naquela rocha!}{}{}{}{}
+{543}{Por quê? Que tipo de lugar é esse?}{}{5}{}{545}{}
+{544}{E:}{}{1}{}{0}{}
+{545}{Dizem que ninguém jamais deixou a Ilha e sobreviveu. Os corpos daqueles que tentaram aparecem na praia com a maré da manhã...}{Dizem que ninguém jamais deixou a Ilha e sobreviveu. Os corpos daqueles que tentaram aparecem na praia com a maré da manhã...}{}{}{}{}
+{546}{Oh, meu... Posso reservar passagem para outro lugar, então?}{}{5}{}{27}{}
+{547}{Eu realmente preciso chegar à ilha.}{}{5}{}{647}{}
+{548}{Anda logo! Não posso esperar aqui o dia todo enquanto você fica aí parado, boquiaberto!}{Anda logo! Não posso esperar aqui o dia todo enquanto você fica aí parado, boquiaberto!}{}{}{}{}
+{549}{Gostaria de reservar passagem no seu navio.}{}{5}{}{555}{}
+{550}{Preciso de alguém que me leve até a Ilha do Desespero.}{}{5}{lf8 0, ss 5, ss -6}{542}{}
+{551}{Preciso que alguém me leve à Ilha do Desespero.}{}{5}{lf8 1, ss 5, ss -6}{654}{}
+{552}{Preciso que alguém me leve a Thanatos.}{}{5}{lf3 0, ss 17, ss -17, gf2037 1}{527}{}
+{553}{Preciso que alguém me leve a Thanatos.}{}{5}{lf3 1, ss 17, ss -17, gf2037 1}{538}{}
+{554}{Preciso que alguém me leve a Caladon.}{}{5}{lf4 0, ss 12, ss -12}{555}{}
+{555}{Não tenho tempo para você! O navio precisa ser descarregado e você está no caminho. Volte mais tarde.}{Não tenho tempo para você! O navio precisa ser descarregado e você está no caminho. Volte mais tarde.}{}{}{}{}
+{556}{E:}{}{1}{}{0}{}
+{557}{S:}{}{1}{}{0}{re 2}
+{558}{I:}{}{1}{}{0}{re -5}
+{559}{Sim, é isso mesmo... Você teve a chance de ver aquela grande fera de ferro... o trem?}{Sim, é isso mesmo... Você teve a chance de ver aquela grande fera de ferro... o trem?}{}{}{}{}
+{560}{Tive. É realmente uma maravilha da mecânica moderna.}{}{5}{}{566}{}
+{561}{Tive. Mas passei a maior parte do tempo no Wellington.}{}{5}{}{575}{}
+{562}{Não, não tive tempo. Ouvi dizer que é uma excelente forma de viajar.}{}{5}{}{571}{}
+{563}{Sim. Eu ver. É muito grande! ...Barulhento também!}{}{-4}{}{566}{}
+{564}{Não. Eu não ver trem. Dizem que é bom para viajar.}{}{-4}{}{571}{}
+{565}{E:}{}{1}{}{0}{}
+{566}{É isso mesmo. É isso mesmo. Ainda assim, não oferece a sensação de aventura que vem de navegar em alto-mar. Pelo menos não para mim.}{É isso mesmo. É isso mesmo. Ainda assim, não oferece a sensação de aventura que vem de navegar em alto-mar. Pelo menos não para mim.}{}{}{}{}
+{567}{Mas oferece às massas uma viagem segura e conveniente.}{}{5}{}{571}{}
+{568}{Concordo plenamente. Posso reservar uma passagem com você?}{}{5}{}{27}{}
+{569}{Sim... Eu ir de barco?}{}{-4}{}{608}{}
+{570}{E:}{}{1}{}{0}{}
+{571}{Contanto que não haja magos por perto... Não. Acho que navegar é a melhor forma de viajar uma longa distância.}{Contanto que não haja magos por perto... Não. Acho que navegar é a melhor forma de viajar uma longa distância.}{}{}{}{}
+{572}{Entendo seu ponto. Posso reservar uma passagem com você?}{}{5}{}{27}{}
+{573}{E:}{}{1}{}{0}{}
+{574}{Sim... Eu ir de barco?}{}{-4}{}{608}{}
+{575}{Vejo que você é alguém que aprecia os melhores prazeres que a vida tem a oferecer...}{Vejo que você é alguém que aprecia os melhores prazeres que a vida tem a oferecer...}{}{}{}{}
+{576}{De fato... Posso reservar uma passagem em seu navio?}{}{5}{}{27}{}
+{577}{E:}{}{1}{}{0}{}
+{578}{Ashbury... É um lugar bem tranquilo. Provavelmente o local mais interessante de todo o lugar é o castelo assombrado.}{Ashbury... É um lugar bem tranquilo. Provavelmente o local mais interessante de todo o lugar é o castelo assombrado.}{}{}{}{}
+{579}{Castelo assombrado? Onde fica?}{}{5}{}{584}{}
+{580}{Sim. Foi uma experiência e tanto. Posso reservar uma passagem?}{}{5}{}{27}{}
+{581}{Onde fica isso?}{}{-4}{}{584}{}
+{582}{É... Eu ir no barco?}{}{-4}{}{608}{}
+{583}{E:}{}{1}{}{0}{}
+{584}{Pergunte por aí na cidade. Eles vão te indicar.}{Pergunte por aí na cidade. Eles vão te indicar.}{}{}{}{}
+{585}{Talvez mais tarde. Estou procurando passagem em um navio.}{}{5}{}{27}{}
+{586}{E:}{}{1}{}{0}{}
+{587}{É... Eu ir no barco?}{}{-4}{}{608}{}
+{588}{É isso mesmo. Nunca vai encontrar um navio melhor do que os feitos aqui em Black Root. ...Ora, este próprio navio foi construído em Black Root. Nunca naveguei em embarcação mais fina...}{É isso mesmo. Nunca vai encontrar um navio melhor do que os feitos aqui em Black Root. ...Ora, este próprio navio foi construído em Black Root. Nunca naveguei em embarcação mais fina...}{}{}{}{}
+{589}{Parece bem resistente. Posso reservar uma passagem a bordo?}{}{5}{}{27}{}
+{590}{E:}{}{1}{}{0}{}
+{591}{Ela parece bem nova. Faz tempo que a tem?}{}{5}{re -80}{592}{re +5}
+{592}{Ela navega pelos mares há quase 8 anos. Faço o meu melhor para mantê-la em ordem. Você tem um bom olho, para notar a qualidade dela.}{Ela navega pelos mares há quase 8 anos. Faço o meu melhor para mantê-la em ordem. Você tem um bom olho, para notar a qualidade dela.}{}{}{}{}
+{593}{Você fez um bom trabalho com ela. Posso reservar uma passagem?}{}{5}{}{27}{}
+{594}{E:}{}{1}{}{0}{}
+{595}{A maioria vem pelo templo. A religião panarii é baseada aqui.}{A maioria vem pelo templo. A religião panarii é baseada aqui.}{}{}{}{}
+{596}{Sim. Imagino que veja muitos peregrinos.}{}{5}{}{599}{}
+{597}{Hã... Você leva muitos peregrinos lá?}{}{-4}{}{599}{}
+{598}{E:}{}{1}{}{0}{}
+{599}{Peregrinos... Não muitos hoje em dia. Mas acho que tem um bom número de tolos só querendo admirar sua grandiosidade.}{Peregrinos... Não muitos hoje em dia. Mas acho que tem um bom número de tolos só querendo admirar sua grandiosidade.}{}{}{}{}
+{600}{Imagino que não seja um seguidor devoto?}{}{5}{}{603}{}
+{601}{É... é bonito. Você não gosta dos panarii?}{}{-4}{}{603}{}
+{602}{E:}{}{1}{}{0}{}
+{603}{O mar... ela é minha deusa. Tem tudo o que um homem precisa. Os panarii [ele faz uma pausa e cospe pela lateral] não têm nada a oferecer a um homem como eu...}{O mar... ela é minha deusa. Tem tudo o que um homem precisa. Os panarii [ele faz uma pausa e cospe pela lateral] não têm nada a oferecer a um homem como eu...}{}{}{}{}
+{604}{Entendo seu ponto. Posso reservar uma passagem com você?}{}{5}{}{27}{}
+{605}{Que pena... Posso reservar uma passagem em sua embarcação?}{}{5}{}{27}{}
+{606}{É... Eu ir no barco?}{}{-4}{}{608}{}
+{607}{E:}{}{1}{}{0}{}
+{608}{Não, não. Receio não poder levar você comigo assim. Só passageiros pagantes podem embarcar no meu belo navio.}{Não, não. Receio não poder levar você comigo assim. Só passageiros pagantes podem embarcar no meu belo navio.}{}{}{}{}
+{609}{Eu pago!}{}{-4}{ss-4}{619}{}
+{610}{Eu pago!}{}{-4}{ss7, ss-11}{619}{}
+{611}{Eu pago!}{1}{-4}{ss5, ss-6}{621}{}
+{612}{Me paga!}{0}{-4}{ss5, ss-6}{-37}{}
+{613}{Me paga!}{0}{-4}{ss12, lf4 0}{-37}{}
+{614}{Me paga!}{1}{-4}{ss12, ss-12, lf4 0}{621}{ss 13}
+{615}{Me paga!}{1}{-4}{ss13, lf4 0}{621}{}
+{616}{Me paga!}{}{-4}{lf 6 0, qa1143 2}{621}{}
+{617}{Me paga!}{}{-4}{ss13, lf4 1}{695}{}
+{618}{E:}{}{1}{}{0}{}
+{619}{Oh! Agora eu entendo... [pobre bastardo simplório]... Receio que não...}{Oh! Agora eu entendo... [que mulher burra!]... Receio que não...}{}{}{}{}
+{620}{E:}{}{1}{}{0}{}
+{621}{Oh! Agora eu entendo... [pobre bastardo simplório] Você quer pagar sua passagem a bordo! ...Bem... Você parece ser forte de corpo. Acho que poderia trabalhar pela passagem. Estou partindo para Caladon nesta mesma maré. Deixo você trabalhar até lá, se puder partir agora.}{Oh! Agora eu entendo... [que mulher burra!] Você quer pagar sua passagem a bordo! ...Bem... Você parece ser forte de corpo e o cozinheiro está precisando de um ajudante na cozinha, pelo que me lembro. Até uma cabeça-oca como você pode lavar panelas e potes, suponho... [hesitando] Tudo bem, então. Você pode trabalhar pela passagem. Estou partindo para Caladon nesta mesma maré. Consegue partir agora?}{}{}{}{}
+{622}{Hã... Tá bom. Me vai barco agora.}{1}{-4}{ss13}{-26}{}
+{623}{Hã... Tá bom. Me vai barco agora.}{0}{-4}{ss13}{-26}{}
+{624}{Hã... Tá bom. Me vai barco agora.}{0}{-4}{ss12, ss-12}{665}{ss 13}
+{625}{Hã... Me vai Haf Oger I Lan?}{}{-4}{lf 6 0, qa1143 2}{637}{}
+{626}{Hã... Me vai Ilha do Desespero?}{}{-4}{ss5, ss-6, lf8 0}{640}{}
+{627}{Hã... Me vai Ilha do Desespero?}{}{-4}{ss5, ss-6, lf8 1}{654}{}
+{628}{Hã... Me vai Blak Rut?}{}{-4}{lf3 0}{700}{}
+{629}{Oh! Agora eu entendo... [pobre bastardo simplório] Você quer pagar sua passagem a bordo! ...Bem... Você parece ser forte de corpo. Acho que poderia trabalhar pela passagem. Estou partindo para Caladon nesta mesma maré. Deixo você trabalhar até lá, se puder partir agora.}{Oh! Agora eu entendo... Você quer pagar sua passagem a bordo! ...Bem... Você parece ter um, hum... corpo e tanto. Talvez pudesse "trabalhar" pela passagem. Se é que me entende. Estou partindo para Caladon nesta mesma maré. Deixo você pagar a passagem cuidando de mim e dos meus homens. [parecendo muito ansioso para zarpar] Consegue partir agora?}{}{}{}{}
+{630}{Hã... Tá bom. Me vai barco agora.}{1}{-4}{ss13}{-26}{}
+{631}{Hã... Tá bom. Me vai barco agora.}{0}{-4}{ss13}{-26}{re +10}
+{632}{Hã... Tá bom. Me vai barco agora.}{0}{-4}{ss12, ss-12}{665}{ss 13, re +10}
+{633}{Hã... Me vai Haf Oger I Lan?}{}{-4}{lf 6 0, qa1143 2}{637}{}
+{634}{Hã... Me vai Ilha do Desespero?}{}{-4}{ss5, ss-6, lf8 0}{640}{}
+{635}{Hã... Me vai Ilha do Desespero?}{}{-4}{ss5, ss-6, lf8 1}{654}{}
+{636}{Hã... Me vai Blak Rut?}{}{-4}{lf 3 0}{700}{}
+{637}{Oh! Agora eu entendo... [pobre bastardo simplório] Você quer pagar sua passagem a bordo! ...Bem... Você parece ser forte de corpo. Acho que poderia trabalhar pela passagem. Estou partindo para a Ilha do Meio-Ogro nesta mesma maré. Deixo você trabalhar até lá, se puder partir agora.}{Oh! Agora eu entendo... [que mulher burra!] Você quer pagar sua passagem a bordo! ...Bem... Você parece ser forte de corpo e o cozinheiro está precisando de um ajudante na cozinha, pelo que me lembro. Até uma cabeça-oca como você pode lavar panelas e potes, suponho... [hesitando] Tudo bem, então. Você pode trabalhar pela passagem. Estou partindo para a Ilha do Meio-Ogro nesta mesma maré. Consegue partir agora?}{}{}{}{}
+{638}{Hã... Tá bom. Me vai barco agora.}{}{-4}{}{-30}{}
+{639}{E:}{}{1}{}{0}{}
+{640}{A Ilha do Desespero? Ninguém é louco o suficiente para ir para aquele lugar. Ninguém volta vivo de lá! Agora, você quer ir para Caladon ou não?}{A Ilha do Desespero? Ninguém é louco o bastante para ir até aquele lugar. Ninguém nunca volta vivo de lá! Agora, você quer ir para Caladon ou não?}{}{}{}{}
+{641}{Hã... Tá bom. Eu vou de barco agora.}{}{-4}{ss13}{-26}{}
+{642}{Eu ir Ilha do Despare!}{}{-4}{ss5, ss-6}{647}{}
+{643}{E:}{}{1}{}{0}{}
+{644}{Se não pode pagar a passagem, bom, então eu também não posso te levar. Volte quando tiver as moedas... Adeus pra você.}{Se não pode pagar a passagem, bom, então eu também não posso te levar. Volte quando tiver as moedas... Adeus pra você.}{}{}{}{}
+{645}{Eu pago, eu pago!}{}{-4}{}{608}{}
+{646}{E:}{}{1}{}{0}{}
+{647}{Você deve ser mesmo maluco! Bom... tente procurar em Ashbury. Talvez encontre outro tão maluco quanto você. Argh... Agora pare de desperdiçar meu tempo!}{Você deve ser mesmo maluco! Bom... tente procurar em Ashbury. Talvez encontre outro tão maluco quanto você. Argh... Agora pare de desperdiçar meu tempo!}{}{}{}{}
+{648}{Posso conseguir uma passagem para Ashbury?}{}{5}{}{520}{}
+{649}{Hã... Você me leva pra Ashb'ry?}{}{-4}{}{651}{}
+{650}{E:}{}{1}{}{0}{}
+{651}{Bah! Essas malditas ferrovias a vapor garantiram que meu navio não servisse mais para Ashbury! Aquele maldito aparelho ainda vai ser a minha ruína! Marque minhas palavras!}{Bah! Essas malditas ferrovias a vapor garantiram que meu navio não servisse mais para Ashbury! Aquele maldito aparelho ainda vai ser a minha ruína! Marque minhas palavras!}{}{}{}{}
+{652}{E:}{}{1}{}{0}{}
+{653}{Onde fica Ashb'ry?}{}{-4}{}{698}{}
+{654}{Ilha do Desespero? Se você tiver um pingo de juízo, vai evitar desembarcar naquela rocha!}{Ilha do Desespero? Se você tiver um pingo de juízo, vai evitar desembarcar naquela rocha!}{}{}{}{}
+{655}{Oh, céus... Posso reservar passagem para outro lugar então?}{}{5}{}{27}{}
+{656}{Eu realmente preciso chegar à ilha.}{}{5}{gf2470 0}{661}{}
+{657}{Eu realmente preciso chegar à ilha.}{}{5}{gf2470 1}{668}{}
+{658}{Eu ir Ilha do Despare!}{}{-4}{gf2470 0}{661}{}
+{659}{Eu ir Ilha do Despare!}{}{-4}{gf2470 1}{668}{}
+{660}{E:}{}{1}{}{0}{}
+{661}{Vá falar com o Teach. Ele comanda a outra embarcação atracada aqui. Acho que ele seria louco o bastante para arriscar seu navio... e seu pescoço!}{Vá falar com o Teach. Ele comanda a outra embarcação atracada aqui. Acho que ele seria louco o bastante para arriscar seu navio... e seu pescoço!}{}{}{}{}
+{662}{Obrigado, eu vou.}{}{5}{}{0}{}
+{663}{Hã... tá bom. Obrigado.}{}{-4}{}{0}{}
+{664}{E:}{}{1}{}{0}{}
+{665}{Você entende... não é? [ele fala mais alto, gesticulando com as mãos] Eu te levo para Caladon. Mas você tem que trabalhar pra mim e pra minha tripulação.}{Você entende... não é? [ele fala mais alto, gesticulando com as mãos] Eu te levo para Caladon. Mas você tem que trabalhar pra mim e pra minha tripulação.}{}{}{}{}
+{666}{Hã... Tá. Eu trabalho. Eu vou no barco... agora.}{}{-4}{}{-26}{}
+{667}{F:}{}{1}{}{0}{}
+{668}{Insistente, hein? O Capitão Teach conhecia aquela rota. Não mais. O pobre coitado acabou se matando. Que desperdício.}{Insistente, hein? O Capitão Teach conhecia aquela rota. Não mais. O pobre coitado acabou se matando. Que desperdício.}{}{}{}{}
+{669}{O que aconteceu?}{}{5}{}{672}{}
+{670}{O que aconteceu?}{}{-4}{}{672}{}
+{671}{E:}{}{1}{}{0}{}
+{672}{Não sei exatamente. Ouvi dizer que ele se meteu com um estranho por causa de dinheiro. Teach era do tipo bruto, veja bem. Era questão de tempo acontecer. Uma pena, se quer saber minha opinião.}{Não sei exatamente. Ouvi dizer que ele se meteu numa briga com um estranho por causa de algumas moedas. O Teach é do tipo durão, cuidado. Era só questão de tempo acontecer. Uma pena, se quer saber minha opinião.}{}{}{}{}
+{673}{Tem mais alguém que possa me levar até a ilha?}{}{5}{}{677}{}
+{674}{Preciso chegar naquela ilha!}{}{5}{}{677}{}
+{675}{Como é que eu grito agora?}{}{-4}{}{677}{}
+{676}{E:}{}{1}{}{0}{}
+{677}{Bom... Eu e o Teach costumávamos conversar... tomando uns drinques na taverna. Ele me contou o caminho. Talvez eu possa levar você até lá. Mas vai custar. Com certeza vai custar...}{Bom... Eu e o Teach costumávamos conversar... tomando uns drinques na taverna. Ele me contou o caminho. Talvez eu possa levar você até lá. Mas vai custar. Com certeza vai custar...}{}{}{}{}
+{678}{Quanto?}{}{5}{}{681}{}
+{679}{Quantas moedas?}{}{-4}{}{681}{}
+{680}{F:}{}{1}{}{0}{}
+{681}{[Ele o observa cuidadosamente] É uma coisa perigosa o que está me pedindo, senhor. O Teach era o único canalha que eu conheço com coragem para voltar vivo daquela ilha amaldiçoada...}{[Ela a observa cuidadosamente] É uma coisa perigosa o que está me pedindo, senhora. O Teach era o único canalha que eu conheço com coragem para voltar vivo daquela ilha amaldiçoada...}{}{}{}{}
+{682}{Quanto?!}{}{5}{}{685}{}
+{683}{Quantas moedas?!}{}{-4}{}{685}{}
+{684}{F:}{}{1}{}{0}{}
+{685}{Arriscar meu navio, minha vida e minha tripulação... Cinco mil moedas. Nem uma a menos.}{Arriscar meu navio, minha vida e minha tripulação... Cinco mil moedas. Nem uma a menos.}{}{}{}{}
+{686}{Isso é um absurdo!}{}{5}{}{691}{}
+{687}{Que pirataria! Tudo bem! Aqui. Vamos logo!}{}{5}{$$5000}{-32}{}
+{688}{Isso é muito!}{}{-4}{}{691}{}
+{689}{Oh! É muito... [pensa por um momento] tá bom. Aqui. Vamos.}{}{-4}{$$5000}{-32}{}
+{690}{F:}{}{1}{}{0}{}
+{691}{Essa é minha única oferta. Duvido que encontre uma melhor. O que me diz?}{Essa é minha única oferta. Duvido que encontre uma melhor. O que me diz?}{}{}{}{}
+{692}{Tudo bem! Aqui. Vamos logo!}{}{5}{$$5000}{-32}{}
+{693}{[pensa por um momento] Tá bom. Aqui. Vamos agora.}{}{-4}{$$5000}{-32}{}
+{694}{F:}{}{1}{}{0}{}
+{695}{Ah! Agora entendi... [pobre coitado simplório] Você quer negociar sua passagem a bordo! ...Bom... Você parece ser forte. Acho que poderia trabalhar pela passagem. Estou partindo para Tarant nesta mesma maré. Deixo você trabalhar até lá, se puder partir agora.}{Ah! Agora entendi... Você quer negociar sua passagem a bordo! ...Bom... Você parece ter um, hum... corpo e tanto. Talvez pudesse "trabalhar" pela passagem. Se é que me entende. Estou partindo para Tarant nesta mesma maré. Deixo você pagar pela passagem cuidando de mim e dos meus homens. Pode partir agora, garota?}{}{}{}{}
+{696}{Hã... Tá bom. Eu vou pro barco agora.}{}{-4}{}{-20}{}
+{697}{E:}{}{1}{}{0}{}
+{698}{É bem ali. [Ele aponta para um lugar no seu mapa.]}{É bem ali. [Ele aponta para um lugar no seu mapa.]}{}{}{}{mm 8}
+{699}{E:}{}{1}{}{0}{}
+{700}{Augh! Você é louco? Esse navio nunca vai lá!}{Augh! Você é louco? Esse navio nunca vai lá!}{}{}{}{}
+{701}{Onde fica o Blak Rut?}{}{-4}{}{703}{}
+{702}{E:}{}{1}{}{0}{}
+{703}{É ali. [Ele aponta para um local no seu mapa.]}{Ora, aí está. [Ele aponta para um local no seu mapa.]}{}{}{}{mm 3}
+{704}{E:}{}{1}{}{0}{}
+{705}{Arrr... A maré está boa. Está pronto para zarpar?}{Arrr... A maré está boa. Está pronto para zarpar?}{}{}{}{}
+{706}{Sim, estou pronto.}{}{5}{lf6 1}{-26}{}
+{707}{Sim, estou pronto.}{}{5}{lf15 1}{-22}{}
+{708}{Hã... Sim. Vamos agora.}{}{-4}{lf6 1}{-26}{}
+{709}{Hã... Sim. Vamos agora.}{}{-4}{lf15 1}{-22}{}
+{710}{F:}{}{1}{}{0}{}
+{711}{Arrr... Eu vou por ali. Mesmos termos de trabalho da última viagem... O que me diz?}{Arrr... Eu vou por ali. Mesmos termos de trabalho da última viagem... O que me diz?}{}{}{}{}
+{712}{Hã... Tá bom. Eu vou pro barco agora.}{}{-4}{}{-20}{}
+{713}{F:}{}{1}{}{0}{}
+

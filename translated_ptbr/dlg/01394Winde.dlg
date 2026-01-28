@@ -1,0 +1,101 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá, senhor. Posso saber seu nome?}{}{5}{me 0, re 41}{27}{}
+{3}{Saudações, Sr. Winde. Tem um momento?}{}{5}{me 1, re 41}{74}{}
+{4}{Senhor! Por que está me insultando!}{}{5}{me 0, re -40}{11}{}
+{5}{Sr. Winde! Por que essas palavras duras?}{}{5}{me 1, re -40}{11}{}
+{6}{E:}{}{5}{}{0}{}
+{7}{Oi! Quem é você?}{}{-4}{me 0}{27}{}
+{8}{Ei, Wind! Quer conversar comigo...?}{}{-4}{me 1}{74}{}
+{9}{E:}{}{-4}{}{0}{}
+{11}{Sinto muito, senhor, mas não posso ignorar suas óbvias inferioridades. Receio que prefira não me associar a você...}{Sinto muito, madame, mas não posso ignorar suas óbvias inferioridades. Receio que prefira não me associar a você...}{}{}{}{}
+{12}{Talvez possamos chegar a um meio-termo? Estou disposto a tentar...}{}{5}{me 0}{23}{re +10}
+{13}{Sr. Winde! Pensei que já tivéssemos resolvido nossas diferenças...}{}{5}{me 1}{23}{re +10}
+{14}{Está pedindo uma surra, elfo...}{}{5}{}{16}{re -5}
+{15}{E:}{}{5}{}{0}{}
+{16}{É assim mesmo, forasteiro? Que pena que se sinta dessa forma. [Ele se posiciona diante de você.] Não sou um belicista, mas derramarei seu sangue se for necessário...}{É assim mesmo, forasteiro? Que pena que se sinta dessa forma. [Ele se posiciona diante de você.] Não sou um belicista, mas derramarei seu sangue se for necessário...}{}{}{}{}
+{17}{Não precisa chegar a isso. Por favor, perdoe meu acesso de raiva...}{}{5}{}{23}{re +10}
+{18}{Vou gostar muito de lhe ensinar esta lição...}{}{5}{ra -3}{}{co, fl 21}
+{19}{Tenho vergonha de compartilharmos o mesmo sangue, covarde...}{}{5}{ra 3}{}{co, fl 21}
+{20}{E:}{}{5}{}{0}{}
+{21}{Muito bem. Você trouxe isso sobre si mesmo...}{Muito bem. Você trouxe isso sobre si mesmo...}{}{}{}{}
+{23}{[O elfo dá um passo para trás, fazendo uma leve reverência.] Perdoe-me também. Talvez possamos conversar como seres civilizados... [Ele sorri.]}{[O elfo dá um passo para trás, fazendo uma leve reverência.] Perdoe-me também. Talvez possamos conversar como seres civilizados... [Ele sorri.]}{}{}{}{}
+{24}{Eu gostaria muito disso. E quem é o senhor?}{}{5}{me 0}{27}{re +5}
+{25}{Parece ótimo, Winde. Posso lhe tomar um momento?}{}{5}{me 1}{74}{}
+{26}{E:}{}{5}{}{0}{}
+{27}{Meu nome é Sr. Winde, o mestre da caça. É um prazer conhecê-lo. [Ele olha para o céu-parece um pouco distraído.]}{Meu nome é Sr. Winde, o mestre da caça. É um prazer conhecê-lo. [Ele olha para o céu-parece um pouco distraído.]}{}{}{}{}
+{28}{O prazer é meu. O senhor disse que era mestre da caça?}{}{5}{}{33}{}
+{29}{E:}{}{5}{}{0}{}
+{30}{Oi, Wind! O que isso quer dizer... "m-mes-tre da caça"?}{}{-4}{}{33}{}
+{31}{E:}{}{-4}{}{0}{}
+{33}{Temos um grupo de caçadores que abastece Qintarra com comida e outros suprimentos. Sou o comandante deles...}{Temos um grupo de caçadores que abastece Qintarra com comida e outros suprimentos. Sou o comandante deles...}{}{}{}{}
+{34}{Entendo. Há muitos caçadores aqui em Qintarra?}{}{5}{}{40}{}
+{35}{E:}{}{5}{}{0}{}
+{36}{Hã... tá bom. Muitos caçadores?}{}{-4}{}{40}{}
+{37}{E:}{}{-4}{}{0}{}
+{40}{Não, somos uma pequena comunidade aqui... nunca precisamos de mais do que três ou quatro caçadores ao mesmo tempo. [Novamente, ele olha para cima.] A propósito, sabe que horas são?}{Não, somos uma pequena comunidade aqui... nunca precisamos de mais do que três ou quatro caçadores ao mesmo tempo. [Novamente, ele olha para cima.] Diga, por acaso sabe que horas são?}{}{}{}{}
+{41}{Claro...[Diga a ele.]}{}{5}{}{50}{}
+{42}{Hã...tempo? Do que você está falando?}{}{-4}{}{50}{}
+{50}{[Ele só ouve você pela metade.] Estou muito preocupado...há um caçador que saiu daqui ontem e não voltou. Normalmente, eu não me preocuparia, mas ele estava caçando na floresta perto dos Pântanos Sombrios. Há coisas estranhas naquelas áreas alagadas...}{[Ele só ouve você pela metade.] Estou muito preocupado...há um caçador que saiu daqui ontem e não voltou. Normalmente, eu não me preocuparia, mas ele estava caçando na floresta perto dos Pântanos Sombrios. Há coisas estranhas naquelas áreas alagadas...}{}{}{}{}
+{51}{Isso é preocupante. Posso ajudar em algo?}{}{5}{}{64}{re +5}
+{52}{K:}{}{5}{}{74}{}
+{53}{Posso ajudar, Vento?}{}{-4}{}{114}{re +5}
+{54}{K:}{}{-4}{}{74}{}
+{64}{Você ajudaria? Preciso sair para outra caçada, mas posso lhe dizer onde ele estava caçando e você poderia ir até lá. Tenho certeza de que não é nada, mas fico preocupado com meus caçadores. Se você pudesse verificar se ele está a caminho de casa em segurança, eu poderia lhe oferecer uma cota de malha élfica...}{Você ajudaria? Preciso sair para outra caçada, mas posso lhe dizer onde ele estava caçando e você poderia ir até lá. Tenho certeza de que não é nada, mas fico preocupado com meus caçadores. Se você pudesse verificar se ele está a caminho de casa em segurança, eu poderia lhe oferecer uma cota de malha élfica...}{}{}{}{qu1079 1}
+{65}{Feito...}{}{5}{}{70}{qu1079 2, gf2158 1}
+{66}{Talvez. Tenha um bom dia...}{}{5}{}{0}{}
+{67}{Claro! Eu ajudo você, Vento!}{}{-4}{}{70}{qu1079 2, gf2158 1}
+{68}{Hã... a gente conversa depois...}{}{-4}{}{0}{}
+{70}{Muito obrigado. Posso marcar no seu mapa a área geral onde ele estava caçando. [Ele o faz.] Boa sorte para você!}{Muito obrigado. Posso marcar no seu mapa a área geral onde ele estava caçando. [Ele o faz.] Boa sorte para você!}{}{}{}{mm 34}
+{71}{E:}{}{1}{}{0}{}
+{74}{Claro. Como posso ajudá-lo...?}{Claro. Como posso ajudá-lo...?}{}{}{}{}
+{76}{Você pode me treinar para ser um especialista em esquivas, Sr. Vinde?}{}{5}{tr 1 -1}{87}{et 1 117}
+{77}{O que o senhor faz por aqui, Sr. Vinde...?}{}{5}{qu1079 0, lf2 0}{33}{}
+{78}{Talvez eu possa ajudá-lo a encontrar o caçador élfico perdido...}{}{5}{qu1079 1, lf2 0}{64}{}
+{79}{Ainda não encontrei o caçador élfico perdido...}{}{5}{qu1079 2, gf2741 0, lf2 0}{92}{}
+{80}{Encontrei o caçador élfico perdido...}{}{5}{qu1079 2, gf2741 1, gf2156 0, lf2 0}{97}{}
+{81}{Encontrei o caçador élfico perdido...}{}{5}{qu1079 2, gf2156 1, lf2 0}{100}{}
+{82}{Encontrei o caçador élfico perdido...}{}{5}{qu1079 6, lf2 0}{140}{}
+{83}{Hã...você me treina pra ser um es-es-pecialista em esquivas, Vento?}{}{-4}{tr 1 -1}{87}{et 1 117}
+{84}{O que você faz aqui na cidade das árvores, Vento?}{}{-4}{lf2 0}{33}{}
+{85}{E:}{}{1}{}{0}{}
+{87}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{}{}{}
+{88}{K:}{}{1}{}{74}{}
+{89}{E:}{}{1}{}{0}{}
+{92}{Entendo. Espero que consiga um tempo para investigar este assunto...}{Entendo. Espero que consiga um tempo para investigar este assunto...}{}{}{}{}
+{93}{E:}{}{5}{}{0}{}
+{97}{Sim...ele voltou aqui e me contou o que aconteceu com os Bedokaan. Os elfos de Qintarra estão em dívida com você, amigo. Por favor...pegue a armadura que prometi como pagamento por suas ações corajosas. Adeus e boa sorte...}{Sim...ele voltou aqui e me contou o que aconteceu com os Bedokaan. Os elfos de Qintarra estão em dívida com você, amigo. Por favor...pegue a armadura que prometi como pagamento por suas ações corajosas. Adeus e boa sorte...}{}{}{}{qu1079 4, in -2813, lf2 1}
+{98}{E:}{}{5}{}{0}{}
+{100}{Isso é estranho...ele nunca voltou aqui. Você sabe o que aconteceu com ele?}{Isso é estranho...ele nunca voltou aqui. Você sabe o que aconteceu com ele?}{}{}{}{}
+{101}{Não...eu, hã, achei que ele estava voltando para cá...}{}{5}{}{104}{al -10}
+{102}{Infelizmente, o pobre coitado morreu...}{}{5}{}{107}{al +20}
+{104}{Receio que algo terrível tenha acontecido com ele. [Ele olha para você, desconfiado.] Receio que não haverá pagamento a menos que ele retorne. Espero sinceramente que ele volte...}{Receio que algo terrível tenha acontecido com ele. [Ele olha para você, desconfiado.] Receio que não haverá pagamento a menos que ele retorne. Espero sinceramente que ele volte...}{}{}{}{}
+{105}{E:}{}{5}{}{0}{}
+{107}{Entendo. [O Sr. Winde parece muito triste.] Agradeço pela sua honestidade. Infelizmente, não poderei lhe dar a armadura, mas aprecio sua franqueza no assunto. Tenha um bom dia, senhor...}{Entendo. [O Sr. Winde parece muito triste.] Agradeço pela sua honestidade. Infelizmente, não poderei lhe dar a armadura, mas aprecio sua franqueza no assunto. Tenha um bom dia, senhora...}{}{}{}{lf2 1}
+{108}{E:}{}{5}{}{0}{}
+{114}{Sinto muito, meu amigo. Agradeço pela oferta, mas não acho que você tenha as faculdades mentais necessárias para assumir tal responsabilidade. Sinto muito. Tenha um bom dia...}{Sinto muito, meu amigo. Agradeço pela oferta, mas não acho que você tenha as faculdades mentais necessárias para assumir tal responsabilidade. Sinto muito. Tenha um bom dia...}{}{}{}{}
+{115}{E:}{}{-4}{}{0}{}
+{117}{Ora, sim! E me parece que você já tem algum treinamento. Um elfo reconhece essas coisas só pelo jeito que alguém se move, sabe? Infelizmente, o custo é de 500 peças de ouro... a tradição exige...}{Ora, sim! E me parece que você já tem algum treinamento. Um elfo reconhece essas coisas só pelo jeito que alguém se move, sabe? Infelizmente, o custo é de 500 peças de ouro... a tradição exige...}{}{}{}{}
+{118}{Claro. Aqui está o dinheiro... [Dê a ele.]}{}{5}{$500}{126}{ $$-500}
+{119}{Entendo. Talvez eu volte mais tarde. Mas algumas perguntas a mais...}{}{5}{$$500}{74}{}
+{120}{Eu não tenho o dinheiro agora...}{}{5}{$$-499}{135}{}
+{121}{Sim! Aqui está o dinheiro...! [Dê a ele.]}{}{-4}{$500}{126}{$$-500}
+{122}{Hmm... talvez mais tarde. Tenho mais perguntas!}{}{-4}{$$500}{74}{}
+{123}{Eu não tenho dinheiro agora...}{}{-4}{$$-499}{135}{}
+{124}{E:}{}{1}{}{0}{}
+{126}{Ah... veja, aqui estão as formas que você precisa praticar, assim... [Ele mostra a você.] Pronto! Você parece ter pegado o jeito! Bem feito...}{Ah... veja, aqui estão as formas que você precisa praticar, assim... [Ele mostra a você.] Pronto! Você parece ter pegado o jeito! Bem feito...}{}{}{}{tr 1 2, rq2178}
+{127}{Diga-me... quem é o Mestre do Esquiva?}{}{5}{}{130}{}
+{128}{Hã... quem mestre homem esquiva?}{}{-4}{}{130}{}
+{130}{Bem, é claro que eu realmente não deveria lhe dizer exatamente quem ele é, mas... [Ele se aproxima de você.] Já ouviu falar de Stillwater, meu amigo? Talvez seja um bom lugar para visitar nesta época do ano. Procure um homem chamado Adkin Chambers...}{Bem, é claro que eu realmente não deveria lhe dizer exatamente quem ele é, mas... [Ele se aproxima de você.] Já ouviu falar de Stillwater, meu amigo? Talvez seja um bom lugar para visitar nesta época do ano. Procure um homem chamado Adkin Chambers...}{}{}{}{ru 2163}
+{131}{Obrigado, Sr. Winde. Mais algumas perguntas?}{}{5}{}{74}{}
+{132}{Tá bom, Wind! Mais algumas perguntas?}{}{-4}{}{74}{}
+{133}{E:}{}{1}{}{0}{}
+{135}{Bem, você pode voltar aqui a qualquer momento assim que tiver o dinheiro...}{Bem, você pode voltar aqui a qualquer momento assim que tiver o dinheiro...}{}{}{}{}
+{136}{K:}{}{1}{}{74}{}
+{137}{E:}{}{1}{}{0}{}
+{140}{Você o viu? O que aconteceu com ele?}{Você o viu? O que aconteceu com ele?}{}{}{}{}
+{141}{Ele... hã... foi morto pelos Bedokaan!}{}{1}{}{107}{al -20}
+{142}{Ele estava morto quando o encontrei...}{}{1}{}{107}{al -20}
+{143}{Eu o traí e entreguei os Bedokaan a um caçador. Foi bem lucrativo...}{}{1}{}{}{co, fl 150}
+{144}{E:}{}{1}{}{0}{}
+{150}{O quê? Eu vingarei sua morte! Morra!}{O quê? Eu vingarei sua morte! Morra!}{}{}{}{}
+

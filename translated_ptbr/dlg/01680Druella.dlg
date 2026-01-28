@@ -1,0 +1,395 @@
+{1}{[Esta mulher parece estar saindo de um transe.] O quê..? Quem é você... e essas criaturas? O que está acontecendo?}{[Esta mulher parece estar saindo de um transe.] O quê..? Quem é você... e essas criaturas? O que está acontecendo?}{}{}{}{lf 7 1}
+{2}{A senhora está livre! Essas criaturas foram destruídas.}{}{5}{qu1114 0, qu1105 0 , lf 1 0}{14}{lf 1 1}
+{3}{Com licença, Lady Druella...}{}{5}{qu1114 0, qu1105 0 , lf 1 1}{232}{lf 1 1}
+{4}{Lady Druella, a senhora está livre! Estou aqui para resgatá-la!}{}{5}{qa 1114 1}{36}{lf 1 1}
+{5}{A senhora está livre! Tenho notícias tremendas para lhe dar, madame!}{}{5}{qa 1105 2, qa 1114 2}{14}{lf 1 1}
+{6}{Eu salvei você! Agora está tudo bem.}{}{-4}{qu1114 0, qu1105 0 , lf 1 0}{14}{lf 1 1}
+{7}{Urgh?}{}{-4}{qu1114 0, qu1105 0 , lf 1 1}{232}{lf 1 1}
+{8}{Senhora. Venha comigo. Eu a resgatei deste lugar ruim.}{}{-4}{qa 1114 1}{36}{lf 1 1}
+{9}{Ei, senhora, eu preciso falar com você... Tenho uma coisa para lhe contar.}{}{-4}{qa 1105 2, qa 1114 2}{14}{lf 1 1}
+{10}{E:}{}{1}{}{0}{lf 7 0}
+{14}{Por quê!?! Por que interrompeu meu luto? Eu não o conheço. Não tenho nada a dizer! Deixe-me com minha miséria!}{Por quê!?! Por que interrompeu meu luto? Eu não o conheço. Não tenho nada a dizer! Deixe-me com minha miséria!}{}{}{}{}
+{15}{Por quê? Porque eles a teriam matado! Quem é você, afinal?}{}{5}{qu1114 0, qu1105 0}{22}{}
+{16}{O que está fazendo aqui? Quem é você?}{}{5}{qu1114 0, qu1105 0}{22}{}
+{17}{É esse o agradecimento que recebo? Talvez eu devesse tê-la deixado morrer...}{}{5}{}{31}{re -5}
+{19}{Hã. Agora a senhora está segura. Tudo bem. Qual é o seu nome?}{}{-4}{}{22}{}
+{20}{Talvez fosse melhor tê-la deixado morrer...}{}{-4}{}{31}{re +5}
+{21}{E:}{}{1}{}{0}{lf 7 0}
+{22}{Eu sou a Lady Druella, se precisa saber. Agora, por favor, vá embora daqui. Não quero companhia.}{Eu sou a Lady Druella, se precisa saber. Agora, por favor, vá embora daqui. Não quero companhia.}{}{}{}{}
+{23}{Mas eu acabei de resgatá-la! Não posso simplesmente deixá-la aqui...}{}{5}{}{36}{}
+{24}{Mas Sir Garrick me enviou para resgatá-la...}{}{5}{qu1114 2}{90}{}
+{25}{Ah, você é a criada que Sir Garrick mencionou...}{}{5}{qu1114 1}{90}{}
+{26}{Tudo bem. Se é assim que quer, eu irei embora.}{}{5}{}{0}{lf 7 0}
+{27}{Ótimo. Fui enviado para resgatá-la. Agora está segura!}{}{-4}{}{36}{}
+{28}{Eu vim buscá-la para Sir Gareek...}{}{-4}{qu1114 2}{90}{}
+{29}{Oh! Sir Gareek falou de você!}{}{-4}{qu1114 1}{90}{}
+{30}{Tá bom. Acho que você está louca, senhora. Tchau!}{}{-4}{}{0}{lf 7 0}
+{31}{Sim, talvez devesse mesmo! Agora deixe-me com minha miséria!}{Sim, talvez devesse mesmo! Agora deixe-me com minha miséria!}{}{}{}{}
+{32}{A senhora está muito perturbada. Quem é você?}{}{5}{}{22}{}
+{33}{Senhora, a senhora foi resgatada! E trago boas notícias!}{}{5}{qa 1105 1, qa 1114 1}{413}{}
+{34}{Você está muito triste. Qual é o seu nome?}{}{-4}{}{22}{}
+{35}{A dama está livre. A dama está bem agora!}{}{-4}{qa 1105 1, qa 1114 1}{413}{}
+{36}{Ninguém pode me resgatar das profundezas do meu desespero. Meu amado está morto. Ele era um homem bondoso, nobre e belo, chamado Adkin Chambers, mas se foi para sempre! Quem dera eu pudesse me juntar a ele!}{Ninguém pode me resgatar das profundezas do meu desespero. Meu amado está morto. Ele era um homem bondoso, nobre e belo, chamado Adkin Chambers, mas se foi para sempre! Quem dera eu pudesse me juntar a ele!}{}{}{}{}
+{37}{Se não for muito doloroso, por favor, conte-me sua história.}{}{5}{}{43}{}
+{38}{Você acha que Adkin Chambers está morto? Ele não está, posso lhe assegurar.}{}{5}{gf 2286 0 , lf 10 0}{104}{lf 10 1}
+{39}{[Mentira.] Você acha que Adkin Chambers está morto? Ele não está, posso lhe assegurar.}{}{5}{gf 2286 1, lf 10 0}{104}{lf 10 1}
+{40}{Ele morreu? Quem o matou?}{}{-4}{}{43}{}
+{41}{Oh! Não! Adkin Chambers não pode estar morto!}{}{-4}{gf 2286 0 , lf 10 0}{104}{lf 10 1}
+{42}{[MENTIRA] Adkin não está morto. Não está nem um pouco morto.}{}{-4}{gf 2286 1, lf 10 0}{104}{lf 10 1}
+{43}{Tudo foi culpa daquela besta, Garrick Stout!}{Tudo foi culpa daquela besta, Garrick Stout!}{}{}{}{}
+{44}{Por favor, continue.}{}{5}{}{49}{}
+{46}{O que aconteceu?}{}{-4}{}{49}{}
+{47}{}{}{}{}{}{}
+{48}{Não! Por favor! Alguém me ajude!}{Não! Por favor! Alguém me ajude!}{}{}{}{}
+{49}{Ambos os homens disputavam minha mão em casamento. Eu dei meu favor a Adkin e ficamos noivos. Quando Sir Garrick soube da notícia, ficou loucamente ciumento e desafiou Adkin para um duelo. Eu implorei para que Adkin não aceitasse, mas ele insistiu, pois era uma questão de honra.}{Ambos os homens disputavam minha mão em casamento. Eu dei meu favor a Adkin e ficamos noivos. Quando Sir Garrick soube da notícia, ficou loucamente ciumento e desafiou Adkin para um duelo. Eu implorei para que Adkin não aceitasse, mas ele insistiu, pois era uma questão de honra.}{}{}{}{lf 8 1}
+{50}{O que aconteceu então?}{}{5}{}{56}{}
+{52}{E então?}{}{-4}{}{56}{}
+{56}{Adkin se defendeu por um tempo, mas logo ficou claro que Sir Garrick era o melhor guerreiro. Adkin se rendeu e Sir Garrick se aproximou como se fosse saudá-lo. No último momento, aquele bruto puxou sua lâmina, cortando o rosto de Adkin!}{Adkin se defendeu por um tempo, mas logo ficou claro que Sir Garrick era o melhor guerreiro. Adkin se rendeu e Sir Garrick se aproximou como se fosse saudá-lo. No último momento, aquele bruto puxou sua lâmina, cortando o rosto de Adkin!}{}{}{}{}
+{57}{Esse "Sir Garrick" não parece ser um homem de honra.}{}{5}{}{63}{re +5}
+{58}{E depois?}{}{5}{}{63}{}
+{59}{Garrick é um homem mau!}{}{-4}{}{63}{re +5}
+{60}{E então?}{}{-4}{}{63}{}
+{63}{O sangue jorrava por toda parte! Eu gritei de horror quando Adkin caiu no chão, seu sangue vital escorrendo do corpo. Sir Garrick ficou de pé, orgulhoso, e soltou um grito bestial de triunfo. Eu fugi da cena, com medo de ver o que aquela besta havia feito ao corpo sem vida do meu amado.}{O sangue jorrava por toda parte! Eu gritei de horror quando Adkin caiu no chão, seu sangue vital escorrendo do corpo. Sir Garrick ficou de pé, orgulhoso, e soltou um grito bestial de triunfo. Eu fugi da cena, com medo de ver o que aquela besta havia feito ao corpo sem vida do meu amado.}{}{}{}{}
+{64}{Sim, posso entender por que você fugiria.}{}{5}{}{70}{}
+{65}{Sinto muito por você, Lady Druella.}{}{5}{}{70}{}
+{66}{Sir Garrick gostaria de fazer as pazes, se você permitir...}{}{5}{qa 1114 1}{136}{}
+{67}{Sir Garrick não quer que você fique triste. Ele tem uma coisa para te ajudar...}{}{-4}{qa 1114 1}{136}{}
+{68}{Deve ter sido horrível para você.}{}{-4}{}{70}{}
+{69}{Você tem razão em ficar assustado e fugir.}{}{-4}{}{70}{}
+{70}{Vaguei sem rumo por muitos dias. Sem me importar comigo mesmo, perdido na miséria dos meus pensamentos. Encontrei este lugar enquanto passava por estas florestas. Senti que era certo ficar aqui com os Gyr-Dolours. Eles cuidaram de mim e, por um tempo, tive paz.}{Vaguei sem rumo por muitos dias. Sem me importar comigo mesmo, perdido na miséria dos meus pensamentos. Encontrei este lugar enquanto passava por estas florestas. Senti que era certo ficar aqui com os Gyr-Dolours. Eles cuidaram de mim e, por um tempo, tive paz.}{}{}{}{}
+{71}{Sim, aposto que aqueles Gyr-Dolours fizeram você se sentir muito bem-vindo.}{}{5}{}{73}{}
+{72}{Mas eles vão te comer!}{}{-4}{}{73}{}
+{73}{Eu não estava em perigo, nem pedi sua ajuda! Respondi às suas perguntas... agora deixe-me com a minha miséria!}{Eu não estava em perigo, nem pedi sua ajuda! Respondi às suas perguntas... agora deixe-me com a minha miséria!}{}{}{}{}
+{74}{Ouvi sua história. Stout deseja se reconciliar com você.}{}{5}{qa 1114 1}{90}{}
+{75}{Ouvi sua história. Mas Adkin Chambers está vivo!}{}{5}{qa 1105 1, gf2286 0, lf 10 0}{104}{re +15, lf 10 1}
+{76}{[MENTIRA] Eu lhe digo agora, Adkin Chambers está vivo!}{}{5}{qa 1105 1, gf2286 1, lf 10 0}{104}{re +15, lf 10 1}
+{77}{Eu tenho uma mensagem. O senhor Stout... Ele quer se casar com você.}{}{-4}{qa 1114 1}{90}{}
+{78}{Eu escutei bem. Eu digo que Adkin não está morto, ele está vivo.}{}{-4}{qa 1105 1, gf2286 0, lf 10 0}{104}{re +15, lf 10 1}
+{79}{[MENTIRA] Eu escutei bem. Eu digo que Adkin não está morto, ele está vivo.}{}{-4}{qa 1105 1, gf2286 1, lf 10 0}{104}{re +15, lf 10 1}
+{80}{A:}{}{1}{lf 10 1}{413}{}
+{90}{Sir Garrick?! Você veio até mim da parte de Sir Garrick?! Como ousa!}{Sir Garrick?! Você veio até mim da parte de Sir Garrick?! Como ousa!}{}{}{}{}
+{92}{S:}{}{1}{lf 10 1}{125}{}
+{94}{S:}{}{1}{lf 10 0}{97}{}
+{97}{Desculpas?! Aquele porco! A remorso dele trará Adkin de volta? Trará?!}{Desculpas?! Aquele porco! A remorso dele trará Adkin de volta? Trará?!}{}{}{}{}
+{98}{Trazer Adkin de volta? Mas, minha senhora, Adkin não está morto.}{}{5}{gf2280 0, gf 2286 0}{104}{}
+{99}{Adkin não está morto. Eu o vi e ele está muito vivo.}{}{5}{gf2280 1, gf 2286 0}{104}{}
+{100}{[MENTIRA] Adkin não está morto. Eu o vi e ele está muito vivo.}{}{5}{gf2286 1}{104}{}
+{101}{Trazer Aken de volta? Aken não tá morto!}{}{-4}{gf2280 0, gf 2286 0}{104}{}
+{102}{Aken não tá morto. Eu vi ele. Ele tá vivo.}{}{-4}{gf2280 1, gf 2286 0}{104}{}
+{103}{[MENTIRA] Aken não tá morto. Eu vi ele. Ele tá vivo!}{}{-4}{gf2286 1}{104}{}
+{104}{Não está morto? Não está morto! Adkin está vivo! Mas como isso é possível? Eu o vi ser atingido... ele caiu no chão. Havia sangue por toda parte...}{Não está morto? Não está morto! Adkin está vivo! Mas como isso é possível? Eu o vi ser atingido... ele caiu no chão. Havia sangue por toda parte...}{}{}{}{}
+{105}{Ele não foi ferido mortalmente, minha senhora.}{}{5}{}{111}{}
+{106}{Ele foi ferido, mas sobreviveu à batalha.}{}{5}{}{111}{}
+{107}{Ele não morreu dos ferimentos, senhora.}{}{-4}{}{111}{}
+{108}{Ele se machucou, mas ainda tá vivo.}{}{-4}{}{111}{}
+{111}{E então? O que aconteceu com ele? Conte-me!}{E então? O que aconteceu com ele. Conte-me!}{}{}{}{}
+{112}{Sir Garrick me disse que ele ficou cego na batalha.}{}{5}{}{118}{}
+{113}{Sua visão foi prejudicada durante a batalha. Receio que ele esteja cego.}{}{5}{}{118}{}
+{114}{Depois que Adkin se rendeu, Sir Garrick o cegou em um acesso de ciúmes.}{}{5}{}{118}{}
+{115}{Sir Gareek me disse que ele ficou cego quando eles lutaram.}{}{-4}{}{118}{}
+{116}{Seus olhos se feriram quando eles lutaram. Estou triste em dizer que ele está cego.}{}{-4}{}{118}{}
+{117}{Depois que A'ken quis parar a luta, Sir Gareek o cegou para que ele não pudesse vê-lo.}{}{-4}{}{118}{}
+{118}{Aquele monstro horrível, horrível! Eu sabia que não havia honra em Sir Garrick. Estou radiante com a notícia de que Adkin está vivo... mas meu coração está partido pela perda de sua visão. Você sabe como isso o afetou?}{Aquele monstro horrível, horrível! Eu sabia que não havia honra em Sir Garrick. Estou radiante com a notícia de que Adkin está vivo... mas meu coração está partido pela perda de sua visão. Você sabe como isso o afetou?}{}{}{}{}
+{119}{Fui informado de que ele está amargurado e enlouquecido, vivendo como um recluso.}{}{5}{gf2280 0, gf 2286 0}{125}{}
+{120}{Ele se tornou um homem amargurado, existindo na esperança de vingança.}{}{5}{gf2280 1, gf 2286 0}{125}{}
+{121}{[MENTIRA] Ele vive em Stillwater. Está amargurado e enlouquecido, vivendo como um recluso.}{}{5}{gf2286 1}{125}{}
+{122}{Ouvi dizer que ele é um homem louco agora. Bravo com todos, vive sozinho.}{}{-4}{gf2280 0, gf 2286 0}{125}{}
+{123}{Ele é um homem louco. Só quer vingança de Sir Gareek por causa dos olhos.}{}{-4}{gf2280 1, gf 2286 0}{125}{}
+{124}{[MENTIRA] Ele fez um barraco nas montanhas. Em Stillwater, eu acho.}{}{-4}{gf2286 1}{125}{}
+{125}{Oh, meu! [Ela começa a soluçar.] Adkin certamente deve me culpar também! O que eu fiz... o que eu fiz?!}{Oh, meu! [Ela começa a soluçar.] Adkin certamente deve me culpar também! O que eu fiz... o que eu fiz?!}{}{}{}{}
+{126}{Pelo que lhe diz respeito, Sir Garrick gostaria de fazer as pazes.}{}{5}{qa1114 1}{136}{}
+{127}{Você parece excessivamente perturbada. Conte-me o que Sir Garrick fez a você...}{}{5}{lf 8 0}{49}{lf 8 1}
+{128}{Não, ele não quer! Adkin me pediu para encontrá-lo!}{}{5}{qa1105 1}{241}{lf5 1}
+{129}{Adkin não guarda rancor de você, madame. Seu ódio é apenas por Stout.}{}{5}{qa1105 1}{241}{lf5 1}
+{130}{Sir Gareek quer fazer você feliz de novo...}{}{-4}{qa1114 1}{136}{}
+{131}{Sir Gareek não quer que você fique triste. Ele tem uma coisa para te ajudar...}{}{-4}{qa1114 1}{136}{}
+{132}{Homem cego... ele não está bravo com você. Ele quer que eu o encontre.}{}{-4}{qa1105 1}{241}{lf5 1}
+{133}{Não chore, senhora. Não chore... Por favor, não chore. Qual é o problema?}{}{-4}{lf 8 0}{49}{lf 8 1}
+{136}{O quê!?! O que aquele canalha poderia oferecer que fosse de alguma importância para mim?}{O quê!?! O que aquele canalha poderia oferecer que fosse de alguma importância para mim?}{}{}{}{}
+{137}{Sir Garrick encontrou uma cura para Adkin.}{}{5}{}{141}{}
+{138}{Ele disse que pode fazer o homem cego enxergar de novo!}{}{-4}{}{141}{}
+{141}{Curá-lo? Completamente? Restaurar a visão que foi arrancada com uma lâmina? Isso é uma magia poderosa! Essa é uma notícia maravilhosa... mas estou intrigada. A ira ciumenta de Sir Garrick se acalmou? Ele espera se redimir de seu ato maligno curando Adkin?}{Curá-lo? Completamente? Restaurar a visão que foi arrancada com uma lâmina? Isso é uma magia poderosa! Essa é uma notícia maravilhosa... mas estou intrigada. A ira ciumenta de Sir Garrick se acalmou? Ele espera se redimir de seu ato maligno curando Adkin?}{}{}{}{}
+{142}{Ele está disposto a curar Adkin por sua causa. Mas há um preço...}{}{5}{gf 2286 0}{146}{}
+{143}{[MENTIRA] Ele está disposto a curar Adkin por sua causa. Mas há um preço...}{}{5}{gf 2286 1}{146}{}
+{144}{Ele faz Aken melhorar pra você ficar feliz. Mas você tem que fazer uma coisa.}{}{-4}{gf 2286 0}{146}{}
+{145}{[MENTIRA] Ele faz Aken melhorar pra você ficar feliz. Mas você tem que fazer uma coisa.}{}{-4}{gf 2286 1}{146}{}
+{146}{Um preço? O que ele poderia querer como... Ah, não! Não! Ele ainda me deseja? Esse é o preço?}{Um preço? O que ele poderia querer como... Ah, não! Não! Ele ainda me deseja? Esse é o preço?}{}{}{}{}
+{147}{Sua mão em casamento é o que ele deseja.}{}{5}{}{153}{}
+{148}{Receio que sim, minha senhora. Ele quer sua mão em casamento.}{}{5}{}{153}{}
+{149}{É! Ele quer você disposta a casar com ele!}{}{-4}{}{153}{}
+{153}{[Ela está obviamente horrorizada.] Disposta! Ha! Aquele será o dia! Quando eu me submeter de bom grado àquele bárbaro exagerado! Aquele "Sir" autoproclamado não passa de um bruto lascivo de baixa estirpe!}{[Ela está obviamente horrorizada.] Disposta! Ha! Aquele será o dia! Quando eu me submeter de bom grado àquele bárbaro exagerado! Aquele "Sir" autoproclamado não passa de um bruto lascivo de baixa estirpe!}{}{}{}{lf3 1}
+{154}{Então você vai deixar Adkin em seu estado miserável?}{}{5}{}{160}{}
+{155}{Se você realmente ama Adkin, não faria qualquer coisa para curá-lo?}{}{5}{}{160}{}
+{156}{Então você não quer fazer Aken enxergar de novo?}{}{-4}{}{160}{}
+{160}{Não posso acreditar que ele me chantagearia para me casar! Eu estava errada em pensar que não poderia ter uma opinião pior daquele homem!}{Não posso acreditar que ele me chantagearia para me casar! Eu estava errada em pensar que não poderia ter uma opinião pior daquele homem!}{}{}{}{}
+{161}{Esses são os termos de sua oferta. Qual é a sua resposta?}{}{5}{}{167}{}
+{162}{Sinto muito que ele esteja forçando você a se casar com ele.}{}{5}{}{167}{}
+{163}{É isso que ele diz. Você vai fazer?}{}{-4}{}{167}{}
+{164}{Sinto muito. Não é legal ele fazer você fazer isso.}{}{-4}{}{167}{}
+{167}{E o que você ganha com essa troca, permita-me perguntar?}{E o que você ganha com essa troca, permita-me perguntar?}{}{}{}{}
+{169}{Ele concordou em me ensinar a dominar minhas habilidades de combate.}{}{5}{}{174}{}
+{171}{Ele me faz um bom lutador, igual a ele! Se você voltar.}{}{-4}{}{174}{}
+{172}{}{}{}{}{}{}
+{173}{}{}{}{}{}{}
+{174}{Por favor, diga-me se entendi corretamente. Se você me levar de volta a Sir Garrick, e eu concordar em me casar com ele, ele irá treiná-lo. Então você será igual a ele em combate?}{Por favor, diga-me se entendi corretamente. Se você me levar de volta a Sir Garrick, e eu concordar em me casar com ele, ele irá treiná-lo. Então você será igual a ele em combate?}{}{}{}{}
+{175}{Sim, esse é o nosso acordo.}{}{5}{}{179}{}
+{176}{É!}{}{-4}{}{179}{}
+{179}{Diga-me, senhor, sua lealdade está com Sir Garrick?}{Diga-me, senhora, sua lealdade está com Sir Garrick?}{}{}{}{}
+{180}{Um homem com sua habilidade deve ser respeitado.}{}{5}{}{447}{}
+{181}{Eu concordei em vingar Adkin Chambers.}{}{5}{qa 1105 1}{193}{}
+{182}{Não tenho lealdade a ele, tampouco inimizade.}{}{5}{}{186}{}
+{183}{Ele mestre de luta! Me querer ele ser meu amigo!}{}{-4}{}{447}{}
+{184}{Me matar Stout. Me ter acordo com Homem Cego.}{}{-4}{qa 1105 1}{193}{}
+{185}{Me só leal a me. Mais ninguém!}{}{-4}{}{186}{}
+{186}{Eu já imaginava. Criaturas como ele não costumam ter muitos seguidores leais. Talvez você e eu possamos chegar a um acordo?}{Eu já imaginava. Criaturas como ele não costumam ter muitos seguidores leais. Talvez você e eu possamos chegar a um acordo?}{}{}{}{}
+{188}{O que gostaria que eu fizesse?}{}{5}{}{193}{}
+{190}{O que você qué que eu faça?}{}{-4}{}{193}{}
+{193}{Se eu voltar para Sir Garrick e concordar em me casar com ele, ele restaurará a saúde plena de Adkin. Então, ele treinará você como Mestre de Luta, para que se torne seu igual. Depois de treinado, estaria disposto a destruir a fera por mim?}{Se eu voltar para Sir Garrick e concordar em me casar com ele, ele restaurará a saúde plena de Adkin. Então, ele treinará você como Mestre de Luta, para que se torne seu igual. Depois de treinado, estaria disposto a destruir a fera por mim?}{}{}{}{}
+{194}{O que eu ganharia com isso?}{}{5}{}{201}{}
+{195}{Qual seria o meu incentivo para fazer uma coisa dessas?}{}{5}{}{201}{}
+{196}{Isso não seria honroso. Não quero ter parte nisso!}{}{5}{}{212}{}
+{197}{O que você me dá pra fazer isso?}{}{-4}{}{201}{}
+{198}{Isso num é honroso. Me num faz!}{}{-4}{}{212}{}
+{201}{Eu esperava que seu senso de decência fosse suficiente! Não tenho nada de valor para lhe oferecer...}{Eu esperava que seu senso de decência fosse suficiente! Não tenho nada de valor para lhe oferecer...}{}{}{}{lf4 1}
+{202}{Eu o matarei. Um homem tão desprovido de moral deve ser destruído.}{}{5}{}{226}{}
+{203}{Eu o mataria de qualquer forma.}{}{5}{}{226}{}
+{204}{Não. Eu não o matarei.}{}{5}{}{212}{}
+{205}{Me pegar ele. Ele muito ruim. Num querer ele fazer mais mal.}{}{-4}{}{226}{}
+{206}{Me ia matar ele de qualquer jeito. Me faz pra você também.}{}{-4}{}{226}{}
+{207}{Não. Me num matar ele.}{}{-4}{}{212}{}
+{208}{}{}{}{}{}{}
+{209}{}{}{}{}{}{}
+{212}{Então ficarei aqui. Não me casarei com esse monstro apenas para restaurar a visão de Adkin. O conhecimento do que fiz destruiria Adkin!}{Então ficarei aqui. Não me casarei com esse monstro apenas para restaurar a visão de Adkin. O conhecimento do que fiz destruiria Adkin!}{}{}{}{}
+{213}{Não acredito que você queira que Adkin continue sofrendo!}{}{5}{}{219}{}
+{214}{Mulher teimosa! Estão lhe oferecendo uma chance de ajudar seu amor!}{}{5}{}{219}{}
+{215}{Desculpe, mas você não tem escolha. Estou insistindo que venha comigo.}{}{5}{}{453}{}
+{216}{Num entendo por que você qué que o A'ken continue cego!}{}{-4}{}{219}{}
+{217}{Eu digo pra você vir comigo ou então eu fico bravo.}{}{-4}{}{453}{}
+{219}{O sofrimento de Adkin seria maior se ele soubesse que eu me casei com seu maior inimigo. Saia daqui! Volte para o seu mestre!}{O sofrimento de Adkin seria maior se ele soubesse que eu me casei com seu maior inimigo. Saia daqui! Volte para o seu mestre!}{}{}{}{}
+{220}{Bobagem! Você vem comigo agora. À força, se necessário.}{}{5}{}{453}{lf 8 1, lf 6 1, al -200}
+{221}{Acho que deveria bater em você para fazer entrar algum juízo...}{}{5}{}{}{re -10,  co,  fl 48}
+{223}{Venha agora ou então eu fico bravo.}{}{-4}{}{453}{lf 8 1, lf 6 1, al -200}
+{224}{Pode ser que depois que eu te machucar um pouco, aí você veja que é uma boa oferta...}{}{-4}{}{}{re -10,  co,  fl 48}
+{225}{E:}{}{1}{}{0}{qu1115 6}
+{226}{Está combinado então. Vamos logo, desejo acabar com o sofrimento de Adkin rapidamente!}{Está combinado então. Vamos logo, desejo acabar com o sofrimento de Adkin rapidamente!}{}{}{}{qu1114 3, lf 6 1, lf 14 1, rp 1074}
+{227}{Venha, siga-me. Vou levá-lo até Sir Garrick.}{}{5}{}{-10}{}
+{228}{Venha comigo. Vamos até Sir Garrick e terminamos com isso.}{}{5}{}{-10}{}
+{230}{Venha. Eu levo você até Sir Gareek.}{}{-4}{}{-10}{}
+{231}{E:}{}{1}{}{-10}{}
+{232}{Oh! É você. Por que insiste em me incomodar!? Não entendeu quando eu disse que queria ficar sozinho!?}{Oh! É você. Por que insiste em me incomodar!? Não entendeu quando eu disse que queria ficar sozinho!?}{}{}{}{}
+{233}{Preciso falar com você. Tenho uma mensagem de Sir Garrick.}{}{5}{qa1114 1, qb1114 2}{90}{}
+{234}{Tenho notícias que vão lhe trazer alegria. Adkin não está morto!}{}{5}{qa1114 1, qb1114 2}{104}{}
+{235}{Sua falta de gratidão lhe custou a vida, vadia!}{}{5}{}{}{co, fl 48}
+{236}{Sinto muito por incomodá-lo. Adeus.}{}{5}{}{0}{}
+{237}{Eu preciso falar com você. Tenho uma mensagem de Sir Gareek.}{}{-4}{qa1114 1, qb1114 2}{90}{}
+{238}{Não fique triste. A'ken não está morto.}{}{-4}{qa1114 1, qb1114 2}{104}{}
+{239}{Você tá sendo muito malvado. Isso me deixa bravo! Você vai morrer agora!}{}{-4}{}{}{co, fl 48}
+{240}{Desculpe. Vou embora agora.}{}{-4}{}{0}{}
+{241}{Você o viu!? Você realmente falou com Adkin?}{Você o viu!? Você realmente falou com Adkin?}{}{}{}{}
+{243}{Eu vi.}{}{5}{}{247}{}
+{245}{Sim. Eu falei com ele.}{}{-4}{}{247}{}
+{247}{E como ele está... depois do que aconteceu?}{E como ele está... depois do que aconteceu?}{}{}{}{}
+{248}{Ele é muito amargo. A vingança é seu propósito de viver.}{}{5}{}{251}{}
+{249}{A vingança é sua companheira constante. É uma existência amarga.}{}{5}{}{251}{}
+{250}{Ele homem engraçado! A vingança o deixa louco.}{}{-4}{}{251}{}
+{251}{Foi por isso que ele o enviou aqui? Ele busca vingança contra mim?}{Foi por isso que ele o enviou aqui? Ele busca vingança contra mim?}{}{}{}{}
+{252}{Não. Ele me enviou para matar Sir Garrick. E trazer notícias suas...}{}{5}{}{258}{}
+{253}{Ele não deseja lhe fazer mal. Fui enviado para matar Sir Garrick.}{}{5}{}{258}{}
+{255}{Não. Ele quer que eu mate Sir Gareek. Ele quer saber como você faz...}{}{-4}{}{258}{}
+{256}{Ele não quer machucar você. Eu fui enviado para matar Sir Gareek.}{}{-4}{}{258}{}
+{257}{E:}{}{-4}{}{0}{}
+{258}{Por que ainda não o fez? Por que está perdendo tempo falando comigo? Vá despachar aquela fera imediatamente! Concordo com Adkin, ele não pode ser permitido viver!}{Por que ainda não o fez? Por que está perdendo tempo falando comigo? Vá despachar aquela fera imediatamente! Concordo com Adkin, ele não pode ser permitido viver!}{}{}{}{}
+{259}{Há algo que quero de Sir Garrick, antes de matá-lo.}{}{5}{}{264}{}
+{260}{Preciso de algo de Sir Garrick, antes de despachá-lo.}{}{5}{}{264}{}
+{262}{Eu quero uma coisa dele. Depois eu mato ele para o A'ken.}{}{-4}{}{264}{}
+{263}{E:}{}{-4}{}{0}{}
+{264}{O que você poderia querer dele?}{O que você poderia querer dele?}{}{}{}{}
+{265}{Treinamento. Desejo ser seu igual como lutador. Mas preciso de sua ajuda.}{}{5}{}{269}{}
+{266}{Desejo ser um Mestre em combate corpo a corpo, como ele. Preciso de sua ajuda.}{}{5}{}{269}{}
+{267}{Eu quero treinamento. Quero ser um grande lutador também. Preciso da sua ajuda para isso...}{}{-4}{}{269}{}
+{268}{Eu quero ser Mestre em Combate Corpo a Corpo. Preciso da sua ajuda...}{}{-4}{}{269}{}
+{269}{Como me tornar um Mestre em Combate Corpo a Corpo poderia me envolver?}{Como me tornar um Mestre em Combate Corpo a Corpo poderia me envolver?}{}{}{}{}
+{270}{O preço dele para me treinar é sua mão em casamento, de bom grado.}{}{5}{}{274}{}
+{272}{Ele não me treina a menos que você diga que se casa com ele. De bom grado!}{}{-4}{}{274}{}
+{273}{E:}{}{-4}{}{0}{}
+{274}{[Ela está obviamente horrorizada.] De bom grado! Ha! Isso vai ser no dia de São Nunca! Quando eu me submeter de bom grado àquele bárbaro exagerado! Aquele "Sir" autoproclamado não passa de um bruto lascivo de baixa estirpe!}{[Ela está obviamente horrorizada.] De bom grado! Ha! Isso vai ser no dia de São Nunca! Quando eu me submeter de bom grado àquele bárbaro exagerado! Aquele "Sir" autoproclamado não passa de um bruto lascivo de baixa estirpe!}{}{}{}{}
+{275}{Ele tem uma oferta tentadora para você.}{}{5}{}{282}{}
+{276}{Ele tem uma poção que restaurará a visão de Adkin.}{}{5}{}{285}{}
+{277}{Ele tem algo que pode fazê-la mudar de ideia.}{}{5}{}{282}{}
+{279}{Ele tem um pozinho para curar os olhos do A'ken!}{}{-4}{}{285}{}
+{280}{Ele tem uma coisa que você realmente quer.}{}{-4}{}{282}{}
+{281}{E:}{}{1}{}{0}{}
+{282}{Não há nada que eu possa oferecer que o faria conquistar minha mão em casamento!}{Não há nada que eu possa oferecer que o faria conquistar minha mão em casamento!}{}{}{}{}
+{283}{Ele tem uma poção que restaurará a visão de Adkin.}{}{5}{}{285}{}
+{284}{Ele tem uma poção mágica para fazer Aken enxergar de novo. Restaurar os olhos dele!}{}{-4}{}{285}{}
+{285}{Completamente? Restaurar a visão que foi removida com uma lâmina? Isso é uma magia poderosa!... [Ela parece chocada.] Chantagem! Ele realmente arquitetou um plano para me chantagear e me forçar ao casamento! Não há limites para as ofensas de que essa besta é capaz?}{Completamente? Restaurar a visão que foi removida com uma lâmina? Isso é uma magia poderosa!... [Ela parece chocada.] Chantagem! Ele realmente arquitetou um plano para me chantagear e me forçar ao casamento! Não há limites para as ofensas de que essa besta é capaz?}{}{}{}{}
+{286}{Contenha sua ira por um momento, senhora. Tenho uma oferta alternativa...}{}{5}{}{290}{}
+{288}{Não fique brava ainda. Eu tenho um plano...}{}{-4}{}{290}{}
+{289}{E:}{}{1}{}{0}{}
+{290}{O que é que você propõe?}{O que é que você propõe?}{}{}{}{}
+{291}{Agora me ouça. Se você concordar em se casar com Sir Garrick...}{}{5}{}{295}{}
+{293}{Você diz que concorda em se casar com Sir Gareek...}{}{-4}{}{295}{}
+{295}{Não gosto da direção do seu plano. No entanto, pode continuar...}{Não gosto da direção do seu plano. No entanto, pode continuar...}{}{}{}{}
+{296}{Vou conseguir a poção para curar Adkin...}{}{5}{}{298}{}
+{297}{Então eu pego a poção para os olhos de A'ken...}{}{-4}{}{298}{}
+{298}{Sim...}{Sim...}{}{}{}{}
+{299}{E então serei treinado como igual a Sir Garrick.}{}{5}{}{301}{}
+{300}{Então eu vou ser treinado. Ficar igual ao Sir Garrick.}{}{-4}{}{301}{}
+{301}{Sim. E o que você fará depois disso?}{Sim. E o que você fará depois disso?}{}{}{}{}
+{302}{Então... eu matarei Sir Garrick!}{}{5}{}{304}{}
+{303}{Então eu mato ele!}{}{-4}{}{304}{}
+{304}{[A compreensão surge em seu rosto.] Ora, esse é um plano excelente! A visão de Adkin será restaurada, e nos livraremos de Sir Garrick de uma vez por todas! Mas por que você faria isso por nós? Você é um estranho.}{[A compreensão surge em seu rosto.] Ora, esse é um plano excelente! A visão de Adkin será restaurada, e nos livraremos de Sir Garrick de uma vez por todas! Mas por que você faria isso por nós? Você é um estranho.}{}{}{}{}
+{305}{Digamos apenas que tenho meus próprios motivos.}{}{5}{}{307}{}
+{306}{Eu só quero matar ele.}{}{-4}{}{307}{}
+{307}{Então seus motivos são egoístas.}{Então seus motivos são egoístas.}{}{}{}{}
+{308}{Sim, são. Temos um acordo?}{}{5}{}{226}{}
+{309}{Eu também gostaria de ver a justiça ser feita. Estamos de acordo?}{}{5}{}{226}{re +5}
+{310}{Sim. Eu egoísta. O que você quer fazer? Você concorda?}{}{-4}{}{226}{}
+{311}{Eu também quero ver o homem mau morrer. Estamos de acordo?}{}{-4}{}{226}{re +5}
+{312}{De acordo. Vamos partir, desejo acabar com o sofrimento de Adkin rapidamente... e começar com Sir Garrick!}{De acordo. Vamos partir, desejo acabar com o sofrimento de Adkin rapidamente... e começar com Sir Garrick!}{}{}{}{qu1114 3, lf 6 1}
+{314}{Venha comigo. Iremos até Sir Garrick e terminaremos isso.}{}{5}{}{0}{}
+{316}{Vamos para Gareek agora!}{}{-4}{}{0}{}
+{317}{E:}{}{-4}{}{0}{}
+{318}{Sim? Posso ajudá-lo, @pcname@?}{Sim? Posso ajudá-lo, @pcname@?}{}{}{}{}
+{319}{H:}{}{5}{}{318}{}
+{320}{B:}{}{5}{}{}{}
+{321}{E:}{}{5}{}{0}{}
+{322}{H:}{}{-4}{}{318}{}
+{323}{B:}{}{-4}{}{}{}
+{324}{E:}{}{-4}{}{0}{}
+{325}{Por que ainda não me levou até Sir Garrick como combinamos?}{Por que ainda não me levou até Sir Garrick como combinamos?}{}{}{}{}
+{326}{Eu tinha alguns assuntos para resolver primeiro.}{}{5}{lc 0 0}{338}{re -5, lc 0 1}
+{327}{Sinto muito pela demora, Lady Druella. Iremos em breve.}{}{5}{lc 0 0}{338}{re -5, lc 0 1}
+{328}{Eu ter coisa pra fazer primeiro.}{}{-4}{lc 0 0}{338}{re -5, lc 0 1}
+{329}{Desculpa a gente não ir ainda. Vamos logo, tá?}{}{-4}{lc 0 0}{338}{re -5, lc 0 1}
+{330}{Hmm... Eu tinha mais alguns assuntos para resolver primeiro.}{}{5}{lc 0 1}{338}{re -5, lc 0 2}
+{331}{Peço desculpas por mais essa demora. Iremos em breve. Dessa vez, falo sério.}{}{5}{lc 0 1}{338}{re -5, lc 0 2}
+{332}{Eu ter mais coisa pra fazer primeiro.}{}{-4}{lc 0 1}{338}{re -5, lc 0 2}
+{333}{Desculpa a gente não ir ainda. Vamos logo, tá?}{}{-4}{lc 0 1}{338}{re -5, lc 0 2}
+{334}{Eu tinha uns assuntos MUITO importantes para resolver primeiro.}{}{5}{lc 0 2}{0}{re 20, lv, lf 6 1, qu 1114 6, rp -1074, fl  344}
+{335}{Heh heh... Partiremos para Dernholm em breve. Dessa vez, EU REALMENTE falo sério.}{}{5}{lc 0 2}{0}{re 20, lv, lf 6 1, qu 1114 6, rp -1074, fl  344}
+{336}{Eu ter coisa pra fazer primeiro.}{}{-4}{lc 0 2}{0}{re 20, lv, lf 6 1, qu 1114 6, rp -1074, fl  344}
+{337}{Desculpa a gente não ir ainda. Vamos logo, tá?}{}{-4}{lc 0 2}{0}{re 20, lv, lf 6 1, qu 1114 6, rp -1074, fl  344}
+{338}{Precisamos nos apressar. Desejo que Adkin seja curado o mais rápido possível. Se não me levar até Sir Garrick agora, serei forçada a deixá-lo e anular nosso acordo.}{Precisamos nos apressar. Desejo que Adkin seja curado o mais rápido possível. Se não me levar até Sir Garrick agora, serei forçada a deixá-lo e anular nosso acordo.}{}{}{}{}
+{339}{Peço desculpas. Vou levá-lo até Sir Garrick imediatamente.}{}{5}{}{0}{}
+{340}{Desculpa. Vamos pra Sir Gareek agora.}{}{-4}{}{0}{}
+{341}{Já o adverti uma vez. Se não me levar até Sir Garrick agora mesmo para finalizar nosso acordo... eu irei embora!}{Já o adverti uma vez. Se não me levar até Sir Garrick agora mesmo para finalizar nosso acordo... eu irei embora!}{}{}{}{re -5}
+{342}{Mais uma vez, peço desculpas. Vamos partir imediatamente.}{}{5}{}{0}{}
+{343}{Me desculpe de novo. Vamos até Sir Gareek agora. Eu prometo.}{}{-4}{}{0}{}
+{344}{Chega! Você me enganou repetidamente e não me levou até Sir Garrick como prometeu. Você é um mentiroso e não pode ser confiável! Adeus!}{Chega! Você me enganou repetidamente e não me levou até Sir Garrick como prometeu. Você é um mentiroso e não pode ser confiável! Adeus!}{}{}{}{re -5}
+{345}{Estamos em Stillwater! Você está me levando até Adkin... Não suporto vê-lo ainda. Vou para Dernholm! Adeus!}{Estamos em Stillwater! Você está me levando até Adkin... Não suporto vê-lo ainda. Vou para Dernholm! Adeus!}{}{}{}{re 20, lv, lf 6 1, qu 1114 6, rp -1074}
+{346}{Espere! Não vá...}{}{5}{}{0}{fl 344}
+{347}{Você já me incomodou o suficiente, mulher! Agora vai pagar...}{}{5}{}{}{co, fl 48}
+{348}{Espere, não me deixe. Me quero que você fique!}{}{-4}{}{0}{fl 344}
+{349}{Me cansou de você, madame. Me vai fazer você pagar!}{}{-4}{}{}{co, fl 48}
+{350}{Não verei Adkin até que ele esteja inteiro, tanto no corpo quanto no espírito. Ou vamos ver Sir Garrick em Cúmbria agora mesmo, ou eu vou embora. Vamos agora, pois não confio mais em sua palavra - não lhe darei outra chance.}{Não verei Adkin até que ele esteja inteiro, tanto no corpo quanto no espírito. Ou vamos ver Sir Garrick em Cúmbria agora mesmo, ou eu vou embora. Vamos agora, pois não confio mais em sua palavra - não lhe darei outra chance.}{}{}{}{}
+{351}{Sim, claro. Vamos seguir nosso caminho.}{}{5}{}{0}{}
+{353}{Tá bom. Vamos ver Sir Gareek.}{}{-4}{}{0}{}
+{355}{Espere um momento! Eu lhe imploro, por favor, não faça isso!}{Espere um momento! Eu lhe imploro, por favor, não faça isso!}{}{}{}{}
+{356}{Minhas desculpas, Senhora. Meu acordo com você era falso. Adeus.}{}{5}{lf 14 1}{365}{}
+{357}{Ah, sim, receio que não possa ficar para o casamento, Senhora. Adeus.}{}{5}{}{365}{}
+{358}{Não sei do que você está falando. Adeus.}{}{5}{}{365}{}
+{359}{Sir Garrick... Eu recomendaria ficar de olho nesta. Ela é traiçoeira.}{}{5}{lf 15 1}{365}{}
+{360}{Paciência, minha Senhora... Sir Garrick! É hora de pagar por seus crimes!}{}{5}{}{-27}{}
+{361}{Me desculpe. Me menti. Tchau.}{}{-4}{lf 14 1}{365}{}
+{362}{He he. Eu vou embora agora. Tchau!}{}{-4}{}{365}{}
+{363}{Desculpe, madame. Me tenho que ir, não fico pro seu casamento. Tchau.}{}{-4}{}{365}{}
+{364}{Não fique triste... Me lembro! Me matar Sir Garrick agora!}{}{-4}{}{-27}{}
+{365}{Mentiroso! Enganador! Destrua-o imediatamente! Você NÃO tem honra?!?}{Mentiroso! Enganador! Destrua-o imediatamente! Você NÃO tem honra?!?}{}{}{}{}
+{366}{Não sei do que você está falando. Adeus.}{}{5}{}{0}{fl 372}
+{367}{Sir Garrick... talvez devesse controlar sua noiva?}{}{5}{}{0}{fl 372}
+{368}{Adeus, Senhora. Que seu casamento seja repleto de felicidade.}{}{5}{}{0}{fl 372}
+{369}{Sim, ele merece morrer. Sir Garrick! Defenda-se!}{}{5}{}{-27}{}
+{370}{Tchau-tchau! Espero que tenha um bom tempo casado!}{}{-4}{}{0}{fl 372}
+{371}{Não se preocupe, madame. Eu lembro! O Sir Garrick morre agora!}{}{-4}{}{-27}{}
+{372}{[Ela começa a gritar e soluçar desesperadamente.] Você não pode me deixar aqui! Não pode! Eu não vou permitir!}{[Ela começa a gritar e soluçar desesperadamente.] Você não pode me deixar aqui! Não pode! Eu não vou permitir!}{}{}{}{re -5}
+{373}{Ah, muito bem! Você não faz ideia de como estou feliz que Sir Garrick tenha recebido o que merecia. Você é um excelente lutador, duvido que haja alguém vivo que possa igualar sua habilidade. Eu lhe agradeço.}{Ah, muito bem! Você não faz ideia de como estou feliz que Sir Garrick tenha recebido o que merecia. Você é um excelente lutador, duvido que haja alguém vivo que possa igualar sua habilidade. Eu lhe agradeço.}{}{}{}{}
+{374}{A senhora é muito gentil. Vamos ver Adkin agora?}{}{5}{}{381}{}
+{375}{Obrigado. Está pronto para ver Adkin agora?}{}{5}{qu1114 4, qu1116 0}{381}{}
+{376}{Sim. Eu sou o melhor, não sou? Vamos ver quão rápido você morre...}{}{5}{}{}{co, fl 48}
+{377}{Obrigado. Está pronto para ver Adkin agora?}{}{5}{qu1114 4, qa1116 1}{386}{}
+{378}{Obrigada, madame. Tá pronto pra ir ver o A'ken?}{}{-4}{qu1114 4, qa1116 1}{386}{}
+{379}{Obrigada, madame. Tá pronto pra ir ver o A'ken?}{}{-4}{qu1114 4, qu1116 0}{381}{}
+{380}{É. Eu tô bem. Agora é sua vez de morrer...}{}{-4}{}{}{co, fl 48}
+{381}{Por favor, leve esta poção de cura para Adkin. Acredito que ele esteja em Stillwater. Eu ficarei aqui.}{Por favor, leve esta poção de cura para Adkin. Acredito que ele esteja em Stillwater. Eu ficarei aqui.}{}{}{}{qu 1115 1}
+{382}{Você não vem comigo?}{}{5}{}{386}{}
+{383}{Aqui está a poção, não estou mais interessado em ajudá-lo.}{}{5}{in 3603}{-38}{qu 1115 5, in 3603}
+{384}{Você vai ficar aqui?}{}{-4}{}{386}{}
+{385}{Você leva a garrafa, eu não ajudo mais você, eu vou agora.}{}{-4}{in 3603}{-38}{qu 1115 5, in 3603}
+{386}{Eu o amo tanto. No entanto, não tenho certeza dos sentimentos dele por mim, depois do que aconteceu. Por favor, diga a ele que estou aqui. Ele pode se juntar a mim, se desejar.}{Eu o amo tanto. No entanto, não tenho certeza dos sentimentos dele por mim, depois do que aconteceu. Por favor, diga a ele que estou aqui. Quando ele estiver curado, poderá se juntar a mim, se desejar.}{}{}{}{}
+{387}{Farei como deseja. Adeus, Lady Druella.}{}{5}{}{-38}{qu 1115 2}
+{388}{Eu vou até ele. Tchau, madame.}{}{-4}{}{-38}{qu 1115 2}
+{389}{Oh, que bênção, @pcname@! Não consigo dizer o quanto Adkin e eu estamos felizes. Temos que agradecer a você, você é realmente um grande homem! Obrigada.}{Oh, que bênção, @pcname@! Não consigo dizer o quanto Adkin e eu estamos felizes. Temos que agradecer a você, você é realmente uma grande mulher! Obrigada.}{}{}{}{}
+{390}{De nada. Que vocês tenham uma longa vida juntos.}{}{5}{}{0}{}
+{391}{Foi um prazer. Adeus.}{}{5}{}{0}{}
+{392}{De nada. Fico feliz em ter ajudado!}{}{-4}{}{0}{}
+{393}{Fico feliz que vocês estejam felizes juntos. Tchau-tchau.}{}{-4}{}{0}{}
+{394}{Você tem notícias de Adkin, @pcname@?}{Você tem alguma notícia de Adkin, @pcname@?}{}{}{}{}
+{395}{Não. Receio não ter conseguido localizá-lo.}{}{5}{}{401}{}
+{396}{Temo que tenha havido um acidente. Ele não sobreviveu.}{}{5}{}{404}{fl 404}
+{397}{Eu tive que matá-lo. Vou fazer o mesmo com você.}{}{5}{}{}{co, fl 48}
+{398}{Não. Eu ainda não o encontrei.}{}{-4}{}{401}{}
+{399}{Me desculpe. Houve um acideente. Ele morreu.}{}{-4}{}{404}{fl 404}
+{400}{Eu matei ele. Eu vou matar você também...}{}{-4}{}{}{co, fl 48}
+{401}{Por favor, continue procurando por ele. Estou muito ansioso para ter notícias dele.}{Por favor, continue procurando por ele. Estou muito ansioso para ter notícias dele.}{}{}{}{}
+{402}{Vou continuar minha busca.}{}{5}{}{0}{}
+{403}{Eu vou encontrá-lo.}{}{-4}{}{0}{}
+{404}{Não! [soluça] Meu amado! Por quê? Por que ele morreu!? Não suporto perdê-lo de novo! [Ela puxa um punhal e o crava no próprio coração] Adeus...}{Não! [soluça] Meu amado! Por quê? Por que ele morreu!? Não suporto perdê-lo de novo! [Ela puxa um punhal e o crava no próprio coração] Adeus...}{}{}{}{nk, gf2290 1}
+{408}{Não quero mais nada com você! Tenha um bom dia!}{Não quero mais nada com você! Tenha um bom dia!}{}{}{}{}
+{409}{E:}{}{1}{}{0}{}
+{413}{Que notícias você poderia trazer? Minha vida está arruinada. Meu verdadeiro amor foi morto horrivelmente diante dos meus olhos por Garrick Stout, o homem mais perigoso de Arcanum! E agora esse homem quer me reivindicar como prêmio, um espólio de sua vitória. [Ela estremece.] É nojento e vergonhoso. Este lugar sombrio era minha única paz.}{Que notícias você poderia trazer? Minha vida está arruinada. Meu verdadeiro amor foi morto horrivelmente diante dos meus olhos por Garrick Stout, o homem mais perigoso de Arcanum! E agora esse homem quer me reivindicar como prêmio, um espólio de sua vitória. [Ela estremece.] É nojento e vergonhoso. Este lugar sombrio era minha única paz.}{}{}{}{}
+{414}{Preciso saber sua história, mas acredite, você está salvo!}{}{5}{lf 11 0}{36}{lf 11 1}
+{415}{Devo lhe dizer que Adkin Chambers está vivo!}{}{5}{lf 10 0}{104}{lf 10 1}
+{416}{Você tem razão sobre Stout. Gostaria que considerasse um casamento com ele?}{}{5}{}{90}{}
+{417}{Conte-me sua história agora!}{}{-4}{lf 11 0}{36}{lf 11 1}
+{418}{Chambeers está vivo! Ele tá bem, moça bonita.}{}{-4}{lf 10 0}{104}{lf 10 1}
+{419}{Stout é forte, ele é bom pra senhora.}{}{-4}{}{90}{}
+{420}{O que é que você quer de mim?}{O que é que você quer de mim?}{}{}{}{}
+{421}{[Dar ordens.]}{}{1}{}{459}{}
+{422}{Gostaria de saber algumas coisas sobre você.}{}{5}{}{427}{ce}
+{423}{Eu quero saber mais sobre você, moça bonita.}{}{-4}{}{427}{ce}
+{424}{B:}{}{1}{}{427}{}
+{425}{E:}{}{1}{}{0}{}
+{426}{}{}{}{}{}{}
+{427}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{}
+{428}{[Dar ordens.]}{}{1}{}{459}{}
+{429}{Gostaria de saber algumas coisas sobre você.}{}{5}{}{427}{ce}
+{430}{Eu quero saber mais sobre você, moça bonita.}{}{-4}{}{427}{ce}
+{431}{B:}{}{1}{}{427}{}
+{432}{E:}{}{1}{}{0}{}
+{433}{}{}{}{}{}{}
+{434}{Não vou esperar aqui por muito tempo, @pcname@. Você prometeu me levar a Dernholm. Estou ficando impaciente.}{Não vou esperar aqui por muito tempo, @pcname@. Você prometeu me levar a Dernholm. Estou ficando impaciente.}{}{}{}{}
+{435}{Não vou esperar aqui por muito tempo, @pcname@. Você prometeu me levar a Stillwater. Estou ficando impaciente.}{Não vou esperar aqui por muito tempo, @pcname@. Você prometeu me levar a Stillwater. Estou ficando impaciente.}{}{}{}{}
+{436}{Devo protestar contra este tratamento! Você vai se arrepender disso!}{Devo protestar contra este tratamento! Você vai se arrepender disso!}{}{}{}{}
+{437}{Que você me traiu é verdade. Mas ainda assim, tenho esperança de que fará o que sabe ser certo. Se matar Sir Garrick, poderemos conversar novamente.}{Que você me traiu é verdade. Mas ainda assim, tenho esperança de que fará o que sabe ser certo.}{}{}{}{}
+{438}{E:}{}{1}{}{}{}
+{440}{Você voltou! Por favor, diga que decidiu me ajudar a vingar meu amor.}{Você voltou! Por favor, diga que decidiu me ajudar a vingar meu amor.}{}{}{}{}
+{441}{Eu considerei. Sir Garrick deve morrer.}{}{5}{re 25}{226}{}
+{442}{Vamos discutir isso novamente.}{}{5}{re 25}{282}{}
+{443}{E:}{}{5}{}{0}{fl  437}
+{444}{Me diz homem ruim tem que morrer!}{}{-4}{re 25}{226}{}
+{445}{Me confuso, me fala isso de novo pra você.}{}{-4}{re 25}{282}{}
+{446}{E:}{}{-4}{}{0}{fl 437}
+{447}{[Ela está obviamente decepcionada.] Ele é apenas um homem, e sua arrogância fez com que tivesse muitos inimigos. Sugiro apenas o que muitos já devem desejar.}{[Ela está obviamente decepcionada.] Ele é apenas um homem, e sua arrogância fez com que tivesse muitos inimigos. Sugiro apenas o que muitos já devem desejar.}{}{}{}{}
+{448}{Você está enganado. Estou levando você para Dernholm! Vamos logo.}{}{5}{}{453}{}
+{449}{O que está sugerindo? Fale claramente, madame.}{}{5}{}{193}{}
+{450}{Me vai colocar você no saco, moça. Me diz que a gente vai agora.}{}{-4}{}{453}{}
+{451}{Me tão confuso. Me quer moça. Me quer ajudar homem.}{}{-4}{}{193}{}
+{453}{[Ela começa a gritar.] Está sugerindo que vai me levar à força de volta a Dernholm? De volta a Garrick Stout? Não tenho escolha?}{[Ela começa a gritar.] Está sugerindo que vai me levar à força de volta a Dernholm? De volta a Garrick Stout? Não tenho escolha?}{}{}{}{lf 15 1}
+{454}{Sim, cale a boca agora, mulher!... E não cause mais problemas!}{1}{5}{}{-10}{al -300, rp 1074}
+{455}{Sim, é exatamente isso que estou sugerindo.}{}{5}{}{-10}{al -300, rp 1074}
+{456}{É para o seu próprio bem. Vamos sair deste lugar horrível.}{}{5}{}{-10}{al -300, rp 1074}
+{457}{Cale a boca e venha comigo agora!}{}{-4}{}{-10}{al -300, rp 1074}
+{458}{}{}{}{}{}{}
+{459}{O que você gostaria que eu fizesse?}{O que você gostaria que eu fizesse?}{}{}{}{}
+{460}{Saia da frente.}{}{1}{}{427}{so}
+{461}{Chegue mais perto.}{}{1}{}{427}{sc}
+{462}{Espere aqui.}{}{1}{wa 0}{427}{wa }
+{463}{Pare de Esperar.}{}{1}{wa 1}{427}{uw 1 427}
+{464}{E:}{}{1}{}{0}{}
+{465}{}{}{}{}{}{}
+{466}{}{}{}{}{}{}
+{467}{}{}{}{}{}{}
+{468}{}{}{}{}{}{}
+{469}{}{}{}{}{}{}
+

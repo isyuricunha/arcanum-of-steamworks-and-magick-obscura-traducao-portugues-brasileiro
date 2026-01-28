@@ -1,0 +1,260 @@
+{1}{G:}{G:}{}{1}{}{}
+{2}{Olá, madame. Posso saber quem é a senhora?}{}{5}{me 0, re 41}{47}{}
+{3}{Saudações, Z'an Al'urin. Posso incomodá-lo por um momento?}{}{5}{me 1, re 41}{12}{}
+{5}{Desculpe-me, senhora? Por que diz tais coisas?}{}{5}{me 0, re -40}{23}{}
+{6}{Z'an Al'urin! Fiz algo para ofendê-la?}{}{5}{me 1, re -40}{23}{}
+{7}{E:}{}{5}{me 1}{0}{}
+{8}{Hã... quem é você?}{}{-4}{}{19}{}
+{9}{E:}{}{-4}{}{0}{}
+{12}{Sim? O que deseja?}{Sim? O que precisa?}{}{2}{}{}
+{13}{Você ia me contar sobre os Elfos Negros...}{}{5}{lf1 1, lf2 0}{133}{}
+{14}{Pode me dizer o que os Elfos Negros estão fazendo?}{}{5}{lf2 1, lf3 0}{165}{}
+{15}{Estava pensando que talvez gostaria de se juntar a mim...}{}{5}{lf4 1, lf3 0}{183}{}
+{16}{Tem certeza de que não gostaria de se juntar a mim?}{}{5}{lf3 1}{192}{jo 0 198}
+{17}{E:}{}{5}{}{0}{}
+{19}{[A elfa diante de você, ao ver seu estado mental, parece quase fisicamente repelida.] Ugh. Deixe-me em paz. Não tenho nada a dizer para alguém como você.}{[A elfa diante de você, ao ver seu estado mental, parece quase fisicamente repelida.] Ugh. Deixe-me em paz, mulher. Não tenho nada a dizer para alguém como você.}{}{3}{}{}
+{20}{Hmm... não gosto das suas palavras. Acho que vou matar essa elfa burra...!}{}{5}{}{}{co, fl 35}
+{21}{E:}{}{5}{}{0}{}
+{23}{Criatura patética! Por que está desperdiçando meu tempo com suas bobagens?! Obviamente não é digno de falar comigo... Vá embora!}{Criatura patética! Por que está desperdiçando meu tempo com suas bobagens?! Obviamente não é digno de falar comigo... Vá embora!}{}{4}{}{}
+{24}{Acho que talvez tenha feito uma avaliação precipitada, senhora...}{}{5}{ch 15}{42}{re +15}
+{25}{Senhora! Deve haver algo que eu possa fazer para impressioná-la...?}{}{5}{me 0}{37}{re +15}
+{26}{Z'an Al'urin! Pensei que já tivéssemos superado essas coisas...}{}{5}{me 1}{37}{re +15}
+{27}{Elfa, mais uma palavra assim e as coisas não terminarão bem para você...}{}{5}{}{30}{re -5}
+{28}{E:}{}{5}{me 1}{0}{}
+{30}{O quê? Você, um forasteiro, ousa ameaçar uma Elfa Negra aqui, em T'sen-Ang? Eu poderia mandar matá-lo no ato só por pensar nisso! Talvez eu mesma o faça...}{O quê? Você, um forasteiro, ousa ameaçar uma Elfa Negra aqui, em T'sen-Ang? Eu poderia mandar matá-lo no ato só por pensar nisso! Talvez eu mesma o faça...}{}{5}{}{}
+{31}{Talvez eu tenha exagerado um pouco. Aceite minhas desculpas...}{}{5}{}{37}{re +15}
+{32}{Seus arranjos funerários serão menos preocupantes tão perto de casa...}{}{5}{}{}{co, fl 35}
+{33}{E:}{}{5}{me 1}{0}{}
+{35}{Tolo. Você não faz ideia do problema em que se meteu...}{Tolo. Você não faz ideia do problema em que se meteu...}{}{6}{}{}
+{37}{[Ela olha para você com desdém.] Talvez eu me digne a falar com você por um ou dois momentos. Considere-se sortudo...}{[Ela olha para você com desdém.] Talvez eu me digne a falar com você por um ou dois momentos. Considere-se sortudo...}{}{7}{}{}
+{38}{Muito obrigado? Posso perguntar quem é você?}{}{5}{me 0}{47}{re +5}
+{39}{Agradeço muito, Z'an Al'urin. Tem um momento?}{}{5}{me 1}{12}{}
+{40}{E:}{}{5}{me 1}{0}{}
+{42}{[A Elfa Negra parece um pouco surpresa com suas próprias palavras.] Hmm... talvez você esteja certo. Talvez eu tenha sido um pouco precipitada com minhas primeiras impressões sobre você. Talvez possamos conversar por alguns momentos...}{[A Elfa Negra parece um pouco surpresa com suas próprias palavras.] Hmm... talvez você esteja certo. Talvez eu tenha sido um pouco precipitada com minhas primeiras impressões sobre você. Talvez possamos conversar por alguns momentos...}{}{8}{}{}
+{43}{Fico muito feliz. Posso saber seu nome?}{}{5}{me 0}{47}{}
+{44}{Ótimo, Z'an Al'urin. Podemos conversar por alguns momentos?}{}{5}{me 1}{12}{}
+{45}{E:}{}{5}{me 1}{0}{}
+{47}{Eu sou Z'an Al'urin, guerreira-sacerdotisa dos Elfos Negros. [Ela lhe lança um olhar incerto, calculando.] E quem é você, forasteiro? Você nunca antes viu as árvores de T'sen-Ang... disso tenho certeza...}{Eu sou Z'an Al'urin, guerreira-sacerdotisa dos Elfos Negros. [Ela lhe lança um olhar incerto, calculando.] E quem é você, forasteiro? Você nunca antes viu as árvores de T'sen-Ang... disso tenho certeza...}{}{9}{}{}
+{48}{Eu sou @PCNAME@.}{}{5}{}{52}{re +5}
+{49}{O nome de alguém raramente é importante, senhora...}{}{5}{}{77}{}
+{50}{Quem eu sou e por que estou aqui são ASSUNTOS MEUS...}{}{5}{}{92}{}
+{52}{[Ela lhe lança um aceno avaliador.] Hmmm. Honestidade. Você me surpreende. Você corre um grande risco ao se expor para mim... especialmente considerando o que você é...}{[Ela lhe lança um aceno avaliador.] Hmmm. Honestidade. Você me surpreende. Você corre um grande risco ao se expor para mim... especialmente considerando o que você é...}{}{10}{}{}
+{53}{E o que exatamente você quer dizer com isso?}{}{5}{}{115}{}
+{54}{Acho que você está me confundindo com outra pessoa...}{}{5}{}{59}{}
+{55}{Sempre achei que a honestidade é o único caminho para a verdadeira verdade...}{}{5}{}{64}{re +10}
+{56}{Quem disse que eu estava sendo honesto?}{}{5}{}{73}{}
+{59}{[Ela olha para você atentamente, um pouco confusa, parecendo tomar uma decisão.] Talvez você esteja certo, e de mais maneiras do que imagina, @PCNAME@. Até eu às vezes me engano... talvez você não seja a pessoa que eu pensava que era. Tenha um bom dia, então...}{[Ela olha para você atentamente, um pouco confusa, parecendo tomar uma decisão.] Talvez você esteja certo, e de mais maneiras do que imagina, @PCNAME@. Até eu às vezes me engano... talvez você não seja a pessoa que eu pensava que era. Tenha um bom dia, então...}{}{11}{}{}
+{60}{Espere! O que você quer dizer? Quem você pensa que eu sou?}{}{5}{}{115}{}
+{61}{E eu não tenho mais nada a dizer a você, Elfa Negra. Tenha um bom dia...}{}{5}{}{0}{lf6 1}
+{64}{Impressionante, @PCNAME@. Essa é uma lição que poucos aprendem nesta vida, embora pareça tão simples. Muitas vezes, caminhamos nas sombras enquanto tentamos ver a luz, com medo de encará-la antes de realmente compreendê-la. Mas tanto a jornada quanto o objetivo são importantes, e raramente podemos separar os dois...}{Impressionante, @PCNAME@. Essa é uma lição que poucos aprendem nesta vida, embora pareça tão simples. Muitas vezes, caminhamos nas sombras enquanto tentamos ver a luz, com medo de encará-la antes de realmente compreendê-la. Mas tanto a jornada quanto o objetivo são importantes, e raramente podemos separar os dois...}{}{12}{}{}
+{65}{Concordo. E quanto a você? O que é que VOCÊ busca?}{}{5}{}{127}{}
+{66}{Não concordo. Às vezes os fins justificam os meios...}{}{5}{}{69}{}
+{69}{Sério? Acho isso um pouco triste, @PCNAME@. Não acredito que haja como separar uma criação de seus materiais... uma bela estátua esculpida em pedra defeituosa acabará se quebrando, deixando-a incompleta e desperdiçada. A forma como vivemos nossas vidas não pode ser diferente...}{Sério? Acho isso um pouco triste, @PCNAME@. Não acredito que haja como separar uma criação de seus materiais... uma bela estátua esculpida em pedra defeituosa acabará se quebrando, deixando-a incompleta e desperdiçada. A forma como vivemos nossas vidas não pode ser diferente...}{}{13}{}{}
+{70}{Talvez você esteja certo. Mas por que isso é importante para você...?}{}{5}{}{127}{re +5}
+{71}{O caminho nunca é importante, apenas o que está no fim.}{}{5}{}{}{}
+{73}{Vejo que você não é quem eu pensava que era. Adeus, @PCNAME@... não temos mais nada a dizer um ao outro...}{Vejo que você não é quem eu pensava que era. Adeus, @PCNAME@... não temos mais nada a dizer um ao outro...}{}{14}{}{}
+{74}{Espere! O que você quer dizer? Quem você pensa que eu sou?}{}{5}{}{115}{}
+{75}{E eu não tenho mais nada a dizer a você, Elfa Negra. Tenha um bom dia...}{}{5}{}{0}{lf6 1}
+{77}{[Ela sorri, arqueando uma sobrancelha.] Ah, é? Eu diria que você está muito, muito errado. O nome de alguém muitas vezes reflete quem ela é ou o que está fazendo. Saber o nome de alguém é exercer poder sobre ela; dar seu nome a alguém é, muitas vezes, um ato de confiança...}{[Ela sorri, arqueando uma sobrancelha.] Ah, é? Eu diria que você está muito, muito errado. O nome de alguém muitas vezes reflete quem ela é ou o que está fazendo. Saber o nome de alguém é exercer poder sobre ela; dar seu nome a alguém é, muitas vezes, um ato de confiança...}{}{15}{}{}
+{78}{Não temo o poder de ninguém sobre mim. Eu sou @PCNAME@.}{}{5}{}{86}{}
+{79}{A confiança deve ser dada com sabedoria. Eu sou @PCNAME@.}{}{5}{}{52}{re +5}
+{82}{De qualquer forma, não dou meu nome a qualquer um...}{}{5}{}{92}{re -5}
+{86}{[Ela ri de você.] Há muitos motivos para compartilhar presentes, @PCNAME@, mas a bravata é o pior deles. E, se eu fosse você, temeria QUALQUER um aqui saber o seu nome.}{[Ela ri de você.] Há muitos motivos para compartilhar presentes, @PCNAME@, mas a bravata é o pior deles. E, se eu fosse você, temeria QUALQUER um aqui saber o seu nome.}{}{16}{}{}
+{87}{E por que diria isso, Z'an Al'urin?}{}{5}{}{115}{}
+{88}{Estou cansada disso e de você. Adeus, Elfo Negro.}{}{5}{}{0}{lf6 1}
+{90}{Não temos mais nada a dizer um ao outro...}{Não temos mais nada a dizer um ao outro...}{}{17}{}{}
+{92}{A cautela é o manto dos sábios...[Ela ri. É como uma música lenta e sombria.]...e dos que ainda respiram. Respeito um homem que guarda o que lhe é caro perto do coração. E acho que você tem muito a guardar, forasteiro. Muitos pensamentos e muitos segredos...}{A cautela é o manto dos sábios...[Ela ri. É como uma música lenta e sombria.]...e dos que ainda respiram. Respeito um homem que guarda o que lhe é caro perto do coração. E acho que você tem muito a guardar, forasteiro. Muitos pensamentos e muitos segredos...}{}{18}{}{}
+{94}{Não tenho nada a esconder. Eu sou @PCNAME@.}{}{5}{}{52}{}
+{95}{Parece ser alguém que não é estranho a mantos e segredos, madame...}{}{5}{}{99}{}
+{96}{Não finja entender quem eu sou. Você não faz ideia...}{}{5}{}{111}{}
+{99}{Tem razão. Também não sou estranha a esses caminhos. Eu também guardo muito no coração que não é para os olhos do mundo. Não é sempre que encontro alguém com quem possa compartilhar essas coisas...[Ela lhe lança um olhar intenso. Parece lutar com as palavras, então balança a cabeça.] Talvez seja melhor eu ir...}{Tem razão. Também não sou estranha a esses caminhos. Eu também guardo muito no coração que não é para os olhos do mundo. Não é sempre que encontro alguém com quem possa compartilhar essas coisas...[Ela lhe lança um olhar intenso. Parece lutar com as palavras, então balança a cabeça.] Talvez seja melhor eu ir...}{}{19}{}{}
+{100}{Espere. Meu nome é @PCNAME@.}{}{5}{}{52}{re +5}
+{108}{Sim. Alguns segredos é melhor deixar não ditos...}{}{5}{}{59}{}
+{111}{Sério? Você pode se surpreender. Estou errada em supor que está buscando respostas para perguntas que levam a ainda mais perguntas? Você não carrega uma grande responsabilidade, que às vezes parece não ser responsabilidade alguma? Estou errada?}{Sério? Você pode se surpreender. Estou errada em supor que está buscando respostas para perguntas que levam a ainda mais perguntas? Você não carrega uma grande responsabilidade, que às vezes parece não ser responsabilidade alguma? Estou errada?}{}{20}{}{}
+{112}{Hmmm. Você é extremamente perspicaz. O que mais?}{}{5}{}{115}{}
+{113}{Errada em tudo. Você não vê nada...}{}{5}{}{59}{}
+{115}{Não sei exatamente quem você é, @PCNAME@, mas sei que não pertence a este lugar. Às vezes eu... eu vejo coisas que os outros não conseguem. Sei que sua jornada foi longa e que está em grave perigo por estar aqui. [Ela lhe lança um olhar encapuzado.] Suponho que poderia dizer que me encontrar aumentou esse perigo...}{Não sei exatamente quem você é, @PCNAME@, mas sei que não pertence a este lugar. Às vezes eu... eu vejo coisas que os outros não conseguem. Sei que sua jornada foi longa e que está em grave perigo por estar aqui. [Ela lhe lança um olhar encapuzado.] Suponho que poderia dizer que me encontrar aumentou esse perigo...}{}{21}{}{}
+{116}{Sério? Por algum motivo não sinto que você represente uma ameaça...}{}{5}{}{124}{}
+{118}{Talvez tenha razão. Posso ser forçada a resolver esse problema...}{}{5}{}{120}{}
+{120}{[Ela ri, jogando a cabeça para trás.] Não seja tolo, @PCNAME@. Se eu representasse qualquer ameaça a você, já estaria morto. Guardo seus segredos em minha mente e em meu coração. Não pretendo compartilhá-los com ninguém... ainda...}{[Ela ri, jogando a cabeça para trás.] Não seja tolo, @PCNAME@. Se eu representasse qualquer ameaça a você, já estaria morto. Guardo seus segredos em minha mente e em meu coração. Não pretendo compartilhá-los com ninguém... ainda...}{}{22}{}{}
+{121}{O que quer dizer? Que segredos?}{}{5}{}{127}{}
+{122}{Isso mesmo. Porque você vai estar morto...}{}{5}{}{}{co, fl 35}
+{124}{[Ela lhe lança um olhar longo e duro.] Isso ainda está para ser visto, @PCNAME@. Mas, ao contrário de muitos dos meus irmãos e irmãs aqui, estou buscando respostas para perguntas difíceis. A devoção cega a uma causa é o caminho mais fácil a seguir, e o mais tolo. Desejo lançar luz sobre o caminho à frente e escolher a melhor forma de viajar. Essas respostas, acho, começam com você...}{[Ela lhe lança um olhar longo e duro.] Isso ainda está para ser visto, @PCNAME@. Mas, ao contrário de muitos dos meus irmãos e irmãs aqui, estou buscando respostas para perguntas difíceis. A devoção cega a uma causa é o caminho mais fácil a seguir, e o mais tolo. Desejo lançar luz sobre o caminho à frente e escolher a melhor forma de viajar. Essas respostas, acho, começam com você...}{}{23}{}{}
+{125}{Sério? E por que você pensaria isso, Z'an Al'urin...?}{}{5}{}{127}{}
+{127}{Eu... eu vejo coisas. Quando você entrou em T'sen-Ang, vi algo ao seu redor... uma grande estrutura de madeira e ferro, e ela carregava um grande peso que não pesava nada. Essas são as visões que tenho, @PCNAME@. O que significam, nem sempre sei, mas sei que VOCÊ é de alguma forma importante para mim...}{Eu... eu vejo coisas. Quando você entrou em T'sen-Ang, vi algo ao seu redor... uma grande estrutura de madeira e ferro, e ela carregava um grande peso que não pesava nada. Essas são as visões que tenho, @PCNAME@. O que significam, nem sempre sei, mas sei que VOCÊ é de alguma forma importante para mim...}{}{24}{}{}
+{128}{Por quê? Que respostas VOCÊ busca, Z'an Al'urin...?}{}{5}{}{133}{}
+{133}{[Ela fica em silêncio por um tempo, observando você com seus olhos escuros. Então...] O que você sabe sobre os Elfos Negros, @PCNAME@? Conhece as diferenças entre nós e nossos primos em Qintarra?}{[Ela fica em silêncio por um tempo, observando você com seus olhos escuros. Então...] O que você sabe sobre os Elfos Negros, @PCNAME@? Conhece as diferenças entre nós e nossos primos em Qintarra?}{}{25}{}{}
+{134}{Sim, conheço as diferenças filosóficas...}{}{5}{}{156}{}
+{135}{Não sei quase nada sobre os Elfos Negros...}{}{5}{}{138}{}
+{136}{Vamos falar sobre isso mais tarde...}{}{5}{}{0}{lf1 1}
+{138}{Entendo. Bem, os Elfos Negros diferem dos outros elfos em um aspecto importante. Eles acreditam que apenas os elfos são aptos a governar, que a razão para o estado atual do nosso mundo se deve ao fato de que os elfos não guiam mais as outras raças como faziam antes. Eles acreditam que Arronax estava certo quando travou guerra contra Nasrudin, tantos anos atrás...}{Entendo. Bem, os Elfos Negros diferem dos outros elfos em um aspecto importante. Eles acreditam que apenas os elfos são aptos a governar, que a razão para o estado atual do nosso mundo se deve ao fato de que os elfos não guiam mais as outras raças como faziam antes. Eles acreditam que Arronax estava certo quando travou guerra contra Nasrudin, tantos anos atrás...}{}{26}{}{}
+{139}{O que há de importante em Arronax e Nasrudin?}{}{5}{}{144}{}
+{140}{Você continua dizendo "eles". Você não é uma Elfa Negra, Z'an Al'urin?}{}{5}{}{159}{}
+{141}{Vamos falar sobre isso mais tarde...}{}{5}{}{0}{lf1 1}
+{144}{Arronax e Nasrudin são elfos que supostamente viveram durante a Era das Lendas. Alguns elfos se perguntam se eles não eram mitos, histórias criadas para dar estrutura a doutrinas e ideologias. Eu, pessoalmente, acho que eram reais...}{Arronax e Nasrudin são elfos que supostamente viveram durante a Era das Lendas. Alguns elfos se perguntam se eles não eram mitos, histórias criadas para dar estrutura a doutrinas e ideologias. Eu, pessoalmente, acho que eram reais...}{}{27}{}{}
+{145}{Mas por que eles são importantes? Em que acreditavam?}{}{5}{}{150}{}
+{150}{Nasrudin era o líder do Conselho Élfico, e esse conselho governava todo o Arcanum e ditava leis para todas as raças. Nasrudin acreditava no lugar natural de todas as coisas vivas, e nenhuma mais importante que as outras. Se é que ele se via no direito de governar, era apenas por causa de sua filosofia de mente aberta...}{Nasrudin era o líder do Conselho Élfico, e esse conselho governava todo o Arcanum e ditava leis para todas as raças. Nasrudin acreditava no lugar natural de todas as coisas vivas, e nenhuma mais importante que as outras. Se é que ele se via no direito de governar, era apenas por causa de sua filosofia de mente aberta...}{}{28}{}{}
+{151}{E Arronax...?}{}{5}{}{153}{}
+{153}{Arronax acreditava que as outras raças eram seres desamparados e desorientados que destruiriam Arcanum se deixados sem controle. Ele e Nasrudin entraram em guerra, e Arronax foi derrotado... banido para sempre para o Vazio. Os Elfos Negros acreditam no que Arronax defendia... eles desejam que os elfos, e somente os elfos, governem Arcanum...}{Arronax acreditava que as outras raças eram seres desamparados e desorientados que destruiriam Arcanum se deixados sem controle. Ele e Nasrudin entraram em guerra, e Arronax foi derrotado... banido para sempre para o Vazio. Os Elfos Negros acreditam no que Arronax defendia... eles desejam que os elfos, e somente os elfos, governem Arcanum...}{}{29}{}{}
+{154}{Você continua dizendo "eles". Você não é uma Elfa Negra, Z'an Al'urin?}{}{5}{}{159}{}
+{156}{Então você sabe que os Elfos Negros, como Arronax, querem que Arcanum seja governado novamente apenas por elfos. Eles não vão parar por nada para tornar isso realidade. [Ela parece quase estremecer.] Eles já fizeram muito, e ainda estão fazendo...}{Então você sabe que os Elfos Negros, como Arronax, querem que Arcanum seja governado novamente apenas por elfos. Eles não vão parar por nada para tornar isso realidade. [Ela parece quase estremecer.] Eles já fizeram muito, e ainda estão fazendo...}{}{30}{}{}
+{157}{Você continua dizendo "eles". Você não é uma Elfa Negra, Z'an Al'urin?}{}{5}{}{159}{}
+{159}{Sim... sim, sou. [Ela olha para baixo.] Sou uma Elfa Negra. Às vezes, isso é um fardo, @PCNAME@. Eu... eu não sei mais exatamente no que acredito. Vejo visões, e essas visões me dizem que há algo muito errado com o que os Elfos Negros estão buscando, algo muito errado com tudo o que fizeram...}{Sim... sim, sou. [Ela olha para baixo.] Sou uma Elfa Negra. Às vezes, isso é um fardo, @PCNAME@. Eu... eu não sei mais exatamente no que acredito. Vejo visões, e essas visões me dizem que há algo muito errado com o que os Elfos Negros estão buscando, algo muito errado com tudo o que fizeram...}{}{31}{}{}
+{160}{Por quê? O que eles fizeram?}{}{5}{}{165}{}
+{161}{Então talvez seu lugar não seja aqui entre eles...}{}{5}{}{170}{}
+{162}{Isso é uma coisa covarde de se dizer. Sua vida é sua...}{}{5}{}{177}{re -5}
+{163}{Vamos falar sobre isso mais tarde...}{}{5}{}{0}{lf2 1}
+{165}{[Sua expressão se endurece, fechando-se para você.] Não posso dizer mais nada. Tudo o que posso lhe dizer é que não sei se meu lugar é aqui entre eles, e que de alguma forma minhas respostas estão com você e para onde está indo. Mas não mentirei sobre minhas lealdades, @PCNAME@. No fim, são minhas próprias respostas que busco. Quando minha escolha for feita, isso é tudo o que importará...}{[O rosto dela se fecha, distante.] Não posso dizer mais nada. Tudo o que posso lhe contar é que não sei se meu lugar é aqui entre eles, e que, de alguma forma, minhas respostas estão com você e para onde você está indo. Mas não mentirei sobre minhas lealdades, @PCNAME@. No fim, são minhas próprias respostas que busco. Quando minha escolha for feita, isso será tudo o que importará...}{}{32}{}{}
+{166}{Se são respostas que ambos buscamos, por que não se junta a mim?}{}{5}{}{183}{}
+{167}{Entendo. Acho que você e eu não temos mais nada para conversar...}{}{5}{}{}{lf4 1, fl 188}
+{168}{Vamos falar sobre isso mais tarde...}{}{5}{}{0}{lf2 1}
+{170}{Talvez não. Não desejo traí-los, nem desejo trair a mim mesma... ou a você, @PCNAME@. E não posso dizer que, no fim, não trairei um ou todos. [Ela abaixa a cabeça, os ombros caídos.] Talvez seja melhor que eu abandone tudo isso...}{Talvez não. Não desejo traí-los, nem desejo trair a mim mesma... ou a você, @PCNAME@. E não posso dizer que, no fim, não trairei um ou todos. [Ela abaixa a cabeça, os ombros caídos.] Talvez seja melhor que eu abandone tudo isso...}{}{33}{}{}
+{171}{Se são respostas que ambos buscamos, por que não se junta a mim?}{}{5}{}{183}{}
+{172}{Se não posso confiar em você, então não temos mais nada para conversar...}{}{5}{}{}{lf4 1, fl 188}
+{175}{Vamos falar sobre isso mais tarde...}{}{5}{}{0}{lf2 1}
+{177}{[Os olhos dela brilham com intensidade.] O quê? Ousa me chamar de covarde? Ora, eu vou destruir...! [Ela para, se recompõe.] Não, acho que você está certo. Preciso encontrar meu próprio caminho, e ele não está aqui entre os cegos. Talvez eu também esteja cega... Vejo visões de você e para onde está indo, mas não consigo enxergar as escolhas que farei. Desejo-lhe sorte em sua jornada, @PCNAME@...}{[Os olhos dela brilham com intensidade.] O quê? Ousa me chamar de covarde? Ora, eu vou destruir...! [Ela para, se recompõe.] Não, acho que você está certo. Preciso encontrar meu próprio caminho, e ele não está aqui entre os cegos. Talvez eu também esteja cega... Vejo visões de você e para onde está indo, mas não consigo enxergar as escolhas que farei. Desejo-lhe sorte em sua jornada, @PCNAME@...}{}{34}{}{}
+{178}{Se são respostas que ambos buscamos, por que não se junta a mim?}{}{5}{}{183}{}
+{179}{Se não posso confiar em você, então não temos mais nada para conversar...}{}{5}{}{}{lf4 1, fl 188}
+{181}{Vamos falar sobre isso mais tarde...}{}{5}{}{0}{lf2 1}
+{183}{Você me quer ao seu lado, sabendo que não posso fazer promessas? Sabendo que minhas próprias respostas sempre virão em primeiro lugar? [Ela balança a cabeça.] E você não faz ideia de para onde estamos indo, @PCNAME@... e não lhe direi. Ainda não... não até ter certeza da escolha certa...}{Você me quer ao seu lado, sabendo que não posso fazer promessas? Sabendo que minhas próprias respostas sempre virão em primeiro lugar? [Ela balança a cabeça.] E você não faz ideia de para onde estamos indo, @PCNAME@... e não lhe direi. Ainda não... não até ter certeza da escolha certa...}{}{35}{}{}
+{184}{Sim. Você virá comigo?}{}{5}{}{192}{jo 0 198}
+{186}{Sim. Você virá comigo?}{}{5}{pa 6426}{}{}
+{187}{Pensando melhor, prefiro que não venha...}{}{5}{}{}{lf4 1, fl 188}
+{188}{Sim, é melhor assim. Adeus, @PCNAME@...}{Sim, é melhor assim. Adeus, @PCNAME@...}{}{36}{}{}
+{190}{Deixe-me, @PCNAME@. Preciso seguir meu próprio caminho...}{Deixe-me, @PCNAME@. Preciso seguir meu próprio caminho...}{}{37}{}{}
+{192}{Havia mais alguma coisa, @PCNAME@?}{Havia mais alguma coisa, @PCNAME@?}{}{38}{}{}
+{195}{Mais algumas perguntas...}{}{5}{}{12}{lf3 1}
+{196}{E:}{}{5}{}{0}{lf3 1}
+{198}{[Ela fica em silêncio por um longo tempo.] Sim, @PCNAME@, eu o acompanharei em sua jornada. Talvez eu possa ajudá-lo... Rezo, por sua causa, para que eu não seja sua, ou do mundo, ruína...}{[Ela fica em silêncio por um longo tempo.] Sim, @PCNAME@, eu o acompanharei em sua jornada. Talvez eu possa ajudá-lo... Rezo, por sua causa, para que eu não seja sua, ou do mundo, ruína...}{}{39}{}{}
+{200}{E:}{}{5}{}{0}{}
+{202}{O que você precisa?}{O que você precisa?}{}{40}{}{}
+{203}{B:}{}{5}{wa 0}{}{}
+{204}{Tenho algumas perguntas para você, Z'an Al'urin...}{}{5}{wa 0}{210}{}
+{205}{Gostaria que fizesse algo por mim, Z'an Al'urin...}{}{5}{wa 0}{323}{}
+{206}{Você pode parar de esperar agora, Z'an Al'urin.}{}{5}{wa 1, pa -6426}{345}{uw 0 331}
+{207}{Você pode parar de esperar agora, Z'an Al'urin.}{}{5}{wa 1, pa 6426}{-16}{}
+{208}{E:}{}{5}{}{0}{}
+{209}{Hã...}{}{-4}{}{}{fl 520}
+{210}{O que gostaria de saber, @PCNAME@?}{O que gostaria de saber, @PCNAME@?}{}{41}{}{}
+{211}{Gostaria de saber algumas coisas sobre você, Z'an Al'urin...}{}{1}{}{}{ce}
+{225}{O que sabe sobre Arronax, Z'an Al'urin?}{}{1}{ss 15, ss -15}{500}{}
+{226}{Sabe alguma coisa sobre Nasrudin?}{}{1}{ss 16, ss -16}{504}{}
+{230}{Como devemos encontrar Arronax, Z'an Al'urin?}{}{1}{ss 20, ss -20}{508}{}
+{231}{O que sabe sobre o Vazio, Z'an Al'urin?}{}{1}{ss 21, ss -21}{512}{}
+{234}{Z'an Al'urin! O que vamos fazer agora?}{}{1}{ss 24, ss -24}{516}{}
+{235}{O que sabe sobre este lugar? [Colinas Nebulosas.]}{}{1}{ia 1}{366}{}
+{236}{O que sabe sobre este lugar? [Tarant.]}{}{1}{ia 21}{371}{}
+{238}{O que sabe sobre este lugar? [Caladon.]}{}{1}{ia 4}{375}{}
+{239}{O que você sabe sobre este lugar? [Dernholm.]}{}{1}{ia 5}{379}{}
+{240}{O que sabe sobre este lugar? [Qintarra.]}{}{1}{ia 6}{383}{}
+{243}{O que sabe sobre este lugar? [Clã da Roda.]}{}{1}{ia 9}{387}{}
+{245}{O que sabe sobre este lugar? [Tulla.]}{}{1}{ia 11}{391}{}
+{247}{O que sabe sobre este lugar? [Anel de Brodgar.]}{}{1}{ia 14}{395}{}
+{248}{O que sabe sobre este lugar? [T'sen-Ang.]}{}{1}{ia 16}{399}{}
+{251}{O que sabe sobre este lugar? [Ruínas de Vendigroth.]}{}{1}{ia 22}{403}{}
+{252}{O que sabe sobre este lugar? [Thanatos.]}{}{1}{ia 23, gf2374 0}{407}{}
+{253}{Z'an Al'urin, parece que está bravo comigo. Há algo que eu possa fazer?}{}{1}{re -20}{300}{}
+{254}{E:}{}{1}{}{0}{}
+{300}{Está surpreso por eu estar bravo depois da forma como tem agido? Como pode ser tão incrivelmente desatento? Às vezes acho que talvez não tenha mais jeito. Suponho que, se me trouxer um pouco de Água Pura da Primavera Élfica, eu possa perdoar suas falhas...}{Está surpreso por eu estar bravo depois da forma como tem agido? Como pode ser tão incrivelmente desatento? Às vezes acho que talvez não tenha mais jeito. Suponho que, se me trouxer um pouco de Água Pura da Primavera Élfica, eu possa perdoar suas falhas...}{}{68}{}{}
+{301}{Querido Z'an Al'urin... está mesmo TÃO chateado assim?}{}{1}{ch 20}{307}{re +20}
+{302}{Ah! Tenho um pouco aqui! Por favor, aceite este pequeno presente...}{}{1}{in 3615, ch -19}{-39}{re +20}
+{303}{Farei o possível para conseguir um pouco...}{}{1}{in -3615, ch -19}{317}{}
+{304}{Bem, nem todos podemos ter o que queremos. Vamos lá...}{}{1}{}{}{re -5, fl 320}
+{307}{[Z'an Al'urin tenta resistir ao seu charme óbvio, mas sem sucesso.] Hmmm. Acho que estava errado sobre você. Talvez ainda haja esperança. Vamos seguir nosso caminho?}{[Z'an Al'urin tenta resistir ao seu charme óbvio, mas sem sucesso.] Hmmm. Acho que estava errado sobre você. Talvez ainda haja esperança. Vamos seguir nosso caminho?}{}{69}{}{}
+{308}{Sim, vamos fazer isso...}{}{1}{}{0}{}
+{310}{[Z'an Al'urin pega a garrafa de você e bebe tudo.] Mmmm. Isso é muito melhor. Talvez eu tenha sido um pouco duro com você antes. Me perdoe. Vamos continuar?}{[Z'an Al'urin pega a garrafa de você e bebe tudo.] Mmmm. Isso é muito melhor. Talvez eu tenha sido um pouco duro com você antes. Me perdoe. Vamos continuar?}{}{70}{}{}
+{311}{Eu estava me perguntando se você gostaria de se juntar a mim novamente, Z'an Al'urin?}{}{1}{pa -6426, pa -6613}{345}{jo 0 348}
+{312}{Eu estava me perguntando se você gostaria de se juntar a mim novamente, Z'an Al'urin?}{}{1}{pa 6426, pa -6613}{-16}{}
+{313}{Sim. Vamos partir...}{}{1}{}{0}{}
+{317}{Acredito que isso seria do seu melhor interesse, meu amigo.}{Acredito que isso seria do seu melhor interesse, meu amigo.}{}{71}{}{}
+{318}{Entendo. Vamos...}{}{1}{}{0}{}
+{320}{[Fervendo de raiva.] Você está brincando com a mulher errada, meu amigo. Não tolerarei essa insensibilidade por muito tempo...}{[Fervendo de raiva.] Você está brincando com a mulher errada, meu amigo. Não tolerarei essa insensibilidade por muito tempo...}{}{72}{}{}
+{323}{O que você queria que eu fizesse?}{O que você queria que eu fizesse?}{}{42}{}{}
+{324}{Afaste-se, Z'an Al'urin.}{}{1}{}{0}{so}
+{325}{Chegue um pouco mais perto, Z'an Al'urin.}{}{1}{}{0}{sc}
+{326}{Espere aqui por um tempo...}{}{1}{wa 0}{334}{wa}
+{327}{Você pode parar de esperar agora, Z'an Al'urin.}{}{1}{wa 1, pa -6426}{345}{uw 0 331}
+{328}{Você pode parar de esperar agora, Z'an Al'urin.}{}{1}{wa 1, pa 6426}{-16}{}
+{329}{Acho melhor você deixar o grupo.}{}{1}{}{337}{lv}
+{330}{[Voltar]}{}{1}{}{202}{}
+{331}{Claro. [Seus olhos escuros brilham, mas com qual emoção você não tem certeza.] Estou pronta para ir quando você estiver...}{Claro. [Seus olhos escuros brilham, mas com qual emoção você não tem certeza.] Estou pronta para ir quando você estiver...}{}{43}{}{}
+{332}{E:}{}{1}{}{0}{}
+{334}{Vou esperar aqui, @PCNAME@. Espero estar aqui quando você voltar...}{Vou esperar aqui, @PCNAME@. Espero estar aqui quando você voltar...}{}{44}{}{}
+{335}{E:}{}{1}{}{0}{}
+{337}{Sério? Bem, não posso dizer que o culpo. [Ela estende a mão, prendendo seu olhar.] Espero sinceramente que ambos encontremos o que procuramos. Talvez um dia nos encontremos novamente...}{Sério? Bem, não posso dizer que o culpo. [Ela estende a mão, prendendo seu olhar.] Espero sinceramente que ambos encontremos o que procuramos. Talvez um dia nos encontremos novamente...}{}{45}{}{lf31 1}
+{338}{E:}{}{1}{}{0}{}
+{339}{Bem, @PCNAME@, parece que nossos caminhos se cruzam novamente. O que o traz aqui?}{Bem, @PCNAME@, parece que nossos caminhos se cruzam novamente. O que o traz aqui?}{}{46}{}{}
+{340}{Eu estava me perguntando se você gostaria de se juntar a mim novamente, Z'an Al'urin?}{}{5}{pa -6426}{345}{jo 0 348}
+{341}{Eu estava me perguntando se você gostaria de se juntar a mim novamente, Z'an Al'urin?}{}{5}{pa 6426}{-16}{}
+{342}{Z'an Al'urin, você parece estar com raiva de mim. Há algo que eu possa fazer?}{}{5}{re -20}{300}{}
+{343}{E:}{}{5}{}{0}{}
+{344}{Hã...}{}{-4}{}{}{fl 520}
+{345}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{47}{}{}
+{346}{E:}{}{1}{}{0}{}
+{348}{[Seus olhos dançam com um fogo desconhecido. Seu rosto permanece indecifrável.] Sim, @PCNAME@. Eu me juntarei a você. E devemos ir até o fim...}{[Seus olhos dançam com um fogo desconhecido. Seu rosto permanece indecifrável.] Sim, @PCNAME@. Eu me juntarei a você. E devemos ir até o fim...}{}{48}{}{lf31 0}
+{349}{E:}{}{1}{}{0}{}
+{350}{Eu não achava que veria você novamente, @PCNAME@. Pensei que talvez você tivesse finalmente decidido seguir em frente sem mim. Talvez isso tivesse sido o melhor...}{Eu não achava que veria você novamente, @PCNAME@. Pensei que talvez você tivesse finalmente decidido seguir em frente sem mim. Talvez isso tivesse sido o melhor...}{}{49}{}{}
+{351}{É uma pena que você pense assim. Eu esperava que se juntasse a mim novamente...}{}{5}{pa -6426}{345}{jo 0 361}
+{352}{É uma pena que você pense assim. Eu esperava que se juntasse a mim, mais uma vez...}{}{5}{pa 6426}{-16}{}
+{353}{Z'an Al'urin, você parece estar bravo comigo. Há algo que eu possa fazer?}{}{5}{re -20}{300}{}
+{354}{E:}{}{5}{}{0}{}
+{355}{Hã...}{}{-4}{}{}{fl 520}
+{356}{[Z'an Al'urin sorri, misteriosamente.] Ela está certa, por mais equivocada e tola que possa ser. Já lhe disse que, no fim, devo buscar minhas próprias respostas. Parece que você deve escolher entre nós...}{[Z'an Al'urin sorri, misteriosamente.] Ela está certa, por mais equivocada e tola que possa ser. Já lhe disse que, no fim, devo buscar minhas próprias respostas. Parece que você deve escolher entre nós...}{}{50}{}{}
+{357}{Não. Tenho MUITA confiança de que Raven conseguirá superar isso...}{}{1}{ch 20}{-22}{}
+{358}{Eu escolho você. Parece que Raven deve encontrar seu próprio caminho...}{}{1}{}{-28}{}
+{359}{Então eu escolho Raven. Adeus, Z'an Al'urin...}{}{1}{}{0}{}
+{361}{[Seus olhos dançam com um fogo desconhecido. Seu rosto permanece indecifrável.] Sim, @PCNAME@. Eu me juntarei a você. E devemos ir até o fim...}{[Seus olhos dançam com um fogo desconhecido. Seu rosto permanece indecifrável.] Sim, @PCNAME@. Eu me juntarei a você. E devemos ir até o fim...}{}{51}{}{lf31 0}
+{362}{E:}{}{1}{}{0}{}
+{363}{Sim...?}{Sim...?}{}{73}{}{}
+{364}{Você vai se juntar a mim?}{}{1}{}{345}{jo 0 361}
+{365}{E:}{}{1}{}{0}{}
+{366}{[Ela fecha os olhos.] Vejo... uma antiga casa dos Defensores... um espírito inquieto... um lugar de profecia. [Seus olhos se abrem novamente.] Isso significa algo para você, @PCNAME@...?}{[Ela fecha os olhos.] Vejo... uma antiga casa dos Defensores... um espírito inquieto... um lugar de profecia. [Seus olhos se abrem novamente.] Isso significa algo para você, @PCNAME@...?}{}{52}{}{}
+{367}{K:}{}{1}{}{323}{}
+{368}{E:}{}{1}{}{0}{}
+{371}{[Ela fecha os olhos.] Vejo... o garoto que mudou o mundo, uma família que se comunica com os mortos e alguém que pode mudar o mundo novamente. Às vezes, as visões são confusas. Gostaria de saber mais sobre o que significam...}{[Ela fecha os olhos.] Vejo... o garoto que mudou o mundo, uma família que se comunica com os mortos e alguém que pode mudar o mundo novamente. Às vezes, as visões são confusas. Gostaria de saber mais sobre o que significam...}{}{53}{}{}
+{372}{K:}{}{1}{}{323}{}
+{373}{E:}{}{1}{}{0}{}
+{375}{[Ela fecha os olhos.] Vejo um homem que pode voar e uma mentira que foi enterrada. [Seus olhos se abrem novamente.] Interessante, no mínimo...}{[Ela fecha os olhos.] Vejo um homem que pode voar e uma mentira que foi enterrada. [Seus olhos se abrem novamente.] Interessante, no mínimo...}{}{54}{}{}
+{376}{K:}{}{1}{}{323}{}
+{377}{E:}{}{1}{}{0}{}
+{379}{[Ela fecha os olhos.] Está confuso... vejo uma antiga traição e um lugar de almas perdidas. [Ela abre os olhos.] Acho que este é um lugar muito triste, de fato...}{[Ela fecha os olhos.] Está confuso... vejo uma antiga traição e um lugar de almas perdidas. [Ela abre os olhos.] Acho que este é um lugar muito triste, de fato...}{}{55}{}{}
+{380}{K:}{}{1}{}{323}{}
+{381}{E:}{}{1}{}{0}{}
+{383}{[Ela olha ao redor, com desdém.] Esta é Qintarra, lar dos elfos. Bem, de ALGUNS elfos. Não tenho mais nada a dizer sobre o assunto...}{[Ela olha ao redor, com desdém.] Esta é Qintarra, lar dos elfos. Bem, de ALGUNS elfos. Não tenho mais nada a dizer sobre o assunto...}{}{56}{}{}
+{384}{K:}{}{1}{}{323}{}
+{385}{E:}{}{1}{}{0}{}
+{387}{[Ela fecha os olhos.] Vejo um grande machado e a dor de quem o empunha. Também vejo um bando de aves escuras que falam com duas bocas. [Ela abre os olhos.] Gostaria de saber o que isso significa...}{[Ela fecha os olhos.] Vejo um grande machado e a dor de quem o empunha. Também vejo um bando de aves escuras que falam com duas bocas. [Ela abre os olhos.] Gostaria de saber o que isso significa...}{}{57}{}{}
+{388}{K:}{}{1}{}{323}{}
+{389}{E:}{}{1}{}{0}{}
+{391}{[Ela fecha os olhos.] Vejo onde todos os grandes rios fluem. Há também outro... observando, esperando... procurando por um sinal... [Ela abre os olhos.] Isso é tudo que posso lhe dizer...}{[Ela fecha os olhos.] Vejo onde todos os grandes rios fluem. Há também outro... observando, esperando... procurando por um sinal... [Ela abre os olhos.] Isso é tudo que posso lhe dizer...}{}{58}{}{}
+{392}{K:}{}{1}{}{323}{}
+{393}{E:}{}{1}{}{0}{}
+{395}{[Ela fecha os olhos.] Vejo uma grande ferida que se debate contra seu curativo. Vejo a tristeza de um pai. E vejo uma antiga verdade esperando para ser descoberta. [Ela abre os olhos.] Este é um lugar poderoso, cheio de dor e magia. Há muito a ser aprendido aqui...}{[Ela fecha os olhos.] Vejo uma grande ferida que se debate contra seu curativo. Vejo a tristeza de um pai. E vejo uma antiga verdade esperando para ser descoberta. [Ela abre os olhos.] Este é um lugar poderoso, cheio de dor e magia. Há muito a ser aprendido aqui...}{}{59}{}{}
+{396}{K:}{}{1}{}{323}{}
+{397}{E:}{}{1}{}{0}{}
+{399}{Este é T'sen-Ang, o lar dos Elfos Negros. Recomendo que pise com cuidado aqui...}{Este é T'sen-Ang, o lar dos Elfos Negros. Recomendo que pise com cuidado aqui...}{}{60}{}{}
+{400}{K:}{}{1}{}{323}{}
+{401}{E:}{}{1}{}{0}{}
+{403}{[Ela fecha os olhos.] Ahh! É tão vívido! Vejo uma grande tempestade e tudo perdido em sua fúria! Vejo algo mais... uma coisa de morte. [Ela abre os olhos.] É demais, não consigo olhar mais...}{[Ela fecha os olhos.] Ahh! É tão vívido! Vejo uma grande tempestade, e tudo perdido em sua fúria! Vejo algo mais... uma coisa de morte. [Ela abre os olhos.] É demais, não consigo olhar mais...}{}{61}{}{}
+{404}{K:}{}{1}{}{323}{}
+{405}{E:}{}{1}{}{0}{}
+{407}{[Ela fecha os olhos.] Vejo... vejo... [Ela abre os olhos.] O que vejo é impossível. Eu... eu preferiria não falar sobre isso...}{[Ela fecha os olhos.] Vejo... vejo... [Ela abre os olhos.] O que vejo é impossível. Eu... eu preferiria não falar sobre isso...}{}{62}{}{}
+{408}{K:}{}{1}{}{323}{}
+{409}{E:}{}{1}{}{0}{}
+{500}{Apenas o que já lhe contei antes. E parece que ele é responsável pelo que está acontecendo com você... pelo que está acontecendo com todos. Acho que Arronax tem muito a responder...}{Apenas o que já lhe contei antes. E parece que ele é responsável pelo que está acontecendo com você... pelo que está acontecendo com todos. Acho que Arronax tem muito a responder...}{}{63}{}{}
+{501}{K:}{}{1}{}{323}{}
+{502}{E:}{}{1}{}{0}{}
+{504}{Nasrudin? Um elfo muito poderoso. Foi ele quem puniu Arronax, enviando-o para o Vazio. Por muito tempo, me ensinaram que Nasrudin era fraco e que foi ele quem amaldiçoou Arcanum ao seu destino. Agora... não tenho tanta certeza. Não tenho mais certeza de nada...}{Nasrudin? Um elfo muito poderoso. Foi ele quem puniu Arronax, enviando-o para o Vazio. Por muito tempo, me ensinaram que Nasrudin era fraco e que foi ele quem amaldiçoou Arcanum ao seu destino. Agora... não tenho tanta certeza. Não tenho mais certeza de nada...}{}{64}{}{}
+{505}{K:}{}{1}{}{323}{}
+{506}{E:}{}{1}{}{0}{}
+{508}{Não sei. Se a lenda diz a verdade, então Arronax está no Vazio. De alguma forma, teremos que encontrar um jeito de sermos banidos para lá. Não conheço ninguém com esse tipo de poder...}{Não sei. Se a lenda diz a verdade, então Arronax está no Vazio. De alguma forma, teremos que encontrar um jeito de sermos banidos para lá. Não conheço ninguém com esse tipo de poder...}{}{65}{}{}
+{509}{K:}{}{1}{}{323}{}
+{510}{E:}{}{1}{}{0}{}
+{512}{[Ela fecha os olhos.] Não consigo ver nada... ou talvez seja melhor dizer que há coisas demais para ver. [Ela abre os olhos.] Mas acho que estamos muito perto das respostas que buscamos. A jornada, para nós dois, está quase no fim...}{[Ela fecha os olhos.] Não consigo ver nada... ou talvez seja melhor dizer que há coisas demais para ver. [Ela abre os olhos.] Mas acho que estamos muito perto das respostas que buscamos. A jornada, para nós dois, está quase no fim...}{}{66}{}{}
+{513}{K:}{}{1}{}{323}{}
+{514}{E:}{}{1}{}{0}{}
+{516}{[Ela fecha os olhos.] Vejo... vejo você desligando seu computador. O jogo acabou. Você não precisa mais jogar...}{[Ela fecha os olhos.] Vejo... vejo você desligando seu computador. O jogo acabou. Você não precisa mais jogar...}{}{67}{}{}
+{517}{K:}{}{1}{}{323}{}
+{518}{E:}{}{1}{}{0}{}
+{520}{[Z'an Al'urin lança um olhar fulminante para você, desgostosa com seu estado mental atual. Ela não diz nada.]}{[Z'an Al'urin lança um olhar fulminante para você, desgostosa com seu estado mental atual. Ela não diz nada.]}{}{}{}{}
+

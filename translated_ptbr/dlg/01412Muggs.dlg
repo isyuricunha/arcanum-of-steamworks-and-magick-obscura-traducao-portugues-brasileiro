@@ -1,0 +1,141 @@
+{1}{Que diabos do nome de Alberich fez você pensar que podia falar comigo? Fale logo, garoto!}{Que diabos do nome de Alberich fez você pensar que podia falar comigo? Fale logo, garota!}{}{}{}{}
+{2}{Um dos seus rapazes me disse para vir falar com você sobre um trabalho.}{}{5}{gf2169 1}{10}{}
+{4}{Urgh.}{}{-4}{}{50}{lf1 1}
+{5}{Não sei no que eu estava pensando. Já estou de saída.}{}{5}{}{50}{lf1 1}
+{6}{Aquele sujeito ali. Ele disse pra falar sobre um serviço de dinheiro com você.}{}{-4}{gf2169 1}{10}{}
+{7}{Eu não vim para conversar. Vim para fazer você gritar como uma colegial.}{}{5}{}{0}{fl 79 ,co}
+{10}{Bem, isso é diferente. Querendo se juntar ao clã de Damian Maug, hein? Boa escolha. Escolha saudável também, se entende o que quero dizer. Tenho um serviço fácil pra você, cobrança.}{Bem, isso é diferente. Querendo se juntar ao clã de Damian Maug, hein? Boa escolha. Escolha saudável também, se entende o que quero dizer. Tenho um serviço fácil pra você, cobrança.}{}{}{}{}
+{11}{Estou ouvindo.}{}{5}{}{20}{}
+{12}{Tô ouvindo.}{}{-4}{}{20}{}
+{13}{Eu tenho que ir.}{}{-4}{lf1 1}{0}{fl 235 ,co}
+{14}{Adoraria saber mais, mas preciso ir.}{}{5}{lf1 1}{0}{fl 235 ,co}
+{18}{Eu tenho que ir.}{}{-4}{}{245}{re-10}
+{19}{Adoraria saber mais, mas preciso ir.}{}{5}{lf1 0}{245}{re-10}
+{20}{Tem esse sujeito, Larrs, que ficou um pouco atrasado nos pagamentos. Alguém, que seria você, precisa dar uma passada na casa do velho Larrs e cobrar as 200 moedas que ele deve. Eu te dou, digamos, 25 moedas pelo trabalho.}{Tem esse sujeito, Larrs, que ficou um pouco atrasado nos pagamentos. Alguém, que seria você, precisa dar uma passada na casa do velho Larrs e cobrar as 200 moedas que ele deve. Eu te dou, digamos, 25 moedas pelo trabalho.}{}{}{}{qu1084 1}
+{21}{E se ele não tiver?}{}{5}{}{30}{}
+{22}{E se ele não tiver?}{}{-4}{}{30}{}
+{25}{Já consegui o dinheiro pra você.}{}{5}{gf2171 1, $$200}{121}{}
+{26}{Eu já tenho seu dinheiro.}{}{-4}{gf2171 1, $$200}{121}{}
+{27}{25 moedas? Esquece.}{}{5}{}{80}{}
+{28}{Isso não é suficiente.}{}{-4}{}{80}{}
+{30}{Mate ele.}{Mate ele.}{}{}{}{}
+{31}{Tudo bem, onde esse cara mora?}{}{5}{}{40}{}
+{32}{Tá bom. Onde esse cara tá?}{}{-4}{}{40}{}
+{33}{Eu já matei aquele sujeito.}{}{5}{gf2170 1}{90}{}
+{34}{Eu matei ele.}{}{-4}{gf2170 1}{90}{}
+{38}{Eu não quero ser o malvado.}{}{-4}{}{70}{}
+{39}{Não estou interessado em ser um capanga. Tenha um bom dia.}{}{5}{}{70}{}
+{40}{A cabana dele fica um pouco a noroeste da fervura, à esquerda.}{A cabana dele fica um pouco a noroeste da fervura, à esquerda.}{}{}{}{rp1002}
+{41}{Vou voltar com o dinheiro dele ou com o sangue dele.}{}{5}{}{0}{qu1084 2}
+{42}{Volto com o dinheiro.}{}{-4}{}{0}{qu1084 2}
+{50}{Isso mesmo, vá logo, idiota. Por sorte eu sou do tipo que perdoa. É melhor não aparecer por aqui de novo a menos que tenha algo importante para me dizer.}{Isso mesmo, suma daqui, idiota. Por sorte, sou do tipo que perdoa. É melhor não aparecer por aqui de novo a menos que tenha algo importante para me dizer.}{}{}{}{}
+{51}{Sim, senhor. Vou me lembrar disso.}{}{5}{}{0}{}
+{52}{Tá bom. Eu lembro.}{}{-4}{}{0}{}
+{58}{Vou te matar agora, tá bom?}{}{-4}{}{0}{fl 79 ,co}
+{59}{Que tal a gente discutir os preparativos para o seu funeral.}{}{5}{}{0}{fl 79 ,co}
+{60}{[Ele te examina.] Por sorte, não estou com vontade de começar nada aqui, garoto. Não apareça por aqui a menos que esteja falando sério sobre trabalho. Da próxima vez, você não terá tanta sorte.}{[Ele te examina.] Por sorte, não estou com vontade de começar nada aqui, garota. Não apareça por aqui a menos que esteja falando sério sobre trabalho. Da próxima vez, você não terá tanta sorte.}{}{}{}{}
+{61}{Sim, senhor. Vou me lembrar disso.}{}{5}{}{0}{lf1 1}
+{62}{Da próxima vez, talvez eu tenha que limpar o chão com a sua língua.}{}{5}{}{0}{fl 79 ,co}
+{63}{Sim.}{}{-4}{}{0}{lf1 1}
+{64}{Eu não gosto de você. Você tem que morrer.}{}{-4}{}{0}{fl 79 ,co}
+{70}{O quê? Acho que não ouvi direito. Você veio até mim atrás de trabalho, este é o seu serviço. Você não tem mais escolha nesse assunto.}{O quê? Acho que não ouvi direito. Você veio até mim atrás de trabalho, este é o seu serviço. Você não tem mais escolha nesse assunto.}{}{}{}{}
+{71}{Entendo seu ponto. Onde esse sujeito mora?}{}{5}{}{40}{}
+{72}{Discordo. Minha escolha é esmagar sua coluna, anão.}{}{5}{ra-2}{0}{fl 79 ,co}
+{73}{Discordo. Minha escolha é esmagar sua coluna.}{}{5}{ra 2}{0}{fl 79 ,co}
+{74}{Tá legal. Onde esse cara tá?}{}{-4}{}{40}{}
+{75}{Eu não gosto de você. Você tem que morrer.}{}{-4}{}{0}{fl 79 ,co}
+{78}{}{}{}{}{}{}
+{79}{Você escolheu uma cova prematura, garoto!}{Você escolheu uma cova prematura, garota!}{}{}{}{}
+{80}{O preço não está aberto a negociações. É isso que você vai receber, então cale a boca.}{O preço não está aberto a negociações. É isso que você vai receber, então cale a boca.}{}{}{}{}
+{81}{Entendo seu ponto. Onde esse sujeito mora?}{}{5}{}{40}{}
+{82}{Tá legal. Onde esse cara tá?}{}{-4}{}{40}{}
+{83}{Não. Não vale meu tempo por esse tanto de dinheiro.}{}{5}{}{70}{}
+{84}{Não. Você é um sujeito mão de vaca.}{}{-4}{}{70}{}
+{90}{Você fez o quê? Bom, já que você tomou essa decisão por conta própria sem nossa permissão, assumiu a dívida dele também. 200 moedas. Tussa aí.}{Você fez o quê? Bom, já que você tomou essa decisão por conta própria sem nossa permissão, assumiu a dívida dele também. 200 moedas. Tussa aí.}{}{}{}{}
+{91}{Mas você ia me mandar matá-lo de qualquer jeito.}{}{5}{}{100}{}
+{92}{Tudo bem, aqui está seu dinheiro.}{}{5}{$$200}{130}{$$-200}
+{93}{Não tenho isso.}{}{5}{$$-200}{110}{}
+{94}{Mas eu ia matar o cara pra você.}{}{-4}{}{100}{}
+{95}{Tá bom. Aqui está o dinheiro.}{}{-4}{$$200}{130}{$$-200}
+{96}{Não entendi.}{}{-4}{$$-200}{110}{}
+{100}{Você matou alguém sob nossa proteção sem nossa permissão. Você tem sorte de eu estar te liberando por 200, garoto.}{Você matou alguém sob nossa proteção sem nossa permissão. Você tem sorte de eu estar te liberando por 200, garota.}{}{}{}{}
+{101}{Não tenho isso.}{}{5}{}{110}{}
+{102}{Não entendi.}{}{-4}{}{110}{}
+{103}{Entendo seu ponto. Aqui está. [Dá o dinheiro para ele.]}{}{5}{$$200}{130}{$$-200}
+{104}{Tá bom. Aqui está a grana.}{}{-4}{$$200}{130}{$$-200}
+{105}{Prefiro te matar, idiota.}{}{5}{}{0}{fl 79 ,co}
+{106}{Prefiro te matar em vez disso.}{}{-4}{}{0}{fl 79 ,co}
+{110}{Isso é ruim pra você. Agora vou ter que dar um exemplo com você, idiota.}{Isso é ruim pra você. Agora vou ter que dar um exemplo com você, idiota.}{}{}{}{}
+{111}{Deixa eu te mostrar uma morte dolorosa, porco.}{}{5}{}{0}{fl 79 ,co}
+{112}{AAAARGH! Você morre!}{}{-4}{}{0}{fl 79 ,co}
+{113}{Vou indo agora.}{}{5}{}{0}{fl 120 ,co}
+{114}{Vou embora agora.}{}{-4}{}{0}{fl 120 ,co}
+{120}{Acho que prefiro te matar.}{Acho que prefiro te matar.}{}{}{}{}
+{121}{Em circunstâncias normais, eu ficaria chateado com você por roubar alguém sob nossa proteção. Mas gosto de pessoas com iniciativa. Me dê o dinheiro.}{Em circunstâncias normais, eu ficaria chateado com você por roubar alguém sob nossa proteção. Mas gosto de pessoas com iniciativa. Me dê o dinheiro.}{}{}{}{}
+{122}{Aqui está. [Dá o dinheiro para ele.]}{}{5}{$$200}{130}{$$-200}
+{123}{Tá bom. Aqui está a grana.}{}{-4}{$$200}{130}{$$-200}
+{124}{Você me entendeu mal, eu não disse que ia te dar, seu tolo.}{}{5}{}{0}{fl 79 ,co}
+{125}{Eu não dou pra você, cara estúpido.}{}{-4}{}{0}{fl 79 ,co}
+{130}{Obrigado por fazer nosso trabalho por nós. Você deveria falar com o próprio Damian Maug, ele vai querer trocar umas palavras com nosso mais novo membro. Ele está no North Boil, no Bentley. Você não vai errar.}{Obrigado por fazer nosso trabalho por nós. Você deveria falar com o próprio Damian Maug, ele vai querer trocar umas palavras com nosso mais novo membro. Ele está no North Boil, no Bentley. Você não vai errar.}{}{}{}{ru2191}
+{139}{E:}{}{1}{}{0}{}
+{140}{Eu já te avisei uma vez, seu tolo. Agora vou ter que te bater.}{Eu já te avisei uma vez, sua vadia. Agora vou ter que te bater.}{}{}{}{}
+{141}{Calma. Um dos seus rapazes me disse para vir falar com você.}{}{5}{gf2169 1, lf4 0, lf10 0}{10}{lf4 1}
+{142}{Aquele cara ali. Ele disse para falar sobre o serviço de dinheiro com você.}{}{-4}{gf2169 1, lf4 0, lf10 0}{10}{lf4 1}
+{143}{Espere, estou aqui para me juntar a vocês.}{}{5}{lf10 1}{255}{}
+{144}{Mas eu tô aqui pra entrar na gangue divertida!}{}{-4}{lf10 1}{255}{}
+{147}{Você está enganado. Estou aqui para te DAR uma surra.}{}{5}{}{0}{fl 79 ,co}
+{148}{Eu te mato!}{}{-4}{}{0}{fl 79 ,co}
+{149}{Por favor, não me machuque.}{}{5}{}{0}{fl 152 ,co}
+{150}{Eu não quero me machucar.}{}{-4}{}{0}{fl 152 ,co}
+{152}{Aguente a surra como um homem, filhote!}{Aguente a surra como uma mulher, filhote!}{}{}{}{}
+{162}{Como foi sua visita ao Sr. Larrs?}{Como foi sua visita ao Sr. Larrs?}{}{}{}{}
+{163}{Ele não conseguiu arranjar a grana, então eu o matei.}{}{5}{gf2170 1}{172}{qu1084 4}
+{164}{Ele pagou, depois de um pouco de "persuasão". [Dê o dinheiro a ele.]}{}{5}{gf2171 1, $$200}{182}{$$-200, qu1084 4}
+{165}{Eu, hã, ainda não procurei nosso amigo.}{}{5}{gf2170 0, gf2171 0}{192}{lf2 1, re-10}
+{166}{Sem dinheiro. Eu o matei.}{}{-4}{gf2170 1}{172}{qu1084 4}
+{167}{Aqui está o dinheiro. [Dê o dinheiro a ele.]}{}{-4}{gf2171 1, $$200}{182}{$$-200, qu1084 4}
+{168}{Eu ainda não vi o cara.}{}{-4}{gf2170 0, gf2171 0}{192}{lf2 1, re-10}
+{169}{Eu não estou com a grana dele.}{}{5}{}{210}{re -15, lf3 1}
+{170}{Eu não tenho dinheiro.}{}{-4}{}{210}{re -15, lf3 1}
+{172}{Tenho que te dizer, eu achava que você não seria capaz de fazer o trabalho sujo. Parece que eu estava errado, hein? Aqui estão suas 25 moedas. Você deveria ir falar com o próprio Damian Maug, ele vai querer trocar umas palavras com nosso mais novo membro. Ele está lá em North Boil, no Bentley. Você não vai errar.}{Tenho que te dizer, eu achava que você não seria capaz de fazer o trabalho sujo. Parece que eu estava errado, hein? Aqui estão suas 25 moedas. Você deveria ir falar com o próprio Damian Maug, ele vai querer trocar umas palavras com nossa mais nova membro. Ele está lá em North Boil, no Bentley. Você não vai errar.}{}{}{}{$$25, ru2191}
+{181}{E:}{}{1}{}{0}{}
+{182}{Eu temia que você fosse mole demais para ser um cobrador de verdade, mas parece que eu estava enganado. Aqui estão suas 25 moedas. Você deveria ir falar com o próprio Damian Maug, ele vai querer trocar umas palavras com nosso mais novo membro. Ele está lá em North Boil, no Bentley. Você não vai errar.}{Eu temia que você fosse mole demais para ser um cobrador de verdade, mas parece que eu estava enganado. Aqui estão suas 25 moedas. Você deveria ir falar com o próprio Damian Maug, ele vai querer trocar umas palavras com nossa mais nova membro. Ele está lá em North Boil, no Bentley. Você não vai errar.}{}{}{}{$$25, ru2191}
+{191}{E:}{}{1}{}{0}{}
+{192}{Por que está me incomodando, então? Se voltar aqui sem ter feito o trabalho, eu te mato.}{Por que está me incomodando, então? Se voltar aqui sem ter feito o trabalho, eu te mato.}{}{}{}{}
+{193}{Entendo. Tenha um bom dia.}{}{5}{}{0}{lf3 1}
+{194}{Tá.}{}{-4}{}{0}{lf3 1}
+{195}{Voltei para enfiar meu punho na sua goela.}{}{5}{}{0}{fl 79 ,co, rp1004}
+{196}{Estou aqui para matar você, seu idiota.}{}{-4}{}{0}{fl 79 ,co, rp1004}
+{200}{Não me incomode. Eu já te disse, se quiser mais trabalho, fale com o Milo.}{Não me incomode. Eu já te disse, se quiser mais trabalho, fale com o Milo.}{}{}{}{}
+{201}{A morte é boa demais para o seu tipo, traidor!}{A morte é boa demais para o seu tipo, traidora!}{}{}{}{}
+{202}{Qualquer membro da gangue Pollock está morto para mim!}{Qualquer membro da gangue Pollock está morta para mim!}{}{}{}{}
+{210}{[Ele te agarra pela gola da camisa.] Da próxima vez que voltar aqui, é melhor ter o dinheiro dele ou o sangue dele nas suas mãos, ou você está morto, entendeu?}{[Ele te agarra pelo colarinho da camisa.] Da próxima vez que voltar aqui, é melhor ter o dinheiro dele ou o sangue dele nas mãos, ou você está morto, entendeu?}{}{}{}{}
+{211}{Entendo. Tenha um bom dia.}{}{5}{}{0}{}
+{212}{Tá.}{}{-4}{}{0}{}
+{213}{Seu sangue vai pintar as paredes.}{}{5}{}{0}{fl 79 ,co, rp1004}
+{214}{Você morre.}{}{-4}{}{0}{fl 79 ,co, rp1004}
+{220}{Como foi sua visita ao Sr. Larrs?}{Como foi sua visita ao Sr. Larrs?}{}{}{}{}
+{221}{Ele não conseguiu o dinheiro, então eu o matei.}{}{5}{gf2170 1}{172}{qu1084 4}
+{222}{Ele pagou, depois de um pouco de "persuasão". [Entregue o dinheiro.]}{}{5}{gf2171 1, $$200}{182}{$$-200, qu1084 4}
+{223}{Eu, hã, ainda não procurei nosso amigo.}{}{5}{}{0}{fl 235 ,co, rp1004}
+{224}{Sem dinheiro. Eu o matei.}{}{-4}{gf2170 1}{172}{qu1084 4}
+{225}{Aqui está o dinheiro. [Entregue o dinheiro.]}{}{-4}{gf2171 1, $$200}{182}{$$-200, qu1084 4}
+{226}{Eu não vi o cara ainda.}{}{-4}{}{0}{fl 235 ,co, rp1004}
+{227}{Não estou com o dinheiro dele.}{}{5}{}{0}{fl 235 ,co, rp1004}
+{228}{Eu não tenho dinheiro.}{}{-4}{}{0}{fl 235 ,co, rp1004}
+{235}{Já te avisei antes, cão. Agora acho que vou te matar.}{Já te avisei antes, cão. Agora acho que vou te matar.}{}{}{}{}
+{245}{Então suma daqui, idiota. Se me incomodar de novo, é melhor vir para se juntar ao clã. Ou então.}{Então suma daqui, idiota. Se me incomodar de novo, é melhor vir para se juntar ao clã. Ou então.}{}{}{}{}
+{246}{Gostei do seu estilo, senhor. Afinal, gostaria de me juntar.}{}{5}{}{20}{}
+{247}{Meu cérebro mudou. Eu quero entrar.}{}{-4}{}{20}{}
+{248}{Provavelmente vai ser para você lamber minhas botas, seu tolo burro.}{}{5}{}{0}{fl 79 ,co, rp1004}
+{249}{Eu te mato. Agora.}{}{-4}{}{0}{fl 79 ,co, rp1004}
+{253}{Eu vô embora.}{}{-4}{}{0}{lf10 1}
+{254}{Entendo. Vou embora, então.}{}{5}{}{0}{lf10 1}
+{255}{Tá bom, então, isso muda as coisas. A questão é a seguinte - tem esse sujeito, Larrs, que ficou um pouco atrasado nos pagamentos. Alguém, que seria você, precisa dar uma passada no velho Larrs e cobrar as 200 moedas que ele deve. Eu te dou, digamos, 25 moedas pelo trabalho.}{Tá bom, então, isso muda as coisas. A questão é a seguinte - tem esse sujeito, Larrs, que ficou um pouco atrasado nos pagamentos. Alguém, que seria você, precisa dar uma passada no velho Larrs e cobrar as 200 moedas que ele deve. Eu te dou, digamos, 25 moedas pelo trabalho.}{}{}{}{qu1084 1}
+{256}{E se ele não tiver?}{}{5}{}{30}{}
+{257}{E se ele num tiver?}{}{-4}{}{30}{}
+{260}{Já peguei seu dinheiro para você.}{}{5}{gf2171 1, $$200}{121}{}
+{261}{Eu já tenho seu dinheiro. Tá aqui.}{}{-4}{gf2171 1, $$200}{121}{}
+{262}{25 moedas? Esquece.}{}{5}{}{80}{}
+{263}{Isso não é o suficiente.}{}{-4}{}{80}{}
+

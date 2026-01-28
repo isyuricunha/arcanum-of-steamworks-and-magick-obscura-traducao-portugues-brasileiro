@@ -1,0 +1,506 @@
+// Background rules. Start at 0 and use 5 lines, and each block is spaced
+// apart on multiples of 10. First line is an index into the description
+// message file, the next line is an index into the effect message file,
+// and the third line is the list of race-gender combinations for which
+// the background is legal. If third line is left empty, all combinations
+// can use the background. Otherwise the three letter codes are:
+//
+//	HUF - human female
+//	HUM - human male
+//	DWF - dwarf female
+//	DWM - dwarf male
+//	ELF - elf female
+//	ELM - elf male
+//	HEF - half elf female
+//	HEM - half elf male
+//	GNF - gnome female
+//	GNM - gnome male
+//	HAF - halfling female
+//	HAM - halfling male
+//	HOF - half orc female
+//	HOM - half orc male
+//	HGF - half ogre female
+//	HGM - half ogre male
+//	NPC - any NPC can use this background, regardless of their race or gender
+//	ANY - anyone can use this background (same as blank line, included for clarity)
+//
+// The fourth line is how much money the background gives the character,
+// and the last line is a list of item prototype numbers separated by spaces. It
+// should be left blank unless items are supplied by the background.
+
+{0}{1000}
+{1}{86}
+{2}{}
+{3}{400}
+{4}{}
+
+{10}{1001}
+{11}{87}
+{12}{}
+{13}{400}
+{14}{}
+
+{20}{1002}
+{21}{88}
+{22}{400}
+{23}{}
+{24}{}
+
+{30}{1003}
+{31}{89}
+{32}{HUF HUM}
+{33}{400}
+{34}{8157}
+
+{40}{1004}
+{41}{90}
+{42}{}
+{43}{100}
+{44}{}
+
+{50}{1005}
+{51}{91}
+{52}{}
+{53}{400}
+{54}{6042}
+
+{60}{1006}
+{61}{92}
+{62}{}
+{63}{800}
+{64}{}
+
+{70}{1007}
+{71}{93}
+{72}{ELF ELM}
+{73}{400}
+{74}{}
+
+{80}{1008}
+{81}{94}
+{82}{DWF DWM}
+{83}{400}
+{84}{6076}
+
+{90}{1009}
+{91}{95}
+{92}{GNF GNM}
+{93}{400}
+{94}{}
+
+{100}{1010}
+{101}{96}
+{102}{HAF HAM}
+{103}{400}
+{104}{}
+
+{110}{1011}
+{111}{97}
+{112}{}
+{113}{400}
+{114}{}
+
+{120}{1012}
+{121}{98}
+{122}{}
+{123}{400}
+{124}{}
+
+{130}{1013}
+{131}{99}
+{132}{}
+{133}{400}
+{134}{}
+
+{140}{1014}
+{141}{100}
+{142}{HUF GNF}
+{143}{400}
+{144}{}
+
+{150}{1015}
+{151}{101}
+{152}{}
+{153}{400}
+{154}{}
+
+{160}{1016}
+{161}{102}
+{162}{}
+{163}{400}
+{164}{}
+
+{170}{1017}
+{171}{103}
+{172}{HOM HOF}
+{173}{50}
+{174}{}
+
+{180}{1018}
+{181}{104}
+{182}{HGM HGF}
+{183}{500}
+{184}{}
+
+{190}{1019}
+{191}{105}
+{192}{HUF HUM DWF DWM ELF ELM HEF HEM GNF GNM HAF HAM}
+{193}{400}
+{194}{}
+
+{200}{1020}
+{201}{106}
+{202}{HUF HUM DWF DWM ELF ELM HEF HEM GNF GNM HAF HAM}
+{203}{400}
+{204}{}
+
+{210}{1021}
+{211}{107}
+{212}{HGM HGF}
+{213}{400}
+{214}{}
+
+{220}{1022}
+{221}{108}
+{222}{HGM HGF}
+{223}{400}
+{224}{}
+
+{230}{1023}
+{231}{109}
+{232}{HOM HOF}
+{233}{400}
+{234}{}
+
+{240}{1024}
+{241}{110}
+{242}{HUF HUM GNF GNM HAF HAM HGM HGF}
+{243}{400}
+{244}{}
+
+{250}{1025}
+{251}{111}
+{252}{}
+{253}{400}
+{254}{}
+
+{260}{1026}
+{261}{112}
+{262}{HUF HUM DWF DWM ELF ELM GNF GNM HAF HAM HEF HEM HOF HOM}
+{263}{400}
+{264}{}
+
+{270}{1027}
+{271}{113}
+{272}{HOM HOF HGM HGF}
+{273}{400}
+{274}{}
+
+{280}{1028}//Sheleterd Childhood
+{281}{179}
+{282}{HUF HUM HEF HEM HOF HOM GNF GNM HAF HAM ELF ELM}
+{283}{400}
+{284}{}
+
+{290}{1029}//Troll Offspring
+{291}{180}
+{292}{}
+{293}{400}
+{294}{}
+
+{300}{1030}//Ranaway with the Circus
+{301}{181}
+{302}{}
+{303}{400}
+{304}{}
+
+{310}{1031}//Raised in the Pits
+{311}{182}
+{312}{}
+{313}{100}
+{314}{6066}
+
+{320}{1032}//Feral Child
+{321}{183}
+{322}{HUF HUM HEF HEM HOF HOM GNF GNM HGF HGM}
+{323}{200}
+{324}{}
+
+{330}{1033}//Sickly
+{331}{184}
+{332}{}
+{333}{400}
+{334}{}
+
+{340}{1034}//Beat with an Ugly Stick
+{341}{185}
+{342}{}
+{343}{400}
+{344}{}
+
+{350}{1035}//Lady's Man
+{351}{186}
+{352}{HUM DWM ELM HEM GNM HAM HOM HGM}
+{353}{400}
+{354}{}
+
+{360}{1036}//Debutante
+{361}{187}
+{362}{HUF DWF ELF HEF GNF HAF HOF HGF}
+{363}{400}
+{364}{}
+
+{370}{1037}//Raised by Orcs
+{371}{188}
+{372}{HUF HUM HOF HOM GNF GNM HAF HAM HGF HGM}
+{373}{400}
+{374}{}
+
+{380}{1038}//Charlatan's Protege
+{381}{189}
+{382}{HUF HUM DWF DWM ELF ELM HEF HEM GNF GNM HAF HAM}
+{383}{400}
+{384}{}
+
+
+// Pregenerated character Backgrounds
+
+{390}{1039}//Merwin Tumblebrook
+{391}{}
+{392}{NPC}
+{393}{400}
+{394}{15178}
+
+{400}{1040}//Godfrey Castleburger
+{401}{}
+{402}{NPC}
+{403}{400}
+{404}{}
+
+{410}{1041}//Horace McGinley
+{411}{}
+{412}{NPC}
+{413}{400}
+{414}{}
+
+{420}{1042}//Muck Evil Eye
+{421}{}
+{422}{NPC}
+{423}{400}
+{424}{}
+
+{430}{1043}//D'ren Le'lor
+{431}{}
+{432}{NPC}
+{433}{400}
+{434}{}
+
+{440}{1044}//Solomon Doone
+{441}{}
+{442}{NPC}
+{443}{400}
+{444}{}
+
+{450}{1045}//Merik Luggerton
+{451}{}
+{452}{NPC}
+{453}{400}
+{454}{}
+
+{460}{1046}//Lugard Bloodstone
+{461}{}
+{462}{NPC}
+{463}{400}
+{464}{}
+
+{470}{1047}//Victoria Warrington
+{471}{}
+{472}{NPC}
+{473}{400}
+{474}{}
+
+{480}{1048}//Bel'an T'Seraa
+{481}{}
+{482}{NPC}
+{483}{400}
+{484}{}
+
+{490}{1049}//Clarisse Vorak
+{491}{}
+{492}{NPC}
+{493}{400}
+{494}{}
+
+{500}{1050}//Ke'ree Melange
+{501}{}
+{502}{NPC}
+{503}{400}
+{504}{}
+
+{510}{1051}
+{511}{328}
+{512}{}
+{513}{400}
+{514}{}
+
+{520}{1052}
+{521}{329}
+{522}{HUF DWF ELF HEF GNF HAF HOF HGF}
+{523}{400}
+{524}{}
+
+{530}{1053}
+{531}{335}
+{532}{HUM}
+{533}{0}
+{534}{8117}
+
+{540}{1053}
+{541}{335}
+{542}{HUF}
+{543}{0}
+{544}{8142}
+
+{550}{1054}
+{551}{336}
+{552}{HUF HUM HEF HEM HOF HOM HGF HGM}
+{553}{0}
+{554}{}
+
+{560}{1055}
+{561}{337}
+{562}{HUF DWF ELF HEF GNF HAF HOF HGF}
+{563}{400}
+{564}{}
+
+{570}{1056}
+{571}{338}
+{572}{HUF HUM HEF HEM HOF HOM}
+{573}{100}
+{574}{8096}
+
+{580}{1056}
+{581}{338}
+{582}{DWF DWM GNF GNM HAF HAM}
+{583}{100}
+{584}{8104}
+
+{590}{1057}
+{591}{339}
+{592}{}
+{593}{400}
+{594}{}
+
+{600}{1058}
+{601}{340}
+{602}{ELF ELM}
+{603}{400}
+{604}{}
+
+{610}{1059}
+{611}{341}
+{612}{}
+{613}{400}
+{614}{}
+
+{620}{1060}
+{621}{342}
+{622}{HUF HUM ELF ELM HEF HEM GNF GNM HAF HAM HOF HOM HGF HGM}
+{623}{400}
+{624}{}
+
+{630}{1061}
+{631}{342}
+{632}{HUF HUM ELF ELM HEF HEM GNF GNM HAF HAM HOF HOM HGF HGM}
+{633}{400}
+{634}{}
+
+{640}{1062}
+{641}{342}
+{642}{HUF HUM ELF ELM HEF HEM GNF GNM HAF HAM HOF HOM HGF HGM}
+{643}{400}
+{644}{}
+
+{650}{1063}
+{651}{342}
+{652}{HUF HUM ELF ELM HEF HEM GNF GNM HAF HAM HOF HOM HGF HGM}
+{653}{400}
+{654}{}
+
+{660}{1064}
+{661}{342}
+{662}{HUF HUM DWF DWM GNF GNM HAF HAM}
+{663}{400}
+{664}{}
+
+{670}{1065}
+{671}{343}
+{672}{HUF HUM DWF DWM GNF GNM HAF HAM HOF HOM}
+{673}{400}
+{674}{}
+
+{680}{1066}
+{681}{344}
+{682}{HUF HUM HAF HAM}
+{683}{400}
+{684}{}
+
+{690}{1067}
+{691}{345}
+{692}{HUF HUM DWF DWM GNF GNM HAF HAM HOF HOM HGF HGM}
+{693}{400}
+{694}{}
+
+{700}{1068}
+{701}{346}
+{702}{HUF HUM GNF GNM HAF HAM HOF HOM}
+{703}{400}
+{704}{}
+
+{710}{1069}
+{711}{355}
+{712}{HUF HUM HOF HOM HEF HEM}
+{713}{0}
+{714}{6083 7039 7039 7039 7039 7039}
+
+{720}{1070}
+{721}{347}
+{722}{HUF HUM HEF HEM HAF HAM HOF HOM}
+{723}{400}
+{724}{}
+
+{730}{1071}
+{731}{348}
+{732}{}
+{733}{400}
+{734}{}
+
+{740}{1072}
+{741}{349}
+{742}{HUM HOM}
+{743}{0}
+{744}{}
+
+{750}{1073}
+{751}{350}
+{752}{HUF HOF}
+{753}{0}
+{754}{}
+
+{760}{1074}
+{761}{351}
+{762}{}
+{763}{400}
+{764}{}
+
+{770}{1075}
+{771}{352}
+{772}{}
+{773}{400}
+{774}{}
+
+{780}{1076}
+{781}{342}
+{782}{}
+{783}{400}
+{784}{}

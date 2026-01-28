@@ -1,0 +1,182 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{W:}{}{5}{lf1 0, re41}{20}{lf1 1}
+{3}{Devo ter ouvido mal...}{}{5}{re-40, ch10}{140}{re50}
+{4}{Por favor, desculpe minha presença, senhor. Não quero ofender.}{}{5}{re-40, ch-9}{150}{}
+{5}{Fale comigo assim de novo e você vai se arrepender seriamente.}{}{5}{re-40, sk2 8, lf1 0}{210}{lf1 1, re-5}
+{6}{W:}{}{-4}{lf1 0}{240}{lf1 1}
+{7}{Gostaria de conversar mais com você sobre sua... "oferta".}{}{5}{lf2 1}{130}{}
+{8}{Eu quer falar com você sobre as coisa que você disse.}{}{-4}{lf2 1}{290}{}
+{19}{E:}{}{1}{}{0}{}
+{20}{[Este sujeito bastante seboso agarra sua mão e praticamente baba nela enquanto a beija.] Senhora... é um prazer conhecê-la. Wendell Wellington, proprietário do famoso clube masculino Wellington, às suas ordens.}{[Este sujeito bastante seboso agarra sua mão e praticamente baba nela enquanto a beija.] Senhora... é um prazer conhecê-la. Wendell Wellington, proprietário do famoso clube masculino Wellington, às suas ordens.}{}{}{}{}
+{21}{Preciso conseguir admissão em seu clube, senhor.}{}{5}{gf2379 1}{30}{}
+{27}{Clube masculino? Devo presumir que mulheres não são bem-vindas?}{}{5}{gf2379 0}{30}{}
+{30}{Bem, mulheres geralmente não são permitidas em suas dependências, mas sempre há exceções, não é? [Ele pisca para você.] Tenho bastante confiança de que algo poderia ser arranjado...}{Bem, mulheres geralmente não são permitidas em suas dependências, mas sempre há exceções, não é? [Ele pisca para você.] Tenho bastante confiança de que algo poderia ser arranjado...}{}{}{}{}
+{31}{O que você tinha em mente?}{}{5}{re81}{40}{}
+{32}{O que você tinha em mente?}{}{5}{re-80, re61}{50}{}
+{33}{O que você tinha em mente?}{}{5}{re-59}{60}{}
+{40}{[Ele rapidamente pega sua mão e começa a acariciá-la, de forma sugestiva.] Eu poderia me deixar... "persuadir" a lhe dar um convite pessoal para o clube, se você... passasse um tempo comigo, para, hã, me mostrar sua gratidão...}{[Ele rapidamente pega sua mão e começa a acariciá-la, de forma sugestiva.] Eu poderia me deixar... "persuadir" a lhe dar um convite pessoal para o clube, se você... passasse um tempo comigo, para, hã, me mostrar sua gratidão...}{}{}{}{}
+{41}{Se for necessário... vamos acabar logo com isso.}{}{5}{}{-10}{}
+{42}{Claro, senhor, seria um prazer.}{}{5}{}{-10}{}
+{45}{E se eu permitir que você viva, em vez de arrancar sua garganta?}{}{5}{sk2 8}{80}{re-10}
+{46}{E se eu permitir que você viva, em vez de arrancar sua garganta?}{}{5}{sk2 -7}{90}{}
+{47}{Eu adoraria, mas tenho outros assuntos urgentes...}{}{5}{ps4}{330}{}
+{48}{Eu adoraria, mas tenho outros assuntos urgentes...}{}{5}{ps-3}{320}{}
+{49}{Vou ter que pensar sobre sua... "generosa" proposta. Tenha um bom dia.}{}{5}{}{0}{lf2 1}
+{50}{Uma mera ninharia, digamos 100 moedas, deveria garantir um convite que lhe daria entrada em meu clube... [ele pega sua mão e começa a acariciá-la, de forma sugestiva.]... e, claro, eu esperaria que você, hã, me mostrasse sua gratidão...}{Uma mera ninharia, digamos 100 moedas, deveria garantir um convite que lhe daria entrada em meu clube... [ele pega sua mão e começa a acariciá-la, de forma sugestiva.]... e, claro, eu esperaria que você, hã, me mostrasse sua gratidão...}{}{}{}{}
+{51}{Se for necessário... vamos acabar logo com isso.}{}{5}{$$100}{-10}{$$-100}
+{52}{Claro, senhor, seria um prazer.}{}{5}{$$100}{-10}{$$-100}
+{55}{No momento, não tenho 100 moedas.}{}{5}{$$-99}{0}{lf2 1, fl 120}
+{56}{E se eu permitir que você viva, em vez de arrancar sua garganta?}{}{5}{sk2 8}{80}{re-10}
+{57}{E se eu permitir que você viva, em vez de arrancar sua garganta?}{}{5}{sk2 -7}{100}{re-10}
+{58}{Vou ter que pensar sobre sua... "generosa" proposta. Tenha um bom dia.}{}{5}{}{0}{lf2 1}
+{59}{100 moedas E mostrar minha gratidão?! Nunca! Tenha um bom dia!}{}{5}{}{0}{lf2 1, re-5}
+{60}{Uma mera ninharia, digamos 200 moedas, deveria garantir um convite que lhe daria entrada em meu clube... [ele pega sua mão e começa a acariciá-la, de forma sugestiva.]... e, claro, eu esperaria que você, hã, me mostrasse sua gratidão...}{Uma mera ninharia, digamos 200 moedas, deveria garantir um convite que lhe daria entrada em meu clube... [ele pega sua mão e começa a acariciá-la, de forma sugestiva.]... e, claro, eu esperaria que você, hã, me mostrasse sua gratidão...}{}{}{}{}
+{61}{Se for necessário... vamos acabar logo com isso.}{}{5}{$$200}{-10}{$$-200}
+{62}{Claro, senhor, seria um prazer.}{}{5}{$$200}{-10}{$$-200}
+{65}{No momento, não tenho 200 moedas.}{}{5}{$$-199}{0}{lf2 1, fl 120}
+{66}{E se eu permitir que você viva, em vez de arrancar sua garganta?}{}{5}{sk2 8}{80}{re-10}
+{67}{E se eu permitir que você viva, em vez de arrancar sua garganta?}{}{5}{sk2 -7}{110}{}
+{68}{Vou ter que pensar melhor sobre sua... "generosa" proposta. Tenha um bom dia.}{}{5}{}{0}{lf2 1}
+{69}{200 moedas E demonstrar minha gratidão?! Nunca! Tenha um bom dia!}{}{5}{}{0}{lf2 1, re-5}
+{70}{Ahhh, sim... isso foi bastante... revigorante. [Ele olha para você, de forma nojenta.] Aqui está seu convite, que lhe dará entrada em meu clube. Por favor, sinta-se à vontade para me visitar a qualquer momento. [Ele pisca para você.]}{Ahhh, sim... isso foi bastante... revigorante. [Ele olha para você, de forma nojenta.] Aqui está seu convite, que lhe dará entrada em meu clube. Por favor, sinta-se à vontade para me visitar a qualquer momento. [Ele pisca para você.]}{}{}{}{in-5231}
+{71}{Hmm... tenha um bom dia, senhor.}{}{5}{}{0}{lf3 1}
+{72}{Agora que colocou suas mãos gordurosas em mim, você deve morrer.}{}{5}{}{0}{fl 368 ,co}
+{73}{Nunca, seu cão nojento! Tenha um bom dia, senhor!!}{}{5}{}{0}{re-15, lf3 1}
+{74}{Tá bom! Tchau!}{}{-4}{}{0}{lf3 1}
+{75}{Eu te derroto por diversão de qualquer jeito!}{}{-4}{}{0}{fl 368 ,co}
+{80}{Céus! Nunca ouvi tal conversa vinda de uma mulher! Você não pode estar falando sério, madame... [ele vê pelo olhar em seus olhos que você está mesmo falando sério]... heh... heh... eu estava apenas brincando, é claro. Por favor, aceite este convite com a minha bênção. [Ele lhe entrega o convite e então pega um lenço e enxuga a testa, que de repente ficou suada.]}{Céus! Nunca ouvi tal conversa vinda de uma mulher! Você não pode estar falando sério, madame... [ele vê pelo olhar em seus olhos que você está mesmo falando sério]... heh... heh... eu estava apenas brincando, é claro. Por favor, aceite este convite com a minha bênção. [Ele lhe entrega o convite e então pega um lenço e enxuga a testa, que de repente ficou suada.]}{}{}{}{in-5231}
+{81}{Foi um prazer fazer negócios. Tenha um bom dia, senhor.}{}{5}{}{0}{lf5 1}
+{82}{Mudei de ideia. Você não merece viver.}{}{5}{}{0}{fl 368 ,co}
+{83}{Iupi! Consegui o convite!}{}{-4}{}{0}{lf5 1}
+{84}{Eu te derroto por diversão de qualquer jeito!}{}{-4}{}{0}{fl 368 ,co}
+{90}{Heh, heh! Adoro uma mulher atrevida! Por favor, permita-me mostrar o quanto!}{Heh, heh! Adoro uma mulher atrevida! Por favor, permita-me mostrar o quanto!}{}{}{}{}
+{91}{Por favor, permita-me perfurar suas entranhas com minha espada!}{}{5}{}{0}{fl 368 ,co}
+{92}{Se for necessário... vamos acabar com isso logo.}{}{5}{}{-10}{}
+{100}{[Ele joga sua mão para baixo, com nojo.] Ora, nunca fui tão insultado em toda a minha vida, sua vadia! O preço acabou de subir para 200 moedas, além de atender às minhas necessidades!}{[Ele joga sua mão para baixo, com nojo.] Ora, nunca fui tão insultado em toda a minha vida, sua vadia! O preço acabou de subir para 200 moedas, além de atender às minhas necessidades!}{}{}{}{}
+{101}{Prefiro cuidar do seu funeral, seu porco!}{}{5}{}{0}{fl 368 ,co}
+{102}{Se for necessário... vamos acabar com isso logo.}{}{5}{$$200}{-10}{$$-200}
+{103}{Claro, senhor, será um prazer.}{}{5}{$$200}{-10}{$$-200}
+{106}{No momento, não tenho 200 moedas.}{}{5}{$$-199}{0}{lf2 1, fl 120}
+{109}{200 moedas E "serviços"?! Nunca! Tenha um bom dia!}{}{5}{}{0}{lf2 1, re-5}
+{110}{[Ele joga sua mão para baixo, com nojo.] Ora, nunca fui tão insultado em toda a minha vida, sua vadia! O preço acabou de subir para 300 moedas, além de atender às minhas necessidades!}{[Ele joga sua mão para baixo, com nojo.] Ora, nunca fui tão insultado em toda a minha vida, sua vadia! O preço acabou de subir para 300 moedas, além de atender às minhas necessidades!}{}{}{}{}
+{111}{Prefiro cuidar do seu funeral, seu porco!}{}{5}{}{0}{fl 368 ,co}
+{112}{Se for preciso... vamos acabar logo com isso, rapidamente.}{}{5}{$$300}{-10}{$$-300}
+{113}{Claro, senhor, seria um prazer.}{}{5}{$$300}{-10}{$$-300}
+{116}{No momento, não tenho 300 moedas.}{}{5}{$$-299}{0}{lf2 1, fl 120}
+{119}{300 moedas E "serviços" seus?! Nunca! Tenha um bom dia!}{}{5}{}{0}{lf2 1, re-5}
+{120}{Isso é lamentável. Você deve retornar quando tiver os fundos necessários para que possamos concluir nossa... "transação".}{Isso é lamentável. Você deve retornar quando tiver os fundos necessários para que possamos concluir nossa... "transação".}{}{}{}{}
+{130}{[Ele olha para você com lascívia.] Pois não?}{[Ele olha para você com lascívia.] Pois não?}{}{}{}{}
+{131}{Quais eram os termos que você havia me sugerido?}{}{5}{re81}{40}{}
+{132}{Quais eram os termos que você havia me sugerido?}{}{5}{re-80, re61}{50}{}
+{133}{Quais eram os termos que você havia me sugerido?}{}{5}{re-59, re41}{60}{}
+{134}{Quais eram os termos que você havia me sugerido?}{}{5}{re-40}{190}{}
+{139}{Mudei de ideia. Vou embora agora.}{}{5}{}{0}{}
+{140}{Ah, por favor, desculpe minha rudeza... não percebi que você era uma mulher de... classe [de alguma forma, ele faz "classe" soar como uma palavra nojenta].}{Ah, por favor, desculpe minha rudeza... não percebi que você era uma mulher de... classe [de alguma forma, ele faz "classe" soar como uma palavra nojenta].}{}{}{}{}
+{141}{Gostaria de conversar mais sobre sua... "oferta".}{}{5}{lf2 1}{130}{}
+{142}{W:}{}{5}{lf1 0}{20}{lf1 1}
+{149}{Preciso ir embora. Tenha um bom dia.}{}{5}{}{0}{}
+{150}{Bemmm... suponho que você não pode evitar ser nojento para alguém tão culto e respeitado quanto eu. O que posso fazer por você?}{Bemmm... suponho que você não pode evitar ser nojento para alguém tão culto e respeitado quanto eu. O que posso fazer por você?}{}{}{}{}
+{151}{Posso perguntar seu nome?}{}{5}{lf1 0}{160}{lf1 1}
+{152}{Gostaria de conversar mais sobre sua... "oferta".}{}{5}{lf2 1}{130}{}
+{153}{Você pode demonstrar a maneira adequada para uma pessoa culta morrer!}{}{5}{}{0}{fl 368 ,co}
+{159}{Preciso ir embora. Tenha um bom dia.}{}{5}{}{0}{}
+{160}{Wendell Wellington, proprietário do famoso clube Wellington para cavalheiros. [Esse sujeito seboso faz o que deve achar ser uma pose heroica.]}{Wendell Wellington, proprietário do famoso clube Wellington para cavalheiros.}{}{}{}{}
+{161}{Preciso conseguir admissão em seu clube, senhor.}{}{5}{gf2379 1}{170}{}
+{167}{Clube para cavalheiros? Devo presumir que mulheres não são bem-vindas?}{}{5}{gf2379 0}{380}{}
+{170}{Hah! Isso é altamente improvável! Mulheres não são permitidas, e ponto final!}{Hah! Isso é altamente improvável! Mulheres não são permitidas, e ponto final!}{}{}{}{}
+{171}{Sério? Quanto custaria para mudar sua opinião?}{}{5}{}{180}{}
+{180}{Vejo que você não é ignorante quanto aos costumes do mundo... [ele tenta parecer pensativo por um momento]. 500 moedas, para alguém como você. 500 lhe darão um convite que garantirá seu acesso ao meu clube. [Ele olha para você com lascívia.] E, claro, eu esperaria que você me demonstrasse sua, hã, "gratidão"...}{Vejo que você não é ignorante quanto aos costumes do mundo... [ele tenta parecer pensativo por um momento]. 500 moedas, para alguém como você. 500 lhe darão um convite que garantirá seu acesso ao meu clube. [Ele olha para você com lascívia.] E, claro, eu esperaria que você me demonstrasse sua, hã, "gratidão"...}{}{}{}{}
+{181}{"Mostrar minha gratidão"? Achei que eu o enojasse?}{}{5}{}{310}{}
+{182}{Se preciso... vamos acabar logo com isso, rápido.}{}{5}{$$500}{-10}{$$-500}
+{183}{Claro, senhor, seria um prazer.}{}{5}{$$500}{-10}{$$-500}
+{184}{No momento, não tenho 500 moedas.}{}{5}{$$-499}{0}{lf2 1, fl 120}
+{185}{E se eu permitir que viva, em vez de arrancar sua garganta?}{}{5}{sk2 8}{80}{re-10}
+{186}{E se eu permitir que viva, em vez de arrancar sua garganta?}{}{5}{sk2 -7}{200}{re-10}
+{187}{Vou ter que pensar melhor na sua... "generosa" proposta. Tenha um bom dia.}{}{5}{}{0}{lf2 1}
+{188}{500 moedas E mostrar minha gratidão?! Nunca! Tenha um bom dia!}{}{5}{}{0}{lf2 1, re-5}
+{190}{500 moedas, para alguém como você. 500 lhe darão um convite que lhe garantirá acesso ao meu clube. [Ele lança um olhar lascivo.] E, claro, eu esperaria que me mostrasse sua, hã, "gratidão"...}{500 moedas, para alguém como você. 500 lhe darão um convite que lhe garantirá acesso ao meu clube. [Ele lança um olhar lascivo.] E, claro, eu esperaria que me mostrasse sua, hã, "gratidão"...}{}{}{}{}
+{191}{Se preciso... vamos acabar logo com isso, rápido.}{}{5}{$$500}{-10}{$$-500}
+{192}{Claro, senhor, seria um prazer.}{}{5}{$$500}{-10}{$$-500}
+{193}{No momento, não tenho 500 moedas.}{}{5}{$$-499}{0}{lf2 1, fl 120}
+{194}{E se eu permitir que viva, em vez de arrancar sua garganta?}{}{5}{sk2 8}{80}{re-10}
+{195}{E se eu permitir que viva, em vez de arrancar sua garganta?}{}{5}{sk2 -7}{200}{re-10}
+{196}{Vou ter que pensar melhor na sua... "generosa" proposta. Tenha um bom dia.}{}{5}{}{0}{lf2 1}
+{197}{500 moedas E mostrar minha gratidão?! Nunca! Tenha um bom dia!}{}{5}{}{0}{lf2 1, re-5}
+{200}{Ora, nunca fui tão insultado em toda a minha vida, sua rameira! O preço acabou de subir para 600 moedas, além de atender às minhas necessidades!}{Ora, nunca fui tão insultado em toda a minha vida, sua rameira! O preço acabou de subir para 600 moedas, além de atender às minhas necessidades!}{}{}{}{}
+{201}{Prefiro cuidar do seu funeral, seu porco!}{}{5}{}{0}{co}
+{202}{Se preciso... vamos acabar logo com isso, rápido.}{}{5}{$$600}{-10}{$$-600}
+{203}{Claro, senhor, seria um prazer.}{}{5}{$$600}{-10}{$$-600}
+{206}{No momento, não tenho 600 moedas.}{}{5}{$$-599}{0}{lf2 1, fl 120}
+{209}{600 moedas E "servi-lo"?! Nunca! Tenha um bom dia!}{}{5}{}{0}{lf2 1, re-5}
+{210}{Céus! Nunca ouvi tal conversa de uma mulher! Não pode estar falando sério, madame... [ele vê pelo olhar em seus olhos que você está mesmo]... heh... heh... Eu estava apenas brincando, claro. M...meu nome é Wendell Wellington, Wendell Wellington, dono do famoso clube masculino Wellington. O que deseja de mim?}{Céus! Nunca ouvi tal conversa de uma mulher! Não pode estar falando sério, madame... [ele vê pelo olhar em seus olhos que você está mesmo]... heh... heh... Eu estava apenas brincando, claro. M...meu nome é Wendell Wellington, Wendell Wellington, dono do famoso clube masculino Wellington. O que deseja de mim?}{}{}{}{}
+{211}{Preciso entrar no seu clube... agora!}{}{5}{gf2379 1}{220}{}
+{217}{Clube masculino? Devo presumir que mulheres não são bem-vindas?}{}{5}{gf2379 0}{230}{}
+{220}{Aaak! Quero dizer, hã, sim, claro... por favor, aceite este convite com a minha bênção. [Ele lhe entrega o convite e, em seguida, pega um lenço para enxugar a testa suada.]}{Aaak! Quero dizer, hã, sim, claro... por favor, aceite este convite com a minha bênção. [Ele lhe entrega o convite e, em seguida, pega um lenço para enxugar a testa suada.]}{}{}{}{in-5231}
+{221}{Prazer em fazer negócios. Tenha um bom dia, senhor.}{}{5}{}{0}{lf5 1}
+{222}{Mudei de ideia. Você não merece viver.}{}{5}{}{0}{co}
+{230}{Hã... sob, hã, circunstâncias normais, mas, hã, parece uma noção tão antiquada, um clube "só para cavalheiros"! Que, démodé! Sim, bem, eu vou, hã, corrigir essa situação imediatamente! Por favor, aceite este convite com a minha bênção. [Ele lhe entrega o convite e, em seguida, pega um lenço e enxuga a testa, que de repente ficou suada.]}{Hã... sob, hã, circunstâncias normais, mas, hã, parece uma noção tão antiquada, um clube "só para cavalheiros"! Que, démodé! Sim, bem, eu vou, hã, corrigir essa situação imediatamente! Por favor, aceite este convite com a minha bênção. [Ele lhe entrega o convite e, em seguida, pega um lenço e enxuga a testa, que de repente ficou suada.]}{}{}{}{in-5231}
+{231}{Prazer em fazer negócios. Tenha um bom dia, senhor.}{}{5}{}{0}{lf5 1}
+{232}{Mudei de ideia. Você não merece viver.}{}{5}{}{0}{co}
+{240}{Eu sou Wendell Wellington, proprietário do famoso Clube dos Cavalheiros Wellington, e não tenho tempo para entreter idiotas. O que você quer de mim?}{Eu sou Wendell Wellington, proprietário do famoso Clube dos Cavalheiros Wellington, e não tenho tempo para entreter idiotas. O que você quer de mim?}{}{}{}{}
+{241}{Eu preciso entrar no seu clube...}{}{-4}{gf2379 1, re81}{250}{}
+{242}{Eu preciso entrar no seu clube...}{}{-4}{gf2379 1, re-80}{270}{}
+{248}{Gennulmuhm? Posso entrar?}{}{-4}{gf2379 0}{300}{}
+{249}{Eu não sou idiota! Eu mato você!}{}{-4}{}{0}{co}
+{250}{Bem, até mesmo idiotas têm seus... pontos positivos, não é? [Ele lhe examina com um olhar lascivo.] Tenho certeza de que poderia encontrar um convite por aqui para lhe dar acesso ao meu clube, se você estivesse disposto a me mostrar... sua gratidão.}{Bem, até mesmo idiotas têm seus... pontos positivos, não é? [Ele lhe examina com um olhar lascivo.] Tenho certeza de que poderia encontrar um convite por aqui para lhe dar acesso ao meu clube, se você estivesse disposto a me mostrar... sua gratidão.}{}{}{}{}
+{251}{Hã?}{}{-4}{}{260}{}
+{260}{VOCÊ SE DIVERTE COMIGO, EU TE DEIXO ENTRAR NO CLUBE!}{VOCÊ SE DIVERTE COMIGO, EU TE DEIXO ENTRAR NO CLUBE!}{}{}{}{}
+{261}{Certo!}{}{-4}{}{-10}{}
+{262}{Eu te dou uma surra! Isso é divertido!}{}{-4}{sk2 8}{80}{}
+{269}{Eu não quero! Vou embora!}{}{-4}{}{0}{lf2 1}
+{270}{Bem, até mesmo idiotas têm seus... pontos positivos, não é? [Ele lhe examina com um olhar lascivo.] Tenho certeza de que poderia encontrar um convite por aqui para lhe dar acesso ao meu clube por, digamos, 500 moedas... e, claro, você precisaria me mostrar sua... gratidão.}{Bem, até mesmo idiotas têm seus... pontos positivos, não é? [Ele lhe examina com um olhar lascivo.] Tenho certeza de que poderia encontrar um convite por aqui para lhe dar acesso ao meu clube por, digamos, 500 moedas... e, claro, você precisaria me mostrar sua... gratidão.}{}{}{}{}
+{271}{Hã?}{}{-4}{}{280}{}
+{280}{VOCÊ ME DÁ 500 MOEDAS E UM BOM TEMPO, EU TE DEIXO ENTRAR NO CLUBE!}{VOCÊ ME DÁ 500 MOEDAS E UM BOM TEMPO, EU TE DEIXO ENTRAR NO CLUBE!}{}{}{}{}
+{281}{Certo!}{}{-4}{$$500}{-10}{$$-500}
+{282}{Eu te dou uma surra! Isso é divertido!}{}{-4}{sk2 8}{80}{}
+{283}{Eu não tenho 500!}{}{-4}{$$-499}{0}{lf2 1, fl 120}
+{289}{Eu não quero! Vou embora!}{}{-4}{}{0}{lf2 1}
+{290}{[Ele olha para você com lascívia.] Sim?}{[Ele olha para você com lascívia.] Sim?}{}{}{}{}
+{291}{O que você diz que eu tenho que fazer para entrar no clube?}{}{-4}{re81}{260}{}
+{292}{O que você diz que eu tenho que fazer para entrar no clube?}{}{-4}{re-80}{280}{}
+{299}{E:}{}{1}{}{0}{}
+{300}{Não, idiota, você é uma MULHER, não um CAVALHEIRO! ENTENDEU?}{Não, idiota, você é uma MULHER, não um CAVALHEIRO! ENTENDEU?}{}{}{}{}
+{301}{Por favoooooor?}{}{-4}{re81}{250}{}
+{302}{Por favoooooor?}{}{-4}{re-80}{270}{}
+{303}{Ou eu entro ou te dou uma surra!}{}{-4}{sk2 8}{80}{}
+{310}{Pode até ser, mas sou um homem, e os homens têm suas necessidades...}{Pode até ser, mas sou um homem, e os homens têm suas necessidades...}{}{}{}{}
+{311}{Você me enoja, mas se for preciso... vamos acabar logo com isso, rápido.}{}{5}{$$500}{-10}{$$-500}
+{312}{Entendo. Será um prazer te ajudar.}{}{5}{$$500}{-10}{$$-500}
+{313}{No momento, não tenho 500 moedas.}{}{5}{$$-499}{0}{lf2 1, fl 120}
+{314}{E se eu permitir que você viva, em vez de arrancar sua garganta?}{}{5}{sk2 8}{80}{re-10}
+{315}{E se eu permitir que você viva, em vez de arrancar sua garganta?}{}{5}{sk2 -7}{200}{re-10}
+{316}{Vou ter que pensar na sua... "generosa" proposta. Tenha um bom dia.}{}{5}{}{0}{lf2 1}
+{317}{Você é um sapo nojento e repugnante! Tenha um bom dia!}{}{5}{}{0}{lf2 1, re-10}
+{320}{Bem, então não deixe de me procurar quando terminar...}{Bem, então não deixe de me procurar quando terminar...}{}{}{}{}
+{321}{Bem, acho que posso dispensar um momento ou dois.}{}{5}{}{-10}{}
+{322}{Eu decidi que você vai me dar um convite, ou morrer!}{}{5}{sk2 8}{80}{re-10}
+{329}{Tenha um bom dia, então.}{}{5}{}{0}{}
+{330}{[Ele parece bastante abatido com essa notícia.] Ah... mas você vai voltar? Quer dizer, adoraria mostrar meus desenhos, se é que você entende...}{[Ele parece bastante abatido com essa notícia.] Ah... mas você vai voltar? Quer dizer, adoraria mostrar meus desenhos, se é que você entende...}{}{}{}{}
+{331}{Claro... mas preciso do convite agora, se não se importa.}{}{5}{}{340}{}
+{332}{Se eu tiver tempo. Poderia me dar o convite agora, por favor?}{}{5}{}{350}{}
+{340}{Claro, claro! Por favor, volte logo! [Ele lhe entrega o convite e pisca para você.]}{Claro, claro! Por favor, volte logo! [Ele lhe entrega o convite e pisca para você.]}{}{}{}{in-5231}
+{349}{Tenha um bom dia, senhor.}{}{5}{}{0}{lf4 1}
+{350}{Não, acho que vou ficar com ele até você voltar. [Ele sorri um sorriso falso.]}{Não, acho que vou ficar com ele até você voltar. [Ele sorri um sorriso falso.]}{}{}{}{}
+{351}{Tudo bem, então vamos acabar logo com isso, rápido.}{}{5}{}{-10}{}
+{352}{Você vai me dar ou vai achar difícil sorrir sem rosto!}{}{5}{sk2 8}{80}{re-10}
+{359}{Voltarei mais tarde, então.}{}{5}{}{0}{}
+{360}{Ahh, minha querida... voltou para concluir nossa transação? Acho que me deve algo, não é?}{Ahh, minha querida... voltou para concluir nossa transação? Acho que me deve algo, não é?}{}{}{}{}
+{361}{Sim, cumpro minha palavra... por mais desagradável que seja.}{}{5}{}{-15}{}
+{362}{Eu jamais encostaria em você, seu sapo nojento!}{}{5}{}{0}{fl 368 ,co}
+{368}{Como ousa me ridicularizar! Você vai morrer por isso!}{Como ousa me ridicularizar! Você vai morrer por isso!}{}{}{}{}
+{369}{Ahhh, sim... isso foi bastante... revigorante. [Ele olha para você com lascívia, nojentamente.] Por favor, sinta-se à vontade para me visitar, a qualquer hora. [Ele pisca para você.]}{Ahhh, sim... isso foi bastante... revigorante. [Ele olha para você com lascívia, nojentamente.] Por favor, sinta-se à vontade para me visitar, a qualquer hora. [Ele pisca para você.]}{}{}{}{}
+{370}{Voltou para mais uma porção do deleite de Wellington, hmm?}{Voltou para mais uma porção do deleite de Wellington, hmm?}{}{}{}{}
+{371}{Claro, se você me fizer a gentileza.}{}{5}{}{-15}{}
+{372}{Voltei para matá-lo por me fazer encostar em você!}{}{5}{}{0}{fl 368 ,co}
+{373}{Certo!}{}{-4}{}{-15}{}
+{374}{Não, eu quero matar você! Eu não gosto de você!}{}{-4}{}{0}{fl 368 ,co}
+{378}{E:}{}{1}{}{0}{}
+{379}{Ah, não. Preciso ir embora.}{}{5}{}{0}{}
+{380}{Claro que não! O que meus clientes diriam? Sempre foi, e sempre será, um clube exclusivo para cavalheiros!}{Claro que não! O que meus clientes diriam? Sempre foi, e sempre será, um clube exclusivo para cavalheiros!}{}{}{}{}
+{381}{Sério? Quanto custaria para mudar sua opinião?}{}{5}{}{180}{}
+{389}{Por favor, me deixe em paz. Não quero confusão, madame.}{Por favor, me deixe em paz. Não quero confusão, madame.}{}{}{}{}
+

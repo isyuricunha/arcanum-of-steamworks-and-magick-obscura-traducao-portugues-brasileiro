@@ -1,0 +1,568 @@
+//
+// MainMenu
+//
+
+
+// Main SplashScreen msg
+{1}{Carregando Arcanum...}
+
+
+// Loading Save Game
+{5}{Carregando Jogo Salvo...}
+
+
+// Main Menu
+{10}{Um Jogador}
+{11}{Multijogador}
+{12}{Opções}
+{13}{Créditos}
+{14}{Sair do Jogo}
+// Main Menu -- Hotkeys
+{20}{S}
+{21}{M}
+{22}{O}
+{23}{C}
+{24}{E}
+
+
+// Main Menu In Play
+{30}{Salvar Jogo}
+{31}{Carregar Jogo}
+{32}{Opções}
+{33}{Sair do Jogo}
+{34}{Continuar}
+// Main Menu -- Hotkeys
+{40}{S}
+{41}{L}
+{42}{O}
+{43}{Q}
+{44}{C}
+
+// Single Player Menu
+{50}{Novo Jogo}
+{51}{Carregar Jogo}
+{52}{Último Salvamento}
+{53}{Assistir Introdução}
+{54}{Cancelar}
+// Single Player Menu -- Hotkeys
+{60}{N}
+{61}{L}
+{62}{S}
+{63}{V}
+{64}{C}
+
+// Main Menu In Play Locked
+{70}{Opções}
+{71}{Sair do Jogo}
+{72}{Continuar}
+// Main Menu -- Hotkeys
+{80}{O}
+{81}{Q}
+{82}{C}
+
+// New Game Menu
+// WIP! JLR! THIS IS WRONG!
+{100}{Escolher Personagem}
+{101}{Criar Personagem}
+{102}{Cancelar}
+// New Game Menu
+// WIP! JLR! THIS IS WRONG!
+{110}{P}
+{111}{C}
+{112}{X}
+
+
+// Multiplayer Main Menu
+{200}{Rede}
+{201}{Internet}
+{202}{Configurar}
+{203}{Cancelar}
+// Multiplayer Main Menu -- Hotkeys
+{210}{N}
+{211}{I}
+{212}{S}
+{213}{C}
+
+// Multiplayer Choose Server/Client
+{220}{Entrar no Jogo}
+{221}{Servidor}
+// Multiplayer Choose Server/Client -- Hotkeys
+{230}{J}
+{231}{S}
+
+// Multiplayer HUB
+{240}{Menu Principal}
+{241}{Encontrar Partida}
+{242}{Criar Partida}
+{243}{Bate-papo}
+{244}{Personagem}
+{245}{Notícias}
+{246}{Comunidade}
+// Multiplayer HUB -- Hotkeys
+{250}{M}
+{251}{F}
+{252}{H}
+{253}{C}
+{254}{S}
+{255}{N}
+{256}{O}
+
+// Multiplayer Select Char
+{260}{Aceitar}
+{261}{Novo Personagem}
+{270}{A}
+{271}{N}
+
+// WIP! JLR! REMOVE!
+// Multiplayer Join Start
+{280}{Entrar}
+{281}{Cancelar}
+// Multiplayer Join Start
+{290}{J}
+{291}{C}
+
+
+
+// Multiplayer Server options Start
+{400}{Principal}
+{401}{Encontrar Partida}
+{402}{Bate-papo}
+// Multiplayer Server options Start -- Hotkeys
+{410}{M}
+{411}{F}
+{412}{C}
+
+
+// Pick New or Pregen
+{420}{Escolher Personagem}
+{421}{Novo Personagem}
+{422}{Cancelar}
+// Pick New or Pregen -- Hotkeys
+{430}{P}
+{431}{N}
+{432}{X}
+
+// Multiplayer Chat
+{440}{Menu Principal}
+{441}{Encontrar Partida}
+{442}{Criar Partida}
+{450}{M}
+{451}{F}
+{452}{H}
+
+
+
+// Main Menu
+{460}{Um Jogador}
+{461}{Opções}
+{462}{Créditos}
+{463}{Sair do Jogo}
+// Main Menu -- Hotkeys
+{470}{S}
+{471}{O}
+{472}{C}
+{473}{E}
+
+
+
+
+// Base, starting player name
+{500}{Escolher Nome} // Player
+{505}{Você deve escolher um retrato.}
+{506}{Você deve escolher um nome.}
+
+
+
+// Pregenerated characters -- Global Script flag to set when picked (-1 means none)
+{550}{-1}
+{551}{2350}
+{552}{2351}
+{553}{2352}
+{554}{2353}
+{555}{2354}
+{556}{2355}
+{557}{2356}
+{558}{2357}
+{559}{2358}
+{560}{2359}
+{561}{2360}
+{562}{2361}
+
+
+// Used with pregenerated characters
+{610}{Criar Personagem}
+
+// Pregenerated character descriptions
+// NOTE: The character-combinations "\t" and "\n" are used for formatting the text.
+//  In standard format, "\t" means TAB and "\n" means carriage-return and line-feed.
+{650}{\tCrie seu próprio personagem.}
+
+
+
+// NO LONGER IN USE!
+// Race/Gender Combos -- Note: These lookup to values in Rules/MainMenu.mes
+{700}{Humano/Masculino}
+{701}{Humano/Feminino}
+{702}{Elfo/Masculino}
+{703}{Elfa/Feminino}
+{704}{Anão/Masculino}
+{705}{Gnomo/Masculino}
+{706}{Halfling/Masculino}
+{707}{Meio-Elfo/Masculino}
+{708}{Meio-Elfa/Feminino}
+{709}{Meio-Orc/Masculino}
+{710}{Meio-Orc/Feminino}
+{711}{Meio-Ogro/Masculino}
+
+// Basic Races
+{720}{Humano}
+{721}{Anão}
+{722}{Elfo}
+{723}{Meio-Elfo}
+{724}{Gnomo}
+{725}{Halfling}
+{726}{Meio-Orc}
+{727}{Meio-Ogro}
+
+{739}{Atributos Iniciais}
+
+{740}{Feminino}
+{741}{Masculino}
+{742}{Você é do gênero feminino de sua raça. Você suporta melhor a dor, o cansaço e as toxinas do que os homens e recebe +1 em constituição, mas é ligeiramente mais fraca e recebe -1 em força.}
+{743}{Você é do gênero masculino de sua raça. Você tende a ser mais forte que uma fêmea, embora com uma constituição menor.}
+
+{745}{Raça}
+
+
+// NO LONGER IN USE!  -- SEE BELOW!!!
+// Race/Gender Combo Descriptions
+{750}{Humanos não possuem modificadores especiais em seus atributos e habilidades. Humanos são, de longe, a raça mais populosa e distribuída, com inúmeras cidades e reinos espalhados pelo mundo. Eles interagem com as outras raças tanto quanto os gnomos e cruzam com tudo (daí meio-elfos, meio-ogros e meio-orcs). Não são inerentemente predispostos à magia ou à tecnologia, mas são os líderes na mais recente corrida tecnológica. Por terem vida mais curta que a maioria das outras raças e serem inventores engenhosos, provavelmente são atraídos pelo rápido retorno do investimento que a tecnologia promete.}
+{751}{Humanos não possuem modificadores especiais em seus atributos e habilidades. Humanos são, de longe, a raça mais populosa e distribuída, com inúmeras cidades e reinos espalhados pelo mundo. Eles interagem com as outras raças tanto quanto os gnomos e cruzam com tudo (daí meio-elfos, meio-ogros e meio-orcs). Não são inerentemente predispostos à magia ou à tecnologia, mas são os líderes na mais recente corrida tecnológica. Por terem vida mais curta que a maioria das outras raças e serem inventores engenhosos, provavelmente são atraídos pelo rápido retorno do investimento que a tecnologia promete.}
+{752}{O personagem ganha +1 em destreza e beleza. Ele sofre -2 em todas as habilidades de tecnologia e tem uma chance aumentada de itens tecnológicos falharem. Elfos são esguios e pálidos, possuindo uma beleza natural e exótica que é invejada pelas outras raças. Elfos são uma raça filosófica, os sonhadores e poetas de Arcanum. Preferem viver perto de florestas e rios, passando seu tempo em festas, cantando e conversando. Elfos podem ser bastante arrogantes com todas as outras raças, mas especialmente desprezam os anões.}
+{753}{O personagem ganha +1 em destreza e beleza. Ela sofre -2 em todas as habilidades de tecnologia e tem uma chance aumentada de itens tecnológicos falharem. Elfos são esguios e pálidos, possuindo uma beleza natural e exótica que é invejada pelas outras raças. Elfos são uma raça filosófica, os sonhadores e poetas de Arcanum. Preferem viver perto de florestas e rios, passando seu tempo em festas, cantando e conversando. Elfos podem ser bastante arrogantes com todas as outras raças, mas especialmente desprezam os anões.}
+{754}{O personagem ganha +2 em força e +1 em constituição, além de +2 em todas as habilidades de tecnologia. O personagem tem dificuldade em lançar feitiços, que custam o dobro para serem conjurados, e uma chance aumentada de itens mágicos falharem. Anões do sexo masculino são pessoas baixas, atarracadas e barbadas. Embora muito largos e robustos para sua altura, os anões tendem a ser musculosos e não gordos. São trabalhadores árduos, orgulhosos e focados quase ao ponto de não terem senso de humor, embora a maioria dos anões aprecie uma boa cerveja. Anões tendem a julgar rapidamente e se irritam com facilidade. Anões não gostam de elfos, mas respeitam humanos e gnomos.}
+{755}{O personagem ganha +2 de força de vontade, 2 níveis em Regateio e +10 em qualquer reação negativa, mas sofre -2 pontos de constituição. Os gnomos são baixos, com narizes muito grandes e, embora não sejam geralmente acima do peso, tendem a desenvolver barriga na meia-idade. Os gnomos costumam ser um povo trabalhador. Eles se sentem igualmente à vontade em cidades, no subterrâneo ou na floresta. Como se dão bem com a maioria das outras raças e por amarem riqueza, tendem a ser mercadores e comerciantes. Assim como os humanos, não possuem predisposição especial para magia ou tecnologia. Podem usar ambas, mas na maioria das vezes optam por evitar as duas.}
+{756}{O personagem ganha +2 de destreza, 2 níveis em Furtividade, 1 nível em Esquiva e +5% de chance de acerto crítico, mas sofre -3 pontos de força. Os halflings são pessoas baixas, menores até que gnomos e anões. Gostam de cozinhar e comer e tendem a ser acima do peso. Não usam sapatos, confiando em seus pés com solas grossas e cobertos de pelos. Isso também significa que os halflings podem ser muito silenciosos quando querem. Os halflings são um povo quieto e rústico, que geralmente não se envolve com magia ou tecnologia, embora nada os impeça de fazê-lo. São vistos como preguiçosos pelas outras raças, mas, apesar dessa reputação, costumam ser bem quistos.}
+{757}{O personagem ganha +1 de destreza, mas perde 1 ponto em todas as habilidades tecnológicas. Em constituição e aparência, eles se assemelham mais aos seus pais humanos, mas alguns meio-elfos possuem as orelhas pontudas e as feições pálidas e delicadas associadas aos seus pais élficos. A personalidade dos meio-elfos abrange toda a gama disponível para humanos e elfos, embora a maioria tenha uma inclinação natural em sua personalidade e goste de passar tempo ao ar livre. Meio-elfos não parecem arrogantes para as outras raças e são geralmente bem-vistos por todos.}
+{758}{O personagem ganha +1 de destreza, mas perde 1 ponto em todas as habilidades tecnológicas. Em constituição e aparência, eles se assemelham mais aos seus pais humanos, mas alguns meio-elfos possuem as orelhas pontudas e as feições pálidas e delicadas associadas aos seus pais élficos. A personalidade dos meio-elfos abrange toda a gama disponível para humanos e elfos, embora a maioria tenha uma inclinação natural em sua personalidade e goste de passar tempo ao ar livre. Meio-elfos não parecem arrogantes para as outras raças e são geralmente bem-vistos por todos.}
+{759}{O personagem ganha +1 de constituição, +1 de força e +10% de resistência a veneno, mas perde 2 pontos de beleza e 2 pontos de carisma.  Meio-orcs são a prole de pais orc e humano, geralmente um orc macho e uma humana relutante. Essa história faz dos meio-orcs um segmento desprezado da população humana. A maioria dos meio-orcs pode passar por humanos completos (embora feios), mas geralmente possuem algum traço que identifica seu sangue orc (nariz arrebitado, excesso de pelos, temperamento ruim) para o observador atento, e as pessoas geralmente os discriminam quando descobrem sua raça. Meio-orcs são temperamentais e violentos como seu pai orc. Alguns aprenderam a controlar seu temperamento, mas isso geralmente significa que, em vez de atacar imediatamente, eles planejarão vingança.}
+{760}{O personagem ganha +1 de constituição, +1 de força e +10% de resistência a veneno, mas perde 2 pontos de beleza e 2 pontos de carisma.  Meio-orcs são a prole de pais orc e humano, geralmente um orc macho e uma humana relutante. Essa história faz dos meio-orcs um segmento desprezado da população humana. A maioria dos meio-orcs pode passar por humanos completos (embora feios), mas geralmente possuem algum traço que identifica seu sangue orc (nariz arrebitado, excesso de pelos, temperamento ruim) para o observador atento, e as pessoas geralmente os discriminam quando descobrem sua raça. Meio-orcs são temperamentais e violentos como seu pai orc. Alguns aprenderam a controlar seu temperamento, mas isso geralmente significa que, em vez de atacar imediatamente, eles planejarão vingança.}
+{761}{O personagem ganha +4 de força e +10% de resistência a dano, mas perde 1 ponto de beleza, 4 pontos de inteligência e 2 níveis em Furtividade. Meio-ogros são indivíduos metade humanos, metade ogros, uma combinação aparentemente rara. Costumam ser grandes e pesados, não podendo usar a maioria das armaduras ou certos itens tecnológicos. Na aparência, se assemelham, mas não são tão violentos quanto, seus pais ogros. Demoram a se irritar e tendem a ser gentis com pessoas menores e, se atuarem como guarda-costas, defenderão seus protegidos até a morte. Devido ao seu tamanho avantajado, raramente enfrentam discriminação aberta nas cidades humanas.}
+
+
+// Human
+{770}{Humanos não possuem modificadores especiais em seus atributos e habilidades. Humanos são, de longe, a raça mais populosa e distribuída, com inúmeras cidades e reinos espalhados pelo mundo. Eles interagem com as outras raças tanto quanto os gnomos e cruzam com tudo (daí meio-elfos, meio-ogros e meio-orcs). Não são inerentemente predispostos à magia ou à tecnologia, mas são os líderes na mais recente corrida tecnológica. Por terem vida mais curta que a maioria das outras raças e serem inventores engenhosos, provavelmente são atraídos pelo rápido retorno do investimento que a tecnologia promete.}
+{771}{Humanos não possuem modificadores especiais em seus atributos e habilidades. Humanos são, de longe, a raça mais populosa e distribuída, com inúmeras cidades e reinos espalhados pelo mundo. Eles interagem com as outras raças tanto quanto os gnomos e cruzam com tudo (daí meio-elfos, meio-ogros e meio-orcs). Não são inerentemente predispostos à magia ou à tecnologia, mas são os líderes na mais recente corrida tecnológica. Por terem vida mais curta que a maioria das outras raças e serem inventores engenhosos, provavelmente são atraídos pelo rápido retorno do investimento que a tecnologia promete.}
+// Dwarves
+{772}{}
+{773}{O personagem ganha +1 de força, +1 de constituição, +15% em Aptidão Tecnológica e +2 pontos em todas as habilidades tecnológicas.  O personagem sofre -1 de carisma e destreza e tem dificuldade em lançar feitiços, descobrindo que eles custam o dobro para serem conjurados.  Anões machos são pessoas baixas, atarracadas e barbadas. Embora muito largos e robustos para sua altura, os anões tendem a ser musculosos e não gordos. São trabalhadores árduos, orgulhosos e focados quase ao ponto de não terem senso de humor, embora a maioria dos anões aprecie uma boa cerveja. Anões tendem a julgar rapidamente e a se irritar com facilidade. Anões não gostam de elfos, mas respeitam humanos e gnomos.}
+// Elves
+{774}{O personagem ganha +1 de destreza, vontade e beleza e +15% em Aptidão Mágica, mas sofre -2 de constituição, -1 de força e -2 pontos em todas as habilidades tecnológicas.  Elfos são esguios e pálidos, possuindo uma beleza natural e exótica que é invejada pelas outras raças.  Elfos são uma raça filosófica, os sonhadores e poetas de Arcanum. Preferem viver perto de florestas e rios, passando seu tempo festejando, cantando e conversando. Elfos podem ser bastante arrogantes com todas as outras raças, mas especialmente desprezam anões.}
+{775}{O personagem ganha +1 de destreza, vontade e beleza e +15% em Aptidão Mágica, mas sofre -2 de constituição, -1 de força e -2 pontos em todas as habilidades tecnológicas.  Elfos são esguios e pálidos, possuindo uma beleza natural e exótica que é invejada pelas outras raças.  Elfos são uma raça filosófica, os sonhadores e poetas de Arcanum. Preferem viver perto de florestas e rios, passando seu tempo festejando, cantando e conversando. Elfos podem ser bastante arrogantes com todas as outras raças, mas especialmente desprezam anões.}
+// Half-Elves
+{776}{O personagem ganha +1 de destreza e beleza e +5% em Aptidão Mágica, mas perde 1 ponto de constituição e 1 ponto em todas as habilidades tecnológicas. Em constituição e aparência, eles se assemelham mais aos seus pais humanos, mas alguns meio-elfos possuem as orelhas pontudas e as feições pálidas e delicadas associadas aos seus pais élficos. A personalidade dos meio-elfos abrange toda a gama disponível para humanos e elfos, embora a maioria tenha uma inclinação natural em sua personalidade e goste de passar tempo ao ar livre. Meio-elfos não parecem arrogantes para as outras raças e são geralmente bem-vistos por todos.}
+{777}{O personagem ganha +1 de destreza e beleza e +5% em Aptidão Mágica, mas perde 1 ponto de constituição e 1 ponto em todas as habilidades tecnológicas. Em constituição e aparência, eles se assemelham mais aos seus pais humanos, mas alguns meio-elfos possuem as orelhas pontudas e as feições pálidas e delicadas associadas aos seus pais élficos. A personalidade dos meio-elfos abrange toda a gama disponível para humanos e elfos, embora a maioria tenha uma inclinação natural em sua personalidade e goste de passar tempo ao ar livre. Meio-elfos não parecem arrogantes para as outras raças e são geralmente bem-vistos por todos.}
+// Gnomes
+{778}{}
+{779}{O personagem ganha +2 de força de vontade, 2 níveis em Regateio e +10 em qualquer reação negativa, mas sofre -2 pontos de constituição. Os gnomos são baixos, com narizes muito grandes e, embora não sejam geralmente acima do peso, tendem a desenvolver barriga na meia-idade. Os gnomos costumam ser um povo trabalhador. Eles se sentem igualmente à vontade em cidades, no subterrâneo ou na floresta. Como se dão bem com a maioria das outras raças e por amarem riqueza, tendem a ser mercadores e comerciantes. Assim como os humanos, não possuem predisposição especial para magia ou tecnologia. Podem usar ambas, mas na maioria das vezes optam por evitar as duas.}
+// Halflings
+{780}{}
+{781}{O personagem ganha +2 de destreza, 2 níveis em Furtividade, 1 nível em Esquiva e +5% de chance de acerto crítico, mas sofre -3 pontos de força. Os halflings são pessoas baixas, menores até que gnomos e anões. Gostam de cozinhar e comer e tendem a ser acima do peso. Não usam sapatos, confiando em seus pés com solas grossas e cobertos de pelos. Isso também significa que os halflings podem ser muito silenciosos quando querem. Os halflings são um povo quieto e rústico, que geralmente não se envolve com magia ou tecnologia, embora nada os impeça de fazê-lo. São vistos como preguiçosos pelas outras raças, mas, apesar dessa reputação, costumam ser bem quistos.}
+// Half-Orcs
+{782}{O personagem ganha +1 de constituição, +1 de força, 2 níveis em Luta Corporal e Esquiva, e +10% de resistência a veneno, mas perde 2 pontos de beleza e 2 pontos de carisma. Meio-orcs são a prole de pais orc e humano, geralmente um orc macho e uma humana não-consentida. Essa origem faz dos meio-orcs um segmento desprezado da população humana. A maioria dos meio-orcs pode passar por humanos completos (embora feios), mas normalmente possuem algum traço que revela seu sangue orc (nariz arrebitado, excesso de pelos, temperamento ruim) para um observador atento, e as pessoas geralmente os discriminam ao descobrir sua raça. Meio-orcs são temperamentais e violentos como seu progenitor orc. Alguns aprenderam a controlar seu temperamento, mas isso geralmente significa que, em vez de atacar imediatamente, planejarão vingança.}
+{783}{O personagem ganha +1 de constituição, +1 de força, 2 níveis em Luta Corporal e Esquiva, e +10% de resistência a veneno, mas perde 2 pontos de beleza e 2 pontos de carisma. Meio-orcs são a prole de pais orc e humano, geralmente um orc macho e uma humana não-consentida. Essa origem faz dos meio-orcs um segmento desprezado da população humana. A maioria dos meio-orcs pode passar por humanos completos (embora feios), mas normalmente possuem algum traço que revela seu sangue orc (nariz arrebitado, excesso de pelos, temperamento ruim) para um observador atento, e as pessoas geralmente os discriminam ao descobrir sua raça. Meio-orcs são temperamentais e violentos como seu progenitor orc. Alguns aprenderam a controlar seu temperamento, mas isso geralmente significa que, em vez de atacar imediatamente, planejarão vingança.}
+// Half-Ogres
+{784}{}
+{785}{O personagem ganha +4 de força e +10% de resistência a dano, mas perde 1 ponto de beleza, 4 pontos de inteligência e 2 níveis em Furtividade. Meio-ogros são indivíduos metade humanos, metade ogros, uma combinação aparentemente rara. Costumam ser grandes e pesados, não podendo usar a maioria das armaduras ou certos itens tecnológicos. Na aparência, se assemelham, mas não são tão violentos quanto, seus pais ogros. Demoram a se irritar e tendem a ser gentis com pessoas menores e, se atuarem como guarda-costas, defenderão seus protegidos até a morte. Devido ao seu tamanho avantajado, raramente enfrentam discriminação aberta nas cidades humanas.}
+
+
+
+
+// Background title
+{800}{Histórico}
+
+
+// 2000-2999 Multiplayer MainMenu
+{2000}{Nome de Usuário}
+{2001}{Senha}
+{2002}{Confirme a Senha}
+{2003}{Insira seu endereço de e-mail abaixo se desejar receber informações e atualizações sobre Arcanum e outros jogos (é necessário ter mais de 13 anos para enviar um endereço de e-mail).}
+{2004}{Conexão}
+{2005}{Nova Conta WON}
+{2006}{Nível}
+{2007}{As senhas não coincidem.}
+{2008}{Não foi possível criar a conta, ela já existe.}
+{2010}{Tudo certo}
+{2011}{Senha Inválida}
+{2012}{Conta Inexistente}
+{2020}{FR: %02d}
+{2021}{DS: %02d}
+{2022}{CN: %02d}
+{2023}{BL: %02d}
+{2024}{IN: %02d}
+{2025}{PE: %02d}
+{2026}{FV: %02d}
+{2027}{CA: %02d}
+{2028}{Nível: %d}
+{2029}{Tendência: %d}
+{2030}{Aptidão: %s %d}
+{2031}{Ataque Total: %d}
+{2032}{Defesa Total: %d}
+{2033}{Magia}
+{2034}{Tecnologia}
+{2035}{ }
+{2040}{Mensagem do Dia}
+{2050}{Tem certeza de que deseja excluir %s?}
+{2051}{ERRO! As informações do arquivo do personagem selecionado não estão disponíveis! Não é possível excluir.}
+{2052}{Não foi possível estabelecer conexão com os Servidores da Internet.}
+
+{2100}{Servidor recusou a entrada. Pode estar cheio.}
+{2110}{Principal}
+{2111}{Bate-papo}
+{2112}{Criar Partida}
+{2120}{M}
+{2121}{C}
+{2122}{H}
+
+// 2200-2299 - ServerList strings
+{2200}{Principal}
+{2201}{Bate-papo}
+{2202}{Criar Partida}
+{2205}{Clique para Entrar}
+{2206}{Módulo Ausente}
+{2207}{Digite a Senha Aqui}
+{2208}{Aguardando para Entrar}
+{2209}{Falha ao Entrar}
+
+{2210}{Nome}
+{2211}{Tipo}
+{2212}{Ping}
+{2213}{Jogadores}
+{2214}{Tempo Ativo}
+
+{2220}{Todos}
+{2221}{TDM}
+{2222}{Cooperativo}
+{2223}{Interpretação de Personagem}
+{2224}{Favoritos}
+
+{2230}{Módulo: %s}
+{2231}{Nível: %d-%d}
+{2232}{Matança de Jogadores: %s}
+{2233}{Dano por Fogo Amigo: %s}
+{2234}{Bate-papo Privado: %s}
+{2235}{Jogadores: %d(%d)}
+{2236}{Mais...}
+{2237}{Tipo: %s}
+{2238}{ATIVADO}
+{2239}{DESATIVADO}
+{2240}{Conectando ao servidor...}
+{2241}{Aguardando aceitação do servidor...}
+{2242}{Não foi possível conectar ao servidor.
+Abortando tentativa de conexão.}
+
+// this really should be 2210 but 2210 was already taken so, I'm
+// jumping around a little bit here
+{2250}{Senha inválida.}
+{2290}{A senha fornecida é inválida.}
+{2291}{Você foi banido deste servidor e não tem permissão para entrar.}
+{2292}{Sua versão de protocolo não corresponde à do servidor.}
+{2293}{Você não atende aos critérios necessários para entrar no jogo ou um jogador duplicado já existe.}
+
+// 2300 - 2399 : Start Server Strings
+{2300}{Nome do Jogo}
+{2301}{Módulo}
+{2302}{Tipo}
+{2303}{Número Máximo de Jogadores}
+{2304}{Mínimo de Jogadores}
+{2305}{Nível Mínimo}
+{2306}{Nível Máximo}
+{2307}{Senha}
+{2308}{Bate-papo Privado}
+{2309}{Máximo de PCs Armazenados}
+{2310}{Matança de Jogadores}
+{2311}{Dano por Fogo Amigo}
+{2312}{Entrar Automaticamente}
+{2313}{Equipar Automaticamente}
+{2314}{Compartilhamento de Tecla}
+{2320}{Todos Contra Todos}
+{2321}{Cooperativo}
+{2322}{Interpretação de Personagem}
+{2330}{Desligado}
+{2331}{Ligado}
+{2332}{Nenhum Mod Encontrado}
+{2333}{Clique para Iniciar Servidor}
+{2334}{Vizinhança}
+
+{2350}{Ligado}
+{2351}{Desligado}
+
+// 2400-2499 : Chat Strings
+{2400}{Criar Sala}
+{2401}{Nome da Sala}
+{2402}{Senha}
+
+// Options Buttons
+{4000}{Jogo}
+{4001}{Vídeo}
+{4002}{Som}
+{4003}{Concluído}
+// Options Buttons -- Hotkeys
+{4010}{G}
+{4011}{V}
+{4012}{S}
+{4013}{D}
+
+// Combat Options Buttons
+{4100}{Por Turnos}
+{4101}{Combate Automático}
+{4102}{Sempre Correr}
+{4103}{Mensagens Flutuantes}
+{4104}{Combate por Turnos Rápido}
+{4105}{Filtro de Violência}
+
+
+// Load/Save Game Messages
+{5000}{Jogo Carregado com Sucesso.}
+{5001}{Jogo Salvo Corrompido! Falha ao Carregar!}
+{5002}{Jogo Salvo com Sucesso.}
+{5003}{Jogo Salvo Corrompido! Falha ao Salvar!}
+
+{5004}{Versão Incompatível!}
+{5005}{Vazio}
+
+{5010}{Criar Novo Jogo Salvo}
+// Load/Save Info
+{5050}{Local desconhecido.}  // An area unknown
+{5051}{Nível %d}  // Player's Level
+{5055}{Novo}  // Create a New Save Game Slot
+{5056}{Salvamento Automático}  // Auto-Save Save Game Slot
+{5057}{Salvamento Rápido}  // Quick-Save Save Game Slot
+{5058}{Espaço}  // Auto-Save Save Game Slot
+
+{5060}{Salvando...}
+{5061}{Carregando...}
+{5062}{Jogo salvo com sucesso.}
+{5063}{Jogo carregado com sucesso.}
+{5064}{Tem certeza de que deseja sobrescrever o jogo salvo?}
+{5065}{Não é possível salvar durante o combate por turnos quando não é o seu turno.}
+
+// Quit Dialog Text
+{5100}{Tem certeza de que deseja sair?}
+
+// Delete Save game Text
+{5150}{Tem certeza de que deseja excluir o jogo salvo?}
+
+
+// Misc Messages
+{6000}{Aguarde}  // Used for waiting screen
+
+
+// Hover-Help Messages:
+{6999}{Ação:}
+// PickPregen
+{7000}{Ver Imagem}
+{7001}{Ver Descrição}
+{7002}{Tela Anterior}
+{7003}{Próxima Tela}
+
+{7010}{Plano de Fundo Anterior}
+{7011}{Próximo Plano de Fundo}
+{7012}{Imagens Normais}
+{7013}{Imagens Personalizadas}
+
+{7020}{Carregar Jogo}
+{7021}{Salvar Jogo}
+{7022}{Excluir Jogo Salvo}
+
+{7025}{Alternar Exibição de Informações}
+
+// 10000-11000
+// Chat Messages and Help
+{10000}{Arquivo de Ajuda do CHAT do Arcanum e WON.net}
+{10001}{COMANDOS DO CHAT:}
+{10002}{/AFK - Define você como Ausente (Away From Keyboard).}
+{10003}{/BAN <nome> <tempo> - Bane um cliente, o tempo pode ser qualquer número positivo}
+{10004}{                     seguido por D para dias, H para horas, M para minutos.}
+{10005}{/JOIN <nome ou número> - Entra no canal especificado pelo nome ou número.}
+{10006}{/HELP - Exibe esta mensagem.}
+{10007}{/I <nome> - Ignora ou deixa de ignorar um cliente.}
+{10008}{/ME <mensagem> - Envia uma emote.}
+{10009}{: <mensagem> - O mesmo que o comando /ME.}
+{10010}{/MOD - Altera o status de moderador.}
+{10011}{/MUTE <nome> <tempo> - Silencia um cliente. O tempo segue o mesmo formato do banimento.}
+{10012}{/UNMUTE <nome> - Remove o silêncio de um cliente.}
+{10013}{/W <nome> <mensagem> - Sussurro. Envia uma mensagem privada para um destinatário.}
+{10014}{/WHO - Lista todos os clientes atualmente no chat.}
+{10015}{Caso contrário, todo o texto é enviado para o canal atual em que você está.}
+
+{10050}{Não foi possível entrar na sala de chat %d.}
+{10051}{Não foi possível entrar na sala de chat %s.}
+{10052}{Sala de chat desconhecida %s.}
+{10053}{Comando desconhecido. Tente /HELP.}
+{10054}{%s entrou na sala.}
+{10055}{%s saiu.}
+{10056}{Conectado ao Servidor de Chat %s (%s)}
+{10057}{Não foi possível conectar ao Servidor de Chat %s (%s)}
+{10058}{Nenhum Servidor de Chat está disponível, por favor tente reconectar mais tarde.}
+{10059}{Nenhuma Sala de Chat está disponível, por favor tente reconectar mais tarde.}
+{10060}{Entrou na Sala de Chat %s (%d)}
+{10061}{Não foi possível entrar na sala de chat %s (%d)}
+{10062}{Não há ninguém nesta sala de chat? Estranho, e quanto a VOCÊ MESMO!}
+{10063}{Não foi possível obter a lista de pessoas na Sala de Chat.}
+{10064}{Não foi possível criar a sala de bate-papo.}
+
+// Local (non-WON) chat commands
+{10100}{ENTRAR}
+{10101}{AJUDA}
+{10102}{QUEM}
+{10103}{}
+
+// Chat flags as text
+{10200}{*Moderador*}
+{10201}{(Silenciado)}
+{10202}{} // naughty word filter off
+{10203}{(Ausente)}
+{10204}{} // no firewall
+{10205}{}
+{10206}{}
+{10207}{}
+{10208}{}
+{10209}{}
+{10210}{}
+{10211}{}
+{10212}{}
+{10213}{}
+{10214}{}
+{10215}{}
+{10216}{}
+{10217}{}
+{10218}{}
+{10219}{}
+{10220}{}
+{10221}{}
+{10222}{}
+{10223}{}
+{10224}{}
+{10225}{}
+{10226}{}
+{10227}{}
+{10228}{}
+{10229}{}
+{10230}{}
+{10231}{}
+
+//     10232 + (flag * 2)
+// and 10232 + (flag * 2) + 1
+// are the toggle on/off of the flags listed above
+
+{10232}{%s agora é moderador do canal.}
+{10233}{%s não é mais moderador do canal.}
+{10234}{%s foi silenciado.}
+{10235}{%s pode falar livremente, não está mais silenciado.}
+{10236}{}// dirty word filter on
+{10237}{}// dirty word filter off
+{10238}{%s está Ausente do Teclado.}
+{10239}{%s retornou.}
+{10240}{}// firewall on
+{10241}{}// firewall off

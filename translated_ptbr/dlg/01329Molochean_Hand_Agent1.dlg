@@ -1,0 +1,115 @@
+{1}{[O homem à sua frente é um gnomo relativamente jovem, vestido com um terno bem-feito.] Com licença... mas não pude deixar de notar que você é novo na cidade. Ouvi falar do IFS Zéfiro... você estava no dirigível quando ele caiu?}{Com licença... mas não pude deixar de notar que você é novo na cidade. Ouvi falar do IFS Zéfiro... você estava no dirigível quando ele caiu?}{}{}{}{}
+{2}{Sim, eu estava.}{}{5}{}{13}{re +5}
+{3}{Cuide da sua vida, senhor.}{}{5}{}{7}{re -5}
+{4}{Prefiro não falar sobre isso... estou bastante traumatizado com o ocorrido...}{}{5}{}{7}{}
+{5}{É... sim! Eu no dirigível!}{}{-4}{}{13}{re +5}
+{7}{Por favor, senhor! Preciso saber! Você estava naquele dirigível ou não? Tenho um motivo muito importante para querer saber! Suplico-lhe...!}{Por favor, senhora! Preciso saber! Você estava naquele dirigível ou não? Tenho um motivo muito importante para querer saber! Suplico-lhe...!}{}{}{}{}
+{8}{Se precisa saber... sim, eu estava no dirigível...}{}{5}{}{13}{}
+{9}{E eu já disse que prefiro não falar sobre isso. Tenha um bom dia...}{}{5}{}{}{lf2 1, gf2132 1, re -5, fl 116}
+{10}{É... sim! Eu no dirigível!}{}{-4}{}{13}{}
+{11}{NÃO! Eu não quero falar mais! Me deixe em paz!}{}{-4}{}{}{lf2 1, gf2132 1, re -5, fl 116}
+{13}{Oh! Graças aos céus! Então houve sobreviventes! Os outros também vieram para cá? Onde estão hospedados?}{Oh! Graças aos céus! Então houve sobreviventes! Os outros também vieram para cá? Onde estão hospedados?}{}{}{}{}
+{14}{Não houve outros sobreviventes. Fui o único.}{}{5}{}{17}{}
+{15}{É... eu só pessoa que viveu...}{}{-4}{}{17}{}
+{17}{Tem certeza? [O gnomo parece abatido.] Meu irmão mais velho... ele estava no dirigível. Um cavalheiro gnomo de certa idade. Por acaso o viu, senhor?}{Tem certeza? [O homem parece abatido.] Meu irmão... ele estava no dirigível. Um cavalheiro gnomo de certa idade. Por acaso o viu, senhora?}{}{}{}{}
+{18}{Eu vi um gnomo. <<<PH1>>> Sinto muito, mas ele morreu...}{}{5}{}{38}{}
+{19}{Eu conheci um gnomo. Qual o nome que você disse que era mesmo?}{}{5}{}{32}{}
+{20}{Prefiro esquecer todo o ocorrido, muito obrigado.}{}{5}{}{24}{}
+{21}{Eu vi gnomo! Ele morreu...}{}{-4}{}{38}{}
+{22}{É... estou cansado. Vou indo agora...}{}{-4}{}{24}{}
+{24}{Por favor, senhor! Estamos falando do meu irmão! Preciso saber...!}{Por favor, senhora! Estamos falando do meu irmão! Preciso saber...!}{}{}{}{}
+{25}{E eu já disse que prefiro não falar sobre isso. Tenha um bom dia...}{}{5}{}{}{lf2 1, gf2132 1, re -5, fl 116}
+{26}{Eu vi um gnomo. <<<PH1>>> Sinto muito, mas ele morreu...}{}{5}{}{38}{}
+{27}{Eu conheci um gnomo. Qual o nome que você disse que era mesmo?}{}{5}{}{32}{}
+{28}{NÃO! Eu não quero falar mais! Me deixe em paz!}{}{-4}{}{}{lf2 1, gf2132 1, re -5, fl 116}
+{29}{Eu vi gnomo! Ele morreu...}{}{-4}{}{38}{}
+{32}{Meu nome é Radcliffe... William Radcliffe. O nome do meu irmão era Preston... o senhor o conhecia? Talvez ele esteja no local do acidente agora mesmo, vivo...?}{Meu nome é Radcliffe... William Radcliffe. O nome do meu irmão era Preston... a senhora o conhecia? Talvez ele esteja no local do acidente agora mesmo, vivo...?}{}{}{}{}
+{33}{Não. Eu conversei com um gnomo, mas ele morreu. Sinto muito...}{}{5}{gf2130 0}{38}{}
+{34}{Eu falei com seu irmão. Ele morreu pouco depois. Sinto muito.}{}{5}{gf2130 1}{38}{}
+{38}{[Seu rosto empalidece.] Não... não Preston. [Ele fica em silêncio por um momento, olhando para o lado.] Entendo. Obrigado, senhor. O senhor foi muito prestativo...}{[Seu rosto empalidece.] Não... não Preston. [Ele fica em silêncio por um momento, olhando para o lado.] Entendo. Obrigado, senhora. A senhora foi muito prestativa...}{}{}{}{gf2312 1}
+{39}{Sinto muito pela sua perda. Tenha um bom dia...}{}{5}{}{0}{lf2 1, gf2132 1}
+{40}{Espere! Ele me disse para "encontrar o garoto" e dar este anel a ele...!}{}{5}{in 2804}{48}{}
+{41}{Desculpe, gnomo. Eu vou agora...}{}{-4}{}{0}{lf2 1, gf2132 1}
+{42}{Espere! Ele me deu o anel! Disse "dê ao garoto..." Talvez seja você?}{}{-4}{in 2804}{48}{}
+{48}{Entendo. [Ele olha com saudade para o anel.] Era dele... uma relíquia de família... [Ele parece à beira das lágrimas.] Mesmo na morte, ele pensava primeiro na família...}{Entendo. [Ele olha com saudade para o anel.] Era dele... uma relíquia de família... [Ele parece à beira das lágrimas.] Mesmo na morte, ele pensava primeiro na família...}{}{}{}{}
+{49}{Acho que ele queria que você ficasse com ele. [Dê o anel a ele.]}{}{5}{}{54}{in 2804, gf2311 1, lf3 1}
+{50}{Ele parecia muito perturbado... disse que tinha escapado de algum lugar...}{}{5}{lf1 0}{60}{lf1 1}
+{51}{Aqui... fique com o anel! Ele queria que o garoto o tivesse... [Dê a ele.]}{}{-4}{}{54}{in 2804, gf2311 1, lf3 1}
+{52}{Hã... ele disse que escapou de algum lugar...?}{}{-4}{lf1 0}{60}{lf1 1}
+{53}{}{}{}{}{}{}
+{54}{Agradeço ao senhor. Aqui... por favor, aceite este pequeno símbolo da minha gratidão. [Ele lhe dá 25 peças de ouro.] Não é muito, mas é tudo o que tenho. Diga-me, Preston lhe contou algo antes de morrer?}{Agradeço à senhora. Aqui... por favor, aceite este pequeno símbolo da minha gratidão. [Ele lhe dá 25 peças de ouro.] Não é muito, mas é tudo o que tenho. Diga-me, Preston lhe contou algo antes de morrer?}{}{}{}{$$25}
+{55}{Ele parecia muito perturbado... disse que tinha escapado de algum lugar...}{}{5}{lf1 0}{60}{lf1 1}
+{56}{Hã... na verdade, nada de importante...}{}{5}{}{111}{}
+{57}{Hã... ele disse que escapou de algum lugar...?}{}{-4}{lf1 0}{60}{lf1 1}
+{58}{Hã... não me lembro...}{}{-4}{}{111}{}
+{60}{Sério? [O homem parece surpreso... um pouco nervoso.] Sim, bem... Preston estava ficando velho... às vezes tinha um pouco de dificuldade para se lembrar exatamente de onde estava. Ele estava no exterior... [ele baixa a voz]... recebendo "tratamentos"...}{Sério? [O homem parece surpreso... um pouco nervoso.] Sim, bem... Preston estava ficando velho... às vezes tinha um pouco de dificuldade para se lembrar exatamente de onde estava. Ele estava no exterior... [ele baixa a voz]... recebendo "tratamentos"...}{}{}{}{}
+{61}{Ah. Bem, suponho que o anel seja seu... [Dê a ele.]}{}{5}{in 2804, lf3 0}{54}{in 2804, gf2311 1, lf3 1}
+{62}{Hmm. Se estiver portando identificação, eu lhe darei o anel...}{}{5}{lf3 0}{74}{}
+{63}{Acho melhor eu ir. Tenha um bom dia...}{}{5}{lf3 0}{68}{}
+{64}{Hã... aqui! Fique com o anel! [Dê a ele.]}{}{-4}{in 2804, lf3 0}{54}{in 2804, gf2311 1, lf3 1}
+{65}{Como eu sei que você é realmente irmão dele?}{}{-4}{lf3 0}{74}{}
+{66}{Eu vou indo...}{}{-4}{lf3 0}{68}{}
+{67}{E:}{}{1}{lf3 1}{111}{}
+{68}{Espere! Por favor...posso ficar com o anel? Parece que ele queria que eu o tivesse...sou o irmão caçula dele...ele, hã, costumava me chamar de "garoto" o tempo todo. [Sua voz falha. Então ele sussurra...] É tudo o que me resta para me lembrar dele...}{Espere! Por favor...posso ficar com o anel? Parece que ele queria que eu o tivesse...sou o irmão caçula dele...ele, hã, costumava me chamar de "garoto" o tempo todo. [Sua voz falha. Então ele sussurra...] É tudo o que me resta para me lembrar dele...}{}{}{}{}
+{69}{Hmm. Se estiver carregando algum documento de identificação, eu lhe dou o anel...}{}{5}{}{74}{}
+{70}{Sinto muito, mas vou ficar com ele. Agradeço e tenha um bom dia...}{}{5}{}{82}{}
+{71}{Como eu sei que você é mesmo irmão dele?}{}{-4}{}{74}{}
+{72}{Eu fico com anel. Eu vou agora...}{}{-4}{}{82}{}
+{74}{[Ele parece magoado com sua desconfiança.] Senhor! Este é um momento difícil para mim...não tenho meu passaporte, perdi-o no caminho para cá...[Ele parece irritado, frustrado.] Eu só agradeceria se me desse o anel, por favor...ele me pertence...}{[Ele parece magoado com sua desconfiança.] Senhora! Este é um momento difícil para mim...não tenho meu passaporte, perdi-o no caminho para cá...[Ele parece irritado, frustrado.] Eu só agradeceria se me desse o anel, por favor...ele me pertence...}{}{}{}{}
+{75}{Claro. Por favor, fique com ele...[Dê o anel a ele.]}{}{5}{in 2804}{54}{in 2804, gf2311 1, lf3 1}
+{76}{Talvez você pudesse apenas descrever o anel em detalhes...}{}{5}{}{86}{}
+{77}{Não. Vou ficar com ele e ponto final. Tenha um bom dia, senhor.}{}{5}{}{82}{}
+{78}{Tá bom...fique com o anel!}{}{-4}{in 2804}{54}{in 2804, gf2311 1, lf3 1}
+{79}{Hã...como é o anel?}{}{-4}{}{86}{}
+{80}{Sei lá...acho que vou ficar...}{}{-4}{}{82}{}
+{82}{Entendo. Bem, senhor, o senhor não é um cavalheiro. Desejo-lhe um bom dia. [Ele se vira para ir embora, então olha para trás.] Acredito que está cometendo um grande erro.}{Entendo. Bem, a senhora não é uma dama. Desejo-lhe um bom dia. [Ele se vira para ir embora, então olha para trás.] Acredito que está cometendo um grande erro.}{}{}{}{}
+{83}{Que assim seja. Tenha um bom dia...}{}{5}{}{0}{lf2 1, gf2132 1}
+{84}{E:}{}{-4}{}{0}{lf2 1, gf2132 1}
+{86}{[Seu rosto fica vermelho enquanto ele fica mais agitado.] Escute, eu viajei muito...faz anos que não vejo esse anel. [Ele cerra os dentes, exalando.] Olha, eu pago pelo anel...}{[Seu rosto fica vermelho enquanto ele fica mais agitado.] Escute, eu viajei muito...faz anos que não vejo esse anel. [Ele cerra os dentes, exalando.] Olha, eu pago pelo anel...}{}{}{}{}
+{87}{Não...apenas fique com o anel. [Dê o anel a ele.]}{}{5}{in 2804}{101}{in 2804, gf2311 1, lf3 1}
+{88}{De onde você está viajando? Chegou aqui terrivelmente rápido...}{}{5}{}{95}{}
+{89}{Quanto?}{}{5}{in 2804}{123}{}
+{90}{Estou cansado disso. Vou embora, agora.}{}{5}{}{82}{}
+{91}{Não...pode ficar com o anel. [Dê o anel a ele.]}{}{-4}{in 2804}{101}{in 2804, gf2311 1, lf3 1}
+{92}{É! Dinheiro! Dinheiro! Quanto?}{}{-4}{}{123}{}
+{93}{Isso é chato. Vou embora agora...}{}{-4}{}{82}{}
+{95}{[A boca do gnomo se abre, como se fosse dizer algo, então se fecha. Seus olhos se estreitam, e ele dá um passo à frente.] Recomendo que me dê o anel, amigo. Você é um estranho aqui, e pode ter certeza de que o guarda da cidade verá as coisas dessa forma...}{[A boca do gnomo se abre, como se fosse dizer algo, então se fecha. Seus olhos se estreitam, e ele dá um passo à frente.] Recomendo que me dê o anel, senhora. Você é uma estranha aqui, e pode ter certeza de que o guarda da cidade verá as coisas dessa forma...}{}{}{}{}
+{96}{Talvez devêssemos ir falar com ele...}{}{5}{}{106}{}
+{97}{Tudo bem. Apenas fique com o anel e resolva isso. [Dê o anel a ele.]}{}{5}{in 2804}{101}{}
+{98}{Talvez a gente deva ir falar com ele...}{}{-4}{}{106}{}
+{99}{Eu só te dou o anel pra você calar a boca... [Entregue a ele.]}{}{-4}{in 2804}{101}{}
+{101}{Obrigado. [Ele recupera a compostura quase imediatamente.] Suponho que vá ficar aqui em Colinas Sombrias? Tenho certeza de que vamos nos encontrar de novo...}{Obrigado. [Ele recupera a compostura quase imediatamente.] Suponho que vá ficar aqui em Colinas Sombrias? Tenho certeza de que vamos nos encontrar de novo...}{}{}{}{}
+{102}{Talvez. Tenha um bom dia...}{}{5}{}{0}{lf2 1, gf2132 1}
+{103}{Ah, talvez. Tchau.}{}{-4}{}{0}{lf2 1, gf2132 1}
+{106}{[Ele dá mais um passo em sua direção e então recua, parecendo pensar duas vezes.] Tudo bem, estranho. Faça do seu jeito. Você está cometendo um grande erro. Vou ficar com esse anel de um jeito ou de outro...}{[Ele dá mais um passo em sua direção e então recua, parecendo pensar duas vezes.] Tudo bem, estranho. Faça do seu jeito. Você está cometendo um grande erro. Vou ficar com esse anel de um jeito ou de outro...}{}{}{}{}
+{107}{Talvez. Passar bem.}{}{5}{}{0}{lf2 1, gf2132 1}
+{108}{E:}{}{-4}{}{0}{lf2 1, gf2132 1}
+{111}{[O gnomo olha para você por um momento, parecendo considerar suas palavras. Então sorri, tristemente.] Bem, obrigado, estranho. Desculpe, qual você disse que era seu nome...?}{[O gnomo olha para você por um momento, parecendo considerar suas palavras. Então sorri, tristemente.] Bem, obrigado, estranho. Desculpe, qual você disse que era seu nome...?}{}{}{}{}
+{112}{Eu não disse, gnomo.}{}{5}{}{}{lf2 1, gf2132 1, re -5, fl 116}
+{113}{Me desculpe... meu nome é @PCNAME@.}{}{5}{}{119}{re +5}
+{114}{Eu chamei @PCNAME@!}{}{-4}{}{119}{re +5}
+{116}{[Ele parece surpreso com sua resposta.] Hum! Não precisa ser rude, senhor. Suponho que vá ficar aqui em Colinas Sombrias. Tenho certeza de que nos veremos de novo...}{[Ele parece surpreso com sua resposta.] Hum! Não precisa ser rude, senhora. Suponho que vá ficar aqui em Colinas Sombrias. Tenho certeza de que nos veremos de novo...}{}{}{}{}
+{119}{Um prazer conhecê-lo, @PCNAME@. Vou ficar aqui na cidade... tenho certeza de que vamos nos encontrar de novo...}{Um prazer conhecê-la, @PCNAME@. Vou ficar aqui na cidade... tenho certeza de que vamos nos encontrar de novo...}{}{}{}{}
+{120}{E:}{}{5}{}{0}{lf2 1, gf2132 1}
+{121}{E:}{}{-4}{}{0}{lf2 1, gf2132 1}
+{123}{[O homem sorri.] Posso te pagar 50 peças de ouro por ele...}{[O homem sorri.] Posso te pagar 50 peças de ouro por ele...}{}{}{}{}
+{124}{Trato feito. [Entregue a ele.]}{}{5}{}{135}{in 2804, $$50, lf3 1}
+{125}{Te dou por 55. [Entregue a ele.]}{}{5}{ha 7}{135}{in 2804, $$55, lf3 1}
+{126}{Te dou por 60. [Entregue a ele.]}{}{5}{ha 6, ha -6}{135}{in 2804, $$60, lf3 1}
+{127}{Te dou por 65. [Entregue a ele.]}{}{5}{ha -5}{135}{in 2804, $$65, lf3 1}
+{128}{Esquece. Vou ficar com o anel.}{}{5}{}{95}{}
+{129}{Tá bom! [Entregue a ele.]}{}{-4}{}{135}{in 2804, $$50, lf3 1}
+{130}{Mais! 55 de ouro! [Entregue a ele.]}{}{-4}{ha 7}{135}{in 2804, $$55, lf3 1}
+{131}{Mais! 60 de ouro! [Entregue a ele.]}{}{-4}{ha 6, ha -6}{135}{in 2804, $$60, lf3 1}
+{132}{Mais! 65 de ouro! [Entregue a ele.]}{}{-4}{ha -5}{135}{in 2804, $$65, lf3 1}
+{133}{Vou ficar com o anel.}{}{-4}{}{95}{}
+{135}{Feito. Muito obrigado. Suponho que vá ficar aqui em Colinas Sombrias? Tenho certeza de que nos veremos de novo...}{Pronto. Muito obrigado. Imagino que vá ficar aqui em Colinas Veladas, não é? Tenho certeza de que nos veremos novamente...}{}{}{}{}
+{136}{E:}{}{5}{}{0}{lf2 1, gf2132 1}
+{137}{E:}{}{-4}{}{0}{lf2 1, gf2132 1}
+{138}{Não temos mais nada para conversar, senhor. Tenho arranjos a fazer. Tenha um bom dia...}{Não temos mais nada para conversar, senhora. Tenho arranjos a fazer. Tenha um bom dia...}{}{}{}{}
+{140}{Com licença, senhor, mas não pude deixar de ouvir quando contou ao bom guarda que foi o único sobrevivente do IFS Zéfiro. Isso é verdade?}{Com licença, senhora, mas não pude deixar de ouvir quando contou ao bom guarda que foi a única sobrevivente do IFS Zéfiro. Isso é verdade?}{}{}{}{}
+{141}{Sim, fui.}{}{5}{}{13}{re +5}
+{142}{Cuide da sua vida, senhor.}{}{5}{}{7}{re -5}
+{143}{Prefiro não falar sobre isso... Estou bastante traumatizado com o ocorrido...}{}{5}{}{7}{}
+{144}{É... sim! Eu no dirigível!}{}{-4}{}{13}{re +5}
+

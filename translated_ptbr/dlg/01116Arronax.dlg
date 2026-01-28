@@ -1,0 +1,487 @@
+{1}{[Diante de você está um elfo, pernas cruzadas, cabeça baixa. Um ar de cansaço o envolve. Ele nota sua presença e, lenta e deliberadamente, se levanta e se dirige a você.] Sim, o que é?}{[Diante de você está um elfo, pernas cruzadas, cabeça baixa. Um ar de cansaço o envolve. Ele nota sua presença e, lenta e deliberadamente, se levanta e se dirige a você.] Sim, o que é?}{}{1}{}{ss21 }
+{2}{Presumo que seja Arronax?}{}{5}{}{25}{ }
+{3}{Estou aqui para matá-lo.}{}{5}{qa1111 1}{370}{qu1111 4 }
+{4}{Você é um airodímaco?}{}{-4}{}{25}{ }
+{5}{Vou matá-lo agora.}{}{-4}{qa1111 1}{15}{qu1111 4 }
+{6}{Fui enviado aqui por K'an Hua para me juntar a você.}{}{5}{qa1029 1}{920}{qu1029 4 }
+{7}{Fui enviado para ajudá-lo! Pelo Koon Hoo Ha!}{}{-4}{qa1029 1}{920}{qu1029 4 }
+{14}{E:}{}{1}{}{0}{ }
+{15}{Fique à vontade para tentar. [Ele estende os braços, indicando a barreira mágica que o envolve.] Esta barreira é impenetrável a qualquer dano que possa me infligir.}{Fique à vontade para tentar. [Ele estende os braços, indicando a barreira mágica que o envolve.] Esta barreira é impenetrável a qualquer dano que possa me infligir.}{}{2}{}{lf2 1 }
+{16}{Veremos isso. Prepare-se para morrer.}{}{5}{}{0}{lf3 1 }
+{17}{Isso pode esperar. Só quero que saiba que estou aqui para detê-lo.}{}{5}{}{45}{ }
+{18}{Então não vou perder tempo com suas palhaçadas. Tenha um bom dia.}{}{5}{}{0}{ }
+{19}{Certo. Você morre agora.}{}{-4}{}{0}{lf3 1 }
+{20}{Hã. Você tá brincando. Eu digo pra você... eu te deterei!}{}{-4}{}{45}{ }
+{21}{E:}{}{-4}{}{0}{ }
+{25}{Sua suposição está correta. E com quem tenho o prazer de falar?}{Sua suposição está correta. E com quem tenho o prazer de falar?}{}{3}{}{ }
+{26}{Eu sou @pcname@.}{}{5}{qa1111 1, qu1029 0}{35}{qu1111 4 }
+{27}{Eu sou @pcname@.}{}{-4}{qa1111 1, qu1029 0}{35}{qu1111 4 }
+{28}{Eu sou @pcname@.}{}{5}{qa1029 1, qu1111 0}{35}{qu1029 4 }
+{29}{Eu sou @pcname@.}{}{-4}{qa1029 1, qu1111 0}{35}{qu1029 4 }
+{30}{Eu sou @pcname@.}{}{5}{qu1029 0, qu1111 0}{35}{ }
+{31}{Eu sou @pcname@.}{}{-4}{qu1029 0, qu1111 0}{35}{ }
+{32}{Eu sou @pcname@.}{}{5}{qa1111 1, qu1029 1}{35}{qu1111 4, qu1029 4 }
+{33}{Eu sou @pcname@.}{}{-4}{qa1111 1, qu1029 1}{35}{qu1111 4, qu1029 4 }
+{35}{Bem, @pcname@, o que o traz ao meu canto do esquecimento?}{Bem, @pcname@, o que o traz ao meu canto do esquecimento?}{}{4}{}{ }
+{36}{Chega de gentilezas, Arronax. Vim para detê-lo.}{}{5}{gf2066 0}{45}{ }
+{37}{Fui envolvido em eventos além do meu controle.}{}{5}{gf2066 0}{75}{ }
+{38}{Vim para matá-lo.}{}{5}{lf2 0, gf2066 0}{15}{ }
+{39}{Eu num sei o que tá acontecendo.}{}{-4}{gf2066 0}{790}{ }
+{40}{Eu mato você.}{}{-4}{gf2066 0}{15}{ }
+{41}{Falei com Kerghan. Disse a ele que o mataria.}{}{5}{gf2066 1}{410}{ }
+{42}{Korghinimus mandou eu te matar.}{}{-4}{gf2066 1}{410}{ }
+{43}{Fui enviado aqui por K'an Hua para me juntar a você.}{}{5}{qa1029 1}{920}{ }
+{44}{Mandei ajudar você! Pelo Koon Hoo Ha!}{}{-4}{qa1029 1}{920}{ }
+{45}{Interessante. E o que exatamente é que você vai me impedir de fazer? Tenho tantas coisas na minha agenda social hoje em dia que é difícil saber a qual você está se referindo, em particular.}{Interessante. E o que exatamente é que você vai me impedir de fazer? Tenho tantas coisas na minha agenda social hoje em dia que é difícil saber a qual você está se referindo, em particular.}{}{5}{}{ }
+{46}{Não permitirei que você escape do Vazio e retorne a Arcanum.}{}{5}{}{55}{ }
+{47}{Esqueci. Ãhn... Ah! Você não voltar para Arcanum!}{}{-4}{}{55}{ }
+{55}{Você não vai me permitir? Que engraçado! Você realmente não faz ideia do que está envolvido aqui, não é?}{Você não vai me permitir? Que engraçado! Você realmente não faz ideia do que está envolvido aqui, não é?}{}{6}{}{ }
+{56}{Para ser honesto, me envolvi em eventos além do meu controle.}{}{5}{}{75}{ }
+{57}{É meu destino pôr um fim à sua tirania maligna!}{}{5}{lf2 0}{65}{ }
+{58}{Hã. Não? Por que você tenta me matar?}{}{-4}{}{720}{ }
+{59}{Saia da cor bonita e eu mato você agora.}{}{-4}{}{125}{ }
+{60}{Não importa. Estou aqui para detê-lo, é tão simples quanto isso.}{}{5}{}{815}{ }
+{65}{[Sua risada estrondosa parece sacudir as próprias paredes.] Minha tirania? Isso é rico! Hilário! Não me divertia tanto há centenas de anos!}{[Sua risada estrondosa parece sacudir as próprias paredes.] Minha tirania? Isso é rico! Hilário! Não me divertia tanto há centenas de anos!}{}{7}{}{ }
+{66}{Você está me zombando. Mas isso não vai me impedir de matá-lo.}{}{5}{}{15}{ }
+{75}{É um sentimento com o qual tenho muita familiaridade. Às vezes sinto que meu destino foi decretado desde cedo.}{É um sentimento com o qual tenho muita familiaridade. Às vezes sinto que meu destino foi decretado desde cedo.}{}{8}{}{ }
+{76}{Você está aqui por causa de suas ações, não por algum cruel capricho do destino.}{}{5}{}{85}{ }
+{85}{Não me entenda mal, assumo total responsabilidade por minhas ações. [Ele faz uma pausa, dramaticamente.] Embora como as ações de alguém são determinadas, realmente? Como nossa visão de mundo é moldada? A minha foi moldada por, sem dúvida, o indivíduo mais poderoso do mundo, meu pai. Ele me criou com histórias da superioridade justa dos elfos e do destino que nos trouxe para governar todas as raças.}{Não me entenda mal, assumo total responsabilidade por minhas ações. [Ele faz uma pausa, dramaticamente.] Embora como as ações de alguém são determinadas, realmente? Como nossa visão de mundo é moldada? A minha foi moldada por, sem dúvida, o indivíduo mais poderoso do mundo, meu pai. Ele me criou com histórias da superioridade justa dos elfos e do destino que nos trouxe para governar todas as raças.}{}{9}{}{ }
+{86}{Não acho que fosse intenção de Nasrudin que você destruísse uma cidade inteira.}{}{5}{}{95}{ }
+{87}{Ah, a propósito, sobre seu pai. Eu o matei.}{}{5}{gf2061 1}{320}{ }
+{88}{Você está ciente de que seu pai morreu como resultado da sua batalha?}{}{5}{na-500}{375}{al -25 }
+{95}{O que ele esperava? Ele empurrou um jovem tolo, imaturo e inexperiente para uma posição de imenso poder e me soltou no mundo. Por que ele não me deteve... deveria ter me detido...}{O que ele esperava? Ele empurrou um jovem tolo, imaturo e inexperiente para uma posição de imenso poder e me soltou no mundo. Por que ele não me deteve... deveria ter me detido...}{}{10}{}{ }
+{96}{Espere, você está tentando me dizer que sente culpa pelo que fez?}{}{5}{}{105}{ }
+{105}{Com certeza. Passei dois mil anos revivendo meus erros graves de julgamento na minha mente. Com todo esse tempo, a gente acaba desenvolvendo um pouco de consciência.}{Com certeza. Passei dois mil anos revivendo meus erros graves de julgamento na minha mente. Com todo esse tempo, a gente acaba desenvolvendo um pouco de consciência.}{}{11}{}{ }
+{106}{Hmmm. Isso é interessante...}{}{5}{pa 6613, lf6 0}{-57}{lf6 1 }
+{107}{Hmmm. Isso é interessante...}{}{5}{lf5 0, pa 6613, lf6 0}{-57}{lf5 1, lf6 1 }
+{108}{Vai me desculpar se não acredito que você esteja tomado pela culpa.}{}{5}{pa -6613, lf6 0}{115}{lf6 1 }
+{109}{Onde estava essa sua nova consciência quando ameaçou minha vida?}{}{5}{lf5 0, pa -6613, lf6 0}{165}{lf5 1, lf6 1 }
+{110}{Vai me desculpar se não acredito que você esteja tomado pela culpa.}{}{5}{lf5 0, lf6 1}{115}{lf5 1 }
+{111}{Onde estava essa sua nova consciência quando ameaçou minha vida?}{}{5}{lf6 1}{165}{ }
+{112}{Uma visão interessante, criança. Esperemos que você seja tão clarividente quanto é franca. [Ele, virando-se para você.] Agora, meu amigo. Como eu dizia. Tive mais do que um pouco de tempo para ver o erro dos meus caminhos. Dois milênios em isolamento tendem a fazer alguém introspectivo, para dizer o mínimo...}{Uma visão interessante, criança. Esperemos que você seja tão clarividente quanto é franca. [Ele, virando-se para você.] Agora, meu amigo. Como eu dizia. Tive mais do que um pouco de tempo para ver o erro dos meus caminhos. Dois milênios em isolamento tendem a fazer alguém introspectivo, para dizer o mínimo...}{}{12}{}{ }
+{113}{Perdoe-me se não acredito necessariamente nessa mudança de coração...}{}{5}{}{115}{ }
+{114}{Isso é uma reviravolta e tanto desde o dia em que você me matou...}{}{5}{lf5 0}{165}{lf5 1 }
+{115}{O que você acredita ou deixa de acreditar não é da minha conta, meu amigo.}{O que você acredita ou deixa de acreditar não é da minha conta, meu amigo.}{}{13}{}{ }
+{116}{Saia do seu casulo e resolvamos isso agora mesmo, "amigo".}{}{5}{}{125}{ }
+{117}{Se está tão arrependido, por que está tentando voltar para se vingar?}{}{5}{}{175}{ }
+{125}{[Sua risada enche o grande salão.] Seu tolo! Acha que isso é minha proteção? Isso é minha prisão! Estou preso dentro deste invólucro há quase dois mil anos!}{[Sua risada enche o grande salão.] Seu tolo! Acha que isso é minha proteção? Isso é minha prisão! Estou preso dentro deste invólucro há quase dois mil anos!}{}{14}{}{lf7 1 }
+{126}{O quê? Isso é impossível! Deve ser algum tipo de truque.}{}{5}{}{823}{ }
+{127}{Você tá me enganando. Você tenta me enganar porque eu não sou inteligente.}{}{-4}{}{823}{ }
+{135}{Isso é obra de Kerghan. Quando cheguei aqui e percebi no que ele estava se transformando, tentei detê-lo. Nossa batalha foi intensa, porém breve. Como pode ver, eu não fui o vencedor.}{Isso é obra de Kerghan. Quando cheguei aqui e percebi no que ele estava se transformando, tentei detê-lo. Nossa batalha foi intensa, porém breve. Como pode ver, eu não fui o vencedor.}{}{15}{}{lf4 1, ru2119 }
+{136}{Por que ele não o matou?}{}{5}{}{145}{ }
+{137}{Kerghan? O necromante que você odiava e havia banido?}{}{5}{}{155}{ }
+{138}{Se foi ele quem o colocou aqui, é com ele que preciso falar. Tenha um bom dia.}{}{5}{}{0}{lf13 1 }
+{139}{Kerghan é mau?}{}{-4}{}{795}{ }
+{140}{Por que ele não te matou?}{}{-4}{}{145}{ }
+{141}{Como eu te tiro daí para te matar?}{}{-4}{}{475}{ }
+{145}{Ele não era poderoso o suficiente. Me prendeu com essa magia de ligação enquanto eu me regenerava. Parece que eu estava certo quanto aos efeitos de suas experiências, no entanto. Suas magias negras o transformaram horrivelmente, no corpo e no espírito.}{Ele não era poderoso o suficiente. Me prendeu com essa magia de ligação enquanto eu me regenerava. Parece que eu estava certo quanto aos efeitos de suas experiências, no entanto. Suas magias negras o transformaram horrivelmente, no corpo e no espírito.}{}{16}{}{ }
+{146}{E quanto a quando você apareceu para mim e ameaçou minha vida?}{}{5}{lf5 0, lf6 0}{185}{lf5 1 }
+{147}{Ouvi dizer que ele era um covarde - nem lutou quando foi banido.}{}{5}{gf2064 1}{195}{ }
+{148}{Hã... tá bom. Eu te tiro daí para te matar?}{}{-4}{}{475}{qu1057 1 }
+{149}{Kerghan é o vilão?}{}{-4}{}{795}{ }
+{150}{O que aconteceu quando você o baniu?}{}{5}{gf2064 0}{910}{ }
+{155}{Um e o mesmo. Parece que eu estava correto quanto aos efeitos de suas experimentações. Suas magias sombrias o transformaram horrivelmente, no corpo e no espírito.}{Um e o mesmo. Parece que eu estava correto quanto aos efeitos de suas experimentações. Suas magias sombrias o transformaram horrivelmente, no corpo e no espírito.}{}{17}{}{ }
+{156}{Eu ouvi dizer que ele era um covarde - nem sequer lutou quando foi banido.}{}{5}{gf2064 1}{195}{ }
+{157}{E quanto a quando você apareceu para mim e ameaçou minha vida?}{}{5}{lf5 0, lf6 0}{185}{ }
+{158}{Você acha que ele pode estar por trás de tudo isso? [Conte a ele sua história.]}{}{5}{}{215}{ }
+{159}{Você se arrepende de tê-lo banido?}{}{5}{}{400}{ }
+{165}{Eu não fiz nada disso. Estou aqui há eras. Você realmente acha que eu poderia alcançar através do Vazio para atormentá-lo?}{Eu não fiz nada disso. Estou aqui há eras. Você realmente acha que eu poderia alcançar através do Vazio para atormentá-lo?}{}{18}{}{ }
+{166}{Estou cansado de suas mentiras. Saia de sua concha e lute comigo.}{}{5}{}{125}{ }
+{175}{Não tenho nada planejado, a não ser viver o resto dos meus dias em paz.}{Não tenho nada planejado, a não ser viver o resto dos meus dias em paz.}{}{19}{}{lf6 1 }
+{176}{Então, se não é você fazendo tudo isso, quem é? [Conte a ele sua história.]}{}{5}{lf7 1, lf4 0}{215}{ }
+{177}{Estou cansado de suas mentiras. Saia de sua concha e lute comigo.}{}{5}{lf7 0}{125}{ }
+{178}{Então, se não é você fazendo tudo isso, quem é? [Conte a ele sua história.]}{}{5}{lf7 1, lf4 1}{215}{ }
+{185}{Não tenho absolutamente nenhum conhecimento do evento que você está descrevendo.}{Não tenho absolutamente nenhum conhecimento do evento que você está descrevendo.}{}{20}{}{ }
+{186}{Então, se não é você fazendo tudo isso, quem é? [Conte a ele sua história.]}{}{5}{}{215}{ }
+{195}{Eu não atribuiria a atitude dele à covardia. Ele estava resignado ao seu destino. Assim como eu, ele não mudaria seu curso ou comprometeria suas crenças, independentemente do resultado inevitável. Sua brilhantismo era tal que não acho que nenhum de nós entendia o que se passava em sua mente, na verdade.}{Eu não atribuiria a atitude dele à covardia. Ele estava resignado ao seu destino. Assim como eu, ele não mudaria seu curso ou comprometeria suas crenças, independentemente do resultado inevitável. Sua brilhantismo era tal que não acho que nenhum de nós entendia o que se passava em sua mente, na verdade.}{}{21}{}{ }
+{196}{Parece quase que você o admira.}{}{5}{}{205}{ }
+{205}{Fascínio seria um termo mais apropriado. Estou intrigado com o funcionamento de sua mente brilhante e distorcida. Não tenha dúvidas, porém, eu o destruiria sem hesitar se a oportunidade se apresentasse.}{Fascínio seria um termo mais apropriado. Estou intrigado com o funcionamento de sua mente brilhante e distorcida. Não tenha dúvidas, porém, eu o destruiria sem hesitar se a oportunidade se apresentasse.}{}{22}{}{ }
+{206}{Você acha que ele pode estar por trás de tudo isso? [Conte a ele sua história.]}{}{5}{}{215}{ }
+{207}{Você se arrepende de tê-lo banido?}{}{5}{}{400}{ }
+{215}{Como estou preso aqui, minhas oportunidades de obter informações são, digamos, um pouco limitadas. Nas raras ocasiões em que Kerghan se dignou a me visitar para jogar seus jogos intelectuais, ele deixou escapar algumas pistas veladas que podem fazer sentido à luz do que você me contou. Se eu tivesse que arriscar um palpite, diria que Kerghan está se passando por mim.}{Como estou preso aqui, minhas oportunidades de obter informações são, digamos, um pouco limitadas. Nas raras ocasiões em que Kerghan se dignou a me visitar para jogar seus jogos intelectuais, ele deixou escapar algumas pistas veladas que podem fazer sentido à luz do que você me contou. Se eu tivesse que arriscar um palpite, diria que Kerghan está se passando por mim.}{}{23}{}{gf2042 1, gf2060 1, ss22 }
+{216}{Com que propósito?}{}{5}{}{225}{ }
+{225}{Parece que esses elfos negros que você mencionou seguiram a filosofia equivocada da minha juventude. Eles estão se mostrando aliados poderosos em sua busca para retornar a Arcanum, ao que parece. Duvido que estivessem dispostos a ajudar Kerghan, o Terrível, a retornar para executar sua vingança.}{Parece que esses elfos negros que você mencionou seguiram a mesma filosofia equivocada da minha juventude. Eles estão se mostrando aliados poderosos na busca dele para retornar a Arcanum, ao que parece. Duvido que estariam dispostos a ajudar Kerghan, o Terrível, a voltar para executar sua vingança.}{}{24}{}{gf2042 1, ru2120, qu1111 4, gf2060 1, ss22 }
+{226}{Kerghan? O Kerghan que você baniu?}{}{5}{lf4 0}{235}{ }
+{227}{Então Kerghan é aquele que estou aqui para deter.}{}{5}{lf4 1, qu1029 0}{250}{ss22, qu1030 2 }
+{228}{Então Kerghan é aquele com quem estou aqui para me unir...}{}{5}{qa1029 1}{950}{ }
+{229}{Então esse tal de Korighoon com quem eu devia falar...}{}{-4}{qa1029 1}{950}{ }
+{235}{Sim. Quando cheguei aqui e percebi no que ele estava se transformando, tentei detê-lo. Nossa batalha foi intensa, porém breve. Como pode ver, eu não fui o vencedor.}{Sim. Quando cheguei aqui e percebi no que ele estava se transformando, tentei detê-lo. Nossa batalha foi intensa, porém breve. Como pode ver, eu não fui o vencedor.}{}{25}{}{lf4 1 }
+{236}{Por que ele não o matou?}{}{5}{}{240}{ }
+{240}{Ele não era poderoso o suficiente. Ele me prendeu com essa magia de ligação enquanto eu me regenerava. Parece que eu estava certo quanto aos efeitos de suas experiências, no entanto. Suas magias negras o transformaram horrivelmente, no corpo e no espírito.}{Ele não era poderoso o suficiente. Ele me prendeu com essa magia de ligação enquanto eu me regenerava. Parece que eu estava certo quanto aos efeitos de suas experiências, no entanto. Suas magias negras o transformaram horrivelmente, no corpo e no espírito.}{}{26}{}{ }
+{241}{Você se arrepende de tê-lo banido?}{}{5}{}{400}{lf12 1 }
+{242}{Então Kerghan é aquele que estou aqui para deter.}{}{5}{qu1029 0}{250}{ss22, qu1030 2 }
+{243}{Então Kerghan é aquele com quem estou aqui para me unir...}{}{5}{qa1029 1}{950}{ }
+{244}{Então esse tal de Korighoon com quem eu devia falar...}{}{-4}{qa1029 1}{950}{ }
+{250}{Parece ser o caso. Se você pudesse facilitar minha libertação desta prisão, seria um prazer ajudá-lo a destruir Kerghan.}{Parece ser o caso. Se você pudesse facilitar minha libertação desta prisão, seria um prazer ajudá-lo a destruir Kerghan.}{}{27}{}{qu1057 1 }
+{251}{Não tenho certeza se posso confiar em você.}{}{5}{}{260}{ }
+{252}{Claro que vou ajudá-lo. Como posso tirá-lo daí? [Verdade]}{}{5}{}{270}{gf2045 1, qu1057 2 }
+{253}{Claro que vou ajudá-lo. Como posso tirá-lo daí? [Mentira]}{}{5}{}{270}{gf2044 1 }
+{254}{Como? Kerghan o derrotou da última vez que lutaram.}{}{5}{}{300}{ }
+{260}{Sua hesitação é compreensível. Talvez você deva conseguir uma audiência com o próprio Kerghan. Acho que uma conversa com ele dissipará qualquer dúvida quanto à veracidade das minhas afirmações.}{Sua hesitação é compreensível. Talvez você deva conseguir uma audiência com o próprio Kerghan. Acho que uma conversa com ele dissipará qualquer dúvida quanto à veracidade das minhas afirmações.}{}{28}{}{ru2121 }
+{261}{Onde ele está? Como posso encontrá-lo?}{}{5}{}{385}{ }
+{262}{Acho que vou abrir mão desse prazer. Como posso libertá-lo?}{}{5}{}{270}{ }
+{270}{Receio não saber. Não acredito que Kerghan conseguiria manter isso à distância, então deve haver algo por perto...}{Receio não saber. Não acredito que Kerghan conseguiria manter isso à distância, então deve haver algo por perto...}{}{29}{}{ }
+{272}{Ainda há coisas que preciso de respostas.}{}{5}{}{290}{ }
+{273}{Então seguirei meu caminho.}{}{5}{}{0}{ }
+{290}{Quais são suas perguntas?}{Quais são suas perguntas?}{}{31}{}{ }
+{291}{Onde fica o Clã da Montanha Negra?}{}{5}{}{390}{ }
+{292}{O que você pode me contar sobre o Vazio?}{}{5}{}{680}{ }
+{294}{Vou perguntar a eles mais tarde. Tenha um bom dia.}{}{5}{}{0}{ }
+{300}{Não estou dizendo que será fácil derrotar Kerghan. Na verdade, a tentativa pode ser fatal. Ainda assim, acredito que vale o risco. Não podemos deixá-lo voltar a Arcanum, isso significaria o fim de toda a vida lá. Tenho alguns... conhecidos deste lado que podem se interessar em nos ajudar, caso você consiga me libertar.}{Não estou dizendo que será fácil derrotar Kerghan. Na verdade, a tentativa pode ser fatal. Ainda assim, acredito que vale o risco. Não podemos deixá-lo voltar a Arcanum, isso significaria o fim de toda a vida lá. Tenho alguns... conhecidos deste lado que podem se interessar em nos ajudar, caso você consiga me libertar.}{}{32}{}{ }
+{302}{Eu tenho o Dispositivo de Vendigroth.}{}{5}{in5616}{310}{ }
+{303}{Vou libertá-lo para que possa se juntar a mim. [Verdade]}{}{5}{}{270}{gf2045 1, qu1057 2 }
+{304}{Vou libertá-lo para que possa se juntar a mim. [Mentira]}{}{5}{}{270}{gf2044 1 }
+{309}{Não estou interessado em missões suicidas. Tenha um bom dia.}{}{5}{}{0}{ }
+{310}{Então nossa tarefa deve ser pelo menos uma fração mais fácil. Tudo o que precisamos fazer é feri-lo o suficiente para que ele tente se regenerar, e então você pode usar o Dispositivo nele. Claro, é mais fácil falar do que fazer.}{Então nossa tarefa deve ser pelo menos uma fração mais fácil. Tudo o que precisamos fazer é feri-lo o suficiente para que ele tente se regenerar, e então você pode usar o Dispositivo nele. Claro, é mais fácil falar do que fazer.}{}{33}{}{ }
+{311}{Vou libertá-lo para que possa se juntar a mim. [Verdade]}{}{5}{}{270}{gf2045 1, qu1057 2 }
+{312}{Vou libertá-lo para que possa se juntar a mim. [Mentira]}{}{5}{}{270}{gf2044 1 }
+{313}{Não estou interessado em missões suicidas. Tenha um bom dia.}{}{5}{}{0}{ }
+{320}{[Ele olha para você, chocado. Após um momento, sua expressão se suaviza.] Você quase me enganou por um minuto. O tempo passa diferente aqui, é fácil esquecer que mais de dois mil anos se passaram em Arcanum. Meu pai deve ter morrido pelo menos mil anos antes mesmo de você nascer.}{[Ele olha para você, chocado. Após um momento, sua expressão se suaviza.] Você quase me enganou por um minuto. O tempo passa diferente aqui, é fácil esquecer que mais de dois mil anos se passaram em Arcanum. Meu pai deve ter morrido pelo menos mil anos antes mesmo de você nascer.}{}{34}{}{ }
+{321}{Ele encontrou uma maneira de se regenerar por mil anos.}{}{5}{gf2063 1}{330}{ }
+{322}{Eu não sei como ele ainda estava vivo, mas eu corrigi isso.}{}{5}{gf2063 0}{330}{ }
+{323}{Por que você se importaria? Eu simplesmente terminei o que você começou.}{}{5}{}{360}{ }
+{330}{[O choque de suas palavras faz o sangue sumir de seu rosto.] Ele ainda estava vivo? E você o matou?! [Seus gritos são ensurdecedores.] Seu bastardo! Vou arrancar sua pele dos seus ossos e deixá-lo para os abutres! [Ele se joga violentamente contra as paredes de sua casca, e você percebe que ele está preso dentro dela.] Kerghan o enviou aqui para me torturar!}{[O choque de suas palavras faz o sangue sumir de seu rosto.] Ele ainda estava vivo? E você o matou?! [Seus gritos são ensurdecedores.] Seu bastardo! Vou arrancar sua pele dos seus ossos e deixá-lo para os abutres! [Ele se joga violentamente contra as paredes de sua casca, e você percebe que ele está preso dentro dela.] Kerghan o enviou aqui para me torturar!}{}{35}{}{ }
+{331}{Kerghan o prendeu aí?}{}{5}{}{340}{ }
+{340}{[Suas palavras saem apressadas, ofegantes. Ele se esgotou em suas tentativas de quebrar a casca para estrangular você.] Diga a Kerghan que ele está morto. Você está morto, @pcname@.}{[Suas palavras saem apressadas, ofegantes. Ele se esgotou em suas tentativas de quebrar a casca para estrangular você.] Diga a Kerghan que ele está morto. Você está morto, @pcname@.}{}{36}{}{gf2067 1 }
+{341}{Quando Kerghan o prendeu? Depois que você teve o BMC banido?}{}{5}{}{350}{ }
+{350}{[Ele vira as costas para você. É óbvio que não falará com você novamente.]}{[Ele vira as costas para você. É óbvio que não falará com você novamente.]}{}{37}{}{ }
+{351}{Acho que vou atrás de Kerghan, então.}{}{5}{}{0}{ }
+{360}{Você não sabe! Você não estava lá! Estávamos presos em uma luta ideológica maior do que qualquer um de nós! Eu estava tentando salvar o mundo dos males da tecnologia, e meu pai não conseguia enxergar além de seus ideais justos. [Ele baixa os olhos.] E nem eu...}{Você não sabe! Você não estava lá! Estávamos presos em uma luta ideológica maior do que qualquer um de nós! Eu estava tentando salvar o mundo dos males da tecnologia, e meu pai não conseguia enxergar além de seus ideais justos. [Ele baixa os olhos.] E nem eu...}{}{38}{}{ }
+{361}{Eu o matei, e vou matar você também. Saia dessa casca.}{}{5}{}{380}{ }
+{362}{Ele implorou por sua vida como uma criança assustada antes que eu o matasse.}{}{5}{}{330}{ }
+{370}{[Ele faz um gesto extravagante de indignação fingida.] O quê? Sem nem mesmo uma apresentação educada? O que aconteceu com a cortesia comum?}{[Ele faz um gesto extravagante de indignação fingida.] O quê? Sem nem mesmo uma apresentação educada? O que aconteceu com a cortesia comum?}{}{39}{}{ }
+{371}{Eu sou @pcname@, e estou aqui para matar você.}{}{5}{}{15}{ }
+{375}{Eu temia o pior. Enquanto era puxado para este reino, olhei para o rosto dele pela última vez. Seu olhar estava cheio de dor, e receio que a maior parte não fosse física. Nunca esquecerei aquele olhar enquanto viver.}{Eu temia o pior. Enquanto era puxado para este reino, olhei para o rosto dele pela última vez. Seu olhar estava cheio de dor, e receio que a maior parte não fosse física. Nunca esquecerei aquele olhar enquanto viver.}{}{40}{}{ }
+{376}{A decepção dele com você era compreensível, não acha?}{}{5}{}{95}{ }
+{377}{Não me diga que está sentindo culpa por suas ações?}{}{5}{}{105}{ }
+{378}{Eu estava brincando, na verdade. Eu mesmo o matei.}{}{5}{gf2061 1}{320}{ }
+{380}{[Sua risada enche o grande salão.] Seu tolo! Acha que isso é minha proteção? Isso é minha prisão! Estou preso dentro deste invólucro há quase dois mil anos! Se eu pudesse me libertar deste cativeiro, você já estaria morto.}{[Sua risada enche o grande salão.] Seu tolo! Acha que isso é minha proteção? Isso é minha prisão! Estou preso dentro deste invólucro há quase dois mil anos! Se eu pudesse me libertar deste cativeiro, você já estaria morto.}{}{41}{}{ }
+{381}{Eu esmagaria você como fiz com seu patético pai.}{}{5}{}{330}{ }
+{385}{Eu não sei. Há um portal na sala atrás de mim, talvez você possa usá-lo para viajar para outras partes do Vazio...}{Eu não sei. Há um portal na sala atrás de mim, talvez você possa usá-lo para viajar para outras partes do Vazio...}{}{42}{}{ }
+{386}{Ainda há coisas que preciso de respostas.}{}{5}{}{290}{lf10 1 }
+{387}{Vou falar com ele, então.}{}{5}{}{0}{lf10 1 }
+{390}{Eu não sei. Eu presumiria que o portão que estão construindo fica em algum lugar perto do castelo de Kerghan, no entanto.}{Eu não sei. Eu presumiria que o portão que estão construindo fica em algum lugar perto do castelo de Kerghan, no entanto.}{}{43}{}{ }
+{391}{O que você pode me contar sobre o Vazio?}{}{5}{}{680}{ }
+{393}{E:}{}{5}{}{0}{ }
+{400}{Arrependimento, não... embora não consiga evitar sentir que fui tão contra ele simplesmente porque era humano. Independentemente dos meus excessos infantis, porém, não há como negar a maldade básica de suas ações.}{Arrependimento, não... embora não consiga evitar sentir que fui tão contra ele simplesmente porque era humano. Independentemente dos meus excessos infantis, porém, não há como negar a maldade básica de suas ações.}{}{44}{}{ }
+{401}{Você acha que ele pode estar por trás de tudo isso? [Conte a ele sua história.]}{}{5}{lf12 0}{215}{ }
+{403}{Então Kerghan é quem estou aqui para deter.}{}{5}{lf12 1}{250}{ }
+{410}{Entendo. Essa é realmente sua intenção?}{Entendo. Essa é realmente sua intenção?}{}{45}{}{ }
+{411}{Não. Mudei de ideia.}{}{5}{qu1031 2}{450}{lf15 1 }
+{412}{Sim.}{}{5}{qu1031 2}{425}{ }
+{413}{Não era antes, mas agora que estou aqui, acho que vou matar você.}{}{5}{qu1031 1}{425}{ }
+{414}{Não.}{}{5}{qu1031 1}{450}{lf15 1 }
+{415}{Ah, não? Eu acorrentei minha mente.}{}{-4}{qu1031 2}{450}{lf15 1 }
+{416}{Sim.}{}{-4}{qu1031 2}{425}{ }
+{417}{Eu não ia, mas agora meio que estou com vontade.}{}{-4}{qu1031 1}{425}{ }
+{418}{Não.}{}{-4}{qu1031 1}{450}{lf15 1 }
+{425}{Bem, então. Liberte-me, e vamos prosseguir com a luta.}{Bem, então. Liberte-me, e vamos prosseguir com a luta.}{}{46}{}{ }
+{426}{A questão é que Kerghan não me disse como te libertar.}{}{5}{}{435}{ }
+{427}{Como é que eu te tiro dessa coisa?}{}{-4}{}{435}{ }
+{435}{Receio não saber. Não acredito que Kerghan consiga manter isso à distância, então deve haver algo por perto...}{Receio não saber. Não acredito que Kerghan consiga manter isso à distância, então deve haver algo por perto...}{}{47}{}{ru2122 }
+{436}{Você me diria como te libertar mesmo sabendo que vou te matar?}{}{5}{}{445}{ }
+{437}{Tá bom. Eu volto pra te matar.}{}{-4}{}{0}{gf2067 1 }
+{445}{[Ele encara diretamente seus olhos.] Quando você me libertar, você morrerá.}{[Ele encara diretamente seus olhos.] Quando você me libertar, você morrerá.}{}{48}{}{gf2067 1 }
+{446}{Veremos, veremos.}{}{5}{}{0}{ }
+{447}{Só se eu morrer rindo dos seus gritos de dor.}{}{5}{}{0}{ }
+{450}{O que é que você deseja de mim, então?}{O que é que você deseja de mim, então?}{}{49}{}{ss21 }
+{451}{Acho que Kerghan precisa ser detido.}{}{5}{lf18 0, lf19 0}{465}{ss22, qu1030 2 }
+{452}{O que aconteceu entre você e Kerghan quando chegou aqui?}{}{5}{}{493}{ }
+{453}{Por que você destruiu Vendigroth?}{}{5}{}{509}{ }
+{454}{Como posso te libertar?}{}{5}{gf2068 0}{475}{ }
+{455}{[Mais]}{}{5}{}{290}{ }
+{456}{Eu vou matar Korghanonsky.}{}{-4}{lf18 0, lf19 0, gf2068 1}{640}{ }
+{457}{O que aconteceu quando você lutou contra Korriginumin, hã?}{}{-4}{}{493}{ }
+{458}{Por que você esmagou Ventagrass?}{}{-4}{}{695}{ }
+{459}{Nada.}{}{-4}{}{0}{ }
+{465}{Não poderia concordar mais enfaticamente. Se você facilitar minha libertação desta prisão, eu me unirei a você para derrotá-lo.}{Não poderia concordar mais enfaticamente. Se você facilitar minha libertação desta prisão, eu me unirei a você para derrotá-lo.}{}{50}{}{qu1057 1, qu1111 4 }
+{466}{O que eu preciso fazer?}{}{5}{}{475}{ }
+{467}{Não tenho certeza se estou pronto para ir tão longe ainda.}{}{5}{}{0}{ }
+{475}{Receio não saber. Não acredito que Kerghan consiga manter isso à distância, então deve haver algo por perto...}{Receio não saber. Não acredito que Kerghan consiga manter isso à distância, então deve haver algo por perto...}{}{51}{}{ru2122 }
+{476}{Ainda tenho algumas outras perguntas.}{}{5}{}{450}{ }
+{477}{Vou procurar um jeito de te libertar, então.}{}{5}{}{0}{qu1057 2 }
+{478}{Tá bom. Eu mato todo mundo. Talvez isso ajude.}{}{-4}{}{0}{qu1057 2 }
+{493}{Quando cheguei aqui e percebi no que ele estava se transformando, tentei detê-lo. Nossa batalha foi intensa, porém breve. Como pode ver, eu não fui o vencedor.}{Quando cheguei aqui pela primeira vez e percebi no que ele estava se transformando, tentei detê-lo. Nossa batalha foi intensa, porém breve. Como pode ver, eu não fui o vencedor.}{}{53}{}{ }
+{494}{Você simplesmente o atacou de uma vez?}{}{5}{}{502}{ }
+{495}{Ainda tenho algumas outras perguntas.}{}{5}{}{450}{ }
+{496}{Do que cê tá falando?}{}{-4}{}{502}{ }
+{497}{K:}{}{-4}{}{626}{ }
+{501}{E:}{}{1}{}{0}{ }
+{502}{Eu estava um pouco cheio de mim naquela época. Todo o dano e morte que causei nem sequer arranharam a superfície da minha consciência na época. Cheio de raiva cega e arrogância, eu estava.}{Eu estava um pouco cheio de mim naquela época. Todo o dano e morte que causei nem sequer arranharam a superfície da minha consciência na época. Cheio de raiva cega e arrogância, eu estava.}{}{54}{}{ }
+{503}{Ainda tenho algumas outras perguntas.}{}{5}{}{450}{ }
+{504}{K:}{}{-4}{}{626}{ }
+{508}{E:}{}{1}{}{0}{ }
+{509}{[Uma escuridão recai sobre suas feições marcadas.] Essa é a grande vergonha da minha vida. Depois de convencer o conselho a banir Kerghan, senti que não podia errar. Quando Vendigroth ignorou meus avisos, achei que precisavam de uma demonstração do meu poder. Ao destruir uma de suas fábricas, matei várias pessoas inocentes.}{[Uma escuridão recai sobre suas feições marcadas.] Essa é a grande vergonha da minha vida. Depois de convencer o conselho a banir Kerghan, senti que não podia errar. Quando Vendigroth ignorou meus avisos, achei que precisavam de uma demonstração do meu poder. Ao destruir uma de suas fábricas, matei várias pessoas inocentes.}{}{55}{}{ }
+{510}{E então, o que aconteceu?}{}{5}{}{517}{ }
+{511}{K:}{}{5}{}{450}{ }
+{512}{E:}{}{5}{}{0}{ }
+{517}{Quando começaram a construir seu dispositivo para se protegerem dos meus ataques não provocados, reagi sem pensar e os destruí a todos. Meu medo do que a tecnologia poderia trazer era tão profundo que nunca pensei haver outra solução.}{Quando começaram a construir seu dispositivo para se protegerem dos meus ataques não provocados, reagi sem pensar e os destruí a todos. Meu medo do que a tecnologia poderia trazer era tão profundo que nunca pensei haver outra solução.}{}{56}{}{ }
+{518}{Eu tenho o dispositivo de Vendigroth.}{}{5}{in 5616}{527}{ }
+{519}{Parece que você se arrepende de suas ações.}{}{5}{}{535}{ }
+{520}{K:}{}{5}{}{450}{ }
+{526}{E:}{}{5}{}{0}{ }
+{527}{Pelos deuses! Isso pode ser exatamente o que precisamos para derrotar Kerghan! Você deve me libertar daqui para que ele possa ser detido!}{Pelos deuses! Isso pode ser exatamente o que precisamos para derrotar Kerghan! Você deve me libertar daqui para que ele possa ser detido!}{}{57}{}{qu1057 1 }
+{528}{Como posso efetuar sua libertação?}{}{5}{}{475}{ }
+{529}{Tenho algumas outras perguntas primeiro.}{}{5}{}{450}{ }
+{530}{Ainda não sei se posso confiar em você. Voltarei mais tarde.}{}{5}{}{0}{lf16 1 }
+{535}{Com certeza. Passei dois mil anos revivendo meus erros graves de julgamento na mente. Com todo esse tempo, a pessoa tende a desenvolver um pouco de consciência. Ainda penso no meu pai e no que fiz a ele. Embora ele deva carregar uma boa parte da culpa pelo que aconteceu, não acho que merecia seu destino.}{Com certeza. Passei dois mil anos revivendo meus erros graves de julgamento na mente. Com todo esse tempo, a pessoa tende a desenvolver um pouco de consciência. Ainda penso no meu pai e no que fiz a ele. Embora ele deva carregar uma boa parte da culpa pelo que aconteceu, não acho que merecia seu destino.}{}{58}{}{ }
+{536}{Como pode culpar seu pai pelo que aconteceu?}{}{5}{}{545}{ }
+{537}{K:}{}{1}{}{450}{ }
+{544}{E:}{}{1}{}{0}{ }
+{545}{Não me entenda mal, assumo total responsabilidade por minhas ações. [Ele faz uma pausa, dramaticamente.] Embora como as ações de alguém são realmente determinadas? Como nossa visão de mundo é moldada? A minha foi moldada por, sem dúvida, o indivíduo mais poderoso do mundo, meu pai. Ele me criou com histórias da superioridade justa dos elfos e do destino que nos trouxe para governar todas as raças.}{Não me entenda mal, assumo total responsabilidade por minhas ações. [Ele faz uma pausa, dramaticamente.] Embora como as ações de alguém são realmente determinadas? Como nossa visão de mundo é moldada? A minha foi moldada por, sem dúvida, o indivíduo mais poderoso do mundo, meu pai. Ele me criou com histórias da superioridade justa dos elfos e do destino que nos trouxe para governar todas as raças.}{}{59}{}{ }
+{546}{K:}{}{5}{}{450}{ }
+{547}{E:}{}{5}{}{0}{ }
+{555}{[Ele o observa com um ar de diversão desprendida.] Tem mais algo que deseja falar comigo?}{[Ele o observa com um ar de diversão desprendida.] Tem mais algo que deseja falar comigo?}{}{60}{}{ss21 }
+{556}{Ainda vou detê-lo, independentemente da invulnerabilidade desta carapaça.}{}{5}{lf3 1, lf17 0, qb1057 2, gf2066 0}{45}{ }
+{557}{Ainda estou trabalhando para tirá-lo daí.}{}{5}{qu1057 2, gf2066 0}{0}{fl 575}
+{558}{Ainda não falei com Kerghan.}{}{5}{gf2066 0, lf10 1, lf13 0}{576}{ }
+{559}{Estou aqui para detê-lo.}{}{5}{lf3 0, qu1057 0, gf2066 0}{45}{ }
+{560}{Tive uma... conversa interessante com Kerghan.}{}{5}{gf2066 1}{595}{ }
+{561}{Quem o aprisionou aí dentro?}{}{5}{lf11 1, lf4 0, gf2066 0}{135}{ }
+{562}{Ainda não falei com Kerghan.}{}{5}{lf13 1, qb1057 2, gf2066 0}{576}{ }
+{563}{K:}{}{1}{qa1057 1, qb1057 2}{450}{ }
+{564}{Decidi que talvez possa confiar em você.}{}{5}{lf16 1, qb1057 2, gf2066 0}{450}{ }
+{565}{Estou aqui para libertá-lo. O que preciso fazer?}{}{5}{qu1057 1}{270}{qu1057 2 }
+{566}{Não, eu não.}{}{5}{}{0}{ }
+{567}{Hã. Você tá de brincadeira. Eu te digo hã... eu te impeço!}{}{-4}{lf3 1, lf17 0, gf2066 0, qu1057 0}{45}{ }
+{568}{Eu... hã... te tiro daí? Em breve?}{}{-4}{qu1057 2, gf2066 0}{0}{fl 575}
+{569}{Eu quero que você fique livre. Eu ajudo! O que eu faço?}{}{-4}{qu1057 1}{475}{qu1057 2 }
+{570}{Eu falei com Korighanovich! Ele é um cara impressionante!}{}{-4}{gf2066 1}{595}{ }
+{571}{Eu vou te impedir!}{}{-4}{lf3 0, qu1057 0, gf2066 0}{45}{ }
+{572}{Você é um airodymax?}{}{-4}{lf3 0, qu1057 0, gf2066 0}{25}{ }
+{573}{Arronax, presumo?}{}{5}{lf3 0, qu1057 0, gf2066 0}{25}{ }
+{574}{Hã... não?}{}{-4}{}{0}{ }
+{575}{Tudo o que posso dizer é que estou ansioso pelo seu sucesso nessa empreitada. Será bom me livrar dessa casca amaldiçoada.}{Tudo o que posso dizer é que estou ansioso pelo seu sucesso nessa empreitada. Será bom me livrar dessa casca amaldiçoada.}{}{61}{}{ }
+{576}{Ah, mas você deve. É uma alegria imensurável testemunhar sua insanidade brilhante em primeira mão.}{Ah, mas você deve. É uma alegria imensurável testemunhar sua insanidade brilhante em primeira mão.}{}{62}{}{ }
+{577}{Por que Kerghan não o matou?}{}{5}{lf13 1, lf10 0}{145}{ }
+{578}{Kerghan não é o Necromante que você odiava e havia banido?}{}{5}{lf13 1, lf10 0}{155}{ }
+{579}{Decidi que não é uma experiência que desejo ter.}{}{5}{lf10 1}{585}{ }
+{580}{Tudo bem, então. Tenha um bom dia.}{}{5}{}{0}{ }
+{585}{Você decidiu me ajudar a escapar, então?}{Você decidiu me ajudar a escapar, então?}{}{63}{}{ }
+{586}{Sim. O que é que preciso fazer?}{}{5}{}{270}{ }
+{587}{Ainda não. Tenho algumas perguntas para você, no entanto.}{}{5}{}{450}{ }
+{588}{Ainda estou ponderando minhas opções. Tenha um bom dia.}{}{5}{}{0}{ }
+{595}{"Interessante" é pouco. Eu diria que provavelmente é a conversa mais bizarra que você já teve.}{"Interessante" é pouco. Eu diria que provavelmente é a conversa mais bizarra que você já teve.}{}{64}{}{ }
+{596}{Eu disse a ele que o mataria.}{}{5}{}{410}{ }
+{597}{Eu digo que vou te matar!}{}{-4}{}{410}{ }
+{600}{Muito obrigado por me libertar deste encarceramento terrivelmente longo, senhor.}{Muito obrigado por me libertar deste encarceramento terrivelmente longo, senhora.}{}{65}{}{ss21 }
+{601}{Libertar você? Do que está falando? Estou aqui para matá-lo.}{}{5}{gf2066 0, qu1029 0}{710}{ }
+{602}{Falei com aquele lunático, Kerghan. Disse a ele que o mataria.}{}{5}{gf2066 1}{610}{ }
+{603}{Do que cê tá falando? Eu vou te matar.}{}{-4}{gf2066 0, qu1029 0}{710}{ }
+{604}{Eu disse pro Korgy que ia te matar. Tá bom?}{}{-4}{gf2066 1}{610}{ }
+{605}{Estou aqui para me juntar a você... do que está falando com "libertar"?}{}{5}{qa1029 1, gf2066 0}{980}{ }
+{606}{Eu me junto a você agora? Num sei do que cê tá falando.}{}{-4}{qa1029 1, gf2066 0}{980}{ }
+{610}{Entendo. Essa é realmente sua intenção?}{Entendo. Essa é realmente sua intenção?}{}{66}{}{ }
+{611}{Não. Mudei de ideia.}{}{5}{qu1031 2}{626}{lf15 1 }
+{612}{Sim.}{}{5}{qu1031 2}{0}{fl 625 ,co}
+{613}{Não era antes, mas agora que estou aqui, acho que vou matá-lo.}{}{5}{qu1031 1}{0}{fl 625 ,co}
+{614}{Não.}{}{5}{qu1031 1}{626}{lf15 1 }
+{615}{Ah, não? Eu prendi minha mente.}{}{-4}{qu1031 2}{626}{lf15 1 }
+{616}{Sim.}{}{-4}{qu1031 2}{0}{fl 625 ,co}
+{617}{Eu não ia, mas agora tô com vontade.}{}{-4}{qu1031 1}{0}{fl 625 ,co}
+{618}{Não.}{}{-4}{qu1031 1}{626}{lf15 1 }
+{625}{Vamos começar a luta, então. Espero que esteja preparado para morrer.}{Vamos começar a luta, então. Espero que esteja preparado para morrer.}{}{67}{}{ }
+{626}{O que deseja de mim, então?}{O que deseja de mim, então?}{}{68}{}{ }
+{627}{Acho que Kerghan precisa ser detido.}{}{5}{lf18 0, lf19 0, gf2068 1, pa-6436}{640}{ss22, qu1030 2 }
+{628}{O que aconteceu entre você e Kerghan quando chegou aqui?}{}{5}{}{493}{ }
+{629}{Por que destruiu Vendigroth?}{}{5}{}{695}{ }
+{630}{Onde está o Clã da Montanha Negra?}{}{5}{}{700}{ }
+{631}{Eu vou matar Korghanonsky.}{}{-4}{lf18 0, lf19 0, gf2068 1, pa-6436}{640}{ss22, qu1030 2 }
+{632}{O que aconteceu quando você lutou com Korriginumin, hã?}{}{-4}{}{493}{ }
+{633}{Por que você esmagou Ventagrass?}{}{-4}{}{695}{ }
+{639}{F:}{}{1}{}{0}{ }
+{640}{Não poderia concordar mais. Vamos nos unir para remover sua vilania de ambos os mundos.}{Não poderia concordar mais. Vamos nos unir para remover sua vilania de ambos os mundos.}{}{69}{}{ }
+{641}{Sempre posso usar mais ajuda.}{}{5}{}{-22}{ }
+{642}{Acho que não. Vou fazer isso sozinho, não preciso da sua ajuda.}{}{5}{}{0}{fl 670}
+{643}{Tá bom.}{}{-4}{}{-22}{ }
+{644}{Não. Eu luto com o bandido sozinho.}{}{-4}{}{0}{fl 670}
+{650}{Vamos despachar Kerghan para aquela morte que ele acha tão irresistível, que tal?}{Vamos despachar Kerghan para aquela morte que ele acha tão irresistível, que tal?}{}{70}{}{lf18 1 }
+{651}{Como encontramos Kerghan?}{}{5}{gf2066 0}{835}{ }
+{652}{Como encontramos Koghimnas?}{}{-4}{gf2066 0}{835}{ }
+{653}{K:}{}{1}{gf2066 1}{626}{ }
+{654}{Y:}{}{1}{gf2066 1}{0}{ }
+{655}{Faremos bem em recrutar ajuda. Conheço algumas criaturas neste reino que talvez possamos convencer a nos seguir. Talvez você já tenha ouvido falar delas - o Flagelo de Kree, Gorgoth e Kraka-Tur?}{Faremos bem em recrutar ajuda. Conheço algumas criaturas neste reino que talvez possamos convencer a nos seguir. Talvez você já tenha ouvido falar delas - o Flagelo de Kree, Gorgoth e Kraka-Tur?}{}{71}{}{ru2124 }
+{656}{Você acha que elas se juntariam a nós?}{}{5}{}{660}{ }
+{657}{Como as encontramos?}{}{5}{}{665}{ }
+{658}{Tá bom. Como nós encontra elas?}{}{-4}{}{665}{ }
+{660}{Só podemos esperar. Teremos que convencê-las de que Kerghan também é uma ameaça para elas.}{Só podemos esperar. Teremos que convencê-las de que Kerghan também é uma ameaça para elas.}{}{72}{}{ }
+{661}{Como as encontramos?}{}{5}{}{665}{ }
+{665}{Não sei. Precisaremos encontrar uma maneira de navegar entre as diferentes massas de terra do Vazio usando os portais ancestrais.}{Não sei. Precisaremos encontrar uma maneira de navegar entre as diferentes massas de terra do Vazio usando os portais ancestrais.}{}{73}{}{ru2125 }
+{666}{Vamos lá.}{}{5}{}{0}{ }
+{667}{Posso lhe fazer algumas perguntas?}{}{5}{}{626}{ }
+{668}{Oke lee doke ely.}{}{-4}{}{0}{ }
+{669}{K:}{}{-4}{}{626}{ }
+{670}{Boa sorte para você, então. Vai precisar.}{Boa sorte para você, então. Vai precisar.}{}{74}{}{lf19 1 }
+{671}{Ah, você voltou. Reconsiderou minha oferta de se juntar a mim para derrotar Kerghan?}{Ah, você voltou. Reconsiderou minha oferta de se juntar a mim para derrotar Kerghan?}{}{75}{}{ }
+{672}{Sim, eu tenho.}{}{5}{}{-22}{ }
+{674}{Não, mas tenho algumas perguntas.}{}{5}{}{626}{ }
+{675}{Sim.}{}{-4}{}{-22}{ }
+{677}{Não... hã... eu tenho uma pergunta. Ahh... duas perguntas? Não, uma! Três?}{}{-4}{}{626}{ }
+{680}{Não sei muito, mas o que sei é que costumava existir algum tipo de civilização aqui, e o mundo não era dividido em massas de terra distintas. Não sei se alguma guerra antiga destruiu este reino, ou se foi obra de um dos vilões hediondos que o Conselho baniu.}{Não sei muito, mas o que sei é que costumava existir algum tipo de civilização aqui, e o mundo não era dividido em massas de terra distintas. Não sei se alguma guerra antiga destruiu este reino, ou se foi obra de um dos vilões hediondos que o Conselho baniu.}{}{76}{}{ }
+{681}{O Conselho nem sabia o que era o Vazio?}{}{5}{}{690}{ }
+{682}{K:}{}{1}{}{626}{ }
+{683}{E:}{}{1}{}{0}{ }
+{690}{Parece irresponsável em retrospecto, mas na época eles achavam que o Vazio era o esquecimento. Nada deveria estar aqui.}{Parece irresponsável em retrospecto, mas na época eles achavam que o Vazio era o esquecimento. Nada deveria estar aqui.}{}{77}{}{ }
+{691}{K:}{}{1}{}{626}{ }
+{692}{E:}{}{1}{}{0}{ }
+{695}{Quando começaram a construir seu dispositivo para se protegerem dos meus ataques não provocados, reagi sem pensar e os destruí a todos. Meu medo do que a tecnologia poderia trazer era tão profundo que nunca pensei que houvesse outra solução.}{Quando começaram a construir seu dispositivo para se protegerem dos meus ataques não provocados, eu agi por impulso e os destruí a todos. Meu medo do que a tecnologia poderia trazer era tão profundo que nunca pensei que houvesse outra solução.}{}{78}{}{ }
+{696}{Parece que você se arrepende de suas ações.}{}{5}{}{535}{ }
+{697}{K:}{}{1}{}{626}{ }
+{698}{Vai chorar, homenzinho bobo?}{}{-4}{}{535}{ }
+{699}{E:}{}{1}{}{0}{ }
+{700}{Não sei. Eu presumiria que o portal que estão construindo fica em algum lugar perto do castelo de Kerghan, no entanto.}{Não sei. Eu presumiria que o portal que estão construindo fica em algum lugar perto do castelo de Kerghan, no entanto.}{}{79}{}{ }
+{701}{K:}{}{1}{}{626}{ }
+{702}{E:}{}{1}{}{0}{ }
+{710}{Por que você iria querer fazer isso?}{Por que você iria querer fazer isso?}{}{80}{}{ }
+{711}{Porque você apareceu para mim e ameaçou minha vida, talvez?}{}{5}{}{720}{ }
+{712}{Para impedir que você retorne a Arcanum e cause destruição.}{}{5}{}{745}{ }
+{713}{Pelo simples prazer de vê-lo morrer.}{}{5}{}{0}{fl 625 ,co}
+{714}{Você disse que ia me matar!}{}{-4}{}{720}{ }
+{715}{Você não vai voltar para Arcanuuum... hã. E matar pessoas?}{}{-4}{}{745}{ }
+{716}{Vou rir enquanto você sangra e morre, seu bobinho.}{}{-4}{}{0}{fl 625 ,co}
+{720}{Eu não fiz nada disso. Estou aqui há eras. Você realmente acha que eu poderia alcançar através do Vazio para atormentá-lo?}{Eu não fiz nada disso. Estou aqui há eras. Você realmente acha que eu poderia alcançar através do Vazio para atormentá-lo?}{}{81}{}{ }
+{721}{Então, se não é você quem está fazendo tudo isso, quem é? [Conte-lhe sua história.]}{}{5}{}{725}{ }
+{722}{Se não é você quem faz isso, quem? [Conte-lhe sua história.]}{}{-4}{}{725}{ }
+{725}{Como estou preso aqui, minhas oportunidades de obter informações são, digamos, um pouco limitadas. Nas raras ocasiões em que Kerghan se dignou a me visitar para jogar seus jogos intelectuais, ele deixou escapar algumas pistas veladas que podem fazer sentido à luz do que você me contou. Se eu tivesse que arriscar um palpite, diria que Kerghan está se passando por mim.}{Como estou preso aqui, minhas oportunidades de obter informações são, digamos, um pouco limitadas. Nas raras ocasiões em que Kerghan se dignou a me visitar para jogar seus jogos intelectuais, ele deixou escapar algumas pistas veladas que podem fazer sentido à luz do que você me contou. Se eu tivesse que arriscar um palpite, diria que Kerghan está se passando por mim.}{}{82}{}{ss22 }
+{726}{Com que propósito?}{}{5}{gf2068 1}{730}{ }
+{727}{Hã?}{}{-4}{gf2068 1}{730}{ }
+{728}{Com que propósito?}{}{5}{gf2068 0}{225}{ }
+{729}{Hã?}{}{-4}{gf2068 0}{225}{ }
+{730}{Parece que esses elfos negros que você mencionou seguiram a filosofia equivocada da minha juventude. Eles estão se mostrando aliados poderosos em sua busca para retornar a Arcanum, ao que parece. Duvido que estariam dispostos a ajudar Kerghan, o Terrível, a retornar para executar sua vingança.}{Parece que esses elfos negros que você mencionou seguiram a filosofia equivocada da minha juventude. Eles estão se mostrando aliados poderosos em sua busca para retornar a Arcanum, ao que parece. Duvido que estariam dispostos a ajudar Kerghan, o Terrível, a retornar para executar sua vingança.}{}{83}{}{ru2120, qu1111 4, gf2060 1, gf2042 1 }
+{731}{Kerghan? O Kerghan que você baniu?}{}{5}{}{735}{ }
+{732}{Então Kerghan é quem precisa morrer.}{}{5}{}{640}{ss22, qu1030 2 }
+{733}{Não sei o que você diz, mas Kerhoon precisa morrer.}{}{-4}{}{640}{ }
+{735}{Sim. Quando cheguei aqui e percebi no que ele estava se transformando, tentei detê-lo. Nossa batalha foi intensa, porém breve. Como pode ver, eu não fui o vencedor.}{Sim. Quando cheguei aqui e percebi no que ele estava se transformando, tentei detê-lo. Nossa batalha foi intensa, porém breve. Como pode ver, eu não fui o vencedor.}{}{84}{}{ }
+{736}{Por que ele não o matou?}{}{5}{}{739}{ }
+{739}{Ele não era poderoso o suficiente. Ele me prendeu com essa magia vinculante enquanto eu me regenerava. Parece que eu estava correto quanto aos efeitos de suas experimentações, no entanto. Suas magias negras o transformaram horrivelmente, no corpo e no espírito.}{Ele não era poderoso o suficiente. Ele me prendeu com essa magia de ligação enquanto eu me regenerava. Parece que eu estava certo quanto aos efeitos de suas experiências, no entanto. Suas magias das trevas o transformaram horrivelmente, no corpo e no espírito.}{}{85}{}{ }
+{740}{Então Kerghan é quem precisa morrer.}{}{5}{}{640}{ss22, qu1030 2 }
+{745}{Eu não tenho tais fantasias de vingança. Fui aprisionado aqui por quase dois mil anos, o que é mais do que tempo suficiente para lamentar os erros da juventude.}{Eu não tenho tais fantasias de vingança. Fui aprisionado aqui por quase dois mil anos, o que é mais do que tempo suficiente para lamentar os erros da juventude.}{}{86}{}{ru2119 }
+{746}{Então, se não é você fazendo tudo isso, quem é? [Conte a ele sua história.]}{}{5}{}{725}{ }
+{747}{Se num tá fazeno isso, quem tá? [Conte a ele sua história.]}{}{-4}{}{725}{ }
+{750}{Muitos agradecimentos por me libertar deste encarceramento terrivelmente longo, senhor. Estou ao seu dispor.}{Muitos agradecimentos por me libertar deste encarceramento terrivelmente longo, senhora. Estou ao seu dispor.}{}{87}{}{ }
+{751}{Eu falei com aquele lunático, Kerghan. Eu disse a ele que o mataria.}{}{5}{gf2066 1}{610}{ }
+{752}{Já passou da hora de mostrarmos a Kerghan o erro de seus caminhos.}{}{5}{}{-22}{ss22, qu1030 2 }
+{754}{Acho que não. Vou fazer isso sozinho, não preciso da sua ajuda.}{}{5}{}{0}{fl 670}
+{755}{Acho que não. Eu o libertei para pôr um fim à sua vida miserável.}{}{5}{}{0}{fl 625 ,co}
+{756}{Eu disse pro korgy que matava ocê. Tá bom?}{}{-4}{gf2066 1}{610}{ }
+{757}{Eu quero matar o Kerghamoleque.}{}{-4}{}{-22}{ss22, qu1030 2 }
+{759}{Eu mato você agora.}{}{-4}{}{0}{fl 625 ,co}
+{760}{O que posso fazer por você?}{O que posso fazer por você?}{}{88}{}{ }
+{761}{B:}{}{1}{}{770}{ }
+{762}{K:}{}{1}{}{626}{ }
+{763}{Gostaria de saber algo sobre você...}{}{5}{}{}{ce }
+{764}{Preciso que você faça algo.}{}{5}{}{780}{ }
+{765}{Cê precisa fazê arguma coisa.}{}{-4}{}{900}{ }
+{769}{E:}{}{1}{}{0}{ }
+{770}{Deseja algo mais?}{Deseja algo mais?}{}{89}{}{ }
+{771}{Gostaria de saber algo sobre você...}{}{1}{}{0}{ce }
+{772}{K:}{}{1}{}{626}{ }
+{773}{Preciso que você faça algo.}{}{5}{}{780}{ }
+{774}{B:}{}{1}{}{770}{ }
+{775}{Cê precisa fazê arguma coisa.}{}{-4}{}{900}{ }
+{779}{E:}{}{1}{}{0}{ }
+{780}{O que você gostaria que eu fizesse?}{O que você gostaria que eu fizesse?}{}{90}{}{ }
+{781}{Por favor, não me siga tão de perto.}{}{1}{wa 0}{0}{so }
+{782}{Você está muito longe.}{}{1}{wa 0}{0}{sc }
+{783}{Espere aqui por mim.}{}{1}{wa 0}{805}{wa }
+{784}{Gostaria de se reunir comigo novamente?}{}{1}{wa 1}{0}{uw1 854}
+{785}{Acho que é hora de encerrarmos nossa parceria.}{}{1}{wa 0}{0}{lf19 1, lv, fl  800}
+{786}{[Voltar]}{}{1}{}{770}{ }
+{790}{Isso é bastante óbvio, seu tolo de mente simples. Para que você veio aqui?}{Isso é bastante óbvio, seu tolo de mente simples. Para que você veio aqui?}{}{91}{}{ }
+{791}{Impedi-lo?}{}{-4}{}{45}{ }
+{792}{Por que você tentou me matar?}{}{-4}{}{720}{ }
+{793}{Eu vou matar você.}{}{-4}{}{15}{ }
+{795}{Kerghan é o pior. Ele venera a morte e deseja trazê-la a todos os reinos. Liberte-me de minhas amarras e eu o ajudarei a matá-lo.}{Kerghan é o pior. Ele venera a morte e deseja trazê-la a todos os reinos. Liberte-me de minhas amarras e eu o ajudarei a matá-lo.}{}{92}{}{qu1057 1 }
+{796}{Certo. Como eu faço isso?}{}{-4}{}{475}{qu1057 2 }
+{797}{Não. Como vou tirar você daí para matá-lo?}{}{-4}{}{475}{qu1057 2 }
+{800}{Acho difícil compreender qual razão possível você poderia ter para essa decisão. Sem minha ajuda, suas chances de vitória diminuem muito, se é que não desaparecem por completo. Espero que você reconsidere esse curso de ação precipitado.}{Acho difícil compreender qual razão possível você poderia ter para essa decisão. Sem minha ajuda, suas chances de vitória diminuem muito, se é que não desaparecem por completo. Espero que você reconsidere esse curso de ação precipitado.}{}{93}{}{gf2085 1 }
+{805}{Acho que deveríamos atacar Kerghan o mais rápido possível. Mas se você deseja que eu espere aqui, que assim seja.}{Acho que deveríamos atacar Kerghan o mais rápido possível. Mas se você deseja que eu espere aqui, que assim seja.}{}{94}{}{ }
+{810}{Certamente. Há algo mais que você possa precisar de mim?}{Certamente. Há algo mais que você possa precisar de mim?}{}{95}{}{ }
+{812}{K:}{}{1}{}{626}{ }
+{813}{[Dar ordens.]}{}{1}{}{780}{ }
+{814}{E:}{}{1}{}{0}{ }
+{815}{Você tem tanta certeza de si mesmo! Deve ser reconfortante estar livre de dúvidas.}{Você tem tanta certeza de si mesmo! Deve ser reconfortante estar livre de dúvidas.}{}{96}{}{ }
+{816}{Eu não fico por aí lamentando meu destino, se é isso que você quer dizer.}{}{5}{}{818}{ }
+{818}{Não tive oportunidade de fazer muito mais... o destino parece brincar injustamente com alguns de nós, você não concorda?}{Não tive oportunidade de fazer muito mais... o destino parece brincar injustamente com alguns de nós, você não concorda?}{}{97}{}{ }
+{819}{Você está aqui por causa de suas ações, não por algum cruel capricho do destino.}{}{5}{}{85}{ }
+{823}{Asseguro-lhe, não é uma piada de mau gosto, embora eu desejasse que fosse. Estou preso aqui desde pouco depois de ter sido banido para este reino.}{Asseguro-lhe, não é uma piada de mau gosto, embora eu desejasse que fosse. Estou preso aqui desde pouco depois de ter sido banido para este reino.}{}{98}{}{qu1111 4 }
+{824}{Quem poderia ter prendido alguém com seu poder aqui?}{}{5}{}{135}{ }
+{825}{Então, você me toma por um tolo? Eu sei tudo sobre seus planos.}{}{5}{lf6 0}{175}{ }
+{827}{Se alguém o prendeu, precisarei falar com essa pessoa. Tenha um bom dia.}{}{5}{}{0}{lf11 1 }
+{829}{Quem tá te prendendo?}{}{-4}{}{135}{ }
+{835}{Não sei. Há um portal na sala atrás de mim, talvez possamos usá-lo para viajar para outras partes do Vazio...}{Não sei. Há um portal na sala atrás de mim, talvez possamos usá-lo para viajar para outras partes do Vazio...}{}{99}{}{ }
+{836}{Vamos lá.}{}{5}{}{0}{ }
+{837}{Posso fazer algumas perguntas?}{}{5}{}{626}{ }
+{838}{Tá bom.}{}{-4}{}{0}{ }
+{839}{K:}{}{-4}{}{626}{ }
+{845}{Não posso me reunir a você, pois tem muitas pessoas seguindo-o. Sugiro que reduza seu grupo, para minimizar a confusão assim que a batalha começar. Não farei parte do caos que um grupo desse tamanho certamente criaria.}{Não posso me reunir a você, pois tem muitas pessoas seguindo-o. Sugiro que reduza seu grupo, para minimizar a confusão assim que a batalha começar. Não farei parte do caos que um grupo desse tamanho certamente criaria.}{}{100}{}{lf20 1 }
+{846}{Já lhe disse que não me reunirei a você até que diminua o número de seus seguidores.}{Já lhe disse que não voltarei a me juntar a você até que reduza o número de seus seguidores.}{}{101}{}{ }
+{847}{Está pronto para parar com toda essa palhaçada e se juntar a mim novamente para derrotar Kerghan?}{Está pronto para parar com toda essa palhaçada e se juntar a mim novamente para derrotar Kerghan?}{}{102}{}{ }
+{848}{Y:}{}{1}{}{}{jo1 854}
+{849}{N:}{}{1}{}{859}{ }
+{854}{Vamos mostrar a Kerghan o caminho de volta à terra dos mortos, não é mesmo?}{Vamos mostrar a Kerghan o caminho de volta à terra dos mortos, não é mesmo?}{}{103}{}{ }
+{855}{Não poderia concordar mais.}{}{5}{}{0}{ }
+{856}{iupi.}{}{-4}{}{0}{ }
+{859}{Por que está perdendo meu tempo, então?}{Por que está perdendo meu tempo, então?}{}{104}{}{ }
+{860}{Minhas desculpas. Gostaria que se juntasse a mim novamente.}{}{5}{}{}{jo1 854}
+{861}{Desculpe, junte-se a mim de novo?}{}{-4}{}{}{jo1 854}
+{862}{E:}{}{1}{}{0}{ }
+{865}{Morra, seu cão traiçoeiro!}{Morra, seu cão traiçoeiro!}{}{105}{}{ }
+{870}{Sem ofensa, mas seu grupo parece um pouco... fraco para enfrentar Kerghan em batalha. Talvez tenha que deixar alguns deles aqui para que possamos recrutar aliados mais poderosos.}{Sem ofensa, mas seu grupo parece um pouco... fraco para enfrentar Kerghan em batalha. Talvez tenha que deixar alguns deles aqui para que possamos recrutar aliados mais poderosos.}{}{106}{}{ru2124 }
+{871}{O que sugere?}{}{5}{}{880}{ }
+{872}{Já lutei muitas batalhas ao lado deles. Não vou abandoná-los.}{}{5}{}{885}{ }
+{873}{Do que você tá falando?}{}{-4}{}{880}{ }
+{874}{Esses amigos. Não deixe eles.}{}{-4}{}{885}{ }
+{880}{Conheço alguns seres neste reino que talvez possamos convencer a nos seguir. Talvez já tenha ouvido falar deles - o Flagelo de Kree, Gorgoth e Kraka-Tur?}{Conheço alguns seres neste reino que talvez possamos convencer a nos seguir. Talvez já tenha ouvido falar deles - o Flagelo de Kree, Gorgoth e Kraka-Tur?}{}{107}{}{ }
+{881}{Acha que eles se juntariam a nós?}{}{5}{}{660}{ }
+{882}{Como os encontramos?}{}{5}{}{665}{ }
+{883}{Tá bom. Como a gente encontra eles?}{}{-4}{}{665}{ }
+{885}{Que assim seja. Admiro sua lealdade diante de uma morte quase certa.}{Que assim seja. Admiro sua lealdade diante de uma morte quase certa.}{}{108}{}{ }
+{886}{Morte certa? Talvez devêssemos recrutar outros seguidores.}{}{5}{}{880}{ }
+{887}{O que fazemos agora?}{}{5}{}{650}{ }
+{888}{Morte certa? Eu não gosto tanto assim desses caras.}{}{-4}{}{880}{ }
+{889}{E agora, o que faço?}{}{-4}{}{650}{ }
+{900}{E o que seria isso, meu amigo prejudicado?}{E o que seria isso, meu amigo debilitado?}{}{109}{}{ }
+{901}{Você tá perto demais. Se afaste.}{}{1}{wa 0}{0}{so }
+{902}{Você tá longe demais. Chegue mais perto.}{}{1}{wa 0}{0}{sc }
+{903}{Você. Espere. Aqui.}{}{1}{wa 0}{805}{wa }
+{904}{Quer se juntar a mim? De novo?}{}{1}{wa 1}{0}{uw1 854}
+{905}{Vá embora agora.}{}{1}{wa 0}{0}{lf19 1, lv, fl  800}
+{906}{[Voltar]}{}{1}{}{770}{ }
+{910}{Nada, estranhamente. Ele foi tranquilamente ao seu destino.}{Nada, estranhamente. Ele foi tranquilamente ao seu destino.}{}{110}{}{ }
+{911}{Parece um covarde para mim.}{}{5}{}{195}{ }
+{920}{Juntar-se a mim? [Ele dá um sorrisinho.] Juntar-se a mim para fazer o quê?}{Juntar-se a mim? [Ele dá um sorrisinho.] Juntar-se a mim para fazer o quê?}{}{111}{}{ }
+{921}{Estou aqui para me juntar a você e executar sua vingança contra Arcanum!}{}{5}{}{930}{ }
+{922}{Nós vamos nos vingar de Arcanum!}{}{-4}{}{930}{ }
+{930}{Bem, se eu devo "executar minha vingança contra Arcanum", primeiro preciso ser libertado deste invólucro, não é?}{Bem, se eu devo "executar minha vingança contra Arcanum", primeiro preciso ser libertado deste invólucro, não é?}{}{112}{}{ }
+{931}{Libertado? Do que você está falando?}{}{5}{}{940}{ }
+{932}{Hurgh?!}{}{-4}{}{940}{ }
+{940}{Este invólucro, seu tolo. Estou preso aqui desde pouco depois de chegar neste vazio amaldiçoado pelos deuses.}{Este invólucro, seu tolo. Estou preso aqui desde pouco depois de chegar neste vazio amaldiçoado pelos deuses.}{}{113}{}{ }
+{941}{Preso? Por quem?}{}{5}{}{135}{ }
+{942}{Quem que te prendeu? Você é grande, malvado, poderoso...}{}{-4}{}{135}{ }
+{950}{Se é assim que você deseja morrer, suponho que seja sua escolha.}{Se é assim que você deseja morrer, suponho que seja sua escolha.}{}{114}{}{ }
+{951}{O que você quer dizer?}{}{5}{}{960}{ }
+{952}{O que você quer dizer?}{}{-4}{}{960}{ }
+{960}{Seu "amigo" Kerghan pretende destruir tudo o que é vivo em Arcanum, caso tenha a oportunidade.}{Seu "amigo" Kerghan pretende destruir tudo o que é vivo em Arcanum, caso tenha a oportunidade.}{}{115}{}{ss22 }
+{961}{Suponho que você não buscaria vingança? Você se "reformou"?}{}{5}{}{970}{ }
+{962}{E você? Agora é um cara legal?}{}{-4}{}{970}{ }
+{970}{Com certeza. Passei dois mil anos revivendo meus erros graves de julgamento na minha mente. Com todo esse tempo, a gente acaba desenvolvendo uma certa consciência.}{Com certeza. Passei dois mil anos revivendo meus erros graves de julgamento na minha mente. Com todo esse tempo, a gente acaba desenvolvendo uma certa consciência.}{}{11}{}{ }
+{971}{Peço perdão se estou um tanto cético...}{}{5}{}{260}{ }
+{972}{Eu não acredito em você...}{}{-4}{}{260}{ }
+{980}{Você me libertou da minha prisão. [Ele percebe que você não entende.] Kerghan me aprisionou neste invólucro logo após eu chegar aqui.}{Você me libertou da minha prisão. [Ele percebe que você não entende.] Kerghan me aprisionou neste invólucro logo após eu chegar aqui.}{}{116}{}{ }
+{981}{E quanto à sua vingança contra Arcanum?}{}{5}{}{990}{ }
+{982}{E quanto à sua vingança contra Arcanuminum?}{}{-4}{}{990}{ }
+{990}{Vingança? Acho que não, meu amigo. Passei dois mil anos revivendo meus erros graves de julgamento na mente. Com todo esse tempo, a gente acaba desenvolvendo um pouco de consciência.}{Vingança? Acho que não, meu amigo. Passei dois mil anos revivendo meus erros graves de julgamento na mente. Com todo esse tempo, a gente acaba desenvolvendo um pouco de consciência.}{}{117}{}{ }
+{991}{Então você não está por trás de tudo? [Conte a ele sua história.]}{}{5}{}{1000}{ }
+{992}{Então você não é o cara que eu deveria encontrar? [Conte a ele sua história.]}{}{-4}{}{1000}{ }
+{1000}{Parece que esses elfos negros que você mencionou seguiram a filosofia equivocada da minha juventude. Eles estão se mostrando aliados poderosos na busca dele para retornar a Arcanum, ao que parece. Duvido que estariam dispostos a ajudar Kerghan, o Terrível, a voltar para executar sua vingança.}{Parece que esses elfos negros que você mencionou seguiram a filosofia equivocada da minha juventude. Eles estão se mostrando aliados poderosos na busca dele para retornar a Arcanum, ao que parece. Duvido que estariam dispostos a ajudar Kerghan, o Terrível, a voltar para executar sua vingança.}{}{24}{}{ss22 }
+{1001}{Então suponho que estou aqui para falar com Kerghan, então.}{}{5}{}{1010}{ }
+{1002}{Então eu tenho que falar com Kergoon, então.}{}{-4}{}{1010}{ }
+{1010}{Espere... você não sabe o que aconteceu com Kerghan! Ele pretende destruir tudo, nós precisamos detê-lo!}{Espere... você não sabe o que aconteceu com Kerghan! Ele pretende destruir tudo, nós precisamos detê-lo!}{}{118}{}{ }
+{1011}{Hmmm. Você está certo. Ele precisa ser detido...}{}{5}{}{-22}{ss22, qu1030 2 }
+{1012}{Certo!}{}{-4}{}{-22}{ss22, qu1030 2 }
+{1013}{Acho que não... preciso pensar melhor sobre tudo isso primeiro.}{}{5}{}{0}{lf19 1, fl 670}
+{1014}{Não. Eu não quero.}{}{5}{}{0}{lf19 1, fl 670}
+{1015}{Acho que preciso matar você, já que é inimigo dele!}{}{5}{}{0}{fl 625}
+{1016}{Eu mato você e deixo Kergoonimus feliz!}{}{-4}{}{0}{fl 625}
+

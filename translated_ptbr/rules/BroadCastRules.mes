@@ -1,0 +1,41 @@
+//
+// BroadCast Message Command Lookups
+//
+
+
+// Base matching types
+{0}{none}
+{1}{leave}
+{2}{wait}
+{3}{follow}
+{4}{move}
+{5}{stay_close}
+{6}{spread_out}
+{7}{curse}
+{8}{join}
+{9}{disband}
+{10}{attack}
+{11}{walk_here}
+{12}{back_off}
+{13}{follow_other}
+
+
+// Actual Use types
+{100}{leave}
+{101}{wait}
+{102}{follow}
+{103}{follow}
+{104}{move}
+{105}{stay_close}
+{106}{stay_close}
+{107}{spread_out}
+{108}{spread_out}
+{109}{curse}
+{110}{curse}
+{111}{join}
+{112}{disband}
+{113}{attack}
+{114}{walk_here}
+{115}{back_off}
+{116}{back_off}
+{117}{follow_other}

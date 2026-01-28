@@ -1,0 +1,233 @@
+{1}{I:}{I:}{}{}{}{lf 1 0, lf2 0, lf3 0, lf5 0, lf11 0, lf 7 0, lf 12 0, lf 19 0, re 35}
+{2}{Olá, hã... é um prazer...}{}{5}{lf 15 0, qb1094 0}{25}{lf 15 1}
+{3}{Com licença, mas não gostaria de reconsiderar esse comentário?}{}{5}{ps 15, lf0 0}{18}{lf0 1}
+{4}{Com licença, mas não gostaria de reconsiderar esse comentário?}{}{5}{ps -14, lf0 0}{25}{lf0 1}
+{5}{Você está em excelente forma hoje, Sammie.}{}{5}{lf 9 1, qb1094 1}{103}{}
+{6}{Como pode ver, fiz o que pediu.}{}{5}{qu 1094 2, lf14 0}{-2}{lf14 1}
+{7}{Já está satisfeito?}{}{5}{qu 1094 2, lf 14 1}{-2}{}
+{8}{Tenho pensado sobre o que discutimos.}{}{5}{qu 1094 1}{165}{}
+{9}{Um prazer, como sempre, Sammie...}{}{5}{qa 1094 4}{103}{}
+{10}{Hã, hã, senhor... eu dizer oi!}{}{-4}{lf 15 0, qb1094 0}{25}{lf 15 1}
+{11}{He he he, Sammie. Você é um homenzinho engraçado.}{}{-4}{lf 9 1, qb1094 1}{103}{}
+{12}{Eu fazer o que você mandar.}{}{-4}{qu 1094 2, lf14 0}{-2}{lf14 1}
+{13}{Eu fazer mais o que você mandar. Você feliz agora?}{}{-4}{qu 1094 2, lf 14 1}{-2}{}
+{14}{Eu querer falar com você sobre o que você me disse.}{}{-4}{qu 1094 1}{165}{}
+{15}{Um prazer, como sempre, Sammie.}{}{-4}{qa 1094 4}{103}{}
+{16}{I:}{}{1}{}{25}{}
+{17}{E:}{}{1}{}{0}{}
+{18}{Não, eu não faria isso! Gente como você me dá nojo. Sempre se achando melhor que os outros! Pode pular no rio, por mim!}{Não, eu não faria isso! Gente como você me dá nojo. Sempre se achando melhor que os outros! Pode pular no rio, por mim!}{}{}{}{}
+{19}{E você é o exemplo que todos deveríamos aspirar imitar?}{}{5}{}{22}{}
+{20}{I:}{}{5}{}{25}{}
+{21}{E:}{}{5}{}{0}{}
+{22}{Ahhh, tão rápido para julgar também! Ahhh, que vergonha! Seu idiota pretensioso, arrogante, cabeça-dura e burro!}{Ahhh, tão rápido para julgar também! Ahhh, que vergonha! Seu idiota pretensioso, arrogante, cabeça-dura e burro!}{}{}{}{}
+{23}{I:}{}{5}{}{25}{}
+{24}{E:}{}{5}{}{0}{}
+{25}{I:}{I:}{}{}{}{re 40}
+{26}{I:}{}{1}{}{34}{}
+{27}{Vamos ser civilizados, pelo menos!}{}{5}{}{34}{}
+{28}{A:}{}{1}{}{0}{}
+{29}{E:}{}{1}{}{0}{}
+{30}{Tenho pensado sobre o que discutimos.}{}{5}{qu 1094 1}{165}{}
+{31}{Eu querer falar com você sobre o que você me disse.}{}{-4}{qu 1094 1}{165}{}
+{32}{}{}{}{}{}{}
+{33}{}{}{}{}{}{}
+{34}{I:}{I:}{}{}{}{re 45}
+{35}{I:}{}{1}{}{43}{}
+{36}{Eu lhe peço que pare.}{}{5}{}{43}{}
+{37}{A:}{}{1}{}{0}{}
+{38}{E:}{}{1}{}{0}{}
+{39}{}{}{}{}{}{}
+{40}{}{}{}{}{}{}
+{41}{}{}{}{}{}{}
+{42}{}{}{}{}{}{}
+{43}{I:}{I:}{}{}{}{re 50}
+{44}{Por favor, já chega.}{}{5}{}{25}{}
+{45}{I:}{}{1}{}{51}{}
+{46}{A:}{}{1}{}{0}{}
+{47}{E:}{}{1}{}{0}{}
+{48}{}{}{}{}{}{}
+{49}{}{}{}{}{}{}
+{50}{}{}{}{}{}{}
+{51}{I:}{I:}{}{}{}{re 55}
+{52}{Eu lhe imploro que pare de me insultar.}{}{5}{}{33}{}
+{53}{I:}{}{1}{}{59}{}
+{54}{A:}{}{1}{}{0}{}
+{55}{E:}{}{1}{}{0}{}
+{56}{}{}{}{}{}{}
+{57}{}{}{}{}{}{}
+{58}{}{}{}{}{}{}
+{59}{I:}{I:}{}{}{}{re 60}
+{60}{I:}{}{1}{}{59}{}
+{61}{Sabe... acho que você até gosta de insultar as pessoas.}{}{5}{lf4 0}{67}{lf4 1}
+{62}{Eu achar que você se divertir... zoar as pessoas.}{}{-4}{lf4 0}{67}{lf4 1}
+{63}{Chega, já deu!}{}{5}{lf4 1}{103}{}
+{64}{Tá bom, Sammie, eu precisar falar sobre uma coisa.}{}{-4}{lf4 1}{103}{}
+{65}{F:}{}{1}{}{0}{}
+{66}{E:}{}{1}{}{0}{}
+{67}{[Ele sorri de orelha a orelha.] Hah Hah Hah, então você descobriu meu segredo, meu amigo! É verdade! Que os deuses me perdoem, mas não consigo resistir a uma boa troca de farpas com o povo comum. Mas você, senhor, me parece fora do comum. Meu nome é Sammie White, mas as pessoas só me chamam de Sammie. Qual é o seu nome?}{[Ele sorri de orelha a orelha.] Hah Hah Hah, então você descobriu meu segredo, meu amigo! É verdade! Que os deuses me perdoem, mas não consigo resistir a um pouco de conversa com o povo comum. Mas você, madame, me parece incomum. O nome é Sammie White, mas as pessoas só me chamam de Sammie. Qual é o seu nome?}{}{}{}{lf9 1, re 75}
+{68}{Eu sou @pcname@.}{}{5}{}{80}{}
+{69}{Prefiro não revelar meu nome por enquanto.}{}{5}{sk 5 18, lf6 0}{74}{lf6 1}
+{70}{Prefiro não revelar meu nome por enquanto.}{}{5}{sk 5 -17, lf6 0}{74}{lf6 1}
+{71}{Mim @pcname@.}{}{-4}{}{80}{}
+{72}{Mim não dizer ocê meu nome.}{}{-4}{sk 5 18, lf6 0}{74}{lf6 1}
+{73}{Mim não dizer ocê meu nome.}{}{-4}{sk 5 -17, lf6 0}{74}{lf6 1}
+{74}{Entendo perfeitamente, amigo. No nosso ramo, é preciso ter cuidado.}{Entendo perfeitamente, amigo. No nosso ramo, é preciso ter cuidado.}{}{}{}{}
+{75}{Sim, claro.}{}{5}{}{80}{}
+{76}{}{}{-4}{}{80}{}
+{77}{Entendo perfeitamente, amigo.}{Entendo perfeitamente, amigo.}{}{}{}{}
+{78}{Isso é bom.}{}{5}{}{80}{}
+{79}{Isso é bom!}{}{-4}{}{80}{}
+{80}{[Ele boceja.] Estou ficando cansado dessa conversa. O que você quer?}{[Ele boceja.] Estou ficando cansado dessa conversa. O que você quer?}{}{}{}{}
+{81}{O que você faz?}{}{5}{sk 5 -17, lf7 0, qb 1094 1}{93}{lf7 1}
+{82}{O que você faz?}{}{5}{sk 5 18, lf7 0,  qb 1094 1}{96}{lf7 1}
+{83}{Por que você gosta de insultar as pessoas?}{}{5}{lf12 0, qb 1094 1}{115}{lf12 1}
+{84}{Você me treinaria para ser um batedor de carteiras melhor?}{}{5}{lf10 1, lf 11 0, qb 1094 1}{130}{}
+{85}{R:($0, 1040-1049)}{}{5}{lf13 0}{80}{lf13 1}
+{86}{O que ocê faz, pequenino?}{}{-4}{sk 5 -17, lf7 0, qb 1094 1}{93}{lf7 1}
+{87}{O que ocê faz, pequenino?}{}{-4}{sk 5 18, lf7 0,  qb 1094 1}{96}{lf7 1}
+{88}{Por que ocê é tão malvado com as pessoas?}{}{-4}{lf12 0, qb 1094 1}{115}{lf12 1}
+{89}{Por favor me ensina... mim quer ser melhor ladrão furtivo.}{}{-4}{lf10 1, lf 11 0, qb 1094 1}{130}{}
+{90}{R:($0, 1040-1049)}{}{-4}{lf13 0}{80}{lf13 1}
+{91}{C:}{}{1}{lf 19 0}{80}{lf 19 1}
+{92}{E:}{}{1}{}{0}{re 50}
+{93}{Bem, isso é difícil de explicar exatamente, e também não é da sua conta! Por favor, vá embora ou vou provocar você de novo!}{Bem, isso é difícil de explicar exatamente, e também não é da sua conta! Por favor, vá embora ou vou provocar você de novo!}{}{}{}{}
+{94}{I:}{}{1}{}{59}{re 50}
+{95}{E:}{}{1}{}{0}{re 50}
+{96}{O senhor tem o privilégio de conversar com o maior batedor de carteiras vivo de todo o Arcanum! Eu sou o melhor! Nunca fui pego e nunca serei. Tento ser modesto, mas é difícil quando se é tão bom quanto eu.}{A senhora tem o privilégio de conversar com o maior batedor de carteiras vivo de todo o Arcanum! Eu sou o melhor! Nunca fui pego e nunca serei. Tento ser modesto, mas é difícil quando se é tão bom quanto eu.}{}{}{}{lf10 1}
+{97}{Como você se tornou o Mestre?}{}{5}{}{188}{}
+{98}{Você me treinaria para ser um batedor de carteiras melhor?}{}{5}{lf10 1, lf 11 0, qb 1094 1}{130}{}
+{99}{Obrigado, foi agradável conversar, mas preciso ir.}{}{5}{}{0}{re 50}
+{100}{Como ocê aprendeu a roubar coisas, senhor?}{}{-4}{}{188}{}
+{101}{Por favor me ensina... mim quer ser melhor ladrão furtivo.}{}{-4}{lf10 1, lf 11 0, qb 1094 1}{130}{}
+{102}{Eu digo tchau tchau, amiguinho.}{}{-4}{}{0}{re 50}
+{103}{Bem, nossa pequena conversa foi um alívio animador das circunstâncias mundanas que devo suportar aqui em Tarant. O que era mesmo que você queria comigo? Parece que esqueci. [Ele boceja.]}{Bem, nossa pequena conversa foi um alívio animador das circunstâncias mundanas que devo suportar aqui em Tarant. O que era mesmo que você queria comigo? Parece que esqueci. [Ele boceja.]}{}{}{}{}
+{104}{O que você faz?}{}{5}{sk 5 -9, lf7 0}{93}{lf7 1}
+{105}{O que você faz?}{}{5}{sk 5 10, lf7 0, me 0}{96}{lf7 1}
+{106}{Por que você gosta de insultar as pessoas?}{}{5}{lf12 0}{115}{lf12 1}
+{107}{Gostaria de conversar com você sobre treinamento novamente.}{}{5}{lf18 1, qb 1094 1}{130}{}
+{108}{O que você faz, amiguinho?}{}{-4}{sk 5 -9, lf7 0}{93}{lf7 1}
+{109}{O que você faz, amiguinho?}{}{-4}{sk 5 10, lf7 0, me 0}{96}{lf7 1}
+{110}{Por que você é tão rude com as pessoas?}{}{-4}{lf12 0}{115}{lf12 1}
+{111}{Eu quero falar pra você sobre o que você me disse sobre aprender.}{}{-4}{lf18 1, qb 1094 1}{130}{}
+{112}{R:($0, 1040-1049)}{}{1}{lf13 0}{80}{lf13 1}
+{113}{E:}{}{1}{}{0}{re 50}
+{114}{}{}{}{}{}{}
+{115}{Por quê? Por que não?! Tarant deveria ser o centro de tudo! Bem, Sammie está te dizendo que não é tão grandiosa assim. Na verdade, é bem monótona depois que você conhece o lugar. E as pessoas aqui são camisas engomadas e arrogantes, na maioria.}{Por quê? Por que não?! Tarant deveria ser o centro de tudo! Bem, Sammie está te dizendo que não é tão grandiosa assim. Na verdade, é bem monótona depois que você conhece o lugar. E as pessoas aqui são camisas engomadas e arrogantes, na maioria.}{}{}{}{}
+{116}{Você parece ter algumas tendências antissociais fortes.}{}{5}{}{80}{}
+{117}{Hmm... continue.}{}{5}{}{120}{}
+{118}{Você tem a cabeça doente. Precisa de um médico.}{}{-4}{}{80}{}
+{119}{Vou ver o que você diz.}{}{-4}{}{120}{}
+{120}{Olha só todos esses tipos afetados e cheios de si andando por aí. Todos vestidos com a última moda! Se sentindo superiores uns aos outros! Dá vontade de vomitar.}{Olha só todos esses tipos afetados e cheios de si andando por aí. Todos vestidos com a última moda! Se sentindo superiores uns aos outros! Dá vontade de vomitar.}{}{}{}{}
+{121}{Usar roupas limpas não torna alguém arrogante.}{}{5}{}{80}{}
+{122}{Entendo...}{}{5}{}{125}{}
+{123}{Eu digo que pessoas bonitas não são pessoas más... você entendeu.}{}{-4}{}{80}{}
+{124}{Ahã...}{}{-4}{}{125}{}
+{125}{Essas pessoas são gordas e ricas. Além disso, tudo em que pensam é em como ficar ainda mais gordas e ricas! É nojento. [Ele parece muito orgulhoso nesse ponto.] Então eu tento colocá-las no lugar delas. Sabe, lá embaixo no esgoto com o resto de nós!}{Essas pessoas são gordas e ricas. Além disso, tudo em que pensam é em como ficar ainda mais gordas e ricas! É nojento. [Ele parece muito orgulhoso nesse ponto.] Então eu tento colocá-las no lugar delas. Sabe, lá embaixo no esgoto com o resto de nós!}{}{}{}{}
+{126}{Obrigado, vou considerar o que você disse.}{}{5}{}{80}{}
+{127}{É um trabalho sujo, mas alguém precisa fazê-lo.}{}{5}{}{80}{}
+{128}{[Bocejo] Estou com sono.}{}{-4}{}{80}{}
+{129}{Você é um homenzinho esperto. Eu penso como você também.}{}{-4}{}{80}{}
+{130}{[Ele obviamente não está interessado em você.] Treinamento é tão chato. Prefiro não me incomodar com incompetentes, sem ofensas. Que habilidade você já possui em bater carteiras?}{[Ele claramente não está interessado em você.] Treinamento é tão chato. Prefiro não me incomodar com incompetentes, sem ofensas. Que habilidade você já possui em bater carteiras?}{}{}{}{lf 18 1}
+{131}{Tenho alguma habilidade, mas nenhum treinamento formal.}{}{5}{sk 5 1, sk 5 -9, tr 5 -1}{140}{}
+{132}{Sou um aprendiz.}{}{5}{tr 5 1, tr 5 -1}{140}{}
+{133}{Sou um especialista.}{}{5}{tr 5 2, tr 5 -2, sk 5 -17}{143}{}
+{134}{Sou um especialista.}{}{5}{tr 5 2, tr 5 -2, sk 5 18}{147}{}
+{135}{Tenho alguma habilidade, mas nenhum treinamento formal.}{}{-4}{sk 5 1, sk 5 -9, tr 5 -1}{140}{}
+{136}{Mim ser aprendiz, sabe.}{}{-4}{tr 5 1, tr 5 -1}{140}{}
+{137}{Mim ser especialista.}{}{-4}{tr 5 2, tr 5 -2, sk 5 -17}{143}{}
+{138}{Mim ser especialista.}{}{-4}{tr 5 2, tr 5 -2, sk 5 18}{147}{}
+{139}{E:}{}{1}{}{0}{re 50}
+{140}{Bem, como eu disse. Não lido com amadores. Volte depois que tiver se tornado um especialista e tiver habilidade suficiente para tentar se tornar um Mestre. Podemos conversar sobre isso novamente então.}{Bem, como eu disse. Não lido com amadores. Volte depois que tiver se tornado um especialista e tiver habilidade suficiente para tentar se tornar um Mestre. Podemos conversar sobre isso novamente então.}{}{}{}{lf11 1}
+{141}{A:}{}{1}{}{80}{}
+{142}{}{}{}{}{}{}
+{143}{Você é um especialista, mas precisa aprimorar suas habilidades um pouco mais antes que eu perca meu tempo com você. Adquira mais experiência e talvez possamos chegar a um acordo.}{Você é um especialista, mas precisa aprimorar suas habilidades um pouco mais antes que eu perca meu tempo com você. Adquira mais experiência e talvez possamos chegar a um acordo.}{}{}{}{lf11 1}
+{144}{A:}{}{1}{}{80}{}
+{145}{E:}{}{1}{}{0}{re 50}
+{146}{}{}{}{}{}{}
+{147}{Vejo... Bem, você certamente tem talento para isso, devo admitir. Embora nunca será tão bom quanto eu... [Ele boceja.] Mas treinamento é tão entediante! É terrivelmente maçante, me cansa só de pensar!}{Vejo... Bem, você certamente tem talento para isso, devo admitir. Embora nunca será tão bom quanto eu... [Ele boceja.] Mas treinamento é tão entediante! É terrivelmente maçante, me cansa só de pensar!}{}{}{}{}
+{148}{Quanto isso vai me custar?}{}{5}{}{154}{}
+{149}{Há algo que eu poderia conseguir para você?}{}{5}{}{154}{}
+{150}{Eu sei como me divertir.}{0}{5}{}{154}{}
+{151}{O que você quer que eu pegue para você? Mim ter dinheiro.}{}{-4}{$$ 500}{154}{}
+{152}{O que você quer? Mim pegar algumas moedas brilhantes para você?}{}{-4}{$$ -499}{154}{}
+{153}{}{}{}{}{}{}
+{154}{Não, não, não, nada disso! Não quero nada. Sabe, eu consigo qualquer coisa que quiser. EU SOU o mestre batedor de carteiras! Hmm, tem uma coisa que você pode fazer... Algo que precisa ser feito... e algo que vai ensinar uma lição a esses tarantianos esnobes. Hah! É perfeito!}{Não, não, não, nada disso! Não quero nada. Sabe, eu consigo qualquer coisa que quiser. EU SOU o mestre batedor de carteiras! Hmm, tem uma coisa que você pode fazer... Algo que precisa ser feito... e algo que vai ensinar uma lição a esses tarantianos esnobes. Hah! É perfeito!}{}{}{}{}
+{155}{Por que acho que não vou gostar disso?}{}{5}{}{157}{}
+{156}{Uh. Mim confuso? Mim querer aprender.}{}{-4}{}{157}{}
+{157}{[Ele ri histericamente.] Você vai ficar pelado e sair correndo com suas nádegas feias por toda a cidade para todo mundo ver! Esses tarantianos arrogantes vão cair de choque. Hah! Já consigo ver a cara deles! Hah! A cidade civilizada deles invadida por pervertidos! É perfeito!}{[Ele ri histericamente.] Você vai ficar pelado e sair correndo com suas nádegas feias por toda a cidade para todo mundo ver! Esses tarantianos arrogantes vão cair de choque. Hah! Já consigo ver a cara deles! Hah! A cidade civilizada deles invadida por pervertidos! É perfeito!}{}{}{}{qu 1094 1}
+{158}{Se você acha que vou fazer isso, está louco!}{}{5}{}{165}{}
+{159}{Embora tenha certeza de que vou me arrepender, concordo em fazer isso.}{}{5}{}{171}{}
+{160}{Preciso pensar sobre isso. Volto mais tarde.}{}{5}{}{177}{}
+{161}{Mim achar isso ruim, mas mim dizer okay. Mim fazer o que você quer.}{}{-4}{}{171}{}
+{162}{Eu digo não! Eu não sou esse tipo de homem.}{1}{-4}{}{165}{}
+{163}{Eu digo não! Eu não sou esse tipo de garota.}{0}{-4}{}{165}{}
+{164}{Talvez... Eu volto mais tarde.}{}{-4}{}{177}{}
+{165}{Olha, amigo, ou você quer o treinamento ou não quer. Esse é o meu preço. Aceita ou deixa pra lá.}{Olha, amigo, ou você quer o treinamento ou não quer. Esse é o meu preço. Aceita ou deixa pra lá.}{}{}{}{}
+{166}{Nada vale essa humilhação. Esquece, eu não vou fazer isso.}{}{5}{}{177}{}
+{167}{Você não me deixa escolha. Eu aceito sua proposta.}{}{5}{}{171}{}
+{168}{Eu digo não! Eu não sou esse tipo de homem.}{1}{-4}{}{177}{}
+{169}{Eu digo não! Eu não sou esse tipo de garota.}{0}{-4}{}{177}{}
+{170}{Eu não gosto disso. Eu acho que vai dar problema, mas eu faço o que você quer.}{}{-4}{}{171}{}
+{171}{Essas são as regras. Tem que ser de dia. Você tem que estar nu... e tem que correr pra cima e pra baixo na Kensington Broadway e em volta desta Praça algumas vezes, e quando terminar, volte aqui que eu te treino.}{Essas são as regras. Tem que ser de dia. Você tem que estar nu... e tem que correr pra cima e pra baixo na Kensington Broadway e em volta desta Praça algumas vezes, e quando terminar, volte aqui que eu te treino.}{}{}{}{}
+{172}{Tá bom, eu concordo.}{}{5}{}{0}{qu 1094 2 , re 50}
+{173}{Pensando melhor, acho que não.}{}{5}{}{177}{}
+{174}{Tá bom, eu faço o que você diz.}{}{-4}{}{0}{qu 1094 2 , re 50}
+{175}{Não. Eu não sou esse tipo de homem.}{1}{-4}{}{177}{}
+{176}{Não. Eu não sou esse tipo de garota.}{0}{-4}{}{177}{}
+{177}{[Ele suspira.] Ah, você simplesmente não aprecia as virtudes estéticas do gênio cômico. Bom, se mudar de ideia, estarei bem aqui esperando. Tenha um bom dia.}{[Ele suspira.] Ah, você simplesmente não aprecia as virtudes estéticas do gênio cômico. Bom, se mudar de ideia, estarei bem aqui esperando. Tenha um bom dia.}{}{}{}{re 50}
+{178}{Não posso aceitar uma proposta dessas.}{}{5}{}{0}{}
+{179}{E:}{}{1}{}{0}{}
+{180}{}{}{}{}{}{}
+{181}{[Ele ri histericamente de você.] O QUÊ?! Você ainda não terminou! Nem de longe! Você está fazendo um ótimo espetáculo! Ainda estou muito entretido e nem perto de querer que você pare. Sammie diz pra ir e fazer mais. [Ele te enxota.] Hah Hah Hah! Vai lá... não seja tímido.}{[Ele ri histericamente de você.] O QUÊ?! Você ainda não terminou! Nem de longe! Você está fazendo um ótimo espetáculo! Ainda estou muito entretido e nem perto de querer que você pare. Sammie diz pra ir e fazer mais. [Ele te enxota.] Hah Hah Hah! Vai lá... não seja tímido.}{}{}{}{}
+{182}{E:}{}{1}{}{0}{re 50}
+{183}{}{}{}{}{}{}
+{184}{}{}{}{}{}{}
+{185}{}{}{}{}{}{}
+{186}{}{}{}{}{}{}
+{187}{}{}{}{}{}{}
+{188}{Meu passado não está aberto para discussão. Vamos dizer apenas que a prática leva à perfeição, e agora que sou mestre da minha profissão, posso conseguir qualquer coisa que eu queira. Está tudo aí para ser tomado. Só que agora eu acho que o mundo é um lugar muito monótono e sem desafios.}{Meu passado não está aberto para discussão. Vamos dizer apenas que a prática leva à perfeição, e agora que sou mestre da minha profissão, posso conseguir qualquer coisa que eu queira. Está tudo aí para ser tomado. Só que agora eu acho que o mundo é um lugar muito monótono e sem desafios.}{}{}{}{}
+{189}{Entendo.}{}{5}{}{96}{}
+{190}{E:}{}{5}{}{0}{re 50}
+{191}{Hum. Hmmm.}{}{-4}{}{96}{}
+{192}{E:}{}{-4}{}{0}{re 50}
+{193}{}{}{}{}{}{}
+{194}{Bom, então, já se divertiu o suficiente?}{Bom, então, já se divertiu o suficiente?}{}{}{}{}
+{195}{Claro, estou mais do que pronto para parar com essa bobagem.}{}{5}{}{204}{}
+{196}{Não, eu quero fazer mais.}{}{5}{lf23 0}{211}{lf23 1, fl  211}
+{197}{Sim, estou cansado. Não gosto que as pessoas zombem de mim.}{}{-4}{}{204}{}
+{198}{Não, eu quero mais.}{}{-4}{lf23 0}{211}{lf23 1, fl  211}
+{199}{Não está vendo? Agora que você foi alvo de risos e zombarias de todos em Tarant, vai descobrir que é muito mais "prazeroso" roubá-los... gordos, presunçosos e arrogantes como são. Estão chamando você de o Pervertido de Tarant! Uma reputação da qual não vai se livrar facilmente. Mas não se preocupe, com sua nova habilidade, você vai poder equilibrar as contas bem direitinho.}{Não está vendo? Agora que você foi alvo de risos e zombarias de todos em Tarant, vai descobrir que é muito mais "prazeroso" roubá-los... gordos, presunçosos e arrogantes como são. Estão chamando você de o Pervertido de Tarant! Uma reputação da qual não vai se livrar facilmente. Mas não se preocupe, com sua nova habilidade, você vai poder equilibrar as contas bem direitinho.}{}{}{}{}
+{200}{O senhor tem um senso de Lógica bem distorcido. Adeus.}{}{5}{lf23 0}{218}{fl 218}
+{201}{O senhor tem um senso de Lógica bem distorcido. Adeus.}{}{5}{lf23 1}{215}{}
+{202}{Tá bom, senhor. Você é um homem bobo. Eu digo tchau.}{}{-4}{lf23 0}{218}{fl 218}
+{203}{Tá bom, senhor. Você é um homem bobo. Eu digo tchau.}{}{-4}{lf23 1}{215}{}
+{204}{[Ele ri alto de você.] Parabéns, agora você é um Mestre Batedor de Carteiras. Não será mais necessário treinamento... pode ir.}{[rindo] Parabéns, agora você é um Mestre Batedor de Carteiras. Não será mais necessário treinamento... Pode ir.}{}{}{}{tr 5 3, qu1094 4, rq2160}
+{205}{O quê? Está tentando voltar atrás no nosso acordo?}{}{5}{}{199}{}
+{206}{Não entendi. O que você quer dizer?}{}{5}{}{199}{}
+{207}{Você vai parar de rir depois que eu cortar sua garganta! Morra, Halfling!}{}{5}{}{0}{co}
+{208}{Oooo quê? Seu mentiroso. Seu mentiroso. Me ensine agora!}{}{-4}{}{199}{}
+{209}{Eu tô confuso. Acho que você precisa me explicar! Agora!}{}{-4}{}{199}{}
+{210}{Eu vou matar você agora, homenzinho.}{}{-4}{}{0}{co}
+{211}{Não vou te impedir. Pode ir! E divirta-se!}{Não vou te impedir. Pode ir! E divirta-se!}{}{}{}{}
+{212}{Eu volto.}{}{5}{}{0}{re 50}
+{213}{Eu volto.}{}{-4}{}{0}{re 50}
+{214}{}{}{}{}{}{}
+{215}{Espere, você foi um bom esportista nisso. Por favor, aceite este belo revólver como símbolo da nossa amizade, tenho um suprimento interminável dessas coisas. Risco ocupacional, eu acho.}{Espere, você foi um bom esportista nisso. Por favor, aceite este belo revólver como símbolo da nossa amizade, tenho um suprimento interminável dessas coisas. Risco ocupacional, eu acho.}{}{}{}{in -2032}
+{216}{A:}{}{1}{}{}{fl 218}
+{217}{}{}{}{}{}{}
+{218}{De nada. Volte quando quiser para um amistoso intercâmbio de tiradas espirituosas! Tenha um bom dia.}{De nada. Volte quando quiser para um amistoso intercâmbio de tiradas espirituosas! Tenha um bom dia.}{}{}{}{}
+{219}{}{}{}{}{}{}
+{220}{Meu caro, você nem começou ainda! Quer que eu repasse as regras do nosso joguinho, seu troglodita meio-idiota?}{Meu caro, você nem começou ainda! Quer que eu repasse as regras do nosso joguinho, seu troglodita meio-idiota?}{}{}{}{}
+{221}{I:}{}{1}{}{0}{re 50}
+{222}{F:}{}{1}{}{0}{re 50}
+{223}{Quais eram as regras mesmo?}{}{5}{}{227}{}
+{224}{Por favor, me diga as regras de novo, homenzinho.}{}{-4}{}{227}{}
+{225}{E:}{}{1}{}{0}{re 50}
+{226}{}{}{}{}{}{}
+{227}{Estas são as regras. Tem que ser de dia, você tem que estar nu... e tem que correr pra cima e pra baixo na Kensington Broadway e ao redor desta Praça algumas vezes. Quando terminar, volte aqui e eu te treino.}{Estas são as regras. Tem que ser de dia, você tem que estar nu... e tem que correr pra cima e pra baixo na Kensington Broadway e ao redor desta Praça algumas vezes. Quando terminar, volte aqui e eu te treino.}{}{}{}{}
+{228}{Claro, como pude esquecer?}{}{5}{}{0}{re 50}
+{229}{Eu digo obrigado, homenzinho.}{}{-4}{}{0}{re 50}
+{230}{E:}{}{1}{}{0}{re 50}
+{231}{}{}{}{}{}{}
+{232}{}{}{}{}{}{}
+

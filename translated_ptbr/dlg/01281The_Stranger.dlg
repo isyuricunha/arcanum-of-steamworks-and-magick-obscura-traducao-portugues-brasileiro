@@ -1,0 +1,59 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Saudações. Posso saber quem é você, cavalheiro?}{}{5}{me 0}{10}{}
+{3}{Olá, tudo bem? Tem um momento?}{}{5}{me 1}{81}{}
+{5}{Hã... Eu não sou muito esperto. Quem é você?}{}{-4}{me 0}{10}{}
+{6}{Oi! Tem dúvidas!}{}{-4}{me 1}{20}{}
+{7}{E:}{}{1}{}{0}{}
+{10}{[O homem à sua frente está vestido com mantos escuros. Ele olha furtivamente, de um lado para o outro, então encara com olhos duros e inexpressivos.] É melhor não fazer perguntas desse tipo, amigo. Provavelmente vai meter um sujeito como você numa enrascada das grandes. Não levo a mal... é só como as coisas funcionam por aqui...}{[O homem à sua frente está vestido com mantos escuros. Ele olha furtivamente, de um lado para o outro, então encara com olhos duros e inexpressivos.] É melhor não fazer perguntas desse tipo. Provavelmente vai meter uma moça como você numa enrascada das grandes.}{}{}{}{}
+{11}{Agradeço a dica, amigo.}{}{5}{}{20}{re +5 }
+{12}{É mesmo? Talvez queira ilustrar esse ponto...}{}{5}{}{55}{re -5}
+{14}{Ah... tá bom!}{}{-4}{}{20}{re +5 }
+{15}{Você diz coisas rudes... talvez eu esmague sua cabeça...}{}{-4}{}{55}{re -5}
+{16}{E:}{}{1}{}{0}{}
+{20}{[O homem olha você de cima a baixo, calculando... parece chegar a uma decisão.] Está procurando trabalho, amigo? É um homem que sabe manter a boca fechada... e ganhar um punhado de ouro?}{[O homem olha você de cima a baixo, calculando... parece chegar a uma decisão.] Está procurando trabalho, amiga? É uma mulher que sabe manter a boca fechada... e ganhar um punhado de ouro?}{}{}{}{}
+{21}{Agradeceria o trabalho... sou novo por aqui...}{}{5}{}{30}{re +5}
+{22}{Acho que não, mas obrigado pela oferta. Tenha um bom dia...}{}{5}{}{0}{}
+{23}{Como se eu fosse trabalhar para um degenerado sanguinário como você...}{}{5}{lf4 0}{55}{re -5, lf4 1}
+{24}{Ah... claro! Preciso de dinheiro!}{}{-4}{}{27}{}
+{25}{E:}{}{-4}{}{0}{}
+{27}{[Ele se aproxima, suas feições endurecendo.] Isso não é um serviço de ladrãozinho, meu amigo. Você parece um pouco lerdo, mas não pense que não corto sua garganta se estragar tudo. Não tenho paciência para fracassos...}{[Ele se aproxima, suas feições endurecendo.] Isso não é um serviço de ladrãozinho, minha amiga. Você parece um pouco lerda, mas não pense que não corto sua garganta se estragar tudo. Não tenho paciência para fracassos...}{}{}{}{}
+{28}{Entendi! O que preciso fazer?}{}{-4}{}{40}{}
+{29}{Ah... não gostei disso. É melhor ir...}{}{-4}{}{35}{lf1 1}
+{30}{[Ele se aproxima, suas feições endurecendo.] Isso não é um serviço de ladrãozinho, meu amigo. O trabalho não é difícil, mas o preço pelo fracasso é a morte. Entendemos um ao outro?}{[Ele se aproxima, suas feições endurecendo.] Isso não é um serviço de ladrãozinho, minha amiga. O trabalho não é difícil, mas o preço pelo fracasso é a morte. Entendemos uma à outra?}{}{}{}{}
+{31}{Claramente... o que é que preciso fazer?}{}{5}{}{40}{}
+{32}{Talvez eu não seja a pessoa certa para o trabalho...}{}{5}{}{35}{lf1 1}
+{35}{[O homem sorri, finamente.] Talvez seja melhor assim, estranho. Esse não é um trabalho para ser levado na brincadeira. Mas, se mudar de ideia, estarei por aqui...}{[O homem sorri, finamente.] Talvez seja melhor assim, estranha. Esse não é um trabalho para ser levado na brincadeira. Mas, se mudar de ideia, estarei por aqui...}{}{}{}{}
+{36}{E:}{}{1}{}{0}{}
+{40}{Aqui está a ordem, amigo. Na minha mão, tenho um bilhete lacrado. Você deve levá-lo daqui diretamente para o endereço que eu disser. Não deve olhar o bilhete. Nós saberemos se o fizer, e isso seria muito infeliz. Você receberá 100 peças de ouro pelo seu trabalho. Sem perguntas.}{Aqui está a ordem, amiga. Na minha mão, tenho um bilhete lacrado. Você deve levá-lo daqui diretamente para o endereço que eu disser. Não deve olhar o bilhete. Nós saberemos se o fizer, e isso seria muito infeliz. Você receberá 100 peças de ouro pelo seu trabalho. Sem perguntas.}{}{}{}{qu1061 1}
+{41}{Sou o seu homem.}{1}{5}{}{48}{qu1061 2}
+{42}{Sou a mulher para o trabalho.}{0}{5}{}{48}{qu1061 2}
+{43}{Prefiro não me envolver nisso. Tenha um bom dia...}{}{5}{}{35}{lf1 1}
+{44}{Tá bom.}{}{-4}{}{48}{qu1061 2}
+{45}{Hmm... eu não vou fazer isso...}{}{-4}{}{35}{lf1 1}
+{48}{Muito bem. [Ele lhe entrega o bilhete.] Como eu disse, não abra o bilhete. Entregue-o no número 36 da Rua Baixa Dervish e receba seu pagamento. Passar bem.}{Muito bem. [Ele lhe entrega o bilhete.] Como eu disse, não abra o bilhete. Entregue-o no número 36 da Rua Baixa Dervish e receba seu pagamento. Passar bem.}{}{}{}{in -5219}
+{49}{Bom dia para você.}{}{5}{}{0}{lf2 1}
+{50}{Tchau-tchau.}{}{-4}{}{0}{lf2 1}
+{55}{[O homem se posiciona diante de você.] Você não sabe o que está fazendo, garoto. Recomendo que vá embora.}{[O homem se posiciona diante de você.] Você não sabe o que está fazendo, garota. Recomendo que vá embora.}{}{}{}{}
+{56}{Eu recomendo que VOCÊ levante os punhos, covarde!}{}{5}{}{}{co, fl 61}
+{57}{Você obviamente não está à altura do desafio. Tenha um bom dia.}{}{5}{}{0}{lf3 1}
+{58}{Hmm... você não faz sentido. Eu vou embora agora.}{}{-4}{}{}{co, fl 61}
+{59}{Eu sei que vou te matar agora!}{}{-4}{}{0}{lf3 1}
+{61}{Você mexeu com o homem errado, garoto.}{Você mexeu com o homem errado, moça.}{}{}{}{}
+{63}{Ah... o tolo de língua afiada. Já aprendeu a controlá-la, garoto?}{Ah... a tola de língua afiada. Já aprendeu a controlá-la, moça?}{}{}{}{}
+{64}{Escute... talvez tenhamos começado com o pé esquerdo...}{}{5}{}{69}{re +5}
+{65}{Não... eu voltei para acabar com você.}{}{5}{}{}{co, fl 61}
+{66}{Desculpe pelo que aconteceu antes... quem sabe a gente se torna amigo?}{}{-4}{}{69}{re +5}
+{67}{Hmm, não... eu só voltei para te matar.}{}{-4}{}{}{co, fl 61}
+{69}{Entendo. Sim, talvez possamos continuar nossa conversa...}{Entendo. Sim, talvez possamos continuar nossa conversa...}{}{}{}{}
+{70}{Seria ótimo...}{}{5}{}{20}{lf3 0}
+{71}{Sim!}{}{-4}{}{20}{lf3 0}
+{73}{Você voltou? Mudou de ideia sobre o trabalho?}{Você voltou? Mudou de ideia sobre o trabalho?}{}{}{}{}
+{74}{Acredito que sim. Vamos repassar os detalhes.}{}{5}{}{40}{}
+{76}{Hmm... qual era o trabalho mesmo?}{}{-4}{}{40}{}
+{77}{E:}{}{1}{}{0}{}
+{79}{Não temos mais nada a dizer um ao outro, amigo. Para você, é como se nunca nos tivéssemos conhecido.}{Não temos mais nada a dizer um ao outro, amiga. Para você, é como se nunca nos tivéssemos conhecido.}{}{}{}{}
+{81}{Pois não?}{Pois não?}{}{}{}{}
+{82}{Eu estava pensando que talvez pudéssemos continuar nossa conversa...}{}{5}{}{20}{}
+{84}{Hmm... quem sabe a gente conversa de novo?}{}{-4}{}{20}{}
+{85}{E:}{}{-4}{}{0}{}
+

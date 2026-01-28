@@ -1,0 +1,96 @@
+{1}{[Parece haver algo de errado com este sujeito. Ele é extremamente belo de um jeito estranho, mas algo não parece certo, de alguma forma.] Bom dia, senhor.}{[Parece haver algo de errado com este sujeito. Ele é extremamente belo de um jeito estranho, mas algo não parece certo, de alguma forma.] Bom dia, senhora.}{}{}{}{ }
+{2}{Eu estava apenas admirando seu ídolo. O que pode me contar sobre ele?}{}{5}{gf2200 1, qa1095 1}{10}{re -10, lf0 0 }
+{3}{Estou aqui para recuperar o ídolo.}{}{5}{gf2200 1, qa1095 1}{20}{re -10, lf0 0 }
+{4}{Há algum trabalho por aqui, talvez?}{}{5}{gf2200 0}{0}{fl 320}
+{5}{Há algum trabalho por aqui, talvez?}{}{5}{gf2200 1, qu1095 0}{0}{fl 320}
+{6}{É óbvio para qualquer um que olhe para você que tem o ídolo roubado.}{}{10}{qa1095 1}{10}{re -10, lf0 0 }
+{7}{Estou aqui para recuperar o ídolo.}{}{10}{qa1095 1}{20}{re -10, lf0 0 }
+{9}{E:}{}{5}{}{0}{lf0 1 }
+{10}{[Ele começa a suar e olhar ao redor, desconfiado.] O que, ah, poderia querer dizer com isso?}{[Ele começa a suar e olhar ao redor, desconfiado.] O que, ah, poderia querer dizer com isso?}{}{}{}{ }
+{11}{Eu sei que você roubou o ídolo. Vim devolvê-lo.}{}{5}{}{20}{re-10 }
+{12}{Por que roubou o ídolo?}{}{5}{}{60}{ }
+{20}{Não vou deixar você ficar com ele! Não deve levá-lo! Vou matá-lo!}{Não vou deixar você ficar com ele! Não deve levá-lo! Vou matá-lo!}{}{}{}{ }
+{21}{Não há necessidade de violência. Podemos conversar sobre isso, não podemos?}{}{5}{}{30}{ }
+{23}{Preciso dos nomes de seus parentes mais próximos para registrar sua morte.}{}{5}{}{80}{re-10 }
+{29}{Tudo bem, acalme-se. Voltarei mais tarde.}{}{5}{}{70}{ }
+{30}{[Ele parece se acalmar um pouco.] Suponho que possamos conversar. Mas você não vai levá-lo!}{[Ele parece se acalmar um pouco.] Suponho que possamos conversar. Mas você não vai levá-lo!}{}{}{}{ }
+{31}{Por que está tão apegado àquela coisa? É só uma estátua.}{}{5}{}{40}{ }
+{40}{Não, não é. Tem... poderes, de alguma forma. Não é mágico, mas transforma quem o possui. Eu era uma pessoa feia e odiada. Em uma cidade onde todos são amados e bem-vindos, eu era rejeitado! Mas agora que possuo o ídolo, as pessoas me tratam com amor e respeito.}{Não, não é. Tem... poderes, de alguma forma. Não é mágico, mas transforma quem o possui. Eu era uma pessoa feia e odiada. Em uma cidade onde todos são amados e bem-vindos, eu era rejeitado! Mas agora que possuo o ídolo, as pessoas me tratam com amor e respeito.}{}{}{}{gf2201 1 }
+{41}{Como você era rejeitado?}{}{5}{}{50}{ }
+{42}{Mas o ídolo não é seu. Ele pertence à cidade.}{}{5}{}{90}{ }
+{43}{Não me importo com seus problemas. Vou levar o ídolo de volta.}{}{5}{}{100}{ }
+{44}{Talvez eu pudesse convencê-lo a se desfazer da estátua.}{}{5}{ps8, gf2205 1}{110}{ }
+{50}{Bem, eles agiam como se eu fosse bem-vindo em seus festivais e reuniões, mas ninguém se importava em passar tempo comigo, ou mesmo falar comigo. Eu nunca havia sentido o toque de uma mulher! [Ele começa a soluçar, incontrolavelmente.]}{Bem, eles agiam como se eu fosse bem-vindo em seus festivais e reuniões, mas ninguém se importava em passar tempo comigo, ou mesmo falar comigo. Eu nunca havia sentido o toque de uma mulher! [Ele começa a soluçar, incontrolavelmente.]}{}{}{}{gf2201 1 }
+{52}{Entendo. Você deve ficar com o ídolo, então. Bom dia.}{}{5}{}{0}{lf1 1 }
+{53}{Você é tão patético que devo matá-lo para o seu próprio bem.}{}{5}{}{0}{fl 158 ,co}
+{54}{Sinto sua dor, mas o ídolo deve ser devolvido.}{}{5}{}{100}{re-10 }
+{55}{Talvez eu pudesse convencê-lo a abrir mão da estátua.}{}{5}{ps8, gf2205 1}{110}{ }
+{60}{Ele tem... poderes, de alguma forma. Não é mágico, mas transforma quem o possui. Eu era uma pessoa feia e odiada. Em uma cidade onde todos são amados e bem-vindos, eu era rejeitado! Mas agora que possuo o ídolo, as pessoas me tratam com amor e respeito.}{Ele tem... poderes, de alguma forma. Não é mágico, mas transforma quem o possui. Eu era uma pessoa feia e odiada. Em uma cidade onde todos são amados e bem-vindos, eu era rejeitado! Mas agora que possuo o ídolo, as pessoas me tratam com amor e respeito.}{}{}{}{gf2201 1 }
+{61}{Esse não é meu problema. Vou levá-lo de volta.}{}{5}{}{100}{ }
+{62}{Entendo. Você deve ficar com o ídolo, então. Tenha um bom dia.}{}{5}{}{0}{lf1 1 }
+{63}{Você é tão patético que devo matá-lo para o seu próprio bem.}{}{5}{}{0}{fl 158 ,co}
+{64}{Talvez eu pudesse convencê-lo a abrir mão da estátua.}{}{5}{ps8, gf2205 1}{110}{ }
+{70}{Não posso deixá-lo ir embora. Você contará a todos que eu o tenho. Ninguém pode tirar este ídolo de mim, ele é tudo que torna minha vida suportável.}{Não posso deixá-lo ir embora. Você contará a todos que eu o tenho. Ninguém pode tirar este ídolo de mim, ele é tudo que torna minha vida suportável.}{}{}{}{ }
+{71}{O que você quer dizer? É só uma estátua.}{}{5}{}{40}{ }
+{72}{Não se preocupe, eu o matarei antes de ir embora.}{}{5}{}{80}{re-10 }
+{80}{Não zombe de mim! Estou falando sério, matarei para ficar com essa estátua!}{Não zombe de mim! Estou falando sério, matarei para ficar com essa estátua!}{}{}{}{ }
+{81}{O que há com você e essa coisa? É só uma estátua!}{}{5}{}{40}{ }
+{82}{Vou matá-lo simplesmente pelo prazer de fazê-lo.}{}{5}{}{0}{fl 158 ,co}
+{90}{Eles não merecem isso! Pessoas estúpidas e bonitas, o que sabem sobre dor?}{Eles não merecem isso! Pessoas estúpidas e bonitas, o que sabem sobre dor?}{}{}{}{ }
+{91}{Sinto sua dor, mas o ídolo deve ser devolvido.}{}{5}{}{100}{ }
+{92}{Se tentar me impedir, vou mostrar o que é dor de verdade!}{}{5}{}{0}{fl 158 ,co}
+{100}{Não zombe de mim! Estou falando sério, matarei para ficar com essa estátua!}{Não zombe de mim! Estou falando sério, matarei para ficar com essa estátua!}{}{}{}{ }
+{101}{Entendo. Vou deixá-lo ficar com o ídolo, então. Tenha um bom dia.}{}{5}{}{0}{lf1 1 }
+{102}{Vou matá-lo simplesmente pelo prazer de fazê-lo.}{}{5}{}{0}{fl 158 ,co}
+{103}{Talvez eu pudesse convencê-lo a abrir mão da estátua.}{}{5}{ps8, gf2205 1}{110}{ }
+{110}{Não vejo o que poderia me oferecer para me convencer a mudar de ideia.}{Não vejo o que poderia me oferecer para me convencer a mudar de ideia.}{}{}{}{ }
+{111}{Vou pedir à sacerdotisa que o abençoe.}{}{5}{lf5 0}{280}{gf2203 1 }
+{112}{Vou pedir à sacerdotisa que o abençoe.}{}{5}{lf5 1}{290}{gf2203 1 }
+{120}{Você arruinou minha vida ao tirar o ídolo de mim! Vou matá-lo!}{Você arruinou minha vida ao tirar o ídolo de mim! Vou te matar!}{}{}{}{ }
+{158}{Vou fazer o mundo inteiro sentir minha dor, começando por você!}{Vou fazer o mundo inteiro sentir minha dor, começando por você!}{}{}{}{ }
+{170}{Tenha um bom dia, viajante.}{Tenha um bom dia, viajante.}{}{}{}{ }
+{171}{Tenho más notícias. Preciso levar o ídolo.}{}{5}{gf2206 1}{180}{re-10 }
+{172}{Estou levando o ídolo. Vou ter que te matar?}{}{5}{}{190}{re-20 }
+{179}{E:}{}{5}{}{0}{ }
+{180}{Mas você disse que eu poderia ficar com ele!}{Mas você disse que eu poderia ficar com ele!}{}{}{}{ }
+{181}{Não consegui convencer a sacerdotisa.}{}{5}{}{190}{re-10 }
+{182}{Não me importa o que eu disse. Saia da frente ou morra!}{}{5}{}{0}{fl 158 ,co}
+{183}{Com certeza deve haver uma maneira de convencê-lo a abrir mão dele.}{}{5}{ps8, gf2205 1}{110}{ }
+{190}{[Ele começa a tremer de raiva.] NINGUÉM VAI TIRAR O ÍDOLO DE MIM! VOU TE MATAR PRIMEIRO!}{[Ele começa a tremer de raiva.] NINGUÉM VAI TIRAR O ÍDOLO DE MIM! VOU TE MATAR PRIMEIRO!}{}{}{}{ }
+{191}{Tudo bem, acalme-se. Você pode ficar com ele.}{}{5}{}{0}{lf3 1, lf6 1, lf1 1 }
+{192}{Então é hora de você morrer.}{}{5}{}{0}{fl 158 ,co}
+{201}{É melhor você não estar aqui para tentar roubar o ídolo.}{É melhor você não estar aqui para tentar roubar o ídolo.}{}{}{}{ }
+{210}{Tenha um bom dia... [ele olha para você, desconfiado]... Ei! Você está com o ídolo! Devolva-o, ou serei forçado a te matar!}{Tenha um bom dia... [ele olha para você, desconfiado]... Ei! Você está com o ídolo! Devolva-o, ou serei forçado a te matar!}{}{}{}{ }
+{211}{Como você descobriu?}{}{5}{}{270}{ }
+{212}{Não vou te dar nada, tolo!}{}{5}{}{220}{re-20 }
+{213}{Tá bom, você me pegou. [Dê o ídolo a ele.]}{}{5}{}{0}{lf1 1, in5657, fl 310 ,lf6 1, lf15 1}
+{220}{Não zombe de mim! Estou falando sério, vou matar para recuperar essa estátua!}{Não zombe de mim! Estou falando sério, vou matar para recuperar essa estátua!}{}{}{}{ }
+{221}{Acalme-se, aqui está.}{}{5}{}{0}{lf6 1, lf15 1, lf1 1, in5657, fl 310}
+{222}{Vou te matar simplesmente pelo prazer de fazê-lo.}{}{5}{}{0}{fl 158 ,co}
+{223}{Você não pode ficar com ele. Preciso devolvê-lo à sacerdotisa.}{}{5}{qa1095 1}{230}{ }
+{230}{Eles não podem ficar com ele! Eles não precisam dele como eu, todos eles são lindos!}{Eles não podem ficar com ele! Eles não precisam dele como eu, todos eles são lindos!}{}{}{}{ }
+{231}{Do que você está falando? É só uma estátua!}{}{5}{}{240}{ }
+{232}{Não gosto de choramingões simplórios como você. Acho que vou te matar.}{}{5}{}{0}{fl 158 ,co}
+{240}{Não, não é. Ela tem... poderes, de alguma forma. Não é mágica, mas transforma quem a possui. Eu era uma pessoa feia e odiada. Em uma cidade onde todos são amados e bem-vindos, eu era rejeitado! Mas agora que possuo o ídolo, as pessoas me tratam com amor e respeito.}{Não, não é. Ela tem... poderes, de alguma forma. Não é mágica, mas transforma quem a possui. Eu era uma pessoa feia e odiada. Em uma cidade onde todos são amados e bem-vindos, eu era rejeitado! Mas agora que possuo o ídolo, as pessoas me tratam com amor e respeito.}{}{}{}{gf2201 1 }
+{241}{Como você foi rejeitado?}{}{5}{}{250}{ }
+{243}{Não me importo com seus problemas. Vou levar o ídolo de volta.}{}{5}{}{260}{re-20 }
+{244}{Talvez eu pudesse convencê-lo a me deixar sair com a estátua.}{}{5}{ps8, gf2205 1}{110}{lf5 1 }
+{250}{Bem, eles agiam como se eu fosse bem-vindo em seus festivais e encontros, mas ninguém se importava em passar tempo comigo, ou mesmo falar comigo. Eu nunca havia sentido o toque de uma mulher! [Ele começa a soluçar, incontrolavelmente.]}{Bem, eles agiam como se eu fosse bem-vindo em seus festivais e encontros, mas ninguém se importava em passar tempo comigo, ou mesmo falar comigo. Eu nunca havia sentido o toque de uma mulher! [Ele começa a soluçar, incontrolavelmente.]}{}{}{}{gf2201 1 }
+{252}{Entendo. Você deveria ficar com o ídolo, então. Tenha um bom dia.}{}{5}{}{0}{lf15 1, lf1 1, in5657 }
+{253}{Você é tão patético que devo matá-lo para o seu próprio bem.}{}{5}{}{0}{fl 158 ,co}
+{254}{Sinto sua dor, mas o ídolo deve ser devolvido.}{}{5}{}{260}{re-10 }
+{260}{Não zombe de mim! Estou falando sério, matarei para manter essa estátua!}{Não zombe de mim! Estou falando sério, matarei para manter essa estátua!}{}{}{}{ }
+{261}{Entendo. Aqui está o ídolo de volta, você pode ficar com ele.}{}{5}{}{0}{lf15 1, lf1 1, in5657 }
+{262}{Vou te matar simplesmente pelo prazer de fazê-lo.}{}{5}{}{0}{fl 158 ,co}
+{270}{A estátua o abençoou, posso perceber!}{A estátua o abençoou, posso perceber!}{}{}{}{ }
+{271}{Do que você está falando? É só uma estátua!}{}{5}{}{240}{ }
+{280}{Você faria isso? Isso seria maravilhoso! Finalmente serei aceito! Aqui está a chave do quarto onde tenho guardado o ídolo.}{Você faria isso? Isso seria maravilhoso! Finalmente serei aceito! Aqui está a chave do quarto onde tenho guardado o ídolo.}{}{}{}{in-4412 }
+{281}{Obrigado.}{}{5}{}{0}{lf4 1 }
+{290}{Você faria isso? Isso seria maravilhoso! Finalmente serei aceito!}{Você faria isso? Isso seria maravilhoso! Finalmente serei aceito!}{}{}{}{ }
+{291}{Devo me despedir, senhor.}{}{5}{}{0}{lf4 1 }
+{299}{Obrigado por mudar minha vida, bom senhor.}{Obrigado por mudar minha vida, senhora.}{}{}{}{ }
+{300}{Saudações, viajante.}{Saudações, viajante.}{}{}{}{ }
+{310}{É melhor você não voltar aqui para tentar roubar o ídolo.}{É melhor você não voltar aqui para tentar roubar o ídolo.}{}{}{}{ }
+{311}{Vou te matar por roubar meu ídolo amado!}{Vou te matar por roubar meu ídolo amado!}{}{}{}{ }
+{320}{Hmm. Nenhuma que eu me lembre. Bem, obrigado por passar aqui, a gente se vê. [Ele faz um gesto em direção à porta.]}{Hmm. Nenhuma que eu me lembre. Bem, obrigado por passar aqui, a gente se vê. [Ele faz um gesto em direção à porta.]}{}{}{}{ }
+

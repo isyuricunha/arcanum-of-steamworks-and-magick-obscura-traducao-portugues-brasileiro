@@ -1,0 +1,121 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{E quem poderia ser você?}{}{5}{re 41, lf1 0}{30}{}
+{3}{Não tenho certeza se gostei do seu tom, beberrão...}{}{5}{re -40}{25}{re +10}
+{4}{Senhor! Não fiz nada para ofendê-lo! Não poderíamos conversar?}{}{5}{re -40}{17}{re +10}
+{5}{Posso falar com você, Jacob?}{}{5}{lf1 1, lf3 0, lf4 0}{17}{}
+{6}{Saudações, Jacob Bens. Vamos falar novamente sobre sua proposta...}{}{5}{lf1 1, lf3 1}{85}{}
+{7}{Ainda não consegui abrir o cofre do banco, Jacob...}{}{5}{qu1059 2, gf2106 0}{}{fl 112}
+{8}{Fiz o trabalho, Jacob, mas estou um pouco sem ouro...}{}{5}{$$-249, gf2106 1, qu1059 2}{93}{}
+{9}{Voltei com seu dinheiro, Jacob... aqui, pegue...}{}{5}{$$250, gf2106 1, qu1059 2}{108}{$$-250}
+{10}{Hã... quem é você?}{}{-4}{lf1 0}{30}{}
+{11}{Hã... oi, Jake! Quer conversar...}{}{-4}{lf1 1, lf3 0, lf4 0}{17}{}
+{12}{Oi, Jake! Quero falar sobre o trabalho no banco...}{}{-4}{lf1 1, lf3 1}{85}{}
+{13}{Ainda não roubei o dinheiro, Jake!}{}{-4}{qu1059 2, gf2106 0}{}{fl 112}
+{14}{Roubei o banco, Jake, mas não tenho ouro suficiente...}{}{-4}{$$-249, gf2106 1, qu1059 2}{93}{}
+{15}{Aqui está o dinheiro, Jake!}{}{-4}{$$250, gf2106 1, qu1059 2}{108}{}
+{16}{E:}{}{1}{}{0}{}
+{17}{[Ele olha para você, desconfiado. Então toma outro gole de sua cerveja.] Talvez a gente tenha algo pra conversar afinal, forasteiro. Tá procurando trabalho? Talvez ganhar umas moedas, rapidinho?}{[Ele olha para você, desconfiado. Então toma outro gole de sua cerveja.] Talvez a gente tenha algo pra conversar afinal, moça. Tá procurando trabalho? Talvez ganhar umas moedas, rapidinho?}{}{}{}{}
+{18}{E o senhor é...?}{}{5}{lf1 0}{30}{}
+{19}{Hã... quem é você?}{}{-4}{lf1 0}{30}{}
+{20}{Claro. Sempre estou procurando trabalho...}{}{5}{}{47}{}
+{21}{É! Dinheiro!}{}{-4}{}{47}{}
+{22}{Não tenho nada a ver com gente como você, que só pensa em cerveja...}{}{5}{}{39}{re -5}
+{23}{Acho que não... você está bêbado e fedido... não gosto de você...}{}{-4}{}{39}{re -5}
+{24}{E:}{}{1}{}{0}{}
+{25}{[Ele pensa um pouco em você, então recua.] Desculpe. Devo ter confundido o homem. Mas talvez tenhamos algo para conversar, de qualquer forma...}{[Ele pensa um pouco em você, então recua.] Desculpe. Devo ter confundido a mulher. Mas talvez tenhamos algo para conversar, de qualquer forma...}{}{}{}{}
+{26}{Era o que eu pensava. E quem é o senhor...?}{}{5}{lf1 0}{30}{}
+{27}{Talvez. Fale logo.}{}{5}{}{47}{re +5}
+{28}{Não acho que tenha interesse em nada que você tenha a dizer.}{}{5}{}{39}{re -5}
+{29}{E:}{}{5}{}{0}{}
+{30}{Eu sou Jacob Bens. E não costumo perder meu tempo com forasteiros, mas você parece um homem de quem posso precisar...}{Eu sou Jacob Bens. E não costumo perder meu tempo com forasteiros, mas você parece uma mulher de quem posso precisar...}{}{}{}{lf1 1}
+{31}{Hmmm. Talvez. Fale logo...}{}{5}{}{47}{re +5}
+{32}{Não acho que tenha interesse em nada que você tenha a dizer.}{}{5}{}{39}{re -5}
+{33}{E:}{}{5}{}{0}{}
+{34}{Hmm... o que você precisa, Jake?}{}{-4}{}{47}{re +5}
+{35}{E:}{}{-4}{}{0}{}
+{39}{Sério? [Ele desvia o olhar de você, voltando para sua caneca de cerveja.] Provavelmente você tem razão, Sr. Forasteiro. Tenho certeza de que não tenho nada de valor para dizer a alguém como você...}{Sério? [Ele desvia o olhar de você, voltando para sua caneca de cerveja.] Provavelmente você tem razão, Srta. Forasteira. Tenho certeza de que não tenho nada de valor para dizer a alguém como você...}{}{}{}{}
+{40}{Bem, talvez tenhamos algo sobre o que conversar...}{}{5}{}{47}{re +5}
+{41}{Não se esqueça disso também, bêbado. Tenha um bom dia...}{}{5}{}{}{lf2 1, fl 45}
+{42}{Hmm... talvez a gente POSSA conversar...}{}{-4}{}{47}{re +5}
+{43}{Eu disse que não gosto de você, fedorento. Tchau...}{}{-4}{}{}{lf2 1, fl 45}
+{45}{[Ele encara a caneca, emburrado.] Sua escolha, estranho. Não venha mais atrás do velho Jacob...}{[Ele encara a caneca, emburrado.] Sua escolha, estranho. Não venha mais atrás do velho Jacob...}{}{}{}{}
+{46}{}{}{}{}{}{}
+{47}{Gosto de um homem que reconhece uma oportunidade quando ela bate à porta. Aqui vai a informação, estranho, e certifique-se de guardar só para você...}{[Ele pisca para você.] Gosto de uma mulher que reconhece uma oportunidade quando ela bate à porta. Aqui vai a informação, e certifique-se de guardar só para você...}{}{}{}{}
+{48}{Então desembuche...}{1}{5}{}{51}{}
+{49}{Só mantenha as mãos longe e me conte...}{0}{5}{}{51}{}
+{50}{Hã... o quê?}{}{-4}{}{51}{}
+{51}{[Ele abaixa a voz, inclinando-se para você.] Vou ser breve. Você se considera do tipo que gosta de roubar, estranho?}{[Ele abaixa a voz, inclinando-se para você.] Vou ser breve. Você se considera do tipo que gosta de roubar, moça?}{}{}{}{}
+{52}{Sou um homem de muitos talentos, amigo. Continue...}{1}{5}{}{57}{re +5}
+{53}{Sou uma mulher que sabe se virar com uma fechadura...}{0}{5}{}{57}{re +5}
+{54}{Acho que não sou a pessoa que você procura. Tenha um bom dia...}{}{5}{}{0}{re -5}
+{55}{Claro! Posso fazer coisas de ladrão!}{}{-4}{}{57}{}
+{56}{E:}{}{-4}{}{0}{}
+{57}{[Ele sorri, olhando para os lados, um pouco de cerveja escorrendo pelo queixo.] Eu sabia que estava certo sobre você. Escute... não sou ladrão, mas tenho uma informação que pode nos deixar ricos...}{[Ele sorri, olhando para os lados, um pouco de cerveja escorrendo pelo queixo.] Eu sabia que estava certa sobre você. Escute... não sou ladra, mas tenho uma informação que pode nos deixar ricas...}{}{}{}{}
+{58}{Estou ouvindo...}{}{5}{}{60}{}
+{59}{É! Ricos!}{}{-4}{}{60}{}
+{60}{Tem um banco aqui na cidade, e ontem mesmo o pagamento da mina Bessie Toone foi depositado lá para guardar. Tem pelo menos 500 moedas de ouro naquele cofre agora. [Ele enfia a mão no bolso e tira um pedaço de papel.] Aqui está a combinação do cofre do banco. Ficou claro, estranho?}{Tem um banco aqui na cidade, e ontem mesmo o pagamento da mina Bessie Toone foi depositado lá para guardar. Tem pelo menos 500 moedas de ouro naquele cofre agora. [Ele enfia a mão no bolso e tira um pedaço de papel.] Aqui está a combinação do cofre do banco. Ficou claro, moça?}{}{}{}{}
+{61}{Cristalino, meu bom homem. Qual é a pegadinha?}{}{5}{gf2482 0}{67}{}
+{62}{Eu acho... hã... hein?}{}{-4}{gf2482 0}{67}{}
+{63}{Já fiz isso...}{}{5}{gf2482 1}{}{lf6 1, fl 135}
+{64}{Eu já tenho dinheiro!}{}{-4}{gf2482 1}{}{lf6 1, fl 135}
+{65}{Prefiro não falar mais sobre isso. Tenha um bom dia, senhor...}{}{5}{}{0}{}
+{66}{Hã, eu vou agora. Tchau...}{}{-4}{}{0}{}
+{67}{Aqui está o que vai acontecer... a gente divide o butim bem no meio. E corre o boato de que a Gangue Bowen vai assaltar o banco a qualquer dia agora, então é melhor (arrotar) você fazer isso o quanto antes. E se eu descobrir que você tá tentando (soluçar) dar no pé, eu mando o velho doutor atrás de você...}{Aqui está o que vai acontecer... a gente divide o butim bem no meio. E corre o boato de que a Gangue Bowen vai assaltar o banco a qualquer dia agora, então é melhor (arrotar) você fazer isso o quanto antes. E se eu descobrir que você tá tentando (soluçar) dar no pé, eu mando o velho doutor atrás de você...}{}{}{}{}
+{68}{Eu já cuidei dos Irmãos Bowen...}{}{5}{qu1060 4}{130}{}
+{69}{Eu já matei os Bowens no banco!}{}{-4}{qu1060 4}{130}{}
+{71}{Quem é o doutor?}{}{5}{}{78}{}
+{72}{A Gangue Bowen?}{}{1}{}{113}{}
+{73}{Entendo. Acho que podemos fechar um acordo aqui, Jacob.}{}{5}{}{85}{}
+{74}{Vamos ver. Talvez a gente converse sobre isso mais tarde...}{}{5}{}{0}{lf3 1 }
+{75}{Quem é o dotô?}{}{-4}{}{78}{}
+{76}{Sim! Eu roubo banco por dinheiro!}{}{-4}{}{85}{}
+{77}{Talvez... a gente conversa depois...}{}{-4}{}{0}{lf3 1 }
+{78}{O doutor? O Velho Doutor Roberts é a única lei de verdade que essa cidade tem... Deus sabe que o Couro Mole do Delegado Owens não vai fazer nada sobre nada. Se um homem precisa que algo seja feito do jeito certo nessa cidade, eles vão atrás do Doutor Roberts, e se ele achar que vale a pena, então é feito. Tenho certeza de que ele tem dinheiro naquele banco, então ele ficaria bem interessado se alguém fosse roubá-lo...}{O doutor? O Velho Doutor Roberts é a única lei de verdade que essa cidade tem... Deus sabe que o Couro Mole do Delegado Owens não vai fazer nada sobre nada. Se um homem precisa que algo seja feito do jeito certo nessa cidade, eles vão atrás do Doutor Roberts, e se ele achar que vale a pena, então é feito. Tenho certeza de que ele tem dinheiro naquele banco, então ele ficaria bem interessado se alguém fosse roubá-lo...}{}{}{}{}
+{79}{A Gangue Bowen?}{}{5}{}{113}{}
+{80}{Entendo. Bom, quais são os termos do nosso acordo, Jacob?}{}{5}{}{85}{}
+{81}{Vou ter que pensar sobre isso. Eu volto a falar com você...}{}{5}{}{0}{lf3 1 }
+{82}{Quem é a Gangue Bowen?}{}{-4}{}{113}{}
+{83}{Hã... assustador. Então, o que eu faço agora?}{}{-4}{}{85}{}
+{84}{Vou pensar sobre isso... a gente conversa depois...}{}{-4}{}{0}{lf3 1 }
+{85}{Tá bom. Eu te dou a combinação do cofre, você arromba o banco e rouba aquela folha de pagamento. Depois, você me encontra aqui antes do meio-dia do dia seguinte e me dá meus 250 de ouro. Se eu não ver sua cara (soluçar) aqui, então eu vou direto falar pro Roberts quem roubou o dinheiro dele...}{Tá bom. Eu te dou a combinação do cofre, você arromba o banco e rouba aquela folha de pagamento. Depois, você me encontra aqui antes do meio-dia do dia seguinte e me dá meus 250 de ouro. Se eu não ver sua cara (soluçar) aqui, então eu vou direto falar pro Roberts quem roubou o dinheiro dele...}{}{}{}{qu1059 1}
+{86}{Trato feito.}{}{5}{}{90}{lf3 0, lf4 1, qu1059 2}
+{87}{Talvez... eu volto a falar com você. Bom dia...}{}{5}{}{0}{lf3 1 }
+{88}{Claro!}{}{-4}{}{90}{lf3 0, lf4 1, qu1059 2}
+{89}{Vou pensar sobre isso... a gente conversa depois...}{}{-4}{}{0}{lf3 1 }
+{90}{Bom, bom. [Ele te entrega o pedaço de papel.] Eu vou estar aqui, esperando, até o meio-dia do dia depois que você fizer o serviço. (Arrotar). Não me passe a perna, forasteiro...}{Bom, bom. [Ele te entrega o pedaço de papel.] Eu vou estar aqui, esperando, até o meio-dia do dia depois que você fizer o serviço. (Arrotar). Não me passe a perna, forasteira...}{}{}{}{in -5218, gf2126 1}
+{91}{Até mais tarde, Jacob.}{}{5}{}{0}{}
+{92}{Tchau, Jake!}{}{-4}{}{0}{}
+{93}{O quê? [Ele sibila baixinho.] Eu recomendo que você encontre o dinheiro, e logo, amigo. Ou você sabe pra quem eu vou fazer uma visitinha amigável. Tá me entendendo?}{O quê? [Ele sibila baixinho.] Eu recomendo que você encontre o dinheiro, e logo, amigo. Ou você sabe pra quem eu vou fazer uma visitinha amigável. Tá me entendendo?}{}{}{}{}
+{94}{Claro. Vou me despedir de você.}{}{5}{}{0}{}
+{95}{Talvez eu tenha reconsiderado. Você é um fio solto, Bens...}{}{5}{}{98}{re -5}
+{96}{Hã... tá bom... tchau...}{}{-4}{}{0}{}
+{97}{Estou cansado do seu bafo fedido. Talvez eu feche essa sua boca burra...}{}{-4}{}{98}{re -5}
+{98}{Ah, é? [Bens se levanta, trêmulo, seu hálito pesado de cerveja.] Tá pensando em fazer alguma coisa, forasteiro? [Ele fala alto; alguns frequentadores olham para você. É óbvio que você é o estranho aqui.]}{Ah, é? [Bens se levanta, trêmulo, seu hálito pesado de cerveja.] Tá pensando em fazer alguma coisa, forasteiro? [Ele fala alto; alguns frequentadores olham para você. É óbvio que você é o estranho aqui.]}{}{}{}{}
+{99}{Talvez eu tenha falado rápido demais. Vou me despedir de você...}{}{5}{}{105}{}
+{100}{Você me ouviu, Bens. Vou acabar com você agora mesmo...}{}{5}{}{}{co, fl 103}
+{101}{Tá bom, Jake... vou indo agora...}{}{-4}{}{105}{}
+{102}{Vou te matar agora, Jake. Você me deixou com raiva...}{}{-4}{}{}{co, fl 103}
+{103}{Desgraçado traiçoeiro. Deixa eu pôr as mãos em você...!}{Desgraçado traiçoeiro. Deixa eu pôr as mãos em você...!}{}{}{}{}
+{105}{[Ele sussurra.] Assim é melhor, forasteiro. Você não tem muito tempo até o meio-dia... Recomendo que encontre esse dinheiro e traga seu traseiro de volta aqui...}{[Ele sussurra.] Assim é melhor, moça. Você não tem muito tempo até o meio-dia... Recomendo que encontre esse dinheiro e traga seu traseirinho bonito de volta aqui...}{}{}{}{}
+{106}{E:}{}{5}{}{0}{}
+{107}{E:}{}{-4}{}{0}{}
+{108}{Sim... bem feito, estranho. Ouvi dizer que você conseguiu resolver isso, direitinho. Obrigado (hic). Foi um prazer fazer negócios com você... (Arroto).}{Sim... bem feito, estranho. Ouvi dizer que você conseguiu resolver isso, direitinho. Obrigado (hic). Foi um prazer fazer negócios com você... (Arroto).}{}{}{}{qu1059 4}
+{109}{Tenha um bom dia, Jacob...}{}{5}{}{0}{lf5 1}
+{110}{Tchau, Jake...}{}{-4}{}{0}{lf5 1}
+{111}{[Jacob pisca para você.] Não vá colocando seu dinheiro no banco por aqui, estranho. Isso é um conselho de graça...}{[Jacob pisca para você.] Não vá colocando seu dinheiro no banco por aqui, estranho. Isso é um conselho de graça...}{}{}{}{}
+{112}{Shhhhh! Cala a boca, homem! Quer contar para todo mundo nessa maldita cidade? (hic) Agora... suma daqui e não volte (arroto) até ter o me-dinheiro...}{Shhhhh! Cala a boca, moça! Quer contar para todo mundo nessa maldita cidade? (hic) Agora... suma daqui e não volte (arroto) até ter o me-dinheiro...}{}{}{}{}
+{113}{Os Bowens? Ah, são só um bando de encrenqueiros que passam por aqui de vez em quando, quando acham que o Velho Doutor Roberts não tá olhando. Acho que eles devem ter ficado sem (hic) dinheiro pra bebida e tão vindo fazer um saque...}{Os Bowens? Ah, são só um bando de encrenqueiros que passam por aqui de vez em quando, quando acham que o Velho Doutor Roberts não tá olhando. Acho que eles devem ter ficado sem (hic) dinheiro pra bebida e tão vindo fazer um saque...}{}{}{}{}
+{114}{Entendi. Quem é o Doutor Roberts?}{}{5}{}{78}{}
+{115}{Entendi. Acho que podemos fechar um acordo aqui, Jacob.}{}{5}{}{85}{}
+{116}{Veremos. Talvez a gente converse sobre isso mais tarde...}{}{5}{}{0}{lf3 1 }
+{117}{Quem dotô?}{}{-4}{}{78}{}
+{118}{Sim! Eu roubo banco por dinheiro!}{}{-4}{}{85}{}
+{119}{Talvez... a gente converse depois...}{}{-4}{}{0}{lf3 1 }
+{130}{Foi você? Bem feito. [Jacob ri, cuspindo cerveja em si mesmo.] Primeiro você salva o banco, e agora vai assaltá-lo! Ha! Você é definitivamente o meu tipo de pessoa! [Ele dá um tapa nas suas costas, quase caindo no processo.]}{Foi você? Bem feito. [Jacob ri, cuspindo cerveja em si mesmo.] Primeiro você salva o banco, e agora vai assaltá-lo! Ha! Você é definitivamente o meu tipo de pessoa! [Ele dá um tapa nas suas costas, quase caindo no processo.]}{}{}{}{}
+{131}{Entendo. Acho que podemos fechar um acordo aqui, Jacob.}{}{5}{}{85}{}
+{132}{Veremos. Talvez conversemos sobre isso mais tarde...}{}{5}{}{0}{lf3 1 }
+{133}{Sim! Eu assalto banco por dinheiro!}{}{-4}{}{85}{}
+{134}{Talvez... conversamos depois...}{}{-4}{}{0}{lf3 1 }
+{135}{[Jacob parece abatido e volta a beber.] Acho que não temos mais nada para conversar. Tenha um bom dia...}{[Jacob parece abatido e volta a beber.] Acho que não temos mais nada para conversar. Tenha um bom dia...}{}{}{}{}
+{136}{Seu bastardo traidor! Espere só até o velho Doutor Roberts colocar as mãos em você!}{Seu bastardo traidor! Espere só até o velho Doutor Roberts colocar as mãos em você!}{}{}{}{}
+

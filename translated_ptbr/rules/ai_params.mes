@@ -1,0 +1,73 @@
+// This file contains parameters for AI packets in NPC's.
+// The numbers on each line have the following meaning:
+//	Given a line N with data D1 D2 D3 D4 D5...
+//	The values stand for:
+
+// ---- the first five are fleeing params
+//	D1:  percentage of NPC hit points below which NPC will flee
+//	D2:  number of people besides PC beyond which NPC will flee
+//	D3:  number of levels above NPC beyond which NPC will flee
+//	D4:  percentage of PC hit points below which NPC will never flee
+//	D5:  how far to flee, in tiles
+// ---- the next five are follow params
+//	D6:  the reaction level at which the NPC will not follow the PC
+//	D7:  how far PC align is above NPC align before NPC wont follow
+//	D8:  how far PC align is below NPC align before NPC wont follow
+//	D9:  how many levels the NPC can be above the PC and still join
+//	D10: how much a non-accidental hit will lower a follower's reaction
+// ---- the next two are kill-on-sight (KOS) params
+//	D11: NPC will attack if his reaction is below this
+//	D12: how different alignments can be before non-follower NPC attacks
+//	D13: alignment of target at (or above) which the good-aligned follower NPC will not attack
+// ---- the next params control spell use
+//	D14: chance of throwing defensive spell (as opposed to offensive)
+//	D15: chance of throwing a healing spell in combat
+// ---- the next params control combat
+//	D16: minimum distance in combat
+// ---- the next params control door and window usage
+//	D17: the NPC can open portals if this is nonzero and cannot if it is zero
+
+// The default AI packet is zero.
+{0}{0 1000 1000 20 6 20 1001 1000 2 0 0 2001 100 50 20 1 1}	// generic AI
+{1}{100 0 0 0 10 20 1001 1000 2 0 0 2001 100 75 100 0 1}	// flees immediately
+{2}{0 1000 1000 101 1 20 1001 1000 2 0 0 2001 100 50 100 0 1}	// never flees
+{3}{10 10 10 20 5 20 1001 1000 2 0 0 2001 100 50 100 0 1}  // original generic AI (sometimes flees)
+{4}{50 20 3 20 20 20 20 20 2 0 0 2001 100 15 100 0 1} // flees at 50
+{5}{0 1000 1000 101 1 -1000 2001 2001 30 0 -1000 2001 2001 50 20 0 1}	// Virgil AI
+{6}{20 5 5 20 5 20 1001 1000 2 0 0 2001 100 50 100 0 1}	// Hervor AI (flees at 20)
+{7}{0 1000 1000 101 1 20 1001 1000 8 0 0 2001 100 50 100 0 1}	// Chukka AI
+{8}{0 1000 1000 101 1 -1001 1001 1001 20 0 0 2001 2001 0 0 5 1}// Arronax AI
+{9}{0 1000 1000 101 1 20 1001 1000 2 0 -1000 2001 100 50 100 0 1}// Kerghan
+{10}{0 16 1000 20 7 1000 1000 1000 2 0 0 2001 100 20 0 4 1} // bowman no flee
+{11}{10 100 100 20 7 1000 1000 1000 2 0 0 2001 100 20 0 5 1} // ranged magic monster flee 10%
+{12}{10 7 100 15 6 1000 1000 1000 2 0 0 2001 100 30 0 1 1} // close combat monster flee 10%
+{13}{10 7 100 15 6 1000 1000 1000 2 0 0 2001 100 40 0 1 1} // close combat defense monster flee 10%
+{14}{0 10 100 15 6 1000 1000 1000 2 0 0 2001 100 20 0 1 1} // close combat
+{15}{0 100 100 20 7 1000 1000 1000 2 0 0 2001 100 20 0 5 1} // ranged magic monster no flee
+{16}{0 10 100 15 6 1000 1000 1000 2 0 0 2001 100 30 0 5 1} // close combat invis will move back 5 tiles
+{17}{0 1000 1000 20 6 20 1001 1000 25 0 0 2001 350 50 100 1 1} // Cynthia Boggs AI
+{18}{30 20 100 20 5 20 1001 1000 2 0 0 2001 100 50 100 0 1}  // Borag
+{19}{0 1000 1000 101 1 20 1001 1000 2 0 0 2001 100 50 100 0 0}//General Monster
+{20}{100 0 0 0 10 20 1001 1000 2 0 0 2001 100 75 2001 0 0}// clockwork decoy AI
+{21}{0 1000 1000 20 6 20 1001 1000 7 0 0 2001 2001 50 20 1 1}// Priscilla Penn
+{22}{0 1000 1000 20 6 15 2001 355 2 0 0 2001 100 0 20 1 1}//Magnus
+{23}{0 1000 1000 20 6 15 400 2001 2 0 0 2001 2001 0 20 1 1}//Torian
+{24}{0 1000 1000 20 6 15 2001 510 2 0 0 2001 100 40 20 5 1}//Raven
+{25}{0 1000 1000 101 1 -1000 2001 2001 5 0 -1000 2001 350 0 20 5 1}//Frank
+{26}{0 1000 1000 20 6 15 400 2001 2 0 0 2001 2001 30 20 5 1}//Zan
+{27}{0 1000 1000 20 6 15 2001 355 2 0 0 2001 100 0 20 1 1}//Gar
+{28}{0 1000 1000 20 6 15 2001 355 2 0 0 2001 100 0 20 1 1}//Loghaire
+{29}{0 1000 1000 20 6 15 250 2001 2 0 0 2001 2001 30 20 5 1}//Geoffrey
+{30}{0 1000 1000 20 6 15 2001 200 2 0 0 2001 100 40 20 5 1}//Perriman
+{31}{0 1000 1000 20 6 15 2001 2001 2 0 0 2001 2001 0 20 1 1}//Sogg
+{32}{0 1000 1000 20 6 15 2001 2001 2 0 0 2001 2001 0 20 5 1}//Vollinger
+{33}{0 1000 1000 20 6 25 150 2001 5 10 0 2001 2001 0 10 1 1}//Tollo
+{34}{0 1000 1000 20 6 15 2001 355 2 0 0 2001 300 0 20 5 1}//Waromon
+{35}{0 1000 1000 20 6 15 2001 410 2 0 0 2001 100 40 20 5 1}//Dante
+{36}{0 1000 1000 20 6 15 2001 2001 2 5 0 2001 500 0 20 1 1}//Sebastian
+{37}{0 1000 1000 20 6 15 2001 410 2 0 0 2001 100 0 50 1 1}//Jayna
+{38}{0 1000 1000 20 6 15 2001 400 2 0 0 2001 100 25 25 5 1}//Joachim
+{39}{5 10 0 20 20 20 1001 1000 2 0 0 2001 100 20 35 4 1} // Generic Bowman
+{40}{0 1000 1000 101 1 20 1001 1000 100 0 0 2001 100 50 100 0 1}// Murgo
+
+

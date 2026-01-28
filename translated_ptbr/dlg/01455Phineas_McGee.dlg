@@ -1,0 +1,130 @@
+{1}{G:}{G:}{}{}{}{lf 16 0}
+{2}{O que pode me contar sobre Ashbury?}{}{5}{lf 12 0 , re 41}{27}{lf 12 1}
+{3}{Perdão, acho que não ouvi direito...}{}{5}{re-40, ch9}{19}{re50}
+{4}{Por favor, me desculpe, senhor. Sinto muito por incomodá-lo, senhor.}{}{5}{re-40, ch-8}{23}{}
+{5}{Outro comentário desses e será o seu último.}{}{5}{lf 10 0, re-40, sk2 10}{11}{re45, lf 10 1}
+{6}{Eu não tenho que aturar isso de gente como você!}{}{5}{lf 10 1, re-40, sk2 10}{15}{re45}
+{7}{K:}{}{1}{re 41}{27}{}
+{9}{E:}{}{1}{}{0}{}
+{10}{Socorro! Socorro! Guardas!}{Socorro! Socorro! Guardas!}{}{}{}{ } 
+{11}{[Ele se mostra mais ameno com você.] Hmmm... Nunca vi você antes... o que quer de mim?}{[Ele se mostra mais ameno com você.] Hmmm... Nunca vi você antes... o que quer de mim?}{}{}{}{}
+{12}{Quero que pague pela sua falta de respeito, tolo!}{}{5}{}{}{co, fl 10}
+{13}{Apenas um momento do seu tempo.}{}{5}{}{27}{} 
+{14}{Nada. Adeus.}{}{5}{}{0}{ } 
+{15}{Ah, é você... de novo.}{Ah, é você... de novo.}{}{}{}{}
+{16}{Hora de pagar pela sua falta de respeito, verme!}{}{5}{}{}{co, fl 10}
+{17}{Tenho uma coisa ou duas para falar com você.}{}{5}{}{27}{} 
+{18}{F:}{}{5}{}{0}{ } 
+{19}{Hã? [Ele olha para você como se tivesse notado algo que havia perdido antes.] Você, ah, me pegou de surpresa e, uh, me assustou bastante. Peço desculpas pelo meu comentário, senhor.}{Hã? [Ele olha para você como se tivesse notado algo que havia perdido antes.] Você, ah, me pegou de surpresa e, uh, me assustou bastante. Peço desculpas pelo meu comentário, senhora.}{}{}{}{ } 
+{21}{Já está esquecido.}{}{5}{}{27}{ } 
+{22}{E:}{}{5}{}{0}{ } 
+{23}{[Ele parece muito impaciente com você.] Por que eu deveria dignar-me a falar com alguém da sua... criação... ou falta dela?}{[Ele parece muito impaciente com você.] Por que eu deveria dignar-me a falar com alguém da sua... criação... ou falta dela?}{}{}{}{ } 
+{24}{Por favor, senhor, peço apenas um momento do seu tempo.}{}{5}{}{27}{re41} 
+{26}{E:}{}{5}{}{0}{ } 
+{27}{O que é então?}{O que é então?}{}{}{}{}
+{28}{W:}{}{1}{lf 11 0}{38}{}
+{29}{C:}{}{1}{lf 16 0}{32}{lf 16 1}
+{30}{R:($0, 1070-1075)}{}{1}{lf 15 0}{32}{lf 15 1}
+{31}{E:}{}{1}{}{0}{}
+{32}{Mais alguma coisa?}{Mais alguma coisa?}{}{}{}{}
+{33}{W:}{}{1}{lf 11 0}{38}{}
+{34}{C:}{}{1}{lf 16 0}{32}{lf 16 1}
+{35}{Parece que você está passando por maus bocados, "Amigo".}{}{5}{sk 5 10, lf4 0, lf 11 1}{43}{}
+{36}{R:($0, 1070-1075)}{}{1}{lf 15 0}{32}{lf 15 1}
+{37}{E:}{}{1}{}{0}{}
+{38}{Pode me chamar de "amigo" por enquanto. Não gosto de responder muitas perguntas, pode ser perigoso para a saúde.}{Pode me chamar de "amigo" por enquanto. Não gosto de responder muitas perguntas, pode ser perigoso para a saúde.}{}{}{}{lf 11 1}
+{39}{Parece que você está passando por maus bocados, "amigo".}{}{5}{sk 5 10, lf4 0, lf 11 1}{43}{}
+{40}{K:}{}{1}{}{32}{}
+{41}{E:}{}{1}{}{0}{}
+{43}{Já estive melhor, isso é certo. Qual é o seu nome, senhor?}{Já estive melhor, isso é certo. Qual é o seu nome, senhor?}{}{}{}{lf4 1}
+{44}{Meu nome é @pcname@.}{}{5}{re -49}{60}{}
+{45}{Meu nome é @pcname@.}{}{5}{re 50}{47}{}
+{46}{Meu nome não é importante.}{}{5}{}{60}{}
+{47}{[Ele te examina.] Deixa eu te dar um conselho, @pcname@. No nosso ramo, não é muito sábio contar muito sobre si mesmo para estranhos. [Ele nota seu desconforto.] Mas fique tranquilo, rapaz, você não corre perigo com Phineas McGee! [Ele ri.] Por acaso conhece um amigo meu chamado Pollock em Tarant?}{[Ele te examina.] Deixa eu te dar um conselho, @pcname@. No nosso ramo, não é muito sábio contar muito sobre si mesmo para estranhos. [Ele nota seu desconforto.] Mas fique tranquila, moça, você não corre perigo com Phineas McGee! [Ele ri.] Por acaso conhece um amigo meu chamado Pollock em Tarant?}{}{}{}{}
+{48}{Não, acho que não tive esse prazer.}{}{5}{}{67}{}
+{49}{Sim, já ouvi falar dele.}{}{5}{qa 1089 1}{54}{re -5}
+{50}{Hah! Esse cão já está a dois metros debaixo da terra!}{}{5}{gf2187 1}{127}{re + 15, lf 13 1}
+{51}{Pode-se dizer que eu e ele tivemos... negócios.}{}{5}{qa 1089 2}{54}{re -5}
+{52}{Sim, conheço esse verme traiçoeiro e sarnento!}{}{5}{qa 1089 1}{69}{re + 10}
+{53}{E:}{}{5}{}{0}{}
+{54}{[Ele parece um pouco nervoso, de repente.] Bem, uh, eu sempre digo que qualquer amigo de Pollock é meu amigo. Errr... como posso te ajudar?}{[Ele parece um pouco nervoso, de repente.] Bem, uh, eu sempre digo que qualquer amigo de Pollock é meu amigo. Errr... como posso te ajudar?}{}{}{}{lf 17 1}
+{55}{R:($0, 1070-1075)}{}{5}{}{133}{}
+{56}{Eu disse que conheço Pollock... ele NÃO é meu amigo.}{}{5}{}{67}{lf 17 0}
+{57}{C:}{}{5}{}{133}{}
+{58}{E:}{}{1}{}{0}{}
+{59}{}{}{}{}{}{}
+{60}{Hmm... acho que não nos conhecemos. Você conhece um amigo meu chamado Pollock?}{Hmm... acho que não nos conhecemos. Você conhece um amigo meu chamado Pollock?}{}{}{}{}
+{61}{Não, acho que não tive esse prazer.}{}{5}{}{67}{}
+{62}{Sim, já ouvi falar dele.}{}{5}{qa 1089 1}{54}{}
+{63}{Hah! Esse cão já está a dois metros debaixo da terra!}{}{5}{gf2187 1}{127}{re + 15, lf 13 1}
+{64}{Pode-se dizer que eu e ele tivemos... negócios.}{}{5}{qa 1089 2}{54}{}
+{65}{Sim, conheço esse verme traiçoeiro e sarnento!}{}{5}{qa 1089 1}{69}{}
+{66}{E:}{}{5}{}{0}{}
+{67}{Bem... como posso te ajudar?}{Bem... como posso te ajudar?}{}{}{}{}
+{68}{O que aconteceu com a sua sorte, "amigo"?}{}{5}{}{72}{}
+{69}{Eu também não tenho apreço por ele!}{Eu também não tenho apreço por ele!}{}{}{}{}
+{70}{O que você tem contra Pollock?}{}{5}{}{72}{}
+{71}{O que pode me contar sobre Ashbury?}{}{5}{}{117}{}
+{72}{Bem, essa é uma longa história, mas foi o Pollock que acabou com a minha carreira profissional. Maldito seja!, amaldiçoado o dia em que ele nasceu!}{Bem, essa é uma longa história, mas foi o Pollock que acabou com a minha carreira profissional. Maldito seja!, amaldiçoado o dia em que ele nasceu!}{}{}{}{}
+{73}{Entendo, poderia me contar um pouco mais sobre isso?}{}{5}{}{76}{}
+{74}{Azar o seu, amigo. Mas tenho algumas perguntas, no entanto...}{}{5}{}{117}{}
+{76}{Foi em parte culpa minha, admito. Eu era novo em Tarant e não sabia de nada, especialmente sobre as gangues no Caldeirão. Então lá estava eu, numa taverna chamada Caleb Malloy's, exercendo minha profissão com os locais, e vejo um Meio-Ogro grandalhão e de aparência burra, cuja bolsa estava quase arrebentando, praticamente implorando para que eu a pegasse.}{Foi em parte culpa minha, admito. Eu era novo em Tarant e não sabia de nada, especialmente sobre as gangues no Caldeirão. Então lá estava eu, numa taverna chamada Caleb Malloy's, exercendo minha profissão com os locais, e vejo um Meio-Ogro grandalhão e de aparência burra, cuja bolsa estava quase arrebentando, praticamente implorando para que eu a pegasse.}{}{}{}{}
+{77}{Teria sido difícil resistir a uma oportunidade dessas.}{}{5}{}{80}{}
+{78}{Eu teria aconselhado cautela nessas circunstâncias.}{}{5}{}{80}{}
+{79}{E:}{}{1}{}{0}{}
+{80}{Bom, o Meio-Ogro não era tão burro quanto parecia. Quando fui cortar a bolsa dele, ele percebeu na hora e, antes que eu soubesse o que estava acontecendo, ele já me segurava de cabeça para baixo pelo tornozelo e gritava sobre me dar uma lição, sobre ensinar a todo mundo para nunca cruzar com Pollock!}{Bom, o Meio-Ogro não era tão burro quanto parecia. Quando fui cortar a bolsa dele, ele percebeu na hora e, antes que eu soubesse o que estava acontecendo, ele já me segurava de cabeça para baixo pelo tornozelo e gritava sobre me dar uma lição, sobre ensinar a todo mundo para nunca cruzar com Pollock!}{}{}{}{}
+{81}{Meu Deus! Que horrível!}{}{5}{}{85}{}
+{82}{Deixa eu adivinhar... essa história não termina bem para você.}{}{5}{}{85}{}
+{83}{E:}{}{1}{}{0}{}
+{85}{Eu não sabia o que ele ia fazer, mas comecei a implorar por misericórdia! Sabe, implorar pela minha vida! E o Pollock abriu um sorriso de Meio-Ogro maluco e me disse: "Você nunca mais vai roubar nada de novo!"}{Eu não sabia o que ele ia fazer, mas comecei a implorar por misericórdia! Sabe, implorar pela minha vida! E o Pollock abriu um sorriso de Meio-Ogro maluco e me disse: "Você nunca mais vai roubar nada de novo!"}{}{}{}{}
+{86}{O que ele quis dizer com isso?}{}{5}{}{90}{}
+{87}{[Você vê suas mãos deformadas.] Entendo.}{}{5}{pe 13}{95}{}
+{88}{E:}{}{1}{}{0}{}
+{90}{[Ele mostra as mãos.] Foi isso que ele quis dizer! Ele agarrou minhas mãos e começou a apertar com toda a força de Meio-Ogro que tinha. Rindo, ele estava! Ainda consigo ver a cara feia dele sorrindo enquanto esmagava minhas mãos... maldito cão! Olha... ele, ele quebrou todos os ossos!}{[Ele mostra as mãos.] Foi isso que ele quis dizer! Ele agarrou minhas mãos e começou a apertar com toda a força de Meio-Ogro que tinha. Rindo, ele estava! Ainda consigo ver a cara feia dele sorrindo enquanto esmagava minhas mãos... maldito cão! Olha... ele, ele quebrou todos os ossos!}{}{}{}{}
+{91}{Há algo que eu possa fazer para ajudar?}{}{5}{}{95}{}
+{92}{Lição difícil, meu amigo.}{}{5}{}{95}{}
+{93}{E:}{}{5}{}{0}{}
+{95}{Não é tão ruim assim... ainda me viro bem. Só preciso ter mais cuidado com meus projetos e tento ficar na minha também. Não quero mais problemas com a gangue do Pollock. Heh heh! Ashbury é tipo uma aposentadoria comparado ao Caldeirão.}{Não é tão ruim assim... ainda me viro bem. Só preciso ter mais cuidado com meus projetos e tento ficar na minha também. Não quero mais problemas com a gangue do Pollock. Heh heh! Ashbury é tipo uma aposentadoria comparado ao Caldeirão.}{}{}{}{lf3 1}
+{96}{Que tipo de projetos você está falando?}{}{5}{}{102}{}
+{97}{Quanto valeria para você ver o Pollock morto?}{}{5}{gf2187 0, lf 12 0}{110}{lf 12 1}
+{98}{Tenho uma novidade para você, Pollock está morto.}{}{5}{gf2187 1, lf 13 0}{114}{lf 13 1}
+{99}{Sim, este é um lugar muito mais agradável.}{}{5}{}{117}{}
+{100}{E:}{}{1}{}{0}{}
+{102}{Bom, por exemplo, só aceito trabalhos de baixo risco. Como trabalhar nas multidões em Tarant ou nessas reuniõezinhas patéticas aqui em Ashbury. As pessoas estão distraídas e não vigiam suas bolsas. Heh! Mesmo com essas mãos, ainda consigo surrupiar uma ou duas bolsas. Só não posso ficar ganancioso e tenho que sair de lá antes que a reunião acabe!}{Bom, por exemplo, só aceito trabalhos de baixo risco. Como trabalhar nas multidões em Tarant ou nessas reuniõezinhas patéticas aqui em Ashbury. As pessoas estão distraídas e não vigiam suas bolsas. Heh! Mesmo com essas mãos, ainda consigo surrupiar uma ou duas bolsas. Só não posso ficar ganancioso e tenho que sair de lá antes que a reunião acabe!}{}{}{}{lf0 1}
+{103}{Muito interessante.}{}{5}{}{106}{}
+{104}{E:}{}{1}{}{0}{}
+{106}{Sabe, quando as pessoas estão com a atenção fixa em outro lugar, é fácil, meu amigo! Basta ser rápido e não ficar por perto para ver o que acontece.}{Sabe, quando as pessoas estão com a atenção fixa em outro lugar, é fácil, meu amigo! Basta ser rápido e não ficar por perto para ver o que acontece.}{}{}{}{}
+{107}{Obrigado pela lição, Phineas.}{}{5}{}{117}{}
+{108}{O que você pode me contar sobre a próxima reunião?}{}{5}{}{124}{}
+{109}{E:}{}{1}{}{}{}
+{110}{Ei, bem, eu não quero mais problemas com o Pollock, ou com a gangue dele, aliás! Mas posso dizer que, se você me contasse que ele está morto, eu ficaria feliz em saber da notícia.}{Olha, bem, eu não quero mais problemas com o Pollock, ou com a gangue dele, aliás! Mas eu poderia dizer que, se você me contasse que ele está morto, eu ficaria grato em ouvir a notícia.}{}{}{}{lf1 1}
+{111}{Não te culpo. Aquela gangue é problema.}{}{5}{}{117}{}
+{112}{Bem, tenho boas notícias, senhor. Pollock está, de fato, morto.}{}{5}{gf2187 1}{114}{lf 13 1}
+{114}{Pollock, morto! Essa é a melhor notícia que ouvi em muito tempo. He he he. Só espero que tenha sido lento e doloroso!}{Pollock, morto! Essa é a melhor notícia que ouvi em muito tempo. He he he. Só espero que tenha sido lento e doloroso!}{}{}{}{}
+{115}{Às vezes, as pessoas recebem o que merecem.}{}{5}{}{117}{}
+{116}{Sua morte foi inevitável. Foi uma pena.}{}{5}{}{133}{}
+{117}{Bem, o que você gostaria de saber?}{Bem, o que você gostaria de saber?}{}{}{}{}
+{118}{E quanto ao projeto sobre o qual você estava falando?}{}{5}{lf0 0, lf3 1}{102}{}
+{119}{Quanto valeria para você ver o Pollock morto?}{}{5}{gf2187 0, lf 12 0}{110}{lf 12 1}
+{120}{Tenho notícias para você, Pollock está falecido.}{}{5}{gf2187 1, lf 13 0}{114}{lf 13 1}
+{121}{R:($0, 1070-1075)}{}{5}{}{133}{}
+{122}{E:}{}{1}{}{0}{}
+{124}{Próxima reunião? O que eu pareço? O secretário do Prefeito? He he he. Eles têm essas reuniões bobas o tempo todo. Basta perguntar ao Prefeito, ele vai te contar.}{Próxima reunião? O que eu pareço? O secretário do Prefeito? He he he. Eles têm essas reuniões bobas o tempo todo. Basta perguntar ao Prefeito, ele vai te contar.}{}{}{}{}
+{125}{A:}{}{5}{}{117}{}
+{127}{Pollock, morto! Essa é a melhor notícia que ouvi em muito tempo. He he he. Só espero que tenha sido lento e doloroso!}{Pollock, morto! Essa é a melhor notícia que ouvi em muito tempo. He he he. Só espero que tenha sido lento e doloroso!}{}{}{}{}
+{128}{O quê? Estou confuso. Achei que ele fosse seu amigo.}{}{5}{}{130}{}
+{130}{Pollock e eu cruzamos caminhos há muito tempo. Às vezes, acho que ele ainda está atrás de mim, então tenho cuidado com estranhos. Se as pessoas dizem que o conhecem, tento descobrir de que lado estão antes de me comprometer. Pollock e eu não temos nada além de sangue ruim entre nós.}{Pollock e eu cruzamos caminhos há muito tempo. Às vezes, acho que ele ainda está atrás de mim, então tenho cuidado com estranhos. Se as pessoas dizem que o conhecem, tento descobrir de que lado estão antes de me comprometer. Pollock e eu não temos nada além de sangue ruim entre nós.}{}{}{}{}
+{131}{Nunca se pode ser cuidadoso demais. O que aconteceu?}{}{5}{}{72}{}
+{133}{Mais alguma coisa?}{Mais alguma coisa?}{}{}{}{}
+{134}{R:($0, 1070-1075)}{}{5}{lf 17 0}{133}{}
+{135}{E:}{}{5}{}{0}{}
+{136}{[Ele está tremendo de medo, nervoso.] Uh, olá, de novo... err... o que posso fazer por você?}{[Ele está tremendo de medo, nervoso.] Uh, olá, de novo... err... o que posso fazer por você?}{}{}{}{re -10}
+{137}{R:($0, 1070-1075)}{}{5}{}{140}{}
+{138}{E:}{}{5}{}{0}{ fl  139}
+{139}{[Ele parece aliviado] Adeus.}{[com alívio] Adeus.}{}{}{}{}
+{140}{[Seu corpo ainda está tremendo de medo] É tudo o que sei... juro... por favor, não me machuque!}{[Seu corpo ainda está tremendo de medo] É tudo o que sei... juro... por favor, não me machuque!}{}{}{}{}
+{143}{E:}{}{1}{}{0}{ fl  139}
+{144}{}{}{}{}{}{}
+{145}{}{}{}{}{}{}
+{146}{}{}{}{}{}{}
+

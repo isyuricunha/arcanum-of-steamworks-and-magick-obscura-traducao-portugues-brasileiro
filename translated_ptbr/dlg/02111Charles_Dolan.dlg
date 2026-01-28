@@ -1,0 +1,85 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{B:}{}{1}{ta -69, ma -69}{69}{}
+{3}{T:9}{}{1}{ta -69, ma -69}{69}{}
+{4}{Que tipo de mercadorias você tem aqui?}{}{5}{re 41}{78}{}
+{5}{O que você tem?}{}{-4}{re 41}{78}{}
+{6}{Isso foi desnecessário.}{}{5}{re -40, ta -69, ma -69}{74}{}
+{7}{Podemos negociar?}{}{5}{re 41, me0, ma 70}{27}{}
+{8}{Isso foi rude... Podemos negociar?}{}{5}{re -40, me0, ma 70}{38}{}
+{9}{Podemos negociar?}{}{5}{re 41, me1, ma 70}{33}{}
+{10}{Isso foi rude... Podemos negociar?}{}{5}{re -40, me1, ma 70}{44}{}
+{11}{Podemos negociar?}{}{5}{re 41, me0, ta 70}{48}{}
+{12}{Isso foi rude... Podemos negociar?}{}{5}{re -40, me0, ta 70}{54}{}
+{13}{Podemos negociar?}{}{5}{re 41, me1, ta 70}{59}{}
+{14}{Isso foi rude... Podemos negociar?}{}{5}{re -40, me1, ta 70}{65}{}
+{15}{Isso foi maldoso.}{}{-4}{re -40, ta -69, ma -69}{74}{}
+{16}{Nós trocamos coisas.}{}{-4}{re 41, me0, ma 70}{27}{}
+{17}{Isso foi maldoso. Hã... Nós trocamos coisas.}{}{-4}{re -40, me0, ma 70}{38}{}
+{18}{Nós trocamos coisas.}{}{-4}{re 41, me1, ma 70}{33}{}
+{19}{Isso foi maldoso. Hã... Nós trocamos coisas.}{}{-4}{re -40, me1, ma 70}{44}{}
+{20}{Nós trocamos coisas.}{}{-4}{re 41, me0, ta 70}{48}{}
+{21}{Isso foi maldoso. Hã... Nós trocamos coisas.}{}{-4}{re -40, me0, ta 70}{54}{}
+{22}{Hã... Nós trocamos coisas.}{}{-4}{re 41, me1, ta 70}{59}{}
+{23}{Isso foi maldoso. Hã... Nós trocamos coisas.}{}{-4}{re -40, me1, ta 70}{65}{}
+{24}{Estou aqui para pegar algo para Jongle Dunne...}{}{1}{qu1058 2, lf1 0}{85}{lf1 1}
+{25}{E:}{}{1}{}{0}{}
+{27}{Ei! Você é um grande mago, não é? Não aparecem muitos como você por aqui. Prazer em conhecê-lo. Em que posso ajudá-lo?}{Ei! Você é um grande mago, não é? Não aparecem muitos como você por aqui. Prazer em conhecê-lo. Em que posso ajudá-lo?}{}{}{}{}
+{28}{T:9}{}{1}{}{69}{}
+{29}{Que tipo de mercadorias você tem aqui?}{}{5}{}{78}{}
+{30}{O que você tem?}{}{-4}{}{78}{}
+{31}{B:}{}{1}{}{69}{}
+{32}{E:}{}{1}{}{0}{}
+{33}{Bom ver você de novo @pcname@. O que posso te oferecer?}{Bom ver você de novo @pcname@. O que posso te oferecer?}{}{}{}{}
+{34}{T:9}{}{1}{}{69}{}
+{35}{B:}{}{1}{}{69}{}
+{36}{C:}{}{1}{}{69}{}
+{37}{E:}{}{1}{}{0}{}
+{38}{Ei! Você é um grande mago, não é? Desculpe por aquele comentário... Não aparecem muitos como você por aqui. O que posso fazer por você?}{Ei! Você é um grande mago, não é? Desculpe por aquele comentário... Não aparecem muitos como você por aqui. O que posso fazer por você?}{}{}{}{}
+{39}{T:9}{}{1}{}{69}{}
+{40}{Que tipo de mercadorias você tem aqui?}{}{5}{}{78}{}
+{41}{O que você tem?}{}{-4}{}{78}{}
+{42}{B:}{}{1}{}{69}{}
+{43}{E:}{}{1}{}{0}{}
+{44}{Oh! Desculpe por isso, @pcname@... Acho que o preconceito é forte por aqui, sabe? O que posso te oferecer?}{Oh! Desculpe por isso, @pcname@... Acho que o preconceito é forte por aqui, sabe? O que posso te oferecer?}{}{}{}{}
+{45}{T:9}{}{1}{}{69}{}
+{46}{B:}{}{1}{}{69}{}
+{47}{E:}{}{1}{}{0}{}
+{48}{Ei! Você é um desses seguidores da tecnologia de verdade, não é? Não aparecem muitos como você por aqui. Em que posso ajudá-lo?}{Ei! Você é uma dessas pessoas inteligentes da tecnologia, não é, moça? Não aparecem muitas como você por aqui. Em que posso ajudá-la?}{}{}{}{}
+{49}{T:9}{}{1}{}{69}{}
+{50}{Que tipo de mercadorias você tem aqui?}{}{5}{}{78}{}
+{51}{O que você tem?}{}{-4}{}{78}{}
+{52}{B:}{}{1}{}{69}{}
+{53}{E:}{}{1}{}{0}{}
+{54}{Bom ver você de novo @pcname@. O que posso te oferecer?}{Bom ver você de novo @pcname@. O que posso te oferecer?}{}{}{}{}
+{55}{T:9}{}{1}{}{69}{}
+{56}{B:}{}{1}{}{69}{}
+{57}{C:}{}{1}{}{69}{}
+{58}{E:}{}{1}{}{0}{}
+{59}{Ei! Você é um desses seguidores da tecnologia de verdade, não é? Desculpe por aquele comentário... Não aparecem muitos como você por aqui. O que posso fazer por você?}{Ei! Você é uma dessas pessoas inteligentes da tecnologia, não é, madame? Desculpe por aquele comentário... Não aparecem muitas como você por aqui. O que posso fazer por você?}{}{}{}{}
+{60}{T:9}{}{1}{}{69}{}
+{61}{Que tipo de mercadorias você tem aqui?}{}{5}{}{78}{}
+{62}{O que você tem?}{}{-4}{}{78}{}
+{63}{B:}{}{1}{}{69}{}
+{64}{E:}{}{1}{}{0}{}
+{65}{Oh! Desculpe por isso, @pcname@... Acho que o preconceito é forte por aqui, sabe? O que posso te oferecer?}{Oh! Desculpe por isso, @pcname@... Acho que o preconceito é forte por aqui, sabe? O que posso te oferecer?}{}{}{}{}
+{66}{T:9}{}{1}{}{69}{}
+{67}{B:}{}{1}{}{69}{}
+{68}{E:}{}{1}{}{0}{}
+{69}{Deseja mais alguma coisa?}{Deseja mais alguma coisa?}{}{}{}{}
+{70}{T:9}{}{1}{}{69}{}
+{71}{C:}{}{1}{}{69}{}
+{72}{B:}{}{1}{}{69}{}
+{73}{E:}{}{1}{}{0}{}
+{74}{O que você quer?}{O que você quer?}{}{}{}{}
+{75}{T:9}{}{1}{}{69}{}
+{76}{B:}{}{1}{}{69}{}
+{77}{E:}{}{1}{}{0}{}
+{78}{Dê uma olhada, senhor... Nossa especialidade aqui são mercadorias com preços razoáveis, de excelente qualidade. Temos itens comuns, um pouco de tudo que você possa precisar. Me avise se eu puder ajudar.}{Dê uma olhada, madame... Nossa especialidade aqui são mercadorias com preços razoáveis, de excelente qualidade. Temos itens comuns, um pouco de tudo que você possa precisar. Me avise se eu puder ajudar.}{}{}{}{}
+{79}{T:9}{}{1}{}{69}{}
+{80}{C:}{}{1}{}{69}{}
+{81}{B:}{}{1}{}{69}{}
+{82}{E:}{}{1}{}{0}{}
+{85}{Ah. O velho Jongle avisou que você apareceria, amigo. Tenho o pacote dele bem aqui. [Ele o entrega a você.] Aquele mago é só um velho maluco...}{Ah. O velho Jongle avisou que você apareceria, amigo. Tenho o pacote dele bem aqui. [Ele o entrega a você.] Aquele mago é só um velho maluco...}{}{}{}{in -5623}
+{86}{Obrigado. Que tipo de mercadorias você tem aqui?}{}{1}{}{78}{}
+{87}{E:}{}{1}{}{0}{}
+

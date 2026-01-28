@@ -1,0 +1,262 @@
+{1}{[A criatura diante de você está coberta de escamas, com uma grande boca cheia de dentes afiados e olhos do mais frio prata. Várias tatuagens cobrem grande parte de seu corpo.] Traidor de sangue-quente. Assassino de filhotes. O que o traz aqui? Que morte você traz? Que mentiras irá contar? Kan Kerai está diante de você. Meu poder é maior que o seu...}{[A criatura diante de você está coberta de escamas, com uma grande boca cheia de dentes afiados e olhos do mais frio prata. Várias tatuagens cobrem grande parte de seu corpo.] Traidor de sangue-quente. Assassino de filhotes. O que o traz aqui? Que morte você traz? Que mentiras irá contar? Kan Kerai está diante de você. Meu poder é maior que o seu...}{}{}{}{ru2130}
+{2}{Desculpe? Já nos encontramos antes? Nunca vi sua espécie...}{}{5}{}{9}{}
+{3}{Não sei quem ou o que você é, mas não gostei do seu tom...}{}{5}{}{82}{re -5, lc1 1}
+{9}{Eu conheço você, traidor. Conheço TODOS os seus rostos, sangue-quente. Todos iguais. Todos mentirosos e assassinos. Todos portadores da morte...}{Eu conheço você, traidor. Conheço TODOS os seus rostos, sangue-quente. Todos iguais. Todos mentirosos e assassinos. Todos portadores da morte...}{}{}{}{}
+{10}{Escute... talvez você devesse me explicar o que está acontecendo aqui...}{}{5}{}{20}{}
+{11}{O que você quer dizer com conhecer TODOS os nossos rostos...?}{}{5}{}{26}{}
+{12}{Você não sabe quem eu sou. É presunçoso da sua parte dizer isso...}{}{5}{}{90}{re -5, lc1 2}
+{13}{Você não passa de um selvagem. Eu o tratarei de acordo...}{}{5}{}{}{co, fl 80}
+{14}{Já estou cansado disso. Vou embora...}{}{5}{}{0}{lf4 1, lc2 1, re -3}
+{20}{Você sabe, sangue-quente. Covas forradas com dentes de metal, redes para capturar as mulheres, suas armas de clarão e dor. Vocês caçam bem as crianças e os velhos, mas Kan Kerai não é um alvo fácil. ENFRENTE-ME, sangue-quente...}{Você sabe, sangue-quente. Covas forradas com dentes de metal, redes para capturar as mulheres, suas armas de clarão e dor. Vocês caçam bem as crianças e os velhos, mas Kan Kerai não é um alvo fácil. ENFRENTE-ME, sangue-quente...}{}{}{}{}
+{21}{Covas com dentes... redes... seu povo está sendo caçado?}{}{5}{}{44}{}
+{22}{O que tudo isso tem a ver com o elfo mantido preso aqui?}{}{5}{}{49}{}
+{23}{Entendo que esteja chateado, mas não precisa ser tão hostil...}{}{5}{}{90}{re -5, lc1 3}
+{24}{E:}{}{5}{}{0}{lf4 1, lc2 2, re -3}
+{26}{Seus dois rostos. Suas palavras. Suas mentiras. Os Bedokaan vivem aqui nos Pântanos Sombrios desde que a lua era jovem e as águas cantavam para nós. Somos antigos. Não falamos sua língua. Você não conhece nossos costumes, os costumes dos de sangue-frio...}{Seus dois rostos. Suas palavras. Suas mentiras. Os Bedokaan vivem aqui nos Pântanos Sombrios desde que a lua era jovem e as águas cantavam para nós. Somos antigos. Não falamos sua língua. Você não conhece nossos costumes, os costumes dos de sangue-frio...}{}{}{}{}
+{27}{Sim, mas nem todos os <<<PH1>>> são iguais...}{}{5}{}{60}{}
+{28}{Quais são os <<<PH1>>>? Do que está falando?}{}{5}{}{32}{}
+{29}{Suas palavras são vazias. Não tenho escolha senão me livrar de você.}{}{5}{}{}{co, fl 80}
+{30}{E:}{}{5}{}{0}{lf4 1, lc2 3, re -3}
+{32}{Você não entenderia os costumes dos de sangue-frio. Sonhar o sonho antigo, as visões frias, viver pelo código dos pais-serpentes. A caça, as fúrias reptilianas, as águas frescas e os bancos de lama banhados pelo sol que chamamos de lar...}{Você não entenderia os costumes dos de sangue-frio. Sonhar o sonho antigo, as visões frias, viver pelo código dos pais-serpentes. A caça, as fúrias reptilianas, as águas frescas e os bancos de lama banhados pelo sol que chamamos de lar...}{}{}{}{}
+{33}{Seus costumes são estranhos, mas gostaria de aprendê-los...}{}{5}{}{38}{}
+{34}{Vamos nos concentrar no que é importante... o elfo prisioneiro...}{}{5}{}{49}{re -5}
+{35}{Você tem razão, não os entendo. E não pretendo entendê-los...}{}{5}{}{82}{re -5, lc1 5}
+{36}{E:}{}{5}{}{0}{lf4 1, lc2 4, re -3}
+{38}{Que utilidade teria para você nossos costumes? Para nos conhecer melhor e encontrar nossas fraquezas? Para nos destruir como sua espécie destruiu nossos lares e nossas terras? Esse é o único modo que vocês conhecem, sangue-quente, e Kan Kerai não mais o tolerará...}{Que utilidade teria para você nossos costumes? Para nos conhecer melhor e encontrar nossas fraquezas? Para nos destruir como sua espécie destruiu nossos lares e nossas terras? Esse é o único modo que vocês conhecem, sangue-quente, e Kan Kerai não mais o tolerará...}{}{}{}{}
+{39}{Eu fiz algo a você? Nem todos os sangue-quentes são iguais...}{}{5}{}{60}{}
+{40}{Para mim, está claro que você não tem intenção de falar de forma razoável...}{}{5}{}{90}{re -5, lc1 6}
+{41}{Espero sinceramente que isso não seja uma ameaça...}{}{5}{}{82}{re -5, lc1 7}
+{42}{E:}{}{5}{}{0}{lf4 1, lc2 5, re -3}
+{44}{Caçados? Sim, nossas mulheres e filhotes. Os mais velhos. Agora Kan Kerai irá caçar. Já capturei o pálido de orelhas pontudas, o sangue-quente. Prendi-o com meu poder. Você será o próximo. E então Kan Kerai irá até a aldeia das árvores dos sangue-quentes e a queimará até o chão...}{Caçados? Sim, nossas mulheres e filhotes. Os mais velhos. Agora Kan Kerai irá caçar. Já capturei o pálido de orelhas pontudas, o sangue-quente. Prendi-o com meu poder. Você será o próximo. E então Kan Kerai irá até a aldeia das árvores dos sangue-quentes e a queimará até o chão...}{}{}{}{}
+{45}{Você acha que o elfo estava caçando o seu povo?}{}{5}{}{49}{}
+{46}{Nunca me ameace, lagarto. Não tolerarei tais palavras...}{}{5}{}{90}{re -5, lc1 8}
+{47}{E:}{}{5}{}{0}{lf4 1, lc2 6}
+{49}{Você quer dizer orelha-pontuda? Pálido sangue-quente? Nós o capturamos, esgueirando-se em nossos pântanos, planejando mais mortes com suas armas e seus modos estranhos. Mas Kan Kerai caiu sobre ele, e meus métodos foram maiores que os dele, e eu o trouxe de volta aqui, amarrado como o fruto da caça...}{Você quer dizer orelha-pontuda? Pálido sangue-quente? Nós o capturamos, esgueirando-se em nossos pântanos, planejando mais mortes com suas armas e seus modos estranhos. Mas Kan Kerai caiu sobre ele, e meus métodos foram maiores que os dele, e eu o trouxe de volta aqui, amarrado como o fruto da caça...}{}{}{}{}
+{50}{Esse orelha-pontuda... ele atacou vocês?}{}{5}{}{55}{}
+{51}{Vocês já tiveram ALGUM problema com sangue-quentes pálidos antes?}{}{5}{}{67}{}
+{52}{Você pagará caro por tratar esse elfo assim, réptil...}{}{5}{}{82}{re -5, lc1 9}
+{53}{E:}{}{5}{}{0}{lf4 1, lc2 7, re -3}
+{55}{Não... mas eles vêm para os Pântanos Sombrios com armas e palavras poderosas. Por que vieram aqui? Eles têm suas árvores e suas florestas... por que vêm para nossos pântanos? Sempre foi assim com os sangue-quentes. Sempre querendo mais. Sempre trazendo ruína...}{Não... mas eles vêm para os Pântanos Sombrios com armas e palavras poderosas. Por que vieram aqui? Eles têm suas árvores e suas florestas... por que vêm para nossos pântanos? Sempre foi assim com os sangue-quentes. Sempre querendo mais. Sempre trazendo ruína...}{}{}{}{}
+{56}{Os elfos? Eles trouxeram ruína?}{}{5}{}{67}{}
+{57}{Sua visão é limitada, lagarto. Recomendo que abra os olhos...}{}{5}{}{90}{re -5, lc1 10}
+{58}{E:}{}{5}{}{0}{lf4 1, lc2 8, re -3}
+{60}{Não? Todos os sangue-quentes temem os Bedokaan. Todos os sangue-quentes desconhecem nossos costumes, os costumes dos sangue-frio. Todos os sangue-quentes matam os Bedokaan e poluem nossos pântanos e escurecem nossas águas. Todos vocês odeiam e destroem sem motivo...}{Não? Todos os sangue-quentes temem os Bedokaan. Todos os sangue-quentes desconhecem nossos costumes, os costumes dos sangue-frio. Todos os sangue-quentes matam os Bedokaan e poluem nossos pântanos e escurecem nossas águas. Todos vocês odeiam e destroem sem motivo...}{}{}{}{}
+{61}{Eu fiz isso? Matei o seu povo?}{}{5}{}{72}{re +5}
+{62}{Os elfos... hã, orelhas-pontudas... já mataram o seu povo antes?}{}{5}{}{67}{}
+{63}{Você falou dos "costumes dos sangue-frio". O que quis dizer?}{}{5}{}{32}{}
+{64}{E continuarei nessa tradição, réptil. Começando por você...}{}{5}{}{}{co, fl 80}
+{65}{E:}{}{5}{}{0}{lf4 1, lc2 9, re -3}
+{67}{[Ele para por um momento, refletindo.] Não, os orelhas-pontudas nunca mataram Bedokaan antes, nem arruinaram a terra. Mas não somos presas fáceis, sangue-quente. Um caçador com pele diferente ainda é um caçador. E Kan Kerai não vai embora em silêncio, ele...}{[Ele para por um momento, refletindo.] Não, os orelhas-pontudas nunca mataram Bedokaan antes, nem arruinaram a terra. Mas não somos presas fáceis, sangue-quente. Um caçador com pele diferente ainda é um caçador. E Kan Kerai não vai embora em silêncio, ele...}{}{}{}{}
+{68}{Espere um momento. Nem os elfos nem eu lhe fizemos mal...}{}{5}{}{76}{}
+{69}{Já ouvi o suficiente dos seus delírios incoerentes. Prepare-se para morrer...}{}{5}{}{}{co, fl 80}
+{72}{Não, você nunca matou Bedokaan antes. Mas você é sangue-quente, você...}{Não, você nunca matou Bedokaan antes. Mas você é sangue-quente, você...}{}{}{}{}
+{73}{Espere, por favor. E os elfos? Eles já mataram Bedokaan antes?}{}{5}{}{67}{}
+{76}{[Ele fica em silêncio.] Sim. As palavras que você diz são verdadeiras, sangue-quente. Mas... [Sua mão se move para a espada.]... isso não significa que você não o fará.}{[Ele fica em silêncio.] Sim. As palavras que você diz são verdadeiras, sangue-quente. Mas... [Sua mão se move para a espada.]... isso não significa que você não o fará.}{}{}{}{}
+{77}{De acordo. Eu me chamo @PCNAME@.}{}{5}{}{100}{re +10}
+{78}{Você tem razão. Recomendo que se lembre disso e faça o que eu digo...}{}{5}{}{}{co, fl 80}
+{80}{Eu conheço seus modos, sangue-quente. Tudo o que você entende é a morte...}{Eu conheço seus modos, sangue-quente. Tudo o que você entende é a morte...}{}{}{}{}
+{82}{Suas palavras são sombrias, forasteiro, como o coração de um sangue-quente. Deseja testar minha paciência...?}{Suas palavras são sombrias, forasteiro, como o coração de um sangue-quente. Deseja testar minha paciência...?}{}{}{}{}
+{83}{Não. Mas não entendo por que está zangado comigo...}{}{5}{lc1 1}{9}{}
+{84}{Não quero lutar. Vamos falar sobre o prisioneiro élfico...}{}{5}{lc1 5}{49}{}
+{85}{Não! Mas o que eu fiz a você? Não somos todos iguais!}{}{5}{lc1 7}{60}{}
+{86}{Não precisamos recorrer a isso. O elfo atacou você?}{}{5}{lc1 9}{55}{}
+{87}{Chega disso. Você merece morrer, lagarto...}{}{5}{}{}{co, fl 80}
+{90}{Kan Kerai sente sua raiva. Talvez deseje se opor a mim, sangue-quente?}{Kan Kerai sente sua raiva. Talvez deseje se opor a mim, sangue-quente?}{}{}{}{}
+{91}{Claro que não. Talvez você devesse me contar o que está acontecendo aqui...}{}{5}{lc1 2}{20}{}
+{92}{Não precisamos fazer isso. Você disse que seu povo estava sendo caçado...?}{}{5}{lc1 3}{44}{}
+{93}{Não! Mas o que eu fiz a você? Não somos todos iguais!}{}{5}{lc1 6}{60}{}
+{94}{Por favor, sejamos civilizados! Então os elfos estavam caçando os Bedokaan?}{}{5}{lc1 8}{49}{}
+{95}{Como os elfos trouxeram ruína aos Bedokaan?}{}{5}{lc1 10}{67}{}
+{96}{Vou pôr um fim nesse seu falatório, monstro...}{}{5}{}{}{co, fl 80}
+{100}{[Ele inclina a cabeça, rigidamente.] E eu sou Kan Kerai, chefe dos Bedokaan. O que o traz à nossa aldeia, sangue-quente? Veio em defesa deste... e-elfo?}{[Ele inclina a cabeça, rigidamente.] E eu sou Kan Kerai, chefe dos Bedokaan. O que o traz à nossa aldeia, sangue-quente? Veio em defesa deste... e-elfo?}{}{}{}{}
+{101}{Sim. Acredito que vocês o estão prendendo injustamente...}{}{5}{}{107}{re -10}
+{102}{Talvez. Preciso saber o que aconteceu aqui...}{}{5}{}{111}{re +5}
+{103}{Vamos falar sobre isso mais tarde...}{}{5}{}{}{lf5 1, lc3 1, fl 105}
+{105}{Sim... acredito que temos muito o que conversar.}{Sim... acredito que temos muito o que conversar.}{}{}{}{}
+{107}{O que você sabe dos modos deles? Você presume que os elfos são inocentes e os Bedokaan são maus. Eu sei disso... todos os sangue-quentes pensam como você. Eles temem os modos dos sangue-frio, nos veem como bestas, desprovidos de amor ou razão...}{O que você sabe dos modos deles? Você presume que os elfos são inocentes e os Bedokaan são maus. Eu sei disso... todos os sangue-quentes pensam como você. Eles temem os modos dos sangue-frio, nos veem como bestas, desprovidos de amor ou razão...}{}{}{}{}
+{108}{Por favor, me perdoe. Não tive intenção de ofender. O que aconteceu aqui?}{}{5}{}{111}{re +5}
+{109}{Estou cansado disso. Haverá guerra entre nós...}{}{5}{}{}{co, fl 80}
+{111}{Você gostaria de ouvir nossa história? Muito bem. Como eu disse, os Bedokaan vivem nos Pântanos Sombrios desde que as estações começaram a girar, e durante todo esse tempo mantivemos nossa distância. Sabíamos dos elfos, mas eles não nos prejudicavam, e aceitávamos seu lugar natural...}{Você gostaria de ouvir nossa história? Muito bem. Como eu disse, os Bedokaan vivem nos Pântanos Sombrios desde que as estações começaram a girar, e durante todo esse tempo mantivemos nossa distância. Sabíamos dos elfos, mas eles não nos prejudicavam, e aceitávamos seu lugar natural...}{}{}{}{}
+{112}{Mas algo aconteceu? Você disse que seu povo foi caçado?}{}{5}{}{114}{}
+{114}{Sim. Quatro invernos atrás, os de sangue-quente vieram aos nossos pântanos e espalharam coisas de morte, e nos atiraram com suas armas, e recolheram os corpos dos mortos...}{Sim. Quatro invernos atrás, os de sangue-quente vieram aos nossos pântanos e espalharam coisas de morte, e nos atiraram com suas armas, e recolheram os corpos dos mortos...}{}{}{}{}
+{115}{Quem eram esses de sangue-quente? Você disse que não eram elfos...}{}{5}{ra 1}{118}{}
+{116}{Quem eram esses de sangue-quente? Você disse que não eram elfos...}{}{5}{ra -1}{123}{}
+{118}{Não, não eram elfos. [Ele olha para você, depois cheira o ar à sua frente.] Eu sei que não foi você, @PCNAME@, mas eles eram da sua espécie. E eram muitos, e montavam estranhas criaturas feitas de madeira...}{Não, não eram elfos. [Ele olha para você, depois cheira o ar à sua frente.] Eu sei que não foi você, @PCNAME@, mas eles eram da sua espécie. E eram muitos, e montavam estranhas criaturas feitas de madeira...}{}{}{}{}
+{119}{Entendo. Homens em carroças. De onde eles vieram?}{}{5}{}{133}{}
+{120}{O que você disse que esses homens fizeram com os corpos do seu povo?}{}{5}{}{128}{}
+{121}{Falemos sobre isso mais tarde...}{}{5}{}{}{lf5 1, lc3 2, fl 105}
+{123}{Eram como elfos, mas um pouco mais escuros e não tão altos. Não tinham palavras de poder, mas tinham armas estranhas e montavam bestas estranhas feitas de madeira...}{Eram como elfos, mas um pouco mais escuros e não tão altos. Não tinham palavras de poder, mas tinham armas estranhas e montavam bestas estranhas feitas de madeira...}{}{}{}{}
+{124}{Entendo. Homens em carroças. De onde eles vieram?}{}{5}{}{133}{}
+{125}{O que você disse que esses homens fizeram com os corpos do seu povo?}{}{5}{}{128}{}
+{126}{Falemos sobre isso mais tarde...}{}{5}{}{}{lf5 1, lc3 3, fl 105}
+{128}{[Kan Kerai fica em silêncio por um momento. Você pode ver a raiva fervilhando em seus olhos prateados.] Eles os esfolaram, @PCNAME@. Esfolaram nossos anciãos, nossas crianças e nossas mulheres, e depois jogaram seus restos no pântano. Sem ritos de passagem, sem guia para os pais-serpentes...}{[Kan Kerai fica em silêncio por um momento. Você pode ver a raiva fervilhando em seus olhos prateados.] Eles os esfolaram, @PCNAME@. Esfolaram nossos anciãos, nossas crianças e nossas mulheres, e depois jogaram seus restos no pântano. Sem ritos de passagem, sem guia para os pais-serpentes...}{}{}{}{ru 2131}
+{129}{Deuses. Caçadores. Sinto muito, Kan Kerai...}{}{5}{}{155}{re +10}
+{130}{Sim. Ouvi dizer que peles de Bedokaan dão excelentes bagagens...}{}{5}{}{137}{re -10}
+{131}{Mas esse elfo! Ele não teve culpa...}{}{5}{}{141}{}
+{133}{Do sul. Vieram do sul, por cima das montanhas e para dentro dos Pântanos Sombrios. E a terra clama onde quer que a toquem. Eles não conhecem o caminho da terra, nem os modos dos de sangue-frio. Nem se importam...}{Do sul. Vieram do sul, por cima das montanhas e para dentro dos Pântanos Sombrios. E a terra clama onde quer que a toquem. Eles não conhecem o caminho da terra, nem os modos dos de sangue-frio. Nem se importam...}{}{}{}{}
+{134}{O que você disse que esses homens fizeram com os corpos do seu povo?}{}{5}{}{128}{}
+{135}{Falemos sobre isso mais tarde...}{}{5}{}{}{lf5 1, lc3 4, fl 105}
+{137}{O quê? Suas palavras cospem sobre a memória do meu povo, o sagrado sonho reptiliano. VOCÊS SÃO todos iguais, de sangue-quente! Vou destruí-lo junto com esse elfo!}{O quê? Suas palavras cospem sobre a memória do meu povo, o sagrado sonho reptiliano. VOCÊS SÃO todos iguais, de sangue-quente! Vou destruí-lo junto com esse elfo!}{}{}{}{}
+{138}{Não! Eu estava apenas fazendo uma observação! Espere!}{}{5}{}{141}{}
+{139}{Como se você tivesse coragem de me enfrentar, lagarto...}{}{5}{}{}{co, fl 80}
+{141}{Não! Não ouvirei mais nada! Vou declarar guerra a todos os de sangue-quente! Primeiro esses homens malignos, e depois os elfos! Kan Kerai vingará seu povo...!}{Não! Não ouvirei mais nada! Vou declarar guerra a todos os de sangue-quente! Primeiro esses homens malignos, e depois os elfos! Kan Kerai vingará seu povo...!}{}{}{}{}
+{142}{Espere! Isso não é necessário! Apenas esses caçadores são maus!}{}{5}{}{145}{}
+{143}{Você não irá além de mim, Kerai...}{}{5}{}{}{co, fl 80}
+{145}{Suas palavras são vazias, de sangue-quente. Quer provar sua inocência? A inocência desse elfo? Então deve matar esses homens malignos. Deve matá-los e voltar para mim. Só então o elfo ficará livre...}{Suas palavras são vazias, sangue-quente. Você deseja provar sua inocência? A inocência desses elfos? Então deve matar esses homens maus. Deve matá-los e retornar a mim. Somente então esses elfos serão libertados...}{}{}{}{qu1080 1}
+{146}{Tudo bem. Eu o farei.}{}{5}{}{152}{lf1 1, qu1080 2, gf2159 1}
+{147}{Esqueça. Não matarei os da minha espécie, não importa quão maus sejam...}{}{5}{ra 1}{}{lf1 1, fl 150}
+{148}{Não me tornarei um assassino por ninguém...}{}{5}{ra -1}{}{lf1 1, fl 150}
+{150}{Tudo bem. Então saia daqui. Eu farei guerra, e o sangue-quente correrá em rios...}{Tudo bem. Então saia daqui. Eu farei guerra, e o sangue-quente correrá em rios...}{}{}{}{}
+{152}{Você fará? [O Bedokaan parece surpreso.] Bom. Aqui é onde os homens foram vistos pela última vez. [Ele aponta para um lugar no seu mapa, não muito longe de onde você está.] Mate todos os homens e retorne a mim...}{Você fará? [O Bedokaan parece surpreso.] Bom. Aqui é onde os homens foram vistos pela última vez. [Ele aponta para um lugar no seu mapa, não muito longe de onde você está.] Mate todos os homens e retorne a mim...}{}{}{}{mm 35}
+{153}{E:}{}{5}{}{0}{}
+{155}{Acredito em suas palavras, @PCNAME@. Talvez VOCÊ seja diferente, talvez VOCÊ possa ver as visões frias. Lamentarei ter que fazer guerra contra todos os sangue-quentes se houver ao menos um como você entre eles. Mas o farei mesmo assim...}{Acredito em suas palavras, @PCNAME@. Talvez VOCÊ seja diferente, talvez VOCÊ possa ver as visões frias. Lamentarei ter que fazer guerra contra todos os sangue-quentes se houver ao menos um como você entre eles. Mas o farei mesmo assim...}{}{}{}{}
+{156}{Fazer guerra? Mas são apenas esses homens...!}{}{5}{}{160}{}
+{157}{Eu não recomendaria isso, Kan Kerai. Você perderia...}{}{5}{}{166}{}
+{160}{Sim, mas há um preço em sangue-quente que deve ser pago. Homens morrerão, e então toda a sua prole até que não reste nenhum. Somente isso acalmará a fúria dos pais-serpentes. Elfos são sangue-quente. Eles também morrerão...}{Sim, mas há um preço em sangue-quente que deve ser pago. Homens morrerão, e então toda a sua prole até que não reste nenhum. Somente isso acalmará a fúria dos pais-serpentes. Elfos são sangue-quente. Eles também morrerão...}{}{}{}{}
+{161}{Por favor! Você deve me permitir convencê-lo do contrário...}{}{5}{ps 12}{182}{}
+{162}{Por favor! Você deve me permitir convencê-lo do contrário...}{}{5}{ps -11}{173}{}
+{163}{Você também está me ameaçando, Kan Kerai? Eu não faria isso...}{}{5}{}{166}{re -5}
+{164}{Suponho que deve seguir seu próprio caminho. Deixo-o com isso...}{}{5}{}{}{lf1 1, fl 150}
+{166}{[Ele dá meio passo à frente, sua mão pairando sobre a espada.] Suponho que isso acontecerá com o tempo, @PCNAME@. É melhor que nos enfrentemos agora? Lutarei com você aqui, com honra, de acordo com os costumes dos sangue-frios...}{[Ele dá meio passo à frente, sua mão pairando sobre a espada.] Suponho que isso acontecerá com o tempo, @PCNAME@. É melhor que nos enfrentemos agora? Lutarei com você aqui, com honra, de acordo com os costumes dos sangue-frios...}{}{}{}{}
+{167}{Não! Você deve me permitir convencê-lo de que a guerra é tolice!}{}{5}{ps 12}{182}{}
+{168}{Não! Você deve me permitir convencê-lo de que a guerra é tolice!}{}{5}{ps -11}{173}{}
+{169}{Sim. Agora é tão bom quanto qualquer hora. Adeus, Kan Kerai...}{}{5}{}{}{co, fl 171}
+{171}{Muito bem. Você tem um coração de sangue-frio, @PCNAME@. Desejo-lhe sorte quando encontrar os pais-serpentes...}{Muito bem. Você tem um coração de sangue-frio, @PCNAME@. Desejo-lhe sorte quando encontrar os pais-serpentes...}{}{}{}{}
+{173}{Não. Não há palavras que me desviem do meu caminho. Devo fazer guerra contra os sangue-quentes. A menos que... [Ele hesita.]}{Não. Não há palavras que me desviem do meu caminho. Devo fazer guerra contra os sangue-quentes. A menos que... [Ele hesita.]}{}{}{}{}
+{174}{O quê? O que mais pode ser feito?}{}{5}{}{176}{}
+{175}{Entendo. Então o deixo com seu destino...}{}{5}{}{}{lf1 1, fl 150}
+{176}{Você pode pagar o preço exigido pelos pais-serpentes, @PCNAME@. Se um sangue-quente matar aqueles responsáveis, então não terei que fazer guerra contra todos eles. Os costumes dos sangue-frios permitem essa retribuição. Se matar esses caçadores, libertarei o elfo e abandonarei o caminho da guerra. Você fará isso?}{Você pode pagar o preço exigido pelos pais-serpentes, @PCNAME@. Se um sangue-quente fosse matar aqueles responsáveis, então eu não teria que guerrear contra todos eles. Os caminhos dos sangue-frio permitem essa retribuição. Se você matar esses caçadores, eu libertarei o elfo e abandonarei os caminhos da guerra. Fará isso?}{}{}{}{}
+{177}{Já fiz isso...}{}{5}{gf2150 1}{319}{}
+{178}{Sim, eu farei isso...}{}{5}{gf2150 0}{152}{lf1 1, qu1080 2, gf2159 1}
+{179}{Deixa pra lá. Não vou assassinar os da minha própria espécie, não importa o quão maus sejam...}{}{5}{ra 1, gf2150 0}{}{lf1 1, fl 150}
+{180}{Não me tornarei um assassino por ninguém...}{}{5}{ra -1, gf2150 0}{}{lf1 1, fl 150}
+{182}{Como, @PCNAME@? Respeito suas palavras e vejo a verdade nelas, mas como pode negar a maldade do que foi feito comigo e com meu povo? Discorda que um preço deve ser pago?}{Como, @PCNAME@? Respeito suas palavras e vejo a verdade nelas, mas como pode negar a maldade do que foi feito comigo e com meu povo? Discorda que um preço deve ser pago?}{}{}{}{}
+{183}{Não, mas nem todos devem pagar o preço. Vamos falar sobre os elfos...}{}{5}{}{188}{lc1 0}
+{184}{Não, mas se declarar guerra aos sangue-quentes, você morrerá...}{}{5}{}{259}{}
+{185}{Não, talvez você esteja certo. Mas o que mais pode ser feito?}{}{5}{}{176}{}
+{186}{Se é guerra que quer, então começaremos agora mesmo...}{}{5}{}{}{co, fl 171}
+{187}{E:}{}{5}{}{0}{}
+{188}{Sim, vamos falar sobre isso. A serpente e o lagarto são ambos dos pais-serpentes, ambos vivem no sonho reptiliano. Homens e elfos também são os mesmos, dos sangue-quentes, e portanto vivem pelo mesmo código...}{Sim, vamos falar sobre isso. A serpente e o lagarto são ambos dos pais-serpentes, ambos vivem no sonho reptiliano. Homens e elfos também são os mesmos, dos sangue-quentes, e portanto vivem pelo mesmo código...}{}{}{}{}
+{189}{Só um sangue-frio pensaria dessa forma... você precisa ouvir...}{}{5}{}{265}{}
+{190}{Os elfos têm seu próprio código, diferente do dos homens...}{}{5}{}{194}{                  }
+{191}{Você assume que o código dos sangue-frio é bom...}{}{5}{}{307}{}
+{192}{E:}{}{5}{}{0}{}
+{194}{O que quer dizer? Eles não são de pele lisa como os homens, caçam com armas, vestem roupas e falam palavras elegantes? Para mim, parecem exatamente os mesmos...}{O que quer dizer? Eles não são de pele lisa como os homens, caçam com armas, vestem roupas e falam palavras elegantes? Para mim, parecem exatamente os mesmos...}{}{}{}{}
+{195}{Elfos vivem em árvores, homens vivem em construções de madeira e pedra...}{}{5}{}{271}{}
+{196}{Bem, as orelhas deles são diferentes, para começar...}{}{5}{}{271}{}
+{197}{Não... você disse que os elfos têm palavras de poder... a maioria dos homens não tem...}{}{5}{}{200}{}
+{198}{E:}{}{5}{}{0}{}
+{200}{Sim... [Você vê que Kan Kerai está um pouco confuso.] Nós também temos essas palavras, @PCNAME@. Esses poderes são poderes antigos, ligados às águas e à terra. Vejo que os elfos têm esses poderes, e ainda assim são sangue-quentes...?}{Sim... [Você vê que Kan Kerai está um pouco confuso.] Nós também temos essas palavras, @PCNAME@. Esses poderes são poderes antigos, ligados às águas e à terra. Vejo que os elfos têm esses poderes, e ainda assim são sangue-quentes...?}{}{}{}{}
+{201}{Sim. O caminho dos sangue-frio não é o único caminho...}{}{5}{}{277}{}
+{202}{Isso porque eles também estão ligados à terra...}{}{5}{}{206}{}
+{203}{Talvez você tenha sido rápido demais em condenar o caminho dos sangue-quentes...}{}{5}{}{277}{}
+{204}{E:}{}{5}{}{0}{}
+{206}{Entendo. [Kan Kerai inclina a cabeça para você.] Há poder em SUAS palavras também, @PCNAME@. Talvez você esteja certo sobre esses elfos. Mas e os homens? Por que Kan Kerai não deveria guerrear contra eles...?}{Entendo. [Kan Kerai inclina a cabeça para você.] Há poder em SUAS palavras também, @PCNAME@. Talvez você esteja certo sobre esses elfos. Mas e os homens? Por que Kan Kerai não deveria guerrear contra eles...?}{}{}{}{}
+{207}{Hmmm. Fale-me dos sangue-frio, como é...}{}{5}{}{212}{}
+{208}{Não há lugar para misericórdia no sonho reptiliano...?}{}{5}{}{282}{}
+{209}{Talvez você pudesse ser mais tolerante com os homens. Eles não são sábios...}{}{5}{}{282}{}
+{210}{E:}{}{5}{}{0}{}
+{212}{Nós batemos como um só coração, @PCNAME@. Compartilhamos o mesmo conhecimento, os mesmos desejos. Olhar em meus olhos é olhar nos próprios olhos dos pais-serpentes. Você entende? Somos muitos, mas somos um.}{Nós batemos como um só coração, @PCNAME@. Compartilhamos o mesmo conhecimento, os mesmos desejos. Olhar em meus olhos é olhar nos próprios olhos dos pais-serpentes. Você entende? Somos muitos, mas somos um.}{}{}{}{}
+{213}{Talvez isso torne difícil para VOCÊ nos entender...}{}{5}{}{287}{}
+{214}{Kan Kerai deve aprender uma nova sabedoria, NOSSA sabedoria...}{}{5}{}{287}{}
+{215}{Os homens são diferentes, com corações distintos. Infelizmente, alguns são sombrios...}{}{5}{}{218}{}
+{216}{E:}{}{5}{}{0}{}
+{218}{Ah. Você diz que o coração dos de sangue-quente é solitário e bate sozinho. Posso ver por que os elfos podem ser bons, mas os homens, maus. Mas como alguns HOMENS são bons e outros, maus? O sangue que corre em suas veias não é o mesmo? Vocês não sonham o mesmo sonho?}{Ah. Você diz que o coração dos de sangue-quente é solitário e bate sozinho. Posso ver por que os elfos podem ser bons, mas os homens, maus. Mas como alguns HOMENS são bons e outros, maus? O sangue que corre em suas veias não é o mesmo? Vocês não sonham o mesmo sonho?}{}{}{}{}
+{219}{Essa é uma diferença importante... os corações dos homens CRIAM seus sonhos...}{}{5}{}{224}{}
+{224}{[Kan Kerai pondera isso por um momento.] Interessante, @PCNAME@. Então esses... caçadores furtivos... como você os chama, eles sonham um sonho maligno. E por isso matam nosso povo. Mas como posso saber que a maioria dos homens não é como eles, que você está SOZINHO em seu sonho?}{[Kan Kerai pondera isso por um momento.] Interessante, @PCNAME@. Então esses... caçadores furtivos... como você os chama, eles sonham um sonho maligno. E por isso matam nosso povo. Mas como posso saber que a maioria dos homens não é como eles, que você está SOZINHO em seu sonho?}{}{}{}{}
+{225}{Você terá que acreditar na minha palavra...}{}{5}{}{292}{}
+{226}{Se fosse assim, eles deixariam alguém como eu sobreviver?}{}{5}{}{230}{}
+{227}{E:}{}{5}{}{0}{}
+{230}{Não... a natureza é uma professora severa. Mesmo entre os Bedokaan, se há um que não ouve os pais-serpentes ou não vê as visões frias, então ele é expulso ou destruído. Eu imaginaria que é o mesmo entre os de sangue-quente...}{Não... a natureza é uma professora severa. Mesmo entre os Bedokaan, se há um que não ouve os pais-serpentes ou não vê as visões frias, então ele é expulso ou destruído. Eu imaginaria que é o mesmo entre os de sangue-quente...}{}{}{}{}
+{231}{Acho que isso provavelmente acontece mais entre o seu povo...}{}{5}{}{297}{}
+{232}{É. Os homens são maus, mas muitos mais são bons...}{}{5}{}{236}{}
+{233}{E:}{}{5}{}{0}{}
+{236}{Talvez, então, Kan Kerai deva fazer guerra apenas contra esses caçadores furtivos. Se a maioria dos homens é como você, @PCNAME@, então talvez os caminhos dos de sangue-quente sejam bons. Agradeço por me mostrar isso. Sou grato.}{Talvez, então, Kan Kerai deva fazer guerra apenas contra esses caçadores furtivos. Se a maioria dos homens é como você, @PCNAME@, então talvez os caminhos dos de sangue-quente sejam bons. Agradeço por me mostrar isso. Sou grato.}{}{}{}{}
+{237}{E o elfo? Ele ficará livre?}{}{5}{}{242}{}
+{242}{Sim. Ele está livre para retornar ao seu lar... certifique-se de falar com ele antes de partir e diga-lhe que pode ir. Eu mesmo farei as pazes e enviarei presentes aos elfos da floresta. Você trouxe a paz entre nós, @PCNAME@...}{Sim. Ele está livre para retornar ao seu lar... certifique-se de falar com ele antes de partir e diga-lhe que pode ir. Eu mesmo farei as pazes e enviarei presentes aos elfos da floresta. Você trouxe a paz entre nós, @PCNAME@...}{}{}{}{gf2146 1, gf2692 1}
+{243}{Feliz em ser útil...}{}{5}{}{248}{}
+{248}{Diga-me, @PCNAME@. Por que veio a estas terras estranhas? Você não é dos elfos da floresta, nem dos Pântanos Sombrios. O que o traz até nós?}{Diga-me, @PCNAME@. Por que veio a estas terras estranhas? Você não é dos elfos da floresta, nem dos Pântanos Sombrios. O que o traz até nós?}{}{}{}{}
+{249}{Sinto muito, Kan Kerai, mas esse é um fardo que devo carregar sozinho...}{}{5}{}{252}{}
+{250}{É uma longa história... [Conte a Kan Kerai tudo o que aconteceu.]}{}{5}{}{255}{}
+{252}{Claro. Todos devem sonhar seu próprio sonho. Adeus a você, @PCNAME@. Desejo-lhe sorte, onde quer que vá...}{Claro. Todos devem sonhar seu próprio sonho. Adeus a você, @PCNAME@. Desejo-lhe sorte, onde quer que vá...}{}{}{}{}
+{253}{E:}{}{5}{}{0}{lf2 1}
+{255}{Não conheço muitas coisas fora dos Pântanos Sombrios, mas os Bedokaan são guerreiros e amamos esta terra como nenhum outro. Ofereço a força do meu povo, se assim desejar. Na aldeia há um chamado Waromon. Fale com ele e, se ele assim desejar, poderá levá-lo em sua missão. Ele é corajoso e conhece as palavras de poder...}{Não conheço muitas coisas fora dos Pântanos Sombrios, mas os Bedokaan são guerreiros e amamos esta terra como nenhum outro. Ofereço a força do meu povo, se assim desejar. Na aldeia há um chamado Waromon. Fale com ele e, se ele assim desejar, poderá levá-lo em sua missão. Ele é corajoso e conhece as palavras de poder...}{}{}{}{ru 2132, gf2154 1}
+{256}{Vou falar com ele. Tenha um bom dia, Kan Kerai...}{}{5}{}{0}{lf2 1}
+{259}{Talvez você esteja certo. Mas é o que eu esperaria que dissesse. Os de sangue quente vivem em constante medo da morte, nós não. Vivemos o sonho reptiliano dos dois lados, @PCNAME@. Acho que a guerra é o único caminho...}{Talvez você esteja certo. Mas é o que eu esperaria que dissesse. Os de sangue quente vivem em constante medo da morte, nós não. Vivemos o sonho reptiliano dos dois lados, @PCNAME@. Acho que a guerra é o único caminho...}{}{}{}{}
+{260}{Não! Nem todos devem pagar o preço! Vamos primeiro falar dos elfos...}{}{5}{}{188}{lc1 1}
+{261}{Não, talvez você esteja certo. Mas o que mais pode ser feito?}{}{5}{}{176}{}
+{262}{Então você e eu começaremos a primeira batalha, agora mesmo...}{}{5}{}{}{co, fl 171}
+{263}{E:}{}{5}{}{0}{}
+{265}{O que você sabe dos caminhos dos de sangue frio? Você não tem desejo de ver, @PCNAME@. Só quer falar suas palavras vazias. Sinto muito, mas acho que haverá guerra... primeiro com os homens, e depois com os elfos...}{O que você sabe dos caminhos dos de sangue frio? Você não tem desejo de ver, @PCNAME@. Só quer falar suas palavras vazias. Sinto muito, mas acho que haverá guerra... primeiro com os homens, e depois com os elfos...}{}{}{}{}
+{266}{Espere! Elfos e homens são diferentes... os elfos têm seu próprio código!}{}{5}{lc1 0}{194}{lc1 1}
+{267}{Espere! Elfos e homens são diferentes... os elfos têm seu próprio código!}{}{5}{lc1 1}{307}{}
+{268}{Não, talvez você esteja certo. Mas o que mais pode ser feito?}{}{5}{}{176}{}
+{269}{Se é guerra que você quer, eu o atenderei aqui e agora...}{}{5}{}{}{co, fl 171}
+{270}{E:}{}{5}{}{0}{}
+{271}{São pequenas coisas, pequenas diferenças. Falo de corações e mentes... dos sonhos dos de sangue quente. É aí que os elfos são iguais aos homens, em seus corações, em suas palavras...}{São pequenas coisas, pequenas diferenças. Falo de corações e mentes... dos sonhos dos de sangue quente. É aí que os elfos são iguais aos homens, em seus corações, em suas palavras...}{}{}{}{}
+{272}{Não... você disse que os elfos têm palavras de poder... os homens não...}{}{5}{lc1 0}{200}{lc1 1}
+{273}{Não... você disse que os elfos têm palavras de poder... os homens não...}{}{5}{lc1 1}{307}{}
+{274}{E:}{}{5}{}{}{}
+{277}{Por que você assume que eu não escuto suas palavras? Acha que sou uma besta, sem razão, sem amor? Você enxerga com olhos cegos, @PCNAME@...}{Por que você assume que eu não escuto suas palavras? Acha que sou uma besta, sem razão, sem amor? Você enxerga com olhos cegos, @PCNAME@...}{}{}{}{}
+{278}{Eu quis dizer que os elfos também estão ligados à terra...}{}{5}{lc1 0}{206}{lc1 1}
+{279}{Eu quis dizer que os elfos também estão ligados à terra...}{}{5}{lc1 1}{307}{}
+{280}{E:}{}{5}{}{0}{}
+{282}{Por que Kan Kerai deveria mostrar misericórdia aos homens ou perdoá-los? Os assassinos estão aqui, buscando nosso perdão? Não! Só a morte eles entenderão... medo e morte...!}{Por que Kan Kerai deveria mostrar misericórdia aos homens ou perdoá-los? Os assassinos estão aqui, buscando nosso perdão? Não! Só a morte eles entenderão... medo e morte...!}{}{}{}{}
+{283}{Ajude-me a entender o sonho reptiliano...}{}{5}{lc1 0}{212}{lc1 1}
+{284}{Ajude-me a entender o sonho reptiliano...}{}{5}{lc1 1}{307}{}
+{285}{E:}{}{5}{}{0}{}
+{287}{Novamente, parece que não estamos falando a mesma língua. E talvez você esteja certo... nunca sonharemos os mesmos sonhos...}{Novamente, parece que não estamos falando a mesma língua. E talvez você esteja certo... nunca sonharemos os mesmos sonhos...}{}{}{}{}
+{288}{Ouça! Nem todos os corações dos homens são iguais. Infelizmente, alguns são sombrios...}{}{5}{lc1 0}{218}{lc1 1}
+{289}{Ouça! Nem todos os corações dos homens são iguais. Infelizmente, alguns são sombrios...}{}{5}{lc1 1}{307}{}
+{290}{E:}{}{5}{}{0}{}
+{292}{Receio que isso não seja suficiente. Embora suas palavras sejam fortes, elas não são mais fortes que a vontade dos pais-serpentes... precisamos que NOS MOSTREM...}{Receio que isso não seja suficiente. Embora suas palavras sejam fortes, elas não são mais fortes que a vontade dos pais-serpentes... precisamos que NOS MOSTREM...}{}{}{}{}
+{293}{Se todos os homens fossem maus, será que deixariam um homem como eu sobreviver?}{}{5}{lc1 0}{230}{lc1 1}
+{294}{Se todos os homens fossem maus, será que deixariam um homem como eu sobreviver?}{}{5}{lc1 1}{307}{}
+{295}{E:}{}{5}{}{0}{}
+{297}{Por que diz isso? Porque não somos como você? Somos selvagens? Suas palavras traem seu coração, @PCNAME@...}{Por que diz isso? Porque não somos como você? Somos selvagens? Suas palavras traem seu coração, @PCNAME@...}{}{}{}{}
+{298}{Não... eu quis dizer que alguns homens são maus, mas muitos são bons...}{}{5}{lc1 0}{236}{lc1 1}
+{299}{Não... eu quis dizer que alguns homens são maus, mas muitos são bons...}{}{5}{lc1 1}{307}{}
+{300}{E:}{}{5}{}{0}{}
+{307}{Não! Não quero ouvir mais nada! Tem que ser guerra! A menos que... [Ele hesita, olhando para você...]}{Não! Não quero ouvir mais nada! Tem que ser guerra! A menos que... [Ele hesita, olhando para você...]}{}{}{}{lf6 1}
+{308}{O quê! Existe uma alternativa? O que mais pode ser feito?}{}{5}{}{176}{}
+{310}{O que é, sangue-quente? O que quer de mim?}{O que é, sangue-quente? O que quer de mim?}{}{}{}{}
+{311}{Tem certeza de que não posso convencê-lo de que a guerra não é o caminho?}{}{5}{ps 12}{182}{}
+{312}{Tem certeza de que não posso convencê-lo de que a guerra não é o caminho?}{}{5}{ps -11}{173}{}
+{313}{O que preciso fazer para libertar o prisioneiro élfico?}{}{5}{qu1080 1, gf2150 0}{176}{}
+{314}{Ainda não matei todos os caçadores, Kan Kerai...}{}{5}{qu1080 2, gf2150 0}{317}{}
+{315}{Matei os caçadores, Kan Kerai...}{}{5}{gf2150 1}{319}{}
+{316}{E:}{}{5}{}{0}{}
+{317}{Então faça isso e volte para mim...}{Então faça isso e volte para mim...}{}{}{}{}
+{318}{E:}{}{5}{}{0}{}
+{319}{Você fez isso? Bom... talvez o coração dos sangue-quente não seja mau... talvez ele saiba o que é certo e o que é errado. Suas ações libertaram o elfo e evitaram a guerra entre a humanidade e os Bedokaan, sangue-quente. Certifique-se de falar com o elfo antes de partir e diga-lhe que está livre para ir...}{Você fez isso? Bom... talvez o coração dos sangue-quente não seja mau... talvez ele saiba o que é certo e o que é errado. Suas ações libertaram o elfo e evitaram a guerra entre a humanidade e os Bedokaan, sangue-quente. Certifique-se de falar com o elfo antes de partir e diga-lhe que está livre para ir...}{}{}{}{gf2146 1, qu1080 4}
+{320}{Fico feliz, Kan Kerai. Os homens que matei mereciam isso...}{}{5}{}{323}{}
+{321}{O que fiz, fiz porque precisei. Mas QUALQUER assassinato é errado...}{}{5}{}{326}{}
+{323}{Sim, concordo. Talvez um dia você sonhe o sonho reptiliano, @PCNAME@. Desejo-lhe sorte em suas viagens...}{Sim, concordo. Talvez um dia você sonhe o sonho reptiliano, @PCNAME@. Desejo-lhe sorte em suas viagens...}{}{}{}{lf3 1}
+{324}{E:}{}{5}{}{0}{}
+{326}{Então você não entende os caminhos dos sangue-frio. Talvez seja melhor assim. Desejo-lhe sorte em suas viagens, @PCNAME@...}{Então você não entende os caminhos dos sangue-frio. Talvez seja melhor assim. Desejo-lhe sorte em suas viagens, @PCNAME@...}{}{}{}{lf3 1}
+{327}{E:}{}{5}{}{0}{}
+{329}{Boa sorte a você, @PCNAME@. Que os pais-serpentes guiem seu caminho...}{Boa sorte a você, @PCNAME@. Que os pais-serpentes guiem seu caminho...}{}{}{}{}
+{331}{Desejo-lhe sorte, @PCNAME@. Você realmente tem o coração dos sangue-frio...}{Desejo-lhe sorte, @PCNAME@. Você realmente tem o coração dos sangue-frio...}{}{}{}{}
+{334}{Por que você voltou aqui, sangue-quente? O que quer de mim?}{Por que você voltou aqui, sangue-quente? O que quer de mim?}{}{}{}{}
+{335}{Gostaria de continuar nossa conversa...}{}{5}{}{338}{}
+{336}{E:}{}{5}{}{0}{}
+{338}{O que temos para falar, assassino sangue-quente?}{O que temos para falar, assassino sangue-quente?}{}{}{}{}
+{339}{Você nem me conhece...}{}{5}{lc2 1}{9}{}
+{340}{O que eu fiz a você?}{}{5}{lc2 2}{20}{}
+{341}{Por que me chama por esses nomes...?}{}{5}{lc2 3}{26}{}
+{342}{Por favor... estou apenas tentando entender seus costumes...}{}{5}{lc2 4}{32}{}
+{343}{Por favor, explique-me suas crenças...}{}{5}{lc2 5}{38}{}
+{344}{Você disse que seu povo estava sendo caçado?}{}{5}{lc2 6}{44}{}
+{345}{O que os elfos fizeram a você?}{}{5}{lc2 7}{49}{}
+{346}{Os elfos te prejudicaram? Te atacaram?}{}{5}{lc2 8}{55}{}
+{347}{Quero corrigir esse erro! Não sou seu inimigo...}{}{5}{lc2 9}{60}{}
+{348}{Estou cansado de seus insultos. Vou te matar, lagarto...}{}{5}{}{}{co, fl 80}
+{349}{E:}{}{5}{}{0}{}
+{351}{Olá, @PCNAME@. Podemos falar novamente sobre os costumes dos sangue-quentes?}{Olá, @PCNAME@. Podemos falar novamente sobre os costumes dos sangue-quentes?}{}{}{}{}
+{352}{Sim. Esse elfo... acredito que você o está prendendo injustamente...}{}{5}{lc3 1}{107}{}
+{353}{Gostaria de falar sobre o que aconteceu aqui, Kan Kerai...}{}{5}{lc3 1}{111}{}
+{354}{Os sangue-quentes que mataram seu povo... não eram elfos?}{}{5}{lc3 2}{118}{}
+{355}{Os sangue-quentes que mataram seu povo... não eram elfos?}{}{5}{lc3 3}{123}{}
+{356}{Os homens que mataram seu povo... de onde vieram?}{}{5}{lc3 4}{133}{}
+{357}{E:}{}{5}{}{0}{}
+

@@ -1,0 +1,330 @@
+{1}{G:}{G:}{}{}{}{lf 14 0 } 
+{2}{W:}{}{1}{lf 13 0, re41}{300}{}
+{3}{Prazer em vê-lo novamente, Sr. Rockharrow.}{}{5}{lf 15 0, lf 13 1, re41, tr 8 -2, tr 8 2}{463}{} 
+{4}{Prazer em vê-lo novamente, Sr. Rockharrow.}{}{5}{lf 15 1, lf 13 1, re41, tr 8 -2, tr 8 2}{304}{} 
+{5}{Bom vê-lo novamente.}{}{5}{lf 13 1, re41, tr 8 -1}{304}{} 
+{6}{Bom vê-lo novamente.}{}{5}{lf 13 1, re41, tr 8 3}{304}{} 
+{7}{O que foi isso? Devo não ter ouvido direito...}{}{5}{re-40, ch9}{18}{re50}
+{8}{Por favor, me perdoe, senhor. Não tive intenção de ofender.}{}{5}{re-40, ch-8}{22}{}
+{9}{Outro comentário desses e será o seu último.}{}{5}{re-40, sk2 10}{14}{re41}
+{10}{Me fala oi!}{}{-4}{lf 13 0}{457}{lf 13 1} 
+{11}{Me fala oi!}{}{-4}{lf 13 1}{304}{ } 
+{12}{E:}{}{1}{}{0}{} 
+{13}{Socorro! Guardas! Há um louco no clube!}{Socorro! Guardas! Há um louco no clube!}{}{}{}{ } 
+{14}{[Ele parece reconsiderar por um momento.] Hmmm... bem, senhor, retiro meus comentários diante de sua ameaça de violência. Bem, o que é que o senhor deseja? Agora tenho toda a minha atenção voltada para o senhor. [Ele olha para você com sarcasmo.] Vamos, vamos, fale logo, o que é tão terrivelmente importante que precisa falar?}{[Ele parece reconsiderar por um momento.] Hmmm... bem, senhor, retiro meus comentários diante de sua ameaça de violência. Bem, o que é que o senhor deseja? Agora tenho toda a minha atenção voltada para o senhor. [Ele olha para você com sarcasmo.] Vamos, vamos, fale logo, o que é tão terrivelmente importante que precisa falar?}{}{}{}{}
+{15}{Sua falta de respeito lhe custou a vida.}{}{5}{}{}{co, fl 13}
+{16}{Preciso apenas de um momento do seu tempo.}{}{5}{}{27}{} 
+{17}{F:}{}{5}{}{0}{ } 
+{18}{Com licença... peço desculpas pela minha rápida irritação, bom senhor. Afinal, este é um Clube de Cavalheiros, eu deveria ter percebido que não deixariam... uh, vamos chamar isso de um caso de identidade equivocada e deixar por isso mesmo.}{Com licença... peço desculpas pela minha rápida irritação, minha boa senhora. Afinal, este é um Clube de Cavalheiros, eu deveria ter percebido que não deixariam... uh, vamos chamar isso de um caso de identidade equivocada e deixar por isso mesmo.}{}{}{}{ } 
+{20}{Senhor, seu comentário já foi esquecido.}{}{5}{}{27}{ } 
+{21}{E:}{}{5}{}{0}{ } 
+{22}{Sua própria presença já é uma ofensa em si, senhor.}{Sua própria presença já é uma ofensa em si, senhora.}{}{}{}{ } 
+{23}{Por favor, senhor, preciso apenas de um momento do seu tempo.}{}{5}{}{27}{re41} 
+{24}{Deixe-me ajudá-lo então... colocando-o fora de sua miséria.}{}{5}{}{}{co, fl 13}
+{26}{E:}{}{5}{}{0}{ } 
+{27}{O que é que o senhor gostaria de mim?}{O que é que a senhora gostaria de mim?}{}{}{}{ } 
+{28}{W:}{}{1}{lf 13 0}{300}{} 
+{29}{O senhor é Gurin Rockharrow?}{}{5}{lf 13 0,  tr 8 2,  rp -1009}{300}{} 
+{30}{Gostaria de cumprimentá-lo, Sr. Rockharrow, senhor.}{}{5}{lf 13 1,  rp -1009}{304}{} 
+{31}{O senhor, Sr. Rockharrow.}{}{-4}{lf 13 0,  tr 8 2,  rp -1009}{300}{} 
+{32}{Gostaria de falar sobre o dinheiro que lhe devo.}{}{5}{rp 1009}{387}{ } 
+{33}{E:}{}{1}{}{0}{ } 
+{37}{O senhor tirou um SEIS e um SEIS.}{A senhora tirou um SEIS e um SEIS.}{}{}{}{ } 
+{38}{Role novamente.}{}{1}{lf1 1, lf12 0}{-6}{ } 
+{39}{Um DOZE! Maldição! Nunca conseguirei isso.}{}{1}{lf1 0}{-6}{lf1 1, lf12 1 } 
+{40}{Má sorte, senhor. Parece que sou imbatível hoje.}{}{1}{lf1 1,lf12 1}{-53}{ } 
+{44}{O senhor tirou um SEIS e um CINCO.}{A senhora tirou um SEIS e um CINCO.}{}{}{}{ } 
+{45}{Role novamente.}{}{1}{lf 7 0, lf1 1}{-6}{ } 
+{46}{ONZE é vencedor, que doce é isso!}{}{1}{lf 7 0, lf1 0}{-53}{ } 
+{47}{OUTRO VENCEDOR!}{}{1}{lf 7 1}{-53}{ } 
+{51}{Você tirou um SEIS e um QUATRO.}{Você tirou um SEIS e um QUATRO.}{}{}{}{ } 
+{52}{Role novamente.}{}{1}{lf1 1, lf10 0}{-6}{ } 
+{53}{Uma marca de DEZ. É bom, sinto que a sorte está comigo hoje.}{}{1}{lf1 0}{-6}{lf1 1, lf10 1 } 
+{54}{Receio que meus estilos sejam incomparáveis, bom senhor.}{}{1}{lf1 1,lf10 1}{-53}{ } 
+{58}{Você tirou um SEIS e um TRÊS.}{Você tirou um SEIS e um TRÊS.}{}{}{}{ } 
+{59}{Role novamente.}{}{1}{lf1 1, lf9 0}{-6}{ } 
+{60}{Que diabos! Uma marca de NOVE é difícil de alcançar.}{}{1}{lf1 0}{-6}{lf1 1, lf9 1 } 
+{61}{Pelos deuses! Outro vencedor!}{}{1}{lf1 1,lf9 1}{-53}{ } 
+{65}{Você tirou um SEIS e um DOIS.}{Você tirou um SEIS e um DOIS.}{}{}{}{ } 
+{66}{Role novamente.}{}{1}{lf1 1, lf8 0}{-6}{ } 
+{67}{Um OITO! Isso não deve ser muito difícil de alcançar.}{}{1}{lf1 0}{-6}{lf1 1, lf8 1 } 
+{68}{Doce sucesso, eu venci!}{}{1}{lf1 1,lf8 1}{-53}{ } 
+{72}{Você tirou um SEIS e um UM.}{Você tirou um SEIS e um UM.}{}{}{}{ } 
+{73}{Parece que eu venci esta rodada.}{}{1}{lf 7 0, lf1 0}{-53}{ } 
+{74}{Que diabos. Eu perdi.}{}{1}{lf 7 0, lf1 1}{-56}{ } 
+{75}{Parece que encontrei minha sorte, senhor.}{}{1}{lf 7 1}{-53}{ } 
+{79}{Você tirou um CINCO e um CINCO.}{Você tirou um CINCO e um CINCO.}{}{}{}{ } 
+{80}{Role novamente.}{}{1}{lf1 1, lf10 0}{-6}{ } 
+{81}{Parece que terei que vencer isso da maneira difícil.}{}{1}{lf1 0}{-6}{lf1 1, lf10 1 } 
+{82}{Aí está! Um vencedor!}{}{1}{lf1 1,lf10 1}{-53}{ } 
+{86}{Você tirou um CINCO e um QUATRO.}{Você tirou um CINCO e um QUATRO.}{}{}{}{ } 
+{87}{Role novamente.}{}{1}{lf1 1, lf9 0}{-6}{ } 
+{88}{Diabos! Um resultado de NOVE é difícil de alcançar.}{}{1}{lf1 0}{-6}{lf1 1, lf9 1 } 
+{89}{Doce sucesso, eu venci!}{}{1}{lf1 1,lf9 1}{-53}{ } 
+{93}{Você tirou um CINCO e um TRÊS.}{Você tirou um CINCO e um TRÊS.}{}{}{}{ } 
+{94}{Role novamente.}{}{1}{lf1 1, lf8 0}{-6}{ } 
+{95}{OITO! Outro resultado fácil!}{}{1}{lf1 0}{-6}{lf1 1, lf8 1 } 
+{96}{Espero que sua carteira esteja cheia, parece que a sorte me sorriu.}{}{1}{lf1 1,lf8 1}{-53}{ } 
+{100}{Você tirou um CINCO e um DOIS.}{Você tirou um CINCO e um DOIS.}{}{}{}{ } 
+{101}{A dama sorte está brilhando para mim hoje! Um vencedor.}{}{1}{lf1 0, lf 7 0}{-53}{ } 
+{102}{Sorte podre! Eu perdi.}{}{1}{lf1 1, lf 7 0}{-56}{ } 
+{103}{Sou vitorioso, mais uma vez!}{}{1}{lf 7 1}{-53}{ } 
+{107}{Você tirou um CINCO e um UM.}{Você tirou um CINCO e um UM.}{}{}{}{ } 
+{108}{Role novamente.}{}{1}{lf1 1, lf6 0}{-6}{ } 
+{109}{Prepare-se para se despedir de mais algumas de suas preciosas moedas!}{}{1}{lf1 0}{-6}{lf1 1, lf6 1 } 
+{110}{Hora de pagar o flautista. É quase doloroso vencer assim, não é, senhor?}{}{1}{lf1 1,lf6 1}{-53}{ } 
+{114}{Você tirou um QUATRO e um QUATRO.}{Você tirou um QUATRO e um QUATRO.}{}{}{}{ } 
+{115}{Role novamente.}{}{1}{lf1 1, lf8 0}{-6}{ } 
+{116}{Um belo e fácil OITO. Isso está praticamente ganho.}{}{1}{lf1 0}{-6}{lf1 1, lf8 1 } 
+{117}{Foi fácil demais. Eu venci.}{}{1}{lf1 1,lf8 1}{-53}{ } 
+{121}{Você tirou um QUATRO e um TRÊS.}{Você tirou um QUATRO e um TRÊS.}{}{}{}{ } 
+{122}{Número da sorte SETE! Parece que sou o vencedor!}{}{1}{lf1 0, lf 7 0}{-53}{ } 
+{123}{Um SETE! Malditos dados! Eu perdi!}{}{1}{lf1 1, lf 7 0}{-56}{ } 
+{124}{QUEM É O MESTRE AGORA?!}{}{1}{lf 7 1}{-53}{qu 1108 4, tr 8 3 , rq 2168} 
+{128}{Você tirou um QUATRO e um DOIS.}{Você tirou um QUATRO e um DOIS.}{}{}{}{ } 
+{129}{Role novamente.}{}{1}{lf1 1, lf6 0}{-6}{ } 
+{130}{Um SEIS. Alvo fácil! Lá vem...}{}{1}{lf1 0}{-6}{lf1 1, lf6 1 } 
+{131}{SEIS! Outro vencedor!}{}{1}{lf1 1,lf6 1}{-53}{ } 
+{135}{Você tirou um QUATRO e um UM.}{Você tirou um QUATRO e um UM.}{}{}{}{ } 
+{136}{Role novamente.}{}{1}{lf1 1, lf5 0}{-6}{ } 
+{137}{Um CINCO. Parece que você vai me dever.}{}{1}{lf1 0}{-6}{lf1 1, lf5 1 } 
+{138}{Um CINCO é um vencedor sortudo!}{}{1}{lf1 1,lf5 1}{-53}{ } 
+{142}{Você tirou um TRÊS e um TRÊS.}{Você tirou um TRÊS e um TRÊS.}{}{}{}{ } 
+{143}{Role novamente.}{}{1}{lf1 1, lf6 0}{-6}{ } 
+{144}{Um SEIS. Estou com sorte.}{}{1}{lf1 0}{-6}{lf1 1, lf6 1 } 
+{145}{Um SEIS! Meu sistema está valendo a pena...}{}{1}{lf1 1,lf6 1}{-53}{ } 
+{149}{Você tirou um TRÊS e um DOIS.}{Você tirou um TRÊS e um DOIS.}{}{}{}{ } 
+{150}{Role novamente.}{}{1}{lf1 1, lf5 0}{-6}{ } 
+{151}{Esse é um alvo difícil de acertar.}{}{1}{lf1 0}{-6}{lf1 1, lf5 1 } 
+{152}{Um QUATRO! Desculpe tirar seu dinheiro de novo!}{}{1}{lf1 1,lf5 1}{-53}{ } 
+{156}{Você tirou um TRÊS e um UM.}{Você tirou um TRÊS e um UM.}{}{}{}{ } 
+{157}{Role novamente.}{}{1}{lf1 1, lf4 0}{-6}{ } 
+{158}{Não é um QUATRO! Estou fazendo isso da maneira mais difícil.}{}{1}{lf1 0}{-6}{lf1 1, lf4 1 } 
+{159}{Um QUATRO! Desculpe tirar seu dinheiro de novo!}{}{1}{lf1 1,lf4 1}{-53}{ } 
+{163}{Você tirou um DOIS e um DOIS.}{Você tirou um DOIS e um DOIS.}{}{}{}{ } 
+{164}{Role novamente}{}{1}{lf1 1, lf4 0}{-6}{ } 
+{165}{Esse vai ser um alvo difícil!}{}{1}{lf1 0}{-6}{lf1 1, lf4 1 } 
+{166}{Maravilhoso! Doce é a vitória!}{}{1}{lf1 1,lf4 1}{-53}{ } 
+{170}{Você tirou um DOIS e um UM.}{Você tirou um DOIS e um UM.}{}{}{}{ } 
+{171}{Role novamente.}{}{1}{lf1 1, lf3 0}{-6}{ } 
+{172}{Céus! Não um TRÊS! Que jogada medíocre.}{}{1}{lf1 0}{-6}{lf1 1, lf3 1 } 
+{173}{Um TRÊS! Era impossível, mas eu consegui mesmo assim!}{}{1}{lf1 1,lf3 1}{-53}{ } 
+{177}{Olhos de Cobra! Você tirou um UM e um UM.}{Você tirou um UM e um UM.}{}{}{}{ } 
+{178}{Que diabos esses dados!}{}{1}{lf2 0}{-56}{ } 
+{179}{Que diabos esses dados!}{}{1}{lf2 1}{-56}{ } 
+{185}{Você venceu, meu amigo.}{Você venceu, meu amigo.}{}{}{}{re 50} 
+{186}{Está pronto para jogar de novo?}{}{1}{gv1019 5}{-59}{$$ 1 } 
+{187}{Está pronto para jogar de novo?}{}{1}{gv1019 10}{-59}{$$ 10 } 
+{188}{Está pronto para jogar de novo?}{}{1}{gv1019 100}{-59}{$$ 100 } 
+{189}{Está pronto para jogar de novo?}{}{1}{gv1019 1000}{-59}{$$ 1000 } 
+{190}{Está pronto para jogar de novo?}{}{1}{gv1019 2000}{-59}{$$ 2000 } 
+{196}{Você perdeu, meu amigo.}{Você perdeu, meu amigo.}{}{}{}{lf 19 1, re 50} 
+{197}{Está pronto para jogar de novo?}{}{1}{gv1019 5, $$ 10}{-59}{$$ -5 } 
+{198}{Está pronto para jogar de novo?}{}{1}{gv1019 10, $$ 20}{-59}{$$ -10 } 
+{199}{Está pronto para jogar de novo?}{}{1}{gv1019 100, $$ 200}{-59}{$$ -100 } 
+{200}{Está pronto para jogar de novo?}{}{1}{gv1019 1000, $$ 2000}{-59}{$$ -1000 } 
+{201}{Está pronto para jogar de novo?}{}{1}{gv1019 1, $$ -9}{358}{$$ -5 } 
+{202}{Está pronto para jogar de novo?}{}{1}{gv1019 10, $$ -19}{358}{$$ -10 } 
+{203}{Está pronto para jogar de novo?}{}{1}{gv1019 100, $$ -199}{358}{$$ -100 } 
+{204}{Está pronto para jogar de novo?}{}{1}{gv1019 1000, $$ -1999}{358}{$$ -1000 } 
+{205}{Está pronto para jogar de novo?}{}{1}{gv1019 2000, $$ 4000}{-59}{$$ -2000 } 
+{206}{Está pronto para jogar de novo?}{}{1}{gv1019 2000, $$ -3999}{358}{$$ -2000 } 
+{209}{Concorda com essas probabilidades?}{Concorda com essas probabilidades?}{}{}{}{ } 
+{210}{Concordo com 1000 moedas por partida.}{}{1}{$$ 5000}{216}{gv1019 1000 } 
+{211}{Vamos fazer 2000 moedas por partida.}{}{1}{$$ 5000}{216}{gv1019 2000 } 
+{212}{Não posso atender ao seu mínimo de 5000 moedas para jogar.}{}{1}{$$ -4999, rp -1009}{387}{ } 
+{213}{Não posso atender ao seu mínimo de 5000 moedas para jogar.}{}{1}{$$ -4999, rp 1009}{425}{ } 
+{216}{Certo, este é o seu primeiro lançamento de dados para definir sua marca.}{Certo, este é o seu primeiro lançamento de dados para definir sua marca.}{}{}{}{ } 
+{217}{Lance.}{}{1}{lf 7 0}{-8}{lf1 0, lf3 0, lf4 0, lf5 0, lf6 0, lf8 0, lf9 0, lf10 0, lf 12 0 } 
+{218}{Lance.}{}{1}{lf 7 1, lc 2 0}{177}{lf1 0, lf3 0, lf4 0, lf5 0, lf6 0, lf8 0, lf9 0, lf10 0, lf 12 0, lf 7 0 } 
+{219}{Lance.}{}{1}{lf 7 1, lc 2 6}{72}{lf1 0, lf3 0, lf4 0, lf5 0, lf6 0, lf8 0, lf9 0, lf10 0, lf 12 0, lc 2 7 } 
+{220}{Lance.}{}{1}{lf 7 1, lc 2 7}{100}{lf1 0, lf3 0, lf4 0, lf5 0, lf6 0, lf8 0, lf9 0, lf10 0, lf 12 0, lc 2 8 } 
+{221}{Lance.}{}{1}{lf 7 1, lc 2 8}{44}{lf1 0, lf3 0, lf4 0, lf5 0, lf6 0, lf8 0, lf9 0, lf10 0, lf 12 0, lc 2 9 } 
+{222}{Lance.}{}{1}{lf 7 1, lc 2 9}{121}{lf1 0, lf3 0, lf4 0, lf5 0, lf6 0, lf8 0, lf9 0, lf10 0, lf 12 0, lc 2 10 } 
+{223}{Gostaria de mudar as apostas.}{}{1}{lf 7 0}{209}{ } 
+{224}{Gostaria de mudar as apostas.}{}{1}{lf 7 1}{209}{ } 
+{225}{Preciso me retirar.}{}{1}{}{0}{ } 
+{231}{Ficaria feliz em lhe conceder um pequeno empréstimo.}{Ficaria feliz em lhe conceder um pequeno empréstimo.}{}{}{}{ } 
+{232}{Muito esportivo da sua parte, senhor. Estou em dívida com você.}{}{5}{rp -1009}{209}{$$ 5000 , rp 1009} 
+{233}{Prefiro não contrair dívidas.}{}{5}{}{237}{ } 
+{237}{Foi um prazer jogar dados com você, senhor. Espero que possamos repetir em breve. Você tem estilo e alguma habilidade, aguardo ansiosamente por nossas próximas sessões.}{Foi um prazer jogar dados com você, senhor. Espero que possamos repetir em breve. Você tem estilo e alguma habilidade, aguardo ansiosamente por nossas próximas sessões.}{}{}{}{ } 
+{238}{Tenho certeza que sim.}{}{5}{}{321}{ } 
+{243}{Sou um jogador, garoto, e isso não se aprende na escola. Permitirei que se associe a mim aqui no clube. Vamos jogar dados juntos. Se for esperto, talvez até aprenda a ser tão bom quanto eu, embora ainda não tenha conhecido ninguém capaz disso. Se esse dia chegar, você terá alcançado o status de mestre jogador.}{Sou um jogador, garoto, e isso não se aprende na escola. Permitirei que se associe a mim aqui no clube. Vamos jogar dados juntos. Se for esperto, talvez até aprenda a ser tão bom quanto eu, embora ainda não tenha conhecido ninguém capaz disso. Se esse dia chegar, você terá alcançado o status de mestre jogador.}{}{}{}{qu 1108 1 } 
+{244}{Seria uma honra ter tal oportunidade.}{}{5}{}{250}{qu 1108 2 } 
+{245}{Acho que não poderia arcar com tal relação.}{}{5}{}{304}{ } 
+{250}{Gosto da sua confiança, garoto. Mas quão bom você é? O que o torna especial?}{Gosto da sua confiança, garoto. Mas quão bom você é? O que o torna especial?}{}{}{}{ } 
+{251}{Sou apenas sortudo, só isso. Muito sortudo.}{}{-12}{}{258}{lc 1 1 } 
+{252}{Sou imbatível, sempre venço.}{}{5}{}{258}{lc 1 2 } 
+{253}{Desenvolvi um sistema que é garantia de vitória.}{}{5}{}{273}{lc 1 3 } 
+{254}{Percebo coisas que os outros não percebem. Isso me dá uma vantagem.}{}{5}{pe 15}{281}{lc 1 4 } 
+{255}{Sou mais inteligente que a média das pessoas.}{}{13}{}{258}{lc 1 5  } 
+{256}{Sou rápido, e isso geralmente é o suficiente.}{}{5}{sk 1 15}{268}{lc 1 6 } 
+{258}{Hah! Se eu ganhasse uma moeda cada vez que ouvi essa frase. [Ele suspira.] Voltar a ser jovem e inocente... Você é como um bebê no berço, @pcname@, quase vou lamentar por levar seu dinheiro.}{Hah! Se eu ganhasse uma moeda cada vez que ouvi essa frase. [Ele suspira.] Voltar a ser jovem e inocente... Você é como um bebê no berço, @pcname@, quase vou lamentar por levar seu dinheiro.}{}{}{}{ } 
+{259}{Quase tanto quanto eu vou lamentar levar o seu, tenho certeza.}{}{5}{}{278}{ } 
+{260}{Vamos parar de conversa e começar logo, senhor.}{}{5}{}{278}{ } 
+{263}{Certo, todo mundo acha que é mais esperto que o próximo. Você pode ser afiado, mas isso é um jogo de coragem, não de inteligência. Já vi todo tipo de gente desmoronar sob pressão. Não tem nada a ver com ser inteligente ou burro, @pcname@.}{Certo, todo mundo acha que é mais esperto que o próximo. Você pode ser afiado, mas isso é um jogo de coragem, não de inteligência. Já vi todo tipo de gente desmoronar sob pressão. Não tem nada a ver com ser inteligente ou burro, @pcname@.}{}{}{}{ } 
+{264}{Isso nunca vai acontecer comigo.}{}{5}{}{278}{ } 
+{265}{O talento intelectual prevalecerá, senhor.}{}{5}{}{278}{ } 
+{268}{Certo, bem, se tentar qualquer coisa "rápida" aqui, vai acabar boiando nos esgotos, falecido por "causas misteriosas". Ficou claro?}{Certo, bem, se tentar qualquer coisa "rápida" aqui, vai acabar boiando nos esgotos, falecido por "causas misteriosas". Ficou claro?}{}{}{}{ } 
+{269}{Claro, claro. Tudo dentro das regras.}{}{5}{}{278}{ } 
+{270}{Vou fingir que não ouvi isso.}{}{5}{}{278}{ } 
+{273}{Já vi todo sistema que existe, garoto. Se acha que tem um especial, pense de novo. Apostar é sobre ter coragem. Se perder a calma, perde o dinheiro, simples assim. Um sistema não pode te dar a coragem que precisa - ou você tem ou não tem.}{Já vi todo sistema que existe, garoto. Se acha que tem um especial, pense de novo. Apostar é sobre ter coragem. Se perder a calma, perde o dinheiro, simples assim. Um sistema não pode te dar a coragem que precisa - ou você tem ou não tem.}{}{}{}{ } 
+{274}{Vamos ver isso!}{}{5}{}{278}{ } 
+{275}{Vamos colocar à prova então, que tal?}{}{5}{}{278}{ } 
+{278}{Sem dúvida já ouviu falar de um jogo chamado Dados do Cavalheiro. É o único jogo que eu pratico.}{Sem dúvida já ouviu falar de um jogo chamado Dados do Cavalheiro. É o único jogo que eu pratico.}{}{}{}{ } 
+{279}{As regras variam tanto - como se joga aqui em Tarant?}{}{5}{}{474}{ } 
+{281}{Garoto, você é mais esperto do que eu pensava. Um olhar afiado leva longe nesse ramo, mas no fim tudo se resume a ter coragem para arriscar quando a oportunidade aparece. Está pronto para jogar?}{Garoto, você é mais esperto do que eu pensava. Um olhar afiado leva longe nesse ramo, mas no fim tudo se resume a ter coragem para arriscar quando a oportunidade aparece. Está pronto para jogar?}{}{}{}{ } 
+{282}{Sim.}{}{5}{}{278}{ } 
+{285}{Sem dúvida já ouviu falar de um jogo chamado Dados do Cavalheiro. É o único jogo que eu pratico.}{Sem dúvida já ouviu falar de um jogo chamado Dados do Cavalheiro. É o único jogo que eu pratico.}{}{}{}{ } 
+{286}{As regras variam tanto - como se joga aqui em Tarant?}{}{5}{}{474}{ } 
+{288}{Eu jogo alto, senhor. Jogar por menos de 1000 moedas é perda de tempo. Por isso, exijo uma bolsa inicial de não menos que 5000 moedas. Espero que não esteja perdendo meu tempo, @pcname@. Ou é só conversa fiada sem nada por trás?}{Eu jogo alto, senhor. Jogar por menos de 1000 moedas é perda de tempo. Por isso, exijo uma bolsa inicial de não menos que 5000 moedas. Espero que não esteja perdendo meu tempo, @pcname@. Ou é só conversa fiada sem nada por trás?}{}{}{}{lf 27 1} 
+{289}{Não ando com esse tipo de dinheiro por aí.}{}{5}{$$ -4999}{387}{ } 
+{290}{Voltarei. Até logo.}{}{5}{$$ -4999}{0}{ } 
+{291}{Tenho uma bolsa suficiente para o seu jogo, senhor.}{}{5}{$$ 5000}{209}{ } 
+{292}{Parece que o senhor está fazendo a maior parte da fanfarronice aqui.}{}{5}{$$ 5000}{209}{ } 
+{300}{Eu sou Gurin Rockharrow. Acho que não nos conhecemos.}{Eu sou Gurin Rockharrow. Acho que não nos conhecemos.}{}{}{}{ lf 13 1} 
+{301}{Eu sou @pcname@, prazer em conhecê-lo.}{}{5}{tr 8 2}{463}{ } 
+{302}{Eu sou @pcname@, prazer em conhecê-lo.}{}{5}{ tr 8 -1}{304}{ } 
+{303}{Me @pcname@ feliz estar aqui.}{}{-4}{}{304}{ } 
+{304}{O que posso fazer por você?}{O que posso fazer por você, @pcname@?}{}{}{}{ } 
+{305}{O que o senhor faz aqui, Sr. Rockharrow?}{}{5}{lf 16 0}{350}{} 
+{306}{Por favor, me lembre, qual é a sua profissão, bom senhor?}{}{5}{lf 16 1}{350}{ } 
+{307}{Conte mais sobre este clube.}{}{5}{lf 17 0}{504}{ } 
+{308}{R:$0, 1040-1049}{}{1}{ss -6 , lf 14 0}{321}{lf14 1 } 
+{309}{R:$0, 1040-1049}{}{1}{ss 7 , ss -13 , lf 14 0}{321}{lf14 1 } 
+{310}{R:$0, 1040-1049}{}{1}{ss 14, lf 14}{321}{lf14 1 } 
+{311}{Gurin, tenho o seu dinheiro.}{}{5}{rp 1009, $$ 5000}{433}{rp -1009, $$ -5000 } 
+{312}{Que tal uma partida de Dados?}{}{5}{tr 8 -2 , qu 1108 0}{449}{ } 
+{313}{Que tal uma partida de Dados?}{}{5}{lf 19 0, rp -1009, $$ 5000, qu1108 2}{380}{ } 
+{314}{Que tal uma partida de Dados?}{}{5}{lf 19 1, rp -1009, $$ 5000, qu1108 2}{498}{ } 
+{315}{Que tal uma partida de Dados?}{}{5}{rp -1009, $$ -4999, qu1108 2}{492}{ } 
+{316}{Que tal uma partida de Dados?}{}{5}{rp 1009, $$ -4999}{404}{ } 
+{317}{Refleti mais sobre sua oferta de me treinar.}{}{5}{qu 1108 1}{488}{ } 
+{318}{O que você faz?}{}{-4}{}{350}{} 
+{319}{O que é este lugar?}{}{-4}{lf 11 0}{344}{lf11 1 } 
+{320}{E:}{}{1}{}{0}{ } 
+{321}{Mais alguma coisa?}{Mais alguma coisa?}{}{}{}{ } 
+{322}{O que o senhor faz aqui, Sr. Rockharrow?}{}{5}{lf 16 0}{350}{ } 
+{323}{Por favor, me lembre, qual é a sua profissão, bom senhor?}{}{5}{lf 16 1}{350}{ } 
+{324}{Conte mais sobre este clube.}{}{5}{lf 17 0}{504}{ } 
+{325}{R:$0, 1040-1049}{}{1}{ss -6 , lf 14 0}{321}{lf14 1 } 
+{326}{R:$0, 1040-1049}{}{1}{ss 7 , ss -13 , lf 14 0}{321}{lf14 1 } 
+{327}{R:$0, 1040-1049}{}{1}{ss 14, lf 14}{321}{lf14 1 } 
+{328}{O que você faz?}{}{-4}{}{350}{} 
+{329}{O que é este lugar?}{}{-4}{lf 11 0}{344}{lf11 1 } 
+{330}{Gurin, tenho o seu dinheiro.}{}{5}{rp 1009, $$ 5000}{433}{rp -1009, $$ -5000 } 
+{331}{Que tal uma partida de Dados?}{}{5}{tr 8 -2 , qu 1108 0}{449}{ } 
+{332}{Que tal uma partida de Dados?}{}{5}{lf 19 0, rp -1009, $$ 5000, qu1108 2}{380}{ } 
+{333}{Que tal uma partida de Dados?}{}{5}{lf 19 1, rp -1009, $$ 5000, qu1108 2}{498}{ } 
+{334}{Que tal uma partida de Dados?}{}{5}{rp -1009, $$ -4999, qu1108 2}{492}{ } 
+{335}{Que tal uma partida de Dados?}{}{5}{rp 1009, $$ -4999}{404}{ } 
+{336}{Refleti mais sobre sua oferta de me treinar.}{}{5}{qu 1108 1}{488}{ } 
+{337}{E:}{}{1}{}{0}{ } 
+{339}{Os jornais são um dos benefícios de ser membro aqui. Há uma excelente seleção na área do salão. É uma regra não escrita que você deixe os jornais para outros membros lerem.}{Os jornais são um dos benefícios de ser membro aqui. Há uma excelente seleção na área do salão. É uma regra não escrita que você deixe os jornais para outros membros lerem.}{}{}{}{lf 15 1} 
+{340}{Obrigado. Vou dar uma olhada neles.}{}{5}{}{504}{ } 
+{341}{Obrigado, mas não perco meu tempo com notícias.}{}{5}{}{504}{ } 
+{342}{K:}{}{5}{}{504}{ } 
+{343}{E:}{}{1}{}{0}{ } 
+{344}{Este clube é o melhor em Tarant. O ambiente é confortável e tranquilo. A equipe é excelente. Eles são discretos e prestativos ao mesmo tempo. É simplesmente maravilhoso!}{Este clube é o melhor em Tarant. O ambiente é confortável e tranquilo. A equipe é excelente. Eles são discretos e prestativos ao mesmo tempo. É simplesmente maravilhoso!}{}{}{}{lf 11 1} 
+{345}{Sim, é agradável.}{}{5}{}{504}{ } 
+{346}{K:}{}{5}{}{504}{ } 
+{347}{Ooooooh.}{}{-4}{}{504}{ } 
+{348}{E:}{}{1}{}{0}{ } 
+{350}{Sou um jogador profissional. Passo a maior parte do meu tempo aqui no Clube. Você quase sempre pode me encontrar aqui. Meu jogo favorito é Dados dos Cavalheiros. Sou bastante bom nisso. Na verdade, nunca encontrei alguém melhor.}{Sou um jogador profissional. Passo a maior parte do meu tempo aqui no Clube. Você quase sempre pode me encontrar aqui. Meu jogo favorito é Dados dos Cavalheiros. Sou bastante bom nisso. Na verdade, nunca encontrei alguém melhor.}{}{}{}{lf 16 1} 
+{351}{[Erguer a sobrancelha.] Fascinante. Que sua sorte continue.}{}{5}{}{321}{ } 
+{352}{Fale-me sobre o clube?}{}{5}{lf11 0}{344}{lf11 1 } 
+{353}{Onde ficam os jornais?}{}{5}{lf15 0}{339}{lf15 1 } 
+{354}{Você me ensinaria a ser um Mestre Jogador?}{}{5}{tr 8 -2 , tr 8 2, qb 1108 0}{243}{} 
+{355}{Ooooooh.}{}{-4}{}{321}{ } 
+{356}{K:}{}{5}{}{321}{ } 
+{357}{E:}{}{1}{}{0}{ } 
+{358}{Parece que seus fundos estão baixos. Você teve uma sequência de má sorte, senhor. Sinto-me compelido a oferecer-lhe uma extensão de crédito para que tenha uma chance justa de recuperar suas perdas.}{Parece que você não tem fundos suficientes para continuar com essas apostas.}{}{}{}{ } 
+{359}{Quais são os termos do seu crédito?}{}{5}{rp -1009}{366}{ } 
+{360}{Já estou em dívida com o senhor.}{}{5}{rp 1009}{425}{ } 
+{361}{Aceito sua oferta, senhor. O senhor é muito generoso.}{}{5}{rp -1009}{216}{lf7 1, $$ 5000, rp 1009 } 
+{362}{Sua oferta é muito generosa, mas devo me retirar.}{}{5}{}{237}{ } 
+{366}{Um simples acordo entre Cavalheiros, pague-me quando puder. Não jogaremos dados novamente até que pague a dívida. Não sou um banco, não cobro juros, mas a honra dita que eu lhe dê uma chance de recuperar suas perdas. Sugiro um valor de 5000 moedas para que possamos continuar.}{Um simples acordo entre Cavalheiros, pague-me quando puder. Não jogaremos dados novamente até que pague a dívida. Não sou um banco, não cobro juros, mas a honra dita que eu lhe dê uma chance de recuperar suas perdas. Sugiro um valor de 5000 moedas para que possamos continuar.}{}{}{}{ } 
+{367}{Prefiro não contrair dívidas, bom senhor.}{}{5}{}{373}{ } 
+{368}{Aceito sua oferta, senhor. O senhor é muito generoso.}{}{5}{rp -1009}{216}{lf7 1, $$ 5000, rp 1009 } 
+{373}{Eu lhe falei sobre este momento, garoto. É aqui que você descobre se tem coragem para ser o melhor. Ou você tem, ou não tem.}{Eu lhe falei sobre este momento, garoto. É aqui que você descobre se tem peito para ser o melhor. Ou você tem, ou não tem.}{}{}{}{ } 
+{374}{Suas tentativas de me influenciar são transparentes, senhor.}{}{15}{}{237}{ } 
+{375}{Entendo seu ponto de vista, então aceitarei sua oferta de empréstimo.}{}{5}{}{216}{lf7 1, $$ 5000, rp 1009 } 
+{376}{Ainda assim, senhor, preferiria não contrair dívidas.}{}{5}{}{321}{ } 
+{380}{Estou pronto se você estiver.}{Estou pronto se você estiver.}{}{}{}{ } 
+{381}{Estou com sorte hoje, senhor. Seu dinheiro está prestes a se tornar meu.}{}{5}{}{288}{ } 
+{382}{Veremos quanto a isso.}{}{5}{}{288}{ } 
+{383}{Especular é fácil. Vamos jogar alguns dados.}{}{5}{}{288}{ } 
+{384}{E:}{}{1}{}{0}{ } 
+{387}{Volte quando tiver mais dinheiro. Ficarei feliz em jogar dados com você então.}{Volte quando tiver mais dinheiro. Ficarei feliz em jogar dados com você então.}{}{}{}{ } 
+{388}{K:}{}{5}{}{321}{ } 
+{389}{E:}{}{5}{}{0}{ } 
+{392}{Nossos jogos amistosos chegaram ao fim. Simplesmente não posso mais arcar com esse prazer! Desejo-lhe sorte @pcname@.}{Nossos jogos amistosos chegaram ao fim. Simplesmente não posso mais arcar com esse prazer! Desejo-lhe sorte @pcname@.}{}{}{}{ } 
+{393}{Obrigado por me treinar, Gurin.}{}{5}{}{0}{ } 
+{394}{Espero que possamos jogar novamente algum dia.}{}{5}{}{0}{ } 
+{398}{Sinceramente, senhor! Se não podia arcar com a perda, não deveria ter apostado seu dinheiro. Que ingratidão! Tenha um bom dia.}{Sinceramente, senhora! Se não podia arcar com a perda, não deveria ter apostado seu dinheiro. Que ingratidão! Tenha um bom dia.}{}{}{}{ } 
+{399}{Vou tomá-lo à força, então. Morra, tolo!}{}{5}{}{}{co , fl  13} 
+{400}{Bom débarras, senhor!}{}{5}{}{0}{ } 
+{404}{Achei que tinha deixado claro que NÃO jogaria dados com você até que pagasse sua dívida. Sou firme nessa política.}{Achei que tinha deixado claro que NÃO jogaria dados com você até que pagasse sua dívida. Sou firme nessa política.}{}{}{}{ } 
+{405}{Bem, não vou pagar essa dívida.}{}{5}{}{411}{ } 
+{406}{K:}{}{5}{}{321}{ } 
+{407}{E:}{}{5}{}{0}{ } 
+{411}{Sinceramente, senhor, se escolhe se tornar um caloteiro, não posso impedi-lo. Não me envolvo em brigas ou duelos. Achei que fosse um homem de palavra, mas agora está claro que não é! Para mim, é irrelevante o que faça, senhor, pois toda essa situação está começando a me irritar. Estou considerando cancelar nosso acordo completamente.}{Sinceramente, senhora, se escolhe se tornar uma caloteira, não posso impedi-la. Não me envolvo em brigas ou duelos. Achei que fosse um homem de palavra, mas agora está claro que não é! Para mim, é irrelevante o que faça, senhor, pois toda essa situação está começando a me irritar. Estou considerando cancelar nosso acordo completamente.}{}{}{}{ } 
+{412}{Vou tentar conseguir seu dinheiro. Adeus.}{}{5}{}{0}{ } 
+{413}{Estou convencido de que me trapaceou. Não vou pagar.}{}{5}{}{0}{rp 1010, re -10 } 
+{418}{Já chega, senhor! Você é incrível! Nesse ritmo, logo me deixará na miséria. Esgotou meus fundos e admito hoje que encontrei meu igual. Você é um mestre dos jogos. Parabéns.}{Já chega, senhor! Você é incrível! Nesse ritmo, logo me deixará na miséria. Esgotou meus fundos e admito hoje que encontrei meu igual. Você é um mestre dos jogos. Parabéns.}{}{}{}{lc 2 0 } 
+{419}{Eu sabia que esse dia chegaria.}{}{5}{}{392}{ } 
+{420}{Seu dinheiro? Dinheiro que ganhou de mim! Exijo satisfação!}{}{5}{}{392}{ } 
+{425}{O senhor já estendeu seu crédito, é muito lamentável que não tenha conseguido recuperar suas perdas. Seria melhor cuidar de suas finanças e retornar com o dinheiro.}{O senhor já estendeu seu crédito, é muito lamentável que não tenha conseguido recuperar suas perdas. Seria melhor cuidar de suas finanças e retornar com o dinheiro.}{}{}{}{ } 
+{426}{Vou tentar conseguir seu dinheiro. Adeus.}{}{5}{}{0}{ } 
+{427}{Você estava trapaceando, não vou pagar!}{}{5}{}{411}{ } 
+{433}{Fico feliz por termos resolvido esse assunto. Agora que sua dívida foi quitada, que tal tentarmos a sorte nos dados novamente?}{Fico feliz por termos resolvido esse assunto. Agora que sua dívida foi quitada, que tal tentarmos a sorte nos dados novamente?}{}{}{}{ } 
+{434}{Estou pronto se você estiver.}{}{5}{$$ 5000 , tr 8 -2}{492}{ } 
+{435}{Não posso atender ao seu valor mínimo de 5000 moedas para jogar.}{}{5}{$$ -4999, tr 8 -2}{321}{ } 
+{436}{Estou pronto se você estiver.}{}{5}{tr 8 3}{392}{ } 
+{437}{É minha política não apostar com aqueles de habilidade inferior.}{}{5}{tr 8 3}{0}{ } 
+{438}{E:}{}{5}{}{0}{ } 
+{440}{Excelente sugestão! Gostei do seu estilo, @pcname@.}{Excelente sugestão. Gostei do seu estilo @pcname@.}{}{}{}{ } 
+{441}{Não se ganha alto se não se aposta alto.}{}{1}{re -60}{216}{re +10 } 
+{442}{Gosto de deixar as coisas interessantes.}{}{1}{re -60}{216}{re +5 } 
+{443}{Vamos jogar alguns dados.}{}{1}{}{216}{ } 
+{449}{[Ele abre um largo sorriso.] Hah! Isso é muito engraçado... Eu jogo apostas altas e descobri que é melhor não me envolver com jogadores de habilidade muito abaixo da minha. Volte quando tiver um pouco mais de experiência, aí podemos conversar.}{[Ele abre um largo sorriso.] Hah! Isso é muito engraçado... Eu jogo apostas altas e descobri que é melhor não me envolver com jogadores de habilidade muito abaixo da minha. Volte quando tiver um pouco mais de experiência, aí podemos conversar.}{}{}{}{ } 
+{450}{Sua franqueza é apreciada.}{}{1}{re -80}{304}{re +5 } 
+{451}{Veremos quanto a isso.}{}{1}{}{304}{ } 
+{457}{Puxa! Como um simplório como você entrou aqui, nunca vou adivinhar. O que posso fazer por você, rapaz? Precisa do banheiro?}{Puxa! Como uma simplória como você entrou aqui, nunca vou adivinhar. O que posso fazer por você, moça? Precisa do banheiro?}{}{}{}{}
+{458}{Me querer saber o que ser esse lugar?}{}{-4}{}{344}{}
+{459}{Me querer saber quem ser você?}{}{-4}{}{350}{}
+{460}{E:}{}{1}{}{0}{}
+{463}{[Ele parece se lembrar de algo.] Você é @pcname@, o apostador?}{[Ele parece se lembrar de algo.] Você é @pcname@, o apostador?}{}{}{}{lf 15 1} 
+{464}{Sim, sou.}{}{5}{}{467}{ } 
+{467}{Peço desculpas pela minha brevidade. É um prazer conhecê-lo @pcname@! Ouvi coisas boas sobre você, dizem que tem talento para apostas. O que o traz ao Clube?}{Peço desculpas pela minha brevidade. É um prazer conhecê-lo @pcname@! Ouvi coisas boas sobre você, dizem que tem talento para apostas. O que a traz ao Clube?}{}{}{}{re +20 } 
+{468}{O senhor é o Mestre. Estou aqui para aprender.}{}{5}{sk 8 20}{243}{re+ 5 } 
+{469}{Certo demais! Estou aqui para levar seu dinheiro!}{}{5}{sk 8 -19}{449}{re -5 } 
+{470}{K:}{}{5}{}{321}{ } 
+{474}{Dados de cavalheiros é um jogo de azar. O jogo é jogado com dois dados, fazendo uma série de lançamentos. Você define uma marca e tenta relançá-la.}{Dados de cavalheiros é um jogo de azar. O jogo é jogado com dois dados, fazendo uma série de lançamentos. Você define uma marca e tenta relançá-la.}{}{}{}{ } 
+{475}{Eu poderia usar mais algumas informações.}{}{5}{}{480}{ } 
+{476}{Sim, sim... não muito diferente de como eu jogo.}{}{5}{tr 8 2}{288}{ } 
+{480}{Seu primeiro lançamento é especial. Se o total que você tirar somar SETE ou ONZE, você vence na hora. Se tirar um DOIS, você perde na hora. Se não vencer ou perder no primeiro lançamento, o número que você tirou é DEFINIDO como MARCA.}{Seu primeiro lançamento é especial. Se o total que você tirar somar SETE ou ONZE, você vence na hora. Se tirar um DOIS, você perde na hora. Se não vencer ou perder no primeiro lançamento, o número que você tirou é DEFINIDO como MARCA.}{}{}{}{ } 
+{481}{Por favor, continue.}{}{1}{}{483}{ } 
+{483}{Nos lançamentos seguintes, você tenta tirar exatamente o total da sua MARCA de novo, mas se tirar um SETE ou um DOIS, olho de cobra, você perde. Jogamos com apostas iguais.}{Nos lançamentos seguintes, você tenta tirar exatamente a sua marca de novo, mas se tirar um SETE ou um DOIS, olho de cobra, você perde. Jogamos com apostas iguais. Entendeu?}{}{}{}{ } 
+{484}{Quais são as apostas?}{}{1}{}{288}{ } 
+{488}{Ah, sim... então está reconsiderando minha oferta... vamos jogar alguns dados juntos? Com o tempo, quem sabe, você pode aprender alguma coisa.}{Ah, sim... então está reconsiderando minha oferta... vamos jogar alguns dados juntos? Com o tempo, quem sabe, você pode aprender alguma coisa.}{}{}{}{} 
+{489}{Estou pronto para enfrentar seu desafio. Vamos jogar.}{}{5}{}{250}{qu 1108 2 } 
+{490}{Acho que não posso arcar com uma relação dessas.}{}{5}{}{304}{ } 
+{492}{Com quais odds você quer jogar?}{Com quais odds você quer jogar?}{}{}{}{ } 
+{493}{Concordo com 1000 moedas por partida.}{}{1}{$$ 5000}{216}{gv1019 1000 } 
+{494}{Vamos fazer 2000 moedas por partida.}{}{1}{$$ 5000}{216}{gv1019 2000 } 
+{495}{Não posso atingir sua bolsa mínima de 5000 moedas para jogar.}{}{1}{$$ -4999, rp -1009}{387}{ } 
+{496}{Não posso atingir sua bolsa mínima de 5000 moedas para jogar.}{}{1}{$$ -4999, rp 1009}{425}{ } 
+{498}{[Ele está claramente se gabando.] Sabe, me dói tirar seu dinheiro assim, de verdade. Não gosto nem um pouco de fazer isso. É estritamente negócio, garanto. [Ele ri.] Estou pronto se você estiver.}{[Ele está claramente se gabando.] Sabe, me dói tirar seu dinheiro assim, de verdade. Não gosto nem um pouco de fazer isso. É estritamente negócio, garanto. [Ele ri.] Estou pronto se você estiver.}{}{}{}{ } 
+{499}{Estou com sorte hoje.}{}{5}{}{492}{ } 
+{500}{Vamos ver quanto a isso.}{}{5}{}{492}{ } 
+{501}{Especulação é barato. Vamos jogar alguns dados.}{}{5}{}{492}{ } 
+{502}{E:}{}{1}{}{0}{ } 
+{504}{O que você gostaria de saber?}{O que você gostaria de saber?}{}{}{}{}
+{505}{O que pode me dizer sobre o serviço aqui?}{}{5}{lf 15 0 , lf 11 0}{344}{lf11 1 } 
+{506}{O que pode me dizer sobre o serviço aqui?}{}{5}{lf11 0 , lf 15 1}{344}{lf11 1 , lf 17 1} 
+{507}{Onde ficam os jornais?}{}{5}{lf 15 0 , lf 11 0}{339}{lf15 1 } 
+{508}{Onde ficam os jornais?}{}{5}{lf15 0 , lf 11 1}{339}{lf15 1 , lf 17 1} 
+{509}{Só tem mais uma coisa que eu gostaria de perguntar.}{}{5}{}{321}{}
+{510}{E:}{}{1}{}{0}{}
+

@@ -1,0 +1,236 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Saudações, senhor. Você é o ferreiro local?}{}{5}{re 41, lf1 0}{23}{}
+{3}{Saudações, Garret. Pode me ajudar com algo?}{}{5}{re 41, lf1 1}{33}{}
+{4}{Isso foi rude. Você é o ferreiro?}{}{5}{re -40, lf1 0}{23}{}
+{5}{Hã... sim. Posso te perguntar uma coisa, Garret?}{}{5}{re -40, lf1 1}{27}{}
+{6}{Você ainda está disposto a devolver a caixa por 50 moedas, Garret?}{}{5}{lf4 1, qb1083 2}{134}{}
+{7}{Aqui estão as 80 moedas que combinamos pela caixa, Garret.}{}{5}{lf5 1, qb1083 2}{154}{$$ -80}
+{8}{Você reconsiderou? Vai baixar o preço do cofre?}{}{5}{lf6 1, qb1083 2}{138}{}
+{9}{Você ainda devolve a caixa por 50 moedas, Garret?}{}{-4}{lf4 1, qb1083 2}{134}{}
+{10}{Aqui. Eu tenho 80 moedas. Eu levo a caixa de volta pro Sr. Hallaway?}{}{-4}{lf5 1, qb1083 2}{154}{$$ -80}
+{11}{Você pensou mais a respeito? Vai baixar o preço do cofre?}{}{-4}{lf6 1, qb1083 2}{138}{}
+{12}{Você é o ferreiro?}{}{-4}{re 41, lf1 0}{23}{}
+{13}{Ei, Garret... Posso te perguntar uma coisa?}{}{-4}{re 41, lf1 1}{33}{}
+{14}{Você é o ferreiro, seu malvado?}{}{-4}{re -40, lf1 0}{23}{}
+{15}{Ei! Isso foi rude, Garret... Tudo bem se eu perguntar uma coisa?}{}{-4}{re -40, lf1 1}{27}{}
+{16}{I:}{}{1}{re -40, lf2 0}{0}{lf2 1, re -5}
+{17}{I:}{}{1}{re -40, lf2 1}{0}{co, fl 45}
+{18}{Gostaria de ser treinado como Especialista em Reparos.}{}{5}{tr12-1}{39}{et12 216}
+{19}{Eu quer ser Especiarista em Reparos.}{}{-4}{tr12-1}{39}{et12 216}
+{20}{Gostaria de ser treinado como Especialista em Chaveiros.}{}{5}{tr14-1}{39}{et14 193}
+{21}{Eu quer ser Especiarista em Chaveiro.}{}{-4}{tr14-1}{39}{et14 193}
+{22}{E:}{}{1}{}{0}{}
+{23}{Sou sim. Meu nome é Garret Almstead.}{Sou sim. Meu nome é Garret Almstead.}{}{}{}{lf1 1}
+{24}{Posso te fazer uma pergunta?}{}{5}{}{27}{}
+{25}{Eu pergunto uma coisa?}{}{-4}{}{27}{}
+{26}{E:}{}{1}{}{0}{}
+{27}{O que é? Seja rápido, não tenho o dia todo.}{O que é? Seja rápido, não tenho o dia todo.}{}{}{}{}
+{28}{T:12, 14, 15}{}{1}{}{39}{}
+{29}{U:12}{}{1}{}{39}{}
+{30}{[mais]}{}{1}{}{46}{}
+{31}{B:}{}{1}{}{39}{}
+{32}{E:}{}{1}{}{0}{}
+{33}{Em que posso te ajudar, @pcname@?}{Em que posso te ajudar, @pcname@?}{}{}{}{}
+{34}{T:12, 14, 15}{}{1}{}{39}{}
+{35}{U:12}{}{1}{}{39}{}
+{36}{B:}{}{1}{}{39}{}
+{37}{[mais]}{}{1}{}{46}{}
+{38}{E:}{}{1}{}{0}{}
+{39}{Precisa de mais alguma coisa?}{Precisa de mais alguma coisa?}{}{}{}{}
+{40}{T:12, 14, 15}{}{1}{}{39}{}
+{41}{U:12}{}{1}{}{39}{}
+{42}{[mais]}{}{1}{}{46}{}
+{43}{B:}{}{1}{}{39}{}
+{44}{E:}{}{1}{}{0}{}
+{45}{I:}{I:}{}{}{}{}
+{46}{Precisa de mais alguma coisa?}{Precisa de mais alguma coisa?}{}{}{}{}
+{47}{Acabei de estar na estalagem conversando com o Sr. Hallaway...}{}{5}{qa1083 1, qb 1083 2}{70}{}
+{48}{Ouvi dizer que você está retendo uma propriedade do Sr. Hallaway, o estalajadeiro.}{}{5}{qa1083 1, qb 1083 2}{70}{}
+{49}{Como um meio-orque se tornou o ferreiro da cidade?}{}{5}{lf3 0}{55}{}
+{50}{C:}{}{1}{}{39}{}
+{51}{Eu tava conversando com o Sr. Hallaway na estalagem...}{}{-4}{qa1083 1, qb 1083 2}{70}{}
+{52}{O Sr. Hallaway me disse que você está com as coisas dele!}{}{-4}{qa1083 1, qb 1083 2}{70}{}
+{53}{Como um meio-orque virou ferreiro?}{}{-4}{lf3 0}{55}{}
+{54}{[voltar]}{}{1}{}{39}{}
+{55}{Isso me perguntam muito. Fui abandonado quando criança. Passei vários anos vivendo nas ruas, catando e roubando o que precisava para sobreviver. Nunca ficava muito tempo no mesmo lugar... Até chegar em Blackroot.}{Isso me perguntam muito. Fui abandonado quando criança. Passei vários anos vivendo nas ruas, catando e roubando o que precisava para sobreviver. Nunca ficava muito tempo no mesmo lugar... Até chegar em Blackroot.}{}{}{}{}
+{57}{O que tinha de diferente em Blackroot?}{}{5}{}{60}{}
+{58}{O que aconteceu quando você chegou aqui?}{}{-4}{}{60}{}
+{59}{E:}{}{1}{}{0}{}
+{60}{O velho ferreiro, Gurney, não tinha filhos. Mas queria alguém para manter a oficina funcionando depois que ele partisse. Então teve pena de mim e me aceitou como aprendiz. Ele me fazia trabalhar longas e duras horas. Mas era um homem justo. Ele faleceu há alguns anos... Ainda sinto falta dele.}{O velho ferreiro, Gurney, não tinha filhos. Mas queria alguém para manter a oficina funcionando depois que ele partisse. Então teve pena de mim e me aceitou como aprendiz. Ele me fazia trabalhar longas e duras horas. Mas era um homem justo. Ele faleceu há alguns anos... Ainda sinto falta dele.}{}{}{}{}
+{61}{Bom, as pessoas morrem. É uma pena. Tenho outra pergunta...}{}{5}{}{39}{re -5, lf3 1}
+{62}{Uma história bem interessante. Posso te perguntar mais uma coisa?}{}{5}{}{39}{lf3 1}
+{63}{Ah! Você teve uma vida difícil. Sinto muito pela sua perda também.}{}{5}{}{67}{re +10, lf3 1}
+{64}{Hmm... Que pena. Eu pergunto mais uma coisa?}{}{-4}{}{39}{re -5, lf3 1}
+{65}{Parece que você teve uma vida difícil. Sinto muito que ele tenha morrido. Sei que isso te deixa triste...}{}{-4}{}{67}{re +10, lf3 1}
+{66}{E:}{}{1}{}{0}{lf3 1}
+{67}{Sabe... A maioria das pessoas não dá a mínima para mim... Sempre falando que sou um bastardo meio-sangue e coisas assim. Alguns até dizem na minha cara. São poucos os que se importam o suficiente para dizer uma palavra gentil. Obrigado. Tome... Pegue isso. É uma coisinha que fiz. Um presente, pela sua bondade.}{Sabe... A maioria das pessoas não dá a mínima para mim... Sempre falando que sou um bastardo meio-sangue e coisas assim. Alguns até dizem na minha cara. São poucos os que se importam o suficiente para dizer uma palavra gentil. Obrigado. Tome... Pegue isso. É uma coisinha que fiz. Um presente, pela sua bondade.}{}{}{}{in -2824}
+{68}{Ora... Obrigado! Posso te perguntar mais uma coisa?}{}{5}{}{39}{}
+{69}{Ah! Obrigado! Eu pergunto mais uma coisa?}{}{-4}{}{39}{}
+{70}{Aquele mão-aberta! Aposto que ele te contou tudo sobre como estou tentando cobrar a mais dele pela preciosa caixa-forte, não é? Ele tem o melhor lugar da cidade e ainda quer pechinchar por algumas moedas...}{Aquele mão-aberta! Aposto que ele te contou tudo sobre como estou tentando cobrar a mais dele pela preciosa caixa-forte, não é? Ele tem o melhor lugar da cidade e ainda quer pechinchar por algumas moedas...}{}{}{}{}
+{71}{Ele mencionou o incidente. Pode me contar o que aconteceu?}{}{5}{}{75}{}
+{72}{Então ele trouxe a caixa para você?}{}{5}{}{75}{}
+{73}{É. Ele me contou. Disse que trouxe a caixa pra você e que você ficou com ela.}{}{-4}{}{75}{}
+{74}{E:}{}{1}{}{0}{}
+{75}{Ele trouxe a caixa para consertar. Disse que o trinco estava emperrando e me pediu para consertar. Dei um orçamento de 50 moedas. Enquanto a tinha aqui, notei que as dobradiças estavam ruins, então as troquei, e uma das peças dos cantos estava lascada, então a consertei. O preço final ficou em 137 moedas.}{Ele trouxe a caixa para consertar. Disse que o trinco estava emperrando e me pediu para consertar. Dei um orçamento de 50 moedas. Enquanto a tinha aqui, notei que as dobradiças estavam ruins, então as troquei, e uma das peças dos cantos estava lascada, então a consertei. O preço final ficou em 137 moedas.}{}{}{}{}
+{76}{Então você consertou coisas que ele não pediu?}{}{5}{}{82}{}
+{77}{Ele não aprovou essas mudanças, aprovou?}{}{5}{}{82}{}
+{78}{Pelo que me parece, você estava tentando enganá-lo...}{}{5}{}{82}{}
+{79}{Você consertou coisas que ele não mandou?}{}{-4}{}{82}{}
+{80}{Acho que você tentou enganá-lo...}{}{-4}{}{82}{}
+{81}{E:}{}{1}{}{0}{}
+{82}{Escuta. Quando eu faço alguma coisa, eu faço direito. Ele conhece a qualidade do meu trabalho. Se ele trouxesse as coisas para mim quando começassem a mostrar desgaste, não custaria tanto para consertá-las! Até ele pagar, vai ficar trancado na minha oficina!}{Escuta. Quando eu faço alguma coisa, eu faço direito. Ele conhece a qualidade do meu trabalho. Se ele trouxesse as coisas para mim quando começassem a mostrar desgaste, não custaria tanto para consertá-las! Até ele pagar, vai ficar trancado na minha oficina!}{}{}{}{}
+{83}{O Sr. Hallaway tem sido um bom cliente ao longo dos anos?}{}{5}{ch 7}{94}{}
+{84}{O Sr. Hallaway tem sido um bom cliente ao longo dos anos?}{}{5}{ch -7}{157}{}
+{85}{[intimidante] Acho melhor você devolver a caixa para ele... agora.}{}{5}{na -50}{177}{re -5}
+{86}{[intimidante] Acho melhor você devolver a caixa para ele... agora.}{}{5}{na 49}{138}{}
+{87}{Eu quero aquela caixa... Vou ter que apelar para a violência?}{}{5}{na -50}{177}{re -5}
+{88}{O Sr. Hallaway tem sido um bom cliente por muito tempo?}{}{-4}{ch 7}{94}{}
+{89}{O Sr. Hallaway tem sido um bom cliente por muito tempo?}{}{-4}{ch -7}{157}{}
+{90}{[intimidante] Eu acho que é melhor você devolver a caixa... agora.}{}{-4}{na -50}{177}{re -5}
+{91}{[intimidante] Eu acho que é melhor você devolver a caixa... agora.}{}{-4}{na 49}{138}{}
+{92}{Eu quero essa caixa. Você devolve, ou quer que eu te machuque?}{}{-4}{na -50}{177}{re -5}
+{93}{E:}{}{1}{}{0}{}
+{94}{Bem. Sim. Ele tem sido. Traz coisas para mim regularmente. Sempre paga rápido. Ele é bem de vida, sabe.}{Bem. Sim. Ele tem sido. Traz coisas para mim regularmente. Sempre paga rápido. Ele é bem de vida, sabe.}{}{}{}{}
+{95}{Ele alguma vez te ajudou? Mandou outros clientes para você?}{}{5}{ch 11}{100}{}
+{96}{Então, tê-lo chateado com você pode realmente prejudicar seus negócios?}{}{5}{ch -10}{104}{}
+{97}{Ele te ajuda? Manda trabalho de pessoas da estalagem?}{}{-4}{ch 11}{100}{}
+{98}{Então, se ele estiver bravo com você, isso te prejudica, não só a ele?}{}{-4}{ch -10}{104}{}
+{99}{E:}{}{1}{}{0}{}
+{100}{Agora que você mencionou... Se os hóspedes dele precisam de algo consertado, ele sempre manda os hóspedes para mim rapidinho.}{Agora que você mencionou... Se os hóspedes dele precisam de algo consertado, ele sempre manda os hóspedes para mim rapidinho.}{}{}{}{}
+{101}{Então, tê-lo chateado com você pode realmente prejudicar seus negócios?}{}{5}{}{104}{}
+{102}{Então, se ele estiver bravo com você, isso te prejudica, não só a ele?}{}{-4}{}{104}{}
+{103}{E:}{}{1}{}{0}{}
+{104}{Hmm. Acho que você tem razão. Talvez fosse bom fazer as pazes com ele. Como você acha que eu devo fazer isso?}{Hmm. Acho que você tem razão. Talvez fosse bom fazer as pazes com ele. Como você acha que eu devo fazer isso?}{}{}{}{}
+{105}{Bem. Primeiro, por que você não me deixa levar aquela caixa de volta para ele.}{}{5}{}{108}{}
+{106}{Acho que se você devolver a caixa para ele, ele vai ficar feliz de novo.}{}{-4}{}{108}{}
+{107}{E:}{}{1}{}{0}{}
+{108}{De graça!?!}{De graça!?!}{}{}{}{}
+{109}{Seria um gesto de boa fé. Você não quer perdê-lo...}{}{5}{ch 15}{146}{re +5}
+{110}{Seria um gesto de boa fé. Você não quer perdê-lo...}{}{5}{ch -14}{114}{re -5}
+{111}{Isso faria você parecer bem. Você não quer que ele não volte... quer?}{}{-4}{ch 15}{146}{re +5}
+{112}{Isso faria você parecer bem. Você não quer que ele não volte... quer?}{}{-4}{ch -14}{114}{re -5}
+{113}{E:}{}{1}{}{0}{}
+{114}{De jeito nenhum vou deixar todo esse trabalho ir de graça! Não me importo se isso me custar o negócio dele!}{De jeito nenhum vou deixar todo esse trabalho ir de graça! Não me importo se isso me custar o negócio dele!}{}{}{}{}
+{115}{Entendo. E se você cobrasse dele apenas os 50 iniciais?}{}{5}{ch 11}{134}{}
+{116}{Entendo. E se você cobrasse dele apenas os 50 iniciais?}{}{5}{ch 7, ch -10}{122}{re -5}
+{117}{Entendo. E se você cobrasse dele apenas os 50 iniciais?}{}{5}{ch -6}{138}{re -10}
+{118}{Tá bom. E se você pedisse só 50 moedas, como disse no começo?}{}{-4}{ch 11}{134}{}
+{119}{Tá bom. E se você pedisse só 50 moedas, como disse no começo?}{}{-4}{ch 7, ch -10}{122}{re -5}
+{120}{Tá bom. E se você pedisse só 50 moedas, como disse no começo?}{}{-4}{ch -6}{138}{re -10}
+{121}{E:}{}{1}{}{0}{}
+{122}{Não vai rolar. Passei tempo demais trabalhando naquele cofre-forte. Até perdi um serviço consertando a carroça do Sr. Werther, só pra terminá-lo. ...Eu realmente odiaria perdê-lo como cliente. E se eu baixasse o preço para 80 moedas?}{Não vai rolar. Passei tempo demais trabalhando naquele cofre-forte. Até perdi um serviço consertando a carroça do Sr. Werther, só pra terminá-lo. ...Eu realmente odiaria perdê-lo como cliente. E se eu baixasse o preço para 80 moedas?}{}{}{}{lf5 1}
+{123}{Isso é mais razoável. Aqui está o dinheiro. Vou levar a caixa para ele.}{}{5}{$$80}{154}{$$ -80}
+{124}{Isso é dinheiro demais! Ele nunca vai aceitar isso!}{}{5}{}{128}{}
+{125}{Esse preço tá melhor. Toma. Eu tenho as moedas. Vou levar a caixa pra ele.}{}{-4}{$$80}{154}{$$ -80}
+{126}{Isso é muito! Ele não vai pagar isso!}{}{-4}{}{128}{}
+{127}{E:}{}{1}{}{0}{}
+{128}{Então acho que fiquei com um cofre-forte antigo! Adeus!}{Então acho que fiquei com um cofre-forte antigo! Adeus!}{}{}{}{}
+{129}{Espere! 80 está bom. Aqui. Pegue o dinheiro, eu levo a caixa para ele.}{}{5}{$$80}{154}{$$ -80}
+{130}{Me dá essa caixa, Garret!}{}{5}{}{138}{}
+{131}{Espere! Eu te dou 80. Toma. Eu levo a caixa pra ele.}{}{-4}{$$80}{154}{$$ -80}
+{132}{Me dá essa caixa, Garret!}{}{-4}{}{138}{}
+{133}{E:}{}{1}{}{0}{}
+{134}{...Acho que poderia deixá-lo por esse valor. Eu até perdi um serviço para terminá-lo... Odeio perder esse dinheiro também. Mas acho que seria muito pior perder o Sr. Hallaway como cliente. Sim. Vou devolvê-la a ele se receber as 50 moedas sobre as quais conversamos no início.}{...Acho que poderia deixá-lo por esse valor. Eu até perdi um serviço para terminá-lo... Odeio perder esse dinheiro também. Mas acho que seria muito pior perder o Sr. Hallaway como cliente. Sim. Vou devolvê-la a ele se receber as 50 moedas sobre as quais conversamos no início.}{}{}{}{lf4 1}
+{135}{Tenho certeza de que ele ficará feliz. Aqui está o dinheiro. Vou levar a caixa para ele.}{}{5}{$$50}{154}{$$ -50}
+{136}{Aposto que isso vai deixá-lo feliz. Eu tenho as moedas. Vou levar a caixa pra ele.}{}{-4}{$$50}{154}{$$ -50}
+{137}{E:}{}{1}{}{0}{}
+{138}{Ha! Acho que não. Diga àquele pão-duro que, quando quiser a caixa dele, pode vir me pagar as 137 moedas... com juros! Diga isso a ele!}{Ha! Acho que não. Diga àquele pão-duro que, quando quiser a caixa dele, pode vir me pagar as 137 moedas... com juros! Diga isso a ele!}{}{}{}{lf6 1, lf5 0, lf4 0}
+{139}{Eu avisei... Hora de morrer!}{}{5}{}{}{co, fl 45}
+{140}{Aqui! Eu mesmo pago. Isso é um absurdo! Aqui estão 140! [Você paga a ele.]}{}{5}{$$140}{171}{$$-140}
+{141}{[intimidando] Acho melhor você devolver a caixa para ele... agora.}{}{5}{na -50}{177}{re -5}
+{142}{[intimidando] Acho melhor você devolver a caixa para ele... agora.}{}{5}{na 49}{165}{re -5}
+{143}{Chega! Eu mato você e pego a caixa! 'Tonto Garret...}{}{-4}{}{}{co, fl 45}
+{144}{Aqui! Pegue o dinheiro. Eu dou a ele. Aqui estão 140! [Você paga a ele.]}{}{-4}{$$140}{171}{$$-140}
+{145}{F:}{}{1}{}{0}{}
+{146}{Você realmente acha que isso resolveria as coisas?}{Você realmente acha que isso resolveria as coisas?}{}{}{}{}
+{147}{Eu realmente acho. Deixe-me ficar com ela. Eu a entregarei a ele com seus cumprimentos.}{}{5}{}{151}{}
+{148}{Isso fará maravilhas. Deixe-me levá-la para ele, como um presente seu.}{}{5}{}{151}{}
+{149}{Sim. ...Me dê a caixa. Eu levo para ele. Será um presente seu.}{}{-4}{}{151}{}
+{150}{E:}{}{1}{}{0}{}
+{151}{Tudo bem. Leve o cofre de volta ao Sr. Hallaway. Diga a ele que peço desculpas pelo nosso mal-entendido. Está no baú, perto da porta do meu quarto. Aqui está a chave. Obrigado, @pcname@. Você foi muito prestativo.}{Tudo bem. Leve o cofre de volta ao Sr. Hallaway. Diga a ele que peço desculpas pelo nosso mal-entendido. Está no baú, perto da porta do meu quarto. Aqui está a chave. Obrigado, @pcname@. Você foi muito prestativo.}{}{}{}{qu1083 3, gf 2325 1, in-4420}
+{152}{Ele vai ficar encantado. Você não vai se arrepender.}{}{5}{}{0}{}
+{153}{Ele vai ficar feliz. Obrigado.}{}{-4}{}{0}{}
+{154}{Tudo bem. Leve o cofre de volta ao Sr. Hallaway. Diga a ele que peço desculpas pelo mal-entendido e que espero que possamos fazer negócios novamente. Está no baú, perto da porta do meu quarto. Aqui está a chave.}{Tudo bem. Leve o cofre de volta ao Sr. Hallaway. Diga a ele que peço desculpas pelo mal-entendido e que espero que possamos fazer negócios novamente. Está no baú, perto da porta do meu quarto. Aqui está a chave.}{}{}{}{qu1083 3, gf 2325 1, in-4420}
+{155}{Vou entregá-la a ele. Obrigado.}{}{5}{}{0}{}
+{156}{Obrigado. Eu levo para ele.}{}{-4}{}{0}{}
+{157}{Não me importa que tipo de cliente ele tem sido. Se não me pagar... não vai receber a caixa de volta!}{Não me importa que tipo de cliente ele tem sido. Se não me pagar... não vai receber a caixa de volta!}{}{}{}{}
+{158}{Vamos... Seja razoável... Por que não abaixa um pouco o preço?}{}{5}{}{138}{}
+{159}{[intimidando] Acho melhor você devolver a caixa para ele... agora.}{}{5}{na -50}{177}{re -5}
+{160}{[intimidando] Acho melhor você devolver a caixa para ele... agora.}{}{5}{na 49}{165}{re -5}
+{161}{Por favor... Seja legal... Diminua um pouco o custo?}{}{-4}{}{138}{}
+{162}{[intimidando] Eu acho que você deveria devolver a caixa... agora.}{}{-4}{na -50}{177}{re -5}
+{163}{[intimidando] Eu acho que você deveria devolver a caixa... agora.}{}{-4}{na 49}{165}{re -5}
+{164}{E:}{}{1}{}{0}{}
+{165}{Ele vai pagar o preço cheio... e ponto final!}{Ele está pagando o preço cheio... e ponto final!}{}{}{}{}
+{166}{Tudo bem! A violência vai funcionar tão bem quanto...}{}{5}{}{}{co, fl 45}
+{167}{Chega! Eu vou matar você e pegar isso!}{}{-4}{}{}{co, fl 45}
+{168}{Tudo bem! Aqui estão 150 moedas. Isso deve cobrir. Me dê a caixa!}{}{5}{$$150}{171}{$$ -150}
+{169}{Tá bom! Aqui estão 150. Isso é o suficiente! Me dê a caixa, eu devolvo!}{}{-4}{$$150}{171}{$$ -150}
+{170}{F:}{}{1}{}{0}{}
+{171}{É mais assim! Um pouco a mais pelo meu incômodo, hein? Vá em frente, leve o cofre de volta para o Sr. Hallaway. Está no baú, perto da porta do meu quarto. Aqui está a chave. Diga a ele que da próxima vez é melhor vir acertar suas próprias dívidas, não preciso falar com algum lacaio!}{É mais assim! Um pouco a mais pelo meu incômodo, hein? Vá em frente, leve o cofre de volta para o Sr. Hallaway. Está no baú, perto da porta do meu quarto. Aqui está a chave. Diga a ele que da próxima vez é melhor vir acertar suas próprias dívidas, não preciso falar com algum lacaio!}{}{}{}{qu1083 3, gf 2325 1, in-4420}
+{172}{Adeus!}{}{5}{}{0}{}
+{173}{Eu pego a caixa, depois vou embora!}{}{-4}{}{0}{}
+{174}{Chega! Você me insultou uma vez a mais...}{}{5}{}{}{co, fl 45}
+{175}{Chega! Você me insultou demais!}{}{-4}{}{}{co, fl 45}
+{176}{E:}{}{1}{}{0}{}
+{177}{Você está me ameaçando?!?}{Você está me ameaçando?!?}{}{}{}{}
+{178}{[ameaçador] É melhor você acreditar que estou...}{}{5}{}{184}{re -10}
+{179}{[ameaçador] Ah, você me entende. Agora me dê a caixa!}{}{5}{}{184}{re -10}
+{180}{Eu só achei que ele tinha sido um bom cliente para você. Acho que não.}{}{5}{}{94}{}
+{181}{Eu só achei que ele era um bom cliente. Talvez não.}{}{-4}{}{94}{}
+{182}{[ameaçador] É, é isso que eu vou fazer...}{}{-4}{}{184}{re -10}
+{183}{E:}{}{1}{}{184}{}
+{184}{[com ar preocupado] Olha. Eu não quero problemas. A última coisa que preciso é da guarda em cima de mim... Mas não posso simplesmente dar a caixa para ele de graça... Me custou dinheiro para consertá-la... Perdi outro trabalho que poderia ter feito porque o cofre ainda não estava pronto... Não podemos deixar os ricos nos controlarem assim... Não podemos!}{[com ar preocupado] Olha. Eu não quero problemas. A última coisa que preciso é da guarda em cima de mim... Mas não posso simplesmente dar a caixa para ele de graça... Me custou dinheiro para consertá-la... Perdi outro trabalho que poderia ter feito porque o cofre ainda não estava pronto... Não podemos deixar os ricos nos controlarem assim... Não podemos!}{}{}{}{}
+{185}{Ou você me dá essa caixa, ou vai ter muito problema.}{}{5}{}{190}{re -5}
+{186}{Não me importo com seus problemas mesquinhos. Me dê a caixa!}{}{5}{}{190}{re -5}
+{187}{Você me dá essa caixa, ou vai ter muito problema...}{}{-4}{}{190}{re -5}
+{188}{Eu não me importo com seus problemas! Me dê essa caixa!}{}{-4}{}{190}{re -5}
+{189}{E:}{}{1}{}{0}{}
+{190}{Tudo bem! Leve! Está no baú, perto da porta do meu quarto. Aqui está a chave. Só pegue e vá embora!}{Tudo bem! Leve! Está no baú, perto da porta do meu quarto. Aqui está a chave. Só pegue e vá embora!}{}{}{}{qu1083 3, gf 2325 1, in-4420}
+{191}{É mais assim. Foi um prazer fazer negócios com você, Garret.}{}{5}{}{0}{}
+{192}{Assim tá melhor. Tchau, Garret.}{}{-4}{}{0}{}
+{193}{Sim... Posso fazer isso. Mas quero 500 moedas adiantadas, como taxa de treinamento.}{Sim... Posso fazer isso. Mas quero 500 moedas adiantadas, como taxa de treinamento.}{}{}{}{}
+{194}{Isso é aceitável. Estou pronto para ser treinado.}{}{5}{$$500, sk14 9}{207}{}
+{195}{Tudo bem. Vamos logo com isso.}{}{5}{$$500, sk14 9}{207}{}
+{196}{Isso é aceitável. Estou pronto para ser treinado.}{}{5}{$$500, sk14 -8}{203}{}
+{197}{Tudo bem. Vamos logo com isso.}{}{5}{$$500, sk14 -8}{203}{}
+{198}{Vou precisar voltar mais tarde com mais moedas. Adeus.}{}{5}{$$-499}{0}{}
+{199}{Hã... Tá bom. Eu pronto.}{}{-4}{$$500, sk14 9}{207}{}
+{200}{Hã... Tá bom. Eu pronto.}{}{-4}{$$500, sk14 -8}{203}{}
+{201}{Hã... Eu ir buscar mais moedas. Volto já.}{}{-4}{$$-499}{0}{}
+{202}{F:}{}{1}{}{0}{}
+{203}{Espere aí... [examina você detalhadamente] Você obviamente tem "alguma" habilidade como chaveiro, mas não acho que esteja pronto para avançar para Especialista ainda. Vá e melhore um pouco mais sua habilidade, depois conversamos.}{Espere aí... [examina você detalhadamente] Você obviamente tem "alguma" habilidade como chaveiro, mas não acho que esteja pronto para avançar para Especialista ainda. Vá e melhore um pouco mais sua habilidade, depois conversamos.}{}{}{}{}
+{204}{Tudo certo. Volto em breve.}{}{5}{}{0}{}
+{205}{Tá bom. Eu volto.}{}{-4}{}{0}{}
+{206}{F:}{}{1}{}{0}{}
+{207}{Obrigado. [Ele pega as moedas de você] Aqui, deixe-me mostrar alguns truques [Ele passa a detalhar variações de mecanismos de fechaduras.] ...Tudo certo, @pcname@. Você se tornou um Chaveiro Especialista. Obrigado pelas moedas.}{Obrigado. [Ele pega as moedas de você] Aqui, deixe-me mostrar alguns truques [Ele passa a detalhar variações de mecanismos de fechaduras.] ...Tudo certo, @pcname@. Você se tornou um Chaveiro Especialista. Obrigado pelas moedas.}{}{}{}{tr14 2, $$-500, rq2183}
+{208}{Obrigado. Agora, onde eu encontraria o Mestre Chaveiro?}{}{5}{}{210}{}
+{209}{Obrigadu. Onde tá o home que treina Mast'r Lock?}{}{-4}{}{210}{}
+{210}{Heh! [com um leve ar de diversão] Eu sei exatamente onde ele está! J.T. Morgan é quem você procura. Ele está bem fácil de achar agora, já que está cumprindo pena perpétua na prisão de Caladon. Boa sorte para se tornar um Mestre Chaveiro!}{Heh! [com um leve ar de diversão] Eu sei exatamente onde ele está! J.T. Morgan é quem você procura. Ele está bem fácil de achar agora, já que está cumprindo pena perpétua na prisão de Caladon. Boa sorte para se tornar um Mestre Chaveiro!}{}{}{}{ru2173}
+{211}{Bem... isso pode ser problemático. Obrigado, mesmo assim. Adeus.}{}{5}{}{0}{}
+{212}{Parece que vou precisar mesmo! Obrigado pelo treinamento. Adeus.}{}{5}{}{0}{}
+{213}{Oh! Num é bom, num... Hã... Obrigadu por me treinar. Tchau.}{}{-4}{}{0}{}
+{214}{Uh!... Eu precisar de sorte, talvez! Obrigadu pelo treino. Eu ir agora. Tchau.}{}{-4}{}{0}{}
+{215}{E:}{}{1}{}{0}{}
+{216}{Sim... Posso fazer isso. Mas quero 500 moedas adiantadas, como taxa de treinamento.}{Sim... Posso fazer isso. Mas quero 500 moedas adiantadas, como taxa de treinamento.}{}{}{}{}
+{217}{Isso é aceitável. Estou pronto para ser treinado.}{}{5}{$$500, sk12 9}{230}{}
+{218}{Tudo bem. Vamos logo com isso.}{}{5}{$$500, sk12 9}{230}{}
+{219}{Isso é aceitável. Estou pronto para ser treinado.}{}{5}{$$500, sk12 -8}{226}{}
+{220}{Tudo bem. Vamos logo com isso.}{}{5}{$$500, sk12 -8}{226}{}
+{221}{Vou precisar voltar mais tarde com mais moedas. Adeus.}{}{5}{$$-499}{0}{}
+{222}{Hã... Tá bom. Eu pronto.}{}{-4}{$$500, sk12 9}{230}{}
+{223}{Hmm... Tá bom. Estou pronto.}{}{-4}{$$500, sk12 -8}{226}{}
+{224}{Hmm... Vou buscar mais moedas. Já volto.}{}{-4}{$$-499}{0}{}
+{225}{F:}{}{1}{}{0}{}
+{226}{[Depois de trabalhar com você por alguns instantes, ele para.] Espere aí... Você obviamente tem "alguma" habilidade em reparos, mas não acho que esteja pronto para avançar para Especialista ainda. Vá e melhore um pouco mais sua habilidade, depois a gente conversa.}{[Depois de trabalhar com você por alguns instantes, ele para.] Espere aí... Você obviamente tem "alguma" habilidade em reparos, mas não acho que esteja pronto para avançar para Especialista ainda. Vá e melhore um pouco mais sua habilidade, depois a gente conversa.}{}{}{}{}
+{227}{Tudo certo. Volto logo.}{}{5}{}{0}{}
+{228}{Tá bom. Eu já volto.}{}{-4}{}{0}{}
+{229}{F:}{}{1}{}{0}{}
+{230}{Obrigado. [Ele pega a moeda de você] Aqui, deixe-me mostrar alguns truques. [Ele passa a expandir seu conhecimento sobre o reparo de vários dispositivos.] ...Tudo certo, @pcname@. Você se tornou um Especialista em reparos. Obrigado pela moeda.}{Obrigado. [Ele pega a moeda de você] Aqui, deixe-me mostrar alguns truques. [Ele passa a expandir seu conhecimento sobre o reparo de vários dispositivos.] ...Tudo certo, @pcname@. Você se tornou um Especialista em reparos. Obrigado pela moeda.}{}{}{}{tr12 2, $$-500}
+{231}{Obrigado. Agora, onde eu encontraria o Mestre de Reparos?}{}{5}{}{233}{}
+{232}{Obrigadu. Onde tá o mestre de reparu?}{}{-4}{}{233}{}
+{233}{Você estaria procurando por Hieronymous Maxim. Ele tem uma grande fábrica em Caladon. É uma visão e tanto.}{Você estaria procurando por Hieronymous Maxim. Ele tem uma grande fábrica em Caladon. É uma visão e tanto.}{}{}{}{ru2171}
+{234}{Estou ansioso para ver. Obrigado, e até logo.}{}{5}{}{0}{}
+{235}{Ooo! Eu quero ver isso! Obrigadu. Tchau.}{}{-4}{}{0}{}
+{236}{E:}{}{1}{}{0}{}
+

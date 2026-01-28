@@ -1,0 +1,16 @@
+{1}{Devo lhe oferecer meus mais sinceros agradecimentos por me resgatar do túmulo, senhor.}{Devo lhe oferecer meus mais sinceros agradecimentos por me resgatar do túmulo, senhora.}{}{}{}{}
+{2}{Isso nem merece menção, de verdade. Gostaria de se unir a mim novamente?}{}{5}{}{15}{jo 0 10 lf30 1}
+{3}{Você se une.}{}{-4}{}{15}{jo 0 10 lf30 1}
+{9}{E:}{}{1}{}{0}{}
+{10}{Seria um prazer, senhor.}{Seria um prazer, senhora.}{}{}{}{}
+{11}{Vamos prosseguir, então.}{}{5}{}{-10}{}
+{12}{Vamos agora.}{}{-4}{}{-10}{}
+{15}{Por favor, não pense que sou ingrato por recusar sua oferta. Há algo mais que possa fazer?}{Por favor, não pense que sou ingrato por recusar sua oferta. Há algo mais que possa fazer?}{}{}{}{}
+{16}{N:}{}{1}{}{0}{}
+{20}{Que angústia. Estou morto. Se me ajudasse a retornar ao mundo dos vivos, ficaria muito grato... pois isto é bastante doloroso, sabe.}{Que angústia. Estou morto. Se me ajudasse a retornar ao mundo dos vivos, ficaria muito grato... pois isto é bastante doloroso, sabe.}{}{}{}{}
+{21}{Saudações. Como posso ajudá-la?}{Saudações. Como posso ajudá-la?}{}{}{}{}
+{22}{Gostaria de se unir a mim novamente?}{}{5}{}{15}{jo 0 10}
+{23}{Você se une.}{}{-4}{}{15}{jo 0 10}
+{29}{E:}{}{1}{}{0}{}
+{30}{Devo lhe oferecer meus mais sinceros agradecimentos por me resgatar do túmulo, senhor.}{Devo lhe oferecer meus mais sinceros agradecimentos por me resgatar do túmulo, senhora.}{}{}{}{}
+

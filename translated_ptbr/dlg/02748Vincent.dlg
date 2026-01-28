@@ -1,0 +1,19 @@
+{1}{[Este elfo bem-vestido parece estar com muita dor.] Por favor...deixe-me em paz. Você está...[ele faz uma careta]...em grande perigo...}{[Este elfo bem-vestido parece estar com muita dor.] Por favor...deixe-me em paz. Você está...[ele faz uma careta]...em grande perigo...}{}{}{}{}
+{2}{Do que está falando?}{}{5}{qu1103 0}{10}{}
+{3}{Você é Vincent, não é? Estou aqui para matá-lo.}{}{5}{qa1103 1}{15}{}
+{4}{Do que você tá falando?}{}{-4}{qu1103 0}{10}{}
+{5}{Cê é o Vincent, né? Tô aqui pra te matar!}{}{-4}{qa1103 1}{15}{}
+{8}{Obrigado pelo aviso. Espero que...você melhore.}{}{5}{}{0}{}
+{9}{E:}{}{-4}{}{0}{}
+{10}{[Ele se apoia na parede.] A sede de sangue...é avassaladora...não sei por quanto tempo conseguirei resistir...você precisa ir embora...}{[Ele se apoia na parede.] A sede de sangue...é avassaladora...não sei por quanto tempo conseguirei resistir...você precisa ir embora...}{}{}{}{}
+{11}{O que há de errado com você? O que quer dizer?}{}{5}{}{0}{fl 14}
+{12}{Que cê qué dizer?}{}{-4}{}{0}{fl 14}
+{13}{E:}{}{1}{}{0}{}
+{14}{[Ele o ignora enquanto se dobra de dor. Após alguns momentos, se endireita e encara o horizonte, suor escorrendo pela testa. Parece não notar mais sua presença.]}{[Ele o ignora enquanto se dobra de dor. Após alguns momentos, se endireita e encara o horizonte, suor escorrendo pela testa. Parece não notar mais sua presença.]}{}{}{}{}
+{15}{[Ele se apoia na parede.] Espero que você...tenha trazido a lâmina...}{[Ele se apoia na parede.] Espero que você...tenha trazido a lâmina...}{}{}{}{}
+{16}{Acontece que não a trouxe comigo...}{}{5}{ni2021}{0}{fl 14}
+{17}{Eu não o tenho.}{}{-4}{ni2021}{0}{fl 14}
+{18}{Claro, eu a tenho bem aqui.}{}{5}{in2021}{0}{fl 20}
+{19}{Eu tenho a lâmina! Eu tenho a lâmina!}{}{-4}{in2021}{0}{fl 20}
+{20}{[Ele o ignora enquanto se dobra de dor. Após alguns momentos, se endireita e encara o horizonte.] Tentarei conter a fera dentro de mim até...até o fim...mas você precisa se apressar...estou fraco...}{[Ele o ignora enquanto se dobra de dor. Após alguns momentos, se endireita e encara o horizonte.] Tentarei conter a fera dentro de mim até...até o fim...mas você precisa se apressar...estou fraco...}{}{}{}{}
+

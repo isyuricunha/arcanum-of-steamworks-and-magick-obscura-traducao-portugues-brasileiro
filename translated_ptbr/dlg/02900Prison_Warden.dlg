@@ -1,0 +1,50 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Por favor, senhor. Posso fazer uma pergunta?}{}{5}{re-40}{10}{}
+{3}{Posso lhe fazer uma pergunta, senhor?}{}{5}{re41}{31}{}
+{4}{Hã... eu pergunto uma coisa... por favô?}{}{-4}{re-40}{10}{}
+{5}{Hã... eu pergunto uma coisa?}{}{-4}{re41}{31}{}
+{9}{E:}{}{1}{}{0}{}
+{10}{Não quero confusão por aqui, forasteiro. Só lembre que estou de olho em você... Agora, o que deseja?}{Não quero confusão por aqui, forasteiro. Só lembre que estou de olho em você... Agora, o que deseja?}{}{}{}{}
+{11}{R:$0,1070-1080}{}{1}{}{46}{}
+{12}{C:}{}{1}{}{46}{}
+{13}{T:0, 1, 2, 3}{}{1}{}{46}{}
+{14}{Gostaria de pagar a fiança de Guido.}{}{5}{gf2679 1}{52}{}
+{15}{Gostaria de pagar a fiança do Sr. Aymes.}{}{5}{gf2680 1}{62}{}
+{16}{Hã... eu dar moeda pro Gweedo?}{}{-4}{gf2679 1}{52}{}
+{17}{Hã... eu dar moeda pro senhor ayms?}{}{-4}{gf2680 1}{62}{}
+{18}{F:}{}{1}{}{0}{}
+{31}{Sim? Em que posso ajudá-lo, senhor?}{Sim? Em que posso ajudá-la, senhora?}{}{}{}{}
+{32}{R:$0,1070-1080}{}{1}{}{46}{}
+{33}{C:}{}{1}{}{46}{}
+{34}{T:0, 1, 2, 3}{}{1}{}{46}{}
+{36}{Gostaria de pagar a fiança de Guido.}{}{5}{gf2679 1}{52}{}
+{37}{Gostaria de pagar a fiança do Sr. Aymes.}{}{5}{gf2680 1}{62}{}
+{38}{Hã... eu dar moeda pro Gweedo?}{}{-4}{gf2679 1}{52}{}
+{39}{Hã... eu dar moeda pro senhor ayms?}{}{-4}{gf2680 1}{62}{}
+{40}{F:}{}{1}{}{0}{}
+{46}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{}
+{47}{R:$0,1070-1080}{}{1}{}{46}{}
+{48}{C:}{}{1}{}{46}{}
+{49}{T:0, 1, 2, 3}{}{1}{}{46}{}
+{51}{Não, obrigado. Tenha um bom dia.}{}{1}{}{0}{}
+{52}{Aquele ladrão? Ele está preso por furto simples... a fiança é de 500 moedas. Tem certeza de que quer pagar?}{Aquele ladrão? Ele está preso por furto simples... a fiança é de 500 moedas. Tem certeza de que quer pagar?}{}{}{}{}
+{53}{Sim, estou.}{}{5}{$$500}{57}{}
+{54}{Bem... talvez eu deva pensar no assunto.}{}{5}{$$-499}{0}{}
+{55}{Hmm... sim.}{}{-4}{$$500}{57}{}
+{56}{Hã... eu pensá nisso.}{}{-4}{$$-499}{0}{}
+{57}{Bom, acho que dinheiro não é problema para você. Não sei o que ele te disse, mas ele "nunca" vai te pagar de volta, amigo.}{Bom, acho que dinheiro não é problema para você. Não sei o que ele te disse, mas ele "nunca" vai te pagar de volta, moça.}{}{}{}{}
+{58}{Aqui está o dinheiro.}{}{5}{}{}{$$-500, gf2678 1, fl 61}
+{59}{Aqui tá a moeda}{}{-4}{}{}{$$-500, gf2678 1, fl 61}
+{60}{F:}{}{1}{}{0}{}
+{61}{[Ele grita em direção à cela de Guido.] Ei, Guido... Não sei que tipo de golpe você está tentando aplicar, mas esse cara acabou de pagar sua fiança! Você está livre para ir. Não me deixe te ver aqui de novo!}{[Ele grita em direção à cela de Guido.] Ei, Guido... Não sei que tipo de golpe você está tentando aplicar, mas essa senhora acabou de pagar sua fiança! Você está livre para ir. Não me deixe te ver aqui de novo!}{}{}{}{}
+{62}{Aquele valentão? Ele está preso por agredir um dos marinheiros lá no bar... a fiança é de 500 moedas. Tem certeza de que quer pagar?}{Aquele valentão? Ele está preso por agredir um dos marinheiros lá no bar... a fiança é de 500 moedas. Tem certeza de que quer pagar?}{}{}{}{}
+{63}{Sim, estou.}{}{5}{$$500}{67}{}
+{64}{Bem... talvez eu deva pensar no assunto.}{}{5}{$$-499}{0}{}
+{65}{Hmm... sim.}{}{-4}{$$500}{67}{}
+{66}{Hã... eu pensá nisso.}{}{-4}{$$-499}{0}{}
+{67}{Bom, acho que dinheiro não é problema para você. Não sei o que ele te disse, mas ele "nunca" vai te pagar de volta, amigo.}{Bom, acho que dinheiro não é problema para você. Não sei o que ele te disse, mas ele "nunca" vai te pagar de volta, moça.}{}{}{}{}
+{68}{Aqui está o dinheiro.}{}{5}{}{}{$$-500, gf2677 1, fl 71}
+{69}{Aqui tá a moeda}{}{-4}{}{}{$$-500, gf2677 1, fl 71}
+{70}{F:}{}{1}{}{0}{}
+{71}{[Ele grita em direção à cela de Jerrold.] Ei, Jerrold... Não sei que tipo de coisa você está tentando aprontar, mas esse cara acabou de pagar sua fiança! Você está livre para ir. Não quero ver você aqui de novo!}{[Ele grita em direção à cela de Jerrold.] Ei, Jerrold... Não sei que tipo de coisa você está tentando aprontar, mas essa moça acabou de pagar sua fiança! Você está livre para ir. Não quero ver você aqui de novo!}{}{}{}{}
+

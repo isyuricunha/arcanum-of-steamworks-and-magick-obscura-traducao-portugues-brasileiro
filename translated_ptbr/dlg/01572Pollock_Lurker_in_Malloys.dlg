@@ -1,0 +1,99 @@
+{1}{O que você quer aí, garoto...?}{O que você quer aí, moça...? [Ele te lança um olhar avaliador.]}{}{}{}{}
+{2}{Tenho algumas perguntas, se não se importar...}{}{5}{lf1 0}{-2}{}
+{3}{Tenho algumas perguntas, se não se importar...}{}{5}{lf1 1, lf2 0}{42}{}
+{4}{Tenho algumas perguntas, se não se importar...}{}{5}{lf2 1, lf1 0}{88}{}
+{5}{Nada em particular.}{}{5}{}{}{fl 10}
+{6}{Hã... tenho perguntas!}{}{-4}{lf5 0}{93}{}
+{7}{Hã... tenho perguntas!}{}{-4}{lf5 1}{106}{}
+{8}{E:}{}{-4}{}{}{fl 10}
+{10}{É, foi o que pensei, garoto. É melhor você ir andando se não quiser se machucar...}{É, garota... é o melhor pra você. [Ele dá um tapinha nas suas costas.]}{}{}{}{}
+{12}{[Ele olha para você e sorri com desdém.] Na verdade, EU me importo, garoto. Você tem ideia com quem está mexendo aqui? Sendo fraco e magricela como você é... estou surpreso que alguém já não tenha transformado você em uma poça de sangue... [Ele dá risadinhas com seus amigos.]}{[Ele olha para você e sorri com desdém.] Na verdade, EU me importo, garota. Você tem ideia com quem está mexendo aqui? Sendo fraca e magricela como você é... estou surpreso que alguém já não tenha transformado você em uma poça de sangue... [Ele dá risadinhas com seus amigos.]}{}{}{}{}
+{13}{Sim, eu sei que sou fraco. Por favor... só alguns momentos do seu tempo...}{}{5}{}{22}{}
+{14}{Entendi. Talvez VOCÊ queira tentar, fanfarrão.}{}{5}{}{26}{}
+{17}{[Ele te examina, fazendo uma avaliação.] Hmmm. Não te conheço, amigo. Não estou dizendo nada de graça, mas um homem não sai por aí no Caldeirão fazendo perguntas para pessoas que não conhece. [Ele olha para sua bebida.] Mesmo parecendo durão como você. Não é saudável, na maioria das vezes...}{[Ela te examina, fazendo uma avaliação.] Hmmm. Não te conheço, moça. Não estou dizendo nada de graça, mas uma mulher não sai por aí no Caldeirão fazendo perguntas para pessoas que não conhece. [Ele olha para sua bebida.] Mesmo parecendo durona como você. Não é saudável, na maioria das vezes...}{}{}{}{lf1 1}
+{18}{Não estou aqui para arranjar confusão, só sou novo nesta cidade...}{}{5}{}{31}{re +5}
+{19}{Vou fazer perguntas para quem eu quiser, cão...}{}{5}{}{35}{re -5}
+{20}{Talvez eu volte mais tarde. Tenha um bom dia, senhor...}{}{5}{}{0}{}
+{22}{Ha Ha Ha! Vocês ouviram isso, rapazes? O pobre coitado SABE que é fraco. [Ele se aproxima de você.] Sabe o que acontece com garotos como você no Caldeirão? Você nem ia querer que eu te contasse. Saia daqui antes que alguém te carregue para fora...}{Ha Ha Ha! Vocês ouviram isso, rapazes? A pobre moça SABE que é fraca. [Ele se aproxima de você.] Sabe o que acontece com mulheres como você no Caldeirão? Você nem ia querer que eu te contasse. Saia daqui antes que alguém te carregue para fora...}{}{}{}{}
+{23}{Sim, senhor. Me desculpe, senhor...}{}{5}{}{0}{}
+{24}{Não acredito que você tenha coragem de me enfrentar, idiota...}{}{5}{}{26}{}
+{26}{[Os olhos do homem brilham, então ele quase sorri.] Hmmm. Talvez você tenha um pouco de fibra, garoto. O Caldeirão vai te ensinar rapidinho o quanto. Vou te dar um conselho de graça... não diga palavras que não pretende cumprir e não recue para ninguém. A menos, é claro, que você encontre o Pollock...}{[Os olhos do homem brilham, então ele quase sorri.] Hmmm. Talvez você tenha um pouco de fibra, moça. O Caldeirão vai te ensinar rapidinho o quanto. Vou te dar um conselho de graça... não diga palavras que não pretende cumprir e não recue para ninguém. A menos, é claro, que você encontre o Pollock...}{}{}{}{lf1 1}
+{27}{Obrigado pelo conselho. Posso fazer mais algumas perguntas?}{}{5}{}{42}{}
+{28}{Ninguém ouve conselhos de homens mortos...}{}{5}{}{}{co, fl 40}
+{29}{Tenha um bom dia, senhor...}{}{5}{}{0}{}
+{31}{[Ele parece aprovar sua reação.] Novo no Caldeirão, hein? Bom, não é um lugar agradável para ninguém, mas especialmente para estranhos. Eu recomendaria que você andasse com cuidado, forasteiro. Esse é um conselho de graça...}{[Ele parece aprovar sua reação.] Nova no Caldeirão, hein? Bom, não é um lugar agradável para ninguém, mas especialmente para estranhos. Eu recomendaria que você andasse com cuidado, forasteira. Esse é um conselho de graça...}{}{}{}{}
+{32}{Obrigado pelo conselho. Posso fazer mais algumas perguntas?}{}{5}{}{42}{}
+{33}{E:}{}{5}{}{0}{}
+{35}{[O homem parece assustado, mas se levanta para você. Seus amigos largam suas bebidas.] Você acha que pode falar com um membro da gangue do Pollock desse jeito e sair impune, garoto? Não me importa o quão durão você parece... vou te pendurar em um mastro ensanguentado se continuar falando desse jeito!}{[O homem parece assustado, mas se levanta para você. Seus amigos largam as bebidas.] Você acha que pode falar assim com um membro da gangue do Pollock e sair impune, garota? Não me importa o quão durona você parece... Vou mandar pendurar seu traseiro num mastro ensanguentado, se continuar falando desse jeito!}{}{}{}{lf3 1}
+{36}{Minha língua às vezes se solta. Não foi minha intenção ofender...}{}{5}{}{31}{re +5}
+{37}{Toda essa 'gangue do Pollock' é tão patética quanto vocês, seus otários?}{}{5}{}{}{co, fl 40}
+{38}{Talvez seja melhor eu voltar mais tarde...}{}{5}{}{0}{lf2 1}
+{40}{Erro, garoto. Erro grave...}{Erro, garota. Erro grave...}{}{}{}{}
+{42}{Não vejo por que não. Mas seja rápido...}{Não vejo por que não. Mas seja rápido...}{}{}{}{}
+{43}{Que pub é este em que estamos?}{}{5}{lf4 0}{50}{lf4 1}
+{44}{O que é 'o Fervura'?}{}{5}{}{69}{}
+{45}{O que é o Clã Maug?}{}{5}{lf4 1}{56}{}
+{46}{Quem é Pollock?}{}{5}{lf3 1}{-5}{}
+{47}{Como alguém consegue trabalho por aqui?}{}{5}{gf2172 0}{76}{}
+{48}{E:}{}{5}{}{0}{}
+{50}{Este pub aqui se chama Caleb Malloy's. É o melhor lugar no Fervura para tomar uma bebida e descobrir as novidades da rua. Também tem muito do Clã Maug aqui, mas o Malloy's é território neutro... Pollock nos disse para não brigar aqui, então não começamos confusão...}{Este pub aqui se chama Caleb Malloy's. É o melhor lugar no Fervura para tomar uma bebida e descobrir as novidades da rua. Também tem muito do Clã Maug aqui, mas o Malloy's é território neutro... Pollock nos disse para não brigar aqui, então não começamos confusão...}{}{}{}{lf3 1}
+{51}{Quem são o Clã Maug?}{}{5}{}{56}{}
+{52}{Quem é Pollock?}{}{5}{}{-5}{}
+{53}{Mais algumas perguntas...}{}{5}{}{42}{}
+{54}{E:}{}{5}{}{0}{}
+{56}{Clã Maug? Um bando de fracotes que vive no Fervura Norte. Orcs e meio-orcs, na maioria. O chefe deles se chama Darian Maug e mora no Bentley... um prédio chique logo ao norte daqui. Um príncipezinho flamejante de merda, se escondendo atrás daquela casinha bonita. [Ele cospe no chão.] Eu adoraria colocar as mãos nele...}{Clã Maug? Um bando de fracotes que vive no Fervura Norte. Orcs e meio-orcs, na maioria. O chefe deles se chama Darian Maug e mora no Bentley... um prédio chique logo ao norte daqui. Um príncipezinho flamejante de merda, se escondendo atrás daquela casinha bonita. [Ele cospe no chão.] Eu adoraria colocar as mãos nele...}{}{}{}{}
+{57}{Quem é Pollock?}{}{5}{}{-5}{}
+{58}{Mais algumas perguntas...}{}{5}{}{42}{}
+{60}{Mais perguntas...}{}{-4}{}{106}{}
+{61}{E:}{}{1}{}{0}{}
+{63}{Pollock? Ele é nosso chefe... [Ele gesticula para seus amigos.] Todos nós fazemos parte da gangue do Pollock. Somos pesadelos ambulantes, não somos, rapazes? [Todos soltam um uivo barulhento, brindando acima da mesa e derramando a maior parte de suas bebidas.] Pollock é meio-ogro, mora no Fervura Sul. Tem dois chefes aqui no Fervura, mas Pollock é o que você deve temer...}{Pollock? Ele é nosso chefe... [Ele gesticula para seus amigos.] Todos nós fazemos parte da gangue do Pollock. Somos pesadelos ambulantes, não somos, rapazes? [Todos soltam um uivo barulhento, brindando acima da mesa e derramando a maior parte de suas bebidas.] Pollock é meio-ogro, mora no Fervura Sul. Tem dois chefes aqui no Fervura, mas Pollock é o que você deve temer...}{}{}{}{}
+{64}{Entendo. Mais algumas perguntas...}{}{5}{}{42}{}
+{66}{Mais perguntas...}{}{-4}{}{106}{}
+{67}{E:}{}{1}{}{0}{}
+{69}{O Fervura? É onde você está, garoto! Tudo aqui do lado oeste da Ponte Garrillon. Não é grande coisa, mas é o nosso reino... eh, rapazes! À gangue do Pollock! [Todos gritam vários brados ou palavrões, erguendo seus copos no ar. Muita cerveja acaba no chão.]}{O Fervura? É onde você está, garota! Tudo aqui do lado oeste da Ponte Garrillon. Não é grande coisa, mas é o nosso reino... eh, rapazes! À gangue do Pollock! [Todos gritam vários brados ou palavrões, erguendo seus copos no ar. Muita cerveja acaba no chão.]}{}{}{}{}
+{70}{Entendi. Tem mais alguma coisa sobre o Fervura que eu deva saber?}{}{5}{}{72}{}
+{72}{Se você tem perguntas sobre o Fervura, deveria ir falar com Caleb Malloy, o barman. Ele está aqui há muito mais tempo que a maioria e tem as cicatrizes para provar...}{Se você tem perguntas sobre o Fervura, deveria ir falar com Caleb Malloy, o barman. Ele está aqui há muito mais tempo que a maioria e tem as cicatrizes para provar...}{}{}{}{}
+{73}{Posso fazer isso. Mais algumas perguntas...}{}{5}{}{42}{}
+{74}{E:}{}{5}{}{0}{}
+{76}{Bom... um sujeito tem que ter cuidado com quem trabalha aqui no Caldeirão, garoto. Por exemplo, digamos que você aceitasse um serviço com o Clã Maug. Bom, eu e meus companheiros, que fazemos parte da gangue do Pollock, não íamos gostar nem um pouco disso. Tá me entendendo, garoto? [Ele dá um tapinha em um grosso cacete preso ao cinto.] É, um sujeito tem que ter MUITO cuidado...}{Bom... uma mulher como você tem que ter cuidado com quem trabalha aqui no Caldeirão. Por exemplo, digamos que você aceitasse um serviço com o Clã Maug. Bom, eu e meus companheiros, que fazemos parte da gangue do Pollock, não íamos gostar nem um pouco disso. Tá me entendendo, moça? [Ele dá um tapinha em um grosso cacete preso ao cinto.] É, você tem que ter MUITO cuidado...}{}{}{}{}
+{77}{E se eu quisesse entrar para a gangue do Pollock...?}{}{5}{}{82}{}
+{79}{Hã... e se eu quiser entrar para a gangue do Pollock?}{}{-4}{}{82}{}
+{80}{E:}{}{1}{}{0}{}
+{82}{Você pode ser mais esperto do que parece, garoto. Se quer trabalhar para o Pollock, então recomendo que vá falar com Miranda Lágrimas... aquela moça de aparência durona que está ali perto do balcão. Só diga que nós mandamos você, e ela vai decidir se vale a pena perder tempo com você...}{Você pode ser mais esperta do que parece. Se quer trabalhar para o Pollock, então recomendo que vá falar com Miranda Lágrimas... aquela moça de aparência durona que está ali perto do balcão. Só diga que nós mandamos você, e ela vai decidir se vale a pena perder tempo com você...}{}{}{}{gf2172 1}
+{83}{Entendo. Mais algumas perguntas...}{}{5}{}{42}{}
+{85}{Certo! Mais perguntas...}{}{-4}{}{106}{}
+{86}{E:}{}{1}{}{0}{}
+{88}{Você não é o sujeito que estava falando demais há pouco? Acha que a gente ia esquecer de você, garoto? Só suma daqui, e rápido...}{Você não é a moça que estava falando demais há pouco? Acha que a gente ia esquecer de você, garota? Só suma daqui, e rápido...}{}{}{}{}
+{89}{Minha língua às vezes se solta. Não foi por mal...}{}{5}{}{31}{lf2 0, lf1 1, re +5}
+{90}{Na verdade, voltei só para acabar com você, covarde...}{}{5}{}{}{co, fl 40}
+{91}{E:}{}{5}{}{0}{}
+{93}{[O homem olha para você, incrédulo.] Olha só isso aqui, pessoal! Temos um espertinho! Esse sujeito não tem nem três rodas numa carroça! HA HA HA! Nunca pensei que veria um idiota andando pelas ruas do Caldeirão!}{[O homem olha para você, incrédulo.] Olha só isso aqui, pessoal! Temos uma espertinha! Essa moça não tem nem três rodas numa carroça! HA HA HA! Nunca pensei que veria o dia em que uma idiota andaria pelas ruas do Caldeirão!}{}{}{}{}
+{94}{Hã... HAHAHAHA!!! Você é engraçado! Engraçado!}{}{-4}{}{100}{}
+{95}{Eu não gosto das suas palavras bobas. Eu vou matar você e seus amigos...}{}{-4}{}{}{co, fl 98}
+{96}{E:}{}{-4}{}{0}{}
+{98}{Isso é uma péssima ideia aqui no Caldeirão, garoto, tenha você um pingo de juízo ou não...}{Isso é uma péssima ideia aqui no Caldeirão, garota, tenha você um pingo de juízo ou não...}{}{}{}{}
+{100}{[Ele se dobra de tanto rir.] O garoto nem sabe que ELE é a piada! Não me ria tanto assim há anos... [Ele pousa sua cerveja, lágrimas escorrendo pelo rosto.] Você fez o meu dia, garoto. Não é todo dia que a gente encontra alguém com o crânio tão vazio!}{[Ele se dobra de tanto rir.] A garota nem sabe que ELA é a piada! Não me ria tanto assim há anos... [Ele pousa sua cerveja, lágrimas escorrendo pelo rosto.] Você fez o meu dia, garota. Não é todo dia que a gente encontra alguém com o crânio tão vazio!}{}{}{}{}
+{101}{Então... você me ajuda?}{}{-4}{}{103}{lf5 1}
+{103}{[Ele seca os olhos, tomando um gole de cerveja em seguida.] Claro, garoto. Um sujeito como você precisa de toda a ajuda que puder conseguir. O que você quer?}{[Ele seca os olhos, tomando um gole de cerveja em seguida.] Claro, moça. Uma garota como você precisa de toda a ajuda que puder conseguir. O que você quer?}{}{}{}{}
+{104}{Tenho perguntas!}{}{-4}{}{106}{}
+{106}{O que você quer saber?}{O que você quer saber?}{}{}{}{}
+{107}{Hã... o que é o 'Caldeirão'?}{}{-4}{}{113}{}
+{108}{Quem é Pollock?}{}{-4}{lf6 1}{63}{}
+{109}{O que é o Clã Maug?}{}{-4}{lf6 1}{56}{}
+{110}{Como consigo trabalho aqui?}{}{-4}{lf6 1, gf2172 0}{76}{}
+{111}{E:}{}{-4}{}{0}{}
+{113}{O Caldeirão? É onde você está, garoto! Tudo aqui do lado oeste da Ponte Garrillon. E não é o tipo de lugar onde você quer ficar perambulando... ainda mais com o Clã Maug e a gangue do Pollock pelas ruas. Um sujeito como você só vai se machucar. Se tiver mais perguntas sobre o Caldeirão, vá perguntar para Caleb Malloy, o barman...}{O Caldeirão? É onde você está, moça! Tudo aqui do lado oeste da Ponte Garrillon. E não é o tipo de lugar onde você quer ficar perambulando... ainda mais com o Clã Maug e a gangue do Pollock pelas ruas. Uma garota como você só vai se machucar. Se tiver mais perguntas sobre o Caldeirão, vá perguntar para Caleb Malloy, o barman...}{}{}{}{lf6 1}
+{114}{Mais perguntas...}{}{-4}{}{106}{}
+{115}{E:}{}{-4}{}{}{}
+{150}{Vou beber a isso!}{Vou beber a isso!}{}{}{}{}
+{151}{Um brinde a nadar com mulheres pernas tortas!}{Um brinde a nadar com mulheres pernas tortas!}{}{}{}{}
+{152}{Arrrggghhhh!!!!}{Arrrggghhhh!!!!}{}{}{}{}
+{153}{Sangrentamente bom, parceiro!}{Sangrentamente bom, parceiro!}{}{}{}{}
+{154}{Tá falando a minha língua!}{Tá falando a minha língua!}{}{}{}{}
+{155}{Buuurrrppp!}{Buuurrrppp!}{}{}{}{}
+{156}{Esse é pelo velho Ben Vesguinho!}{Esse é pelo velho Ben Vesguinho!}{}{}{}{}
+{157}{Engole tudo!}{Engole tudo!}{}{}{}{}
+{158}{Pode ser lavagem de porco, mas vai te deixar bêbado!}{Pode ser lavagem de porco, mas vai te deixar bêbado!}{}{}{}{}
+{159}{Acabem com eles, rapazes!}{Acabem com eles, rapazes!}{}{}{}{}
+{160}{Ele sempre diz isso, maldito chato!}{Ele sempre diz isso, maldito chato!}{}{}{}{}
+

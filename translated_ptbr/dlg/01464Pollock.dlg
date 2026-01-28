@@ -1,0 +1,128 @@
+{1}{Ah... o garoto que está fazendo tanto barulho no Caldeirão. [O meio-ogro à sua frente é enorme, seu rosto cheio de cicatrizes.]}{Ah... a garota que está fazendo tanto barulho aqui no Caldeirão. [O meio-ogro à sua frente é enorme, seu rosto cheio de cicatrizes.]}{}{}{}{}
+{2}{Pollock, presumo?}{}{5}{}{142}{}
+{3}{Hã... você é o Pollock?}{}{-4}{}{142}{}
+{5}{Eu sou o líder desta gangue. [Ele te examina, seus punhos se fechando e abrindo.] Gosta de fazer barulho? Pollock não gosta de gente fazendo muito barulho. Eu sou o líder desta gangue. Entendeu?}{Sim. Eu sou o Pollock. E sou o líder desta gangue. [Ele te examina, seus punhos se fechando e abrindo.] Gosta de fazer barulho? Pollock não gosta de gente fazendo muito barulho. Eu sou o líder desta gangue. Entendeu?}{}{}{}{}
+{6}{Claro, Pollock. Não estou aqui para arranjar confusão...}{}{5}{}{32}{re +5}
+{7}{Eu é que decido onde e quando faço barulho, ENTENDEU...?}{}{5}{}{-8}{}
+{9}{Ameace-me de novo, e juro por Deus que te mato...}{}{5}{ch 15}{27}{re +10}
+{10}{Ameace-me de novo, e juro por Deus que te mato...}{}{5}{ch -14}{}{co, fl 49}
+{11}{Talvez seja melhor eu ir andando...}{}{5}{lf6 0}{123}{lf6 1, lc1 1}
+{12}{Talvez seja melhor eu ir andando...}{}{5}{lf6 1}{}{co, fl 51}
+{13}{Hã... tá bom, Pollock. Eu não faço barulhão...}{}{-4}{}{32}{}
+{14}{Você está me deixando bravo. Talvez eu só te mate...}{}{-4}{}{}{co, fl 49}
+{15}{Eu vou indo agora...}{}{-4}{lf6 0}{123}{lf6 1, lc1 1}
+{16}{Eu vou indo agora...}{}{-4}{lf6 1}{}{co, fl 51}
+{18}{Hmmm. [Ele te avalia por um momento, parecendo medir sua força contra a dele.] Você é forte, garoto. Pollock respeita um garoto forte com palavras fortes. Mas esta é MINHA gangue, entendeu?}{Hmmm. [Ele te avalia por um momento, parecendo medir sua força contra a dele.] Você é forte, garota. Pollock respeita uma garota forte com palavras fortes. Mas esta é MINHA gangue, entendeu?}{}{}{}{}
+{19}{Sim, Pollock. O que você precisa que eu faça?}{}{5}{}{32}{re +5}
+{20}{Talvez seja hora de eu assumir o controle. Não terei problemas em me livrar de você.}{}{5}{}{}{co, fl 49}
+{23}{[Ele se levanta sobre você, ameaçador com os punhos erguidos.] Você não é forte o suficiente para falar com Pollock desse jeito, garoto. Vamos deixar isso claro agora... esta é minha gangue e eu não aceito palavras de garotos como você. Entendeu?}{[Ele se levanta sobre você, ameaçador com os punhos erguidos.] Você não é forte o suficiente para falar com Pollock desse jeito, garota. Vamos deixar isso claro agora... esta é minha gangue e eu não aceito palavras de garotas como você. Entendeu?}{}{}{}{}
+{24}{Desculpe, Pollock. Não estou aqui para arranjar confusão...}{}{5}{}{32}{re -5}
+{25}{Chega dessa pose, ogro. Cale a boca e sente-se.}{}{5}{}{}{co, fl 49}
+{27}{[Ele ri.] Você tem coragem, garoto. Isso com certeza. Acho que Miranda não estava errada sobre você. Tenho um trabalho para alguém com coragem...}{[Ele ri.] Você tem coragem, garota. Isso com certeza. Acho que Miranda não estava errada sobre você. Tenho um trabalho para alguém com coragem...}{}{}{}{}
+{28}{É para isso que estou aqui.}{}{5}{}{32}{}
+{29}{Prefiro não. Tenha um bom dia.}{}{5}{lf6 0}{123}{lf6 1, lc1 2}
+{30}{Prefiro não. Tenha um bom dia.}{}{5}{lf6 1}{}{co, fl 51}
+{32}{[Ele grunhe, com um sorrisinho.] Bom, você é esperto. Continue sendo esperto, e não acaba morto, entendeu? Pollock tem um trabalho para você, garoto esperto. Acha que tem coragem para mais um serviço?}{[Ele grunhe, com um sorrisinho.]  Bom, você é esperto.  Continue sendo esperto, e não acaba morto, entendeu?  Pollock tem um trabalho pra você, garota esperta.  Acha que tem colhões pra fazer mais um serviço?}{}{}{}{}
+{33}{Eu não questionaria minhas habilidades se fosse você, ogro...}{}{5}{ch 15}{42}{re -10}
+{34}{Eu não questionaria minhas habilidades se fosse você, ogro...}{}{5}{ch -14}{45}{re -5}
+{35}{Ficaria feliz em fazer o que quer que precise ser feito...}{}{5}{}{53}{}
+{36}{Acho que prefiro ir embora, se não fizer diferença pra você...}{}{5}{lf6 0}{123}{lf6 1, lc1 3}
+{37}{Acho que prefiro ir embora, se não fizer diferença pra você...}{}{5}{lf6 1}{}{co, fl 51}
+{38}{Sim! Eu faço mais trabalhos!}{}{-4}{}{53}{}
+{39}{Acho que não quero fazer isso... Vou embora agora...}{}{-4}{lf6 0}{123}{lf6 1, lc1 3}
+{40}{Acho que não quero fazer isso... Vou embora agora...}{}{-4}{lf6 1}{}{co, fl 51}
+{42}{[Ele parece um pouco surpreso, mas impressionado.]  Você fala a língua do Caldeirão, garoto.  Aprende rápido.  Se trabalhar tão bem quanto fala, talvez não acabe morto...}{[Ele parece um pouco surpreso, mas impressionado.]  Você fala a língua do Caldeirão, garota.  Aprende rápido.  Se trabalhar tão bem quanto fala, talvez não acabe morta...}{}{}{}{}
+{43}{Qual é o trabalho, Pollock?}{}{5}{}{53}{}
+{45}{Você pode ser durão, garoto, mas não é tão durão assim.  Se responder pra Pollock desse jeito, eu te enterro. Entendeu?}{Você pode ser durona, garota, mas não é tão durona assim.  Se responder pra Pollock desse jeito, eu te enterro. Entendeu?}{}{}{}{}
+{46}{Me perdoe, Pollock. Por favor... me conte sobre o trabalho...}{}{5}{}{53}{}
+{47}{Estou cansado das suas ameaças vazias. Prepare-se para morrer, ogro...}{}{5}{}{}{co, fl 49}
+{49}{O quê? Ninguém fala com Pollock desse jeito, garoto! Você vai morrer!}{O quê? Ninguém fala com Pollock desse jeito, garota! Você vai morrer!}{}{}{}{}
+{51}{Eu te avisei, garoto. Se tentar sair da Gangue do Pollock, você vai morrer...}{Eu te avisei, garota. Se tentar sair da Gangue do Pollock, você vai morrer...}{}{}{}{}
+{53}{Bom garoto. Garoto esperto. Você escuta o Pollock e não acaba morto. Tem um homem que preciso que você mate... um homem chamado Darian Maug. Você conhece Darian Maug, garoto?}{Boa garota. Garota esperta. Você escuta o Pollock e não acaba morta. Tem um homem que preciso que você mate... um homem chamado Darian Maug. Você conhece Darian Maug, garota?}{}{}{}{}
+{54}{Sim... já ouvi falar do Sr. Maug...}{}{5}{}{71}{}
+{55}{Não... quem é ele?}{}{5}{}{63}{}
+{56}{Acho que esse não é o tipo de trabalho que eu gostaria de fazer. Tenha um bom dia...}{}{5}{lf6 0}{123}{lf6 1, lc1 4}
+{57}{Acho que esse não é o tipo de trabalho que eu gostaria de fazer. Tenha um bom dia...}{}{5}{lf6 1}{}{co, fl 51}
+{58}{Hã... sim! Eu conheço o Mog!}{}{-4}{}{71}{}
+{59}{Não... não sei de quem você está falando...}{}{-4}{}{63}{}
+{60}{Não estou gostando disso... Vou embora agora...}{}{-4}{lf6 0}{123}{lf6 1, lc1 4}
+{61}{Não estou gostando disso... Vou embora agora...}{}{-4}{lf6 1}{}{co, fl 51}
+{63}{Qualquer um que conheça o Caldeirão conhece Darian Maug. Um lixo meio-orque... ele e seu Clã andam pelo Caldeirão como se fossem os donos. Mas Pollock é o dono do Caldeirão, garoto. E Darian Maug vai descobrir isso da pior maneira. Entendeu, garoto?}{Qualquer um que conheça o Caldeirão conhece Darian Maug. Um lixo meio-orque... ele e seu Clã andam pelo Caldeirão como se fossem os donos. Mas Pollock é o dono do Caldeirão, garota. E Darian Maug vai descobrir isso da pior maneira. Entendeu, garota?}{}{}{}{}
+{64}{Sim, claramente. O que você precisa que eu faça?}{}{5}{}{71}{}
+{65}{Prefiro não me envolver. Tenha um bom dia...}{}{5}{lf6 0}{123}{lf6 1, lc1 5}
+{66}{Prefiro não me envolver. Tenha um bom dia...}{}{5}{lf6 1}{}{co, fl 51}
+{67}{Hã... tá bom. Como eu mato o Mog?}{}{-4}{}{71}{}
+{68}{Hã... eu não faço isso. Vou indo agora...}{}{-4}{lf6 0}{123}{lf6 1, lc1 5}
+{69}{Hã... eu não faço isso. Vou indo agora...}{}{-4}{lf6 1}{}{co, fl 51}
+{71}{Bom... Maug mora naquele prédio grande no alto do Caldeirão... chama-se Bentley. Ele se acha o rei do Caldeirão naquele prédio... Pollock vai mostrar pra ele quem é o rei...}{Bom... Maug mora naquele prédio grande no alto do Caldeirão... chama-se Bentley. Ele se acha o rei do Caldeirão naquele prédio... Pollock vai mostrar pra ele quem é o rei...}{}{}{}{}
+{72}{Entendi. Tem algo que você possa me dizer que possa ajudar?}{}{5}{}{75}{}
+{73}{Hã... tá bom. Como eu entro?}{}{-4}{}{75}{}
+{75}{O Bentley está bem trancado, garoto. E tem um monte de lixo orque vigiando o tempo todo, por dentro e por fora. Você tem que ser esperto, não fazer muito barulho. Tem que entrar sorrateiramente, ser esperto, matá-lo. Entendeu? Tenho algumas coisas que podem te ajudar, garoto... podem te ajudar a não morrer. Você é um mago ou um tecno?}{O Bentley está bem trancado, garota. E tem um monte de lixo orque vigiando o tempo todo, por dentro e por fora. Você tem que ser esperta, não fazer muito barulho. Tem que entrar sorrateiramente, ser esperta, matá-lo. Entendeu? Tenho algumas coisas que podem te ajudar, garota... podem te ajudar a não morrer. Você é uma maga ou uma tecno?}{}{}{}{}
+{76}{Prefiro os caminhos da tecnologia...}{}{5}{}{-21}{}
+{77}{Eu diria que sou mais um mago...}{}{5}{}{-26}{}
+{78}{Hã... magia!}{}{-4}{}{-21}{}
+{79}{Tecnologia! Tecnologia!}{}{-4}{}{-26}{}
+{81}{Um tecno, é? Tenho algo que pode ajudar um tecno como você. [Ele te entrega três objetos.] Use-os bem, garoto. Você só vai ter uma chance nisso. E não volte aqui a menos que Maug seja um orque morto... se eu te ver antes disso acontecer, eu mesmo te mato. Entendeu?}{Uma tecno, é? Tenho algo que pode ajudar uma tecno como você. [Ele te entrega três objetos.] Use-os bem, garota. Você só vai ter uma chance nisso. E não volte aqui a menos que Maug seja um orque morto... se eu te ver antes disso acontecer, eu mesmo te mato. Entendeu?}{}{}{}{}
+{82}{Sim. E o que eu ganho em troca?}{}{5}{}{89}{}
+{83}{Hã... tá bom! O que você me dá para matar o Mog?}{}{-4}{}{89}{}
+{85}{Um mago, é? Tenho algo que pode ajudar um mago como você. [Ele te entrega três objetos.] Use-os bem, garoto. Você só vai ter uma chance nisso. E não volte aqui a menos que Maug seja um orque morto... se eu te ver antes disso acontecer, eu mesmo te mato. Entendeu?}{Uma maga, é? Tenho algo que pode ajudar uma maga como você. [Ele te entrega três objetos.] Use-os bem, garota. Você só vai ter uma chance nisso. E não volte aqui a menos que Maug seja um orque morto... se eu te ver antes disso acontecer, eu mesmo te mato. Entendeu?}{}{}{}{}
+{86}{Sim. E o que eu ganho em troca?}{}{5}{}{89}{}
+{87}{Hã... tá bom! O que você me dá para matar o Mog?}{}{-4}{}{89}{}
+{89}{Você pode ficar com as coisas que eu te dei, e se voltar vivo, te dou 1500 moedas de ouro. É tudo que você vai conseguir de Pollock, entendeu?}{Você pode ficar com as coisas que eu te dei, e se voltar viva, te dou 1500 moedas de ouro. É tudo que você vai conseguir de Pollock, entendeu?}{}{}{}{qu1089 1}
+{90}{Trato feito.}{}{5}{ha -9}{105}{lf1 1, qu 1089 2}
+{91}{1600 e fechamos o acordo.}{}{5}{ha 10, ha -13}{105}{lf2 1, qu 1089 2}
+{92}{1700, nem um tostão a menos.}{}{5}{ha 14, ha -14}{105}{lf3 1, qu 1089 2}
+{93}{Eu não aceitaria menos que 1800.}{}{5}{ha 15}{105}{lf4 1, qu 1089 2}
+{94}{Esquece. Estou saindo dessa operação.}{}{5}{lf6 0}{123}{lf6 1, lc1 6}
+{95}{Esquece. Estou saindo dessa operação.}{}{5}{lf6 1}{}{co, fl 51}
+{96}{Prefiro simplesmente te matar e me poupar do inconveniente...}{}{5}{}{}{co, fl 49}
+{97}{Certo!}{}{-4}{ha -9}{105}{lf1 1, qu 1089 2}
+{98}{Eu quero 1600!}{}{-4}{ha 10, ha -13}{105}{lf2 1, qu 1089 2}
+{99}{Eu quero 1700!}{}{-4}{ha 14, ha -14}{105}{lf3 1, qu 1089 2}
+{100}{Eu quero 1800!}{}{-4}{ha 15}{105}{lf4 1, qu 1089 2}
+{101}{Hã... eu não quero fazer isso. Vou embora agora...}{}{-4}{lf6 0}{123}{lf6 1, lc1 6}
+{102}{Hã... eu não quero fazer isso. Vou embora agora...}{}{-4}{lf6 1}{}{co, fl 51}
+{103}{Acho que vou te matar em vez disso...}{}{-4}{}{}{co, fl 49}
+{105}{Então está combinado, garoto. Agora suma daqui. Como eu disse... se eu te ver antes de Maug estar morto, eu mesmo te mato....}{Então está combinado, garota. Agora suma daqui. Como eu disse... se eu te ver antes de Maug estar morto, eu mesmo te mato....}{}{}{}{}
+{106}{E:}{}{5}{}{0}{lf7 1 }
+{107}{E:}{}{-4}{}{0}{lf7 1 }
+{109}{Então. Você voltou. Ouvi dizer que matou Maug. Bom trabalho, garoto.}{Então. Você voltou. Ouvi dizer que matou Maug. Bom trabalho, garota.}{}{}{}{}
+{110}{Sim. Vim aqui buscar meu dinheiro...}{}{5}{lf1 1}{119}{$$1500}
+{111}{Sim. Vim aqui buscar meu dinheiro...}{}{5}{lf2 1}{119}{$$1600}
+{112}{Sim. Vim aqui buscar meu dinheiro...}{}{5}{lf3 1}{119}{$$1700}
+{113}{Sim. Vim aqui buscar meu dinheiro...}{}{5}{lf4 1}{119}{$$1800}
+{114}{Eu quero dinheiro!}{}{-4}{lf1 1}{119}{$$1500}
+{115}{Eu quero dinheiro!}{}{-4}{lf2 1}{119}{$$1600}
+{116}{Eu quero dinheiro!}{}{-4}{lf3 1}{119}{$$1700}
+{117}{Eu quero dinheiro!}{}{-4}{lf4 1}{119}{$$1800}
+{118}{}{}{}{}{}{}
+{119}{Sim... você mereceu. Aqui está seu dinheiro. [Ele te entrega.] Você fez um bom trabalho, garoto. Sempre será um membro da gangue do Pollock...}{Sim... você mereceu. Aqui está seu dinheiro. [Ele te entrega.] Você fez um bom trabalho, garota. Sempre será um membro da gangue do Pollock...}{}{}{}{qu1089 4, lf5 1}
+{120}{E:}{}{5}{}{0}{}
+{123}{Desculpe, garoto. Ninguém sai da gangue do Pollock. Mais uma palavra sobre isso, e eu te estripo aqui mesmo. Entendeu?}{Desculpe, garota. Ninguém sai da gangue do Pollock. Mais uma palavra sobre isso, e eu te estripo aqui mesmo. Entendeu?}{}{}{}{}
+{124}{Perdoe a ofensa. Vamos continuar, por favor...}{}{5}{lc1 1}{32}{}
+{125}{Entendo. O que você quer, Pollock?}{}{5}{lc1 2}{32}{}
+{126}{Estou pronto para fazer o que for necessário, Pollock...}{}{5}{lc1 3}{53}{}
+{127}{Tudo bem. Eu sei quem é o Sr. Maug...}{}{5}{lc1 4}{71}{}
+{128}{Conte-me sobre o Sr. Maug...}{}{5}{lc1 4}{63}{}
+{129}{Como devo matar Darian Maug?}{}{5}{lc1 5}{71}{}
+{130}{Tá bom, tá bom. Me diga de novo o que eu ganho em troca...}{}{5}{lc1 6}{89}{}
+{131}{Isso está cansativo, Pollock. Acho que vou arrebentar sua cabeça, em vez disso...}{}{5}{}{}{co, fl 49}
+{132}{Hã... tá bom. O que você quer?}{}{-4}{lc1 1}{32}{}
+{133}{Tô pronto pra fazer o serviço!}{}{-4}{lc1 3}{53}{}
+{134}{É! Eu ouvi falar do Mog...}{}{-4}{lc1 4}{71}{}
+{135}{Eu não conheço o Mog...}{}{-4}{lc1 4}{63}{}
+{136}{Como é que eu vou matar o Mog?}{}{-4}{lc1 5}{71}{}
+{137}{Hã... o que eu ganho de novo se matar o Mog?}{}{-4}{lc1 6}{89}{}
+{138}{Você fala umas besteiras. Vou esmagar seu crânio e seus miolos, agora...}{}{-4}{}{}{co, fl 49}
+{140}{Você é do Clã Maug! Vou te matar agora mesmo!}{Você é do Clã Maug! Vou te matar agora mesmo!}{}{}{}{}
+{142}{É... eu sou o Pollock. Esse é um nome que você vai lembrar, garoto...}{É... eu sou o Pollock. Esse é um nome que você vai lembrar, garota...}{}{}{}{}
+{143}{Sim... tenho certeza disso...}{}{5}{pa 6409}{148}{}
+{144}{Sim... tenho certeza disso...}{}{5}{pa -6409}{5}{}
+{145}{Ah... tá bom!}{}{-4}{pa 6409}{148}{}
+{146}{Ah... tá bom!}{}{-4}{pa -6409}{5}{}
+{148}{[Ele olha para Virgil, desconfiado.] Ei... eu não conheço você, ali? Pollock nunca esquece uma cara... Eu sei que já vi a sua. Talvez você já tenha ido ao Caldeirão antes...?}{[Ele olha para Virgil, desconfiado.] Ei... eu não conheço você, ali? Pollock nunca esquece uma cara... Eu sei que já vi a sua. Talvez você já tenha ido ao Caldeirão antes...?}{}{}{}{}
+{149}{Virgil...?}{}{5}{}{-13}{}
+{150}{Virgil, do que ele tá falando?}{}{-4}{}{-13}{}
+{152}{Some daqui, garoto. Não quero ver sua cara até o Maug estar morto, entendeu?}{Some daqui, garota. Não quero ver sua cara até o Maug estar morto, entendeu?}{}{}{}{}
+{153}{Você sempre vai ser um dos nossos, garoto...}{Você sempre vai ser uma dos nossos, garota...}{}{}{}{}
+

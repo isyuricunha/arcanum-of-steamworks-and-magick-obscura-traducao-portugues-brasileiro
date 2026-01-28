@@ -1,0 +1,84 @@
+{1}{Você está aqui para me deixar entrar? Não entendo por que aquele imbecil de guarda não me deixa entrar.}{Você está aqui para me deixar entrar? Não entendo por que aquele imbecil de guarda não me deixa entrar.}{}{}{}{ }
+{2}{Hmm, não exatamente.}{}{5}{}{10}{ }
+{3}{Hmm... não?}{}{-4}{}{250}{ }
+{8}{}{}{}{}{}{ }
+{9}{E:}{}{1}{}{0}{ }
+{10}{O que você quer dizer? Estou aqui fora há meses procurando por essa maldita gema! Os monstros que tive que enfrentar e as coisas absurdas que as pessoas me fizeram fazer para que me dessem a mínima informação! Você não acreditaria!}{O que você quer dizer? Estou aqui fora há meses procurando por essa maldita gema! Os monstros que tive que enfrentar e as coisas absurdas que as pessoas me fizeram fazer para que me dessem a mínima informação! Você não acreditaria!}{}{}{}{ }
+{11}{Na verdade, acreditaria. Mas por que você quer voltar para lá?}{}{5}{}{20}{ }
+{20}{Esta é a minha casa, desejo voltar aos meus estudos. Tenho a gema, [ele se vira e grita para o guarda] ME DEIXE ENTRAR!}{Esta é a minha casa, desejo voltar aos meus estudos. Tenho a gema, [ele se vira e grita para o guarda] ME DEIXE ENTRAR!}{}{}{}{ }
+{21}{Mas e quanto à sua armadura? Você está se voltando para a tecnologia.}{}{5}{}{30}{ }
+{30}{Olha, eu fiz o que tinha que fazer para sobreviver lá fora! Chega de conversa, por que eles não me deixam entrar?}{Olha, eu fiz o que tinha que fazer para sobreviver lá fora! Chega de conversa, por que eles não me deixam entrar?}{}{}{}{ }
+{31}{Eles acham que você seria uma influência corruptora para a escola.}{}{5}{ps15}{40}{ }
+{32}{Eles acham que você seria uma influência corruptora para a escola.}{}{5}{ps-14, ps12,  ta50}{150}{ }
+{33}{Eles acham que você seria uma influência corruptora para a escola.}{}{5}{ps-11}{240}{ }
+{39}{Não faço ideia. Tenha um bom dia.}{}{5}{}{0}{ }
+{40}{Influência corruptora? Eu arrisquei minha vida para recuperar essa gema para eles!}{Influência corruptora? Eu arrisquei minha vida para recuperar essa gema para eles!}{}{}{}{ }
+{41}{O Mestre Eckes me disse que você se ofereceu como voluntário.}{}{5}{gf2396 1}{50}{ }
+{42}{Exatamente! Por que você iria querer viver com ingratos como estes?}{}{5}{gf2396 0}{90}{ }
+{43}{Obviamente, você achou que eles sabiam o que era melhor quando o mandaram para fora.}{}{5}{gf2396 0}{60}{ }
+{50}{Voluntário?! Ele me pediu para fazer isso por ele! Como eu poderia recusar, sendo ele meu professor?}{Voluntário?! Ele me pediu para fazer isso por ele! Como eu poderia recusar, sendo ele meu professor?}{}{}{}{ }
+{51}{Exatamente! Por que você iria querer viver com ingratos como estes?}{}{5}{}{90}{ }
+{52}{No entanto, você ainda acreditou neles o suficiente para ouvi-los.}{}{5}{}{60}{ }
+{60}{Qual é o seu ponto?}{Qual é o seu ponto?}{}{}{}{ }
+{61}{Eles o mandaram para fora porque sabiam que você não pertencia àquele lugar.}{}{5}{}{70}{ }
+{62}{Eles o enganaram. Mandaram você para morrer, não têm honra!}{}{5}{}{90}{ }
+{70}{Sempre me senti inquieto aqui, como se não pertencesse a este lugar.}{Sempre me senti inquieto aqui, como se não pertencesse a este lugar.}{}{}{}{ }
+{71}{Exatamente! Me dê a gema, e você pode seguir seu caminho.}{}{5}{}{120}{ }
+{72}{Tulla é muito limitante para alguém com sua experiência, agora.}{}{5}{}{80}{ }
+{80}{Você tem razão! Aqui está a gema. Por favor, entregue-a ao Mestre Eckes por mim. Obrigado por me mostrar como eu havia superado este lugar. Boa sorte para você, amigo.}{Você tem razão! Aqui está a gema. Por favor, entregue-a ao Mestre Eckes por mim. Obrigado por me mostrar como eu havia superado este lugar. Boa sorte para você, amigo.}{}{}{}{in-5680, lf2 1 }
+{81}{Boa sorte para você também.}{}{5}{}{-6}{script-walk away }
+{90}{Como ousa! Arriscquei minha vida por essas pessoas! Ao insultá-las, você insulta a mim!}{Como ousa! Arriscquei minha vida por essas pessoas! Ao insultá-las, você insulta a mim!}{}{}{}{ }
+{91}{Minhas desculpas. Achei apenas que elas deveriam tê-lo tratado melhor.}{}{5}{}{100}{ }
+{92}{Não fui eu quem o insultou, foram elas ao rejeitá-lo.}{}{5}{}{130}{re-5 }
+{100}{O que você quer dizer?}{O que você quer dizer?}{}{}{}{ }
+{101}{Elas o mandaram para ser corrompido de propósito, para se livrar de você!}{}{5}{}{130}{re-5 }
+{102}{Elas nem sequer tiveram a cortesia de lhe dizer isso pessoalmente.}{}{5}{}{110}{ }
+{110}{Você tem razão. Sou bom demais para este lugar, sou mesmo. O que elas sabem de cortesia ou respeito. Aqui está a maldita gema. Espero que Eckes se engasgue com ela. Obrigado por abrir meus olhos. Tenha um bom dia.}{Você tem razão. Sou bom demais para este lugar, sou mesmo. O que elas sabem de cortesia ou respeito. Aqui está a maldita gema. Espero que Eckes se engasgue com ela. Obrigado por abrir meus olhos. Tenha um bom dia.}{}{}{}{in-5680, lf2 1 }
+{111}{Boa sorte para você também.}{}{5}{}{-6}{script-walk away }
+{120}{Você me toma por um tolo? Esta gema pode ser a única maneira de eu ser bem-vindo de volta a Tulla!}{Você me toma por um tolo? Esta gema pode ser a única maneira de eu ser bem-vindo de volta a Tulla!}{}{}{}{ }
+{121}{Eles nunca permitirão que você volte. Não respeitam o seu sacrifício.}{}{5}{lf5 0}{100}{ }
+{122}{Você é burro, homem? Eles não o querem.}{}{5}{}{130}{re-10 }
+{130}{Não quero mais falar com você. Não quero falar com ninguém além do Mestre Eckes. Tenha um bom dia, senhor!}{Não quero mais falar com você. Não quero falar com ninguém além do Mestre Eckes. Tenha um bom dia, senhora!}{}{}{}{ }
+{131}{Preciso pegar a gema de você antes de partir.}{}{5}{}{140}{re-5 }
+{132}{Não vou embora sem a gema!}{}{5}{}{140}{re-10 }
+{140}{Você terá que arrancá-la dos meus dedos mortos, tolo!}{Você terá que arrancá-la dos meus dedos mortos, tolo!}{}{}{}{lf10 1 }
+{141}{Peço desculpas. Vou deixá-lo agora.}{}{5}{}{0}{ }
+{142}{Ficarei feliz em tentar, cão!}{}{5}{}{0}{co }
+{150}{Influência corruptora? Arriscquei minha vida para recuperar esta gema para eles!}{Influência corruptora? Arriscquei minha vida para recuperar esta gema para eles!}{}{}{}{ }
+{151}{O Mestre Eckes me disse que você se ofereceu como voluntário.}{}{5}{gf2396 1}{160}{ }
+{152}{Eu não deixaria eles fazerem isso comigo, se fosse você.}{}{5}{}{170}{ }
+{153}{Obviamente, você achou que eles sabiam o que era melhor quando te mandaram embora.}{}{5}{}{210}{ }
+{160}{Voluntário?! Ele me pediu para fazer isso por ele! Como eu poderia recusar, sendo ele meu professor?}{Voluntário?! Ele me pediu para fazer isso por ele! Como eu poderia recusar, sendo ele meu professor?}{}{}{}{ }
+{161}{Eu não deixaria eles fazerem isso comigo, se fosse você.}{}{5}{}{170}{ }
+{162}{Então eles fizeram isso de propósito?}{}{5}{}{170}{ }
+{170}{O que você quer dizer?}{O que você quer dizer?}{}{}{}{ }
+{171}{Eles nos rejeitaram porque abraçamos a tecnologia!}{}{5}{}{180}{ }
+{172}{Sinto como se não tivéssemos para onde ir.}{}{5}{}{180}{ }
+{180}{Eles rejeitaram você também?}{Eles rejeitaram você também?}{}{}{}{ }
+{181}{Sim. Se você me desse a gema, eu poderia voltar.}{}{5}{}{120}{lf5 1, re-5 }
+{182}{Com toda a razão! Estou planejando minha vingança, enquanto falamos.}{}{5}{}{190}{ }
+{190}{[Ele olha ao redor, com culpa.] O que você vai fazer?}{[Ele olha ao redor, com culpa.] O que você vai fazer?}{}{}{}{ }
+{191}{Vou incendiar este lugar até o chão. Está comigo?}{}{5}{ps-15}{130}{ }
+{192}{Vou incendiar este lugar até o chão. Está comigo?}{}{5}{ps16}{200}{ }
+{199}{Não sei. Preciso pensar sobre isso. Posso ficar com a gema?}{}{5}{}{120}{lf5 1, re-5 }
+{200}{Será um doce prazer ensinar a esses velhos tolos uma lição de respeito. Vou pendurar aquele bastardo do Eckes pelos polegares!}{Será um doce prazer ensinar a esses velhos tolos uma lição de respeito. Vou pendurar aquele bastardo do Eckes pelos polegares!}{}{}{}{rp1045 }
+{201}{Matem todos eles!}{}{5}{}{-8}{gf2395 1 }
+{210}{Por que você diz isso?}{Por que você diz isso?}{}{}{}{ }
+{211}{Eles sabiam que você rejeitaria os métodos deles.}{}{5}{}{220}{ }
+{212}{Também fui afastado por causa da tecnologia.}{}{5}{}{180}{ }
+{220}{Eu já te disse, fiz isso para sobreviver.}{Eu já te disse, fiz isso para sobreviver.}{}{}{}{ }
+{221}{Eu poderia convencê-los da sua sinceridade, se você me desse a gema.}{}{5}{}{120}{lf5 1, re-5 }
+{222}{Sua magia não foi suficiente?}{}{5}{}{230}{ }
+{230}{Claro que não! Eles me mandaram embora mal preparado, na melhor das hipóteses! Chega disso, preciso entrar.}{Claro que não! Eles me mandaram embora mal preparado, na melhor das hipóteses! Chega disso, preciso entrar.}{}{}{}{ }
+{231}{Você não entende? Eles fizeram o mesmo comigo.}{}{5}{}{180}{ }
+{232}{Talvez se você me desse a gema, eu poderia negociar sua entrada.}{}{5}{}{120}{lf5 1, re-5 }
+{240}{Se é assim que eles se sentem, que venham me dizer pessoalmente. Não serei afastado por algum, algum serviçal!}{Se é assim que eles se sentem, que venham me dizer pessoalmente. Não serei afastado por algum, algum serviçal!}{}{}{}{ }
+{241}{Preciso pegar a gema de você antes de ir embora.}{}{5}{}{140}{re-5 }
+{242}{Não vou embora sem a gema! Vou te matar se for preciso.}{}{5}{}{140}{re-10 }
+{250}{Então o que você está fazendo aqui, se não veio para me deixar entrar?}{Então o que você está fazendo aqui, se não veio para me deixar entrar?}{}{}{}{ }
+{251}{Eu vim pela gema.}{}{-4}{}{260}{ }
+{260}{Olha aqui, imbecil, se o Eckes quer a gema, ele pode ou me deixar entrar ou vir buscá-la ele mesmo.}{Olha aqui, imbecil, se o Eckes quer a gema, ele pode ou me deixar entrar ou vir buscá-la ele mesmo.}{}{}{}{ }
+{261}{Eu não sou <<<PH9>>>?}{}{-4}{}{0}{fl 270}
+{270}{Deixe-me em paz, idiota.}{Deixe-me em paz, idiota.}{}{}{}{ }
+{280}{Saudações, viajante.}{Saudações, viajante.}{}{}{}{ }
+

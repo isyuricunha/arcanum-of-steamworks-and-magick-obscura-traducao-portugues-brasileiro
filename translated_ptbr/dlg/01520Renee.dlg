@@ -1,0 +1,24 @@
+{1}{Então você é outro guarda, é? O que estão fazendo para encontrar esse homem terrível?}{Uma guarda mulher? O que estão fazendo para encontrar esse homem terrível?}{}{}{}{}
+{2}{Não sou guarda, senhora, apenas um cidadão interessado.}{}{5}{}{10}{lf 0 0, lf1 1}
+{9}{E:}{}{5}{}{0}{lf0 1}
+{10}{O senhor é algum tipo de degenerado? Há um louco à solta por aí e o senhor está "interessado"? Isso não é brincadeira, bom senhor.}{A senhora é algum tipo de degenerada? Há um louco à solta por aí e a senhora está "interessada"? Isso não é brincadeira, boa senhora.}{}{}{}{gf2256 1}
+{11}{Degenerado? Não sou eu a prostituta aqui.}{}{5}{}{20}{re-5}
+{12}{Estou simplesmente oferecendo minha ajuda para pôr um fim a esses assassinatos.}{}{5}{gf2212 1}{30}{}
+{13}{Talvez eu possa ajudar se souber mais sobre os assassinatos.}{}{5}{gf2212 0}{30}{}
+{20}{Sou exatamente como os deuses me fizeram, senhor. Faço o que preciso para sobreviver.}{Sou exatamente como os deuses me fizeram, senhora. Faço o que preciso para sobreviver.}{}{}{}{}
+{21}{Isso é problema seu. Estou aqui para obter informações sobre o que sabe.}{}{5}{}{30}{}
+{30}{Posso contar o que vi. Foi a visão mais horrível que espero contemplar. Aquele homem de pele pálida, uma sombra franzina, ajoelhado sobre Emily... e o sangue! Foi uma cena que jamais esquecerei.}{Posso contar o que vi. Foi a visão mais horrível que espero contemplar. Aquele homem de pele pálida, uma sombra franzina, ajoelhado sobre Emily... e o sangue! Foi uma cena que jamais esquecerei.}{}{}{}{gf2219 1}
+{31}{Comece do início, se fizer o favor.}{}{5}{}{40}{}
+{40}{Estávamos fora, trabalhando, e Emily tinha esquecido alguma coisa em casa. Então esperei por ela do lado de fora, mas ela nunca saiu. Quando entrei para procurá-la, foi quando o vi.}{Estávamos fora, trabalhando, e Emily tinha esquecido alguma coisa em casa. Então esperei por ela do lado de fora, mas ela nunca saiu. Quando entrei para procurá-la, foi quando o vi.}{}{}{}{}
+{41}{Como era a aparência do homem?}{}{5}{lf2 0}{50}{}
+{42}{O senhor não o viu entrar na casa?}{}{5}{}{60}{}
+{50}{Era difícil dizer, de verdade, todo aquele sangue... [ela estremece.] Como eu disse, era um homem franzino, possivelmente um elfo. Não parecia ter muita força física. Deve ter lançado algum tipo de magicka nela, ele lançou.}{Era difícil dizer, de verdade, todo aquele sangue... [ela estremece.] Como eu disse, era um homem franzino, possivelmente um elfo. Não parecia ter muita força física. Deve ter lançado algum tipo de magicka nela, ele lançou.}{}{}{}{lf2 1}
+{51}{A senhora não o viu entrar na casa?}{}{5}{}{60}{}
+{60}{Não, e realmente não há como entrar na casa sem que eu visse de onde estava.}{Não, e realmente não há como entrar na casa sem que eu visse de onde estava.}{}{}{}{}
+{61}{Como era a aparência do homem?}{}{5}{lf2 0}{80}{}
+{62}{Entendo. Tenha um bom dia, senhora.}{}{5}{}{0}{}
+{70}{Por favor, mate o desgraçado que esquartejou Emily. Ele merece sofrer como ela sofreu.}{Por favor, mate o desgraçado que esquartejou Emily. Ele merece sofrer como ela sofreu.}{}{}{}{}
+{71}{Farei o meu melhor. Tenha um bom dia.}{}{5}{}{0}{}
+{80}{Era difícil dizer, de verdade, todo aquele sangue... [ela estremece.] Como eu disse, era um homem franzino, possivelmente um elfo. Não parecia ter muita força física. Deve ter lançado algum tipo de magicka nela, ele lançou.}{Era difícil dizer, de verdade, todo aquele sangue... [ela estremece.] Como eu disse, era um homem franzino, possivelmente um elfo. Não parecia ter muita força física. Deve ter lançado algum tipo de magicka nela, ele lançou.}{}{}{}{}
+{81}{Deseja algo mais?}{}{5}{}{70}{}
+

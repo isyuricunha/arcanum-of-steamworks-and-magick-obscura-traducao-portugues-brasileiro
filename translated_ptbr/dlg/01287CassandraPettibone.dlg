@@ -1,0 +1,232 @@
+{1}{[Esta mulher bela e elegantemente vestida lança um olhar cauteloso ao redor antes de se dirigir a você em voz baixa.] Desculpe minha ousadia, senhor, mas não pude deixar de ouvir sua recente solicitação de trabalho ao guarda.}{[Esta mulher bela e elegantemente vestida lança um olhar cauteloso ao redor antes de se dirigir a você em voz baixa.] Desculpe minha ousadia, senhorita, mas não pude deixar de ouvir sua recente solicitação de trabalho ao guarda.}{}{}{}{ }
+{2}{Está correto, estou procurando um emprego remunerado.}{}{5}{gf2118 0}{280}{ }
+{3}{Sim sim. Eu procuro emprego.}{}{-4}{gf2118 0}{30}{ }
+{4}{Deixe-me em paz, seu louco.}{}{5}{}{283}{re -10 }
+{5}{Você é uma mulher feia e estúpida.}{}{-4}{}{283}{re -10 }
+{6}{Está correto, estou procurando um emprego remunerado.}{}{5}{gf2118 1}{310}{ }
+{7}{Sim sim. Eu procuro emprego.}{}{-4}{gf2118 1}{330}{ }
+{15}{[Esta mulher bela e elegantemente vestida lança um olhar cauteloso ao redor antes de se dirigir a você em voz baixa.] Com licença, senhor, eu não costumo me associar com... aqueles do seu... [ela faz uma careta de desgosto involuntário]... tipo, mas não pude deixar de ouvir sua recente solicitação de trabalho ao guarda.}{[Esta mulher bela e elegantemente vestida lança um olhar cauteloso ao redor antes de se dirigir a você em voz baixa.] Com licença, senhorita, eu não costumo me associar com... aqueles do seu... [ela faz uma careta de desgosto involuntário]... tipo, mas não pude deixar de ouvir sua recente solicitação de trabalho ao guarda.}{}{}{}{ }
+{16}{Está correto, estou procurando um emprego remunerado.}{}{5}{gf2118 0}{280}{ }
+{17}{Eu agradeceria se mudasse o tom comigo, mulher.}{}{5}{ch12, gf2118 0}{27}{ }
+{18}{Essa é uma atitude feia para uma mulher feia ter.}{}{5}{ch-11}{283}{re -10 }
+{19}{Sim sim. Eu procuro emprego.}{}{-4}{gf2118 0}{30}{ }
+{20}{Você é uma mulher feia e estúpida.}{}{-4}{}{283}{re -10 }
+{21}{Está correto, estou procurando um emprego remunerado.}{}{5}{gf2118 1}{310}{ }
+{22}{Sim sim. Eu procuro emprego.}{}{-4}{gf2118 1}{330}{ }
+{23}{Eu agradeceria se mudasse o tom comigo, mulher.}{}{5}{ch12, gf2118 1}{320}{ }
+{25}{Ora, eu... eu... seu rude, rude desgraçado! Tenha um bom dia, senhor!}{Ora, eu... eu... sua rude, rude rameira! Tenha um bom dia, madame!}{}{}{}{lf2 1 }
+{26}{Não podemos conversar aqui. Por favor, encontre-me mais tarde em minha casa, e eu lhe explicarei minhas necessidades. Moro aqui na esquina, na Rua Lungsten. Tenha um bom dia.}{Não podemos conversar aqui. Por favor, encontre-me mais tarde em minha casa, e eu lhe explicarei minhas necessidades. Moro aqui na esquina, na Rua Lungsten. Tenha um bom dia.}{}{}{}{lf1 1, gf2119 0 }
+{27}{[Ela cora.] Oh, por favor, me perdoe, bom senhor. Eu não entendi... hã... sua posição, confundi-o com alguém das classes mais baixas.}{[Ela cora.] Oh, por favor, me perdoe, boa madame. Eu não entendi... hã... sua posição, confundi-a com alguém das classes mais baixas.}{}{}{}{ }
+{28}{Não pense mais nisso. Você estava me oferecendo trabalho?}{}{5}{}{280}{ }
+{29}{Olha aqui, sua bruxa grotesca. Não quero saber da sua bobagem.}{}{5}{}{283}{re -10 }
+{30}{Oh, céus. Eu não percebi que você era um imbecil. Bem, talvez ainda possa ajudar. Encontre-me mais tarde em minha casa. Moro na esquina da Rua Lungsten com a Travessa Pickwick.}{Oh, céus. Eu não percebi que você era um imbecil. Bem, talvez ainda possa ajudar. Encontre-me mais tarde em minha casa. Moro na esquina da Rua Lungsten com a Travessa Pickwick.}{}{}{}{ }
+{31}{Eu ajudo! Eu ajudo!}{}{-4}{}{280}{ }
+{32}{Eu não sou imbecil. Você é imbecil.}{}{-4}{}{283}{re-10 }
+{33}{Não tenho palavras para você, sua lesma nojenta!}{Não tenho palavras para você, sua rameira ordinária!}{}{}{}{ }
+{34}{Ótimo, você veio. Preciso saber se pode ser discreto. Tenho algo muito importante que precisa ser feito, mas ninguém deve saber sobre isso.}{Ótimo, você veio. Preciso saber se pode ser discreto. Tenho algo muito importante que precisa ser feito, mas ninguém deve saber sobre isso.}{}{}{}{ }
+{35}{Minha discrição depende do que está pedindo de mim, senhorita...?}{}{5}{}{40}{ }
+{36}{Eu não esquisito. Eu legal.}{}{-4}{}{46}{ }
+{37}{Não gosto dessas coisas de intriga e segredo. Tenha um bom dia.}{}{5}{}{0}{lf3 1 }
+{38}{Eu tenho que ir.}{}{-4}{}{0}{lf3 1 }
+{40}{Com licença, onde estão meus modos? Sou a Sra. Cassandra Pettibone, esposa de Basil Pettibone, membro da assembleia inferior do conglomerado gnômico dentro do Conselho Industrial. Seja bem-vindo à minha humilde residência.}{Com licença, onde estão meus modos? Sou a Sra. Cassandra Pettibone, esposa de Basil Pettibone, membro da assembleia inferior do conglomerado gnômico dentro do Conselho Industrial. Seja bem-vindo à minha humilde residência.}{}{}{}{ }
+{41}{Prazer em conhecê-lo. Agora, sobre esse trabalho...}{}{5}{}{60}{ }
+{42}{Então, você tem orgulho de ser a esposa-troféu de um gnomozinho bobo?}{}{5}{ra -5, ra -6}{55}{re -10 }
+{43}{Eu querer trabalho.}{}{-4}{}{60}{ }
+{44}{Não faço negócios com capitalistas gnomos, ou suas esposas.}{}{5}{ra 7}{50}{re-10 }
+{45}{HAHAHAHA. Você casada com gnomozinho bobo!}{}{-4}{ra -5, ra -6}{55}{ }
+{46}{Não, quero dizer... escute aqui, idiota, você consegue guardar um segredo?}{Não, quero dizer... escute aqui, sua tola, você consegue guardar um segredo?}{}{}{}{ }
+{47}{Eu guardo segredos bem. Quem é você?}{}{-4}{}{40}{ }
+{48}{Eu não idiota. Você idiota. E feia.}{}{-4}{}{0}{fl 25}
+{50}{[Ela levanta o nariz com todo o desdém que consegue reunir.] Eu já deveria esperar isso do seu tipo, operário. Você provavelmente é um agitador sindical, não é? Por favor, saia da minha casa antes que eu seja forçada a chamar a polícia.}{[Ela levanta o nariz com todo o desdém que consegue reunir.] Eu já deveria esperar isso do seu tipo, operário. Você provavelmente é um agitador sindical, não é? Por favor, saia da minha casa antes que eu seja forçada a chamar a polícia.}{}{}{}{ }
+{51}{Tudo bem, estou indo embora, esnobe.}{}{5}{}{-27}{ }
+{52}{Acho que ainda não estou pronto para ir embora.}{}{5}{}{-18}{ }
+{54}{Polícia! Polícia!}{Polícia! Polícia!}{}{}{}{ }
+{55}{[Ela olha para você, horrorizada e sem palavras.] Não posso acreditar que você me insultou dessa forma! Eu agradeceria se fosse embora, seu... seu boêmio! Se não sair daqui em cinco segundos, chamarei o guarda!}{[Ela olha para você, horrorizada e sem palavras.] Não posso acreditar que você me insultou dessa forma! Eu agradeceria se fosse embora, sua... sua vagabunda de vida desregrada! Se não sair daqui em cinco segundos, chamarei o guarda!}{}{}{}{lf2 1 }
+{56}{Tudo bem, estou indo embora, esnobe.}{}{5}{}{-27}{ }
+{57}{Acho que ainda não estou pronto para ir embora.}{}{5}{}{-18}{ }
+{60}{Devo dizer que tenho estado em tal estado desde que aquela Sra. Willoughsby trouxe para casa sua adaga élfica de funeral! Ela acha que é o máximo da moda!}{Devo lhe dizer, estou num estado desses desde que aquela Sra. Willoughsby trouxe para casa sua adaga élfica de funeral! Ela acha que é o máximo da moda!}{}{}{}{ }
+{61}{Gostaria que eu a roubasse para você?}{}{5}{}{66}{ }
+{62}{A bolsa! Como ela ousa se exibir daquele jeito!}{}{5}{}{95}{re +5 }
+{63}{Entendo. O que você gostaria que fosse feito a respeito?}{}{5}{}{75}{ }
+{64}{Hã?}{}{-4}{}{75}{ }
+{65}{Não tenho interesse nas brigas de mulheres ricas.}{}{5}{}{55}{re-10 }
+{66}{Ah, não, isso não daria certo. Preciso superá-la! Preciso do artefato élfico mais único de toda a sociedade tarantiana. Então aquelas megeras da Auxiliar Feminina vão me respeitar. Elas têm inveja da minha beleza, sabe.}{Ah, não, isso não daria certo. Preciso superá-la! Preciso do artefato élfico mais único de toda a sociedade tarantiana. Então aquelas megeras da Auxiliar Feminina vão me respeitar. Elas têm inveja da minha beleza, sabe.}{}{}{}{ }
+{67}{Compreensivelmente, você é realmente deslumbrante.}{}{5}{ch13}{85}{re+10 }
+{68}{Você tem algo específico em mente?}{}{5}{}{75}{ }
+{69}{Você não é apenas presunçosa, é mentalmente instável.}{}{5}{}{55}{re-10 }
+{75}{Aqui, dê uma olhada nisto. [Ela lhe entrega um jornal.] Você ouviu falar das catacumbas élficas de enterro que desenterraram nas Planícies de Morbihan? Olhe a gravação desta lápide funerária! É simplesmente fabulosa! Preciso tê-la.}{Aqui, dê uma olhada nisto. [Ela lhe entrega um jornal.] Você ouviu falar das catacumbas élficas de enterro que desenterraram nas Planícies de Morbihan? Olhe a gravação desta lápide funerária! É simplesmente fabulosa! Preciso tê-la.}{}{}{}{qu1062 1, in -5220 }
+{76}{Bem, você está com sorte. Acontece que eu a tenho bem aqui.}{}{5}{in5626}{145}{ }
+{77}{Isso parece um pouco perigoso, quanto está disposto a pagar?}{}{5}{}{105}{ }
+{78}{Eu tenho a coisa!}{}{-4}{in5626}{145}{ }
+{79}{Vou ter que pensar nisso.}{}{5}{}{100}{ }
+{80}{Você pode não ter moral, mas roubo está abaixo de mim, madame!}{}{5}{}{55}{al+25, re-10 }
+{81}{Que dinheiro você me dá?}{}{-4}{}{105}{ }
+{82}{Eu não sou ladrão!}{}{-4}{}{55}{al+25, re-10 }
+{83}{Fico ofendido com esse estupro do meu povo pelas prostitutas dos ricos!}{}{5}{ra3}{55}{re-20 }
+{84}{Posso ser apenas meio-elfo, mas levo minha ancestralidade a sério, prostituta!}{}{5}{ra4}{55}{re-20 }
+{85}{[Ela se vira, corando.] Você é muito gentil. [Ela se recompõe rapidamente.] Você ouviu falar das catacumbas élficas de enterro que desenterraram nas Planícies de Morbihan? [Ela lhe entrega um jornal.] Olhe a gravação desta lápide funerária! É simplesmente fabulosa! Preciso tê-la.}{Hã, obrigado, senhorita. Acho. [Ela limpa a garganta e muda de assunto rapidamente.] Você ouviu falar das catacumbas élficas de enterro que desenterraram nas Planícies de Morbihan? [Ela lhe entrega um jornal.] Olhe a gravação desta lápide funerária! É simplesmente fabulosa! Preciso tê-la.}{}{}{}{qu1062 1, in -5220 }
+{86}{Bem, você está com sorte. Acontece que eu a tenho bem aqui.}{}{5}{in5626}{145}{ }
+{87}{Isso parece um pouco perigoso, quanto está disposto a pagar?}{}{5}{}{105}{ }
+{88}{Vou ter que pensar nisso.}{}{5}{}{100}{ }
+{89}{Você pode não ter moral, mas roubo está abaixo de mim, madame!}{}{5}{}{55}{al+25, re-10 }
+{95}{Não é horrível? A arrogância! Então dá para ver como é importante para mim colocar ela no lugar dela.}{Não é horrível? A arrogância! Então dá para ver como é importante para mim colocar ela no lugar dela.}{}{}{}{ }
+{96}{Você tem algo específico em mente?}{}{5}{}{75}{ }
+{97}{Você não é apenas feio, é mentalmente instável.}{}{5}{}{55}{re-10 }
+{100}{Bem, por favor, volte se decidir aceitar minha oferta, caro senhor.}{Bem, por favor, volte se decidir aceitar minha oferta, cara senhora.}{}{}{}{lf3 1 }
+{101}{E:}{}{1}{}{0}{ }
+{105}{Eu estaria disposto a lhe oferecer 250 moedas pelos seus incômodos.}{Eu estaria disposto a lhe oferecer 250 moedas pelos seus incômodos.}{}{}{}{ }
+{106}{Combinado.}{}{5}{ha -11}{135}{ }
+{108}{Eu faria isso por não menos que 300.}{}{5}{ha12, ha -12}{135}{lf4 1 }
+{109}{Eu faria isso por não menos que 350.}{}{5}{ha13, ha-13}{135}{lf5 1 }
+{110}{Eu faria isso por não menos que 400.}{}{5}{ha14}{135}{lf6 1 }
+{111}{Tá.}{}{-4}{ha-11}{135}{ }
+{113}{Eu quero 300.}{}{-4}{ha12, ha-12}{135}{lf4 1 }
+{114}{Eu quero 350.}{}{-4}{ha13, ha-13}{135}{lf5 1 }
+{115}{Eu quero 400.}{}{-4}{ha14}{135}{lf6 1 }
+{116}{Isso não é o suficiente para arriscar minha vida. 300 é meu preço.}{}{5}{ha -11}{120}{ }
+{117}{Como ousa me insultar com uma oferta tão patética, sua vadia!}{}{5}{}{55}{re -10 }
+{118}{Eu quero mais dinheiro. 300.}{}{-4}{ha -11}{120}{ }
+{120}{Sinto muito, não posso pagar uma quantia tão extravagante. 250 moedas de ouro é tudo que tenho.}{Sinto muito, não posso pagar uma quantia tão extravagante. 250 moedas de ouro é tudo que tenho.}{}{}{}{ }
+{121}{Bobagem, posso ver que você é muito rico pela sua casa.}{}{5}{ps4}{140}{ }
+{122}{Acho que 250 será suficiente.}{}{5}{}{135}{ }
+{123}{Não vou arriscar minha vida e liberdade por 250 moedas.}{}{5}{ps-3}{130}{ }
+{124}{Tudo bem. Aceito 250.}{}{-4}{}{135}{ }
+{125}{Mais dinheiro ou eu não faço.}{}{-4}{}{130}{ }
+{130}{Sinto muito que pense assim. Por favor, volte se decidir aceitar minha oferta, caro senhor.}{Sinto muito que pense assim. Por favor, volte se decidir aceitar minha oferta, cara senhora.}{}{}{}{lf3 1 }
+{131}{E:}{}{1}{}{0}{ }
+{132}{Você é um negociador formidável, senhor. Aceito seus termos. Deixe-me marcar no seu mapa a localização das tumbas élficas. Por favor, volte logo com meu tesouro, mal posso esperar para ver a cara da Sra. Willoughsby ficar verde de inveja!}{Você é uma negociadora formidável, senhora. Aceito seus termos. Deixe-me marcar no seu mapa a localização das tumbas élficas. Por favor, volte logo com meu tesouro, mal posso esperar para ver a cara da Sra. Willoughsby ficar verde de inveja!}{}{}{}{qu1062 2, mm30 }
+{133}{E:}{}{1}{}{0}{ }
+{135}{Excelente! Deixe-me marcar no seu mapa a localização das tumbas élficas. Por favor, volte logo com meu tesouro, mal posso esperar para ver a cara da Sra. Willoughsby ficar verde de inveja!}{Excelente! Deixe-me marcar no seu mapa a localização das tumbas élficas. Por favor, volte logo com meu tesouro, mal posso esperar para ver a cara da Sra. Willoughsby ficar verde de inveja!}{}{}{}{qu1062 2, mm30 }
+{136}{E:}{}{1}{}{0}{ }
+{140}{Obrigada por notar! É tão difícil, com uma casa tão...confortável como esta, exibir nossa riqueza de forma eficaz. A terra é tão escassa nesta parte de Tarant, você sabe... e aquela Sra. Willoughsby, sempre falando sobre sua mansão, eu...[ela percebe que você a observa] hã, onde eu estava? Ah, sim! Acho que poderia pagar 300, mas essa é minha oferta final.}{Obrigada por notar! É tão difícil, com uma casa tão...confortável como esta, exibir nossa riqueza de forma eficaz. A terra é tão escassa nesta parte de Tarant, você sabe... e aquela Sra. Willoughsby, sempre falando sobre sua mansão, eu...[ela percebe que você a observa] hã, onde eu estava? Ah, sim! Acho que poderia pagar 300, mas essa é minha oferta final.}{}{}{}{ }
+{141}{Aceito sua oferta.}{}{5}{}{135}{lf4 1 }
+{142}{Não vou arriscar minha vida e liberdade por 300 moedas.}{}{5}{}{130}{ }
+{145}{Uau! Estou tão animado! Por favor, deixe que eu fique com isso!}{Uau! Estou tão animado! Por favor, deixe que eu fique com isso!}{}{}{}{ }
+{146}{Claro. 250 moedas, por favor.}{}{5}{ha-11}{160}{ }
+{148}{Claro. 300 moedas, por favor.}{}{5}{ha12, ha-12}{163}{ }
+{149}{Claro. 350 moedas, por favor.}{}{5}{ha13, ha-13}{166}{ }
+{150}{Claro. 400 moedas, por favor.}{}{5}{ha14, ha-14}{169}{ }
+{151}{Quero 250 moedas.}{}{-4}{ha-11}{160}{ }
+{153}{Quero 300 moedas.}{}{-4}{ha12, ha-12}{163}{ }
+{154}{Quero 350 moedas.}{}{-4}{ha13, ha-13}{166}{ }
+{155}{Quero 400 moedas.}{}{-4}{ha14, ha-14}{169}{ }
+{156}{Acho que vou ficar com isso. Talvez a Sra. Willoughsby queira.}{}{5}{ps15}{210}{re -5 }
+{157}{Vou ficar com isso.}{}{-4}{}{220}{re-10 }
+{158}{Acho que vou ficar com isso. Talvez a Sra. Willoughsby queira.}{}{5}{ps-14}{220}{re-10 }
+{160}{Claro, aqui está.}{Claro, aqui está.}{}{}{}{$$250, qu1062 4 }
+{161}{Foi um prazer fazer negócios, madame. Tenha um bom dia.}{}{5}{}{0}{in5626 }
+{162}{Obrigado pelo dinheiro. Adeus.}{}{-4}{}{0}{in5626 }
+{163}{Claro, aqui está.}{Claro, aqui está.}{}{}{}{$$300, qu1062 4 }
+{164}{Foi um prazer fazer negócios, madame. Tenha um bom dia.}{}{5}{}{0}{in5626 }
+{165}{Obrigado pelo dinheiro. Adeus.}{}{-4}{}{0}{in5626 }
+{166}{Claro, aqui está.}{Claro, aqui está.}{}{}{}{$$350, qu1062 4 }
+{167}{Foi um prazer fazer negócios, madame. Tenha um bom dia.}{}{5}{}{0}{in5626 }
+{168}{Obrigado pelo dinheiro. Adeus.}{}{-4}{}{0}{in5626 }
+{169}{Claro, aqui está.}{Claro, aqui está.}{}{}{}{$$400, qu1062 4 }
+{170}{Foi um prazer fazer negócios, madame. Tenha um bom dia.}{}{5}{}{0}{in5626 }
+{171}{Obrigado pelo dinheiro. Adeus.}{}{-4}{}{0}{in5626 }
+{172}{Sinto muito, não posso pagar uma taxa tão extravagante. 250 moedas de ouro é tudo o que tenho.}{Sinto muito, não posso pagar uma taxa tão extravagante. 250 moedas de ouro é tudo o que tenho.}{}{}{}{ }
+{173}{Bobagem, posso ver que você é muito rico pela sua casa.}{}{5}{ps13}{180}{ }
+{174}{Acho que 250 será suficiente.}{}{5}{}{160}{ }
+{175}{Certo. Fico com 250.}{}{-4}{}{160}{ }
+{176}{Não. Fico com elas.}{}{-4}{}{185}{lf7 1 }
+{180}{Obrigada por notar! É tão difícil exibir nossa riqueza com uma casa tão... confortável como esta. A terra é tão escassa nesta parte de Tarant, você sabe... e aquela Sra. Willoughsby, sempre falando sobre sua mansão, eu... [ela percebe que você está olhando para ela] hã, onde eu estava? Ah, sim! Acho que posso pagar 300, mas essa é minha oferta final.}{Obrigada por notar! É tão difícil exibir nossa riqueza com uma casa tão... confortável como esta. A terra é tão escassa nesta parte de Tarant, você sabe... e aquela Sra. Willoughsby, sempre falando sobre sua mansão, eu... [ela percebe que você está olhando para ela] hã, onde eu estava? Ah, sim! Acho que posso pagar 300, mas essa é minha oferta final.}{}{}{}{ }
+{181}{Aceito sua oferta.}{}{5}{}{163}{ }
+{182}{Sinto muito, isso não é o suficiente.}{}{5}{}{185}{lf7 1 }
+{185}{Lamento que pense assim. Por favor, volte se decidir aceitar minha oferta, bom senhor.}{Lamento que pense assim. Por favor, volte se decidir aceitar minha oferta, minha senhora.}{}{}{}{ }
+{186}{E:}{}{1}{}{0}{ }
+{190}{Por favor, diga-me, você o recuperou?}{Por favor, diga-me, você o recuperou?}{}{}{}{ }
+{191}{Sim, recuperei. Aqui está. [Mostre a ela.]}{}{5}{in5626}{195}{ }
+{192}{Sim.}{}{-4}{in5626}{195}{ }
+{193}{Não tive a oportunidade de desenterrá-lo, por assim dizer.}{}{5}{ni5626}{235}{ }
+{194}{Não.}{}{-4}{ni5626}{235}{ }
+{195}{Oooh! Estou tão animada! Por favor, deixe-me ficar com ele!}{Oooh! Estou tão animada! Por favor, deixe-me ficar com ele!}{}{}{}{ }
+{196}{Acredito que combinamos uma taxa de 250 moedas.}{}{5}{lf4 0, lf5 0, lf6 0}{160}{ }
+{197}{Acredito que combinamos uma taxa de 300 moedas.}{}{5}{lf4 1}{163}{ }
+{198}{Acredito que combinamos uma taxa de 350 moedas.}{}{5}{lf5 1}{166}{ }
+{199}{Acredito que combinamos uma taxa de 400 moedas.}{}{5}{lf6 1}{169}{ }
+{200}{Me dá 250 moedas.}{}{-4}{lf4 0, lf5 0, lf6 0}{160}{ }
+{201}{Me dá 300 moedas.}{}{-4}{lf4 1}{163}{ }
+{202}{Me dá 350 moedas.}{}{-4}{lf5 1}{166}{ }
+{203}{Me dá 400 moedas.}{}{-4}{lf6 1}{169}{ }
+{204}{Não sei. Acho que a Sra. Willoughsby pode querer comprá-lo.}{}{5}{ps15}{210}{re-5 }
+{205}{Não sei. Acho que a Sra. Willoughsby pode querer comprá-lo.}{}{5}{ps-14}{220}{re-15 }
+{206}{Não. Fico com ele.}{}{-4}{}{220}{re-10 }
+{210}{Você não faria isso! [Ela bate os pés, frustrada.] Preciso tê-lo! Vou lhe dar 450 moedas por ele!}{Você não ousaria! [Ela bate os pés, frustrada.] Eu preciso disso! Te dou 450 moedas por ele!}{}{}{}{ }
+{211}{Combinado.}{}{5}{}{215}{ }
+{212}{Para uma mulher rica, você é surpreendentemente pão-dura. E burra.}{}{5}{}{220}{ }
+{215}{O senhor é um negociador formidável. Aceito seus termos.}{A senhora é uma negociadora formidável. Aceito seus termos.}{}{}{}{qu1062 4, $$450 }
+{216}{Foi um prazer fazer negócios, madame. Tenha um bom dia.}{}{5}{}{0}{in5626 }
+{217}{Obrigado pelo dinheiro. Tchau.}{}{-4}{}{0}{in5626 }
+{220}{Não tolerarei sua insolência. O preço caiu para 200 moedas! Me dê isso ou chamarei a polícia e o denunciarei!}{Não tolerarei sua insolência. O preço caiu para 200 moedas! Me dê isso ou chamarei a polícia e o denunciarei!}{}{}{}{ }
+{221}{A senhora é difícil na negociação. Concordo com seus termos.}{}{5}{}{227}{in5626 }
+{222}{Tá.}{}{-4}{}{227}{in5626 }
+{223}{Você é maluca, e não vai conseguir nada de mim!}{}{5}{}{55}{ }
+{224}{Sua mulher burra. Eu fico com a pedra.}{}{-4}{}{55}{ }
+{227}{Você não é tão tola quanto parece. Aqui está seu dinheiro, agora saia da minha casa.}{Você não é tão tola quanto parece. Aqui está seu dinheiro, agora saia da minha casa.}{}{}{}{$$200, qu1062 4 }
+{228}{Foi um prazer. Tenha um bom dia.}{}{5}{}{0}{ }
+{229}{E:}{}{-4}{}{0}{ }
+{235}{Por favor, volte logo com meu tesouro, mal posso esperar para ver a cara da Sra. Willoughsby ficar verde de inveja!}{Por favor, volte logo com meu tesouro, mal posso esperar para ver a cara da Sra. Willoughsby ficar verde de inveja!}{}{}{}{ }
+{236}{E:}{}{1}{}{0}{ }
+{240}{Mudou de ideia, senhor?}{Mudou de ideia, madame?}{}{}{}{ }
+{241}{Sim, fale-me sobre esse trabalho que tem para mim.}{}{5}{lf3 1, qu1062 0}{75}{ }
+{242}{Hã. Sim?}{}{-4}{lf3 1, qu1062 0}{75}{ }
+{243}{Sim, decidi recuperar sua pedra funerária para você.}{}{5}{qu1062 1}{105}{ }
+{244}{Hã. Sim?}{}{-4}{qu1062 1}{105}{ }
+{245}{Aceito as 300 moedas pela pedra.}{}{5}{lf7 1, in5626}{163}{ }
+{246}{Pego 300.}{}{-4}{lf7 1, in5626}{163}{ }
+{247}{N:}{}{1}{}{0}{ }
+{248}{G:}{G:}{}{}{}{ }
+{249}{Bom dia, senhorita. Sabe de alguém oferecendo trabalho?}{}{5}{re41}{266}{ }
+{250}{Não aprecio seus comentários cáusticos, mulher!}{}{5}{re-40}{262}{re-10 }
+{251}{Olá. Tem trabalho?}{}{-4}{re41}{266}{ }
+{252}{Acho que não há motivo para grosseria, madame.}{}{5}{ch8, re-40}{257}{re50 }
+{253}{Eu lhe agradeceria se mudasse o tom comigo, madame.}{}{5}{ch-7, sk2 4, re-40}{340}{re45 }
+{254}{Peço desculpas, madame. Não tive intenção de ofender.}{}{5}{re-40}{295}{re41 }
+{255}{Você significa muito para mim. Eu sinto muito.}{}{-4}{re-40}{295}{re41 }
+{256}{E:}{}{1}{}{0}{ }
+{257}{[Ela cora.] Oh, por favor, me perdoe, bom senhor. Eu não entendi... hmm... sua posição, eu o confundi com alguém das classes mais baixas.}{[Ela cora.] Oh, por favor, me perdoe, boa senhora. Eu não entendi... hmm... sua posição, eu a confundi com alguém das classes mais baixas.}{}{}{}{ }
+{258}{Tudo bem. Você sabe de alguém oferecendo trabalho?}{}{5}{}{266}{ }
+{259}{É fácil para pessoas de pouca inteligência se confundirem.}{}{5}{}{262}{re-10 }
+{262}{[Ela olha para você, horrorizada e sem palavras.] Não posso acreditar que me insultou dessa forma! Eu lhe agradeceria se me deixasse em paz, seu... seu boêmio! Antes que eu precise chamar o guarda!}{[Ela olha para você, horrorizada e sem palavras.] Não posso acreditar que me insultou dessa forma! Eu lhe agradeceria se me deixasse em paz, sua... sua libertina devassa! Antes que eu precise chamar o guarda!}{}{}{}{lf2 1 }
+{263}{E:}{}{1}{}{0}{ }
+{266}{[Esta bela mulher, elegantemente vestida, lança um olhar cauteloso ao redor antes de se dirigir a você em voz baixa.] Há algo com que um indivíduo engenhoso possa me ajudar...}{[Esta bela mulher, elegantemente vestida, lança um olhar cauteloso ao redor antes de se dirigir a você em voz baixa.] Há algo com que um indivíduo engenhoso possa me ajudar...}{}{}{}{ }
+{267}{O que seria isso?}{}{5}{gf2118 0}{280}{ }
+{268}{O quê?}{}{-4}{gf2118 0}{280}{ }
+{269}{O que seria isso?}{}{5}{gf2118 1}{310}{ }
+{270}{O quê?}{}{-4}{gf2118 1}{310}{ }
+{273}{Não estou interessado em nenhuma tramoia. Tenha um bom dia.}{}{5}{}{0}{ }
+{274}{Eu não ser engenhoso.}{}{-4}{}{0}{ }
+{275}{Obrigado por me ajudar a colocar aquela terrível Sra. Willoughsby em seu lugar.}{Obrigado por me ajudar a colocar aquela terrível Sra. Willoughsby em seu lugar.}{}{}{}{ }
+{280}{Não podemos conversar aqui. Por favor, encontre-me mais tarde em minha casa, e eu lhe explicarei minhas necessidades. Resido no número 3 da Rua Lungsten. Tenha um bom dia.}{Não podemos conversar aqui. Por favor, encontre-me mais tarde em minha casa, e eu lhe explicarei minhas necessidades. Resido no número 3 da Rua Lungsten. Tenha um bom dia.}{}{}{}{lf1 1, ru2152 }
+{281}{Claro. Tenha um bom dia.}{}{5}{}{-15}{ }
+{282}{E:}{}{-4}{}{-15}{ }
+{283}{Ora, eu... eu... seu rude, rude patife! Tenha um bom dia, senhor!}{Ora, eu... eu... sua rude, rude libertina! Tenha um bom dia, senhora!}{}{}{}{lf2 1 }
+{284}{Foi um prazer. Tenha um bom dia.}{}{5}{}{-15}{ }
+{285}{E:}{}{-4}{}{-15}{ }
+{290}{Eu lhe disse para me encontrar em minha casa, não é seguro conversar aqui.}{Eu lhe disse para me encontrar em minha casa, não é seguro conversar aqui.}{}{}{}{ }
+{295}{Suponho que aqueles do seu... tipo precisem da compreensão e pena de pessoas respeitáveis como eu. O que é que você quer de mim?}{Suponho que aqueles do seu... tipo precisem da compreensão e pena de pessoas respeitáveis como eu. O que é que você quer de mim?}{}{}{}{ }
+{296}{Preciso de algum trabalho.}{}{5}{}{305}{ }
+{297}{Eu querer dinheiro emprego.}{}{-4}{}{305}{ }
+{298}{Eu quero que você grite de dor enquanto lhe dou uma boa surra.}{}{5}{}{262}{re-10 }
+{299}{Eu querer que você não ser burro e feio.}{}{-4}{}{262}{re-10 }
+{305}{[Esta bela mulher, elegantemente vestida, lança um olhar cauteloso ao redor antes de se dirigir a você em voz baixa.] Há algo com que alguém de sua baixa criação possa me ajudar...}{[Esta bela mulher, elegantemente vestida, lança um olhar cauteloso ao redor antes de se dirigir a você em voz baixa.] Há algo com que alguém de sua baixa criação possa me ajudar...}{}{}{}{ }
+{306}{O que seria isso?}{}{5}{}{280}{ }
+{307}{O quê?}{}{-4}{}{280}{ }
+{308}{Não estou interessado em lidar com sua estupidez. Tenha um bom dia.}{}{5}{}{262}{re -10 }
+{309}{E:}{}{-4}{}{0}{ }
+{310}{Preciso saber se você pode ser discreto. Tenho algo muito importante que precisa ser feito, mas ninguém pode saber sobre isso.}{Preciso saber se você pode ser discreto. Tenho algo muito importante que precisa ser feito, mas ninguém pode saber sobre isso.}{}{}{}{ }
+{311}{Minha discrição depende do que está me pedindo, senhorita...?}{}{5}{}{40}{ }
+{312}{Eu não sou assustador. Eu sou legal.}{}{-4}{}{46}{ }
+{313}{Não me envolvo com esses joguinhos de capa e espada. Tenha um bom dia.}{}{5}{}{0}{lf3 1 }
+{314}{Eu tenho que ir.}{}{-4}{}{0}{lf3 1 }
+{320}{[Ela cora.] Oh, por favor, me perdoe, bom senhor. Eu não entendi... hmm... sua posição, confundi-o com alguém das classes mais baixas.}{[Ela cora.] Oh, por favor, me perdoe, boa senhora. Eu não entendi... hmm... sua posição, confundi-a com alguém das classes mais baixas.}{}{}{}{ }
+{321}{Não se preocupe com isso. Você estava me oferecendo trabalho?}{}{5}{}{310}{ }
+{322}{Olha aqui, sua bruxa grotesca. Não vou aturar suas bobagens.}{}{5}{}{283}{re -10 }
+{330}{Oh, céus. Eu não percebi que você era um imbecil. Bem, talvez ainda possa ajudar.}{Oh, céus. Eu não percebi que você era um imbecil. Bem, talvez ainda possa ajudar.}{}{}{}{ }
+{331}{Eu ajudo! Eu ajudo!}{}{-4}{}{310}{ }
+{332}{Eu não sou imbecil. Você é que é imbecil.}{}{-4}{}{283}{re-10 }
+{340}{[Ela olha para você, talvez um pouco nervosa.] Claro, minhas desculpas. Esqueci-me de mim mesma... boas maneiras são o que nos separam das feras do campo, não são?}{[Ela olha para você, talvez um pouco nervosa.] Claro, minhas desculpas. Esqueci-me de mim mesma... boas maneiras são o que nos separam das feras do campo, não são?}{}{}{}{ }
+{341}{Está tudo bem. Você conhece alguém que esteja oferecendo trabalho?}{}{5}{}{266}{ }
+{342}{No seu caso, é só isso que a separa, sua vadia!}{}{5}{}{262}{re-10 }
+

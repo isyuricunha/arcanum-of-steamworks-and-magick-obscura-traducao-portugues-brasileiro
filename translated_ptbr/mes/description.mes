@@ -1,0 +1,1492 @@
+// Unless you are adding a prototype, DO NOT PLACE NEW MESSAGES IN THIS FILE
+// New descriptions and such go in a module-based file called gamedesc.mes
+
+{1000}{Parede}Red Brick Wall
+{1001}{Parede}Grey Brick Wall
+{1002}{Parede}Solid Rock Wall
+{1003}{Parede}Light Wood Wall
+{1004}{Parede}Heavy Wood Wall
+{1005}{Parede}Wood Fence
+{1006}{Parede}Metal Fence
+{1007}{Parede}Facade Wall
+
+{2008}{Porta de Madeira Leve}
+{2009}{Porta de Madeira Pesada}
+{2010}{Portão de Metal}
+{2011}{Porta de Metal}
+{2012}{Porta de Vidro}
+{2013}{Porta de Pedra}
+{2014}{Desabamento de Rochas na Caverna}
+{2015}{Janela}
+{2016}{Janela Fixa}
+{2017}{Cortinas}
+{2018}{Janelas com Grades}
+{2019}{Persianas de Madeira}
+{2020}{Persianas de Metal}
+{2021}{Vitral}
+{2022}{Janela Tapada com Tábuas}
+
+{3023}{Monte de Entulho}
+{3024}{Baú de Madeira}
+{3025}{Barril}
+{3026}{Baú Negro}
+{3027}{Baú}
+{3028}{Baú}
+{3029}{Baú Ornamental}
+{3030}{Baú Ornamental}
+{3031}{Baú de Madeira}
+{3032}{Baú Negro}
+{3033}{Cofre}
+{3034}{Cofre}
+{3035}{Baú Mágico}
+{3036}{Baú Místico}
+{3037}{Baú Arcano}
+{3038}{Baú Mágico}
+{3039}{Baú Místico}
+{3040}{Baú Arcano}
+{3041}{Descarte de Fábrica}
+{3042}{Caixa de Peças}
+{3043}{Caixa de Remessa}
+{3044}{Caixa de Armazenamento}
+{3045}{Componentes Embalados}
+{3046}{Sucata Industrial}
+{3047}{Descarte de Fábrica}
+{3048}{Caixa de Peças}
+{3049}{Caixa de Remessa}
+{3050}{Caixa de Armazenamento}
+{3051}{Componentes Embalados}
+{3052}{Sucata Industrial}
+{3053}{Baú Anão}
+{3054}{Baú Anão}
+{3055}{Lata de Lixo}
+{3056}{Corpo}
+{3057}{Altar do Bem}
+{3058}{Altar Neutro}
+{3059}{Altar do Mal}
+{3060}{Planta}
+
+{4006}{Árvore Grande}
+{4007}{Árvore}
+{4008}{Árvore Pequena}
+{4009}{Árvore Morta}
+{4010}{Planta}
+{4011}{Objeto Pequeno de Metal}
+{4012}{Objeto de Metal}
+{4013}{Objeto Grande de Metal}
+{4014}{Pedra Pequena}
+{4015}{Pedra}
+{4016}{Pedra Grande}
+{4017}{Objeto Pequeno de Madeira}
+{4018}{Objeto de Madeira}
+{4019}{Objeto Grande de Madeira}
+{4020}{Algo Pequeno}
+{4021}{Algo de Tamanho Médio}
+{4022}{Algo Grande}
+{4023}{Máquina Grande}
+{4024}{Máquina}
+{4025}{Cama}
+{4026}{Luzes}
+{4027}{Passagem}
+{4028}{Poça de Sangue}
+{4029}{Nuvem Fétida}
+{4030}{Parede de Força}
+{4031}{Parede de Fogo}
+{4032}{Parede de Pedra}
+{4033}{Nuvem de Névoa}
+{4034}{Tempestade de Gelo}
+{4035}{Luzes}
+{4036}{Luzes}
+{4037}{Luzes}
+{4038}{Luzes}
+{4039}{Luzes}
+{4040}{Luzes}
+{4041}{Luzes}
+{4042}{Luzes}
+{4043}{Luzes}
+{4044}{Luzes}
+{4045}{Luzes}
+{4046}{Luzes}
+{4047}{Dinamite Acesa}
+{4048}{fumaça}
+{4049}{Bomba Relógio}
+{4050}{}
+
+// Weapons
+
+{5028}{Projétil}
+{6029}{Adaga}
+{6030}{Espada}
+{6031}{Machado}
+{6032}{Maça}
+{6033}{Revólver}
+{6034}{Espadão}
+{6035}{Arco}
+{6036}{Espingarda}
+{6037}{Cajado}
+{6038}{Espada Envenenada}
+{6039}{Rifle para Elefantes}
+{6040}{Bastão de Tesla}
+{6041}{Lança-Chamas}
+{6042}{Espada Encantada}
+{6043}{NÃO UTILIZADO}
+{6044}{Revólver de Qualidade}
+{6045}{Rifle de Repetição}
+{6046}{Rifle de Caça}
+{6047}{Prego de Ferrovia}
+{6048}{Espada Equilibrada}
+{6049}{Arma de Bronwyck}
+{6050}{Adaga Enferrujada}
+{6051}{Adaga de Aço de Qualidade}
+{6052}{Adaga de Arremesso}
+{6053}{Adaga Mecânica}
+{6054}{Adaga do Mago}
+{6055}{Adaga da Velocidade}
+{6056}{Espada Enferrujada}
+{6057}{Espada de Qualidade}
+{6058}{Espada de Elite de Caladon}
+{6059}{Florete}
+{6060}{Espada Curta}
+{6061}{Cimitarra}
+{6062}{Katana}
+{6063}{Bracamarte}
+{6064}{Espada da Defesa}
+{6065}{Lâmina Stillwater}
+{6066}{Machado Enferrujado}
+{6067}{Machado de Qualidade}
+{6068}{Machado da Força}
+{6069}{Machado Leve como Pena}
+{6070}{Machado do Ceifador}
+{6071}{Machado da Força}
+{6072}{Maça Enferrujada}
+{6073}{Maça de Qualidade}
+{6074}{Martelo}
+{6075}{Martelo Enferrujado}
+{6076}{Martelo de Qualidade}
+{6077}{Martelo Usinado}
+{6078}{Martelo Esmagador}
+{6079}{Martelo Infernal}
+{6080}{Revolver Velho}
+{6081}{Pistola de Pederneira}
+{6082}{Pistola de Pederneira Velha}
+{6083}{Revolver de Qualidade}
+{6084}{Pistola Silenciosa}
+{6085}{Pistola de Alta Velocidade}
+{6086}{Pistola Elegante}
+{6087}{Pistola de Schreck}
+{6088}{Pistola de Longo Alcance}
+{6089}{Espada Larga de Qualidade}
+{6090}{Espada Larga Enferrujada}
+{6091}{Espadão}
+{6092}{Flamberge}
+{6093}{Lâmina Pesada Bárbara}
+{6094}{Espada do Ar}
+{6095}{Espada da Doença}
+{6096}{Arco Composto}
+{6097}{Arco Curto}
+{6098}{Arco Longo}
+{6099}{Arco do Caçador Élfico}
+{6100}{Arco do Terror}
+{6101}{Rifle Dobrável}
+{6102}{Rifle de Repetição Variante 1}
+{6103}{Rifle de Repetição Variante 2}
+{6104}{Arma Mecanizada}
+{6105}{Rifle Espelho de Observação}
+{6106}{Rifle de Atirador de Elite}
+{6107}{Metralhadora de Alavanca}
+{6108}{Rifle}
+{6109}{Rifle Enferrujado}
+{6110}{Cajado Chocante}
+{6111}{Cajado de Qualidade}
+{6112}{Cajado de Cura}
+{6113}{Cajado do Xamã}
+{6114}{Cajado do Mago}
+{6115}{Revolver Silencioso}
+{6116}{Pistola de Pederneira Artesanal}
+{6117}{Cano Grande}
+{6118}{Canhão de Mão}
+{6119}{Rifle Clarington}
+{6120}{Espada de Filamento}
+{6121}{Adaga Finamente Forjada}
+{6122}{Adaga Encantada}
+{6123}{Adaga Mágica}
+{6124}{Adaga Mística}
+{6125}{Adaga Arcana}
+{6126}{Espada Carregada}
+{6127}{Espada Encantada}
+{6128}{Espada Mágica}
+{6129}{Espada Mística}
+{6130}{Espada Arcana}
+{6131}{Machado Envenenado}
+{6132}{Machado Carregado}
+{6133}{Machado Pirotécnico}
+{6134}{Machado Encantado}
+{6135}{Machado Mágico}
+{6136}{Machado Místico}
+{6137}{Machado Arcano}
+{6138}{Maça Encantada}
+{6139}{Maça Mágica}
+{6140}{Maça Mística}
+{6141}{Maça Arcana}
+{6142}{Espadão Encantado}
+{6143}{Espadão Mágico}
+{6144}{Espadão Místico}
+{6145}{Espadão Arcano}
+{6146}{Arco Pirotécnico}
+{6147}{Arco Envenenado}
+{6148}{Arco Encantado}
+{6149}{Arco Mágico}
+{6150}{Arco Místico}
+{6151}{Arco Arcano}
+{6152}{Canhão Raiado}
+{6153}{Arma de Ácido}
+{6154}{Arma de Tesla}
+{6155}{Lançador de Granadas}
+{6156}{Arma Aceleradora Carregada}
+{6157}{Lançador de Lâminas}
+{6158}{Arma Pirotécnica}
+{6159}{Arma Tranquilizante}
+{6160}{Cajado Encantado}
+{6161}{Cajado Mágico}
+{6162}{Cajado Místico}
+{6163}{Cajado Arcano}
+{6164}{Bumerangue}
+{6165}{Bumerangue Laminado}
+{6166}{Bumerangue Balanceado}
+{6167}{Chacra}
+{6168}{Chacra Serrilhado}
+{6169}{Chacra Místico}
+{6170}{Estrela de Azram}
+{6171}{Decapitador Aéreo}
+{6172}{Espada do Vazio}
+{6173}{Guerreira de Droch}
+{6174}{Rifle Vendigrothiano de Calibre Grande}
+{6175}{Cabo de Machado de Carvalho}
+{6176}{Estilete}
+{6177}{Adaga de Osso}
+{6178}{Espada Kite}
+
+{7038}{Flecha}
+{7039}{Bala}
+{7040}{Bateria}
+{7041}{Combustível}
+{8042}{Roupas de Lã Pesada}
+{8043}{Couro de Guarda}
+{8044}{Cota de Malha}
+{8045}{Armadura Completa Usinada}
+{8046}{Vestes de Sacerdote}
+{8047}{Armadura de Placas de Mithril}
+{8048}{Armadura do Pavor}
+{8049}{Terno Elegante}
+{8050}{Escudo de Madeira Desgastado}
+{8051}{Elmo}
+{8052}{Manoplas}
+{8053}{Botas}
+{8054}{Anel Sofisticado}
+{8055}{Medalhão}
+{8056}{Luvas de Couro}
+{8057}{Anel Carregado}
+{8058}{Roupas Pequenas de Lã Pesada}
+{8059}{Couro Pequeno de Guarda}
+{8060}{Cota de Malha Pequena}
+{8061}{Armadura de Placas Usinada Pequena}
+{8062}{Vestes Pequenas de Sacerdote}
+{8063}{Armadura de Placas de Mithril Pequena}
+{8064}{Armadura do Pavor Pequena}
+{8065}{Terno Pequeno Elegante}
+{8066}{Roupas Grandes de Lã Pesada}
+{8067}{Couro Grande de Guarda}
+{8068}{Armadura de Placas de Mithril Grande}
+{8069}{Terno Grande Elegante}
+{8070}{Jaqueta de Camurça}
+{8071}{Couro de Ladrão Oleado}
+{8072}{Cota de Malha de Mithril}
+{8073}{Armadura de Placas Usinada}
+{8074}{Vestes das Sombras}
+{8075}{Armadura de Placas Básica}
+{8076}{Roupas de Bárbaro de Bronze}
+{8077}{Paletó para Fumar}
+{8078}{Jaqueta Pequena de Camurça}
+{8079}{Couro Pequeno de Ladrão Oleado}
+{8080}{Cota de Malha de Mithril Pequena}
+{8081}{Armadura de Placas Usinada Pequena}
+{8082}{Pequena Túnica do Camaleão}
+{8083}{Pequena Cota de Malha Básica}
+{8084}{Pequenas Vestes Bárbaras de Bronze}
+{8085}{Pequeno Paletó para Fumar}
+{8086}{Trapos Pesados}
+{8087}{Couro de Ladrão Oleado Grande}
+{8088}{Grande Cota de Malha Básica}
+{8089}{Paletó para Fumar}
+{8090}{Jaqueta de Lã}
+{8091}{Armadura de Couro}
+{8092}{Cota de Malha Oleada}
+{8093}{Placa Usinada Básica}
+{8094}{Túnicas}
+{8095}{Placa de Bronze}
+{8096}{Vestes Bárbaras Escuras}
+{8097}{Roupas de Servo}
+{8098}{Pequena Jaqueta de Lã}
+{8099}{Pequena Armadura de Couro}
+{8100}{Pequena Cota de Malha Oleada}
+{8101}{Pequena Placa Usinada Básica}
+{8102}{Pequenas Túnicas}
+{8103}{Pequena Placa de Bronze}
+{8104}{Pequenas Vestes Bárbaras Escuras}
+{8105}{Pequenas Roupas de Criado}
+{8106}{Jaqueta de Lã Grande}
+{8107}{Armadura de Couro Grande}
+{8108}{Placa de Bronze Grande}
+{8109}{Uniforme de Criado Grande}
+{8110}{Jaqueta}
+{8111}{Couro Rebitado}
+{8112}{Cota de Malha de Guarda}
+{8113}{Armadura de Placas de Guarda}
+{8114}{Túnicas Mágicas}
+{8115}{Armadura de Placas Élite}
+{8116}{Vestes Vermelhas de Bárbaro}
+{8117}{Elegância Rústica}
+{8118}{Jaqueta Pequena}
+{8119}{Couro Cravejado Pequeno}
+{8120}{Cota de Malha de Guarda Pequena}
+{8121}{Armadura de Placas de Guarda Pequena}
+{8122}{Túnicas Mágicas Pequenas}
+{8123}{Armadura de Placas Élite Pequena}
+{8124}{Vestes Vermelhas de Bárbaro Pequenas}
+{8125}{Elegância Rústica Pequena}
+{8126}{Trapos}
+{8127}{Couro Cravejado Grande}
+{8128}{Armadura de Placas Élite Grande}
+{8129}{Elegância Rústica Grande}
+{8130}{Cota de Malha Peso-Pena}
+{8131}{Cota de Malha Peso-Pena Pequena}
+{8132}{Anel de Cobre}
+{8133}{Vestido Simples}
+{8134}{SEM QUALIDADE}Small Ladies City Dweller Clothes
+{8135}{SEM QUALIDADE}Small Ladies City Dweller Clothes
+{8136}{Vestido Elegante}Ladies Smoking Jacket
+{8137}{SEM QUALIDADE}Small Ladies Smoking Jacket
+{8138}{SEM QUALIDADE}Large Ladies Smoking Jacket
+{8139}{Vestido de Servo}FEMALE
+{8140}{SEM QUALIDADE}Small Ladyservants Clothes
+{8141}{SEM QUALIDADE}Large Ladyservants Clothes
+{8142}{Vestido Rústico}FEMALE
+{8143}{SEM QUALIDADE}Small Ladies Rustic Finery
+{8144}{SEM QUALIDADE}Large Ladies Rustic Finery
+{8145}{Veste Escudada contra Veneno}
+{8146}{Veste Pequena Escudada contra Veneno}
+{8147}{Veste Grande Escudada contra Veneno}
+{8148}{Jaqueta Regenerativa}
+{8149}{Jaqueta Pequena Regenerativa}
+{8150}{Jaqueta Grande Regenerativa}
+{8151}{Couro de Pele de Dragão}
+{8152}{Couro Pequeno de Pele de Dragão}
+{8153}{Couro Grande de Pele de Dragão}
+{8154}{Armadura das Trevas}
+{8155}{Cota de Malha da Guarda de Elite de Caladon}
+{8156}{Cota de Malha Anã}
+{8157}{Cota de Malha Élfica}
+{8158}{Cota de Malha Gnômica}
+{8159}{Amuleto da Mão de Moloch}
+{8160}{Medalhão da Beleza}
+{8161}{Amuleto Dório}
+{8162}{Anel de Ouro Decente}
+{8163}{Anel de Gilbert Bates}
+{8164}{Anel de Proteção}
+{8165}{Anel do Destino}
+{8166}{Botas de Metal}
+{8167}{Belas Botas Robustas}
+{8168}{Sapatos}
+{8169}{Sapatos Gastos}
+{8170}{Botas Gastas}
+{8171}{Belas Botas Femininas}
+{8172}{Botas Femininas Desgastadas}
+{8173}{Botas Élficas}
+{8174}{Botas de Guerra Encantadas}
+{8175}{Manoplas Anãs}
+{8176}{Manoplas Mecanizadas}
+{8177}{Manoplas de Guerra}
+{8178}{Luvas de Cota de Malha}
+{8179}{Manoplas de Mãos Leves}
+{8180}{Luvas da Destreza}
+{8181}{Elmo Refinado}
+{8182}{Basset Cara de Porco}
+{8183}{Óculo de Visão}
+{8184}{Óculos}
+{8185}{Cartola}
+{8186}{Elmo da Visão}
+{8187}{Chapéu da Inversão Magnética}
+{8188}{Elmo da Luz}
+{8189}{Elmo de Geleam}
+{8190}{Escudo de Madeira}
+{8191}{Escudo de Ferro Amassado}
+{8192}{Escudo de Ferro de Qualidade}
+{8193}{Escudo Ogival}
+{8194}{Espectrômetro de Fluxo}
+{8195}{Escudo de Força}
+{8196}{Escudo das Sombras}
+{8197}{Armadura Completa Anã}
+{8198}{Armadura Completa Mínima de Regeneração}
+{8199}{Grande Elmo}
+{8200}{Vestido "Melhor da Semana"}
+{8201}{Uniforme de Oficial}
+{8202}{Uniforme de Oficial Pequeno}
+{8203}{Amuleto da Liderança}
+{8204}{Elmo Sombrio}
+{8205}{Luvas de Carroceiro}
+{8206}{Colar Serpentino}
+{8207}{Óculos do Clã da Roda}
+{8208}{Armadura de Couro Encantada}
+{8209}{Armadura de Couro Encantada Pequena}
+{8210}{Armadura de Couro Encantada Grande}
+{8211}{Armadura de Couro Mágica}
+{8212}{Armadura de Couro Mágica Pequena}
+{8213}{Armadura de Couro Mágica Grande}
+{8214}{Armadura de Couro Mística}
+{8215}{Armadura de Couro Mística Pequena}
+{8216}{Armadura de Couro Mística Grande}
+{8217}{Armadura de Couro Arcana}
+{8218}{Armadura de Couro Arcana Pequena}
+{8219}{Armadura de Couro Arcana Grande}
+{8220}{Cota de Malha de Qintarra}
+{8221}{Cota de Malha Encantada}
+{8222}{Cota de Malha Encantada Pequena}
+{8223}{Cota de Malha Mágica}
+{8224}{Cota de Malha Mágica Pequena}
+{8225}{Cota de Malha Mística}
+{8226}{Cota de Malha Mística Pequena}
+{8227}{Cota de Malha Arcana}
+{8228}{Cota de Malha Arcana Pequena}
+{8229}{Eletro-Armadura}
+{8230}{Eletro-Armadura Pequena}
+{8231}{Eletro-Armadura Grande}
+{8232}{Túnicas Encantadas}
+{8233}{Túnicas Encantadas Pequenas}
+{8234}{Túnicas Mágicas}
+{8235}{Túnicas Mágicas Pequenas}
+{8236}{Túnicas Místicas}
+{8237}{Túnicas Místicas Pequenas}
+{8238}{Túnicas Arcanas}
+{8239}{Túnicas Arcanas Pequenas}
+{8240}{Manto Encantado do Viajante}
+{8241}{Manto Encantado do Viajante Pequeno}
+{8242}{Manto Mágico do Viajante}
+{8243}{Manto Mágico do Viajante Pequeno}
+{8244}{Manto Místico do Viajante}
+{8245}{Manto Místico do Viajante Pequeno}
+{8246}{Manto Arcano do Viajante}
+{8247}{Manto Arcano do Viajante Pequeno}
+{8248}{Túnicas de Qualidade}
+{8249}{Túnicas de Qualidade Pequenas}
+{8250}{Placa Encantada}
+{8251}{Placa Encantada Pequena}
+{8252}{Placa Mágica}
+{8253}{Placa Mágica Pequena}
+{8254}{Placa Mística}
+{8255}{Placa Mística Pequena}
+{8256}{Placa Arcana}
+{8257}{Placa Arcana Pequena}
+{8258}{Escudo Perturbador de Fluxo}
+{8259}{Escudo Encantado}
+{8260}{Escudo Mágico}
+{8261}{Escudo Místico}
+{8262}{Escudo Arcano}
+{8263}{Capacete de Mineiro}
+{8264}{Elmo Encantado}
+{8265}{Elmo Mágico}
+{8266}{Elmo Místico}
+{8267}{Elmo Arcano}
+{8268}{Manoplas Encantadas}
+{8269}{Manoplas Mágicas}
+{8270}{Manoplas Místicas}
+{8271}{Manoplas Arcanas}
+{8272}{Anel Encantado}
+{8273}{Anel Mágico}
+{8274}{Anel Místico}
+{8275}{Anel Arcano}
+{8276}{Luvas de Couro Acolchoado Vendigrothianas}
+{8277}{Manoplas de Guerra Vendigrothianas}
+{8278}{Anel do Vazio}
+{8279}{Anel de Esmeralda}
+{8280}{Anel de Rubi}
+{8281}{Anel de Safira}
+{8282}{Anel de Diamante}
+{8283}{Anel de Madeira}
+{8284}{Anel de Prata}
+{8285}{Anel de Mithril}
+{8286}{Colar de Esmeralda}
+{8287}{Colar de Rubi}
+{8288}{Colar de Safira}
+{8289}{Colar de Diamante}
+{8290}{Capacete com Óculos de Proteção}
+{8291}{Armadura Completa Maquinada Grande}
+{8292}{Cota de Malha Pena Grande}
+
+{9056}{Ouro}
+
+// Food
+
+{10057}{Pão}
+{10058}{Água}
+{10059}{Unguento de Cura}
+{10060}{Restaurador de Fadiga}
+{10061}{Raiz de Ginka}
+{10062}{Caule de Kadura}
+{10063}{Folhas de Coca}
+{10064}{Folhas de Tabaco}
+{10065}{Veneno}
+{10066}{Solução de Eletrólitos}
+{10067}{Aqua Vitae de Varham}
+{10068}{Limpador de Monroe}
+{10069}{Poção de Persuasão}
+{10070}{Elixir de Proeza Física}
+{10071}{Espírito de Cânfora}
+{10072}{Pílulas Sanguíneas Famosas}
+{10073}{Amônia}
+{10074}{Curar Ferimentos Leves}
+{10075}{Veneno Forte}
+{10076}{Cura Total}
+{10077}{Curar Envenenamento}
+{10078}{Limitador de Fadiga}
+{10079}{Acelerar Cura}
+{10080}{Bruxabane}
+{10081}{Flores de Papoula}
+{10082}{Óleo de Cobra do Grande Chefe}
+{10083}{Veneno}
+{10084}{Droga Milagrosa}
+{10085}{Ácido Corrosivo}
+{10086}{Isca para Animais}
+{10087}{Odor Animal}
+{10088}{Fermento de Cervejeiro}
+{10089}{Ácido Carbólico de Pete}
+{10090}{Alucinita}
+{10091}{Cogumelos}
+{10092}{Pílulas de Enxofre}
+{10093}{Vinho}
+{10094}{Perfume Estrela da Manhã}
+{10095}{Colônia de Dragão}
+{10096}{Beladona de Lingham}
+{10097}{Revitalizador}
+{10098}{Maravilha da Mente}
+{10099}{Tônico de Reflexos Aumentados}
+{10100}{Energizante}
+{10101}{Glicerídeo de Doolittle}
+{10102}{Pílulas para os Nervos}
+{10103}{Líquido da Consciência}
+{10104}{Tintura Fosfórica de Nimm}
+{10105}{Quinino}
+{10106}{Extrato de Hamamélis}
+{10107}{Cura para Reumatismo}
+{10108}{Cura para Enxaqueca}
+{10109}{Tintura de Arnica}
+{10110}{Açúcar CK}
+{10111}{Elixir de Sugestão Hipnótica}
+{10112}{Construtor Cerebral}
+{10113}{Forjador Muscular}
+{10114}{Revigorador}
+{10115}{Reanimador}
+{10116}{Cura Milagrosa}
+{10117}{Inibidor Mental}
+{10118}{Necromizador}
+{10119}{Fortificante}
+{10120}{Anestesiante}
+{10121}{Paralisante}
+{10122}{Limão}
+{10123}{Batata}
+{10124}{Frasco de Sangue de Dragão}
+{10125}{Raiz da Paixão}
+{10126}{Conhaque Chateau de Be'ron}
+{10127}{Rapé Anão}
+{10128}{Água da Primavera Élfica}
+{10129}{Chá Earl Grey}
+{10130}{Absinto}
+{10131}{Bolos Doces}
+{10132}{Elixir Vendigrothiano}
+{10133}{Vivificador}
+{10134}{Cura Maior}
+{10135}{Restauração Leve de Fadiga}
+{10136}{Restauração Maior de Fadiga}
+{10137}{Curar Envenenamento}
+{10138}{Lágrimas de Morgana}
+{10139}{Redutor de Fadiga}
+{10140}{Essência da Intelecto}
+{10141}{Poção de Pressa}
+{10142}{Líquido de Espessamento da Pele}
+{10143}{Veneno de Kalispi}
+{10144}{Restaurar Vida}
+
+//Scrolls
+
+{11059}{Pergaminho de Desarmar}
+{11060}{Pergaminho de Truque de Destravar}
+{11061}{Pergaminho de Força Invisível}
+{11062}{Pergaminho de Distorção Espacial}
+{11063}{Pergaminho de Teletransporte}
+{11064}{Pergaminho de Sentir Alinhamento}
+{11065}{Pergaminho de Ver Conteúdo}
+{11066}{Pergaminho de Ler Aura}
+{11067}{Pergaminho de Detectar Invisíveis/Armadilhas}
+{11068}{Pergaminho de Magia Divina}
+{11069}{Pergaminho de Vitalidade do Ar}
+{11070}{Pergaminho de Vapores Venenosos}
+{11071}{Pergaminho de Invocar Ventos}
+{11072}{Pergaminho de Corpo de Ar}
+{11073}{Pergaminho de Invocar Elemental do Ar}
+{11074}{Pergaminho de Força da Terra}
+{11075}{Pergaminho de Arremessar Pedra}
+{11076}{Pergaminho de Muralha de Pedra}
+{11077}{Pergaminho de Corpo de Pedra}
+{11078}{Pergaminho de Invocar Elemental da Terra}
+{11079}{Pergaminho de Agilidade do Fogo}
+{11080}{Pergaminho de Muralha de Fogo}
+{11081}{Pergaminho de Clarão Flamejante}
+{11082}{Pergaminho de Corpo de Fogo}
+{11083}{Pergaminho de Invocar Elemental do Fogo}
+{11084}{Pergaminho de Pureza da Água}
+{11085}{Pergaminho de Invocar Névoa}
+{11086}{Pergaminho de Rajada de Gelo}
+{11087}{Pergaminho de Corpo de Água}
+{11088}{Pergaminho de Invocar Elemental da Água}
+{11089}{Pergaminho de Escudo de Proteção}
+{11090}{Pergaminho de Choque}
+{11091}{Pergaminho de Muralha de Força}
+{11092}{Pergaminho de Raio}
+{11093}{Pergaminho de Desintegração}
+{11094}{Pergaminho de Encantamento}
+{11095}{Pergaminho de Atordoamento}
+{11096}{Pergaminho de Drenar Vontade}
+{11097}{Pergaminho de Pesadelo}
+{11098}{Pergaminho de Dominar Vontade}
+{11099}{Pergaminho de Resistir à Magia}
+{11100}{Pergaminho de Dispersar Magia}
+{11101}{Pergaminho de Escudo Dweomérico}
+{11102}{Pergaminho de Laços Mágicos}
+{11103}{Pergaminho de Escudo Refletor}
+{11104}{Pergaminho de Mãos Endurecidas}
+{11105}{Pergaminho de Enfraquecer}
+{11106}{Pergaminho de Encolher}
+{11107}{Pergaminho de Carne em Pedra}
+{11108}{Pergaminho de Polimorfia}
+{11109}{Pergaminho de Encantar Besta}
+{11110}{Pergaminho de Enredar}
+{11111}{Pergaminho de Controlar Besta}
+{11112}{Pergaminho de Socorrer Besta}
+{11113}{Pergaminho de Regeneração}
+{11114}{Pergaminho de Ferir}
+{11115}{Pergaminho de Conjurar Espírito}
+{11116}{Pergaminho de Invocar Morto-Vivo}
+{11117}{Pergaminho de Criar Morto-Vivo}
+{11118}{Pergaminho de Extinguir Vida}
+{11119}{Pergaminho de Cura Menor}
+{11120}{Pergaminho de Neutralizar Veneno}
+{11121}{Pergaminho de Cura Maior}
+{11122}{Pergaminho de Santuário}
+{11123}{Pergaminho de Ressurreição}
+{11124}{Pergaminho de Iluminar}
+{11125}{Pergaminho de Clarão}
+{11126}{Pergaminho de Visão Turva}
+{11127}{Pergaminho de Demônio Fantasmagórico}
+{11128}{Pergaminho de Invisibilidade}
+{11129}{Pergaminho de Praga de Insetos}
+{11130}{Pergaminho de Campeão Órquico}
+{11131}{Pergaminho de Ogro Guardião}
+{11132}{Pergaminho de Portal Infernal}
+{11133}{Pergaminho de Familiar}
+{11134}{Pergaminho de Fechadura Mágica}
+{11135}{Pergaminho de Congelar o Tempo}
+{11136}{Pergaminho de Acelerar}
+{11137}{Pergaminho de Estase}
+{11138}{Pergaminho de Tempus Fugit}
+{11139}{Pergaminho da Morte de Kerghan}
+{11140}{Pergaminho de Ataque de Kerghan}
+{11141}{Pergaminho de Saída}
+{11142}{Cura de Aranha Média}
+
+// Keys
+{12060}{Chave}
+{12061}{Chave do Clã de Ferro}
+{12062}{Chave da Mansão Vorman}
+
+// Key Rings
+{13061}{Chaveiro}
+
+// Written
+{14062}{Livro}
+{14063}{Nota}
+{14064}{Jornal Tarant}
+{14065}{Telegrama}
+{14066}{Nota de Gorad}
+{14067}{Esquema}
+{14068}{Imagem}
+{14069}{Panfleto}
+{14070}{A Lenda de T'erre-d'-V'nt}
+{14071}{Telegrama do Professor Eakin}
+{14072}{Jornal de Vendigroth}
+
+{14073}{Revigorador}
+{14074}{Reanimador}
+{14075}{Médico Mecânico}
+{14076}{Cura Milagrosa}
+{14077}{Inibidor Mental}
+{14078}{Necromizador}
+{14079}{Fortificante}
+{14080}{Combustível}
+{14081}{Poção de Paralisia}
+{14082}{Cargas de Limão e Batata}
+{14083}{Espada Carregada}
+{14084}{Disruptor de Fluxo}
+{14085}{Arma de Tesla}
+{14086}{Sino de Alarme}
+{14087}{Armadura Elétrica (Média)}
+{14088}{Arco Pirotécnico}
+{14089}{Gás de Atordoamento}
+{14090}{Granada de Alucinação}
+{14091}{Granada de Eletrocussão}
+{14092}{Lançador de Granadas}
+{14093}{Bomba Relógio}
+{14094}{Granada de Concussão}
+{14095}{Granada de Paralisia}
+{14096}{Granada de Gás Mostarda}
+{14097}{Plastique}
+{14098}{Detonador}
+{14099}{Lança-Chamas}
+{14100}{Arma Mecanizada}
+{14101}{Arma de Ácido}
+{14102}{Arma Aceleradora}
+{14103}{Arma Pirotécnica}
+{14104}{Lançador de Lâminas}
+{14105}{Pistola de Alta Velocidade}
+{14106}{Pistola Multicanos de Schreck}
+{14107}{Pistola de Longo Alcance}
+{14108}{Arma Tranquilizante}
+{14109}{Aracnídeo Venenoso}
+{14110}{Autômato}
+{14111}{Arco Composto}
+{14112}{Arco Envenenado}
+{14113}{Aracnídeo Médico}
+{14114}{Isca Iluminada}
+{14115}{Isca Explosiva}
+{14116}{Atirador Autômato}
+{14117}{Capacete com Óculos de Proteção}
+{14118}{Armadura Completa Usinada}
+{14119}{Óculos do Clã da Roda}
+{14120}{Espada Envenenada}
+{14121}{Machado Envenenado}
+{14122}{Capacete de Mineiro}
+{14123}{Machado Pirotécnico}
+{14124}{Canhão Raiado}
+{14125}{Adaga Mecânica}
+{14126}{Elixir de Sugestão Hipnótica}
+{14127}{Construtor Cerebral}
+{14128}{Forjador Muscular}
+{14129}{Balas}
+
+// Items
+
+{15065}{Item Genérico 1a}
+{15066}{Aracnídeo Mecanizado}
+{15067}{Armadilha de Água Parada (vazia)}
+{15068}{Armadilha de Água Parada (cheia)}
+{15069}{Placas de Metal}
+{15070}{Luz Elétrica}
+{15071}{Filamento}
+{15072}{Lanterna}
+{15073}{Capacitor}
+{15074}{Nitrato de Potássio}
+{15075}{Carvão}
+{15076}{Magnésio}
+{15077}{Limalhas de Metal}
+{15078}{Chassi de Arma}
+{15079}{Câmara do Revólver}
+{15080}{Armadilha de Espetos}
+{15081}{Chave Mestra Automática}
+{15082}{Mola Grande}
+{15083}{Mola Pequena}
+{15084}{Gazuas}
+{15085}{Minério Puro}
+{15086}{Minério de Ferro}
+{15087}{Aço}
+{15088}{Guarda e Punho Refinados}
+{15089}{Termômetro}
+{15090}{Pequeno Motor a Vapor}
+{15091}{Engrenagens Grandes}
+{15092}{Aracnídeo Mecanizado (veneno)}
+{15093}{Chassi de Arma Ancestral}
+{15094}{Minério de Mithril}
+{15095}{Taça de Vinho}
+{15096}{Frasco Vazio}
+{15097}{Câmera do Local do Acidente}
+{15098}{Pequena Estatueta}
+{15099}{Baú de Ouro}
+{15100}{Armadilha para Ursos}
+{15101}{Grampo de Metal}
+{15102}{Mola de Armadilha}
+{15103}{Peças de Relógio de Bolso}
+{15104}{Vaso}
+{15105}{Caixa de Música}
+{15106}{Castiçal}
+{15107}{Engrenagens Velhas}
+{15108}{Arnês Elétrico}
+{15109}{Capacitor Grande}
+{15110}{Bobina de Tesla}
+{15111}{Pólvora Negra}
+{15112}{Obstrução de Fogo}
+{15113}{Câmara de Carregamento por Culatra}
+{15114}{Câmara de Carregamento Automático}
+{15115}{Peças de Relógio}
+{15116}{Isca Mecânica}
+{15117}{Relógio de Bolso}
+{15118}{Tubo de Metal Pequeno}
+{15119}{Tiras de Couro}
+{15120}{Componente Elétrico}
+{15121}{Espelho de Observação}
+{15122}{Minério Anão}
+{15123}{Carretel de Fio Pesado}
+{15124}{Cabo de Machado de Carvalho}//REPLACE ME PLEASE!!!!
+{15125}{Chapa de Metal}
+{15126}{Pá}
+{15127}{Bola de Cristal}
+{15128}{Safira Bruta}
+{15129}{Esmeralda Bruta}
+{15130}{Diamante Bruto}
+{15131}{Rubi Bruto}
+{15132}{Granada Explosiva}
+{15133}{Autômato}
+{15134}{Dinamite}
+{15135}{Brometo}
+{15136}{Cloreto de Potássio}
+{15137}{Pequenas Peças Elétricas}
+{15138}{Salitre}
+{15139}{Nitroglicerina}
+{15140}{Bobina Elétrica}
+{15141}{Lata de Metal}
+{15142}{Silenciador de Motor}
+{15143}{Carcaça de Metal}
+{15144}{Carvão Vegetal}
+{15145}{Fertilizante de Tom}
+{15146}{Ácido Esteárico}
+{15147}{Sabão Líquido}
+{15148}{Pistola de Pederneira Quebrada}
+{15149}{Bússola}
+{15150}{Granada de Clarão}
+{15151}{Granada de Fumaça}
+{15152}{Granada Atordoante}
+{15153}{Obstrução de Fogo}
+{15154}{Peças de Revólver}
+{15155}{Aço Anão}
+{15156}{Câmera}
+{15157}{Componente 1}
+{15158}{Componente 2}
+{15159}{Estatueta de Jade do Mago}
+{15160}{Cristal de Kathorn}
+{15161}{Granada de Gás Atordoante}
+{15162}{Granada de Alucinação}
+{15163}{Granada de Eletrocussão}
+{15164}{Granada de Concussão}
+{15165}{Granada de Paralisia}
+{15166}{Granada de Gás Mostarda}
+{15167}{Aparelhagem de Barco}
+{15168}{Isca de Barulho}
+{15169}{Médico Mecânico}
+{15170}{Isca Iluminada}
+{15171}{Isca Explosiva}
+{15172}{Atirador Autômato}
+{15173}{Bomba Relógio}
+{15174}{Plastique}
+{15175}{Detonador}
+{15176}{Aracnídeo Médico}
+{15177}{Minifábrica a Vapor}
+{15178}{Gazuas Rústicas}
+{15179}{Ataduras}
+{15180}{Escritura da Mina Bessie Toone}
+{15181}{Li'tani}
+{15182}{Pedra-do-Coração}
+{15183}{Moeda Mnura}
+{15184}{Rocha de Lava}
+{15185}{Ramo de Oliveira}
+{15186}{Geodo}
+{15187}{Diamante Negro}
+{15188}{Manuais de Química}
+{15189}{Manuais de Explosivos}
+{15190}{Manuais de Herbologia}
+{15191}{Manuais de Eletricidade}
+{15192}{Manuais de Terapêutica}
+{15193}{Manuais de Mecânica}
+{15194}{Manuais de Ferraria}
+{15195}{Manuais de Armaria}
+{15196}{Chapa Metálica Vendigrothiana}
+{15197}{Composto Químico Desconhecido}
+{15198}{Carcaça de Animal do Vazio}
+{15199}{Pele Autêntica de Gigante de Stillwater}
+{15200}{Esmeralda}
+{15201}{Rubi}
+{15202}{Safira}
+{15203}{Diamante}
+{15204}{Rubi Estrelado}
+{15205}{Safira Estrelada}
+{15206}{Kit Médico}
+{15207}{Querosene}
+{15208}{Pano}
+{15209}{Coquetel Molotov}
+{15210}{Essência de Wisp}
+{15211}{Essência de Wisp de Volar}
+{15212}{Aracnídeo Médico}
+
+// Critter Names
+
+{16066}{Donn Throg}
+{16067}{Throg Mago}
+{16068}{Throg Lutador}
+
+{17067}{Nobre Humana} //Female
+{17068}{Nobre Humana} //Male
+{17069}{Sacerdotisa Humana} //Female
+{17070}{Sacerdotisa Humana} //Male
+{17071}{Maga Humana} //Female
+{17072}{Maga Humana} //Male
+{17073}{Tecnóloga Humana} //Female
+{17074}{Tecnóloga Humana} //Male
+{17075}{Comerciante Humana} //Female
+{17076}{Comerciante Humana} //Male
+{17077}{Guarda Humana} //Female
+{17078}{Guarda Humana} //Male
+{17079}{Moradora da Cidade Humana} //Female
+{17080}{Moradora da Cidade Humana} //Male
+{17081}{Aldeã Humana} //Female
+{17082}{Aldeã Humana} //Male
+{17083}{Mendiga Humana} //Female
+{17084}{Mendiga Humana} //Male
+{17085}{Ladra Humana} //Female
+{17086}{Ladra Humana} //Male
+{17087}{Bandida Humana} //Female
+{17088}{Bandida Humana} //Male
+{17089}{Nobre Anã} //Female
+{17090}{Nobre Anã} //Male
+{17091}{Sacerdote Anão} //Female
+{17092}{Sacerdote Anão} //Male
+{17093}{Mago Anão} //Female
+{17094}{Mago Anão} //Male
+{17095}{Tecnólogo Anão} //Female
+{17096}{Tecnólogo Anão} //Male
+{17097}{Comerciante Anão} //Female
+{17098}{Comerciante Anão} //Male
+{17099}{Guarda Anão} //Female
+{17100}{Guarda Anão} //Male
+{17101}{Morador Anão da Cidade} //Female
+{17102}{Morador Anão da Cidade} //Male
+{17103}{Aldeão Anão} //Female
+{17104}{Aldeão Anão} //Male
+{17105}{Mendigo Anão} //Female
+{17106}{Mendigo Anão} //Male
+{17107}{Ladrão Anão} //Female
+{17108}{Ladrão Anão} //Male
+{17109}{Bandido Anão} //Female
+{17110}{Bandido Anão} //Male
+{17111}{Nobre Elfo} //Female
+{17112}{Nobre Elfo} //Male
+{17113}{Sacerdote Elfo} //Female
+{17114}{Sacerdote Elfo} //Male
+{17115}{Mago Elfo} //Female
+{17116}{Mago Elfo} //Male
+{17117}{Tecnólogo Elfo} //Female
+{17118}{Tecnólogo Elfo} //Male
+{17119}{Comerciante Elfo} //Female
+{17120}{Comerciante Elfo} //Male
+{17121}{Guarda Élfico} //Female
+{17122}{Guarda Élfico} //Male
+{17123}{Morador da Cidade Élfica} //Female
+{17124}{Morador da Cidade Élfica} //Male
+{17125}{Aldeão Élfico} //Female
+{17126}{Aldeão Élfico} //Male
+{17127}{Mendigo Élfico} //Female
+{17128}{Mendigo Élfico} //Male
+{17129}{Ladrão Élfico} //Female
+{17130}{Ladrão Élfico} //Male
+{17131}{Bandido Élfico} //Female
+{17132}{Bandido Élfico} //Male
+{17133}{Nobre Meio-Elfo} //Female
+{17134}{Nobre Meio-Elfo} //Male
+{17135}{Sacerdote Meio-Elfo} //Female
+{17136}{Sacerdote Meio-Elfo} //Male
+{17137}{Mago Meio-Elfo} //Female
+{17138}{Mago Meio-Elfo} //Male
+{17139}{Tecnólogo Meio-Elfo} //Female
+{17140}{Tecnólogo Meio-Elfo} //Male
+{17141}{Comerciante Meio-Elfo} //Female
+{17142}{Comerciante Meio-Elfo} //Male
+{17143}{Guarda Meio-Elfo} //Female
+{17144}{Guarda Meio-Elfo} //Male
+{17145}{Morador da Cidade Meio-Elfo} //Female
+{17146}{Morador da Cidade Meio-Elfo} //Male
+{17147}{Aldeão Meio-Elfo} //Female
+{17148}{Aldeão Meio-Elfo} //Male
+{17149}{Mendigo Meio-Elfo} //Female
+{17150}{Mendigo Meio-Elfo} //Male
+{17151}{Ladina Meio-Elfa} //Female
+{17152}{Ladina Meio-Elfa} //Male
+{17153}{Bandida Meio-Elfa} //Female
+{17154}{Bandida Meio-Elfa} //Male
+{17155}{Nobre Gnoma} //Female
+{17156}{Nobre Gnoma} //Male
+{17157}{Sacerdotisa Gnoma} //Female
+{17158}{Sacerdotisa Gnoma} //Male
+{17159}{Maga Gnoma} //Female
+{17160}{Maga Gnoma} //Male
+{17161}{Tecnóloga Gnoma} //Female
+{17162}{Tecnóloga Gnoma} //Male
+{17163}{Comerciante Gnoma} //Female
+{17164}{Comerciante Gnoma} //Male
+{17165}{Guarda Gnoma} //Female
+{17166}{Guarda Gnoma} //Male
+{17167}{Moradora Gnoma da Cidade} //Female
+{17168}{Moradora Gnoma da Cidade} //Male
+{17169}{Aldeã Gnoma} //Female
+{17170}{Aldeã Gnoma} //Male
+{17171}{Mendiga Gnoma} //Female
+{17172}{Mendiga Gnoma} //Male
+{17173}{Ladina Gnoma} //Female
+{17174}{Ladina Gnoma} //Male
+{17175}{Bandida Gnoma} //Female
+{17176}{Bandida Gnoma} //Male
+{17177}{Nobre Halfling} //Female
+{17178}{Nobre Halfling} //Male
+{17179}{Sacerdotisa Halfling} //Female
+{17180}{Sacerdotisa Halfling} //Male
+{17181}{Maga Pequenina} //Female
+{17182}{Maga Pequenina} //Male
+{17183}{Tecnóloga Pequenina} //Female
+{17184}{Tecnóloga Pequenina} //Male
+{17185}{Comerciante Pequenina} //Female
+{17186}{Comerciante Pequenina} //Male
+{17187}{Guarda Pequenina} //Female
+{17188}{Guarda Pequenina} //Male
+{17189}{Moradora Urbana Pequenina} //Female
+{17190}{Moradora Urbana Pequenina} //Male
+{17191}{Aldeã Pequenina} //Female
+{17192}{Aldeã Pequenina} //Male
+{17193}{Mendiga Pequenina} //Female
+{17194}{Mendiga Pequenina} //Male
+{17195}{Ladra Pequenina} //Female
+{17196}{Ladra Pequenina} //Male
+{17197}{Bandida Pequenina} //Female
+{17198}{Bandida Pequenina} //Male
+{17199}{Nobre Meio-Orc} //Female
+{17200}{Nobre Meio-Orc} //Male
+{17201}{Sacerdotisa Meio-Orc} //Female
+{17202}{Sacerdotisa Meio-Orc} //Male
+{17203}{Maga Meio-Orc} //Female
+{17204}{Maga Meio-Orc} //Male
+{17205}{Tecnóloga Meio-Orc} //Female
+{17206}{Tecnóloga Meio-Orc} //Male
+{17207}{Comerciante Meio-Orc} //Female
+{17208}{Comerciante Meio-Orc} //Male
+{17209}{Guarda Meio-Orc} //Female
+{17210}{Guarda Meio-Orc} //Male
+{17211}{Meio-Orc Morador da Cidade} //Female
+{17212}{Meio-Orc Morador da Cidade} //Male
+{17213}{Meio-Orc Aldeão} //Female
+{17214}{Meio-Orc Aldeão} //Male
+{17215}{Meio-Orc Mendigo} //Female
+{17216}{Meio-Orc Mendigo} //Male
+{17217}{Meio-Orc Ladrão} //Female
+{17218}{Meio-Orc Ladrão} //Male
+{17219}{Meio-Orc Bandido} //Female
+{17220}{Meio-Orc Bandido} //Male
+{17221}{Meio-Ogro Nobre} //Female
+{17222}{Meio-Ogro Nobre} //Male
+{17223}{Meio-Ogro Sacerdote} //Female
+{17224}{Meio-Ogro Sacerdote} //Male
+{17225}{Meio-Ogro Mago} //Female
+{17226}{Meio-Ogro Mago} //Male
+{17227}{Meio-Ogro Tecnólogo} //Female
+{17228}{Meio-Ogro Tecnólogo} //Male
+{17229}{Meio-Ogro Comerciante} //Female
+{17230}{Meio-Ogro Comerciante} //Male
+{17231}{Meio-Ogro Guarda} //Female
+{17232}{Meio-Ogro Guarda} //Male
+{17233}{Meio-Ogro Morador da Cidade} //Female
+{17234}{Meio-Ogro Morador da Cidade} //Male
+{17235}{Meio-Ogro Aldeão} //Female
+{17236}{Meio-Ogro Aldeão} //Male
+{17237}{Meio-Ogro Mendigo} //Female
+{17238}{Meio-Ogro Mendigo} //Male
+{17239}{Meio-Ogro Ladrão} //Female
+{17240}{Meio-Ogro Ladrão} //Male
+{17241}{Bandido Meio-Ogro} //Female
+{17242}{Bandido Meio-Ogro} //Male
+{17243}{Nobre Elfo Negro} //Female
+{17244}{Nobre Elfo Negro} //Male
+{17245}{Sacerdote Elfo Negro} //Female
+{17246}{Sacerdote Elfo Negro} //Male
+{17247}{Mago Elfo Negro} //Female
+{17248}{Mago Elfo Negro} //Male
+{17249}{Tecnólogo Elfo Negro} //Female
+{17250}{Tecnólogo Elfo Negro} //Male
+{17251}{Comerciante Elfo Negro} //Female
+{17252}{Comerciante Elfo Negro} //Male
+{17253}{Guarda Elfo Negro} //Female
+{17254}{Guarda Elfo Negro} //Male
+{17255}{Morador da Cidade Elfo Negro} //Female
+{17256}{Morador da Cidade Elfo Negro} //Male
+{17257}{Aldeão Elfo Negro} //Female
+{17258}{Aldeão Elfo Negro} //Male
+{17259}{Mendigo Elfo Negro} //Female
+{17260}{Mendigo Elfo Negro} //Male
+{17261}{Ladrão Elfo Negro} //Female
+{17262}{Ladrão Elfo Negro} //Male
+{17263}{Bandido Elfo Negro} //Female
+{17264}{Bandido Elfo Negro} //Male
+{17265}{Nobre Ogro} //Female
+{17266}{Nobre Ogro} //Male
+{17267}{Sacerdote Ogro} //Female
+{17268}{Sacerdote Ogro} //Male
+{17269}{Mago Ogro} //Female
+{17270}{Mago Ogro} //Male
+{17271}{Tecnólogo Ogro} //Female
+{17272}{Tecnólogo Ogro} //Male
+{17273}{Comerciante Ogro} //Female
+{17274}{Comerciante Ogro} //Male
+{17275}{Guarda Ogro} //Female
+{17276}{Guarda Ogro} //Male
+{17277}{Morador Ogro da Cidade} //Female
+{17278}{Morador Ogro da Cidade} //Male
+{17279}{Aldeão Ogro} //Female
+{17280}{Aldeão Ogro} //Male
+{17281}{Mendigo Ogro} //Female
+{17282}{Mendigo Ogro} //Male
+{17283}{Ladrão Ogro} //Female
+{17284}{Ladrão Ogro} //Male
+{17285}{Bandido Ogro} 
+{17286}{Destruidor Ogro} 
+{17287}{Nobre Orc} //Female
+{17288}{Nobre Orc} //Male
+{17289}{Sacerdote Orc} //Female
+{17290}{Sacerdote Orc} //Male
+{17291}{Mago Orc} //Female
+{17292}{Mago Orc} //Male
+{17293}{Tecnólogo Orc} //Female
+{17294}{Tecnólogo Orc} //Male
+{17295}{Comerciante Orc} //Female
+{17296}{Comerciante Orc} //Male
+{17297}{Guarda Orc} //Female
+{17298}{Guarda Orc} //Male
+{17299}{Morador Orc da Cidade} //Female
+{17300}{Morador Orc da Cidade} //Male
+{17301}{Aldeã Orc} //Female
+{17302}{Aldeã Orc} //Male
+{17303}{Mendiga Orc} //Female
+{17304}{Mendiga Orc} //Male
+{17305}{Ladra Orc} //Female
+{17306}{Ladra Orc} //Male
+{17307}{Chefe dos Orcs}
+{17308}{Bandido Orc}
+{17309}{Comerciante Élfico}
+{17310}{Caçador(a) de Recompensas} //Human  
+{17311}{Caçador(a) de Recompensas} //Half Elf
+{17312}{Caçador(a) de Recompensas} //Dwarf
+{17313}{Homem de Aparência Perigosa} //Human Malochean Hand Leader
+{17314}{Indivíduo Sombrio} //Half Elf Malochean Hand Leader
+{17315}{Valentão} //Malochean Hand Grunt
+{17316}{Figura Encapuzada} //Malochean Hand Henchman
+
+// Traps
+
+{26000}{Armadilha Mágica}
+{26001}{Armadilha Mecânica}
+{26002}{Armadilha de Flechas}
+{26003}{Armadilha de Balas}
+{26004}{Armadilha de Fogo}
+{26005}{Armadilha Elétrica}
+{26006}{Armadilha de Veneno}
+{26007}{Armadilha de Fonte}
+
+// Basic Unique NPC's
+
+{27309}{<<<PH2>>>} //Female
+{27310}{<<<PH2>>>} //Male
+{27311}{Entregador de Jornais}
+{27312}{Araya Chocante}
+{27313}{Araya Infernal}
+{27314}{Araya Maior}
+{27315}{Araya Menor}
+{27316}{Araya Mercador de Escravos}
+{27317}{Escravo Araya}
+{27318}{Araya do Rasgo}
+{27319}{Escravo das Almas}
+{27320}{Escravo Paladino}
+{27321}{Viverna Menor}
+{27322}{Viverna Maior}
+{27323}{Dragarão}
+{27324}{Dragarão Fago}
+{27325}{Frigidonte}
+{27326}{Queimaguerra}
+{27327}{Voltax}
+{27328}{Gowrath Menor}
+{27329}{Gowrath Maior}
+{27330}{Feraloque}
+{27331}{Wargun}
+{27332}{Besta Tremente}
+{27333}{Besta Febril}
+{27334}{Besta Infernal}
+{27335}{Cão Funesto}
+{27336}{Batedor Kite}
+{27337}{Guerreiro Kite}
+{27338}{Arqueiro Kite}
+{27339}{Xamã Kite}
+{27340}{Berserker Kite}
+{27341}{Krag Menor}
+{27342}{Guerreiro Krag}
+{27343}{Chefe Krag}
+{27344}{Xamã Krag}
+{27345}{Berserker Krag}
+{27346}{Lich Menor}
+{27347}{Desgraçado Gritante}
+{27348}{Alma Pestilenta}
+{27349}{Lurker do Túmulo}
+{27350}{Espírito Imundo}
+{27351}{Homem Vazio}
+{27352}{Lich Maior}
+{27353}{Orador do Mal}
+{27354}{Profanador Sagrado}
+{27355}{Profanador Negro}
+{27356}{Senhor dos Condenados}
+{27357}{Profanador}
+{27358}{Senhora da Pedra}
+{27359}{Rainha Deslizante}
+{27360}{Chuva de Assassinatos}
+{27361}{Epidemia}
+{27362}{Matador de Raios}
+{27363}{Serpente Espiritual}
+{27364}{Imperatriz Víbora Negra}
+{27365}{Wyvern do Letes}
+{27366}{Aparição Misteriosa}
+{27367}{Kerghan}
+{27368}{Kerghan}
+{27369}{Kerghan}
+{27370}{Cambaleante do Pântano}
+{27371}{Subalterno Familiar}
+{27372}{Familiar}
+{27373}{Estripador Familiar}
+{27374}{Garra Sangrenta Familiar}
+{27375}{Gigante de Stillwater}
+{27376}{Kuljin}
+{27377}{Demônio do Pântano}
+{27378}{Ghoul Selvagem}
+{27379}{Alma Ensanguentada}
+{27380}{Ghoul Estígio}
+{27381}{Cambaleante}
+{27382}{Montículo Carnoso}
+{27383}{Cambaleante do Esgoto}
+{27384}{Soldado da Tempestade}
+{27385}{Berserker}
+{27386}{Campeão das Trevas}
+{27387}{Espírito Sanguinário}
+{27388}{Guerreiro das Sombras}
+{27389}{Paladino Amaldiçoado}
+{27390}{Esmagador}
+{27391}{Isca Mecânica}
+{27392}{Halfling Nu}
+{27393}{Oren}
+
+// Monsters
+
+{28310}{Elemental do Ar}
+{28311}{Elemental da Terra}
+{28312}{Elemental do Fogo}
+{28313}{Elemental da Água}
+{28314}{Insetos}
+{28315}{Escravo Profanador Sagrado}
+{28316}{Escravo Profanador Negro}
+{28317}{Sombra}
+{28318}{Demônio}
+{28319}{Lobo}
+{28320}{Aranha}
+{28321}{Esqueleto Menor}
+{28322}{Zumbi}
+{28323}{Aracnídeo Mecanizado}
+{28324}{Coelho}
+{28325}{Cavaleiro da Morte}
+{28326}{Homem-Lagarto}
+{28327}{Rato-Homem}
+{28328}{Homem-Cobra}
+{28329}{Macaco da Floresta}
+{28330}{Urso-Pardo}
+{28331}{Galinha}
+{28332}{Onça-Parda}
+{28333}{Ovelha}
+{28334}{Tigre}
+{28335}{Porco}
+{28336}{Vaca}
+{28337}{Aracnídeo Mecanizado (veneno)}
+{28338}{L'anamelach}
+{28339}{Lobo Doente}
+{28340}{Lobo da Floresta}
+{28341}{Shiverbit}
+{28342}{Cão Venenoso}
+{28343}{Lobo Patriarca}
+{28344}{Presa Bruta}
+{28345}{Aranha Menor}
+{28346}{Aranha Maior}
+{28347}{Aranha de Fogo}
+{28348}{Seether}
+{28349}{Aracnídeo Derretido}
+{28350}{Aranha do Pavor}
+{28351}{Rastejante das Sombras}
+{28352}{Viúvo}
+{28353}{Rato de Esgoto}
+{28354}{Praga Prodigiosa}
+{28355}{Roedor Pútrido}
+{28356}{Rato-de-Pedra}
+{28357}{Rato-de-Granito}
+{28358}{Saltador Flamejante}
+{28359}{Autômato}
+{28360}{Coelho Vorpal}
+{28361}{Carniçal}
+{28362}{Guarda Sanguinário}
+{28363}{Andarilho Pútrido}
+{28364}{Múmia}
+{28365}{Demi-Lich}
+{28366}{Múmia Superior}
+{28367}{Andarilho do Lodo}
+{28368}{Mulher-Lagarto}
+{28369}{Guarda Lagarto}
+{28370}{Mago Reptiliano}
+{28371}{Cortador de Escamas}
+{28372}{Serpenteador de Esgoto}
+{28373}{Guarda Serpenteador}
+{28374}{Ameaça Serpentina}
+{28375}{Serpente Elemental}
+{28376}{Espectro Espectral}
+{28377}{Chama Sombria}
+{28378}{Demônio Místico}
+{28379}{Demônio de Lodo}
+{28380}{Horror Dourado}
+{28381}{Homem de Mercúrio}
+{28382}{Fúria da Tempestade}
+{28383}{Tempestade Maligna}
+{28384}{Ghoul Venenoso}
+{28385}{Golem de Minério}
+{28386}{Fragmento Demoníaco}
+{28387}{Massa Fervilhante}
+{28388}{Macaco}
+{28389}{Macaco Leproso}
+{28390}{Enxame de Macacos}
+{28391}{Macaco de Pedra}
+{28392}{Xamã Simiesco}
+{28393}{Gorila Maior}
+{28394}{Macaco do Pântano}
+{28395}{Esmaga-Crânios}
+{28396}{Yeti}
+{28397}{Urso Dourado}
+{28398}{Urso Polar}
+{28399}{Urso Negro}
+{28400}{Filhote de Urso Dourado}
+{28401}{Filhote de Urso Pardo}
+{28402}{Filhote de Urso Polar}
+{28403}{Filhote de Urso Negro}
+{28404}{Antigo Urso}
+{28405}{Soldado da Tempestade}
+{28406}{Berserker}
+{28407}{Campeão das Trevas}
+{28408}{Espírito Sanguinário}
+{28409}{Guerreiro das Sombras}
+{28410}{Paladino Amaldiçoado}
+{28411}{Esmagador}
+{28412}{Escravo do Lorde}
+{28413}{Rainha Sereia}
+{28414}{Aranha-Sereia}
+{28415}{Matriarca Aranix}
+{28416}{Filhote Aranix}
+{28417}{Aranix}
+{28418}{Insetívora}
+{28419}{Caçadora Insetívora}
+{28420}{Donzela Pestilenta}
+{28421}{Licantropo}
+{28422}{Uivador}
+{28423}{Caçador das Sombras}
+{28424}{Licânix}
+{28425}{Mestiço}
+{28426}{Rei Cinzento}
+{28427}{Javali Menor}
+{28428}{Javali Maior}
+{28429}{Javali Enfurecido}
+{28430}{Javali Raivoso}
+{28431}{Demônio Menor}
+{28432}{Demônio Maior}
+{28433}{Garra do Terror}
+{28434}{Esmagador de Inimigos}
+{28435}{Sombra Sombria}
+{28436}{Lagarto do Vazio Menor}
+{28437}{Lagarto do Vazio Maior}
+{28438}{Lagarto do Pavor}
+{28439}{Golpeador da Morte}
+{28440}{Esqueleto Maior}
+{28441}{Arqueiro Esfarrapado}
+{28442}{Açougueiro de Ossos}
+{28443}{Bruto Orc}
+{28444}{Berserker Orc}
+{28445}{Xamã Orc}
+{28446}{Chefe Orc}
+{28447}{Cavaleiro Negro}
+{28448}{Berserker Negro}
+{28449}{Guerreiro-Sacerdote Negro}
+{28450}{Senhor da Guerra Negro}
+{28451}{Luzes do Amor}
+{28452}{Fogo-Fátuo}
+{28453}{Fogo-Fátuo de Volar}
+{28454}{Lanterna da Morte}
+{28455}{Gyr-Dolour}
+{28456}{Leão-da-Montanha}
+{28457}{Carcaça Pútrida}
+{28458}{Tigre de Bengle}
+{28459}{Esmagador Invisível}
+{28460}{Aracnídeo Mecanizado}
+{28461}{Aracnídeo Mecanizado (veneno)}
+{28462}{Autômato}
+{28463}{Coelho Azul?}
+{28464}{Demônio Maior}
+{28465}{Espírito do Pântano}
+{28466}{Duende das Rochas}
+{28467}{Aracnídeo Médico}
+{28468}{Soldado Apodrecido}
+{28469}{Lutador Esfarrapado}
+{28470}{Guerreiro Esqueleto}
+{28471}{Campeão Morto-Vivo}
+
+//Unknown Names start at 29000
+{29688}{Adaga Não Identificada}
+{29689}{Espada Não Identificada}
+{29690}{Maça Não Identificada}
+{29691}{Martelo Não Identificado}
+{29692}{Cajado Não Identificado}
+{29693}{Arco Não Identificado}
+{29694}{Bumerangue Não Identificado}
+{29695}{Arma Não Identificada}
+{29696}{Armadura Não Identificada}
+{29697}{Traje Não Identificado}
+{29698}{Vestido Não Identificado}
+{29699}{Trapos Não Identificados}
+{29701}{Roupa Não Identificada}
+{29702}{Elmo Não Identificado}
+{29703}{Chapéu Não Identificado}
+{29704}{Manoplas Não Identificadas}
+{29705}{Luvas Não Identificadas}
+{29706}{Anel Não Identificado}
+{29707}{Amuleto Não Identificado}
+{29708}{Medalhão Não Identificado}
+{29709}{Colar Não Identificado}
+{29700}{Sapatos Não Identificados}
+{29711}{Botas Não Identificadas}
+{29712}{Escudo Não Identificado}
+{29713}{Broquel Não Identificado}
+{29714}{Item Não Identificado}
+{29715}{Manto Não Identificado}
+{29716}{Armadura Pequena Não Identificada}
+{29717}{Traje Pequeno Não Identificado}
+{29718}{Vestuário Pequeno Não Identificado}
+{29719}{Armadura Grande Não Identificada}
+{29720}{Traje Grande Não Identificado}
+{29721}{Vestuário Grande Não Identificado}
+{29722}{Túnica Pequena Não Identificada}
+{29723}{Machado Não Identificado}
+
+

@@ -1,0 +1,111 @@
+// These are class-based PC messages, said to female NPC's based on their
+// class.
+
+// Appreciation (thanks) messages start at 1000. Each class gets 50
+// messages starting on multiples of 50
+
+// noble
+{1000}{Obrigado.}
+
+// priest
+{1050}{Obrigado.}
+
+// wizard
+{1100}{Valeu, dona assustadora.}
+
+// technologist
+{1150}{Valeu, cavalheiro.}
+
+// shopkeeper
+{1200}{Valeu!}
+
+// guard
+{1250}{Valeu!}
+
+// city_dweller
+{1300}{Obrigado, gentil senhora.}
+
+// villager
+{1350}{Valeu, dona.}
+
+// beggar
+{1400}{Valeu, velha senhora.}
+
+// thief
+{1450}{Valeu!}
+
+// bandit
+{1500}{Valeu.}
+
+// Asking for rumors messages start at 2000. Each class gets 50
+// messages starting on multiples of 50
+
+// noble
+{2000}{Tem algum boato pra me contar?}
+
+// priest
+{2050}{Que novidades tem pra mim?}
+
+// wizard
+{2100}{Que tipo de boato é esse?}
+
+// technologist
+{2150}{Que novidades tem, cavalheiro?}
+
+// shopkeeper
+{2200}{Que boato é novidade?}
+
+// guard
+{2250}{Que sala ou notícia?}
+
+// city_dweller
+{2300}{Esta cidade é enorme! Muita coisa acontece! Tem algum boato?}
+
+// villager
+{2350}{Me conta um boato?}
+
+// beggar
+{2400}{Me conta um boato?}
+
+// thief
+{2450}{Me conta agora as novidades dos boatos.}
+
+// bandit
+{2500}{Me conta agora as novidades dos boatos?}
+
+
+// Insult messages start at 3000. Each class gets 50 messages starting
+// on multiples of 50
+
+// noble
+{3000}{Seu cara de bosta!}
+
+// priest
+{3050}{Você é esquisito.}
+
+// wizard
+{3100}{Seu branquelo!}
+
+// technologist
+{3150}{Sua burra.}
+
+// shopkeeper
+{3200}{Sua burra feia.}
+
+// guard
+{3250}{Sua burra malvada!}
+
+// city_dweller
+{3300}{Não gosto de você, sua burra!}
+
+// villager
+{3350}{Seu burro cabeça-dura!}
+
+// beggar
+{3400}{Sua fedida!}
+
+// thief
+{3450}{Seu orc idiota!}
+
+// bandit
+{3500}{Sua cabeça feia, fedorenta e burra.}

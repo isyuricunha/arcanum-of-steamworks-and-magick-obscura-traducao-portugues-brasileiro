@@ -1,0 +1,197 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá, senhor. Posso lhe fazer algumas perguntas?}{}{5}{re 41, lf1 0}{11}{}
+{3}{Saudações. Posso lhe fazer algumas perguntas?}{}{5}{re 41, lf1 1}{33}{}
+{4}{Por favor, não desejo ofender.}{}{5}{re -40}{180}{re41}
+{5}{Não aprecio seu tom. Sugiro que o mude, cão.}{}{5}{re-40, ch-9}{}{re-10,  fl 210}
+{6}{Oi! Eu pergunto uma coisa?}{}{-4}{ lf1 0}{200}{re41}
+{7}{Ei... Posso te perguntar mais uma coisa?}{}{-4}{ lf1 1}{33}{}
+{8}{Não acho que haja motivo para tanta grosseria.}{}{5}{re-40, ch10}{190}{re50}
+{10}{E:}{}{1}{}{0}{}
+{11}{Sim, o que é?}{O que deseja, forasteiro?}{}{}{}{lf1 1}
+{12}{T:1, 2, 3, 7}{}{1}{}{22}{}
+{13}{Onde posso encontrar um treinador Especialista em esquiva?}{}{5}{tr1 1, tr1 -1, ru-2178}{161}{}
+{14}{Onde posso encontrar um treinador Especialista em combate corpo a corpo?}{}{5}{tr2 1, tr2 -1, ru-2179}{165}{}
+{15}{Onde posso encontrar um treinador Especialista em arremesso?}{}{5}{tr3 1, tr3 -1, ru-4180}{169}{}
+{16}{Onde posso encontrar um treinador Especialista em detectar armadilhas?}{}{5}{tr7 1, tr7 -1, ru-2181}{173}{}
+{17}{Onde tá aquele mestre de esquiva?}{}{-4}{tr1 1, tr1 -1, ru-2178}{161}{}
+{18}{Onde tá o mestre de molay, hã, corpo a corpo, hã, de porrada?}{}{-4}{tr2 1, tr2 -1, ru-2179}{165}{}
+{19}{Quero um mestre em arremesso! Onde tá o cara?}{}{-4}{tr3 1, tr3 -1, ru-4180}{169}{}
+{20}{Onde tá o mestre em detectar armadilha?}{}{-4}{tr7 1, tr7 -1, ru-2181}{173}{}
+{21}{E:}{}{1}{}{0}{}
+{22}{Há mais alguma coisa?}{Há mais alguma coisa?}{}{}{}{}
+{23}{T:1, 2, 3, 7}{}{1}{}{22}{}
+{24}{Onde posso encontrar um treinador Especialista em esquiva?}{}{5}{tr1 1, tr1 -1, ru-2178}{161}{}
+{25}{Onde posso encontrar um treinador Especialista em combate corpo a corpo?}{}{5}{tr2 1, tr2 -1, ru-2179}{165}{}
+{26}{Onde posso encontrar um treinador Especialista em arremesso?}{}{5}{tr3 1, tr3 -1, ru-4180}{169}{}
+{27}{Onde posso encontrar um treinador Especialista em detectar armadilhas?}{}{5}{tr7 1, tr7 -1, ru-2181}{173}{}
+{28}{Onde tá aquele mestre de esquiva?}{}{-4}{tr1 1, tr1 -1, ru-2178}{161}{}
+{29}{Onde tá o mestre de molay, hã, corpo a corpo, hã, de porrada?}{}{-4}{tr2 1, tr2 -1, ru-2179}{165}{}
+{30}{Quero um mestre em arremesso! Onde tá o cara?}{}{-4}{tr3 1, tr3 -1, ru-4180}{169}{}
+{31}{Onde tá o mestre em detectar armadilha?}{}{-4}{tr7 1, tr7 -1, ru-2181}{173}{}
+{32}{E:}{}{1}{}{0}{}
+{33}{O que é desta vez?}{O que é desta vez?}{}{}{}{}
+{34}{T:1, 2, 3, 7}{}{1}{}{22}{}
+{35}{Onde posso encontrar um treinador Especialista em esquiva?}{}{5}{tr1 1, tr1 -1, ru-2178}{161}{}
+{36}{Onde posso encontrar um treinador Especialista em combate corpo a corpo?}{}{5}{tr2 1, tr2 -1, ru-2179}{165}{}
+{37}{Onde posso encontrar um treinador Especialista em arremesso?}{}{5}{tr3 1, tr3 -1, ru-4180}{169}{}
+{38}{Onde posso encontrar um treinador Especialista em detectar armadilhas?}{}{5}{tr7 1, tr7 -1, ru-2181}{173}{}
+{39}{Onde tá aquele mestre de esquiva?}{}{-4}{tr1 1, tr1 -1, ru-2178}{161}{}
+{40}{Onde tá o mestre de molay, hã, corpo a corpo, hã, de porrada?}{}{-4}{tr2 1, tr2 -1, ru-2179}{165}{}
+{41}{Quero um mestre em arremesso! Onde tá o cara?}{}{-4}{tr3 1, tr3 -1, ru-4180}{169}{}
+{42}{Onde fica o especialista em detectar armadilhas?}{}{-4}{tr7 1, tr7 -1, ru-2181}{173}{}
+{43}{E:}{}{1}{}{0}{}
+{44}{G:}{G:}{}{}{}{}
+{45}{Olá, senhor. Posso lhe fazer algumas perguntas?}{}{5}{re 41, lf1 0}{54}{}
+{46}{Saudações, senhor. Posso lhe fazer algumas perguntas?}{}{5}{re 41, lf1 1}{84}{}
+{47}{Hmm... Posso lhe fazer algumas perguntas, "senhor"?}{}{5}{re -40, lf1 0}{54}{}
+{48}{Hã... Posso fazer mais algumas perguntas?}{}{5}{re -40, lf1 1}{84}{}
+{49}{Oi! Eu pergunto uma coisa?}{}{-4}{re 41, lf1 0}{54}{}
+{50}{Ei... Posso te perguntar mais uma coisa?}{}{-4}{re 41, lf1 1}{84}{}
+{51}{Ei! Isso não foi legal... Hã... Posso te perguntar uma coisa?}{}{-4}{re -40, lf1 0}{54}{}
+{52}{Hã... Eu pergunto mais uma coisa?}{}{-4}{re -40, lf1 1}{84}{}
+{53}{E:}{}{1}{}{0}{}
+{54}{Sim... O que é?}{Sim... O que é?}{}{}{}{lf1 1}
+{55}{T:1, 2, 3, 7}{}{1}{}{69}{}
+{56}{Quem manda por aqui?}{}{5}{lf2 0}{99}{}
+{57}{Quem é o chefão aqui?}{}{-4}{lf2 0}{99}{}
+{58}{Você não parece ter uma boa opinião sobre ele...}{}{5}{lf3 0}{104}{}
+{59}{Você não gosta dele?}{}{-4}{lf3 0}{104}{}
+{60}{Onde posso encontrar um treinador especialista em esquiva?}{}{5}{tr1 1, tr1 -1, ru-2178}{161}{}
+{61}{Onde posso encontrar um treinador especialista em combate corpo a corpo?}{}{5}{tr2 1, tr2 -1, ru-2179}{165}{}
+{62}{Onde posso encontrar um treinador especialista em arremesso?}{}{5}{tr3 1, tr3 -1, ru-4180}{169}{}
+{63}{Onde posso encontrar um treinador especialista em detectar armadilhas?}{}{5}{tr7 1, tr7 -1, ru-2181}{173}{}
+{64}{Wer Exper' doge man be?}{}{-4}{tr1 1, tr1 -1, ru-2178}{161}{}
+{65}{Wer Exper' maylay man be?}{}{-4}{tr2 1, tr2 -1, ru-2179}{165}{}
+{66}{Wer Exper' throw man be?}{}{-4}{tr3 1, tr3 -1, ru-4180}{169}{}
+{67}{Wer Exper' spot trap man be?}{}{-4}{tr7 1, tr7 -1, ru-2181}{173}{}
+{68}{E:}{}{1}{}{0}{}
+{69}{...mais alguma coisa?}{...mais alguma coisa?}{}{}{}{}
+{70}{T:1, 2, 3, 7}{}{1}{}{69}{}
+{71}{Quem manda por aqui?}{}{5}{lf2 0}{99}{}
+{72}{Quem é o chefão aqui?}{}{-4}{lf2 0}{99}{}
+{73}{Você não parece ter uma boa opinião sobre ele...}{}{5}{lf3 0}{104}{}
+{74}{Você não gosta dele?}{}{-4}{lf3 0}{104}{}
+{75}{Onde posso encontrar um treinador especialista em esquiva?}{}{5}{tr1 1, tr1 -1, ru-2178}{161}{}
+{76}{Onde posso encontrar um treinador especialista em combate corpo a corpo?}{}{5}{tr2 1, tr2 -1, ru-2179}{165}{}
+{77}{Onde posso encontrar um treinador especialista em arremesso?}{}{5}{tr3 1, tr3 -1, ru-4180}{169}{}
+{78}{Onde posso encontrar um treinador especialista em detectar armadilhas?}{}{5}{tr7 1, tr7 -1, ru-2181}{173}{}
+{79}{Wer Exper' doge man be?}{}{-4}{tr1 1, tr1 -1, ru-2178}{161}{}
+{80}{Wer Exper' maylay man be?}{}{-4}{tr2 1, tr2 -1, ru-2179}{165}{}
+{81}{Wer Exper' throw man be?}{}{-4}{tr3 1, tr3 -1, ru-4180}{169}{}
+{82}{Quem é o mestre em detectar armadilhas aqui?}{}{-4}{tr7 1, tr7 -1, ru-2181}{173}{}
+{83}{E:}{}{1}{}{0}{}
+{84}{[suspiro] O que é agora, @pcname@?}{[suspiro] O que é agora, @pcname@?}{}{}{}{}
+{85}{T:1, 2, 3, 7}{}{1}{}{69}{}
+{86}{Quem está no comando por aqui?}{}{5}{lf2 0}{99}{}
+{87}{Quem manda aqui?}{}{-4}{lf2 0}{99}{}
+{88}{Você não parece pensar muito bem dele...}{}{5}{lf3 0}{104}{}
+{89}{Você não gosta dele?}{}{-4}{lf3 0}{104}{}
+{90}{Onde posso encontrar um treinador especialista em esquiva?}{}{5}{tr1 1, tr1 -1, ru-2178}{161}{}
+{91}{Onde posso encontrar um treinador especialista em combate corpo a corpo?}{}{5}{tr2 1, tr2 -1, ru-2179}{165}{}
+{92}{Onde posso encontrar um treinador especialista em arremesso?}{}{5}{tr3 1, tr3 -1, ru-4180}{169}{}
+{93}{Onde posso encontrar um treinador especialista em detectar armadilhas?}{}{5}{tr7 1, tr7 -1, ru-2181}{173}{}
+{94}{Quem é o mestre em esquiva aqui?}{}{-4}{tr1 1, tr1 -1, ru-2178}{161}{}
+{95}{Quem é o mestre em combate corpo a corpo aqui?}{}{-4}{tr2 1, tr2 -1, ru-2179}{165}{}
+{96}{Quem é o mestre em arremesso aqui?}{}{-4}{tr3 1, tr3 -1, ru-4180}{169}{}
+{97}{Quem é o mestre em detectar armadilhas aqui?}{}{-4}{tr7 1, tr7 -1, ru-2181}{173}{}
+{98}{E:}{}{1}{}{0}{}
+{99}{Esse seria Garrick Stout. [debochando] Ou "Sir" Garrick Stout, como ele insiste em ser chamado...}{Esse seria Garrick Stout. [debochando] Ou "Sir" Garrick Stout, como ele insiste em ser chamado...}{}{}{}{lf2 1}
+{100}{Você não parece pensar muito bem dele...}{}{5}{}{104}{}
+{101}{Você não gosta dele?}{}{-4}{}{104}{}
+{102}{K:}{}{1}{}{69}{}
+{103}{E:}{}{1}{}{0}{}
+{104}{Não sou o único... O brutamontes pomposo não é bem visto por muitos. [olhando com cautela] Claro, você não ouviu isso de mim...}{Não sou o único... O brutamontes pomposo não é bem visto por muitos. [olhando com cautela] Claro, você não ouviu isso de mim...}{}{}{}{lf3 1}
+{105}{K:}{}{1}{}{69}{}
+{106}{E:}{}{1}{}{0}{}
+{107}{Saudações, cidadão!}{Saudações, cidadão!}{}{}{}{}
+{108}{Olá, senhor. Posso lhe fazer algumas perguntas?}{}{5}{re 41, lf1 0}{117}{}
+{109}{Saudações, senhor. Posso lhe fazer algumas perguntas?}{}{5}{re 41, lf1 1}{144}{}
+{110}{Hmm... Posso lhe fazer algumas perguntas, "senhor"?}{}{5}{re -40, lf1 0}{117}{}
+{111}{Hã... Posso fazer mais algumas perguntas?}{}{5}{re -40, lf1 1}{144}{}
+{112}{Oi! Eu pergunto uma coisa?}{}{-4}{re 41, lf1 0}{117}{}
+{113}{Oi! Eu pergunto mais uma coisa?}{}{-4}{re 41, lf1 1}{144}{}
+{114}{Hã... Eu pergunto uma coisa?}{}{-4}{re -40, lf1 0}{117}{}
+{115}{Hã... Eu pergunto mais uma coisa?}{}{-4}{re -40, lf1 1}{144}{}
+{116}{E:}{}{1}{}{0}{}
+{117}{Farei o possível para ajudar, forasteiro.}{Farei o possível para ajudar, forasteiro.}{}{}{}{lf1 1}
+{118}{T:1, 2, 3, 7}{}{1}{}{131}{}
+{119}{Poderia me indicar a casa de Victor Misk?}{}{5}{ss2, ss-13, lf4 0}{158}{}
+{120}{Eu procuro a casa do Misk?}{}{-4}{ss2, ss-13, lf4 0}{158}{}
+{121}{R:$0, 1155-1165}{}{1}{}{131}{}
+{122}{Onde posso encontrar um treinador especialista em esquiva?}{}{5}{tr1 1, tr1 -1, ru-2178}{161}{}
+{123}{Onde posso encontrar um treinador especialista em combate corpo a corpo?}{}{5}{tr2 1, tr2 -1, ru-2179}{165}{}
+{124}{Onde posso encontrar um treinador especialista em arremesso?}{}{5}{tr3 1, tr3 -1, ru-4180}{169}{}
+{125}{Onde posso encontrar um treinador especialista em detectar armadilhas?}{}{5}{tr7 1, tr7 -1, ru-2181}{173}{}
+{126}{Quem é o mestre em esquiva aqui?}{}{-4}{tr1 1, tr1 -1, ru-2178}{161}{}
+{127}{Quem seria o Mestre em <<<PH0>>>?}{}{-4}{tr2 1, tr2 -1, ru-2179}{165}{}
+{128}{Quem seria o Mestre em arremesso?}{}{-4}{tr3 1, tr3 -1, ru-4180}{169}{}
+{129}{Quem seria o Mestre em detectar armadilhas?}{}{-4}{tr7 1, tr7 -1, ru-2181}{173}{}
+{130}{E:}{}{1}{}{0}{}
+{131}{Posso ajudá-lo com mais alguma coisa?}{Posso ajudá-lo com mais alguma coisa?}{}{}{}{}
+{132}{T:1, 2, 3, 7}{}{1}{}{131}{}
+{133}{Poderia me indicar a casa de Victor Misk?}{}{5}{ss2, ss-13, lf4 0}{158}{}
+{134}{Eu procuro a casa do Misk?}{}{-4}{ss2, ss-13, lf4 0}{158}{}
+{135}{Onde posso encontrar um Mestre em esquiva?}{}{5}{tr1 1, tr1 -1, ru-2178}{161}{}
+{136}{Onde posso encontrar um Mestre em combate corpo a corpo?}{}{5}{tr2 1, tr2 -1, ru-2179}{165}{}
+{137}{Onde posso encontrar um Mestre em arremesso?}{}{5}{tr3 1, tr3 -1, ru-4180}{169}{}
+{138}{Onde posso encontrar um Mestre em detectar armadilhas?}{}{5}{tr7 1, tr7 -1, ru-2181}{173}{}
+{139}{Quem seria o Mestre em esquiva?}{}{-4}{tr1 1, tr1 -1, ru-2178}{161}{}
+{140}{Quem seria o Mestre em <<<PH0>>>?}{}{-4}{tr2 1, tr2 -1, ru-2179}{165}{}
+{141}{Quem seria o Mestre em arremesso?}{}{-4}{tr3 1, tr3 -1, ru-4180}{169}{}
+{142}{Quem seria o Mestre em detectar armadilhas?}{}{-4}{tr7 1, tr7 -1, ru-2181}{173}{}
+{143}{E:}{}{1}{}{0}{}
+{144}{Estou aqui para servir! O que deseja, @pcname@?}{Estou aqui para servir! O que deseja, @pcname@?}{}{}{}{}
+{145}{T:1, 2, 3, 7}{}{1}{}{131}{}
+{146}{Poderia me indicar a casa de Victor Misk?}{}{5}{ss2, ss-13, lf4 0}{158}{}
+{147}{Eu procuro a casa do Misk?}{}{-4}{ss2, ss-13, lf4 0}{158}{}
+{148}{R:$0, 1155-1165}{}{1}{}{131}{}
+{149}{Onde posso encontrar um Mestre em esquiva?}{}{5}{tr1 1, tr1 -1, ru-2178}{161}{}
+{150}{Onde posso encontrar um Mestre em combate corpo a corpo?}{}{5}{tr2 1, tr2 -1, ru-2179}{165}{}
+{151}{Onde posso encontrar um Mestre em arremesso?}{}{5}{tr3 1, tr3 -1, ru-4180}{169}{}
+{152}{Onde posso encontrar um Mestre em detectar armadilhas?}{}{5}{tr7 1, tr7 -1, ru-2181}{173}{}
+{153}{Quem seria o Mestre em esquiva?}{}{-4}{tr1 1, tr1 -1, ru-2178}{161}{}
+{154}{Quem seria o Mestre em <<<PH0>>>?}{}{-4}{tr2 1, tr2 -1, ru-2179}{165}{}
+{155}{Quem seria o Mestre em arremesso?}{}{-4}{tr3 1, tr3 -1, ru-4180}{169}{}
+{156}{Quem seria o Mestre em detectar armadilhas?}{}{-4}{tr7 1, tr7 -1, ru-2181}{173}{}
+{157}{E:}{}{1}{}{0}{}
+{158}{Acredito que fica ali na Esplanada do Lobo Cinzento, perto da loja da Rosemary.}{Acredito que fica ali na Esplanada do Lobo Cinzento, perto da loja da Rosemary.}{}{}{}{lf4 1}
+{159}{K:}{}{1}{}{131}{}
+{160}{E:}{}{1}{}{0}{}
+{161}{Um Mestre em esquiva? Você pode tentar procurar em Blackroot ou Qintarra. Foi onde eles estavam da última vez que ouvi falar.}{Um Mestre em esquiva? Você pode tentar procurar em Blackroot ou Qintarra. Foi onde eles estavam da última vez que ouvi falar.}{}{}{}{ru2178}
+{162}{Obrigado.}{}{5}{}{0}{}
+{163}{Valeu.}{}{-4}{}{0}{}
+{164}{E:}{}{1}{}{0}{}
+{165}{Eu tentaria procurar em Blackroot ou na Ilha do Desespero por um Mestre em combate corpo a corpo.}{Eu tentaria procurar em Blackroot ou na Ilha do Desespero por um Mestre em combate corpo a corpo.}{}{}{}{ru2179}
+{166}{Obrigado.}{}{5}{}{0}{}
+{167}{Valeu.}{}{-4}{}{0}{}
+{168}{E:}{}{1}{}{0}{}
+{169}{Um Mestre em arremesso pode ser encontrado em Dernholm... ou você poderia tentar Ashbury. Não tenho certeza.}{Um treinador Especialista em arremesso pode ser encontrado em Dernholm... ou você poderia tentar Ashbury. Não tenho certeza de qual.}{}{}{}{ru2180}
+{170}{Obrigado.}{}{5}{}{0}{}
+{171}{Valeu.}{}{-4}{}{0}{}
+{172}{E:}{}{1}{}{0}{}
+{173}{Você pode encontrar um treinador Especialista em detecção de armadilhas em Blackroot. O Clã Wheel provavelmente seria outro bom lugar para procurar.}{Você pode encontrar um treinador Especialista em detecção de armadilhas em Blackroot. O Clã Wheel provavelmente seria outro bom lugar para procurar.}{}{}{}{ru2181}
+{174}{Obrigado.}{}{5}{}{0}{}
+{175}{Valeu.}{}{-4}{}{0}{}
+{176}{E:}{}{1}{}{0}{}
+{177}{}{}{}{}{}{}
+{178}{}{}{}{}{}{}
+{179}{}{}{}{}{}{}
+{180}{Suponho que não seja sua culpa, você é apenas um indivíduo ofensivo. Bem, acho que se você puder agir de forma civilizada, mesmo que vá contra sua... criação "inferior", posso lhe conceder um momento ou dois. O que posso fazer por você?}{Suponho que não seja sua culpa, você é apenas um indivíduo ofensivo. Bem, acho que se você puder agir de forma civilizada, mesmo que vá contra sua... criação "inferior", posso lhe conceder um momento ou dois. O que posso fazer por você?}{}{}{}{}
+{181}{Posso lhe fazer uma pergunta?}{}{5}{lf1 0}{11}{}
+{182}{Posso lhe fazer uma pergunta?}{}{5}{lf1 1}{33}{}
+{183}{Você pode morrer uma morte lenta e agonizante, porco!}{}{5}{}{0}{re-10, fl 210}
+{189}{Se é assim que se sente, não vou mais incomodá-lo.}{}{5}{}{0}{}
+{190}{Ah, claro, senhor! Eu, hã, confundi-o com alguém das classes inferiores... devo me desculpar profundamente. O que posso fazer por você?}{Ah, claro, senhora! Eu, hã, confundi-a com alguém das classes inferiores... devo me desculpar profundamente. O que posso fazer por você?}{}{}{}{}
+{191}{Posso lhe fazer uma pergunta?}{}{5}{lf1 0}{11}{}
+{192}{Posso lhe fazer uma pergunta?}{}{5}{lf1 1}{33}{}
+{193}{Você pode morrer uma morte lenta e agonizante, seu porco burguês!}{}{5}{}{0}{re-10, fl 210}
+{199}{Mudei de ideia. Adeus.}{}{5}{}{0}{}
+{200}{Ah, um idiota. O que você quer?}{Ah, um idiota. O que você quer?}{}{}{}{lf1 1}
+{201}{T:1, 2, 3, 7}{}{1}{}{22}{}
+{202}{Onde está aquele especialista em esquiva?}{}{-4}{tr1 1, tr1 -1, ru-2178}{161}{}
+{203}{Onde tá o melhor lutador, hã, de porrada?}{}{-4}{tr2 1, tr2 -1, ru-2179}{165}{}
+{204}{Quero um especialista em arremesso! Onde tá o cara?}{}{-4}{tr3 1, tr3 -1, ru-4180}{169}{}
+{205}{Onde tá o melhor especialista em detectar armadilhas?}{}{-4}{tr7 1, tr7 -1, ru-2181}{173}{}
+{206}{E:}{}{1}{}{0}{}
+{210}{Muito engraçado. Circule, antes que eu seja forçado a prendê-lo.}{Muito engraçado. Circule, antes que eu seja forçado a prendê-lo.}{}{}{}{}
+

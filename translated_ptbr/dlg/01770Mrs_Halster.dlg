@@ -1,0 +1,40 @@
+{1}{G:}{}{}{}{}{}
+{2}{Olá. A senhora é a Sra. Halster?}{}{5}{qu1127 2}{7}{}
+{3}{Hã... Oi. A senhora é a Sra. Halster?}{}{-4}{qu1127 2}{7}{}
+{4}{Sra. Halster?}{}{5}{qu1134 2, in5243}{30}{}
+{5}{Hã... Senhora Halster?}{}{-4}{qu1134 2, in5243}{30}{}
+{6}{E:}{}{1}{}{0}{}
+{7}{Sim... Sim, sou eu.}{Sim... Sim, sou eu.}{}{}{}{}
+{8}{Ah, que bom. Tenho algo para a senhora.}{}{5}{}{27}{}
+{9}{Trouxe um presente para a senhora.}{}{5}{}{24}{}
+{10}{Olá, senhora. Estou entregando um presente. Aqui está.}{}{5}{}{15}{in 5667}
+{11}{Tá bom... Eu tenho uma coisa pra senhora...}{}{-4}{}{27}{}
+{12}{Eu tenho um presente pra senhora.}{}{-4}{}{24}{}
+{13}{Hã... Oi. Eu entrego presente pra senhora. Aqui.}{}{-4}{}{15}{in 5667}
+{14}{E:}{}{1}{}{0}{}
+{15}{Oh! Bem! Um presente? ...Pra mim? De quem?}{Oh! Bem! Um presente? ...Pra mim? De quem?}{}{}{}{}
+{16}{[você finge revirar alguns papéis na mão]}{}{1}{}{17}{}
+{17}{E então?}{E então?}{}{}{}{}
+{18}{Ah! Aqui está. Do Sr. Halster. Com todo o seu amor.}{}{5}{}{20}{}
+{19}{Oh. Aqui está. Do Senhor Halster. Com todo o amor dele.}{}{-4}{}{20}{}
+{20}{Oh! Que gentil da parte dele! E tão incomum! Ele deve realmente querer se reconciliar. [ela sorri feliz] Obrigada, senhor. Aqui está um agrado pelo seu trabalho. Adeus.}{Oh! Que gentil da parte dele! E tão incomum! Ele deve realmente querer se reconciliar. [ela sorri feliz] Obrigada, senhor. Aqui está um agrado pelo seu trabalho. Adeus.}{}{}{}{qu1127 3, $$20}
+{21}{Obrigado, senhora. Adeus.}{}{5}{}{0}{}
+{22}{Valeu. Falou.}{}{-4}{}{0}{}
+{23}{E:}{}{1}{}{0}{}
+{24}{Você? Por que traria um presente para mim? Eu não o conheço.}{Você? Por que traria um presente para mim? Eu não o conheço.}{}{}{}{}
+{25}{Hã... Não, senhora. Com licença... Estou entregando um presente. Aqui.}{}{5}{}{15}{in 5667}
+{26}{Hã... Não, senhora. Com licença... Eu entrego presente. Aqui.}{}{-4}{}{15}{in 5667}
+{27}{Tem algo para mim? O que quer dizer? Está tentando me roubar, rapaz!}{Tem algo para mim? O que quer dizer? Está tentando me roubar, rapaz!}{}{}{}{}
+{28}{Oh, não! ...não. Err... O que eu quis dizer é que trouxe um presente para a senhora.}{}{5}{}{24}{}
+{29}{Hã... Não! Não! ...hã... o que eu quis dizer é que tenho um presente pra senhora.}{}{-4}{}{24}{}
+{30}{Pois não?}{Pois não?}{}{}{}{}
+{31}{O Sr. Wright me enviou...}{}{5}{}{33}{}
+{32}{Mister rite send me...}{}{-4}{}{33}{}
+{33}{O Sr. Wright? Ah, sim... O pagamento. Você tem o bilhete?}{O Sr. Wright? Ah, sim... O pagamento. Você tem o bilhete?}{}{}{}{}
+{34}{Sim. Aqui está.}{}{5}{}{36}{in 5243}
+{35}{Sim. Aqui.}{}{-4}{}{36}{in 5243}
+{36}{[ela examina o bilhete] Sim. Tudo parece estar em ordem. Aqui está um pequeno algo pelo seu trabalho. Adeus.}{[ela examina o bilhete] Sim. Tudo parece estar em ordem. Aqui está um pequeno algo pelo seu trabalho, senhorita. Adeus.}{}{}{}{$$ 5, qu1134 3}
+{37}{Obrigado, senhora. Adeus.}{}{5}{}{0}{}
+{38}{Valeu. Falou.}{}{-4}{}{0}{}
+{39}{}{}{}{}{}{}
+

@@ -1,0 +1,108 @@
+{1}{G:}{G:}{}{}{}{ }
+{2}{W:}{}{5}{lf1 0, re41}{20}{lf1 1 }
+{3}{Devo ter ouvido mal...}{}{5}{re-40, ch10, lf1 0}{240}{re50, lf1 1 }
+{4}{Por favor, desculpe minha presença, senhor. Não quero ofender.}{}{5}{re-40, ch-9, lf1 0}{240}{re45, lf1 1 }
+{5}{Fale comigo assim de novo e você vai se arrepender seriamente.}{}{5}{re-40, sk2 12}{240}{re45, lf1 1 }
+{6}{W:}{}{-4}{lf1 0}{20}{lf1 1 }
+{7}{Decidi ajudar você a recuperar seu artefato sagrado.}{}{5}{qu1159 1, gf2647 0}{100}{qu1159 2, re+5 }
+{8}{Vou encontrar essa coisa pra você!}{}{-4}{qu1159 1, gf2647 0}{100}{qu1159 2, re+5 }
+{9}{Recuperei seu artefato. [Entregue a ele.]}{}{5}{in5697, qa1159 1}{260}{in5697, qu1159 4 }
+{10}{Peguei sua coisa! [Entregue a ele.]}{}{-4}{in5697, qa1159 1}{260}{in5697, qu1159 4 }
+{11}{Estou a caminho de recuperar seu artefato sagrado com Fahrkus.}{}{5}{ni5697, qa1159 1, gf2647 1}{0}{fl 250}
+{12}{Vou falar com Fahrkus e pegar sua coisa!}{}{-4}{ni5697, qa1159 1, gf2647 1}{0}{fl 250}
+{19}{E:}{}{1}{}{0}{ }
+{20}{[Este velho sacerdote enrugado parece estar com alguma dor.] Sou Arbalah, [ele se contorce] e você é?}{[Este velho sacerdote enrugado parece estar com alguma dor.] Sou Arbalah, [ele se contorce] e você é?}{}{}{}{ }
+{21}{Eu sou @pcname@.}{}{5}{}{30}{ }
+{22}{Eu sou o @pcname@!}{}{-4}{}{150}{ }
+{23}{Sou seu carrasco.}{}{5}{}{170}{ }
+{24}{Tô aqui pra te matar!}{}{-4}{}{170}{ }
+{30}{Bem, @pcname@, o que o traz à minha humilde fazenda?}{Bem, @pcname@, o que o traz à minha humilde fazenda?}{}{}{}{ }
+{31}{Fui enviado aqui pelo espírito de Brehgo.}{}{5}{}{40}{ }
+{32}{Fantasma do Bahrgo disse que eu preciso te matar!}{}{-4}{}{40}{ }
+{33}{Estou apenas viajando por aí... o que aconteceu com você?}{}{5}{}{200}{ }
+{40}{[Ele sorri.] Ele já está morto? Que... triste. Ele mandou você terminar o que não conseguiu?}{[Ele sorri.] Ele já está morto? Que... triste. Ele mandou você terminar o que não conseguiu?}{}{}{}{ }
+{41}{Já? Terminar o que ele começou? Do que você está falando?}{}{5}{}{50}{ }
+{42}{Do que cê tá falando?}{}{-4}{}{50}{ }
+{50}{Estou surpreso que o caminho dele tenha terminado tão cedo depois... depois de ter destruído o meu. Depois de eu ter oferecido comida e bebida a eles, ele e seu amigo, Fahrkus, creio que era esse o nome dele, reviraram minha casa em busca do que pudessem encontrar. Quando finalmente encontraram meu único objeto de valor, um artefato sagrado e santo, eles... mataram minha família. Me deixaram para morrer também...}{Estou surpreso que o caminho dele tenha terminado tão cedo depois... depois de ter destruído o meu. Depois de eu ter oferecido comida e bebida a eles, ele e seu amigo, Fahrkus, creio que era esse o nome dele, reviraram minha casa em busca do que pudessem encontrar. Quando finalmente encontraram meu único objeto de valor, um artefato sagrado e santo, eles... mataram minha família. Me deixaram para morrer também...}{}{}{}{gf2644 1 }
+{51}{Então você os amaldiçoou?}{}{5}{}{60}{ }
+{52}{Você botou maldição ruim neles!}{}{-4}{}{60}{ }
+{60}{[Ele se contorce de dor mais uma vez.] Deixei o sacerdócio há alguns anos, mas foi tudo o que consegui pensar em fazer, na minha dor e tristeza... suas almas nunca deixarão este plano de existência!}{[Ele se contorce de dor mais uma vez.] Deixei o sacerdócio há alguns anos, mas foi tudo o que consegui pensar em fazer, na minha dor e tristeza... suas almas nunca deixarão este plano de existência!}{}{}{}{ }
+{61}{E a maldição de loucura que fez Fahrkus matar Brehgo?}{}{5}{}{70}{ }
+{62}{E você fez Fahrkus matar Bahrgo?}{}{-4}{}{70}{ }
+{70}{Não, acredito que tenha sido a maldição da ganância. Se eu tivesse que adivinhar, Fahrkus decidiu que não queria dividir os ganhos ilícitos com ninguém. Pessoas desprezíveis...}{Não, acredito que tenha sido a maldição da ganância. Se eu tivesse que adivinhar, Fahrkus decidiu que não queria dividir os ganhos ilícitos com ninguém. Pessoas desprezíveis...}{}{}{}{ }
+{71}{Sinto muito pela sua perda.}{}{5}{}{80}{ }
+{72}{Sinto muito pela sua família ter morrido.}{}{-4}{}{80}{ }
+{73}{Essa foi uma ótima história, mas agora preciso te matar.}{}{5}{}{0}{fl 275 ,co}
+{74}{Tá bom. Já era pra você estar morto!}{}{-4}{}{0}{fl 275 ,co}
+{79}{E:}{}{1}{}{230}{ }
+{80}{Agradeço pelas suas palavras gentis... mas há algo mais. Preciso recuperar o artefato sagrado que eles roubaram... é muito importante para mim. Preciso dele para rezar aos meus deuses com eficácia. O Brehgo disse alguma coisa, deu alguma pista de onde possa estar?}{Agradeço pelas suas palavras gentis... mas há algo mais. Preciso recuperar o artefato sagrado que eles roubaram... é muito importante para mim. Preciso dele para rezar aos meus deuses com eficácia. O Brehgo disse alguma coisa, deu alguma pista de onde possa estar?}{}{}{}{qu1159 1 }
+{81}{Não, ele não nomeou.}{}{5}{}{90}{ }
+{82}{Não.}{}{-4}{}{90}{ }
+{90}{[Ele se aproxima mancando um pouco.] Sei que não é da sua conta, mas poderia me ajudar a localizar o que é meu por direito?}{[Ele se aproxima mancando um pouco.] Sei que não é da sua conta, mas poderia me ajudar a localizar o que é meu por direito?}{}{}{}{ }
+{91}{É o mínimo que posso fazer. Tem alguma ideia de por onde devo começar?}{}{5}{}{100}{qu1159 2, re+10 }
+{92}{Tá bom. O que eu faço?}{}{-4}{}{110}{qu1159 2, re+10 }
+{93}{Isso depende do que isso valeria para você...}{}{5}{}{130}{ }
+{94}{Não sei. O que você me dá?}{}{-4}{}{130}{ }
+{95}{Você tem razão, não é da minha conta. Tenha um bom dia.}{}{5}{}{0}{re-5 }
+{96}{Não quero. Vou embora agora.}{}{-4}{}{0}{ }
+{99}{Sinto muito pela sua perda, mas tenho preocupações mais urgentes.}{}{5}{}{0}{ }
+{100}{Excelente... talvez nosso amigo, o falecido Sr. Brehgo, tenha alguma informação que possa lhe passar sobre a localização da minha posse sagrada... [ele sorri para você, calorosamente]. Agradeço pela sua bondade, embora lamente não ter nada para lhe dar em troca da sua ajuda.}{Excelente... talvez nosso amigo, o falecido Sr. Brehgo, tenha alguma informação que possa lhe passar sobre a localização da minha posse sagrada... [ele sorri para você, calorosamente]. Agradeço pela sua bondade, embora lamente não ter nada para lhe dar em troca da sua ajuda.}{}{}{}{ }
+{101}{Voltarei quando tiver recuperado sua propriedade, senhor.}{}{5}{}{0}{ }
+{110}{Bem, meu amigo simplório, talvez você pudesse tentar fazer nosso amigo, o falecido Sr. Brehgo, revelar para onde seu companheiro, agora assassino, fugiu, hein?}{Bem, meu amigo simplório, talvez você pudesse tentar fazer nosso amigo, o falecido Sr. Brehgo, revelar para onde seu companheiro, agora assassino, fugiu, hein?}{}{}{}{ }
+{111}{Hã?}{}{5}{}{120}{ }
+{120}{VÁ FALAR COM O CARA MORTO E PERGUNTE PRA ONDE FOI O SUJEITO QUE O MATOU!}{VÁ FALAR COM O CARA MORTO E PERGUNTE PRA ONDE FOI O SUJEITO QUE O MATOU!}{}{}{}{ }
+{121}{TÁ BOM!}{}{-4}{}{0}{ }
+{130}{Receio não ser alguém que acumula posses materiais. Não tenho nada para lhe oferecer pela sua ajuda, a não ser minha gratidão.}{Receio não ser alguém que acumula posses materiais. Não tenho nada para lhe oferecer pela sua ajuda, a não ser minha gratidão.}{}{}{}{ }
+{131}{Hmmm... acho que ajudar você seria a coisa certa a fazer...}{}{5}{}{280}{qu1159 2, re+10 }
+{132}{Não trabalho de graça, senhor. Tenha um bom dia!}{}{5}{}{0}{re-5 }
+{133}{Hã?}{}{-4}{}{140}{ }
+{139}{Sinto muito, mas tenho preocupações mais urgentes.}{}{5}{}{0}{ }
+{140}{NÃO TENHO NADA PARA LHE DAR ALÉM DOS MEUS AGRADECIMENTOS!}{NÃO TENHO NADA PARA LHE DAR ALÉM DOS MEUS AGRADECIMENTOS!}{}{}{}{ }
+{141}{Ah... tá bom!! O que eu preciso fazer?}{}{-4}{}{110}{qu1159 2, re+10 }
+{149}{Não quero. Vou embora agora.}{}{-4}{}{0}{ }
+{150}{[Ele olha para você estranhamente.] Tem algo errado, meu irmão?}{[Ele olha para você estranhamente.] Tem algo errado, minha irmã?}{}{}{}{ }
+{151}{Hurgh? Uhhh... não? Tô bem!!!}{}{-4}{}{160}{ }
+{160}{Entendo... que triste. Bem, meu... amigo de pensamentos simples, o que o traz à minha fazenda?}{Vejo... que tristeza. Bem, meu... amigo de pensamentos simples, o que o traz à minha fazenda?}{}{}{}{ }
+{161}{O fantasma do Brehgo disse que preciso matar você!}{}{-4}{}{40}{ }
+{170}{[Ele não parece alarmado com sua declaração.] Oh? E por quê?}{[Ele não parece alarmado com sua declaração.] Oh? E por que isso?}{}{}{}{ }
+{171}{Estou aqui para buscar vingança pela maldição sobre o pobre e morto Brehgo!}{}{5}{}{180}{ }
+{172}{Eu mato você porque você amaldiçoou meu amigo morto, Bugghoe!}{}{-4}{}{180}{ }
+{180}{Morto? Já? Não deveria me surpreender. [Ele estremece de dor.] Deixe-me contar o que aconteceu aqui, e então você pode decidir em quem acreditar.}{Morto? Já? Não deveria me surpreender. [Ele estremece de dor.] Deixe-me contar o que aconteceu aqui, e então você pode decidir em quem acreditar.}{}{}{}{ }
+{181}{Estou ouvindo.}{}{5}{}{190}{ }
+{182}{Otá! Então eu mato você!}{}{-4}{}{190}{ }
+{183}{Não estou interessado em ouvir suas mentiras, cão! Prepare-se para morrer!}{}{5}{}{0}{fl 275 ,co}
+{184}{Eu num quero ouvir! Eu quero matar!}{}{-4}{}{0}{fl 275 ,co}
+{190}{Ele e seu amigo, Fahrkus, se não me engano, vieram à minha casa em busca de sustento, ou pelo menos foi o que disseram. Depois que os alimentei, eles me aterrorizaram, aterrorizaram minha família e saquearam minha casa em busca do que pudessem encontrar. Quando finalmente encontraram meu único objeto de valor, um artefato sagrado e santo, eles... mataram minha família. Me deixaram para morrer também...}{Ele e seu amigo, Fahrkus, se não me engano, vieram à minha casa em busca de sustento, ou pelo menos foi o que disseram. Depois que os alimentei, eles me aterrorizaram, aterrorizaram minha família e saquearam minha casa em busca do que pudessem encontrar. Quando finalmente encontraram meu único objeto de valor, um artefato sagrado e santo, eles... mataram minha família. Me deixaram para morrer também...}{}{}{}{gf2644 1 }
+{191}{Então você os amaldiçoou?}{}{5}{}{60}{ }
+{192}{Você deu maldições ruins pra eles!}{}{-4}{}{60}{ }
+{200}{Minha família foi brutalmente assassinada por dois loucos, Brehgo e Fahrkus, se não me engano. Fui deixado para morrer. Eu os recebi em minha casa, ofereci-lhes sustento, e eles me retribuíram matando minha esposa e filhos e roubando a única coisa que eu tinha de valor, um artefato religioso sagrado.}{Minha família foi brutalmente assassinada por dois loucos, Brehgo e Fahrkus, se não me engano. Fui deixado para morrer. Eu os recebi em minha casa, ofereci-lhes sustento, e eles me retribuíram matando minha esposa e filhos e roubando a única coisa que eu tinha de valor, um artefato religioso sagrado.}{}{}{}{gf2644 1 }
+{201}{Eu encontrei o espírito de um desses assassinos...}{}{5}{}{210}{ }
+{202}{Eu falei com o fantasma que disse que você amaldiçoou ele!}{}{-4}{}{210}{ }
+{203}{Não estou interessado em ouvir suas mentiras, cão! Prepare-se para morrer!}{}{5}{}{0}{fl 275 ,co}
+{204}{Tá bom. Eu mato você agora!}{}{-4}{}{0}{fl 275 ,co}
+{210}{Um deles já está morto? Não deveria me surpreender. Provavelmente morto pelo outro, eu suporia. Pessoas terrivelmente más, eles eram...}{Um deles já está morto? Não deveria me surpreender. Provavelmente morto pelo outro, eu suporia. Pessoas terrivelmente más, eles eram...}{}{}{}{ }
+{211}{O Brehgo me disse que sua maldição fez o amigo dele se voltar contra ele.}{}{5}{}{220}{ }
+{212}{O fantasma disse que sua maldição fez o outro cara matar ele!}{}{-4}{}{220}{ }
+{220}{Não, acredito que aquela foi a maldição da ganância. Suas almas nunca deixarão este plano de existência, mas essa foi a única maldição que lancei sobre eles... se eu tivesse que adivinhar, Fahrkus decidiu que não queria dividir os ganhos ilícitos com ninguém. Como eu disse, eram indivíduos verdadeiramente malignos...}{Não, acredito que aquela foi a maldição da ganância. Suas almas nunca deixarão este plano de existência, mas essa foi a única maldição que lancei sobre eles... se eu tivesse que adivinhar, Fahrkus decidiu que não queria dividir os ganhos ilícitos com ninguém. Como eu disse, eram indivíduos verdadeiramente malignos...}{}{}{}{ }
+{221}{Sinto muito pela sua perda.}{}{5}{}{80}{ }
+{222}{Sinto muito que sua família tenha morrido.}{}{-4}{}{80}{ }
+{223}{Essa foi uma ótima história, mas agora preciso matá-lo.}{}{5}{}{0}{fl 275 ,co}
+{224}{Tá na hora de você morrer!}{}{-4}{}{0}{fl 275 ,co}
+{229}{E:}{}{1}{}{230}{ }
+{230}{Por favor, antes de partir, se me permite... há mais uma coisa. Preciso recuperar o artefato sagrado que eles roubaram... é muito importante para mim. Preciso dele para orar aos meus deuses com eficácia. Brehgo disse algo, deu alguma pista sobre onde possa estar?}{Por favor, antes de partir, se me permite... há mais uma coisa. Preciso recuperar o artefato sagrado que eles roubaram... é muito importante para mim. Preciso dele para orar aos meus deuses com eficácia. Brehgo disse algo, deu alguma pista sobre onde possa estar?}{}{}{}{qu1159 1 }
+{231}{Não, ele não nomeou.}{}{5}{}{90}{ }
+{232}{Não.}{}{-4}{}{90}{ }
+{240}{Claro, claro... [Este velho sacerdote enrugado parece estar com alguma dor.] Onde estão meus modos... permiti que minhas circunstâncias afetassem minhas emoções. Espero que possa me perdoar. Sou conhecido como Arbalah, [ele faz uma careta] e você é?}{Claro, claro... [Este velho sacerdote enrugado parece estar com alguma dor.] Onde estão meus modos... permiti que minhas circunstâncias afetassem minhas emoções. Espero que possa me perdoar. Sou conhecido como Arbalah, [ele faz uma careta] e você é?}{}{}{}{ }
+{241}{Eu sou @pcname@.}{}{5}{}{30}{ }
+{242}{Eu sou o @pcname@!}{}{-4}{}{150}{ }
+{243}{Sou seu carrasco.}{}{5}{}{170}{ }
+{244}{Eu vim aqui pra te matar!}{}{-4}{}{170}{ }
+{245}{Eu sou @pcname@. O que aconteceu com você?}{}{5}{}{200}{ }
+{250}{Que os deuses acelerem sua jornada, meu filho.}{Que os deuses acelerem sua jornada, minha filha.}{}{}{}{ }
+{260}{Agradeço-lhe, assim como os espíritos de meus ancestrais. Devo admitir que também menti para você antes... [ele sorri gentilmente]. Tenho algo para lhe dar, algo de valor inestimável. Eu lhe concedo minha bênção... todos que você encontrar agora reagirão de forma mais favorável a você do que talvez fizessem no passado.}{Agradeço-lhe, assim como os espíritos de meus ancestrais. Devo admitir que também menti para você antes... [ele sorri gentilmente]. Tenho algo para lhe dar, algo de valor inestimável. Eu lhe concedo minha bênção... todos que você encontrar agora reagirão de forma mais favorável a você do que talvez fizessem no passado.}{}{}{}{ }
+{261}{A:}{}{1}{}{-4}{ }
+{270}{Obrigado por devolver minha posse mais sagrada.}{Obrigado por devolver minha posse mais sagrada.}{}{}{}{ }
+{275}{Lamento ter que matá-lo desta forma.}{Lamento ter que matá-lo desta forma.}{}{}{}{ }
+{280}{Excelente... talvez nosso amigo, o falecido Sr. Brehgo, tenha alguma informação que possa lhe passar sobre a localização de minha posse sagrada...}{Excelente... talvez nosso amigo, o falecido Sr. Brehgo, tenha alguma informação que possa lhe passar sobre a localização de minha posse sagrada...}{}{}{}{ }
+{281}{Voltarei quando tiver recuperado sua propriedade, senhor.}{}{5}{}{0}{ }
+

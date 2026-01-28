@@ -1,0 +1,108 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{O que você sabe, amigo?}{}{5}{}{-5}{}
+{3}{Hã... o que tá acontecendo?}{}{-4}{}{-5}{}
+{5}{Ah, não muito. Uma vergonha sangrenta esse acidente do IFS Zéfiro, não acha? Sabe alguma coisa sobre isso, amigo?}{Ah, não muito. Uma vergonha sangrenta esse acidente do IFS Zéfiro, não acha? Sabe alguma coisa sobre isso, amigo?}{}{}{}{}
+{6}{Claro. Fui o único sobrevivente... [Conte a história.]}{}{5}{gf2476 0}{}{co, fl 49}
+{7}{Não. Não posso dizer que saiba...}{}{5}{gf2476 0}{22}{}
+{8}{Ah, sim! Eu estava no dirigível! [Conte a história.]}{}{-4}{gf2476 0}{}{co, fl 49}
+{9}{Não... eu não sei nada sobre isso...}{}{-4}{gf2476 0}{22}{}
+{10}{Claro. Fui o único sobrevivente... [Conte a história.]}{}{5}{gf2476 1}{167}{}
+{11}{Não. Não posso dizer que saiba...}{}{5}{gf2476 1}{165}{}
+{12}{Ah, sim! Eu estava no dirigível! [Conte a história.]}{}{-4}{gf2476 1}{167}{}
+{13}{Não... eu não sei nada sobre isso...}{}{-4}{gf2476 1}{165}{}
+{22}{Sério? Tem certeza disso, senhor? Acho que você sabe muito mais do que está deixando transparecer...}{Sério? Tem certeza disso, senhorita? Acho que você sabe muito mais do que está deixando transparecer...}{}{}{}{}
+{23}{Eu já disse, não sei de nada sobre isso, amigo...}{}{5}{ps 15}{39}{}
+{24}{Eu já disse, não sei de nada sobre isso, amigo...}{}{5}{ps -14}{}{co, fl 49}
+{25}{Eu já disse... não sei de nada...}{}{-4}{ps 15}{39}{}
+{26}{Eu já disse... não sei de nada...}{}{-4}{ps -14}{}{co, fl 49}
+{28}{Ei! Você é aquele sujeito que sobreviveu ao acidente do dirigível! Li sobre você no Tarantiano!}{Ei! Você é aquele sujeito que sobreviveu ao acidente do dirigível! Li sobre você no Tarantiano!}{}{}{}{}
+{29}{Sim... fui eu.}{}{5}{gf2476 0}{}{co, fl 49}
+{30}{Desculpe... você deve estar me confundindo com outra pessoa...}{}{5}{ps 19, gf2476 0}{39}{}
+{31}{Desculpe... você deve estar me confundindo com outra pessoa...}{}{5}{ps -18, gf2476 0}{41}{}
+{32}{Ah, sim! Fui eu!}{}{-4}{gf2476 0}{}{co, fl 49}
+{33}{Não fui eu. Outra pessoa...}{}{-4}{ps 19, gf2476 0}{39}{}
+{34}{Não fui eu. Outra pessoa...}{}{-4}{ps -18, gf2476 0}{41}{}
+{35}{Sim... fui eu.}{}{5}{gf2476 1}{167}{}
+{36}{Desculpe... você deve estar me confundindo com outra pessoa...}{}{5}{gf2476 1}{165}{}
+{37}{Ah, sim! Fui eu!}{}{-4}{gf2476 1}{167}{}
+{38}{Não fui eu. Outra pessoa...}{}{-4}{gf2476 1}{165}{}
+{39}{Entendo. Hmmm. Devo ter confundido a pessoa. Bem, tenha um bom dia, senhor...}{Entendo. Hmmm. Devo ter confundido a pessoa. Bem, tenha um bom dia, senhora...}{}{}{}{}
+{40}{E:}{}{1}{}{0}{lf1 1}
+{41}{Não, tenho certeza disso. E não gosto nem um pouco de ser enganado, senhor. Nem um pouco...}{Não, tenho certeza disso. E não gosto nem um pouco de ser enganada, senhorita. Nem um pouco...}{}{}{}{}
+{42}{Eu já disse, não sou essa pessoa...}{}{5}{}{}{co, fl 49}
+{43}{Não! Eu não sei do que você está falando!}{}{-4}{}{}{co, fl 49}
+{49}{Você não pode se esconder de nós, tolo! Nós somos a Mão Molocheana! Morra!}{Você não pode se esconder de nós, tolo! Nós somos a Mão Molocheana! Morra!}{}{}{}{}
+{61}{Você já ouviu falar do Sr. Gilbert Bates? É uma pena o que aconteceu com ele... seu nome sendo arrastado pelos jornais e tudo mais. Não é, amigo?}{Você já ouviu falar do Sr. Gilbert Bates? É uma pena o que aconteceu com ele... seu nome sendo arrastado pelos jornais e tudo mais. Não é, amiga?}{}{}{}{}
+{62}{Eu não sei nada sobre isso...}{}{5}{ps 19}{69}{}
+{63}{Eu não sei nada sobre isso...}{}{5}{ps -18}{78}{}
+{64}{Sim, uma verdadeira pena...}{}{5}{}{69}{}
+{65}{Eu num sei do que cê tá falando...}{}{-4}{ps 19}{69}{}
+{66}{Eu num sei do que cê tá falando...}{}{-4}{ps -18}{78}{}
+{67}{Ah, é, que triste...}{}{-4}{}{69}{}
+{69}{Entendo. Eu teria jurado que você... mas vejo que estava errado. Isso é uma sorte para você. Tenha um bom dia, senhor.}{Entendo. Eu teria jurado que você... mas vejo que estava errada. Isso é uma sorte para você. Tenha um bom dia, senhora.}{}{}{}{}
+{70}{E:}{}{1}{}{0}{lf1 1}
+{75}{Sim. É uma verdadeira pena. Especialmente para você...}{Sim. É uma verdadeira pena. Especialmente para você...}{}{}{}{}
+{76}{O quê...?}{}{1}{}{}{co, fl 82}
+{78}{Sério, amigo? Porque eu teria jurado, só de olhar para você, que sabia bastante sobre o assunto. BASTANTE...}{Sério, amiga? Porque eu teria jurado, só de olhar para você, que sabia bastante sobre o assunto. BASTANTE...}{}{}{}{}
+{79}{Como eu já disse, não sei do que você está falando...}{}{5}{}{}{co, fl 82}
+{80}{Hã... não sei...}{}{-4}{}{}{co, fl 82}
+{82}{Seu bastardo traidor! O Sr. Bates manda lembranças!}{Sua bastarda traidora! O Sr. Bates manda lembranças!}{}{}{}{}
+{84}{Estou só tomando uma bebida. Talvez você se interesse por um jogo de inteligência? Aposto 20 moedas que você não sabe a resposta para uma pergunta que tenho. O que me diz?}{Estou só tomando uma bebida. Talvez você se interesse por um jogo de inteligência? Aposto 20 moedas que você não sabe a resposta para uma pergunta que tenho. O que me diz?}{}{}{}{}
+{85}{Claro...}{}{5}{}{97}{}
+{86}{Não tenho 20 moedas. Talvez você prefira jogar dados?}{}{5}{}{93}{}
+{87}{Eu preferiria jogar dados...}{}{5}{}{93}{}
+{88}{Hã... claro!}{}{-4}{}{97}{}
+{89}{Eu não tenho dinheiro... jogar dados, talvez?}{}{-4}{}{93}{}
+{90}{Eu gosto mais de dados...}{}{-4}{}{93}{}
+{91}{E:}{}{1}{}{93}{}
+{93}{Não, eu realmente acho que você deveria tentar responder essa pergunta. Sem cobrar, é claro...}{Não, eu realmente acho que você deveria tentar responder essa pergunta. Sem cobrar, é claro...}{}{}{}{}
+{94}{Tudo bem...}{}{5}{}{97}{}
+{95}{Ah... tá bom!}{}{-4}{}{97}{}
+{97}{Quem é o mentiroso, desonroso e covarde que traiu Gilbert Bates?}{Quem é a mentirosa, desonrosa e covarde que traiu Gilbert Bates?}{}{}{}{}
+{98}{Edward Willoughsby}{}{1}{}{}{co, fl 105}
+{99}{Cedric Appleby}{}{1}{}{}{co, fl 105}
+{100}{Franklin Payne}{}{1}{}{}{co, fl 105}
+{101}{Nasrudin}{}{1}{}{}{co, fl 105}
+{102}{Fui eu, seu porco nojento!}{}{5}{}{}{co, fl 107}
+{103}{Fui eu, seu idiota!}{}{-4}{}{}{co, fl 107}
+{105}{Errado! É você, cretino! O Sr. Bates manda lembranças!}{Errado! É você, cretino! O Sr. Bates manda lembranças!}{}{}{}{}
+{107}{Bastardo! O Sr. Bates manda lembranças!}{Sua vadia! O Sr. Bates manda lembranças!}{}{}{}{}
+{110}{Nada. E recomendo que guarde suas perguntas para si. Tenha um bom dia, senhor...}{Nada. E recomendo que guarde suas perguntas para si. Tenha um bom dia, senhora...}{}{}{}{}
+{111}{E:}{}{1}{}{0}{lf1 1}
+{115}{Estou tentando aproveitar minha bebida, e aí você vem aqui me incomodar. Acho isso muito rude. Você vai ter que aprender uma lição...}{Estou tentando aproveitar minha bebida, e aí você vem aqui me incomodar. Acho isso muito rude. Você vai ter que aprender uma lição...}{}{}{}{}
+{116}{Por favor, senhor. Não me machuque. Sou fraco e sem valor.}{}{5}{}{147}{}
+{117}{[Recatadamente.] Deve haver ALGO que possamos fazer a respeito...}{0}{5}{}{140}{}
+{118}{Eu SÉRIAMENTE recomendo que peça desculpas, senhor...}{}{5}{}{-25}{}
+{119}{Talvez você precise reconsiderar sua opinião sobre mim, senhor...}{}{5}{ch 13}{137}{}
+{120}{Ninguém fala comigo assim. Até a morte!}{}{5}{}{}{co, fl 126}
+{121}{Por favor! Só me deixe em paz!}{}{-4}{}{147}{}
+{122}{Você não fala assim comigo. Peça desculpas!}{}{-4}{}{-25}{}
+{123}{Hã... acho que vou só esmagar sua cabeça...}{}{-4}{}{}{}
+{126}{Você mexeu com o homem errado!}{Você mexeu com o homem errado!}{}{}{}{}
+{128}{[Ele te examina, avaliando sua força óbvia.] Hmmm. Talvez você tenha razão. Vou cuidar da minha vida...}{[Ele te examina, avaliando sua força óbvia.] Hmmm. Talvez você tenha razão. Vou cuidar da minha vida...}{}{}{}{}
+{129}{E:}{}{1}{}{0}{lf1 1}
+{131}{[Ele olha para você, avaliando sua força.] Pedir desculpas? Para um fracote como você? Isso seria o dia, senhor. Não, acho que você está pedindo por isso...}{[Ele olha para você, avaliando sua força.] Pedir desculpas? Para um fracote como você? Isso seria o dia, moça. Não, acho que você está pedindo por isso...}{}{}{}{}
+{132}{Espere...!}{}{5}{}{}{co, fl 126}
+{133}{Tudo bem. É a sua morte, idiota...!}{}{5}{}{}{co, fl 126}
+{134}{Hã... espere...!}{}{-4}{}{}{co, fl 126}
+{135}{Vou te matar...}{}{-4}{}{}{co, fl 126}
+{137}{[Ele olha para você, fazendo uma afirmação.] É, talvez você tenha razão. Você não parece ser um mau sujeito, afinal. Tenha um bom dia...}{[Ele olha para você, fazendo uma afirmação.] É, talvez você tenha razão. Você não parece ser uma má moça, afinal. Tenha um bom dia...}{}{}{}{}
+{138}{E:}{}{5}{}{0}{lf1 1}
+{140}{[Ele te mede, com olhar faminto.] Claro, moça... você pode me dar um beijo e não se machucar. O que me diz?}{[Ele te mede, com olhar faminto.] Claro, moça... você pode me dar um beijo e não se machucar. O que me diz?}{}{}{}{}
+{141}{Claro. [Beijá-lo.]}{}{5}{}{144}{}
+{142}{Como se eu fosse beijar um inseto patético e nojento como você...}{}{5}{}{}{co, fl 126}
+{144}{Boa moça. [Ele dá um tapinha em seu traseiro.] Agora suma daqui e fique fora do meu caminho...}{Boa moça. [Ele dá um tapinha em seu traseiro.] Agora suma daqui e fique fora do meu caminho...}{}{}{}{}
+{145}{E:}{}{5}{}{0}{}
+{147}{[O homem dá uma risadinha.] Claro. Vou deixar você em paz, covarde. Logo depois que você beijar meus pés. Vá em frente...}{[O homem dá uma risadinha.] Claro. Vou deixar você em paz, vadia. Logo depois que você beijar meus pés. Vá em frente...}{}{}{}{}
+{148}{Claro, senhor. [Beijar seus pés.]}{}{5}{}{153}{}
+{149}{Seu idiota. Você vai morrer por sugerir isso...}{}{5}{}{}{co, fl 126}
+{150}{Tá bom! [Beijar seus pés.]}{}{-4}{}{153}{}
+{151}{Hã... talvez eu te mate em vez disso...}{}{-4}{}{}{co, fl 126}
+{153}{Bom garoto. Apenas faça o que mandam, e tudo ficará bem. [Ele dá um tapinha em sua cabeça.] Agora suma daqui...}{Boa moça. Apenas faça o que mandam, e tudo ficará bem. [Ele dá um tapinha em sua cabeça.] Agora suma daqui...}{}{}{}{}
+{154}{E:}{}{5}{}{0}{lf1 1}
+{160}{Deixe-me em paz, senhor...}{Deixe-me em paz, moça...}{}{}{}{}
+{165}{Não precisa mentir para mim, amigo. (Ele faz um aceno solene.) A Mão não vai mais te incomodar...}{Não precisa mentir para mim, amigo. (Ele faz um aceno solene.) A Mão não vai mais te incomodar...}{}{}{}{}
+{166}{E:}{}{1}{}{0}{lf1 1}
+{167}{O senhor deveria ter mais cuidado com quem conta tais coisas. (O homem afasta a gola, mostrando-lhe o amuleto da Mão Molocheana.) Não o incomodaremos mais, mas outros podem não ser tão compreensivos.}{A senhora deveria ter mais cuidado com quem conta tais coisas. (O homem afasta a gola, mostrando-lhe o amuleto da Mão Molocheana.) Não a incomodaremos mais, mas outros podem não ser tão compreensivos.}{}{}{}{}
+{168}{E:}{}{1}{}{0}{lf1 1}
+

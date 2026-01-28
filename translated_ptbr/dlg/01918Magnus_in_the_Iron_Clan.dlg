@@ -1,0 +1,34 @@
+{1}{Eu... eu não consigo acreditar...}{Eu... eu não consigo acreditar...}{}{1}{}{gf2462 1, fp}
+{2}{<<<PH1>>>...?}{}{1}{}{4}{}
+{4}{Diga-me, meu amigo... você reconhece aquele símbolo na parede...?}{Diga-me, meu amigo... você reconhece aquele símbolo na parede...?}{}{2}{}{}
+{5}{Acho que não, <<<PH1>>>... o que é?}{}{5}{}{8}{}
+{6}{Hã... o que é isso...?}{}{-4}{}{8}{}
+{8}{[Ele olha para você.] É o símbolo do meu clã perdido... o símbolo nas manoplas que meu avô me deu. Ele disse que era o símbolo da nossa família. [Ele olha de volta para a parede.] O símbolo do Clã de Ferro...}{[Ele olha para você.] É o símbolo do meu clã perdido... o símbolo nas manoplas que meu avô me deu. Ele disse que era o símbolo da nossa família. [Ele olha de volta para a parede.] O símbolo do Clã de Ferro...}{}{3}{}{}
+{9}{Acho que você está certo, <<<PH1>>>...}{}{5}{pa 6557}{-4}{}
+{10}{É, <<<PH1>>>! São os mesmos...!}{}{-4}{pa -6557}{15}{}
+{12}{[<<<PH1>>> balança a cabeça, incrédulo.] Não consigo acreditar. Quer dizer, o Clã de Ferro... meu avô me contava histórias sobre eles, lendas... Nunca pensei que fossem reais. Nunca sonhei que eu iria, quer dizer, que eu sou...}{[<<<PH1>>> balança a cabeça, incrédulo.] Não consigo acreditar. Quer dizer, o Clã de Ferro... meu avô me contava histórias sobre eles, lendas... Nunca pensei que fossem reais. Nunca sonhei que eu iria, quer dizer, que eu sou...}{}{4}{}{}
+{13}{[Ouvir.]}{}{1}{}{-12}{}
+{15}{[<<<PH1>>> balança a cabeça, incrédulo.] Não consigo acreditar. Quer dizer, o Clã de Ferro... meu avô me contava histórias sobre eles, lendas... Nunca pensei que fossem reais. Nunca sonhei que eu iria, quer dizer, que eu sou...}{[<<<PH1>>> balança a cabeça, incrédulo.] Não consigo acreditar. Quer dizer, o Clã de Ferro... meu avô me contava histórias sobre eles, lendas... Nunca pensei que fossem reais. Nunca sonhei que eu iria, quer dizer, que eu sou...}{}{5}{}{}
+{16}{<<<PH1>>>, o que você vai fazer agora?}{}{5}{}{19}{}
+{17}{Hã... <<<PH1>>>, o que você vai fazer agora...?}{}{-4}{}{19}{}
+{19}{Eu... eu suponho que vou reconstruir o clã. [Ele ri.] Não parece possível, mas lá está! O símbolo do meu povo! [Seu rosto fica mais sério.] Tenho um grande legado a honrar, e o farei...}{Eu... eu suponho que vou reconstruir o clã. [Ele ri.] Não parece possível, mas lá está! O símbolo do meu povo! [Seu rosto fica mais sério.] Tenho um grande legado a honrar, e o farei...}{}{6}{}{}
+{20}{Então, você encontrou seu clã. Isso significa que vamos nos separar...?}{}{5}{}{31}{}
+{21}{Você encontrou seu clã! Vai embora agora?}{}{-4}{}{31}{}
+{23}{Sim, claro. Tenho muito em que pensar, muito a considerar. Mas, independentemente da escolha feita, eu também prometo a amizade do Clã de Ferro a você, Loghaire Pedra do Trovão. Você é verdadeiramente um anão entre anões, e foi uma honra lutar ao seu lado...}{Sim, claro. Tenho muito em que pensar, muito a considerar. Mas, independentemente da escolha feita, eu também prometo a amizade do Clã de Ferro a você, Loghaire Pedra do Trovão. Você é verdadeiramente um anão entre anões, e foi uma honra lutar ao seu lado...}{}{7}{}{}
+{24}{<<<PH1>>>, o que você vai fazer agora?}{}{5}{}{27}{}
+{25}{Hã... <<<PH1>>>, o que você vai fazer agora...?}{}{-4}{}{27}{}
+{27}{Hã? O que você quer dizer?}{Hã? O que você quer dizer?}{}{8}{}{}
+{28}{Você encontrou seu clã. Isso significa que vamos nos separar...?}{}{5}{}{31}{}
+{29}{Você encontrou seu clã! Vai embora agora?}{}{-4}{}{31}{}
+{31}{Nos separar? O quê, está louco? Meu lugar é com você! Como se você pudesse se virar sem mim! Você vai precisar de um anão do Clã de Ferro se quiser sair dessa inteiro! [Mais sério.] Eu fico com você, se me aceitar...}{Nos separar? O quê, você está louco? Meu lugar é ao seu lado! Como se você fosse se virar sem mim! Você vai precisar de um anão do Clã de Ferro se quiser sair dessa confusão inteiro! [Mais sério.] Eu fico com você, se me aceitar...}{}{9}{}{}
+{32}{Então você virá comigo...?}{}{5}{}{43}{jo 0 40}
+{33}{Para ser sincero, eu preferiria que você não viesse junto...}{}{5}{}{37}{}
+{34}{Então você vem comigo...?}{}{-4}{}{43}{jo 0 40}
+{35}{Hmm... acho que não quero mais você comigo...}{}{-4}{}{37}{}
+{37}{Entendo. [Magnus parece um pouco decepcionado, mas assente com a cabeça.] Eu suponho que esse dia tinha que chegar. Desejo o melhor a você, meu amigo. Eu, Magnus Punho de Xisto do Clã de Ferro, sempre serei seu amigo...}{Entendo. [Magnus parece um pouco decepcionado, mas assente com a cabeça.] Eu suponho que esse dia tinha que chegar. Desejo o melhor a você, meu amigo. Eu, Magnus Punho de Xisto do Clã de Ferro, sempre serei seu amigo...}{}{10}{}{}
+{38}{E:}{}{1}{}{-21}{}
+{40}{Claro, seu idiota! Não poderia ser diferente! Vamos terminar isso juntos, seja lá o que vier...}{Claro, seu idiota! Não poderia ser diferente! Vamos terminar isso juntos, seja lá o que vier...}{}{11}{}{}
+{41}{E:}{}{1}{}{-21}{}
+{43}{Parece que nos separamos aqui, por enquanto. Boa sorte, meu amigo...}{Parece que nos separamos aqui, por enquanto. Boa sorte, meu amigo...}{}{12}{}{}
+{44}{E:}{}{1}{}{-21}{}
+

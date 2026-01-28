@@ -1,0 +1,55 @@
+{1}{Saudações, senhor. Posso ser de alguma ajuda?}{Saudações, senhora. Posso ser de alguma ajuda?}{}{}{}{}
+{2}{Sim. Posso saber quem é você?}{}{5}{me 0}{8}{}
+{3}{Olá, Wesley. Tem um momento?}{}{5}{me 1}{16}{}
+{4}{Hã... oi! Quem é você?}{}{-4}{me 0}{8}{}
+{5}{Oi, Westy!}{}{-4}{me 1}{13}{}
+{6}{E:}{}{1}{me 1}{}{}
+{8}{Claro, senhor. Sou Wesley Carrington, o mordomo da residência dos Misk.}{Claro, senhora. Sou Wesley Carrington, o mordomo da residência dos Misk.}{}{}{}{}
+{9}{Entendo. Posso lhe fazer algumas perguntas, Wesley?}{}{5}{}{16}{}
+{10}{Oi! Posso te fazer algumas perguntas, Westy?}{}{-4}{}{13}{}
+{11}{E:}{}{1}{}{0}{}
+{13}{[Ele levanta o nariz, obviamente desgostoso com sua falta de intelecto.] Desculpe-me, senhor. Mas tenho deveres em outro lugar. Tenha um bom dia.}{[Ele levanta o nariz, obviamente desgostoso com sua falta de intelecto.] Desculpe-me, senhora. Mas tenho deveres em outro lugar. Tenha um bom dia.}{}{}{}{}
+{14}{E:}{}{1}{}{0}{}
+{16}{Claro, senhor...}{Claro, senhora...}{}{}{}{}
+{17}{Onde posso encontrar o Sr. Victor Misk?}{}{5}{gf2521 0, lf1 0}{30}{lf1 1}
+{18}{Tenho algumas perguntas sobre aquele livro do Sr. Wales...}{}{5}{gf2521 1}{35}{}
+{19}{Nenhuma pergunta por enquanto, Wesley. Tenha um bom dia...}{}{5}{}{0}{}
+{30}{[Seu rosto empalidece.] O senhor não ficou sabendo...? Ah, entendo. Talvez devesse falar com a Sra. Misk. Ela está na sala de estar, senhor...}{[Seu rosto empalidece.] A senhora não ficou sabendo...? Ah, entendo. Talvez devesse falar com a Sra. Misk. Ela está na sala de estar, senhora...}{}{}{}{}
+{31}{Vou fazer isso. Obrigado, Wesley...}{}{5}{}{0}{}
+{35}{[Seus olhos se arregalam, levemente.] O senhor se refere a "A Maldição de T'sen-Ang"? Àquela bobagem? Estou surpreso que tenha a audácia de mencionar o nome dela nesta casa, senhor. Especialmente sabendo o que fez ao Sr. Misk...}{[Seus olhos se arregalam, levemente.] A senhora se refere a "A Maldição de T'sen-Ang"? Àquela bobagem? Estou surpreso que tenha a audácia de mencionar o nome dela nesta casa, senhora. Especialmente sabendo o que fez ao Sr. Misk...}{}{}{}{}
+{36}{Perdoe-me, mas estou investigando o assunto a pedido da Sra. Misk...}{}{5}{}{40}{}
+{40}{[Ele estreita os olhos para você.] O senhor está insinuando que eu possa ter algo a ver com isso, senhor...?}{[Ele estreita os olhos para você.] A senhora está insinuando que eu possa ter algo a ver com isso, senhora...?}{}{}{}{lf5 1}
+{41}{Não foi isso que eu disse, Wesley. Talvez você possa me ajudar...}{}{5}{gf2520 0}{45}{re +5}
+{42}{Você parece bastante nervoso com a situação, Wesley...}{}{5}{gf2520 0}{55}{re -10}
+{43}{O que pode me dizer sobre Elmer Burbottom, Wesley?}{}{5}{gf2520 1}{69}{}
+{44}{Claro que não. Despeço-me do senhor...}{}{5}{gf2520 0}{0}{}
+{45}{[Ele parece aliviado.] Ótimo, ótimo. Tenho sido um servo leal dos Misk por muitos anos. Odiarei pensar que a Sra. Misk não confia mais em mim...}{[Ele parece aliviado.]  Bom, bom. Tenho sido um servo leal dos Misk por muitos anos. Odiaría pensar que a Sra. Misk não confia mais em mim...}{}{}{}{}
+{46}{Hmmm. Há algo que você saiba que possa me ajudar?}{}{5}{}{49}{}
+{49}{[Ele olha ao redor, baixando a voz.] Não sou de falar mal das pessoas, mas se está procurando um lugar para começar sua busca, eu não iria além de Brinda, a empregada. Ela pode não parecer, mas é...[Ele está quase sussurrando.]...uma MEIO-ORC. Nunca se sabe...}{[Ele olha ao redor, baixando a voz.] Não sou de falar mal das pessoas, mas se está procurando um lugar para começar sua busca, eu não iria além de Brinda, a empregada. Ela pode não parecer, mas é...[Ele está quase sussurrando.]...uma MEIO-ORC. Nunca se sabe...}{}{}{}{}
+{50}{Uma teoria interessante, Wesley. Há mais alguma coisa que possa me contar?}{}{5}{}{52}{}
+{52}{Não. Só me enfurece que alguém trairia o Sr. Misk. Espero que descubra quem foi o responsável...}{Não. Só me enfurece que alguém trairia o Sr. Misk. Espero que descubra quem foi o responsável...}{}{}{}{lf3 1}
+{53}{Farei o meu melhor, Wesley. Tenha um bom dia...}{}{5}{}{0}{}
+{55}{Como OUSA, senhor! Tenho sido um servo leal dos Misk por muitos anos! Jamais os trairia! Nunca!}{Como OUSA, senhora! Tenho sido um servo leal dos Misk por muitos anos! Jamais os trairia! Nunca!}{}{}{}{}
+{56}{Perdoe-me, Wesley. Não tive a intenção de acusá-lo...}{}{5}{}{58}{}
+{57}{O dinheiro pode fazer um homem esquecer muitas coisas, Wesley...}{}{5}{}{60}{}
+{58}{[Ele parece relaxar um pouco.] Bem, deve entender se eu me emociono. Eu amava muito o Sr. Misk... ele era um empregador muito compreensivo e justo. Vou sentir muita falta dele...}{[Ele parece relaxar um pouco.] Bem, deve entender se eu me emociono. Eu amava muito o Sr. Misk... ele era um empregador muito compreensivo e justo. Vou sentir muita falta dele...}{}{}{}{}
+{59}{Tenho certeza. Há algo que saiba que possa me ajudar?}{}{5}{}{49}{}
+{60}{[Você vê ódio em seus olhos.] Senhor, recomendo que saia daqui, e agora. Caso contrário, não me responsabilizarei pelo que possa fazer. Não tolerarei tais palavras traiçoeiras de ninguém... sou, e sempre fui, leal aos Misk. Agora, por favor, vá embora...}{[Você vê ódio em seus olhos.] Senhora, recomendo que saia daqui, e agora. Caso contrário, não me responsabilizarei pelo que possa fazer. Não tolerarei tais palavras traiçoeiras de ninguém... sou, e sempre fui, leal aos Misk. Agora, por favor, vá embora...}{}{}{}{lf2 1}
+{61}{Tudo bem, Wesley. Vou investigar o assunto. Tenha um bom dia...}{}{5}{}{0}{}
+{62}{Espero sinceramente que a alma de Victor tenha valido o preço da sua traição...}{}{5}{}{}{co, fl 65}
+{63}{Por favor, saia desta casa, senhor...}{Por favor, saia desta casa, senhora...}{}{}{}{}
+{64}{Desejo-lhe sorte em sua busca, senhor...}{Desejo-lhe sorte em sua busca, senhora...}{}{}{}{}
+{65}{Levante os punhos, cretino! Vou lhe ensinar uma lição que não esquecerá tão cedo!}{Levante os punhos, cretino! Vou lhe ensinar uma lição que não esquecerá tão cedo!}{}{}{}{}
+{66}{Sim? Como posso ajudá-lo, senhor?}{Sim? Como posso ajudá-la, senhora?}{}{}{}{}
+{67}{O que pode me contar sobre Elmer Burbottom, Wesley?}{}{5}{}{69}{}
+{69}{[Ele parece imediatamente preocupado.] O--o quê? Como você...? [Sua expressão então endurece.] Andou revirando meus pertences pessoais, senhor? Serei forçado a chamar as autoridades, senhor?}{[Ele parece imediatamente preocupado.] O--o quê? Como você...? [Sua expressão então endurece.] Andou revirando meus pertences pessoais, senhora? Serei forçada a chamar as autoridades, senhora?}{}{}{}{}
+{70}{Apenas responda à pergunta, Wesley. Quem é ele?}{}{5}{}{74}{re -5}
+{71}{Tenho feito algumas perguntas por aí. Você tem algo com que se preocupar?}{}{5}{}{77}{re -5}
+{72}{Talvez eu tenha ultrapassado meus limites. Tenha um bom dia, Wesley...}{}{5}{}{80}{}
+{74}{Não, senhor. Se eu descobrir que andou mexendo nas minhas coisas de novo, chamarei a Guarda Real e mandarei atravessá-lo no ato. Agora, não tenho mais nada a dizer. Por favor, vá embora. AGORA.}{Não, senhora. Se eu descobrir que andou mexendo nas minhas coisas de novo, chamarei a Guarda Real e mandarei atravessá-la no ato. Agora, não tenho mais nada a dizer. Por favor, vá embora. AGORA.}{}{}{}{lf4 1}
+{75}{Tenho certeza de que nos veremos novamente, Wesley. Tenha um bom dia...}{}{5}{}{0}{}
+{77}{Hã... nada. Absolutamente nada. Só não aprecio suas acusações, senhor. E não gosto que fique bisbilhotando meus assuntos pessoais, senhor. Recomendo que não faça isso novamente. Agora, não temos mais nada a tratar. Por favor, saia desta casa. AGORA.}{Hã... nada. Absolutamente nada. Só não aprecio suas acusações, senhora. E não gosto que fique bisbilhotando meus assuntos pessoais, senhora. Recomendo que não faça isso novamente. Agora, não temos mais nada a tratar. Por favor, saia desta casa. AGORA.}{}{}{}{lf4 1}
+{78}{Tenho certeza de que nos veremos novamente, Wesley. Tenha um bom dia...}{}{5}{}{0}{}
+{80}{Com certeza fez isso, senhor. Por favor, saia desta casa. AGORA.}{Com certeza fez isso, senhora. Por favor, saia desta casa. AGORA.}{}{}{}{lf4 1}
+{81}{E:}{}{5}{}{0}{}
+

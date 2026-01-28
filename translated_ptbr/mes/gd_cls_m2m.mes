@@ -1,0 +1,4767 @@
+// These are class-based NPC messages, said by male NPC's to male PC's
+
+// Asking for money messages start at 1000. Each class gets 50 messages
+// starting on multiples of 50
+
+// noble
+{1000}{Isso custará %d moedas. Você está interessado?}
+{1001}{Nada é de graça. Você pagaria %d moedas?}
+{1002}{Para atender a esse pedido, vou precisar de %d moedas. Isso é aceitável?}
+{1003}{Uma pena ter que pedir, mas por %d moedas posso ajudá-lo, senhor. Esse valor é aceitável?}
+{1004}{Infelizmente, a questão financeira precisa vir primeiro... você tem as %d moedas?}
+{1005}{Você está disposto a pagar %d moedas?}
+
+
+// priest
+{1050}{Você me concederia %d moedas, primeiro?}
+{1051}{Aqueles a quem sirvo exigem %d moedas por isso. Uma quantia modesta, não concorda?}
+{1052}{Minha ajuda custará apenas %d moedas. Isso é aceitável?}
+{1053}{Sim, claro, meu irmão. %d moedas seria um preço aceitável?}
+{1054}{Sim, de fato. Uma doação de %d moedas será suficiente. Isso é aceitável?}
+{1055}{Certamente, por %d moedas. Isso é aceitável para você?}
+{1056}{Com uma doação de %d moedas, pode ser feito. Você está interessado?}
+{1057}{%d moedas, e estará feito. O que me diz?}
+
+// wizard
+{1100}{Isso custará %d moedas. Você está interessado?}
+{1101}{Nada é de graça. Você pagaria %d moedas?}
+{1102}{Para atender a esse pedido, vou precisar de %d moedas. Isso é aceitável?}
+{1103}{Uma pena ter que pedir, mas por %d moedas posso ajudá-lo, senhor. Esse valor é aceitável?}
+{1104}{Infelizmente, a questão financeira precisa vir primeiro... você tem as %d moedas?}
+{1105}{Você está disposto a pagar %d moedas?}
+
+// technologist
+{1150}{Isso vai custar %d moedas. Está interessado?}
+{1151}{Isso vai custar algumas moedas. %d, é um preço justo, não é?}
+{1152}{Posso ajudá-lo por %d moedas. Ainda está interessado?}
+{1153}{Posso fazer isso, por uma pequena taxa, é claro. %d moedas. Isso é aceitável?}
+{1154}{Você pagará %d moedas pela minha assistência?}
+{1155}{Você está disposto a pagar %d moedas?}
+{1156}{Um financiamento de %d moedas será suficiente. Isso é mais do que um preço justo, não concorda?}
+
+
+// shopkeeper
+{1200}{O preço é %d moedas. Isso é aceitável para você?}
+{1201}{Posso fazer isso por %d moedas. É um preço de barganha, não acha?}
+{1202}{Posso ajudá-lo por %d moedas, bom cidadão. O que me diz?}
+{1203}{Posso providenciar isso por apenas %d moedas. Ainda está interessado?}
+{1204}{Esta transação custará %d moedas. Essa quantia é aceitável para você?}
+{1205}{Serão apenas %d moedas. Mais do que justo, não concorda?}
+{1206}{Posso fazer isso, mas custará %d moedas. Isso é aceitável para você?}
+{1207}{O preço total será de %d moedas. O que me diz?}
+{1208}{Para ter certeza, posso fazer isso por %d moedas. Está interessado?}
+
+
+
+// guard
+{1250}{Primeiro, eu gostaria de %d moedas. Mais do que justo, não é?}
+{1251}{Vou precisar de %d moedas primeiro. Ainda está interessado?}
+{1252}{Quero %d moedas primeiro. O que me diz?}
+{1253}{Por aqui, isso vai custar %d moedas. Isso é aceitável?}
+{1254}{%d moedas primeiro, senhor. Isso lhe é aceitável?}
+{1255}{%d moedas, e eu o ajudarei, sim?}
+{1256}{%d moedas?}
+{1257}{Um pagamento de %d moedas será suficiente. O que me diz?}
+
+
+// city_dweller
+{1300}{Primeiro, eu gostaria de %d moedas. Mais do que justo, não é?}
+{1301}{Isso custaria exatamente %d moedas. Você tem as moedas para isso?}
+{1302}{Isso vai custar %d moedas. Está interessado?}
+{1303}{Isso vai custar algumas moedas. %d, é um preço justo, não é?}
+{1304}{Posso ajudá-lo por %d moedas. Ainda está interessado?}
+{1305}{Posso fazer isso, por uma pequena taxa, é claro. %d moedas. Isso é aceitável?}
+{1306}{Você pagará %d moedas pela minha assistência?}
+{1307}{Você está disposto a pagar %d moedas?}
+{1308}{Um financiamento de %d moedas será suficiente. Isso é mais do que um preço justo, não concorda?}
+
+// villager
+{1350}{Você pode me dar %d moedas pela minha ajuda nisso?}
+{1351}{Isso custaria exatamente %d moedas. Você tem as moedas para isso?}
+{1352}{Isso vai custar %d moedas. Está interessado?}
+{1353}{Isso vai custar algumas moedas. %d, é um preço justo, não é?}
+{1354}{Posso ajudá-lo por %d moedas. Ainda está interessado?}
+{1355}{Posso fazer isso, por uma pequena taxa, é claro. %d moedas. Isso é aceitável?}
+{1356}{Você pagará %d moedas pela minha assistência?}
+{1357}{Você está disposto a pagar %d moedas?}
+{1358}{Um financiamento de %d moedas será suficiente. Isso é mais do que um preço justo, não concorda?}
+
+// beggar
+{1400}{Você pode me dar %d moedas pela minha ajuda nisso?}
+{1401}{%d moedas para ajudar minha família?}
+{1402}{Ah, sim! Se puder me dar apenas %d moedas. Sim?}
+{1403}{Para ter certeza, cavalheiro. %d moedas, por favor.}
+{1404}{Senhor, para o senhor, um pagamento de %d moedas será suficiente para isso.}
+{1405}{É um prazer, senhor, por %d moedas.}
+{1406}{Para ter certeza, cavalheiro, por %d moedas.}
+{1407}{Por %d moedas, senhor, pode ser feito.}
+{1408}{Posso ajudá-lo por %d moedas, cavalheiro.}
+
+// thief
+{1450}{Você pode me dar %d moedas pela minha ajuda nisso?}
+{1451}{Isso custaria exatamente %d moedas. Você tem as moedas para isso?}
+{1452}{Isso vai custar %d moedas. Está interessado?}
+{1453}{Isso vai custar algumas moedas. %d, é um preço justo, não é?}
+{1454}{Posso ajudá-lo por %d moedas. Ainda está interessado?}
+{1455}{Posso fazer isso, por uma pequena taxa, é claro. %d moedas. Isso é aceitável?}
+{1456}{Você pagará %d moedas pela minha assistência?}
+{1457}{Você está disposto a pagar %d moedas?}
+{1458}{Um financiamento de %d moedas será suficiente. Isso é mais do que um preço justo, não concorda?}
+
+// bandit
+{1500}{Você pode me dar %d moedas pela minha ajuda nisso?}
+{1501}{Isso custaria exatamente %d moedas. Você tem as moedas para isso?}
+{1502}{Isso vai custar %d moedas. Está interessado?}
+{1503}{Isso vai custar algumas moedas. %d, é um preço justo, não é?}
+{1504}{Posso ajudá-lo por %d moedas. Ainda está interessado?}
+{1505}{Posso fazer isso, por uma pequena taxa, é claro. %d moedas. Isso é aceitável?}
+{1506}{Você pagará %d moedas pela minha assistência?}
+{1507}{Você está disposto a pagar %d moedas?}
+{1508}{Um financiamento de %d moedas será suficiente. Isso é mais do que um preço justo, não concorda?}
+
+
+// Not enough money messages start at 2000. Each class gets 50 messages
+// starting on multiples of 50
+
+// noble
+{2000}{Você não tem moedas suficientes.}
+{2001}{Você não tem moedas suficientes aí.}
+{2002}{Isso não é nem de longe moedas suficientes.}
+{2003}{Você não tem as moedas necessárias.}
+{2004}{O preço é decididamente maior do que suas finanças permitem.}
+{2005}{Você não consegue reunir o número necessário de moedas.}
+{2006}{Você não consegue atender ao meu preço.}
+{2007}{As moedas que você mostra estão lamentavelmente em falta em número.}
+{2008}{Sua falta de fundos está prestes a pôr fim a esta conversa.}
+{2009}{O preço é decididamente maior do que sua bolsa permite.}
+{2010}{Certamente você percebe que não tem dinheiro suficiente?}
+{2011}{Você não tem a quantia necessária.}
+
+// priest
+{2050}{Receio que você não tenha o suficiente.}
+{2051}{Você não tem moedas suficientes aí.}
+{2052}{Isso não é nem de longe moedas suficientes.}
+{2053}{Você não tem o suficiente para a doação nominal.}
+{2054}{A doação é decididamente maior do que suas finanças permitem.}
+{2055}{Você não possui o número necessário de moedas.}
+{2056}{Você não tem a doação requerida.}
+{2057}{Você não tem o suficiente para a doação?}
+{2058}{As moedas que você oferece estão lamentavelmente em falta.}
+{2059}{Por favor, volte quando tiver o número necessário de moedas.}
+{2060}{A doação oferecida está longe de ser adequada.}
+{2061}{A doação é maior do que seu bolso comporta.}
+
+// wizard
+{2100}{Vejo que você não pode pagar.}
+{2101}{Não. Não posso ignorar que você não tem moedas suficientes aí.}
+{2102}{Isso não é nem de longe moedas suficientes.}
+{2103}{Você está terrivelmente sem moedas. Não posso fazer nada por você.}
+{2104}{Seus fundos mal são suficientes para a tarefa em questão.}
+{2105}{Você não tem o dinheiro necessário.}
+{2106}{Você não tem o preço irrisório sobre o qual concordamos.}
+{2107}{Seu número de moedas está lamentavelmente baixo.}
+{2108}{Você não possui a quantidade necessária de moedas.}
+{2109}{Sou obrigado a dizer que você não tem as moedas necessárias.}
+{2110}{O preço é maior do que o conteúdo de sua bolsa.}
+{2111}{Certamente você percebe que não tem o suficiente para pagar meu preço?}
+
+// technologist
+{2150}{Você está sem dinheiro.}
+{2151}{Não posso ignorar o fato de que você não tem dinheiro suficiente para o pagamento.}
+{2152}{Isso não é nem de longe dinheiro suficiente.}
+{2153}{Você está inegavelmente sem moedas. Não posso fazer nada por você.}
+{2154}{Seus fundos mal são suficientes.}
+{2155}{O preço é manifestamente maior do que você pode pagar.}
+{2156}{Não posso deixar de notar que você não tem o pagamento exigido.}
+{2157}{De fato, você está sem o valor necessário.}
+{2158}{Essas moedas estão, sem dúvida, em número insuficiente.}
+{2159}{Certamente você percebe que não tem o suficiente para pagar a taxa?}
+{2160}{O preço é maior do que o conteúdo de sua bolsa.}
+{2161}{Você não tem a taxa mínima que exijo.}
+
+// shopkeeper
+{2200}{Você não tem o suficiente para pagar.}
+{2201}{Não posso aceitar a ninharia que ofereceu como pagamento.}
+{2202}{Isso não é nem de longe dinheiro suficiente.}
+{2203}{Você está terrivelmente sem dinheiro. Não posso fazer nada por você.}
+{2204}{Seus fundos mal são suficientes.}
+{2205}{Você não tem o preço que exijo.}
+{2206}{O preço é maior do que você possui.}
+{2207}{Você está sem moedas.}
+{2208}{Não posso aceitar o pagamento irrisório que ofereceu.}
+{2209}{Essas moedas são em número inadequado.}
+{2210}{Você parece estar sem dinheiro.}
+{2211}{Você não tem o dinheiro necessário.}
+{2212}{Isso custa mais do que você pode pagar.}
+{2213}{Você não tem dinheiro suficiente.}
+{2214}{Certamente percebe que está faltando para completar o preço, não?}
+
+// guard
+{2250}{Você não tem dinheiro suficiente.}
+{2251}{Não posso aceitar essa mixaria que me oferece como pagamento.}
+{2252}{Não há moedas suficientes em sua mão.}
+{2253}{Você está terrivelmente sem dinheiro. Não posso fazer nada por você.}
+{2254}{Seus fundos mal são suficientes.}
+{2255}{Você não tem o dinheiro que exijo.}
+{2256}{Isso é, sem dúvida, mais do que você pode pagar legalmente.}
+{2257}{O que oferece como pagamento não atende ao padrão.}
+{2258}{Suas moedas são poucas em número e propósito.}
+{2259}{Você não tem o meu preço.}
+{2260}{Certamente percebe o quanto está sem dinheiro, não?}
+{2261}{Sua bolsa não tem o valor necessário.}
+
+// city_dweller
+{2300}{Você não tem dinheiro suficiente.}
+{2301}{Não há moedas suficientes em sua oferta.}
+{2302}{Você está sem moedas.}
+{2303}{Seus fundos mal são suficientes.}
+{2304}{Essas moedas são lamentavelmente poucas em número.}
+{2305}{O valor é maior do que você possui.}
+{2306}{Primeiro deve ter o valor combinado.}
+{2307}{Você não tem a quantia que preciso.}
+{2308}{Certamente percebe que falta o pagamento, não?}
+
+// villager
+{2350}{Você não tem dinheiro suficiente.}
+{2351}{Você não tem dinheiro suficiente.}
+{2352}{Seus fundos não são suficientes.}
+{2353}{Você não tem o dinheiro.}
+{2354}{Você está sem dinheiro.}
+{2355}{O valor é alto demais para você.}
+{2356}{Você não tem o preço combinado.}
+{2357}{Você não tem a quantia que eu quero.}
+{2358}{Você não tem o pagamento.}
+{2359}{Sua bolsa está leve.}
+
+// beggar
+{2400}{Você não tem o suficiente.}
+{2401}{Não posso ajudar se você não puder pagar.}
+{2402}{Você não tem o dinheiro.}
+{2403}{O senhor está com falta de moedas, cavalheiro.}
+{2404}{Suas moedas são poucas em número.}
+{2405}{Essas moedas não são suficientes em quantidade, cavalheiro.}
+{2406}{Ficarei feliz em ajudá-lo assim que puder me oferecer moedas suficientes.}
+{2407}{A quantia é demais para o senhor, senhor.}
+{2408}{Você não tem o preço combinado.}
+{2409}{O senhor não tem a quantia certa.}
+{2410}{Você não tem o pagamento.}
+{2411}{Sua bolsa está vazia.}
+
+// thief
+{2450}{Você não tem moedas suficientes aí.}
+{2451}{Falando sério agora, isso não é nem de perto moedas suficientes.}
+{2452}{O preço é certamente mais do que sua bolsa carrega no momento.}
+{2453}{Você não tem o número necessário de moedas.}
+{2454}{As moedas que você mostra estão lamentavelmente em falta em número.}
+{2455}{Não recomendo que tente me enganar com o pagamento!}
+{2456}{A quantia é mais do que você possui.}
+{2457}{Está faltando para alcançar meu preço.}
+{2458}{Certamente você percebe que está com falta de dinheiro?}
+{2459}{Sua bolsa está muito leve.}
+
+// bandit
+{2500}{Você não pode pagar.}
+{2501}{Você não tem moedas suficientes aí.}
+{2502}{Isso não é suficiente!}
+{2503}{Eu precisaria de mais do que você tem a oferecer.}
+{2504}{Não! As moedas que você tenta me empurrar não são suficientes!}
+{2505}{Você não tem moedas suficientes para me interessar.}
+{2506}{Não tente me enganar com o pagamento!}
+{2507}{Mentiroso! Você não pode pagar.}
+{2508}{Você não tem dinheiro suficiente.}
+{2509}{Você não tem o suficiente para pagar.}
+{2510}{Está faltando para alcançar meu preço.}
+{2511}{Você está com falta de moedas.}
+{2512}{Você não tem o dinheiro.}
+
+
+// Offers to train a beginner cannot 3000. Each class gets 50 messages
+// starting on multiples of 50
+
+// noble
+{3000}{Que tipo de treinamento está procurando?}
+{3001}{Claro. Em que deseja ser treinado?}
+{3002}{Sem dúvida. Que tipo de treinamento está buscando?}
+{3003}{Que tipo de treinamento lhe interessa?}
+{3004}{Certamente. Em que deseja ser treinado?}
+{3005}{Que tipo de treinamento está procurando?}
+{3006}{Que tipo de treinamento está buscando?}
+{3007}{Que tipo de treinamento lhe interessa?}
+{3008}{Que tipo de treinamento está procurando?}
+
+// priest
+{3050}{Que tipo de treinamento está procurando?}
+{3051}{Claro. Em que deseja ser treinado?}
+{3052}{Sem dúvida. Que tipo de treinamento está buscando?}
+{3053}{Que tipo de treinamento lhe interessa?}
+{3054}{Certamente. Em que deseja ser treinado?}
+{3055}{Que tipo de treinamento está procurando?}
+{3056}{Que tipo de treinamento está buscando?}
+{3057}{Que tipo de treinamento lhe interessa?}
+{3058}{Que tipo de treinamento está procurando?}
+
+// wizard
+{3100}{Que tipo de treinamento está procurando?}
+{3101}{Claro. Em que deseja ser treinado?}
+{3102}{Sem dúvida. Que tipo de treinamento está buscando?}
+{3103}{Que tipo de treinamento lhe interessa?}
+{3104}{Certamente. Em que deseja ser treinado?}
+{3105}{Que tipo de treinamento está procurando?}
+{3106}{Que tipo de treinamento está buscando?}
+{3107}{Que tipo de treinamento lhe interessa?}
+{3108}{Que tipo de treinamento está procurando?}
+
+// technologist
+{3150}{Que tipo de treinamento está procurando?}
+{3151}{Claro. Em que deseja ser treinado?}
+{3152}{Sem dúvida. Que tipo de treinamento está buscando?}
+{3153}{Que tipo de treinamento lhe interessa?}
+{3154}{Certamente. Em que deseja ser treinado?}
+{3155}{Que tipo de treinamento está procurando?}
+{3156}{Que tipo de treinamento está buscando?}
+{3157}{Que tipo de treinamento lhe interessa?}
+{3158}{Que tipo de treinamento está procurando?}
+
+// shopkeeper
+{3200}{Que tipo de treinamento está procurando?}
+{3201}{Claro. Em que deseja ser treinado?}
+{3202}{Sem dúvida. Que tipo de treinamento está buscando?}
+{3203}{Que tipo de treinamento lhe interessa?}
+{3204}{Certamente. Em que deseja ser treinado?}
+{3205}{Que tipo de treinamento está procurando?}
+{3206}{Que tipo de treinamento está buscando?}
+{3207}{Que tipo de treinamento lhe interessa?}
+{3208}{Que tipo de treinamento está procurando?}
+
+// guard
+{3250}{Que tipo de treinamento está procurando?}
+{3251}{Claro. Em que deseja ser treinado?}
+{3252}{Sem dúvida. Que tipo de treinamento está buscando?}
+{3253}{Que tipo de treinamento lhe interessa?}
+{3254}{Certamente. Em que deseja ser treinado?}
+{3255}{Que tipo de treinamento está procurando?}
+{3256}{Que tipo de treinamento está buscando?}
+{3257}{Que tipo de treinamento lhe interessa?}
+{3258}{Que tipo de treinamento está procurando?}
+
+// city_dweller
+{3300}{Que tipo de treinamento está procurando?}
+{3301}{Claro. Em que deseja ser treinado?}
+{3302}{Sem dúvida. Que tipo de treinamento está buscando?}
+{3303}{Que tipo de treinamento lhe interessa?}
+{3304}{Certamente. Em que deseja ser treinado?}
+{3305}{Que tipo de treinamento está procurando?}
+{3306}{Que tipo de treinamento está buscando?}
+{3307}{Que tipo de treinamento lhe interessa?}
+{3308}{Que tipo de treinamento está procurando?}
+
+// villager
+{3350}{Que tipo de treinamento está procurando?}
+{3351}{Claro. Em que deseja ser treinado?}
+{3352}{Sem dúvida. Que tipo de treinamento está buscando?}
+{3353}{Que tipo de treinamento lhe interessa?}
+{3354}{Certamente. Em que deseja ser treinado?}
+{3355}{Que tipo de treinamento está procurando?}
+{3356}{Que tipo de treinamento está buscando?}
+{3357}{Que tipo de treinamento lhe interessa?}
+{3358}{Que tipo de treinamento está procurando?}
+
+// beggar
+{3400}{Que tipo de treinamento está procurando?}
+{3401}{Claro. Em que deseja ser treinado?}
+{3402}{Sem dúvida. Que tipo de treinamento está buscando?}
+{3403}{Que tipo de treinamento lhe interessa?}
+{3404}{Certamente. Em que deseja ser treinado?}
+{3405}{Que tipo de treinamento está procurando?}
+{3406}{Que tipo de treinamento está buscando?}
+{3407}{Que tipo de treinamento lhe interessa?}
+{3408}{Que tipo de treinamento está procurando?}
+
+// thief
+{3450}{Que tipo de treinamento está procurando?}
+{3451}{Claro. Em que deseja ser treinado?}
+{3452}{Sem dúvida. Que tipo de treinamento está buscando?}
+{3453}{Que tipo de treinamento lhe interessa?}
+{3454}{Certamente. Em que deseja ser treinado?}
+{3455}{Que tipo de treinamento está procurando?}
+{3456}{Que tipo de treinamento está buscando?}
+{3457}{Que tipo de treinamento lhe interessa?}
+{3458}{Que tipo de treinamento está procurando?}
+
+// bandit
+{3500}{Que tipo de treinamento está procurando?}
+{3501}{Claro. Em que deseja ser treinado?}
+{3502}{Sem dúvida. Que tipo de treinamento está buscando?}
+{3503}{Que tipo de treinamento lhe interessa?}
+{3504}{Certamente. Em que deseja ser treinado?}
+{3505}{Que tipo de treinamento está procurando?}
+{3506}{Que tipo de treinamento está buscando?}
+{3507}{Que tipo de treinamento lhe interessa?}
+{3508}{Que tipo de treinamento está procurando?}
+
+
+// Already trained messages start at 4000. Each class gets 50 messages
+// starting on multiples of 50
+
+// noble
+{4000}{Você já recebeu treinamento de aprendiz nessa habilidade.}
+{4001}{Você já é um aprendiz.}
+{4002}{Você já foi treinado como aprendiz nessa habilidade específica.}
+{4003}{Você já completou o nível de treinamento de aprendiz.}
+{4004}{Você já é um aprendiz nessa habilidade.}
+{4005}{Você já treinou como aprendiz.}
+{4006}{Você não está ciente de que já é um aprendiz dessa habilidade?}
+
+// priest
+{4050}{Você já treinou como aprendiz.}
+{4051}{Você não está ciente de que já é um aprendiz dessa habilidade?}
+{4052}{Você já recebeu treinamento de aprendiz nessa habilidade.}
+{4053}{Você já é um aprendiz.}
+{4054}{Você já foi treinado como aprendiz nessa habilidade específica.}
+{4055}{Você já completou o nível de treinamento de aprendiz.}
+{4056}{Você já é um aprendiz nessa habilidade.}
+
+// wizard
+{4100}{Você já treinou como aprendiz.}
+{4101}{Você não está ciente de que já é um aprendiz dessa habilidade?}
+{4102}{Você já recebeu treinamento de aprendiz nessa habilidade.}
+{4103}{Você já é um aprendiz.}
+{4104}{Você já foi treinado como aprendiz nessa habilidade específica.}
+{4105}{Você já completou o nível de treinamento de aprendiz.}
+{4106}{Você já é um aprendiz nessa habilidade.}
+
+// technologist
+{4150}{Você já treinou como aprendiz.}
+{4151}{Você não está ciente de que já é um aprendiz dessa habilidade?}
+{4152}{Você já recebeu treinamento de aprendiz nessa habilidade.}
+{4153}{Você já é um aprendiz.}
+{4154}{Você já foi treinado como aprendiz nessa habilidade específica.}
+{4155}{Você já completou o nível de treinamento de aprendiz.}
+{4156}{Você já é um aprendiz nessa habilidade.}
+
+// shopkeeper
+{4200}{Você já treinou como aprendiz.}
+{4201}{Você não está ciente de que já é um aprendiz dessa habilidade?}
+{4202}{Você já recebeu treinamento de aprendiz nessa habilidade.}
+{4203}{Você já é um aprendiz.}
+{4204}{Você já foi treinado como aprendiz nessa habilidade específica.}
+{4205}{Você já completou o nível de treinamento de aprendiz.}
+{4206}{Você já é um aprendiz nessa habilidade.}
+
+// guard
+{4250}{Você já treinou como aprendiz.}
+{4251}{Você não está ciente de que já é um aprendiz dessa habilidade?}
+{4252}{Você já recebeu treinamento de aprendiz nessa habilidade.}
+{4253}{Você já é um aprendiz.}
+{4254}{Você já foi treinado como aprendiz nessa habilidade específica.}
+{4255}{Você já completou o nível de treinamento de aprendiz.}
+{4256}{Você já é um aprendiz nessa habilidade.}
+
+// city_dweller
+{4300}{Você já treinou como aprendiz.}
+{4301}{Você não está ciente de que já é um aprendiz dessa habilidade?}
+{4302}{Você já recebeu treinamento de aprendiz nessa habilidade.}
+{4303}{Você já é um aprendiz.}
+{4304}{Você já foi treinado como aprendiz nessa habilidade específica.}
+{4305}{Você já completou o nível de treinamento de aprendiz.}
+{4306}{Você já é um aprendiz nessa habilidade.}
+
+// villager
+{4350}{Você já treinou como aprendiz.}
+{4351}{Você não está ciente de que já é um aprendiz dessa habilidade?}
+{4352}{Você já recebeu treinamento de aprendiz nessa habilidade.}
+{4353}{Você já é um aprendiz.}
+{4354}{Você já foi treinado como aprendiz nessa habilidade específica.}
+{4355}{Você já completou o nível de treinamento de aprendiz.}
+{4356}{Você já é um aprendiz nessa habilidade.}
+
+// beggar
+{4400}{Você já treinou como aprendiz.}
+{4401}{Você não está ciente de que já é um aprendiz dessa habilidade?}
+{4402}{Você já recebeu treinamento de aprendiz nessa habilidade.}
+{4403}{Você já é um aprendiz.}
+{4404}{Você já foi treinado como aprendiz nessa habilidade específica.}
+{4405}{Você já completou o nível de treinamento de aprendiz.}
+{4406}{Você já é um aprendiz nessa habilidade.}
+
+// thief
+{4450}{Você já treinou como aprendiz.}
+{4451}{Você não está ciente de que já é um aprendiz dessa habilidade?}
+{4452}{Você já recebeu treinamento de aprendiz nessa habilidade.}
+{4453}{Você já é um aprendiz.}
+{4454}{Você já foi treinado como aprendiz nessa habilidade específica.}
+{4455}{Você já completou o nível de treinamento de aprendiz.}
+{4456}{Você já é um aprendiz nessa habilidade.}
+
+// bandit
+{4500}{Você já treinou como aprendiz.}
+{4501}{Você não está ciente de que já é um aprendiz dessa habilidade?}
+{4502}{Você já recebeu treinamento de aprendiz nessa habilidade.}
+{4503}{Você já é um aprendiz.}
+{4504}{Você já foi treinado como aprendiz nessa habilidade específica.}
+{4505}{Você já completou o nível de treinamento de aprendiz.}
+{4506}{Você já é um aprendiz nessa habilidade.}
+
+
+// Not ready to train messages start at 5000. Each class gets 50 messages
+// starting on multiples of 50
+
+// noble
+{5000}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+{5001}{Sua habilidade não está no nível exigido para ser treinado como aprendiz.}
+{5002}{Você não possui a habilidade adequada para ser treinado.}
+{5003}{Você precisa ter mais experiência.}
+{5004}{Suas habilidades não estão refinadas o bastante para o treinamento de aprendiz.}
+{5005}{Você não possui a habilidade adequada para ser treinado.}
+{5006}{Você ainda não está preparado para o treinamento de aprendiz nessa habilidade.}
+{5007}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+
+// priest
+{5050}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+{5051}{Sua habilidade não está no nível exigido para ser treinado como aprendiz.}
+{5052}{Você não possui a habilidade adequada para ser treinado.}
+{5053}{Você precisa ter mais experiência.}
+{5054}{Suas habilidades não estão refinadas o bastante para o treinamento de aprendiz.}
+{5055}{Você não possui a habilidade adequada para ser treinado.}
+{5056}{Você ainda não está preparado para o treinamento de aprendiz nessa habilidade.}
+{5057}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+
+
+// wizard
+{5100}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+{5101}{Sua habilidade não está no nível exigido para ser treinado como aprendiz.}
+{5102}{Você não possui a habilidade adequada para ser treinado.}
+{5103}{Você precisa ter mais experiência.}
+{5104}{Suas habilidades não estão refinadas o bastante para o treinamento de aprendiz.}
+{5105}{Você não possui a habilidade adequada para ser treinado.}
+{5106}{Você ainda não está preparado para o treinamento de aprendiz nessa habilidade.}
+{5107}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+
+// technologist
+{5150}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+{5151}{Sua habilidade não está no nível exigido para ser treinado como aprendiz.}
+{5152}{Você não possui a habilidade adequada para ser treinado.}
+{5153}{Você precisa ter mais experiência.}
+{5154}{Suas habilidades não estão refinadas o bastante para o treinamento de aprendiz.}
+{5155}{Você não possui a habilidade adequada para ser treinado.}
+{5156}{Você ainda não está preparado para o treinamento de aprendiz nessa habilidade.}
+{5157}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+
+// shopkeeper
+{5200}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+{5201}{Sua habilidade não está no nível exigido para ser treinado como aprendiz.}
+{5202}{Você não possui a habilidade adequada para ser treinado.}
+{5203}{Você precisa ter mais experiência.}
+{5204}{Suas habilidades não estão refinadas o bastante para o treinamento de aprendiz.}
+{5205}{Você não possui a habilidade adequada para ser treinado.}
+{5206}{Você ainda não está preparado para o treinamento de aprendiz nessa habilidade.}
+{5207}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+
+// guard
+{5250}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+{5251}{Sua habilidade não está no nível exigido para ser treinado como aprendiz.}
+{5252}{Você não possui a habilidade adequada para ser treinado.}
+{5253}{Você precisa ter mais experiência.}
+{5254}{Suas habilidades não estão refinadas o bastante para o treinamento de aprendiz.}
+{5255}{Você não possui a habilidade adequada para ser treinado.}
+{5256}{Você ainda não está preparado para o treinamento de aprendiz nessa habilidade.}
+{5257}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+
+// city_dweller
+{5300}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+{5301}{Sua habilidade não está no nível exigido para ser treinado como aprendiz.}
+{5302}{Você não possui a habilidade adequada para ser treinado.}
+{5303}{Você precisa ter mais experiência.}
+{5304}{Suas habilidades não estão refinadas o bastante para o treinamento de aprendiz.}
+{5305}{Você não possui a habilidade adequada para ser treinado.}
+{5306}{Você ainda não está preparado para o treinamento de aprendiz nessa habilidade.}
+{5307}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+
+// villager
+{5350}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+{5351}{Sua habilidade não está no nível exigido para ser treinado como aprendiz.}
+{5352}{Você não possui a habilidade adequada para ser treinado.}
+{5353}{Você precisa ter mais experiência.}
+{5354}{Suas habilidades não estão refinadas o bastante para o treinamento de aprendiz.}
+{5355}{Você não possui a habilidade adequada para ser treinado.}
+{5356}{Você ainda não está preparado para o treinamento de aprendiz nessa habilidade.}
+{5357}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+
+// beggar
+{5400}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+{5401}{Sua habilidade não está no nível exigido para ser treinado como aprendiz.}
+{5402}{Você não possui a habilidade adequada para ser treinado.}
+{5403}{Você precisa ter mais experiência.}
+{5404}{Suas habilidades não estão refinadas o bastante para o treinamento de aprendiz.}
+{5405}{Você não possui a habilidade adequada para ser treinado.}
+{5406}{Você ainda não está preparado para o treinamento de aprendiz nessa habilidade.}
+{5407}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+
+// thief
+{5450}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+{5451}{Sua habilidade não está no nível exigido para ser treinado como aprendiz.}
+{5452}{Você não possui a habilidade adequada para ser treinado.}
+{5453}{Você precisa ter mais experiência.}
+{5454}{Suas habilidades não estão refinadas o bastante para o treinamento de aprendiz.}
+{5455}{Você não possui a habilidade adequada para ser treinado.}
+{5456}{Você ainda não está preparado para o treinamento de aprendiz nessa habilidade.}
+{5457}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+
+// bandit
+{5500}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+{5501}{Sua habilidade não está no nível exigido para ser treinado como aprendiz.}
+{5502}{Você não possui a habilidade adequada para ser treinado.}
+{5503}{Você precisa ter mais experiência.}
+{5504}{Suas habilidades não estão refinadas o bastante para o treinamento de aprendiz.}
+{5505}{Você não possui a habilidade adequada para ser treinado.}
+{5506}{Você ainda não está preparado para o treinamento de aprendiz nessa habilidade.}
+{5507}{Você não tem habilidade suficiente para ser treinado como aprendiz.}
+
+// Did training messages start at 6000. Each class gets 50 messages
+// starting on multiples of 50
+
+// noble
+{6000}{Seu treinamento de aprendiz está completo.}
+{6001}{Agora você é um aprendiz.}
+{6002}{Você concluiu com sucesso seu treinamento de aprendiz.}
+{6003}{Agora você é um aprendiz.}
+{6004}{Você alcançou o primeiro nível de seu treinamento.}
+{6005}{Agora você é um aprendiz.}
+{6006}{Seu treinamento de aprendiz está completo.}
+
+
+// priest
+{6050}{Seu treinamento de aprendiz está completo.}
+{6051}{Agora você é um aprendiz.}
+{6052}{Você concluiu com sucesso seu treinamento de aprendiz.}
+{6053}{Agora você é um aprendiz.}
+{6054}{Você alcançou o primeiro nível de seu treinamento.}
+{6055}{Agora você é um aprendiz.}
+{6056}{Seu treinamento de aprendiz está completo.}
+
+// wizard
+{6100}{Seu treinamento de aprendiz está completo.}
+{6101}{Agora você é um aprendiz.}
+{6102}{Você concluiu com sucesso seu treinamento de aprendiz.}
+{6103}{Agora você é um aprendiz.}
+{6104}{Você alcançou o primeiro nível de seu treinamento.}
+{6105}{Agora você é um aprendiz.}
+{6106}{Seu treinamento de aprendiz está completo.}
+
+// technologist
+{6150}{Seu treinamento de aprendiz está completo.}
+{6151}{Agora você é um aprendiz.}
+{6152}{Você concluiu com sucesso seu treinamento de aprendiz.}
+{6153}{Agora você é um aprendiz.}
+{6154}{Você alcançou o primeiro nível de seu treinamento.}
+{6155}{Agora você é um aprendiz.}
+{6156}{Seu treinamento de aprendiz está completo.}
+
+// shopkeeper
+{6200}{Seu treinamento de aprendiz está completo.}
+{6201}{Agora você é um aprendiz.}
+{6202}{Você concluiu com sucesso seu treinamento de aprendiz.}
+{6203}{Agora você é um aprendiz.}
+{6204}{Você alcançou o primeiro nível de seu treinamento.}
+{6205}{Agora você é um aprendiz.}
+{6206}{Seu treinamento de aprendiz está completo.}
+
+// guard
+{6250}{Seu treinamento de aprendiz está completo.}
+{6251}{Agora você é um aprendiz.}
+{6252}{Você concluiu com sucesso seu treinamento de aprendiz.}
+{6253}{Agora você é um aprendiz.}
+{6254}{Você alcançou o primeiro nível de seu treinamento.}
+{6255}{Agora você é um aprendiz.}
+{6256}{Seu treinamento de aprendiz está completo.}
+
+// city_dweller
+{6300}{Seu treinamento de aprendiz está completo.}
+{6301}{Agora você é um aprendiz.}
+{6302}{Você concluiu com sucesso seu treinamento de aprendiz.}
+{6303}{Agora você é um aprendiz.}
+{6304}{Você alcançou o primeiro nível de seu treinamento.}
+{6305}{Agora você é um aprendiz.}
+{6306}{Seu treinamento de aprendiz está completo.}
+
+// villager
+{6350}{Seu treinamento de aprendiz está completo.}
+{6351}{Agora você é um aprendiz.}
+{6352}{Você concluiu com sucesso seu treinamento de aprendiz.}
+{6353}{Agora você é um aprendiz.}
+{6354}{Você alcançou o primeiro nível de seu treinamento.}
+{6355}{Agora você é um aprendiz.}
+{6356}{Seu treinamento de aprendiz está completo.}
+
+// beggar
+{6400}{Seu treinamento de aprendiz está completo.}
+{6401}{Agora você é um aprendiz.}
+{6402}{Você concluiu com sucesso seu treinamento de aprendiz.}
+{6403}{Agora você é um aprendiz.}
+{6404}{Você alcançou o primeiro nível de seu treinamento.}
+{6405}{Agora você é um aprendiz.}
+{6406}{Seu treinamento de aprendiz está completo.}
+
+// thief
+{6450}{Seu treinamento de aprendiz está completo.}
+{6451}{Agora você é um aprendiz.}
+{6452}{Você concluiu com sucesso seu treinamento de aprendiz.}
+{6453}{Agora você é um aprendiz.}
+{6454}{Você alcançou o primeiro nível de seu treinamento.}
+{6455}{Agora você é um aprendiz.}
+{6456}{Seu treinamento de aprendiz está completo.}
+
+// bandit
+{6500}{Seu treinamento de aprendiz está completo.}
+{6501}{Agora você é um aprendiz.}
+{6502}{Você concluiu com sucesso seu treinamento de aprendiz.}
+{6503}{Agora você é um aprendiz.}
+{6504}{Você alcançou o primeiro nível de seu treinamento.}
+{6505}{Agora você é um aprendiz.}
+{6506}{Seu treinamento de aprendiz está completo.}
+
+
+// No rumors messages start at 7000. Each class gets 50 messages
+// starting on multiples of 50
+
+// noble
+{7000}{Não tenho informações para compartilhar.}
+{7001}{Lamento dizer que não sei nada que lhe seja útil.}
+{7002}{Sinto muito, mas não sei nada que lhe seja útil.}
+{7003}{Gostaria de saber algo importante, mas não sei.}
+{7004}{Se soubesse algo relevante, certamente lhe informaria.}
+{7005}{Se eu ouvir algo no futuro, eu o avisarei.}
+{7006}{Se eu descobrir alguma novidade, certamente lhe contarei.}
+{7007}{Estou verdadeiramente incomodado por não poder ajudá-lo.}
+{7008}{O pouco que ouvi, infelizmente, não é importante para você.}
+{7009}{Parece que não consigo me lembrar de nada importante.}
+{7010}{Fofocar não é minha profissão.}
+{7011}{Não consigo deixar de me perguntar por não saber nada que lhe seja útil.}
+{7012}{Não ouvi nenhuma notícia que lhe interessaria.}
+{7013}{Acho-me incapaz de me lembrar de algo que lhe seja útil.}
+{7014}{Não tenho notícias para lhe passar.}
+{7015}{Não tenho nenhuma notícia para você.}
+{7016}{Acho-me incapaz de ajudá-lo com qualquer informação.}
+
+// priest
+{7050}{Meu irmão, tudo o que ouvi deve permanecer comigo.}
+{7051}{Sinto muito. Não sei nada que possa lhe contar.}
+{7052}{Sinto muito, mas não sei de nada que lhe seja útil.}
+{7053}{Gostaria que a providência me agraciasse com sabedoria para você, mas, infelizmente, não.}
+{7054}{Se eu descobrisse algo de importância para você, certamente lhe avisaria.}
+{7055}{Se eu ouvir algo, lhe informarei.}
+{7056}{Se eu tomar conhecimento de alguma notícia, certamente lhe avisarei.}
+{7057}{Sinto-me verdadeiramente aflito por não poder ajudá-lo.}
+{7058}{O pouco que ouvi é, infelizmente, confidencial.}
+{7059}{Não consigo me lembrar de nada importante.}
+{7060}{Fofocar não é minha profissão.}
+{7061}{Não sei nada que lhe seja útil.}
+{7062}{Minhas desculpas, mas não tenho nada para você.}
+{7063}{A Providência Divina quis que eu não tivesse conhecimento algum para você.}
+{7064}{Não sei nada que possa ajudá-lo.}
+{7065}{Meu irmão, fofoca é uma ferramenta dos perversos.}
+{7066}{Percebo que não tenho nenhuma notícia importante para passar adiante.}
+{7067}{É uma pena, mas não tenho nenhuma notícia para você.}
+{7068}{Eu mesmo não consigo ajudá-lo com nenhuma informação.}
+{7069}{Não tenho nenhuma informação para passar adiante.}
+
+// wizard
+{7100}{Meus feitiços não revelaram nada.}
+{7101}{Não percebi nada que lhe seja útil.}
+{7102}{Não percebi nada que lhe seja de alguma utilidade.}
+{7103}{Gostaria de ter algo importante para lhe transmitir, mas não tenho.}
+{7104}{Se eu percebesse algo útil para você, certamente o informaria.}
+{7105}{Se eu ouvir algo no futuro, eu o avisarei.}
+{7106}{Se, em minhas viagens, eu me deparar com alguma notícia, certamente o informarei.}
+{7107}{Não posso ajudá-lo.}
+{7108}{O pouco que ouvi não é de importância para você.}
+{7109}{Não consigo discernir nada útil para lhe passar.}
+{7110}{Fofocar está abaixo da minha posição.}
+{7111}{Não sei de nada sobre o assunto atual que seja útil para você.}
+{7112}{Não ouvi nenhuma notícia que lhe interessaria.}
+{7113}{Não consigo me lembrar de nada que lhe seja útil.}
+{7114}{Não tenho notícias significativas para lhe passar.}
+{7115}{Não tenho nenhuma notícia de consequência para você.}
+{7116}{Não posso ajudá-lo com os acontecimentos atuais.}
+{7117}{Infelizmente, não tenho novidades para você.}
+
+// technologist
+{7150}{Não tenho informações para você.}
+{7151}{Sinto muito, não tenho nada para lhe passar.}
+{7152}{Sinto muito, mas não sei de nada que lhe seja útil.}
+{7153}{Se eu encontrasse algo que você pudesse entender, certamente o informaria.}
+{7154}{Se eu me deparar com algo interessante, eu o avisarei.}
+{7155}{Se eu encontrar alguma notícia, certamente o informarei.}
+{7156}{Não posso ajudá-lo.}
+{7157}{O pouco que ouvi está, infelizmente, além da sua compreensão.}
+{7158}{Não posso me preocupar com tais trivialidades, deixe-me.}
+{7159}{Fofocar não é minha profissão.}
+{7160}{Não sei de nada que lhe diga respeito.}
+{7161}{Não tenho nada interessante para você.}
+{7162}{Não tenho nada que possa ajudá-lo.}
+{7163}{Não tenho informações dignas de serem repassadas.}
+{7164}{Meu tempo é precioso demais para ser desperdiçado com fofocas.}
+{7165}{Não tenho nenhuma notícia que lhe diga respeito.}
+{7166}{Não tenho notícias de importância para passar adiante.}
+{7167}{Não ouvi nada que lhe diga respeito.}
+{7168}{Não. Nada mesmo. Não ouvi nada.}
+{7169}{Não tenho informações para você.}
+
+// shopkeeper
+{7200}{Não tenho informações para vender hoje.}
+{7201}{Não ouvi nada de útil.}
+{7202}{Não encontrei nada que seja de alguma utilidade.}
+{7203}{Gostaria de ter algo para contar, mas não tenho.}
+{7204}{Se eu ouvisse algo útil para você, certamente lhe avisaria.}
+{7205}{Se eu ouvir algo, informarei você.}
+{7206}{Se eu encontrar alguma notícia, com certeza lhe avisarei.}
+{7207}{Não posso ajudá-lo.}
+{7208}{O pouco que ouvi trata apenas de comércio local.}
+{7209}{Normalmente tenho algo para passar adiante, mas no momento... nada.}
+{7210}{Não sei de nada de valor atual que lhe seja útil.}
+{7211}{Não ouvi nenhum boato que lhe interesse.}
+{7212}{Não consigo me lembrar de nenhum rumor que lhe seja útil.}
+{7213}{Não tenho notícias de valor para passar adiante.}
+{7214}{Todos os rumores ultimamente não passam de fofocas ociosas.}
+{7215}{É uma pena, mas não tenho notícias para lhe vender.}
+{7216}{Todos os acontecimentos atuais que ouvi são apenas de interesse local.}
+{7217}{Não tenho novidades para você.}
+{7218}{Meus clientes não me contaram nada.}
+{7219}{Nada hoje.}
+
+// guard
+{7250}{Tudo está tranquilo no momento.}
+{7251}{Não tenho nada para lhe passar.}
+{7252}{Não sei de nada que lhe seja útil.}
+{7253}{Nada fora do comum.}
+{7254}{Se eu encontrasse algo incomum, avisaria você.}
+{7255}{Se eu encontrar algo fora do comum, lhe informarei.}
+{7256}{Se eu me deparar com algo excepcional, certamente lhe avisarei.}
+{7257}{Tudo tem estado geralmente tranquilo por aqui.}
+{7258}{O pouco que ouvi é apenas assunto oficial.}
+{7259}{Não repasso informações confidenciais.}
+{7260}{Fofocas não são da minha alçada.}
+{7261}{Não ouvi nem vi nada de incomum.}
+{7262}{Fofocar não é da minha alçada.}
+{7263}{Os rumores ultimamente têm sido só fofocas mesquinhas.}
+{7264}{Não vi nada que possa ajudá-lo.}
+{7265}{Não tenho informações dignas de serem repassadas.}
+{7266}{Minha preocupação é minha área de patrulha - nada de interessante para você.}
+{7267}{Não sei de nada que lhe diga respeito.}
+{7268}{Não posso repassar nada a que eu tenha acesso, cidadão.}
+{7269}{Não ouvi nada que lhe interesse, cidadão.}
+{7270}{Não. Nada mesmo. Pode seguir em frente agora.}
+{7271}{Não tenho rumores para você.}
+{7272}{Tudo está tranquilo no momento.}
+
+// city_dweller
+{7300}{Não sei de nada.}
+{7301}{Não ouvi nada.}
+{7302}{Não encontrei nada.}
+{7303}{Gostaria de ter algo para contar, mas não tenho.}
+{7304}{Não ouvi nada útil para você.}
+{7305}{Não ouvi nada de importante.}
+{7306}{Certamente avisarei se ouvir algo.}
+{7307}{Não posso ajudá-lo.}
+{7308}{O que me diz respeito trata apenas de assuntos locais.}
+{7309}{Não sei nada que lhe seja útil.}
+{7310}{Não ouvi nada que possa interessar a você.}
+{7311}{Não tenho rumores úteis para lhe passar.}
+{7312}{Não tenho rumores para compartilhar.}
+{7313}{Todos os boatos ultimamente não passam de fofoca vazia.}
+{7314}{É uma pena, mas não ouvi nada nem um pouco picante ultimamente.}
+{7315}{O que sei diz respeito apenas a assuntos locais.}
+{7316}{Não tenho novidades para você.}
+{7317}{Hoje não há boatos que valham um centavo.}
+{7318}{Para ser sincero, não sei de nada.}
+{7319}{Não sei de nada novo.}
+
+// villager
+{7350}{Não ouvi coisa alguma.}
+{7351}{Não ouvi nada.}
+{7352}{Não encontrei absolutamente nada.}
+{7353}{Não tenho nada para contar.}
+{7354}{Não ouvi nada.}
+{7355}{Não ouvi nada.}
+{7356}{Avisarei se ouvir alguma coisa.}
+{7357}{Não posso ajudá-lo.}
+{7358}{Me preocupo apenas com o clima local.}
+{7359}{Às vezes ouço os boatos mais suculentos, mas no momento só há fofocas velhas.}
+{7360}{Não sei nada que lhe seja útil.}
+{7361}{Não ouvi nada que possa interessar a você.}
+{7362}{Não tenho rumores úteis para lhe passar.}
+{7363}{Preciso cuidar das minhas tarefas, não tenho tempo para fofocas hoje.}
+{7364}{Não ouvi nenhum boato.}
+{7365}{Todos os boatos ultimamente têm sido bem entediantes.}
+{7366}{Um bom boato quebra um pouco a rotina do dia. Eu mesma bem que queria um.}
+{7367}{Com certeza, o que sei não passa de fofoca local.}
+{7368}{Não tenho novidades para você.}
+{7369}{Hoje não há boatos para passar um tempo conversando.}
+{7370}{Não sei de nada.}
+{7371}{Não ouvi coisa alguma.}
+{7372}{Não ouvi coisa alguma.}
+
+// beggar
+{7400}{Meus frágeis ouvidos nada aprenderam hoje.}
+{7401}{Não ouvi nada, bela criatura.}
+{7402}{Não encontrei nada.}
+{7403}{Gostaria de ter algo útil para contar, mas não tenho.}
+{7404}{Não ouvi nada útil para você.}
+{7405}{Não ouvi nada de importante.}
+{7406}{Certamente avisarei se ouvir algo.}
+{7407}{Não posso ajudá-lo.}
+{7408}{O que ouvi recentemente trata apenas das ruas locais.}
+{7409}{Normalmente ouço os boatos mais suculentos, mas no momento, nada.}
+{7410}{As fofocas por aqui andam bem fracas ultimamente.}
+{7411}{Não sei nada que lhe seja útil.}
+{7412}{Não ouvi nada que possa interessar a você.}
+{7413}{Não tenho rumores úteis para lhe passar.}
+{7414}{Sabe que eu ajudaria se pudesse.}
+{7415}{Não tenho rumores para compartilhar.}
+{7416}{Todos os rumores ultimamente não valem nem uma casca de pão mofado.}
+{7417}{Não ouvi nada.}
+{7418}{Não sei de nada.}
+{7419}{Não tenho novidades para você.}
+{7420}{Ninguém mais me conta nada.}
+{7421}{Nenhum rumor para mendigar um tostão hoje.}
+{7422}{Para ser sincero, não sei de nada.}
+
+// thief
+{7450}{Nenhum rumor para vender.}
+{7451}{Não sei nada para passar adiante, amigo.}
+{7452}{Não sei de nada que lhe seja útil.}
+{7453}{Nada fora do comum.}
+{7454}{Se eu encontrasse algo incomum, você saberia.}
+{7455}{Se eu encontrar algo fora do comum, lhe informarei.}
+{7456}{Se eu deparar com algo excepcional, certamente lhe avisarei.}
+{7457}{Tudo tem estado muito quieto por aqui, amigo.}
+{7458}{O pouco que ouvi não é para você, amigo.}
+{7459}{Não repasso informações confidenciais.}
+{7460}{Os boatos ultimamente têm sido só para donas de casa, amigo.}
+{7461}{Não ouvi nem vi nada de incomum.}
+{7462}{As fofocas por aqui andam meio escassas ultimamente.}
+{7463}{Os rumores ultimamente têm sido só fofocas mesquinhas.}
+{7464}{Não ouvi nada que possa ajudá-lo.}
+{7465}{Não tenho informações dignas de serem repassadas.}
+{7466}{Minha preocupação é apenas com meu território -- nada de interessante para você.}
+{7467}{Não sei de nada que seja do seu interesse, amigo.}
+{7468}{Não tenho nada para repassar, amigo.}
+{7469}{Não ouvi nada que seja do seu interesse, amigo.}
+{7470}{Não. Nada mesmo, amigo.}
+{7471}{Não tenho rumores para você.}
+{7472}{Tudo está tranquilo no momento, amigo.}
+{7473}{Nenhum rumor para vender, amigo.}
+
+// bandit
+{7500}{Não me deparei com nenhuma notícia de valor.}
+{7501}{Não ouvi nada.}
+{7502}{Não me deparei com nada ultimamente.}
+{7503}{Gostaria de ter algo útil para contar, mas não tenho.}
+{7504}{Não ouvi nada útil para você.}
+{7505}{Não ouvi nada de importante.}
+{7506}{Certamente avisarei se ouvir algo.}
+{7507}{Não posso ajudar você, parceiro.}
+{7508}{O que ouvi ultimamente só diz respeito às estradas, meu velho.}
+{7509}{No momento, nada.}
+{7510}{Os ganhos por aqui têm sido bem escassos ultimamente.}
+{7511}{Não sei de nada útil para você, amigo.}
+{7512}{Não ouvi nada que possa interessar a você.}
+{7513}{Não tenho rumores úteis para lhe passar.}
+{7514}{Não tenho rumores para compartilhar.}
+{7515}{Ultimamente, todos os rumores não valem nem uma caneca de cerveja.}
+{7516}{Não ouvi nada.}
+{7517}{Não sei de nada.}
+{7518}{Não tenho novidades.}
+{7519}{Ninguém mais me conta nada.}
+{7520}{Nenhum rumor hoje.}
+{7521}{Para ser sincero, não sei de nada.}
+{7522}{Meus ouvidos não ouviram nada hoje.}
+{7523}{Não me deparei com nada que valha a pena.}
+
+
+// Initial great greeting messages start at 8000. Each class gets 50
+// messages starting on multiples of 50
+
+// noble
+{8000}{Senhor, que prazer conhecê-lo!}
+{8001}{Saudações! Saudações, de fato.}
+{8002}{É uma grande honra conhecê-lo!}
+{8003}{É um grande prazer conhecê-lo! Em que posso ajudá-lo?}
+{8004}{É uma verdadeira honra conhecê-lo.}
+{8005}{Bom dia! É um prazer singular, tenho certeza!}
+{8006}{Que maravilhoso conhecê-lo!}
+{8007}{É um grande prazer conhecê-lo.}
+{8008}{Que bom conhecê-lo! Em que posso ajudá-lo?}
+{8009}{Oh, céus, que prazer conhecê-lo! Um prazer imenso, de fato.}
+{8010}{O prazer é todo meu! Todo meu.}
+{8011}{Estou encantado em conhecê-la.}
+{8012}{Meus cumprimentos. Meus mais sinceros cumprimentos.}
+{8013}{Sua boa sorte e saúde.}
+{8014}{Saudações e cumprimentos!}
+{8015}{Que bom nos encontrarmos! Estou ao seu dispor.}
+{8016}{É uma grande honra conhecê-lo!}
+{8017}{É um grande prazer conhecê-lo!}
+{8018}{Bom dia! É um prazer conhecê-lo.}
+{8019}{Já estou começando a gostar de você.}
+{8020}{É tão bom conhecê-lo! Muito bom mesmo, de fato.}
+{8021}{É tão bom conhecê-lo! Muito bom mesmo, de fato.}
+{8022}{O prazer é todo meu! Um grande prazer, sem dúvida.}
+{8023}{Simplesmente encantado em conhecê-lo.}
+{8024}{Meus cumprimentos. Meus mais grandiosos cumprimentos.}
+{8025}{À sua excelente saúde.}
+{8026}{Que maravilhoso conhecê-lo!}
+{8027}{Uma honra. Como vai?}
+{8028}{Como vai? É uma honra conhecê-lo.}
+{8029}{De fato! O que posso fazer por você?}
+{8030}{Do que precisa? Estou ao seu dispor.}
+{8031}{Um verdadeiro prazer conhecê-lo.}
+{8032}{Olá. Está se divertindo?}
+{8033}{Sim? Precisa de algo?}
+{8034}{Conhecê-lo fez o meu dia.}
+{8035}{O que é meu, é seu.}
+{8036}{Estou à sua disposição.}
+{8037}{Isso é extraordinário! Sua reputação o precede.}
+{8038}{De fato! Maravilhoso! Que bom conhecê-lo.}
+{8039}{Encantado, verdadeiramente encantado, por conhecê-lo.}
+{8040}{Sensacional! Estou encantado em conhecê-lo.}
+{8041}{Um prazer distinto e singular me apresentar a você.}
+{8042}{Ah, sim! Espero que esteja tendo um dia agradável.}
+{8043}{Definitivamente um prazer conhecê-lo.}
+{8044}{Muito feliz em conhecê-lo.}
+{8045}{Oh, meu! Incomumente bom conhecê-lo.}
+{8046}{Como vai? Espero que esteja bem.}
+{8047}{Oh! É mesmo? Ah, sim! Sua reputação o precedeu.}
+{8048}{Ora, que maravilhoso conhecê-lo!}
+
+// priest
+{8050}{Bem-vindo, meu filho, bem-vindo!}
+{8051}{É um prazer encontrá-lo, filho! Um prazer, de fato.}
+{8052}{É uma honra divina. Uma honra, de fato.}
+{8053}{Bom dia! É um prazer divino!}
+{8054}{É uma honra conhecê-la! Que serviço posso lhe prestar?}
+{8055}{É uma bênção conhecê-la! Uma bênção, de fato.}
+{8056}{Oh, meu, mais um irmão! Em que posso ajudá-lo?}
+{8057}{Um bom encontro é a base de uma boa amizade!}
+{8058}{Como vai? Espero que esteja bem.}
+{8059}{Dia abençoado! É bom conhecer alguém como você!}
+{8060}{É bom cumprimentá-lo como irmão! Muito bom, de fato.}
+{8061}{Meus cumprimentos. Meus melhores votos para você.}
+{8062}{Sua abençoada saúde, meu irmão.}
+{8063}{É um prazer encontrá-lo, filho! Em que posso ajudá-lo?}
+{8064}{É uma honra divina. O que posso fazer por você?}
+{8065}{É uma honra conhecê-la! O que posso fazer por você?}
+{8066}{É uma bênção conhecê-la! O que posso fazer por você?}
+{8067}{É maravilhoso conhecê-la! O que posso fazer por você?}
+{8068}{Como vai? Estou à sua disposição.}
+{8069}{Dia abençoado! É bom conhecer alguém como você!}
+{8070}{É bom cumprimentá-lo como irmão!}
+{8071}{Meus melhores cumprimentos. O que posso fazer por você?}
+{8072}{Sua abençoada boa saúde, irmão.}
+{8073}{Minha criança, que maravilhoso conhecê-la!}
+{8074}{Uma honra, minha criança. Como tem passado?}
+{8075}{Como vai, minha criança? Uma honra conhecê-la.}
+{8076}{Sim? Há algo que eu possa fazer por você?}
+{8077}{Sim? Há algo que eu possa fazer por você?}
+{8078}{Oh! Sim? O que posso fazer por você?}
+{8079}{Do que precisa, irmão?}
+{8080}{É uma verdadeira bênção conhecê-lo.}
+{8081}{Olá, minha criança. Está se divertindo?}
+{8082}{Sim? Precisa de algo?}
+{8083}{Bendito seja! Conhecê-lo alegrou meu dia.}
+{8084}{O que é meu, é seu, meu filho.}
+{8085}{Estou às suas ordens, meu filho.}
+{8086}{Encantado, verdadeiramente encantado, por conhecê-lo.}
+{8087}{Uma bênção é me apresentar a você.}
+{8088}{Ah, olá! Espero que esteja tendo um dia agradável.}
+{8089}{Definitivamente uma bênção conhecê-lo.}
+{8090}{Os deuses sorriem para o nosso encontro.}
+{8091}{Oh, meu! Verdadeiramente abençoado por fazer sua acquaintance.}
+
+// wizard
+{8100}{É uma verdadeira honra. Como posso servi-lo?}
+{8101}{Ah, sim! Sua reputação o precedeu.}
+{8102}{Ah, sim. Os Destinos decretaram que nos encontraríamos em um momento propício.}
+{8103}{Ah, é esclarecedor fazer sua acquaintance!}
+{8104}{Estou muito satisfeito em fazer sua acquaintance.}
+{8105}{Eu, um poderoso encantador, saúdo sua chegada!}
+{8106}{Bem-vindo, é! Bem-vindo, de fato.}
+{8107}{Saúdo sua chegada. Como posso servi-lo?}
+{8108}{É um prazer fazer sua acquaintance.}
+{8109}{Bom dia! Há magia no ar hoje!}
+{8110}{Como vai? Espero que esteja bem.}
+{8111}{Meus mais sinceros cumprimentos.}
+{8112}{Sua abundante boa saúde.}
+{8145}{É incomumente bom conhecê-lo.}
+{8114}{É uma verdadeira honra.}
+{8115}{Estou muito satisfeito em fazer sua acquaintance.}
+{8116}{Saúdo sua chegada! De fato, saúdo!}
+{8117}{Bem-vindo, é! Bem-vindo, de fato.}
+{8118}{Dou-lhe as boas-vindas e saúdo-o com estima.}
+{8119}{É uma honra e estou ao seu dispor.}
+{8120}{Meus mais sinceros cumprimentos.}
+{8121}{À sua excelente saúde.}
+{8122}{Estou encantado em conhecê-la.}
+{8123}{Meu bom senhor, que prazer conhecê-lo!}
+{8124}{Uma honra. Como vai? Desejava muito conhecê-lo.}
+{8125}{Como vai? É uma honra conhecê-lo.}
+{8126}{Sim? Em que posso ajudá-lo?}
+{8127}{Sim? Em que posso ajudá-lo?}
+{8128}{De fato! Sim? Em que posso ajudá-lo?}
+{8129}{Conhecê-lo iluminou meu dia.}
+{8130}{Um profundo prazer conhecê-lo.}
+{8131}{Olá. Está precisando de algo que eu possa providenciar?}
+{8132}{Sim? Está precisando de algo em que eu possa ajudar?}
+{8133}{Meu bom senhor! Conhecê-lo fez o meu dia.}
+{8134}{O que é meu, é seu.}
+{8135}{Meu conhecimento está à sua disposição.}
+{8136}{Isso é muito esclarecedor! Sua reputação o precede.}
+{8137}{De fato! Eu esperava conhecê-lo.}
+{8138}{Encantado! Sim. Um prazer conhecê-lo.}
+{8139}{De fato! Estou encantado. Sabia que nos encontraríamos.}
+{8140}{Não precisa se apresentar! Eu sabia que nossos caminhos se cruzariam.}
+{8141}{Um prazer distinto e singular me apresentar a você.}
+{8142}{Ah, sim! Espero que esteja tendo um dia agradável.}
+{8143}{Definitivamente um prazer conhecê-lo.}
+{8144}{Muito feliz em conhecê-lo.}
+
+// technologist
+{8150}{Senhor, estou às suas ordens.}
+{8151}{Estou aqui para servi-lo, senhor.}
+{8152}{Estou muito feliz em conhecê-lo.}
+{8153}{Sim, é certamente um prazer conhecê-lo.}
+{8154}{Ah, sim! Um prazer, tenho certeza.}
+{8155}{Bem-vindo! De fato, bem-vindo.}
+{8156}{Estou muito feliz em conhecê-la.}
+{8157}{Bom dia, senhor! Como vai?}
+{8158}{Esplêndido! É um prazer conhecê-lo.}
+{8159}{Posso ser de alguma ajuda?}
+{8160}{A quem devo o prazer desta apresentação?}
+{8161}{Meus cumprimentos, senhor.}
+{8162}{Sua crescente boa saúde, senhor.}
+{8163}{Senhor, estou às suas ordens.}
+{8164}{Estou aqui para servi-lo, meu bom homem.}
+{8165}{Estou muito satisfeito em conhecê-lo. Muito satisfeito, sim.}
+{8166}{Ah, sim! Um prazer, tenho certeza. Um grande prazer.}
+{8167}{Bem-vindo! O que posso fazer por você?}
+{8168}{Estou muito feliz em conhecê-la.}
+{8169}{Posso ser de alguma ajuda?}
+{8170}{É uma honra, a quem devo este prazer?}
+{8171}{Meus mais sinceros cumprimentos.}
+{8172}{À sua excelente saúde.}
+{8173}{Estou encantado em conhecê-la.}
+{8174}{Que maravilhoso conhecê-lo!}
+{8175}{Uma honra. Como vai?}
+{8176}{Como vai? É uma honra conhecê-lo.}
+{8177}{Sim? Há algum modo como posso servi-lo?}
+{8178}{Sim? Que serviço posso prestar?}
+{8179}{De fato! Que serviço necessita de mim?}
+{8180}{Como vai? É realmente um prazer.}
+{8181}{Um prazer bem-vindo conhecê-lo.}
+{8182}{Olá. Está encontrando o que precisa aqui?}
+{8183}{Sim? Eu...? Sim. Acho que já ouvi falar do senhor.}
+{8184}{Por todos os deuses! Encontrá-lo assim fez o meu dia.}
+{8185}{O que é meu, é seu. De fato.}
+{8186}{Minha expertise técnica está à sua disposição.}
+{8187}{Isso é muito instrutivo! Sua reputação o precede.}
+{8188}{Como vai? Espero que esteja bem.}
+{8189}{Encantado! Um prazer conhecê-lo.}
+{8190}{De fato! Estou encantado.}
+{8191}{Oh, que maravilhoso conhecê-lo.}
+{8192}{Um prazer singular apresentar-me a você.}
+{8193}{Oh, sim! Maravilhoso! Como está?}
+{8194}{Um prazer, um prazer conhecê-lo.}
+{8195}{Feliz em conhecê-lo. Muito feliz, acredito.}
+{8196}{Um raro prazer é conhecê-lo.}
+
+// shopkeeper
+{8200}{Sou seu humilde servo. Por favor, guie-me como desejar.}
+{8201}{Vender é o meu negócio. Muito prazer em conhecê-lo!}
+{8202}{Certamente é bom conhecer alguém como você!}
+{8203}{Bom dia! É um prazer certo e verdadeiro!}
+{8204}{Bem, estou muito feliz em conhecê-lo! Muito feliz mesmo.}
+{8205}{Glória! É um grande prazer conhecê-lo!}
+{8206}{É bom conhecê-lo, senhor! Muito bom, de fato.}
+{8207}{Meu Deus! Há alguma forma de ajudá-la? De qualquer forma?}
+{8208}{Uma honra, de fato, conhecê-lo. Estou à sua disposição.}
+{8209}{Como posso servi-lo, senhor?}
+{8210}{Excelente, de fato, é conhecê-lo!}
+{8211}{Estou encantado em conhecê-lo, senhor.}
+{8212}{Um prazer conhecê-lo, devo dizer!}
+{8213}{Meus melhores cumprimentos.}
+{8214}{À sua excelente saúde.}
+{8215}{Muito prazer em conhecê-lo! Muito prazer, de fato.}
+{8216}{Sou seu humilde servo. Em que posso ajudá-lo?}
+{8217}{Bom dia! É um prazer certo!}
+{8218}{Bem, estou muito feliz em conhecê-lo, senhor!}
+{8219}{É um grande prazer conhecê-la!}
+{8220}{É um prazer conhecê-lo, senhor!}
+{8221}{Há algo em que eu possa ajudá-lo?}
+{8222}{Como posso servi-la?}
+{8223}{Estou encantado em conhecê-la.}
+{8224}{Um prazer conhecê-la! Um prazer mesmo.}
+{8225}{Meus melhores cumprimentos. De fato!}
+{8226}{À sua ótima saúde. Muito bom, de fato.}
+{8227}{Como vai, senhor? Bem, eu espero.}
+{8228}{Procurando algo especial? Posso ajudar?}
+{8229}{Como vai? Posso ser útil?}
+{8230}{Sim? Posso ajudá-la em algo?}
+{8231}{Sim, senhor? Posso ser de alguma ajuda?}
+{8232}{Há algo em particular que lhe interesse hoje?}
+{8233}{Posso perguntar o que lhe agrada hoje?}
+{8234}{Há algo com que eu possa ajudá-lo?}
+{8235}{Olá. Espero que tenhamos o que procura.}
+{8236}{Sim? Há alguma forma de eu ser útil?}
+{8237}{Sim? Em que posso ajudá-lo hoje?}
+{8238}{Hmm? Sim? Espero que tudo esteja satisfatório?}
+{8239}{Hmm? Está tudo ao seu gosto?}
+{8240}{Sim? Está tudo satisfatório?}
+{8241}{Sim? Como posso servi-lo?}
+{8242}{Sim? O que posso fazer por você?}
+{8243}{Sim? Posso ser útil?}
+{8244}{Bem-vinda ao meu humilde estabelecimento.}
+{8245}{Bem-vinda. Espero que tenhamos o que procura.}
+{8246}{Muito prazer em conhecê-lo.}
+{8247}{É um grande prazer conhecê-lo.}
+{8248}{Olá. Bem-vindo ao melhor estabelecimento da região.}
+
+// guard
+{8250}{Olá. É uma grande honra.}
+{8251}{Senhor. Meus cumprimentos.}
+{8252}{A senhora é uma visão de encantamento.}
+{8253}{Estou humildemente lisonjeado.}
+{8254}{Senhor, é um grande prazer.}
+{8255}{Ao seu dispor, senhor.}
+{8256}{Ordene-me! Sou seu.}
+{8257}{Diga seu desejo, senhor.}
+{8258}{Sempre ao seu dispor, senhor.}
+{8259}{Certamente, estou às suas ordens.}
+{8260}{É uma honra conhecê-lo.}
+{8261}{Um belo dia para conhecê-lo.}
+{8262}{Bom dia. Como vai?}
+{8263}{Olá. Desejo-lhe bem.}
+{8264}{Olá!}
+{8265}{Saudações, senhor!}
+{8266}{Meus cumprimentos, honrado senhor.}
+{8267}{À sua boa saúde, senhor.}
+{8268}{Olá. Desejo-lhe bem.}
+{8269}{Olá! Espero que esteja bem!}
+{8270}{Saudações! Como está hoje?}
+{8271}{Olá. É uma grande honra.}
+{8272}{Sou humilde. Um prazer conhecê-lo.}
+{8273}{Senhor, é um grande prazer.}
+{8274}{Sempre ao seu dispor.}
+{8275}{Meus cumprimentos. Meus melhores cumprimentos.}
+{8276}{À sua saúde. À sua excelente saúde.}
+{8277}{Em que posso ajudá-lo?}
+{8278}{Sim? Há algum problema com o qual eu possa ajudar?}
+{8279}{Posso ajudá-lo? Qualquer coisa?}
+{8280}{Olá. Posso ajudá-lo?}
+{8281}{Sempre às suas ordens.}
+{8282}{Bom dia. Em que posso ajudá-lo?}
+{8283}{Sim? Posso ser útil?}
+{8284}{Há algum problema? Precisa de ajuda?}
+{8285}{Olá. Precisa de alguma ajuda?}
+{8286}{Sim? Alguma coisa, <<<PH1>>>?}
+{8287}{Sim? Está tendo um bom dia?}
+{8288}{Ah, sim? O que é?}
+{8289}{Olá. Precisa de mim para algo?}
+{8290}{Sim? Um dia maravilhoso, não é?}
+{8291}{Um verdadeiro prazer conhecê-lo.}
+{8292}{Sim? Há algum problema?}
+{8293}{O senhor está bem, espero?}
+{8294}{Olá. Como está hoje?}
+{8295}{Sim? Tem algo a reportar, senhor?}
+{8296}{Olá. Espero que esteja seguro.}
+{8297}{Como está hoje? Espero que esteja seguro.}
+{8298}{Um prazer conhecê-lo. Posso ser útil em algo?}
+{8299}{Uma honra conhecê-lo. Precisa de minha ajuda?}
+
+// city_dweller
+{8300}{Tenho a honra de conhecê-la.}
+{8301}{Bom dia! É um prazer, tenho certeza!}
+{8302}{Por favor, permita-me! Há algum serviço que eu possa fazer por você?}
+{8303}{Olá. Espero que esteja tendo um bom dia.}
+{8304}{Qualquer coisa pelo senhor! Qualquer coisa!}
+{8305}{Saudações, amigo! Um prazer conhecê-lo!}
+{8306}{Salve! Como está neste belo dia?}
+{8307}{É um verdadeiro prazer fazer sua acquaintance.}
+{8308}{Uma honra suprema conhecê-lo.}
+{8309}{É um esplêndido prazer conhecê-la!}
+{8310}{É uma intensa satisfação me apresentar a você.}
+{8311}{Como vai? Grande é o prazer, tenho certeza.}
+{8312}{Meus melhores cumprimentos.}
+{8313}{À sua melhor saúde.}
+{8314}{Permita-me! Um prazer!}
+{8315}{Saudações, cidadão! Prazer em conhecê-lo!}
+{8316}{Salve, amigo! Como está neste belo dia?}
+{8317}{Ah! É maravilhoso apertar sua mão, senhor.}
+{8318}{Olá. Em que posso ajudá-lo?}
+{8319}{Olá. Como vai?}
+{8320}{Olá. Que belo período de clima estamos desfrutando, não acha?}
+{8321}{Olá. Espero que esteja bem.}
+{8322}{Sim? Está se divertindo?}
+{8323}{O que é? Há algo em que eu possa ajudá-la?}
+{8324}{Sim? Estou ocupado, mas posso tirar um momento para você.}
+{8325}{Ora, certamente. Em que posso ajudá-lo?}
+{8326}{Com certeza. Como posso servi-lo?}
+{8327}{Um prazer. Está gostando de nossa bela cidade?}
+{8328}{Prazer em conhecê-lo. O que está achando de nossa cidade moderna?}
+{8329}{Prazer em conhecê-lo. Está gostando da vida na cidade?}
+{8330}{Hmm? Sim? Como está hoje?}
+{8331}{Sim? Como está neste belo dia?}
+{8332}{Sim? O mundo está lhe tratando bem?}
+{8333}{Que maravilha de era em que vivemos. Não concorda?}
+{8334}{Prazer em conhecê-lo. Como está?}
+{8335}{Espero que tudo esteja bem com você?}
+{8336}{Olá. Espero que tudo esteja bem com você?}
+{8337}{Hmm? Sim. De fato! Muito prazer em conhecê-lo.}
+{8338}{Muito feliz em conhecê-lo.}
+{8339}{É uma honra conhecê-lo.}
+
+// villager
+{8350}{É uma grande honra.}
+{8351}{Estou muito feliz em conhecê-la.}
+{8352}{Você é realmente impressionante.}
+{8353}{É um prazer conhecê-lo.}
+{8354}{Estou muito feliz em conhecê-lo.}
+{8355}{Por favor! Como posso ser útil?}
+{8356}{Com certeza, é um prazer conhecê-lo.}
+{8357}{Com certeza, é um prazer.}
+{8358}{Posso ajudá-lo?}
+{8359}{Posso fazer algo por você?}
+{8360}{É um verdadeiro prazer conhecê-lo!}
+{8361}{Oh, minha nossa! Sou seu servo.}
+{8362}{Senhor! A que devemos a honra de sua companhia?}
+{8363}{É um prazer conhecê-lo!}
+{8364}{Saudações, de fato! Um grande prazer conhecê-lo!}
+{8365}{Você é realmente bem-vinda!}
+{8366}{Bom dia para você.}
+{8367}{Como vai?}
+{8368}{Meus cumprimentos.}
+{8369}{À sua boa saúde.}
+{8370}{Por favor! Estou ao seu dispor.}
+{8371}{Você é realmente bem-vinda aqui!}
+{8372}{Bom dia para você. Um ótimo dia.}
+{8373}{Como vai? Muito bem, espero?}
+{8374}{Meus cumprimentos. Meus melhores, é claro!}
+{8375}{Saudações! É uma humildade conhecê-la!}
+{8376}{Sou honrado. Muito honrado.}
+{8377}{É maravilhoso conhecê-la. Maravilhoso!}
+{8378}{Ah! É maravilhoso cumprimentá-la assim.}
+{8379}{Olá. Em que posso ajudá-lo?}
+{8380}{Ora, olá. Como vai?}
+{8381}{Muito feliz em conhecê-lo.}
+{8382}{Olá. Espero que esteja bem.}
+{8383}{Sim? Precisa de algo?}
+{8384}{O que é? Há algo em que eu possa ajudá-la?}
+{8385}{Muita coisa para fazer hoje. Mas ficaria feliz em conversar com a senhora um momento.}
+{8386}{Ora, sim, claro. Em que posso ajudá-la?}
+{8387}{Um prazer. Como posso ser útil?}
+{8388}{Um prazer. Está gostando do nosso belo país?}
+{8389}{Muito prazer em conhecê-la.}
+{8390}{Prazer em conhecê-la. Está se divertindo?}
+{8391}{Sim! Seja bem-vinda aqui. De fato.}
+{8392}{Sim? Como está neste belo dia no campo?}
+{8393}{Respire esse ar do campo! Maravilhoso, não é?}
+{8394}{Sim! É mesmo! Em que posso ajudá-la?}
+{8395}{Prazer em conhecê-lo. Como está?}
+{8396}{Espero que tudo esteja bem com você?}
+{8397}{Olá. Espero que tudo esteja bem com você?}
+
+// beggar
+{8400}{Oh, alguém como eu não é digno de falar com a senhora.}
+{8401}{Por favor. Peço desculpas.}
+{8402}{Oh! Você é maravilhoso!}
+{8403}{Por favor. Por favor. O que posso fazer pela senhora?}
+{8404}{Não tive a intenção de atrapalhá-la. Peço humildemente desculpas.}
+{8405}{A senhora é uma visão! Uma visão!}
+{8406}{O que eu puder fazer, farei pela senhora.}
+{8407}{Oh, por favor. Este pobre mendigo não quis causar mal algum.}
+{8408}{Sim, não há ninguém mais bela que a senhora!}
+{8409}{Este velho mendigo pode fazer algo por você agora?}
+{8410}{Com certeza, quem dera eu pudesse cumprimentá-lo como você merece!}
+{8411}{Meus humildes cumprimentos.}
+{8412}{À sua excelente saúde.}
+{8413}{Oh, não sou digno de falar com você.}
+{8414}{Não tive a intenção de atrapalhar seu caminho. Me desculpe.}
+{8415}{Uma visão de realeza você é!}
+{8416}{A melhor das saúdes.}
+{8417}{Posso estar fazendo algo por você?}
+{8418}{Sim? Precisa de mim para alguma coisa?}
+{8419}{Olá! O que posso fazer por você?}
+{8420}{Se lhe agrada, posso ser útil.}
+{8421}{Se lhe agrada. O que posso fazer por você?}
+{8422}{Sim? Oh, que prazer conhecê-lo.}
+{8423}{Por favor? Sim? Posso ajudar em algo?}
+{8424}{Como está? Espero que esteja bem.}
+{8425}{Sim? Como vai? Em que posso ajudá-la?}
+{8426}{Oh. Prazer em conhecê-lo. Me chamou?}
+{8427}{Sim? Precisa de ajuda minha?}
+{8428}{Hmm? Sim? Um prazer. Como está hoje?}
+{8429}{Como vai? É um verdadeiro prazer conhecê-lo.}
+{8430}{Sim? Como vai? Precisa de mim? Qualquer coisa.}
+{8431}{Sim. De fato! Prazer em conhecê-lo. Precisa de mim?}
+{8432}{Feliz em conhecê-lo. Muito feliz, de fato.}
+{8433}{Estou feliz em conhecê-lo. Muito feliz, estou.}
+
+// thief
+{8450}{É uma grande honra conhecê-lo.}
+{8451}{É bom conhecer alguém como você! Sou o ladrão mais astuto por aqui.}
+{8452}{Saudações, senhor! É uma honra conhecê-lo!}
+{8453}{Conhecê-lo tornou este um dia excelente, de fato!}
+{8454}{Bom dia a você, espero poder ser de alguma pequena ajuda.}
+{8455}{Minha sorte aumentou por ter a honra de conhecê-lo!}
+{8456}{Um belo dia para fazer sua acquaintance! Bem-vindo!}
+{8457}{Que emoção! Estou feliz por conhecê-lo.}
+{8458}{É como se a própria Dama Sorte o tivesse trazido até mim!}
+{8459}{É um prazer de primeira classe conhecê-lo.}
+{8460}{É um prazer assustadoramente bom conhecê-lo.}
+{8461}{Meus sinceros cumprimentos, senhor.}
+{8462}{À sua extraordinária boa saúde.}
+{8463}{É bom conhecer alguém como você.}
+{8464}{Saudações, cidadão! É uma honra conhecê-lo!}
+{8465}{Minha sorte aumentou por ter a honra de conhecê-lo!}
+{8466}{Você é bem-vindo aqui, velho amigo. Com certeza.}
+{8467}{Bom dia para você.}
+{8468}{É uma honra. Uma honra realmente boa.}
+{8469}{É um prazer conhecê-lo, amigo. De fato, é.}
+{8470}{De fato, estou muito feliz em conhecê-lo.}
+{8471}{Vamos conversar, amigo? Precisa de algo?}
+{8472}{Vamos conversar. Sou muito, ah, prestativo.}
+{8473}{O que é, amigo? Posso ajudar em algo?}
+{8474}{O que é? Precisa de algo de mim?}
+{8475}{Sim? O que é, amigo? Precisa de algo?}
+{8476}{Hmm. Sim? Sobre o que posso esclarecê-lo, amigo?}
+{8477}{Como está, amigo? Aproveitando?}
+{8478}{Sim? O que posso fazer por você, amigo?}
+{8479}{Sim? Por que me procura, amigo?}
+{8480}{Hmm? Sim, o que é, amigo?}
+{8481}{Hmm? Precisa de mim, amigo?}
+{8482}{Um belo dia para um passeio, não acha, amigo?}
+{8483}{Olá, amigo. Como está?}
+{8484}{Olá. O que me diz neste belo dia?}
+{8485}{Hmm? Sim? Qual é a palavra, amigo? Está tendo um bom dia?}
+{8486}{Olá. Um verdadeiro prazer, de fato.}
+{8487}{Olá. Está precisando de algum dos meus serviços?}
+{8488}{Olá. Que dia excelente hoje, não é?}
+{8489}{Sim? Prazer em conhecê-lo.}
+{8490}{Ah. Sim, amigo. Prazer em conhecê-lo. O que posso fazer por você?}
+{8491}{Um dia dos mais belos, amigo. O que posso fazer por você?}
+{8492}{Uma verdadeira honra conhecê-lo.}
+
+// bandit
+{8500}{É uma honra conhecê-lo.}
+{8501}{É bom conhecê-lo!}
+{8502}{Ora! É bom conhecer alguém como você aqui, com certeza!}
+{8503}{Estou feliz em conhecê-lo, pode crer!}
+{8504}{Estou ao seu dispor! Fico feliz que esteja aqui!}
+{8505}{Ora! É bom recebê-lo, com certeza!}
+{8506}{Ah, sim! Você é bem-vindo aqui, pode crer!}
+{8507}{Olá! O que posso fazer por você, irmão?}
+{8508}{O dia parece melhor agora que conheci alguém como você!}
+{8509}{Opa! Acho que vamos nos dar muito bem, sim!}
+{8510}{Acho que já gostei de você!}
+{8511}{Meus cumprimentos, irmão!}
+{8512}{A melhor saúde para o senhor!}
+{8513}{O que posso fazer por você, irmão?}
+{8514}{Como está, velho amigo?}
+{8515}{Um dia dos mais belos, eu declaro.}
+{8516}{Qual é a novidade nas ruas, irmão?}
+{8517}{Está tudo bem, meu amigo?}
+{8518}{Olá. O que você deseja, amigo?}
+{8519}{Um dia agradável, com certeza. Um dia bem agradável, eu acho.}
+{8520}{Andou em alguma boa briga ultimamente, amigo?}
+{8521}{Muito prazer em conhecê-lo, irmão.}
+{8522}{O que posso fazer por você, irmão?}
+{8523}{Oh! Que dia bom, não é?}
+{8524}{Prazer em conhecê-lo, irmão.}
+{8525}{Muito prazer em conhecê-lo, irmão. Muito prazer mesmo.}
+{8526}{Estou indo bem, e você?}
+{8527}{Como vai, amigo? Se mantendo longe de encrencas?}
+{8528}{Se mantendo longe de encrencas, irmão?}
+{8529}{Muito gentil da sua parte, sim.}
+{8530}{Prazer em conhecê-lo, declaro.}
+{8531}{Um prazer e tanto conhecê-lo.}
+{8532}{Como vai, amigo? Estou indo bem.}
+{8533}{Sim? Precisa de mim? O que posso fazer por você?}
+{8534}{Olá! O que posso fazer por você?}
+
+
+// Initial good greeting messages start at 9000. Each class gets 50
+// messages starting on multiples of 50
+
+// noble
+{9000}{Saudações.}
+{9001}{Senhor, é um prazer conhecê-lo.}
+{9002}{É um prazer conhecê-lo.}
+{9003}{É um prazer conhecê-lo.}
+{9004}{É uma honra.}
+{9005}{É um prazer, tenho certeza!}
+{9006}{Sim. Bem-vinda. De fato.}
+{9007}{Saudações! E bem-vinda.}
+{9008}{É bom conhecê-la.}
+{9009}{É um prazer conhecê-lo.}
+{9010}{É um prazer.}
+{9011}{É um prazer conhecê-lo.}
+{9012}{Senhor, estou feliz em conhecê-lo.}
+{9013}{Olá. Como vai você?}
+{9014}{Como vai, senhor?}
+{9015}{Como vai?}
+{9016}{Olá.}
+{9017}{Sim, senhor?}
+{9018}{Pois não?}
+{9019}{Pois não?}
+{9020}{O que é?}
+{9021}{Sim? O que é?}
+{9022}{O que posso fazer por você?}
+{9023}{Sim? O que posso fazer por você?}
+{9024}{O que você quer?}
+{9025}{Sim? O que você quer?}
+{9026}{Hmm? Sim?}
+{9027}{Hmm? O que deseja?}
+{9028}{Hmm? Sim? O que é?}
+{9029}{Hmm? Sim? O que é?}
+{9030}{Hmm? Sim? O que posso fazer por você?}
+{9031}{Hmm? Sim? O que posso fazer por você?}
+{9032}{Hmm? Em que posso ajudá-lo?}
+{9033}{Hmm? Em que posso ajudá-lo?}
+
+// priest
+{9050}{Bem-vinda, o que posso fazer por você?}
+{9051}{Olá, filho.}
+{9052}{É uma honra.}
+{9053}{Olá! É um prazer.}
+{9054}{Como vai?}
+{9055}{Bendito Seja!}
+{9056}{Olá, meu filho.}
+{9057}{Está um bom dia, não acha?}
+{9058}{Saudações, meu irmão.}
+{9059}{Bênçãos! É um prazer conhecê-la.}
+{9060}{Saudações, meu irmão.}
+{9061}{Estou feliz em conhecê-lo, meu irmão.}
+{9062}{É um prazer conhecê-lo.}
+{9063}{Olá. Como vai você?}
+{9064}{Como vai, filho?}
+{9065}{Como vai, senhor?}
+{9066}{Olá, irmão.}
+{9067}{Sim, criança.}
+{9068}{Hmm. Sim, irmão?}
+{9069}{Hmm. Sim, filho?}
+{9070}{O que é, criança?}
+{9071}{Sim? O que é, filho?}
+{9072}{O que posso fazer por você, irmão?}
+{9073}{Sim? O que posso fazer por você, irmão?}
+{9074}{O que você quer, filho?}
+{9075}{Sim? O que você quer, filho?}
+{9076}{Hmm? Sim?}
+{9077}{Hmm? O que é, criança?}
+{9078}{Hmm? Sim? O que é?}
+{9079}{Hmm? Sim? O que é, filho?}
+{9080}{Hmm? Sim? O que posso fazer por você?}
+{9081}{Hmm? Sim? O que posso fazer por você, criança?}
+{9082}{Hmm? Em que posso ajudá-lo?}
+{9083}{Hmm? O que posso fazer por você, irmão?}
+
+
+// wizard
+{9100}{Olá, o que posso fazer por você?}
+{9101}{Saudações!}
+{9102}{É uma honra.}
+{9103}{É um prazer conhecê-lo.}
+{9104}{Tenho o prazer de conhecê-la.}
+{9105}{Prazer em conhecê-lo.}
+{9106}{Saudações.}
+{9107}{Saúdo-lhe com boas-vindas.}
+{9108}{É um prazer conhecê-lo.}
+{9109}{Bom dia! Sou um mago, sabe?}
+{9110}{Estou ao seu dispor.}
+{9111}{Olá. É uma honra.}
+{9112}{Feliz em conhecê-lo, senhor.}
+{9113}{Como está?}
+{9114}{Como vai?}
+{9115}{Como vai, senhor?}
+{9116}{Olá, aqui estou, sim.}
+{9117}{Sim, estou aqui.}
+{9118}{Pois não?}
+{9119}{Pois não?}
+{9120}{O que deseja, senhor?}
+{9121}{Sim? O que é?}
+{9122}{Em que posso ajudá-lo?}
+{9123}{Em que posso ajudá-lo?}
+{9124}{Sim? Em que posso ajudá-la?}
+{9125}{Sim? Em que posso ajudá-la?}
+{9126}{Hmm? Sim?}
+{9127}{Hmm? Precisa de mim?}
+{9128}{Hmm? Pois não? Precisa de mim?}
+{9129}{Hmm? Pois não? Precisa de mim?}
+{9130}{Hmm? Sim? O que posso fazer por você?}
+{9131}{Hmm? Sim? O que posso fazer por você?}
+{9132}{Hmm? Em que posso ajudá-lo?}
+{9133}{Hmm? Em que posso ajudá-lo?}
+{9134}{É um prazer conhecê-lo.}
+
+// technologist
+{9150}{Olá. Em que posso ajudá-lo?}
+{9151}{Está um belo dia.}
+{9152}{É um prazer conhecê-lo.}
+{9153}{É bom conhecê-la.}
+{9154}{Um prazer, tenho certeza.}
+{9155}{Bem-vindo!}
+{9156}{É um prazer conhecê-lo.}
+{9157}{Como vai? É uma honra.}
+{9158}{Um prazer conhecê-lo.}
+{9159}{Sou um inventor. Prazer em conhecê-lo.}
+{9160}{Como vai?}
+{9161}{Senhor, é um prazer conhecê-lo.}
+{9162}{Feliz em conhecê-la.}
+{9163}{Como está, senhor?}
+{9164}{Como vai?}
+{9165}{Como vai, senhor?}
+{9166}{Olá, como está?}
+{9167}{Sim, como está?}
+{9168}{Pois não?}
+{9169}{Pois não?}
+{9170}{Sim, senhor?}
+{9171}{O que é?}
+{9172}{Sim? O que é?}
+{9173}{Com o que precisa de ajuda?}
+{9174}{Com o que precisa de ajuda, senhor?}
+{9175}{Sim? Em que posso ajudá-lo?}
+{9176}{Sim? Em que posso ajudá-lo, senhor?}
+{9177}{Hmm? Sim, senhor?}
+{9178}{Hmm? Precisa de mim?}
+{9179}{Hmm? Pois não? Precisa de mim?}
+{9180}{Hmm? Sim? Precisa de mim, senhor?}
+{9181}{Hmm? Sim? O que você quer?}
+{9182}{Hmm? Sim? O que deseja, senhor?}
+{9183}{Hmm? Em que posso ajudá-lo?}
+{9184}{Hmm? O que posso fazer pelo senhor?}
+{9185}{É um prazer conhecê-lo.}
+
+
+// shopkeeper
+{9200}{Olá. Viu algo que lhe agrade?}
+{9201}{Bem-vinda à minha loja. Prazer em conhecê-la.}
+{9202}{É bom conhecê-la! Muito bom mesmo.}
+{9203}{Bom dia! É um prazer.}
+{9204}{Bem, é um prazer conhecê-la!}
+{9205}{É bom conhecê-la.}
+{9206}{É um prazer conhecê-lo, senhor!}
+{9207}{Há algo em que eu possa ajudá-lo?}
+{9208}{É um prazer conhecê-la. Estou à sua disposição.}
+{9209}{Como posso ajudá-lo, senhor?}
+{9210}{É um prazer conhecê-lo.}
+{9211}{Tenho o prazer de conhecê-la.}
+{9212}{Olá, senhor. Sou o melhor comerciante da região.}
+{9213}{Sou seu servo. O que é que você precisa?}
+{9214}{Como vai?}
+{9215}{Como vai?}
+{9216}{Olá, procurando algo especial?}
+{9217}{Olá, procurando algo especial?}
+{9218}{Sim, senhor?}
+{9219}{Pois não?}
+{9220}{O que lhe interessa hoje, senhor?}
+{9221}{Sim? O que lhe agrada hoje?}
+{9222}{Em que posso ajudá-lo?}
+{9223}{Com o que posso ajudá-lo, senhor?}
+{9224}{Sim? Em que posso ajudá-la?}
+{9225}{Sim? Em que posso ajudá-la?}
+{9226}{Hmm? Sim, senhor?}
+{9227}{Hmm? Como posso ajudá-la?}
+{9228}{Hmm? Pois não? Em que posso ajudá-lo?}
+{9229}{Hmm? Sim? O que gostaria de ver, senhor?}
+{9230}{Hmm? Sim? O que posso fazer por você?}
+{9231}{Hmm? Sim? O que posso fazer por você?}
+{9232}{Hmm? O que posso fazer pelo senhor?}
+{9233}{Hmm? Em que posso ajudá-lo?}
+{9234}{É um prazer conhecê-lo.}
+{9235}{Feliz em conhecê-lo, senhor.}
+{9236}{Como está, senhor?}
+
+// guard
+{9250}{Olá. Posso fazer algo por você?}
+{9251}{Olá.}
+{9252}{Posso ajudá-lo?}
+{9253}{Olá. É um prazer conhecê-lo.}
+{9254}{É um prazer conhecê-lo.}
+{9255}{Senhor, é um prazer.}
+{9256}{Às suas ordens.}
+{9257}{Precisa de mim?}
+{9258}{Que serviço precisa?}
+{9259}{Ao seu dispor, senhor.}
+{9260}{Estou às suas ordens, senhor.}
+{9261}{É um prazer conhecê-lo.}
+{9262}{Um belo dia, não é?}
+{9263}{É um bom dia.}
+{9264}{Olá. Como vai?}
+{9265}{Olá.}
+{9266}{Saudações, senhor.}
+{9267}{Posso ajudá-lo?}
+{9268}{Sim? Há algum problema?}
+{9269}{Posso ajudá-lo, senhor?}
+{9270}{Estou à sua disposição, senhor.}
+{9271}{O que é?}
+{9272}{Sim? O que deseja, senhor?}
+{9273}{Precisa de ajuda?}
+{9274}{Precisa de ajuda?}
+{9275}{Sim? Aconteceu algo?}
+{9276}{Sim? Aconteceu algo?}
+{9277}{Hmm? Sim?}
+{9278}{Hmm? Precisa de mim?}
+{9279}{Hmm? Sim? Precisa de mim, senhor?}
+{9280}{Hmm? Pois não? Precisa de mim?}
+{9281}{Hmm? Pois não? Há algum problema?}
+{9282}{Hmm? Pois não? Há algum problema?}
+{9283}{Hmm? Tem algo que precise de mim, senhor?}
+{9284}{Espero que esteja a salvo.}
+{9285}{Olá. Posso ajudá-lo?}
+{9286}{Há algo que eu possa fazer por você?}
+{9287}{Posso ser útil?}
+{9288}{Posso ser útil, senhor?}
+{9289}{Posso ser útil?}
+
+// city_dweller
+{9300}{Olá, senhor, o prazer é meu.}
+{9301}{Bom dia, é um prazer, de fato.}
+{9302}{Como vai? O prazer é meu, de fato.}
+{9303}{Outro dia assustador, temo. Como vai?}
+{9304}{O que posso fazer pelo senhor?}
+{9305}{Olá! Prazer em conhecê-la.}
+{9306}{Como está hoje?}
+{9307}{É um prazer fazer sua aquaintância.}
+{9308}{Uma honra conhecê-lo.}
+{9309}{É um prazer fazer sua aquaintância.}
+{9310}{É uma satisfação me apresentar a você.}
+{9311}{Como vai?}
+{9312}{Olá.}
+{9313}{Olá. Do que precisa?}
+{9314}{Como vai?}
+{9315}{Como vai?}
+{9316}{Como vai?}
+{9317}{Olá. O que é?}
+{9318}{Olá. Prazer em conhecê-lo.}
+{9319}{Pois não?}
+{9320}{O que deseja, senhor?}
+{9321}{Sim? O que posso fazer por você?}
+{9322}{Em que posso ajudá-lo?}
+{9323}{O quê?}
+{9324}{Sim? O que é?}
+{9325}{Sim? O que é?}
+{9326}{Hmm? Sim?}
+{9327}{Hmm? Como vai?}
+{9328}{Hmm? Sim? Como vai?}
+{9329}{Hmm? Sim? Prazer em conhecê-lo?}
+{9330}{Hmm? Sim? Prazer em conhecê-lo, senhor?}
+{9331}{Hmm? Sim? Um prazer.}
+{9332}{Hmm? Como vai?}
+{9333}{Hmm? Como vai?}
+{9334}{Hmm? Sim. Prazer em conhecê-lo.}
+{9335}{Feliz em conhecê-lo, senhor.}
+{9336}{É um prazer conhecê-lo.}
+
+// villager
+{9350}{Saudações.}
+{9351}{Saudações.}
+{9352}{Olá, tudo bem?}
+{9353}{Senhor! É um prazer.}
+{9354}{Com certeza, é um prazer.}
+{9355}{Saudações! É um prazer conhecê-lo.}
+{9356}{Precisa de algo, senhor?}
+{9357}{O que posso fazer por você?}
+{9358}{É um prazer conhecê-lo, senhor.}
+{9359}{Está um belo dia.}
+{9360}{A que devemos o prazer de sua companhia?}
+{9361}{Sim! Um bom dia para o senhor.}
+{9362}{Um belo dia para você.}
+{9363}{Seja bem-vindo aqui, senhor.}
+{9364}{Bom dia para o senhor.}
+{9365}{É uma honra.}
+{9366}{É um prazer conhecê-lo.}
+{9367}{Fico feliz em conhecê-lo.}
+{9368}{Olá, tudo bem?}
+{9369}{Como vai?}
+{9370}{Como vai?}
+{9371}{O que é?}
+{9372}{Sim? O que deseja, senhor?}
+{9373}{Como está?}
+{9374}{Como está?}
+{9375}{Sim? Posso ajudar?}
+{9376}{Sim? Posso ajudar?}
+{9377}{Hmm? Sim?}
+{9378}{Hmm? Precisa de mim?}
+{9379}{Hmm? Sim? O que posso fazer por você?}
+{9380}{Hmm? Sim? Do que precisa?}
+{9381}{Hmm? Sim? Está procurando alguém?}
+{9382}{Hmm? Sim? Disse alguma coisa?}
+{9383}{Hmm? Está tendo um bom dia?}
+{9384}{Hmm? Precisa de uma mão, senhor?}
+{9385}{Em que posso ajudá-la.}
+{9386}{Olá. É um prazer.}
+{9387}{Sim? Eu?}
+{9388}{Olá. Como vai?}
+{9389}{Olá. Está tendo um bom dia?}
+{9390}{Espero que esteja bem.}
+{9391}{Sim? Está perdida?}
+{9392}{Posso ajudá-lo?}
+{9393}{Posso ajudá-lo, senhor?}
+{9394}{É uma honra.}
+
+// beggar
+{9400}{Olá, nobre senhor. É um prazer conversar com o senhor.}
+{9401}{Peço perdão.}
+{9402}{Obrigado por notar este velho mendigo.}
+{9403}{O que posso fazer por você?}
+{9404}{Não tive a intenção de atrapalhar seu caminho.}
+{9405}{Um verdadeiro cavalheiro nobre o senhor é.}
+{9406}{O que posso fazer por você?}
+{9407}{Por favor. Não tive intenção de causar mal.}
+{9408}{Sim, está um bom dia.}
+{9409}{Posso fazer algo por você?}
+{9410}{Com certeza, está um dia agradável!}
+{9411}{Por favor, desculpe minha aparência.}
+{9412}{<tosse> Olá, por favor, desculpe minha aparência.}
+{9413}{Por favor? O que posso fazer por você?}
+{9414}{Como está?}
+{9415}{Como está? Está um dia agradável.}
+{9416}{Como vai?}
+{9417}{Olá, senhor. Precisa da minha ajuda?}
+{9418}{Olá. Posso fazer algo por você?}
+{9419}{Um belo dia. Não é?}
+{9420}{Para que precisa de mim?}
+{9421}{Sim? Para que precisa de mim?}
+{9422}{O que posso fazer por você?}
+{9423}{Se lhe agrada?}
+{9424}{Se lhe agrada, sim?}
+{9425}{<tosse> Sim? Que prazer conhecê-lo, senhor.}
+{9426}{Por favor? Sim? Posso ajudar?}
+{9427}{Como está?}
+{9428}{Sim? Como vai? Em que posso ajudá-la?}
+{9429}{Ah. Prazer em conhecê-la. Precisa de mim?}
+{9430}{<tosse> Sim? Prazer em conhecê-la.}
+{9431}{Hmm? Sim? Um prazer.}
+{9432}{<tosse> Como vai o senhor?}
+{9433}{Sim? Como vai? Precisa de mim?}
+{9434}{<tosse> Sim. De fato! Prazer em conhecê-la.}
+{9435}{Feliz em conhecê-la.}
+{9436}{É um prazer conhecê-lo.}
+
+// thief
+{9450}{Olá. O que deseja?}
+{9451}{Prazer em conhecê-la!}
+{9452}{Saudações! É um prazer conhecê-la.}
+{9453}{É um prazer conhecê-lo.}
+{9454}{Bom dia para você, espero poder ser útil?}
+{9455}{É um prazer conhecê-lo.}
+{9456}{Está um belo dia!}
+{9457}{Estou feliz em conhecê-la.}
+{9458}{Um dia realmente agradável para conhecê-la!}
+{9459}{Um prazer conhecê-la.}
+{9460}{Prazer em conhecê-la! Qual é o seu desejo.}
+{9461}{É uma honra conhecê-la.}
+{9462}{Um belo dia para você.}
+{9463}{Você é bem-vindo aqui.}
+{9464}{Bom dia para você, eu digo.}
+{9465}{É uma honra.}
+{9466}{É um prazer conhecê-lo.}
+{9467}{De fato, estou feliz em conhecê-lo.}
+{9468}{Vamos conversar?}
+{9469}{Vamos conversar?}
+{9470}{O que é?}
+{9471}{O que é?}
+{9472}{Sim? O que é, amigo?}
+{9473}{Hmm. Sim? O que é?}
+{9474}{Como vai, amigo?}
+{9475}{Sim? O que você quer de mim?}
+{9476}{Sim? Por que você me procura?}
+{9477}{Hmm? Sim, o quê?}
+{9478}{Hmm? Precisa de mim, amigo?}
+{9479}{Hmm? Sim? O que posso fazer por você?}
+{9480}{Hmm? Sim? Do que precisa?}
+{9481}{Hmm? Sim? Precisa de uma mão, amigo?}
+{9482}{Hmm? Sim? Disse alguma coisa?}
+{9483}{Hmm? Disse alguma coisa?}
+{9484}{Hmm? Procurando alguém?}
+{9485}{Procurando alguém, amigo?}
+{9486}{Olá. É um prazer.}
+{9487}{Sim? Quem? Eu, amigo?}
+{9488}{Olá, amigo. Precisa dos meus serviços?}
+{9489}{Olá. Precisa de mim?}
+{9490}{Olá. Que notícias traz, amigo?}
+{9491}{Sim, amigo? Perdeu alguma coisa?}
+{9492}{Sim? Ah. Sim. Em que posso ajudá-lo?}
+{9493}{Em que posso ajudá-lo, amigo?}
+
+// bandit
+{9500}{Saudações. Posso ajudá-lo?}
+{9501}{É bom conhecê-lo!}
+{9502}{Ora! Que dia bom.}
+{9503}{É um prazer conhecê-lo.}
+{9504}{Que bom que está aqui!}
+{9505}{Sim! Seja bem-vindo.}
+{9506}{É bem-vindo aqui, irmão.}
+{9507}{Como vai, irmão?}
+{9508}{O dia parece estar melhorando, eu acho.}
+{9509}{Acho que temos algumas coisas em comum, sim.}
+{9510}{Gostei da sua aparência!}
+{9511}{Prazer em conhecê-lo.}
+{9512}{Sim, em que posso ajudá-lo?}
+{9513}{Sim? O que posso fazer por você?}
+{9514}{Como está?}
+{9515}{Sim? O que precisa?}
+{9516}{Sim? Como está? Em que posso ajudá-lo?}
+{9517}{Olá. Precisa de mim?}
+{9518}{Olá. Posso fazer algo por você?}
+{9519}{Está um dia agradável.}
+{9520}{Para que precisa de mim?}
+{9521}{Sim? Para que precisa de mim?}
+{9522}{O que posso fazer por você?}
+{9523}{Olá. Em que posso ajudá-lo?}
+{9524}{Se lhe agrada?}
+{9525}{Sim? Prazer em conhecê-lo.}
+{9526}{Olá! Posso ajudá-lo?}
+{9527}{Como vai, irmão?}
+{9528}{Como vai?}
+{9529}{Prazer em conhecê-lo, eu digo. Precisa de mim?}
+{9530}{Sim? Prazer em conhecê-lo.}
+{9531}{Hmm? Sim? Um prazer.}
+{9532}{Como vai?}
+{9533}{Sim? Precisa de mim?}
+{9534}{Sim. O que posso fazer por você?}
+{9535}{Prazer em conhecê-lo.}
+{9536}{Precisa de mim, irmão?}
+
+
+// Initial neutral greeting messages start at 10000. Each class gets 50
+// messages starting on multiples of 50
+
+// noble
+{10000}{Pois não?}
+{10001}{Como vai?}
+{10002}{Como vai?}
+{10003}{Um dia agradável.}
+{10004}{Pois não?}
+{10005}{É um prazer.}
+{10006}{Bem-vindo.}
+{10007}{Como vai?}
+{10008}{É um prazer conhecê-lo.}
+{10009}{É um prazer conhecê-lo.}
+{10010}{É um prazer.}
+{10011}{É um prazer conhecê-lo.}
+{10012}{Olá.}
+{10013}{Saudações.}
+{10014}{Senhor, é um prazer conhecê-lo.}
+{10015}{Como vai?}
+{10016}{Olá, senhor.}
+{10017}{Senhor.}
+{10018}{Senhor?}
+{10019}{Pois não?}
+{10020}{O que é?}
+{10021}{Sim? O que é?}
+{10022}{O que posso fazer por você?}
+{10023}{Sim? O que posso fazer por você?}
+{10024}{O que você quer?}
+{10025}{Sim? O que você quer?}
+{10026}{Hmm? Sim?}
+{10027}{Hmm? O que deseja?}
+{10028}{Hmm? Sim? O que é?}
+{10029}{Hmm? Quem seria você?}
+{10030}{Hmm? Sim? Quem seria você?}
+{10031}{Hmm? Sim? Quem seria você?}
+{10032}{Hmm? O que você quer?}
+{10033}{Hmm? Em que posso ajudá-lo?}
+
+// priest
+{10050}{Sim, meu filho?}
+{10051}{Olá. É um prazer conhecê-lo.}
+{10052}{Como vai, filho?}
+{10053}{Como vai, senhor?}
+{10054}{Sim, meu filho?}
+{10055}{É um prazer.}
+{10056}{Um encontro alegre, tenho certeza.}
+{10057}{Está um bom dia, filho.}
+{10058}{Bênçãos, filho.}
+{10059}{Bendito Seja.}
+{10060}{Saudações, meu filho.}
+{10061}{Filho, o que posso fazer por você?}
+{10062}{É a Vontade Dela.}
+{10063}{Olá, filho.}
+{10064}{Senhor.}
+{10065}{Senhor?}
+{10066}{Pois não?}
+{10067}{O que é?}
+{10068}{Sim? O que é?}
+{10069}{O que posso fazer por você?}
+{10070}{Sim? O que posso fazer por você?}
+{10071}{O que você quer?}
+{10072}{Sim? O que você quer?}
+{10073}{Hmm? Sim?}
+{10074}{Hmm? Sim?}
+{10075}{Sim? O que é?}
+{10076}{Hmm? Sim? O que é?} 
+{10077}{Hmm? Sim? O que é?}
+{10078}{Sim? O que você quer?}
+{10079}{Hmm? Sim? O que você quer?}
+{10080}{Hmm? Sim? O que você quer?}
+
+// wizard
+{10100}{O que deseja, senhor?}
+{10101}{Como vai?}
+{10102}{Estou satisfeito}
+{10103}{Isso é... interessante.}
+{10104}{Prazer em conhecê-lo.}
+{10105}{Bom dia para você.}
+{10106}{Bom dia.}
+{10107}{Bem-vindo.}
+{10108}{Como vai, senhor?}
+{10109}{Olá. Prazer em conhecê-lo.}
+{10110}{Sim? Posso ajudá-lo?}
+{10111}{Sim? O que é?}
+{10112}{Olá, senhor.}
+{10113}{Sim? Olá.}
+{10114}{Senhor.}
+{10115}{Senhor?}
+{10116}{Pois não?}
+{10117}{O que é?}
+{10118}{Sim? O que é?}
+{10119}{O que posso fazer por você?}
+{10120}{Sim? O que posso fazer por você?}
+{10121}{O que você quer?}
+{10122}{Sim? O que você quer?}
+{10123}{Hmm?}
+{10124}{Hmm?}
+{10125}{Sim? O que é?}
+{10126}{Hmm? O que deseja?} 
+{10127}{Hmm? O que deseja?}
+{10128}{Sim? O que você quer?}
+{10129}{Hmm? O que você quer?}
+{10130}{Hmm? O que você quer?}
+
+// technologist
+{10150}{Sim, amigo?}
+{10151}{Sim, sim? O que é?}
+{10152}{Está um dia agradável, senhor.}
+{10153}{Como vai?}
+{10154}{O que é?}
+{10155}{Olá, senhor.}
+{10156}{É um prazer conhecê-lo.}
+{10157}{Sim? Estou ocupado. O que é?}
+{10158}{Hmmm? Sim?}
+{10159}{Estou ocupado. O que você quer?}
+{10160}{Sim? Como vai?}
+{10161}{Senhor, estou ocupado no momento.}
+{10162}{Olá, senhor. O que posso fazer por você?}
+{10163}{Sim, senhor? Por que me incomoda?}
+{10164}{Senhor.}
+{10165}{Senhor?}
+{10166}{Pois não?}
+{10167}{O que é?}
+{10168}{Sim? O que é?}
+{10169}{O que posso fazer por você?}
+{10170}{Sim? O que posso fazer por você?}
+{10171}{O que você quer?}
+{10172}{Sim? O que você quer?}
+{10173}{Hmm?}
+{10174}{Hmm?}
+{10175}{Hmm? O que deseja?}
+{10176}{Hmm? O que deseja?} 
+{10177}{Hmm? O que deseja?}
+{10178}{Hmm? O que você quer?}
+{10179}{Hmm? O que você quer?}
+{10180}{Hmm? O que você quer?}
+
+// shopkeeper
+{10200}{Posso ajudá-lo?}
+{10201}{O que posso fazer por você?}
+{10202}{Bom dia.}
+{10203}{Bom dia.}
+{10204}{É um prazer conhecê-lo.}
+{10205}{É um prazer conhecê-lo.}
+{10206}{É um prazer conhecê-lo.}
+{10207}{Há algo em que eu possa ajudá-lo?}
+{10208}{Estou à sua disposição.}
+{10209}{Como posso ajudá-lo?}
+{10210}{É um prazer conhecê-lo.}
+{10211}{Estou satisfeito.}
+{10212}{Olá.}
+{10213}{O que é que precisa?}
+{10214}{Olá. Viu algo que lhe agrade?}
+{10215}{Senhor?}
+{10216}{Pois não?}
+{10217}{O que é?}
+{10218}{Sim? O que é?}
+{10219}{O que posso fazer por você?}
+{10220}{Sim? O que posso fazer por você?}
+{10221}{O que você quer?}
+{10222}{Sim? O que você quer?}
+{10223}{Hmm?}
+{10224}{Hmm?}
+{10225}{Hmm? O que deseja?}
+{10226}{Hmm? O que deseja?} 
+{10227}{Hmm? O que você quer?}
+{10228}{Hmm? O que você quer?}
+{10229}{Hmm? Em que posso ajudá-lo?}
+{10230}{Hmm? Em que posso ajudá-lo?}
+
+// guard
+{10250}{Circule.}
+{10251}{Senhor, não tenho tempo para conversar.}
+{10252}{Por favor, estou de serviço.}
+{10253}{Olá. O que é?}
+{10254}{Pois não?}
+{10255}{Senhor, é um bom dia.}
+{10256}{Sou o guarda aqui.}
+{10257}{Precisa de mim?}
+{10258}{Alguém precisa dos meus serviços?}
+{10259}{Problemas?}
+{10260}{Estou em patrulha. Por favor, seja rápido.}
+{10261}{Um conhecido seu.}
+{10262}{Um ótimo dia.}
+{10263}{Senhor?}
+{10264}{Olá.}
+{10265}{Como vai?}
+{10266}{Como vai, senhor?}
+{10267}{Olá. Posso ajudá-lo?}
+{10268}{Olá.}
+{10269}{O que é?}
+{10270}{Senhor, por favor, continue com seus afazeres.}
+{10271}{Sim, o quê?}
+{10272}{Sim, o quê?}
+{10273}{Pois não?}
+{10274}{O que é?}
+{10275}{Sim? O que é?}
+{10276}{O que posso fazer por você?}
+{10277}{Sim? O que posso fazer por você?}
+{10278}{O que você quer?}
+{10279}{Sim? O que você quer?}
+{10280}{Hmm?}
+{10281}{Hmm?}
+{10282}{Hmm? O que deseja?}
+{10283}{Hmm? O que você quer?}
+{10284}{Hmm? Em que posso ajudá-lo?}
+{10285}{Hmm? O que deseja?}
+{10286}{Hmm? O que você quer?}
+{10287}{Hmm? Em que posso ajudá-lo?}
+{10288}{Sim, senhor?}
+{10289}{Olá!}
+{10290}{Ei aí! Espere. O que você quer?}
+{10291}{Então. Precisa de mim?}
+{10292}{Olá, você!}
+{10293}{Quem é que me procura?}
+{10294}{Seja rápido, agora. Tenho que ir.}
+{10295}{Ouçam! Quem vem lá?}
+
+
+// city_dweller
+{10300}{Sim, o que é?}
+{10301}{Olá.}
+{10302}{Pois não?}
+{10303}{Olá. É um prazer conhecê-lo.}
+{10304}{É um prazer conhecê-lo.}
+{10305}{Deve ser agradável, tenho certeza.}
+{10306}{O quê?}
+{10307}{Precisa de mim?}
+{10308}{O que é que precisa?}
+{10309}{Eu digo, você precisa de mim?}
+{10310}{Como vai?}
+{10311}{Prazer em conhecê-lo.}
+{10312}{Um ótimo dia.}
+{10313}{É um bom dia.}
+{10314}{Olá. Como vai?}
+{10315}{Olá.}
+{10316}{Ande logo. Estou com pressa!}
+{10317}{Olá. Seja rápido, por favor.}
+{10318}{Sim? O que você quer de mim?}
+{10319}{Sim, o quê?}
+{10320}{Sim, o quê?}
+{10321}{O que é?}
+{10322}{Sim? O que é?}
+{10323}{O que posso fazer por você?}
+{10324}{Sim? O que posso fazer por você?}
+{10325}{O que você quer?}
+{10326}{Sim? O que você quer?}
+{10327}{Hmm?}
+{10328}{Hmm?}
+{10329}{Hmm? O que deseja?}
+{10330}{Hmm? O que você quer?}
+{10331}{Hmm? Em que posso ajudá-lo?}
+{10332}{Hmm? O que deseja?}
+{10333}{Hmm? O que você quer?}
+{10334}{Hmm? Em que posso ajudá-lo?}
+{10335}{Por favor, volte mais tarde, senhor, quando eu estiver fora do trabalho.}
+{10336}{Pois não?}
+{10337}{Seja rápido.}
+{10338}{Seja rápido.}
+{10339}{Seja rápido.}
+{10340}{Seja rápido, agora. Tenho que ir.}
+{10341}{Seja rápido, agora. Tenho que ir.}
+{10342}{Seja rápido, agora. Tenho que ir.}
+
+// villager
+{10350}{Senhor?}
+{10351}{Sim, amigo?}
+{10352}{Sim, o que é?}
+{10353}{Senhor? O que deseja?}
+{10354}{Com certeza.}
+{10355}{Prazer em conhecê-lo.}
+{10356}{Precisa de algo?}
+{10357}{O que posso fazer por você?}
+{10358}{Um prazer.}
+{10359}{Bom dia.}
+{10360}{Eu disse, pois não?}
+{10361}{Tenha um bom dia.}
+{10362}{Um ótimo dia.}
+{10363}{De nada.}
+{10364}{Bom dia.}
+{10365}{Uma honra.}
+{10366}{Prazer em conhecê-lo.}
+{10367}{Prazer em conhecê-lo.}
+{10368}{Saudações.}
+{10369}{Pois não?}
+{10370}{Olá, tudo bem?}
+{10371}{Senhor?}
+{10372}{Sim, amigo, o que deseja?}
+{10373}{Sim?}
+{10374}{Sim, o quê?}
+{10375}{Sim, o quê?}
+{10376}{O que é?}
+{10377}{Sim? O que é?}
+{10378}{O que posso fazer por você?}
+{10379}{Sim? O que posso fazer por você?}
+{10380}{O que você quer?}
+{10381}{Sim? O que você quer?}
+{10382}{Hmm?}
+{10383}{Hmm?}
+{10384}{Hmm? O que deseja?}
+{10385}{Hmm? O que você quer?}
+{10386}{Hmm? Em que posso ajudá-lo?}
+{10387}{Hmm? O que deseja?}
+{10388}{Hmm? O que você quer?}
+{10389}{Hmm? Em que posso ajudá-lo?}
+{10390}{Como está, senhor?}
+{10391}{Pois não?}
+{10392}{Quem é você?}
+{10393}{Quem é você?}
+{10394}{Sim? Quem é você?}
+{10395}{Sim? Quem é você?}
+{10396}{Seja rápido, agora. Tenho que ir.}
+{10397}{Seja rápido, agora. Tenho que ir.}
+
+// beggar
+{10400}{Olá. Tenha pena de um pobre mendigo como eu.}
+{10401}{<tosse> Peço-lhe perdão.}
+{10402}{Obrigado por notar este velho mendigo.}
+{10403}{<tosse> O que posso fazer por você?}
+{10404}{<tosse> Não tive a intenção de atrapalhar seu caminho.}
+{10405}{O senhor é um verdadeiro cavalheiro.}
+{10406}{O que posso fazer por você?}
+{10407}{<tosse> Por favor. Não tive a intenção de causar mal.}
+{10408}{Sim, está um bom dia.}
+{10409}{<tosse> Posso fazer algo por você?}
+{10410}{Com certeza, está um dia agradável!}
+{10411}{Senhor, por favor, desculpe minha aparência.}
+{10412}{<<<PH1>>> <<<PH2>>> Senhor, por favor, desculpe minha aparência.}
+{10413}{Olá, bondoso senhor.}
+{10414}{O que é?}
+{10415}{Sim? O que é?}
+{10416}{O que posso fazer por você?}
+{10417}{<tosse> O que posso fazer por você?}
+{10418}{Sim? O que posso fazer por você?}
+{10419}{<tosse> O que você quer?}
+{10420}{Sim? O que você quer?}
+{10421}{<tosse> Hmm?}
+{10422}{Hmm?}
+{10423}{Hmm? O que deseja?}
+{10424}{Hmm? O que deseja?}
+{10425}{<tosse> Hmm? O que é?}
+{10426}{Hmm? O que você quer?}
+{10427}{Hmm? O que você quer?}
+{10428}{Hmm? Em que posso ajudá-lo?}
+{10429}{<cough> Hmm? O que posso fazer por você?}
+{10430}{Pois não?}
+{10431}{<cough> Sim?}
+{10432}{Quem é que me procura?}
+{10433}{<cough> Quem é que me procura?}
+{10434}{Sim? Para que me quer?}
+{10435}{Sim? Para que me quer?}
+{10436}{Sim? Para que me quer? Eu não fiz nada.}
+{10437}{Eu não fiz nada. Para que me quer?}
+{10438}{<cough> Sim? Para que me quer? Eu não fiz nada.}
+{10439}{<cough> Seja rápido. Tenho que ir.}
+
+// thief
+{10450}{O que é?}
+{10451}{Prazer em conhecê-lo.}
+{10452}{Saudações!}
+{10453}{É um prazer conhecê-lo.}
+{10454}{Bom dia, como posso ajudá-lo?}
+{10455}{É um prazer conhecê-lo.}
+{10456}{Um belo dia, não é?}
+{10457}{Prazer em conhecê-lo.}
+{10458}{Sim, um belo dia.}
+{10459}{Um prazer.}
+{10460}{Sim? O que posso fazer por você?}
+{10461}{Sim? Seja rápido.}
+{10462}{Olá. O que é?}
+{10463}{Quem é que me procura?}
+{10464}{Sim? O que é?}
+{10465}{O que posso fazer por você?}
+{10466}{Sim? O que posso fazer por você?}
+{10467}{O que você quer?}
+{10468}{Sim? O que você quer?}
+{10469}{Hmm?}
+{10470}{Hmm?}
+{10471}{Hmm? O que deseja?}
+{10472}{Hmm? O que você quer?}
+{10473}{Hmm? Em que posso ajudá-lo?}
+{10474}{Hmm? O que deseja?}
+{10475}{Hmm? O que você quer?}
+{10476}{Hmm? Em que posso ajudá-lo?}
+{10477}{Pois não?}
+{10478}{Quem é que me procura?}
+{10479}{Quem é que me procura?}
+{10480}{Sim? Quem é que me procura?}
+{10481}{Sim? Quem é que me procura?}
+{10482}{Sim? Quem é que me procura?}
+{10483}{Seja rápido, agora. Tenho que ir.}
+{10484}{Seja rápido, agora. Tenho que ir.}
+{10485}{Seja rápido, agora. Tenho que ir.}
+{10486}{O que é?}
+
+// bandit
+{10500}{O quê?}
+{10501}{O que você quer?}
+{10502}{Sim?}
+{10503}{O que foi?}
+{10504}{Pois não?}
+{10505}{Sim?}
+{10506}{Por que veio até mim, irmão?}
+{10507}{O que está em sua mente, amigo?}
+{10508}{Seja rápido, irmão.}
+{10509}{Sim, talvez tenhamos algo em comum, talvez.}
+{10510}{Não sei se gosto da sua aparência ou não.}
+{10511}{Sim? Está me procurando?}
+{10512}{O que é?}
+{10513}{Quem é que me procura?}
+{10514}{Sim? O que é?}
+{10515}{O que posso fazer por você?}
+{10516}{Sim? O que posso fazer por você?}
+{10517}{O que você quer?}
+{10518}{Sim? O que você quer?}
+{10519}{Hmm?}
+{10520}{Hmm?}
+{10521}{Hmm? O que deseja?}
+{10522}{Hmm? O que deseja?}
+{10523}{Hmm? O que deseja?}
+{10524}{Hmm? O que você quer?}
+{10525}{Hmm? O que você quer?}
+{10526}{Hmm? O que você quer?}
+{10527}{Pois não?}
+{10528}{Quem é que me procura?}
+{10529}{Quem é que me procura?}
+{10530}{Sim? Quem me procura?}
+{10531}{Sim? Quem me procura?}
+{10532}{Sim? Quem me procura?}
+{10533}{Seja rápido.}
+{10534}{Seja rápido.}
+{10535}{Seja rápido.}
+{10536}{O que é?}
+
+
+// Second great greeting messages start at 11000. Each class gets 50
+// messages starting on multiples of 50
+
+// noble
+{11000}{Que maravilhoso vê-lo novamente!}
+{11001}{Encantado em revê-lo!}
+{11002}{É um prazer revê-lo, meu bom amigo!}
+{11003}{Muito excelente, de fato, é revê-lo!}
+{11004}{Muito excelente, de fato, é revê-lo!}
+{11005}{Ah! Magnífico ver você de novo!}
+{11006}{Ah! É magnífico revê-lo, meu bom amigo!}
+{11007}{Maravilhoso é ter o prazer de sua companhia novamente!}
+{11008}{Maravilhoso é ter o prazer de sua companhia novamente!}
+{11009}{Esplêndido é saudá-lo mais uma vez!}
+{11010}{Esplêndido é saudá-lo mais uma vez!}
+{11011}{É com intensa satisfação que nos encontramos novamente!}
+{11012}{É com intensa satisfação que nos encontramos novamente!}
+{11013}{À sua ótima saúde!}
+{11014}{À sua excelente saúde, meu bom amigo!}
+{11015}{Um dia alegre, é, revê-lo!}
+{11016}{Um dia alegre, é, revê-lo!}
+{11017}{É tão bom revê-lo!}
+{11018}{É tão bom revê-lo!}
+{11019}{Que prazer requintado recebê-lo mais uma vez!}
+{11020}{Que prazer requintado recebê-lo mais uma vez!}
+{11021}{É realmente um deleite vê-lo novamente!}
+{11022}{É realmente um deleite vê-lo novamente!}
+{11023}{É absolutamente maravilhoso vê-lo novamente!}
+{11024}{É maravilhoso revê-lo, meu amigo íntimo!}
+{11025}{Como é agradável e apropriado revê-lo!}
+{11026}{Como é agradável e apropriado revê-lo!}
+{11027}{É uma bênção tão grande recebê-lo novamente!}
+{11028}{É uma bênção tão grande recebê-lo novamente!}
+{11029}{É tão agradável revê-lo!}
+{11030}{É tão agradável revê-lo!}
+{11031}{É sempre tão encantador revê-lo!}
+{11032}{É sempre tão encantador revê-lo!}
+{11033}{É uma honra renovar nosso contato!}
+{11034}{É uma honra renovar nosso contato!}
+{11035}{Reencontrá-lo me trouxe grande satisfação!}
+{11036}{Reencontrá-lo me trouxe grande satisfação!}
+{11037}{Tenho tanta sorte em vê-lo novamente!}
+{11038}{Tenho tanta sorte em vê-lo novamente!}
+{11039}{Que maravilhoso revê-lo, meu bom amigo!}
+{11040}{Absolutamente radiante em revê-lo, meu bom amigo!}
+{11041}{Absolutamente radiante em revê-lo!}
+{11042}{Tudo está certo no mundo agora que nos reencontramos!}
+{11043}{Quão afortunado sou por tê-lo reencontrado!}
+
+// priest
+{11050}{Meu filho, como é alegre seu retorno!}
+{11051}{Sou abençoado por revê-lo!}
+{11052}{Estou feliz em revê-lo!}
+{11053}{Muito feliz estou, de fato, em tornar a encontrá-lo!}
+{11054}{Estou muito feliz em tornar a encontrá-lo!}
+{11055}{Ah, sim! Uma bênção revê-lo!}
+{11056}{Ah, sim! Uma bênção reencontrá-lo!}
+{11057}{Maravilhoso é ter o sagrado prazer de sua companhia novamente!}
+{11058}{Maravilhoso é ter o prazer de sua companhia novamente!}
+{11059}{Esplêndido é abençoá-lo mais uma vez!}
+{11060}{Esplêndido é vê-lo mais uma vez!}
+{11061}{É com grande satisfação que nos reunimos novamente!}
+{11062}{É com abençoada satisfação que nos reunimos novamente!}
+{11063}{À sua ótima saúde!}
+{11064}{À sua excelente saúde, meu filho!}
+{11065}{Um dia abençoado é este, ao revê-la!}
+{11066}{Um dia abençoado é este, ao reencontrá-lo!}
+{11067}{Um sagrado decreto é reencontrá-lo!}
+{11068}{É um sagrado ordenamento, sim, tornar a vê-lo!}
+{11069}{É um destino sagrado saudá-lo mais uma vez!}
+{11070}{É um prazer saudá-lo mais uma vez!}
+{11071}{É realmente um deleite unir-me a você novamente!}
+{11072}{É um deleite unir-me a você novamente!}
+{11073}{É absolutamente maravilhoso vê-lo novamente!}
+{11074}{É maravilhoso ver você de novo!}
+{11075}{Quão sagrado e abençoado é tornar a vê-lo!}
+{11076}{Quão sagrado e abençoado é tornar a vê-lo novamente!}
+{11077}{É uma bênção tão grande recebê-lo novamente!}
+{11078}{É uma bênção saudá-lo novamente!}
+{11079}{O destino sorri para nós novamente!}
+{11080}{O destino sorri para nós novamente, meu filho!}
+{11081}{É sempre tão agradável reunir-me com você novamente!}
+{11082}{É agradável reunir-me com você novamente!}
+{11083}{Sinto-me muito honrado em renovar nossa sagrada amizade!}
+{11084}{Sinto-me honrado em renovar nossa sagrada amizade!}
+{11085}{Reencontrá-lo me trouxe grande satisfação!}
+{11086}{Revê-lo me trouxe grande satisfação!}
+{11087}{Sinto-me sempre tão afortunado em reunir-me com você novamente!}
+{11088}{Sinto-me afortunado em reunir-me com você novamente!}
+{11089}{Ah, sim! Estou feliz em vê-lo novamente!}
+
+// wizard
+{11100}{Olá! Que bom vê-lo novamente!}
+{11101}{Encantado em revê-lo!}
+{11102}{Encantado em revê-lo!}
+{11103}{Muito excelente, de fato, é engajar-se com você novamente!}
+{11104}{Muito excelente, de fato, é engajar-se com você novamente!}
+{11105}{Sim! Magnífico engajar-se com você novamente!}
+{11106}{Sim! Magnífico engajar-se com você novamente!}
+{11107}{É maravilhoso ter o prazer de reencontrá-lo novamente!}
+{11108}{É maravilhoso ter o prazer de reencontrá-lo novamente!}
+{11109}{É esplêndido nos reunirmos mais uma vez!}
+{11110}{É esplêndido nos reunirmos mais uma vez!}
+{11111}{É satisfatório nos cruzarmos novamente!}
+{11112}{É satisfatório nos cruzarmos novamente!}
+{11113}{À sua ótima saúde!}
+{11114}{À sua ótima saúde!}
+{11115}{É um dia alegre aquele em que nossos caminhos se cruzam novamente!}
+{11116}{É um dia alegre aquele em que nossos caminhos se cruzam novamente!}
+{11117}{É muito bom poder conversar com você novamente!}
+{11118}{É muito bom poder conversar com você novamente!}
+{11119}{Que prazer nossas vidas se encontrarem mais uma vez!}
+{11120}{Que prazer nossas vidas se encontrarem mais uma vez!}
+{11121}{É um deleite conversar com você novamente!}
+{11122}{É um deleite conversar com você novamente!}
+{11123}{É absolutamente maravilhoso vê-lo novamente!}
+{11124}{É maravilhoso ver você de novo!}
+{11125}{Como é agradável conversar com você novamente!}
+{11126}{Como é agradável conversar com você novamente!}
+{11127}{É uma bênção nos cruzarmos novamente!}
+{11128}{É uma bênção nos cruzarmos novamente!}
+{11129}{Nossos caminhos se cruzam mais uma vez!}
+{11130}{Nossos caminhos se cruzam mais uma vez!}
+{11131}{Nossas vidas se entrelaçam novamente!}
+{11132}{Nossas vidas se entrelaçam novamente!}
+{11133}{É uma honra renovar nosso contato!}
+{11134}{É uma honra renovar nosso contato!}
+{11135}{Reencontrá-lo me trouxe grande satisfação!}
+{11136}{Reencontrá-lo me trouxe grande satisfação!}
+{11137}{É sempre uma grande sorte estar com você novamente!}
+{11138}{É sempre uma grande sorte estar com você novamente!}
+{11139}{Olá! Que bom vê-lo novamente!}
+
+// technologist
+{11150}{Bem-vindo de volta! Em que posso ajudá-lo?}
+{11151}{É um prazer consultá-lo novamente!}
+{11152}{É um prazer consultá-lo novamente!}
+{11153}{Excelente mesmo, de fato, consultá-lo novamente!}
+{11154}{Excelente mesmo, de fato, consultá-lo novamente!}
+{11155}{Ah! Magnífico, de fato, conferenciar com você novamente!}
+{11156}{Ah! Magnífico, de fato, conferenciar com você novamente!}
+{11157}{Maravilhoso é ter o prazer de sua companhia novamente!}
+{11158}{Maravilhoso é ter o prazer de sua companhia novamente!}
+{11159}{Esplêndido é trocar uma palavra com você novamente!}
+{11160}{Esplêndido é trocar uma palavra com você novamente!}
+{11161}{É uma satisfação para mim consultá-lo novamente!}
+{11162}{É uma satisfação para mim consultá-lo novamente!}
+{11163}{À sua ótima saúde!}
+{11164}{À sua excelente saúde, meu amigo!}
+{11165}{Um dia alegre, é, revê-lo!}
+{11166}{Um dia alegre, é, revê-lo!}
+{11167}{É tão bom assim consultá-lo novamente!}
+{11168}{É tão bom assim consultá-lo novamente!}
+{11169}{Que prazer trocar uma palavra com você mais uma vez!}
+{11170}{Que prazer trocar uma palavra com você mais uma vez!}
+{11171}{É realmente encantador conferenciar com você novamente!}
+{11172}{É realmente encantador conferenciar com você novamente!}
+{11173}{É maravilhoso trocar uma palavra com você novamente!}
+{11174}{É maravilhoso trocar uma palavra com você novamente!}
+{11175}{Quão agradável e apropriado é conferenciar com você novamente!}
+{11176}{Quão agradável e apropriado é conferenciar com você novamente!}
+{11177}{É uma verdadeira bênção poder conversar com você novamente!}
+{11178}{É uma verdadeira bênção poder conversar com você novamente!}
+{11179}{É tão agradável consultar-se com você de novo!}
+{11180}{É tão agradável consultar-se com você de novo!}
+{11181}{É sempre tão encantador consultar-se com você novamente!}
+{11182}{É sempre tão encantador consultar-se com você novamente!}
+{11183}{É uma honra renovar nosso contato!}
+{11184}{É uma honra renovar nosso contato!}
+{11185}{Encontrá-lo novamente me traz grande satisfação!}
+{11186}{Encontrá-lo novamente me traz grande satisfação!}
+{11187}{Sou muito afortunado por poder conferenciar com você de novo!}
+{11188}{Sou muito afortunado por poder conferenciar com você de novo!}
+{11189}{Bem-vindo de volta, associado! Em que posso ajudá-lo?}
+
+// shopkeeper
+{11200}{Meu amigo, você voltou!}
+{11201}{É um prazer vê-lo novamente!}
+{11202}{É um prazer vê-lo novamente!}
+{11203}{Excelente mesmo você me visitar de novo!}
+{11204}{Excelente mesmo você me visitar de novo!}
+{11205}{Ah! Magnífico ver você de novo!}
+{11206}{Ah! Magnífico ver você de novo!}
+{11207}{Maravilhoso ter o prazer de sua companhia novamente!}
+{11208}{Maravilhoso ter o prazer de sua companhia novamente!}
+{11209}{Esplêndido você me visitar mais uma vez!}
+{11210}{Esplêndido você me visitar mais uma vez!}
+{11211}{É uma satisfação para mim que você me visite novamente!}
+{11212}{É uma satisfação para mim que você me visite novamente!}
+{11213}{À sua ótima saúde!}
+{11214}{À sua ótima saúde!}
+{11215}{Um dia alegre, é, revê-lo!}
+{11216}{Um dia alegre, é, revê-lo!}
+{11217}{É tão maravilhoso para mim que você tenha voltado a visitar!}
+{11218}{É tão maravilhoso para mim que você tenha voltado a visitar!}
+{11219}{Que prazer requintado tê-lo aqui novamente!}
+{11220}{Que prazer requintado tê-lo aqui novamente!}
+{11221}{É realmente um deleite vê-lo novamente!}
+{11222}{É realmente um deleite vê-lo novamente!}
+{11223}{É absolutamente maravilhoso vê-lo novamente!}
+{11224}{É maravilhoso ver você de novo!}
+{11225}{Que prazer imenso tê-lo aqui novamente!}
+{11226}{Que prazer imenso tê-lo aqui novamente!}
+{11227}{É uma verdadeira bênção tê-lo aqui novamente!}
+{11228}{É uma verdadeira bênção tê-lo aqui novamente!}
+{11229}{É tão agradável tê-lo aqui novamente!}
+{11230}{É tão agradável tê-lo aqui novamente!}
+{11231}{É tão encantador tê-lo aqui novamente!}
+{11232}{É tão encantador tê-lo aqui novamente!}
+{11233}{É uma honra renovar nosso contato!}
+{11234}{É uma honra renovar nosso contato!}
+{11235}{Foi uma grande satisfação tê-lo aqui novamente!}
+{11236}{Foi uma grande satisfação tê-lo aqui novamente!}
+{11237}{Tenho tanta sorte em vê-lo novamente!}
+{11238}{Tenho tanta sorte em vê-lo novamente!}
+{11239}{Senhor, o senhor voltou!}
+{11240}{Senhor, o senhor voltou!}
+
+// guard
+{11250}{Saudações. Espero que esteja bem.}
+{11251}{Encantado em encontrá-lo novamente!}
+{11252}{Encantado em encontrá-lo novamente, amigo!}
+{11253}{É realmente excelente encontrá-lo novamente!}
+{11254}{É realmente excelente encontrá-lo novamente, amigo!}
+{11255}{Sim! É esplêndido encontrá-lo novamente!}
+{11256}{Sim! É esplêndido encontrá-lo novamente, amigo!}
+{11257}{Que maravilha encontrá-lo novamente!}
+{11258}{Que maravilha encontrá-lo novamente, amigo!}
+{11259}{Magnífico encontrá-lo novamente!}
+{11260}{Magnífico encontrá-lo novamente, amigo!}
+{11261}{É uma satisfação nos reencontrarmos!}
+{11262}{É uma satisfação nos reencontrarmos, amigo!}
+{11263}{À sua ótima saúde!}
+{11264}{À sua ótima saúde!}
+{11265}{Um dia alegre, este, ao encontrá-lo novamente!}
+{11266}{Um dia alegre, este, ao encontrá-lo novamente, amigo!}
+{11267}{É muito bom topar com você novamente!}
+{11268}{É muito bom topar com você novamente, amigo!}
+{11269}{Que prazer encontrá-lo mais uma vez!}
+{11270}{Que prazer encontrá-lo mais uma vez, amigo!}
+{11271}{É um deleite encontrá-lo novamente!}
+{11272}{É um deleite encontrá-lo novamente, amigo!}
+{11273}{Que maravilha esbarrar com você novamente!}
+{11274}{Que maravilha esbarrar com você novamente, amigo!}
+{11275}{Senhor! Como está?}
+{11276}{Amigo! Como vai?}
+{11277}{É uma bênção encontrá-lo novamente!}
+{11278}{É uma bênção encontrá-lo novamente, amigo!}
+{11279}{Olá novamente, amigo!}
+{11280}{Olá novamente, velho amigo!}
+{11281}{Ótimo topar com você novamente!}
+{11282}{Ótimo topar com você novamente, amigo!}
+{11283}{É uma honra mais uma vez!}
+{11284}{É uma honra mais uma vez, amigo!}
+{11285}{Reencontrá-lo é simplesmente ótimo!}
+{11286}{Reencontrá-lo é simplesmente ótimo, amigo!}
+{11287}{Ótimo vê-lo novamente!}
+{11288}{Ótimo vê-lo novamente!}
+{11289}{Saudações, amigo. Espero que esteja bem.}
+{11290}{Olá e bem-vindo de volta!}
+{11291}{Olá e bem-vindo de volta!}
+{11292}{É bom ver você novamente!}
+{11293}{É bom ver você novamente, amigo!}
+
+// city_dweller
+{11300}{Olá novamente!}
+{11301}{Encantado por esbarrar em você novamente!}
+{11302}{Encantado em encontrá-lo novamente, senhor!}
+{11303}{Excelente demais esbarrar em você novamente!}
+{11304}{Excelente demais esbarrar em você novamente!}
+{11305}{Magnífico ver você novamente!}
+{11306}{Magnífico ver você novamente!}
+{11307}{Maravilhoso ter novamente o prazer de sua companhia!}
+{11308}{Maravilhoso ter novamente o prazer de sua companhia!}
+{11309}{Esplêndido ver você novamente!}
+{11310}{Esplêndido ver você novamente!}
+{11311}{É uma intensa satisfação reencontrá-lo!}
+{11312}{É uma imensa satisfação encontrá-lo novamente, nobre senhor!}
+{11313}{À sua ótima saúde!}
+{11314}{À sua ótima saúde!}
+{11315}{Um dia alegre!}
+{11316}{Um dia alegre!}
+{11317}{É tão bom encontrá-lo novamente!}
+{11318}{É tão bom encontrá-lo novamente!}
+{11319}{Que prazer exquisito revê-lo!}
+{11320}{Que prazer exquisito revê-lo!}
+{11321}{É um deleite vê-lo novamente!}
+{11322}{É um deleite vê-lo novamente!}
+{11323}{É maravilhoso ver você de novo!}
+{11324}{É maravilhoso ver você de novo!}
+{11325}{Que muito apropriado é revê-lo!}
+{11326}{Que muito apropriado é revê-lo!}
+{11327}{É uma bênção encontrá-lo novamente!}
+{11328}{É uma bênção esbarrar com o senhor novamente!}
+{11329}{É tão agradável esbarrar com você novamente!}
+{11330}{É tão agradável esbarrar com o senhor novamente!}
+{11331}{É tão encantador esbarrar com você novamente!}
+{11332}{É tão encantador esbarrar com você novamente!}
+{11333}{Sinto-me devidamente honrado em renovar nosso conhecimento!}
+{11334}{Sinto-me devidamente honrado em renovar nosso conhecimento!}
+{11335}{Encontrá-lo novamente me traz grande satisfação!}
+{11336}{Encontrá-lo novamente me traz grande satisfação!}
+{11337}{Tenho tanta sorte de esbarrar com você novamente!}
+{11338}{Tenho tanta sorte de esbarrar com você novamente!}
+{11339}{Olá novamente!}
+
+// villager
+{11350}{Saudações. O que deseja?}
+{11351}{Encantado em revê-lo!}
+{11352}{Encantado em revê-lo!}
+{11353}{Excelente encontrá-lo novamente!}
+{11354}{Excelente encontrá-lo novamente!}
+{11355}{Ora! Ótimo revê-lo!}
+{11356}{Ora! Ótimo ver o senhor novamente!}
+{11357}{Maravilhoso ter novamente o prazer de sua companhia!}
+{11358}{Maravilhoso ter novamente o prazer de sua companhia!}
+{11359}{Magnífico vê-lo mais uma vez!}
+{11360}{Magnífico vê-lo mais uma vez!}
+{11361}{É uma satisfação reencontrá-lo!}
+{11362}{É uma satisfação reencontrá-lo!}
+{11363}{À sua ótima saúde!}
+{11364}{À sua excelente saúde! É bom vê-lo novamente.}
+{11365}{Um dia alegre, revê-lo!}
+{11366}{Um dia alegre, revê-lo!}
+{11367}{É muito bom revê-lo!}
+{11368}{É muito bom revê-lo!}
+{11369}{Que prazer vê-lo mais uma vez!}
+{11370}{Que prazer vê-lo mais uma vez!}
+{11371}{É um deleite vê-lo novamente!}
+{11372}{É um deleite vê-lo novamente!}
+{11373}{É maravilhoso ver você de novo!}
+{11374}{É maravilhoso ver você de novo!}
+{11375}{Como é agradável vê-lo novamente!}
+{11376}{Como é agradável vê-lo novamente!}
+{11377}{É uma bênção revê-lo!}
+{11378}{É uma bênção revê-lo!}
+{11379}{É muito agradável revê-lo!}
+{11380}{É muito agradável revê-lo!}
+{11381}{É tão encantador revê-lo!}
+{11382}{É tão encantador revê-lo!}
+{11383}{Sinto-me profundamente honrado em renovar nosso conhecimento!}
+{11384}{Sinto-me profundamente honrado em renovar nosso conhecimento!}
+{11385}{Revê-lo me trouxe grande satisfação!}
+{11386}{Revê-lo me trouxe grande satisfação!}
+{11387}{Tenho a sorte de vê-lo novamente!}
+{11388}{Tenho a sorte de vê-lo novamente!}
+{11389}{Saudações. Espero que esteja bem.}
+{11390}{Saudações. Em que posso ajudá-lo?}
+{11391}{É bom vê-lo novamente!}
+{11392}{Bem-vindo de volta!}
+{11393}{É bom vê-lo novamente!}
+{11394}{Bem-vindo de volta!}
+
+// beggar
+{11400}{Oh, sou agraciado por sua presença mais uma vez!}
+{11401}{Estou encantado em encontrá-lo novamente!}
+{11402}{Estou encantado em encontrá-lo novamente!}
+{11403}{É maravilhoso encontrá-lo novamente!}
+{11404}{É maravilhoso encontrá-lo novamente!}
+{11405}{É ótimo vê-lo <<<PH1>>> novamente!}
+{11406}{É ótimo ver você de novo!}
+{11407}{Maravilhoso ter o prazer de sua companhia novamente!}
+{11408}{Maravilhoso ter o prazer de sua companhia novamente!}
+{11409}{Maravilhoso encontrá-lo mais uma vez!}
+{11410}{Maravilhoso encontrá-lo mais uma vez!}
+{11411}{É uma grande satisfação reencontrarmo-nos!}
+{11412}{É uma grande satisfação reencontrarmo-nos!}
+{11413}{Sua <<<PH1>>> excelente saúde!}
+{11414}{À sua ótima saúde!}
+{11415}{Um dia alegre, é, revê-lo!}
+{11416}{Um dia alegre, é, revê-lo!}
+{11417}{É muito bom encontrá-lo novamente!}
+{11418}{É muito bom encontrá-lo novamente!}
+{11419}{Que prazer <<<PH1>>> encontrá-lo novamente!}
+{11420}{Que prazer encontrá-lo novamente!}
+{11421}{É um deleite vê-lo novamente!}
+{11422}{É um deleite vê-lo novamente!}
+{11423}{É maravilhoso ver você de novo!}
+{11424}{É maravilhoso ver você de novo!}
+{11425}{Como é agradável vê-lo novamente!}
+{11426}{Como é agradável vê-lo novamente!}
+{11427}{É uma grande bênção encontrar você novamente!}
+{11428}{É uma grande bênção encontrar você novamente!}
+{11429}{É maravilhoso ver você de novo!}
+{11430}{É maravilhoso ver você de novo!}
+{11431}{É <<<PH1>>> ótimo ver você de novo!}
+{11432}{É ótimo ver você de novo!}
+{11433}{É uma grande honra renovar nosso conhecimento!}
+{11434}{É uma grande honra renovar nosso conhecimento!}
+{11435}{É uma grande satisfação ver você novamente!}
+{11436}{É uma grande satisfação ver você novamente!}
+{11437}{Tenho tanta sorte de ver você de novo!}
+{11438}{Tenho tanta sorte de ver você de novo!}
+{11439}{Oh, senhor, sou agraciado por sua presença novamente!}
+
+// thief
+{11450}{Olá. Como você tem passado?}
+{11451}{Encantado por reencontrá-lo!}
+{11452}{Encantado por reencontrá-lo, meu amigo!}
+{11453}{Muito excelente, de fato, é revê-lo!}
+{11454}{Muito excelente, de fato, é revê-lo, meu amigo!}
+{11455}{Ah! Magnífico ver você de novo!}
+{11456}{Ah! Magnífico ver você de novo, meu amigo!}
+{11457}{Maravilhoso é ter o prazer de sua companhia novamente!}
+{11458}{Maravilhoso é, meu amigo, ter o prazer de sua companhia novamente!}
+{11459}{Esplêndido é saudá-lo mais uma vez!}
+{11460}{Esplêndido é saudá-lo mais uma vez, meu amigo!}
+{11461}{É com intensa satisfação que nos encontramos novamente!}
+{11462}{É com intensa satisfação que nos encontramos novamente, meu amigo!}
+{11463}{À sua ótima saúde!}
+{11464}{À sua excelente saúde, meu amigo!}
+{11465}{Um dia alegre, é, revê-lo!}
+{11466}{Um dia alegre, é, revê-lo, meu amigo!}
+{11467}{É tão bom reencontrá-lo assim!}
+{11468}{É tão maravilhoso reencontrá-lo novamente, meu amigo!}
+{11469}{Que prazer requintado recebê-lo mais uma vez!}
+{11470}{Que prazer requintado recebê-lo mais uma vez, meu amigo!}
+{11471}{É realmente um deleite vê-lo novamente!}
+{11472}{É realmente um deleite vê-lo novamente, meu amigo!}
+{11473}{É absolutamente maravilhoso vê-lo novamente!}
+{11474}{É maravilhoso vê-lo novamente, meu amigo!}
+{11475}{Como é agradável e apropriado revê-lo!}
+{11476}{Como é agradável e apropriado revê-lo, meu amigo!}
+{11477}{É uma bênção tão grande recebê-lo novamente!}
+{11478}{É uma bênção tão grande recebê-lo novamente, meu amigo!}
+{11479}{É tão agradável reencontrá-lo novamente!}
+{11480}{É tão agradável reencontrá-lo novamente, meu amigo!}
+{11481}{É tão encantador reencontrá-lo novamente!}
+{11482}{É tão encantador reencontrá-lo novamente, meu amigo!}
+{11483}{É uma honra renovar nosso contato!}
+{11484}{É uma honra renovar nosso contato, meu amigo!}
+{11485}{Reencontrá-lo me trouxe grande satisfação!}
+{11486}{Reencontrá-lo me trouxe grande satisfação, meu amigo!}
+{11487}{Tenho tanta sorte em vê-lo novamente!}
+{11488}{Tenho tanta sorte em vê-lo novamente, meu amigo!}
+{11489}{Saudações, meu amigo. Espero que esteja bem.}
+{11490}{Olá, senhor. Como tem passado?}
+
+// bandit
+{11500}{Com o coração caloroso e a mão estendida, saúdo meu amigo!}
+{11501}{Que delícia encontrá-lo novamente!}
+{11502}{Que delícia encontrá-lo novamente!}
+{11503}{Excelente encontrá-lo novamente!}
+{11504}{Excelente encontrá-lo novamente!}
+{11505}{Ah! Magnífico!!}
+{11506}{Ah! Magnífico! Como vai, amigo?}
+{11507}{Maravilhoso!}
+{11508}{Que maravilha vê-lo novamente!}
+{11509}{Esplêndido!}
+{11510}{Esplêndido! Está bem?}
+{11511}{É uma satisfação esbarrar com você novamente!}
+{11512}{É uma satisfação esbarrar com você novamente!}
+{11513}{À sua ótima saúde!}
+{11514}{À sua ótima saúde!}
+{11515}{Um dia alegre!}
+{11516}{Um dia alegre! Está aproveitando, meu amigo?}
+{11517}{Que bom esbarrar com você novamente!}
+{11518}{Que bom esbarrar com você novamente!}
+{11519}{É um prazer cumprimentá-lo novamente!}
+{11520}{É um prazer cumprimentá-lo novamente!}
+{11521}{É um deleite vê-lo novamente!}
+{11522}{É um deleite vê-lo novamente!}
+{11523}{Que maravilha vê-lo novamente!}
+{11524}{Que maravilha vê-lo novamente!}
+{11525}{Ótimo vê-lo novamente!}
+{11526}{Ótimo vê-lo novamente!}
+{11527}{Uma bênção cumprimentá-lo novamente!}
+{11528}{Uma bênção cumprimentá-lo novamente!}
+{11529}{É um prazer!}
+{11530}{É um prazer!}
+{11531}{É ótimo esbarrar com você novamente!}
+{11532}{É ótimo esbarrar com você novamente!}
+{11533}{É ótimo renovar nosso contato!}
+{11534}{É ótimo renovar nosso contato!}
+{11535}{Sempre me traz grande satisfação encontrá-lo!}
+{11536}{Sempre me traz grande satisfação encontrá-lo!}
+{11537}{Tenho a sorte de vê-lo novamente!}
+{11538}{Tenho a sorte de vê-lo novamente!}
+{11539}{Com o coração caloroso e a mão aberta, saúdo meu velho amigo!}
+
+
+// Second good greeting messages start at 12000. Each class gets 50
+// messages starting on multiples of 50
+
+// noble
+{12000}{Olá de novo. Como você está?}
+{12001}{Olá de novo. Espero que esteja bem?}
+{12002}{Está um dia agradável, não está?}
+{12003}{Está um dia agradável, não está?}
+{12004}{É sempre uma honra.}
+{12005}{É sempre uma honra.}
+{12006}{Sim. Bem-vindo. Como vai você?}
+{12007}{Sim. Bem-vindo. Como vai você?}
+{12008}{É bom vê-lo novamente.}
+{12009}{É bom vê-lo novamente.}
+{12010}{É um prazer mais uma vez.}
+{12011}{É um prazer mais uma vez.}
+{12012}{Olá. Como vai hoje?}
+{12013}{Olá. Como vai hoje?}
+{12014}{Saudações.}
+{12015}{Saudações.}
+{12016}{É bom vê-lo novamente.}
+{12017}{Senhor! É bom vê-lo novamente.}
+{12018}{É um prazer vê-lo novamente.}
+{12019}{É um prazer vê-lo novamente.}
+{12020}{É sempre um prazer, tenho certeza!}
+{12021}{É sempre um prazer, tenho certeza!}
+{12022}{Saudações! Um prazer vê-lo novamente.}
+{12023}{Saudações! Um prazer vê-lo novamente.}
+{12024}{É bom revê-lo.}
+{12025}{É bom revê-lo.}
+{12026}{É um prazer revê-lo.}
+{12027}{É um prazer revê-lo.}
+{12028}{Como vai?}
+{12029}{Como vai?}
+{12030}{Encantador.}
+{12031}{Encantador.}
+
+// priest
+{12050}{Bem-vindo.}
+{12051}{Bem-vindo.}
+{12052}{Olá! Sempre um prazer.}
+{12053}{Olá! Sempre um prazer.}
+{12054}{Bênçãos, irmão.}
+{12055}{Bênçãos.}
+{12056}{Está um bom dia, não acha?}
+{12057}{Está um bom dia, não acha?}
+{12058}{Bênçãos. É bom revê-la.}
+{12059}{Bênçãos. É bom revê-la.}
+{12060}{Bem-vinda, o que posso fazer por você?}
+{12061}{Bem-vinda, o que posso fazer por você?}
+{12062}{Olá, filho.}
+{12063}{Olá, meu irmão.}
+{12064}{Sempre uma honra.}
+{12065}{Sempre uma honra.}
+{12066}{Como vai hoje?}
+{12067}{Como vai?}
+{12068}{Olá, meu irmão. Como está hoje?}
+{12069}{Olá. Como vai hoje?}
+{12070}{Sempre um prazer encontrá-lo, meu irmão.}
+{12071}{Sempre um prazer encontrá-lo, filho.}
+{12072}{Saudações, meu irmão.}
+{12073}{Saudações, filho.}
+
+// wizard
+{12100}{Olá.}
+{12101}{Saudações! Como está hoje?}
+{12102}{É sempre uma honra.}
+{12103}{É um prazer revê-lo, <<<PH0>>>.}
+{12104}{Fico feliz em vê-lo novamente.}
+{12105}{Saúdo-o mais uma vez!}
+{12106}{Já nos encontramos antes! É uma honra.}
+{12107}{Mais uma vez, dou-lhe as boas-vindas.}
+{12108}{Ah, sim! Prazer em revê-lo.}
+{12109}{Olá. Como vai você?}
+{12110}{Estou sempre ao seu dispor.}
+{12111}{Olá, tudo bem?}
+{12112}{Olá, o que posso fazer por você?}
+{12113}{Olá, meu amigo.}
+{12114}{Sempre uma honra.}
+{12115}{Sempre uma honra.}
+{12116}{Como vai, meu amigo?}
+{12117}{Como vai?}
+{12118}{Olá, meu amigo. Como está hoje?}
+{12119}{Olá. Como vai hoje?}
+{12120}{Sempre um prazer encontrá-lo, meu amigo.}
+{12121}{Sempre um prazer encontrá-lo.}
+{12122}{Saudações, meu amigo.}
+{12123}{Saudações.}
+
+// technologist
+{12150}{Saudações.}
+{12151}{É um belo dia. O que posso fazer por você?}
+{12152}{É um prazer revê-lo.}
+{12153}{É bom revê-lo.}
+{12154}{Um prazer mais uma vez, tenho certeza.}
+{12155}{Bem-vindo! O que posso fazer por você?}
+{12156}{Estou feliz em vê-lo novamente.}
+{12157}{Como vai?}
+{12158}{É um prazer revê-lo.}
+{12159}{Olá. Que bom vê-lo.}
+{12160}{Eu me lembro de você. Como vai?}
+{12161}{Eu me lembro de você. A que devo esta honra?}
+{12162}{Olá. Em que posso ajudá-lo?}
+{12163}{Olá, meu amigo.}
+{12164}{Sempre uma honra.}
+{12165}{Sempre uma honra.}
+{12166}{Como vai, meu amigo?}
+{12167}{Como vai?}
+{12168}{Olá, meu amigo. Como está hoje?}
+{12169}{Olá. Como vai hoje?}
+{12170}{Sempre um prazer, meu amigo.}
+{12171}{Sempre um prazer.}
+{12172}{Saudações, meu amigo.}
+{12173}{Saudações.}
+
+// shopkeeper
+{12200}{O que posso fazer por você?}
+{12201}{Que bom revê-lo.}
+{12202}{É um prazer vê-lo aqui novamente.}
+{12203}{Bom dia! É um prazer.}
+{12204}{Bem, o que o traz aqui? Espero que tudo esteja bem?}
+{12205}{É bom vê-lo aqui novamente.}
+{12206}{Fico feliz que tenha voltado!}
+{12207}{Há algo em que eu possa ajudá-lo?}
+{12208}{Estou à sua disposição.}
+{12209}{Como posso ajudá-lo?}
+{12210}{É bom revê-lo.}
+{12211}{É um prazer revê-lo.}
+{12212}{Olá. Só o melhor para você!}
+{12213}{Sou seu servo. O que é que você precisa?}
+{12214}{Olá. Viu algo que lhe agrade?}
+{12215}{Olá, meu amigo.}
+{12216}{Sempre um grande prazer vê-lo.}
+{12217}{Sempre um grande prazer vê-lo.}
+{12218}{Como vai, meu amigo?}
+{12219}{Como vai?}
+{12220}{Olá, meu amigo. Como está hoje?}
+{12221}{Olá. Como vai hoje?}
+{12222}{Sempre um prazer, meu amigo.}
+{12223}{Sempre um prazer.}
+{12224}{Como está hoje, meu amigo?}
+{12225}{Como está hoje?}
+
+// guard
+{12250}{Posso ajudá-lo?}
+{12251}{Precisa de ajuda?}
+{12252}{Eu me lembro de você. Posso ser útil?}
+{12253}{Olá. É bom vê-lo novamente.}
+{12254}{Fico feliz em vê-lo novamente.}
+{12255}{É um prazer revê-lo.}
+{12256}{Às suas ordens.}
+{12257}{Precisa de mim?}
+{12258}{Que serviço precisa?}
+{12259}{Ao seu dispor.}
+{12260}{Estou às suas ordens.}
+{12261}{Sempre uma honra.}
+{12262}{Um belo dia, não é?}
+{12263}{É um bom dia.}
+{12264}{Olá. Como vai?}
+{12265}{Olá.}
+{12266}{Saudações.}
+{12267}{Posso ajudá-lo?}
+{12268}{Sim? Há algum problema?}
+{12269}{Olá. Posso fazer algo por você?}
+{12270}{Olá.}
+{12271}{Há alguma forma de eu ser útil?}
+{12272}{Olá. Espero que esteja bem?}
+{12273}{O que é que você precisa agora?}
+{12274}{Olá. Posso ajudar em algo?}
+{12275}{Olá, meu amigo.}
+{12276}{Sempre um grande prazer vê-lo.}
+{12277}{Sempre um grande prazer vê-lo.}
+{12278}{Como vai, meu amigo?}
+{12279}{Como vai?}
+{12280}{Olá, meu amigo. Como está hoje?}
+{12281}{Olá. Como vai hoje?}
+{12282}{Sempre um grande prazer, meu amigo.}
+{12283}{Sempre um grande prazer.}
+{12284}{Como está hoje, meu amigo?}
+{12285}{Como está hoje?}
+{12286}{É um prazer revê-lo.}
+
+
+// city_dweller
+{12300}{Olá de novo.}
+{12301}{Bom dia, é um prazer.}
+{12302}{Como vai?}
+{12303}{Outro dia assustador, temo. Como está?}
+{12304}{O que posso fazer por você?}
+{12305}{Olá! Prazer em vê-lo novamente.}
+{12306}{Como está hoje?}
+{12307}{É um prazer.}
+{12308}{Uma honra vê-lo novamente.}
+{12309}{É um prazer revê-lo.}
+{12310}{É sempre um prazer.}
+{12311}{Como vai?}
+{12312}{Olá, o prazer é meu.}
+{12313}{É um prazer revê-lo, <<<PH0>>>.}
+{12314}{Fico feliz em vê-lo novamente.}
+{12315}{Já nos encontramos antes! Eu me lembro de você.}
+{12316}{Ah, sim! Prazer em revê-lo.}
+{12317}{Olá. Lembra-se de mim?}
+{12318}{Estou sempre ao seu dispor.}
+{12319}{Olá, tudo bem?}
+{12320}{Olá, o que posso fazer por você?}
+{12321}{Olá, amigo.}
+{12322}{Sempre uma honra.}
+{12323}{Sempre uma honra.}
+{12324}{Como vai, meu amigo?}
+{12325}{Como vai?}
+{12326}{Olá, meu amigo. Como está hoje?}
+{12327}{Olá. Como vai hoje?}
+
+// villager
+{12350}{Nos encontramos novamente.}
+{12351}{Olá.}
+{12352}{Bem-vindo de volta.}
+{12353}{Senhor! Bom vê-lo novamente.}
+{12354}{Com certeza, é bom vê-la novamente.}
+{12355}{Saudações! Sempre feliz em sua companhia.}
+{12356}{Precisa de algo?}
+{12357}{O que posso fazer por você?}
+{12358}{É um prazer.}
+{12359}{Está um belo dia.}
+{12360}{A que devemos o prazer?}
+{12361}{Sim! Um bom dia para você.}
+{12362}{Um belo dia para você.}
+{12363}{Você é bem-vindo aqui.}
+{12364}{Bom dia para você.}
+{12365}{É uma honra.}
+{12366}{É bom vê-lo novamente.}
+{12367}{Estou feliz em vê-lo novamente.}
+{12368}{Você é sempre bem-vindo aqui.}
+{12369}{Saudações.}
+{12370}{Como vai?}
+{12371}{Olá, tudo bem?}
+
+// beggar
+{12400}{Estou feliz em vê-lo novamente.}
+{12401}{Peço perdão.}
+{12402}{Obrigado por notar este velho mendigo novamente.}
+{12403}{O que posso fazer por você?}
+{12404}{Não tive a intenção de <tossir> atrapalhar seu caminho.}
+{12405}{O senhor é um homem verdadeiramente nobre.}
+{12406}{O que posso fazer por você?}
+{12407}{Por favor. O que posso fazer por você?}
+{12408}{Sim, está um bom dia.}
+{12409}{Posso fazer algo por você?}
+{12410}{Com certeza, está um dia agradável!}
+{12411}{Senhor, por favor <tosse> desculpe minha aparência.}
+{12412}{Olá, gentil alma. Fico feliz que fale comigo.}
+
+// thief
+{12450}{Olá.}
+{12451}{Bom revê-lo!}
+{12452}{Saudações! É bom vê-lo novamente.}
+{12453}{A que devo o prazer.}
+{12454}{Bom dia para você, espero poder ser útil?}
+{12455}{É bom que tenha voltado para ver seu velho amigo.}
+{12456}{Está um belo dia!}
+{12457}{Precisa de algo?}
+{12458}{Que dia mais agradável, não é?}
+{12459}{É um prazer vê-lo.}
+{12460}{Que bom vê-lo novamente! Lembra de mim?}
+{12461}{É uma honra mais uma vez.}
+{12462}{Olá. O que deseja?}
+{12463}{É bom revê-lo.}
+{12464}{Fico feliz em vê-lo novamente.}
+{12465}{Já nos encontramos antes. Eu me lembro de você.}
+{12466}{Ah, sim. Que bom vê-lo de novo.}
+{12467}{Olá. Você se lembra de mim?}
+{12468}{Estou sempre ao seu dispor.}
+{12469}{Olá. Como vai você?}
+{12470}{Olá, o que posso fazer por você?}
+{12471}{Olá, amigo. Negócios? Ou prazer?}
+{12472}{Sempre ao seu dispor.}
+{12473}{Sempre ao seu dispor.}
+{12474}{Como vai, meu amigo?}
+{12475}{Como vai?}
+{12476}{Olá, meu amigo. Como está hoje?}
+{12477}{Olá. Como vai hoje?}
+
+// bandit
+{12500}{Saudações.}
+{12501}{É bom ver você!}
+{12502}{Ora! Que dia bom.}
+{12503}{Fico feliz em vê-lo.}
+{12504}{Que bom que está aqui!}
+{12505}{Ora! Seja bem-vindo.}
+{12506}{É bem-vindo aqui, irmão.}
+{12507}{Como está?}
+{12508}{O dia parece estar melhorando, eu acho.}
+{12509}{O que a traz aqui?}
+{12510}{Gostei do seu jeito, com certeza!}
+{12511}{Como está?}
+{12512}{Posso ajudá-lo?}
+{12513}{Bom ver você de novo.}
+{12514}{Já nos encontramos antes. Eu me lembro de você.}
+{12515}{Ah, sim. Bom ver você de novo.}
+{12516}{Olá. Você se lembra de mim?}
+{12517}{A seu serviço, estou}
+{12518}{Olá. Bom dia hoje, não é?}
+{12519}{Sim, o que você precisa?}
+{12520}{Oi, amigo. Negócios ou prazer?}
+{12521}{Sempre à sua disposição.}
+{12522}{Como vai, meu amigo?}
+{12523}{Como está?}
+{12524}{Olá, amigo. Como vai hoje?}
+{12525}{Olá. Como vai hoje?}
+
+
+
+// Second neutral greeting messages start at 13000. Each class gets 50
+// messages starting on multiples of 50
+
+// noble
+{13000}{Olá.}
+{13001}{Pois não?}
+{13002}{Sim, o que é?}
+{13003}{É um prazer.}
+{13004}{Bem-vindo.}
+{13005}{Como vai?}
+{13006}{É bom vê-lo.}
+{13007}{É um prazer.}
+{13008}{A que devemos esta visita?}
+{13009}{Olá.}
+{13010}{Saudações.}
+{13011}{Como vai?}
+{13012}{Pois não?}
+{13013}{Sim? Como vai?}
+
+
+// priest
+{13050}{Por favor, diga o motivo de seu retorno, meu filho.}
+{13051}{Olá.}
+{13052}{Como vai?}
+{13053}{Sim? O que é?}
+{13054}{Hmm, sim. Você é, sim?}
+{13055}{Saúde.}
+{13056}{Um bom dia, não é?}
+{13057}{Bênçãos.}
+{13058}{Saudações.}
+{13059}{Precisa de algo?}
+{13060}{Pois não?}
+{13061}{Como vai, criança?}
+
+
+// wizard
+{13100}{Pois não?}
+{13101}{Como vai?}
+{13102}{Bom dia.}
+{13103}{Bem-vindo.}
+{13104}{Olá.}
+{13105}{Sim. O que é?}
+{13106}{O que é?}
+{13107}{O que você quer?}
+{13108}{Hmm. Como vai?}
+
+
+
+// technologist
+{13150}{Pois não?}
+{13151}{Sim, sim. Por que voltou?}
+{13152}{Um dia agradável.}
+{13153}{Como vai?}
+{13154}{Sim, o que é?}
+{13155}{Olá.}
+{13156}{É bom vê-lo.}
+{13157}{Ah, sim, já nos encontramos antes. Eu me lembro de você.}
+{13158}{Sim? Como vai?}
+{13159}{Sim? Como vai?}
+{13160}{Olá. Em que posso ajudá-lo?}
+{13161}{Sim, o que precisa?}
+{13162}{O quê? Ah, sim. Como vai?}
+
+// shopkeeper
+{13200}{Voltou para examinar minhas mercadorias?}
+{13201}{Posso ajudá-lo?}
+{13202}{Bom dia.}
+{13203}{Bom dia. Em que posso ajudá-lo?}
+{13204}{O que o traz de volta?}
+{13205}{Viu algo que deixou passar antes?}
+{13206}{Veio por outra pechincha?}
+{13207}{Há algo em que eu possa ajudá-lo?}
+{13208}{Estou à sua disposição.}
+{13209}{Como posso ajudá-lo?}
+{13210}{Esqueceu algo da última vez?}
+{13211}{Olá.}
+{13212}{O que é que precisa?}
+{13213}{Olá. Viu algo que lhe agrade?}
+{13214}{Gostaria de comprar algo?}
+{13215}{Sim? Em que posso ajudá-lo hoje?}
+{13216}{Como vai hoje?}
+{13217}{Viu algo que lhe agrade?}
+{13218}{Em que posso ajudá-lo hoje?}
+
+// guard
+{13250}{Circule.}
+{13251}{Por favor, continue com seus afazeres.}
+{13252}{Saudações.}
+{13253}{Olá. O que é?}
+{13254}{Pois não?}
+{13255}{Precisa de mim?}
+{13256}{Estou em patrulha. Por favor, seja rápido.}
+{13257}{Sim, o que foi?}
+{13258}{Olá.}
+{13259}{Como vai?}
+{13260}{Como está?}
+{13261}{Olá. Posso ajudá-lo?}
+{13262}{Olá.}
+{13263}{O que é?}
+{13264}{Por favor, continue com seus afazeres.}
+{13265}{Por favor, siga em frente.}
+
+
+
+// city_dweller
+{13300}{Olá.}
+{13301}{Olá.}
+{13302}{Pois não?}
+{13303}{Olá. É bom vê-lo.}
+{13304}{Pois não?}
+{13305}{O que é?}
+{13306}{O quê?}
+{13307}{Deseja falar comigo?}
+{13308}{Do que precisa?}
+{13309}{O que o traz aqui?}
+{13310}{Como vai?}
+{13311}{Bom vê-lo novamente.}
+{13312}{Olá de novo.}
+{13313}{Sim, o que é?}
+{13314}{Posso fazer algo por você?}
+
+// villager
+{13350}{Olá.}
+{13351}{Ah, é você de novo.}
+{13352}{Saudações.}
+{13353}{Senhor, o que o traz de volta aqui?}
+{13354}{Com certeza, é bom vê-la novamente.}
+{13355}{Sim, o que é?}
+{13356}{Precisa de algo?}
+{13357}{O que posso fazer por você?}
+{13358}{Sim? O que foi?}
+{13359}{Bom vê-lo novamente, senhor.}
+{13360}{Saudações.}
+{13361}{Pois não?}
+{13362}{Olá de novo.}
+{13363}{Senhor? Posso ser útil novamente?}
+{13364}{Sim, o que é?}
+{13365}{Sim?}
+{13366}{Olá de novo.}
+{13367}{Pois não?}
+{13368}{Sim, o que foi?}
+
+
+// beggar
+{13400}{Bem-vindo de volta.}
+{13401}{Peço <tosse> perdão.}
+{13402}{Obrigado por notar este velho mendigo novamente.}
+{13403}{O que posso fazer por você?}
+{13404}{Não tive a intenção de atrapalhar seu caminho.}
+{13405}{O senhor é um homem verdadeiramente bom.}
+{13406}{O que posso <tosse> fazer por você?}
+{13407}{Posso fazer algo por você?}
+{13408}{Por favor, desculpe minha aparência.}
+{13409}{<tosse> O que é?}
+{13410}{O que você <tosse> quer de mim?}
+{13411}{O que este pobre mendigo pode fazer por você?}
+{13412}{Saúde para a senhora, <tosse>.}
+{13413}{O que a traz aqui?}
+
+// thief
+{13450}{Pois não?}
+{13451}{Saudações.}
+{13452}{Bom dia a você. Como posso ser útil?}
+{13453}{Ah, sim, é você de novo.}
+{13454}{Sim, eu me lembro de você. Precisa de algo?}
+{13455}{Sim? Seja rápido.}
+{13456}{Olá. O que é agora?}
+{13457}{O que é agora?}
+{13458}{O que você precisa de mim?}
+{13459}{Saúde e tudo mais.}
+{13460}{O que o traz aqui de novo?}
+
+// bandit
+{13500}{O que é?}
+{13501}{O que você quer?}
+{13502}{Sim?}
+{13503}{Pois não?}
+{13504}{O que você quer desta vez?}
+{13505}{Por que voltou a me procurar, irmão?}
+{13506}{O que é desta vez?}
+{13507}{Seja rápido.}
+{13508}{Por que voltou?}
+{13509}{Ainda não sei se gosto da sua aparência ou não.}
+{13510}{Sim? Está me procurando?}
+{13511}{O que é agora?}
+{13512}{O que é agora?}
+{13513}{O que é?}
+{13514}{O que o traz de volta?}
+
+
+// Offer healing messages start at 14000. Each class gets 50
+// messages starting on multiples of 50
+
+// noble
+{14000}{Que tipo de cura você está buscando?}
+{14001}{Que tipo de cura você precisa?}
+{14002}{Que tipo de cura?}
+
+// priest
+{14050}{Que tipo de cura você está buscando?}
+{14051}{Que tipo de cura você precisa?}
+{14052}{Que tipo de cura?}
+
+// wizard
+{14100}{Que tipo de cura você está buscando?}
+{14101}{Que tipo de cura você precisa?}
+{14102}{Que tipo de cura?}
+
+// technologist
+{14150}{Que tipo de cura você está buscando?}
+{14151}{Que tipo de cura você precisa?}
+{14152}{Que tipo de cura?}
+
+// shopkeeper
+{14200}{Que tipo de cura você procura?}
+{14201}{Que tipo de cura você precisa?}
+{14202}{Que tipo de cura?}
+
+// guard
+{14250}{Que tipo de cura o cidadão está buscando?}
+{14251}{Que tipo de cura você precisa?}
+{14252}{Que tipo de cura?}
+
+// city_dweller
+{14300}{Que tipo de cura você está buscando?}
+{14301}{Que tipo de cura você precisa?}
+{14302}{Que tipo de cura?}
+
+// villager
+{14350}{Que tipo de cura você está buscando?}
+{14351}{Que tipo de cura você precisa?}
+{14352}{Que tipo de cura?}
+
+// beggar
+{14400}{Cura? De que tipo?}
+{14401}{Que tipo de cura?}
+{14402}{Que tipo de cura você procura?}
+
+// thief
+{14450}{Cura? De que tipo?}
+{14451}{Que tipo de cura?}
+{14452}{Que tipo de cura você procura?}
+
+// bandit
+{14500}{Cura? De que tipo?}
+{14501}{Que tipo de cura?}
+{14502}{Que tipo de cura você procura?}
+
+
+// Finished messages start at 15000. Each class gets 50
+// messages starting on multiples of 50
+
+// noble
+{15000}{Terminei.}
+{15001}{Está finalizado.}
+{15002}{Está feito.}
+{15003}{Encantado em ser útil.}
+{15004}{Tudo terminado.}
+{15005}{Exatamente assim, de fato, está feito.}
+
+
+// priest
+{15050}{Está finalizado.}
+{15051}{Está feito.}
+{15052}{Terminei.}
+{15053}{Minha parte está feita.}
+{15054}{A vontade dos deuses foi cumprida.}
+{15055}{Tudo pronto.}
+{15056}{Está feito.}
+{15057}{A tarefa foi levada a seu fim.}
+{15058}{Foi realizado.}
+{15059}{Terminamos.}
+{15060}{Está finalizado.}
+{15061}{Está completamente feito.}
+{15062}{Está pronto.}
+{15063}{Minha parte está feita.}
+
+
+// wizard
+{15100}{Realizei a tarefa.}
+{15101}{Efetivamente finalizado.}
+{15102}{Está terminado.}
+{15103}{Está feito.}
+{15104}{Está finalizado.}
+{15105}{Está feito, de cabo a rabo.}
+{15106}{Terminei.}
+
+
+// technologist
+{15150}{Está feito.}
+{15151}{Terminei.}
+{15152}{Foi um sucesso.}
+{15153}{Tudo pronto.}
+{15154}{Está feito.}
+{15155}{Concluí.}
+{15156}{Está terminado.}
+{15157}{Terminei.}
+{15158}{Bem feito, se me permite dizer.}
+{15159}{Completei a tarefa.}
+{15160}{Terminei.}
+{15161}{Executado e implementado com esmero.}
+
+
+// shopkeeper
+{15200}{Nossa transação está concluída.}
+{15201}{Nossa transação está concluída.}
+{15202}{Terminei.}
+{15203}{Completei a tarefa.}
+{15204}{Aqui vamos nós. Tudo pronto.}
+{15205}{Tudo pronto.}
+{15206}{Terminado.}
+{15207}{O acordo está fechado.}
+{15208}{O acordo está fechado.}
+{15209}{Está completo.}
+{15210}{Está finalizado.}
+
+// guard
+{15250}{Terminei.}
+{15251}{Sucesso.}
+{15252}{Terminei.}
+{15253}{Terminei.}
+{15254}{Terminei.}
+{15255}{Terminei.}
+{15256}{Terminei.}
+{15257}{Terminei.}
+{15258}{Executei a tarefa.}
+
+
+// city_dweller
+{15300}{Tudo pronto.}
+{15301}{Terminei.}
+{15302}{Tudo terminado.}
+{15303}{Terminei.}
+{15304}{Tudo terminado.}
+{15305}{Terminei.}
+{15306}{Tudo terminado.}
+{15307}{Terminei.}
+{15308}{Terminei.}
+{15309}{Feito e concluído.}
+{15310}{Feito e concluído.}
+{15311}{Está tudo pronto, é.}
+{15312}{Tudo pronto.}
+{15313}{Terminei.}
+{15314}{Terminei.}
+{15315}{Feito e concluído.}
+
+// villager
+{15350}{Terminei.}
+{15351}{Terminei.}
+{15352}{Terminei.}
+{15353}{Está feito.}
+{15354}{Está terminado.}
+{15355}{Está terminado.}
+{15356}{Está terminado.}
+{15357}{Está terminado.}
+{15358}{Está finalizado.}
+{15359}{Está finalizado.}
+{15360}{Está finalizado.}
+{15361}{Está finalizado.}
+{15362}{Terminei.}
+{15363}{Terminei.}
+{15364}{Terminei.}
+{15365}{Terminei.}
+{15366}{Aquela tarefa está feita.}
+{15367}{Aquela tarefa foi concluída.}
+
+
+// beggar
+{15400}{Terminei.}
+{15401}{Terminei.}
+{15402}{Acho que terminei.}
+{15403}{Muito bem. Está feito.}
+{15404}{Está terminado.}
+{15405}{Tudo está feito.}
+{15406}{Terminei.}
+{15407}{Terminei.}
+{15408}{Tudo pronto para você.}
+{15409}{Fiz o que pude.}
+{15410}{Tudo o que podia fazer, está feito.}
+{15411}{Acho que terminei.}
+{15412}{Isso é tudo que posso fazer.}
+{15413}{Está feito.}
+{15414}{Muito bem.}
+{15415}{Está terminado.}
+{15416}{Tudo está feito.}
+{15417}{Chegou ao fim.}
+{15418}{Terminei.}
+
+
+// thief
+{15450}{Terminei.}
+{15451}{Terminei.}
+{15452}{Está terminado.}
+{15453}{Eu o executei.}
+{15454}{Chegou ao fim.}
+{15455}{Tudo pronto.}
+{15456}{Pronto! Está feito.}
+{15457}{O trabalho está feito.}
+{15458}{Está completo.}
+
+
+// bandit
+{15500}{Feito.}
+{15501}{Terminei.}
+{15502}{Está feito.}
+{15503}{Terminei.}
+{15504}{Terminado.}
+{15505}{Está terminado.}
+{15506}{Isso está feito.}
+{15507}{Terminei.}
+{15508}{Terminei.}
+{15509}{Terminei com isso.}
+
+
+// Greeting a PC in underwear messages start at 16000. Each class gets
+// 50 messages starting on multiples of 50
+
+// noble
+{16000}{Suas roupas! Onde estão suas roupas?!}
+{16001}{Por favor, vista-se, senhor!}
+{16002}{Pelos deuses! Vista alguma roupa!}
+{16003}{Sua falta de roupas não condiz com sua posição.}
+{16004}{Tenha a bondade de se cobrir, tolo.}
+{16005}{Senhor! Sua vestimenta é totalmente insatisfatória!}
+{16006}{Ao menos, senhor, poderia cobrir-se com um manto!}
+{16007}{Sério! Apenas um tolo apareceria com tamanha falta de roupas!}
+{16008}{Onde estão suas roupas? Isso é altamente inapropriado!}
+{16009}{Por favor, cubra-se! Não preciso ver isso!}
+{16010}{Sua falta de vestimenta é uma afronta aos meus delicados sentidos!}
+{16011}{Ora! Não espero trajes finos de alguém como você... mas isso?}
+{16012}{Oh, por favor! Esta é uma sociedade civilizada. Usamos trajes respeitáveis aqui!}
+{16013}{Que rude e insolente aparecer diante de mim com tamanha falta de decoro!}
+{16014}{Por favor! Até o tolo mais reles veste mais roupas que você!}
+{16015}{Por favor, não ofenda meus refinados e delicados sentidos, tolo nu!}
+{16016}{Por favor, vista-se, tolo!}
+{16017}{Senhor! Permita-me sugerir que o senhor e suas vestes decadentes pertencem a uma esquina solitária!}
+{16018}{Suíno miserável! Vista-se, por favor!}
+{16019}{Como ousa exibir suas excrescências sifilíticas pela sociedade!}
+{16020}{Senhor! O senhor não está em condições de frequentar a boa sociedade nesse estado de nudez!}
+{16021}{Que rude e insolente aparecer diante de mim em tal estado indecoroso de nudez!}
+{16022}{Como ousa exibir suas excrescências sifilíticas para alguém como eu!}
+{16023}{Sério! Você demonstra tamanha presunção ao dirigir-se a mim enquanto está despida!}
+
+
+
+
+// priest
+{16050}{Meu filho, esconda sua nudez pecaminosa!}
+{16051}{Deve vestir alguma roupa imediatamente!}
+{16052}{Filho, as deusas podem perdoar sua falta de vestes, mas o povo é outra questão inteiramente.}
+{16053}{Meu Deus! Seu estado de nudez é decididamente ímpio!}
+{16054}{Meu filho! Está além de sua capacidade vestir-se decentemente?}
+{16055}{Oh, céus! Por favor, dê-se ao trabalho de vestir trajes apropriados!}
+{16056}{Oh, não! Isso realmente não pode ser! Por favor, vista alguma roupa!}
+{16057}{Andar por aí sem roupas fala escandalosamente da vida de um tolo!}
+{16058}{Sério! Onde estão suas roupas? Isso é imoralíssimo! Pecaminoso!}
+{16059}{Senhor! Até o mais desregrado dos leigos usa roupas!}
+{16060}{Você ofende minhas sensibilidades piedosas com seu estado de nudez perversa.}
+{16061}{Senhor! Sua vestimenta! Pelo que há de mais sagrado, cubra-se!}
+{16062}{Pelo que é sagrado, cubra-se!}
+{16063}{Como ousa exibir sua moral corrupta para alguém como eu! Vista-se!}
+
+
+// wizard
+{16100}{Meu Deus? Agora quem invocou um homem nu?}
+{16101}{O feitiço de invisibilidade deu errado? Só suas roupas desapareceram?}
+{16102}{Que modos pavorosos os seus, vir falar comigo sem roupas!}
+{16103}{Que falta de educação! Você abala minha concentração com sua vestimenta chocante!}
+{16104}{Por favor, cuide de sua roupa da próxima vez que nos encontrarmos!}
+{16105}{Meu caro senhor, seus atributos naturais talvez não sejam tão grandiosos quanto imagina! Por favor, vista algumas roupas.}
+{16106}{Você é pobre demais para ter roupas?}
+{16107}{Pelos meus Sangue! Como consegue se concentrar com essa brisa gelada soprando em suas partes íntimas?}
+{16108}{Que engraçado! Você arruinou minha concentração com sua nudez!}
+{16109}{Que coisa mais estranha! Sua túnica, ou a falta dela, isso sim.}
+{16110}{O senhor é um homem estranho! Andando por aí sem roupas!}
+{16111}{Suas roupas! Esse tipo de coisa não é apropriado!}
+{16112}{Não posso de forma alguma consentir com o seu estado de vestimenta!}
+{16113}{Estou verdadeiramente perplexo que considere tal vestimenta apropriada!}
+
+// technologist
+{16150}{Sabe, as roupas foram inventadas há algum tempo.}
+{16151}{Pelos deuses! Vista algumas roupas!}
+{16152}{Senhor! Ninguém o levará a sério até que aprenda a vestir-se pela manhã.}
+{16153}{Ah! As roupas podem ser uma convenção infernal, mas olhando para você, entendo por que é bom usá-las!}
+{16154}{Seu estado de nudez é totalmente insatisfatório.}
+{16155}{Seu estado de nudez é mais do que posso suportar!}
+{16156}{Do ponto de vista egoísta e aleatório, considero seu estado despido um insulto às pessoas sensatas em geral, e a mim em particular.}
+{16157}{Senhor, sua falta de roupas é inteiramente inapropriada.}
+{16158}{Que coisa mais estranha! Sua vestimenta, ou a falta dela, isso sim.}
+{16159}{Sua falta de roupas! Esse tipo de coisa simplesmente não se faz!}
+
+
+// shopkeeper
+{16200}{Não posso de forma alguma consentir com o seu estado de vestimenta!}
+{16201}{Oh, por favor, senhor! Não é adequado exibir-se nu!}
+{16202}{Talvez queira o nome de um bom alfaiate?}
+{16203}{Por favor! Vista-se ou da próxima vez serei forçado a chamar um guarda!}
+{16204}{Palavra de honra! Ficaria grato se cobrisse sua nudez!}
+{16205}{Peço desculpas, mas está ciente de que, hã, não está usando nenhuma roupa?}
+{16206}{Oh, homem repreensível! O senhor não fez bem ao meu coração, senhor, com seu estado lastimável de vestimenta!}
+{16207}{Oh, tolo travesso! Está desvairado? Onde estão suas roupas!}
+{16208}{Que coisa mais estranha! Sua falta de roupas, quero dizer.}
+{16209}{Estou verdadeiramente pasmo com a sua falta de vestimenta!}
+{16210}{Suas roupas! Esse tipo de coisa não é apropriado!}
+{16211}{Não posso de forma alguma consentir com o seu estado de vestimenta!}
+
+
+// guard
+{16250}{Devo insistir que se vista!}
+{16251}{Senhor! Atenda à sua vestimenta imediatamente!}
+{16252}{Senhor! Peço-lhe que vista algumas roupas.}
+{16253}{Senhor! Se continuar a desfilar nu, terei que prendê-lo.}
+{16254}{Meu Deus! Vista algumas roupas!}
+{16255}{Ora, onde estão suas roupas, homem?}
+{16256}{Ei, você aí! Andar por aí com suas <<<PH1>>> à mostra é coisa de mulher da vida!}
+{16257}{Senhor, terei que pedir que vista algumas roupas!}
+{16258}{Senhor! Vista-se, por favor!}
+{16259}{Devo insistir que se vista!}
+{16260}{Devo insistir que não ande por aí vestida assim.}
+{16261}{Não posso de forma alguma consentir com o seu estado de vestimenta em meu território!}
+
+
+// city_dweller
+{16300}{Jovem! Por favor, vista uma roupa!}
+{16301}{Se fosse você, teria vergonha de aparecer em público assim despida!}
+{16302}{O que aconteceu? Orcs te assaltaram e roubaram suas roupas?}
+{16303}{Oh, céus! Cubra-se com um manto, ao menos!}
+{16304}{Céus! Tenha a decência de se cobrir!}
+{16305}{Oh, céus! Um homem nu!}
+{16306}{Por minha honra! Que insolência vergonhosa é essa em sua nudez!}
+{16307}{Oh! Santos me protejam de sua terrível nudez!}
+{16308}{Com certeza você não está tramando nada de bom correndo por aí pelado, seu tolo!}
+{16309}{Você me desonra ao me forçar a um discurso público enquanto está nua diante de mim!}
+{16310}{Está abusando da liberdade ao passear por aí sem roupas! Sensualista!}
+{16311}{Que primitivo! Andar por aí assim com suas... <<<PH1>>>... à mostra para o mundo!}
+{16312}{O que está acontecendo com esta cidade? Sua roupa, suas vestes, suas vestimentas!}
+
+
+// villager
+{16350}{Sim, estou indignado que você ache que tal vestimenta é apropriada!}
+{16351}{Estou vendo muito mais de você do que gostaria! Por favor, use um vestido da próxima vez.}
+{16352}{Oh! Um tanto frio para esse estado de nudez, eu diria, querida.}
+{16353}{Você é um homem selvagem das colinas? Onde estão suas roupas?}
+{16354}{Pelos meus ancestrais! Você percebe que está nu, jovem?}
+{16355}{Glória! Para onde o mundo está indo quando homens desfilam por aí sem roupas no corpo?}
+{16356}{Jovem! Sua mãe sabe que você está por aí pelado desse jeito?}
+{16357}{Nós usamos roupas por aqui, senhor.}
+{16358}{Está passando por dificuldades? Onde estão suas roupas?}
+{16359}{Por que precisa correr por aí sem roupas?}
+{16360}{Você está malvestida para nossa cidade.}
+{16361}{Vista suas roupas!}
+{16362}{Deve estar brincando! Você está quase sem nada!}
+{16363}{Suas vestes, rapaz! Esse tipo de coisa não se faz aqui!}
+{16364}{Com certeza, não posso de forma alguma consentir com seu estado de vestimenta!}
+{16365}{Estou indignado por achar que tal vestimenta é apropriada!}
+
+// beggar
+{16400}{Pobre senhor, parece estar em pior estado que eu. Não tem roupas?}
+{16401}{Oh, senhor, por favor! Não me aflija com sua nudez, pessoa tão santa que sou!}
+{16402}{Meu Deus! Você sabe que não está vestida?}
+{16403}{Por favor, senhor! Até um mendigo pobre como eu tem senso de decência! Suas roupas!}
+{16404}{Senhor, o senhor deve estar desesperado para andar por aí pelado desse jeito!}
+{16405}{Senhor, como o senhor deve estar desesperado para não ter roupas!}
+{16406}{Sua roupa! Esse tipo de coisa não é apropriado aqui!}
+{16407}{Não acho que alguém vá consentir com seu estado de vestimenta!}
+{16408}{Os cidadãos de bem ficarão indignados que você ache tal vestimenta apropriada!}
+
+
+// thief
+{16450}{Meu Deus! Alguém roubou o vestido das suas costas?}
+{16451}{Senhor! Suas roupas! Está chamando atenção indesejada para nós!}
+{16452}{Se eu fosse o senhor, correria para pegar algumas peças da corda de roupas mais próxima rapidinho!}
+{16453}{Meu Deus! Raramente se vê uma visão como você, completamente à vontade assim!}
+{16454}{Precisa mesmo dispensar suas roupas?}
+{16455}{Ei-ho! Onde estão suas roupas?}
+{16456}{Sua vestimenta, amigo! Coisas assim não são o estado comum por aqui!}
+{16457}{Os nobres dignos vão ficar em polvorosa se você achar que esse tipo de traje é apropriado, amigo!}
+
+
+// bandit
+{16500}{Ah, sim! Que visão você é! Sempre desfilando por aí pelado, é?}
+{16501}{Sua mãe nunca lhe ensinou a se vestir?}
+{16502}{Oh, senhor, por favor! Não me faça rir tanto, vista alguma roupa!}
+{16503}{Você está maluco da cabeça para andar por aí pelado?}
+{16504}{Sempre anda por aí peladão, é?}
+{16505}{Oh, não! Sabe que está completamente nu, senhor?}
+{16506}{Você está bêbada demais para perceber que está sem roupa?}
+{16507}{Olha só você sem vestido!}
+
+
+
+// Greeting a PC in barbarian armor messages start at 17000. Each
+// class gets 50 messages starting on multiples of 50
+
+// noble
+{17000}{Os bárbaros invadiram os portões de novo?!}
+{17001}{Por favor, senhor! Trajes apropriados são os adereços preferidos da alta sociedade.}
+{17002}{Você está realmente precisando desesperadamente de um alfaiate decente.}
+{17003}{Hmm. Veio saquear e pilhar? Ou é o, uh, entretenimento?}
+{17004}{Meu Deus! Você acha que essa vestimenta é apropriada... em algum lugar?}
+{17005}{Não consigo me lembrar da saudação apropriada ao encontrar um bárbaro.}
+{17006}{Normalmente não me associo com bárbaros.}
+{17007}{Sim, bem. Por favor, seja rápida. Não quero que ninguém me veja com um bárbaro.}
+{17008}{Por favor, hã, senhor, pelo menos use uma capa bem grande para esconder essas, hã, roupas...}
+{17009}{Oh! Que nojo! Trapos de bárbaro!!}
+{17010}{Hmm. Talvez não seja justo esperar que estrangeiros entendam a arte refinada de se vestir.}
+{17011}{Eu declaro! Um autêntico Homem Selvagem!}
+{17012}{Por favor, senhor, o senhor não está vestido apropriadamente para ter um discurso civilizado comigo.}
+{17013}{Está perdido? Você parece o Homem Selvagem da Floresta. Sério mesmo!}
+{17014}{Que fabuloso! Deve ter um circo na cidade!}
+{17015}{Há um baile à fantasia em algum lugar por perto?}
+{17016}{Oh! Sério! Bárbaros não se misturam com a alta sociedade.}
+
+
+// priest
+{17050}{Meu irmão selvagem, apelo à sua natureza feral para usar um traje apropriado.}
+{17051}{Por favor, tal vestimenta certamente será provocativa para os cidadãos.}
+{17052}{Essa roupa não é apropriada para pessoas civilizadas, por nenhum padrão.}
+{17053}{Meu filho, veio confessar seus pecados bárbaros?}
+{17054}{Suas roupas o marcam perante a sociedade como um homem ignorante e pecador.}
+{17056}{Sinto muito, mas não estou familiarizado com as crenças das tribos bárbaras.}
+{17057}{Que horror! Você não tem outras roupas além desses trapos bárbaros?}
+{17058}{Por favor, meu filho, uma vestimenta que cubra mais de você é a modéstia preferida da sociedade civilizada.}
+{17059}{Pelos deuses! Um bárbaro!}
+
+
+
+// wizard
+{17100}{Pela Garra do Dragão! Um Chefe Berserker!}
+{17101}{Olá. Você consegue me entender? Fala uma língua civilizada?}
+{17102}{Por favor, senhor, cubra-se!}
+{17103}{Eu declaro! Uma bárbara legítima!}
+{17104}{Você tem um senso de moda terrivelmente estranho.}
+{17105}{Senhor, sua vestimenta certamente não deixa nada para a imaginação!}
+{17106}{Ha! Seu traje realmente alegrou este diazinho mais monótono.}
+{17107}{Minha amiga selvagem, a vida nesta sociedade civilizada deve ser difícil para você.}
+{17108}{Saudações, meu amigo bárbaro.}
+{17109}{Saudações, Homem Selvagem da Floresta.}
+{17110}{Que serviço posso lhe prestar, meu amigo bárbaro?}
+{17111}{Saudações, Bárbaro.}
+{17112}{Saudações, meu amigo bárbaro.}
+
+
+
+// technologist
+{17150}{Oh, como é primitivo!}
+{17151}{O que um bárbaro poderia desejar de mim?}
+{17152}{Um bárbaro!}
+{17153}{Ora, vejam só! Um bárbaro!}
+{17154}{Como ousa me abordar com trajes tão vulgares?}
+{17155}{Senhor, sua indumentária demonstra uma clara instabilidade de caráter.}
+{17156}{O que será do mundo quando um bárbaro se acha no direito de me dirigir a palavra?}
+{17157}{Essas roupas são uma afronta às pessoas sensatas e progressistas em toda parte.}
+{17158}{Senhor, suas roupas indicam um apego doentio ao que é primitivo e tolo.}
+{17159}{Não vejo nada adequado na forma como se apresenta a mim.}
+{17160}{Que serviço posso lhe prestar, meu amigo bárbaro?}
+
+
+// shopkeeper
+{17200}{Muito bonito esse saiote. Já usou um vestido alguma vez?}
+{17201}{Hmm. Sempre me perguntei onde os bárbaros carregam seu, hã, dinheiro...}
+{17202}{Oh, ora, esse é um novo visual em, hã, moda antiga, devo dizer.}
+{17203}{Oh! Há um circo na cidade? Você é O Homem Selvagem? Ou talvez O Domador de Leões?}
+{17204}{Oh, senhor! Veja só. Mil anos de moda pelo ralo abaixo.}
+{17205}{Senhor bárbaro, por favor, esteja ciente de que só aceitamos a moeda legal do reino aqui.}
+{17206}{Senhor! Por favor, vista roupas apropriadas!}
+
+// guard
+{17250}{Cuidado onde pisa, bárbaro.}
+{17251}{Pronto! Um Homem Selvagem! Só no meu turno isso acontece!}
+{17252}{Hah! Uma Bárbara!}
+{17253}{O que o traz das terras ermas, homem selvagem?}
+{17254}{O que a traz à cidade, bárbaro?}
+{17255}{O que deseja aqui, bárbaro?}
+{17256}{Este é um lugar pacífico, bárbaro. Cuide para que continue assim.}
+{17257}{Espero que não esteja planejando travessuras aqui, bárbaro.}
+{17258}{Certo! Não haverá saques, pilhagens ou devastações por aqui, bárbaro.}
+{17259}{Lembre-se de que A Lei não vê com bons olhos as travessuras dos bárbaros hoje em dia.}
+{17260}{Temos leis por aqui, bárbaro. Lembre-se disso.}
+{17261}{O que o traz à cidade, Bárbaro?}
+{17262}{O que deseja aqui, Bárbaro?}
+{17263}{Este é um lugar pacífico, Bárbaro. Cuide para que continue assim.}
+
+
+// city_dweller
+{17300}{Outro bárbaro na cidade? No que este lugar está se transformando?}
+{17301}{Um Homem Selvagem!}
+{17302}{Então o que é você? Mais um Bárbaro sangrento de romance barato?}
+{17303}{Cidadão, sugiro que mude sua vestimenta enquanto estiver nesta cidade.}
+{17304}{Que coisa mais estranha! Um homem selvagem!}
+{17305}{Que coisa mais estranha! Um homem selvagem!}
+{17306}{Oh, céus! Uma relíquia!}
+{17307}{Bom dia... oh! Uh. Devo mencionar, uh, suas roupas, senhor?}
+{17308}{Não tem dignidade, cidadã? Como pode aparecer assim em público?}
+{17309}{Pela sua vestimenta, devo dizer que é um homem sem qualquer dignidade.}
+{17310}{A cidade não é lugar para o seu tipo, bárbaro.}
+{17311}{A cidade não é lugar para você, homem selvagem.}
+
+
+// villager
+{17350}{Ora, o que a traz para fora da floresta?}
+{17351}{Sim! Um Homem Selvagem!}
+{17352}{Ora! Que história é essa de fantasia?}
+{17353}{Saudações, bárbaro.}
+{17354}{Saudações, homem selvagem.}
+{17355}{Saudações, berserker.}
+{17356}{Ora, bárbaro.}
+{17357}{Ei, homem selvagem.}
+{17358}{Talvez o senhor devesse vestir algumas roupas, cavalheiro.}
+{17359}{O senhor não tem vergonha? Como pode aparecer em público vestido assim?}
+
+
+// beggar
+{17400}{Ó grande chefe bárbaro, olhe por um pobre e miserável mendigo!}
+{17401}{Saudações, bárbaro!}
+{17402}{Nunca conheci um bárbaro antes.}
+{17403}{O que posso fazer pelo senhor, chefe bárbaro?}
+{17404}{Em que posso ajudá-lo, nobre chefe guerreiro berserker?}
+{17405}{Sempre às suas ordens, chefe bárbaro.}
+{17406}{Sempre às suas ordens, chefe berserker.}
+{17407}{Sim, senhor chefe guerreiro berserker?}
+{17408}{Às suas ordens, chefe bárbaro.}
+{17409}{Ó grande chefe bárbaro, olhe por um pobre e miserável mendigo!}
+{17410}{Às suas ordens, chefe bárbaro.}
+{17411}{Oh não! Um Bárbaro!}
+{17412}{O que posso fazer pelo senhor, Chefe Bárbaro?}
+{17413}{Por favor, não dê atenção a este humilde servo, senhor chefe guerreiro bárbaro.}
+
+
+// thief
+{17450}{Não acha que deveria vestir algo mais apropriado?}
+{17451}{Ora, ora, moça, onde é que temos vivido ultimamente? Em uma caverna?}
+{17452}{Ah, sim, você terá os guardas de olho em você, meu amigo bárbaro.}
+{17453}{Seja rápido, bárbaro. Está chamando atenção indesejada para mim.}
+{17454}{Cuidado, bárbaro! Posso não ser tão forte quanto você, mas aposto que sou bem mais rápido.}
+{17455}{Ei, você aí! Essa roupa vai dar assunto para as fofoqueiras por um mês inteiro!}
+{17456}{Ah, sim! Essa vestimenta vai manter os cabeças-duras locais em alvoroço por semanas a fio.}
+{17457}{Essa roupa estranha que você está usando é impressionante, amigo.}
+{17458}{Meus cumprimentos pelo, hã, traje noturno, meu amigo.}
+{17459}{Você tem um guarda-roupa terrivelmente estranho, amigo.}
+{17460}{Sim! Esse traje bárbaro deve ser bem desconfortável por aqui.}
+{17461}{Seja rápido, bárbaro. Está chamando atenção indesejada para mim.}
+
+// bandit
+{17500}{Sai da minha frente, garoto da lança!}
+{17501}{Har! Deixa eu adivinhar... é uma armadura mágica de rato-d'água, não é?}
+{17502}{Olá, bárbaro! O que você quer?}
+{17503}{Ei, você aí! O que um Homem Selvagem como o senhor está fazendo aqui?}
+{17504}{O que a traz das colinas?}
+{17505}{O que traz a sua espécie para fora do esconderijo?}
+{17506}{Muito bem! O que somos agora? Um homem selvagem criado por lobos?}
+{17507}{O que você quer, berserker?}
+{17508}{Olá, bárbaro!}
+{17509}{Olá, um bárbaro! O que me diz?}
+{17510}{O que posso fazer por você, bárbaro?}
+{17511}{Olá, senhor! Voltando à natureza?}
+{17512}{Olá, Bárbaro! O que posso fazer pelo senhor?}
+{17513}{Ei, você aí, Bárbaro!}
+{17514}{Ei, um Bárbaro! O que tem a dizer?}
+{17515}{O que posso fazer pelo senhor, Bárbaro?}
+{17516}{O que deseja, Bárbaro?}
+
+
+
+
+// Fear of associates messages start at 18000. Each class gets 50
+// messages starting on multiples of 50
+
+// noble
+{18000}{Céus! O que é aquilo com você?}
+{18001}{Não, não, não! Seu, uh, companheiro bruto não é bem-vindo aqui.}
+{18002}{Não permitirei isso! Livre-se daquela... besta intolerável... imediatamente!}
+{18003}{Céus! Como ousa colocar todos nós em perigo trazendo aquela coisa terrível aqui?}
+{18004}{Senhor! Sou um homem respeitável! Não me associarei a... essa coisa depravada!}
+{18005}{Meu Deus! Não tem juízo? Como ousa trazer aquela coisa nojenta aqui?}
+{18006}{O que há com o senhor? O que o levou a se associar com... aquilo?}
+{18007}{Não, cavalheiro! Não me associarei ao senhor enquanto aquela coisa assustadora estiver com o senhor.}
+{18008}{Cavalheiro! Seu, hum, companheiro bestial definitivamente não é permitido por aqui.}
+{18009}{Tire essa coisa horrível daqui! O que pensa que este lugar é?}
+{18010}{O senhor não tem decência? Livre-se dessa... coisa.}
+{18011}{O senhor perdeu o juízo? Livre-se dessa... seja lá o que for.}
+{18012}{Ficou louca? Tire aquela... coisa selvagem... daqui!}
+{18013}{Perdeu a cabeça? Afaste aquela... monstruosidade bárbara... daqui!}
+{18014}{Sério! Isso é muito provocante! Remova seu companheiro bruto e grotesco imediatamente!}
+{18015}{Ora! Deve estar louca para trazer aquela monstruosidade aqui!}
+{18016}{Alguém chame a Lei! O que poderia levá-la a trazer aquela coisa bestial aqui?}
+{18017}{O que deu em você, senhor? Essa, hã, coisa não é para companhia decente.}
+{18018}{O senhor não tem noção? O que o possuiu para trazer esse brutamontes horrível aqui?}
+{18019}{Esse é um comportamento extremamente extraordinário! Tirem essa monstruosidade incivilizada daqui.}
+
+// priest
+{18050}{Blasfemo! Tire esse seu seguidor da minha vista!}
+{18051}{Meu filho, arrependa-se e abandone esse companheiro vil.} 
+{18052}{Esse seu seguidor obsceno não é uma coisa sagrada.}
+{18053}{Isso é inaudito! Como pode se associar com essas bestas imundas?}
+{18054}{Oh, sério! Se você se associa com companheiros tão degenerados...}
+{18055}{Irmão! Tire esse seu sócio repugnante da minha frente.}
+{18056}{Consorciar-se com criaturas repugnantes é uma coisa. Mas exibir isso! Isso é outra completamente diferente.} 
+{18057}{Irmão! Como pode trazer esse sujeito desagradável aqui?}
+{18058}{Ah, meu filho! Nada de bom virá de se associar com a laia dessas feras.}
+{18059}{Ouça-me! Não é apropriado se associar com uma ameaça como essa!}
+{18060}{Meu Deus! O que é aquilo seguindo você?}
+{18061}{Meu Deus! O que é aquela coisa horrível seguindo você?}
+{18062}{Meu Deus! O que é aquela besta perversa seguindo você?}
+{18063}{Deuses! Cuidado com aquela coisa maligna atrás de você!}
+{18064}{Aceite meu conselho, irmão, e não dê as costas para essa besta pecaminosa.}
+{18065}{Meu Deus! Tome cuidado, meu filho. Nada de bom virá dessa besta demoníaca.}
+{18066}{Cuidado! Você está pisando perto da blasfêmia com seguidores como esse!}
+{18067}{Oh, meu Deus! Por favor. Afaste essa besta perigosa.}
+{18068}{Oh, céus! Por favor. Tire essa ameaça incontrolável de perto de mim.}
+{18069}{Oh, céus! Por favor. A-aquela besta! P-por favor, tire-a daqui.}
+
+// wizard
+{18100}{Bons, hum, amigos com quem viaja.}
+{18101}{Hmm. É difícil manter seu, hum, amigo na linha?}
+{18102}{Hmm, olá. Sim, bem. Onde encontrou, hum, seu amigo?}
+{18103}{Hmm, olá. Sim, bem. Seu amigo, hum, comeu recentemente?}
+{18104}{Hmm, olá. Sim, bem. Companheiros de viagem muito incomuns, devo dizer.}
+{18105}{Hmm, olá. Sim, bem. Tem certeza de que seu, hum, escolta, hum, não é perigoso?}
+{18106}{Oh, meu Deus! Como vai? E seu, hum, amigo está bem também, espero?}
+{18107}{Oh, meu Deus! Sim. Bom vê-la... seu, hum, servo, hum, está sob controle?}
+{18108}{Meu Deus! Onde encontra seguidores tão excêntricos?}
+{18109}{Ora, vejam só! Onde você arruma companheiros tão bizarros?}
+{18110}{Inacreditável! Onde você arruma seguidores tão excêntricos?}
+{18111}{Ei! Onde você arruma companheiros tão peculiares?}
+{18112}{Nunca vi coisa igual! Onde você arruma seguidores tão incomuns?}
+{18113}{Inacreditável! Onde você arruma companheiros tão, hã, rústicos?}
+{18114}{Mas como diabos você domou essa coisa?}
+{18115}{Mas como você controla essa fera?}
+{18116}{Ora, essa é boa! Onde foi que você encontrou isso? Seu companheiro, digo.}
+{18117}{Ora! Seguidores bem incomuns você atrai, amigo.}
+{18118}{Meu Deus! Eles deixam você andar por aí com, hã, essa coisa a tiracolo?}
+
+// technologist
+{18150}{Que diabos...? O que é essa coisa selvagem com você?}
+{18151}{Que diabos...? O que é essa atrocidade feia com você?}
+{18152}{Que diabos...? O que é essa abominação vil com você?}
+{18153}{Que diabos...? O que é esse brutamontes esquisito com você?}
+{18154}{Que diabos...? O que é essa coisa obscena com você?}
+{18155}{Que diabos...? O que é esse horror fedorento com você?}
+{18156}{Que diabos...? O que é essa coisa terrível com você?}
+{18157}{Que diabos...? O que é esse monstro miserável com você?}
+{18158}{Que diabos...? O que é essa ameaça horrível com você?}
+{18159}{Que diabos...? O que é essa barbárie asquerosa com você?}
+{18160}{Que diabos...? O que é esse demônio repulsivo com você?}
+{18161}{Que diabos...? O que é esse demônio repugnante com você?}
+{18162}{Isso é inaceitável! Remova essa fera perigosa imediatamente!}
+{18163}{Isso é insuportável! Remova esse terror horrível imediatamente!}
+{18164}{Isso é bizarro! Tire seu companheiro obsceno daqui!}
+{18165}{Você deve ter perdido a cabeça! Tire essa coisa incivilizada de perto de mim!}
+{18166}{Você deve ter perdido o juízo! Tire essa criatura de mau gosto daqui!}
+{18167}{Você deve ter perdido o tino! Tire essa fera bárbara daqui!}
+{18168}{Como ousa me atormentar com esse brutamontes perigoso?}
+{18169}{Como ousa me perseguir com essa fera selvagem?}
+{18170}{Como ousa trazer esse bruto obsceno para perto de mim?}
+{18171}{Como ousa trazer esse bruto bizarro para perto de mim?}
+{18172}{Como ousa trazer esse horror incivilizado para perto de mim?}
+
+// shopkeeper
+{18200}{Por favor, senhor! Tire essa besta depravada da minha loja.}
+{18201}{Por favor, senhor! Tire essa coisa feia da minha loja.}
+{18202}{Por favor, senhor! Tire esse brutamontes horrível da minha loja.}
+{18203}{Por favor, senhor! Faça seu companheiro sinistro ir embora!}
+{18204}{Por favor, senhor! Seu brutamontes está assustando os clientes... e a mim!}
+{18205}{Por favor, senhor! Essa monstruosidade vai trazer a Lei aqui, rapidinho!}
+{18206}{Por favor, senhor! Remova seu brutamontes da minha loja!}
+{18207}{Por favor, senhor! Remova seu companheiro esquisito da minha loja!}
+{18208}{Por favor, senhor! Remova esse brutamontes obsceno da minha loja!}
+{18209}{Por favor, senhor! Remova esse horror vil da minha loja!}
+{18210}{Não, senhor! Não! Não atenderei essa... coisa desumana.}
+{18211}{Não, senhor! Recuso-me a atender essa... ameaça perigosa.}
+{18212}{Não, senhor! Não posso atender esse... brutamontes selvagem.}
+{18213}{Oh! Ora, vejam só! Seu, uh, amigo selvagem não pertence a este lugar.}
+{18214}{Oh! Ora, vejam só! Seu, uh, companheiro bizarro não pertence a este lugar.}
+{18215}{Oh! Ora, senhor! Seu, hã, seguidor horrendo não pertence a este lugar.}
+{18216}{P-por favor, senhor! E-essa c-coisa é muito intimidadora!}
+{18217}{P-por favor, senhor! E-essa c-coisa é m-muito perturbadora!}
+{18218}{Hã, senhor. Não creio que este seja o lugar apropriado para seu, hã, companheiro excêntrico.}
+{18219}{Hã, senhor. Acho difícil imaginar que seu, hã, seguidor grosseiro pertença a este lugar.}
+
+// guard
+{18250}{Tire essa coisa horrível daqui!}
+{18251}{Ponha uma coleira nesse bruto ameaçador. Agora!}
+{18252}{Se esse bruto perigoso causar qualquer problema, vou procurar por VOCÊ!}
+{18253}{Não, não! Não quero esse seu "amigo" por perto do meu distrito.}
+{18254}{Você E essa sua coisa continuem andando e não parem em lugar nenhum perto daqui.}
+{18255}{Tire esse risco ambulante deste bairro... AGORA.}
+{18256}{Se você controla essa coisa desumana, tire-a daqui agora.}
+{18257}{Pare! Tire essa coisa perigosa daqui! Agora!}
+{18258}{Você e seu "companheiro" terão que ir embora. Não posso deixar que coloquem os cidadãos em perigo.}
+{18259}{Ah, claro! Você não vai a lugar nenhum com essa coisa selvagem te seguindo!}
+{18260}{Saiam daqui! Tirem essa coisa bárbara daqui!}
+{18261}{O quê? Você está louco? Tire essa coisa maluca daqui!}
+{18262}{Agitador! Tire essa coisa perigosa daqui!}
+{18263}{Você deve estar maluco! Leve esse bruto desumano de volta para onde pertence.}
+{18264}{Senhor! O senhor e seu, hã, amigo precisam deixar a área imediatamente.}
+{18265}{Senhor! O senhor e seu, hã, seguidor precisam sair da área imediatamente.}
+{18266}{Senhor! O senhor e seu, hã, companheiro precisam deixar a área imediatamente.}
+{18267}{Senhor! O senhor e seu, hã, serviçal precisam abandonar a área imediatamente.}
+{18268}{Senhor! O senhor e sua, hã, escolta precisam sair da área imediatamente.}
+
+// city_dweller
+{18300}{O que é aquilo com você? Aiii!}
+{18301}{V-v-v-vão embora! T-t-tirem essa coisa r-repugnante de perto de mim!}
+{18302}{V-vão embora! T-t-tirem essa coisa aterrorizante de perto de mim!}
+{18303}{V-vão embora! T-tirem essa coisa nojenta de perto de mim!}
+{18304}{Tem algo horrível atrás de você!}
+{18305}{Tem algo terrível atrás de você!}
+{18306}{Algo perigoso está andando atrás de você!}
+{18307}{Alguma COISA está andando atrás de você!}
+{18308}{Cuidado com essa coisa atrás de você!}
+{18309}{Sério! Não consigo me controlar com essa coisa sua por perto.}
+{18310}{Ah, claro! Deixam qualquer coisa andar pelas ruas hoje em dia!}
+{18311}{Ah, claro! Deixam qualquer coisa vagar pelas ruas hoje em dia!}
+{18312}{Ah, claro! Deixam qualquer coisa perambular pelas ruas hoje em dia!}
+{18313}{Ah, claro! Deixam qualquer coisa vagar pela cidade hoje em dia!}
+{18314}{Ah, claro! Deixam qualquer coisa entrar na cidade hoje em dia!}
+{18315}{Ah, claro! Deixam qualquer coisa perambular pela cidade hoje em dia!}
+{18316}{Tem uma, uma COISA atrás de você!}
+
+
+// villager
+{18350}{Cuidado atrás de você!}
+{18351}{Corra! Cuidado atrás de você!}
+{18352}{Há um monstro atrás de você!}
+{18353}{Cuidado! Olhe atrás de você!}
+{18354}{Cuidado! Olhe atrás de você!}
+{18355}{Há algo horrível te seguindo!}
+{18356}{Há algo terrível atrás de você!}
+{18357}{Há algo medonho ao seu lado!}
+{18358}{O que é aquilo atrás de você?}
+{18359}{O que é aquilo atrás de você?}
+{18360}{O que é aquilo atrás de você?}
+{18361}{O que é aquela criatura abominável atrás de você?}
+{18362}{O que é aquele brutamontes assustador te seguindo?}
+{18363}{O que é aquele monstro medonho ao seu lado?}
+{18364}{Toquem o alarme! Monstros!}
+{18365}{Olhe! Atrás de você! O que é aquilo?}
+{18366}{Atrás de você! Por que aquilo te segue?}
+{18367}{Não acho que essa bruta será bem-vinda aqui.}
+{18368}{Hã. Seu, hã, amigo parece bem pouco amigável.}
+
+
+// beggar
+{18400}{Estou vendo monstros!}
+{18401}{Monstros! Aieee!}
+{18402}{Fuja para salvar sua vida! Monstros!}
+{18403}{Um monstro! Saiam do meu caminho! Aiee!}
+{18404}{Socorro! Monstros! Socorro!}
+{18405}{Oh, glória! Um monstro!}
+{18406}{Afaste-se devagar. Há uma fera horrível atrás de você!}
+{18407}{Um monstro! Esqueça as moedas. Não há tempo para esperá-las.} 
+{18408}{M-m-monstro!}
+{18409}{O que é a-aquela fera!}
+{18410}{Oh, não! Aquela criatura parece perigosa!}
+{18411}{Oh! Por que me afligir com aquela criatura horrível?}
+{18412}{Por favor. Eu não fiz nada! Não mande seu terrível servo atrás de mim.}
+{18413}{Por favor. Eu não fiz nada! Não mande seu horrível escravo atrás de mim.}
+{18414}{Por favor. Eu não fiz nada! Não mande seu guarda-costas profano atrás de mim.}
+{18415}{Por favor. Eu não fiz nada! Não mande sua fera viciosa atrás de mim.}
+{18416}{Por favor. Eu não fiz nada! Não mande seu horrível companheiro atrás de mim.}
+{18417}{O que é aquela b-besta?}
+{18418}{O que é aq-aquela besta?}
+{18419}{O-o que é aquela besta?}
+
+// thief
+{18450}{Tire aquela coisa horrível de perto de mim!}
+{18451}{Não, não! Não vou permitir que esse seu "amigo" fique no meu território.}
+{18452}{Se você controla aquela coisa horrível, tire-a daqui agora.}
+{18453}{O quê? Você está louco, amigo? Tire essa coisa incontrolável daqui!}
+{18454}{Tire esse bruto bárbaro daqui!}
+{18455}{Você deve estar louco! Não pode domar esse bruto desumano.}
+{18456}{Você deve ter perdido o juízo! Não pode domar esse bruto bestial.}
+{18457}{Onde está sua sanidade, senhor? Não pode domar aquela criatura nojenta.}
+{18458}{Esse é o companheiro de viagem mais repulsivo que já vi.}
+{18459}{Não. Deixe-me adivinhar. Aquele monstro obsceno é seu, hã, escudeiro?}
+{18460}{Tire essa coisa fedorenta de perto de mim. Está atraindo atenção indesejada para cá.}
+{18461}{Por que precisa chamar atenção para mim trazendo seus seguidores pervertidos?}
+{18462}{Ah, claro! Como se eu já não tivesse problemas suficientes, preciso lidar com seus companheiros assustadores.}
+{18463}{O quê? Por que emprega uma ameaça tão brutal?}
+{18464}{O quê? Por que emprega um monstro tão miserável?}
+{18465}{O quê? Por que emprega um terror tão problemático?}
+{18466}{O quê? Por que emprega um companheiro tão perturbador?}
+{18467}{Ah, por favor! Tire essa coisa de perto de mim.}
+{18468}{Não vou ter nada a ver com essa criatura viciosa sua.}
+{18469}{Tire esse bruto pestilento, doente e feio de perto de mim!}
+
+// bandit
+{18500}{Vou matar essa coisa se ela chegar mais perto.}
+{18501}{Acredite em mim! Vou matar aquela fera se ela chegar mais perto.}
+{18502}{Pare! Vou matar aquele brutamontes se ele chegar perto de mim.}
+{18503}{Não gosto dessas criaturas. Vou matá-la se chegar perto de mim.}
+{18504}{Mantenha essa criatura imunda longe de mim, ou vou matá-la.}
+{18505}{Mantenha essa ameaça longe de mim, ou vou cortá-la em pedaços.}
+{18506}{Mantenha esse brutamontes fedorento longe de mim, ou vou meter uma bala nele.}
+{18507}{Se quer falar comigo, livre-se dessa monstruosidade fedorenta que te segue.}
+{18508}{Não vou falar com você enquanto essa sua desgraça miserável estiver por perto.}
+{18509}{Vá embora. E leve seu brutamontes imundo e fedorento com você.}
+{18510}{Se não quer que nada de ruim aconteça ao seu brutamontes, mantenha-o longe de mim.}
+{18511}{Por que está tentando me intimidar com sua criatura nojenta?}
+{18512}{Mantenha suas criaturas nojentas longe de mim.}
+{18513}{Mantenha seus amigos bestiais longe de mim.}
+{18514}{Mantenha seus seguidores imundos longe de mim.}
+{18515}{Sangue de Deus! Essas criaturas imundas são perigosas.}
+{18516}{Sangue de Deus! Mantenha seus animais nojentos longe de mim.}
+{18517}{Sangue de Deus! Mantenha esses brutamontes perigosos longe daqui.}
+{18518}{O fedor do seu bicho é horrível! Leve-o para longe.}
+{18519}{Pelos deuses, irmão! Sua besta fede horrivelmente! Não aguento isso.}
+
+
+// Body spell messages start at 19000. Each class gets 50
+// messages starting on multiples of 50
+
+// noble
+{19000}{O que é você?!}
+{19001}{Não! Saia daqui! Que diabos é você?}
+{19002}{Oh, céus! O que é você?}
+{19003}{Meu Deus! O que é você?}
+{19004}{Puxa vida! O que é você?}
+{19005}{O que diabos você é, em nome dos deuses?}
+{19006}{Não! Um monstro! Fique longe de mim!}
+{19007}{Oh, não! Meu Deus! Minha deusa! Um monstro!}
+{19008}{Isso é inacreditável! Um demônio! Corram!}
+{19009}{Não acredito! Um demônio! Socorro!}
+{19010}{Isso não é possível! Um demônio! Salvem-se!}
+{19011}{Oh meu! Que coisa mais estranha! Um demônio! Acho que vou desmaiar!}
+{19012}{M-monstro! Oh, por que eu saí da cama hoje de manhã?}
+{19013}{Um monstro? Não! Não. Não é possível, eu digo! Totalmente inadequado!}
+{19014}{Um monstro! Oh, que série de desventuras me trouxe a este fim horrível?}
+
+// priest
+{19050}{O que diabos você é, em nome dos deuses?}
+{19051}{O que em tudo que é sagrado você é?}
+{19052}{Um demônio! Deusa, me proteja! Corra!}
+{19053}{Deusa, me proteja! Um demônio!}
+{19054}{Um demônio! Deusa, me proteja!}
+{19055}{Não! Vá embora! Demônio elemental!}
+{19056}{Vá embora! Demônio elemental! Disperse-se!}
+{19057}{Desapareça, criatura imunda do vazio elemental!}
+{19058}{Socorro! Um demônio elemental está sobre mim!}
+{19059}{Um demônio do vazio! Corra!}
+{19060}{Deusa, tenha misericórdia! Proteja-me deste monstro!}
+{19061}{Deusa, tenha misericórdia! Proteja-me deste demônio!}
+
+
+// wizard
+{19100}{Imagino que esse feitiço dê muito trabalho para manter.}
+{19101}{Hmm. É difícil manter sua, hã, aparência?}
+{19102}{Você é um elemental conjurado? Não. Eu vejo o que você é.}
+{19103}{O quê? Oh! Meu Deus. Estamos nos divertindo assustando os locais?}
+{19104}{Ahh! Uma excelente farsa, velho amigo. Mas desnecessária por minha conta.}
+{19105}{Hmm. Uma excelente farsa, de fato. Mas totalmente desnecessária por minha conta.}
+{19106}{Parabenizo você. Uma ótima execução do feitiço de corpo elemental que você tem aí.}
+{19107}{Parabéns. Você tem um excelente domínio do feitiço de corpo elemental.}
+{19108}{Hmm. Sim. Bem. Já vi feitiços de corpo elemental melhores em meu tempo.}
+{19109}{Hmm. Sim. De fato. Eu mesmo já lancei feitiços de corpo elemental melhores.}
+{19110}{Hmm, sim. Acho que você poderia praticar mais esse feitiço de corpo elemental.}
+{19111}{Hmm, sim. Uma execução competente de um feitiço de corpo elemental, eu diria.}
+{19112}{Hmm, sim. Uma interpretação adequada do feitiço de corpo elemental, senhor.}
+{19113}{Hmm. Um feitiço de corpo elemental apenas adequado, amigo. Um pouco tosco nas bordas.}
+{19114}{Oh, sim! Uma interpretação fantástica do feitiço de corpo elemental, eu diria. De fato!}
+
+// technologist
+{19150}{Mantenha sua magia suja longe de mim!}
+{19151}{Mantenha sua magia longe de mim! E fique longe!}
+{19152}{Tire sua magia de perto de mim! Rápido!}
+{19153}{Tire sua magia de perto de mim! Agora!}
+{19154}{Anarquista! Tire sua magia nojenta de perto de mim!}
+{19155}{Anarquista! Mantenha sua magia nojenta longe de mim!}
+{19156}{Patife! Tire sua magia de perto de mim!}
+{19157}{Libertino! Tire sua magia de perto de mim!}
+{19158}{Iconoclasta! Tire sua magia de perto de mim!}
+{19159}{Transgressor! Tire sua magia de perto de mim!}
+{19160}{Recidivista! Tire sua magia de perto de mim!}
+{19161}{Recidivista! Mantenha sua magia longe de mim!}
+{19162}{Vândalo! Tire sua magia de perto de mim!}
+{19163}{Vândalo! Mantenha sua magia longe de mim!}
+{19164}{Tolo! Leve sua magia embora, ou vai se arrepender!}
+
+
+// shopkeeper
+{19200}{Não! O que eu fiz para ser afligido por monstros?}
+{19201}{Não! O que eu fiz para ser afligido por demônios?}
+{19202}{Não! Não! Por favor, me deixe em paz, monstro!}
+{19203}{Não! Não! Por favor, me deixe em paz, demônio!}
+{19204}{Fique longe de mim, besta elemental!}
+{19205}{Fique longe de mim, demônio elemental!}
+{19206}{Fique longe de mim, monstro elemental!}
+{19207}{Fique longe de mim, seu demônio elemental!}
+{19208}{Fique longe de mim, seu aberração elemental!}
+{19209}{Fique longe de mim, sua monstruosidade elemental!}
+{19210}{Aiiiiii! Um monstro!}
+{19211}{Aiiiiii! Um monstro!}
+{19212}{Aiiiiii! Um demônio!}
+{19213}{Aiiiiii! Um demônio!}
+{19214}{Socorro! Um monstro!}
+{19215}{Um monstro! Socorro!}
+{19216}{Socorro! Um demônio!}
+{19217}{Um demônio! Socorro!}
+
+
+// guard
+{19250}{Afastem-se, monstro!}
+{19251}{Alguém precisa acorrentar você!}
+{19252}{Não, não! Não vou tolerar monstros na minha ronda.}
+{19253}{Saia deste bairro, monstro! AGORA!}
+{19254}{Saia! Saia daqui agora, seu demônio!}
+{19255}{Pare! Saia daqui, criatura maligna! Agora!}
+{19256}{Você precisa ir embora agora, demônio. Não posso permitir que coloque os cidadãos em perigo.}
+{19257}{Fora! Saia daqui imediatamente, monstro elemental!}
+{19258}{O quê? Saia daqui! Você não pertence a este lugar, monstro!}
+{19259}{Vá embora, criatura elemental maligna! Vá embora!}
+
+
+
+// city_dweller
+{19300}{Socorro! Um monstro!}
+{19301}{Socorro! Um monstro!}
+{19302}{Socorro! Um Horror!}
+{19303}{Socorro! Monstros!}
+{19304}{Socorro! Monstros!}
+{19305}{Socorro! Uma monstruosidade!}
+{19306}{Socorro! Uma monstruosidade!}
+{19307}{Socorro! Uma criatura maligna!}
+{19308}{Socorro! Uma criatura maligna!}
+{19309}{Socorro! Um demônio!}
+{19310}{Socorro! Um demônio!}
+{19311}{Fujam por suas vidas! Um monstro!}
+{19312}{Fujam por suas vidas! Demônios!}
+{19313}{Fujam por suas vidas! Um demônio!}
+{19314}{Fujam por suas vidas! Monstros!}
+{19315}{V-vá embora! A-ande logo daqui, seu m-monstro!}
+{19316}{V-vai embora! A-afasta de mim, seu d-demônio!}
+{19317}{V-vai embora! A-afasta de mim, seu horror!}
+
+
+// villager
+{19350}{Demônio!}
+{19351}{Demônio! Corre!}
+{19352}{Demônio! Socorro!}
+{19353}{Horrores do inferno! Corre!}
+{19354}{Horrores do vazio! Corre!}
+{19355}{Horrores do Além! Corre!}
+{19356}{Corre! Corre! Tem monstros por perto!}
+{19357}{Corre! Tem monstros por perto! Corre!}
+{19358}{Tem monstros por perto! Corre! Corre!}
+{19359}{Demônios estígios! Socorro!}
+{19360}{Meu Deus! Uma invasão demoníaca!}
+{19361}{Um demônio infernal! Socorro!}
+{19362}{Um demônio! Por que eu? Não eu! Socorro!}
+{19363}{Aaaaaaaaaaaah!}
+
+
+// beggar
+{19400}{Aiiiiiiii!}
+{19401}{Aiiiiiiii!}
+{19402}{Aiiiiiiii!}
+{19403}{Aiiiiiiii!}
+{19404}{Aiiiiiiii!}
+{19405}{Nãooo! Fica longe de mim!}
+{19406}{Nãooo! Sai de perto de mim!}
+{19407}{Nãooo! Não chega perto de mim!}
+{19408}{Corre! Um monstro!}
+{19409}{Corre! Um demônio!}
+{19410}{Corre! Aii!}
+{19411}{Corre! Socorro!}
+{19412}{Aaaagh! Não! Monstro!}
+{19413}{Socorro! Demônios do inferno!}
+{19414}{Não! Eu não! Eu não!}
+{19415}{Socorro! Fique longe! Corra! Monstro!}
+{19416}{Ugh! Um monstro!}
+{19417}{Agh! Alguém me salve desse monstro!}
+{19418}{Oh, Mãe da Misericórdia! Um monstro!}
+{19419}{Mãe da Misericórdia! Salve-me desse monstro!}
+
+// thief
+{19450}{Afaste-se, monstruosidade elemental!}
+{19451}{Afaste-se, bruto elemental! Eu sei me defender!}
+{19452}{Você está tão ansioso para sentir a mão da morte, monstro?}
+{19453}{Você está tão ansioso para encontrar seu destino, demônio?}
+{19454}{Você está tão ansioso para sentir o toque da morte, monstro?}
+{19455}{Acho que alguém precisa te acorrentar!}
+{19456}{Se você começar qualquer encrenca comigo, monstro, eu vou te matar.}
+{19457}{Escute, v-você. Eu tenho m-muitos a-amigos, está ouvindo? Então, você não me assusta.}
+{19458}{Saia daqui, demônio! Deixe-me em paz!}
+{19459}{Vá embora agora, demônio! Deixe-me em paz!}
+{19460}{Saia daqui imediatamente, monstro elemental!}
+{19461}{O que você é? Você não pertence a este lugar, monstro!}
+{19462}{Para trás! Para trás! Socorro! Um elemental!}
+
+
+// bandit
+{19500}{Você quer provar do meu aço, criatura das trevas?}
+{19501}{Está querendo provar do meu aço, demônio do vazio?}
+{19502}{Fique longe ou vai se arrepender do dia em que foi criado, monstro!}
+{19503}{Não arranje encrenca comigo, demônio, ou vai se arrepender!}
+{19504}{Arranje encrenca comigo, demônio, e vai se arrepender deste dia!}
+{19505}{Comece qualquer encrenca, demônio, e eu vou garantir que se arrependa!}
+{19506}{Comece qualquer encrenca, monstro, e eu vou te machucar! Sim, vou mesmo!}
+{19507}{Não arranje encrenca comigo, bruto dos elementos! Ou então sinta minha ira!}
+{19508}{Ha! Monstros maiores que você já caíram diante de mim! Cuidado!}
+
+
+
+// Polymorph messages start at 20000. Each class gets 50
+// messages starting on multiples of 50
+
+// noble
+{20000}{Que tolo deixou essa ovelha entrar aqui?}
+{20001}{Hmm. Devemos ter cordeiro assado hoje à noite. Onde está aquele cozinheiro?}
+{20002}{O que uma ovelha está fazendo aqui? Meu Deus!}
+{20003}{É mesmo! Isto aqui é um celeiro? Alguém tire essa ovelha daqui!}
+{20004}{Sério! Uma ovelha! Humpf!}
+{20005}{Uma ovelha? Para onde esta sociedade está indo? Não há mais respeito.}
+{20006}{Hmm. Alguém chame o açougueiro e diga para levar essa ovelha embora.}
+{20007}{Vai, vai, vai! Vá embora, ovelha, vá embora!}
+{20008}{Ora, francamente! De quem é essa ovelha?}
+{20009}{O quê? Eu pareço um pastor?}
+{20010}{Qual é o problema? Perdeu seu rebanho?}
+
+// priest
+{20050}{Isto aqui não é um pasto!}
+{20051}{Ah, sim! Cordeiro assado hoje à noite!}
+{20052}{O quê? Não, eu só estou metaforicamente falando como um pastor, sabe.}
+{20053}{Alguém perdeu essa ovelha?}
+{20054}{Uma ovelha. Hmm. Jantar, talvez?}
+{20055}{Uma ovelha bonita e gorda! Você vai dar um bom jantar.}
+{20056}{Hmm. Vá embora, não tenho tempo para ovelhas.}
+{20057}{Bééé pra você também!}
+{20058}{Olha aqui! Quem é o dono dessa ovelha?}
+{20059}{Vá encontrar seu pastor, ovelhinha.}
+{20060}{Quem deixou essa ovelha entrar aqui?}
+
+// wizard
+{20100}{Hmm? Procurando um Dispersar Magia, é?}
+{20101}{Ah, sim, de fato! Cordeiro assado hoje à noite!}
+{20102}{O quê? Não, estou ocupado demais para brincar com ovelhas.}
+{20103}{Perdeu sua forma verdadeira, foi? Isso vai te ensinar a ter cuidado.}
+{20104}{Vá embora. Encontre quem fez isso com você e pare de me incomodar.}
+{20105}{Hmm. Vá embora, não tenho tempo para dispersar sua forma atual.}
+{20106}{Bééé pra você também! Se divertindo nessa forma?}
+{20107}{Se acostume a ser uma ovelha -- você vai ficar assim por um tempo.}
+{20108}{Ha! Cuidado com os pastores!}
+{20109}{Vá encontrar um pasto bonito até passar o efeito e me deixe em paz.}
+
+// technologist
+{20150}{Quem está deixando os animais da fazenda soltos por aí?}
+{20151}{Ah, sim! Cordeiro assado hoje à noite!}
+{20152}{O quê? Animal imundo! Saia daqui!}
+{20153}{Alguém perdeu uma ovelha?}
+{20154}{Uma ovelha. Hmm. Jantar? Sim.}
+{20155}{Uma ovelha bonita e gordinha! Um jantar muito bom, de fato.}
+{20156}{Bale você mesmo! Vá embora, não tenho tempo para ovelhas.}
+{20157}{Béé, béé. Ovelhinha fofa. Vá embora antes que eu mande o cozinheiro atrás de você.}
+{20158}{Olha aqui! Quem é o dono desta ovelha?}
+{20159}{Vá procurar um pastor. Saia daqui!}
+{20160}{O quê? Eu pareço um pastor?}
+{20161}{Quem perdeu esta ovelha idiota?}
+{20162}{Isto aqui definitivamente não é um pasto!}
+
+// shopkeeper
+{20200}{Caramba, quem deixou uma ovelha entrar aqui?}
+{20201}{Hmm. Vamos ter cordeiro assado hoje à noite. Sim, de fato.}
+{20202}{O que uma ovelha está fazendo aqui?}
+{20203}{O quê? Isto aqui é um celeiro? Alguém tire esta ovelha daqui!}
+{20204}{Sério! Uma ovelha! Quem perdeu este animal?}
+{20205}{Uma ovelha? Não, não aceito ovelhas, só moedas.}
+{20206}{Alguém chame o açougueiro e diga para levar esta ovelha embora.}
+{20207}{Saia daqui, animal imundo!}
+
+
+// guard
+{20250}{Malditos fazendeiros deixando suas ovelhas soltas.}
+{20251}{Ah, sim! Cordeiro assado hoje à noite!}
+{20252}{O quê? Ovelha idiota! Saia daqui!}
+{20253}{Alguém perdeu uma ovelha?}
+{20254}{Uma ovelha. Hmm. Me lembra que estou com fome, sim.}
+{20255}{Uma ovelha bonita e gordinha! Um jantar muito bom, de fato.}
+{20256}{Bale você mesmo! Vá embora, não tenho tempo para ovelhas.}
+{20257}{Vá embora antes que eu mande o açougueiro atrás de você.}
+{20258}{Quem é o dono desta ovelha?}
+{20259}{Isso definitivamente não é um pasto gratuito!}
+
+// city_dweller
+{20300}{Por que uma ovelha estaria andando por aí solta?}
+{20301}{Saia daqui, animal imundo.}
+{20302}{O que uma ovelha está fazendo aqui?}
+{20303}{O quê? Alguém tire essa ovelha daqui!}
+{20304}{Sério! Quem perdeu este animal?}
+{20305}{Animal estúpido.}
+{20306}{Alguém chame o açougueiro e avise sobre essa ovelha.}
+{20307}{Vá embora, ovelha suja, suma daqui!}
+{20308}{Alguém é dono deste animal?}
+
+
+// villager
+{20350}{Ops, alguém vai ficar bravo quando perceber que você está solto.}
+{20351}{Se não for embora, vou fazer um ensopado de carneiro com você.}
+{20352}{Você é uma ovelha de boa aparência. Quem será seu dono?}
+{20353}{Uma ovelha de ótima aparência, eu digo. Não me importaria de ser seu dono.}
+{20354}{Hmm? Onde estará seu pastor?}
+{20355}{Vá! Seu pastor deve estar por aqui em algum lugar.}
+{20356}{Some daqui, ovelha sarnenta.}
+
+// beggar
+{20400}{O quê? Ovelha?}
+{20401}{Ah, sim! Ensopado de carneiro!}
+{20402}{Ensopado de carneiro hoje à noite, pessoal!}
+{20403}{Oh, meu! Já estou sentindo o cheiro de cordeiro assado!}
+{20404}{Venha aqui, ovelha gorda e bonita! Hora da panela!}
+{20405}{Não me tente, ovelha. Estou com fome o suficiente para te comer crua!}
+{20406}{Oh, meu Deus! Será possível? Carneiro dos céus?}
+{20407}{Oh, uma ovelha! Onde está minha panela?}
+{20408}{Ensopado de carneiro! Ensopado de carneiro! Ensopado de carneiro hoje à noite!}
+
+
+// thief
+{20450}{O que é isso, um celeiro?}
+{20451}{Ah, sim! Acho que vou comer cordeiro assado hoje à noite!}
+{20452}{O quê? Ovelha estúpida! Saia de perto de mim!}
+{20453}{Alguém perdeu uma ovelha?}
+{20454}{Uma ovelha. Hmm. Me lembra que estou com fome, sim.}
+{20455}{Uma ovelha bonita e gordinha! Um ótimo jantar para mim, com certeza.}
+{20456}{Bale você mesmo! Vá embora, não tenho tempo para ovelhas chatas.}
+{20457}{Vá! Antes que eu mande o açougueiro atrás de você.}
+{20458}{Quem é o dono desta ovelha perdida?}
+{20459}{Vá procurar um pastor. Saia daqui!}
+{20460}{O quê? Eu pareço um pastor?}
+{20461}{Quem perdeu esta ovelha?}
+{20462}{Malditos fazendeiros deixando suas ovelhas soltas.}
+{20463}{Quem deixou os animais da fazenda soltos?}
+{20464}{Isto aqui não é pasto de fazenda!}
+
+// bandit
+{20500}{Hmm, faz tempo que não como costeletas de cordeiro.}
+{20501}{Ah, sim! Ensopado de carneiro, com certeza!}
+{20502}{Ensopado de carneiro hoje à noite, pessoal!}
+{20503}{Oh, que delícia! Já estou sentindo o cheiro do cordeiro assado!}
+{20504}{Venha aqui, sua ovelha magricela! Hora de ir para a panela!}
+{20505}{Saia daqui, ovelha!}
+{20506}{Meu Deus! Carneiro de graça?}
+{20507}{Uma ovelha! Onde está minha panela?}
+{20508}{Ensopado de carneiro! Ensopado de carneiro! Ensopado de carneiro hoje à noite!}
+{20509}{Aqui meu estômago roncando, ovelha? É melhor você ir embora rápido.}
+{20510}{Ensopado de carneiro, eu digo!}
+
+
+
+// Mirror image messages start at 21000. Each class gets 50
+// messages starting on multiples of 50
+
+// noble
+{21000}{NÃO UTILIZADO}
+
+// priest
+{21050}{NÃO USADO.}
+
+
+// wizard
+{21100}{NÃO USADO.}
+
+
+// technologist
+{21150}{NÃO UTILIZADO}
+
+// shopkeeper
+{21200}{NÃO UTILIZADO}
+
+
+// guard
+{21250}{NÃO UTILIZADO}
+
+// city_dweller
+{21300}{NÃO UTILIZADO}
+
+
+// villager
+{21350}{NÃO UTILIZADO}
+
+// beggar
+{21400}{NÃO UTILIZADO}
+
+
+// thief
+{21450}{NÃO UTILIZADO}
+
+
+// bandit
+{21500}{NÃO UTILIZADO}
+
+
+
+// Invisibility messages start at 22000. Each class gets 50
+// messages starting on multiples of 50
+// noble
+{22000}{Deusa acima! Um fantasma dos meus ancestrais!}
+{22001}{Ohhh, meu Deus! Eu... devo estar imaginando vozes... ohhh!}
+{22002}{Hã... será que eu ouvi... alguma coisa?}
+{22003}{Oh-oh. F-f-fantasmas. Acho que é hora de ir embora. Ah, sim!}
+{22004}{O quê? Quem falou? Onde você está?}
+{22005}{Sim, bem... hã... o quê? Quem? Onde? Oh, céus!}
+{22006}{Como vai? Oh! Onde você está? Alguém falou?}
+{22007}{Alô? Sim? Tem alguém aí?}
+{22008}{Sim? Quem disse isso?}
+{22009}{Oh, que azar, de fato. Ou estou ouvindo coisas, ou este lugar é assombrado.}
+{22010}{Sim? Hã. Senhor!? Onde está?}
+{22011}{Oh, por favor, espírito. Deixe-me em paz!}
+{22012}{Oh meu Deus, oh meu Deus, oh meu Deus! Eu declaro. Uma assombração está por perto.}
+{22013}{Oh! Sombras e espectros!}
+{22014}{Meu Deus! Um poltergeist!}
+{22015}{Aparições ou loucura! Prefiro aparições... acho.}
+{22016}{Vozes desencarnadas?! Oh, céus.}
+{22017}{Sombras de fantasmas e espectros!}
+{22018}{Uh-oh. Uma assombração está em curso!}
+{22019}{Oh meu! Um duende está sobre mim.}
+{22020}{Oh meu! Um espírito maligno está sobre mim.}
+{22021}{Alô, o quê? Tem alguém aqui?}
+{22022}{Alô, sim? Tem alguém aqui?}
+{22023}{Alô, alô? Tem alguém aqui?}
+
+// priest
+{22050}{Espírito do além, eu te exorcizo!}
+{22051}{Vai-te, fantasma imundo!}
+{22052}{Deixe-me em paz, duende perverso!}
+{22053}{Demônios e diabretes estão por perto!}
+{22054}{Espíritos inquietos, vão-se daqui!}
+{22055}{Espírito mais perverso, volte para os reinos de onde veio.}
+{22056}{Demônio desencarnado! Não há nada para você aqui. Vá!}
+{22057}{Saia daqui, demônio invisível!}
+{22058}{Vá embora, fantasma. Deixe os vivos em paz.}
+{22059}{Vozes e aparições! Deve ser um fenômeno profano!}
+{22060}{Demônio invisível! Em nome dos deuses, ordeno que partas!}
+{22061}{O quê? Alguém falou?}
+{22062}{Sim? Alguém falou?}
+{22063}{O que é? Tem alguém aí?}
+{22064}{Sim, o que é? Tem alguém aí?}
+{22065}{O quê? Tem alguém aí?}
+
+// wizard
+{22100}{Sim, invisibilidade pode ser divertida.}
+{22101}{É o cúmulo da grosseria conversar enquanto invisível, sabia?}
+{22102}{Ah, um brincalhão invisível.}
+{22103}{Ah, estamos invisíveis, é?}
+{22104}{Hã? Ah. Um delinquente invisível, sem dúvida.}
+{22105}{Ah, hmm. Uh, entendi. Praticando invisibilidade, é?}
+{22106}{Sim? Hmm. Vamos lá. Desfaça esse feitiço de invisibilidade para conversarmos direito.}
+{22107}{Oh! Você me assustou! Por favor, fique visível da próxima vez que me cumprimentar.}
+{22108}{O que é? Ouvi você tropeçando por aí. Invisibilidade não é silenciosa por natureza, sabia?}
+{22109}{Sim, sim, sim. O que é, meu invisível, uh, amigo?}
+{22110}{Sério agora. Devo ficar impressionado? Deixe-me vê-lo.}
+{22111}{Sim? Uh. Invisível? Ah. O que você quer?}
+{22112}{Hmm? Sim. Quem é você, ó invisível?}
+
+
+// technologist
+{22150}{Hã? Alguém disse algo?}
+{22151}{O quê? O quê? Tem alguém aí?}
+{22152}{Hã? Alguém disse algo?}
+{22153}{O quê? Ah. Tenho trabalhado demais - agora estou ouvindo vozes.}
+{22154}{Sim, já estou indo. Ah, hmm. Devo estar imaginando vozes agora.}
+{22155}{Olá. Hum. Olá? Bem. Hora de descansar. Estou ouvindo vozes agora.}
+{22156}{Hã? Não. Não acredito em fantasmas. Vá embora. Você está me incomodando.}
+{22157}{Sim? Ah. Hmm. Ninguém aqui. Hmm. Ah, bem.}
+{22158}{Hmm? O que foi isso? Hmm. Ninguém aqui. Ah, bem. De volta ao trabalho.}
+{22159}{Eh? . . . O quê? . . . Hmm. . . . <resmungar, resmungar>}
+{22160}{Eh, o quê? Quem? Ah. Estou ouvindo coisas de novo.}
+{22161}{O quê? O quê? Tem alguém aí?}
+{22162}{O quê? O quê? Tem alguém aí?}
+
+
+// shopkeeper
+{22200}{Ack! Minha loja está assombrada!}
+{22201}{Céus! Um fantasma! Um demônio! Um monstro!}
+{22202}{Uau! O quê? Quem? Onde?}
+{22203}{Estamos assombrados!}
+{22204}{Devo estar ouvindo coisas!}
+{22205}{U-um... um fantasma!}
+{22206}{Eep! Ah, essas vozes na minha cabeça ainda vão me matar!}
+{22207}{Estou perdendo a cabeça. Ouço vozes, mas não há ninguém aqui.}
+{22208}{Qu-quem disse isso?}
+{22209}{Sim? Ouvi alguém?}
+{22210}{Sim? Tem alguém aí?}
+
+// guard
+{22250}{Onde você está? Não consigo te ver!}
+{22251}{Hã? Apareça onde eu possa te ver.}
+{22252}{O quê? Apareça aqui no aberto.}
+{22253}{Quem? Onde você está?}
+{22254}{Onde? Quem é você?}
+{22255}{Quem está falando comigo?}
+{22256}{Sim? Quem? Onde você está?}
+{22257}{Quem disse isso? Apareça se quiser falar comigo.}
+{22258}{O quê? Quem está se escondendo aqui?}
+{22259}{Hmm. Apareça agora. Não é correto se esconder da Lei.}
+{22260}{Onde? Quem? O quê?}
+{22261}{O quê? Quem? Onde?}
+{22262}{Quem? Onde? O quê?}
+{22263}{Onde? O quê? Quem?}
+{22264}{O quê? Onde? Quem?}
+{22265}{Quem? O quê? Onde?}
+{22266}{Eh? Hã? O quê? Onde?}
+{22267}{Hã? O quê? Quem? Onde?}
+{22268}{Quem está aí?}
+{22269}{Quem está se espreitando por aqui?}
+
+
+// city_dweller
+{22300}{Hã? Tem alguém aí?}
+{22301}{Quem é você?}
+{22302}{Quem está por aí?}
+{22303}{Quem está por aí?}
+{22304}{Quem me quer?}
+{22305}{Quem me chama?}
+{22306}{Quem falou?}
+{22307}{Quem está falando?}
+{22308}{Quem disse isso?}
+{22309}{Onde você está?}
+{22310}{Onde você está se escondendo?}
+{22311}{Por que me incomodar com truques de ventríloquo?}
+{22312}{Por que está se escondendo?}
+{22313}{Hã?}
+{22314}{Quem disse isso?}
+
+
+// villager
+{22350}{Quem me quer?}
+{22351}{O que você é? Um espectro?}
+{22352}{Quem? Tem um fantasma por aqui?}
+{22353}{Oh! O quê? Deve ser um duende por perto, eu digo!}
+{22354}{É? Hmm, deve ser um fantasma por estas bandas, eu acho.}
+{22355}{Vozes eu realmente ouço! Sem dúvida que há espíritos por perto.}
+{22356}{O quê?}
+{22357}{Quem está aí? Vamos, mostre-se!}
+{22358}{Sim? Tem alguém aí?}
+{22359}{Quem disse isso?}
+{22360}{Um fantasma!}
+
+// beggar
+{22400}{Não brinque com um pobre mendigo. Mostre-se.}
+{22401}{Por que atormentar um pobre mendigo com brincadeiras? Mostre-se.}
+{22402}{O quê? Quem? Me deixe em paz! Vá embora, espectro!}
+{22403}{De onde está vindo essa voz?}
+{22404}{Oh! Preciso tirar essas vozes da minha cabeça!}
+{22405}{Achei que tinha ouvido algo, juro.}
+{22406}{O quê... espera. Juro que ouvi alguém... <resmungar, resmungar>}
+{22407}{O quê? Juro que ouvi alguém... <resmungar, resmungar>}
+{22408}{É? Vozes de novo? Fora daqui.}
+{22409}{Ei, onde você está? Deixe-me ver você.}
+{22410}{O quê? Tem alguém aí?}
+{22411}{O quê? Tem alguém aí?}
+{22412}{O quê? Tem alguém aí?}
+{22413}{Hã? O quê? Quem está aí?}
+{22414}{Hã? O quê? Quem está aí?}
+{22415}{Hã? Fale mais alto, não consigo te ver!}
+
+
+// thief
+{22450}{Ei, quem me tocou?}
+{22451}{Fique longe, seja lá quem... ou o que você for!}
+{22452}{Uau! Saia daqui! Vozes sem corpo dão azar, eu acho.}
+{22453}{Com licença! Quem? O quê... onde?}
+{22454}{Sim? Quem? Ah. Acho que é hora de descansar.}
+{22455}{Sim? Hmm. Muito bom se escondendo nas sombras, acho? Ou... hmmm.}
+{22456}{Bom dia... uh, hmm. Devo estar ficando maluco! Não tem ninguém aí!}
+{22457}{Ei! Tem alguém aí? Humpf!}
+{22458}{Hum... hmm. Eles disseram que eu começaria a ouvir vozes, disseram mesmo.}
+{22459}{Caramba! Um fantasma!}
+{22460}{O quê? Quem? Ah, isso é bom. Agora estou ouvindo vozes, é?}
+{22461}{Quem disse isso?}
+{22462}{O quê? Quem disse isso?}
+{22463}{O quê? Apareça se quiser falar comigo.}
+{22464}{O quê? Quem? Saia do esconderijo se quiser falar.}
+{22465}{Ah, tá! E agora, o que está acontecendo? Vozes sem corpo! O que vem depois, hein?}
+{22466}{Hã? Ei! Quem disse isso?}
+{22467}{Hã? Quem disse isso?}
+{22468}{Saia do esconderijo.}
+{22469}{O que foi? Onde você está?}
+{22470}{O que foi, agora? Onde você está?}
+{22471}{O quê? Tem alguém aí?}
+
+
+// bandit
+{22500}{Saia e mostre-se, vagabundo!}
+{22501}{O qu...? Eu sei que ouvi alguma coisa...}
+{22502}{Ora, me derrube, mas ouvi vozes saindo do nada, ouvi sim.}
+{22503}{Hmm? Ah, preciso parar de beber tanto. Estou ouvindo vozes agora.}
+{22504}{'Ei, o quê? Uma voz vinda do nada? <resmungar>}
+{22505}{'Ei. Me pague uma bebida ou me deixe em paz. Vozes, vozes e mais vozes... mas nenhum corpo!}
+{22506}{'Ei, o quê? Tem alguém aí? <resmungar>}
+{22507}{Hã? Fale mais alto, não consigo te ver.}
+{22508}{O quê? Tem alguém aí?}
+{22509}{Hã? O que você disse? Ah. Não tem ninguém por perto, <resmungar>.}
+{22510}{Hã? Não consigo ver ninguém.}
+{22511}{Hã? Acabei de ouvir alguma coisa?}
+{22512}{'Ei, o quê? Eu sei que ouvi alguém...}
+{22513}{O que foi? Onde você está? Quem disse isso?}
+{22514}{Ah, é! Agora estou ouvindo vozes!}
+{22515}{Caramba! Eu sei que ouvi alguém...}
+{22516}{Cruz credo! Eu sei que ouvi alguém...}
+{22517}{Hã, o quê?}
+{22518}{Hã, o quê?}
+{22519}{Onde você está? Vamos, mostre-se!}
+
+
+

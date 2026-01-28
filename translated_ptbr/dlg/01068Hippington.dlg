@@ -1,0 +1,245 @@
+{1}{G: 1 23, 2 43, 3 43, 5 43, 6 43}{G: 1 23, 2 43, 3 43, 5 43, 6 43}{}{}{}{ }
+{2}{W:}{}{1}{me 0, re 41}{63}{ }
+{3}{Ouvi dizer que você é a pessoa com quem devo falar sobre o Gigante de Stillwater.}{}{5}{qa1043 1, re 41, lf1 0, me 0}{103}{lf1 1 }
+{4}{Decidi caçar o Gigante de Stillwater.}{}{5}{re 41 qa1043 1, me 1, lf1 1, lf3 0, ni 5610, lf5 0}{143}{lf3 1 }
+{5}{Como posso me aproximar o suficiente do gigante para prendê-lo?}{}{5}{lf6 1, lf4 0, re 41}{243}{ }
+{6}{Onde posso encontrar o covil do Gigante de Stillwater?}{}{5}{lf4 1, lf5 0, re 41}{263}{ }
+{7}{Ainda não localizei o Gigante.}{}{5}{re 41, lf5 1, ni 5610}{266}{ }
+{8}{O que você pode me contar sobre o Gigante de Stillwater?}{}{5}{re 41, lf1 0, qa1043 1, me 1}{93}{lf1 1 }
+{9}{Capturei o Gigante, senhor! [Mostre-lhe o gigante preso.]}{}{5}{in 5610, lf8 0, re 41}{268}{ }
+{10}{Levei o... gigante ao meu associado, que disse ser um coelho.}{}{5}{re 41, gf1053 1, gf1054 0}{286}{ }
+{11}{Vi a pele do Gigante de Stillwater em um museu em Tarant.}{}{5}{gf1048 1, lf1 1, re 41, lf11 0}{153}{lf11 1 }
+{12}{O Dr. Fenwick disse que era um coelho e que o gigante em si é uma farsa.}{}{5}{re 41, gf1054 1, lf9 0}{301}{lf9 1 }
+{13}{Com licença, estava se dirigindo a mim?}{}{5}{re -40, ch 15}{313}{re50 }
+{14}{Por favor, senhor, só gostaria de lhe fazer algumas perguntas, se me permitir.}{}{5}{re -40, ch -14}{326}{re41 }
+{15}{O que o senhor teve a audácia de me dizer?}{}{5}{re -40}{346}{re -10 }
+{16}{Matei o coelho azul, mas ele não se transformou no gigante.}{}{5}{gf2352 1, lf1 1}{415}{re-10 }
+{17}{Eu achar gigante?}{}{-4}{qa1043 1, lf3 0}{359}{ }
+{18}{Eu achei o gigante!}{}{-4}{in 5610}{365}{ }
+{19}{Elfo dizer que é coelho.}{}{-4}{gf1053 1,gf1054 0}{367}{ }
+{20}{Cara inteligente doutor dizer que é falso.}{}{-4}{gf1054 1}{301}{ }
+{21}{Eu matar coelho!}{}{-4}{gf2352 1, lf1 1}{415}{re-10 }
+{22}{E:}{}{1}{}{0}{ }
+{23}{Muito interessante. Seria um incômodo se eu examinasse sua obra um pouco mais de perto? Tenho tão poucas oportunidades de estudar criaturas do reino mágico, entende.}{Muito interessante. Seria um incômodo se eu examinasse sua obra um pouco mais de perto? Tenho tão poucas oportunidades de estudar criaturas do reino mágico, entende.}{}{}{}{ }
+{24}{De modo algum. Posso saber quem é o senhor?}{}{5}{me 0}{63}{ }
+{25}{De modo algum. Ouvi dizer que o senhor é a pessoa com quem devo falar sobre o Gigante de Stillwater.}{}{5}{qa1043 1, lf1 0, me 0}{103}{ }
+{26}{De modo algum. Estou aqui porque decidi caçar o Gigante.}{}{5}{qa1043 1, me 1, lf1 1, lf3 0, ni 5610}{143}{lf3 1 }
+{27}{De modo algum. Ainda não localizei o Gigante.}{}{5}{ lf5 1, ni 5610}{266}{ }
+{28}{De modo algum. O que pode me contar sobre o Gigante de Stillwater?}{}{5}{ lf1 0, qa1043 1, me 1}{93}{lf1 1 }
+{29}{Capturei o Gigante, senhor! [Mostre-lhe o gigante preso.]}{}{5}{in 5610, lf8 0}{268}{ }
+{30}{Levei o "gigante" ao meu associado. Ele disse que é apenas um coelho.}{}{5}{ gf1053 1, gf1054 0}{286}{ }
+{31}{Vi a pele do Gigante de Stillwater em um museu em Tarant.}{}{5}{gf1048 1, lf1 1, lf11 0}{153}{lf11 1 }
+{32}{O Dr. Fenwick disse que era um coelho e que o gigante em si é uma farsa.}{}{5}{gf1054 1, lf9 0}{301}{lf9 1 }
+{33}{Como posso me aproximar o suficiente do gigante para prendê-lo?}{}{5}{lf6 1, lf4 0}{243}{ }
+{34}{Onde posso encontrar o covil do Gigante de Stillwater?}{}{5}{lf4 1, lf5 0}{263}{ }
+{42}{E:}{}{5}{}{0}{ }
+{43}{Bravo, senhor! É tão raro encontrar um mago disposto a exibir suas mercadorias, por assim dizer.}{Bravo, senhora! É tão raro encontrar uma maga disposta a exibir suas mercadorias, por assim dizer.}{}{}{}{ }
+{44}{Posso perguntar quem é você?}{}{5}{me 0}{63}{ }
+{45}{Ouvi dizer que você é o homem certo para falar sobre o Gigante de Stillwater.}{}{5}{qa1043 1, lf1 0, me 0}{103}{ }
+{46}{Decidi caçar o Gigante de Stillwater.}{}{5}{qa1043 1, me 1, lf1 1, lf3 0, ni 5610}{143}{lf3 1 }
+{47}{Ainda não localizei o Gigante.}{}{5}{lf5 1, ni 5610}{266}{ }
+{48}{O que pode me contar sobre o Gigante de Stillwater?}{}{5}{ lf1 0, qa1043 1, me 1}{93}{lf1 1 }
+{49}{Capturei o Gigante, senhor! [Mostre a ele o gigante preso.]}{}{5}{in 5610, lf8 0}{268}{ }
+{50}{Levei o... gigante ao meu associado, que disse ser um coelho.}{}{5}{ gf1053 1, gf1054 0}{286}{ }
+{51}{Vi a pele do Gigante de Stillwater em um museu em Tarant.}{}{5}{gf1048 1, lf1 1, lf11 0}{153}{lf11 1 }
+{52}{O Dr. Fenwick disse que era um coelho, e que o próprio gigante é uma farsa.}{}{5}{gf1054 1, lf9 0}{301}{lf9 1 }
+{53}{Como posso me aproximar o suficiente do gigante para prendê-lo?}{}{5}{lf6 1, lf4 0}{243}{ }
+{54}{Onde posso encontrar o covil do Gigante de Stillwater?}{}{5}{lf4 1, lf5 0}{263}{ }
+{62}{E:}{}{5}{}{0}{ }
+{63}{Stanley Xavier Hippington, renomado criptozoólogo, às suas ordens.}{Stanley Xavier Hippington, renomado criptozoólogo, às suas ordens.}{}{}{}{ }
+{64}{Criptozoólogo? O que é isso?}{}{5}{}{73}{ }
+{65}{Criptozoólogo? Alguém que estuda bestas imaginárias?}{}{15}{}{83}{ }
+{66}{Ouvi dizer que você é o homem certo para falar sobre o Gigante de Stillwater.}{}{5}{qa1043 1}{103}{ }
+{67}{Criptozo o quê igista?}{}{-4}{}{351}{ }
+{71}{guby.}{}{-4}{}{0}{ }
+{72}{E:}{}{5}{}{0}{ }
+{73}{Um criptozoólogo é alguém que estuda criaturas tão esquivas que não podem ser capturadas ou mesmo ter sua existência verificada. No meu caso, por acaso sou um especialista em Gigantopithecus Arcanus, mais comumente conhecido como o Gigante de Stillwater.}{Um criptozoólogo é alguém que estuda criaturas tão esquivas que não podem ser capturadas ou mesmo ter sua existência verificada. No meu caso, por acaso sou um especialista em Gigantopithecus Arcanus, mais comumente conhecido como o Gigante de Stillwater.}{}{}{}{ }
+{74}{Tão esquivo? O Gigante de Stillwater não é uma farsa?}{}{10}{}{83}{ }
+{75}{O Gigante de Stillwater?}{}{5}{lf1 0}{93}{lf1 1 }
+{77}{Vi a pele do Gigante de Stillwater em um museu em Tarant.}{}{5}{gf1048 1, lf11 0}{153}{lf11 1 }
+{81}{Achei que fosse alguém burro demais para ser um zoólogo de verdade.}{}{8}{ch10}{83}{re -5 }
+{82}{É um prazer conhecê-lo, mas preciso seguir meu caminho.}{}{5}{}{0}{ }
+{83}{A maioria das pessoas não compreende a diligência e paciência necessárias para estudar criaturas desse tipo. Elas não entendem os longos anos que leva para reunir evidências autênticas e verificáveis. Mas, como pode ver ao seu redor, tenho uma coleção e tanto de evidências.}{A maioria das pessoas não consegue compreender a diligência e a paciência necessárias para estudar criaturas desse tipo. Elas não entendem os longos anos que leva para reunir evidências autênticas e verificáveis. Mas, como você pode ver ao seu redor, eu tenho uma coleção e tanto de evidências.}{}{}{}{ }
+{84}{Que evidências?}{}{5}{}{123}{ }
+{85}{Preciso capturar o Gigante de Stillwater.}{}{5}{qa1043 1}{133}{ }
+{86}{O que você pode me contar sobre ele?}{}{5}{}{93}{ }
+{92}{E:}{}{5}{}{0}{ }
+{93}{O Gigante de Stillwater, Gigantopithecus Arcanus, é uma espécie extremamente primitiva de gigante, considerada extinta há mais de 25.000 anos. Era um ramo bastante peculiar do gênero Gigantopithecus.}{O Gigante de Stillwater, Gigantopithecus Arcanus, é uma espécie extremamente primitiva de gigante, considerada extinta há mais de 25.000 anos. Era um ramo bastante peculiar do gênero Gigantopithecus.}{}{}{}{lf1 1 }
+{94}{Peculiar? De que maneira?}{}{5}{}{113}{ }
+{96}{Ouvi dizer que há debate sobre se eles sequer existiram.}{}{13}{}{163}{ }
+{97}{Eu vi o pelo do Gigante de Stillwater em um museu em Tarant.}{}{5}{gf1048 1}{153}{ }
+{103}{Isso está correto. Sou a maior autoridade no Gigante de Stillwater. Dediquei minha vida a rastrear essa criatura.}{Isso está correto. Sou a maior autoridade no Gigante de Stillwater. Dediquei minha vida a rastrear essa criatura.}{}{}{}{ }
+{104}{O que ele é, na verdade?}{}{5}{}{93}{ }
+{112}{E:}{}{5}{}{0}{ }
+{113}{Bem, além do fato de ser extremamente peludo para um gigante, ele tinha grandes chifres. Mas o aspecto mais fascinante do Gigantopithecus Arcanus era sua habilidade de se transformar.}{Bem, além do fato de ser extremamente peludo para um gigante, ele tinha grandes chifres. Mas o aspecto mais fascinante do Gigantopithecus Arcanus era sua habilidade de se transformar.}{}{}{}{lf2 1 }
+{114}{Preciso capturá-lo.}{}{5}{qa 1043 1}{143}{ }
+{115}{Peludo? O que isso significa?}{}{5}{lf12 0}{378}{lf12 1 }
+{122}{Obrigado pelas informações. Preciso ir agora.}{}{5}{}{0}{ }
+{123}{Eu reuni uma quantidade considerável de amostras de pelo, fezes e moldes completos e parciais de pegadas. Sem mencionar meus inúmeros arquivos de pessoas que realmente viram a criatura com seus próprios olhos!}{Eu reuni uma quantidade considerável de amostras de pelo, fezes e moldes completos e parciais de pegadas. Sem mencionar meus inúmeros arquivos de pessoas que realmente viram a criatura com seus próprios olhos!}{}{}{}{ }
+{124}{O que você pode me contar sobre ele?}{}{5}{}{93}{ }
+{133}{Capturá-lo? Você sabe alguma coisa sobre ele?}{Capturá-lo? Você sabe alguma coisa sobre ele?}{}{}{}{ }
+{134}{Na verdade, não. O que você pode me contar sobre ele?}{}{5}{}{93}{ }
+{135}{Não é uma espécie primitiva de gigante? O que mais há para saber?}{}{12}{}{113}{ }
+{136}{Tudo o que preciso saber é como capturá-lo.}{}{5}{lf2 1}{143}{ }
+{143}{Bem, é uma sorte para nós dois que você tenha me procurado. A maioria das pessoas acha que capturar o Gigante de Stillwater seria impossível, mas eu elaborei um método. Eu o rastreie até seu covil e estava procurando um caçador de grandes presas para colocar meu plano em prática.}{Bem, é uma sorte para nós dois que você tenha me procurado. A maioria das pessoas acha que capturar o Gigante de Stillwater seria impossível, mas eu elaborei um método. Eu o rastreie até seu covil e estava procurando um caçador de grandes presas para colocar meu plano em prática.}{}{}{}{ }
+{144}{Por que a necessidade de um caçador de grandes presas? Você não poderia fazer isso sozinho?}{}{5}{}{173}{ }
+{145}{Diga-me o que preciso fazer.}{}{5}{}{193}{ }
+{153}{Sim, eu também vi isso. Muito engraçado, na verdade. É obviamente falso, costurado com peles velhas e mofadas de urso e alguns chifres falsos colados na cabeça para completar.}{Sim, eu também já vi isso. Bem divertido, na verdade. É obviamente fraudulento, costurado com peles velhas e roídas de urso, com alguns chifres falsos colados na cabeça para completar.}{}{}{}{ }
+{154}{Eu suspeitava disso. O que pode me dizer sobre o verdadeiro Gigante?}{}{5}{lf1 0, lf2 0}{93}{ }
+{155}{Entendo. O que há de tão único no Gigante de Stillwater?}{}{5}{lf1 1, lf2 0}{113}{ }
+{156}{Decidi caçar o verdadeiro Gigante de Stillwater.}{}{5}{lf2 1}{143}{ }
+{162}{Interessante. Bem, preciso me retirar.}{}{5}{}{0}{ }
+{163}{Alguns dos meus colegas mais desinformados ainda podem defender essa posição, mas aqueles na vanguarda deste campo do conhecimento não têm dúvidas de que o Gigantopithecus Arcanus é uma espécie autêntica. O debate agora é se ainda existem alguns vivos.}{Alguns dos meus colegas mais desinformados ainda podem defender essa posição, mas aqueles na vanguarda deste campo do conhecimento não têm dúvidas de que o Gigantopithecus Arcanus é uma espécie autêntica. O debate agora é se ainda existem alguns vivos.}{}{}{}{ }
+{164}{O que o torna tão único em relação às outras espécies de gigantes?}{}{5}{}{113}{ }
+{173}{Eu gostaria de ter as qualidades necessárias para capturar a criatura, mas sou apenas um cientista. O Gigante é um animal perigoso, e apenas os caçadores mais durões e experientes teriam alguma chance contra seu ataque assustador.}{Eu gostaria de ter as qualidades necessárias para capturar a criatura, mas sou apenas um cientista. O Gigante é um animal perigoso, e apenas os caçadores mais durões e experientes teriam alguma chance contra seu ataque assustador.}{}{}{}{ }
+{174}{Receio que isso me exclua. Não podemos arranjar outra pessoa para fazer isso?}{}{5}{}{183}{ }
+{175}{Diga-me o que preciso fazer para capturá-lo.}{}{5}{}{193}{ }
+{176}{Parece emocionante, mas preciso partir. Tenha um bom dia.}{}{5}{}{0}{ }
+{183}{Estou procurando pela pessoa certa para assumir essa tarefa há algum tempo, mas sem sucesso.}{Estou procurando pela pessoa certa para assumir essa tarefa há algum tempo, mas sem sucesso.}{}{}{}{ }
+{184}{Bem, acho que isso não me deixa escolha. Eu vou fazer isso.}{}{5}{}{193}{ }
+{185}{Desejo-lhe sorte em sua busca. Tenha um bom dia.}{}{5}{}{0}{ }
+{193}{Excelente! Construí uma armadilha especial aqui, em algum lugar... Ah! Aqui está! Use isso para prender o gigante. [Ele lhe entrega uma pequena armadilha.]}{Excelente! Construí uma armadilha especial aqui, em algum lugar... Ah! Aqui está! Use isso para prender o gigante. [Ele lhe entrega uma pequena armadilha.]}{}{}{}{in -5609, lf6 1 }
+{194}{Essa armadilha é ridiculamente pequena. Como posso pegar um gigante com isso?}{}{5}{}{203}{ }
+{203}{Aí está a beleza do plano. Aproveitamos as habilidades únicas de mudança de forma do gigante. É necessário uma quantidade enorme de comida para alimentar uma criatura de tamanho tão colossal, então ele muda para um tamanho relativamente pequeno para conservar energia sempre que está seguro em sua toca.}{Aí está a beleza do plano. Aproveitamos as habilidades únicas de mudança de forma do gigante. É necessário uma quantidade enorme de comida para alimentar uma criatura de tamanho tão colossal, então ele muda para um tamanho relativamente pequeno para conservar energia sempre que está em sua toca.}{}{}{}{ }
+{204}{Então eu só preciso me aproximar sorrateiramente e usar essa armadilha nele? Parece fácil.}{}{5}{}{213}{ }
+{205}{Como vou saber que é a criatura se ela estiver em seu estado pequeno?}{}{5}{lf7 0}{223}{ }
+{213}{Será fácil, desde que a criatura não perceba sua presença. É por isso que um caçador experiente é necessário para essa tarefa. Pois se ela sentir seu cheiro, ouvir você ou até mesmo pressentir sua presença, mudará imediatamente para seu tamanho completo e atacará ferozmente.}{Será fácil, desde que a criatura não perceba sua presença. É por isso que um caçador experiente é necessário para essa tarefa. Pois se ela sentir seu cheiro, ouvir você ou até mesmo pressentir sua presença, mudará imediatamente para seu tamanho completo e atacará ferozmente.}{}{}{}{ }
+{214}{Como vou conseguir me aproximar o suficiente para prendê-lo, então?}{}{5}{lf4 0}{243}{ }
+{215}{Como vou saber que é a criatura se ela estiver em seu estado pequeno?}{}{5}{lf7 0}{223}{ }
+{222}{Isso tudo é tão avassalador. Preciso pensar mais a respeito. Tenha um bom dia.}{}{5}{}{0}{ }
+{223}{Ele tem uma forte semelhança com um coelho, veja só! Sua única característica distintiva para diferenciá-lo de um coelho comum é que ele é azul.}{Isso tem uma forte semelhança com um coelho, veja só! Sua única característica distintiva para diferenciá-lo de um coelho comum é que ele é azul.}{}{}{}{lf7 1, gf1091 1 }
+{224}{Um coelho? Você deve estar brincando! Isso é uma piada, certo?}{}{5}{}{233}{ }
+{225}{Como posso me aproximar o suficiente para capturá-lo sem assustá-lo?}{}{5}{lf4 0}{243}{ }
+{226}{O que o impedirá de voltar ao seu tamanho completo depois de capturado?}{}{5}{lf4 0}{271}{ }
+{227}{Eu já o matei, mas ele não se transformou no gigante.}{}{5}{gf2352 1}{415}{ }
+{232}{Tudo isso é muito avassalador. Preciso refletir mais sobre o assunto. Tenha um bom dia.}{}{5}{}{0}{ }
+{233}{Não é piada, e você não deveria tratar isso como tal. Além da conservação de energia, seu estado pequeno também é usado para atrair presas desavisadas, já que o gigante não é o mais rápido dos seres em sua forma grande. Então, se você o assustar, sugiro que corra, pois é provável que consiga fugir dele.}{Não é piada, e você não deveria tratar isso como tal. Além da conservação de energia, seu estado pequeno também é usado para atrair presas desavisadas, já que o gigante não é o mais rápido dos seres em sua forma grande. Então, se você o assustar, sugiro que corra, pois é provável que consiga fugir dele.}{}{}{}{ }
+{234}{Como posso me aproximar o suficiente para capturá-lo sem assustá-lo?}{}{5}{lf4 0}{243}{ }
+{235}{Onde eu vou para encontrá-lo?}{}{5}{lf4 1}{263}{ }
+{236}{O que o impedirá de voltar ao seu tamanho completo depois de capturado?}{}{5}{lf4 0}{271}{ }
+{243}{Aqui está um aroma que você pode usar para mascarar seu cheiro. Sugiro que tire qualquer armadura que esteja usando e aplique isso antes de se aproximar. Você será mais silencioso sem armadura, e, se assustá-lo, há uma pequena chance de que ele não o veja como uma ameaça.}{Aqui está um aroma que você pode usar para mascarar seu cheiro. Sugiro que tire qualquer armadura que esteja usando e aplique isso antes de se aproximar. Você será mais silencioso sem armadura, e, se assustá-lo, há uma pequena chance de que ele não o veja como uma ameaça.}{}{}{}{in -3610, lf4 1, ru2028 }
+{244}{Onde eu vou para encontrá-lo?}{}{5}{lf7 1}{263}{ }
+{245}{Não vou me despir para enfrentar esse monstro sem armadura.}{}{5}{}{253}{ }
+{246}{Como vou saber que é a criatura se ela estiver em seu estado pequeno?}{}{5}{lf7 0}{223}{ }
+{253}{Então você provavelmente morrerá. Se pretende enfrentar o gigante cara a cara, elogio sua coragem, embora não possa dizer o mesmo sobre sua inteligência.}{Então você provavelmente morrerá. Se pretende enfrentar o gigante cara a cara, elogio sua coragem, embora não possa dizer o mesmo sobre sua inteligência.}{}{}{}{ }
+{254}{Onde eu vou para encontrá-lo?}{}{5}{}{263}{ }
+{255}{Isso parece suicídio. Vou ter que recusar. Tenha um bom dia.}{}{5}{}{0}{ }
+{263}{Ahhh, essa é a parte fácil da sua tarefa. Construí esta casa o mais perto possível do covil dele, sem me arriscar demais. Basta seguir o caminho atrás da casa até que ele termine na entrada de uma caverna. O gigante reside em algum lugar nas profundezas do labirinto de túneis.}{Ahhh, essa é a parte fácil da sua tarefa. Construí esta casa o mais perto possível do covil dele, sem me arriscar demais. Basta seguir o caminho atrás da casa até que ele termine na entrada de uma caverna. O gigante reside em algum lugar nas profundezas do labirinto de túneis.}{}{}{}{lf5 1 }
+{264}{A:}{}{5}{}{0}{ }
+{266}{Isso não é surpreendente. Alguns passaram a vida inteira procurando por ele.}{Isso não é surpreendente. Alguns passaram a vida inteira procurando por ele.}{}{}{}{ }
+{267}{E:}{}{5}{}{0}{ }
+{268}{Sim, sim, entendo. [Ele examina o gigante.] Excelente. Agora, precisamos de autenticação.}{Sim, sim, entendo. [Ele examina o gigante.] Excelente. Agora, precisamos de autenticação.}{}{}{}{ }
+{269}{Autenticação? Achei que você tinha dito que era isso.}{}{5}{}{276}{ }
+{271}{Há um leve campo mágico dentro da armadilha que retardará a capacidade da criatura de se transformar.}{Há um leve campo mágico dentro da armadilha que retardará a capacidade da criatura de se transformar.}{}{}{}{ }
+{272}{Como posso me aproximar o suficiente para capturá-lo sem assustá-lo?}{}{5}{}{243}{ }
+{276}{É isso. Precisamos apenas da autenticação do establishment científico de Tarant para legitimá-lo. Não teríamos nem esperança de publicar nossas descobertas sem o apoio deles. Leve isso ao Dr. Tristan Fenwick da Sociedade Zoológica de Tarant, ele é um gênio. Tenho certeza de que ele nos ajudará.}{É isso. Precisamos apenas da autenticação do establishment científico de Tarant para legitimá-lo. Não teríamos nem esperança de publicar nossas descobertas sem o apoio deles. Leve isso ao Dr. Tristan Fenwick da Sociedade Zoológica de Tarant, ele é um gênio. Tenho certeza de que ele nos ajudará.}{}{}{}{lf8 1, gf2125 1, ru2029 }
+{277}{Não me importo com publicações, quero ver essa coisa se transformar!}{}{5}{}{281}{ }
+{278}{Vou ver o Dr. Fenwick, então.}{}{5}{}{0}{ }
+{281}{Você está louco? Aquela coisa nos despedaçaria membro por membro assim que a soltássemos! Leve-a ao Dr. Fenwick, ele encontrará um habitat adequado onde possamos observar sua transformação a uma distância segura.}{Você está louco? Aquela coisa nos despedaçaria membro por membro assim que a soltássemos! Leve-a ao Dr. Fenwick, ele encontrará um habitat adequado onde possamos observar sua transformação a uma distância segura.}{}{}{}{ }
+{282}{Vou ver o Dr. Fenwick, então.}{}{5}{}{0}{ }
+{286}{Estou presumindo que seu associado não é um zoólogo. Há várias características sutis que nos mostram que isto é o gigante, e não um coelho. Por exemplo, sua cabeça é muito mais longa e estreita do que a de um coelho de verdade, sua pelagem é azul e é muito mais pesado do que deveria ser.}{Estou presumindo que seu associado não é um zoólogo. Há várias características sutis que nos mostram que isto é o gigante, e não um coelho. Por exemplo, sua cabeça é muito mais longa e estreita do que a de um coelho de verdade, sua pelagem é azul e é muito mais pesado do que deveria ser.}{}{}{}{ }
+{287}{Acredito que o senhor está me tomando por tolo.}{}{5}{}{291}{ }
+{288}{Então o senhor está dizendo que é isso?}{}{5}{lf8 0}{276}{ }
+{291}{Acredite no que quiser, estou dizendo a verdade. O Dr. Fenwick também confirmará que esta é a criatura, e não um simples coelho.}{Acredite no que quiser, estou dizendo a verdade. O Dr. Fenwick também confirmará que esta é a criatura, e não um simples coelho.}{}{}{}{ }
+{292}{Dr. Fenwick?}{}{5}{lf8 0}{296}{ }
+{293}{Vou ver o Dr. Fenwick, então.}{}{5}{lf 8 1}{0}{ }
+{296}{Dr. Tristan Fenwick da Sociedade Zoológica de Tarant, ele é um gênio. Tenho certeza de que ele nos ajudará. Precisamos da autenticação do establishment científico de Tarant para legitimar nossa alegação. Sem o apoio deles, não teríamos nenhuma esperança de publicar nossas descobertas.}{Dr. Tristan Fenwick da Sociedade Zoológica de Tarant, ele é um gênio. Tenho certeza de que ele nos ajudará. Precisamos da autenticação do establishment científico de Tarant para legitimar nossa alegação. Sem o apoio deles, não teríamos nenhuma esperança de publicar nossas descobertas.}{}{}{}{lf8 1, gf2125 1 }
+{297}{Vou ver o Dr. Fenwick, então.}{}{5}{}{0}{ }
+{301}{O qu... ele não poderia, eu ah, quero dizer, ele é um gênio científico. Não entendo nada disso.}{O qu... ele não poderia, eu ah, quero dizer, ele é um gênio científico. Não entendo nada disso.}{}{}{}{lf10 1 }
+{302}{Ele diz que o coelho foi pintado de azul e que você é louco.}{}{5}{}{307}{ }
+{303}{Aquele coelho foi pintado! Você me fez de bobo!}{}{5}{}{307}{ }
+{304}{Ele diz você burro. Coelho pintado azul.}{}{-4}{}{307}{ }
+{305}{O que não entende? Você é louco. Tenha um bom dia.}{}{5}{}{0}{re -10 }
+{306}{Tenha um bom dia, senhor.}{}{5}{}{0}{ }
+{307}{Mentiras! Tudo mentira! Fui enganado de alguma forma. Talvez você tenha trocado a criatura por um coelho, hein? Não, espere, eu sei, o Dr. Fenwick foi possuído por demônios de outros mundos com intenção de me destruir! Deve ser isso, a menos que ele ah...}{Mentiras! Tudo mentira! Fui enganado de alguma forma. Talvez você tenha trocado a criatura por um coelho, hein? Não, espere, eu sei, o Dr. Fenwick foi possuído por demônios de outros mundos com intenção de me destruir! Deve ser isso, a menos que ele ah...}{}{}{}{ }
+{308}{Vou sair sozinho.}{}{5}{}{0}{fl 312}
+{309}{Eu vou agora.}{}{-4}{}{0}{fl 312}
+{312}{Não, não demônios, ele quer roubar minha descoberta para si... por algum motivo, sinto que há demônios envolvidos de alguma forma... o gigante tem capacidades de controle mental! É isso!... ou, ah...}{Não, não são demônios, ele quer roubar minha descoberta para si mesmo... por algum motivo, sinto que há demônios envolvidos de alguma forma... o gigante tem capacidades de controle mental! É isso!... ou, hã...}{}{}{}{ }
+{313}{[Ele de repente parece horrorizado.] Oh, me desculpe. Eu, hã, eu... não tive a intenção de falar fora de hora. Não percebi que, hãm... quero dizer, hã, em que posso ajudá-lo?}{[Ele de repente parece horrorizado.] Oh, me desculpe. Eu, hã, eu... não tive a intenção de falar fora de hora. Não percebi que, hãm... quero dizer, hã, em que posso ajudá-lo?}{}{}{}{re +10 }
+{314}{Quem é você?}{}{5}{me 0}{63}{ }
+{315}{Ouvi dizer que o senhor é a pessoa com quem falar sobre o Gigante de Stillwater.}{}{5}{qa1043 1, lf1 0, me 0}{103}{lf1 1 }
+{316}{Decidi caçar o Gigante de Stillwater.}{}{5}{qa1043 1, me 1, lf1 1, lf3 0, ni 5610}{143}{lf3 1 }
+{317}{Como posso me aproximar o suficiente do gigante para prendê-lo?}{}{5}{lf6 1, lf4 0}{243}{ }
+{318}{Onde posso encontrar o covil do Gigante de Stillwater?}{}{5}{lf4 1, lf5 0}{263}{ }
+{319}{Ainda não localizei o Gigante.}{}{5}{lf5 1, ni 5610}{266}{ }
+{320}{O que o senhor pode me contar sobre o Gigante de Stillwater?}{}{5}{ lf1 0, qa1043 1, me 1}{93}{lf1 1 }
+{321}{Capturei o Gigante, senhor! [Mostre a ele o gigante preso.]}{}{5}{in 5610, lf8 0}{268}{ }
+{322}{Levei o... gigante ao meu associado, que diz que é um coelho.}{}{5}{ gf1053 1, gf1054 0}{286}{ }
+{323}{Vi a pele do Gigante de Stillwater em um museu em Tarant.}{}{5}{gf1048 1, lf1 1, lf11 0}{153}{lf11 1 }
+{324}{O Dr. Fenwick disse que era um coelho, e o próprio gigante é uma farsa.}{}{5}{gf1054 1, lf9 0}{301}{lf9 1 }
+{325}{E:}{}{5}{}{0}{ }
+{326}{Não tenho o dia todo para indigentes como o senhor. Sou um homem ocupado. Estou conduzindo observações de campo muito rigorosas que alguém como o senhor não entenderia.}{Não tenho o dia todo para indigentes como o senhor. Sou um homem ocupado. Estou conduzindo observações de campo muito rigorosas que alguém como o senhor não entenderia.}{}{}{}{ }
+{327}{Apenas busco a orientação de sua sabedoria, honorável senhor.}{}{5}{}{332}{ }
+{328}{Gostaria que observasse meu joelho em seu rosto.}{}{5}{}{0}{fl 330 ,co}
+{330}{Morte às massas ignorantes!}{Morte às massas ignorantes!}{}{}{}{ }
+{332}{Suponho que poderia dispensar um ou dois momentos, já que parece ser uma pessoa muito perspicaz, apesar das aparências em contrário.}{Suponho que poderia dispensar um ou dois momentos, já que parece ser uma pessoa muito perspicaz, apesar das aparências em contrário.}{}{}{}{ }
+{333}{Quem é você?}{}{5}{me 0}{63}{ }
+{334}{Ouvi dizer que o senhor é a pessoa com quem falar sobre o Gigante de Stillwater.}{}{5}{qa1043 1,  lf1 0, me 0}{103}{lf1 1 }
+{335}{Decidi caçar o Gigante de Stillwater.}{}{5}{ qa1043 1, me 1, lf1 1, lf3 0, ni 5610}{143}{lf3 1 }
+{336}{Como posso me aproximar o suficiente do gigante para prendê-lo?}{}{5}{lf6 1, lf4 0}{243}{ }
+{337}{Onde posso encontrar o covil do Gigante de Stillwater?}{}{5}{lf4 1, lf5 0}{263}{ }
+{338}{Ainda não localizei o Gigante.}{}{5}{lf5 1, ni 5610}{266}{ }
+{339}{O que o senhor pode me contar sobre o Gigante de Stillwater?}{}{5}{ lf1 0, qa1043 1, me 1}{93}{lf1 1 }
+{340}{Capturei o Gigante, senhor! [Mostre a ele o gigante preso.]}{}{5}{in 5610, lf8 0}{268}{ }
+{341}{Levei o... gigante ao meu associado, que diz que é um coelho.}{}{5}{ gf1053 1, gf1054 0}{286}{ }
+{342}{Vi a pele do Gigante de Stillwater em um museu em Tarant.}{}{5}{gf1048 1, lf1 1,  lf11 0}{153}{lf11 1 }
+{343}{O Dr. Fenwick disse que era um coelho, e o próprio gigante é uma farsa.}{}{5}{ gf1054 1, lf9 0}{301}{lf9 1 }
+{344}{Você tem a aparência de alguém que está prestes a morrer!}{}{5}{}{0}{fl 332 , co}
+{345}{E:}{}{5}{}{0}{ }
+{346}{Acredito que tenha me ouvido, senhor. A menos que seja surdo, além de ter o cérebro atrofiado.}{Acredito que tenha me ouvido, senhor. A menos que seja surdo, além de ter o cérebro atrofiado.}{}{}{}{ }
+{347}{Nenhuma das duas, embora eu esteja preparado para atrofiar seu cérebro, tolo.}{}{5}{sk2 8}{313}{re45 }
+{348}{Por favor, perdoe minha impertinência. Preciso lhe fazer algumas perguntas.}{}{5}{}{326}{re41 }
+{349}{Nenhuma das duas, embora eu esteja preparado para atrofiar seu cérebro, tolo.}{}{5}{sk2 -7}{0}{fl 332 , co}
+{350}{E:}{}{5}{}{0}{ }
+{351}{Ah, entendi, um idiota. Que triste. Bem, eu sou ci-en-tis-ta. Estou procurando o Gigante de Stillwater.}{Ah, entendi, um idiota. Que triste. Bem, eu sou ci-en-tis-ta. Estou procurando o Gigante de Stillwater.}{}{}{}{ }
+{352}{Gigante?}{}{-4}{}{355}{ }
+{353}{Eu procurar gigante também.}{}{-4}{qa1043, 1lf3 0}{359}{ }
+{354}{Bom dia.}{}{-4}{}{0}{ }
+{355}{Sim, o Gigantopithecus... ah, deixa pra lá. É um gigante grande, peludo e com chifres.}{Sim, o Gigantopithecus... ah, deixa pra lá. É um gigante grande, peludo e com chifres.}{}{}{}{ }
+{356}{Eu pegar gigante?}{}{-4}{}{359}{ }
+{357}{tchau.}{}{-4}{}{0}{ }
+{359}{Suponho que você seja burro o suficiente para tentar. Aqui está um cheiro animal e uma armadilha para pegar o gigante. Tire sua armadura, passe o cheiro em você, para que o gigante não consiga ouvir ou sentir seu cheiro. Aproxime-se sorrateiramente e use a armadilha no gigante.}{Suponho que você seja burro o suficiente para tentar. Aqui está um cheiro animal e uma armadilha para pegar o gigante. Tire sua armadura, passe o cheiro em você, para que o gigante não consiga ouvir ou sentir seu cheiro. Aproxime-se sorrateiramente e use a armadilha no gigante.}{}{}{}{in -3610, in -5609, lf3 1, ru2028 }
+{360}{Armadilha pequena demais para gigante.}{}{-4}{}{361}{ }
+{361}{O gigante pode se tornar pequeno, mudar de forma. Se ele não ouvir ou sentir seu cheiro, ficará pequeno, como um coelho azul.}{O gigante pode se tornar pequeno, mudar de forma. Se ele não ouvir ou sentir seu cheiro, ficará pequeno, como um coelho azul.}{}{}{}{ }
+{362}{Gigante parecer coelho bobo? Hahahah.}{}{-4}{}{363}{ }
+{363}{Siga o caminho atrás da minha casa até o fim, até encontrar a entrada das Cavernas de... algumas cavernas. O gigante mora lá. Entendeu?}{Siga o caminho atrás da minha casa até o fim, até encontrar a entrada das Cavernas de... algumas cavernas. O gigante mora lá. Entendeu?}{}{}{}{ }
+{364}{sim.}{}{-4}{}{0}{ }
+{365}{Excelente. Você deve levá-lo ao Dr. Fenwick da sociedade zoológica, hã, o lugar de estudo dos animais, em Tarant. Ele verificará se é o gigante.}{Excelente. Você deve levá-lo ao Dr. Fenwick da sociedade zoológica, hã, o lugar de estudo dos animais, em Tarant. Ele verificará se é o gigante.}{}{}{}{gf2125 1, ru2029 }
+{366}{Ah, tá bom.}{}{-4}{}{0}{ }
+{367}{O elfo com quem você está falando obviamente está brincando com você por causa de seus limitados recursos mentais. Ele está rindo de você porque você é burro, entendeu?}{O elfo com quem você está falando obviamente está brincando com você por causa de seus limitados recursos mentais. Ele está rindo de você porque você é burro, entendeu?}{}{}{}{ }
+{368}{Elfo burro.}{}{-4}{}{0}{ }
+{375}{... é tudo tão óbvio que o Dr. Fenwick pintou o coelho de azul, depois me disse, não, espere, ele o fez mudar de forma e o enviou para me atacar ou acasalar comigo... Hmmm... e onde os elfos se encaixam nisso tudo... isso deve ser um teste de minha inteligência feito pelo Fenwick...}{... tudo isso é tão óbvio. O Dr. Fenwick pintou o coelho de azul, depois me disse, não, espere, ele o fez mudar de forma e o enviou para me atacar ou acasalar comigo... Hmmm... e onde os elfos entram nisso tudo... isso deve ser um teste de perspicácia do Fenwick...}{}{}{}{ }
+{378}{Desculpe-me, esqueci que estava falando com um leigo. 'Hirsuto' simplesmente significa que tinha uma quantidade excessiva de pelos. Entendeu agora?}{Desculpe-me, esqueci que estava falando com um leigo. 'Hirsuto' simplesmente significa que tinha uma quantidade excessiva de pelos. Entendeu agora?}{}{}{}{ }
+{379}{Sim, obrigado pela explicação. Preciso capturá-lo.}{}{5}{qa 1043 1}{143}{ }
+{380}{Ofendo-me com seu tom, senhor.}{}{5}{}{384}{ }
+{381}{Obrigado pela informação. Preciso ir.}{}{5}{}{0}{ }
+{384}{Sem ofensas, senhor. Nem todos podem ser tão inclinados intelectualmente quanto eu.}{Sem ofensas, madame. Nem todos podem ser tão inclinados intelectualmente quanto eu.}{}{}{}{ }
+{385}{Desculpas aceitas. Preciso de sua ajuda para capturar a criatura.}{}{5}{qa 1043 1}{143}{ }
+{386}{Espero que não se ofenda com a surra que estou prestes a lhe dar.}{}{5}{}{0}{fl 330 , co}
+{389}{Preciso refletir sobre tudo isso. Tenha um bom dia.}{}{5}{}{0}{ }
+{390}{Você encurtou minha vida e depois me arrancou de volta a este plano de existência? Por que deve me atormentar tanto?}{Você encurtou minha vida e depois me arrancou de volta a este plano de existência? Por que deve me atormentar tanto?}{}{}{}{ }
+{391}{Preciso capturar o Gigante de Stillwater.}{}{5}{qa1043 1, gf1057 0, ni 5609}{397}{ }
+{392}{Preciso fazer o Gigante se transformar.}{}{5}{gf1057 1}{430}{ }
+{393}{Só queria que soubesse que o trabalho de sua vida foi uma farsa.}{}{5}{gf1054 1, lf9 0}{435}{ }
+{394}{Pode voltar a estar morto, então. Adeus.}{}{5}{}{0}{ }
+{397}{Siga o caminho atrás da minha casa até o fim, até encontrar a entrada das cavernas. O gigante vive lá. Entendeu? Use esta armadilha para capturá-lo.}{Siga o caminho atrás da minha casa até o fim, até encontrar a entrada das cavernas. O gigante vive lá. Entendeu? Use esta armadilha para capturá-lo.}{}{}{}{in -5609 }
+{398}{Essa armadilha é bem pequena.}{}{5}{}{400}{ }
+{400}{O gigante é um metamorfo. Ele se parece com um coelho azul quando está tranquilo. Tire sua armadura antes de se aproximar e use este odor. [Ele lhe entrega um frasco com um cheiro horrível.]}{O gigante é um metamorfo. Ele se parece com um coelho azul quando está tranquilo. Tire sua armadura antes de se aproximar e use este odor. [Ele lhe entrega um frasco com um cheiro horrível.]}{}{}{}{in -3610, ru2028 }
+{401}{Por que devo tirar minha armadura e usar esse cheiro horrível?}{}{5}{}{405}{ }
+{402}{Eu o liberto deste mundo. Adeus.}{}{5}{}{0}{ }
+{405}{O odor vai mascarar sua presença, e a falta de armadura permitirá que você seja mais silencioso. Se a criatura por acaso o vir, pode não reconhecê-lo como hostil sem a armadura. Se ele notar você, fuja antes que tenha chance de se transformar, ou morrerá.}{O odor vai mascarar sua presença, e a falta de armadura permitirá que você seja mais silencioso. Se a criatura por acaso o vir, pode não reconhecê-lo como hostil sem a armadura. Se ele notar você, fuja antes que tenha chance de se transformar, ou morrerá.}{}{}{}{ }
+{406}{Pode ir agora. Adeus.}{}{5}{}{0}{ }
+{415}{Você fez o quê?! O trabalho da minha vida, destruído!}{Você fez o quê?! O trabalho da minha vida, destruído!}{}{}{}{ }
+{416}{E agora, o que faço? Ainda preciso conseguir uma pele.}{}{5}{}{0}{lf20 1, fl 420}
+{417}{Mas eu preciso de um gigante.}{}{-4}{}{0}{lf20 1, fl 420}
+{420}{Isso não é da minha conta. Me deixe em paz.}{Isso não é da minha conta. Me deixe em paz.}{}{}{}{ }
+{421}{Por favor, me deixe em paz.}{Por favor, me deixe em paz.}{}{}{}{ }
+{422}{O gigante não estava morto. Eu o capturei.}{}{5}{in 5610, lf8 0, re 41}{268}{lf20 0 }
+{423}{Gigante não morto. Eu peguei ele.}{}{-4}{in 5610}{365}{lf20 0 }
+{429}{E:}{}{1}{}{0}{ }
+{430}{Você está louco? Aquela coisa nos despedaçaria membro por membro assim que a soltássemos! Leve-a para o Dr. Fenwick da Sociedade Zoológica de Tarant, ele encontrará um habitat adequado onde poderemos observar sua transformação a uma distância segura. O Dr. Fenwick é um gênio, ele pode autenticar a criatura para nós também.}{Você está louco? Aquela coisa nos despedaçaria membro por membro assim que a soltássemos! Leve-a para o Dr. Fenwick da Sociedade Zoológica de Tarant, ele encontrará um habitat adequado onde poderemos observar sua transformação a uma distância segura. O Dr. Fenwick é um gênio, ele pode autenticar a criatura para nós também.}{}{}{}{lf8 1, gf2125 1, ru2029 }
+{431}{Vou ver o Dr. Fenwick, então.}{}{5}{}{0}{ }
+{435}{O quê? Do que você está falando?}{O quê? Do que você está falando?}{}{}{}{ }
+{436}{O Dr. Fenwick disse que era um coelho, e o gigante em si é uma farsa.}{}{5}{}{301}{lf9 1 }
+{440}{Estou ocupado no momento, talvez você possa voltar mais tarde?}{Estou ocupado no momento, talvez você possa voltar mais tarde?}{}{}{}{ }
+

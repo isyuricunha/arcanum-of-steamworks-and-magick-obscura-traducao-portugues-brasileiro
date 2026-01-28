@@ -1,0 +1,30 @@
+{1}{Olá, senhor. C-C-Como posso ajudá-lo?}{Olá, senhora. Como posso ajudá-la?}{}{}{}{}
+{2}{Sim. Posso saber quem é você?}{}{5}{me 0}{8}{}
+{3}{Olá, Brinda. Tem um momento?}{}{5}{me 1}{16}{}
+{4}{Hã... oi! Quem é você?}{}{-4}{me 0}{8}{}
+{5}{Oi, Binda! Posso falar com você?}{}{-4}{me 1}{13}{}
+{6}{E:}{}{1}{me 1}{}{}
+{8}{S-sim, eu Brinda... Quer dizer, EU SOU a Brinda, a empregada. [Ela parece ter dificuldade para falar. Tem um forte sotaque orc.]}{S-sim, eu Brinda... Quer dizer, EU SOU a Brinda, a empregada. [Ela parece ter dificuldade para falar. Tem um forte sotaque orc.]}{}{}{}{}
+{9}{Entendo. Posso fazer algumas perguntas, Brinda?}{}{5}{}{16}{}
+{10}{Oi! Posso te fazer algumas perguntas, Binda?}{}{-4}{}{13}{}
+{11}{E:}{}{1}{}{0}{}
+{13}{[Ela parece não entender suas divagações infantis.] Desculpe, senhor. Eu não falo... Quer dizer, EU NÃO falo muito bem. Vou indo...}{[Ela parece não entender suas divagações infantis.] Desculpe, senhora. Eu não falo... Quer dizer, EU NÃO falo muito bem. Vou indo...}{}{}{}{}
+{14}{E:}{}{1}{}{0}{}
+{16}{C-certo, senhor...}{C-certo, senhora...}{}{}{}{}
+{17}{Onde posso encontrar o Sr. Victor Misk?}{}{5}{gf2521 0, lf1 0}{20}{lf1 1}
+{18}{Tenho algumas perguntas sobre "A Maldição de T'sen-Ang"...}{}{5}{}{25}{}
+{19}{Nenhuma pergunta por enquanto, Brinda. Tenha um bom dia...}{}{5}{}{0}{}
+{20}{[Ela parece se encolher com a pergunta.] Ah, eu, hã... não fale comigo sobre isso. Quer dizer, hã... talvez você encontre a Sra. Misk. Ela está no... Ela ESTÁ na outra sala, senhor...}{[Ela parece se encolher com a pergunta.] Ah, eu, hã... não fale comigo sobre isso. Quer dizer, hã... talvez você encontre a Sra. Misk. Ela está no... Ela ESTÁ na outra sala, senhora...}{}{}{}{}
+{21}{Vou encontrá-la. Obrigado, Brinda...}{}{5}{}{0}{}
+{25}{[Ela parece muito nervosa.] Hã... por que você pergunta sobre aquele livro ruim? Aquele livro levou o Sr. Misk à morte! Eu não quero falar sobre isso...}{[Ela parece muito nervosa.] Hã... por que você pergunta sobre aquele livro ruim? Aquele livro levou o Sr. Misk à morte! Eu não quero falar sobre isso...}{}{}{}{}
+{26}{Estou investigando o assunto para a Sra. Misk...}{}{5}{}{28}{}
+{28}{Ah. Hã, o-o que o senhor quer saber?}{Ah. Hã, o-o que a senhora quer saber?}{}{}{}{}
+{29}{Você sabe como o Sr. Wales descobriu que o Sr. Misk tinha o livro?}{}{5}{}{31}{}
+{31}{Não... eu... [Ela olha ao redor, assustada.] Eu não sei nada sobre isso... Quer dizer, eu amo o Sr. e a Sra. Misk... Eu nunca faria nada para machucá-los... Eu, hã... [Ela parece perturbada, sem conseguir encontrar as palavras.]}{Não... eu... [Ela olha ao redor, assustada.] Eu não sei nada sobre isso... Quer dizer, eu amo o Sr. e a Sra. Misk... Eu nunca faria nada para machucá-los... Eu, hã... [Ela parece perturbada, sem conseguir encontrar as palavras.]}{}{}{}{}
+{32}{Você parece muito defensiva sobre isso, Brinda...}{}{5}{}{35}{}
+{33}{Não estou acusando você. Tem alguma informação que possa me ajudar?}{}{5}{}{38}{}
+{35}{[Ela olha de um lado para o outro, gaguejando.] Eu não... Eu já falei com a polícia! Eu nunca machuquei! Nunca! Grrrr! [A raiva brilha em seus olhos.] Me deixe em paz! Não quero mais falar sobre isso!}{[Ela olha de um lado para o outro, gaguejando.] Eu não... Eu já falei com a polícia! Eu nunca machuquei! Nunca! Grrrr! [A raiva brilha em seus olhos.] Me deixe em paz! Não quero mais falar sobre isso!}{}{}{}{lf2 1}
+{36}{Tenho certeza de que nos veremos novamente, Brinda. Tenha um bom dia...}{}{5}{}{0}{}
+{38}{[Ela parece se acalmar um pouco.]  Hã...eu não sei de nada...só faço meu trabalho...tento ganhar dinheiro para minha família.  [O rosto dela fica vermelho; ela está claramente agitada com suas perguntas.]  Eu não sei de nada, senhor. Só queria que o Sr. Misk voltasse.}{[Ela parece se acalmar um pouco.]  Hã...eu não sei de nada...só faço meu trabalho...tento ganhar dinheiro para minha família.  [O rosto dela fica vermelho; ela está claramente agitada com suas perguntas.]  Eu não sei de nada, senhora. Só queria que o Sr. Misk voltasse.}{}{}{}{lf2 1}
+{39}{Eu não quero falar, senhor.}{Eu não quero falar, senhora.}{}{}{}{}
+

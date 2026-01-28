@@ -1,0 +1,22 @@
+{1}{G:}{G:}{}{}{}{ }
+{2}{Por favor, senhor. Posso fazer uma pergunta?}{}{5}{re-40}{10}{ }
+{3}{Posso lhe fazer uma pergunta, senhor?}{}{5}{re41}{28}{ }
+{4}{Hã... eu pergunto uma coisa... por favô?}{}{-4}{re-40}{10}{ }
+{5}{Hã... eu pergunto uma coisa?}{}{-4}{re41}{28}{ }
+{9}{E:}{}{1}{}{0}{ }
+{10}{Suponho que... Só não arranje confusão por aqui. O que você quer?}{Suponho que... Só não arranje confusão por aqui. O que você quer?}{}{}{}{ }
+{11}{R:$0,1070-1089}{}{1}{}{39}{ }
+{12}{C:}{}{1}{}{39}{ }
+{13}{T:0, 1, 2, 4}{}{1}{}{39}{ }
+{15}{F:}{}{1}{}{0}{ }
+{28}{Pode ser... O que você quer?}{Pode ser... O que você quer?}{}{}{}{ }
+{29}{R:$0,1070-1089}{}{1}{}{39}{ }
+{30}{C:}{}{1}{}{39}{ }
+{31}{T:0, 1, 2, 4}{}{1}{}{39}{ }
+{33}{F:}{}{1}{}{0}{ }
+{39}{[Ele parece um tanto irritado.] Tem mais alguma coisa?}{[Ele parece um tanto irritado.] Tem mais alguma coisa?}{}{}{}{ }
+{40}{R:$0,1070-1089}{}{1}{}{39}{ }
+{41}{C:}{}{1}{}{39}{ }
+{42}{T:0, 1, 2, 4}{}{1}{}{39}{ }
+{44}{Não, obrigado. Tenha um bom dia.}{}{1}{}{0}{ }
+

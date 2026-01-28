@@ -1,0 +1,22 @@
+{1}{[Anúncio] Passageiros, dirijam-se aos seus compartimentos, por favor! Todos a bordo! Todos a bordo!}{[Anúncio] Passageiros, dirijam-se aos seus compartimentos, por favor! Todos a bordo! Todos a bordo!}{}{}{}{lf 10 0, lf 11 0, lf 12 0, lf 13 0 , lf 14 0}
+{2}{Olá. Você é o Condutor?}{}{5}{me 0}{7}{}
+{3}{Pode me indicar onde fica o meu trem?}{}{5}{me 1}{11}{}
+{4}{Hã, você é o homem do trem?}{}{-4}{me 0}{7}{}
+{5}{Onde está o meu trem?}{}{-4}{me 1}{11}{}
+{6}{E:}{}{1}{}{0}{}
+{7}{Bem, sim, senhor, sou um Condutor, isso é verdade. Mas nesta ponta do trem transportamos os passageiros mágicos, então sou chamado de Condutor do Vagão de Magos... Só para deixar as coisas claras. Posso ser de ajuda?}{Bem, sim, senhorita, sou um Condutor, isso é verdade. Mas nesta ponta do trem transportamos os passageiros mágicos, então sou chamado de Condutor do Vagão de Magos... Só para deixar as coisas claras. Posso ser de ajuda?}{}{}{}{}
+{8}{Gostaria de embarcar no trem.}{}{5}{}{11}{}
+{9}{eu ir piuíí}{}{-4}{}{11}{}
+{10}{}{}{}{}{}{}
+{11}{Certamente, qual trem a senhora está procurando?}{Certamente, qual trem a senhora está procurando?}{}{}{}{}
+{12}{O trem para Ashbury.}{}{5}{lf 5 0}{-14}{}
+{13}{O trem para Blackroot.}{}{5}{lf 6 0}{-17}{}
+{14}{O trem para Tarant.}{}{5}{lf 7 0}{-20}{}
+{15}{E:}{}{5}{}{0}{}
+{16}{Mim ir pra Ashburee!}{}{-4}{lf 5 0}{-14}{}
+{17}{Mim ir pra Bwackroooot.}{}{-4}{lf 6 0}{-17}{}
+{18}{Mim ir pra Teerant.}{}{-4}{lf 7 0}{-20}{}
+{19}{E:}{}{-4}{}{0}{}
+{20}{G:}{}{}{}{}{}
+{21}{E:}{}{1}{}{0}{}
+

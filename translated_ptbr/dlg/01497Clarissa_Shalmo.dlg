@@ -1,0 +1,201 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Saudações, bela dama. Posso perguntar seu nome e posição?}{1}{5}{lf1 0, re 41}{43}{}
+{3}{Saudações, senhora. Posso perguntar seu nome e posição?}{0}{5}{lf1 0, re 41}{43}{}
+{4}{Saudações, Clarissa! Posso incomodá-la por um momento?}{}{5}{lf1 1, re 41}{101}{}
+{5}{Esse tipo de linguagem vindo de uma criatura tão bela?!}{1}{5}{lf1 0, re -40}{14}{}
+{6}{Madame! A senhora sempre lança insultos a estranhos?!}{0}{5}{lf1 0, re -40}{14}{}
+{7}{Perdoe minha intrusão. Preciso apenas de um momento da belíssima Clarissa.}{1}{5}{lf1 1, re -40}{101}{re+2}
+{8}{Perdoe minha intrusão. Preciso apenas de um momento do seu tempo, Clarissa.}{0}{5}{lf1 1, re -40}{101}{re+2}
+{9}{Hã... Eu pergunto uma coisa?}{}{-4}{lf1 1}{101}{}
+{10}{Quem é você, bonita?}{1}{-4}{lf1 0, re 41}{14}{}
+{11}{Quem ocê é?}{0}{-4}{lf1 0, re 41}{14}{}
+{12}{Oh... A bela dama não é legal.}{}{-4}{lf1 0, re -40}{14}{}
+{13}{E:}{}{1}{}{0}{}
+{14}{Sai da minha frente, fracote! Não tenho tempo para cães choramingões!}{Sai da minha frente, fracote! Não tenho tempo para cães choramingões!}{}{}{}{}
+{15}{Por favor, bela dama, tenho apenas algumas perguntas para lhe fazer.}{1}{5}{lf1 0}{37}{re +3}
+{16}{Por favor, distinta senhora, tenho apenas algumas perguntas para lhe fazer.}{0}{5}{lf1 0}{37}{}
+{17}{Por favor, guerreiro... Preciso de sua ajuda.}{}{5}{lf1 0}{37}{re +5}
+{18}{Por favor, perdoe-me se de alguma forma a ofendi, Clarissa.}{}{5}{lf1 1}{37}{re +3}
+{19}{Até um cão choramingão às vezes morde.}{}{5}{}{23}{re -5}
+{20}{Eu fiz mal? Eu sinto muito.}{}{-4}{}{32}{re -5}
+{21}{Fraco? Eu te mostro o que é fraco!}{}{-4}{}{23}{re -10}
+{22}{E:}{}{1}{}{0}{}
+{23}{Ha ha! Você não é tolo o suficiente para me ameaçar! ...ou será?}{Ha ha! Você não é burro o suficiente para me ameaçar... é?}{}{}{}{}
+{24}{Não tive intenção de ofender. Peço desculpas pelo mal-entendido.}{}{5}{lf1 0}{37}{re +3}
+{25}{Oh, Clarissa! Você sabe que eu jamais ousaria ameaçá-la.}{}{5}{lf1 1}{37}{re +5}
+{26}{Bonita ou não, já estou farto da sua atitude, mestiça!}{1}{5}{ra -7}{}{co, fl 36}
+{27}{Já estou farto da sua atitude, mestiça!}{0}{5}{ra -7}{}{co, fl 36}
+{28}{Prepare-se para morrer, "irmã"...}{}{5}{ra 7}{}{co, fl 36}
+{29}{Hã, o quê?}{}{-4}{}{32}{re -5}
+{30}{Eu não sou bobo! Eu te mostro!}{}{-4}{}{}{co, fl 36}
+{31}{E:}{}{1}{}{0}{}
+{32}{Nem tenho tempo para imbecis!}{Nem tenho tempo para imbecis!}{}{}{}{}
+{33}{Você é má, senhora! Eu pego você, você não é legal...}{}{-4}{}{}{co, fl 36}
+{34}{Me desculpe, eu deixei a grande dama brava. Eu tento de novo? Por favor?}{}{-4}{}{37}{}
+{35}{E:}{}{-4}{}{0}{}
+{36}{Prepare-se para morrer, insolente tolo...}{Prepare-se para morrer, insolente tolo...}{}{}{}{}
+{37}{Parece que afinal você tem algum juízo... Por que me interrompeu?}{Parece que afinal você tem algum juízo... Por que me interrompeu?}{}{}{}{}
+{38}{Você é muito gentil. Posso perguntar seu nome?}{}{5}{lf1 0}{43}{re +2}
+{39}{Obrigado, Clarissa. Tenho uma ou duas perguntas, se me permitir.}{}{5}{lf1 1}{101}{}
+{40}{Obrigadu. Qual é o seu nome?}{}{-4}{lf1 0}{43}{re +2}
+{41}{Obrigadu, Clarissa. Eu te pergunto uma coisa?}{}{-4}{lf1 1}{101}{}
+{42}{E:}{}{1}{}{0}{}
+{43}{Você deve ser novo na região! Todo mundo sabe que "eu" sou Clarissa Shalmo, Mestra das armas arremessáveis. Nunca encontrei alguém à altura da minha habilidade. Já ouviu falar de mim, não é?}{Você deve ser novo na região! Todo mundo sabe que "eu" sou Clarissa Shalmo, Mestra das armas arremessáveis. Nunca encontrei alguém à altura da minha habilidade. Já ouviu falar de mim, não é?}{}{}{}{lf1 1}
+{44}{Hmm... mas é claro, grande mestra. O que a senhora faz aqui?}{}{5}{}{53}{}
+{45}{Ah, sim. Sua proeza é lendária. O que a traz aqui?}{}{5}{}{53}{re +3}
+{46}{É um prazer, Clarissa. Posso fazer uma ou duas perguntas?}{}{5}{}{101}{}
+{47}{Já encontrou alguém à altura do seu ego?}{}{5}{}{}{re -20, co, fl 36}
+{48}{Hã... Sim! ...Claro! Eu conheço a Mast'r. O que você faz aqui?}{}{-4}{}{53}{}
+{49}{Eu ouvi muito sobre você. O que você faz aqui?}{}{-4}{}{53}{re +3}
+{50}{Prazer em conhecê-la. Eu te pergunto uma coisa?}{}{-4}{}{101}{}
+{51}{Ha! Você com certeza está cheio de si, hein?}{}{-4}{}{}{re -20, co, fl 36}
+{52}{E:}{}{1}{}{0}{}
+{53}{Atualmente estou trabalhando sob contrato. Por ser a "Mestra", minhas habilidades são muito requisitadas. Veja bem, eu supero todos em armas arremessáveis; adagas, bumerangues, chakrams... até granadas. Minha postura e mira são impecáveis. Você realmente deveria me ver em ação, sou incrível.}{Atualmente estou trabalhando sob contrato. Por ser a "Mestra", minhas habilidades são muito requisitadas. Veja bem, eu supero todos em armas arremessáveis; adagas, bumerangues, chakrams... até granadas. Minha postura e mira são impecáveis. Você realmente deveria me ver em ação, sou incrível.}{}{}{}{lf2 1}
+{54}{Impressionante. Deve ser uma grande honra estar tão requisitada.}{}{5}{}{64}{re +2}
+{55}{Você dominou "todas" as armas arremessáveis? Não restam desafios?}{}{5}{}{69}{}
+{56}{Suas habilidades parecem impressionantes, guerreira.}{}{5}{}{64}{re +2}
+{57}{Seus talentos são muitos. Posso fazer outra pergunta?}{}{5}{}{101}{}
+{58}{Sua vaidade é o que mais me impressiona!}{}{5}{}{}{co, fl 36}
+{59}{Uau. Deve ser bom ser tão importante.}{}{-4}{}{64}{re +2}
+{60}{Você é mast'r em todas? Não sobrou ninguém para te desafiar?}{}{-4}{}{69}{}
+{61}{Você parece uma grande guerreira.}{}{-4}{}{64}{re +2}
+{62}{Uau. Muito bom. Eu te pergunto mais uma coisa?}{}{-4}{}{101}{}
+{63}{Você é tão vaidoso! É o que eu acho incrível!}{}{-4}{}{}{co, fl 36}
+{64}{Sim, é bom ser o melhor. Mas às vezes pode ficar tedioso. É quando você se vê procurando uma nova arma para dominar, embora restem muito poucas que realmente me desafiem.}{Sim, é bom ser o melhor. Mas às vezes pode ficar tedioso. É quando você se vê procurando uma nova arma para dominar, embora restem muito poucas que realmente me desafiem.}{}{}{}{}
+{65}{Qual arma você está dominando atualmente?}{}{5}{}{69}{}
+{66}{É. Com qual você está treinando agora?}{}{-4}{}{69}{}
+{67}{K:}{}{1}{}{101}{}
+{68}{E:}{}{1}{}{0}{}
+{69}{Infelizmente, faz muito tempo que não sou desafiado com uma nova arma. No entanto... Recentemente ouvi histórias sobre a Estrela de Azram. Dizem que é uma das melhores armas de arremesso já forjadas. Se a Estrela for tudo o que ouvi dizer, será a próxima arma que dominarei. [suspiro] Mas terá que esperar até eu concluir meu contrato.}{Infelizmente, faz muito tempo que não sou desafiado com uma nova arma. No entanto... Recentemente ouvi histórias sobre a Estrela de Azram. Dizem que é uma das melhores armas de arremesso já forjadas. Se a Estrela for tudo o que ouvi dizer, será a próxima arma que dominarei. [suspiro] Mas terá que esperar até eu concluir meu contrato.}{}{}{}{}
+{70}{Estrela de Azram? Nunca ouvi falar.}{}{5}{}{75}{}
+{71}{Em todas as minhas viagens, nunca ouvi falar dessa arma. O que é?}{}{5}{}{75}{}
+{72}{Estrela? Num ouvi falá disso antes. O que é?}{}{-4}{}{75}{}
+{73}{Viajei longe. Nunca ouvi falar dessa estrela antes. Me conte mais.}{}{-4}{}{75}{}
+{74}{E:}{}{1}{}{0}{}
+{75}{Aparentemente, é um artefato que remonta à Era das Lendas. Dizem que a peça não tem uma, mas cinco lâminas saindo de sua base e causa um dano incrível! Além disso, ouvi dizer que ela possui o poder de retornar ao seu mestre após atingir o alvo. Que arma incrível seria!}{Aparentemente, é um artefato que remonta à Era das Lendas. Dizem que a peça não tem uma, mas cinco lâminas saindo de sua base e causa um dano incrível! Além disso, ouvi dizer que ela possui o poder de retornar ao seu mestre após atingir o alvo. Que arma incrível seria!}{}{}{}{}
+{76}{Uma arma dessas provavelmente o tornaria invencível.}{}{5}{tr3 1}{80}{re +2}
+{77}{Estou surpreso que você ainda não a tenha obtido para si mesmo.}{}{5}{tr3 1}{80}{}
+{78}{Essa estrela te deixa bem forte?}{}{-4}{tr3 1}{80}{re +2}
+{79}{K:}{}{1}{}{101}{}
+{80}{Hmmm. Sim... É uma pena que eu esteja sob contrato e não possa sair. Acredito que até descobri sua localização exata. [ela o observa cuidadosamente] Talvez você tenha habilidade suficiente... Talvez esteja disposto a recuperar a lâmina para mim? Eu o recompensaria generosamente por um item como esse!}{Hmmm. Sim... É uma pena que eu esteja sob contrato e não possa sair. Acredito que até descobri sua localização exata. [ela o observa cuidadosamente] Talvez você tenha habilidade suficiente... Talvez esteja disposto a recuperar a lâmina para mim? Eu o recompensaria generosamente por um item como esse!}{}{}{}{qu1097 1}
+{81}{Que tipo de recompensa você está oferecendo, Clarissa?}{}{5}{}{95}{}
+{82}{Vou pensar no assunto. Tenha um bom dia...}{}{5}{}{0}{}
+{83}{O que você me dá, se eu conseguir pra você?}{}{-4}{}{95}{}
+{84}{Vou pensar no assunto. Até logo.}{}{-4}{}{0}{}
+{85}{E:}{}{1}{}{0}{}
+{86}{Há uma masmorra antiga, nas profundezas da floresta élfica. Dizem que contém magia muito poderosa e muito antiga. Dizem que permaneceu intocada por centenas de anos... Suspeito que será bastante difícil recuperá-la. Tem certeza de que está preparado para tal tarefa?}{Há uma masmorra antiga, nas profundezas da floresta élfica. Dizem que contém magia muito poderosa e muito antiga. Dizem que permaneceu intocada por centenas de anos... Suspeito que será bastante difícil recuperá-la. Tem certeza de que está preparado para tal tarefa?}{}{}{}{}
+{87}{Por favor, deixe-me pensar um pouco mais sobre isso...}{}{5}{}{0}{}
+{88}{Estou. Onde fica?}{}{5}{}{92}{qu1097 2}
+{89}{Tenho que pensar mais sobre isso. Até logo.}{}{-4}{}{0}{}
+{90}{Hã... Sim! Onde fica?}{}{-4}{}{92}{qu1097 2}
+{91}{E:}{}{1}{}{0}{}
+{92}{Nas ruínas de K'na Tha. Mostre-me seu mapa, vou lhe indicar.}{Nas ruínas de K'na Tha. Mostre-me seu mapa, vou lhe indicar.}{}{}{}{}
+{93}{Aqui. [Ela analisa seu mapa, marcando o local para você.]}{}{5}{}{123}{mm58}
+{94}{Aqui. [Ela analisa seu mapa, marcando o local para você.]}{}{-4}{}{123}{mm58}
+{95}{Bem, não tenho certeza do quão talentoso você é com armas de arremesso, mas, se puder demonstrar pelo menos habilidade de nível Aprendiz, eu estaria disposto a treiná-lo até o nível Mestre, em troca da Estrela de Azram.}{Bem, não tenho certeza do quão talentoso você é com armas de arremesso, mas, se puder demonstrar pelo menos habilidade de nível Aprendiz, eu estaria disposto a treiná-lo até o nível Mestre, em troca da Estrela de Azram.}{}{}{}{}
+{96}{Por favor, permita-me pensar um pouco mais sobre isso...}{}{5}{}{0}{}
+{97}{Trato feito! Onde ela está localizada?}{}{5}{}{86}{}
+{98}{Me precisa pensá mais um poco... Tchau.}{}{-4}{}{0}{}
+{99}{Tá bom! Me pega ela! Onde ela tá?}{}{-4}{}{86}{}
+{100}{E:}{}{1}{}{0}{}
+{101}{Você tem minha atenção.}{Você tem minha atenção.}{}{}{}{}
+{102}{Qual é a sua posição aqui?}{}{5}{lf2 0}{53}{}
+{103}{Vou tentar obter a Estrela de Azram para você.}{}{5}{qu1097 1, ni 2019}{123}{qu1097 2}
+{104}{Eu também gostaria de me tornar um Mestre em armas de arremesso.}{}{5}{tr3 1, qu1097 0}{127}{}
+{105}{Talvez você se interesse em me acompanhar em minha jornada?}{}{5}{re -80, lf13 0}{139}{re +3}
+{106}{Ainda não consegui obter a Estrela de Azram.}{}{5}{qu1097 2, ni 2019}{123}{}
+{107}{Estou de posse da Estrela de Azram!}{}{5}{qa1097 1, in 2019}{142}{}
+{108}{Só queria agradecer pelo meu treinamento.}{}{5}{tr3 3, re -80}{189}{re +2}
+{109}{Pratiquei minha habilidade de arremesso e trouxe a moeda...}{}{5}{qu1153 2, $1000, sk3 18}{184}{}
+{110}{Pratiquei minha habilidade de arremesso...}{}{5}{qu1153 2, sk3 -17}{182}{}
+{111}{Me arremecei um monte de coisa e tenho moeda também...}{}{5}{qu1153 2, $1000, sk3 18}{184}{}
+{112}{Me arremecei um monte de coisa...}{}{5}{qu1153 2, sk3 -17}{182}{}
+{113}{Pratiquei minha habilidade de arremesso...}{}{5}{lf14 1, sk3 18}{197}{}
+{114}{O que cê faz aqui?}{}{-4}{lf2 0}{53}{}
+{115}{Me tenta pegá a estrela pra você.}{}{-4}{qu1097 1, ni 2019}{123}{qu1097 2}
+{116}{Você me treina como Mast'r, igual você?}{}{-4}{tr3 1, qu1097 0}{127}{}
+{117}{Você vem comigo?}{}{-4}{re -80}{139}{re +3}
+{118}{Me ainda não peguei a estrela...}{}{-4}{qu1097 2, ni 2019}{123}{}
+{119}{Me peguei a estrela! Me peguei a estrela!}{}{-4}{qa1097 1, in 2019}{142}{}
+{120}{Obrigado por me ensiná a arremeçá coisa boa.}{}{-4}{tr3 3, re -80}{189}{re +2}
+{121}{Hã... me é Mast'r agora?}{}{-4}{lf14 1, sk3 18}{197}{}
+{122}{E:}{}{1}{}{0}{}
+{123}{Eu ficaria grato se você voltasse com isso rapidamente. A ansiedade para dominá-lo é praticamente insuportável.}{Eu ficaria grato se você voltasse com isso rapidamente. A ansiedade para dominá-lo é praticamente insuportável.}{}{}{}{}
+{124}{Voltarei em breve.}{}{5}{}{0}{}
+{125}{Eu volto logo!}{}{-4}{}{0}{}
+{126}{E:}{}{1}{}{0}{}
+{127}{Eu sou, é claro, totalmente capaz de treiná-lo. No entanto, primeiro gostaria que fizesse algo por mim.}{Eu sou, é claro, totalmente capaz de treiná-lo. No entanto, primeiro gostaria que fizesse algo por mim.}{}{}{}{}
+{128}{Qualquer coisa que desejar, Clarissa}{}{5}{}{69}{re +2}
+{129}{E isso seria?}{}{5}{}{69}{}
+{130}{Oh, eu não esperava por isso!...... O que você quer, mulher!?!}{}{5}{}{135}{re -7}
+{131}{Eu faço qualquer coisa!}{}{-4}{}{69}{re +2}
+{132}{O que você qué que eu faça?}{}{-4}{}{69}{}
+{133}{E:}{}{1}{}{0}{}
+{134}{Se a morte é o que deseja, que assim seja.... Insensato}{Se a morte é o que deseja, que assim seja.... Insensato}{}{}{}{}
+{135}{Sua atitude precisa de ajustes. É melhor segurar a língua, ou enfrentar as consequências!}{Sua atitude precisa de ajustes. É melhor segurar a língua, ou enfrentar as consequências!}{}{}{}{}
+{136}{Peço desculpas. Ultrapassei meus limites. Por favor, me perdoe.}{}{5}{}{101}{re +3}
+{137}{Enfrente essas consequências!}{}{-4}{}{}{co, fl 134}
+{138}{E:}{}{-4}{}{0}{re -5}
+{139}{Sua oferta é muito atraente, @pcname@. No entanto, estou sob um contrato de longo prazo, que honrarei até que seja concluído.}{Sua oferta é muito atraente, @pcname@. No entanto, estou sob um contrato de longo prazo, que honrarei até que seja concluído.}{}{}{}{lf13 1}
+{140}{K:}{}{1}{}{101}{}
+{141}{E:}{}{1}{}{0}{}
+{142}{Oh! Achei que nunca voltaria com isso! Rápido..... deixe-me ver!}{Oh! Achei que nunca voltaria com isso! Rápido..... deixe-me ver!}{}{}{}{}
+{143}{Aqui está! Você vai me treinar como prometeu?}{}{5}{sk3 18, tr3 2, tr3 -2}{154}{qu1097 4, in 2019}
+{144}{Aqui está! Você vai me treinar como prometeu?}{}{5}{sk3 -17, tr3 2, tr3 -2}{192}{qu1097 4, in 2019}
+{145}{Aqui está! Você vai me treinar como prometeu?}{}{5}{tr3 1, tr3 -1}{162}{qu1097 4, in 2019}
+{146}{Na verdade, só voltei para matá-lo com isso...}{}{5}{tr3 1}{}{co, fl 134}
+{147}{Um momento. Gostaria de receber meu treinamento primeiro.}{}{5}{sk3 18, tr3 2, tr3 02, ps 12}{177}{re -5}
+{148}{Aqui! Você me treina agora?}{}{-4}{sk3 18, tr3 2, tr3 -2}{154}{qu1097 4, in 2019}
+{149}{Aqui! Você me treina agora?}{}{-4}{sk3 -17, tr3 2, tr3 -2}{192}{qu1097 4, in 2019}
+{150}{Aqui! Você me treina agora?}{}{-4}{tr3 1, tr3 -1}{162}{qu1097 4, in 2019}
+{151}{Não... Eu só voltei para matá-lo com isso...}{}{-4}{tr3 1}{}{co, fl 134}
+{152}{Espere. Eu quero o treinamento primeiro!}{}{-4}{sk3 18, tr3 2, tr3 02, ps 12}{177}{re -5}
+{153}{E:}{}{1}{}{0}{}
+{154}{Que obra de arte incrível! Serei dez vezes mais guerreiro do que era antes de receber isto! Sim, sim, seu treinamento foi muito merecido. Obrigado!}{Que obra de arte incrível! Serei dez vezes mais guerreiro do que era antes de receber isto! Sim, sim, seu treinamento foi muito merecido. Obrigado!}{}{}{}{tr3 3, rq2165}
+{155}{Agradeço a você, Clarissa.}{}{5}{}{0}{}
+{156}{Obrigado. Que a Estrela seja tudo o que você espera.}{}{5}{}{0}{}
+{157}{Obrigado, tolo... agora prepare-se para enfrentar seu igual!}{}{5}{}{}{co, fl 134}
+{158}{Obrigadu, Clarissa.}{}{-4}{}{0}{}
+{159}{Obrigadu. Espero que a Estrela seja boa como você quer.}{}{-4}{}{0}{}
+{160}{Obrigadu, sua lady burra. Agora é hora de eu te matar!}{}{-4}{}{}{co, fl 134}
+{161}{E:}{}{1}{}{0}{}
+{162}{Que obra de arte incrível! Serei dez vezes mais guerreiro do que era antes de receber isto! Sim, sim, seu treinamento foi muito merecido. [Ela então dedica um tempo para analisar sua postura ao arremessar, fazendo correções conforme necessário e dando dicas para melhorar sua mira.] Posso formalmente conceder-lhe o título de Mestre. Obrigado @pcname@!}{Que obra de arte incrível! Serei dez vezes mais guerreiro do que era antes de receber isto! Sim, sim, seu treinamento foi muito merecido. [Ela então dedica um tempo para analisar sua postura ao arremessar, fazendo correções conforme necessário e dando dicas para melhorar sua mira.] Posso formalmente conceder-lhe o título de Mestre. Obrigado @pcname@!}{}{}{}{TR3 2}
+{163}{Obrigado, Clar... Ei! Sou apenas um Especialista, e o Mestre?}{}{5}{}{165}{}
+{164}{Obrigadu Clar... Ei! Eu só Expert! Você diz Mast'r!?!}{}{-4}{}{165}{}
+{165}{Antes que eu possa ensiná-lo mais, você deve praticar suas novas habilidades por um tempo, @pcname@.}{Antes que eu possa ensiná-lo mais, você deve praticar suas novas habilidades por um tempo, @pcname@.}{}{}{}{}
+{166}{Isso não foi o que combinamos.}{}{5}{}{172}{}
+{167}{Ei! Você não pode fazer isso! E o seu "honor"?}{}{5}{}{172}{}
+{168}{Talvez eu deva praticar em você!}{}{5}{}{}{co, fl 134}
+{169}{Isso num é o que ocê disse antes!}{}{-4}{}{172}{}
+{170}{Ei! Ocê num pode fazê isso! Num tem honor?}{}{-4}{}{172}{}
+{171}{Eu acho que vô praticá em ocê!}{}{-4}{}{}{co, fl 134}
+{172}{Ousa questionar a mim? O Mestre? Agora, além de ter que praticar suas habilidades por um tempo, não o treinarei para o nível de Mestre a menos que me dê 1.000 moedas. Me irrite mais, e será ainda mais!}{Ousa questionar a mim? O Mestre? Agora, além de ter que praticar suas habilidades por um tempo, não o treinarei para o nível de Mestre a menos que me dê 1.000 moedas. Me irrite mais, e será ainda mais!}{}{}{}{lf3 1}
+{173}{Mas! Mas... Hum..., vou praticar minhas habilidades e voltar com o pagamento.}{}{5}{}{0}{qu1153 2}
+{174}{Vou irritar você! Vou mostrar quem está irritado!}{}{5}{}{}{co, fl 134}
+{175}{Hã... Mas... Eu... Tá bom. Vou melhorar e conseguir as moedas.}{}{-4}{}{0}{qu1153 2}
+{176}{Vou irritar você! Vou mostrar quem está irritado!}{}{-4}{}{}{co, fl 134}
+{177}{Bem, é um pouco heterodoxo, mas vamos começar. [Ela então dedica um tempo para analisar sua postura ao arremessar, fazendo correções conforme necessário e dando dicas para melhorar sua mira.] Você concluiu o treinamento e agora é um Mestre no campo das armas arremessadas... Agora me dê a lâmina.}{Bem, é um pouco heterodoxo, mas vamos começar. [Ela então dedica um tempo para analisar sua postura ao arremessar, fazendo correções conforme necessário e dando dicas para melhorar sua mira.] Você concluiu o treinamento e agora é um Mestre no campo das armas arremessadas... Agora me dê a lâmina.}{}{}{}{tr3 3, rq2165}
+{178}{Obrigado por honrar nosso acordo. Aqui está a Estrela.}{}{5}{}{0}{qu1097 4, in 2019}
+{179}{Sim. Mas um Mestre com a Estrela de Azram pode ser heterodoxo!}{}{5}{}{}{qu1097 5, re -50, co, fl 134}
+{180}{Obrigadu. Aqui está.}{}{-4}{}{0}{qu1097 4, in 2019}
+{181}{Agora eu, Mestre com a Estrela... É sua hora de morrer!}{}{-4}{}{}{qu1097 5, re -50, co, fl 134}
+{182}{Você vai precisar treinar mais do que isso se espera dominar a habilidade de arremesso, @pcname@. Agora não me incomode até estar preparado para se tornar um mestre!}{Você vai precisar treinar mais do que isso se espera dominar a habilidade de arremesso, @pcname@. Agora não me incomode até estar preparado para se tornar um mestre!}{}{}{}{}
+{183}{E:}{}{1}{}{0}{}
+{184}{Sim. Vejo que sua habilidade melhorou muito. Muito bem. [Ela pega a moeda de você e então analisa sua postura de arremesso, fazendo correções quando necessário e dando dicas para melhorar sua mira.] Seu treinamento está completo. Você agora é um Mestre no campo das armas de arremesso. Na verdade, seu talento provavelmente é igual ao meu. Parabéns, @pcname@.}{Sim. Vejo que sua habilidade melhorou muito. Muito bem. [Ela pega a moeda de você e então analisa sua postura de arremesso, fazendo correções quando necessário e dando dicas para melhorar sua mira.] Seu treinamento está completo. Você agora é um Mestre no campo das armas de arremesso. Na verdade, seu talento provavelmente é igual ao meu. Parabéns, @pcname@.}{}{}{}{tr3 3, rq2165, $$-1000, qu1153 4}
+{185}{Sua insistência para que eu praticasse ajudou imensamente. Obrigado.}{}{5}{}{0}{}
+{186}{Na verdade, aposto que minha habilidade é muito melhor que a sua, sua ladra desgraçada.}{}{5}{}{}{co, fl 134}
+{187}{Eu feliz por praticar. Eu muito melhor agora. Obridado.}{}{-4}{}{0}{}
+{188}{Eu aposto que é melhor que a sua... Ladrona!}{}{-4}{}{}{co, fl 134}
+{189}{De nada.}{Seu treinamento está completo. Você agora é um Mestre no campo das armas de arremesso. Na verdade, seu talento provavelmente é igual ao meu. Parabéns!}{}{}{}{}
+{190}{K:}{}{5}{}{101}{}
+{191}{E:}{}{5}{}{0}{}
+{192}{Que obra de arte incrível! Serei dez vezes mais guerreiro do que era antes de receber isto! Sim, sim, seu treinamento foi muito merecido... No entanto, você ainda não tem a habilidade necessária para que eu possa ensiná-lo. Você deve praticar suas novas habilidades por um tempo antes que eu possa completar seu treinamento.}{Que obra de arte incrível! Serei dez vezes mais guerreiro do que era antes de receber isto! Sim, sim, seu treinamento foi muito merecido... No entanto, você ainda não tem a habilidade necessária para que eu possa ensiná-lo. Você deve praticar suas novas habilidades por um tempo antes que eu possa completar seu treinamento.}{}{}{}{}
+{193}{Isso não foi o que combinamos.}{}{5}{}{172}{}
+{194}{Voltarei em breve.}{}{5}{}{0}{lf14 1}
+{195}{Num é o qui cê disse antes!}{}{-4}{}{172}{}
+{196}{Eu volto logo!}{}{-4}{}{0}{lf14 1}
+{197}{Sim. Vejo que sua habilidade melhorou muito. Muito bem. [Ela analisa sua postura de arremesso, fazendo correções quando necessário e dando dicas para melhorar sua mira.] Seu treinamento está completo. Você agora é um Mestre no campo das armas de arremesso. Na verdade, seu talento provavelmente é igual ao meu. Parabéns, @pcname@.}{Sim. Vejo que sua habilidade melhorou muito. Muito bem. [Ela analisa sua postura de arremesso, fazendo correções quando necessário e dando dicas para melhorar sua mira.] Seu treinamento está completo. Você agora é um Mestre no campo das armas de arremesso. Na verdade, seu talento provavelmente é igual ao meu. Parabéns, @pcname@.}{}{}{}{tr3 3, rq2165}
+{198}{Sua insistência para que eu praticasse ajudou imensamente. Obrigado.}{}{5}{}{0}{}
+{199}{Eu feliz por praticar. Eu muito melhor agora. Obridado.}{}{-4}{}{0}{}
+{200}{E:}{}{1}{}{0}{}
+

@@ -1,0 +1,305 @@
+{1}{G:}{G:}{}{}{}{ }
+{2}{De quem será esta casa?}{}{5}{lf1 0}{19}{lf1 1 }
+{3}{Preciso conseguir uma audiência com o Sr. Bates.}{}{5}{lf1 1, gf1007 0, gf1024 0, qu1040 0}{27}{ }
+{4}{Tenho um assunto da mais alta importância para discutir com o Sr. Bates.}{}{5}{ gf1023 0, gf1007 0, lf1 1, gf1024 0, qu1040 0}{77}{ }
+{5}{Eu "removi" os sabotadores que têm lhe causado problemas.}{}{5}{gf1023 1, gf 1007 0, gf1024 0}{127}{ }
+{6}{Decidi remover os sabotadores para você.}{}{5}{qu1040 1}{57}{qu1040 2, qu1041 6 }
+{7}{Casa de quem?}{}{-4}{lf1 0}{19}{ }
+{8}{matei os sab-o-ta-dores}{}{-4}{gf1023 1, gf1024 0}{179}{qu1040 4 }
+{9}{Preciso falar com Bates.}{}{-4}{lf1 1, gf1024 1}{299}{ }
+{10}{Preciso falar com Bates.}{}{-4}{lf1 1, gf1024 0}{27}{ }
+{11}{Tenho informações do clã Montanha Negra para o Sr. Bates.}{}{5}{qu1014 4, gf1007 1, gf1024 0}{152}{ }
+{12}{Tenho informações do clã Montanha Negra para o Sr. Bates.}{}{5}{qb1013 1, gf 1007 1, qb1014 1, gf1024 0}{152}{ }
+{14}{Estou aqui para ver o Sr. Bates.}{}{5}{qu1040 4, qa1013 2, gf1024 0}{299}{ }
+{15}{Estou aqui para ver o Sr. Bates.}{}{5}{gf1024 1}{299}{ }
+{16}{Decidi remover os sabotadores para você.}{}{5}{qu1040 6, qa1041 2}{450}{ }
+{17}{Appleby está por trás da sabotagem. Ele tentou me recrutar para ajudar.}{}{5}{qa1041 2, qb1041 3, qu1040 2, ch10}{87}{ }
+{18}{E:}{}{1}{}{0}{ }
+{19}{Gilbert Bates, o industrialista, mora aqui.}{Gilbert Bates, o industrialista, mora aqui.}{}{}{}{ }
+{20}{Preciso conseguir uma audiência com o Sr. Bates.}{}{5}{}{27}{ }
+{21}{Eu "removi" os sabotadores que têm lhe causado problemas.}{}{5}{gf1023 1, qu1040 0}{127}{ }
+{22}{Eu matei os sab-o-ta-dores!}{}{-4}{gf1023 1}{179}{ }
+{23}{Preciso falar com Bates.}{}{-4}{}{27}{ }
+{24}{Tenho um assunto da mais alta importância para discutir com o Sr. Bates.}{}{5}{}{77}{ }
+{26}{E:}{}{1}{}{0}{ }
+{27}{Isso não é possível. O Sr. Bates não recebe ninguém, especialmente agora, com a recente tentativa de assassinato contra ele.}{Isso não é possível. O Sr. Bates não recebe ninguém, especialmente agora, com as recentes tentativas de assassinato contra ele.}{}{}{}{gf1028 1 }
+{28}{Tentativa de assassinato contra ele?}{}{5}{lf15 0}{302}{ }
+{29}{Tenho informações do clã Montanha Negra para o Sr. Bates.}{}{5}{qu1014 4}{152}{ }
+{30}{Tenho informações do clã Montanha Negra para o Sr. Bates.}{}{5}{qb1013 1, gf 1007 1, qb1014 1}{152}{ }
+{31}{É imperativo que eu fale com o Sr. Bates.}{}{5}{lf2 1, qb1041 1}{117}{ }
+{32}{Tenho um anel que pertencia ao Sr. Bates.}{}{5}{in 2804, lf3 0}{138}{lf3 1 }
+{33}{Preciso falar com ele sobre um anel dele que encontrei.}{}{5}{ni 2804, lf3 0}{138}{lf3 1 }
+{34}{Preciso falar com Bates.}{}{-4}{}{157}{ }
+{35}{É imperativo que eu fale com o Sr. Bates.}{}{5}{lf2 1, qa1041 2}{450}{ }
+{36}{E:}{}{1}{}{0}{ }
+{37}{Bem... temos tido alguns problemas com sabotadores na fábrica. Se você pudesse "resolver" isso, tenho certeza de que o Sr. Bates gostaria de agradecer pessoalmente.}{Bem... temos tido alguns problemas com sabotadores na fábrica. Se você pudesse "resolver" isso, tenho certeza de que o Sr. Bates gostaria de agradecer pessoalmente.}{}{}{}{qu1040 1 }
+{38}{Parece perigoso. O Sr. Bates ficaria chateado se eu me machucasse.}{}{5}{ps4, lf4 0}{194}{ }
+{39}{Você despertou meu interesse. O que mais pode me contar?}{}{5}{}{47}{ }
+{46}{E:}{}{5}{}{0}{ }
+{47}{Na verdade, não muito. Eles geralmente atacam no meio da noite, algum tempo depois da meia-noite. Já perdemos vários guardas que enviamos para detê-los.}{Na verdade, não muito. Eles geralmente atacam no meio da noite, algum tempo depois da meia-noite. Já perdemos vários guardas que enviamos para detê-los.}{}{}{}{ }
+{48}{Eu resolvo isso.}{}{5}{}{57}{qu1040 2, qu1041 6 }
+{49}{Se seus guardas não conseguem detê-los, que chance eu teria?}{}{5}{}{67}{ }
+{57}{Heh, heh. Boa sorte. A fábrica fica no final do Beco das Dez Mãos. Aqui está a chave, os guardas estarão esperando por você. Volte aqui quando tiver despachado eles, e eu o deixarei entrar para ver o Sr. Bates.}{Heh, heh. Boa sorte. A fábrica fica no final do Beco das Dez Mãos. Aqui está a chave, os guardas estarão esperando por você. Volte aqui quando tiver despachado eles, e eu o deixarei entrar para ver o Sr. Bates.}{}{}{}{in-4417, gf2438 1 }
+{58}{E:}{}{5}{}{0}{ }
+{67}{Não é grande coisa, infelizmente. Você perguntou como entrar para ver Bates, eu lhe disse. Se não está interessado, por favor, vá embora.}{Não é grande coisa, infelizmente. Você perguntou como entrar para ver Bates, eu lhe disse. Se não está interessado, por favor, vá embora.}{}{}{}{ }
+{68}{Eu resolvo o seu problema, então.}{}{5}{}{57}{qu1040 2, qu1041 6 }
+{69}{E:}{}{5}{}{0}{ }
+{77}{E esse assunto seria referente a?}{E esse assunto seria referente a?}{}{}{}{ }
+{78}{Cedric Appleby tentou me contratar para sabotar a fábrica de Bates.}{}{5}{qu1041 1, ch10}{87}{ }
+{79}{Cedric Appleby me contratou para sabotar a fábrica de Bates.}{}{5}{qa1041 2, lf2 0}{97}{lf2 1 }
+{80}{Tenho um anel que pertencia ao Sr. Bates.}{}{5}{in 2804, lf3 0}{138}{lf3 1 }
+{81}{Preciso falar com ele sobre um anel dele que encontrei.}{}{5}{ni 2804, lf3 0}{138}{lf3 1 }
+{82}{Cedric Appleby tentou me contratar para sabotar a fábrica de Bates.}{}{5}{qu1041 1, ch -9}{97}{ }
+{83}{Preciso falar com ele sobre um anel dele.}{}{5}{lf3 0, qa1041 2}{460}{ }
+{86}{F:}{}{5}{}{0}{ }
+{87}{O quê?! Não deveria me surpreender. Já passou da hora do Sr. Appleby receber uma visita de alguns... "amigos" do Sr. Bates. O Sr. Bates vai querer agradecer pessoalmente, tenho certeza. Por favor, entre.}{O quê?! Não deveria me surpreender. Já passou da hora do Sr. Appleby receber uma visita de alguns... "amigos" do Sr. Bates. O Sr. Bates vai querer agradecer pessoalmente, tenho certeza. Por favor, entre.}{}{}{}{qu1040 4, gf1012 1, gf1024 1, np1060 1, qu1041 6 }
+{88}{A:}{}{1}{}{-62}{ }
+{97}{Ah, um cúmplice do Appleby, é? Qual é o seu jogo desta vez?}{Ah, um cúmplice do Appleby, é? Qual é o seu jogo desta vez?}{}{}{}{ }
+{98}{Você não entende, Appleby está tentando sabotar sua fábrica!}{}{5}{}{107}{ }
+{99}{Você num intende! Eu num gosto do Appuhlsbee!}{}{-4}{}{107}{ }
+{106}{F:}{}{1}{}{0}{ }
+{107}{Sugiro que vá embora antes que eu mande prendê-lo. Não tenho paciência para Appleby ou sua laia.}{Sugiro que vá embora antes que eu mande prendê-lo. Não tenho paciência para Appleby nem para gente como ele.}{}{}{}{ }
+{115}{Você é mentalmente deficiente? Estou tentando te avisar!}{}{5}{}{180}{re-5 }
+{116}{E:}{}{1}{}{0}{ }
+{117}{Bem, já que você é tão amigo do Appleby, não deve ser problema para você resolver nossas dificuldades com sabotadores. Se conseguir isso, o Sr. Bates gostaria de agradecer pessoalmente.}{Bem, já que você é tão amigo do Appleby, não deve ser problema para você resolver nossas dificuldades com sabotadores. Se conseguir isso, o Sr. Bates gostaria de agradecer pessoalmente.}{}{}{}{ }
+{118}{Se essa é a única maneira de entrar, que seja. Que detalhes pode me dar?}{}{5}{}{47}{ }
+{119}{Na verdade, tenho uma mensagem do Appleby: Morra, porco fascista!}{}{5}{}{0}{fl 193 ,co}
+{126}{F:}{}{5}{}{0}{ }
+{127}{Graças aos deuses! Pensei que nunca nos livraríamos deles. Por favor, entre. O Sr. Bates estará ansioso para agradecer.}{Graças aos deuses! Pensei que nunca nos livraríamos deles. Por favor, entre. O Sr. Bates estará ansioso para agradecer.}{}{}{}{qu1040 4, gf1024 1 }
+{128}{A:}{}{5}{}{-62}{ }
+{137}{Claro. Entre logo.}{Claro. Entre logo.}{}{}{}{ }
+{138}{Você e todos os outros assassinos ou lunáticos que aparecem por aqui. Circule.}{Você e todos os outros assassinos ou lunáticos que aparecem por aqui. Circule.}{}{}{}{ }
+{139}{O Sr. Bates ficará extremamente aborrecido quando souber disso.}{}{5}{ps-3}{145}{ }
+{140}{Como posso entrar para vê-lo, então?}{}{5}{}{27}{ }
+{141}{O Sr. Bates ficará extremamente aborrecido quando souber disso.}{}{5}{ps4, lf4 0}{194}{ }
+{142}{Então você conhece todos os amigos próximos que o Sr. Bates já teve?}{}{5}{ps4, lf4 1, lf5 0}{228}{ }
+{144}{E:}{}{5}{}{0}{ }
+{145}{Vou arriscar, senhor. Agora, a menos que tenha mais alguma bobagem para dizer, por favor, circule.}{Vou arriscar, senhora. Agora, a menos que tenha mais alguma bobagem para dizer, por favor, circule.}{}{}{}{ }
+{146}{Como posso entrar para vê-lo, então?}{}{5}{}{27}{ }
+{147}{Não tenho mais nada a dizer, a não ser sangue saindo pelos seus ouvidos.}{}{5}{}{0}{fl 193 ,co}
+{148}{E:}{}{5}{}{0}{ }
+{152}{Você disse o Clã da Montanha Negra?! Pelos deuses!! Temos ordens permanentes, mas nunca pensei... Quer dizer, hum, entre logo, senhor.}{Você disse o Clã da Montanha Negra?! Pelos deuses!! Temos ordens permanentes, mas nunca pensei... Quer dizer, hum, entre logo, senhora.}{}{}{}{gf1024 1 }
+{153}{A:}{}{5}{qu1040 0}{-62}{ }
+{154}{A:}{}{5}{qa1040 1}{-62}{qu1040 6 }
+{155}{A:}{}{-4}{qu1040 0}{-62}{ }
+{156}{A:}{}{-4}{qa1040 1}{-62}{qu1040 6 }
+{157}{Escute aqui, idiota. Ninguém entra para falar com Bates.}{Escute aqui, idiota. Ninguém entra para falar com Bates.}{}{}{}{ }
+{158}{Mas eu preciso falar com Bates.}{}{-4}{qu1040 0, qb1041 1}{161}{ }
+{159}{Mas eu preciso falar com Bates.}{}{-4}{qa1040 1, qb1041 1}{175}{ }
+{160}{Mas eu preciso falar com Bates.}{}{-4}{qa1041 2}{450}{ }
+{161}{Se está falando sério sobre vê-lo, talvez eu tenha um trabalho para você.}{Se está falando sério sobre vê-lo, talvez eu tenha um trabalho para você.}{}{}{}{ }
+{162}{Sim sim sim sim. Trabalho. Eu sou bom em trabalhos.}{}{-4}{}{166}{ }
+{163}{Não dá não.}{}{-4}{}{0}{ }
+{166}{Tem uns sabotado... uh, isso não vai funcionar... MATE OS HOMENS MAUS QUE VÃO PARA A FÁBRICA DEPOIS DAS 12:00 DA NOITE.}{Tem uns sabotado... uh, isso não vai funcionar... MATE OS HOMENS MAUS QUE VÃO PARA A FÁBRICA DEPOIS DAS 12:00 DA NOITE.}{}{}{}{qu1040 1 }
+{167}{Tá bom.}{}{-4}{}{171}{qu1040 2 }
+{168}{Não.}{}{-4}{}{0}{ }
+{171}{Heh, heh. BOA SORTE. FÁBRICA NO FINAL DO BECO DAS DEZ MÃOS. VOLTE AQUI QUANDO OS TIVER MATADO. AQUI ESTÁ A CHAVE PARA ENTRAR.}{Heh, heh. BOA SORTE. FÁBRICA NO FINAL DO BECO DAS DEZ MÃOS. VOLTE AQUI QUANDO OS TIVER MATADO. AQUI ESTÁ A CHAVE PARA ENTRAR.}{}{}{}{in-4417, gf2438 1 }
+{172}{Urgh.}{}{-4}{}{0}{ }
+{175}{Eu te disse, mate os homens maus, depois entre.}{Eu te disse, mate os homens maus, depois entre.}{}{}{}{ }
+{176}{Tá bom. Eu mato.}{}{-4}{qb1040 1}{171}{qu1040 2 }
+{177}{urf.}{}{-4}{}{0}{ }
+{179}{Parabéns, meu amigo burro. Obrigado por nos ajudar. Por favor, entre, tenho certeza de que o Sr. Bates vai querer agradecer pessoalmente.}{Parabéns, meu amigo burro. Obrigado por nos ajudar. Por favor, entre, tenho certeza de que o Sr. Bates vai querer agradecer pessoalmente.}{}{}{}{gf1024 1 }
+{180}{Por favor, leve seus insultos para outro lugar. Tenho um trabalho a fazer aqui.}{Por favor, leve seus insultos para outro lugar. Tenho um trabalho a fazer aqui.}{}{}{}{ }
+{182}{E:}{}{5}{}{0}{ }
+{183}{Há mais alguma coisa em que eu possa ajudar?}{Há mais alguma coisa em que eu possa ajudar?}{}{}{}{ }
+{184}{De quem será esta casa?}{}{5}{lf1 0}{19}{lf1 1 }
+{185}{Preciso conseguir uma audiência com o Sr. Bates.}{}{5}{lf1 1, gf1007 0, qu1040 0}{27}{ }
+{186}{Tenho um assunto da mais alta importância para discutir com o Sr. Bates.}{}{5}{qa1039 1, gf1023 0, gf1007 0}{77}{ }
+{187}{Eu "removi" os sabotadores que têm incomodado vocês.}{}{5}{gf1023 1, gf 1007 0}{127}{ }
+{189}{Tenho informações do clã Montanha Negra para o Sr. Bates.}{}{5}{qu1014 4, gf1007 1}{152}{ }
+{190}{Tenho informações do clã Montanha Negra para o Sr. Bates.}{}{5}{qb1013 1, gf 1007 1, qb1014 1}{152}{ }
+{191}{Estou aqui para ver o Sr. Bates.}{}{5}{qu1040 4, qa1013 2}{299}{ }
+{192}{E:}{}{5}{}{0}{ }
+{193}{Guardas! Ataquem!}{Guardas! Ataquem!}{}{}{}{ }
+{194}{Acho que tenho uma ideia muito melhor do que deixaria o Sr. Bates chateado do que você, malfeitor.}{Acho que tenho uma ideia muito melhor do que deixaria o Sr. Bates chateado do que você, malfeitor.}{}{}{}{ }
+{195}{Acho que ele ficaria chateado com você falando assim com um velho amigo.}{}{5}{}{200}{ }
+{196}{Sou um velho amigo dele da universidade.}{}{5}{}{267}{lf4 1 }
+{197}{Acho que ele vai ficar chateado quando eu matar seus guardas. Morram!!!}{}{5}{}{0}{fl 193 ,co}
+{198}{E:}{}{5}{}{0}{ }
+{200}{O que você quer dizer com "velho amigo"?}{O que você quer dizer com "velho amigo"?}{}{}{}{ }
+{201}{Nossas mães são amigas íntimas desde que éramos crianças.}{}{5}{lf4 0}{271}{lf4 1 }
+{202}{Nossas mães são amigas íntimas desde que éramos crianças.}{}{5}{lf4 1}{258}{ }
+{204}{Eu o conheço desde sempre. Eu não me deixaria de fora, se fosse você.}{}{5}{}{212}{ }
+{205}{Eu lhe emprestei uma grande quantia de dinheiro há vinte e cinco anos.}{}{5}{lf4 1}{258}{ }
+{206}{Eu lhe emprestei uma grande quantia de dinheiro há vinte e cinco anos.}{}{5}{lf4 0}{277}{lf4 1 }
+{211}{E:}{}{5}{}{0}{ }
+{212}{Hã... Se você é um amigo... é... deveria ter telegrafado antes para o Sr. Bates, para que ele pudesse nos avisar que esperássemos por você.}{Hã... Se você é um amigo... é... deveria ter telegrafado antes para o Sr. Bates, para que ele pudesse nos avisar que esperássemos por você.}{}{}{}{ }
+{213}{Eu telegrafei antes. Não foi entregue?}{}{5}{lf4 1}{258}{ }
+{214}{Eu telegrafei antes. Não foi entregue?}{}{5}{lf4 0}{281}{lf4 1 }
+{215}{Vou telegrafar a ele sobre sua rudeza com um dos seus amigos mais antigos.}{}{5}{}{218}{ }
+{217}{E:}{}{5}{}{0}{ }
+{218}{Oh, hã... isso não será necessário, senhor, eu só preciso de alguma explicação ou... algo... para me convencer de que ele concederia uma audiência a você.}{Oh, hã... isso não será necessário, senhora, eu só preciso de alguma explicação ou... algo... para me convencer de que ele concederia uma audiência a você.}{}{}{}{ }
+{219}{Já estou farto disso. Leve-me até ele e ele resolverá isso.}{}{5}{}{225}{ }
+{220}{A mãe dele está muito doente! Preciso avisá-lo!}{}{5}{lf4 0}{287}{lf4 1 }
+{221}{A mãe dele está muito doente! Preciso avisá-lo!}{}{5}{lf4 1}{258}{lf5 1 }
+{222}{Éramos muito próximos enquanto lutávamos para fazer nossas fortunas.}{}{5}{lf4 1}{258}{lf5 1 }
+{223}{Éramos muito próximos enquanto lutávamos para fazer nossas fortunas.}{}{5}{lf4 0}{277}{lf4 1 }
+{224}{E:}{}{5}{}{0}{ }
+{225}{Perdoe por detê-lo, senhor, é óbvio pela sua atitude que está me dizendo a verdade. Pode entender por que precisamos ter certeza dessas coisas. Por favor, prossiga.}{Perdoe por detê-la, senhora, é óbvio pela sua atitude que está me dizendo a verdade. Pode entender por que precisamos ter certeza dessas coisas. Por favor, prossiga.}{}{}{}{gf1024 1, gf1010 1, xp 8 }
+{226}{A:}{}{5}{qu1040 0}{-62}{ }
+{227}{A:}{}{5}{qa1040 1}{-62}{qu1040 6 }
+{228}{Hã, não, eu, ah, nunca tentei insinuar que sabia tudo sobre a vida dele, senhor.}{Hã, não, eu, ah, nunca tentei insinuar que sabia tudo sobre a vida dele, senhora.}{}{}{}{ }
+{229}{Obviamente não. O velho Bates me deve tudo.}{}{5}{}{258}{lf5 1 }
+{230}{Mas preciso falar com ele, mesmo assim.}{}{5}{qa1041 2}{450}{re-5 }
+{231}{Eu o conheço desde sempre. Não acho sensato me deixar aqui fora.}{}{5}{}{235}{ }
+{232}{Mas preciso falar com ele, mesmo assim.}{}{5}{qu1040 0, qb1041 1}{37}{ }
+{233}{Bem, o que pode me dizer sobre seus sabotadores, então?}{}{5}{qu1040 1, qb1041 1}{47}{ }
+{234}{E:}{}{5}{}{0}{ }
+{235}{Pode não ser sensato, mas você entenderia, se é amigo dele, nossa necessidade de segurança. O Sr. Bates é um homem conhecido, com muitos inimigos e também admiradores.}{Pode não ser sensato, mas você entenderia, se é amiga dele, nossa necessidade de segurança. O Sr. Bates é um homem conhecido, com muitos inimigos e também admiradores.}{}{}{}{ }
+{236}{Vou me certificar de avisá-lo sobre o trabalho de destruição que está fazendo.}{}{5}{}{240}{ }
+{237}{Sim, eu já levei um tiro que era destinado ao velho Gilbert.}{}{5}{}{258}{lf5 1 }
+{238}{E:}{}{5}{}{0}{ }
+{240}{Eu... hã... não sei o que... não sei se você é quem diz ser.}{Eu... hã... não sei o que... não sei se você é quem diz ser.}{}{}{}{ }
+{241}{Já estou farto disso. Leve-me até ele e ele resolverá isso.}{}{5}{}{245}{ }
+{242}{Éramos muito próximos enquanto ambos éramos homens de negócios em dificuldades.}{}{5}{}{258}{lf5 1 }
+{243}{Preciso avisá-lo sobre a condição da mãe dele!}{}{5}{}{258}{lf5 1 }
+{244}{E:}{}{5}{}{0}{ }
+{245}{Peço desculpas por detê-lo, senhor, é óbvio pela sua atitude que está me dizendo a verdade. Você pode entender por que precisamos ter certeza dessas coisas. Por favor, prossiga.}{Peço desculpas por detê-la, senhora, é óbvio pela sua atitude que está me dizendo a verdade. Você pode entender por que precisamos ter certeza dessas coisas. Por favor, prossiga.}{}{}{}{gf1024 1, xp 8 }
+{246}{Claro. Tenha um bom dia.}{}{5}{qu1040 0}{-62}{ }
+{247}{Claro. Tenha um bom dia.}{}{5}{qa1040 1}{-62}{qu1040 6 }
+{258}{Você obviamente não sabe nada sobre o Sr. Bates, "velho amigo".}{Você obviamente não sabe nada sobre o Sr. Bates, "velho amigo".}{}{}{}{ }
+{259}{Mas preciso falar com ele, mesmo assim.}{}{5}{qu1040 0}{37}{ }
+{260}{Bem, o que pode me dizer sobre seus sabotadores, então?}{}{5}{qu1040 1}{47}{ }
+{261}{E:}{}{5}{}{0}{ }
+{267}{O Sr. Bates foi uma criança prodígio e imensamente rico aos dezessete anos. Ele detesta instituições de ensino. Talvez devesse aprender mais sobre seu assunto antes de inventar histórias, hein?}{O Sr. Bates foi uma criança prodígio e imensamente rico aos dezessete anos. Ele detesta instituições de ensino. Talvez devesse aprender mais sobre seu assunto antes de inventar histórias, hein?}{}{}{}{ }
+{268}{Então, o Sr. Bates nunca deu aulas ou sequer esteve na universidade?}{}{5}{}{228}{ }
+{269}{Você está errado... hã... eu fui colega de escola dele.}{}{5}{}{258}{lf5 1 }
+{270}{E:}{}{5}{}{0}{ }
+{271}{Isso é informativo, já que o Sr. Bates ficou órfão ainda jovem. Talvez devesse aprender mais sobre seu assunto antes de inventar histórias, hein?}{Isso é informativo, já que o Sr. Bates ficou órfão ainda jovem. Talvez devesse aprender mais sobre seu assunto antes de inventar histórias, hein?}{}{}{}{ }
+{272}{Nossas mães não poderiam ter sido próximas antes de ele ficar órfão?}{}{5}{}{228}{ }
+{273}{Minha mãe é uma necromante. Ela fala com a mãe dele diariamente.}{}{5}{}{258}{lf5 1 }
+{274}{Mas preciso falar com ele, mesmo assim.}{}{5}{qu1040 0}{37}{ }
+{275}{Bem, o que pode me dizer sobre seus sabotadores, então?}{}{5}{qu1040 1}{47}{ }
+{276}{E:}{}{5}{}{0}{ }
+{277}{O Sr. Bates foi uma criança prodígio e imensamente rico aos dezessete anos. Talvez devesse aprender mais sobre seu assunto antes de inventar histórias, hein?}{O Sr. Bates foi uma criança prodígio e imensamente rico aos dezessete anos. Ele detesta instituições de ensino. Talvez devesse aprender mais sobre seu assunto antes de inventar histórias, hein?}{}{}{}{ }
+{278}{Você é um especialista em seus negócios financeiros? Ele sabe disso?}{}{5}{}{228}{ }
+{279}{Ele ficou rico porque eu lhe emprestei o dinheiro para começar!}{}{5}{}{258}{lf5 1 }
+{280}{E:}{}{5}{}{0}{ }
+{281}{Os AMIGOS do Sr. Bates sabem que ele tem seu próprio telégrafo pessoal em casa.}{Os AMIGOS do Sr. Bates sabem que ele tem seu próprio telégrafo pessoal em casa.}{}{}{}{ }
+{282}{Vou voltar com o telégrafo e mandar demitir você quando o fizer!}{}{5}{}{240}{ }
+{283}{Deve ter sido instalado recentemente. Faz 5 anos que não venho aqui.}{}{5}{}{258}{lf5 1 }
+{284}{Mas preciso falar com ele, mesmo assim.}{}{5}{qu1040 0}{37}{ }
+{285}{Bem, o que pode me dizer sobre seus sabotadores, então?}{}{5}{qu1040 1}{47}{ }
+{286}{E:}{}{5}{}{0}{ }
+{287}{Isso é informativo, já que o Sr. Bates ficou órfão ainda jovem. Talvez devesse aprender mais sobre seu alvo antes de inventar histórias, hein?}{Isso é informativo, já que o Sr. Bates ficou órfão ainda jovem. Talvez devesse aprender mais sobre seu alvo antes de inventar histórias, hein?}{}{}{}{ }
+{288}{Então, você conhece todos os códigos internos secretos do Sr. Bates, é?}{}{5}{}{228}{ }
+{289}{Deveria aprender mais sobre seu alvo antes de provocar uma briga!}{}{5}{}{0}{fl 193 ,co}
+{290}{Mas preciso falar com ele, mesmo assim.}{}{5}{qu1040 0}{37}{ }
+{291}{Bem, o que pode me dizer sobre seus sabotadores, então?}{}{5}{qu1040 1}{47}{ }
+{292}{E:}{}{5}{}{0}{ }
+{296}{G:}{G:}{}{}{}{ }
+{297}{Sou o novo criado.}{}{5}{}{315}{ }
+{298}{Me Sir vent.}{}{-4}{}{315}{ }
+{299}{Claro. Pode entrar.}{Claro. Pode entrar.}{}{}{}{gf1024 1 }
+{300}{A:}{}{5}{}{-62}{ }
+{301}{A:}{}{-4}{}{-62}{ }
+{302}{O Sr. Bates foi atacado em seu escritório por algum fanático. Graças aos deuses, Chukka estava lá para quebrar o pescoço do intruso antes que ele pudesse causar algum mal.}{O Sr. Bates foi atacado em seu escritório por algum fanático. Graças aos deuses, Chukka estava lá para quebrar o pescoço do intruso antes que ele pudesse causar algum mal.}{}{}{}{ }
+{303}{Deve haver alguma forma de eu vê-lo.}{}{5}{qb1041 1}{37}{lf15 1 }
+{304}{Chukka?}{}{5}{qb1041 1}{307}{ }
+{305}{Deve haver alguma forma de eu vê-lo.}{}{5}{qa1041 2}{450}{ }
+{306}{}{}{}{}{}{ }
+{307}{Chukka é o guarda-costas do Sr. Bates. O Sr. Bates salvou a vida dele de alguma forma, anos atrás. Chukka está ao lado dele desde então.}{Chukka é o guarda-costas do Sr. Bates. O Sr. Bates salvou a vida dele de alguma forma, anos atrás. Chukka está ao lado dele desde então.}{}{}{}{ }
+{308}{Mesmo assim, é imperativo que eu o veja.}{}{5}{}{37}{lf15 1 }
+{309}{Pode entrar.}{Pode entrar.}{}{}{}{ }
+{315}{Claro. Pode entrar.}{Claro. Pode entrar.}{}{}{}{gf1101 1 }
+{316}{A:}{}{5}{}{-48}{ }
+{317}{A:}{}{-4}{}{-48}{ }
+{320}{G:}{G:}{}{}{}{ }
+{321}{Não está me reconhecendo? Sou um criado daqui.}{}{5}{gf1023 0}{-46}{ }
+{322}{Eu criado.}{}{-4}{gf1023 0}{-46}{ }
+{323}{Matei os sabotadores que têm atormentado vocês.}{}{5}{gf1023 1}{127}{ }
+{324}{Eu matei os sabotoores!}{}{-4}{gf1023 1}{127}{ }
+{325}{Então você deveria conhecer as regras. Nenhum criado pode entrar nas dependências a menos que esteja usando seu uniforme.}{Então você deveria conhecer as regras. Nenhum criado pode entrar nas dependências a menos que esteja usando seu uniforme.}{}{}{}{ }
+{326}{Claro, como pude esquecer? Já volto.}{}{5}{}{0}{ }
+{327}{Vou colocar.}{}{-4}{}{0}{ }
+{328}{Eu não sou mais um criado, mas preciso entrar para ver o Sr. Bates.}{}{5}{}{27}{ }
+{329}{Eu não criado, mas preciso falar Bates.}{}{-4}{}{27}{ }
+{330}{Por favor, deixe o portão em paz, senhor.}{Por favor, deixe o portão em paz, senhora.}{}{}{}{ }
+{331}{Já está tarde. Volte pela manhã.}{Já está tarde. Volte pela manhã.}{}{}{}{ }
+{332}{[O guarda rosna para você.] O que você quer?}{[O guarda rosna para você.] O que você quer?}{}{}{}{ }
+{333}{Qual parece ser o problema?}{}{5}{re 30}{340}{ }
+{334}{Qual parece ser o problema?}{}{5}{re -29}{350}{ }
+{335}{O que está errado?}{}{-4}{re 30}{340}{ }
+{336}{O que está errado?}{}{-4}{re -29}{350}{ }
+{339}{E:}{}{1}{}{0}{ }
+{340}{Terá que me perdoar pelo meu espírito menos que cordial, senhor. Um grande homem, Gilbert Bates, foi morto.}{Terá que me perdoar pelo meu espírito menos que cordial, senhora. Um grande homem, Gilbert Bates, foi morto.}{}{}{}{ }
+{341}{Isso é uma pena. Tenha um bom dia.}{}{5}{}{0}{gf1102 1 }
+{342}{Estou ciente desse fato, já que fui eu quem o matou.}{}{5}{}{345}{re -15, gf1102 1 }
+{343}{Isso é muito ruim. Adeus.}{}{-4}{}{0}{gf1102 1 }
+{344}{Eu matei ele.}{}{-4}{}{345}{re -15, gf1102 1 }
+{345}{[Ele lança um olhar furioso para você.] Isso não é motivo para brincadeiras. Se eu achasse que fosse verdade, você estaria morto onde está.}{[Ele lança um olhar furioso para você.] Isso não é motivo para brincadeiras. Se eu achasse que fosse verdade, você estaria morto onde está.}{}{}{}{ }
+{346}{Peço desculpas, então. Tenha um bom dia.}{}{5}{}{0}{ }
+{347}{Eu ri enquanto o via morrer. Foi bem divertido.}{}{5}{}{0}{fl 193 ,co}
+{348}{Eu ri dele enquanto sangrava. Vou te matar agora.}{}{-4}{}{0}{fl 193 ,co}
+{349}{E:}{}{-4}{}{0}{ }
+{350}{Nada que um canalha como você pudesse entender. Um grande homem está morto.}{Nada que um canalha como você pudesse entender. Um grande homem está morto.}{}{}{}{ }
+{351}{Peço desculpas, então. Tenha um bom dia.}{}{5}{}{0}{ }
+{352}{Eu ri enquanto o observava morrer. Foi bastante divertido.}{}{5}{}{0}{fl 193 ,co}
+{353}{Eu rio dele enquanto ele sangra. Vou te matar agora.}{}{-4}{}{0}{fl 193 ,co}
+{354}{E:}{}{-4}{}{0}{ }
+{360}{[O guarda vocifera com você.] O que você quer?}{[O guarda vocifera com você.] O que você quer?}{}{}{}{ }
+{361}{Qual parece ser o problema?}{}{5}{re 30}{369}{ }
+{362}{Qual parece ser o problema?}{}{5}{re -29}{374}{ }
+{363}{O que há de errado?}{}{-4}{re 30}{369}{ }
+{364}{O que há de errado?}{}{-4}{re -29}{374}{ }
+{367}{E:}{}{1}{}{0}{ }
+{369}{Você prestou um desserviço a um grande homem. O Sr. Bates deixou a cidade e não revelará seu paradeiro a ninguém. Se eu não estivesse preso ao meu dever, mataria você agora mesmo pelo sofrimento que causou.}{Você prestou um desserviço a um grande homem. O Sr. Bates deixou a cidade e não revelará seu paradeiro a ninguém. Se eu não estivesse preso ao meu dever, mataria você agora mesmo pelo sofrimento que causou.}{}{}{}{ }
+{370}{Acho que você é um covarde, garoto guarda.}{}{5}{}{374}{re -15, gf1103 1 }
+{371}{Vejo que não sou bem-vindo aqui. Tenha um bom dia.}{}{5}{}{0}{gf1103 1 }
+{372}{Seu guarda medroso.}{}{-4}{}{374}{re -15, gf1103 1 }
+{373}{E:}{}{-4}{}{0}{gf1103 1 }
+{374}{[Suas narinas se dilatam. Parece que ele está se controlando muito para não atacar você.] Sugiro que vá embora, antes que algo indizível aconteça.}{[Suas narinas se dilatam. Parece que ele está se controlando muito para não atacar você.] Sugiro que vá embora, antes que algo indizível aconteça.}{}{}{}{ }
+{375}{Indizível? Como a surra que estou prestes a te dar?}{}{5}{}{0}{fl 193 ,co}
+{376}{Eu não gosto de você. Você é um guarda burro. Você é feio e burro.}{}{-4}{}{0}{fl 193 ,co}
+{377}{Vejo que não sou bem-vindo aqui. Tenha um bom dia.}{}{5}{}{0}{ }
+{378}{E:}{}{-4}{}{0}{ }
+{380}{Circule.}{Circule.}{}{}{}{ }
+{390}{G:}{G:}{}{}{}{ }
+{391}{De quem seria esta casa?}{}{5}{lf1 0}{395}{lf1 1 }
+{392}{Casa de quem?}{}{-4}{lf1 0}{395}{ }
+{393}{Tenho informações do clã Montanha Negra para o Sr. Bates.}{}{5}{qb1013 1, gf 1007 1, qb1014 1, gf1024 0}{152}{ }
+{394}{E:}{}{1}{}{0}{ }
+{395}{O Sr. Bates, o industrialista, mora aqui.}{O Sr. Bates, o industrialista, mora aqui.}{}{}{}{ }
+{396}{Eu... hã... preciso falar com o Sr. Bates.}{}{5}{}{400}{ }
+{397}{Posso entrar?}{}{-4}{}{400}{ }
+{398}{E:}{}{1}{}{0}{ }
+{400}{[Ele olha para você com desconfiança.] E sobre o que seria?}{[Ele olha para você com desconfiança.] E sobre o que seria?}{}{}{}{ }
+{401}{Admiro o trabalho dele.}{}{5}{}{405}{ }
+{402}{Trabalho para o jornal.}{}{5}{}{407}{re -5 }
+{403}{Porque eu quero falar com ele.}{}{-4}{}{405}{ }
+{404}{E:}{}{1}{}{0}{ }
+{405}{O Sr. Bates não gosta de se encontrar com o público. Razões de segurança, e coisas do tipo. Por favor, siga em frente.}{O Sr. Bates não gosta de se encontrar com o público. Razões de segurança, e coisas do tipo. Por favor, siga em frente.}{}{}{}{ }
+{406}{E:}{}{1}{}{0}{ }
+{407}{Então o senhor deveria estar ciente do desprezo do Sr. Bates por aqueles no ramo jornalístico. Tenha um bom dia, senhor.}{Então a senhora deveria estar ciente do desprezo do Sr. Bates por aqueles no ramo jornalístico. Tenha um bom dia, madame.}{}{}{}{ }
+{408}{E:}{}{1}{}{0}{ }
+{415}{Então o senhor deveria conhecer as regras. Nenhum serviçal pode entrar nas dependências a menos que esteja usando seu uniforme.}{Então o senhor deveria conhecer as regras. Nenhum serviçal pode entrar nas dependências a menos que esteja usando seu uniforme.}{}{}{}{ }
+{416}{Mas eu estou usando meu uniforme.}{}{5}{}{425}{ }
+{417}{Mas eu tô com o undiforme?}{}{-4}{}{425}{ }
+{425}{Estou me referindo à gentalha que o segue por aí. Sem roupas de serviçal, sem entrada.}{Estou me referindo à gentalha que o segue por aí. Sem roupas de serviçal, sem entrada.}{}{}{}{ }
+{426}{Claro, como pudemos esquecer? Já voltamos.}{}{5}{}{0}{ }
+{427}{Tá bom. Eu vô embora agora.}{}{-4}{}{0}{ }
+{428}{Independentemente disso, preciso entrar para ver o Sr. Bates.}{}{5}{}{27}{ }
+{429}{Mas eu preciso falá com o Bates?}{}{-4}{}{27}{ }
+{430}{G:}{G:}{}{}{}{ }
+{431}{Sou o serviçal substituto.}{}{5}{}{415}{ }
+{432}{Eu Sir vent.}{}{-4}{}{415}{ }
+{440}{Pode entrar.}{Pode entrar.}{}{}{}{ }
+{441}{A:}{}{5}{qu1040 0}{-48}{ }
+{442}{A:}{}{5}{qa1040 1}{-48}{qu1040 6 }
+{443}{A:}{}{-4}{qu1040 0}{-48}{ }
+{444}{A:}{}{-4}{qa1040 1}{-48}{qu1040 6 }
+{450}{Bem, há algo que você deveria saber, "amigo". Nós temos pessoas vigiando o Appleby, e acontece que sei que você está envolvido com ele. Só estava me divertindo com você... agora sugiro que tire seu traseiro daqui o mais rápido possível.}{Bem, há algo que você deveria saber, "amigo". Nós temos pessoas vigiando o Appleby, e acontece que sei que você está envolvido com ele. Só estava me divertindo com você... agora sugiro que tire seu traseiro daqui o mais rápido possível.}{}{}{}{ }
+{451}{Appleby? Ele tentou me contratar como sabotador, mas eu recusei!}{}{5}{ch10, qb1041 2}{87}{qu1041 6 }
+{452}{Appleby? Ele tentou me contratar como sabotador, mas eu recusei!}{}{5}{ch-9, qb1041 2}{107}{ }
+{453}{Eu, hã, não sei do que você está falando!}{}{5}{qu1041 4}{107}{ }
+{455}{Ele disse que eu queria que eu matasse o Batz enjun, mas eu disse não!}{}{-4}{qb1041 2}{107}{qu1041 6 }
+{456}{Eu hã não sei do que cê tá falano...}{}{-4}{qu1041 4}{107}{ }
+{459}{E:}{}{1}{}{0}{ }
+{460}{Tenho certeza de que sabe, "amigo", mas há algo que você deveria saber. Nós temos pessoas vigiando o Appleby, e acontece que sei que você está envolvido com ele.}{Tenho certeza de que sabe, "amigo", mas há algo que você deveria saber. Nós temos pessoas vigiando o Appleby, e acontece que sei que você está envolvido com ele.}{}{}{}{ }
+{461}{Appleby? Ele tentou me contratar como sabotador, mas eu recusei!}{}{5}{ch10, qb1041 2}{87}{qu1041 6 }
+{462}{Appleby? Ele tentou me contratar como sabotador, mas eu recusei!}{}{5}{ch-9, qb1041 2}{97}{ }
+{463}{Eu, hã, não sei do que você está falando!}{}{5}{qu1041 4}{107}{ }
+{465}{Ele disse que eu queria que eu matasse o Batz enjuto, mas eu disse que não!}{}{-4}{qb1041 2}{97}{ }
+{466}{Eu, hã, não sei do que você tá falando...}{}{-4}{qu1041 4}{107}{ }
+{469}{E:}{}{1}{}{0}{ }
+

@@ -1,0 +1,304 @@
+{1}{Esta é sua última chance, Senhor, antes que eu chame os guardas.}{Esta é sua última chance, Senhora, antes que eu chame os guardas.}{}{}{}{}
+{2}{B:}{}{5}{}{}{}
+{3}{Diga-me, que tipo de quinquilharia o senhor está vendendo, afinal?}{}{5}{}{-20}{}
+{4}{I:}{}{5}{}{1}{Re -5}
+{5}{E:}{}{5}{}{}{}
+{6}{B:}{}{-4}{}{}{}
+{7}{Que quinquilharias o senhor tem? Hein?}{}{-4}{}{-20}{}
+{8}{I:}{}{-4}{}{1}{Re -5}
+{9}{E:}{}{-4}{}{}{}
+{10}{}{}{}{}{}{}
+{11}{}{}{}{}{}{}
+{12}{}{}{}{}{}{}
+{13}{}{}{}{}{}{}
+{14}{}{}{}{}{}{}
+{15}{I:}{}{}{}{}{}
+{16}{B:}{}{5}{}{}{}
+{17}{Que tipo de mercadorias ordinárias o senhor está tentando vender aqui?}{}{5}{}{-20}{}
+{18}{I:}{}{5}{}{15}{Re -5}
+{19}{E:}{}{5}{}{}{}
+{20}{}{}{}{}{}{}
+{21}{B:}{}{-4}{}{}{}
+{22}{Que quinquilharias o senhor tem? Hein?}{}{-4}{}{-20}{}
+{23}{I:}{}{-4}{}{15}{Re -5}
+{24}{E:}{}{-4}{}{}{}
+{25}{}{}{}{}{}{}
+{26}{}{}{}{}{}{}
+{27}{}{}{}{}{}{}
+{28}{}{}{}{}{}{}
+{29}{}{}{}{}{}{}
+{30}{G:}{}{}{}{}{}
+{31}{B:}{}{5}{}{}{}
+{32}{O que o senhor tem para vender?}{}{5}{}{-15}{}
+{33}{E:}{}{5}{}{}{}
+{34}{B:}{}{-4}{}{}{}
+{35}{O que o senhor tem? Hein?}{}{-4}{}{-15}{}
+{36}{E:}{}{-4}{}{}{}
+{37}{}{}{-4}{}{}{}
+{38}{}{}{}{}{}{}
+{39}{}{}{}{}{}{}
+{40}{}{}{}{}{}{}
+{41}{}{}{}{}{}{}
+{42}{}{}{}{}{}{}
+{43}{}{}{}{}{}{}
+{44}{}{}{}{}{}{}
+{45}{G:}{}{}{}{}{}
+{46}{B:}{}{5}{}{}{}
+{47}{O que o senhor tem para vender?}{}{5}{}{-15}{}
+{48}{E:}{}{5}{}{}{}
+{49}{B:}{}{-4}{}{}{}
+{50}{E:}{}{-4}{}{}{}
+{51}{}{}{}{}{}{}
+{52}{}{}{}{}{}{}
+{53}{}{}{}{}{}{}
+{54}{}{}{}{}{}{}
+{55}{}{}{}{}{}{}
+{56}{}{}{}{}{}{}
+{57}{}{}{}{}{}{}
+{58}{}{}{}{}{}{}
+{59}{}{}{}{}{}{}
+{60}{Apenas dê uma olhada, Senhor... Nossa especialidade aqui são mercadorias com preços razoáveis, de excelente qualidade. Casacos de couro, escudos e elmos para seu prazer.}{Apenas dê uma olhada, minha senhora... Nossa especialidade aqui são mercadorias com preços razoáveis, de excelente qualidade. Casacos de couro, escudos e elmos para seu prazer.}{}{}{}{}
+{61}{B:}{}{1}{}{}{}
+{62}{F:}{}{1}{}{30}{}
+{63}{E:}{}{}{}{}{}
+{64}{}{}{}{}{}{}
+{65}{}{}{}{}{}{}
+{66}{}{}{}{}{}{}
+{67}{}{}{}{}{}{}
+{68}{}{}{}{}{}{}
+{69}{}{}{}{}{}{}
+{70}{Nada além do melhor, Senhor... Por que ir a outro lugar? Quando eu tenho os melhores casacos, ternos e acessórios para qualquer ocasião.}{Nada além do melhor, Senhora... Por que ir a outro lugar? Quando eu tenho os melhores casacos, ternos e acessórios para qualquer ocasião.}{}{}{}{}
+{71}{B:}{}{1}{}{}{}
+{72}{F:}{}{1}{}{30}{}
+{73}{E:}{}{}{}{}{}
+{74}{}{}{}{}{}{}
+{75}{}{}{}{}{}{}
+{76}{}{}{}{}{}{}
+{77}{}{}{}{}{}{}
+{78}{}{}{}{}{}{}
+{79}{}{}{}{}{}{}
+{80}{Eu negocio quase exclusivamente com produtos de fabricação bárbara. Os preços dessas mercadorias são os mais baixos que o senhor encontrará em qualquer lugar. A qualidade não é a melhor, mas, novamente, o senhor recebe pelo que paga.}{Eu negocio quase exclusivamente com produtos de fabricação bárbara. Os preços dessas mercadorias são os mais baixos que a senhora encontrará em qualquer lugar. A qualidade não é a melhor, mas, novamente, a senhora recebe pelo que paga.}{}{}{}{}
+{81}{B:}{}{1}{}{}{}
+{82}{F:}{}{1}{}{30}{}
+{83}{E:}{}{}{}{}{}
+{84}{}{}{}{}{}{}
+{85}{}{}{}{}{}{}
+{86}{}{}{}{}{}{}
+{87}{}{}{}{}{}{}
+{88}{}{}{}{}{}{}
+{89}{}{}{}{}{}{}
+{90}{Hmm... vamos dizer apenas que temos as coisas que alguém poderia precisar se estivesse, digamos... no ramo de descontos. Temos roupas, ferramentas e outros artigos diversos para profissionais e amadores.}{Hmm... vamos dizer apenas que temos as coisas que alguém poderia precisar se estivesse, digamos... no ramo de descontos. Temos roupas, ferramentas e outros artigos diversos para profissionais e amadores.}{}{}{}{}
+{91}{B:}{}{1}{}{}{}
+{92}{F:}{}{1}{}{30}{}
+{93}{E:}{}{}{}{}{}
+{94}{}{}{}{}{}{}
+{95}{}{}{}{}{}{}
+{96}{}{}{}{}{}{}
+{97}{}{}{}{}{}{}
+{98}{}{}{}{}{}{}
+{99}{}{}{}{}{}{}
+{100}{Como pode ver, tenho uma excelente coleção das melhores armaduras de cota de malha, laminada e de placas. O senhor pode comprar com confiança, pois este equipamento é mercadoria de alta qualidade e um investimento prudente.}{Como pode ver, tenho uma excelente coleção das melhores armaduras de cota de malha, laminada e de placas. A senhora pode comprar com confiança, pois este equipamento é mercadoria de alta qualidade e um investimento prudente.}{}{}{}{}
+{101}{B:}{}{1}{}{}{}
+{102}{F:}{}{1}{}{30}{}
+{103}{E:}{}{}{}{}{}
+{104}{}{}{}{}{}{}
+{105}{}{}{}{}{}{}
+{106}{}{}{}{}{}{}
+{107}{}{}{}{}{}{}
+{108}{}{}{}{}{}{}
+{109}{}{}{}{}{}{}
+{110}{Se não é forjado por anões, eu não me daria ao trabalho de possuir! Qualidade para durar mil anos. Eu vendo cota de malha e armadura de placas. Às vezes consigo um conjunto de mithril, mas vai rápido. Dê uma olhada e sirva-se.}{Se não é forjado por anões, eu não me daria ao trabalho de possuir! Qualidade para durar mil anos. Eu vendo cota de malha e armadura de placas. Às vezes consigo um conjunto de mithril, mas vai rápido. Dê uma olhada e sirva-se.}{}{}{}{}
+{111}{B:}{}{1}{}{}{}
+{112}{F:}{}{1}{}{30}{}
+{113}{E:}{}{}{}{}{}
+{114}{}{}{}{}{}{}
+{115}{}{}{}{}{}{}
+{116}{}{}{}{}{}{}
+{117}{}{}{}{}{}{}
+{118}{}{}{}{}{}{}
+{119}{}{}{}{}{}{}
+{120}{Temos um modesto estoque de roupas duráveis e duradouras para trabalhadores de todos os ofícios. Se o senhor fica bem, nós ficamos bem, eu digo. Roupas comuns para gente comum. Esse é nosso lema.}{Temos um modesto estoque de roupas duráveis e duradouras para trabalhadoras de todos os ofícios. Se a senhora fica bem, nós ficamos bem, eu digo. Roupas comuns para gente comum. Esse é nosso lema.}{}{}{}{}
+{121}{B:}{}{1}{}{}{}
+{122}{F:}{}{1}{}{30}{}
+{123}{E:}{}{}{}{}{}
+{124}{}{}{}{}{}{}
+{125}{}{}{}{}{}{}
+{126}{}{}{}{}{}{}
+{127}{}{}{}{}{}{}
+{128}{}{}{}{}{}{}
+{129}{}{}{}{}{}{}
+{130}{Para seu prazer, reuni uma bela coleção de armamentos. Uma boa seleção de armas finas para o cavalheiro exigente.}{Para seu prazer, reuni uma bela coleção de armamentos. Uma boa seleção de armas finas para a dama exigente.}{}{}{}{}
+{131}{B:}{}{1}{}{}{}
+{132}{F:}{}{1}{}{30}{}
+{133}{E:}{}{}{}{}{}
+{134}{}{}{}{}{}{}
+{135}{}{}{}{}{}{}
+{136}{}{}{}{}{}{}
+{137}{}{}{}{}{}{}
+{138}{}{}{}{}{}{}
+{139}{}{}{}{}{}{}
+{140}{Fico feliz que tenha perguntado! Minha especialidade aqui são itens de proteção de natureza mágica. Tenho armaduras de couro, cota de malha e placas encantadas magicamente, robes de proteção e alguns outros itens diversos. Sinta-se à vontade para dar uma olhada! Estou ao seu dispor, bom Senhor.}{Fico feliz que tenha perguntado! Minha especialidade aqui são itens de proteção de natureza mágica. Tenho armaduras de couro, cota de malha e placas encantadas magicamente, robes de proteção e alguns outros itens diversos. Sinta-se à vontade para dar uma olhada! Estou ao seu dispor, minha senhora.}{}{}{}{}
+{141}{B:}{}{1}{}{}{}
+{142}{F:}{}{1}{}{30}{}
+{143}{E:}{}{}{}{}{}
+{144}{}{}{}{}{}{}
+{145}{}{}{}{}{}{}
+{146}{}{}{}{}{}{}
+{147}{}{}{}{}{}{}
+{148}{}{}{}{}{}{}
+{149}{}{}{}{}{}{}
+{150}{Nós vendemos armas de fogo e munições de precisão. Até temos alguns itens especiais. Nada de magia é permitido nesta loja, o senhor conhece as regras! Dê uma olhada à vontade, mas tenha cuidado. Se tiver alguma dúvida, me avise.}{Nós vendemos armas de fogo e munições de precisão. Até temos alguns itens especiais. Nada de magia é permitido nesta loja, a senhora conhece as regras! Dê uma olhada à vontade, mas tenha cuidado. Se tiver alguma dúvida, me avise.}{}{}{}{}
+{151}{B:}{}{1}{}{}{}
+{152}{F:}{}{1}{}{30}{}
+{153}{E:}{}{}{}{}{}
+{154}{}{}{}{}{}{}
+{155}{}{}{}{}{}{}
+{156}{}{}{}{}{}{}
+{157}{}{}{}{}{}{}
+{158}{}{}{}{}{}{}
+{159}{}{}{}{}{}{}
+{160}{Nós temos o que há de melhor em proteção pessoal. Conjuntos completos de armaduras de cota de malha e placas aprimoradas. Nosso equipamento é mais leve, mais resistente e impermeável a chamas e fogo. Por favor, nada de magia é permitido nesta loja! Meu segurador insiste nisso!}{Temos o que há de melhor em proteção pessoal. Conjuntos completos de cota de malha e armadura de placas aprimoradas. Nosso equipamento é mais leve, resistente e imune a chamas e fogo. Por favor, nada de magia nesta loja! Meu segurador insiste nisso!}{}{}{}{}
+{161}{B:}{}{1}{}{}{}
+{162}{F:}{}{1}{}{30}{}
+{163}{E:}{}{}{}{}{}
+{164}{}{}{}{}{}{}
+{165}{}{}{}{}{}{}
+{166}{}{}{}{}{}{}
+{167}{}{}{}{}{}{}
+{168}{}{}{}{}{}{}
+{169}{}{}{}{}{}{}
+{170}{A armadura anã é a melhor em Arcanum! Nosso equipamento é o mais leve, resistente e duradouro da região. Feito para durar quinhentos anos, nossa qualidade e artesanato são incomparáveis. Também temos uma boa variedade de tamanhos. Avise-me se puder ajudar em algo mais.}{A armadura anã é a melhor em Arcanum! Nosso equipamento é o mais leve, resistente e duradouro da região. Feito para durar quinhentos anos, nossa qualidade e artesanato são incomparáveis. Também temos uma boa variedade de tamanhos. Avise-me se puder ajudar em algo mais.}{}{}{}{}
+{171}{B:}{}{1}{}{}{}
+{172}{F:}{}{1}{}{30}{}
+{173}{E:}{}{}{}{}{}
+{174}{}{}{}{}{}{}
+{175}{}{}{}{}{}{}
+{176}{}{}{}{}{}{}
+{177}{}{}{}{}{}{}
+{178}{}{}{}{}{}{}
+{179}{}{}{}{}{}{}
+{180}{Nobre senhor, tenho para seu deleite as mais requintadas peças de joalheria fina que provavelmente encontrará em qualquer lugar. Os melhores materiais, selecionados à mão e trabalhados individualmente em peças de arte! Não são meros itens de moda, como tenho certeza de que sabe. Encantadas magicamente para máximo benefício em diversas situações. Por favor, examine nossa seleção à vontade.}{Senhora, tenho para seu deleite as mais requintadas peças de joalheria fina que provavelmente encontrará em qualquer lugar. Os melhores materiais, selecionados à mão e trabalhados individualmente em peças de arte! Não são meros itens de moda, como tenho certeza de que sabe. Encantadas magicamente para máximo benefício em diversas situações. Por favor, examine nossa seleção à vontade.}{}{}{}{}
+{181}{B:}{}{1}{}{}{}
+{182}{F:}{}{1}{}{30}{}
+{183}{E:}{}{}{}{}{}
+{184}{}{}{}{}{}{}
+{185}{}{}{}{}{}{}
+{186}{}{}{}{}{}{}
+{187}{}{}{}{}{}{}
+{188}{}{}{}{}{}{}
+{189}{}{}{}{}{}{}
+{190}{Tenho poções mágicas, elixires e outros artigos diversos. Essas poções são garantidamente confiáveis, feitas com os melhores ingredientes, coletados dos confins de Arcanum e misturados especialmente para meus clientes. Se precisar de ajuda, é só me avisar.}{Tenho poções mágicas, elixires e outros artigos diversos. Essas poções são garantidamente confiáveis, feitas com os melhores ingredientes, coletados dos confins de Arcanum e misturados especialmente para meus clientes. Se precisar de ajuda, é só me avisar.}{}{}{}{}
+{191}{B:}{}{1}{}{}{}
+{192}{F:}{}{1}{}{30}{}
+{193}{E:}{}{}{}{}{}
+{194}{}{}{}{}{}{}
+{195}{}{}{}{}{}{}
+{196}{}{}{}{}{}{}
+{197}{}{}{}{}{}{}
+{198}{}{}{}{}{}{}
+{199}{}{}{}{}{}{}
+{200}{Tenho os mais avançados unguentos, elixires, pílulas, pós e pomadas de fórmula. Cada item é embalado individualmente e garantido como eficaz. Se precisar de algo, eu consigo para você, é só me avisar.}{Tenho os mais avançados unguentos, elixires, pílulas, pós e pomadas de fórmula. Cada item é embalado individualmente e garantido como eficaz. Se precisar de algo, eu consigo para você, é só me avisar.}{}{}{}{}
+{201}{B:}{}{1}{}{}{}
+{202}{F:}{}{1}{}{30}{}
+{203}{E:}{}{}{}{}{}
+{204}{}{}{}{}{}{}
+{205}{}{}{}{}{}{}
+{206}{}{}{}{}{}{}
+{207}{}{}{}{}{}{}
+{208}{}{}{}{}{}{}
+{209}{}{}{}{}{}{}
+{210}{Olhe ao seu redor e seja rápido. Ou compre algo ou saia! Não tenho o dia todo para gente como você.}{Estou de olho em você. Ou compre algo ou saia!}{}{}{}{}
+{211}{B:}{}{5}{}{}{}
+{212}{I:}{}{5}{}{}{Re -5}
+{213}{F:}{}{5}{}{}{}
+{214}{E:}{}{5}{}{}{}
+{215}{B:}{}{-4}{}{}{}
+{216}{E:}{}{-4}{}{}{}
+{217}{Tudo o que você pode comprar está aqui. Se não tenho o que você quer, sugiro que vá a outro lugar.}{Tudo o que você pode comprar está aqui. Se não tenho o que você quer, terá que ir a outro lugar.}{}{}{}{}
+{218}{B:}{}{5}{}{}{}
+{219}{I:}{}{5}{}{}{Re -5}
+{220}{F:}{}{5}{}{}{}
+{221}{E:}{}{5}{}{}{}
+{222}{B:}{}{-4}{}{}{}
+{223}{E:}{}{-4}{}{}{}
+{224}{Por que eu deveria me incomodar com suas perguntas? Duvido que possa pagar nem mesmo as coisas baratas! Por que não faz um favor a nós dois e sai daqui?}{Por que eu deveria me incomodar com suas perguntas? Duvido que possa pagar nem mesmo as coisas baratas! Por que não faz um favor a nós dois e sai daqui?}{}{}{}{}
+{225}{B:}{}{5}{}{}{}
+{226}{I:}{}{5}{}{}{Re -5}
+{227}{F:}{}{5}{}{}{}
+{228}{E:}{}{5}{}{}{}
+{229}{B:}{}{-4}{}{}{}
+{230}{E:}{}{-4}{}{}{}
+{231}{}{}{}{}{}{}
+{232}{}{}{}{}{}{}
+{233}{}{}{}{}{}{}
+{234}{}{}{}{}{}{}
+{235}{}{}{}{}{}{}
+{236}{}{}{}{}{}{}
+{237}{}{}{}{}{}{}
+{238}{}{}{}{}{}{}
+{239}{}{}{}{}{}{}
+{240}{Comerciante Gnômico (texto)}{Comerciante Gnômico (texto)}{}{}{}{}
+{241}{B:}{}{1}{}{}{}
+{242}{F:}{}{1}{}{30}{}
+{243}{E:}{}{}{}{}{}
+{244}{}{}{}{}{}{}
+{245}{}{}{}{}{}{}
+{246}{}{}{}{}{}{}
+{247}{}{}{}{}{}{}
+{248}{}{}{}{}{}{}
+{249}{}{}{}{}{}{}
+{250}{Inventor (texto)}{Inventor (texto)}{}{}{}{}
+{251}{B:}{}{1}{}{}{}
+{252}{F:}{}{1}{}{30}{}
+{253}{E:}{}{}{}{}{}
+{254}{}{}{}{}{}{}
+{255}{}{}{}{}{}{}
+{256}{}{}{}{}{}{}
+{257}{}{}{}{}{}{}
+{258}{}{}{}{}{}{}
+{259}{}{}{}{}{}{}
+{260}{Comerciante de Sucata (texto)}{Comerciante de Sucata (texto)}{}{}{}{}
+{261}{B:}{}{1}{}{}{}
+{262}{F:}{}{1}{}{30}{}
+{263}{E:}{}{}{}{}{}
+{264}{}{}{}{}{}{}
+{265}{}{}{}{}{}{}
+{266}{}{}{}{}{}{}
+{267}{}{}{}{}{}{}
+{268}{}{}{}{}{}{}
+{269}{}{}{}{}{}{}
+{270}{Magia (Texto Geral)}{Magia (Texto Geral)}{}{}{}{}
+{271}{B:}{}{1}{}{}{}
+{272}{F:}{}{1}{}{30}{}
+{273}{E:}{}{}{}{}{}
+{274}{}{}{}{}{}{}
+{275}{}{}{}{}{}{}
+{276}{}{}{}{}{}{}
+{277}{}{}{}{}{}{}
+{278}{}{}{}{}{}{}
+{279}{}{}{}{}{}{}
+{280}{Magia (Texto Sombrio)}{Magia (Texto Sombrio)}{}{}{}{}
+{281}{B:}{}{1}{}{}{}
+{282}{F:}{}{1}{}{30}{}
+{283}{E:}{}{}{}{}{}
+{284}{}{}{}{}{}{}
+{285}{}{}{}{}{}{}
+{286}{}{}{}{}{}{}
+{287}{}{}{}{}{}{}
+{288}{}{}{}{}{}{}
+{289}{}{}{}{}{}{}
+{290}{Comerciante Élfico (Texto)}{Comerciante Élfico (Texto)}{}{}{}{}
+{291}{B:}{}{1}{}{}{}
+{292}{F:}{}{1}{}{30}{}
+{293}{E:}{}{}{}{}{}
+{294}{}{}{}{}{}{}
+{295}{}{}{}{}{}{}
+{296}{}{}{}{}{}{}
+{297}{}{}{}{}{}{}
+{298}{}{}{}{}{}{}
+{299}{}{}{}{}{}{}
+{300}{Loja Geral (texto)}{Loja Geral (texto)}{}{}{}{}
+{301}{B:}{}{1}{}{}{}
+{302}{F:}{}{1}{}{30}{}
+{303}{E:}{}{}{}{}{}
+

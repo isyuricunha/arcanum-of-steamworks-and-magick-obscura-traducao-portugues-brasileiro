@@ -1,0 +1,172 @@
+{1}{Com o que posso ajudá-lo, senhor?}{Em que posso ajudá-la, senhorita?}{}{}{}{}
+{2}{Saudações. Quem é você?}{}{5}{re 41, lf11 0}{23}{}
+{3}{Saudações, Laura. Você pode me ajudar com algo?}{}{5}{re 41, lf11 1}{33}{}
+{4}{Você não pode morar aqui, subalterno. Quem é você?}{}{5}{re -40, lf11 0}{23}{}
+{5}{Ainda sem modos? ...não importa. Preciso da sua ajuda.}{}{5}{re -40, lf11 1}{33}{}
+{6}{Qual é o seu nome?}{}{-4}{re 41, lf11 0}{23}{}
+{7}{Ei, Laura... Me deixa te perguntar uma coisa?}{}{-4}{re 41, lf11 1}{33}{}
+{8}{Qual o seu nome, malvado?}{}{-4}{re -40, lf11 0}{23}{}
+{9}{Isso foi rude, Lara... Me deixa te perguntar uma coisa?}{}{-4}{re -40, lf11 1}{33}{}
+{10}{I:}{}{1}{re -40}{0}{re -2}
+{11}{Eu preciso daquele colar, Laura!}{}{5}{lf12 1, lf13 0, lf 15 0, qb1125 2}{69}{}
+{12}{Me dá o colar, Lara!}{}{-4}{lf12 1, lf13 0, lf 15 0, qb1125 2}{69}{}
+{13}{Eu tenho as 50 moedas...}{}{5}{lf13 1, $$50, lf 15 0, qb1125 2}{109}{}
+{14}{Eu tenho 50 moedas...}{}{-4}{lf13 1, $$50, lf 15 0, qb1125 2}{109}{}
+{15}{Hã, Laura? ...Posso te perguntar mais uma coisa?}{}{5}{QU1125 3}{33}{}
+{16}{Hã... Lara? Me deixa perguntar mais uma coisa?}{}{-4}{QU1125 3}{33}{}
+{17}{E:}{}{1}{}{}{}
+{22}{Nãooo! Socorro! Socorro!}{Nãooo! Socorro! Socorro!}{}{}{}{}
+{23}{Eu sou Laura, a governanta.}{Eu sou Laura, a governanta.}{}{}{}{lf11 1}
+{24}{Esta não é a residência dos Mooreland?}{}{5}{QU1125 2, lf 16 0}{29}{lf 16 1}
+{25}{Esta é a casa do Senhor More Land?}{}{-4}{QU1125 2, lf 16 0}{29}{lf 16 1}
+{26}{Você pode me ajudar com algo?}{}{5}{}{33}{}
+{27}{Eu pergunto uma coisa?}{}{-4}{}{33}{}
+{28}{E:}{}{1}{}{0}{}
+{29}{O Sr. e a Sra. Mooreland saíram de férias.}{O Sr. e a Sra. Mooreland saíram de férias.}{}{}{}{}
+{30}{Ah, excelente. Você pode me ajudar com algo?}{}{5}{}{33}{}
+{31}{Ah, bom. Você me arruma uma coisa?}{}{-4}{}{33}{}
+{32}{E:}{}{1}{}{0}{}
+{33}{Talvez. Isso depende do pedido.}{Talvez. Isso depende do pedido.}{}{}{}{}
+{34}{T:9}{}{1}{}{45}{}
+{35}{R:$0,1040-1049}{}{1}{}{45}{}
+{36}{Eu venho da parte da Madame Lil...}{}{5}{QU1125 2}{59}{}
+{37}{Madame Lil me mandou...}{}{-4}{QU1125 2}{59}{}
+{38}{Ah, só queria agradecer novamente pelo colar. Adeus.}{}{5}{QU1125 3}{0}{}
+{39}{Obrigada de novo pelo colar. Tchau.}{}{-4}{QU1125 3}{0}{}
+{40}{E:}{}{1}{}{}{}
+{41}{}{}{}{}{}{}
+{42}{}{}{}{}{}{}
+{43}{}{}{}{}{}{}
+{44}{}{}{}{}{}{}
+{45}{Precisa de mais alguma coisa?}{Precisa de mais alguma coisa?}{}{}{}{}
+{46}{T:9}{}{1}{}{45}{}
+{47}{R:$0,1040-1049}{}{1}{}{45}{}
+{48}{Eu venho da parte da Madame Lil...}{}{5}{QU1125 2}{59}{}
+{49}{Madame Lil me mandou...}{}{-4}{QU1125 2}{59}{}
+{50}{E:}{}{1}{}{0}{}
+{59}{Ah, então foi de lá que veio essa bela joia...}{Ah, então foi de lá que veio essa bela joia...}{}{}{}{}
+{60}{Ah, bom. Você encontrou o colar.}{}{5}{}{63}{}
+{61}{Você pegou o colar?}{}{-4}{}{63}{}
+{62}{E:}{}{1}{}{0}{}
+{63}{Ah, sim. Eu o encontrei logo depois que aquela puta da Cassie foi embora... Ainda bem... A Sra. Mooreland chegou em casa e resolveu "inspecionar minha limpeza" menos de uma hora depois que ela saiu. Ela teria encontrado com certeza!}{Ah, sim. Eu o encontrei logo depois que aquela puta da Cassie foi embora... Ainda bem... A Sra. Mooreland chegou em casa e resolveu "inspecionar minha limpeza" menos de uma hora depois que ela saiu. Ela teria encontrado com certeza!}{}{}{}{}
+{64}{Tenho certeza de que Madame Lil ficará feliz por você ter chegado primeiro. Onde ele está?}{}{5}{}{69}{}
+{65}{Ótimo. Deixe-me ficar com ele.}{}{5}{}{69}{}
+{66}{Oh! Madame Lil vai ficar feliz por você ter pegado. Aqui. Me dê... Eu levo de volta.}{}{-4}{}{69}{}
+{67}{Hã... Sim. Me dê aqui.}{}{-4}{}{69}{}
+{68}{E:}{}{1}{}{0}{}
+{69}{Espere aí, senhor... Eu escondi da Sra. Mooreland. Fiquei quieta sobre isso... Guardei em segurança todo esse tempo... O que você vai me dar como recompensa?}{Espere aí, mocinha... Eu escondi da Sra. Mooreland. Fiquei quieta sobre isso... Guardei em segurança todo esse tempo... O que você vai me dar como recompensa?}{}{}{}{lf12 1}
+{70}{Recompensa! Não é para isso que o Sr. Moorland te paga, garota?}{}{5}{}{77}{}
+{71}{Err... Sim... Entendo que você merece algo pelo seu trabalho.}{}{5}{}{123}{}
+{72}{Bem, Madame Lil não mencionou nada sobre uma recompensa...}{}{5}{ps 6}{161}{}
+{73}{O quê! O Sr. Moor Land te paga por isso! Não tem recompensa!}{}{-4}{}{77}{}
+{74}{Hã... Sim... Eu entendo o que você quer dizer. Você trabalha duro...}{}{-4}{}{123}{}
+{75}{Hã... Madame Lil não disse nada sobre recompensa...}{}{-4}{ps 6}{161}{}
+{76}{E:}{}{1}{}{0}{}
+{77}{Eles não pagam nada! Trabalho até meus dedos sangrarem por aqueles dois, você acha que eles iam valorizar uma garota, né? Errado! Sempre me chamando de preguiçosa e inútil. Riquinhos de merda! Se eu não estivesse tão desesperada pelo dinheiro... Iria embora num piscar de olhos!}{Eles não pagam nada! Trabalho até meus dedos sangrarem por aqueles dois, você acha que eles iam valorizar uma garota, né? Errado! Sempre me chamando de preguiçosa e inútil. Riquinhos de merda! Se eu não estivesse tão desesperada pelo dinheiro... Iria embora num piscar de olhos!}{}{}{}{}
+{78}{A relação com seu empregador não é da minha conta. Me dê o colar.}{}{5}{}{83}{}
+{79}{Sinto muito que você não esteja feliz, mas tenho que pegar o colar de volta.}{}{5}{}{83}{}
+{80}{Me desculpe você tá triste... Mas eu tenho que pegar ele de volta.}{}{-4}{}{83}{}
+{81}{Eu não tô nem aí pro seu trabalho! Me dá o colar!}{}{-4}{}{83}{}
+{82}{E:}{}{1}{}{0}{}
+{83}{[emburrada] Acho que mereço um trocadinho pelo meu esforço!}{[emburrada] Acho que mereço um trocadinho pelo meu esforço!}{}{}{}{}
+{84}{Não é muito, mas você ficaria feliz com 25 moedas?}{}{5}{$$25}{98}{}
+{85}{Você vai merecer uma surra se não me der isso...}{}{5}{}{91}{}
+{86}{[ameaçador] Me dê isso... agora!}{}{5}{}{91}{}
+{87}{Você fica feliz se eu der 25 moedas por esse colarzinho?}{}{-4}{$$25}{98}{}
+{88}{Você vai se machucar se não me der isso...}{}{-4}{}{91}{}
+{89}{[ameaçador] Me dê isso... agora!}{}{-4}{}{91}{}
+{90}{E:}{}{1}{}{0}{}
+{91}{[empalidecendo de medo] Aqui! Pegue! Saia agora, antes que eu chame a guarda!}{[empalidecendo de medo] Aqui! Pegue! Saia agora, antes que eu chame a guarda!}{}{}{}{re -10, in -2826, QU1125 3, lf 15 1}
+{92}{É uma garota esperta... Foi menos que um prazer...}{}{5}{}{0}{}
+{93}{Humpf... mais esperta do que parecia. Adeus.}{}{5}{}{0}{}
+{94}{Já é tarde demais para isso... você me deixou com raiva. [os olhos dela crescem enormemente]}{}{5}{}{}{co, fl 22}
+{95}{Melhor assim. Tchau, malvada.}{}{-4}{}{0}{}
+{96}{Hmm... Não é tão burra quanto parece. Tchau...}{}{-4}{}{0}{}
+{97}{Não é bom o suficiente... Você me deixou com raiva agora! [ela começa a gritar]}{}{-4}{}{}{co, fl 22}
+{98}{25 moedas! Ora, isso é um insulto! Por tudo que eu fiz!}{25 moedas! Ora, isso é um insulto! Por tudo que eu fiz!}{}{}{}{}
+{99}{Sinto muito, Laura, mas é tudo que tenho para oferecer...}{}{5}{sk9 6}{106}{}
+{100}{Sinto muito, Laura, mas é tudo que tenho para oferecer...}{}{5}{sk9 -5}{115}{}
+{101}{Acho que fui generosa, aceite a oferta... [ameaçador] ou então...}{}{5}{}{91}{}
+{102}{Me desculpa, Lara... Num tenho mais qui isso...}{}{-4}{sk9 6}{106}{}
+{103}{Me desculpa, Lara... Num tenho mais qui isso...}{}{-4}{sk9 -5}{115}{}
+{104}{Eu fui legal! Você pega as moedas... [ameaçador] ou eu te pego...}{}{-4}{}{91}{}
+{105}{E:}{}{1}{}{0}{}
+{106}{Ah... Bem... Acho que vai ter que servir, não é? Aqui está o colar. [estende-o] Me dê as moedas.}{Ah... Bem... Acho que vai ter que servir, não é? Aqui está o colar. [estende-o] Me dê as moedas.}{}{}{}{$$-25, in -2826, QU1125 3, lf 15 1}
+{107}{Aqui está. Obrigado, Laura. Adeus.}{}{5}{}{0}{}
+{108}{Aqui. Brigado, Lara. Tchau.}{}{-4}{}{0}{}
+{109}{É mais assim. Aqui está. 'Foi um prazer fazer negócios com você.'}{É mais assim. Aqui está. 'Foi um prazer fazer negócios com você.'}{}{}{}{$$-50, in -2826, QU1125 3, lf 15 1}
+{110}{Adeus!}{}{5}{}{0}{}
+{111}{Tchau-tchau!}{}{-4}{}{0}{}
+{112}{Obrigado! ...[ameaçador] Agora sobre aquelas moedas...}{}{5}{}{}{co, fl 22}
+{113}{Bom! ...[ameaçador] ...Hora de devolver as moedas agora...}{}{-4}{}{}{co, fl 22}
+{114}{E:}{}{1}{}{0}{}
+{115}{Ha! Não tente me enganar! Eu sei que a Madame Lil te mandou... e aquela "senhora" está nadando em moedas! Quero 50, e não aceito nem uma moeda a menos!}{Ha! Não tente me enganar! Eu sei que a Madame Lil te mandou... e aquela "senhora" está nadando em moedas! Quero 50, e não aceito nem uma moeda a menos!}{}{}{}{lf13 1}
+{116}{[resmungando] Tudo bem! Aqui. Me dê o colar!}{}{5}{$$50}{109}{}
+{117}{Acho que já fui generoso, aceite a oferta... [ameaçador] ou então...}{}{5}{}{91}{}
+{118}{[resmungando] Aqui! Pegue a moeda! Agora me dê o colar!}{}{-4}{$$50}{109}{}
+{119}{Eu fui legal! Você pega a moeda... [ameaçador] ou eu te pego...}{}{-4}{}{91}{}
+{120}{Vou voltar quando tiver isso!}{}{5}{$$-49}{0}{}
+{121}{Eu vou buscar mais moedas!}{}{-4}{$$-49}{0}{}
+{122}{E:}{}{1}{}{0}{}
+{123}{É! Eu trabalho tanto. Labutando o dia inteiro. Mantendo tudo limpinho e arrumado pros Moorelands... [fungada] Você acha que eles me valorizam? Não! Nem um pouco! Sempre me chamando de preguiçosa e inútil. Gente rica que não serve pra nada! Se eu não estivesse tão desesperada por dinheiro... iria embora num instante!}{É! Eu trabalho tanto. Labutando o dia inteiro. Mantendo tudo limpinho e arrumado pros Moorelands... [fungada] Você acha que eles me valorizam? Não! Nem um pouco! Sempre me chamando de preguiçosa e inútil. Gente rica que não serve pra nada! Se eu não estivesse tão desesperada por dinheiro... iria embora num instante!}{}{}{}{}
+{124}{Seu relacionamento com seu empregador não é da minha conta. Me dê o colar.}{}{5}{}{83}{}
+{125}{Sinto muito que você não esteja feliz, mas preciso pegar esse colar de volta.}{}{5}{}{83}{}
+{126}{Coitadinha. Você poderia fazer muito melhor por si mesma.}{}{5}{}{131}{}
+{127}{Eu sinto que você tá triste... Mas eu tenho que pegar ele de volta.}{}{-4}{}{83}{}
+{128}{Eu não tô nem aí pro seu trabalho! Me dê o colar!}{}{-4}{}{83}{}
+{129}{Por que você tá aqui? Você podia fazer coisa melhor...}{}{-4}{}{131}{}
+{130}{E:}{}{1}{}{0}{}
+{131}{[olhando para você com lágrimas brilhando nos olhos] O que você quer dizer?}{[olhando para você com lágrimas brilhando nos olhos] O que você quer dizer?}{}{}{}{}
+{132}{Você é uma coisinha bonita... Devia usar isso a seu favor...}{}{5}{}{137}{}
+{133}{Por que não aproveitar sua juventude e beleza...}{}{5}{}{137}{}
+{134}{Você é bonita. Você devia tirar 'vantagem disso...}{}{-4}{}{137}{}
+{135}{Por que você não tira 'vantagem de ser nova e bonita...}{}{-4}{}{137}{}
+{136}{E:}{}{1}{}{0}{}
+{137}{Vantagem? Do que você tá falando?}{Vantagem? Do que você tá falando?}{}{}{}{}
+{138}{Bom... Você já viu as moças da Madame Lil?}{}{5}{}{140}{}
+{139}{Hã... Você viu as moças da Madame Lils?}{}{-4}{}{140}{}
+{140}{Madame Lil! Aquelas moças devem ser as pessoas mais ricas do mundo... sempre vestidas com a melhor seda, os vestidos mais lindos... Não é como se o trabalho delas fosse "difícil". [suspiro] Elas devem levar vidas tão maravilhosas...}{Madame Lil! Aquelas moças devem ser as pessoas mais ricas do mundo... sempre vestidas com a melhor seda, os vestidos mais lindos... Não é como se o trabalho delas fosse "difícil". [suspiro] Elas devem levar vidas tão maravilhosas...}{}{}{}{}
+{141}{Uma moça jovem como você poderia facilmente arrumar trabalho lá...}{}{5}{ch 9}{150}{}
+{142}{Uma moça jovem como você poderia facilmente arrumar trabalho lá...}{}{5}{ch -8}{173}{}
+{143}{Com sua aparência, você poderia ser uma delas...}{}{5}{ps 4}{150}{}
+{144}{Com sua aparência, você poderia ser uma delas...}{}{5}{ps -3}{173}{}
+{145}{Aposto que você é uma das garotas da Madame...}{}{-4}{ch 9}{150}{}
+{146}{Aposto que você é uma das garotas da Madame...}{}{-4}{ch -8}{173}{}
+{147}{Você é bonita...}{}{-4}{ps 4}{150}{}
+{148}{Você é bonita...}{}{-4}{ps -3}{173}{}
+{149}{E:}{}{1}{}{0}{}
+{150}{Você... Você realmente acha isso?}{Você... Você realmente acha isso?}{}{}{}{}
+{151}{Ah, sim. Aqui. Me dê o colar, depois vá falar com ela.}{}{5}{}{154}{}
+{152}{É. Me dá o colar... depois vai falar com a Madame.}{}{-4}{}{154}{}
+{153}{E:}{}{1}{}{0}{}
+{154}{Tem certeza? ...Aquelas garotas... Elas são lindas! E refinadas! Como é que eu vou ficar refinada?}{Tem certeza? ...Aquelas garotas... Elas são lindas! E refinadas! Como é que eu vou ficar refinada?}{}{}{}{}
+{155}{Um pouco de prática, e você será uma debutante brilhante. Agora vá falar com ela.}{}{5}{}{158}{}
+{156}{Você só precisa de um pouco de prática. Vai ver. Você é a melhor. Agora vai falar com ela.}{}{-4}{}{158}{}
+{157}{E:}{}{1}{}{0}{}
+{158}{Hmm... Tá bom. Vou me arrumar um pouco... depois vou falar com ela. [de repente sorri largamente e te dá um beijo] ...Sabe, você pode ser a melhor coisa que já me aconteceu. Aqui. Pegue o colar. [entrega para você] Muito obrigada!}{Hmm... Tá bom. Vou me arrumar um pouco... depois vou falar com ela. [sorri largamente] ...Sabe, você pode ser a melhor coisa que já me aconteceu. Aqui. Pegue o colar. [entrega para você] Muito obrigada!}{}{}{}{in -2826, QU1125 3, GF2337 1 , lf 15 1}
+{159}{De nada. Talvez eu te veja por lá. Adeus.}{}{5}{}{0}{}
+{160}{Valeu. Você vai ser a melhor garota por lá! Tchau!}{}{-4}{}{0}{}
+{161}{Madame Lil! Claro que ela não pensaria em oferecer uma recompensa! Dinheiro não significa nada para ela! Ela e suas garotas têm tanto que nem pensam mais nisso...}{Madame Lil! Claro que ela não pensaria em oferecer uma recompensa! Dinheiro não significa nada para ela! Ela e suas garotas têm tanto que nem pensam mais nisso...}{}{}{}{}
+{162}{Ora, Laura, tenho certeza de que não é bem assim...}{}{5}{}{165}{}
+{163}{Isso não é verdade...}{}{-4}{}{165}{}
+{164}{E:}{}{1}{}{0}{}
+{165}{Você não sabe! Você não está aqui quando as garotas chegam! ...sempre vestidas com a melhor seda, os vestidos mais lindos... [suspiro]}{Você não sabe! Você não está aqui quando as garotas chegam! ...sempre vestidas com a melhor seda, os vestidos mais lindos... [suspiro]}{}{}{}{}
+{166}{Hmm... sabe... Você é uma mulher bem bonita...}{}{5}{}{169}{}
+{167}{Hmm... Você sabe... Você é uma mulher muito bonita...}{}{-4}{}{169}{}
+{168}{E:}{}{1}{}{0}{}
+{169}{O que é que isso tem a ver com alguma coisa!}{O que é que isso tem a ver com alguma coisa!}{}{}{}{}
+{170}{Você parece admirar as garotas da Madame Lil. Por que não trabalha lá?}{}{5}{}{140}{}
+{171}{Eu acho que você gosta das garotas da Madame... Por que não trabalha lá?}{}{-4}{}{140}{}
+{172}{E:}{}{1}{}{0}{}
+{173}{Ha! Tá bom! Não sei que tipo de papo furado você está tentando me vender, parceiro, mas não vai te dar o colar!}{Ha! Tá bom! Não sei que tipo de papo furado você está tentando me vender, moça, mas não vai te dar o colar!}{}{}{}{}
+{174}{Na verdade... acho que você se daria bem na casa da Madame Lil...}{}{5}{}{176}{}
+{175}{Num! Eu acho que ocê seria bom na casa da Madama Lils...}{}{-4}{}{176}{}
+{176}{Ha! Não tente me enganar! Eu sei que a Madame Lil te mandou... Quero 50, e não vou aceitar uma moeda a menos!}{Ha! Não tente me enganar! Eu sei que a Madame Lil te mandou... Quero 50, e não vou aceitar uma moeda a menos!}{}{}{}{lf13 1}
+{177}{[resmungando] Tá bom! Toma. Me dá o colar!}{}{5}{$$50}{109}{}
+{178}{Acho que fui generoso, aceite a oferta... [ameaçador] ou então...}{}{5}{}{91}{}
+{179}{[resmungando] Toma! Pegue a moeda! Agora me dá o colar!}{}{-4}{$$50}{109}{}
+{180}{Eu fui legal! Você pega a moeda... [ameaçador] ou eu te pego...}{}{-4}{}{91}{}
+{181}{Vou voltar quando tiver o dinheiro!}{}{5}{$$-49}{0}{}
+{182}{Eu vou buscar mais moedas!}{}{-4}{$$-49}{0}{}
+{183}{E:}{}{1}{}{0}{}
+

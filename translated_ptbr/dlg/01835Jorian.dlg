@@ -1,0 +1,55 @@
+{1}{[Esta figura velha e enrugada não reage à sua aproximação. Você não pode ter certeza se ele sequer o viu.]}{[Esta figura velha e enrugada não reage à sua aproximação. Você não pode ter certeza se ele sequer o viu.]}{}{}{}{ }
+{2}{Hã, com licença?}{}{5}{}{10}{lf1 1 }
+{3}{Hã?}{}{-4}{}{10}{lf1 1 }
+{10}{Ah, é o viajante. Você veio falar com Simeon Tor.}{Ah, é o viajante. Você veio falar com Simeon Tor.}{}{}{}{ }
+{11}{Eu vim?}{}{5}{}{20}{ }
+{12}{Hã?}{}{-4}{}{90}{ }
+{20}{[Um sorriso irônico cruza seu rosto. Ele continua como se você não tivesse falado.] Antes de poder vê-lo, você deve fazer algo por mim primeiro.}{[Um sorriso irônico cruza seu rosto. Ele continua como se você não tivesse falado.] Antes de poder vê-lo, você deve fazer algo por mim primeiro.}{}{}{}{ }
+{21}{Eu preciso de informações vitais! O destino de Arcanum está em jogo!}{}{5}{}{30}{ }
+{22}{Por favor, senhor, estou procurando por informações extremamente importantes.}{}{5}{}{30}{ }
+{30}{Pode ser.}{Pode ser.}{}{}{}{ }
+{31}{Mas Nasrudin me enviou! Não tenho muito tempo!}{}{5}{}{40}{ }
+{32}{Tudo bem, diga-me o que preciso fazer.}{}{5}{}{70}{ }
+{40}{Não é assim que eu vejo as coisas.}{Não é assim que eu vejo as coisas.}{}{}{}{ }
+{41}{Então você sabe o que estou fazendo?}{}{5}{}{50}{ }
+{50}{Talvez.}{Talvez.}{}{}{}{ }
+{51}{Então me deixe entrar e pare com esses jogos!}{}{5}{}{60}{ }
+{52}{Então, por favor, me deixe entrar, eu lhe imploro.}{}{5}{}{60}{ }
+{60}{Não é assim que as coisas funcionam.}{Não é assim que as coisas funcionam.}{}{}{}{ }
+{61}{Tudo bem, diga-me o que preciso fazer.}{}{5}{}{70}{ }
+{62}{O jeito de funcionar é eu te bater até você me deixar entrar.}{}{5}{}{100}{ }
+{70}{Vá observar o mural no salão principal. Ele fica perto de um círculo brilhante no chão - tenho certeza de que você deve tê-lo visto ao entrar aqui. E então poderá entrar para ver Simeon Tor.}{Vá observar o mural no salão principal. Ele fica perto de um círculo brilhante no chão - tenho certeza de que você deve tê-lo visto ao entrar aqui. E então poderá entrar para ver Simeon Tor.}{}{}{}{ru2155 }
+{71}{É só isso? Ir olhar um mural? Mas por quê?}{}{5}{}{80}{ }
+{72}{Tudo bem. Vou dar uma olhada.}{}{5}{}{0}{ }
+{73}{Tá bom.}{}{-4}{}{0}{ }
+{74}{Eu já olhei o mural.}{}{5}{gf2375 1}{0}{gf2375 0, fl 170}
+{75}{Eu já olhei a picshure.}{}{-4}{gf2375 1}{0}{gf2375 0, fl 170}
+{80}{Porque é isso que você deve fazer.}{Porque é isso que você deve fazer.}{}{}{}{ }
+{81}{Tudo bem. Vou dar uma olhada.}{}{5}{}{0}{ }
+{82}{Estou cansado dessa bobagem mística! Me deixe entrar ou você vai morrer!}{}{5}{}{110}{ }
+{88}{Mas eu já contemplei o mural.}{}{5}{gf2375 1}{0}{gf2375 0, fl 170}
+{89}{Eu já olhei a picshure.}{}{-4}{gf2375 1}{0}{gf2375 0, fl 170}
+{90}{[A figura velha e enrugada parece assustada.] Você é um imbecil! Isso não foi previsto!}{[A figura velha e enrugada parece assustada.] Você é um imbecil! Isso não foi previsto!}{}{}{}{ }
+{92}{Eu no imbuhseal.}{}{-4}{}{70}{ }
+{100}{Você me diverte. [Ele não parece estar se divertindo.] Você deve ir contemplar o mural no salão principal. Ele fica perto de um círculo brilhante no chão - tenho certeza de que você deve ter passado por ele no caminho até aqui. E então poderá entrar para ver Simeon Tor.}{Você me diverte. [Ele não parece estar se divertindo.] Você deve ir contemplar o mural no salão principal. Ele fica perto de um círculo brilhante no chão - tenho certeza de que você deve ter passado por ele no caminho até aqui. E então poderá entrar para ver Simeon Tor.}{}{}{}{ru2155 }
+{101}{Isso é tudo? Ir olhar um mural? Mas por quê?}{}{5}{}{80}{ }
+{102}{Tudo bem. Vou dar uma olhada.}{}{5}{}{0}{ }
+{103}{Estou falando sério sobre te dar uma surra, idiota.}{}{5}{}{110}{ }
+{110}{[Ele parece divertido, agora.] Então Arcanum perderá seu salvador para um fim terrivelmente violento.}{[Ele parece divertido, agora.] Então Arcanum perderá seu salvador para um fim terrivelmente violento.}{}{}{}{ }
+{111}{Talvez você tenha razão. Vou ver o mural.}{}{5}{lf2 0}{0}{ }
+{112}{Vamos começar a lutar, velho!}{}{5}{}{0}{co }
+{113}{Talvez você tenha razão. Tenha um bom dia.}{}{5}{lf2 1}{0}{ }
+{120}{Você não contemplou o mural.}{Você não contemplou o mural.}{}{}{}{ }
+{130}{Você viu o mural. Agora pode entrar para falar com Simeon Tor.}{Você viu o mural. Agora pode entrar para falar com Simeon Tor.}{}{}{}{gf2376 1, lf3 1 }
+{131}{Mas por que você me fez olhar o mural?}{}{5}{}{140}{ }
+{132}{Obrigado. Tenha um bom dia.}{}{5}{}{0}{ }
+{133}{E:}{}{-4}{}{0}{ }
+{140}{Porque era isso que você precisava fazer.}{Porque era isso que você precisava fazer.}{}{}{}{ }
+{141}{Isso não é uma resposta!}{}{5}{}{150}{ }
+{142}{Vejo que isso não vai levar a lugar nenhum. Tenha um bom dia.}{}{5}{}{0}{ }
+{150}{Essa é a única resposta que existe.}{Essa é a única resposta que existe.}{}{}{}{ }
+{151}{Vejo que isso não levará a lugar algum. Tenha um bom dia.}{}{5}{}{0}{ }
+{152}{Já tive o suficiente disso. Prepare-se para morrer, tolo.}{}{5}{}{110}{lf2 1 }
+{160}{[Jorian acena em sua direção, quase imperceptivelmente.] Andarilho.}{[Jorian acena em sua direção, quase imperceptivelmente.] Andarilho.}{}{}{}{ }
+{170}{Mas você não entendeu. Deve observá-lo novamente, e então poderá entrar.}{Mas você não entendeu. Deve observá-lo novamente, e então poderá entrar.}{}{}{}{ }
+

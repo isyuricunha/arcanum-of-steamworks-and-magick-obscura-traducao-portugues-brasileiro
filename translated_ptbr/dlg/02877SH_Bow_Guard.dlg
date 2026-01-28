@@ -1,0 +1,33 @@
+{1}{G:}{}{}{}{}{}
+{2}{Olá, senhor. Posso lhe fazer algumas perguntas?}{}{5}{re 41, lf1 0}{13}{}
+{3}{Olá. Posso lhe fazer algumas perguntas?}{}{5}{re 41, lf1 1}{24}{}
+{4}{Hmm... Posso lhe fazer algumas perguntas, "senhor"?}{}{5}{re -40, lf1 0}{13}{}
+{5}{Hã... Posso fazer mais algumas perguntas?}{}{5}{re -40, lf1 1}{24}{}
+{6}{Oi! Eu pergunto uma coisa?}{}{-4}{re 41, lf1 0}{13}{}
+{7}{Hã... Eu pergunto mais uma coisa?}{}{-4}{re 41, lf1 1}{24}{}
+{8}{Ei! Isso não foi legal... Hã... Posso te perguntar uma coisa?}{}{-4}{re -40, lf1 0}{13}{}
+{9}{Hã... Eu pergunto mais uma coisa?}{}{-4}{re -40, lf1 1}{24}{}
+{10}{E:}{}{1}{}{0}{}
+{11}{}{}{}{}{}{}
+{12}{}{}{}{}{}{}
+{13}{Claro. O que você precisa?}{Claro. O que você precisa?}{}{}{}{lf1 1}
+{14}{T:0, 6}{}{1}{}{19}{}
+{15}{Quem pode me treinar como Especialista com o arco?}{}{5}{tr0 1, tr0 -1, sk0 10, lf3 0}{30}{}
+{16}{Hã... Eu pergunto mais uma coisa?}{}{-4}{tr0 1, tr0 -1, sk0 10, lf3 0}{30}{}
+{17}{R:$0, 1020-1033}{}{1}{}{19}{}
+{18}{E:}{}{1}{}{0}{}
+{19}{Há mais alguma coisa?}{Há mais alguma coisa?}{}{}{}{}
+{20}{T:0, 6}{}{1}{}{19}{}
+{21}{Quem pode me treinar como Especialista com o arco?}{}{5}{tr0 1, tr0 -1, sk0 10, lf3 0}{30}{}
+{22}{Hã... Eu pergunto mais uma coisa?}{}{-4}{tr0 1, tr0 -1, sk0 10, lf3 0}{30}{}
+{23}{E:}{}{1}{}{0}{}
+{24}{Certamente, @pcname@.}{Certamente, @pcname@.}{}{}{}{}
+{25}{T:0, 6}{}{1}{}{19}{}
+{26}{Quem pode me treinar como Especialista com o arco?}{}{5}{tr0 1, tr0 -1, sk0 10, lf3 0}{30}{}
+{27}{Hã... Eu pergunto mais uma coisa?}{}{-4}{tr0 1, tr0 -1, sk0 10, lf3 0}{30}{}
+{28}{R:$0, 1020-1033}{}{1}{}{19}{}
+{29}{E:}{}{1}{}{0}{}
+{30}{Ninguém por essas bandas, isso é certo! Você vai ter que viajar até Dernholm ou Caladon para um treinamento desses. Boa sorte, senhor.}{Ninguém por essas bandas, isso é certo! Você vai ter que viajar até Dernholm ou Caladon para um treinamento desses. Boa sorte, senhora.}{}{}{}{lf3 1}
+{31}{K:}{}{1}{}{19}{}
+{32}{E:}{}{1}{}{0}{}
+

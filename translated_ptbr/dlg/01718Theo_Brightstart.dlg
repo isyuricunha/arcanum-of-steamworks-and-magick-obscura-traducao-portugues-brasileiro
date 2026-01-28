@@ -1,0 +1,187 @@
+{1}{G:}{}{}{}{}{}
+{2}{Saudações, halfling. Posso saber seu nome?}{}{5}{lf1 0, re 41}{32}{}
+{3}{Isso foi muito indelicado.}{}{5}{lf1 0, re -40}{45}{}
+{4}{Eu de alguma forma o ofendi, Theo?}{}{5}{lf1 1, lf2 0}{56}{}
+{5}{Olá novamente, Theo. Posso tomar um pouco mais do seu tempo?}{}{5}{lf1 1, lf2 1,re 41}{62}{}
+{6}{Eu de alguma forma o ofendi, Theo?}{}{5}{lf1 1, lf2 1, re -40}{52}{}
+{7}{Acho que vou cuidar daqueles porcos para você. Quanto paga?}{}{5}{qu1117 1}{97}{}
+{8}{Ainda não cuidei dos porcos...}{}{5}{qu1117 2}{113}{}
+{9}{Cuidei dos porcos, como você pediu.}{}{5}{lf3 0, qu1117 3}{116}{re +10}
+{10}{Cuidei dos porcos, como você pediu.}{}{5}{lf3 1, qu1117 3}{121}{re +10}
+{11}{Talvez eu mova aquelas pedras. Quanto você me paga?}{}{5}{qu1118 1}{135}{}
+{12}{Estou tendo um pouco de dificuldade com aquelas pedras...}{}{5}{qu1118 2, gf2321 0}{143}{}
+{13}{Eu movi as pedras.}{}{5}{lf4 0, gf 2321 1}{159}{re +10}
+{14}{Eu movi as pedras.}{}{5}{lf4 1, gf 2321 1}{164}{re +10}
+{15}{Eu sei que você disse para ir... mas eu tinha outra pergunta...}{}{5}{lf5 1}{}{co, fl 51}
+{16}{Eu movi as pedras.}{}{5}{qu1118 6}{169}{re -15}
+{17}{Ei, senhor. Qual é o seu nome?}{}{-4}{lf1 0, re 41}{32}{}
+{18}{Isso não foi legal...}{}{-4}{lf1 0, re -40}{45}{}
+{19}{Oi Theo. Eu perguntar uma coisa?}{}{-4}{lf1 1, lf2 0}{56}{}
+{20}{Oi Theo. Eu perguntar uma coisa?}{}{-4}{lf1 1, lf2 1}{62}{}
+{21}{Eu pego os porcos pra você. Quanto paga?}{}{-4}{qu1117 1}{97}{}
+{22}{Eu ainda não peguei os porcos...}{}{-4}{qu1117 2}{113}{}
+{23}{Eu peguei os porcos... Eu peguei os porcos!}{}{-4}{lf3 0, qu1117 3}{116}{re +10}
+{24}{Eu peguei os porcos... Eu peguei os porcos!}{}{-4}{lf3 1, qu1117 3}{121}{re +10}
+{25}{Talvez eu mova as pedras. Quanto você me paga?}{}{-4}{qu1118 1}{135}{}
+{26}{As pedras são difíceis de mover...}{}{-4}{qu1118 2, gf2321 0}{143}{}
+{27}{Eu movi as pedras!}{}{-4}{lf4 0, gf 2321 1}{159}{re +10}
+{28}{Eu movi as pedras!}{}{-4}{lf4 1, gf 2321 1}{164}{re +10}
+{29}{Eu sei que você disse pra ir... mas eu quero perguntar mais uma coisa...}{}{-4}{lf5 1}{}{co, fl 51}
+{30}{Eu movi as pedras!}{}{-4}{qu1118 6}{169}{re -15}
+{31}{E:}{}{1}{}{0}{}
+{32}{Meu nome é Theo Brightstart. Quem é você?}{Meu nome é Theo Brightstart. Quem é você?}{}{}{}{lf1 1}
+{33}{Meu nome é @pcname@.}{}{5}{}{62}{lf2 1}
+{34}{Isso não é da sua conta.}{}{5}{}{39}{re-10}
+{35}{Não gosto particularmente de conversar com raças inferiores...}{}{5}{ra-6}{39}{re-15}
+{36}{Meu nome é @pcname@.}{}{-4}{}{62}{lf2 1}
+{37}{Não.}{}{-4}{ra-4}{39}{re-10}
+{38}{Eu não gosto de você, homenzinho.}{}{-4}{ra 4}{39}{re-15}
+{39}{Então... eu não quero falar com você!}{Então... eu não quero falar com você!}{}{}{}{}
+{40}{Isso foi rude. Peço desculpas. Meu nome é @pcname@.}{}{5}{}{62}{re+5, lf2 1}
+{41}{Não precisa falar... Já que você estará morto em um instante!}{}{5}{}{}{co, fl 51}
+{42}{Desculpe. Eu fui mau. Meu nome é @pcname@.}{}{-4}{}{62}{re+5, lf2 1}
+{43}{Não precisa falar... Você vai estar morto...}{}{-4}{}{}{co, fl 51}
+{44}{E:}{}{1}{}{0}{}
+{45}{I:}{I:}{}{}{}{}
+{46}{Tudo bem... Serei o civilizado. Posso perguntar seu nome, senhor?}{}{5}{}{32}{}
+{47}{Chega! Você já me insultou o suficiente! Defenda-se!}{}{5}{}{}{co, fl 51}
+{48}{Hã, tá bom. Hã... Qual é o seu nome?}{}{-4}{}{32}{}
+{49}{Você não presta... muito ruim! Precisa morrer!}{}{-4}{}{}{co, fl 51}
+{50}{E:}{}{1}{}{0}{}
+{51}{Augh! Vou pegar você!}{Augh! Vou pegar você!}{}{}{}{}
+{52}{Você com certeza fica bravo rápido.}{Você com certeza fica bravo rápido. Igual a uma dama...}{}{}{}{}
+{53}{Hmm... Tenho uma pergunta.}{}{5}{}{62}{}
+{54}{Vejo que ainda precisa aprender boas maneiras. Tenho uma pergunta.}{}{5}{}{62}{}
+{55}{E:}{}{5}{}{0}{}
+{56}{Você não quer me dizer seu nome... Eu não gosto de falar com estranhos...}{Você não quer me dizer seu nome... Eu não gosto de falar com estranhos...}{}{}{}{}
+{57}{Oh, por favor, me perdoe. Eu sou @pcname@.}{}{5}{}{62}{lf2 1}
+{58}{Você gosta de ser massacrado por estranhos?}{}{5}{}{}{co, fl 51}
+{59}{Me desculpa. Meu nome @pcname@.}{}{-4}{}{62}{lf2 1}
+{60}{Será que você gosta que estranhos te matem?}{}{-4}{}{}{co, fl 51}
+{61}{E:}{}{1}{}{0}{}
+{62}{Bem... O que você quer, @pcname@?}{Bem... O que você deseja, @pcname@?}{}{}{}{}
+{63}{C:}{}{1}{}{72}{}
+{64}{T:6, 3}{}{1}{}{72}{}
+{65}{Você pode me treinar para ser Especialista em arremesso?}{}{5}{tr3 -1}{72}{et3 177}
+{66}{Eu quero ser Exper' em jogar coisas.}{}{-4}{tr3 -1}{73}{et3 177}
+{67}{Você tem algum trabalho que eu possa fazer?}{}{5}{qu1117 0}{82}{}
+{68}{Você tem algum trabalho pra mim?}{}{-4}{qu1117 0}{82}{}
+{69}{Há algo em que eu possa te ajudar?}{}{5}{qu1117 4, qu1118 0}{126}{}
+{70}{Trabalhar pra mim?}{}{-4}{qu1117 4, qu1118 0}{126}{}
+{71}{E:}{}{1}{}{0}{}
+{72}{O que mais você precisa, @pcname@?}{Mais alguma coisa que precise, @pcname@?}{}{}{}{}
+{73}{C:}{}{1}{}{72}{}
+{74}{T:6, 3}{}{1}{}{72}{}
+{75}{Você pode me treinar para ser Especialista em arremesso?}{}{5}{tr3 -1}{72}{et3 177}
+{76}{Eu quero ser Exper' em jogar coisas.}{}{-4}{tr3 -1}{72}{et3 177}
+{77}{Você tem algum trabalho que eu possa fazer?}{}{5}{qu1117 0}{82}{}
+{78}{Você tem algum trabalho pra mim?}{}{-4}{qu1117 0}{82}{}
+{79}{Há mais alguma coisa em que eu possa ajudar?}{}{5}{qu1117 4, qu1118 0}{126}{}
+{80}{Mais trabalho para mim?}{}{-4}{qu1117 4, qu1118 0}{126}{}
+{81}{E:}{}{1}{}{0}{}
+{82}{Tenho um pequeno problema. Não consigo resolver sozinho. Talvez você pudesse?}{Tenho um pequeno problema. Não consigo resolver sozinho. Talvez você pudesse?}{}{}{}{}
+{83}{Do que precisa?}{}{5}{}{86}{}
+{84}{O que você qué que eu faça?}{}{-4}{}{86}{}
+{85}{E:}{}{1}{}{0}{}
+{86}{Passo todos os dias aqui, arando, plantando, colhendo... trabalhando na terra que amo. Há algum tempo, uns javalis selvagens apareceram na região. Não importa o que eu faça, não consigo me livrar deles, e essas criaturas estão começando a destruir minhas plantações. Esses javalis são espertos demais para mim! Acha que pode dar um jeito em alguns? Eu pago.}{Passo todos os dias aqui, arando, plantando, colhendo... trabalhando na terra que amo. Há algum tempo, uns javalis selvagens apareceram na região. Não importa o que eu faça, não consigo me livrar deles, e essas criaturas estão começando a destruir minhas plantações. Esses javalis são espertos demais para mim! Acha que pode dar um jeito em alguns? Eu pago.}{}{}{}{qu1117 1}
+{87}{Ah, tenho certeza de que consigo dar conta. Quanto paga?}{}{5}{}{97}{}
+{88}{Não sei bem. Não sou de violência desnecessária...}{}{5}{}{92}{}
+{89}{Num sei. Eu ter que machucar eles?}{}{-4}{}{92}{}
+{90}{É! Eu matar javalis! Fácil! Quanto você paga?}{}{-4}{}{97}{}
+{91}{E:}{}{1}{}{0}{}
+{92}{Bom... não achei que você fosse do tipo que se assusta. Acho que vou ter que cuidar deles eu mesmo.}{Bom... não achei que você fosse do tipo que se assusta. Acho que vou ter que cuidar deles eu mesmo.}{}{}{}{}
+{93}{Sim, talvez você deva. Não é algo que eu faria.}{}{5}{}{72}{}
+{94}{Pensando melhor... eu faço. Quanto paga?}{}{5}{}{97}{}
+{95}{Hum hum...}{}{-4}{}{72}{}
+{96}{Hmm... eu pegar eles! Quanto você paga?}{}{-4}{}{97}{}
+{97}{Não é um trabalho grande. Não acho que valha mais do que 50 moedas. O que me diz?}{Não é um trabalho grande. Não acho que valha mais do que 50 moedas. O que me diz?}{}{}{}{}
+{98}{Parece justo. Volto logo.}{}{5}{}{0}{qu1117 2}
+{99}{Acho que meu tempo vale 75 moedas. Estamos de acordo?}{}{5}{ch -7}{105}{re -5}
+{100}{Acho que meu tempo vale 75 moedas. Estamos de acordo?}{}{5}{ch 8}{109}{re +5}
+{101}{Tá bom. Eu pegar eles. Volto logo.}{}{-4}{}{0}{qu1117 2}
+{102}{Eu forte. Eu querer 75 moedas. Tá bom?}{}{-4}{ch -7}{105}{re -5}
+{103}{Eu forte. Eu querer 75 moedas. Tá bom?}{}{-4}{ch 8}{109}{re +5}
+{104}{E:}{}{1}{}{0}{}
+{105}{Ha! O que você acha que eu sou... um rei? 50 é minha oferta final... aceite ou deixe pra lá.}{Ha! O que você acha que eu sou... um rei? 50 é minha oferta final... aceite ou deixe pra lá.}{}{}{}{}
+{106}{Combinado. Volto logo.}{}{5}{}{0}{qu1117 2}
+{107}{Tá bom. Eu pegar eles. Volto logo.}{}{-4}{}{0}{qu1117 2}
+{108}{E:}{}{1}{}{0}{}
+{109}{Você negocia duro. 75 então. Estamos de acordo?}{Você negocia duro. 75 então. Estamos de acordo?}{}{}{}{lf3 1}
+{110}{Combinado. Volto logo.}{}{5}{}{0}{qu1117 2}
+{111}{Tá bom. Eu pegar eles. Volto logo.}{}{-4}{}{0}{qu1117 2}
+{112}{E:}{}{1}{}{0}{}
+{113}{Por favor, resolva isso logo! Eu dependo das minhas plantações. Não posso deixar que sejam comidas por bestas selvagens!}{Por favor, cuide deles logo! Eu dependo das minhas plantações. Não posso deixá-las serem comidas por feras selvagens!}{}{}{}{}
+{114}{K:}{}{1}{}{72}{}
+{115}{E:}{}{1}{}{0}{}
+{116}{Muito bem! Aqui estão as 50 moedas que combinamos. Obrigado pela ajuda.}{Muito bem! Aqui estão as 50 moedas que combinamos. Obrigado pela ajuda.}{}{}{}{$$ 50,  qu1117 4}
+{117}{Obrigado, @npcname@. Adeus.}{}{5}{}{0}{}
+{118}{Obrigado, @npcname@. Posso te perguntar uma coisa?}{}{5}{}{72}{}
+{119}{Valeu, @npcname@. Falou.}{}{-4}{}{0}{}
+{120}{Valeu, @npcname@. Posso te perguntar mais uma coisa?}{}{-4}{}{72}{}
+{121}{Muito bem! Aqui estão as 75 moedas que combinamos. Obrigado pela ajuda.}{Muito bem! Aqui estão as 75 moedas que combinamos. Obrigado pela ajuda.}{}{}{}{$$ 75, qu1117 4}
+{122}{Obrigado, @npcname@. Adeus.}{}{5}{}{0}{}
+{123}{Obrigado, @npcname@. Posso te perguntar uma coisa?}{}{5}{}{72}{}
+{124}{Valeu, @npcname@. Falou.}{}{-4}{}{0}{}
+{125}{Valeu, @npcname@. Posso te perguntar mais uma coisa?}{}{-4}{}{72}{}
+{126}{Você tá mesmo com vontade de trabalhar, hein, parceiro? Tem mais uma coisa... Vê aquelas pedras enormes no meu campo? Elas dificultam arar a terra... tenho que dar a volta nelas. Acha que é forte o suficiente pra carregar todas praquela carroça ali adiante?}{Você tá mesmo com vontade de trabalhar, hein, moça? Tem mais uma coisa... Vê aquelas pedras enormes no meu campo? Elas dificultam arar a terra. Acha que é forte o suficiente pra carregar todas praquela carroça ali adiante?}{}{}{}{qu1118 1}
+{127}{Acho que consigo dar conta. Qual é o pagamento?}{}{5}{}{135}{}
+{128}{Não tenho certeza. Elas parecem bem pesadas...}{}{5}{}{143}{}
+{129}{Eu nunca conseguiria levantar aquelas!}{}{5}{}{143}{}
+{130}{E se eu explodisse elas em pedaços?}{}{5}{}{147}{}
+{131}{Me forte! Me fazê isso! Quanto cê paga?}{}{-4}{}{135}{}
+{132}{Me num sabe. Elas parecem pesadas...}{}{-4}{}{143}{}
+{133}{Me num pega elas! Pesadas demais.}{}{-4}{}{143}{}
+{134}{Elas parecem pesadas demais... E se me explodi elas?}{}{-4}{}{147}{}
+{135}{Elas estão me incomodando há muito tempo. E posso te garantir que eu nunca vou conseguir levantá-las sozinho... Que tal 50 moedas?}{Elas estão me incomodando há muito tempo. E posso te garantir que eu nunca vou conseguir levantá-las sozinho... Que tal 50 moedas?}{}{}{}{}
+{136}{Combinado. Eu as movo por 50 moedas. Elas somem num instante.}{}{5}{}{0}{qu1118 2}
+{137}{50!?! Pra mover aquelas coisas! Eu faço por 100, nem uma moeda a menos!}{}{5}{ch -7}{154}{re -5}
+{138}{50!?! Pra mover aquelas coisas! Eu faço por 100, nem uma moeda a menos!}{}{5}{ch 8}{151}{}
+{139}{Tá bom. Me fazê isso. Já volto.}{}{-4}{}{0}{qu1118 2}
+{140}{50!?! Elas são enormes! Me fazê por 100, nada menos!}{}{-4}{ch -7}{154}{re -5}
+{141}{50!?! São enormes! Eu faço por 100, nada menos!}{}{-4}{ch 8}{151}{}
+{142}{E:}{}{1}{}{0}{}
+{143}{É. Achei que fossem demais para você. Bom, obrigado pela oferta mesmo assim. É melhor eu voltar a cuidar das minhas plantações. Adeus.}{É. Achei que fossem demais para você. Bom, obrigado pela oferta mesmo assim. É melhor eu voltar a cuidar das minhas plantações. Adeus.}{}{}{}{}
+{144}{Espere! Eu vou tentar movê-los. Quanto você me paga?}{}{5}{}{135}{}
+{145}{Espere! Eu tento movê-los. Quanto você me paga?}{}{-4}{}{135}{}
+{146}{E:}{}{1}{}{0}{}
+{147}{Não! Não faça isso! Você espalharia destroços por todo o meu campo! Se não acha que consegue movê-los, então esqueça. Não tenho mais nada para você.}{Não! Não faça isso! Você espalharia destroços por todo o meu campo! Se não acha que consegue movê-los, então esqueça. Não tenho mais nada para você.}{}{}{}{}
+{148}{Espere! Eu vou tentar movê-los. Quanto você me paga?}{}{5}{}{135}{}
+{149}{Espere! Eu tento movê-los. Quanto você me paga?}{}{-4}{}{135}{}
+{150}{E:}{}{1}{}{0}{}
+{151}{É. Tá bom. Entendi o que você quer dizer. Tenho certeza de que você vale 100. Está combinado.}{É. Tá bom. Entendi o que você quer dizer. Tenho certeza de que você vale 100. Está combinado.}{}{}{}{lf4 1}
+{152}{Vou movê-los num instante!}{}{5}{}{0}{qu1118 2}
+{153}{Tá bom. Eu faço. Já volto.}{}{-4}{}{0}{qu1118 2}
+{154}{De jeito nenhum vou pagar 100 moedas para mover umas pedras! Ou aceita 50, ou não tem acordo.}{De jeito nenhum vou pagar 100 moedas para mover umas pedras! Ou aceita 50, ou não tem acordo.}{}{}{}{}
+{155}{Tá bom. Eu movo por 50. Termino logo.}{}{5}{}{0}{qu1118 2}
+{156}{Então esquece. Adeus.}{}{5}{}{0}{}
+{157}{Tá bom. Eu movo por 50. Já volto.}{}{-4}{}{0}{qu1118 2}
+{158}{De jeito nenhum. Tchau.}{}{-4}{}{0}{}
+{159}{Bom trabalho. Aqui estão as 50 moedas que prometi. Obrigado. É melhor eu voltar a cuidar das minhas plantações. Adeus.}{Bom trabalho. Aqui estão as 50 moedas que prometi. Obrigado. É melhor eu voltar a cuidar das minhas plantações. Adeus.}{}{}{}{$$ 50, qu1118 4}
+{160}{Obrigado, @npcname@. Adeus.}{}{5}{}{0}{}
+{161}{Obrigado, @npcname@. Posso te perguntar uma coisa?}{}{5}{}{72}{}
+{162}{Valeu, @npcname@. Tchau.}{}{-4}{}{0}{}
+{163}{Valeu, @npcname@. Posso te pedir mais uma coisa?}{}{-4}{}{72}{}
+{164}{Bom trabalho. Aqui estão as 100 moedas que prometi. Obrigado. É melhor eu voltar a cuidar das minhas plantações. Adeus.}{Bom trabalho. Aqui estão as 100 moedas que prometi. Obrigado. É melhor eu voltar a cuidar das minhas plantações. Adeus.}{}{}{}{$$ 100, qu1118 4}
+{165}{Obrigado, @npcname@. Adeus.}{}{5}{}{0}{}
+{166}{Obrigado, @npcname@. Posso te perguntar uma coisa?}{}{5}{}{72}{}
+{167}{Valeu, @npcname@. Tchau.}{}{-4}{}{0}{}
+{168}{Tanques @npcname@. Quer me perguntar mais alguma coisa?}{}{-4}{}{72}{}
+{169}{Não acredito que você fez isso! Olha só a bagunça que você fez no meu campo! Vou levar uma eternidade para limpar todo esse entulho. ...Acho que é melhor você ir embora. Não ponha os pés na minha propriedade de novo!}{Não acredito que você fez isso! Olha só a bagunça que você fez no meu campo! Vou levar uma eternidade para limpar todo esse entulho. ...Acho que é melhor você ir embora. Não ponha os pés na minha propriedade de novo!}{}{}{}{lf5 1}
+{170}{Oh! Me desculpe @npcname@. Foi um engano...}{}{5}{}{173}{}
+{171}{Me desculpa. Eu num queria fazer bagunça...}{}{-4}{}{173}{}
+{172}{E:}{}{1}{}{0}{}
+{173}{Eu disse pra ir embora! Saia da minha propriedade!}{Eu disse pra ir embora! Saia da minha propriedade!}{}{}{}{lf5 1}
+{174}{Eu disse que foi um acidente! Vou ficar bem aqui!}{}{5}{}{}{co, fl 51}
+{175}{Me diz desculpa. Num vou a lugar nenhum!}{}{-4}{}{}{co, fl 51}
+{176}{E:}{}{1}{}{0}{}
+{177}{É. Eu sou muito bom em arremessar coisas. Tenho muita prática jogando pedras nos corvos por aqui. Mas cobro 500 pela aula. Não posso sair distribuindo segredos assim, né?}{É. Eu sou muito bom em arremessar coisas. Tenho muita prática jogando pedras nos corvos por aqui. Mas cobro 500 pela aula. Não posso sair distribuindo segredos assim, né?}{}{}{}{}
+{178}{Posso pagar isso. Aqui está.}{}{5}{$$500}{183}{}
+{179}{Vou ter que juntar algumas moedas e voltar depois.}{}{5}{$$-499}{0}{}
+{180}{É. Eu tenho isso. Toma.}{}{-4}{$$500}{183}{}
+{181}{Hmm... Eu vou. Arrumar mais moedas.}{}{-4}{$$-499}{0}{}
+{182}{F:}{}{1}{}{0}{}
+{183}{Muito obrigado, @pcname@. [Ele passa a explicar os detalhes de mira e cálculos de distância, ajustando sua postura e comentando sua habilidade enquanto você demonstra sua técnica de arremesso.] É só isso. Agora você é um Arremessador Especialista. Se quiser se tornar um Mestre, procure Clarissa Shalmo. Acho que ela está em Blackroot no momento.}{Muito obrigado, @pcname@. [Ele passa a explicar os detalhes de mira e cálculos de distância, ajustando sua postura e comentando sua habilidade enquanto você demonstra sua técnica de arremesso.] É só isso. Agora você é um Arremessador Especialista. Se quiser se tornar um Mestre, procure Clarissa Shalmo. Acho que ela está em Blackroot no momento.}{}{}{}{$$-500, rq2180, tr3 2, ru2165}
+{184}{Obrigado. Adeus.}{}{5}{}{0}{}
+{185}{Valeu. Falou.}{}{-4}{}{0}{}
+{186}{K:}{}{1}{}{72}{}
+

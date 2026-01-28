@@ -1,0 +1,16 @@
+{1}{Au!}{Au!}{}{}{}{ }
+{2}{Saia da frente.}{}{1}{wa 0}{0}{so }
+{3}{Junto! [Fique perto.]}{}{1}{wa 0}{0}{sc }
+{4}{Fique. [Espere.]}{}{1}{wa 0}{0}{wa }
+{5}{Venha! [Volte para o grupo.]}{}{1}{wa 1}{25}{jo1 20 }
+{6}{Vá embora. [Dispensar.]}{}{1}{wa 0}{0}{lv, lf1 1 }
+{11}{E:}{}{1}{}{0}{ }
+{12}{Au! Au!}{Au! Au!}{}{}{}{ }
+{20}{Au! Au!}{Au! Au!}{}{}{}{ }
+{21}{E:}{}{1}{}{0}{ }
+{25}{Grrrr.}{Grrrr.}{}{}{}{lf1 1 }
+{26}{E:}{}{1}{}{0}{ }
+{30}{Au! Au!}{Au! Au!}{}{}{}{ }
+{31}{Venha! [Volte para o grupo.]}{}{1}{}{25}{jo 1 20}
+{39}{E:}{}{1}{}{0}{ }
+

@@ -1,0 +1,569 @@
+//
+// Spell Names
+//
+{0}{Desarmar}
+{1}{Feitiço de Destravar}
+{2}{Força Invisível}
+{3}{Distorção Espacial}
+{4}{Teletransporte}
+{5}{Sentir Alinhamento}
+{6}{Ver Conteúdo}
+{7}{Ler Aura}
+{8}{Sentir Oculto}
+{9}{Magia Divina}
+{10}{Vitalidade do Ar}
+{11}{Vapores Venenosos}
+{12}{Invocar Ventos}
+{13}{Corpo de Ar}
+{14}{Invocar Elemental do Ar}
+{15}{Força da Terra}
+{16}{Arremessar Pedra}
+{17}{Muralha de Pedra}
+{18}{Corpo de Pedra}
+{19}{Invocar Elemental da Terra}
+{20}{Agilidade do Fogo}
+{21}{Muralha de Fogo}
+{22}{Lampejo Flamejante}
+{23}{Corpo de Fogo}
+{24}{Invocar Elemental do Fogo}
+{25}{Pureza da Água}
+{26}{Invocar Névoa}
+{27}{Tempestade de Gelo}
+{28}{Corpo de Água}
+{29}{Invocar Elemental da Água}
+{30}{Escudo de Proteção}
+{31}{Choque}
+{32}{Muro de Força}
+{33}{Raio de Relâmpago}
+{34}{Desintegrar}
+{35}{Encantar}
+{36}{Atordoar}
+{37}{Drenar Vontade}
+{38}{Pesadelo}
+{39}{Dominar Vontade}
+{40}{Resistir à Magia}
+{41}{Dispersar Magia}
+{42}{Escudo de Dweomer}
+{43}{Laços da Magia}
+{44}{Escudo de Reflexão}
+{45}{Mãos Endurecidas}
+{46}{Enfraquecer}
+{47}{Encolher}
+{48}{Carne em Pedra}
+{49}{Polimorfia}
+{50}{Encantar Besta}
+{51}{Emaranhar}
+{52}{Controlar Besta}
+{53}{Socorrer Besta}
+{54}{Regenerar}
+{55}{Dano}
+{56}{Conjurar Espírito}
+{57}{Invocar Morto-Vivo}
+{58}{Criar Morto-Vivo}
+{59}{Extinguir Vida}
+{60}{Cura Menor}
+{61}{Detener Veneno}
+{62}{Cura Maior}
+{63}{Santuário}
+{64}{Ressuscitar}
+{65}{Iluminar}
+{66}{Clarão}
+{67}{Visão Turva}
+{68}{Demônio Fantasmagórico}
+{69}{Invisibilidade}
+{70}{Praga de Insetos}
+{71}{Campeão Órquico}
+{72}{Ogro Guardião}
+{73}{Portal do Inferno}
+{74}{Familiar}
+{75}{Tranca Mágica}
+{76}{Congelar Tempo}
+{77}{Acelerar}
+{78}{Estase}
+{79}{Tempus Fugit}
+
+//
+// "Hidden" (Magick-Item Only) Spell Names (60 of them)
+//
+//...
+// Asterisks ("*") means that the spell does NOT currently work or is unfinished.
+// Three asterisks ("***") mean that it *really* doesn't work, one ("*") means it is just
+//   somewhat broken.  No stars means that it *should* be working.  ;)
+// "Passive" means that the spell only triggers when the item it is attached to wishes it.
+{80}{MI: Regeneração ***}
+{81}{MI: Drenar Vida ***}
+{82}{MI: Escudo de Fogo (Passivo: Portador Danificado)}
+{83}{MI: Escudo (Duração)}
+{84}{MI: Invisibilidade}
+{85}{MI: Armadura Demoníaca: Base (Passivo: Empunhar)}
+{86}{MI: Armadura Demoníaca: Escudo (Passivo: Portador Danificado)}
+{87}{MI: Escudo Elétrico (Passivo: Portador Danificado)}
+{88}{MI: Forma de Serpente (Feitiço de Script)}
+{89}{MI: Terremoto (Passivo: Portador Ataca Alvo)}
+{90}{MI: Danificar Mortos-Vivos}
+{91}{MI: Medo em Área (Mortos-Vivos) ***}
+{92}{MI: Golpe Sagrado}
+{93}{MI: Força Letal (Passiva: Ataques do Pai ou Acerto no Alvo)}
+{94}{MI: Martelo da Terra (Passiva: Empunhar)}
+{95}{MI: Machado dos Ventos (Passiva: Empunhar)}
+{96}{MI: Adaga da Dor (Passiva: Empunhar)}
+{97}{MI: Animar Cadáver ***}
+{98}{MI: Quebra-Feitiço ***}
+{99}{MI: Esmagamento ***}
+{100}{MI: Proteção Vital *}
+{101}{MI: Raio Encadeado ***}
+{102}{MI: Cura Maior ***}
+{103}{MI: Roubo de Vida *}
+{104}{MI: Distorção Mental ***}
+{105}{MI: Morto-Vivo Irreanimável}
+{106}{MI: Medo em Área ***}
+{107}{MI: Fadiga em Área ***}
+{108}{MI: Medo em Área (Animais) ***}
+{109}{MI: Reanimar em Área *}
+{110}{MI: Forma de Lobo ***}
+{111}{MI: Retorno ***}
+{112}{MI: Cajado do Necromante}
+{113}{MI: Paralisia (Maligno) ***}
+{114}{MI: Perfume Élfico}
+{115}{MI: Cura Leve (Fogo-Fátuo)}
+{116}{MI: Iluminação de Plataforma 1 (NÃO É UM FEITIÇO)}
+{117}{MI: Iluminação de Plataforma 2 (NÃO É UM FEITIÇO)}
+{118}{MI: Iluminação de Plataforma 3 (NÃO É UM FEITIÇO)}
+{119}{MI: Iluminação de Plataforma 4 (NÃO É UM FEITIÇO)}
+{120}{MI: Iluminação de Plataforma 5 (NÃO É UM FEITIÇO)}
+{121}{MI: SuperCura (Feitiço de Script)}
+// These are primarily for Special Creatures (Lich, etc.)
+{122}{MI: Projétil de Araya}
+{123}{MI: Invocar Seether}
+{124}{MI: Invocar Homem-Rato}
+{125}{MI: Invocar Wargun}
+{126}{MI: Invocar Cão Funesto}
+{127}{MI: Carne-em-Pedra (Duração)}
+{128}{MI: Desacelerar Grupo ***}
+{129}{MI: Veneno DOT ***}
+{130}{MI: Fadiga DOT ***}
+{131}{MI: Invocar Ventos (Todos)}
+{132}{MI: Força Invisível (Todos)}
+{133}{MI: Estase (Duração)}
+{134}{MI: Congelar}
+{135}{MI: Invocar Morto-Vivo}
+{136}{MI: Conjurar Espírito II}
+{137}{MI: Poção de Cura}
+{138}{MI: Botas de Aceleração}
+{139}{MI: 60}
+
+
+// "Tech" Spell Names:
+// WIP! JLR! Probably should move these for clarity...
+{140}{Tec: Armadilha}
+{141}{Tec: Construtor de Cérebros}
+{142}{Tec: Sugestão Hipnótica}
+{143}{Tec: Efeito de Paralisia Básico}
+{144}{Tec: Fabricante de Músculos}
+{145}{Tec: Aprimorador de Destreza}
+{146}{Tec: Detecção de Magia}
+{147}{Tec: Choque}
+{148}{Tec: Explodir (Alucinação)}
+{149}{Tec: Regeneração de Cura}
+{150}{Tec: Cura Leve}
+{151}{Tecnologia: Restauração de Fadiga}
+{152}{Tecnologia: Cura de Envenenamento}
+{153}{Tecnologia: Limitador de Fadiga}
+{154}{Tecnologia: Acelerador de Cura}
+{155}{Tecnologia: Droga Maravilhosa}
+{156}{Tecnologia: Cura Total}
+{157}{Tecnologia: Aumento de Inteligência}
+{158}{Tecnologia: Aumento de Força}
+{159}{Tecnologia: Aumento de Percepção}
+{160}{Tecnologia: Aumento de Destreza}
+{161}{Tecnologia: Aumento Mental}
+{162}{Tecnologia: Aumento Físico}
+{163}{Tecnologia: Aumento Total}
+{164}{Tecnologia: Veneno}
+{165}{Tecnologia: Alucinógeno}
+{166}{Tecnologia: Ácido}
+{167}{Tecnologia: Faro Animal}
+{168}{Tecnologia: Regeneração Carregada}
+{169}{Tecnologia: Toxina}
+{170}{Tecnologia: Detergente}
+{171}{Tecnologia: Veneno Forte}
+{172}{Tecnologia: Vinho}
+{173}{Tecnologia: Água da Vida}
+{174}{Tecnologia: Escudo Elétrico}
+{175}{Tecnologia: Explosão}
+{176}{Tecnologia: Dinamite}
+{177}{Tecnologia: Explodir (Flash)}
+{178}{Tecnologia: Explodir (Fumaça)}
+{179}{Tecnologia: Explodir (Atordoamento)}
+{180}{Tecnologia: Explodir (Fogo)}
+{181}{Tecnologia: Álcool)}
+{182}{Tecnologia: Inversão Magnética}
+{183}{Tecnologia: Isca para Animais}
+{184}{Tecnologia: Acionador de Armadilhas}
+{185}{Tecnologia: Explodir (Veneno)}
+{186}{Tecnologia: Clarão}
+{187}{Tecnologia: Carga de Inversão Magnética}
+{188}{Tecnologia: Armar/Desarmar}
+{189}{Tecnologia: Revigorador}
+{190}{Tecnologia: Reanimador}
+{191}{Tecnologia: Injeção de Cura}
+{192}{Tecnologia: Cura Milagrosa}
+{193}{Tecnologia: Inibidor Mental}
+{194}{Tecnologia: Necromizador}
+{195}{Tecnologia: Fortificante}
+{196}{Tecnologia: Auxílio para Dormir}
+{197}{Tecnologia: Poção de Paralisia}
+{198}{Tecnologia: Gás de Nocaute}
+{199}{Tecnologia: Explodir (Elétrico)}
+{200}{Tecnologia: Gás Mostarda}
+{201}{Tecnologia: Explodir (Concussão)}
+{202}{Tecnologia: Explodir (Paralisia)}
+{203}{Tecnologia: Lançador de Granadas}
+{204}{Tecnologia: Pistola Tranquilizante}
+{205}{Tecnologia: Explodir (Lançador de Granadas)}
+{206}{Tecnologia: Vivificador}
+
+//
+// "Hidden" (Magick-Item Only) Spell Names  Part 2 (11 of them)
+//
+//...
+{207}{MI2: Feitiço da Morte de Kerghan}
+{208}{MI2: Feitiço de Ataque de Kerghan}
+{209}{MI2: Feitiço de Cura de Kerghan}
+{210}{MI2: Poção de Redução de Fadiga}
+{211}{MI2: Poção de Essência da Intelecto}
+{212}{MI2: Poção de Pressa}
+{213}{MI2: Líquido de Espessamento da Pele}
+{214}{MI2: Poção do Veneno de Kalispi}
+{215}{MI2: Poção Restauradora}
+{216}{MI2: Invocar Espírito Permanente}
+{217}{MI2: Morte do Cavaleiro Fantasma}
+{218}{Sair}
+{219}{Coquetel Molotov}  // No Translation needed
+{220}{Bomba Relógio}  // No Translation needed
+{221}{Extinguir Vida}  // No Translation needed
+{222}{Forma de Lobo (Permanente)}  // No Translation needed
+
+
+
+
+//
+// College Names
+//
+{500}{Transporte}
+{501}{Adivinhação}
+{502}{Ar}
+{503}{Terra}
+{504}{Fogo}
+{505}{Água}
+{506}{Força}
+{507}{Mental}
+{508}{Meta}
+{509}{Morfose}
+{510}{Natureza}
+{511}{Necromântico Negro}
+{512}{Necromântico Branco}
+{513}{Fantasma}
+{514}{Invocação}
+{515}{Temporal}
+
+//
+// Spell Error Messages
+//
+{600}{Energia insuficiente.}
+{601}{Manutenção encerrada.}
+{602}{Você perde a concentração.}
+{603}{O efeito é anulado.}
+{604}{Você não consegue ver o alvo.}
+{605}{Esta vida não pode ser restaurada.}
+{606}{O alvo já está completamente curado.}
+
+//
+// Spell Descriptions
+//
+{700}{A arma do alvo é arrancada de sua mão, se ele falhar na resistência.}
+{701}{O alvo é destrancado (mas não aberto).}
+{702}{O alvo é empurrado para trás várias casas, diretamente para longe do conjurador.}
+{703}{O conjurador é transportado magicamente para qualquer espaço vazio de sua escolha.}
+{704}{O feitiço permite que o conjurador e seu grupo se teletransportem para um local conhecido.}
+{705}{Este feitiço revelará o alinhamento de todas as criaturas nas proximidades do conjurador.}
+{706}{Este feitiço revelará o conteúdo de um recipiente.}
+{707}{Este feitiço revelará os atributos básicos da criatura alvo.}
+{708}{Este feitiço revelará todas as criaturas e objetos invisíveis, bem como armadilhas e objetos armadilhados nas proximidades.}
+{709}{Este feitiço determinará todas as propriedades mágicas de um item no inventário do conjurador.}
+{710}{Este feitiço aumenta a Constituição da criatura alvo.}
+{711}{Este feitiço cria uma grande nuvem de gás cáustico centralizada na casa alvo.}
+{712}{Este feitiço cria uma rajada de vento, centralizada no conjurador e soprando em todas as direções.}
+{713}{Este feitiço transforma o corpo do alvo em ar, tornando-o translúcido, imaterial e capaz de flutuar.}
+{714}{Este feitiço invoca um Elemental do Ar, que aparecerá na casa alvo e atacará imediatamente os inimigos do conjurador.}
+{715}{Este feitiço aumenta a Força da criatura alvo.}
+{716}{Este feitiço cria um projétil de pedra que viaja infalivelmente do conjurador até o alvo.}
+{717}{Este feitiço cria um bloco de pedra na casa vazia indicada pelo conjurador.}
+{718}{Este feitiço transforma o alvo em pedra. Ele ganha resistência a dano e dano extra, mas a Velocidade é reduzida.}
+{719}{Este feitiço invoca um Elemental da Terra, que aparecerá na casa alvo e atacará imediatamente os inimigos do conjurador.}
+{720}{Este feitiço aumenta a Destreza da criatura alvo.}
+{721}{Este feitiço cria uma parede de fogo através da casa vazia especificada.}
+{722}{Este feitiço cria uma bola de plasma superaquecido, que voa até a casa especificada e explode.}
+{723}{Este feitiço incinera a criatura alvo, que ganha resistência ao fogo e dano extra de fogo em qualquer ataque desarmado.}
+{724}{Este feitiço invoca um Elemental do Fogo, que aparecerá na casa alvo e atacará imediatamente os inimigos do conjurador.}
+{725}{Este feitiço aumenta a Beleza da criatura alvo.}
+{726}{Este feitiço cria uma névoa ondulante, centralizada na casa alvo.}
+{727}{Este feitiço cria uma tempestade de gelo e granizo centralizada na casa alvo.}
+{728}{Este feitiço liquefaz a criatura alvo, tornando-a translúcida e capaz de movimento aquático.}
+{729}{Este feitiço invoca um Elemental da Água, que aparecerá no quadrado alvo e atacará imediatamente os inimigos do conjurador.}
+{730}{Este feitiço cria uma tela de energia defletora ao redor do alvo, aumentando sua classe de armadura e resistências.}
+{731}{Este feitiço causa uma onda de eletricidade que flui para todas as criaturas em alcance muito próximo.}
+{732}{Este feitiço cria uma parede cintilante de força no quadrado vazio especificado.}
+{733}{Este feitiço cria um raio de eletricidade do conjurador até a criatura alvo.}
+{734}{Este feitiço elimina a força de ligação entre os átomos, dispersando o alvo em partículas constituintes.}
+{735}{Este feitiço faz com que o alvo fique amigável em relação ao conjurador, caso um teste de resistência não seja bem-sucedido.}
+{736}{Este feitiço atordoa o alvo por alguns segundos, caso um teste de resistência não seja bem-sucedido.}
+{737}{Este feitiço faz com que a força de vontade da criatura alvo caia pela metade por 1-2 horas, caso um teste de resistência não seja bem-sucedido.}
+{738}{Este feitiço faz com que todas as criaturas nas proximidades do conjurador testem resistência ou fujam apavoradas.}
+{739}{Este feitiço coloca a mente do alvo sob o controle do conjurador, a menos que um teste de resistência seja bem-sucedido.}
+{740}{O alvo ganha resistência à magia.}
+{741}{Este feitiço cancela efeitos de feitiços existentes no alvo.}
+{742}{Este feitiço impede que a magia opere sobre o alvo.}
+{743}{Este feitiço impede a criatura alvo de conjurar qualquer feitiço.}
+{744}{O conjurador é cercado por uma barreira que faz com que qualquer feitiço seja refletido de volta ao seu conjurador, com custo adicional.}
+{745}{Este feitiço faz com que as mãos da criatura alvo causem mais dano.}
+{746}{Este feitiço enfraquece a substância do alvo, reduzindo sua resistência a dano durante a duração do feitiço.}
+{747}{Este feitiço reduz uma criatura à metade de seu tamanho.}
+{748}{Este feitiço converte carne em pedra temporariamente.}
+{749}{Este feitiço transforma a criatura alvo em uma ovelha enquanto o feitiço for mantido.}
+{750}{Este feitiço faz com que todos os animais nas proximidades tenham uma reação Positiva em relação ao jogador.}
+{751}{Este feitiço imbuí um trecho de vegetação com movimento, impedindo a criatura alvo de caminhar.}
+{752}{Este feitiço coloca a mente do animal sob o controle do conjurador, a menos que um teste de resistência seja bem-sucedido.}
+{753}{Este feitiço invoca um animal, que aparecerá no quadrado alvo e atacará imediatamente os inimigos do conjurador.}
+{754}{Este feitiço aumenta grandemente a taxa de cura do conjurador e de todos os seguidores.}
+{755}{Este feitiço causa dano à criatura alvo.}
+{756}{Este feitiço permite que o conjurador fale com o espírito do cadáver alvo sobre o qual é conjurado.}
+{757}{Este feitiço invoca um monstro morto-vivo que atacará tudo.}
+{758}{Este feitiço anima o cadáver alvo, que seguirá o conjurador.}
+{759}{Este feitiço mata a criatura alvo, a menos que ela consiga resistir.}
+{760}{Este feitiço cura uma pequena quantidade de pontos de vida do alvo.}
+{761}{Este feitiço reduz o Fator de Veneno do alvo.}
+{762}{Este feitiço cura uma grande quantidade de pontos de vida do alvo.}
+{763}{Este feitiço protege o conjurador dos Mortos-Vivos.}
+{764}{Este feitiço traz a criatura alvo de volta à vida, com pontos de vida completos e nível de veneno zero.}
+{765}{Este feitiço aumenta o nível de luz em uma área ao redor da criatura alvo.}
+{766}{Este feitiço cega temporariamente o alvo.}
+{767}{Este feitiço torna o conjurador mais difícil de ser visto e atingido.}
+{768}{Este feitiço cria a ilusão de um monstro formidável.}
+{769}{O alvo fica invisível, exceto ao atacar.}
+{770}{Este feitiço invoca um enxame de insetos, que cerca e retarda a criatura alvo.}
+{771}{Este feitiço invoca um orc no quadrado vazio especificado.}
+{772}{Este feitiço invoca um ogro no quadrado vazio especificado.}
+{773}{Este feitiço invoca um demônio no quadrado vazio especificado.}
+{774}{Este feitiço invoca um familiar para o conjurador.}
+{775}{Este feitiço tranca qualquer portal. A porta ou janela não pode ser arrombada.}
+{776}{Este feitiço reduz pela metade a Velocidade de todas as criaturas nas proximidades do conjurador que falharem em resistir.}
+{777}{Este feitiço dobra a Velocidade da criatura alvo.}
+{778}{Este feitiço paralisa a criatura alvo, a menos que ela consiga resistir.}
+{779}{Este feitiço poderoso acelera o conjurador e todo o seu grupo, enquanto retarda todas as outras criaturas no mundo.}
+//
+// Magick-Item Spell Descriptions
+//
+{780}{O portador regenerará pontos de vida a uma taxa acelerada.}
+{782}{O item drenará parte da saúde de um alvo atingido e a transferirá para o portador.}
+{783}{O usuário é cercado por um escudo de fogo que causa dano a qualquer um que o ataque.}
+{784}{O portador é cercado por um escudo místico.}
+{785}{O portador fica invisível.}
+{786}{O portador ganha várias habilidades. Há uma mácula de maldade associada a elas.}
+{787}{O portador é cercado por um escudo demoníaco de fogo que causa dano a qualquer um que o ataque.}
+{788}{O usuário é cercado por um escudo elétrico que causa dano a qualquer um que o ataque.}
+{789}{O conjurador se transforma em um Homem-Serpente.}
+{790}{A arma às vezes causa pequenos terremotos, que podem infligir dano a criaturas próximas.}
+{791}{A arma é especialmente construída para causar dano a criaturas Mortas-Vivas.}
+{792}{Todos os Mortos-Vivos na área serão tomados pelo medo.}
+{793}{A arma é especialmente construída para causar dano a criaturas Malignas.}
+{794}{A arma revigora seu portador sempre que luta contra Mortos-Vivos.}
+{795}{Isso aumenta a capacidade física de seu portador, ao custo de suas habilidades mentais.}
+{796}{O portador fica mais rápido.}
+{797}{Este item faz com que o portador pareça de alguma forma indesejável.}
+{798}{Este item irá temporariamente reanimar uma criatura morta por ele.}
+{799}{Este item pode quebrar feitiços em um objeto atingido.}
+{800}{Este item tem uma chance aumentada de atordoar um oponente atingido por ele.}
+{801}{Este item protegerá a vida do dono, ressuscitando-o uma vez quando morrer.}
+{802}{Este feitiço lança raios em inimigos em todas as direções.}
+{803}{Este feitiço irá curar todo o dano e remover todo o veneno de uma criatura e seus seguidores.}
+{804}{Este item drena a energia vital de criaturas mortas com ele, temporariamente transferindo essa energia para seu portador.}
+{805}{Este item pode temporariamente perturbar a mente de um oponente que atingir, fazendo com que lute pelo seu dono.}
+{806}{Mortos-Vivos que forem destruídos por esta arma são despedaçados, impedindo que sejam reanimados.}
+{807}{Todas as criaturas próximas ao conjurador fugirão dele, a menos que resistam.}
+{808}{Todas as criaturas próximas ao conjurador sentirão sua energia sendo constantemente drenada.}
+{809}{Todos os animais ao redor do portador fugirão com medo.}
+{810}{Qualquer criatura morta próxima ao conjurador será temporariamente reanimada a serviço do conjurador.}
+{811}{O conjurador se transformará em um lobo.}
+{812}{O item retornará ao seu portador.}
+{813}{Este item concede uma resistência aumentada a veneno.}
+{814}{Este item pode paralisar um oponente brevemente. No entanto, comporta-se mal quando usado por criaturas Bondosas.}
+{815}{MI: Este item cheira a flores.}
+{816}{MI: Este item brilha estranhamente.}
+{817}{MI: Iluminação do Painel 1}
+{818}{MI: Iluminação do Painel 2}
+{819}{MI: Iluminação do Painel 3}
+{820}{MI: Iluminação do Painel 4}
+{821}{MI: Iluminação do Painel 5}
+{822}{MI: SuperCura}
+{823}{MI: Projétil de Araya}
+{824}{MI: Invocar Seether}
+{825}{MI: Invocar Homem-Rato}
+{826}{MI: Invocar Wargun}
+{827}{MI: Invocar Cão Funesto}
+{828}{MI: Carne-em-Pedra (Duração)}
+{829}{MI: Desacelerar Grupo}
+{830}{MI: Dano por Veneno}
+{831}{MI: Dano por Fadiga}
+{832}{MI: Invocar Ventos (Todos)}
+{833}{MI: Força Invisível (Todos)}
+{834}{MI: Estase (Duração)}
+{835}{MI: Congelar}
+{836}{MI: Invocar Morto-Vivo}
+{837}{MI: Conjurar Espírito II}
+{838}{MI: Poção de Cura}
+{839}{MI: Botas de Aceleração}
+{840}{MI: 60}
+//
+// Tech-Spell Descriptions
+//
+{841}{Tecnologia: Armadilha}
+{842}{Tecnologia: Construtor Cerebral}
+{843}{Tecnologia: Sugestão Hipnótica}
+{844}{Tecnologia: Efeito de Paralisia Básico}
+{845}{Tecnologia: Fabricante de Músculos}
+{846}{Tecnologia: Aprimorador de Destreza}
+{847}{Tecnologia: Detecção de Magia}
+{848}{Tecnologia: Choque}
+{849}{Tecnologia: Explodir (Alucinação)}
+{850}{Tecnologia: Regeneração de Cura}
+{851}{Tecnologia: Cura Leve}
+{852}{Tecnologia: Restauração de Fadiga}
+{853}{Tecnologia: Curar Envenenamento}
+{854}{Tecnologia: Limitador de Fadiga}
+{855}{Tecnologia: Acelerador de Cura}
+{856}{Tecnologia: Droga Milagrosa}
+{857}{Tecnologia: Cura Total}
+{858}{Tecnologia: Aumentar Inteligência}
+{859}{Tecnologia: Aumentar Força}
+{860}{Tecnologia: Aumentar Percepção}
+{861}{Tecnologia: Aumentar Destreza}
+{862}{Tecnologia: Aumentar Mental}
+{863}{Tecnologia: Aumentar Físico}
+{864}{Tecnologia: Aumentar Tudo}
+{865}{Tecnologia: Veneno}
+{866}{Tecnologia: Alucinação}
+{867}{Tecnologia: Ácido}
+{868}{Tecnologia: Cheiro de Animal}
+{869}{Tecnologia: Regeneração Carregada}
+{870}{Tecnologia: Peçonha}
+{871}{Tecnologia: Detergente}
+{872}{Tecnologia: Veneno Forte}
+{873}{Tecnologia: Vinho}
+{874}{Tecnologia: Água da Vida}
+{875}{Tecnologia: Escudo Elétrico}
+{876}{Tecnologia: Explosão}
+{877}{Tecnologia: Dinamite}
+{878}{Tecnologia: Explodir (Flash)}
+{879}{Tecnologia: Explodir (Fumaça)}
+{880}{Tecnologia: Explosão (Atordoamento)}
+{881}{Tecnologia: Explosão (Fogo)}
+{882}{Tecnologia: Álcool)}
+{883}{Tecnologia: Inversão Magnética}
+{884}{Tecnologia: Isca Animal}
+{885}{Tecnologia: Acionador de Armadilha}
+{886}{Tecnologia: Explosão (Veneno)}
+{887}{Tecnologia: Clarão}
+{888}{Tecnologia: Carga de Inversão Magnética}
+{889}{Tecnologia: Aprimorador de Habilidade de Armadilha}
+{890}{Tecnologia: Revigorador}
+{891}{Tecnologia: Reanimador}
+{892}{Tecnologia: Injeção de Cura}
+{893}{Tecnologia: Cura Milagrosa}
+{894}{Tecnologia: Inibidor Mental}
+{895}{Tecnologia: Necromizador}
+{896}{Tecnologia: Fortificante}
+{897}{Tecnologia: Auxiliar do Sono}
+{898}{Tecnologia: Poção de Paralisia}
+{899}{Tecnologia: Gás de Nocaute}
+{900}{Tecnologia: Explosão (Elétrica)}
+{901}{Tecnologia: Gás Mostarda}
+{902}{Tecnologia: Explosão (Concussão)}
+{903}{Tecnologia: Explosão (Paralisia)}
+{904}{Tecnologia: Lançador de Granadas}
+{905}{Tecnologia: Arma Tranquilizante}
+{906}{Tecnologia: Explosão (Lançador de Granadas)}
+{907}{Tecnologia: Vivificador}
+
+
+//
+// Magick-Item Spell Descriptions Part 2
+//
+{908}{MI2: Feitiço da Morte de Kerghan}
+{909}{MI2: Feitiço de Ataque de Kerghan}
+{910}{MI2: Feitiço de Cura de Kerghan}
+{911}{MI2: Poção de Redução de Fadiga}
+{912}{MI2: Poção da Essência da Intelecto}
+{913}{MI2: Poção de Aceleração}
+{914}{MI2: Líquido de Espessamento da Pele}
+{915}{MI2: Poção do Veneno de Kalispi}
+{916}{MI2: Poção Restauradora}
+{917}{MI2: Invocar Espírito Permanente}
+{918}{MI2: Morte do Cavaleiro Fantasma}
+{919}{Teleporta o conjurador para o ponto de entrada da área atual.}
+{920}{Coquetel Molotov}  // No Translation needed
+{921}{Bomba Relógio}  // No Translation needed
+{922}{Extinguir Vida}  // No Translation needed
+{923}{Forma de Lobo (Permanente)}  // No Translation needed
+
+
+
+
+
+
+//
+// College Descriptions
+//
+{8000}{A Faculdade de Conveyance abriga feitiços que lidam com movimento e transporte.}
+{8001}{A Faculdade de Adivinhação se dedica à obtenção de conhecimento por meios mágicos.}
+{8002}{A Faculdade do Ar abriga os feitiços que manipulam o primeiro material elemental, o do ar e do vento.}
+{8003}{A Faculdade da Terra abriga os feitiços que manipulam o segundo material elemental, o da terra e da pedra.}
+{8004}{A Faculdade do Fogo abriga os feitiços que manipulam o terceiro material elemental, o do fogo e do calor.}
+{8005}{A Faculdade da Água abriga os feitiços que manipulam o quarto material elemental, o da água e do gelo.}
+{8006}{A Faculdade da Força contém feitiços que manipulam e direcionam energia pura.}
+{8007}{A Faculdade Mental contém feitiços que influenciam e controlam as mentes de seus alvos.}
+{8008}{A Faculdade Meta contém feitiços que afetam outros feitiços.}
+{8009}{A Faculdade de Morph contém feitiços que alteram a substância do alvo.}
+{8010}{A Faculdade da Natureza contém feitiços que controlam plantas, animais e forças naturais.}
+{8011}{A Faculdade Negra de Necromancia contém feitiços que afetam negativamente a força vital de uma criatura.}
+{8012}{A Faculdade Branca de Necromancia contém feitiços que afetam positivamente a força vital de uma criatura.}
+{8013}{A Faculdade de Fantasmagoria contém feitiços que dizem respeito ao controle da luz e da ilusão.}
+{8014}{A Faculdade de Invocação contém feitiços que dizem respeito à invocação de criaturas de poder progressivo.}
+{8015}{A Faculdade Temporal se dedica a feitiços que controlam o fluxo do tempo.}
+
+//
+// College Mastery Descriptions
+//
+{9000}{Você é o Mestre de todos os feitiços que lidam com movimento e transporte.}
+{9001}{Você é o Mestre de todos os feitiços que dizem respeito à obtenção de conhecimento por meios mágicos.}
+{9002}{Você é o Mestre de todos os feitiços que manipulam o primeiro material elemental, o do ar e do vento.}
+{9003}{Você é o Mestre de todos os feitiços que manipulam o segundo material elemental, o da terra e da pedra.}
+{9004}{Você é o Mestre de todos os feitiços que manipulam o terceiro material elemental, o do fogo e do calor.}
+{9005}{Você é o Mestre de todos os feitiços que manipulam o quarto material elemental, o da água e do gelo.}
+{9006}{Você é o Mestre de todos os feitiços que manipulam e direcionam energia pura.}
+{9007}{Você é o Mestre de todos os feitiços que influenciam e controlam as mentes de seus alvos.}
+{9008}{Você é o Mestre de todos os feitiços que afetam outros feitiços.}
+{9009}{Você é o Mestre de todos os feitiços que alteram a substância do alvo.}
+{9010}{Você é o Mestre de todos os feitiços que controlam plantas, animais e forças naturais.}
+{9011}{Você é o Mestre de todos os feitiços que afetam negativamente a força vital de uma criatura.}
+{9012}{Você é o Mestre de todos os feitiços que afetam positivamente a força vital de uma criatura.}
+{9013}{Você é o Mestre de todos os feitiços que dizem respeito ao controle da luz e da ilusão.}
+{9014}{Você é o Mestre de todos os feitiços que dizem respeito à invocação de criaturas de poder progressivo.}
+{9015}{Você é o Mestre de todos os feitiços que controlam o fluxo do tempo.}
+
+
+//
+//  Error Message Descriptions
+//
+
+{10000}{Este lugar parece bloquear sua tentativa de teletransporte.}

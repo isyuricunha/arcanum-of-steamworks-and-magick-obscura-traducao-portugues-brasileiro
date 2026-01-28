@@ -1,0 +1,118 @@
+{1}{G:}{}{}{}{}{}
+{2}{Saudações, Senhora. Posso perguntar em qual colégio você é mestre?}{}{5}{lf1 0, re 41}{28}{}
+{3}{De qual colégio você é mestre, grande mago?}{}{5}{lf1 0, re 41}{28}{}
+{4}{Então, de que você é mestre, mago?}{}{5}{lf1 0, re 41}{28}{}
+{5}{Perdoe-me por qualquer ofensa, grande mago. Posso perguntar seu nome?}{}{5}{lf1 0, re -40}{28}{re+5}
+{6}{Hã... Posso perguntar seu nome, senhora?}{}{5}{lf1 0, re -40}{28}{re+2}
+{7}{Bem rude para um "mestre". Quem é você, afinal?}{}{5}{lf1 0, re -40}{28}{}
+{8}{Tenho uma pergunta.}{}{5}{lf1 1, re 41}{36}{}
+{9}{Senhora Ve'Tura? Posso lhe fazer uma pergunta?}{}{5}{lf1 1, re 41}{36}{}
+{10}{Posso tomar um momento do seu tempo, Ve'Tura?}{}{5}{lf1 1, re 41}{36}{}
+{11}{Humpf! ...Tenho uma pergunta... "mestre".}{}{5}{lf1 1, re -40}{36}{}
+{12}{Por favor, perdoe minha intrusão, Ve'Tura. Posso fazer uma pergunta?}{}{5}{lf1 1, re -40}{36}{re+2}
+{13}{Posso tomar um momento do seu tempo, Ve'Tura?}{}{5}{lf1 1, re -40}{36}{re+1}
+{14}{Hã... Qual é o seu nome?}{}{-4}{lf1 0, re 41}{28}{}
+{15}{Hã... qual é o seu nome, malvado?}{}{-4}{lf1 0, re -40}{28}{}
+{16}{Hã... Eu pergunto uma coisa?}{}{-4}{lf1 1, re 41}{36}{}
+{17}{Hã... eu pergunto uma coisa, malvado?}{}{-4}{lf1 1, re -40}{36}{}
+{18}{Melhorei minhas habilidades de transporte, Senhora Ve'Tura.}{}{5}{lf4 1, sc0 5}{78}{}
+{19}{Aperfeiçoei minha aura mágica, Senhora Ve'Tura.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
+{20}{Tenho interesse em me tornar mestre em transporte.}{}{5}{gf2411 0, ma30, lf1 1}{101}{}
+{21}{Ainda não completei o teste de mestria, Ve'Tura.}{}{5}{LF7 1, GF2412 0}{115}{}
+{22}{Completei o teste e me tornei mestre em transporte!}{}{5}{gf2412 1, lf9 0}{119}{}
+{27}{E:}{}{1}{}{0}{}
+{28}{Sou Ve'Tura, Mestra em Transporte. Como posso iluminá-lo?}{Sou Ve'Tura, Mestra em Transporte. Como posso iluminá-lo?}{}{}{}{lf1 1}
+{29}{É uma honra conhecê-la, senhora.}{}{5}{sc0 1, sc0 -4, lf4 0}{73}{}
+{30}{É uma honra conhecê-la, senhora.}{}{5}{sc0 5, lf5 0}{78}{}
+{31}{Você se sente ameaçada pelo avanço da tecnologia?}{}{5}{sc0 0, lf3 0}{65}{}
+{32}{Por favor, explique-me o que é transporte.}{}{5}{sc0 0, lf2 0}{57}{}
+{33}{O que é <<<PH1>>>?}{}{-4}{sc0 0, lf2 0}{57}{}
+{34}{Você acha que a teknawlogia vai te prejudicar?}{}{-4}{sc0 0, lf3 0}{65}{}
+{35}{E:}{}{1}{sc0 0}{0}{}
+{36}{Certamente. Como posso iluminá-lo?}{Certamente. Como posso iluminá-lo?}{}{}{}{}
+{37}{Eu aprimorei minhas habilidades de teletransporte, Mestra Ve'Tura.}{}{5}{lf4 1, sc0 5}{78}{}
+{38}{Eu intensifiquei minha aura mágica, Mestra Ve'Tura.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
+{39}{Tenho interesse em me tornar um mestre do teletransporte.}{}{5}{gf2411 0, ma30}{101}{}
+{40}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
+{41}{Por favor, explique-me o que é teletransporte.}{}{5}{lf2 0}{57}{}
+{42}{O que é cunvayants?}{}{-4}{lf2 0}{57}{}
+{43}{Você acha que a teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
+{44}{F:}{}{1}{}{0}{}
+{45}{E:}{}{1}{}{0}{}
+{46}{Precisa de mais alguma coisa?}{Precisa de mais alguma coisa?}{}{}{}{}
+{47}{Eu aprimorei minhas habilidades de teletransporte, Mestra Ve'Tura.}{}{5}{lf4 1, sc0 5}{78}{}
+{48}{Eu intensifiquei minha aura mágica, Mestra Ve'Tura.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
+{49}{Tenho interesse em me tornar um mestre do teletransporte.}{}{5}{gf2411 0, ma30}{101}{}
+{50}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
+{51}{Por favor, explique-me o que é teletransporte.}{}{5}{lf2 0}{57}{}
+{52}{Não. Obrigado pelo seu tempo.}{}{5}{}{0}{}
+{53}{O que é cunvayants?}{}{-4}{lf2 0}{57}{}
+{54}{Você acha que a teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
+{55}{Não. Obrigado.}{}{-4}{}{0}{}
+{56}{E:}{}{1}{}{0}{}
+{57}{Teletransporte é o movimento de corpos ou itens apenas pela força de vontade. É uma magia extremamente avançada, que exige imensa concentração para ser executada corretamente.}{Teletransporte é o movimento de corpos ou itens apenas pela força de vontade. É uma magia extremamente avançada, que exige imensa concentração para ser executada corretamente.}{}{}{}{lf2 1}
+{58}{Uma das mais refinadas habilidades mágicas disponíveis, na minha opinião, madame.}{}{5}{}{46}{re+2}
+{59}{Muito interessante...}{}{5}{}{46}{}
+{60}{Ha! Eu não preciso me concentrar para usar o trem... Você deveria experimentar.}{}{5}{ma-29}{46}{re-2}
+{61}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
+{62}{Você acha que a teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
+{63}{Hã... tá bom. Obrigado.}{}{-4}{}{0}{}
+{64}{E:}{}{1}{}{0}{}
+{65}{Ameaçado? Ah, não, não... Por favor, lembre-se, senhor, que a força imensurável que chamamos de magia está conosco desde o alvorecer dos tempos. Essa nova "tecnologia" é apenas uma atitude incidental. Com o tempo, verá que as histórias a registrarão como insignificante.}{Ameaçada? Ah, não, não... Por favor, lembre-se, madame, que a força imensurável que chamamos de magia está conosco desde o alvorecer dos tempos. Essa nova "tecnologia" é apenas uma atitude incidental. Com o tempo, verá que as histórias a registrarão como insignificante.}{}{}{}{lf3 1}
+{66}{Sim. A senhora é muito sábia, Mestra Ve'Tura, por enxergar tal verdade.}{}{5}{}{46}{re+3}
+{67}{Você é incrivelmente ingênuo, se "isso" é o que acredita, mago.}{}{5}{ma-29}{46}{re-3}
+{68}{Hmm... Uma opinião interessante. Obrigado por compartilhá-la comigo.}{}{5}{}{46}{}
+{69}{Por favor, explique-me o que é transporte mágico.}{}{5}{lf2 0}{57}{}
+{70}{O quê? Cunvaiantes?}{}{-4}{lf2 0}{57}{}
+{71}{Hã... tá bom. Valeu.}{}{-4}{}{0}{}
+{72}{E:}{}{1}{}{0}{}
+{73}{Ah... Sinto que você estudou transporte mágico. Uma excelente escolha de estudos, senhor. Também me sinto honrado em conhecê-lo, @pcname@.}{Ah... Sinto que você estudou transporte mágico. Uma excelente escolha de estudos, senhora. Também me sinto honrado em conhecê-la, @pcname@.}{}{}{}{lf4 1}
+{74}{Obrigado. Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
+{75}{Obrigado, senhora. Pode me explicar mais sobre transporte mágico?}{}{5}{lf2 0}{57}{}
+{76}{Obrigado, mestre.}{}{5}{}{0}{}
+{77}{E:}{}{1}{}{0}{}
+{78}{Vejo que você se tornou perito em todas as áreas do transporte mágico. Ofereço-lhe meus parabéns. Tenho certeza de que está bastante orgulhoso do poder que domina. Achou difícil se tornar proficiente em teletransporte?}{Vejo que você se tornou perita em todas as áreas do transporte mágico. Ofereço-lhe meus parabéns. Tenho certeza de que está bastante orgulhosa do poder que domina. Achou difícil se tornar proficiente em teletransporte?}{}{}{}{lf5 1}
+{79}{Fui um talento natural, senhora.}{}{5}{gf2411 0, ma 30}{95}{}
+{80}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 0, ma 30}{95}{}
+{81}{Extremamente difícil, senhora. Porém, minha resistência compensou.}{}{5}{gf2411 0, ma 30}{95}{}
+{82}{Fui um talento natural, senhor.}{}{5}{gf2411 0, ma -29}{89}{}
+{83}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 0, ma -29}{89}{}
+{84}{Extremamente difícil, senhor. Porém, minha resistência compensou.}{}{5}{gf2411 0, ma -29}{89}{}
+{85}{Fui um talento natural, senhora.}{}{5}{gf2411 1}{46}{}
+{86}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 1}{46}{}
+{87}{Extremamente difícil, senhora. Porém, minha resistência compensou.}{}{5}{gf2411 1}{46}{}
+{88}{E:}{}{1}{}{0}{}
+{89}{Você dominou todos os aspectos do transporte mágico, mas sua aura de magia parece fraca. Receio que tenha sido corrompido pelos caprichos da tecnologia. Uma pena... Caso algum dia aumente suas habilidades mágicas, volte a me procurar. Talvez eu tenha uma proposta para lhe fazer.}{Você dominou todos os aspectos do transporte mágico, mas sua aura de magia parece fraca. Receio que tenha sido corrompida pelos caprichos da tecnologia. Uma pena... Caso algum dia aumente suas habilidades mágicas, volte a me procurar. Talvez eu tenha uma proposta para lhe fazer.}{}{}{}{}
+{90}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
+{91}{Prefiro trilhar um caminho equilibrado entre os dois.}{}{5}{}{46}{re-2}
+{92}{Acredito que a tecnologia se tornará o pilar principal, com o tempo.}{}{5}{}{46}{re-5}
+{93}{Estou trabalhando para melhorar minhas habilidades mágicas, senhora.}{}{5}{}{46}{re+5}
+{94}{E:}{}{1}{}{0}{}
+{95}{Hmm... Você realmente possui uma aura forte de magia... Será que teria interesse em se tornar um mestre em transporte mágico?}{Hmm... Você realmente possui uma aura forte de magia... Será que teria interesse em se tornar uma mestra em transporte mágico?}{}{}{}{lf61}
+{96}{Um mestre? O que é necessário para alcançar tal título?}{}{5}{}{101}{}
+{97}{O que eu preciso fazer?}{}{5}{}{101}{}
+{98}{Não por enquanto, obrigado.}{}{5}{}{46}{}
+{100}{E:}{}{1}{}{0}{}
+{101}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande presente... o esforço necessário para lançar cada feitiço na escola de maestria é grandemente reduzido! ...Você está interessado em tentar o teste?}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande presente... o esforço necessário para lançar cada feitiço na escola de maestria é grandemente reduzido! ...Você está interessado em tentar o teste?}{}{}{}{}
+{102}{Sim, estou, madame.}{}{5}{}{106}{}
+{103}{Sim.}{}{5}{}{106}{}
+{104}{Não neste momento, obrigado.}{}{5}{}{46}{}
+{105}{E:}{}{1}{}{0}{}
+{106}{Devo adverti-lo, no entanto... Você só pode obter maestria em 1 escola de magia. Deseja tentar o teste e dominar a escola de transporte, acima de todas as outras?}{Devo adverti-lo, no entanto... Você só pode obter maestria em 1 escola de magia. Deseja tentar o teste e dominar a escola de transporte, acima de todas as outras?}{}{}{}{}
+{107}{Sim, eu gostaria.}{}{5}{}{111}{}
+{108}{Vou pensar a respeito.}{}{5}{}{46}{}
+{109}{Não neste momento, obrigado.}{}{5}{}{46}{}
+{110}{E:}{}{1}{}{0}{}
+{111}{Uma excelente escolha. Aqui. [Ela retira o medalhão de seu pescoço.] Pegue este medalhão. Quando estiver preparado para enfrentar seu teste, coloque-o e prossiga pelo portal localizado no centro deste salão. Isso iniciará seu teste. Desejo-lhe sorte, @pcname@.}{Uma excelente escolha. Aqui. [Ela retira o medalhão de seu pescoço.] Pegue este medalhão. Quando estiver preparado para enfrentar seu teste, coloque-o e prossiga pelo portal localizado no centro deste salão. Isso iniciará seu teste. Desejo-lhe sorte, @pcname@.}{}{}{}{in-2832, gf2411 1, lf7 1}
+{112}{Obrigado.}{}{5}{}{0}{}
+{113}{A:}{}{5}{}{0}{}
+{114}{E:}{}{5}{}{0}{}
+{115}{Sim... Às vezes, é difícil preparar-se para tal prova. Quando se sentir adequadamente preparado, prossiga pelos arcos localizados no coração de Tulla. Lembre-se, você deve estar usando o medalhão que criei para você.}{Sim... Às vezes, é difícil preparar-se para tal prova. Quando se sentir adequadamente preparado, prossiga pelos arcos localizados no coração de Tulla. Lembre-se, você deve estar usando o medalhão que criei para você.}{}{}{}{}
+{116}{Vou completar meus preparativos e realizar o teste. Adeus.}{}{5}{}{0}{}
+{117}{Vou me tornar um mestre! Adeus.}{}{5}{}{0}{}
+{118}{E:}{}{5}{}{0}{}
+{119}{Muito bem! Muito bem mesmo, @pcname@! Pouquíssimos foram aqueles que tive a alegria de parabenizar por tal conquista. Você verá que sua força em nossa escola foi duplicada. Assim, sentirá metade do esforço ao lançar um feitiço. Novamente, meus parabéns.}{Muito bem! Muito bem mesmo, @pcname@! Pouquíssimos foram aqueles que tive a alegria de parabenizar por tal conquista. Você verá que sua força em nossa escola foi duplicada. Assim, sentirá metade do esforço ao lançar um feitiço. Novamente, meus parabéns.}{}{}{}{lf9 1}
+{120}{Obrigado, mestre.}{}{5}{}{0}{}
+{121}{Obrigado, Ve'Tura. Posso lhe perguntar algo mais?}{}{5}{}{46}{}
+{122}{E:}{}{5}{}{0}{}
+

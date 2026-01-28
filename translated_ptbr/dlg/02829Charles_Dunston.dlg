@@ -1,0 +1,62 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Saudações, senhor. Posso perguntar quem é você?}{}{5}{me 0, re 41}{35}{}
+{3}{Olá, Sr. Dunston. Seria possível tomar um momento do seu tempo?}{}{5}{me 1, re 41}{39}{}
+{4}{Senhor! Acabamos de nos conhecer! Onde estão seus modos?}{}{5}{me 0, re -40}{11}{}
+{5}{Sr. Dunston! Fiz algo para ofendê-lo?}{}{5}{me 1, re -40}{11}{}
+{6}{Oi! Quem é você?}{}{-4}{me 0}{35}{}
+{7}{Oi, Chucky! Posso te fazer algumas perguntas?}{}{-4}{me 1}{39}{}
+{8}{E:}{}{-4}{}{0}{}
+{11}{Normalmente guardo minhas opiniões sobre esses assuntos para mim mesmo, mas não consigo evitar... você é uma das pessoas mais desagradáveis que já tive o desprazer de conhecer. Por favor! Acho que seria melhor se me deixasse em paz!}{Normalmente guardo minhas opiniões sobre esses assuntos para mim mesmo, mas não consigo evitar... você é uma das pessoas mais desagradáveis que já tive o desprazer de conhecer. Por favor! Acho que seria melhor se me deixasse em paz!}{}{}{}{}
+{12}{Como disse? Talvez o senhor queira reconsiderar suas palavras...}{}{5}{ch 12}{30}{}
+{13}{Senhor! Tenho certeza de que podemos deixar isso para trás...}{}{5}{me 0}{25}{re +15}
+{14}{Sr. Dunston! Não há como deixar nossas diferenças de lado...?}{}{5}{me 1}{25}{re +15}
+{15}{Mais uma palavra como essa, e você vai beijar o chão, cretino...}{}{5}{}{}{co, fl 23}
+{16}{E:}{}{5}{}{0}{}
+{18}{Desculpe... ouvi corretamente, senhor? Não acho que vá gostar do tipo de encrenca que vai encontrar aqui, amigo. Sugiro que controle sua língua...}{Desculpe... ouvi corretamente? Não acho que vá gostar do tipo de encrenca que vai encontrar aqui, senhora. Sugiro que controle sua língua...}{}{}{}{}
+{19}{Talvez eu tenha exagerado um pouco. Aceite minhas desculpas...}{}{5}{}{25}{re +15}
+{20}{O único problema que prevejo é encontrar um lugar para descartar seu cadáver...}{}{5}{}{}{co, fl 23}
+{21}{E:}{}{5}{}{0}{}
+{23}{Muito bem. Você pediu por isso...}{Muito bem. Você pediu por isso...}{}{}{}{}
+{25}{[O homem lhe lança um olhar duro, ponderando.] Talvez eu possa lhe conceder um ou dois minutos do meu tempo. Seja rápido, no entanto...}{[O homem lhe lança um olhar duro, ponderando.] Talvez eu possa lhe conceder um ou dois minutos do meu tempo. Seja rápido, no entanto...}{}{}{}{}
+{26}{Obrigado, senhor. Posso perguntar quem é o senhor?}{}{5}{me 0}{35}{re +5}
+{27}{Agradeço, Sr. Dunston. O senhor teria um ou dois minutos?}{}{5}{me 1}{39}{}
+{28}{E:}{}{5}{}{0}{}
+{30}{[O homem parece surpreso com seus modos civilizados, então faz uma leve reverência.] Vejo que deixei minha língua falar antes da educação, bom senhor. Por favor, aceite minhas mais humildes desculpas. Como posso ajudá-lo?}{[O homem parece surpreso com seus modos civilizados, então faz uma leve reverência.] Vejo que deixei minha língua falar antes da educação, senhora. Por favor, aceite minhas mais humildes desculpas. Como posso ajudá-la?}{}{}{}{}
+{31}{Desculpas aceitas, senhor. Posso perguntar seu nome?}{}{5}{me 0}{35}{}
+{32}{Está esquecido. Posso fazer algumas perguntas?}{}{5}{me 1}{39}{}
+{33}{E:}{}{5}{}{0}{}
+{35}{Sim, claro! Sou Charles Dunston... o gerente da Usina de Água e Energia de Tarant. Prazer em conhecê-lo...}{Sim, claro! Sou Charles Dunston... o gerente da Usina de Água e Energia de Tarant. Prazer em conhecê-la...}{}{}{}{}
+{36}{O prazer é meu, senhor. Tem um momento?}{}{5}{}{39}{}
+{37}{Oi! Eu @PCNAME@! Posso te fazer algumas perguntas?}{}{-4}{}{39}{}
+{39}{Certamente...}{Certamente...}{}{}{}{}
+{40}{O que o senhor faz aqui, Sr. Dunston?}{}{5}{}{50}{}
+{41}{Notei que o senhor isolou partes dos esgotos. Por que isso?}{}{5}{gf2655 1}{55}{}
+{42}{Há alguma maneira de eu entrar nos esgotos para dar uma olhada?}{}{5}{}{65}{}
+{43}{O que cê faz aqui, Chucky?}{}{-4}{}{50}{}
+{44}{Hm... vi um aviso que diz que ocê fechou os esgotos. Por que fez isso?}{}{-4}{gf2655 1}{55}{}
+{45}{Talvez eu dê uma olhada nos esgotos, Chuck? Posso? Posso?}{}{-4}{}{65}{}
+{46}{E:}{}{1}{}{0}{}
+{50}{Aqui na usina? Ah, regulamos o uso de energia da cidade e garantimos que os sistemas de esgoto estejam funcionando corretamente. Tarant é uma cidade tecnologicamente avançada, senhor, e é um trabalho em tempo integral manter tudo funcionando sem problemas. E, claro, temos tido problemas ultimamente com os antigos esgotos...}{Aqui na usina? Ah, regulamos o uso de energia da cidade e garantimos que os sistemas de esgoto estejam funcionando corretamente. Tarant é uma cidade tecnologicamente avançada, senhora, e é um trabalho em tempo integral manter tudo funcionando sem problemas. E, claro, temos tido problemas ultimamente com os antigos esgotos...}{}{}{}{}
+{51}{Que problemas são esses, Sr. Dunston?}{}{5}{}{55}{}
+{52}{Que problemas, Chucky?}{}{-4}{}{55}{}
+{53}{E:}{}{1}{}{0}{}
+{55}{Bem, como pode imaginar, nunca houve um lugar mais perfeito para pragas e criaturas malignas do que um sistema de esgotos. Infelizmente, é quase impossível manter essas pragas LÁ EMBAIXO nos esgotos depois que elas se instalam. [Ele balança a cabeça.] Houve algumas fatalidades...}{Bem, como pode imaginar, nunca houve um lugar mais perfeito para pragas e criaturas malignas do que um sistema de esgotos. Infelizmente, é quase impossível manter essas pragas LÁ EMBAIXO nos esgotos depois que elas se instalam. [Ele balança a cabeça.] Houve algumas fatalidades...}{}{}{}{}
+{56}{Lamento ouvir isso. Então o senhor lacrou todos os esgotos?}{}{5}{}{60}{}
+{57}{Isso não é bom. Então você fechou todos eles?}{}{-4}{}{60}{}
+{58}{E:}{}{1}{}{0}{}
+{60}{Não... apenas as piores partes. Alguns dos esgotos ainda estão abertos para a rua, embora eu não recomendasse andar por lá também. Criaturas não são as únicas coisas que você vai encontrar lá embaixo...}{Não... apenas as piores partes. Alguns dos esgotos ainda estão abertos para a rua, embora eu não recomendasse andar por lá também. Criaturas não são as únicas coisas que você vai encontrar lá embaixo...}{}{}{}{}
+{61}{Entendo. Há algum jeito de eu descer até os esgotos ANTIGOS?}{}{5}{}{65}{}
+{62}{Hmm... talvez eu consiga descer nos esgotos antigos?}{}{-4}{}{65}{}
+{63}{E:}{}{1}{}{0}{}
+{65}{[Ele cerra o maxilar firmemente.] NÃO. Ninguém tem permissão para descer lá, exceto com a minha autorização. E posso lhe dizer agora mesmo: NINGUÉM vai conseguir minha autorização. Essa é minha palavra final sobre o assunto. Só há um caminho para lá embaixo, e você terá que passar por mim para usá-lo.}{[Ele cerra o maxilar firmemente.] NÃO. Ninguém tem permissão para descer lá, exceto com a minha autorização. E posso lhe dizer agora mesmo: NINGUÉM vai conseguir minha autorização. Essa é minha palavra final sobre o assunto. Só há um caminho para lá embaixo, e você terá que passar por mim para usá-lo.}{}{}{}{}
+{66}{Entendo. Então não há como descer lá, exceto por aqui?}{}{5}{}{75}{}
+{67}{Então não vejo problema. Vou matá-lo e descer por conta própria...}{}{5}{}{}{co,fl 23}
+{68}{Tem certeza que não tem outro jeito de descer, a não ser por aqui?}{}{-4}{}{75}{}
+{69}{Ótimo! Então eu te mato e desço!}{}{-4}{}{}{co,fl 23}
+{70}{E:}{}{1}{}{0}{}
+{75}{Não. Como já lhe disse, pelo que sei, lacramos todas as entradas para os esgotos antigos quando achei necessário. Pode haver outro caminho, mas, se houver, eu não sei qual é.}{Não. Como já lhe disse, pelo que sei, lacramos todas as entradas para os esgotos antigos quando achei necessário. Pode haver outro caminho, mas, se houver, eu não sei qual é.}{}{}{}{}
+{76}{Entendo. Bem, então acho que vou atravessá-lo e descer por aqui...}{}{5}{}{}{co,fl 23}
+{77}{Que pena. Parece que vou te matar e descer agora!}{}{-4}{}{}{co,fl 23}
+{78}{K:}{}{1}{}{39}{}
+{79}{E:}{}{1}{}{0}{}
+

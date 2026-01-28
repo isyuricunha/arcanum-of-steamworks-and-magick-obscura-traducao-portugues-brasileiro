@@ -1,0 +1,159 @@
+{1}{Saudações! É bom vê-lo novamente! E mais uma vez lhe agradeço... Assumi meu lugar de direito como Rei dos Anões... Fiz as pazes com meu passado, mas não esqueci suas lições. Diga-me, descobriu algo sobre o destino do Clã da Montanha Negra?}{Saudações! É bom vê-lo novamente! E mais uma vez lhe agradeço... Assumi meu lugar de direito como Rei dos Anões... Fiz as pazes com meu passado, mas não esqueci suas lições. Diga-me, descobriu algo sobre o destino do Clã da Montanha Negra?}{}{1}{}{}
+{2}{Sim... Eu sei o que aconteceu com eles... [Conte a ele.]}{}{5}{qu1016 4, pa 6613}{41}{}
+{3}{Sim... Eu sei o que aconteceu com eles... [Conte a ele.]}{}{5}{qu1016 4, pa 6426, pa -6613}{11}{}
+{4}{Sim... Eu sei o que aconteceu com eles... [Conte a ele.]}{}{5}{qu1016 4, pa -6426, pa -6613}{20}{}
+{5}{Não... Ainda estou investigando...}{}{5}{qb1016 3}{}{fl 9}
+{6}{E:}{}{5}{}{0}{}
+{9}{Bem, boa sorte então! E volte aqui se descobrir algo...}{Bem, boa sorte então! E volte aqui se descobrir algo...}{}{2}{}{}
+{11}{[Ele fica em silêncio por um momento, então olha para Raven.] Uma história interessante. E vejo que trouxe consigo a princesa Raven. Saudações, princesa...}{[Ele fica em silêncio por um momento, então olha para Raven.] Uma história interessante. E vejo que trouxe consigo a princesa Raven. Saudações, princesa...}{}{3}{}{}
+{12}{[Ouvir.]}{}{5}{}{-11}{}
+{14}{Não, nunca nos conhecemos. Na verdade, nunca conheci sua mãe também. Como sabe, as relações entre elfos e anões sempre foram, bem, tensas na melhor das hipóteses...}{Não, nunca nos conhecemos. Na verdade, nunca conheci sua mãe também. Como sabe, as relações entre elfos e anões sempre foram, bem, tensas na melhor das hipóteses...}{}{4}{}{}
+{15}{[Ouvir.]}{}{5}{}{-20}{}
+{17}{[Loghaire sorri.] Agradeço-lhe, princesa Raven. Talvez este possa ser um ponto de virada entre o Clã da Roda e os elfos de Qintarra. Depois que resolvermos esse mal, é claro...}{[Loghaire sorri.] Agradeço-lhe, princesa Raven. Talvez este possa ser um ponto de virada entre o Clã da Roda e os elfos de Qintarra. Depois que resolvermos esse mal, é claro...}{}{5}{}{}
+{18}{O que quer dizer com 'nós', Loghaire?}{}{5}{}{20}{}
+{20}{Isso vai muito além do que eu imaginava. O destino de Arcanum está em jogo. Parece que mais uma vez é meu dever consertar as coisas.}{Isso vai muito além do que eu imaginava. O destino de Arcanum está em jogo. Parece que mais uma vez é meu dever consertar as coisas.}{}{6}{}{}
+{21}{O que quer dizer, Loghaire?}{}{5}{pa -6411}{37}{}
+{22}{O que está dizendo, Loghaire?}{}{5}{pa 6411}{25}{}
+{25}{[Ele nota Magnus parado ao seu lado.] Quero dizer que seu amigo aqui não é o único anão em Arcanum disposto a fazer sua parte nesta missão. Diga-me, jovem irmão... quem é você?}{[Ele nota Magnus parado ao seu lado.] Quero dizer que seu amigo aqui não é o único anão em Arcanum disposto a fazer sua parte nesta missão. Diga-me, jovem irmão... quem é você?}{}{7}{}{}
+{26}{[Ouvir.]}{}{5}{}{-28}{}
+{28}{Magnus Punho de Xisto, é? É um prazer conhecê-lo, Magnus. Acredito que nunca ouvi o nome Punho de Xisto... a qual clã pertence?}{Magnus Punho de Xisto, é? É um prazer conhecê-lo, Magnus. Acredito que nunca ouvi o nome Punho de Xisto... a qual clã pertence?}{}{8}{}{}
+{29}{[Ouvir.]}{}{5}{}{-37}{}
+{31}{Entendo. [Loghaire coloca a mão no ombro dele.] Ouça, rapaz. Um anão carrega seu clã no coração. Nem o tempo nem a distância podem separá-lo deles, e um anão sempre acaba voltando para casa. Você entende, Magnus...?}{Entendo. [Loghaire coloca a mão no ombro dele.] Ouça, rapaz. Um anão carrega seu clã no coração. Nem o tempo nem a distância podem separá-lo deles, e um anão sempre acaba voltando para casa. Você entende, Magnus...?}{}{9}{}{}
+{32}{[Ouvir.]}{}{5}{}{-45}{}
+{34}{Você já está fazendo isso, rapaz. [Loghaire gesticula para você.] Já fez o suficiente para deixar qualquer clã orgulhoso. Arcanum precisa de heróis, e você atendeu ao chamado. [Ele olha de volta para você.] Estou pronto para atender a esse chamado também...}{Você já está fazendo isso, rapaz. [Loghaire gesticula para você.] Já fez o suficiente para deixar qualquer clã orgulhoso. Arcanum precisa de heróis, e você atendeu ao chamado. [Ele olha de volta para você.] Estou pronto para atender a esse chamado também...}{}{10}{}{}
+{35}{O que está dizendo, Loghaire?}{}{5}{}{37}{}
+{37}{Estou dizendo que pretendo fazer o que for necessário para vingar meu povo e salvar nosso mundo...}{Estou dizendo que pretendo fazer o que for necessário para vingar meu povo e salvar nosso mundo...}{}{11}{}{}
+{38}{Excelente. Você vai se juntar a mim?}{}{5}{}{81}{jo 0 73}
+{39}{E:}{}{5}{}{0}{}
+{41}{Entendo. Fomos traídos, enganados por esses... Elfos Negros... [Ele cospe as palavras, então parece notar Z'an Al'urin pela primeira vez.] E quem é esta? Esta moça não é uma elfa? Seu vestido não é como o dos elfos de Qintarra... quem é ela...?}{Entendo. Fomos traídos, enganados por esses... Elfos Negros... [Ele cospe as palavras, então parece notar Z'an Al'urin pela primeira vez.] E quem é esta? Esta moça não é uma elfa? Seu vestido não é como o dos elfos de Qintarra... quem é ela...?}{}{12}{}{}
+{49}{O nome dela é Z'an Al'urin... ela... ela é uma Elfa Negra...}{}{5}{}{51}{}
+{51}{O QUÊ? Você ousa trazer uma das traidoras para nossas próprias casas? Os crimes que eles cometeram contra o meu povo são imperdoáveis! Eu terei minha vingança!}{O QUÊ? Você ousa trazer uma das traidoras para nossas próprias casas? Os crimes que eles cometeram contra o meu povo são imperdoáveis! Eu terei minha vingança!}{}{13}{}{}
+{52}{Espere, Loghaire! Você não entende!}{}{5}{pa 6411}{-53}{}
+{53}{Espere! Você não entende! Ela é diferente! Ela não é...}{}{5}{pa -6411}{-78}{}
+{55}{[Ele se vira para Magnus.] Você vai defender esta mulher maligna, irmão? Qual é o seu nome? De que clã você é? Fale!}{[Ele se vira para Magnus.] Você vai defender esta mulher maligna, irmão? Qual é o seu nome? De que clã você é? Fale!}{}{14}{}{}
+{56}{[Ouvir.]}{}{5}{}{-62}{}
+{58}{[As feições de Loghaire se suavizam.] Entendo, rapaz. Perdoe... perdoe meu acesso de raiva. Mas esta elfa! Ela traiu o nosso povo, Magnus Punho de Pedra! Você pode negar isso? Algo precisa ser feito!}{[As feições de Loghaire se suavizam.] Entendo, rapaz. Perdoe... perdoe meu acesso de raiva. Mas esta elfa! Ela traiu o nosso povo, Magnus Punho de Pedra! Você pode negar isso? Algo precisa ser feito!}{}{15}{}{}
+{59}{[Ouvir.]}{}{5}{}{-70}{}
+{61}{[Loghaire parece confuso.] Não entendo... você vive entre eles, e ainda assim não acredita no que eles acreditam? Isso não faz sentido! Por que eu deveria confiar em você mais do que neles?}{[Loghaire parece confuso.] Não entendo... você vive entre eles, e ainda assim não acredita no que eles acreditam? Isso não faz sentido! Por que eu deveria confiar em você mais do que neles?}{}{16}{}{}
+{62}{[Ouvir.]}{}{5}{}{-85}{}
+{64}{Lorek! Como ousa pronunciar esse nome aqui! É blasfêmia! Sua traição à Pedra dos Anões foi um crime ainda maior do que o do seu povo!}{Lorek! Como ousa pronunciar esse nome aqui! É blasfêmia! Sua traição à Pedra dos Anões foi um crime ainda maior do que o do seu povo!}{}{17}{}{}
+{65}{[Ouvir.]}{}{5}{}{-93}{}
+{67}{Não serei questionado pelo seu tipo, elfa! Isso não tem nada a ver com o que o SEU povo é responsável...!}{Não serei questionado pelo seu tipo, elfa! Isso não tem nada a ver com o que o SEU povo é responsável...!}{}{18}{}{}
+{68}{[Ouvir.]}{}{5}{}{-101}{}
+{70}{[Loghaire fica em silêncio por um momento, então suspira profundamente.] Sim, você está certo. Sou velho, e às vezes é difícil para um homem velho enxergar novas verdades. Perdoe-me, Z'an Al'urin... se seus companheiros confiam em você, então eu também confio. Você é bem-vinda no Clã da Roda. [Ele se vira para você.] E agora é hora de eu cumprir minha parte nisso também...}{[Loghaire fica em silêncio por um momento, então suspira profundamente.] Sim, você está certo. Sou velho, e às vezes é difícil para um homem velho enxergar novas verdades. Perdoe-me, Z'an Al'urin... se seus companheiros confiam em você, então eu também confio. Você é bem-vinda no Clã da Roda. [Ele se vira para você.] E agora é hora de eu cumprir minha parte nisso também...}{}{19}{}{}
+{71}{O que você quer dizer, Loghaire?}{}{5}{}{37}{}
+{73}{Sim... acho que você seria um ótimo companheiro. Já fiz os preparativos... devemos partir agora?}{Sim... acho que você seria um ótimo companheiro. Já fiz os preparativos... devemos partir agora?}{}{20}{}{}
+{74}{Não há momento melhor que o presente... vamos embora...}{}{5}{}{77}{}
+{77}{Sim... para o que quer que nos aguarde...}{Sim... para o que quer que nos aguarde...}{}{21}{}{}
+{78}{E:}{}{5}{}{0}{}
+{81}{Precisa de mais alguma coisa?}{Precisa de mais alguma coisa?}{}{22}{}{lf1 1}
+{82}{E:}{}{5}{}{0}{}
+{85}{Olá, meu amigo... como posso ajudá-lo?}{Olá, meu amigo... como posso ajudá-lo?}{}{23}{}{}
+{86}{Você não gostaria de reconsiderar minha oferta de se juntar a nós? Poderíamos usar você...}{}{5}{}{81}{jo 0 73}
+{116}{O que você precisa?}{O que você precisa?}{}{24}{}{}
+{117}{B:}{}{5}{wa 0}{}{}
+{118}{K:}{}{5}{wa 0}{140}{}
+{119}{Eu gostaria que você fizesse algo por mim, Loghaire...}{}{5}{wa 0}{237}{}
+{123}{Você pode parar de esperar agora, Loghaire...}{}{5}{wa 1}{259}{jo 0 245}
+{124}{E:}{}{5}{}{0}{}
+{125}{Hã...}{}{-4}{}{}{fl 130}
+{130}{[Loghaire não diz nada, fungando com desdém diante de sua deterioração mental.]}{[Loghaire não diz nada, fungando com desdém diante de sua deterioração mental.]}{}{}{}{}
+{140}{O que você quer saber?}{O que você quer saber?}{}{25}{}{}
+{141}{Eu gostaria de saber algumas coisas sobre você, Loghaire...}{}{1}{}{}{ce}
+{142}{O que você sabe sobre este lugar?}{}{1}{ia 1}{278}{}
+{143}{O que você sabe sobre este lugar?}{}{1}{ia 21}{282}{}
+{144}{O que você sabe sobre este lugar?}{}{1}{ia 4}{274}{}
+{145}{O que você sabe sobre este lugar?}{}{1}{ia 6}{285}{}
+{147}{O que você sabe sobre este lugar?}{}{1}{ia 9}{288}{}
+{148}{O que você sabe sobre este lugar?}{}{1}{ia 11}{294}{}
+{149}{O que você sabe sobre este lugar?}{}{1}{ia 16}{297}{}
+{150}{Alguma reflexão neste momento, Loghaire?}{}{1}{ss 15, ss -15}{300}{}
+{151}{O que você está pensando, Loghaire?}{}{1}{ss 16, ss -16}{303}{}
+{152}{Alguma informação útil que você possa compartilhar comigo?}{}{1}{ss 17, ss -17}{306}{}
+{153}{O que você acha dessa missão em Vendigroth?}{}{1}{ss 18, ss -18}{313}{}
+{154}{Estamos no Vazio! Uma coisa bem estranha, não é, Loghaire?}{}{1}{ss 20}{316}{}
+{155}{Loghaire, você parece chateado comigo. Há algo que eu possa fazer?}{}{1}{re -20}{210}{}
+{156}{E:}{}{1}{}{0}{}
+{210}{A paciência é, sem dúvida, uma virtude régia, mas suas ações ultimamente têm sido questionáveis. Porém, até mesmo um rei tem seus vícios. Se você me trouxesse um bom rapé anão, eu poderia ser persuadido a relevar certas coisas...}{A paciência é, sem dúvida, uma virtude régia, mas suas ações ultimamente têm sido questionáveis. Porém, até mesmo um rei tem seus vícios. Se você me trouxesse um bom rapé anão, eu poderia ser persuadido a relevar certas coisas...}{}{48}{}{}
+{211}{Ora, vamos, Loghaire... isso é realmente necessário?}{}{5}{ch 20}{217}{re +20}
+{212}{Certamente, Loghaire... eu tenho um pouco aqui mesmo...}{}{5}{in 3614, ch -19}{-111}{re +20}
+{213}{Vou providenciar um pouco para Vossa Alteza...}{}{5}{in -3614, ch -19}{223}{}
+{214}{Bem, eu odiaria incentivar um vício tão baixo. Vamos embora...}{}{5}{}{}{re -5, fl 226}
+{217}{[A raiva lampeja nos olhos de Loghaire, mas ele se rende à sua forte personalidade.] Sim, bem... suponho que até mesmo um rei pode estar errado de vez em quando. Vamos esquecer que falamos sobre isso...}{[A raiva lampeja nos olhos de Loghaire, mas ele se rende à sua forte personalidade.] Sim, bem... suponho que até mesmo um rei pode estar errado de vez em quando. Vamos esquecer que falamos sobre isso...}{}{49}{}{}
+{218}{Tudo bem, Vossa Alteza. Vamos...}{}{5}{}{0}{}
+{220}{[Loghaire pega o rapé de você, tomando uma grande pitada.] Sniff... ah! Que rapé bom, meu amigo! Sou um novo anão! Vamos continuar...}{[Loghaire pega o rapé de você, tomando uma grande pitada.] Sniff... ah! Que rapé bom, meu amigo! Sou um novo anão! Vamos continuar...}{}{50}{}{}
+{221}{Fico feliz, Loghaire. Você gostaria de se juntar a mim?}{}{5}{pa 6557}{259}{jo 0 270}
+{222}{Fico feliz que tenha gostado, Loghaire. Vamos...?}{}{5}{pa -6557}{0}{}
+{223}{Bom, bom. Não sei por quanto tempo posso tolerar a situação atual...}{Bom, bom. Não sei por quanto tempo posso tolerar a situação atual...}{}{51}{}{}
+{224}{Entendo, Loghaire. Vamos...}{}{5}{}{0}{}
+{226}{[Resmungando.] Ora! Essa não é uma atitude para se ter com o Rei dos Anões! Não vou tolerar esse comportamento por muito tempo...}{[Resmungando.] Ora! Essa não é uma atitude para se ter com o Rei dos Anões! Não vou tolerar esse comportamento por muito tempo...}{}{52}{}{}
+{237}{Sim? O que é?}{Sim? O que é?}{}{26}{}{}
+{238}{Saia do caminho, Loghaire.}{}{5}{}{0}{so}
+{239}{Chegue um pouco mais perto, Loghaire.}{}{5}{}{0}{sc}
+{240}{Espere aqui por um tempo...}{}{5}{wa 0}{248}{wa}
+{241}{Você pode parar de esperar agora, Loghaire.}{}{5}{wa 1}{259}{uw 0 245}
+{242}{Acho melhor você deixar o grupo.}{}{5}{}{251}{lv}
+{243}{[Voltar]}{}{5}{}{116}{}
+{245}{Sim, vamos continuar esta jornada...}{Sim, vamos continuar esta jornada...}{}{27}{}{}
+{246}{E:}{}{1}{}{0}{}
+{248}{Vou esperar aqui por você, mas não demore muito. Anões não são conhecidos pela paciência...}{Vou esperar aqui por você, mas não demore muito. Anões não são conhecidos pela paciência...}{}{28}{}{}
+{249}{E:}{}{1}{}{0}{}
+{251}{Não tenho certeza se esse é um curso de ação muito sábio, meu amigo. Sempre se pode usar a sabedoria e a força dos anões. Mas suponho que você deva fazer suas próprias escolhas. Adeus...}{Não tenho certeza se esse é um curso de ação muito sábio, meu amigo. Sempre se pode usar a sabedoria e a força dos anões. Mas suponho que você deva fazer suas próprias escolhas. Adeus...}{}{29}{}{lf31 1}
+{252}{E:}{}{1}{}{0}{}
+{254}{Saudações, meu amigo. Você reconsiderou me levar junto...?}{Saudações, meu amigo. Você reconsiderou me levar junto...?}{}{30}{}{}
+{255}{Sim... você gostaria de se juntar a mim novamente, Loghaire?}{}{5}{}{259}{jo 0 262}
+{256}{Loghaire, você parece chateado comigo. Há algo que eu possa fazer?}{}{5}{re -20}{210}{}
+{257}{E:}{}{5}{}{0}{}
+{258}{Hã...}{}{-4}{}{}{fl 130}
+{259}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{31}{}{}
+{260}{E:}{}{1}{}{0}{}
+{262}{Claro que irei... Arcanum está em sua hora mais sombria, e anões não ficam parados quando são necessários. Vamos...}{Claro que irei... Arcanum está em sua hora mais sombria, e anões não ficam parados quando são necessários. Vamos...}{}{32}{}{lf31 0}
+{263}{E:}{}{1}{}{0}{}
+{265}{[Loghaire parece irritado.] Fazer o Rei dos Anões esperar, é? Como se eu fosse ficar sentado até o sol se pôr para sempre... eu! Loghaire Trovão de Pedra! Você não tem respeito por mim?}{[Loghaire parece irritado.] Fazer o Rei dos Anões esperar, é? Como se eu fosse ficar sentado até o sol se pôr para sempre... eu! Loghaire Trovão de Pedra! Você não tem respeito por mim?}{}{33}{}{}
+{266}{Perdoe-me, vossa alteza. Gostaria de se juntar a mim novamente?}{}{5}{}{259}{jo 0 270}
+{267}{Loghaire, você parece chateado comigo. Há algo que eu possa fazer?}{}{5}{re -20}{210}{}
+{268}{E:}{}{5}{}{0}{}
+{269}{Hã...}{}{-4}{}{}{fl 130}
+{270}{[Ele lança um olhar furioso por um momento, então dá um aceno seco.] Sim... contanto que saiba que é melhor não me fazer esperar de novo...}{[Ele lança um olhar furioso por um momento, então dá um aceno seco.] Sim... contanto que saiba que é melhor não me fazer esperar de novo...}{}{34}{}{}
+{271}{E:}{}{1}{}{0}{}
+{274}{Caladon é uma cidade orgulhosa. Antes... quando os anões eram mais ativos nos assuntos do mundo, ajudamos a construir esta magnífica cidade. Um anão, na verdade, projetou o castelo real. Eles destruíram as linhas anãs originais ao adicionar toda aquela tecnologia humana mal concebida. Vergonhoso.}{Caladon é uma cidade orgulhosa. Antes... quando os anões eram mais ativos nos assuntos do mundo, ajudamos a construir esta magnífica cidade. Um anão, na verdade, projetou o castelo real. Eles destruíram as linhas anãs originais ao adicionar toda aquela tecnologia humana mal concebida. Vergonhoso.}{}{35}{}{}
+{275}{Mais algumas perguntas...}{}{1}{}{116}{}
+{276}{E:}{}{1}{}{0}{}
+{278}{Parece ser Shrouded Hills... uma pequena vila mineradora, pelo que me lembro. Lembro que houve uma batalha não muito longe daqui, durante as Guerras dos Clãs...}{Parece ser Shrouded Hills... uma pequena vila mineradora, pelo que me lembro. Lembro que houve uma batalha não muito longe daqui, durante as Guerras dos Clãs...}{}{36}{}{}
+{279}{Mais algumas perguntas...}{}{1}{}{116}{}
+{280}{E:}{}{1}{}{0}{}
+{282}{Não seria Tarant? Nunca estive aqui, mas ouvi dizer que, de todos os lugares em Arcanum, Tarant foi a que mais se beneficiou da tecnologia.}{Não seria Tarant? Nunca estive aqui, mas ouvi dizer que, de todos os lugares em Arcanum, Tarant foi a que mais se beneficiou da tecnologia.}{}{37}{}{}
+{283}{Mais algumas perguntas...}{}{1}{}{116}{}
+{284}{E:}{}{1}{}{0}{}
+{285}{Esta é Qintarra. É loucura viver tão longe do chão, se quer saber minha opinião. Não gosto daqui, para ser sincero. Consigo sentir magia no ar e isso me deixa enjoado.}{Esta é Qintarra. É loucura viver tão longe do chão, se quer saber minha opinião. Não gosto daqui, para ser sincero. Consigo sentir magia no ar e isso me deixa enjoado.}{}{38}{}{}
+{286}{Mais algumas perguntas...}{}{1}{}{116}{}
+{287}{E:}{}{1}{}{0}{}
+{288}{O que eu sei sobre este lugar? Você deve estar brincando, o Clã da Roda é a minha casa! Eu sei tudo sobre este lugar.}{O que eu sei sobre este lugar? Você deve estar brincando, o Clã da Roda é a minha casa! Eu sei tudo sobre este lugar.}{}{39}{}{}
+{292}{K:}{}{1}{}{116}{}
+{293}{E:}{}{1}{}{0}{}
+{294}{[Loghaire range os dentes.] Tulla. Achei que me sentia enjoado em Qintarra, mas isso é quase insuportável. Não consigo aguentar toda essa magia. Estou começando a desejar que este lugar realmente fosse um mito.}{[Loghaire range os dentes.] Tulla. Achei que me sentia enjoado em Qintarra, mas isso é quase insuportável. Não consigo aguentar toda essa magia. Estou começando a desejar que este lugar realmente fosse um mito.}{}{40}{}{}
+{295}{K:}{}{1}{}{116}{}
+{296}{E:}{}{1}{}{0}{}
+{297}{[Loghaire parece furioso, à beira de ficar berserk.] Elfos Negros! Esta é a casa deles, [Ele cospe.] T'sen-Ang! Cuspo em vocês!}{[Loghaire parece furioso, à beira de ficar berserk.] Elfos Negros! Esta é a casa deles, [Ele cospe.] T'sen-Ang! Cuspo em vocês!}{}{41}{}{}
+{298}{K:}{}{1}{}{116}{}
+{299}{E:}{}{1}{}{0}{}
+{300}{Não consigo descrever a fúria que impulsiona meus pensamentos neste momento, senhor. Terei minha satisfação com os elfos negros, prometo-lhe isso!}{Não consigo descrever a fúria que impulsiona meus pensamentos neste momento, senhora. Terei minha satisfação com os elfos negros, prometo-lhe isso!}{}{42}{}{}
+{301}{K:}{}{1}{}{116}{}
+{302}{E:}{}{1}{}{0}{}
+{303}{Acho que deveríamos procurar o túmulo daquele elfo velho. Tem algo em tudo isso que não parece certo, mas não consigo identificar exatamente o que é.}{Acho que deveríamos procurar o túmulo daquele elfo velho. Tem algo em tudo isso que não parece certo, mas não consigo identificar exatamente o que é.}{}{43}{}{}
+{304}{K:}{}{1}{}{116}{}
+{305}{E:}{}{1}{}{0}{}
+{306}{Posso lhe dizer que Thanatos não é um passeio no parque. Eu, por exemplo, estou ansioso pela pura emoção do combate contra probabilidades aparentemente insuperáveis. Será uma morte gloriosa, hein?}{Posso lhe dizer que Thanatos não é um passeio no parque. Eu, por exemplo, estou ansioso pela pura emoção do combate contra probabilidades aparentemente insuperáveis. Será uma morte gloriosa, hein?}{}{44}{}{}
+{307}{Isso é muito reconfortante, Loghaire.}{}{1}{}{310}{}
+{308}{K:}{}{1}{}{116}{}
+{309}{E:}{}{1}{}{0}{}
+{310}{Ha! [Ele dá um tapa nas suas costas.] Gostei do seu senso de humor, garoto! Não leve tão a sério, há uma pequena chance de sobrevivermos.}{Ha! [Ele dá um tapa nas suas costas.] Gostei do seu senso de humor, moça! Não leve tão a sério, há uma pequena chance de sobrevivermos.}{}{45}{}{}
+{311}{K:}{}{1}{}{116}{}
+{312}{E:}{}{1}{}{0}{}
+{313}{Dizem que as Terras Devastadas são a faixa de terra mais perigosa de todo o Arcanum.}{Dizem que as Terras Devastadas são a faixa de terra mais perigosa de todo o Arcanum.}{}{46}{}{}
+{314}{K:}{}{1}{}{116}{}
+{315}{E:}{}{1}{}{0}{}
+{316}{Eu sei que deveríamos estar procurando Arronax, mas não podemos esquecer do Clã da Montanha Negra. Só se eu encontrar uma maneira de devolvê-los ao Arcanum é que sentirei que comecei a reparar meu erro grave.}{Eu sei que deveríamos estar procurando Arronax, mas não podemos esquecer do Clã da Montanha Negra. Só se eu encontrar uma maneira de devolvê-los ao Arcanum é que sentirei que comecei a reparar meu erro grave.}{}{47}{}{}
+{317}{K:}{}{1}{}{116}{}
+{318}{E:}{}{1}{}{0}{}
+

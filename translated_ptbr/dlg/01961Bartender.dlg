@@ -1,0 +1,103 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá, barman.}{}{5}{re 41}{25}{}
+{3}{[assente com a cabeça em reconhecimento]}{}{5}{re 41}{25}{}
+{4}{Hã... tá bom...}{}{5}{re-40}{25}{}
+{5}{[franze a testa para o barman]}{}{5}{re-40}{25}{}
+{6}{Eu gostaria de me tornar um Especialista em jogos de azar.}{}{5}{tr8-1}{43}{et8 94}
+{7}{Eu gostaria de me tornar um Especialista em pechinchas.}{}{5}{tr9-1}{43}{et9 104}
+{13}{Hã... oi.}{}{-4}{re 41}{25}{}
+{14}{[assente com a cabeça em reconhecimento]}{}{-4}{re 41}{25}{}
+{15}{Hã...}{}{-4}{re-40}{25}{}
+{16}{[franze a testa para o barman]}{}{-4}{re-40}{25}{}
+{17}{Mi qué sê Exper' em jogatina...}{}{-4}{tr8-1}{43}{et8 94}
+{18}{Mi qué sê Exper' em pechinchá...}{}{-4}{tr9-1}{43}{et9 104}
+{24}{E:}{}{1}{}{0}{}
+{25}{O que posso fazer por você?}{O que posso fazer por você?}{}{}{}{}
+{26}{Eu gostaria de uma bebida, por favor.}{}{5}{}{79}{}
+{27}{Me dá uma bebida.}{}{5}{}{79}{}
+{30}{Mi qué bebêda, po favô.}{}{-4}{}{79}{}
+{31}{Me dá uma bebêda.}{}{-4}{}{79}{}
+{32}{R:$0,1020-1033}{}{1}{lf1 1}{43}{}
+{33}{R:$0,1040-1049}{}{1}{lf2 1, ss-6}{43}{}
+{34}{R:$0,1040-1049}{}{1}{lf2 1, ss7, ss-13}{43}{}
+{35}{R:$0,1040-1049}{}{1}{lf2 1, ss14}{43}{}
+{36}{R:$0, 1070-1080}{}{1}{lf3 1}{43}{}
+{37}{R:$0, 1090-1099}{}{1}{lf4 1}{43}{}
+{38}{R:$0, 1155-1165}{}{1}{lf5 1}{43}{}
+{39}{R:$0, 1175-1184}{}{1}{lf6 1}{43}{}
+{40}{R:$0,1110-1117}{}{1}{lf7 1}{43}{}
+{41}{C:}{}{1}{lf8 1}{43}{}
+{42}{E:}{}{1}{}{0}{}
+{43}{Precisa de mais alguma coisa?}{Precisa de mais alguma coisa?}{}{}{}{}
+{44}{Eu gostaria de uma bebida, por favor.}{}{5}{}{79}{}
+{45}{Me dá uma bebida.}{}{5}{}{79}{}
+{48}{Mi qué bebêda, po favô.}{}{-4}{}{79}{}
+{49}{Me dá uma bebêda.}{}{-4}{}{79}{}
+{50}{R:$0,1020-1033}{}{1}{lf1 1}{43}{}
+{51}{R:$0,1040-1049}{}{1}{lf2 1, ss-6}{43}{}
+{52}{R:$0,1040-1049}{}{1}{lf2 1, ss7, ss-13}{43}{}
+{53}{R:$0,1040-1049}{}{1}{lf2 1, ss14}{43}{}
+{54}{R:$0, 1070-1080}{}{1}{lf3 1}{43}{}
+{55}{R:$0, 1090-1099}{}{1}{lf4 1}{43}{}
+{56}{R:$0, 1155-1165}{}{1}{lf5 1}{43}{}
+{57}{R:$0, 1175-1184}{}{1}{lf6 1}{43}{}
+{58}{R:$0,1110-1117}{}{1}{lf7 1}{43}{}
+{59}{C:}{}{1}{lf8 1}{43}{}
+{60}{E:}{}{1}{}{0}{}
+{61}{Mais alguma coisa?}{Mais alguma coisa?}{}{}{}{}
+{62}{Eu gostaria de mais uma bebida, por favor.}{}{5}{}{79}{}
+{63}{Me dá mais uma.}{}{5}{}{79}{}
+{66}{Qué ot'a bebêda, po favô.}{}{-4}{}{79}{}
+{67}{Me dá ot'a.}{}{-4}{}{79}{}
+{68}{R:$0,1020-1033}{}{1}{lf1 1}{43}{}
+{69}{R:$0,1040-1049}{}{1}{lf2 1, ss-6}{43}{}
+{70}{R:$0,1040-1049}{}{1}{lf2 1, ss7, ss-13}{43}{}
+{71}{R:$0,1040-1049}{}{1}{lf2 1, ss14}{43}{}
+{72}{R:$0, 1070-1080}{}{1}{lf3 1}{43}{}
+{73}{R:$0, 1090-1099}{}{1}{lf4 1}{43}{}
+{74}{R:$0, 1155-1165}{}{1}{lf5 1}{43}{}
+{75}{R:$0, 1175-1184}{}{1}{lf6 1}{43}{}
+{76}{R:$0,1110-1117}{}{1}{lf7 1}{43}{}
+{77}{C:}{}{1}{lf8 1}{43}{}
+{78}{E:}{}{1}{}{0}{}
+{79}{Vai ser 2 moedas.}{Vai ser 2 moedas.}{}{}{}{}
+{80}{Certamente. Aqui está, senhor. [entrega-lhe a moeda]}{}{5}{$$ 2}{84}{$$-2}
+{81}{Hã... Tá bom. Aqui. [entrega-lhe a moeda]}{}{-4}{$$ 2}{84}{$$-2}
+{82}{[entrega-lhe a moeda]}{}{1}{$$ 2}{84}{$$-2}
+{83}{F:}{}{1}{}{0}{re-1}
+{84}{Aqui está, senhor... Aproveite. [entrega-lhe uma bebida]}{Aqui está, senhorita...}{}{}{}{}
+{85}{Obrigado. [bebe tudo]}{}{5}{}{-26}{}
+{86}{[esvazia o copo]}{}{5}{}{-26}{}
+{87}{Hã... valeu... [bebe tudo]}{}{-4}{}{-26}{}
+{88}{[esvazia o copo]}{}{-4}{}{-26}{}
+{89}{Ei! Não quero esse tipo de coisa aqui!}{Ei! Não quero esse tipo de coisa aqui!}{}{}{}{}
+{90}{Se continuar com isso, vou ter que pedir para você sair...}{Se continuar com isso, vou ter que pedir para você sair...}{}{}{}{}
+{91}{Pare com isso! Quer que eu chame os guardas?}{Pare com isso! Quer que eu chame os guardas?}{}{}{}{}
+{92}{Estou avisando! Fique longe dos meus clientes!}{Estou avisando! Fique longe dos meus clientes!}{}{}{}{}
+{93}{Ei! Nada disso! Que tipo de lugar você acha que eu administro aqui?}{Ei! Nada disso! Que tipo de lugar você acha que eu administro aqui?}{}{}{}{}
+{94}{Posso te ensinar isso. Cobro 500 moedas. Você tem?}{Posso te ensinar isso. Cobro 500 moedas. Você tem?}{}{}{}{}
+{95}{Sim. Aqui está. [entregue as moedas]}{}{5}{$$500}{100}{}
+{96}{Voltarei quando tiver mais moedas.}{}{5}{$$-499}{0}{}
+{97}{Hã... tá. Aqui. [entregue as moedas]}{}{-4}{$$500}{100}{}
+{98}{Me ir buscar mais moeda. Voltar.}{}{-4}{$$-499}{0}{}
+{99}{F:}{}{1}{}{0}{}
+{100}{Obrigado. [Ele passa um tempo explicando as nuances mais refinadas dos jogos de azar para você.] Agora você é um Especialista em jogos de azar. Se quiser se tornar um Mestre, precisará falar com Gurin Rockhollow. Ele mora em Tarant, mas, se o conheço bem, é mais provável que você o encontre no clube dos cavalheiros, não em casa.}{Obrigado. [Ele passa um tempo explicando as nuances mais refinadas dos jogos de azar para você.] Agora você é um Especialista em jogos de azar. Se quiser se tornar um Mestre, precisará falar com Gurin Rockhollow. Ele mora em Tarant, mas, se o conheço bem, é mais provável que você o encontre no clube dos cavalheiros, não em casa.}{}{}{}{tr8 2, ru2168, $$-500}
+{101}{Obrigado.}{}{5}{}{43}{}
+{102}{Valeu.}{}{-4}{}{43}{}
+{103}{E:}{}{1}{}{0}{}
+{104}{Posso te treinar. Mas vai custar 500 moedas... Você tem?}{Posso te treinar. Mas vai custar 500 moedas... Você tem?}{}{}{}{}
+{105}{Sim. Aqui está. [entregue as moedas]}{}{5}{$$500}{110}{}
+{106}{Voltarei quando tiver mais moedas.}{}{5}{$$-499}{0}{}
+{107}{Hã... tá. Aqui. [entregue as moedas]}{}{-4}{$$500}{110}{}
+{108}{Me ir buscar mais moeda. Voltar.}{}{-4}{$$-499}{0}{}
+{109}{F:}{}{1}{}{0}{}
+{110}{Obrigado. [Ele dedica um tempo para discutir suas técnicas de pechincha, dando dicas e orientações pelo caminho.] Agora você é um Especialista em pechinchas. Se desejar se tornar um Mestre, precisará falar com J.M. Morat. Ele mora em Tarant, mas, se o conheço bem, é mais provável que você o encontre em uma das tavernas, não em casa.}{Obrigado. [Ele dedica um tempo para discutir suas técnicas de pechincha, dando dicas e orientações pelo caminho.] Agora você é um Especialista em pechinchas. Se desejar se tornar um Mestre, precisará falar com J.M. Morat. Ele mora em Tarant, mas, se o conheço bem, é mais provável que você o encontre em uma das tavernas, não em casa.}{}{}{}{tr9 2, ru2169, $$-500}
+{111}{Obrigado.}{}{5}{}{0}{}
+{112}{Valeu.}{}{-4}{}{0}{}
+{113}{E:}{}{1}{}{0}{}
+{114}{}{}{}{}{}{}
+{115}{}{}{}{}{}{}
+{116}{}{}{}{}{}{}
+{117}{Ei! Eu não vou tolerar esse tipo de coisa no meu estabelecimento!}{Ei! Eu não vou tolerar esse tipo de coisa no meu estabelecimento!}{}{}{}{}
+{118}{Chega! Você já matou clientes demais! Defenda-se!}{Chega! Você já matou clientes demais! Defenda-se!}{}{}{}{}
+

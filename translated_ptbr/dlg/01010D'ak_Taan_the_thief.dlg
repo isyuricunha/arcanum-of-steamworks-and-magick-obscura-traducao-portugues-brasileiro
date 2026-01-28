@@ -1,0 +1,166 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Me disseram que eu poderia encontrar D'ak Taan aqui fora.}{}{5}{ qu1005 1}{6}{}
+{3}{Me disseram que eu poderia encontrar D'ak Taan aqui fora.}{}{5}{qu1005 2}{6}{}
+{4}{Só estou procurando um pouco de companhia amigável.}{}{5}{}{10}{}
+{5}{E:}{}{5}{}{0}{}
+{6}{E que negócios você teria com D'ak Taan, se ele estivesse aqui?}{E que negócios você teria com D'ak Taan, se ele estivesse aqui?}{}{}{}{}
+{7}{Eu esperava por uma conferência entre ladrões.}{}{5}{}{15}{}
+{8}{Parece que ele tem algo de que preciso.}{}{5}{}{20}{}
+{9}{Fui enviado pelo prefeito de Blackroot.}{}{5}{}{23}{}
+{10}{Conversa educada você não encontrará aqui, meu amigo. Somos ladrões, e poucos falam nossa língua.}{Conversa educada você não encontrará aqui, meu amigo. Somos ladrões, e poucos falam nossa língua.}{}{}{}{}
+{11}{Desculpe, eu o confundi com idiotas tagarelas.}{}{5}{}{117}{re -10}
+{12}{Sim, eu ouvi falar de você. Procuro D'ak Taan.}{}{5}{qu1005 2}{6}{}
+{13}{Sim, eu ouvi falar de você. Procuro D'ak Taan.}{}{5}{qu1005 1}{6}{}
+{14}{E:}{}{5}{}{0}{}
+{15}{Entendo. Então você se considera um ladrão, não é?}{Entendo. Então você se considera um ladrão, não é?}{}{}{}{}
+{16}{Você tem sorte de ainda ter algo nos bolsos.}{}{5}{ch 15}{26}{}
+{17}{Você tem sorte de ainda ter algo nos bolsos.}{}{5}{ch-14}{30}{re -5}
+{18}{Sim, mas eu poderia aprender muito com D'ak Taan.}{}{5}{}{34}{}
+{19}{O suficiente para ver este bando como os beberrões que são.}{}{5}{}{117}{re -10}
+{20}{Sério. Bem, eu sou D'ak Taan, e tenho muitas coisas. O que exatamente você procura?}{Sério. Bem, eu sou D'ak Taan, e tenho muitas coisas. O que exatamente você procura?}{}{}{}{}
+{21}{Uma adaga muito especial.}{}{5}{}{38}{}
+{22}{O que está disponível?}{}{5}{}{41}{}
+{23}{O prefeito? Ha! Um amigo muito pessoal meu. Eu sou D'ak Taan, e espero, pelo seu bem, meu amigo, que você não esteja aqui para defender a honra do prefeito.}{O prefeito? Ha! Um amigo muito pessoal meu. Eu sou D'ak Taan, e espero, pelo seu bem, meu amigo, que você não esteja aqui para defender a honra do prefeito.}{}{}{}{}
+{24}{Dificilmente. Estou aqui apenas para dar um fim em você.}{}{5}{}{}{co, fl 126}
+{25}{Estou aqui apenas para recuperar a propriedade dele.}{}{5}{}{45}{}
+{26}{Bravata! Uma qualidade nobre para os da nossa laia. Bem-vindo! Eu sou D'ak Taan. Como posso ser útil?}{Bravata! Uma qualidade nobre para os da nossa laia. Bem-vindo! Eu sou D'ak Taan. Como posso ser útil?}{}{}{}{}
+{27}{Estou procurando uma adaga muito especial.}{}{5}{}{38}{}
+{28}{Sempre estou procurando trabalho.}{}{5}{}{49}{}
+{29}{Como anda o roubo por aqui?}{}{5}{}{52}{}
+{30}{Hmm. Duvido que você tenha as habilidades para sustentar essa língua.}{Hmm. Duvido que você tenha as habilidades para sustentar essa língua.}{}{}{}{}
+{31}{Um teste, então?}{}{5}{}{56}{}
+{32}{Vou me certificar de examinar a sua quando a arrancar.}{}{5}{}{}{co, fl 126}
+{33}{E:}{}{5}{}{0}{}
+{34}{Eu sou D'ak Taan e não tenho tempo para bajuladores. Ladrões de verdade não prestam tributo a ninguém.}{Eu sou D'ak Taan e não tenho tempo para bajuladores. Ladrões de verdade não prestam tributo a ninguém.}{}{}{}{}
+{35}{Talvez você queira testar minhas habilidades?}{}{5}{}{56}{}
+{36}{Engraçado. Como se você soubesse do que está falando.}{}{5}{}{117}{re -10}
+{37}{E:}{}{5}{}{0}{}
+{38}{Uma adaga? D'ak Taan tem muitas adagas, mas talvez nem todas estejam à venda. Fale-me sobre ela.}{Uma adaga? D'ak Taan tem muitas adagas, mas talvez nem todas estejam à venda. Fale-me sobre ela.}{}{}{}{}
+{39}{Ela pertencia ao prefeito de Blackroot. Eu preciso dela.}{}{5}{}{45}{}
+{40}{E:}{}{5}{}{0}{}
+{41}{Recentemente, nós, hã, "visitamos" Blackroot. O próprio prefeito foi muito "hospitaleiro". Temos uma boa recompensa pelos nossos esforços.}{Recentemente, nós, hã, "visitamos" Blackroot. O próprio prefeito foi muito "hospitaleiro". Temos uma boa recompensa pelos nossos esforços.}{}{}{}{}
+{42}{Estou interessado em obter a adaga do prefeito.}{}{5}{}{45}{}
+{43}{Ainda há algo por aqui para roubar?}{}{5}{}{49}{}
+{44}{E:}{}{5}{}{0}{}
+{45}{E se eu a tiver, como você pretende obtê-la?}{E se eu a tiver, como você pretende obtê-la?}{}{}{}{}
+{46}{Vou comprá-la. Diga seu preço.}{}{5}{}{71}{}
+{47}{Vou saquear seu cadáver por ela.}{}{5}{}{}{co, fl 126}
+{48}{Talvez haja algo que eu possa fazer por você?}{}{5}{}{78}{}
+{49}{Na verdade, há uma oportunidade disponível, se estiver à altura da tarefa.}{Na verdade, há uma oportunidade disponível, se estiver à altura da tarefa.}{}{}{}{}
+{50}{Conte-me sobre ela.}{}{5}{}{78}{}
+{51}{E:}{}{5}{}{0}{}
+{52}{Excelente! Recentemente tivemos uma empreitada extremamente bem-sucedida em Blackroot.}{Excelente! Recentemente tivemos uma empreitada extremamente bem-sucedida em Blackroot.}{}{}{}{}
+{53}{Interessante. Estou procurando uma adaga de lá.}{}{5}{qa1005 1, qb1005 4}{38}{}
+{54}{Ainda há algo para roubar?}{}{5}{}{49}{}
+{55}{E:}{}{5}{}{0}{}
+{56}{Sempre me interesso por um pouco de diversão. Há certas tarefas que preciso que sejam feitas...}{Sempre me interesso por um pouco de diversão.   Há certas tarefas que preciso que sejam feitas...}{}{}{}{}
+{57}{Não tenho dúvidas de que estou à altura do desafio.}{}{5}{}{78}{}
+{58}{Mudei de ideia.   Adeus.}{}{5}{}{0}{}
+{61}{A oeste da cidade propriamente dita, há uma pequena fazenda habitada por um velho bruxo eremita. Dentro de sua casa há um baú. Traga seu conteúdo de volta para mim. Claro, nós mesmos faríamos isso, mas os Guardas Tarantinos em Blackroot nos vigiam de perto ultimamente.}{A oeste da cidade propriamente dita, há uma pequena fazenda habitada por um velho bruxo eremita. Dentro de sua casa há um baú. Traga seu conteúdo de volta para mim. Claro, nós mesmos faríamos isso, mas os Guardas Tarantinos em Blackroot nos vigiam de perto ultimamente.}{}{}{}{qu1006 1}
+{62}{O que eu ganho com isso?}{}{5}{}{65}{}
+{63}{Esquece.   Estou indo embora.}{}{5}{}{0}{}
+{65}{Se tiver sucesso, lhe darei tudo o que recentemente "adquirimos" de Blackroot, incluindo alguns itens pessoais do prefeito.}{Se tiver sucesso, lhe darei tudo o que recentemente "adquirimos" de Blackroot, incluindo alguns itens pessoais do prefeito.}{}{}{}{}
+{66}{Feito.   Voltarei quando terminar o serviço.}{}{5}{}{0}{qu1006 2, lf5 1}
+{67}{Na verdade, já tenho aqui...}{}{5}{in 5604}{170}{lf9 1}
+{68}{Não estou interessado.   Adeus.}{}{5}{}{0}{}
+{71}{Posso ser persuadido a vender, mas você teria que comprar tudo o que conseguimos em Blackroot, não apenas o punhal...}{Posso ser persuadido a vender, mas você teria que comprar tudo o que conseguimos em Blackroot, não apenas o punhal...}{}{}{}{}
+{72}{Continue falando.}{}{5}{}{74}{}
+{73}{E:}{}{5}{}{0}{}
+{74}{Também teria que obter sua promessa solene de que não venderia os itens em Blackroot.   Se forem rastreados até mim, serei forçado a matá-lo.}{Também teria que obter sua promessa solene de que não venderia os itens em Blackroot.   Se forem <<<PH1>>> rastreados até mim, serei forçado a matá-lo.}{}{}{}{}
+{75}{Entendido.   Quanto pelo lote todo?}{}{5}{}{94}{}
+{76}{Suas ameaças são risíveis.}{}{5}{}{}{co, fl 126}
+{77}{Um pouco complicado demais para o meu gosto.   Adeus.}{}{5}{}{0}{}
+{78}{Há dois serviços, mas você só pode escolher um, então escolha com cuidado.   Um serviço é para um bom ladrão, e o outro para um mestre em comércio. E, afinal, há realmente diferença entre os dois?}{Há dois serviços, mas você só pode escolher um, então escolha com cuidado.   Um serviço é para um bom ladrão, e o outro para um mestre em comércio. E, afinal, há realmente diferença entre os dois?}{}{}{}{}
+{79}{Não há ladrão melhor do que eu.}{}{5}{}{61}{}
+{80}{Nenhum preço de mercador está seguro comigo.}{}{5}{}{82}{}
+{81}{E:}{}{5}{}{0}{}
+{82}{Como ladrões, temos grande necessidade de venenos. Infelizmente, Grunwalde é o único homem em Black Root que fabrica venenos, e ele não quer nos vender nenhum. Convença-o a vender algum veneno para você e traga-o de volta para mim.}{Como ladrões, temos grande necessidade de venenos. Infelizmente, Grunwalde é o único homem em Black Root que fabrica venenos, e ele não quer nos vender nenhum. Convença-o a vender algum veneno para você e traga-o de volta para mim.}{}{}{}{qu1007 1}
+{83}{O que eu ganho com isso?}{}{5}{}{88}{}
+{84}{Não estou interessado.   Adeus.}{}{5}{}{0}{}
+{88}{Se tiver sucesso, lhe darei tudo o que recentemente "adquirimos" de Blackroot, incluindo alguns itens pessoais do prefeito.}{Se tiver sucesso, lhe darei tudo o que recentemente "adquirimos" de Blackroot, incluindo alguns itens pessoais do prefeito.}{}{}{}{}
+{89}{Feito.}{}{5}{}{0}{qu1007 2, lf6 1}
+{90}{Na verdade, eu já tenho o veneno...}{}{5}{in 3611}{170}{lf10 1}
+{91}{Não estou interessado. Adeus.}{}{5}{}{0}{}
+{94}{O preço é 300 moedas}{O preço é 300 moedas}{}{}{}{}
+{95}{Parece bom.}{}{5}{$$300}{101}{lf3 1}
+{96}{Parece bom.}{}{5}{$$-299}{113}{}
+{97}{Estou pensando em 200.}{}{5}{ ha -9}{101}{}
+{98}{Estou pensando em 200.}{}{5}{ha 10}{105}{lf1 1}
+{99}{Não poderia pagar mais do que 150.}{}{5}{ha -14}{101}{}
+{100}{Não poderia pagar mais do que 150.}{}{5}{ha 15}{105}{lf2 1}
+{101}{O preço está fixado em 300, e nem um tostão a menos. Concordas?}{O preço está fixado em 300, e nem um tostão a menos. Concordas?}{}{}{}{}
+{102}{Trato feito. São 300 moedas.}{}{5}{$$300}{111}{$$-300, lf3 1}
+{103}{Trato feito. São 300 moedas.}{}{5}{$$-299}{113}{lf3 1}
+{104}{Não gostei desse preço. É hora de ir.}{}{5}{}{0}{}
+{105}{Claro! O preço foi definido. Vamos selar o acordo?}{Claro! O preço foi definido. Vamos selar o acordo?}{}{}{}{}
+{106}{Trato feito. São 200 moedas.}{}{5}{lf1 1, $$200}{111}{$$-200}
+{107}{Trato feito. São 200 moedas.}{}{5}{lf1 1, $$-199}{113}{}
+{108}{Trato feito. São 150 moedas.}{}{5}{lf2 1, $$150}{111}{$$-150}
+{109}{Trato feito. São 150 moedas.}{}{5}{lf2 1, $$-149}{113}{}
+{110}{E:}{}{5}{}{0}{}
+{111}{Muito bem. Os objetos são seus.}{Muito bem. Os objetos são seus.}{}{}{}{in -5602, in -5602, in -5602, in -2002, qu1005 3}
+{112}{Foi um prazer fazer negócios com você. Adeus.}{}{5}{}{0}{lf11 1}
+{113}{Desculpe. Parece que você não tem dinheiro suficiente. Volte quando puder concluir a transação.}{Desculpe. Parece que você não tem dinheiro suficiente. Volte quando puder concluir a transação.}{}{}{}{}
+{114}{Vamos falar sobre outras opções. Eu realmente preciso dessa adaga.}{}{5}{lf7 0, lf8 0}{45}{}
+{115}{E:}{}{5}{}{0}{}
+{116}{}{}{}{}{}{}
+{117}{Uma língua afiada pode fazer sua garganta ser cortada aqui, forasteiro. Da próxima vez, será sua vida.}{Uma língua afiada pode fazer sua garganta ser cortada aqui, forasteiro. Da próxima vez, será sua vida.}{}{}{}{}
+{118}{Por favor, perdoe minha rispidez.}{}{5}{}{121}{}
+{119}{Certamente você precisaria de mais amigos para te ajudar.}{}{5}{}{}{co, fl 126}
+{120}{E:}{}{5}{}{0}{}
+{121}{Apenas uma vez. Diga o que deseja e mantenha as mãos à vista.}{Apenas uma vez. Diga o que deseja e mantenha as mãos à vista.}{}{}{}{}
+{122}{Preciso de uma adaga.}{}{5}{qa1005 1, qb1005 3}{38}{}
+{123}{Só estou procurando trabalho.}{}{5}{}{49}{}
+{124}{Parece que simplesmente não consigo te levar a sério, fanfarrão.}{}{5}{}{}{co, fl 126}
+{125}{E:}{}{5}{}{0}{}
+{126}{Tolo. D'ak Taan não é o homem certo para testar. Você selou sua própria morte.}{Tolo. D'ak Taan não é o homem certo para testar. Você selou sua própria morte.}{}{}{}{}
+{127}{}{}{}{}{}{}
+{128}{Ah... você voltou. O que tem para mim?}{Ah... você voltou. O que tem para mim?}{}{}{}{}
+{129}{Aqui está o frasco de veneno. Gostaria de receber meu pagamento.}{}{5}{in 3611, lf6 1}{147}{in 3611, qu1007 4}
+{130}{Aqui está a estátua do mago-bruxo. Pague-me.}{}{5}{in 5604, lf5 1}{147}{in 5604, qu1006 4}
+{131}{Falhei em minha missão. O veneno não está mais disponível.}{}{5}{qu1007 6}{}{fl 180}
+{132}{Falhei em minha missão. A estátua não está mais disponível.}{}{5}{qu1006 6}{}{fl 180}
+{133}{Nada ainda, infelizmente.}{}{5}{}{149}{}
+{134}{Vim para matar todos vocês. Adeus.}{}{5}{in 4001}{}{fl 126, re -20, co}
+{135}{Mudei de ideia. Posso comprar a adaga em vez disso?}{}{5}{lf1 0, lf2 0, lf3 0, lf5 1, qa1005 1}{94}{lf7 1}
+{136}{Mudei de ideia. Posso comprar a adaga em vez disso?}{}{5}{lf1 0, lf2 0, lf3 0, lf6 1, qa1005 1}{94}{lf8 1}
+{137}{Voltei para comprar os itens sobre os quais conversamos.}{}{5}{lf1 1, lf7 1}{105}{}
+{138}{Voltei para comprar os itens sobre os quais conversamos.}{}{5}{lf2 1, lf7 1}{105}{}
+{139}{Voltei para comprar os itens sobre os quais conversamos.}{}{5}{lf3 1, lf7 1}{101}{}
+{140}{Voltei para comprar os itens sobre os quais conversamos.}{}{5}{lf1 1, lf8 1}{105}{}
+{141}{Voltei para comprar os itens sobre os quais conversamos.}{}{5}{lf2 1, lf8 1}{105}{}
+{142}{Voltei para comprar os itens sobre os quais conversamos.}{}{5}{lf3 1, lf8 1}{101}{}
+{143}{E:}{}{5}{}{0}{}
+{147}{Muito bem feito. Você ganhou estes itens...}{Muito bem feito. Você ganhou estes itens...}{}{}{}{in -5602, in -5602, in-5602, in -2002, qu1005 3}
+{148}{Obrigado. Vou me retirar.}{}{5}{}{0}{}
+{149}{Então por que está perdendo meu tempo? Volte quando o trabalho estiver feito.}{Então por que está perdendo meu tempo? Volte quando o trabalho estiver feito.}{}{}{}{}
+{150}{E:}{}{5}{}{0}{}
+{151}{Você nos visita novamente. Sugiro que nos diga o motivo. Rápido.}{Novamente nos visita. Sugiro que nos diga o motivo. Rápido.}{}{}{}{}
+{152}{Estou procurando por um punhal específico.}{}{5}{lf1 0, lf2 0, lf3 0, qu 1005 2}{38}{}
+{153}{Eu estava me perguntando se vocês têm algum trabalho que precise ser feito.}{}{5}{qu 1005 2}{49}{}
+{154}{Voltei para despachar você e sua tripulação patética.}{}{5}{}{}{co, fl 126}
+{155}{Voltei para comprar os itens sobre os quais conversamos.}{}{5}{lf1 1}{105}{}
+{156}{Voltei para comprar os itens sobre os quais conversamos.}{}{5}{lf2 1}{105}{}
+{157}{Voltei para comprar os itens sobre os quais conversamos.}{}{5}{lf3 1}{101}{}
+{158}{E:}{}{5}{}{0}{}
+{161}{Ladrões espertos nunca fazem negócios com a mesma pessoa duas vezes. Tenha um bom dia.}{Ladrões espertos nunca fazem negócios com a mesma pessoa duas vezes. Tenha um bom dia.}{}{}{}{}
+{162}{Saudações, forasteiro. Eu sou D'ak Taan. Chegou ao meu conhecimento que você pode ter estado de posse de alguns itens de que preciso... um frasco de veneno ou uma estátua?}{Saudações, forasteiro. Eu sou D'ak Taan. Chegou ao meu conhecimento que você tem alguns itens de que preciso. Talvez eu tenha algo de que você precise também. Podemos fazer negócios?}{}{}{}{}
+{163}{Claro. Tenho o veneno.}{}{5}{in 3611, ni 5604}{170}{}
+{164}{Claro. Tenho a estátua.}{}{5}{in 5604, ni 3611}{170}{}
+{165}{Claro. Tenho ambos.}{}{5}{in 3611, in 5604}{170}{}
+{166}{E:}{}{5}{}{0}{}
+{170}{Excelente. Estou muito interessado nisso. Vou trocar com você alguns itens que recentemente "adquirimos" de Blackroot, incluindo alguns pertences pessoais do prefeito. Concordas?}{Excelente. Estou muito interessado nisso. Vou trocar com você alguns itens que recentemente "adquirimos" de Blackroot, incluindo alguns pertences pessoais do prefeito. Concordas?}{}{}{}{}
+{171}{Vou trocar os itens pelo veneno...}{}{5}{in 3611, lf10 1}{147}{in 3611}
+{172}{Vou trocar os itens pela estátua...}{}{5}{in 5604, l9 1}{147}{in 5604}
+{173}{Talvez em outra ocasião.}{}{5}{}{0}{}
+{178}{Eu avisei para não vender esses itens em Blackroot! Agora você morre!}{Eu avisei para não vender esses itens em Blackroot! Agora você morre!}{}{}{}{}
+{180}{Você não tem nada que fazer aqui. Saia imediatamente.}{Você não tem nada que fazer aqui. Saia imediatamente.}{}{}{}{}
+{185}{Olá, novamente. Chegou ao meu conhecimento que você pode ter estado de posse de alguns itens de que preciso... um frasco de veneno ou uma estátua?}{Olá, novamente. Chegou ao meu conhecimento que você pode ter estado de posse de alguns itens de que preciso... um frasco de veneno ou uma estátua?}{}{}{}{}
+{186}{Claro. Tenho o veneno.}{}{5}{in 3611, ni 5604}{170}{}
+{187}{Claro. Tenho o veneno.}{}{5}{in 5604, ni 3611}{170}{}
+{188}{Claro. Tenho ambos.}{}{5}{in 3611, in 5604}{170}{}
+{191}{E:}{}{5}{}{0}{}
+{200}{[O ladrão à sua frente parece enojado com seu estado mental.] Eca. Um idiota. D'ak Taan não gosta de derramar o sangue de um idiota como você, mas o fará. Sugiro que saia imediatamente...}{[O ladrão à sua frente parece enojado com seu estado mental.] Eca. Um idiota. D'ak Taan não gosta de derramar o sangue de um idiota como você, mas o fará. Sugiro que saia imediatamente...}{}{}{}{}
+{201}{Só depois que eu esmagar seu crânio!}{}{-4}{}{}{co, fl 126}
+{202}{E:}{}{-4}{}{0}{}
+

@@ -1,0 +1,61 @@
+{1}{G:}{}{}{}{}{}
+{2}{Olá, senhor. Posso lhe fazer algumas perguntas?}{}{5}{re 41, lf1 0}{11}{}
+{3}{Olá. Posso lhe fazer algumas perguntas?}{}{5}{re 41, lf1 1}{22}{}
+{4}{Hmm... Posso lhe fazer algumas perguntas, "senhor"?}{}{5}{re -40, lf1 0}{11}{}
+{5}{Hã... Posso fazer mais algumas perguntas?}{}{5}{re -40, lf1 1}{22}{}
+{6}{Oi! Eu pergunto uma coisa?}{}{-4}{re 41, lf1 0}{11}{}
+{7}{Hã... Eu pergunto mais uma coisa?}{}{-4}{re 41, lf1 1}{22}{}
+{8}{Ei! Hã... Eu pergunto uma coisa?}{}{-4}{re -40, lf1 0}{11}{}
+{9}{Hã... Eu pergunto mais uma coisa? Por favô?}{}{-4}{re -40, lf1 1}{22}{}
+{10}{E:}{}{1}{}{0}{}
+{11}{Claro. O que você precisa?}{Claro. O que você precisa?}{}{}{}{lf1 1}
+{12}{T:0, 6}{}{1}{}{17}{}
+{13}{Quem pode me treinar como Especialista com o arco?}{}{5}{tr0 1, tr0 -1, sk0 9, lf3 0}{28}{}
+{14}{Eu quero ser Especialista com arco.}{}{-4}{tr0 1, tr0 -1, sk0 9, lf3 0}{28}{}
+{15}{R:$0, 1110-1117}{}{1}{}{17}{}
+{16}{E:}{}{1}{}{0}{}
+{17}{Há mais alguma coisa?}{Há mais alguma coisa?}{}{}{}{}
+{18}{T:0, 6}{}{1}{}{17}{}
+{19}{Quem pode me treinar como Especialista em furtividade?}{}{5}{tr6 1, tr6 -1, sk6 9}{28}{}
+{20}{Eu quero ser Especialista em furtar.}{}{-4}{tr6 1, tr6 -1, sk6 9}{28}{}
+{21}{E:}{}{1}{}{0}{}
+{22}{Certamente, @pcname@.}{Certamente, @pcname@.}{}{}{}{}
+{23}{T:0, 6}{}{1}{}{17}{}
+{24}{Quem pode me treinar como Especialista com o arco?}{}{5}{tr0 1, tr0 -1, sk0 9, lf3 0}{28}{}
+{25}{Eu quero ser Especialista com arco.}{}{-4}{tr0 1, tr0 -1, sk0 9, lf3 0}{28}{}
+{26}{R:$0, 1110-1117}{}{1}{}{17}{}
+{27}{E:}{}{1}{}{0}{}
+{28}{Você deveria falar com nosso Capitão... Ele provavelmente pode te ajudar.}{Você deveria falar com nosso Capitão... Ele provavelmente pode te ajudar.}{}{}{}{lf3 1}
+{29}{K:}{}{1}{}{17}{}
+{30}{E:}{}{1}{}{0}{}
+{31}{Saudações, senhor.}{Saudações, senhora.}{}{}{}{}
+{32}{Olá, senhor. Posso lhe fazer algumas perguntas?}{}{5}{re 41, lf1 0}{41}{}
+{33}{Saudações, senhor. Posso lhe fazer algumas perguntas?}{}{5}{re 41, lf1 1}{52}{}
+{34}{Hmm... Posso lhe fazer algumas perguntas, "senhor"?}{}{5}{re -40, lf1 0}{41}{}
+{35}{Hã... Posso fazer mais algumas perguntas?}{}{5}{re -40, lf1 1}{52}{}
+{36}{Oi! Eu pergunto uma coisa?}{}{-4}{re 41, lf1 0}{41}{}
+{37}{Oi! Eu pergunto mais uma coisa?}{}{-4}{re 41, lf1 1}{52}{}
+{38}{Ei! Hã... Posso te perguntar uma coisa?}{}{-4}{re -40, lf1 0}{41}{}
+{39}{Hã... Posso te perguntar mais uma coisa? Por favor?}{}{-4}{re -40, lf1 1}{52}{}
+{40}{E:}{}{1}{}{0}{}
+{41}{Em que posso te ajudar?}{Em que posso te ajudar?}{}{}{}{lf1 1}
+{42}{T:0, 6}{}{1}{}{47}{}
+{43}{Quem pode me treinar como Especialista com o arco?}{}{5}{tr0 1, tr0 -1, sk0 9, lf2 0}{58}{}
+{44}{Eu quero ser Especialista com o arco.}{}{-4}{tr0 1, tr0 -1, sk0 9, lf2 0}{58}{}
+{45}{R:$0, 1155-1165}{}{1}{}{47}{}
+{46}{E:}{}{1}{}{0}{}
+{47}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{}
+{48}{T:0, 6}{}{1}{}{47}{}
+{49}{Quem pode me treinar como Especialista em furtividade?}{}{5}{tr6 1, tr6 -1, sk6 9}{58}{}
+{50}{Eu quero ser Especialista em furtividade.}{}{-4}{tr6 1, tr6 -1, sk6 9}{58}{}
+{51}{E:}{}{1}{}{0}{}
+{52}{Em que posso te ajudar, @pcname@?}{Em que posso te ajudar, @pcname@?}{}{}{}{}
+{53}{T:0, 6}{}{1}{}{47}{}
+{54}{Quem pode me treinar como Especialista com o arco?}{}{5}{tr0 1, tr0 -1, sk0 9, lf2 0}{58}{}
+{55}{Eu quero ser Especialista com o arco.}{}{-4}{tr0 1, tr0 -1, sk0 9, lf2 0}{58}{}
+{56}{R:$0, 1155-1165}{}{1}{}{47}{}
+{57}{E:}{}{1}{}{0}{}
+{58}{Você deveria falar com nosso Capitão... Ele provavelmente pode te ajudar.}{Você deveria falar com nosso Capitão... Ele provavelmente pode te ajudar.}{}{}{}{lf2 1}
+{59}{K:}{}{1}{}{47}{}
+{60}{E:}{}{1}{}{0}{}
+

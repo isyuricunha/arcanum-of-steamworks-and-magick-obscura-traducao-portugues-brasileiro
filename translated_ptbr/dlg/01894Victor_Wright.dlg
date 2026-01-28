@@ -1,0 +1,184 @@
+{1}{G:}{}{}{}{}{}
+{2}{Saudações, senhor. Posso saber seu nome?}{}{5}{lf1 0, re 41}{25}{}
+{3}{Isso foi muito indelicado. Só queria saber seu nome.}{}{5}{lf1 0, re -40}{25}{}
+{4}{Eu o ofendi de alguma forma, Sr. Wright?}{}{5}{lf1 1, lf2 0}{43}{}
+{5}{Olá novamente, Sr. Wright. Poderia me conceder mais um pouco do seu tempo?}{}{5}{lf1 1, lf2 1,re 41}{49}{}
+{6}{Eu o ofendi de alguma forma, Sr. Wright?}{}{5}{lf1 1, lf2 1, re -40}{39}{}
+{7}{Acho que vou entregar essa nota para você.}{}{5}{qu1134 1}{157}{}
+{8}{Ainda não entreguei a nota...}{}{5}{qu1134 2}{160}{}
+{9}{Entreguei a nota para a Sra. Halster.}{}{5}{qu1134 3}{163}{re +5}
+{10}{Vou vender minha história para você, se ainda estiver interessado...}{}{5}{lf4 1, gf2030 0, lf 8 0}{99}{}
+{11}{Talvez eu tenha uma história digna de notícia para você.}{}{5}{gf2030 0, lf3 1, lf 8 0}{77}{}
+{12}{Ei, senhor. Qual é o seu nome?}{}{-4}{lf1 0, re 41}{25}{}
+{13}{Isso num foi legal... Eu só queria saber seu nome...}{}{-4}{lf1 0, re -40}{25}{}
+{14}{Oi, Sr. Rite. Posso te perguntar uma coisa?}{}{-4}{lf1 1, lf2 0}{43}{}
+{15}{Oi, Sr. Rite. Posso te perguntar uma coisa?}{}{-4}{lf1 1, lf2 1,re 41}{49}{}
+{16}{Ué... isso foi rude, Sr. Rite... Tá me deixando bravo?}{}{-4}{lf1 1, lf2 1, re -40}{39}{}
+{17}{Acho que vou levar essa nota pra você.}{}{-4}{qu1134 1}{157}{}
+{18}{Ainda não levei a nota...}{}{-4}{qu1134 2}{160}{}
+{19}{Levei a nota pra Sra. Halster.}{}{-4}{qu1134 3}{163}{re +5}
+{20}{Vendo a história do dirigível, se você quiser...}{}{-4}{lf4 1, gf2030 0, lf 8 0}{99}{}
+{21}{Quem sabe eu tenha uma história pra você.}{}{-4}{gf2030 0, lf3 1, lf 8 0}{77}{}
+{22}{Tenho provas de uma conspiração que pode lhe interessar.}{}{5}{lf1 1, in5247, gf2408 0, lf10 0}{180}{}
+{23}{Eu queria falar com você sobre o Sam Longwell!}{}{5}{Gf2408 1, lf10 1}{210}{}
+{24}{E:}{}{1}{}{0}{}
+{25}{Sou o Sr. Wright. Editor do Tarantiano, o melhor jornal de toda a terra. Quem é você?}{Sou o Sr. Wright. Editor do Tarantiano, o melhor jornal de toda a terra. Quem é você?}{}{}{}{lf1 1}
+{26}{Meu nome é @pcname@.}{}{5}{}{49}{lf2 1}
+{27}{Isso não é da sua conta.}{}{5}{}{30}{re-5}
+{28}{Meu nome é @pcname@.}{}{-4}{}{49}{lf2 1}
+{29}{Você não precisa disso...}{}{-4}{}{30}{re-5}
+{30}{Então saia do meu escritório!}{Então saia do meu escritório!}{}{}{}{}
+{31}{Peço desculpas pela grosseria. Foi um dia difícil... Meu nome é @pcname@.}{}{5}{}{34}{re+5, lf2 1}
+{32}{Desculpa. Fui rude. Foi um dia ruim... Meu nome é @pcname@.}{}{-4}{}{34}{re+5, lf2 1}
+{33}{I:}{}{1}{}{0}{re-3}
+{34}{Ah... entendo. Eu mesmo tenho alguns desses de vez em quando. Em que posso ajudá-lo, @pcname@?}{Ah... entendo. Eu mesmo tenho alguns desses de vez em quando. Em que posso ajudá-lo, @pcname@?}{}{}{}{}
+{35}{Tenho uma pergunta...}{}{5}{}{49}{}
+{36}{Eu pergunto uma coisa?}{}{-4}{}{49}{}
+{37}{E:}{}{1}{}{0}{0}
+{38}{Guardas! Guardas!}{Guardas! Guardas!}{}{}{}{}
+{39}{Não... Não. Desculpe. Não reconheci você de início @pcname@.}{Não... Não. Desculpe. Não reconheci você de início @pcname@.}{}{}{}{}
+{40}{Desculpas aceitas. Tenho uma pergunta...}{}{5}{}{49}{}
+{41}{Hã... Tá bom. Eu pergunto uma coisa...}{}{-4}{}{49}{}
+{42}{E:}{}{1}{}{0}{}
+{43}{Você não quer me dizer seu nome... Não me lembro de ter visto você por aqui antes... e não gosto de falar com estranhos.}{Você não quer me dizer seu nome... Não me lembro de ter visto você por aqui antes... e não gosto de falar com estranhos.}{}{}{}{}
+{44}{Peço desculpas pela rudeza. Foi um dia difícil... Meu nome é @pcname@.}{}{5}{}{34}{re+5, lf2 1}
+{45}{Como é ser morto por eles?}{}{5}{}{0}{co, fl 38}
+{46}{Desculpe. Eu rude. Foi um dia ruim... Meu nome é @pcname@.}{}{-4}{}{34}{re+5, lf2 1}
+{47}{Será que você gosta que estranhos te matem?}{}{-4}{}{0}{co, fl 38}
+{48}{E:}{}{1}{}{0}{}
+{49}{Em que posso ajudá-lo?}{Em que posso ajudá-lo?}{}{}{}{}
+{50}{Você tem algum trabalho que eu possa fazer?}{}{5}{qu1134 0}{81}{}
+{51}{R:$0, 1040-1049}{}{5}{ss -6}{63}{}
+{52}{R:$0, 1040-1049}{}{5}{ss 7, ss -13}{63}{}
+{53}{R:$0, 1040-1049}{}{5}{ss 14}{63}{}
+{54}{R:$0, 1040-1049}{}{-4}{ss -6}{63}{}
+{55}{R:$0, 1040-1049}{}{-4}{ss 7 , ss -13}{63}{}
+{56}{R:$0, 1040-1049}{}{-4}{ss 14}{63}{}
+{57}{Tem mais algum trabalho?}{}{5}{qa1134 4, gf2030 0}{81}{}
+{58}{Tem mais algum trabalho?}{}{5}{qa1134 4, gf2030 1}{170}{}
+{59}{Você tem algum trabalho pra mim?}{}{-4}{qu1134 0}{81}{}
+{60}{Mais trabalho para mim?}{}{-4}{qa1134 4, gf2030 1}{170}{}
+{61}{Mais trabalho para mim?}{}{-4}{qa1134 4, gf2030 0}{81}{}
+{62}{E:}{}{1}{}{0}{}
+{63}{Mais alguma coisa que precise, @pcname@?}{Mais alguma coisa que precise, @pcname@?}{}{}{}{}
+{64}{Você tem algum trabalho que eu possa fazer?}{}{5}{qu1134 0}{81}{}
+{65}{R:$0, 1040-1049}{}{5}{ss -6}{63}{}
+{66}{R:$0, 1040-1049}{}{5}{ss 7 , ss -13}{63}{}
+{67}{R:$0, 1040-1049}{}{5}{ss 14}{63}{}
+{68}{R:$0, 1040-1049}{}{-4}{ss -6}{63}{}
+{69}{R:$0, 1040-1049}{}{-4}{ss 7 , ss -13}{63}{}
+{70}{R:$0, 1040-1049}{}{-4}{ss 14}{63}{}
+{71}{Tem mais algum trabalho?}{}{5}{qa1134 4, gf2030 0}{81}{}
+{72}{Tem mais algum trabalho?}{}{5}{qa1134 4, gf2030 1}{170}{}
+{73}{Você tem algum trabalho pra mim?}{}{-4}{qu1134 0}{81}{}
+{74}{Mais trabalho para mim?}{}{-4}{qa1134 4, gf2030 1}{170}{}
+{75}{Mais trabalho para mim?}{}{-4}{qa1134 4, gf2030 0}{81}{}
+{76}{E:}{}{1}{}{0}{}
+{77}{Bem, isto é o Tarantiano. Notícias são o nosso negócio. Pagamos muito bem por uma boa história. O que você tem?}{Bem, isto é o Tarantiano. Notícias são o nosso negócio. Pagamos muito bem por uma boa história. O que você tem?}{}{}{}{lf3 1}
+{78}{Bem, sou o único sobrevivente do IFS Zéfiro. Isso qualifica?}{}{5}{lf 8 0}{87}{}
+{79}{Eu sou o único que escapou do acidente do dirigível. Isso é notícia?}{}{-4}{lf 8 0}{87}{}
+{80}{F:}{}{1}{}{0}{}
+{81}{Bem, isto é o Tarantiano. Notícias são o nosso negócio. A primeira coisa que vem à mente quando você menciona trabalho são notícias. Tem alguma história que valha a pena? Pagamos muito bem.}{Bem, isto é o Tarantiano. Notícias são o nosso negócio. A primeira coisa que vem à mente quando você menciona trabalho são notícias. Tem alguma história que valha a pena? Pagamos muito bem.}{}{}{}{lf3 1}
+{82}{Bem, sou o único sobrevivente do IFS Zéfiro. Isso qualifica?}{}{5}{lf 8 0}{87}{}
+{83}{Ah, não... Na verdade, eu estava procurando mais um trabalho braçal.}{}{5}{qb1134 1}{152}{}
+{84}{Eu sou o único que escapou do acidente do dirigível. Isso é notícia?}{}{-4}{lf 8 0}{87}{}
+{85}{Hã... não. Eu só tô procurando trabalho.}{}{-4}{qb1134 1}{152}{}
+{86}{E:}{}{1}{}{0}{}
+{87}{Não! VOCÊ? Você é o único sobrevivente da tragédia do IFS Zéfiro? Que bênção! Preciso da sua história! Te pago 500 moedas na hora, se responder às minhas perguntas.}{Não! VOCÊ? Você é o único sobrevivente da tragédia do IFS Zéfiro? Que bênção! Preciso da sua história! Te pago 500 moedas na hora, se responder às minhas perguntas.}{}{}{}{}
+{88}{500! Fechado, Sr. Wright! Pode perguntar!}{}{5}{lf 8 0}{103}{lf 4 1}
+{89}{Ah, não, obrigado. Prefiro não ter tanta publicidade...}{}{5}{lf 8 0}{93}{}
+{90}{500! Isso é muita moeda! Eu conto minha história agora!}{}{-4}{lf 8 0}{103}{lf 4 1}
+{91}{Hmm... não. Eu não quero sair no jornal. Me desculpe.}{}{-4}{lf 8 0}{93}{}
+{92}{E:}{}{1}{}{0}{}
+{93}{Ah... o tipo ganancioso, é? Bom, acho que é aceitável, afinal você é o "único" sobrevivente e tudo mais... Posso chegar a 800. Mas isso é o máximo. Ninguém vai te oferecer mais... Ninguém!}{Ah... o tipo ganancioso, é? Bom, acho que é aceitável, afinal você é o "único" sobrevivente e tudo mais... Posso chegar a 800. Mas isso é o máximo. Ninguém vai te oferecer mais... Ninguém!}{}{}{}{}
+{94}{Bom, por 800, você garantiu sua história!}{}{5}{lf 8 0}{103}{lf 5 1}
+{95}{Não, sério. Não estou interessado. Estou procurando um trabalho de verdade...}{}{5}{qb1134 1}{152}{}
+{96}{Tá bom! Você conseguiu minha história por 800! Uau!}{}{-4}{lf 8 0}{103}{lf 5 1}
+{97}{Hmm... não. Sério. Eu só quero trabalhar. Não quero sair no jornal.}{}{-4}{qb1134 1}{152}{}
+{98}{E:}{}{1}{}{0}{}
+{99}{Ah, sim @pcname@! O Tarantiano está muito interessado na sua história. Está pronto para responder algumas perguntas?}{Ah, sim @pcname@! O Tarantiano está muito interessado na sua história. Está pronto para responder algumas perguntas?}{}{}{}{lf 8 1}
+{100}{Sim, pode prosseguir.}{}{5}{}{103}{}
+{101}{Hmm... tá bom.}{}{-4}{}{103}{}
+{102}{E:}{}{1}{}{0}{lf 8 0}
+{103}{Antes de tudo, eu sei que foi uma experiência muito traumática. Por favor, vá com calma. Se precisar parar por alguns momentos, eu entendo perfeitamente. Está pronto?}{Antes de tudo, eu sei que foi uma experiência muito traumática. Por favor, vá com calma. Se precisar parar por alguns momentos, eu entendo perfeitamente. Está pronto?}{}{}{}{lf 8 1}
+{104}{Sim. Obrigado pela compreensão. Podemos começar.}{}{5}{}{107}{}
+{105}{Hmm... valeu. É. Tô pronto.}{}{-4}{}{107}{}
+{106}{E:}{}{1}{}{0}{lf 8 0}
+{107}{Então @pcname@, você é o único sobrevivente do horrível desastre do IFS Zéfiro?}{Então @pcname@, você é o único sobrevivente do horrível desastre do IFS Zéfiro?}{}{}{}{}
+{108}{Sim. Sinto muito em dizer que ninguém mais sobreviveu ao impacto.}{}{5}{}{111}{}
+{109}{É. Ninguém mais tava vivo quando bateu no chão.}{}{-4}{}{111}{}
+{110}{E:}{}{1}{}{0}{lf 8 0}
+{111}{Você tem alguma ideia do que fez a grande aeronave cair?}{Você tem alguma ideia do que fez a grande aeronave cair?}{}{}{}{}
+{112}{Houve uma explosão tremenda... sacudiu toda a embarcação...}{}{5}{}{115}{}
+{113}{Teve um estrondo enorme! Sacudiu o dirigível inteiro...}{}{-4}{}{115}{}
+{114}{E:}{}{1}{}{0}{lf 8 0}
+{115}{Sim...}{Sim...}{}{}{}{}
+{116}{Não vi nada no ar, mas ouvi o som de disparos...}{}{5}{}{119}{}
+{117}{Eu não vi nada, mas ouvi tiros de armas grandes...}{}{-4}{}{119}{}
+{118}{E:}{}{1}{}{0}{lf 8 0}
+{119}{Disparos? Naquela altitude? Como isso é possível?}{Disparos? Naquela altitude? Como isso é possível?}{}{}{}{}
+{120}{Também ouvi motores... Acho que eram 2 diferentes.}{}{5}{}{123}{}
+{121}{Eu ouvi motores também. Acho que eram 2.}{}{-4}{}{123}{}
+{122}{E:}{}{1}{}{0}{lf 8 0}
+{123}{Motores? O Zéfiro era único no gênero. O que mais poderia estar lá em cima com vocês?}{Motores? O Zephyr era único. O que mais poderia estar lá em cima com você?}{}{}{}{}
+{124}{Havia destroços também, perto do dirigível. Alguma nave estranha...}{}{5}{}{-2}{}
+{125}{Me vê destroço também. Perto do dirigível. Alguma outra coisa voadora...}{}{-4}{}{-2}{}
+{126}{E:}{}{1}{}{0}{lf 8 0}
+{127}{Mais naves voadoras? Incrível! [anotando freneticamente] Então você não acha que foi um acidente? ...ou sabotagem? ...Você está me dizendo que o IFS Zephyr foi derrubado de propósito? Por algum tipo de aeronave secreta?}{Mais naves voadoras? Incrível! [anotando freneticamente] Então você não acha que foi um acidente? ...ou sabotagem? ...Você está me dizendo que o IFS Zephyr foi derrubado de propósito? Por algum tipo de aeronave secreta?}{}{}{}{gf2030 1}
+{128}{Sim. É tudo o que consegui juntar até agora.}{1}{5}{lf4 1, lf5 0}{136}{np 1150 1}
+{129}{Sim. É o que me vê.}{1}{-4}{lf4 1, lf5 0}{136}{np 1170 1}
+{130}{Sim. É tudo o que consegui juntar até agora.}{0}{5}{lf4 1, lf5 0}{136}{np 1160 1}
+{131}{Sim. É o que me vê.}{0}{-4}{lf4 1, lf5 0}{136}{np 1180 1}
+{132}{Sim. É tudo o que consegui juntar até agora.}{1}{5}{lf5 1}{144}{np 1150 1}
+{133}{Sim. É o que me vê.}{1}{-4}{lf5 1}{144}{np 1170 1}
+{134}{Sim. É tudo o que consegui juntar até agora.}{0}{5}{lf5 1}{144}{np 1160 1}
+{135}{Sim. É o que me vê.}{0}{-4}{lf5 1}{144}{np 1180 1}
+{136}{[com uma expressão muito estranha - uma mistura de choque e euforia] @pcname@! Você acabou de me dar a história da minha vida! Muito obrigado! Aqui... Aqui está a moeda que prometi. Você mereceu mais do que isso. Preciso levar isso para a impressão imediatamente! Adeus!}{[com uma expressão muito estranha - uma mistura de choque e euforia] @pcname@! Você acabou de me dar a história da minha vida! Muito obrigado! Aqui... Aqui está a moeda que prometi. Você mereceu mais do que isso. Preciso levar isso para a impressão imediatamente! Adeus!}{}{}{}{$$500, np }
+{137}{Adeus.}{}{5}{}{0}{}
+{138}{Espere! Sei que você está com pressa... mas há mais alguma coisa que eu possa fazer?}{}{5}{qu1134 0}{152}{}
+{139}{Espere! Sei que você está com pressa... mas há mais alguma coisa que eu possa fazer?}{}{5}{qa1134 1}{170}{}
+{140}{Tchau-tchau.}{}{-4}{}{0}{}
+{141}{Espere! Me sabe que cê tá com pressa... mas me qué mais trabalho...}{}{-4}{qu1134 0}{152}{}
+{142}{Espere! Me sabe que cê tá com pressa... mas me qué mais trabalho...}{}{-4}{qa1134 1}{170}{}
+{143}{E:}{}{1}{}{0}{}
+{144}{[com uma expressão muito estranha - uma mistura de choque e euforia] @pcname@! Você acabou de me dar a história da minha vida! Muito obrigado! Aqui... Aqui está a moeda que prometi. Você mereceu mais do que isso. Preciso levar isso para a impressão imediatamente! Adeus!}{[com uma expressão muito estranha - uma mistura de choque e euforia] @pcname@! Você acabou de me dar a história da minha vida! Muito obrigado! Aqui... Aqui está a moeda que prometi. Você mereceu mais do que isso. Preciso levar isso para a impressão imediatamente! Adeus!}{}{}{}{$$800}
+{145}{Adeus.}{}{5}{}{0}{}
+{146}{Espere! Sei que você está com pressa... mas há mais alguma coisa que eu possa fazer?}{}{5}{qu1134 0}{152}{}
+{147}{Espere! Sei que você está com pressa... mas há mais alguma coisa que eu possa fazer?}{}{5}{qa1134 1}{170}{}
+{148}{Tchau-tchau.}{}{-4}{}{0}{}
+{149}{Espere! Me sabe que cê tá com pressa... mas me qué mais trabalho...}{}{-4}{qu1134 0}{152}{}
+{150}{Espere! Me sabe que cê tá com pressa... mas me qué mais trabalho...}{}{-4}{qa1134 1}{170}{}
+{151}{E:}{}{1}{}{0}{}
+{152}{Bem... Não temos nenhuma vaga aqui no momento. [pensa por um momento] Há um pequeno trabalho que você poderia fazer. Só paga 75 moedas. Está interessado?}{Bem... Não temos nenhuma vaga aqui no momento. [pensa por um momento] Há um pequeno trabalho que você poderia fazer. Só paga 75 moedas. Está interessado?}{}{}{}{}
+{153}{Sim. Estou interessado.}{}{5}{}{157}{}
+{154}{Não, obrigado. Adeus.}{}{5}{}{0}{}
+{155}{Sim. Me interessa.}{}{-4}{}{157}{}
+{156}{Hmm... não. Tchau.}{}{-4}{}{0}{}
+{157}{Tudo certo. Tome. Isto é uma ordem de pagamento. Preciso que seja entregue à Sra. Halster. A casa dela fica na esquina da Devonshire com a Vermillion. Volte até mim após a entrega, e eu lhe darei as 75 moedas.}{Tudo certo. Tome. Isto é uma ordem de pagamento. Preciso que seja entregue à Sra. Halster. A casa dela fica na esquina da Devonshire com a Vermillion. Volte até mim após a entrega, e eu lhe darei as 75 moedas.}{}{}{}{QU1134 2, in-5243}
+{158}{Tudo certo. Volto logo.}{}{5}{}{0}{}
+{159}{Hmm... tá bom. Eu vou.}{}{-4}{}{0}{}
+{160}{Por favor, entregue logo. Esse pagamento está atrasado... essa é a única razão pela qual estou permitindo que você o entregue @pcname@.}{Por favor, entregue logo. Esse pagamento está atrasado... essa é a única razão pela qual estou permitindo que você o entregue @pcname@.}{}{}{}{}
+{161}{Tudo certo. Volto logo.}{}{5}{}{0}{}
+{162}{Hmm... tá bom. Eu vou.}{}{-4}{}{0}{}
+{163}{Bom trabalho. Obrigado @pcname@. Aqui estão as 75 moedas que prometi.}{Bom trabalho. Obrigado @pcname@. Aqui estão as 75 moedas que prometi.}{}{}{}{$$75, qu1134 4}
+{164}{Obrigado, Sr. Wright. Adeus.}{}{5}{}{0}{}
+{165}{Obrigado, Sr. Wright. Há mais algum trabalho?}{}{5}{gf2030 1}{170}{}
+{166}{Obrigado, Sr. Wright. Há mais algum trabalho?}{}{5}{gf2030 0}{81}{}
+{167}{Obrigadu, Sinhor Rite. Tchau.}{}{-4}{}{0}{}
+{168}{Obrigadu, Sinhor Rite. Tem mais trabaiu?}{}{-4}{gf2030 1}{170}{}
+{169}{Obrigadu, Sinhor Rite. Tem mais trabaiu?}{}{-4}{gf2030 0}{81}{}
+{170}{Não. Sinto muito @pcname@. Era tudo o que eu tinha disponível.}{Não. Sinto muito @pcname@. Era tudo o que eu tinha disponível.}{}{}{}{}
+{171}{Tudo certo. Obrigado. Adeus.}{}{5}{}{0}{}
+{172}{Hmm... Tá bom. Tchau.}{}{-4}{}{0}{}
+{180}{[Uma expressão de desconfiança cruza seu rosto.] O que você quer dizer com "conspiração"? Isso é algum tipo de piada?}{[Uma expressão de desconfiança cruza seu rosto.] O que você quer dizer com "conspiração"? Isso é algum tipo de piada?}{}{}{}{}
+{181}{O Conselho Industrial tem criado meio-ogros ilegalmente!}{}{5}{}{190}{}
+{190}{Hah! E eu suponho que você tenha provas disso?}{Hah! E eu suponho que você tenha provas disso?}{}{}{}{}
+{191}{Sim, tenho. [Mostre-lhe o diário.]}{}{5}{}{200}{}
+{200}{Pelos deuses! Rápido, guarde isso. [Ele o devolve para você.] Isso é perigoso, está me ouvindo? Não posso ficar com isso aqui... leve ao escritório em Caladon, Sam Longwell vai ajudá-lo com isso. Fica na Avenida dos 7 Santos. Ande logo! E não conte a mais ninguém sobre isso....}{Pelos deuses! Rápido, guarde isso. [Ele o devolve para você.] Isso é perigoso, está me ouvindo? Não posso ficar com isso aqui... leve ao escritório em Caladon, Sam Longwell vai ajudá-lo com isso. Fica na Avenida dos 7 Santos. Ande logo! E não conte a mais ninguém sobre isso....}{}{}{}{lf10 1}
+{201}{Estou indo agora mesmo.}{}{5}{}{0}{}
+{210}{Quem? Receio não conhecer ninguém com esse nome.}{Quem? Receio não conhecer ninguém com esse nome.}{}{}{}{}
+{211}{Você me disse para entregar o diário a ele!}{}{5}{}{220}{}
+{220}{Você deve estar delirando. Eu não disse nada disso.}{Você deve estar delirando. Eu não disse nada disso.}{}{}{}{}
+{221}{Ah, agora entendi como tudo isso funciona. Tenha um bom dia, senhor!}{}{5}{}{0}{}
+{222}{Seu bastardo! Vou te ensinar a me trair!!!}{}{5}{}{0}{co}
+

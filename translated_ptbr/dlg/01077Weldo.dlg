@@ -1,0 +1,204 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{W:}{}{5}{lf1 0, re41}{20}{lf1 1}
+{3}{Devo ter ouvido mal...}{}{5}{re-40, ch10}{380}{re50}
+{4}{Por favor, desculpe minha presença, senhor. Não quero ofender.}{}{5}{re-40, ch-9}{390}{re41}
+{5}{Fale comigo assim de novo e você vai se arrepender seriamente.}{}{5}{re-40, sk2 12}{400}{re41}
+{6}{W:}{}{-4}{lf1 0}{260}{lf1 1}
+{7}{Decidi procurar a peça que você quer.}{}{5}{qu 1047 1}{100}{}
+{8}{Tenho a peça que você queria.}{}{5}{qa1047 1, in 5605, qb1047 3}{250}{}
+{9}{K:}{}{1}{lf1 1, re41}{30}{}
+{10}{Vou procurar a coisa que você quer!}{}{-4}{qu 1047 1}{100}{}
+{11}{Consegui a coisa para você.}{}{-4}{qa1047 1, in 5605, qb1047 3}{250}{}
+{12}{Não acredito que haja motivo para falar comigo de forma rude, senhor.}{}{5}{re-40, sk2 12}{400}{re45}
+{14}{E:}{}{1}{}{0}{}
+{20}{Sou Weldo Rubin, o renomado aventureiro halfing, às suas ordens, senhor.}{Sou Weldo Rubin, o renomado aventureiro halfing, às suas ordens, senhora.}{}{}{}{}
+{21}{O que está fazendo aqui fora, Weldo?}{}{5}{}{350}{}
+{22}{Um aventureiro halfing?}{}{5}{ra-2, ra-5, ra-6}{360}{re -5}
+{24}{E:}{}{1}{}{0}{}
+{30}{O que deseja saber?}{O que deseja saber?}{}{}{}{}
+{31}{Pode me contar sobre suas aventuras?}{}{5}{lf 0 0}{40}{lf0 1}
+{32}{Conte-me mais sobre suas aventuras.}{}{5}{lf 0 1}{40}{}
+{33}{Sobre a cidade no deserto...}{}{5}{lf10 1, ar-11}{50}{}
+{34}{Decidi procurar a peça que você quer.}{}{5}{qu 1047 1}{100}{}
+{35}{Tenho a peça que você queria.}{}{5}{qu 1047 2, in 5605}{250}{}
+{36}{Preciso encontrar a cidade antiga no deserto!}{}{-4}{qa1027 1, ni 5616}{410}{lf10 1}
+{37}{Preciso encontrar a cidade antiga no deserto!}{}{-4}{qu1027 0, qa1051 1, ni5616}{410}{lf10 1}
+{38}{E:}{}{1}{}{0}{}
+{40}{Adoro falar sobre minhas aventuras! O que posso compartilhar com você?}{Adoro falar sobre minhas aventuras! O que posso compartilhar com você?}{}{}{}{}
+{41}{Encontrou algo interessante em suas viagens?}{}{5}{}{130}{lf3 1}
+{42}{Já viu alguma cidade nos ermos?}{}{5}{lf10 0}{170}{lf10 1}
+{43}{Que tipo de monstros viu no deserto?}{}{5}{}{210}{lf 0 1}
+{45}{E:}{}{1}{}{0}{}
+{50}{Sim, o que é?}{Sim, o que é?}{}{}{}{}
+{51}{Junte-se a mim e viajaremos até lá.}{}{5}{re 60}{460}{jo 0 60}
+{53}{Junte-se a mim e viajaremos até lá.}{}{5}{re -59}{70}{}
+{54}{Poderia me mostrar onde fica no meu mapa, por favor?}{}{5}{re 60, lf25 0}{80}{}
+{55}{Poderia me mostrar onde fica no meu mapa, por favor?}{}{5}{re 40, re -59, lf3 0, lf25 0}{480}{}
+{57}{Você poderia, por favor, me mostrar onde fica no meu mapa?}{}{5}{re 40, re -59,  lf 3 1, lf25 0}{90}{}
+{58}{Você poderia, por favor, me mostrar onde fica no meu mapa?}{}{5}{re -39, lf25 0}{110}{}
+{59}{E:}{}{1}{}{0}{}
+{60}{Parece ótimo! Eu adoraria viver mais aventuras!}{Parece ótimo! Eu adoraria viver mais aventuras!}{}{}{}{mm 11}
+{61}{Vamos partir então.}{}{1}{}{0}{}
+{70}{Não, obrigado, senhor. Prefiro aventurar-me sozinho.}{Não, obrigada, senhora. Prefiro aventurar-me sozinho.}{}{}{}{}
+{71}{Você poderia ao menos me mostrar onde fica?}{}{5}{re 60, lf25 0}{80}{}
+{72}{Você poderia ao menos me mostrar onde fica?}{}{5}{re 40, re -59, lf 10 1, lf25 0, lf10 0}{80}{}
+{73}{Você poderia ao menos me mostrar onde fica?}{}{5}{re 40, re -59, lf 3 1, lf25 0}{90}{}
+{75}{Você poderia ao menos me mostrar onde fica?}{}{5}{re -39, lf 3 0, lf25 0}{110}{}
+{79}{E:}{}{1}{}{0}{}
+{80}{Certo. Marquei a localização da cidade no seu mapa.}{Certo. Marquei a localização da cidade no seu mapa.}{}{}{}{mm 11, lf25 1}
+{81}{K:}{}{5}{}{30}{}
+{83}{Junte-se a mim, e viajaremos juntos até a cidade do deserto!}{}{5}{re 60}{460}{jo 0 60}
+{84}{Junte-se a mim, e viajaremos juntos até a cidade do deserto!}{}{5}{re -59}{70}{}
+{89}{E:}{}{1}{}{0}{}
+{90}{Eu marcarei seu mapa se você me trouxer uma peça para o dispositivo que lhe mostrei. Acho que preciso de uma pequena engrenagem de metal que caiu perto dos destroços. Você faria isso?}{Eu marcarei seu mapa se você me trouxer uma peça para o dispositivo que lhe mostrei. Acho que preciso de uma pequena engrenagem de metal que caiu perto dos destroços. Você faria isso?}{}{}{}{qu 1047 1}
+{91}{Eu faço isso. Onde posso encontrar essas ruínas?}{}{5}{}{100}{}
+{92}{Olha aqui, seu tolo insignificante, é melhor você me contar.}{}{5}{ra -2, ra -5, ra -6, ps 10, lf25 0}{80}{re -10}
+{93}{Estou começando a me perguntar se você realmente sabe onde fica a cidade.}{}{8}{ps 10}{120}{}
+{94}{E se eu te pagar?}{}{5}{}{270}{}
+{98}{Isso serviria? [Mostrar-lhe a engrenagem velha.]}{}{5}{in5605}{250}{}
+{99}{E:}{}{1}{}{0}{}
+{100}{Ótimo! Aqui está a localização das ruínas. [Ele marca seu mapa.] Volte com a peça quando a encontrar.}{Ótimo! Aqui está a localização das ruínas. [Ele marca seu mapa.] Volte com a peça quando a encontrar.}{}{}{}{mm73, qu 1047 2}
+{101}{E:}{}{1}{}{0}{}
+{110}{Não. Não confio em você. Eles pareciam boas pessoas.}{Não. Não confio em você. Eles pareciam boas pessoas.}{}{}{}{}
+{111}{Olha aqui, seu tolo insignificante, é melhor você me contar.}{}{5}{ra -2, ra -5, ra -6, ps 10}{80}{re -10}
+{112}{Há algo que eu possa trocar por essa informação?}{}{5}{lf3 0}{470}{}
+{113}{Estou começando a me perguntar se você realmente sabe onde fica a cidade.}{}{5}{ps 10}{120}{}
+{114}{E se eu te pagar?}{}{5}{}{270}{}
+{115}{Há algo que eu possa trocar por essa informação?}{}{5}{lf3 1}{90}{}
+{120}{Claro que eu sei onde fica!}{Claro que eu sei onde fica!}{}{}{}{}
+{121}{Então me mostre. Não há mal nenhum nisso.}{}{5}{}{80}{}
+{123}{K:}{}{5}{}{30}{}
+{130}{Bem, sim, na verdade. Encontrei um dispositivo muito interessante numa incursão por aqui. [Ele ergue um item bem pequeno e peculiar para você observar.] Achei isso em umas ruínas antigas lá nos ermos.}{Bem, sim, na verdade. Encontrei um dispositivo muito interessante numa incursão por aqui. [Ele ergue um item bem pequeno e peculiar para você observar.] Achei isso em umas ruínas antigas lá nos ermos.}{}{}{}{}
+{131}{Sério?}{}{5}{}{140}{}
+{140}{Sim. As ruínas eram feitas de um tipo de metal que eu nunca tinha visto antes. Havia todo tipo de tranqueira ao redor e dentro delas. Encontrei esse dispositivo enquanto remexia por lá.}{Sim. As ruínas eram feitas de um tipo de metal que eu nunca tinha visto antes. Havia todo tipo de tranqueira ao redor e dentro delas. Encontrei esse dispositivo enquanto remexia por lá.}{}{}{}{}
+{141}{Entendo.}{}{5}{}{150}{}
+{150}{Deve ter uns lagartos nojentos morando embaixo, porque eles saíram em bando com o barulho e tive que recuar um pouco.}{Deve ter uns lagartos nojentos morando embaixo, porque eles saíram em bando com o barulho e tive que recuar um pouco.}{}{}{}{}
+{151}{Parece perigoso.}{}{5}{}{160}{}
+{160}{Bem, é de se esperar perigo no meu ramo de trabalho.}{Bem, é de se esperar perigo no meu ramo de trabalho.}{}{}{}{}
+{161}{K:}{}{5}{}{30}{}
+{162}{E:}{}{1}{}{0}{}
+{170}{Bem, está bem vazio por lá, e não estou explorando aqui há tanto tempo assim. Mas encontrei uma cidade, lá nos ermos, cercada por areias movediças. Nenhuma estrada levava até lá ou saía do lugar.}{Bem, está bem vazio por lá, e não estou explorando aqui há tanto tempo assim. Mas encontrei uma cidade, lá nos ermos, cercada por areias movediças. Nenhuma estrada levava até lá ou saía do lugar.}{}{}{}{}
+{171}{Por favor, continue.}{}{5}{}{180}{}
+{180}{Não havia uma entrada óbvia, então escalei o muro ao redor. Dali, dava para ver o lugar todo.}{Não havia uma entrada óbvia, então escalei o muro ao redor. Dali, dava para ver o lugar todo.}{}{}{}{}
+{181}{Tem alguém morando lá?}{}{5}{}{190}{}
+{190}{Sim, havia muita gente dentro, de várias raças diferentes. Todos usavam mantos e agiam de forma muito educada e tal.}{Sim, havia muita gente dentro, de várias raças diferentes. Todos usavam mantos e agiam de forma muito educada e tal.}{}{}{}{}
+{191}{Você entrou?}{}{5}{}{200}{}
+{200}{Não, desci e fui embora. Pessoas importantes têm seus próprios costumes, e eu não vou perturbá-los.}{Não, desci e fui embora. Pessoas importantes têm seus próprios costumes, e eu não vou perturbá-los.}{}{}{}{}
+{201}{Você se juntaria a mim e viajaria até lá?}{}{5}{re 60}{460}{jo 0 60}
+{202}{Você se juntaria a mim e viajaria até lá?}{}{5}{re -59}{70}{}
+{204}{Poderia me mostrar onde fica no meu mapa?}{}{5}{re 60, lf25 0}{80}{}
+{205}{Poderia me mostrar onde fica no meu mapa?}{}{5}{re 40, re -59, lf3 0, lf25 0}{480}{}
+{206}{Poderia me mostrar onde fica no meu mapa?}{}{5}{re 40, re -59,  lf 3 1, lf25 0}{90}{}
+{207}{Poderia me mostrar onde fica no meu mapa, por favor?}{}{5}{re -39, lf25 0}{110}{}
+{209}{E:}{}{1}{}{0}{}
+{210}{Já vi todo tipo de criatura estranha. Já vi aranhas gigantes com o torso de uma mulher! Mas isso não foi a coisa mais estranha, não.}{Já vi todo tipo de criatura estranha. Já vi aranhas gigantes com o torso de uma mulher! Mas isso não foi a coisa mais estranha, não.}{}{}{}{}
+{211}{O que poderia ser mais estranho que isso?}{}{5}{}{220}{}
+{220}{Uma vez vi a coisa mais esquisita. No fundo do deserto, vi uma pedra se levantar e andar por aí. Juro que ela olhou para mim também.}{Uma vez vi a coisa mais esquisita. No fundo do deserto, vi uma pedra se levantar e andar por aí. Juro que ela olhou para mim também.}{}{}{}{}
+{221}{Você falou com ela?}{}{5}{}{230}{}
+{222}{Você a atacou?}{}{5}{}{240}{}
+{230}{Não seja absurdo. Tirei meu chapéu, fiz uma reverência elegante e a deixei em paz.}{Não seja absurdo. Tirei meu chapéu, fiz uma reverência elegante e a deixei em paz.}{}{}{}{}
+{231}{K:}{}{5}{}{30}{}
+{232}{E:}{}{1}{}{0}{}
+{240}{Pergunta típica... não, não falei. Fui embora.}{Pergunta típica... não, não falei. Fui embora.}{}{}{}{}
+{241}{K:}{}{5}{}{30}{}
+{242}{E:}{}{1}{}{0}{}
+{250}{Ótimo! Me dê que eu marco no seu mapa.}{Ótimo! Me dê que eu marco no seu mapa.}{}{}{}{}
+{251}{Aqui está.}{}{5}{}{80}{qu 1047 4, in 5605}
+{252}{Aqui está!}{}{-4}{}{80}{qu 1047 4, in 5605}
+{258}{Num quero. Eu vô embora.}{}{-4}{}{0}{}
+{259}{Acho que não. Tenha um bom dia.}{}{5}{}{0}{}
+{260}{Ah, céus... um imbecil. MEU NOME É WELDO RUBIN. SOU AVENTUREIRO, O QUE VOCÊ QUER?}{Ah, céus... um imbecil. MEU NOME É WELDO RUBIN. SOU AVENTUREIRO, O QUE VOCÊ QUER?}{}{}{}{}
+{261}{Preciso encontrar uma cidade antiga no deserto!}{}{-4}{qa1027 1, ni 5616}{410}{}
+{262}{Preciso encontrar uma cidade antiga no deserto!}{}{-4}{qu1027 0, qa1051 1, ni5616}{410}{}
+{269}{Nada.}{}{-4}{}{0}{}
+{270}{Me dê 100 moedas e eu marco no seu mapa.}{Me dê 100 moedas e eu marco no seu mapa.}{}{}{}{}
+{271}{Tá bom, aqui estão 100 moedas.}{}{5}{$$ 100}{80}{$$ -100}
+{272}{Não tenho tanto dinheiro assim.}{}{5}{$$ -99}{280}{}
+{273}{Que tal 50 moedas?}{}{5}{ha 10, $$ 50}{80}{$$ -50}
+{274}{N:}{}{5}{}{280}{}
+{280}{Azar o seu então.}{Azar o seu então.}{}{}{}{}
+{281}{K:}{}{5}{}{30}{}
+{282}{E:}{}{5}{}{0}{}
+{290}{Como posso ajudá-lo?}{Como posso ajudá-lo?}{}{}{}{}
+{291}{B:}{}{5}{wa 0}{297}{}
+{292}{U: 12}{}{5}{wa 0}{297}{}
+{293}{K:}{}{5}{wa 0}{311}{}
+{294}{Preciso que você faça uma coisa...}{}{5}{fo 1, wa 0}{304}{}
+{295}{Vamos lá.}{}{5}{wa 1}{297}{uw 0 297}
+{296}{Nada, deixa pra lá.}{}{5}{wa 0}{0}{}
+{297}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{}
+{298}{B:}{}{5}{wa 0}{297}{}
+{299}{U: 12}{}{5}{wa 0}{297}{}
+{300}{K:}{}{5}{wa 0}{311}{}
+{301}{Preciso que você faça algo...}{}{5}{fo 1, wa 0}{304}{}
+{302}{Vamos lá.}{}{5}{wa 1}{297}{uw 0 297}
+{303}{Não. Nada mais.}{}{5}{wa 0}{0}{}
+{304}{O que você gostaria que eu fizesse?}{O que você gostaria que eu fizesse?}{}{}{}{}
+{305}{Saia da frente.}{}{5}{}{297}{so}
+{306}{Chegue mais perto.}{}{5}{}{297}{sc}
+{307}{Espere aqui.}{}{5}{wa 0}{297}{wa }
+{308}{Dispensar.}{}{5}{}{297}{lv}
+{309}{[Voltar]}{}{5}{}{290}{}
+{310}{Vou fazer.}{Vou fazer.}{}{}{}{}
+{311}{O que você precisa saber?}{O que você precisa saber?}{}{}{}{}
+{330}{O que você pode me dizer sobre as ruínas de Vendigroth?}{}{5}{ss 18,ss-18}{344}{}
+{339}{[Voltar]}{}{5}{}{290}{}
+{340}{Nada, deixa pra lá.}{}{5}{}{0}{}
+{341}{Desculpe, não posso te ajudar com isso.}{Desculpe, não posso te ajudar com isso.}{}{}{}{}
+{342}{K:}{}{5}{}{311}{}
+{343}{E:}{}{1}{}{0}{}
+{344}{Não muito, infelizmente. Só conheço a cidade no ermo.}{Não muito, infelizmente. Só conheço a cidade no ermo.}{}{}{}{}
+{345}{K:}{}{5}{}{311}{}
+{346}{E:}{}{5}{}{0}{}
+{350}{Ora, aventuras, é claro! Que lugar melhor para explorar do que os temíveis ermos de Vendigroth?}{Ora, aventuras, é claro! Que lugar melhor para explorar do que os temíveis ermos de Vendigroth?}{}{}{}{}
+{351}{Você já viu alguma cidade lá nos ermos, talvez?}{}{5}{lf10 0}{170}{lf 0 1, lf 10 1}
+{352}{Encontrou algo de interessante em suas viagens?}{}{5}{}{130}{lf 0 1, lf 3 1}
+{353}{Que tipo de monstros você já viu no deserto?}{}{5}{}{210}{lf 0 1}
+{360}{[Ele se endireita em toda sua altura e tenta encarar você.] O que está insinuando? Posso ser um aventureiro tão bom quanto qualquer um!}{[Ele se endireita em toda sua altura e tenta encarar você.] O que está insinuando? Posso ser um aventureiro tão bom quanto qualquer um!}{}{}{}{}
+{361}{É só que a maioria dos halflings não é muito chegada a aventuras, só isso.}{}{5}{}{370}{}
+{370}{Ah. Bem, na verdade, acho a maioria dos halflings um tanto entediantes. Não têm emoção na vida, nem querem ter.}{Ah. Bem, na verdade, acho a maioria dos halflings um tanto entediantes. Não têm emoção na vida, nem querem ter.}{}{}{}{}
+{371}{K:}{}{5}{}{30}{}
+{379}{E:}{}{5}{}{0}{}
+{380}{Oh, por favor, desculpe minha rudeza. Não sei o que deu em mim. Em que posso te ajudar?}{Oh, por favor, desculpe minha rudeza. Não sei o que deu em mim. Em que posso te ajudar?}{}{}{}{}
+{381}{W:}{}{1}{lf1 0}{20}{lf1 1}
+{382}{K:}{}{1}{lf1 1}{30}{}
+{389}{E:}{}{1}{}{0}{}
+{390}{Bem, suponho que você não pode evitar ser o tipo miserável que parece ser. Em que posso te ajudar?}{Bem, suponho que você não pode evitar ser o tipo miserável que parece ser. Em que posso te ajudar?}{}{}{}{}
+{391}{W:}{}{1}{lf1 0}{20}{lf1 1}
+{392}{K:}{}{1}{lf1 1}{40}{}
+{393}{Você pode gritar por misericórdia enquanto eu te mato.}{}{5}{}{0}{co}
+{399}{E:}{}{1}{}{0}{}
+{400}{Tá bom, tá bom, me desculpe. Não precisa ficar tão irritado comigo! O que você quer?}{Tá bom, tá bom, me desculpe. Não precisa ficar tão irritado comigo! O que você quer?}{}{}{}{}
+{401}{W:}{}{1}{lf1 0}{20}{lf1 1}
+{402}{K:}{}{1}{lf1 1}{40}{}
+{403}{Quero que você grite por misericórdia enquanto eu te mato.}{}{5}{}{0}{co}
+{409}{Nada. Tenha um bom dia.}{}{5}{}{0}{}
+{410}{Em minhas muitas viagens pelos ermos, só encontrei uma cidade... mas não sei se me sinto à vontade para revelar sua localização a um idiota como você.}{Em minhas muitas viagens pelos ermos, só encontrei uma cidade... mas não sei se me sinto à vontade para revelar sua localização a um idiota como você.}{}{}{}{}
+{411}{Por favoooor?}{}{-4}{}{420}{}
+{412}{Eu não idiota! Eu não gostar de você agora!}{}{-4}{}{450}{}
+{420}{Hmmm. Tem uma coisa que eu preciso. Se você conseguisse isso para mim, eu lhe diria onde fica a cidade.}{Hmmm. Tem uma coisa que eu preciso. Se você conseguisse isso para mim, eu lhe diria onde fica a cidade.}{}{}{}{}
+{421}{O que é isso?}{}{-4}{}{430}{}
+{430}{Encontrei um dispositivo muito interessante em uma incursão por aqui. [Ele ergue um item bem pequeno e peculiar para você ver.] Achei isso em umas ruínas antigas nos ermos.}{Encontrei um dispositivo muito interessante em uma incursão por aqui. [Ele ergue um item bem pequeno e peculiar para você ver.] Achei isso em umas ruínas antigas nos ermos.}{}{}{}{}
+{431}{Hã?}{}{-4}{}{440}{}
+{440}{Exatamente. Não consegui todas as peças para isso, pois fui atacado por alguns lagartos. Se você for buscar a peça que preciso, eu lhe mostro onde fica a cidade antiga.}{Exatamente. Não consegui todas as peças para isso, pois fui atacado por alguns lagartos. Se você for buscar a peça que preciso, eu lhe mostro onde fica a cidade antiga.}{}{}{}{qu 1047 1}
+{441}{Certo!}{}{-4}{}{100}{qu1047 2}
+{442}{É esta a peça? [Mostre a peça para ele.]}{}{-4}{in5605}{250}{}
+{449}{Eu não querer. Eu ir embora.}{}{-4}{}{0}{}
+{450}{Hmmm. Tem uma coisa que eu preciso. Se você conseguisse isso para mim, eu lhe diria onde fica a cidade.}{Hmmm. Tem uma coisa que eu preciso. Se você conseguisse isso para mim, eu lhe diria onde fica a cidade.}{}{}{}{}
+{451}{O que é isso?}{}{-4}{}{430}{}
+{460}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{}
+{461}{Você pode me contar sobre suas aventuras?}{}{5}{lf 0 0}{40}{}
+{462}{Conte-me mais sobre suas aventuras.}{}{5}{lf 0 1}{40}{}
+{463}{Sobre a cidade no deserto...}{}{5}{lf10 1, ar-11}{50}{}
+{464}{Decidi procurar a peça que você quer.}{}{5}{qu 1047 1}{100}{}
+{465}{Tenho a peça que você queria.}{}{5}{qu 1047 2, in 5605}{250}{}
+{468}{E:}{}{1}{}{0}{}
+{470}{Encontrei um dispositivo muito interessante em uma incursão por aqui. [Ele ergue um item bem pequeno e peculiar para você ver.] Achei isso em umas ruínas antigas nos ermos. O problema é que está faltando uma peça. Não funciona assim.}{Encontrei um dispositivo muito interessante em uma incursão por aqui. [Ele ergue um item bem pequeno e peculiar para você ver.] Achei isso em umas ruínas antigas nos ermos. O problema é que está faltando uma peça. Não funciona assim.}{}{}{}{}
+{471}{Estou ouvindo.}{}{5}{}{90}{}
+{480}{Não sei... talvez se você fizesse algo por mim primeiro...}{Não sei... talvez se você fizesse algo por mim primeiro...}{}{}{}{}
+{481}{Olha aqui, seu tolinho, é melhor você me contar.}{}{5}{ra -2, ra -5, ra -6, ps 10}{80}{re -10}
+{482}{O que seria isso?}{}{5}{lf3 1}{90}{}
+{483}{Estou começando a duvidar se você realmente sabe onde fica a cidade.}{}{5}{ps 10}{120}{}
+{484}{E se eu te pagar, em vez disso?}{}{5}{}{270}{}
+{485}{O que seria isso?}{}{5}{lf3 0}{470}{}
+

@@ -1,0 +1,84 @@
+{1}{ 'ei, o quê? Acha que pode simplesmente passar direto pelo nosso pedaço da cidade sem pagar o preço? Solta 25 moedas, seu espertalhão de orelhas pontudas!}{ 'ei, o quê? Acha que pode simplesmente passar direto pelo nosso pedaço da cidade sem pagar o preço? Solta 25 moedas, seu espertalhão de orelhas pontudas!}{}{}{}{}
+{2}{E se eu não pagar?}{}{5}{}{130}{re-10}
+{3}{Tá certo, aqui estão. [Entrega as moedas.]}{}{5}{$$25}{0}{$$-25, fl 140 ,gf2483 1}
+{4}{Mas eu não quero dar minhas moedas.}{}{-4}{}{130}{re-10}
+{5}{Tá bom, tá bom. [Entrega as moedas.]}{}{-4}{$$25}{0}{$$-25, fl 140 ,gf2483 1}
+{9}{Não tenho 25 moedas, bom senhor.}{}{5}{$$-25}{0}{fl 139 ,co, gf2484 1, gf2486 1, gf2486 1}
+{10}{Eu num tenho 25 grana.}{}{-4}{$$-25}{0}{fl 139 ,co, gf2484 1, gf2486 1}
+{11}{Talvez eu simplesmente vá embora, em vez disso.}{}{5}{}{145}{}
+{12}{Vou embora agora.}{}{-4}{}{145}{}
+{13}{Prefiro ver sua vida escorrer desse seu cadáver feio!}{}{5}{}{0}{fl 119 ,co, gf2484 1, gf2486 1}
+{14}{Eu mato você agora. Tá bom?}{}{-4}{}{0}{fl 119 ,co, gf2484 1, gf2486 1}
+{20}{ 'ei, o quê? Acha que pode simplesmente passar direto pelo nosso pedaço da cidade sem pagar o preço? Solta 25 moedas, seu ratinho gorducho!}{ 'ei, o quê? Acha que pode simplesmente passar direto pelo nosso pedaço da cidade sem pagar o preço? Solta 25 moedas, seu ratinho gorducho!}{}{}{}{}
+{21}{E se eu não pagar?}{}{5}{}{130}{re-10}
+{22}{Tá certo, aqui estão. [Entrega as moedas.]}{}{5}{$$25}{0}{$$-25, fl 140 ,gf2483 1}
+{23}{Mas eu não quero dar minhas moedas.}{}{-4}{}{130}{re-10}
+{24}{Tá bom, tá bom. [Entrega as moedas.]}{}{-4}{$$25}{0}{$$-25, fl 140 , gf2483 1}
+{28}{Não tenho 25 moedas, bom senhor.}{}{5}{$$-25}{0}{fl 139 ,co, gf2484 1, gf2486 1}
+{29}{Eu num tenho 25 grana.}{}{-4}{$$-25}{0}{fl 139 ,co, gf2484 1, gf2486 1}
+{30}{Talvez eu simplesmente vá embora, em vez disso.}{}{5}{}{145}{}
+{31}{Vou embora agora.}{}{-4}{}{145}{}
+{32}{Prefiro ver sua vida escorrer desse seu cadáver feio!}{}{5}{}{0}{fl 119 ,co, gf2484 1, gf2486 1}
+{33}{Eu mato você agora. Tá bom?}{}{-4}{}{0}{fl 119 ,co, gf2484 1, gf2486 1}
+{40}{Oooh, olha só. É um dos da classe dominante, é! Um gnomo sapo nojento! Acha que pode simplesmente passar direto pelo nosso pedaço da cidade sem pagar o preço? Solta 25 moedas, seu frangote magricela!}{Oooh, olha só. É um dos da classe dominante, é! Um gnomo sapo nojento! Acha que pode simplesmente passar direto pelo nosso pedaço da cidade sem pagar o preço? Solta 25 moedas, seu frangote magricela!}{}{}{}{}
+{41}{E se eu não pagar?}{}{5}{}{130}{re-10}
+{42}{Tá certo, aqui estão. [Entrega as moedas.]}{}{5}{$$25}{0}{$$-25, fl 140 , gf2483 1}
+{43}{Mas eu não quero dar minhas moedas.}{}{-4}{}{130}{re-10}
+{44}{Tá bom, tá bom. [Entrega as moedas.]}{}{-4}{$$25}{0}{$$-25, fl 140 , gf2483 1}
+{48}{Não tenho 25 moedas, bom senhor.}{}{5}{$$-25}{0}{fl 139 ,co, gf2484 1, gf2486 1}
+{49}{Eu num tenho 25 grana.}{}{-4}{$$-25}{0}{fl 139 ,co, gf2484 1, gf2486 1}
+{50}{Talvez eu simplesmente vá embora, em vez disso.}{}{5}{}{145}{}
+{51}{Vou embora agora.}{}{-4}{}{145}{}
+{52}{Prefiro ver sua vida escorrer desse seu cadáver feio!}{}{5}{}{0}{fl 119 ,co, gf2484 1, gf2486 1}
+{53}{Vou te matar agora. Tá bom?}{}{-4}{}{0}{fl 119 ,co, gf2484 1, gf2486 1}
+{60}{Ei, o quê? É um porco humano de cara pálida, achando que pode simplesmente passar direto pelo nosso pedaço da cidade sem pagar o pato. Tussa 25 moedas, seu chato!}{Ei, o quê? É uma rameira humana de cara pálida, achando que pode simplesmente passar direto pelo nosso pedaço da cidade sem pagar o pato. Tussa 25 moedas, sua chata!}{}{}{}{}
+{61}{E se eu não pagar?}{}{5}{}{130}{re-10}
+{62}{Tá bom, aqui estão. [Entrega as moedas.]}{}{5}{$$25}{0}{$$-25, fl 140 , gf2483 1}
+{63}{Mas eu não quero dar minhas moedas.}{}{-4}{}{130}{re-10}
+{64}{Tá bom, tá bom. [Entrega as moedas.]}{}{-4}{$$25}{0}{$$-25, fl 140 , gf2483 1}
+{68}{Não tenho 25 moedas, bom senhor.}{}{5}{$$-25}{0}{fl 139 ,co, gf2484 1, gf2486 1}
+{69}{Eu num tenho 25 dinheiros.}{}{-4}{$$-25}{0}{fl 139 ,co, gf2484 1, gf2486 1}
+{70}{Talvez eu simplesmente vá embora, em vez disso.}{}{5}{}{145}{}
+{71}{Vou embora agora.}{}{-4}{}{145}{}
+{72}{Prefiro ver sua vida escorrer desse seu cadáver feio!}{}{5}{}{0}{fl 119 ,co, gf2484 1, gf2486 1}
+{73}{Vou te matar agora. Tá bom?}{}{-4}{}{0}{fl 119 ,co, gf2484 1, gf2486 1}
+{80}{Ei, o quê? É um sapo anão que ama terra, achando que pode simplesmente passar direto pelo nosso pedaço da cidade sem pagar o pato. Tussa 25 moedas, seu cão barbudo!}{Ei, o quê? É um sapo anão que ama terra, achando que pode simplesmente passar direto pelo nosso pedaço da cidade sem pagar o pato. Tussa 25 moedas, seu cão barbudo!}{}{}{}{}
+{81}{E se eu não pagar?}{}{5}{}{130}{re-10}
+{82}{Tá bom, aqui estão. [Entrega as moedas.]}{}{5}{$$25}{0}{$$-25, fl 140 , gf2483 1}
+{83}{Mas eu não quero dar minhas moedas.}{}{-4}{}{130}{re-10}
+{84}{Tá bom, tá bom. [Entrega as moedas.]}{}{-4}{$$25}{0}{$$-25, fl 140 , gf2483 1}
+{88}{Não tenho 25 moedas, bom senhor.}{}{5}{$$-25}{0}{fl 139 ,co, gf2484 1, gf2486 1}
+{89}{Eu num tenho 25 dinheiros.}{}{-4}{$$-25}{0}{fl 139 ,co, gf2484 1, gf2486 1}
+{90}{Talvez eu simplesmente vá embora, em vez disso.}{}{5}{}{145}{}
+{91}{Vou embora agora.}{}{-4}{}{145}{}
+{92}{Prefiro ver sua vida escorrer desse seu cadáver feio!}{}{5}{}{0}{fl 119 ,co, gf2484 1, gf2486 1}
+{93}{Vou te matar agora. Tá bom?}{}{-4}{}{0}{fl 119 ,co, gf2484 1, gf2486 1}
+{100}{Ei, o quê? Você acha que pode simplesmente passar direto pelo nosso pedaço da cidade sem pagar... [ele faz uma pausa para te olhar melhor]. Ah, minhas desculpas, irmão. Não percebi que era um dos nossos. Só estou extorquindo os locais, entende... bom, tenha uma boa noite.}{Ei, o quê? Você acha que pode simplesmente passar direto pelo nosso pedaço da cidade sem pagar... [ele faz uma pausa para te olhar melhor]. Ah, minhas desculpas, irmã. Não percebi que era uma das nossas. Só estou extorquindo os locais, entende... bom, tenha uma boa noite.}{}{}{}{, gf2483 1}
+{101}{Espere aí... eu não aprovo nada disso! Vocês estão nos dando má fama!}{}{5}{}{110}{re-10}
+{102}{Boa noite.}{}{5}{}{0}{}
+{103}{Tá bom.}{}{-4}{}{0}{}
+{110}{Ah, entendi, um dos "esses". Some daqui, lambe-botas, antes que eu decida te ensinar o que é ser de sangue órquico!}{Ah, entendi, um d"aqueles". Some daqui, puxa-saco, antes que eu decida te ensinar o que é ter sangue órquico!}{}{}{}{}
+{111}{Você vai lamber minhas botas antes que isso acabe, porco!}{}{5}{}{0}{fl 119 ,co, gf2484 1, gf2486 1}
+{112}{Tenha uma boa noite, então.}{}{5}{}{0}{}
+{119}{Peguem esse cão, rapazes!}{Vamos ensinar boas maneiras a essa vadia, rapazes!}{}{}{}{}
+{120}{[Este bandido órquico se vira para seus companheiros e sussurra.] Deixem esse em paz, rapazes. É um meio-ogro. Não precisamos trazer esse tipo de dor para nós mesmos...}{[Este bandido órquico se vira para seus companheiros e sussurra.] Deixem esse em paz, rapazes. É um meio-ogro. Não precisamos trazer esse tipo de dor para nós mesmos...}{}{}{}{}
+{130}{[Ele se aproxima de você, ameaçador.] Então você vai provar o fio da minha lâmina, cão!}{[Ele se aproxima de você, ameaçador.] Então você vai provar o fio da minha lâmina, vagabunda!}{}{}{}{}
+{131}{Entendo seu ponto. Aqui. [Dê as moedas a ele.]}{}{5}{$$25}{0}{$$-25, fl 140 , gf2483 1}
+{132}{Estou meio duro no momento...}{}{5}{}{0}{fl 139 ,co, gf2484 1, gf2486 1}
+{133}{Tá.}{}{-4}{$$25}{0}{$$-25, fl 140 , gf2483 1}
+{134}{Eu num tenho dinheiro.}{}{-4}{}{0}{fl 139 ,co, gf2484 1, gf2486 1}
+{135}{Prefiro ver sua vida sangrar desse corpo feio!}{}{5}{}{0}{fl 119 ,co, gf2484 1, gf2486 1}
+{136}{Eu mato você agora. Tá bom?}{}{-4}{}{0}{fl 119 ,co, gf2484 1, gf2486 1}
+{139}{Que pena pra você, idiota. Você vai ter que pagar com sangue, então!}{Que pena pra você, idiota. Você vai ter que pagar com sangue, então!}{}{}{}{}
+{140}{[Ele sorri com um sorriso obviamente falso e insultante.] Muito agradecido, senhor, se eu tivesse um chapéu, tiraria para você! Ha ha. Esperamos que tenha uma noite agradável...}{[Ele sorri com um sorriso obviamente falso e insultante.] Muito agradecida, madame, se eu tivesse um chapéu, tiraria para você! Ha ha. Esperamos que tenha uma noite agradável...}{}{}{}{}
+{145}{Não, não, não é assim que isso funciona. Sabe, você nos dá dinheiro, ou cortamos sua garganta. Simples, né?}{Não, não, não é assim que isso funciona. Sabe, você nos dá dinheiro, ou cortamos sua garganta. Simples, né?}{}{}{}{}
+{146}{Tudo bem, aqui está. [Entregue as moedas a ele.]}{}{5}{$$25}{0}{$$-25, fl 140 , gf2483 1}
+{147}{Tá bom, tá bom. [Entregue as moedas a ele.]}{}{-4}{$$25}{0}{$$-25, fl 140 , gf2483 1}
+{148}{Não tenho 25 moedas, bom senhor.}{}{5}{$$-25}{0}{fl 139 ,co, gf2484 1, gf2486 1}
+{149}{Eu num tenho 25 dinheiro.}{}{-4}{$$-25}{0}{fl 139 ,co, gf2484 1, gf2486 1}
+{150}{Prefiro ver sua vida sangrar desse corpo feio!}{}{5}{}{0}{fl 119 ,co, gf2484 1, gf2486 1}
+{151}{Eu mato você agora. Tá bom?}{}{-4}{}{0}{fl 119 ,co, gf2484 1, gf2486 1}
+{160}{[Este meio-orc bruto olha para você e grunhe.] Urgh.}{[Este meio-orc bruto olha para você e grunhe.] Urgh.}{}{}{}{}
+{161}{Hã? Quem está aí? Apareça!}{Hã? Quem está aí? Apareça!}{}{}{}{}
+{162}{A gente te pega depois, seu cachorro!}{A gente te pega depois, sua vagabunda!}{}{}{}{}
+

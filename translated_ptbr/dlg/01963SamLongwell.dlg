@@ -1,0 +1,57 @@
+{1}{G:}{G:}{}{}{}{ }
+{2}{W:}{}{5}{re41, lf1 0}{15}{lf1 1 }
+{3}{Com licença? Você não estava falando comigo, estava?}{}{5}{re-40, ch10}{120}{re50 }
+{4}{Por favor, honrado senhor, busco apenas um mero momento do seu tempo.}{}{5}{re-40, ch-9}{130}{re+10 }
+{5}{Como está se desenvolvendo a história?}{}{5}{re41, gf2408 1}{140}{ }
+{9}{W:}{}{-4}{lf1 0}{15}{lf1 1 }
+{10}{Tenho provas de uma conspiração que pode lhe interessar.}{}{5}{lf1 1, in5247, gf2408 0}{35}{ }
+{11}{Eu tenho um livro ruim para os engraçadinhos de Trânt.}{}{-4}{lf1 1, in5247, gf2408 0}{85}{ }
+{14}{E:}{}{1}{}{0}{ }
+{15}{Meu nome é Sam Longwell, e este é o escritório da filial de Caládon do Tarântico.}{Meu nome é Sam Longwell, e este é o escritório da filial de Caládon do Tarântico.}{}{}{}{ }
+{16}{O Tarântico? Caládon não tem seu próprio jornal?}{}{5}{}{25}{ }
+{17}{Tenho provas de uma conspiração que pode lhe interessar.}{}{5}{lf1 1, in5247}{35}{ }
+{19}{Eu tenho um livro ruim para os engraçadinhos de Trânt.}{}{-4}{lf1 1, in5247}{85}{ }
+{21}{E:}{}{-4}{}{0}{ }
+{24}{Prazer em conhecê-lo. Tenha um bom dia.}{}{5}{}{0}{ }
+{25}{Não preciso de um. Qualquer coisa importante que aconteça aqui é noticiada no Tarântico, e o nome Tarântico vende jornais no mundo todo.}{Não preciso de um. Qualquer coisa importante que aconteça aqui é noticiada no Tarântico, e o nome Tarântico vende jornais no mundo todo.}{}{}{}{ }
+{26}{Tenho provas de uma conspiração que pode lhe interessar.}{}{5}{in5247}{35}{ }
+{27}{Bem, se eu descobrir alguma novidade, com certeza trarei aqui.}{}{5}{ni5247}{0}{ }
+{28}{Eu tenho um livro ruim para os engraçadinhos de Trânt.}{}{-4}{lf1 1, in5247}{85}{ }
+{29}{Volto se vir notícias para contar.}{}{-4}{ni5247}{0}{ }
+{35}{[Uma expressão de desconfiança cruza seu rosto.] O que você quer dizer com "conspiração"? Isso é algum tipo de piada?}{[Uma expressão de desconfiança cruza seu rosto.] O que você quer dizer com "conspiração"? Isso é algum tipo de piada?}{}{}{}{ }
+{36}{O Conselho Industrial tem criado meio-ogros ilegalmente!}{}{5}{}{45}{ }
+{45}{Digamos que eu estivesse interessado nessa história... eu precisaria de provas.}{Digamos que eu estivesse interessado nessa história... eu precisaria de provas.}{}{}{}{ }
+{46}{Está tudo aqui. [Mostrar o diário para ele.]}{}{5}{}{55}{ }
+{55}{Pelos deuses!! Isso é impressionante! Posso fazer minha reputação com uma história dessas... se você deixar isso comigo, vou publicá-la na íntegra. Será a história do século!}{Pelos deuses!! Isso é impressionante! Posso fazer minha reputação com uma história dessas... se você deixar isso comigo, vou publicá-la na íntegra. Será a história do século!}{}{}{}{ }
+{56}{Quanto você me pagaria por isso?}{}{5}{}{65}{ }
+{57}{Tudo bem, aqui está. [Entregar o livro para ele.]}{}{5}{}{75}{in5247 }
+{59}{Acho que não. Preciso ir embora.}{}{5}{}{0}{lf2 1 }
+{65}{O quê, está brincando? Com o salário de um jornalista? Eu poderia te dar... cem moedas. O que acha?}{O quê, está brincando? Com o salário de um jornalista? Eu poderia te dar... cem moedas. O que acha?}{}{}{}{ }
+{66}{Tudo bem, aqui está. [Entregar o livro para ele.]}{}{5}{}{75}{in5247, $$100 }
+{73}{Acho que não. Tenha um bom dia.}{}{5}{}{0}{lf2 1 }
+{74}{}{}{}{}{}{ }
+{75}{[Folheando o livro] Não posso acreditar nisso! É exatamente o que eu estava esperando. Vou escrever isso agora para publicar no jornal de amanhã.}{[Folheando o livro] Não posso acreditar nisso! É exatamente o que eu estava esperando. Vou escrever isso agora para publicar no jornal de amanhã.}{}{}{}{gf2408 1 }
+{76}{E:}{}{1}{}{0}{ }
+{85}{O que foi que você disse?}{O que foi que você disse?}{}{}{}{ }
+{86}{Eu tenho um livro ruim para os engraçadinhos de Trânt!}{}{-4}{}{95}{ }
+{95}{Do que você está falando? Não consigo te entender.}{Do que você está falando? Não consigo te entender.}{}{}{}{ }
+{96}{Eles fazem novos meio-ogros! Mulheres escravas!}{}{-4}{}{105}{ }
+{105}{Se eu entendi o que você está dizendo, o que duvido, precisaria de provas para sustentar uma história dessas.}{Se eu entendo o que você está dizendo, o que duvido, precisaria de provas para fundamentar uma história dessas.}{}{}{}{ }
+{106}{Hã?}{}{-4}{}{115}{ }
+{115}{Provas! Preciso de provas!}{Provas! Preciso de provas!}{}{}{}{ }
+{116}{Ugh. [Dê-lhe o livro.]}{}{-4}{}{75}{ }
+{119}{Não. Eu vou agora.}{}{-4}{}{0}{ }
+{120}{Não, eu não estava, estava pensando em outra coisa, claro. Jamais seria tão rude com um conterrâneo. Em que posso ajudá-lo?}{Não, eu não estava, estava pensando em outra coisa, claro. Jamais seria tão rude com um conterrâneo. Em que posso ajudá-lo?}{}{}{}{ }
+{121}{W:}{}{5}{re41, lf1 0}{15}{lf1 1 }
+{122}{Tenho provas de uma conspiração que pode lhe interessar.}{}{5}{lf1 1, in5247, gf2408 0}{35}{ }
+{123}{Como está tomando forma a história?}{}{5}{gf2408 1}{140}{ }
+{129}{E:}{}{5}{}{0}{ }
+{130}{Suponho que não me mataria ouvir você tagarelar por um momento.}{Suponho que não me mataria ouvir você tagarelar por um momento.}{}{}{}{ }
+{131}{Obrigado, senhor. Posso perguntar seu nome, honorável senhor?}{}{5}{re-41, lf1 0}{15}{re41, lf1 1 }
+{132}{Obrigado, senhor. Posso perguntar seu nome, honorável senhor?}{}{5}{re41, lf1 0}{15}{lf1 1 }
+{133}{Tenho provas de uma conspiração que pode lhe interessar.}{}{5}{lf1 1, in5247, re41, gf2408 0}{35}{ }
+{134}{Tenho provas de uma conspiração que pode lhe interessar.}{}{5}{lf1 1, in5247, re-41, gf2408 0}{35}{re41 }
+{135}{Como está tomando forma a história?}{}{5}{gf2408 1}{140}{ }
+{139}{Errado! Isso vai te matar, agora mesmo!}{}{5}{}{0}{co }
+{140}{Ainda estou trabalhando nela. Deve sair nos jornais amanhã, como eu disse.}{Ainda estou trabalhando nela. Deve sair nos jornais amanhã, como eu disse.}{}{}{}{ }
+

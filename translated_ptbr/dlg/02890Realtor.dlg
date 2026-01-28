@@ -1,0 +1,73 @@
+{1}{G:}{G:}{}{}{}{ }
+{2}{W:}{}{5}{lf1 0, re41}{20}{lf1 1 }
+{3}{Devo ter ouvido mal...}{}{5}{re-40, ch10}{120}{re50 }
+{4}{Por favor, desculpe minha presença, senhor. Não quero ofender.}{}{5}{re-40, ch-9}{130}{ }
+{5}{Fale comigo desse jeito de novo e eu te mato.}{}{5}{re-40, sk2 12}{160}{re45 }
+{6}{W:}{}{-4}{lf1 0}{110}{re45 }
+{7}{Gostaria de falar com você sobre a mansão Bates.}{}{5}{lf1 1, re41}{90}{ }
+{8}{Quero falar com você sobre a casa!}{}{-4}{lf1 1}{90}{ }
+{19}{E:}{}{1}{}{0}{ }
+{20}{Meu nome é W. Thomas Moreau. Estou nesta cidade amaldiçoada pelos deuses para vender aquele monstro de casa, a Mansão Bates. Receio que ficarei aqui para sempre, pois quem iria querer comprar aquela aberração?}{Meu nome é W. Thomas Moreau. Estou nesta cidade amaldiçoada pelos deuses para vender aquele monstro de casa, a Mansão Bates. Receio que ficarei aqui para sempre, pois quem iria querer comprar aquela aberração?}{}{}{}{ }
+{21}{Posso estar interessado. Por quanto você está vendendo?}{}{5}{}{30}{ }
+{29}{E:}{}{1}{}{0}{ }
+{30}{[Ele sorri amplamente para você.] Aquela magnífica propriedade pode ser sua pela módica quantia de 100.000 moedas!}{[Ele sorri amplamente para você.] Aquela magnífica propriedade pode ser sua pela módica quantia de 100.000 moedas!}{}{}{}{lf4 1 }
+{31}{100.000 parece um pouco exorbitante. Que tal 75.000?}{}{5}{sk9 20, tr9 -2}{40}{ }
+{32}{100.000 parece um pouco exorbitante. Que tal 50.000?}{}{5}{tr9 3}{50}{ }
+{33}{Temos um acordo.}{}{5}{$$100000}{60}{$$-100000 }
+{34}{Não tenho tantas moedas. Talvez a gente possa chegar a um acordo?}{}{5}{}{70}{ }
+{36}{Isso é muito!}{}{-4}{}{70}{ }
+{37}{Certo!}{}{-4}{$$100000}{60}{$$-100000 }
+{38}{Eu vô embora.}{}{-4}{}{0}{ }
+{39}{Isso é ridículo! Tenha um bom dia, senhor!}{}{5}{}{0}{ }
+{40}{Hmmm. Não sei por que estou até considerando isso, mas você parece ser um sujeito honesto! [Ele pensa por um momento.] Tudo bem! 75.000 está valendo!}{Hmmm. Não sei por que estou até considerando isso, mas você parece ser uma mulher de bom gosto! [Ele pensa por um momento.] Tudo bem! 75.000 está valendo!}{}{}{}{ }
+{41}{Temos um acordo.}{}{5}{$$75000}{60}{$$-75000 }
+{42}{No momento, não tenho tantas moedas. Voltarei mais tarde.}{}{5}{}{0}{lf2 1 }
+{50}{Hmmm. Não sei por que estou até considerando isso, mas você parece ser um sujeito honesto! [Ele pensa por um momento.] Tudo bem! 50.000 está valendo!}{Hmmm. Não sei por que estou até considerando isso, mas você parece ser uma mulher de bom gosto! [Ele pensa por um momento.] Tudo bem! 50.000 está valendo!}{}{}{}{ }
+{51}{Temos um acordo.}{}{5}{$$50000}{60}{$$-50000 }
+{52}{No momento, não tenho tantas moedas. Voltarei mais tarde.}{}{5}{}{0}{lf3 1 }
+{60}{Excelente! Ela é sua! Aqui está a chave do portão principal.}{Excelente! Ela é sua! Aqui está a chave do portão principal.}{}{}{}{gf2676 1, re+25, in-4423, rp1069 }
+{61}{A:}{}{1}{}{0}{ }
+{70}{Não tenho poder sobre o preço. Sou apenas um agente, trabalhando para o banco. 100.000 é o preço, e isso é definitivo.}{Não tenho poder sobre o preço. Sou apenas um agente, trabalhando para o banco. 100.000 é o preço, e isso é definitivo.}{}{}{}{ }
+{71}{Tem certeza? Parece um pouco exorbitante. Que tal 75.000?}{}{5}{sk9 20, tr9 -2}{40}{ }
+{72}{Tem certeza? Parece um pouco exorbitante. Que tal 50.000?}{}{5}{tr9 3}{50}{ }
+{73}{Tudo bem, fechamos negócio.}{}{5}{$$100000}{60}{$$-100000 }
+{74}{Certo!}{}{-4}{$$100000}{60}{$$-100000 }
+{78}{E:}{}{-4}{}{0}{ }
+{79}{Entendo. Adeus, então.}{}{5}{}{0}{ }
+{90}{Pois não?}{Pois não?}{}{}{}{ }
+{91}{Eu trouxe dinheiro para comprá-la.}{}{5}{lf2 1, $$75000}{60}{$$-75000 }
+{92}{Eu trouxe dinheiro para comprá-la.}{}{5}{lf3 1, $$50000}{60}{$$-50000 }
+{93}{Eu queria fazer uma contraproposta.}{}{5}{lf4 1, lf3 0, lf2 0, tr9 3}{100}{ }
+{94}{Eu queria fazer uma contraproposta.}{}{5}{lf4 1, lf3 0, lf2 0, sk9 20, tr9 -2}{100}{ }
+{95}{Eu trouxe dinheiro para comprá-la.}{}{5}{lf4 1, lf3 0, lf2 0, sk9 -19, $$100000}{60}{$$-100000 }
+{96}{Eu tenho grana pra casa!}{}{-4}{$$100000}{60}{$$-100000 }
+{97}{Quanto custa a mansão Bates?}{}{5}{lf4 0, lf3 0, lf2 0}{30}{ }
+{98}{Quanto custa a casa?}{}{-4}{lf4 0, lf3 0, lf2 0}{30}{ }
+{99}{Nada. Adeus.}{}{5}{}{0}{ }
+{100}{E o que seria isso?}{E o que seria isso?}{}{}{}{ }
+{101}{Seria 75.000.}{}{5}{sk9 20, tr9 -2}{40}{ }
+{102}{Seria 50.000.}{}{5}{tr9 3}{50}{ }
+{110}{Oh, céus, um imbecil. EU ESTOU AQUI PARA VENDER A CASA DOS BATES. O QUE VOCÊ QUER?}{Oh, céus, um imbecil. EU ESTOU AQUI PARA VENDER A CASA DOS BATES. O QUE VOCÊ QUER?}{}{}{}{ }
+{111}{Casa? Eu quer comprar!!!!}{}{-4}{}{30}{ }
+{119}{E:}{}{1}{}{0}{ }
+{120}{Com licença, onde estão meus modos? Não faço ideia do que eu poderia estar pensando... em que posso ajudá-lo?}{Com licença, onde estão meus modos? Não faço ideia do que eu poderia estar pensando... em que posso ajudá-lo?}{}{}{}{ }
+{121}{W:}{}{5}{lf1 0}{20}{lf1 1 }
+{122}{Gostaria de falar com você sobre a mansão dos Bates.}{}{5}{lf1 1}{90}{lf4 1, fl }
+{129}{E:}{}{1}{}{0}{ }
+{130}{Sim, bem, eu não costumo me associar com pessoas de caráter tão... baixo.}{Sim, bem, eu não costumo me associar com pessoas de caráter tão... baixo.}{}{}{}{ }
+{131}{Só preciso de um momento do seu tempo, senhor...}{}{5}{}{140}{re41 }
+{132}{Com que frequência você apanha deles, seu porco?}{}{5}{}{0}{co }
+{139}{E:}{}{1}{}{0}{ }
+{140}{Ah, tudo bem. O que é?}{Ah, tudo bem. O que é?}{}{}{}{ }
+{141}{Posso perguntar quem é o senhor, bom homem?}{}{5}{lf1 0}{150}{lf1 1 }
+{142}{Quero falar com você sobre a mansão dos Bates.}{}{5}{lf1 1}{90}{re45 }
+{149}{E:}{}{1}{}{0}{ }
+{150}{Meu nome é W. Thomas Moreau. Estou nesta cidade abandonada pelos deuses para vender aquele aleijão de casa, a Mansão Bates. Agora, se não há mais nada...}{Meu nome é W. Thomas Moreau. Estou nesta cidade abandonada pelos deuses para vender aquele aleijão de casa, a Mansão Bates. Agora, se não há mais nada...}{}{}{}{ }
+{151}{Posso estar interessado. Por quanto está vendendo?}{}{5}{}{30}{re50 }
+{159}{E:}{}{1}{}{0}{ }
+{160}{[Ele parece um pouco perturbado com sua ameaça.] Ho, ho! Uma boa piada, essa foi. Heh, heh... por favor, devo me desculpar por qualquer ofensa que possa ter causado. O que posso fazer por você?}{[Ele parece um pouco perturbado com sua ameaça.] Ho, ho! Uma boa piada, essa foi. Heh, heh... por favor, devo me desculpar por qualquer ofensa que possa ter causado. O que posso fazer por você?}{}{}{}{ }
+{161}{W:}{}{5}{lf1 0}{20}{lf1 1 }
+{162}{Quero falar com você sobre a mansão dos Bates.}{}{5}{lf1 1}{90}{ }
+{163}{Você pode morrer!!!!}{}{5}{}{0}{co }
+{169}{E:}{}{1}{}{0}{ }
+

@@ -1,0 +1,198 @@
+{1}{G:}{}{}{}{}{}
+{2}{Combate}{}{1}{}{8}{}
+{3}{Roubo}{}{1}{}{14}{}
+{4}{Social}{}{1}{}{20}{}
+{5}{Técnico}{}{1}{}{26}{}
+{6}{Diversos - Alinhamento, Aptidão Tecnológica, Aptidão Mágica, Maestria}{}{1}{}{128}{}
+{7}{}{}{}{}{}{}
+{8}{Treinamento Acelerado de Combate}{Treinamento Acelerado de Combate}{}{}{}{}
+{9}{Arco}{}{1}{}{32}{}
+{10}{Esquiva}{}{1}{}{38}{}
+{11}{Combate Corpo a Corpo}{}{1}{}{44}{}
+{12}{Arremesso}{}{1}{}{50}{}
+{13}{Mais Treinamento}{}{1}{}{1}{}
+{14}{Treinamento Acelerado de Ladrão}{Treinamento Acelerado de Ladrão}{}{}{}{}
+{15}{Dissimulação}{}{1}{}{56}{}
+{16}{Bater Carteira}{}{1}{}{62}{}
+{17}{Movimento Silencioso}{}{1}{}{68}{}
+{18}{Detectar Armadilha}{}{1}{}{74}{}
+{19}{Mais Treinamento}{}{1}{}{1}{}
+{20}{Treinamento Acelerado Social}{Treinamento Acelerado Social}{}{}{}{}
+{21}{Jogos de Azar}{}{1}{}{80}{}
+{22}{Pechincha}{}{1}{}{86}{}
+{23}{Cura}{}{1}{}{92}{}
+{24}{Persuasão}{}{1}{}{98}{}
+{25}{Mais Treinamento}{}{1}{}{1}{}
+{26}{Instituto Técnico Arcanum}{Instituto Técnico Arcanum}{}{}{}{}
+{27}{Reparo}{}{1}{}{104}{}
+{28}{Armas de Fogo}{}{1}{}{110}{}
+{29}{Destrancar Fechadura}{}{1}{}{116}{}
+{30}{Armar Armadilha}{}{1}{}{122}{}
+{31}{Mais Treinamento}{}{1}{}{1}{}
+{32}{Treinamento com Arco}{Treinamento com Arco}{}{}{}{}
+{33}{T:0}{}{1}{}{32}{}
+{34}{Especialista}{}{1}{}{32}{tr 0 2}
+{35}{Mestre}{}{1}{}{32}{tr 0 3}
+{36}{mais Combate Corpo a Corpo}{}{1}{}{8}{}
+{37}{E:}{}{1}{}{}{}
+{38}{Esquiva}{Esquiva}{}{}{}{}
+{39}{T:1}{}{1}{}{38}{}
+{40}{Especialista}{}{1}{}{38}{tr 1 2}
+{41}{Mestre}{}{1}{}{38}{tr 1 3}
+{42}{mais Combate Corpo a Corpo}{}{1}{}{8}{}
+{43}{E:}{}{1}{}{}{}
+{44}{Combate Corpo a Corpo}{Combate Corpo a Corpo}{}{}{}{}
+{45}{T:2}{}{1}{}{44}{}
+{46}{Especialista}{}{1}{}{44}{tr 2 2}
+{47}{Mestre}{}{1}{}{44}{tr 2 3}
+{48}{mais Combate Corpo a Corpo}{}{1}{}{8}{}
+{49}{E:}{}{1}{}{}{}
+{50}{Arremesso}{Arremesso}{}{}{}{}
+{51}{T:3}{}{1}{}{50}{}
+{52}{Especialista}{}{1}{}{50}{tr 3 2}
+{53}{Mestre}{}{1}{}{50}{tr 3 3}
+{54}{mais Combate Corpo a Corpo}{}{1}{}{8}{}
+{55}{E:}{}{1}{}{}{}
+{56}{Furtividade}{Furtividade}{}{}{}{}
+{57}{T:4}{}{1}{}{56}{}
+{58}{Especialista}{}{1}{}{56}{tr 4 2}
+{59}{Mestre}{}{1}{}{56}{tr 4 3}
+{60}{mais Ladrão}{}{1}{}{14}{}
+{61}{E:}{}{1}{}{}{}
+{62}{Bater Carteira}{Bater Carteira}{}{}{}{}
+{63}{T:5}{}{1}{}{62}{}
+{64}{Especialista}{}{1}{}{62}{tr 5 2}
+{65}{Mestre}{}{1}{}{62}{tr 5 3}
+{66}{mais Ladrão}{}{1}{}{14}{}
+{67}{E:}{}{1}{}{}{}
+{68}{Movimento Silencioso}{Movimento Silencioso}{}{}{}{}
+{69}{T:6}{}{1}{}{68}{}
+{70}{Especialista}{}{1}{}{68}{tr 6 2}
+{71}{Mestre}{}{1}{}{68}{tr 6 3}
+{72}{mais Ladrão}{}{1}{}{14}{}
+{73}{E:}{}{1}{}{}{}
+{74}{Detectar Armadilha}{Detectar Armadilha}{}{}{}{}
+{75}{T:7}{}{1}{}{74}{}
+{76}{Especialista}{}{1}{}{74}{tr 7 2}
+{77}{Mestre}{}{1}{}{74}{tr 7 3}
+{78}{mais Ladrão}{}{1}{}{14}{}
+{79}{E:}{}{1}{}{}{}
+{80}{Jogos de Azar}{Jogos de Azar}{}{}{}{}
+{81}{T:8}{}{1}{}{80}{}
+{82}{Especialista}{}{1}{}{80}{tr 8 2}
+{83}{Mestre}{}{1}{}{80}{tr 8 3}
+{84}{mais Social}{}{1}{}{20}{}
+{85}{E:}{}{1}{}{}{}
+{86}{Pechincha}{Pechincha}{}{}{}{}
+{87}{T:9}{}{1}{}{86}{}
+{88}{Especialista}{}{1}{}{86}{tr 9 2}
+{89}{Mestre}{}{1}{}{86}{tr 9 3}
+{90}{mais Social}{}{1}{}{20}{}
+{91}{E:}{}{1}{}{}{}
+{92}{Cura}{Cura}{}{}{}{}
+{93}{T:10}{}{1}{}{92}{}
+{94}{Especialista}{}{1}{}{92}{tr 10 2}
+{95}{Mestre}{}{1}{}{92}{tr 10 3}
+{96}{mais Social}{}{1}{}{20}{}
+{97}{E:}{}{1}{}{}{}
+{98}{Persuasão}{Persuasão}{}{}{}{}
+{99}{T:11}{}{1}{}{98}{}
+{100}{Especialista}{}{1}{}{98}{tr 11 2}
+{101}{Mestre}{}{1}{}{98}{tr 11 3}
+{102}{mais Social}{}{1}{}{20}{}
+{103}{E:}{}{1}{}{}{}
+{104}{Reparo}{Reparo}{}{}{}{}
+{105}{T:12}{}{1}{}{104}{}
+{106}{Especialista}{}{1}{}{104}{tr 12 2}
+{107}{Mestre}{}{1}{}{104}{tr 12 3}
+{108}{mais Tecnologia}{}{1}{}{26}{}
+{109}{E:}{}{1}{}{}{}
+{110}{Armas de Fogo}{Armas de Fogo}{}{}{}{}
+{111}{T:13}{}{1}{}{110}{}
+{112}{Especialista}{}{1}{}{110}{tr 13 2}
+{113}{Mestre}{}{1}{}{110}{tr 13 3}
+{114}{mais Tecnologia}{}{1}{}{26}{}
+{115}{E:}{}{1}{}{}{}
+{116}{Abrir Fechadura}{Abrir Fechadura}{}{}{}{}
+{117}{T:14}{}{1}{}{116}{}
+{118}{Especialista}{}{1}{}{116}{tr 14 2}
+{119}{Mestre}{}{1}{}{116}{tr 14 3}
+{120}{mais Tecnologia}{}{1}{}{26}{}
+{121}{E:}{}{1}{}{}{}
+{122}{Armar Armadilha}{Armar Armadilha}{}{}{}{}
+{123}{T:15}{}{1}{}{122}{}
+{124}{Especialista}{}{1}{}{122}{tr 15 2}
+{125}{Mestre}{}{1}{}{122}{tr 15 3}
+{126}{mais Tecnologia}{}{1}{}{26}{}
+{127}{E:}{}{1}{}{}{}
+{128}{Efeitos Diversos para Diálogo}{Efeitos Diversos para Diálogo}{}{}{}{}
+{129}{Alterar Minha Tendência}{}{1}{}{134}{}
+{130}{Conceder-me Domínio de uma Escola de Magia}{}{1}{}{168}{}
+{131}{Tornar-me Mágico}{}{1}{}{150}{}
+{132}{Tornar-me Técnico}{}{1}{}{156}{}
+{133}{Conceder-me uma Reputação}{}{1}{}{162}{}
+{134}{Você será Bondoso :) ou Maligno :( ??????}{Você será Bondoso :) ou Maligno :( ??????}{}{}{}{}
+{135}{Torne-me Maligno}{}{1}{}{138}{}
+{136}{Torne-me Bondoso}{}{1}{}{144}{}
+{137}{E:}{}{1}{}{0}{}
+{138}{Bondade}{Bondade}{}{}{}{}
+{139}{definir como 200}{}{1}{}{138}{al +200}
+{140}{definir como 400}{}{1}{}{138}{al +400}
+{141}{definir como 600}{}{1}{}{138}{al +600}
+{142}{definir como 800}{}{1}{}{138}{al +800}
+{143}{E:}{}{1}{}{}{}
+{144}{Maldade}{Maldade}{}{}{}{}
+{145}{definir como 200}{}{1}{}{144}{al -200}
+{146}{definir como 400}{}{1}{}{144}{al -400}
+{147}{definir como 600}{}{1}{}{144}{al -600}
+{148}{definir como 800}{}{1}{}{144}{al -800}
+{149}{E:}{}{1}{}{}{}
+{150}{Aptidão Mágica}{Aptidão Mágica}{}{}{}{}
+{151}{definir como 200}{}{1}{}{150}{ma + 200}
+{152}{definir como 400}{}{1}{}{150}{ma + 400}
+{153}{definir como 600}{}{1}{}{150}{ma + 600}
+{154}{definir como 800}{}{1}{}{150}{ma + 800}
+{155}{E:}{}{1}{}{}{}
+{156}{Aptidão Técnica}{Aptidão Técnica}{}{}{}{}
+{157}{definir como 200}{}{1}{}{156}{ta + 200}
+{158}{definir como 400}{}{1}{}{156}{ta + 400}
+{159}{definir como 600}{}{1}{}{156}{ta + 600}
+{160}{definir como 800}{}{1}{}{156}{ta + 800}
+{161}{E:}{}{1}{}{}{}
+{162}{Aptidão Técnica}{Aptidão Técnica}{}{}{}{}
+{163}{Submundo dos Ladrões}{}{1}{}{162}{rp 1001}
+{164}{definir como 400}{}{1}{}{162}{}
+{165}{definir para 600}{}{1}{}{162}{}
+{166}{definir para 800}{}{1}{}{162}{}
+{167}{E:}{}{1}{}{}{}
+{168}{Qual Faculdade para maestria}{}{}{}{}{}
+{169}{Faculdade 0 (Transporte)}{}{1}{}{-2}{}
+{170}{Faculdade 1 (Adivinhação)}{}{1}{}{-4}{}
+{171}{Faculdade 2 (Ar)}{}{1}{}{-6}{}
+{172}{Faculdade 3 (Terra)}{}{1}{}{-8}{}
+{173}{Mais Maestria ou Sair}{}{1}{}{174}{}
+{174}{Qual Faculdade para maestria}{}{}{}{}{}
+{175}{Faculdade 4 (Fogo)}{}{1}{}{-10}{}
+{176}{Faculdade 5 (Água)}{}{1}{}{-12}{}
+{177}{Faculdade 6 (Força)}{}{1}{}{-14}{}
+{178}{Faculdade 7 (Mental)}{}{1}{}{-16}{}
+{179}{Mais Maestria ou Sair}{}{1}{}{180}{}
+{180}{Qual Faculdade para maestria}{}{}{}{}{}
+{181}{Faculdade 8 (Meta)}{}{1}{}{-18}{}
+{182}{Faculdade 9 (Morfose)}{}{1}{}{-20}{}
+{183}{Faculdade 10 (Natureza)}{}{1}{}{-22}{}
+{184}{Faculdade 11 (Necromancia Maligna)}{}{1}{}{-24}{}
+{185}{Mais Maestria ou Sair}{}{1}{}{186}{}
+{186}{Qual Faculdade para maestria}{}{}{}{}{}
+{187}{Faculdade 12 (Necromancia Benigna)}{}{1}{}{-26}{}
+{188}{Faculdade 13 (Fantasma)}{}{1}{}{-28}{}
+{189}{Faculdade 14 (Invocação)}{}{1}{}{-30}{}
+{190}{Faculdade 15 (Temporal)}{}{1}{}{-32}{}
+{191}{Sair}{}{1}{}{0}{}
+{192}{Qual sinalizador definir.}{}{}{}{}{}
+{193}{Matar Caleb Malloy}{}{1}{}{192}{gf2187 1}
+{194}{Ressuscitar Caleb Malloy}{}{1}{}{192}{gf2187 0}
+{195}{Definir Missão como Mencionada}{}{1}{}{192}{qu 1089 1}
+{196}{Definir Missão como Aceita}{}{1}{}{192}{qu 1089 2}
+{197}{E:}{}{1}{}{}{}
+

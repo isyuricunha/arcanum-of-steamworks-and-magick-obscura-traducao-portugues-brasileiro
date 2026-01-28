@@ -1,0 +1,121 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{E quem poderia ser você?}{}{5}{ra -6, me 0, re 41}{26}{}
+{3}{E quem poderia ser você?}{}{5}{ra 6, me 0, re 41}{30}{}
+{4}{Isso foi bastante grosseiro, senhor. Talvez possamos agir de forma mais civilizada?}{}{5}{re -40}{12}{re +5}
+{5}{Não gostei do seu tom, senhor.}{}{5}{re -40}{19}{re -5}
+{6}{Olá, Jongle Dunne. Tem um momento?}{}{5}{me 1, re 41}{46}{}
+{8}{Oi! Eu burro. Quem você?}{}{-4}{me 0, ra 6}{30}{}
+{9}{Oi! Eu burro. Quem você?}{}{-4}{me 0, ra -6}{26}{}
+{10}{Oi, Jingle Dumb! Perguntas!}{}{-4}{me 1}{46}{}
+{11}{E:}{}{1}{}{0}{}
+{12}{[O halfling à sua frente olha para você com frieza. Então, um leve sorriso...] Vejo que é um homem de razão. Talvez eu tenha falado rápido demais...}{[O halfling à sua frente olha para você com frieza. Então, um leve sorriso...] Vejo que é uma mulher de razão. Talvez eu tenha falado rápido demais...}{}{}{}{}
+{13}{Fico feliz que pense assim... e quem seria você?}{}{5}{ra 6, me 0}{30}{}
+{14}{Fico feliz que pense assim... e quem seria você?}{}{5}{ra -6, me 0}{26}{}
+{15}{Olá, Jongle Dunne. Tem um momento?}{}{5}{me 1}{46}{}
+{16}{E:}{}{5}{}{0}{}
+{19}{Isso é realmente muito ruim. Recomendo que saia daqui imediatamente...}{Isso é realmente muito ruim. Recomendo que saia daqui imediatamente...}{}{}{}{}
+{20}{Vou sair. Logo depois de rachar seu crânio.}{}{5}{}{}{co, fl 24}
+{21}{Por favor. Estou MUITO arrependido. Não podemos chegar a um acordo melhor?}{}{5}{}{12}{re +10}
+{22}{E:}{}{5}{}{0}{}
+{24}{O quê? Não serei ameaçado em minha própria casa! Defenda-se!}{O quê? Não serei ameaçado em minha própria casa! Defenda-se!}{}{}{}{}
+{26}{Sou Jongle Dunne, mago e alquimista erudito. Se tiver um problema em Shrouded Hills de natureza mágica, sou a pessoa certa para procurar. Você me pegou em um mau momento, amigo. Talvez possamos conversar mais tarde...}{Sou Jongle Dunne, mago e alquimista erudito. Se tiver um problema em Shrouded Hills de natureza mágica, sou a pessoa certa para procurar. Você me pegou em um mau momento, amigo. Talvez possamos conversar mais tarde...}{}{}{}{}
+{27}{É um prazer conhecê-lo. Posso ser útil?}{}{5}{}{36}{}
+{28}{Hã... Oi! Você precisa de ajuda, Jingle?}{}{-4}{}{36}{}
+{30}{Sou Jongle Dunne, mago e alquimista erudito. Se tiver um problema em Shrouded Hills de natureza mágica, sou a pessoa certa para procurar. É sempre um prazer ver um halfling por estas bandas, mas receio que você me pegou em um mau momento, irmão. Talvez possamos conversar mais tarde...}{Sou Jongle Dunne, mago e alquimista erudito. Se tiver um problema em Shrouded Hills de natureza mágica, sou a pessoa certa para procurar. É sempre um prazer ver um halfling por estas bandas, mas receio que você me pegou em um mau momento, irmã. Talvez possamos conversar mais tarde...}{}{}{}{}
+{31}{É um prazer conhecê-lo. Posso ser útil?}{}{5}{}{36}{}
+{32}{Hã... Oi! Você precisa de ajuda, Jingle?}{}{-4}{}{36}{}
+{36}{Bem... talvez. Tenho um problema aqui em Shrouded Hills de natureza bastante delicada. Estritamente confidencial, se é que me entende...}{Bem... talvez. Tenho um problema aqui em Shrouded Hills de natureza bastante delicada. Estritamente confidencial, se é que me entende...}{}{}{}{}
+{37}{Claro... posso fazer algumas perguntas sobre isso?}{}{5}{}{46}{}
+{38}{Provavelmente nada com que eu queira me envolver. Tenha um bom dia.}{}{5}{}{0}{re -5}
+{39}{Eu ajudo você!}{}{-4}{}{152}{}
+{40}{E:}{}{-4}{}{0}{}
+{46}{Certamente...}{Certamente...}{}{}{}{}
+{47}{T: 10, 11}{}{5}{}{64}{}
+{48}{Qual é a natureza do seu problema, Sr. Dunne?}{}{5}{qu1034 0}{75}{}
+{49}{Você disse que é um alquimista... o que isso significa?}{}{5}{lf3 0}{70}{}
+{50}{Gostaria de conversar com você sobre o motor do Delegado...}{}{5}{qu1034 1, lf3 0}{104}{}
+{51}{Ainda estou trabalhando no problema do seu motor...}{}{5}{qu1034 2, gf1017 0, lf3 0}{115}{}
+{52}{Resolvi o problema do seu motor a vapor...}{}{5}{qu1034 2, gf1017 1, lf3 0}{121}{}
+{53}{Você disse que poderia precisar de outro favor?}{}{5}{lf5 1, qu1058 0, lf3 0}{125}{}
+{54}{Gostaria de conversar com você sobre recuperar aquele pacote...}{}{5}{qu1058 1, lf3 0}{146}{}
+{55}{Ainda não recuperei aquele pacote...}{}{5}{qu1058 2, ni 5623, lf3 0}{115}{}
+{56}{Trouxe de volta o seu pacote}{}{5}{qu1058 2, in 5623, lf3 0}{139}{in 5623}
+{58}{T: 10, 11}{}{-4}{}{64}{}
+{59}{Hã... preciso de trabalho, Jingle!}{}{-4}{qu1034 0, lf3 0}{152}{}
+{60}{Ainda posso destruir o motor, Jingle?}{}{-4}{qu1034 1, lf3 0}{152}{}
+{61}{Oi, Jingle! Ainda estou tentando destruir o motor!}{}{-4}{qu1034 2, gf1017 0, lf3 0}{115}{}
+{62}{Destruí o motor, Jingle Burro!}{}{-4}{qu1034 2, gf1017 1, lf3 0}{158}{}
+{63}{E:}{}{1}{}{0}{}
+{64}{Como mais posso ajudá-lo?}{Como mais posso ajudá-lo?}{}{}{}{}
+{65}{K:}{}{1}{}{46}{}
+{66}{E:}{}{1}{}{0}{}
+{70}{Um alquimista é um indivíduo que estuda as propriedades dos objetos e testa como eles reagem uns com os outros. Não é exatamente magia, nem exatamente ciência, mas tem características de ambas. Um pouco de faz-tudo, mestre de nada. Está acompanhando?}{Um alquimista é um indivíduo que estuda as propriedades dos objetos e testa como eles reagem uns com os outros. Não é exatamente magia, nem exatamente ciência, mas tem características de ambas. Um pouco de faz-tudo, mestre de nada. Está acompanhando?}{}{}{}{}
+{71}{Claro. Posso fazer mais algumas perguntas?}{}{5}{}{46}{}
+{72}{E:}{}{5}{}{0}{}
+{75}{Bem... [Ele se inclina na sua direção, olhando ao redor secretamente]... há uma conspiração aqui em Colinas Sombrias, um plano sombrio cheio de mistério e intriga...}{Bem... [Ele se inclina na sua direção, olhando ao redor secretamente]... há uma conspiração aqui em Colinas Sombrias, um plano sombrio cheio de mistério e intriga...}{}{}{}{}
+{76}{Interessante. E exatamente o que parece estar acontecendo...?}{}{5}{}{80}{}
+{77}{E:}{}{5}{}{0}{}
+{80}{Esta cidade toda quer se livrar de mim. Eles foram lavados cerebralmente por aquele Delegado Owens, e agora é só uma questão de tempo até que eu seja forçado a ir embora...}{Esta cidade toda quer se livrar de mim. Eles foram lavados cerebralmente por aquele Delegado Owens, e agora é só uma questão de tempo até que eu seja forçado a ir embora...}{}{}{}{}
+{81}{Entendo. O que o Delegado Owens fez a você?}{}{5}{}{85}{}
+{82}{E:}{}{5}{}{0}{}
+{85}{O que ele fez comigo? O homem colocou em risco o equilíbrio natural que me permite colocar pão na mesa! Você tem ideia do que a presença daquela maldita máquina a vapor faz com minhas habilidades mágicas?}{O que ele fez comigo? O homem colocou em risco o equilíbrio natural que me permite colocar pão na mesa! Você tem ideia do que a presença daquela maldita máquina a vapor faz com minhas habilidades mágicas?}{}{}{}{}
+{86}{Não... do que você está falando?}{}{5}{}{92}{}
+{87}{Entendo. Você está falando sobre a natureza da magia e da tecnologia...}{}{5}{}{96}{}
+{88}{E:}{}{5}{}{0}{}
+{92}{Aquela maldita geringonça tecnológica! Ela perturba os fluxos com os quais realizo meus milagres de magia e alquimia! Magia e tecnologia são muito diferentes... a magia age contra as leis da natureza, enquanto a tecnologia depende muito delas. Então! Aquela máquina dificulta lançar feitiços e fazer meus experimentos... os negócios estão ruins...}{Aquela maldita geringonça tecnológica! Ela perturba os fluxos com os quais realizo meus milagres de magia e alquimia! Magia e tecnologia são muito diferentes... a magia age contra as leis da natureza, enquanto a tecnologia depende muito delas. Então! Aquela máquina dificulta lançar feitiços e fazer meus experimentos... os negócios estão ruins...}{}{}{}{}
+{93}{Que pena, especialmente em uma cidade grande como Colinas Sombrias...}{}{5}{}{100}{re +5}
+{94}{E:}{}{5}{}{0}{}
+{96}{Claro que sou. E aquele Delegado Owens está enfraquecendo meus poderes. Houve um tempo em que eu era o homem mais poderoso de toda Colinas Sombrias...}{Claro que sou. E aquele Delegado Owens está enfraquecendo meus poderes. Houve um tempo em que eu era o homem mais poderoso de toda Colinas Sombrias...}{}{}{}{}
+{97}{Meu Deus! Um lugar grande como este!}{}{5}{}{100}{re +5}
+{98}{E:}{}{5}{}{0}{}
+{100}{[O sarcasmo passa despercebido por ele.] Sim! Se ao menos houvesse alguém para fazer algo a respeito...[ele lança um olhar furtivo em sua direção.]}{[O sarcasmo passa despercebido por ele.] Sim! Se ao menos houvesse alguém para fazer algo a respeito...[ele lança um olhar furtivo em sua direção.]}{}{}{}{}
+{101}{O que exatamente você está propondo?}{}{5}{}{104}{}
+{102}{E:}{}{5}{}{0}{}
+{104}{[Sua voz baixa.] Se você conseguisse encontrar uma maneira de desativar aquela máquina infernal, eu poderia abrir mão de algumas poções de cura. O que me diz?}{[Sua voz baixa.] Se você conseguisse encontrar uma maneira de desativar aquela máquina infernal, eu poderia abrir mão de algumas poções de cura. O que me diz?}{}{}{}{qu1034 1}
+{105}{Trato feito.}{}{5}{gf1017 0}{108}{qu1034 2}
+{106}{Já fiz isso...}{}{5}{gf1017 1}{121}{re +5, qu1034 2}
+{107}{Desculpe, Sr. Dunne. Vou ficar do lado certo da lei...}{}{5}{}{111}{re -5}
+{108}{Ótimo! Vou ficar no aguardo de notícias suas...}{Ótimo! Vou ficar no aguardo de notícias suas...}{}{}{}{}
+{109}{Tenha um bom dia, então.}{}{5}{}{0}{}
+{111}{Entendo. Bem, a escolha é sua. Talvez em outra ocasião...}{Entendo. Bem, a escolha é sua. Talvez em outra ocasião...}{}{}{}{}
+{112}{Talvez. Tenha um bom dia...}{}{5}{}{0}{}
+{115}{Então volte aqui quando tiver feito isso...}{Então volte aqui quando tiver feito isso...}{}{}{}{}
+{116}{K:}{}{1}{}{46}{}
+{117}{E:}{}{1}{}{0}{}
+{121}{Sério? Isso é maravilhoso! Aqui está o seu pagamento...[ele lhe entrega algumas poções.] Você é um jovem bastante engenhoso... talvez gostaria de fazer algo mais para mim?}{Sério? Isso é maravilhoso! Aqui está o seu pagamento...[ele lhe entrega algumas poções.] Você é uma jovem bastante engenhosa... talvez gostaria de fazer algo mais para mim?}{}{}{}{in -3601, in -3601, qu1034 4, lf5 1}
+{122}{Claro... estou às suas ordens...}{}{5}{}{125}{}
+{123}{Talvez possamos falar sobre isso em outra ocasião. Tenha um bom dia.}{}{5}{}{0}{}
+{125}{Bem, como eu lhe disse, sou um alquimista. Estudei longa e arduamente os atributos químicos do chumbo e do ouro... parece que finalmente descobri o segredo de transformar o primeiro no segundo. Tudo o que preciso agora é do ingrediente final e secreto...}{Bem, como eu lhe disse, sou um alquimista. Estudei longa e arduamente os atributos químicos do chumbo e do ouro... parece que finalmente descobri o segredo de transformar o primeiro no segundo. Tudo o que preciso agora é do ingrediente final e secreto...}{}{}{}{}
+{126}{E qual é esse ingrediente?}{}{5}{}{128}{}
+{128}{Ah... sinto muito, mas receio que isso seja assunto meu. Infelizmente, não tenho acesso a ele aqui em Colinas Sombrias, e o único homem que o vende está em Dernholm, a leste. Aqui, vou marcar no seu mapa. [Ele o faz.] O nome do homem é Charles Dolan, e ele é dono de uma loja em Dernholm.}{Ah... sinto muito, mas receio que isso seja assunto meu. Infelizmente, não tenho acesso a ele aqui em Colinas Sombrias, e o único homem que o vende está em Dernholm, a leste. Aqui, vou marcar no seu mapa. [Ele o faz.] O nome do homem é Charles Dolan, e ele é dono de uma loja em Dernholm.}{}{}{}{mm 5}
+{129}{O que eu preciso fazer?}{}{5}{}{132}{}
+{132}{Você só precisa falar com o Sr. Dolan e dizer que veio buscar um pacote para Jongle Dunne. Vou telegrafar para ele e avisar que você está indo. Pelos seus serviços, pagarei 70 moedas de ouro. O que me diz?}{Você só precisa falar com o Sr. Dolan e dizer que veio buscar um pacote para Jongle Dunne. Vou telegrafar para ele e avisar que você está indo. Pelos seus serviços, pagarei 70 moedas de ouro. O que me diz?}{}{}{}{qu1058 1}
+{133}{Parece bom. Vou fazer isso.}{}{5}{}{136}{qu1058 2}
+{134}{Talvez. Voltarei mais tarde.}{}{5}{}{0}{}
+{136}{Esplêndido! Vou telegrafar ao Sr. Dolan e avisá-lo para esperar por você... e nos veremos quando retornar.}{Esplêndido! Vou telegrafar ao Sr. Dolan e avisá-lo para esperar por você... e nos veremos quando retornar.}{}{}{}{}
+{137}{E:}{}{5}{}{0}{}
+{139}{Muito obrigado! Sou muito grato! Um dia, você poderá olhar para trás e dizer que ajudou o homem que mudou o curso da história humana...! Aqui está seu dinheiro...}{Muito obrigado! Sou muito grato! Um dia, você poderá olhar para trás e dizer que ajudou o homem que mudou o curso da história humana...!}{}{}{}{$$70, qu1058 4, lf3 1}
+{140}{Fascinante. Talvez você pudesse compartilhar o segredo comigo?}{}{5}{}{143}{}
+{141}{E:}{}{5}{}{0}{}
+{143}{Desculpe, meu bom homem, mas este segredo fica comigo. Agradeço, no entanto, e lhe desejo boa sorte em suas viagens...}{Desculpe, minha senhora, mas este segredo fica comigo. Agradeço, no entanto, e lhe desejo boa sorte em suas viagens...}{}{}{}{}
+{144}{E:}{}{5}{}{0}{}
+{146}{Então, você decidiu pegar o pacote com o Sr. Charles Dolan em Dernholm e trazê-lo de volta para mim? A oferta era de 70 peças de ouro. Parece justo?}{Então, você decidiu pegar o pacote com o Sr. Charles Dolan em Dernholm e trazê-lo de volta para mim? A oferta era de 70 peças de ouro. Parece justo?}{}{}{}{}
+{147}{Sim. Eu farei isso...}{}{5}{}{136}{}
+{148}{Acho que não. Talvez em outra ocasião...}{}{5}{}{0}{}
+{150}{Foi um prazer fazer negócios com você.}{Foi um prazer fazer negócios com você.}{}{}{}{}
+{152}{Ah... claro. (Esse homem é um completo idiota!) Escute aqui, meu amigo. O delegado da cidade tem uma máquina a vapor. Máquina a vapor ruim! E preciso que alguém... er... a destrua! Certo? Vou lhe dar uma poção de cura inteira se fizer isso!}{Ah... claro. (Essa mulher é uma completa idiota!) Escute aqui, meu amigo. O delegado da cidade tem uma máquina a vapor. Máquina a vapor ruim! E preciso que alguém... er... a destrua! Certo? Vou lhe dar uma poção de cura inteira se fizer isso!}{}{}{}{qu1034 1}
+{153}{Claro! Eu destruo!}{}{-4}{}{156}{qu1034 2}
+{154}{Eu já destruí a máquina!}{}{-4}{gf1017 1}{158}{qu1034 2}
+{155}{Ah... não. Vou embora agora.}{}{-4}{}{0}{}
+{156}{Esplêndido! Volte quando tiver feito!}{Esplêndido! Volte quando tiver feito!}{}{}{}{}
+{158}{Muito bem, meu amigo de pouca inteligência! Aqui está sua poção. Muito obrigado pela ajuda...}{Muito bem, meu amigo de pouca inteligência! Aqui está sua poção. Muito obrigado pela ajuda...}{}{}{}{in -3601, qu1034 4, lf3 1}
+{159}{Tchau, Jingle!}{}{-4}{}{0}{}
+{161}{Você! Você tem a audácia de voltar aqui depois do que contou àquele delegado covarde! É melhor sair daqui antes que eu seja forçado a usar meus consideráveis poderes!}{Você! Você tem a audácia de voltar aqui depois do que contou àquele delegado covarde! É melhor sair daqui antes que eu seja forçado a usar meus consideráveis poderes!}{}{}{}{qu1034 6}
+{162}{Sinto muito, Jongle. Não tive escolha a não ser agir com nobreza neste assunto...}{}{5}{}{}{lf4 1, fl 166}
+{163}{Eu realmente não me importo com o que você pensa, Jongle...}{}{5}{}{}{lf4 1, fl 166}
+{164}{Se falar comigo desse jeito de novo, você é um homem morto...}{}{5}{}{}{co, fl 24}
+{166}{Não quero ouvir mais nada de você, traidor! Saia da minha casa!}{Não quero ouvir mais nada de você, traidor! Saia da minha casa!}{}{}{}{}
+{170}{[Seus olhos se estreitam. Ele está obviamente muito irritado com você.] Entendo que você foi ajudar o delegado a consertar sua máquina a vapor. Receio que você e eu não temos mais nada a conversar, amigo. Tenha um bom dia.}{[Seus olhos se estreitam. Ele está obviamente muito irritado com você.] Entendo que você foi ajudar o delegado a consertar sua máquina a vapor. Receio que você e eu não temos mais nada a conversar, amigo. Tenha um bom dia.}{}{}{}{lf6 1, qu1058 6, qu1034 6 }
+{171}{E:}{}{1}{}{0}{}
+{175}{Prefiro que você me deixe em paz.}{Prefiro que você me deixe em paz.}{}{}{}{}
+

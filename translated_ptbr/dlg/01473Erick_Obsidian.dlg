@@ -1,0 +1,110 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Saudações, senhor. E quem seria você?}{}{5}{me 0, re 41}{27}{}
+{3}{Olá, Erick. Tem um momento?}{}{5}{me 1, re 41}{104}{}
+{4}{Com licença, senhor! O que eu fiz para merecer tal tratamento?}{}{5}{me 0, re -40}{11}{}
+{5}{Erick! Por que me insulta assim?}{}{5}{me 1, re -40}{11}{}
+{7}{Oi! Quem é você?}{}{-4}{me 0}{27}{}
+{8}{Ei, Erick! Você fala comigo...?}{}{-4}{me 1}{104}{}
+{9}{E:}{}{1}{}{0}{}
+{11}{[O anão à sua frente não demonstra emoção, mas suas palavras parecem sombrias, ameaçadoras. Seus olhos são quase negros.] Sugiro que vá embora, amigo. Não tenho desejo de falar com gente como você.}{[O anão à sua frente não demonstra emoção, mas suas palavras parecem sombrias, ameaçadoras. Seus olhos são quase negros.] Sugiro que vá embora, amigo. Não tenho desejo de falar com gente como você.}{}{}{}{}
+{12}{Estava enganado? Sempre achei que os anões fossem pacientes e sábios...}{}{5}{me 0}{23}{re +10}
+{13}{Erick... o que precisamos fazer para acertar as coisas entre nós?}{}{5}{me 1}{23}{re +10}
+{14}{Falar não será seu problema. Anões mortos não conversam...}{}{5}{}{16}{re -5}
+{15}{E:}{}{5}{}{0}{}
+{16}{[Seu rosto está sereno.] Não sou um guerreiro belicoso, mas se deseja testar sua têmpera contra mim, ficarei mais do que feliz em atendê-lo...}{[Seu rosto está sereno.] Não sou um guerreiro belicoso, mas se deseja testar sua têmpera contra mim, ficarei mais do que feliz em atendê-lo...}{}{}{}{}
+{17}{Vamos parar de falar dessas coisas. Por favor, aceite minhas desculpas...}{}{5}{}{23}{re +10}
+{18}{Você se arrependerá deste dia, anão. Prepare-se para a morte...}{}{5}{ra -2}{}{co, fl 21}
+{19}{Tenho vergonha de sermos da mesma raça. Prepare-se para morrer...}{}{5}{ra 2}{}{co, fl 21}
+{20}{E:}{}{5}{}{0}{}
+{21}{É uma pena que tenha chegado a isso. A morte chega para todos nós...}{É uma pena que tenha chegado a isso. A morte chega para todos nós...}{}{}{}{}
+{23}{[Novamente, sem emoção. Mas seus olhos escuros parecem brilhar.] Não... aceite as minhas. Você é nosso convidado aqui. Por favor, vamos conversar...}{[Novamente, sem emoção. Mas seus olhos escuros parecem brilhar.] Não... aceite as minhas. Você é nosso convidado aqui. Por favor, vamos conversar...}{}{}{}{}
+{24}{Eu gostaria disso. Posso perguntar quem é você?}{}{5}{me 0}{27}{re +5}
+{25}{Parece ótimo, Erick. Posso lhe pedir um favor...?}{}{5}{me 1}{104}{}
+{26}{E:}{}{5}{}{0}{}
+{27}{Meu nome é Erick Obsidiana... é um prazer conhecê-lo...}{Meu nome é Erick Obsidiana... é um prazer conhecê-lo...}{}{}{}{}
+{28}{Muito prazer, Erick. Tenho algumas perguntas, se não se importar...}{}{5}{}{104}{}
+{30}{Oi, Erick! Posso lhe fazer algumas perguntas?}{}{-4}{}{104}{}
+{31}{E:}{}{1}{}{0}{}
+{33}{Eu? Sou um historiador... estudo nosso passado anão, reflito sobre os caminhos que tomamos, coleciono objetos de relevância e valor histórico. [Quase dá para vê-lo sorrir.] Quando posso, tento contar nossa história e contá-la com verdade... só posso esperar ser um espelho da alma anã...}{Eu? Sou um historiador... estudo nosso passado anão, reflito sobre os caminhos que tomamos, coleciono objetos de relevância e valor histórico. [Quase dá para vê-lo sorrir.] Quando posso, tento contar nossa história e contá-la com verdade... só posso esperar ser um espelho da alma anã...}{}{}{}{}
+{34}{No que está trabalhando agora, Erick?}{}{5}{}{40}{}
+{37}{Hã... tá bom. No que você está trabalhando agora?}{}{-4}{}{40}{}
+{39}{E:}{}{1}{}{0}{}
+{40}{Atualmente, estou estudando lendas e mitologia anãs. E recentemente, encontrei algo muito interessante... muito interessante mesmo... [Parece perdido em pensamentos.]}{Bem... eu tenho muitos fornecedores. Costumamos negociar em Stillwater quando surge a necessidade. Mas, ultimamente, estou sem mithril. Se você sabe algo sobre esse metal, sabe que ele é raro. Estou tendo dificuldade em encontrar uma nova fonte, e muitos dos meus objetos estão incompletos sem ele...}{}{}{}{}
+{41}{O que foi, Erick? O que foi que você encontrou?}{}{5}{}{46}{}
+{43}{O quê, Erick? O que você achou?}{}{-4}{}{46}{}
+{44}{E:}{}{1}{}{0}{}
+{46}{[Ele balança a cabeça.] Desculpe por isso... as possibilidades são tão empolgantes... talvez eu devesse ser mais franco. A mitologia anã fala de uma antiga raça de anões, cuja civilização era repleta de maravilhas como o mundo nunca conheceu antes ou depois. Eles eram conhecidos como o Clã de Ferro...}{[Ele balança a cabeça.] Desculpe por isso... as possibilidades são tão empolgantes... talvez eu devesse ser mais franco. A mitologia anã fala de uma antiga raça de anões, cuja civilização era repleta de maravilhas como o mundo nunca conheceu antes ou depois. Eles eram conhecidos como o Clã de Ferro...}{}{}{}{lf1 1}
+{47}{O Clã de Ferro? Eles eram reais? O que aconteceu com eles?}{}{5}{}{54}{}
+{49}{Hã... onde Clã de Ferro?}{}{-4}{}{54}{}
+{50}{E:}{}{1}{}{0}{}
+{54}{Bem, ninguém sabe realmente se eles eram reais, ou o que aconteceu com eles se fossem, porque não encontramos nenhuma prova de sua existência. MAS! Um dos nossos mineiros desenterrou uma antiga maça anã algumas semanas atrás... o cabo daquele machado era oco, e dentro dele estava isto... [Ele lhe mostra o que parece ser um antigo esquema.]}{Bem, ninguém sabe realmente se eles eram reais, ou o que aconteceu com eles se fossem, porque não encontramos nenhuma prova de sua existência. MAS! Um dos nossos mineiros desenterrou uma antiga maça anã algumas semanas atrás... o cabo daquele machado era oco, e dentro dele estava isto... [Ele lhe mostra o que parece ser um antigo esquema.]}{}{}{}{}
+{55}{O que é isso, Erick?}{}{5}{}{94}{}
+{57}{Hã... o que é isso?}{}{-4}{}{94}{}
+{58}{E:}{}{1}{}{0}{}
+{60}{Parece ser o esquema de uma chave. Há algum texto aqui que parece sugerir que esta é a primeira de muitas chaves, chaves que abrem o 'Lugar de Ferro onde jaz a Pedra'... você sabe o que isso pode significar?}{Parece ser o esquema de uma chave. Há algum texto aqui que parece sugerir que esta é a primeira de muitas chaves, chaves que abrem o 'Lugar de Ferro onde jaz a Pedra'... você sabe o que isso pode significar?}{}{}{}{}
+{61}{Não... o quê? O que isso significa?}{}{5}{}{64}{}
+{62}{Hã... do que você tá falando?}{}{-4}{}{64}{}
+{64}{A 'Pedra' à qual se refere pode ser a famosa Pedra de Durin, na qual a filosofia anã da Forma e da Pedra está supostamente gravada! A recuperação de tal objeto seria inestimável para a raça anã - uma descoberta sem igual que reflete nossa cultura e história...}{A 'Pedra' à qual se refere pode ser a famosa Pedra de Durin, na qual a filosofia anã da Forma e da Pedra está supostamente gravada! A recuperação de tal objeto seria inestimável para a raça anã - uma descoberta sem igual que reflete nossa cultura e história...}{}{}{}{lf3 1}
+{65}{O que você quer dizer com 'a Forma e a Pedra'?}{}{5}{ra 2}{72}{}
+{66}{O que você quer dizer com 'a Forma e a Pedra'?}{}{5}{ra -2}{78}{}
+{67}{Por que você não foi procurá-los?}{}{5}{}{84}{}
+{69}{Hã... por que você não procura o Clã de Ferro?}{}{-4}{}{84}{}
+{70}{E:}{}{1}{}{0}{}
+{72}{Você não sabe, sendo um anão? [Ele olha para você estranhamente.] Não sou eu quem deve lhe contar essas coisas. A Forma e a Pedra são a vida para um anão... talvez você aprenda sobre elas um dia.}{Você não sabe, sendo um anão? [Ele olha para você estranhamente.] Não sou eu quem deve lhe contar essas coisas. A Forma e a Pedra são a vida para um anão... talvez você aprenda sobre elas um dia.}{}{}{}{}
+{73}{Entendo. E por que você não foi procurar o Clã de Ferro?}{}{5}{}{84}{}
+{74}{K:}{}{5}{lf3 1}{104}{}
+{75}{E:}{}{5}{}{0}{}
+{78}{Sinto muito, meu amigo, mas a Forma e a Pedra são para a alma anã. Não cabe a mim lhe contar tais coisas...}{Sinto muito, meu amigo, mas a Forma e a Pedra são para a alma anã. Não cabe a mim lhe contar tais coisas...}{}{}{}{}
+{79}{Entendo. E por que você não foi procurar o Clã de Ferro?}{}{5}{}{84}{}
+{80}{K:}{}{5}{lf3 1}{104}{}
+{81}{E:}{}{5}{}{0}{}
+{84}{[Por um momento, Erick parece quase triste.] Não tenho tempo, amigo. Há tanto aqui que é real e conhecido, que não posso sair correndo atrás de fantasmas por todo o Arcanum. Talvez um dia eu encontre tempo para fazer esta chave e ver aonde ela me leva...}{[Por um momento, Erick parece quase triste.] Não tenho tempo, amigo. Há tanto aqui que é real e conhecido, que não posso sair correndo atrás de fantasmas por todo o Arcanum. Talvez um dia eu encontre tempo para fazer esta chave e ver aonde ela me leva...}{}{}{}{lf4 1}
+{85}{O que você quis dizer com 'a Forma e a Pedra'?}{}{5}{ra 2}{72}{}
+{86}{O que você quis dizer com 'a Forma e a Pedra'?}{}{5}{ra -2}{78}{}
+{87}{Talvez eu possa tentar encontrá-los para você...}{}{5}{}{94}{}
+{90}{Quiçá eu encontre o Clã do Ferro!}{}{-4}{}{94}{}
+{92}{E:}{}{1}{}{0}{}
+{94}{Sim... suponho que não faça mal. Tenho uma cópia do esquema, então, se você não conseguir encontrar o 'Lugar do Ferro', eu mesmo sempre posso ir procurá-lo. E se você o encontrar, e a Pedra de Durin estiver lá, traga-a para mim... ela não teria valor para ninguém além de um anão, e seria muito preciosa para mim. Eu não teria nada a oferecer além dos meus agradecimentos... receio que um historiador tenha poucos bens mundanos...}{Sim... suponho que não faça mal. Tenho uma cópia do esquema, então, se você não conseguir encontrar o 'Lugar do Ferro', eu mesmo sempre posso ir procurá-lo. E se você o encontrar, e a Pedra de Durin estiver lá, traga-a para mim... ela não teria valor para ninguém além de um anão, e seria muito preciosa para mim. Eu não teria nada a oferecer além dos meus agradecimentos... receio que um historiador tenha poucos bens mundanos...}{}{}{}{qu1093 1}
+{95}{Seria uma honra embarcar nesta jornada, com ou sem pagamento...}{}{5}{}{100}{qu1093 2}
+{96}{Vou pensar no assunto. Tenha um bom dia...}{}{5}{}{0}{}
+{97}{Claro! Faço isso de graça!}{}{-4}{}{100}{qu1093 2}
+{98}{Hã... a gente conversa depois...}{}{-4}{}{0}{}
+{100}{Excelente. [Ele sorri, levemente.] Aqui está o esquema... desejo-lhe a melhor das sortes.}{Excelente. [Ele sorri, levemente.] Aqui está o esquema... desejo-lhe a melhor das sortes.}{}{}{}{in -5225}
+{101}{E:}{}{1}{}{0}{}
+{104}{Como posso ajudá-lo...?}{Como posso ajudá-lo...?}{}{}{}{}
+{105}{O que você faz aqui no Clã da Roda, Erick...?}{}{5}{qu1093 0, ni 5649}{33}{}
+{106}{Conte-me sobre o Clã do Ferro...}{}{5}{ni 5649, lf1 1, qb1032 1}{132}{}
+{107}{O que é a Pedra de Durin?}{}{5}{ni 5649, lf3 1}{144}{}
+{108}{Talvez eu possa procurar provas da existência do Clã do Ferro?}{}{5}{qu1093 1, ni 5649}{94}{}
+{109}{Ainda estou procurando o Clã do Ferro e a Pedra de Durin...}{}{5}{qu1093 2, ni 5649}{120}{}
+{110}{Encontrei o Clã do Ferro... aqui está a Pedra de Durin...}{}{5}{qu1093 2, in 5649}{125}{in 5649}
+{112}{O que você faz aqui, Erick...?}{}{-4}{qu1093 0, ni 5649}{33}{}
+{113}{Fale-me sobre o Clã do Ferro...}{}{-4}{ni 5649, lf1 1}{132}{}
+{114}{Hã... O q-q-que é a P-p-pedra de D-d-durin?}{}{-4}{ni 5649, lf3 1}{144}{}
+{115}{Quiçá eu procure o Clã do Ferro!}{}{-4}{qu1093 1, ni 5649}{94}{}
+{116}{Hã... Ainda não encontrei o Clã do Ferro e a P-p-pedra de D-d-durin...}{}{-4}{qu1093 2, ni 5649}{120}{}
+{117}{Encontrei o Clã do Ferro... aqui está a P-p-pedra de D-d-durin...}{}{-4}{qu1093 2, in 5649}{125}{in 5649}
+{118}{E:}{}{1}{}{0}{}
+{120}{Volte o mais rápido possível se algum dia conseguir... eu ficaria muito interessado em ouvir o que você teria a dizer...}{Volte o mais rápido possível se algum dia conseguir... eu ficaria muito interessado em ouvir o que você teria a dizer...}{}{}{}{}
+{121}{K:}{}{1}{}{104}{}
+{122}{E:}{}{1}{}{0}{}
+{125}{Você conseguiu! Meu deus! Eu nunca sonhei, quero dizer, eles eram reais... a Pedra... é linda. [Ele fica em silêncio por um longo tempo, virando a pedra nas mãos.] E quanto ao Clã do Ferro? O que você viu?}{Você conseguiu! Meu deus! Eu nunca sonhei, quero dizer, eles eram reais... a Pedra... é linda. [Ele fica em silêncio por um longo tempo, virando a pedra nas mãos.] E quanto ao Clã do Ferro? O que você viu?}{}{}{}{qu1093 4}
+{126}{[Diga a ele.]}{}{1}{}{128}{}
+{128}{É mais do que eu jamais esperava ou sonhava. Parece que eles eram realmente avançados, muito além do que qualquer um poderia imaginar. Mal posso esperar para visitar as cavernas do Clã do Ferro e aprender sobre seus costumes. Obrigado, meu amigo. Você não faz ideia do presente que nos concedeu...}{É mais do que eu jamais esperava ou sonhava. Parece que eles eram realmente avançados, muito além do que qualquer um poderia imaginar. Mal posso esperar para visitar as cavernas do Clã do Ferro e aprender sobre seus costumes. Obrigado, meu amigo. Você não faz ideia do presente que nos concedeu...}{}{}{}{}
+{129}{E:}{}{1}{}{0}{lf5 1}
+{132}{O Clã do Ferro? Eles eram uma raça de anões que viveu há milhares de anos - alguns anões os consideram apenas um mito. Supostamente, sua civilização era muito avançada, criando objetos maravilhosos de beleza e poder. Infelizmente, não temos provas de sua existência, e qualquer fato sobre eles é pura especulação...}{O Clã de Ferro? Eles eram uma raça de anões que viveu há milhares de anos - alguns anões os consideram apenas um mito. Supostamente, sua civilização era muito avançada, criando objetos maravilhosos de beleza e poder. Infelizmente, não temos provas de sua existência, e qualquer fato sobre eles é pura especulação...}{}{}{}{}
+{133}{Eles são reais? E você disse que encontrou algo...}{}{5}{lf1 1, lf3 0, qb1093 1}{54}{}
+{134}{Por que você não foi procurá-los, Erick?}{}{5}{lf3 1, lf4 0, qb1093 1}{84}{}
+{135}{Entendo. Talvez eu pudesse ajudá-lo a encontrar o Clã de Ferro...?}{}{5}{lf4 1, qb1093 1}{94}{}
+{138}{Onde Clã de Ferro? Você disse que encontrou algo...?}{}{-4}{lf1 1, lf3 0, qb1093 1}{54}{}
+{139}{Por que você não procura o Clã de Ferro, Erick?}{}{-4}{lf3 1, lf4 0, qb1093 1}{84}{}
+{140}{Quiçá eu ajude você a encontrar o Clã de Ferro...?}{}{-4}{lf4 1, qb1093 1}{94}{}
+{141}{K:}{}{1}{}{104}{}
+{142}{E:}{}{1}{}{0}{}
+{144}{A Pedra de Durin? É um artefato antigo, no qual está esculpida a Forma e a Pedra - uma forma de filosofia anã. De acordo com o esquema que encontrei, a Pedra de Durin está no 'Lugar de Ferro', talvez os terrenos de sepultamento do Clã de Ferro...}{A Pedra de Durin? É um artefato antigo, no qual está esculpida a Forma e a Pedra - uma forma de filosofia anã. De acordo com o esquema que encontrei, a Pedra de Durin está no 'Lugar de Ferro', talvez os terrenos de sepultamento do Clã de Ferro...}{}{}{}{}
+{145}{O que você quis dizer com 'a Forma e a Pedra'?}{}{5}{ra 2}{72}{}
+{146}{O que você quis dizer com 'a Forma e a Pedra'?}{}{5}{ra -2}{78}{}
+{147}{K:}{}{1}{}{104}{}
+{148}{E:}{}{1}{}{0}{}
+{152}{Obrigado mais uma vez, amigo. Estamos eternamente em dívida com você...}{Obrigado mais uma vez, amigo. Estamos eternamente em dívida com você...}{}{}{}{}
+

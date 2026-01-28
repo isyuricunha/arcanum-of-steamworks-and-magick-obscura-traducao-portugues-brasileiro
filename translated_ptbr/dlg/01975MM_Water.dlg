@@ -1,0 +1,157 @@
+{1}{G:}{G:}{}{}{}{ }
+{2}{W:}{}{5}{lf1 0, sc1 -5}{15}{lf1 1 }
+{3}{W:}{}{5}{lf1 0, gf2411 0, sc1 5}{260}{lf1 1 }
+{4}{W:}{}{5}{gf2411 1, lf1 0}{15}{lf1 1 }
+{5}{Decidi falar com seu aluno por você.}{}{5}{qu1142 1, ni5680}{100}{qu1142 2 }
+{6}{Qual era o problema sobre o qual você estava me contando?}{}{5}{lf2 1}{60}{ }
+{7}{Mestre Eckes, desejo falar com o senhor sobre magia da água.}{}{5}{lf1 1, gf2411 0, sc1 5}{415}{ }
+{8}{Completei o teste e alcancei o domínio da água.}{}{5}{gf2417 1}{380}{ }
+{9}{W:}{}{-4}{qu1142 0}{15}{ }
+{10}{Eu falei com o cara burro. [Entregue a gema para ele.]}{}{-4}{qb1142 3, in5680}{250}{qu1142 4, in5680 }
+{11}{Eu... hã... falei com seu aluno lá na frente. [Entregue a gema para ele.]}{}{5}{qb1142 3, in5680}{180}{qu1142 4, in5680 }
+{12}{Eu decido ir falar com o cara estudante.}{}{-4}{qu1142 1}{0}{qu1142 2, fl 245}
+{13}{Ainda não completei minha busca pelo domínio da água.}{}{5}{gf2417 0, lf7 1}{410}{ }
+{14}{E:}{}{1}{}{0}{ }
+{15}{Eu sou V'ed Eckes, o mestre de hidromancia aqui em Tulla.}{Eu sou V'ed Eckes, o mestre de hidromancia aqui em Tulla.}{}{}{}{ }
+{16}{Hidromancia?}{}{5}{}{40}{ }
+{17}{Fedex? Hidromanância? Eu não entendo.}{}{-4}{}{200}{ }
+{19}{E:}{}{1}{}{0}{lf1 0 }
+{20}{Como obtive esse conhecimento não é relevante. [Ele faz uma pausa por um momento, parecendo em profunda reflexão.] Em suas extensas viagens, você já superou muita adversidade, não é?}{Como obtive esse conhecimento não é relevante. [Ele faz uma pausa por um momento, parecendo em profunda reflexão.] Em suas extensas viagens, você já superou muita adversidade, não é?}{}{}{}{ }
+{21}{Sim, eu tenho.}{}{5}{}{25}{ }
+{25}{[Ele começa a andar de um lado para o outro, com os braços cruzados atrás das costas.] Bem, temos uma situação que se desenvolveu desde que você chegou. Não estamos preparados... há uma boa razão para aceitarmos apenas alunos muito jovens ou aqueles que levaram vidas protegidas. Viajantes como você são raros, e seu efeito sobre nossos alunos é facilmente controlado...}{[Ele começa a andar de um lado para o outro, com os braços cruzados atrás das costas.] Bem, temos uma situação que se desenvolveu desde que você chegou. Não estamos preparados... há uma boa razão para aceitarmos apenas alunos muito jovens ou aqueles que não estiveram nas cidades. Viajantes como você são raros, e seu efeito sobre nossos alunos é facilmente controlado...}{}{}{}{ }
+{26}{Qual é o seu ponto?}{}{5}{}{30}{ }
+{30}{Não podemos ter mentes imaturas que foram influenciadas pelo mundo exterior vivendo aqui. Tulla precisa manter sua... sua pureza filosófica, por assim dizer, para preservar nossa eficácia como refúgio para a magia pura. Desde que você chegou a Tulla, surgiu um problema com um de nossos ex-alunos...}{Não podemos ter mentes imaturas que foram influenciadas pelo mundo exterior vivendo aqui. Tulla precisa manter sua... sua pureza filosófica, por assim dizer, para preservar nossa eficácia como refúgio para a magia pura. Desde que você chegou a Tulla, surgiu um problema com um de nossos ex-alunos...}{}{}{}{ }
+{31}{O que isso tem a ver comigo?}{}{5}{}{50}{ }
+{32}{Pureza filosófica? Isso me parece um pouco arrogante.}{}{5}{}{160}{ }
+{37}{E:}{}{1}{}{0}{lf2 1 }
+{40}{A magia relacionada ao mais puro dos elementos, a água. Você deve ser o andarilho.}{A magia relacionada ao mais puro dos elementos, a água. Você deve ser o andarilho.}{}{}{}{ }
+{41}{Como você sabia disso?}{}{5}{}{25}{ }
+{50}{Eu sou... nós aqui em Tulla não somos muito de conflito aberto. Esta pode ser uma situação difícil de negociar. Eu estava me perguntando se você gostaria de nos ajudar neste assunto?}{Eu sou... nós aqui em Tulla não somos muito de conflito aberto. Esta pode ser uma situação difícil de negociar. Eu estava me perguntando se você gostaria de nos ajudar neste assunto?}{}{}{}{ }
+{51}{Talvez. O que eu precisaria fazer?}{}{5}{}{60}{ }
+{59}{Acho que não. Tenha um bom dia.}{}{5}{}{0}{lf2 1 }
+{60}{Tomei a questionável decisão de enviar um de nossos alunos para recuperar uma gema que me seria útil em minhas magias da água. Isso foi há mais de cento e vinte dias.}{Tomei a questionável decisão de enviar um de nossos alunos para recuperar uma gema que me seria útil em minhas magias da água. Isso foi há mais de cento e vinte dias.}{}{}{}{lf2 0 }
+{61}{Você quer que eu tente encontrá-lo?}{}{5}{}{70}{ }
+{70}{[Ele suspira.] Não há necessidade. Ele voltou e está esperando no portão principal. Mas ele esteve fora por tempo demais, não podemos permitir que retorne aos seus estudos aqui - ele foi contaminado pelo mundo exterior! Pelos deuses, ele está até usando uma armadura aprimorada tecnologicamente!}{[Ele suspira.] Não há necessidade. Ele voltou e está esperando no portão principal. Mas ele esteve fora por tempo demais, não podemos permitir que retorne aos seus estudos aqui - ele foi contaminado pelo mundo exterior! Pelos deuses, ele está até usando uma armadura aprimorada tecnologicamente!}{}{}{}{ }
+{71}{Por favor, continue.}{}{5}{}{80}{ }
+{80}{Como eu disse, não somos muito de conflitos abertos. O que precisamos que você faça é encontrá-lo e convencê-lo a nos entregar a gema e partir em paz. Este não é mais o lugar dele. Eu lhe darei uma Túnica de Resistência ao Fogo como consideração pela sua ajuda neste assunto.}{Como eu disse, não somos muito de conflitos abertos. O que precisamos que você faça é encontrá-lo e convencê-lo a nos entregar a gema e partir em paz. Este não é mais o lugar dele. Eu lhe darei uma Túnica de Resistência ao Fogo como consideração pela sua ajuda neste assunto.}{}{}{}{qu1142 1, gf2394 1 }
+{81}{Tudo bem, eu farei isso.}{}{5}{}{100}{qu1142 2 }
+{82}{E se ele não quiser ouvir a razão?}{}{5}{}{110}{ }
+{90}{Depois de tudo pelo que ele passou para conseguir a gema para você? Seu bastardo!}{}{5}{}{140}{ }
+{91}{Não acho certo você fazer isso depois de tudo o que ele fez por você.}{}{5}{}{140}{ }
+{99}{Não estou interessado em fazer esse tipo de trabalho para você.}{}{5}{}{0}{ }
+{100}{Excelente! Ele está esperando no portão principal. Retorne com a gema e receberá as túnicas.}{Excelente! Ele está esperando no portão principal. Retorne com a gema e receberá as túnicas.}{}{}{}{ }
+{101}{E se ele não quiser ouvir a razão?}{}{5}{}{110}{ }
+{102}{Certo.}{}{5}{}{0}{ }
+{110}{Minha única preocupação é recuperar a gema.}{Minha única preocupação é recuperar a gema.}{}{}{}{ }
+{111}{Tudo bem, voltarei com a gema.}{}{5}{}{0}{qu1142 2 }
+{112}{E se ele ficar violento?}{}{5}{}{120}{ }
+{113}{Não consigo acreditar na frieza que você está demonstrando aqui.}{}{5}{}{130}{ }
+{119}{Não estou interessado em fazer esse tipo de trabalho para você.}{}{5}{}{0}{ }
+{120}{Minha única preocupação é recuperar a gema. Não me importa se ele aceita seu destino ou não, é o destino dele, afinal. Albert sabia dos riscos quando se voluntariou.}{Minha única preocupação é recuperar a gema. Não me importa se ele aceita seu destino ou não, é o destino dele, afinal. Albert sabia dos riscos quando se voluntariou.}{}{}{}{gf2396 1 }
+{121}{Tudo bem, voltarei com a gema.}{}{5}{}{0}{qu1142 2 }
+{129}{Não estou interessado em fazer esse tipo de trabalho para você.}{}{5}{}{0}{ }
+{130}{A luz da realidade é dura. A pureza da escola aqui em Tulla deve ser mantida. Albert sabia dos riscos quando se voluntariou.}{A luz da realidade é dura. A pureza da escola aqui em Tulla deve ser mantida. Albert sabia dos riscos quando se voluntariou.}{}{}{}{gf2396 1 }
+{131}{Tudo bem, voltarei com a gema.}{}{5}{}{0}{qu1142 2 }
+{139}{Não estou interessado em fazer esse tipo de trabalho para você.}{}{5}{}{0}{ }
+{140}{A luz da realidade é dura. A pureza da escola aqui em Tulla deve ser mantida. Albert sabia dos riscos quando se voluntariou.}{A luz da realidade é dura. A pureza da escola aqui em Tulla deve ser mantida. Albert sabia dos riscos quando se voluntariou.}{}{}{}{gf2396 1 }
+{141}{Tudo bem, voltarei com a gema.}{}{5}{}{0}{qu1142 2 }
+{142}{E se ele ficar violento?}{}{5}{}{150}{ }
+{149}{Não estou interessado em fazer esse tipo de trabalho para você.}{}{5}{}{0}{ }
+{150}{Minha única preocupação é recuperar a gema.}{Minha única preocupação é recuperar a gema.}{}{}{}{ }
+{151}{Tudo bem, voltarei com a gema.}{}{5}{}{0}{qu1142 2 }
+{159}{Não estou interessado em fazer esse tipo de trabalho para você.}{}{5}{}{0}{ }
+{160}{A verdade pode soar arrogante para aqueles não acostumados com palavras diretas.}{A verdade pode soar arrogante para aqueles não acostumados com palavras diretas.}{}{}{}{ }
+{161}{Então por que está me contando tudo isso?}{}{5}{}{50}{ }
+{162}{Não, acho que você é simplesmente um bastardo sem coração.}{}{5}{}{170}{ }
+{170}{Precisamos continuar com essa conversa infantil ou podemos passar para assuntos mais urgentes?}{Precisamos continuar com essa conversa infantil ou podemos passar para assuntos mais urgentes?}{}{}{}{ }
+{171}{Vamos prosseguir. Você estava dizendo?}{}{5}{}{50}{ }
+{172}{Eu prefiro uma agressão violenta a essa conversa infantil.}{}{5}{}{0}{lf2 1, fl 179}
+{179}{Por favor, volte se decidir ter uma conversa madura, criança.}{Por favor, volte se decidir ter uma conversa madura, criança.}{}{}{}{ }
+{180}{Magnífico! [Ele examina a gema por um momento.] Obrigado por trazê-la para mim. Aqui estão as vestes que prometi a você.}{Magnífico! [Ele examina a gema por um momento.] Obrigado por trazê-la para mim. Aqui estão as vestes que prometi a você.}{}{}{}{in-2831 }
+{181}{Obrigado.}{}{5}{}{0}{ }
+{182}{Você não se importa com o que aconteceu com seu aluno?}{}{5}{}{190}{ }
+{190}{Não particularmente. Ele conhecia os perigos de se envolver com o mundo exterior.}{Não particularmente. Ele conhecia os perigos de se envolver com o mundo exterior.}{}{}{}{ }
+{191}{Entendo. Tenha um bom dia, então.}{}{5}{}{0}{ }
+{200}{[A expressão no rosto deste homem muda de uma seriedade contemplativa para uma diversão levemente disfarçada.] Certo. EU SOU O HOMEM DA MAGIA DA ÁGUA. VOCÊ QUER FAZER ALGO POR MIM?}{[A expressão no rosto deste homem muda de uma seriedade contemplativa para uma diversão levemente disfarçada.] Certo. EU SOU O HOMEM DA MAGIA DA ÁGUA. VOCÊ QUER FAZER ALGO POR MIM?}{}{}{}{ }
+{201}{Tudo bem?}{}{-4}{}{210}{ }
+{202}{Não.}{}{-4}{}{0}{ }
+{210}{Há um aluno que recuperou... uh, conseguiu uma gema nova brilhante para nós. Você a pega dele, certo? E diga para ele ir embora também...}{Há um aluno que recuperou... uh, conseguiu uma gema nova brilhante para nós. Você a pega dele, certo? E diga para ele ir embora também...}{}{}{}{qu1142 1 }
+{211}{Tá.}{}{-4}{}{220}{qu1142 2 }
+{212}{Por quê?}{}{-4}{}{230}{ }
+{219}{Não.}{}{-4}{}{0}{ }
+{220}{Traga-a aqui e eu lhe darei belas vestes mágicas! Elas impedem que o fogo quente o machuque!}{Traga-a aqui e eu lhe darei belas vestes mágicas! Elas impedem que o fogo quente o machuque!}{}{}{}{ }
+{221}{Tá.}{}{-4}{}{0}{ }
+{230}{Os assuntos em questão são complexos e vari... uh, traga-a aqui e eu lhe darei belas vestes mágicas! Elas impedem que o fogo quente o machuque!}{Os assuntos em questão são complexos e vari... uh, traga-a aqui e eu lhe darei belas vestes mágicas! Elas impedem que o fogo quente o machuque!}{}{}{}{ }
+{231}{Certo!}{}{-4}{}{0}{qu1142 2 }
+{232}{Hã... não?}{}{-4}{}{0}{fl 240}
+{240}{Tudo bem, volte se mudar de ideia. Tenha um bom dia.}{Tudo bem, volte se mudar de ideia. Tenha um bom dia.}{}{}{}{ }
+{245}{Esplêndido! Traga a gema aqui e eu lhe darei belas vestes mágicas! Elas protegem você do fogo ardente!}{Esplêndido! Traga a gema aqui e eu lhe darei belas vestes mágicas! Elas protegem você do fogo ardente!}{}{}{}{ }
+{250}{Magnífico! [Ele inspeciona a gema por um momento.] Obrigado por trazê-la até mim. Aqui estão as vestes que prometi.}{Magnífico! [Ele inspeciona a gema por um momento.] Obrigado por trazê-la até mim. Aqui estão as vestes que prometi.}{}{}{}{in-2831 }
+{251}{Urgh.}{}{-4}{}{0}{ }
+{260}{Eu sou V'ed Eckes, o mestre da hidromancia aqui em Tulla.}{Eu sou V'ed Eckes, o mestre da hidromancia aqui em Tulla.}{}{}{}{ }
+{261}{Hidromancia? Eu também estudo os caminhos da água.}{}{5}{ma-29}{270}{ }
+{262}{Hidromancia? Eu também estudo os caminhos da água.}{}{5}{ma30}{330}{ }
+{270}{Você se destacou em todos os aspectos da água, mas percebo que sua aura mágica é fraca. Receio que tenha sido contaminado pela noção frívola da tecnologia. Uma pena... caso algum dia aumente suas habilidades mágicas, volte até mim. Há mais estudos que posso lhe oferecer.}{Você se destacou em todos os aspectos da água, mas percebo que sua aura mágica é fraca. Receio que tenha sido contaminado pela noção frívola da tecnologia. Uma pena... caso algum dia aumente suas habilidades mágicas, volte até mim. Há mais estudos que posso lhe oferecer.}{}{}{}{ }
+{271}{Prefiro trilhar um caminho equilibrado entre os dois.}{}{5}{}{280}{re-2 }
+{272}{Acredito que a tecnologia se tornará o pilar principal, com o tempo.}{}{5}{}{320}{re-5 }
+{273}{Estou trabalhando para melhorar minhas habilidades mágicas, senhor.}{}{5}{}{310}{re+5 }
+{274}{E:}{}{1}{}{0}{ }
+{280}{Isso é um direito seu, claro. O caminho de um homem é só seu. Mas até que se dedique completamente às artes mágicas, não poderá esperar alcançar a maestria.}{Isso é um direito seu, claro. O caminho de uma mulher é só seu. Mas até que se dedique completamente às artes mágicas, não poderá esperar alcançar a maestria.}{}{}{}{ }
+{281}{O que a maestria me dará?}{}{5}{}{290}{ }
+{290}{Para se tornar mestre, primeiro deve passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande dom... o esforço necessário para lançar cada feitiço na escola de maestria é grandemente reduzido!}{Para se tornar mestre, primeiro deve passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande dom... o esforço necessário para lançar cada feitiço na escola de maestria é grandemente reduzido!}{}{}{}{lf3 1 }
+{291}{Entendo.}{}{5}{}{300}{ }
+{300}{[Ele o observa por um momento.] Você é o andarilho, não é?}{[Ele a observa por um momento.] Você é a andarilha, não é?}{}{}{}{ }
+{301}{Como você sabia disso?}{}{5}{}{25}{ }
+{310}{Isso é realmente fortuito. Se conseguir se livrar da contaminação da tecnologia, ainda poderá alcançar a maestria na arte da hidromancia.}{Isso é realmente fortuito. Se conseguir se livrar da contaminação da tecnologia, ainda poderá alcançar a maestria na arte da hidromancia.}{}{}{}{ }
+{311}{O que a maestria me dará?}{}{5}{}{290}{ }
+{320}{Ah, a ignorância da juventude. Bem, o caminho de um homem, e suas opiniões, são só seus. Mas até que se dedique completamente às artes mágicas, não poderá esperar alcançar a maestria.}{Ah, a ignorância da juventude. Bem, o caminho de uma mulher, e suas opiniões, são só seus. Mas até que se dedique completamente às artes mágicas, não poderá esperar alcançar a maestria.}{}{}{}{ }
+{321}{O que a maestria me dará?}{}{5}{}{290}{ }
+{330}{Sim, vejo... sua aura é forte. Talvez gostaria de tentar dominar a escola de magia da água?}{Sim, vejo... sua aura é forte. Talvez gostaria de tentar dominar a escola de magia da água?}{}{}{}{ }
+{331}{O que a maestria me dará?}{}{5}{}{340}{ }
+{340}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande presente... o esforço necessário para lançar cada feitiço na escola de maestria é grandemente reduzido! ...Você está interessado em tentar o teste?}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande presente... o esforço necessário para lançar cada feitiço na escola de maestria é grandemente reduzido! ...Você está interessado em tentar o teste?}{}{}{}{ }
+{341}{Sim, estou.}{}{5}{}{360}{ }
+{349}{Acho que não, pelo menos por enquanto.}{}{5}{}{350}{ }
+{350}{Muito bem... [ele lhe observa por um momento.] Você é o andarilho, não é?}{Muito bem... [ele lhe observa por um momento.] Você é o andarilho, não é?}{}{}{}{ }
+{351}{Como você sabia disso?}{}{5}{}{25}{ }
+{360}{Devo adverti-lo, no entanto... Você só poderá dominar 1 colégio de magia. Deseja dominar o colégio da água, acima de todos os outros?}{Devo adverti-lo, no entanto... Você só poderá dominar 1 colégio de magia. Deseja dominar o colégio da água, acima de todos os outros?}{}{}{}{ }
+{361}{Sim.}{}{5}{}{370}{ }
+{369}{Acho que não, pelo menos não por enquanto.}{}{5}{}{350}{ }
+{370}{Uma excelente escolha. Aqui. [Um medalhão aparece subitamente em sua mão] Pegue este medalhão. Quando estiver preparado para enfrentar sua prova, coloque-o e avance pelo portal no centro deste salão. Isso iniciará seu teste. Desejo-lhe sorte.}{Uma excelente escolha. Aqui. [Um medalhão aparece subitamente em sua mão] Pegue este medalhão. Quando estiver preparado para enfrentar sua prova, coloque-o e avance pelo portal no centro deste salão. Isso iniciará seu teste. Desejo-lhe sorte.}{}{}{}{in-2837, lf7 1, gf2411 1 }
+{371}{Obrigado.}{}{5}{}{0}{ }
+{380}{Muito bem! Muito bem mesmo! Pouquíssimos tive a alegria de parabenizar por tal conquista. Você verá que sua força em nosso colégio aumentou em dobro. Assim, sentirá metade do esforço ao lançar um feitiço. Novamente, meus parabéns.}{Muito bem! Muito bem mesmo! Pouquíssimos tive a alegria de parabenizar por tal conquista. Você verá que sua força em nosso colégio aumentou em dobro. Assim, sentirá metade do esforço ao lançar um feitiço. Novamente, meus parabéns.}{}{}{}{ }
+{381}{Obrigado.}{}{5}{qu1142 0}{390}{ }
+{382}{Obrigado.}{}{5}{qa1142 1, qb1142 4}{400}{ }
+{390}{Há... algo mais...}{Há... algo mais...}{}{}{}{ }
+{391}{O que é?}{}{5}{}{25}{ }
+{400}{E como prossegue... aquele outro assunto?}{E como prossegue... aquele outro assunto?}{}{}{}{ }
+{401}{Decidi falar com seu aprendiz por você.}{}{5}{qu1142 1, ni5680}{100}{qu1142 2 }
+{402}{Eu... hã... falei com seu aprendiz lá fora. [Entregue-lhe a gema.]}{}{5}{in5680}{180}{qu1142 4 }
+{403}{Ainda estou trabalhando nesse assunto, senhor.}{}{5}{}{0}{fl 405}
+{405}{Muito bem. Continue, então...}{Muito bem. Continue, então...}{}{}{}{ }
+{410}{Sim... Às vezes, é difícil preparar-se para tal prova. Quando se sentir devidamente preparado, avance pelos arcos localizados no coração de Tulla. Lembre-se, você deve estar usando o medalhão que criei para você.}{Sim... Às vezes, é difícil preparar-se para tal prova. Quando se sentir devidamente preparado, avance pelos arcos localizados no coração de Tulla. Lembre-se, você deve estar usando o medalhão que criei para você.}{}{}{}{ }
+{411}{Vou concluir meus preparativos e realizar a prova.}{}{5}{}{0}{ }
+{415}{Sim, e daí?}{Sim, e daí?}{}{}{}{ }
+{416}{Desejo me tornar um mestre da magia da água.}{}{5}{lf3 1, ma30}{425}{ }
+{417}{Desejo me tornar um mestre da magia da água.}{}{5}{lf3 1,ma-29}{435}{ }
+{418}{O que significa se tornar um mestre da magia da água?}{}{5}{lf3 0, ma30, gf2411 0}{445}{ }
+{419}{O que significa se tornar um mestre da magia da água?}{}{5}{lf3 0, ma-29}{460}{ }
+{424}{Nada. Preciso ir.}{}{5}{}{0}{ }
+{425}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande presente... o esforço necessário para lançar cada feitiço na escola de maestria é grandemente reduzido! ...Você está interessado em tentar o teste?}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande presente... o esforço necessário para lançar cada feitiço na escola de maestria é grandemente reduzido! ...Você está interessado em tentar o teste?}{}{}{}{ }
+{426}{Sim, estou.}{}{5}{}{360}{ }
+{428}{No momento, não.}{}{5}{qu1142 0}{390}{ }
+{429}{No momento, não.}{}{5}{qa1142 1, qb1142 4}{400}{ }
+{435}{Você se destacou em todos os aspectos da água, mas percebo que sua aura mágica está fraca. Receio que tenha sido contaminado pela noção frívola da tecnologia. Uma pena. ...caso algum dia aumente suas habilidades mágicas, volte a me procurar.}{Você se destacou em todos os aspectos da água, mas percebo que sua aura mágica está fraca. Receio que tenha sido contaminado pela noção frívola da tecnologia. Uma pena. ...caso algum dia aumente suas habilidades mágicas, volte a me procurar.}{}{}{}{ }
+{436}{Muito bem.}{}{5}{qu1142 0}{390}{ }
+{437}{Muito bem.}{}{5}{qa1142 1, qb1142 4}{400}{ }
+{445}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande presente... o esforço necessário para lançar cada feitiço na escola de maestria é grandemente reduzido! ...Você está interessado em tentar o teste?}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande presente... o esforço necessário para lançar cada feitiço na escola de maestria é grandemente reduzido! ...Você está interessado em tentar o teste?}{}{}{}{ }
+{446}{Sim.}{}{5}{}{450}{ }
+{448}{Acredito que não.}{}{5}{qu1142 0}{390}{ }
+{449}{Acredito que não.}{}{5}{qa1142 1, qb1142 4}{400}{ }
+{450}{Devo adverti-lo, porém... Você só poderá obter maestria em 1 colégio de magia. Deseja dominar o colégio da água, acima de todos os outros?}{Devo adverti-lo, porém... Você só poderá obter maestria em 1 colégio de magia. Deseja dominar o colégio da água, acima de todos os outros?}{}{}{}{ }
+{451}{Sim, eu quero.}{}{5}{}{370}{ }
+{453}{Preciso refletir mais sobre isso antes de tomar minha decisão.}{}{5}{qu1142 0}{390}{ }
+{454}{Preciso refletir mais sobre isso antes de tomar minha decisão.}{}{5}{qa1142 1, qb1142 4}{400}{ }
+{460}{Aqueles que passam por um teste difícil são recompensados com um grande dom: o esforço necessário para lançar cada feitiço no colégio de maestria é grandemente reduzido! Mas sua aura mágica está fraca, receio que tenha sido contaminado pela noção frívola da tecnologia. Se estiver interessado, volte a me procurar quando tiver abandonado esses caminhos.}{Aqueles que passam por um teste difícil são recompensados com um grande dom: o esforço necessário para lançar cada feitiço no colégio de maestria é grandemente reduzido! Mas sua aura mágica está fraca, receio que tenha sido contaminado pela noção frívola da tecnologia. Se estiver interessado, volte a me procurar quando tiver abandonado esses caminhos.}{}{}{}{lf3 1 }
+{461}{Muito bem.}{}{5}{qu1142 0}{390}{ }
+{462}{Muito bem.}{}{5}{qa1142 1, qb1142 4}{400}{ }
+

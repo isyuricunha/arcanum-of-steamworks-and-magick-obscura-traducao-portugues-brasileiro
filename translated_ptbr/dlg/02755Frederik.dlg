@@ -1,0 +1,46 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{W:}{}{5}{lf1 0, re41}{20}{lf1 1}
+{3}{Devo ter ouvido mal...}{}{5}{re-40, ch10, lf1 0}{110}{lf1 1}
+{4}{Por favor, desculpe minha presença, senhor. Não quero ofender.}{}{5}{re-40, ch-9, lf1 0}{120}{lf1 1}
+{5}{Fale comigo assim de novo e você vai se arrepender seriamente.}{}{5}{re-40, sk2 12, lf1 0}{50}{lf1 1}
+{6}{W:}{}{-4}{lf1 0, re41}{20}{}
+{7}{Frederik, tive uma conversa interessante com Renzo...}{}{5}{lf1 1, qa1157 1, gf2637 0}{30}{}
+{19}{E:}{}{1}{}{0}{}
+{20}{Meu nome é Frederik, se precisa saber, camponês! Agora, por favor, deixe-me em paz!}{Meu nome é Frederik, se precisa saber, camponês! Agora, por favor, deixe-me em paz!}{}{}{}{}
+{21}{Acho que você não se importa com o que seu amigo Renzo quer que eu faça...}{}{5}{qa1157 1, gf2637 0}{30}{re-5}
+{29}{E:}{}{1}{}{0}{}
+{30}{O quê? O que aquele vermezinho lhe contou? São tudo mentiras!}{O quê? O que aquele vermezinho lhe contou? São tudo mentiras!}{}{}{}{}
+{31}{Ele queria que eu armasse para você ser pego pelo roubo.}{}{5}{}{40}{qu1157 6, gf2639 1, al-50}
+{32}{Descobrir o que ele me contou vai lhe custar, senhor...}{}{5}{}{70}{re-10}
+{33}{Você vai descobrir. Tenha um bom dia, senhor.}{}{5}{}{90}{re-20}
+{40}{Desgraçado! Vou matar aquele idiota!}{Desgraçado! Vou matar aquele idiota!}{}{}{}{}
+{41}{Que tal um pagamento pela informação?}{}{5}{}{50}{}
+{49}{Bem, divirta-se. Adeus.}{}{5}{}{0}{lf2 1, re-10}
+{50}{[Ele olha para você com verdadeiro nojo nos olhos.] Deve estar brincando. Saia daqui, sapo!}{[Ele olha para você com verdadeiro nojo nos olhos.] Deve estar brincando. Saia daqui, sapo!}{}{}{}{}
+{51}{[Agarre-o.] Deixe-me reformular meu pedido. 500 moedas ou você morre.}{}{5}{sk2 12}{60}{}
+{52}{[Agarre-o.] Deixe-me reformular meu pedido. 500 moedas ou você morre.}{}{5}{sk2 -11}{100}{re-10}
+{59}{Tudo bem, então. Adeus.}{}{5}{}{0}{lf2 1}
+{60}{[Uma expressão de terror cruza seu rosto.] Sim, sim, claro... [ele remexe procurando o dinheiro.] Aqui está... por favor, não me machuque...}{[Uma expressão de terror cruza seu rosto.] Sim, sim, claro... [ele remexe procurando o dinheiro.] Aqui está... por favor, não me machuque...}{}{}{}{$$500}
+{61}{Pode ir, camponês. [Solte-o.]}{}{5}{}{0}{lf2 1, re-10}
+{69}{Obrigado pelo dinheiro... mas acho que vou matá-lo mesmo assim.}{}{5}{}{0}{co}
+{70}{Ora, isso é chantagem! Não farei tal coisa!}{Ora, isso é chantagem! Não farei tal coisa!}{}{}{}{}
+{71}{Então suponho que terei que contar ao Capitão da Guarda...}{}{5}{}{80}{}
+{79}{Se é assim que se sente, adeus.}{}{5}{}{0}{lf2 1, re-10}
+{80}{[Ele o agarra.] Não, você não pode! Não vou deixar!}{[Ele o agarra.] Não, você não pode! Não vou deixar!}{}{}{}{}
+{81}{Já que me abordou, sua vida agora vai lhe custar 500 moedas.}{}{5}{sk2 12}{60}{}
+{82}{Já que me abordou, sua vida agora vai lhe custar 500 moedas.}{}{5}{sk2 -11}{100}{re-10}
+{89}{Tá bom, tá bom. Me solta e a gente esquece tudo isso.}{}{5}{}{100}{}
+{90}{[Ele te agarra.] O que você vai fazer?! Você não pode fazer isso comigo, não fiz nada de errado!}{[Ele te agarra.] O que você vai fazer?! Você não pode fazer isso comigo, não fiz nada de errado!}{}{}{}{}
+{91}{Já que me abordou, sua vida agora vai custar 500 moedas.}{}{5}{sk2 12}{60}{}
+{92}{Já que me abordou, sua vida agora vai custar 500 moedas.}{}{5}{sk2 -11}{100}{re-10}
+{99}{Tá bom, tá bom. Me solta e a gente esquece tudo isso.}{}{5}{}{100}{}
+{100}{Ahhh, agora entendi sua jogada! Você não sabe de nada e está tentando me fazer de bobo! Some daqui, cão!}{Ahhh, agora entendi sua jogada! Você não sabe de nada e está tentando me fazer de boba! Some daqui, vadia!}{}{}{}{}
+{101}{Prefiro ver você sofrer uma morte dolorosa, em vez disso.}{}{5}{}{0}{co}
+{109}{Acredite no que quiser. Adeus.}{}{5}{}{0}{lf2 1, re-10}
+{110}{Você me ouviu, idiota! Frederik não vai se deixar levar pelos seus modos sedutores! Me deixe em paz!}{Você me ouviu, idiota! Frederik não vai se deixar levar pelo piscar dos seus olhos! Me deixe em paz!}{}{}{}{}
+{111}{Acho que você não se importa com o que seu amigo Renzo quer que eu faça...}{}{5}{qa1157 1}{30}{re-5}
+{119}{E:}{}{1}{}{0}{}
+{120}{Não há desculpa para gente da sua laia, imbecil! Me deixe em paz. Eu sou Frederik, e sou uma pessoa importante! Não tenho tempo para lidar com escória comum como você!}{Não há desculpa para gente da sua laia, imbecil! Me deixe em paz. Eu sou Frederik, e sou uma pessoa importante! Não tenho tempo para lidar com escória comum como você!}{}{}{}{}
+{121}{Fale comigo assim de novo e você vai se arrepender seriamente.}{}{5}{sk2 12}{50}{}
+{129}{Tá bom, então. Adeus.}{}{5}{}{0}{lf2 1, re-10}
+

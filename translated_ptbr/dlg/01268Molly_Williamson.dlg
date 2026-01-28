@@ -1,0 +1,71 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Posso saber quem é a senhora, madame?}{}{5}{re 41, me 0}{44}{}
+{3}{Madame! Por que me fala desse jeito?}{}{5}{re -40, me 0}{17}{}
+{6}{Saudações, Molly Williamson. Tem um momento?}{}{5}{re 41, me 1}{51}{}
+{7}{Sra. Williamson! O que eu fiz para merecer esse tratamento?}{}{5}{re -40, me 1}{17}{}
+{8}{Oi! Eu não muito esperto. Quem você?}{}{-4}{me 0}{44}{}
+{9}{Oi, Molly! Posso lhe fazer algumas perguntas?}{}{-4}{me 1}{51}{}
+{10}{E:}{}{1}{me 1}{0}{}
+{17}{Desculpe, senhor, mas não gosto de estranhos, e gosto ainda menos do senhor...}{Desculpe, madame, mas não gosto de estranhos, e gosto ainda menos da senhora...}{}{}{}{}
+{18}{Madame, tem CERTEZA dessa opinião?}{}{5}{ch 16}{23}{re +15}
+{19}{Não estou aqui para causar problemas, madame...}{}{5}{}{27}{re +10}
+{20}{É melhor não falar comigo desse jeito, sua vadia...}{}{5}{}{35}{re -5}
+{21}{E:}{}{5}{}{0}{}
+{23}{[Ela lhe lança um olhar perspicaz e então sorri um pouco.] Talvez o senhor tenha razão. Perdoe-me, senhor... às vezes meu temperamento atrapalha meu melhor julgamento. O senhor é claramente um bom sujeito...}{[Ela lhe lança um olhar perspicaz e então sorri um pouco.] Talvez a senhora tenha razão. Perdoe-me, madame... às vezes meu temperamento atrapalha meu melhor julgamento. A senhora é claramente uma boa moça...}{}{}{}{}
+{24}{Vamos esquecer o que aconteceu, madame. Posso saber quem é a senhora?}{}{5}{me 0}{44}{}
+{25}{Está esquecido, Molly. Tem um momento?}{}{5}{me 1}{51}{}
+{27}{[A mulher relaxa um pouco.] Desculpe, senhor. A vida é difícil para nós aqui fora. Perdoe meu temperamento...}{[A mulher relaxa um pouco.] Desculpe, madame. A vida é difícil para nós aqui fora. Perdoe meu temperamento...}{}{}{}{}
+{28}{Vamos esquecer o que aconteceu, madame. Posso saber quem é a senhora?}{}{5}{me 0}{44}{}
+{29}{Está esquecido, Molly. Tem um momento?}{}{5}{me 1}{51}{}
+{35}{[Ela cospe no chão.] Vai me ameaçar, garoto? Não me assusta! A vida tem sido difícil para nós, Williamsons, e já dei uma surra em minha cota de forasteiros de língua solta que aparecem na minha terra. Então continue tagarelando e vai ver!}{[Ela cospe no chão.] Vai me ameaçar, mocinha? Não me assusta! A vida tem sido difícil para nós, Williamsons, e já dei uma surra em minha cota de forasteiros de língua solta que aparecem na minha terra. Então continue tagarelando e vai ver!}{}{}{}{}
+{36}{Acho que não é necessário. Aceite minhas desculpas, por favor...}{}{5}{}{27}{re +10}
+{37}{A vida da senhora vai ficar ainda MAIS difícil, madame...}{}{5}{}{}{co, fl 40}
+{38}{E:}{}{5}{}{0}{}
+{40}{Sanguinário invasor! Vou lhe mostrar o que é bom!}{Sanguinário invasor! Vou lhe mostrar o que é bom!}{}{}{}{}
+{44}{Meu nome é Molly Williamson, senhor...}{Meu nome é Molly Williamson, madame...}{}{}{}{}
+{45}{Um prazer, Molly. Tem um momento para conversar?}{}{5}{}{51}{}
+{48}{Eu @PCNAME@! Faço perguntas a você?}{}{-4}{}{51}{}
+{51}{Claro. O que precisa saber?}{Claro. O que você precisa saber?}{}{}{}{}
+{52}{O que você está fazendo aqui fora, Molly?}{}{5}{lf2 0}{65}{}
+{53}{Ainda estou procurando pelo tesouro e pelas fivelas...}{}{5}{lf2 1, ni 5624, ni 5625}{101}{}
+{54}{Ainda estou procurando pelo tesouro e pelas fivelas...}{}{5}{lf2 1, in 5624, ni 5625}{101}{}
+{55}{Ainda estou procurando pelo tesouro e pelas fivelas...}{}{5}{lf2 1, ni 5624, in 5625}{101}{}
+{56}{Eu trouxe para você o tesouro e as fivelas...}{}{5}{lf2 1, in 5624, in 5625}{104}{in 5624, in 5625}
+{57}{O que cê tá fazendo aqui fora, Moppy?}{}{-4}{lf2 0}{65}{}
+{58}{Ainda estou procurando por tesouro e fivelas!}{}{-4}{lf2 1, ni 5624, ni 5625}{101}{}
+{59}{Ainda estou procurando por tesouro e fivelas!}{}{-4}{lf2 1, in 5624, ni 5625}{101}{}
+{60}{Ainda estou procurando por tesouro e fivelas!}{}{-4}{lf2 1, ni 5624, in 5625}{101}{}
+{61}{Eu trouxe para você tesouro e fivelas...!}{}{-4}{lf2 1, in 5624, in 5625}{104}{in 5624, in 5625}
+{62}{E:}{}{1}{}{0}{}
+{65}{Bom, senhor... é barato viver aqui no meio do nada. A gente come o que pesca do oceano, faz nossas próprias roupas e, além disso, não precisamos de muito. O clã Williamson nunca teve muito dinheiro. Não desde o que aconteceu com o meu bisavô Jonas Williamson, de qualquer forma...}{Bom, senhora... é barato viver aqui no meio do nada. A gente come o que pesca do oceano, faz nossas próprias roupas e, além disso, não precisamos de muito. O clã Williamson nunca teve muito dinheiro. Não desde o que aconteceu com o meu bisavô Jonas Williamson, de qualquer forma...}{}{}{}{lf1 1}
+{66}{Na verdade, é por isso que estou aqui...}{}{5}{qa1054 1}{83}{}
+{67}{Não entendo... o que aconteceu?}{}{5}{qu1054 0}{74}{}
+{68}{É por isso que vim aqui!}{}{-4}{qa1054 1}{83}{}
+{69}{Hã... o que aconteceu?}{}{-4}{qu1054 0}{74}{}
+{72}{E:}{}{1}{}{0}{}
+{74}{Bom, naquela época os Williamsons não eram exatamente ricos, mas estávamos bem... tínhamos terras e uma casa bacana. Mas um dia o velho Stringy Pete, o pirata, apareceu perambulando pela cidade e matou meu avô Jonas ali mesmo, no meio da rua. Diz a lenda que o velho Pete estava rindo enquanto fazia isso, até quando roubou as fivelas de prata das botas do meu bisavô!}{Bom, naquela época os Williamsons não eram exatamente ricos, mas estávamos bem... tínhamos terras e uma casa bacana. Mas um dia o velho Stringy Pete, o pirata, apareceu perambulando pela cidade e matou meu avô Jonas ali mesmo, no meio da rua. Diz a lenda que o velho Pete estava rindo enquanto fazia isso, até quando roubou as fivelas de prata das botas do meu bisavô!}{}{}{}{}
+{75}{Entendo. Uma história bem trágica...}{}{5}{}{78}{}
+{76}{Isso é muito triste...}{}{-4}{}{78}{}
+{78}{Pois é... definitivamente não é uma história para dormir, senhor. Os Williamsons... passamos por tempos difíceis depois disso. Sem um homem para cuidar do lugar, perdemos nossas terras e nossa casa. Minha família vive aqui neste barraco há 100 anos. Não passa um dia sem que eu xingue o nome daquele maldito Stringy Pete! [Ela cospe no chão.]}{Pois é... definitivamente não é uma história para dormir, senhorita. Os Williamsons... passamos por tempos difíceis depois disso. Sem um homem para cuidar do lugar, perdemos nossas terras e nossa casa. Minha família vive aqui neste barraco há 100 anos. Não passa um dia sem que eu xingue o nome daquele maldito Stringy Pete! [Ela cospe no chão.]}{}{}{}{}
+{79}{K:}{}{1}{}{51}{}
+{80}{E:}{}{1}{}{0}{}
+{83}{Do que está falando?}{Do que está falando?}{}{}{}{}
+{84}{Parece estranho, mas... [Conte a história para ela.]}{}{5}{}{87}{}
+{85}{Hã... [Conte a história para ela.]}{}{-4}{}{87}{}
+{87}{Bom, que coisa. [A mulher balança a cabeça.] Já ouvi histórias estranhas, mas a sua leva o prêmio, senhor. Pensar que o fantasma daquele velho pirata quer se redimir pelo que fez há quase 200 anos...}{Bom, que coisa. [A mulher balança a cabeça.] Já ouvi histórias estranhas, mas a sua leva o prêmio, senhora. Pensar que o fantasma daquele velho pirata quer se redimir pelo que fez há quase 200 anos...}{}{}{}{}
+{88}{Sim, é um pouco inacreditável...}{}{5}{}{91}{}
+{89}{Pois é... engraçado, né?}{}{-4}{}{91}{}
+{91}{Então... você trouxe aquele tesouro antigo e as fivelas?}{Então... você trouxe aquele tesouro antigo e as fivelas pra mim?}{}{}{}{}
+{92}{Sim. [Entregá-los a ela.]}{}{5}{in 5624, in 5625}{104}{in 5624, in 5625}
+{93}{É! [Entregá-los a ela.]}{}{-4}{in 5624, in 5625}{104}{in 5624, in 5625}
+{94}{Hm... ainda não. Vou fazer isso em breve...}{}{5}{}{101}{lf2 1}
+{95}{Hm... eu ainda não tenho. Mas vou ter!}{}{-4}{}{101}{lf2 1}
+{96}{Na verdade, acho que vou te matar e ficar com o tesouro...}{}{5}{}{}{co, fl 99}
+{97}{Acho que vou te matar em vez disso! Ficar com o tesouro pra mim!}{}{-4}{}{}{co, fl 99}
+{99}{Você está cometendo um grande erro! Nós, Williamsons, não vamos embora quietos!}{Você está cometendo um grande erro! Nós, Williamsons, não vamos embora quietos!}{}{}{}{}
+{101}{Humpf. Bom, se algum dia você encontrar, acho que poderíamos dar um jeito de usar um pouco...}{Humpf. Bom, se algum dia você encontrar, acho que poderíamos dar um jeito de usar um pouco...}{}{}{}{}
+{102}{E:}{}{1}{}{0}{}
+{104}{Bem, obrigado. Acho que o velho Stringy Pete não é um sujeito tão ruim afinal. Adeus, senhor...}{Bem, obrigado. Acho que o velho Stringy Pete não é um sujeito tão ruim afinal. Adeus, senhora...}{}{}{}{lf3 1, gf2748 1}
+{105}{E:}{}{1}{}{0}{}
+{107}{Muito obrigado, senhor. Os Williamsons poderiam usar esse tesouro aí...}{Muito obrigado, senhora. Os Williamsons poderiam usar esse tesouro aí...}{}{}{}{}
+

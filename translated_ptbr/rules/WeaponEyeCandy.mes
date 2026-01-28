@@ -1,0 +1,1055 @@
+// This file is to specify effects for different weapon prototypes.
+
+// NOTE: The Projectile field is Currently in use ONLY for determining Projectile Speeds,
+//   as the art is specified in the Prototype!
+
+
+{0}{bp_weapon_dagger} // Weapon
+{1}{} // Power Gather
+{2}{} // Fire
+{3}{} // Projectile -- Speed ONLY
+{4}{} // Hit
+{5}{} // Secondary Hit
+
+{10}{bp_weapon_sword}
+{11}{} // Power Gather
+{12}{} // Fire
+{13}{} // Projectile -- Speed ONLY
+{14}{} // Hit
+{15}{} // Secondary Hit
+
+{20}{bp_weapon_axe}
+{21}{} // Power Gather
+{22}{} // Fire
+{23}{} // Projectile -- Speed ONLY
+{24}{} // Hit
+{25}{} // Secondary Hit
+
+{30}{bp_weapon_mace}
+{31}{} // Power Gather
+{32}{} // Fire
+{33}{} // Projectile -- Speed ONLY
+{34}{} // Hit
+{35}{} // Secondary Hit
+
+{40}{bp_weapon_pistol}
+{41}{} // Power Gather
+{42}{Art: 370, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{43}{} // Projectile -- Speed ONLY
+{44}{} // Hit
+{45}{} // Secondary Hit
+
+{50}{bp_weapon_two_handed_sword}
+{51}{} // Power Gather
+{52}{} // Fire
+{53}{} // Projectile -- Speed ONLY
+{54}{} // Hit
+{55}{} // Secondary Hit
+
+{60}{bp_weapon_bow}
+{61}{} // Power Gather
+{62}{} // Fire
+{63}{} // Projectile -- Speed ONLY
+{64}{} // Hit
+{65}{} // Secondary Hit
+
+{70}{bp_weapon_shotgun}
+{71}{} // Power Gather
+{72}{Art: 375, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{73}{} // Projectile -- Speed ONLY
+{74}{} // Hit
+{75}{} // Secondary Hit
+
+{80}{bp_weapon_staff}
+{81}{} // Power Gather
+{82}{} // Fire
+{83}{} // Projectile -- Speed ONLY
+{84}{} // Hit
+{85}{} // Secondary Hit
+
+{90}{bp_weapon_envenomed_sword}
+{91}{} // Power Gather
+{92}{} // Fire
+{93}{} // Projectile -- Speed ONLY
+{94}{} // Hit
+{95}{} // Secondary Hit
+
+{100}{bp_weapon_elephant_gun}
+{101}{} // Power Gather
+{102}{Art: 422, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{103}{} // Projectile -- Speed ONLY
+{104}{} // Hit
+{105}{} // Secondary Hit
+
+{110}{bp_weapon_tesla_rod}
+{111}{} // Power Gather
+{112}{Sound: 15040} // Fire
+{113}{} // Projectile -- Speed ONLY
+{114}{Art: 150, Palette: 1, Scale: 100%, Blend: Add, Sound: 24105, Flags: overlay_fb | animates, Light: 8}	// Hit
+{115}{Art: 349, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates}	// Secondary Hit
+
+{120}{bp_weapon_flame_thrower}
+{121}{} // Power Gather
+{122}{Art: 423, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{123}{} // Projectile -- Speed ONLY
+{124}{} // Hit
+{125}{Art: 349, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates} // Secondary Hit
+
+{130}{bp_weapon_enchanted_sword}
+{131}{} // Power Gather
+{132}{} // Fire
+{133}{} // Projectile -- Speed ONLY
+{134}{} // Hit
+{135}{} // Secondary Hit
+
+{140}{bp_weapon_unused}
+{141}{} // Power Gather
+{142}{} // Fire
+{143}{} // Projectile -- Speed ONLY
+{144}{} // Hit
+{145}{} // Secondary Hit
+
+{150}{bp_weapon_fine_revolver}
+{151}{} // Power Gather
+{152}{Art: 370, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{153}{} // Projectile -- Speed ONLY
+{154}{} // Hit
+{155}{} // Secondary Hit
+
+{160}{bp_weapon_repeater_rifle}
+{161}{} // Power Gather
+{162}{Art: 375, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{163}{} // Projectile -- Speed ONLY
+{164}{} // Hit
+{165}{} // Secondary Hit
+
+{170}{bp_weapon_hunting_rifle}
+{171}{} // Power Gather
+{172}{Art: 375, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{173}{} // Projectile -- Speed ONLY
+{174}{} // Hit
+{175}{} // Secondary Hit
+
+{180}{bp_weapon_railroad_spike}
+{181}{} // Power Gather
+{182}{} // Fire
+{183}{} // Projectile -- Speed ONLY
+{184}{} // Hit
+{185}{} // Secondary Hit
+
+{190}{bp_weapon_balanced_sword}
+{191}{} // Power Gather
+{192}{} // Fire
+{193}{} // Projectile -- Speed ONLY
+{194}{} // Hit
+{195}{} // Secondary Hit
+
+{200}{bp_weapon_bronwycks_gun}
+{201}{} // Power Gather
+{202}{} // Fire
+{203}{Proj Speed: 1} // Projectile -- Speed ONLY
+{204}{Art: 398, Palette: 1, Scale: 100%, Blend: Add, Sound: 8827, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Hit
+{205}{Art: 349, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates} // Secondary Hit
+
+{210}{bp_weapon_rusty_dagger}
+{211}{} // Power Gather
+{212}{} // Fire
+{213}{} // Projectile -- Speed ONLY
+{214}{} // Hit
+{215}{} // Secondary Hit
+
+{220}{bp_weapon_fine_steel_dagger}
+{221}{} // Power Gather
+{222}{} // Fire
+{223}{} // Projectile -- Speed ONLY
+{224}{} // Hit
+{225}{} // Secondary Hit
+
+{230}{bp_weapon_throwing_dagger}
+{231}{} // Power Gather
+{232}{} // Fire
+{233}{} // Projectile -- Speed ONLY
+{234}{} // Hit
+{235}{} // Secondary Hit
+
+{240}{bp_weapon_mechanical_dagger}
+{241}{} // Power Gather
+{242}{} // Fire
+{243}{} // Projectile -- Speed ONLY
+{244}{} // Hit
+{245}{} // Secondary Hit
+
+{250}{bp_weapon_mages_dagger}
+{251}{} // Power Gather
+{252}{} // Fire
+{253}{} // Projectile -- Speed ONLY
+{254}{} // Hit
+{255}{} // Secondary Hit
+
+{260}{bp_weapon_dagger_of_speed}
+{261}{} // Power Gather
+{262}{} // Fire
+{263}{} // Projectile -- Speed ONLY
+{264}{} // Hit
+{265}{} // Secondary Hit
+
+{270}{bp_weapon_rusty_sword}
+{271}{} // Power Gather
+{272}{} // Fire
+{273}{} // Projectile -- Speed ONLY
+{274}{} // Hit
+{275}{} // Secondary Hit
+
+{280}{bp_weapon_quality_sword}
+{281}{} // Power Gather
+{282}{} // Fire
+{283}{} // Projectile -- Speed ONLY
+{284}{} // Hit
+{285}{} // Secondary Hit
+
+{290}{bp_weapon_elegant_sword}
+{291}{} // Power Gather
+{292}{} // Fire
+{293}{} // Projectile -- Speed ONLY
+{294}{} // Hit
+{295}{} // Secondary Hit
+
+{300}{bp_weapon_rapier}
+{301}{} // Power Gather
+{302}{} // Fire
+{303}{} // Projectile -- Speed ONLY
+{304}{} // Hit
+{305}{} // Secondary Hit
+
+{310}{bp_weapon_fancy_rapier}
+{311}{} // Power Gather
+{312}{} // Fire
+{313}{} // Projectile -- Speed ONLY
+{314}{} // Hit
+{315}{} // Secondary Hit
+
+{320}{bp_weapon_scimitar}
+{321}{} // Power Gather
+{322}{} // Fire
+{323}{} // Projectile -- Speed ONLY
+{324}{} // Hit
+{325}{} // Secondary Hit
+
+{330}{bp_weapon_katana}
+{331}{} // Power Gather
+{332}{} // Fire
+{333}{} // Projectile -- Speed ONLY
+{334}{} // Hit
+{335}{} // Secondary Hit
+
+{340}{bp_weapon_falchion}
+{341}{} // Power Gather
+{342}{} // Fire
+{343}{} // Projectile -- Speed ONLY
+{344}{} // Hit
+{345}{} // Secondary Hit
+
+{350}{bp_weapon_sword_of_defense}
+{351}{} // Power Gather
+{352}{} // Fire
+{353}{} // Projectile -- Speed ONLY
+{354}{} // Hit
+{355}{} // Secondary Hit
+
+{360}{bp_weapon_stillwater_blade}
+{361}{} // Power Gather
+{362}{} // Fire
+{363}{} // Projectile -- Speed ONLY
+{364}{} // Hit
+{365}{} // Secondary Hit
+
+{370}{bp_weapon_rusty_axe}
+{371}{} // Power Gather
+{372}{} // Fire
+{373}{} // Projectile -- Speed ONLY
+{374}{} // Hit
+{375}{} // Secondary Hit
+
+{380}{bp_weapon_quality_axe}
+{381}{} // Power Gather
+{382}{} // Fire
+{383}{} // Projectile -- Speed ONLY
+{384}{} // Hit
+{385}{} // Secondary Hit
+
+{390}{bp_weapon_power_axe}
+{391}{} // Power Gather
+{392}{} // Fire
+{393}{} // Projectile -- Speed ONLY
+{394}{} // Hit
+{395}{} // Secondary Hit
+
+{400}{bp_weapon_ultralite_axe}
+{401}{} // Power Gather
+{402}{} // Fire
+{403}{} // Projectile -- Speed ONLY
+{404}{} // Hit
+{405}{} // Secondary Hit
+
+{410}{bp_weapon_reapers_axe}
+{411}{} // Power Gather
+{412}{} // Fire
+{413}{} // Projectile -- Speed ONLY
+{414}{} // Hit
+{415}{} // Secondary Hit
+
+{420}{bp_weapon_axe_of_strength}
+{421}{} // Power Gather
+{422}{} // Fire
+{423}{} // Projectile -- Speed ONLY
+{424}{} // Hit
+{425}{} // Secondary Hit
+
+{430}{bp_weapon_rusty_mace}
+{431}{} // Power Gather
+{432}{} // Fire
+{433}{} // Projectile -- Speed ONLY
+{434}{} // Hit
+{435}{} // Secondary Hit
+
+{440}{bp_weapon_quality_mace}
+{441}{} // Power Gather
+{442}{} // Fire
+{443}{} // Projectile -- Speed ONLY
+{444}{} // Hit
+{445}{} // Secondary Hit
+
+{450}{bp_weapon_hammer}
+{451}{} // Power Gather
+{452}{} // Fire
+{453}{} // Projectile -- Speed ONLY
+{454}{} // Hit
+{455}{} // Secondary Hit
+
+{460}{bp_weapon_rusty_hammer}
+{461}{} // Power Gather
+{462}{} // Fire
+{463}{} // Projectile -- Speed ONLY
+{464}{} // Hit
+{465}{} // Secondary Hit
+
+{470}{bp_weapon_quality_hammer}
+{471}{} // Power Gather
+{472}{} // Fire
+{473}{} // Projectile -- Speed ONLY
+{474}{} // Hit
+{475}{} // Secondary Hit
+
+{480}{bp_weapon_machined_hammer}
+{481}{} // Power Gather
+{482}{} // Fire
+{483}{} // Projectile -- Speed ONLY
+{484}{} // Hit
+{485}{} // Secondary Hit
+
+{490}{bp_weapon_crushing_hammer}
+{491}{} // Power Gather
+{492}{} // Fire
+{493}{} // Projectile -- Speed ONLY
+{494}{} // Hit
+{495}{} // Secondary Hit
+
+{500}{bp_weapon_inferno_hammer}
+{501}{} // Power Gather
+{502}{} // Fire
+{503}{} // Projectile -- Speed ONLY
+{504}{} // Hit
+{505}{} // Secondary Hit
+
+{510}{bp_weapon_old_revolver}
+{511}{} // Power Gather
+{512}{Art: 370, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{513}{} // Projectile -- Speed ONLY
+{514}{} // Hit
+{515}{} // Secondary Hit
+
+{520}{bp_weapon_flintlock_pistol}
+{521}{} // Power Gather
+{522}{Art: 370, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{523}{} // Projectile -- Speed ONLY
+{524}{} // Hit
+{525}{} // Secondary Hit
+
+{530}{bp_weapon_old_flintlock}
+{531}{} // Power Gather
+{532}{Art: 370, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{533}{} // Projectile -- Speed ONLY
+{534}{} // Hit
+{535}{} // Secondary Hit
+
+{540}{bp_weapon_quality_revolver}
+{541}{} // Power Gather
+{542}{Art: 370, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{543}{} // Projectile -- Speed ONLY
+{544}{} // Hit
+{545}{} // Secondary Hit
+
+{550}{bp_weapon_hushed_pistol}
+{551}{} // Power Gather
+{552}{Art: 370, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{553}{} // Projectile -- Speed ONLY
+{554}{} // Hit
+{555}{} // Secondary Hit
+
+{560}{bp_weapon_high_velocity_pistol}
+{561}{} // Power Gather
+{562}{Art: 370, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{563}{} // Projectile -- Speed ONLY
+{564}{} // Hit
+{565}{} // Secondary Hit
+
+{570}{bp_weapon_fancy_pistol}
+{571}{} // Power Gather
+{572}{Art: 370, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{573}{} // Projectile -- Speed ONLY
+{574}{} // Hit
+{575}{} // Secondary Hit
+
+{580}{bp_weapon_schrecks_pistol}
+{581}{} // Power Gather
+{582}{Art: 370, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{583}{} // Projectile -- Speed ONLY
+{584}{} // Hit
+{585}{} // Secondary Hit
+
+{590}{bp_weapon_long_range_pistol}
+{591}{} // Power Gather
+{592}{Art: 370, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{593}{} // Projectile -- Speed ONLY
+{594}{} // Hit
+{595}{} // Secondary Hit
+
+{600}{bp_weapon_quality_broadsword}
+{601}{} // Power Gather
+{602}{} // Fire
+{603}{} // Projectile -- Speed ONLY
+{604}{} // Hit
+{605}{} // Secondary Hit
+
+{610}{bp_weapon_rusty_broadsword}
+{611}{} // Power Gather
+{612}{} // Fire
+{613}{} // Projectile -- Speed ONLY
+{614}{} // Hit
+{615}{} // Secondary Hit
+
+{620}{bp_weapon_claymore}
+{621}{} // Power Gather
+{622}{} // Fire
+{623}{} // Projectile -- Speed ONLY
+{624}{} // Hit
+{625}{} // Secondary Hit
+
+{630}{bp_weapon_flamberge}
+{631}{} // Power Gather
+{632}{} // Fire
+{633}{} // Projectile -- Speed ONLY
+{634}{} // Hit
+{635}{} // Secondary Hit
+
+{640}{bp_weapon_barbarian_blade}
+{641}{} // Power Gather
+{642}{} // Fire
+{643}{} // Projectile -- Speed ONLY
+{644}{} // Hit
+{645}{} // Secondary Hit
+
+{650}{bp_weapon_sword_of_air}
+{651}{} // Power Gather
+{652}{} // Fire
+{653}{} // Projectile -- Speed ONLY
+{654}{} // Hit
+{655}{} // Secondary Hit
+
+{660}{bp_weapon_sword_of_sickness}
+{661}{} // Power Gather
+{662}{} // Fire
+{663}{} // Projectile -- Speed ONLY
+{664}{} // Hit
+{665}{} // Secondary Hit
+
+{670}{bp_weapon_compound_bow}
+{671}{} // Power Gather
+{672}{} // Fire
+{673}{} // Projectile -- Speed ONLY
+{674}{} // Hit
+{675}{} // Secondary Hit
+
+{680}{bp_weapon_short_bow}
+{681}{} // Power Gather
+{682}{} // Fire
+{683}{} // Projectile -- Speed ONLY
+{684}{} // Hit
+{685}{} // Secondary Hit
+
+{690}{bp_weapon_long_bow}
+{691}{} // Power Gather
+{692}{} // Fire
+{693}{} // Projectile -- Speed ONLY
+{694}{} // Hit
+{695}{} // Secondary Hit
+
+{700}{bp_weapon_elven_bow}
+{701}{} // Power Gather
+{702}{} // Fire
+{703}{} // Projectile -- Speed ONLY
+{704}{} // Hit
+{705}{} // Secondary Hit
+
+{710}{bp_weapon_bow_of_terror}
+{711}{} // Power Gather
+{712}{} // Fire
+{713}{} // Projectile -- Speed ONLY
+{714}{} // Hit
+{715}{} // Secondary Hit
+
+{720}{bp_weapon_folding_rifle}
+{721}{} // Power Gather
+{722}{Art: 375, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{723}{} // Projectile -- Speed ONLY
+{724}{} // Hit
+{725}{} // Secondary Hit
+
+{730}{bp_weapon_repeater_rifle1}
+{731}{} // Power Gather
+{732}{Art: 375, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{733}{} // Projectile -- Speed ONLY
+{734}{} // Hit
+{735}{} // Secondary Hit
+
+{740}{bp_weapon_repeater_rifle2}
+{741}{} // Power Gather
+{742}{Art: 375, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{743}{} // Projectile -- Speed ONLY
+{744}{} // Hit
+{745}{} // Secondary Hit
+
+{750}{bp_weapon_mechanized_gun}
+{751}{} // Power Gather
+{752}{Art: 375, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{753}{} // Projectile -- Speed ONLY
+{754}{} // Hit
+{755}{} // Secondary Hit
+
+{760}{bp_weapon_looking_glass_rifle}
+{761}{} // Power Gather
+{762}{Art: 375, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{763}{} // Projectile -- Speed ONLY
+{764}{} // Hit
+{765}{} // Secondary Hit
+
+{770}{bp_weapon_marksman_rifle}
+{771}{} // Power Gather
+{772}{Art: 375, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{773}{} // Projectile -- Speed ONLY
+{774}{} // Hit
+{775}{} // Secondary Hit
+
+{780}{bp_weapon_levered_machine_gun}
+{781}{} // Power Gather
+{782}{Art: 375, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{783}{} // Projectile -- Speed ONLY
+{784}{} // Hit
+{785}{} // Secondary Hit
+
+{790}{bp_weapon_rifle}
+{791}{} // Power Gather
+{792}{Art: 375, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{793}{} // Projectile -- Speed ONLY
+{794}{} // Hit
+{795}{} // Secondary Hit
+
+{800}{bp_weapon_rusted_rifle}
+{801}{} // Power Gather
+{802}{Art: 375, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{803}{} // Projectile -- Speed ONLY
+{804}{} // Hit
+{805}{} // Secondary Hit
+
+{810}{bp_weapon_shocking_staff}
+{811}{} // Power Gather
+{812}{} // Fire
+{813}{} // Projectile -- Speed ONLY
+{814}{} // Hit
+{815}{} // Secondary Hit
+
+{820}{bp_weapon_quality_staff}
+{821}{} // Power Gather
+{822}{} // Fire
+{823}{} // Projectile -- Speed ONLY
+{824}{} // Hit
+{825}{} // Secondary Hit
+
+{830}{bp_weapon_staff_of_healing}
+{831}{} // Power Gather
+{832}{} // Fire
+{833}{} // Projectile -- Speed ONLY
+{834}{} // Hit
+{835}{} // Secondary Hit
+
+{840}{bp_weapon_shamans_staff}
+{841}{} // Power Gather
+{842}{} // Fire
+{843}{} // Projectile -- Speed ONLY
+{844}{} // Hit
+{845}{} // Secondary Hit
+
+{850}{bp_weapon_mages_staff}
+{851}{} // Power Gather
+{852}{} // Fire
+{853}{} // Projectile -- Speed ONLY
+{854}{} // Hit
+{855}{} // Secondary Hit
+
+{860}{bp_weapon_hushed_revolver}
+{861}{} // Power Gather
+{862}{Art: 370, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{863}{} // Projectile -- Speed ONLY
+{864}{} // Hit
+{865}{} // Secondary Hit
+
+{870}{bp_weapon_crude_flintlock_pistol}
+{871}{} // Power Gather
+{872}{Art: 370, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{873}{} // Projectile -- Speed ONLY
+{874}{} // Hit
+{875}{} // Secondary Hit
+
+{880}{bp_weapon_large_pipe}
+{881}{} // Power Gather
+{882}{} // Fire
+{883}{} // Projectile -- Speed ONLY
+{884}{} // Hit
+{885}{} // Secondary Hit
+
+{890}{bp_weapon_hand_cannon}
+{891}{} // Power Gather
+{892}{Art: 376, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{893}{} // Projectile -- Speed ONLY
+{894}{} // Hit
+{895}{} // Secondary Hit
+
+{900}{bp_weapon_clarington_rifle}
+{901}{} // Power Gather
+{902}{Art: 375, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)} // Fire
+{903}{} // Projectile -- Speed ONLY
+{904}{} // Hit
+{905}{} // Secondary Hit
+
+{910}{bp_weapon_filament_sword}
+{911}{} // Power Gather
+{912}{} // Fire
+{913}{} // Projectile -- Speed ONLY
+{914}{} // Hit
+{915}{} // Secondary Hit
+
+{920}{bp_weapon_finely_crafted_dagger}
+{921}{} // Power Gather
+{922}{} // Fire
+{923}{} // Projectile -- Speed ONLY
+{924}{} // Hit
+{925}{} // Secondary Hit
+
+{930}{bp_weapon_charmed_dagger}
+{931}{} // Power Gather
+{932}{} // Fire
+{933}{} // Projectile -- Speed ONLY
+{934}{} // Hit
+{935}{} // Secondary Hit
+
+{940}{bp_weapon_magick_dagger}
+{941}{} // Power Gather
+{942}{} // Fire
+{943}{} // Projectile -- Speed ONLY
+{944}{} // Hit
+{945}{} // Secondary Hit
+
+{950}{bp_weapon_mystic_dagger}
+{951}{} // Power Gather
+{952}{} // Fire
+{953}{} // Projectile -- Speed ONLY
+{954}{} // Hit
+{955}{} // Secondary Hit
+
+{960}{bp_weapon_arcane_dagger}
+{961}{} // Power Gather
+{962}{} // Fire
+{963}{} // Projectile -- Speed ONLY
+{964}{} // Hit
+{965}{} // Secondary Hit
+
+{970}{bp_weapon_charged_sword}
+{971}{} // Power Gather
+{972}{} // Fire
+{973}{} // Projectile -- Speed ONLY
+{974}{} // Hit
+{975}{} // Secondary Hit
+
+{980}{bp_weapon_charmed_sword}
+{981}{} // Power Gather
+{982}{} // Fire
+{983}{} // Projectile -- Speed ONLY
+{984}{} // Hit
+{985}{} // Secondary Hit
+
+{990}{bp_weapon_magick_sword}
+{991}{} // Power Gather
+{992}{} // Fire
+{993}{} // Projectile -- Speed ONLY
+{994}{} // Hit
+{995}{} // Secondary Hit
+
+{1000}{bp_weapon_mystic_sword}
+{1001}{} // Power Gather
+{1002}{} // Fire
+{1003}{} // Projectile -- Speed ONLY
+{1004}{} // Hit
+{1005}{} // Secondary Hit
+
+{1010}{bp_weapon_arcane_sword}
+{1011}{} // Power Gather
+{1012}{} // Fire
+{1013}{} // Projectile -- Speed ONLY
+{1014}{} // Hit
+{1015}{} // Secondary Hit
+
+{1020}{bp_weapon_envenomed_axe}
+{1021}{} // Power Gather
+{1022}{} // Fire
+{1023}{} // Projectile -- Speed ONLY
+{1024}{} // Hit
+{1025}{} // Secondary Hit
+
+{1030}{bp_weapon_charged_axe}
+{1031}{} // Power Gather
+{1032}{} // Fire
+{1033}{} // Projectile -- Speed ONLY
+{1034}{} // Hit
+{1035}{} // Secondary Hit
+
+{1040}{bp_weapon_pyrotechnic_axe}
+{1041}{} // Power Gather
+{1042}{} // Fire
+{1043}{} // Projectile -- Speed ONLY
+{1044}{} // Hit
+{1045}{} // Secondary Hit
+
+{1050}{bp_weapon_charmed_axe}
+{1051}{} // Power Gather
+{1052}{} // Fire
+{1053}{} // Projectile -- Speed ONLY
+{1054}{} // Hit
+{1055}{} // Secondary Hit
+
+{1060}{bp_weapon_magick_axe}
+{1061}{} // Power Gather
+{1062}{} // Fire
+{1063}{} // Projectile -- Speed ONLY
+{1064}{} // Hit
+{1065}{} // Secondary Hit
+
+{1070}{bp_weapon_mystic_axe}
+{1071}{} // Power Gather
+{1072}{} // Fire
+{1073}{} // Projectile -- Speed ONLY
+{1074}{} // Hit
+{1075}{} // Secondary Hit
+
+{1080}{bp_weapon_arcane_axe}
+{1081}{} // Power Gather
+{1082}{} // Fire
+{1083}{} // Projectile -- Speed ONLY
+{1084}{} // Hit
+{1085}{} // Secondary Hit
+
+{1090}{bp_weapon_charmed_mace}
+{1091}{} // Power Gather
+{1092}{} // Fire
+{1093}{} // Projectile -- Speed ONLY
+{1094}{} // Hit
+{1095}{} // Secondary Hit
+
+{1100}{bp_weapon_magick_mace}
+{1101}{} // Power Gather
+{1102}{} // Fire
+{1103}{} // Projectile -- Speed ONLY
+{1104}{} // Hit
+{1105}{} // Secondary Hit
+
+{1110}{bp_weapon_mystic_mace}
+{1111}{} // Power Gather
+{1112}{} // Fire
+{1113}{} // Projectile -- Speed ONLY
+{1114}{} // Hit
+{1115}{} // Secondary Hit
+
+{1120}{bp_weapon_arcane_mace}
+{1121}{} // Power Gather
+{1122}{} // Fire
+{1123}{} // Projectile -- Speed ONLY
+{1124}{} // Hit
+{1125}{} // Secondary Hit
+
+{1130}{bp_weapon_charmed_great_sword}
+{1131}{} // Power Gather
+{1132}{} // Fire
+{1133}{} // Projectile -- Speed ONLY
+{1134}{} // Hit
+{1135}{} // Secondary Hit
+
+{1140}{bp_weapon_magick_great_sword}
+{1141}{} // Power Gather
+{1142}{} // Fire
+{1143}{} // Projectile -- Speed ONLY
+{1144}{} // Hit
+{1145}{} // Secondary Hit
+
+{1150}{bp_weapon_mystic_great_sword}
+{1151}{} // Power Gather
+{1152}{} // Fire
+{1153}{} // Projectile -- Speed ONLY
+{1154}{} // Hit
+{1155}{} // Secondary Hit
+
+{1160}{bp_weapon_arcane_great_sword}
+{1161}{} // Power Gather
+{1162}{} // Fire
+{1163}{} // Projectile -- Speed ONLY
+{1164}{} // Hit
+{1165}{} // Secondary Hit
+
+{1170}{bp_weapon_pyrotechnic_bow}
+{1171}{} // Power Gather
+{1172}{} // Fire
+{1173}{} // Projectile -- Speed ONLY
+{1174}{} // Hit
+{1175}{} // Secondary Hit
+
+{1180}{bp_weapon_envenomed_bow}
+{1181}{} // Power Gather
+{1182}{} // Fire
+{1183}{} // Projectile -- Speed ONLY
+{1184}{} // Hit
+{1185}{} // Secondary Hit
+
+{1190}{bp_weapon_charmed_bow}
+{1191}{} // Power Gather
+{1192}{} // Fire
+{1193}{} // Projectile -- Speed ONLY
+{1194}{} // Hit
+{1195}{} // Secondary Hit
+
+{1200}{bp_weapon_magick_bow}
+{1201}{} // Power Gather
+{1202}{} // Fire
+{1203}{} // Projectile -- Speed ONLY
+{1204}{} // Hit
+{1205}{} // Secondary Hit
+
+{1210}{bp_weapon_mystic_bow}
+{1211}{} // Power Gather
+{1212}{} // Fire
+{1213}{} // Projectile -- Speed ONLY
+{1214}{} // Hit
+{1215}{} // Secondary Hit
+
+{1220}{bp_weapon_arcane_bow}
+{1221}{} // Power Gather
+{1222}{} // Fire
+{1223}{} // Projectile -- Speed ONLY
+{1224}{} // Hit
+{1225}{} // Secondary Hit
+
+{1230}{bp_weapon_rifled_cannon}
+{1231}{} // Power Gather
+{1232}{} // Fire
+{1233}{} // Projectile -- Speed ONLY
+{1234}{} // Hit
+{1235}{} // Secondary Hit
+
+{1240}{bp_weapon_acid_gun}
+{1241}{} // Power Gather
+{1242}{} // Fire
+{1243}{} // Projectile -- Speed ONLY
+{1244}{} // Hit
+{1245}{} // Secondary Hit
+
+{1250}{bp_weapon_tesla_gun}
+{1251}{} // Power Gather
+{1252}{} // Fire
+{1253}{} // Projectile -- Speed ONLY
+{1254}{} // Hit
+{1255}{} // Secondary Hit
+
+{1260}{bp_weapon_grenade_launcher}
+{1261}{} // Power Gather
+{1262}{} // Fire
+{1263}{} // Projectile -- Speed ONLY
+{1264}{} // Hit
+{1265}{} // Secondary Hit
+
+{1270}{bp_weapon_accelerator_gun}
+{1271}{} // Power Gather
+{1272}{} // Fire
+{1273}{} // Projectile -- Speed ONLY
+{1274}{} // Hit
+{1275}{} // Secondary Hit
+
+{1280}{bp_weapon_blade_launcher}
+{1281}{} // Power Gather
+{1282}{} // Fire
+{1283}{} // Projectile -- Speed ONLY
+{1284}{} // Hit
+{1285}{} // Secondary Hit
+
+{1290}{bp_weapon_pyrotechnic_gun}
+{1291}{} // Power Gather
+{1292}{} // Fire
+{1293}{} // Projectile -- Speed ONLY
+{1294}{} // Hit
+{1295}{} // Secondary Hit
+
+{1300}{bp_weapon_tranquilizer_gun}
+{1301}{} // Power Gather
+{1302}{} // Fire
+{1303}{} // Projectile -- Speed ONLY
+{1304}{} // Hit
+{1305}{} // Secondary Hit
+
+{1310}{bp_weapon_charmed_staff}
+{1311}{} // Power Gather
+{1312}{} // Fire
+{1313}{} // Projectile -- Speed ONLY
+{1314}{} // Hit
+{1315}{} // Secondary Hit
+
+{1320}{bp_weapon_magick_staff}
+{1321}{} // Power Gather
+{1322}{} // Fire
+{1323}{} // Projectile -- Speed ONLY
+{1324}{} // Hit
+{1325}{} // Secondary Hit
+
+{1330}{bp_weapon_mystic_staff}
+{1331}{} // Power Gather
+{1332}{} // Fire
+{1333}{} // Projectile -- Speed ONLY
+{1334}{} // Hit
+{1335}{} // Secondary Hit
+
+{1340}{bp_weapon_arcane_staff}
+{1341}{} // Power Gather
+{1342}{} // Fire
+{1343}{} // Projectile -- Speed ONLY
+{1344}{} // Hit
+{1345}{} // Secondary Hit
+
+{1350}{bp_weapon_boomerang}
+{1351}{} // Power Gather
+{1352}{} // Fire
+{1353}{Proj Speed: 2} // Projectile -- Speed ONLY
+{1354}{} // Hit
+{1355}{} // Secondary Hit
+
+{1360}{bp_weapon_boomerang_bladed}
+{1361}{} // Power Gather
+{1362}{} // Fire
+{1363}{Proj Speed: 2} // Projectile -- Speed ONLY
+{1364}{} // Hit
+{1365}{} // Secondary Hit
+
+{1370}{bp_weapon_boomerang_balanced}
+{1371}{} // Power Gather
+{1372}{} // Fire
+{1373}{Proj Speed: 2} // Projectile -- Speed ONLY
+{1374}{} // Hit
+{1375}{} // Secondary Hit
+
+{1380}{bp_weapon_chakram}
+{1381}{} // Power Gather
+{1382}{} // Fire
+{1383}{Proj Speed: 2} // Projectile -- Speed ONLY
+{1384}{} // Hit
+{1385}{} // Secondary Hit
+
+{1390}{bp_weapon_chakram_serrated}
+{1391}{} // Power Gather
+{1392}{} // Fire
+{1393}{Proj Speed: 2} // Projectile -- Speed ONLY
+{1394}{} // Hit
+{1395}{} // Secondary Hit
+
+{1400}{bp_weapon_chakram_mystical}
+{1401}{} // Power Gather
+{1402}{} // Fire
+{1403}{Proj Speed: 2} // Projectile -- Speed ONLY
+{1404}{} // Hit
+{1405}{} // Secondary Hit
+
+{1410}{bp_weapon_azrams_star}
+{1411}{} // Power Gather
+{1412}{} // Fire
+{1413}{Proj Speed: 2} // Projectile -- Speed ONLY
+{1414}{} // Hit
+{1415}{} // Secondary Hit
+
+{1420}{bp_weapon_aerial_decapitator}
+{1421}{} // Power Gather
+{1422}{} // Fire
+{1423}{Proj Speed: 2} // Projectile -- Speed ONLY
+{1424}{} // Hit
+{1425}{} // Secondary Hit
+
+{1430}{bp_weapon_void_sword}
+{1431}{} // Power Gather
+{1432}{} // Fire
+{1433}{} // Projectile -- Speed ONLY
+{1434}{} // Hit
+{1435}{} // Secondary Hit
+
+{1440}{bp_weapon_drochs_warbringer}
+{1441}{} // Power Gather
+{1442}{} // Fire
+{1443}{} // Projectile -- Speed ONLY
+{1444}{} // Hit
+{1445}{} // Secondary Hit
+
+{1450}{bp_weapon_large_bore_rifle}
+{1451}{} // Power Gather
+{1452}{} // Fire
+{1453}{} // Projectile -- Speed ONLY
+{1454}{} // Hit
+{1455}{} // Secondary Hit
+
+{1460}{bp_weapon_oak_axe_handle}
+{1461}{} // Power Gather
+{1462}{} // Fire
+{1463}{} // Projectile -- Speed ONLY
+{1464}{} // Hit
+{1465}{} // Secondary Hit
+
+{1470}{bp_weapon_stiletto}
+{1471}{} // Power Gather
+{1472}{} // Fire
+{1473}{} // Projectile -- Speed ONLY
+{1474}{} // Hit
+{1475}{} // Secondary Hit
+
+{1480}{bp_weapon_bone_dagger}
+{1481}{} // Power Gather
+{1482}{} // Fire
+{1483}{} // Projectile -- Speed ONLY
+{1484}{} // Hit
+{1485}{} // Secondary Hit
+
+{1490}{bp_weapon_kite_sword}
+{1491}{} // Power Gather
+{1492}{} // Fire
+{1493}{} // Projectile -- Speed ONLY
+{1494}{} // Hit
+{1495}{} // Secondary Hit

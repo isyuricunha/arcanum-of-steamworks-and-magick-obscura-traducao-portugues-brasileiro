@@ -1,0 +1,76 @@
+{1}{Saudações, companheiro aventureiro!}{Saudações, donzela!}{}{}{}{ }
+{2}{W:}{}{1}{lf1 0}{10}{lf1 1 }
+{3}{Eu queria falar com você sobre a Lâmina de Xerxes...}{}{5}{lf1 1, lf2 0, lf3 0}{160}{ }
+{4}{Preciso que você consiga a lâmina para mim, afinal...}{}{5}{lf2 1, lf3 0}{180}{ }
+{9}{E:}{}{1}{}{0}{ }
+{10}{Eu sou Jyheirad! Nobre guerreiro de Flame Keep! Estes são meus bravos companheiros, Morrawynd, R'yn-Diak e Frondo! Quem poderia ser você?}{Eu sou Jyheirad! Nobre guerreiro de Flame Keep! Estes são meus bravos companheiros, Morrawynd, R'yn-Diak e Frondo! Quem poderia ser você?}{}{}{}{ }
+{11}{Sou conhecido como @pcname@.}{}{5}{}{20}{ }
+{12}{Eu sou o @pcname@!}{}{-4}{}{0}{fl 190}
+{20}{Por favor, conte-me, qual é a sua missão? Você está aqui para recuperar a famosa Lâmina de Xerxes?}{Por favor, conte-me, qual é a sua missão? Você está aqui para recuperar a famosa Lâmina de Xerxes?}{}{}{}{ }
+{21}{Sim, na verdade, estou.}{}{5}{qa1103 1}{30}{ }
+{22}{Hã... por que, sim, estou?}{}{5}{qu1103 0}{30}{ }
+{23}{Não. Por que pergunta?}{}{5}{}{200}{ }
+{30}{Nós também estamos aqui com esse mesmo propósito! Fomos enviados pelo próprio Barão Sug para recuperar a Lâmina! Uma fortuna considerável nos aguarda se tivermos sucesso!}{Nós também estamos aqui com esse mesmo propósito! Fomos enviados pelo próprio Barão Sug para recuperar a Lâmina! Uma fortuna considerável nos aguarda se tivermos sucesso!}{}{}{}{ }
+{31}{Estou aqui por um propósito muito mais nobre do que moedas...}{}{5}{ps12, qa1103 1}{40}{ }
+{32}{Bem, pretendo recuperá-la... você vai tentar me impedir?}{}{5}{}{0}{fl 170}
+{33}{Estou aqui por um propósito muito mais nobre do que moedas...}{}{5}{ps-11}{0}{fl 191}
+{39}{E:}{}{1}{}{0}{ }
+{40}{[Ele parece impressionado.] Sério? E qual seria?}{[Ele parece impressionado.] Sério? E qual seria?}{}{}{}{ }
+{41}{Preciso da lâmina para matar um demônio hediondo.}{}{5}{}{50}{ }
+{42}{Forças demoníacas consumirão o mundo se eu não tiver a lâmina!}{}{5}{}{70}{ }
+{50}{Um demônio insignificante?! Hah! Existem muitas maneiras de matar demônios, meu amigo! A fortuna que podemos ganhar não é facilmente descartada pela sua necessidade de um jeito rápido de despachar um demônio!}{Um demônio insignificante?! Hah! Existem muitas maneiras de matar demônios, meu amigo! A fortuna que podemos ganhar não é facilmente descartada pela sua necessidade de um jeito rápido de despachar um demônio!}{}{}{}{ }
+{51}{Uma cidade inteira está sendo mantida refém por essa besta maligna!}{}{5}{}{100}{ }
+{52}{A lâmina é a única maneira segura de matar esse demônio.}{}{5}{}{60}{ }
+{60}{Acho que você está atrás de um pouco de fortuna, também! Qualquer mago conhece cinquenta maneiras confiáveis de despachar demônios! Desejo-lhe sorte em sua aventura, mas não darei trégua!}{Acho que você está atrás de um pouco de fortuna, também! Qualquer mago conhece cinquenta maneiras confiáveis de despachar demônios! Desejo-lhe sorte em sua aventura, mas não darei trégua!}{}{}{}{ }
+{61}{Você está louco? Este não é algum mundo de fantasia, isto é a realidade!}{}{5}{}{0}{re-5, fl 150}
+{69}{Boa sorte para você também.}{}{5}{}{0}{ }
+{70}{Pelo grande deus Bhuul! [Ele bate o punho na mão.] Qual é a natureza dessa besta?}{Pelo grande deus Bhuul! [Ele bate o punho na mão.] Qual é a natureza dessa besta?}{}{}{}{ }
+{71}{Ele ronda a noite, devorando os corações de suas vítimas!}{}{5}{lf4 0}{130}{ }
+{72}{Ele consome a força vital de suas vítimas apenas olhando para elas!}{}{5}{}{80}{ }
+{73}{Ele ronda a noite, devorando os corações de suas vítimas!}{}{5}{lf4 1}{120}{lf3 1 }
+{80}{[Ele acaricia o queixo pensativamente.] E ele cresce em poder após cada assassinato?}{[Ele acaricia o queixo pensativamente.] E ele cresce em poder após cada assassinato?}{}{}{}{ }
+{81}{Sim! Já está do tamanho de uma pequena montanha!}{}{5}{lf4 1}{120}{lf3 1 }
+{82}{Sim! Já está do tamanho de uma pequena montanha!}{}{5}{lf4 0}{140}{ }
+{83}{Sua refeição preferida é a força vital de crianças pequenas!}{}{5}{}{90}{ }
+{90}{Céus! Precisamos deter essa fera, agora! Malditas sejam nossas míseras fortunas! Espere aqui, voltaremos com a lâmina!}{Céus! Precisamos deter essa fera, agora! Malditas sejam nossas míseras fortunas! Espere aqui, voltaremos com a lâmina!}{}{}{}{ }
+{91}{Que os deuses estejam com você...}{}{5}{}{-4}{ }
+{92}{Muito obrigado, mas acredito que posso lidar com isso...}{}{5}{}{0}{lf2 1, fl 151}
+{100}{Apenas uma cidade? Pensei que você tivesse dito que esse demônio ameaçava o próprio mundo!}{Apenas uma cidade? Pensei que você tivesse dito que esse demônio ameaçava o próprio mundo!}{}{}{}{ }
+{101}{Uma cidade não é importante o suficiente para salvar?}{}{5}{}{110}{lf3 1 }
+{102}{A maior cidade do mundo! E já destruiu outras!}{}{5}{}{70}{lf4 1 }
+{110}{Claro que é... mas há muitas formas de matar um demônio, meu amigo. Acho que você está atrás de um pouco de fortuna, não é? Desejo-lhe sorte em sua aventura, mas não darei trégua!}{Claro que é... mas há muitas formas de matar um demônio, meu amigo. Acho que você está atrás de um pouco de fortuna, não é? Desejo-lhe sorte em sua aventura, mas não darei trégua!}{}{}{}{ }
+{111}{Você está louco? Isto não é algum mundo de fantasia, isto é a realidade!}{}{5}{}{0}{re-5, fl 150}
+{119}{Boa sorte para você também.}{}{5}{}{0}{ }
+{120}{[Ele não parece acreditar em você.] Hah! Isso me parece um demônio bem manso, meu amigo! "Forças demoníacas consumirão o mundo"! Francamente! Acho que você está atrás de um pouco de fortuna, não é? Desejo-lhe sorte em sua aventura, mas não darei trégua!}{[Ele não parece acreditar em você.] Hah! Isso me parece um demônio bem manso, meu amigo! "Forças demoníacas consumirão o mundo"! Francamente! Acho que você está atrás de um pouco de fortuna, não é? Desejo-lhe sorte em sua aventura, mas não darei trégua!}{}{}{}{ }
+{121}{Você está louco? Isto não é algum mundo de fantasia, isto é a realidade!}{}{5}{}{0}{re-5, fl 150}
+{129}{Boa sorte para você também.}{}{5}{}{0}{ }
+{130}{Ele mata suas vítimas uma por uma? Isso não parece uma grande ameaça para o mundo!}{Ele mata suas vítimas uma por uma? Isso não parece uma grande ameaça para o mundo!}{}{}{}{ }
+{131}{O quê? Como pode dizer isso? Cada vida é sagrada!}{}{5}{}{110}{lf3 1 }
+{132}{Eu nunca disse que ele matava apenas uma pessoa por vez, ele mata milhares!}{}{5}{}{90}{ }
+{140}{Uma pequena montanha? Isso parece um pouco... absurdo.}{Uma pequena montanha? Isso parece um pouco... absurdo.}{}{}{}{ }
+{141}{É absurdo quando ele suga a vida de bebês pequenos?!}{}{5}{}{90}{ }
+{142}{Talvez seja mais como uma colina do que uma montanha.}{}{5}{}{120}{ }
+{150}{Vou fingir que não ouvi seus comentários, meu amigo. Você está claramente tomado pela emoção da busca! Desejo-lhe sorte, assim como tenho certeza de que deseja a mim e aos meus companheiros!}{Vou fingir que não ouvi seus comentários, meu amigo. Você está claramente tomado pela emoção da busca! Desejo-lhe sorte, assim como tenho certeza de que deseja a mim e aos meus companheiros!}{}{}{}{ }
+{151}{Então, desejo-lhe sorte.}{Então, desejo-lhe sorte.}{}{}{}{ }
+{160}{Sim, o que é? Estamos nos preparando para recuperar a Lâmina, neste exato momento.}{Sim, o que é? Estamos nos preparando para recuperar a Lâmina, neste exato momento.}{}{}{}{ }
+{161}{Estou aqui por um propósito muito mais nobre do que moedas...}{}{5}{ps12, qa1103 1}{40}{ }
+{162}{Bem, pretendo recuperá-la... vai tentar me impedir?}{}{5}{}{0}{fl 170}
+{163}{Estou aqui por um propósito muito mais nobre do que moedas...}{}{5}{ps-11}{0}{fl 191}
+{169}{E:}{}{1}{}{0}{ }
+{170}{Claro que não! Desejo-lhe sorte em sua empreitada, assim como tenho certeza de que deseja a nós!}{Claro que não! Desejo-lhe sorte em sua empreitada, assim como tenho certeza de que deseja a nós!}{}{}{}{ }
+{180}{Claro! Espere aqui, e retornaremos com a Lâmina!}{Claro! Espere aqui, e retornaremos com a Lâmina!}{}{}{}{ }
+{181}{Estarei esperando.}{}{5}{}{-4}{ }
+{190}{Oh, um idiota da vila! Bem-vindo, amigo!}{Oh, um idiota da vila! Bem-vindo, amigo!}{}{}{}{ }
+{191}{Bem, então, desejo-lhe sorte em sua empreitada, assim como tenho certeza de que deseja a nós!}{Bem, então, desejo-lhe sorte em sua empreitada, assim como tenho certeza de que deseja a nós!}{}{}{}{ }
+{200}{É por isso que estamos aqui, meu amigo! Fomos enviados pelo próprio Barão Sug para recuperar a Lâmina! Uma fortuna considerável aguarda nosso retorno bem-sucedido!}{É por isso que estamos aqui, meu amigo! Fomos enviados pelo próprio Barão Sug para recuperar a Lâmina! Uma fortuna considerável aguarda nosso retorno bem-sucedido!}{}{}{}{ }
+{201}{Eu... hã... falei errado. Estou aqui pela Lâmina. Por uma causa nobre...}{}{5}{ps12, qa1103 1}{40}{ }
+{202}{Eu... hã... falei errado. Estou aqui pela Lâmina. Por uma causa nobre...}{}{5}{ps-11}{0}{fl 191}
+{209}{Boa sorte para você, então.}{}{5}{}{0}{ }
+{210}{Aqui está a Lâmina, meu amigo! Que os deuses acelerem sua jornada!}{Aqui está a Lâmina, meu amigo! Que os deuses acelerem sua jornada!}{}{}{}{in -2021, gf2628 1, gf2630 1 }
+{211}{Obrigado.}{}{5}{}{0}{lf3 1 }
+{220}{Obrigado pela ajuda, amigo, mas temo que você tenha chegado tarde demais...}{Obrigado pela ajuda, amigo, mas temo que você tenha chegado tarde demais...}{}{}{}{ }
+{221}{O que você quer dizer?}{}{5}{}{225}{ }
+{225}{Estou morto...}{Estou morto...}{}{}{}{ }
+{230}{Obrigado por me ressuscitar, meu amigo!}{Obrigado por me ressuscitar, meu amigo!}{}{}{}{ }
+{231}{Isso nem merece ser mencionado, na verdade.}{}{5}{}{0}{lf5 1 }
+

@@ -1,0 +1,156 @@
+{1}{Bem-vindo, viajante. Em que posso ajudá-lo a ver hoje?}{Bem-vindo, viajante. Em que posso ajudá-lo a ver hoje?}{}{}{}{}
+{2}{Hmmm. Talvez você queira primeiro me dizer quem é...}{}{5}{me 0}{10}{}
+{3}{Saudações, Madame Toussaude. Tem um momento?}{}{5}{me 1}{15}{}
+{4}{E:}{}{5}{}{0}{}
+{5}{Hã... quem é você?}{}{-4}{me 0}{10}{}
+{6}{Oi, moça esquisita! Posso falar com você sobre uma coisa?}{}{-4}{me 1}{15}{}
+{7}{E:}{}{-4}{}{0}{}
+{10}{[A mulher à sua frente tem a pele escura, com olhos negros. Está adornada com joias estranhas e xales.] Sou Madame Toussaude, vidente do reino espiritual, uma guia para aqueles que desejam buscar respostas do outro lado...}{[A mulher à sua frente tem a pele escura, com olhos negros. Está adornada com joias estranhas e xales.] Sou Madame Toussaude, vidente do reino espiritual, uma guia para aqueles que desejam buscar respostas do outro lado...}{}{}{}{}
+{11}{Entendo. Posso lhe fazer algumas perguntas, Madame?}{}{5}{}{15}{}
+{12}{Oi, moça esquisita! Posso te fazer umas perguntas?}{}{-4}{}{15}{}
+{15}{Claro... Estou aqui para buscar respostas para TODAS as suas perguntas...}{Claro... Estou aqui para buscar respostas para TODAS as suas perguntas...}{}{}{}{}
+{16}{O que a senhora faz aqui, Madame?}{}{5}{lf2 0}{63}{lf2 1}
+{17}{A senhora pode ver o MEU futuro?}{}{5}{lf2 1}{71}{}
+{18}{Estou investigando o roubo em Garringsburg...}{}{5}{qa1063 1, qb1063 3, lf5 0, qu1065 0}{36}{}
+{19}{Vim falar sobre sua oferta anterior...}{}{5}{qu1065 1, lf4 0}{51}{}
+{20}{Vim falar sobre sua oferta anterior...}{}{5}{qu1065 1, lf4 1}{46}{}
+{21}{Ainda não entreguei aquela bola de cristal...}{}{5}{qu1065 2}{80}{}
+{22}{Entreguei a bola de cristal... um assunto terrível, aquilo...}{}{5}{qu1065 4, lf3 0, lf4 0}{85}{}
+{23}{Entreguei a bola de cristal... um assunto terrível, aquilo...}{}{5}{qu1065 4, lf3 0, lf4 1}{91}{}
+{24}{E:}{}{5}{}{0}{}
+{25}{O que a senhora faz aqui, moça?}{}{-4}{lf2 0}{63}{lf2 1}
+{26}{A senhora vê o MEU futuro?}{}{-4}{lf2 1}{71}{}
+{27}{Preciso falar com você sobre Ga-r-r-ings-bur-g...}{}{-4}{gf2114 1, lf5 0, qb1063 3, qu1065 0}{36}{}
+{28}{Talvez eu te en-tre-gue a bo-la de cris-tal...?}{}{-4}{qu1065 1, lf4 0}{51}{}
+{29}{Talvez eu te en-tre-gue a bo-la de cris-tal...?}{}{-4}{qu1065 1, lf4 1}{46}{}
+{30}{Ainda não en-tre-guei a bo-la de cris-tal...}{}{-4}{qu1065 2}{80}{}
+{31}{Eu dei a bo-la de cris-tal pra senhora... ruim! Ruim! Ruim!}{}{-4}{qu1065 4, lf3 0, lf4 0}{85}{}
+{32}{Eu dei a bo-la de cris-tal pra senhora... ruim! Ruim! Ruim!}{}{-4}{qu1065 4, lf3 0, lf4 1}{91}{}
+{33}{E:}{}{-4}{}{0}{}
+{36}{Sim... também vi coisas sobre isso. Coisas estranhas e ocultas. O que deseja saber?}{Sim... também vi coisas sobre isso. Coisas estranhas e ocultas. O que deseja saber?}{}{}{}{}
+{37}{Onde está o quadro?}{}{5}{}{40}{}
+{38}{Onde está o quadro?}{}{-4}{}{40}{}
+{40}{Ah. Uma informação muito importante, não é? Há algo que preciso DE VOCÊ, viajante. Um presente, preciso que você entregue...}{Ah. Uma informação muito importante, não é? Há algo que preciso DE VOCÊ, viajante. Um presente, preciso que você entregue...}{}{}{}{}
+{41}{Claro. O que gostaria que eu fizesse?}{}{5}{}{51}{}
+{42}{Prefiro não. Mais algumas perguntas?}{}{5}{}{15}{}
+{43}{Hã... tá bom! O que você precisa que eu faça?}{}{-4}{}{51}{}
+{44}{Eu não gosto disso. Mais perguntas?}{}{-4}{}{15}{}
+{46}{Sim... preciso que você entregue minha bola de cristal para Delores Beston. Se fizer isso, eu lhe concederei um presente de minha escolha... você aceita?}{Sim... preciso que você entregue minha bola de cristal para Delores Beston. Se fizer isso, eu lhe concederei um presente de minha escolha... você aceita?}{}{}{}{}
+{47}{Sim.}{}{5}{}{-10}{gf2528 1}
+{48}{Talvez. Voltarei mais tarde.}{}{5}{}{0}{}
+{49}{Claro! Eu faço isso!}{}{-4}{}{-10}{gf2528 1}
+{50}{Talvez. Eu volto mais tarde.}{}{-4}{}{0}{}
+{51}{Gostaria que você entregasse minha bola de cristal para alguém, uma pessoa muito especial - a loja dela fica na Polton Cross. O nome dela é Delores Beston, e acho que ela ficará muito feliz em vê-lo trazendo isso. Se fizer isso, então eu lhe darei as respostas que procura sobre a pintura.}{Gostaria que você entregasse minha bola de cristal para alguém, uma pessoa muito especial - a loja dela fica na Polton Cross. O nome dela é Delores Beston, e acho que ela ficará muito feliz em vê-lo trazendo isso. Se fizer isso, então eu lhe darei as respostas que procura sobre a pintura.}{}{}{}{qu1065 1}
+{52}{Feito.}{}{5}{}{-20}{gf2528 1}
+{53}{Vou pensar no assunto. Mais algumas perguntas?}{}{5}{}{15}{}
+{54}{Certo!}{}{-4}{}{-20}{gf2528 1}
+{55}{Hã... talvez. Mais perguntas...?}{}{-4}{}{15}{}
+{57}{Sim, isso é muito bom. [Ela lhe entrega a bola de cristal e sorri, abrindo lentamente as mãos.] Há mais alguma coisa em que eu possa ajudá-lo?}{Sim, isso é muito bom. [Ela lhe entrega a bola de cristal e sorri, abrindo lentamente as mãos.] Há mais alguma coisa em que eu possa ajudá-lo?}{}{}{}{}
+{58}{Mais algumas perguntas, se não se importa...}{}{5}{}{15}{}
+{59}{E:}{}{5}{}{0}{}
+{60}{Mais perguntas!}{}{-4}{}{15}{}
+{61}{E:}{}{-4}{}{0}{}
+{63}{[Ela sussurra, quase sibilando.] Como eu disse, sou uma vidente. As pessoas vêm até mim com perguntas, e eu faço o que posso para respondê-las. Às vezes [..e ela se inclina na sua direção para enfatizar...] tenho que buscar respostas nas terras dos mortos.}{[Ela sussurra, quase sibilando.] Como eu disse, sou uma vidente. As pessoas vêm até mim com perguntas, e eu faço o que posso para respondê-las. Às vezes [..e ela se inclina na sua direção para enfatizar...] tenho que buscar respostas nas terras dos mortos.}{}{}{}{}
+{64}{Entendo. Você pode ver MEU futuro?}{}{5}{}{71}{}
+{65}{Poderia lhe fazer mais algumas perguntas?}{}{5}{}{15}{}
+{66}{E:}{}{5}{}{0}{}
+{67}{Hã... você vê MEU futuro, senhora?}{}{-4}{}{71}{}
+{68}{Posso lhe fazer algumas perguntas, senhora?}{}{-4}{}{15}{}
+{69}{E:}{}{-4}{}{0}{}
+{71}{[Ela olha para você, sorrindo de maneira estranha.] Já vi seu futuro, viajante. É um futuro estranho, aliás...}{[Ela olha para você, sorrindo de maneira estranha.] Já vi seu futuro, viajante. É um futuro estranho, aliás...}{}{}{}{}
+{72}{O quê? O que você quer dizer?}{}{5}{}{75}{}
+{73}{Hã? Eu nunca te vi antes...}{}{-4}{}{75}{}
+{75}{[Ela sussurra, sombriamente.] Não se preocupe com isso. O futuro é desconhecido, mas inevitável. No fim, ele sempre se concretiza.}{[Ela sussurra, sombriamente.] Não se preocupe com isso. O futuro é desconhecido, mas inevitável. No fim, ele sempre se concretiza.}{}{}{}{}
+{76}{Se você diz. Mais algumas perguntas...}{}{5}{}{15}{}
+{77}{E:}{}{5}{}{0}{}
+{78}{Hã... tá bom. Mais perguntas!}{}{-4}{}{15}{}
+{79}{E:}{}{-4}{}{0}{}
+{80}{[Ela olha para você, seus olhos escuros penetrantes sob cílios espessos.] Então faça isso e volte para mim. Havia mais alguma coisa?}{[Ela olha para você, seus olhos escuros penetrantes sob cílios espessos.] Então faça isso e volte para mim. Havia mais alguma coisa?}{}{}{}{}
+{81}{Sim... mais algumas perguntas...}{}{5}{}{15}{}
+{82}{E:}{}{5}{}{0}{}
+{83}{Hã... mais perguntas!}{}{-4}{}{15}{}
+{84}{E:}{}{-4}{}{0}{}
+{85}{Sim... Delores Beston tentou fugir de seu destino. Como sempre digo, viajante - o futuro é inevitável. Agora... tínhamos um acordo? Você queria saber sobre o roubo, não é?}{Sim... Delores Beston tentou fugir de seu destino. Como sempre digo, viajante - o futuro é inevitável. Agora... tínhamos um acordo? Você queria saber sobre o roubo, não é?}{}{}{}{lf3 1}
+{86}{Sim... poderia me dizer onde está o quadro?}{}{5}{gf2123 0}{95}{}
+{87}{Na verdade... eu já encontrei o quadro...}{}{5}{gf2123 1}{103}{}
+{88}{É! Onde quadro?}{}{-4}{gf2123 0}{95}{}
+{89}{Hã... eu achei já!}{}{-4}{gf2123 1}{103}{}
+{91}{Sim... Delores Beston tentou fugir de seu destino. Como sempre digo, viajante - o futuro é inevitável. Agora... tínhamos um acordo?}{Sim... Delores Beston tentou fugir de seu destino. Como sempre digo, viajante - o futuro é inevitável. Agora... tínhamos um acordo?}{}{}{}{lf3 1}
+{92}{Sim... um pagamento seria bom...}{}{5}{}{103}{}
+{93}{Hã... é! Eu gosto de dinheiro!}{}{-4}{}{103}{}
+{94}{}{}{}{}{}{}
+{95}{[Ela abaixa a cabeça e então a levanta... seus olhos reviram, e seus dedos se estendem às cegas, contorcidos.] Invoco agora os espíritos dos mortos, aqueles que veem todos os segredos deste mundo... por favor... falem comigo... [Ela grita, um berro arrepiante que ecoa na pequena sala. Então, fica em silêncio.]}{[Ela abaixa a cabeça e então a levanta... seus olhos reviram, e seus dedos se estendem às cegas, contorcidos.] Invoco agora os espíritos dos mortos, aqueles que veem todos os segredos deste mundo... por favor... falem comigo... [Ela grita, um berro arrepiante que ecoa na pequena sala. Então, fica em silêncio.]}{}{}{}{ru2197}
+{96}{Madame? A senhora está bem?}{}{5}{}{99}{}
+{97}{Hã... moça esquisita? Tá bem?}{}{-4}{}{99}{}
+{99}{Sim, sim, estou bem. [Ela olha para você, exibindo um sorriso brilhante.] Recebi uma resposta. 57, Viela Mulligan Bone. É o que os espíritos dizem...}{Sim, sim, estou bem. [Ela olha para você, exibindo um sorriso brilhante.] Recebi uma resposta. 57, Viela Mulligan Bone. É o que os espíritos dizem...}{}{}{}{}
+{100}{Agradeço-lhe, senhora. Tenha um bom dia.}{}{5}{}{0}{}
+{101}{Valeu, moça! Tchau!}{}{-4}{}{0}{}
+{103}{Entendo. Talvez haja algo mais que eu possa lhe oferecer... [Ela fecha os olhos e acena uma mão na frente do seu rosto. Você sente algo estranho no ar, mas, fora isso, não sente nada.] Pronto.}{Entendo. Talvez haja algo mais que eu possa lhe oferecer... [Ela fecha os olhos e acena uma mão na frente do seu rosto. Você sente algo estranho no ar, mas, fora isso, não sente nada.] Pronto.}{}{}{}{}
+{104}{O quê? O que a senhora fez?}{}{5}{}{-7}{}
+{105}{O que aconteceu?}{}{-4}{}{-7}{}
+{107}{Você descobrirá, com o tempo. Confie em mim, ficará feliz quando descobrir...}{Você descobrirá, com o tempo. Confie em mim, ficará feliz quando descobrir...}{}{}{}{}
+{108}{Agradeço antecipadamente, então. Tenha um bom dia...}{}{5}{}{0}{}
+{109}{Tá bom! Tchau, moça!}{}{-4}{}{0}{}
+{113}{Olá. Eu estava esperando por você, viajante.}{Olá. Eu estava esperando por você, viajante.}{}{}{}{}
+{114}{Sério? E por que seria?}{}{5}{}{123}{}
+{115}{Estou aqui pela bola de cristal, Madame.}{}{5}{}{138}{}
+{116}{Talvez eu deva ir embora...}{}{5}{}{}{fl 121}
+{117}{Hã... por quê?}{}{-4}{}{123}{}
+{118}{Eu só quero a bola...}{}{-4}{}{138}{}
+{119}{Talvez seja melhor eu ir...}{}{-4}{}{}{fl 121}
+{121}{Muito bem, viajante. Mas teremos que conversar em breve. MUITO em breve...}{Muito bem, viajante. Mas teremos que conversar em breve. MUITO em breve...}{}{}{}{}
+{123}{Acho que você sabe por quê. [Ela olha para você, seus olhos escuros brilhando à luz das velas.] Você esteve conversando com Delores Beston. Eu sei o verdadeiro motivo de você estar aqui, mas acho que VOCÊ não sabe...}{Acho que você sabe por quê. [Ela olha para você, seus olhos escuros brilhando à luz das velas.] Você esteve conversando com Delores Beston. Eu sei o verdadeiro motivo de você estar aqui, mas acho que VOCÊ não sabe...}{}{}{}{}
+{124}{Acho que a senhora não entende, Madame... Eu não tomei nenhuma decisão...}{}{5}{qu1064 1}{133}{}
+{125}{Isso tudo será muito fácil se você simplesmente me der a bola...}{}{5}{qu1064 2}{138}{}
+{126}{O que você quer dizer? Ela só quer a sua bola de cristal...}{}{5}{qu1064 2}{138}{}
+{127}{Talvez seja melhor eu ir...}{}{5}{}{}{fl 121}
+{128}{Hã... Eu não disse que quero algo de você...}{}{-4}{}{133}{}
+{129}{Só me dê a bola agora...}{}{-4}{}{138}{}
+{130}{Do que você está falando?}{}{-4}{}{138}{}
+{131}{E:}{}{-4}{}{}{fl 121}
+{133}{Não, mas você deve escolher. A escolha será feita aqui e agora. [Ela sibila entre os dentes.] Você deve escolher...}{Não, mas você deve escolher. A escolha será feita aqui e agora. [Ela sibila entre os dentes.] Você deve escolher...}{}{}{}{}
+{134}{Por favor... apenas explique...}{}{5}{}{138}{}
+{135}{Eu num intindi...}{}{-4}{}{138}{}
+{138}{[Ela sorri, sombriamente.] Ouça-me. Delores Beston veio à minha loja há não três dias, pedindo para saber seu futuro. Eu disse a ela, viajante... e aqui estamos. Todos nós fazemos parte do que está por vir, e é VOCÊ quem deve escolher...}{[Ela sorri, sombriamente.] Ouça-me. Delores Beston veio à minha loja há não três dias, pedindo para saber seu futuro. Eu disse a ela, viajante... e aqui estamos. Todos nós fazemos parte do que está por vir, e é VOCÊ quem deve escolher...}{}{}{}{}
+{139}{Minha escolha já está feita, cigana. Vou levar a bola...}{}{5}{}{}{co, fl 152}
+{140}{Apenas me diga o que está acontecendo...}{}{5}{}{144}{}
+{141}{Eu num preciso escolher... Já escolhi. EU PEGO A BOLA!!!!}{}{-4}{}{}{co, fl 152}
+{142}{Espere! O que você quer dizer...?}{}{-4}{}{144}{}
+{144}{ESCOLHA, COVARDE, OU EU ESCOLHEREI POR VOCÊ! De que lado você cairá? Do meu, ou de Delores Beston?}{ESCOLHA, COVARDE, OU EU ESCOLHEREI POR VOCÊ! De que lado você cairá? Do meu, ou de Delores Beston?}{}{}{}{}
+{145}{Eu fico do lado da Srta. Beston...}{}{5}{}{}{co, fl 152}
+{146}{Eu estou do seu lado...}{}{5}{}{155}{lf5 1}
+{147}{Droga! Eu não vou escolher! Não serei forçado a isso!}{}{5}{}{}{co, fl 153}
+{148}{Hã... Dona Beston!}{}{-4}{}{}{co, fl 152}
+{149}{Você! Eu estou do seu lado!}{}{-4}{}{155}{lf5 1}
+{150}{Ninguém! Eu não quero escolher!}{}{-4}{}{}{co, fl 153}
+{152}{Muito bem! Que os destinos decidam!}{Muito bem! Que os destinos decidam!}{}{}{}{}
+{153}{Eu avisei! Eu decidirei por todos nós!!!!}{Eu avisei! Eu decidirei por todos nós!!!!}{}{}{}{}
+{155}{[O fogo nos olhos dela se acalma. Ela sussurra...] Muito bem. Acredito que você tenha escolhido sabiamente, viajante. Você pode ficar com a bola de cristal. Só peço que a leve até Delores e a entregue a ela...}{[O fogo nos olhos dela se acalma. Ela sussurra...] Muito bem. Acredito que você tenha escolhido sabiamente, viajante. Você pode ficar com a bola de cristal. Só peço que a leve até Delores e a entregue a ela...}{}{}{}{qu1065 1}
+{156}{O quê? Mas eu pensei...}{}{5}{}{161}{}
+{157}{HÃ? Agora estou realmente confuso...}{}{-4}{}{161}{}
+{161}{As coisas nem sempre são o que parecem, viajante. Peço que faça isso por mim... você fará?}{As coisas nem sempre são o que parecem, viajante. Peço que faça isso por mim... você fará?}{}{}{}{}
+{162}{O que eu ganho em troca?}{}{5}{qb1063 3}{170}{}
+{163}{O que eu ganho em troca?}{}{5}{qa1063 4}{187}{lf4 1}
+{164}{O que eu ganho se fizer isso?}{}{-4}{qb1063 3}{170}{}
+{165}{O que eu ganho se fizer isso?}{}{-4}{qa1063 4}{187}{lf4 1}
+{170}{Se fizer essa pequena coisa, eu lhe darei algumas informações sobre o roubo em Garringsburg...}{Se fizer essa pequena coisa, eu lhe darei algumas informações sobre o roubo em Garringsburg...}{}{}{}{}
+{171}{O quê? Eu não ouvi falar de nenhum roubo...}{}{5}{gf2110 0}{178}{}
+{172}{Hmmm. Parece bom. Eu farei.}{}{5}{gf2110 1}{-10}{gf2528 1 }
+{173}{Não sei. Voltarei mais tarde...}{}{5}{}{0}{}
+{174}{Que rooo-bo? Eu num sei do que cê tá falando...}{}{-4}{gf2110 0}{178}{}
+{175}{Tá bom! Eu faço!}{}{-4}{gf2110 1}{-10}{gf2528 1 }
+{176}{Talvez. Eu volto mais tarde...}{}{-4}{}{0}{}
+{178}{Você voltará, viajante. Você voltará. O que me diz? Fará isso por mim...?}{Você voltará, viajante. Você voltará. O que me diz? Fará isso por mim...?}{}{}{}{}
+{179}{Sim.}{}{5}{}{-10}{gf2528 1 }
+{180}{Vou pensar a respeito. Talvez eu volte mais tarde...}{}{5}{}{0}{}
+{181}{Certo!}{}{-4}{}{-10}{gf2528 1 }
+{182}{Talvez. Eu volto mais tarde...}{}{-4}{}{0}{}
+{184}{Muito bem. [Ela lhe entrega a bola.] Aguardarei seu retorno...}{Muito bem. [Ela lhe entrega a bola.] Aguardarei seu retorno...}{}{}{}{}
+{185}{E:}{}{5}{}{0}{}
+{186}{E:}{}{-4}{}{0}{}
+{187}{[Sua voz baixa, e ela sussurra, quase inaudível...] Existem dádivas que posso conceder que vão além do reino material. Você terá que confiar em mim, viajante. Eu lhe darei uma recompensa justa...}{[Sua voz baixa, e ela sussurra, quase inaudível...] Existem dádivas que posso conceder que vão além do reino material. Você terá que confiar em mim, viajante. Eu lhe darei uma recompensa justa...}{}{}{}{}
+{188}{Vou fazer isso.}{}{5}{}{-10}{gf2528 1 }
+{189}{Talvez... Voltarei a falar com você.}{}{5}{}{0}{}
+{190}{Certo!}{}{-4}{}{-10}{gf2528 1 }
+{191}{Quem sabe. Eu volto mais tarde...}{}{-4}{}{0}{}
+

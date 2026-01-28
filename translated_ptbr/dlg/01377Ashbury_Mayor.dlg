@@ -1,0 +1,79 @@
+{1}{Sim... se você pudesse falar com a multidão, sabe, atraí-los enquanto eu tomo notas. Sendo um forasteiro, você poderia sugerir coisas que eu jamais ousaria. Se der certo e você conseguir que eles concordem com algo, bem, então eu sou o Prefeito... e você estava trabalhando para mim. Se não der certo, bem, eu sempre posso dizer que você estava obviamente mal informado.}{Sim... se você pudesse falar com a multidão, sabe, atraí-los enquanto eu tomo notas. Sendo um forasteiro, você poderia sugerir coisas que eu jamais ousaria. Se der certo e você conseguir que eles concordem com algo, bem, então eu sou o Prefeito... e você estava trabalhando para mim. Se não der certo, bem, eu sempre posso dizer que você estava obviamente mal informado.}{}{}{}{qu 1076 1 }
+{2}{Isso parece uma proposta bastante intrigante. Eu aceito!}{}{1}{}{20}{qu 1076 2}
+{9}{Falar em público não é o meu forte, meu caro. Vou ter que recusar.}{}{1}{}{96}{}
+{10}{Sabe, conversar com você agora mesmo me deu uma ideia.}{Sabe, conversar com você agora mesmo me deu uma ideia.}{}{}{}{}
+{11}{Deu?}{}{1}{}{1}{}
+{14}{Agradeço a oferta, de verdade, mas isso é algo que devo resolver como prefeito.}{Agradeço a oferta, de verdade, mas isso é algo que devo resolver como prefeito.}{}{}{}{}
+{15}{Por favor, eu gostaria de ajudar se você me der a chance.}{}{5}{}{35}{}
+{19}{Boa sorte para você, então.}{}{1}{}{-14}{}
+{20}{Excelente! Siga-me até a prefeitura. Quando chegarmos lá, basta subir ao púlpito e começar a responder às perguntas da multidão. Depois que a reunião terminar, podemos conversar novamente.}{Excelente! Siga-me até a prefeitura. Quando chegarmos lá, basta subir ao púlpito e começar a responder às perguntas da multidão. Depois que a reunião terminar, podemos conversar novamente.}{}{}{}{}
+{21}{Estou pronto. Vamos prosseguir para a reunião.}{}{1}{}{-47}{}
+{25}{Bem, você fez uma bela confusão, eles nunca vão construir o monumento agora. E eu sou motivo de riso na minha própria cidade! Nunca vou me recuperar desse fiasco! Tenha um bom dia, senhor!}{Bem, você fez uma bela confusão, eles nunca vão construir o monumento agora. E eu sou motivo de riso na minha própria cidade! Nunca vou me recuperar desse fiasco! Tenha um bom dia, senhora!}{}{}{}{re -10, lf0 1, qu 1076 6, rq 1071}
+{26}{E:}{}{1}{}{0}{}
+{29}{Senhor, devo agradecer pelos seus esforços! Duvido que eu pudesse ter feito muito melhor. Seus esforços revelaram perfeitamente as posições dos meus oponentes! Ainda há muito a ser feito, então devo seguir meu caminho. Tenha um bom dia, senhor.}{Senhora, devo agradecer pelos seus esforços! Duvido que eu pudesse ter feito muito melhor. Seus esforços revelaram perfeitamente as posições dos meus oponentes! Ainda há muito a ser feito, então devo seguir meu caminho. Tenha um bom dia, senhora.}{}{}{}{ re +20 , lf0 1, qu 1076 4, rq 1071, rp1056}
+{30}{E:}{}{1}{}{0}{}
+{32}{Parabéns, meu caro, você superou minhas expectativas! Nunca vi alguém com o dom da oratória que você tem. Graças ao seu desempenho louvável, o povo de Ashbury apoia de coração a construção de um monumento. Ainda há muito trabalho a ser feito, então acho que vou seguir meu caminho. Tenha um bom dia, senhor.}{Parabéns, minha cara, você superou minhas expectativas! Nunca vi alguém com o dom da oratória que você tem. Graças ao seu desempenho louvável, o povo de Ashbury apoia de coração a construção de um monumento. Ainda há muito trabalho a ser feito, então acho que vou seguir meu caminho. Tenha um bom dia, senhora.}{}{}{}{re +40 , lf0 1 , xp 1, qu 1076 4, rq 1071, rp1056}
+{33}{Foi apenas uma ninharia, senhor. Fico feliz em ter sido útil.}{}{1}{}{0}{}
+{34}{}{}{}{}{}{}
+{35}{Sinto muito, senhor, mas minha reputação está em jogo aqui. Preciso ir agora.}{Sinto muito, senhora, mas minha reputação está em jogo aqui. Preciso ir agora.}{}{}{}{}
+{36}{E:}{}{1}{}{-14}{}
+{40}{Você deve ser novo na cidade, não acredito que tive o prazer de sua apresentação.}{Você deve ser novo na cidade, não acredito que tive o prazer de sua apresentação.}{}{}{}{gf2191 1}
+{41}{Olá, eu sou @pcname@. Prazer em conhecê-lo.}{}{5}{}{48}{}
+{42}{Eu @pcname@! Eu dizer oi!}{}{-4}{}{52}{}
+{43}{Você está certo, não fomos apresentados...}{}{5}{}{56}{re -5}
+{47}{E:}{}{1}{}{-14}{gv1015  12}
+{48}{[Ele parece distraído por um momento antes de responder.] É um prazer conhecê-lo, @pcname@! Eu sou Chester Miller, o prefeito de Ashbury.}{[Ele parece distraído por um momento antes de responder.] É um prazer conhecê-lo, @pcname@! Eu sou Chester Miller, o prefeito de Ashbury.}{}{}{}{}
+{49}{O que está acontecendo pela cidade?}{}{5}{}{76}{}
+{50}{O senhor parece aflito. Posso perguntar qual é o problema?}{}{5}{ps 4}{63}{}
+{51}{E:}{}{1}{}{0}{}
+{52}{Não consigo entender nada do que você está dizendo... me desculpe. [Ele começa a se afastar, então para e se vira para você.] Ah, e mais uma coisa, não toleramos vadiagem por aqui, especialmente do seu tipo. Tenha um bom dia.}{Não consigo entender nada do que você está dizendo... me desculpe. [Ele começa a se afastar, então para e se vira para você.] Ah, e mais uma coisa, não toleramos vadiagem por aqui, especialmente do seu tipo. Tenha um bom dia.}{}{}{}{}
+{53}{E:}{}{1}{}{-14}{gv1015  12}
+{56}{Hmmm... ah... vejo que não é do tipo falante. Posso lhe indicar algo... ou está só de passagem?}{Hmmm... ah... vejo que não é do tipo falante. Posso lhe indicar algo... ou está só de passagem?}{}{}{}{}
+{57}{Quem eu sou e para onde vou não é da sua conta.}{}{1}{}{96}{re -10}
+{58}{Meu nome é @pcname@, e falo se tiver algo a dizer.}{}{1}{}{76}{re 5}
+{59}{E:}{}{1}{}{-14}{gv1015  12}
+{63}{Está sendo realizada uma reunião de planejamento para discutir a construção de um monumento a Lorde Bettington, o maior homem que já saiu de Ashbury. Somos um povo muito exigente por aqui. Se vamos fazer algo, tentamos fazer direito.}{Está sendo realizada uma reunião de planejamento para discutir a construção de um monumento a Lorde Bettington, o maior homem que já saiu de Ashbury. Somos um povo muito exigente por aqui. Se vamos fazer algo, tentamos fazer direito.}{}{}{}{}
+{64}{Por favor, conte-me mais.}{}{1}{}{67}{}
+{65}{Realmente não tenho tempo para isso. Tenha um bom dia.}{}{1}{}{-14}{gv1015  12}
+{66}{}{}{}{}{}{}
+{67}{O problema é que todos estão discutindo entre si sobre o que fazer. Como prefeito, tenho que encontrar uma solução que agrade a todos. [Ele balança a cabeça.] É impossível!}{O problema é que todos estão discutindo entre si sobre o que fazer. Como prefeito, tenho que encontrar uma solução que agrade a todos. [Ele balança a cabeça.] É impossível!}{}{}{}{}
+{68}{Por favor, continue, sempre me fascino com política local.}{}{1}{}{71}{}
+{69}{Desejo-lhe sorte, então. Tenha um bom dia.}{}{1}{}{-14}{gv1015  12}
+{71}{Alguns querem o monumento no centro da cidade, outros querem perto da entrada, e ninguém sabe como vamos pagar por isso! Além disso, não há artesãos locais à altura da tarefa de construir essa coisa, mesmo que pudéssemos pagar!}{Alguns querem o monumento no centro da cidade, outros querem perto da entrada, e ninguém sabe como vamos pagar por isso! Além disso, não há artesãos locais à altura da tarefa de construir essa coisa, mesmo que pudéssemos pagar!}{}{}{}{}
+{72}{Há algo que eu possa fazer para ajudar?}{}{1}{ps4}{10}{}
+{73}{Há algo que eu possa fazer para ajudar?}{}{1}{ps-3}{14}{}
+{75}{Boa sorte para o senhor.}{}{1}{}{-14}{gv1015  12}
+{76}{Gostaria de conversar, de verdade, mas estou a caminho de uma função cívica. Afinal, sou o prefeito.}{Gostaria de conversar, de verdade, mas estou a caminho de uma função cívica. Afinal, sou o prefeito.}{}{}{}{}
+{77}{Que reunião é essa para a qual está indo?}{}{1}{}{63}{}
+{78}{Obrigado pelo seu tempo.}{}{1}{}{-14}{gv1015  12}
+{96}{Realmente devo me desculpar, senhor. Estou atrasado em minha agenda.}{Devo me desculpar, madame. Estou atrasado em minha agenda.}{}{}{}{}
+{97}{E:}{}{1}{}{-14}{gv1015  12}
+{100}{G:}{G:}{}{}{}{}
+{101}{R:($0, 1070-1075)}{}{5}{re41}{100}{}
+{102}{Acho que não ouvi corretamente, senhor.}{}{5}{re-40, ch10}{130}{re50}
+{103}{Por favor, não desejo ofender, senhor.}{}{5}{re-40, ch-9}{140}{re41}
+{104}{Oi! Gosto de conhecer pessoinhas!}{}{-4}{}{150}{re50}
+{109}{E:}{}{1}{}{0}{}
+{110}{Não acredito que tenha a audácia de falar comigo de novo. Boa viagem!}{Não acredito que tenha a audácia de falar comigo de novo. Boa viagem!}{}{}{}{re -5}
+{119}{Por favor, vá até o pódio... a multidão está inquieta!}{Por favor, vá até o pódio... a multidão está inquieta!}{}{}{}{}
+{120}{Obrigado... Obrigado... Por favor... Por favor... todos nós vamos ter que nos acalmar, para que possamos nos ouvir... Eu sei que o Monumento Beddington está na mente de todos aqui, então assim que vocês se acalmarem, podemos começar a reunião...}{Obrigado... Obrigado... Por favor... Por favor... todos nós vamos ter que nos acalmar, para que possamos nos ouvir... Eu sei que o Monumento Beddington está na mente de todos aqui, então assim que vocês se acalmarem, podemos começar a reunião...}{}{}{}{}
+{121}{Como de costume, temos uma agenda muito cheia e peço desculpas por estar um pouco atrasado esta noite, então gostaria de sugerir que comecemos os trabalhos o mais rápido possível. Vamos abrir o espaço para quem tiver perguntas. Quem gostaria de começar? Ah, sim, Sra. Fiddlemarsh? Por favor, fale mais alto.}{Como de costume, temos uma agenda muito cheia e peço desculpas por estar um pouco atrasado esta noite, então gostaria de sugerir que comecemos os trabalhos o mais rápido possível. Vamos abrir o espaço para quem tiver perguntas. Quem gostaria de começar? Ah, sim, Sra. Fiddlemarsh? Por favor, fale mais alto.}{}{}{}{}
+{122}{É justo e apropriado que Ashbury honre seus heróis.}{É justo e apropriado que Ashbury honre seus heróis.}{}{}{}{}
+{123}{Realize um concurso de projetos e vote no melhor design.}{Realize um concurso de projetos e vote no melhor design.}{}{}{}{}
+{124}{Certamente, em Ashbury, um benfeitor abastado poderia ser encontrado.}{Certamente, em Ashbury, um benfeitor abastado poderia ser encontrado.}{}{}{}{}
+{125}{Se dependesse de mim, os melhores artesãos de Tarant, é claro!}{Se dependesse de mim, os melhores artesãos de Tarant, é claro!}{}{}{}{}
+{126}{Uma estátua durável de bronze, tratada contra intempéries, sobre uma base de granito.}{Uma estátua durável de bronze, tratada contra intempéries, sobre uma base de granito.}{}{}{}{}
+{127}{"Dê uma polegada e você terá uma milha."}{"Dê uma polegada e você terá uma milha."}{}{}{}{}
+{128}{Bem, isso conclui a reunião. Obrigado a todos por virem.}{Bem, isso conclui a reunião. Obrigado a todos por virem.}{}{}{}{lf 0 1}
+{130}{Oh, peço desculpas, bom senhor. Não quis ofendê-lo, devo tê-lo confundido com alguém das... classes inferiores. Em que posso ajudá-lo?}{Oh, peço desculpas, minha senhora. Não quis ofendê-la, devo tê-la confundido com alguém das... classes inferiores. Em que posso ajudá-la?}{}{}{}{}
+{131}{R:($0, 1070-1075)}{}{5}{}{100}{}
+{139}{E:}{}{1}{}{0}{}
+{140}{Bem, suponho que posso dispensar um momento, mesmo para alguém como você. Em que posso ajudá-lo?}{Bem, suponho que posso dispensar um momento, mesmo para alguém como você. Em que posso ajudá-la?}{}{}{}{}
+{141}{R:($0, 1070-1075)}{}{5}{}{100}{}
+{149}{E:}{}{1}{}{0}{}
+{150}{Oh, céus, um imbecil. Com o que posso ajudá-lo, pobre e infeliz rapaz?}{Oh, céus, uma imbecil. Com o que posso ajudá-la, pobre e infeliz moça?}{}{}{}{}
+{151}{R:($0, 1070-1075)}{}{5}{}{100}{}
+{159}{E:}{}{1}{}{0}{}
+{160}{}{}{}{}{}{}
+{161}{}{}{}{}{}{}
+

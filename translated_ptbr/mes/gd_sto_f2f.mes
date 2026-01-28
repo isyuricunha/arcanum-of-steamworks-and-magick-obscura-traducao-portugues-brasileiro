@@ -1,0 +1,357 @@
+// This file contains NPC responses to being asked about the current
+// story state. Each block begins at a multiple of 100, based on
+// the story state. Within each block, there is one line for each
+// race.
+
+0 human
+1 dwarf
+2 elf
+3 half elf
+4 gnome
+5 halfling
+6 half orc
+7 half ogre
+8 dark elf
+9 ogre
+10 orc
+
+// Story state is 0
+
+{0}{Não sou nenhum especialista. Talvez você devesse falar com um mercador.}
+{1}{Parece ser feito de prata de qualidade...}
+{2}{Sei que não é élfico. Além disso, posso lhe dizer muito pouco.}
+{3}{Parece uma bela peça de joalheria.}
+{4}{Um anel muito requintado, meu amigo! Guarde-o com você!}
+{5}{Não tenho interesse em coisas assim...}
+{6}{Nada. Absolutamente nada.}
+{7}{Não faço a menor ideia.}
+{8}{Leve suas perguntas para outro lugar.}
+{9}{Gostaria de poder ajudá-lo com isso.}
+{10}{Nada. Absolutamente nada.}
+
+// Story state is 1
+
+{100}{Isso parece o nome de uma companhia, mas não tenho certeza de onde fica.}
+{101}{Companhia. Companhia HUMANA, eu diria.}
+{102}{Hmmm. Nome interessante para uma companhia. Nome MUITO ANTIGO...}
+{103}{Não sei de cabeça... arriscaria dizer que é algum tipo de companhia.}
+{104}{Companhia muito respeitada. Não saberia dizer exatamente onde fica.}
+{105}{Parece algo vindo de uma grande cidade...}
+{106}{Bastardos ricos, eu diria. Só pelo nome já dá para perceber.}
+{107}{Nenhuma ideia.}
+{108}{Essas coisas não me dizem respeito.}
+{109}{Nenhuma ideia.}
+{110}{Bastardos ricos, eu diria. Só pelo nome já dá para perceber.}
+
+// Story state is 2
+{200}{Bates! Ele é um gênio! Inventou a máquina a vapor!}
+{201}{Não falaremos mais dele, entendeu?}
+{202}{Intrometido tecnológico. Veja só o que ele fez com a terra...}
+{203}{Ele é bem inteligente para um humano... máquinas e coisas do tipo.}
+{204}{Brilhante tecnólogo. Me rendeu uma fortuna no ano passado...}
+{205}{Humano ocupado, sempre fazendo aquelas máquinas barulhentas.}
+{206}{Dizem que trata mal seus trabalhadores.}
+{207}{Tenho um meio-irmão que costumava trabalhar para ele.}
+{208}{Prefiro não falar do Sr. Bates.}
+{209}{Tenho um meio-irmão que trabalhava para ele.}
+{210}{Dizem que ele trata mal seus trabalhadores.}
+
+
+// Story state is 3
+{300}{Que tragédia! Ele foi morto recentemente...}
+{301}{Pobre Sr. Bates. Parece que todos somos responsáveis, no fim das contas.}
+{302}{Intrometido tecnológico. Ele recebeu o que merecia...}
+{303}{Uma história triste, essa. Parece que alguém passou a não gostar dele.}
+{304}{Um dia triste para a indústria quando encontraram seu corpo. O Sr. Bates era um titã.}
+{305}{Só sei que ele foi assassinado recentemente, em circunstâncias misteriosas.}
+{306}{Acabei de ler uma história sensacionalista no jornal sobre sua morte. Fascinante!}
+{307}{Gostaria de saber para quem ele deixou sua fortuna?}
+{308}{Sr. Bates. Parece que o destino não é desprovido de senso de justiça.}
+{309}{Gostaria de saber para quem ele deixou sua fortuna?}
+{310}{Acabei de ler uma história sensacionalista no jornal sobre sua morte. Fascinante!}
+
+
+// Story state is 4
+{400}{Clã Montanha Negra? Soa como algo anão...}
+{401}{Não pergunte a um anão sobre clãs. E NUNCA sobre esse.}
+{402}{Foi bem grosseiro da sua parte perguntar sobre a casa de alguém...}
+{403}{Não sei... anões geralmente guardam para si mesmos}
+{404}{Anões. Puxa! Terríveis homens de negócios...}
+{405}{Acho que já ouvi falar de um clã uma vez...}
+{406}{Anões falam muito pouco sobre suas casas...}
+{407}{Não me pergunte. Pergunte a um anão.}
+{408}{Próxima pergunta.}
+{409}{Não me pergunte. Pergunte a um anão.}
+{410}{Anões falam muito pouco sobre suas casas...}
+
+
+// Story state is 5
+{500}{Você quer dizer a Ilha Negra? Não tenho certeza...}
+{501}{Nosso povo sabe pouco sobre coisas além-mar...}
+{502}{Um lugar do qual é melhor não falar... fique longe dele.}
+{503}{Acredito que seja em algum lugar na costa leste...}
+{504}{Não faço ideia. Não tenho negócios lá, então quem se importa?}
+{505}{Ilha? Você quer dizer ilha? Argh... toda aquela água...}
+{506}{Conheci um estivador, uma vez, que dizia ter estado lá. Pena que o sujeito se afogou.}
+{507}{Não sei.}
+{508}{Cuide da sua vida, estranho.}
+{509}{Não sei.}
+{510}{Conheci um estivador, uma vez, que dizia ter estado lá. Pena que o sujeito se afogou.}
+
+// Story state is 6
+{600}{Não muito. Talvez algo sobre uma prisão?}
+{601}{Colônia penal. Lugar ruim, pelo que entendo.}
+{602}{Lugar estranho para se fazer conversa educada.}
+{603}{Nenhum detalhe me vem à mente.}
+{604}{Bastante desprovida de recursos naturais, sem moeda...}
+{605}{Além de ser assustador? Não muito.}
+{606}{Mandei um primo meu para lá sem motivo... ele era inocente...}
+{607}{Nada.}
+{608}{Nada que eu vá compartilhar com você.}
+{609}{Nada.}
+{610}{Mandei um primo meu para lá sem motivo... ele era inocente...}
+
+
+// Story state is 7
+{700}{Sei pouco sobre o povo anão.}
+{701}{Essa não é uma informação que você precise, amigo.}
+{702}{Líderes dos clãs anões. Bastante reclusos.}
+{703}{Eles se afastam de todo mundo...}
+{704}{Tentei, sem sucesso, fechar um acordo de mineração com eles, uma vez...}
+{705}{Apenas mais alguns anões, acredito.}
+{706}{Nunca ouvi falar deles.}
+{707}{Sujeitinhos baixos.}
+{708}{Nada. Absolutamente nada. Não pergunte de novo.}
+{709}{Sujeitinhos baixos.}
+{710}{Nunca ouvi falar deles.}
+
+
+// Story state is 8
+{800}{Não tenho a menor ideia. Os elfos são reservados sobre suas casas...}
+{801}{No fundo da Floresta Cintilante. Você nunca a encontraria.}
+{802}{Não falamos dessas coisas.}
+{803}{Acho que minha tataravó viveu lá...}
+{804}{Eu adoraria descobrir... madeira esplêndida...}
+{805}{Não tenho muita certeza... tenho dificuldade em encontrar MINHA própria casa...}
+{806}{Nunca conheci ninguém que sequer MENTISSE sobre saber.}
+{807}{Não sei.}
+{808}{NUNCA pergunte a um elfo sobre sua casa. NUNCA.}
+{809}{Não sei.}
+{810}{Nunca conheci ninguém que sequer MENTISSE sobre saber.}
+
+
+// Story state is 9
+{900}{Eu sei que os elfos devem viver lá...}
+{901}{Muito pouco, e fico feliz com isso.}
+{902}{Nada. Eu jamais falaria uma palavra sobre o lar élfico.}
+{903}{Só que meus ancestrais são de lá...}
+{904}{Não muito, infelizmente.}
+{905}{Árvores lindas, tenho certeza. Pessoas gentis, os elfos.}
+{906}{Não posso dizer que sei ALGUMA COISA sobre o lugar.}
+{907}{Pergunte a um elfo.}
+{908}{Não falamos dessas coisas.}
+{909}{Pergunte a um elfo.}
+{910}{Não posso dizer que sei ALGUMA COISA sobre o lugar.}
+
+
+// Story state is 10
+{1000}{Hmmm... Já tentou o cemitério? Talvez também possa tentar o Salão dos Registros. Eles às vezes podem ajudar com esse tipo de assunto.}
+{1001}{Isso está além de mim.}
+{1002}{Sim, já ouvi esse nome. Acredito que ele teve uma morte Trágica ou algo assim. Ele tem uma lápide bonita no cemitério.}
+{1003}{Nenhuma ideia, de verdade. Espere... receio que precise verificar o cemitério. Ou o Salão dos Registros. Eles têm informações sobre os falecidos de Tarant.}
+{1004}{Terwilliger... Terwilliger... soa vagamente familiar. Ah! Já verificou o cemitério?}
+{1005}{Parece um nome humano...}
+{1006}{Não tenho a menor ideia.}
+{1007}{Não sei muito sobre pessoas.}
+{1008}{Nunca pronuncie esse nome na minha presença...}
+{1009}{Não tenho a menor ideia.}
+{1010}{Não sei muito sobre pessoas.}
+
+
+// Story state is 11
+{1100}{Não... Mas a biblioteca de Tarant tem muitos livros.}
+{1101}{O quê, isso é um livro? Não faço ideia...}
+{1102}{Já verificou o livreiro local ou a biblioteca?}
+{1103}{Parece algo que você encontraria em uma biblioteca...}
+{1104}{Tenho me feito exatamente a mesma pergunta...}
+{1105}{Parece assustador! Mantenha isso longe de mim se encontrar!}
+{1106}{Tente a biblioteca. Onde mais você encontraria livros?}
+{1107}{Não leio muito.}
+{1108}{[Astutamente.] Não... Mas me avise se encontrar um.}
+{1109}{Não leio muito.}
+{1110}{Tente a biblioteca. Onde mais você encontraria livros?}
+
+// Story state is 12
+{1200}{Velho porto marítimo, na ponta sul do continente. Uma viagem bem longa, pelo que ouvi.}
+{1201}{Aquele porto? Não tem muito.}
+{1202}{Sei que é o centro daquela estranha religião Panarii. Mas você vai precisar de um navio resistente para chegar lá.}
+{1203}{Na costa oeste do mar, acredito. Uma cidade agradável.}
+{1204}{Cidade difícil para negociar... sem acesso por trem. Navios são a única forma de chegar lá.}
+{1205}{Muito longe para o meu gosto. O mar não é para mim.}
+{1206}{Não é da minha conta.}
+{1207}{Muito pouco.}
+{1208}{Não tenho nada de bom para dizer sobre o lugar.}
+{1209}{Muito pouco.}
+{1210}{Não é da minha conta.}
+
+// Story state is 13
+{1300}{O nome soa familiar. Alguma conexão com um livro?}
+{1301}{Não me vem nada à mente.}
+{1302}{Não conheço esse humano.}
+{1303}{Algo nos noticiários... Caladon, talvez...?}
+{1304}{Ele tem sido um homem popular ultimamente... um objeto de valor...?}
+{1305}{Absolutamente nada.}
+{1306}{Nada mesmo.}
+{1307}{Não sei muita coisa.}
+{1308}{Sim. Conheço o Sr. Misk. Não. Não vou dividir isso com você.}
+{1309}{Não sei muita coisa.}
+{1310}{Nada mesmo.}
+
+
+// Story state is 14
+{1400}{Nada. Nem acho que eles sejam reais.}
+{1401}{Malditos encrenqueiros.}
+{1402}{Não é algo sobre o qual você queira perguntar a um elfo, amigo.}
+{1403}{Muitos mitos e lendas. Principalmente conjecturas, eu acho.}
+{1404}{Existe algum?}
+{1405}{Não sei de nada, e não quero saber.}
+{1406}{Nada... como se eles realmente existissem.}
+{1407}{Não muito.}
+{1408}{Pergunte de novo, e eu VOU MOSTRAR algo sobre eles...}
+{1409}{Não muito.}
+{1410}{Nada... como se eles realmente existissem.}
+
+// Story state is 15
+{1500}{Seria melhor perguntar a um daqueles fanáticos Panarii...}
+{1501}{Bobagem religiosa élfica.}
+{1502}{Há muito que eu poderia lhe contar. Não há nada que eu vá contar.}
+{1503}{Alguma figura religiosa? Procure um sacerdote Panarii...}
+{1504}{Nada. O templo Panarii local seria mais útil.}
+{1505}{Não tenho certeza se conheço o cavalheiro.}
+{1506}{Está me perguntando? Não faço ideia.}
+{1507}{Nada mesmo.}
+{1508}{Disse alguma coisa?}
+{1509}{Nada mesmo.}
+{1510}{Está me perguntando? Não faço ideia.}
+
+
+// Story state is 16
+{1600}{Seria melhor perguntar a um daqueles fanáticos Panarii...}
+{1601}{Uma lenda élfica... algum tipo de divindade, acredito.}
+{1602}{Há muito que eu poderia lhe contar. Não há nada que eu vá contar.}
+{1603}{Alguma figura religiosa? Procure um sacerdote Panarii...}
+{1604}{Nada. O templo Panarii local seria mais útil.}
+{1605}{Não tenho certeza se conheço o cavalheiro.}
+{1606}{Você está me perguntando? Não faço ideia.}
+{1607}{Nada mesmo.}
+{1608}{Você disse alguma coisa?}
+{1609}{Nada mesmo.}
+{1610}{Você está me perguntando? Não faço ideia.}
+
+
+// Story state is 17
+{1700}{Não sou especialista em geografia, mas fica bem a leste.}
+{1701}{Fica do outro lado do oceano, a leste. É tudo que sei.}
+{1702}{Uma ilha estranha, cheia de feras, e talvez algo mais...?}
+{1703}{Acho que já soube disso... algo sobre monstros...?}
+{1704}{Nenhum navio vai para lá. Algumas expedições perdidas...}
+{1705}{Nunca nem ouvi falar desse lugar.}
+{1706}{Não sei nada sobre esse lugar.}
+{1707}{Hmm. Não me lembro de nada.}
+{1708}{Nada que eu vá compartilhar com você.}
+{1709}{Hmm. Não me lembro de nada.}
+{1710}{Não sei nada sobre esse lugar.}
+
+
+// Story state is 18
+{1800}{Ruínas? Eu sei que os ERMOS de Vendigroth ficam bem a nordeste.}
+{1801}{Um lugar maligno, cheio de ódio. A nordeste.}
+{1802}{Uma cidade ANTIGA, Vendigroth. Eu não sabia que havia ruínas.}
+{1803}{Em algum lugar a nordeste, eu acho.}
+{1804}{Esse nome não significa nada para mim.}
+{1805}{Vendigroth? Claro! Fica em algum lugar logo acima de Leahbo!}
+{1806}{Nordeste, eu diria. Leve amigos. MUITOS deles.}
+{1807}{Hmm... nada. Nada mesmo.}
+{1808}{Por que VOCÊ quer saber? Não direi nada.}
+{1809}{Hmm... nada. Nada mesmo.}
+{1810}{Nordeste, eu diria. Leve amigos. MUITOS deles.}
+
+
+// Story state is 19
+{1900}{Armadilha sangrenta para turistas! Fique longe da Loja de Presentes!}
+{1901}{Um monte de pedras logo ao norte de Caladon. Local religioso...?}
+{1902}{Um lugar de história e poder. Logo ao norte de Caladon.}
+{1903}{Logo ao norte da antiga Caladon, perto do Espigão Negro...}
+{1904}{Envolvido naquele negócio dos Panarii, não está?}
+{1905}{Não faço ideia do que você está falando.}
+{1906}{Perto de Caladon. Tinha um parente que trabalhava na Loja de Presentes...}
+{1907}{Anel? Não sei nada sobre joias...}
+{1908}{Não pergunte sobre esse lugar. Você jamais entenderia.}
+{1909}{Anel? Não sei nada sobre joias...}
+{1910}{Perto de Caladon. Tinha um parente que trabalhava na Loja de Presentes...}
+
+// Story state is 20
+{2000}{A fortaleza dele fica logo a leste do entroncamento...}
+{2001}{Não sei, mas ele é o culpado por tudo isso...}
+{2002}{O antigo não está longe, mas não recebe visitantes...}
+{2003}{Pegue a bifurcação esquerda do entroncamento... o monstro...}
+{2004}{A fortaleza dele não fica longe do entroncamento...}
+{2005}{Eu mantenho minha cabeça longe desse tipo de negócio...}
+{2006}{Elfo maldito e louco! Não sei, nem me importo.}
+{2007}{Quem?}
+{2008}{O mestre não está longe, mas não receberá ninguém...}
+{2009}{Quem?}
+{2010}{Elfo maldito e louco! Não sei, nem me importo.}
+
+
+// Story state is 21
+{2100}{Um lugar terrivelmente árduo para se viver...}
+{2101}{Nada além de morte e desespero aqui, forasteiro.}
+{2102}{Um destino pior que a morte.}
+{2103}{NINGUÉM merece a vida que levamos aqui.}
+{2104}{Não há destino pior do que ser banido para cá.}
+{2105}{Um lugar terrível. Como anseio por minha terra natal...}
+{2106}{Olhe ao seu redor. Bem-vindo ao inferno.}
+{2107}{Um lugar horrível, horrível.}
+{2108}{Se eu soubesse que ESTA seria a recompensa...}
+{2109}{Lugar horrível, horrível.}
+{2110}{Olhe ao seu redor. Bem-vindo ao inferno.}
+
+// Story state is 22
+{2200}{Ele derrotou Arronax e nos condenou a todos...}
+{2201}{Um ser maligno, maligno. Que Deus nos ajude.}
+{2202}{Poderoso, mago. Fique longe dele.}
+{2203}{Começou a guerra aqui, tantos anos atrás. Maníaco!}
+{2204}{Muito pouco, além do fato de que ele está no comando...}
+{2205}{Nada! Não sei de nada!}
+{2206}{Tirano sanguinário! Ele precisa ser parado!}
+{2207}{Uhhh... quem é esse?}
+{2208}{Ele controla o Vazio, agora.}
+{2209}{Uhhh... quem é esse?}
+{2210}{Tirano sanguinário! Ele precisa ser parado!}
+
+// Story state is 23
+{2300}{Em algum lugar nas ruínas da [Cidade do Vazio], acredito...}
+{2301}{Magia. Acho mais seguro manter distância...}
+{2302}{Magia antiga, mais velha até que os elfos...}
+{2303}{Já ouvi falar... enterrado em algum lugar na [Cidade do Vazio]...}
+{2304}{Verifique as ruínas da antiga [Cidade do Vazio].}
+{2305}{Nenhuma ideia, forasteiro. Desculpe.}
+{2306}{Talvez em algum lugar na [Cidade do Vazio]?}
+{2307}{Estou confuso...}
+{2308}{Ouvi dizer que tinha sido perdido, mas verifique na [Cidade do Vazio].}
+{2309}{Estou confuso...}
+{2310}{Talvez em algum lugar na [Cidade do Vazio]?}
+
+// Story state is 24
+{2400}{Arrume uma vida, o jogo acabou, cara.}
+{2401}{Tente este. Reinicia o jogo.}
+{2402}{O que você está fazendo, seu idiota? O jogo acabou.}
+{2403}{Pare de jogar este jogo e comece outro.}
+{2404}{Ah, que tristeza, que tristeza. Apenas desligue o jogo, filho.}
+{2405}{Deve ser brincadeira. Você já venceu! Vá dormir!}
+{2406}{Você está ouvindo? O JOGO ACABOU!}
+{2407}{Hã? Eu achei que o jogo tinha acabado.}
+{2408}{O que você precisa é de uma vida social.}
+{2409}{Hã? Eu achei que o jogo tinha acabado.}
+{2410}{Você está ouvindo? O JOGO ACABOU!}

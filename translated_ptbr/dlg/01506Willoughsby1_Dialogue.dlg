@@ -1,0 +1,22 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Posso perguntar quem é o senhor?}{}{5}{re 41, me 0}{38}{}
+{3}{Com licença, bom gnomo? Esse é jeito de tratar um desconhecido?}{}{5}{re -40, me 0}{17}{}
+{4}{Estou com vontade de rachar seu crânio, gnomo. Sugiro que peça desculpas.}{}{5}{re -40}{29}{}
+{5}{Oi! Eu não muito esperto. Quem você?}{}{-4}{me 0}{38}{}
+{17}{Humpf! Sou tão tolerante quanto qualquer outro, mas não sou nenhum santo de altar... sua mera presença me repele! Um homem na minha posição não precisa aturar isso! Saia da minha frente...!}{Humpf! Sou tão tolerante quanto qualquer outro, mas não sou nenhum santo de altar... sua mera presença me repele! Um homem na minha posição não precisa aturar isso! Saia da minha frente...!}{}{}{}{}
+{18}{Eu tinha a impressão de que os gnomos de Tarant eram benevolentes...}{}{5}{}{22}{re +10}
+{19}{Nem dinheiro nem título vão te salvar de uma surra...}{}{5}{}{29}{re -10}
+{22}{[Ele parece um pouco constrangido.] Por favor, perdoe minha língua afiada, senhor. Tenho tido muitas coisas na cabeça ultimamente, mas isso não é desculpa para maus modos. Talvez possamos conversar por um momento?}{[Ele parece um pouco constrangido.] Por favor, perdoe minha língua afiada, senhora. Tenho tido muitas coisas na cabeça ultimamente, mas isso não é desculpa para maus modos. Talvez possamos conversar por um momento?}{}{}{}{}
+{23}{Sim, eu gostaria disso. Posso perguntar quem é o senhor?}{}{5}{}{38}{}
+{29}{[O gnomo olha para você com desdém.] Senhor, recomendo que siga seu caminho. Se continuar a me incomodar, posso ser forçado a chamar meu servo para removê-lo. [Ele olha para seu companheiro meio-ogro.]}{[O gnomo olha para você com desdém.] Senhora, recomendo que siga seu caminho. Se continuar a me incomodar, posso ser forçado a chamar meu servo para removê-la. [Ele olha para seu companheiro meio-ogro.]}{}{}{}{}
+{30}{Acho que não é necessário. Aceite minhas desculpas, por favor...}{}{5}{}{22}{re +10}
+{31}{Vou enterrar vocês dois, escória gnômica...}{}{5}{}{}{co, fl 34}
+{33}{Lorham, cuide desse lixo...}{Lorham, cuide desse lixo...}{}{}{}{}
+{38}{Saudações. Sou Edward Willoughsby, empresário e presidente do Conselho Industrial Tarantiano. Como posso ser útil?}{Saudações. Sou Edward Willoughsby, empresário e presidente do Conselho Industrial Tarantiano. Como posso ser útil?}{}{}{}{}
+{39}{Muito prazer, Sr. Willoughsby. Posso lhe fazer algumas perguntas...?}{}{5}{}{45}{}
+{40}{Oi, Willuby! Perguntas!}{}{-4}{}{45}{}
+{45}{Ficaria mais do que feliz em conversar com você, jovem. Sempre estou ansioso para ouvir os pensamentos e opiniões dos meus constituintes. Infelizmente, tenho um compromisso urgente agora. Poderia passar no meu escritório na Prefeitura daqui a uma hora ou mais, para conversarmos melhor...?}{Ficaria mais do que feliz em conversar com você, jovem. Sempre estou ansiosa para ouvir os pensamentos e opiniões dos meus constituintes. Infelizmente, tenho um compromisso urgente agora. Poderia passar no meu escritório na Prefeitura daqui a uma hora ou mais, para conversarmos melhor...?}{}{}{}{}
+{46}{Talvez eu faça isso. Tenha um bom dia...}{}{5}{}{-5}{}
+{47}{Hã... talvez eu vá te ver. Tchau!}{}{-4}{}{-5}{}
+{50}{Sinto muito, mas realmente preciso ir... encontre-me no meu escritório na Prefeitura daqui a uma hora ou mais...}{Sinto muito, mas realmente preciso ir... encontre-me no meu escritório na Prefeitura daqui a uma hora ou mais...}{}{}{}{}
+

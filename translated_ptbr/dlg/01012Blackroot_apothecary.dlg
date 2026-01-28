@@ -1,0 +1,103 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{E quem poderia ser você?}{}{5}{me 0}{6}{}
+{3}{Saudações, Grunwalde. Tem um momento?}{}{5}{lf6 1}{10}{}
+{4}{E:}{}{5}{}{0}{}
+{6}{Meu nome é Grunwalde.}{Meu nome é Grunwalde.}{}{}{}{lf6 1}
+{7}{Olá, Grunwalde. Posso falar com você um momento?}{}{5}{}{10}{}
+{8}{E:}{}{5}{}{0}{}
+{10}{Certamente...}{Com certeza...}{}{}{}{}
+{11}{O que você faz aqui, Grunwalde?}{}{5}{}{23}{}
+{12}{Estou interessado em comprar algum veneno.}{}{5}{qu 1007 2, lf5 0, lf1 0, lf2 0, lf3 0}{32}{lf8 1}
+{13}{Voltei para comprar o veneno.}{}{5}{lf4 1, lf1 1, lf5 0}{63}{}
+{14}{Voltei para comprar o veneno.}{}{5}{lf4 1, lf2 1, lf5 0}{68}{}
+{15}{Voltei para comprar o veneno.}{}{5}{lf4 1, lf3 1, lf5 0}{68}{ }
+{16}{Voltei para comprar o veneno.}{}{5}{lf4 1, lf1 0, lf2 0, lf3 0, lf5 0}{54}{}
+{17}{R: $0, 1175-1183}{}{5}{}{100}{}
+{18}{T: 3,10}{}{5}{}{100}{}
+{19}{E:}{}{5}{}{0}{}
+{23}{Alguns me chamam de boticário, mas sou alquimista por ofício. Parece que fui abençoado com o dom de criar venenos.}{Alguns me chamam de boticário, mas sou alquimista por ofício. Parece que fui abençoado com o dom de criar venenos.}{}{}{}{}
+{24}{Alguns podem considerar isso uma maldição.}{}{5}{}{28}{}
+{25}{Isso é interessante. Estou justamente precisando disso.}{}{5}{qu 1007 2, lf5 0, lf1 0, lf2 0, lf3 0}{32}{}
+{26}{K:}{}{5}{}{10}{}
+{27}{E:}{}{5}{}{0}{}
+{28}{Sim, alguns podem. Mas o mundo precisa de homens como eu, tanto quanto precisa de sacerdotes ou guerreiros. Todos desempenhamos o papel que nos foi dado...}{Sim, alguns podem. Mas o mundo precisa de homens como eu, tanto quanto precisa de sacerdotes ou guerreiros. Todos desempenhamos o papel que nos foi dado...}{}{}{}{}
+{29}{Mais alguma tagarelice, e você vai desempenhar o papel de cadáver apodrecido...}{}{5}{}{88}{re -10}
+{30}{K:}{}{5}{}{10}{}
+{31}{E:}{}{5}{}{0}{}
+{32}{Sério? Bem, eu não vendo para qualquer um. Sou um homem de princípios e detestaria que meu produto caísse em mãos erradas...}{Sério? Bem, eu não vendo para qualquer um. Sou um homem de princípios e detestaria que meu produto caísse em mãos erradas...}{}{}{}{}
+{33}{Não se preocupe. Garantirei que seja usado para uma boa causa.}{}{5}{}{79}{}
+{34}{Claro. Estou apenas entregando a perigosos ladrões.}{}{5}{}{105}{re -5}
+{35}{Parece que tenho um problema de infestação...}{}{5}{}{37}{}
+{36}{E:}{}{5}{}{0}{}
+{37}{Posso ser capaz de ajudá-lo com isso. Qual parece ser o problema?}{Posso ser capaz de ajudá-lo com isso. Qual parece ser o problema?}{}{}{}{}
+{38}{Tenho... er... ratos. Tenho um problema com ratos...}{}{5}{}{43}{}
+{39}{As baratas criaram gosto pela minha gaveta de roupas íntimas.}{}{5}{}{110}{}
+{40}{Isso seria problema meu.}{}{5}{}{79}{re -5}
+{41}{K:}{}{5}{}{10}{}
+{42}{E:}{}{5}{}{0}{}
+{43}{Hmmm. Meus venenos são fortes, amigo. Mas quão grandes eles são?}{Hmmm. Meus venenos são fortes, amigo. Mas quão grandes eles são?}{}{}{}{}
+{44}{Uhh... grandes como orcs. Eles até parecem orcs.}{}{5}{}{49}{}
+{45}{Já vi camundongos maiores, mas esses ratos são malvados.}{}{5}{}{110}{}
+{46}{Apenas me venda o veneno, trabalhador.}{}{5}{}{83}{re -5}
+{47}{E:}{}{5}{}{0}{}
+{49}{Orcs! Por que não me disse antes? Não tenho apreço por esses desgraçados. Claro que vou vender para você!}{Orcs! Por que não me disse antes? Não tenho apreço por esses desgraçados. Claro que vou vender para você!}{}{}{}{lf4 1}
+{50}{Ótimo. Qual é o seu preço?}{}{5}{}{54}{}
+{51}{Quem falou em vender? Eu vou PEGAR o que quero...}{}{5}{}{88}{re -10}
+{52}{E:}{}{5}{}{0}{}
+{54}{100 moedas de ouro. Nem mais, nem menos.}{100 moedas de ouro. Nem mais, nem menos.}{}{}{}{}
+{55}{Parece bom.}{}{5}{$$100, ha -6}{63}{lf1 1}
+{56}{Parece bom.}{}{5}{$$-99, ha -6}{115}{lf1 1}
+{58}{Que tal 75?}{}{5}{ha 10, ha -14}{68}{lf2 1}
+{60}{Acho que 50 parece mais apropriado.}{}{5}{ha 15}{68}{lf3 1}
+{61}{E:}{}{5}{}{0}{}
+{63}{O preço está fixado em 100 moedas.}{O preço está fixado em 100 moedas.}{}{}{}{}
+{64}{Trato feito. 100 moedas.}{}{5}{ $$100}{74}{$$-100, lf1 1}
+{65}{Trato feito. 100 moedas.}{}{5}{$$-99}{115}{lf1 1}
+{66}{Mudei de ideia. E com isso, vou me retirar.}{}{5}{}{0}{}
+{68}{Claro. O preço está fixado. Estamos de acordo?}{Claro. O preço está fixado. Estamos de acordo?}{}{}{}{}
+{69}{Trato feito. 75 moedas então.}{}{5}{lf2 1, $$75}{74}{$$-75}
+{70}{Trato feito. 75 moedas então.}{}{5}{lf2 1, $$-74}{115}{}
+{71}{Trato feito. 50 moedas então.}{}{5}{lf3 1, $$50}{74}{$$-50}
+{72}{Trato feito. 50 moedas então.}{}{5}{lf3 1, $$-49}{115}{}
+{74}{O veneno é seu. Boa sorte com esses "ratos".}{O veneno é seu. Boa sorte com esses "ratos".}{}{}{}{in -3611, lf5 1}
+{75}{Obrigado e tenha um bom dia.}{}{5}{}{0}{}
+{79}{Receio que isso não seja aceitável. Sigilo e veneno raramente combinam.}{Receio que isso não seja aceitável. Sigilo e veneno raramente combinam.}{}{}{}{}
+{80}{Nem minha lâmina e suas entranhas vão combinar. Entregue logo.}{}{5}{}{88}{}
+{81}{Se precisa saber, eu tenho um problema com... er... RATOS...}{}{5}{}{43}{}
+{82}{E:}{}{5}{}{0}{}
+{83}{Seu silêncio não vai te levar a lugar nenhum. Talvez você deva ir embora.}{Seu silêncio não vai te levar a lugar nenhum. Talvez você deva ir embora.}{}{}{}{}
+{84}{Logo depois que eu ajustar sua disposição azeda.}{}{5}{}{88}{}
+{85}{Tudo bem. Esses ratos parecem e cheiram muito com orcs.}{}{5}{}{49}{}
+{86}{K:}{}{5}{}{10}{}
+{87}{E:}{}{5}{}{0}{}
+{88}{Eu não faria isso, meu amigo. Minha lâmina está envenenada, e você provavelmente não sobreviveria à sua mordida.}{Eu não faria isso, meu amigo. Minha lâmina está envenenada, e você provavelmente não sobreviveria à sua mordida.}{}{}{}{}
+{89}{Por favor. Me dói ouvir alegações tão vazias.}{}{5}{}{}{co, fl 80}
+{90}{Vejo que você não é alguém com quem se brincar. Podemos continuar?}{}{5}{}{95}{}
+{91}{K:}{}{5}{}{10}{}
+{92}{E:}{}{5}{}{0}{}
+{93}{Que pena. Parece que você será o próximo exemplo da eficiência do meu veneno...}{Que pena. Parece que você será o próximo exemplo da eficiência do meu veneno...}{}{}{}{}
+{95}{Suponho que sim. Agora, qual exatamente é a natureza do seu problema?}{Suponho que sim. Agora, qual exatamente é a natureza do seu problema?}{}{}{}{}
+{96}{Tudo certo. Preciso cuidar de alguns... ah, orcs.}{}{5}{lf8 1}{49}{}
+{97}{Já que você é o meu problema, a natureza é covarde.}{}{5}{}{}{co, fl 80}
+{98}{K:}{}{5}{}{10}{}
+{99}{E:}{}{5}{}{0}{}
+{100}{Posso ser de mais alguma ajuda?}{Posso ser de mais alguma ajuda?}{}{}{}{}
+{101}{K:}{}{5}{}{10}{}
+{102}{E:}{}{5}{}{0}{}
+{105}{Ladrões! Você está louco? Tem alguma ideia do que ladrões poderiam fazer se colocassem as mãos nos meus venenos?}{Ladrões! Você está louco? Tem alguma ideia do que ladrões poderiam fazer se colocassem as mãos nos meus venenos?}{}{}{}{}
+{106}{Naturalmente. Exatamente o que estou planejando fazer com você.}{}{5}{}{}{co, fl 88}
+{107}{Eu estava apenas brincando. Na verdade, tenho um problema com... er... RATOS.}{}{5}{}{43}{}
+{108}{E:}{}{5}{}{0}{}
+{110}{Parece uma caça pequena para os venenos que eu crio. Talvez você precise procurar em outro lugar.}{Parece uma caça pequena para os venenos que eu crio. Talvez você precise procurar em outro lugar.}{}{}{}{}
+{111}{Bem, para ser honesto, essas criaturas se parecem muito com orcs.}{}{5}{}{49}{}
+{112}{Fale de novo, e você vai conhecer o SEU criador.}{}{5}{}{88}{re -10}
+{113}{E:}{}{5}{}{0}{}
+{115}{Desculpe. Parece que você está sem fundos. Volte quando tiver dinheiro suficiente...}{Desculpe. Parece que você está sem fundos. Volte quando tiver dinheiro suficiente...}{}{}{}{}
+{116}{E:}{}{5}{}{0}{}
+{120}{G:}{G:}{}{}{}{}
+{121}{Hã...}{}{-4}{}{}{}
+{125}{Ah, que vergonha. Um simplório entrou na minha loja. Tome... aqui estão 5 moedas. [Ele as entrega a você.] Os deuses favorecem aqueles que são misericordiosos com os de sua espécie.}{Ah, que vergonha. Um simplório entrou na minha loja. Tome... aqui estão 5 moedas. [Ele as entrega a você.] Os deuses favorecem aqueles que são misericordiosos com os de sua espécie.}{}{}{}{$$5}
+{126}{Uh? Eu não simplório! Eu esmagar seu crânio!}{}{-4}{}{}{co, fl 80}
+{127}{E:}{}{-4}{}{0}{lf7 1}
+{130}{Boa sorte para você. Que os deuses tenham misericórdia da sua alma miserável...}{Boa sorte para você. Que os deuses tenham misericórdia de sua alma miserável...}{}{}{}{}
+

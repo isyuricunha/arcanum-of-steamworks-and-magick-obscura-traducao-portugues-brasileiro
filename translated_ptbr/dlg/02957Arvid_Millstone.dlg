@@ -1,0 +1,75 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá, senhor. Posso saber quem é você?}{}{5}{me 0, re 41}{32}{}
+{3}{Olá, Arvid. Posso falar com você um momento?}{}{5}{me 1, re 41}{69}{}
+{4}{Senhor! Por que está falando comigo assim?}{}{5}{me 0, re -40}{11}{}
+{5}{Arvid! O que eu fiz para ofendê-lo?}{}{5}{me 1, re -40}{11}{}
+{7}{Oi! Quem é você?}{}{-4}{me 0}{32}{}
+{8}{Ei, Arvid! Você fala comigo...?}{}{-4}{me 1}{69}{}
+{9}{E:}{}{1}{}{0}{}
+{11}{Um anão vê muitas coisas aqui embaixo nas minas, mas não posso dizer que já tenha visto criatura mais repulsiva que você! Saia da minha frente!}{Um anão vê muitas coisas aqui embaixo nas minas, mas não posso dizer que já tenha visto criatura mais repulsiva que você! Saia da minha frente!}{}{}{}{}
+{12}{Tem certeza dessa opinião, senhor?}{}{5}{ch 13}{18}{}
+{13}{Bom anão! Não podemos superar nossas pequenas diferenças?}{}{5}{me 0}{28}{re +10}
+{14}{Por favor, Arvid. Achei que você e eu tínhamos um acordo...}{}{5}{me 1}{28}{re +10}
+{15}{Diga isso de novo, e esta mina se tornará seu túmulo...}{}{5}{}{22}{re -5}
+{16}{E:}{}{5}{}{0}{}
+{18}{[O anão parece um pouco surpreso, então sorri amplamente.] Bem! Longe de mim não admitir quando estou enganado! Se soubesse que você era um cavalheiro de tal qualidade, não teria dito palavras tão tolas. Perdoe-me, senhor...}{[O anão parece um pouco surpreso, então sorri amplamente.] Bem! Longe de mim não admitir quando estou enganado! Se soubesse que você era uma dama de tal qualidade, não teria dito palavras tão tolas. Perdoe-me, senhora...}{}{}{}{}
+{19}{Tudo perdoado, senhor. Posso perguntar quem é você?}{}{5}{me 0}{32}{}
+{20}{Claro, Arvid. Posso falar com você um momento?}{}{5}{me 1}{69}{}
+{21}{E:}{}{5}{}{0}{}
+{22}{Com licença? Está ameaçando um anão em sua própria casa? Não recomendo que faça isso, senhor. Posso me sentir inclinado a fazer algo a respeito... eu e minha equipe...}{Com licença? Está ameaçando um anão em sua própria casa? Não recomendo que faça isso, senhora. Posso me sentir inclinada a fazer algo a respeito... eu e minha equipe...}{}{}{}{}
+{23}{Claro, senhor. Por favor, perdoe minha língua afiada...}{}{5}{}{28}{re +10}
+{24}{Vou mentir para sua família e dizer que você morreu bem...}{}{5}{}{}{co, fl 26}
+{25}{E:}{}{5}{}{0}{}
+{26}{Você não fala assim com um anão e vive, garoto...}{Você não fala assim com um anão e vive, garota...}{}{}{}{}
+{28}{[O anão pondera suas palavras, então sorri meio de lado.] Bem, suponho que possa mostrar um pouco de misericórdia com alguém como você. Pelo menos por enquanto. Em que posso ajudá-lo?}{[O anão pondera suas palavras, então sorri meio de lado.] Bem, suponho que possa mostrar um pouco de misericórdia com alguém como você. Pelo menos por enquanto. Em que posso ajudá-la?}{}{}{}{}
+{29}{Obrigado pela consideração. Posso perguntar quem é você?}{}{5}{me 0}{32}{re +5}
+{30}{Agradeço, Arvid. Tem um momento?}{}{5}{me 1}{69}{}
+{31}{E:}{}{5}{}{0}{}
+{32}{[O anão à sua frente é robusto, coberto de fuligem, com tatuagens nos antebraços.] Meu nome é Arvid Millstone, e sou o feitor aqui nas Minas do Clã Roda...}{[A anã à sua frente é robusta, coberta de fuligem, com tatuagens nos antebraços.] Meu nome é Arvid Millstone, e sou a feitora aqui nas Minas do Clã Roda...}{}{}{}{}
+{33}{Prazer, Arvid. Por que todos esses mineiros estão aqui parados?}{}{5}{}{38}{}
+{35}{Oi, Arvid! O que vocês todos estão fazendo aqui?}{}{-4}{}{38}{}
+{36}{E:}{}{-4}{}{0}{}
+{38}{Bem, senhor, temos tido alguns problemas aqui nas minas ultimamente. Abrimos um novo túnel há alguns dias, e venho perdendo mineiros desde então. [O velho anão estremece, inconscientemente.] Às vezes, quando se cava tão fundo, encontra-se coisas que nunca deveriam ter sido encontradas. Acho que há algo ruim lá atrás, algo maligno...}{Bem, senhora, temos tido alguns problemas aqui nas minas ultimamente. Abrimos um novo túnel há alguns dias, e venho perdendo mineiros desde então. [A velha anã estremece, inconscientemente.] Às vezes, quando se cava tão fundo, encontra-se coisas que nunca deveriam ter sido encontradas. Acho que há algo ruim lá atrás, algo maligno...}{}{}{}{}
+{39}{Na verdade, eu já cuidei da criatura...}{}{5}{gf2614 1}{90}{}
+{40}{Eu já a matei!}{}{-4}{gf2614 1}{90}{}
+{41}{Parece que você pode precisar de ajuda aqui, Arvid...}{}{5}{gf2614 0}{46}{}
+{42}{Quiçá eu ajude você, Arvid! Eu mato coisas!}{}{-4}{gf2614 0}{46}{}
+{43}{Parece bem ruim. Vou evitar esta área. Tenha um bom dia...}{}{5}{gf2614 0}{0}{}
+{44}{Isso parece assustador! Vou ficar longe daqui! Tchau!}{}{-4}{gf2614 0}{0}{}
+{46}{Hmmm. Você é mais corajoso do que eu. Já vi coisas aqui embaixo que você não acreditaria, mas o que quer que esteja lá atrás me deixou apavorado. Sua ajuda seria muito apreciada, forasteiro, embora eu não saiba se recomendaria ALGUÉM ir até lá...}{Hmmm. Você é mais corajoso do que eu. Já vi coisas aqui embaixo que você não acreditaria, mas o que quer que esteja lá atrás me deixou apavorado. Sua ajuda seria muito apreciada, forasteiro, embora eu não saiba se recomendaria ALGUÉM ir até lá...}{}{}{}{}
+{47}{Não tenho dúvidas de que darei conta do recado, Arvid...}{}{5}{}{52}{}
+{48}{Eu mato isso sem problemas! Eu não tenho medo!}{}{-4}{}{52}{}
+{49}{Entendo. Talvez você esteja certo. Vou me despedir de você...}{}{5}{}{90}{}
+{50}{Uh... azar o seu. Tchau...}{}{-4}{}{90}{}
+{52}{[Ele olha você de cima a baixo, assentindo.] Talvez você consiga. Não posso lhe oferecer nada pelo trabalho, mas sei que os anões do Clã da Roda ficariam muito gratos se você destruísse o que tem matado todos os nossos mineradores...}{[Ele olha você de cima a baixo, assentindo.] Talvez você consiga. Não posso lhe oferecer nada pelo trabalho, mas sei que os anões do Clã da Roda ficariam muito gratos se você destruísse o que tem matado todos os nossos mineradores...}{}{}{}{qu1156 1}
+{53}{O respeito deles é tudo de que preciso. Vou cuidar desse monstro...}{}{5}{}{60}{re +10, qu1156 2}
+{54}{Claro! Eu faço isso por eles! Eu mato! Eu mato!}{}{-4}{}{60}{re +10, qu1156 2}
+{56}{Hmmm. Isso não é pagamento suficiente pelo risco. Tenha um bom dia, senhor...}{}{5}{}{0}{re -5}
+{57}{Eu não faço nada de graça. Tchau.}{}{-4}{}{0}{re -5}
+{58}{Talvez mais tarde. Tenha um bom dia...}{}{5}{}{0}{}
+{59}{Uh... quiçá mais tarde. Tchau...}{}{-4}{}{0}{}
+{60}{[Arvid assente para você, estendendo a mão.] Obrigado, senhor. Fico muito agradecido... eu e toda a tripulação aqui...}{[Arvid assente para você, estendendo a mão.] Obrigada, senhora. Fico muito agradecida... eu e toda a tripulação aqui...}{}{}{}{}
+{61}{É um prazer, Arvid. Voltarei quando tiver despachado a criatura...}{}{5}{}{65}{}
+{62}{Claro, Arvid! Eu volto quando matá-la!}{}{5}{}{65}{}
+{65}{Novamente, meus agradecimentos. Vamos esperá-lo aqui...}{Novamente, meus agradecimentos. Vamos esperá-lo aqui...}{}{}{}{}
+{67}{E:}{}{1}{}{0}{}
+{69}{Do que precisa?}{Do que precisa?}{}{}{}{}
+{70}{Por que todos vocês estão parados aqui, Arvid?}{}{5}{qu1156 0}{38}{}
+{71}{Talvez eu consiga cuidar desse monstro, Arvid...}{}{5}{qu1156 1}{46}{}
+{72}{Ainda não matei a criatura, Arvid...}{}{5}{qu1156 2}{82}{}
+{73}{Matei as criaturas, Arvid...}{}{5}{qa1156 1, gf2614 1}{90}{}
+{76}{Pra que vocês tão todos aí parados?}{}{-4}{qu1156 0}{38}{}
+{77}{Hã... talvez eu mate coisa pra você!}{}{-4}{qu1156 1}{46}{}
+{78}{Eu ainda não matei monstro, Arvid...}{}{-4}{qu1156 2}{82}{}
+{79}{Eu matei monstros! Eu matei monstro!}{}{-4}{qa1156 1, gf2614 1}{90}{}
+{80}{E:}{}{1}{}{0}{}
+{82}{Tenha cuidado lá fora. Boa sorte...}{Tenha cuidado lá fora. Boa sorte...}{}{}{}{}
+{83}{K:}{}{1}{}{69}{}
+{84}{E:}{}{1}{}{0}{}
+{90}{Você matou! Estou impressionado, senhor! O que exatamente eram?}{Você matou! Estou impressionada, senhora! O que exatamente eram?}{}{}{}{}
+{91}{Parecia ser uma família de aranhas cristalinas. Criaturas terríveis...}{}{5}{}{96}{}
+{92}{Pareciam aranhas de cristal! Assustadoras!}{}{-4}{}{96}{}
+{96}{Já ouvi lendas sobre Aranhas de Cristal do Pavor... talvez você tenha encontrado algumas delas. Nunca achei que fossem reais... [Ele estremece novamente.] Obrigado, meu amigo... o Clã da Roda está em dívida com você...}{Já ouvi lendas sobre Aranhas de Cristal do Pavor... talvez você tenha encontrado algumas delas. Nunca achei que fossem reais... [Ele estremece novamente.] Obrigado, meu amigo... o Clã da Roda está em dívida com você...}{}{}{}{qu1156 4, rp 1048, lf1 1}
+{97}{E:}{}{1}{}{0}{}
+{99}{Todos no Clã da Roda saberão de sua bravura, senhor...}{Todos no Clã da Roda saberão de sua bravura, senhora...}{}{}{}{}
+

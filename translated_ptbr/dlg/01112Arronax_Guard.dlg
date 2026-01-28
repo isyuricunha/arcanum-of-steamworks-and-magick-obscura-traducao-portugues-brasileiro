@@ -1,0 +1,54 @@
+{1}{Pare aí. Qual é o seu assunto aqui?}{Pare aí. Qual é o seu assunto aqui?}{}{}{}{}
+{2}{Estou aqui por Arronax. Saia da minha frente.}{}{5}{gf2029 0}{10}{}
+{3}{Vim buscar os Arro-nacos...}{}{-4}{gf2029 0}{10}{}
+{4}{Estou aqui para ver Arronax. Ele me mandou chamar...}{}{5}{gf2029 1}{}{}
+{5}{Eu vim ver os Arro-nacos. Ele me chamou...}{}{-4}{gf2029 1}{}{}
+{6}{Nenhum motivo em especial. Já estou de saída.}{}{5}{}{0}{}
+{7}{Vou indo agora...}{}{-4}{}{0}{}
+{10}{[O guarda parece surpreso, assustado com sua agressividade.] É-é... sim, claro. Fomos avisados para esperar visitantes. Arronax está lá dentro. Sinta-se à vontade para entrar e falar com ele...}{[O guarda parece surpreso, assustado com sua agressividade.] É-é... sim, claro. Fomos avisados para esperar visitantes. Arronax está lá dentro. Sinta-se à vontade para entrar e falar com ele...}{}{}{}{}
+{11}{Obrigado e tenha um bom dia.}{}{5}{}{0}{lf1 1}
+{12}{Tá bom.}{}{-4}{}{0}{lf1 1}
+{15}{Sim? O que você quer?}{Sim? O que você quer?}{}{}{}{}
+{16}{Você foi ordenado a me entregar a chave da prisão de Arronax...}{}{5}{ps 16}{25}{}
+{17}{Você foi ordenado a me entregar a chave da prisão de Arronax...}{}{5}{ps -15}{70}{lf2 1}
+{18}{Eu sei que você tem a chave da prisão de Arronax. Entregue-a...}{}{5}{}{70}{lf2 1}
+{19}{Nada. Desculpe tê-lo incomodado...}{}{5}{}{0}{}
+{25}{[O guarda olha para você, a dúvida nublando suas feições.] Não recebi nenhuma ordem dessas de Kerghan. Meu dever aqui é específico-sob nenhuma circunstância devo permitir que Arronax saia. Se Kerghan mudou essas ordens, então ele terá que vir aqui pessoalmente me dizer.}{[O guarda olha para você, a dúvida nublando suas feições.] Não recebi nenhuma ordem dessas de Kerghan. Meu dever aqui é específico-sob nenhuma circunstância devo permitir que Arronax saia. Se Kerghan mudou essas ordens, então ele terá que vir aqui pessoalmente me dizer.}{}{}{}{}
+{26}{Sim... bem, estou dispensando você do serviço...}{}{5}{}{55}{}
+{27}{Talvez você não entenda. Você tem ideia de quem eu sou?}{}{5}{}{30}{}
+{28}{Vou me retirar...}{}{5}{}{0}{}
+{30}{[O guarda olha ao redor, visivelmente nervoso.] Sim, claro... Fui avisado para esperar por você e deixá-lo entrar. Mas Kerghan não disse nada sobre entregar a chave. Que motivo ele poderia ter para isso?}{[O guarda olha ao redor, visivelmente nervoso.] Sim, claro... Fui avisado para esperar por você e deixá-lo entrar. Mas Kerghan não disse nada sobre entregar a chave. Que motivo ele poderia ter para isso?}{}{}{}{}
+{31}{Não vou pedir de novo. Kerghan não vai gostar de ter que vir aqui...}{}{5}{}{35}{}
+{32}{Ele quer falar com Arronax pessoalmente...}{}{5}{}{60}{}
+{33}{Eu realmente preciso ir...}{}{5}{}{0}{}
+{35}{V-Você deve entender minha posição aqui... Eu não sei... Quer dizer... por quê...?}{V-Você deve entender minha posição aqui... Eu não sei... Quer dizer... por quê...?}{}{}{}{}
+{36}{Parece que Kerghan mudou de ideia...}{}{5}{}{65}{}
+{37}{Não me diga. Você pode encarar Kerghan quando ele chegar...}{}{5}{}{40}{}
+{38}{Esqueça que perguntei. Vou me retirar.}{}{5}{}{0}{}
+{40}{Espere! Sou um servo leal! Estou tentando cumprir meu dever...}{Espere! Sou um servo leal! Estou tentando cumprir meu dever...}{}{}{}{}
+{41}{E você obviamente exagerou. Desejo-lhe sorte...}{}{5}{}{45}{}
+{45}{Não! Aqui... pegue. [Ele lhe entrega um amuleto de cristal.] Claro, eu só estava sendo cauteloso. Podemos manter isso entre nós? Eu odiaria que Kerghan pensasse que duvidei de seu julgamento...}{Não! Aqui... pegue. [Ele lhe entrega um amuleto de cristal.] Claro, eu só estava sendo cauteloso. Podemos manter isso entre nós? Eu odiaria que Kerghan pensasse que duvidei de seu julgamento...}{}{}{}{}
+{46}{Claro. Aplaudo sua discrição...}{}{5}{}{48}{}
+{48}{Obviamente você sabe como funciona. Tome muito cuidado... o Warven não é algo com que se brinque. E mais uma vez, obrigado pela sua paciência...}{Obviamente você sabe como funciona. Tome muito cuidado... o Warven não é algo com que se brinque. E mais uma vez, obrigado pela sua paciência...}{}{}{}{}
+{49}{Sem problemas. Tenha um bom dia...}{}{5}{}{0}{lf3 1}
+{55}{Do que está falando? Me dispensar do dever? Este tem sido meu posto nos últimos 500 anos. Qual o motivo disso?}{Me dispensar do dever? Este tem sido meu posto nos últimos 500 anos. Qual o motivo disso?}{}{}{}{}
+{56}{Espere. Está me questionando? Tem ideia de quem eu sou?}{}{5}{}{30}{}
+{57}{Kerghan pensou em recompensá-lo por... hã... boa conduta...}{}{5}{}{70}{lf2 1}
+{58}{Talvez eu tenha me enganado. Tenha um bom dia.}{}{5}{}{0}{}
+{60}{Direto? Ele pode fazer isso aqui mesmo, e não há perigo daquele maldito elfo ter ideias de ficar hostil. Isso não faz sentido...}{Direto? Ele pode fazer isso aqui mesmo, e não há perigo daquele maldito elfo ter ideias de ficar hostil. Isso não faz sentido...}{}{}{}{}
+{61}{Não vou perguntar de novo. Kerghan não vai gostar de ter que vir aqui...}{}{5}{}{35}{}
+{62}{Hã... parece que tudo está perdoado...}{}{5}{}{70}{lf2 1}
+{63}{Talvez você esteja certo... vou deixá-lo com seu dever...}{}{5}{}{0}{}
+{65}{Uma mudança de coração? O mestre? Ele vem planejando a conquista de Arcanum nos últimos 2000 anos. Por que colocaria tudo em risco, tão perto do fim?}{Uma mudança de coração? O mestre? Ele vem planejando a conquista de Arcanum nos últimos 2000 anos. Por que colocaria tudo em risco, tão perto do fim?}{}{}{}{}
+{66}{Pode perguntar isso a ele quando vier confrontar VOCÊ...}{}{5}{}{40}{}
+{67}{Talvez ele tenha visto o erro de seus caminhos?}{}{5}{}{70}{lf2 1}
+{68}{Não tenho mais tempo para isso. Vou embora...}{}{5}{}{0}{}
+{70}{Acho que você não deveria estar aqui. Não volte. Da próxima vez que falar comigo, serei forçado a destruí-lo...}{Acho que você não deveria estar aqui. Não volte. Da próxima vez que falar comigo, serei forçado a destruí-lo...}{}{}{}{}
+{71}{Entendo. Infelizmente, não aprecio suas ameaças vazias...}{}{5}{}{}{co, fl 76}
+{72}{Claro. Vou deixá-lo, então...}{}{5}{}{0}{}
+{73}{Você faz sons idiotas. Vou esmagar sua cabeça para fazê-los parar.}{}{-4}{}{}{co, fl 76}
+{74}{Hã... tá bom. Tchauzinho...}{}{-4}{}{0}{}
+{76}{Eu avisei. Agora você vai morrer. Enfrente a fúria dos Warven...}{Eu avisei. Agora você vai morrer. Enfrente a fúria dos Warven...}{}{}{}{}
+{80}{Sinta-se à vontade para falar com Arronax... ele está logo depois dessas portas...}{Sinta-se à vontade para falar com Arronax... ele está logo depois dessas portas...}{}{}{}{}
+{83}{Agradeço novamente pela sua paciência neste assunto...}{Agradeço novamente pela sua paciência neste assunto...}{}{}{}{}
+

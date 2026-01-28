@@ -1,0 +1,374 @@
+{1}{G:}{G:}{}{1}{}{}
+{2}{Saudações, senhor. Posso perguntar quem é você?}{}{5}{me 0, re 41}{39}{}
+{3}{Olá, Perriman. Posso incomodá-lo por um momento?}{}{5}{me 1, re 41}{45}{}
+{5}{Senhor! Acabamos de nos conhecer! Onde estão seus modos?}{}{5}{me 0, re -40}{13}{}
+{6}{Sr. Smythe! Fiz algo para ofendê-lo?}{}{5}{me 1, re -40}{13}{}
+{8}{Oi! Posso perguntar quem é você?}{}{-4}{me 0}{39}{}
+{9}{Oi Perry! Posso fazer algumas perguntas?}{}{-4}{me 1}{45}{}
+{10}{E:}{}{1}{}{0}{}
+{13}{Me desculpe, mas o senhor parece estar me irritando. Talvez seja melhor seguirmos caminhos separados...}{Me desculpe, mas a senhora parece estar me irritando. Talvez seja melhor seguirmos caminhos separados...}{}{2}{}{}
+{14}{Como disse? Talvez o senhor queira reconsiderar suas palavras...}{}{5}{ch 15}{32}{}
+{15}{Senhor! Tenho certeza de que podemos deixar isso para trás...}{}{5}{me 0}{27}{re +15}
+{16}{Perriman! Sempre nos demos tão bem antes...}{}{5}{me 1}{27}{re +15}
+{17}{Você está colocando sua vida em risco, mago...}{}{5}{}{20}{re -5}
+{18}{E:}{}{5}{}{0}{}
+{20}{Me desculpe... ouvi corretamente, senhor? Nenhum homem seria tolo o suficiente para ameaçar um mago Tullan, seria?}{Me desculpe... ouvi corretamente, senhora? Nenhuma mulher seria tola o suficiente para ameaçar um mago Tullan, seria?}{}{3}{}{}
+{21}{Talvez eu tenha exagerado um pouco. Aceite minhas desculpas...}{}{5}{}{27}{re +15}
+{22}{Mago Tullan ou não, você será enterrado aqui em Tarant...}{}{5}{}{}{co, fl 25}
+{23}{E:}{}{5}{}{0}{}
+{25}{Receio que o senhor não vá gostar desta lição...}{Receio que a senhora não vá gostar desta lição...}{}{4}{}{}
+{27}{[O jovem mago fica vermelho, obviamente constrangido.] Novamente, parece que meu temperamento me dominou. Por favor... vamos conversar como homens civilizados...}{[O jovem mago fica vermelho, obviamente constrangido.] Novamente, parece que meu temperamento me dominou. Por favor, senhora... vamos falar um com o outro civilizadamente...}{}{5}{}{}
+{28}{Concordo plenamente, senhor. Posso perguntar quem é você?}{}{5}{me 0}{39}{re +5}
+{29}{Sim, vamos fazer isso. Tem um momento, Perriman...?}{}{5}{me 1}{45}{}
+{30}{E:}{}{5}{}{0}{}
+{32}{[O jovem mago parece reavaliar seu caráter.] Sim, talvez o senhor esteja certo. Fui um pouco irritadiço e, obviamente, estava enganado sobre a natureza do seu caráter. Por favor, perdoe minha língua afiada...}{[O jovem mago parece reavaliar seu caráter.] Sim, talvez a senhora esteja certa. Fui um pouco irritadiço e, obviamente, estava enganado sobre a natureza do seu caráter. Por favor, perdoe minha língua afiada...}{}{6}{}{}
+{33}{Está esquecido. Posso perguntar seu nome?}{}{5}{me 0}{39}{}
+{34}{Está esquecido. Posso fazer algumas perguntas?}{}{5}{me 1}{45}{}
+{35}{E:}{}{5}{}{0}{}
+{36}{Ah, sim! Olá, meu bom homem! Que bom vê-lo novamente! E aqui em Caladon! Digo, o destino muitas vezes joga um jogo estranho, não é?}{Ah, sim! Olá, senhora! Que bom vê-la novamente! E aqui em Caladon! Digo, o destino muitas vezes joga um jogo estranho, não é?}{}{7}{}{}
+{37}{Tem alguns momentos, Perriman?}{}{5}{}{45}{}
+{38}{E:}{}{5}{}{0}{}
+{39}{Claro! Sou Perriman Smythe... recém-formado do Colégio de Fantasma e representante de Tulla, a Cidade dos Magos. Muito prazer em conhecê-lo, senhor...}{Claro! Eu sou Perriman Smythe... recém-formado do Colégio de Fantasmagoria e representante de Tulla, a Cidade dos Magos. Muito prazer em conhecê-la, madame...}{}{8}{}{}
+{40}{O prazer é meu, senhor. Tem um momento?}{}{5}{}{45}{}
+{41}{Oi! Eu @PCNAME@!}{}{-4}{}{42}{}
+{42}{É, sim... olá. Você não é a ervilha mais esperta do caule, não é? Mas não sou de desmerecer alguém só porque os deuses decidiram economizar na matéria cinzenta! Bem-vindo, meu amigo simples! Como posso ajudá-lo?}{É, sim... olá. Você não é a ervilha mais esperta do caule, não é, madame? Mas não sou de desmerecer alguém só porque os deuses decidiram economizar na matéria cinzenta dela! Bem-vinda, minha amiga simples! Como posso ajudá-la?}{}{9}{}{}
+{43}{Posso fazer algumas perguntas, Perry?}{}{-4}{}{45}{}
+{44}{E:}{}{-4}{}{0}{}
+{45}{Certamente...}{Certamente...}{}{10}{}{}
+{46}{O que o traz a Tarant, Perriman?}{}{5}{lf1 0}{60}{lf1 1}
+{47}{Conte-me sobre Tulla... como é lá?}{}{5}{lf1 1}{67}{lf2 1}
+{48}{Por que deixou Tulla em primeiro lugar?}{}{5}{lf1 1}{89}{lf3 1}
+{49}{Talvez pudéssemos viajar juntos?}{}{5}{lf4 0, lf2 1, lf3 1}{112}{}
+{50}{Talvez pudéssemos viajar juntos?}{}{5}{lf4 1, lf2 1, lf3 1}{153}{}
+{51}{Você poderia me treinar para ser uma curandeira especialista, Perriman?}{}{5}{tr 10 -1}{58}{et 10 160}
+{52}{Por que você está em Tarant, Perry?}{}{-4}{lf1 0}{60}{lf1 1}
+{53}{Hã... me fala sobre Toola!}{}{-4}{lf1 1}{67}{lf2 1}
+{54}{Por que você deixou Toola, Perry?}{}{-4}{lf1 1}{89}{lf3 1}
+{55}{Quer vir comigo, Perry?}{}{-4}{lf4 0, lf2 1, lf3 1}{112}{}
+{56}{Quer vir comigo, Perry?}{}{-4}{lf4 1, lf2 1, lf3 1}{153}{}
+{57}{E:}{}{1}{}{0}{}
+{58}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{}{}{}
+{59}{K:}{}{1}{}{45}{}
+{60}{Ah, nada em particular, na verdade. Só viajando e tal. Eu realmente não tinha visto nada além dos muros de Tulla antes de algumas semanas atrás. [O jovem mago sorri, um pouco sem jeito.] Você poderia dizer que vivi uma vida bem protegida.}{Ah, nada em particular, na verdade. Só viajando e tal. Eu realmente não tinha visto nada além dos muros de Tulla antes de algumas semanas atrás. [O jovem mago sorri, um pouco sem jeito.] Você poderia dizer que vivi uma vida bem protegida...}{}{11}{}{}
+{61}{Interessante. Conte-me sobre Tulla... como é lá?}{}{5}{}{67}{lf2 1}
+{62}{Por que deixou Tulla em primeiro lugar?}{}{5}{}{89}{lf3 1}
+{63}{Hã... me fala sobre Toola!}{}{-4}{}{67}{lf2 1}
+{64}{Por que você deixou Toola, Perry?}{}{-4}{}{89}{lf3 1}
+{65}{E:}{}{1}{}{0}{}
+{67}{Tulla? Ah, é absolutamente de tirar o fôlego! Fica no fundo do Oásis da Névoa, escondida por séculos do mundo exterior. A torre negra e sem janelas de Simeon Tor, cercada pelas mansões de pedra dos magos mestres, onde praticam as magias mais antigas e poderosas...}{Tulla? Ah, é absolutamente de tirar o fôlego! Fica no fundo do Oásis da Névoa, escondida por séculos do mundo exterior. A torre negra e sem janelas de Simeon Tor, cercada pelas mansões de pedra dos magos mestres, onde praticam as magias mais antigas e poderosas...}{}{12}{}{}
+{68}{O que mais...?}{}{5}{}{71}{}
+{69}{O que mais?}{}{-4}{}{71}{}
+{71}{No meio do Grande Pátio fica a Piscina de Pelojian, onde dizem que o espírito do grande Conjurador ainda vem vigiar os aprendizes. E no início da noite, quando o sol se põe sobre os Desertos de Vendigroth, você pode ouvir a harmonia assombrosa dos cantores de almas, enquanto tecem melodias com seus correspondentes de outro mundo...}{No meio do Grande Pátio fica a Piscina de Pelojian, onde dizem que o espírito do grande Conjurador ainda vem vigiar os aprendizes. E no início da noite, quando o sol se põe sobre os Desertos de Vendigroth, você pode ouvir a harmonia assombrosa dos cantores de almas, enquanto tecem melodias com seus correspondentes de outro mundo...}{}{13}{}{}
+{72}{Onde fica Tulla, Perriman?}{}{5}{}{82}{}
+{73}{Obrigado, Perriman. Por que você saiu de lá?}{}{5}{}{89}{lf3 1}
+{74}{Você mencionou a torre de Simeon Tor? Quem é ele?}{}{5}{}{105}{}
+{75}{Mais algumas perguntas gerais...}{}{5}{}{45}{}
+{76}{Onde fica Toola, Perry?}{}{-4}{}{82}{}
+{77}{Obrigado, Perry! Por que você saiu de Toola?}{}{-4}{}{89}{lf3 1}
+{78}{Hã... Quem é Simmeun Tore?}{}{-4}{}{105}{}
+{79}{Tenho outras perguntas!}{}{-4}{}{45}{}
+{80}{E:}{}{1}{}{0}{}
+{82}{Tulla? Desculpe, meu amigo, fiz um juramento de nunca revelar esse segredo...}{Tulla? Desculpe, meu amigo, fiz um juramento de nunca revelar esse segredo...}{}{14}{}{}
+{83}{Entendo. Por que você saiu de lá?}{}{5}{}{89}{lf3 1}
+{84}{Mais algumas perguntas gerais...}{}{5}{}{45}{}
+{85}{Entendo. Por que você saiu de Toola?}{}{-4}{}{89}{lf3 1}
+{86}{Tenho outras perguntas!}{}{-4}{}{45}{}
+{87}{E:}{}{1}{}{0}{}
+{89}{Ah... fui enviado a Tarant em uma... como se poderia dizer?... uma 'missão', suponho que você poderia chamar assim. O Mestre Simeon achou que eu era o mais qualificado para o trabalho, então fui para Tarant. E acabei de passar duas semanas com o Sr. Willoughsby me recuperando da minha 'missão'. Uma aventura e tanto, devo dizer.}{Ah... fui enviado a Tarant em uma... como se poderia dizer?... uma 'missão', suponho que você poderia chamar assim. O Mestre Simeon achou que eu era o mais qualificado para o trabalho, então fui para Tarant. E acabei de passar duas semanas com o Sr. Willoughsby me recuperando da minha 'missão'. Uma aventura e tanto, devo dizer.}{}{15}{}{}
+{90}{O que aconteceu?}{}{5}{}{98}{}
+{91}{Consigo imaginar. Quem é esse 'Mestre Simeon'?}{}{5}{}{105}{}
+{92}{Mais algumas perguntas gerais...}{}{5}{}{45}{}
+{93}{O que aconteceu?}{}{-4}{}{98}{}
+{94}{Hã... quem é Mastur Simmeun?}{}{-4}{}{105}{}
+{95}{Tenho outras perguntas!}{}{-4}{}{45}{}
+{96}{E:}{}{1}{}{0}{}
+{98}{Bem, aqui está um jornal descrevendo o que aconteceu como resultado de todo o caso. [Ele o entrega a você.] Prefiro não entrar em toda a história. Mas! Fui procurado por um cavalheiro que parece muito interessado em escrever um pequeno livro sobre o que aconteceu. Sir Chadwick Moore, ou algo assim. Um sujeito meio chato, mas parecia bastante insistente...}{Bem, aqui está um jornal descrevendo o que aconteceu como resultado de todo o caso. [Ele o entrega a você.] Prefiro não entrar em toda a história. Mas! Fui procurado por um cavalheiro que parece muito interessado em escrever um pequeno livro sobre o que aconteceu. Sir Chadwick Moore, ou algo assim. Um sujeito meio chato, mas parecia bastante insistente...}{}{16}{}{in -5227}
+{99}{Vou procurar por ele. Você mencionou um 'Mestre Simeon'. Quem é ele?}{}{5}{}{105}{}
+{100}{Mais algumas perguntas gerais...}{}{5}{}{45}{}
+{101}{Hã... quem é Mastur Simmeun?}{}{-4}{}{105}{}
+{102}{Tenho outras perguntas!}{}{-4}{}{45}{}
+{103}{E:}{}{1}{}{0}{}
+{105}{Mestre Simeon Tor? Ele é o maior mago de todo o Arcanum! Como líder da Assembleia Tullana, é sua responsabilidade supervisionar tudo o que acontece dentro dos muros de Tulla, e muito do que acontece fora. Ele é um homem duro, mas justo, e extremamente poderoso. É um mestre no Colégio de Invocação e versado em muitos outros também...}{Mestre Simeon Tor? Ele é o maior mago de todo o Arcanum! Como líder da Assembleia Tullana, é sua responsabilidade supervisionar tudo o que acontece dentro dos muros de Tulla, e muito do que acontece fora. Ele é um homem duro, mas justo, e extremamente poderoso. É um mestre no Colégio de Invocação e versado em muitos outros também...}{}{17}{}{}
+{106}{Interessante. Fale-me de Tulla... como é lá?}{}{5}{}{67}{lf2 1}
+{107}{Mais algumas perguntas gerais...}{}{5}{}{45}{}
+{108}{Hã... como é Toola, Perry?}{}{-4}{}{67}{lf2 1}
+{109}{Tenho outras perguntas!}{}{-4}{}{45}{}
+{110}{E:}{}{1}{}{0}{}
+{112}{Hmmm. Uma proposta interessante. Você parece bem viajado, meu amigo... mas o que VOCÊ está fazendo pelo mundo? O que o traz até Tarant?}{Hmmm. Uma proposta interessante. Você parece bem viajado, meu amigo... mas o que VOCÊ está fazendo pelo mundo? O que o traz até Tarant?}{}{18}{}{}
+{113}{É uma história muito longa, Perriman... [Conte-lhe tudo.]}{}{5}{}{119}{}
+{114}{Só viajando, como você, meu velho...}{}{5}{}{143}{}
+{115}{Aquilo é uma LONGA história, Perry...[Conte tudo a ele.]}{}{-4}{}{119}{}
+{116}{Ah... só estou andando por aí e tal...}{}{-4}{}{143}{}
+{117}{E:}{}{1}{}{0}{}
+{119}{Entendo. [Ele fica em silêncio por um tempo, refletindo sobre o que você lhe contou.] Então o que você está me dizendo é que toda a sua aventura começou a partir de um incidente infeliz que você viveu a bordo do dirigível, o IFS Zéfiro...?}{Entendo. [Ele fica em silêncio por um tempo, refletindo sobre o que você lhe contou.] Então o que você está me dizendo é que toda a sua aventura começou a partir de um incidente infeliz que você viveu a bordo do dirigível, o IFS Zéfiro...?}{}{19}{}{}
+{120}{Sim.}{}{5}{}{126}{}
+{121}{Não... eu estava falando metaforicamente, é claro...}{}{5}{}{143}{lf4 1}
+{122}{É!}{}{-4}{}{126}{}
+{123}{Não... só estou brincando...!}{}{-4}{}{143}{lf4 1}
+{124}{E:}{}{1}{}{0}{}
+{126}{Bem, devo dizer que nunca ouvi uma história mais interessante em toda a minha vida! E eu achava que já tinha passado por uma experiência bem angustiante...}{Bem, devo dizer que nunca ouvi uma história mais interessante em toda a minha vida! E eu achava que já tinha passado por uma experiência bem angustiante...}{}{20}{}{}
+{127}{Você vai se juntar a mim, então?}{}{5}{pa -6577}{133}{jo 0 139}
+{128}{Então você vai se juntar a mim, Perriman?}{}{5}{pa 6577}{318}{}
+{129}{Quer se juntar a mim, Perry?}{}{-4}{pa -6577}{133}{jo 0 139}
+{130}{Quer se juntar a mim, Perry?}{}{-4}{pa 6577}{318}{}
+{131}{K:}{}{1}{}{45}{}
+{132}{E:}{}{1}{}{0}{}
+{133}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{21}{}{}
+{134}{Mais algumas perguntas gerais...}{}{5}{}{45}{}
+{135}{Tenho outras perguntas!}{}{-4}{}{45}{}
+{136}{E:}{}{1}{}{0}{}
+{139}{Sim, é claro! Seria uma honra viajar com você e ver no que vamos dar. Acho que Mestre Simeon gostaria de ter um representante de Tulla entre aqueles destinados a salvar o mundo...[Ele sorri, amplamente.]}{Sim, é claro! Seria uma honra viajar com você e ver no que vamos dar. Acho que Mestre Simeon gostaria de ter um representante de Tulla entre aqueles destinados a salvar o mundo...[Ele sorri, amplamente.]}{}{22}{}{}
+{140}{Vamos embora, então...}{}{5}{}{0}{}
+{141}{Vamos!}{}{-4}{}{0}{}
+{143}{Ahhh, entendo. [Perriman parece um pouco incerto sobre você.] Bem, seja como for...}{Ahhh, entendo. [Perriman parece um pouco incerto sobre você.] Bem, seja como for...}{}{23}{}{}
+{144}{Você vai se juntar a mim, então?}{}{5}{pa 6577}{150}{}
+{146}{Quer se juntar a mim, Perry?}{}{-4}{pa -6577}{150}{}
+{148}{K:}{}{1}{}{45}{}
+{149}{E:}{}{1}{}{0}{}
+{150}{Acho que não. Não sou especialista no assunto, mas acho que companheiros de viagem precisam compartilhar uma confiança mútua. Talvez devêssemos seguir caminhos separados...}{Acho que não. Não sou especialista no assunto, mas acho que companheiros de viagem precisam compartilhar uma confiança mútua. Talvez devêssemos seguir caminhos separados...}{}{24}{}{}
+{151}{E:}{}{1}{}{0}{}
+{153}{Bem, ah... não tenho tanta certeza. Você tem certeza de que foi completamente honesto comigo sobre seus planos? O que o traz a Tarant?}{Bem, ah... não tenho tanta certeza. Você tem certeza de que foi completamente honesto comigo sobre seus planos? O que o traz a Tarant?}{}{25}{}{}
+{154}{É uma história muito longa, Perriman...[Conte tudo a ele.]}{}{5}{}{126}{}
+{155}{Como eu disse, estou apenas viajando, como você, meu velho...}{}{5}{}{143}{}
+{156}{Tá bom... é uma LONGA história, Perriman! [Conte tudo a ele.]}{}{-4}{}{126}{}
+{157}{Ah... eu já disse que só estou andando por aí!}{}{-4}{}{143}{}
+{158}{E:}{}{1}{}{0}{}
+{160}{Ora, sim! Seria uma honra. Não quero ser rude, mas a tradição exige que eu cobre 500 peças de ouro para isso... você tem o dinheiro?}{Ora, sim! Seria uma honra. Não quero ser rude, mas a tradição exige que eu cobre 500 peças de ouro para isso... você tem o dinheiro?}{}{26}{}{}
+{161}{Sim. Vou pagar pelo treinamento agora mesmo...}{}{5}{$$500}{166}{}
+{162}{Sim, mas talvez em outra hora. Mais algumas perguntas...}{}{5}{$$500}{45}{}
+{163}{Não... vamos falar sobre isso de novo, mais tarde. Mais algumas perguntas...}{}{5}{$$-499}{45}{}
+{164}{E:}{}{5}{}{0}{}
+{166}{Muito bem, então! Deixe-me mostrar algumas coisas... [Ele o faz.]... e pronto! Agora você é um Especialista em Cura! Muito bem! Se algum dia quiser se tornar um Mestre curandeiro, deve procurar Fawn em Qintarra.}{Muito bem, então! Deixe-me mostrar algumas coisas... [Ele o faz.]... e pronto! Agora você é um Especialista em Cura! Muito bem! Se algum dia quiser se tornar um Mestre curandeiro, deve procurar Fawn em Qintarra.}{}{27}{}{$$-500, tr 10 2, ru2170}
+{167}{Obrigado. Mais algumas perguntas...}{}{5}{}{45}{}
+{168}{E:}{}{5}{}{0}{}
+{170}{É... com licença, mas eu conheço este cavalheiro. O Sr. Tarrelond-Ashe foi aluno em Tulla enquanto eu estava lá. Ele abandonou os estudos antes de terminar... acho que isso já diz o suficiente sobre o tipo de indivíduo que ele é. Não confio nele nem um pouco, e nem você deveria.}{É... com licença, mas eu conheço este cavalheiro. O Sr. Tarrelond-Ashe foi aluno em Tulla enquanto eu estava lá. Ele abandonou os estudos antes de terminar... acho que isso já diz o suficiente sobre o tipo de indivíduo que ele é. Não confio nele nem um pouco, e nem você deveria.}{}{28}{}{}
+{171}{Vou pensar nisso. Agora, Geoffrey, o que está fazendo aqui?}{}{5}{}{-22}{}
+{172}{Hã... tá bom. Jeffy! Por que você tá aqui fora?}{}{-4}{}{-22}{}
+{174}{Como posso ajudá-lo?}{Como posso ajudá-lo?}{}{29}{}{}
+{175}{B:}{}{1}{wa 0}{}{}
+{176}{K:}{}{1}{wa 0}{195}{}
+{177}{Gostaria que fizesse algo por mim, Perriman...}{}{5}{wa 0}{289}{}
+{178}{Preciso que você faça uma coisa pra mim, Perry!}{}{-4}{wa 0}{289}{}
+{179}{Você pode me treinar para ser um especialista em cura, Perriman?}{}{5}{tr 10 -1, wa 0}{332}{et 10  610}
+{180}{Pode parar de esperar agora, Perriman...}{}{5}{wa 1, pa -6577}{332}{uw 0 303}
+{181}{Pare de esperar, Perry!...}{}{-4}{wa 1, pa -6577}{332}{uw 0 303}
+{182}{Pode parar de esperar agora, Perriman...}{}{5}{wa 1, pa 6577}{318}{}
+{183}{Pare de esperar, Perry!...}{}{-4}{wa 1, pa 6577}{318}{}
+{184}{E:}{}{1}{}{0}{}
+{195}{Que tipo de perguntas você tem?}{Que tipo de perguntas você tem?}{}{30}{}{}
+{196}{Gostaria de saber algumas coisas sobre você, Perriman...}{}{5}{}{}{ce}
+{197}{O que você pode me contar sobre a P. Schuyler e Filhos?}{}{5}{ss 1, ss -1}{534}{}
+{198}{Perriman, você sabe algo sobre Gilbert Bates?}{}{5}{ss 2, ss -2}{538}{}
+{199}{Perriman, você sabe algo sobre Gilbert Bates?}{}{5}{ss 3, ss -3}{538}{}
+{200}{Perriman, você sabe onde fica a Ilha do Desespero?}{}{5}{ss 5, ss -5}{542}{}
+{201}{O que pode me contar sobre a Ilha do Desespero, Perriman?}{}{5}{ss 6, ss -6}{546}{}
+{202}{Você sabe algo sobre o Clã da Roda?}{}{5}{ss 7, ss -7}{550}{}
+{204}{O que pode me contar sobre Qintarra, Perriman?}{}{5}{ss 9, ss -9}{558}{}
+{205}{Você sabe algo sobre Caladon, Perriman?}{}{5}{ss 12, ss -12}{562}{}
+{206}{O que pode me contar sobre os Elfos Negros, Perriman?}{}{5}{ss 14, ss -14}{566}{}
+{207}{Você sabe alguma coisa sobre esse tal de Arronax?}{}{5}{ss 15, ss -15}{570}{}
+{208}{Nasrudin, Perriman? Sabe algo útil sobre ele?}{}{5}{ss 16, ss -16}{574}{}
+{209}{Você sabe algo sobre a Ilha de Thanatos, Perriman?}{}{5}{ss 17, ss -17}{578}{}
+{210}{O que pode me contar sobre as ruínas de Vendigroth, Perriman?}{}{5}{ss 18, ss -18}{582}{}
+{211}{O que você sabe sobre o Anel de Brodgar, Perriman?}{}{5}{ss 19, ss -19}{590}{}
+{212}{Como vamos encontrar Arronax?}{}{5}{ss 20, ss -20}{}{}
+{213}{Perriman, você sabe ALGUMA COISA sobre esse Vazio?}{}{5}{ss 21, ss -21}{594}{}
+{214}{Perriman, o que você sabe sobre Kerghan?}{}{5}{ss 23, ss -23}{598}{}
+{215}{Perriman! O que vamos fazer agora?}{}{5}{ss 24, ss -24}{602}{}
+{216}{O que você sabe sobre este lugar?}{}{5}{ia 1}{352}{}
+{217}{O que você sabe sobre este lugar?}{}{5}{ia 21}{356}{}
+{218}{O que você sabe sobre este lugar?}{}{5}{ia 3}{360}{}
+{219}{O que você sabe sobre este lugar?}{}{5}{ia 5}{364}{}
+{220}{O que você sabe sobre este lugar?}{}{5}{ia 8}{368}{}
+{221}{O que você sabe sobre este lugar?}{}{5}{ia 10}{372}{}
+{222}{O que você sabe sobre este lugar?}{}{5}{ia 11}{376}{}
+{223}{O que você sabe sobre este lugar?}{}{5}{ia 16}{380}{}
+{224}{Quero saber algumas coisas sobre você, Perry!}{}{-4}{}{}{ce}
+{225}{Hmm... você sabe algo sobre Pee Sky-ler, Perry...?}{}{-4}{ss 1, ss -1}{534}{}
+{226}{Hmm... o que você sabe sobre Gilburt Bay-y-tes?}{}{-4}{ss 2, ss -2}{538}{}
+{227}{Hmm... o que você sabe sobre Gilburt Bay-y-tes?}{}{-4}{ss 3, ss -3}{538}{}
+{228}{Perry! Onde fica a Ilha de Despa-are?}{}{-4}{ss 5, ss -5}{542}{}
+{229}{O que você sabe sobre a Ilha de Despa-are?}{}{-4}{ss 6, ss -6}{546}{}
+{230}{Você sabe alguma coisa sobre Weeel Klan?}{}{-4}{ss 7, ss -7}{550}{}
+{231}{Como chegamos a Kin-tarra?}{}{-4}{ss 8, ss -8}{554}{}
+{232}{O que você sabe sobre Kin-tarra, Perry?}{}{-4}{ss 9, ss -9}{558}{}
+{233}{Você sabe alguma coisa sobre Kal-a-don?}{}{-4}{ss 10, ss -10}{562}{}
+{234}{Conte-me sobre os Elfos Negros, Perry!}{}{-4}{ss 13, ss -13}{566}{}
+{235}{O que você sabe sobre os Arrow-nacks, Perry?}{}{-4}{ss 15, ss -15}{570}{}
+{236}{Perry! O que você sabe sobre Nasroodin?}{}{-4}{ss 16, ss -16}{574}{}
+{237}{Hmm... preciso saber sobre Th-h-ana-tos...!}{}{-4}{ss 17, ss -17}{578}{}
+{238}{Hmm... me fale sobre Vend-d-ee-g-roooth Roons?}{}{-4}{ss 18, ss -18}{582}{}
+{239}{Você sabe alguma coisa sobre a Coisa do Guarda-Costas, Perry?}{}{-4}{ss 19, ss -19}{590}{}
+{240}{Ahh! Perry! O que você sabe sobre o Vazio?}{}{-4}{ss 20, ss -20}{594}{}
+{241}{Você sabe algo sobre Kergun?}{}{-4}{ss 22, ss -22}{598}{}
+{242}{Perry! O que vamos fazer agora?}{}{-4}{ss 24, ss -24}{602}{}
+{243}{O que você sabe sobre este lugar?}{}{-4}{ia 1}{352}{}
+{244}{O que você sabe sobre este lugar?}{}{-4}{ia 21}{356}{}
+{245}{O que você sabe sobre este lugar?}{}{-4}{ia 3}{360}{}
+{246}{O que você sabe sobre este lugar?}{}{-4}{ia 4}{364}{}
+{247}{O que você sabe sobre este lugar?}{}{-4}{ia 5}{364}{}
+{248}{O que você sabe sobre este lugar?}{}{-4}{ia 8}{368}{}
+{249}{O que você sabe sobre este lugar?}{}{-4}{ia 9}{372}{}
+{250}{O que você sabe sobre este lugar?}{}{-4}{ia 10}{372}{}
+{251}{O que você sabe sobre este lugar?}{}{-4}{ia 11}{376}{}
+{252}{O que você sabe sobre este lugar?}{}{-4}{ia 16}{380}{}
+{253}{Você parece bravo comigo, Perriman. Tem algo que eu possa fazer?}{}{5}{re -20}{268}{}
+{254}{Hmm... você está bravo comigo?}{}{-4}{re -20}{268}{}
+{255}{E:}{}{1}{}{0}{}
+{268}{Bem, devo dizer que não estou nada feliz com o rumo que essa aventura está tomando. Mas, hmm... se você me trouxer um pouco de Chá Earl Grey... bem, meu humor pode melhorar muito...}{Bem, devo dizer que não estou nada feliz com o rumo que essa aventura está tomando. Mas, hmm... se você me trouxer um pouco de Chá Earl Grey... bem, meu humor pode melhorar muito...}{}{69}{}{}
+{269}{Ora, Perriman... isso é realmente necessário?}{}{5}{ch 20}{276}{re +20}
+{270}{Uma excelente escolha, meu amigo. E eu tenho um pouco bem aqui...!}{}{5}{in 3616, ch -19}{-30}{re +20}
+{271}{Vou ver se consigo arranjar um pouco para você, Perriman...}{}{5}{in -3616, ch -19}{285}{}
+{272}{Oh, as coisas tolas com que sonhamos! Vamos, que tal?}{}{5}{}{}{re -5, fl 287}
+{273}{Eu tenho um pouco aqui mesmo, Perry!}{}{-4}{in 3616, ch -19}{-30}{re +20}
+{274}{Hm... talvez eu encontre alguns pra você, Perry!}{}{-4}{in -3616, ch -19}{285}{}
+{275}{Que pena você não conseguir nenhum. A gente vai agora...}{}{-4}{}{}{re -5, fl 287}
+{276}{[Perriman franze a testa, então sorri sem jeito, incapaz de resistir ao seu poderoso carisma.] Sim... suponho que eu esteja sendo um pouco tolo, não estou? Vamos simplesmente esquecer que eu disse qualquer coisa...}{[Perriman franze a testa, então sorri sem jeito, incapaz de resistir ao seu poderoso carisma.] Sim... suponho que eu esteja sendo um pouco tolo, não estou? Vamos simplesmente esquecer que eu disse qualquer coisa...}{}{70}{}{}
+{277}{E:}{}{1}{}{0}{}
+{278}{[Ele pega de você ansiosamente, prepara uma xícara e bebe.] Ah! Os pequenos prazeres são sempre os melhores, não são? Eu realmente não estava tão bravo com você, de qualquer forma. Vamos partir?}{[Ele pega de você ansiosamente, prepara uma xícara e bebe.] Ah! Os pequenos prazeres são sempre os melhores, não são? Eu realmente não estava tão bravo com você, de qualquer forma. Vamos partir?}{}{71}{}{}
+{279}{Então você vai se juntar a mim novamente, Perriman?}{}{5}{pa 6577, pa -6591}{332}{jo 0 335}
+{280}{Então você vai se juntar a mim novamente, Perriman?}{}{5}{pa -6577, pa -6591}{318}{}
+{281}{Então você se junta a mim, Perry?}{}{-4}{pa 6577, pa -6591}{332}{jo 0 335}
+{282}{Então você se junta a mim, Perry?}{}{-4}{pa -6577, pa -6591}{318}{}
+{283}{E:}{}{1}{}{0}{}
+{285}{Bom, bom. Todo homem tem suas necessidades, você sabe...}{Bom, bom. Todo homem tem suas necessidades, você sabe...}{}{72}{}{}
+{286}{E:}{}{1}{}{0}{}
+{287}{[Com ressentimento.] Oh. Então é assim que as coisas vão ser por aqui? Estou começando a me arrepender da minha decisão de viajar com você, receio...}{[Com ressentimento.] Oh. Então é assim que as coisas vão ser por aqui? Estou começando a me arrepender da minha decisão de viajar com você, receio...}{}{73}{}{}
+{288}{}{}{}{}{}{}
+{289}{O que você tinha em mente?}{O que você tinha em mente?}{}{31}{}{}
+{290}{Saia da frente, Perriman...}{}{5}{}{0}{so}
+{291}{Saia da frente, Perry!}{}{-4}{}{0}{so}
+{292}{Chegue um pouco mais perto, Perriman...}{}{5}{}{0}{sc}
+{293}{Chegue mais perto, Perry!}{}{-4}{}{0}{sc}
+{294}{Espere aqui por um tempo...}{}{5}{wa 0}{306}{wa}
+{295}{Espere aqui, Perry!}{}{-4}{wa 0}{306}{wa}
+{296}{Você pode parar de esperar agora, Perriman...}{}{5}{wa 1, pa -6577}{332}{uw 0 303}
+{297}{Pare de esperar, Perry!...}{}{-4}{wa 1, pa -6577}{332}{uw 0 303}
+{298}{Você pode parar de esperar agora, Perriman...}{}{5}{wa 1, pa 6577}{318}{}
+{299}{Pare de esperar, Perry!...}{}{-4}{wa 1, pa 6577}{318}{}
+{300}{Acho melhor você deixar o grupo.}{}{5}{}{309}{lv}
+{301}{Quero que você vá embora agora!}{}{-4}{}{309}{lv}
+{302}{[Voltar]}{}{5}{}{174}{}
+{303}{Sim, claro. Estou pronto para ir quando você estiver...}{Sim, claro. Estou pronto para ir quando você estiver...}{}{32}{}{}
+{304}{E:}{}{1}{}{0}{}
+{306}{Sim, claro. Vou esperar bem aqui. Tente não me fazer esperar demais, no entanto. Você nunca sabe o que pode acontecer...}{Sim, claro. Vou esperar bem aqui. Tente não me fazer esperar demais, no entanto. Você nunca sabe o que pode acontecer...}{}{33}{}{}
+{307}{E:}{}{1}{}{0}{}
+{309}{Ora, vejam só! Isso é bastante inesperado. Não posso dizer que estou feliz em vê-lo partir, amigo! Eu estava gostando bastante do nosso tempo juntos. Quem sabe... talvez nossos caminhos se cruzem novamente. Tenha um bom dia...}{Ora, vejam só! Isso é bastante inesperado. Não posso dizer que estou feliz em vê-lo partir, amigo! Eu estava gostando bastante do nosso tempo juntos. Quem sabe... talvez nossos caminhos se cruzem novamente. Tenha um bom dia...}{}{34}{}{lf31 1}
+{310}{E:}{}{1}{}{0}{}
+{312}{Olá, por aqui! Que bom ver você de novo, meu amigo! O que o traz de volta?}{Olá, por aqui! Que bom ver você de novo, meu amigo! O que o traz de volta?}{}{35}{}{}
+{313}{Você vai se juntar a mim?}{}{1}{pa -6577}{332}{jo 0 335}
+{314}{Você vai se juntar a mim?}{}{1}{pa 6577}{318}{}
+{315}{Você parece bravo comigo, Perriman. Há algo que eu possa fazer?}{}{5}{re -20}{268}{}
+{316}{Hã... tá bravo comigo? Quem sabe eu faço alguma coisa por você, Perry?}{}{-4}{re -20}{268}{}
+{317}{E:}{}{1}{}{0}{}
+{318}{[Perriman olha para Geoffrey, franzindo a testa.] Desculpe, mas não viajo com gente como Geoffrey Tarrelond-Ashe. O homem não passa de encrenca...}{[Perriman olha para Geoffrey, franzindo a testa.] Desculpe, mas não viajo com gente como Geoffrey Tarrelond-Ashe. O homem não passa de encrenca...}{}{36}{}{}
+{319}{Perriman! Geoffrey tem sido leal... bem, hã... amigo...}{}{1}{lf5 0}{328}{lf5 1}
+{320}{Perriman, tenho certeza de que você pode abrir uma exceção para mim...}{}{1}{lf5 1, ch 20}{326}{}
+{321}{Entendo seu ponto. Espere um momento, e eu me livro do Geoffrey...}{}{1}{lf5 1}{0}{lv}
+{322}{Parece que você vai partir então, Perriman...}{}{1}{lf5 1}{309}{lv}
+{323}{Você parece bravo comigo, Perriman. Há algo que eu possa fazer?}{}{5}{re -20}{268}{}
+{324}{Hã... tá bravo comigo? Quem sabe eu faço alguma coisa por você, Perry?}{}{-4}{re -20}{268}{}
+{325}{E:}{}{1}{lf5 1}{0}{}
+{326}{[Perriman parece dividido, mas assente.] Sim... suponho que você esteja certo. Mas que fique registrado que eu disse que isso era uma má ideia! Tarrelond-Ashe não é amigo de ninguém!}{[Perriman parece dividido, mas assente.] Sim... suponho que você esteja certo. Mas que fique registrado que eu disse que isso era uma má ideia! Tarrelond-Ashe não é amigo de ninguém!}{}{37}{}{}
+{327}{Você vai se juntar a mim?}{}{1}{}{318}{jo 0 336}
+{328}{Sim, tenho certeza de que ele o convenceu de que é um sujeito direito. Mas o fato é que ele não passa de maldade... um necromante negro de cabo a rabo. Além disso, não teve coragem de terminar seus estudos em Tulla. Imperdoável, na minha opinião. Não, receio que você terá que escolher entre nós...}{Sim, tenho certeza de que ele o convenceu de que é um sujeito direito. Mas o fato é que ele não passa de maldade... um necromante negro de cabo a rabo. Além disso, não teve coragem de terminar seus estudos em Tulla. Imperdoável, na minha opinião. Não, receio que você terá que escolher entre nós...}{}{38}{}{}
+{329}{Mas Perriman...}{}{5}{}{-15}{}
+{330}{Hã... Perry...}{}{-4}{}{-15}{}
+{332}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{39}{}{}
+{333}{K:}{}{1}{}{174}{}
+{334}{E:}{}{1}{}{0}{}
+{335}{Claro que sim! A vida não é nada emocionante quando você não está por perto. Vamos nessa!}{Claro que sim! A vida não é nada emocionante quando você não está por perto. Vamos nessa!}{}{40}{}{lf31 0}
+{336}{E:}{}{1}{}{0}{}
+{338}{Ora, aí está você! Pensei que tivesse me deixado para sempre! Não consigo dizer o quanto estou feliz em ver que voltou, e em segurança. Precisava de algo?}{Ora, aí está você! Pensei que tivesse me deixado para sempre! Não consigo dizer o quanto estou feliz em ver que voltou, e em segurança. Precisava de algo?}{}{41}{}{}
+{339}{Eu esperava que você pudesse se juntar a mim novamente, Perriman}{}{1}{pa -6577}{332}{jo 0 344}
+{340}{Eu esperava que você pudesse se juntar a mim novamente, Perriman}{}{1}{pa 6577}{318}{}
+{341}{E:}{}{1}{}{0}{}
+{344}{Sim! Estou mais do que pronto para me juntar a você, se me aceitar! Vamos!}{Sim! Estou mais do que pronto para me juntar a você, se me aceitar! Vamos!}{}{42}{}{}
+{345}{E:}{}{1}{}{0}{}
+{352}{Nunca estive aqui, mas tenho alguns livros que descrevem o lugar. Colinas Sombrias, acho que é o nome. Ligado àquela profecia Panarii, creio... e deve haver um belo templo Panarii aqui também. Parece que me lembro de ter lido que ele caiu em desuso...}{Nunca estive aqui, mas tenho alguns livros que descrevem o lugar. Colinas Encobertas, acho que é assim que se chama. Está ligado àquela profecia dos Panarii, eu acho... e dizem que há um belo templo Panarii aqui também. Lembro-me de ter lido que ele caiu em desuso...}{}{43}{}{}
+{353}{K:}{}{1}{}{195}{}
+{354}{E:}{}{1}{}{0}{}
+{356}{Esta é Tarant, meu amigo! Uma das maiores cidades da história de Arcanum! Grande população humana, muito influenciada pelas novas tecnologias, aparentemente avessa aos caminhos da magia. Bem, nenhum lugar é perfeito. Sempre quis conhecer a Universidade de Tarant...}{Esta é Tarant, meu amigo! Uma das maiores cidades da história de Arcanum! Grande população humana, muito influenciada pelas novas tecnologias, aparentemente avessa aos caminhos da magia. Bem, nenhum lugar é perfeito. Sempre quis conhecer a Universidade de Tarant...}{}{44}{}{}
+{357}{K:}{}{1}{}{195}{}
+{358}{E:}{}{1}{}{0}{}
+{360}{Acho que este é Black Root. Uma pequena vila de pescadores e porto. Houve uma guerra aqui, muitos anos atrás... O Rei Praetor de Cúmbria atacou a cidade e a incendiou. Levou muitos anos, mas parece que o lugar se recuperou bastante bem...}{Acho que este é Black Root. Uma pequena vila de pescadores e porto. Houve uma guerra aqui, muitos anos atrás... O Rei Praetor de Cúmbria atacou a cidade e a incendiou. Levou muitos anos, mas parece que o lugar se recuperou bastante bem...}{}{45}{}{}
+{361}{K:}{}{1}{}{195}{}
+{362}{E:}{}{1}{}{0}{}
+{364}{Esta é Dernholm, capital do reino de Cúmbria. O Rei Praetor governa aqui há mais de 50 anos, mas parece que o poder de Cúmbria se desfez ao longo dos anos. O reino sofreu uma derrota esmagadora em uma guerra contra Tarant, e o pai de Praetor foi morto no conflito. O reino nunca mais foi o mesmo...}{Esta é Dernholm, capital do reino de Cúmbria. O Rei Praetor governa aqui há mais de 50 anos, mas parece que o poder de Cúmbria se desfez ao longo dos anos. O reino sofreu uma derrota esmagadora em uma guerra contra Tarant, e o pai de Praetor foi morto no conflito. O reino nunca mais foi o mesmo...}{}{46}{}{}
+{365}{K:}{}{1}{}{195}{}
+{366}{E:}{}{1}{}{0}{}
+{368}{Ashbury? Ah, não sei muito, infelizmente. Sei que é um porto importante e que há um velho castelo por aqui em algum lugar... uma relíquia da antiga monarquia. Veja bem, Ashbury faz parte do Reino Unificado, junto com Tarant. [Ele ri.] Bem, talvez eu soubesse um pouco mais do que pensei inicialmente...}{Ashbury? Ah, não sei muito, infelizmente. Sei que é um porto importante e que há um velho castelo por aqui em algum lugar... uma relíquia da antiga monarquia. Veja bem, Ashbury faz parte do Reino Unificado, junto com Tarant. [Ele ri.] Bem, talvez eu soubesse um pouco mais do que pensei inicialmente...}{}{47}{}{}
+{369}{K:}{}{1}{}{195}{}
+{370}{E:}{}{1}{}{0}{}
+{372}{Acredito que este seja Stillwater... uma pequena cidade mineradora. Sua verdadeira fama vem de uma criatura lendária chamada Gigante de Stillwater. É uma mitologia rural típica... bebês sendo sequestrados e devorados, esse tipo de coisa... provavelmente um monte de bobagem. [Ele olha ao redor.] Mas, novamente, nunca se sabe o que está rondando essas montanhas antigas...}{Acredito que este seja Stillwater... uma pequena cidade mineradora. Sua verdadeira fama vem de uma criatura lendária chamada Gigante de Stillwater. É uma mitologia rural típica... bebês sendo sequestrados e devorados, esse tipo de coisa... provavelmente um monte de bobagem. [Ele olha ao redor.] Mas, novamente, nunca se sabe o que está rondando essas montanhas antigas...}{}{48}{}{}
+{373}{K:}{}{1}{}{195}{}
+{374}{E:}{}{1}{}{0}{}
+{376}{Ora, esta é Tulla! Minha casa nos últimos 20 anos! Não há lugar mais interessante em todo o Arcanum! O Mago-Mestre aqui é um homem chamado Simeon Tor... um homem duro, mas justo... provavelmente o mago mais poderoso do mundo inteiro! E, claro, há a Poça de Pelojian, as mansões dos grandes magos, e... ah, desculpe por isso! Às vezes me empolgo demais...}{Ora, esta é Tulla! Minha casa nos últimos 20 anos! Não há lugar mais interessante em todo o Arcanum! O Mago-Mestre aqui é um homem chamado Simeon Tor... um homem duro, mas justo... provavelmente o mago mais poderoso do mundo inteiro! E, claro, há a Poça de Pelojian, as mansões dos grandes magos, e... ah, desculpe por isso! Às vezes me empolgo demais...}{}{49}{}{}
+{377}{K:}{}{1}{}{195}{}
+{378}{E:}{}{1}{}{0}{}
+{380}{Parece que este é o lendário T'sen-Ang! Lar dos Elfos Negros! Eu nunca teria pensado que ele sequer existisse, muito menos que estaria no meio dele! [Ele olha ao redor com cautela.] Claro, não sei se estou necessariamente feliz por estar aqui. Devemos ter muito cuidado com quem falamos...}{Parece que este é o lendário T'sen-Ang! Lar dos Elfos Negros! Eu nunca teria pensado que ele sequer existisse, muito menos que estaria no meio dele! [Ele olha ao redor com cautela.] Claro, não sei se estou necessariamente feliz por estar aqui. Devemos ter muito cuidado com quem falamos...}{}{50}{}{}
+{381}{K:}{}{1}{}{195}{}
+{382}{E:}{}{1}{}{0}{}
+{534}{Não posso dizer que sei muito sobre a companhia, meu amigo. Não passei muito tempo fora de Tulla. Mas passei em frente à loja deles outro dia... há um símbolo em sua placa que não consigo identificar direito... algo antigo e não muito agradável...}{Não posso dizer que sei muito sobre a companhia, meu amigo. Não passei muito tempo fora de Tulla. Mas passei em frente à loja deles outro dia... há um símbolo em sua placa que não consigo identificar direito... algo antigo e não muito agradável...}{}{51}{}{}
+{535}{K:}{}{1}{}{195}{}
+{536}{E:}{}{1}{}{0}{}
+{538}{Gilbert Bates? Tem a ver com aquela tecnologia maldita, não é? Eu não teria nada a ver com esse tipo de coisa se pudesse evitar...}{Gilbert Bates? Tem a ver com aquela tecnologia maldita, não é? Eu não teria nada a ver com esse tipo de coisa se pudesse evitar...}{}{52}{}{}
+{539}{K:}{}{1}{}{195}{}
+{540}{E:}{}{1}{}{0}{}
+{542}{Sei que fica na costa leste, mas não saberia dizer exatamente como chegar lá...}{Sei que fica na costa leste, mas não saberia dizer exatamente como chegar lá...}{}{53}{}{}
+{543}{K:}{}{1}{}{195}{}
+{544}{E:}{}{1}{}{0}{}
+{546}{A Ilha do Desespero? É uma colônia penal, não é? Um lugar terrível, pelo que li. Parece que me lembro de algo nos livros de história sobre um exilado lá... algo escandaloso, acredito...}{A Ilha do Desespero? É uma colônia penal, não é? Um lugar terrível, pelo que li. Parece que me lembro de algo nos livros de história sobre um exilado lá... algo escandaloso, acredito...}{}{54}{}{}
+{547}{K:}{}{1}{}{195}{}
+{548}{E:}{}{1}{}{0}{}
+{550}{Sim, claro! É a casa do rei anão, Loghaire Pedra do Trovão. Alguns dos anciãos de Tulla já o conheceram, mas acho que ninguém o vê há muito, muito tempo...}{Sim, claro! É a casa do rei anão, Loghaire Pedra do Trovão. Alguns dos anciãos de Tulla já o conheceram, mas acho que ninguém o vê há muito, muito tempo...}{}{55}{}{}
+{551}{K:}{}{1}{}{195}{}
+{552}{E:}{}{1}{}{0}{}
+{554}{Bem, é claro que não, meu velho! Pouquíssimos são aqueles sem sangue élfico que conhecem a localização da antiga cidade das árvores. Ouvi dizer que é absolutamente fantástica... um lugar maravilhoso cheio das magias mais antigas...}{Bem, é claro que não, minha senhora! Pouquíssimos são aqueles sem sangue élfico que conhecem a localização da antiga cidade das árvores. Ouvi dizer que é absolutamente fantástica... um lugar maravilhoso cheio das magias mais antigas...}{}{56}{}{}
+{555}{K:}{}{1}{}{195}{}
+{556}{E:}{}{1}{}{0}{}
+{558}{Bem, sei que a rainha élfica mora lá... seu nome está na antiga língua élfica, mas acho que se traduz como a Dama de Prata. Acredito que ela tenha uma filha também, mas devo dizer que não sou especialista em tradições élficas...}{Bem, sei que a rainha élfica mora lá... seu nome está na antiga língua élfica, mas acho que se traduz como a Dama de Prata. Acredito que ela tenha uma filha também, mas devo dizer que não sou especialista em tradições élficas...}{}{57}{}{}
+{559}{K:}{}{1}{}{195}{}
+{560}{E:}{}{1}{}{0}{}
+{562}{Ah, com certeza! Nunca estive lá de fato, mas li bastante sobre o lugar! Uma das últimas grandes monarquias em todo o Arcanum, embora eu saiba que eles estão começando a abraçar os caminhos da tecnologia. Suponho que não se pode explicar gostos. Ah! E acredito que a religião Panarii também tenha seu templo principal lá...}{Ah, com certeza! Nunca estive lá de fato, mas li bastante sobre o lugar! Um dos últimos grandes monarquias em todo o Arcanum, embora eu saiba que eles estão começando a adotar os caminhos da tecnologia. Suponho que não se pode julgar gostos. Ah! E acredito que a religião Panarii tem seu templo principal lá também...}{}{58}{}{}
+{563}{K:}{}{1}{}{195}{}
+{564}{E:}{}{1}{}{0}{}
+{566}{Bem, eles são uma espécie de lenda, não são? Quero dizer, não é como se você os visse por aí se anunciando. Lembro-me de um dos anciãos me contar sobre um livro sobre os Elfos Negros nos arquivos Tullan... um dia ele desapareceu, e ninguém nunca soube para onde. Estranho, não acha...?}{Bem, eles são uma espécie de lenda, não são? Quero dizer, não é como se você os visse por aí se anunciando. Lembro-me de um dos anciãos me contar sobre um livro sobre os Elfos Negros nos arquivos Tullan... um dia ele desapareceu, e ninguém nunca soube para onde. Estranho, não acha...?}{}{59}{}{}
+{567}{K:}{}{1}{}{195}{}
+{568}{E:}{}{1}{}{0}{}
+{570}{Arronax? Ah, ele foi um elfo que viveu durante a Era das Lendas. Deixe-me ver... um membro do Conselho Élfico, um radical, se me lembro bem. Acredito que o sujeito iniciou uma guerra com Nasrudin e foi banido pouco depois. Ah, e parece que ele quer você morto também, não é?}{Arronax? Ah, ele foi um elfo que viveu durante a Era das Lendas. Deixe-me ver... um membro do Conselho Élfico, um radical, se me lembro bem. Acredito que o sujeito iniciou uma guerra com Nasrudin e foi banido pouco depois. Ah, e parece que ele quer você morto também, não é?}{}{60}{}{}
+{571}{K:}{}{1}{}{195}{}
+{572}{E:}{}{1}{}{0}{}
+{574}{Líder do Conselho Élfico durante a Era das Lendas. Um mago poderoso, filósofo... a religião Panarii praticamente o transformou em uma divindade, pelo que entendi de suas crenças. Parece que me lembro de algo sobre seus restos mortais estarem guardados em algum lugar em Caladon...}{Líder do Conselho Élfico durante a Era das Lendas. Um mago poderoso, filósofo... a religião Panarii praticamente o transformou em uma divindade, pelo que entendi de suas crenças. Parece que me lembro de algo sobre seus restos mortais estarem guardados em algum lugar em Caladon...}{}{61}{}{}
+{575}{K:}{}{1}{}{195}{}
+{576}{E:}{}{1}{}{0}{}
+{578}{Thanatos? Infelizmente, não há muita literatura sobre esse lugar. Eu ousaria dizer que é porque ninguém jamais volta de lá vivo... literalmente infestado de todo tipo de bestas malignas e coisas do gênero, pelo pouco que li sobre o lugar. Não sou de perder a oportunidade de conhecer um lugar novo, mas tenho que dizer que não estou ansioso para visitar esse lugar terrível...}{Thanatos? Infelizmente, não há muita literatura sobre esse lugar. Eu ousaria dizer que é porque ninguém jamais volta de lá vivo... literalmente infestado de todo tipo de bestas malignas e coisas do gênero, pelo pouco que li sobre o lugar. Não sou de perder a oportunidade de conhecer um lugar novo, mas tenho que dizer que não estou ansioso para visitar esse lugar terrível...}{}{62}{}{}
+{579}{K:}{}{1}{}{195}{}
+{580}{E:}{}{1}{}{0}{}
+{582}{Não posso dizer que já tenha ouvido falar deles, mas tenho certeza de que alguém de Tulla saberia onde eles estão...}{Não posso dizer que já tenha ouvido falar deles, mas tenho certeza de que alguém de Tulla saberia onde eles estão...}{}{63}{}{}
+{583}{Sério? Poderia me dizer onde fica Tulla...?}{}{5}{}{586}{}
+{584}{Hmm... você me diz onde fica...?}{}{-4}{}{586}{}
+{586}{Bem... eu preferiria não fazer isso, mas considerando as circunstâncias, suponho que não há escolha. É bem aqui. [Ele aponta para um lugar no seu mapa.] Confio que se comportará adequadamente quando chegarmos lá? Espero sinceramente que sim...}{Bem... eu preferiria não fazer isso, mas considerando as circunstâncias, suponho que não há escolha. É bem aqui. [Ele aponta para um lugar no seu mapa.] Confio que se comportará adequadamente quando chegarmos lá? Espero sinceramente que sim...}{}{64}{}{mm 11}
+{587}{K:}{}{1}{}{195}{}
+{588}{E:}{}{1}{}{0}{}
+{590}{Ah! Essa é uma história antiga maravilhosa! Supostamente, é o local real da batalha final entre Nasrudin e Arronax! Claro, quem pode dizer se isso é verdade... mas torna uma história fascinante, não acha?}{Ah! Essa é uma história antiga maravilhosa! Supostamente, é o local real da batalha final entre Nasrudin e Arronax! Claro, quem pode dizer se isso é verdade... mas torna uma história fascinante, não acha?}{}{65}{}{}
+{591}{K:}{}{1}{}{195}{}
+{592}{E:}{}{1}{}{0}{}
+{594}{O Vazio? Não... mas posso dizer que é facilmente o lugar mais desagradável que já vi. Nunca senti tanta falta das muralhas de Tulla em toda a minha vida!}{O Vazio? Não... mas posso dizer que é facilmente o lugar mais desagradável que já vi. Nunca senti tanta falta das muralhas de Tulla em toda a minha vida!}{}{66}{}{}
+{595}{K:}{}{1}{}{195}{}
+{596}{E:}{}{1}{}{0}{}
+{598}{Kerghan? Não se escreveu muito sobre o velho necromante. Sei que ele foi membro do Conselho Élfico... foi o único humano a ocupar essa posição... e que foi sentenciado ao banimento depois que descobriram que ele estava se envolvendo com as artes das trevas. Não é o tipo de sujeito de quem eu gostaria de estar do lado ruim, se é que me entende...}{Kerghan? Não se escreveu muito sobre o velho necromante. Sei que ele foi membro do Conselho Élfico... foi o único humano a ocupar essa posição... e que foi sentenciado ao banimento depois que descobriram que ele estava se envolvendo com as artes das trevas. Não é o tipo de sujeito de quem eu gostaria de estar do lado ruim, se é que me entende...}{}{67}{}{}
+{599}{K:}{}{1}{}{195}{}
+{600}{E:}{}{1}{}{0}{}
+{602}{Agora? Bem, eu diria que você vai desligar este jogo e ir dormir! Acabou! Nós vencemos! Sem ofensas, mas às vezes você não é o mais esperto dos sujeitos...}{Agora? Bem, eu diria que você vai desligar este jogo e ir dormir! Acabou! Nós vencemos! Sem ofensas, mas às vezes você não é a mais esperta das moças...}{}{68}{}{}
+{603}{K:}{}{1}{}{195}{}
+{604}{E:}{}{1}{}{0}{}
+{610}{Ora, sim! Seria uma honra fazer isso. Não quero ser rude, mas a tradição determina que eu cobre 500 peças de ouro para fazê-lo... você tem o dinheiro?}{Ora, sim! Seria uma honra fazer isso. Não quero ser rude, mas a tradição determina que eu cobre 500 peças de ouro para fazê-lo... você tem o dinheiro?}{}{74}{}{}
+{611}{Sim. Vou pagar pelo treinamento agora mesmo...}{}{5}{$$500}{615}{}
+{612}{Sim, mas talvez em outra hora. Só mais uma coisa...}{}{5}{$$500}{174}{}
+{613}{Não... vamos falar sobre isso novamente, mais tarde. Só mais uma coisa...}{}{5}{$$-499}{174}{}
+{614}{E:}{}{5}{}{0}{}
+{615}{Muito bem, então! Deixe-me mostrar algumas coisas... [Ele o faz.]... e pronto! Você é um Especialista em Cura! Muito bem!}{Muito bem, então! Deixe-me mostrar algumas coisas... [Ele o faz.]... e pronto! Você é um Especialista em Cura! Muito bem!}{}{75}{}{$$-500, tr 10 2}
+{616}{Obrigado. Só mais uma coisa...}{}{5}{}{174}{}
+{617}{E:}{}{5}{}{0}{}
+

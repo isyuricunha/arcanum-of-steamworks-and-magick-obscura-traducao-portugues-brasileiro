@@ -1,0 +1,16 @@
+{1}{Parece que isso está se tornando um hábito, não é? [Ele ri.] Obrigado por me trazer de volta a este mundo.}{Parece que isso está se tornando um hábito, não é? [Ele ri.] Obrigado por me trazer de volta a este mundo.}{}{1}{}{}
+{2}{Isso nem merece ser mencionado, na verdade. Você gostaria de se juntar a mim novamente?}{}{5}{}{15}{jo 0 10 lf30 1}
+{3}{Você se une.}{}{-4}{}{15}{jo 0 10 lf30 1}
+{9}{E:}{}{1}{}{0}{  lf30 1}
+{10}{Claro. Nem precisa perguntar.}{Claro. Nem precisa perguntar.}{}{2}{}{}
+{11}{Vamos então.}{}{5}{}{-10}{}
+{12}{Tá.}{}{-4}{}{-10}{}
+{15}{Deseja algo mais?}{Deseja algo mais?}{}{3}{}{}
+{16}{N:}{}{1}{}{0}{}
+{20}{Se não deseja me ressuscitar, por favor, deixe-me descansar em paz.}{Se não deseja me ressuscitar, por favor, deixe-me descansar em paz.}{}{4}{}{}
+{25}{Obrigado novamente por me trazer de volta. O que posso fazer por você?}{Obrigado novamente por me trazer de volta. O que posso fazer por você?}{}{5}{}{}
+{26}{Isso nem merece ser mencionado, na verdade. Você gostaria de se juntar a mim novamente?}{}{5}{}{15}{jo 0 10}
+{27}{Você se une.}{}{-4}{}{15}{jo 0 10}
+{33}{E:}{}{1}{}{0}{}
+{34}{Parece que isso está se tornando um hábito, não é? [Ele ri.] Obrigado por me trazer de volta a este mundo.}{Parece que isso está se tornando um hábito, não é? [Ele ri.] Obrigado por me trazer de volta a este mundo.}{}{6}{}{}
+

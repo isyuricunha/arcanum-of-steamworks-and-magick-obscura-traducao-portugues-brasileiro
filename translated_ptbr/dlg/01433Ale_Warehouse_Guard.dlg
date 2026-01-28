@@ -1,0 +1,33 @@
+{1}{Hã? O que você quer?}{Hã? O que você quer?}{}{}{}{}
+{2}{Estou aqui para pegar um pouco de cerveja, guarda.}{}{5}{qu1085 2}{7}{}
+{3}{Nada. Desculpe tê-lo incomodado. Tenha um bom dia.}{}{5}{}{0}{}
+{4}{Hmm... vim buscar cerveja...}{}{-4}{qu1085 2}{7}{}
+{5}{E:}{}{-4}{}{0}{}
+{7}{É mesmo? [Ele dá um tapinha na arma em seu quadril.] E quem exatamente mandou você buscar essa cerveja, garoto de recados?}{É mesmo? [Ele dá um tapinha na arma em seu quadril.] E quem exatamente mandou você buscar essa cerveja, garota?}{}{}{}{}
+{8}{Sra. Miranda Tears, seu idiota balbuciante...}{}{5}{}{}{co, fl 17}
+{9}{Quem mais? Sou do Clã Maug...}{}{5}{ps 12, lf1 0}{27}{}
+{10}{Quem mais? Sou do Clã Maug...}{}{5}{ps -11, lf1 0}{19}{}
+{11}{Ninguém em particular. Já vou indo...}{}{5}{}{}{fl 15}
+{12}{Hmm... só me dê a cerveja, e eu não esmago sua cabeça...}{}{-4}{}{}{co, fl 17}
+{13}{Hmm... ninguém. Só estou com sede...}{}{-4}{}{}{fl 15}
+{15}{Bem, suma daqui. Não quero você por perto nunca mais...}{Bem, suma daqui. Não quero você por perto nunca mais...}{}{}{}{}
+{17}{Miranda Tears! Você é da Gangue de Pollock! Você está morta!}{Miranda Tears! Você é da Gangue de Pollock! Você está morta!}{}{}{}{}
+{19}{[Ele olha você de cima a baixo.] Não sei quem você é, forasteiro. Mas, mais importante, você é um péssimo mentiroso. E dizer que faz parte do Clã Maug é uma das mentiras mais idiotas que alguém poderia inventar. Saia daqui bem rápido, e talvez eu esqueça de contar para alguém...}{[Ele olha você de cima a baixo.] Não sei quem você é, vadia. Mas, mais importante, você é uma péssima mentirosa. E dizer que faz parte do Clã Maug é uma das mentiras mais idiotas que você poderia inventar. Saia daqui bem rápido, e talvez eu esqueça de contar para alguém...}{}{}{}{lf1 1}
+{20}{Se VOCÊ é membro do Clã, então não tenho com o que me preocupar.}{}{5}{}{}{co, fl 25}
+{22}{Acho que vou te matar agora.}{}{-4}{}{}{co, fl 25}
+{23}{E:}{}{1}{}{0}{}
+{25}{Coisa estúpida de se dizer, parceiro. Agora você vai morrer...}{Coisa estúpida de se dizer, garota. Agora você vai morrer...}{}{}{}{}
+{27}{[Ele parece hesitante.] Eu... hmm... tenho que dizer que nunca vi você por aqui, parceiro. É novo no Clã?}{[Ele parece hesitante.] Eu... hmm... tenho que dizer que nunca vi você por aqui, garota. É nova no Clã?}{}{}{}{}
+{28}{Sim... acabei de terminar os... hmm... ritos de iniciação...}{}{5}{}{19}{}
+{29}{Sim... acabei de vir de Darian Maug em pessoa...}{}{5}{}{32}{}
+{30}{Você sabe como é... ninguém conhece direito ninguém por aqui...}{}{5}{}{19}{}
+{32}{[Ele parece um pouco incerto.] O próprio Maug, é? Hmm... ele não veio aqui ontem mesmo buscar uma caixa de cerveja...?}{[Ele parece um pouco incerto.] O próprio Maug, é? Hmm... ele não veio aqui ontem mesmo buscar uma caixa de cerveja...?}{}{}{}{}
+{33}{Alguém roubou da casa dele...}{}{5}{}{19}{}
+{34}{Acho que ele queria uma extra, só por precaução...}{}{5}{}{19}{}
+{35}{Você não acha que o Maug consegue beber uma caixa inteira de cerveja sozinho, né?}{}{5}{}{37}{}
+{37}{Não...claro que não...quer dizer...}{Não...claro que não...quer dizer...}{}{}{}{}
+{38}{Me deixe entrar, guarda...}{}{5}{}{40}{}
+{40}{Certo...aqui está a chave. [Ele te entrega uma chave, se inclinando na sua direção.] Ei...podemos manter isso entre nós? O Maug não gosta que questionem o jeito que ele bebe, sabe como é?}{Certo...aqui está a chave. [Ele te entrega uma chave, se inclinando na sua direção.] Ei...podemos manter isso entre nós? O Maug não gosta que questionem o jeito que ele bebe, sabe como é?}{}{}{}{in -4411}
+{41}{Claro, meu bom homem. Seu segredo está seguro comigo...}{}{5}{}{}{fl 43}
+{43}{Valeu, parceiro. Agradeço...}{Valeu, garota. Agradeço...}{}{}{}{}
+

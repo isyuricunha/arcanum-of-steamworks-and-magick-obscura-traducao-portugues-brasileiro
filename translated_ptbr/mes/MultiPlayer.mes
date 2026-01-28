@@ -1,0 +1,161 @@
+//
+// Multiplayer
+//
+// Index of MessageIDs
+// 0900-0999 : Multiplayer Server Starting Messages
+// 1000-1099 : Multiplayer Control UI Messages
+// 1100-1199 : Multiplayer Notice Messages
+// 1200-1299 : Multiplayer Chat Messages
+// 1900-1999 : Multiplayer Game Saving Messages
+// 2000-2099 : Multiplayer Party Messages
+// 3000-3099 : Multiplayer Internet Messages
+
+// Used with verification of packet info/etc.
+{10}{Sucesso}
+{11}{Falha}
+
+// Used with (Multiplayer) Preferences Interface
+{50}{Ligado}
+{51}{Desligado}
+
+// Used with (Multiplayer) UI
+{60}{Aberto}
+{61}{Fechado}
+
+{65}{Morrendo}
+
+
+// UI Window Titles
+{75}{Nenhum}
+{76}{Escolher Conexão}
+{77}{Escolher Jogo}
+{78}{Preferências do Jogador}
+{79}{Preferências do Servidor}
+{80}{Conectando}
+{81}{Iniciando Servidor}
+
+// Choose Connection UI Buttons
+{100}{Entrar em Jogo na LAN}
+{101}{Entrar em Jogo na Internet}
+{102}{Criar Partida}
+{103}{Configuração do Jogador}
+{104}{Opções do Servidor}
+{105}{Cancelar}
+
+// Choose Game UI Buttons
+{120}{Entrar}
+{121}{Cancelar}
+
+// Choose Game UI Column Headings
+{170}{Nome do Servidor}
+{171}{Ping}
+{172}{Nº de Jogadores}
+{173}{Cenário}
+{174}{Status}
+
+
+// Starting Server UI Column Headings
+{180}{Nome do Servidor}
+{181}{Nº de Jogadores}
+{182}{Cenário}
+{183}{Status}
+
+{185}{Nome do Jogador}
+{186}{Ping}
+
+// Starting Server UI Buttons
+{190}{Iniciar}
+{191}{Cancelar}
+
+
+// Connecting UI Buttons
+{195}{Cancelar}
+
+
+//
+{200}{Conectando...}
+{201}{Não foi possível conectar}
+{202}{Servidor Cheio}
+{203}{Você está Banido deste Servidor}
+
+{240}{Travando}
+{241}{Conexão com o Servidor Perdida}
+
+// Joined, transferring startup data
+{300}{Aguardando Estado do Jogo...}
+{301}{Aguardando Informações do Cenário...}
+{302}{Aguardando Informações do Objeto...}
+{303}{Aguardando Início do Jogo...}
+
+// Debug information -- Statistical Information
+{350}{Ping: %d}
+{351}{Perda de Pacotes: %d}
+// Debug Information -- Specific Errors
+{360}{Diferença de Tempo no Jogo: %d}
+{361}{Diferença de Aleatoriedade: %d}
+
+// (Multiplayer) Server Preferences Interface
+{500}{Alterar Nome}
+{501}{Matança de Jogadores}
+{502}{Máximo de Jogadores}
+{503}{Concluído}
+
+// Player Preferences Interface
+{600}{Nome}
+{601}{Concluído}
+
+// 0900-0999 : Multiplayer Server Starting Messages
+{900}{O módulo %s.dat não pôde ser encontrado. Clientes que entrarem no seu servidor podem enfrentar anomalias se seus dados forem diferentes.}
+{901}{Não foi possível carregar o módulo especificado '%s'. Não é possível continuar.}
+{902}{Nenhum mapa inicial pôde ser encontrado para esse módulo.}
+{903}{Nenhum dado de PJ foi encontrado. Seu personagem deve estar com erro. Criando um personagem padrão.}
+
+// 1000-1099 : Multiplayer Control UI Messages
+{1000}{Status: %s}
+{1001}{Pronto}
+{1002}{Aguardando}
+{1003}{Carregando}
+{1090}{Desconectar}
+{1091}{Banir}
+
+// 1100-1199 : Multiplayer Notice  Messages
+{1100}{O jogador %s(%d) saiu do jogo.}
+{1101}{O jogador %s(%d) foi expulso do jogo.}
+{1102}{O jogador %s(%d) foi banido, nenhuma conexão deste host será permitida.}
+{1103}{O servidor desconectou inesperadamente, seu jogo pode estar indisponível.}
+{1104}{Jogador entrou no jogo.}
+{1105}{O jogador conectou-se, retomando o jogo.}
+{1106}{Aguarde, um jogador está entrando no jogo.}
+
+// 1200-1299 : Multiplayer Chat Messages
+{1200}{%s: %s}
+{1210}{Você não pode falar enquanto está morto.}
+{1211}{Você não pode falar enquanto está inconsciente.}
+
+// 1900-1999 : Multiplayer Game Saving Messages
+// 1900 - character that signifies yes in a dialog
+// 1901 - character that signifies no in a dialog
+{1900}{y}
+{1901}{n}
+{1902}{Deseja salvar seu personagem?}
+{1903}{Deseja exportar seu personagem para o Multijogador?}
+{1904}{O personagem %s já existe. Deseja sobrescrever o arquivo?}
+
+// 2000-2099 : Multiplayer Party Messages
+{2000}{%s entrou no grupo.}
+{2001}{%s o convidou para o grupo deles.}
+{2002}{%s saiu do grupo.}
+{2003}{Você saiu do grupo: %s}
+
+{2005}{Falha ao entrar: %s.}
+{2006}{Falha ao entrar: %s não pode entrar no próprio grupo.}
+{2007}{Falha ao entrar: %s já está em um grupo.}
+
+{2010}{Falha ao dissolver: %s.}
+{2011}{Falha ao dissolver: %s não está em um grupo.}
+{2012}{Falha ao dissolver: %s não está no seu grupo.}
+
+{3000}{Aguardando resposta dos servidores WON.}
+{3001}{Aguardando Mensagem do Dia.}
+{3002}{Verificando atualizações do Arcanum.}
+{3003}{Uma versão mais recente do Arcanum está disponível (e pode ser necessária para jogar online), deseja atualizar?}

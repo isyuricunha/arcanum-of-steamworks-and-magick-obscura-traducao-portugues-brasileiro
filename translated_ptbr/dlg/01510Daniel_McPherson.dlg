@@ -1,0 +1,150 @@
+{1}{G:}{G:}{}{}{}{lf 15 0 , lf 14 0}
+{2}{Saudações, senhor. Posso perguntar seu nome e posição?}{}{5}{lf1 0, re 41}{48}{}
+{3}{Posso incomodá-lo por um momento, Daniel?}{}{5}{lf1 1, re 41}{97}{}
+{4}{Senhor! Sinto que esse insulto foi proferido sem provocação da minha parte.}{}{5}{lf1 0, re -40}{17}{}
+{5}{Peço desculpas se de alguma forma o ofendi, Daniel.}{}{5}{lf1 1, re -40}{17}{}
+{6}{Tentarei atravessar seu labirinto de armadilhas.}{}{5}{qu1099 1}{89}{}
+{7}{Ainda não completei seu labirinto no porão, como exige.}{}{5}{qu1099 2}{110}{}
+{8}{Sobrevivi ao seu labirinto de armadilhas e desejo meu status de Mestre!}{}{5}{qu1099 3}{133}{}
+{9}{Quem ocê é?}{}{-4}{lf1 0, re 41}{17}{}
+{10}{Hã, ô, @pcname@ fez coisa ruim?}{}{-4}{lf1 0, re -40}{17}{}
+{11}{Me pergunta uma coisa, Danyell?}{}{-4}{lf1 1, re 41}{97}{}
+{12}{Me desculpa, Danyell. Me não quer deixar bravo.}{}{-4}{lf1 1, re -40}{17}{}
+{13}{Me quer passar pelo labirinto.}{}{-4}{qu1099 1}{89}{}
+{14}{Me ainda não passou pelo labirinto, Danyell.}{}{-4}{qu1099 2}{110}{}
+{15}{Me conseguiu passar pelo labirinto, Danyell!}{}{-4}{qu1099 3}{133}{}
+{16}{E:}{}{1}{}{0}{}
+{17}{Sou um homem muito ocupado. Não tenho tempo para interrupções insignificantes!}{Sou um homem muito ocupado. Não tenho tempo para interrupções insignificantes!}{}{}{}{}
+{18}{Mas tenho apenas uma ou duas perguntas. Serei rápido.}{}{5}{lf1 0}{42}{re +5}
+{19}{Por favor, bom senhor, só preciso de um momento do seu tempo.}{}{5}{lf1 0}{42}{re+15}
+{20}{Sei como está ocupado e serei rápido, Daniel.}{}{5}{lf1 1}{42}{re +5}
+{21}{Entendo como o tempo importa com uma vida tão insignificante.}{}{5}{ra -1}{28}{re -5}
+{22}{Você parece estar parado por aí sem fazer absolutamente nada!}{}{5}{ra 1}{28}{re-10}
+{23}{Hã... o quê?}{}{-4}{}{38}{re +2}
+{24}{Sim! Tempo! Responda-me!}{}{-4}{}{28}{re -2}
+{25}{Me fez coisa ruim? Me desculpa. Hã... Me pergunta uma coisa?}{}{-4}{lf1 0}{42}{}
+{26}{Me não acha você ocupado, Danyell. Me pergunta algo rápido?}{}{-4}{lf1 1}{42}{}
+{27}{E:}{}{1}{}{0}{}
+{28}{Seria sábio tomar cuidado com sua língua ao falar comigo! Sua saúde contínua pode depender disso.}{Seria sábio tomar cuidado com sua língua ao falar comigo! Sua saúde contínua pode depender disso.}{}{}{}{}
+{29}{Não tive intenção de ofender. Peço desculpas pelo mal-entendido.}{}{5}{lf1 0}{42}{re +5}
+{30}{Peço desculpas pela minha falta de modos, Daniel. Você me responderá?}{}{5}{lf1 1}{42}{re +10}
+{31}{Uma ameaça!?! Já tive o suficiente da sua atitude, escória humana!}{}{5}{ra -1}{}{co, fl 41}
+{32}{Sua falta de modos acabou de custar sua vida, "tolo".}{}{5}{ra 1}{}{co, fl 41}
+{33}{Me desculpa. Me não quer deixar bravo. Hã... Me pergunta uma coisa?}{}{-4}{lf1 0}{42}{re +5}
+{34}{Me desculpe, Danyell. Eu não quero te deixar bravo.}{}{-4}{lf1 1}{42}{re +10}
+{35}{Você não machuca minha língua... Eu machuco você!}{}{-4}{}{}{co, fl 41}
+{36}{Hã... o quê?}{}{-4}{}{38}{re -5}
+{37}{E:}{}{1}{}{0}{}
+{38}{E tenho absoluta certeza de que não tenho tempo para lidar com um imbecil. Saia da minha presença!}{E tenho absoluta certeza de que não tenho tempo para lidar com um imbecil. Saia da minha presença!}{}{}{}{}
+{39}{Homem muito mau. Hora da dor...}{}{-4}{}{}{co, fl 41}
+{40}{E:}{}{1}{}{0}{}
+{41}{[suspiro...] Algumas pessoas só aprendem do jeito difícil...}{[suspiro...] Algumas pessoas só aprendem do jeito difícil...}{}{}{}{}
+{42}{Bem, você certamente é persistente, isso eu admito. Por que insiste em me interromper?}{Bem, você certamente é persistente, isso eu admito. Por que insiste em me interromper?}{}{}{}{}
+{43}{Tenho apenas uma ou duas perguntas. Primeiramente, posso saber seu nome?}{}{5}{lf1 0}{48}{re +2}
+{44}{Meus agradecimentos, Daniel. Tenho uma ou duas perguntas, se me permite.}{}{5}{lf1 1}{97}{}
+{45}{Hã... qual é o seu nome?}{}{-4}{lf1 0}{48}{re +2}
+{46}{Obrigado, Danyell. Eu só quero te perguntar uma coisa.}{}{-4}{lf1 1}{97}{}
+{47}{E:}{}{1}{}{0}{}
+{48}{Isso é simples. Eu sou Daniel McPherson, Mestre em armar e desarmar armadilhas. Talvez já tenha ouvido falar da minha lendária reputação?}{Isso é simples. Eu sou Daniel McPherson, Mestre em armar e desarmar armadilhas. Talvez já tenha ouvido falar da minha lendária reputação?}{}{}{}{lf1 1}
+{49}{Errr... claro... O que você faz aqui?}{}{5}{}{56}{re -2}
+{50}{Ah, sim. Sua habilidade é lendária. O que faz em Caladon?}{}{5}{}{56}{re +5}
+{51}{É um prazer conhecê-lo, Mestre Daniel. Posso perguntar mais?}{}{5}{}{97}{}
+{52}{Vamos ver se sua habilidade com uma arma é boa!}{}{5}{}{}{re -10, co, fl 41}
+{53}{Hã... huh. Hã... O que você faz aqui, Danyell?}{}{-4}{}{56}{}
+{54}{Ah. Isso é bom. Posso perguntar mais?}{}{-4}{}{97}{}
+{55}{E:}{}{1}{}{0}{}
+{56}{Sou dono e opero a maior empresa de segurança do reino. Até o palácio real tem contrato comigo. Talvez já tenha ouvido falar do notório J.T. Morgan, cuja maestria está em arrombar fechaduras? Bem, uma de minhas armadilhas foi responsável por sua captura quando tentou entrar ilegalmente no palácio há alguns meses. Sou o melhor no ramo.}{Sou dono e opero a maior empresa de segurança do reino. Até o palácio real tem contrato comigo. Talvez já tenha ouvido falar do notório J.T. Morgan, cuja maestria está em arrombar fechaduras? Bem, uma de minhas armadilhas foi responsável por sua captura quando tentou entrar ilegalmente no palácio há alguns meses. Sou o melhor no ramo.}{}{}{}{lf2 1}
+{57}{Impressionante. Deve ser uma grande honra estar tão requisitado.}{}{5}{}{64}{re +2}
+{58}{Como adquiriu tanta habilidade com armadilhas?}{}{5}{}{68}{}
+{59}{Seus talentos são realmente impressionantes. Tenho outra pergunta...}{}{5}{}{97}{}
+{60}{Defenda-se..... Opressor pomposo dos ladrões!}{}{5}{}{}{co, fl 41}
+{61}{Uau. Como ficou tão bom?}{}{-4}{}{68}{}
+{62}{Isso é bom. Posso perguntar mais?}{}{-4}{}{97}{}
+{63}{E:}{}{1}{}{0}{}
+{64}{Sim, e é minha responsabilidade garantir que continuemos sendo os melhores. Como Mestre em armamento e desarmamento de armadilhas, sou capaz de treinar nossa equipe em técnicas que nossa concorrência desconhece.}{Sim, e é minha responsabilidade garantir que continuemos sendo os melhores. Como Mestre em armamento e desarmamento de armadilhas, sou capaz de treinar nossa equipe em técnicas que nossa concorrência desconhece.}{}{}{}{}
+{65}{Consigo imaginar. Como você se tornou tão especializado?}{}{5}{}{68}{}
+{66}{K:}{}{5}{}{97}{}
+{67}{E:}{}{1}{}{0}{}
+{68}{Nos meus tempos de juventude, eu era um verdadeiro malandro. Estava sempre me esgueirando por aí, entrando em lugares onde não deveria. Nunca roubei nada de verdade, eu curtia a emoção de acessar uma área proibida. Foi assim que adquiri conhecimento para me virar com todo tipo de armadilha. Tenho conhecimento de coisas com as quais a maioria dos especialistas nem sonha.}{Nos meus tempos de juventude, eu era um verdadeiro malandro. Estava sempre me esgueirando por aí, entrando em lugares onde não deveria. Nunca roubei nada de verdade, eu curtia a emoção de acessar uma área proibida. Foi assim que adquiri conhecimento para me virar com todo tipo de armadilha. Tenho conhecimento de coisas com as quais a maioria dos especialistas nem sonha.}{}{}{}{}
+{69}{Como você se mantém em plena forma agora que amadureceu?}{}{5}{}{73}{}
+{70}{Como você se mantém atualizado sobre novas invenções?}{}{5}{}{73}{}
+{71}{Como você se mantém o melhor, Danyell?}{}{-4}{}{73}{}
+{72}{E:}{}{1}{}{0}{}
+{73}{Para me manter em plena forma e garantir que meus serviços continuem em alta demanda, construí um labirinto de armadilhas no porão da minha casa aqui. É realmente engenhoso. Para torná-lo excepcionalmente desafiador, enchi-o com todas as armadilhas tecnológicas disponíveis no mercado, além de algumas das minhas próprias invenções diabólicas.}{Para me manter em plena forma e garantir que meus serviços continuem em alta demanda, construí um labirinto de armadilhas no porão da minha casa aqui. É realmente engenhoso. Para torná-lo excepcionalmente desafiador, enchi-o com todas as armadilhas tecnológicas disponíveis no mercado, além de algumas das minhas próprias invenções diabólicas.}{}{}{}{lf3 1}
+{74}{Tenho certeza de que seu labirinto ajuda muito no treinamento da sua equipe.}{}{5}{}{79}{}
+{75}{Parece bastante perigoso. Você o utiliza para treinamento?}{}{5}{}{79}{}
+{76}{Oh. Isso parece perigoso. Você treina pessoas lá?}{}{-4}{}{79}{}
+{77}{K:}{}{1}{}{97}{}
+{78}{E:}{}{1}{}{0}{}
+{79}{Normalmente não o uso para treinamento porque não tenho mecanismos de segurança. É um exercício muito letal. Embora eu deva dizer que, com certeza, me manteve em excelente forma.}{Normalmente não o uso para treinamento porque não tenho mecanismos de segurança. É um exercício muito letal. Embora eu deva dizer que, com certeza, me manteve em excelente forma.}{}{}{}{}
+{80}{Entendo. O que você exigiria para me treinar como Mestre?}{}{5}{tr15 2, tr15 -2}{84}{re +2}
+{81}{Você vai me treinar para ser Mestre?}{}{-4}{tr15 2, tr15 -2}{84}{re +2}
+{82}{K:}{}{1}{}{97}{}
+{83}{E:}{}{1}{}{0}{}
+{84}{Bem, vejo que você já se tornou um Especialista. Se quiser se tornar um Mestre em armar e desarmar armadilhas, eu o treinarei. No entanto, como já disse, estou incrivelmente ocupado no momento trabalhando no palácio em seus novos requisitos de segurança. Normalmente, eu mesmo o testaria, mas devido às minhas restrições de agenda, sou forçado a lhe oferecer uma alternativa.}{Bem, vejo que você já se tornou um Especialista. Se quiser se tornar um Mestre em armar e desarmar armadilhas, eu o treinarei. No entanto, como já disse, estou incrivelmente ocupado no momento trabalhando no palácio em seus novos requisitos de segurança. Normalmente, eu mesmo o testaria, mas devido às minhas restrições de agenda, sou forçado a lhe oferecer uma alternativa.}{}{}{}{}
+{85}{Respeito sua indisponibilidade. Qual é a sua alternativa?}{}{5}{}{89}{re +2}
+{86}{Como Mestre, acho que sua prioridade deveria ser ajudar os alunos!}{}{5}{}{89}{re -5}
+{87}{O que eu faço?}{}{-4}{}{89}{}
+{88}{E:}{}{1}{}{0}{}
+{89}{Se você conseguir atravessar com sucesso todo o labirinto de armadilhas que criei no meu porão, eu lhe concederei o status de Mestre. Mas esteja ciente dos perigos dessa tarefa e do risco à sua vida, caso decida aceitá-la.}{Se você conseguir atravessar com sucesso todo o labirinto de armadilhas que criei no meu porão, eu lhe concederei o status de Mestre. Mas esteja ciente dos perigos dessa tarefa e do risco à sua vida, caso decida aceitá-la.}{}{}{}{qu1099 1}
+{90}{Por favor, permita-me pensar um pouco mais sobre isso...}{}{5}{}{0}{}
+{91}{Quero aceitar o desafio.}{}{5}{sk15 -17, tr15 2, tr15 -2}{145}{}
+{92}{Estou preparado para o desafio e pronto para prosseguir.}{}{5}{sk15 18, tr15 2, tr15 -2}{140}{qu1099 2}
+{93}{Vou pensar um pouco primeiro, Danyell.}{}{-4}{}{0}{}
+{94}{Tudo bem. Eu faço.}{}{-4}{sk15 -17, tr15 2, tr15 -2}{145}{}
+{95}{Tudo bem. Eu faço.}{}{-4}{sk15 18, tr15 2, tr15 -2}{140}{qu1099 2}
+{96}{E:}{}{1}{}{0}{}
+{97}{[suspiro] O que você precisa? E, por favor, seja rápido.}{[suspiro] O que você precisa? E, por favor, seja rápido.}{}{}{}{}
+{98}{C:}{}{1}{}{97}{}
+{99}{Qual é a sua posição aqui?}{}{5}{qb 1099 2, lf 14 0}{56}{lf 14 1}
+{100}{Eu gostaria de me tornar um Mestre em armar e desarmar armadilhas.}{}{5}{sk15 -17, tr15 2, tr15 -2, lf 15 0, qb 1099 1,lf1 1}{113}{re +5, lf 15 1}
+{101}{Eu gostaria de me tornar um Mestre em armar e desarmar armadilhas.}{}{5}{ tr15 1, tr 15 -1, lf 15 0, qb 1099 1, lf 1 1}{128}{lf 15 1}
+{102}{Eu gostaria de me tornar um Mestre em armar e desarmar armadilhas.}{}{5}{sk15 18, tr15 2, tr15 -2, lf 15 0, qb 1099 1, lf 1 1}{84}{lf 15 1}
+{103}{Eu só queria agradecer novamente por me treinar.}{}{5}{tr15 3, re -80, lf 1 1}{0}{re +2}
+{104}{O que cê tá fazeno aqui?}{}{-4}{qb 1099 2, lf 14 0}{56}{lf 14 1}
+{105}{Eu qué sê Mestre em armá e desarmá armadilha.}{}{-4}{sk15 -17, tr15 2, tr15 -2, lf 15 0, qb 1099 1,lf1 1}{113}{re +5, lf 15 1}
+{106}{Eu qué sê Mestre em armá e desarmá armadilha.}{}{-4}{ tr15 1, tr 15 -1, lf 15 0, qb 1099 1, lf 1 1}{128}{lf 15 1}
+{107}{Eu qué sê Mestre em armá e desarmá armadilha.}{}{-4}{sk15 18, tr15 2, tr15 -2, lf 15 0, qb 1099 1, lf 1 1}{84}{lf 15 1}
+{108}{Eu qué agradecê de novo por me treiná, Danyell.}{}{-4}{tr15 3, re -80, lf 1 1}{0}{re +2}
+{109}{E:}{}{1}{}{0}{}
+{110}{Por favor, não me incomode até que tenha completado o labirinto. Como já lhe disse antes, o palácio exige minha total atenção!}{Por favor, não me incomode até que tenha completado o labirinto. Como já lhe disse antes, o palácio exige minha total atenção!}{}{}{}{}
+{111}{K:}{}{1}{}{97}{}
+{112}{E:}{}{1}{}{0}{}
+{113}{É claro que sou plenamente capaz de treiná-lo. No entanto, estou bastante ocupado com meu trabalho para o palácio.}{É claro que sou plenamente capaz de treiná-lo. No entanto, estou bastante ocupado com meu trabalho para o palácio.}{}{}{}{}
+{114}{Você é o único com tal habilidade. Por favor, poderia me treinar?}{}{5}{}{145}{re +2}
+{115}{Sem tempo para me treinar?! Receio que suas prioridades estejam equivocadas!}{}{5}{}{121}{re -5}
+{116}{Por favô? Ocê é o único que pode me treiná, Danyell...}{}{-4}{}{145}{re +2}
+{117}{Sem tempo? Isso num tá certo! Ocê tem que me treiná agora, Danyell!}{}{-4}{}{121}{re -5}
+{118}{K:}{}{1}{}{97}{}
+{119}{E:}{}{1}{}{0}{}
+{120}{Se a morte é o que deseja, que assim seja.... Insensato}{Se a morte é o que deseja, que assim seja.... Insensato}{}{}{}{}
+{121}{Sua atitude deixa muito a desejar. É melhor repensar suas palavras, ou enfrentar as consequências!}{Sua atitude deixa muito a desejar. É melhor repensar suas palavras, ou enfrentar as consequências!}{}{}{}{}
+{122}{Peço desculpas. Passei dos limites. Por favor, me perdoe.}{}{5}{}{89}{re +5}
+{123}{K:}{}{1}{}{97}{}
+{124}{Enfrente essas consequências!}{}{5}{}{}{co, fl 120}
+{125}{Me desculpa... eu só fiquei bravo. Vou ser legal agora...}{}{-4}{}{89}{re +5}
+{126}{Encare esse valentão!}{}{-4}{}{}{co, fl 120}
+{127}{E:}{}{1}{}{0}{re -2}
+{128}{Admiro seu desejo de aprender. No entanto, antes que eu possa ensiná-lo, você deve primeiro se tornar um Especialista em nossa área, @pcname@.}{Admiro seu desejo de aprender. No entanto, antes que eu possa ensiná-lo, você deve primeiro se tornar um Especialista em nossa área, @pcname@.}{}{}{}{}
+{129}{K:}{}{1}{}{97}{}
+{130}{Vou buscar treinamento e então retornarei. Adeus, Daniel.}{}{5}{}{0}{}
+{131}{Vou me treiná e depois volto. Tchau, Danyell.}{}{-4}{}{0}{}
+{132}{E:}{}{1}{}{0}{}
+{133}{Um trabalho admirável! Estou satisfeito em ver que você estava à altura do desafio. Além de conceder-lhe o título de Mestre na área de armar e desarmar armadilhas, permita-me presenteá-lo com estes raros óculos de fabricante de armadilhas. Um pequeno bônus pelo seu esforço. Foi um prazer, mas agora devo retornar aos meus deveres @pcname@.}{Um trabalho admirável! Estou satisfeito em ver que você estava à altura do desafio. Além de conceder-lhe o título de Mestre na área de armar e desarmar armadilhas, permita-me presenteá-lo com estes raros óculos de fabricante de armadilhas. Um pequeno bônus pelo seu esforço. Foi um prazer, mas agora devo retornar aos meus deveres @pcname@.}{}{}{}{qu1099 4, tr15 3, in -2815, rq2174}
+{134}{Obrigado, Daniel.}{}{5}{}{0}{}
+{135}{Seu labirinto foi realmente um desafio. Obrigado.}{}{5}{}{0}{re +5}
+{136}{Eu acho que deveria haver apenas um Mestre... EU!}{}{5}{}{}{co, fl 120}
+{137}{Obrigado, Danyell.}{}{-4}{}{0}{}
+{138}{Eu acho que só deve haver um Mestre... EU!}{}{-4}{}{}{co, fl 120}
+{139}{E:}{}{1}{}{0}{}
+{140}{Você entra no labirinto pela escotilha perto da minha estante de livros, aqui está a chave. Quando completar o labirinto, a porta de saída o levará de volta a esta mesma sala, momento em que concederei o status de Mestre. Desejo-lhe sorte, @pcname@.}{Você entra no labirinto pela escotilha perto da minha estante de livros. Quando completar o labirinto, a porta de saída o levará de volta a esta mesma sala, momento em que concederei o status de Mestre. Desejo-lhe sorte, @pcname@.}{}{}{}{lf 5 1, in -4426}
+{141}{Retornarei prontamente.}{}{5}{}{0}{}
+{142}{Eu volto logo.}{}{-4}{}{0}{}
+{143}{K:}{}{1}{}{97}{}
+{144}{E:}{}{1}{}{0}{}
+{145}{Admiro seu desejo de aprender. Você já é um Especialista, o que é muito louvável. No entanto, antes de começar seu treinamento como Mestre fabricante de armadilhas, você deve aprimorar suas habilidades. Volte para me ver então.}{Admiro seu desejo de aprender. Você já é um Especialista, o que é muito louvável. No entanto, antes de começar seu treinamento como Mestre fabricante de armadilhas, você deve aprimorar suas habilidades. Volte para me ver então.}{}{}{}{}
+{146}{K:}{}{1}{}{97}{}
+{147}{Vou me aprimorar e retornar prontamente, Daniel.}{}{5}{}{0}{}
+{148}{Vou melhorar e voltar logo. Obrigado, Danyell.}{}{-4}{}{0}{}
+{149}{E:}{}{1}{}{0}{}
+

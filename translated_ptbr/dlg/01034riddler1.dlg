@@ -1,0 +1,35 @@
+{1}{Olá, jovem. Gostaria de jogar um jogo?}{Olá, jovem. Gostaria de jogar um jogo?}{}{}{}{}
+{2}{Claro.}{}{5}{}{22}{}
+{3}{Que tipo de jogo, meio-homem?}{}{5}{}{7}{}
+{4}{E:}{}{5}{}{0}{}
+{7}{Ah, um jogo antigo, com certeza. E divertido, se tiveres a têmpera certa. Achas que estás pronto, hein?}{Ah, um jogo antigo, com certeza. E divertido, se tiveres a têmpera certa. Achas que estás pronta, hein?}{}{}{}{}
+{8}{Estou dentro.}{}{5}{}{22}{}
+{9}{Quais são as regras?}{}{5}{}{11}{}
+{11}{As regras? Regras? Bem, se precisas saber... eu vou te fazer uma pergunta, e se souberes a resposta, o jogo continua. Se não, o jogo acaba. Concordas?}{As regras? Regras? Bem, se precisas saber... eu vou te fazer uma pergunta, e se souberes a resposta, o jogo continua. Se não, o jogo acaba. Concordas?}{}{}{}{}
+{12}{O que queres dizer com 'o jogo continua'?}{}{5}{}{16}{}
+{13}{Parece bom. Vamos começar.}{}{5}{}{22}{}
+{14}{E:}{}{5}{}{0}{}
+{16}{Hmmm. Não és de arriscar, hein? Bem, digamos que se fores um rapaz esperto, poderás continuar testando essa tua mente... não direi mais nada, por respeito às antigas tradições...}{Hmmm. Não és de arriscar, hein? Bem, digamos que se fores uma moça esperta, poderás continuar testando essa tua mente... não direi mais nada, por respeito às antigas tradições...}{}{}{}{}
+{17}{Tudo bem. Estou dentro.}{}{5}{}{22}{}
+{18}{Esquece. Não me meto nos assuntos dos meio-homens.}{}{5}{}{0}{}
+{22}{Ha! Bom, então começaremos logo. Farei uma pergunta, e haverá uma resposta. O sábio verá o que o tolo não enxerga.}{Ha! Bom, então começaremos logo. Farei uma pergunta, e haverá uma resposta. O sábio verá o que o tolo não enxerga.}{}{}{}{qu 1009 1}
+{23}{Pode perguntar.}{}{5}{}{26}{}
+{24}{E:}{}{5}{}{0}{}
+{26}{Um rosto pintado, mãos sem ossos. Meu irmão mais velho foi feito de pedras. O que sou eu?}{Um rosto pintado, mãos sem ossos. Meu irmão mais velho foi feito de pedras. O que sou eu?}{}{}{}{}
+{27}{Um mural.}{}{5}{}{}{qu 1009 6, fl 33}
+{28}{Um relógio.}{}{5}{}{35}{qu 1009 2}
+{29}{Um espantalho.}{}{5}{}{}{qu 1009 6, fl 33}
+{30}{Um anzol.}{}{5}{}{}{qu 1009 6, fl 33}
+{31}{E:}{}{5}{}{0}{}
+{33}{Errado, meu amigo. Mas não importa! Nenhum mal foi feito! Siga seu caminho, e não ficarás mais pobre! Bom dia!}{Errado, meu amigo. Mas não importa! Nenhum mal foi feito! Siga seu caminho, e não ficarás mais pobre! Bom dia!}{}{}{}{}
+{35}{Correto! Todo relógio tem ponteiros sem ossos, e todos sabemos que os primeiros relógios de sol foram feitos de pedra. Pareces ser um(a) esperto(a)... gostarias de continuar?}{Correto! Todo relógio tem ponteiros sem ossos, e todos sabemos que os primeiros relógios de sol foram feitos de pedra. Pareces ser um(a) esperto(a)... gostarias de continuar?}{}{}{}{}
+{36}{Claro.}{}{5}{}{39}{}
+{37}{Estou um pouco desconfiado deste assunto. Adeus.}{}{5}{}{0}{}
+{39}{Bom sujeito! Bem, então. Se seguir para o oeste, logo depois do acampamento dos ladrões, encontrará um antigo bosque que alguns chamam de Bosque Mirrado. Lá, outro dos nossos aguarda. Boa sorte para você...}{Bom sujeito! Bem, então. Se seguir para o oeste, logo depois do acampamento dos ladrões, encontrará um antigo bosque que alguns chamam de Bosque Mirrado. Lá, outro dos nossos aguarda. Boa sorte para você...}{}{}{}{}
+{40}{Obrigado. Vou seguir meu caminho.}{}{5}{}{0}{}
+{42}{Não tenho mais nada a dizer... vá para o oeste, até o Bosque Mirrado.}{Não tenho mais nada a dizer... vá para o oeste, até o Bosque Mirrado.}{}{}{}{}
+{43}{Para alguém tão esperto quanto você, está agindo de um jeito meio lerdo. Atravesse o Bosque Mirrado até o terreno pedregoso.}{Para alguém tão esperto quanto você, está agindo de um jeito meio lerdo. Atravesse o Bosque Mirrado até o terreno pedregoso.}{}{}{}{}
+{44}{Bem feito. Sempre nos lembraremos de você.}{Bem feito. Sempre nos lembraremos de você.}{}{}{}{}
+{45}{Desculpe, jovem. Seu jogo já foi jogado...}{Desculpe, jovem. Seu jogo já foi jogado...}{}{}{}{}
+{46}{Achou que poderia escapar de seus crimes? Morra!}{Achou que poderia escapar de seus crimes? Morra!}{}{}{}{}
+

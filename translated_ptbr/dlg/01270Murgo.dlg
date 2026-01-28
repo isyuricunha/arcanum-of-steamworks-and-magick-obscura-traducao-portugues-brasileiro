@@ -1,0 +1,99 @@
+{1}{Hã... oi! Eu sou o Murgo!}{Hã... oi! Eu sou o Murgo!}{}{}{}{}
+{2}{Ah, sim... olá, Murgo. Posso falar com você um instante?}{}{5}{}{18}{}
+{3}{Oi, Murgo! Eu @PCNAME@}{}{-4}{me 0}{7}{}
+{4}{Oi, Murgo! Posso te fazer algumas perguntas?}{}{-4}{me 1}{18}{}
+{5}{E:}{}{1}{}{0}{}
+{7}{Ei! Você é burro igual a mim! Gostei de você, @PCNAME@!}{Ei! Você é burro igual a mim! Gostei de você, @PCNAME@!}{}{}{}{}
+{8}{Eu também gosto de você, Murgo! Posso te fazer algumas perguntas?}{}{-4}{}{18}{}
+{9}{Eu não gosto de burros como você...}{}{-4}{}{12}{}
+{10}{E:}{}{-4}{}{0}{}
+{12}{O quê? Você falou coisas ruins pro Murgo! Machucou os sentimentos do Murgo!}{O quê? Você falou coisas ruins pro Murgo! Machucou os sentimentos do Murgo!}{}{}{}{}
+{13}{Brincadeirinha, Murgo! Posso te fazer umas perguntas?}{}{-4}{}{18}{}
+{14}{Você é MUITO burro! Chora igual a um bebê grandão, também!}{}{-4}{}{}{lf2 1, re -5, fl 16}
+{16}{[Snif.] Murgo nunca mais fala com você, @PCNAME@! Me deixa em paz!}{[Snif.] Murgo nunca mais fala com você, @PCNAME@! Me deixa em paz!}{}{}{}{}
+{18}{Claro! Murgo gosta de conversar!}{Claro! Murgo gosta de conversar!}{}{}{}{}
+{19}{O que você faz aqui, Murgo?}{}{5}{}{27}{}
+{20}{Eu falei com o Sr. Wallows... ele disse que você poderia estar disponível para me ajudar?}{}{5}{gf2434 1, gf2435 0, lf1 0}{31}{}
+{21}{Você gostaria de me acompanhar para ajudar a carregar a pedra do altar, Murgo?}{}{5}{lf1 1, gf2435 0}{39}{jo 0 42}
+{22}{O que você faz aqui, Murgo?}{}{-4}{}{27}{}
+{23}{Hã... Wallows disse que você poderia me ajudar?}{}{-4}{gf2434 1, gf2435 0, lf1 0}{31}{}
+{24}{Talvez você queira vir comigo e carregar a pedra do al-tar, Murgo?}{}{-4}{lf1 1, gf2435 0}{39}{jo 0 42}
+{25}{E:}{}{1}{}{0}{}
+{27}{Hã... eu ajudo os sacerdotes! Se eles precisarem que o Murgo faça alguma coisa, então eu faço! Tipo levantar coisas pesadas, quebrar coisas e tal! E eles me dão comida e uma cama boa! Sacerdotes legais!}{Hã... eu ajudo os sacerdotes! Se eles precisarem que o Murgo faça alguma coisa, então eu faço! Tipo levantar coisas pesadas, quebrar coisas e tal! E eles me dão comida e uma cama boa! Sacerdotes legais!}{}{}{}{}
+{28}{Entendi. Posso te fazer mais algumas perguntas?}{}{5}{}{18}{}
+{29}{Hã... tá bom. Mais perguntas?}{}{-4}{}{18}{}
+{31}{Se o Sr. Wallows disser que tá bom, então talvez eu ajude você... com o que precisa de ajuda?}{Se o Sr. Wallows disser que tá bom, então talvez eu ajude você... com o que precisa de ajuda?}{}{}{}{}
+{32}{Preciso que você carregue uma coisa pra mim... [Fale pra ele.]}{}{5}{}{35}{}
+{33}{Preciso que você me ajude a carregar uma coisa! [Diga a ele.]}{}{-4}{}{35}{}
+{35}{Hã... tá bom. Acho que entendi...}{Hã... tá bom. Acho que entendi...}{}{}{}{}
+{36}{Então... você vai se juntar a mim?}{}{5}{}{39}{lf1 1, jo 0 42}
+{37}{Então você vem comigo?}{}{-4}{}{39}{lf1 1, jo 0 42}
+{39}{Hã... precisa de mais alguma coisa?}{Hã... precisa de mais alguma coisa?}{}{}{}{}
+{40}{E:}{}{1}{}{0}{}
+{42}{Tá bom! Eu ajudo você! Mas precisamos ir pra lá agora mesmo! Tenho que voltar aqui e ajudar os sacerdotes de novo!}{Tá bom! Eu ajudo você! Mas precisamos ir pra lá agora mesmo! Tenho que voltar aqui e ajudar os sacerdotes de novo!}{}{}{}{gf2745 1}
+{43}{Certo. Vamos direto para a pedreira...}{}{5}{}{0}{}
+{44}{Tenho mais alguns lugares para ir primeiro. Talvez eu passe para te buscar mais tarde...}{}{5}{}{0}{lv}
+{45}{Tá bom! Vamos para a kwa-ree agora mesmo!}{}{-4}{}{0}{}
+{46}{Hã... preciso ir a alguns outros lugares primeiro. Volto mais tarde...}{}{-4}{}{0}{lv}
+{48}{Hã... o que você precisa?}{Hã... o que você precisa?}{}{}{}{}
+{49}{B:}{}{1}{}{}{}
+{50}{H:}{}{1}{}{48}{}
+{51}{K:}{}{1}{}{58}{}
+{52}{Gostaria que você fizesse algo por mim, Murgo...}{}{5}{}{70}{}
+{53}{Preciso que você faça algo por mim, Murgo.}{}{-4}{}{70}{}
+{54}{E:}{}{1}{}{0}{}
+{58}{O que você precisa saber?}{O que você precisa saber?}{}{}{}{}
+{59}{Gostaria de saber algumas coisas sobre você, Murgo...}{}{5}{}{}{ce}
+{60}{O que devemos fazer agora?}{}{5}{}{107}{}
+{61}{O que você sabe sobre este lugar?}{}{5}{ia 28}{114}{}
+{62}{O que você sabe sobre este lugar?}{}{5}{ia -28}{111}{}
+{63}{Quero saber umas coisas sobre você, Murgo!}{}{-4}{}{}{ce}
+{64}{O que você acha que devemos fazer agora, Murgo?}{}{-4}{}{107}{}
+{65}{O que você sabe sobre este lugar?}{}{-4}{ia 28}{114}{}
+{66}{O que você sabe sobre este lugar?}{}{-4}{ia -28}{111}{}
+{67}{[Voltar.]}{}{1}{}{48}{}
+{68}{E:}{}{1}{}{0}{}
+{70}{Hã... o que você quer que eu faça?}{Hã... o que você quer que eu faça?}{}{}{}{}
+{71}{Saia da frente, Murgo.}{}{5}{}{0}{so}
+{72}{Saia daqui, Murgo!}{}{-4}{}{0}{so}
+{73}{Chegue um pouco mais perto, Murgo.}{}{5}{}{0}{sc}
+{74}{Venha aqui, Murgo!}{}{-4}{}{0}{sc}
+{75}{Espere aqui por um tempo...}{}{5}{wa 0}{86}{wa}
+{76}{Hã... espere aqui um minutinho...}{}{-4}{wa 0}{86}{wa}
+{77}{Pode parar de esperar agora, Murgo.}{}{5}{wa 1, gf2535 0}{97}{uw 1 84}
+{78}{Pare de esperar, Murgo!}{}{-4}{wa 1, gf2535 0}{97}{uw 1 84}
+{79}{Pode parar de esperar agora, Murgo.}{}{5}{wa 1, gf2535 1}{}{lv, fl}
+{80}{Pare de esperar, Murgo!}{}{-4}{wa 1, gf2535 1}{}{lv, fl}
+{81}{Acho melhor você deixar o grupo.}{}{5}{}{89}{lv}
+{82}{Eu não querer mais você no grupo...}{}{-4}{}{89}{lv}
+{83}{[Voltar]}{}{1}{}{48}{}
+{84}{Tá bom! Tô pronto quando você estiver...!}{Tá bom! Tô pronto quando você estiver...!}{}{}{}{}
+{85}{E:}{}{1}{}{0}{}
+{86}{Tá... vou esperar aqui!}{Tá... vou esperar aqui!}{}{}{}{}
+{87}{E:}{}{1}{}{0}{}
+{89}{Hã... tá bom. Tchau!}{Hã... tá bom. Tchau!}{}{}{}{lf31 1}
+{90}{E:}{}{1}{}{0}{}
+{92}{Oi de novo! O que você precisa?}{Oi de novo! O que você precisa?}{}{}{}{}
+{93}{Eu estava pensando se você poderia me acompanhar de novo, Murgo?}{}{5}{}{97}{jo 1 100}
+{94}{Quer me acompanhar de novo, Murgo?}{}{-4}{}{97}{jo 1 100}
+{95}{E:}{}{1}{}{0}{}
+{97}{Hã... precisa de mais alguma coisa?}{Hã... precisa de mais alguma coisa?}{}{}{}{}
+{98}{E:}{}{1}{}{0}{}
+{100}{Claro que vou com você! Mas precisamos ir buscar a pedra grande agora mesmo!}{Claro que vou com você! Mas precisamos ir buscar a pedra grande agora mesmo!}{}{}{}{lf31 0}
+{101}{E:}{}{1}{}{0}{}
+{103}{Ei! Você me fez esperar muito tempo!}{Ei! Você me fez esperar muito tempo!}{}{}{}{}
+{104}{Gostaria de me acompanhar de novo, Murgo?}{}{5}{}{97}{jo 1 100}
+{105}{Junte-se a mim de novo!}{}{-4}{}{97}{jo 1 100}
+{107}{Acho que devíamos buscar a pedra grande agora mesmo! Preciso voltar logo para ajudar os sacerdotes!}{Acho que devíamos buscar a pedra grande agora mesmo! Preciso voltar logo para ajudar os sacerdotes!}{}{}{}{}
+{108}{K:}{}{1}{}{48}{}
+{109}{E:}{}{1}{}{0}{}
+{111}{Hã... não sei de nada, só sei que não estamos onde deveríamos estar! Precisamos ir para lá agora mesmo!}{Hã... não sei de nada, só sei que não estamos onde deveríamos estar! Precisamos ir para lá agora mesmo!}{}{}{}{}
+{112}{K:}{}{1}{}{48}{}
+{113}{E:}{}{1}{}{0}{}
+{114}{É aqui que pegamos a pedra grande! Agora vamos pegá-la e voltar para casa!}{É aqui que pegamos a pedra grande! Agora vamos pegá-la e voltar para casa!}{}{}{}{}
+{115}{K:}{}{1}{}{48}{}
+{116}{E:}{}{1}{}{0}{}
+{120}{O trabalho do Murgo acabou! Agora vou ajudar os sacerdotes! Tchau!}{O trabalho do Murgo acabou! Agora vou ajudar os sacerdotes! Tchau!}{}{}{}{}
+{121}{Você demorou demais! Desculpe! O Murgo vai trabalhar agora!}{Você demorou demais! Desculpe! O Murgo vai trabalhar agora!}{}{}{}{}
+{122}{Oi! Eu sou Murgo! Eu ajudo os sacerdotes!}{Oi! Eu sou Murgo! Eu ajudo os sacerdotes!}{}{}{}{}
+

@@ -1,0 +1,352 @@
+{1}{G:}{}{}{}{}{}
+{2}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me 0, re41, lf13 1}{19}{}
+{3}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me 0, re -40, lf13 1}{26}{}
+{4}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me0, re41, ss2, ss-13, lf13 0}{53}{}
+{5}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me0, re-40, ss13, ss-13, lf13 0}{61}{}
+{6}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me 1, re41, lf13 1}{39}{}
+{7}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me 1, re-40, lf13 1}{46}{}
+{8}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me1, re41, ss13, ss-13, lf13 0}{77}{}
+{9}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me1, re-40, ss13, ss-13, lf13 0}{69}{}
+{10}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me 0, re41, lf13 1}{19}{}
+{11}{Hã... Eu pergunto uma coisa?}{}{-4}{me 0, re -40, lf13 1}{26}{}
+{12}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me0, re41, ss13, ss-13, lf13 0}{53}{}
+{13}{Hã... Eu pergunto uma coisa?}{}{-4}{me0, re-40, ss13, ss-13, lf13 0}{61}{}
+{14}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me 1, re41, lf13 1}{39}{}
+{15}{Hã... Eu pergunto uma coisa?}{}{-4}{me 1, re-40, lf13 1}{46}{}
+{16}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me1, re41, ss13, ss-13, lf13 0}{77}{}
+{17}{Hã... Eu pergunto uma coisa?}{}{-4}{me1, re-40, ss13, ss-13, lf13 0}{69}{}
+{18}{E:}{}{1}{}{0}{}
+{19}{Em que posso ajudá-lo, senhor?}{O que posso fazer por você, madame?}{}{}{}{}
+{20}{R:$0, 1155-1165}{}{1}{}{33}{}
+{22}{C:}{}{1}{}{33}{}
+{23}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{351}{}
+{24}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{351}{}
+{25}{E:}{}{1}{}{0}{}
+{26}{O que é?}{O que é?}{}{}{}{}
+{27}{R:$0, 1155-1165}{}{1}{}{33}{}
+{28}{C:}{}{1}{}{33}{}
+{29}{I:}{}{1}{}{0}{re-2}
+{30}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{351}{}
+{31}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{351}{}
+{32}{E:}{}{1}{}{0}{}
+{33}{Tem mais alguma coisa em que eu possa te ajudar?}{Tem mais alguma coisa em que eu possa te ajudar?}{}{}{}{}
+{34}{R:$0, 1155-1165}{}{1}{}{33}{}
+{35}{C:}{}{1}{}{33}{}
+{36}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{351}{}
+{37}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{351}{}
+{38}{E:}{}{1}{}{0}{}
+{39}{Ora, olá de novo, @pcname@. Espero que esteja bem. Em que precisa?}{Ora, olá de novo, @pcname@. Espero que esteja bem. Em que precisa?}{}{}{}{}
+{40}{R:$0, 1155-1165}{}{1}{}{33}{}
+{42}{C:}{}{1}{}{33}{}
+{43}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{351}{}
+{44}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{351}{}
+{45}{E:}{}{1}{}{0}{}
+{46}{O que é, @pcname@?}{O que é, @pcname@?}{}{}{}{}
+{47}{R:$0, 1155-1165}{}{1}{}{33}{}
+{48}{I:}{}{1}{}{0}{re-2}
+{49}{C:}{}{1}{}{33}{}
+{50}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{351}{}
+{51}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{351}{}
+{52}{E:}{}{1}{}{0}{}
+{53}{Em que posso ajudá-lo, senhor?}{O que posso fazer por você, madame?}{}{}{}{}
+{54}{R:$0, 1155-1165}{}{1}{}{90}{}
+{56}{Poderia me indicar a casa de Victor Misk?}{}{5}{ss12, 22-13}{85}{}
+{57}{Eu procuro a casa do Misk?}{}{-4}{ss12, 22-13}{85}{}
+{58}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{351}{}
+{59}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{351}{}
+{60}{E:}{}{1}{}{0}{}
+{61}{O que é?}{O que é?}{}{}{}{}
+{62}{R:$0, 1155-1165}{}{1}{}{90}{}
+{63}{I:}{}{1}{}{0}{re-2}
+{64}{Poderia me indicar a casa de Victor Misk?}{}{5}{ss12, 22-13}{85}{}
+{65}{Eu procuro a casa do Misk?}{}{-4}{ss12, 22-13}{85}{}
+{66}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{351}{}
+{67}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{351}{}
+{68}{E:}{}{1}{}{0}{}
+{69}{O que é, @pcname@?}{O que é, @pcname@?}{}{}{}{}
+{70}{R:$0, 1155-1165}{}{1}{}{90}{}
+{71}{I:}{}{1}{}{0}{re-2}
+{72}{Poderia me indicar a casa de Victor Misk?}{}{5}{ss12, 22-13}{85}{}
+{73}{Eu procuro a casa do Misk?}{}{-4}{ss12, 22-13}{85}{}
+{74}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{351}{}
+{75}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{351}{}
+{76}{E:}{}{1}{}{0}{}
+{77}{Ora, olá de novo, @pcname@. Espero que esteja bem. Em que precisa?}{Ora, olá de novo, @pcname@. Espero que esteja bem. Em que precisa?}{}{}{}{}
+{78}{R:$0, 1155-1165}{}{1}{}{33}{}
+{79}{A:}{}{1}{}{33}{re+2}
+{80}{Poderia me indicar a casa de Victor Misk?}{}{5}{ss12, 22-13}{85}{}
+{81}{Eu procuro a casa do Misk?}{}{-4}{ss12, 22-13}{85}{}
+{82}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{351}{}
+{83}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{351}{}
+{84}{E:}{}{1}{}{0}{}
+{85}{Ah. A residência dos Misk fica no número 9 da Alameda Lobo Cinzento.}{Ah. A residência dos Misk fica no número 9 da Alameda Lobo Cinzento.}{}{}{}{lf13 1}
+{86}{R:$0, 1155-1165}{}{1}{}{33}{}
+{87}{A:}{}{1}{}{33}{re+2}
+{88}{C:}{}{1}{}{33}{}
+{89}{E:}{}{1}{}{0}{}
+{90}{Tem mais alguma coisa em que eu possa te ajudar?}{Tem mais alguma coisa em que eu possa te ajudar?}{}{}{}{}
+{91}{R:$0, 1155-1165}{}{1}{}{90}{}
+{92}{Poderia me indicar a casa de Victor Misk?}{}{5}{ss12, 22-13}{85}{}
+{93}{Eu procuro a casa do Misk?}{}{-4}{ss12, 22-13}{85}{}
+{94}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{351}{}
+{95}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{351}{}
+{96}{E:}{}{1}{}{0}{}
+{97}{}{}{}{}{}{}
+{98}{}{}{}{}{}{}
+{99}{}{}{}{}{}{}
+{100}{}{}{}{}{}{}
+{101}{}{}{}{}{}{}
+{102}{}{}{}{}{}{}
+{103}{}{}{}{}{}{}
+{104}{}{}{}{}{}{}
+{105}{}{}{}{}{}{}
+{106}{}{}{}{}{}{}
+{107}{}{}{}{}{}{}
+{108}{}{}{}{}{}{}
+{109}{}{}{}{}{}{}
+{110}{}{}{}{}{}{}
+{111}{}{}{}{}{}{}
+{112}{}{}{}{}{}{}
+{113}{}{}{}{}{}{}
+{114}{}{}{}{}{}{}
+{115}{}{}{}{}{}{}
+{116}{}{}{}{}{}{}
+{117}{}{}{}{}{}{}
+{118}{}{}{}{}{}{}
+{119}{}{}{}{}{}{}
+{120}{}{}{}{}{}{}
+{121}{}{}{}{}{}{}
+{122}{}{}{}{}{}{}
+{123}{}{}{}{}{}{}
+{124}{}{}{}{}{}{}
+{125}{}{}{}{}{}{}
+{126}{}{}{}{}{}{}
+{127}{}{}{}{}{}{}
+{128}{}{}{}{}{}{}
+{129}{}{}{}{}{}{}
+{130}{}{}{}{}{}{}
+{131}{}{}{}{}{}{}
+{132}{}{}{}{}{}{}
+{133}{}{}{}{}{}{}
+{134}{}{}{}{}{}{}
+{135}{}{}{}{}{}{}
+{136}{}{}{}{}{}{}
+{137}{}{}{}{}{}{}
+{138}{}{}{}{}{}{}
+{139}{}{}{}{}{}{}
+{140}{}{}{}{}{}{}
+{141}{}{}{}{}{}{}
+{142}{}{}{}{}{}{}
+{143}{}{}{}{}{}{}
+{144}{}{}{}{}{}{}
+{145}{}{}{}{}{}{}
+{146}{}{}{}{}{}{}
+{147}{}{}{}{}{}{}
+{148}{}{}{}{}{}{}
+{149}{}{}{}{}{}{}
+{150}{}{}{}{}{}{}
+{151}{}{}{}{}{}{}
+{152}{}{}{}{}{}{}
+{153}{}{}{}{}{}{}
+{154}{}{}{}{}{}{}
+{155}{}{}{}{}{}{}
+{156}{}{}{}{}{}{}
+{157}{}{}{}{}{}{}
+{158}{}{}{}{}{}{}
+{159}{}{}{}{}{}{}
+{160}{}{}{}{}{}{}
+{161}{}{}{}{}{}{}
+{162}{}{}{}{}{}{}
+{163}{}{}{}{}{}{}
+{164}{}{}{}{}{}{}
+{165}{}{}{}{}{}{}
+{166}{}{}{}{}{}{}
+{167}{}{}{}{}{}{}
+{168}{}{}{}{}{}{}
+{169}{}{}{}{}{}{}
+{170}{}{}{}{}{}{}
+{171}{}{}{}{}{}{}
+{172}{}{}{}{}{}{}
+{173}{}{}{}{}{}{}
+{174}{}{}{}{}{}{}
+{175}{}{}{}{}{}{}
+{176}{}{}{}{}{}{}
+{177}{}{}{}{}{}{}
+{178}{}{}{}{}{}{}
+{179}{}{}{}{}{}{}
+{180}{}{}{}{}{}{}
+{181}{}{}{}{}{}{}
+{182}{}{}{}{}{}{}
+{183}{}{}{}{}{}{}
+{184}{}{}{}{}{}{}
+{185}{}{}{}{}{}{}
+{186}{}{}{}{}{}{}
+{187}{}{}{}{}{}{}
+{188}{}{}{}{}{}{}
+{189}{É bom ver você @pcname@. Aqueles que importam no Submundo falam muito bem de você. ...O que posso fazer por você?}{É bom ver você @pcname@. Aqueles que importam no Submundo falam muito bem de você. ...O que posso fazer por você?}{}{}{}{lf15 1}
+{190}{T: 4, 5, 6, 7}{}{1}{}{197}{}
+{191}{R:$0, 1145-1151}{}{1}{}{-7}{}
+{192}{Onde fica o mercado negro?}{}{5}{gf2390 0}{205}{}
+{194}{Onde eu acho o mercado negro?}{}{-4}{gf2390 0}{205}{}
+{196}{E:}{}{1}{}{0}{}
+{197}{Precisa de mais alguma coisa?}{Precisa de mais alguma coisa?}{}{}{}{lf15 1}
+{198}{T: 4, 5, 6, 7}{}{1}{}{197}{}
+{199}{R:$0, 1145-1151}{}{1}{}{-7}{}
+{200}{Onde fica o mercado negro?}{}{5}{gf2390 0}{205}{}
+{201}{Onde posso encontrar um treinador especializado em detectar armadilhas?}{}{5}{tr7 1, tr7 -1, ru-2181}{248}{}
+{202}{Onde eu acho o mercado negro?}{}{-4}{gf2390 0}{205}{}
+{203}{Onde tá o mestre pra achar armadilha?}{}{-4}{tr7 1, tr7 -1, ru-2181}{248}{}
+{204}{E:}{}{1}{}{0}{}
+{205}{Você pode encontrá-lo escondido no cômodo dos fundos do The Sobbing Onion.}{Você pode encontrá-lo escondido no cômodo dos fundos do The Sobbing Onion.}{}{}{}{}
+{206}{K:}{}{1}{}{197}{}
+{207}{E:}{}{1}{}{0}{}
+{208}{O que posso fazer por você, @pcname@?}{O que posso fazer por você, @pcname@?}{}{}{}{lf15 1}
+{209}{T: 4, 5, 6, 7}{}{1}{}{217}{}
+{210}{Há alguma novidade?}{}{5}{}{228}{}
+{211}{Mais novidades?}{}{-4}{}{228}{}
+{212}{Onde fica o mercado negro?}{}{5}{gf2390 0}{226}{}
+{214}{Onde eu acho o mercado negro?}{}{-4}{gf2390 0}{226}{}
+{216}{E:}{}{1}{}{0}{}
+{217}{Precisa de mais alguma coisa?}{Precisa de mais alguma coisa?}{}{}{}{lf15 1}
+{218}{T: 4, 5, 6, 7}{}{1}{}{217}{}
+{219}{Tem algum "serviço" novo?}{}{5}{}{228}{}
+{220}{Tem mais "serviços"?}{}{-4}{}{228}{}
+{221}{Onde fica o mercado negro?}{}{5}{gf2390 0}{226}{}
+{222}{Onde posso encontrar um treinador especializado em detectar armadilhas?}{}{5}{tr7 1, tr7 -1, ru-2181}{248}{}
+{223}{Onde eu acho o mercado negro?}{}{-4}{gf2390 0}{226}{}
+{224}{Onde tá o mestre pra achar armadilha?}{}{-4}{tr7 1, tr7 -1, ru-2181}{248}{}
+{225}{E:}{}{1}{}{0}{}
+{226}{Você pode encontrá-lo escondido no cômodo dos fundos do The Sobbing Onion.}{Você pode encontrá-lo escondido no cômodo dos fundos do The Sobbing Onion.}{}{}{}{}
+{227}{E:}{}{1}{}{0}{}
+{228}{Desculpe, @pcname@... O chefe acha que você tem muitos trabalhos pendentes. Talvez devesse resolver seus assuntos primeiro. Depois podemos conversar sobre outras oportunidades...}{Desculpe, @pcname@... O chefe acha que você tem muitos trabalhos pendentes. Talvez devesse resolver seus assuntos primeiro. Depois podemos conversar sobre outras oportunidades...}{}{}{}{}
+{229}{K:}{}{1}{}{217}{}
+{230}{F:}{}{1}{}{0}{}
+{231}{Onde fica o mercado negro?}{}{5}{gf2390 0}{226}{}
+{232}{Onde eu acho o mercado negro?}{}{-4}{gf2390 0}{226}{}
+{233}{E:}{}{1}{}{0}{}
+{234}{Saia de perto de mim! Sabemos tudo sobre o Sr. Razzia... O Submundo não tem utilidade para traidores assassinos!}{Saia de perto de mim! Sabemos tudo sobre o Sr. Razzia... O Submundo não tem utilidade para traidores assassinos!}{}{}{}{}
+{235}{Assassino! Achou que ninguém notaria a morte do Sr. Black? Saia de perto de mim, traidor!}{Assassina! Achou que ninguém notaria a morte do Sr. Black? Saia de perto de mim, traidora!}{}{}{}{}
+{236}{É bom ver você @pcname@. Aqueles que importam no Submundo falam muito bem de você. ...O que posso fazer por você?}{É bom ver você @pcname@. Aqueles que importam no Submundo falam muito bem de você. ...O que posso fazer por você?}{}{}{}{lf 14 1, lf 15 1}
+{237}{T: 4, 5, 6, 7}{}{1}{}{197}{}
+{238}{R:$0, 1145-1151}{}{1}{}{-7}{}
+{239}{Onde fica o mercado negro?}{}{5}{gf2389 0}{226}{}
+{240}{Onde eu acho o mercado negro?}{}{-4}{gf2389 0}{226}{}
+{241}{E:}{}{1}{}{0}{}
+{242}{É bom ver você @pcname@. Aqueles que importam no Submundo falam muito bem de você. ...O que posso fazer por você?}{É bom ver você @pcname@. Aqueles que importam no Submundo falam muito bem de você. ...O que posso fazer por você?}{}{}{}{lf 14 1, lf 15 1}
+{243}{T: 4, 5, 6, 7}{}{1}{}{197}{}
+{244}{R:$0, 1145-1151}{}{1}{}{228}{}
+{245}{Onde fica o mercado negro?}{}{5}{gf2389 0}{226}{}
+{246}{Onde eu acho o mercado negro?}{}{-4}{gf2389 0}{226}{}
+{247}{E:}{}{1}{}{0}{}
+{248}{Um treinador especializado em detectar armadilhas? Hum... Tente em Blackroot... ou talvez no Clã da Roda. Talvez precise verificar alguns lugares para encontrar alguém confiável.}{Um treinador especializado em detectar armadilhas? Hum... Tente em Blackroot... ou talvez no Clã da Roda. Talvez precise verificar alguns lugares para encontrar alguém confiável.}{}{}{}{ru2181}
+{249}{}{}{}{}{}{}
+{250}{}{}{}{}{}{}
+{251}{}{}{}{}{}{}
+{252}{}{}{}{}{}{}
+{253}{}{}{}{}{}{}
+{254}{}{}{}{}{}{}
+{255}{}{}{}{}{}{}
+{256}{}{}{}{}{}{}
+{257}{}{}{}{}{}{}
+{258}{}{}{}{}{}{}
+{259}{}{}{}{}{}{}
+{260}{G:}{}{}{}{}{}
+{261}{O que exatamente você está tentando fazer?}{}{5}{}{264}{}
+{262}{Ei! O que você acha que está fazendo?}{}{-4}{}{264}{}
+{263}{E:}{}{1}{}{0}{}
+{264}{Peço perdão, senhor!}{Peço perdão, madame!}{}{}{}{}
+{265}{Não brinque comigo!}{}{5}{}{268}{}
+{266}{Ei! Você não entende o que eu falo!}{}{-4}{}{268}{}
+{267}{E:}{}{1}{}{0}{}
+{268}{Não faço ideia do que você está falando e apreciaria não ser tratado dessa maneira!}{Não faço ideia do que você está falando e apreciaria não ser tratado dessa maneira!}{}{}{}{}
+{269}{Você acabou de tentar roubar minha bolsa! Eu vi você!}{}{5}{}{272}{}
+{270}{Você acabou de tentar pegar minhas coisas! Eu vi você!}{}{-4}{}{272}{}
+{271}{E:}{}{1}{}{0}{}
+{272}{Eu não fiz nada disso! Sério! Me acusar de uma coisa tão bárbara! É revoltante!}{Eu não fiz nada disso! Sério! Me acusar de uma coisa tão bárbara! É revoltante!}{}{}{}{}
+{273}{Não minta para mim, seu ladrão!}{}{5}{}{}{lf12 0, fl 276}
+{274}{Não minta! Você é um ladrão!}{}{-4}{}{}{lf12 0, fl 276}
+{275}{E:}{}{1}{}{0}{}
+{276}{[Em um sussurro ameaçador] Você realmente quer começar algo, amigo? Quem você acha que os guardas vão acreditar... um cidadão respeitável ou algum "estranho"? Eu deixaria isso pra lá, se fosse você.}{[Em um sussurro ameaçador] Você realmente quer começar algo, madame? Quem você acha que os guardas vão acreditar... um cidadão respeitável ou algum "estranho"? Eu deixaria isso pra lá, se fosse você.}{}{}{}{}
+{277}{}{}{}{}{}{}
+{278}{}{}{}{}{}{}
+{279}{}{}{}{}{}{}
+{280}{}{}{}{}{}{}
+{281}{}{}{}{}{}{}
+{282}{}{}{}{}{}{}
+{283}{}{}{}{}{}{}
+{284}{}{}{}{}{}{}
+{285}{}{}{}{}{}{}
+{286}{}{}{}{}{}{}
+{287}{}{}{}{}{}{}
+{288}{}{}{}{}{}{}
+{289}{}{}{}{}{}{}
+{290}{}{}{}{}{}{}
+{291}{}{}{}{}{}{}
+{292}{}{}{}{}{}{}
+{293}{}{}{}{}{}{}
+{294}{}{}{}{}{}{}
+{295}{}{}{}{}{}{}
+{296}{}{}{}{}{}{}
+{297}{}{}{}{}{}{}
+{298}{}{}{}{}{}{}
+{299}{}{}{}{}{}{}
+{300}{}{}{}{}{}{}
+{301}{}{}{}{}{}{}
+{302}{}{}{}{}{}{}
+{303}{}{}{}{}{}{}
+{304}{}{}{}{}{}{}
+{305}{}{}{}{}{}{}
+{306}{}{}{}{}{}{}
+{307}{}{}{}{}{}{}
+{308}{}{}{}{}{}{}
+{309}{}{}{}{}{}{}
+{310}{}{}{}{}{}{}
+{311}{}{}{}{}{}{}
+{312}{}{}{}{}{}{}
+{313}{}{}{}{}{}{}
+{314}{}{}{}{}{}{}
+{315}{}{}{}{}{}{}
+{316}{}{}{}{}{}{}
+{317}{}{}{}{}{}{}
+{318}{}{}{}{}{}{}
+{319}{}{}{}{}{}{}
+{320}{}{}{}{}{}{}
+{321}{}{}{}{}{}{}
+{322}{}{}{}{}{}{}
+{323}{}{}{}{}{}{}
+{324}{}{}{}{}{}{}
+{325}{}{}{}{}{}{}
+{326}{}{}{}{}{}{}
+{327}{}{}{}{}{}{}
+{328}{}{}{}{}{}{}
+{329}{}{}{}{}{}{}
+{330}{}{}{}{}{}{}
+{331}{}{}{}{}{}{}
+{332}{}{}{}{}{}{}
+{333}{}{}{}{}{}{}
+{334}{}{}{}{}{}{}
+{335}{}{}{}{}{}{}
+{336}{}{}{}{}{}{}
+{337}{}{}{}{}{}{}
+{338}{}{}{}{}{}{}
+{339}{}{}{}{}{}{}
+{340}{}{}{}{}{}{}
+{341}{}{}{}{}{}{}
+{342}{}{}{}{}{}{}
+{343}{}{}{}{}{}{}
+{344}{}{}{}{}{}{}
+{345}{}{}{}{}{}{}
+{346}{}{}{}{}{}{}
+{347}{}{}{}{}{}{}
+{348}{}{}{}{}{}{}
+{349}{}{}{}{}{}{}
+{350}{}{}{}{}{}{}
+{351}{Hmmm... Não tenho certeza. Talvez devesse perguntar aos bons cidadãos de Stillwater.}{Hmmm... Não tenho certeza. Talvez devesse perguntar aos bons cidadãos de Stillwater.}{}{}{}{}
+{352}{Obrigado pela informação.}{}{5}{}{0}{}
+{353}{Valeu.}{}{-4}{}{0}{}
+{354}{Posso perguntar onde fica Stillwater?}{}{5}{}{356}{}
+{355}{Onde fica Steel Wat'r?}{}{-4}{}{356}{}
+{356}{Mas é claro. Fica logo ali. [Eles apontam para um local no seu mapa.]}{Mas é claro. Fica logo ali. [Eles apontam para um local no seu mapa.]}{}{}{}{mm10}
+{357}{Obrigado pela informação.}{}{5}{}{0}{}
+{358}{Valeu.}{}{-4}{}{0}{}
+

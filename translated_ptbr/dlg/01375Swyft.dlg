@@ -1,0 +1,113 @@
+{1}{G:}{G:}{}{}{}{ }
+{2}{W:}{}{5}{qu1078 0, re 41, lf1 0}{10}{lf1 1 }
+{3}{Decidi levar você a Tarant.}{}{5}{qu1078 1}{50}{qu1078 2 }
+{4}{E aquele trabalho de guia que você mencionou, então?}{}{5}{qu1078 0, lf2 1}{40}{ }
+{6}{Com licença, não quis ofender.}{}{5}{re-40, ch-13}{150}{re+10 }
+{7}{Com licença?}{}{5}{re-40, ch14}{130}{re+15 }
+{9}{E:}{}{1}{}{0}{ }
+{10}{Meu nome é Swyft. Você é um aventureiro, não é?}{Meu nome é Swyft. Você é um aventureiro, não é?}{}{}{}{ }
+{13}{Sim, na verdade, sou. Por que pergunta?}{}{5}{}{20}{ }
+{14}{Não, não sou.}{}{5}{}{0}{fl 180}
+{19}{E:}{}{1}{}{0}{ }
+{20}{Por favor, diga-me, você já esteve naquela cidade fabulosa conhecida como Tarant?}{Por favor, diga-me, você já esteve naquela cidade fabulosa conhecida como Tarant?}{}{}{}{ }
+{21}{Sim, já estive lá.}{}{5}{ar21}{30}{ }
+{22}{Não, nunca estive lá.}{}{5}{ar-21}{160}{ }
+{23}{Que negócio seria esse seu, senhorita?}{}{5}{}{190}{re-5 }
+{30}{Você estaria interessado em um trabalho como guia?}{Você estaria interessado em um trabalho como guia?}{}{}{}{lf2 1 }
+{31}{O que você tinha em mente?}{}{5}{}{40}{ }
+{32}{Acho que isso não me interessaria no momento.}{}{5}{}{60}{ }
+{40}{Pagarei 300 moedas para que me leve em segurança a Tarant.}{Pagarei 300 moedas para que me leve em segurança a Tarant.}{}{}{}{qu1078 1 }
+{41}{Isso parece um acordo aceitável.}{}{5}{ha-11}{50}{lf3 1, qu1078 2 }
+{42}{Farei por 350.}{}{5}{ha12, ha-12}{80}{lf4 1, qu1078 2 }
+{43}{Farei por 400.}{}{5}{ha13, ha-13}{80}{lf5 1, qu1078 2 }
+{44}{Farei por 450.}{}{5}{ha14, ha-14}{80}{lf6 1, qu1078 2 }
+{45}{Por que você quer ir para lá?}{}{5}{lf7 0}{120}{lf7 1 }
+{49}{Não estou interessado. Tenha um bom dia.}{}{5}{}{60}{ }
+{50}{Oooh! Vou para Tarant! Estou tão animada! [Ela começa a pular de alegria e então te abraça.]}{Oooh! Vou para Tarant! Estou tão animada! [Ela começa a pular de alegria e então te abraça.]}{}{}{}{ }
+{51}{Na verdade, quantos anos você tem?}{}{5}{}{70}{ }
+{52}{Tudo bem. Está preparado para partir agora?}{}{5}{}{0}{jo1 90}
+{60}{Por que não? Por favor? Preciso chegar a Tarant!}{Por que não? Por favor? Preciso chegar a Tarant!}{}{}{}{ }
+{61}{Então, vai custar 350.}{}{5}{ha-11}{80}{lf4 1, qu1078 2 }
+{62}{Vai custar 400, então.}{}{5}{ha12, ha-12}{80}{lf5 1, qu1078 2 }
+{63}{Vai custar 450, então.}{}{5}{ha13, ha-13}{80}{lf6 1, qu1078 2 }
+{68}{Por que você quer ir para lá?}{}{5}{lf7 0}{120}{lf7 1 }
+{69}{Não estou interessado em ser guia. Tenha um bom dia.}{}{5}{}{0}{ }
+{70}{Eu tenho 150 anos. Por quê?}{Eu tenho 150 anos. Por quê?}{}{}{}{ }
+{71}{Isso não é um pouco novo para uma elfa sair sozinha?}{}{5}{ra-3}{100}{re-5 }
+{72}{Isso é um pouco novo para você sair sozinho, não é?}{}{5}{ra3}{100}{re-5 }
+{73}{Não vou levar uma elfa imatura para Tarant. Desculpe.}{}{5}{ra-3}{110}{re-10 }
+{74}{Não vou levar alguém tão imaturo quanto você para Tarant. Desculpe.}{}{5}{ra3}{110}{re-10 }
+{79}{Só curiosidade. Está pronto para partir?}{}{5}{}{0}{jo1 90}
+{80}{Isso é demais! [Ela pensa por um momento.] Tá bom, eu faço. Mas acho você malvado.}{Isso é demais! [Ela pensa por um momento.] Tá bom, eu faço. Mas acho você malvado.}{}{}{}{ }
+{81}{Malvado? Mas afinal, quantos anos você tem?}{}{5}{}{70}{ }
+{82}{Hã, tá bom. Está preparado para partir agora?}{}{5}{}{0}{jo1 90}
+{90}{Sim, estou.}{Sim, estou.}{}{}{}{ }
+{91}{Vamos então.}{}{5}{}{0}{ }
+{100}{O que você está querendo dizer? Sou madura o suficiente para tomar minhas próprias decisões!}{O que você está querendo dizer? Sou madura o suficiente para tomar minhas próprias decisões!}{}{}{}{ }
+{101}{Tenho certeza. Está pronto para ir?}{}{5}{}{0}{jo1 90}
+{102}{Isso é discutível.}{}{5}{}{110}{re-5 }
+{110}{[Ela começa a chorar.] Por que você está sendo tão malvado comigo?}{[Ela começa a chorar.] Por que você está sendo tão malvado comigo?}{}{}{}{ }
+{111}{Não estou sendo malvado, só realista. Não posso levar você.}{}{5}{}{0}{qu1078 6, fl 200}
+{112}{Me desculpe. Não quis te chatear. Está pronto para ir?}{}{5}{}{0}{jo1 90}
+{113}{Olha, sua idiota. Para de chorar ou não te levo a lugar nenhum.}{}{5}{}{0}{qu1078 6, fl 210}
+{120}{Todo mundo vai para lá! Estou cansada desta floresta, preciso de aventura, emoção! Você me leva?}{Todo mundo vai para lá! Estou cansada desta floresta, preciso de aventura, emoção! Você me leva?}{}{}{}{ }
+{121}{Sim, eu faço isso.}{}{5}{ha-11}{50}{lf3 1, qu1078 2 }
+{122}{Vou fazer isso por 350.}{}{5}{ha12, ha-12}{80}{lf4 1, qu1078 2 }
+{123}{Vou fazer isso por 400.}{}{5}{ha13, ha-13}{80}{lf5 1, qu1078 2 }
+{124}{Vou fazer isso por 450.}{}{5}{ha14, ha-14}{80}{lf6 1, qu1078 2 }
+{129}{Não estou interessado. Desculpe.}{}{5}{}{60}{ }
+{130}{Ah, você é um aventureiro, não é? Pensei que fosse apenas mais um viajante chato. Desculpe se fui rude.}{Ah, você é um aventureiro, não é? Pensei que fosse apenas mais um viajante chato. Desculpe se fui rude.}{}{}{}{ }
+{131}{Tudo bem. Quem seria você?}{}{5}{}{140}{lf1 1 }
+{132}{Que coincidência! Pensei que você fosse apenas mais um elfo chato.}{}{5}{ra-3}{0}{lf8 1, re-10, fl 200}
+{133}{Que coincidência! Pensei que você fosse apenas mais um idiota chato.}{}{5}{ra3}{0}{lf8 1, re-10, fl 200}
+{139}{E:}{}{5}{}{0}{ }
+{140}{Meu nome é Swyft. Você é um aventureiro, não é?}{Meu nome é Swyft. Você é um aventureiro, não é?}{}{}{}{ }
+{141}{Sim, de fato sou. Por que pergunta?}{}{5}{}{20}{ }
+{142}{Não, não sou.}{}{5}{}{0}{fl 180}
+{147}{E:}{}{1}{}{0}{ }
+{150}{Por que deveria falar com você? Não acho que gosto muito de você.}{Por que deveria falar com você? Não acho que gosto muito de você.}{}{}{}{ }
+{151}{Tudo bem. Estou apenas de passagem, de qualquer forma.}{}{5}{}{130}{re+10 }
+{152}{Prefiro muito mais te bater do que conversar com você, de qualquer jeito.}{}{5}{}{0}{fl 201 ,co}
+{160}{Ah. Que pena. Eu queria um guia para me levar até lá.}{Ah. Que pena. Eu queria um guia para me levar até lá.}{}{}{}{lf2 1 }
+{161}{Bem, se eu aprender o caminho, talvez eu te leve.}{}{5}{}{170}{ }
+{162}{E:}{}{5}{}{0}{ }
+{170}{Seria maravilhoso! Obrigado.}{Seria maravilhoso! Obrigado.}{}{}{}{ }
+{171}{E:}{}{5}{}{0}{ }
+{180}{Ah. Bem, tenho que ir então. Tenha um bom dia.}{Ah. Bem, tenho que ir então. Tenha um bom dia.}{}{}{}{ }
+{190}{Bem, você é certamente rude! Não acredito que gosto muito de você.}{Bem, você é certamente rude! Não acredito que gosto muito de você.}{}{}{}{ }
+{191}{Peço desculpas. Se precisa saber, já visitei Tarant.}{}{5}{ar21}{30}{re+5 }
+{192}{Peço desculpas. Preciso seguir meu caminho. Tenha um bom dia.}{}{5}{ar-21}{0}{ }
+{193}{Eu sei que não gosto de você, vadia.}{}{5}{}{0}{lf8 1, re-10, fl 200}
+{194}{Gosto de matar pessoas que não gostam de mim.}{}{5}{}{0}{fl 201 ,co}
+{200}{Eu não gosto de você! Me deixe em paz!}{Eu não gosto de você! Me deixe em paz!}{}{}{}{ }
+{201}{Eu vou te matar!}{Eu vou te matar!}{}{}{}{ }
+{210}{Eu não iria a lugar nenhum com você! Eu te odeio! Me deixe em paz!}{Eu não iria a lugar nenhum com você! Eu te odeio! Me deixe em paz!}{}{}{}{ }
+{215}{O quê?}{O quê?}{}{}{}{ }
+{216}{Eu nunca perguntei por que você quer ir para Tarant.}{}{5}{lf7 0}{246}{lf7 1 }
+{219}{[Dar ordens.]}{}{1}{}{236}{ }
+{220}{B:}{}{1}{}{226}{ }
+{225}{E:}{}{1}{}{0}{ }
+{226}{Mais alguma coisa?}{Mais alguma coisa?}{}{}{}{ }
+{229}{[Dar ordens.]}{}{1}{}{236}{ }
+{230}{B:}{}{1}{}{226}{ }
+{235}{E:}{}{1}{}{0}{ }
+{236}{O que você quer que eu faça?}{O que você gostaria que eu fizesse?}{}{}{}{ }
+{237}{Saia da frente.}{}{1}{}{226}{so }
+{238}{Chegue mais perto.}{}{1}{}{226}{sc }
+{239}{Espere aqui.}{}{1}{wa 0}{0}{wa, fl 245}
+{240}{Reagrupe-se.}{}{1}{wa 1}{0}{jo1 226}
+{241}{Dispensar.}{}{1}{}{270}{lv, gf2177 1 }
+{244}{[Voltar]}{}{1}{}{226}{ }
+{245}{Vou esperar aqui por você.}{Vou esperar aqui por você.}{}{}{}{ }
+{246}{Todo mundo vai para lá! Eu estava entediado com Qintarra, precisava de aventura, emoção!}{Todo mundo vai para lá! Eu estava entediado com Qintarra, precisava de aventura, emoção!}{}{}{}{ }
+{247}{Claro, eu deveria ter imaginado.}{}{5}{}{250}{ }
+{250}{Hã? O que você quer dizer?}{Hã? O que você quer dizer?}{}{}{}{ }
+{251}{Nada. Vamos seguir nosso caminho.}{}{5}{}{0}{ }
+{255}{Obrigado por me trazer aqui. Acho que vou seguir meu caminho. Aqui está a moeda que prometi.}{Obrigado por me trazer aqui. Acho que vou seguir meu caminho. Aqui está a moeda que prometi.}{}{}{}{lf9 1, qu1078 4 }
+{256}{Obrigado. Até logo.}{}{5}{lf3 1}{0}{$$300, lv }
+{257}{Obrigado. Até logo.}{}{5}{lf4 1}{0}{$$350, lv }
+{258}{Obrigado. Até logo.}{}{5}{lf5 1}{0}{$$400, lv }
+{259}{Obrigado. Até logo.}{}{5}{lf6 1}{0}{$$450, lv }
+{260}{Obrigado novamente por me trazer a Tarant.}{Obrigado novamente por me trazer a Tarant.}{}{}{}{ }
+{270}{Não fale comigo! Você disse que ia me levar para Tarant e não levou. Eu te odeio!}{Não fale comigo! Você disse que ia me levar para Tarant e não levou. Eu te odeio!}{}{}{}{ }
+

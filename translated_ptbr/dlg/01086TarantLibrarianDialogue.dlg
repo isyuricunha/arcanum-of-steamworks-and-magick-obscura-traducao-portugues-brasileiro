@@ -1,0 +1,241 @@
+{1}{Com licença, senhor, mas o senhor tem cadastro?}{Com licença, senhora, mas a senhora tem cadastro?}{}{}{}{}
+{2}{Infelizmente, não tenho.}{}{5}{}{115}{}
+{3}{Cadastro? Um cadastro para quê?}{}{5}{}{115}{}
+{4}{Onde estou?}{}{5}{}{169}{}
+{5}{Vocês têm "T'sen-Ang: O Horror entre os Elfos Negros"?}{}{5}{lf12 0,qa1022 1}{94}{lf12 1}
+{6}{hmm... Oi.}{}{-4}{lf13 0}{204}{}
+{7}{Onde é que eu tô?}{}{-4}{lf13 1}{202}{}
+{8}{argh... livro... Procure o livro.}{}{-4}{lf12 0, qa1022 1}{208}{}
+{9}{E:}{}{1}{}{0}{}
+{10}{Saudações. Permita-me dar-lhe as boas-vindas à Biblioteca de Tarant. Gostaria de se tornar um de nossos ilustres membros?}{Saudações. Permita-me dar-lhe as boas-vindas à Biblioteca de Tarant. Gostaria de se tornar um de nossos ilustres membros?}{}{}{}{}
+{11}{Cadastro?}{}{5}{lf8 0}{98}{}
+{12}{Por favor, poderia me falar um pouco sobre suas instalações?}{}{5}{lf9 0}{103}{}
+{13}{Vocês têm "T'sen-Ang: O Horror entre os Elfos Negros"?}{}{5}{lf12 0,qa1022 1}{89}{lf12 1}
+{14}{argh... livro... Procure o livro.}{}{-4}{lf12 0,qa1022 1}{208}{}
+{15}{G:}{G:}{}{}{}{}
+{16}{Tenho o dinheiro para o meu cadastro, por favor.}{}{5}{lf10 1,$$ 1500, lf13 0}{165}{$$ -1500}
+{17}{Tenho o dinheiro para o meu cadastro, por favor.}{}{5}{lf4 1,$$ 2000,lf13 0}{165}{$$ -2000}
+{18}{Tenho o dinheiro para o meu cadastro, por favor.}{}{5}{lf6 1,$$ 1000,lf13 0}{165}{$$ -1000}
+{19}{Tenho o dinheiro para o meu cadastro, por favor.}{}{5}{lf7 1,$$ 500,lf13 0}{165}{$$ -500}
+{20}{Tenho o dinheiro para o meu cadastro, por favor.}{}{5}{lf3 1,$$ 5000,lf13 0}{165}{$$ -5000}
+{21}{Quanto custa um cadastro?}{}{5}{lf3 1,$$ -5000,lf13 0}{53}{}
+{22}{Quanto custa um cadastro?}{}{5}{lf10 1,$$ -1500,lf13 0}{56}{}
+{23}{Quanto custa um cadastro?}{}{5}{lf4 1,$$ -2000,lf13 0}{59}{}
+{24}{Quanto custa um cadastro?}{}{5}{lf6 1,$$ -1000,lf13 0}{62}{}
+{25}{Quanto custa um cadastro?}{}{5}{lf7 1,$$ -500,lf13 0}{65}{}
+{26}{Tenho interesse em um cadastro.}{}{5}{lf8 0,lf13 0}{98}{}
+{27}{Por favor, poderia me falar um pouco sobre suas instalações?}{}{5}{lf9 0}{103}{}
+{28}{Vocês têm "T'sen-Ang: O Horror entre os Elfos Negros"?}{}{5}{lf12 0,lf13 0,re 45,qa1022 1}{89}{lf12 1}
+{29}{Vocês têm "T'sen-Ang: O Horror entre os Elfos Negros"?}{}{5}{lf12 0,lf13 0,re -44,qa1022 1}{94}{lf12 1}
+{30}{"T'sen-Ang: O Horror entre os Elfos Negros". Vocês têm?}{}{5}{lf17 0,lf13 1,qa1022 1}{183}{}
+{31}{Vim para examinar os livros. Tenha um bom dia.}{}{5}{lf13 1}{0}{}
+{32}{I:}{}{5}{re -39,re 10}{0}{re -5}
+{33}{I:}{}{5}{re -9}{42}{}
+{34}{Olá.}{}{-4}{}{204}{}
+{35}{Procure pelo livro.}{}{-4}{qa1022 1,lf13 0,lf17 0,lf20 0}{208}{}
+{36}{Procure pelo livro.}{}{-4}{qa1022 1,lf13 1,lf17 0}{223}{}
+{37}{argh.....livro.....Procure pelo livro.}{}{-4}{qa1022 1,lf13 0,lf17 0,lf20 1}{216}{}
+{38}{Dinheiro! Consegui moedas para a associação!}{}{-4}{$$ 6000,lf18 1}{221}{$$ -6000}
+{39}{Consegui dinheiro para a associação!}{}{-4}{$$ 5000,lf19 1}{221}{$$ -5000}
+{40}{E:}{}{1}{}{0}{}
+{41}{Lamento informar que o senhor não é mais bem-vindo na Biblioteca de Tarant. Por favor, retire-se.}{Lamento informar que o senhor não é mais bem-vindo na Biblioteca de Tarant. Por favor, retire-se.}{}{}{}{}
+{42}{Com certeza não precisamos do seu tipo entre nós! Considere sua associação revogada. Eu pediria que saísse......AGORA.}{Com certeza não precisamos do seu tipo entre nós! Considere sua associação revogada. Eu pediria que saísse......AGORA.}{}{}{}{}
+{43}{Espere! Eu estava só brincando!}{}{5}{ch 19}{49}{}
+{44}{Espere! Eu estava só te provocando.}{}{5}{ch -18}{0}{fl 48}
+{45}{Devolva meu dinheiro.}{}{5}{}{0}{fl 48}
+{46}{Tudo bem. Este lugar não vale nada mesmo.}{}{5}{}{0}{gf2011 1 }
+{47}{E:}{}{5}{}{0}{gf2011 1 }
+{48}{Saia agora!!!}{Saia agora!!!}{}{}{}{gf2011 1 }
+{49}{Vou perdoar este incidente, mas tome cuidado com seus passos.}{Vou perdoar este incidente, mas tome cuidado com seus passos.}{}{}{}{}
+{50}{A:}{}{5}{}{0}{re 39}
+{51}{I:}{}{5}{}{0}{fl 48}
+{52}{E:}{}{5}{}{0}{re 29}
+{53}{Nossa taxa atual é de 5000 moedas para uma associação vitalícia.}{Nossa taxa atual é de 5000 moedas para uma associação vitalícia.}{}{}{}{}
+{54}{Devo dizer que o preço parece um pouco inflacionado.}{}{5}{ha 14,lf16 0}{142}{lf16 1}
+{55}{E:}{}{1}{}{0}{}
+{56}{Nossa taxa atual é de 1500 moedas para uma associação vitalícia.}{Nossa taxa atual é de 1500 moedas para uma associação vitalícia.}{}{}{}{}
+{57}{Devo dizer que o preço parece um pouco inflacionado.}{}{5}{ha 14,lf16 0}{142}{lf16 1}
+{58}{E:}{}{1}{}{0}{}
+{59}{Nossa taxa atual é de 2000 moedas para uma associação vitalícia.}{Nossa taxa atual é de 2000 moedas para uma associação vitalícia.}{}{}{}{}
+{60}{Devo dizer que o preço parece um pouco inflacionado.}{}{5}{ha 14,lf16 0}{142}{lf16 1}
+{61}{E:}{}{1}{}{0}{}
+{62}{Nossa taxa atual é de 1000 moedas para uma associação vitalícia.}{Nossa taxa atual é de 1000 moedas para uma associação vitalícia.}{}{}{}{}
+{63}{Devo dizer que o preço parece um pouco inflacionado.}{}{5}{ha 14,lf16 0}{142}{lf16 1}
+{64}{E:}{}{1}{}{0}{}
+{65}{Nossa taxa atual é de 500 moedas para uma associação vitalícia.}{Nossa taxa atual é de 500 moedas por uma associação vitalícia.}{}{}{}{}
+{66}{Devo dizer que o preço parece um pouco inflado.}{}{5}{ha 14,lf16 0}{142}{lf16 1}
+{67}{E:}{}{1}{}{0}{}
+{68}{Como posso servi-lo, senhor?}{Como posso servi-la, madame?}{}{}{}{}
+{69}{Trouxe o dinheiro para minha associação, por favor.}{}{5}{lf10 1, $$ 1500, lf13 0}{165}{$$ -1500}
+{70}{Trouxe o dinheiro para minha associação, por favor.}{}{5}{lf4 1, $$ 2000, lf13 0}{165}{$$ -2000}
+{71}{Trouxe o dinheiro para minha associação, por favor.}{}{5}{lf6 1, $$ 1000, lf13 0}{165}{$$ -1000}
+{72}{Trouxe o dinheiro para minha associação, por favor.}{}{5}{lf7 1, $$ 500, lf13 0}{165}{$$ -500}
+{73}{Trouxe o dinheiro para minha associação, por favor.}{}{5}{lf3 1, $$ 5000, lf13 0}{165}{$$ -5000}
+{74}{Poderia me dizer novamente, quanto custa uma associação?}{}{5}{lf3 1, $$ -5000, lf13 0}{53}{}
+{75}{Poderia me dizer novamente, quanto custa uma associação?}{}{5}{lf10 1, $$ -1500, lf13 0}{56}{}
+{76}{Poderia me dizer novamente, quanto custa uma associação?}{}{5}{lf4 1, $$ -2000, lf13 0}{59}{}
+{77}{Poderia me dizer novamente, quanto custa uma associação?}{}{5}{lf6 1, $$ -1000, lf13 0}{62}{}
+{78}{Poderia me dizer novamente, quanto custa uma associação?}{}{5}{lf7 1, $$ -500, lf13 0}{65}{}
+{79}{Vocês têm "T'sen-Ang: Horror entre os Elfos Negros"?}{}{5}{lf12 0, qa1022 1, lf13 0}{94}{lf12 1}
+{80}{Vocês têm "T'sen-Ang: Horror entre os Elfos Negros"?}{}{5}{qa1022 1, lf13 1, lf17 0}{183}{}
+{81}{O senhor mencionou algo sobre uma associação?}{}{5}{lf8 0}{98}{}
+{82}{Por favor, poderia me falar um pouco sobre suas instalações?}{}{5}{lf9 0}{103}{}
+{83}{E:}{}{1}{}{0}{}
+{84}{O que está procurando?}{O que está procurando?}{}{}{}{}
+{85}{Vocês têm "T'sen-Ang: Horror entre os Elfos Negros"?}{}{5}{lf12 0, qa 1022 1}{94}{lf12 1}
+{86}{O senhor mencionou algo sobre uma associação?}{}{5}{lf8 0}{98}{}
+{87}{Vocês têm "T'sen-Ang: Horror entre os Elfos Negros"?}{}{5}{qa1022 1, lf13 1, lf17 0}{183}{}
+{88}{E:}{}{1}{}{0}{}
+{89}{Acredito que talvez tenhamos um exemplar. No entanto, sem uma associação, sinto muito, mas não posso ajudá-lo.}{Acredito que talvez tenhamos um exemplar. No entanto, sem uma associação, sinto muito, mas não posso ajudá-lo.}{}{}{}{}
+{90}{Associação?}{}{5}{lf8 0}{98}{}
+{91}{Por favor, poderia me falar um pouco sobre suas instalações?}{}{5}{lf9 0}{103}{}
+{92}{K:}{}{5}{}{68}{}
+{93}{E:}{}{1}{}{0}{}
+{94}{Acredito que talvez tenhamos um exemplar. No entanto, sem uma associação, não posso permitir que o veja.}{Acredito que talvez tenhamos um exemplar. No entanto, sem uma associação, não posso permitir que o veja.}{}{}{}{}
+{95}{Associação?}{}{5}{}{115}{}
+{96}{O que é este lugar?}{}{5}{lf10 0}{169}{}
+{97}{Quanto era mesmo o preço da associação?}{}{5}{lf10 1}{124}{}
+{98}{Está correto. Qualquer um que deseje consultar nossos volumes de conhecimento deve se tornar membro. A Biblioteca de Tarant contém uma miríade de livros que abrigam muitos assuntos diversos.}{Está correto. Qualquer um que deseje consultar nossos volumes de conhecimento deve se tornar membro. A Biblioteca de Tarant contém uma miríade de livros que abrigam muitos assuntos diversos.}{}{}{}{}
+{99}{Quanto custa uma associação?}{}{5}{}{124}{lf8 1}
+{100}{Por favor, poderia me contar um pouco sobre suas instalações?}{}{5}{lf9 0}{103}{}
+{101}{K:}{}{5}{}{68}{}
+{102}{E:}{}{1}{}{0}{}
+{103}{Esta é a grandiosa Biblioteca de Tarant. Foi criada há 60 anos, quando o Rei decidiu tornar sua extensa biblioteca disponível ao público.}{Esta é a grandiosa Biblioteca de Tarant. Foi criada há 60 anos, quando o Rei decidiu tornar sua extensa biblioteca disponível ao público.}{}{}{}{}
+{104}{Rei? Tarant tem um rei?}{}{5}{}{107}{}
+{105}{Você mencionou algo sobre uma associação?}{}{5}{lf8 0}{98}{}
+{106}{E:}{}{1}{}{0}{}
+{107}{Tarant não tem mais um rei. A história é de partir o coração. Alguns diriam que, quando a tecnologia começou a ganhar poder, era desejo do Rei industrializar Tarant lentamente. Outros achavam que o Rei estava impedindo o avanço da tecnologia para o povo. Embora o reino prosperasse, a corte real estava em tumulto.}{Tarant não tem mais um rei. A história é de partir o coração. Alguns diriam que, quando a tecnologia começou a ganhar poder, era desejo do Rei industrializar Tarant lentamente. Outros achavam que o Rei estava impedindo o avanço da tecnologia para o povo. Embora o reino prosperasse, a corte real estava em tumulto.}{}{}{}{lf9 1}
+{108}{Continue.}{}{5}{}{111}{}
+{109}{Você mencionou algo sobre uma associação?}{}{5}{lf8 0}{98}{}
+{110}{E:}{}{1}{}{0}{}
+{111}{sim.......A Liga dos Mercadores Gnômicos estava ganhando poder. Um dia, o Rei foi encontrado morto. A Rainha e o Príncipe estavam desaparecidos. Sem herdeiros, a corte real foi dissolvida e a Guilda dos Mercadores Gnômicos assumiu o controle.}{sim.......A Liga dos Mercadores Gnômicos estava ganhando poder. Um dia, o Rei foi encontrado morto. A Rainha e o Príncipe estavam desaparecidos. Sem herdeiros, a corte real foi dissolvida e a Guilda dos Mercadores Gnômicos assumiu o controle.}{}{}{}{}
+{112}{História muito intrigante. Fale-me sobre a associação.}{}{5}{lf8 0}{98}{}
+{113}{K:}{}{5}{}{68}{}
+{114}{E:}{}{1}{}{0}{}
+{115}{Todos os nossos patronos estudiosos têm associações. A Biblioteca de Tarant exige associação para quem deseja ler nossos volumes. Achamos que isso mantém os elementos indesejáveis afastados.}{Todos os nossos patronos estudiosos têm associações. A Biblioteca de Tarant exige associação para quem deseja ler nossos volumes. Achamos que isso mantém os elementos indesejáveis afastados.}{}{}{}{lf12 1}
+{116}{Qual é o custo de uma associação?}{}{5}{lf8 0}{120}{}
+{117}{O que é este lugar?}{}{5}{}{169}{}
+{118}{Minha cara senhora, por favor, não me julgue pela minha aparência.}{}{5}{ch 13}{179}{}
+{119}{E:}{}{1}{}{0}{}
+{120}{Precisamos continuar com essa farsa? Deve ser óbvio para você que este não é o seu ambiente. O pub fica logo ali na rua.}{Precisamos continuar com essa farsa? Deve ser óbvio para você que este não é o seu ambiente. O pub fica logo ali na rua.}{}{}{}{}
+{121}{Por favor, apenas me diga quanto custa uma associação.}{}{5}{ra -7,ra -8}{129}{lf8 1}
+{122}{Por favor, apenas me diga quanto custa uma associação.}{}{5}{ra -1,ra -2,ra -3,ra -4,ra -5,ra -6}{133}{lf8 1}
+{123}{Esqueça! Vou para o pub. Adeus!}{}{5}{}{0}{}
+{124}{Uma associação vitalícia custa apenas 1500 moedas.}{Uma associação vitalícia custa apenas 1500 moedas.}{}{}{}{lf10 1}
+{125}{Gostaria de uma associação, aqui está a taxa.}{}{5}{lf10 1,$$ 1500}{165}{$$ -1500, lf13 1}
+{126}{Gostaria de uma associação, mas a taxa parece um pouco alta.}{}{5}{ha 14}{142}{}
+{127}{K:}{}{5}{}{68}{}
+{128}{E:}{}{1}{}{0}{}
+{129}{Uma associação vitalícia custa apenas 2000 moedas.}{Uma associação vitalícia custa apenas 2000 moedas.}{}{}{}{lf4 1}
+{130}{Eu estaria interessado em uma associação.}{}{5}{}{137}{}
+{131}{K:}{}{5}{}{68}{}
+{132}{E:}{}{1}{}{0}{}
+{133}{Uma associação vitalícia custa apenas 5000 moedas.}{Uma associação vitalícia custa apenas 5000 moedas.}{}{}{}{lf3 1}
+{134}{Eu estaria interessado em uma associação.}{}{5}{}{137}{}
+{135}{K:}{}{5}{}{68}{}
+{136}{E:}{}{1}{}{0}{}
+{137}{[Chocado] Sério!?   Oh meu......}{[Chocado] Sério!?   Oh meu......}{}{}{}{}
+{138}{Sim, por favor, aqui está minha taxa de associação.}{}{5}{lf4 1,$$ 2000}{165}{$$ -2000, lf13 1}
+{139}{Sim, por favor, aqui está minha taxa de associação.}{}{5}{lf3 1,$$ 5000}{165}{$$ -5000, lf13 1}
+{140}{Sim, eu gostaria. Mas o preço parece um pouco inflado.}{}{5}{ha 14,lf16 0}{142}{lf16 1}
+{141}{Sim, mas não agora. Voltarei mais tarde.}{}{5}{}{0}{}
+{142}{A Biblioteca contém uma fortuna em conhecimento para uso exclusivo de seus membros abastados. Estou curioso, quanto você acha que seria um preço justo?}{A Biblioteca contém uma fortuna em conhecimento para uso exclusivo de seus membros abastados. Estou curioso, quanto você acha que seria um preço justo?}{}{}{}{}
+{143}{2000 moedas}{}{5}{ha 14,lf3 1}{147}{lf3 0,lf4 1}
+{144}{1000 moedas}{}{5}{ha 14,lf4 1}{151}{lf4 0,lf6 1}
+{145}{500 moedas}{}{5}{ha 14,lf10 1}{155}{lf10 0, lf7 1}
+{146}{Deixa pra lá.}{}{5}{}{0}{}
+{147}{Acho sua oferta aceitável. Se você tiver as 2000 moedas, então terá sua associação.}{Acho sua oferta aceitável. Se você tiver as 2000 moedas, então terá sua associação.}{}{}{}{lf4 1}
+{148}{Aqui está o pagamento. Obrigado.}{}{5}{$$ 2000}{165}{$$ -2000, lf13 1}
+{149}{Aqui está.}{}{5}{$$ -1999}{159}{}
+{150}{Voltarei mais tarde.}{}{5}{}{0}{}
+{151}{Acho sua oferta difícil de resistir, 1000 moedas está bom!}{Acho sua oferta difícil de resistir, 1000 moedas está bom!}{}{}{}{lf6 1}
+{152}{Aqui está o pagamento. Obrigado.}{}{5}{$$ 1000}{165}{$$ -1000, lf13 1}
+{153}{Aqui está.}{}{5}{$$ -999,lf4 1}{159}{}
+{154}{Voltarei mais tarde.}{}{1}{}{0}{}
+{155}{Normalmente eu não aceitaria uma oferta dessas, mas acho você difícil de resistir.}{Normalmente eu não aceitaria uma oferta dessas, mas acho você difícil de resistir.}{}{}{}{lf7 1}
+{156}{Aqui está o pagamento. Obrigado.}{}{5}{$$ 500}{165}{$$ -500, lf13 1}
+{157}{Aqui está.}{}{5}{$$ -499,lf10 1}{162}{}
+{158}{Voltarei mais tarde.}{}{1}{}{0}{}
+{159}{Exatamente como eu pensava! Volte quando tiver dinheiro e veremos sobre essa associação.}{Exatamente como eu pensava! Volte quando tiver dinheiro e veremos sobre essa associação.}{}{}{}{}
+{160}{K:}{}{5}{}{84}{}
+{161}{E:}{}{1}{}{0}{}
+{162}{Por favor, volte quando tiver dinheiro suficiente. Sua associação estará esperando por você.}{Por favor, volte quando tiver dinheiro suficiente. Sua associação estará esperando por você.}{}{}{}{}
+{163}{K:}{}{5}{}{68}{}
+{164}{E:}{}{1}{}{0}{}
+{165}{Obrigado e seja bem-vindo. Todos os livros contidos na grande Biblioteca estão disponíveis para você consultar e pegar emprestado.}{Obrigado e seja bem-vindo. Todos os livros contidos na grande Biblioteca estão disponíveis para você consultar e pegar emprestado.}{}{}{}{lf13 1}
+{166}{K:}{}{5}{re 45}{68}{}
+{167}{K:}{}{5}{re -44}{84}{}
+{168}{E:}{}{1}{}{0}{}
+{169}{Esta é a grande Biblioteca de Tarant. Certamente você leu a placa acima da entrada. ......Quer dizer, se você souber ler.}{Esta é a grande Biblioteca de Tarant. Certamente você leu a placa acima da entrada. ......Quer dizer, se você souber ler.}{}{}{}{lf1 1}
+{170}{Acredite em mim, senhor, sou muito bem instruído.}{}{15}{}{179}{}
+{171}{Perdoe-me, senhor, eu só estava tentando puxar conversa.}{}{10}{ch 13}{179}{}
+{172}{Eu sei ler ........um pouco.}{}{-9}{}{176}{}
+{173}{Quanto custa uma associação?}{}{5}{lf12 1}{120}{}
+{174}{Claro que eu sei ler!}{}{10}{}{176}{}
+{175}{E:}{}{1}{}{0}{}
+{176}{Tenho certeza de que sabe. Mas não fará nada disso aqui. Os livros da Biblioteca de Tarant são apenas para membros.}{Tenho certeza de que sabe. Mas não fará nada disso aqui. Os livros da Biblioteca de Tarant são apenas para membros.}{}{}{}{}
+{177}{Quanto custa uma associação?}{}{5}{}{120}{}
+{178}{E:}{}{1}{}{0}{}
+{179}{Oh? Peço desculpas. Você pensaria que trabalhar em uma biblioteca me ensinaria a não julgar um livro pela capa. Em que posso ajudá-lo?}{Oh? Peço desculpas. Você pensaria que trabalhar em uma biblioteca me ensinaria a não julgar um livro pela capa. Em que posso ajudá-lo?}{}{}{}{re 55}
+{180}{Por favor, poderia me falar um pouco sobre suas instalações?}{}{5}{lf9 0}{103}{}
+{181}{Você mencionou algo sobre uma associação?}{}{5}{lf8 0}{98}{lf8 1}
+{182}{E:}{}{1}{}{0}{}
+{183}{"T'sen-Ang: Horror Entre os Elfos Negros"? Parece assustador.....}{"T'sen-Ang: Horror Entre os Elfos Negros"? Parece assustador.....}{}{}{}{}
+{184}{A biblioteca tem esse livro?}{}{5}{}{185}{}
+{185}{Sabe quem seria o autor?}{Sabe quem seria o autor?}{}{}{}{}
+{186}{Renford A. Terwilliger}{}{5}{}{187}{}
+{187}{Espere aqui um momento, vou procurar.}{Espere aqui um momento, vou procurar.}{}{}{}{}
+{188}{[aguarde]}{}{5}{}{190}{}
+{189}{[Sair]}{}{5}{}{0}{}
+{190}{Sinto muito, senhor. Mas não consegui encontrar "T'sen-Ang: Horror Entre os Elfos Negros". No entanto, encontrei outro livro que pode ser do seu interesse.}{Sinto muito, senhora. Mas não consegui encontrar "T'sen-Ang: Horror Entre os Elfos Negros". No entanto, encontrei outro livro que pode ser do seu interesse.}{}{}{}{}
+{191}{Não, obrigado. Tenha um bom dia.}{}{5}{}{0}{}
+{192}{Que livro seria?}{}{5}{}{193}{}
+{193}{O livro se chama "A Maldição de T'sen-Ang". Parece ser um livro sobre aquele que você está procurando.}{O livro se chama "Maldição de T'sen-Ang". Parece ser um livro sobre aquele que você está procurando.}{}{}{}{}
+{194}{Não, não é isso que eu preciso. Obrigado por procurar.}{}{5}{}{0}{}
+{195}{Parece interessante. Posso dar uma olhada?}{}{5}{}{196}{}
+{196}{Sim, claro, senhor. [Ela lhe entrega o livro]}{Sim, claro, senhora. [Ela lhe entrega o livro]}{}{}{}{in -5206, lf17 1}
+{197}{Obrigado.}{}{5}{}{199}{}
+{198}{E:}{}{1}{}{0}{}
+{199}{Há algo mais em que eu possa ajudá-lo a localizar?}{Há algo mais em que eu possa ajudá-la a localizar?}{}{}{}{}
+{200}{K:}{}{5}{}{68}{}
+{201}{E:}{}{1}{}{0}{}
+{202}{Olá @pcname@, lembre-se de tratar os livros com cuidado.}{Olá @pcname@, lembre-se de tratar os livros com cuidado.}{}{}{}{}
+{203}{Tudo bem, eu vou.}{}{-4}{}{0}{}
+{204}{Por favor, vá embora! Este não é lugar para você. Você nem sabe ler.}{Por favor, vá embora! Este não é lugar para você. Você nem sabe ler.}{}{}{}{}
+{205}{Procurar livro.}{}{-4}{lf12 0,qa1022 1,lf18 0,lf17 0}{208}{}
+{206}{Procurar livro.}{}{-4}{qa1022 1,lf18 1,lf13 1,lf17 0}{223}{}
+{207}{E:}{}{1}{}{0}{}
+{208}{O que você faria com um livro? Você nem sabe ler!}{O que você faria com um livro? Você nem sabe ler!}{}{}{}{}
+{209}{Hã?}{}{-4}{}{211}{}
+{210}{E:}{}{-4}{}{0}{}
+{211}{É isso que posso fazer por você. Dê-me as 6000 moedas necessárias para uma associação, e eu deixarei você olhar todos os livros que temos.}{É isso que posso fazer por você. Dê-me as 6000 moedas necessárias para uma associação, e eu deixarei você olhar todos os livros que temos.}{}{}{}{lf18 1,lf20 1}
+{212}{Aqui está.}{}{-4}{$$ 6000}{221}{$$ -6000}
+{213}{Preciso de um livro com elfos sombrios e assustadores.}{}{-4}{}{216}{}
+{214}{Não. É demais. Demais!! [Começa a chorar]}{}{-4}{ps 14}{218}{}
+{215}{E:}{}{1}{}{0}{}
+{216}{Traga-me dinheiro para uma associação e eu o ajudarei.}{Traga-me dinheiro para uma associação e eu a ajudarei.}{}{}{}{}
+{217}{E:}{}{1}{}{0}{}
+{218}{Psiu, psiu, não faça escândalo. Ei.....vou baixar para 5000, mas não menos, só se você parar de chorar.}{Psiu, psiu, não faça escândalo. Ei.....vou baixar para 5000, mas não menos, só se você parar de chorar.}{}{}{}{lf19 1,lf18 0}
+{219}{Snif, soluço.....Aqui.....Pegue a moeda.....Snif}{}{-4}{$$ 5000}{221}{$$ -5000}
+{220}{E:}{}{1}{}{0}{}
+{221}{Oh, meu!? Onde VOCÊ conseguiu uma quantia tão imensa de dinheiro?... Bem, suponho que um acordo é um acordo. Você pode ir olhar os livros, mas tenha muito cuidado..... e não os rasgue!}{Oh, meu!? Onde VOCÊ conseguiu uma quantia tão imensa de dinheiro?... Bem, suponho que um acordo é um acordo. Você pode ir olhar os livros, mas tenha muito cuidado..... e não os rasgue!}{}{}{}{lf13 1}
+{222}{Preciso encontrar um livro com elfos sombrios e assustadores.}{}{-4}{}{223}{}
+{223}{Você precisa me contar mais sobre o livro. Ou não conseguirei encontrá-lo!}{Você precisa me contar mais sobre o livro. Ou não vou conseguir encontrá-lo!}{}{}{}{}
+{224}{Tang-sing - minérios e elfos negros.}{}{-4}{}{225}{}
+{225}{[obviamente frustrada] Isso é impossível! Vou tentar encontrar um livro com elfos negros para você.}{[obviamente frustrada] Isso é impossível! Vou tentar encontrar um livro com elfos negros para você.}{}{}{}{}
+{226}{[aguarde]}{}{-4}{}{229}{}
+{227}{Quero um livro com elfos assustadores.}{}{-4}{re 30}{233}{re -5}
+{228}{Quero um livro com elfos assustadores!}{}{-4}{re -29}{237}{}
+{229}{[Ela remexe em uma pilha de livros em um armário]}{[Ela remexe em uma pilha de livros em um armário]}{}{}{}{}
+{230}{[aguarde]}{}{-4}{}{239}{}
+{231}{Quero um livro com elfos assustadores.}{}{-4}{re 30}{233}{re -5}
+{232}{Quero um livro com elfos assustadores!}{}{-4}{re -29}{237}{}
+{233}{[Ela o ignora enquanto olha através de um armário de livros]}{[Ela o ignora enquanto olha através de um armário de livros]}{}{}{}{}
+{234}{[aguarde]}{}{-4}{}{239}{}
+{235}{Quero um livro com elfos assustadores.}{}{-4}{re 30}{233}{re -5}
+{236}{Quero um livro com elfos assustadores!}{}{-4}{re -29}{237}{}
+{237}{Você vai ter que esperar! Estou tentando localizar o livro para você!}{Você vai ter que esperar! Estou tentando localizar o livro para você!}{}{}{}{}
+{238}{[aguarde]}{}{-4}{}{229}{}
+{239}{Aqui! Este livro tem elfos negros, "T'sen-Ang: O Horror Entre os Elfos Negros"...... Pegue e vá embora!}{Aqui! Este livro tem elfos negros, "T'sen-Ang: O Horror Entre os Elfos Negros"...... Pegue e vá embora!}{}{}{}{in -5206,lf17 1}
+{240}{aaaaa.......estou feliz.}{}{-4}{}{0}{}
+

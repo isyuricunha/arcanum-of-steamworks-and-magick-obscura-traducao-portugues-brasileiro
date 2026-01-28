@@ -1,0 +1,65 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá, senhor. Posso saber quem é você?}{}{5}{me 0, re 41}{27}{}
+{3}{Olá, Norian. Tem um momento?}{}{5}{me 1, re 41}{67}{}
+{4}{Senhor! Por que essas palavras duras? Acabamos de nos conhecer!}{}{5}{me 0, re -40}{11}{}
+{5}{Norian! Fiz algo para ofendê-lo?}{}{5}{me 1, re -40}{11}{}
+{7}{Oi! Quem é você?}{}{-4}{me 0}{27}{}
+{8}{Ei, Norian! Quer conversar comigo...?}{}{-4}{me 1}{67}{}
+{9}{E:}{}{1}{}{0}{}
+{11}{Vejo todo tipo de gente aqui nesta prisão, garoto... mas você está realmente me tirando do sério...}{Vejo todo tipo de gente aqui nesta prisão, garota... mas você está realmente me tirando do sério...}{}{}{}{}
+{12}{Norian... sei que há alguma forma de resolvermos isso...}{}{5}{}{23}{re +10}
+{13}{Palavras como essas vão encurtar sua estadia aqui...}{}{5}{}{16}{re -5}
+{14}{E:}{}{5}{}{0}{}
+{16}{O quê? [Ele se aproxima de você, olhos faiscando.] Na Ilha, é melhor uma alma estar pronta para sustentar suas palavras. Quer brigar comigo, garoto...?}{O quê? [Ele se aproxima de você, olhos faiscando.] Na Ilha, é melhor uma alma estar pronta para sustentar suas palavras. Quer brigar comigo, moça...?}{}{}{}{}
+{17}{Olha, não quero começar confusão...}{}{5}{}{23}{re +10}
+{18}{Essas serão as últimas palavras que VOCÊ vai dizer...}{}{5}{}{}{co, fl 21}
+{19}{E:}{}{5}{}{0}{}
+{21}{Que seja, garoto. A Ilha é um lugar implacável...}{Que seja, moça. A Ilha é um lugar implacável...}{}{}{}{}
+{23}{[Norian franze a testa, então reconsidera.] É... não há motivo para deixar as coisas feias. O chefe aqui não gosta que as pessoas briguem fora do poço de qualquer forma... talvez possamos conversar, afinal...}{[Norian franze a testa, então reconsidera.] É... não há motivo para deixar as coisas feias. O chefe aqui não gosta que as pessoas briguem fora do poço de qualquer forma... talvez possamos conversar, afinal...}{}{}{}{}
+{24}{Fico feliz. O que você faz por aqui, Norian?}{}{5}{}{33}{re +5}
+{25}{E:}{}{5}{}{0}{}
+{27}{Me chamam de Norian, aqui na Ilha. Nada mais, nada menos...}{Me chamam de Norian, aqui na Ilha. Nada mais, nada menos...}{}{}{}{}
+{28}{Saudações. O que você faz por aqui, Norian?}{}{5}{}{33}{}
+{30}{Oi! O que você faz aqui na ilha?}{}{-4}{}{33}{}
+{31}{E:}{}{1}{}{0}{}
+{33}{Tento me manter na minha, na maior parte do tempo. Quando não estou fazendo isso, destilo um pouco de aguardente de batata. Batatas são praticamente a única coisa que cresce nesta ilha amaldiçoada...}{Tento me manter na minha, na maior parte do tempo. Quando não estou fazendo isso, destilo um pouco de aguardente de batata. Batatas são praticamente a única coisa que cresce nesta ilha amaldiçoada...}{}{}{}{}
+{34}{Entendo. Deve haver uma grande demanda por bebida forte aqui...}{}{5}{}{37}{}
+{35}{Hã... as pessoas bebem muito aqui, né?}{}{-4}{}{37}{}
+{37}{Pode repetir, garoto. Não há muito mais para distrair a mente de um homem. Isso me torna bem popular por aqui também... a maioria dos homens vem aqui quando tem algo para trocar. Falando nisso... [Ele olha você de cima a baixo, avaliando.]... talvez eu tenha um trabalho para você, se estiver procurando...}{Pode repetir, moça. Não há muito mais para distrair a mente de um homem. Isso me torna bem popular por aqui também... a maioria dos homens vem aqui quando tem algo para trocar. Falando nisso... [Ele olha você de cima a baixo, avaliando.]... talvez eu tenha um trabalho para você, se estiver procurando...}{}{}{}{}
+{38}{Que tipo de trabalho você está falando, Norian?}{}{5}{}{43}{}
+{39}{Hã... que trabalho?}{}{-4}{}{43}{}
+{43}{Não é um trabalho difícil. Eu negocio com um velho chamado Maximillian, que mora nas terras selvagens, além da muralha da vila. O velho Max não é má pessoa, mas é perigoso... sabe o que quero dizer? Faz uma quinzena que lhe devo um jarro de aguardente, mas com todos os homens desaparecendo, tenho tido medo de ir até lá levá-lo...}{Não é um trabalho difícil. Eu negocio com um velho chamado Maximillian, que mora lá fora, nos ermos, além da muralha da vila. O velho Max não é má pessoa, mas é perigoso... sabe o que quero dizer? Faz duas semanas que lhe devo um garrafão de aguardente, mas com todos os homens desaparecendo, tenho ficado com medo de sair e levar para ele...}{}{}{}{}
+{44}{Talvez eu possa ajudar?}{}{5}{}{57}{re +5}
+{45}{O que você quer dizer? Quem está desaparecendo?}{}{5}{}{51}{}
+{46}{Acho que não estou interessado nisso. Tenha um bom dia...}{}{5}{}{0}{re -5}
+{47}{Quem sabe eu ajudo, Norian!}{}{-4}{}{57}{re +5}
+{48}{Hã... quem desapareceu?}{}{-4}{}{51}{}
+{49}{Hã... não gosto disso. Tchau!}{}{-4}{}{0}{re -5}
+{51}{Você deveria falar com o guarda no portão... temos homens que saem todos os dias para buscar suprimentos para o acampamento, e ultimamente alguns deles desapareceram... sem deixar nenhum vestígio. Por isso, tenho ficado com medo de entregar a aguardente para o velho Maximillian...}{Você deveria falar com o guarda no portão... temos homens que saem todos os dias para buscar suprimentos para o acampamento, e ultimamente alguns deles desapareceram... sem deixar nenhum vestígio. Por isso, tenho ficado com medo de entregar a aguardente para o velho Maximillian...}{}{}{}{}
+{52}{Talvez eu possa ajudar?}{}{5}{}{57}{}
+{53}{Acho que não estou interessado nisso. Tenha um bom dia...}{}{5}{}{0}{}
+{54}{Quem sabe eu ajudo, Norian!}{}{-4}{}{57}{}
+{55}{Hã... não gosto disso. Tchau!}{}{-4}{}{0}{}
+{57}{Você é mais corajoso do que eu, se estiver disposto a enfrentar o que quer que esteja lá fora. O velho Max pode até não estar mais vivo, mas não quero deixá-lo bravo se estiver. Se levar este garrafão para ele, eu lhe darei um garrafão só seu... nunca se sabe o valor da aguardente do velho Norian...}{Você é mais corajoso do que eu, se estiver disposto a enfrentar o que quer que esteja lá fora. O velho Max pode até não estar mais vivo, mas não quero deixá-lo bravo se estiver. Se levar este garrafão para ele, eu lhe darei um garrafão só seu... nunca se sabe o valor da aguardente do velho Norian...}{}{}{}{qu1070 1}
+{58}{Vou fazer isso e retornar...}{}{5}{}{63}{qu1070 2}
+{59}{Talvez. Tenha um bom dia...}{}{5}{}{0}{}
+{60}{Hã... tá bom! Eu faço isso!}{}{-4}{}{63}{qu1070 2}
+{61}{Hã... a gente conversa depois...}{}{-4}{}{0}{}
+{63}{Ótimo. Aqui está a aguardente [Ele lhe entrega um garrafão.], e aqui é onde o velho Maximillian estava morando da última vez que o vi. [Ele aponta para um lugar no seu mapa.] Diga a Maximillian para lhe dar um bilhete confirmando a entrega. Você traz isso de volta, e eu lhe darei um garrafão para você...}{Ótimo. Aqui está a aguardente [Ele lhe entrega um garrafão.], e aqui é onde o velho Maximillian estava morando da última vez que o vi. [Ele aponta para um lugar no seu mapa.] Diga a Maximillian para lhe dar um bilhete confirmando a entrega. Você traz isso de volta, e eu lhe darei um garrafão para você...}{}{}{}{in -3602, mm31}
+{64}{E:}{}{1}{}{0}{}
+{67}{Claro. O que você precisa...?}{Claro. O que você precisa...?}{}{}{}{}
+{68}{O que você faz por aqui, Norian...?}{}{5}{qu1070 0, ni 5223}{33}{}
+{69}{Eu poderia entregar esse garrafão de aguardente para você...}{}{5}{qu1070 1, ni 5223}{57}{}
+{70}{Ainda não entreguei a aguardente e trouxe o bilhete...}{}{5}{qu1070 2, ni 5223}{79}{}
+{71}{Entreguei a aguardente... aqui está o bilhete...}{}{5}{qu1070 2, in 5223}{83}{in 5223}
+{73}{O que você faz nesta ilha, Norian?}{}{-4}{qu1070 0, ni 5223}{33}{}
+{74}{Quem sabe eu entrego a a-g-u-a-r-d-e-n-t-e, Norian?}{}{-4}{qu1070 1, ni 5223}{57}{}
+{75}{Ainda não entreguei a a-g-u-a-r-d-e-n-t-e nem trouxe o bilhete...}{}{-4}{qu1070 2, ni 5223}{79}{}
+{76}{Entreguei a a-g-u-a-r-d-e-n-t-e! Aqui está o bilhete!}{}{-4}{qu1070 2, in 5223}{83}{in 5223}
+{77}{E:}{}{1}{}{0}{}
+{79}{Hmmm. É melhor você entregar logo. Não quero que o velho Max fique com raiva de mim...}{Hmmm. É melhor você entregar isso logo. Não quero que o velho Max fique com raiva de mim...}{}{}{}{}
+{80}{E:}{}{1}{}{0}{}
+{83}{Você conseguiu! Fico feliz em ver... Agradeço a ajuda, amigo. Aqui está sua garrafa de aguardente. [Ele a entrega para você.] Boa sorte para você...}{Você conseguiu! Fico feliz em ver... Agradeço a ajuda, amigo. Aqui está sua garrafa de aguardente. [Ele a entrega para você.] Boa sorte para você...}{}{}{}{qu1070 4, in -3602}
+{84}{E:}{}{1}{}{0}{lf2 1}
+{87}{Você está bem na lista do Norian. Obrigado mais uma vez pela ajuda...}{Você está bem na lista do Norian. Obrigado mais uma vez pela ajuda...}{}{}{}{}
+

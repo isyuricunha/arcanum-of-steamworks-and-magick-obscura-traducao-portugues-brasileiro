@@ -1,0 +1,280 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá, senhor. Posso lhe fazer algumas perguntas...?}{}{5}{lf1 0, re 41}{46}{}
+{3}{Senhor! Acabamos de nos conhecer e o senhor diz tais coisas!}{}{5}{lf1 0, re -40}{22}{}
+{4}{Saudações, Vollinger. Tem um momento?}{}{5}{lf1 1, re 41}{46}{}
+{5}{Vollinger! Por que esse tratamento ríspido?}{}{5}{lf1 1, re -40}{22}{}
+{7}{Oi! Posso lhe fazer algumas perguntas?}{}{-4}{}{46}{}
+{19}{Hmm... Não gostei do que disse. Acho que vou esmagar seu crânio...!}{}{-4}{}{}{co, fl 34}
+{20}{E:}{}{1}{}{0}{}
+{22}{Humpf. Saia da minha frente, garoto. Não tenho tempo para alguém como você...}{Humpf. Saia da minha frente, garota. Não tenho tempo para alguém como você...}{}{}{}{}
+{23}{Senhor, tem tanta certeza assim de sua avaliação sobre mim...?}{}{5}{ch 15}{41}{re +15}
+{24}{Senhor! Certamente podemos superar nossas diferenças...!}{}{5}{lf1 0}{36}{re +15}
+{25}{Vollinger! Já não tínhamos deixado essas coisas para trás...?}{}{5}{lf1 1}{36}{re +15}
+{26}{Gnomo, você arrisca sua vida falando assim comigo...}{}{5}{}{29}{re -5}
+{27}{E:}{}{5}{lf1 1}{0}{}
+{29}{[O gnomo sorri, sombriamente.] Acha mesmo? Eu adoraria vê-lo sustentar essas palavras. Agora é tão bom quanto qualquer hora...}{[O gnomo sorri, sombriamente.] Acha mesmo? Eu adoraria vê-lo sustentar essas palavras. Agora é tão bom quanto qualquer hora...}{}{}{}{}
+{30}{Olha, não estou procurando confusão. Aceite minhas desculpas...}{}{5}{}{36}{re +15}
+{31}{Ameaças de gnomos são sempre tão divertidas...}{}{5}{}{}{co, fl 34}
+{32}{E:}{}{5}{lf1 1}{0}{}
+{34}{Idiota, garoto. Você vai morrer, não há dúvida disso...}{Idiota, garota. Você vai morrer, não há dúvida disso...}{}{}{}{}
+{36}{[O gnomo lhe lança um olhar estranho.] Hmmm. Talvez você e eu devêssemos conversar...}{[O gnomo lhe lança um olhar estranho.] Hmmm. Talvez você e eu devêssemos conversar...}{}{}{}{}
+{37}{Muito obrigado! Posso lhe fazer algumas perguntas?}{}{5}{lf1 0}{46}{re +5}
+{38}{Obrigado, Vollinger. Tem um momento?}{}{5}{lf1 1}{46}{}
+{39}{E:}{}{5}{lf1 1}{0}{}
+{41}{[O gnomo olha para você e dá de ombros.] Talvez você não seja tão insuportável quanto pensei. Talvez tenhamos algumas palavras a trocar...}{[O gnoma olha para você e dá de ombros.] Talvez você não seja tão insuportável quanto pensei. Talvez tenhamos algumas palavras a trocar...}{}{}{}{}
+{42}{Estou muito feliz. Posso lhe fazer algumas perguntas?}{}{5}{lf1 0}{46}{}
+{43}{Ótimo, Vollinger. Posso lhe fazer algumas perguntas?}{}{5}{lf1 1}{46}{}
+{44}{E:}{}{5}{lf1 1}{0}{}
+{46}{Suponho que sim...}{Suponho que sim...}{}{}{}{}
+{47}{O que sabe sobre este lugar?}{}{5}{lf2 0}{66}{}
+{48}{O que você sabe sobre este lugar?}{}{-4}{lf2 0}{66}{}
+{49}{Gostaria de se juntar a mim, Vollinger?}{}{5}{lf2 1}{137}{jo 0 129}
+{50}{Hã... você se junta a mim, Vollinjer?}{}{-4}{lf2 1}{137}{jo 0 129}
+{51}{C:}{}{1}{}{56}{}
+{52}{T: 4,5,6,7}{}{1}{}{56}{}
+{53}{R: ($10, 1110-1116)}{}{1}{}{56}{}
+{54}{E:}{}{1}{}{0}{}
+{56}{Deseja mais alguma coisa, forasteiro...?}{Deseja mais alguma coisa, forasteiro...?}{}{}{}{}
+{57}{O que você sabe sobre este lugar?}{}{5}{lf2 0}{66}{}
+{58}{O que você sabe sobre este lugar?}{}{-4}{lf2 0}{66}{}
+{59}{Gostaria de se juntar a mim, Vollinger?}{}{5}{lf2 1}{137}{jo 0 129}
+{60}{Hã... você se junta a mim, Vollinjer?}{}{-4}{lf2 1}{137}{jo 0 129}
+{61}{C:}{}{1}{}{56}{}
+{62}{T: 4,5,6,7}{}{1}{}{56}{}
+{63}{R: ($10, 1110-1116)}{}{1}{}{56}{}
+{64}{E:}{}{1}{}{0}{}
+{66}{Você não para de fazer perguntas? Não pode deixar um sujeito aproveitar sua cerveja...?}{Você não para de fazer perguntas? Não pode deixar um sujeito aproveitar sua cerveja...?}{}{}{}{}
+{67}{Não quis incomodá-lo. Só estou fazendo uma pergunta simples...}{}{5}{}{80}{}
+{68}{Hã... eu não quero incomodar você. Só estou fazendo uma pergunta...}{}{-4}{}{80}{}
+{69}{Não sei se gostei do seu tom, gnomo...}{}{5}{}{74}{re -5}
+{70}{Suas palavras me dão vontade de te matar, gnomo burro...}{}{-4}{}{74}{re -5}
+{71}{Vou deixá-lo com sua bebida, senhor. Tenha um bom dia...}{}{5}{}{0}{}
+{72}{Tá bom. Vou deixar você sozinho...}{}{-4}{}{0}{}
+{74}{[Ele lhe lança um olhar duro.] Quer brigar comigo, garoto? Porque estou mais do que disposto a te satisfazer, se é isso que quer...}{[Ele lhe lança um olhar duro.] Quer brigar comigo, garota? Porque estou mais do que disposto a te satisfazer, se é isso que quer...}{}{}{}{}
+{75}{Não... só estava fazendo uma pergunta simples, amigo...}{}{5}{}{80}{}
+{76}{Não... eu tava só fazendo uma pergunta...}{}{5}{}{80}{}
+{77}{Essa é a ideia geral, escória gnomica...}{}{-4}{}{}{co,fl 34}
+{78}{É! Vou lutar com você agora mesmo!}{}{-4}{}{}{co fl 34}
+{79}{E:}{}{1}{}{0}{}
+{80}{É? Bem, aqui vai uma pergunta simples PRA VOCÊ. O que alguém como você está fazendo aqui no meio deste reino desonroso? Não é exatamente o tipo de lugar que alguém visita para passar férias...}{É? Bem, aqui vai uma pergunta simples para você. O que alguém como você está fazendo aqui no meio deste reino desonroso? Não é exatamente o tipo de lugar que alguém visita para passar férias...}{}{}{}{}
+{81}{É uma LONGA história... [Conte-lhe sua história.]}{}{5}{}{88}{}
+{82}{Só estou visitando o interior...}{}{5}{}{96}{}
+{83}{Isso não é da sua conta...}{}{5}{}{96}{re -5}
+{84}{Começou há MUITO tempo... [Conte-lhe sua história.]}{}{-4}{}{88}{}
+{85}{Hã... n-nada...}{}{-4}{}{96}{}
+{86}{E:}{}{1}{}{0}{}
+{88}{[O gnomo olha para você, considerando sua história.] Então, está dizendo que foi você quem sobreviveu ao acidente do IFS Zephyr?}{[O gnomo olha para você, considerando sua história.] Então, está dizendo que foi você quem sobreviveu ao acidente do IFS Zephyr?}{}{}{}{}
+{89}{Sim.}{}{5}{}{103}{}
+{90}{Não. Eu estava falando do meu amigo. Ele não parece estar aqui...}{}{5}{}{96}{}
+{92}{Hmm... é!}{}{-4}{}{103}{}
+{93}{Não... eu, hã... não sei do que estou falando...}{}{-4}{}{96}{}
+{94}{E:}{}{1}{}{0}{}
+{96}{[O gnomo parece ter perdido o interesse em você.] Bem, tenha um bom dia. Vou voltar para minha cerveja...}{[O gnomo parece ter perdido o interesse em você.] Bem, tenha um bom dia. Vou voltar para minha cerveja...}{}{}{}{}
+{97}{E:}{}{1}{}{0}{}
+{103}{[Ele fica em silêncio por um longo tempo. Então...] Bem, parece que você pode precisar de alguma ajuda. Parece que você pode precisar de alguém para te cobrir. [Ele desvia o olhar, voltando para sua cerveja.] Meu nome é Vollinger...}{[Ele fica em silêncio por um longo tempo. Então...] Bem, parece que você pode precisar de alguma ajuda. Parece que você pode precisar de alguém para te cobrir. [Ele desvia o olhar, voltando para sua cerveja.] Meu nome é Vollinger...}{}{}{}{lf1 1}
+{104}{Você está oferecendo sua ajuda, Vollinger? Por que faria isso?}{}{5}{}{109}{}
+{105}{Acho que não, mas obrigado pela oferta. Tenha um bom dia...}{}{5}{}{0}{}
+{106}{Hã... por que você quer me ajudar, Vollinjer?}{}{-4}{}{109}{}
+{107}{Não sei. Acho que não. Buh-bye...}{}{-4}{}{0}{}
+{109}{[Ele não olha para você.] Todo homem tem seus motivos, e às vezes esses motivos são só dele para saber. [Então ele olha para você, virando levemente a cabeça.] Além disso, eu não ofereci minha ajuda. Só disse que parecia que você precisava de alguma.}{[Ele não olha para você.] Todo homem tem seus motivos, e às vezes esses motivos são só dele para saber. [Então ele olha para você, virando levemente a cabeça.] Além disso, eu não ofereci minha ajuda. Só disse que parecia que você precisava de alguma.}{}{}{}{}
+{110}{Entendo. Bem, talvez eu precise de alguma ajuda. Você se juntaria a nós?}{}{5}{pa 6409}{-11}{}
+{111}{Entendo. Bem, talvez eu precise de alguma ajuda. Você se juntaria a nós?}{}{5}{pa -6409}{137}{jo 0 129}
+{114}{Hã... talvez você queira se juntar a nós?}{}{-4}{pa 6409}{-11}{}
+{115}{Hã... talvez você queira se juntar a nós?}{}{-4}{pa -6409}{137}{}
+{116}{E:}{}{1}{}{0}{}
+{121}{Há algum problema? Você ia me perguntar algo?}{Há algum problema? Você ia me perguntar algo?}{}{}{}{}
+{122}{Sim... você vai se juntar a nós ou não?}{}{5}{}{137}{jo 0 129}
+{123}{Acho que mudei de ideia. Tenha um bom dia...}{}{5}{}{}{lf2 1, fl 127}
+{124}{Eu estou no comando! Você se junta a nós ou não?}{}{-4}{}{137}{jo 0 129}
+{125}{Hã... eu não quero você conosco. Buh-bye...}{}{-4}{}{}{lf2 1, fl 127}
+{127}{Que seja então. Mas você nunca sabe quando vai precisar de um gnomo como eu por perto...}{Que seja então. Mas você nunca sabe quando vai precisar de um gnomo como eu por perto...}{}{}{}{}
+{129}{[Ele fica em silêncio, então pousa sua cerveja.] Certamente, estranho. Vou me juntar a você. Qual é o seu nome?}{[Ele fica em silêncio, então pousa sua cerveja.] Certamente, estranho. Vou me juntar a você. Qual é o seu nome?}{}{}{}{}
+{130}{Eu sou @PCNAME@...}{}{5}{}{133}{}
+{131}{Eu me chamo @PCNAME@...!}{}{-4}{}{133}{}
+{133}{Entendo. Bem, @PCNAME@, parece que será um dia interessante. Quem sabe o que veremos amanhã? [Ele lhe lança um longo olhar.] Vamos partir, então?}{Entendo. Bem, @PCNAME@, parece que será um dia interessante. Quem sabe o que veremos amanhã? [Ele lhe lança um longo olhar.] Vamos partir, então?}{}{}{}{}
+{134}{E:}{}{1}{}{0}{}
+{137}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{}{}{lf2 1}
+{138}{K:}{}{1}{}{46}{}
+{139}{E:}{}{1}{}{0}{}
+{143}{O que você precisa?}{O que você precisa?}{}{}{}{}
+{144}{B:}{}{1}{wa 0}{}{}
+{145}{K:}{}{5}{wa 0}{160}{}
+{146}{Gostaria que você fizesse algo por mim, Vollinger...}{}{5}{wa 0}{260}{}
+{147}{Preciso que você faça uma coisa pra mim, Vollinjer...!}{}{-4}{wa 0}{260}{}
+{148}{Que tipo de coisas você fabrica, Vollinger?}{}{5}{wa 0}{}{su}
+{149}{Que coisas você faz, Vollinjer...?}{}{-4}{wa 0}{}{su}
+{150}{Pode parar de esperar agora, Vollinger...}{}{5}{wa 1}{287}{uw 0 272}
+{151}{Você pode parar de esperar, Vollinjer!}{}{-4}{wa 1}{287}{uw 0 272}
+{152}{E:}{}{1}{}{0}{}
+{160}{O que você quer saber?}{O que você quer saber?}{}{}{}{}
+{161}{Gostaria de saber algumas coisas sobre você, Vollinger...}{}{5}{}{}{ce}
+{162}{Quero saber umas coisas sobre você, Vollinjer...}{}{-4}{}{}{ce}
+{163}{O que você sabe sobre este lugar?}{}{5}{ia 1, gf2467 0}{305}{}
+{164}{O que você sabe sobre este lugar?}{}{-4}{ia 1, gf2467 0}{305}{}
+{165}{O que você sabe sobre este lugar?}{}{5}{ia 21, gf2467 0}{309}{}
+{166}{O que você sabe sobre este lugar?}{}{-4}{ia 21, gf2467 0}{309}{}
+{167}{O que você sabe sobre este lugar?}{}{5}{ia 3, gf2467 0}{313}{}
+{168}{O que você sabe sobre este lugar?}{}{5}{ia 4, pa 6409, gf2467 0}{317}{}
+{169}{O que você sabe sobre este lugar?}{}{5}{ia 5, gf2467 0}{321}{}
+{170}{O que você sabe sobre este lugar?}{}{5}{ia 6, gf2467 0}{325}{}
+{171}{O que você sabe sobre este lugar?}{}{5}{ia 8, gf2467 0}{329}{}
+{172}{O que você sabe sobre este lugar?}{}{5}{ia 9, gf2467 0}{333}{}
+{173}{O que você sabe sobre este lugar?}{}{5}{ia 10, gf2467 0}{337}{}
+{174}{O que você sabe sobre este lugar?}{}{5}{ia 11, gf2467 0}{341}{}
+{175}{O que você sabe sobre este lugar?}{}{5}{ia 13, gf2467 0}{345}{}
+{176}{O que você sabe sobre este lugar?}{}{5}{ia 16, gf2467 0}{349}{}
+{177}{O que você sabe sobre este lugar?}{}{5}{ia 19, gf2467 0}{353}{}
+{178}{O que você sabe sobre este lugar?}{}{5}{ia 22, gf2467 0}{357}{}
+{179}{O que você sabe sobre este lugar?}{}{5}{ia 23, gf2467 0}{361}{}
+{180}{O que você sabe sobre este lugar?}{}{-4}{ia 3, gf2467 0}{313}{}
+{181}{O que você sabe sobre este lugar?}{}{-4}{ia 4, pa 6409, gf2467 0}{317}{}
+{182}{O que você sabe sobre este lugar?}{}{-4}{ia 5, gf2467 0}{321}{}
+{183}{O que você sabe sobre este lugar?}{}{-4}{ia 6, gf2467 0}{325}{}
+{184}{O que você sabe sobre este lugar?}{}{-4}{ia 8, gf2467 0}{329}{}
+{185}{O que você sabe sobre este lugar?}{}{-4}{ia 9, gf2467 0}{333}{}
+{186}{O que você sabe sobre este lugar?}{}{-4}{ia 10, gf2467 0}{337}{}
+{187}{O que você sabe sobre este lugar?}{}{-4}{ia 11, gf2467 0}{341}{}
+{188}{O que você sabe sobre este lugar?}{}{-4}{ia 13, gf2467 0}{345}{}
+{189}{O que você sabe sobre este lugar?}{}{-4}{ia 16, gf2467 0}{349}{}
+{190}{O que você sabe sobre este lugar?}{}{-4}{ia 19, gf2467 0}{353}{}
+{191}{O que você sabe sobre este lugar?}{}{-4}{ia 22, gf2467 0}{357}{}
+{192}{O que você sabe sobre este lugar?}{}{-4}{ia 23, gf2467 0}{361}{}
+{193}{Você parece bravo comigo, Vollinger. Tem algo que eu possa fazer?}{}{5}{re -20}{230}{}
+{194}{Hã... tá bravo comigo, Vollinjer? Eu fiz alguma coisa por você?}{}{-4}{re -20}{230}{}
+{195}{E:}{}{1}{}{0}{}
+{230}{Não posso dizer que estou muito feliz com as coisas que têm acontecido por aqui. Nem um pouco feliz. [Ele lhe lança um olhar desconfiado.] Não é que você tenha um pouco de absinto, né? Isso poderia ajudar bastante a me fazer esquecer certas coisas...}{Não posso dizer que estou muito feliz com as coisas que têm acontecido por aqui. Nem um pouco feliz. [Ele lhe lança um olhar desconfiado.] Não é que você tenha um pouco de absinto, né? Isso poderia ajudar bastante a me fazer esquecer certas coisas...}{}{}{}{}
+{231}{Vollinger, sério. Isso é realmente necessário?}{}{5}{ch 20}{240}{re +20}
+{232}{Bom, felizmente eu tenho um pouco aqui...}{}{5}{in 3617, ch -19}{-31}{re +20}
+{233}{Vou ver se consigo um pouco para você, Vollinger...}{}{5}{in -3617, ch -19}{248}{}
+{234}{Como se eu fosse incentivar um hábito desses! Vamos logo, que tal?}{}{5}{}{}{re -5, fl 246}
+{235}{Eu tenho um pouco aqui, Vollinger!}{}{-4}{in 3617, ch -19}{-31}{re +20}
+{236}{Hã... talvez eu arrume um pouco pra você, Vollinjer!}{}{-4}{in -3617, ch -19}{248}{}
+{237}{Que pena você não conseguir nenhum. A gente vai agora...}{}{-4}{}{}{re -5, fl 246}
+{240}{[Vollinger franze a testa, mas parece não resistir à sua personalidade.] Hmmm. Talvez você esteja certo.}{[Vollinger franze a testa, mas parece não resistir à sua personalidade.] Hmmm. Talvez você esteja certo.}{}{}{}{}
+{241}{Ótimo. Então você vai me acompanhar de novo?}{}{5}{pa -6614}{287}{jo 0 298}
+{242}{Então você vem comigo, Vollinjer?}{}{-4}{pa -6614}{287}{jo 0 298}
+{243}{E:}{}{1}{}{0}{}
+{244}{[Ele destampa a garrafa, esvaziando-a.] Mmmm. Muito bom. [Ele lança um olhar de soslaio.] Acho que devíamos ir...}{[Ele destampa a garrafa, esvaziando-a.] Mmmm. Muito bom. [Ele lança um olhar de soslaio.] Acho que devíamos ir...}{}{}{}{}
+{245}{Ótimo. Então você vai me acompanhar de novo?}{}{5}{pa -6614}{287}{jo 0 298}
+{246}{Então você vem comigo, Vollinjer?}{}{-4}{pa -6614}{287}{jo 0 298}
+{247}{E:}{}{1}{}{0}{}
+{248}{Eu recomendaria que fizesse isso, rápido...}{Eu recomendaria que fizesse isso, rápido...}{}{}{}{}
+{249}{E:}{}{1}{}{0}{}
+{252}{[Sombriamente.] Eu não forçaria demais a barra, @PCNAME@...}{[Sombriamente.] Eu não forçaria demais a barra, @PCNAME@...}{}{}{}{}
+{260}{Sim? O que é?}{Sim? O que é?}{}{}{}{}
+{261}{Saia do caminho, Vollinger.}{}{5}{}{0}{so}
+{262}{Saia daqui, Vollinjer!}{}{-4}{}{0}{so}
+{263}{Chegue um pouco mais perto, Vollinjer.}{}{5}{}{0}{sc}
+{264}{Hã... chegue mais perto, Vollinjer!}{}{-4}{}{0}{sc}
+{265}{Espere aqui por um tempo...}{}{5}{wa 0}{275}{wa}
+{266}{Espere aqui!}{}{-4}{wa 0}{275}{wa}
+{267}{Pode parar de esperar agora, Vollinger.}{}{5}{wa 1}{287}{uw 0 272}
+{268}{Hã... venha agora, Vollinjer...}{}{-4}{wa 1}{287}{uw 0 272}
+{269}{Acho melhor você deixar o grupo.}{}{5}{}{278}{lv}
+{270}{Quero que você saia do grupo!}{}{-4}{}{278}{lv}
+{271}{[Voltar]}{}{5}{}{143}{}
+{272}{Estou pronto para ir. Já faz um bom tempo, aliás. Vamos logo...}{Estou pronto para ir. Já faz um bom tempo, aliás. Vamos logo...}{}{}{}{}
+{273}{E:}{}{1}{}{0}{}
+{275}{[Vollinger olha para você, desconfiado.] Sim, vou esperar aqui. Não demore, hein...}{[Vollinger olha para você, desconfiado.] Sim, vou esperar aqui. Não demore, hein...}{}{}{}{}
+{276}{E:}{}{1}{}{0}{}
+{278}{Sério. [Vollinger parece um pouco perturbado.] Suponho que você tenha que fazer suas próprias escolhas. [Ele desvia o olhar.] Tenho certeza de que nos veremos novamente, @PCNAME@. Em breve...}{Sério. [Vollinger parece um pouco perturbado.] Suponho que você tenha que fazer suas próprias escolhas. [Ele desvia o olhar.] Tenho certeza de que nos veremos novamente, @PCNAME@. Em breve...}{}{}{}{lf31 1}
+{279}{E:}{}{1}{}{0}{}
+{281}{Ah, @PCNAME@. Parece que eu estava certo... nos veríamos novamente antes do esperado. O que o traz aqui?}{Ah, @PCNAME@. Parece que eu estava certo... nos veríamos novamente antes do esperado. O que o traz aqui?}{}{}{}{}
+{282}{Eu estava me perguntando se você gostaria de se juntar a mim novamente, Vollinger?}{}{5}{}{287}{jo 0 289}
+{283}{Quer se juntar a mim de novo, Vollinjer?}{}{-4}{}{287}{jo 0 298}
+{284}{Você parece bravo comigo, Vollinger. Há algo que eu possa fazer?}{}{5}{re -20}{230}{}
+{285}{Hã... tá bravo comigo, Vollinjer? Fiz alguma coisa por você?}{}{-4}{re -20}{230}{}
+{286}{E:}{}{1}{}{0}{}
+{287}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{}{}{}
+{288}{E:}{}{1}{}{0}{}
+{289}{Sim, acho que seria melhor. [Ele olha para você, estranhamente.] Está pronto para ir?}{Sim, acho que seria melhor. [Ele olha para você, estranhamente.] Está pronto para ir?}{}{}{}{lf31 0}
+{290}{E:}{}{1}{}{0}{}
+{292}{Me fez esperar demais, @PCNAME@. [Vollinger olha para baixo, depois de volta para você.] Imaginei que viria me buscar quando estivesse pronto. O que posso fazer por você?}{Me fez esperar demais, @PCNAME@. [Vollinger olha para baixo, depois de volta para você.] Imaginei que viria me buscar quando estivesse pronto. O que posso fazer por você?}{}{}{}{}
+{293}{Gostaria de se juntar a mim novamente, Vollinger?}{}{5}{}{287}{jo 0 298}
+{294}{Quer se juntar a mim de novo, Vollinjer?}{}{-4}{}{287}{jo 0 298}
+{295}{Você parece bravo comigo, Vollinger. Há algo que eu possa fazer?}{}{5}{re -20}{230}{}
+{296}{Hã... tá bravo comigo, Vollinjer? Fiz alguma coisa por você?}{}{-4}{re -20}{230}{}
+{297}{E:}{}{1}{}{0}{}
+{298}{[Ele pensa por um momento, refletindo.] Sim, acho que vou com você. Acho melhor ficarmos juntos...}{[Ele pensa por um momento, refletindo.] Sim, acho que vou com você. Acho melhor ficarmos juntos...}{}{}{}{}
+{299}{E:}{}{1}{}{0}{}
+{305}{[Vollinger olha ao redor.] Parece que é Shrouded Hills. Uma pequena cidade mineradora. [Ele fixa o olhar em você.] Imaginei que VOCÊ saberia mais sobre este lugar do que qualquer um de nós...}{[Vollinger olha ao redor.] Parece que é Shrouded Hills. Uma pequena cidade mineradora. [Ele fixa o olhar em você.] Imaginei que VOCÊ saberia mais sobre este lugar do que qualquer um de nós...}{}{}{}{}
+{306}{K:}{}{1}{}{143}{}
+{307}{E:}{}{1}{}{0}{}
+{309}{Eu diria que estamos em Tarant. Muita tecnologia e coisas do tipo. É melhor ficar longe do Boil, se sabe o que é bom para você...}{Eu diria que estamos em Tarant. Muita tecnologia e coisas do tipo. É melhor ficar longe do Boil, se sabe o que é bom para você...}{}{}{}{}
+{310}{K:}{}{1}{}{143}{}
+{311}{E:}{}{1}{}{0}{}
+{313}{Parece que é Black Root. Cheio de marinheiros e afins. Tem um homem por aqui... atende pelo nome de Grunwalde. Não há homem melhor na cidade se precisar de veneno. [Ele lhe lança um olhar de soslaio.] Sabe o que quero dizer?}{Parece que é Black Root. Cheio de marinheiros e afins. Tem um homem por aqui... atende pelo nome de Grunwalde. Não há homem melhor na cidade se precisar de veneno. [Ele lhe lança um olhar de soslaio.] Sabe o que quero dizer?}{}{}{}{}
+{314}{K:}{}{1}{}{143}{}
+{315}{E:}{}{1}{}{0}{}
+{317}{Isto é Caladon. [Vollinger olha para Virgil, estreitando os olhos.] Acho que seu amigo ali saberia muito mais sobre isso do que eu...}{Isto é Caladon. [Vollinger olha para Virgil, estreitando os olhos.] Acho que seu amigo ali saberia muito mais sobre isso do que eu...}{}{}{}{}
+{318}{K:}{}{1}{}{143}{}
+{319}{E:}{}{1}{}{0}{}
+{321}{Este lugar? Dernholm, amigo. Um reino decadente com um idiota como rei. Não há muito o que fazer por aqui...}{Este lugar? Dernholm, amigo. Um reino decadente com um idiota como rei. Não há muito o que fazer por aqui...}{}{}{}{}
+{322}{K:}{}{1}{}{143}{}
+{323}{E:}{}{1}{}{0}{}
+{325}{Eu diria que esta é a cidade élfica de Qintarra, amigo. Tenho que dizer, estou mais do que um pouco surpreso que tenha chegado até aqui. [Ele se vira.] Surpreso, de fato...}{Eu diria que esta é a cidade élfica de Qintarra, amigo. Tenho que dizer, estou mais do que um pouco surpreso que tenha chegado até aqui. [Ele se vira.] Surpreso, de fato...}{}{}{}{}
+{326}{K:}{}{1}{}{143}{}
+{327}{E:}{}{1}{}{0}{}
+{329}{Isto é Ashbury. Não tem muito aqui, embora haja um velho castelo na parte norte da cidade que talvez valha a pena dar uma olhada...}{Isto é Ashbury. Não tem muito aqui, embora haja um velho castelo na parte norte da cidade que talvez valha a pena dar uma olhada...}{}{}{}{}
+{330}{K:}{}{1}{}{143}{}
+{331}{E:}{}{1}{}{0}{}
+{333}{Parece ser o Clã da Roda. O clã anão mais poderoso de todo o Arcanum. [Ele lhe lança um olhar avaliador.] Você circula em círculos interessantes, amigo. Interessantes, de fato...}{Parece ser o Clã da Roda. O clã anão mais poderoso de todo o Arcanum. [Ele lhe lança um olhar avaliador.] Você circula em círculos interessantes, amigo. Interessantes, de fato...}{}{}{}{}
+{334}{K:}{}{1}{}{143}{}
+{335}{E:}{}{1}{}{0}{}
+{337}{Isto é Stillwater, uma pequena cidade mineradora. [Ele lhe lança um olhar de soslaio.] Agora, o que estaria querendo aqui?}{Isto é Stillwater, uma pequena cidade mineradora. [Ele lhe lança um olhar de soslaio.] Agora, o que estaria querendo aqui?}{}{}{}{}
+{338}{K:}{}{1}{}{143}{}
+{339}{E:}{}{1}{}{0}{}
+{341}{Tulla. Cidade dos Magos. Não posso dizer que algum dia pensei que veria este lugar. [Ele desvia o olhar.] Ou que VOCÊ algum dia o encontraria...}{Tulla. Cidade dos Magos. Não posso dizer que algum dia pensei que veria este lugar. [Ele desvia o olhar.] Ou que VOCÊ algum dia o encontraria...}{}{}{}{}
+{342}{K:}{}{1}{}{143}{}
+{343}{E:}{}{1}{}{0}{}
+{345}{Roseborough? Não há muito o que contar, forasteiro. Sei que há uma estalagem por aqui. [Ele lhe lança um olhar direto.] Conheço alguém que já se hospedou lá uma vez.}{Roseborough? Não há muito o que contar, forasteiro. Sei que há uma estalagem por aqui. [Ele lhe lança um olhar direto.] Conheço alguém que já se hospedou lá uma vez.}{}{}{}{}
+{346}{K:}{}{1}{}{143}{}
+{347}{E:}{}{1}{}{0}{}
+{349}{[Vollinger parece nervoso, olhando de um lado para o outro.] O que eu sei sobre T'sen-Ang? Nada. Absolutamente nada...}{[Vollinger parece nervoso, olhando de um lado para o outro.] O que eu sei sobre T'sen-Ang? Nada. Absolutamente nada...}{}{}{}{}
+{350}{K:}{}{1}{}{143}{}
+{351}{E:}{}{1}{}{0}{}
+{353}{Esta é a Ilha do Desespero. [Vollinger parece alerta.] Cheia de ladrões, assassinos, esse tipo de gente. Recomendo que tome cuidado.}{Esta é a Ilha do Desespero. [Vollinger parece alerta.] Cheia de ladrões, assassinos, esse tipo de gente. Recomendo que tome cuidado.}{}{}{}{}
+{354}{K:}{}{1}{}{143}{}
+{355}{E:}{}{1}{}{0}{}
+{357}{Estas são as Ruínas de Vendigroth. [Vollinger parece genuinamente preocupado.] Eu, hã, já ouvi coisas sobre este lugar. Coisas ruins. Vamos embora daqui o quanto antes...}{Estas são as Ruínas de Vendigroth. [Vollinger parece genuinamente preocupado.] Eu, hã, já ouvi coisas sobre este lugar. Coisas ruins. Vamos embora daqui o quanto antes...}{}{}{}{}
+{358}{K:}{}{1}{}{143}{}
+{359}{E:}{}{1}{}{0}{}
+{361}{Esta é a Ilha de Thanatos. Não é o tipo de lugar onde queremos passar muito tempo...}{Esta é a Ilha de Thanatos. Não é o tipo de lugar onde queremos passar muito tempo...}{}{}{}{}
+{362}{K:}{}{1}{}{143}{}
+{363}{E:}{}{1}{}{0}{}
+{365}{Espere. Preciso falar com você antes que saia correndo atrás do seu amigo...}{Espere. Preciso falar com você antes que saia correndo atrás do seu amigo...}{}{}{}{}
+{366}{O que foi, Vollinger?}{}{5}{}{381}{}
+{367}{O que cê qué, Vollinjer?}{}{-4}{}{381}{}
+{369}{Espere. Preciso falar com você, amigo...}{Espere. Preciso falar com você, amigo...}{}{}{}{}
+{370}{O que foi, Vollinger?}{}{5}{}{373}{}
+{371}{O que cê qué, Vollinjer?}{}{-4}{}{373}{}
+{373}{Não aqui. Encontre-me aqui [Ele aponta para um lugar no seu mapa.]. Tenho algumas coisas para lhe dizer antes de continuarmos esta jornada. E venha sozinho... se não vier, eu não estarei aqui. Entendeu?}{Não aqui. Encontre-me aqui [Ele aponta para um lugar no seu mapa.]. Tenho algumas coisas para lhe dizer antes de continuarmos esta jornada. E venha sozinho... se não vier, eu não estarei aqui. Entendeu?}{}{}{}{mm 47}
+{374}{Talvez...}{}{5}{}{377}{}
+{375}{Hã... talvez...}{}{-4}{}{377}{}
+{377}{Quanto antes você vier, mais cedo poderemos resolver esse assunto. [Ele olha ao redor, cautelosamente.] Estou lhe dizendo, você vai querer saber o que tenho para dizer. Não me faça esperar.}{Quanto antes você vier, mais cedo poderemos resolver esse assunto. [Ele olha ao redor, cautelosamente.] Estou lhe dizendo, você vai querer saber o que tenho para dizer. Não me faça esperar.}{}{}{}{}
+{378}{O que foi, Vollinger?}{}{5}{}{-22}{}
+{379}{Do que cê tá falando, Vollinjer?}{}{-4}{}{-22}{}
+{381}{Não aqui. Encontre-me aqui [Ele aponta para um lugar no seu mapa.]. Tenho algumas coisas para lhe dizer antes de continuarmos esta jornada. E venha sozinho... se não vier, eu não estarei aqui. Entendeu?}{Não aqui. Pegue este mapa e encontre-me onde ele indicar. Tenho algumas coisas para lhe dizer antes de continuarmos esta jornada. E venha sozinho... se não vier, eu não estarei aqui. Entendeu?}{}{}{}{mm 47}
+{382}{Talvez...}{}{5}{}{385}{}
+{383}{Hã... talvez...}{}{-4}{}{385}{}
+{385}{Quanto antes você vier, mais cedo poderemos resolver esse assunto. [Ele olha para trás, na direção em que Virgil fugiu.] Estou lhe dizendo, você vai querer saber o que tenho para dizer. Não me faça esperar.}{Quanto antes você vier, mais cedo poderemos resolver esse assunto. [Ele olha para trás, na direção em que Virgil fugiu.] Estou lhe dizendo, você vai querer saber o que tenho para dizer. Não me faça esperar.}{}{}{}{}
+{386}{O que foi, Vollinger?}{}{5}{}{-22}{}
+{387}{Do que cê tá falando, Vollinjer?}{}{-4}{}{-22}{}
+{389}{Apenas me encontre lá. E venha sozinho...}{Apenas me encontre lá. E venha sozinho...}{}{}{}{}
+{392}{Ah. Você finalmente veio.}{Ah. Você finalmente veio.}{}{}{}{gf2714 1}
+{393}{Sim, e sozinho. O que foi, Vollinger?}{}{5}{}{396}{}
+{394}{Sim, e num trouxe ninguém. O que cê qué, Vollinjer?}{}{-4}{}{396}{}
+{396}{[Vollinger sorri de forma tênue.] Não sei exatamente o que pensar de você, @PCNAME@. Você não é nada do que eu esperava quando nos conhecemos. Nada mesmo...}{Não sei exatamente o que pensar de você, @PCNAME@. Você não é nada do que eu esperava quando nos conhecemos. Nada mesmo...}{}{}{}{}
+{397}{Não tenho tempo para lembranças. O que você quer?}{}{5}{}{400}{}
+{398}{Hã... Por que você me chamou aqui?}{}{-4}{}{400}{}
+{400}{Bem, tenho algo para lhe contar. Sabe, nada disso é o que parece. Você foi enganado desde o início. Está em grave perigo, @PCNAME@. Grave perigo por parte da Mão Molocheana...}{Bem, tenho algo para lhe contar. Sabe, nada disso é o que parece. Você foi enganado desde o início. Está em grave perigo, @PCNAME@. Grave perigo por parte da Mão Molocheana...}{}{}{}{}
+{401}{Eu já sei disso...}{}{5}{}{404}{}
+{402}{Hã... Eu já sei disso...}{}{-4}{}{404}{}
+{404}{Sim, mas você não sabe de tudo. Alguém muito próximo de você é um deles. Eles estão esperando a chance de matá-lo. É um milagre que ainda esteja vivo...}{Sim, mas você não sabe de tudo. Alguém muito próximo de você é um deles. Eles estão esperando a chance de matá-lo. É um milagre que ainda esteja vivo...}{}{}{}{}
+{405}{Quem? Quem é?}{}{5}{}{408}{}
+{406}{Quem vai me matar?}{}{-4}{}{408}{}
+{408}{Sinto muito... é difícil dizer... você... bem, você não passa de um contrato, @PCNAME@... apenas um contrato. Não consigo vê-lo de outra forma...}{Sinto muito... é difícil dizer... você... bem, você não passa de um contrato, @PCNAME@... apenas um contrato. Não consigo vê-lo de outra forma...}{}{}{}{}
+{409}{O quê? Não...!}{}{5}{}{}{gf2595 1, co, fl 412}
+{410}{O quê? Não...!}{}{-4}{}{}{gf2595 1, co, fl 412}
+{412}{Adeus, @PCNAME@...}{Adeus, @PCNAME@...}{}{}{}{}
+

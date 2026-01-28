@@ -1,0 +1,24 @@
+{1}{[Ele agarra seu braço ao passar] Daria uma moedinha para um pobre velho mendigo, senhor?}{[Ele agarra seu braço ao passar] Daria uma moedinha para um pobre velho mendigo, senhorita?}{}{}{}{}
+{2}{Mas é claro. Aqui, pegue estas 10 moedas.}{}{5}{$$10}{16}{$$-10, al +10}
+{3}{Desculpe... Não tenho moedas.}{}{5}{$$10, ni3608}{0}{al -10, re -2}
+{4}{Desculpe... Não tenho moedas.}{}{5}{in3608}{23}{}
+{5}{Desculpe... Não tenho moedas.}{}{5}{$$-9, ni3608}{0}{}
+{6}{Larga de mim! Vá arranjar um emprego, seu imprestável!}{}{5}{}{0}{al -20, re -5}
+{7}{Ah... tá bom. Aqui, 10 moedas.}{}{-4}{$$10}{16}{$$-10, al +10}
+{8}{Me desculpa. Num tenho moeda.}{}{-4}{$$10, ni3608}{0}{al -10, re -2}
+{9}{Me desculpa. Num tenho moeda.}{}{-4}{in3608}{23}{}
+{10}{Me desculpa. Num tenho moeda.}{}{-4}{$$-9, ni3608}{0}{}
+{11}{Me larga! Vai arrumar emprego, vagabundo!}{}{-4}{}{0}{al -20, re -5}
+{16}{O senhor é realmente um homem bondoso. Agradeço-lhe.}{A senhora é realmente bondosa. Agradeço-lhe.}{}{}{}{}
+{17}{E:}{}{1}{}{0}{}
+{18}{C:}{}{1}{}{20}{}
+{20}{Quer mais alguma coisa?}{Quer mais alguma coisa?}{}{}{}{}
+{21}{E:}{}{1}{}{0}{}
+{23}{Ora! Essa é uma bela garrafa de bebida que o senhor tem aí... Certamente levantaria meu astral, se não se importa que eu diga...}{Ora! Essa é uma bela garrafa de bebida que a senhorita tem aí... Certamente levantaria meu astral, se não se importa que eu diga...}{}{}{}{}
+{24}{Ah! Claro. Aqui está [Você entrega uma garrafa.]}{}{5}{}{16}{in3608, al -10, re -2}
+{25}{Não. Eu me recuso a sustentar sua vagabundagem. Agora, por favor, me solte.}{}{5}{}{0}{}
+{26}{Seu bêbado nojento! Como ousa! Saia de perto de mim!}{}{5}{}{0}{al -10, re -2}
+{27}{Ah... tá bom. [Você entrega uma garrafa.]}{}{-4}{}{16}{in3608, al -10, re -2}
+{28}{Não. Eu num ajudo! Você é vagabundo. Uh... Por favor, me solta.}{}{-4}{}{0}{}
+{29}{Seu bêbado burro! Eu num dou nada pra você! Agora me solta!}{}{-4}{}{0}{al -10, re -2}
+

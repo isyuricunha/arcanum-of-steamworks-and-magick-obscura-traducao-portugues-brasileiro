@@ -1,0 +1,61 @@
+{1}{O que o traz à nossa tribo, garoto? Onde conseguiu essa faixa na cabeça?}{O que a traz à nossa tribo, irmã? Veio para se juntar a nós?}{}{}{}{}
+{2}{Foi-me dada por uma pobre mulher que deseja se juntar a vocês.}{1}{5}{lf1 0}{10}{lf1 1}
+{3}{Estou aqui para ajudar uma pobre mulher que deseja se juntar a vocês.}{0}{5}{lf1 0}{75}{lf1 1}
+{4}{Hurgha?}{}{-4}{}{0}{fl 124}
+{10}{Por que ela mesma não veio?}{Por que ela mesma não veio?}{}{}{}{}
+{11}{Ela não consegue escapar do acampamento ao sul.}{}{5}{}{20}{}
+{20}{Não precisamos daqueles que não conseguem se defender sozinhos.}{Você conseguiu escapar. Não precisamos daqueles que não conseguem se defender sozinhos.}{}{}{}{}
+{21}{Então vocês simplesmente a deixariam apodrecer?}{}{5}{}{30}{}
+{22}{Que mensagem quer que eu leve a ela, então?}{}{5}{}{85}{}
+{23}{Vou indo, então.}{}{5}{}{105}{}
+{30}{Talvez você não perceba onde está. Olhe ao redor. Este é um ermo que devora os despreparados, pelo menos ela está protegida no acampamento. Não podemos nos dar ao luxo de ter alguém que precise de ajuda.}{Talvez você não perceba onde está. Olhe ao redor. Este é um ermo que devora os despreparados, pelo menos ela está protegida no acampamento. Não podemos nos dar ao luxo de ter alguém que precise de ajuda.}{}{}{}{}
+{31}{O que devo dizer a ela? Que vocês não se importam que ela esteja sofrendo?}{}{5}{}{40}{}
+{32}{Entendo seu ponto. Vou indo, então.}{}{5}{}{105}{}
+{40}{Sinto por ela, mas aqui fora os sentimentos não significam nada. Posso lhe dar esta velha pistola para levar a ela [ela lhe entrega uma pistola velha e enferrujada]. Diga a ela para usá-la para escapar, se realmente quiser se juntar a nós.}{Sinto por ela, mas aqui fora os sentimentos não significam nada. Posso lhe dar esta velha pistola para levar a ela [ela lhe entrega uma pistola velha e enferrujada]. Diga a ela para usá-la para escapar, se realmente quiser se juntar a nós.}{}{}{}{in-2013}
+{41}{Atacar os portões com essa pistola seria suicídio.}{}{5}{}{50}{}
+{42}{Ou você a ajuda ou morre onde está, vadia!}{}{5}{}{0}{fl 70 ,co}
+{49}{Obrigado por isso, pelo menos. Tenha um bom dia.}{}{5}{}{0}{gf2136 1}
+{50}{É melhor morrer lutando do que viver uma vida de tortura.}{É melhor morrer lutando do que viver uma vida de tortura.}{}{}{}{}
+{51}{Não acho que ela ficará aliviada em ouvir isso.}{}{5}{}{60}{}
+{52}{Gostaria de testar isso matando você agora mesmo, seu porco sem coração!}{}{5}{}{0}{fl 70 ,co}
+{60}{É a vida. Mais alguma coisa?}{É a vida. Mais alguma coisa?}{}{}{}{gf2136 1}
+{61}{Posso perguntar sobre você? Qual é a sua história?}{}{5}{ch-13}{115}{}
+{62}{Posso perguntar sobre você? Qual é a sua história?}{}{5}{ch14}{125}{}
+{69}{Acho que não. Tenha um bom dia.}{}{5}{}{0}{}
+{70}{Você acabou de selar sua morte, tolo!}{Você acabou de selar sua morte, tolo!}{}{}{}{}
+{75}{Por que ela o enviou? Por que ela mesma não está aqui?}{Por que ela o enviou? Por que ela mesma não está aqui?}{}{}{}{}
+{76}{Ela não consegue escapar do acampamento ao sul.}{}{5}{}{20}{}
+{85}{Diga a ela que é melhor morrer lutando do que viver em cativeiro.}{Diga a ela que é melhor morrer lutando do que viver em cativeiro.}{}{}{}{}
+{86}{Não acredito que essa seja a resposta que ela procurava.}{}{5}{}{95}{}
+{87}{Eu gostaria de testar isso matando você agora mesmo, seu porco sem coração!}{}{5}{}{0}{fl 70 ,co}
+{95}{Sinto por ela, mas aqui fora os sentimentos não significam nada. Posso lhe dar esta velha pistola para levar a ela [ela lhe entrega uma pistola velha e enferrujada]. Diga a ela para usá-la para escapar, se ela pretende se juntar a nós.}{Sinto por ela, mas aqui fora os sentimentos não significam nada. Posso lhe dar esta velha pistola para levar a ela [ela lhe entrega uma pistola velha e enferrujada]. Diga a ela para usá-la para escapar, se ela pretende se juntar a nós.}{}{}{}{in-2013}
+{96}{Atacar os portões com essa pistola seria suicídio.}{}{5}{}{60}{}
+{97}{Ou você a ajuda ou morre onde está, vadia!}{}{5}{}{0}{fl 70 ,co}
+{98}{Obrigado por isso, pelo menos. Tenha um bom dia.}{}{5}{}{0}{gf2136 1}
+{105}{Não me julgue completamente sem coração. As coisas são como são, e não há nada a ser feito. Posso lhe dar esta velha pistola para levar a ela [ela lhe entrega uma pistola velha e enferrujada]. Diga a ela para usá-la para escapar, se ela pretende se juntar a nós.}{Não me julgue completamente sem coração. As coisas são como são, e não há nada a ser feito. Posso lhe lhe dar esta velha pistola para levar a ela [ela lhe entrega uma pistola velha e enferrujada]. Diga a ela para usá-la para escapar, se ela pretende se juntar a nós.}{}{}{}{}
+{106}{Atacar os portões com essa pistola seria suicídio.}{}{5}{}{50}{}
+{107}{Ou você a ajuda ou morre onde está, vadia!}{}{5}{}{0}{fl 70 ,co}
+{114}{Obrigado por isso, pelo menos. Tenha um bom dia.}{}{5}{}{0}{gf2136 1}
+{115}{Não discutirei assuntos desse tipo com forasteiros.}{Não discutirei assuntos desse tipo com forasteiros.}{}{}{}{}
+{116}{E:}{}{5}{}{0}{}
+{124}{Um idiota tagarela! Saia desta área, tolo. Você não é bem-vindo aqui.}{Um idiota tagarela! Saia desta área, tolo. Você não é bem-vindo aqui.}{}{}{}{}
+{125}{Fui enviada para cá por matar um homem que estava me espancando e me recusei a ficar presa no acampamento dos homens quando cheguei. Minhas mulheres ou escaparam do acampamento ou o evitaram completamente desde que chegaram.}{Fui enviada para cá por matar um homem que estava me espancando e me recusei a ficar presa no acampamento dos homens quando cheguei. Minhas mulheres ou escaparam do acampamento ou o evitaram completamente desde que chegaram.}{}{}{}{}
+{126}{Essa é uma história e tanto. Vou seguir meu caminho agora. Tenha um bom dia.}{}{5}{}{0}{}
+{127}{Deveriam ter acabado com você como o cão que é, vadia!}{}{5}{}{0}{fl 70 ,co}
+{135}{O que você quer agora?}{O que você quer agora?}{}{}{}{}
+{136}{Esta é a mulher sobre quem lhe falei. Ela deseja se juntar a vocês.}{}{5}{pa6571}{145}{}
+{137}{Nada, eu acho.}{}{5}{}{0}{}
+{145}{Obrigado por ajudá-la, embora eu não tenha certeza de que foi o melhor para ela. Como eu disse antes, ela morrerá se não conseguir se virar sozinha aqui fora.}{Obrigado por ajudá-la, embora eu não tenha certeza de que foi o melhor para ela. Como eu disse antes, ela morrerá se não conseguir se virar sozinha aqui fora.}{}{}{}{}
+{146}{Então você vai deixá-la se juntar a você?}{}{5}{}{155}{}
+{147}{Você é um tipo bem alegre, não é?}{}{5}{}{165}{}
+{155}{Ela pode ficar conosco, sim.}{Ela pode ficar conosco, sim.}{}{}{}{lf3 1}
+{156}{A:}{}{5}{}{-10}{}
+{165}{[Ela faz uma careta para você.] Isso não é motivo de riso. É melhor você começar a levar sua situação a sério, ou morrerá.}{[Ela faz uma careta para você.] Isso não é motivo de riso. É melhor você começar a levar sua situação a sério, ou morrerá.}{}{}{}{lf3 1}
+{166}{Você está me ameaçando?}{}{5}{}{175}{}
+{167}{Você tem razão. Eu não deveria fazer pouco caso desta situação.}{}{5}{}{185}{}
+{175}{De jeito nenhum, nem preciso. Esta terra amaldiçoada dará um jeito em você no devido tempo, se não a respeitar como deve.}{De jeito nenhum, nem preciso. Esta terra amaldiçoada dará um jeito em você no devido tempo, se não a respeitar como deve.}{}{}{}{}
+{176}{Então você vai deixá-la se juntar a você?}{}{5}{}{155}{}
+{185}{Lembre-se disso. Esta terra amaldiçoada o destruirá se você não a respeitar como deve.}{Lembre-se disso. Esta terra amaldiçoada o destruirá se você não a respeitar como deve.}{}{}{}{}
+{186}{Então você vai deixá-la se juntar a você?}{}{5}{}{155}{}
+{194}{Obrigado por trazer Cynthia até aqui.}{Obrigado por trazer Cynthia até aqui.}{}{}{}{}
+

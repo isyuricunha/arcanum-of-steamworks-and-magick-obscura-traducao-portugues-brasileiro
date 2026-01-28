@@ -1,0 +1,162 @@
+{1}{G:}{}{}{}{}{} 
+{2}{Olá, senhor. Posso perguntar seu nome?}{}{5}{me0, re 41, lf4 0, qb1138 4, qb1137 4}{35}{} 
+{3}{Hmm... Eu estava me perguntando quem você é e o que faz aqui?}{}{5}{me0, re-40, lf4 0, qb1138 4, qb1137 4}{35}{} 
+{4}{Olá de novo, David. Posso lhe fazer algumas perguntas?}{}{5}{me1, re 41, lf4 0, qb1138 4, qb1137 4}{69}{} 
+{5}{Humpf! Eu tinha algumas perguntas, David...}{}{5}{me1, re-40, lf4 0, qb1138 4, qb1137 4}{69}{} 
+{6}{Ainda não descobri o que está matando seus coelhos...}{}{5}{QU1137 2}{93}{} 
+{7}{Descobri o que está acontecendo com seus coelhos...}{}{5}{QU1137 3}{97}{} 
+{8}{Olá, David.}{}{5}{QU1137 4, lf4 0, gf2377 1}{}{fl 151} 
+{9}{Olá de novo, David. Posso lhe fazer algumas perguntas?}{}{5}{lf4 1, gf2377 1}{}{co, fl 143} 
+{10}{Ainda não encontrei uma cura para Cynthia...}{}{5}{QU1138 2, ni3605}{152}{} 
+{11}{Encontrei uma cura para Cynthia!}{}{5}{qa1138 1, in3605}{156}{} 
+{12}{Olá, David.}{}{5}{QU1138 4}{166}{} 
+{13}{Olá, David.}{}{5}{QU1138 6}{}{co, fl 143} 
+{14}{Hã... oi. Eu pergunto seu nome?}{}{-4}{me0, re 41, lf4 0, qb1138 4, qb1137 4}{35}{} 
+{15}{Hã... qual é o seu nome?}{}{-4}{me0, re-40, lf4 0, qb1138 4, qb1137 4}{35}{} 
+{16}{Hã... Oi, David. Posso te perguntar uma coisa?}{}{-4}{me1, re 41, lf4 0, qb1138 4, qb1137 4}{69}{} 
+{17}{Hã... Posso perguntar uma coisa, David?}{}{-4}{me1, re-40, lf4 0, qb1138 4, qb1137 4}{69}{} 
+{18}{Eu ainda não sei o que está machucando o coelho...}{}{-4}{QU1137 2}{93}{} 
+{19}{Eu descobri o que está machucando o coelho...}{}{-4}{QU1137 3}{97}{} 
+{20}{Hã... Oi, David.}{}{-4}{QU1137 4, lf4 0, gf2377 1}{}{fl 151} 
+{21}{Hã... Oi, David. Posso te perguntar uma coisa?}{}{-4}{lf4 1, gf2377 1}{}{co, fl 143} 
+{22}{Ainda não consegui nada para você, garoto...}{}{-4}{QU1138 2, ni3605}{152}{} 
+{23}{Consegui algo para você, garoto!}{}{-4}{qa1138 1, in3605}{156}{} 
+{24}{Hã... Oi, David.}{}{-4}{QU1138 4}{166}{} 
+{25}{Hã... Oi, David.}{}{-4}{QU1138 6}{}{co, fl 143} 
+{26}{E:}{}{1}{}{0}{} 
+{35}{Bem, eu sou David Wit, dono desta fazenda aqui.}{Bem, eu sou David Wit, dono desta fazenda aqui.}{}{}{}{lf1 1} 
+{36}{O que você cultiva aqui?}{}{5}{}{39}{} 
+{37}{O que você cultiva?}{}{-4}{}{39}{} 
+{38}{E:}{}{1}{}{0}{} 
+{39}{Heh. Na verdade, eu não cultivo nada. Isto é uma fazenda de peles... Eu crio coelhos. Minhas peles são consideradas as mais macias e de melhor qualidade em toda a terra. Você encontrará meu produto em todo tipo de artigo fino... no acabamento de um vestido de baile de uma dama, no forro do casaco de inverno de um cavalheiro, até mesmo enrolando os recém-nascidos da nobreza.}{Heh. Na verdade, eu não cultivo nada. Isto é uma fazenda de peles... Eu crio coelhos. Minhas peles são consideradas as mais macias e de melhor qualidade em toda a terra. Você encontrará meu produto em todo tipo de artigo fino... no acabamento de um vestido de baile de uma dama, no forro do casaco de inverno de um cavalheiro, até mesmo enrolando os recém-nascidos da nobreza.}{}{}{}{} 
+{40}{Uau. Parece que você se sai muito bem.}{}{5}{}{45}{} 
+{41}{Peles! Você recebe muitos manifestantes?}{}{5}{}{87}{} 
+{42}{Uau. Você é rico?}{}{-4}{}{45}{} 
+{43}{Peles! Você vê muita gente que não gosta de machucar coelhinhos?}{}{-4}{}{87}{} 
+{44}{E:}{}{1}{}{0}{} 
+{45}{Bom... Eu me saí bem pela minha filha e por mim. Pelo menos... eu me saía...}{Bom... Eu me saí bem pela minha filha e por mim. Pelo menos... eu me saía...}{}{}{}{} 
+{46}{Saía? O que aconteceu?}{}{5}{}{49}{} 
+{47}{O que aconteceu?}{}{-4}{}{49}{} 
+{48}{E:}{}{1}{}{0}{} 
+{49}{Algo muito estranho vem acontecendo ultimamente. Toda noite, um dos meus coelhos é morto e parcialmente devorado. Os sinais indicam uma grande fera de algum tipo, mas ninguém na região está sendo incomodado ou viu algo estranho. Se estiver disponível, eu realmente apreciaria sua ajuda para descobrir o que está acontecendo.}{Algo muito estranho vem acontecendo ultimamente. Toda noite, um dos meus coelhos é morto e parcialmente devorado. Os sinais indicam uma grande fera de algum tipo, mas ninguém na região está sendo incomodado ou viu algo estranho. Se estiver disponível, eu realmente apreciaria sua ajuda para descobrir o que está acontecendo.}{}{}{}{QU1137 1} 
+{50}{Vou tentar. Há quanto tempo isso vem acontecendo?}{}{5}{}{53}{QU1137 2} 
+{51}{Eu tento. Isso tá acontecendo há muito tempo?}{}{-4}{}{53}{QU1137 2} 
+{52}{F:}{}{1}{}{0}{} 
+{53}{Os assassinatos vêm acontecendo há quase um ciclo lunar completo. Se as coisas continuarem nesse ritmo, estarei arruinado em mais 2! Os coelhos se reproduzem rápido... mas não tão rápido assim!}{Os assassinatos vêm acontecendo há quase um ciclo lunar completo. Se as coisas continuarem nesse ritmo, estarei arruinado em mais 2! Os coelhos se reproduzem rápido... mas não tão rápido assim!}{}{}{}{} 
+{54}{E um cachorro? Você tem um cachorro? ...ou talvez seja um lobo?}{}{5}{}{59}{} 
+{55}{Você mora aqui sozinho?}{}{5}{}{65}{} 
+{56}{Você tem cachorro? ...ou tem lobo?}{}{-4}{}{59}{} 
+{57}{Você tá aqui sozinho?}{}{-4}{}{65}{} 
+{58}{E:}{}{1}{}{0}{} 
+{59}{Não há lobos por quilômetros ao redor. Não tenho cachorro... já tentei antes, mas dava muito trabalho evitar que assustassem os coelhos. Nunca tive um que os comesse, no entanto...}{Não há lobos por quilômetros ao redor. Não tenho cachorro... já tentei antes, mas dava muito trabalho evitar que assustassem os coelhos. Nunca tive um que os comesse, no entanto...}{}{}{}{} 
+{60}{Alguém mais mora aqui com você?}{}{5}{}{65}{} 
+{61}{Hmm... Intrigante. Há mais alguém com quem eu possa falar?}{}{5}{}{65}{} 
+{62}{Você tá aqui sozinho?}{}{-4}{}{65}{} 
+{63}{Hmm... isso é estranho. Eu falo com mais alguém sobre isso?}{}{-4}{}{65}{} 
+{64}{E:}{}{1}{}{0}{} 
+{65}{Minha filha mora comigo. Você pode falar com ela, se quiser. Ela tem sumido muitas noites... suspeito que esteja saindo escondida para ver seu prometido. [piscadela] Ahh... ser jovem de novo...}{Minha filha mora comigo. Você pode falar com ela, se quiser. Ela tem sumido muitas noites... suspeito que esteja saindo escondida para ver seu prometido. [piscadela] Ahh... ser jovem de novo...}{}{}{}{lf3 1} 
+{66}{Deixe-me falar com ela. Vou ver se consigo descobrir mais alguma coisa.}{}{5}{}{0}{} 
+{67}{Eu falo com ela. Talvez ela tenha visto alguma coisa.}{}{-4}{}{0}{} 
+{68}{E:}{}{1}{}{0}{} 
+{69}{O que posso fazer por você, @pcname@?}{O que posso fazer por você, @pcname@?}{}{}{}{} 
+{70}{O que tem acontecido aqui na fazenda?}{}{5}{QB1137 1}{49}{} 
+{71}{Com a crescente conscientização social, você recebe muitos manifestantes?}{}{5}{lf2 0}{87}{} 
+{72}{Alguém mais mora aqui com você?}{}{5}{lf3 0}{65}{} 
+{73}{Aconteceu alguma coisa aqui?}{}{-4}{QB1137 1}{49}{} 
+{74}{Você viu muitos que não gostam que machuque coelhinhos?}{}{-4}{lf2 0}{87}{} 
+{75}{Você é o único aqui?}{}{-4}{lf3 0}{65}{} 
+{76}{T:15, 13, 12}{}{1}{}{78}{} 
+{77}{E:}{}{1}{}{0}{} 
+{78}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{} 
+{79}{O que tem acontecido aqui na fazenda?}{}{5}{QB1137 1}{49}{} 
+{80}{Com a crescente consciência social, você recebe muitos manifestantes?}{}{5}{lf2 0}{87}{} 
+{81}{Alguém mais mora aqui com você?}{}{5}{lf3 0}{65}{} 
+{82}{Aconteceu alguma coisa aqui?}{}{-4}{QB1137 1}{49}{} 
+{83}{Você viu muitos que não gostam que machuque coelhinhos?}{}{-4}{lf2 0}{87}{} 
+{84}{Você é o único aqui?}{}{-4}{lf3 0}{65}{} 
+{85}{T:15, 13, 12}{}{1}{}{78}{} 
+{86}{E:}{}{1}{}{0}{} 
+{87}{Eu sei bem como lidar com esses malditos esnobes... [bate no coldre da pistola na cintura]}{Eu sei bem como lidar com esses malditos esnobes... [bate no coldre da pistola na cintura]}{}{}{}{} 
+{88}{Oh meu Deus...}{}{5}{}{78}{} 
+{89}{I:}{}{1}{}{78}{re-5} 
+{90}{É exatamente o que eu penso...}{}{5}{}{78}{} 
+{91}{Hã... Ah!}{}{-4}{}{78}{} 
+{92}{Isso é bom... eu gosto!}{}{-4}{}{78}{re-5} 
+{93}{É tão frustrante! ...Simplesmente não consigo entender. Se algo não for descoberto logo, estarei arruinado...}{É tão frustrante! ...Simplesmente não consigo entender. Se algo não for descoberto logo, estarei arruinado...}{}{}{}{} 
+{94}{Vou continuar procurando. Até logo.}{}{5}{}{0}{} 
+{95}{Eu procuro mais.}{}{-4}{}{0}{} 
+{96}{E:}{}{1}{}{0}{} 
+{97}{Você descobriu? O quê? O que é?}{Você descobriu? O quê? O que é?}{}{}{}{} 
+{98}{Receio que seja sobre sua filha...}{}{5}{gf2377 0}{103}{} 
+{99}{Receio que tenha sido um lobisomem...}{}{5}{gf2377 1}{125}{} 
+{100}{Sinto muito... É seu filho...}{}{-4}{gf2377 0}{103}{} 
+{101}{Sinto muito... Foi um lobisomem...}{}{-4}{gf2377 1}{125}{} 
+{102}{E:}{}{1}{}{0}{} 
+{103}{[incrédulo] Minha filha! Do que você está falando, senhor?}{[incrédula] Minha filha! Do que você está falando, senhora?}{}{}{}{} 
+{104}{Sinto muito ter que te contar isso... mas ela se tornou um lobisomem.}{}{5}{}{107}{} 
+{105}{Ela, hã... Hã... Ela é um lobisomem.}{}{-4}{}{107}{} 
+{106}{E:}{}{1}{}{0}{} 
+{107}{Um lobisomem! Oh, não! Não minha filha! Não pode ser! O que vamos fazer?}{Um lobisomem! Oh, não! Não minha filha! Não pode ser! O que vamos fazer?}{}{}{}{qu1137 4} 
+{108}{Provavelmente teremos que matá-la...}{}{5}{}{110}{} 
+{109}{Ela tem que morrer...}{}{-4}{}{110}{} 
+{110}{Não! Não a machuque! Ela é tudo o que me resta neste mundo, desde a morte da mãe dela... Por favor! Você é um viajante... Talvez tenha ouvido falar de uma cura?}{Não! Não a machuque! Ela é tudo o que me resta neste mundo, desde a morte da mãe dela... Por favor! Você é um viajante... Talvez tenha ouvido falar de uma cura?}{}{}{}{} 
+{111}{Não. Eu não ouvi.}{}{5}{}{116}{} 
+{112}{Não. Eu não ouvi. Temos que matá-la antes que ela machuque alguém!}{}{5}{}{116}{} 
+{113}{Não. Eu não sei não.}{}{-4}{}{116}{} 
+{114}{Não. Eu não sei não. Ela tem que morrer! Pra não machucar mais ninguém...}{}{-4}{}{116}{} 
+{115}{E:}{}{1}{}{0}{} 
+{116}{Por favor, senhor... em suas viagens, se por acaso encontrar uma cura, pense em nós. Ouvi dizer que há curas extraordinárias na grande cidade mágica de Tulla. Talvez se procurar lá... Mas não a machuque! Eu vou garantir que ela fique trancada à noite! Juro que vou! Ela não vai machucar ninguém.}{Por favor, senhora... em suas viagens, se por acaso encontrar uma cura, pense em nós. Ouvi dizer que há curas extraordinárias na grande cidade mágica de Tulla. Talvez se procurar lá... Mas não a machuque! Eu vou garantir que ela fique trancada à noite! Juro que vou! Ela não vai machucar ninguém.}{}{}{}{QU1138 1} 
+{117}{Eu não vou machucá-la. Se algum dia eu encontrar uma cura, voltarei com ela.}{}{5}{}{122}{QU1138 2} 
+{118}{É muito perigoso! Ela precisa morrer!}{}{5}{}{}{co, fl 124} 
+{119}{Tá bom. Eu não machuco. Se eu achar... eu trago de volta.}{}{-4}{}{122}{QU1138 2} 
+{120}{Não! Ela vai machucar alguém! Ela precisa morrer!}{}{-4}{}{}{co, fl 124} 
+{121}{E:}{}{1}{}{0}{} 
+{122}{Oh, muito obrigado @pcname@! Muito obrigado! Vou me despedir agora. Preciso ir falar com a Cynthia. Isso vai ser muito angustiante para ela. Rezo para que volte logo. Adeus.}{Oh, muito obrigado @pcname@! Muito obrigado! Vou me despedir agora. Preciso ir falar com a Cynthia. Isso vai ser muito angustiante para ela. Rezo para que volte logo. Adeus.}{}{}{}{} 
+{123}{E:}{}{1}{}{0}{} 
+{124}{Só por cima do meu cadáver!}{Só por cima do meu cadáver!}{}{}{}{} 
+{125}{Uma lobisomem! Oh, céus! Isso explicaria por que ninguém nunca viu nada durante o dia, não é? Confio que destruiu a fera?}{Uma lobisomem! Oh, céus! Isso explicaria por que ninguém nunca viu nada durante o dia, não é? Confio que destruiu a fera?}{}{}{}{} 
+{126}{Eu destruí. Mas...}{}{5}{}{131}{qu1137 4} 
+{127}{Eu destruí. Ela não vai mais incomodá-los. Preciso seguir meu caminho...}{}{5}{}{145}{qu1137 4} 
+{128}{Sim. Mas...}{}{-4}{}{131}{qu1137 4} 
+{129}{Sim. Ela não machuca mais coelho nenhum. Eu tenho que ir agora...}{}{-4}{}{145}{qu1137 4} 
+{130}{E:}{}{1}{}{0}{} 
+{131}{Mas? Mas o quê? [compreensão surgindo em seu rosto] Não! Diga que não foi ela! Quem era a lobisomem?}{Mas? Mas o quê? [compreensão surgindo em seu rosto] Não! Diga que não foi ela! Quem era a lobisomem?}{}{}{}{} 
+{132}{Receio que seja como suspeitou. Cynthia era a lobisomem...}{}{5}{}{137}{} 
+{133}{Quando destruí a fera, ela se transformou em sua filha...}{}{5}{}{137}{} 
+{134}{É. Era sua filha...}{}{-4}{}{137}{} 
+{135}{Eu matei o lobisomem, ele virou sua filha...}{}{-4}{}{137}{} 
+{136}{E:}{}{1}{}{0}{} 
+{137}{[totalmente tomado pelo sofrimento] NÃÃÃO! Isso não pode ser! Não a minha bebê! Minha doce garotinha! [de repente, virando os olhos selvagens para você] Você! Você matou minha bebê!}{[totalmente tomado pelo sofrimento] NÃÃÃO! Isso não pode ser! Não a minha bebê! Minha doce garotinha! [de repente, virando os olhos selvagens para você] Você! Você matou minha bebê!}{}{}{}{} 
+{138}{Me desculpe! Eu não sabia que era ela...}{}{5}{}{}{fl 144} 
+{139}{Ela era uma lobisomem! Ela tinha que morrer!}{}{5}{}{}{co, fl 143} 
+{140}{Me desculpa! Me não saber que era ela...}{}{-4}{}{}{fl 144} 
+{141}{Ela era lobisomem! Ela precisar morrer!}{}{-4}{}{}{co, fl 143} 
+{142}{E:}{}{1}{}{0}{} 
+{143}{[claramente enlouquecido de dor] Você matou minha bebê! Você matou minha bebê!}{[claramente enlouquecido de dor] Você matou minha bebê! Você matou minha bebê!}{}{}{}{} 
+{144}{[soluçando sem controle] Eu sei... eu sei que não foi sua culpa... Como isso aconteceu? Por favor... Vá! Só vá! Preciso ficar sozinho...}{[soluçando sem controle] Eu sei... eu sei que não foi sua culpa... Como isso aconteceu? Por favor... Vá! Só vá! Preciso ficar sozinho...}{}{}{}{} 
+{145}{Já? Espere! Aqui. Por me ajudar, aqui estão 350 moedas. Sei que não é muito, mas é o mínimo que posso fazer. Você foi tão prestativo! A Cynthia vai ficar tão feliz que seus coelhos queridos estão seguros agora! Desejo-lhe uma boa viagem. Obrigado @pcname@!}{Já? Espere! Aqui. Por me ajudar, aqui estão 350 moedas. Sei que não é muito, mas é o mínimo que posso fazer. Você foi tão prestativo! A Cynthia vai ficar tão feliz que seus coelhos queridos estão seguros agora! Desejo-lhe uma boa viagem. Obrigado @pcname@!}{}{}{}{$$350} 
+{146}{Ah... sim... tenho certeza de que ela ficará. Adeus.}{}{5}{}{0}{} 
+{147}{Ah... obrigado. A lobisomem não vai mais incomodá-lo. Mas...}{}{5}{}{131}{lf4 1} 
+{148}{Ah... sim. Ela ficar feliz. Ah... tchau.}{}{-4}{}{0}{} 
+{149}{Ah... valeu. Ela não machucar coelho mais. Mas...}{}{-4}{}{131}{lf4 1} 
+{150}{E:}{}{1}{}{0}{} 
+{151}{Saia daqui! Eu sei que você só fez o que pedi... Mas nunca vou perdoá-lo pela morte da Cynthia. Cai fora daqui @pcname@.}{Saia daqui! Eu sei que você só fez o que pedi... Mas nunca vou perdoá-lo pela morte da Cynthia. Cai fora daqui @pcname@.}{}{}{}{} 
+{152}{Deve haver uma cura em algum lugar! Por favor, continue procurando @pcname@.}{Deve haver uma cura em algum lugar! Por favor, continue procurando @pcname@.}{}{}{}{} 
+{153}{Vou continuar procurando.}{}{5}{}{0}{} 
+{154}{Me procurar mais.}{}{-4}{}{0}{} 
+{155}{E:}{}{1}{}{0}{} 
+{156}{Você encontrou? Onde? Onde estava? Deixe-me ver! [Ele pega a poção de você.]}{Você encontrou? Onde? Onde estava? Deixe-me ver! [Ele pega a poção de você.]}{}{}{}{in3605, qu1138 4, fp} 
+{157}{Estava em Tulla, como você suspeitava.}{}{5}{}{160}{} 
+{158}{Em Tulla... como você falar.}{}{-4}{}{160}{} 
+{159}{E:}{}{1}{}{0}{} 
+{160}{Os caminhos da magia nunca deixarão de me surpreender! Aqui @pcname@. Eu estava guardando, esperando que você tivesse algo para ajudar minha Cynthia. Aqui estão mil moedas. Espero que seja suficiente como recompensa. [Ele parece radiante de alegria] Vou dar a ela imediatamente! Adeus e obrigado novamente!}{Os caminhos da magia nunca deixarão de me surpreender! Aqui @pcname@. Eu estava guardando, esperando que você tivesse algo para ajudar minha Cynthia. Aqui estão mil moedas. Espero que seja suficiente como recompensa. [Ele parece radiante de alegria] Vou dar a ela imediatamente! Adeus e obrigado novamente!}{}{}{}{$$1000} 
+{161}{Isso é muito generoso! Obrigado!}{}{5}{}{0}{} 
+{162}{Foi uma jornada difícil. Obrigado pelas moedas, elas vão ajudar.}{}{5}{}{0}{} 
+{163}{Uau! Valeu!}{}{-4}{}{0}{} 
+{164}{É difícil conseguir. Essa moeda ajuda um pouco. Valeu.}{}{-4}{}{0}{} 
+{165}{E:}{}{1}{}{0}{} 
+{166}{Muito obrigado por restaurar minha filha @pcname@. Há algo que eu possa fazer por você?}{Muito obrigado por restaurar minha filha @pcname@. Há algo que eu possa fazer por você?}{}{}{}{} 
+{167}{A:}{}{1}{re-80}{78}{re+5} 
+{168}{T:15, 13, 12}{}{1}{}{78}{} 
+{169}{E:}{}{1}{}{0}{} 
+

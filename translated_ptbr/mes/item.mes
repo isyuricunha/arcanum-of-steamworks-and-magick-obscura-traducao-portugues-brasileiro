@@ -1,0 +1,41 @@
+// item type strings
+
+{0}{Flecha}
+{1}{Bala}
+{2}{Bateria}
+{3}{Combustível}
+{4}{Tronco}
+{5}{Escudo}
+{6}{Elmo}
+{7}{Manoplas}
+{8}{Botas}
+{9}{Anel}
+{10}{Medalhão}
+
+// item cannot messages start past 100
+
+{101}{O item é pesado demais.}
+{102}{Não há espaço para esse item.}
+{103}{O item é do tipo errado para esse espaço.}
+{104}{Não há mão livre para usar esse item.}
+{105}{Um braço aleijado impede o uso desse item.}
+{106}{O item não pode ser usado.}
+{107}{O item está quebrado.}
+{108}{A roupa ou armadura é do tamanho errado e não pode ser vestida.}
+{109}{O item não pode ser empunhado.}
+{110}{A roupa ou armadura é para o gênero oposto e não pode ser vestida.}
+{111}{O item não pode ser descartado.}
+{112}{O item está enfeitiçado e não pode ser largado.}
+{113}{O pergaminho requer uma Inteligência de 5 ou mais para ser usado.}
+{114}{Você não pode pegar itens mágicos.}
+{115}{Você não pode pegar itens tecnológicos.}
+{116}{Você não pode usar itens mágicos.}
+{117}{Você não pode usar itens tecnológicos.}
+{118}{Você não pode empunhar itens mágicos.}
+{119}{Você não pode empunhar itens tecnológicos.}
+
+
+// miscellaneous item messages start at 200
+
+{200}{Você empunhou um item enfeitiçado!}
+{201}{Você não sente nenhum efeito.}

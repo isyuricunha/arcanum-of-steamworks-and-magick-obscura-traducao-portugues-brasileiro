@@ -1,0 +1,33 @@
+{1}{[Este ogro extremamente grande grunhe para você sem desviar seu olhar pesado.] Hurgh.}{[Este ogro extremamente grande grunhe para você sem desviar seu olhar pesado.] Hurgh.}{}{}{}{ }
+{2}{Chukka matar!}{Chukka matar!}{}{}{}{ }
+{3}{Ninguém machuca Bates!}{Ninguém machuca Bates!}{}{}{}{ }
+{4}{Sim, mestre?}{Sim, mestre?}{}{}{}{ }
+{5}{B:}{}{1}{wa 0}{0}{ }
+{6}{Gostaria de saber uma coisa ou duas sobre você, Chukka...}{}{1}{wa 0}{0}{ce }
+{7}{Gostaria que você fizesse algo por mim, Chukka...}{}{1}{wa 0}{50}{ }
+{8}{Você parece um pouco chateado, Chukka.}{}{1}{re-20}{60}{ }
+{10}{Você pode parar de esperar agora, Chukka...}{}{1}{wa 1}{21}{uw 0 15}
+{11}{E:}{}{1}{}{0}{ }
+{15}{Sim. Chukka se junta. Mais coisas para Chukka fazer?}{Sim. Chukka se junta. Mais coisas para Chukka fazer?}{}{}{}{ }
+{16}{Sim.}{}{1}{}{4}{ }
+{17}{Não.}{}{1}{}{0}{ }
+{20}{Sim, mestre.}{Sim, mestre.}{}{}{}{ }
+{21}{Urgh.}{Urgh.}{}{}{}{ }
+{22}{E:}{}{1}{}{0}{ }
+{30}{[Este ogro extremamente grande grunhe para você.] Hurgh.}{[Este ogro extremamente grande grunhe para você.] Hurgh.}{}{}{}{ }
+{31}{O que me diz, velho companheiro? Quer se juntar a mim?}{}{5}{}{40}{jo 0 15}
+{40}{Não. Chukka não se junta.}{Não. Chukka não se junta.}{}{}{}{ }
+{41}{E:}{}{5}{}{0}{ }
+{50}{O que Chukka faz para o mestre?}{O que Chukka faz para o mestre?}{}{}{}{ }
+{51}{Saia da frente.}{}{1}{}{0}{so }
+{52}{Chegue mais perto.}{}{1}{}{0}{sc }
+{53}{Chukka, espere aqui.}{}{1}{wa 0}{0}{wa, fl  20}
+{54}{Chukka, você pode parar de esperar agora.}{}{1}{wa 1}{21}{uw 0 15}
+{55}{Chukka, acho melhor você voltar para o Sr. Bates.}{}{1}{}{0}{ lv, fl  20}
+{56}{Nada no momento.}{}{1}{}{0}{ }
+{60}{Chukka não gosta do que você está fazendo.}{Chukka não gosta do que você está fazendo.}{}{}{}{ }
+{61}{Com certeza, deve haver algo que eu possa fazer...}{}{1}{ch-16}{0}{70 }
+{62}{Ora, vamos, você não está realmente tão chateado assim, está?}{}{1}{ch17}{}{re+10, fl 65}
+{65}{Não. Chukka não tá muito chateado. Tá bom.}{Não. Chukka não tá muito chateado. Tá bom.}{}{}{}{ }
+{70}{Não. Chukka não gosta muito de você. Ele vai embora logo se você não mudar.}{Não. Chukka não gosta muito de você. Ele vai embora logo se você não mudar.}{}{}{}{ }
+

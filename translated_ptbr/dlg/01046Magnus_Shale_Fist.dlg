@@ -1,0 +1,457 @@
+{1}{G:}{G:}{}{1}{}{}
+{2}{Magnus! Descobri o segredo por trás dos Schuylers!}{}{5}{ss 2, lf7 1, lf15 0, lf19 0}{300}{lf15 1}
+{3}{Olá, Magnus. Sei que está bravo, mas poderia falar com você?}{}{5}{lf14 1}{60}{re -5}
+{6}{Acho que não nos conhecemos. Qual é o seu nome?}{}{5}{me 0, re 41, lf14 0}{13}{}
+{7}{Nem nos conhecemos, senhor! Qual poderia ser o problema?}{}{5}{me 0, re -40, lf14 0}{252}{}
+{8}{Acho que começamos com o pé esquerdo? E você é?}{}{5}{lf5 1, lf6 0, lf14 0}{39}{}
+{9}{Que bom ver você de novo, Magnus. Tem um momento?}{}{5}{me 1, lf6 1, re 41, lf14 0}{60}{}
+{10}{Qual parece ser o problema, Magnus?}{}{5}{me 1, lf6 1, re -40, lf14 0}{252}{}
+{11}{Hã... Eu não sou muito esperto. Quem é você?}{}{-4}{me 0}{237}{}
+{12}{Ei! Anão! Ei!}{}{-4}{me 1}{}{fl 249}
+{13}{E quem é você para pedir o nome de um anão? Um maldito forasteiro ignorante, eu diria. Como se um anão fosse dar seu nome assim.}{E quem é você para pedir o nome de um anão? Um maldito forasteiro ignorante, eu diria. Como se um anão fosse dar seu nome assim.}{}{2}{}{gf2333 1}
+{14}{Perdoe-me. Eu não sabia que era uma quebra tão grande de etiqueta.}{}{5}{pa 6409, lf12 0}{-40}{lf12 1}
+{15}{Perdoe-me. Eu não sabia que era uma quebra tão grande de etiqueta.}{}{5}{pa 6409, lf12 1}{39}{}
+{16}{Perdoe-me. Eu não sabia que era uma quebra tão grande de etiqueta.}{}{5}{pa -6409, ra -2}{39}{}
+{17}{Com licença, mas, mesmo sendo um anão, não vejo a ofensa.}{}{5}{pa -6409, ra 2}{42}{}
+{18}{Não vou tolerar isso de um anão. Controle sua língua.}{}{5}{pa -6409, ra -2}{34}{re -5}
+{19}{Seu jeito pede uma surra, anão da cidade.}{}{5}{pa -6409, ra 2}{27}{re -5}
+{20}{Vejo que o peguei em um mau momento. Desculpe-me.}{}{5}{}{0}{lf5 1}
+{21}{Eu estava dizendo que foi muito rude da sua parte pedir o nome de mim, um anão. Não é algo para ser jogado fora como o lixo do dia!}{Eu estava dizendo que foi muito rude da sua parte pedir o nome de mim, um anão. Não é algo para ser jogado fora como o lixo do dia!}{}{3}{}{lf12 1}
+{22}{Perdoe-me. Eu não sabia que era uma quebra tão grande de etiqueta.}{}{5}{ra -2}{39}{}
+{23}{Com licença, mas, mesmo sendo um anão, não vejo a ofensa.}{}{5}{ra 2}{42}{}
+{24}{Não vou tolerar isso de um anão. Controle sua língua.}{}{5}{ra -2}{34}{re -5}
+{25}{Seu jeito pede uma surra, anão da cidade.}{}{5}{ra 2}{27}{re -5}
+{26}{Vejo que o peguei em um mau momento. Desculpe-me.}{}{5}{}{0}{lf5 1}
+{27}{Anão da cidade! Como ousa? Sou de um dos clãs mais antigos de todo o Arcanum! Retire o que disse, imediatamente! Não tenho estômago para derramar sangue anão, mas o farei para defender minha honra!}{Anão da cidade! Como ousa? Sou de um dos clãs mais antigos de todo o Arcanum! Retire o que disse, imediatamente! Não tenho estômago para derramar sangue anão, mas o farei para defender minha honra!}{}{4}{}{}
+{28}{Calma, irmão. Talvez eu TENHA passado um pouco dos limites...}{}{5}{}{39}{}
+{29}{Isso é uma barba ou você esqueceu de lavar o rosto hoje de manhã?}{}{5}{}{}{re +10, co, fl 32}
+{30}{Já tive o suficiente de você. Vou me retirar.}{}{5}{}{0}{re -5, lf5 1}
+{32}{O quê? Você insulta minha barba? Vou te partir ao meio! Morra!}{O quê? Você insulta minha barba? Vou te partir ao meio! Morra!}{}{5}{}{}
+{34}{Você acha que tem fibra para me ajudar a me controlar, forasteiro? É melhor ter certeza. Um anão luta cada batalha como se fosse a última...}{Você acha que tem fibra para me ajudar a me controlar, forasteiro? É melhor ter certeza. Um anão luta cada batalha como se fosse a última...}{}{6}{}{}
+{35}{Me perdoe... talvez eu TENHA exagerado um pouco...}{}{5}{}{39}{}
+{36}{Você é um anão? Com ESSA barba, achei que fosse um halfling.}{}{5}{}{}{re +10, co, fl 32}
+{37}{Já estou farto de você. Vou me retirar.}{}{5}{}{0}{re -5, lf5 1}
+{39}{Hmm. Suponho que você não tenha culpa, estranho. Talvez eu mesmo seja um pouco irritadiço. Por favor, perdoe minhas palavras duras. Pode me chamar de Magnus.}{Hmm. Suponho que você não tenha culpa, estranho. Talvez eu mesmo seja um pouco irritadiço. Por favor, perdoe minhas palavras duras. Pode me chamar de Magnus.}{}{7}{}{lf6 1}
+{40}{Um prazer, senhor. O que você estava dizendo sobre o nome de um anão?}{}{5}{}{45}{}
+{42}{Hmm. Suponho que possa haver tradições diferentes entre os clãs. Talvez eu tenha sido um pouco irritadiço demais. Por favor, me chame de Magnus.}{Hmm. Suponho que possa haver tradições diferentes entre os clãs. Talvez eu tenha sido um pouco irritadiço demais. Por favor, me chame de Magnus.}{}{8}{}{lf6 1}
+{43}{Um prazer, senhor. Conte-me mais sobre essa crença que você tem...}{}{5}{}{45}{}
+{45}{Bem, os anões são uma raça antiga, e nossas tradições são profundas. O VERDADEIRO nome de um anão, seu nome de família, é algo sagrado, uma coisa de mistério e poder. Magnus é meu nome comum. Se eu o conhecesse bem, também lhe diria meu nome de família. Mas Magnus serve por enquanto...}{Bem, os anões são uma raça antiga, e nossas tradições são profundas. O VERDADEIRO nome de um anão, seu nome de família, é algo sagrado, uma coisa de mistério e poder. Magnus é meu nome comum. Se eu o conhecesse bem, também lhe diria meu nome de família. Mas Magnus serve por enquanto...}{}{9}{}{}
+{46}{Por que você é tão protetor com seu nome de família?}{}{5}{}{49}{}
+{49}{Os nomes dos anões são simbólicos... um reflexo de nossa história, de quem somos. Um anão que dá seu nome a qualquer um não tem respeito por essa história...}{Os nomes dos anões são simbólicos... um reflexo de nossa história, de quem somos. Um anão que dá seu nome a qualquer um não tem respeito por essa história...}{}{10}{}{}
+{50}{Entendo. Obrigado pela lição, Magnus.}{}{5}{ra -2}{54}{}
+{51}{Obrigado por compartilhar algumas das crenças do seu clã...}{}{5}{ra 2}{57}{}
+{54}{É bom conhecer um forasteiro que tenta entender nossos costumes. Bem-vindo, meu amigo! Agora, como posso ajudá-lo?}{É bom conhecer um forasteiro que tenta entender nossos costumes. Bem-vindo, meu amigo! Agora, como posso ajudá-lo?}{}{11}{}{}
+{55}{Posso lhe fazer algumas perguntas?}{}{5}{}{60}{}
+{57}{Talvez eu tenha julgado você rápido demais, irmão. Me perdoe. Bem-vindo! Como posso ajudá-lo?}{Talvez eu tenha julgado você rápido demais, irmão. Me perdoe. Bem-vindo! Como posso ajudá-lo?}{}{12}{}{}
+{58}{Posso lhe fazer algumas perguntas?}{}{5}{}{60}{}
+{60}{O que você precisa saber?}{O que você precisa saber?}{}{13}{}{}
+{61}{Por que você está parado do lado de fora desta loja?}{}{5}{ss 2, lf18 0}{119}{lf18 1}
+{62}{Você sabe que estabelecimento é este?}{}{5}{lf1 0, lf4 0, ss -1}{74}{lf 1 1}
+{63}{O que você pode me contar sobre a P. Schuyler & Filhos?}{}{5}{lf4 0, lf1 1, ss -1}{80}{}
+{64}{Por que você está parado do lado de fora desta loja?}{}{5}{lf2 1, lf4 0, lf7 0, ss -1}{119}{}
+{65}{Por que, mais uma vez, você está parado do lado de fora desta loja?}{}{5}{lf7 1, lf4 0, ss -1}{224}{}
+{66}{Gostaria de me acompanhar?}{}{5}{lf4 1, lf14 0, ss -1}{201}{jo 0 198}
+{67}{Eu estava pensando que talvez você gostaria de me acompanhar?}{}{5}{ss 2, lf14 1}{342}{}
+{69}{E:}{}{5}{}{0}{}
+{74}{Sim, eu gostaria. E amaldiçoo o dia em que cruzei com os demônios que são donos deste lugar. Um bando ímpio, eles são... só posso imaginar o que acontece atrás daquelas portas. Esse prédio é a sede da infame P. Schuyler e Filhos...}{Sim, eu gostaria. E amaldiçoo o dia em que cruzei com os demônios que são donos deste lugar. Um bando ímpio, eles são... só posso imaginar o que acontece atrás daquelas portas. Esse prédio é a sede da infame P. Schuyler e Filhos...}{}{14}{}{}
+{75}{O que você pode revelar sobre a P. Schuyler e Filhos?}{}{5}{}{80}{}
+{76}{Por que você está vagando do lado de fora desta loja, Magnus?}{}{5}{lf2 0}{119}{lf2 1}
+{77}{Entendo. Mais algumas perguntas gerais...}{}{5}{}{60}{}
+{78}{E:}{}{5}{}{0}{}
+{80}{O que posso revelar, você pergunta? Por onde gostaria que eu começasse? A P. Schuyler e Filhos é o negócio mais antigo de Tarant, comerciantes de joias e ocasionalmente de raridades ou bugigangas cobiçadas. Sua reputação nos negócios é imaculada, sem igual...}{O que posso revelar, você pergunta? Por onde gostaria que eu começasse? A P. Schuyler e Filhos é o negócio mais antigo de Tarant, comerciantes de joias e ocasionalmente de raridades ou bugigangas cobiçadas. Sua reputação nos negócios é imaculada, sem igual...}{}{15}{}{}
+{81}{E ainda assim, há algo estranho neles?}{}{5}{}{85}{}
+{82}{Por que você está vagando do lado de fora desta loja, Magnus?}{}{5}{lf2 0}{119}{lf2 1}
+{83}{Mais algumas perguntas gerais, se me permite...}{}{5}{}{60}{}
+{84}{E:}{}{5}{}{0}{}
+{85}{Estranho? Estranho nem começa a descrever o que eles são. Você sabia que ninguém viu o suposto dono, Pelonious Schuyler, OU seus filhos, há mais de 15 anos? E mesmo assim, o cavalheiro que os viu, um comerciante de gemas de Arland, morreu uma semana depois do que só puderam descrever como "tísica"...}{Estranho? Estranho nem começa a descrever o que eles são. Você sabia que ninguém viu o suposto dono, Pelonious Schuyler, OU seus filhos, há mais de 15 anos? E mesmo assim, o cavalheiro que os viu, um comerciante de gemas de Arland, morreu uma semana depois do que só puderam descrever como "tísica"...}{}{16}{}{gf1025 1, ru 2032}
+{86}{O que mais se diz sobre eles?}{}{5}{ss -1}{90}{}
+{87}{Já lidei com os Schuyler. Encontrei algumas coisas estranhas...}{}{5}{ss 2}{300}{}
+{90}{Você já ouviu falar dos Cinco Sem Olhos? Oito anos atrás, cinco pingentes de rubi foram vendidos em leilão pela P. Schuyler e Filhos... todas as damas que os usaram foram assassinadas, seus olhos arrancados das órbitas!}{As pessoas juram que ouvem barulhos estranhos dentro do prédio quando o sol se põe. O tilintar de correntes, gemidos, gritos abafados. Você vê o símbolo esculpido acima do nome deles? O pássaro com a cabeça de cobra? Sabe o que é? O Derian-ka. A antiga Ordem dos Mortos.}{}{17}{}{}
+{91}{Por que a P. Schuyler & Filhos planejaria matar seus clientes?}{}{5}{lf11 0}{108}{lf11 1}
+{92}{Poderia muito bem ter sido uma estranha coincidência, Magnus.}{}{5}{}{113}{}
+{93}{O que mais você ouviu sobre eles?}{}{5}{lf10 0}{96}{lf10 1}
+{94}{Talvez mais algumas perguntas gerais?}{}{5}{}{60}{}
+{95}{E:}{}{5}{}{0}{}
+{96}{Quem sabe que atrocidades são cometidas dentro destas paredes? As pessoas juram que ouvem barulhos estranhos dentro do prédio quando o sol se põe. O tilintar de correntes, gemidos, gritos abafados. Você vê o símbolo esculpido acima do nome deles? O pássaro com a cabeça de cobra? Sabe o que é? O Derian-ka. A antiga Ordem dos Mortos!}{Quem sabe que atrocidades são cometidas dentro destas paredes? As pessoas juram que ouvem barulhos estranhos dentro do prédio quando o sol se põe. O tilintar de correntes, gemidos, gritos abafados. Você vê o símbolo esculpido acima do nome deles? O pássaro com a cabeça de cobra? Sabe o que é? O Derian-ka. A antiga Ordem dos Mortos!}{}{18}{}{gf1087 1}
+{97}{Tem certeza de que é uma cabeça de cobra? Parece mais um grifo...}{}{5}{}{102}{}
+{98}{Entendo. Por que você está esperando do lado de fora da loja deles?}{}{5}{lf2 0}{119}{lf2 1}
+{99}{Talvez mais algumas perguntas gerais?}{}{5}{}{60}{}
+{100}{E:}{}{5}{}{0}{}
+{102}{Um grifo? Use os olhos, homem! É obviamente um talismã das trevas e do terror...}{Um grifo? Use os olhos, mulher! É obviamente um talismã das trevas e do terror...}{}{19}{}{}
+{103}{Mas por que eles iriam querer matar seus próprios clientes?}{}{5}{lf11 0}{108}{lf11 1}
+{104}{Entendo. Então o que VOCÊ está fazendo aqui?}{}{5}{}{119}{}
+{108}{Por que loucos fazem qualquer coisa? São loucos malditos, é por isso! Se não vai usar o bom senso com que nasceu, então não continuarei... basta dizer que a P. Schuyler & Filhos é uma empresa extremamente incomum, e não sou o único a pensar assim.}{Por que loucos fazem qualquer coisa? São loucos malditos, é por isso! Se não vai usar o bom senso com que nasceu, então não continuarei... basta dizer que a P. Schuyler & Filhos é uma empresa extremamente incomum, e não sou o único a pensar assim.}{}{20}{}{}
+{109}{Entendo, Magnus. O que você está fazendo aqui?}{}{5}{lf2 0}{119}{lf2 1}
+{110}{O que mais você ouviu falar sobre eles?}{}{5}{lf10 0}{96}{lf10 1}
+{111}{Tenho mais algumas perguntas gerais, então.}{}{5}{}{60}{}
+{112}{E:}{}{5}{}{0}{}
+{113}{Uma coincidência? Empilhe tijolos e você terá uma parede de tijolos... como mais um homem chamaria isso? Não importa. Pergunte por aí... você verá que não sou o único que acha que algo estranho está acontecendo por trás daquelas portas.}{Uma coincidência? Empilhe tijolos e você terá uma parede de tijolos... como mais um homem chamaria isso? Não importa. Pergunte por aí... você verá que não sou o único que acha que algo estranho está acontecendo por trás daquelas portas.}{}{21}{}{}
+{114}{Mas por que eles iriam querer matar seus próprios clientes?}{}{5}{}{108}{}
+{115}{O que mais você ouviu falar sobre eles?}{}{5}{lf10 0}{96}{lf10 1}
+{116}{Entendo. O que você está fazendo aqui?}{}{5}{lf2 0}{119}{lf2 1}
+{117}{Tenho mais algumas perguntas gerais, então.}{}{5}{}{60}{}
+{118}{E:}{}{5}{}{0}{}
+{119}{Eu poderia lhe perguntar o mesmo, meu amigo. Você parece extremamente curioso sobre a P. Schuyler & Filhos. O que o traz aqui?}{Eu poderia lhe perguntar o mesmo, meu amigo. Você parece extremamente curioso sobre a P. Schuyler & Filhos. O que a traz aqui?}{}{22}{}{ru 2032}
+{120}{Acabei de confrontar os Schuyler, na verdade...}{}{5}{ss 2}{300}{lf19 1}
+{121}{Tenho meus motivos. E EU não estou bancando o idiota chamativo.}{}{5}{ss -1}{124}{re -5}
+{122}{Estou investigando um anel. Parece que eles eram os vendedores.}{}{5}{ss -1}{129}{}
+{123}{Vamos voltar a isso mais tarde. Algumas perguntas mais gerais...}{}{5}{ss -1}{60}{}
+{124}{O quê? Não aceitarei tais palavras de alguém como você. Dizem que a paciência de um anão é tão longa quanto o cabo de seu machado... talvez queira descobrir?}{O quê? Não aceitarei tais palavras de alguém como você. Dizem que a paciência de um anão é tão longa quanto o cabo de seu machado... talvez queira descobrir?}{}{23}{}{}
+{125}{Apenas brincando com você, velho amigo. Estou investigando um anel...}{}{5}{}{129}{}
+{126}{Você não vale meu tempo. Adeus.}{}{5}{}{0}{}
+{129}{Interessante. Eu também estou investigando um dos produtos deles. Vi à venda em uma casa de penhores no bairro dos mercadores, e tinha o selo deles. Gostaria de ver?}{Interessante. Eu também estou investigando um dos produtos deles. Vi à venda em uma casa de penhores no bairro dos mercadores, e tinha o selo deles. Gostaria de ver?}{}{24}{}{}
+{130}{Sim, muito.}{}{5}{}{134}{}
+{131}{Não muito, mas tenho mais algumas perguntas gerais.}{}{5}{}{60}{}
+{132}{Acho que já ouvi o suficiente, Magnus. Realmente preciso ir.}{}{5}{}{0}{}
+{134}{[O anão lhe mostra um bracelete de bronze de aparência bastante simples, com alguns arranhões desbotados mal visíveis em sua superfície externa. No interior, você vê a gravação de P. Schuyler & Filhos.]}{[O anão lhe mostra um bracelete de bronze de aparência bastante simples, com algumas inscrições desbotadas mal visíveis em sua superfície externa. No interior, você vê a gravação de P. Schuyler & Filhos.]}{}{25}{}{}
+{135}{Uma peça bem sem graça, eu diria. Qual é a sua importância?}{}{5}{}{139}{}
+{136}{O que são essas, inscrições? Não consigo distinguir direito...}{}{5}{}{144}{}
+{137}{E:}{}{5}{}{0}{}
+{139}{Sem graça? Este bracelete é antigo! Uma descoberta inacreditável! E a peça final de um quebra-cabeça que passei a vida inteira tentando resolver...}{Sem graça? Este bracelete é antigo! Uma descoberta inacreditável! E a peça final de um quebra-cabeça que passei a vida inteira tentando resolver...}{}{26}{}{}
+{140}{Desembucha, homem! Não me deixe na expectativa!}{}{5}{}{153}{}
+{141}{E:}{}{5}{}{180}{}
+{144}{Não está vendo? Ali... uma cruz... e ali... um sol nascente...! Todos esses são antigos caracteres anões, símbolos de uma língua perdida. São marcos na história do meu povo, marcos da era anã...}{Não está vendo? Ali... uma cruz... e ali... um sol nascente...! Todos esses são antigos caracteres anões, símbolos de uma língua perdida. São marcos na história do meu povo, marcos da era anã...}{}{27}{}{}
+{145}{Símbolos? Isso poderia passar por rabiscos aleatórios de uma criança...}{}{5}{}{149}{}
+{146}{O que você acha que é significativo neste bracelete?}{}{5}{}{153}{}
+{147}{E:}{}{5}{}{0}{}
+{149}{Arranhões? Você está cego? Essas marcas foram entalhadas! Só o tempo desbotou sua beleza!}{Manuseado com grosseria? Você está cego? Essas marcas foram entalhadas! Só o tempo desbotou sua beleza!}{}{28}{}{}
+{150}{Vou acreditar na sua palavra. Por que isso é importante?}{}{5}{}{153}{}
+{151}{E:}{}{5}{}{0}{}
+{153}{Está vendo essas manoplas anãs que uso? [Ele as mostra para você.] Elas me foram dadas pelo meu avô, que, por sua vez, as recebeu do dele. Está vendo o símbolo entalhado nelas? É o mesmo símbolo entalhado no bracelete! Essas manoplas são o único elo que possuo com meus ancestrais, meu clã, perdido para minha família desde antes de qualquer um de nós se lembrar!}{Está vendo essas manoplas anãs que uso? [Ele as mostra para você.] Elas me foram dadas pelo meu avô, que, por sua vez, as recebeu do dele. Está vendo o símbolo entalhado nelas? É o mesmo símbolo entalhado no bracelete! Essas manoplas são o único elo que possuo com meus ancestrais, meu clã, perdido para minha família desde antes de qualquer um de nós se lembrar!}{}{29}{}{}
+{154}{De qual clã você era? Por que sua família foi separada deles?}{}{5}{lf8 0}{158}{lf8 1}
+{155}{Você já falou com P. Schuyler & Filhos sobre isso?}{}{5}{}{180}{}
+{158}{NUNCA pergunte a um anão o nome de seu clã! Eu arrancaria minha barba antes de revelar o nome sagrado do meu povo! Tal ato poderia ser considerado blasfêmia! E quanto à minha família... isso não é da sua conta. Fomos perdidos para eles, e passei os últimos 200 anos procurando para onde podem ter ido...}{NUNCA pergunte a um anão o nome de seu clã! Eu arrancaria minha barba antes de revelar o nome sagrado do meu povo! Tal ato poderia ser considerado blasfêmia! E quanto à minha família... isso não é da sua conta. Fomos perdidos para eles, e passei os últimos 200 anos procurando para onde podem ter ido...}{}{30}{}{}
+{159}{Me desculpe. Digo, você já falou com os Schuylers sobre isso?}{}{5}{}{180}{}
+{160}{200 anos? Mas quantos anos você tem?}{}{5}{lf3 0}{163}{lf3 1}
+{161}{E:}{}{5}{}{0}{}
+{163}{Bem... isso é... outra tradição anã. Não falamos sobre nossa idade com forasteiros...}{Bem... isso é... outra tradição anã. Não falamos sobre nossa idade com forasteiros...}{}{31}{}{}
+{164}{Vocês são um povo supersticioso, não?}{}{5}{}{175}{re -5}
+{165}{Engraçado, eu nunca soube que nossa idade era um segredo tão bem guardado.}{}{5}{ra 2}{170}{}
+{166}{Entendo. Por que não pergunta aos Schuylers sobre o bracelete?}{}{5}{}{180}{}
+{167}{De qual clã você era? Por que sua família foi separada deles?}{}{5}{lf8 0}{158}{lf8 1}
+{168}{E:}{}{5}{}{0}{}
+{170}{Sim, bem, talvez você seja descendente de... uh... um clã menos ortodoxo que o meu. Deve ser isso...}{Sim, bem, talvez você seja descendente de... uh... um clã menos ortodoxo que o meu. Deve ser isso...}{}{32}{}{}
+{171}{Talvez. O que aconteceu entre seu clã e sua família?}{}{5}{lf8 0}{158}{lf8 1}
+{172}{Isso é bem possível. Você já falou com os Schuylers?}{}{5}{}{180}{}
+{175}{Supersticioso! Estes são rituais anões milenares! Tenha um pouco de respeito!}{Supersticioso! Estes são rituais anões milenares! Tenha um pouco de respeito!}{}{33}{}{}
+{176}{Claro. Você já perguntou aos Schuylers sobre o bracelete?}{}{5}{}{180}{}
+{177}{Já ouvi o suficiente. Vou me despedir de você.}{}{5}{}{0}{}
+{180}{Esse, meu amigo, é o ponto de toda essa história... Tentei em várias ocasiões falar com os Schuylers sobre esse bracelete e de onde o conseguiram, mas fui barrado por seus empregados desde o início. Eles estão escondendo algo! Eu sei disso!}{Esse, meu amigo, é o ponto de toda essa história... Tentei em várias ocasiões falar com os Schuylers sobre esse bracelete e de onde o conseguiram, mas fui barrado por seus empregados desde o início. Eles estão escondendo algo! Eu sei disso!}{}{34}{}{lf7 1}
+{181}{O que eles poderiam estar tentando esconder?}{}{5}{}{192}{}
+{182}{Recebi o mesmo tratamento quando perguntei sobre o anel!}{}{5}{gf1018 1, ss 1}{186}{}
+{183}{E:}{}{5}{}{0}{}
+{186}{Pedras e sangue! Eles ESTÃO tentando encobrir algo!}{Pedras e sangue! Eles ESTÃO tentando encobrir algo!}{}{35}{}{}
+{187}{Mas o quê? Que tipo de enganação eles estão perpetuando?}{}{5}{}{192}{}
+{192}{As fontes por trás de seu inventário, as razões para seu isolamento... quem sabe? Mas eu sei que vou descobrir de onde eles conseguiram esse bracelete, não importa o que seja necessário fazer.}{As fontes por trás de seu inventário, as razões para seu isolamento... quem sabe? Mas eu sei que vou descobrir de onde eles conseguiram esse bracelete, não importa o que seja necessário fazer.}{}{36}{}{lf9 1, lf4 1}
+{193}{Na verdade... eu já enfrentei os Schuylers, Magnus...}{}{5}{ss 2}{300}{}
+{194}{Entendo. Bem, talvez pudéssemos trabalhar juntos?}{}{5}{ss -1}{201}{lf4 1, jo 0 198}
+{195}{Hmmm. Mais algumas perguntas, talvez...}{}{5}{ss -1}{60}{}
+{196}{E:}{}{5}{ss -1}{0}{}
+{198}{Hmmm. Talvez. Vejo algum potencial em você, meu amigo, e você parece confiável. Feito! Vamos em frente e lançar alguma luz sobre esse mistério...}{Hmmm. Talvez. Vejo algum potencial em você, meu amigo, e você parece confiável. Feito! Vamos em frente e lançar alguma luz sobre esse mistério...}{}{37}{}{ru 2033}
+{199}{Bem dito. Bom tê-lo a bordo, Magnus.}{}{5}{}{0}{}
+{201}{Um anão sempre escolhe seus companheiros com sabedoria, e eu simplesmente não sei sobre você. Desejo-lhe sorte em sua busca, no entanto. Se eu descobrir algo, compartilharei com você.}{Um anão sempre escolhe seus companheiros com sabedoria, e eu simplesmente não sei sobre você. Desejo-lhe sorte em sua busca, no entanto. Se eu descobrir algo, compartilharei com você.}{}{38}{}{}
+{202}{Agradeceria qualquer informação que você possa descobrir. Adeus.}{}{5}{}{0}{}
+{204}{Espere, meu amigo! Tenho uma ideia. Por que você e eu não colaboramos nisso? Duas cabeças pensam melhor que uma. Talvez ambos consigamos nossas respostas, e mais rapidamente...}{Espere, meu amigo! Tenho uma ideia. Por que você e eu não colaboramos nisso? Duas cabeças pensam melhor que uma. Talvez ambos consigamos nossas respostas, e mais rapidamente...}{}{39}{}{}
+{205}{Vejo mérito em sua sugestão. Sim, vamos nos unir nisso.}{}{5}{}{201}{lf4 1, jo 0 198}
+{206}{Uma boa ideia, mas acho que prefiro seguir sozinho.}{}{5}{}{212}{}
+{209}{Esplêndido! Vamos prosseguir juntos, então, e descobrir o que quer que esteja escondido dentro daquelas paredes. Avante!}{Esplêndido! Vamos prosseguir juntos, então, e descobrir o que quer que esteja escondido dentro daquelas paredes. Avante!}{}{40}{}{}
+{210}{Bem dito. É bom tê-lo a bordo, Magnus.}{}{5}{}{0}{}
+{212}{Entendo perfeitamente, amigo. Se mudar de ideia, estarei por aqui. De qualquer forma, boa sorte em sua missão e para onde quer que ela o leve.}{Entendo perfeitamente, amigo. Se mudar de ideia, estarei por aqui. De qualquer forma, boa sorte em sua missão e para onde quer que ela o leve.}{}{41}{}{}
+{213}{Meus agradecimentos, Magnus. Adeus.}{}{5}{}{0}{}
+{215}{Talvez eu faça isso mesmo, amigo. Você parece um sujeito persistente, e parece mais confiável a cada encontro nosso. Bom trabalho! Vamos desvendar esse mistério juntos, então!}{Talvez eu faça isso mesmo, amigo. Você parece um sujeito persistente, e parece mais confiável a cada encontro nosso. Bom trabalho! Vamos desvendar esse mistério juntos, então!}{}{42}{}{}
+{216}{Bem dito. É bom tê-lo a bordo, Magnus.}{}{5}{}{0}{}
+{218}{Desculpe, mas como já lhe disse antes, não.}{Desculpe, mas como já lhe disse antes, não.}{}{43}{}{}
+{219}{Tenha um bom dia, então,}{}{5}{}{0}{}
+{221}{Claro, meu amigo. Bom vê-lo novamente. Vamos finalmente chegar ao fundo dessa questão da P. Schuyler & Sons.}{Claro, meu amigo. Bom vê-lo novamente. Vamos finalmente chegar ao fundo dessa questão da P. Schuyler & Sons.}{}{44}{}{}
+{222}{Bom. Está decidido, então. Vamos começar.}{}{5}{}{0}{}
+{224}{Eu lhe disse, encontrei um bracelete antigo que acredito ter sido feito pelo clã perdido da minha família. Ele estava carimbado com P. Schuyler & Sons, e até agora não consegui nenhuma informação deles sobre o bracelete. Estou apenas esperando uma oportunidade para descobrir mais...}{Eu lhe disse, encontrei um bracelete antigo que acredito ter sido feito pelo clã perdido da minha família. Ele estava carimbado com P. Schuyler & Sons, e até agora não consegui nenhuma informação deles sobre o bracelete. Estou apenas esperando uma oportunidade para descobrir mais...}{}{45}{}{}
+{225}{Entendo. Talvez pudéssemos trabalhar juntos nisso?}{}{5}{lf9 0}{201}{lf4 1, jo 0 198}
+{229}{Obrigado pelo lembrete. Mais algumas perguntas, se me permite...?}{}{5}{}{60}{}
+{237}{Você é tão lerdo quanto um dizzard, amigo. Que pena... não vai durar muito em Tarant. Há algo em que eu possa ajudá-lo?}{Você é tão lerdo quanto um dizzard, amigo. Que pena... não vai durar muito em Tarant. Há algo em que eu possa ajudá-lo?}{}{46}{}{}
+{238}{Ugh... puuu... GAAAH!}{}{-4}{}{240}{}
+{240}{O quê? Você é pior do que eu pensava. Mais uma vez?}{O quê? Você é pior do que eu pensava. Mais uma vez?}{}{47}{}{}
+{241}{Peee... S-k-ky--l-errrr?}{}{-4}{}{243}{}
+{243}{Uhh... SIM! Esta é a loja da P. Schuyler & Sons (malditos bastardos...). Por que quer falar com eles?}{Uhh... SIM! Esta é a loja da P. Schuyler & Sons (malditos bastardos...). Por que quer falar com eles?}{}{48}{}{}
+{244}{T-e-l-e-f-o-n-e. Pre-ci-sa fa-lar ri-n-g-g-g.}{}{-4}{}{246}{}
+{246}{Não consigo entender nada do que está tentando dizer. Acho que você está além de qualquer ajuda. Que os deuses sorriam para sua sina e o levem logo. Bom dia.}{Não consigo entender nada do que está tentando dizer. Acho que você está além de qualquer ajuda. Que os deuses sorriam para sua sina e o levem logo. Bom dia.}{}{49}{}{}
+{247}{Tchau-tchau.}{}{-4}{}{0}{}
+{249}{Não tenho tempo para você, meu amigo meio-tonto. Por favor, procure outra pessoa para incomodar.}{Não tenho tempo para você, meu amigo tapado. Por favor, procure outra pessoa para incomodar.}{}{50}{}{}
+{252}{Você acabou de se colocar no meu lado ruim. Acho que seria do seu interesse deixar este anão em paz.}{Você acabou de se colocar no meu lado ruim. Acho que seria do seu interesse deixar este anão em paz.}{}{51}{}{}
+{253}{Desculpe-me, senhor, mas tem certeza de que essa opinião está correta...?}{}{5}{ch 10}{279}{re +15}
+{254}{Por favor... vamos tentar resolver isso...}{}{5}{}{257}{re +10}
+{255}{Acho que seria do SEU interesse sacar seu machado.}{}{5}{}{}{re -10, co, fl 277}
+{256}{Vejo que não há como mudar sua opinião. Adeus.}{}{5}{}{0}{lf5 1}
+{257}{Uma tentativa louvável de reconciliação, mas simplesmente não consigo superar minhas desavenças com você...}{Uma tentativa louvável de reconciliação, mas simplesmente não consigo superar minhas desavenças com você...}{}{52}{}{}
+{258}{Estou disposto a fazer o que for preciso para conquistar sua confiança...}{}{5}{}{262}{re +10}
+{259}{Você vai ter uma desavença comigo ao rachar seu crânio?}{}{5}{}{}{re -10, co, fl 277}
+{260}{Lamento que veja as coisas dessa forma. Vou me retirar.}{}{5}{}{0}{}
+{262}{Você é bem determinado. Ah, tudo bem! Não consigo deixar de perdoar suas óbvias falhas de caráter...}{Você é bem determinado. Ah, tudo bem! Não consigo deixar de perdoar suas óbvias falhas de caráter...}{}{53}{}{}
+{263}{É mais assim! Posso saber seu nome?}{}{5}{me 0}{13}{}
+{264}{Excelente. Talvez tenhamos começado com o pé esquerdo...}{}{5}{me 1, lf5 1, lf6 0}{39}{}
+{265}{É mais assim, Magnus! Posso lhe fazer algumas perguntas?}{}{5}{me 1, lf6 1, re 40}{60}{}
+{266}{E:}{}{5}{}{0}{}
+{277}{Sua boca lhe custou a vida hoje, forasteiro. Adeus e boa viagem.}{Sua boca lhe custou a vida hoje, forasteiro. Adeus e boa viagem.}{}{54}{}{}
+{279}{Hmmm... vejo seu ponto, forasteiro. Eu estava bastante enganado sobre você... agora é óbvio para mim. Por favor, perdoe o desabafo...}{Hmmm... vejo seu ponto, forasteiro. Eu estava bastante enganado sobre você... agora é óbvio para mim. Por favor, perdoe o desabafo...}{}{55}{}{}
+{280}{É mais assim! Posso saber seu nome?}{}{5}{me 0}{13}{}
+{281}{Excelente. Talvez tenhamos começado com o pé esquerdo...}{}{5}{me 1, lf5 1, lf6 0}{39}{}
+{282}{É mais assim, Magnus! Posso lhe fazer algumas perguntas?}{}{5}{me 1, lf6 1, re 40}{60}{}
+{283}{E:}{}{5}{}{0}{}
+{300}{O quê? O que você encontrou?}{O quê? O que você encontrou?}{}{56}{}{lf13 1}
+{301}{Eu os matei... [Conte a ele sobre isso.]}{}{5}{gf2367 1, lf7 1}{306}{}
+{302}{Eu falei com eles... [Conte a ele sobre isso.]}{}{5}{gf2345 1, gf2367 0, lf7 1}{327}{}
+{303}{Vi algumas coisas estranhas lá embaixo... [Conte a ele sobre isso.]}{}{5}{gf2345 0, gf2367 0, lf7 1}{309}{}
+{304}{Por quê, Magnus? Por que está tão curioso sobre os Schuylers...?}{}{5}{lf7 0}{331}{}
+{305}{Sinto muito. Não estou autorizado a dizer. Tenha um bom dia...}{}{5}{}{0}{}
+{306}{Entendo. Então havia uma tumba anã lá embaixo, e eles a estavam profanando. Agradeço-lhe, meu amigo. Os Schuylers receberam o que mereciam...}{Entendo. Então havia uma tumba anã lá embaixo, e eles a estavam profanando. Agradeço-lhe, meu amigo. Os Schuylers receberam o que mereciam...}{}{57}{}{}
+{307}{Você acha que aqueles eram o seu povo perdido...?}{}{5}{}{312}{}
+{309}{Isso é uma história e tanto. Uma história e tanto, de fato. [Magnus suspira.] Bem, fico feliz que tenha encontrado suas respostas, amigo. Parece que minha busca continua... Boa sorte para você...}{Isso é uma história e tanto. Uma história e tanto, de fato. [Magnus suspira.] Bem, fico feliz que tenha encontrado suas respostas, amigo. Parece que minha busca continua... Boa sorte para você...}{}{58}{}{}
+{310}{Você não acha que aqueles anões eram o seu povo perdido...?}{}{5}{}{312}{}
+{312}{Não... [Magnus baixa a cabeça.] Quero dizer, acho que não. Ah, é melhor eu contar logo. Não tenho ideia de qual é o meu clã, e essa velha pulseira não vai me mostrar. Olhe só para essa coisa... aquilo nem são entalhes... são arranhões sangrentos! Mas eu queria tanto ver algo... encontrar qualquer coisa. Ah, esqueça...}{Não... [Magnus baixa a cabeça.] Quero dizer, acho que não. Ah, é melhor eu contar logo. Não tenho ideia de qual é o meu clã, e essa velha pulseira não vai me mostrar. Olhe só para essa coisa... aquilo nem são entalhes... são arranhões sangrentos! Mas eu queria tanto ver algo... encontrar qualquer coisa. Ah, esqueça...}{}{59}{}{}
+{313}{Ora, vamos, Magnus... não perca as esperanças.}{}{5}{}{316}{}
+{314}{Sim, talvez seja melhor. Tenha um bom dia...}{}{5}{}{0}{}
+{316}{Ah, vou tentar não perder, meu amigo. Tenho certeza de que tudo vai dar certo. Bem, boa sorte para você...}{Ah, vou tentar não perder, meu amigo. Tenho certeza de que tudo vai dar certo. Bem, boa sorte para você...}{}{60}{}{}
+{317}{Hmmm. Talvez você queira vir comigo, Magnus?}{}{5}{}{320}{lf4 1, jo 0 324}
+{318}{E:}{}{5}{}{0}{}
+{320}{Havia mais alguma coisa...?}{Havia mais alguma coisa...?}{}{61}{}{}
+{321}{E:}{}{5}{}{0}{}
+{324}{Hmmm. Sim... você não parece uma má pessoa. Talvez fosse melhor viajarmos juntos... afinal, duas cabeças pensam melhor que uma, especialmente se alguma delas for anã! Ha! Vamos embora, então...}{Hmmm. Sim... você não parece uma má pessoa. Talvez fosse melhor viajarmos juntos... afinal, duas cabeças pensam melhor que uma, especialmente se alguma delas for anã! Ha! Vamos embora, então...}{}{62}{}{}
+{325}{E:}{}{5}{}{0}{}
+{327}{O quê? Você lidou com aqueles monstros? Depois do que fizeram com a tumba anã? Não posso acreditar! Você não é meu amigo, disso tenho certeza. Tenha um bom dia.}{O quê? Você lidou com aqueles monstros? Depois do que fizeram com a tumba anã? Não posso acreditar! Você não é meu amigo, disso tenho certeza. Tenha um bom dia.}{}{63}{}{lf14 1}
+{328}{E:}{}{5}{}{0}{}
+{331}{Bem... eu estava aqui porque pensei que os Schuylers pudessem saber algo sobre o meu clã... eu, bem, sou um anão sem lar, na verdade... nosso clã foi perdido para a minha família há muito tempo. A única pista que tenho sobre quem eram é um velho par de manoplas anãs, dadas a mim pelo meu avô... veja, aqui está o símbolo do meu clã, mas ninguém sabe quem eles eram...}{Bem... eu estava aqui porque pensei que os Schuylers pudessem saber algo sobre o meu clã... eu, bem, sou um anão sem lar, na verdade... nosso clã foi perdido para a minha família há muito tempo. A única pista que tenho sobre quem eram é um velho par de manoplas anãs, dadas a mim pelo meu avô... veja, aqui está o símbolo do meu clã, mas ninguém sabe quem eles eram...}{}{64}{}{lf7 1}
+{332}{O que os Schuylers têm a ver com isso...?}{}{5}{}{334}{}
+{334}{Encontrei essa pulseira algumas semanas atrás... [Ele mostra uma pulseira.] Tentei me convencer de que os entalhes em sua superfície poderiam ser o símbolo do meu clã perdido. Havia também o selo Schuyler na pulseira, então pensei que eles pudessem saber de onde veio...}{Encontrei essa pulseira algumas semanas atrás... [Ele mostra uma pulseira.] Tentei me convencer de que os entalhes em sua superfície poderiam ser o símbolo do meu clã perdido. Havia também o selo Schuyler na pulseira, então pensei que eles pudessem saber de onde veio...}{}{65}{}{}
+{335}{Hmmm. Essa é uma história interessante à luz do que eu sei...}{}{5}{}{337}{}
+{337}{Por quê? O que aconteceu com os Schuylers?}{Por quê? O que aconteceu com os Schuylers?}{}{66}{}{}
+{338}{Eu os matei... [Conte a ele sobre isso.]}{}{5}{gf2367 1}{306}{}
+{339}{Falei com eles... [Conte a ele sobre isso.]}{}{5}{gf2345 1, gf2367 0}{342}{}
+{340}{Vi algumas coisas estranhas lá embaixo... [Conte a ele sobre isso.]}{}{5}{gf2345 0, gf2367 0}{309}{}
+{341}{Sinto muito. Não estou autorizado a dizer. Tenha um bom dia...}{}{5}{}{0}{}
+{342}{O quê? Está louco? Você fez amizade com aqueles saqueadores de túmulos dentro da P. Schuyler & Filhos! Sinto muito, mas anões não se associam com esse tipo de gente. Tenha um bom dia...}{O quê? Você está louco? Você foi e fez amizade com esses profanadores de túmulos da P. Schuyler & Filhos! Sinto muito, mas anões não se associam com esse tipo de indivíduo. Tenha um bom dia...}{}{67}{}{lf14 1}
+{343}{Eu os matei, Magnus. Eles estão todos mortos...}{}{5}{gf2367 1}{346}{lf14 0, lf17 0}
+{344}{E:}{}{5}{}{0}{}
+{346}{Ah. Bem... talvez você não seja tão próximo deles quanto eu pensava. Então! Você decidiu desenvolver um pouco de miolos nessa sua cabeça, hein? Talvez você e eu tenhamos mais em comum do que eu imaginava no início...}{Ah. Bem... talvez você não seja tão próximo deles quanto eu pensava. Então! Você decidiu desenvolver um pouco de miolos nessa sua cabeça, hein? Talvez você e eu tenhamos mais em comum do que eu imaginava no início...}{}{68}{}{}
+{347}{Então, você vai se juntar a mim?}{}{5}{}{320}{lf4 1, jo 0 324}
+{400}{Como posso ajudá-lo?}{Como posso ajudá-lo?}{}{69}{}{}
+{401}{B:}{}{5}{wa 0}{}{}
+{402}{Tenho algumas perguntas para você, Magnus...}{}{5}{wa 0}{440}{}
+{403}{Gostaria que você fizesse algo por mim, Magnus...}{}{5}{wa 0}{521}{}
+{404}{Que tipo de coisas você pode fazer para mim, Magnus?}{}{5}{}{}{su}
+{405}{Você pode parar de esperar agora, Magnus...}{}{5}{pa -6616, gf1022 1, ss 2, wa 1}{559}{}
+{406}{Você pode parar de esperar agora, Magnus...}{}{5}{pa -6616, gf1022 0, ss 2, wa 1}{629}{uw 0 530}
+{407}{Você pode parar de esperar agora, Magnus...}{}{5}{pa -6616, ss -1, wa 1, lf16 0}{559}{uw 0 530}
+{408}{Você pode parar de esperar agora, Magnus...}{}{5}{pa 6616, wa 1}{544}{}
+{410}{Você parece chateado comigo, Magnus. Há algo que eu possa fazer por você?}{}{5}{re -20}{490}{}
+{411}{E:}{}{5}{wa 0}{0}{}
+{412}{Hã...}{}{-4}{}{420}{}
+{420}{[Magnus lança um olhar fulminante para você, enojado com seu estado mental.]}{[Magnus lança um olhar fulminante para você, enojado com seu estado mental.]}{}{}{}{}
+{421}{E:}{}{1}{}{0}{}
+{440}{O que você precisa saber?}{O que você precisa saber?}{}{70}{}{}
+{441}{Gostaria de saber algumas coisas sobre você, Magnus...}{}{5}{}{}{ce}
+{442}{Algum pensamento adicional sobre a P. Schuyler & Filhos?}{}{5}{ss 1, ss -1}{700}{}
+{443}{Magnus, você sabe alguma coisa sobre Gilbert Bates?}{}{5}{ss 2, ss -2}{704}{}
+{444}{Magnus, você sabe alguma coisa sobre Gilbert Bates?}{}{5}{ss 3, ss -3}{704}{}
+{447}{O que você pode me contar sobre a Ilha do Desespero, Magnus?}{}{5}{ss 6, ss -6}{712}{}
+{455}{O que você pode me contar sobre os Elfos Negros, Magnus?}{}{5}{ss 14, ss -14}{724}{}
+{456}{Você sabe alguma coisa sobre esse tal de Arronax?}{}{5}{ss 15, ss -15}{728}{}
+{457}{Nasrudin, Magnus? Você sabe algo útil sobre ele?}{}{5}{ss 16, ss -16}{732}{}
+{458}{Você sabe alguma coisa sobre a Ilha de Thanatos, Magnus?}{}{5}{ss 17, ss -17}{736}{}
+{460}{O que você sabe sobre o Anel de Brodgar, Magnus?}{}{5}{ss 19, ss -19}{740}{}
+{461}{Como vamos encontrar Arronax?}{}{5}{ss 20, ss -20}{744}{}
+{462}{Magnus, você sabe ALGUMA coisa sobre esse Vazio?}{}{5}{ss 21, ss -21}{748}{}
+{464}{Magnus, o que você sabe sobre Kerghan?}{}{5}{ss 23, ss -23}{752}{}
+{465}{Magnus! O que vamos fazer agora?}{}{5}{ss 24, ss -24}{756}{}
+{466}{O que você sabe sobre este lugar?}{}{5}{ia 1}{577}{}
+{467}{O que você sabe sobre este lugar?}{}{5}{ia 21}{581}{}
+{468}{O que você sabe sobre este lugar?}{}{5}{ia 3}{585}{}
+{469}{O que você sabe sobre este lugar?}{}{5}{ia 4}{589}{}
+{470}{O que você sabe sobre este lugar?}{}{5}{ia 5}{593}{}
+{471}{O que você sabe sobre este lugar?}{}{5}{ia 6}{597}{}
+{472}{O que você sabe sobre este lugar?}{}{5}{ia 7}{601}{}
+{474}{O que você sabe sobre este lugar?}{}{5}{ia 9}{605}{}
+{475}{O que você sabe sobre este lugar?}{}{5}{ia 10}{609}{}
+{476}{O que você sabe sobre este lugar?}{}{5}{ia 11}{613}{}
+{479}{O que você sabe sobre este lugar?}{}{5}{ia 16}{617}{}
+{483}{O que você sabe sobre este lugar?}{}{5}{ia 23}{625}{}
+{484}{Você parece chateado comigo, Magnus. Há algo que eu possa fazer por você?}{}{5}{re -20}{490}{}
+{485}{E:}{}{5}{}{0}{}
+{490}{Bom, um anão não é de reclamar, mas tenho que dizer que o seu comportamento me deixou de mau humor. Mas tem uma coisa... todo anão gosta de um cheirinho de rapé anão de qualidade... considere isso uma oferta de paz, se quiser...}{Bom, um anão não é de reclamar, mas tenho que dizer que o seu comportamento me deixou de mau humor. Mas tem uma coisa... todo anão gosta de um cheirinho de rapé anão de qualidade... considere isso uma oferta de paz, se quiser...}{}{124}{}{}
+{491}{Ora, Magnus... isso é realmente necessário?}{}{5}{ch 20}{497}{re +20}
+{492}{Claro, Magnus... tenho um pouco aqui mesmo...}{}{5}{in 3614, ch -19}{-49}{re +20}
+{493}{Vou providenciar um pouco para você, Magnus...}{}{5}{in -3614, ch -19}{510}{}
+{494}{Ninguém no MEU grupo vai fazer isso. Vamos embora...}{}{5}{}{}{re -5, fl 513}
+{497}{[Magnus parece lutar contra o seu magnetismo pessoal, mas acaba cedendo.] Ah, não sei por que me dou ao trabalho com você... mas parece que não consigo negar nada a você. Só tome cuidado daqui para frente... não vou ser feito de bobo!}{[Magnus parece lutar contra o seu magnetismo pessoal, mas acaba cedendo.] Ah, não sei por que me dou ao trabalho com você... mas parece que não consigo negar nada a você. Só tome cuidado daqui para frente... não vou ser feito de bobo!}{}{125}{}{}
+{498}{Tudo bem, Magnus. Vamos...}{}{5}{}{0}{}
+{500}{[Magnus pega o rapé de você, cheirando uma grande pitada.] Snif... ah! Isso é muito melhor! Obrigado, meu amigo! Vamos dizer que tudo está esquecido...}{[Magnus pega o rapé de você, cheirando uma grande pitada.] Snif... ah! Isso é muito melhor! Obrigado, meu amigo! Vamos dizer que tudo está esquecido...}{}{126}{}{}
+{501}{Eu estava me perguntando se talvez você gostaria de se juntar a mim novamente, Magnus...}{}{5}{pa 6616, pa -6411}{544}{}
+{502}{Eu estava me perguntando se talvez você gostaria de se juntar a mim novamente, Magnus...}{}{5}{pa -6616, gf1022 0, ss 2, pa -6411}{559}{jo 0 530}
+{503}{Eu estava me perguntando se talvez você gostaria de se juntar a mim novamente, Magnus...}{}{5}{gf1022 1, ss 2, pa -6411}{629}{}
+{504}{Eu estava me perguntando se, talvez, você gostaria de se juntar a mim novamente, Magnus...}{}{5}{ss -1, pa -6411}{559}{jo 0 530}
+{506}{E:}{}{5}{pa -6411}{0}{}
+{507}{Fico feliz que tenha gostado, Magnus. Vamos...?}{}{5}{pa 6411}{0}{}
+{510}{Sim... bem, seja rápido! Não vou deixar que se aproveitem de mim! Um anão tem suas necessidades como qualquer outro!}{Sim... bem, seja rápido! Não vou deixar que se aproveitem de mim! Um anão tem suas necessidades como qualquer outro!}{}{127}{}{}
+{511}{Entendo, Magnus. Vamos...}{}{5}{}{0}{}
+{513}{[Resmungando.] Hmmph! Não vou durar muito nesta aventura, amigo! Posso garantir isso!}{[Resmungando.] Hmmph! Não vou durar muito nesta aventura, amigo! Posso garantir isso!}{}{128}{}{}
+{521}{O que você gostaria que eu fizesse?}{O que você gostaria que eu fizesse?}{}{71}{}{}
+{522}{Afaste-se, Magnus}{}{5}{}{0}{so}
+{523}{Chegue um pouco mais perto, Magnus}{}{5}{}{0}{sc}
+{524}{Espere aqui por um tempo...}{}{5}{wa 0}{532}{wa}
+{525}{Pode parar de esperar agora, Magnus...}{}{5}{gf1022 1, ss 2, wa 1}{629}{}
+{526}{Pode parar de esperar agora, Magnus...}{}{5}{gf1022 0, ss 2, wa 1}{559}{uw 0 530}
+{527}{Pode parar de esperar agora, Magnus...}{}{5}{ss -1, wa 1}{559}{uw 0 530}
+{528}{Acho melhor você deixar o grupo.}{}{5}{}{535}{lv}
+{529}{[Voltar]}{}{5}{}{400}{}
+{530}{Já era hora. Um anão não gosta de esperar. Vamos...}{Já era hora. Um anão não gosta de esperar. Vamos...}{}{72}{}{}
+{531}{E:}{}{5}{}{0}{}
+{532}{[Magnus lança um olhar impaciente.] Vou esperar aqui... mas é melhor não me fazer esperar muito. Um anão tem coisas melhores para fazer do que ficar esperando por gente como você...}{[Magnus lança um olhar impaciente.] Vou esperar aqui... mas é melhor não me fazer esperar muito. Um anão tem coisas melhores para fazer do que ficar esperando por gente como você...}{}{73}{}{}
+{533}{E:}{}{5}{}{0}{}
+{535}{Hmmph! Como se eu quisesse viajar com um forasteiro ignorante como você, de qualquer forma. [Você não tem certeza, mas acha que ele parece um pouco triste.] Bem, talvez nos encontremos novamente. Tenha um bom dia, senhor.}{Hmmph! Como se eu quisesse viajar com uma forasteira ignorante como você, de qualquer forma. [Você não tem certeza, mas acha que ele parece um pouco triste.] Bem, talvez nos encontremos novamente. Tenha um bom dia, senhora.}{}{74}{}{lf31 1}
+{536}{E:}{}{5}{}{0}{}
+{537}{Bem, se não é o forasteiro andarilho. O que você quer de mim?}{Bem, se não é o forasteiro andarilho. O que você quer de mim?}{}{75}{}{}
+{538}{Eu estava me perguntando se, talvez, você gostaria de se juntar a mim novamente, Magnus...}{}{5}{pa 6616}{544}{}
+{539}{Eu estava me perguntando se, talvez, você gostaria de se juntar a mim novamente, Magnus...}{}{5}{pa -6616, gf1022 0, ss 2}{559}{jo 0 530}
+{540}{Eu estava me perguntando se, talvez, você gostaria de se juntar a mim novamente, Magnus...}{}{5}{gf1022 1, ss 2}{629}{}
+{541}{Eu estava me perguntando se, talvez, você gostaria de se juntar a mim novamente, Magnus...}{}{5}{ss -1}{559}{jo 0 530}
+{542}{Você parece chateado comigo, Magnus. Há algo que eu possa fazer por você?}{}{5}{re -20}{490}{}
+{543}{E:}{}{5}{}{0}{}
+{544}{[Ele lança um olhar furioso para Torian Kel.] Me desculpe, amigo, mas não vou a lugar nenhum com essa criatura...}{[Ele lança um olhar furioso para Torian Kel.] Me desculpe, amigo, mas não vou a lugar nenhum com essa criatura...}{}{76}{}{}
+{545}{Magnus... o que houve?}{}{1}{lf16 0}{554}{lf16 1}
+{546}{Magnus, tenho certeza de que você pode abrir uma exceção para mim...}{}{1}{lf16 1, ch 20}{552}{}
+{547}{Entendo seu ponto. Espere um momento, e eu me livrarei de Torian Kel...}{}{1}{lf16 1, pa 6616}{0}{}
+{548}{Tudo bem, Magnus. Vamos deixá-lo para trás.}{}{1}{lf16 1}{0}{}
+{549}{Parece que você vai partir então, Magnus...}{}{1}{lf16 1}{535}{lv}
+{550}{E:}{}{1}{lf16 1}{0}{}
+{552}{[Magnus faz uma careta, mas assente com a cabeça.] Eu digo que é uma PÉSSIMA ideia, mas acho que posso ficar com você. Um anão não é nenhum maldito desertor! Mas acho que você está cometendo um erro...}{[Magnus faz uma careta, mas assente com a cabeça.] Eu digo que é uma PÉSSIMA ideia, mas acho que posso ficar com você. Um anão não é nenhum maldito desertor! Mas acho que você está cometendo um erro...}{}{77}{}{}
+{553}{Sim, sim. Então você vai se juntar a mim, Magnus?}{}{1}{}{559}{jo 0 562}
+{554}{Ele já foi servo dos malditos Derian-Ka! Você não se lembra dos amaldiçoados Schuylers? Não se pode confiar em gente como essa... magias sombrias e profanação de túmulos... essas não são coisas para um anão se envolver. Receio que você terá que fazer uma escolha, meu amigo. Escolha bem...}{Ele já foi servo dos malditos Derian-Ka! Você não se lembra dos amaldiçoados Schuylers? Não se pode confiar em gente como essa... magias sombrias e profanação de túmulos... essas não são coisas para um anão se envolver. Receio que você terá que fazer uma escolha, meu amigo. Escolha bem...}{}{78}{}{}
+{555}{Magnus, tenho certeza de que você pode abrir uma exceção para mim...}{}{1}{ch 20}{552}{}
+{556}{É claro que escolho você. Vamos esquecer que eu sequer mencionei isso...}{}{1}{pa -6616}{0}{}
+{557}{É claro que escolho você. Vou me livrar de Torian Kel...}{}{1}{pa 6616}{0}{}
+{558}{Entendo. Então sinto muito, Magnus. Nossos caminhos se separam aqui...}{}{1}{}{535}{lv}
+{559}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{79}{}{}
+{560}{E:}{}{5}{}{0}{}
+{561}{Bem, suponho que sim. Um anão sempre gosta de estar em movimento! E acho que seu grupo poderia se beneficiar de um pouco de sabedoria anã, de qualquer forma. Vamos partir...}{Bem, suponho que sim. Um anão sempre gosta de estar em movimento! E acho que seu grupo poderia se beneficiar de um pouco de sabedoria anã, de qualquer forma. Vamos partir...}{}{80}{}{lf31 0}
+{562}{E:}{}{5}{}{0}{}
+{564}{[Magnus lança um olhar furioso para você.] Onde diabos você estava? Esperei uma eternidade! Não vou ficar esperando por gente como você!}{[Magnus lança um olhar furioso para você.] Onde diabos você estava? Esperei uma eternidade! Não vou ficar esperando por gente como você!}{}{81}{}{}
+{565}{Eu estava me perguntando se, talvez, você gostaria de se juntar a mim novamente, Magnus...}{}{5}{pa 6616}{544}{}
+{566}{Eu estava me perguntando se, talvez, você gostaria de se juntar a mim novamente, Magnus...}{}{5}{pa -6616, gf1022 0, ss 2}{559}{jo 0 572}
+{567}{Eu estava me perguntando se, talvez, você gostaria de se juntar a mim novamente, Magnus...}{}{5}{gf1022 1, ss 2}{629}{}
+{568}{Eu estava me perguntando se, talvez, você gostaria de se juntar a mim novamente, Magnus...}{}{5}{ss -1}{559}{jo 0 572}
+{569}{Você parece chateado comigo, Magnus. Há algo que eu possa fazer por você?}{}{5}{re -20}{490}{}
+{570}{E:}{}{5}{}{0}{}
+{572}{Bem, hã... suponho que poderia ir com você. Não que eu tenha esquecido como fui maltratado! Espero um pouco mais de consideração no futuro, entendeu! Vamos partir, então...}{Bem, hã... suponho que poderia ir com você. Não que eu tenha esquecido como fui maltratado! Espero um pouco mais de consideração no futuro, entendeu! Vamos partir, então...}{}{82}{}{}
+{573}{E:}{}{5}{}{0}{}
+{574}{Nunca saí da cidade... quer dizer... este país me é desconhecido...}{Nunca saí da cidade... quer dizer... esse país é estranho para mim...}{}{83}{}{}
+{575}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{576}{E:}{}{5}{}{0}{}
+{577}{Nunca saí da cidade... quer dizer... esse país é estranho para mim...}{Nunca saí da cidade... quer dizer... esse país é estranho para mim...}{}{84}{}{}
+{578}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{579}{E:}{}{5}{}{0}{}
+{581}{Esta é Tarant, meu amigo. Não posso dizer que conheço muito sobre ela. Mas sei que, se precisar encontrar alguém em particular, deve passar pelo Salão dos Registros. Quando eu estava procurando a P. Schuyler & Filhos, foi o que fiz...}{Esta é Tarant, meu amigo. Não posso dizer que conheço muito sobre ela. Mas sei que, se precisar encontrar alguém em particular, deve passar pelo Salão dos Registros. Quando eu estava procurando a P. Schuyler & Filhos, foi o que fiz...}{}{85}{}{}
+{582}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{583}{E:}{}{5}{}{0}{}
+{585}{Acredito que esta seja Black Root. Parece que me lembro de algo nos jornais sobre Black Root querer se juntar ao Reino Unificado. Além disso, é mais conhecida como uma cidade portuária, com barcos indo e vindo, e coisas do tipo. Nada que um anão se interessaria...}{Acredito que esta seja Black Root. Parece que me lembro de algo nos jornais sobre Black Root querer se juntar ao Reino Unificado. Além disso, é mais conhecida como uma cidade portuária, com barcos indo e vindo, e coisas do tipo. Nada que um anão se interessaria...}{}{86}{}{}
+{586}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{587}{E:}{}{5}{}{0}{}
+{589}{Caladon? Sim! Na verdade, sou daqui! Morei aqui por muitos... quer dizer, bem, quero dizer que VISITEI aqui muitas vezes... sabe, durante minhas viagens em busca. É uma cidade linda... recomendo ver o Castelo Real. É uma verdadeira façanha arquitetônica. Muito provavelmente, os anões tiveram algo a ver com isso...}{Caladon? Sim! Na verdade, sou daqui! Morei aqui por muitos... quer dizer, bem, quero dizer que VISITEI aqui muitas vezes... sabe, durante minhas viagens em busca. É uma cidade linda... recomendo ver o Castelo Real. É uma verdadeira façanha arquitetônica. Muito provavelmente, os anões tiveram algo a ver com isso...}{}{87}{}{}
+{590}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{591}{E:}{}{5}{}{0}{}
+{593}{Dernholm? Um reino moribundo, e isso é ser generoso. O Rei Praetor tomou algumas, bem, vamos chamar de decisões questionáveis sobre o uso da tecnologia em seu reino. Isso só mostra o que acontece quando se deposita muita fé nos caminhos da magia...}{Dernholm? Um reino moribundo, e isso é ser generoso. O Rei Praetor tomou algumas, bem, vamos chamar de decisões questionáveis sobre o uso da tecnologia em seu reino. Isso só mostra o que acontece quando se deposita muita fé nos caminhos da magia...}{}{88}{}{}
+{594}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{595}{E:}{}{5}{}{0}{}
+{597}{Qintarra? Lar dos elfos? Não sei de nada, nem quero saber, muito obrigado. Prefiro não falar mais sobre isso...}{Qintarra? Lar dos elfos? Não sei de nada, nem quero saber, muito obrigado. Prefiro não falar mais sobre isso...}{}{89}{}{}
+{598}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{599}{E:}{}{5}{}{0}{}
+{601}{O Clã Montanha Negra? Ah, eles são um clã bastante famoso! Eu... bem... contaria mais... mas, é... anões não falam de outros clãs quando eles não estão por perto... sabe, tradição anã. Desculpe não poder dizer mais...}{O Clã Montanha Negra? Ah, eles são um clã bastante famoso! Eu... bem... contaria mais... mas, é... anões não falam de outros clãs quando eles não estão por perto... sabe, tradição anã. Desculpe não poder dizer mais...}{}{90}{}{}
+{602}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{603}{E:}{}{5}{}{0}{}
+{605}{Sim... esta é a terra do Clã Roda, lar do Rei Loghaire Pedra do Trovão. Cuidado com o que faz por aqui e tente não me envergonhar! É bem provável que eu, hã, encontre alguém que conheço aqui... provavelmente tenho alguns, ah... parentes por aqui também...}{Sim... esta é a terra do Clã Roda, lar do Rei Loghaire Pedra do Trovão. Cuidado com o que faz por aqui e tente não me envergonhar! É bem provável que eu, hã, encontre alguém que conheço aqui... provavelmente tenho alguns, ah... parentes por aqui também...}{}{91}{}{}
+{606}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{607}{E:}{}{5}{}{0}{}
+{609}{Esta é a cidade de Stillwater. Sei que fabricam armas excelentes aqui, se é que esse tipo de coisa lhe interessa. Mais de um mestre espadeiro saiu desta pequena cidade...}{Esta é a cidade de Stillwater. Sei que fabricam armas excelentes aqui, se é que esse tipo de coisa lhe interessa. Mais de um mestre espadeiro saiu desta pequena cidade...}{}{92}{}{}
+{610}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{611}{E:}{}{5}{}{0}{}
+{613}{Sim... esta é a maldita Tulla, a Cidade dos Magos. Argh! Dá para sentir a magia neste lugar. Só de pensar nisso, já me dá vontade de vomitar o café da manhã...}{Sim... esta é a sangrenta Tulla, a Cidade dos Magos. Accchh! Dá para sentir a magia neste lugar. Só de pensar nisso, me dá vontade de perder o café da manhã...}{}{93}{}{}
+{614}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{615}{E:}{}{5}{}{0}{}
+{617}{O que eu preciso saber? Está cheio de elfos e são elfos bem desagradáveis, aliás. Então, para não enrolar, eu sei que não gosto nem um pouco daqui, e quanto antes a gente sair, melhor. Alguma outra maldita pergunta?}{O que eu preciso saber? Está cheio de elfos e são elfos bem desagradáveis, aliás. Então, para não enrolar, eu sei que não gosto nem um pouco daqui, e quanto antes a gente sair, melhor. Alguma outra maldita pergunta?}{}{94}{}{}
+{618}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{619}{E:}{}{5}{}{0}{}
+{625}{Thanatos? Essa maldita ilha de monstros! Um lugar de morte! E por algum motivo eu concordei em vir junto! Lembre-me de examinar minha cabeça quando voltarmos para o continente. SE voltarmos...}{Thanatos? Essa maldita ilha de monstros! Um lugar de morte! E por algum motivo eu concordei em vir junto! Lembre-me de examinar minha cabeça quando voltarmos para o continente. SE voltarmos...}{}{96}{}{}
+{626}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{627}{E:}{}{5}{}{0}{}
+{629}{Espere um minuto... onde diabos você estava?}{Espere um minuto... onde diabos você estava?}{}{97}{}{}
+{630}{O que você quer dizer?}{}{5}{}{632}{}
+{632}{O que eu quero dizer? Quero dizer que eu sei que você andou conversando com aqueles Schuylers! E achou que podia fazer isso pelas minhas costas! Como se eu não fosse descobrir!}{O que eu quero dizer? Quero dizer que eu sei que você andou conversando com aqueles Schuylers! E achou que podia fazer isso pelas minhas costas! Como se eu não fosse descobrir!}{}{98}{}{}
+{633}{Magnus...}{}{5}{}{635}{lv}
+{635}{Não! Não quero ouvir mais nada! Deixe-me em paz!}{Não! Não quero ouvir mais nada! Deixe-me em paz!}{}{99}{}{lf17 0}
+{636}{E:}{}{5}{}{0}{}
+{700}{Além dos rumores de assassinato, misticismo e jogadas sujas? Não, acho que isso cobre mais ou menos o que eu sei, meu amigo...}{Além dos rumores de assassinato, misticismo e jogadas sujas? Não, acho que isso cobre mais ou menos o que eu sei, meu amigo...}{}{100}{}{}
+{701}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{702}{E:}{}{5}{}{0}{}
+{704}{Gilbert Bates? Quem não o conhece? Ele inventou a máquina a vapor! Para um humano, é um sujeito bem esperto. Claro, os anões são os tecnólogos mais habilidosos. Mas todo mundo sabe disso...}{Gilbert Bates? Quem não o conhece? Ele inventou a máquina a vapor! Para um humano, é um sujeito bem esperto. Claro, os anões são os tecnólogos mais habilidosos. Mas todo mundo sabe disso...}{}{101}{}{}
+{705}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{706}{E:}{}{5}{}{0}{}
+{708}{O quê? Uma ilha? Nenhum anão que se preze se dá ao trabalho de saber sobre ilhas! Tem água maldita demais em volta! Dê a um anão montanhas e vales, mas o mantenha longe da água! Uggh! Só o pensamento...!}{O quê? Uma ilha? Nenhum anão que se preze se dá ao trabalho de saber sobre ilhas! Tem água maldita demais em volta! Dê a um anão montanhas e vales, mas o mantenha longe da água! Uggh! Só o pensamento...!}{}{102}{}{}
+{709}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{710}{E:}{}{5}{}{0}{}
+{712}{A gente já não passou por isso? Eu não sei nada sobre ilhas, e se soubesse, com certeza não ia querer saber de um lugar chamado Ilha do Desespero! Já conheci uns aprendizes lentos, mas... [resmungo.]}{A gente já não passou por isso? Eu não sei nada sobre ilhas, e se soubesse, com certeza não ia querer saber de um lugar chamado Ilha do Desespero! Já conheci uns aprendizes lentos, mas... [resmungo.]}{}{103}{}{}
+{713}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{714}{E:}{}{5}{}{0}{}
+{716}{Você está falando sério? Eu... Magnus Punho de Xisto... saber como chegar a Qintarra? POR QUE DIABOS EU SABERIA COMO CHEGAR A QINTARRA? Eu preferia cortar minha barba a ser visto morto num lugar desses! Qintarra! Elfos! Accchhh!}{Você está falando sério? Eu... Magnus Punho de Xisto... saber como chegar a Qintarra? POR QUE DIABOS EU SABERIA COMO CHEGAR A QINTARRA? Eu preferia cortar minha barba a ser visto morto num lugar desses! Qintarra! Elfos! Accchhh!}{}{104}{}{}
+{717}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{718}{E:}{}{5}{}{0}{}
+{720}{Ah... sim. O Clã da Roda é o clã governante sobre TODOS os anões em Arcanum. O chefe do clã deles, e nosso Rei, é Logahaire Pedra do Trovão. Ele é um guerreiro feroz e sábio. Não que essas qualidades sejam incomuns entre os anões, é claro...}{Ah... sim. O Clã da Roda é o clã governante sobre TODOS os anões em Arcanum. O chefe do clã deles, e nosso Rei, é Logahaire Pedra do Trovão. Ele é um guerreiro feroz e sábio. Não que essas qualidades sejam incomuns entre os anões, é claro...}{}{105}{}{}
+{721}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{722}{E:}{}{5}{}{0}{}
+{724}{Elfos Negros? Não conheço nenhum. Mas como não gosto muito de elfos COMUNS, não consigo me imaginar gostando muito deles.}{Elfos Negros? Não conheço nenhum. Mas como não gosto muito de elfos COMUNS, não consigo me imaginar gostando muito deles.}{}{106}{}{}
+{725}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{726}{E:}{}{5}{}{0}{}
+{728}{Arronax? Não sei muito, além do fato de que ele não gosta muito de você. Eu preferiria manter distância desse sujeito...}{Arronax? Não sei muito, além do fato de que ele não gosta muito de você. Eu preferiria manter distância desse sujeito...}{}{107}{}{}
+{729}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{730}{E:}{}{5}{}{0}{}
+{732}{Nasrudin? Não é ele o sujeito sobre quem aqueles malditos Panarii estão sempre cantando? Nós, anões, não damos muita importância a elfos mortos há muito tempo, como você pode muito bem imaginar. [Ele olha para você com desconfiança.] Espere... não é você que deveria ser ele, ou alguma bobagem do tipo? Tudo isso me dá dor de cabeça...}{Nasrudin? Não é ele o sujeito sobre quem aqueles malditos Panarii estão sempre cantando? Nós, anões, não damos muita importância a elfos mortos há muito tempo, como você pode muito bem imaginar. [Ele olha para você com desconfiança.] Espere... não é você que deveria ser ele, ou alguma bobagem do tipo? Tudo isso me dá dor de cabeça...}{}{108}{}{}
+{733}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{734}{E:}{}{5}{}{0}{}
+{736}{Não tenho certeza se ouvi direito. Você estava me perguntando sobre ilhas de novo? EU SEI que você não estava me perguntando sobre ilhas.}{Não tenho certeza se ouvi direito. Você estava me perguntando sobre ilhas de novo? EU SEI que você não estava me perguntando sobre ilhas.}{}{109}{}{}
+{737}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{738}{E:}{}{5}{}{0}{}
+{740}{O Anel de Brodgar? Minha família visitou lá uma vez, quando eu era mais jovem. Eles têm uma loja de presentes e tanto lá, pelo que me lembro... mas o tempo todo em que estive lá, me senti mal. Acho que aquele lugar maldito está manchado com magia, ou pelo menos é o que a lenda diz...}{O Anel de Brodgar? Minha família visitou lá uma vez, quando eu era mais jovem. Eles têm uma loja de presentes e tanto lá, pelo que me lembro... mas o tempo todo em que estive lá, me senti mal. Acho que aquele lugar maldito está manchado com magia, ou pelo menos é o que a lenda diz...}{}{110}{}{}
+{741}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{742}{E:}{}{5}{}{0}{}
+{744}{Por que diabos você acha que eu saberia uma coisa dessas? Já tenho trabalho suficiente para manter você longe de encrencas. Agora você quer que eu encontre esse Arronax também? Sei que os anões são engenhosos, mas até eu tenho meus limites!}{Por que diabos você acha que eu saberia uma coisa dessas? Já tenho trabalho suficiente para manter você longe de encrencas. Agora você quer que eu encontre esse Arronax também? Sei que os anões são engenhosos, mas até eu tenho meus limites!}{}{111}{}{}
+{745}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{746}{E:}{}{5}{}{0}{}
+{748}{O que eu sei sobre o maldito Vazio? Sei que não gosto NADA daqui! Vamos resolver nossos assuntos e voltar para Arcanum... já tive o suficiente de lendas, profecias e qualquer coisa do tipo...}{O que eu sei sobre o maldito Vazio? Sei que não gosto NADA daqui! Vamos resolver nossos assuntos e voltar para Arcanum... já tive o suficiente de lendas, profecias e qualquer coisa do tipo...}{}{112}{}{}
+{749}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{750}{E:}{}{5}{}{0}{}
+{752}{Kerghan? Vamos ver. Além do fato de que ele é um dos seres mais malignos já banidos da face de Arcanum, não posso dizer que sei muito sobre o sujeito. Você esperava que eu fosse amigo dele, talvez? QUE TIPO DE PERGUNTA IDIOTA É ESSA?}{Kerghan? Vamos ver. Além do fato de que ele é um dos seres mais malignos já banidos da face de Arcanum, não posso dizer que sei muito sobre o sujeito. Você esperava que eu fosse amigo dele, talvez? QUE TIPO DE PERGUNTA IDIOTA É ESSA?}{}{113}{}{}
+{753}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{754}{E:}{}{5}{}{0}{}
+{756}{E agora? O jogo acabou! Vá para casa! Desligue o maldito computador! Comece a guardar seu dinheiro para Arcanum 2!}{E agora? O jogo acabou! Vá para casa! Desligue o maldito computador! Comece a guardar seu dinheiro para Arcanum 2!}{}{114}{}{}
+{757}{Mais uma ou duas coisas...}{}{5}{}{400}{}
+{758}{E:}{}{5}{}{0}{}
+{1000}{Como ousa falar em tratados com essas criaturas? Vai ignorar os crimes que cometeram contra o meu povo? O que significa a amizade que lhe ofereci?}{Como ousa falar em tratados com essas criaturas? Vai ignorar os crimes que cometeram contra o meu povo? O que significa a amizade que lhe ofereci?}{}{115}{}{}
+{1001}{Magnus, por favor... vamos pensar nisso...}{}{5}{}{1003}{}
+{1002}{Claro! Perdoe um momento de fraqueza, Magnus. Ataque!}{}{5}{}{-19}{}
+{1003}{Tudo bem. Se for preciso, lutarei contra eles, mesmo sozinho. Mas peço-lhe uma última vez... por favor! Una-se a mim contra esses monstros e ajude-me a vingar meu povo! Lutamos juntos como irmãos, como amigos! Sangrei ao seu lado! Não me abandone agora!}{Tudo bem. Se for preciso, lutarei contra eles, mesmo sozinho. Mas peço-lhe uma última vez... por favor! Una-se a mim contra esses monstros e ajude-me a vingar meu povo! Lutamos juntos como irmãos, como amigos! Sangrei ao seu lado! Não me abandone agora!}{}{116}{}{}
+{1004}{Sinto muito, Magnus. Minha decisão está tomada.}{}{5}{}{-13}{fp, rp 1075}
+{1005}{Tem razão! Em que eu estava pensando? Ataque!}{}{5}{}{-19}{fp}
+{1007}{Olhe! É um antigo cemitério anão!}{Olhe! É um antigo cemitério anão!}{}{117}{}{}
+{1008}{Não posso acreditar no que fizeram aqui! É uma atrocidade!}{Não posso acreditar no que fizeram aqui! É uma atrocidade!}{}{118}{}{}
+{1009}{Deuses! Estão usando zumbis anões para fazer esse trabalho macabro! Estes são verdadeiramente o meu povo perdido, e seu local de descanso foi profanado!}{Deuses! Estão usando zumbis anões para fazer esse trabalho macabro! Estes são verdadeiramente o meu povo perdido, e seu local de descanso foi profanado!}{}{119}{}{}
+{1010}{Magnus... tem certeza? Esses anões parecem estranhos...}{}{1}{pa -6409}{1013}{}
+{1011}{Magnus... tem certeza? Esses anões parecem estranhos...}{}{1}{pa 6409}{-25}{}
+{1013}{Estranhos? Claro que parecem estranhos! Foram erguidos dos mortos para trabalhar como operários sem mente! Você também pareceria estranho se fizessem o mesmo com você! Quando descobrir quem é o responsável, haverá um preço a pagar...}{Estranhos? Claro que parecem estranhos! Foram erguidos dos mortos para trabalhar como operários sem mente! Você também pareceria estranho se fizessem o mesmo com você! Quando descobrir quem é o responsável, haverá um preço a pagar...}{}{120}{}{}
+{1014}{Vamos descobrir primeiro o que está acontecendo aqui...}{}{1}{}{}{fl 1017}
+{1015}{Estou com você, Magnus. Algo precisa ser feito...}{}{1}{}{}{fl 1018}
+{1017}{Faça o que quiser. Eu vou fazer o que achar necessário.}{Faça o que quiser. Eu vou fazer o que achar necessário.}{}{121}{}{}
+{1018}{Ótimo! Então posso contar com você para lutar ao meu lado...}{Ótimo! Então posso contar com você para lutar ao meu lado...}{}{122}{}{}
+{1020}{O quê? Quem é você para julgar o trabalho em pedra dos anões? Você nem é anão! E ainda é terrivelmente burro! Anões primitivos... bah!}{O quê? Quem é você para julgar o trabalho em pedra dos anões? Você nem é anão! E ainda é terrivelmente burro! Anões primitivos... bah!}{}{123}{}{}
+{1021}{Não se preocupe, Magnus. Vamos corrigir essa injustiça...}{}{1}{}{}{fl 1018}
+{1022}{Não sei, Magnus... há algo estranho neles...}{}{1}{}{1013}{}
+{1023}{Estou cansado dessa conversa. Mantenham os olhos e ouvidos abertos, vocês dois...}{}{1}{}{0}{}
+{1024}{}{}{}{}{}{}
+{1025}{}{}{}{}{}{}
+{1026}{}{}{}{}{}{}
+

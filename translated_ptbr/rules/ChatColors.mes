@@ -1,0 +1,49 @@
+// ChatColors.mes
+// Configures colors in the Arcanum Chatroom
+//
+// Colors to choose from are:
+// 0 - white     - RGB(255,255,255)
+// 1 - red       - RGB(255,  0,  0)
+// 2 - blue      - RGB(0  ,  0,255)
+// 3 - gold      - RGB(255,210,  0)
+// 4 - brown     - RGB( 32, 15,  0)
+// 5 - green     - RGB(  0,255,  0)
+// 6 - purple    - RGB(150,  0,150)
+// 7 - lightblue - RGB( 60,160,255)
+// 8 - orange    - RGB(255,128,  0)
+// 9 - gray      - RGB(128,128,128)
+
+// 100 - Incoming Messages
+{100}{3}
+
+// 101 - Incoming Emotes
+{101}{3}
+
+// 102 - System Info
+{102}{1}
+
+// 103 - Blank Lines (hehe... they don't have colors!
+{103}{0}
+
+// 104 - Outgoing Messages
+{104}{0}
+
+// 105 - Outgoing Emotes
+{105}{0}
+
+// 106 - Incoming Whispers
+{106}{5}
+
+// 107 - Outgoing Whispers
+{107}{5}
+
+// 108 - Who List
+{108}{2}
+
+// 109 - Join Messages
+{109}{0}
+
+// 110 - Leave Messages
+{110}{0}
+
+

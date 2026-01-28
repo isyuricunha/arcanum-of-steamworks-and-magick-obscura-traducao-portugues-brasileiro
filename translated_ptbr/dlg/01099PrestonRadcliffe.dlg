@@ -1,0 +1,13 @@
+{1}{[Diante de você está um gnomo ferido, seu corpo retorcido e queimado. Sua mão se estende em sua direção-em seus dedos, ele segura um anel de prata.] Por favor...não tenho muito tempo [tosse]...você precisa encontrá-lo, levar isso de volta...[Ele lhe entrega o anel.]}{[Diante de você está um gnomo ferido, seu corpo retorcido e queimado. Sua mão se estende em sua direção-em seus dedos, ele segura um anel de prata.] Por favor...não tenho muito tempo [tosse]...você precisa encontrá-lo, levar isso de volta...[Ele lhe entrega o anel.]}{}{}{}{in -2804, re85 }
+{2}{Levar para onde? Do que você está falando?}{}{5}{}{4}{ }
+{3}{O que esse anãozinho bobo tá me dizendo?}{}{-4}{}{4}{ }
+{4}{Sem perguntas...apenas escute...eles estão quase terminando, e então...[Ele levanta a mão enquanto seu corpo é tomado por uma série de tosses explosivas-ela fica coberta de sangue.] Por favor...apenas encontre o garoto e dê o anel a ele...ele saberá o que fazer...}{Sem perguntas...apenas escute...eles estão quase terminando, e então...[Ele levanta a mão enquanto seu corpo é tomado por uma série de tosses explosivas-ela fica coberta de sangue.] Por favor...apenas encontre o garoto e dê o anel a ele...ele saberá o que fazer...}{}{}{}{ }
+{5}{Que garoto? Onde posso encontrá-lo?}{}{5}{}{7}{ }
+{6}{Que garoto?}{}{-4}{}{7}{ }
+{7}{[Seus olhos ficam vidrados, vermelhos e desfocados.] Diga a ele que eu...eu escapei...voltei para...avisar. O mal...oh, deuses...você não consegue imaginar...ele está...ele está voltando para destruir tudo...você...tudo depende de você...[Sua respiração falha no peito e ele luta para se levantar, mas cai de volta, seus olhos se fechando. Ele dá um último suspiro e morre.]}{[Seus olhos ficam vidrados, vermelhos e desfocados.] Diga a ele que eu...eu escapei...voltei para...avisar. O mal...oh, deuses...você não consegue imaginar...ele está...ele está voltando para destruir tudo...você...tudo depende de você...[Sua respiração falha no peito e ele luta para se levantar, mas cai de volta, seus olhos se fechando. Ele dá um último suspiro e morre.]}{}{}{}{gf2129 1, qu1010 2, ru2013 }
+{8}{Descanse em paz, meu amigo gnomo.}{}{5}{ra -5}{-1}{al +25, nk }
+{9}{Descanse em paz, meu irmão.}{}{5}{ra 5}{-1}{al +25, nk }
+{10}{O bobo morreu.}{}{-4}{}{-1}{nk }
+{11}{Bom débarras, gnomo inútil.}{}{5}{ra -5}{-1}{al -25, nk }
+{12}{[Sair]}{}{5}{}{-1}{nk }
+

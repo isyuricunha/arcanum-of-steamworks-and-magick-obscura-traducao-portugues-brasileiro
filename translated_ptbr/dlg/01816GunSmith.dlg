@@ -1,0 +1,58 @@
+{1}{G:}{}{}{}{}{}
+{2}{B:}{}{1}{}{25}{}
+{3}{T:13}{}{1}{}{25}{}
+{4}{Que tipo de mercadorias você tem aqui?}{}{5}{}{36}{}
+{5}{Hã... O que você tem aí?}{}{-4}{}{36}{}
+{6}{C:}{}{1}{}{25}{}
+{7}{E:}{}{1}{}{0}{}
+{8}{[Este lojista parece perceber algo de repente.] Não! Devo insistir que saia da minha loja imediatamente, mago! Não quero que nenhum dos meus finos mecanismos dê defeito por causa da sua presença!}{[Este lojista parece perceber algo de repente.] Não! Devo insistir que saia da minha loja imediatamente, mago! Não quero que nenhum dos meus finos mecanismos dê defeito por causa da sua presença!}{}{}{}{lf1 1}
+{9}{I:}{}{1}{}{0}{re -3}
+{10}{F:}{}{1}{}{0}{re -1}
+{11}{}{}{}{}{}{}
+{12}{}{}{}{}{}{}
+{13}{E:}{}{1}{}{0}{}
+{14}{É bom vê-lo novamente. Em que posso ajudá-lo?}{É bom vê-la novamente. Em que posso ajudá-la?}{}{}{}{}
+{15}{T:13}{}{1}{}{25}{}
+{16}{B:}{}{1}{}{25}{}
+{17}{C:}{}{1}{}{25}{}
+{18}{E:}{}{1}{}{0}{}
+{19}{O senhor parece ser altamente habilidoso nas belas artes da tecnologia. Muito impressionante. Como posso ajudá-lo?}{A senhora parece ser altamente habilidosa nas belas artes da tecnologia. Muito impressionante. Como posso ajudá-la?}{}{}{}{}
+{20}{T:13}{}{1}{}{25}{}
+{21}{Que tipo de mercadorias você tem aqui?}{}{5}{}{36}{}
+{22}{Hã... O que você tem aí?}{}{-4}{}{36}{}
+{23}{B:}{}{1}{}{25}{}
+{24}{E:}{}{1}{}{0}{}
+{25}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{}
+{26}{T:13}{}{1}{}{25}{}
+{27}{C:}{}{1}{}{25}{}
+{28}{B:}{}{1}{}{25}{}
+{29}{Onde posso encontrar um Especialista em Armas de Fogo para me treinar?}{}{5}{tr13 1, tr13 -1}{54}{}
+{30}{Onde tá o cara que ensina tiro?}{}{-4}{tr13 1, tr13 -1}{54}{}
+{31}{}{}{}{}{}{}
+{32}{}{}{}{}{}{}
+{33}{}{}{}{}{}{}
+{34}{}{}{}{}{}{}
+{35}{E:}{}{1}{}{0}{}
+{36}{Vendemos armas de precisão e munição, e até temos alguns itens especiais. Dê uma olhada à vontade, mas tenha cuidado. Se tiver alguma dúvida, é só me avisar.}{Vendemos armas de precisão e munição, e até temos alguns itens especiais. Dê uma olhada à vontade, mas tenha cuidado. Se tiver alguma dúvida, é só me avisar.}{}{}{}{}
+{37}{T:13}{}{1}{}{25}{}
+{38}{C:}{}{1}{}{25}{}
+{39}{B:}{}{1}{}{25}{}
+{40}{E:}{}{1}{}{0}{}
+{41}{O que você quer, @pcname@?}{O que você quer, @pcname@?}{}{}{}{}
+{42}{T:13}{}{1}{}{25}{}
+{43}{B:}{}{1}{}{25}{}
+{44}{C:}{}{1}{}{25}{}
+{45}{E:}{}{1}{}{0}{}
+{46}{Eu já disse para sair antes, mago! Você não pertence a este lugar!}{Eu já disse para sair antes, mago! Você não pertence a este lugar!}{}{}{}{}
+{47}{I:}{}{1}{}{0}{re -3}
+{48}{F:}{}{1}{}{0}{re -1}
+{49}{E:}{}{1}{}{0}{}
+{50}{Já lhe disse antes, você NÃO é bem-vindo aqui, mago! Tem algum problema de audição? Saia daqui!}{Já lhe disse antes, você NÃO é bem-vindo aqui, mago! Tem algum problema de audição? Saia daqui!}{}{}{}{}
+{51}{I:}{}{1}{}{0}{re -3}
+{52}{F:}{}{1}{}{0}{re -1}
+{53}{E:}{}{1}{}{0}{}
+{54}{Provavelmente você encontra alguém para treiná-lo como Especialista em Armas de Fogo em Blackroot. Shrouded Hills pode ser outro bom lugar para procurar.}{Provavelmente você encontra alguém para treiná-lo como Especialista em Armas de Fogo em Blackroot. Shrouded Hills pode ser outro bom lugar para procurar.}{}{}{}{ru 2182}
+{55}{Obrigado.}{}{5}{}{25}{}
+{56}{Valeu.}{}{-4}{}{25}{}
+{57}{E:}{}{1}{}{0}{}
+

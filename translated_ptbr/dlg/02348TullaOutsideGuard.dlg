@@ -1,0 +1,34 @@
+{1}{Saudações, viajante.}{Saudações, viajante.}{}{}{}{}
+{2}{Saudações. Posso entrar?}{}{5}{gf2527 1}{0}{fl 16}
+{3}{Quero entrar aí.}{}{-4}{gf2527 1}{0}{fl 16}
+{4}{O que é este lugar?}{}{5}{gf2527 0, qu1051 0, lf1 0}{17}{lf1 1}
+{5}{O que é este lugar?}{}{-4}{gf2527 0, qu1051 0, lf1 0}{17}{lf1 1}
+{9}{O que é este lugar?}{}{5}{gf2527 0, qa1051 1, lf1 0}{33}{lf1 1}
+{10}{O que é este lugar?}{}{-4}{gf2527 0, qa1051 1, lf1 0}{33}{lf1 1}
+{11}{Saudações. Posso entrar?}{}{5}{lf1 1, qu1051 0, gf2527 0}{42}{}
+{12}{Quero entrar aí.}{}{-4}{lf1 1, qu1051 0, gf2527 0}{42}{}
+{13}{Saudações. Posso entrar?}{}{5}{lf1 1, qa1051 1, gf2527 0}{33}{}
+{14}{Quero entrar aí.}{}{-4}{lf1 1, qa1051 1, gf2527 0}{33}{}
+{15}{E:}{}{1}{}{0}{}
+{16}{Claro. Que os deuses guiem seu caminho.}{Claro. Que os deuses guiem seu caminho.}{}{}{}{}
+{17}{Este lugar é para aqueles que devem estar aqui. Você não é um deles. Por favor, siga seu caminho, se fizer o favor.}{Este lugar é para aqueles que devem estar aqui. Você não é um deles. Por favor, siga seu caminho, se fizer o favor.}{}{}{}{}
+{18}{Como você sabe se eu devo estar aqui ou não?}{}{5}{lf2 0}{0}{lf2 1, fl 31}
+{19}{Como ocê sabe que eu tô destinado a tá aqui ou não?}{}{-4}{lf2 0}{0}{lf2 1, fl 31}
+{20}{A única coisa que vou deixar aqui é o seu cadáver, apodrecendo ao sol!}{}{5}{}{0}{fl 32}
+{21}{Eu vou matar você.}{}{-4}{}{0}{fl 32}
+{29}{Entendo. Adeus.}{}{5}{}{0}{}
+{30}{E:}{}{-4}{}{0}{}
+{31}{Sou o guarda deste lugar. É meu trabalho saber. Adeus, senhor.}{Sou o guarda deste lugar. É meu trabalho saber. Adeus, senhora.}{}{}{}{}
+{32}{[Ele sorri para você.] Muito divertido. Se pretende lutar comigo, prossigamos. Caso contrário, desejo-lhe um afetuoso adeus.}{[Ele sorri para você.] Muito divertido. Se pretende lutar comigo, prossigamos. Caso contrário, desejo-lhe um afetuoso adeus.}{}{}{}{}
+{33}{[Ele o observa por um momento antes de responder.] Ah, é você. Jorian nos disse para esperá-lo. Pode entrar.}{[Ele a observa por um momento antes de responder.] Ah, é você. Jorian nos disse para esperá-la. Pode entrar.}{}{}{}{gf2527 1}
+{34}{Obrigado. Mas quem é Jorian? E o que é este lugar?}{}{5}{}{0}{fl 41}
+{35}{Valeu. Mas quem é Jorian? Que lugar é este?}{}{-4}{}{0}{fl 41}
+{41}{Jorian, o vidente. Ele está lá dentro, esperando por você... e este lugar, este lugar é Tulla, a cidade dos magos. Para entrar, basta passar pelos pilares.}{Jorian, o vidente. Ele está lá dentro, esperando por você... e este lugar, este lugar é Tulla, a cidade dos magos. Para entrar, basta passar pelos pilares.}{}{}{}{}
+{42}{Como já lhe disse, este lugar é para aqueles que devem estar aqui. Por favor, siga seu caminho.}{Como já lhe disse, este lugar é para aqueles que devem estar aqui. Por favor, siga seu caminho.}{}{}{}{}
+{43}{Como você sabe se eu deveria estar aqui ou não?}{}{5}{lf2 0}{0}{lf2 1, fl 31}
+{44}{Como é que cê sabe que eu devia tá aqui ou não?}{}{-4}{lf2 0}{0}{lf2 1, fl 31}
+{45}{A única coisa que vou deixar aqui é o seu cadáver, apodrecendo ao sol!}{}{5}{}{0}{fl 32}
+{46}{Eu vou matar você.}{}{-4}{}{0}{fl 32}
+{54}{Entendo. Adeus.}{}{5}{}{0}{}
+{55}{E:}{}{-4}{}{0}{}
+

@@ -1,0 +1,11 @@
+// Matchmaker.mes
+// configures WON servers
+// Line1: the WON product String (always Arcanum)
+// Line2: the default WON server
+// Line3: the default WON server port
+// Line4: the preferred server list (server:port;server:port;etc)
+{1}{Arcanum}
+{2}{arcanum.m1.sierra.com}
+{3}{15101}
+{4}{arcanum.m1.sierra.com:15101;arcanum.m2.sierra.com:15101;arcanum.m3.sierra.com:15101}
+

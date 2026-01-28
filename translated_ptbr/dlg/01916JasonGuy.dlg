@@ -1,0 +1,134 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá, senhor. Posso saber seu nome?}{}{5}{lf1 0, re 41}{24}{}
+{3}{Não tem modos? Eu só queria perguntar seu nome...}{}{5}{lf1 0, re-40}{24}{}
+{4}{Olá, Jason. Posso lhe fazer algumas perguntas?}{}{5}{lf1 1, re41}{28}{}
+{5}{Sempre tão rude, hein, Jason? Eu tinha algumas perguntas...}{}{5}{lf1 1, re-40}{28}{}
+{15}{Hã... Oi. Qual é o seu nome?}{}{-4}{lf1 0, re 41}{24}{}
+{16}{Que rude! Eu só queria saber seu nome...}{}{-4}{lf1 0, re-40}{24}{}
+{17}{Hã... Oi, Jasun. Posso te perguntar uma coisa?}{}{-4}{lf1 1, re41}{28}{}
+{18}{Você não tem modos, Jasun! Eu queria te perguntar uma coisa!}{}{-4}{lf1 1, re-40}{28}{}
+{19}{Você me treinaria para ser um Especialista em armar e desarmar armadilhas?}{}{5}{tr15 -1}{0}{et15 123}
+{20}{Eu quero ser Exper' em armar e desarmar armadilha...}{}{-4}{tr15 -1}{0}{et15 123}
+{21}{Descobri sinais de tecnologia antiga!}{}{5}{lf8 1, ss19}{134}{}
+{22}{Hã... Eu vi teknawlugia antiga!}{}{-4}{lf8 1, ss19}{134}{}
+{23}{E:}{}{1}{}{0}{}
+{24}{Ah! Claro... claro... Meu nome é Jason. ...Jason C. Guy, para ser exato.}{Ah! Claro... claro... Meu nome é Jason. ...Jason C. Guy, para ser exato.}{}{}{}{lf1 1}
+{25}{O que está fazendo aqui fora, Jason?}{}{5}{}{48}{}
+{26}{O que você está fazendo, Jasun?}{}{-4}{}{48}{}
+{27}{E:}{}{1}{}{0}{}
+{28}{Tem algumas perguntas? Claro. Tenho respostas para muitas perguntas... Em que posso ajudar?}{Tem algumas perguntas? Claro. Tenho respostas para muitas perguntas... Em que posso ajudar?}{}{}{}{}
+{29}{O que está fazendo aqui fora, Jason?}{}{5}{lf2 0}{48}{}
+{30}{Em qual área de estudo você se especializou?}{}{5}{lf3 0}{113}{}
+{31}{O que você sabe sobre o Anel de Brodgar?}{}{5}{lf4 0}{78}{}
+{32}{Você acha que a magia ou a tecnologia prevalecerá no fim?}{}{5}{lf5 0}{90}{}
+{33}{O que você está fazendo aqui, Jasun?}{}{-4}{lf2 0}{48}{}
+{34}{No que você mais estuda?}{}{-4}{lf3 0}{113}{}
+{35}{O que você sabe sobre o Anel de Brawdgar?}{}{-4}{lf4 0}{78}{}
+{36}{Qual você acha que vai durar mais... magia ou teknawlugia?}{}{-4}{lf5 0}{90}{}
+{37}{E:}{}{1}{}{0}{}
+{38}{Há mais alguma coisa que eu possa fazer por você @pcname@?}{Há mais alguma coisa que eu possa fazer por você @pcname@?}{}{}{}{}
+{39}{O que está fazendo aqui fora, Jason?}{}{5}{}{48}{}
+{40}{Em qual área de estudo você se especializou?}{}{5}{}{113}{}
+{41}{O que você sabe sobre o Anel de Brodgar?}{}{5}{}{78}{}
+{42}{Você acha que a magia ou a tecnologia prevalecerá no fim das contas?}{}{5}{}{90}{}
+{43}{O que cê tá fazeno aqui, Jasun?}{}{-4}{}{48}{}
+{44}{O que cê mais estuda?}{}{-4}{}{113}{}
+{45}{Cê num sabe nada sobre o Anel de Brawdgar?}{}{-4}{}{78}{}
+{46}{Qual cê acha que vai durar mais tempo... magia ou tecno-logia?}{}{-4}{}{90}{}
+{47}{E:}{}{1}{}{0}{}
+{48}{Bem, meu bom senhor, estou estudando... Estudando o Anel de Brodgar.}{Bem, minha senhora, estou estudando... Estudando o Anel de Brodgar.}{}{}{}{}
+{49}{Estudando ele? Por quê?}{}{5}{}{52}{}
+{50}{Hã... por quê?}{}{-4}{}{52}{}
+{51}{E:}{}{1}{}{0}{}
+{52}{Sempre fui fascinado pelo Anel de Brodgar. É estranho... os registros sempre mencionam a Espira Negra junto com o Anel de Brodgar, mas seu significado se perdeu na antiguidade... talvez simbolize o poder das barreiras... Não sei. Vim aqui para estudar as barreiras e ver como estão se mantendo.}{Sempre fui fascinado pelo Anel de Brodgar. É estranho... os registros sempre mencionam a Espira Negra junto com o Anel de Brodgar, mas seu significado se perdeu na antiguidade... talvez simbolize o poder das barreiras... Não sei. Vim aqui para estudar as barreiras e ver como estão se mantendo.}{}{}{}{}
+{53}{Barreiras?}{}{5}{}{58}{}
+{54}{Por que não estariam?}{}{5}{}{62}{}
+{55}{Hã... barreiras?}{}{-4}{}{58}{}
+{56}{Por que elas num tão aguentano?}{}{-4}{}{62}{}
+{57}{E:}{}{1}{}{0}{}
+{58}{Sim. A fenda que Nasrudin criou ao banir Arronax exigiu que todos os grandes magos da Era das Lendas erguessem poderosas barreiras ao redor do anel para manter a fenda selada.}{Sim. A fenda que Nasrudin criou ao banir Arronax exigiu que todos os grandes magos da Era das Lendas erguessem poderosas barreiras ao redor do anel para manter a fenda selada.}{}{}{}{}
+{59}{Por que elas não estariam se mantendo?}{}{5}{}{62}{}
+{60}{Por que elas num tão aguentano?}{}{-4}{}{62}{}
+{61}{E:}{}{1}{}{0}{}
+{62}{A tecnologia se espalhou por toda a terra em um ritmo impressionante. Temi que sua propensão pudesse ter enfraquecido as barreiras. É por isso que estou aqui... para verificar a força das barreiras.}{A tecnologia se espalhou por toda a terra em um ritmo impressionante. Temi que sua propensão pudesse ter enfraquecido as barreiras. É por isso que estou aqui... para verificar a força das barreiras.}{}{}{}{}
+{63}{O que você descobriu?}{}{5}{}{66}{}
+{64}{O que cê descobriu?}{}{-4}{}{66}{}
+{65}{E:}{}{1}{}{0}{}
+{66}{Os resultados dos meus estudos são bastante intrigantes. Como suspeitava, as barreiras estão enfraquecendo... Mas a um ritmo muito mais acelerado do que eu havia calculado inicialmente.}{Os resultados dos meus estudos são bastante intrigantes. Como suspeitava, as barreiras estão enfraquecendo... Mas a um ritmo muito mais acelerado do que eu havia calculado inicialmente.}{}{}{}{}
+{67}{O que acontece se as barreiras falharem?}{}{5}{}{70}{}
+{68}{O que acontece se elas num funcionarem mais?}{}{-4}{}{70}{}
+{69}{E:}{}{1}{}{0}{}
+{70}{Tenho certeza de que os grandes magos colocaram barreiras tão poderosas neste lugar por um motivo... Mas muitos anos se passaram. Esse conhecimento se perdeu para nós. Temo que, se falharem, algo terrível acontecerá.}{Tenho certeza de que os grandes magos colocaram barreiras tão poderosas neste lugar por um motivo... Mas muitos anos se passaram. Esse conhecimento se perdeu para nós. Temo que, se falharem, algo terrível acontecerá.}{}{}{}{lf2 1}
+{71}{Isso é muito preocupante.}{}{5}{}{38}{}
+{72}{Pfaw! Eu não acredito nessa conversa de "lenda antiga"!}{}{5}{}{38}{re-3}
+{73}{O que você sabe sobre o Anel de Brodgar?}{}{5}{}{78}{}
+{74}{Oh... Isso não presta.}{}{-4}{}{38}{}
+{75}{Hmph! Eu não acho que essa história seja real!}{}{-4}{}{38}{re-3}
+{76}{O que você sabe sobre o Anel de Brawdgar?}{}{-4}{}{78}{}
+{77}{E:}{}{1}{}{0}{}
+{78}{O Anel de Brodgar é exatamente o local onde Nasrudin baniu o maligno Arronax após sua batalha épica! Aparentemente, o feitiço de banimento criou uma abertura tremenda ou "fenda" entre nosso mundo e o do vazio.}{O Anel de Brodgar é exatamente o local onde Nasrudin baniu o maligno Arronax após sua batalha épica! Aparentemente, o feitiço de banimento criou uma abertura tremenda ou "fenda" entre nosso mundo e o do vazio.}{}{}{}{}
+{79}{O que eles fizeram para fechá-la?}{}{5}{}{82}{}
+{80}{Como eles consertaram isso?}{}{-4}{}{82}{}
+{81}{E:}{}{1}{}{0}{}
+{82}{Os poucos grandes magos que sobreviveram à batalha tiveram que erguer o Anel para selar a fenda. Li que eles colocaram defesas mágicas de poder tremendo por todo o Anel para manter o selo no lugar.}{Os poucos grandes magos que sobreviveram à batalha tiveram que erguer o Anel para selar a fenda. Li que eles colocaram defesas mágicas de poder tremendo por todo o Anel para manter o selo no lugar.}{}{}{}{lf4 1}
+{83}{Isso é incrível. Esses magos devem ter sido muito poderosos.}{}{5}{}{38}{}
+{84}{Não acredito que você realmente engole esse papo furado!}{}{5}{}{38}{}
+{85}{Você acha que a magia ou a tecnologia prevalecerá no fim?}{}{5}{}{90}{}
+{86}{Uau... Esses magos eram fortes mesmo.}{}{-4}{}{38}{}
+{87}{Você é maluco... acreditar nessa bobagem!}{}{-4}{}{38}{}
+{88}{O que você acha que vai durar mais... magia ou tecno<<<PH1>>>logia?}{}{-4}{}{90}{}
+{89}{E:}{}{1}{}{0}{}
+{90}{Estudei muitas coisas. Recebi treinamento tecnológico na grande universidade de Tarant. Também estudei magia na maravilhosa cidade de Tulla. Com todo o meu aprendizado, desenvolvi uma teoria...}{Estudei muitas coisas. Recebi treinamento tecnológico na grande universidade de Tarant. Também estudei magia na maravilhosa cidade de Tulla. Com todo o meu aprendizado, desenvolvi uma teoria...}{}{}{}{}
+{91}{O que é?}{}{5}{}{95}{}
+{92}{Que teoria você desenvolveu?}{}{5}{}{95}{}
+{93}{Hã... o que é?}{}{-4}{}{95}{}
+{94}{E:}{}{1}{}{0}{}
+{95}{Acredito que todas as coisas funcionam em ciclos. Tudo na natureza passa por ciclos de fluxo e refluxo. Acredito que magia e tecnologia não são diferentes. Há apenas um grande problema com minha teoria...}{Acredito que todas as coisas funcionam em ciclos. Tudo na natureza passa por ciclos de fluxo e refluxo. Acredito que magia e tecnologia não são diferentes. Há apenas um grande problema com minha teoria...}{}{}{}{}
+{96}{O que é isso?}{}{5}{}{99}{}
+{97}{Hã... o quê?}{}{-4}{}{99}{}
+{98}{E:}{}{1}{}{0}{}
+{99}{Parece que esta é a primeira aparição da tecnologia. Não há registro histórico de que uma tecnologia avançada tenha existido antes. Como resultado, não consigo provar minha teoria.}{Parece que esta é a primeira aparição da tecnologia. Não há registro histórico de que uma tecnologia avançada tenha existido antes. Como resultado, não consigo provar minha teoria.}{}{}{}{}
+{100}{Uma teoria interessante. Você já procurou por sinais disso?}{}{5}{}{105}{}
+{101}{Hah! Que maluco! Você já procurou por "sinais" disso?}{}{5}{}{105}{re-3}
+{102}{Uau... Você é inteligente! Procurou por essa tecno<<<PH1>>>logia antiga?}{}{-4}{}{105}{}
+{103}{Você é maluco! Ha ha... Procurou por essa tecno<<<PH1>>>logia antiga?}{}{-4}{}{105}{}
+{104}{E:}{}{1}{}{0}{}
+{105}{[suspirando] Extensivamente, e sem sucesso. Ei! Você é um viajante. Se, em todas as suas viagens, encontrar algum sinal de tecnologia antiga, eu ficaria muito grato se me avisasse. Isso ajudaria muito com a minha hipótese.}{[suspirando] Extensivamente, e sem sucesso. Ei! Você é um viajante. Se, em todas as suas viagens, encontrar algum sinal de tecnologia antiga, eu ficaria muito grato se me avisasse. Isso ajudaria muito com a minha hipótese.}{}{}{}{ru2159, lf8 1, lf5 1}
+{106}{Vou te avisar se vir algo.}{}{5}{}{38}{}
+{107}{Humpf... você tem uma imaginação e tanto, Jason...}{}{5}{}{38}{re-3}
+{108}{Em qual área de estudo você se especializou?}{}{5}{}{113}{}
+{109}{Me avisar se me ver.}{}{-4}{}{38}{}
+{110}{Ha! Me acho você doido, Jasun...}{}{-4}{}{38}{}
+{111}{O que você estuda mais?}{}{-4}{}{113}{}
+{112}{E:}{}{1}{}{0}{}
+{113}{Aprendi muitas coisas com as grandes mentes reunidas na grande universidade de Tarant. Meus estudos mais extensivos foram nas faculdades de química e elétrica. Conquistei diplomas completos em ambas as áreas.}{Aprendi muitas coisas com as grandes mentes reunidas na grande universidade de Tarant. Meus estudos mais extensivos foram nas faculdades de química e elétrica. Conquistei diplomas completos em ambas as áreas.}{}{}{}{}
+{114}{E quanto aos seus estudos no campo da magia?}{}{5}{}{117}{}
+{115}{E a magia?}{}{-4}{}{117}{}
+{116}{E:}{}{1}{}{0}{}
+{117}{Tulla é realmente uma cidade de maravilhas. O homem comum não faz nem ideia do poder que existe lá. Após muito estudo e prática exaustiva, consegui dominar a faculdade do temporal.}{Tulla é realmente uma cidade de maravilhas. O homem comum não faz nem ideia do poder que existe lá. Após muito estudo e prática exaustiva, consegui dominar a faculdade do temporal.}{}{}{}{lf3 1}
+{118}{A extensão do seu conhecimento é impressionante, Jason.}{}{5}{}{38}{}
+{119}{O que você está fazendo aqui fora, Jason?}{}{5}{}{48}{}
+{120}{Você é muito inteligente, Jasun.}{}{-4}{}{38}{}
+{121}{O que você tá fazendo aqui, Jasun?}{}{-4}{}{48}{}
+{122}{E:}{}{1}{}{0}{}
+{123}{Ah! Claro. Por uma taxa de 500 moedas, ficarei mais do que feliz em conceder-lhe o título de Especialista.}{Ah! Claro. Por uma taxa de 500 moedas, ficarei mais do que feliz em conceder-lhe o título de Especialista.}{}{}{}{}
+{124}{Sim, por favor. [Você lhe entrega as moedas.]}{}{5}{$$500}{129}{$$-500}
+{125}{Vou precisar juntar algumas moedas primeiro. Volto depois.}{}{5}{$$-499}{0}{}
+{126}{Hã... Sim. [Você lhe entrega as moedas.]}{}{-4}{$$500}{129}{$$-500}
+{127}{Me arrumar mais moeda. Depois volto.}{}{-4}{$$-499}{0}{}
+{128}{F:}{}{1}{}{0}{}
+{129}{Obrigado. [explica as nuances do desarmamento avançado de armadilhas, com ênfase em técnicas de armamento] Agora você é um Especialista em armar e desarmar armadilhas, @pcname@. Caso busque o domínio, precisará viajar até Caladon para treinar com o Mestre, Daniel McPherson.}{Obrigado. [explica as nuances do desarmamento avançado de armadilhas, com ênfase em técnicas de armamento] Agora você é um Especialista em armar e desarmar armadilhas, @pcname@. Caso busque o domínio, precisará viajar até Caladon para treinar com o Mestre, Daniel McPherson.}{}{}{}{tr15 2, rq2184, ru2174}
+{130}{Obrigado. Posso te fazer algumas perguntas?}{}{5}{}{28}{}
+{131}{K:}{}{1}{}{28}{}
+{132}{Valeu. Me pergunta uma coisa?}{}{-4}{}{28}{}
+{133}{E:}{}{1}{}{0}{}
+{134}{Tecnologia antiga! Você encontrou! [extasiado] Eu sabia! Conseguiu determinar o quão avançada era?}{Tecnologia antiga! Você encontrou! [extasiado] Eu sabia! Conseguiu determinar o quão avançada era?}{}{}{}{}
+{135}{Definitivamente maior do que sabemos agora.}{}{5}{}{138}{}
+{136}{É uma teknawlugia bem maior do que a gente tem hoje.}{}{-4}{}{138}{}
+{137}{E:}{}{1}{}{0}{}
+{138}{Eu sabia! Isso prova a minha teoria! [resmungando sozinho] ...e todos me disseram que eu estava louco! [voltando sua atenção ávida para você] Onde? Onde fica essa civilização antiga?}{Eu sabia! Isso prova a minha teoria! [resmungando sozinho] ...e todos me disseram que eu estava louco! [voltando sua atenção ávida para você] Onde? Onde fica essa civilização antiga?}{}{}{}{}
+{139}{Existem ruínas localizadas nos Ermos de Vendegoth.}{}{5}{}{}{fl 142}
+{140}{Hã... Nos Ermos de Vindeegoth...}{}{-4}{}{}{fl 142}
+{141}{E:}{}{1}{}{0}{}
+{142}{Obrigado @pcname@! Você me deu a capacidade de me tornar um grande homem! Vou entrar para a história com essa descoberta! ...Preciso partir imediatamente! Tenho muito a pesquisar. ...Adeus @pcname@.}{Obrigado @pcname@! Você me deu a capacidade de me tornar um grande homem! Vou entrar para a história com essa descoberta! ...Preciso partir imediatamente! Tenho muito a pesquisar. ...Adeus @pcname@.}{}{}{}{rq2159, XP5}
+

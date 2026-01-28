@@ -1,0 +1,408 @@
+{1}{G:}{}{}{}{}{lf2 0 , lf3 0, lf4 0}
+{2}{Saudações e cumprimentos neste belo dia!}{}{5}{lf0 1 , re 41}{-20}{}
+{3}{Saudações e cumprimentos nesta bela noite!}{}{5}{lf0 0 , re 41}{-20}{}
+{4}{Ugh!}{}{-4}{re 41}{-20}{}
+{5}{Por favor, perdoe minha ofensa.}{}{5}{re -40 , ch -12}{-9}{re +10}
+{6}{Com licença? Esse tipo de linguagem não é necessário.}{}{5}{re -40 , ch 13}{-20}{re +10}
+{7}{I:}{}{5}{re -40}{101}{rp -1 , re -5}
+{8}{I:}{}{-4}{re -40}{101}{rp -1 , re -5}
+{9}{E:}{}{5}{}{}{}
+{10}{E:}{}{-4}{}{}{}
+{11}{}{}{}{}{}{}
+{12}{G:}{}{}{}{}{lf2 0 , lf3 0, lf4 0}
+{13}{Prazer em conhecê-lo.}{}{5}{ re 41}{-20}{}
+{14}{Oi, tudo bem?}{}{-4}{re 41}{-20}{}
+{15}{Por favor, me desculpe.}{}{5}{re -40 , ch -12}{-9}{re +5}
+{16}{Com licença? Não há necessidade de ser hostil.}{}{5}{re -40 , ch 13}{-20}{re +5}
+{17}{I:}{}{5}{re -40}{101}{rp -1 , re -5}
+{18}{I:}{}{-4}{re -40}{101}{rp -1 , re -5}
+{19}{E:}{}{5}{}{}{}
+{20}{E:}{}{-4}{}{}{}
+{21}{}{}{}{}{}{}
+{22}{}{}{}{}{}{}
+{23}{G:}{}{}{}{}{lf2 0 , lf3 0, lf4 0}
+{24}{Bom dia para você.}{}{5}{lf0 1 , re 41}{-20}{}
+{25}{Boa noite para você.}{}{5}{lf0 0 , re 41}{-20}{}
+{26}{Urrrp!}{}{-4}{re 41}{-20}{}
+{27}{Desculpe incomodá-lo. Mas, por favor! Será que poderia trocar uma palavra comigo?}{}{5}{re -40 , ch -12}{-9}{re +10}
+{28}{Com licença? Não há necessidade de ser hostil.}{}{5}{re -40 , ch 13}{-20}{re +10}
+{29}{I:}{}{5}{re -40}{101}{rp -1 , re -10}
+{30}{I:}{}{-4}{re -40}{101}{rp -1 , re -10}
+{31}{E:}{}{5}{}{}{}
+{32}{E:}{}{-4}{}{}{}
+{33}{}{}{}{}{}{}
+{34}{G:}{}{}{}{}{lf2 0 , lf3 0, lf4 0}
+{35}{Prazer em conhecê-lo também.}{}{5}{ re 41}{-20}{}
+{36}{bbuuuurrrrrp!}{}{-4}{re 41}{-20}{}
+{37}{Ficaria muito grato se pudesse me conceder um momento.}{}{5}{re -40 , ch -12}{-9}{re +10}
+{38}{Com licença? Não há necessidade de ser hostil.}{}{5}{re -40 , ch 13}{-20}{re +10}
+{39}{I:}{}{5}{re -40}{101}{rp -1 , re -10}
+{40}{I:}{}{-4}{re -40}{101}{rp -1 , re -10}
+{41}{E:}{}{5}{}{}{}
+{42}{E:}{}{-4}{}{}{}
+{43}{}{}{}{}{}{}
+{44}{}{}{}{}{}{}
+{45}{G:}{}{}{}{}{lf2 0 , lf3 0, lf4 0}
+{46}{É um prazer conhecê-lo.}{}{5}{ re 41}{-20}{}
+{47}{yooo hooo! yooo hoooo!}{}{-4}{re 41}{-20}{}
+{48}{Por favor, só um momento do seu tempo. Desculpe ser tão rude.}{}{5}{re -40 , ch -12}{-9}{re +10}
+{49}{Com licença? Não há necessidade de ser hostil.}{}{5}{re -40 , ch 13}{-20}{re +10}
+{50}{I:}{}{5}{re -40}{101}{rp -1 , re -10}
+{51}{I:}{}{-4}{re -40}{101}{rp -1 , re -10}
+{52}{E:}{}{5}{}{}{}
+{53}{E:}{}{-4}{}{}{}
+{54}{}{}{}{}{}{}
+{55}{}{}{}{}{}{}
+{56}{Suponho que tolerarei sua intrusão.}{Suponho que tolerarei sua intrusão.}{}{}{}{}
+{57}{A:}{}{5}{}{-20}{}
+{58}{A:}{}{-4}{}{-20}{}
+{59}{}{}{}{}{}{}
+{60}{}{}{}{}{}{}
+{61}{}{}{}{}{}{}
+{62}{Sua natureza grosseira não me manchará, suponho.}{Sua natureza grosseira não me manchará, suponho.}{}{}{}{}
+{63}{A:}{}{5}{}{-20}{}
+{64}{A:}{}{-4}{}{-20}{}
+{65}{}{}{}{}{}{}
+{66}{}{}{}{}{}{}
+{67}{}{}{}{}{}{}
+{68}{Suportarei sua atenção, por favor, seja breve.}{Suportarei sua atenção, por favor, seja breve.}{}{}{}{}
+{69}{A:}{}{5}{}{-20}{}
+{70}{A:}{}{-4}{}{-20}{}
+{71}{}{}{}{}{}{}
+{72}{}{}{}{}{}{}
+{73}{}{}{}{}{}{}
+{74}{Vejo que vai ser um chato persistente... então é melhor resolvermos isso logo.}{Vejo que vai ser um chato persistente... então é melhor resolvermos isso logo.}{}{}{}{}
+{75}{A:}{}{5}{}{-20}{}
+{76}{A:}{}{-4}{}{-20}{}
+{77}{}{}{}{}{}{}
+{78}{}{}{}{}{}{}
+{79}{}{}{}{}{}{}
+{80}{Ficarei tão feliz quando finalmente partir, mas, infelizmente, parece que precisamos conversar.}{Ficarei tão feliz quando finalmente partir, mas, infelizmente, parece que precisamos conversar.}{}{}{}{}
+{81}{A:}{}{5}{}{-20}{}
+{82}{A:}{}{-4}{}{-20}{}
+{83}{}{}{}{}{}{}
+{84}{}{}{}{}{}{}
+{85}{}{}{}{}{}{}
+{86}{Por favor, seja rápido, senhor, sua presença me incomoda.}{Por favor, seja rápida, madame, sua presença me incomoda.}{}{}{}{}
+{87}{R:($0, 1040-1049)}{}{5}{ss -6}{}{}
+{88}{R:($0, 1040-1059)}{}{5}{ss 7 , ss -13}{}{}
+{89}{R:($0, 1040-1069)}{}{5}{ss 14}{}{}
+{90}{R:($0, 1040-1049)}{}{-4}{ss -6}{}{}
+{91}{R:($0, 1040-1059)}{}{-4}{ss 7 , ss -13}{}{}
+{92}{R:($0, 1040-1069)}{}{-4}{ss 14}{}{}
+{93}{C:}{}{5}{}{127}{}
+{94}{C:}{}{-4}{}{135}{}
+{95}{Poderia me indicar uma loja por perto?}{}{5}{}{-20}{}
+{96}{Onde é um bom lugar para ficar?}{}{5}{}{157}{}
+{97}{O que há para fazer em Tarant?}{}{5}{}{162}{}
+{98}{E:}{}{5}{}{}{}
+{99}{E:}{}{-4}{}{}{}
+{100}{}{}{}{}{}{}
+{101}{I:}{}{}{}{}{}
+{102}{I:}{}{5}{}{101}{rp -1 , re -10}
+{103}{I:}{}{-4}{}{101}{rp -1 , re -10}
+{104}{Vamos parar com essa discussão inútil.}{}{5}{}{-9}{re +10}
+{105}{E:}{}{5}{}{}{}
+{106}{E:}{}{-4}{}{}{}
+{107}{}{}{}{}{}{}
+{108}{}{}{}{}{}{}
+{109}{Mais alguma coisa?}{Mais alguma coisa?}{}{}{}{lf2 0 , lf3 0, lf4 0}
+{110}{R:($0, 1040-1049)}{}{5}{ss -6}{109}{}
+{111}{R:($0, 1040-1059)}{}{5}{ss 7 , ss -13}{109}{}
+{112}{R:($0, 1040-1069)}{}{5}{ss 14}{109}{}
+{113}{R:($0, 1040-1049)}{}{-4}{ss -6}{109}{}
+{114}{R:($0, 1040-1059)}{}{-4}{ss 7 , ss -13}{109}{}
+{115}{R:($0, 1040-1069)}{}{-4}{ss 14}{109}{}
+{116}{Ainda estou procurando uma loja para fazer umas compras.}{}{5}{}{352}{}
+{117}{Onde é um bom lugar para passar a noite?}{}{5}{}{157}{}
+{118}{O que há para fazer em Tarant?}{}{5}{}{162}{}
+{119}{E:}{}{5}{}{}{}
+{120}{E:}{}{-4}{}{}{}
+{121}{}{}{}{}{}{}
+{122}{}{}{}{}{}{}
+{123}{}{}{}{}{}{}
+{124}{}{}{}{}{}{}
+{125}{}{}{}{}{}{}
+{126}{}{}{}{}{}{}
+{127}{Que tipo de loja moderna você está procurando?}{Que tipo de loja moderna você está procurando?}{}{}{}{lf2 1 ,  lf4 1}
+{128}{Um armeiro moderno.}{}{5}{}{167}{}
+{129}{Uma loja de armas modernas.}{}{5}{}{172}{}
+{130}{Uma botica ou farmácia.}{}{5}{}{182}{}
+{131}{Coisas comuns.}{}{5}{lf3 0}{207}{}
+{132}{Mudei de ideia de novo, Coisas Comuns.}{}{5}{lf3 1}{207}{}
+{133}{E:}{}{5}{}{109}{}
+{134}{}{}{}{}{}{}
+{135}{Que tipo de loja de magias refinadas você está procurando?}{Que tipo de loja de magias refinadas você está procurando?}{}{}{}{lf3 1 , lf4 1}
+{136}{Um armeiro de magia.}{}{5}{}{187}{}
+{137}{Uma loja de armas mágicas.}{}{5}{}{192}{}
+{138}{Uma loja de magia.}{}{5}{}{197}{}
+{139}{Por mais improvável que pareça, estou procurando alguns artigos modernos.}{}{5}{lf2 0}{127}{}
+{140}{Pensando melhor, preciso de artigos modernos.}{}{5}{lf 2 1}{127}{}
+{141}{E:}{}{5}{}{109}{}
+{142}{}{}{}{}{}{}
+{143}{Perdoe-me por perguntar, mas você está procurando uma loja que venda itens mágicos ou algo com artigos mais modernos?}{Perdoe-me por perguntar, mas você está procurando uma loja que venda itens mágicos ou algo com artigos mais modernos?}{}{}{}{}
+{144}{Itens mágicos.}{}{5}{}{135}{}
+{145}{Artigos modernos.}{}{5}{}{127}{}
+{146}{Uma loja que vende itens comuns a preços acessíveis.}{}{5}{}{207}{}
+{147}{Isso não é da sua conta.}{}{5}{}{150}{re -5}
+{148}{F:}{}{5}{}{109}{}
+{149}{}{}{}{}{}{}
+{150}{Não quero me intrometer em seus assuntos. Mas é o senhor quem está me pedindo ajuda!}{Não quero me intrometer em seus assuntos. Mas é a senhora quem está me pedindo ajuda!}{}{}{}{}
+{151}{Itens mágicos.}{}{5}{re 45}{127}{}
+{152}{Mercadorias modernas.}{}{5}{re 45}{135}{}
+{153}{Uma loja que vende itens comuns a preços acessíveis.}{}{5}{re 45}{207}{}
+{154}{I:}{}{5}{}{101}{re -5}
+{155}{E:}{}{5}{}{}{}
+{156}{}{}{}{}{}{}
+{157}{Pelo que eu saiba, há pelo menos duas. A Estalagem Bridesdale, na Vermillion, perto da Estação de Trem, é a melhor da cidade. Há também um estabelecimento de hospedagem, o Cortiço do Poone, na Rue De Avellone. Mas eu não recomendaria.}{Pelo que eu saiba, há pelo menos duas. A Estalagem Bridesdale, na Vermillion, perto da Estação de Trem, é a melhor da cidade. Esse é o único lugar na cidade adequado para uma Dama.}{}{}{}{}
+{158}{A:}{}{5}{}{109}{}
+{159}{}{}{}{}{}{}
+{160}{}{}{}{}{}{}
+{161}{}{}{}{}{}{}
+{162}{Por onde devo começar? Tarant é a maior cidade de todo o Arcanum! Há muitas coisas para fazer aqui.}{Por onde devo começar? Tarant é a maior cidade de todo o Arcanum! Há muitas coisas para fazer aqui.}{}{}{}{}
+{163}{Estou interessado em ter minha Sorte revelada.}{}{5}{}{343}{}
+{164}{Quais são as melhores Tabernas por aqui?}{}{5}{}{347}{}
+{165}{Que tipos de diversões e entretenimentos existem aqui?}{}{5}{}{334}{}
+{166}{F:}{}{}{}{-20}{}
+{167}{A Loja de Armaduras Tecnológicas de Qualidade Wallow pode ter o que você precisa. Se alguém tiver, serão eles. Fica na Dollins Turn, ao lado daquela outra loja moderna.}{A Loja de Armaduras Tecnológicas de Qualidade Wallow pode ter o que você precisa. Se alguém tiver, serão eles. Fica na Dollins Turn, ao lado daquela outra loja moderna.}{}{}{}{}
+{168}{A:}{}{5}{}{127}{}
+{169}{}{}{}{}{}{}
+{170}{}{}{}{}{}{}
+{171}{}{}{}{}{}{}
+{172}{O lugar certo para você seria as Armas de Tecnologia de Monroe. Acredito que fica na Dollins Turn, junto com o resto dessas lojas.}{O lugar certo para você seria as Armas de Tecnologia de Monroe. Acredito que fica na Dollins Turn, junto com o resto dessas lojas.}{}{}{}{}
+{173}{A:}{}{5}{}{127}{}
+{174}{}{}{}{}{}{}
+{175}{}{}{}{}{}{}
+{176}{}{}{}{}{}{}
+{177}{O Empório Geral de Tor Lodestone deve ter o que você deseja. O endereço é 55, Kensington Broadway. Uma localização excelente, bem no centro da cidade.}{O Empório Geral de Tor Lodestone deve ter o que você deseja. O endereço é 55, Kensington Broadway. Uma localização excelente, bem no centro da cidade.}{}{}{}{}
+{178}{A:}{}{5}{}{127}{}
+{179}{}{}{}{}{}{}
+{180}{}{}{}{}{}{}
+{181}{}{}{}{}{}{}
+{182}{O Empório Geral de Tor Lodestone deve ter o que você deseja. O endereço é 55, Kensington Broadway. Uma localização excelente, bem no centro da cidade.}{O Empório Geral de Tor Lodestone deve ter o que você deseja. O endereço é 55, Kensington Broadway. Uma localização excelente, bem no centro da cidade.}{}{}{}{}
+{183}{A:}{}{5}{}{127}{}
+{184}{}{}{}{}{}{}
+{185}{}{}{}{}{}{}
+{186}{}{}{}{}{}{}
+{187}{A loja certa para você é a Armeria Mágica de Xe'rad. Acho que eles vendem armas e armaduras em sua loja. Ele fica na 5555 Mystery Lane.}{A loja certa para você é a Armeria Mágica de Xe'rad. Acho que eles vendem armas e armaduras em sua loja. Ele fica na 5555 Mystery Lane.}{}{}{}{}
+{188}{A:}{}{5}{}{135}{}
+{189}{}{}{}{}{}{}
+{190}{}{}{}{}{}{}
+{191}{}{}{}{}{}{}
+{192}{[Abaixando a voz] Ouvi dizer que a Casa de Magia Negra de Zeramin é um lugar assim.}{[Abaixando a voz] Ouvi dizer que a Casa de Magia Negra de Zeramin é um lugar assim.}{}{}{}{}
+{193}{A:}{}{5}{}{135}{}
+{194}{}{}{}{}{}{}
+{195}{}{}{}{}{}{}
+{196}{}{}{}{}{}{}
+{197}{O respeitável Magerium de Barach certamente terá o que você procura. Fica na rua 555, no distrito comercial.}{O respeitável Magerium de Barach certamente terá o que você procura. Fica na rua 555, no distrito comercial.}{}{}{}{}
+{198}{A:}{}{5}{}{135}{}
+{199}{}{}{}{}{}{}
+{200}{}{}{}{}{}{}
+{201}{}{}{}{}{}{}
+{202}{P. Schuyler & Sons fica na Devonshire.}{P. Schuyler & Sons fica na Devonshire.}{}{}{}{}
+{203}{A:}{}{5}{}{135}{}
+{204}{}{}{}{}{}{}
+{205}{}{}{}{}{}{}
+{206}{}{}{}{}{}{}
+{207}{O que exatamente você está procurando?}{O que exatamente você está procurando?}{}{}{}{lf2 1, lf 3 1}
+{208}{Armas comuns e armaduras baratas.}{}{5}{}{216}{}
+{209}{Roupas e vestimentas.}{}{5}{}{221}{}
+{210}{Existe algum mercado onde se possa conseguir... hã, itens "especiais"?}{}{5}{}{226}{}
+{211}{Posso perguntar sobre lojas com itens mágicos?}{}{5}{lf4 0}{135}{}
+{212}{Mudei de ideia novamente, estou procurando uma loja de magia.}{}{5}{lf4 1}{135}{}
+{213}{E:}{}{5}{}{109}{}
+{214}{}{}{}{}{}{}
+{215}{}{}{}{}{}{}
+{216}{O Empório Geral de Castleton, no 555 da Kensington Broadway, deve ter o que você precisa.}{O Empório Geral de Castleton, no 555 da Kensington Broadway, deve ter o que você precisa.}{}{}{}{}
+{217}{A:}{}{5}{}{207}{}
+{218}{}{}{}{}{}{}
+{219}{}{}{}{}{}{}
+{220}{}{}{}{}{}{}
+{221}{Vormans Roupas Finas & Alfaiataria é o melhor lugar da cidade. Boa localização também. Bem na Kensington Broadway, número 5555.}{Vormans Roupas Finas & Alfaiataria é o melhor lugar da cidade. Boa localização também. Bem na Kensington Broadway, número 5555.}{}{}{}{}
+{222}{A:}{}{5}{}{207}{}
+{223}{}{}{}{}{}{}
+{224}{}{}{}{}{}{}
+{225}{}{}{}{}{}{}
+{226}{Acho que existe um lugar assim, se é que realmente sei o que o senhor quer dizer. Fica na Low Dervish Way. Aconselho cautela...}{Acho que existe um lugar assim, se é que realmente sei o que a senhora quer dizer. Fica na Low Dervish Way. Aconselho cautela...}{}{}{}{}
+{227}{A:}{}{5}{}{207}{}
+{228}{}{}{}{}{}{}
+{229}{}{}{}{}{}{}
+{230}{}{}{}{}{}{}
+{231}{Um bom alfaiate.}{Um bom alfaiate.}{}{}{}{}
+{232}{A:}{}{5}{}{207}{}
+{233}{}{}{}{}{}{}
+{234}{}{}{}{}{}{}
+{235}{}{}{}{}{}{}
+{236}{Estou ao seu dispor.}{Estou ao seu dispor.}{}{}{}{}
+{237}{R:($0, 1040-1049)}{}{5}{ss -6}{109}{}
+{238}{R:($0, 1040-1059)}{}{5}{ss 7 , ss -13}{109}{}
+{239}{R:($0, 1040-1069)}{}{5}{ss 14}{109}{}
+{240}{R:($0, 1040-1049)}{}{-4}{ss -6}{109}{}
+{241}{R:($0, 1040-1059)}{}{-4}{ss 7 , ss -13}{109}{}
+{242}{R:($0, 1040-1069)}{}{-4}{ss 14}{109}{}
+{243}{O que pode me dizer sobre Tarant?}{}{5}{}{-15}{}
+{244}{C:}{}{5}{}{109}{}
+{245}{C:}{}{-4}{}{109}{}
+{246}{E:}{}{5}{}{}{}
+{247}{E:}{}{-4}{}{}{}
+{248}{}{}{}{}{}{}
+{249}{}{}{}{}{}{}
+{250}{}{}{}{}{}{}
+{251}{Se puder ajudá-lo, o farei. O que gostaria de saber?}{Se puder ajudá-la, o farei. O que gostaria de saber?}{}{}{}{}
+{252}{R:($0, 1040-1049)}{}{5}{ss -6}{109}{}
+{253}{R:($0, 1040-1059)}{}{5}{ss 7 , ss -13}{109}{}
+{254}{R:($0, 1040-1069)}{}{5}{ss 14}{109}{}
+{255}{R:($0, 1040-1049)}{}{-4}{ss -6}{109}{}
+{256}{R:($0, 1040-1059)}{}{-4}{ss 7 , ss -13}{109}{}
+{257}{R:($0, 1040-1069)}{}{-4}{ss 14}{109}{}
+{258}{Tenho algumas perguntas sobre a Cidade.}{}{5}{}{-15}{}
+{259}{C:}{}{5}{}{109}{}
+{260}{C:}{}{-4}{}{109}{}
+{261}{E:}{}{5}{}{}{}
+{262}{E:}{}{-4}{}{}{}
+{263}{}{}{}{}{}{}
+{264}{}{}{}{}{}{}
+{265}{}{}{}{}{}{}
+{266}{Estou à sua disposição.}{}{}{}{}{}
+{267}{R:($0, 1040-1049)}{}{5}{ss -6}{109}{}
+{268}{R:($0, 1040-1059)}{}{5}{ss 7 , ss -13}{109}{}
+{269}{R:($0, 1040-1069)}{}{5}{ss 14}{109}{}
+{270}{R:($0, 1040-1049)}{}{-4}{ss -6}{109}{}
+{271}{R:($0, 1040-1059)}{}{-4}{ss 7 , ss -13}{109}{}
+{272}{R:($0, 1040-1069)}{}{-4}{ss 14}{109}{}
+{273}{Só algumas perguntas sobre Tarant, se me permite?}{}{5}{}{-15}{}
+{274}{C:}{}{5}{}{109}{}
+{275}{C:}{}{-4}{}{109}{}
+{276}{E:}{}{5}{}{}{}
+{277}{E:}{}{-4}{}{}{}
+{278}{}{}{}{}{}{}
+{279}{}{}{}{}{}{}
+{280}{}{}{}{}{}{}
+{281}{Bem, o que posso fazer por você?}{Bem, o que posso fazer por você?}{}{}{}{}
+{282}{R:($0, 1040-1049)}{}{5}{ss -6}{109}{}
+{283}{R:($0, 1040-1059)}{}{5}{ss 7 , ss -13}{109}{}
+{284}{R:($0, 1040-1069)}{}{5}{ss 14}{109}{}
+{285}{R:($0, 1040-1049)}{}{-4}{ss -6}{109}{}
+{286}{R:($0, 1040-1059)}{}{-4}{ss 7 , ss -13}{109}{}
+{287}{R:($0, 1040-1069)}{}{-4}{ss 14}{109}{}
+{288}{Tenho algumas perguntas sobre a Cidade.}{}{5}{}{-15}{}
+{289}{C:}{}{5}{}{109}{}
+{290}{C:}{}{-4}{}{109}{}
+{291}{E:}{}{5}{}{}{}
+{292}{E:}{}{-4}{}{}{}
+{293}{}{}{}{}{}{}
+{294}{}{}{}{}{}{}
+{295}{}{}{}{}{}{}
+{296}{Como posso ajudá-lo?}{Como posso ajudá-la?}{}{}{}{}
+{297}{R:($0, 1040-1049)}{}{5}{ss -6}{109}{}
+{298}{R:($0, 1040-1059)}{}{5}{ss 7 , ss -13}{109}{}
+{299}{R:($0, 1040-1069)}{}{5}{ss 14}{109}{}
+{300}{R:($0, 1040-1049)}{}{-4}{ss -6}{109}{}
+{301}{R:($0, 1040-1059)}{}{-4}{ss 7 , ss -13}{109}{}
+{302}{R:($0, 1040-1069)}{}{-4}{ss 14}{109}{}
+{303}{Estou procurando algumas informações sobre Tarant.}{}{5}{}{-15}{}
+{304}{C:}{}{5}{}{109}{}
+{305}{C:}{}{-4}{}{109}{}
+{306}{E:}{}{5}{}{}{}
+{307}{E:}{}{-4}{}{}{}
+{308}{}{}{}{}{}{}
+{309}{}{}{}{}{}{}
+{310}{}{}{}{}{}{}
+{311}{}{}{}{}{}{}
+{312}{}{}{}{}{}{}
+{313}{}{}{}{}{}{}
+{314}{}{}{}{}{}{}
+{315}{}{}{}{}{}{}
+{316}{}{}{}{}{}{}
+{317}{}{}{}{}{}{}
+{318}{}{}{}{}{}{}
+{319}{}{}{}{}{}{}
+{320}{}{}{}{}{}{}
+{321}{}{}{}{}{}{}
+{322}{}{}{}{}{}{}
+{323}{}{}{}{}{}{}
+{324}{}{}{}{}{}{}
+{325}{}{}{}{}{}{}
+{326}{}{}{}{}{}{}
+{327}{}{}{}{}{}{}
+{328}{}{}{}{}{}{}
+{329}{}{}{}{}{}{}
+{330}{}{}{}{}{}{}
+{331}{}{}{}{}{}{}
+{332}{}{}{}{}{}{}
+{333}{}{}{}{}{}{}
+{334}{A exposição de H.T. Parnell é extraordinária. Fica na esquina da Kensington com a Desaille. Recomendo fortemente.}{A exposição de H.T. Parnell é extraordinária. Fica na esquina da Kensington com a Desaille. Recomendo fortemente.}{}{}{}{}
+{335}{A:}{}{5}{}{338}{}
+{336}{}{}{}{}{}{}
+{337}{}{}{}{}{}{}
+{338}{Há alguma outra informação que eu possa fornecer?}{Há alguma outra informação que eu possa fornecer?}{}{}{}{}
+{339}{Estou interessado em ter minha Sorte lida.}{}{5}{}{343}{}
+{340}{Quais são as melhores Tabernas por aqui?}{}{5}{}{347}{}
+{341}{Que tipos de diversões e entretenimentos existem aqui?}{}{5}{}{334}{}
+{342}{F:}{}{5}{}{-20}{}
+{343}{Delores Beston e Madame Toussaude são as médiuns espirituais mais conhecidas da Cidade. Delores Beston fica no 555 da Polton Cross. Madame Toussaude está localizada na esquina da Devonshire com a Low Dervish Way.}{Delores Beston e Madame Toussaude são as médiuns espirituais mais conhecidas da Cidade. Delores Beston fica no 555 da Polton Cross. Madame Toussaude está localizada na esquina da Devonshire com a Low Dervish Way.}{}{}{}{}
+{344}{A:}{}{5}{}{338}{}
+{345}{}{}{}{}{}{}
+{346}{}{}{}{}{}{}
+{347}{A Taverna do Grant, na esquina da Kensington com a Devonshire, é um estabelecimento honesto. Se gosta de conviver com a alta sociedade, o Wellington Gentleman's Club fica na Vermillion Road.}{A Taverna do Grant na esquina da Kensington com a Devonshire é um estabelecimento honesto.}{}{}{}{}
+{348}{A:}{}{5}{}{338}{}
+{349}{}{}{}{}{}{}
+{350}{}{}{}{}{}{}
+{351}{}{}{}{}{}{}
+{352}{Você está procurando uma loja que venda artigos de magia, modernos ou comuns?}{Perdoe-me por perguntar, mas você está procurando uma loja que venda itens mágicos ou algo com artigos mais modernos?}{}{}{}{}
+{353}{Itens de magia.}{}{5}{}{135}{}
+{354}{Artigos modernos.}{}{5}{}{127}{}
+{355}{Uma loja que vende itens comuns a preços acessíveis.}{}{5}{}{207}{}
+{356}{Isso não é da sua conta.}{}{5}{}{150}{re -5}
+{357}{F:}{}{5}{}{318}{}
+{358}{}{}{}{}{}{}
+{359}{}{}{}{}{}{}
+{360}{O que você gostaria de saber?}{O que você gostaria de saber?}{}{}{}{}
+{361}{Você poderia me indicar uma loja aqui perto?}{}{5}{ma 20}{360}{}
+{362}{Você poderia me indicar uma loja aqui perto?}{}{5}{ta 20}{135}{}
+{363}{Você poderia me indicar uma loja aqui perto?}{}{5}{ta -19, ma -19}{143}{}
+{364}{Onde é um bom lugar para ficar?}{}{5}{}{134}{}
+{365}{Informações Locais Exclusivas.}{}{5}{}{162}{}
+{366}{O que há para fazer por aqui?}{}{5}{}{162}{}
+{367}{E:}{}{5}{}{}{}
+{368}{}{}{}{}{}{}
+{369}{}{}{}{}{}{}
+{370}{O que você gostaria de saber?}{O que você gostaria de saber?}{}{}{}{}
+{371}{Você poderia me indicar uma loja aqui perto?}{}{5}{ma 20}{370}{}
+{372}{Você poderia me indicar uma loja aqui perto?}{}{5}{ta 20}{135}{}
+{373}{Você poderia me indicar uma loja aqui perto?}{}{5}{ta -19, ma -19}{143}{}
+{374}{Onde é um bom lugar para ficar?}{}{5}{}{134}{}
+{375}{Informações Locais Exclusivas.}{}{5}{}{162}{}
+{376}{O que há para fazer por aqui?}{}{5}{}{162}{}
+{377}{E:}{}{5}{}{}{}
+{378}{}{}{}{}{}{}
+{379}{}{}{}{}{}{}
+{380}{Como posso ajudá-lo?}{Como posso ajudá-lo?}{}{}{}{}
+{381}{Você poderia me indicar uma loja aqui perto?}{}{5}{ma 20}{380}{}
+{382}{Você poderia me indicar uma loja aqui perto?}{}{5}{ta 20}{135}{}
+{383}{Você poderia me indicar uma loja aqui perto?}{}{5}{ta -19, ma -19}{143}{}
+{384}{Onde é um bom lugar para ficar?}{}{5}{}{134}{}
+{385}{Informações Locais Exclusivas.}{}{5}{}{162}{}
+{386}{O que há para fazer por aqui?}{}{5}{}{162}{}
+{387}{E:}{}{5}{}{}{}
+{388}{}{}{}{}{}{}
+{389}{}{}{}{}{}{}
+{390}{Basta pedir, meu amigo.}{Basta pedir, gentil senhora.}{}{}{}{}
+{391}{Você poderia me indicar uma loja aqui perto?}{}{5}{ma 20}{390}{}
+{392}{Poderia me indicar uma loja por perto?}{}{5}{ta 20}{135}{}
+{393}{Poderia me indicar uma loja por perto?}{}{5}{ta -19, ma -19}{143}{}
+{394}{Onde fica um bom lugar para ficar?}{}{5}{}{134}{}
+{395}{Informações Locais Exclusivas.}{}{5}{}{162}{}
+{396}{O que há para fazer por aqui?}{}{5}{}{162}{}
+{397}{E:}{}{5}{}{}{}
+{398}{}{}{}{}{}{}
+{399}{}{}{}{}{}{}
+{400}{Que tipo de ajuda posso lhe oferecer?}{Em que posso ajudá-lo?}{}{}{}{}
+{401}{Poderia me indicar uma loja por perto?}{}{5}{ma 20}{400}{}
+{402}{Poderia me indicar uma loja por perto?}{}{5}{ta 20}{135}{}
+{403}{Poderia me indicar uma loja por perto?}{}{5}{ta -19, ma -19}{143}{}
+{404}{Onde fica um bom lugar para ficar?}{}{5}{}{134}{}
+{405}{Informações Locais Exclusivas.}{}{5}{}{162}{}
+{406}{O que há para fazer por aqui?}{}{5}{}{162}{}
+{407}{E:}{}{5}{}{0}{}
+

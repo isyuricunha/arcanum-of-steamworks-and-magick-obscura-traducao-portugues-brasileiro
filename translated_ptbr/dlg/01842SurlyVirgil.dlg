@@ -1,0 +1,174 @@
+{1}{}{}{}{}{}{}
+{300}{Sim. O que foi?}{Sim. O que foi?}{}{1}{}{}
+{301}{B:}{}{1}{wa 0}{}{}
+{302}{H:}{}{1}{wa 0}{300}{}
+{303}{K:}{}{1}{wa 0}{310}{}
+{304}{Gostaria que você fizesse algo por mim, Virgil...}{}{5}{wa 0}{420}{}
+{305}{Preciso que você faça algo, Voigool.}{}{-4}{wa 0}{420}{}
+{306}{E:}{}{1}{wa 0}{0}{}
+{307}{Você já pode parar de esperar, Virgil...}{}{5}{wa 1}{447}{uw 0 433}
+{308}{Pode parar de esperar agora, Voigool.}{}{-4}{wa 1}{447}{uw 0 433}
+{310}{Bom, por que não?}{Bom, por que não?}{}{2}{}{}
+{311}{Gostaria de saber algumas coisas sobre você, Virgil...}{}{5}{}{}{ce}
+{312}{Quero saber umas coisas. Sobre você. Virgoo.}{}{-4}{}{}{ce}
+{313}{O que devemos fazer agora?}{}{5}{ss 15, ss-15, qb1025 1}{462}{}
+{314}{O que fazemos agora?}{}{-4}{ss 15, ss-15, qb1025 1}{462}{}
+{315}{O que devemos fazer agora?}{}{5}{ss16, ss-16, qb1025 1}{465}{}
+{316}{O que fazemos agora?}{}{-4}{ss16, ss-16, qb1025 1}{465}{}
+{317}{O que devemos fazer agora?}{}{5}{ss17, ss-17, qb1025 1}{468}{}
+{318}{O que fazemos agora?}{}{-4}{ss17, ss-17, qb1025 1}{468}{}
+{319}{O que devemos fazer agora?}{}{5}{ss18, ss-18, qa1027  2}{471}{}
+{320}{O que fazemos agora?}{}{-4}{ss18, ss-18, qa1027  2}{471}{}
+{321}{O que devemos fazer agora?}{}{5}{ss18, ss-18, qa1051  2}{474}{}
+{322}{O que fazemos agora?}{}{-4}{ss18, ss-18, qa1051  2}{474}{}
+{323}{O que devemos fazer agora?}{}{5}{ss19, ss-19, qa1027  2}{477}{}
+{324}{O que fazemos agora?}{}{-4}{ss19, ss-19, qa1027  2}{477}{}
+{325}{O que devemos fazer agora?}{}{5}{ss19, ss-19, qa1051  2}{480}{}
+{326}{O que fazemos agora?}{}{-4}{ss198, ss-19, qa1051  2}{480}{}
+{327}{O que devemos fazer agora?}{}{5}{ss20, ss-21, gf2010 1}{483}{}
+{328}{O que fazemos agora?}{}{-4}{ss20, ss-21, gf2010 1}{483}{}
+{329}{O que devemos fazer agora?}{}{5}{ss20, ss-21, gf2010 0}{486}{}
+{330}{O que fazemos agora, Virgil?}{}{-4}{ss20, ss-21, gf2010 0}{486}{}
+{331}{O que devemos fazer agora?}{}{5}{ss22, ss-22}{489}{}
+{332}{O que fazemos agora?}{}{-4}{ss22, ss-22}{489}{}
+{333}{O que devemos fazer agora?}{}{5}{ss23, ss-23}{492}{}
+{334}{O que fazemos agora?}{}{-4}{ss23, ss-23}{492}{}
+{349}{O que você sabe sobre este lugar?}{}{5}{ia 4}{495}{}
+{350}{O que você sabe sobre este lugar?}{}{-4}{ia 4}{495}{}
+{351}{O que você sabe sobre este lugar?}{}{5}{ss-17, ia 14}{498}{}
+{352}{O que você sabe sobre este lugar?}{}{-4}{ss-17, ia 14}{498}{}
+{353}{O que você sabe sobre este lugar?}{}{5}{ia21}{501}{}
+{354}{O que você sabe sobre este lugar?}{}{-4}{ia21}{501}{}
+{355}{O que devemos fazer agora?}{}{5}{ss15, ss-15, qa1025 2, qb1025 3}{504}{}
+{356}{O que fazemos agora, Virgil?}{}{-4}{ss15, ss-15, qa1025 2}{504}{}
+{359}{O que devemos fazer agora?}{}{5}{ss15, ss-15, qa1026 1, qb1026 2}{507}{}
+{360}{O que fazemos agora, Virgil?}{}{-4}{ss15, ss-15, qa1026 1, qb1026 2}{507}{}
+{361}{O que você sabe sobre este lugar?}{}{5}{ia10, qu1025 2, gf2010 0}{510}{}
+{362}{O que você sabe sobre este lugar?}{}{-4}{ia10, qu1025 2, gf2010 0}{510}{}
+{363}{O que você sabe sobre este lugar?}{}{5}{ia 1, ia -1}{516}{}
+{364}{O que você sabe sobre este lugar?}{}{-4}{ia 1, ia -1}{516}{}
+{365}{Você parece diferente, Virgil. Tem algo errado?}{}{5}{qa1053 0, lf2 0}{519}{lf2 1}
+{367}{Já que Nasrudin ainda está vivo, não posso ser o Vivo, né?}{}{5}{qa1053 1, lf1 0}{513}{lf1 1}
+{368}{Já que Nasrudin ainda está vivo, não posso ser o Vivo, né?}{}{5}{qu1053 0, gf2063 1, lf1 0}{513}{lf1 1}
+{369}{Está chateado comigo? Tem algo que eu possa fazer?}{}{5}{re-20}{530}{}
+{370}{Chateado comigo? O que eu faço pra melhorar?}{}{-4}{re-20}{530}{}
+{418}{E:}{}{1}{}{0}{}
+{419}{Vivo! Hah! Vou dar um jeito nisso, seu porco!}{Vivo! Hah! Vou dar um jeito nisso, seu porco!}{}{3}{}{}
+{420}{Suponho que sim.}{Suponho que sim.}{}{4}{}{}
+{421}{Saia do caminho, Virgil.}{}{5}{}{0}{so}
+{422}{Saia da frente, Virgil!}{}{-4}{}{0}{so}
+{423}{Chegue um pouco mais perto, Virgil.}{}{5}{}{0}{sc}
+{424}{Venha aqui, Virgil!}{}{-4}{}{0}{sc}
+{425}{Espere aqui por um tempo...}{}{5}{wa 0}{436}{wa}
+{426}{Hã... espere aqui um minutinho...}{}{-4}{wa 0}{436}{wa}
+{427}{Pode parar de esperar agora, Virgil.}{}{5}{wa 1}{447}{uw 1 433}
+{428}{Pare de esperar, Virgil!}{}{-4}{wa 1}{447}{uw 1 433}
+{429}{Acho melhor você deixar o grupo.}{}{5}{}{439}{lv}
+{430}{Eu não querer mais você no grupo...}{}{-4}{}{439}{lv}
+{431}{[Voltar]}{}{1}{}{300}{}
+{432}{}{}{}{}{}{}
+{433}{Vamos seguir nosso caminho. Não gosto da ideia de ficar esperando aqui para sempre, sabe.}{Vamos seguir nosso caminho. Não gosto da ideia de ficar esperando aqui para sempre, sabe.}{}{5}{}{}
+{434}{E:}{}{1}{}{0}{}
+{435}{}{}{}{}{}{}
+{436}{Bem, só não me deixe esperando aqui por muito tempo, senhor, ou não estarei aqui quando voltar.}{Bem, só não me deixe esperando aqui por muito tempo, senhora, ou não estarei aqui quando voltar.}{}{6}{}{}
+{437}{E:}{}{1}{}{0}{}
+{438}{}{}{}{}{}{}
+{439}{Tudo bem! Depois de todo esse tempo, ajudando você, matando seus inimigos, e você me abandona assim!}{Tudo bem! Depois de todo esse tempo, ajudando você, matando seus inimigos, e você me abandona assim!}{}{7}{}{lf31 1, re-10}
+{440}{E:}{}{1}{}{0}{}
+{441}{}{}{}{}{}{}
+{442}{[Virgil lança um olhar de desdém para você. Suas palavras transbordam sarcasmo.] Estou tão feliz que esteja a salvo, senhor. Suponho que esteja esperando que eu simplesmente pule de alegria com a oportunidade de aventurar ao seu lado de novo, né? Poucas chances disso, se me permite dizer.}{[Virgil lança um olhar de desdém para você. Suas palavras transbordam sarcasmo.] Estou tão feliz que esteja a salvo, senhora. Suponho que esteja esperando que eu simplesmente pule de alegria com a oportunidade de aventurar ao seu lado de novo, né? Poucas chances disso, se me permite dizer.}{}{8}{}{}
+{443}{Não fique amargo, Virgil. Junte-se a mim de novo, por favor.}{}{5}{}{447}{jo 1 450}
+{444}{Você se junta a mim de novo, tá bom? Eu sinto muito.}{}{-4}{}{447}{jo 1 450}
+{445}{Talvez queira sentir o gosto da minha lâmina, seu tolo!}{}{5}{}{0}{co, fl 419}
+{446}{F:}{}{1}{}{0}{}
+{447}{Me deixe em paz, idiota.}{Me deixe em paz, idiota.}{}{9}{}{}
+{448}{O que foi? Tem algo que eu possa fazer?}{}{1}{re-20}{530}{}
+{449}{E:}{}{1}{}{0}{}
+{450}{Hmmm. Tudo bem, vou viajar com você de novo. Não é como se eu tivesse algo melhor para fazer.}{Hmmm. Tudo bem, vou viajar com você de novo. Não é como se eu tivesse algo melhor para fazer.}{}{10}{}{lf31 0}
+{451}{E:}{}{1}{}{0}{}
+{453}{Bem, já estava na hora de você voltar para me buscar. Eu estava prestes a ir embora. Tenho coisas melhores para fazer do que ficar esperando por você aqui.}{Bom, já estava na hora de você voltar para me buscar. Eu estava prestes a ir embora. Tenho coisas melhores para fazer do que ficar esperando por você aqui.}{}{11}{}{}
+{454}{Vamos, Virgil.}{}{5}{}{447}{jo 1 458}
+{455}{Vamos agora, Virgool!}{}{-4}{}{447}{jo 1 458}
+{456}{E:}{}{1}{}{0}{}
+{457}{}{}{}{}{}{}
+{458}{Bom, eu não estava esperando aqui pelo simples prazer de fazê-lo. Vamos partir antes que eu mude de ideia.}{Bom, eu não estava esperando aqui pelo simples prazer de fazê-lo. Vamos partir antes que eu mude de ideia.}{}{12}{}{}
+{459}{E:}{}{1}{}{0}{}
+{462}{Aquela "Dama Prateada" sabe o que tudo isso significa, tenho certeza. E é melhor que ela seja franca com as informações que precisamos sobre esse "Arronax", ou talvez tenhamos que simplesmente atear fogo na vila élfica, hein? Hahahah. [Ele dá um tapa nas suas costas.]}{Aquela "Dama Prateada" sabe o que tudo isso significa, tenho certeza. E é melhor que ela seja franca com as informações que precisamos sobre esse "Arronax", ou talvez tenhamos que simplesmente atear fogo na vila élfica, hein? Hahahah. [Ele dá um tapa nas suas costas.]}{}{13}{}{}
+{463}{K:}{}{1}{}{300}{}
+{464}{E:}{}{1}{}{0}{}
+{465}{A Dama Prateada não nos disse nada! O que diabos significa "nossa resposta está com Nasrudin" em nome dos deuses? Já estou farto desse mistério sem sentido. [Ele reflete por um momento.] Vamos para Caladon, os restos de Nasrudin estão enterrados sob o templo Panarii lá. Aquela velha bruxa deve estar se referindo a isso, hein?}{A Dama Prateada não nos disse nada! O que diabos significa "nossa resposta está com Nasrudin" em nome dos deuses? Já estou farto desse mistério sem sentido. [Ele reflete por um momento.] Vamos para Caladon, os restos de Nasrudin estão enterrados sob o templo Panarii lá. Aquela velha bruxa deve estar se referindo a isso, hein?}{}{14}{}{}
+{466}{K:}{}{1}{}{300}{}
+{467}{E:}{}{1}{}{0}{}
+{468}{Bom, obviamente, devemos ir a Thanatos procurar o verdadeiro túmulo de Nasrudin. Não gosto nem um pouco disso, quero dizer, não é chamada de Ilha da Morte à toa.}{Bom, obviamente, devemos ir a Thanatos procurar o verdadeiro túmulo de Nasrudin. Não gosto nem um pouco disso, quero dizer, não é chamada de Ilha da Morte à toa.}{}{15}{}{}
+{469}{K:}{}{1}{}{300}{}
+{470}{E:}{}{1}{}{0}{}
+{471}{Vamos buscar aquele dispositivo de Vendigroth para aquele velho maluco, K'an Hua.}{Vamos buscar aquele dispositivo de Vendigroth para aquele velho maluco, K'an Hua.}{}{16}{}{}
+{472}{K:}{}{1}{}{300}{}
+{473}{E:}{}{1}{}{0}{}
+{474}{Vamos buscar aquele dispositivo de Vendigroth para aquele velho maluco Nasrudin.}{Vamos buscar aquele dispositivo de Vendigroth para aquele velho maluco Nasrudin.}{}{17}{}{}
+{475}{K:}{}{1}{}{300}{}
+{476}{E:}{}{1}{}{0}{}
+{477}{[Virgil parece irritado com você.] Você não escuta? Devíamos nos encontrar com K'an Hua no Círculo de Brodgar.}{[Virgil parece irritado com você.] Você não escuta? Devíamos nos encontrar com K'an Hua no Círculo de Brodgar.}{}{18}{}{}
+{478}{K:}{}{1}{}{300}{}
+{479}{E:}{}{1}{}{0}{}
+{480}{[Virgil parece irritado com você.] Você não escuta? Agora que temos o dispositivo, devíamos nos encontrar com Nasrudin no Círculo de Brodgar.}{[Virgil parece irritado com você.] Você não escuta? Agora que temos o dispositivo, devíamos nos encontrar com Nasrudin no Círculo de Brodgar.}{}{19}{}{}
+{481}{K:}{}{1}{}{300}{}
+{482}{E:}{}{1}{}{0}{}
+{483}{Tudo o que precisamos fazer é encontrar Arronax. Tenho que dizer, quero apertar a mão daquele sujeito. Ele sabia o que tinha que fazer e fez. Não deu ouvidos àqueles membros do conselho sem espinha quando tentaram enfraquecer sua determinação!}{Tudo o que precisamos fazer é encontrar Arronax. Tenho que dizer, quero apertar a mão daquele sujeito. Ele sabia o que tinha que fazer e fez. Não deu ouvidos àqueles membros do conselho sem espinha quando tentaram enfraquecer sua determinação!}{}{20}{}{}
+{484}{K:}{}{1}{}{300}{}
+{485}{E:}{}{1}{}{0}{}
+{486}{Bom, era para isso que nossa missão estava apontando o tempo todo, não é? [Ele sorri, descontroladamente. Você não tem certeza, mas acha que vê um toque de loucura em seus olhos.] Precisamos localizar e matar o notório Arronax. Eu, pelo menos, mal posso esperar. Esta deve ser uma batalha gloriosa!}{Bom, era para isso que nossa missão estava apontando o tempo todo, não é? [Ele sorri, descontroladamente. Você não tem certeza, mas acha que vê um toque de loucura em seus olhos.] Precisamos localizar e matar o notório Arronax. Eu, pelo menos, mal posso esperar. Esta deve ser uma batalha gloriosa!}{}{21}{}{}
+{487}{K:}{}{1}{}{300}{}
+{488}{E:}{}{1}{}{0}{}
+{489}{Não consigo acreditar em como Arronax ficou fraco! Permitir ser capturado assim. Estou ansioso para encontrar esse Kerghan. Quero ver o homem que derrotou o infame Arronax.}{Não consigo acreditar em como Arronax ficou fraco! Permitir ser capturado assim. Estou ansioso para encontrar esse Kerghan. Quero ver o homem que derrotou o infame Arronax.}{}{22}{}{}
+{490}{K:}{}{1}{}{300}{}
+{491}{E:}{}{1}{}{0}{}
+{492}{Droga! Parece que deveríamos ter guardado aquele dispositivo de Vendigroth. É melhor encontrarmos essa arma poderosa de que aquele sujeito, Bane, falou.}{Droga! Parece que deveríamos ter guardado aquele dispositivo de Vendigroth. É melhor encontrarmos essa arma poderosa de que aquele sujeito, Bane, falou.}{}{23}{}{}
+{493}{K:}{}{1}{}{300}{}
+{494}{E:}{}{1}{}{0}{}
+{495}{Caladon. Eu, hã, morei aqui uma vez. [Ele olha ao redor, nervoso.] Odeio este lugar.}{Caladon. Eu, hã, morei aqui uma vez. [Ele olha ao redor, nervoso.] Odeio este lugar.}{}{24}{}{}
+{496}{K:}{}{1}{}{300}{}
+{497}{E:}{}{1}{}{0}{}
+{498}{Este é o Círculo de Brodgar. Os Panarii costumavam ter alguns negócios com ele. Acho que era importante para eles, por algum motivo.}{Este é o Anel de Brodgar. Os Panarii costumavam ter algum tipo de relação com ele. Acho que era importante para eles, por algum motivo.}{}{25}{}{}
+{499}{K:}{}{1}{}{300}{}
+{500}{E:}{}{1}{}{0}{}
+{501}{Tarant? Eu não, hã, sei muito sobre o lugar. [Virgil parece desconfortável.] Não gosto muito de cidades... sempre me sinto tão apertado, cercado. Prefiro não falar mais sobre isso...}{Tarant? Eu não, hã, sei muito sobre o lugar. [Virgil parece desconfortável.] Não gosto muito de cidades... sempre me sinto tão apertado, cercado. Prefiro não falar mais sobre isso...}{}{26}{}{}
+{502}{K:}{}{1}{}{300}{}
+{503}{E:}{}{1}{}{0}{}
+{504}{Não tenho certeza do porquê você fez isso, mas nos comprometeu a massacrar todos em Stillwater, então suponho que esse seja nosso próximo passo. Estou começando a ver a força da sua determinação, e isso me impressiona.}{Não tenho certeza do porquê você fez isso, mas nos comprometeu a massacrar todos em Stillwater, então suponho que esse seja nosso próximo passo. Estou começando a ver a força da sua determinação, e isso me impressiona.}{}{27}{}{}
+{505}{K:}{}{1}{}{300}{}
+{506}{E:}{}{1}{}{0}{}
+{507}{Obviamente, precisamos encontrar K'an Hua. Devo dizer que fiquei impressionado com a crueldade que você demonstrou em Stillwater. Bem feito.}{Obviamente, precisamos encontrar K'an Hua. Devo dizer que fiquei impressionado com a crueldade que você demonstrou em Stillwater. Bem feito.}{}{28}{}{}
+{508}{K:}{}{1}{}{300}{}
+{509}{E:}{}{1}{}{0}{}
+{510}{Stillwater? [Ele sorri, maliciosamente.] Eu sei que todas essas pessoas estão prestes a morrer.}{Stillwater? [Ele sorri, maliciosamente.] Eu sei que todas essas pessoas estão prestes a morrer.}{}{29}{}{}
+{511}{K:}{}{1}{}{300}{}
+{512}{E:}{}{1}{}{0}{}
+{513}{O quê, aquele velho tolo? Ele está morto há séculos, simplesmente não está ciente disso. Você tem o verdadeiro espírito de Nasrudin, despejando morte sobre aqueles que se opõem a você! Não entendo de religiões, profecias ou reencarnações, mas você provou ser digno da minha lealdade.}{O quê, aquele velho tolo? Ele está morto há séculos, simplesmente não está ciente disso. Você tem o verdadeiro espírito de Nasrudin, despejando morte sobre aqueles que se opõem a você! Não entendo de religiões, profecias ou reencarnações, mas você provou ser digno da minha lealdade.}{}{30}{}{}
+{514}{K:}{}{1}{}{300}{}
+{515}{E:}{}{1}{}{0}{}
+{516}{Este lugar? Sabe... foi aqui que todo esse circo sangrento começou. O Vivo retornando em asas de fogo e tudo mais. As coisas eram bem diferentes naquela época, não?}{Este lugar? Sabe... foi aqui que todo esse circo sangrento começou. O Vivo retornando em asas de fogo e tudo mais. As coisas eram bem diferentes naquela época, não?}{}{31}{}{}
+{517}{K:}{}{1}{}{300}{}
+{518}{E:}{}{1}{}{0}{}
+{519}{Algum problema? De jeito nenhum. Se é que posso dizer, estou mais eu mesmo do que estive em muito tempo. Você me mostrou que não preciso viver seguindo algum código moral ridiculamente rígido. Posso ser quem eu quiser e quando quiser. Então não há nada de errado comigo. Na verdade, eu deveria te agradecer. Então, obrigado...}{Algum problema? De jeito nenhum. Se é que posso dizer, estou mais eu mesmo do que estive em muito tempo. Você me mostrou que não preciso viver seguindo algum código moral ridiculamente rígido. Posso ser quem eu quiser e quando quiser. Então não há nada de errado comigo. Na verdade, eu deveria te agradecer. Então, obrigado...}{}{32}{}{}
+{520}{K:}{}{1}{}{300}{}
+{521}{E:}{}{1}{}{0}{}
+{530}{O que você pode fazer por mim? Hmmm... gostei do som disso. Acho que uma garrafa de um bom absinto velho cairia bem agora.}{O que você pode fazer por mim? Hmmm... gostei do som disso. Acho que uma garrafa de um bom absinto velho cairia bem agora.}{}{34}{}{}
+{531}{Certamente, isso não é necessário?}{}{5}{ch17}{540}{re+20}
+{532}{Claro, tenho um pouco aqui mesmo.}{}{5}{in3617, ch-16}{-2}{re+20}
+{533}{Eu peguei isso! Eu dou para você!}{}{-4}{in3617, ch-16}{-2}{re+20}
+{534}{Entendo. Talvez eu consiga um pouco para você, Virgil...}{}{5}{in-3617, ch-16}{0}{fl 560}
+{535}{Talvez eu consiga um pouco para você, Voibal.}{}{-4}{in-3617, ch-16}{0}{fl 560}
+{536}{Estou cansado dos seus choramingos. Não tenho tempo para essa bobagem.}{}{5}{}{0}{re-5, fl 570}
+{537}{Você é bobo. Eu não vou pegar isso.}{}{-4}{}{0}{re-5, fl 570}
+{540}{Claro, você tem razão. Não preciso disso. Em que eu estava pensando?}{Claro, você tem razão. Não preciso disso. Em que eu estava pensando?}{}{35}{}{}
+{541}{Vamos lá.}{}{5}{pa6409}{0}{}
+{542}{Você vai se juntar a mim novamente, Virgil?}{}{5}{pa-6409}{447}{jo 0 450}
+{550}{[Ele arranca a garrafa de você e a bebe de um só gole.] Eu precisava disso. Obrigado. Você não é tão ruim assim, afinal.}{[Ele arranca a garrafa de você e a bebe de um só gole.] Eu precisava disso. Obrigado. Você não é tão ruim assim, afinal.}{}{36}{}{}
+{551}{Vamos lá.}{}{5}{pa6409}{0}{}
+{552}{Vamos agora.}{}{-4}{pa6409}{0}{}
+{553}{Você vai se juntar a mim novamente, Virgil?}{}{5}{pa-6409}{447}{jo 0 450}
+{554}{Junte-se a mim!}{}{-4}{pa-6409}{447}{jo 0 450}
+{560}{Veja se faz isso, ou não estarei por perto para salvá-lo por muito mais tempo.}{Veja bem, ou não estarei por perto para salvá-lo por muito mais tempo.}{}{37}{}{}
+{570}{Vou aguentar você só até certo ponto antes de ir embora... "amigo".}{Vou aguentar você só até certo ponto antes de ir embora... "amigo".}{}{38}{}{}
+

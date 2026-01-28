@@ -1,0 +1,113 @@
+{1}{G:}{}{}{}{}{lf 13 0, lf 14 0}
+{2}{Olá. }{}{5}{lf1 0, re 41}{25}{}
+{3}{O senhor sempre cumprimenta novos clientes dessa maneira?!}{}{5}{lf1 0, re -40}{19}{}
+{4}{Olá, Estalajadeiro. Posso incomodá-lo por um momento?}{}{5}{lf1 1, re 41}{25}{}
+{5}{Hmm... Posso lhe fazer uma pergunta, Estalajadeiro?}{}{5}{lf1 1, re -40}{25}{}
+{13}{Poderia responder algumas perguntas sobre este <<<PH1>>>?}{}{5}{in5671}{93}{}
+{14}{Quem ocê é?}{}{-4}{lf1 0, re 41}{25}{}
+{15}{Quem é você, seu chato?}{}{-4}{lf1 0, re -40}{19}{}
+{16}{Falar com Estalajadeiro?}{}{-4}{lf1 1, re 41}{25}{}
+{17}{Hã... Eu pergunto pro Estalajadeiro uma coisa?}{}{-4}{lf1 1, re -40}{25}{}
+{18}{E:}{}{1}{}{0}{}
+{19}{Nós não servimos o seu tipo aqui. Saia das dependências ou serei forçado a chamar a guarda.}{Nós não servimos o seu tipo aqui. Saia das dependências ou serei forçado a chamar a guarda.}{}{}{}{}
+{20}{Hã... Eu "tenho" moedas...}{}{5}{}{83}{}
+{21}{Humpf! Vou levar minhas moedas para outro lugar então!}{}{5}{}{83}{}
+{22}{Hã... Eu tenho moedas...}{}{-4}{}{83}{}
+{23}{Pfaw! Eu levo moeda pra lugar melhor que esse!}{}{-4}{}{83}{}
+{24}{F:}{}{1}{}{0}{}
+{25}{Em que posso ajudá-lo?}{Em que posso ajudá-lo?}{}{}{}{}
+{26}{Gostaria de um quarto para esta noite.}{}{5}{lf 10 0}{45}{}
+{27}{Vou ficar na cidade por um tempo. Gostaria de um quarto para uma semana.}{}{5}{ha7, lf 10 0}{52}{}
+{28}{Vou ficar na cidade por um tempo. Gostaria de um quarto para uma semana.}{}{5}{ha-6, lf 10 0}{57}{}
+{29}{Eu fico aqui 'sta noite?}{}{-4}{lf 10 0}{45}{}
+{30}{Eu ficar aqui muito tempo. Eu querer quarto por semana?}{}{-4}{ha7, lf 10 0}{52}{}
+{31}{Eu ficar aqui muito tempo. Eu querer quarto por semana?}{}{-4}{ha-6, lf 10 0}{57}{}
+{32}{C:}{}{1}{}{35}{}
+{33}{E:}{}{1}{}{0}{}
+{34}{}{}{}{}{}{}
+{35}{Há mais alguma coisa?}{Há mais alguma coisa?}{}{}{}{}
+{36}{Gostaria de um quarto para esta noite.}{}{5}{lf 10 0}{45}{}
+{37}{Vou ficar na cidade por um tempo. Gostaria de um quarto para uma semana.}{}{5}{ha7, lf 10 0}{52}{}
+{38}{Vou ficar na cidade por um tempo. Gostaria de um quarto para uma semana.}{}{5}{ha-6, lf 10 0}{57}{}
+{39}{Eu fico aqui 'sta noite?}{}{-4}{lf 10 0}{45}{}
+{40}{Eu ficar aqui muito tempo. Eu querer quarto por semana?}{}{-4}{ha7, lf 10 0}{52}{}
+{41}{Eu ficar aqui muito tempo. Eu querer quarto por semana?}{}{-4}{ha-6, lf 10 0}{57}{}
+{42}{C:}{}{1}{lf 14 0}{35}{lf 14 1}
+{43}{E:}{}{1}{}{0}{}
+{44}{}{}{}{}{}{}
+{45}{Ah, claro, senhor. Isso custará 25 moedas, por favor.}{Ah, claro, senhora. Isso custará 25 moedas, por favor.}{}{}{}{}
+{46}{Aqui estão.}{}{5}{$$ 25}{-2}{$$-25, lf 10 1}
+{47}{Oh! Isso é um pouco caro... [suspiro] Aqui.}{}{5}{$$ 25}{-2}{$$-25, lf 10 1}
+{48}{Hã... aqui.}{}{-4}{$$ 25}{-2}{$$-25, lf 10 1}
+{49}{Oh! Isso é muito... [suspiro] Aqui.}{}{-4}{$$ 25}{-2}{$$-25, lf 10 1}
+{50}{Tudo bem, mas agora tenho algumas outras perguntas.}{}{5}{}{35}{}
+{51}{Hã... Eu tenho mais perguntas.}{}{-4}{}{35}{}
+{52}{Ah, sim, senhor! Ficaria muito feliz se o senhor abençoasse meu estabelecimento com sua presença por uma estadia prolongada. Hmm... [reflete um momento] Por demonstrar tamanha preferência, reduzirei a tarifa para 130 moedas pela semana completa.}{Ah, sim, senhora! Ficaria muito feliz se a senhora abençoasse meu estabelecimento com sua presença por uma estadia prolongada. Hmm... [reflete um momento] Por demonstrar tamanha preferência, reduzirei a tarifa para 130 moedas pela semana completa.}{}{}{}{}
+{53}{Obrigado. Aqui.}{}{5}{$$ 130}{-5}{$$-130, lf 10 1}
+{54}{Hã... Valeu. Aqui.}{}{-4}{$$ 130}{-5}{$$-130, lf 10 1}
+{55}{Tudo bem, mas agora tenho algumas outras perguntas.}{}{5}{}{35}{}
+{56}{Hã... Eu tenho mais perguntas.}{}{-4}{}{35}{}
+{57}{Oh! Mas é claro... A diária de uma semana custa 175 moedas, senhor.}{Oh! Mas é claro... A diária de uma semana custa 175 moedas, senhora.}{}{}{}{}
+{58}{Obrigado. Aqui.}{}{5}{$$ 175}{-5}{$$-175, lf 10 1}
+{59}{O quê! Vocês não oferecem desconto para pagamento adiantado?}{}{5}{}{78}{}
+{60}{Hã... Valeu. Aqui.}{}{-4}{$$ 175}{-5}{$$-175, lf 10 1}
+{61}{O quê! Não fica mais barato ficar mais tempo?}{}{-4}{}{78}{}
+{62}{Tudo bem, mas agora tenho algumas outras perguntas.}{}{5}{}{35}{}
+{63}{Hã... Eu tenho mais perguntas.}{}{-4}{}{35}{}
+{64}{Muito obrigado, senhor! O senhor encontrará seu quarto logo ali no corredor. A porta estará destrancada. Espero que aproveite sua estadia.}{Muito obrigada, senhora! A senhora encontrará seu quarto logo ali no corredor. A porta estará destrancada. Espero que aproveite sua estadia.}{}{}{}{}
+{65}{Obrigado.}{}{5}{}{0}{}
+{66}{Hã... V-valeu.}{}{-4}{}{0}{}
+{67}{K:}{}{1}{}{35}{}
+{68}{C:}{}{1}{lf 14 0}{35}{lf 14 1}
+{69}{E:}{}{1}{}{0}{}
+{71}{Muito obrigado, senhor! O senhor encontrará seu quarto logo ali no corredor. A porta estará destrancada. Espero que aproveite sua estadia.}{Muito obrigada, senhora! A senhora encontrará seu quarto logo ali no corredor. A porta estará destrancada. Espero que aproveite sua estadia.}{}{}{}{}
+{72}{Obrigado.}{}{5}{}{0}{}
+{73}{Hã... V-valeu.}{}{-4}{}{0}{}
+{74}{K:}{}{1}{}{35}{}
+{75}{C:}{}{1}{lf 14 0}{35}{lf 14 1}
+{76}{E:}{}{1}{}{0}{}
+{78}{Sinto muito, senhor. As reservas têm estado extremamente movimentadas ultimamente. Estou bastante surpreso por ainda termos um quarto disponível. Tenho certeza de que não durará muito, caso o senhor decida recusá-lo.}{Sinto muito, senhora. As reservas têm estado extremamente movimentadas ultimamente. Estou bastante surpresa por ainda termos um quarto disponível. Tenho certeza de que não durará muito, caso a senhora decida recusá-lo.}{}{}{}{}
+{79}{[suspiro] Aqui.}{}{5}{$$ 175}{-5}{$$-175, lf 10 1}
+{80}{[suspiro] Aqui.}{}{-4}{$$ 175}{-5}{$$-175, lf 10 1}
+{81}{Tudo bem, mas agora tenho algumas outras perguntas.}{}{5}{}{35}{}
+{82}{Hã... Eu tenho mais perguntas.}{}{-4}{}{35}{}
+{83}{Oh!... Peço desculpas, senhor! Confundi-o com outra pessoa. Como posso ajudá-lo?}{Oh!... Peço desculpas, senhora! Confundi-a com outra pessoa. Como posso ajudá-la?}{}{}{}{}
+{84}{Gostaria de um quarto para esta noite.}{}{5}{lf 10 0}{45}{}
+{85}{Vou ficar na cidade por um tempo. Gostaria de um quarto para uma semana.}{}{5}{ha7, lf 10 0}{52}{}
+{86}{Vou ficar na cidade por um tempo. Gostaria de um quarto para uma semana.}{}{5}{ha-6, lf 10 0}{57}{}
+{87}{Eu fico aqui 'sta noite?}{}{-4}{lf 10 0}{45}{}
+{88}{Eu ficar aqui muito tempo. Eu querer quarto por semana?}{}{-4}{ha7, lf 10 0}{52}{}
+{89}{Eu ficar aqui muito tempo. Eu querer quarto por semana?}{}{-4}{ha-6, lf 10 0}{57}{}
+{90}{C:}{}{1}{lf 14 0}{35}{lf 14 1}
+{91}{E:}{}{1}{}{0}{}
+{93}{Fósforos? [olha para eles] Sim... Este é um dos nossos pacotes de fósforos. Que pergunta o senhor tem sobre ele?}{Fósforos? [olha para eles] Sim... Este é um dos nossos pacotes de fósforos. Que pergunta a senhora tem sobre ele?}{}{}{}{}
+{94}{Eu o encontrei em um homem morto no acidente do IFS Zéfiro. O senhor o conhecia?}{}{5}{}{97}{}
+{95}{E:}{}{1}{}{0}{}
+{97}{Não... Eu não conhecia ninguém... Espere! Sim... Sim. Havia uma pessoa que poderia ser...}{Não... Eu não conhecia ninguém... Espere! Sim... Sim. Havia uma pessoa que poderia ser...}{}{}{}{}
+{98}{Quem?}{}{5}{}{100}{}
+{99}{E:}{}{1}{}{0}{}
+{100}{Bem... É uma história realmente muito estranha. Certa noite, notei todo tipo de luz e som estranhos emanando do Anel. Pouco depois que o tumulto cessou, um homem abatido e desgrenhado chegou aqui, perguntando sobre um quarto para a noite. O pobre coitado parecia bastante assustador.}{Bem... É uma história realmente muito estranha. Certa noite, notei todo tipo de luz e som estranhos emanando do Anel. Pouco depois que o tumulto cessou, um homem abatido e desgrenhado chegou aqui, perguntando sobre um quarto para a noite. O pobre coitado parecia bastante assustador.}{}{}{}{}
+{101}{Sério? O que havia de tão estranho nele?}{}{5}{}{104}{}
+{102}{Como ele era?}{}{5}{}{104}{}
+{103}{E:}{}{1}{}{0}{}
+{104}{Ele tinha uma aparência bastante estranha, magro, barbeado, mas com as feições e roupas de um anão... No entanto, ele não poderia ser um anão! "Nenhum" anão que eu já tenha ouvido falar sacrificaria sua barba à navalha... Até hoje não posso dizer que realmente soube sua raça.}{Ele tinha uma aparência bastante estranha, magro, barbeado, mas com as feições e roupas de um anão... No entanto, ele não poderia ser um anão! "Nenhum" anão que eu já tenha ouvido falar sacrificaria sua barba à navalha... Até hoje não posso dizer que realmente soube sua raça.}{}{}{}{}
+{105}{Que estranho...}{}{5}{}{108}{}
+{106}{Havia mais alguma coisa?}{}{5}{}{108}{}
+{107}{E:}{}{1}{}{0}{}
+{108}{Ele não tinha moedas consigo. ...Eu estava prestes a mandá-lo embora, quando ele me ofereceu uma excepcionalmente fina lâmina anã como compensação. Uma peça linda, inscrita com as iniciais B.M.C. Ela alcançou um bom preço quando a vendi...}{Ele não tinha moedas consigo. ...Eu estava prestes a mandá-lo embora, quando ele me ofereceu uma excepcionalmente fina lâmina anã como compensação. Uma peça linda, inscrita com as iniciais B.M.C. Ela alcançou um bom preço quando a vendi...}{}{}{}{}
+{109}{Ele com certeza devia ser um anão! Havia mais alguma coisa?}{}{5}{}{112}{}
+{110}{Ele disse algo para o senhor?}{}{5}{}{112}{}
+{111}{E:}{}{1}{}{0}{}
+{112}{A única outra pergunta que ele me fez foi sobre a rota mais rápida para Tarant. Eu lhe disse que normalmente era uma viagem longa, mas que ele estava com sorte! A viagem inaugural do IFS Zéfiro estaria partindo de Caladon em breve. Com certeza seria a maneira mais rápida de chegar a Tarant.}{A única outra pergunta que ele me fez foi sobre a rota mais rápida para Tarant. Eu lhe disse que normalmente era uma viagem longa, mas que ele estava com sorte! A viagem inaugural do IFS Zéfiro estaria partindo de Caladon em breve. Com certeza seria a maneira mais rápida de chegar a Tarant.}{}{}{}{}
+{113}{Não foi sorte que levou as pessoas a bordo daquele navio amaldiçoado...}{}{5}{}{116}{}
+{114}{...ou o caminho mais rápido para a morte.}{}{5}{}{116}{}
+{115}{E:}{}{1}{}{0}{}
+{116}{Sim... o Zéfiro foi uma tragédia incrível. Ah, sim... Eu o avisei de que ele precisaria de identificação adequada para embarcar. Ele parecia do tipo que não teria algo assim, então o encaminhei para um homem de quem ouvi falar em Caladon, o Sr. Razzia, um sujeito meio sombrio, mas útil quando se trata de passaportes...}{Sim... o Zéfiro foi uma tragédia incrível. Ah, sim... Eu o avisei de que ele precisaria de identificação adequada para embarcar. Ele parecia do tipo que não teria algo assim, então o encaminhei para um homem de quem ouvi falar em Caladon, o Sr. Razzia, um sujeito meio sombrio, mas útil quando se trata de passaportes...}{}{}{}{gf2410 1}
+{117}{Então ele disse que ia embarcar no Zéfiro? O senhor tem certeza?}{}{5}{}{120}{}
+{118}{Então ele partiu para o Zéfiro... O senhor tem certeza disso?}{}{5}{}{120}{}
+{119}{E:}{}{1}{}{0}{}
+{120}{Ele me agradeceu e foi para o quarto. Quando acordei na manhã seguinte, ele tinha ido embora. Não disse uma palavra... apenas partiu. Ah, bem, eu lhe disse que ele era estranho. Enfim, essa é a única pessoa que conheço que poderia ter estado naquele voo amaldiçoado.}{Ele me agradeceu e foi para o quarto. Quando acordei na manhã seguinte, ele tinha ido embora. Não disse uma palavra... apenas partiu. Ah, bem, eu lhe disse que ele era estranho. Enfim, essa é a única pessoa que conheço que poderia ter estado naquele voo amaldiçoado.}{}{}{}{}
+{121}{Obrigado pela informação.}{}{5}{}{0}{}
+{122}{K:}{}{5}{}{35}{}
+{123}{E:}{}{1}{}{0}{}
+

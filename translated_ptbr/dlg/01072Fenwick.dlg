@@ -1,0 +1,190 @@
+{1}{G: 1 20, 2 20, 3 20, 4 26, 5 20, 6 20, 7 28, 8 36}{G: 1 20, 2 20, 3 20, 4 26, 5 20, 6 20, 7 28, 8 36}{}{}{}{}
+{2}{Quem é você?}{}{5}{gf1055 0, lf1 0, lf5 0, re41}{43}{lf1 1}
+{3}{Quem é você?}{}{5}{gf1055 1, lf1 0, lf5 0, re41}{51}{lf1 1}
+{4}{Preciso falar com o Dr. Fenwick sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 0, gf1055 0, lf5 0, re41}{62}{}
+{5}{Preciso falar com você sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 1, gf1055 0, lf2 0, lf5 0, re41}{78}{}
+{6}{Preciso falar com o Dr. Fenwick sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 0, gf1055 1, lf5 0, re41}{70}{}
+{7}{Preciso falar com você sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 1, gf1055 1, lf2 0, lf5 0, lf6 0, re41}{85}{}
+{8}{Trouxe o Gigante de Stillwater para lhe mostrar. [Mostre-lhe a armadilha.]}{}{5}{lf2 1, in5610, lf5 0, re41}{96}{}
+{9}{Tem certeza de que o gigante é uma farsa? Preciso encontrar uma pele de um.}{}{5}{lf3 0, ni 5612, lf5 0, lf4 1, re41}{105}{}
+{10}{Peço desculpas pela intrusão, bom senhor.}{}{5}{re-40}{195}{re+10}
+{11}{Preciso falar com você sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 1, gf1055 1, lf2 0, lf5 0, lf6 1, re41}{78}{}
+{12}{Não gostei do seu tom de voz. Sugiro que peça desculpas.}{}{5}{ch-13, re-40}{220}{re-10}
+{13}{Eu truxe gigante.}{}{-4}{lf2 1, in5610, lf5 0}{159}{}
+{14}{Quem é você?}{}{-4}{gf1055 0, lf1 0, lf5 0}{43}{lf1 1}
+{15}{Quem é você?}{}{-4}{gf1055 1, lf1 0, lf5 0}{51}{lf1 1}
+{16}{Eu falo com Fen maluco sobre gigante de guerra parada.}{}{-4}{gf2125 1, gf1055 0, lf2 0, lf5 0, lf1 1}{149}{}
+{17}{Eu falo com Fen maluco sobre gigante de guerra parada.}{}{-4}{gf2125 1, gf1055 1, lf2 0, lf5 0, lf1 1}{172}{}
+{18}{Eu lhe agradeceria se mudasse seu tom, senhor.}{}{5}{ch14, re-40}{225}{re+20}
+{19}{E:}{}{1}{}{0}{}
+{20}{Heh! A maioria dos "Usuários de Magick" gosta de ser sutil, mas isso não é para você, né?}{Heh! A maioria dos "Usuários de Magick" gosta de ser sutil, mas isso não é para você, né?}{}{}{}{}
+{21}{Ostentar meu talento não era minha intenção. Posso lhe fazer algumas perguntas?}{}{5}{}{125}{}
+{24}{Quão sutil você acha que é morrer de uma morte lenta e dolorosa?}{}{5}{}{0}{fl  176 , co}
+{25}{E:}{}{5}{}{0}{}
+{26}{Quem deixou esse animal entrar aqui? Malditos assistentes não sabem preparar espécimes para dissecação, de qualquer forma. Eu mesmo cuidarei deste.}{Quem deixou esse animal entrar aqui? Malditos assistentes não sabem preparar espécimes para dissecação, de qualquer forma. Eu mesmo cuidarei deste.}{}{}{}{}
+{27}{Béé.}{}{1}{}{0}{co}
+{28}{Heh heh. Por aqui gostamos de usar algumas roupas, garoto.}{Uau. Não estamos acostumados com mulheres andando por aí em estado de nudez. Eu, por exemplo, acho que deveria haver mais disso.}{}{}{}{}
+{29}{Desculpe pela falta de roupas, mas poderia lhe fazer algumas perguntas?}{}{5}{}{125}{}
+{30}{Quem é você?}{}{-4}{gf1055 0, lf1 0, lf5 0}{43}{lf1 1}
+{31}{Quem é você?}{}{-4}{gf1055 1, lf1 0, lf5 0}{51}{lf1 1}
+{32}{Eu falo com Fen maluco sobre gigante de guerra parada.}{}{-4}{gf2125 1, gf1055 0, lf2 0, lf5 0}{149}{}
+{33}{Eu falo com Fen maluco sobre gigante de guerra parada.}{}{-4}{gf2125 1, gf1055 1, lf2 0, lf5 0}{172}{}
+{34}{tchau.}{}{-4}{}{0}{}
+{35}{E:}{}{5}{}{0}{}
+{36}{Para que toda essa roupa agora?}{Normalmente não vemos roupas assim por aqui, mas devo dizer, a senhora as usa bem, madame. Quanto menos roupas nas mulheres, melhor, eu sempre digo.}{}{}{}{}
+{37}{Desculpe minha vestimenta, mas poderia lhe fazer algumas perguntas?}{}{5}{}{125}{}
+{38}{Quem é você?}{}{-4}{gf1055 0, lf1 0, lf5 0}{43}{lf1 1}
+{39}{Quem é você?}{}{-4}{gf1055 1, lf1 0, lf5 0}{51}{lf1 1}
+{40}{Eu falo com Fen maluco sobre gigante de guerra parada.}{}{-4}{gf2125 1, gf1055 0, lf2 0, lf5 0}{149}{}
+{41}{Eu falo com Fen maluco sobre gigante de guerra parada.}{}{-4}{gf2125 1, gf1055 1, lf2 0, lf5 0}{172}{}
+{42}{tchau.}{}{-4}{}{0}{}
+{43}{Bem, se você insiste em saber, sou o chefe desta Sociedade Zoológica aqui. Dr. Tristan Fenwick, sou eu. Às suas ordens, e toda essa bobagem.}{Bem, se você insiste em saber, sou o chefe desta Sociedade Zoológica aqui. Dr. Tristan Fenwick, sou eu. Às suas ordens, e toda essa bobagem.}{}{}{}{}
+{44}{O senhor é o Dr. Fenwick? O senhor não é o que eu esperava.}{}{5}{gf2125 1}{58}{}
+{45}{Dr. Fenwick, estou aqui para falar com o senhor sobre o Gigante de Stillwater.}{}{5}{gf2125 1}{78}{}
+{46}{O que a Sociedade Zoológica faz?}{}{5}{}{120}{}
+{47}{Você é maluco, Fen?}{}{-4}{gf2125 1}{144}{}
+{48}{Eu falo com Fen maluco sobre gigante de guerra parado.}{}{-4}{gf2125 1}{149}{}
+{49}{Guby.}{}{-4}{}{0}{}
+{50}{E:}{}{5}{}{0}{}
+{51}{Bem, se você insiste em saber, sou o chefe desta Sociedade Zoológica aqui. Dr. Tristan Fenwick, sou eu. Por que você está cheirando a urina de urso, garoto?}{Bem, se você insiste em saber, sou o chefe desta Sociedade Zoológica aqui. Dr. Tristan Fenwick, sou eu. Por que você está cheirando a urina de urso, jovem senhorita?}{}{}{}{lf1 1}
+{52}{É porque, hã, não é importante. O senhor é realmente o Dr. Fenwick?}{}{5}{gf2125 1}{58}{}
+{53}{Dr. Fenwick, estou aqui para falar com o senhor sobre o Gigante de Stillwater.}{}{5}{gf2125 1}{78}{}
+{54}{O que a Sociedade Zoológica faz?}{}{5}{}{120}{}
+{55}{Você é maluco, Fen?}{}{-4}{gf2125 1}{144}{}
+{56}{Eu falo com Fen maluco sobre gigante de guerra parado.}{}{-4}{gf2125 1}{149}{}
+{57}{E:}{}{5}{}{0}{}
+{58}{Sim. Isso acontece muito comigo. A maioria das pessoas me confunde com o zelador ou algo assim. Deve ser porque não me interesso por toda essa baboseira pomposa que a maioria dos "Doutores" fala, eu acho.}{Sim. Isso acontece muito comigo. A maioria das pessoas me confunde com o zelador ou algo assim. Deve ser porque não me interesso por toda essa baboseira pomposa que a maioria dos "Doutores" fala, eu acho.}{}{}{}{}
+{59}{Dr. Fenwick, estou aqui para falar com o senhor sobre o Gigante de Stillwater.}{}{5}{gf2125 1}{78}{}
+{60}{O que a Sociedade Zoológica faz?}{}{5}{}{120}{}
+{61}{E:}{}{5}{}{0}{}
+{62}{Dr. Tristan Fenwick, sou eu. Às suas ordens, e toda essa bobagem.}{Dr. Tristan Fenwick, sou eu. Às suas ordens, e toda essa bobagem.}{}{}{}{lf1 1}
+{63}{O senhor é o Dr. Fenwick? O senhor não é o que eu esperava.}{}{5}{gf2125 1}{58}{}
+{64}{Dr. Fenwick, estou aqui para falar com o senhor sobre o Gigante de Stillwater.}{}{5}{gf2125 1}{78}{}
+{65}{O que a Sociedade Zoológica faz?}{}{5}{}{120}{}
+{69}{E:}{}{5}{}{0}{}
+{70}{Dr. Tristan Fenwick, sou eu. Às suas ordens, e toda essa bobagem. Por que você está cheirando a urina de urso, garoto?}{Dr. Tristan Fenwick, sou eu. Às suas ordens, e toda essa bobagem. Por que você está cheirando a urina de urso, jovem senhorita?}{}{}{}{lf1 1}
+{71}{É porque, hã, não é importante. O senhor é realmente o Dr. Fenwick?}{}{5}{gf2125 1}{58}{}
+{72}{Dr. Fenwick, estou aqui para falar com o senhor sobre o Gigante de Stillwater.}{}{5}{gf2125 1}{78}{}
+{73}{O que a Sociedade Zoológica faz?}{}{5}{}{120}{}
+{77}{E:}{}{5}{}{0}{}
+{78}{O Gigante de Stillwater? O que tem ele? Por favor, me diga que não é mais uma teoria maluca. As únicas teorias malucas que valem a pena são as minhas, e não se esqueça disso. Heh, heh.}{O Gigante de Stillwater? O que tem ele? Por favor, me diga que não é mais uma teoria maluca. As únicas teorias malucas que valem a pena são as minhas, e não se esqueça disso. Heh, heh.}{}{}{}{}
+{79}{Eu o capturei! [Mostre-lhe a armadilha.]}{}{5}{in 5610}{96}{}
+{80}{Eu o capturei, mas não o tenho comigo.}{}{5}{ni 5610}{91}{}
+{84}{Nesse caso, é melhor eu refinar minhas teorias. Tenha um bom dia.}{}{5}{}{0}{}
+{85}{O Gigante de Stillwater? O que tem ele? Por favor, me diga que não é mais uma teoria maluca. As únicas teorias malucas que valem a pena são as minhas, e não se esqueça disso. Heh, heh. Que diabos é esse cheiro? Cheira a urina de urso!}{O Gigante de Stillwater? O que tem ele? Por favor, me diga que não é mais uma teoria maluca. As únicas teorias malucas que valem a pena são as minhas, e não se esqueça disso. Heh, heh. Que diabos é esse cheiro? Cheira a urina de urso!}{}{}{}{}
+{86}{Não sei, mas capturei o Gigante! [Mostre-lhe a armadilha.]}{}{5}{in 5610}{96}{}
+{87}{Não sei. Capturei o Gigante, mas não o tenho comigo.}{}{5}{ni 5610}{91}{}
+{90}{Nesse caso, é melhor eu refinar minhas teorias. Tenha um bom dia.}{}{5}{}{0}{}
+{91}{Isso é ótimo! Capturou o gigante! Eu adoraria ver isso.}{Isso é ótimo! Capturou o gigante! Eu adoraria ver isso.}{}{}{}{lf2 1}
+{92}{É verdade. Vou buscá-lo e trazê-lo de volta.}{}{5}{}{0}{}
+{93}{Não preciso do seu deboche, senhor. Tenha um bom dia.}{}{5}{}{0}{}
+{96}{Hahahahahahaha. Ah, eu simplesmente adoro seus trotes práticos. Um coelho azul! Hah! Bom trabalho de pintura, porém.}{Hahahahahahaha. Ah, eu simplesmente adoro seus trotes práticos. Um coelho azul! Hah! Bom trabalho de pintura, porém.}{}{}{}{ru2102}
+{97}{É o gigante, não um coelho. Você sabe que ele é um metamorfo, certo?}{}{5}{}{99}{}
+{98}{O Dr. Hippington o examinou e me garantiu que é o gigante.}{}{5}{lf4 0}{110}{}
+{99}{Você não pode honestamente acreditar em toda essa baboseira sobre o Gigante de Stillwater, pode? Hah! Gigantopithecus Arcanus! Eu adoro isso! Tudo isso é uma farsa, garoto!}{Você não pode honestamente acreditar em toda essa baboseira sobre o Gigante de Stillwater, pode? Hah! Gigantopithecus Arcanus! Eu adoro isso! Tudo isso é uma farsa, jovem senhorita!}{}{}{}{gf1054 1}
+{100}{Não pode ser uma farsa. Preciso encontrar o pelo de um.}{}{5}{}{105}{}
+{101}{O Dr. Hippington tem evidências extensas que apoiam sua existência.}{}{5}{lf4 0}{110}{}
+{104}{Não preciso do seu deboche, senhor. Tenha um bom dia.}{}{5}{}{0}{}
+{105}{O único lugar onde você encontrará algo tão obviamente fraudulento é no museu de H.T. Parnell. Acho que eles até têm um pelo montado às pressas do "Gigante de Stillwater" em exposição.}{O único lugar onde você encontrará algo tão obviamente fraudulento é no museu de H.T. Parnell. Acho que eles até têm um pelo montado às pressas do "Gigante de Stillwater" em exposição.}{}{}{}{lf3 1, gf1063 1, ru2103}
+{106}{Não posso acreditar nisso. E as teorias do Dr. Hippington?}{}{5}{lf4 0}{110}{lf5 1}
+{107}{... mas eu preciso do pelo?}{}{-4}{lf4 0}{169}{}
+{108}{jhuujk.}{}{-4}{}{0}{}
+{109}{Obrigado pelo conselho. Tenha um bom dia.}{}{5}{}{0}{lf5 1}
+{110}{Hippington? Ele pirou completamente! Pobre coitado, convencido de que o gigante é real. Suas evidências são todas baseadas em um esqueleto mal reconstruído, composto por ossos de gigante misturados com ossos de macaco e sabe-se lá que outras bugigangas. Ele nunca foi muito brilhante.}{Hippington? Ele pirou completamente! Pobre coitado, convencido de que o gigante é real. Suas evidências são todas baseadas em um esqueleto mal reconstruído, composto por ossos de gigante misturados com ossos de macaco e sabe-se lá que outros tipos de tranqueiras. Ele nunca foi muito brilhante.}{}{}{}{lf4 1}
+{111}{Ele diz que você é um gênio.}{}{5}{}{115}{}
+{112}{Isso não pode ser uma farsa. Preciso encontrar o couro de um.}{}{5}{lf3 0}{105}{}
+{113}{Isso é realmente triste. Preciso ir embora.}{}{5}{}{0}{}
+{115}{Heh! Isso prova que ele é louco. Me chamar de gênio, imagine só. Se eu fosse um gênio, estaria ganhando dinheiro de verdade em vez de trabalhar aqui.}{Heh! Isso prova que ele é louco. Me chamar de gênio, imagine só. Se eu fosse um gênio, estaria ganhando dinheiro de verdade em vez de trabalhar aqui.}{}{}{}{}
+{116}{Farsa ou não, preciso encontrar o couro de um, de alguma forma.}{}{5}{lf3 0}{105}{}
+{117}{E:}{}{5}{}{0}{}
+{120}{Well, according to the catalogue, we "deal with animals and animal life, including the study of the structure, physiology, development, and classification of animals". Some would say we just waste the taxpayers' coin.
+        }{Well, according to the catalogue, we "deal with animals and animal life, including the study of the structure, physiology, development, and classification of animals". Some would say we just waste the taxpayers' coin.
+        }{}{}{}{}
+{121}{Posso lhe fazer algumas perguntas?}{}{5}{}{125}{}
+{122}{Obrigado pelo seu tempo.}{}{5}{}{0}{}
+{125}{Pode perguntar.}{Pode perguntar.}{}{}{}{}
+{126}{Quem é você?}{}{5}{gf1055 0, lf1 0}{43}{lf1 1}
+{127}{Quem é você?}{}{5}{gf1055 1, lf1 0}{51}{lf1 1}
+{128}{Preciso falar com o Dr. Fenwick sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 0, gf1055 0}{62}{}
+{129}{Preciso falar com você sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 1, gf1055 0, lf2 0}{78}{}
+{130}{Preciso falar com o Dr. Fenwick sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 0, gf1055 1}{70}{}
+{131}{Preciso falar com você sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 1, gf1055 1, lf2 0}{85}{}
+{132}{Eu trouxe o Gigante de Stillwater para lhe mostrar. [Mostre-lhe a armadilha.]}{}{5}{lf2 1, in5610}{96}{}
+{133}{Tem certeza de que o gigante é uma farsa? Preciso encontrar o couro de um.}{}{5}{lf3 0, ni 5612, lf4 1}{105}{}
+{143}{E:}{}{5}{}{0}{}
+{144}{Sim. Ouço isso muito. A maioria das pessoas me confunde com o zelador ou algo assim. O que há com você? Tem um olhar idiota, garoto.}{Sim. Ouço isso muito. A maioria das pessoas me confunde com o zelador ou algo assim. O que há com você? Tem um olhar idiota, garotinha.}{}{}{}{}
+{145}{Eu falo com Fen maluco sobre gigante de guerra ainda.}{}{-4}{gf2125 1}{149}{}
+{146}{goo ber.}{}{-4}{}{0}{}
+{149}{O Gigante de Stillwater? Posso entender por que alguém com sua inteligência limitada acreditaria nele, são as pessoas normais que me deixam perplexo. É uma farsa. O que tem isso?}{O Gigante de Stillwater? Posso entender por que alguém com sua inteligência limitada acreditaria nele, são as pessoas normais que me deixam perplexo. É uma farsa. O que tem isso?}{}{}{}{}
+{150}{Consegui! [Mostre-lhe a armadilha.]}{}{-4}{in 5610}{159}{}
+{151}{Consegui!}{}{-4}{ni 5610}{155}{lf2 1}
+{152}{tchau.}{}{-4}{}{0}{}
+{155}{Tenho certeza que sim. Adoraria ver. Por favor, volte e sente-se comigo um pouco sempre que tiver vontade. Você me diverte, garoto.}{Tenho certeza que sim. Adoraria ver. Por favor, volte e sente-se comigo um pouco sempre que tiver vontade. Você me diverte, garotinha.}{}{}{}{}
+{156}{goo by}{}{-4}{}{0}{}
+{159}{Uau. Você pintou esse coelho sozinho? Isso é hilário! Quem te colocou nisso?}{Uau. Você pintou esse coelho sozinho? Isso é hilário! Quem te colocou nisso?}{}{}{}{ru2102}
+{160}{Hippintom?}{}{-4}{}{164}{}
+{161}{Eu o peguei. Preciso do couro do gigante.}{}{-4}{}{169}{}
+{164}{Hippington? Pobre coitado, ainda tentando provar que o gigante existe. Não acredito que ele tenha caído tão baixo.}{Hippington? Pobre coitado, ainda tentando provar que o gigante existe. Não acredito que ele tenha caído tão baixo.}{}{}{}{lf4 1}
+{165}{... mas preciso do couro?}{}{-4}{}{169}{}
+{169}{O velho H.T. Parnell tem uma falsa em exposição... VÁ PERGUNTAR NO MUSEU.}{O velho H.T. Parnell tem uma falsa em exposição... VÁ PERGUNTAR NO MUSEU.}{}{}{}{gf1063 1, ru2103}
+{170}{Valeu.}{}{-4}{}{0}{lf5 1}
+{172}{Você sabe que está fedendo a urina de urso? Precisa aprender a se lavar melhor, garoto. Agora, sobre o Gigante de Stillwater. É falso. Mais alguma coisa?}{Você sabe que está fedendo a urina de urso? Precisa aprender a se lavar melhor, garota. Agora, sobre o Gigante de Stillwater. É falso. Mais alguma coisa?}{}{}{}{}
+{173}{Consegui! [Mostre a armadilha para ele.]}{}{-4}{in 5610}{159}{}
+{174}{Consegui!}{}{-4}{ni 5610}{155}{lf2 1}
+{175}{tchau.}{}{-4}{}{0}{}
+{176}{Hehe! Pode vir, garoto!}{Hehe! Pode vir, mocinha!}{}{}{}{}
+{178}{Por que está fazendo isso comigo? Deixe-me descansar.}{Por que está fazendo isso comigo? Deixe-me descansar.}{}{}{}{}
+{179}{Como faço o Gigante de Stillwater se transformar?}{}{5}{gf1054 0, gf1057 1, ni 5610}{185}{}
+{180}{Onde posso conseguir a pele do Gigante de Stillwater?}{}{5}{qa1043 1, gf1093 0, ni5612, ni5613, gf1054 1}{189}{}
+{181}{Como faço o Gigante de Stillwater se transformar?}{}{5}{gf1054 0, in 5610}{192}{}
+{182}{E:}{}{1}{}{0}{}
+{185}{Hahahahah! Você me chamou de volta por isso? Não existe Gigante de Stillwater. É uma farsa! Depois você vai me mostrar um coelho azul!}{Hahahahah! Você me chamou de volta por isso? Não existe Gigante de Stillwater. É uma farsa! Depois você vai me mostrar um coelho azul!}{}{}{}{gf1054 1, ru2102}
+{186}{Preciso da pele do Gigante de Stillwater, de qualquer forma.}{}{5}{qa1043 1, gf1093 0, ni5613}{189}{}
+{187}{E:}{}{5}{}{0}{}
+{189}{O Empório de Maravilhas do H.T. Parnell tem uma falsa em exposição. Esse é o único lugar no mundo onde você pode encontrar uma.}{O Empório de Maravilhas do H.T. Parnell tem uma falsa em exposição. Esse é o único lugar no mundo onde você pode encontrar uma.}{}{}{}{gf1054 1, ru2103}
+{190}{E:}{}{5}{}{0}{}
+{192}{Hahahahah! Você me chamou de volta por isso? Não existe Gigante de Stillwater. É uma farsa! Gostei do tom de azul que você pintou nesse coelho, porém.}{Hahahahah! Você me chamou de volta por isso? Não existe Gigante de Stillwater. É uma farsa! Gostei do tom de azul que você pintou nesse coelho, porém.}{}{}{}{gf1054 1, ru2102}
+{193}{Preciso da pele do Gigante de Stillwater, de qualquer forma.}{}{5}{qa1043 1, gf1093 0, ni5613}{189}{}
+{194}{E:}{}{5}{}{0}{}
+{195}{Não sei. Geralmente não gosto dos do seu tipo.}{Não sei. Geralmente não gosto dos do seu tipo.}{}{}{}{}
+{196}{Vou tentar me comportar da melhor maneira possível. Tenho apenas algumas perguntas.}{}{5}{}{200}{re+10}
+{197}{Nunca gostei dos do seu tipo, porco. Acho que vou te matar agora.}{}{5}{}{0}{fl 176 ,co}
+{198}{Então vou indo.}{}{5}{}{0}{}
+{200}{Acho que posso tolerar você por alguns minutos. Você não parece tão ruim quanto a maioria do seu tipo. O que você quer?}{Acho que posso tolerar você por alguns minutos. Você não parece tão ruim quanto a maioria do seu tipo. O que você quer?}{}{}{}{}
+{201}{Quem é você?}{}{5}{gf1055 0, lf1 0, lf5 0}{43}{lf1 1}
+{202}{Quem é você?}{}{5}{gf1055 1, lf1 0, lf5 0}{51}{lf1 1}
+{203}{Preciso falar com o Dr. Fenwick sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 0, gf1055 0, lf5 0}{62}{}
+{204}{Preciso falar com você sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 1, gf1055 0, lf2 0, lf5 0}{78}{}
+{205}{Preciso falar com o Dr. Fenwick sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 0, gf1055 1, lf5 0}{70}{}
+{206}{Preciso falar com você sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 1, gf1055 1, lf2 0, lf5 0, lf6 0}{85}{}
+{207}{Eu trouxe o Gigante de Stillwater para lhe mostrar. [Mostre-lhe a armadilha.]}{}{5}{lf2 1, in5610, lf5 0}{96}{}
+{208}{Tem certeza de que o gigante é uma farsa? Preciso encontrar uma pele de um.}{}{5}{lf3 0, ni 5612, lf5 0, lf4 1}{105}{}
+{210}{Preciso falar com você sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 1, gf1055 1, lf2 0, lf5 0, lf6 1}{78}{}
+{212}{Eu trouxe o gigante.}{}{-4}{lf2 1, in5610, lf5 0}{159}{}
+{213}{Quem é você?}{}{-4}{gf1055 0, lf1 0, lf5 0}{43}{lf1 1}
+{214}{Quem é você?}{}{-4}{gf1055 1, lf1 0, lf5 0}{51}{lf1 1}
+{215}{Eu falei com o Fen maluco sobre o gigante da guerra parada.}{}{-4}{gf2125 1, gf1055 0, lf2 0, lf5 0, lf1 1}{149}{}
+{216}{Eu falei com o Fen maluco sobre o gigante da guerra parada.}{}{-4}{gf2125 1, gf1055 1, lf2 0, lf5 0, lf1 1}{172}{}
+{217}{tchau.}{}{-4}{}{0}{}
+{218}{E:}{}{5}{}{0}{}
+{220}{Eu jamais pediria desculpas a alguém como você! Saia daqui!}{Eu jamais pediria desculpas a alguém como você! Saia daqui!}{}{}{}{}
+{221}{Então você morrerá uma morte agonizante!}{}{5}{}{0}{fl 176 ,co}
+{223}{Bem, peço desculpas por tê-lo perturbado tanto. Podemos conversar?}{}{5}{}{195}{re+10}
+{224}{Irei embora se esse for o seu desejo.}{}{5}{}{0}{}
+{225}{Claro, claro! Por favor, aceite minhas desculpas, senhor, não sei no que estava pensando! Em que posso ajudá-lo?}{Claro, claro! Por favor, aceite minhas desculpas, senhora, não sei no que estava pensando! Em que posso ajudá-la?}{}{}{}{}
+{226}{Quem é você?}{}{5}{gf1055 0, lf1 0, lf5 0}{43}{lf1 1}
+{227}{Quem é você?}{}{5}{gf1055 1, lf1 0, lf5 0}{51}{lf1 1}
+{228}{Preciso falar com o Dr. Fenwick sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 0, gf1055 0, lf5 0}{62}{}
+{229}{Preciso falar com você sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 1, gf1055 0, lf2 0, lf5 0}{78}{}
+{230}{Preciso falar com o Dr. Fenwick sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 0, gf1055 1, lf5 0}{70}{}
+{231}{Preciso falar com você sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 1, gf1055 1, lf2 0, lf5 0, lf6 0}{85}{}
+{232}{Eu trouxe o Gigante de Stillwater para lhe mostrar. [Mostre-lhe a armadilha.]}{}{5}{lf2 1, in5610, lf5 0}{96}{}
+{233}{Tem certeza de que o gigante é uma farsa? Preciso encontrar uma pele de um.}{}{5}{lf3 0, ni 5612, lf5 0, lf4 1}{105}{}
+{235}{Preciso falar com você sobre o Gigante de Stillwater.}{}{5}{gf2125 1, lf1 1, gf1055 1, lf2 0, lf5 0, lf6 1}{78}{}
+{237}{Eu trouxe o gigante.}{}{-4}{lf2 1, in5610, lf5 0}{159}{}
+{238}{Quem é você?}{}{-4}{gf1055 0, lf1 0, lf5 0}{43}{lf1 1}
+{239}{Quem é você?}{}{-4}{gf1055 1, lf1 0, lf5 0}{51}{lf1 1}
+{240}{Eu falei com o Fen maluco sobre o gigante da guerra parada.}{}{-4}{gf2125 1, gf1055 0, lf2 0, lf5 0, lf1 1}{149}{}
+{241}{Eu falei com o Fen maluco sobre o gigante da guerra parada.}{}{-4}{gf2125 1, gf1055 1, lf2 0, lf5 0, lf1 1}{172}{}
+{242}{E:}{}{1}{}{0}{}
+

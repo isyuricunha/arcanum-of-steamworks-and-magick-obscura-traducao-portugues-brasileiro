@@ -1,0 +1,55 @@
+{1}{G:}{}{}{}{}{}
+{2}{B:}{}{1}{}{25}{}
+{3}{T:12, 14, 15}{}{1}{}{25}{}
+{4}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{5}{Hã... você conserta coisas?}{}{-4}{}{0}{ri}
+{6}{E:}{}{1}{}{0}{}
+{7}{}{}{}{}{}{}
+{8}{Ei! Você é um mago, não é? Não aparecem muitos do seu calibre por aqui. O que posso fazer por você?}{Ei! Você é um mago, não é? Não aparecem muitos do seu calibre por aqui. O que posso fazer por você?}{}{}{}{re +5}
+{9}{T:12, 14, 15}{}{1}{}{25}{}
+{10}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{11}{Hã... você conserta coisas?}{}{-4}{}{0}{ri}
+{12}{B:}{}{1}{}{25}{}
+{13}{E:}{}{1}{}{0}{}
+{14}{Bom ver você de novo @pcname@. Em que posso ajudar?}{Bom ver você de novo @pcname@. Em que posso ajudar?}{}{}{}{}
+{15}{T:12, 14, 15}{}{1}{}{25}{}
+{16}{B:}{}{1}{}{25}{}
+{17}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{18}{Hã... você conserta coisas?}{}{-4}{}{0}{ri}
+{19}{Ei! Você é um desses seguidores da tecnologia! Não aparecem muitos do seu calibre por aqui. O que posso fazer por você?}{Ei! Você é um desses técnicos! Não aparecem muitos do seu calibre por aqui. O que posso fazer por você?}{}{}{}{re +5}
+{20}{T:12, 14, 15}{}{1}{}{25}{}
+{21}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{22}{Hã... você conserta coisas?}{}{-4}{}{0}{ri}
+{23}{B:}{}{1}{}{25}{}
+{24}{E:}{}{1}{}{0}{}
+{25}{Precisa de mais alguma coisa?}{Precisa de mais alguma coisa?}{}{}{}{}
+{26}{T:12, 14, 15}{}{1}{}{25}{}
+{27}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{28}{Hã... você conserta coisas?}{}{-4}{}{0}{ri}
+{29}{B:}{}{1}{}{25}{}
+{30}{Onde posso encontrar um treinador especialista em ferraria de fechaduras?}{}{5}{tr14 1, tr14 -1}{47}{}
+{31}{Onde posso encontrar um treinador especialista em armar e desarmar armadilhas?}{}{5}{tr15 1, tr15 -1}{51}{}
+{32}{Wer Exper' lok smit' be?}{}{-4}{tr14 1, tr14 -1}{47}{}
+{33}{Wer Exper' arm trap be?}{}{-4}{tr15 1, tr15 -1}{51}{}
+{34}{E:}{}{1}{}{0}{}
+{35}{Dê uma olhada por aí, senhor... Tenho bons preços em um monte de coisas comuns. Um pouco de tudo, pode-se dizer. ...Me avise se eu puder te ajudar em algo.}{Dê uma olhada por aí, senhorita... Tenho bons preços em um monte de coisas comuns. Um pouco de tudo, pode-se dizer. ...Me avise se eu puder te ajudar em algo.}{}{}{}{}
+{36}{T:12, 14, 15}{}{1}{}{25}{}
+{37}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{38}{Hã... você conserta coisas?}{}{-4}{}{0}{ri}
+{39}{B:}{}{1}{}{25}{}
+{40}{E:}{}{1}{}{0}{}
+{41}{O que você quer, @pcname@?}{O que você quer, @pcname@?}{}{}{}{}
+{42}{T:12, 14, 15}{}{1}{}{25}{}
+{43}{B:}{}{1}{}{25}{}
+{44}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{45}{Hã... você conserta coisas?}{}{-4}{}{0}{ri}
+{46}{E:}{}{1}{}{0}{}
+{47}{Tente Caldon ou Black Root. Tenho certeza de que você encontra um se procurar.}{Tente Caladon ou Black Root. Tenho certeza de que você encontra um se procurar.}{}{}{}{ru2183}
+{48}{Obrigado.}{}{5}{}{25}{}
+{49}{Valeu.}{}{-4}{}{25}{}
+{50}{E:}{}{1}{}{0}{}
+{51}{Verifique em Caladon, Roseborough ou no Clã da Roda... Aposto que você encontra um especialista em algum desses lugares.}{Verifique em Caladon, Roseborough ou no Clã da Roda... Aposto que você encontra um especialista em algum desses lugares.}{}{}{}{ru2184}
+{52}{Obrigado.}{}{5}{}{25}{}
+{53}{Valeu.}{}{-4}{}{25}{}
+{54}{E:}{}{1}{}{0}{}
+

@@ -1,0 +1,85 @@
+{1}{G:}{G:}{}{}{}{ }
+{2}{Você é o Fahrkus?}{}{5}{lf1 0, re41, lf5 0}{20}{lf1 1 }
+{3}{Devo ter ouvido mal...}{}{5}{re-40, ch10, lf5 0}{120}{re50 }
+{4}{Por favor, desculpe minha presença, senhor. Não quero ofender.}{}{5}{re-40, ch-9, lf5 0}{130}{ }
+{5}{Fale comigo assim de novo e você vai se arrepender seriamente.}{}{5}{re-40, sk2 4, lf5 0}{150}{re45 }
+{6}{Você é o cara do Fargus?}{}{-4}{lf1 0, lf5 0}{100}{lf1 1 }
+{7}{Voltei para tentar convencê-lo a me entregar o artefato.}{}{5}{lf3 1, lf5 0}{160}{ }
+{8}{Eu quero a coisa do Arboolah!}{}{-4}{lf3 1, lf5 0}{160}{ }
+{9}{Eu queria avisar que menti sobre Arbalah remover a maldição.}{}{5}{lf2 1, lf6 0}{80}{ }
+{10}{Eu menti pra você sobre o Arboodah tirar a maldição!}{}{-4}{lf2 1, lf6 0}{80}{ }
+{11}{Eu apreciaria se o senhor me tratasse com respeito.}{}{5}{re-40, sk2 4, lf5 0}{150}{ }
+{19}{E:}{}{1}{}{0}{ }
+{20}{[Este sujeito de aparência rabugenta avalia você, desconfiado.] Quem quer saber? O que está fazendo na minha... [ele olha ao redor] ...casa?}{[Este sujeito de aparência rabugenta avalia você, desconfiado.] Quem quer saber? O que está fazendo na minha... [ele olha ao redor] ...casa?}{}{}{}{ }
+{21}{Estou aqui pelo Arbalah. Você vai devolver o que é dele, ou vai morrer.}{}{5}{sk2 4}{30}{ }
+{22}{Vim recuperar o que você roubou do Arbalah.}{}{5}{}{110}{ }
+{23}{Vim avisá-lo sobre uma maldição que foi lançada sobre você.}{}{5}{}{50}{ }
+{30}{[Ele de repente parece muito inseguro.] O que... o que você quer dizer? Eu, hã, não tenho, hã, ideia do que está falando.}{[Ele de repente parece muito inseguro.] O que... o que você quer dizer? Eu, hã, não tenho, hã, ideia do que está falando.}{}{}{}{ }
+{31}{[Agarre-o.] Este é seu último aviso, verme covarde!}{}{5}{}{40}{ }
+{40}{Aqui! Aqui está! Por favor, não me machuque! [Ele apressadamente lhe entrega o artefato.]}{Aqui! Aqui está! Por favor, não me machuque! [Ele apressadamente lhe entrega o artefato.]}{}{}{}{in -5697, lf5 1 }
+{41}{Obrigado. Você pode viver, por enquanto. Tenha um bom dia.}{}{5}{}{0}{ }
+{42}{Na verdade, acho que vou matá-lo, simplesmente pelo prazer.}{}{5}{}{0}{fl 179 ,co}
+{43}{Tá bom. Eu não machuco você. Tchau tchau.}{}{-4}{}{0}{ }
+{44}{Mas eu quero machucar você mesmo assim. Vai ser divertido!}{}{-4}{}{0}{fl 179 ,co}
+{50}{O q... que é que você está f...falando? Que m...maldição?}{O q... que é que você está f...falando? Que m...maldição?}{}{}{}{ }
+{51}{Arbalah amaldiçoou você e o Brehgo. Seu espírito está preso aqui.}{}{5}{}{60}{ }
+{60}{Aquele maldito sacerdote! E... deve ser o que ouvi enquanto fugia da caverna. O f...fantasma do Brehgo!}{Aquele maldito sacerdote! E... deve ser o que ouvi enquanto fugia da caverna. O f...fantasma do Brehgo!}{}{}{}{ }
+{61}{Me dê o artefato e Arbalah removerá a maldição. [Mentira.]}{}{5}{ps4}{70}{ }
+{62}{Me dê o artefato e Arbalah removerá a maldição. [Mentira.]}{}{5}{ps-3}{90}{ }
+{63}{Me dê a coisa e o Arbuuloh tira a maldição!}{}{-4}{}{90}{ }
+{64}{Me dê o artefato e eu não vou matá-lo.}{}{5}{sk2 -3}{0}{re-10, fl 209}
+{65}{Me dê o artefato e não matarei você.}{}{5}{sk2 4}{30}{ }
+{69}{E:}{}{1}{}{0}{ }
+{70}{Aqui! Aqui está! Por favor, leve de volta para ele, rápido! [Ele lhe entrega o artefato às pressas.]}{Aqui! Aqui está! Por favor, leve de volta para ele, rápido! [Ele lhe entrega o artefato às pressas.]}{}{}{}{in -5697 }
+{71}{Obrigado. Tenha um bom dia, senhor.}{}{5}{}{0}{lf2 1, lf3 0 }
+{72}{Ah, na verdade, eu menti sobre toda essa história de "quebrar a maldição".}{}{5}{}{80}{re-10 }
+{73}{Obrigado. Agora posso matar você sem sujar de sangue.}{}{5}{}{0}{fl 179 ,co}
+{80}{O-o que você quer dizer? O que está dizendo?}{O-o que você quer dizer? O que está dizendo?}{}{}{}{lf6 1 }
+{81}{Ouça bem, imbecil. A maldição não será quebrada. Eu menti.}{}{5}{}{0}{fl 179 ,co}
+{82}{Ha hah! Seu tolo ingênuo! Acreditou em mim!}{}{-4}{}{0}{fl 179 ,co}
+{90}{Você deve achar que sou bem burro! Ele nunca faria nada para me ajudar depois do que nós, quer dizer, uh, Brehgo fizemos com ele e sua família!}{Você deve achar que sou bem burro! Ele nunca faria nada para me ajudar depois do que nós, quer dizer, uh, Brehgo fizemos com ele e sua família!}{}{}{}{ }
+{91}{Isso não é nada comparado ao que estou prestes a fazer com você!}{}{5}{sk2 4}{40}{ }
+{92}{Eu machuco muito você se não me der a coisa!!}{}{-4}{sk2 4}{40}{ }
+{93}{Isso não é nada comparado ao que estou prestes a fazer com você!}{}{5}{sk2 -3}{0}{fl 179 ,co}
+{94}{Eu machuco muito você se não me der a coisa!!}{}{-4}{sk2 -3}{0}{fl 179 ,co}
+{98}{Se é assim que se sente, vou deixá-lo em paz.}{}{5}{}{0}{lf3 1 }
+{99}{Tá bom. Eu vou embora então.}{}{-4}{}{0}{lf3 1 }
+{100}{[Este sujeito de aparência rabugenta avalia você, desconfiado.] Saia daqui e me deixe em paz, simplório!}{[Este sujeito de aparência rabugenta avalia você, desconfiado.] Saia daqui e me deixe em paz, simplório!}{}{}{}{lf3 1 }
+{101}{Abdooler amaldiçoou ocê. Ocê tá preso aqui como fantasma!}{}{-4}{}{60}{ }
+{102}{Me dê a coisa do Arboodudah ou eu esmago sua cabeça!}{}{-4}{sk2 4}{40}{ }
+{110}{Eu... uh... eu n-não faço ideia do que você está falando!}{Eu... uh... eu n-não faço ideia do que você está falando!}{}{}{}{ }
+{111}{Deve ser extremamente valioso para valer uma maldição eterna.}{}{5}{}{50}{ }
+{112}{Estou cansado de você e de sua gagueira. Me dê o artefato!}{}{5}{sk2 4}{30}{ }
+{120}{Eu, uh, devo ter, uh, eu não sabia, quer dizer, eu uh, confundi você com outra pessoa, me desculpe. Por favor, me perdoe...}{Eu, uh, devo ter, uh, eu não sabia, quer dizer, eu uh, confundi você com outra pessoa, me desculpe. Por favor, me perdoe...}{}{}{}{ }
+{121}{Estou aqui por Arbalah. Você devolverá o que é dele, ou morrerá.}{}{5}{sk2 4}{30}{ }
+{122}{Vim recuperar o que você roubou de Arbalah.}{}{5}{}{110}{ }
+{123}{Vim avisar sobre uma maldição que foi lançada sobre você.}{}{5}{}{50}{ }
+{130}{Não há desculpa para tolos inúteis como você!}{Não há desculpa para tolos inúteis como você!}{}{}{}{ }
+{131}{[Dá um tapa nele.] Exijo satisfação, cão!}{}{5}{sk2 4}{150}{re45 }
+{132}{[Dá um tapa nele.] Exijo satisfação, cão!}{}{5}{sk2 -3}{0}{fl 179 ,co}
+{133}{Por favor, senhor, só um momento, sei que não sou digno de falar com o senhor.}{}{5}{}{140}{re41 }
+{140}{Tudo bem, então, desde que reconheça seu lugar... o que você quer?}{Tudo bem, então, desde que reconheça seu lugar... o que você quer?}{}{}{}{ }
+{141}{Meu lugar é dançando sobre seu túmulo, tolo!}{}{5}{sk2 -3}{0}{fl 179 ,co}
+{142}{Vim recuperar o que você roubou de Arbalah.}{}{5}{}{110}{ }
+{143}{Vim avisar sobre uma maldição que foi lançada sobre você.}{}{5}{}{50}{ }
+{144}{Meu lugar é dançando sobre seu túmulo, tolo!}{}{5}{sk2 4}{150}{re45 }
+{150}{[Ele grita e protege o rosto com as mãos.] P...p...por favor, senhor, não me machuque... peço desculpas por qualquer ofensa que tenha causado...}{[Ele grita e protege o rosto com as mãos.] P...p...por favor, senhora, não me machuque... peço desculpas por qualquer ofensa que tenha causado...}{}{}{}{ }
+{151}{Estou aqui por Arbalah. Você devolverá o que é dele, ou morrerá.}{}{5}{sk2 4}{30}{ }
+{160}{Já disse antes para me deixar em paz!}{Já disse antes para me deixar em paz!}{}{}{}{ }
+{161}{Arbalah dobrou a maldição...}{}{5}{ps4}{170}{ }
+{162}{[Agarre-o.] Entregue o artefato de Arbalah ou morra, cão!}{}{5}{sk2 4}{40}{ }
+{163}{[Agarre-o.] Entregue o artefato de Arbalah ou morra, cão!}{}{5}{sk2 -3}{0}{fl 179 ,co}
+{164}{Me dê a coisa do Arboodudah ou eu esmago sua cabeça!}{}{-4}{sk2 4}{40}{ }
+{168}{E:}{}{-4}{}{0}{ }
+{169}{Se é assim que você se sente, que assim seja.}{}{5}{}{0}{ }
+{170}{O...o quê? O que você quer dizer?}{O...o quê? O que você quer dizer?}{}{}{}{ }
+{171}{Entregue-me o artefato dele, e ele o libertará... [Mentira.]}{}{5}{}{70}{ }
+{180}{O...onde estou?... A dor! Por favor... me liberte!}{O...onde estou?... A dor! Por favor... me liberte!}{}{}{}{ }
+{181}{Você está morto.}{}{5}{}{190}{ }
+{182}{Você tá morto!}{}{-4}{}{190}{ }
+{190}{O quê? Nooooooo!}{O quê? Nooooooo!}{}{}{}{ }
+{191}{Sim. Ah, e você está amaldiçoado a ficar preso aqui para sempre...}{}{5}{}{-6}{ }
+{192}{Heeheehee. Você vai ficar preso aqui para sempre! Heeheeheehee...}{}{-4}{}{-6}{ }
+{200}{Aaaaaaaaagh!!!! Por favor... não... Por favor...}{Aaaaaaaaagh!!!! Por favor... não... Por favor...}{}{}{}{ }
+{209}{Me deixe em paz, idiota.}{Me deixe em paz, idiota.}{}{}{}{ }
+

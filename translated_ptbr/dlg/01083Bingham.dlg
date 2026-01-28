@@ -1,0 +1,202 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Saudações, anão! Posso perguntar quem é você?}{}{5}{lf16 0, ra -2, re 41}{14}{lf16 1}
+{3}{Saudações, irmão-anão! Posso perguntar quem é você?}{}{5}{lf16 0, ra 2, re 41}{14}{lf16 1}
+{4}{Espere um momento, anão! Qual parece ser o problema?}{}{5}{lf16 0, ra -2, re -40}{274}{lf16 1}
+{5}{Espere, irmão-anão. O que deixou você com esse humor tão sombrio?}{}{5}{lf16 0, ra 2, re -40}{274}{lf16 1}
+{6}{Olá, Bingham. Posso falar com você sobre algumas coisas...?}{}{5}{lf16 1, re 41}{53}{}
+{7}{Bingham? Por que está sendo tão ofensivo?}{}{5}{lf16 1, re -40}{274}{}
+{8}{Oi! Eu não muito esperto... quem você?}{}{-4}{lf16 0, re 41}{14}{lf16 1}
+{9}{Hã... o quê? Por que você está bravo?}{}{-4}{lf16 0, re -40}{274}{lf16 1}
+{10}{Ei, Buggum! Tenho perguntas..}{}{-4}{lf16 1, re 41}{198}{}
+{11}{Buggum? Por que está sendo malvado?}{}{-4}{lf16 1, re -40}{274}{}
+{14}{Eu sou Bingham Schulefest, o zelador deste cemitério. Como posso ajudá-lo?}{Eu sou Bingham Schulefest, o zelador deste cemitério. Como posso ajudá-lo?}{}{}{}{}
+{15}{Bingham Schulefest? Esse nome não soa como um nome anão...}{}{5}{pa 6411}{25}{}
+{16}{Bingham Schulefest? Esse nome não soa como um nome anão...}{}{5}{pa -6411}{39}{}
+{17}{Buggum Stoolfest!}{}{-4}{}{19}{}
+{19}{Não, não... Bingham! BING-UM! Entendeu?}{Não, não... Bingham! BING-UM! Entendeu?}{}{}{}{}
+{20}{Buggum! Buggum!}{}{-4}{}{22}{}
+{22}{[Suspiro.] Acho que não há jeito para você, meu amigo. [Ele ri.] Como posso ajudá-lo?}{[Suspiro.] Acho que não há jeito para você, meu amigo. [Ele ri.] Como posso ajudá-lo?}{}{}{}{}
+{23}{Tenho perguntas, Buggum!}{}{-4}{}{198}{}
+{25}{Não é... veja bem, eu cresci em Caladon, e embora eu tenha um verdadeiro nome anão, minha família não se importa nem um pouco com a história antiga dos anões... somos anões urbanos e temos orgulho disso! É um mundo novo, e a maioria dos anões por aqui gosta assim... claro, tem o filho do meu vizinho... ah, qual era o nome dele? Malcolm Schulefest, acho que era... sempre inventando coisas sobre seu antigo clã e tal... ei! Espere um minuto! Lá está ele!}{Não é... veja bem, eu cresci em Caladon, e embora eu tenha um verdadeiro nome anão, minha família não se importa nem um pouco com a história antiga dos anões... somos anões urbanos e temos orgulho disso! É um mundo novo, e a maioria dos anões por aqui gosta assim... claro, tem o filho do meu vizinho... ah, qual era o nome dele? Malcolm Schulefest, acho que era... sempre inventando coisas sobre seu antigo clã e tal... ei! Espere um minuto! Lá está ele!}{}{}{}{}
+{26}{O que foi, Bingham?}{}{5}{}{30}{}
+{30}{Lá está ele! Malcolm! [Ele aponta para Magnus.] Não o vemos há 50 anos! Onde você andou? Seu pai estava preocupado! Você só tem 150 anos, sabia...}{Lá está ele! Malcolm! [Ele aponta para Magnus.] Não o vemos há 50 anos! Onde você andou? Seu pai estava preocupado! Você só tem 150 anos, sabia...}{}{}{}{}
+{31}{Está falando dele? [Você aponta para Magnus.]}{}{5}{}{33}{}
+{33}{Sim! É ele mesmo! Que bom ver você, Malcolm! Onde você estava... em mais uma daquelas loucas buscas para encontrar nosso "Clã perdido"? [Bingham pisca para você.] O pequeno Malcolm... que imaginação!}{Sim! É ele mesmo! Que bom ver você, Malcolm! Onde você estava... em mais uma daquelas loucas buscas para encontrar nosso "Clã perdido"? [Bingham pisca para você.] O pequeno Malcolm... que imaginação!}{}{}{}{ru 2095}
+{34}{Poderia esperar um momento, Bingham? Hã... Magnus?}{}{5}{}{-5}{}
+{39}{Não é bem isso... veja, eu cresci em Caladon, e embora eu tenha um verdadeiro nome anão, minha família não liga nem um pouco para a antiga história dos anões... somos anões urbanos, e temos orgulho disso! O nome da família foi mudado há gerações...}{Não é bem isso... veja, eu cresci em Caladon, e embora eu tenha um verdadeiro nome anão, minha família não liga nem um pouco para a antiga história dos anões... somos anões urbanos, e temos orgulho disso! O nome da família foi mudado há gerações...}{}{}{}{}
+{40}{Entendo. Posso falar com você sobre algumas coisas...?}{}{5}{}{53}{}
+{53}{Por favor, fale...}{Por favor, fale...}{}{}{}{}
+{54}{O que você pode me contar sobre este cemitério?}{}{5}{}{68}{}
+{55}{Estou procurando pela Mansão Misk...}{}{5}{lf6 0, qu1048 2}{73}{}
+{56}{Eu falei com a esposa de Victor Misk...}{}{5}{lf6 0, gf2005 0, gf2006 1}{88}{}
+{57}{Eu vi o túmulo de Victor Misk...}{}{5}{lf6 0, gf2005 1, gf2006 0}{79}{}
+{58}{Preciso da sua ajuda para desenterrar o velho Victor Misk...}{}{5}{lf6 0, gf2005 1, gf2006 1}{112}{}
+{59}{Voltei com as 500 moedas de ouro... aqui está...}{}{5}{lf6 0, lf1 1}{190}{$$-500}
+{60}{Voltei com as 475 moedas de ouro... aqui está...}{}{5}{lf6 0, lf2 1}{190}{$$-475}
+{61}{Voltei com as 450 moedas de ouro... aqui está...}{}{5}{lf6 0, lf3 1}{190}{$$-450}
+{62}{Voltei com as 425 moedas de ouro... aqui está...}{}{5}{lf6 0, lf4 1}{190}{$$-425}
+{63}{Voltei com as 400 moedas de ouro... aqui está...}{}{5}{lf6 0, lf5 1}{190}{$$-400}
+{64}{O que você sabe sobre Roseborough, ou sua Loja de Presentes?}{}{5}{ru2002, lf7 0}{193}{lf7 1}
+{65}{E:}{}{5}{}{0}{}
+{68}{Não há muito o que contar, amigo. É só o lugar onde Caladon leva seus mortos. Trabalho aqui há 80 anos e já vi muitos corpos irem e virem. As histórias que eu poderia contar...}{Não há muito o que contar, amigo. É só o lugar onde Caladon leva seus mortos. Trabalho aqui há 80 anos e já vi muitos corpos irem e virem. As histórias que eu poderia contar...}{}{}{}{}
+{69}{Tenho certeza, tenho certeza. Posso fazer mais algumas perguntas?}{}{5}{}{53}{}
+{73}{A Mansão Misk? Fica <<<PH1>>>. É uma casa bem grande, então você não deve ter problemas para encontrá-la...}{A Mansão Misk? Fica <<<PH1>>>. É uma casa bem grande, então você não deve ter problemas para encontrá-la...}{}{}{}{}
+{74}{Obrigado, Bingham. Só mais uma ou duas coisas...}{}{5}{}{53}{}
+{75}{Meus agradecimentos. Vou me despedir de você.}{}{5}{}{0}{}
+{76}{Tá bom! Mas tenho mais perguntas, Buggum!}{}{-4}{}{198}{}
+{77}{Tá bom! Eu vou procurar, Buggum! Tchau!}{}{-4}{}{0}{}
+{79}{Sim, senhor, acabamos de enterrar o Victor há alguns dias. Uma história triste, de verdade. Ele começou a perder a cabeça, e depois o encontraram boiando perto dos cais. O velho Victor acabou se afogando...}{Sim, senhor, acabamos de enterrar o Victor há alguns dias. Uma história triste, de verdade. Ele começou a perder a cabeça, e depois o encontraram boiando perto dos cais. O velho Victor acabou se afogando...}{}{}{}{}
+{80}{Com quem posso falar mais sobre o Sr. Misk?}{}{5}{}{82}{}
+{82}{Você poderia tentar falar com a viúva Misk... ela mora <<<PH2>>> na Mansão Misk. Se tiver mais alguma pergunta, ela saberia as respostas...}{Você poderia tentar falar com a viúva Misk... ela mora <<<PH2>>> na Mansão Misk. Se tiver mais alguma pergunta, ela saberia as respostas...}{}{}{}{}
+{83}{Obrigado, Bingham. Só mais uma ou duas coisas...}{}{5}{}{53}{}
+{84}{Vou falar com ela. Adeus, Bingham...}{}{5}{}{0}{}
+{88}{Sim... e que história triste essa, não é? Enterramos ele há não mais que quatro dias...}{Sim... e que história triste essa, não é? Enterramos ele há não mais que quatro dias...}{}{}{}{}
+{89}{Sim, realmente. Você conhecia o Victor?}{}{5}{}{94}{}
+{90}{Pode me mostrar onde ele está enterrado?}{}{5}{}{105}{}
+{91}{E:}{}{5}{}{0}{}
+{94}{Eu conhecia o velho Victor... mais louco que uma galinha de três pernas naqueles últimos meses. Ele vinha aqui o tempo todo... verificando o local do túmulo e tudo mais. A maioria das pessoas compra o terreno para seus túmulos com antecedência, mas eu nunca tinha conhecido alguém que quisesse VISITAR o tempo todo...}{Eu conhecia o velho Victor... mais louco que uma galinha de três pernas naqueles últimos meses. Ele vinha aqui o tempo todo... verificando o local do túmulo e tudo mais. A maioria das pessoas compra o terreno para seus túmulos com antecedência, mas eu nunca tinha conhecido alguém que quisesse VISITAR o tempo todo...}{}{}{}{}
+{95}{Por que você acha que ele queria fazer isso?}{}{5}{}{100}{}
+{96}{E:}{}{5}{}{0}{}
+{100}{Quem sabe? Às vezes ele ficava sentado ali por horas, falando sozinho... e sempre muito nervoso, olhando ao redor a cada barulhinho... coitado deveria ter sido internado...}{Quem sabe? Às vezes ele ficava sentado ali por horas, falando sozinho... e sempre muito nervoso, olhando ao redor a cada barulhinho... coitado deveria ter sido internado...}{}{}{}{}
+{101}{Pode me mostrar onde ele está enterrado?}{}{5}{}{105}{}
+{102}{E:}{}{5}{}{0}{}
+{105}{Claro... é o último túmulo da terceira fileira daqui...}{Claro... é o último túmulo da terceira fileira daqui...}{}{}{}{}
+{106}{Vou dar uma olhada... obrigado, Bingham.}{}{5}{}{}{fl 109}
+{109}{De nada... estarei aqui se tiver mais alguma pergunta...}{Fique à vontade... estarei aqui se tiver mais alguma pergunta...}{}{}{}{}
+{112}{Desenterrar o túmulo dele? Para quê?}{Desenterrar o túmulo dele? Para quê?}{}{}{}{}
+{113}{Confie em mim, irmão-anão... é pelo bem de todos nós...}{}{5}{ra 2}{154}{}
+{114}{Eu gostaria de poder te contar, Bingham. Confie em mim, é importante...}{}{5}{ra -2, ch 15}{157}{}
+{115}{Eu gostaria de poder te contar, Bingham. Confie em mim, é importante...}{}{5}{ra -2, ch -14}{143}{}
+{116}{Quanto custaria para você ser menos curioso?}{}{5}{}{166}{}
+{117}{Eu recomendaria que você simplesmente fizesse isso, Bingham...}{}{5}{lf15 0}{123}{lf15 1}
+{118}{Preciso de ajuda, Buggum! Por favor?}{}{-4}{}{211}{}
+{119}{E:}{}{5}{}{}{}
+{120}{E:}{}{-4}{}{}{}
+{123}{O quê? Está me ameaçando?}{O quê? Está me ameaçando?}{}{}{}{}
+{124}{Parece que sim. Agora você vai fazer o que eu digo ou não?}{}{5}{}{129}{}
+{125}{Não... eu gostaria de poder contar os motivos. Você vai ter que confiar em mim...}{}{5}{}{143}{}
+{126}{Vamos falar outra língua... quanto vai custar?}{}{5}{}{166}{}
+{127}{E:}{}{5}{}{0}{}
+{129}{Eu certamente não vou fazer isso. [Ele se mantém firme, olhando para você desafiadoramente.] Posso ser um anão da cidade, mas ainda assim vou me meter com gente como você. Tá procurando uma surra, garoto?}{Eu certamente não vou fazer isso. [Ele se mantém firme, olhando para você desafiadoramente.] Posso ser um anão da cidade, mas ainda assim vou me meter com gente como você, mesmo que seja uma mulher. Tá procurando uma surra, garota?}{}{}{}{}
+{130}{Isso é lamentável, Bingham. Mas a morte chega para todos nós...}{}{5}{lf17 0}{-14}{lf17 1}
+{131}{Não. Eu realmente não posso te dizer por que preciso desenterrar Misk...}{}{5}{}{143}{}
+{132}{Esqueça toda essa briga. Todo anão tem seu preço...}{}{5}{}{166}{}
+{133}{E:}{}{5}{}{0}{}
+{135}{Fico feliz que tenha decidido se acalmar. Tenho certeza de que podemos chegar a algum tipo de acordo sobre isso...}{Fico feliz que tenha decidido se acalmar. Tenho certeza de que podemos chegar a algum tipo de acordo sobre isso...}{}{}{}{}
+{136}{Tá bom, mas não posso te dizer por que preciso desenterrar o túmulo...}{}{5}{}{143}{}
+{137}{Talvez eu possa te oferecer algum dinheiro pelo seu incômodo...}{}{5}{}{166}{}
+{138}{E:}{}{5}{}{0}{}
+{143}{Sinto muito, meu amigo, mas estamos falando do meu emprego aqui. O que está acontecendo? Por que precisa desenterrar Victor Misk?}{Sinto muito, minha amiga, mas estamos falando do meu emprego aqui. O que está acontecendo? Por que precisa desenterrar Victor Misk?}{}{}{}{}
+{144}{É uma longa história, Bingham. [Conte para ele...]}{}{5}{}{147}{}
+{145}{Isso não é da sua conta. Talvez possamos negociar...?}{}{5}{}{166}{}
+{147}{Entendi. Então você precisa encontrar esse livro para achar uns Elfos Negros? Essa é uma história e tanto. E tudo porque você sobreviveu àquele acidente de dirigível sobre o qual li?}{Entendi. Então você precisa encontrar esse livro para achar uns Elfos Negros? Essa é uma história e tanto. E tudo porque você sobreviveu àquele acidente de dirigível sobre o qual li?}{}{}{}{}
+{148}{Sim... de mal a pior...}{}{5}{}{}{co, fl 150}
+{150}{Você não faz ideia de como está certo! Morra!}{Você não faz ideia de como está certa! Morra!}{}{}{}{ru 2096}
+{154}{Hmmm. Entendi. Certo... você é um anão, e parece ser confiável. Aqui está o que você precisa fazer... pegue esta pá...}{Hmmm. Entendi. Certo... você é uma anã, e parece ser confiável. Aqui está o que você precisa fazer... pegue esta pá...}{}{}{}{}
+{155}{Tá bom... [Pegue a pá de Bingham.]}{}{5}{}{163}{in -5614}
+{157}{Bom, tenho a impressão de que você é um sujeito bastante honesto. Certo, vou te ajudar. Aqui está o que precisa fazer... primeiro, pegue esta pá...}{Bom, tenho a impressão de que você é uma moça bastante honesta. Certo, vou te ajudar. Aqui está o que precisa fazer... primeiro, pegue esta pá...}{}{}{}{}
+{158}{Tá bom... [Pegue a pá de Bingham.]}{}{5}{}{163}{in -5614}
+{160}{Sim, claro. Primeiro, pegue esta pá...}{Sim, claro. Primeiro, pegue esta pá...}{}{}{}{}
+{161}{Tá bom... [Pegue a pá de Bingham.]}{}{5}{}{163}{in -5614}
+{163}{Agora... o túmulo do Victor, como você viu, ainda está bem recente... você não deve ter problemas para desenterrá-lo. MAS!!! Você precisa esperar até anoitecer... há guardas no portão, mas eles dormem quando o sol se põe. Desde que você seja silencioso, deve conseguir desenterrar o velho Victor sem problemas...}{Agora... o túmulo do Victor, como você viu, ainda está bem recente... você não deve ter problemas para desenterrá-lo. MAS!!! Você precisa esperar até anoitecer... há guardas no portão, mas eles dormem quando o sol se põe. Desde que você seja silencioso, deve conseguir desenterrar o velho Victor sem problemas...}{}{}{}{lf6 1}
+{164}{Vou fazer isso. Obrigado pela ajuda, Bingham...}{}{5}{}{}{fl 109}
+{166}{Sim... o velho Bingham é um anão conhecido por fazer vista grossa quando a hora e o preço são certos. Talvez eu possa ser persuadido a te ajudar nisso por... ah, não sei... que tal 500 peças de ouro?}{Sim... o velho Bingham é um anão conhecido por fazer vista grossa quando a hora e o preço são certos. Talvez eu possa ser persuadido a te ajudar nisso por... ah, não sei... que tal 500 peças de ouro?}{}{}{}{}
+{167}{Parece um preço justo... aqui está...}{}{5}{$$500, ha -13}{190}{$$-500}
+{168}{Parece bom... voltarei quando tiver o dinheiro...}{}{5}{$$-499, ha -13}{0}{lf1 1}
+{169}{Eu estava pensando em algo um pouco mais baixo...}{}{5}{ha 14}{174}{}
+{170}{E:}{}{5}{}{0}{}
+{174}{Hmm. Qual preço? Sou um homem que gosta do seu ouro...}{Hmm. Qual preço? Sou um homem que gosta do seu ouro...}{}{}{}{}
+{175}{Eu estava pensando mais em 475...}{}{5}{ha 14}{180}{lf2 1}
+{176}{Que tal 450?}{}{5}{ha 15}{180}{lf3 1}
+{177}{Não poderia pagar mais do que 425...}{}{5}{ha 16}{180}{lf4 1}
+{178}{400 parece mais razoável...}{}{5}{ha 17}{180}{lf5 1}
+{180}{Bem, não sou de gastar dinheiro à toa, mas parece que você me convenceu... combinado! E você tem o ouro?}{Bem, não sou de gastar dinheiro à toa, mas parece que você me convenceu... combinado! E você tem o ouro?}{}{}{}{}
+{181}{Claro... está bem aqui...}{}{5}{lf2 1, $$475}{190}{$$-475}
+{182}{Não, mas trarei de volta assim que conseguir...}{}{5}{lf2 1, $$-474}{0}{}
+{183}{Claro... está bem aqui...}{}{5}{lf3 1, $$450}{190}{$$-450}
+{184}{Não, mas trarei de volta assim que conseguir...}{}{5}{lf3 1, $$-449}{0}{}
+{185}{Claro... está bem aqui...}{}{5}{lf4 1, $$425}{190}{$$-425}
+{186}{Não, mas trarei de volta assim que conseguir...}{}{5}{lf4 1, $$-424}{0}{}
+{187}{Claro... está bem aqui...}{}{5}{lf5 1, $$400}{190}{$$-400}
+{188}{Não, mas trarei de volta assim que conseguir...}{}{5}{lf5 1, $$-399}{0}{}
+{190}{Ótimo! Foi um prazer fazer negócios com você!}{Ótimo! Foi um prazer fazer negócios com você!}{}{}{}{}
+{191}{E com você, Bingham. Agora, sobre desenterrar o túmulo...}{}{5}{}{160}{}
+{193}{Roseborough? Não sei muito sobre o lugar, nem sobre essa loja de que você está falando, mas sei onde fica. É logo ao norte de Caladon... aqui, vou marcar no seu mapa...}{Roseborough? Não sei muito sobre o lugar, nem sobre essa loja de que você está falando, mas sei onde fica. É logo ao norte de Caladon... aqui, vou marcar no seu mapa...}{}{}{}{mm 13, ss 13}
+{194}{Obrigado, Bingham... posso te fazer mais algumas perguntas?}{}{5}{}{53}{}
+{195}{E:}{}{5}{}{0}{}
+{196}{Tá legal, Buggum! Tchauzinho!}{}{-4}{}{0}{}
+{198}{Certamente, meu amigo meio tapado!}{Certamente, meu amigo meio tapado!}{}{}{}{}
+{199}{Preciso en-encontrar o Es-es-estado M-m-mis-sk...?}{}{-4}{lf14 0, qu1048 2}{73}{}
+{200}{Eu falei com a senhora Misk...}{}{-4}{lf14 0, gf2005 0, gf2006 1}{255}{}
+{201}{Eu vi a lápide do Misk!}{}{-4}{lf14 0, gf2005 1, gf2006 0}{263}{}
+{202}{Desenterrar Victor Misk, Buggum?}{}{-4}{lf14 0, gf2005 1, gf2006 1}{112}{}
+{203}{Trouxe o dinheiro de volta, Buggum!}{}{-4}{lf12 1, lf14 0}{237}{$$-600}
+{204}{Trouxe o dinheiro de volta, Buggum!}{}{-4}{lf8 1, lf14 0}{237}{$$-575}
+{205}{Trouxe o dinheiro de volta, Buggum!}{}{-4}{lf9 1, lf14 0}{237}{$$-550}
+{206}{Trouxe o dinheiro de volta, Buggum!}{}{-4}{lf10 1, lf14 0}{237}{$$-525}
+{207}{Trouxe o dinheiro de volta, Buggum!}{}{-4}{lf11 1, lf14 0}{237}{$$-500}
+{208}{Onde fi-fi-fica a Lo-loja de Pre-pre-sentes Ro-o-sboro?}{}{-4}{ru2002, lf13 0}{193}{lf13 1}
+{209}{Hã... sem perguntas! Tenho que ir! Te-te-tchau!}{}{-4}{}{0}{}
+{211}{Me desculpe, mas tenho um trabalho com que me preocupar aqui. O que você vai fazer por mim?}{Me desculpe, mas tenho um trabalho com que me preocupar aqui. O que você vai fazer por mim?}{}{}{}{}
+{212}{Eu pago dinheiro, Buggum! Dinheiro!}{}{-4}{}{215}{}
+{213}{E:}{}{-4}{}{0}{}
+{215}{Agora você está falando a minha língua, garoto! Não poderia te ajudar por menos de 600 peças de ouro!}{Agora você está falando a minha língua, garota! Não poderia te ajudar por menos de 600 peças de ouro!}{}{}{}{}
+{216}{Tá bom! Aqui está o dinheiro!}{}{-4}{$$600, ha-13}{237}{}
+{217}{Tá bom! Eu trago o dinheiro de volta quando tiver!}{}{-4}{$$-599, ha -13}{0}{lf12 1}
+{218}{É muito! É muito!}{}{-4}{ha 14}{221}{}
+{219}{E:}{}{-4}{}{0}{}
+{221}{Bem, qual preço você tinha em mente?}{Bem, qual preço você tinha em mente?}{}{}{}{}
+{222}{Eu quero 575...!}{}{-4}{ha 14}{227}{lf8 1}
+{223}{Você aceita 550?}{}{-4}{ha 15}{227}{lf9 1}
+{224}{525! Nem um tostão a mais!}{}{-4}{ha 16}{227}{lf10 1}
+{225}{500 é um bom preço!}{}{-4}{ha 17}{227}{lf11 1}
+{227}{Por Alberich, para um simplório você negocia duro! Fechado! Tem o ouro?}{Por Alberich, para um simplório você negocia duro! Fechado! Tem o ouro?}{}{}{}{}
+{228}{Sim! Aqui, Buggum!}{}{-4}{lf8 1, $$575}{237}{$$-575}
+{229}{Não, mas trago de volta logo!}{}{-4}{lf8 1, $$-574}{0}{}
+{230}{Sim! Aqui, Buggum!}{}{-4}{lf9 1, $$550}{237}{$$-550}
+{231}{Não, mas eu trago de volta em breve!}{}{-4}{lf9 1, $$-549}{0}{}
+{232}{Sim! Aqui, Buggum!}{}{-4}{lf10 1, $$525}{237}{$$-525}
+{233}{Não, mas eu trago de volta em breve!}{}{-4}{lf10 1, $$-524}{0}{}
+{234}{Sim! Aqui, Buggum!}{}{-4}{lf11 1, $$500}{237}{$$-500}
+{235}{Não, mas eu trago de volta em breve!}{}{-4}{lf11 1, $$-499}{0}{}
+{237}{Foi um prazer fazer negócios com você, meu amigo!}{Foi um prazer fazer negócios com você, meu amigo!}{}{}{}{lf14 1}
+{238}{E agora você me ajuda a desenterrar o Misk?}{}{-4}{}{240}{}
+{240}{Claro. Primeiro, pegue esta pá...}{Claro. Primeiro, pegue esta pá...}{}{}{}{in -5614}
+{241}{Pá-á-ááá?}{}{-4}{}{243}{}
+{243}{Certo...agora...(Preciso ter cuidado aqui. Este não é muito esperto.) Vou devagar...ESPERE ATÉ O SOL SE PÔR...TUDO BEM?}{Certo...agora...(Preciso ter cuidado aqui. Este não é muito esperto.) Vou devagar...ESPERE ATÉ O SOL SE PÔR...TUDO BEM?}{}{}{}{}
+{244}{Sol se pôr! Escuro! Assustador! Tudo bem?}{}{-4}{}{246}{}
+{246}{SIM! MUITO BOM! OS GUARDAS ESTARÃO DORMINDO! ENTÃO VOCÊ PODE DESENTERRAR O MISK! TUDO BEM?}{SIM! MUITO BOM! OS GUARDAS ESTARÃO DORMINDO! ENTÃO VOCÊ PODE DESENTERRAR O MISK! TUDO BEM?}{}{}{}{}
+{247}{Tudo bem, Buggum! Eu espero, depois cavo!}{}{-4}{}{249}{}
+{249}{TUDO BEM! (Poderia ser meu trabalho, mas o dinheiro é bom demais para deixar passar...) TCHAU-TCHAU!}{TUDO BEM! (Poderia ser meu trabalho, mas o dinheiro é bom demais para deixar passar...) TCHAU-TCHAU!}{}{}{}{}
+{250}{Tá legal, Buggum! Tchauzinho!}{}{-4}{}{0}{}
+{252}{Roseborough? Não sei muito sobre o lugar, nem sobre essa loja de que você está falando, mas sei onde fica. É logo ao norte de Caladon... aqui, vou marcar no seu mapa...}{Roseborough? Não sei muito sobre o lugar, nem sobre essa loja de que você está falando, mas sei onde fica. É logo ao norte de Caladon... aqui, vou marcar no seu mapa...}{}{}{}{mm 13}
+{253}{Valeu, Buggum!}{}{-4}{}{0}{}
+{255}{Sra. Misk? Sim, é uma história trágica. O velho Victor era mais louco que uma galinha de três pernas... no fim, dava pra pensar que ele tinha menos miolos que você, meu amigo cabeça de mingau!}{Sra. Misk? Sim, é uma história trágica. O velho Victor era mais louco que uma galinha de três pernas... no fim, dava pra pensar que ele tinha menos miolos que você, meu amigo cabeça de mingau!}{}{}{}{}
+{256}{Hã... tá bom! Onde ele foi enterrado?}{}{-4}{}{259}{}
+{257}{E:}{}{-4}{}{0}{}
+{259}{É a última cova da terceira fileira daqui...}{É a última cova da terceira fileira daqui...}{}{}{}{}
+{260}{Eu vou procurar!}{}{-4}{}{}{fl 270}
+{261}{Espere! Mais perguntas!}{}{-4}{}{198}{}
+{263}{Sim... uma história triste, essa. Nós o enterramos há quatro dias...}{Sim... uma história triste, essa. Nós o enterramos há quatro dias...}{}{}{}{}
+{264}{Quem mais sabe sobre ele?}{}{-4}{}{266}{}
+{266}{Você poderia tentar falar com a viúva Misk, [logo ao norte daqui, subindo a estrada um pouco]. Ela poderia responder a quaisquer outras perguntas que você tenha...}{Você poderia tentar falar com a viúva Misk, [logo ao norte daqui, subindo a estrada um pouco]. Ela poderia responder a quaisquer outras perguntas que você tenha...}{}{}{}{}
+{267}{Tá bom, Buggum! Valeu!}{}{-4}{}{}{fl 270}
+{268}{Espere! Mais perguntas!}{}{-4}{}{198}{}
+{270}{Tá bom! Não se perca! Se precisar de algo, volte e pergunte pro velho Bingham!}{Tá bom! Não se perca! Se precisar de algo, volte e pergunte pro velho Bingham!}{}{}{}{}
+{274}{Humpf. Vou te dizer, amigo... sou um anão bastante tolerante, mas não suporto te ver. Por que você não vai embora...?}{Humpf. Vou te dizer, amigo... sou um anão bastante tolerante, mas não suporto te ver. Por que você não vai embora...?}{}{}{}{}
+{275}{Espere um minuto. Vamos conversar sobre isso racionalmente...}{}{5}{}{283}{re +10}
+{276}{Seu coração vai ser ainda menos tolerante com a minha lâmina...}{}{5}{}{}{re -10, co, fl 293}
+{277}{Eu sei que não sou muito esperto, mas tento ser legal! Quer me perguntar algo?}{}{-4}{}{198}{re +20}
+{278}{Anão parece engraçado! E a barba dele tá bagunçada! Barba burra!}{}{-4}{}{}{re -10, co, fl 293}
+{279}{Vejo que não há como mudar sua opinião. Adeus.}{}{5}{}{0}{}
+{280}{Tá bom... [funga]... vou deixar você em paz.}{}{-4}{}{0}{}
+{283}{Mas você é tão REPUGNANTE... não tenho certeza se é algo que consigo esquecer...}{Mas você é tão REPUGNANTE... não tenho certeza se é algo que consigo esquecer...}{}{}{}{}
+{284}{Farei o que for necessário para mudar sua opinião...}{}{5}{}{288}{re +10}
+{285}{Vai ser fácil esquecer depois que você for decapitado...}{}{5}{}{}{re -10, co, fl 293}
+{286}{Lamento que veja as coisas dessa forma. Vou me retirar.}{}{5}{}{0}{}
+{288}{Tá bom, amigo. Vejo que está fazendo uma tentativa honesta de me convencer. Vou te encontrar no meio do caminho...}{Tá bom, amigo. Vejo que está fazendo uma tentativa honesta de me convencer. Vou te encontrar no meio do caminho...}{}{}{}{}
+{289}{Fico muito feliz. Posso saber seu nome?}{}{5}{lf16 0}{14}{lf16 1}
+{290}{Que ótimo, Bingham. Posso te fazer algumas perguntas?}{}{5}{lf16 1}{53}{}
+{291}{E:}{}{5}{}{0}{}
+{293}{O quê? Até um anão da cidade como eu tem seus limites! Vou te enterrar neste cemitério!}{O quê? Até um anão da cidade como eu tem seus limites! Vou te enterrar neste cemitério!}{}{}{}{}
+

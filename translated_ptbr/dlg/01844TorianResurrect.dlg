@@ -1,0 +1,16 @@
+{1}{Aah! Mais uma vez a morte foi enganada. E mais uma vez, devo agradecer a você.}{Aah! Mais uma vez a morte foi enganada. E mais uma vez, devo agradecer a você.}{}{1}{}{}
+{2}{Isso nem merece ser mencionado, na verdade. Você gostaria de se juntar a mim novamente?}{}{5}{}{15}{jo 0 10 lf30 1}
+{3}{Você se une.}{}{-4}{}{15}{jo 0 10 lf30 1}
+{9}{E:}{}{1}{}{0}{}
+{10}{[Ele se ajoelha à sua frente.] Seria uma honra lutar mais uma vez a seu serviço, senhor.}{[Ele se ajoelha à sua frente.] Seria uma honra lutar mais uma vez a seu serviço, senhor.}{}{2}{}{}
+{11}{Bom. Vamos lá.}{}{5}{}{-10}{}
+{12}{Certo. Vamos agora.}{}{-4}{}{-10}{}
+{15}{Deseja algo mais?}{Deseja algo mais?}{}{3}{}{}
+{16}{N:}{}{1}{}{0}{}
+{20}{A dor da morte não é novidade para mim, mas eu lhe agradeceria se me libertasse mesmo assim.}{A dor da morte não é novidade para mim, mas eu lhe agradeceria se me libertasse mesmo assim.}{}{4}{}{}
+{25}{Você voltou para me pedir que me junte a você novamente?}{Você voltou para me pedir que me junte a você novamente?}{}{5}{}{}
+{26}{Sim, você gostaria?}{}{5}{}{15}{jo 0 10}
+{27}{Você se une.}{}{-4}{}{15}{jo 0 10}
+{33}{E:}{}{1}{}{0}{}
+{34}{Mais uma vez devo agradecer por me ajudar a enganar a fria mão da morte.}{Mais uma vez devo agradecer por me ajudar a enganar a fria mão da morte.}{}{6}{}{}
+

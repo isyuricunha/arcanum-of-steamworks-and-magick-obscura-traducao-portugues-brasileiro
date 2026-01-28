@@ -1,0 +1,451 @@
+{1}{G: 1 10, 2 10, 3 10, 4 fl 730, 5 10, 6 10, 7 18, 8 0, 9 2}{G: 1 10, 2 10, 3 10, 4 fl 730, 5 10, 6 10, 7 18, 8 0, 9 2}{}{1}{}{gf2374 1 }
+{2}{[Você vê um elfo idoso com um manto gasto e esfarrapado. Ele parece um pouco irritado com sua presença.] O que você quer de mim? Não escolhi viver nesta ilha por causa do ambiente. [Ele faz um gesto para você se afastar.] Escolhi este lugar para não ter que aturar tolos. Deixe-me em paz.}{[Você vê um elfo idoso com um manto gasto e esfarrapado. Ele parece um pouco irritado com sua presença.] O que você quer de mim? Não escolhi viver nesta ilha por causa do ambiente. [Ele faz um gesto para você se afastar.] Escolhi este lugar para não ter que aturar tolos. Deixe-me em paz.}{}{2}{}{ }
+{3}{Calma. Não estou aqui para incomodá-lo, estou procurando um túmulo.}{}{5}{}{26}{ }
+{4}{E quem poderia ser você?}{}{5}{}{122}{ }
+{5}{Procuro um túmulo.}{}{-4}{}{26}{ }
+{10}{[Você vê um elfo idoso com um manto gasto e esfarrapado. Ele parece um pouco irritado com sua presença.] O que você quer de mim? Não escolhi viver nesta ilha por causa do ambiente. [Ele faz um gesto para você se afastar.] Escolhi este lugar para não ter que aturar tolos, especialmente os mágicos. Deixe-me em paz.}{[Você vê um elfo idoso com um manto gasto e esfarrapado. Ele parece um pouco irritado com sua presença.] O que você quer de mim? Não escolhi viver nesta ilha por causa do ambiente. [Ele faz um gesto para você se afastar.] Escolhi este lugar para não ter que aturar tolos, especialmente os mágicos. Deixe-me em paz.}{}{3}{}{ }
+{11}{Calma. Não estou aqui para incomodá-lo, estou procurando um túmulo.}{}{5}{}{26}{ }
+{12}{E quem poderia ser você?}{}{5}{}{122}{ }
+{18}{[Você vê um elfo idoso com um manto gasto e esfarrapado. Ele parece um pouco irritado com sua presença.] O que você quer de mim? Não escolhi viver nesta ilha por causa do ambiente. [Ele faz um gesto para você se afastar.] Escolhi este lugar para não ter que aturar tolos. Especialmente aqueles que nem sabem se vestir. Deixe-me em paz.}{[Você vê um elfo idoso com um manto gasto e esfarrapado. Ele parece um pouco irritado com sua presença.] O que você quer de mim? Não escolhi viver nesta ilha por causa do ambiente. [Ele faz um gesto para você se afastar.] Escolhi este lugar para não ter que aturar tolos. Especialmente aqueles que nem sabem se vestir. Deixe-me em paz.}{}{4}{}{ }
+{19}{Calma. Não estou aqui para incomodá-lo, estou procurando um túmulo.}{}{5}{}{26}{ }
+{20}{E quem poderia ser você?}{}{5}{}{122}{ }
+{21}{Procuro um túmulo.}{}{-4}{}{26}{ }
+{26}{Essa é uma jornada bem tola só para encontrar o corpo morto de alguém. Tenho medo de perguntar, mas de quem é o túmulo que está procurando?}{Essa é uma jornada bem tola só para encontrar o corpo morto de alguém. Tenho medo de perguntar, mas de quem é o túmulo que está procurando?}{}{5}{}{ }
+{27}{Estou procurando o local de descanso final de Nasrudin.}{}{5}{}{102}{ }
+{28}{Por que tem medo de perguntar?}{}{5}{}{34}{ }
+{29}{Nazroodan.}{}{-4}{}{102}{ }
+{34}{Tenho medo de perguntar, porque eu sei a resposta. Há apenas uma razão para qualquer tolo arriscar a vida vindo aqui, e é para procurar pelo "Grande Nasrudin".}{Tenho medo de perguntar, porque eu sei a resposta. Há apenas uma razão para qualquer tolo arriscar a vida vindo aqui, e é para procurar pelo "Grande Nasrudin".}{}{6}{}{ }
+{35}{Está certo, estou procurando por seus restos mortais.}{}{5}{}{127}{ }
+{36}{Não parece que você o tem em alta estima.}{}{5}{}{37}{ }
+{37}{"O Grande Nasrudin" não passa de um espinho no meu lado, todos esses muitos anos.}{"O Grande Nasrudin" não passa de um espinho no meu lado, todos esses muitos anos.}{}{7}{}{ }
+{38}{Como assim? Ele está morto há 2000 anos.}{}{5}{pa -6409, pa -6426}{43}{ }
+{39}{Você parece bastante amargo em relação ao velho...}{}{5}{pa -6409, pa 6426}{-28}{ }
+{40}{Você parece bastante amargo em relação ao velho...}{}{5}{pa 6409, pa -6426}{-35}{ }
+{41}{Você parece bastante amargo em relação ao velho...}{}{5}{pa 6409, pa 6426}{-35}{ }
+{43}{ EU deveria ter morrido há 2000 anos, se não fosse por algum instinto tolo de autopreservação. [Ele olha para longe.] Eu deveria ter deixado morrer, então.}{ EU deveria ter morrido há 2000 anos, se não fosse por algum instinto tolo de autopreservação. [Ele olha para longe.] Eu deveria ter deixado morrer, então.}{}{8}{}{ }
+{44}{Você é Nasrudin?}{}{5}{}{46}{ }
+{45}{Você não pode ser... Quero dizer, é impossível.}{}{5}{}{698}{ }
+{46}{Eu diria "em toda a minha glória", mas receio que não me reste mais nenhuma.}{Eu diria "em toda a minha glória", mas receio que não me reste mais nenhuma.}{}{9}{}{ }
+{47}{Mas você é Nasrudin! Você salvou o mundo de Arronax!}{}{5}{}{54}{ }
+{54}{[De repente, seu humor muda para uma tristeza silenciosa. Ele balança a cabeça lentamente.] Não, eu entreguei o mundo a Arronax. Coloquei em prática o sistema que ele sentiu que podia tomar para si, até mesmo transmiti a ele minha arrogância élfica. Devo arcar com toda a responsabilidade por suas ações.}{[De repente, seu humor muda para uma tristeza silenciosa. Ele balança a cabeça lentamente.] Não, eu entreguei o mundo a Arronax. Coloquei em prática o sistema que ele sentiu que podia tomar para si, até mesmo transmiti a ele minha arrogância élfica. Devo arcar com toda a responsabilidade por suas ações.}{}{10}{}{ }
+{55}{Um pouco dramático, não acha? As ações de Arronax foram dele próprio.}{}{5}{}{59}{ }
+{59}{Você não entende... ele era meu filho. Eu o ensinei. Tudo. Só para vê-lo ser levado por seu temperamento juvenil. Eu deveria ter percebido. Deve ter havido uma maneira de detê-lo antes que chegasse a... o que chegou.}{Você não entende... ele era meu filho. Eu o ensinei. Tudo. Só para vê-lo ser levado por seu temperamento juvenil. Eu deveria ter percebido. Deve ter havido uma maneira de detê-lo antes que chegasse a... o que chegou.}{}{11}{}{ru2111 }
+{60}{Já ouvi todas as lendas, você pode me contar o que realmente aconteceu?}{}{5}{}{65}{ }
+{65}{Começou na Era das Lendas. Eu era jovem, cabeça-dura. Achava que podia enfrentar o mundo, e enfrentei. Lutei a boa luta, para proteger as "raças inferiores", como eu arrogantemente as chamava, do caos que assolava por toda parte. Dragões, demônios, feiticeiros malignos, enfrentei todos e venci. E tudo isso antes mesmo dos dias do Conselho Élfico.}{Começou na Era das Lendas. Eu era jovem, cabeça-dura. Achava que podia enfrentar o mundo, e enfrentei. Lutei a boa luta, para proteger as "raças inferiores", como eu arrogantemente as chamava, do caos que assolava por toda parte. Dragões, demônios, feiticeiros malignos, enfrentei todos e venci. E tudo isso antes mesmo dos dias do Conselho Élfico.}{}{12}{}{ }
+{66}{Como surgiu o Conselho Élfico?}{}{5}{}{70}{ }
+{70}{Reuni um grupo de magos idealistas e criamos um Conselho Élfico. "Pelo bem de todos." Nós realmente acreditávamos nisso. Por um tempo, suponho que até tenha sido verdade. Acredito que as coisas começaram a mudar quando descobrimos uma maneira de banir coisas deste plano de existência.}{Reuni um grupo de magos idealistas e criamos um Conselho Élfico. "Pelo bem de todos." Nós realmente acreditávamos nisso. Por um tempo, suponho que até tenha sido verdade. Acredito que as coisas começaram a mudar quando descobrimos uma maneira de banir coisas deste plano de existência.}{}{13}{}{ }
+{71}{Por quê?}{}{5}{}{76}{ }
+{76}{Era a arma definitiva. Uma vez que algo era banido deste plano de existência, nunca mais poderia retornar. Com poder absoluto vem responsabilidade absoluta, e corrupção absoluta. Nós a usamos rapidamente contra novas e cada vez mais terríveis ameaças. A Praga de Kree. Kraka-Tur. Gorgoth. Kerghan.}{Era a arma definitiva. Uma vez que algo era banido deste plano de existência, nunca mais poderia retornar. Com poder absoluto vem responsabilidade absoluta, e corrupção absoluta. Nós a usamos rapidamente contra novas e cada vez mais terríveis ameaças. A Praga de Kree. Kraka-Tur. Gorgoth. Kerghan.}{}{14}{}{ }
+{77}{E como Arronax se encaixou em tudo isso?}{}{5}{}{83}{ }
+{83}{Em algum momento durante toda essa carnificina heroica, meu filho atingiu a maioridade. Rapidamente o apresentei ao conselho, apesar dos protestos de alguns dos outros sobre sua pouca idade e inexperiência. E então tudo desabou sobre mim. [Ele faz uma pausa.] Olha, você tem certeza de que realmente quer ouvir toda essa ladainha autopiedosa?}{Em algum momento durante toda essa carnificina heroica, meu filho atingiu a maioridade. Rapidamente o apresentei ao conselho, apesar dos protestos de alguns dos outros sobre sua pouca idade e inexperiência. E então tudo desabou sobre mim. [Ele faz uma pausa.] Olha, você tem certeza de que realmente quer ouvir toda essa ladainha autopiedosa?}{}{15}{}{ }
+{84}{Claro. Então, o que Arronax fez de tão terrível?}{}{5}{}{-20}{ru2117 }
+{90}{Eu havia recuperado energia suficiente para me selar em uma casca regenerativa. Permaneci assim por mil anos. Ninguém jamais havia ficado em uma casca por tanto tempo. De alguma forma, minha "hibernação mágica" estendeu minha vida muito além da dos magos élficos mais poderosos.}{Eu havia recuperado energia suficiente para me selar em uma casca regenerativa. Permaneci assim por mil anos. Ninguém jamais havia ficado em uma casca por tanto tempo. De alguma forma, minha "hibernação mágica" estendeu minha vida muito além da dos magos élficos mais poderosos.}{}{16}{}{gf2063 1, qu1024 4 }
+{91}{Por que você se escondeu aqui por mil anos?}{}{5}{}{136}{lf8 1 }
+{92}{Preciso da sua ajuda. Arronax está voltando. [Conte a ele sua história.]}{}{5}{gf1099 1, gf2000 0, na799, gf1097 0}{192}{ }
+{93}{Preciso da sua ajuda. Arronax está voltando. [Conte a ele sua história.]}{}{5}{gf2000 1, na 799}{192}{ }
+{94}{Preciso da sua ajuda. Arronax está voltando. [Conte a ele sua história.]}{}{5}{gf1097 1, gf2000 0}{322}{ }
+{95}{Preciso da sua ajuda. Arronax está voltando. [Conte a ele sua história.]}{}{5}{gf1099 1, gf2000 0, na -800}{499}{ }
+{96}{Preciso da sua ajuda. Arronax está voltando. [Conte a ele sua história.]}{}{5}{gf2000 1, na -800}{499}{ }
+{97}{Você está ciente de que existe uma religião que o venera?}{}{5}{}{142}{ }
+{98}{Você pode me contar sobre os outros que foram banidos?}{}{5}{}{374}{ }
+{100}{Devo me retirar. Tenha um bom dia, senhor.}{}{5}{}{454}{ }
+{101}{Preciso de ajuda porque o ronax vem me machucar. [Conte-lhe sua história.]}{}{-4}{}{192}{ }
+{102}{Claro! Procurando pelo "Grande Nasrudin". Hah! O "Grande Nasrudin". O que havia de tão grandioso nele? Um tolo maldito, se quer saber minha opinião.}{Claro! Procurando pelo "Grande Nasrudin". Hah! O "Grande Nasrudin". O que havia de tão grandioso nele? Um tolo maldito, se quer saber minha opinião.}{}{17}{}{ }
+{103}{Seja como for, preciso localizar seus restos mortais.}{}{5}{pa -6409, pa -6426}{112}{ }
+{104}{Você parece um tanto amargo com alguém que está morto há 2000 anos.}{}{5}{pa -6409, pa -6426}{43}{ }
+{105}{Eu num tô nem aí. Eu tenho que achar o corpo dele.}{}{-4}{pa -6409, pa -6426}{112}{ }
+{106}{Você parece bastante amargo com o velho...}{}{5}{pa -6409, pa 6426}{-28}{ }
+{107}{Você parece bastante amargo com o velho...}{}{5}{pa 6409, pa -6426}{-35}{ }
+{108}{Você parece bastante amargo com o velho...}{}{5}{pa 6409, pa 6426}{-35}{ }
+{109}{Hã... por que você num gosta do Nazroodan?}{}{-4}{pa -6409, pa 6426}{-28}{ }
+{110}{Hã... por que você num gosta do Nazroodan?}{}{-4}{pa 6409, pa -6426}{-35}{ }
+{111}{Hã... por que você num gosta do Nazroodan?}{}{-4}{pa 6409, pa 6426}{-35}{ }
+{112}{Bem, você está olhando para o que restou do "Não tão Grande" Nasrudin. Haveria muito menos de mim se não fosse por algum instinto tolo de autopreservação. [Ele olha fixamente para a distância.] Eu deveria ter deixado a mim mesmo morrer, então.}{Bem, você está olhando para o que restou do "Não tão Grande" Nasrudin. Haveria muito menos de mim se não fosse por algum instinto tolo de autopreservação. [Ele olha fixamente para a distância.] Eu deveria ter deixado a mim mesmo morrer, então.}{}{18}{}{ }
+{113}{Espere, você está me dizendo que você é o Nasrudin?}{}{5}{}{46}{ }
+{114}{Você não pode ser... Quero dizer, é impossível.}{}{5}{}{698}{ }
+{115}{Por que isso? Você matou o grande e malvado Arospaz!}{}{-4}{}{569}{ }
+{122}{Eu não sou ninguém de importância, apenas uma alma velha que deseja ser deixada em paz. Como já pedi a você, devo ressaltar.}{Eu não sou ninguém de importância, apenas uma alma velha que deseja ser deixada em paz. Como já pedi a você, devo ressaltar.}{}{19}{}{ }
+{123}{Se você pudesse me indicar o túmulo de Nasrudin, então.}{}{5}{}{127}{ }
+{127}{Ahhh, procurando pelo "Grande Nasrudin". Hah! O "Grande Nasrudin". O que havia de tão grandioso nele? Um tolo maldito, se quer saber minha opinião.}{Ahhh, procurando pelo "Grande Nasrudin". Hah! O "Grande Nasrudin". O que havia de tão grandioso nele? Um tolo maldito, se quer saber minha opinião.}{}{20}{}{ }
+{128}{Seja como for, preciso localizar seus restos mortais.}{}{5}{pa -6409, pa -6426}{112}{ }
+{129}{Você parece um tanto amargo com alguém que está morto há 2000 anos.}{}{5}{pa -6409, pa -6426}{43}{ }
+{130}{Você parece bastante amargo com o velho...}{}{5}{pa -6409, pa 6426}{-28}{ }
+{131}{Você parece bastante amargo com o velho...}{}{5}{pa 6409, pa -6426}{-35}{ }
+{132}{Você parece bastante amargo com o velho...}{}{5}{pa 6409, pa 6426}{-35}{ }
+{133}{Hmm... por que você não gosta de Nazroodan?}{}{-4}{pa -6409, pa 6426}{-28}{ }
+{134}{Hmm... por que você não gosta de Nazroodan?}{}{-4}{pa 6409, pa -6426}{-35}{ }
+{135}{Hmm... por que você não gosta de Nazroodan?}{}{-4}{pa 6409, pa 6426}{-35}{ }
+{136}{O mundo lá fora não é meu, ele só serve para me lembrar do meu fracasso. Todos que eu conhecia, tudo que eu prezava, se foi. Eu mesmo já deveria ter morrido há muito tempo. Além disso, não me agrada ser adorado como um deus.}{O mundo lá fora não é meu, ele só serve para me lembrar do meu fracasso. Todos que eu conhecia, tudo que eu prezava, se foi. Eu mesmo já deveria ter morrido há muito tempo. Além disso, não me agrada ser adorado como um deus.}{}{21}{}{ }
+{137}{Você sabe sobre os Panarii?}{}{5}{}{142}{ }
+{138}{Eu conheço esse sentimento. Os Panarii acham que sou sua reencarnação.}{}{5}{gf2004 1}{162}{ }
+{140}{E:}{}{5}{lf6 0}{454}{ }
+{141}{E:}{}{5}{qu1051 2}{0}{ }
+{142}{Estou bem ciente de toda essa palhaçada dos Panarii, sim. Quando emergi do meu estado regenerativo, viajei para o continente. Suponho que pensei que poderia de alguma forma viver entre o mundo novamente... depois que falei com aquele sujeito, Mannox, soube que estava me iludindo.}{Estou bem ciente de toda essa palhaçada dos Panarii, sim. Quando emergi do meu estado regenerativo, viajei para o continente. Suponho que pensei que poderia de alguma forma viver entre o mundo novamente... depois que falei com aquele sujeito, Mannox, soube que estava me iludindo.}{}{22}{}{lf3 1 }
+{143}{Ele lhe contou como os Panarii começaram?}{}{5}{}{175}{ }
+{144}{Você não lhe disse quem você era?}{}{5}{}{152}{ }
+{145}{Preciso da sua ajuda. Arronax está voltando. [Conte-lhe sua história.]}{}{5}{gf1099 1, gf2000 0, lf7 0, na 799, gf1097 0}{192}{lf7 1 }
+{146}{Preciso da sua ajuda. Arronax está voltando. [Conte-lhe sua história.]}{}{5}{gf2000 1, lf7 0, na 799}{192}{lf7 1 }
+{147}{Preciso da sua ajuda. Arronax está voltando. [Conte-lhe sua história.]}{}{5}{gf1097 1, gf2000 0, lf7 0}{322}{lf7 1 }
+{148}{Preciso da sua ajuda. Arronax está voltando. [Conte-lhe sua história.]}{}{5}{gf1099 1, gf2000 0, lf7 0, na -800}{499}{lf7 1 }
+{149}{Preciso da sua ajuda. Arronax está voltando. [Conte-lhe sua história.]}{}{5}{gf2000 1, lf7 0, na -800}{499}{lf7 1 }
+{150}{E:}{}{5}{lf6 0}{454}{ }
+{151}{Interessante. Bem, estou indo para Vendigroth, então.}{}{5}{qu1051 2}{0}{qu1051 2, gf2089 1, gf2089 1 }
+{152}{Depois de ouvir suas crenças insanas por horas a fio, dei a entender que eu realmente conhecera Nasrudin. Ele já estava longe demais. Não teria acreditado em nenhuma das minhas negativas ou protestos contra minha divindade. Provavelmente teria interpretado tudo como algum tipo de teste, suponho.}{Depois de ouvir suas crenças insanas por horas a fio, dei a entender que eu realmente conhecera Nasrudin. Ele já estava longe demais. Não teria acreditado em nenhuma das minhas negativas ou protestos contra minha divindade. Provavelmente teria interpretado tudo como algum tipo de teste, suponho.}{}{23}{}{ }
+{153}{O que aconteceu com Mannox? Eles acreditam que ele "ascendeu" com você.}{}{5}{gf2020 0, gf2022 1}{182}{lf5 1 }
+{154}{Eles acreditam que sou sua reencarnação.}{}{5}{gf2004 1}{162}{lf4 1 }
+{155}{Você sabia que K'an Hua assassinou Mannox?}{}{5}{gf2020 1}{342}{lf5 1 }
+{156}{Sabia que havia uma tribo aqui que também o adorava como um deus?}{}{5}{na 799}{740}{ }
+{160}{E:}{}{5}{lf6 0, gf2039 0}{454}{ }
+{161}{E:}{}{5}{qu1051 2, gf2039 0}{0}{ }
+{162}{Tenho pena de você, então. Recebi uma amostra dessa adoração heroica de Mannox, e posso lhe dizer que não gostei nem um pouco desse gosto.}{Tenho pena de você, então. Recebi uma amostra dessa adoração heroica de Mannox, e posso lhe dizer que não gostei nem um pouco desse gosto.}{}{24}{}{ }
+{163}{Um ponto de vista interessante, considerando tudo...}{}{5}{pa 6409, gf2444 0}{-40}{ }
+{164}{Preciso da sua ajuda. Arronax está voltando. [Conte-lhe sua história.]}{}{5}{pa 6409, gf2444 1}{192}{ }
+{165}{Então você sabia sobre Mannox e os Panarii?}{}{5}{pa 6409, gf2444 1}{142}{ }
+{166}{Interessante. Bem, estou indo para Vendigroth, então.}{}{5}{qu1051 2,  pa 6409, gf2444 1}{0}{qu1051 2, gf2089 1 }
+{167}{Preciso da sua ajuda. Arronax está voltando. [Conte-lhe sua história.]}{}{5}{gf1099 1, gf2000 0, lf7 0, na 799, pa -6409}{192}{lf7 1 }
+{168}{Preciso da sua ajuda. Arronax está voltando. [Conte a ele sua história.]}{}{5}{gf2000 1, lf7 0, na 799, pa -6409}{192}{lf7 1 }
+{169}{Preciso da sua ajuda. Arronax está voltando. [Conte a ele sua história.]}{}{5}{gf1097 1, gf2000 0, lf7 0, pa -6409}{322}{lf7 1 }
+{170}{Então você sabia sobre Mannox e os Panarii?}{}{5}{lf3 0, pa -6409}{142}{ }
+{171}{Preciso da sua ajuda. Arronax está voltando. [Conte a ele sua história.]}{}{5}{gf1099 1, gf2000 0, lf7 0, na -800, pa -6409}{499}{lf7 1 }
+{172}{Preciso da sua ajuda. Arronax está voltando. [Conte a ele sua história.]}{}{5}{gf2000 1, lf7 0, na -800, pa -6409}{499}{lf7 1 }
+{173}{E:}{}{5}{lf6 0, pa -6409}{454}{ }
+{174}{Interessante. Bem, estou indo para Vendigroth, então.}{}{5}{qu1051 2, pa  -6409}{0}{qu1051 2, gf2089 1 }
+{175}{Ele não sabia muito, na maioria das vezes apenas algumas noções fantasiosas misturadas com fragmentos da história. Pelo que consegui juntar ao falar com ele, K'rynn Urden, o último membro sobrevivente do Conselho, fundou os Panarii simplesmente para manter as barreiras. Para fortalecê-las periodicamente, por assim dizer.}{Ele não sabia muito, na maioria das vezes apenas algumas noções fantasiosas misturadas com fragmentos da história. Pelo que consegui juntar ao falar com ele, K'rynn Urden, o último membro sobrevivente do Conselho, fundou os Panarii simplesmente para manter as barreiras. Para fortalecê-las periodicamente, por assim dizer.}{}{25}{}{ }
+{176}{Você contou a Mannox quem você era?}{}{5}{}{152}{ }
+{177}{O que aconteceu com Mannox? Eles acreditam que ele "ascendeu" com você.}{}{5}{gf2020 0, gf2022 1}{182}{ }
+{178}{Você está ciente de que K'an Hua assassinou Mannox?}{}{5}{gf2020 1}{342}{ }
+{181}{E:}{}{5}{qu1051 2, gf2039 0}{0}{ }
+{182}{Sim, a notícia disso acabou chegando aos meus ouvidos. Só posso supor que, de alguma forma, ele percebeu quem eu era e começou a falar sobre sua "visitação". Não faço a menor ideia de onde surgiu a parte da lenda sobre a ascensão.}{Sim, a notícia disso acabou chegando aos meus ouvidos. Só posso supor que, de alguma forma, ele percebeu quem eu era e começou a falar sobre sua "visitação". Não faço a menor ideia de onde surgiu a parte da lenda sobre a ascensão.}{}{26}{}{ }
+{183}{Preciso da sua ajuda. Arronax está voltando. [Conte a ele sua história.]}{}{5}{gf1099 1, gf2000 0, lf7 0, na 799, gf1097 0}{192}{lf7 1 }
+{184}{Preciso da sua ajuda. Arronax está voltando. [Conte a ele sua história.]}{}{5}{gf2000 1, lf7 0, na 799}{192}{lf7 1 }
+{185}{Preciso da sua ajuda. Arronax está voltando. [Conte a ele sua história.]}{}{5}{gf1097 1, gf2000 0, lf7 0}{322}{lf7 1 }
+{186}{Preciso da sua ajuda. Arronax está voltando. [Conte a ele sua história.]}{}{5}{gf1099 1, gf2000 0, lf7 0, na -800}{499}{lf7 1 }
+{187}{Preciso da sua ajuda. Arronax está voltando. [Conte a ele sua história.]}{}{5}{gf2000 1, lf7 0, na -800}{499}{lf7 1 }
+{190}{E:}{}{5}{lf6 0, gf2039 0}{454}{ }
+{191}{Interessante. Bem, estou indo para Vendigroth, então.}{}{5}{qu1051 2, gf2039 0}{0}{qu1051 2, gf2089 1 }
+{192}{[Ele suspira. É quase como se você pudesse ver o peso de suas palavras perfurando seu espírito.] Sinto como se estivesse esperando para ouvir essas palavras desde que acordei, tantos anos atrás. Eu esperava que nunca chegasse a isso. [Ele grita em angústia] Por que, Arronax? Por que não consegue ver a loucura do caminho que escolheu? [Ele olha para você.] O que você vai fazer a respeito dessa situação?}{[Ele suspira. É quase como se você pudesse ver o peso de suas palavras perfurando seu espírito.] Sinto como se estivesse esperando para ouvir essas palavras desde que acordei, tantos anos atrás. Eu esperava que nunca chegasse a isso. [Ele grita em angústia] Por que, Arronax? Por que não consegue ver a loucura do caminho que escolheu? [Ele olha para você.] O que você vai fazer a respeito dessa situação?}{}{27}{}{ }
+{193}{O que eu vou fazer? Ele é seu filho. O que você vai fazer?}{}{5}{}{202}{ }
+{194}{Por favor, não me envolva nos problemas da sua família.}{}{5}{}{479}{re -5 }
+{195}{Mas ele é seu filho. O que você vai fazer?}{}{-4}{na 799}{576}{ }
+{196}{But he your son. Whut you do?}{}{-4}{na -800}{579}{ }
+{197}{Não sei. Mas eu tenho que ir.}{}{-4}{}{0}{lf14 1 }
+{202}{Temo que não haja nada que eu possa fazer. Estou velho, cansado. Não acredito que conseguiria enfrentar meu filho agora, mesmo que encontrasse coragem para tentar.}{Temo que não haja nada que eu possa fazer. Estou velho, cansado. Não acredito que conseguiria enfrentar meu filho agora, mesmo que encontrasse coragem para tentar.}{}{28}{}{ }
+{203}{Como é que ele ainda é tão poderoso depois de todo esse tempo?}{}{5}{}{212}{ }
+{204}{Bem, algo precisa ser feito.}{}{5}{}{222}{ }
+{210}{E:}{}{5}{lf6 0}{454}{ }
+{211}{E:}{}{5}{qu1051 2}{0}{ }
+{212}{Não sabemos como é a vida no Vazio, se é que pode ser chamada de vida. Quem sabe que fontes de poder poderiam ser encontradas do outro lado?}{Não sabemos como é a vida no Vazio, se é que pode ser chamada de vida. Quem sabe que fontes de poder poderiam ser encontradas do outro lado?}{}{29}{}{ }
+{213}{Deve haver alguma maneira de detê-lo.}{}{5}{}{222}{ }
+{222}{Agora, só consigo pensar em uma estratégia possível para derrotá-lo. Você deve recuperar o dispositivo de Vendigroth, que foi criado para destruí-lo.}{Agora, só consigo pensar em uma estratégia possível para derrotá-lo. Você deve recuperar o dispositivo de Vendigroth, que foi criado para destruí-lo.}{}{30}{}{qu1051 1, ss 18, gf2089 1 }
+{223}{O dispositivo de Vendigroth? Você disse que Vendigroth foi destruída.}{}{5}{}{232}{ }
+{224}{Eu já recuperei o dispositivo.}{}{5}{gf2027 1}{464}{ss19 }
+{225}{Eu tinha recuperado o dispositivo, mas ele foi destruído durante minhas viagens.}{}{5}{gf2028 1}{474}{ss19 }
+{226}{Vandigross explodiu por ronaxezes?}{}{-4}{}{232}{ }
+{227}{Ah, eu peguei aquela coisa.}{}{-4}{gf2027 1}{464}{ss19 }
+{228}{Eu quebrei.}{}{-4}{gf2028 1}{474}{ss19 }
+{232}{E assim foi, na superfície. Há muitas catacumbas e túneis sob a terra. Alguns membros tentaram recuperá-lo para usar contra Arronax, mas nunca retornaram. Fomos forçados a enfrentá-lo sem ele, e você conhece as consequências disso.}{E assim foi, na superfície. Há muitas catacumbas e túneis sob a terra. Alguns membros tentaram recuperá-lo para usar contra Arronax, mas nunca retornaram. Fomos forçados a enfrentá-lo sem ele, e você conhece as consequências disso.}{}{31}{}{ }
+{233}{O que o dispositivo faz?}{}{5}{}{242}{ }
+{234}{Tenho medo dessas coisas. Vou embora agora.}{}{-4}{}{484}{ }
+{240}{Não gostei do som de "catacumbas e túneis". Tenha um bom dia.}{}{5}{}{484}{re -5 }
+{241}{O que essa coisa faz?}{}{-4}{}{582}{ }
+{242}{Magos extremamente poderosos têm a habilidade de se regenerar sempre que são gravemente feridos, como eu fiz. Se alguém for poderoso o suficiente para ferir gravemente um mestre feiticeiro, o mago se recolherá em seu casulo regenerativo e emergirá mais forte do que nunca. O dispositivo é a única maneira conhecida de interromper o escudo regenerativo.}{Magos extremamente poderosos têm a habilidade de se regenerar sempre que são gravemente feridos, como eu fiz. Se alguém for poderoso o suficiente para ferir gravemente um mestre feiticeiro, o mago se recolherá em seu casulo regenerativo e emergirá mais forte do que nunca. O dispositivo é a única maneira conhecida de interromper o escudo regenerativo.}{}{32}{}{ }
+{243}{E interromper o campo mata o mago dentro dele?}{}{5}{}{252}{ }
+{252}{Exatamente. A tecnologia do dispositivo é projetada para interromper o campo de tal maneira que faz o casulo drenar a força vital, em vez de regenerá-la. É bastante macabro de se imaginar, na verdade. Além disso, diz-se que quem é morto dessa forma é separado deste mundo para sempre, sem chance de ser trazido de volta magicamente ou de qualquer outra maneira.}{Exatamente. A tecnologia do dispositivo é projetada para interromper o campo de tal maneira que faz o casulo drenar a força vital, em vez de regenerá-la. É bastante macabro de se imaginar, na verdade. Além disso, diz-se que quem é morto dessa forma é separado deste mundo para sempre, sem chance de ser trazido de volta magicamente ou de qualquer outra maneira.}{}{33}{}{ru2118 }
+{253}{Como posso encontrar esse dispositivo?}{}{5}{}{262}{ }
+{254}{Por que você não recupera o dispositivo?}{}{5}{lf17 0}{272}{lf17 1 }
+{262}{Você deve procurar nas ruínas de Vendigroth, nos ermos onde a cidade um dia esteve.}{Você deve procurar nas ruínas de Vendigroth, nos ermos onde a cidade um dia esteve.}{}{34}{}{ }
+{263}{Por que você não recupera o dispositivo?}{}{5}{lf17 0}{272}{lf17 1 }
+{264}{Onde posso encontrar as ruínas? Os ermos são vastos, como você sabe.}{}{5}{}{354}{ }
+{265}{Eu já recuperei o dispositivo.}{}{5}{gf2027 1}{464}{ss19 }
+{266}{Eu tinha recuperado o dispositivo, mas ele foi destruído durante minhas viagens.}{}{5}{gf2028 1}{474}{ss19 }
+{267}{Acho que não quero mais arriscar minha vida em missões tolas.}{}{5}{}{484}{ }
+{272}{Devo conservar o pouco que resta da minha energia para bani-lo ao Vazio, assim que tiver recuperado o dispositivo. O feitiço de banimento raramente é realizado por um único mago, seu requisito de poder é tão grande.}{Devo conservar o pouco que resta da minha energia para bani-lo ao Vazio, assim que tiver recuperado o dispositivo. O feitiço de banimento raramente é realizado por um único mago, seu requisito de poder é tão grande.}{}{35}{}{ }
+{273}{Espere um momento... você vai me banir?}{}{5}{}{282}{ }
+{282}{Certamente. Se esperarmos Arronax romper as barreiras, temo que a perda de vidas será incalculável.}{Certamente. Se esperarmos Arronax romper as barreiras, temo que a perda de vidas será incalculável.}{}{36}{}{ }
+{283}{Parece que tudo recaiu sobre mim, mais uma vez.}{}{5}{ar20}{292}{ }
+{284}{Onde posso encontrar as ruínas?}{}{5}{ar-20}{354}{ }
+{292}{A ironia de tudo isso não me passa despercebida. Quase se poderia acreditar que as profecias são verdadeiras. Parece que você é fundamental para deter este cataclismo. Se ao menos isso não fosse necessário. Eu esperava que... esperava que, se Arronax algum dia retornasse, ele tivesse percebido o erro do que fez.}{A ironia de tudo isso não me passa despercebida. Quase se poderia acreditar que as profecias são verdadeiras. Parece que você é fundamental para deter este cataclismo. Se ao menos isso não fosse necessário. Eu esperava que... esperava que, se Arronax algum dia retornasse, ele tivesse percebido o erro do que fez.}{}{37}{}{ }
+{293}{Pelo que vi dele, diria que não.}{}{5}{}{302}{ }
+{302}{Sim, sim. É óbvio para mim que ele se comprometeu com um caminho que só pode terminar em sua destruição.}{Sim, sim. É óbvio para mim que ele se comprometeu com um caminho que só pode terminar em sua destruição.}{}{38}{}{ }
+{303}{O que faço depois de recuperar o dispositivo?}{}{5}{gf2027 0, gf2028 0, lf11 0}{312}{ }
+{304}{Se devo ser banido, que assim seja.}{}{5}{lf11 1}{312}{ }
+{312}{Você deve me encontrar no local das barreiras, o Anel de Brodgar, como são conhecidas agora. A barreira entre os mundos é fina o suficiente lá para que eu possa enviá-lo sozinho. Sugiro que traga toda a ajuda que puder recrutar, pois não será tarefa fácil derrotar Arronax.}{Você deve me encontrar no local das barreiras, o Anel de Brodgar, como são conhecidas agora. A barreira entre os mundos é fina o suficiente lá para que eu possa enviá-lo sozinho. Sugiro que traga toda a ajuda que puder recrutar, pois não será tarefa fácil derrotar Arronax.}{}{39}{}{lf6 1, ss 18 }
+{313}{Então, para os ermos.}{}{5}{}{0}{qu1051 2, gf2089 1 }
+{314}{Eu o farei, mas pode esclarecer algumas coisas antes de eu partir?}{}{5}{}{364}{qu1051 2, gf2089 1 }
+{322}{[Ele suspira. É quase como se você pudesse ver o peso de suas palavras perfurando seu espírito.] Sinto como se estivesse esperando para ouvir essas palavras desde que acordei, tantos anos atrás. Eu esperava que nunca chegasse a isso. Pelo seu relato, só posso deduzir que o Clã da Montanha Negra foi banido ao Vazio para construir algum tipo de dispositivo tecnológico para anular as barreiras.}{[Ele suspira. É quase como se você pudesse ver o peso de suas palavras perfurando seu espírito.] Sinto como se estivesse esperando para ouvir essas palavras desde que acordei, tantos anos atrás. Eu esperava que nunca chegasse a isso. Pelo seu relato, só posso deduzir que o Clã da Montanha Negra foi banido ao Vazio para construir algum tipo de dispositivo tecnológico para anular as barreiras.}{}{40}{}{qu1016 4 }
+{323}{Então é assim que Arronax planeja retornar?}{}{5}{na 799}{332}{ }
+{324}{Então é assim que Arronax planeja retornar?}{}{5}{na -800}{499}{ }
+{332}{[Ele grita em angústia] Por quê, Arronax? Por que não consegue ver a loucura do caminho que escolheu? [Ele olha para você.] O que você vai fazer a respeito dessa situação?}{[Ele grita em angústia] Por quê, Arronax? Por que não consegue ver a loucura do caminho que escolheu? [Ele olha para você.] O que você vai fazer a respeito dessa situação?}{}{41}{}{ }
+{333}{O que eu vou fazer? Ele é seu filho. O que você vai fazer?}{}{5}{}{202}{ }
+{342}{Quando Mannox desapareceu, eu soube que algo dessa natureza devia ter acontecido.}{Quando Mannox desapareceu, eu soube que algo dessa natureza devia ter acontecido.}{}{42}{}{ }
+{343}{E você não fez nada a respeito?}{}{5}{}{347}{ }
+{347}{Decidi que não era mais meu lugar agir como um deus. Quem sou eu para decidir quem está certo? Quando assumi esse papel antes... bem, você já ouviu o que aconteceu então.}{Decidi que não era mais meu lugar agir como um deus. Quem sou eu para decidir quem está certo? Quando assumi esse papel antes... bem, você já ouviu o que aconteceu então.}{}{43}{}{ }
+{348}{Você vai precisar fazer algo agora. [Conte a ele sua história.]}{}{5}{gf1099 1, gf2000 0, lf7 0, na 799}{192}{lf7 1 }
+{349}{Você vai precisar fazer algo agora. [Conte a ele sua história.]}{}{5}{gf2000 1, lf7 0, na 799}{192}{lf7 1 }
+{350}{Você vai precisar fazer algo agora. [Conte a ele sua história.]}{}{5}{gf1097 1, gf2000 0, lf7 0}{322}{lf7 1 }
+{351}{Você vai precisar fazer algo agora. [Conte a ele sua história.]}{}{5}{gf1099 1, gf2000 0, lf7 0, na -800}{499}{lf7 1 }
+{352}{Você vai precisar fazer algo agora. [Conte a ele sua história.]}{}{5}{gf2000 1, lf7 0, na -800}{499}{lf7 1 }
+{353}{Interessante. Bem, estou indo para Vendigroth, então.}{}{5}{qu1051 2}{0}{qu1051 2, gf2089 1 }
+{354}{Não sei exatamente. Aqueles dias já se foram há muito tempo, e com eles, receio, grande parte da minha memória. Tudo o que sei é que, em algum momento, Vendigroth e seus assentamentos se espalhavam por toda aquela área agora conhecida como os Ermos. Havia uma ponte que levava à província de Vendigroth, aqui. [Ele marca seu mapa.]}{Não sei exatamente. Aqueles dias já se foram há muito tempo, e com eles, receio, grande parte da minha memória. Tudo o que sei é que, em algum momento, Vendigroth e seus assentamentos se espalhavam por toda aquela área agora conhecida como os Ermos. Havia uma ponte que levava à província de Vendigroth, aqui. [Ele marca seu mapa.]}{}{44}{}{mm20, lf2 1 }
+{355}{Por que você não recupera o dispositivo?}{}{5}{lf17 0}{272}{lf17 1 }
+{362}{Interessante. Bem, estou indo para Vendigroth, então.}{}{5}{}{0}{qu1051 2, gf2089 1 }
+{364}{O que está perturbando seus pensamentos?}{O que está perturbando seus pensamentos?}{}{45}{}{lf6 1 }
+{365}{Você está ciente dos Panarii?}{}{5}{lf3 0}{142}{lf3 1 }
+{366}{Por que você se escondeu aqui por mil anos?}{}{5}{lf8 0}{136}{lf8 1 }
+{367}{Como posso derrotar Arronax?}{}{5}{qu1051 0, lf7 1}{222}{ }
+{368}{Você está ciente de que K'an Hua assassinou Mannox?}{}{5}{gf2020 1, lf3 1}{342}{lf5 1 }
+{369}{Arronax encontrou um jeito de retornar.}{}{5}{lf7 0}{705}{ }
+{370}{Você pode me contar sobre os outros que foram banidos?}{}{5}{}{374}{ }
+{371}{Os Panarii acreditam que sou sua reencarnação.}{}{5}{gf2004 1, lf4 0}{162}{lf4 1 }
+{372}{O que aconteceu com Mannox? Eles acreditam que ele "ascendeu" com você.}{}{5}{gf2022 1, gf2020 0, lf3 1}{182}{lf5 1 }
+{373}{E:}{}{5}{}{0}{ }
+{374}{De quem você gostaria de ouvir a história triste?}{De quem você gostaria de ouvir a história triste?}{}{46}{}{ }
+{375}{Qual era a história por trás de Gorgoth?}{}{5}{}{424}{ }
+{376}{Você pode me contar sobre Kerghan?}{}{5}{}{384}{ }
+{377}{E sobre a Praga de Kree?}{}{5}{}{434}{ }
+{378}{Kraka-Tur?}{}{5}{}{444}{ }
+{380}{K:}{}{5}{}{364}{ }
+{382}{Preciso seguir meu caminho para Vendigroth.}{}{5}{lf6 1, gf2039 0}{0}{ }
+{383}{E:}{}{1}{lf6 0, gf2039 0}{454}{ }
+{384}{Kerghan era um membro do Conselho, o único humano, na verdade. Ele era um curioso, sempre experimentando e buscando novas magias. Sua descoberta das Artes Necromânticas foi o começo do fim para ele. O Conselho não via com bons olhos magias que tinham a capacidade de manipular a própria força vital de um ser, e ordenamos que ele parasse com qualquer investigação adicional nessa área.}{Kerghan era um membro do Conselho, o único humano, na verdade. Ele era um curioso, sempre experimentando e buscando novas magias. Sua descoberta das Artes Necromânticas foi o começo do fim para ele. O Conselho não via com bons olhos magias que tinham a capacidade de manipular a própria força vital de um ser, e ordenamos que ele parasse com qualquer investigação adicional nessa área.}{}{47}{}{ru2113 }
+{385}{Estou supondo que ele não fez isso, não é?}{}{5}{}{389}{ }
+{389}{Ele ignorou completamente nossos avisos e continuou com seus experimentos macabros. Arronax foi designado para investigar e descobriu detalhes bastante perturbadores. Kerghan estava roubando cadáveres e experimentando com suas forças vitais. O que foi infinitamente mais perturbador para mim, no entanto, foi a veemência do empenho de Arronax em banir Kerghan, em vez de simplesmente exilá-lo.}{Ele ignorou completamente nossos avisos e continuou com seus experimentos macabros. Arronax foi designado para investigar e descobriu detalhes bastante perturbadores. Kerghan estava roubando cadáveres e experimentando com suas forças vitais. O que foi infinitamente mais perturbador para mim, no entanto, foi a veemência do empenho de Arronax em banir Kerghan, em vez de simplesmente exilá-lo.}{}{48}{}{ }
+{390}{Por que a atitude de Arronax o incomodou?}{}{5}{}{394}{lf9 1 }
+{391}{O que você quer dizer com "experimentando com sua força vital"?}{}{5}{}{414}{ }
+{394}{Nossa missão era julgar imparcialmente, governar pelo bem comum, independentemente de nossos sentimentos pessoais. Arronax nem sequer tentou esconder seu ódio por Kerghan. Pior, sempre suspeitei que o ódio de Arronax se baseava mais no fato de Kerghan ser um humano no Conselho Élfico do que nos fatos do caso.}{Nossa missão era julgar imparcialmente, governar pelo bem comum, independentemente de nossos sentimentos pessoais. Arronax nem sequer tentou esconder seu ódio por Kerghan. Pior, sempre suspeitei que o ódio de Arronax se baseava mais no fato de Kerghan ser um humano no Conselho Élfico do que nos fatos do caso.}{}{49}{}{gf2065 1 }
+{395}{Você não achou que os crimes de Kerghan mereciam seu banimento?}{}{5}{}{404}{ }
+{404}{Não, acredito que nossa decisão foi a correta. É apenas que existe uma maneira adequada de se comportar, e Arronax não foi imparcial nem objetivo. Comecei a ter sérias dúvidas sobre sua participação no conselho depois disso. Toda a situação de Vendigroth explodiu logo em seguida, antes que eu pudesse tomar uma decisão sobre o papel de Arronax no Conselho.}{Não, acredito que nossa decisão foi a correta. É apenas que existe uma maneira adequada de se comportar, e Arronax não foi imparcial nem objetivo. Comecei a ter sérias dúvidas sobre sua participação no conselho depois disso. Toda a situação de Vendigroth explodiu logo em seguida, antes que eu pudesse tomar uma decisão sobre o papel de Arronax no Conselho.}{}{50}{}{ }
+{405}{Como Kerghan estava "experimentando" com as forças vitais de suas vítimas?}{}{5}{lf10 0}{414}{ }
+{406}{K:}{}{1}{}{364}{ }
+{412}{E:}{}{1}{lf6 0, gf2039 0}{454}{ }
+{413}{Devo seguir meu caminho para Vendigroth.}{}{1}{lf6 1, gf2039 0}{0}{ }
+{414}{Kerghan estava puxando seus espíritos de volta do outro lado para tentar se comunicar com eles, experimentando de diferentes maneiras para aperfeiçoar sua magia de ressurreição e, o pior de tudo, expulsando suas forças vitais dos corpos mais uma vez.}{Kerghan estava puxando seus espíritos de volta do outro lado para tentar se comunicar com eles, experimentando de diferentes maneiras para aperfeiçoar sua magia de ressurreição e, o pior de tudo, expulsando suas forças vitais dos corpos mais uma vez.}{}{51}{}{lf10 1 }
+{415}{Por que a atitude de Arronax em relação a tudo isso o incomodou?}{}{5}{lf9 0}{394}{lf9 1 }
+{416}{K:}{}{1}{}{364}{ }
+{422}{E:}{}{1}{lf6 0, gf2039 0}{454}{ }
+{423}{Devo seguir meu caminho para Vendigroth.}{}{1}{lf6 1, gf2039 0}{0}{ }
+{424}{A história de Gorgoth é simples, embora perturbadoramente comum na Era da Lenda. Ele era uma besta irracional com um apetite insaciável. Tinha predileção por halflings, se bem me lembro. Derrotá-lo exigiu uma batalha bastante feroz, embora sem sentido. Não conseguimos pensar em nada a fazer com ele, então o banimos para o Vazio para impedi-lo de causar mais estragos.}{A história de Gorgoth é simples, embora perturbadoramente comum na Era da Lenda. Ele era uma besta irracional com um apetite insaciável. Tinha predileção por halflings, se bem me lembro. Derrotá-lo exigiu uma batalha bastante feroz, embora sem sentido. Não conseguimos pensar em nada a fazer com ele, então o banimos para o Vazio para impedi-lo de causar mais estragos.}{}{52}{}{ru2116 }
+{425}{K:}{}{1}{}{364}{ }
+{431}{E:}{}{1}{lf6 0, gf2039 0}{454}{ }
+{432}{Devo seguir meu caminho para Vendigroth.}{}{1}{lf6 1, gf2039 0}{0}{ }
+{434}{O Flagelo de Kree. Levá-lo à justiça foi o que estabeleceu minha reputação como guerreiro, o que acabou gerando lendas ao meu redor sobre as quais eu não tinha controle. O Flagelo era um guerreiro nômade que conseguiu reunir quase todas as antigas tribos nômades e criar um exército cruel a partir delas. Envolvi-me quando ele massacrou o exército de Kree.}{O Flagelo de Kree. Levá-lo à justiça foi o que estabeleceu minha reputação como guerreiro, o que acabou gerando lendas ao meu redor sobre as quais eu não tinha controle. O Flagelo era um guerreiro nômade que conseguiu reunir quase todas as antigas tribos nômades e criar um exército cruel a partir delas. Envolvi-me quando ele massacrou o exército de Kree.}{}{53}{}{ru2114 }
+{435}{O que aconteceu então?}{}{-4}{}{720}{ }
+{441}{O que aconteceu então?}{}{5}{}{720}{ }
+{442}{E:}{}{1}{lf6 0, gf2039 0}{454}{ }
+{443}{Devo seguir meu caminho para Vendigroth.}{}{1}{lf6 1, gf2039 0}{0}{ }
+{444}{Kraka-Tur era um covarde ardiloso que encontrou uma maneira de se transformar em um monstro retorcido, meio-homem e meio-dragão. Nessa forma, aterrorizou cidades e vilarejos, matando seus habitantes e queimando-os até o chão. Após uma batalha colossal e sua derrota nas mãos do conselho, ele chorou e implorou para que não o baníssemos. Patético.}{Kraka-Tur era um covarde ardiloso que encontrou uma maneira de se transformar em um monstro retorcido, meio-homem e meio-dragão. Nessa forma, aterrorizou cidades e vilarejos, matando seus habitantes e queimando-os até o chão. Após uma batalha colossal e sua derrota nas mãos do conselho, ele chorou e implorou para que não o baníssemos. Patético.}{}{54}{}{ru2115, gf2439 1 }
+{445}{K:}{}{1}{}{364}{ }
+{451}{E:}{}{1}{lf6 0, gf2039 0}{454}{ }
+{452}{Devo seguir meu caminho para Vendigroth.}{}{1}{lf6 1, gf2039 0}{0}{ }
+{454}{Você arriscou sua própria vida para vir aqui apenas para ouvir minhas histórias? Eu havia presumido que tinha algum outro motivo para me procurar.}{Você arriscou sua própria vida para vir aqui apenas para ouvir minhas histórias? Eu havia presumido que tinha algum outro motivo para me procurar.}{}{55}{}{ }
+{455}{Está correto. Preciso de sua ajuda. [Conte a ele sua história.]}{}{5}{gf1099 1, gf2000 0, lf7 0, na 799}{192}{lf7 1 }
+{456}{Está correto. Preciso de sua ajuda. [Conte a ele sua história.]}{}{5}{gf2000 1, lf7 0, na 799}{192}{lf7 1 }
+{457}{Está correto. Preciso de sua ajuda. [Conte a ele sua história.]}{}{5}{gf1097 1, gf2000 0, lf7 0}{322}{lf7 1 }
+{459}{Você está certo. Eu realmente preciso da sua ajuda. [Conte a ele sua história.]}{}{5}{gf1099 1, gf2000 0, lf7 0, na -800}{499}{lf7 1 }
+{460}{Você está certo. Eu realmente preciso da sua ajuda. [Conte a ele sua história.]}{}{5}{gf2000 1, lf7 0, na -800}{499}{lf7 1 }
+{462}{Eu tinha outros motivos, mas eles devem esperar. Tenha um bom dia.}{}{5}{}{0}{lf1 1 }
+{464}{Isso é realmente fortuito. Agora, só resta que você seja banido para o Vazio.}{Isso é realmente fortuito. Agora, só resta que você seja banido para o Vazio.}{}{56}{}{ }
+{465}{Espere um momento - você vai me banir?}{}{5}{}{282}{lf11 1 }
+{466}{Você vai me banir?}{}{-4}{}{681}{ }
+{474}{Isso é lamentável, no mínimo. Suponho que agora só reste que você seja banido para o Vazio. Espero que consiga encontrar outro meio de derrotá-lo do outro lado.}{Isso é lamentável, no mínimo. Suponho que agora só reste que você seja banido para o Vazio. Espero que consiga encontrar outro meio de derrotá-lo do outro lado.}{}{57}{}{ }
+{475}{Espere um momento - você vai me banir?}{}{5}{}{282}{lf11 1 }
+{476}{Você vai me banir?}{}{-4}{}{685}{ }
+{479}{Pelo relato que você fez, você está envolvido nos meus "problemas familiares", queira ou não.}{Pelo relato que você fez, você está envolvido nos meus "problemas familiares", queira ou não.}{}{58}{}{ }
+{480}{Você pode ter razão, mas por que não pode fazer algo a respeito?}{}{5}{}{202}{ }
+{484}{Então, você daria as costas às suas responsabilidades ao menor sinal de perigo?}{Então, você daria as costas às suas responsabilidades ao menor sinal de perigo?}{}{59}{}{ }
+{485}{Elas não são minhas responsabilidades.}{}{5}{}{489}{re -5 }
+{486}{Acho que você tem razão. O que esse dispositivo faz?}{}{5}{}{242}{ }
+{487}{Certo. Eu tenho que ir.}{}{-4}{}{0}{lf15 1 }
+{488}{Tá bom. Você tá certo. O que esse treco faz?}{}{-4}{}{582}{ }
+{489}{Não temos escolha quanto às nossas responsabilidades nesta vida, não importa como possa parecer. Posso lhe assegurar que esta é uma tarefa sua para carregar.}{Não temos escolha quanto às nossas responsabilidades nesta vida, não importa como possa parecer. Posso lhe assegurar que esta é uma tarefa sua para carregar.}{}{60}{}{ }
+{490}{Tudo bem, mas não posso dizer que estou feliz com isso. Onde está o dispositivo?}{}{5}{}{262}{ }
+{491}{Então, por que está tentando empurrar suas responsabilidades para mim?}{}{5}{}{494}{re -10 }
+{493}{Lamento não poder arcar com esta, então.}{}{5}{}{0}{re -5, lf12 1 }
+{494}{Então suma daqui, verme covarde.}{Então suma daqui, verme covarde.}{}{61}{}{lf12 1 }
+{495}{Peço perdão pela minha insolência. Onde posso encontrar esse dispositivo?}{}{5}{}{262}{lf12 0 }
+{496}{Com prazer. Estou cansado de você.}{}{5}{}{0}{re -5 }
+{499}{Alguém precisa fazer algo a respeito dessa situação, mas eu sou velho demais, e não confio em você. Você é mau demais.}{Alguém precisa fazer algo a respeito dessa situação, mas sou velho demais, e não confio em você. Você é maligno demais.}{}{62}{}{ }
+{500}{Pode confiar em mim, eu lhe garanto.}{}{5}{}{504}{ }
+{501}{Pode confiar que farei sua morte ser extremamente dolorosa.}{}{5}{}{0}{fl 557 ,co}
+{504}{Eu confiaria em Arronax antes de confiar em você. Se deseja ganhar minha confiança, deve arriscar sua vida pela causa do bem.}{Eu confiaria em Arronax antes de confiar em você. Se deseja ganhar minha confiança, deve arriscar sua vida pela causa do bem.}{}{63}{}{ }
+{505}{O que gostaria que eu fizesse?}{}{5}{}{509}{ }
+{506}{Prefiro apostar que consigo matá-lo sem motivo algum.}{}{5}{}{0}{fl 557 ,co}
+{507}{Não estou interessado em provar nada para você.}{}{5}{}{0}{lf13 1 }
+{508}{Hã. Tá bom?}{}{-4}{}{509}{ }
+{509}{Cerca de cem anos atrás, uma tribo de humanos primitivos que vivia nesta ilha decidiu que eu era um deus. Eles vinham até aqui para me fazer oferendas, não importava o quanto eu tentasse dissuadi-los. Da última vez que tentaram vir, foram atacados pelos Bogaroth. Cheguei tarde demais ao local do massacre para salvá-los.}{Cerca de cem anos atrás, uma tribo de humanos primitivos que vivia nesta ilha decidiu que eu era um deus. Eles vinham até aqui para me fazer oferendas, não importava o quanto eu tentasse dissuadi-los. Da última vez que tentaram vir, foram atacados pelos Bogaroth. Cheguei tarde demais ao local do massacre para salvá-los.}{}{64}{}{qu1053 1 }
+{510}{E você quer que eu mate essa criatura?}{}{5}{}{514}{ }
+{511}{Por que você mesmo não a matou?}{}{5}{}{519}{ }
+{512}{Olha aqui, elfo decrépito, se você não é capaz de matá-la, não venha pedir ajuda a mim.}{}{5}{}{529}{re -10 }
+{513}{E se eu matá-la?}{}{-4}{}{514}{ }
+{514}{Se matar o Bogaroth, eu lhe direi o que precisa fazer para prevalecer sobre Arronax.}{Se matar o Bogaroth, eu lhe direi o que precisa fazer para prevalecer sobre Arronax.}{}{65}{}{ }
+{515}{Vou fazer isso. Onde ele está?}{}{5}{}{524}{qu1053 2 }
+{516}{Prefiro torturá-lo lentamente até que implore por misericórdia.}{}{5}{}{0}{fl 557 ,co}
+{517}{Tá bom. Onde tá o Bogaroth?}{}{-4}{}{524}{qu1053 2 }
+{518}{Matei você em vez disso.}{}{-4}{}{0}{fl 557 ,co}
+{519}{Sou velho, e meu poder está se esvaindo rapidamente. Achei necessário conservar o máximo possível para o caso de Arronax encontrar um meio de retornar. Mesmo com esses esforços, não possuo nem de longe o poder que precisaria para enfrentar meu filho depois de tanto tempo.}{Sou velho, e meu poder está se esvaindo rapidamente. Achei necessário conservar o máximo possível para o caso de Arronax encontrar um meio de retornar. Mesmo com esses esforços, não possuo nem de longe o poder que precisaria para enfrentar meu filho depois de tanto tempo.}{}{66}{}{ }
+{520}{Vou fazer isso. Onde ficam essas fossas?}{}{5}{}{524}{qu1053 2 }
+{521}{Excelente! Isso significa que será fácil matá-lo!}{}{5}{}{0}{fl 557 ,co}
+{524}{Aqui, deixe-me marcar a localização no seu mapa.}{Aqui, deixe-me marcar a localização no seu mapa.}{}{67}{}{mm52 }
+{525}{Voltarei depois de matar a criatura.}{}{5}{}{0}{ }
+{526}{Eu volto depois que eu MATO MATO MATO! He he he.}{}{-4}{}{0}{ }
+{529}{Cuidado, senhor! Esta é uma oportunidade para se redimir! Não deveria me surpreender que alguém do seu tipo despreze uma chance dessas.}{Cuidado, madame! Esta é uma oportunidade para se redimir! Não deveria me surpreender que alguém do seu tipo desprezasse uma chance dessas.}{}{68}{}{ }
+{530}{Você tem razão. Onde ficam as fossas?}{}{5}{}{524}{qu1053 2 }
+{531}{Não posso deixar passar a oportunidade de estripar você, no entanto.}{}{5}{}{0}{fl 557 ,co}
+{535}{Está pronto para se redimir, criatura do mal?}{Está pronto para se redimir, criatura do mal?}{}{69}{}{ }
+{536}{Sim. O que gostaria que eu fizesse?}{}{5}{}{509}{qu1053 2 }
+{537}{Prefiro o ritual de purificação pelo sangue. O seu sangue, é claro.}{}{5}{}{0}{fl 557 ,co}
+{540}{Devo presumir que livrou este mundo do mal de Bogaroth?}{Devo presumir que livrou este mundo do mal de Bogaroth?}{}{70}{}{ }
+{541}{Sim, seu sangue foi derramado. Agora me diga como derrotar Arronax.}{}{5}{gf2049 1}{222}{qu1053 4 }
+{542}{Ainda não matei a besta.}{}{5}{gf2049 0}{545}{ }
+{543}{sim.}{}{-4}{gf2049 1}{222}{qu1053 4 }
+{544}{Eu ainda não matei ela.}{}{-4}{gf2049 0}{545}{ }
+{545}{Não terei mais nada para discutir com você até que esteja morta.}{Não terei mais nada para discutir com você até que esteja morta.}{}{71}{}{ }
+{546}{Então estou indo matá-la.}{}{5}{}{0}{ }
+{547}{Então você morrerá agora.}{}{5}{}{0}{fl 557 ,co}
+{549}{Decidiu que precisa de mais de mim do que pensava antes?}{Decidiu que precisa de mais de mim do que pensava antes?}{}{72}{}{ }
+{550}{K:}{}{5}{}{364}{ }
+{551}{E:}{}{5}{}{0}{ }
+{553}{Decidiu parar de negar tolamente seu destino e assumir a responsabilidade que seu caminho escolheu para você?}{Decidiu parar de negar tolamente seu destino e assumir a responsabilidade que seu caminho escolheu para você?}{}{73}{}{ }
+{554}{Sim. Onde está esse dispositivo de que preciso?}{}{5}{}{262}{ }
+{555}{Minha única responsabilidade é garantir sua morte horrível.}{}{5}{}{0}{fl 557 ,co}
+{557}{Sua própria existência é um erro que eu devo corrigir!}{Sua própria existência é um erro que eu devo corrigir!}{}{74}{}{ }
+{559}{Onde está o dispositivo? Já o recuperou?}{Onde está o dispositivo? Já o recuperou?}{}{75}{}{ }
+{560}{Ainda não tive a oportunidade de recuperar o dispositivo.}{}{5}{}{562}{ }
+{561}{Hmmmm. Não.}{}{-4}{}{562}{ }
+{562}{Por que está demorando? É da maior importância que paremos Arronax antes que ele retorne!}{Por que está demorando? É da maior importância que paremos Arronax antes que ele retorne!}{}{76}{}{ }
+{563}{Você está correto. Irei buscar isso imediatamente.}{}{5}{}{0}{ }
+{564}{Decidi que seria mais divertido matar você, em vez disso.}{}{5}{}{0}{fl 557 ,co}
+{565}{O que está fazendo aqui? Eu disse para me encontrar no Círculo de Brodgar! Se apresse, e eu me juntarei a você lá.}{O que está fazendo aqui? Eu disse para me encontrar no Círculo de Brodgar! Se apresse, e eu me juntarei a você lá.}{}{77}{}{ }
+{566}{Então, eu o encontrarei lá.}{}{5}{}{-24}{ }
+{569}{[Ele olha para você como se estivesse tentando decidir algo.] Esse seria Arronax, e eu não o matei de verdade... você está bem?}{[Ele olha para você como se estivesse tentando decidir algo.] Esse seria Arronax, e eu não o matei de verdade... você está bem?}{}{78}{}{ }
+{570}{Eu bem. Por que cê tá com machado?}{}{-4}{}{572}{ }
+{571}{Tá falando coisa ruim de mim?}{}{-4}{}{574}{ }
+{572}{Hã, sem motivo. Você estava perguntando sobre Arronax. [Ele o examina mais uma vez.] Arronax era meu filho, entende? Eu liderei o Conselho Élfico ao banir ele para o Vazio.}{Hã, sem motivo. Você estava perguntando sobre Arronax. [Ele o examina mais uma vez.] Arronax era meu filho, entende? Eu liderei o Conselho Élfico ao banir ele para o Vazio.}{}{79}{}{ru2111 }
+{573}{Por que Arronax tão ruim cê baniu ele?}{}{-4}{}{-20}{ru2117 }
+{574}{Claro que não, meu amigo deficiente. [Ele revira os olhos.] Você estava perguntando sobre Arronax. Ele era meu filho, entende? Eu liderei o Conselho Élfico ao banir ele para o Vazio.}{Claro que não, meu amigo deficiente. [Ele revira os olhos.] Você estava perguntando sobre Arronax. Ele era meu filho, entende? Eu liderei o Conselho Élfico ao banir ele para o Vazio.}{}{80}{}{ }
+{575}{Por que Arronax tão ruim cê baniu ele?}{}{-4}{}{-20}{ru2117 }
+{576}{Sou muito velho. Não posso fazer nada, um pouco como sua mente.}{Sou muito velho. Não posso fazer nada, um pouco como sua mente.}{}{81}{}{ }
+{577}{Cê tem que me ajudar.}{}{-4}{}{222}{ }
+{579}{Sou muito velho. Não posso fazer nada, um pouco como sua mente. Não importa. Eu não confiaria em alguém tão maligno quanto você com uma tarefa dessas, mesmo que fosse minimamente competente.}{Sou muito velho. Não posso fazer nada, um pouco como sua mente. Não importa. Eu não confiaria em alguém tão maligno quanto você com uma tarefa dessas, mesmo que fosse minimamente competente.}{}{82}{}{ }
+{580}{Eu sou bom.}{}{-4}{}{504}{ }
+{582}{Magos extremamente poderosos têm a habilidade de se regenerar sempre que são gravemente feridos, como eu fiz. Se alguém for poderoso o suficiente para ferir gravemente um mestre feiticeiro... [ele nota o olhar aturdido em seu rosto] Hã... mago ferido se cura numa bola grande, essa coisa suga a vida dele. É... pegajoso. E ele não pode ser... trazido de volta à vida.}{Magos extremamente poderosos têm a habilidade de se regenerar sempre que são gravemente feridos, como eu fiz. Se alguém for poderoso o suficiente para ferir gravemente um mestre feiticeiro... [ele nota o olhar aturdido em seu rosto] Hã... mago ferido se cura numa bola grande, essa coisa suga a vida dele. É... pegajoso. E ele não pode ser... trazido de volta à vida.}{}{83}{}{ru2118 }
+{583}{Tá bom. Onde eu acho essa coisa?}{}{-4}{}{585}{ }
+{585}{As ruínas de Vendigroth estão perdidas no tempo dentro do vasto deserto criado quando Arronax invocou sua destruição sobre elas. Não sei o que lhe dizer além de ir até os ermos e ver o que pode encontrar.}{As ruínas de Vendigroth estão perdidas no tempo dentro do vasto deserto criado quando Arronax invocou sua destruição sobre elas. Não sei o que lhe dizer além de ir até os ermos e ver o que pode encontrar.}{}{84}{}{mm 20 }
+{586}{Tá bom. E depois?}{}{-4}{}{587}{ }
+{587}{Você deve então me encontrar no Círculo de Brodgar. Eu o banirei para o Vazio de lá. Ah, e certifique-se de trazer o máximo de aliados possível, mesmo com o dispositivo não será fácil derrotar Arronax.}{Você deve então me encontrar no Círculo de Brodgar. Eu o banirei para o Vazio de lá. Ah, e certifique-se de trazer o máximo de aliados possível, mesmo com o dispositivo não será fácil derrotar Arronax.}{}{85}{}{qu1051 2, gf2089 1 }
+{588}{Eu num quero ser banido.}{}{-4}{}{591}{ }
+{589}{De jeito nenhum você me baniu. Seu boboca.}{}{-4}{}{0}{fl 680}
+{591}{Olha, idiota. É o único jeito. Vá buscar o dispositivo. Te encontro no Círculo de Brodgar. Você não tem escolha.}{Olha, idiota. É o único jeito. Vá buscar o dispositivo. Te encontro no Círculo de Brodgar. Você não tem escolha.}{}{86}{}{ }
+{592}{Otá.}{}{-4}{}{0}{qu1051 2, gf2089 1 }
+{593}{Eu posso te matar.}{}{-4}{}{0}{fl 557 ,co}
+{594}{Tá bom. Posso te fazer umas perguntas?}{}{-4}{}{596}{qu1051 2, gf2089 1 }
+{596}{Claro, meu caro deficiente. O que gostaria de saber?}{Claro, minha cara deficiente. O que gostaria de saber?}{}{87}{}{ }
+{597}{Você conhece os caras do Pan?}{}{-4}{lf3 0}{605}{lf3 1 }
+{598}{Eu sou você?}{}{-4}{lf4 0}{613}{lf4 1 }
+{599}{E quanto aos outros caras banidos?}{}{-4}{}{627}{ }
+{600}{E:}{}{-4}{}{0}{ }
+{605}{Estou bem ciente de toda a palhaçada dos Panarii, sim. Quando emergi do meu estado regenerativo, viajei para o continente. Acho que pensei que poderia de alguma forma viver entre o mundo novamente... depois que falei com aquele sujeito, Mannox, soube que estava me iludindo.}{Estou bem ciente de toda a palhaçada dos Panarii, sim. Quando emergi do meu estado regenerativo, viajei para o continente. Acho que pensei que poderia de alguma forma viver entre o mundo novamente... depois que falei com aquele sujeito, Mannox, soube que estava me iludindo.}{}{88}{}{ }
+{606}{Eu sou você?}{}{-4}{lf4 0}{613}{lf4 1 }
+{607}{Kan hoo ha kilt Mannox.}{}{-4}{gf2020 1, lf5 0}{620}{lf5 1 }
+{608}{E quanto aos outros caras banidos?}{}{-4}{}{627}{ }
+{609}{E:}{}{-4}{}{0}{ }
+{613}{Ah, você deve estar se referindo às profecias. Se alguém fosse supersticioso, ou crédulo como você, quase pareceria que elas estão se concretizando. De alguma forma, você parece estar no centro de tudo isso.}{Ah, você deve estar se referindo às profecias. Se alguém fosse supersticioso, ou crédulo como você, quase pareceria que elas estão se concretizando. De alguma forma, você parece estar no centro de tudo isso.}{}{89}{}{ }
+{614}{E quanto aos outros caras banidos?}{}{-4}{}{627}{ }
+{615}{Você conhece os caras do Pan?}{}{-4}{lf3 0}{605}{lf3 1 }
+{616}{Kan hoo ha kilt Mannox.}{}{-4}{gf2020 1, lf5 0}{620}{lf5 1 }
+{618}{E:}{}{-4}{}{0}{ }
+{620}{Quando a notícia do desaparecimento de Mannox chegou aos meus ouvidos, presumi que algo dessa natureza devia ter acontecido.}{Quando a notícia do desaparecimento de Mannox chegou aos meus ouvidos, presumi que algo dessa natureza devia ter acontecido.}{}{90}{}{ }
+{621}{E quanto aos outros caras banidos?}{}{-4}{}{627}{ }
+{622}{Você conhece os caras do Pan?}{}{-4}{lf3 0}{605}{lf3 1 }
+{623}{Eu sou você?}{}{-4}{lf4 0}{613}{lf4 1 }
+{624}{E:}{}{-4}{}{0}{ }
+{627}{Sobre qual dessas almas miseráveis você gostaria de saber? Gorgoth? Kraka-Tur? Kerghan? Talvez o Flagelo de Kree?}{Sobre qual dessas almas miseráveis você gostaria de saber? Gorgoth? Kraka-Tur? Kerghan? Talvez o Flagelo de Kree?}{}{91}{}{ }
+{628}{Golgothorious.}{}{-4}{}{641}{ }
+{629}{Kraka jak.}{}{-4}{}{648}{ }
+{630}{Korrigen.}{}{-4}{}{635}{ }
+{631}{Bandagem de Keith.}{}{-4}{}{654}{ }
+{633}{E:}{}{-4}{}{0}{ }
+{635}{KERGHAN foi o único membro humano do Conselho Élfico. Ele insistiu em desenvolver as artes Necromânticas mesmo depois que o Conselho lhe ordenou que parasse. Negócio feio, de verdade. Roubando cadáveres, fazendo experimentos com eles, trazendo-os de volta à vida para matá-los novamente.}{KERGHAN foi o único membro humano do Conselho Élfico. Ele insistiu em desenvolver as artes Necromânticas mesmo depois que o Conselho lhe ordenou que parasse. Negócio feio, de verdade. Roubando cadáveres, fazendo experimentos com eles, trazendo-os de volta à vida para matá-los novamente.}{}{92}{}{ru2113 }
+{636}{E quanto aos outros caras banidos?}{}{-4}{}{627}{ }
+{637}{K:}{}{-4}{lf3 0}{596}{ }
+{638}{Kan hoo ha kilt Mannox.}{}{-4}{gf2020 1, lf5 0}{620}{ }
+{639}{E:}{}{-4}{}{0}{ }
+{641}{A história de Golgoth, quero dizer, GORGOTH, é simples, embora perturbadoramente comum na Era da Lenda. Ele era uma besta sem mente com um apetite insaciável. Tinha uma queda por halflings, se me lembro bem. Derrotá-lo exigiu uma batalha bastante feroz, embora sem sentido. Não conseguimos pensar em nada para fazer com ele, então o banimos para o Vazio para impedi-lo de causar mais estragos.}{A história de Golgoth, quero dizer, GORGOTH, é simples, embora perturbadoramente comum na Era da Lenda. Ele era uma besta sem mente com um apetite insaciável. Tinha uma queda por halflings, se me lembro bem. Derrotá-lo exigiu uma batalha bastante feroz, embora sem sentido. Não conseguimos pensar em nada para fazer com ele, então o banimos para o Vazio para impedi-lo de causar mais estragos.}{}{93}{}{ru2116 }
+{642}{E quanto aos outros caras banidos?}{}{-4}{}{627}{ }
+{643}{K:}{}{-4}{lf3 0}{596}{ }
+{644}{Kan hoo ha kilt Mannox.}{}{-4}{gf2020 1, lf5 0}{620}{ }
+{645}{E:}{}{-4}{}{0}{ }
+{648}{Kraka-Tur era um covarde ardiloso que encontrou uma maneira de se transformar em um monstro retorcido, metade homem e metade dragão. Nessa forma, aterrorizou cidades e vilarejos, matando seus habitantes e queimando-os até o chão. Após uma batalha colossal e sua derrota nas mãos do conselho, ele chorou e implorou para que não o baníssemos. Patético.}{Kraka-Tur era um covarde ardiloso que encontrou uma maneira de se transformar em um monstro retorcido, metade homem e metade dragão. Nessa forma, aterrorizou cidades e vilarejos, matando seus habitantes e queimando-os até o chão. Após uma batalha colossal e sua derrota nas mãos do conselho, ele chorou e implorou para que não o baníssemos. Patético.}{}{94}{}{ru2115, gf2439 1 }
+{649}{E quanto aos outros caras banidos?}{}{-4}{}{627}{ }
+{650}{K:}{}{-4}{lf3 0}{596}{ }
+{651}{Kan hoo ha kilt Mannox.}{}{-4}{gf2020 1, lf5 0}{620}{ }
+{652}{E:}{}{-4}{}{0}{ }
+{654}{O Flagelo de Kree. Levá-lo à justiça foi o que estabeleceu minha reputação como guerreiro, o que acabou gerando lendas ao meu redor sobre as quais eu não tinha controle. O Flagelo era um guerreiro nômade que conseguiu reunir quase todas as antigas tribos nômades e criar um exército cruel com elas. Eu me envolvi quando ele massacrou o exército de Kree.}{O Flagelo de Kree. Levá-lo à justiça foi o que estabeleceu minha reputação como guerreiro, o que acabou gerando lendas ao meu redor sobre as quais eu não tinha controle. O Flagelo era um guerreiro nômade que conseguiu reunir quase todas as antigas tribos nômades e criar um exército cruel com elas. Eu me envolvi quando ele massacrou o exército de Kree.}{}{95}{}{ru2114 }
+{655}{E quanto aos outros caras banidos?}{}{-4}{}{627}{ }
+{656}{K:}{}{-4}{}{596}{ }
+{657}{Kan hoo ha kilt Mannox.}{}{-4}{gf2020 1, lf5 0}{620}{ }
+{658}{E:}{}{-4}{}{0}{ }
+{666}{Você voltou para reivindicar seu destino?}{Você voltou para reivindicar seu destino?}{}{97}{}{ }
+{667}{O quê?}{}{-4}{}{669}{ }
+{668}{E:}{}{-4}{}{0}{ }
+{669}{VOCÊ VOLTOU PARA DESCOBRIR O QUE FAZER?}{VOCÊ VOLTOU PARA DESCOBRIR O QUE FAZER?}{}{98}{}{ }
+{670}{Eu descubro o que você vai fazer.}{}{-4}{na 799}{576}{ }
+{671}{Eu descubro o que você vai fazer.}{}{-4}{na -800}{579}{ }
+{672}{E:}{}{-4}{}{0}{ }
+{675}{Você voltou para descobrir o que precisa fazer, simplório?}{Você voltou para descobrir o que precisa fazer, simplório?}{}{99}{}{ }
+{676}{O que esse <<<PH1>>> faz?}{}{-4}{}{582}{ }
+{677}{Onde eu encontro esse <<<PH1>>>?}{}{-4}{}{585}{ }
+{680}{Não há como negar seu destino. Você irá me encontrar no Círculo de Brodgar, quer acredite ou não. No seu caminho, tolo.}{Não há como negar seu destino. Você irá me encontrar no Círculo de Brodgar, quer acredite ou não. No seu caminho, tolo.}{}{100}{}{ }
+{681}{É claro. Você deve então me encontrar no Círculo de Brodgar. Eu o banirei para o Vazio de lá. Ah, e certifique-se de trazer o máximo de aliados possível, mesmo com o dispositivo, não será fácil derrotar Arronax.}{Claro. Você deve então me encontrar no Círculo de Brodgar. Eu o banirei para o Vazio de lá. Ah, e certifique-se de trazer o máximo de aliados possível, mesmo com o dispositivo não será uma tarefa simples derrotar Arronax.}{}{101}{}{ }
+{682}{Eu num quero ser banido.}{}{-4}{}{591}{ }
+{683}{De jeito nenhum você me banirá. Vá se danar.}{}{-4}{}{0}{fl 680}
+{685}{Claro. Você deve então me encontrar no Círculo de Brodgar. Eu o banirei para o Vazio de lá. Ah, e certifique-se de trazer o máximo de aliados possível, sem o dispositivo não será uma tarefa simples derrotar Arronax.}{Claro. Você deve então me encontrar no Círculo de Brodgar. Eu o banirei para o Vazio de lá. Ah, e certifique-se de trazer o máximo de aliados possível, sem o dispositivo não será uma tarefa simples derrotar Arronax.}{}{102}{}{ }
+{686}{Eu num quero ser banido.}{}{-4}{}{591}{ }
+{687}{De jeito nenhum você me banirá. Vá se danar.}{}{-4}{}{0}{fl 680}
+{696}{Parece que a princesa Raven está desaparecida. Você vai precisar dela na batalha que se aproxima. Encontre-a e depois retorne a mim...}{Parece que a princesa Raven está desaparecida. Você vai precisar dela na batalha que se aproxima. Encontre-a e depois retorne a mim...}{}{115}{}{ }
+{697}{E:}{}{1}{}{0}{ }
+{698}{Suponho que você nunca tenha ouvido falar de uma casca regenerativa, hein? Não estou surpreso, apenas os magos mais poderosos conseguem conjurá-la. Eu gostaria de nunca ter aprendido como, eu mesmo. Não teria tido mil anos para ponderar sobre todos os meus erros estupendos.}{Suponho que você nunca tenha ouvido falar de uma casca regenerativa, hein? Não estou surpreso, apenas os magos mais poderosos conseguem conjurá-la. Eu gostaria de nunca ter aprendido como, eu mesmo. Não teria tido mil anos para ponderar sobre todos os meus erros estupendos.}{}{104}{}{ }
+{699}{Por que você diria isso? Você salvou o mundo de Arronax!}{}{5}{}{54}{ }
+{705}{[Seus punhos se cerram, e seus olhos começam a arder com uma intensidade que o surpreende.] O quê?! O que você está dizendo?}{[Seus punhos se cerram, e seus olhos começam a arder com uma intensidade que o surpreende.] O quê?! O que você está dizendo?}{}{105}{}{ }
+{706}{[Conte a ele sua história.]}{}{5}{gf1099 1, gf2000 0, na 799}{192}{lf7 1 }
+{707}{[Conte a ele sua história.]}{}{5}{gf2000 1, lf7 0, na 799}{192}{lf7 1 }
+{708}{[Conte a ele sua história.]}{}{5}{gf1097 1, gf2000 0}{322}{lf7 1 }
+{709}{[Conte a ele sua história.]}{}{5}{gf1099 1, gf2000 0,  na -800}{499}{lf7 1 }
+{710}{[Conte a ele sua história.]}{}{5}{gf2000 1,  na -800}{499}{lf7 1 }
+{720}{Sua lendária coragem o abandonou. Diante da derrota certa, ele perdeu a razão e fugiu de volta para Kree. Em seu desespero, ordenou que seu exército massacrasse todos os homens, mulheres e crianças. Não sei o que ele esperava conseguir com isso. Quando o alcancei, fui tomado por um pouco da loucura também. Eu o baní sozinho em minha fúria, o que não foi uma tarefa fácil, mesmo naquela época.}{Sua lendária coragem o abandonou. Diante da derrota certa, ele perdeu a razão e fugiu de volta para Kree. Em seu desespero, ordenou que seu exército massacrasse todos os homens, mulheres e crianças. Não sei o que ele esperava conseguir com isso. Quando o alcancei, fui tomado por um pouco da loucura também. Eu o baní sozinho em minha fúria, o que não foi uma tarefa fácil, mesmo naquela época.}{}{106}{}{ }
+{721}{K:}{}{1}{}{364}{ }
+{723}{E:}{}{1}{lf6 0, ia-13}{454}{ }
+{724}{Devo seguir meu caminho para Vendigroth.}{}{1}{qu1051 2, ia-13}{0}{ }
+{730}{Some daqui, criatura imunda.}{Some daqui, criatura imunda.}{}{107}{}{ }
+{740}{Sim. [Ele balança a cabeça com tristeza]. Por algum motivo, cerca de cem anos atrás, eles decidiram que eu era um deus. Vinham até aqui para me fazer oferendas, não importava o quanto eu tentasse dissuadi-los. Da última vez que tentaram vir aqui, foram atacados pelos Bogaroth. Cheguei ao local da carnificina tarde demais para salvá-los.}{Sim. [Ele balança a cabeça com tristeza]. Por algum motivo, cerca de cem anos atrás, eles decidiram que eu era um deus. Vinham até aqui para me fazer oferendas, não importava o quanto eu tentasse dissuadi-los. Da última vez que tentaram vir aqui, foram atacados pelos Bogaroth. Cheguei ao local da carnificina tarde demais para salvá-los.}{}{117}{}{ }
+{741}{Os Bogaroth?}{}{5}{}{750}{ }
+{750}{Sim. É uma criatura extremamente poderosa e extremamente maligna.}{Sim. É uma criatura extremamente poderosa e extremamente maligna.}{}{116}{}{ }
+{751}{Onde ela está? Quero matá-la.}{}{5}{}{760}{ }
+{752}{Onde fica? Eu gostaria de evitar o lugar, se possível.}{}{5}{}{760}{ }
+{760}{O covil dele fica em algum lugar por aqui... [Ele aponta para um local no seu mapa.] Eu não recomendaria, no entanto. Eu mesmo não consegui derrotá-lo.}{O covil dele fica em algum lugar por aqui... [Ele aponta para um local no seu mapa.] Eu não recomendaria, no entanto. Eu mesmo não consegui derrotá-lo.}{}{118}{}{mm52 }
+{761}{O que aconteceu com Mannox? Eles acreditam que ele "ascendeu" com você.}{}{5}{gf2020 0, gf2022 1}{182}{lf5 1 }
+{762}{Os Panarii acreditam que eu sou sua reencarnação.}{}{5}{gf2004 1}{162}{lf4 1 }
+{763}{Você está ciente de que K'an Hua assassinou Mannox?}{}{5}{gf2020 1}{342}{lf5 1 }
+{768}{E:}{}{5}{lf6 0, ia-13}{454}{ }
+{769}{E:}{}{5}{qu1051 2, ia-13}{0}{ }
+{770}{O covil dele fica em algum lugar por aqui... [Ele aponta para um local no seu mapa.] Você é sábio em evitá-lo. Eu mesmo não consegui derrotá-lo.}{O covil dele fica em algum lugar por aqui... [Ele aponta para um local no seu mapa.] Você é sábio em evitá-lo. Eu mesmo não consegui derrotá-lo.}{}{119}{}{ }
+{771}{O que aconteceu com Mannox? Eles acreditam que ele "ascendeu" com você.}{}{5}{gf2020 0, gf2022 1}{182}{lf5 1 }
+{772}{Os Panarii acreditam que eu sou sua reencarnação.}{}{5}{gf2004 1}{162}{lf4 1 }
+{773}{Você está ciente de que K'an Hua assassinou Mannox?}{}{5}{gf2020 1}{342}{lf5 1 }
+{778}{E:}{}{5}{lf6 0, ia-13}{454}{ }
+{779}{E:}{}{5}{qu1051 2, ia-13}{0}{ }
+{1505}{Ele havia assumido para si a tarefa de "manter o equilíbrio", como ele dizia. Acreditava que ser membro do Conselho validava qualquer curso de ação que escolhesse seguir. Isso significava atacar qualquer coisa que visse como ameaça, como uma cidade que havia começado a construir dispositivos tecnológicos avançados. Vendigroth, era assim que se chamava.}{Ele havia assumido para si a tarefa de "manter o equilíbrio", como ele dizia. Acreditava que ser membro do Conselho validava qualquer curso de ação que escolhesse seguir. Isso significava atacar qualquer coisa que visse como ameaça, como uma cidade que havia começado a construir dispositivos tecnológicos avançados. Vendigroth, era assim que se chamava.}{}{108}{}{ }
+{1506}{[More]}{}{1}{}{1507}{ }
+{1507}{Ele os advertiu para cessarem seu "comportamento destrutivo" e destruiu uma de suas fábricas para enfatizar seu ponto. Com justificado medo por suas próprias vidas, eles rapidamente construíram um dispositivo que poderia destruir até mesmo o mago mais poderoso. Ele respondeu invocando forças que poucos de nós já haviam visto, e apagando não apenas a cidade, mas toda a província de Vendigroth da face de Arcanum com um único golpe.}{Ele os advertiu para cessarem seu "comportamento destrutivo" e destruiu uma de suas fábricas para enfatizar seu ponto. Com justificado medo por suas próprias vidas, eles rapidamente construíram um dispositivo que poderia destruir até mesmo o mago mais poderoso. Ele respondeu invocando forças que poucos de nós já haviam visto, e apagando não apenas a cidade, mas toda a província de Vendigroth da face de Arcanum com um único golpe.}{}{109}{}{ }
+{1508}{[More]}{}{1}{}{1509}{ }
+{1509}{Ele se sentiu traído quando o Conselho condenou suas ações. Não demonstrou remorso algum. Em sua arrogância, tinha certeza de que seria absolvido. Eu dei o voto decisivo para banir meu próprio filho. "Se devo morrer, serei o último!" Ele gritou, enquanto lançava o feitiço que pôs fim ao Conselho, à Era das Lendas e à minha vontade de viver.}{Ele se sentiu traído quando o Conselho condenou suas ações. Não demonstrou remorso algum. Em sua arrogância, tinha certeza de que seria absolvido. Eu dei o voto decisivo para banir meu próprio filho. "Se devo morrer, serei o último!" Ele gritou, enquanto lançava o feitiço que pôs fim ao Conselho, à Era das Lendas e à minha vontade de viver.}{}{110}{}{ }
+{1510}{[More]}{}{1}{}{1511}{ }
+{1511}{Foi um amanhecer sombrio na manhã em que nossos exércitos se reuniram na Espira Negra. Alguns membros do Conselho haviam se aliado a Arronax, seja por medo de perder o controle sobre o mundo, seja pelo temor de seu poder, mas a maioria permaneceu ao meu lado. Forças foram invocadas naquele dia que nunca haviam sido vistas, antes ou depois.}{Foi um amanhecer sombrio na manhã em que nossos exércitos se reuniram na Espira Negra. Alguns membros do Conselho haviam se aliado a Arronax, seja por medo de perder o controle sobre o mundo, seja pelo temor de seu poder, mas a maioria permaneceu ao meu lado. Forças foram invocadas naquele dia que nunca haviam sido vistas, antes ou depois.}{}{111}{}{ }
+{1512}{[More]}{}{1}{}{1513}{ }
+{1513}{Quando a batalha chegou ao fim, apenas eu, dois membros do Conselho e Arronax permanecíamos de pé. Com todos os seus aliados mortos ou morrendo, começamos o feitiço de banimento...}{Quando a batalha chegou ao fim, apenas eu, dois membros do Conselho e Arronax permanecíamos de pé. Com todos os seus aliados mortos ou morrendo, começamos o feitiço de banimento...}{}{112}{}{ }
+{1514}{[More]}{}{1}{}{1515}{ }
+{1515}{No fim, foi apenas com nosso poder combinado que Arronax foi subjugado, e eu assisti meu próprio filho cair no horror do Vazio. Mas tal foi a fúria e o poder desencadeados por esse conflito que o próprio tecido da realidade foi despedaçado.}{No fim, foi apenas com nosso poder combinado que Arronax foi subjugado, e eu assisti meu próprio filho cair no horror do Vazio. Mas tal foi a fúria e o poder desencadeados por esse conflito que o próprio tecido da realidade foi despedaçado.}{}{113}{}{ }
+{1516}{[More]}{}{1}{}{1517}{ }
+{1517}{Com nossa energia restante, conseguimos selar a fenda com poderosos feitiços de proteção. Cambaleei, mal conseguindo ver ou andar. O tempo passou, e me vi à beira da água. Fatigado e delirante, rastejei para dentro de um velho barco abandonado e vaguei sem rumo pelos mares de Arcanum. Quando recobrei a consciência, estava na costa de Thanatos.}{Com nossa energia restante, conseguimos selar a fenda com poderosos feitiços de proteção. Eu cambaleei para longe, mal conseguindo enxergar ou andar. O tempo passou, e me vi à beira d'água. Fatigado e delirante, rastejei para dentro de um velho barco abandonado e vaguei sem rumo pelos mares de Arcanum. Quando recobrei a consciência, estava na costa de Thanatos}{}{114}{}{ }
+{1518}{[Mais]}{}{1}{}{90}{ }
+

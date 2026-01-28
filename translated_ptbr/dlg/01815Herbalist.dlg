@@ -1,0 +1,68 @@
+{1}{G:}{}{}{}{}{}
+{2}{B:}{}{1}{}{36}{}
+{3}{T:10}{}{1}{}{36}{}
+{4}{Que tipo de mercadorias você tem aqui?}{}{5}{}{43}{}
+{5}{Hã... O que você tem aí?}{}{-4}{}{43}{}
+{6}{H:}{}{1}{}{43}{}
+{7}{Você pode me treinar para me tornar um Curandeiro Especialista?}{}{5}{tr10 -1}{36}{et10 58}
+{8}{Mi qué sê Curandeiro Espers'...}{}{-4}{tr10 -1}{36}{et10 58}
+{9}{E:}{}{1}{}{0}{}
+{10}{Percebo que és um grande mago. É uma honra estar em sua presença, senhor. Como posso ajudá-lo?}{Percebo que és uma grande maga. É uma honra estar em sua presença, senhora. Como posso ajudá-la?}{}{}{}{re +10}
+{11}{B:}{}{1}{}{36}{}
+{12}{Que tipo de mercadorias você tem aqui?}{}{5}{}{43}{}
+{13}{Hã... O que você tem aí?}{}{-4}{}{43}{}
+{14}{T:10}{}{1}{}{36}{}
+{15}{H:}{}{1}{}{36}{}
+{16}{Você pode me treinar para me tornar um Curandeiro Especialista?}{}{5}{tr10 -1}{36}{et10 58}
+{17}{Mi qué sê Curandeiro Espers'...}{}{-4}{tr10 -1}{36}{et10 58}
+{18}{E:}{}{1}{}{0}{}
+{19}{Encontramo-nos novamente, grandioso. Em que posso ajudá-lo?}{Encontramo-nos novamente, grandiosa. Em que posso ajudá-la?}{}{}{}{}
+{20}{B:}{}{1}{}{36}{}
+{21}{T:10}{}{1}{}{36}{}
+{22}{C:}{}{1}{}{36}{}
+{23}{H:}{}{1}{}{36}{}
+{24}{Você pode me treinar para me tornar um Curandeiro Especialista?}{}{5}{tr10 -1}{36}{et10 58}
+{25}{Mi qué sê Curandeiro Espers'...}{}{-4}{tr10 -1}{36}{et10 58}
+{26}{E:}{}{1}{}{0}{}
+{27}{Percebo uma grande aura tecnológica ao seu redor, senhor. É uma honra conhecê-lo. Como posso ajudá-lo?}{Percebo uma grande aura tecnológica ao seu redor, senhora. É uma honra conhecê-la. Como posso ajudá-la?}{}{}{}{re +10}
+{28}{B:}{}{1}{}{36}{}
+{29}{Que tipo de mercadorias você tem aqui?}{}{5}{}{43}{}
+{30}{Hã... O que você tem aí?}{}{-4}{}{43}{}
+{31}{H:}{}{1}{}{36}{}
+{32}{T:10}{}{1}{}{36}{}
+{33}{Você pode me treinar para me tornar um Curandeiro Especialista?}{}{5}{tr10 -1}{36}{et10 58}
+{34}{Mi qué sê Curandeiro Espers'...}{}{-4}{tr10 -1}{36}{et10 58}
+{35}{E:}{}{1}{}{0}{}
+{36}{Precisa de mais alguma coisa?}{Precisa de mais alguma coisa?}{}{}{}{}
+{37}{B:}{}{1}{}{36}{}
+{38}{H:}{}{1}{}{36}{}
+{39}{T:10}{}{1}{}{36}{}
+{40}{Você pode me treinar para me tornar um Curandeiro Especialista?}{}{5}{tr10 -1}{36}{et10 58}
+{41}{Mi qué sê Curandeiro Espers'...}{}{-4}{tr10 -1}{36}{et10 58}
+{42}{E:}{}{1}{}{0}{}
+{43}{Tenho em estoque apenas as melhores ervas e poções infundidas. Colho cada planta no auge da estação, para garantir potência inigualável, depois as seco à sombra até a perfeição. Minhas infusões são criadas a partir de receitas familiares antigas, passadas de geração em geração. Há algo em particular com que possa ajudá-lo, senhor?}{Tenho em estoque apenas as melhores ervas e poções infundidas. Colho cada planta no auge da estação, para garantir potência inigualável, depois as seco à sombra até a perfeição. Minhas infusões são criadas a partir de receitas familiares antigas, passadas de geração em geração. Há algo em particular com que possa ajudá-la, senhora?}{}{}{}{}
+{44}{B:}{}{1}{}{36}{}
+{45}{H:}{}{1}{}{36}{}
+{46}{T:10}{}{1}{}{36}{}
+{47}{Você pode me treinar para me tornar um Curandeiro Especialista?}{}{5}{tr10 -1}{36}{et10 58}
+{48}{Mi qué sê Curandeiro Espers'...}{}{-4}{tr10 -1}{36}{et10 58}
+{49}{E:}{}{1}{}{0}{}
+{50}{O que deseja, "senhor"?}{O que deseja, "senhora"?}{}{}{}{}
+{51}{B:}{}{1}{}{36}{}
+{52}{T:10}{}{1}{}{36}{}
+{53}{H:}{}{1}{}{36}{}
+{54}{C:}{}{1}{}{36}{}
+{55}{Você pode me treinar para me tornar um Curandeiro Especialista?}{}{5}{tr10 -1}{36}{et10 58}
+{56}{Mi qué sê Curandeiro Espers'...}{}{-4}{tr10 -1}{36}{et10 58}
+{57}{E:}{}{1}{}{0}{}
+{58}{Sim, senhor. Ofereço treinamento como curandeiro especialista. Porém, cobro uma taxa de 500 moedas. Gostaria de receber o treinamento agora?}{Sim, senhora. Ofereço treinamento como curandeira especialista. Porém, cobro uma taxa de 500 moedas. Gostaria de receber o treinamento agora?}{}{}{}{}
+{59}{Sim, por favor.}{}{5}{$$500}{64}{}
+{60}{Preciso juntar algumas moedas primeiro.}{}{5}{$$-499}{36}{}
+{61}{Ah... sim.}{}{-4}{$$500}{64}{}
+{62}{Mi arrumá moeda primêro.}{}{-4}{$$-499}{36}{}
+{63}{F:}{}{1}{}{0}{}
+{64}{Obrigado. [ela pega as moedas de você e passa algum tempo instruindo-o nas técnicas de cura mais recentes] Seu treinamento está completo agora. Parabéns, você é um Curandeiro Especialista. ...Caso deseje se tornar um Mestre Curandeiro, precisará procurar Fawn. Ela mora em Qintarra.}{Obrigado. [ela pega a moeda de você e passa algum tempo instruindo-o nas técnicas de cura mais recentes] Seu treinamento está completo agora. Parabéns, você é um Curandeiro Especialista. ...Caso algum dia deseje se tornar um Curandeiro Mestre, precisará procurar por Fawn. Ela mora em Qintarra.}{}{}{}{$$-500, tr10 2, ru2170}
+{65}{Obrigado.}{}{5}{}{36}{}
+{66}{Hã... V-valeu.}{}{-4}{}{36}{}
+{67}{E:}{}{-4}{}{0}{}
+

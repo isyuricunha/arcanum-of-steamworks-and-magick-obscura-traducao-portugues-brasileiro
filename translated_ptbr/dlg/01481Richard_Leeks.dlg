@@ -1,0 +1,124 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Posso perguntar quem é o senhor?}{}{5}{re 41, me 0}{38}{}
+{3}{Com licença, bom ferreiro? Esse é jeito de tratar um desconhecido?}{}{5}{re -40, me 0}{17}{}
+{4}{Saudações, Richard. Tem um momento?}{}{5}{re 41, me 1}{43}{}
+{5}{Sr. Leeks! O que eu fiz para ofendê-lo?}{}{5}{re -40, me 1}{17}{}
+{6}{Estou com vontade de rachar seu crânio, ferreiro. Sugiro que peça desculpas.}{}{5}{re -40}{29}{}
+{12}{Oi! Eu não muito esperto. Quem você?}{}{-4}{me 0}{38}{}
+{13}{Oi, Leeky! Tenho perguntas!}{}{-4}{me 1}{43}{}
+{14}{E:}{}{-4}{}{0}{}
+{17}{Sinto muito, mas estou começando a não gostar de você. Talvez seja melhor voltar para onde veio...}{Sinto muito, mas estou começando a não gostar de você. Talvez seja melhor voltar para onde veio...}{}{}{}{}
+{18}{Certamente homens de razão não precisam falar uns com os outros assim...}{}{5}{}{22}{re +10}
+{19}{Suas maneiras deixam muito a desejar. Assim como minha paciência...}{}{5}{}{29}{}
+{20}{E:}{}{5}{}{0}{}
+{22}{Sim... acho que talvez eu tenha me enganado sobre você. Talvez possamos conversar um pouco?}{Sim... acho que talvez eu tenha me enganado sobre você. Talvez possamos conversar um pouco?}{}{}{}{}
+{23}{Eu gostaria disso. Posso perguntar quem é você, senhor?}{}{5}{me 0}{38}{}
+{24}{Seria bom. Tem um momento, Richard?}{}{5}{me 1}{43}{}
+{25}{E:}{}{5}{}{0}{}
+{29}{[O ferreiro se aproxima, franzindo a testa.] É mesmo, garoto? Eu recomendo que fique de boca fechada. Somos gente boa aqui em Stillwater, mas não hesitarei em lhe dar uma surra se achar que precisa...}{[O ferreiro se aproxima, franzindo a testa.] É mesmo, garota? Eu recomendo que fique de boca fechada. Somos gente boa aqui em Stillwater, mas não hesitarei em lhe dar uma surra se achar que precisa...}{}{}{}{}
+{30}{Acho que não é necessário. Aceite minhas desculpas, por favor...}{}{5}{}{22}{re +10}
+{31}{Suas maneiras são um testemunho de sua criação interiorana...}{}{5}{}{}{co, fl 34}
+{32}{E:}{}{5}{}{0}{}
+{34}{Sinto muito ter que fazer isso, garoto, mas é para o seu próprio bem...}{Sinto muito ter que fazer isso, garota, mas é para o seu próprio bem...}{}{}{}{}
+{38}{Olá. Sou Richard Leeks, ferreiro de Stillwater. Como posso ajudá-lo?}{Olá. Sou Richard Leeks, ferreiro de Stillwater. Como posso ajudá-la?}{}{}{}{}
+{39}{Saudações, Richard. Posso lhe fazer algumas perguntas...?}{}{5}{}{43}{}
+{41}{Oi, Leeks! Perguntas!}{}{-4}{}{43}{}
+{42}{E:}{}{1}{}{0}{}
+{43}{Como posso ajudá-lo?}{Como posso ajudá-lo?}{}{}{}{}
+{44}{Que serviços você oferece, Richard?}{}{5}{}{171}{}
+{45}{Fale-me sobre Stillwater...}{}{5}{qu1096 0, lf1 0}{67}{}
+{48}{Talvez eu possa dar uma olhada no seu amigo mago...}{}{5}{qu1096 1, lf1 0}{128}{}
+{49}{Ainda não encontrei seu amigo, o mago...}{}{5}{qu1096 2, lf1 0, gf2198 0}{141}{}
+{50}{Encontrei Cyrus... ele foi atacado por um ogro muito desagradável...}{}{5}{qu1096 2, gf2198 1, gf2199 0, lf1 0}{146}{}
+{51}{Eu o encontrei, mas ele morreu... [Conte a ele o que aconteceu.]}{}{5}{qu1096 2, gf2198 1, gf2199 1, lf1 0}{165}{}
+{53}{Preciso de al-alguns ser-ser-viços-s-s...}{}{-4}{}{171}{}
+{54}{Tem algum trampo, Richard?}{}{-4}{qu1096 0, lf1 0}{181}{}
+{55}{Hã... talvez eu procure o mago!}{}{-4}{qu1096 1, lf1 0}{181}{}
+{56}{Ainda não encontrei o mago...}{}{-4}{qu1096 2, lf1 0, gf2198 0}{141}{}
+{57}{Encontrei o mago! Ele está com um ogro muito, muito mau....}{}{-4}{qu1096 2, gf2198 1, gf2199 0, lf1 0}{146}{}
+{58}{Encontrei o mago! Mas ele está morto, agora... [Conte a ele o que aconteceu.]}{}{-4}{qu1096 2, gf2198 1, gf2199 1, lf1 0}{165}{}
+{59}{E:}{}{1}{}{0}{}
+{60}{Tem mais alguma coisa em que eu possa te ajudar?}{Tem mais alguma coisa em que eu possa te ajudar?}{}{}{}{}
+{61}{K:}{}{1}{}{43}{}
+{62}{Ainda preciso dos seus serviços...}{}{5}{}{171}{}
+{65}{Ainda preciso de ser-vi-ços-sos...}{}{-4}{}{171}{}
+{66}{E:}{}{1}{}{0}{}
+{67}{Stillwater? Ah, é só uma cidadezinha. Já foi um lugar e tanto, quando Bates inventou sua máquina a vapor... as pessoas achavam que ficaríamos tão grandes quanto Tarant! Mas, como pode ver, ainda somos a mesma velha Stillwater... algumas lojas, algumas pessoas. No geral, uma cidadezinha bem tranquila...}{Stillwater? Ah, é só uma cidadezinha. Já foi um lugar e tanto, quando Bates inventou sua máquina a vapor... as pessoas achavam que ficaríamos tão grandes quanto Tarant! Mas, como pode ver, ainda somos a mesma velha Stillwater... algumas lojas, algumas pessoas. No geral, uma cidadezinha bem tranquila...}{}{}{}{}
+{68}{O que há para se ver por aqui?}{}{5}{}{72}{}
+{69}{K:}{}{5}{}{43}{}
+{70}{E:}{}{5}{}{0}{}
+{72}{Ah, não muito. Temos uma estalagem e uma taverna, se estiver procurando um lugar para ficar. Além de nossas armas bem-feitas [Ele aponta para algumas de suas mercadorias, sorrindo.], acho que nossa maior fama é o Gigante de Stillwater. Ah... imagino que algumas pessoas achem o Culto de Geshtianna um pouco estranho...}{Ah, não muito. Temos uma estalagem e uma taverna, se estiver procurando um lugar para ficar. Além de nossas armas bem-feitas [Ele aponta para algumas de suas mercadorias, sorrindo.], acho que nossa maior fama é o Gigante de Stillwater. Ah... imagino que algumas pessoas achem o Culto de Geshtianna um pouco estranho...}{}{}{}{gf2197 1}
+{73}{O que há de único nas armas feitas aqui?}{}{5}{}{78}{}
+{74}{O que é o Gigante de Stillwater?}{}{5}{}{87}{}
+{75}{O que é o Culto de Geshtianna?}{}{5}{}{93}{}
+{76}{E:}{}{5}{}{0}{}
+{78}{Fazemos muito comércio com os anões... eles têm o melhor minério de mithril de Arcanum, e ele produz armas bem equilibradas, além de suportar encantamentos poderosos. Minha família fabrica espadas em Stillwater há 400 anos. Não quero ser prolixo, filho, mas se existe alguém neste mundo que saiba mais sobre forja de lâminas do que eu, ficaria muito surpreso...}{Fazemos muito comércio com os anões... eles têm o melhor minério de Arcanum, e ele produz armas bem equilibradas. Minha família fabrica espadas em Stillwater há 400 anos. Não quero ser prolixo, moça, mas se existe alguém neste mundo que saiba mais sobre forja de lâminas do que eu, ficaria muito surpreso...}{}{}{}{}
+{79}{Isso é um pouco presunçoso, não acha?}{}{5}{ch 16, lf2 0}{106}{re +10, lf2 1}
+{80}{Isso é um pouco presunçoso, não acha?}{}{5}{ch -15, lf2 0}{98}{re -5, lf2 1}
+{81}{Você também enfeitiça as armas?}{}{5}{lf3 0, qb1096 4}{119}{}
+{82}{Você também enfeitiça as armas?}{}{5}{lf3 1, qb1096 4}{113}{}
+{83}{Você mencionou algo sobre o Gigante de Stillwater...?}{}{5}{}{87}{}
+{84}{O que é o Culto de Geshtianna?}{}{5}{}{93}{}
+{85}{E:}{}{5}{}{0}{}
+{87}{O Gigante de Stillwater? Ah... é só uma lenda local, na verdade. As pessoas vêm avistando o monstro por todo o país há anos, mas acho que é tudo bobagem. Se estiver interessado em saber mais, tem um homem chamado Stanley Hippington aqui na cidade que pode lhe contar mais sobre isso...}{O Gigante de Stillwater? Ah... é só uma lenda local, na verdade. As pessoas vêm avistando o monstro por todo o país há anos, mas acho que é tudo bobagem. Se estiver interessado em saber mais, tem um homem chamado Stanley Hippington aqui na cidade que pode lhe contar mais sobre isso...}{}{}{}{}
+{88}{Você disse que algumas das armas eram encantadas... você faz isso?}{}{5}{}{119}{}
+{89}{O que é o Culto de Geshtianna?}{}{5}{}{93}{}
+{90}{E:}{}{5}{}{0}{}
+{93}{O Culto? Ah, é uma das novas religiões que parecem surgir por toda parte. Eles adoram alguma deusa da fertilidade, fazem grandes festivais... geralmente se tornam um incômodo. Pagãos, se me perguntar. Mas, se tiver dúvidas sobre isso, talvez queira falar com Brigitte... ela é uma sumo-sacerdotisa do culto...}{O Culto? Ah, é uma das novas religiões que parecem surgir por toda parte. Eles adoram alguma deusa da fertilidade, fazem grandes festivais... geralmente se tornam um incômodo. Pagãos, se me perguntar. Mas, se tiver dúvidas sobre isso, talvez queira falar com Brigitte... ela é uma sumo-sacerdotisa do culto...}{}{}{}{}
+{94}{Você mencionou algo sobre o Gigante de Stillwater...?}{}{5}{}{87}{}
+{95}{O que há de único nas armas feitas aqui?}{}{5}{}{78}{}
+{96}{E:}{}{5}{}{0}{}
+{98}{[Uma expressão severa toma conta de seu rosto.] Está questionando minha habilidade, filho? Eu recomendaria repensar essas palavras... sou tão habilidoso em manejar lâminas quanto em forjá-las...}{[Uma expressão severa toma conta de seu rosto.] Está questionando minha habilidade, filho? Eu recomendaria repensar essas palavras... sou tão habilidoso em manejar lâminas quanto em forjá-las...}{}{}{}{}
+{99}{Me perdoe. Você também enfeitiça as armas?}{}{5}{lf3 0, qb1096 4}{119}{re +5}
+{100}{Perdoe-me. Você também enfeitiça as armas?}{}{5}{lf3 1, qb1096 4}{113}{re +5}
+{101}{Por favor, aceite minhas desculpas. E quanto ao Gigante de Stillwater...?}{}{5}{}{87}{re +5}
+{102}{Desculpe-me, senhor. O que é o Culto de Geshtianna?}{}{5}{}{93}{re +5}
+{103}{Sua esgrima não pode ser melhor do que o seu trabalho malfeito...}{}{5}{}{}{co, fl 34}
+{104}{E:}{}{5}{}{0}{}
+{106}{[Uma expressão severa toma conta de seu rosto, mas então ele sorri.] Poucos homens poderiam dizer isso para mim sem que acabasse em pancadaria, mas você é um tipo diferente de alma... às vezes um homem precisa de um pequeno lembrete de que sua cabeça pode estar ficando grande demais para seus ombros. Meus agradecimentos, amigo...}{[Uma expressão severa toma conta de seu rosto, mas então ele sorri.] Poucos homens poderiam dizer isso para mim sem que acabasse em pancadaria, mas você é um tipo diferente de alma... às vezes um homem precisa de um pequeno lembrete de que sua cabeça pode estar ficando grande demais para seus ombros. Meus agradecimentos, amigo...}{}{}{}{}
+{107}{Você também enfeitiça as armas?}{}{5}{lf3 0, qb1096 4}{119}{}
+{108}{Você também enfeitiça as armas?}{}{5}{lf3 1, qb1096 4}{113}{}
+{109}{Você mencionou algo sobre o Gigante de Stillwater...?}{}{5}{}{87}{}
+{110}{O que é o Culto de Geshtianna?}{}{5}{}{93}{}
+{111}{E:}{}{5}{}{0}{}
+{113}{Já lhe disse... meu amigo Cyrus enfeitiça as armas para mim. Não tenho notícias dele há alguns dias, porém... [Ele parece preocupado.]}{Já lhe disse... meu amigo Cyrus enfeitiça as armas para mim. Não tenho notícias dele há alguns dias, porém... [Ele parece preocupado.]}{}{}{}{}
+{114}{Talvez eu pudesse dar uma olhada nele, para você...}{}{5}{qb1096 1}{128}{}
+{115}{Você mencionou algo sobre o Gigante de Stillwater...?}{}{5}{}{87}{}
+{116}{O que é o Culto de Geshtianna?}{}{5}{}{93}{}
+{117}{E:}{}{5}{}{0}{}
+{119}{Não... há um mago local por estas bandas que eu uso para enfeitiçar as armas... ele é um velho teimoso, mas nos damos bem. Atende pelo nome de Cyrus. Ele lança feitiços nas minhas armas, e eu dou uma olhada nele de vez em quando, faço algum trabalho em sua casa quando ele precisa. Pensando bem... que dia é hoje...?}{Não... há um mago local por estas bandas que eu uso para enfeitiçar as armas... ele é um velho teimoso, mas nos damos bem. Atende pelo nome de Cyrus. Ele lança feitiços nas minhas armas, e eu dou uma olhada nele de vez em quando, faço algum trabalho em sua casa quando ele precisa. Pensando bem... que dia é hoje...?}{}{}{}{}
+{120}{[Diga a ele.]}{}{5}{}{122}{}
+{122}{Isso é estranho. O velho Cyrus deveria ter vindo aqui ontem. Não tive tempo de verificar como ele está, e hoje estou especialmente ocupado com um pedido da Guarda Caledoniana. [Richard parece preocupado.] Espero mesmo que ele esteja bem...}{Isso é estranho. O velho Cyrus deveria ter vindo aqui ontem. Não tive tempo de verificar como ele está, e hoje estou especialmente ocupado com um pedido da Guarda Caledoniana. [Richard parece preocupado.] Espero mesmo que ele esteja bem...}{}{}{}{lf3 1}
+{123}{Talvez eu pudesse dar uma olhada nele, para você...}{}{5}{}{128}{}
+{124}{Você mencionou algo sobre o Gigante de Stillwater...?}{}{5}{}{87}{}
+{125}{O que é o Culto de Geshtianna?}{}{5}{}{93}{}
+{126}{E:}{}{5}{}{0}{}
+{128}{Hmmm. Sim, você parece um tipo confiável. Você se importaria de garantir que nenhum mal tenha lhe acontecido? E quando falar com ele, diga que precisarei dos seus serviços o mais rápido possível... este carregamento tem que sair até o final da semana. Se fizer isso, acho que poderia arranjar uma Lâmina de Stillwater extra para você. O que me diz, amigo?}{Hmmm. Sim, você parece um tipo confiável. Você se importaria de garantir que nenhum mal tenha lhe acontecido? E quando falar com ele, diga que precisarei dos seus serviços o mais rápido possível... este carregamento tem que sair até o final da semana. Se fizer isso, acho que poderia arranjar uma Lâmina de Stillwater extra para você. O que me diz, amigo?}{}{}{}{qu1096 1}
+{129}{Parece uma troca justa. Eu o farei...}{}{5}{}{135}{qu1096 2}
+{130}{Vou pensar no assunto. Mais algumas perguntas...}{}{5}{}{43}{}
+{131}{Eu já o libertei... ele havia sido capturado por um ogro...}{}{5}{gf2198 1, gf2199 0}{146}{}
+{132}{Eu o encontrei, mas ele morreu... [Conte a ele o que aconteceu.]}{}{5}{gf2198 1, gf2199 1}{165}{}
+{133}{E:}{}{5}{}{0}{}
+{135}{Meus agradecimentos a você, estranho. A casa dele fica logo a noroeste daqui... basta seguir o caminho para fora da cidade. Quando tiver certeza de que o velho mago está bem, volte para mim...}{Meus agradecimentos a você, estranho. A casa dele fica logo a noroeste daqui... basta seguir o caminho para fora da cidade. Quando tiver certeza de que o velho mago está bem, volte para mim...}{}{}{}{}
+{136}{K:}{}{1}{}{43}{}
+{137}{E:}{}{1}{}{0}{}
+{141}{Entendo. Espero que descubra logo o que aconteceu com ele...}{Entendo. Espero que encontre alguns em breve...}{}{}{}{}
+{142}{K:}{}{1}{}{43}{}
+{143}{E:}{}{1}{}{0}{}
+{146}{Sério? Você deve estar falando do velho Drog Dente Negro... ele está morando nas colinas há muito tempo, mas na maioria das vezes é só latido e nenhuma mordida... parece que dessa vez a fome foi mais forte. Bom trabalho, amigo! Aqui está a lâmina que prometi. [Ele a entrega para você.] Tenha um bom dia...}{Sério? Você deve estar falando do velho Drog Dente Negro... ele está morando nas colinas há muito tempo, mas na maioria das vezes é só latido e nenhuma mordida... parece que dessa vez a fome foi mais forte. Bom trabalho, amigo! Aqui está a lâmina que prometi. [Ele a entrega para você.] Tenha um bom dia...}{}{}{}{qu1096 4, lf1 1, in -2018}
+{147}{K:}{}{1}{}{43}{}
+{148}{E:}{}{1}{}{0}{}
+{165}{[Ele parece abatido.] Oh, céus. Deve ter sido o velho Drog Dente Negro. Aquele ogro vive nas colinas há anos, mas nunca realmente incomodou ninguém. Acho que dessa vez a fome foi mais forte. Obrigado por tentar, amigo. Infelizmente, a lâmina não será sua...}{[Ele parece abatido.] Oh, céus. Deve ter sido o velho Drog Dente Negro. Aquele ogro vive nas colinas há anos, mas nunca realmente incomodou ninguém. Acho que dessa vez a fome foi mais forte. Obrigado por tentar, amigo. Infelizmente, a lâmina não será sua...}{}{}{}{lf1 1}
+{166}{K:}{}{1}{}{43}{}
+{167}{E:}{}{1}{}{0}{}
+{171}{Que serviços você precisa?}{Que serviços você precisa?}{}{}{}{}
+{172}{Você poderia consertar algo para mim?}{}{5}{}{}{ri}
+{173}{Cê conserta arguma coisa pra mim?}{}{-4}{}{}{ri}
+{174}{T: 12}{}{1}{}{60}{}
+{175}{B:}{}{1}{}{60}{}
+{176}{R: $10, 1090-1099}{}{1}{}{60}{}
+{177}{E:}{}{1}{}{0}{}
+{181}{Bem, senhor, tenho que ser honesto... já conheci percevejos de pântano mais espertos que você... mas talvez haja algo que possa fazer por mim. Eu fabrico lâminas aqui em Stillwater, e tenho um velho amigo mago que as enfeitiça. Não vejo o velho Cyrus há alguns dias... se pudesse dar uma olhada nele e garantir que está bem, eu estaria disposto a lhe dar uma bela lâmina de Stillwater...}{Bem, senhora, tenho que ser honesto... já conheci percevejos de pântano mais espertos que você... mas talvez haja algo que possa fazer por mim. Eu fabrico lâminas aqui em Stillwater, e tenho um velho amigo mago que as enfeitiça. Não vejo o velho Cyrus há alguns dias... se pudesse dar uma olhada nele e garantir que está bem, eu estaria disposto a lhe dar uma bela lâmina de Stillwater...}{}{}{}{qu10961 }
+{182}{Tá bom! Vou procurar o mago!}{}{-4}{}{135}{qu1096 2}
+{183}{Talvez eu faça isso. Tenho mais perguntas!}{}{-4}{}{43}{}
+

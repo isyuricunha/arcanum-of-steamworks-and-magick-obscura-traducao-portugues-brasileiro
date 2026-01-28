@@ -1,0 +1,253 @@
+{1}{O que VOCÊ quer?}{O que VOCÊ quer?}{}{}{}{}
+{2}{Quem é o senhor?}{}{5}{lf1 0}{21}{}
+{4}{Olá, Tollo. Tem um momento?}{}{5}{lf1 1}{48}{}
+{6}{Hã... quem é você?}{}{-4}{lf1 0}{21}{}
+{7}{Oi, Tollo! Posso lhe fazer algumas perguntas?}{}{-4}{lf1 1}{48}{}
+{8}{E:}{}{1}{}{0}{}
+{21}{Eu? Quem sou eu? Eu poderia perguntar o mesmo a você, garoto! Só dando um passeio tranquilo aqui nas Minas de Dernholm, é? Maldição! Quem se importa com quem eu sou, ou quem você é? Não faz diferença aqui embaixo, de qualquer forma...}{Eu? Quem sou eu? Eu poderia perguntar o mesmo a você, garota! Só dando um passeio tranquilo aqui nas Minas de Dernholm, é? Maldição! Quem se importa com quem eu sou, ou quem você é? Não faz diferença aqui embaixo, de qualquer forma...}{}{}{}{}
+{22}{Talvez faça. Estou procurando alguém em particular...}{}{5}{}{58}{}
+{23}{Parece que o senhor está aqui há muito tempo...}{}{5}{}{30}{}
+{24}{Não gosto muito da sua atitude, meio-humano...}{}{5}{}{36}{}
+{26}{Hã... preciso encontrar alguém!}{}{-4}{}{58}{}
+{27}{Suas palavras me deixam furioso, sujeitinho. Não gosto de você...}{}{-4}{}{36}{re -5}
+{28}{E:}{}{1}{}{0}{}
+{30}{Eu? Já estou aqui há tempo suficiente. 10 segundos já são suficientes, sabe o que quero dizer, garoto? Mas tenho que admitir... este lugar é um feriado comparado a outros que já vi. [Ele fica com um olhar distante.] Sim, um maldito feriado de verão...}{Eu? Já estou aqui há tempo suficiente. 10 segundos já são suficientes, sabe o que quero dizer, garota? Mas tenho que admitir... este lugar é um feriado comparado a outros que já vi. [Ele fica com um olhar distante.] Sim, um maldito feriado de verão...}{}{}{}{}
+{31}{Interessante. Estou PROCURANDO um meio-humano que tenha visto algo...}{}{5}{}{71}{}
+{33}{Hã... preciso encontrar alguém! Um meio-humano!}{}{-4}{}{71}{}
+{34}{E:}{}{1}{}{0}{}
+{36}{Ah, é? Bom, e o que pretende FAZER a respeito, garoto? Não estou vivo aqui nesta Mina porque não sei me virar numa briga. Está querendo começar algo comigo?}{Ah, é? Bom, e o que pretende FAZER a respeito, garota? Não estou vivo aqui nesta Mina porque não sei me virar numa briga. Está querendo começar algo comigo?}{}{}{}{}
+{37}{Claro que não. Perdoe-me por tê-lo ofendido...}{}{5}{}{44}{re +5}
+{38}{Não. Eu planejo TERMINAR algo, nanico...}{}{5}{}{}{co, fl 103}
+{40}{Hã... não! Não quero deixá-lo bravo...}{}{-4}{}{44}{re +5}
+{41}{Estou cansado de você. Você é pequeno e vou esmagá-lo agora...}{}{-4}{}{}{co, fl 103}
+{42}{E:}{}{1}{}{0}{}
+{44}{É melhor assim, garoto. Continue sendo esperto desse jeito, e talvez viva mais alguns minutos aqui embaixo. O que está fazendo aqui, afinal?}{É melhor assim, garota. Continue sendo esperta desse jeito, e talvez viva mais alguns minutos aqui embaixo. O que está fazendo aqui, afinal?}{}{}{}{}
+{45}{Estou procurando alguém em particular...}{}{5}{}{58}{}
+{46}{Hã... preciso encontrar alguém!}{}{-4}{}{58}{}
+{48}{Sim... seja rápido...}{Sim... seja rápido...}{}{}{}{}
+{49}{K'an Hua me enviou... estou aqui para ajudá-lo a escapar...}{}{5}{lf1 1}{79}{}
+{50}{K'an Hua tem uma proposta para você... envolve Vendigroth...}{}{5}{lf3 1}{121}{}
+{51}{O que aconteceu com você enquanto esteve em Vêndigroth?}{}{5}{lf4 1}{130}{}
+{53}{Hã... Kan Ha me mandou para ajudar você a escapar!}{}{-4}{lf1 1}{79}{}
+{54}{Kan Ha quer que eu faça um acordo com você... ajudar em Vê-ndi-gr-o-th...}{}{-4}{lf3 1}{121}{}
+{55}{Por que você não gosta de Vê-ndi-gr-o-th...?}{}{-4}{lf4 1}{130}{}
+{56}{E:}{}{1}{}{0}{}
+{58}{Bom, não posso dizer que você não terá tempo sangrento para isso, amigo! Este lugar... o tempo é tudo o que você tem! Claro, eu passo a maior parte do meu matando coisas... sejam criaturas nojentas ou presos intrometidos. [Ele lhe lança um olhar duro.] Para mim não faz diferença, contanto que me deixem em paz...}{Bom, não posso dizer que você não terá tempo sangrento para isso, amigo! Este lugar... o tempo é tudo o que você tem! Claro, eu passo a maior parte do meu matando coisas... sejam criaturas nojentas ou presos intrometidos. [Ele lhe lança um olhar duro.] Para mim não faz diferença, contanto que me deixem em paz...}{}{}{}{}
+{59}{Hmmm. O indivíduo que estou procurando é um halfling...}{}{5}{}{71}{}
+{60}{Parece que você está aqui há muito tempo, senhor...}{}{5}{}{30}{}
+{61}{Espero sinceramente que não esteja me ameaçando, criminoso...}{}{5}{}{66}{re -5}
+{63}{Hã... estou procurando alguém chamado To-l-l-o Un-n-der-hil-l-l...?}{}{-4}{}{75}{}
+{64}{E:}{}{1}{}{0}{}
+{66}{E se eu estiver, GAROTO? [O halfling sorri maldosamente, um brilho louco nos olhos.] Acha que tem o que é preciso para vencer este halfling? Diabos, matei criaturas mais duronas que você hoje mesmo antes do café da manhã. E então? O que vai ser, GAROTO?}{E se eu estiver, garota? [O halfling sorri maldosamente, um brilho louco nos olhos.] Acha que tem o que é preciso para vencer este halfling? Diabos, matei criaturas mais duronas que você hoje mesmo antes do café da manhã. E então? O que vai ser, garota?}{}{}{}{}
+{67}{Você acabou de dizer suas últimas palavras, lixo halfling...}{}{5}{}{}{co, fl 103}
+{68}{Por favor, me perdoe. Estou procurando um halfling...}{}{5}{}{71}{re +5}
+{69}{E:}{}{5}{}{0}{}
+{71}{[Ele olha para você com cautela.] Um halfling, você diz? O que um homem como você está fazendo aqui embaixo procurando um halfling? [Ele dá um passo para trás, tocando um punhal de aparência sinistra em seu cinto.] Talvez procurando acertar contas antigas...?}{[Ele olha para você com cautela.] Um halfling, você diz? O que uma garota como você está fazendo aqui embaixo procurando um halfling? [Ele dá um passo para trás, tocando um punhal de aparência sinistra em seu cinto.] Talvez procurando acertar contas antigas...?}{}{}{}{}
+{72}{Não. Nada disso. Estou procurando Tollo Underhill...}{}{5}{}{75}{}
+{73}{Hã... estou procurando alguém chamado To-l-l-o Un-n-der-hil-l-l...?}{}{-4}{}{75}{}
+{75}{[Ele avalia você, puxando o punhal da bainha.] Eu sou Tollo Underhill, garoto. Quem é você para querer me encontrar?}{[Ele avalia você, puxando o punhal da bainha.] Eu sou Tollo Underhill, garota? Quem é você para querer me encontrar?}{}{}{}{lf1 1}
+{76}{Fui enviado aqui por K'an Hua para libertá-lo desta prisão...}{}{5}{}{79}{re +5}
+{77}{Hã... Kan Ha me mandou para tirar você daqui! Sair!}{}{-4}{}{79}{}
+{79}{K'an Hua! Aquele filho de uma cadela traiçoeiro e assassino...! Espere, você disse que ele o mandou para me libertar?}{K'an Hua! Aquele filho de uma cadela traiçoeiro e assassino...! Espere, você disse que ele o mandou para me libertar?}{}{}{}{}
+{80}{Sim.}{}{5}{}{84}{re +5}
+{81}{Talvez. Mas recomendo que mostre um pouco mais de respeito...}{}{5}{}{88}{re -5}
+{82}{É!}{}{-4}{}{84}{}
+{84}{Bom, isso é uma história diferente! Sempre gostei daquele desgraçado, de certa forma. Mau como o sol é amarelo, ele é, mas... espere um momento! O velho K'an Hua não o mandou me buscar por bondade no coração... eu o conheço melhor que isso. Quanto isso vai me custar?}{Bom, isso é uma história diferente! Sempre gostei daquele desgraçado, de certa forma. Mau como o sol é amarelo, ele é, mas... espere um momento! O velho K'an Hua não o mandou me buscar por bondade no coração... eu o conheço melhor que isso. Quanto isso vai me custar?}{}{}{}{}
+{85}{Você é o único homem que já viu Vêndigroth e sobreviveu...}{}{5}{}{121}{}
+{86}{Ele disse que você pode me ajudar em Vê-ndi-gr-o-th...?}{}{-4}{}{121}{}
+{88}{[Tollo cospe no chão à sua frente.] É? Acha mesmo, garoto? E como é que você acha que pode dizer para mim, Tollo Underhill, o ladrão mais assassino que já existiu, o que ele pode ou não dizer?}{[Tollo cospe no chão à sua frente.] É? Acha mesmo, garota? E como é que você pensa que pode dizer a mim, Tollo Underhill, o ladrão mais assassino que já existiu, o que ele pode ou não dizer?}{}{}{}{}
+{89}{Porque eu sou uma ladra melhor do que você jamais será, Underhill...}{}{5}{}{-14}{}
+{90}{Porque eu sou tão mortal quanto qualquer um, Underhill. Simples assim...}{}{5}{}{-24}{}
+{93}{Hã... me perdoe. Você tem direito às suas próprias opiniões...}{}{5}{}{105}{}
+{94}{E:}{}{5}{}{0}{}
+{97}{[O halfling sorri, chegando mais perto.] Acho que você não tem o que é preciso para sustentar essa boca, garoto. Mais uma chance... ninguém diz a Tollo Underhill o que fazer, e ponto final. Está me ouvindo, GAROTO?}{[O halfling sorri, chegando mais perto.] Acho que você não tem o que é preciso para sustentar essa boca, garota? Mais uma chance... ninguém diz a Tollo Underhill o que fazer, e ponto final. Está me ouvindo, GAROTA?}{}{}{}{}
+{99}{Sim, claramente. Agora sobre os termos da sua libertação...}{}{5}{}{118}{re +5}
+{100}{Não tenho utilidade para um fanfarrão como você. Prepare-se para morrer...}{}{5}{}{}{co, fl 103}
+{101}{E:}{}{5}{}{0}{}
+{103}{Ninguém fala com Tollo Underhill desse jeito, seu bastardo! Morra!}{Ninguém fala com Tollo Underhill desse jeito, sua vadia! Morra!}{}{}{}{}
+{105}{Sim, e não vá esquecendo disso, garoto. Eu tanto te furo quanto escuto mais uma palavra dessa sua boca idiota. Ficou claro, GAROTO?}{Sim, e não vá esquecendo disso, garota. Eu tanto te furo quanto escuto mais uma palavra dessa sua boca idiota. Ficou claro, GAROTA?}{}{}{}{}
+{106}{Sim. Agora sobre os termos da sua libertação...}{}{5}{}{118}{re +5}
+{108}{[Ele recua, parecendo acreditar em você.] Tudo bem. Não vou dizer mais nada sobre o Velho K'an Hua. O que ele quer em troca por me tirar deste inferno?}{[Ele recua, parecendo acreditar em você.] Tudo bem. Não vou dizer mais nada sobre o Velho K'an Hua. O que ele quer em troca por me tirar deste inferno?}{}{}{}{lf3 1}
+{109}{Você é o único homem que já viu Vendigroth e sobreviveu...}{}{5}{}{121}{}
+{118}{É... o que aquele maldito bastardo quer em troca? Nada é de graça quando aquele demônio de alma negra está envolvido...}{É... o que aquele maldito bastardo quer em troca? Nada é de graça quando aquele demônio de alma negra está envolvido...}{}{}{}{lf3 1}
+{119}{Você é o único homem que já viu Vendigroth e sobreviveu...}{}{5}{}{121}{}
+{121}{Vendigroth? Puta merda! Aquele Elfo Negro pirou de vez? Você tem ideia do que eu passei por causa daquele lugar? É metade do motivo de eu estar aqui agora!}{Vendigroth? Puta merda! Aquele Elfo Negro pirou de vez? Você tem ideia do que eu passei por causa daquele lugar? É metade do motivo de eu estar aqui agora!}{}{}{}{lf4 1}
+{122}{O que você quer dizer? O que aconteceu?}{}{5}{}{130}{}
+{124}{Escuta, Tollo... isso é problema seu. Aqui está o que eu preciso...}{}{5}{}{156}{}
+{125}{E:}{}{5}{}{0}{}
+{126}{Hã... por que você não gosta de Ve-ndi-gr-o-th...?}{}{-4}{}{130}{}
+{127}{Hã... você não precisa ir, mas eu preciso da sua ajuda...}{}{-4}{}{156}{}
+{130}{Eu estava explorando as Terras Devastadas de Vendigroth com minha antiga gangue... um bando dos cães mais durões que você já viu. Enquanto estávamos lá, encontramos as ruínas de uma cidade antiga. E grande, maior do que qualquer coisa que eu já vi... se estendia por quilômetros. E não estava em nenhum dos mapas...}{Eu estava explorando as Terras Devastadas de Vendigroth com minha antiga gangue... um bando dos cães mais durões que você já viu. Enquanto estávamos lá, encontramos as ruínas de uma cidade antiga. E grande, maior do que qualquer coisa que eu já vi... se estendia por quilômetros. E não estava em nenhum dos mapas...}{}{}{}{}
+{131}{E daí? O que aconteceu?}{}{5}{}{134}{}
+{132}{Hã...}{}{-4}{}{134}{}
+{134}{Debaixo da cidade havia túneis e cavernas sem fim... uma cidade inteira por si só. E fomos fundo, mais fundo do que qualquer masmorra em que já estive. E então, depois que vimos aquilo, eles começaram a sair... [Ele estremece.]}{Debaixo da cidade havia túneis e cavernas sem fim... uma cidade inteira por si só. E fomos fundo, mais fundo do que qualquer masmorra em que já estive. E então, depois que vimos aquilo, eles começaram a sair... [Ele estremece.]}{}{}{}{}
+{138}{O quê? Viu o quê? O que saiu?}{}{5}{}{141}{}
+{139}{Hã... tá bom... hã...}{}{-4}{}{141}{}
+{141}{No fundo dos túneis, encontramos um objeto... parecia algo tecnológico, mas como poderia ser, né? Quer dizer, esse lugar tinha MILHARES de anos. E depois que o vimos, havia criaturas por toda parte, saindo das malditas paredes, coisas malignas como eu nunca tinha visto, antes ou depois...}{No fundo dos túneis, encontramos um objeto... parecia algo tecnológico, mas como poderia ser, né? Quer dizer, esse lugar tinha MILHARES de anos. E depois que o vimos, havia criaturas por toda parte, saindo das malditas paredes, coisas malignas como eu nunca tinha visto, antes ou depois...}{}{}{}{}
+{142}{E então?}{}{5}{}{145}{}
+{143}{Gaaahhh! Ugh...}{}{-4}{}{145}{}
+{145}{E daí? Corremos, seu idiota desmiolado! Corremos de lá, com os próprios cães do inferno gritando atrás da gente o caminho todo! Perdi todos eles, garoto... cada um dos meus companheiros! Fui o único que conseguiu sair daquele maldito lugar de morte...}{E daí? Corremos, sua idiota desmiolada! Corremos de lá, com os próprios cães do inferno gritando atrás da gente o caminho todo! Perdi todos eles, garota... cada um dos meus companheiros! Fui o único que conseguiu sair daquele maldito lugar de morte...}{}{}{}{}
+{146}{Como você acabou parando aqui, então?}{}{5}{}{149}{}
+{147}{Então como você chegou aqui?}{}{-4}{}{149}{}
+{149}{Depois disso, nunca mais fui o mesmo, garoto. Quer dizer, eu sempre fui um pouco desequilibrado aqui em cima, [Ele aponta para a cabeça.] mas depois daquilo, simplesmente entrei numa maldita fúria. Acabei numa briga com quatro soldados de Dernholm numa taverna certa noite, e três deles acabaram mortos. O velho Rei Praetor me jogou nos Cáreres alguns dias depois...}{Depois disso, nunca mais fui o mesmo, garota. Quer dizer, eu sempre fui um pouco desequilibrado aqui em cima, [Ele aponta para a cabeça.] mas depois daquilo, simplesmente entrei numa maldita fúria. Acabei numa briga com quatro soldados de Dernholm numa taverna certa noite, e três deles acabaram mortos. O velho Rei Praetor me jogou nos Cáreres alguns dias depois...}{}{}{}{}
+{150}{Entendo. Bem, é isso que preciso de você, Tollo...}{}{5}{}{156}{}
+{153}{Hã... você não precisa ir, mas eu preciso da sua ajuda...}{}{-4}{}{156}{}
+{154}{E:}{}{1}{}{0}{}
+{156}{[Ele parece um pouco desconfiado.] Pode falar...}{[Ele parece um pouco desconfiado.] Pode falar...}{}{}{}{}
+{157}{Só preciso de um mapa de onde você encontrou aquele dispositivo...}{}{5}{}{163}{}
+{161}{Preciso de um mapa de Ve-ndi-gr-o-th...}{}{-4}{}{163}{}
+{163}{É só isso? Não preciso ir com você, lá? [O halfling parece aliviado.] Tudo bem. Se me tirar deste Cárcere, eu lhe dou um mapa detalhado das ruínas de Vendigroth....}{É só isso? Não preciso ir com você, lá? [O halfling parece aliviado.] Tudo bem. Se me tirar deste Cárcere, eu lhe dou um mapa detalhado das ruínas de Vendigroth....}{}{}{}{}
+{164}{Trato feito. Vamos sair daqui...}{}{5}{}{167}{}
+{165}{Tá bom! Vamos embora...}{}{-4}{}{167}{}
+{167}{Então... como diabos vamos conseguir? Talvez os guardas não tenham te contado... não tem saída pela porta da frente! Espero que você tenha algum tipo de plano maldito!}{Então... como diabos vamos conseguir? Talvez os guardas não tenham te contado... não tem saída pela porta da frente! Espero que você tenha algum tipo de plano maldito!}{}{}{}{}
+{168}{Hmm, eu meio que esperava que você tivesse uma ideia...}{}{5}{}{173}{}
+{169}{Já encontrei um jeito. Vamos...}{}{5}{}{-34}{}
+{170}{Hã... achei que talvez VOCÊ soubesse de um jeito...?}{}{-4}{}{173}{}
+{171}{Acho que encontrei um jeito! Vamos!}{}{-4}{}{-34}{}
+{173}{O quê? [O halfling põe as mãos na cabeça.] Pelos deuses, com que tipo de idiota eu fui me meter? Accchhh! Escuta aqui, garoto, pode haver uma maneira de sair daqui, mas todo mundo que já tentou acabou no necrotério... entendeu?}{O quê? [O halfling põe as mãos na cabeça.] Pelos deuses, com que tipo de idiota eu fui me meter? Accchhh! Escuta aqui, garota, pode haver uma maneira de sair daqui, mas todo mundo que já tentou acabou no necrotério... entendeu?}{}{}{}{}
+{174}{Vamos ouvir qual é...}{}{5}{}{177}{}
+{175}{Hã... do que você tá falando?}{}{-4}{}{177}{}
+{177}{Se você seguir as cavernas descendo para o oeste, há uma mudança definitiva no ar. Está muito mais fresco e limpo. Isso indica que há alguma passagem lá embaixo para o lado de fora. Mas também há outro cheiro lá... o cheiro de morte, e algo mais... algo que nunca senti antes. Algo ruim, muito ruim...}{Se você seguir as cavernas descendo para o oeste, há uma mudança definitiva no ar. Está muito mais fresco e limpo. Isso indica que há alguma passagem lá embaixo para o lado de fora. Mas também há outro cheiro lá... o cheiro de morte, e algo mais... algo que nunca senti antes. Algo ruim, muito ruim...}{}{}{}{}
+{178}{Então é descendo e para o oeste que vamos...}{}{5}{}{181}{}
+{179}{Tá bom! Vamos lá...}{}{-4}{}{181}{}
+{181}{[O halfling balança a cabeça lentamente, fazendo algum tipo de sinal na testa.] Droga! Nunca quis menos ser resgatado! Mas acho que não há o que fazer. Vamos então, garoto. Suponho que a morte seja melhor do que apodrecer aqui neste lugar maldito...}{[O halfling balança a cabeça lentamente, fazendo algum tipo de sinal na testa.] Droga! Nunca quis menos ser resgatado! Mas acho que não há o que fazer. Vamos então, garota. Suponho que a morte seja melhor do que apodrecer aqui neste lugar maldito...}{}{}{}{}
+{182}{Vamos embora, então...}{}{5}{}{-34}{}
+{183}{E:}{}{-4}{}{-34}{}
+{185}{Hmmmm. Nada mal, garoto. Tenho que dizer, não sabia se você tinha coragem para nos tirar daquele lugar. Aqui, pegue seu mapa... você mereceu...}{Hmmmm. Nada mal, garota. Tenho que dizer, não sabia se você tinha coragem para nos tirar daquele lugar. Aqui, pegue seu mapa... você mereceu...}{}{}{}{in -5237, qu1050 4, lf5 1}
+{186}{Eu estava pensando, você gostaria de se juntar a mim?}{}{5}{}{191}{}
+{187}{Obrigado, Tollo. Tenha um bom dia...}{}{5}{}{-37}{}
+{188}{Hã... você gostaria de vir conosco, Tollo?}{}{-4}{}{191}{}
+{189}{E:}{}{-4}{}{-37}{}
+{191}{O quê? Você está louco? Você tem ideia de quão maluco um halfling teria que ser para voltar àquela tumba maldita? Desculpe, garoto, mas Vendigroth nunca mais verá a sombra de Tollo Underhill. E nem você, garoto. Vou encontrar uma boa taverna e me embebedar. Boa sorte para você, pelo que vale.}{O quê? Você está louco? Você tem ideia de quão maluco um halfling teria que ser para voltar àquela tumba maldita? Desculpe, garota, mas Vendigroth nunca mais verá a sombra de Tollo Underhill. E nem você. Vou encontrar uma boa taverna e me embebedar. Boa sorte para você, pelo que vale.}{}{}{}{}
+{192}{É uma pena que você esteja tão assustado. Eu poderia usar sua ajuda...}{}{5}{}{197}{}
+{193}{Entendo. Tenha um bom dia, Tollo...}{}{5}{}{-37}{}
+{194}{Eu intendo. Você tá com medo. Que pena, eu preciso de ajuda...}{}{-4}{}{197}{}
+{195}{E:}{}{-4}{}{-37}{}
+{197}{Medo? Quem disse que estou com medo, garoto? Eu não tenho medo de nada! Só, hã, não tenho nenhum bom motivo para voltar lá, só isso. Medo, que nada!}{Medo? Quem disse que estou com medo, garota? Eu não tenho medo de nada! Só, hã, não tenho nenhum bom motivo para voltar lá, só isso. Medo, que nada!}{}{}{}{}
+{198}{Entendo. Só parece que você está realmente assustado, só isso...}{}{5}{}{206}{}
+{202}{Tá bom! Você só PARECE estar com muito medo...}{}{-4}{}{206}{}
+{203}{E:}{}{1}{}{-37}{}
+{206}{O quê? Medo, uma ova! Vou entrar direto naquele poço maldito de morte e mostrar quem é que está com medo! Já fiz isso antes e farei de novo! Deixei um rastro de morte para trás, eu deixei! Sangue por toda parte e nenhum era meu! Tollo Underhill! O Flagelo de Vendigroth!}{O quê? Medo, uma ova! Vou entrar direto naquele poço maldito de morte e mostrar quem é que está com medo! Já fiz isso antes e farei de novo! Deixei um rastro de morte para trás, eu deixei! Sangue por toda parte e nenhum era meu! Tollo Underhill! O Flagelo de Vendigroth!}{}{}{}{}
+{207}{Então você vai comigo?}{}{5}{}{213}{jo 0 219}
+{209}{Então você vem comigo?}{}{-4}{}{213}{jo 0 219}
+{211}{E:}{}{1}{}{-37}{}
+{213}{Você queria mais alguma coisa, garoto?}{Você queria mais alguma coisa, garota?}{}{}{}{}
+{216}{E:}{}{1}{}{0}{lf6 1}
+{219}{Claro que vou com você! Você não vai durar 5 minutos lá dentro sem mim abrindo um caminho sangrento na sua frente! Você vai ver! Tollo Underhill não é um halfling com quem se brinca! Vou matar tudo que estiver vivo em...}{Claro que vou com você! Você não vai durar 5 minutos lá dentro sem mim abrindo um caminho sangrento na sua frente! Você vai ver! Tollo Underhill não é um halfling com quem se brinca! Vou matar tudo que estiver vivo em...}{}{}{}{}
+{221}{Certo, certo. Vamos embora...}{}{5}{}{0}{lf5 0}
+{222}{Tá bom, Tollo! Eu entendo! Vamos...}{}{-4}{}{0}{lf5 0}
+{225}{O que VOCÊ quer de mim, garoto?}{O que VOCÊ quer de mim, garota?}{}{}{}{}
+{226}{Eu estava pensando se, talvez, você gostaria de me acompanhar..?}{}{5}{lf6 0}{191}{}
+{227}{Hmm... talvez você queira me acompanhar?}{}{-4}{lf6 0}{191}{}
+{228}{Eu estava pensando se você mudou de ideia sobre me acompanhar..?}{}{5}{lf6 1}{213}{jo 0 237}
+{229}{Hmm... talvez você mude de ideia e me acompanhe...?}{}{-4}{lf6 1}{213}{jo 0 237}
+{230}{E:}{}{1}{}{0}{}
+{237}{Bem, você é um sujeito insistente pra caramba, não é? Tá bom, acho que vou junto. Melhor do que ficar aqui parado, de qualquer jeito...}{Bem, você é uma moça insistente pra caramba, não é? Tá bom, acho que vou junto. Melhor do que ficar aqui parada, de qualquer jeito...}{}{}{}{}
+{238}{E:}{}{1}{}{0}{lf5 0}
+{239}{}{}{}{}{}{}
+{240}{É? O que diabos você quer?}{É? O que diabos você quer?}{}{}{}{}
+{241}{B:}{}{1}{wa 0}{}{}
+{242}{K:}{}{1}{wa 0}{248}{}
+{243}{Eu gostaria que você fizesse algo por mim, Tollo...}{}{5}{wa 0}{361}{}
+{244}{Preciso que você faça uma coisa pra mim, Tollo...}{}{-4}{wa 0}{361}{}
+{245}{Você já pode parar de esperar agora, Tollo...}{}{5}{wa 1}{384}{uw 0 369}
+{246}{Já pode parar de esperar, Tollo!}{}{-4}{wa 1}{384}{uw 0 369}
+{247}{E:}{}{1}{}{0}{}
+{248}{Bem? Desembucha! O que você quer saber?}{Bem? Desembucha! O que você quer saber?}{}{}{}{}
+{250}{Eu gostaria de saber algumas coisas sobre você, Tollo...}{}{5}{}{}{ce}
+{251}{Quero saber umas coisas sobre você, Tollo!}{}{-4}{}{}{ce}
+{252}{O que você sabe sobre este lugar?}{}{5}{ia 1}{404}{}
+{253}{O que você sabe sobre este lugar?}{}{5}{ia 21}{408}{}
+{254}{O que você sabe sobre este lugar?}{}{5}{ia 3}{496}{}
+{255}{O que você sabe sobre este lugar?}{}{5}{ia 4}{500}{}
+{256}{O que você sabe sobre este lugar?}{}{5}{ia 5}{504}{}
+{257}{O que você sabe sobre este lugar?}{}{5}{ia 8}{508}{}
+{258}{O que você sabe sobre este lugar?}{}{5}{ia 10}{512}{}
+{259}{O que você sabe sobre este lugar?}{}{5}{ia 11}{516}{}
+{260}{O que você sabe sobre este lugar?}{}{5}{ia 13}{520}{}
+{261}{O que você sabe sobre este lugar?}{}{5}{ia 16}{524}{}
+{262}{O que você sabe sobre este lugar?}{}{5}{ia 19}{528}{}
+{263}{O que você sabe sobre este lugar?}{}{5}{ia 22}{532}{}
+{264}{O que você sabe sobre este lugar?}{}{5}{ia 23}{536}{}
+{265}{O que você sabe sobre este lugar?}{}{-4}{ia 1}{404}{}
+{266}{O que você sabe sobre este lugar?}{}{-4}{ia 21}{408}{}
+{267}{O que você sabe sobre este lugar?}{}{-4}{ia 3}{496}{}
+{268}{O que você sabe sobre este lugar?}{}{-4}{ia 4}{500}{}
+{269}{O que você sabe sobre este lugar?}{}{-4}{ia 5}{504}{}
+{270}{O que você sabe sobre este lugar?}{}{-4}{ia 8}{508}{}
+{271}{O que você sabe sobre este lugar?}{}{-4}{ia 10}{512}{}
+{272}{O que você sabe sobre este lugar?}{}{-4}{ia 11}{516}{}
+{273}{O que você sabe sobre este lugar?}{}{-4}{ia 13}{520}{}
+{274}{O que você sabe sobre este lugar?}{}{-4}{ia 16}{524}{}
+{275}{O que você sabe sobre este lugar?}{}{-4}{ia 19}{528}{}
+{276}{O que você sabe sobre este lugar?}{}{-4}{ia 22}{532}{}
+{277}{O que você sabe sobre este lugar?}{}{-4}{ia 23}{536}{}
+{278}{[Voltar.]}{}{1}{}{240}{}
+{279}{E:}{}{1}{}{0}{}
+{361}{Pelo amor de Deus! O que você quer que eu faça agora?}{Pelo amor de Deus! O que você quer que eu faça agora?}{}{}{}{}
+{362}{Afaste-se...}{}{1}{}{0}{so}
+{363}{Chegue mais perto...}{}{1}{}{0}{sc}
+{364}{Espere aqui...}{}{1}{wa 0}{372}{wa}
+{365}{Pare de esperar...}{}{1}{wa 1}{384}{uw 0 369}
+{366}{Saia do grupo...}{}{1}{}{375}{lv}
+{367}{[Voltar]}{}{1}{}{240}{}
+{369}{Você me fez esperar tempo demais, caramba! Ainda bem que ainda estou aqui, garoto...}{Você me fez esperar tempo demais, caramba! Ainda bem que ainda estou aqui, garota...}{}{}{}{}
+{370}{E:}{}{1}{}{0}{}
+{372}{O quê? Esperar você voltar arrastando o traseiro pra cá? É melhor se apressar, garoto... Tollo Underhill não espera muito tempo por ninguém...}{O quê? Esperar você voltar arrastando o traseiro pra cá? É melhor se apressar, garota... Tollo Underhill não espera muito tempo por ninguém...}{}{}{}{}
+{373}{E:}{}{1}{}{0}{}
+{375}{O quê? Está se livrando de MIM? Tudo bem. É melhor torcer pra eu nunca ter um motivo pra ir atrás de você, garoto...}{O quê? Você está se livrando de MIM? Tudo bem. É melhor torcer para que eu nunca encontre um motivo para vir atrás de você, garota...}{}{}{}{lf31 1}
+{376}{E:}{}{1}{}{0}{}
+{378}{Hein? Você tem coragem de vir falar com Tollo depois de me deixar na mão? O que você quer agora?}{Hein? Você tem coragem de vir falar com Tollo depois de me deixar na mão? O que você quer agora?}{}{}{}{}
+{379}{Você gostaria de se juntar a mim novamente, Tollo?}{}{5}{}{384}{jo 0 387}
+{380}{Hã... você gostaria de se juntar a mim novamente, Tollo?}{}{-4}{}{}{}
+{381}{E:}{}{1}{}{0}{}
+{384}{Você quer mais alguma coisa de mim, garoto?}{Você quer mais alguma coisa de mim, garota?}{}{}{}{}
+{385}{E:}{}{1}{}{0}{}
+{387}{Hmmm. Tá bom, acho que vou com você. Eu diria que você tem sorte de estar vivo sem mim por perto para te tirar de encrenca...}{Hmmm. Tá bom, acho que vou com você. Eu diria que você tem sorte de estar vivo sem mim por perto para te tirar de encrenca...}{}{}{}{lf31 0}
+{388}{E:}{}{1}{}{0}{}
+{390}{Você tem muita cara de pau, garoto... aparecendo aqui depois de me deixar esperando todo esse tempo. Você tem sorte de eu não te enfiar uma faca aqui e agora...}{Você tem muita cara de pau, garota... aparecendo aqui depois de me deixar esperando todo esse tempo. Você tem sorte de eu não te enfiar uma faca aqui e agora...}{}{}{}{}
+{391}{Eu estava esperando que você se juntasse a mim novamente, Tollo...}{}{5}{}{384}{jo 0 396}
+{392}{Hã... você gostaria de se juntar a mim novamente, Tollo?}{}{-4}{}{384}{jo 0 396}
+{393}{E:}{}{1}{}{0}{}
+{396}{Tá bom, acho que sim. Eu poderia usar um pouco de emoção agora... e salvar sua pele geralmente já é o suficiente. Vamos sair daqui...}{Tá bom, acho que sim. Eu poderia usar um pouco de emoção agora... e salvar sua pele geralmente já é o suficiente. Vamos sair daqui...}{}{}{}{}
+{397}{E:}{}{1}{}{0}{}
+{404}{Essa cidade maldita? Acho que chamam de Colinas Sombrias. Não tem muita coisa para ver aqui... mas ouvi dizer que tem um banco bacana aqui de onde eu talvez precise fazer um saque...}{Essa cidade maldita? Acho que chamam de Colinas Sombrias. Não tem muita coisa para ver aqui... mas ouvi dizer que tem um banco bacana aqui de onde eu talvez precise fazer um saque...}{}{}{}{}
+{405}{K:}{}{1}{}{240}{}
+{406}{E:}{}{1}{}{0}{}
+{408}{O quê? Você é completamente burro? Esta é Tarant! A maior cidade maldita de todo o Arcanum! Tem uma grande seção do Submundo dos Ladrões aqui também, se a memória não me falha...}{O quê? Você é completamente burro? Esta é Tarant! A maior cidade maldita de todo o Arcanum! Tem uma grande seção do Submundo dos Ladrões aqui também, se a memória não me falha...}{}{}{}{}
+{409}{K:}{}{1}{}{240}{}
+{410}{E:}{}{1}{}{0}{}
+{496}{Onde diabos você acha que estamos, seu idiota? Esta é Black Root! É um lugar tão bom quanto qualquer outro para conseguir um barco, se é isso que você está procurando. Eu passo a maior parte do tempo na Taverna Sour Barnacle quando venho à cidade. Dizem que Franklin Payne, o maldito aventureiro famoso, mora aqui também...}{Onde diabos você acha que estamos, seu idiota? Esta é Black Root! É um lugar tão bom quanto qualquer outro para conseguir um barco, se é isso que você está procurando. Eu passo a maior parte do tempo na Taverna Sour Barnacle quando venho à cidade. Dizem que Franklin Payne, o maldito aventureiro famoso, mora aqui também...}{}{}{}{}
+{497}{K:}{}{1}{}{240}{}
+{498}{E:}{}{1}{}{0}{}
+{500}{Bom, posso dizer honestamente que você é o indivíduo mais inútil que já conheci. O que um ladrão sabe sobre Caladon? É como perguntar o que um peixe sabe sobre água! Tem muito dinheiro antigo aqui em Caladon, além do Palácio Real... um paraíso para ladrões, se você souber o que está fazendo. E obviamente você não sabe...}{Bom, posso dizer honestamente que você é o indivíduo mais inútil que já conheci. O que um ladrão sabe sobre Caladon? É como perguntar o que um peixe sabe sobre água! Tem muito dinheiro antigo aqui em Caladon, além do Palácio Real... um paraíso para ladrões, se você souber o que está fazendo. E obviamente você não sabe...}{}{}{}{}
+{501}{K:}{}{1}{}{240}{}
+{502}{E:}{}{1}{}{0}{}
+{504}{O quê? O que eu sei sobre este lugar? Estive preso aqui nos últimos 10 anos! Dernholm não tem muito, mas tem as Fossas e tem o Rei Praetor. Esses dois já são suficientes para mim... vamos dar o fora daqui...}{O quê? O que eu sei sobre este lugar? Estive preso aqui nos últimos 10 anos! Dernholm não tem muito, mas tem as Fossas e tem o Rei Praetor. Esses dois já são suficientes para mim... vamos dar o fora daqui...}{}{}{}{}
+{505}{K:}{}{1}{}{240}{}
+{506}{E:}{}{1}{}{0}{}
+{508}{Maldita Ashbury. O que diabos há para saber? É um porto bacana, mas não tem nada para um sujeito como eu. Prefiro resolver logo nosso assunto e seguir viagem, se você não se importa...}{Maldita Ashbury. O que diabos há para saber? É um porto bacana, mas não tem nada para um sujeito como eu. Prefiro resolver logo nosso assunto e seguir viagem, se você não se importa...}{}{}{}{}
+{509}{K:}{}{1}{}{240}{}
+{510}{E:}{}{1}{}{0}{}
+{512}{Hmmm. Parece Stillwater. Ei! Tem um culto de Geshtianna por aqui, não tem? [Tollo exibe um sorriso maligno.] Passei muito tempo lá embaixo nessas fossas...}{Hmmm. Parece Stillwater. Ei! Tem um culto de Geshtianna por aqui, não tem? [Tollo exibe um sorriso maligno.] Passei muito tempo lá embaixo nessas fossas...}{}{}{}{}
+{513}{K:}{}{1}{}{240}{}
+{514}{E:}{}{1}{}{0}{}
+{516}{[Tollo baixa a voz.] Isto parece Tulla, a Cidade dos Magos. Esses malditos magos sempre me deixam nervoso. E como este é o lugar mais secreto de todo o Arcanum, não sei de nada, então pare de perguntar...}{[Tollo abaixa a voz.] Isso parece Tulla, a Cidade dos Magos. Esses malditos magos sempre me deixam nervoso. E como este é o lugar mais secreto de todo o Arcanum, não sei porcaria nenhuma, então pare de perguntar...}{}{}{}{}
+{517}{K:}{}{1}{}{240}{}
+{518}{E:}{}{1}{}{0}{}
+{520}{Roseborough? Tudo o que sei é que fica perto do Anel de Brodgar. Isso, e se eu tiver que ficar aqui mais um minuto, vou começar a espetar os locais só por diversão. E não pense que não vou fazer o mesmo com você logo depois... estamos entendidos?}{Roseborough? Tudo o que sei é que fica perto do Anel de Brodgar. Isso, e se eu tiver que ficar aqui mais um minuto, vou começar a espetar os locais só por diversão. E não pense que não vou fazer o mesmo com você logo depois... estamos entendidos?}{}{}{}{}
+{521}{K:}{}{1}{}{240}{}
+{522}{E:}{}{1}{}{0}{}
+{524}{[Tollo sorri.] Esta é T'sen-Ang, lar dos Elfos Negros. Agora ESTES são o meu tipo de gente...}{[Tollo sorri.] Esta é T'sen-Ang, lar dos Elfos Negros. Agora ESTES são o meu tipo de gente...}{}{}{}{}
+{525}{K:}{}{1}{}{240}{}
+{526}{E:}{}{1}{}{0}{}
+{528}{[Tollo parece preocupado.] Ótimo, a Ilha do Desespero. Acabo de sair de uma prisão, e agora você me traz para outra! Às vezes não sei por que concordei com toda essa confusão...}{[Tollo parece preocupado.] Ótimo, a Ilha do Desespero. Acabo de sair de uma prisão, e agora você me traz para outra! Às vezes não sei por que concordei com toda essa confusão...}{}{}{}{}
+{529}{K:}{}{1}{}{240}{}
+{530}{E:}{}{1}{}{0}{}
+{532}{[Tollo parece absolutamente aterrorizado.] I-isso? É-é as malditas ruínas de Vendigroth, seu idiota, o lugar mais maligno em que já estive em todos os meus dias! Agora vamos pegar o que viemos buscar e cair fora daqui!}{[Tollo parece absolutamente aterrorizado.] I-isso? É-é as malditas ruínas de Vendigroth, seu idiota, o lugar mais maligno em que já estive em todos os meus dias! Agora vamos pegar o que viemos buscar e cair fora daqui!}{}{}{}{}
+{533}{K:}{}{1}{}{240}{}
+{534}{E:}{}{1}{}{0}{}
+{536}{Isso parece a Ilha dos Monstros, garoto... a Ilha de Thanatos. Recomendo que andemos com cuidado por aqui...}{Isso parece a Ilha dos Monstros, garota... a Ilha de Thanatos. Recomendo que andemos com cuidado por aqui...}{}{}{}{}
+{537}{K:}{}{1}{}{240}{}
+{538}{E:}{}{1}{}{0}{}
+

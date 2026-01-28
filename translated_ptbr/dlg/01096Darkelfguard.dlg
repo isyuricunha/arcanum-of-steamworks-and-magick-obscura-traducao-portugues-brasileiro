@@ -1,0 +1,49 @@
+{1}{G: 1 43, 2 43, 3 43, 5 43, 6 43, 7 54}{G: 1 43, 2 43, 3 43, 5 43, 6 43, 7 54}{}{}{}{}
+{2}{O que é este lugar?}{}{5}{qb1020 3}{10}{}
+{3}{Estou aqui para ver M'in Gorad.}{}{5}{qu1020 4}{19}{}
+{4}{O que é esse lugar?}{}{-4}{qb1020 3}{10}{}
+{5}{Estou aqui para ver Minnie Grad.}{}{-4}{qu1020 4}{19}{}
+{9}{E:}{}{1}{}{0}{}
+{10}{Você não deveria estar aqui. Sugiro que vá embora imediatamente.}{Você não deveria estar aqui. Sugiro que vá embora imediatamente.}{}{}{}{}
+{11}{Sugiro que você morra.}{}{5}{}{0}{fl 34 ,co}
+{12}{Eu te mato!}{}{-4}{}{0}{fl 34 ,co}
+{16}{Acho que é melhor eu ir embora, então.}{}{5}{}{0}{}
+{17}{Vou embora agora.}{}{-4}{}{0}{}
+{19}{Você está ciente do procedimento. Onde está seu amuleto, Molocheano?}{Você está ciente do procedimento. Onde está seu amuleto, Molocheano?}{}{}{}{gf1085 1}
+{20}{Aqui está. [Mostre-lhe o Amuleto da Mão Molocheana.]}{}{5}{in2807}{25}{}
+{21}{Não o tenho comigo.}{}{5}{}{29}{re -5}
+{22}{Aqui está. [Mostre-lhe o Amuleto da Mão Molocheana.]}{}{-4}{in2807}{25}{}
+{23}{Não o tenho. Aqui.}{}{-4}{}{29}{re -5}
+{25}{Você pode entrar.}{Você pode entrar.}{}{}{}{lf2 1, gf2541 1}
+{26}{A:}{}{5}{}{0}{}
+{27}{Obrigadu berry muito.}{}{-4}{}{0}{}
+{29}{[Ele estreita os olhos e lhe examina.] Nunca mais volte aqui sem seu amuleto. Da próxima vez, presumiremos que você é um impostor e o mataremos, cão.}{[Ele estreita os olhos e lhe examina.] Nunca mais volte aqui sem seu amuleto. Da próxima vez, presumiremos que você é um impostor e o mataremos, cão.}{}{}{}{lf3 1}
+{30}{Vou presumir que você está morto.}{}{5}{}{0}{fl 34 ,co}
+{31}{Eu te mato!}{}{-4}{}{0}{fl 34 ,co}
+{32}{Obrigado pelo aviso.}{}{5}{}{0}{}
+{33}{Tá bom. Tchauzinho.}{}{-4}{}{0}{}
+{34}{I:}{I:}{}{}{}{}
+{35}{Você pode entrar.}{Você pode entrar.}{}{}{}{}
+{36}{Você trouxe seu amuleto desta vez, não trouxe?}{Você trouxe seu amuleto desta vez, não trouxe?}{}{}{}{}
+{37}{Aqui está. [Mostre-lhe o Amuleto da Mão Molocheana.]}{}{5}{in2807}{25}{}
+{38}{Devo tê-lo perdido.}{}{5}{}{0}{fl 42 ,co}
+{39}{Aqui ambulot. [Mostre-lhe o Amuleto da Mão Molocheana.]}{}{-4}{in2807}{25}{}
+{40}{Não o tenho. Aqui.}{}{-4}{}{0}{fl 42 ,co}
+{42}{Eu te avisei para não voltar sem isso, impostor! Agora você vai morrer!}{Eu te avisei para não voltar sem isso, impostor! Agora você vai morrer!}{}{}{}{}
+{43}{Não apreciamos sua exibição descarada de proeza mágica, plebeu.}{Não apreciamos sua exibição descarada de proeza mágica, plebeu.}{}{}{}{}
+{44}{O que é este lugar?}{}{5}{qb1020 3}{10}{}
+{45}{Estou aqui para ver M'in Gorad.}{}{5}{qu1020 4}{19}{}
+{46}{O que é esse lugar?}{}{-4}{qb1020 3}{10}{}
+{47}{Estou aqui para ver M'inie Grad.}{}{-4}{qu1020 4}{19}{}
+{51}{Não gosto do fato de você estar respirando. Vou te ajudar a parar.}{}{5}{}{0}{fl 34 ,co}
+{52}{Eu te mato!}{}{-4}{}{0}{fl 34 ,co}
+{53}{E:}{}{1}{}{0}{}
+{54}{Olha aqui, idiota. Vista alguma roupa.}{Olha aqui, idiota. Vista alguma roupa.}{}{}{}{}
+{55}{O que é este lugar?}{}{5}{qb1020 3}{10}{}
+{56}{Estou aqui para ver M'in Gorad.}{}{5}{qu1020 4}{19}{}
+{57}{O que é esse lugar?}{}{-4}{qb1020 3}{10}{}
+{58}{Estou aqui para ver M'inie Grad.}{}{-4}{qu1020 4}{19}{}
+{62}{Não gosto do fato de você estar respirando. Vou te ajudar a parar.}{}{5}{}{0}{fl 34 ,co}
+{63}{Eu te mato!}{}{-4}{}{0}{fl 34 ,co}
+{64}{E:}{}{1}{}{0}{}
+

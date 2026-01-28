@@ -1,0 +1,65 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{B:}{}{1}{}{33}{}
+{3}{T:9, 11}{}{1}{}{33}{}
+{4}{Que tipo de mercadorias você tem aqui?}{}{5}{lf1 0}{40}{}
+{5}{Hã... O que você tem aí?}{}{-4}{lf1 0}{40}{}
+{6}{C:}{}{1}{}{40}{}
+{7}{Você gostaria de me treinar para me tornar um Especialista em persuasão?}{}{5}{tr11 -1}{33}{et11 54}
+{8}{Mi qué ser Exper' em persuasão.}{}{-4}{tr11 -1}{33}{et11 54}
+{9}{E:}{}{1}{}{0}{}
+{10}{Ah... Você parece ser um homem de grande poder mágico. É uma honra conhecê-lo. Como posso ajudá-lo neste dia, bom senhor?}{Ah... Você parece ser uma mulher de grande poder mágico. É uma honra conhecê-la. Como posso ajudá-la neste dia, madame?}{}{}{}{}
+{11}{T:9, 11}{}{1}{}{33}{}
+{12}{Que tipo de mercadorias você tem aqui?}{}{5}{lf1 0}{40}{}
+{13}{Hã... O que você tem aí?}{}{-4}{lf1 0}{40}{}
+{14}{B:}{}{1}{}{33}{}
+{15}{Você gostaria de me treinar para me tornar um Especialista em persuasão?}{}{5}{tr11 -1}{33}{et11 54}
+{16}{Mi qué ser Exper' em persuasão.}{}{-4}{tr11 -1}{33}{et11 54}
+{17}{E:}{}{1}{}{0}{}
+{18}{É um prazer encontrá-lo novamente, @pcname@. Por favor, como posso servi-lo da melhor forma nesta visita?}{É um prazer encontrá-la novamente, @pcname@. Por favor, como posso servi-la da melhor forma nesta visita?}{}{}{}{}
+{19}{T:9, 11}{}{1}{}{33}{}
+{20}{B:}{}{1}{}{33}{}
+{21}{C:}{}{1}{}{33}{}
+{22}{Você gostaria de me treinar para me tornar um Especialista em persuasão?}{}{5}{tr11 -1}{33}{et11 54}
+{23}{Mi qué ser Exper' em persuasão.}{}{-4}{tr11 -1}{33}{et11 54}
+{24}{E:}{}{1}{}{0}{}
+{25}{Ah... Você parece ser um homem muito instruído. É uma honra conhecer um tecnólogo tão estimado. Como posso ajudá-lo neste dia, bom senhor?}{Ah... Você parece ser uma mulher muito instruída. É uma honra conhecer uma tecnóloga tão estimada. Como posso ajudá-la neste dia, madame?}{}{}{}{}
+{26}{T:9, 11}{}{1}{}{33}{}
+{27}{Que tipo de mercadorias você tem aqui?}{}{5}{lf1 0}{40}{}
+{28}{Hã... O que você tem aí?}{}{-4}{lf1 0}{40}{}
+{29}{B:}{}{1}{}{33}{}
+{30}{Você gostaria de me treinar para me tornar um Especialista em persuasão?}{}{5}{tr11 -1}{33}{et11 54}
+{31}{Mi qué ser Exper' em persuasão.}{}{-4}{tr11 -1}{33}{et11 54}
+{32}{E:}{}{1}{}{0}{}
+{33}{Há algo mais em que eu possa ajudá-lo, senhor?}{Há algo mais em que eu possa ajudá-la, madame?}{}{}{}{}
+{34}{T:9, 11}{}{1}{}{33}{}
+{35}{C:}{}{1}{}{33}{}
+{36}{B:}{}{1}{}{33}{}
+{37}{Você gostaria de me treinar para me tornar um Especialista em persuasão?}{}{5}{tr11 -1}{33}{et11 54}
+{38}{Mi qué ser Exper' em persuasão.}{}{-4}{tr11 -1}{33}{et11 54}
+{39}{E:}{}{1}{}{0}{}
+{40}{Eu tenho as melhores roupas e adornos que você encontrará em qualquer lugar! Nossos ternos e jaquetas são todos meticulosamente costurados e ajustados para acompanhar as últimas tendências da moda. Nossas joias são finamente trabalhadas pelos artesãos mais habilidosos. Estamos aqui para atender a todas as suas necessidades, senhor.}{Eu tenho as melhores roupas e adornos que você encontrará em qualquer lugar! Nossos vestidos são todos meticulosamente costurados e adornados com as últimas modas. Nossas joias e perfumes são finamente trabalhados pelos artesãos mais habilidosos. Existimos para atender a todas as suas necessidades, madame.}{}{}{}{}
+{41}{T:9, 11}{}{1}{}{33}{}
+{42}{C:}{}{1}{}{33}{}
+{43}{B:}{}{1}{}{33}{}
+{44}{Você gostaria de me treinar para me tornar um Especialista em persuasão?}{}{5}{tr11 -1}{33}{et11 54}
+{45}{Mi qué ser Exper' em persuasão.}{}{-4}{tr11 -1}{33}{et11 54}
+{46}{E:}{}{1}{}{0}{}
+{47}{O que deseja, "senhor"?}{O que deseja, "senhora"?}{}{}{}{}
+{48}{T:9, 11}{}{1}{}{33}{}
+{49}{B:}{}{1}{}{33}{}
+{50}{C:}{}{1}{}{33}{}
+{51}{Você gostaria de me treinar para me tornar um Especialista em persuasão?}{}{5}{tr11 -1}{33}{et11 54}
+{52}{Mi qué ser Exper' em persuasão.}{}{-4}{tr11 -1}{33}{et11 54}
+{53}{E:}{}{1}{}{0}{}
+{54}{Com certeza, senhor. Sou muito habilidoso na arte da persuasão. Por uma pequena taxa de 500 moedas, ficarei feliz em treiná-lo.}{Com certeza, madame. Sou muito habilidosa na arte da persuasão. Por uma pequena taxa de 500 moedas, ficarei feliz em treiná-la.}{}{}{}{lf1 1}
+{55}{Muito bem. Aqui estão as 500 moedas.}{}{5}{$$500}{60}{}
+{56}{Vou precisar juntar mais moedas primeiro.}{}{5}{$$-499}{33}{}
+{57}{Hã... tá bom. Aqui moeda.}{}{-4}{$$500}{60}{}
+{58}{Hã... Mi arruma mais moeda.}{}{-4}{$$-499}{33}{}
+{59}{E:}{}{1}{}{0}{}
+{60}{Obrigado, senhor. [Ele passa um tempo explicando e demonstrando os pontos mais refinados da persuasão para você.] A partir deste momento, você é um Especialista na arte da persuasão. Eu o parabenizo. Caso deseje alcançar o Mestrado, procure o Sr. Willoughsby. Ele tem uma casa em Tarant, mas costuma estar em Caladon a negócios. Tenha um bom dia, senhor.}{Obrigado, senhora. [Ele passa um tempo explicando e demonstrando os pontos mais refinados da persuasão para você.] A partir deste momento, você é uma Especialista na arte da persuasão. Eu a parabenizo. Caso deseje alcançar o Mestrado, procure o Sr. Willoughsby. Ele tem uma casa em Tarant, mas costuma estar em Caladon a negócios. Tenha um bom dia, senhora.}{}{}{}{$$-500, tr11 2, ru2157}
+{61}{Obrigado. Adeus.}{}{5}{}{0}{}
+{62}{Hã... V-valeu.}{}{-4}{}{0}{}
+{63}{E:}{}{1}{}{0}{}
+{64}{Por favor, senhor! Quero ficar na companhia da minha bebida! Tenha uma boa noite!}{Por favor, senhora! Prefiro muito mais a companhia dos meus copos esta noite. Não preciso dos seus encantos femininos neste momento!}{}{}{}{}
+

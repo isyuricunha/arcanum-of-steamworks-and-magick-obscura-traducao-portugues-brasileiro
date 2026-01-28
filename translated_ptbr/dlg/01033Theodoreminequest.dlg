@@ -1,0 +1,112 @@
+{1}{G:}{G:}{}{}{}{ }
+{2}{Há alguma aventura por estas bandas?}{}{5}{qu1008 0, re 41}{10}{ }
+{3}{Decidi vasculhar a casa do cientista para você.}{}{5}{qu1008 1}{50}{qu1008 2 }
+{4}{Ainda não recuperei sua armadura.}{}{5}{ni 2803, qu1008 2}{90}{ }
+{5}{Tenho sua armadura.}{}{5}{qu1008 2, in 2803}{100}{ }
+{6}{Por favor, peço-lhe perdão, senhor.}{}{5}{re-40, ch-9}{215}{re45 }
+{7}{Com licença?}{}{5}{re-40, ch10}{226}{re50 }
+{8}{Se me dirigir palavras duras novamente, serão suas últimas!}{}{5}{re-40, ch-9, sk2 8}{240}{re45 }
+{9}{E:}{}{1}{}{0}{ }
+{10}{É engraçado você perguntar. Tenho um pequeno problema...}{É engraçado você perguntar. Tenho um pequeno problema...}{}{}{}{ }
+{11}{Permita-me arriscar um palpite. Você precisa da minha ajuda.}{}{5}{}{80}{re -5 }
+{12}{Isso é óbvio só de olhar para você.}{}{5}{sk2 -7}{80}{re-15 }
+{13}{Estou ouvindo.}{}{5}{}{20}{ }
+{14}{Isso é óbvio só de olhar para você.}{}{5}{sk2 8}{250}{ }
+{19}{E:}{}{1}{}{0}{ }
+{20}{Há um cientista bastante excêntrico que mora aqui na cidade. Não se vê nem sombra dele há uma quinzena.}{Há um cientista bastante excêntrico que mora aqui na cidade. Não se vê nem sombra dele há uma quinzena.}{}{}{}{ }
+{21}{O que isso tem a ver com você?}{}{5}{}{30}{ }
+{30}{Eu havia contratado esse sujeito para usar sua "tecnologia" e aprimorar uma antiga armadura de placas que eu tinha.}{Eu havia contratado esse sujeito para usar sua "tecnologia" e aprimorar uma antiga armadura de placas que eu tinha.}{}{}{}{ }
+{31}{Por que você precisa da minha ajuda?}{}{5}{}{200}{ }
+{40}{É muito difícil para mim, mas um sujeito de sua engenhosidade poderia entrar na casa dele e pegar minha armadura para mim.}{É muito difícil para mim, mas uma mulher de sua engenhosidade poderia entrar na casa dele e pegar minha armadura para mim.}{}{}{}{qu1008 1 }
+{41}{O que eu ganho com isso?}{}{5}{}{50}{ }
+{42}{Esqueça. Parece uma armadilha.}{}{5}{}{60}{ }
+{50}{Dou-lhe 200 moedas por recuperar minha armadura de placas.}{Dou-lhe 200 moedas por recuperar minha armadura de placas.}{}{}{}{ }
+{51}{Vai contra meu melhor julgamento, mas eu aceito.}{}{5}{}{70}{qu1008 2 }
+{52}{Desculpe, não é o suficiente para arriscar minha vida.}{}{5}{lf0 0}{60}{ }
+{53}{Não é o suficiente para arriscar minha vida. Tenha um bom dia.}{}{5}{lf0 1}{0}{ }
+{60}{Que pena. Poderia ter sido lucrativo para nós dois.}{Que pena. Poderia ter sido lucrativo para nós dois.}{}{}{}{ }
+{61}{Hmm. Tudo bem, eu aceito.}{}{5}{}{70}{lf0 1 }
+{62}{E:}{}{5}{}{0}{ }
+{70}{Bom trabalho! Vou esperar aqui fora até você voltar.}{Bom trabalho! Vou esperar aqui fora até você voltar.}{}{}{}{ }
+{71}{E:}{}{5}{}{0}{ }
+{80}{Não há necessidade dessa atitude sarcástica nem dos comentários que a acompanham, senhor.}{Não há necessidade dessa atitude sarcástica nem dos comentários que a acompanham, senhora.}{}{}{}{ }
+{81}{Minhas desculpas, qual é o seu problema?}{}{5}{}{20}{ }
+{82}{E quanto à sua agressão acompanhante?}{}{5}{}{0}{fl 210 ,co}
+{83}{E:}{}{5}{}{0}{ }
+{90}{Mantenha-me informado sobre seu progresso.}{Mantenha-me informado sobre seu progresso.}{}{}{}{ }
+{91}{E:}{}{5}{}{0}{ }
+{100}{Excelente! Entregue para mim.}{Excelente! Entregue para mim.}{}{}{}{ }
+{101}{Aqui está.}{}{5}{}{110}{in 2803, qu1008 4 }
+{102}{Atravessar ali valeu mais do que 200 moedas.}{}{5}{ha4}{120}{ }
+{103}{Decidi ficar com ele.}{}{5}{}{160}{re-15 }
+{110}{Aqui estão suas 200 moedas. Tenha um bom dia, senhor.}{Aqui estão suas 200 moedas. Tenha um bom dia, senhora.}{}{}{}{$$200 }
+{111}{A:}{}{5}{}{0}{ }
+{120}{Claro que é! Vou lhe dar 300 pelas suas dificuldades. Por favor, entregue-me a armadura agora.}{Claro que é! Vou lhe dar 300 pelas suas dificuldades. Por favor, entregue-me a armadura agora.}{}{}{}{ }
+{121}{Aqui está.}{}{5}{}{140}{in 2803, qu1008 4 }
+{122}{Decidi ficar com ele.}{}{5}{}{170}{ }
+{123}{Acho que consigo 400 em um arsenal.}{}{5}{ha8}{130}{ }
+{130}{Então são 400. Mas essa é minha oferta final.}{Então são 400. Mas essa é minha oferta final.}{}{}{}{ }
+{131}{Temos um acordo.}{}{5}{}{150}{in 2803, qu1008 4 }
+{132}{Afinal, decidi ficar com ele.}{}{5}{}{0}{fl 210 ,co}
+{140}{Aqui estão suas 300 moedas. Tenha um bom dia, senhor.}{Aqui estão suas 300 moedas. Tenha um bom dia, senhora.}{}{}{}{$$300 }
+{141}{A:}{}{5}{}{0}{ }
+{150}{Aqui estão suas moedas. Tenha um bom dia, senhor.}{Aqui estão suas moedas. Tenha um bom dia, senhora.}{}{}{}{$$400 }
+{151}{A:}{}{5}{}{0}{ }
+{160}{Por favor, entregue-o para mim. Vou lhe dar 250 moedas.}{Por favor, entregue-o para mim. Vou lhe dar 250 moedas.}{}{}{}{ }
+{161}{Temos um acordo.}{}{5}{}{180}{in 2803, qu1008 4 }
+{162}{N:}{}{5}{}{0}{fl 210 ,co}
+{170}{Por favor, entregue-o para mim. Vou lhe dar 350 moedas.}{Por favor, entregue isso para mim. Eu lhe darei 350 moedas.}{}{}{}{ }
+{171}{Temos um acordo.}{}{5}{}{190}{in 2803, qu1008 4 }
+{172}{N:}{}{5}{}{0}{fl 210 ,co}
+{180}{Aqui estão suas moedas. Tenha um bom dia, senhor.}{Aqui estão suas moedas. Tenha um bom dia, senhora.}{}{}{}{$$250 }
+{181}{A:}{}{5}{}{0}{ }
+{190}{Aqui estão suas moedas. Tenha um bom dia, senhor.}{Aqui estão suas moedas. Tenha um bom dia, senhora.}{}{}{}{$$350 }
+{191}{A:}{}{5}{}{0}{ }
+{200}{Fui à casa dele há dois dias, procurando por ele. A porta estava destrancada, então entrei. Fui imediatamente atacado por todo tipo de engenhoca e fui forçado a fugir.}{Fui à casa dele há dois dias, procurando por ele. A porta estava destrancada, então entrei. Fui imediatamente atacado por todo tipo de engenhoca e fui forçado a fugir.}{}{}{}{ }
+{201}{Você espera que eu entre lá por você?}{}{5}{}{40}{ }
+{202}{Não preciso brigar com as invenções de algum cientista maluco.}{}{5}{}{60}{ }
+{210}{Bárbaro inculto! Vou arrancar seu couro por isso!}{Vagabunda inculta! Vou arrancar seu couro por isso!}{}{}{}{ }
+{215}{O que um tipo desprezível como você quer comigo?}{O que uma mulher desprezível como você quer comigo?}{}{}{}{ }
+{216}{Se eu pudesse falar com o senhor por um momento.}{}{5}{}{220}{re+5 }
+{217}{Quero lhe causar uma dor incrível.}{}{5}{}{0}{fl 210 ,co}
+{220}{Visto que sabe tratar seus superiores com respeito, seria o mínimo que eu poderia fazer para ajudá-lo. Sobre o que deseja falar comigo?}{Visto que sabe tratar seus superiores com respeito, seria o mínimo que eu poderia fazer para ajudá-la. Sobre o que deseja falar comigo?}{}{}{}{ }
+{221}{Há alguma aventura por estas bandas?}{}{5}{qu1008 0, re 41}{10}{ }
+{222}{Decidi revistar a casa do cientista por você.}{}{5}{qu1008 1}{50}{qu1008 2 }
+{223}{Ainda não recuperei sua armadura.}{}{5}{ni 2803, qu1008 2}{90}{ }
+{224}{Tenho sua armadura.}{}{5}{qu1008 2, in 2803}{100}{ }
+{225}{Perdoe-me, mas preciso ir.}{}{5}{}{0}{ }
+{226}{Por favor, desculpe minha rudeza, senhor. Falei fora de hora. Não sei o que estava pensando. Em que posso ajudá-lo?}{Por favor, desculpe minha rudeza, senhora. Falei fora de hora. Não sei o que estava pensando. Em que posso ajudá-la?}{}{}{}{ }
+{227}{Há alguma aventura por estas bandas?}{}{5}{qu1008 0, re 41}{10}{ }
+{228}{Decidi revistar a casa do cientista por você.}{}{5}{qu1008 1}{50}{qu1008 2 }
+{229}{Ainda não recuperei sua armadura.}{}{5}{ni 2803, qu1008 2}{90}{ }
+{230}{Tenho sua armadura.}{}{5}{qu1008 2, in 2803}{100}{ }
+{231}{Perdoe-me, mas preciso ir.}{}{5}{}{0}{ }
+{240}{Por favor, não me machuque, senhor. Não sei no que eu estava pensando. Há algo que eu possa fazer por você?}{Por favor, não me machuque, senhora. Não sei no que eu estava pensando. Há algo que eu possa fazer por você?}{}{}{}{ }
+{241}{Há alguma aventura por estas bandas?}{}{5}{qu1008 0, re 41}{10}{ }
+{242}{Decidi vasculhar a casa do cientista para você.}{}{5}{qu1008 1}{50}{qu1008 2 }
+{243}{Ainda não recuperei sua armadura.}{}{5}{ni 2803, qu1008 2}{90}{ }
+{244}{Tenho sua armadura aqui.}{}{5}{qu1008 2, in 2803}{100}{ }
+{245}{Estou indo embora.}{}{5}{}{0}{ }
+{249}{}{}{}{}{}{ }
+{250}{Heh, heh. Essa foi boa, senhor.}{Heh, heh. Essa foi boa, senhora.}{}{}{}{ }
+{251}{Qual é o seu problema?}{}{5}{}{20}{ }
+{260}{Ei! Essa armadura que você está usando é minha!}{Ei! Essa armadura que você está usando é minha!}{}{}{}{ }
+{261}{E daí?}{}{5}{sk2 8}{270}{ }
+{262}{E daí?}{}{5}{sk2 -7}{290}{ }
+{263}{É verdade. Aqui está. [Entregue a ele.]}{}{5}{}{110}{in 2803, qu1008 4 }
+{264}{Vou te dar por 400 moedas.}{}{5}{ha4}{}{ }
+{270}{[Ele se encolhe.] Hã... nada? É só que eu, hã... gostaria de tê-la de volta?}{[Ele se encolhe.] Hã... nada? É só que eu, hã... gostaria de tê-la de volta?}{}{}{}{ }
+{271}{Claro. Vai custar 400 moedas.}{}{5}{}{280}{ }
+{272}{Claro. Aqui está. [Entregue a ele.]}{}{5}{}{110}{in 2803, qu1008 4 }
+{280}{Mas isso é o dobro do que eu disse que pagaria por ela!}{Mas isso é o dobro do que eu disse que pagaria por ela!}{}{}{}{ }
+{281}{Esse é o preço. Eu poderia te bater e pegá-la se quisesse.}{}{5}{}{300}{ }
+{282}{Você está certo, foi um erro meu. Aqui está. [Entregue a ele.]}{}{5}{}{110}{in 2803, qu1008 4 }
+{290}{Vou tomá-la à força, se necessário.}{Vou tomá-la à força, se necessário.}{}{}{}{ }
+{291}{Fique à vontade para tentar.}{}{5}{}{0}{fl 210 ,co}
+{292}{Não há necessidade disso. Aqui está. [Entregue a ele.]}{}{5}{}{110}{in 2803, qu1008 4 }
+{300}{Ei! Aquela armadura que seu amigo está usando é minha!}{Ei! Aquela armadura que seu amigo está usando é minha!}{}{}{}{ }
+{301}{E então, o que tem isso?}{}{5}{sk2 8}{270}{ }
+{302}{E então, o que tem isso?}{}{5}{sk2 -7}{290}{ }
+{303}{É verdade. Aqui está. [Dê a ele.]}{}{5}{}{110}{in 2803, qu1008 4 }
+{304}{Vou te dar por 400 moedas.}{}{5}{ha4}{}{ }
+

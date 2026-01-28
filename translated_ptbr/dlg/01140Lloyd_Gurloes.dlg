@@ -1,0 +1,113 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Posso perguntar quem é o senhor?}{}{5}{re 36, me 0,  lf2 0}{33}{}
+{3}{Com licença, bom senhor? Esse é jeito de homens racionais falarem?}{1}{5}{re -35, me 0, lf2 0}{17}{re +10}
+{4}{Com licença, bom senhor? Não poderíamos conversar como iguais?}{0}{5}{re -35, me 0, lf2 0}{17}{re +10}
+{5}{Há algum problema, Lloyd? Não podemos ser mais razoáveis?}{}{5}{re -35, me 1, lf2 0}{17}{re +10}
+{6}{Seu tom está pedindo uma surra, ferreiro.}{}{5}{re -35, lf2 0}{24}{re -10}
+{7}{Olá, Lloyd. Poderia me conceder alguns momentos?}{}{5}{me 1, lf2 0}{38}{}
+{8}{Olá, Lloyd... vim buscar minha adaga...}{}{5}{lf2 1, gf2069 0, lf3 0}{92}{}
+{9}{Olá, Lloyd... vim buscar minha adaga...}{}{5}{lf2 1, gf2069 1, lf3 0}{-5}{}
+{10}{K:}{}{5}{lf3 1}{38}{}
+{12}{Oi! Eu burro. Quem você?}{}{-4}{me 0}{33}{}
+{13}{Oi, Furtoes! Tenho perguntas!}{}{-4}{me 1}{38}{}
+{14}{Oi, Furtoes! Pegou minha adaga?}{}{-4}{lf2 1, gf2069 0, lf3 0}{92}{}
+{15}{Oi, Furtoes! Pegou minha adaga?}{}{-4}{lf2 1, gf2069 1, lf3 0}{-5}{}
+{16}{E:}{}{1}{}{0}{}
+{17}{[Ele parece reconsiderar suas palavras.] Por favor, perdoe o desabafo. Às vezes minha boca vai mais rápido que meu cérebro...}{[Ele parece reconsiderar suas palavras.] Por favor, perdoe o desabafo. Às vezes minha boca vai mais rápido que meu cérebro...}{}{}{}{}
+{18}{Já está esquecido... e quem seria você?}{}{5}{me 0}{33}{}
+{19}{Muito bem, Lloyd. Tem um momento?}{}{5}{me 1}{38}{}
+{20}{E:}{}{5}{}{0}{}
+{24}{[O ferreiro esfrega as mãos, flexionando os músculos nodosos dos braços.] Procurando briga, é? Veio ao lugar certo, garoto.}{[O ferreiro esfrega as mãos, flexionando os músculos nodosos dos braços.] Não sou de bater em mulheres, mas não conheço muitas que peçam por isso...}{}{}{}{}
+{25}{Sua postura é patética, trabalhador.}{}{5}{}{}{co, fl 29}
+{26}{Peço desculpas profundas. Talvez pudéssemos recomeçar?}{}{5}{}{17}{re +15}
+{27}{E:}{}{5}{}{0}{}
+{29}{Você pediu por isso, garoto...}{Você pediu por isso, garota...}{}{}{}{}
+{33}{Saudações. Sou Lloyd Gurloes, o ferreiro local. Como posso ajudá-lo hoje?}{Saudações. Sou Lloyd Gurloes, o ferreiro local. Como posso ajudá-la hoje?}{}{}{}{}
+{34}{É um prazer, Lloyd. Posso lhe fazer algumas perguntas...?}{}{5}{}{38}{}
+{36}{Oi, Furtoes! Perguntas!}{}{-4}{}{38}{}
+{37}{E:}{}{1}{}{0}{}
+{38}{Como posso ajudá-lo?}{Como posso ajudá-lo?}{}{}{}{}
+{39}{Que serviços você oferece, Lloyd?}{}{5}{}{107}{}
+{40}{Como têm sido os negócios ultimamente?}{}{5}{qu1036 0, rp-1047}{62}{}
+{41}{Eu queria falar sobre sua oferta...}{}{5}{qu1036 1}{73}{}
+{42}{Ainda estou procurando por minério...}{}{5}{qu1036 2, ni 5622}{84}{}
+{43}{Trouxe de volta seu minério... aqui está...}{}{5}{qu1036 2, in 5622}{89}{in 5622}
+{45}{Preciso de al-alguns ser-ser-viços-s-s...}{}{-4}{}{107}{}
+{46}{Tem algum trampo, Furtoes?}{}{-4}{qu1036 0}{125}{}
+{47}{Quero achar minério, Furtoes!}{}{-4}{qu1036 1}{125}{}
+{48}{Ainda tô procurando minério, Furtoes!...}{}{-4}{qu1036 2, ni 5622}{84}{}
+{49}{Trouxe minério de volta! Aqui está!}{}{-4}{qu1036 2, in 5622}{89}{in 5622}
+{50}{E:}{}{1}{}{0}{}
+{51}{Tem mais alguma coisa em que eu possa te ajudar?}{Tem mais alguma coisa em que eu possa te ajudar?}{}{}{}{}
+{52}{K:}{}{1}{}{38}{}
+{53}{Ainda preciso dos seus serviços...}{}{5}{}{107}{}
+{54}{Ainda preciso de ser-vi-ços-sos...}{}{-4}{}{107}{}
+{55}{Onde posso encontrar um treinador especialista em Reparo, Lloyd?}{}{5}{tr 12 1, tr 12 -1}{130}{}
+{56}{Onde posso encontrar um treinador especialista em Abrir Fechaduras, Lloyd?}{}{5}{tr 14 1, tr 14 -1}{135}{}
+{57}{Onde posso encontrar um treinador especialista em Armadilhas para Braços, Lloyd?}{}{5}{tr 15 1, tr 15 -1}{140}{}
+{58}{Onde acho um treina-dor espe-cialista em Repa-ro, Furtoes?}{}{-4}{tr 12 1, tr 12 -1}{130}{}
+{59}{Onde acho um treina-dor espe-cialista em Abrir Fechadu-ras, Furtoes?}{}{-4}{tr 14 1, tr 14 -1}{135}{}
+{60}{Onde acho um treina-dor espe-cialista em Arma-dilhas e tal, Furtoes?}{}{-4}{tr 15 1, tr 15 -1}{140}{}
+{61}{E:}{}{1}{}{0}{}
+{62}{Negócios? Ah, acho que nunca são excepcionais aqui em Colinas Sombrias... somos uma cidade pequena e um povo simples. Mas, pra ser honesto, tô tendo dificuldade pra conseguir minério de qualidade pra forjar... é difícil tirar alguma coisa da velha Bessie Toone...}{Negócios? Ah, acho que nunca são excepcionais aqui em Colinas Sombrias... somos uma cidade pequena e um povo simples. Mas, pra ser honesto, tô tendo dificuldade pra conseguir minério de qualidade pra forjar... é difícil tirar alguma coisa da velha Bessie Toone...}{}{}{}{}
+{63}{O que é a velha Bessie Toone?}{}{5}{}{66}{}
+{64}{Que tipo de minério você precisa?}{}{5}{}{73}{}
+{65}{E:}{}{5}{}{0}{}
+{66}{A Bessie Toone é uma antiga mina de prata, logo ao norte e um pouco a oeste da cidade. Não tem mais prata lá há muito tempo, mas ainda trazem um pouco de minério de ferro de vez em quando. Inútil, no entanto, enquanto a Bessie estiver perambulando pela mina.}{A Bessie Toone é uma antiga mina de prata, logo ao norte e um pouco a oeste da cidade. Não tem mais prata lá há muito tempo, mas ainda trazem um pouco de minério de ferro de vez em quando. Inútil, no entanto, enquanto a Bessie estiver perambulando pela mina.}{}{}{}{}
+{67}{O quê? Quem é Bessie Toone?}{}{5}{}{70}{}
+{68}{Que tipo de minério você precisa?}{}{5}{}{73}{}
+{69}{E:}{}{5}{}{0}{}
+{70}{[Lloyd pisca para você.] Bom... eu poderia te dizer quem ela ERA, mas não sou bom em contar histórias. Se quiser mesmo saber sobre a velha Bessie, deveria falar com o filho dela, Percival. Ele mora lá perto da mina.}{[Lloyd pisca para você.] Bom... eu poderia te dizer quem ela ERA, mas não sou bom em contar histórias. Se quiser mesmo saber sobre a velha Bessie, deveria falar com o filho dela, Percival. Ele mora lá perto da mina.}{}{}{}{gf2574 1}
+{71}{Entendi. Que tipo de minério você precisa, Lloyd?}{}{5}{}{73}{}
+{72}{E:}{}{5}{}{0}{}
+{73}{Bom, senhor, estou precisando urgentemente de minério puro... não forjo uma lâmina sem ele. Se conseguir me arranjar um pouco, talvez eu fique devendo uma adaga feita com o que sobrar...}{Bom, senhora, estou precisando urgentemente de minério puro... não forjo uma lâmina sem ele. Se conseguir me arranjar um pouco, talvez eu fique devendo uma adaga feita com o que sobrar...}{}{}{}{qu1036 1}
+{74}{Parece uma boa troca... vou fazer isso.}{}{5}{ni 5622}{78}{qu1036 2}
+{75}{Vou pensar no assunto. Mais algumas perguntas...}{}{5}{}{38}{}
+{76}{Por acaso tenho um pouco aqui comigo... tome...}{}{5}{in 5622}{89}{in 5622}
+{77}{E:}{}{5}{}{0}{}
+{78}{Meus agradecimentos a você, forasteiro. Estarei aqui quando encontrá-lo...}{Meus agradecimentos a você, forasteiro. Estarei aqui quando encontrá-lo...}{}{}{}{}
+{79}{K:}{}{1}{}{38}{}
+{80}{E:}{}{1}{}{0}{}
+{84}{Entendo. Espero que encontre alguns em breve...}{Entendo. Espero que encontre alguns em breve...}{}{}{}{}
+{85}{K:}{}{1}{}{38}{}
+{86}{E:}{}{1}{}{0}{}
+{89}{Isso é ótimo! Agradeço muito. Volte aqui daqui a pouco... terei seu punhal...}{Isso é ótimo! Agradeço muito. Volte aqui daqui a pouco... terei seu punhal...}{}{}{}{lf2 1, qu1036 4}
+{90}{Vou fazer isso, Lloyd...}{}{5}{}{-2}{}
+{91}{Tá bom, Furtoes!}{}{-4}{}{-2}{}
+{92}{Ainda estou fazendo. Volte daqui a pouco...}{Ainda estou fazendo. Volte daqui a pouco...}{}{}{}{}
+{93}{Vou fazer isso, Lloyd...}{}{5}{}{96}{}
+{94}{Tá bom, Furtoes!}{}{-4}{}{96}{}
+{96}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{}{}{}
+{97}{K:}{}{1}{}{38}{}
+{98}{E:}{}{1}{}{0}{}
+{101}{Terminei! Aqui está, e mais uma vez, obrigado pela sua ajuda...}{Terminei! Aqui está, e mais uma vez, obrigado pela sua ajuda...}{}{}{}{lf3 1}
+{102}{K:}{}{1}{}{38}{}
+{103}{E:}{}{1}{}{0}{}
+{107}{Que serviços você precisa?}{Que serviços você precisa?}{}{}{}{}
+{108}{T: 12, 14, 15}{}{5}{}{51}{}
+{109}{B:}{}{5}{}{51}{}
+{110}{R: $10, 1020-1023}{}{5}{}{51}{}
+{112}{T: 12, 14, 15}{}{-4}{}{51}{}
+{113}{B:}{}{-4}{}{51}{}
+{114}{R: $10, 1020-1023}{}{-4}{}{51}{}
+{115}{Onde posso encontrar um treinador especializado em Reparo, Lloyd?}{}{5}{tr 12 1, tr 12 -1}{130}{}
+{116}{Onde posso encontrar um treinador especializado em Abrir Fechaduras, Lloyd?}{}{5}{tr 14 1, tr 14 -1}{135}{}
+{117}{Onde posso encontrar um treinador especializado em Armadilhas para Braços, Lloyd?}{}{5}{tr 15 1, tr 15 -1}{140}{}
+{118}{Onde eu acho um treina-dor es-perto pa Repa-rá, Furtoes?}{}{-4}{tr 12 1, tr 12 -1}{130}{}
+{119}{Onde eu acho um treina-dor es-perto pa Abri fechadu-ra, Furtoes?}{}{-4}{tr 14 1, tr 14 -1}{135}{}
+{120}{Onde eu acho um treina-dor es-perto pa Arma-dilha e coisa, Furtoes?}{}{-4}{tr 15 1, tr 15 -1}{140}{}
+{121}{E:}{}{1}{}{0}{}
+{125}{Bem, senhor, parece que o senhor é do tipo simples, mas talvez possa me ajudar. Estou precisando urgentemente de minério puro... não forjo uma lâmina sem ele. Se conseguir encontrar, talvez eu fique grato em fazer um punhal para o senhor com o que sobrar...}{Bem, senhora, parece que a senhora é do tipo simples, mas talvez possa me ajudar. Estou precisando urgentemente de minério puro... não forjo uma lâmina sem ele. Se conseguir encontrar, talvez eu fique grata em fazer um punhal para a senhora com o que sobrar...}{}{}{}{qu10361 }
+{126}{Tá bom! Entendi!}{}{-4}{ni 5622}{78}{qu1036 2}
+{127}{Vou pensar nisso, Furtoes... volte mais tarde...}{}{-4}{}{0}{}
+{128}{Já consegui! Aqui está...}{}{-4}{in 5622}{89}{in 5622}
+{130}{Hmmm... não tenho muita certeza... tente em Black Root ou Dernholm... acho que encontrará o que procura lá...}{Hmmm... não tenho muita certeza... tente em Black Root ou Dernholm... acho que encontrará o que procura lá...}{}{}{}{}
+{131}{K:}{}{1}{}{38}{}
+{132}{E:}{}{1}{}{0}{}
+{135}{Dê uma olhada em Black Root ou Caladon... deve ter alguém lá que possa ajudá-lo...}{Dê uma olhada em Black Root ou Caladon... deve haver alguém lá que possa te ajudar...}{}{}{}{ru 2183}
+{136}{K:}{}{1}{}{38}{}
+{137}{E:}{}{1}{}{0}{}
+{140}{Pelo que me lembro, procure em Roseborough ou Caladon, ou talvez no Clã Roda dos anões. Acho que você encontrará o que está procurando...}{Pelo que me lembro, procure em Roseborough ou Caladon, ou talvez no Clã Roda dos anões. Acho que você encontrará o que está procurando...}{}{}{}{}
+{141}{K:}{}{1}{}{38}{}
+{142}{E:}{}{1}{}{0}{}
+

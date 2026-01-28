@@ -1,0 +1,128 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá, madame. Posso saber quem é a senhora...?}{}{5}{me 0, re 41}{37}{}
+{3}{Ora, madame! A senhora não pode estar falando comigo!}{}{5}{me 0, re -40}{11}{}
+{4}{Saudações, Lianna. Tem um momento?}{}{5}{me 1, re 41}{48}{}
+{5}{Sra. Pel Dar! O que eu fiz para ofendê-la?}{}{5}{me 1, re -40}{11}{}
+{7}{Hã... quem é você?}{}{-4}{me 0}{37}{}
+{8}{Oi, Lianna! Posso lhe fazer algumas perguntas?}{}{-4}{me 1}{48}{}
+{9}{E:}{}{1}{}{0}{}
+{11}{Sinto muito, mas tenho pouco tempo para alguém com suas... inferiores... qualidades. Recomendo que siga seu caminho, senhor...}{Sinto muito, mas tenho pouco tempo para alguém com suas... inferiores... qualidades. Recomendo que siga seu caminho, madame...}{}{}{}{}
+{15}{Como é? Talvez queira reconsiderar sua opinião...}{}{5}{ch 15}{32}{re +20}
+{16}{Madame! Por favor! Não podemos nos tratar com mais civilidade?}{}{5}{}{27}{re +10}
+{17}{Você está perigosamente perto de levar uma surra, garota...}{}{5}{}{20}{re -5}
+{18}{E:}{}{5}{}{0}{}
+{20}{Ah, é? Dernholm pode ser um reino em decadência, mas seus filhos ainda são guerreiros. Deseja me testar, forasteiro?}{Ah, é? Dernholm pode ser um reino em decadência, mas seus filhos ainda são guerreiros. Deseja me testar, forasteiro?}{}{}{}{}
+{21}{Talvez não. Aceite minhas desculpas. Mas poderíamos conversar, madame?}{}{5}{}{27}{re +15}
+{22}{Este reino é patético. Ainda mais por você estar nele...}{}{5}{}{}{co, fl 25}
+{23}{E:}{}{5}{lf1 1}{0}{}
+{25}{Tolo ignorante. Pela glória dos Cavaleiros do Dragão!}{Tolo ignorante. Pela glória dos Cavaleiros do Dragão!}{}{}{}{}
+{27}{[Ela dá de ombros.] Suponho que poderia tolerar falar com você por alguns momentos...}{[Ela dá de ombros.] Suponho que poderia tolerar falar com você por alguns momentos...}{}{}{}{}
+{28}{Obrigado. Posso perguntar quem é o senhor?}{}{5}{lf1 0}{37}{}
+{29}{Agradeço, Lianna. Tem um momento?}{}{5}{lf1 1}{48}{}
+{30}{E:}{}{5}{lf1 1}{0}{}
+{32}{[Ela parece surpresa.] Por favor... perdoe-me, senhor. Obviamente é uma pessoa de bom caráter. Podemos recomeçar?}{[Ela parece surpresa.] Por favor... perdoe-me, madame. Obviamente é uma pessoa de bom caráter. Podemos recomeçar?}{}{}{}{}
+{33}{Eu gostaria disso. Posso saber quem é você?}{}{5}{lf1 0}{37}{}
+{34}{Claro, Lianna. Posso lhe fazer algumas perguntas?}{}{5}{lf1 1}{48}{}
+{35}{E:}{}{5}{lf1 1}{0}{}
+{37}{Meu nome é Lianna...}{Meu nome é Lianna...}{}{}{}{}
+{38}{Saudações, Lianna. Tem alguns momentos?}{}{5}{}{48}{}
+{39}{Oi, Lianna! Posso lhe fazer algumas perguntas...?}{}{-4}{}{48}{}
+{40}{E:}{}{1}{}{0}{}
+{42}{Warren Pel Dar? Meu pai? [Raiva nos olhos.] Que negócios poderia ter com meu pai...?}{Warren Pel Dar? Meu pai? [Raiva nos olhos.] Que negócios poderia ter com meu pai...?}{}{}{}{}
+{43}{Tenho uma mensagem para entregar a ele.}{}{5}{}{45}{}
+{45}{[Ela está diante de você, com um olhar ameaçador.] Sinto muito, mas meu pai faleceu há muitos anos. Que mensagem você traria a ele?}{[Ela está diante de você, com um olhar ameaçador.] Sinto muito, mas meu pai faleceu há muitos anos. Que mensagem você traria a ele?}{}{}{}{}
+{46}{A mensagem é de Maximillian, Lianna...}{}{5}{}{124}{}
+{48}{Em que posso ajudá-lo?}{Em que posso ajudá-lo?}{}{}{}{}
+{49}{Você pode me treinar para ser um especialista em arremesso, Lianna?}{}{5}{lf8 1, tr 3 -1}{165}{et 3 132}
+{50}{Conte-me sobre você, Lianna...}{}{5}{lf7 0}{59}{}
+{51}{Gostaria de falar com você sobre Cúmbria...}{}{5}{lf7 0}{69}{}
+{52}{Trago notícias de Maximillian, Lianna...}{}{5}{qa1072 1, qb1072 3, lf6 1, lf7 0}{124}{}
+{53}{Trago notícias de Maximillian, Lianna...}{}{5}{qa1164 1, qb1164 3, lf6 1, lf7 0}{124}{}
+{54}{Que notícias tem de Maximillian, Lianna?}{}{5}{gf2447 1}{141}{}
+{55}{Você me treina pra arremessar coisas muito bem? Ser um ex-p-er-to?}{}{-4}{lf8 1, tr 3 -1}{165}{et 3 132}
+{56}{Hã... o que você faz aqui, Lianna?}{}{-4}{}{59}{}
+{57}{E:}{}{5}{}{0}{}
+{59}{O que há para contar? Sou cúmbria. Amo meu país. Lutaria até a morte por ele, usando todas as habilidades que meu pai me ensinou. [Seu rosto fica muito triste.] Só posso esperar que um dia eu seja tão grande guerreira quanto ele...}{O que há para contar? Sou cúmbria. Amo meu país. Lutaria até a morte por ele, usando todas as habilidades que meu pai me ensinou. [Seu rosto fica muito triste.] Só posso esperar que um dia eu seja tão grande guerreira quanto ele...}{}{}{}{}
+{60}{Então, você é uma guerreira? Que habilidades você tem?}{}{5}{}{63}{}
+{61}{Gosta de lutar? O que você sabe...?}{}{-4}{}{63}{}
+{63}{Meu pai me ensinou muitas coisas, mas sempre fui muito habilidoso com armas de arremesso... facas, machados, qualquer coisa que esteja à mão...}{Meu pai me ensinou muitas coisas, mas sempre fui muito habilidoso com armas de arremesso... facas, machados, qualquer coisa que esteja à mão...}{}{}{}{lf8 1}
+{64}{Entendo. Você poderia me treinar para me tornar um especialista em Arremesso?}{}{5}{lf8 1, tr 3 -1}{165}{et 3 132}
+{65}{Você me treina pra jogar coisas muito bem? Ser ex-x-p-erto?}{}{-4}{lf8 1, tr 3 -1}{165}{et 3 132}
+{66}{K:}{}{1}{}{48}{}
+{67}{E:}{}{1}{}{0}{}
+{69}{O que você gostaria de saber?}{O que você gostaria de saber?}{}{}{}{}
+{70}{Fale-me sobre Dernholm...}{}{5}{}{76}{}
+{71}{Fale-me sobre a guerra com Tarant...}{}{5}{lf4 1}{93}{}
+{72}{Conte-me novamente sobre os Cavaleiros Dragão...}{}{5}{lf5 1}{119}{}
+{73}{Mais algumas perguntas gerais...}{}{5}{}{48}{}
+{74}{E:}{}{1}{}{0}{}
+{76}{Dernholm? [Há dor em seus olhos.] Dernholm já foi a maior cidade de todo o Arcanum, e Cúmbria, seu maior reino. As coisas mudaram muito desde... bem...}{Dernholm? [Há dor em seus olhos.] Dernholm já foi a maior cidade de todo o Arcanum, e Cúmbria, seu maior reino. As coisas mudaram muito desde... bem...}{}{}{}{}
+{77}{O quê? Desde o quê?}{}{5}{}{79}{}
+{79}{[Ela sibila entre os dentes.] Desde que o Rei Praetor chegou ao poder. Seu pai, o Rei Torren, foi um grande rei e trouxe muita glória para Cúmbria. Mas ele morreu durante a guerra com Tarant, e as coisas nunca mais foram as mesmas...}{[Ela sibila entre os dentes.] Desde que o Rei Praetor chegou ao poder. Seu pai, o Rei Torren, foi um grande rei e trouxe muita glória para Cúmbria. Mas ele morreu durante a guerra com Tarant, e as coisas nunca mais foram as mesmas...}{}{}{}{}
+{80}{Por quê? O que aconteceu?}{}{5}{}{82}{}
+{82}{Muitos anos atrás, o Rei Torren proibiu o uso de tecnologia dentro dos muros da cidade. Nossa derrota para Tarant nos mostrou o erro daqueles caminhos... enterramos um grande rei por causa disso. Infelizmente, Praetor chegou ao poder. O trono nem sequer era dele para tomar...}{Muitos anos atrás, o Rei Torren proibiu o uso de tecnologia dentro dos muros da cidade. Nossa derrota para Tarant nos mostrou o erro daqueles caminhos... enterramos um grande rei por causa disso. Infelizmente, Praetor chegou ao poder. O trono nem sequer era dele para tomar...}{}{}{}{lf3 1}
+{83}{O que você quer dizer? Praetor não era filho do Rei Torren...?}{}{5}{}{88}{}
+{84}{Conte-me sobre a guerra com Tarant...}{}{5}{}{93}{}
+{85}{Mais algumas perguntas gerais...}{}{5}{}{48}{}
+{86}{E:}{}{5}{}{0}{}
+{88}{Sim...mas ele não era o primogênito. [Ela olha ao redor, baixando a voz.] Sinto muito, mas essas coisas são proibidas de se falar. Já falei demais...}{Sim...mas ele não era o primogênito. [Ela olha ao redor, baixando a voz.] Sinto muito, mas essas coisas são proibidas de se falar. Já falei demais...}{}{}{}{}
+{89}{Entendo. Conte-me sobre a guerra com Tarant...}{}{5}{}{93}{}
+{90}{Mais algumas perguntas gerais...}{}{5}{}{48}{}
+{91}{E:}{}{5}{}{0}{}
+{93}{A guerra com Tarant? Foi há tantos anos... pelo que meu pai me contou, a disputa era por terras. Por que mais os reinos lutariam? Não fazia muita diferença... Cúmbria era forte, e o Conselho Industrial acabara de tomar o poder em Tarant. Era só uma questão de tempo até que as coisas chegassem à guerra...}{A guerra com Tarant? Foi há tantos anos... pelo que meu pai me contou, a disputa era por terras. Por que mais os reinos lutariam? Não fazia muita diferença... Cúmbria era forte, e o Conselho Industrial acabara de tomar o poder em Tarant. Era só uma questão de tempo até que as coisas chegassem à guerra...}{}{}{}{lf4 1}
+{94}{O que aconteceu?}{}{5}{}{98}{}
+{95}{Mais algumas perguntas gerais...}{}{5}{}{48}{}
+{96}{E:}{}{5}{}{0}{}
+{98}{Foi uma batalha terrível. Os Cavaleiros do Dragão foram convocados para defender Cúmbria... e, como sempre, atenderam ao chamado. Meu pai me contou sobre aquele dia. Os Cavaleiros sobre seus corcéis de guerra, vestidos em armaduras de ouro e prata. As trombetas soaram, e eles avançaram...}{Foi uma batalha terrível. Os Cavaleiros do Dragão foram convocados para defender Cúmbria... e, como sempre, atenderam ao chamado. Meu pai me contou sobre aquele dia. Os Cavaleiros sobre seus corcéis de guerra, vestidos em armaduras de ouro e prata. As trombetas soaram, e eles avançaram...}{}{}{}{}
+{99}{[Ouvir.]}{}{5}{}{101}{}
+{101}{...eles avançaram, onda após onda dos melhores soldados que Arcanum já conheceu. Avançaram diretamente contra as balas disparadas pelos soldados de infantaria de Tarant. Os Cavaleiros do Dragão nunca pararam. Nem uma vez. [Ela estremece.] Meu pai disse que os montes dos mortos eram como grandes montanhas de metal erguendo-se de oceanos de sangue. Foi um massacre...}{...eles avançaram, onda após onda dos melhores soldados que Arcanum já conheceu. Avançaram diretamente contra as balas disparadas pelos soldados de infantaria de Tarant. Os Cavaleiros do Dragão nunca pararam. Nem uma vez. [Ela estremece.] Meu pai disse que os montes dos mortos eram como grandes montanhas de metal erguendo-se de oceanos de sangue. Foi um massacre...}{}{}{}{}
+{102}{Quem era seu pai?}{}{5}{lf2 0}{107}{lf2 1}
+{103}{Quem eram os Cavaleiros do Dragão?}{}{5}{}{119}{}
+{104}{Mais algumas perguntas gerais...}{}{5}{}{48}{}
+{105}{E:}{}{5}{}{0}{}
+{107}{Meu pai era Warren Pel Dar. Ele foi Capitão dos Cavaleiros do Dragão e o maior guerreiro que já conheci. [Lágrimas surgem em seus olhos.] Desde muito jovem, ele me ensinou os caminhos dos Cavaleiros do Dragão. E me ensinou a amar Cúmbria, a guardar a memória de sua antiga grandeza no coração...}{Meu pai era Warren Pel Dar. Ele foi Capitão dos Cavaleiros do Dragão e o maior guerreiro que já conheci. [Lágrimas surgem em seus olhos.] Desde muito jovem, ele me ensinou os caminhos dos Cavaleiros do Dragão. E me ensinou a amar Cúmbria, a guardar a memória de sua antiga grandeza no coração...}{}{}{}{lf6 1, lf8 1, gf2750 1}
+{108}{Warren Pel Dar? Estou procurando por um Warren Pel Dar...}{}{5}{qa1072 1}{42}{}
+{109}{Onde ele está?}{}{5}{}{114}{}
+{110}{Quem eram os Cavaleiros do Dragão?}{}{5}{}{119}{}
+{111}{Mais algumas perguntas gerais...}{}{5}{}{48}{}
+{112}{E:}{}{5}{}{0}{}
+{114}{Ele... ele está morto. [Ela se vira.] Ele morreu há 10 anos. Era um homem velho, mas acho que seu espírito morreu muitos anos antes. Meu pai amava Cúmbria mais do que qualquer coisa, e ver no que o reino se tornou partiu seu coração...}{Ele... ele está morto. [Ela se vira.] Ele morreu há 10 anos. Era um homem velho, mas acho que seu espírito morreu muitos anos antes. Meu pai amava Cúmbria mais do que qualquer coisa, e ver no que o reino se tornou partiu seu coração...}{}{}{}{}
+{115}{Quem eram os Cavaleiros do Dragão?}{}{5}{}{119}{}
+{116}{Mais algumas perguntas gerais...}{}{5}{}{48}{}
+{117}{E:}{}{5}{}{0}{}
+{119}{Os Cavaleiros do Dragão eram os soldados de elite de Cúmbria. Apenas os mais habilidosos eram escolhidos para suas fileiras, e apenas os mais nobres entre eles. Eram temidos por toda a terra e reverenciados aqui em nosso reino. Meu pai... ele me contou muitas histórias sobre eles, sobre sua força e bravura. E ele era o melhor entre eles...}{Os Cavaleiros do Dragão eram os soldados de elite de Cúmbria. Apenas os mais habilidosos eram escolhidos para suas fileiras, e apenas os mais nobres entre eles. Eram temidos por toda a terra e reverenciados aqui em nosso reino. Meu pai... ele me contou muitas histórias sobre eles, sobre sua força e bravura. E ele era o melhor entre eles...}{}{}{}{lf5 1}
+{120}{Quem era seu pai?}{}{5}{lf2 0}{107}{lf2 1}
+{121}{Mais algumas perguntas gerais...}{}{5}{}{48}{}
+{122}{E:}{}{5}{}{0}{}
+{124}{[Seus olhos se arregalam, incrédula.] Oh, meu deus. Maximiliano...? Nunca sonhamos que ele ainda estivesse vivo. Onde? Onde ele está...?}{[Seus olhos se arregalam, incrédula.] Oh, meu deus. Maximiliano...? Nunca sonhamos que ele ainda estivesse vivo. Onde? Onde ele está...?}{}{}{}{}
+{125}{Ele está na Ilha do Desespero... <<<PH1>>>}{}{5}{qa1072 1, qb1072 3}{127}{}
+{126}{Ele está na Ilha do Desespero... <<<PH1>>>}{}{5}{qa1164 1, qb1164 3}{160}{}
+{127}{Entendo. [Há determinação em seus olhos. E esperança.] Obrigada, meu amigo. Meu pai teria ficado tão feliz... ele costumava falar de Maximiliano sem parar, dizendo como Cúmbria teria sido ainda maior se ele tivesse assumido seu lugar de direito no trono. [Ela olha para o leste.] Talvez isso ainda possa acontecer. Irei e retornarei com o verdadeiro Rei...}{Entendo. [Há determinação em seus olhos. E esperança.] Obrigada, meu amigo. Meu pai teria ficado tão feliz... ele costumava falar de Maximiliano sem parar, dizendo como Cúmbria teria sido ainda maior se ele tivesse assumido seu lugar de direito no trono. [Ela olha para o leste.] Talvez isso ainda possa acontecer. Irei e retornarei com o verdadeiro Rei...}{}{}{}{qu1072 4, lf7 1}
+{128}{Espero sinceramente que sim. Adeus, Lianna...}{}{5}{}{-2}{}
+{132}{Sim, claro. Sempre fico feliz em treinar um companheiro de armas. Você sabe que, pela tradição, devo cobrar 500 peças de ouro...}{Sim, claro. Sempre fico feliz em treinar um companheiro de armas. Você sabe que, pela tradição, devo cobrar 500 peças de ouro...}{}{}{}{}
+{133}{Claro. Aqui está o dinheiro... [Entregue a ela.]}{}{5}{$$500}{146}{$$-500}
+{134}{Entendo. Talvez eu volte mais tarde. Mas algumas perguntas a mais...}{}{5}{$$500}{48}{}
+{135}{Eu não tenho o dinheiro agora...}{}{5}{$$-499}{155}{}
+{136}{É! Aqui o dinheiro...! [Entregue a ela.]}{}{-4}{$$500}{146}{$$-500}
+{137}{Hmm... talvez mais tarde. Tenho mais perguntas!}{}{-4}{$$500}{48}{}
+{138}{Eu não tenho dinheiro agora...}{}{-4}{$$-499}{155}{}
+{139}{E:}{}{1}{}{0}{}
+{141}{Enviei um destacamento de Cavaleiros do Dragão recém-recrutados para resgatar Maximillian da Ilha do Desespero. Quando ele retornar, veremos o que o Pretor tem a dizer por si mesmo. [Os olhos de Lianna queimam como fogo.]}{Enviei um destacamento de Cavaleiros do Dragão recém-recrutados para resgatar Maximillian da Ilha do Desespero. Quando ele retornar, veremos o que o Pretor tem a dizer por si mesmo. [Os olhos de Lianna queimam como fogo.]}{}{}{}{}
+{142}{K:}{}{5}{}{48}{}
+{143}{E:}{}{5}{}{0}{}
+{146}{Então... você segura o objeto assim, espere! Cuidado com o ângulo do cotovelo... isso! Agora você pegou o jeito! Está progredindo bem...}{Então... você segura o objeto assim, espere! Cuidado com o ângulo do cotovelo... isso! Agora você pegou o jeito! Está progredindo bem...}{}{}{}{tr 3 2, rq2180}
+{147}{Diga-me... quem é a Mestra do Arremesso?}{}{5}{}{150}{}
+{148}{Hã... quem é o mestre em arremesso?}{}{-4}{}{150}{}
+{150}{[Ela sorri com desdém.] O nome da mulher é Clarissa Shalmo, e ela mora em Black Root...}{[Ela sorri com desdém.] O nome da mulher é Clarissa Shalmo, e ela mora em Black Root...}{}{}{}{ru 2165}
+{151}{Obrigado, Lianna. Mais algumas perguntas?}{}{5}{}{48}{}
+{152}{Tá bom, Lianna! Mais algumas perguntas?}{}{-4}{}{48}{}
+{153}{E:}{}{1}{}{0}{}
+{155}{Hmm. Bem, você pode voltar aqui quando tiver o dinheiro...}{Hmm. Bem, você pode voltar aqui quando tiver o dinheiro...}{}{}{}{}
+{156}{K:}{}{1}{}{48}{}
+{157}{E:}{}{1}{}{0}{}
+{160}{Entendo. [Há determinação em seus olhos. E esperança.] Obrigado, meu amigo. Meu pai teria ficado tão feliz... ele costumava falar de Maximillian sem parar, dizendo como Cúmbria teria sido ainda maior se ele tivesse assumido seu lugar de direito no trono. [Ela olha para o leste.] Talvez isso ainda possa acontecer. Eu irei e retornarei com o verdadeiro Rei...}{Entendo. [Há determinação em seus olhos. E esperança.] Obrigado, meu amigo. Meu pai teria ficado tão feliz... ele costumava falar de Maximillian sem parar, dizendo como Cúmbria teria sido ainda maior se ele tivesse assumido seu lugar de direito no trono. [Ela olha para o leste.] Talvez isso ainda possa acontecer. Eu irei e retornarei com o verdadeiro Rei...}{}{}{}{qu1164 4, lf7 1}
+{161}{Espero sinceramente que sim. Adeus, Lianna...}{}{5}{}{-2}{}
+{165}{Havia algo mais que você precisava?}{Havia algo mais que você precisava?}{}{}{}{}
+{166}{K:}{}{1}{}{0}{}
+{167}{E:}{}{1}{}{0}{}
+

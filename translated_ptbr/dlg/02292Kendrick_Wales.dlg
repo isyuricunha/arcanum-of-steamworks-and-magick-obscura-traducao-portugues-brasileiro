@@ -1,0 +1,78 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Saudações, senhor. Posso perguntar quem é você?}{}{5}{me 0, re 41}{36}{lf1 1}
+{3}{Olá, Kendrick. Será que eu poderia incomodá-lo por um momento?}{}{5}{me 1, re 41}{41}{}
+{4}{Senhor! Acabamos de nos conhecer! Onde estão seus modos?}{}{5}{me 0, re -40}{12}{}
+{5}{Sr. Wales! Por que me trata assim?}{}{5}{me 1, re -40}{12}{}
+{7}{Oi! Posso perguntar quem é você?}{}{-4}{me 0}{36}{}
+{8}{Oi, Kennick! Posso lhe fazer algumas perguntas?}{}{-4}{me 1}{41}{}
+{9}{E:}{}{1}{}{0}{}
+{12}{Simplesmente não consigo suportar vê-lo, senhor. Por favor, saia desta casa imediatamente!}{Simplesmente não consigo suportá-la, madame. Por favor, saia desta casa imediatamente!}{}{}{}{}
+{13}{Como é? Tem certeza dessa opinião, senhor...?}{}{5}{ch 15}{31}{}
+{14}{Senhor! Desculpe incomodá-lo. Não podemos conversar por um momento...?}{}{5}{me 0}{26}{re +15}
+{15}{Sr. Wales! Pensei que você e eu fôssemos amigos!}{}{5}{me 1}{26}{re +15}
+{16}{Eu não falaria assim comigo se fosse você, amigo...}{}{5}{}{19}{re -5}
+{17}{E:}{}{5}{}{0}{}
+{19}{Sério? Como se eu me importasse com sua opinião, senhor! Você não passa de um desperdício do meu próprio cuspe!}{Sério? Como se eu me importasse com sua opinião, madame! Você não passa de um desperdício do meu próprio cuspe!}{}{}{}{}
+{20}{Tem razão. Por favor, tenha piedade de mim...}{}{5}{}{26}{re +15}
+{21}{Entendo. Suas entranhas vão ser um desperdício ainda maior, gnomo...}{}{5}{}{}{co, fl 24}
+{22}{E:}{}{5}{}{0}{}
+{24}{Ha! Vamos resolver isso então, cretino!}{Ha! Vamos resolver isso então, sua traidora desgraçada!}{}{}{}{}
+{26}{[Ele olha para você com desconfiança.] Suponho que eu poderia ser convencido a tolerá-lo por um ou dois momentos. Desde que saiba o seu lugar...}{[Ele olha para você com desconfiança.] Suponho que eu poderia ser convencido a tolerá-la por um ou dois momentos. Desde que saiba o seu lugar...}{}{}{}{}
+{27}{Muito obrigado. Posso perguntar quem é você?}{}{5}{me 0}{36}{re +5}
+{28}{Você é muito compreensivo, Kendrick. Tem um momento?}{}{5}{me 1}{41}{}
+{29}{E:}{}{1}{}{0}{}
+{31}{[O cavalheiro parece vê-lo com novos olhos.] Ah! Minhas mais sinceras desculpas, bom senhor! Não fazia ideia de que era um debutante tão distinto! Perdoe-me, por favor!}{[O cavalheiro parece vê-la com novos olhos.] Ah! Minhas mais sinceras desculpas, madame! Não fazia ideia de que era uma dama de tão óbvia boa criação! Perdoe-me, por favor!}{}{}{}{}
+{32}{Compreendo perfeitamente. Posso perguntar quem é você?}{}{5}{me 0}{36}{}
+{33}{Vamos esquecer que isso aconteceu, Kendrick. Posso falar com você por um momento?}{}{5}{me 1}{41}{}
+{34}{E:}{}{1}{}{0}{}
+{36}{Meu nome é, hã... Kendrick Wales, erudito e autor. E você é?}{Meu nome é, hã... Kendrick Wales, erudito e autor. E você é?}{}{}{}{}
+{37}{Eu sou @PCNAME@. Posso lhe fazer algumas perguntas?}{}{5}{}{41}{}
+{38}{Oi! Eu @PCNAME@! Posso lhe fazer algumas perguntas?}{}{-4}{}{41}{}
+{39}{E:}{}{1}{}{0}{}
+{41}{Certamente...}{Certamente...}{}{}{}{}
+{42}{Disse que era um erudito? O que estuda, senhor?}{}{5}{lf1 0}{50}{}
+{43}{Sobre o que era mesmo o seu livro, Kendrick?}{}{5}{lf1 1}{55}{}
+{44}{Kendrick, preciso falar com você sobre T'sen-Ang...}{}{5}{ss 12}{70}{}
+{45}{Quem lhe disse que Victor Misk tinha uma cópia desse livro, Kendrick?}{}{5}{qa1052 1}{79}{}
+{46}{Hã... o que você quer, Kennick?}{}{-4}{}{50}{}
+{47}{Kennick! Preciso de ajuda para encontrar Tenang!}{}{-4}{ss 12}{70}{}
+{48}{E:}{}{1}{}{0}{}
+{50}{Eu? Ah, eu me envolvo aqui e ali com a história élfica. Dei aulas em várias universidades quando era mais jovem, mas nos últimos 5 anos tenho trabalhado apenas no meu primeiro livro. Ele acabou de ser enviado para impressão!}{Eu? Ah, eu me envolvo aqui e ali com a história élfica. Dei aulas em várias universidades quando era mais jovem, mas nos últimos 5 anos tenho trabalhado apenas no meu primeiro livro. Ele acabou de ser enviado para impressão!}{}{}{}{}
+{51}{Sério? Sobre o que é?}{}{5}{}{55}{lf1 1}
+{52}{Hã? Você escreveu um livro?}{}{-4}{}{55}{lf1 1}
+{53}{E:}{}{1}{}{0}{}
+{55}{Bem, não deveria falar sobre isso. Mas posso te dizer que se chama "A Maldição de T'sen-Ang" e deve estar à venda a qualquer dia! Não costumo me gabar, mas devo admitir que é uma obra-prima! Um verdadeiro exemplo da busca acadêmica!}{Bem, não deveria falar sobre isso. Mas posso te dizer que se chama "A Maldição de T'sen-Ang" e deve estar à venda a qualquer dia! Não costumo me gabar, mas devo admitir que é uma obra-prima! Um verdadeiro exemplo da busca acadêmica!}{}{}{}{}
+{56}{Você não pode me contar nada sobre ele, Kendrick?}{}{5}{ss -11}{62}{}
+{57}{Isso é interessante... Estou procurando por T'sen-Ang...}{}{5}{ss 12}{70}{}
+{58}{Hã... é?}{}{-4}{ss -11}{66}{}
+{59}{Ei! Preciso encontrar Tenang!}{}{-4}{ss 12}{70}{}
+{60}{E:}{}{1}{}{0}{}
+{61}{}{}{}{}{}{}
+{62}{Desculpe, meu velho. Estou sob contrato e não posso revelar nada sobre isso. Tenho certeza de que você o verá em todas as melhores livrarias em breve. Você só terá que esperar até lá...}{Desculpe, madame. Estou sob contrato e não posso revelar nada sobre isso. Tenho certeza de que você o verá em todas as melhores livrarias em breve. Você só terá que esperar até lá...}{}{}{}{}
+{63}{Entendo. Posso te fazer mais algumas perguntas?}{}{5}{}{41}{}
+{64}{E:}{}{1}{}{0}{}
+{66}{[Ele ri.] Não é muito esperto, não é, meu amigo? Tudo bem... o livro provavelmente será um pouco complexo demais para você, de qualquer forma. Talvez devesse se preocupar com coisas mais simples...}{[Ele ri.] Não é muito esperto, não é, meu amigo? Tudo bem... o livro provavelmente será um pouco complexo demais para você, de qualquer forma. Talvez devesse se preocupar com coisas mais simples...}{}{}{}{}
+{67}{Hã... mais perguntas?}{}{-4}{}{41}{}
+{68}{E:}{}{1}{}{0}{}
+{70}{O que você poderia querer com aquele lugar terrível? Recomendo que não faça muitas perguntas sobre ele... coisas ruins parecem acontecer com quem faz isso.}{O que você poderia querer com aquele lugar terrível? Recomendo que não faça muitas perguntas sobre ele... coisas ruins parecem acontecer com quem faz isso.}{}{}{}{}
+{71}{Preciso muito encontrá-lo. Você sabe onde fica?}{}{5}{}{74}{}
+{72}{Eu ainda preciso ir lá! Você me ajuda?}{}{-4}{}{74}{}
+{74}{Você não leu meu livro? A questão é que NINGUÉM sabe onde fica! Deveria haver um mapa para o lugar em "Horror Entre os Elfos Negros", mas a única cópia restante está com Victor Misk, o colecionador de livros caledônio! Se quiser encontrar T'sen-Ang, é melhor falar com ele...}{Você não leu meu livro? A questão é que NINGUÉM sabe onde fica! Deveria haver um mapa para o lugar em "Horror Entre os Elfos Negros", mas a única cópia restante está com Victor Misk, o colecionador de livros caledônio! Se quiser encontrar T'sen-Ang, é melhor falar com ele...}{}{}{}{}
+{75}{Entendo. Posso te fazer mais algumas perguntas?}{}{5}{}{41}{}
+{76}{Hã... tá bom! Mais perguntas?}{}{-4}{}{41}{}
+{77}{E:}{}{1}{}{0}{}
+{79}{[Ele olha para você, desconfiado.] Por que quer saber?}{[Ele olha para você, desconfiado.] Por que quer saber?}{}{}{}{}
+{80}{Tenho meus motivos. Agora, quem foi?}{}{5}{}{82}{}
+{82}{[Seu rosto fica sério.] Você não espera que eu revele minhas fontes, espera? Acha que eu violaria minha própria integridade jornalística? Isso é problema meu, e não falarei mais sobre isso...}{[Seu rosto fica sério.] Você não espera que eu revele minhas fontes, espera? Acha que eu violaria minha própria integridade jornalística? Isso é problema meu, e não falarei mais sobre isso...}{}{}{}{}
+{83}{Entendido. Mais algumas perguntas...}{}{5}{}{41}{}
+{84}{Talvez você não entenda. Não estou pedindo, Kendrick...}{}{5}{}{87}{re -5}
+{85}{E:}{}{1}{}{0}{}
+{87}{Não me ameace, senhor! Chamarei as autoridades num instante! Não repetirei... nada neste mundo me faria trair essa confiança. Ficamos claros quanto a isso, senhor?}{Não me ameace, senhora! Chamarei as autoridades num instante! Não repetirei... nada neste mundo me faria trair essa confiança. Ficamos claros quanto a isso, senhora?}{}{}{}{}
+{88}{Entendo. Então tenho mais algumas perguntas...}{}{5}{}{41}{}
+{89}{Fico claro quanto a isso... ou você me conta, ou morrerá desejando ter contado.}{}{5}{}{92}{re -10}
+{90}{E:}{}{1}{}{0}{}
+{92}{[Ele se levanta, resoluto.] Não o farei, senhor. Faça o seu pior!}{[Ele se levanta, resoluto.] Não o farei, senhora. Faça o seu pior!}{}{}{}{}
+{93}{Tudo bem. Mais algumas perguntas...}{}{5}{}{41}{}
+{94}{Então que seja a morte, velho.}{}{5}{}{}{co, fl 24}
+{95}{E:}{}{5}{}{0}{}
+

@@ -1,0 +1,118 @@
+{1}{G:}{}{}{}{}{}
+{2}{Saudações, Mestre. Posso perguntar em qual colégio você se especializou?}{}{5}{lf1 0, re 41}{28}{}
+{3}{De qual colégio você é mestre, grande mago?}{}{5}{lf1 0, re 41}{28}{}
+{4}{Então, de que você é mestre, mago?}{}{5}{lf1 0, re 41}{28}{}
+{5}{Perdoe-me por qualquer ofensa, grande mago. Posso perguntar seu nome?}{}{5}{lf1 0, re -40}{28}{re+5}
+{6}{Hmm... Posso saber seu nome, senhor?}{}{5}{lf1 0, re -40}{28}{re+2}
+{7}{Bem rude para um "mestre". Quem é você, afinal?}{}{5}{lf1 0, re -40}{28}{}
+{8}{Tenho uma pergunta.}{}{5}{lf1 1, re 41}{36}{}
+{9}{Mestre Wel' K'ene? Posso lhe fazer uma pergunta?}{}{5}{lf1 1, re 41}{36}{}
+{10}{Posso tomar um momento do seu tempo, Wel' K'ene?}{}{5}{lf1 1, re 41}{36}{}
+{11}{Humpf! ...Tenho uma pergunta... "mestre".}{}{5}{lf1 1, re -40}{36}{}
+{12}{Por favor, perdoe minha intrusão, Wel' K'ene. Posso fazer uma pergunta?}{}{5}{lf1 1, re -40}{36}{re+2}
+{13}{Posso tomar um momento do seu tempo, Wel' K'ene?}{}{5}{lf1 1, re -40}{36}{re+1}
+{14}{Hã... Qual é o seu nome?}{}{-4}{lf1 0, re 41}{28}{}
+{15}{Hã... qual é o seu nome, malvado?}{}{-4}{lf1 0, re -40}{28}{}
+{16}{Hã... Eu pergunto uma coisa?}{}{-4}{lf1 1, re 41}{36}{}
+{17}{Hã... eu pergunto uma coisa, malvado?}{}{-4}{lf1 1, re -40}{36}{}
+{18}{Melhorei minhas habilidades com o ar, Mestre Wel' K'ene.}{}{5}{lf4 1, sc2 5}{78}{}
+{19}{Reforcei minha aura mágica, Mestre Wel' K'ene.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
+{20}{Tenho interesse em me tornar um mestre do ar.}{}{5}{lf6 1, gf2411 0, ma30, lf1 1}{101}{}
+{21}{Ainda não completei o teste de maestria, Wel' K'ene.}{}{5}{LF7 1, gf2414 0}{115}{}
+{22}{Completei o teste e me tornei mestre do ar!}{}{5}{gf2414 1, lf9 0}{119}{}
+{27}{E:}{}{1}{}{0}{}
+{28}{Eu sou Wel' K'ene, Mestre do Ar.}{Eu sou Wel' K'ene, Mestre do Ar.}{}{}{}{lf1 1}
+{29}{É uma honra conhecê-lo, senhor.}{}{5}{sc2 1, sc2 -4, lf4 0}{73}{}
+{30}{É uma honra conhecê-lo, senhor.}{}{5}{sc2 5, lf5 0}{78}{}
+{31}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{sc2 0, lf3 0}{65}{}
+{32}{Por favor, explique-me o Colégio do Ar.}{}{5}{sc2 0, lf2 0}{57}{}
+{33}{O quê? Ar?}{}{-4}{sc2 0, lf2 0}{57}{}
+{34}{Você acha que a teknawlugia te prejudica?}{}{-4}{sc2 0, lf3 0}{65}{}
+{35}{E:}{}{1}{sc2 0}{0}{}
+{36}{Certamente. O que deseja?}{Certamente. O que deseja?}{}{}{}{}
+{37}{Melhorei minhas habilidades com o ar, Mestre Wel' K'ene.}{}{5}{lf4 1, sc2 5}{78}{}
+{38}{Reforcei minha aura mágica, Mestre Wel' K'ene.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
+{39}{Tenho interesse em me tornar um mestre do ar.}{}{5}{gf2411 0, ma30}{101}{}
+{40}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
+{41}{Por favor, explique-me o Colégio do Ar.}{}{5}{lf2 0}{57}{}
+{42}{O quê? Ar?}{}{-4}{lf2 0}{57}{}
+{43}{Você acha que a teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
+{44}{F:}{}{1}{}{0}{}
+{45}{E:}{}{1}{}{0}{}
+{46}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{}
+{47}{Melhorei minhas habilidades com o ar, Mestre Wel' K'ene.}{}{5}{lf4 1, sc2 5}{78}{}
+{48}{Reforcei minha aura mágica, Mestre Wel' K'ene.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
+{49}{Tenho interesse em me tornar um mestre do ar.}{}{5}{gf2411 0, ma30}{101}{}
+{50}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
+{51}{Por favor, explique-me o Colégio do Ar.}{}{5}{lf2 0}{57}{}
+{52}{Não. Obrigado pelo seu tempo.}{}{5}{}{0}{}
+{53}{O quê? Ar?}{}{-4}{lf2 0}{57}{}
+{54}{Você acha que a teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
+{55}{Não. Obrigado.}{}{-4}{}{0}{}
+{56}{E:}{}{1}{}{0}{}
+{57}{O elemento do ar nos cerca a todo momento. Ele é invisível, porém a força mais impressionante da natureza. Para controlar os ventos, é preciso ser um excelente estudante, manter-se altamente focado e sempre respeitar o poder que se manipula à sua vontade.}{O elemento do ar nos cerca a todo momento. Ele é invisível, porém a força mais impressionante da natureza. Para controlar os ventos, é preciso ser um excelente estudante, manter-se altamente focado e sempre respeitar o poder que se manipula à sua vontade.}{}{}{}{lf2 1}
+{58}{Uma das mais refinadas habilidades mágicas disponíveis, na minha opinião, senhor.}{}{5}{}{46}{re+2}
+{59}{Muito interessante...}{}{5}{}{46}{}
+{60}{Tenho minhas dúvidas de que o "ar" seja a força mais impressionante da natureza...}{}{5}{ma-29}{46}{re-2}
+{61}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
+{62}{Você acha que a teknawlugia te prejudica?}{}{-4}{lf3 0}{65}{}
+{63}{Hã... tá bom. Valeu.}{}{-4}{}{0}{}
+{64}{E:}{}{1}{}{0}{}
+{65}{Não vi equivalente tecnológico capaz de rivalizar com o poder do ar. Ameaçado? Nem um pouco. Tenho pena do homem comum. Ele está sendo enganado por charlatães que exibem truques tão básicos e sem substância.}{Não vi equivalente tecnológico capaz de rivalizar com o poder do ar. Ameaçado? Nem um pouco. Tenho pena do homem comum. Ele está sendo enganado por charlatães que exibem truques tão básicos e sem substância.}{}{}{}{lf3 1}
+{66}{Sim. Entendo o que quer dizer, Mestre Wel' K'ene, muito perspicaz.}{}{5}{}{46}{re+3}
+{67}{Duvido que as massas precisem da sua pena, mago.}{}{5}{ma-29}{46}{re-3}
+{68}{Hmm... Uma opinião interessante. Obrigado por compartilhá-la comigo.}{}{5}{}{46}{}
+{69}{Por favor, explique-me o Colégio do Ar.}{}{5}{lf2 0}{57}{}
+{70}{Quê? Ar?}{}{-4}{lf2 0}{57}{}
+{71}{Hã... tá bom. Valeu.}{}{-4}{}{0}{}
+{72}{E:}{}{1}{}{0}{}
+{73}{Ahh... Sinto que você estudou o elemento do ar. Uma excelente escolha de estudos, senhor. Eu também tenho a honra de conhecê-lo, @pcname@.}{Ahh... Sinto que você estudou o elemento do ar. Uma excelente escolha de estudos, senhora. Eu também tenho a honra de conhecê-la, @pcname@.}{}{}{}{lf4 1}
+{74}{Obrigado. Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
+{75}{Obrigado, senhor. Poderia me explicar um pouco mais sobre o ar?}{}{5}{lf2 0}{57}{}
+{76}{Obrigado, mestre.}{}{5}{}{0}{}
+{77}{E:}{}{1}{}{0}{}
+{78}{Vejo que você se tornou hábil em todas as áreas do ar. Ofereço minhas congratulações. Tenho certeza de que está bastante orgulhoso do poder sob seu comando. Achou difícil se tornar proficiente em invocar um elemental do ar?}{Vejo que você se tornou hábil em todas as áreas do ar. Ofereço minhas congratulações. Tenho certeza de que está bastante orgulhoso do poder sob seu comando. Achou difícil se tornar proficiente em invocar um elemental do ar?}{}{}{}{lf5 1}
+{79}{Fui um talento natural, senhor.}{}{5}{gf2411 0, ma 30}{95}{}
+{80}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 0, ma 30}{95}{}
+{81}{Extremamente difícil, senhor. Porém, minha perseverança valeu a pena.}{}{5}{gf2411 0, ma 30}{95}{}
+{82}{Fui um talento natural, senhor.}{}{5}{gf2411 0, ma -29}{89}{}
+{83}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 0, ma -29}{89}{}
+{84}{Extremamente difícil, senhor. Porém, minha perseverança valeu a pena.}{}{5}{gf2411 0, ma -29}{89}{}
+{85}{Fui um talento natural, senhor.}{}{5}{gf2411 1}{46}{}
+{86}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 1}{46}{}
+{87}{Extremamente difícil, senhor. Porém, minha perseverança valeu a pena.}{}{5}{gf2411 1}{46}{}
+{88}{E:}{}{1}{}{0}{}
+{89}{Você teve sucesso em todos os aspectos do ar, mas sua aura mágica parece fraca. Receio que tenha sido contaminado pela tecnologia. Uma pena... caso algum dia aumente suas habilidades mágicas, volte a me procurar. Talvez eu tenha uma oferta para lhe apresentar.}{Você teve sucesso em todos os aspectos do ar, mas sua aura mágica parece fraca. Receio que tenha sido contaminado pela tecnologia. Uma pena... caso algum dia aumente suas habilidades mágicas, volte a me procurar. Talvez eu tenha uma oferta para lhe apresentar.}{}{}{}{}
+{90}{Você se sente ameaçado pelo avanço da tecnologia?}{}{5}{lf3 0}{65}{}
+{91}{Prefiro trilhar um caminho equilibrado entre os dois.}{}{5}{}{46}{re-2}
+{92}{Acredito que a tecnologia se tornará o pilar principal, com o tempo.}{}{5}{}{46}{re-5}
+{93}{Estou trabalhando para melhorar minhas habilidades mágicas, senhor.}{}{5}{}{46}{re+5}
+{94}{E:}{}{1}{}{0}{}
+{95}{Hmm... Você realmente possui uma aura mágica forte... Será que teria interesse em se tornar um mestre em ar?}{Hmm... Você realmente possui uma aura mágica forte... Será que teria interesse em se tornar um mestre em ar?}{}{}{}{lf61}
+{96}{Um mestre? O que é necessário para alcançar tal título?}{}{5}{}{101}{}
+{97}{O que eu preciso fazer?}{}{5}{}{101}{}
+{98}{Não neste momento, obrigado.}{}{5}{}{46}{}
+{100}{E:}{}{1}{}{0}{}
+{101}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande presente... o esforço necessário para lançar cada feitiço na escola de maestria é grandemente reduzido! ...Você está interessado em tentar o teste?}{Para se tornar mestre, você deve primeiro passar por um teste difícil e perigoso. Aqueles que têm sucesso são recompensados com um grande presente... o esforço necessário para lançar cada feitiço na escola de maestria é grandemente reduzido! ...Você está interessado em tentar o teste?}{}{}{}{}
+{102}{Sim, tenho, senhor.}{}{5}{}{106}{}
+{103}{Sim.}{}{5}{}{106}{}
+{104}{Não neste momento, obrigado.}{}{5}{}{46}{}
+{105}{E:}{}{1}{}{0}{}
+{106}{Devo adverti-lo, porém... Você só poderá obter maestria em um Colégio de Magia. Deseja dominar o Colégio do Ar acima de todos os outros?}{Devo adverti-lo, porém... Você só poderá obter maestria em um Colégio de Magia. Deseja dominar o Colégio do Ar acima de todos os outros?}{}{}{}{}
+{107}{Sim, eu gostaria.}{}{5}{}{111}{}
+{108}{Vou pensar a respeito.}{}{5}{}{46}{}
+{109}{Não neste momento, obrigado.}{}{5}{}{46}{}
+{110}{E:}{}{1}{}{0}{}
+{111}{Uma excelente escolha. Aqui. [Ele retira o medalhão do pescoço.] Pegue este medalhão. Quando estiver preparado para enfrentar seu teste, coloque-o e prossiga pelo portal localizado no centro deste salão. Isso iniciará seu teste. Desejo-lhe sorte, @pcname@.}{Uma excelente escolha. Aqui. [Ele retira o medalhão de seu pescoço.] Pegue este medalhão. Quando estiver preparado para enfrentar sua prova, coloque-o e avance pelo portal localizado no centro deste salão. Isso dará início ao seu teste. Desejo-lhe sorte, @pcname@.}{}{}{}{in-2834, lf7 1, gf2411 1}
+{112}{Obrigado.}{}{5}{}{0}{}
+{113}{A:}{}{5}{}{0}{}
+{114}{E:}{}{5}{}{0}{}
+{115}{Sim... Às vezes, é difícil preparar-se para uma provação como essa. Quando se sentir devidamente preparado, avance pelos arcos localizados no coração de Tulla. Lembre-se, você deve estar usando o medalhão que criei para você para iniciar o teste.}{Sim... Às vezes, é difícil preparar-se para uma provação como essa. Quando se sentir devidamente preparado, avance pelos arcos localizados no coração de Tulla. Lembre-se, você deve estar usando o medalhão que criei para você para iniciar o teste.}{}{}{}{}
+{116}{Vou completar meus preparativos e realizar o teste. Adeus.}{}{5}{}{0}{}
+{117}{Vou me tornar um mestre! Adeus.}{}{5}{}{0}{}
+{118}{E:}{}{5}{}{0}{}
+{119}{Muito bem! Realmente muito bem, @pcname@! Pouquíssimos tiveram a honra de receber meus parabéns por tal conquista. Você verá que sua força em nosso colégio aumentou em dobro. Assim, sentirá metade do esforço ao lançar um feitiço. Mais uma vez, meus parabéns.}{Muito bem! Realmente muito bem, @pcname@! Pouquíssimos tiveram a honra de receber meus parabéns por tal conquista. Você verá que sua força em nosso colégio aumentou em dobro. Assim, sentirá metade do esforço ao lançar um feitiço. Mais uma vez, meus parabéns.}{}{}{}{lf9 1}
+{120}{Obrigado, mestre.}{}{5}{}{0}{}
+{121}{Obrigado, Wel' K'ene. Posso lhe perguntar mais uma coisa?}{}{5}{}{46}{}
+{122}{E:}{}{5}{}{0}{}
+

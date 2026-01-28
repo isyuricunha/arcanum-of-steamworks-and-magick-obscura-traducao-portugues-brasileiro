@@ -1,0 +1,479 @@
+{1}{Em nome de Nasrudin, eu lhe dou as boas-vindas, meu amigo. Como posso ajudá-lo hoje?}{Em nome de Nasrudin, eu lhe dou as boas-vindas, meu amigo. Como posso ajudá-lo hoje?}{}{}{}{}
+{2}{Olá. Posso perguntar quem é você?}{}{5}{lf1 0, lf11 0}{10}{lf1 1}
+{3}{Olá, Alexander. Tem tempo para algumas perguntas...?}{}{5}{lf1 1, lf8 0, lf11 0}{20}{}
+{4}{Olá, Alexander. Tem tempo para algumas perguntas...?}{}{5}{lf1 1, lf8 1, lf11 0}{30}{}
+{5}{Olá, Alexander. Tem tempo para algumas perguntas...?}{}{5}{lf11 1}{20}{}
+{6}{Oi! Eu não muito esperto... quem você?}{}{-4}{lf1 0}{480}{lf1 1}
+{7}{Olá, 'Zander. Tem perguntas!}{}{-4}{lf1 1}{485}{}
+{10}{Claro. Sou Alexander, Alto Acólito aqui no Primeiro Templo Panarii. [O homem à frente é alto e largo, com traços angulosos e planos, sobrancelhas grossas e olhos bondosos. Suas mãos são enormes e cheias de calos - sob as vestes, antebraços marcados por cicatrizes, como os de um guerreiro.]}{Claro. Sou Alexander, Alto Acólito aqui no Primeiro Templo Panarii. [O homem à frente é alto e largo, com traços angulosos e planos, sobrancelhas grossas e olhos bondosos. Suas mãos são enormes e cheias de calos - sob as vestes, antebraços marcados por cicatrizes, como os de um guerreiro.]}{}{}{}{}
+{11}{Saudações, Alexander. Posso lhe fazer algumas perguntas?}{}{5}{}{20}{}
+{20}{Claro...}{Claro...}{}{}{}{}
+{21}{O que pode me contar sobre a Igreja Panarii?}{}{5}{gf2020 0}{48}{}
+{22}{Onde eu poderia ver uma cópia do Archaeon?}{}{5}{lf5 1, gf2020 0}{278}{}
+{23}{Com quem mais eu poderia falar sobre a história dos Panarii?}{}{5}{gf2020 0}{40}{}
+{24}{Tenho descoberto algumas coisas estranhas, Alexander...}{}{5}{gf2020 0, gf2040 1, gf2029 0}{314}{}
+{25}{Tenho algo muito importante para lhe contar, Alexander.}{}{5}{gf2020 1, gf2029 0}{372}{}
+{26}{Tenho algo muito importante para lhe contar, Alexander.}{}{5}{gf2029 1, gf2036 1, gf2020 0, lf13 0}{396}{lf13 1}
+{27}{Tenho descoberto algumas coisas estranhas, Alexander...}{}{5}{gf2029 1, gf2036 1, gf2020 0, gf2040 1}{314}{}
+{28}{Encontrei a prova que você queria, Alexander...}{}{5}{gf2029 1, gf2036 1, gf2020 1}{416}{}
+{29}{E:}{}{5}{}{0}{}
+{30}{Claro, venerável... vivo para servir...}{Claro, venerável... vivo para servir...}{}{}{}{}
+{31}{O que pode me contar sobre a Igreja Panarii?}{}{5}{gf2020 0}{48}{}
+{32}{Onde eu poderia ver uma cópia do Archaeon?}{}{5}{lf5 1, gf2020 0}{278}{}
+{33}{Com quem mais eu poderia falar sobre a história dos Panarii?}{}{5}{gf2020 0}{40}{}
+{34}{Tenho descoberto algumas coisas estranhas, Alexander...}{}{5}{gf2020 0, gf2040 1, gf2029 0}{314}{}
+{35}{Tenho algo muito importante para lhe contar, Alexander.}{}{5}{gf2020 1, gf2029 0}{358}{}
+{36}{Tenho algo muito importante para lhe contar, Alexander.}{}{5}{gf2029 1, gf2036 1, gf2020 0, lf13 0}{396}{lf13 1}
+{37}{Tenho descoberto algumas coisas estranhas, Alexander...}{}{5}{gf2029 1, gf2036 1, gf2020 0, gf2040 1}{314}{}
+{38}{Encontrei a prova que você queria, Alexander...}{}{5}{gf2029 1, gf2036 1, gf2020 1}{416}{}
+{39}{E:}{}{5}{}{0}{}
+{40}{Há muitos estudiosos aqui no Primeiro Templo dos Panarii. Os dois mais eruditos são Hadrian, o arqueólogo da igreja, e Gunther Willhelm, o historiador da igreja. Ambos são profundamente versados na história dos Panarii e possuem informações detalhadas sobre suas disciplinas específicas...}{Há muitos estudiosos aqui no Primeiro Templo dos Panarii. Os dois mais eruditos são Hadrian, o arqueólogo da igreja, e Gunther Willhelm, o historiador da igreja. Ambos são profundamente versados na história dos Panarii e possuem informações detalhadas sobre suas disciplinas específicas...}{}{}{}{ru 2060}
+{41}{Onde eu poderia encontrá-los, Alexander?}{}{5}{}{43}{}
+{43}{Cada um deles tem escritórios logo após as portas atrás de mim. Quando terminarmos de conversar, eu abrirei as portas para você.}{Cada um deles tem escritórios logo após as portas atrás de mim. Quando terminarmos de conversar, eu abrirei as portas para você.}{}{}{}{gf2087 1}
+{44}{Vou investigar isso. Mais algumas perguntas...?}{}{5}{lf8 0}{20}{}
+{45}{Vou investigar isso. Mais algumas perguntas...?}{}{5}{lf8 1}{30}{}
+{46}{E:}{}{5}{}{0}{}
+{48}{O que você gostaria de saber?}{O que você gostaria de saber?}{}{}{}{}
+{49}{No que os Panarii acreditam?}{}{5}{}{82}{}
+{50}{O que você pode me contar sobre Nasrudin?}{}{5}{}{89}{}
+{51}{Tenho algumas perguntas sobre Arronax?}{}{5}{}{423}{}
+{52}{Mais algumas perguntas gerais...}{}{5}{}{20}{}
+{56}{Essa é uma estátua de São Mannox, um dos primeiros fundadores da igreja.}{Essa é uma estátua de São Mannox, um dos primeiros fundadores da igreja.}{}{}{}{ru 2063}
+{57}{Qual a importância de São Mannox?}{}{5}{}{59}{}
+{59}{São Mannox foi um homem muito, muito santo. Há muitos milagres atribuídos a ele, e a maioria deles está bem documentada. Há um talismã associado a ele no escritório de arqueologia, se você se interessar por esse tipo de coisa...}{São Mannox foi um homem muito, muito santo. Há muitos milagres atribuídos a ele, e a maioria deles está bem documentada. Há um talismã associado a ele no escritório de arqueologia, se você se interessar por esse tipo de coisa...}{}{}{}{}
+{60}{Espere... o que você quer dizer com sua 'ascensão'?}{}{5}{}{64}{}
+{61}{Vou fazer isso. Mais algumas perguntas sobre a igreja...}{}{5}{}{48}{}
+{62}{E:}{}{5}{}{0}{}
+{64}{A lenda conta que São Mannox foi visitado pelo espírito do próprio Nasrudin, e que Nasrudin o considerou tão santo que levou seu corpo diretamente deste plano de existência para o próximo. Isso só aconteceu uma vez em toda a nossa história, e por isso o lembramos. [Alexander assume um olhar estranho, distante. Orgulho? E um pouco de tristeza, parece...]}{A lenda conta que São Mannox foi visitado pelo espírito do próprio Nasrudin, e que Nasrudin o considerou tão santo que levou seu corpo diretamente deste plano de existência para o próximo. Isso só aconteceu uma vez em toda a nossa história, e por isso o lembramos. [Alexander assume um olhar estranho, distante. Orgulho? E um pouco de tristeza, parece...]}{}{}{}{gf2022 1, ru 2064}
+{65}{Alguém realmente viu isso acontecer?}{}{5}{}{69}{}
+{66}{Isso é interessante. Mais algumas perguntas sobre a igreja...}{}{5}{}{48}{}
+{67}{E:}{}{5}{}{0}{}
+{69}{Há confissões assinadas por dois dos elfos de alto escalão da igreja na época. Ambos descreveram a ascensão de São Mannox com belos detalhes. Você pode falar com Gunther Willhelm sobre isso, se quiser. Ele é o historiador da igreja, além de ser o mais erudito entre nós nos ensinamentos e profecias do Archaeon...}{Há confissões assinadas por dois dos elfos de alto escalão da igreja na época. Ambos descreveram a ascensão de São Mannox com belos detalhes. Você pode falar com Gunther Willhelm sobre isso, se quiser. Ele é o historiador da igreja, além de ser o mais erudito entre nós nos ensinamentos e profecias do Archaeon...}{}{}{}{gf2025 1}
+{70}{Talvez eu faça isso. Mais algumas perguntas sobre a igreja...}{}{5}{}{48}{}
+{71}{E:}{}{5}{}{0}{}
+{73}{A igreja foi fundada logo após a morte de Nasrudin. Veja bem, Nasrudin é visto como nosso salvador... ele defendeu Arcanum contra a loucura de Arronax e, através de sua coragem e sabedoria, trouxe uma nova era iluminada. Se ele não tivesse tido sucesso, todas as raças que não fossem élficas seriam escravas...}{A igreja foi fundada logo após a morte de Nasrudin. Veja bem, Nasrudin é visto como nosso salvador... ele defendeu Arcanum contra a loucura de Arronax e, através de sua coragem e sabedoria, trouxe uma nova era iluminada. Se ele não tivesse tido sucesso, todas as raças que não fossem élficas seriam escravas...}{}{}{}{}
+{74}{E quem começou a igreja?}{}{5}{}{76}{}
+{76}{Muitos dos primeiros registros da igreja foram destruídos, mas os que ainda sobrevivem indicam que a igreja Panarii foi iniciada pelos elfos, e mais tarde eles foram acompanhados pelos humanos. Somos uma congregação aberta... damos boas-vindas a todos em nossa membresia. Afinal, Nasrudin defendeu TODOS nós em sua batalha contra Arronax - não seremos diferentes dele...}{Muitos dos primeiros registros da igreja foram destruídos, mas aqueles que ainda sobrevivem indicam que a igreja Panarii foi fundada pelos elfos, e mais tarde os humanos se juntaram a eles. Somos uma congregação aberta... acolhemos a todos em nossa membresia. Afinal, Nasrudin nos defendeu a TODOS em sua batalha contra Arronax-não seremos diferentes dele...}{}{}{}{}
+{77}{Entendo. Mais algumas perguntas sobre a igreja...}{}{5}{}{48}{}
+{78}{Você mencionou Nasrudin?}{}{5}{}{89}{}
+{79}{E:}{}{5}{}{0}{}
+{82}{Os Panarii e suas crenças são centrados na vida e nos ensinamentos de Nasrudin. Durante sua vida, e nos anos desde sua morte, muito foi escrito sobre ele por aqueles que o conheceram, bem como por homens eruditos que estudaram sua vida.}{Os Panarii e suas crenças são centrados na vida e nos ensinamentos de Nasrudin. Durante sua vida, e nos anos desde sua morte, muito foi escrito sobre ele por aqueles que o conheceram, bem como por homens eruditos que estudaram sua vida.}{}{}{}{}
+{83}{O que você pode me dizer sobre Nasrudin?}{}{5}{}{89}{}
+{84}{Há uma estátua no pátio... o que pode me contar sobre ela?}{}{5}{}{56}{}
+{85}{Como a Igreja foi fundada?}{}{5}{}{73}{}
+{86}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{87}{E:}{}{5}{}{0}{}
+{89}{O que gostaria de saber sobre ele?}{O que gostaria de saber sobre ele?}{}{}{}{}
+{90}{Quem era ele?}{}{5}{}{165}{}
+{91}{Onde ele está agora?}{}{5}{lf2 0}{178}{}
+{92}{Como ele morreu?}{}{5}{lf2 1}{182}{}
+{93}{Onde estão seus restos mortais?}{}{5}{lf2 1}{195}{}
+{94}{E quanto aos ensinamentos de Nasrudin...?}{}{5}{}{97}{}
+{95}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{97}{O que gostaria de saber sobre eles?}{O que gostaria de saber sobre eles?}{}{}{}{}
+{98}{Existem escrituras que vocês estudam?}{}{5}{lf5 0}{153}{}
+{99}{Conte-me novamente sobre o Archaeon...}{}{5}{lf5 1}{153}{}
+{100}{Qual é a essência dos ensinamentos de Nasrudin?}{}{5}{}{104}{}
+{101}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{102}{E:}{}{5}{}{0}{}
+{104}{Nasrudin era um fervoroso seguidor da filosofia élfica. Os elfos acreditam que todos e tudo têm seu lugar legítimo no mundo... que esta realidade é formada pela experiência combinada de todas as formas de vida. O bem e o mal raramente têm papel na forma como os elfos veem o mundo...}{Nasrudin era um fervoroso seguidor da filosofia élfica. Os elfos acreditam que todos e tudo têm seu lugar legítimo no mundo... que esta realidade é formada pela experiência combinada de todas as formas de vida. O bem e o mal raramente têm papel na forma como os elfos veem o mundo...}{}{}{}{}
+{105}{O que poderia ser considerado mal?}{}{5}{}{111}{}
+{106}{Existem escrituras que vocês estudam?}{}{5}{lf5 0}{153}{}
+{107}{Conte-me novamente sobre o Archaeon...}{}{5}{lf5 1}{153}{}
+{108}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{109}{E:}{}{5}{}{0}{}
+{111}{O mal, em termos mais básicos, pode ser descrito como algo que impede o progresso da ordem natural. Suponho que seja uma área cinzenta, mas você poderia dizer que o mal é qualquer coisa diametralmente oposta à filosofia élfica...}{O mal, em termos mais básicos, pode ser descrito como algo que impede o progresso da ordem natural. Suponho que seja uma área cinzenta, mas você poderia dizer que o mal é qualquer coisa diametralmente oposta à filosofia élfica...}{}{}{}{}
+{112}{Ao que eu poderia dizer... até MESMO essas coisas têm seu lugar...}{}{5}{}{114}{}
+{114}{[Alexander sorri.] Dizem que debates filosóficos élficos isolados já duraram literalmente décadas. Dá para entender o porquê...}{[Alexander sorri.] Dizem que debates filosóficos élficos isolados já duraram literalmente décadas. Dá para entender o porquê...}{}{}{}{}
+{115}{A filosofia Élfica e Anã são muito diferentes...}{}{5}{gf1051 1, lf4 0}{121}{lf4 1}
+{116}{Existem escrituras que vocês estudam?}{}{5}{lf5 0}{153}{}
+{117}{Conte-me novamente sobre o Archaeon...}{}{5}{lf5 1}{153}{}
+{118}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{119}{E:}{}{5}{}{0}{}
+{121}{Ah, você conhece a filosofia anã?}{Ah, você conhece a filosofia anã?}{}{}{}{}
+{122}{Eu discuti longamente sobre a Pedra e a Forma...}{}{5}{}{124}{}
+{124}{[Ele lhe lança um olhar avaliador, claramente impressionado.] Poucos forasteiros conseguem falar sobre essas coisas... diga-me, meu amigo, qual você vê como a principal diferença entre as duas...?}{[Ele lhe lança um olhar avaliador, claramente impressionado.] Poucos forasteiros conseguem falar sobre essas coisas... diga-me, meu amigo, qual você vê como a principal diferença entre as duas...?}{}{}{}{}
+{125}{Solidez versus imaterialidade...}{}{5}{}{131}{}
+{126}{É apenas uma questão de magia e tecnologia...}{}{5}{}{131}{}
+{127}{O mundo Anão é interno; os Elfos vivem fora de si mesmos.}{}{5}{}{139}{re +10}
+{128}{Acho a discussão inútil. Ambos os lados estão equivocados.}{}{5}{}{131}{}
+{129}{E:}{}{5}{}{0}{}
+{131}{Um ponto de vista interessante, mas, na minha opinião, claro, um tanto superficial. Talvez você devesse vir conosco e estudar por um tempo...}{Um ponto de vista interessante, mas, na minha opinião, claro, um tanto superficial. Talvez você devesse vir conosco e estudar por um tempo...}{}{}{}{}
+{132}{Acho sua resposta ofensiva. Um pedido de desculpas é necessário...}{}{5}{}{146}{re -5}
+{133}{Sinto muito que pense assim. Algumas perguntas gerais sobre Nasrudin...}{}{5}{}{89}{}
+{134}{Existem escrituras que vocês estudam?}{}{5}{lf5 0}{153}{}
+{135}{Conte-me novamente sobre o Archaeon...}{}{5}{lf5 1}{153}{}
+{136}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{137}{E:}{}{5}{}{0}{}
+{139}{[Os olhos de Alexander se arregalam.] Você demonstrou aqui uma sabedoria que desmente sua idade, meu amigo. Você me ensinou algo hoje que eu não sabia. Por isso, estou em dívida com você. [Ele inclina a cabeça.]}{[Os olhos de Alexander se arregalam.] Você demonstrou aqui uma sabedoria que desmente sua idade, meu amigo. Você me ensinou algo hoje que eu não sabia. Por isso, estou em dívida com você. [Ele inclina a cabeça.]}{}{}{}{}
+{140}{Fico feliz em ter sido útil. Sobre Nasrudin...}{}{5}{}{89}{}
+{141}{Existem escrituras que vocês estudam?}{}{5}{lf5 0}{153}{}
+{142}{Conte-me novamente sobre o Archaeon...}{}{5}{lf5 1}{153}{}
+{143}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{144}{E:}{}{5}{}{0}{}
+{146}{Claro... não tive intenção de ofender. Minhas desculpas. [Ele faz uma leve reverência.] Achei que estávamos tendo uma discussão entre iguais...}{Claro... não tive intenção de ofender. Minhas desculpas. [Ele faz uma leve reverência.] Achei que estávamos tendo uma discussão entre iguais...}{}{}{}{}
+{147}{Pedido de desculpas aceito. Algumas perguntas gerais sobre Nasrudin...}{}{5}{}{89}{}
+{148}{Existem escrituras que vocês estudam?}{}{5}{lf5 0}{153}{}
+{149}{Conte-me novamente sobre o Archaeon...}{}{5}{lf5 1}{153}{}
+{150}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{151}{E:}{}{5}{}{0}{}
+{153}{Há muitos escritos que estudamos, mas o livro mais importante da religião Panarii é o Archaeon. É uma coletânea do que são consideradas as mais representativas ensinamentos de Nasrudin, além de algumas profecias feitas nos primeiros anos após sua morte...}{Há muitos escritos que estudamos, mas o livro mais importante da religião Panarii é o Archaeon. É uma coletânea do que são consideradas as mais representativas ensinamentos de Nasrudin, além de algumas profecias feitas nos primeiros anos após sua morte...}{}{}{}{lf5 1}
+{154}{Onde eu poderia ver uma cópia do Archaeon?}{}{5}{}{160}{}
+{155}{Quais são algumas de suas profecias?}{}{5}{}{267}{}
+{156}{Mais algumas perguntas sobre Nasrudin...}{}{5}{}{89}{}
+{157}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{158}{E:}{}{5}{}{0}{}
+{160}{O Archaeon? Está logo ali... o grande livro sobre o pedestal. Sinta-se à vontade para folhear suas páginas e absorver a sabedoria que houver para ser encontrada. Se quiser discutir algo que ache confuso ou obscuro, ficarei feliz em ajudá-lo...}{O Archaeon? Está logo ali... o grande livro sobre o pedestal. Sinta-se à vontade para folhear suas páginas e absorver a sabedoria que houver para ser encontrada. Se quiser discutir algo que ache confuso ou obscuro, ficarei feliz em ajudá-lo...}{}{}{}{ru 2065}
+{161}{Obrigado, Alexander. Mais algumas perguntas sobre Nasrudin...}{}{5}{}{89}{}
+{162}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{163}{E:}{}{5}{}{0}{}
+{165}{Nasrudin foi um elfo muito poderoso e sábio que viveu durante a Era das Lendas. Como líder do Conselho Élfico, Nasrudin era tanto o líder físico quanto espiritual de todas as terras de Arcanum. Por 1000 anos, ele governou o conselho, e a terra prosperou, e tudo estava bem...}{Nasrudin foi um elfo muito poderoso e sábio que viveu durante a Era das Lendas. Como líder do Conselho Élfico, Nasrudin era tanto o líder físico quanto espiritual de todas as terras de Arcanum. Por 1000 anos, ele governou o conselho, e a terra prosperou, e tudo estava bem...}{}{}{}{}
+{166}{O que aconteceu?}{}{5}{}{172}{}
+{167}{O que era o Conselho Élfico?}{}{5}{}{261}{}
+{168}{Você disse antes que ele partiu... ele está morto?}{}{5}{}{182}{lf2 1}
+{169}{O que foi a Era das Lendas?}{}{5}{}{255}{}
+{170}{E:}{}{5}{}{0}{}
+{172}{A chegada de Arronax anunciou o fim de uma era para Arcanum-desde o desmantelamento do Conselho Élfico até a morte de nosso amado Nasrudin...}{A chegada de Arronax anunciou o fim de uma era para Arcanum-desde o desmantelamento do Conselho Élfico até a morte de nosso amado Nasrudin...}{}{}{}{}
+{173}{Quem era esse tal de Arronax?}{}{5}{}{208}{}
+{174}{Como Nasrudin morreu?}{}{5}{}{182}{lf2 1}
+{175}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{176}{E:}{}{5}{}{0}{}
+{178}{Nasrudin está morto há mais de 2000 anos...}{Nasrudin está morto há mais de 2000 anos...}{}{}{}{}
+{179}{Como ele morreu?}{}{5}{}{182}{}
+{180}{}{}{}{}{}{}
+{182}{Nasrudin morreu depois que ele e o conselho baniram Arronax no Anel de Brodgar. Nasrudin foi mortalmente ferido na batalha que precedeu o banimento e morreu pouco depois...}{Nasrudin morreu depois que ele e o conselho baniram Arronax no Anel de Brodgar. Nasrudin foi mortalmente ferido na batalha que precedeu o banimento e morreu pouco depois...}{}{}{}{}
+{183}{Onde ele morreu?}{}{5}{}{189}{}
+{184}{Quem era esse tal de Arronax?}{}{5}{}{208}{}
+{185}{Você disse que Arronax foi banido. O que isso significa?}{}{5}{}{221}{}
+{186}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{187}{E:}{}{5}{}{0}{}
+{189}{Segundo o Arquêon, "...Nasrudin viajou até a ponta mais ao sul da terra e lá se deitou para descansar." É por isso que estamos aqui... este templo foi construído sobre seus restos mortais...}{Segundo o Arquêon, "...Nasrudin viajou até a ponta mais ao sul da terra e lá se deitou para descansar." É por isso que estamos aqui... este templo foi construído sobre seus restos mortais...}{}{}{}{gf2021 1}
+{190}{Ah, é? E onde eu poderia encontrar esses restos?}{}{5}{}{195}{}
+{191}{O que é o Arquêon...?}{}{5}{lf5 0}{153}{}
+{192}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{193}{E:}{}{5}{}{0}{}
+{195}{Os restos de Nasrudin estão logo abaixo de nós, nas catacumbas inferiores. Há uma escadaria, através das portas atrás de mim. Ela leva até a câmara mortuária e o sarcófago onde ele está encerrado. Infelizmente, apenas os anciãos da igreja e peregrinos têm permissão para ver os restos...}{Os restos de Nasrudin estão logo abaixo de nós, nas catacumbas inferiores. Há uma escadaria, através das portas atrás de mim. Ela leva até a câmara mortuária e o sarcófago onde ele está encerrado. Infelizmente, apenas os anciãos da igreja e peregrinos têm permissão para ver os restos...}{}{}{}{ru 2059}
+{196}{Tenho mais algumas perguntas sobre Nasrudin...}{}{5}{}{89}{}
+{197}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{198}{E:}{}{5}{}{0}{}
+{208}{Arronax era um elfo no Conselho Élfico original, durante a Era das Lendas. Segundo os registros históricos, Arronax era um elfo muito maligno... ele tinha interesses pessoais em controlar o conselho e usá-lo para seus próprios fins sombrios. Arronax acreditava que não apenas os elfos deveriam governar, mas que deveriam subjugar as outras raças. Nasrudin veio em nossa defesa...}{Arronax era um elfo no Conselho Élfico original, durante a Era das Lendas. Segundo os registros históricos, Arronax era um elfo muito maligno... ele tinha interesses pessoais em controlar o conselho e usá-lo para seus próprios fins sombrios. Arronax acreditava que não apenas os elfos deveriam governar, mas que deveriam subjugar as outras raças. Nasrudin veio em nossa defesa...}{}{}{}{}
+{209}{Onde ele está agora?}{}{5}{lf3 0}{216}{lf3 1}
+{210}{O que era o Conselho Élfico?}{}{5}{}{261}{}
+{211}{O que você quer dizer com a 'Era das Lendas'?}{}{5}{}{255}{}
+{212}{O que significa dizer que Arronax foi banido?}{}{5}{lf3 1}{221}{}
+{213}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{214}{E:}{}{5}{}{0}{}
+{216}{Arronax foi banido por Nasrudin e pelo Conselho após uma grande batalha perto do Anel de Brodgar. Arronax havia declarado guerra contra o conselho... especula-se que ele tentou tomar o controle do conselho de Nasrudin para seus próprios propósitos. Nasrudin morreu devido aos ferimentos que recebeu naquela batalha...}{Arronax foi banido por Nasrudin e pelo Conselho após uma grande batalha perto do Anel de Brodgar. Arronax havia declarado guerra contra o conselho... especula-se que ele tentou tomar o controle do conselho de Nasrudin para seus próprios propósitos. Nasrudin morreu devido aos ferimentos que recebeu naquela batalha...}{}{}{}{}
+{217}{Você diz que ele foi 'banido'-o que isso significa?}{}{5}{}{221}{}
+{218}{Mais algumas perguntas sobre Arronax...}{}{5}{}{423}{}
+{219}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{220}{E:}{}{5}{}{0}{}
+{221}{Quando alguém é banido, é enviado para o que é conhecido como o Vazio...}{Quando alguém é banido, é enviado para o que é conhecido como o Vazio...}{}{}{}{}
+{222}{E o Vazio? O que é isso?}{}{5}{}{224}{}
+{224}{Bem, meu amigo, isso é uma questão de algum debate. Muitos dizem que o Vazio é um lugar real... um plano de existência onde os malignos pagam por suas transgressões por toda a eternidade. Outros dizem que o Vazio é apenas um estado de não-existência... não um lugar físico. O que se sabe é que quando alguém é banido, não está mais aqui... e não pode voltar...}{Bem, meu amigo, isso é uma questão de algum debate. Muitos dizem que o Vazio é um lugar real... um plano de existência onde os malignos pagam por suas transgressões por toda a eternidade. Outros dizem que o Vazio é apenas um estado de não-existência... não um lugar real. O que se sabe é que quando alguém é banido, não está mais aqui... e não pode voltar...}{}{}{}{}
+{225}{Como isso é diferente da morte?}{}{5}{}{230}{}
+{226}{Acontece que eu sei que alguns VOLTAM do Vazio...}{}{5}{gf1096}{236}{}
+{227}{E quanto à profecia de que Arronax retornará?}{}{5}{lf6 1}{246}{}
+{228}{Alguém mais já foi banido?}{}{5}{}{431}{}
+{229}{Mais algumas perguntas sobre Arronax...}{}{5}{}{423}{}
+{230}{A morte, como provado pela magia, é às vezes um estado temporário-entidades podem ser ressuscitadas. Não há "ressurreição" do Vazio. O banimento era uma solução permanente, um castigo do mais alto grau. Isso nunca mais é feito. Há aqueles que acreditam que o conhecimento de como fazê-lo se perdeu para sempre...}{A morte, como provado pela magia, é às vezes um estado temporário-entidades podem ser ressuscitadas. Não há "ressurreição" do Vazio. O banimento era uma solução permanente, um castigo do mais alto grau. Isso nunca mais é feito. Há aqueles que acreditam que o conhecimento de como fazê-lo se perdeu para sempre...}{}{}{}{lf7 1}
+{231}{Acontece que alguns DE FATO retornam do Vazio...}{}{5}{gf1096 1, lf9 0}{236}{lf9 1}
+{232}{E quanto à profecia de que Arronax retornará?}{}{5}{lf6 1}{246}{}
+{233}{Mais algumas perguntas sobre Arronax...}{}{5}{}{423}{}
+{234}{E:}{}{5}{}{0}{}
+{236}{[Ele arqueia uma sobrancelha.] Ah, é mesmo? E como exatamente você saberia disso?}{[Ele arqueia uma sobrancelha.] Ah, é mesmo? E como exatamente você saberia disso?}{}{}{}{}
+{237}{Porque eu conversei com alguém que fez isso...}{}{5}{}{239}{}
+{239}{E quem, exatamente, fez isso?}{E quem, exatamente, fez isso?}{}{}{}{}
+{240}{É uma longa história...[Conte-a para ele.]}{}{5}{}{282}{}
+{241}{Esqueça que eu disse qualquer coisa. Mais algumas perguntas sobre Arronax...}{}{5}{}{423}{}
+{242}{Gostaria de falar sobre Nasrudin.}{}{5}{}{89}{}
+{243}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{244}{E:}{}{5}{}{0}{}
+{246}{Esse é um assunto em debate. Alguns acreditam que o "retorno" de Arronax (e de Nasrudin, nesse caso...) será realizado por meio da reencarnação... o renascimento de seus espíritos, não de suas formas físicas. Outros acreditam que todo o assunto é meramente simbólico e representa o conflito que vemos hoje entre magia e tecnologia...}{Esse é um assunto em debate. Alguns acreditam que o "retorno" de Arronax (e de Nasrudin, nesse caso...) será realizado por meio da reencarnação... o renascimento de seus espíritos, não de suas formas físicas. Outros acreditam que todo o assunto é meramente simbólico e representa o conflito que vemos hoje entre magia e tecnologia...}{}{}{}{}
+{247}{E no que VOCÊ acredita, Alexander...?}{}{5}{}{249}{}
+{249}{[Ele sorri.] Chame-me de arcaico, mas sou um firme crente em uma tradução literal das escrituras. Acredito que ambos serão encarnados e que uma guerra será travada aqui, nesta existência. Eu, por exemplo, estarei pronto para esse conflito...}{[Ele sorri.] Chame-me de arcaico, mas sou um firme crente em uma tradução literal das escrituras. Acredito que ambos serão encarnados e que uma guerra será travada aqui, nesta existência. Eu, por exemplo, estarei pronto para esse conflito...}{}{}{}{}
+{250}{Qual a diferença entre banimento e morte?}{}{5}{}{230}{}
+{251}{Mais algumas perguntas sobre Arronax...}{}{5}{}{423}{}
+{252}{Vamos voltar a falar sobre Nasrudin...}{}{5}{}{89}{}
+{253}{E:}{}{5}{}{0}{}
+{255}{A Era das Lendas refere-se a um período entre 1500 e 1000 anos atrás. O Conselho Élfico, do qual Nasrudin era o líder, era a autoridade central para todas as terras de Arcanum. É chamada de Era das Lendas porque muito do que aconteceu naquela época está envolto em mitologia e especulação... mas sabemos que a magia era MUITO prevalente na época...}{A Era das Lendas refere-se a um período entre 1500 e 1000 anos atrás. O Conselho Élfico, do qual Nasrudin era o líder, era a autoridade central para todas as terras de Arcanum. É chamada de Era das Lendas porque muito do que aconteceu naquela época está envolto em mitologia e especulação... mas sabemos que a magia era MUITO prevalente na época...}{}{}{}{}
+{256}{O que foi o Conselho Élfico?}{}{5}{}{261}{}
+{257}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{258}{E:}{}{5}{}{0}{}
+{261}{O Conselho Élfico era um grupo de elfos que governou Arcanum durante a Era das Lendas. Era composto por poderosos magos élficos... e seu líder era Nasrudin. Juntos, eles supervisionavam o bem-estar de todas as raças. O conselho foi dissolvido logo após a morte de Nasrudin. Eles sentiram que seu tempo havia passado-não cabia a NINGUÉM governar todas as raças.}{O Conselho Élfico foi um grupo de elfos que governou Arcanum durante a Era das Lendas. Era composto por poderosos magos élficos... e seu líder era Nasrudin. Juntos, eles supervisionavam o bem-estar de todas as raças. O conselho foi dissolvido logo após a morte de Nasrudin. Eles sentiram que seu tempo havia passado---não cabia a NINGUÉM governar todas as raças.}{}{}{}{}
+{262}{O que você quer dizer com a 'Era das Lendas'?}{}{5}{}{255}{}
+{263}{Quem foi Nasrudin?}{}{5}{}{165}{}
+{264}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{265}{E:}{}{5}{}{0}{}
+{267}{Há muitas profecias---as mais debatidas são aquelas que tratam do retorno de Arronax e Nasrudin...}{Há muitas profecias---as mais debatidas são aquelas que tratam do retorno de Arronax e Nasrudin...}{}{}{}{}
+{268}{E o que suas profecias dizem sobre isso?}{}{5}{}{272}{}
+{272}{Isso é o que chamamos de 'Retorno do Vivente'. E eu cito..."O espírito puro de Nasrudin renascerá em asas de fogo em colinas envoltas em névoa e lutará a batalha final contra o maligno." Veja... o retorno de Nasrudin, a quem chamaremos de 'O Vivente', será um tempo de regozijo, mas também um tempo de trevas, pois anuncia também o retorno de Arronax, 'o maligno'.}{Isso é o que chamamos de 'Retorno do Vivente'. E eu cito..."O espírito puro de Nasrudin renascerá em asas de fogo em colinas envoltas em névoa e lutará a batalha final contra o maligno." Veja... o retorno de Nasrudin, a quem chamaremos de 'O Vivente', será um tempo de regozijo, mas também um tempo de trevas, pois anuncia também o retorno de Arronax, 'o maligno'.}{}{}{}{lf6 1}
+{273}{Espere... Arronax foi banido. Achei que fosse permanente...}{}{5}{lf7 1}{246}{}
+{274}{Entendo. Mais algumas perguntas sobre Nasrudin...?}{}{5}{}{89}{}
+{275}{Mais algumas perguntas gerais sobre os Panarii...?}{}{5}{}{48}{}
+{276}{E:}{}{5}{}{0}{}
+{278}{O Arqueão? Está logo ali... o grande livro sobre o pedestal. Sinta-se à vontade para folhear suas páginas e absorver a sabedoria que encontrar. Se quiser discutir algo que ache confuso ou obscuro, ficarei feliz em ajudá-lo...}{O Arqueão? Está logo ali... o grande livro sobre o pedestal. Sinta-se à vontade para folhear suas páginas e absorver a sabedoria que encontrar. Se quiser discutir algo que ache confuso ou obscuro, ficarei feliz em ajudá-lo...}{}{}{}{}
+{279}{Vou fazer isso. Mais algumas perguntas?}{}{5}{}{20}{}
+{280}{E:}{}{5}{}{0}{}
+{282}{Então está me dizendo que você foi o único sobrevivente do acidente do IFS Zéfiro?}{Então está me dizendo que você foi o único sobrevivente do acidente do IFS Zéfiro?}{}{}{}{}
+{283}{Sim.}{}{5}{}{292}{lf8 1}
+{284}{Hã, não...}{}{5}{}{287}{}
+{285}{E:}{}{5}{}{0}{}
+{287}{[Alexander olha para você estranhamente.] Entendo. Bem, há mais alguma coisa em que eu possa ajudá-lo?}{[Alexander olha para você estranhamente.] Entendo. Bem, há mais alguma coisa em que eu possa ajudá-lo?}{}{}{}{}
+{288}{Mais algumas perguntas sobre Arronax...}{}{5}{}{423}{}
+{289}{Gostaria de falar sobre Nasrudin.}{}{5}{}{89}{}
+{290}{Mais algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{291}{E:}{}{5}{}{0}{}
+{292}{Você tem alguma ideia do que isso significa? É você! Você é o Vivente! É um milagre...!}{Você tem alguma ideia do que isso significa? É você! Você é o Vivente! É um milagre...!}{}{}{}{}
+{293}{Vamos não exagerar...}{}{5}{}{295}{}
+{295}{Exagerar? Isso é um evento astronômico! O retorno de Nasrudin! A batalha final! O fim de tudo que conhecemos e um novo começo! O mais incrível...!}{Exagerar? Isso é um evento astronômico! O retorno de Nasrudin! A batalha final! O fim de tudo que conhecemos e um novo começo! O mais incrível...!}{}{}{}{}
+{296}{Tudo bem! Eu sou o Vivente! Faça o que eu digo e cale a boca...!}{}{5}{}{298}{}
+{298}{Claro, claro... [Ele se recompõe, mas com dificuldade.] Perdoe minha empolgação, exaltado. Esperamos por você por muito tempo...}{Claro, claro... [Ele se recompõe, mas com dificuldade.] Perdoe minha empolgação, exaltado. Esperamos por você por muito tempo...}{}{}{}{}
+{299}{Vamos manter isso entre nós...}{}{5}{}{301}{}
+{301}{Claro! Mas você precisa me ouvir... fomos avisados pelo sumo sacerdote para esperar sua chegada. E ele nos disse para desprezá-lo como um impostor. Por algum motivo, ele se recusa a acreditar...}{Claro! Mas você precisa me ouvir... fomos avisados pelo sumo sacerdote para esperar sua chegada. E ele nos disse para desprezá-lo como um impostor. Por algum motivo, ele se recusa a acreditar...}{}{}{}{ru 2061}
+{302}{Posso entender a posição dele... a coisa toda é um pouco estranha...}{}{5}{}{304}{}
+{304}{[Alexander ri.] Há momentos em que todos nós achamos difícil seguir o caminho escolhido para nós. No fim... realmente importa se você era ou não era? Você parece determinado a descobrir o que aconteceu, e já cruzou caminhos com Arronax. Se você frustrar o plano dele, terá desempenhado o PAPEL do Vivo. No fim, há alguma diferença?}{[Alexander ri.] Há momentos em que todos nós achamos difícil seguir o caminho escolhido para nós. No fim... realmente importa se você era ou não era? Você parece determinado a descobrir o que aconteceu, e já cruzou caminhos com Arronax. Se você frustrar o plano dele, terá desempenhado o PAPEL do Vivo. No fim, há alguma diferença?}{}{}{}{}
+{305}{Suponho que não. Só queria que as pessoas parassem de tentar me matar.}{}{5}{}{307}{}
+{307}{Não estou preocupado. Você chegou até aqui... independentemente do que pensa, sinto que o destino escolheu um campeão digno. Agora, como posso ser útil?}{Não estou preocupado. Você chegou até aqui... independentemente do que pensa, sinto que o destino escolheu um campeão digno. Agora, como posso ser útil?}{}{}{}{}
+{308}{Sim... o que posso esperar das pessoas por aqui?}{}{5}{}{310}{}
+{310}{Você deve ter muito cuidado com quem se revela. Se falar com Hadrian, o arqueólogo, talvez não queira contar a ele - ele é um homem de grande fé, mas é velho; a crença em você virá devagar. Gunther Willhelm é um homem brilhante e aberto a novas ideias... acredito que ele o aceitará imediatamente...}{Você deve ter muito cuidado com quem se revela. Se falar com Hadrian, o arqueólogo, talvez não queira contar a ele - ele é um homem de grande fé, mas é velho; a crença em você virá devagar. Gunther Willhelm é um homem brilhante e aberto a novas ideias... acredito que ele o aceitará imediatamente...}{}{}{}{ru 2062}
+{311}{Obrigado. Eu me lembro disso. Mais algumas perguntas?}{}{5}{}{30}{}
+{312}{E:}{}{5}{}{0}{}
+{314}{Sério? Do que exatamente você está falando?}{Sério? Do que exatamente você está falando?}{}{}{}{}
+{315}{Gunther descobriu algo sobre o nome dos Panarii...}{}{5}{gf2031 1}{322}{}
+{316}{[Conte a ele o que Gunther lhe disse sobre K'an Hua.]}{}{5}{gf2032 1}{327}{}
+{317}{Eu vi o interior da cripta de Nasrudin...}{}{5}{gf2016 1}{332}{}
+{318}{Gunther encontrou outra discrepância no Archaeon...}{}{5}{gf2037 1}{354}{}
+{319}{Nenhuma por enquanto, mas tenho mais algumas perguntas gerais...}{}{5}{lf8 1}{30}{}
+{322}{[Alexander parece imperturbável.] Isso é estranho, meu amigo, mas parece algo bastante trivial... há pequenas diferenças em quase todas as traduções. Provavelmente foi apenas um erro honesto... havia mais alguma coisa?}{[Alexander parece imperturbável.] Isso é estranho, meu amigo, mas parece algo bastante trivial... há pequenas diferenças em quase todas as traduções. Provavelmente foi apenas um erro honesto...}{}{}{}{}
+{323}{Havia mais algumas coisas estranhas...}{}{5}{}{314}{}
+{324}{Não, mas tenho mais algumas perguntas gerais...}{}{5}{}{30}{}
+{325}{E:}{}{5}{}{0}{}
+{327}{[Isso parece incomodar Alexander um pouco.] Hmmm. Esse é um fato interessante. Talvez haja algo errado aqui... havia mais alguma coisa?}{[Isso parece incomodar Alexander um pouco.] Hmmm. Esse é um fato interessante. Talvez haja algo errado aqui... havia mais alguma coisa?}{}{}{}{}
+{328}{Havia mais algumas coisas estranhas...}{}{5}{}{314}{}
+{329}{Não, mas tenho mais algumas perguntas gerais...}{}{5}{}{30}{}
+{330}{E:}{}{5}{}{0}{}
+{332}{O que você encontrou?}{O que você encontrou?}{}{}{}{}
+{333}{Não tenho certeza... Preciso falar com Hadrian sobre isso primeiro...}{}{5}{gf2033 0, gf2034 0}{337}{}
+{334}{Recuperei o crânio... é humano e não élfico...}{}{5}{gf2033 1}{342}{}
+{335}{Fiz algumas observações sobre a cripta e os restos mortais.}{}{5}{gf2034 1}{348}{}
+{337}{Por favor, faça isso e volte até mim. Parece que pode haver mais coisas acontecendo aqui do que aparenta... Havia algo mais?}{Por favor, faça isso e volte até mim. Parece que pode haver mais coisas acontecendo aqui do que aparenta... Havia algo mais?}{}{}{}{}
+{338}{Vou fazer isso. Havia mais algumas coisas estranhas...}{}{5}{}{314}{}
+{339}{Não, mas tenho mais algumas perguntas gerais...}{}{5}{}{30}{}
+{340}{E:}{}{5}{}{0}{}
+{342}{[O rosto de Alexander fica duro como pedra.] Essa é uma notícia grave. Obviamente, os restos são falsos. Se descobrir o que tudo isso significa, volte até mim... Havia algo mais?}{[O rosto de Alexander fica duro como pedra.] Essa é uma notícia grave. Obviamente, os restos são falsos. Se descobrir o que tudo isso significa, volte até mim... Havia algo mais?}{}{}{}{}
+{343}{Fiz algumas observações sobre a cripta e os restos mortais.}{}{5}{gf2034 1}{348}{}
+{344}{Havia mais algumas coisas estranhas...}{}{5}{}{314}{}
+{345}{Não, mas tenho mais algumas perguntas gerais...}{}{5}{}{30}{}
+{346}{E:}{}{5}{}{0}{}
+{348}{[Os punhos de Alexander se cerram quando você lhe fala de Mannox. Você pode ver que ele mal está controlando sua raiva.] Entendo. Se descobrir o que tudo isso significa, volte até mim. Se, de fato, o sangue da minha fam... quero dizer, o sangue de Mannox foi derramado por algum plano sombrio, pode ter certeza de que haverá retribuição. Juro pela minha vida. Havia algo mais?}{[Os punhos de Alexander se cerram quando você lhe fala de Mannox. Você pode ver que ele mal está controlando sua raiva.] Entendo. Se descobrir o que tudo isso significa, volte até mim. Se, de fato, o sangue da minha fam... quero dizer, o sangue de Mannox foi derramado por algum plano sombrio, pode ter certeza de que haverá retribuição. Juro pela minha vida. Havia algo mais?}{}{}{}{}
+{349}{Recuperei o crânio... é humano e não élfico...}{}{5}{gf2033 1}{342}{}
+{350}{Havia mais algumas coisas estranhas...}{}{5}{}{314}{}
+{351}{Não, mas tenho mais algumas perguntas gerais...}{}{5}{}{30}{}
+{352}{E:}{}{5}{}{0}{}
+{354}{Parece que fomos todos enganados, meu amigo. Parece que seu caminho não está mais conosco. Mas, se tiver tempo, talvez possa investigar a mensagem que foi escrita no interior da cripta... Volte até mim se descobrir o que significa. Caso contrário, boa sorte. Espero que encontre o local de descanso final de Nasrudin...}{Parece que fomos todos enganados, meu amigo. Parece que seu caminho não está mais conosco. Mas, se tiver tempo, talvez possa investigar a mensagem que foi escrita no interior da cripta... Volte até mim se descobrir o que significa. Caso contrário, boa sorte. Espero que encontre o local de descanso final de Nasrudin...}{}{}{}{}
+{355}{Obrigado, Alexander... Posso lhe fazer mais algumas perguntas?}{}{5}{}{30}{}
+{356}{E:}{}{5}{}{0}{}
+{358}{O quê? O que você encontrou?}{O quê? O que você encontrou?}{}{}{}{}
+{359}{Encontrei o diário de Mannox... [Conte a ele o que estava escrito.]}{}{5}{}{361}{}
+{361}{[Alexander fica em silêncio por um longo tempo. Então...] Parece que nós, os Panarii, temos uma responsabilidade importante. Muitos dos seus problemas, Ser Vivo, nasceram porque permitimos que fôssemos enganados por tantos anos. Isso não acontecerá mais. E parece que minha família foi enganada e desonrada. Acho que sei com quem devo falar sobre isso. [Ele olha na direção dos aposentos do sumo sacerdote.]}{[Alexander fica em silêncio por um longo tempo. Então...] Parece que nós, os Panarii, temos uma responsabilidade importante. Muitos dos seus problemas, Ser Vivo, nasceram porque permitimos que fôssemos enganados por tantos anos. Isso não acontecerá mais. E parece que minha família foi enganada e desonrada. Acho que sei com quem devo falar sobre isso. [Ele olha na direção dos aposentos do sumo sacerdote.]}{}{}{}{ru 2066, fp}
+{362}{Também encontrei isto... [Entregue a Alexander a espada de sua família.]}{}{5}{in 2005}{365}{in 2005}
+{363}{Desejo-lhe sorte, Alexander.}{}{5}{}{368}{}
+{365}{[Alexander fica atônito, incrédulo...] Nunca esperei ver isto... estava perdida há tantos anos. Será usada para um bom propósito... Posso lhe assegurar.}{[Alexander fica atônito, incrédulo...] Nunca esperei ver isto... estava perdida há tantos anos. Será usada para um bom propósito... Posso lhe assegurar.}{}{}{}{}
+{366}{Tenho certeza. Adeus e boa sorte.}{}{5}{}{368}{}
+{368}{[Ele segura sua mão com as duas dele.] Obrigado, Ser Vivo. Sua ajuda aqui foi inestimável. Desejo-lhe sorte em sua busca e no conflito que está por vir...}{[Ele segura sua mão com as duas dele.] Obrigado, Ser Vivo. Sua ajuda aqui foi inestimável. Desejo-lhe sorte em sua busca e no conflito que está por vir...}{}{}{}{}
+{369}{Adeus.}{}{5}{}{0}{lf14 1}
+{372}{O quê? O que você encontrou?}{O quê? O que você encontrou?}{}{}{}{}
+{373}{Encontrei o diário de Mannox... [Conte a ele o que dizia.]}{}{5}{}{375}{}
+{375}{[Alexander fica em silêncio por um longo tempo. Então...] Parece que nós, os Panarii, temos uma responsabilidade importante. Isso não será mais assim. E parece que minha família foi enganada e desonrada. Acho que sei com quem devo falar sobre isso. [Ele olha na direção dos aposentos do sumo sacerdote.]}{[Alexander fica em silêncio por um longo tempo. Então...] Parece que nós, os Panarii, temos uma responsabilidade importante. Isso não será mais assim. E parece que minha família foi enganada e desonrada. Acho que sei com quem devo falar sobre isso. [Ele olha na direção dos aposentos do sumo sacerdote.]}{}{}{}{ru 2066, fp}
+{376}{Também encontrei isto... [Entregue a Alexander a espada de sua família.]}{}{5}{in 2005, gf2024 1}{379}{in 2005}
+{377}{Também encontrei isto... [Entregue a Alexander a espada de Mannox.]}{}{5}{in 2005, gf2024 0}{379}{in 2005}
+{378}{Desejo-lhe sorte, Alexander.}{}{5}{}{382}{}
+{379}{[Alexander fica atordoado, incrédulo...] Nunca esperei ver isto... estava perdida há tantos anos. Será usada para um bom propósito... posso lhe assegurar.}{[Alexander fica atordoado, incrédulo...] Nunca esperei ver isto... estava perdida há tantos anos. Será usada para um bom propósito... posso lhe assegurar.}{}{}{}{}
+{380}{Tenho certeza...}{}{5}{}{382}{}
+{382}{[Ele segura sua mão com as duas dele.] Obrigado. Sua ajuda aqui foi inestimável. Desejo-lhe sorte em sua missão e no conflito que está por vir...}{[Ele segura sua mão com as duas dele.] Obrigado. Sua ajuda aqui foi inestimável. Desejo-lhe sorte em sua missão e no conflito que está por vir...}{}{}{}{}
+{383}{Adeus.}{}{5}{}{0}{lf14 1}
+{385}{Oh! É você! Finalmente chegou! O sobrevivente do acidente do dirigível! Vi sua foto no Tarantian! Eu sou Alexander... Primeiro Acólito do Templo! É um grande prazer conhecê-lo!}{Oh! É você! Finalmente chegou! O sobrevivente do acidente do dirigível! Vi sua foto no Tarantian! Eu sou Alexander... Primeiro Acólito do Templo! É um grande prazer conhecê-lo!}{}{}{}{lf12 1, lf1 1}
+{386}{O quê? Do que você está falando?}{}{5}{}{292}{lf8 1, lf9 1}
+{388}{Olá... estávamos esperando por você. Eu sou Alexander... Primeiro Acólito do Templo Panarii aqui em Caladon. [O homem à sua frente é alto e largo, com feições esculpidas, planas, sobrancelhas pesadas e olhos bondosos. Suas mãos são enormes e cheias de calos - sob as vestes, antebraços marcados como os de um guerreiro.]}{Olá... estávamos esperando por você. Eu sou Alexander... Primeiro Acólito do Templo Panarii aqui em Caladon. O sumo sacerdote me disse para recebê-lo e enviá-lo a ele imediatamente. Seus aposentos [são pelas portas à sua esquerda e corredor abaixo.] Depois de falar com ele, e se tiver alguma pergunta, sinta-se à vontade para me perguntar...}{}{}{}{}
+{389}{Obrigado, Alexander. Estou aqui para ver o sumo sacerdote.}{}{5}{}{391}{}
+{390}{Hã, oi, 'Zander! Preciso falar com o sumo sacerdote!}{}{-4}{}{391}{}
+{391}{Sim, eu sei... ele me disse para recebê-lo e enviá-lo a ele imediatamente. Seus aposentos são pelas portas à sua direita e corredor abaixo. [Ele aponta para elas. Você sente o uso de magia.] Depois de falar com ele, e se tiver alguma pergunta, sinta-se à vontade para me perguntar...}{Sim, eu sei... ele me disse para recebê-lo e enviá-lo a ele imediatamente. Seus aposentos são pelas portas à sua direita e corredor abaixo. [Ele aponta para elas. Você sente o uso de magia.] Depois de falar com ele, e se tiver alguma pergunta, sinta-se à vontade para me perguntar...}{}{}{}{lf11 1, gf2087 1}
+{392}{Talvez eu faça isso. Obrigado e tenha um bom dia...}{}{5}{}{0}{}
+{393}{Tá bom!}{}{-4}{}{0}{}
+{394}{Como já lhe disse, por favor, vá ver o sumo sacerdote. Ele está esperando por você e não gosta de ser deixado esperando...}{Como já lhe disse, por favor, vá ver o sumo sacerdote. Ele está esperando por você e não gosta de ser deixado esperando...}{}{}{}{}
+{396}{Sim? O que é?}{Sim? O que é?}{}{}{}{}
+{397}{Falei com o sumo sacerdote... há jogo sujo em andamento na igreja.}{}{5}{}{400}{}
+{398}{Hã... nada. Falei besteira. Tenha um bom dia.}{}{5}{}{0}{lf13 0}
+{400}{O quê? Do que você está falando?}{O quê? Do que você está falando?}{}{}{}{}
+{401}{Os Elfos Negros infiltraram-se em suas fileiras [Conte a ele o resto...]}{}{5}{}{403}{}
+{403}{[Alexander fica em silêncio por um momento.] Não estou dizendo que você é um mentiroso. Mas não pode esperar que eu vá começar a lançar acusações contra os homens mais respeitados da igreja Panarii. Você tem alguma prova de que os Elfos Negros nos enganaram?}{[Alexander fica em silêncio por um momento.] Não estou dizendo que você é um mentiroso. Mas não pode esperar que eu vá começar a lançar acusações contra os homens mais respeitados da igreja Panarii. Você tem alguma prova de que os Elfos Negros nos enganaram?}{}{}{}{}
+{404}{Não. Nada além da minha palavra...}{}{5}{}{406}{}
+{406}{Infelizmente, isso não será suficiente. Se encontrar provas, o assunto será resolvido. Pode ter certeza disso...}{Infelizmente, isso não será suficiente. Se encontrar provas, o assunto será resolvido. Pode ter certeza disso...}{}{}{}{}
+{407}{Como devo proceder para fazer isso?}{}{5}{}{409}{}
+{409}{Há muitos estudiosos aqui que são versados na história dos Panarii... fale com eles. E você disse que o sumo sacerdote lhe contou que seu segredo está com Nasrudin... talvez devesse descobrir o que puder sobre os restos de Nasrudin. Hadrian, o arqueólogo, é o especialista nesse tipo de coisa. E posso responder a quaisquer perguntas gerais que você tenha sobre nossa religião...}{Há muitos estudiosos aqui que são versados na história dos Panarii... fale com eles. E você disse que o sumo sacerdote lhe contou que seu segredo está com Nasrudin... talvez devesse descobrir o que puder sobre os restos de Nasrudin. Hadrian, o arqueólogo, é o especialista nesse tipo de coisa. E posso responder a quaisquer perguntas gerais que você tenha sobre nossa religião...}{}{}{}{}
+{410}{Seus restos? Eles estão aqui no templo?}{}{5}{}{195}{}
+{411}{Quem foi Nasrudin?}{}{5}{}{89}{}
+{412}{Algumas perguntas sobre os Panarii...}{}{5}{}{48}{}
+{413}{E:}{}{5}{}{0}{}
+{416}{Você encontrou? E o que descobriu?}{Você encontrou? E o que descobriu?}{}{}{}{gf2093 1, ru 2066, gf2689 1, fp}
+{417}{Encontrei o diário de Mannox... [Conte a ele o que dizia.]}{}{5}{}{419}{}
+{419}{[Alexander fica em silêncio por um longo tempo. Então...] Parece que nós, os Panarii, temos uma responsabilidade importante que temos negligenciado. Isso não acontecerá mais. E parece que minha família foi enganada e desonrada. Acho que sei com quem devo falar sobre isso. [Ele olha na direção dos aposentos do sumo sacerdote.]}{[Alexander fica em silêncio por um longo tempo. Então...] Parece que nós, os Panarii, temos uma responsabilidade importante que temos negligenciado. Isso não acontecerá mais. E parece que minha família foi enganada e desonrada. Acho que sei com quem devo falar sobre isso. [Ele olha na direção dos aposentos do sumo sacerdote.]}{}{}{}{}
+{420}{Talvez você precise de ajuda, Alexander...?}{}{5}{}{0}{}
+{421}{E:}{}{5}{}{0}{}
+{423}{O que gostaria de saber sobre Arronax?}{O que gostaria de saber sobre Arronax?}{}{}{}{}
+{424}{Quem era ele?}{}{5}{}{208}{}
+{425}{Onde ele está agora?}{}{5}{lf3 0}{216}{lf3 1}
+{426}{O que significa que Arronax foi banido?}{}{5}{lf3 1}{221}{}
+{427}{Alguém mais já foi banido?}{}{5}{lf3 1}{431}{}
+{428}{Algumas perguntas gerais sobre os Panarii...}{}{5}{}{48}{}
+{429}{E:}{}{5}{}{0}{}
+{431}{Sim, outros foram banidos ao longo dos séculos - o Archaeon na verdade nomeia quatro deles especificamente... Gorgoth, O Flagelo de Kree, Kerghan e Kraka-tur. Claro que houve outros, mas esses foram os mais infames...}{Sim, outros foram banidos ao longo dos séculos - o Archaeon na verdade nomeia quatro deles especificamente... Gorgoth, O Flagelo de Kree, Kerghan e Kraka-tur. Claro que houve outros, mas esses foram os mais infames...}{}{}{}{}
+{432}{Fale-me sobre o Flagelo de Kree...}{}{5}{}{440}{}
+{433}{Fale-me sobre Kerghan...}{}{5}{}{449}{}
+{434}{Fale-me sobre Kraka-tur...}{}{5}{}{458}{}
+{435}{Fale-me sobre Gorgoth...}{}{5}{}{467}{}
+{436}{Mais algumas perguntas sobre Arronax...}{}{5}{}{423}{}
+{440}{O Flagelo de Kree foi um guerreiro nômade que conseguiu reunir quase todas as antigas tribos nômades e formar um exército brutal com elas. Quando seu exército desceu sobre a cidade de Kree, ele matou sem piedade todos os homens, mulheres e crianças que ali viviam. Nasrudin foi forçado a enfrentá-lo e bani-lo sozinho.}{O Flagelo de Kree foi um guerreiro nômade que conseguiu reunir quase todas as antigas tribos nômades e formar um exército brutal com elas. Quando seu exército desceu sobre a cidade de Kree, ele matou sem piedade todos os homens, mulheres e crianças que ali viviam. Nasrudin foi forçado a enfrentá-lo e bani-lo sozinho.}{}{}{}{ru 2114}
+{441}{Fale-me sobre Kerghan...}{}{5}{}{449}{}
+{442}{Fale-me sobre Kraka-tur...}{}{5}{}{458}{}
+{443}{Fale-me sobre Gorgoth...}{}{5}{}{467}{}
+{444}{Mais algumas perguntas sobre Arronax...}{}{5}{}{423}{}
+{445}{E:}{}{5}{}{0}{}
+{446}{E os outros caras banidos?}{}{-4}{}{598}{}
+{447}{Perguntas sobre a Igreja!}{}{-4}{}{529}{}
+{448}{E:}{}{-4}{}{0}{}
+{449}{Kerghan foi o primeiro mago a se aprofundar no lado mais sombrio da Necromancia. O Conselho Élfico, ao descobrir o que ele estava fazendo, exigiu que interrompesse seus estudos. Ele se recusou, e eles o baniram...}{Kerghan foi o primeiro mago a se aprofundar no lado mais sombrio da Necromancia. O Conselho Élfico, ao descobrir o que ele estava fazendo, exigiu que interrompesse seus estudos. Ele se recusou, e eles o baniram...}{}{}{}{ru 2113}
+{450}{Fale-me sobre o Flagelo de Kree...}{}{5}{}{440}{}
+{451}{Fale-me sobre Kraka-tur...}{}{5}{}{458}{}
+{452}{Fale-me sobre Gorgoth...}{}{5}{}{467}{}
+{453}{Mais algumas perguntas sobre Arronax...}{}{5}{}{423}{}
+{454}{E:}{}{5}{}{0}{}
+{455}{E os outros caras banidos?}{}{-4}{}{598}{}
+{456}{Perguntas sobre a Igreja!}{}{-4}{}{529}{}
+{457}{E:}{}{-4}{}{0}{}
+{458}{Kraka-tur era um monstro ardiloso e perverso, metade homem e metade dragão, que aterrorizava cidades e vilarejos, matando seus habitantes e reduzindo-os a cinzas. Com a força de um dragão, mas o coração sombrio do mais vil dos homens, ele era o mal em sua forma mais pura. Após uma batalha colossal, foi subjugado e banido. Durante o confronto, perdeu um olho, que está em exposição nos escritórios de arqueologia, caso tenha interesse.}{Kraka-tur era um monstro ardiloso e perverso, metade homem e metade dragão, que aterrorizava cidades e vilarejos, matando seus habitantes e reduzindo-os a cinzas. Com a força de um dragão, mas o coração sombrio do mais vil dos homens, ele era o mal em sua forma mais pura. Após uma batalha colossal, foi subjugado e banido. Durante o confronto, perdeu um olho, que está em exposição nos escritórios de arqueologia, caso tenha interesse.}{}{}{}{ru 2115}
+{459}{Fale-me sobre o Flagelo de Kree...}{}{5}{}{440}{}
+{460}{Fale-me sobre Kerghan...}{}{5}{}{449}{}
+{461}{Fale-me sobre Gorgoth...}{}{5}{}{467}{}
+{462}{Mais algumas perguntas sobre Arronax...}{}{5}{}{423}{}
+{463}{E:}{}{5}{}{0}{}
+{464}{E os outros caras banidos?}{}{-4}{}{598}{}
+{465}{Perguntas sobre a Igreja!}{}{-4}{}{529}{}
+{466}{E:}{}{-4}{}{0}{}
+{467}{Gorgoth era uma besta irracional com um apetite insaciável. Ele deixou um rastro de destruição de um extremo a outro de Arcanum, devastando tudo em sua desesperada busca por comida. Foi finalmente capturado pelo Conselho após uma luta que durou dias e, sem outra alternativa, decidiram bani-lo de Arcanum.}{Gorgoth era uma besta irracional com um apetite insaciável. Ele deixou um rastro de destruição de um extremo a outro de Arcanum, devastando tudo em sua desesperada busca por comida. Foi finalmente capturado pelo Conselho após uma luta que durou dias e, sem outra alternativa, decidiram bani-lo de Arcanum.}{}{}{}{ru 2116}
+{468}{Fale-me sobre o Flagelo de Kree...}{}{5}{}{440}{}
+{469}{Fale-me sobre Kerghan...}{}{5}{}{449}{}
+{470}{Fale-me sobre Kraka-tur...}{}{5}{}{458}{}
+{471}{Mais algumas perguntas sobre Arronax...}{}{5}{}{423}{}
+{472}{E:}{}{5}{}{0}{}
+{473}{E os outros caras do banimento?}{}{-4}{}{598}{}
+{474}{Questões da Igreja!}{}{-4}{}{529}{}
+{475}{E:}{}{-4}{}{0}{}
+{477}{Obrigado. Fique tranquilo... farei o que precisa ser feito...}{Obrigado. Fique tranquilo... farei o que precisa ser feito...}{}{}{}{}
+{480}{Eu sou Alexander, Alto Acólito aqui no Primeiro Templo Panarii. [O homem à frente é alto e largo, com traços angulosos e planos, sobrancelhas grossas e olhos bondosos. Suas mãos são enormes e cheias de calos - sob as vestes, antebraços marcados por cicatrizes, como os de um guerreiro.]}{Eu sou Alexander, Alto Acólito aqui no Primeiro Templo Panarii. [O homem à frente é alto e largo, com traços angulosos e planos, sobrancelhas grossas e olhos bondosos. Suas mãos são enormes e cheias de calos - sob as vestes, antebraços marcados por cicatrizes, como os de um guerreiro.]}{}{}{}{}
+{481}{Oi! Tenho uma pergunta...!}{}{-4}{}{485}{}
+{485}{Certamente. Em que posso ajudá-lo?}{Certamente. Em que posso ajudá-lo?}{}{}{}{}
+{486}{Onde está Nasrudin? Preciso encontrar Nasrudin!}{}{-4}{gf2029 0, lf15 0, gf2020 0}{496}{lf15 1}
+{487}{Onde estão os restos?}{}{-4}{lf15 1, lf18 0, gf2020 0}{514}{lf18 1}
+{488}{Onde está Hadrian?}{}{-4}{lf15 1, lf18 1, gf2020 0}{617}{}
+{489}{Fale-me sobre a igreja...}{}{-4}{lf15 1, lf18 1, gf2020 0}{529}{}
+{490}{Quem é a estátua ali?}{}{-4}{lf15 1, lf18 1, lf19 0, gf2020 0}{610}{lf19 1}
+{491}{Zander! Tenho algo para te contar!}{}{-4}{gf2020 1}{621}{}
+{492}{E:}{}{-4}{}{0}{}
+{496}{Nasrudin? Sinto muito, meu simples amigo. Ele está morto, e faz muito, muito tempo.}{Nasrudin? Sinto muito, meu simples amigo. Ele está morto, e faz muito, muito tempo.}{}{}{}{}
+{497}{Morto? Mas preciso encontrá-lo! Onde está Nasrudin?}{}{-4}{}{499}{}
+{499}{[Alexander sorri, pacientemente.] Escute, meu amigo. Talvez você queira ver seus restos?}{[Alexander sorri, pacientemente.] Escute, meu amigo. Talvez você queira ver seus restos?}{}{}{}{}
+{500}{Onde estão os restos?}{}{-4}{}{514}{lf18 1}
+{514}{Os restos de Nasrudin estão logo abaixo de nós, nas catacumbas inferiores. Há uma escadaria, [mais adiante neste corredor, à esquerda.] Lá você encontrará a entrada para a câmara mortuária. Há guardas que podem lhe mostrar...}{Os restos de Nasrudin estão logo abaixo de nós, nas catacumbas inferiores. Há uma escadaria, [mais adiante neste corredor, à esquerda.] Lá você encontrará a entrada para a câmara mortuária. Há guardas que podem lhe mostrar...}{}{}{}{ru 2059}
+{515}{Ah... tá bom. Lá embaixo! Posso ver?}{}{-4}{}{519}{}
+{519}{Você não pode ver a câmara mortuária. Ela nunca foi aberta por respeito ao nosso grande mestre...}{Você não pode ver a câmara mortuária. Ela nunca foi aberta por respeito ao nosso grande mestre...}{}{}{}{}
+{520}{Mas eu preciso ver Nasrudin!}{}{-4}{}{524}{}
+{524}{[Alexander balança a cabeça, sorrindo.] Não, você não pode. MAS! Pode falar com Hadrian ou Gunther Willhelm sobre os restos... eles talvez possam lhe contar mais.}{[Alexander balança a cabeça, sorrindo.] Não, você não pode. MAS! Pode falar com Hadrian ou Gunther Willhelm sobre os restos... eles talvez possam lhe contar mais.}{}{}{}{ru 2060}
+{525}{Perguntas!}{}{-4}{}{485}{}
+{526}{E:}{}{-4}{}{0}{}
+{529}{O que gostaria de saber? Talvez algo sobre Nasrudin ou Arronax? Talvez algo sobre o que acreditamos?}{O que gostaria de saber? Talvez algo sobre Nasrudin ou Arronax? Talvez algo sobre o que acreditamos?}{}{}{}{}
+{530}{Nasrudin! Nasrudin!}{}{-4}{}{536}{}
+{531}{E-e... A-r-r-o-n-a-x...?}{}{-4}{}{569}{}
+{532}{No que os Punari acreditam?}{}{-4}{}{605}{}
+{533}{Quem é a estátua ali?}{}{-4}{}{610}{}
+{534}{E:}{}{-4}{}{0}{}
+{536}{O que gostaria de saber sobre ele?}{O que gostaria de saber sobre ele?}{}{}{}{}
+{537}{Quem foi Nasrudin?}{}{-4}{lf16 0}{543}{lf16 1}
+{538}{Ele morreu? Como ele morreu?}{}{-4}{lf16 1}{550}{}
+{539}{O que é o Conselho Élfico?}{}{-4}{lf16 1}{556}{}
+{540}{O que foi a Era das Lendas?}{}{-4}{lf16 1}{562}{}
+{541}{Perguntas sobre a Igreja!}{}{-4}{lf16 1}{529}{}
+{543}{Nasrudin foi um grande elfo - o líder do Conselho Élfico durante a Era das Lendas. Ele era muito sábio e poderoso. Governou todo o Arcanum durante a Era das Lendas...}{Nasrudin foi um grande elfo - o líder do Conselho Élfico durante a Era das Lendas. Ele era muito sábio e poderoso. Governou todo o Arcanum durante a Era das Lendas...}{}{}{}{}
+{544}{Ele morreu? Como ele morreu?}{}{-4}{lf17 0}{550}{lf17 1}
+{545}{O que é o Conselho Élfico?}{}{-4}{lf17 1}{556}{}
+{546}{O que foi a Era das Lendas?}{}{-4}{lf17 1}{562}{}
+{547}{Mais sobre Nasrudin!}{}{-4}{lf17 1}{536}{}
+{548}{Perguntas sobre a Igreja!}{}{-4}{lf17 1}{529}{}
+{550}{Ele morreu em batalha contra um elfo muito maligno chamado Arronax. Arronax queria prejudicar as outras raças - anões, humanos, gnomos, ogros, halflings - e Nasrudin veio em nosso socorro. Nasrudin baniu Arronax, mas foi ferido na luta e morreu algum tempo depois...}{Ele morreu em batalha contra um elfo muito maligno chamado Arronax. Arronax queria prejudicar as outras raças - anões, humanos, gnomos, ogros, halflings - e Nasrudin veio em nosso socorro. Nasrudin baniu Arronax, mas foi ferido na luta e morreu algum tempo depois...}{}{}{}{}
+{551}{O que é o Conselho Élfico?}{}{-4}{}{556}{}
+{552}{O que foi a Era das Lendas?}{}{-4}{}{562}{}
+{553}{Mais sobre Nasrudin!}{}{-4}{}{536}{}
+{554}{Perguntas sobre a Igreja!}{}{-4}{}{529}{}
+{556}{O Conselho Élfico era um grupo de magos poderosos que supervisionava o bem-estar de Arcanum durante a Era das Lendas. Eles foram dissolvidos logo após o banimento de Arronax...}{O Conselho Élfico era um grupo de magos poderosos que supervisionava o bem-estar de Arcanum durante a Era das Lendas. Eles foram dissolvidos logo após o banimento de Arronax...}{}{}{}{}
+{557}{O que foi a Era das Lendas?}{}{-4}{}{562}{}
+{558}{Mais sobre Nasrudin!}{}{-4}{}{536}{}
+{559}{Perguntas da Igreja!}{}{-4}{}{529}{}
+{560}{E:}{}{-4}{}{0}{}
+{562}{A Era das Lendas foi há muito tempo. Foi uma época de heróis e magia e monstros e aventura. Você gostaria das histórias daquele tempo, meu simples amigo. Elas são maravilhosas e emocionantes e às vezes assustadoras...}{A Era das Lendas foi há muito tempo. Foi uma época de heróis e magia e monstros e aventura. Você gostaria das histórias daquele tempo, meu simples amigo. Elas são maravilhosas e emocionantes e às vezes assustadoras...}{}{}{}{}
+{563}{Iá! Eu gosto de histórias! Mais Nasrudin! Mais Nasrudin!}{}{-4}{}{536}{}
+{564}{Que Elvun Cowncul?}{}{-4}{}{556}{}
+{565}{Como Nasrudin morreu?}{}{-4}{}{550}{}
+{566}{Perguntas da Igreja!}{}{-4}{}{529}{}
+{567}{E:}{}{-4}{}{0}{}
+{569}{O que você gostaria de saber sobre Arronax?}{O que você gostaria de saber sobre Arronax?}{}{}{}{}
+{570}{Quem é Arronax?}{}{-4}{}{575}{}
+{571}{O que <<<PH1>>>ba-a-anis-s-h<<<PH2>>> significa?}{}{-4}{}{581}{}
+{572}{Mais alguém foi <<<PH1>>>ba-a-n-ish-hed<<<PH2>>>?}{}{-4}{}{587}{}
+{573}{Perguntas da Igreja!}{}{-4}{}{529}{}
+{575}{Arronax era um elfo mau e poderoso que se opôs a Nasrudin. Ele queria ferir os outros povos de Arcanum... ele só gostava de elfos, e de mais ninguém. Ele levantou um exército para lutar, e Nasrudin veio em nossa defesa. Houve uma grande batalha, e Arronax foi banido.}{Arronax era um elfo mau e poderoso que se opôs a Nasrudin. Ele queria ferir os outros povos de Arcanum... ele só gostava de elfos, e de mais ninguém. Ele levantou um exército para lutar, e Nasrudin veio em nossa defesa. Houve uma grande batalha, e Arronax foi banido.}{}{}{}{}
+{576}{<<<PH1>>>Ba-anis-shed<<<PH2>>>? O que é isso?}{}{-4}{}{581}{}
+{577}{Mais sobre Arronax!}{}{-4}{}{569}{}
+{578}{Perguntas da Igreja!}{}{-4}{}{529}{}
+{579}{E:}{}{-4}{}{0}{}
+{581}{Banimento é quando alguém é enviado para o Vazio. O Vazio é um lugar ruim, eu acho, embora ninguém saiba realmente - ninguém jamais voltou de lá. Então, se você foi banido, significa que você foi realmente, realmente mau.}{Banimento é quando alguém é enviado para o Vazio. O Vazio é um lugar ruim, eu acho, embora ninguém saiba realmente - ninguém jamais voltou de lá. Então, se você foi banido, significa que você foi realmente, realmente mau.}{}{}{}{}
+{582}{Mais alguém foi <<<PH1>>>ba-a-n-ish-hed<<<PH2>>>?}{}{-4}{}{587}{}
+{583}{Mais sobre Arronax!}{}{-4}{}{569}{}
+{584}{Perguntas da Igreja!}{}{-4}{}{529}{}
+{585}{E:}{}{-4}{}{0}{}
+{587}{Sim, outros foram banidos ao longo dos séculos - o Arqueão na verdade nomeia quatro deles especificamente... Gorgoth, O Flagelo de Kree, Kerghan e Kraka-tur. Claro que houve outros, mas esses foram os mais infames...}{Sim, outros foram banidos ao longo dos séculos - o Arqueão na verdade nomeia quatro deles especificamente... Gorgoth, O Flagelo de Kree, Kerghan e Kraka-tur. Claro que houve outros, mas esses foram os mais infames...}{}{}{}{}
+{588}{Conte-me sobre eles!}{}{-4}{}{598}{}
+{589}{O que é Arqueão?}{}{-4}{}{593}{}
+{590}{Mais sobre Arronax!}{}{-4}{}{569}{}
+{591}{E:}{}{-4}{}{0}{}
+{593}{A maior parte do que Nasrudin ensinou, e algumas profecias a seu respeito, estão reunidas no que chamamos de Arqueão. É o grande livro ali no pedestal. Você pode dar uma olhada se quiser.}{A maior parte do que Nasrudin ensinou, e algumas profecias a seu respeito, estão reunidas no que chamamos de Arqueão. É o grande livro ali no pedestal. Você pode dar uma olhada se quiser.}{}{}{}{ru 2065}
+{594}{Mais Arronax!}{}{-4}{}{569}{}
+{595}{Perguntas sobre a Igreja!}{}{-4}{}{529}{}
+{596}{E:}{}{-4}{}{0}{}
+{598}{Sobre o que você gostaria de saber?}{Sobre o que você gostaria de saber?}{}{}{}{}
+{599}{Gorgoth!}{}{-4}{}{467}{}
+{600}{B-bane 'a Kee!}{}{-4}{}{440}{}
+{601}{Krapatur!}{}{-4}{}{458}{}
+{602}{Kurgen!}{}{-4}{}{449}{}
+{603}{Perguntas sobre a Igreja!}{}{-4}{}{529}{}
+{605}{As crenças dos Panarii são baseadas em Nasrudin e seus ensinamentos. A maior parte do que ele ensinou, e algumas profecias a seu respeito, estão reunidas no que chamamos de Archaeon. É aquele grande livro ali no pedestal. Você pode dar uma olhada se quiser.}{As crenças dos Panarii são baseadas em Nasrudin e seus ensinamentos. A maior parte do que ele ensinou, e algumas profecias a seu respeito, estão reunidas no que chamamos de Archaeon. É aquele grande livro ali no pedestal. Você pode dar uma olhada se quiser.}{}{}{}{}
+{606}{Nasrudin! Nasrudin!}{}{-4}{}{536}{}
+{607}{Perguntas sobre a Igreja!}{}{-4}{}{529}{}
+{608}{E:}{}{-4}{}{0}{}
+{610}{Aquele é São Mannox... um homem santo da igreja dos Panarii. [Alexander parece dizer isso com orgulho e um pouco de tristeza.] Ele foi o único homem na história da igreja Panarii a ter ascendido...}{Aquele é São Mannox... um homem santo da igreja dos Panarii. [Alexander parece dizer isso com orgulho e um pouco de tristeza.] Ele foi o único homem na história da igreja Panarii a ter ascendido...}{}{}{}{ru 2063}
+{611}{O que quer dizer a-sen-di-do?}{}{-4}{}{613}{}
+{613}{Significa que Nasrudin veio e o levou diretamente deste mundo para o próximo. Ele era um homem muito bom...}{Significa que Nasrudin veio e o levou diretamente deste mundo para o próximo. Ele era um homem muito bom...}{}{}{}{ru 2064}
+{614}{Perguntas sobre a Igreja!}{}{-4}{}{529}{}
+{615}{E:}{}{-4}{}{0}{}
+{617}{Hadrian está nos escritórios de Arqueologia, [pelas portas logo atrás de mim.] Você as encontrará destrancadas...}{Hadrian está nos escritórios de Arqueologia, [pelas portas logo atrás de mim.] Você as encontrará destrancadas...}{}{}{}{gf2087 1}
+{618}{Perguntas!}{}{-4}{}{485}{}
+{619}{E:}{}{-4}{}{0}{}
+{621}{O que foi, meu amigo? O que você encontrou?}{O que foi, meu amigo? O que você encontrou?}{}{}{}{}
+{622}{Olha! Manix jurnul...!}{}{-4}{}{624}{}
+{624}{[Alexander lê por um longo tempo. Ele olha para você, com a raiva flamejando em seus olhos.] Parece que fomos enganados, meu amigo. Os Panarii têm negligenciado seus deveres. Isso não continuará mais. Agradeço-lhe. Agora devo ir e corrigir esse erro... [ele olha na direção dos aposentos do sumo sacerdote.]}{[Alexander lê por um longo tempo. Ele olha para você, com a raiva flamejando em seus olhos.] Parece que fomos enganados, meu amigo. Os Panarii têm negligenciado seus deveres. Isso não continuará mais. Agradeço-lhe. Agora devo ir e corrigir esse erro... [ele olha na direção dos aposentos do sumo sacerdote.]}{}{}{}{ru 2066, fp}
+{625}{Espere! Encontrei isto também! Pegue! [Dê-lhe a espada.]}{}{-4}{in 2005}{629}{in 2005}
+{626}{Tchau-tchau!}{}{-4}{}{}{lf14 1, fl 632}
+{629}{[Alexander está atordoado, incrédulo.] Nunca esperei pôr os olhos nisto... faz tanto tempo que desapareceu. Posso assegurar-lhe que será bem utilizado.}{[Alexander está atordoado, incrédulo.] Nunca esperei pôr os olhos nisto... faz tanto tempo que desapareceu. Posso assegurar-lhe que será bem utilizado.}{}{}{}{}
+{630}{Ótimo! Adeus, 'Zander!}{}{-4}{}{}{lf14 1, fl 632}
+{632}{Adeus a você, meu simples amigo... boa sorte, onde quer que suas viagens o levem...}{E adeus a você, meu simples amigo... boa sorte, onde quer que suas viagens o levem...}{}{}{}{}
+

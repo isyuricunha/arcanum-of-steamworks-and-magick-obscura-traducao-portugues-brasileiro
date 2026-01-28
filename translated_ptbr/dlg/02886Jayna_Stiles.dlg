@@ -1,0 +1,218 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Saudações, madame. Posso saber quem é a senhora?}{}{5}{me 0, re 41}{34}{}
+{3}{Olá para você, Jayna. Posso lhe fazer algumas perguntas?}{}{5}{me 1, re 41}{38}{}
+{4}{Madame! Será que ouvi corretamente? O que fiz para ofendê-la?}{}{5}{me 0, re -40}{10}{}
+{5}{Jayna! Fiz algo para ofendê-la?}{}{5}{me 1, re -40}{10}{}
+{6}{Hã... oi! Quem é você?}{}{-4}{me 0}{34}{}
+{7}{Ei, Jayna! Posso falar com você...?}{}{-4}{me 1}{38}{}
+{8}{E:}{}{1}{}{0}{}
+{10}{Não quero ser rude, mas simplesmente não gosto do senhor. Por favor, deixe-me em paz...}{Não quero ser rude, mas simplesmente não gosto da senhora. Por favor, deixe-me em paz...}{}{}{}{}
+{11}{Tem CERTEZA dessa opinião, madame?}{}{5}{ch 11}{29}{}
+{12}{Madame! Por favor! Não podemos conversar de maneira mais civilizada...?}{}{5}{me 0}{24}{re +15}
+{13}{Jayna! Pensei que tivéssemos deixado nossas diferenças para trás...}{}{5}{me 1}{24}{re +15}
+{14}{Está pedindo encrenca com palavras como essas, vadia...}{}{5}{}{17}{re -5}
+{15}{E:}{}{1}{}{0}{}
+{17}{Não serei ameaçado por gente como você! Posso me defender se necessário!}{Não serei ameaçada por gente como você! Posso me defender se necessário!}{}{}{}{}
+{18}{As coisas não precisam piorar assim. Por favor, aceite minhas desculpas...}{}{5}{}{24}{re +15}
+{19}{Receio que terá que fazer isso. Você selou seu destino...}{}{5}{}{}{co, fl 22}
+{20}{E:}{}{1}{}{0}{}
+{22}{Tudo bem! Lutarei com você se for preciso!}{Tudo bem! Lutarei com você se for preciso!}{}{}{}{}
+{24}{[A mulher parece um pouco constrangida com suas palavras.] Desculpe. Às vezes falo sem pensar. Talvez possamos recomeçar?}{[A mulher parece um pouco constrangida com suas palavras.] Desculpe. Às vezes falo sem pensar. Talvez possamos recomeçar?}{}{}{}{}
+{25}{Eu gostaria disso, madame. Posso saber quem é a senhora?}{}{5}{me 0}{34}{re +5}
+{26}{Parece bom para mim, Jayna. Posso lhe fazer uma ou duas perguntas?}{}{5}{me 1}{38}{}
+{27}{E:}{}{1}{}{0}{}
+{29}{[Seus olhos se arregalam um pouco. Então ela sorri, calorosamente.] Estou pasma, senhor! Quero dizer, se soubesse que era tão... civilizado!... nunca teria falado assim.}{[Seus olhos se arregalam um pouco. Então ela sorri, calorosamente.] Estou pasma, madame! Quero dizer, se soubesse que era tão... civilizada!... nunca teria falado assim.}{}{}{}{}
+{30}{Sinto o mesmo. Posso saber seu nome, madame?}{}{5}{me 0}{34}{}
+{31}{Claro, Jayna. Tem um momento?}{}{5}{me 1}{38}{}
+{32}{E:}{}{1}{}{0}{}
+{34}{Meu nome é Jayna... Jayna Stiles.}{Meu nome é Jayna... Jayna Stiles.}{}{}{}{}
+{35}{Saudações, madame. Tem um momento?}{}{5}{}{38}{}
+{36}{Oi Jayna! Eu <<<PH1>>> você algumas perguntas?}{}{-4}{}{38}{}
+{38}{Como posso ajudá-lo?}{Como posso ajudá-lo?}{}{}{}{}
+{39}{O que está fazendo aqui em Dernholm, Jayna?}{}{5}{lf1 0}{55}{lf1 1}
+{40}{Que tipo de cura você faz?}{}{5}{lf1 1}{65}{}
+{41}{Conte-me um pouco sobre Dernholm...}{}{5}{}{170}{}
+{42}{Tem certeza de que não gostaria de vir comigo, Jayna?}{}{5}{lf3 1, ta 10}{155}{jo 0 160}
+{43}{Tem certeza de que não gostaria de vir comigo, Jayna?}{}{5}{lf3 1, ta -9}{165}{}
+{44}{O que você faz em Durn-lar, Jayna?}{}{-4}{lf1 0}{55}{}
+{45}{Que tipo de cura você faz?}{}{-4}{lf1 1}{65}{lf1 1}
+{46}{Quero saber sobre Durn-lar!}{}{-4}{}{170}{}
+{47}{Quer vir comigo, Jayna?}{}{-4}{lf3 1, ta 10}{155}{jo 0 160}
+{48}{Quer vir comigo, Jayna?}{}{-4}{lf3 1, ta -9}{165}{}
+{49}{H:}{}{1}{}{38}{}
+{50}{E:}{}{1}{}{0}{}
+{55}{O que estou fazendo aqui? Bem, o que qualquer um realmente faz em Dernholm? Não há muito o que fazer nesta cidade... nem sempre foi assim, pelo que meus pais costumavam dizer. [Ela parece um pouco triste, suspirando.] Acho que você poderia dizer que sou uma curandeira, se é que sou alguma coisa...}{O que estou fazendo aqui? Bem, o que qualquer um realmente faz em Dernholm? Não há muito o que fazer nesta cidade... nem sempre foi assim, pelo que meus pais costumavam dizer. [Ela parece um pouco triste, suspirando.] Acho que você poderia dizer que sou uma curandeira, se é que sou alguma coisa...}{}{}{}{lf1 1}
+{56}{Que tipo de cura você faz?}{}{5}{}{65}{}
+{57}{Onde estão seus pais? Eles moram aqui também?}{}{5}{}{75}{}
+{58}{O que aconteceu com este lugar?}{}{5}{}{170}{}
+{59}{Que tipo de cura você faz?}{}{-4}{}{65}{}
+{60}{Onde estão sua mãe e seu pai? Eles moram em Durn-lar?}{}{-4}{}{75}{}
+{61}{Hã... o que aconteceu com Durn-lar?}{}{-4}{}{170}{}
+{62}{K:}{}{1}{}{38}{}
+{63}{E:}{}{1}{}{0}{}
+{65}{Bem... eu realmente não faço nada disso muito bem. Não há um médico decente por aqui há muito tempo, e nossa melhor parteira morreu não faz muito tempo. Eu realmente quero aprender, mas não há ninguém para aprender. [Ela fica com um olhar determinado.] Mas ainda estou tentando! Sabe, é muito importante para mim me tornar uma grande curandeira...}{Bem... eu realmente não faço nada disso muito bem. Não há um médico decente por aqui há muito tempo, e nossa melhor parteira morreu não faz muito tempo. Eu realmente quero aprender, mas não há ninguém para aprender. [Ela fica com um olhar determinado.] Mas ainda estou tentando! Sabe, é muito importante para mim me tornar uma grande curandeira...}{}{}{}{}
+{66}{Por que isso, Jayna?}{}{5}{}{75}{lf2 1}
+{67}{Por quê, Jayna?}{}{-4}{}{75}{lf2 1}
+{68}{Como estão progredindo seus estudos?}{}{5}{}{95}{}
+{69}{Você tá aprendendo muito?}{}{-4}{}{95}{}
+{70}{E:}{}{1}{}{0}{}
+{75}{Bem... [Ela olha para o chão. Você percebe que é difícil para ela falar sobre isso.]... houve uma doença que chegou a Dernholm alguns anos atrás. Como eu disse, não há médico aqui há muito tempo. Não tínhamos remédios, e os carregamentos de Tarant são muito escassos...}{Bem... [Ela olha para o chão. Você percebe que é difícil para ela falar sobre isso.]... houve uma doença que chegou a Dernholm alguns anos atrás. Como eu disse, não há médico aqui há muito tempo. Não tínhamos remédios, e os carregamentos de Tarant são muito escassos...}{}{}{}{}
+{76}{E então?}{}{5}{}{80}{}
+{77}{Hã... é?}{}{-4}{}{80}{}
+{80}{Bem, meus pais ficaram doentes, entende... [Lágrimas brotam em seus olhos.] Eles foram tão corajosos, até o fim... mas morreram. Muitos outros morreram aqui também. Ninguém por perto sabia como lidar com essa doença, então tudo o que podíamos fazer era ficar aqui e ver nossos entes queridos partirem. [Ela enxuga os olhos.] E foi então que eu decidi...}{Bem, meus pais ficaram doentes, entende... [Lágrimas brotam em seus olhos.] Eles foram tão corajosos, até o fim... mas morreram. Muitos outros morreram aqui também. Ninguém por perto sabia como lidar com essa doença, então tudo o que podíamos fazer era ficar aqui e ver nossos entes queridos partirem. [Ela enxuga os olhos.] E foi então que eu decidi...}{}{}{}{}
+{81}{O que você decidiu?}{}{5}{}{85}{}
+{82}{Decidiu o quê?}{}{-4}{}{85}{}
+{85}{Decidi que nunca mais queria ver pessoas morrerem daquele jeito. Decidi me tornar uma grande curandeira... para salvar outros da dor que senti ao ver meus pais morrerem. E é isso que tenho tentado fazer...}{Decidi que nunca mais queria ver pessoas morrerem daquele jeito. Decidi me tornar uma grande curandeira... para salvar outros da dor que senti ao ver meus pais morrerem. E é isso que tenho tentado fazer...}{}{}{}{}
+{86}{Como estão progredindo seus estudos?}{}{5}{}{95}{}
+{87}{Por que não há um médico aqui? O que aconteceu com Dernholm?}{}{5}{}{170}{}
+{88}{Tá aprendendo muito?}{}{-4}{}{95}{}
+{89}{Por que num tem dotô aqui? O que aconteceu com Durn-home?}{}{-4}{}{170}{}
+{90}{K:}{}{1}{}{38}{}
+{91}{E:}{}{1}{}{0}{}
+{95}{Não muito bem, infelizmente. Como eu disse, não há ninguém por aqui para aprender. Tenho um pouco de habilidade em cura, mas não sou muito boa em magia. [Ela abaixa a voz, inclinando-se na sua direção.] Na verdade, estou muito interessada em algumas das práticas tecnológicas mais recentes...}{Não muito bem, infelizmente. Como eu disse, não há ninguém por aqui para aprender. Tenho um pouco de habilidade em cura, mas não sou muito boa em magia. [Ela abaixa a voz, inclinando-se na sua direção.] Na verdade, estou muito interessada em algumas das práticas tecnológicas mais recentes...}{}{}{}{}
+{96}{Sério? Você realmente acha que a tecnologia é melhor?}{}{5}{}{100}{}
+{97}{Hã? Você gosta mais de tecno-logia?}{}{-4}{}{100}{}
+{100}{Shhh! Abaixe a voz! Você não sabe? Não se pode nem falar sobre essas coisas por aqui... é a lei! O Rei Praetor meteu na cabeça há muito tempo que a tecnologia é terrível, e ele não quer que ninguém nem pense nisso. [Ela olha ao redor.] Veja só aonde ISSO nos levou...}{Shhh! Abaixe a voz! Você não sabe? Não se pode nem falar sobre essas coisas por aqui... é a lei! O Rei Praetor meteu na cabeça há muito tempo que a tecnologia é terrível, e ele não quer que ninguém nem pense nisso. [Ela olha ao redor.] Veja só aonde ISSO nos levou...}{}{}{}{}
+{101}{Você sabe muito sobre... hã... ESSE tipo de cura?}{}{5}{}{110}{}
+{102}{Foi isso que aconteceu com Dernholm?}{}{5}{}{170}{}
+{103}{O que você sabe sobre cura tecno-lógica?}{}{-4}{}{110}{}
+{104}{Foi por isso que Durn-home tá assim?}{}{-4}{}{170}{}
+{105}{K:}{}{1}{}{38}{}
+{106}{E:}{}{1}{}{0}{}
+{110}{Não muito. Li alguns livros... tenho que mantê-los bem escondidos, veja bem... mas realmente não há muito o que aprender por aqui...}{Não muito. Li alguns livros... tenho que mantê-los bem escondidos, veja bem... mas realmente não há muito o que aprender por aqui...}{}{}{}{}
+{111}{Bem, por que você não vai embora? Vá para Tarant, talvez?}{}{5}{}{120}{}
+{112}{Por que você fica aqui?}{}{-4}{}{120}{}
+{113}{K:}{}{1}{}{38}{}
+{114}{E:}{}{1}{}{0}{}
+{120}{[Ela suspira.] Não tenho como. Meus pais não eram pessoas ricas, e não ganho muito dinheiro aqui em Dernholm. Além disso, não é muito seguro para uma mulher viajar sozinha. Receio que esteja presa aqui, por enquanto...}{[Ela suspira.] Não tenho como. Meus pais não eram pessoas ricas, e não ganho muito dinheiro aqui em Dernholm. Além disso, não é muito seguro para uma mulher viajar sozinha. Receio que esteja presa aqui, por enquanto...}{}{}{}{}
+{121}{Hmmm. Talvez você gostasse de vir comigo...?}{}{5}{ta 10}{130}{re +5}
+{122}{Hmmm. Talvez você gostasse de vir comigo...?}{}{5}{ta -9}{165}{}
+{123}{Que pena, de verdade. Mais algumas perguntas...?}{}{5}{}{38}{}
+{124}{Hã... mebee você vem comigo!}{}{-4}{ta 10}{130}{re +5}
+{125}{Hã... mebee você vem comigo!}{}{-4}{ta -9}{165}{}
+{126}{Hã... que pena. Mais umas perguntas...?}{}{-4}{}{38}{}
+{127}{E:}{}{1}{}{0}{}
+{130}{[A esperança brilha em seus olhos.] O quê? O que você quer dizer?}{[A esperança brilha em seus olhos.] O quê? O que você quer dizer?}{}{}{}{}
+{131}{Bem, eu estou... hã... viajando. Poderia usar um curandeiro científico...}{}{5}{}{140}{re +5}
+{132}{Eu... hã... estou indo para lugares. Talvez precise de um curandeiro de tecno-logia...}{}{-4}{}{140}{re +5}
+{133}{Nada. Esqueça. Mais algumas perguntas...}{}{5}{}{38}{re -5}
+{134}{Nada. Mais algumas perguntas...?}{}{-4}{}{38}{re -5}
+{135}{E:}{}{1}{}{0}{}
+{140}{Sério? Quer dizer... eu não sei muito... não sei o quanto poderia ajudar...}{Sério? Quer dizer... eu não sei muito... não sei o quanto poderia ajudar...}{}{}{}{}
+{141}{Talvez pudéssemos aprender coisas juntos...?}{}{5}{}{150}{re +5}
+{142}{Hã... talvez a gente aprenda coisas juntos!}{}{-4}{}{150}{re +5}
+{143}{Talvez você esteja certo. Esqueça que mencionei isso. Mais uma ou duas coisas...}{}{5}{}{38}{re -5}
+{144}{É, você tá certo! Eu não preciso de você! Mais algumas perguntas...}{}{-4}{}{38}{re -5}
+{145}{E:}{}{1}{}{0}{}
+{150}{[Ela ri alto, batendo palmas.] Ah, sim! Isso parece simplesmente maravilhoso! Quer dizer... vou me esforçar ao máximo para aprender enquanto estivermos fora... pode contar comigo, senhor! Não vou decepcioná-lo...}{[Ela ri alto, batendo palmas.] Ah, sim! Isso parece simplesmente maravilhoso! Quer dizer... vou me esforçar ao máximo para aprender enquanto estivermos fora... pode contar comigo, senhora! Não vou decepcioná-la...}{}{}{}{lf3 1}
+{151}{Então... você vem junto, então?}{}{5}{}{155}{jo 0 160}
+{152}{Então, você quer vir?}{}{-4}{}{155}{jo 0 160}
+{155}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{}{}{}
+{156}{K:}{}{1}{}{38}{}
+{157}{E:}{}{1}{}{0}{}
+{160}{Sim! Eu adoraria ir com você! Estou pronta para partir agora mesmo!}{Sim! Eu adoraria ir com você! Estou pronta para partir agora mesmo!}{}{}{}{re +5}
+{161}{Então vamos fazer isso...}{}{5}{}{0}{}
+{162}{Tá bom! Vamos lá!}{}{-4}{}{0}{}
+{165}{[Ela olha você de cima a baixo, avaliando.] Não... você não parece muito inclinado à tecnologia. Estou querendo aprender sobre tecnologia... você e eu não seríamos uma boa combinação...}{[Ela olha você de cima a baixo, avaliando.] Não... você não parece muito inclinado à tecnologia. Estou querendo aprender sobre tecnologia... você e eu não seríamos uma boa combinação...}{}{}{}{}
+{166}{K:}{}{1}{}{38}{}
+{167}{E:}{}{1}{}{0}{}
+{170}{Bem, essa é uma longa história. Sabe, Dernholm já foi um reino poderoso... não conheço muita história, mas sei que já foi tão poderoso quanto Tarant ou Caladon...}{Bem, essa é uma longa história. Sabe, Dernholm já foi um reino poderoso... não conheço muita história, mas sei que já foi tão poderoso quanto Tarant ou Caladon...}{}{}{}{}
+{171}{Sério? O que aconteceu?}{}{5}{}{175}{}
+{172}{O que aconteceu com ele?}{}{-4}{}{175}{}
+{173}{E:}{}{1}{}{0}{}
+{175}{Bem... o Rei Praetor decidiu há muito tempo que não toleraria tecnologia em seu reino. Ele foi, bem... influenciado... por seus "conselheiros" magos. O Rei Praetor assumiu o trono muito jovem, e era muito impressionável...}{Bem... o Rei Praetor decidiu há muito tempo que não toleraria tecnologia em seu reino. Ele foi, bem... influenciado... por seus "conselheiros" magos. O Rei Praetor assumiu o trono muito jovem, e era muito impressionável...}{}{}{}{}
+{176}{Por favor, continue...}{}{5}{}{180}{}
+{177}{Quero ouvir mais!}{}{-4}{}{180}{}
+{178}{K:}{}{1}{}{38}{}
+{179}{E:}{}{1}{}{0}{}
+{180}{Bem, eventualmente houve uma guerra entre Tarant e Cumbria, e Tarant saiu vitoriosa. Os Cavaleiros do Dragão... a guarda de elite do Rei Praetor... foram quase todos dizimados na batalha final. Dernholm ruiu, deteriorou-se até se tornar o que você vê hoje...}{Bem, eventualmente houve uma guerra entre Tarant e Cumbria, e Tarant saiu vitoriosa. Os Cavaleiros do Dragão... a guarda de elite do Rei Praetor... foram quase todos dizimados na batalha final. Dernholm ruiu, deteriorou-se até se tornar o que você vê hoje...}{}{}{}{}
+{181}{Conte-me mais sobre os Cavaleiros do Dragão...}{}{5}{}{190}{}
+{182}{Quero ouvir mais sobre os Cavaleiros do Dragão!}{}{-4}{}{190}{}
+{183}{K:}{}{1}{}{38}{}
+{184}{E:}{}{1}{}{0}{}
+{190}{Não sei muito sobre eles... mas se você falar com Lianna Pel Dar, ela pode te contar muito mais. Ela mora sozinha... na extremidade norte da cidade...}{Não sei muito sobre eles... mas se você falar com Lianna Pel Dar, ela pode te contar muito mais. Ela mora sozinha... na extremidade norte da cidade...}{}{}{}{}
+{191}{K:}{}{1}{}{38}{}
+{192}{E:}{}{1}{}{0}{}
+{210}{O que posso fazer por você?}{O que posso fazer por você?}{}{}{}{}
+{211}{B:}{}{1}{wa 0}{}{}
+{212}{K:}{}{1}{wa 0}{225}{}
+{213}{Gostaria que você fizesse algo por mim, Jayna...}{}{5}{wa 0}{267}{}
+{214}{Preciso que você faça uma coisa. Jayna!}{}{-4}{wa 0}{267}{}
+{215}{Que tipo de coisas você faz, Jayna?}{}{5}{wa 0}{}{su}
+{216}{Que tipo de coisa você faz, Jayna?}{}{-4}{wa 0}{}{su}
+{217}{Pode parar de esperar agora, Jayna.}{}{5}{wa 1}{295}{uw 0 280}
+{218}{Pare de esperar, Jayna!}{}{-4}{wa 1}{295}{uw 0 280}
+{219}{E:}{}{1}{}{0}{}
+{225}{O que você precisa saber?}{O que você precisa saber?}{}{}{}{}
+{226}{Gostaria de saber algumas coisas sobre você, Jayna...}{}{5}{}{}{ce}
+{228}{O que você sabe sobre este lugar?}{}{5}{ia 21}{316}{}
+{229}{O que você sabe sobre este lugar?}{}{5}{ia 3}{321}{}
+{230}{O que você sabe sobre este lugar?}{}{5}{ia -5, ia -21, ia -3}{326}{}
+{231}{Você parece chateada comigo, Jayna! Tem algo que eu possa fazer por você?}{}{5}{re -20}{239}{}
+{232}{Quero saber umas coisas sobre você, Jayna!}{}{-4}{}{}{ce}
+{234}{O que você sabe sobre este lugar, Jayna?}{}{-4}{ia 21}{316}{}
+{235}{O que você sabe sobre este lugar, Jayna?}{}{-4}{ia 3}{321}{}
+{236}{O que você sabe sobre este lugar, Jayna?}{}{-4}{ia -5, ia -21, ia -3}{326}{}
+{237}{Você está brava comigo, Jayna! Posso fazer algo por você?}{}{-4}{re -20}{239}{}
+{238}{E:}{}{1}{}{0}{}
+{239}{Bem... não é que eu seja ingrata por você ter me convidado, mas não estou muito feliz com a forma como você tem agido. Claro, sempre gostei de bolos doces... se por acaso tiver alguns, tudo pode parecer um pouco melhor...}{Bem... não é que eu seja ingrata por você ter me convidado, mas não estou muito feliz com a forma como você tem agido. Claro, sempre gostei de bolos doces... se por acaso tiver alguns, tudo pode parecer um pouco melhor...}{}{}{}{}
+{240}{Ora, Jayna... isso é realmente necessário?}{}{5}{ch 20}{249}{re +20}
+{241}{Graças ao Criador que tenho alguns bem aqui!}{}{5}{in 3618, ch -19}{-11}{re +20}
+{242}{Vou ver se consigo alguns para você, Jayna...}{}{5}{in -3618, ch -19}{257}{}
+{243}{Oh, as coisas tolas com que sonhamos! Vamos, que tal?}{}{5}{}{}{re -5, fl 259}
+{246}{Ótimo! Tenho alguns aqui!}{}{-4}{in 3618, ch -19}{-11}{re +20}
+{247}{Vou conseguir alguns pra você logo, Jayna!}{}{-4}{in -3618, ch -19}{257}{}
+{248}{Que pena! Você não vai ganhar nada!}{}{-4}{}{}{re -5, fl 259}
+{249}{[Jayna parece dividida, mas não consegue resistir ao seu charme.] Ah, me desculpe. Deve ser culpa minha, de alguma forma. Vamos continuar?}{[Jayna parece dividida, mas não consegue resistir ao seu charme.] Ah, me desculpe. Deve ser culpa minha, de alguma forma. Vamos continuar?}{}{}{}{}
+{250}{E:}{}{5}{}{0}{}
+{251}{[Ela pega os bolos de você, comendo-os de uma só vez.] Ah. Vamos seguir em frente, certo?}{[Ela pega os bolos de você, comendo-os de uma só vez.] Ah. Vamos seguir em frente, certo?}{}{}{}{}
+{252}{Então você vai se juntar a mim novamente, Jayna?}{}{5}{}{295}{jo 0 298}
+{253}{E:}{}{5}{}{0}{}
+{257}{Ótimo! Estou ansiosa por isso!}{Ótimo! Estou ansiosa por isso!}{}{}{}{}
+{258}{E:}{}{5}{}{0}{}
+{259}{Ora! Eu nunca...! Não vou tolerar isso por muito mais tempo, eu lhe garanto!}{Ora! Eu nunca...! Não vou tolerar isso por muito mais tempo, eu lhe garanto!}{}{}{}{}
+{267}{O que você precisa que eu faça?}{O que você precisa que eu faça?}{}{}{}{}
+{268}{Saia da frente, Jayna.}{}{5}{}{0}{so}
+{269}{Chegue um pouco mais perto, Jayna.}{}{5}{}{0}{sc}
+{270}{Espere aqui por um tempo...}{}{5}{wa 0}{283}{wa}
+{271}{Pode parar de esperar agora, Jayna.}{}{5}{wa 1}{295}{uw 0 280}
+{272}{Acho melhor você deixar o grupo.}{}{5}{}{286}{lv}
+{273}{Saia daqui, Jayna!}{}{-4}{}{0}{so}
+{274}{Chegue mais perto, Jayna!}{}{-4}{}{0}{sc}
+{275}{Espere aqui...}{}{-4}{}{283}{wa}
+{276}{Pare de esperar, Jayna!}{}{-4}{}{295}{uw 0 280}
+{277}{Eu não querer mais você no grupo...}{}{-4}{}{286}{lv}
+{278}{[Voltar]}{}{1}{}{210}{}
+{280}{Tudo bem por mim! Vamos nessa...}{Tudo bem por mim! Vamos nessa...}{}{}{}{}
+{281}{E:}{}{1}{}{0}{}
+{283}{Tá bom. Mas tente não demorar muito, certo?}{Tá bom. Mas tente não demorar muito, certo?}{}{}{}{}
+{284}{E:}{}{1}{}{0}{}
+{286}{Oh. [Ela parece muito triste, um pouco assustada.] Bem... tenho certeza de que vou encontrar algo para fazer por aqui. Adeus...}{Oh. [Ela parece muito triste, um pouco assustada.] Bem... tenho certeza de que vou encontrar algo para fazer por aqui. Adeus...}{}{}{}{lf31 1}
+{287}{E:}{}{1}{}{0}{}
+{289}{Olá de novo! Que bom te ver novamente!}{Olá de novo! Que bom te ver novamente!}{}{}{}{}
+{290}{Você vai se juntar a mim de novo, Jayna?}{}{5}{}{295}{jo 0 298}
+{291}{Você parece chateada comigo, Jayna! Tem algo que eu possa fazer por você?}{}{5}{re -20}{239}{}
+{292}{Quer se juntar, Jayna?}{}{-4}{}{295}{jo 0 298}
+{293}{Tá brava comigo, Jayna! Posso fazer alguma coisa por você?}{}{-4}{re -20}{239}{}
+{294}{E:}{}{1}{}{0}{}
+{295}{Havia mais alguma coisa?}{Havia mais alguma coisa?}{}{}{}{}
+{296}{E:}{}{1}{}{0}{}
+{298}{Sim, parece uma ótima ideia! Vamos nessa...}{Sim, parece uma ótima ideia! Vamos nessa...}{}{}{}{lf31 0}
+{299}{E:}{}{1}{}{0}{}
+{301}{Hmmm. Me fez esperar bastante tempo, não é?}{Hmmm. Me fez esperar bastante tempo, não é?}{}{}{}{}
+{302}{Desculpe por isso, Jayna. Você vai se juntar a mim de novo?}{}{5}{}{295}{jo 0 298}
+{303}{Você parece chateada comigo, Jayna! Tem algo que eu possa fazer por você?}{}{5}{re -20}{239}{}
+{312}{Eu não tive a intenção! Quer se juntar a mim, Jayna?}{}{-4}{}{295}{jo 0 298}
+{313}{Tá brava comigo, Jayna! Posso fazer alguma coisa por você?}{}{-4}{re -20}{239}{}
+{314}{K:}{}{1}{}{225}{}
+{315}{E:}{}{1}{}{0}{}
+{316}{Esta é Tarant! Estou tão animada! Se existe algum lugar onde uma pessoa possa aprender sobre tecnologia, este é o lugar! Acho que Gilbert Bates, o inventor da máquina a vapor, mora aqui! E ainda tem a Universidade de Tarant, os estaleiros, as fábricas... Nunca vi um lugar mais lindo em toda a minha vida!}{Esta é Tarant! Estou tão animada! Se existe algum lugar onde uma pessoa possa aprender sobre tecnologia, este é o lugar! Acho que Gilbert Bates, o inventor da máquina a vapor, mora aqui! E ainda tem a Universidade de Tarant, os estaleiros, as fábricas... Nunca vi um lugar mais lindo em toda a minha vida!}{}{}{}{}
+{317}{K:}{}{1}{}{225}{}
+{318}{E:}{}{1}{}{0}{}
+{321}{Oh... esta é Black Root. É uma pequena cidade pesqueira, mas ultimamente tem estado nas notícias. Dizem os boatos que Black Root quer se separar de Cumbria e se juntar ao Reino Unificado! O Rei Praetor não está nada feliz com isso...}{Oh...esta é Black Root. É uma pequena cidade pesqueira, mas ultimamente tem estado nas notícias. Rumores dizem que Black Root quer se separar de Cumbria e se juntar ao Reino Unificado! O Rei Praetor não está nada feliz com isso...}{}{}{}{}
+{322}{K:}{}{1}{}{225}{}
+{323}{E:}{}{1}{}{0}{}
+{326}{[Ela olha ao redor, balançando a cabeça.] Não saberia dizer ao certo. Não vi muito do mundo, amigo. Mas vou ficar de olhos abertos para você...}{[Ela olha ao redor, balançando a cabeça.] Não saberia dizer ao certo. Não vi muito do mundo, amigo. Mas vou ficar de olhos abertos para você...}{}{}{}{}
+{327}{K:}{}{1}{}{225}{}
+{328}{E:}{}{1}{}{0}{}
+

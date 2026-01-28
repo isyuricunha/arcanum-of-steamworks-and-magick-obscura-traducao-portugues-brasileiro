@@ -1,0 +1,16 @@
+{1}{Foi sorte sua ter me trazido de volta. Você não ia querer meu fantasma assombrando você, posso garantir.}{Foi sorte sua ter me trazido de volta. Você não ia querer meu fantasma assombrando você, posso garantir.}{}{1}{}{}
+{2}{Não precisa me agradecer, de verdade. Gostaria de se juntar a mim novamente?}{}{5}{}{15}{jo 0 10 lf30 1}
+{3}{Você se une.}{}{-4}{}{15}{jo 0 10 lf30 1}
+{9}{E:}{}{1}{}{0}{  lf30 1}
+{10}{Eu o seguirei novamente para a batalha.}{Eu o seguirei novamente para a batalha.}{}{2}{}{}
+{11}{Vamos então.}{}{5}{}{-10}{}
+{12}{Tá.}{}{-4}{}{-10}{}
+{15}{Deixe-me em paz agora.}{Deixe-me em paz agora.}{}{3}{}{}
+{16}{E:}{}{1}{}{0}{}
+{20}{Aaaaagh! A dor! A dor... é demais... por favor, me liberte...}{Aaaaagh! A dor! A dor... é demais... por favor, me liberte...}{}{4}{}{}
+{25}{O que você quer agora?}{O que você quer agora?}{}{5}{}{}
+{26}{Gostaria de se unir a mim novamente?}{}{5}{}{15}{jo 0 10}
+{27}{Você se une.}{}{-4}{}{15}{jo 0 10}
+{33}{E:}{}{1}{}{0}{}
+{34}{Foi sorte sua ter me trazido de volta. Você não ia querer meu fantasma assombrando você, posso garantir.}{Foi sorte sua ter me trazido de volta. Você não ia querer meu fantasma assombrando você, posso garantir.}{}{}{}{}
+

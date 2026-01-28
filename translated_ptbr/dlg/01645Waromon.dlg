@@ -1,0 +1,52 @@
+{1}{Saudações, sangue-quente. Eu sou Waromon.}{Saudações, sangue-quente. Eu sou Waromon.}{}{}{}{}
+{2}{Estou aqui para descobrir o que aconteceu com o caçador élfico...}{}{5}{qb1079 3, gf2154 0}{16}{}
+{3}{Kan Kerai me disse para falar com você...}{}{5}{gf2154 1}{7}{}
+{4}{Tem certeza de que não quer se juntar a mim, Waromon?}{}{5}{lf1 1}{}{jo 0  13}
+{5}{E:}{}{5}{}{0}{}
+{7}{Sim? Então falaremos...}{Sim? Então falaremos...}{}{}{}{lf1 1}
+{8}{Ele ofereceu seus serviços, se quiser se juntar a mim...}{}{5}{}{10}{jo 0  13}
+{10}{Há mais alguma coisa, sangue-quente?}{Há mais alguma coisa, sangue-quente?}{}{}{}{}
+{11}{E:}{}{5}{}{0}{}
+{13}{Sim... Eu me juntarei a você em sua missão. Que os pais-serpentes caminhem conosco...}{Sim... Eu me juntarei a você em sua missão. Que os pais-serpentes caminhem conosco...}{}{}{}{}
+{14}{E:}{}{5}{}{0}{}
+{16}{Você terá que falar com Kan Kerai, nosso chefe. [O homem-lagarto o observa com cautela.] Só ele saberá de tais coisas, sangue-quente.}{Você terá que falar com Kan Kerai, nosso chefe. [O homem-lagarto o observa com cautela.] Só ele saberá de tais coisas, sangue-quente.}{}{}{}{}
+{17}{E:}{}{5}{}{0}{}
+{19}{Como posso servi-lo?}{Como posso [HIC!] te ajudar?}{}{}{}{}
+{20}{B:}{}{5}{}{}{}
+{21}{Tenho algumas perguntas para você, Waromon...}{}{5}{}{27}{}
+{22}{Gostaria que fizesse algo por mim, Waromon...}{}{5}{}{140}{}
+{23}{Pode parar de esperar agora, Waromon...}{}{5}{wa 1}{162}{uw 0 148}
+{24}{E:}{}{5}{}{0}{}
+{25}{Hã...}{}{-4}{}{}{fl 180}
+{27}{O que gostaria de saber?}{O que gostaria de saber?}{}{}{}{}
+{28}{Gostaria de saber algumas coisas sobre você, Waromon...}{}{1}{}{}{ce}
+{31}{E:}{}{1}{}{0}{}
+{140}{O que gostaria que eu fizesse, sangue-quente?}{O que gostaria que eu fizesse, sangue-quente?}{}{}{}{}
+{141}{Afaste-se, Waromon}{}{1}{}{0}{so}
+{142}{Aproxime-se, Waromon}{}{1}{}{0}{sc}
+{143}{Por favor, espere aqui...}{}{1}{wa 0}{151}{wa}
+{144}{Pode parar de esperar agora...}{}{1}{wa 1}{162}{uw 0 148}
+{145}{Acho que você deveria deixar o grupo, Waromon...}{}{1}{}{154}{lv}
+{146}{[Voltar]}{}{1}{}{19}{}
+{148}{Como diz, sangue-quente. Vamos...}{Como diz, sangue-quente. Vamos...}{}{}{}{}
+{149}{E:}{}{1}{}{0}{}
+{151}{Eu esperarei aqui até que não seja mais hora de esperar...}{Eu esperarei aqui até que não seja mais hora de esperar...}{}{}{}{}
+{152}{E:}{}{1}{}{0}{}
+{154}{Assim será. Que você conheça e viva os caminhos dos de sangue-frio. Adeus.}{Assim será. Que você conheça e viva os caminhos dos de sangue-frio. Adeus.}{}{}{}{lf31 1}
+{155}{E:}{}{1}{}{0}{}
+{157}{Saudações, sangue-quente. É bom vê-lo...}{Saudações, sangue-quente. É bom vê-lo...}{}{}{}{}
+{158}{Olá, Waromon. Gostaria de se juntar a mim mais uma vez?}{}{5}{}{162}{jo 0 165}
+{159}{E:}{}{5}{}{0}{}
+{160}{Hã...}{}{-4}{}{}{fl 180}
+{162}{Havia mais alguma coisa, sangue-quente?}{Havia mais alguma coisa, sangue-quente?}{}{}{}{}
+{163}{E:}{}{1}{}{0}{}
+{165}{Sim... eu me juntarei a você mais uma vez e sonharei com você o sonho reptiliano...}{Sim... eu me juntarei a você mais uma vez e sonharei com você o sonho reptiliano...}{}{}{}{lf31 0}
+{166}{E:}{}{1}{}{0}{}
+{168}{Esperei até que o tempo de esperar tivesse passado, sangue-quente...}{Esperei até que o tempo de esperar tivesse passado, sangue-quente...}{}{}{}{}
+{169}{Eu estava me perguntando se você gostaria de se juntar a mim de novo?}{}{5}{}{162}{jo 0 173}
+{170}{E:}{}{5}{}{0}{}
+{171}{Hã...}{}{-4}{}{}{fl 180}
+{173}{Sim. Parece ser a vontade dos pais-serpentes que eu caminhe com você mais uma vez...}{Sim. Parece ser a vontade dos pais-serpentes que eu caminhe com você mais uma vez...}{}{}{}{}
+{174}{E:}{}{1}{}{0}{}
+{180}{<<<PH1>>>}{<<<PH2>>>}{}{}{}{}
+

@@ -1,0 +1,299 @@
+{1}{G: 1 10, 2 10, 3 10, 5 10, 6 10, 7 2, 8 2, 9 2}{G: 1 10, 2 10, 3 10, 5 10, 6 10, 7 2, 8 2, 9 2}{}{}{}{ }
+{2}{[Este homem tem a aparência de um guerreiro feroz. Seu corpo fortemente musculoso está coberto de cicatrizes e tatuagens. Ele fareja o ar enquanto você se aproxima.] Um recém-chegado, é? Ainda tem o cheiro do mundo em você.}{[Este homem tem a aparência de um guerreiro feroz. Seu corpo fortemente musculoso está coberto de cicatrizes e tatuagens. Ele fareja o ar enquanto você se aproxima.] Um recém-chegado, é? Ainda tem o cheiro do mundo em você.}{}{}{}{ }
+{3}{W:}{}{1}{}{20}{ }
+{4}{E:}{}{1}{}{0}{ }
+{10}{[Este homem tem a aparência de um guerreiro feroz. Seu corpo fortemente musculoso está coberto de cicatrizes e tatuagens. Ele fareja o ar enquanto você se aproxima.] Um recém-chegado, é? Ainda tem o cheiro do mundo em você, usuário de magia. Veio me desafiar?}{[Este homem tem a aparência de um guerreiro feroz. Seu corpo fortemente musculoso está coberto de cicatrizes e tatuagens. Ele fareja o ar enquanto você se aproxima.] Um recém-chegado, é? Ainda tem o cheiro do mundo em você, usuário de magia. Veio me desafiar?}{}{}{}{ }
+{11}{Não. Quem é você?}{}{5}{}{20}{ }
+{12}{Não. Quem é você?}{}{-4}{}{20}{ }
+{13}{Sim. Estou aqui para arrancar sua pele e usar seu couro como troféu.}{}{5}{}{0}{fl 229 ,co}
+{14}{Sim. Vou te matar.}{}{-4}{}{0}{fl 229 ,co}
+{15}{E:}{}{1}{}{0}{ }
+{20}{Fui conhecido por muitos nomes, mas o único que importa agora é o Flagelo de Kree. Esse é o nome pelo qual eu era conhecido quando exercia poder sobre os homens.}{Fui conhecido por muitos nomes, mas o único que importa agora é o Flagelo de Kree. Esse é o nome pelo qual eu era conhecido quando exercia poder sobre os homens.}{}{}{}{ }
+{21}{Como conseguiu esse nome?}{}{5}{pa-6616}{40}{ }
+{22}{Então, devo chamá-lo apenas de "Flagelo"? Ou prefere "Sr. Kree"?}{}{5}{}{30}{re -10 }
+{23}{Preciso de ajuda para matar Arronax.}{}{5}{gf2060 0, pa-6436}{120}{ }
+{24}{Preciso de ajuda para matar Kerghan.}{}{5}{gf2060 1}{161}{ }
+{25}{Por que é chamado assim?}{}{-4}{pa-6616}{40}{ }
+{26}{Por que é chamado assim?}{}{-4}{pa6616}{550}{ }
+{27}{Tenho que matar Ronax.}{}{-4}{gf2060 0, pa-6436}{120}{ }
+{28}{Tenho que matar Koorgin.}{}{-4}{gf2060 1}{161}{ }
+{29}{Como conseguiu esse nome?}{}{5}{pa6616}{550}{ }
+{30}{[Ele está em cima de você mais rápido do que pode imaginar, com a lâmina em seu pescoço.] Não zombe de mim. Esse será seu último erro.}{[Ele está em cima de você mais rápido do que pode imaginar, com a lâmina em seu pescoço.] Não zombe de mim. Esse será seu último erro.}{}{}{}{ }
+{31}{Não tive intenção de ofender, senhor. Por favor, aceite minhas desculpas.}{}{5}{}{90}{re -5 }
+{32}{Ameaçar-me foi seu último erro, selvagem.}{}{5}{}{0}{fl 229 ,co}
+{33}{[Empurra a lâmina para longe.] Sobre o que estávamos falando?}{}{5}{ch19}{80}{re +10 }
+{34}{Me desculpe.}{}{-4}{}{90}{ }
+{35}{Vou te matar agora, idiota.}{}{-4}{}{0}{fl 229 ,co}
+{40}{Kree foi onde forcei o mundo a respeitar meu poder. Ninguém jamais havia rompido as grandes muralhas de Kree, mas minha horda as escalou como se fossem apenas uma miragem! Eu tinha o destino de cada homem, mulher e criança em minhas mãos e não mostrei misericórdia. [Seus olhos ficam vidrados enquanto olha para a distância, saboreando mais uma vez seu momento de glória.] Se ao menos eu pudesse retornar a Arcanum...}{Kree foi onde forcei o mundo a respeitar meu poder. Ninguém jamais havia rompido as grandes muralhas de Kree, mas minha horda as escalou como se fossem apenas uma miragem! Eu tinha o destino de cada homem, mulher e criança em minhas mãos e não mostrei misericórdia. [Seus olhos ficam vidrados enquanto olha para a distância, saboreando mais uma vez seu momento de glória.] Se ao menos eu pudesse retornar a Arcanum...}{}{}{}{lf1 1 }
+{41}{Quer dizer que os assassinou covardemente sem motivo, covarde.}{}{5}{}{30}{re -10 }
+{42}{Essa é uma história realmente impressionante. Eu poderia usar um homem com seus talentos.}{}{5}{}{70}{ }
+{43}{Foi quando você estava usando o Flagelo Bangelliano?}{}{5}{qa1056 1}{50}{ }
+{44}{Talvez nos encontremos novamente. Tenha um bom dia.}{}{5}{}{0}{ }
+{45}{Preciso da ajuda de um cara corajoso e malvado.}{}{-4}{}{70}{ }
+{46}{Eu peguei seu curativo para ferida.}{}{-4}{in2007}{100}{ }
+{47}{Eu quebrei seu curativo para ferida.}{}{-4}{qu1056 4, ni2007}{0}{fl 430 ,co}
+{48}{Ooooh. O cara bobo é corajoso. Ele mata crianças.}{}{-4}{qu1056 4}{30}{re -10 }
+{49}{E:}{}{-4}{}{0}{ }
+{50}{[Ele volta à realidade e olha para você com incredulidade.] Você conhece o Flagelo?}{[Ele volta à realidade e olha para você com incredulidade.] Você conhece o Flagelo?}{}{}{}{ }
+{51}{Eu ouvi histórias sobre ele.}{}{5}{}{60}{ }
+{52}{Eu o tenho.}{}{5}{in2007}{100}{ }
+{53}{Eu o destruí.}{}{5}{qu1056 4, ni2007}{0}{fl 430 ,co}
+{60}{Era uma arma gloriosa, era. Gloriosa! Parecia que tinha sido feita só para o meu uso. Se ao menos eu não a tivesse perdido quando tentei derrubar Nasrudin.}{Era uma arma gloriosa, era. Gloriosa! Parecia que tinha sido feita só para o meu uso. Se ao menos eu não a tivesse perdido quando tentei derrubar Nasrudin.}{}{}{}{ }
+{61}{Eu o tenho.}{}{5}{in2007}{100}{ }
+{62}{Eu o destruí.}{}{5}{qu1056 4, ni2007}{0}{fl 430 ,co}
+{63}{Preciso de ajuda para matar Arronax.}{}{5}{gf2060 0, pa-6436}{120}{ }
+{64}{Preciso de ajuda para matar Kerghan.}{}{5}{gf2060 1}{161}{ }
+{70}{[Ele faz uma careta.] O que alguém como você poderia querer de mim?}{[Ele faz uma careta.] O que alguém como você poderia querer de mim?}{}{}{}{ }
+{71}{Preciso de ajuda para matar Arronax.}{}{5}{gf2060 0, pa-6436}{120}{ }
+{72}{Preciso de ajuda para matar Kerghan.}{}{5}{gf2060 1}{161}{ }
+{73}{Eu tenho que matar o Ronax.}{}{-4}{gf2060 0, pa-6436}{120}{ }
+{74}{Eu tenho que matar o Koorgin.}{}{-4}{gf2060 1}{161}{ }
+{80}{[Ele sorri levemente e embainha sua espada.] Gosto de um homem corajoso. Poucos conseguem encarar minha espada sem choramingar por minha misericórdia.}{[Ele sorri levemente e embainha sua espada.] Gosto de uma mulher corajosa. Poucas conseguem encarar minha espada sem choramingar por minha misericórdia.}{}{}{}{ }
+{81}{Diga-me, como conseguiu seu nome?}{}{5}{lf1 0}{40}{ }
+{82}{Preciso da sua ajuda para matar Arronax.}{}{5}{gf2060 0, pa-6436}{120}{ }
+{83}{Preciso da sua ajuda para matar Kerghan.}{}{5}{gf2060 1}{161}{ }
+{90}{[Ele parece prestes a enfiar a espada em você por um momento antes de se virar com nojo.] Saia daqui, seu covarde choramingão. Não tenho utilidade para homens que não defendem sua posição.}{[Ele parece prestes a enfiar a espada em você por um momento antes de se virar com nojo.] Saia daqui, sua covarde choramingona. Eu esperava que você fosse uma mulher que soubesse defender sua posição. Estava enganado.}{}{}{}{ }
+{91}{Deixe-me provar meu valor, então. Eu poderia matar Arronax, com sua ajuda.}{}{5}{gf2060 0, pa-6436}{120}{ }
+{92}{Deixe-me provar meu valor, então. Eu poderia matar Kerghan, com sua ajuda.}{}{5}{gf2060 1}{161}{ }
+{93}{Nenhum homem me chama de covarde e vive, porco.}{}{5}{}{0}{fl 229 ,co}
+{94}{Eu não covarde. Eu mato Ronax, se você ajudar.}{}{-4}{gf2060 0, pa-6436}{120}{ }
+{95}{Eu não covarde. Eu mato Koorgin, se você ajudar.}{}{-4}{gf2060 1}{161}{ }
+{96}{Eu mato você!}{}{-4}{}{0}{fl 229 ,co}
+{100}{Você tem isso? Me dê!}{Você tem isso? Me dê!}{}{}{}{ }
+{101}{Eu lhe darei para me ajudar a matar Arronax.}{}{5}{gf2060 0, pa-6436}{110}{ }
+{102}{Eu lhe darei para me ajudar a matar Kerghan.}{}{5}{gf2060 1}{110}{ }
+{103}{Acho que não.}{}{5}{sk2 18}{432}{ }
+{104}{Certo. Você tem que me ajudar a matar Ronax.}{}{-4}{gf2060 0, pa-6436}{110}{ }
+{105}{Certo. Você tem que me ajudar a matar Koorigoon...}{}{-4}{gf2060 1}{110}{ }
+{106}{Não.}{}{-4}{}{0}{fl 431 ,co}
+{107}{Acho que não.}{}{5}{sk2 -17}{440}{ }
+{110}{Combinado! Me dê a espada.}{Combinado! Me dê a espada.}{}{}{}{ }
+{111}{Aqui está.}{}{5}{}{0}{in2007, fl 119 ,co}
+{112}{Não acho que posso confiar em você. Vou ficar com ela por enquanto.}{}{5}{sk2 18}{432}{ }
+{113}{Certo. [Dê-lhe a espada.]}{}{-4}{}{0}{in2007, fl 119 ,co}
+{114}{Não. Você é o cara que machuca as pessoas.}{}{-4}{}{0}{fl 431 ,co}
+{115}{Não acho que posso confiar em você. Vou ficar com ela por enquanto.}{}{5}{sk2 -17}{440}{ }
+{119}{Faz muito tempo desde que empunhei o Flagelo! Ele clama para ser alimentado com o sangue dos meus inimigos! Você pode ter a honra de ser o primeiro a sentir sua mordida!}{Faz muito tempo desde que empunhei o Flagelo! Ele clama para ser alimentado com o sangue dos meus inimigos! Você pode ter a honra de ser o primeiro a sentir sua mordida!}{}{}{}{ }
+{120}{Ahhh... batalha! Faz muito tempo desde que enfrentei um oponente digno! Diga-me, este... Arronax é um inimigo à altura?}{Ahhh... batalha! Faz muito tempo desde que enfrentei um oponente digno! Diga-me, este... Arronax é um inimigo à altura?}{}{}{}{ }
+{121}{Ele é um dos magos mais poderosos que Arcanum já viu.}{}{5}{}{125}{ }
+{122}{Ele é um mago grandão e malvado.}{}{-4}{}{125}{ }
+{125}{Seria um dia glorioso se eu pudesse afiar minha lâmina em um usuário de magia mais uma vez...}{Seria um dia glorioso se eu pudesse afiar minha lâmina em um usuário de magia mais uma vez...}{}{}{}{ }
+{126}{Então, você vai se juntar a mim?}{}{5}{}{230}{ }
+{128}{Talvez você queira tentar afiar sua lâmina em mim, então.}{}{5}{ma60, ch15}{200}{re +10 }
+{129}{Tente afiá-la em mim, então, selvagem!}{}{5}{ma 60, ch -14}{0}{fl 229 ,co}
+{130}{Você me ajuda?}{}{-4}{}{230}{ }
+{131}{Eu vou fazer isso! Vamos beber o sangue de Arronax em nome da vitória, hein?}{Eu vou fazer isso! Vamos beber o sangue de Arronax em nome da vitória, hein?}{}{}{}{ }
+{132}{Hmm... parece ótimo. Vamos lá.}{}{5}{}{0}{ }
+{133}{Tá bom!}{}{-4}{}{0}{ }
+{140}{}{}{}{}{}{ }
+{141}{Estou cansado do seu blá-blá-blá. Me deixe em paz.}{Estou cansado do seu blá-blá-blá. Me deixe em paz.}{}{}{}{lf2 1, gf2098 0, gf2099 0 }
+{142}{Tenha um bom dia, então.}{}{5}{}{0}{ }
+{143}{Vou deixar você morto!}{}{5}{}{0}{fl 229 ,co}
+{144}{E:}{}{-4}{}{0}{ }
+{145}{Eu... hã... vou matar você agora!}{}{-4}{}{0}{fl 229 ,co}
+{151}{Qual é o seu plano de ataque? Não é fácil derrubar um mago poderoso.}{Qual é o seu plano de ataque? Não é fácil derrubar um mago poderoso.}{}{}{}{ }
+{152}{Eu esperava simplesmente dominá-lo.}{}{5}{}{210}{ }
+{153}{Eu vou só encher ele de porrada.}{}{-4}{}{210}{ }
+{161}{Kerghan!! [Ele cospe.] Eu aguardo ansioso pela chance de cortar sua garganta. [Ele hesita.] Mas depois do que ele fez...}{Kerghan!! [Ele cospe.] Eu aguardo ansioso pela chance de cortar sua garganta. [Ele hesita.] Mas depois do que ele fez...}{}{}{}{ }
+{162}{O que ele fez?}{}{5}{ch-14}{171}{ }
+{163}{O que ele fez?}{}{5}{ch15}{181}{ }
+{164}{O que ele fez?}{}{-4}{}{171}{ }
+{171}{[Ele desvia o olhar, parecendo envergonhado.] Nada. Ele não fez nada!}{[Ele desvia o olhar, parecendo envergonhado.] Nada. Ele não fez nada!}{}{}{}{ }
+{172}{Então você vai se juntar a mim?}{}{5}{}{260}{ }
+{173}{Você vai me ajudar?}{}{-4}{}{260}{ }
+{181}{[Ele desvia o olhar, parecendo envergonhado.] Ele me derrotou em batalha logo depois que chegou aqui. Depois de desferir o golpe fatal, ele me trouxe de volta à vida só para me provocar! Esperei longos anos pela chance de fazê-lo pagar por isso.}{[Ele desvia o olhar, parecendo envergonhado.] Ele me derrotou em batalha logo depois que chegou aqui. Depois de desferir o golpe fatal, ele me trouxe de volta à vida só para me provocar! Esperei longos anos pela chance de fazê-lo pagar por isso.}{}{}{}{ }
+{182}{Eu conheço esse sentimento. Junte-se a mim, para que possamos derrotá-lo.}{}{5}{}{260}{ }
+{183}{Eu sabia que você era um covarde, selvagem. Prepare-se para morrer, de novo.}{}{5}{}{0}{fl 229 ,co}
+{191}{Eu vou fazer isso! Vamos beber o sangue de Kerghan em nome da vitória, hein?}{Eu vou fazer isso! Vamos beber o sangue de Kerghan em nome da vitória, hein?}{}{}{}{ }
+{192}{Hmm... parece ótimo. Vamos lá.}{}{5}{}{0}{ }
+{193}{Tá bom!}{}{-4}{}{0}{ }
+{200}{Ha! Um usuário de magia com inteligência! Isso é raro, de fato! Talvez eu até comece a gostar de você, mago!}{Ha! Um usuário de magia com inteligência! Isso é raro, de fato! Talvez eu até comece a gostar de você, mago!}{}{}{}{ }
+{201}{Então você vai se juntar a mim?}{}{5}{}{260}{ }
+{210}{Hah! Vejo que você é um grande estrategista militar, não é? Um ataque total poderia funcionar, mas o custo seria alto sem algo para inclinar a balança a nosso favor. [Ele faz uma pausa e baixa a voz.] Eu conheço uma arma, aqui. Em minhas andanças por esta terra amaldiçoada, descobri uma arma fantástica que poderia ser usada contra um mago poderoso.}{Hah! Vejo que você é um grande estrategista militar, não é? Um ataque total poderia funcionar, mas o custo seria alto sem algo para inclinar a balança a nosso favor. [Ele faz uma pausa e baixa a voz.] Conheço uma arma aqui. Em minhas andanças por esta terra amaldiçoada, descobri sobre uma arma fantástica que poderia ser usada em uma luta contra um mago poderoso.}{}{}{}{ }
+{211}{O que é essa arma?}{}{5}{}{220}{ }
+{212}{Onde está essa... coisa?}{}{-4}{}{220}{ }
+{220}{Encontrei pergaminhos antigos que falam dela, escritos com admiração por suas habilidades. Sei que ela repousa em algum lugar nas profundezas de uma dessas ilhas, mas nunca consegui explorá-las completamente. A última vez que tentei foi quase fatal. Há todo tipo de maldade lá embaixo.}{Encontrei pergaminhos antigos que falam dela, escritos com admiração por suas habilidades. Sei que ela repousa em algum lugar nas profundezas de uma dessas ilhas, mas nunca consegui explorá-las completamente. A última vez que tentei foi quase fatal. Há todo tipo de maldade lá embaixo.}{}{}{}{ }
+{221}{E ainda assim acha aconselhável tentar recuperá-la?}{}{5}{ni2008}{250}{ }
+{222}{Eu já a recuperei.}{}{5}{in2008}{275}{ }
+{223}{Parece perigoso demais.}{}{-4}{ni2008}{250}{ }
+{224}{Eu já peguei essa coisa.}{}{-4}{in2008}{275}{ }
+{227}{Isso é assustador. Tchau.}{}{-4}{}{0}{lf3 1 }
+{228}{Então não tenho interesse nisso. Tenha um bom dia.}{}{5}{}{0}{lf3 1 }
+{229}{Pela barba de Guzarat, você morrerá por suas provocações!}{Pela barba de Guzarat, você morrerá por suas provocações!}{}{}{}{ }
+{230}{[Ele olha para você com desconfiança.] Por que eu deveria me juntar a você? O que tem a me oferecer?}{[Ele olha para você com desconfiança.] Por que eu deveria me juntar a você? O que tem a me oferecer?}{}{}{}{ }
+{231}{Eu o levarei de volta a Arcanum comigo depois. [Verdade]}{}{5}{in5616}{141}{gf2099 1, jo 0 131}
+{232}{Eu o levarei de volta a Arcanum comigo depois. [Mentira]}{}{5}{in5616}{141}{gf2098 1, jo 0 131}
+{233}{Eu o levarei de volta a Arcanum comigo depois. [Verdade]}{}{5}{ni5616}{151}{gf2099 1 }
+{234}{Eu o levarei de volta a Arcanum comigo depois. [Mentira]}{}{5}{ni5616}{151}{gf2098 1 }
+{235}{O sabor da vitória no campo de batalha, mais uma vez!}{}{5}{ch17, in5616}{141}{jo 0 131}
+{236}{O sabor da vitória no campo de batalha, mais uma vez!}{}{5}{ch17, ni5616}{151}{ }
+{237}{Eu o levo de volta a <<<PH1>>> comigo. [Verdade]}{}{-4}{in5616}{141}{gf2099 1, jo 0 131}
+{238}{Eu o levo de volta a <<<PH1>>> comigo. [Mentira]}{}{-4}{in5616}{141}{gf2098 1, jo 0 131}
+{239}{Eu o levo de volta a <<<PH1>>> comigo. [Verdade]}{}{-4}{ni5616}{151}{gf2099 1 }
+{240}{Eu o levo de volta a <<<PH1>>> comigo. [Mentira]}{}{-4}{ni5616}{151}{gf2098 1 }
+{248}{Nada. Tchau.}{}{-4}{}{0}{lf4 1 }
+{249}{Nada, suponho. Tenha um bom dia.}{}{5}{}{0}{lf4 1 }
+{250}{Eu poderia tê-la recuperado com a ajuda de um bom homem, ou dois. Ainda seria uma jornada difícil, mas estou confiante de que seria vitorioso.}{Eu poderia tê-la recuperado com a ajuda de um bom homem, ou dois. Ainda seria uma jornada difícil, mas estou confiante de que seria vitorioso.}{}{}{}{ }
+{251}{Junte-se a mim, então, e a encontraremos juntos.}{}{5}{gf2060 0}{141}{jo 0 131}
+{252}{Junte-se a mim, então, e nós o encontraremos juntos.}{}{5}{gf2060 1}{141}{jo 0 191}
+{253}{Eu ajudo você a encontrá-lo.}{}{-4}{gf2060 0}{141}{jo 0 131}
+{254}{Eu ajudo você a encontrá-lo.}{}{-4}{gf2060 1}{141}{jo 0 191}
+{260}{[Ele olha para você com desconfiança.] Por que eu deveria me juntar a você? O que você tem a me oferecer?}{[Ele olha para você com desconfiança.] Por que eu deveria me juntar a você? O que você tem a me oferecer?}{}{}{}{ }
+{261}{Eu o levarei de volta a Arcanum comigo depois. [Verdade]}{}{5}{in5616}{141}{gf2099 1, jo 0 191}
+{262}{Eu o levarei de volta a Arcanum comigo depois. [Mentira]}{}{5}{in5616}{141}{gf2098 1, jo 0 191}
+{263}{Eu o levarei de volta a Arcanum comigo depois. [Verdade]}{}{5}{ni5616}{151}{gf2099 1 }
+{264}{Eu o levarei de volta a Arcanum comigo depois. [Mentira]}{}{5}{ni5616}{151}{gf2098 1 }
+{265}{O sabor da vitória no campo de batalha, mais uma vez!}{}{5}{ch17, in5616}{141}{jo 0 191}
+{266}{O sabor da vitória no campo de batalha, mais uma vez!}{}{5}{ch17, ni5616}{151}{ }
+{267}{Eu o levo de volta a Canum comigo. [Verdade]}{}{-4}{in5616}{141}{gf2099 1, jo 0 191}
+{268}{Eu o levo de volta a Canum comigo. [Mentira]}{}{-4}{in5616}{141}{gf2098 1, jo 0 191}
+{269}{Eu o levo de volta a Canum comigo. [Verdade]}{}{-4}{ni5616}{151}{gf2099 1 }
+{270}{Eu o levo de volta a Canum comigo. [Mentira]}{}{-4}{ni5616}{151}{gf2098 1 }
+{273}{Nada. Tchau.}{}{-4}{}{0}{lf4 1 }
+{274}{Nada, suponho. Tenha um bom dia.}{}{5}{}{0}{lf4 1 }
+{275}{Você o recuperou? Estou impressionado com sua habilidade, então.}{Você o recuperou? Estou impressionado com sua habilidade, então.}{}{}{}{ }
+{276}{Você se juntará a mim para derrotar Arronax?}{}{5}{gf2060 0, pa-6436}{290}{ }
+{277}{Você se juntará a mim para derrotar Kerghan?}{}{5}{gf2060 1}{290}{ }
+{278}{Você tem que me ajudar a matar Ronax.}{}{-4}{gf2060 0, pa-6436}{290}{ }
+{279}{Você tem que me ajudar a matar Kurigoon.}{}{-4}{gf2060 1}{290}{ }
+{290}{Me dê a arma, e eu me juntarei a você.}{Me dê a arma, e eu me juntarei a você.}{}{}{}{ }
+{291}{Concordo com seus termos. [Dê-lhe a arma.]}{}{5}{}{141}{in2008, jo 0 300}
+{292}{Acho que não. Eu lutei por ela, vou ficar com ela.}{}{5}{}{310}{re -10 }
+{293}{E se eu o levar de volta a Arcanum, em vez disso? [Verdade]}{}{5}{}{141}{gf2099 1, jo 0 300}
+{294}{E se eu o levar de volta a Arcanum, em vez disso? [Mentira]}{}{5}{}{141}{gf2098 1, jo 0 300}
+{295}{Tudo bem. [Dê-lhe a arma.]}{}{-4}{}{141}{in2008, jo 0 300}
+{296}{N:}{}{-4}{}{310}{re -10 }
+{297}{Eu o levo de volta ao canum, em vez disso. [Verdade]}{}{-4}{}{141}{gf2099 1, jo 0 300}
+{298}{Eu o levo de volta ao canum, em vez disso. [Mentira]}{}{-4}{}{141}{gf2098 1, jo 0 300}
+{300}{Venham, vamos esmagar nossos inimigos em batalha!}{Venham, vamos esmagar nossos inimigos em batalha!}{}{}{}{in -2008 }
+{301}{Concordo. Vamos partir.}{}{5}{}{0}{ }
+{302}{Y:}{}{-4}{}{0}{ }
+{310}{Você não entende. Você vai me dar a arma.}{Você não entende. Você vai me dar a arma.}{}{}{}{ }
+{311}{Já que você colocou de forma tão persuasiva, aqui está - se você se juntar a mim.}{}{5}{}{141}{in2008, jo 0 300}
+{312}{Você não entende. Eu vou estripar você.}{}{5}{}{0}{fl 229 ,co}
+{313}{Tudo bem. [Entregue-lhe a arma.]}{}{-4}{}{141}{in2008, jo 0 300}
+{314}{Não! Eu mato ocê!}{}{-4}{}{0}{fl 229 ,co}
+{320}{O que é agora, camponês?}{O que é agora, camponês?}{}{}{}{ }
+{321}{Voltei para pedir que se junte a mim novamente.}{}{5}{lf2 1}{330}{ }
+{322}{Eu queria falar com você sobre aquela arma que mencionou.}{}{5}{lf3 1, lf2 0}{400}{ }
+{323}{Voltei para pedir que se junte a mim novamente.}{}{5}{lf4 1, lf2 0}{370}{ }
+{324}{Vim para separar sua cabeça do seu corpo, verme.}{}{5}{}{0}{fl 229 ,co}
+{325}{Eu quero que ocê se junte a mim.}{}{-4}{lf2 1}{330}{ }
+{326}{E aquela parada de arma?}{}{-4}{lf3 1, lf2 0}{400}{ }
+{327}{Eu quero que ocê se junte a mim.}{}{-4}{lf4 1, lf2 0}{370}{ }
+{328}{Eu mato ocê!}{}{-4}{}{0}{fl 229 ,co}
+{329}{E:}{}{1}{}{0}{ }
+{330}{[Ele olha para você com desconfiança.] Por que eu deveria me juntar a você? O que tem a me oferecer?}{[Ele olha para você com desconfiança.] Por que eu deveria me juntar a você? O que tem a me oferecer?}{}{}{}{ }
+{331}{Eu o levarei de volta a Arcanum comigo depois. [Verdade]}{}{5}{}{141}{jo 0 360}
+{332}{Eu o levarei de volta a Arcanum comigo depois. [Mentira]}{}{5}{}{141}{jo 0 360}
+{335}{O sabor da vitória no campo de batalha, mais uma vez!}{}{5}{}{141}{jo 0 360}
+{336}{Decidi lhe oferecer uma morte lenta e dolorosa, verme!}{}{5}{}{0}{fl 229 ,co}
+{349}{Nada, suponho. Tenha um bom dia.}{}{5}{}{0}{lf4 1 }
+{350}{Eu o levo de volta ao canum comigo. [Verdade]}{}{-4}{}{141}{jo 0 360}
+{351}{Eu o levo de volta ao canum comigo. [Mentira]}{}{-4}{}{141}{jo 0 360}
+{352}{Eu te mato!}{}{-4}{}{0}{fl 229 ,co}
+{353}{E:}{}{-4}{}{0}{lf4 1 }
+{360}{Venha, vamos esmagar nossos inimigos em batalha!}{Venha, vamos esmagar nossos inimigos em batalha!}{}{}{}{ }
+{361}{Concordo. Vamos partir.}{}{5}{}{0}{ }
+{362}{Mate! Mate! Mate!}{}{-4}{}{0}{ }
+{370}{[Ele olha para você com desconfiança.] Por que eu deveria me juntar a você? O que tem a me oferecer?}{[Ele olha para você com desconfiança.] Por que eu deveria me juntar a você? O que tem a me oferecer?}{}{}{}{ }
+{371}{Eu o levarei de volta a Arcanum comigo depois. [Verdade]}{}{5}{in5616}{141}{gf2099 1, jo 0 360}
+{372}{Eu o levarei de volta a Arcanum comigo depois. [Mentira]}{}{5}{in5616}{141}{gf2098 1, jo 0 360}
+{373}{Eu o levarei de volta a Arcanum comigo depois. [Verdade]}{}{5}{ni5616}{151}{gf2099 1 }
+{374}{Eu o levarei de volta a Arcanum comigo depois. [Mentira]}{}{5}{ni5616}{151}{gf2098 1 }
+{375}{O sabor da vitória no campo de batalha, mais uma vez!}{}{5}{ch17, in5616}{141}{jo 0 360}
+{376}{O sabor da vitória no campo de batalha, mais uma vez!}{}{5}{ch17, ni5616}{151}{ }
+{389}{Nada, suponho. Tenha um bom dia.}{}{5}{}{0}{ }
+{390}{Eu o levo de volta a <<<PH1>>> comigo. [Verdade]}{}{-4}{in5616}{141}{gf2099 1, jo 0 360}
+{391}{Eu o levo de volta a <<<PH1>>> comigo. [Mentira]}{}{-4}{in5616}{141}{gf2098 1, jo 0 360}
+{392}{Eu o levo de volta a <<<PH1>>> comigo. [Verdade]}{}{-4}{ni5616}{151}{gf2099 1 }
+{393}{Eu o levo de volta a <<<PH1>>> comigo. [Mentira]}{}{-4}{ni5616}{151}{gf2098 1 }
+{394}{E:}{}{-4}{}{0}{ }
+{400}{Então você gostaria de encontrar essa arma agora?}{Então você gostaria de encontrar essa arma agora?}{}{}{}{ }
+{401}{Sim. Onde você disse que ela poderia ser encontrada?}{}{5}{}{410}{ }
+{402}{Sim. Você se juntará a mim para encontrá-la e eliminar meus inimigos?}{}{5}{}{330}{ }
+{403}{Eu gostaria de encontrá-la enterrada em suas entranhas, idiota.}{}{5}{}{0}{fl 229 ,co}
+{404}{Sim. Mas você tem que ajudar.}{}{-4}{}{330}{ }
+{405}{Eu quero que ela te mate! Hã... eu disse isso em voz alta?}{}{-4}{}{0}{fl 229 ,co}
+{408}{N:}{}{-4}{}{0}{ }
+{409}{Não. Mudei de ideia.}{}{5}{}{0}{ }
+{410}{Ela está escondida em algum lugar nas profundezas de uma dessas ilhas. Duvido que você seja forte o suficiente para recuperá-la sem minha ajuda, no entanto.}{Ela está escondida em algum lugar nas profundezas de uma dessas ilhas. Duvido que você seja forte o suficiente para recuperá-la sem minha ajuda, no entanto.}{}{}{}{ }
+{411}{Então você se juntará a mim?}{}{5}{}{330}{ }
+{412}{Sou forte o suficiente para lhe causar uma dor séria, canalha!}{}{5}{}{0}{fl 229 ,co}
+{419}{Obrigado pela informação. Tenha um bom dia.}{}{5}{}{0}{ }
+{430}{Nãããão! Não a minha amada <<<PH1>>>!! Morra, verme!}{Nãããão! Não a minha amada <<<PH1>>>!! Morra, verme!}{}{}{}{ }
+{431}{Vou tomar isso de suas mãos ávidas, tolo!!!!}{Vou tomar isso de suas mãos ávidas, tolo!!!!}{}{}{}{ }
+{432}{[Ele o observa com cautela.] Não sou tolo o bastante para tentar tirar isso de um guerreiro como você.}{[Ele o observa com cautela.] Não sou tolo o bastante para tentar tirar isso de um guerreiro como você.}{}{}{}{lf5 1 }
+{433}{Decisão sábia. Agora, você vai me ajudar a matar Arronax?}{}{5}{gf2060 0, pa-6436}{120}{ }
+{434}{Decisão sábia. Agora, você vai me ajudar a matar Kerghan?}{}{5}{gf2060 1}{161}{ }
+{435}{Você é tolo o bastante para me deixar saber que estava pensando nisso. Morra, tolo!}{}{5}{}{0}{ }
+{440}{Você não é nem de longe um oponente formidável para mim. Entregue-me a <<<PH1>>> ou morra!}{Você não é nem de longe um oponente formidável para mim. Entregue-me a <<<PH1>>> ou morra!}{}{}{}{ }
+{441}{Tá bom, aqui está.}{}{5}{}{0}{in2007, fl 119 ,co}
+{442}{Você vai pensar diferente com a <<<PH1>>> saindo do seu ventre!}{}{5}{}{0}{fl 431 ,co}
+{450}{Me dê a arma! Uma arma como essa clama para ser empunhada por um guerreiro do meu poder!}{Me dê a arma! Uma arma como essa clama para ser empunhada por um guerreiro do meu poder!}{}{}{}{ }
+{451}{Não. Acho que vou ficar com ela.}{}{5}{lf5 0, sk2 18}{460}{ }
+{452}{Eu não lhe dei a <<<PH1>>>, e não vou lhe dar isto.}{}{5}{lf5 1}{470}{re-10 }
+{453}{Tá bom, aqui está.}{}{5}{}{480}{in2008 }
+{454}{Não. Acho que vou ficar com ela.}{}{5}{lf5 0, sk2 -17}{475}{ }
+{455}{Estou cansado de suas fanfarronices. Cale-se ou morra.}{}{5}{}{0}{fl 229 ,co}
+{456}{N:}{}{-4}{sk2 18}{460}{ }
+{457}{Tá.}{}{-4}{}{480}{in2008 }
+{458}{N:}{}{-4}{sk2 -17}{475}{ }
+{459}{Estou de saco cheio de você. Você morre agora.}{}{-4}{}{0}{fl 229 ,co}
+{460}{[Ele o observa com cautela.] Não sou tolo o bastante para tentar tirar isso de um guerreiro como você.}{[Ele o observa com cautela.] Não sou tolo o bastante para tentar tirar isso de um guerreiro como você.}{}{}{}{lf5 1 }
+{461}{Você é mais sábio do que aparenta. Vamos sair deste lugar, agora.}{}{5}{}{0}{ }
+{462}{Você não é burro. Vamos embora.}{}{-4}{}{0}{ }
+{470}{[O ódio queima em seus olhos.] Que assim seja.}{[O ódio queima em seus olhos.] Que assim seja.}{}{}{}{ }
+{471}{Vamos partir.}{}{5}{}{0}{ }
+{472}{Estou cansado de sua impertinência, você age como uma garotinha.}{}{5}{}{0}{fl 229 ,co}
+{475}{Você não chega nem perto de ser um oponente formidável para mim. Entregue a arma ou morra!}{Você não chega nem perto de ser um oponente formidável para mim. Entregue a arma ou morra!}{}{}{}{ }
+{476}{Tudo bem. Aqui está.}{}{5}{}{480}{in2008 }
+{477}{Você vai pensar diferente quando ela estiver saindo das suas tripas!}{}{5}{}{0}{fl 229 ,co}
+{478}{Tá.}{}{-4}{}{480}{in2008 }
+{479}{Você zomba de mim. Você morre.}{}{-4}{}{0}{fl 229 ,co}
+{480}{Ahhh! Nossos oponentes certamente cairão agora, hein?}{Ahhh! Nossos oponentes certamente cairão agora, hein?}{}{}{}{ }
+{481}{Nós os esmagaremos onde estiverem!}{}{5}{}{0}{ }
+{482}{Essa é a intenção, sim.}{}{5}{}{0}{ }
+{483}{Hã... sim?}{}{-4}{}{0}{ }
+{490}{O que você quer?}{O que você quer?}{}{}{}{ }
+{492}{B:}{}{1}{}{500}{ }
+{493}{Precisamos modificar nossa formação.}{}{5}{}{510}{ }
+{494}{Você não está no lugar certo.}{}{-4}{}{0}{ }
+{499}{E:}{}{1}{}{0}{ }
+{500}{O que mais?}{O que mais?}{}{}{}{ }
+{501}{B:}{}{1}{}{500}{ }
+{503}{Precisamos modificar nossa formação.}{}{5}{}{510}{ }
+{504}{Você não está no lugar certo.}{}{-4}{}{0}{ }
+{509}{E:}{}{1}{}{0}{ }
+{510}{Que formação vamos adotar?}{Que formação vamos adotar?}{}{}{}{ }
+{511}{Saia da frente.}{}{1}{wa 0}{500}{so }
+{512}{Chegue mais perto.}{}{1}{wa 0}{500}{sc }
+{513}{Espere aqui.}{}{1}{wa 0}{525}{wa }
+{514}{Reagrupe-se.}{}{1}{wa 1}{141}{jo 0 521}
+{515}{Dispensar.}{}{1}{wa 0}{0}{re -10, lf6 1, lv, fl  520}
+{516}{[Voltar]}{}{1}{wa 0}{500}{ }
+{517}{E:}{}{1}{}{0}{ }
+{520}{Você acha que consegue fazer isso sem mim, hein? Seu cadáver vai apodrecer ao sol sem a minha ajuda.}{Você acha que consegue fazer isso sem mim, hein? Seu cadáver vai apodrecer ao sol sem a minha ajuda.}{}{}{}{ }
+{521}{Eu sabia que você voltaria rastejando pedindo minha ajuda. Para a batalha!}{Eu sabia que você voltaria rastejando pedindo minha ajuda. Para a batalha!}{}{}{}{ }
+{522}{B:}{}{1}{}{500}{ }
+{523}{[Dar ordens.]}{}{1}{}{510}{ }
+{524}{E:}{}{1}{}{0}{ }
+{525}{Não me deixe esperando aqui por muito tempo, estou sedento por batalha!}{Não me deixe esperando aqui por muito tempo, estou sedento por batalha!}{}{}{}{ }
+{526}{O que você quer de mim agora?}{O que você quer de mim agora?}{}{}{}{ }
+{527}{Reagrupe-se comigo.}{}{5}{}{141}{jo 0 521}
+{528}{Você quer que eu ajude você?}{}{-4}{}{141}{jo 0 521}
+{529}{Não, voltei para fazer você implorar por misericórdia como o cão que é.}{}{5}{}{0}{fl 229 ,co}
+{530}{Estou aqui para matar você!}{}{-4}{}{0}{fl 229 ,co}
+{531}{N:}{}{1}{}{0}{ }
+{540}{O que é agora, idiota?}{O que foi agora, idiota?}{}{}{}{ }
+{541}{Você não deve ficar tão perto.}{}{1}{}{500}{so }
+{542}{Você está muito longe.}{}{1}{}{500}{sc }
+{543}{Esperar?}{}{1}{wa 0}{525}{wa }
+{544}{Você vai me seguir de novo?}{}{1}{wa 1}{141}{jo 0 521}
+{545}{Vá embora. Agora.}{}{1}{}{0}{re -10, lf6 1, lv, fl  550}
+{546}{[Voltar]}{}{1}{}{500}{ }
+{550}{Kree foi onde forcei o mundo a respeitar meu poder. Ninguém jamais havia rompido as grandes muralhas de Kree, mas minha horda as escalou como se fossem apenas uma miragem! Eu segurava o destino de cada homem, mulher e criança em minhas mãos e não mostrei misericórdia alguma. [Seus olhos ficam vidrados enquanto olha para a distância, saboreando mais uma vez seu momento de glória.] Se ao menos eu pudesse retornar a Arcanum...}{Kree foi onde forcei o mundo a respeitar meu poder. Ninguém jamais havia rompido as grandes muralhas de Kree, mas minha horda as escalou como se fossem apenas uma miragem! Eu segurava o destino de cada homem, mulher e criança em minhas mãos e não mostrei misericórdia alguma. [Seus olhos ficam vidrados enquanto olha para a distância, saboreando mais uma vez seu momento de glória.] Se ao menos eu pudesse retornar a Arcanum...}{}{}{}{ }
+{551}{Você quer dizer que os assassinou brutalmente sem motivo, covarde.}{}{5}{}{0}{fl 229 ,co}
+{552}{Essa é uma história realmente impressionante. Eu poderia usar um homem com seus talentos.}{}{5}{}{-10}{ }
+{553}{He he. Você é engraçado. Venha. Vai lutar comigo?}{}{-4}{}{-10}{ }
+

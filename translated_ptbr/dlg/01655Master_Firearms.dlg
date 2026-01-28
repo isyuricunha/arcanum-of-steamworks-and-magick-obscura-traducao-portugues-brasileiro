@@ -1,0 +1,273 @@
+{1}{A paz de Halcyon para você, irmão. Eu o saúdo com bondade.}{A paz de Halcyon para você, irmã. Eu a saúdo com bondade.}{}{}{}{re 50}
+{2}{Saudações, senhor. Posso perguntar seu nome?}{}{5}{lf1 0}{22}{}
+{3}{É um prazer vê-lo novamente, Sr. Thorndop. Tenho uma pergunta...}{}{5}{lf1 1}{30}{}
+{4}{Você é o Mestre de Armas de Fogo! Pode me treinar?}{}{5}{tr13 2, tr13 -2, sk13 18, lf1 1, lf2 1, qu1113 0}{98}{}
+{5}{Tenho algumas perguntas...}{}{5}{lf1 1}{30}{}
+{6}{Ouça isto, Thorndop! [Leia a carta de Willenbecker em voz alta]}{}{5}{qu1113 0, gf2281 1}{134}{}
+{7}{Vou salvar a Sra. Rolland, mas só se você me treinar.}{}{5}{qu1113 1, gf2281 1}{178}{}
+{8}{Ainda não destruí a Gangue Willenbecker.}{}{5}{qu1113 2}{202}{}
+{9}{Destruí a Gangue Willenbecker!}{}{5}{qu1113 3}{232}{}
+{10}{Destruí a Gangue Willenbecker!}{}{5}{gf 2293 1, gv1031 7}{223}{}
+{11}{Falhei, por favor, me perdoe.}{}{5}{gf 2293 1}{205}{}
+{12}{Hã, olá. Qual é o seu nome?}{}{-4}{lf1 0}{22}{}
+{13}{Me pergunta uma coisa, Thorndrops?}{}{-4}{lf1 1}{30}{}
+{14}{Você é o Mestre de Armas? Quero que me treine!}{}{-4}{tr13 2, tr13 -2, sk13 18, lf1 1, lf2 1, qu1113 0}{98}{}
+{15}{Me pergunta uma coisa?}{}{-4}{lf1 1}{30}{}
+{16}{Leia isto, Thornsdroop! [Mostre-lhe a carta de Willenbecker]}{}{-4}{qu1113 0, gf2281 1}{134}{}
+{17}{Vou resgatar a Sra. Rolland! Se você disser que vai me treinar...}{}{-4}{qu1113 1, gf2281 1}{178}{}
+{18}{Ainda não matei a Gangue Weedwhecker!}{}{-4}{qu1113 2}{202}{}
+{19}{Matei a Gangue Woolenbubker!}{}{-4}{qu1113 3}{232}{}
+{20}{Matei a Gangue Woolenbubker!}{}{-4}{gf 2293 1, gv1031 7}{223}{}
+{21}{Não consegui resgatar a Sra. Rolland! Me desculpe...}{}{-4}{gf 2293 1}{205}{}
+{22}{Eu sou William Thorndop.}{Eu sou William Thorndop.}{}{}{}{lf1 1}
+{23}{Prazer em conhecê-lo. Posso fazer uma pergunta?}{}{5}{}{30}{}
+{24}{Tenho algumas perguntas...}{}{5}{}{30}{}
+{25}{Ei, você é o Mestre de Armas de Fogo! Pode me treinar?}{}{5}{tr13 2, tr13 -2, lf2 0}{50}{}
+{26}{E:}{}{5}{}{0}{}
+{27}{Me pergunta uma coisa?}{}{-4}{}{30}{}
+{28}{Você é o Mestre de Armas? Quero que me treine!}{}{-4}{tr13 2, tr13 -2, lf2 0}{50}{}
+{29}{E:}{}{-4}{}{0}{}
+{30}{Certamente. Como posso ajudá-lo?}{Certamente. Como posso ajudá-lo?}{}{}{}{}
+{31}{H:}{}{5}{}{30}{}
+{32}{Podemos negociar?}{}{5}{}{43}{}
+{33}{Você parece religioso, mas não Panarii...}{}{5}{}{61}{}
+{34}{Você não é o Mestre de Armas de Fogo?}{}{5}{tr13 2, tr13 -2, sk13 18, lf2 0}{50}{}
+{35}{Ei, você é o Mestre de Armas de Fogo! Pode me treinar?}{}{5}{tr13 2, tr13 -2, sk13 18, lf2 1, qu1113 0}{57}{}
+{36}{E:}{}{5}{}{0}{}
+{37}{H:}{}{-4}{}{30}{}
+{38}{Você quer negociar comigo?}{}{-4}{}{43}{}
+{39}{Você está engraçado. Por que está usando essa túnica?}{}{-4}{}{61}{}
+{40}{Você é Mestre de Armas?}{}{-4}{tr13 2, tr13 -2, sk13 18, lf2 0}{50}{}
+{41}{Você é Mestre de Armas? Eu quero que me treine!}{}{-4}{tr13 2, tr13 -2, sk13 18, lf2 1, qu1113 0}{57}{}
+{42}{E:}{}{-4}{}{0}{}
+{43}{Temo que, desde que fiz meus votos, me falte bens mundanos. Não tenho nada para vender.}{Temo que, desde que fiz meus votos, me falte bens mundanos. Não tenho nada para vender.}{}{}{}{}
+{44}{Não acredito em você. Vou ter que revistar seu corpo morto!}{}{5}{}{}{co, fl 60}
+{45}{K:}{}{5}{}{30}{}
+{46}{E:}{}{5}{}{0}{}
+{47}{Humpf! Aposto que tem alguma coisa. Vou revistar depois que você morrer!}{}{-4}{}{}{co, fl 60}
+{48}{K:}{}{-4}{}{30}{}
+{49}{E:}{}{-4}{}{0}{}
+{50}{Esse já foi meu título. Mas, desde que entrei para A Ordem, ele não faz mais parte da minha vida.}{Esse já foi meu título. Mas, desde que entrei para A Ordem, ele não faz mais parte da minha vida.}{}{}{}{}
+{51}{Ordem? Que Ordem?}{}{5}{}{61}{}
+{53}{E:}{}{5}{}{0}{}
+{54}{Ordor? O que significa Oduhr?}{}{-4}{}{61}{}
+{56}{E:}{}{-4}{}{0}{}
+{57}{Esse já foi meu título. Mas, desde que entrei para A Ordem, ele não faz mais parte da minha vida.}{Esse já foi meu título. Mas, desde que entrei para A Ordem, ele não faz mais parte da minha vida.}{}{}{}{}
+{58}{Mas eu quero me tornar um Mestre. Você ainda pode me treinar!}{}{5}{}{98}{}
+{59}{Mas eu quero ser Mestre! Me treine!}{}{-4}{}{98}{}
+{60}{Pare seu ataque! Eu não lhe fiz mal algum!}{Pare seu ataque! Eu não lhe fiz mal algum!}{}{}{}{}
+{61}{Sou membro da Ordem Halcyon. Somos uma seita pacífica e não violenta.}{Sou membro da Ordem Halcyon. Somos uma seita pacífica e não violenta.}{}{}{}{}
+{62}{Nunca ouvi falar da sua ordem. Pode me contar mais?}{}{5}{}{66}{}
+{64}{Eu não conheço isso. Me conte mais?}{}{-4}{}{66}{}
+{65}{E:}{}{1}{}{0}{}
+{66}{Seria um prazer. A Ordem Halcyon é um pequeno movimento e nosso sistema de crenças é simples. Nos concentramos na verdade de que todos os seres sencientes foram criados para viver juntos em paz e harmonia. Violência, raiva, engano, ganância, todas essas coisas são estranhas à nossa verdadeira natureza pacifista e devem ser evitadas a todo custo.}{Seria um prazer. A Ordem Halcyon é um pequeno movimento e nosso sistema de crenças é simples. Nos concentramos na verdade de que todos os seres sencientes foram criados para viver juntos em paz e harmonia. Violência, raiva, engano, ganância, todas essas coisas são estranhas à nossa verdadeira natureza pacifista e devem ser evitadas a todo custo.}{}{}{}{}
+{67}{Vocês são um grupo pacífico? Não há muitos assim hoje em dia.}{}{5}{}{71}{}
+{69}{Você não gosta de lutar?!}{}{-4}{}{71}{}
+{70}{E:}{}{1}{}{0}{}
+{71}{A Ordem Halcyon acredita que um ser pacífico habita profundamente dentro de cada indivíduo. Basta simplificar e acalmar a vida para permitir que ele surja. Minha vida já foi violenta e cheia de ganância e engano, mas quando fiz penitência e simplifiquei minha vida, meu próprio Halcyon emergiu.}{A Ordem Halcyon acredita que um ser pacífico habita nas profundezas de cada indivíduo. Basta simplificar e acalmar a vida para permitir sua emergência. Minha vida já foi violenta e cheia de ganância e engano, mas quando fiz penitência e simplifiquei minha vida, meu próprio Halcyon emergiu.}{}{}{}{}
+{72}{Fez penitência? Por quê?}{}{5}{}{76}{}
+{74}{Espetar formigas? O que é isso?}{}{-4}{}{76}{}
+{75}{E:}{}{1}{}{0}{}
+{76}{Eu já fui uma verdadeira ameaça. Por muitos anos, não me importei com ninguém além de mim mesmo, vivendo cada dia através de ganância, gula e violência. Em certa época, eu era o melhor que se podia encontrar com uma arma de fogo ou qualquer outra arma. E, infelizmente, adorava provar que era o melhor.}{Eu já fui uma verdadeira ameaça. Por muitos anos, não me importei com ninguém além de mim mesmo, vivendo cada dia através de ganância, gula e violência. Em certa época, eu era o melhor que se podia encontrar com uma arma de fogo ou qualquer outra arma. E, infelizmente, adorava provar que era o melhor.}{}{}{}{}
+{77}{"Em certa época..." O que aconteceu?}{}{5}{}{81}{}
+{78}{E:}{}{5}{}{0}{}
+{79}{Por que você não gosta disso agora?}{}{-4}{}{81}{}
+{80}{E:}{}{-4}{}{0}{}
+{81}{Como penitência pelos meus pecados, e para garantir que nunca mais ferisse ninguém, removi minha capacidade de disparar uma arma. [Ele mostra suas mãos. Cada uma teve os dedos indicador e médio removidos.]}{Como penitência pelos meus pecados, e para garantir que nunca mais ferisse ninguém, removi minha capacidade de disparar uma arma. [Ele mostra suas mãos. Cada uma teve os dedos indicador e médio removidos.]}{}{}{}{lf2 1}
+{82}{Pelos deuses, homem! O que você fez consigo mesmo?!?}{}{5}{}{88}{}
+{83}{Como conseguiu fazer isso consigo mesmo?}{}{5}{}{88}{}
+{84}{E:}{}{5}{}{0}{}
+{85}{Oogah! Isso dói!}{}{-4}{}{88}{}
+{86}{Como você fez isso?!}{}{-4}{}{88}{}
+{87}{E:}{}{-4}{}{0}{}
+{88}{Meus irmãos da Ordem tiveram a bondade de me ajudar com a remoção. Eles garantiram que as facas não estivessem muito afiadas, para que, através da minha penitência, eu sentisse a dor daqueles que feri. Estou em paz desde então.}{Meus irmãos da Ordem tiveram a bondade de me ajudar com a remoção. Eles garantiram que as facas não estivessem muito afiadas, para que, através da minha penitência, eu sentisse a dor daqueles que feri. Estou em paz desde então.}{}{}{}{}
+{89}{Isso é simplesmente nojento! Que tipo de pessoa você é!?!}{}{5}{}{102}{}
+{90}{Sua Ordem parece bastante severa.}{}{5}{}{102}{}
+{91}{Sim. Posso ver como sua dor seria necessária...}{}{5}{}{108}{}
+{92}{Pelos deuses, homem! Alguém tão doente quanto você precisa morrer!}{}{5}{}{}{co, fl 60}
+{94}{Você é louco ou o quê?}{}{-4}{}{102}{}
+{95}{Você é bobo. Eu não gosto de você. Você morre.}{}{-4}{}{}{co, fl 60}
+{96}{Urgh?}{}{-4}{}{108}{}
+{97}{E:}{}{1}{}{0}{}
+{98}{Como pode ver claramente, nem mesmo é possível para mim treiná-lo no uso de armas de fogo. [Mais uma vez, exibe suas mãos mutiladas para que você veja o dano.]}{Como pode ver claramente, nem mesmo é possível para mim treiná-lo no uso de armas de fogo. [Mais uma vez, exibe suas mãos mutiladas para que você veja o dano.]}{}{}{}{}
+{99}{Você não acha que isso foi um pouco extremo?}{}{5}{}{0}{gf2279 1}
+{100}{Não acredito no que fez consigo mesmo!}{}{5}{}{0}{gf2279 1}
+{101}{Eu quero treinar! Me ensine!}{}{-4}{}{0}{gf2279 1}
+{102}{Lamento que minhas ações o perturbem. Por favor, fique em paz.}{Lamento que minhas ações o perturbem. Por favor, fique em paz.}{}{}{}{}
+{103}{Fique em paz! Olhe para você! Você é um monstro!}{}{5}{}{120}{}
+{104}{O fanatismo da sua Ordem é uma desgraça para todas as raças!}{}{5}{}{120}{}
+{105}{E:}{}{5}{}{0}{}
+{106}{Seu maluco! Cortou o dedo! Quem fez isso!?!}{}{-4}{}{120}{}
+{107}{E:}{}{-4}{}{0}{}
+{108}{Estou satisfeito com sua compreensão. Não se pode alcançar a redenção sem sofrimento. Foi um pequeno preço a pagar pela paz que agora tenho em minha vida.}{Estou satisfeito com sua compreensão. Não se pode alcançar a redenção sem sofrimento. Foi um pequeno preço a pagar pela paz que agora tenho em minha vida.}{}{}{}{}
+{109}{A Ordem Halcyon parece muito interessante.}{}{5}{}{113}{}
+{110}{E:}{}{5}{}{0}{}
+{111}{Seu grupo parece legal. Sabem muito sobre dor...}{}{-4}{}{113}{}
+{112}{E:}{}{-4}{}{0}{}
+{113}{Talvez você se interesse em saber mais sobre nossa Ordem? Se for o caso, deveria visitar o monastério em Roseborough. Você o achará muito esclarecedor.}{Talvez você se interesse em saber mais sobre nossa Ordem? Se for o caso, deveria visitar o monastério em Roseborough. Você o achará muito esclarecedor.}{}{}{}{}
+{114}{Obrigado. Talvez eu faça isso mesmo. Posso te perguntar mais uma coisa?}{}{5}{}{30}{}
+{115}{Talvez... Preciso ir andando. Adeus.}{}{5}{}{0}{}
+{116}{E:}{}{5}{}{0}{}
+{117}{Tá, quem sabe! Eu posso gostar! Quero perguntar mais uma coisa?}{}{-4}{}{30}{}
+{118}{Tá, tenho que ir. Falou!}{}{-4}{}{0}{}
+{119}{E:}{}{-4}{}{0}{}
+{120}{Reconhecemos que nem todos os seres alcançarão a iluminação como nós. Está além da compreensão de muitos. Rezarei para que seus olhos se abram à verdade.}{Reconhecemos que nem todos os seres alcançarão a iluminação como nós. Está além da compreensão de muitos. Rezarei para que seus olhos se abram à verdade.}{}{}{}{}
+{121}{Você está me chamando de burro?}{}{5}{}{129}{}
+{122}{Não perca seu tempo!}{}{5}{}{0}{}
+{123}{Tanto faz! Você pode ser louco, tudo bem. Tenho outra pergunta...}{}{5}{}{30}{}
+{124}{E:}{}{5}{}{0}{}
+{125}{Você acha que eu sou <<<PH1>>>burro?}{}{-4}{}{129}{}
+{126}{Hã, o quê? Meus olhos estão abertos! Você fala maluquice! Vou indo agora!}{}{-4}{}{0}{}
+{127}{Você é doido, senhor. Mas tenho outra pergunta...}{}{-4}{}{30}{}
+{128}{E:}{}{-4}{}{0}{}
+{129}{Nunca tive a intenção de ofendê-lo. Estou apenas tentando explicar como lhe falta compreensão para entender os significados mais elevados de nossa Ordem.}{Nunca tive a intenção de ofendê-lo. Estou apenas tentando explicar como lhe falta compreensão para entender os significados mais elevados de nossa Ordem.}{}{}{}{}
+{130}{Você está me chamando de burro! Chega! Hora de morrer, iluminado!}{}{5}{}{}{co, fl 60}
+{131}{Não vale a pena falar com você! Estou indo embora!}{}{5}{}{0}{}
+{132}{Eu não sou <<<PH1>>>burro! Você vai ver só por isso!}{}{-4}{}{}{co, fl 60}
+{133}{Tanto faz. Tchau, maluco!}{}{-4}{}{0}{}
+{134}{Não! O que vamos fazer! Edward Willenbecker e sua gangue são um dos grupos de pistoleiros mais durões que já existiram!}{Não! O que vamos fazer! Edward Willenbecker e sua gangue são um dos grupos de pistoleiros mais durões que já existiram!}{}{}{}{}
+{135}{O que eles querem com você?}{}{5}{}{139}{}
+{136}{E:}{}{5}{}{0}{}
+{137}{Por que eles querem te machucar?}{}{-4}{}{139}{}
+{138}{E:}{}{-4}{}{0}{}
+{139}{Eu estava bêbado. O irmão dele, Darryl, veio se pavoneando até mim e me desafiou para um duelo. Ele era tão arrogante e cheio de si. Chegou até a jogar uma bebida na minha cara. Foi a gota d'água! Fiquei tão furioso que simplesmente saquei minha pistola e o derrubei onde ele estava.}{Eu estava bêbado. O irmão dele, Darryl, veio se pavoneando até mim e me desafiou para um duelo de tiros. Ele era tão arrogante e cheio de si. Chegou até a jogar uma bebida na minha cara. Aquilo foi a gota d'água! Fiquei tão furioso que simplesmente saquei minha pistola e o abati onde ele estava.}{}{}{}{}
+{140}{Isso não foi uma luta justa...}{}{5}{}{147}{}
+{141}{Uau. Isso foi meio pesado.}{}{5}{}{147}{}
+{142}{Hmph. Provavelmente eu teria feito a mesma coisa!}{}{5}{}{147}{}
+{143}{E:}{}{5}{}{0}{}
+{144}{Isso num é jeito justo de lutá...}{}{-4}{}{147}{}
+{145}{É o qui' eu faria tamém!}{}{-4}{}{147}{}
+{146}{E:}{}{-4}{}{0}{}
+{147}{O pobre garoto não teve chance. [com expressão atormentada] O pior foi quando eu fiquei sóbrio e descobri que ele era só um garoto. Acho que ele pensou que ia se tornar famoso me eliminando. Provavelmente achou que eu seria um alvo fácil, bêbado. Que idiota...}{O pobre garoto não teve chance. [com expressão atormentada] O pior foi quando eu fiquei sóbrio e descobri que ele era só um garoto. Acho que ele pensou que ia se tornar famoso me eliminando. Provavelmente achou que eu seria um alvo fácil, bêbado. Que idiota...}{}{}{}{}
+{148}{Você está fugindo de Edward desde então?}{}{5}{}{154}{}
+{149}{Garoto idiota. Recebeu o que merecia! Você está se escondendo de Edward?}{}{5}{}{154}{}
+{150}{E:}{}{5}{}{0}{}
+{151}{Você fugiu do irmão dele?}{}{-4}{}{154}{}
+{152}{Esse garoto é burro! Bom que morreu! Você começou a se esconder de Edward depois disso?}{}{-4}{}{154}{}
+{153}{E:}{}{-4}{}{0}{}
+{154}{Não. Eu não fazia ideia de que eles estavam me procurando. Não consegui viver comigo mesmo depois da morte de Darryl. Fiquei atormentado, torturado. Cada dia mais bêbado, mais violento.}{Não. Eu não fazia ideia de que eles estavam me procurando. Não consegui viver comigo mesmo depois da morte de Darryl. Fiquei atormentado, torturado. Cada dia mais bêbado, mais violento.}{}{}{}{}
+{155}{Consigo entender como isso afetaria você.}{}{5}{}{161}{}
+{156}{Não acredito que você deixou isso te abalar. O garoto recebeu o que merecia!}{}{5}{}{270}{}
+{157}{E:}{}{5}{}{0}{}
+{158}{É. Isso me deixaria mal tamém.}{}{-4}{}{161}{}
+{159}{Hmph! Você num devia ficá triste. Foi bom o garoto burro morrê!}{}{-4}{}{270}{}
+{160}{E:}{}{-4}{}{0}{}
+{161}{Os irmãos da Ordem Halcyon me encontraram desmaiado em frente ao monastério deles. Eles me acolheram, me deixaram sóbrio e me mostraram o verdadeiro caminho para a redenção e a paz. Acho que Willenbecker nem pensou em me procurar num monastério.}{Os irmãos da Ordem Halcyon me encontraram desmaiado em frente ao monastério deles. Eles me acolheram, me deixaram sóbrio e me mostraram o verdadeiro caminho para a redenção e a paz. Acho que Willenbecker nem pensou em me procurar num monastério.}{}{}{}{}
+{162}{É. Acho que esse não seria o primeiro lugar onde eles procurariam.}{}{5}{}{168}{}
+{163}{Bom lugar pra se esconder, na minha opinião.}{}{5}{}{168}{}
+{164}{E:}{}{5}{}{0}{}
+{165}{Eu tamém num procuraria lá, se fosse eu...}{}{-4}{}{168}{}
+{166}{Hmmm... Bom lugar pra se escondê. Eu lembro...}{}{-4}{}{168}{}
+{167}{E:}{}{-4}{}{0}{}
+{168}{Mas o que eu vou fazer!?! Willenbecker nunca vai se sentir satisfeito só me matando agora. Sua vingança não vai ser saciada. Ele vai matar a Sra. Rolland com certeza.}{Mas o que eu vou fazer!?! Willenbecker nunca vai se sentir satisfeito só me matando agora. Sua vingança não vai ser saciada. Ele vai matar a Sra. Rolland com certeza.}{}{}{}{qu1113 1}
+{169}{Acho que é hora de pagar o pato. Boa sorte, "Mestre".}{}{5}{}{0}{}
+{170}{Eu poderia salvá-la...}{}{5}{}{173}{}
+{171}{Parece que você vai morrer. Que pena, "Mestre".}{}{-4}{}{0}{}
+{172}{Eu vô buscá ela...}{}{-4}{}{173}{}
+{173}{Você!?! Bem, você é um Especialista em Armas de Fogo, não é? Talvez consiga derrotá-los. Não tenho certeza, porém. Eles são um grupo durão, você teria que matar todos eles para que acabasse. [uma expressão de horror se espalhando pelo seu rosto ao perceber o que acabou de dizer]}{Você!?! Bem, você é um Especialista em Armas de Fogo, não é? Talvez consiga derrotá-los. Não tenho certeza, porém. Eles são um grupo durão, você teria que matar todos eles para que acabasse. [uma expressão de horror se espalhando pelo seu rosto ao perceber o que acabou de dizer]}{}{}{}{}
+{174}{Eu farei isso. Mas você deve concordar em me treinar se eu tiver sucesso.}{}{5}{}{178}{}
+{175}{E:}{}{5}{}{0}{}
+{176}{Eu pego ela. Mas você tem que me treinar quando eu terminar.}{}{-4}{}{178}{}
+{177}{E:}{}{-4}{}{0}{}
+{178}{Treinamento! Eu nem consigo segurar uma arma! Nem tenho permissão para ajudar em atos de violência.}{Treinamento! Eu nem consigo segurar uma arma! Nem tenho permissão para ajudar em atos de violência.}{}{}{}{}
+{179}{Então, acho que a Sra. Rolland vai morrer. Mais uma para a sua consciência.}{}{5}{}{183}{}
+{180}{E:}{}{5}{}{0}{}
+{181}{Aquela mulher vai morrer. Acho que vai ser culpa sua...}{}{-4}{}{183}{}
+{182}{E:}{}{-4}{}{0}{}
+{183}{Não! Por favor... [parece pensar por um momento, com uma expressão extremamente atormentada] Não posso ter a morte de mais uma pessoa nas minhas mãos! Simplesmente não aguentaria. Por favor, preciso da sua ajuda.}{Não! Por favor... [parece pensar por um momento, com uma expressão extremamente atormentada] Não posso ter a morte de mais uma pessoa nas minhas mãos! Simplesmente não aguentaria. Por favor, preciso da sua ajuda.}{}{}{}{}
+{184}{Se você concordar em me treinar, eu ajudo você. Caso contrário, ela morre.}{}{5}{}{190}{}
+{185}{Sinto muito ter que fazer isso com você. Mas preciso insistir no treinamento.}{}{5}{}{190}{}
+{186}{E:}{}{5}{}{0}{}
+{187}{Você me treina, eu pego ela. Essa é a única escolha.}{}{-4}{}{190}{}
+{188}{Desculpe você não gostar. Mas eu não ajudo se você não treinar.}{}{-4}{}{190}{}
+{189}{E:}{}{-4}{}{0}{}
+{190}{[Seu dilema é aparente no pânico em seu rosto] Mas meus votos...}{[Seu dilema é aparente no pânico em seu rosto] Mas meus votos...}{}{}{}{}
+{191}{Seus votos valem mais do que a vida inocente dela?}{}{5}{}{196}{}
+{192}{Que se danem os votos, cara! Uma vida está em jogo aqui!}{}{5}{}{196}{}
+{193}{"Votos!" Que bobagem! Você quer minha ajuda ou não?}{}{5}{}{196}{}
+{194}{Seus votos são mais importantes que a vida dela?}{}{-4}{}{196}{}
+{195}{Bah! Votos <<<PH1>>>! Você quer minha ajuda ou não?}{}{-4}{}{196}{}
+{196}{Concordo com seus termos. [ele parece destruído - uma lágrima escorre pelo seu rosto] Vá. Salve-a. Se tiver sucesso... eu o treinarei.}{Concordo com seus termos. [ele parece destruído - uma lágrima escorre pelo seu rosto] Vá. Salve-a. Se tiver sucesso... eu o treinarei.}{}{}{}{qu1113 2}
+{197}{Boa decisão! Voltarei em breve!}{}{5}{}{0}{}
+{198}{Você fez a melhor escolha. Você verá...}{}{5}{}{0}{}
+{199}{Fanáticos loucos! Vou libertá-la. Voltarei em breve para o treinamento...}{}{5}{}{0}{}
+{200}{Tá bom! Eu vou pegar os caras maus!}{}{-4}{}{0}{}
+{201}{Eu vou buscá-la...}{}{-4}{}{0}{}
+{202}{Temo que a vida da Sra. Rolland esteja perdida se você não se apressar.}{Temo que a vida da Sra. Rolland esteja perdida se você não se apressar.}{}{}{}{}
+{203}{Estou tendo algumas dificuldades. Mas não se preocupe, eu vou salvá-la...}{}{5}{}{0}{}
+{204}{Tá bom. Eu vou mais rápido...}{}{-4}{}{0}{}
+{205}{[seus olhos brilham com lágrimas não derramadas] Não! O que foi que eu fiz? Minha existência miserável destruiu mais vidas inocentes. [grita para o céu] O que devo fazer para me redimir dos meus atos passados! Não foi o suficiente para você!?! [erguendo as mãos para o céu]}{[seus olhos brilham com lágrimas não derramadas] Não! O que foi que eu fiz? Minha existência miserável destruiu mais vidas inocentes. [grita para o céu] O que devo fazer para me redimir dos meus atos passados! Não foi o suficiente para você!?! [erguendo as mãos para o céu]}{}{}{}{}
+{206}{Sr. Thorndop, eu...}{}{5}{}{211}{}
+{207}{Por favor, não é sua...}{}{5}{}{211}{}
+{208}{Isso é um pouco melodramático, não acha...}{}{5}{}{211}{}
+{209}{Você num faz...}{}{-4}{}{211}{}
+{210}{Num é você ruim, sou eu...}{}{-4}{}{211}{}
+{211}{[Violentamente] Saia de perto de mim! [Seus olhos ficam assombrados, depois enlouquecidos] A morte me persegue por toda a vida. Se ele me quer tanto, talvez eu deva me juntar a ele!}{[Violentamente] Saia de perto de mim! [Seus olhos ficam assombrados, depois enlouquecidos] A morte me persegue por toda a vida. Se ele me quer tanto, talvez eu deva me juntar a ele!}{}{}{}{}
+{212}{Agora, não faça nada precipitado...}{}{5}{}{216}{}
+{213}{O que você está dizendo?}{}{5}{}{216}{}
+{214}{O que cê qué dizer?}{}{-4}{}{216}{}
+{215}{O quê?}{}{-4}{}{216}{}
+{216}{Já é hora de eu deixar esta existência amaldiçoada! [Ele rapidamente enfia a mão nas vestes, puxa um frasco e bebe seu conteúdo].}{Já é hora de eu deixar esta existência amaldiçoada! [Ele rapidamente enfia a mão nas vestes, puxa um frasco e bebe seu conteúdo].}{}{}{}{nk}
+{217}{Não! Me desculpe! Eu não queria que ela morresse!}{}{5}{}{0}{}
+{218}{Maldição! Seu covarde desgraçado! O que foi que você fez?!?}{}{5}{}{0}{}
+{219}{Que desperdício. Hmmm... Será que ele tem algo de valor?}{}{5}{}{0}{}
+{220}{Não! Me desculpa!}{}{-4}{}{0}{}
+{221}{O que cê fez! Seu homem burro!}{}{-4}{}{0}{}
+{222}{Que homem burro... Será que ele tem alguma moeda? Hmmm...}{}{-4}{}{0}{}
+{223}{Eu tinha fé que você conseguiria! E a Sra. Rolland? Ela foi trazida de volta em segurança?}{Eu tinha fé que você conseguiria! E a Sra. Rolland? Ela foi trazida de volta em segurança?}{}{}{}{}
+{224}{Receio que tenha havido um acidente. Ela não sobreviveu.}{}{5}{}{205}{}
+{225}{Ela foi pega no fogo cruzado. Sinto muito.}{}{5}{}{205}{}
+{226}{A mulher burra correu direto para o tiroteio. A morte foi rápida.}{}{5}{}{205}{re-5}
+{227}{E:}{}{5}{}{0}{}
+{228}{Me desculpa. Ela morreu.}{}{-4}{}{205}{}
+{229}{Ela correu pro meio da luta. Me desculpa.}{}{-4}{}{205}{}
+{230}{Sua tola! Ela correu na frente das armas! Ela não sobreviveu.}{}{-4}{}{205}{re-5}
+{231}{E:}{}{-4}{}{0}{}
+{232}{Eu tinha fé que você conseguiria! E a Sra. Rolland? Ela foi trazida de volta em segurança?}{Eu tinha fé que você conseguiria! E a Sra. Rolland? Ela foi trazida de volta em segurança?}{}{}{}{}
+{233}{Sim. Ela correu para casa assim que o combate terminou.}{}{5}{}{237}{}
+{234}{E:}{}{5}{}{0}{}
+{235}{Ela correu pra casa depois que eles morreram todos.}{}{-4}{}{237}{}
+{236}{E:}{}{-4}{}{0}{}
+{237}{Obrigado pela sua ajuda. Ficarei atormentado pelas mortes que ocorreram hoje. Sinto muito por tê-lo feito cometer tal violência.}{Obrigado pela sua ajuda. Ficarei atormentado pelas mortes que ocorreram hoje. Sinto muito por tê-lo feito cometer tal violência.}{}{}{}{qu1113 4}
+{238}{Que pena. E quanto ao meu treinamento?}{}{5}{}{244}{}
+{239}{Sinto muito que você tenha que sofrer, mas eu gostaria do meu treinamento agora.}{}{5}{}{244}{}
+{240}{E:}{}{5}{}{0}{}
+{241}{Tá bom. Mas você ainda vai me treinar, certo?}{}{-4}{}{244}{}
+{242}{Me desculpe você não estar feliz. Você ainda vai me treinar? Como você disse?}{}{-4}{}{244}{}
+{243}{E:}{}{-4}{}{0}{}
+{244}{Treinamento? Eu esperava que você mudasse de ideia. Não há mais nada que você queira em troca?}{Treinamento? Eu esperava que você mudasse de ideia. Não há mais nada que você queira em troca?}{}{}{}{}
+{245}{Eu quero o treinamento que combinamos. Vamos logo com isso...}{}{5}{}{252}{}
+{246}{Não. Sinto muito, mas eu realmente quero me tornar um Mestre em armas de fogo.}{}{5}{}{252}{}
+{247}{Não suporto ver você sofrer. Você não precisa me treinar.}{}{5}{}{275}{gf 2289 1}
+{248}{E:}{}{5}{}{0}{}
+{249}{Eu quero treinamento!}{}{-4}{}{252}{}
+{250}{Eu não gosto de ver você machucado. Tá tudo bem. Eu vou embora, sem treinar.}{}{-4}{}{275}{gf 2289 1}
+{251}{E:}{}{-4}{}{0}{}
+{252}{[Relutantemente] Mostre-me sua arma. Mire naquela árvore ali. [Ele estuda sua postura, empunhadura e mira, fazendo correções e dando vários conselhos] Agora você acertará seu alvo não importa a distância. Nossa barganha está completa. Você é um Mestre em Armas de Fogo.}{[Relutantemente] Mostre-me sua arma. Mire naquela árvore ali. [Ele estuda sua postura, empunhadura e mira, fazendo correções e dando vários conselhos] Agora você acertará seu alvo não importa a distância. Nossa barganha está completa. Você é um Mestre em Armas de Fogo.}{}{}{}{tr13 3, rq2172, al-100}
+{253}{Obrigado.}{}{5}{}{259}{}
+{254}{UM Mestre em Armas de Fogo? Não, eu sou O Mestre em Armas de Fogo!}{}{5}{}{}{co, fl 60}
+{255}{Obrigado. Perdoe-me por forçá-lo a quebrar seus votos.}{}{5}{}{259}{}
+{256}{Obrigado.}{}{-4}{}{259}{}
+{257}{Eu não sou UM Mestre... Eu sou O Único Mestre!}{}{-4}{}{}{co, fl 60}
+{258}{Obrigadu. Me desculpe você não gostar de me treinar. Deixa você triste.}{}{-4}{}{259}{}
+{259}{Agora me deixe. Preciso retornar à Ordem e me redimir pelo que aconteceu aqui.}{Agora me deixe. Preciso retornar à Ordem e me redimir pelo que aconteceu aqui.}{}{}{}{}
+{260}{Você não fez nada de errado! Não precisa de redenção!}{}{5}{}{0}{gf 2289 1}
+{261}{Não é o que eu faria, mas cada um com sua própria consciência.}{}{5}{}{0}{gf 2289 1}
+{262}{Eu entendo. Rezo para que sua penitência seja breve.}{}{5}{}{0}{gf 2289 1}
+{263}{Você é fanático demais. Vou facilitar as coisas e simplesmente matá-lo...}{}{5}{}{}{co, fl 60}
+{264}{Adeus.}{}{5}{}{0}{gf 2289 1}
+{265}{Você não faz mal! Não precisa de 'hortelã de tom'!}{}{-4}{}{0}{gf 2289 1}
+{266}{Tá bom, maluco. É sua vida...}{}{-4}{}{0}{gf 2289 1}
+{267}{Tá bom. Me desculpe se você vai se machucar.}{}{-4}{}{0}{gf 2289 1}
+{268}{Você é doido! Quer dor? Eu posso te dar dor!}{}{-4}{}{}{co, fl 60}
+{269}{Tchau-tchau.}{}{-4}{}{0}{gf 2289 1}
+{270}{[interrompe a história...] Você tem ao menos uma gota de compaixão dentro de você!?! Era uma criança! Uma inocente! Está tão cheio de morte que não sente nada? [se controla] Ah. Me perdoe. Por favor, desculpe meu acesso de raiva.}{[interrompe a história...] Você tem ao menos uma gota de compaixão dentro de você!?! Era uma criança! Uma inocente! Está tão cheio de morte que não sente nada? [se controla] Ah. Me perdoe. Por favor, desculpe meu acesso de raiva.}{}{}{}{}
+{271}{Você estava dizendo...}{}{5}{}{161}{}
+{272}{Desculpe. Não tive a intenção de ofender você. Por favor, continue...}{}{5}{}{161}{}
+{273}{Só diga o que eu faria. Não é coisa ruim. Conte mais da história...}{}{-4}{}{161}{}
+{274}{Me desculpe. Não quis te deixar bravo. Conte mais sobre o que aconteceu?}{}{-4}{}{161}{}
+{275}{Oh, que bênção! Obrigado por me ajudar a manter meus votos! Aqui. Para mostrar minha gratidão, permita-me dar-lhe um presente. É algo que guardei do meu passado. Este rifle lhe servirá bem. Por favor, tente não usá-lo com raiva, apenas em legítima defesa. Obrigado novamente. Você me ajudou muito. Adeus.}{Oh, que bênção! Obrigado por me ajudar a manter meus votos! Aqui. Para mostrar minha gratidão, permita-me dar-lhe um presente. É algo que guardei do meu passado. Este rifle lhe servirá bem. Por favor, tente não usá-lo com raiva, apenas em legítima defesa. Obrigado novamente. Você me ajudou muito. Adeus.}{}{}{}{in -2022, fp}
+{276}{Uau, obrigado. É uma arma linda. Adeus.}{}{5}{}{0}{al+100}
+{277}{Você é muito gentil. Desejo-lhe o melhor. Adeus.}{}{5}{}{0}{al+100}
+{278}{Obrigadu. Essa arma é ótima. Tchau.}{}{-4}{}{0}{al+100}
+

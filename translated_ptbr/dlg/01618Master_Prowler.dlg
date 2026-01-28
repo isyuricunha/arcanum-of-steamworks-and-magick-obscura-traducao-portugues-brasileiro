@@ -1,0 +1,133 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Saudações, bom senhor. E quem seria o senhor?}{}{5}{lf1 0, re 41,lf 3 0}{126}{}
+{3}{Olá novamente, A. L. Poderia me conceder um pouco mais do seu tempo?}{}{5}{lf1 1, lf2 1,re 41, lf 3 0}{46}{}
+{4}{Isso foi rude.}{}{5}{lf1 0, re -40, lf 3 0}{29}{}
+{5}{O que eu fiz para merecer um comentário desses, A. L.?}{}{5}{lf1 1, lf2 0, re -40,lf 3 0}{40}{}
+{6}{O que eu fiz para merecer um comentário desses, A. L.?}{}{5}{lf1 1, lf2 1, re -40, lf 3 0}{37}{}
+{7}{Receio estar me sentindo um pouco tonto. Talvez deva ir descansar...}{}{5}{lf 3 1}{0}{}
+{8}{Bom te "ver" de novo. Estou aqui para treinar.}{}{5}{lf 3 0, lf 4 1, tr 6 2, tr 6 -2, sk6 18}{71}{}
+{9}{Bom te "ver" de novo. Estou aqui para treinar.}{}{5}{lf 3 0, lf 4 1, tr 6 2, tr 6 -2, sk6 -17}{138}{}
+{10}{E:}{}{5}{lf 3 0}{0}{}
+{11}{Olá, patrão. Qual é o seu nome?}{}{-4}{lf1 0, re 41,lf 3 0}{126}{}
+{12}{Isso foi maldade...}{}{-4}{lf1 0, re -40, lf 3 0}{29}{}
+{13}{Oi, Al. Posso te perguntar uma coisa?}{}{-4}{lf1 1, lf2 0, re -40,lf 3 0}{40}{}
+{14}{Oi, Al. Posso te perguntar uma coisa?}{}{-4}{lf1 1, lf2 1,lf 3 0}{46}{}
+{15}{Ah... tô com sono. Vou indo. Tchau...}{}{-4}{lf 3 1}{0}{}
+{16}{Ah... voltei. Quero aprender agora...}{}{-4}{lf 3 0, lf 4 1, tr 6 2, tr 6 -2, sk6 18}{71}{}
+{17}{Ah... voltei. Quero aprender agora...}{}{-4}{lf 3 0, lf 4 1, tr 6 2, tr 6 -2, sk6 -17}{138}{}
+{18}{E:}{}{-4}{}{0}{}
+{22}{Bem. O senhor certamente está carente de boas maneiras, não é, garoto?}{Bem. A senhora certamente está carente de boas maneiras, não é, moça?}{}{}{}{}
+{23}{Isso foi rude. Peço desculpas. Meu nome é @pcname@.}{}{5}{}{46}{re+5}
+{24}{Sim. Eu gosto de ser rude. Mas adoro ser violento!}{}{5}{}{}{co, fl 36}
+{25}{E:}{}{5}{}{0}{}
+{26}{Desculpe. Eu fui mau. Meu nome é @pcname@.}{}{-4}{}{46}{re+5, lf2 1}
+{27}{Você vai perder a cabeça...}{}{-4}{}{}{co, fl 36}
+{28}{E:}{}{-4}{}{0}{}
+{29}{Sim. Suponho que tenha sido. Acho que não deveria te culpar pelas circunstâncias do seu nascimento, no entanto. O que deseja?}{Sim. Suponho que tenha sido. Acho que não deveria te culpar pelas circunstâncias do seu nascimento, no entanto. O que deseja?}{}{}{}{}
+{30}{Poderia perguntar seu nome?}{}{5}{}{126}{}
+{31}{Chega! Você já me insultou o suficiente! Defenda-se!}{}{5}{}{}{co, fl 36}
+{32}{E:}{}{5}{}{0}{}
+{33}{Qual é o seu nome?}{}{-4}{}{126}{}
+{34}{Você foi muito mau! Vou te pegar agora!}{}{-4}{}{}{co, fl 36}
+{35}{E:}{}{-4}{}{0}{}
+{36}{Definitivamente carente de boas maneiras. Permita-me lhe ensinar algumas...}{Definitivamente carente de boas maneiras. Permita-me lhe ensinar algumas...}{}{}{}{}
+{37}{Oh, minhas desculpas. Não reconheci o senhor, @pcname@.}{Oh, minhas desculpas. Não reconheci você, @pcname@.}{}{}{}{}
+{38}{Desculpas aceitas.}{}{5}{}{46}{}
+{39}{E:}{}{5}{}{0}{}
+{40}{Você ainda não teve educação suficiente para me dizer seu nome. Mesmo eu tendo dado o meu livremente.}{Você ainda não teve educação suficiente para me dizer seu nome. Mesmo eu tendo dado o meu livremente.}{}{}{}{}
+{41}{Ah, você tem razão. Por favor, me perdoe. Meu nome é @pcname@.}{}{5}{}{46}{lf2 1}
+{42}{Talvez eu seja apenas mais sábio que você...}{}{5}{}{22}{re-5}
+{43}{E:}{}{5}{}{0}{}
+{44}{Me desculpa. Meu nome @pcname@.}{}{-4}{}{46}{lf2 1}
+{45}{E:}{}{-4}{}{0}{}
+{46}{Bem, @pcname@. O que posso fazer por você?}{Bem, @pcname@. O que posso fazer por você?}{}{}{}{}
+{47}{R:($0, 1155-1165)}{}{1}{}{46}{}
+{50}{Que tal pagar uma bebida para um camarada?}{1}{5}{re 41}{-2}{}
+{51}{Que tal pagar uma bebida para uma dama?}{0}{5}{re 41}{-2}{}
+{52}{Que tal pagar uma bebida para um camarada?}{1}{5}{re -40}{103}{}
+{53}{Que tal pagar uma bebida para uma dama?}{0}{5}{re -40}{103}{}
+{54}{Por acaso A. L. significa Albert Leek, Mestre Arrombador?}{}{5}{tr6 2, tr6 -2, gf2267 1}{147}{re +20}
+{55}{E:}{}{5}{}{0}{}
+{59}{Você paga uma bebida pra mim?}{}{-4}{re 41}{-2}{}
+{60}{Você paga uma bebida pra mim?}{}{-4}{re -40}{103}{}
+{61}{Você é Albert Leek, o Mestre?}{}{-4}{tr6 2, tr6 -2, gf????}{147}{}
+{62}{E:}{}{-4}{}{0}{}
+{71}{Estou impressionado em ver que você conseguiu superar o desafio. Meu propósito era transmitir a você o conhecimento de que o melhor lugar para se esconder é muitas vezes à vista de todos.}{Estou impressionado em ver que você conseguiu superar o desafio. Meu propósito era transmitir a você o conhecimento de que o melhor lugar para se esconder é muitas vezes à vista de todos.}{}{}{}{}
+{72}{Essas são palavras sábias. Sobre o treinamento...}{}{5}{}{79}{}
+{73}{ESSE era o seu grande segredo!?! Humpf... Posso ser treinado agora?}{}{5}{}{79}{re -5}
+{74}{Ah, que bobagem! Apenas me treine para que eu possa sair daqui...}{}{5}{}{89}{re -15}
+{75}{E:}{}{5}{}{0}{}
+{76}{Ooooo... Isso é esperto. Me treina agora?}{}{-4}{}{79}{}
+{77}{Hah! Isso é 'tupidez. Você não é muito esperto! Acha que pode me treinar?}{}{-4}{}{89}{}
+{78}{E:}{}{-4}{}{0}{}
+{79}{Ao me encontrar, você provou que é verdadeiramente um mestre na arte de se esgueirar. Por meio deste, concedo-lhe o título de Mestre Arrombador. Além disso... tenho uma coisinha para ajudá-lo em suas empreitadas...}{Ao me encontrar, você provou que é verdadeiramente um mestre na arte de se esgueirar. Por meio deste, concedo-lhe o título de Mestre Arrombador. Além disso... tenho uma coisinha para ajudá-lo em suas empreitadas...}{}{}{}{tr6 3, rq2161, qu1110 4}
+{80}{O que é?}{}{5}{}{83}{}
+{81}{Sim...}{}{5}{}{83}{}
+{82}{O que você me dá?}{}{-4}{}{83}{}
+{83}{É um anel mágico. Quando usado, você será capaz de se mover mais silenciosamente. Use-o bem. Desejo-lhe boas viagens, Mestre.}{É um anel mágico. Quando usado, você será capaz de se mover mais silenciosamente. Use-o bem. Desejo-lhe boas viagens, Mestre.}{}{}{}{in -2819}
+{84}{Meus agradecimentos, Albert! Você é verdadeiramente um grande Mestre.}{}{5}{}{0}{}
+{85}{A senhora é muito bondosa.}{}{5}{}{0}{}
+{86}{Receio que eu deseje ser o único Mestre. Minhas desculpas...}{}{5}{}{}{co, fl 36}
+{87}{Obrigadu, Ayell. Você é um bom homem.}{}{-4}{}{0}{}
+{88}{Ah, que bom! Agora eu sou o Mest'r. Só pode ter um. Isso significa que você morre!...}{}{-4}{}{}{co, fl 36}
+{89}{Se é assim que você quer... Acho que você deveria ir para o... espera... [ele murmura consigo mesmo por um momento, depois suspira alto] Mesmo que eu preferisse que não tivesse, você conseguiu me encontrar. Então, por meio deste, concedo a você, criatura rude que é, o título de Mestre Espreitador. Agora, por favor, leve sua presença irritante para longe de mim....}{Se é assim que você quer... Acho que você deveria ir para o... espera... [ele murmura consigo mesmo por um momento, depois suspira alto] Mesmo que eu preferisse que não tivesse, você conseguiu me encontrar. Então, por meio deste, concedo a você, criatura rude que é, o título de Mestre Espreitador. Agora, por favor, leve sua presença irritante para longe de mim....}{}{}{}{tr6 3, rq2161, qu1110 4}
+{90}{Tudo bem por mim. Que perda de tempo...}{}{5}{}{0}{}
+{91}{Rude, é? Isso não é nada! Me diga o que você acha DISSO...}{}{5}{}{}{co, fl 36}
+{92}{E:}{}{5}{}{0}{}
+{93}{Bah! Homem 'túpido. Eu vou agora.}{}{-4}{}{0}{}
+{94}{Melhor eu não ser 'túpido como você! Talvez você goste que eu mostre a você a dor...}{}{-4}{}{}{co, fl 36}
+{95}{E:}{}{-4}{}{0}{}
+{96}{[parecendo bastante chateado] Lamento saber que você não achou meu pequeno teste apropriado. Meu propósito era transmitir a você o conhecimento de que o melhor lugar para se esconder é muitas vezes à vista de todos.}{[parecendo bastante chateado] Lamento saber que você não achou meu pequeno teste apropriado. Meu propósito era transmitir a você o conhecimento de que o melhor lugar para se esconder é muitas vezes à vista de todos.}{}{}{}{}
+{97}{Aquilo foi seu grande segredo!?! Ah, bem... Posso ser treinado agora?}{}{5}{}{79}{re -5}
+{98}{Ah, que besteira! Apenas me treine para que eu possa sair daqui...}{}{5}{}{89}{re -15}
+{99}{E:}{}{5}{}{0}{}
+{100}{Hmmm. Tá bom. Que tal só me treinar, então eu vou, tá?}{}{-4}{}{79}{}
+{101}{Hah! Isso é 'túpido. Você não é muito esperto pra meio-elfo! Isso é tudo que você tem?}{}{-4}{}{89}{}
+{102}{E:}{}{-4}{}{0}{}
+{103}{Desculpe, velho companheiro. Estou meio sem grana hoje...}{Meus pêsames, madame. Parece que estou meio sem grana hoje...}{}{}{}{}
+{104}{Valeu a tentativa, eu acho. Posso perguntar outra coisa?}{}{5}{}{46}{}
+{105}{Sua falta de hospitalidade acabou de lhe custar a vida, A.L.}{}{5}{}{}{co, fl 36}
+{106}{E:}{}{5}{}{0}{}
+{107}{Bom, eu tentei. [suspiro] Posso perguntar mais?}{}{-4}{}{46}{}
+{108}{Você não divide... então eu faço você morrer!}{}{-4}{}{}{co, fl 36}
+{109}{E:}{}{-4}{}{0}{}
+{110}{Sabe, eu realmente gosto de você, @pcname@. Garçom!... sirva uma bebida para este cavalheiro! E coloque na minha conta!}{Sabe, eu realmente gosto de você, @pcname@. Garçom!... sirva uma bebida para a senhora! E coloque na minha conta!}{}{}{}{}
+{111}{Você é muito gentil, A. L.}{}{5}{}{46}{}
+{112}{E:}{}{5}{}{0}{}
+{113}{Você é o melhor, Ayell!}{}{-4}{}{46}{}
+{114}{E:}{}{-4}{}{0}{}
+{115}{Acho que você já bebeu o suficiente por hoje, @pcname@. Talvez devesse ir para casa e descansar um pouco.}{Acho que você já bebeu o suficiente por hoje, @pcname@. Talvez devesse ir para casa e descansar um pouco.}{}{}{}{}
+{116}{Ah... É. Talvez você esteja certo...}{}{1}{}{0}{}
+{117}{Cala a boca! Você não sabe do que está falando...}{}{1}{}{119}{}
+{118}{São palavras de luta... [hic] Defenda-se...}{}{1}{}{}{co, fl 36}
+{119}{É bem óbvio que eu sei do que estou falando. Agora vá para casa!}{É bem óbvio que eu sei do que estou falando. Agora vá para casa!}{}{}{}{}
+{120}{Não fique bravo. [soluço] Eu já vou...}{}{1}{}{0}{}
+{121}{Chega! Eu vou [soluço] acabar com você como o lixo que é...}{}{1}{}{}{co, fl 36}
+{126}{Meu pai me deu um nome élfico, mas a pronúncia é difícil demais para as outras raças desta bela cidade dominarem. Então eu simplesmente me chamo A. L. E qual seria o seu nome?}{Meu pai me deu um nome élfico, mas a pronúncia é difícil demais para as outras raças desta bela cidade dominarem. Então eu simplesmente me chamo A. L. E qual seria o seu nome?}{}{}{}{lf1 1}
+{127}{Com certeza, A. L. Meu nome é @pcname@.}{}{5}{}{46}{lf2 1}
+{128}{Eu sou @pcname@.}{}{5}{}{46}{lf2 1}
+{129}{Isso não é da sua conta.}{}{5}{}{22}{re-10}
+{130}{Eu não gosto particularmente de escória mestiça...}{}{5}{ra-4}{22}{re-15}
+{131}{Normalmente eu não me associo com escória...}{}{5}{ra 4}{22}{re-15}
+{132}{Meu nome é @pcname@.}{}{-4}{}{46}{lf2 1}
+{133}{Não.}{}{-4}{ra-4}{22}{re-10}
+{134}{Eu não gosto de você.}{}{-4}{ra 4}{22}{re-15}
+{138}{Você resolveu meu enigma, incrível... Porém, sinto que ainda precisa de mais experiência antes de se tornar um Mestre. Volte quando estiver pronto, e eu o treinarei @pcname@.}{Você resolveu meu enigma, incrível... Porém, sinto que ainda precisa de mais experiência antes de se tornar um Mestre. Volte quando estiver pronto, e eu o treinarei @pcname@.}{}{}{}{lf 4 1}
+{139}{Obrigado. Voltarei em breve.}{}{5}{}{0}{}
+{140}{Eu voltarei.}{}{5}{}{0}{}
+{141}{Permita-me treiná-lo... como um Mestre da morte!}{}{5}{}{}{co, fl 36}
+{142}{K:}{}{5}{}{46}{}
+{143}{Hã... Eu volto já.}{}{-4}{}{0}{}
+{144}{Você não me treina... então morra!}{}{-4}{}{}{co, fl 36}
+{147}{...Por que [sorrindo amplamente] ...Sim, sou eu! Muito bem! Sabe que você é a primeira pessoa a chegar até mim? Espero que sua pequena aventura não tenha sido difícil demais?}{...Por que [sorrindo amplamente] ...Sim, sou eu! Muito bem! Sabe que você é a primeira pessoa a chegar até mim? Espero que sua pequena aventura não tenha sido difícil demais?}{}{}{}{}
+{148}{Na verdade, foi bem desafiador.}{}{5}{sk6 18}{71}{}
+{149}{Não achei tão difícil assim.}{}{5}{sk6 18}{71}{}
+{150}{Qualquer idiota poderia decifrar seus versos patéticos.}{}{5}{sk6 18}{96}{re-5}
+{151}{Na verdade, foi bem desafiador. Agora, sobre o treinamento...}{}{5}{sk6 -17}{138}{re +5}
+{152}{Não achei tão difícil assim. Agora, sobre o treinamento...}{}{5}{sk6 -17}{138}{}
+{155}{Foi difícil te achar. Fico feliz que acabou.}{}{-4}{sk6 18}{71}{}
+{156}{Hã... Não foi difícil. Você foi fácil de achar. Os outros devem ser bem burros.}{}{-4}{sk6 18}{96}{re-5}
+{157}{Foi difícil te achar. Fico feliz que acabou. Posso ser treinado agora?}{}{-4}{sk6 -17}{138}{}
+{158}{Não. Não foi difícil. Você foi fácil de achar. Posso ser treinado agora?}{}{-4}{sk6 -17}{138}{re -10}
+{159}{E:}{}{1}{}{0}{}
+

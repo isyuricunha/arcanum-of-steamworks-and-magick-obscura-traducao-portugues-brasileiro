@@ -1,0 +1,171 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá novamente, Sra. Cameron. Posso lhe fazer algumas perguntas?}{}{5}{lf1 1, re 41}{24}{}
+{3}{Peço desculpas por tê-la ofendido. Por favor, me perdoe. Posso saber seu nome?}{}{5}{lf1 1, re -40}{19}{}
+{4}{É um prazer conhecê-la, boa mulher. Posso saber seu nome?}{}{5}{lf1 0, re 41}{19}{}
+{5}{Desculpe tê-la ofendido, Sra. Cameron. Eu tinha algumas perguntas...}{}{5}{lf1 0, re -40}{35}{}
+{6}{Vou tentar encontrar seu filho, Sra. Cameron.}{}{5}{qu1119 1}{85}{}
+{7}{Ainda não localizei Liam, Sra. Cameron.}{}{5}{qu1119 2}{93}{}
+{8}{Tenho notícias de Liam, Sra. Cameron.}{}{5}{qu1119 3}{97}{}
+{9}{Eu destruí o portal.}{}{5}{qu1119 4, qu1120 4}{169}{}
+{10}{Oi, Sra. Cameron. Eu te pergunto uma coisa?}{}{-4}{lf1 1, re 41}{24}{}
+{11}{Me desculpe você não gostar de mim... Você me diz seu nome?}{}{-4}{lf1 1, re -40}{19}{}
+{12}{Oi, senhora! Qual é o seu nome?}{}{-4}{lf1 0, re 41}{19}{}
+{13}{Me desculpe você estar brava, senhora. Eu te pergunto uma coisa?}{}{-4}{lf1 0, re -40}{35}{}
+{14}{Eu vou procurar o Liam.}{}{-4}{qu1119 1}{85}{}
+{15}{Eu ainda não encontrei o Lee am, Sra. Cameron.}{}{-4}{qu1119 2}{93}{}
+{16}{Eu falo com você sobre o Liam?}{}{-4}{qu1119 3}{97}{}
+{17}{Eu destruí o portal.}{}{-4}{qu1119 4, qu1120 4, lf5 0}{169}{}
+{18}{E:}{}{1}{}{0}{}
+{19}{Eu sou a Sra. Cameron, forasteiro. Você parece ter viajado bastante. Diga-me... Você viu meu filho?}{Eu sou a Sra. Cameron, forasteiro. Você parece ter viajado bastante. Diga-me... Você viu meu filho?}{}{}{}{lf1 1}
+{20}{Seu filho? Quem é seu filho?}{}{5}{}{60}{}
+{21}{Seu filho? Eu não sei quem é seu filho...}{}{-4}{}{60}{}
+{22}{E:}{}{1}{}{0}{}
+{23}{Socorro! Guardas! Socorro! Socorro!}{Socorro! Guardas! Socorro! Socorro!}{}{}{}{}
+{24}{Em que posso ajudá-lo?}{Em que posso ajudá-lo?}{}{}{}{}
+{25}{Conte-me sobre seu filho...}{}{5}{qu1119 0}{60}{}
+{26}{Você pode me dar treinamento especializado em reparos?}{}{5}{tr12 1, tr12 -1, sk12 10}{46}{}
+{27}{Como você se tornou tão habilidoso em consertar coisas?}{}{5}{qu1119 1, lf2 0}{56}{}
+{28}{Eu quero saber sobre seu filho...}{}{-4}{qu1119 0}{60}{}
+{29}{Você me treina como Especialista em Reparos?}{}{-4}{tr12 1, tr12 -1, sk12 10}{46}{}
+{30}{Como você ficou tão bom em consertar coisas?}{}{-4}{qu1119 1, lf2 0}{56}{}
+{31}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{32}{Você conserta minhas coisas?}{}{-4}{}{0}{ri}
+{33}{C:}{}{1}{}{35}{}
+{34}{E:}{}{1}{}{0}{}
+{35}{Claro. Em que mais posso ajudá-lo?}{Claro. Em que mais posso ajudá-la?}{}{}{}{}
+{36}{Fale-me sobre seu filho...}{}{5}{qu1119 0}{60}{}
+{37}{Você pode me dar treinamento especializado em reparos?}{}{5}{tr12 1, tr12 -1, sk12 10}{46}{}
+{38}{Como você se tornou tão habilidosa em consertar coisas?}{}{5}{qu1119 1, lf2 0}{56}{}
+{39}{Me querer saber sobre seu filho...}{}{-4}{qu1119 0}{60}{}
+{40}{Você me treinar como Especialista em reparos?}{}{-4}{tr12 1, tr12 -1, sk12 10}{46}{}
+{41}{Como você ficou tão bom em consertar coisas?}{}{-4}{qu1119 1, lf2 0}{56}{}
+{42}{Você pode consertar algo para mim?}{}{5}{}{0}{ri}
+{43}{Você conserta minhas coisas?}{}{-4}{}{0}{ri}
+{44}{C:}{}{1}{}{35}{}
+{45}{E:}{}{1}{}{0}{}
+{46}{Ora, sim, posso. Cobro 500 moedas.}{Ora, sim, posso. Cobro 500 moedas.}{}{}{}{}
+{47}{Aqui está.}{}{5}{$$ 500}{52}{$$ -500}
+{48}{Isso é um pouco mais do que posso pagar. Vou ter que voltar mais tarde.}{}{5}{$$ -500}{35}{}
+{49}{Aqui. Peguei.}{}{-4}{$$ 500}{52}{$$ -500}
+{50}{Oh. Isso é muito dinheiro. Me precisar conseguir mais...}{}{-4}{$$ -500}{35}{}
+{51}{E:}{}{1}{}{0}{}
+{52}{Obrigado, senhor. Agora você é um Especialista em reparos. Se algum dia quiser se tornar Mestre, precisará procurar Hieronymous Maxim. Ele mora em Caladon. Sua fábrica fica logo fora da entrada da cidade.}{Obrigado, senhorita. Agora você é uma Especialista em reparos. Se algum dia quiser se tornar Mestre, precisará procurar Hieronymous Maxim. Ele mora em Caladon. Sua fábrica fica logo fora da entrada da cidade.}{}{}{}{tr12 2, ru 2171}
+{53}{Obrigado, Sra. Cameron. Posso lhe perguntar mais alguma coisa?}{}{5}{}{35}{}
+{54}{Obrigada, Sra. Cameron. Me perguntar mais uma coisa?}{}{-4}{}{35}{}
+{55}{E:}{}{1}{}{0}{}
+{56}{Meu falecido marido, que descanse em paz, estava sempre mexendo com uma coisa ou outra. Ele tinha uma pequena oficina de reparos e, depois que faleceu, eu a mantive funcionando por um tempo. Parece que acabei aprendendo muito observando-o ao longo dos anos.}{Meu falecido marido, que descanse em paz, estava sempre mexendo com uma coisa ou outra. Ele tinha uma pequena oficina de reparos e, depois que faleceu, eu a mantive funcionando por um tempo. Parece que acabei aprendendo muito observando-o ao longo dos anos.}{}{}{}{lf2 1}
+{57}{Sim. Você sabe bastante sobre consertar coisas. Outra pergunta?}{}{5}{}{35}{}
+{58}{Sim. Você saber muito. Me perguntar mais uma coisa?}{}{-4}{}{35}{}
+{59}{E:}{}{1}{}{0}{}
+{60}{Liam. Meu filho é Liam Cameron, o inventor. Não o vejo há quase 2 meses... tão diferente dele... Eu estava me perguntando se você passou pela oficina dele em suas viagens?}{Liam. Meu filho é Liam Cameron, o inventor. Não o vejo há quase 2 meses... tão diferente dele... Eu estava me perguntando se você passou pela oficina dele em suas viagens?}{}{}{}{}
+{61}{A oficina dele? Receio que devo ter vindo por uma rota diferente.}{}{5}{ni5240}{68}{}
+{62}{Oh! Então a senhora é a mãe do Liam... Eu tenho o diário dele...}{}{5}{in5240, gf2316 0}{155}{qu1119 1}
+{63}{Oh! Sinto muito pela sua perda, madame... Eu tenho o diário dele...}{}{5}{in5240, gf2316 1}{159}{qu1119 1}
+{64}{Oficina? Não. Me não ver nenhuma oficina...}{}{-4}{ni5240}{68}{}
+{65}{Oh! Você é a mãe dele. Eu peguei o livro que ele escrevia...}{}{-4}{in5240, gf2316 0}{155}{qu1119 1}
+{66}{Oh! Me desculpe. Você vai ficar triste. Eu peguei o livro dele...}{}{-4}{in5240, gf2316 1}{159}{qu1119 1}
+{67}{E:}{}{1}{}{0}{}
+{68}{Ele é um inventor, como o pai dele antes. Sempre trabalhando em algum novo dispositivo. Ele construiu uma oficina a cerca de três dias de viagem dentro da floresta, para não ser incomodado.}{Ele é um inventor, como o pai dele antes. Sempre trabalhando em algum novo dispositivo. Ele construiu uma oficina a cerca de três dias de viagem dentro da floresta, para não ser incomodado.}{}{}{}{}
+{69}{E ele está desaparecido?}{}{5}{}{73}{}
+{70}{E você não o vê há algum tempo?}{}{5}{}{73}{}
+{71}{Por que você está procurando por ele?}{}{-4}{}{73}{}
+{72}{E:}{}{1}{}{0}{}
+{73}{A rotina normal dele era voltar aqui uma vez por mês, para me visitar e reabastecer os suprimentos. Já se passaram quase dois meses, e não ouvi nada. Com essas coisas estranhas acontecendo na floresta, estou muito preocupada.}{A rotina normal dele era voltar aqui uma vez por mês, para me visitar e reabastecer os suprimentos. Já se passaram quase dois meses, e não ouvi nada. Com essas coisas estranhas acontecendo na floresta, estou muito preocupada.}{}{}{}{}
+{74}{Coisas estranhas?}{}{5}{}{79}{}
+{75}{Entendo por que você estaria preocupada. Gostaria que eu o encontrasse?}{}{5}{}{85}{qu1119 1}
+{76}{Coisas estranhas?}{}{-4}{}{79}{}
+{77}{Eu vejo por que você acha que ele está desaparecido. Você quer que eu o encontre?}{}{-4}{}{85}{qu1119 1}
+{78}{E:}{}{1}{}{0}{}
+{79}{Ah, sim! Criaturas estranhas têm sido vistas por toda a floresta. De todos os tipos diferentes, e não apenas um avistamento ocasional. Alguns moradores da cidade até foram mortos. É bastante alarmante. Eu estava torcendo para que você tivesse notícias do Liam!}{Ah, sim! Criaturas estranhas têm sido vistas por toda a floresta. De todos os tipos diferentes, e não apenas um avistamento ocasional. Alguns moradores da cidade até foram mortos. É bastante alarmante. Eu estava torcendo para que você tivesse notícias do Liam!}{}{}{}{qu1119 1}
+{80}{Você gostaria que eu visse se consigo encontrá-lo?}{}{5}{}{85}{}
+{81}{Não. Desculpe. Não o vi. Posso te perguntar uma coisa?}{}{5}{}{35}{}
+{82}{Você quer que eu o encontre?}{}{-4}{}{85}{}
+{83}{Então. Eu não o vi. Desculpe. Posso te perguntar uma coisa?}{}{-4}{}{35}{}
+{84}{E:}{}{1}{}{0}{}
+{85}{Você faria isso?! Eu ficaria tão grata! Sei que é papel de mãe se preocupar. Mas isso é tão diferente do Liam. Agradeceria qualquer tentativa que você fizesse para localizá-lo.}{Você faria isso?! Eu ficaria tão grata! Sei que é papel de mãe se preocupar. Mas isso é tão diferente do Liam. Agradeceria qualquer tentativa que você fizesse para localizá-lo.}{}{}{}{}
+{86}{Aqui, mostre no meu mapa onde fica a oficina dele.}{}{5}{}{89}{}
+{87}{Aqui no meu mapa. Você me mostra onde fica a oficina?}{}{-4}{}{89}{}
+{88}{E:}{}{1}{}{0}{}
+{89}{Oh. Aqui. É bem aqui. [ela aponta para um ponto no seu mapa]}{Oh. Aqui. É bem aqui. [ela aponta para um ponto no seu mapa]}{}{}{}{MM 42, qu1119 2}
+{90}{Eu trarei notícias para você.}{}{5}{}{0}{}
+{91}{Eu vou descobrir o que aconteceu com ele...}{}{-4}{}{0}{}
+{92}{E:}{}{1}{}{0}{}
+{93}{Ah, estou tão preocupada! Por favor, encontre-o @pcname@. Rezo para que ele esteja bem.}{Ah, estou tão preocupada! Por favor, encontre-o @pcname@. Rezo para que ele esteja bem.}{}{}{}{}
+{94}{Vou continuar minha busca.}{}{5}{}{0}{}
+{95}{Eu vou procurar mais um pouco.}{}{-4}{}{0}{}
+{96}{E:}{}{1}{}{0}{}
+{97}{Quais as novidades? Onde ele está?}{Quais as novidades? Onde ele está?}{}{}{}{}
+{98}{Sinto muito. Ele foi morto por uma das feras que rondam a floresta.}{}{5}{gf 2316 1}{103}{qu1119 4}
+{99}{Ele ainda está desaparecido. Encontrei este diário. Não parece nada bom...}{}{5}{gf 2316 0}{145}{}
+{100}{Me desculpa. Liam morreu. Uma das feras estranhas o matou.}{}{-4}{gf 2316 1}{103}{qu1119 4}
+{101}{Num achei ele. Mas achei esse livro. Num acho que ele tá vivo...}{}{-4}{gf 2316 0}{145}{}
+{102}{E:}{}{1}{}{0}{}
+{103}{NÃO!!! [solta um grito longo e estridente] Meu bebê! Meu pobre bebê! [soluça no avental] ...Estou sozinha. Não tenho mais ninguém... Ninguém...}{NÃO!!! [solta um grito longo e estridente] Meu bebê! Meu pobre bebê! [soluça no avental] ...Estou sozinha. Não tenho mais ninguém... Ninguém...}{}{}{}{}
+{104}{Ele morreu tentando deter as criaturas. Foi um herói.}{}{5}{gf2316 1}{109}{}
+{105}{Sei que parece sombrio... Mas ele ainda pode estar vivo...}{}{5}{gf2316 0}{149}{}
+{106}{Ele morreu lutando contra os monstros ruins. Foi um herói.}{}{-4}{gf2316 1}{109}{}
+{107}{Seu triste, eu sei... Mas talvez ele ainda esteja vivo... talvez...}{}{-4}{gf2316 0}{149}{}
+{108}{E:}{}{1}{}{0}{}
+{109}{Mas eles o mataram e ainda estão à solta! [soluço] Sua morte foi em vão...}{Mas eles o mataram e ainda estão à solta! [soluço] Sua morte foi em vão...}{}{}{}{}
+{110}{Não. Não foi em vão. Foi a criação dele que me permitiu detê-los.}{}{5}{qu1120 4}{115}{}
+{111}{Não. Num foi em vão... Ele tinha umas coisas que me ajudaram a pará eles de vez.}{}{-4}{qu1120 4}{115}{}
+{112}{Mas ele morreu com bravura. Tentando deter as feras.}{}{5}{qa1120 1, qb1120 2}{163}{}
+{113}{Mas ele morreu como herói... ele tentou pará as feras do mal.}{}{-4}{qa1120 1, qb1120 2}{163}{}
+{114}{E:}{}{1}{}{0}{}
+{115}{Sério? [soluço] ...A morte dele não foi em vão?}{Sério? [soluço] ...A morte dele não foi em vão?}{}{}{}{re +15}
+{116}{Se não fosse pelo seu filho, esta cidade teria sido tomada pelas feras!}{}{5}{in 5240}{123}{}
+{117}{Se não fosse pelo seu filho, esta cidade teria sido tomada pelas feras!}{}{5}{ni 5240, ta-1}{137}{}
+{118}{Se não fosse pelo seu filho, esta cidade teria sido tomada pelas feras!}{}{5}{ni 5240, ta 2}{141}{}
+{119}{Essa cidade teria sido tomada pelas feras se num fosse por ele!}{}{-4}{ni 5240, ta-1}{137}{}
+{120}{Essa cidade teria sido tomada pelas feras se num fosse por ele!}{}{-4}{ni 5240, ta 2}{141}{}
+{121}{Essa cidade teria sido tomada pelas feras se num fosse por ele!}{}{-4}{in 5240}{123}{}
+{122}{E:}{}{1}{}{0}{}
+{123}{Vou sentir tanto a falta dele. Pelo menos sua morte não foi em vão.}{Vou sentir tanto a falta dele. Pelo menos sua morte não foi em vão.}{}{}{}{}
+{124}{Aqui. Encontrei o Diário dele na oficina. Ele queria que você ficasse com ele.}{}{5}{in 5240, ta-1}{129}{in 5240, qu1119 4}
+{125}{Aqui. Encontrei o Diário dele na oficina. Ele queria que você ficasse com ele.}{}{5}{in 5240, ta 2}{133}{in 5240, qu1119 4}
+{126}{Achei esse livro na oficina. Ele diz que quer que você fique com ele.}{}{-4}{in 5240, ta-1}{129}{in 5240, qu1119 4}
+{127}{Achei esse livro na oficina. Ele diz que quer que você fique com ele.}{}{-4}{in 5240, ta 2}{133}{in 5240, qu1119 4}
+{128}{E:}{}{1}{}{0}{}
+{129}{[apertando-o contra si] Obrigada. Obrigada por correr tantos riscos para me trazer isto. Tome. Pegue esta adaga, um pequeno sinal da minha gratidão.}{[apertando-o contra si] Obrigada. Obrigada por correr tantos riscos para me trazer isto. Tome. Pegue esta adaga, um pequeno sinal da minha gratidão.}{}{}{}{in -2023}
+{130}{Obrigada. Sinto muito pela sua perda. Adeus.}{}{5}{}{0}{}
+{131}{Obrigadu. Sinto muito que ele tenha morrido. Tchau.}{}{-4}{}{0}{}
+{132}{E:}{}{1}{}{0}{}
+{133}{[apertando-o contra si] Obrigada. Obrigada por correr tantos riscos para me trazer isto. Tome. Pegue este chapéu, como um pequeno sinal da minha gratidão. Era uma das primeiras invenções de Liam.}{[apertando-o contra si] Obrigada. Obrigada por correr tantos riscos para me trazer isto. Tome. Pegue este chapéu, como um pequeno sinal da minha gratidão. Era uma das primeiras invenções de Liam.}{}{}{}{in -2856}
+{134}{Obrigada. Sinto muito pela sua perda. Adeus.}{}{5}{}{0}{}
+{135}{Obrigadu. Sinto muito que ele tenha morrido. Tchau.}{}{-4}{}{0}{}
+{136}{E:}{}{1}{}{0}{}
+{137}{Obrigada. Obrigada por correr tantos riscos para procurar meu filho. Tome. Pegue esta adaga, um pequeno sinal da minha gratidão.}{Obrigada. Obrigada por correr tantos riscos para procurar meu filho. Tome. Pegue esta adaga, um pequeno sinal da minha gratidão.}{}{}{}{in -2023}
+{138}{Obrigada. Sinto muito pela sua perda. Adeus.}{}{5}{}{0}{}
+{139}{Obrigadu. Sinto muito que ele tenha morrido. Tchau.}{}{-4}{}{0}{}
+{140}{E:}{}{1}{}{0}{}
+{141}{Obrigada. Obrigada por correr tantos riscos para procurar meu filho. Tome. Pegue este chapéu, como um pequeno sinal da minha gratidão. Era uma das primeiras invenções de Liam.}{Obrigada. Obrigada por correr tantos riscos para procurar meu filho. Tome. Pegue este chapéu, como um pequeno sinal da minha gratidão. Era uma das primeiras invenções de Liam.}{}{}{}{in -2856}
+{142}{Obrigada. Sinto muito pela sua perda. Adeus.}{}{5}{}{0}{}
+{143}{Obrigadu. Sinto muito que ele tenha morrido. Tchau.}{}{-4}{}{0}{}
+{144}{E:}{}{1}{}{0}{}
+{145}{NÃO!!! Ele não pode estar morto... Não pode! Me dê esse diário! [ela o pega, folheando-o rapidamente] ...Oh! Meu pobre bebê! O que você fez!?! Sempre tentando salvar o mundo! [ela olha para você] Você não viu nenhum sinal dele?}{NÃO!!! Ele não pode estar morto... Não pode! Me dê esse diário! [ela o pega, folheando-o rapidamente] ...Oh! Meu pobre bebê! O que você fez!?! Sempre tentando salvar o mundo! [ela olha para você] Você não viu nenhum sinal dele?}{}{}{}{}
+{146}{Não. Não o vi. Mas há muitas criaturas perigosas...}{}{5}{}{149}{}
+{147}{Num vi ele. Mas vi muitos bichos perigosos...}{}{-4}{}{149}{}
+{148}{E:}{}{1}{}{0}{}
+{149}{Devo manter a esperança de que ele esteja vivo. Você continuará procurando por ele? O diário dele menciona um portal... Está disposto a procurá-lo lá e tentar destruí-lo?}{Devo manter a esperança de que ele esteja vivo. Você continuará procurando por ele? O diário dele menciona um portal... Está disposto a procurá-lo lá e tentar destruí-lo?}{}{}{}{}
+{150}{Sim. Continuarei minha busca. Voltarei.}{}{5}{}{0}{qu1120 2}
+{151}{Não me sinto preparado para tal tarefa. Sinto muito. Adeus.}{}{5}{}{0}{}
+{152}{Sim. Vou procurar mais. Volto depois.}{}{-4}{}{0}{qu1120 2}
+{153}{Num tô pronto pra isso. Sinto muito. Tchau.}{}{-4}{}{0}{}
+{154}{E:}{}{1}{}{0}{}
+{155}{O diário dele? Então você esteve na oficina dele. Deixe-me ver... [ela pega o livro, folheando-o. Suas feições empalidecem ao chegar na última anotação.] Oh, não! Meu pobre bebê! O que você fez!?! [ela olha para você] Você não viu nenhum sinal dele?}{O diário dele? Então você esteve na oficina dele. Deixe-me ver... [ela pega o livro, folheando-o. Suas feições empalidecem ao chegar na última anotação.] Oh, não! Meu pobre bebê! O que você fez!?! [ela olha para você] Você não viu nenhum sinal dele?}{}{}{}{in 5240, qu1119 4}
+{156}{Não. Sinto muito. A oficina estava abandonada há algum tempo.}{}{5}{}{149}{}
+{157}{Não. Eu sinto muito. A oficina dele está vazia há muito tempo...}{}{-4}{}{149}{}
+{158}{E:}{}{1}{}{0}{}
+{159}{Oh, não! O que aconteceu!?! Deixe-me ver o diário dele... [ela pega o livro, folheando-o. Suas feições empalidecem ao chegar na última anotação.] Oh, não! Meu pobre bebê! O que você fez!?! [ela olha para você] Você não viu nenhum sinal dele?}{Oh, não! O que aconteceu!?! Deixe-me ver o diário dele... [ela pega o livro, folheando-o. Suas feições empalidecem ao chegar na última anotação.] Oh, não! Meu pobre bebê! O que você fez!?! [ela olha para você] Você não viu nenhum sinal dele?}{}{}{}{in 5240, qu1119 4}
+{160}{Sinto muito em dizer que encontrei o corpo dele... Estava perto do portal.}{}{5}{}{103}{}
+{161}{Eu sinto muito. Eu vi ele morto. Ele tá morto perto do portal.}{}{-4}{}{103}{}
+{162}{E:}{}{1}{}{0}{}
+{163}{Mas as feras continuam a vagar pela floresta? O que vamos fazer? [soluço] Meu bebê se foi... Ele era nossa melhor esperança contra um inimigo tão estranho. Quem nos salvará agora? Quem fechará o portal e deterá as feras?}{Mas as feras continuam a vagar pela floresta? O que vamos fazer? [soluço] Meu bebê se foi... Ele era nossa melhor esperança contra um inimigo tão estranho. Quem nos salvará agora? Quem fechará o portal e deterá as feras?}{}{}{}{}
+{164}{Eu vou fazer isso. Vou fechar o portal e voltar em breve.}{}{5}{}{0}{qu1120 2}
+{165}{Rezo para que você encontre alguém em breve. As feras estão ficando mais fortes.}{}{5}{}{0}{}
+{166}{Eu faço isso! Eu vou fechar... Eu salvo vocês!}{}{-4}{}{0}{qu1120 2}
+{167}{Eu espero que você encontre alguém bom. Essas coisas estão ficando maiores!}{}{-4}{}{0}{}
+{168}{E:}{}{1}{}{0}{}
+{169}{Obrigado @pcname@. Sou eternamente grato.}{Obrigado @pcname@. Sou eternamente grata.}{}{re -80}{}{re +5, lf5 1}
+{170}{E:}{}{1}{}{0}{}
+

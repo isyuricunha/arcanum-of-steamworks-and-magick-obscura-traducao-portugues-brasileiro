@@ -1,0 +1,34 @@
+{1}{O que você quer?}{O que você quer?}{}{}{}{}
+{2}{De quem é esta casa?}{}{5}{}{12}{}
+{3}{Estou aqui para ver o Pollock...}{}{5}{lf1 1, qb1089 1, gf2189 1}{19}{}
+{4}{Estou aqui para ver o Pollock...}{}{5}{lf1 1, qu1089 2, gf2188 0}{34}{}
+{5}{Estou aqui para ver o Pollock...}{}{5}{lf1 1, qu1089 2, gf 2188 1}{37}{}
+{6}{Hã... quem mora aqui?}{}{-4}{lf1 0}{12}{}
+{7}{Preciso ver o Pollack!}{}{-4}{lf1 1, qb1089 1}{19}{}
+{8}{Preciso ver o Pollack!}{}{-4}{lf1 1, qu1089 2, gf2188 0}{34}{}
+{9}{Preciso ver o Pollack!}{}{-4}{lf1 1, qu1089 2, gf 2188 1}{37}{}
+{10}{Nada. Já estou de saída...}{}{5}{lf1 1}{0}{}
+{11}{Nada. Tchau.}{}{-4}{lf1 1}{0}{}
+{12}{Esta é a casa do Pollock, e ele não gosta de estranhos rondando por aqui...}{Esta é a casa do Pollock, e ele não gosta de estranhos rondando por aqui...}{}{}{}{lf1 1}
+{13}{Não sou estranho. Miranda Tears me disse para vir falar com ele...}{}{5}{gf2189 1}{19}{}
+{14}{Não me importa o que ele gosta ou não gosta...}{}{5}{}{26}{}
+{15}{Miranda me mandou vir!}{}{-4}{gf2189 1}{19}{}
+{16}{Hã... não me importa o que ele gosta.}{}{-4}{}{26}{}
+{17}{E:}{}{1}{}{0}{}
+{19}{Ah... é você. [Ele bate na porta.] Ei, chefe! É o novato... ele está aqui para falar com você...}{Ah... é você. Sim, ele está te esperando. [Ele bate na porta.] Ei, chefe! É a novata... ela está aqui para falar com você...}{}{}{}{}
+{20}{[Espere.]}{}{1}{}{-2}{}
+{22}{Pode entrar. E se a gente ouvir qualquer problema, você é um homem morto.}{Pode entrar. E se a gente ouvir qualquer problema, você está morta.}{}{}{}{}
+{23}{Vou me lembrar disso...}{}{5}{}{0}{}
+{24}{Certo!}{}{-4}{}{0}{}
+{26}{O quê? Garoto, você não faz ideia do tipo de encrenca em que está se metendo. É melhor ir embora enquanto ainda pode...}{O quê? Garota, você não faz ideia do tipo de encrenca em que está se metendo. É melhor ir embora enquanto ainda pode...}{}{}{}{}
+{27}{Tudo bem. Tenha um bom dia.}{}{5}{}{0}{}
+{28}{Ele morre logo depois que eu matar você.}{}{5}{}{}{co,fl 32}
+{29}{Tchau-tchau.}{}{-4}{}{0}{}
+{30}{Talvez eu mate todos vocês...}{}{-4}{}{}{co,fl 32}
+{32}{Má jogada, garoto. Ninguém brinca com a Gangue do Pollock...}{Má jogada, garota. Ninguém brinca com a Gangue do Pollock...}{}{}{}{}
+{34}{Desculpe. O chefe disse que você não deve aparecer por aqui até ele saber que Maug está morto. Recomendo que não volte até que esteja feito...}{Desculpe. O chefe disse que você não deve aparecer por aqui até que ele saiba que Maug está morto. Recomendo que não volte até que isso esteja feito...}{}{}{}{}
+{35}{E:}{}{1}{}{0}{}
+{37}{Ei! Ouvi dizer que você cuidou do Maug direitinho. Bom trabalho. Pode entrar... o chefe está te esperando...}{Ei! Ouvi dizer que você cuidou do Maug direitinho. Bom trabalho. Pode entrar... o chefe está te esperando...}{}{}{}{}
+{38}{Valeu.}{}{5}{}{-11}{}
+{39}{Valeu!}{}{-4}{}{-11}{}
+

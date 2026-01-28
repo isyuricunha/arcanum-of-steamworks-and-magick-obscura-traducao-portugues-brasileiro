@@ -1,0 +1,312 @@
+// WARNING:  Each effect has a constraint of a maximum of *FIVE* changes per *type* of change
+//   (so you could have 5 changes to stats *and* 5 changes to skills, but not 6 changes to stats)
+
+{50}{be -1}	// scarring
+{51}{speed +10, damage max 0, resistdamage min 95, resistfire +7, resistelectrical +5, resistpoison min 95}	// Spell: Body of Air
+{52}{resistdamage min 50, resistfire +11, resistpoison min 90, st +10} 					// Spell: Body of Stone
+{53}{resistfire min 50} 					// Spell: Resist Fire
+{54}{resistfire min 95, resistelectrical +8, resistpoison min 97}						// Spell: Body of Fire
+{55}{damage max 0, resistdamage min 95, resistelectrical min 90, resistpoison +10}			// Spell: Body of Water
+{56}{resistmagic min 50}					// Spell: Resist Magic
+{57}{speed -50%} 							// Spell: Slow
+{58}{speed +100%}							// Spell: Haste
+{59}{wp -50%}							// Spell: Stupefy
+{60}{damage -50%}							// Spell: Shrink
+{61}{speed -5}							// Spell: Body of Stone (2)
+{62}{speed -5}							// Spell: Body of Water (2), Entangle
+{63}{ac +1}								// Spell: Shield
+{64}{}	// race_human
+{65}{st +1, cn +1, ch -1, dx -1, repair +2, firearms +2, picklock +2, armtrap +2, techpts +3, age +80}	// race_dwarf
+{66}{wp +1, dx +1, be +1, cn -2, st -1, repair -2, firearms -2, picklock -2, armtrap -2, magicpts +3, age +180}	// race_elf
+{67}{dx +1, be +1, cn -1, repair -1, firearms -1, picklock -1, armtrap -1, magicpts +1, age +15}	// race_half_elf
+{68}{wp +2, haggle +2, badreactionadj +10, cn -2, age +70}	// race_gnome
+{69}{dx +2, prowling +2, dodge +1, crithitchance +5, st -3, age +30}	// race_halfling
+{70}{st +1, cn +1, melee +2, dodge +2, resistpoison +10, be -2, ch -2, age -5}	// race_half_orc
+{71}{st +4, resistdamage +10, be -1, in -4, prowling -2}	// race_half_ogre
+{72}{dx +1, be +1, repair -2, firearms -2, picklock -2, armtrap -2, magicpts +3, age +180}	// race_dark_elf
+{73}{st +6, be -6, in -6, prowling -3, age +20}	// race_ogre
+{74}{st +2, cn +2, resistpoison +20, be -4, ch -4, in -1}	// race_orc
+{75}{st -1, be +1}	// class_noble
+{76}{in +2, wp +2, ch +2}	// class_priest
+{77}{st -2, in +4, cn +2}	// class_wizard
+{78}{st +1, in +4, pe +1}	// class_technologist
+{79}{in +1, pe +2, wp +2, ch +2}	// class_shopkeeper
+{80}{st +2, dx +1, cn +2, pe +1, ch -1}	// class_guard
+{81}{st -1, in +1}	// class_city_dweller
+{82}{st +1, in -1}	// class_villager
+{83}{st -3, cn -2, be -3, pe +2}	// class_beggar
+{84}{dx +2, in +1, pe +2}	// class_thief
+{85}{st +2, dx +1, cn +2, ch -1, be -2}	// class_bandit
+{86}{}				// background effect (no background)
+{87}{resistpoison +20, be -1}	// background effect (Raised by Snake Handlers)
+{88}{st +1, repair +2, dx -2}	// background effect (Apprenticed to a Blacksmith)
+{89}{repair -1, firearms -1, picklock -1, armtrap -1}	// background effect (Raised by Elves)
+{90}{pe +1}			// background effect (Raised by Monks)
+{91}{badreactionadj *2}		// background effect (Son of a Hero)
+{92}{wp -1}			// background effect (Inheritance)
+{93}{dx -1, persuasion +2}	// background effect (Foppish Elf)
+{94}{repair -2, firearms -2, picklock -2, armtrap -2}	// background effect (Clanless Dwarf)
+{95}{haggle -2, st +1}		// background effect (Disenfranchised Gnome)
+{96}{pickpocket +2, in -1}	// background effect (Orphaned Halfling)
+{97}{in -2, goodreactionadj *2}	// background effect (Mentally Retarded)
+{98}{pe -1, throwing +3}	// background effect (Professional Knife Tosser)
+{99}{haggle +3, dx -1}		// background effect (Apprenticed to a Shopkeeper)
+{100}{be +1, ch +2, in -1, st -2}	// background effect (Sent to charm school)
+{101}{crithitchance -10, crithiteffect +10, critfailchance -10, critfaileffect +10}	// background effect (born under a sign)
+{102}{badreactionadj -30, goodreactionadj +30}	// background (extreme personality)
+{103}{st +1}			// background effect (factory escapee)
+{104}{in -1}			// background effect (freed bodyguard)
+{105}{in +1, pe -1}		// background effect (bookworm)
+{106}{in -1, st +1}		// background effect (bully)
+{107}{wp +1, ch -1}		// background effect (wild half-ogre)
+{108}{in +2, st -1, cn -1}	// background effect (rare half-ogre birth)
+{109}{be +2, ch -2}		// background effect (suppressed orcish looks)
+{110}{repair -1, firearms -1, picklock -1, armtrap -1, magicpts +1}	// background effect (elvish blood)
+{111}{speed +1, ch -1}	// background effect (hyperactive)
+{112}{st +1, bow +1, melee +1, dx -1}	// background effect (army training)
+{113}{resistdamage +10, be -1}	// background effect (tough hide)
+{114}{ch -2} //Madame Toussaude's gypsy blood curse
+{115}{ch +1} //Madame Toussaude's gypsy blessing
+{116}{persuasion +2} //Elixir of Persuasion
+{117}{st +2} //Tech Strength Boost
+{118}{dx +1} //Tech Charged Ring
+{119}{pe max 1}
+{120}{dx +2} //Tech Dexterity Boost
+{121}{pe +2} //Tech Perception Boost
+{122}{in +2, pe +2, wp +2, ch +2} //Tech Mental Boost
+{123}{st +2, dx +2, cn +2, be +2} //Tech Physical Boost
+{124}{healrate +50%}  // Heal Accelerator
+{125}{pe +2}  // Eye Gear
+{126}{be +1} // Priestess Brigitte's blessing
+{127}{be +2, ch +1, dx -3} //Geshtianna's idol effect
+{128}{ac +1}	// Sword of Defense effect
+{129}{st +1, cn +1}	// Axe of Strength effect
+{130}{prowling +1, pickpocket +1, spottrap +1}	// magic thieves leather effect
+{131}{prowling +1}	// creep jacket effect
+{132}{in -3, dx -1, st +1, cn +1} // Wine
+{133}{dx -1, cn -1} // Aqua Vitae
+{134}{be +1}	// medallion of beauty
+{135}{crithitchance +5, gambling +1}	// fated ring
+{136}{speed +1}		// war boots
+{137}{pickpocket -1}	// gauntlets (various)
+{138}{pickpocket +1}	// light-fingered gloves
+{139}{dx +1}	// gloves of dexterity
+{140}{pe +1}	// helmet and eye glass effects
+{141}{pe -1}	// helmet and eye glass effects
+{142}{healrate +5%}	// minute plate of regeneration
+{143}{prowling +1}	// robe of shadowing/chameleon
+{144}{st +1, be -5}	// Armor: Demonic Armor
+{145}{be -1}		// Armor: Demonic Scar
+{146}{be -1}		// Weapon: Dagger of Pain
+{147}{melee +2}		// Weapon: Dagger of Puissance
+{148}{st +2, cn +1, maxhps +15%, maxfatigue +10}	// Weapon: Hammer of the Earth (1)
+{149}{in -3, wp -3}	// Weapon: Hammer of the Earth (2)
+{150}{dx +2}		// Weapon: Axe of the Winds
+{151}{poisonrate +20%}	// Weapon: Staff of the Necromancer
+{152}{st +2}		// Spell: Slaying Strength
+{153}{st +1, dx +1, cn +1, be +1}	// Spell: Steal Life
+{154}{resistdamage -1}	// Spell: Weaken
+{155}{resistdamage +1, resistfire +1, resistelectrical +1}	// Spell: Shield (x 25)
+{156}{damage max 1}	// Spell: Polymorph
+{157}{spottrap min 20}	// Spell: Detect Traps  -- Note: Could be +1?
+{158}{speed -2}		// encumbrance
+{159}{ac +1}		// Spell: Blur Sight
+{160}{cn +1}		// Spell: Vitality of Air
+{161}{st +1}		// Spell: Strength of Earth
+{162}{dx +1}		// Spell: Agility of Fire
+{163}{be +1}		// Spell: Purity of Water
+{164}{be +2, ch +1}     // Jewel of Hebe Medallion
+{165}{gambling +2, haggle +1} //Lucky Medallion
+{166}{be +1}		// Spell: Elven Perfume
+{167}{ch -2, pe -1} 		// Wine/Alchohol part 2
+{168}{expertiseanatomical +1} //Herbal Book Effect
+{169}{expertisechemistry +1} //Chemistry Book Effect
+{170}{expertiseelectric +1} //Electrical Book Effect
+{171}{expertiseexplosives +1} //Explosives Book Effect
+{172}{expertisegun_smithy +1} //Gun Smithy Book Effect
+{173}{expertisemechanical +1} //Mechanics Book Effect
+{174}{expertisesmithy +1} //Smithy Book Effect
+{175}{expertisetherapeutics +1} //Therapeutics Book Effect
+{176}{cn -1, st -1, dx -1, be -1} //The Curse of Stringy Pete
+{177}{pe max 1, dx max 1} // Total blindness
+{178}{be +2, ch +2, Persuasion +5}  // Lady Druella is with the PC.
+{179}{ST -6, IN +2, WP +2, PE +1}//shelterd childhood
+{180}{BE -4, CH -4, ST +2, CN +2 DX +1}//Troll Offspring
+{181}{ST +6, IN -2, WP -3, PE -1}//Ranaway with the Circus
+{182}{IN -6, ST +2, DX +2, Melee +1, Dodge +1, Bow +1, Throwing +1}//Raised in the Pit
+{183}{IN -6,  persuasion -1, haggle -1,  DX +3, prowling +1, pickpocket +1}//Feral Child
+{184}{IN +6, ST -2, CN -4, DX -1}//Sickly
+{185}{BE -6, ST +2, DX +2, Melee +1, Dodge +1, Bow +1, Throwing +1}//Beat with an Ugly Stick
+{186}{BE +6, CN -2, ST -2, DX -2}//Lady's Man
+{187}{BE +3, CH +3, ST -1, DX -1, Melee -2, Dodge -2, Bow -2, Throwing -2}//Debutante
+{188}{CH -6, ST +2, PE +2, Melee +1, Dodge +1, Bow +1, Throwing +1}//Raised by Orcs
+{189}{CH +6, ST -2, CN -2, Melee -1, Dodge -1, Bow -1, Throwing -1}//Charlatan's Protégé
+{190}{reaction +20} //Nice Clothes
+{191}{pe +1, bow +4}//Ter'el's Blessing
+{192}{dx +1}//Makaal's Blessing
+{193}{st +1}//Alberich's Blessing
+{194}{be +1}//Geshtianna's Blessing
+{195}{wp +2, pe +2, heal +4, spottrap +4}//Halcyon's Blessing
+{196}{cn +1}//Torg's Blessing
+{197}{pickpocket +4, picklock +4}//Bolo's Blessing
+{198}{haggle +4, persuasion +4}//Kerlin's Blessing
+{199}{melee +4, dodge +4}//Shakar's Blessing
+{200}{backstab +8, melee +4, crithitchance +10, prowling +4}//Moorindal's Blessing
+{201}{persuasion +8, haggle +4, bow +4, ch +1, be +1}//Kai'tan's Blessing
+{202}{resistmagic +30, dx +4, resistdamage +30, maxhps +100, maxfatigue +100, melee +12, pickpocket +12, persuasion +12, firearms +12, dodge +12}//Velorien's Blessing
+{203}{pe -1, bow -4}//Ter'el's Curse
+{204}{dx -1}//Makaal's Curse
+{205}{st -1}//Alberich's Curse
+{206}{be -1}//Geshtianna's Curse
+{207}{cn -1}//Torg's Curse
+{208}{pickpocket -4, picklock -4}//Bolo's Curse
+{209}{haggle -4, persuasion -4}//Kerlin's Curse
+{210}{melee -4, dodge -4}//Shakar's Curse
+{211}{healrate +50%, st +1, cn +1} //Staff of Restoration
+{212}{pe +1, dx +1} //Trapmaker Spectacles
+{213}{maxfollowers +1, badreactionadj *2, goodreactionadj *2} // Amulet of Leadership
+{214}{poisonrate *2, badreactionadj -5} // Serpentine Necklace
+{215}{carry +500, wp -1} // Teamster Gloves
+{216}{aptitude +5, alignment -50} // Dark Helm
+{217}{DX -4} // Black Stone Blade
+{218}{resistmagic /2} // Flow Reaper
+{219}{resistmagic +1%, resistdamage +1%, resistpoison +1%, resistfire +1%, resistelectrical +1%}   // Used for Magic/Hexed items
+{220}{st -1} // Used for Magic/Hexed items
+{221}{st +1} // Used for Magic/Hexed items
+{222}{dx -1} // Used for Magic/Hexed items
+{223}{dx +1} // Used for Magic/Hexed items
+{224}{cn -1} // Used for Magic/Hexed items
+{225}{cn +1} // Used for Magic/Hexed items
+{226}{be -1} // Used for Magic/Hexed items
+{227}{be +1} // Used for Magic/Hexed items
+{228}{in -1} // Used for Magic/Hexed items
+{229}{in +1} // Used for Magic/Hexed items
+{230}{pe -1} // Used for Magic/Hexed items
+{231}{pe +1} // Used for Magic/Hexed items
+{232}{wp -1} // Used for Magic/Hexed items
+{233}{wp +1} // Used for Magic/Hexed items
+{234}{ch -1} // Used for Magic/Hexed items
+{235}{ch +1} // Used for Magic/Hexed items
+{236}{resistmagic -5%, resistdamage -5%, resistpoison -5%, resistfire -5%, resistelectrical -5%}   // Used for Magic/Hexed items
+{237}{resistmagic -5%} // Used for Magic/Hexed items
+{238}{resistmagic +1%} // Used for Magic/Hexed items
+{239}{resistdamage -5%} // Used for Magic/Hexed items
+{240}{resistdamage +1%} // Used for Magic/Hexed items
+{241}{resistfire -5%} // Used for Magic/Hexed items
+{242}{resistfire +1%} // Used for Magic/Hexed items
+{243}{resistelectrical -5%} // Used for Magic/Hexed items
+{244}{resistelectrical +1%} // Used for Magic/Hexed items
+{245}{resistpoison -5%} // Used for Magic/Hexed items
+{246}{resistpoison +1%} // Used for Magic/Hexed items
+{247}{backstab -1} // Used for Magic/Hexed items
+{248}{backstab +1} // Used for Magic/Hexed items
+{249}{pickpocket -1} // Used for Magic/Hexed items
+{250}{pickpocket +1} // Used for Magic/Hexed items
+{251}{prowling -1} // Used for Magic/Hexed items
+{252}{prowling +1} // Used for Magic/Hexed items
+{253}{spottrap -1} // Used for Magic/Hexed items
+{254}{spottrap +1} // Used for Magic/Hexed items
+{255}{bow -1} // Used for Magic/Hexed items
+{256}{bow +1} // Used for Magic/Hexed items
+{257}{dodge -1} // Used for Magic/Hexed items
+{258}{dodge +1} // Used for Magic/Hexed items
+{259}{melee -1} // Used for Magic/Hexed items
+{260}{melee +1} // Used for Magic/Hexed items
+{261}{throwing -1} // Used for Magic/Hexed items
+{262}{throwing +1} // Used for Magic/Hexed items
+{263}{haggle -1} // Used for Magic/Hexed items
+{264}{haggle +1} // Used for Magic/Hexed items
+{265}{heal -1} // Used for Magic/Hexed items
+{266}{heal +1} // Used for Magic/Hexed items
+{267}{persuasion -1} // Used for Magic/Hexed items
+{268}{persuasion +1} // Used for Magic/Hexed items
+{269}{gambling -1} // Used for Magic/Hexed items
+{270}{gambling +1} // Used for Magic/Hexed items
+{271}{repair -1} // Used for Magic/Hexed items
+{272}{repair +1} // Used for Magic/Hexed items
+{273}{firearms -1} // Used for Magic/Hexed items
+{274}{firearms +1} // Used for Magic/Hexed items
+{275}{picklock -1} // Used for Magic/Hexed items
+{276}{picklock +1} // Used for Magic/Hexed items
+{277}{armtrap -1} // Used for Magic/Hexed items
+{278}{armtrap +1} // Used for Magic/Hexed items
+{279}{maxhps -5%} // Used for Magic/Hexed items
+{280}{maxhps +5%} // Used for Magic/Hexed items
+{281}{maxfatigue -5%} // Used for Magic/Hexed items
+{282}{maxfatigue +5%} // Used for Magic/Hexed items
+{283}{reaction -1} // Used for Magic/Hexed items
+{284}{reaction +1} // Used for Magic/Hexed items
+{285}{badreactionadj -1} // Used for Magic/Hexed items
+{286}{badreactionadj +1} // Used for Magic/Hexed items
+{287}{crithiteffect -1} // Used for Magic/Hexed items
+{288}{crithiteffect +1} // Used for Magic/Hexed items
+{289}{goodreactionadj -1} // Used for Magic/Hexed items
+{290}{goodreactionadj +1} // Used for Magic/Hexed items
+{291}{critfaileffect -1} // Used for Magic/Hexed items
+{292}{critfaileffect +1} // Used for Magic/Hexed items
+{293}{carry -500} // Used for Magic/Hexed items
+{294}{carry +500} // Used for Magic/Hexed items
+{295}{ac -1} // Used for Magic/Hexed items
+{296}{ac +1} // Used for Magic/Hexed items
+{297}{speed -1} // Used for Magic/Hexed items
+{298}{speed +1} // Used for Magic/Hexed items
+{299}{crithitchance -1} // Used for Magic/Hexed items
+{300}{crithitchance +1} // Used for Magic/Hexed items
+{301}{critfailchance -1} // Used for Magic/Hexed items
+{302}{critfailchance +1} // Used for Magic/Hexed items
+{303}{healrate -5%} // Used for Magic/Hexed items
+{304}{healrate +5%} // Used for Magic/Hexed items
+{305}{poisonrate -5%} // Used for Magic/Hexed items
+{306}{poisonrate +5%} // Used for Magic/Hexed items
+{307}{maxfollowers -1} // Used for Magic/Hexed items
+{308}{maxfollowers +1} // Used for Magic/Hexed items
+{309}{alignment -50} // Used for Magic/Hexed items
+{310}{alignment +50} // Used for Magic/Hexed items
+{311}{aptitude -5} // Used for Magic/Hexed items
+{312}{aptitude +5} // Used for Magic/Hexed items
+{313}{maxhps -1} // Used for Magic/Hexed items
+{314}{maxhps +1} // Used for Magic/Hexed items
+{315}{maxfatigue -1} // Used for Magic/Hexed items
+{316}{maxfatigue +1} // Used for Magic/Hexed items
+{317}{DX +2, ST +1, CN +1} // Magnus' Iron Clan Guantlets
+{318}{maxhps +1, maxfatigue +1} // Tech Item: Invigorator
+{319}{resistdamage +1} // Tech Item: Fortifier
+{320}{st -1, dx -1, cn -1, be -1} // Tech Item: Brain Boost Part I
+{321}{st +1, dx +1, cn +1, be +1} // Tech Item: Muscle Boost Part I
+{322}{ac -5%} // Used for Magic/Hexed items
+{323}{ac +5%} // Used for Magic/Hexed items
+{324}{st +1, dx +1, cn +1, be +1} // Tech Item: Vivifier Part I
+{325}{in +1, pe +1, wp +1, ch +1} // Tech Item: Vivifier Part II
+{326}{st -1}	// Spell: Weaken part II
+{327}{beautyreaction +5} //Arbalah's blessing
+{328}{maxfollowers -1}	// Educator background
+{329}{BE +6, ST -2, IN -4} // Super model background
+{330}{st -1, cn +1} // all females
+{331}{in +1}	// Spell: Potion -- Essence of Intellect
+{332}{speed +1}	// Spell: Potion -- Haste
+{333}{resistdamage +1}	// Spell: Potion -- Liquid of Skin Thickening
+{334}{resistpoison +1}	// Spell: Potion -- Kalispi's Venom
+{335}{resistdamage +25, resistfire +25, resistelectrical +25, resistpoison +25, reaction -25}	// lunatic background
+{336}{in +6, st -1, cn -1, dx -2, wp -2, gambling +3}	// idiot savant
+{337}{st +1, cn -1} // tomboy background
+{338}{st +2, cn +1, in -1, ch -2, melee +1, haggle -2}	// barbarian
+{339}{xpgain +10%, critfailchance +20}	// nietzche
+{340}{wp +2, ch -2}	// dark elf follower
+{341}{magicpts +4, reaction -20, alignment -200, alignment max -200}
+{342}{}	// INTENTIONALLY LEFT BLANK! Used for effects that are handled by the engine, but need an effect number
+{343}{persuasion +2}	// hydrophobic background
+{344}{pe +2}	// afraid of the dark
+{345}{techpts +2}	// magick allergy
+{346}{expertiseexplosives +20, st -1, cn -1}	// arsonist
+{347}{st +1, cn +1}	// technophobe
+{348}{wp +6, ch -4, haggle -2, persuasion -2}	// only child
+{349}{st +4, cn +4, dx -6, resistelectrical +30, resistpoison +20, resistfire -20}	// frankenstein's monster
+{350}{be +4, cn +4, dx -4, resistelectrical +20, resistpoison +10, resistfire -10}	// bride of frankenstein
+{351}{in +2, pe +2, resistelectrical +20, resistpoison +20, heal +4, be -1, ch -1, dx -2, cn -3} // mad doctor
+{352}{in +3, ch +3, pe +5, st -3, dx -3, cn -5} // miracle operation
+{353}{pe -15}
+{354}{pe +15}
+{355}{firearms +2, ch -1}	// bandit
+{356}{crithitchance +2, resistpoison +20, wp +1, melee +2} // Finger of Mannox
+{357}{in +1, pe +1, wp +1, ch +1} // Tech Item: Brain Boost Part II
+{358}{in -1, pe -1, wp -1, ch -1} // Tech Item: Muscle Boost Part II

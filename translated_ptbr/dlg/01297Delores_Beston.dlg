@@ -1,0 +1,144 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá, madame. Posso saber quem é a senhora?}{}{5}{me 0, re 41}{11}{}
+{3}{Saudações, Srta. Beston. Posso falar com a senhora por um momento?}{}{5}{me 1, re 41}{25}{}
+{4}{Por favor, madame! Nosso primeiro encontro, e já palavras duras?}{}{5}{me 0, re -40}{17}{re +10}
+{5}{Srta. Beston! Que linguagem é essa vinda de uma dama!}{}{5}{me 1, re -40}{21}{re +10}
+{7}{Hã, oi, moça! Quem é você?}{}{-4}{me 0}{11}{}
+{8}{Ei, dona Beston! Posso fazer umas perguntas?}{}{-4}{me 1}{25}{}
+{9}{E:}{}{1}{}{0}{}
+{11}{[Esta mulher olha para você, de olhos arregalados, e então parece recuperar a compostura.] Sim, claro. Sou Delores Beston, médium espiritual e vidente do futuro! Vivo aqui para servir aos bons e nobres cidadãos de Tarant... para esclarecer as coisas quando estão obscuras, para pedir ajuda quando necessário. Como posso ajudá-lo?}{[Esta mulher olha para você, de olhos arregalados, e então parece recuperar a compostura.] Sim, claro. Sou Delores Beston, médium espiritual e vidente do futuro! Vivo aqui para servir aos bons e nobres cidadãos de Tarant... para esclarecer as coisas quando estão obscuras, para pedir ajuda quando necessário. Como posso ajudá-lo?}{}{}{}{lf1 1}
+{12}{Posso fazer algumas perguntas, Delores?}{}{5}{}{25}{}
+{14}{Oi, Delores! Posso fazer umas perguntas...?}{}{-4}{}{25}{}
+{15}{E:}{}{-4}{}{0}{}
+{17}{[A mulher parece assustada ao vê-lo.] Me desculpe... não tive a intenção de ofendê-la. Talvez isso seja um testemunho da pouca confiabilidade das primeiras impressões... por favor, me perdoe...}{[A mulher parece assustada ao vê-lo.] Me desculpe... não tive a intenção de ofendê-la. Talvez isso seja um testemunho da pouca confiabilidade das primeiras impressões... por favor, me perdoe...}{}{}{}{}
+{18}{Já está esquecido, madame. Posso saber quem é a senhora?}{}{5}{}{11}{}
+{19}{E:}{}{5}{}{0}{}
+{21}{Oh... me desculpe. A senhora já esteve aqui antes! Por favor... perdoe o desabafo...}{Oh... me desculpe. A senhora já esteve aqui antes! Por favor... perdoe o desabafo...}{}{}{}{}
+{22}{Não se preocupe com isso, Delores. Tem um momento para me conceder?}{}{5}{}{25}{}
+{23}{E:}{}{5}{}{0}{}
+{25}{Claro...}{Claro...}{}{}{}{}
+{26}{O que a senhora faz aqui?}{}{5}{qu1064 0}{44}{lf2 1}
+{27}{A senhora pode me dizer algo sobre o meu futuro?}{}{5}{lf2 1, qu1064 0}{71}{}
+{28}{Vim falar sobre sua oferta de encontrar a bola de cristal...}{}{5}{qu1064 1}{81}{}
+{29}{Talvez eu precise de sua ajuda para encontrar aquela bola de cristal...}{}{5}{lf3 1, lf4 0, qu1064 2, ni 5628}{95}{}
+{30}{Ainda estou procurando pela bola de cristal...}{}{5}{qu1064 2, ni 5628}{120}{}
+{31}{Voltei com a bola de cristal...}{}{5}{qu1064 2, in 5628, qb1065 1}{125}{}
+{32}{Voltei com a bola de cristal...}{}{5}{in 5628, qu1065 2, qa 1064 1, qb1064 2}{175}{}
+{33}{Tenho algo para a senhora, Delores...}{}{5}{qu1064 0, qu1065 2, in 5628}{178}{}
+{34}{O que a senhora faz aqui, moça?}{}{-4}{qu1064 0}{44}{lf2 1}
+{35}{A senhora me diz o meu futuro, moça?}{}{-4}{lf2 1, qu1064 0}{71}{}
+{36}{Quiçá eu ajude a senhora a encontrar a bola de cristal?}{}{-4}{qu1064 1}{81}{}
+{37}{Preciso de ajuda para encontrar a bola!}{}{-4}{lf3 1, lf4 0, qu1064 2, ni 5628}{95}{}
+{38}{Ainda procurando pela bola!}{}{-4}{qu1064 2, ni 5628}{120}{}
+{39}{Achei a bola, moça!}{}{-4}{qu1064 2, in 5628, qb1065 1}{125}{}
+{40}{Achei uma bola, madame!}{}{-4}{in 5628, qa1064 1, qb1064 2, qu1065 2}{175}{}
+{41}{Tenho uma coisinha para você, madame!}{}{-4}{qu1064 0, qu1065 2, in 5628}{178}{}
+{42}{E:}{}{1}{}{0}{}
+{44}{Eu falo com espíritos, olho para o futuro distante para ver o que ele reserva para aqueles que ousam olhar! Sou uma guia nos reinos sombrios, uma mestra no meio do misterioso!}{Eu falo com espíritos, olho para o futuro distante para ver o que ele reserva para aqueles que ousam olhar! Sou uma guia nos reinos sombrios, uma mestra no meio do misterioso!}{}{}{}{}
+{45}{Quem são alguns dos seus clientes?}{}{5}{}{67}{}
+{46}{Poderia ler MEU futuro?}{}{5}{qu1064 0}{71}{}
+{47}{Sinto dizer, mas acho que todo esse negócio é bobagem...}{}{5}{}{54}{re -5}
+{48}{Mais algumas perguntas...}{}{5}{}{25}{}
+{50}{Hã... você vê o meu futuro, madame?}{}{-4}{qu1064 0}{71}{}
+{51}{Mais perguntas!}{}{-4}{}{25}{}
+{52}{E:}{}{1}{}{0}{}
+{54}{[Ela parece um pouco incomodada com você.] Suponho que seja natural sentir um pouco de ceticismo em relação à nossa profissão, mas não há necessidade de ser rude...}{[Ela parece um pouco incomodada com você.] Suponho que seja natural sentir um pouco de ceticismo em relação à nossa profissão, mas não há necessidade de ser rude...}{}{}{}{}
+{55}{Não sou cético... só acho que VOCÊ é uma farsa...}{}{5}{}{59}{re -5}
+{56}{Me perdoe. Por favor, fale-me de alguns dos seus clientes...}{}{5}{}{67}{re +5}
+{57}{Mais algumas perguntas...}{}{5}{}{25}{}
+{58}{E:}{}{5}{}{0}{}
+{59}{Bem... eu nunca... como ousa! Atendo algumas das damas mais influentes de toda Tarant! Você não sabe nada sobre mim!}{Bem... eu nunca... como ousa! Atendo algumas das damas mais influentes de toda Tarant! Você não sabe nada sobre mim!}{}{}{}{}
+{60}{Prefiro consultar um prato de torta de carneiro. Você é uma farsa.}{}{5}{}{}{lf3 1, fl 64}
+{61}{Me desculpe. Quem você disse que eram seus clientes?}{}{5}{}{67}{}
+{62}{Mais algumas perguntas...}{}{5}{}{25}{}
+{63}{E:}{}{5}{}{0}{}
+{64}{Não direi mais nenhuma palavra para você! Não preciso desse tipo de abuso!}{Não direi mais nenhuma palavra para você! Não preciso desse tipo de abuso!}{}{}{}{}
+{65}{O senhor já esgotou sua recepção aqui. Por favor, procure companhia em outro lugar.}{A senhora já esgotou sua recepção aqui. Por favor, procure companhia em outro lugar.}{}{}{}{}
+{67}{Ah, atendo a maioria das famílias abastadas aqui em Tarant... os Willoughsbys, os Garringsburgs... as damas todas confiam em mim, e faço o que posso para guiá-las para longe de águas turbulentas...}{Ah, atendo a maioria das famílias abastadas aqui em Tarant... os Willoughsbys, os Garringsburgs... as damas todas confiam em mim, e faço o que posso para guiá-las para longe de águas turbulentas...}{}{}{}{}
+{68}{Poderia ler MEU futuro?}{}{5}{qu1064 0}{71}{}
+{69}{Mais algumas perguntas...}{}{5}{}{25}{}
+{70}{E:}{}{5}{}{0}{}
+{71}{Sinto muito, mas atualmente estou com um problema com minha bola de cristal. Deixei-a cair outro dia, e minhas visões têm estado enevoadas e pouco claras desde então. Já procurei por outra, mas, como pode imaginar, uma bola de cristal é uma mercadoria rara...}{Sinto muito, mas atualmente estou com um problema com minha bola de cristal. Deixei-a cair outro dia, e minhas visões têm estado enevoadas e pouco claras desde então. Já procurei por outra, mas, como pode imaginar, uma bola de cristal é uma mercadoria rara...}{}{}{}{}
+{72}{Suponho que sim. Talvez eu possa ajudá-la a encontrar outra?}{}{5}{}{81}{}
+{73}{Mais algumas perguntas...}{}{5}{}{25}{}
+{75}{Talvez eu encontre uma para você!}{}{-4}{}{81}{}
+{76}{Mais perguntas!}{}{-4}{}{25}{}
+{77}{E:}{}{1}{}{0}{}
+{81}{[Ela sorri, misteriosamente.] Sim, achei que diria isso. Tenho um pressentimento para essas coisas, sabe. Desde o momento em que entrou aqui, soube que era alguém especial...}{[Ela sorri, misteriosamente.] Sim, achei que diria isso. Tenho um pressentimento para essas coisas, sabe. Desde o momento em que entrou aqui, soube que era alguém especial...}{}{}{}{}
+{82}{Vamos com calma, madame...}{}{5}{}{85}{}
+{83}{Hmm...tanto faz...}{}{-4}{}{85}{}
+{85}{Entendo...nem todos são crentes. De qualquer forma...eu ficaria muito grata pela sua ajuda. Se você conseguisse uma nova bola de cristal para mim, pagarei 200 peças de ouro. O que me diz?}{Entendo...nem todos são crentes. De qualquer forma...eu ficaria muito grata pela sua ajuda. Se você conseguisse uma nova bola de cristal para mim, pagarei 200 peças de ouro. O que me diz?}{}{}{}{qu1064 1, gf2716 1}
+{86}{Interessante. Por acaso tenho uma bola de cristal aqui mesmo...}{}{5}{in 5628}{125}{}
+{87}{Claro...ficaria feliz em ajudá-lo.}{}{5}{}{95}{qu1064 2, gf2716 1}
+{88}{Vou pensar no assunto. Mais algumas perguntas...?}{}{5}{}{25}{}
+{90}{Eu tenho bola de cristal!}{}{-4}{in 5628}{125}{}
+{91}{Sim! Eu ajudo você, senhora!}{}{-4}{}{95}{qu1064 2, gf2716 1}
+{92}{Vou pensar no assunto. Mais perguntas!}{}{-4}{}{25}{}
+{93}{E:}{}{1}{}{0}{}
+{95}{Maravilhoso! Agora...posso ser capaz de ajudá-lo a encontrar uma. Como eu disse, minha bola de cristal não está funcionando corretamente, mas às vezes um objeto físico da pessoa que estou visualizando ajuda a clarear a visão. Posso pegar uma mecha do seu cabelo?}{Maravilhoso! Agora...posso ser capaz de ajudá-lo a encontrar uma. Como eu disse, minha bola de cristal não está funcionando corretamente, mas às vezes um objeto físico da pessoa que estou visualizando ajuda a clarear a visão. Posso pegar uma mecha do seu cabelo?}{}{}{}{}
+{96}{Claro.}{}{5}{}{105}{}
+{97}{Acho que não é necessário. Vou confiar na minha perspicácia. Tenha um bom dia...}{}{5}{}{101}{}
+{98}{Claro!}{}{-4}{}{105}{}
+{99}{Não preciso de magia! Eu mesmo encontro a bola! Tchau!}{}{-4}{}{101}{}
+{101}{[Ela ri.] Ainda um descrente? Bem...desejo-lhe sorte em sua busca. Volte aqui se precisar de alguma orientação...}{[Ela ri.] Ainda um descrente? Bem...desejo-lhe sorte em sua busca. Volte aqui se precisar de alguma orientação...}{}{}{}{}
+{102}{E:}{}{1}{}{0}{}
+{105}{Maravilhoso! [Ela pega uma tesoura e corta uma pequena mecha do seu cabelo.] Agora...vamos olhar na bola, ver o que pode ser visto. [Ela encara intensamente, balançando a mecha na frente do rosto.] Nublado, mas algo está ficando claro...sim! Vejo onde você pode conseguir uma bola...!}{Maravilhoso! [Ela pega uma tesoura e corta uma pequena mecha do seu cabelo.] Agora...vamos olhar na bola, ver o que pode ser visto. [Ela encara intensamente, balançando a mecha na frente do rosto.] Nublado, mas algo está ficando claro...sim! Vejo onde você pode conseguir uma bola...!}{}{}{}{lf4 1}
+{106}{Onde?}{}{5}{}{109}{}
+{107}{Onde fica a bola?}{}{-4}{}{109}{}
+{109}{No distrito dos armazéns...vejo o bordel...ali! Uma pequena loja bem ao lado...vejo uma placa...da Madame Toussaude! Dentro dessa loja há uma bola de cristal! Encontre Madame Toussaude e você encontrará uma bola de cristal!}{No distrito dos armazéns...vejo o bordel...ali! Uma pequena loja bem ao lado...vejo uma placa...da Madame Toussaude! Dentro dessa loja há uma bola de cristal! Encontre Madame Toussaude e você encontrará uma bola de cristal!}{}{}{}{}
+{110}{Madame Toussaude? Você sabe algo sobre ela?}{}{5}{}{114}{}
+{111}{Quem é Ma-d-da-a-me To-o-sow-w-de?}{}{-4}{}{114}{}
+{114}{Não posso dizer que já ouvi falar dela...há tantos autoproclamados videntes em Tarant. Muito provavelmente ela é alguma cigana passageira, querendo ganhar uns trocados rápido. MAS! Tome cuidado...nunca se sabe o que esperar desses nômades...}{Não posso dizer que já ouvi falar dela...há tantos autoproclamados videntes em Tarant. Muito provavelmente ela é alguma cigana passageira, querendo ganhar uns trocados rápido. MAS! Tome cuidado...nunca se sabe o que esperar desses nômades...}{}{}{}{}
+{115}{Meus agradecimentos. Mais algumas perguntas...}{}{5}{}{25}{}
+{116}{Eu irei, querida senhora. Obrigado pelo conselho. Voltarei mais tarde...}{}{5}{}{0}{}
+{117}{Certo! Mais perguntas!}{}{-4}{}{25}{}
+{118}{Eu irei, senhora! Volto mais tarde!}{}{-4}{}{0}{}
+{120}{Bem, espero que a encontre logo...os negócios andam ruins desde que a antiga quebrou. Há mais alguma coisa em que eu possa ajudá-lo?}{Bem, espero que você o encontre logo... os negócios andam ruins desde que o antigo quebrou. Tem mais alguma coisa em que eu possa te ajudar?}{}{}{}{}
+{121}{Sim... mais algumas perguntas...}{}{5}{}{25}{}
+{123}{Mais perguntas!}{}{-4}{}{25}{}
+{124}{E:}{}{1}{}{0}{}
+{125}{[Ela parece surpresa.] Isso... bem, isso é simplesmente maravilhoso! Aqui está o pagamento. [Ela te entrega 200 peças de ouro.] Onde você conseguiu isso?}{[Ela parece surpresa.] Isso... bem, isso é simplesmente maravilhoso! Aqui está o pagamento. [Ela te entrega 200 peças de ouro.] Onde você conseguiu isso?}{}{}{}{qu1064 4, $$200}
+{126}{Madame Toussaude, uma médium no distrito dos armazéns...}{}{5}{}{129}{}
+{127}{Hã... uma mulher esquisita... To-os-s-ow-wde...?}{}{-4}{}{129}{}
+{129}{Hahahahahaha! A velha bruxa! Ela não sabia absolutamente nada! Eu sabia que ela era uma farsa desde o começo...!}{Hahahahahaha! A velha bruxa! Ela não sabia absolutamente nada! Eu sabia que ela era uma farsa desde o começo...!}{}{}{}{}
+{130}{Me desculpe... o que você quer dizer?}{}{5}{}{133}{}
+{131}{Hã... o quê?}{}{-4}{}{133}{}
+{133}{Ah, se você quer saber... eu tinha ouvido rumores sobre ela pela cidade... as pessoas dizendo que ela conseguia realmente ver o futuro! Bobagem! Ninguém pode REALMENTE ver nada... é tudo encenação! Eu engano aquelas velhas o dia todo... digo exatamente o que elas querem ouvir! Então, fui até essa Madame Toussaude e disse que queria que ela visse MEU futuro...}{Ah, se você quer saber... eu tinha ouvido rumores sobre ela pela cidade... as pessoas dizendo que ela conseguia realmente ver o futuro! Bobagem! Ninguém pode REALMENTE ver nada... é tudo encenação! Eu engano aquelas velhas o dia todo... digo exatamente o que elas querem ouvir! Então, fui até essa Madame Toussaude e disse que queria que ela visse MEU futuro...}{}{}{}{}
+{134}{E o que ela disse?}{}{5}{}{137}{}
+{135}{O que ela te disse?}{}{-4}{}{137}{}
+{137}{Ela me disse que um estranho entraria na minha loja um dia, e que ele seria a minha morte. Você acredita nisso? A minha morte! Então, quando vi você entrando aqui, pode imaginar minha surpresa... e meus medos...}{Ela me disse que um estranho entraria na minha loja um dia, e que ela seria a minha morte. Você acredita nisso? A minha morte! Então, quando vi você entrando aqui, pode imaginar minha surpresa... e meus medos...}{}{}{}{}
+{138}{Claro...}{}{5}{}{141}{}
+{139}{Hum-hum...}{}{-4}{}{141}{}
+{141}{Mas você não vê a ironia? Você foi lá e a matou! ELA era quem precisava temer você... não eu! Eu quebrei minha própria bola de cristal, só por precaução, caso alguém aparecesse... e no fim, você a mata, e eu ainda ganho a bola de cristal dela de brinde! HA! Tanto faz essa velha Madame Toussaude...}{Mas você não vê a ironia? Você foi lá e a matou! ELA era quem precisava temer você... não eu! Eu quebrei minha própria bola de cristal, só por precaução, caso alguém aparecesse... e no fim, você a mata, e eu ainda ganho a bola de cristal dela de brinde! HA! Tanto faz essa velha Madame Toussaude...}{}{}{}{}
+{142}{Sim... bem, fico feliz que tudo tenha dado certo para você. Tenha um bom dia.}{}{5}{gf2120 1}{0}{}
+{143}{Hã... tá bom! Tchau-tchau!}{}{-4}{gf2120 1}{0}{}
+{144}{Sim... mas ela me amaldiçoou na hora da morte! E a culpa é SUA!}{}{5}{gf2120 1}{159}{}
+{145}{Hã... ela me amaldiçoou! Por sua causa!}{}{-4}{gf2120 1}{159}{}
+{146}{Eu nunca disse que ela estava morta, Dolores...}{}{5}{gf2120 0}{149}{}
+{147}{Hã... quem disse que ela tá morta, moça?}{}{-4}{gf2120 0}{149}{}
+{149}{Quê? Como você conseguiu a bola...?}{Quê? Como você conseguiu a bola...?}{}{}{}{}
+{150}{Ela me deu. Para entregar a você...}{}{5}{}{153}{}
+{151}{Ela disse que queria que VOCÊ ficasse com ela...}{}{-4}{}{153}{}
+{153}{Eu não... não... por favor... tire isso de perto de mim...!}{Eu não... não... por favor... tire isso de perto de mim...!}{}{}{}{}
+{154}{É um presente, Dolores. Só para você... [Você a entrega para ela.]}{}{5}{}{-3}{in 5628}
+{155}{Não... ela REALMENTE quer que você fique com isso... [Você o entrega a ela.]}{}{-4}{}{-3}{in 5628}
+{156}{[Dolores estremece ao toque da esfera. Então seus membros enrijecem, suas mãos agarram a esfera com força, os nós dos dedos brancos. Seus olhos se arregalam, depois um vazio opaco os toma - seja por medo ou outra coisa, ela cai morta.]}{[Dolores estremece ao toque da esfera. Então seus membros enrijecem, suas mãos agarram a esfera com força, os nós dos dedos brancos. Seus olhos se arregalam, depois um vazio opaco os toma - seja por medo ou outra coisa, ela cai morta.]}{}{}{}{}
+{157}{Oh, deuses! Não... NÃÃÃÃÃÃÃÃÃÃÃÃO!!!!!!!!!}{Oh, deuses! Não... NÃÃÃÃÃÃÃÃÃÃÃÃO!!!!!!!!!}{}{}{}{}
+{159}{[Ela recua.] Amaldiçoou você? Sinto muito mesmo... de verdade, se houvesse algo que eu pudesse fazer...}{[Ela recua.] Amaldiçoou você? Sinto muito mesmo... de verdade, se houvesse algo que eu pudesse fazer...}{}{}{}{}
+{160}{Tenho certeza que não. E esse é o problema...}{}{5}{}{165}{}
+{161}{Só achei que você deveria saber. Tenha um bom dia...}{}{5}{}{0}{}
+{162}{Você VAI se arrepender...}{}{-4}{}{165}{}
+{163}{Ah, tudo bem. Tchau...}{}{-4}{}{0}{}
+{165}{Saia de perto de mim! Não tenho nada a ver com isso... eu só estava cuidando da minha própria pele! Não é minha culpa!}{Saia de perto de mim! Não tenho nada a ver com isso... eu só estava cuidando da minha própria pele! Não é minha culpa!}{}{}{}{}
+{166}{Madame Toussaud estava certa desde o início. Eu vou matar você...}{}{5}{}{}{co, fl 171}
+{167}{Talvez você esteja certo. Tenha um bom dia.}{}{5}{}{0}{}
+{168}{Eu mato você agora, senhora.}{}{-4}{}{}{co, fl 171}
+{169}{To-o-sowd-de certo... eu vou matar você...}{}{-4}{}{0}{}
+{171}{Socorro! Socorro! Estou sendo atacado!}{Socorro! Socorro! Estou sendo atacado!}{}{}{}{}
+{175}{[Ela parece surpresa.] Isso... bem, isso é simplesmente ótimo. Onde você conseguiu?}{[Ela parece surpresa.] Isso... bem, isso é simplesmente ótimo. Onde você conseguiu?}{}{}{}{}
+{176}{Madame Toussaud, uma médium no distrito dos armazéns...}{}{5}{}{129}{}
+{177}{Hã... alguma mulher estranha... To-os-s-ow-wde...?}{}{-4}{}{129}{}
+{178}{[Ela parece confusa.] Uma bola de cristal? Bem, isso é simplesmente ótimo! Eu estava precisando de uma! Onde você conseguiu?}{[Ela parece confusa.] Uma bola de cristal? Bem, isso é simplesmente ótimo! Eu estava precisando de uma! Onde você conseguiu?}{}{}{}{}
+{179}{Madame Toussaud, uma médium no distrito dos armazéns...}{}{5}{}{129}{}
+{180}{Hã... alguma mulher estranha... To-os-s-ow-wde...?}{}{-4}{}{129}{}
+

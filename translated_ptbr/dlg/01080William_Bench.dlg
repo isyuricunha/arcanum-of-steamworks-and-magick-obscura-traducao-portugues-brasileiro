@@ -1,0 +1,157 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá, senhor. E quem é você?}{}{5}{me 0,  re 30}{12}{}
+{3}{Senhor! Qual parece ser o problema?}{}{5}{me 0, re -29}{232}{}
+{4}{Já nos conhecemos, Sr. Bench... posso falar com você?}{}{5}{me 1, re 30}{22}{}
+{5}{Sr. Bench! Por que esse mau humor? Eu o ofendi?}{}{5}{me 1, re -29}{232}{}
+{6}{Oi! Eu burro! Quem você?}{}{-4}{me 0}{17}{}
+{7}{E:}{}{5}{}{0}{}
+{8}{Eu vou embora agora.}{}{-4}{}{0}{}
+{12}{Eu sou William Bench, homem do campo e naturalista, e líder deste grupo que você vê aqui. E quem seria você?}{Eu sou William Bench, homem do campo e naturalista, e líder deste grupo que você vê aqui. E quem seria você?}{}{}{}{}
+{13}{Eu sou @PCNAME@. Um prazer. Posso falar com você...?}{}{5}{}{22}{}
+{17}{Eu sou William Bench, meu simples amigo! Homem do campo e naturalista, e líder deste grupo que você vê aqui. E quem seria você?}{Eu sou William Bench, meu simples amigo! Homem do campo e naturalista, e líder deste grupo que você vê aqui. E quem seria você?}{}{}{}{}
+{18}{Eu @PCNAME@! Eu te faço uma pergunta?}{}{-4}{}{22}{}
+{22}{Certamente...}{Certamente...}{}{}{}{}
+{23}{O que você está fazendo aqui...?}{}{5}{}{32}{}
+{24}{Por que você está aqui?}{}{-4}{}{32}{}
+{32}{Sou um topógrafo, e esta é minha equipe. Fomos contratados pela Torringsdale Logging Company... temos um contrato para mapear as terras ao redor, que foram recentemente compradas pela Torringsdale, e relatar a usabilidade de seus recursos. Um trabalho bem padrão, na verdade...}{Sou um topógrafo, e esta é minha equipe. Fomos contratados pela Torringsdale Logging Company... temos um contrato para mapear as terras ao redor, que foram recentemente compradas pela Torringsdale, e relatar a usabilidade de seus recursos. Um trabalho bem padrão, na verdade...}{}{}{}{}
+{33}{Hmmm. Talvez tenhamos um problema aqui, Sr. Bench.}{}{5}{qu1019 2}{38}{}
+{34}{Vou deixá-lo com isso, então.}{}{5}{}{0}{gf1071 1}
+{35}{Hã... tá bom. Eu tenho problema...}{}{-4}{}{38}{}
+{36}{Tchau-tchau!}{}{-4}{}{0}{gf1071 1}
+{38}{Ah, é? [Ele cruza os braços.] E qual seria?}{Ah, é? E qual seria?}{}{}{}{}
+{39}{Infelizmente, você não deveria estar aqui...}{}{5}{}{44}{}
+{40}{Nenhum que eu consiga ver. Vou me despedir de você...}{}{5}{}{0}{gf1071 1}
+{41}{Você não devia estar aqui...}{}{-4}{}{44}{}
+{42}{Eu vou embora agora.}{}{-4}{}{0}{gf1071 1}
+{44}{Não vejo problema algum aqui, forasteiro. Na verdade, acho que vou ter que pedir para você ir embora... esta aqui é propriedade privada, e você está invadindo. [Ele faz um gesto para alguns de seus capangas, que o observam com desconfiança.]}{Não vejo problema algum aqui, forasteiro. Na verdade, acho que vou ter que pedir para você ir embora... esta aqui é propriedade privada, e você está invadindo. [Ele faz um gesto para alguns de seus capangas, que o observam com desconfiança.]}{}{}{}{}
+{45}{Acho que vou conseguir te convencer do contrário...}{}{5}{ps 8}{61}{}
+{46}{Acho que vou conseguir te convencer do contrário...}{}{5}{ps -7}{52}{}
+{47}{Este é solo sagrado élfico. Sua presença aqui é uma profanação.}{}{5}{}{175}{}
+{48}{Sem dúvida está certo. Vou deixá-lo com seu trabalho...}{}{5}{}{0}{gf1071 1}
+{49}{Esta terra élfica especial! Saia daqui!}{}{-4}{}{175}{}
+{50}{Tchau-tchau.}{}{-4}{}{0}{gf1071 1}
+{52}{Acho que não, amigo. É melhor procurar outra pessoa para incomodar. Tenho trabalho a fazer e você está no caminho...}{Acho que não, amigo. É melhor procurar outra pessoa para incomodar. Tenho trabalho a fazer e você está no caminho...}{}{}{}{}
+{53}{Este é solo sagrado élfico. Sua presença aqui é uma profanação.}{}{5}{}{175}{}
+{54}{Sem dúvida está certo. Vou deixá-lo com seu trabalho...}{}{5}{}{0}{}
+{56}{[Ele ri alto.] Você quer dizer Gilbert Bates? Ele está morto... ou não ficou sabendo? Acho que o Sr. Gilbert Bates não tem muito interesse nesses dias...}{[Ele ri alto.] Você quer dizer Gilbert Bates? Ele está morto... ou não ficou sabendo? Acho que o Sr. Gilbert Bates não tem muito interesse nesses dias...}{}{}{}{}
+{57}{Esqueça. Esta é terra sagrada élfica, e você vai sair...}{}{5}{}{175}{}
+{61}{Sério? Escute, amigo. Estou aqui para fazer um trabalho... William Bench é um homem de palavra, e Torringsdale espera um relatório na mesa dele em uma semana. Não acho que haja muito que você possa dizer para me dissuadir do que vim fazer aqui...}{Sério? Escute, amigo. Estou aqui para fazer um trabalho... William Bench é um homem de palavra, e Torringsdale espera um relatório na mesa dele em uma semana. Não acho que haja muito que você possa dizer para me dissuadir do que vim fazer aqui...}{}{}{}{}
+{62}{Hmm... você pode pensar diferente se soubesse quem eu represento...}{}{5}{}{67}{lc1 0}
+{63}{Essas árvores... elas... hmm... não servem para corte...}{}{5}{}{139}{}
+{64}{Vamos direto ao ponto. Esta é terra sagrada élfica...}{}{5}{}{175}{}
+{67}{Quem VOCÊ representa? Já entendi... deixe-me adivinhar. Você é um dos sujeitos da Wextel Lumber, certo? Espere... agora vejo tudo... você está aqui para me dizer que VOCÊ tem direitos legais sobre esta terra...}{Quem VOCÊ representa? Já entendi... deixe-me adivinhar. Você é um dos sujeitos da Wextel Lumber, certo? Espere... agora vejo tudo... você está aqui para me dizer que VOCÊ tem direitos legais sobre esta terra...}{}{}{}{}
+{68}{Não... sou do Comitê de Obras e Desenvolvimento Territorial...}{}{5}{}{145}{}
+{69}{Você está parcialmente certo, mas não estou aqui pela Wextel Lumber...}{}{5}{}{73}{                  }
+{70}{Ah, esqueça. Esta é terra sagrada élfica. Você vai sair...}{}{5}{}{175}{}
+{71}{E:}{}{5}{}{0}{gf1071 1}
+{73}{Ah... então quem?}{Ah... então quem?}{}{}{}{}
+{74}{Represento os elfos de Qintarra. Esta é terra sagrada para eles...}{}{5}{}{175}{}
+{75}{Sou do Comitê de Obras e Desenvolvimento Territorial...}{}{5}{}{145}{}
+{76}{Gilbert Bates. Represento Gilbert Bates...}{}{5}{gf1009 0}{81}{}
+{77}{Gilbert Bates. Represento Gilbert Bates...}{}{5}{gf1009 1}{56}{}
+{78}{E:}{}{5}{}{0}{gf1071 1}
+{81}{Bates? [O homem fica surpreso.] Bates? Que interesse Gilbert Bates teria em desmatamento? O homem fornece os motores para nossos cortadores!}{Bates? [O homem fica surpreso.] Bates? Que interesse Gilbert Bates teria em desmatamento? O homem fornece os motores para nossos cortadores!}{}{}{}{}
+{82}{Olha, este lugar é sagrado para os elfos. Saia daqui...}{}{5}{}{172}{}
+{83}{Ele está pensando em entrar no ramo da exploração madeireira...}{}{5}{}{87}{}
+{84}{Esta terra é dele. Seu mapa deve estar incorreto...}{}{5}{}{151}{}
+{85}{E:}{}{5}{}{0}{gf1071 1}
+{87}{O Sr. Bates? No ramo da exploração madeireira? Mas ele já possui tanto! Por que alguém com um monopólio tão óbvio em sua área de atuação iria querer assumir a exploração madeireira também?}{O Sr. Bates? No ramo da exploração madeireira? Mas ele já possui tanto! Por que alguém com um monopólio tão óbvio em sua área de atuação iria querer assumir a exploração madeireira também?}{}{}{}{}
+{88}{Ele vê uma oportunidade... você vai questioná-lo?}{}{5}{}{93}{}
+{89}{O ramo das máquinas a vapor não é mais o que costumava ser...}{}{5}{}{157}{}
+{90}{E:}{}{5}{}{0}{gf1071 1}
+{93}{Hã... não, não... claro que não! Não estou dizendo que questionaria o julgamento do Sr. Bates! Não, senhor! Mas o que, exatamente, VOCÊ está fazendo aqui? Quero dizer, esta terra é de propriedade de Torringsdale...}{Hã... não, não... claro que não! Não estou dizendo que questionaria o julgamento do Sr. Bates! Não, senhor! Mas o que, exatamente, VOCÊ está fazendo aqui? Quero dizer, esta terra é de propriedade de Torringsdale...}{}{}{}{}
+{94}{Nunca conheci um topógrafo com tão mau senso de direção...}{}{5}{}{162}{}
+{95}{Tem certeza? Talvez você tenha interpretado mal seus mapas...}{}{5}{}{162}{}
+{96}{Bem, o Sr. Bates está contestando isso no tribunal neste momento...}{}{5}{}{99}{}
+{97}{E:}{}{5}{}{0}{gf1071 1}
+{99}{No tribunal? Tenho documentos legais aqui afirmando a validade da reivindicação de Torringsdale! Como o Sr. Bates poderia contestar isso?}{No tribunal? Tenho documentos legais aqui afirmando a validade da reivindicação de Torringsdale! Como o Sr. Bates poderia contestar isso?}{}{}{}{}
+{100}{Você realmente acha que a legalidade é uma preocupação do Sr. Bates?}{}{5}{}{105}{}
+{105}{Não, entendo seu ponto. Bem, o que exatamente você está propondo? Ainda tenho um trabalho a fazer, mas não sou de fazer o tipo errado de inimigos. Talvez o Sr. Bates esteja querendo fazer negócios aqui?}{Não, entendo seu ponto. Bem, o que exatamente você está propondo? Ainda tenho um trabalho a fazer, mas não sou de fazer o tipo errado de inimigos. Talvez o Sr. Bates esteja querendo fazer negócios aqui?}{}{}{}{}
+{106}{Recomendo que desapareça, Sr. Bench...}{}{5}{}{167}{}
+{107}{Talvez eu possa dar uma boa palavra por você...}{}{5}{}{111}{}
+{108}{E:}{}{5}{}{0}{gf1071 1}
+{111}{[Ele pisca.] Isso, meu amigo, seria muito apreciado. Estou pensando que nosso pequeno grupo aqui pode ter caído em algumas dificuldades... sabe, riscos da profissão... talvez uma tempestade violenta? E como teríamos perdido todas as provisões...}{[Ele pisca.] Isso, meu amigo, seria muito apreciado. Estou pensando que nosso pequeno grupo aqui pode ter caído em algumas dificuldades... sabe, riscos da profissão... talvez uma tempestade violenta? E como teríamos perdido todas as provisões...}{}{}{}{}
+{112}{...vocês tiveram que voltar mais cedo. Muito bom, William.}{}{5}{}{117}{}
+{117}{Obrigado, @PCNAME@. Sempre fui um bom contador de histórias. E você vai se certificar de passar meu nome para o Sr. Bates? Ele também vai precisar de topógrafos...}{Obrigado, @PCNAME@. Sempre fui um bom contador de histórias. E você vai se certificar de passar meu nome para o Sr. Bates? Ele também vai precisar de topógrafos...}{}{}{}{gf1070 1, lf1 1, gf2705 1}
+{118}{Vou dizer que você sempre pode mentir para... quer dizer, CONFIAR no Sr. Bench.}{}{5}{}{}{fl 120}
+{120}{Certo! Vamos arrumar nossas coisas agora mesmo e ir embora. Ficarei no aguardo de ouvir notícias suas em breve...}{Certo! Vamos arrumar nossas coisas agora mesmo e ir embora. Ficarei no aguardo de ouvir notícias suas em breve...}{}{}{}{qu1019 4}
+{121}{[Ele pisca.] Certifique-se de dar minhas melhores lembranças ao Sr. Bates!}{[Ele pisca.] Certifique-se de dar minhas melhores lembranças ao Sr. Bates!}{}{}{}{}
+{139}{Não serve para exploração madeireira? Você está louco? Esta é uma das melhores florestas para exploração madeireira que já vi! Obviamente, você NÃO faz ideia do que está falando...}{Não serve para extração de madeira? Você está louco? Esta é uma das melhores florestas para extração que já vi! Obviamente, você não faz a menor ideia do que está falando...}{}{}{}{}
+{140}{Isso não é importante. Você tem alguma ideia de quem eu represento?}{}{5}{}{67}{lc1 1}
+{141}{Esqueça. Este é solo sagrado élfico e você está saindo daqui...}{}{5}{}{175}{}
+{142}{E:}{}{5}{}{0}{gf1071 1}
+{145}{Ótimo! Maravilhoso! Tenho um aviso por escrito do SEU comitê que confirma os dias e condições desta festa! [Ele mostra a você.] E posso ver SUAS credenciais?}{Ótimo! Maravilhoso! Tenho um aviso por escrito do SEU comitê que confirma os dias e condições desta festa! [Ele mostra a você.] E posso ver SUAS credenciais?}{}{}{}{}
+{146}{Olha, eu menti. Na verdade, represento Gilbert Bates...}{}{5}{lc1 0}{73}{lc1 1}
+{147}{Olha, eu menti. Na verdade, represento Gilbert Bates...}{}{5}{lc1 1}{172}{}
+{148}{Esqueça. Este é solo sagrado élfico e você está saindo daqui...}{}{5}{}{175}{}
+{149}{E:}{}{1}{}{0}{gf1071 1}
+{151}{Incorreto? Sou um AGRIMENSOR, @PCNAME@. É meu TRABALHO estar correto em assuntos como saber exatamente onde estou. Agora... quem é você, realmente? E qual é o seu negócio aqui?}{Incorreto? Sou um AGRIMENSOR, @PCNAME@. É meu TRABALHO estar correto em assuntos como saber exatamente onde estou. Agora... quem é você, realmente? E qual é o seu negócio aqui?}{}{}{}{}
+{152}{Como eu disse, represento Bates. Ele está entrando no ramo madeireiro...}{}{5}{lc1 0}{81}{lc1 1}
+{153}{Como eu disse, represento Bates. Ele está entrando no ramo madeireiro...}{}{5}{lc1 1}{172}{}
+{154}{E:}{}{5}{}{0}{}
+{157}{O quê? O negócio de máquinas a vapor está maior do que nunca! Você sabe alguma coisa sobre os negócios do seu empregador? Ou talvez você não seja de Bates, afinal...}{O quê? O negócio de máquinas a vapor está maior do que nunca! Você sabe alguma coisa sobre os negócios do seu empregador? Ou talvez você não seja de Bates, afinal...}{}{}{}{}
+{158}{Está questionando minha palavra? Ou a do Sr. Bates?}{}{5}{lc1 0}{93}{lc1 1}
+{159}{Está questionando minha palavra? Ou a do Sr. Bates?}{}{5}{lc1 1}{172}{}
+{160}{E:}{}{5}{}{0}{gf1071 1}
+{162}{Sou um AGRIMENSOR, @PCNAME@. É meu TRABALHO estar correto em assuntos como saber exatamente onde estou. Talvez o Sr. Bates tenha cometido o erro... ou VOCÊ tenha... [Ele se aproxima, assim como alguns dos outros.]}{Sou um AGRIMENSOR, @PCNAME@. É meu TRABALHO estar correto em assuntos como saber exatamente onde estou. Talvez o Sr. Bates tenha cometido o erro... ou VOCÊ tenha... [Ele se aproxima, assim como alguns dos outros.]}{}{}{}{}
+{163}{Bem, o Sr. Bates está contestando a reivindicação dos Torringsdale, de qualquer forma...}{}{5}{lc1 0}{99}{lc1 1}
+{164}{Bem, o Sr. Bates está contestando a reivindicação dos Torringsdale, de qualquer forma...}{}{5}{lc1 1}{172}{}
+{165}{E:}{}{5}{}{0}{gf1071 1}
+{167}{Desaparecer? Está me ameaçando? Tenho representação nos sindicatos. Sei que o Sr. Bates é poderoso, mas nem ele consegue tocar suas fábricas sem trabalhadores. Uma palavra ruim minha e seus negócios param... o que me diz disso?}{Desaparecer? Está me ameaçando? Tenho representação nos sindicatos. Sei que o Sr. Bates é poderoso, mas nem ele consegue tocar suas fábricas sem trabalhadores. Uma palavra ruim minha e seus negócios param... o que me diz disso?}{}{}{}{}
+{168}{Por que não coloco uma boa palavra por você com Bates?}{}{5}{lc1 0}{111}{lc1 1}
+{169}{Por que não coloco uma boa palavra por você com Bates?}{}{5}{lc1 1}{172}{}
+{170}{E:}{}{5}{}{0}{gf1071 1}
+{172}{Desculpe, @PCNAME@, mas já ouvi histórias suficientes. Recomendo que siga em frente. Agora, se não há mais nada...?}{Desculpe, @PCNAME@, mas já ouvi histórias suficientes. Recomendo que siga em frente. Agora, se não há mais nada...?}{}{}{}{}
+{173}{Tudo bem. Este é solo sagrado élfico. Você deve sair daqui...}{}{5}{}{175}{}
+{175}{[Ele olha ao redor, com um sorriso de escárnio.] Não vejo nenhuma placa aqui indicando isso. Malditos elfos de coração mole... sempre tentando salvar as florestas. Estamos em terreno legal sólido... se os elfos tiverem algum problema, podem levar suas queixas aos tribunais. Estes são novos tempos, e as pessoas vão ter que viver com eles...}{[Ele olha ao redor, com um sorriso de escárnio.] Não vejo nenhuma placa aqui indicando isso. Malditos elfos de coração mole... sempre tentando salvar as florestas. Estamos em terreno legal sólido... se os elfos tiverem algum problema, podem levar suas queixas aos tribunais. Estes são novos tempos, e as pessoas vão ter que viver com eles...}{}{}{}{}
+{176}{Acho que você não entende...}{}{5}{}{}{fl 180}
+{177}{Hã... espere... você não tá entendendo... a elfa bonita disse...}{}{-4}{}{}{fl 180}
+{180}{Não, amigo, é VOCÊ que não entende. Saia daqui, ou serei forçado a tomar uma atitude. Agora nos deixe em paz...}{Não, amigo, é VOCÊ que não entende. Saia daqui, ou serei forçado a tomar uma atitude. Agora nos deixe em paz...}{}{}{}{lc1 1, gf1071 1}
+{185}{Escute, amigo. Não vou mais falar sobre isso... quero que saia daqui agora mesmo!}{Escute, amigo. Não vou mais falar sobre isso... quero que saia daqui agora mesmo!}{}{}{}{}
+{186}{Olha, só quero conversar sobre isso racionalmente...}{}{5}{}{}{gf1071 1, lc1 2, fl 204}
+{187}{Ha! Como se eu fosse aceitar ordens de um vira-lata como você!}{}{5}{}{209}{}
+{188}{Escuta! Você precisa ir embora, porque...}{}{-4}{}{}{gf1071 1, lc1 2, fl 204}
+{189}{Você é engraçado! Parece uma mulher! Ha!}{}{-4}{}{209}{}
+{192}{Esta é a última vez que vou dizer isso. Não vamos embora, e não há nada que você possa dizer para nos fazer sair... agora vá!}{Esta é a última vez que vou dizer isso. Não vamos embora, e não há nada que você possa dizer para nos fazer sair... agora vá!}{}{}{}{}
+{193}{Não estou ameaçando você, mas você PRECISA sair desta terra...}{}{5}{}{}{gf1071 1, lc1 3, fl 204}
+{194}{Seu aviso é ridículo.}{}{5}{}{209}{}
+{195}{Espere! Você precisa sair desta terra especial...}{}{-4}{}{}{gf1071 1, lc1 3, fl 204}
+{196}{Willem Fedor! Você diz coisas estúpidas! Me faz rir!}{}{-4}{}{209}{}
+{198}{[William Bench o ignora.]}{[William Bench o ignora.]}{}{}{}{}
+{199}{Bench! Fale comigo!}{}{5}{}{}{gf1071 1, fl 204}
+{200}{Não queria mencionar, mas você tem jeito de mulher...}{}{5}{}{209}{}
+{201}{Ei! Por favor! Preciso falar...!}{}{-4}{}{}{gf1071 1, fl 204}
+{202}{Você parece um macaco! Fede como um macaco também! Ha Ha!}{}{-4}{}{209}{}
+{204}{Eu já disse. Não vou mais falar sobre isso. Por favor, vá embora...}{Eu já disse. Não vou mais falar sobre isso. Por favor, vá embora...}{}{}{}{}
+{209}{O quê? Está me insultando agora? Está testando minha paciência...}{O quê? Está me insultando agora? Está testando minha paciência...}{}{}{}{}
+{210}{Só queria chamar sua atenção! Agora escute!}{}{5}{}{}{gf1071 1, fl 204}
+{211}{Suas baboseiras me enjoam. Tenha um pouco de dignidade, homem!}{}{5}{}{215}{}
+{212}{Só quero que você vá embora... você precisa ir...!}{}{-4}{}{}{gf1071 1, fl 204}
+{213}{Eu sou burro, mas você é BEM burro! Ha! Um burro burro!}{}{-4}{}{215}{}
+{215}{Dignidade! Não serei tratado assim na frente dos meus homens! Sugiro que peça desculpas, senhor!}{Dignidade! Não vou admitir que me falem assim na frente dos meus homens! Sugiro que peça desculpas, madame!}{}{}{}{}
+{216}{Pedir desculpas? Prefiro beijar o traseiro de um babuíno...}{}{5}{}{221}{}
+{217}{Apenas escute o que tenho a dizer! Há muito em jogo aqui...}{}{5}{}{}{gf1071 1, fl 204}
+{218}{HA HA HA HA HA! O que você vai fazer, seu idiota? HA!}{}{-4}{}{221}{}
+{219}{Tá bom... mas me escuta! Você tem que me escutar!}{}{-4}{}{}{gf1071 1, fl 204}
+{221}{Você... eu tomaria cuidado com a língua se fosse você, forasteiro! Um homem só aguenta até certo ponto...}{Você... eu tomaria cuidado com a língua se fosse você, forasteiro! Um homem só aguenta até certo ponto...}{}{}{}{}
+{222}{Então você não tem nada com que se preocupar, considerando como você é...}{}{5}{}{225}{}
+{223}{O rosto do idiota está ficando vermelho! Acho que ele vai chorar! HA HA!}{}{-4}{}{225}{}
+{225}{Cala a boca! Cala a boca! Não me responsabilizo pelos meus atos se isso continuar...!}{Cala a boca! Cala a boca! Não me responsabilizo pelos meus atos se isso continuar...!}{}{}{}{}
+{226}{Já vi garçonetes mais duronas! Vá em frente! Eu te desafio a me bater!}{}{5}{}{-12}{}
+{227}{HA HA! Vá em frente, seu idiota! Me bata! HAHAHAHAHAHA!!!}{}{-4}{}{-12}{}
+{229}{Chega! Você está pedindo por isso! Vamos pegá-lo, homens!}{Chega! Você está pedindo por isso! Vamos pegá-la, homens!}{}{}{}{}
+{232}{Recomendo que vá embora, amigo... sua simples presença já me deixou de mau humor...}{Recomendo que vá embora, amigo... sua simples presença já me deixou de mau humor...}{}{}{}{}
+{233}{Olha, não quero ofender. Vamos conversar sobre isso...}{}{5}{}{237}{re 10}
+{234}{Tenho uma solução permanente para esse seu humor, amigo...}{}{5}{}{}{re -10, co, fl 248}
+{235}{Acho que você já decidiu sobre isso. Adeus.}{}{5}{}{0}{}
+{237}{Hmmm. Normalmente não sou de guardar rancor, mas você está ME DEIXANDO MUITO IRRITADO. Talvez seja melhor você sumir...}{Hmmm. Normalmente não sou de guardar rancor, mas você está ME DEIXANDO MUITO IRRITADO. Talvez seja melhor você sumir...}{}{}{}{}
+{238}{Estou disposto a melhorar essa situação...}{}{5}{}{242}{re 10}
+{239}{Daqui a pouco você vai estar segurando suas próprias VÍSCERAS...}{}{5}{}{}{re -10, co, fl 248}
+{240}{Lamento que veja as coisas dessa forma. Vou me retirar.}{}{5}{}{0}{}
+{242}{Ah, tá bom. Você não deve ser tão ruim assim, se rastejando desse jeito. Como posso te ajudar?}{Você é bem determinado. Ah, tudo bem! Não consigo deixar de perdoar suas óbvias falhas de caráter...}{}{}{}{}
+{243}{É mais assim! Posso saber seu nome?}{}{5}{me 0}{12}{}
+{244}{Obrigado, Sr. Bench. Tenho uma pergunta...}{}{5}{me 1}{22}{}
+{245}{Rastejando? Talvez eu vá te estripar mesmo assim...}{}{5}{}{}{re -10, co, fl 248}
+{246}{E:}{}{5}{}{0}{}
+{248}{O quê! Não vou tolerar sua língua! Ataquem-no, homens!}{O quê! Não vou tolerar sua língua! Ataquem-na, homens!}{}{}{}{}
+

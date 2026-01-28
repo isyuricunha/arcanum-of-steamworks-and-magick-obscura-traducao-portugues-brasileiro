@@ -1,0 +1,34 @@
+{1}{Psst... Ei... vem cá... Tenho uma coisa pra você.}{Psst... Ei, moça... vem cá... Tenho uma coisa pra você.}{}{}{}{}
+{2}{Sim? O que é?}{}{5}{}{5}{}
+{3}{E:}{}{1}{}{-4}{lf 15 1}
+{4}{O que você quer?}{}{-4}{}{5}{}
+{5}{A <<<PH1>>> tem um trabalho para você. Está disponível?}{A <<<PH1>>> tem um serviço para você. Está disponível?}{}{}{}{}
+{6}{Estou. O que você quer que eu faça?}{}{5}{}{18}{}
+{7}{<<<PH1>>>?}{}{5}{}{12}{}
+{8}{Não. Não estou.}{}{5}{}{-4}{lf 15 1, fl 23}
+{9}{Não. Não posso agora.}{}{-4}{}{-4}{lf 15 1, fl 23}
+{10}{Tô sim. O que você quer que eu faça?}{}{-4}{}{18}{}
+{11}{<<<PH1>>>?}{}{-4}{}{12}{}
+{12}{..."Ladrões"...}{..."Ladrões"...}{}{}{}{}
+{13}{Ah! Desculpa... Não estava pensando. O que você quer que eu faça?}{}{5}{}{18}{}
+{14}{Não tenho certeza se entendi...}{}{5}{}{-4}{lf 15 1, fl 17}
+{15}{Ah, é! ...O que você quer que eu faça?}{}{-4}{}{18}{}
+{16}{Hã... O quê?}{}{-4}{}{-4}{lf 15 1, fl 17}
+{17}{Hã... Esquece. Tchau.}{Hã... Deixa pra lá. Adeus.}{}{}{}{}
+{18}{A <<<PH1>>> conseguiu um monte de joias. Elas são bem especiais. Foram lapidadas de um jeito que deixa os <<<PH2>>> malucos por elas. O roubo deu uma complicada... e agora elas são um item "quente". Estamos pedindo sua ajuda para que não passem pelos canais normais... Você as entrega?}{A <<<PH1>>> conseguiu um lote de joias. São bem especiais. Foram lapidadas de um jeito que deixa os <<<PH2>>> doidos por elas. O assalto deu errado... e agora são mercadoria "quente". Pedimos sua ajuda para que não passem pelos meios comuns... Você as entrega?}{}{}{}{qu1124 1}
+{19}{Sim.}{}{5}{}{24}{}
+{20}{Sinto muito, mas devo recusar.}{}{5}{}{-4}{lf 15 1, fl 23}
+{21}{Tô sim. Eu faço.}{}{-4}{}{24}{}
+{22}{Não. Não posso agora.}{}{-4}{}{-4}{lf 15 1, fl 23}
+{23}{Sua falta de lealdade foi anotada. [olha ao redor desconfiado] Adeus.}{Sua falta de compromisso foi registrada. [olha ao redor com suspeita] Tchau.}{}{}{}{}
+{24}{Aqui. Leve esta bolsa para Adam Maxwell. Ele mora em Caladon.}{Pegue. Entregue esta sacola para Adam Maxwell. Ele vive em Caladon.}{}{}{}{in -5666, qu1124 2}
+{25}{Pode contar comigo.}{}{5}{}{-4}{lf 15 1, fl 29}
+{26}{Hmm... Em Caladon?}{}{5}{}{-4}{lf 15 1, fl 29}
+{27}{Tá bom. Eu levo.}{}{-4}{}{-4}{lf 15 1, fl 29}
+{28}{Hmm... Como eu a encontro?}{}{-4}{}{-4}{lf 15 1, fl 29}
+{29}{Vá até Caladon. Você vai encontrá-lo. Tenho que ir. Você não vai querer ser visto comigo. Adeus.}{Vá até Caladon. Você vai encontrá-lo. Tenho que ir. Você não vai querer ser visto comigo. Adeus.}{}{}{}{}
+{30}{Firme aí, cara! Aja normalmente! Para de me encher!}{Firme aí, cara! Aja normalmente! Para de me encher!}{}{}{}{}
+{31}{}{}{}{}{}{}
+{32}{}{}{}{}{}{}
+{33}{}{}{}{}{}{}
+

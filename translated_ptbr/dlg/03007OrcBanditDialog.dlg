@@ -1,0 +1,86 @@
+{1}{Pare, elfo! Se quiser viver, nos dê moedas! 200!}{Pare, elfo! Se quiser viver, nos dê moedas! 200!}{}{}{}{ }
+{2}{E se eu não pagar?}{}{5}{}{145}{re-10 }
+{3}{Tudo bem, aqui está. [Entregue as moedas a ele.]}{}{5}{$$200}{0}{$$-200, fl 140 , lf1 1}
+{4}{Mas eu não quero dar minhas moedas.}{}{-4}{}{145}{re-10 }
+{5}{Tá bom, tá bom. [Entregue as moedas a ele.]}{}{-4}{$$200}{0}{$$-200, fl 140 , lf1 1}
+{9}{Não tenho 200 moedas, bom senhor.}{}{5}{$$-199}{0}{fl 139  ,co}
+{10}{Eu num tenho 200 dinheiro.}{}{-4}{$$-199}{0}{fl 139  ,co}
+{11}{Talvez eu simplesmente vá embora, em vez disso.}{}{5}{}{145}{ }
+{12}{Vou embora agora.}{}{-4}{}{145}{ }
+{13}{Prefiro ver sua vida sangrar desse corpo feio!}{}{5}{}{0}{fl 119 ,co}
+{14}{Eu mato você agora. Tá bom?}{}{-4}{}{0}{fl 119 ,co}
+{20}{Pare, doninha gorducha! Se quiser viver, nos dê moedas! 200!}{Pare, doninha gorducha! Se quiser viver, nos dê moedas! 200!}{}{}{}{ }
+{21}{E se eu não pagar?}{}{5}{}{145}{re-10 }
+{22}{Tudo bem, aqui está. [Entregue as moedas a ele.]}{}{5}{$$200}{0}{$$-200, fl 140 , lf1 1}
+{23}{Mas eu não quero dar minhas moedas.}{}{-4}{}{145}{re-10 }
+{24}{Tá bom, tá bom. [Entregue as moedas a ele.]}{}{-4}{$$200}{0}{$$-200, fl 140 , lf1 1}
+{28}{Não tenho 200 moedas, bom senhor.}{}{5}{$$-199}{0}{fl 139  ,co}
+{29}{Eu num tenho 200 dinheiro.}{}{-4}{$$-199}{0}{fl 139  ,co}
+{30}{Talvez eu simplesmente vá embora, em vez disso.}{}{5}{}{145}{ }
+{31}{Vou embora agora.}{}{-4}{}{145}{ }
+{32}{Prefiro ver sua vida sangrar desse corpo feio!}{}{5}{}{0}{fl 119 ,co}
+{33}{Eu mato você agora. Tá bom?}{}{-4}{}{0}{fl 119 ,co}
+{40}{Pare, gnomo sapo nojento! [Ele te agarra.] Nos dê 200 moedas se quiser viver, fracote!}{Pare, gnomo sapo nojento! [Ele te agarra.] Nos dê 200 moedas se quiser viver, fracote!}{}{}{}{ }
+{41}{E se eu não pagar?}{}{5}{}{145}{re-10 }
+{42}{Tudo bem, aqui está. [Entregue as moedas a ele.]}{}{5}{$$200}{0}{$$-200, fl 140 , lf1 1}
+{43}{Mas eu não quero dar minhas moedas.}{}{-4}{}{145}{re-10 }
+{44}{Tá bom, tá bom. [Entregue as moedas a ele.]}{}{-4}{$$200}{0}{$$-200, fl 140 , lf1 1}
+{48}{Não tenho 200 moedas, bom senhor.}{}{5}{$$-199}{0}{fl 139  ,co}
+{49}{Eu num tenho 200 dinheiro.}{}{-4}{$$-199}{0}{fl 139  ,co}
+{50}{Talvez eu simplesmente vá embora, em vez disso.}{}{5}{}{145}{ }
+{51}{Vou embora agora.}{}{-4}{}{145}{ }
+{52}{Prefiro ver sua vida sangrar desse corpo feio!}{}{5}{}{0}{fl 119 ,co}
+{53}{Eu mato você agora. Tá bom?}{}{-4}{}{0}{fl 119 ,co}
+{60}{Pare, porco humano! Se quiser viver, nos dê moedas! 200!}{Pare, porco humano! Se quiser viver, nos dê moedas! 200!}{}{}{}{ }
+{61}{E se eu não pagar?}{}{5}{}{145}{re-10 }
+{62}{Tudo bem, aqui está. [Entregue as moedas a ele.]}{}{5}{$$200}{0}{$$-200, fl 140 , lf1 1}
+{63}{Mas eu não quero dar minhas moedas.}{}{-4}{}{145}{re-10 }
+{64}{Tá bom, tá bom. [Entregue as moedas a ele.]}{}{-4}{$$200}{0}{$$-200, fl 140 , lf1 1}
+{68}{Não tenho 200 moedas, bom senhor.}{}{5}{$$-199}{0}{fl 139  ,co}
+{69}{Eu num tenho 200 dinheiro.}{}{-4}{$$-199}{0}{fl 139  ,co}
+{70}{Talvez eu simplesmente vá embora, em vez disso.}{}{5}{}{145}{ }
+{71}{Vou embora agora.}{}{-4}{}{145}{ }
+{72}{Prefiro ver sua vida sangrar desse corpo feio!}{}{5}{}{0}{fl 119 ,co}
+{73}{Eu mato você agora. Tá bom?}{}{-4}{}{0}{fl 119 ,co}
+{80}{Pare, sapo anão! Se quiser viver, nos dê moedas! 200!}{Pare, sapo anão! Se quiser viver, nos dê moedas! 200!}{}{}{}{ }
+{81}{E se eu não pagar?}{}{5}{}{145}{re-10 }
+{82}{Tudo bem, aqui está. [Entregue as moedas a ele.]}{}{5}{$$200}{0}{$$-200, fl 140 , lf1 1}
+{83}{Mas eu não quero dar minhas moedas.}{}{-4}{}{145}{re-10 }
+{84}{Tá bom, tá bom. [Entregue as moedas a ele.]}{}{-4}{$$200}{0}{$$-200, fl 140 , lf1 1}
+{88}{Não tenho 200 moedas, bom senhor.}{}{5}{$$-199}{0}{fl 139  ,co}
+{89}{Eu num tenho 200 dinheiro.}{}{-4}{$$-199}{0}{fl 139  ,co}
+{90}{Talvez eu simplesmente vá embora, em vez disso.}{}{5}{}{145}{ }
+{91}{Vou embora agora.}{}{-4}{}{145}{ }
+{92}{Prefiro ver sua vida sangrar desse corpo feio!}{}{5}{}{0}{fl 119 ,co}
+{93}{Eu mato você agora. Tá bom?}{}{-4}{}{0}{fl 119 ,co}
+{100}{Pare, huma... [ele faz uma pausa para olhar melhor]. Hah hah! Pensei que fosse humano! Mas você é um dos nossos! Pode ir, amigo!}{Pare, huma... [ele faz uma pausa para olhar melhor]. Hah hah! Pensei que fosse humano! Mas você é um dos nossos! Pode ir, amigo!}{}{}{}{ }
+{101}{Espere aí... eu não aprovo nada disso! Vocês estão nos dando má fama!}{}{5}{}{110}{re-10 }
+{102}{Adeus.}{}{5}{}{0}{lf1 1 }
+{103}{Tá bom.}{}{-4}{}{0}{lf1 1 }
+{110}{O quê?! Some daqui, lambe-botas, ou a gente te espanca porque nós somos orcs de verdade!}{O quê?! Some daqui, lambe-botas, ou a gente te espanca porque nós somos orcs de verdade!}{}{}{}{ }
+{111}{Você vai lamber minhas botas antes que isso acabe, porco!}{}{5}{}{0}{fl 119 ,co}
+{112}{Tenha uma boa noite, então.}{}{5}{}{0}{lf1 1 }
+{119}{Morra!!!}{Morra!!!}{}{}{}{ }
+{120}{Pare, grandalhão burro! Se quiser viver, nos dê moedas! 200!}{Pare, grandalhão burro! Se quiser viver, nos dê moedas! 200!}{}{}{}{ }
+{121}{E se eu não pagar?}{}{5}{}{145}{re-10 }
+{122}{Tudo bem, aqui está. [Entregue as moedas a ele.]}{}{5}{$$200}{0}{$$-200, fl 140 , lf1 1}
+{123}{Mas eu não quero dar minhas moedas.}{}{-4}{}{145}{re-10 }
+{124}{Tá bom, tá bom. [Entregue as moedas a ele.]}{}{-4}{$$200}{0}{$$-200, fl 140 , lf1 1}
+{128}{Não tenho 200 moedas, bom senhor.}{}{5}{$$-199}{0}{fl 139  ,co}
+{129}{Eu num tenho 200 grana.}{}{-4}{$$-199}{0}{fl 139  ,co}
+{130}{Talvez eu simplesmente vá embora, em vez disso.}{}{5}{}{145}{ }
+{131}{Vou embora agora.}{}{-4}{}{145}{ }
+{132}{Prefiro ver sua vida sangrar desse corpo feio!}{}{5}{}{0}{fl 119 ,co}
+{133}{Eu mato você agora. Tá bom?}{}{-4}{}{0}{fl 119 ,co}
+{139}{Vai pagar com sangue, então!}{Vai pagar com sangue, então!}{}{}{}{ }
+{140}{Some daqui, idiota!}{Some daqui, idiota!}{}{}{}{ }
+{145}{Nos dê moedas ou morra!!!}{Nos dê moedas ou morra!!!}{}{}{}{ }
+{146}{Tudo bem, aqui está. [Entregue as moedas a ele.]}{}{5}{$$200}{0}{$$-200, fl 140 lf1 1}
+{147}{Tá bom, tá bom. [Entregue as moedas a ele.]}{}{-4}{$$200}{0}{$$-200, fl 140 lf1 1}
+{148}{Não tenho 200 moedas, bom senhor.}{}{5}{}{0}{fl 139 ,co}
+{149}{Eu num tenho 200 grana.}{}{-4}{}{0}{fl 139 ,co}
+{150}{Prefiro ver sua vida sangrar desse corpo feio!}{}{5}{}{0}{fl 119 ,co}
+{151}{Eu mato você agora. Tá bom?}{}{-4}{}{0}{fl 119 ,co}
+{160}{Saia daqui!}{Saia daqui!}{}{}{}{ }
+{161}{Quem está aí?}{Quem está aí?}{}{}{}{ }
+

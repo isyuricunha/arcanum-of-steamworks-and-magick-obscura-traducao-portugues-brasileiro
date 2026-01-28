@@ -1,0 +1,165 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá, bom anão. Posso saber seu nome?}{}{5}{me 0, re 41}{28}{}
+{3}{Olá, Vegard. Tem um momento?}{}{5}{me 1, re 41}{91}{}
+{4}{Senhor! Você nem me conhece!}{}{5}{me 0, re -40}{11}{}
+{5}{Vegard! Qual parece ser o problema?}{}{5}{me 1, re -40}{11}{}
+{7}{Oi! Quem é você?}{}{-4}{me 0}{28}{}
+{8}{Ei, Veeg-arrd! Vai falar comigo...?}{}{-4}{me 1}{91}{}
+{9}{E:}{}{1}{}{0}{}
+{11}{Hmmph. Maldito forasteiro. Não sei por que me incomodo. Apenas se afaste de mim...}{Hmmph. Maldito forasteiro. Não sei por que me incomodo. Apenas se afaste de mim...}{}{}{}{}
+{12}{Eu sei que os anões são estoicos, mas também são irracionais?}{}{5}{me 0}{24}{re +10}
+{13}{Vegard... deve haver uma maneira de resolvermos isso...}{}{5}{me 1}{24}{re +10}
+{14}{Você está perigosamente perto de uma lição dolorosa, anão...}{}{5}{}{17}{re -5}
+{15}{E:}{}{5}{}{0}{}
+{17}{[O anão olha para você com frieza.] É melhor estar brincando, garoto. Não se fala assim nas cavernas do Clã Roda, a menos que queira partir para a briga. O que vai ser?}{[O anão olha para você com frieza.] É melhor estar brincando, garota. Não sou um anão que gosta de bater em mulheres, mas não se fala assim nas cavernas do Clã Roda, a menos que queira partir para a briga. O que vai ser?}{}{}{}{}
+{18}{Acho que não precisa chegar a isso. Podemos recomeçar?}{}{5}{}{24}{re +10}
+{19}{Não estou brincando. Seu crânio quebrado será a prova disso.}{}{5}{}{}{co, fl 22}
+{20}{E:}{}{5}{}{0}{}
+{22}{Foi um erro, garoto. Quase lamento ter que fazer isso...}{Foi um erro, garota. Quase lamento ter que fazer isso...}{}{}{}{}
+{24}{[Um sorriso quase quebra sua expressão pétrea.] Talvez eu tenha sido um pouco duro com você, garoto. Vamos esquecer que isso aconteceu...}{[Um sorriso quase quebra sua expressão pétrea.] Talvez eu tenha sido um pouco duro com você, garota. Vamos esquecer que isso aconteceu...}{}{}{}{}
+{25}{Estou disposto a fazer isso. E qual é o seu nome, senhor?}{}{5}{me 0}{28}{re +5}
+{26}{Já está esquecido, Vegard. Tem um momento?}{}{5}{me 1}{91}{}
+{27}{E:}{}{5}{}{0}{}
+{28}{[O anão à sua frente é velho, com grandes mechas grisalhas no cabelo e na barba. É largo, mesmo para um anão, com mãos e antebraços grandes.] Meu nome é Vegard. Vegard FluxoFundido. Prazer em conhecê-lo, garoto.}{[O anão à sua frente é velho, com grandes mechas grisalhas no cabelo e na barba. É largo, mesmo para um anão, com mãos e antebraços grandes.] Meu nome é Vegard. Vegard FluxoFundido. Prazer em conhecê-la, garota.}{}{}{}{}
+{29}{Olá, Vegard. Eu sou @PCNAME@...}{}{5}{}{34}{}
+{31}{Eu chamei @PCNAME@!}{}{-4}{}{34}{}
+{32}{E:}{}{-4}{}{0}{}
+{34}{Muito prazer, @PCNAME@. Bem-vindo ao Clã Roda. Há algo em que eu possa ajudá-lo?}{Muito prazer, @PCNAME@. Bem-vinda ao Clã Roda. Há algo em que eu possa ajudá-la?}{}{}{}{}
+{35}{Na verdade, tenho algumas perguntas...}{}{5}{}{91}{}
+{36}{Na verdade, não. Eu já estava de saída...}{}{5}{}{0}{}
+{37}{Hã... tenho perguntas!}{}{-4}{}{91}{}
+{38}{E:}{}{-4}{}{0}{}
+{47}{Eu? Sou apenas um velho anão tentando ficar fora do caminho de todo mundo. Costumava ser minerador, lá nos tempos em que a Draga ainda funcionava...}{Eu? Sou apenas um velho anão tentando ficar fora do caminho de todo mundo. Costumava ser minerador, lá nos tempos em que a Draga ainda funcionava...}{}{}{}{}
+{48}{A Draga? O que é a Draga?}{}{5}{}{53}{}
+{49}{O que são as Minas Abandonadas?}{}{-4}{}{53}{}
+{53}{As Minas Abandonadas? É um sistema de cavernas que antes era uma mina de ferro. A entrada não fica longe daqui... bem ao lado do palácio real...}{As Minas Abandonadas? É um sistema de cavernas que antes era uma mina de ferro. A entrada não fica longe daqui... bem ao lado do palácio real...}{}{}{}{}
+{54}{Por que não mineram mais lá?}{}{5}{}{61}{}
+{55}{Não mineram mais nas Minas Abandonadas?}{}{-4}{}{61}{}
+{61}{Não... não tem mais ferro nessas cavernas, garoto. Eu mesmo tirei uma boa quantidade. A única coisa que sobrou nas Minas Abandonadas é escuridão e monstros. Não é um lugar onde você queira dar um passeio. É uma pena, também... perdi algo lá embaixo há muito tempo, mas ninguém entra mais lá. Ordens do Rei, e tudo mais...}{Não... não tem mais ferro nessas cavernas, garota. Eu mesmo tirei uma boa quantidade. A única coisa que sobrou nas Minas Abandonadas é escuridão e monstros. Não é um lugar onde você queira dar um passeio. É uma pena, também... perdi algo lá embaixo há muito tempo, mas ninguém entra mais lá. Ordens do Rei, e tudo mais...}{}{}{}{lf3 1}
+{62}{O que você perdeu, Vegard?}{}{5}{}{125}{}
+{63}{O Rei? Quem é o Rei?}{}{5}{}{71}{}
+{66}{O que você perdeu?}{}{-4}{}{125}{}
+{67}{Hã... Rei? Que Rei?}{}{-4}{}{71}{}
+{69}{E:}{}{1}{}{0}{}
+{71}{O Rei? Bem... essa é uma história mais longa, garoto. Você sabe algo sobre o Clã da Roda?}{O Rei? Bem... essa é uma história mais longa, garota. Você sabe algo sobre o Clã da Roda?}{}{}{}{}
+{72}{O que foi que você perdeu nas Minas Abandonadas, Vegard?}{}{5}{}{125}{}
+{73}{Conte-me sobre o Clã da Roda...}{}{5}{}{148}{}
+{74}{Tenho mais algumas perguntas...}{}{5}{}{91}{}
+{76}{O que você perdeu nas Minas Abandonadas, Vegard?}{}{-4}{}{125}{}
+{77}{Fala pra mim sobre o Clã da Roda...}{}{-4}{}{148}{}
+{78}{Tenho outras perguntas...}{}{-4}{}{91}{}
+{79}{E:}{}{1}{}{0}{}
+{81}{Hmmm. Não sei... sempre há guardas na entrada das Minas Abandonadas, e não gostaria que você causasse problemas. MAS! Se por acaso conseguir permissão para entrar nessas cavernas antigas e sair com minha relíquia, talvez eu esteja disposto a lhe dar um resistente capacete de mineiro anão... é bom para enxergar no escuro...}{Hmmm. Não sei... sempre há guardas na entrada das Minas Abandonadas, e não gostaria que você causasse problemas. MAS! Se por acaso conseguir permissão para entrar nessas cavernas antigas e sair com minha relíquia, talvez eu esteja disposto a lhe dar um resistente capacete de mineiro anão... é bom para enxergar no escuro...}{}{}{}{qu1092 1}
+{82}{Feito. Voltarei com ela em breve.}{}{5}{}{0}{qu1092 2}
+{83}{Hã... tá bom! Eu volto com ela...!}{}{-4}{}{0}{qu1092 2}
+{84}{Vou fazer isso. Podemos repassar mais uma vez?}{}{5}{}{87}{qu1092 2}
+{85}{Tá bom! Mas tô confuso... o que eu preciso fazer?}{}{-4}{}{87}{qu1092 2}
+{86}{E:}{}{1}{}{0}{}
+{87}{Há duas coisas que você precisa fazer. Primeiro, há uma chave antiga que perdi em algum lugar nas cavernas. Depois de encontrá-la, você precisa achar uma porta em uma das paredes da caverna... foi esculpida direto na pedra, e só aquela chave a abrirá. Atrás dessa porta há uma caixa de madeira preta. Dentro dessa caixa está a relíquia. Boa sorte, garoto...}{Há duas coisas que você precisa fazer. Primeiro, há uma chave antiga que perdi em algum lugar nas cavernas. Depois de encontrá-la, você precisa achar uma porta em uma das paredes da caverna... foi esculpida direto na pedra, e só aquela chave a abrirá. Atrás dessa porta há uma caixa de madeira preta. Dentro dessa caixa está a relíquia. Boa sorte...}{}{}{}{}
+{88}{E:}{}{1}{}{0}{}
+{91}{O que você precisa saber?}{O que você precisa saber?}{}{}{}{}
+{92}{Você pode me treinar para ser especialista em detectar armadilhas, Vegard?}{}{5}{tr 7 -1}{107}{et 7 201}
+{93}{Conte-me algo sobre o Clã da Roda...}{}{5}{ni 5648, lf2 0}{148}{}
+{94}{Conte-me sobre o que você faz aqui, Vegard...}{}{5}{qu1092 0, ni 5648, lf3 0, lf2 0}{47}{}
+{95}{O que você perdeu no Dredge, Vegard?}{}{5}{lf3 1, qu1092 0, lf2 0}{125}{}
+{96}{Talvez eu consiga devolver a relíquia de família de vocês...}{}{5}{qu1092 1, ni 5648, lf2 0}{81}{}
+{97}{Ainda não encontrei a relíquia de família de vocês...}{}{5}{qu1092 2, ni 5648, lf2 0}{111}{}
+{98}{Eu encontrei sua... hã... 'relíquia'. Aqui está...}{}{5}{qa1092 1, qb1092 3,  in 5648, lf2 0}{116}{in 5648}
+{99}{Hã... você me ensina a ver armadilhas, Vee-gard?}{}{-4}{tr 7 -1}{107}{et 7 201}
+{100}{Hã... me fala sobre o Clã da Roda...}{}{-4}{ni 5648, lf2 0}{148}{}
+{101}{Qual é o seu trabalho, Vee-gard?}{}{-4}{qu1092 0, ni 5648, lf3 0, lf2 0}{47}{}
+{102}{O que você perdeu no Dredge, Vee-gard?}{}{-4}{lf3 1, qu1092 0, lf2 0}{125}{}
+{103}{Quem sabe eu ache o <<<PH1>>>!}{}{-4}{qu1092 1, ni 5648, lf2 0}{81}{}
+{104}{Hã... ainda não achei o <<<PH1>>>...}{}{-4}{qu1092 2, ni 5648, lf2 0}{111}{}
+{105}{Eu achei o <<<PH1>>>! Eu achei o <<<PH1>>>!}{}{-4}{qa1092 1, qb1092 3,  in 5648, lf2 0}{116}{in 5648}
+{106}{E:}{}{1}{}{0}{}
+{107}{Havia mais alguma coisa, amigo?}{Havia mais alguma coisa, amiga?}{}{}{}{}
+{108}{K:}{}{1}{}{91}{}
+{109}{E:}{}{1}{}{0}{}
+{111}{Espero que deixem você ir procurar, garoto. Boa sorte...}{Espero que deixem você ir procurar, garota. Boa sorte...}{}{}{}{}
+{112}{Espere um momento... pode me dizer de novo o que preciso fazer?}{}{5}{}{87}{}
+{113}{Espere! Eu esqueci... o que eu deveria fazer?}{}{-4}{}{87}{}
+{114}{K:}{}{1}{}{91}{}
+{115}{E:}{}{1}{}{0}{}
+{116}{Sério? Eu o parabenizo pela sua bravura... o Dredge não é lugar para os fracos de coração. Muito obrigado por devolver isto para mim... aqui está o capacete que prometi...}{Sério? Eu a parabenizo pela sua bravura... o Dredge não é lugar para os fracos de coração. Muito obrigado por devolver isto para mim... aqui está o capacete que prometi...}{}{}{}{qu1092 4}
+{117}{Sem ofensas, mas toda essa história me deixa perplexo. Por que a carroça de brinquedo?}{}{5}{}{-2}{}
+{119}{Hã... por que você gosta tanto de um brinquedo, Vee-gard?}{}{-4}{}{-2}{}
+{125}{Há muito tempo, perdi uma chave. Essa chave abre a porta de uma sala secreta nas profundezas das cavernas do Dredge, uma sala que eu mesmo esculpi com minhas próprias mãos. Nessa sala está uma antiga relíquia de família, e eu adoraria vê-la novamente antes de morrer. Eu costumava ir procurar a chave, mas depois que fecharam o Dredge, não pude mais fazer isso...}{Há muito tempo, perdi uma chave. Essa chave abre a porta de uma sala secreta nas profundezas das cavernas do Dredge, uma sala que eu mesmo esculpi com minhas próprias mãos. Nessa sala está uma antiga relíquia de família, e eu adoraria vê-la novamente antes de morrer. Eu costumava ir procurar a chave, mas depois que fecharam o Dredge, não pude mais fazer isso...}{}{}{}{lf4 1}
+{126}{Talvez eu possa recuperar essa relíquia?}{}{5}{}{81}{re +5}
+{127}{O que é o Dredge, e como chego lá?}{}{5}{}{133}{}
+{129}{Hã... quem sabe eu pego o <<<PH1>>> para você?}{}{-4}{}{81}{re +5}
+{130}{O que é o Dredge? Onde fica o Dredge?}{}{-4}{}{133}{}
+{131}{E:}{}{1}{}{0}{}
+{133}{O Dredge? É um sistema de cavernas que antes era uma mina de ferro. A entrada não fica longe daqui... bem ao lado do palácio real. Um lugar horrível, cheio de monstros e maldade...}{O Dredge? É um sistema de cavernas que antes era uma mina de ferro. A entrada não fica longe daqui... bem ao lado do palácio real. Um lugar horrível, cheio de monstros e maldade...}{}{}{}{}
+{134}{Talvez eu possa recuperar essa relíquia?}{}{5}{}{81}{}
+{135}{Tenho mais algumas perguntas...}{}{5}{}{91}{}
+{137}{Hmm...talvez eu consiga um tear voador pra você?}{}{-4}{}{81}{}
+{138}{Tenho perguntas!}{}{-4}{}{91}{}
+{139}{E:}{}{1}{}{0}{}
+{140}{Você me prestou um grande serviço, meu amigo! Agradeço do fundo do meu coração de pedra!}{Você me prestou um grande serviço, meu amigo! Agradeço do fundo do meu coração de pedra!}{}{}{}{}
+{141}{[Ele ri.] Sim, suponho que eu poderia ter lhe dito o que procurava. Esta carroça está na minha família há 1000 anos... a lenda diz que foi a primeira coisa feita pelo meu bisavô, quando ele era apenas uma criança.}{[Ele ri.] Sim, suponho que eu poderia ter lhe dito o que procurava. Esta carroça está na minha família há 1000 anos... a lenda diz que foi a primeira coisa feita pelo meu bisavô, quando ele era apenas uma criança.}{}{}{}{}
+{142}{Sim, mas todo o perigo... e você esperou por tanto tempo... por um brinquedo...}{}{5}{}{145}{}
+{143}{É... mas tanta coisa ruim por um trem de madeira!}{}{-4}{}{145}{}
+{145}{[Ele sorri, calorosamente.] É tão difícil de acreditar? Você estava esperando algum artefato anão ancestral, talvez alguma peça perdida de tecnologia? [Ele ri.] Neste mundo de magia e mito, é impossível que algo tão simples quanto uma carroça de brinquedo tenha valor? Uma lição valiosa, amigo... muitas vezes, você encontra poder nas coisas mais insignificantes. Tenha um bom dia...}{[Ele sorri, calorosamente.] É tão difícil de acreditar? Você estava esperando algum artefato anão ancestral, talvez alguma peça perdida de tecnologia? [Ele ri.] Neste mundo de magia e mito, é impossível que algo tão simples quanto uma carroça de brinquedo tenha valor? Uma lição valiosa, amigo... muitas vezes, você encontra poder nas coisas mais insignificantes. Tenha um bom dia...}{}{}{}{}
+{146}{E:}{}{5}{}{0}{lf2 1}
+{148}{O Clã da Roda é o mais antigo de todos os Clãs. Loghaire Pedra do Trovão é nosso chefe de clã e também Rei de todos os Anões. Ele governa há mais de 600 anos, até que... bem...}{O Clã da Roda é o mais antigo de todos os Clãs. Loghaire Pedra do Trovão é nosso chefe de clã e também Rei de todos os Anões. Ele governa há mais de 600 anos, até que... bem...}{}{}{}{}
+{149}{O quê? O que aconteceu com Loghaire?}{}{5}{ra 2}{182}{}
+{150}{O quê? O que aconteceu com Loghaire?}{}{5}{ra -2}{166}{}
+{151}{Você disse que perdeu algo nos Túneis?}{}{5}{lf3 1}{125}{}
+{152}{O que mais pode me contar sobre o Clã da Roda?}{}{5}{}{195}{}
+{153}{Tenho mais algumas perguntas gerais...}{}{5}{}{91}{}
+{155}{O que aconteceu com o rei?}{}{-4}{}{161}{}
+{156}{O que você perdeu nos Túneis?}{}{-4}{lf3 1}{125}{}
+{157}{Hmm... tem mais alguma coisa sobre o Clã da Roda?}{}{-4}{}{195}{}
+{158}{Outras perguntas!}{}{-4}{}{91}{}
+{159}{E:}{}{1}{}{0}{}
+{161}{Desculpe, garoto. Sem ofensas, mas você é um pouco lerdo, e eu não deveria estar falando sobre o Rei de qualquer forma.}{Desculpe, garota. Sem ofensas, mas você é um pouco lerda, e eu não deveria estar falando sobre o Rei de qualquer forma.}{}{}{}{}
+{162}{Hmm... tem mais alguma coisa sobre o Clã da Roda?}{}{-4}{}{195}{}
+{163}{Mais perguntas!}{}{-4}{}{91}{}
+{164}{E:}{}{-4}{}{0}{}
+{166}{Desculpe, garoto. Como você não é um anão, eu não deveria estar falando sobre o Rei ou seus assuntos...}{Desculpe, garota. Como você não é uma anã, eu não deveria estar falando sobre o Rei ou seus assuntos...}{}{}{}{}
+{167}{Tem certeza? Pode confiar em mim...}{}{5}{ps 20}{173}{}
+{168}{Tem certeza? Pode confiar em mim...}{}{5}{ps -19}{177}{}
+{169}{Claro. O que mais pode me contar sobre o Clã da Roda?}{}{5}{}{195}{}
+{170}{Mais algumas perguntas gerais...}{}{5}{}{91}{}
+{171}{E:}{}{5}{}{0}{}
+{173}{Hmmm. [Ele olha para você, ponderando.] Talvez você tenha razão. Você fala como alguém confiável, de qualquer forma. [Ele abaixa a voz.] Loghaire teve alguns problemas com elfos há uns 50 ou 60 anos. Ele tinha saído para algum tipo de conselho e, quando voltou... bem... entrou em fúria de pedra. Socando as paredes, gritando sobre traição e sangue...}{Hmmm. [Ele olha para você, ponderando.] Talvez você tenha razão. De qualquer forma, você fala como alguém confiável. [Ele abaixa a voz.] Loghaire teve alguns problemas com elfos cerca de 50 ou 60 anos atrás. Ele tinha partido para algum tipo de conselho, e quando voltou... bem... ele entrou em uma fúria de pedra. Esmurrou as paredes, gritando sobre traição e sangue...}{}{}{}{}
+{174}{Sério? O que tinha acontecido?}{}{5}{}{186}{}
+{175}{E:}{}{5}{}{0}{}
+{177}{Hmmm. [Ele olha para você, ponderando.] Desculpe, garoto. Anões não confiam em qualquer um. Talvez devêssemos falar de outras coisas...}{Hmmm. [Ele olha para você, ponderando.] Desculpe, garota. Anões não confiam em qualquer um. Talvez devêssemos falar de outras coisas...}{}{}{}{}
+{178}{Entendo. O que mais você pode me contar sobre o Clã da Roda?}{}{5}{}{195}{}
+{179}{Tenho mais algumas perguntas gerais...}{}{5}{}{91}{}
+{180}{E:}{}{5}{}{0}{}
+{182}{Normalmente, eu não falaria sobre isso... mas, como você é um anão e tal, suponho que esteja tudo bem. [Ele abaixa a voz.] Loghaire teve alguns problemas com elfos cerca de 50 ou 60 anos atrás. Ele tinha partido para algum tipo de conselho, e quando voltou... bem... ele entrou em uma fúria de pedra. Esmurrou as paredes, gritando sobre traição e sangue...}{Normalmente, eu não falaria sobre isso... mas, como você é um anão e tal, suponho que esteja tudo bem. [Ele abaixa a voz.] Loghaire teve alguns problemas com elfos cerca de 50 ou 60 anos atrás. Ele tinha partido para algum tipo de conselho, e quando voltou... bem... ele entrou em uma fúria de pedra. Esmurrou as paredes, gritando sobre traição e sangue...}{}{}{}{}
+{183}{Sério? O que tinha acontecido?}{}{5}{}{186}{}
+{184}{E:}{}{5}{}{0}{}
+{186}{Ninguém sabe. Mas no dia seguinte, ele saiu de casa vestido apenas com a própria pele e carregando seu machado de família. E desapareceu nas Profundezas. Não o vimos nem tivemos notícias dele desde então...}{Ninguém sabe. Mas no dia seguinte, ele saiu de casa vestido apenas com a própria pele e carregando seu machado de família. E desapareceu nas Profundezas. Não o vimos nem tivemos notícias dele desde então...}{}{}{}{}
+{187}{E quem governa em seu lugar?}{}{5}{}{190}{}
+{188}{E:}{}{5}{}{0}{}
+{190}{Seu filho, Randver. Se estiver procurando falar com ele, está no Grande Salão. Ele não recebe pessoas com frequência...}{Seu filho, Randver. Se estiver procurando falar com ele, está no Grande Salão. Ele não recebe pessoas com frequência...}{}{}{}{}
+{191}{Entendo. O que mais você pode me contar sobre o Clã da Roda?}{}{5}{}{195}{}
+{192}{Tenho mais algumas perguntas gerais...}{}{5}{}{91}{}
+{193}{E:}{}{5}{}{0}{}
+{195}{Não há muito mais a contar. Temos alguns comerciantes aqui e ali, e eles sempre estão dispostos a fazer um negócio. No geral, somos boa gente aqui no Clã da Roda, mas não saia da linha. Com as Profundezas e o Rei desaparecido... bem... seja como for. Apenas tome cuidado por aqui...}{Não há muito mais a contar. Temos alguns comerciantes aqui e ali, e eles sempre estão dispostos a fazer um negócio. No geral, somos boa gente aqui no Clã da Roda, mas não saia da linha. Com as Profundezas e o Rei desaparecido... bem... seja como for. Apenas tome cuidado por aqui...}{}{}{}{}
+{196}{Mais algumas perguntas gerais...}{}{5}{}{91}{}
+{198}{Mais perguntas!}{}{-4}{}{91}{}
+{199}{E:}{}{-4}{}{0}{}
+{201}{Claro, garoto. Você parece saber o suficiente sobre isso. É claro que vou ter que cobrar 500 peças de ouro. Uma espécie de tradição... você sabe como são essas coisas...}{Claro, garota. Você parece saber o suficiente sobre isso. É claro que vou ter que cobrar 500 peças de ouro. Uma espécie de tradição... você sabe como são essas coisas...}{}{}{}{}
+{202}{Claro. Aqui está o dinheiro... [Dê a ele.]}{}{5}{$$500}{210}{$$-500}
+{203}{Entendo. Talvez eu volte mais tarde. Mas algumas perguntas a mais...}{}{5}{$$500}{91}{}
+{204}{Eu não tenho o dinheiro agora...}{}{5}{$$-499}{219}{}
+{205}{Sim! Aqui está o dinheiro...! [Dê a ele.]}{}{-4}{$500}{210}{$$-500}
+{206}{Hmm... talvez mais tarde. Tenho mais perguntas!}{}{-4}{$$500}{91}{}
+{207}{Eu não tenho dinheiro agora...}{}{-4}{$$-499}{219}{}
+{208}{E:}{}{1}{}{0}{}
+{210}{Pronto, garoto! Agora você é um especialista em detectar armadilhas!}{Pronto, garota! Agora você é uma especialista em detectar armadilhas!}{}{}{}{tr 7 2, rq2181}
+{211}{Diga-me... quem é o Mestre em Detectar Armadilhas?}{}{5}{}{214}{}
+{212}{Hã... quem mestre em ver armadilhas?}{}{-4}{}{214}{}
+{214}{O homem que você procura é Frederick T. Fitzgerald. Se algum dia estiver em Tarant, ele tem uma casa por lá em algum lugar...}{O homem que você procura é Frederick T. Fitzgerald. Se algum dia estiver em Tarant, ele tem uma casa por lá em algum lugar...}{}{}{}{ru 2167}
+{215}{Obrigado, Vegard. Mais algumas perguntas?}{}{5}{}{91}{}
+{216}{Tá bom, Vee-gard! Mais algumas perguntas?}{}{-4}{}{91}{}
+{217}{E:}{}{1}{}{0}{}
+{219}{Bem, você pode voltar aqui quando tiver o dinheiro...}{Bem, você pode voltar aqui quando tiver o dinheiro...}{}{}{}{}
+{220}{K:}{}{1}{}{91}{}
+{221}{E:}{}{1}{}{0}{}
+

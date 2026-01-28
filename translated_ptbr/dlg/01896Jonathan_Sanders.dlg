@@ -1,0 +1,114 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá. Você é o Sr. Sanders? O Sr. Jonathan Sanders?}{}{5}{me0}{19}{}
+{3}{Hã... Oi. Você é o Sr. Sandurs?}{}{-4}{me0}{19}{}
+{4}{Sr. Sanders?}{}{5}{me1}{25}{}
+{5}{Hã... Sr. Sandurs?}{}{-4}{me1}{25}{}
+{18}{Tor! Flog! Ajudem-me! Destruam esse maníaco!}{Tor! Flog! Ajudem-me!}{}{}{}{}
+{19}{Sim... Sim, sou eu. Em que posso ajudá-lo, senhor?}{Sim... Sim, sou eu. Em que posso ajudá-la, senhorita?}{}{}{}{}
+{20}{Só para ter certeza de que encontrei o homem certo... Venha! A Morte o aguarda!}{}{5}{}{}{co, fl 18}
+{21}{Receio ter notícias bastante perturbadoras sobre seu filho...}{}{5}{}{31}{}
+{22}{Tá bom... Eu te peguei. Venha... eu vou te matar agora!}{}{-4}{}{}{co, fl 18}
+{23}{Eu preciso falar sobre seu filho. Aconteceu uma coisa ruim...}{}{-4}{}{31}{}
+{24}{E:}{}{1}{}{0}{}
+{25}{Sim? Em que posso ajudá-lo, @pcname@?}{Sim? Em que posso ajudá-la, @pcname@?}{}{}{}{}
+{26}{Só para ter certeza de que encontrei o homem certo... Venha! A Morte o aguarda!}{}{5}{}{}{co, fl 18}
+{27}{Receio ter notícias bastante perturbadoras sobre seu filho...}{}{5}{}{31}{}
+{28}{Tá bom... Eu te peguei. Venha... eu vou te matar agora!}{}{-4}{}{}{co, fl 18}
+{29}{Eu preciso falar sobre seu filho. Aconteceu uma coisa ruim...}{}{-4}{}{31}{}
+{30}{E:}{}{1}{}{0}{}
+{31}{[empalidecendo] Ryan? O que aconteceu! Ele está bem?}{[empalidecendo] Ryan? O que aconteceu! Ele está bem?}{}{}{}{}
+{32}{Ah! Nada disso. Ele está com a saúde perfeita.}{}{5}{}{35}{}
+{33}{Ah! Não, não tem nada errado com ele. Ele tá bem.}{}{-4}{}{35}{}
+{34}{E:}{}{1}{}{0}{}
+{35}{Então do que se trata? Ryan fez algo errado? Aquele garoto! Não sei mais o que fazer com ele... Sempre se metendo em alguma enrascada. Só queria que ele visse como as coisas poderiam ser melhores se passássemos mais tempo juntos... [suspiro]}{Então do que se trata? Ryan fez algo errado? Aquele garoto! Não sei mais o que fazer com ele... Sempre se metendo em alguma enrascada. Só queria que ele visse como as coisas poderiam ser melhores se passássemos mais tempo juntos... [suspiro]}{}{}{}{}
+{36}{Lamento informar, mas ele colocou um contrato em sua vida.}{}{5}{}{39}{}
+{37}{Me desculpe. Ele colocou um contrato. Ele quer você morto.}{}{-4}{}{39}{}
+{38}{E:}{}{1}{}{0}{}
+{39}{[olhando chocado... depois indignado] Isso é um absurdo! Ele e eu podemos ter nossas diferenças... mas nos amamos. Somos uma família, droga! Como ousa vir aqui me contar tais mentiras!}{[olhando chocado... depois indignado] Isso é um absurdo! Ele e eu podemos ter nossas diferenças... mas nos amamos. Somos uma família, droga! Como ousa vir aqui me contar tais mentiras!}{}{}{}{re-10, qu1136 6}
+{40}{Mas é verdade! Fui contratado para matá-lo... por ordem dele!}{}{5}{}{}{re-5, co, fl 42}
+{41}{Mas é isso que ele me pediu pra fazer! Ryan quer que eu mate você!}{}{-4}{}{}{re-5, co, fl 42}
+{42}{Não ouvirei tamanha sujeira! Tor! Açoite! Lidem com esse cão caluniador! Garantam que ele nunca mais conte tais mentiras!}{Não ouvirei tamanha sujeira! Tor! Açoite! Lidem com esse cão caluniador! Garantam que ele nunca mais conte tais mentiras!}{}{}{}{}
+{43}{}{}{}{}{}{}
+{44}{}{}{}{}{}{}
+{45}{}{}{}{}{}{}
+{46}{}{}{}{}{}{}
+{47}{}{}{}{}{}{}
+{48}{}{}{}{}{}{}
+{49}{}{}{}{}{}{}
+{50}{G:}{G:}{}{}{}{}
+{51}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me 0, re41, lf13 1}{68}{}
+{52}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me 0, re -40, lf13 1}{73}{}
+{53}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me0, re41, ss2, ss-13, lf13 0}{91}{}
+{54}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me0, re-40, ss13, ss-13, lf13 0}{97}{}
+{55}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me 1, re41, lf13 1}{81}{}
+{56}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me 1, re-40, lf13 1}{86}{}
+{57}{Olá. Posso lhe fazer uma pergunta?}{}{5}{me1, re41, ss13, ss-13, lf13 0}{109}{}
+{58}{Isso foi bem grosseiro. Eu gostaria de lhe fazer uma pergunta...}{}{5}{me1, re-40, ss13, ss-13, lf13 0}{103}{}
+{59}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me 0, re41, lf13 1}{68}{}
+{60}{Hã... Eu pergunto uma coisa?}{}{-4}{me 0, re -40, lf13 1}{73}{}
+{61}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me0, re41, ss13, ss-13, lf13 0}{91}{}
+{62}{Hã... Eu pergunto uma coisa?}{}{-4}{me0, re-40, ss13, ss-13, lf13 0}{97}{}
+{63}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me 1, re41, lf13 1}{81}{}
+{64}{Hã... Eu pergunto uma coisa?}{}{-4}{me 1, re-40, lf13 1}{86}{}
+{65}{Hã... Oi. Eu pergunto uma coisa?}{}{-4}{me1, re41, ss13, ss-13, lf13 0}{109}{}
+{66}{Hã... Eu pergunto uma coisa?}{}{-4}{me1, re-40, ss13, ss-13, lf13 0}{103}{}
+{67}{E:}{}{1}{}{0}{}
+{68}{Em que posso ajudá-lo, senhor?}{O que posso fazer por você, madame?}{}{}{}{}
+{69}{R:$0, 1155-1165}{}{1}{}{78}{}
+{70}{A:}{}{1}{}{78}{re+2}
+{71}{C:}{}{1}{}{78}{}
+{72}{E:}{}{1}{}{0}{}
+{73}{O que é?}{O que é?}{}{}{}{}
+{74}{R:$0, 1155-1165}{}{1}{}{78}{}
+{75}{C:}{}{1}{}{78}{}
+{76}{I:}{}{1}{}{0}{re-2}
+{77}{E:}{}{1}{}{0}{}
+{78}{Tem mais alguma coisa em que eu possa te ajudar?}{Tem mais alguma coisa em que eu possa te ajudar?}{}{}{}{}
+{79}{C:}{}{1}{}{78}{}
+{80}{E:}{}{1}{}{0}{}
+{81}{Ora, olá de novo, @pcname@. Espero que esteja bem. Em que precisa?}{Ora, olá de novo, @pcname@. Espero que esteja bem. Em que precisa?}{}{}{}{}
+{82}{R:$0, 1155-1165}{}{1}{}{78}{}
+{83}{A:}{}{1}{}{78}{re+2}
+{84}{C:}{}{1}{}{78}{}
+{85}{E:}{}{1}{}{0}{}
+{86}{O que é, @pcname@?}{O que é, @pcname@?}{}{}{}{}
+{87}{R:$0, 1155-1165}{}{1}{}{78}{}
+{88}{I:}{}{1}{}{0}{re-2}
+{89}{C:}{}{1}{}{78}{}
+{90}{E:}{}{1}{}{0}{}
+{91}{Em que posso ajudá-lo, senhor?}{O que posso fazer por você, madame?}{}{}{}{}
+{92}{R:$0, 1155-1165}{}{1}{}{119}{}
+{93}{A:}{}{1}{}{119}{re+2}
+{94}{Poderia me indicar a casa de Victor Misk?}{}{5}{}{115}{}
+{95}{Eu procuro a casa do Misk?}{}{-4}{}{115}{}
+{96}{E:}{}{1}{}{0}{}
+{97}{O que é?}{O que é?}{}{}{}{}
+{98}{R:$0, 1155-1165}{}{1}{}{119}{}
+{99}{I:}{}{1}{}{0}{re-2}
+{100}{Poderia me indicar a casa de Victor Misk?}{}{5}{}{115}{}
+{101}{Eu procuro a casa do Misk?}{}{-4}{}{115}{}
+{102}{E:}{}{1}{}{0}{}
+{103}{O que é, @pcname@?}{O que é, @pcname@?}{}{}{}{}
+{104}{R:$0, 1155-1165}{}{1}{}{119}{}
+{105}{I:}{}{1}{}{0}{re-2}
+{106}{Poderia me indicar a casa de Victor Misk?}{}{5}{}{115}{}
+{107}{Eu procuro a casa do Misk?}{}{-4}{}{115}{}
+{108}{E:}{}{1}{}{0}{}
+{109}{Ora, olá de novo, @pcname@. Espero que esteja bem. Em que precisa?}{Ora, olá de novo, @pcname@. Espero que esteja bem. Em que precisa?}{}{}{}{}
+{110}{R:$0, 1155-1165}{}{1}{}{78}{}
+{111}{A:}{}{1}{}{78}{re+2}
+{112}{Poderia me indicar a casa de Victor Misk?}{}{5}{}{115}{}
+{113}{Eu procuro a casa do Misk?}{}{-4}{}{115}{}
+{114}{E:}{}{1}{}{0}{}
+{115}{A residência dos Misk fica no número 9 da Alameda Lobo Cinzento.}{A residência dos Misk fica no número 9 da Alameda Lobo Cinzento.}{}{}{}{lf13 1}
+{116}{A:}{}{1}{}{78}{re+2}
+{117}{C:}{}{1}{}{78}{}
+{118}{E:}{}{1}{}{0}{}
+{119}{Tem mais alguma coisa em que eu possa te ajudar?}{Tem mais alguma coisa em que eu possa te ajudar?}{}{}{}{}
+{120}{Poderia me indicar a casa de Victor Misk?}{}{5}{lf13 0}{115}{}
+{121}{Eu procuro a casa do Misk?}{}{-4}{lf13 0}{115}{}
+{122}{E:}{}{1}{}{0}{}
+{123}{}{}{}{}{}{}
+{124}{}{}{}{}{}{}
+{125}{}{}{}{}{}{}
+

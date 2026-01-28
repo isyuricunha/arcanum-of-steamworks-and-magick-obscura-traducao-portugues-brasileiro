@@ -1,0 +1,25 @@
+{1}{Pare! Que negócios você tem aqui, forasteiro?}{Pare! Que negócios você tem aqui, forasteiro?}{}{}{}{}
+{2}{Só estou dando uma olhada. Para onde levam essas escadas?}{}{5}{lf1 0}{10}{lf1 1}
+{3}{Hã... só tô olhando. Pra onde vão essas escada?}{}{-4}{lf1 0}{10}{lf1 1}
+{4}{Eu quero descer até as Minas Abandonadas...}{}{5}{lf1 1, gf2650 0}{35}{}
+{5}{Eu vô descer pra Mina Abandonada!}{}{-4}{lf1 1, gf2650 0}{35}{}
+{6}{Eu quero descer até as Minas Abandonadas...}{}{5}{lf1 1, gf2650 1}{20}{}
+{7}{Eu vô descer pra Mina Abandonada!}{}{-4}{lf1 1, gf2650 1}{20}{}
+{8}{E:}{}{1}{}{0}{}
+{10}{Estas são as cavernas das Minas Abandonadas, um antigo sistema de minas.}{Estas são as cavernas das Minas Abandonadas, um antigo sistema de minas.}{}{}{}{}
+{11}{Ah. Bem, eu gostaria de dar uma olhada se você não se importar...}{}{5}{gf2650 0}{35}{}
+{12}{Hã... tá bom! Eu vô dar uma olhada nelas!}{}{-4}{gf2650 0}{35}{}
+{13}{Randver Pedra do Trovão me deu permissão para explorá-las...}{}{5}{gf2650 1}{20}{}
+{14}{Randy disse que eu posso ir olhar na Mina Abandonada!}{}{-4}{gf2650 1}{20}{}
+{15}{Talvez eu volte mais tarde...}{}{5}{}{0}{}
+{16}{Eu volto mais tarde...}{}{-4}{}{0}{}
+{20}{Sim, Randver me enviou uma mensagem sobre você. Gostaria de descer agora?}{Sim, Randver me enviou uma mensagem sobre você. Gostaria de descer agora?}{}{}{}{}
+{21}{Sim, se você não se importar...}{}{5}{}{30}{}
+{22}{Talvez mais tarde...}{}{5}{}{0}{}
+{23}{É!}{}{-4}{}{30}{}
+{24}{Hã... talvez eu volte depois...}{}{-4}{}{0}{}
+{30}{Você pode passar...}{Você pode passar...}{}{}{}{}
+{31}{E:}{}{1}{}{-2}{}
+{35}{Sinto muito, mas ninguém tem permissão para descer até as Minas Abandonadas por ordem de Randver Pedra do Trovão. Se você tem algum problema com isso, terá que falar com ele...}{Sinto muito, mas ninguém tem permissão para descer até as Minas Abandonadas por ordem de Randver Pedra do Trovão. Se você tem algum problema com isso, terá que falar com ele...}{}{}{}{}
+{36}{E:}{}{1}{}{0}{}
+

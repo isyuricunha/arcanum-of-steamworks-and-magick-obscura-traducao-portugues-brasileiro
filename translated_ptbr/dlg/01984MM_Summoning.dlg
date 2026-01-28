@@ -1,0 +1,126 @@
+{1}{G:}{}{}{}{}{}
+{2}{Saudações, Mestre. Posso perguntar em qual colégio você se especializou?}{}{5}{lf1 0, re 41}{28}{}
+{3}{De qual colégio você é Mestre, grande mago?}{}{5}{lf1 0, re 41}{28}{}
+{4}{Então do que você é Mestre, mago?}{}{5}{lf1 0, re 41}{28}{}
+{5}{Perdoe-me por qualquer ofensa, grande mago. Posso perguntar seu nome?}{}{5}{lf1 0, re -40}{28}{re+5}
+{6}{Hmm... Posso saber seu nome, senhor?}{}{5}{lf1 0, re -40}{28}{re+2}
+{7}{Bem grosseiro para um "Mestre". Quem é você, afinal?}{}{5}{lf1 0, re -40}{28}{}
+{8}{Tenho uma pergunta.}{}{5}{lf1 1, re 41}{36}{}
+{9}{Mestre Sumner? Posso lhe fazer uma pergunta?}{}{5}{lf1 1, re 41}{36}{}
+{10}{Poderia me conceder um momento do seu tempo, Sr. Sumner?}{}{5}{lf1 1, re 41}{36}{}
+{11}{Humpf! ...Tenho uma pergunta... "Mestre".}{}{5}{lf1 1, re -40}{36}{}
+{12}{Por favor, perdoe minha intrusão, Sr. Sumner. Posso fazer uma pergunta?}{}{5}{lf1 1, re -40}{36}{re+2}
+{13}{Poderia me conceder um momento do seu tempo, Sr. Sumner?}{}{5}{lf1 1, re -40}{36}{re+1}
+{14}{Hã... Qual é o seu nome?}{}{-4}{lf1 0, re 41}{28}{}
+{15}{Hã... qual é o seu nome, malvado?}{}{-4}{lf1 0, re -40}{28}{}
+{16}{Hã... Eu pergunto uma coisa?}{}{-4}{lf1 1, re 41}{36}{}
+{17}{Hã... eu pergunto uma coisa, malvado?}{}{-4}{lf1 1, re -40}{36}{}
+{18}{Aperfeiçoei minhas habilidades de invocação, Mestre Sumner.}{}{5}{lf4 1, sc14 5}{78}{}
+{19}{Reforcei minha aura mágica, Mestre Sumner.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{94}{}
+{20}{Tenho interesse em me tornar um Mestre em invocação.}{}{5}{gf2411 0, ma30, lf1 1}{100}{}
+{21}{Ainda não completei o teste de mestria, Sr. Sumner.}{}{5}{LF7 1, gf2426 0}{114}{}
+{22}{Completei o teste de mestria em invocação!}{}{5}{gf2426 1, lf9 0}{118}{}
+{27}{E:}{}{1}{}{0}{}
+{28}{Sou o Sr. Harold Sumner, Mestre do Colégio de Invocação.}{Sou o Sr. Harold Sumner, Mestre do Colégio de Invocação.}{}{}{}{lf1 1}
+{29}{É uma honra conhecê-lo, senhor.}{}{5}{sc14 1, sc14 -4, lf4 0}{73}{}
+{30}{É uma honra conhecê-lo, senhor.}{}{5}{sc14 5, lf5 0}{78}{}
+{31}{Sumner! Esse não pode ser seu nome verdadeiro! ...pode?}{}{5}{sc14 0, lf3 0}{65}{}
+{32}{Por favor, explique-me sobre invocação.}{}{5}{sc14 0, lf2 0}{57}{}
+{33}{O quê? Invocação?}{}{-4}{sc14 0, lf2 0}{57}{}
+{34}{"Dat" é seu nome?}{}{-4}{sc14 0, lf3 0}{65}{}
+{35}{E:}{}{1}{sc14 0}{0}{}
+{36}{Como posso ajudá-lo, @pcname@?}{Como posso ajudá-lo, @pcname@?}{}{}{}{}
+{37}{Aperfeiçoei minhas habilidades de invocação, Mestre Sumner.}{}{5}{lf4 1, sc14 5, ma 30}{78}{}
+{38}{Reforcei minha aura mágica, Mestre Sumner.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{94}{}
+{39}{Tenho interesse em me tornar um Mestre em invocação.}{}{5}{gf2411 0, ma30}{100}{}
+{40}{Sumner! Esse não pode ser seu nome verdadeiro! ...pode?}{}{5}{lf3 0}{65}{}
+{41}{Por favor, explique-me sobre invocação.}{}{5}{lf2 0}{57}{}
+{42}{O quê? Invocação?}{}{-4}{lf2 0}{57}{}
+{43}{"Dat" é seu nome?}{}{-4}{lf3 0}{65}{}
+{44}{F:}{}{1}{}{0}{}
+{45}{E:}{}{1}{}{0}{}
+{46}{Há algo mais que eu possa fazer por você?}{Há algo mais que eu possa fazer por você?}{}{}{}{}
+{47}{Aperfeiçoei minhas habilidades de invocação, Mestre Sumner.}{}{5}{lf4 1, sc14 5, ma 30}{78}{}
+{48}{Reforcei minha aura mágica, Mestre Sumner.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{94}{}
+{49}{Tenho interesse em me tornar um Mestre em invocação.}{}{5}{gf2411 0, ma30}{100}{}
+{50}{Sumner! Esse não pode ser seu nome verdadeiro! ...pode?}{}{5}{lf3 0}{65}{}
+{51}{Por favor, explique-me sobre invocação.}{}{5}{lf2 0}{57}{}
+{52}{Não. Obrigado pelo seu tempo.}{}{5}{}{0}{}
+{53}{O quê? Invocação?}{}{-4}{lf2 0}{57}{}
+{54}{"Dat" é seu nome?}{}{-4}{lf3 0}{65}{}
+{55}{Não. Obrigado.}{}{-4}{}{0}{}
+{56}{E:}{}{1}{}{0}{}
+{57}{Ah... Invocação é a maior das magias! Ter a habilidade de chamar substância onde antes não existia! Não há nada igual em todo o mundo... Se for aprender uma escola de magia, eu a recomendo fortemente. Pode ser muito divertido!}{Ah... Invocação é a maior das magias! Ter a habilidade de chamar substância onde antes não existia! Não há nada igual em todo o mundo... Se você vai aprender uma faculdade de magia, eu recomendo fortemente essa. Pode ser muito divertido!}{}{}{}{lf2 1}
+{58}{Concordo plenamente com o senhor!}{}{5}{}{46}{re+2}
+{59}{Muito interessante...}{}{5}{}{46}{}
+{60}{Diversão... é por "isso" que eu estudo as coisas, é?}{}{5}{ma-29}{}{re-3, fl 122}
+{61}{Sumner! Esse não pode ser seu nome verdadeiro! ...pode?}{}{5}{lf3 0}{65}{}
+{62}{"Isso" é seu nome?}{}{-4}{lf3 0}{65}{}
+{63}{Hã... tá bom. Valeu.}{}{-4}{}{0}{}
+{64}{E:}{}{1}{}{0}{}
+{65}{[rindo] Não... claro que não! Porém, um Mago Mestre pode se chamar como quiser, não concorda? Além disso, gosto da reação que meu nome causa agora, muito mais do que quando dizia meu nome de batismo, Tom Smith.}{[rindo] Não... claro que não! Porém, um Mago Mestre pode se chamar como quiser, não concorda? Além disso, gosto da reação que meu nome causa agora, muito mais do que quando dizia meu nome de batismo, Tom Smith.}{}{}{}{lf3 1}
+{66}{Entendo seu ponto! Acho que fez uma excelente escolha, Sr. Sumner.}{}{5}{}{46}{re+3}
+{67}{Ugh... um trocadilho. ...que tedioso.}{}{5}{ma-29}{}{re-3, fl 122}
+{68}{Hmm... Que interessante. Posso lhe perguntar mais uma coisa?}{}{5}{}{46}{}
+{69}{Por favor, explique-me sobre invocação.}{}{5}{lf2 0}{57}{}
+{70}{O que é "sumunin"?}{}{-4}{lf2 0}{57}{}
+{71}{Hã... tá bom. Valeu.}{}{-4}{}{0}{}
+{72}{E:}{}{1}{}{0}{}
+{73}{Sinto um estudante de invocação diante de mim! Parabenizo-o pela escolha de estudos, senhor! Ah!... e também me sinto honrado em conhecê-lo, @pcname@.}{Sinto uma estudante de invocação diante de mim! Parabenizo-a pela escolha de estudos, madame! Ah!... e também me sinto honrado em conhecê-la, @pcname@.}{}{}{}{lf4 1}
+{74}{Obrigado. Uh... Sumner não é seu nome verdadeiro, é?}{}{5}{lf3 0}{65}{}
+{75}{Obrigado, senhor. Pode explicar mais sobre invocação?}{}{5}{lf2 0}{57}{}
+{76}{Agradeço, Mestre.}{}{5}{}{0}{}
+{77}{E:}{}{1}{}{0}{}
+{78}{Vejo que se tornou plenamente adepto da Faculdade de Invocação. Muito bem! Ofereço meus parabéns. Diga-me... achou difícil dominar o feitiço de Familiar?}{Vejo que se tornou plenamente adepto da Faculdade de Invocação. Muito bem! Ofereço meus parabéns. Diga-me... achou difícil dominar o feitiço de Familiar?}{}{}{}{lf5 1}
+{79}{Fui um talento natural, senhor.}{}{5}{gf2411 0, ma 30}{94}{}
+{80}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 0, ma 30}{94}{}
+{81}{Extremamente difícil, senhor. Porém, minha perseverança valeu a pena.}{}{5}{gf2411 0, ma 30}{94}{}
+{82}{Fui um talento natural, senhor.}{}{5}{gf2411 0, ma -29}{89}{}
+{83}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 0, ma -29}{89}{}
+{84}{Extremamente difícil, senhor. Porém, minha perseverança valeu a pena.}{}{5}{gf2411 0, ma -29}{89}{}
+{85}{Fui um talento natural, senhor.}{}{5}{gf2411 1}{46}{}
+{86}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 1}{46}{}
+{87}{Extremamente difícil, senhor. Porém, minha perseverança valeu a pena.}{}{5}{gf2411 1}{46}{}
+{88}{E:}{}{1}{}{0}{}
+{89}{Você conhece todos os feitiços da Faculdade de Invocação, mas sua aura mágica é fraca. É intrigante. Se se esforçar, tenho certeza de que poderá elevá-la a um nível aceitável. Se o fizer, talvez eu possa lhe ensinar mais, @pcname@.}{Você conhece todos os feitiços da Faculdade de Invocação, mas sua aura mágica é fraca. É intrigante. Se se esforçar, tenho certeza de que poderá elevá-la a um nível aceitável. Se o fizer, talvez eu possa lhe ensinar mais, @pcname@.}{}{}{}{}
+{90}{Estou tentando me manter equilibrado com a tecnologia.}{}{5}{}{123}{re-2}
+{91}{Decidi focar na tecnologia como minha principal área de estudo.}{}{5}{}{123}{re-5}
+{92}{Estou trabalhando para melhorar minhas habilidades mágicas, senhor.}{}{5}{}{46}{re+5}
+{93}{E:}{}{1}{}{0}{}
+{94}{Hmm... Você tem uma aura mágica forte ao seu redor... Será que teria interesse em se tornar um Mestre em invocação?}{Hmm... Você tem uma aura mágica forte ao seu redor... Será que teria interesse em se tornar um Mestre em invocação?}{}{}{}{lf6 1}
+{95}{Um Mestre? O que é necessário para alcançar tal título?}{}{5}{}{100}{}
+{96}{O que eu preciso fazer?}{}{5}{}{100}{}
+{97}{Não neste momento, obrigado.}{}{5}{}{46}{}
+{99}{E:}{}{1}{}{0}{}
+{100}{O domínio exige que você passe por um teste difícil e perigoso. Para aqueles que têm sucesso, o título de Mestre é conquistado, além da habilidade de lançar qualquer feitiço de Invocação usando apenas metade do esforço que usa agora. Isso lhe interessa, @pcname@?}{O domínio exige que você passe por um teste difícil e perigoso. Para aqueles que têm sucesso, o título de Mestre é conquistado, além da habilidade de lançar qualquer feitiço de Invocação usando apenas metade do esforço que usa agora. Isso lhe interessa, @pcname@?}{}{}{}{}
+{101}{Sim, senhor.}{}{5}{}{105}{}
+{102}{Sim.}{}{5}{}{105}{}
+{103}{Não neste momento, obrigado.}{}{5}{}{46}{}
+{104}{E:}{}{1}{}{0}{}
+{105}{Devo avisá-lo, porém... Você só pode dominar uma faculdade de magia. Deseja dominar a Faculdade de Invocação acima de todas as outras?}{Devo avisá-lo, porém... Você só pode dominar uma faculdade de magia. Deseja dominar a Faculdade de Invocação acima de todas as outras?}{}{}{}{}
+{106}{Sim, eu gostaria.}{}{5}{}{110}{}
+{107}{Vou pensar a respeito.}{}{5}{}{46}{}
+{108}{Não neste momento, obrigado.}{}{5}{}{46}{}
+{109}{E:}{}{1}{}{0}{}
+{110}{Uma excelente escolha. Aqui. [Ele retira o medalhão de seu pescoço.] Pegue este medalhão. Quando estiver preparado para enfrentar sua prova, coloque-o e avance pelo portal no centro deste salão. Isso dará início à sua prova. Desejo-lhe sorte, @pcname@.}{Uma excelente escolha. Aqui. [Ele retira o medalhão de seu pescoço.] Pegue este medalhão. Quando estiver preparado para enfrentar sua prova, coloque-o e avance pelo portal no centro deste salão. Isso dará início à sua prova. Desejo-lhe sorte, @pcname@.}{}{}{}{in-2846, lf7 1, gf2411 1}
+{111}{Obrigado.}{}{5}{}{0}{}
+{112}{A:}{}{5}{}{0}{}
+{113}{E:}{}{5}{}{0}{}
+{114}{Sim... Às vezes, é difícil preparar-se para tal prova. Quando se sentir adequadamente preparado, prossiga pelos arcos localizados no coração de Tulla. Lembre-se, você deve estar usando o medalhão que criei para você.}{Sim... Às vezes, é difícil preparar-se para tal prova. Quando se sentir adequadamente preparado, prossiga pelos arcos localizados no coração de Tulla. Lembre-se, você deve estar usando o medalhão que criei para você.}{}{}{}{}
+{115}{Vou completar meus preparativos e realizar o teste. Adeus.}{}{5}{}{0}{}
+{116}{Vou me tornar um Mestre! Adeus.}{}{5}{}{0}{}
+{117}{E:}{}{5}{}{0}{}
+{118}{Muito bem! Muito bem mesmo, @pcname@! Verá que sua força em nossa faculdade dobrou. Assim, sentirá metade do esforço ao lançar um feitiço agora que é um Mestre. Parabenizo-o novamente.}{Muito bem! Muito bem mesmo, @pcname@! Você verá que sua força em nosso colégio foi fortalecida em dobro. Assim, sentirá metade do esforço ao lançar um feitiço agora que é um Mestre. Mais uma vez, meus parabéns.}{}{}{}{lf9 1}
+{119}{Obrigado, Mestre.}{}{5}{}{0}{}
+{120}{Obrigado, Sr. Sumner. Posso lhe perguntar mais alguma coisa?}{}{5}{}{46}{}
+{121}{E:}{}{5}{}{0}{}
+{122}{[com ar irritado] Ora! Vejo que algumas pessoas não têm senso de humor. Certamente posso passar sem companhia como a sua! Adeus!}{[com ar irritado] Ora! Vejo que algumas pessoas não têm senso de humor. Certamente posso passar sem companhia como a sua! Adeus!}{}{}{}{}
+{123}{Ah... entendo. Sinto muito em saber que perdemos alguém obviamente muito talentoso. Há algo mais que eu possa fazer por você enquanto estiver aqui, @pcname@?}{Ah... entendo. Sinto muito em saber que perdemos alguém obviamente muito talentoso. Há algo mais que eu possa fazer por você enquanto estiver aqui, @pcname@?}{}{}{}{}
+{124}{Melhorei minhas habilidades de invocação, Mestre Sumner.}{}{5}{lf4 1, sc14 5, ma 30}{78}{}
+{125}{Fortalecei minha aura mágica, Mestre Sumner.}{}{5}{lf5 1, lf6 0, ma 30, gf2411 0}{94}{}
+{126}{Tenho interesse em me tornar um Mestre em invocação.}{}{5}{lf6 1, gf2411 0, ma30}{100}{}
+{127}{Sumner! Esse não pode ser seu nome verdadeiro! ...pode?}{}{5}{lf3 0}{65}{}
+{128}{Por favor, explique-me sobre invocação.}{}{5}{lf2 0}{57}{}
+{129}{Não. Obrigado pelo seu tempo.}{}{5}{}{0}{}
+{130}{E:}{}{1}{}{0}{}
+

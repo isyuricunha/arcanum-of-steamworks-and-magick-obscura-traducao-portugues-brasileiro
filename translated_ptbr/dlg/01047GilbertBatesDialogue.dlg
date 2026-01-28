@@ -1,0 +1,627 @@
+{1}{Permita-me apresentar-me, sou Gilbert Bates, como tenho certeza de que já deve ter deduzido. Gostaria de agradecer-lhe, senhor, por pôr fim aos problemas em minha fábrica. Fui informado de que há um assunto que deseja discutir?}{Permita-me apresentar-me, sou Gilbert Bates, como tenho certeza de que já deve ter deduzido. Gostaria de agradecer-lhe, senhora, por pôr fim aos problemas em minha fábrica. Fui informado de que há um assunto que deseja discutir?}{}{1}{}{ }
+{2}{Exatamente. Gostaria de perguntar-lhe sobre este anel.}{}{5}{in 2804,  lf13 0}{10}{lf13 1 }
+{3}{Gostaria de perguntar-lhe sobre um anel que eu tinha. [Descreva o anel.]}{}{5}{ni 2804,  lf13 0}{10}{lf13 1 }
+{4}{O que pode me dizer sobre a recente tentativa contra sua vida?}{}{5}{gf1028 1, lf15 0}{1100}{lf15 1 }
+{9}{Isso é verdade, mas terá que esperar. Tenha um bom dia, senhor.}{}{5}{}{0}{ }
+{10}{Grandes Deuses! Como obteve este anel?}{Grandes Deuses! Como obteve este anel?}{}{2}{}{ }
+{11}{Um gnomo me deu enquanto estava morrendo.}{}{5}{ra -5, ra -2}{20}{ }
+{12}{Um sujeito de aparência estranha me deu.}{}{5}{ra 5}{30}{ }
+{13}{Um gnomo de aparência estranha me deu enquanto estava morrendo.}{}{5}{ra 2}{30}{ }
+{14}{Prefiro não dizer.}{}{5}{}{1070}{ }
+{20}{Um gnomo! Que tipo de palhaçada é essa? Tem certeza de que não era um anão?}{Um gnomo! Que tipo de palhaçada é essa? Tem certeza de que não era um anão?}{}{3}{}{ }
+{21}{Claro. Nunca vi um anão magro e sem barba.}{}{5}{}{60}{ }
+{22}{Por que um anão teria o seu anel?}{}{5}{}{1090}{ }
+{30}{Estranho? O que quer dizer com isso, me diga?}{Estranho? O que quer dizer com isso, me diga?}{}{4}{}{ }
+{31}{Bem, ele era feio para um gnomo, quase ananicado.}{}{5}{ra 5}{40}{ }
+{32}{Gnomos têm aqueles olhinhos miúdos, mas os dele eram fortes, como os de um anão.}{}{5}{ra 2}{50}{ }
+{40}{Ananicado? Ele poderia ser um anão?}{Ananicado? Ele poderia ser um anão?}{}{5}{}{ }
+{41}{Muito franzino e sem barba. Você conhece os anões e suas barbas.}{}{5}{}{60}{ }
+{50}{Tem certeza de que não era um anão, então?}{Tem certeza de que não era um anão, então?}{}{6}{}{ }
+{51}{Sem barba. Nós preferiríamos cortar nossas gargantas a cortar nossas barbas.}{}{5}{}{60}{ }
+{60}{Sim. Eu... estou familiarizado com anões e seus costumes. Diga-me, havia algo de distinto naquele sujeito?}{Sim. Eu... estou familiarizado com anões e seus costumes. Diga-me, havia algo de distinto naquele sujeito?}{}{7}{}{ }
+{61}{Ele tinha uma cicatriz sobre o olho esquerdo.}{}{5}{}{70}{ }
+{70}{Por Alberich! Eu sabia no fundo do coração... aquele não era um gnomo. Era Stennar Corta-Pedra. [Ele está visivelmente abalado com essa constatação.]}{Por Alberich! Eu sabia no meu coração... aquele não era um gnomo. Era Stennar Corta-Pedra. [Ele está visivelmente abalado com essa constatação.]}{}{8}{}{ru2016 }
+{71}{Um anão? Sem barba? Impossível!}{}{5}{ra 2}{80}{ }
+{72}{Suponho que poderia ter sido um anão doente, mas a barba dele...}{}{5}{ra -2}{80}{ }
+{73}{Quem é Stennar? Por que um anão rasparia a barba?}{}{5}{ra -2}{1095}{ }
+{74}{Quem é Stennar? Um anão jamais cortaria a barba!}{}{5}{ra 2}{1095}{ }
+{80}{Sim, eu sei. É uma loucura... mas, por favor, me diga, ele disse algo a você antes de morrer? Ele falou algo sobre, hã... sobre mim?}{Sim, eu sei. É uma loucura... mas, por favor, me diga, ele disse algo a você antes de morrer? Ele falou algo sobre, hã... sobre mim?}{}{9}{}{ }
+{81}{Ele disse que tinha escapado para nos avisar sobre o mal...}{}{5}{}{1330}{ }
+{90}{Eu não sei. Embora os anões meçam o tempo de forma diferente dos humanos, ele deve ter percebido que agora sou um velho. Talvez seja porque eu era apenas um garoto quando eu... quando eu traí sua confiança, tantos anos atrás.}{Eu não sei. Embora os anões meçam o tempo de forma diferente dos humanos, ele deve ter percebido que agora sou um velho. Talvez seja porque eu era apenas um garoto quando eu... quando eu traí sua confiança, tantos anos atrás.}{}{10}{}{ }
+{91}{Como você veio a traí-lo?}{}{5}{}{1260}{ }
+{92}{Eu sei de tudo. Devo admitir que li o seu diário.}{}{5}{qu1014 2}{100}{re -5 }
+{100}{Entendo. Suponho que você tenha algum motivo para que eu não chame meus guardas imediatamente para lhe dar uma boa surra?}{Entendo. Suponho que você tenha algum motivo para que eu não chame meus guardas imediatamente para lhe dar uma boa surra?}{}{11}{}{ }
+{101}{Por favor, permita-me devolvê-lo. Eu vi o erro dos meus caminhos.}{}{5}{qb1039 1}{230}{re +5 }
+{102}{Appleby me contratou para roubá-lo, mas mudei de ideia.}{}{5}{qa1039 2}{110}{gf1012 1 }
+{103}{Se você quer que eles vejam sua humilhante surra, vá em frente.}{}{5}{}{0}{fl  1050 ,co}
+{110}{A traição dele é bem conhecida por mim, e também cansativa. Acho que está na hora de mandar algumas pessoas para ter uma conversa com o Sr. Appleby. Mas acredito que possa ter um trabalho para um indivíduo tão engenhoso quanto você.}{A traição dele é bem conhecida por mim, e também cansativa. Acho que está na hora de mandar algumas pessoas para ter uma conversa com o Sr. Appleby. Mas acredito que possa ter um trabalho para um indivíduo tão engenhoso quanto você.}{}{12}{}{np1060 1 }
+{111}{E isso seria?}{}{5}{}{120}{ }
+{112}{Por que Appleby o odeia tanto?}{}{5}{lf11 0}{1055}{lf11 1 }
+{119}{Desculpe, não estou interessado.}{}{5}{}{140}{re -10 }
+{120}{Já que leu meu diário, sabe da minha associação com o Clã da Montanha Negra. Gostaria que você fosse até as minas deles procurar alguma pista sobre o paradeiro deles.}{Já que leu meu diário, sabe da minha associação com o Clã da Montanha Negra. Gostaria que você fosse até as minas deles procurar alguma pista sobre o paradeiro deles.}{}{13}{}{ }
+{121}{Você despertou meu interesse. Vou me esforçar para voltar com alguma notícia.}{}{5}{}{130}{ }
+{122}{Desculpe, não estou interessado.}{}{5}{}{140}{re -10 }
+{130}{Seu espírito revigora um velho. Aqui, deixe-me marcar seu mapa. Por favor, retorne assim que tiver qualquer informação, eu recompensarei você.}{Seu espírito revigora um velho. Aqui, deixe-me marcar seu mapa. Por favor, retorne assim que tiver qualquer informação, eu recompensarei você.}{}{176}{}{mm 7, ss 4, gf1024 1 }
+{131}{Retornarei com as informações que solicitou.}{}{5}{}{170}{qu 1013 2 }
+{132}{Obrigado. Aqui está seu diário de volta, você esqueceu de pegá-lo.}{}{5}{}{160}{re +10, al +25 }
+{140}{Você tem a audácia de me rejeitar depois de roubar meus pertences pessoais? Sugiro fortemente que reconsidere.}{Você tem a audácia de me rejeitar depois de ter roubado meus pertences pessoais? Eu fortemente sugiro que reconsidere.}{}{177}{}{ }
+{141}{Você apresenta um argumento convincente. Aceito sua proposta.}{}{5}{}{130}{re +5 }
+{142}{Eu fortemente sugiro que reconsidere seu tom, velho.}{}{5}{}{150}{re -10 }
+{150}{Embora eu possa admirar sua impertinência, não tolerarei mais isso. Aceite minha oferta ou aceite as consequências.}{Embora eu possa admirar sua impertinência, não tolerarei mais isso. Aceite minha oferta ou aceite as consequências.}{}{178}{}{ }
+{151}{Como posso recusar um pedido tão elegantemente formulado?}{}{5}{}{130}{re +5 }
+{152}{Você aceitará as consequências de sua impertinência!}{}{5}{}{0}{fl  1050 ,co}
+{160}{Ah, a mente deste velho está falhando... você deveria ficar com isso, pode conter alguma pista que eu tenha esquecido através da névoa dos meus anos. Aconselho-o a não deixar isso sair de seu cuidado, no entanto, pois isso poderia ser... prejudicial à saúde.}{Ah, a mente deste velho está falhando... você deveria ficar com isso, pode conter alguma pista que eu tenha esquecido através da névoa dos meus anos. Aconselho-o a não deixar isso sair de seu cuidado, no entanto, pois isso poderia ser... prejudicial à saúde.}{}{179}{}{ }
+{161}{Retornarei com as informações que solicitou.}{}{5}{}{170}{ }
+{162}{Você confiaria em mim? Sua mente frágil certamente apodreceu.}{}{5}{}{0}{fl  1050 ,co}
+{170}{Ah, mais uma coisa... gostaria de comprar meu anel de volta. Eu lhe daria 200 peças de ouro. Significaria muito para mim, meu pai me deu antes de morrer.}{Ah, mais uma coisa... gostaria de comprar meu anel de volta. Eu lhe daria 200 peças de ouro. Significaria muito para mim, meu pai me deu antes de morrer.}{}{180}{}{ }
+{171}{Certamente. Aqui está.}{}{5}{in 2804}{180}{in 2804, $$200, re+10 }
+{172}{Não o tenho aqui, mas o trarei quando retornar.}{}{5}{ni2804}{180}{lf 2 1 }
+{173}{Isso não é o suficiente.}{}{5}{in 2804, ha -11}{190}{re -10 }
+{174}{300 seria melhor para mim.}{}{5}{in 2804, ha 12}{220}{ }
+{180}{Muito agradecido. Falarei com você quando retornar.}{Muito agradecido. Falarei com você quando retornar.}{}{14}{}{ }
+{181}{K:}{}{5}{}{1290}{ }
+{182}{E:}{}{5}{}{0}{ }
+{190}{Terá que desculpar um velho cuja audição está se esvaindo. Sei que não poderia ter ouvido você recusando minha generosa oferta.}{Terá que desculpar um velho cuja audição está se esvaindo. Sei que não poderia ter ouvido você recusando minha generosa oferta.}{}{15}{}{ }
+{191}{Que tipo de pessoa eu seria para recusar tal oferta? [Entregue-lhe o anel]}{}{5}{in 2804}{180}{in 2804, $$200 }
+{192}{Não o tenho aqui, mas o trarei quando retornar.}{}{5}{}{180}{lf2 1 }
+{193}{Não brinque comigo, velho. Sua oferta foi insultante.}{}{5}{}{200}{re -10 }
+{200}{Ousa? Já mandei espancar homens a um fio de suas vidas por menos que isso! Entregue-me o anel AGORA - você não receberá nada!}{Ousa? Já espancara mulheres a um fio de suas vidas por menos que isso! Entregue-me o anel AGORA - você não receberá nada!}{}{16}{}{ }
+{201}{Por favor, não mande me espancar! Aqui está seu anel.}{}{5}{}{210}{in 2804 }
+{202}{Você vai receber algo - meu pé plantado em suas partes baixas!}{}{5}{}{0}{fl  1050 ,co}
+{210}{Agora suma da minha presença, seu traste inútil, e traga-me algumas respostas!}{Agora suma da minha presença, seu traste inútil, e traga-me algumas respostas!}{}{17}{}{ }
+{211}{Sim, senhor. Obrigado, senhor.}{}{5}{}{0}{ }
+{212}{Seu problema é que viveu tempo demais. Deixe-me resolver isso.}{}{5}{}{0}{fl  1050 ,co}
+{220}{Sim, o senhor está correto. Isso parece ser uma quantia razoável.}{Sim, o senhor está correto. Isso parece ser uma quantia razoável.}{}{18}{}{ }
+{221}{Aqui está seu anel.}{}{5}{}{180}{in 2804, $$300 }
+{230}{Invadiu minha casa sem ser detectado, não é? Hmmm. Acredito que possa ter uma tarefa para alguém como o senhor.}{Invadiu minha casa sem ser detectado, não é? Hmmm. Acredito que possa ter uma tarefa para alguém como o senhor.}{}{19}{}{ }
+{231}{E isso seria?}{}{5}{}{120}{ }
+{232}{Desculpe, não estou interessado.}{}{5}{}{140}{re -10 }
+{240}{Não o reconheço, é novo por aqui?}{Não o reconheço, é novo por aqui?}{}{20}{}{ }
+{241}{Na verdade, não sou um servo, mas é imperativo que eu fale com o senhor.}{}{5}{ni 2804}{250}{gf1024 1 }
+{242}{Não sou um servo. Preciso falar com o senhor sobre este anel.}{}{5}{in 2804}{10}{gf1024 1 }
+{249}{Sim, sou, senhor. Perdão pela interrupção, já estou de saída.}{}{5}{}{0}{ }
+{250}{Que tipo de ardil é este? Como entrou aqui?}{Que tipo de ardil é este? Como entrou aqui?}{}{21}{}{ }
+{251}{Isso não é importante. Precisamos falar sobre um anel. [Descrever anel.]}{}{5}{ni 2804, lf13 0}{10}{lf13 1 }
+{252}{Cedric Appleby me enviou para encontrar algo que o exponha.}{}{5}{qu1039 1, in 5202}{260}{re - 10 }
+{253}{Cedric Appleby me enviou para encontrar algo que o exponha.}{}{5}{qu1039 2}{260}{re - 10 }
+{254}{O motivo da minha presença é mais importante. Appleby está querendo arruiná-lo.}{}{5}{qu1039 1, gf1006 0}{260}{gf1012 1 }
+{255}{Isso não é importante. Estou aqui para falar sobre este anel. [Mostrar Anel.]}{}{5}{in 2804, lf13 0}{10}{lf3 1 }
+{256}{O motivo da minha presença é mais importante. Appleby está querendo arruiná-lo.}{}{5}{ gf1006 1}{290}{gf1012 1 }
+{260}{E decidiu compartilhar isso comigo com que propósito? Talvez esteja cansado de viver?}{E decidiu compartilhar isso comigo com que propósito? Talvez esteja cansada de viver?}{}{22}{}{ }
+{261}{Precisava poder falar com o senhor sobre este anel.}{}{5}{in 2804, lf13 0}{10}{lf13 1 }
+{262}{Preciso falar com o senhor sobre um anel. [Descrever o Anel]}{}{5}{ni 2804, lf13 0}{10}{lf13 1 }
+{263}{Ao contrário! Deve ser o senhor que está cansado de viver para falar comigo assim!}{}{5}{ch 14}{270}{re -10 }
+{264}{Eu queria avisá-lo sobre sua traição.}{}{5}{}{290}{gf1012 1 }
+{270}{Seu humor pode ser o fim do senhor, cavalheiro!}{Seu humor pode ser o fim da senhora, madame!}{}{23}{}{ }
+{271}{Eu sabia que alguém de seu calibre apreciaria uma troca de farpas verbais!}{}{5}{re -59}{280}{re 60 }
+{272}{Eu sabia que alguém do seu calibre apreciaria uma boa troca de farpas verbais!}{}{5}{re 60}{280}{re +15 }
+{273}{Você confunde minha ameaça com humor. Está na hora de morrer.}{}{5}{}{0}{fl  1050 ,co}
+{280}{É verdade. É revigorante encontrar alguém que não tenha medo de brincar com alguém na minha posição. Mas me diga, o que o traz aqui?}{É verdade. É revigorante encontrar alguém que não tenha medo de brincar com alguém na minha posição. Mas me diga, o que a traz aqui?}{}{24}{}{ }
+{281}{Eu precisava poder falar com você sobre este anel.}{}{5}{in 2804, lf13 0}{10}{lf13 1 }
+{282}{Preciso falar com você sobre um anel. [Descreva o Anel]}{}{5}{ni 2804, lf13 0}{10}{lf13 1 }
+{283}{Receio que isso terá que esperar. Adeus.}{}{5}{}{0}{ }
+{290}{A traição dele é bem conhecida por mim, e também cansativa. Acho que está na hora de eu mandar algumas pessoas para ter uma conversa com o Sr. Appleby.}{A traição dele é bem conhecida por mim, e também cansativa. Acho que está na hora de eu mandar algumas pessoas para ter uma conversa com o Sr. Appleby.}{}{25}{}{np1060 1 }
+{291}{Gostaria de perguntar sobre este anel.}{}{5}{in 2804, lf13 0}{10}{lf13 1 }
+{292}{Gostaria de falar com você sobre um anel. [Descreva o anel.]}{}{5}{ni 2804, lf13 0}{10}{lf13 1 }
+{293}{Por que o Appleby te odeia tanto?}{}{5}{lf12 0}{1055}{lf12 1 }
+{299}{Bem, só queria avisá-lo. Adeus.}{}{5}{}{0}{lf 1 1, re +10 }
+{300}{Sua insolência me espanta! Como ousa se aproximar de mim, servo!}{Sua insolência me espanta! Como ousa se aproximar de mim, serva!}{}{26}{}{ }
+{301}{Tenho outra coisa que irá espantá-lo. [Mostre-lhe o anel.]}{}{5}{ch 14, in 2804}{10}{re 50, gf1024 1 }
+{302}{Sei que não sou digno nem de engraxar suas botas, mas preciso falar com você.}{}{5}{}{310}{re +5, gf1024 1 }
+{303}{Isso irá espantá-lo ainda mais. [Descreva o anel.]}{}{5}{ch 14, ni 2804}{10}{re 50, gf1024 1 }
+{304}{Tenho outra coisa que irá espantá-lo. [Iniciar combate.]}{}{5}{}{0}{fl  1050 ,co}
+{305}{Claro, senhor, me perdoe, senhor. Vou me retirar agora, senhor.}{}{5}{}{0}{ }
+{310}{É melhor que isso valha a pena ou haverá um preço alto a pagar por desperdiçar meu tempo!}{É melhor que isso valha a pena ou haverá um preço alto a pagar por desperdiçar meu tempo!}{}{27}{}{ }
+{311}{Peço sua paciência, mas achei que gostaria de ver este anel.}{}{5}{in 2804, lf13 0}{10}{re +5, lf13 1 }
+{312}{Peço seu perdão, mas preciso perguntar sobre um anel que eu tinha. [Descreva o anel.]}{}{5}{ni 2804, lf13 0}{10}{re +5, lf13 1 }
+{313}{Quero falar um pouco mais sobre o seu anel.}{}{5}{lf13 1}{1245}{ }
+{314}{Já ouvi o suficiente das suas bravatas. Vou lhe mostrar o "preço alto a pagar".}{}{5}{}{0}{fl  1050 ,co}
+{320}{[Este homem idoso se aproxima de você, com a mão estendida em saudação.] Bom dia para você, senhor. Sou Gilbert Bates, como tenho certeza de que já deduziu. Meus guardas me informaram que há um assunto que deseja discutir?}{[Este homem idoso se aproxima de você, com a mão estendida em saudação.] Bom dia para você, senhora. Sou Gilbert Bates, como tenho certeza de que já deduziu. Meus guardas me informaram que há um assunto que deseja discutir?}{}{28}{}{ }
+{321}{Exatamente. Gostaria de perguntar sobre este anel.}{}{5}{in 2804, gf1007 0, lf13 0}{10}{lf13 1 }
+{322}{Gostaria de perguntar sobre um anel que eu tinha. [Descreva o anel.]}{}{5}{ni 2804, gf1007 0, lf13 0}{10}{lf13 1 }
+{323}{Qual é o seu envolvimento com o Clã da Montanha Negra?}{}{5}{gf1007 1}{360}{ }
+{324}{O que pode me contar sobre a recente tentativa de assassinato contra você?}{}{5}{gf1028 1}{1195}{lf15 1 }
+{329}{Isso é verdade, mas terá que esperar. Tenha um bom dia, senhor.}{}{5}{}{0}{ }
+{330}{Stennar! Espere, você não é... quando meus guardas disseram que havia um anão com um anel, eu pensei... ele o enviou?}{Stennar! Espere, você não é... quando meus guardas disseram que havia um anão com um anel, eu pensei... ele o enviou?}{}{29}{}{ }
+{331}{A menos que ele seja um gnomo. Stennar é um nome anão.}{}{5}{}{350}{ }
+{332}{Não, ele não enviou. Me desculpe, preciso me retirar.}{}{5}{}{340}{ }
+{340}{Por favor, não vá. Preciso falar com você sobre o Stennar. Faz tanto tempo. O que aconteceu com ele?}{Por favor, não vá. Preciso falar com você sobre o Stennar. Faz tanto tempo. O que aconteceu com ele?}{}{30}{}{ }
+{341}{Não sei. Gostaria de falar sobre um anel que encontrei. [Descrever anel.]}{}{5}{ni 2804}{10}{ }
+{342}{Não conheço o Stennar, mas gostaria de falar sobre este anel.}{}{5}{in 2804}{10}{ }
+{349}{Peço desculpas, mas preciso ir.}{}{5}{}{0}{ }
+{350}{Claro que ele não é um gnomo. Mas se não o conhece, onde conseguiu esse anel? Anões geralmente têm mais dignidade do que recorrer ao roubo.}{Claro que ele não é um gnomo. Mas se não o conhece, onde conseguiu esse anel? Anões geralmente têm mais dignidade do que recorrer ao roubo.}{}{31}{}{ }
+{351}{Um gnomo de aparência estranha me deu quando estava morrendo.}{}{5}{}{30}{ }
+{352}{Como ousa me acusar de roubo! Eu não sou um gnomo! Tenha um bom dia!}{}{5}{}{340}{ }
+{360}{O q... o que disse? Eu n-nunca, isto é, não sei nada sobre... sobre eles...}{O q... o que disse? Eu n-nunca, isto é, não sei nada sobre... sobre eles...}{}{32}{}{ }
+{361}{Já estive no fundo das minas deles. Sei que você esteve envolvido.}{}{5}{}{370}{ }
+{362}{Devo ter me enganado. Adeus.}{}{5}{}{0}{ }
+{370}{Você esteve lá? Sabe o que aconteceu com eles?}{Você esteve lá? Sabe o que aconteceu com eles?}{}{33}{}{ }
+{371}{Eles foram banidos para a ilha do desespero, por sua causa.}{}{5}{}{1065}{ }
+{380}{E por que o idiota da vila estaria me dirigindo a palavra?}{E por que o idiota da vila estaria me dirigindo a palavra?}{}{34}{}{ }
+{381}{Me mata sab ah toors.}{}{-4}{gf1007 0, qu1040 4}{390}{ }
+{382}{Clã Negro banido por sua causa.}{}{-4}{me 0, gf1007 1}{480}{ }
+{383}{Seu anel? [Mostrar anel.]}{}{-4}{gf1007 0, qb1040 3, in 2804, lf13 0}{400}{lf13 1 }
+{384}{Eu tinha um anel. [Tentar descrever o anel de forma débil.]}{}{-4}{gf1007 0, qb1040 3, ni 2804, lf13 0}{400}{lf13 1 }
+{389}{ugha?}{}{-4}{}{0}{ }
+{390}{Quando meus guardas me disseram que você viria falar comigo, eles se esqueceram de mencionar que você era um completo idiota.}{Quando meus guardas me disseram que você viria falar comigo, eles se esqueceram de mencionar que você era um completo idiota.}{}{35}{}{ }
+{391}{Esse é o seu anel?}{}{-4}{in 2804, lf13 0}{400}{lf13 1 }
+{392}{Eu tinha anel. [Tenta descrever o anel de forma débil.]}{}{-4}{ni 2804, lf13 0}{400}{lf13 1 }
+{399}{Uhfgnmm.}{}{-4}{}{0}{ }
+{400}{Onde você conseguiu esse anel? Foi um anão que te deu?}{Onde você conseguiu esse anel? Foi um anão que te deu?}{}{36}{}{ }
+{401}{Não. Um gnomo idiota com cicatriz no rosto deu. Depois morreu.}{}{-4}{}{405}{ }
+{405}{Cicatriz? Onde era essa cicatriz? Fale logo, seu ignorante!}{Cicatriz? Onde era essa cicatriz? Fale logo, seu ignorante!}{}{37}{}{ }
+{406}{No olho.}{}{-4}{}{410}{ }
+{410}{Malditos sejam todos eles para o inferno! O que fizeram com você, Stennar?}{Malditos sejam todos eles para o inferno! O que fizeram com você, Stennar?}{}{38}{}{ }
+{411}{Eu não sou Stennar.}{}{-4}{}{415}{ }
+{415}{Eu sei que você não é Stennar, idiota. Apenas finja que não é um completo imbecil e escute. Preciso dividir isso com alguém, e por sorte, você não vai entender metade mesmo.}{Eu sei que você não é Stennar, idiota. Apenas finja que não é um completo imbecil e escute. Preciso dividir isso com alguém, e por sorte, você não vai entender metade mesmo.}{}{39}{}{ }
+{416}{Tá bom.}{}{-4}{}{-42}{ru2017 }
+{417}{Eu roubei um livro. Sem história.}{}{-4}{qu1014 2}{420}{ }
+{420}{(Hmmm. Ele pode ser burro o suficiente para fazer algo por mim.) VOCÊ VAI PARA AS MINAS DA MONTANHA NEGRA E DESCUBRA PARA ONDE O CLÃ FOI, ENTENDIDO?}{(Hmmm. Ela pode ser burra o suficiente para fazer algo por mim.) VOCÊ VAI PARA AS MINAS DA MONTANHA NEGRA E DESCUBRA PARA ONDE O CLÃ FOI, ENTENDIDO?}{}{40}{}{ }
+{421}{Pois não?}{}{-4}{qu1014 2}{425}{ }
+{422}{Pois não?}{}{-4}{qb1014 1}{425}{qu1013 2 }
+{423}{Não!}{}{-4}{}{430}{ }
+{425}{Vou marcar no seu mapa. Agora suma daqui. Volte quando tiver terminado.}{Vou marcar no seu mapa. Agora suma daqui. Volte quando tiver terminado.}{}{41}{}{mm 7, ss 4, gf1024 1 }
+{426}{boog gye.}{}{-4}{}{0}{ }
+{430}{Ousa?! Sugiro que mude de ideia, simplório!}{Ousa?! Sugiro que mude de ideia, simplório!}{}{42}{}{ }
+{431}{Sim!}{}{-4}{qu1014 2}{425}{ }
+{432}{Sim!}{}{-4}{qb1014 1}{425}{qu1013 2 }
+{433}{Não?}{}{-4}{}{0}{fl  1050 ,co}
+{440}{Nenhum deles jamais voltou com informações úteis, e alguns nunca voltaram. Os que retornaram falaram de armadilhas cruéis e criaturas atacando das sombras. Conforme as notícias desses fracassos se espalharam, ficou cada vez mais difícil encontrar almas corajosas o suficiente para encarar o desafio.}{Nenhum deles jamais voltou com informações úteis, e alguns nunca voltaram. Os que retornaram falaram de armadilhas cruéis e criaturas atacando das sombras. Conforme as notícias desses fracassos se espalharam, ficou cada vez mais difícil encontrar almas corajosas o suficiente para encarar o desafio.}{}{43}{}{qu1012 4 }
+{441}{Mas por que ele me enviou aqui com o seu anel?}{}{5}{}{1270}{ }
+{442}{O que eu faço agora?}{}{-4}{gf1007 0}{420}{ }
+{446}{Anões na ilha dos bandidos.}{}{-4}{gf1007 1}{850}{ }
+{450}{Para mim, está claro que se tornou imperativo descobrir o destino do Clã da Montanha Negra. Agradeço por ter trazido isso à minha atenção, mas devo me retirar para deduzir meu próximo passo. Tenha um bom dia.}{Para mim, está claro que se tornou imperativo descobrir o destino do Clã da Montanha Negra. Agradeço por ter trazido isso à minha atenção, mas devo me retirar para deduzir meu próximo passo. Tenha um bom dia.}{}{44}{}{ }
+{451}{Eu também teria interesse em resolver esse enigma.}{}{5}{gf1007 0}{460}{ }
+{452}{Do meu ponto de vista, o próximo passo é ir para a Ilha do Desespero.}{}{5}{gf1007 1}{680}{ }
+{459}{Desejo-lhe sorte. Adeus.}{}{5}{}{0}{qu1013 1 }
+{460}{Você parece ser uma pessoa cheia de recursos. Acredito que gostaria de contratá-lo para essa tarefa. Asseguro-lhe que valerá a pena.}{Você parece ser uma pessoa cheia de recursos. Acredito que gostaria de contratá-lo para essa tarefa. Asseguro-lhe que valerá a pena.}{}{45}{}{ }
+{461}{Aceito.}{}{5}{qb1014 1}{470}{qu1013 2 }
+{462}{Aceito.}{}{5}{qu1014 2}{470}{ }
+{468}{Falei muito apressadamente. Devo me retirar.}{}{5}{qu1014 2}{0}{ }
+{469}{Falei muito apressadamente. Devo me retirar.}{}{5}{qb1014 1}{0}{qu1013 1 }
+{470}{Excelente! Aqui, deixe-me marcar no seu mapa a localização das minas da Montanha Negra. Tenho certeza de que deve haver algumas pistas lá. Por favor, retorne assim que encontrar algo.}{Excelente! Aqui, deixe-me marcar no seu mapa a localização das minas da Montanha Negra. Tenho certeza de que deve haver algumas pistas lá. Por favor, retorne assim que encontrar algo.}{}{46}{}{mm 7, ss 4, gf1024 1 }
+{471}{Retornarei com as informações que pediu.}{}{5}{in2804}{170}{ }
+{472}{Posso fazer algumas perguntas antes de ir?}{}{5}{}{1290}{ }
+{473}{Retornarei com as informações que pediu.}{}{5}{ni2804}{0}{ }
+{480}{Banidos? Para onde?}{Banidos? Para onde?}{}{47}{}{ }
+{481}{Ilo dispar?}{}{-4}{}{-42}{ }
+{490}{Você voltou! Conte-me, quais são as novidades?}{Você voltou! Conte-me, quais são as novidades?}{}{48}{}{ }
+{491}{Os anões foram banidos para a Ilha do Desespero porque, hã...}{}{5}{gf1007 1, lf1 0}{500}{lf1 1  }
+{492}{Trouxe o anel para você. [Dê-lhe o anel.]}{}{5}{lf2 1, in 2804}{620}{in 2804 }
+{493}{Decidi ir para a Ilha do Desespero. Como chego lá?}{}{5}{qu1013 4, qu1015 1, gf2542 1}{530}{qu1015 2 }
+{494}{Eles não estão na Ilha do Desespero. Nunca estiveram lá.}{}{5}{qu1015 4, qb1017 3, lf5 0}{630}{ }
+{495}{Falei com Loghaire, do Clã da Roda.}{}{5}{qu1016 2, lf7 0}{690}{lf7 1 }
+{496}{Tenho algo importante para discutir.}{}{5}{ qu1013 0, qb1014 1}{600}{ }
+{497}{Decidi procurar as minas da Montanha Negra por você.}{}{5}{qu1013 1}{470}{qu1013 2 }
+{498}{O Clã da Montanha Negra foi banido para o vazio pelos elfos negros.}{}{5}{qa1016 3, lf10 0}{970}{ }
+{499}{Não encontrei nenhuma informação nova desde a última vez que conversamos.}{}{5}{}{0}{ }
+{500}{Pelos deuses, desembuche logo, homem!}{Pelos deuses, desembuche logo, mulher!}{}{49}{}{ }
+{501}{Eles permitiram irresponsavelmente que sua tecnologia se espalhasse entre os humanos.}{}{5}{}{510}{qu1013 4 }
+{502}{Sua traição insensível e o roubo de sua tecnologia os condenaram.}{}{5}{re 39}{1030}{re -5, qu1013 4 }
+{503}{Sua traição insensível e o roubo de sua tecnologia os condenaram.}{}{5}{re -38}{0}{qu1013 4, fl  1050 ,co}
+{504}{Eles permitiram irresponsavelmente que sua tecnologia se espalhasse entre os humanos.}{}{5}{qu1014 4}{510}{ }
+{510}{[Ele parece surpreso por um momento, enquanto considera o que você lhe disse.] Pelos deuses, é como sempre temi! Eu os condenei a todos! [Agora ele chora abertamente.] O que eu fiz? Minha impertinência juvenil... Eu... aqui está... algum ouro pelo seu incômodo. [Ele tenta se recompor.] Você poderia... [ele segura mais lágrimas]... fazer... algo mais por mim?}{[Ele parece surpreso por um momento, enquanto considera o que você lhe disse.] Pelos deuses, é como sempre temi! Eu os condenei a todos! [Agora ele chora abertamente.] O que eu fiz? Minha impertinência juvenil... Eu... aqui está... algum ouro pelo seu incômodo. [Ele tenta se recompor.] Você poderia... [ele segura mais lágrimas]... fazer... algo mais por mim?}{}{50}{}{$$ 300 }
+{511}{Você gostaria que eu fosse à Ilha do Desespero?}{}{5}{}{520}{ }
+{512}{Sinto muito, mas 300 moedas de ouro nem cobrem meus gastos.}{}{5}{ps 15}{570}{ }
+{514}{O que fazer?}{}{-4}{}{850}{ }
+{520}{Se você pudesse... Eu sei que já pedi muito a você, mas um velho precisa tranquilizar sua mente.}{Se você pudesse... Eu sei que já pedi muito a você, mas um velho precisa tranquilizar sua mente.}{}{51}{}{gf2542 1 }
+{521}{Claro. Como chego lá?}{}{5}{}{530}{qu1015 2 }
+{522}{O que é a Ilha do Desespero?}{}{5}{}{580}{ }
+{523}{Sinto muito, mas não irei a nenhuma Ilha do Desespero.}{}{5}{}{0}{ }
+{530}{Vá aos docas de Ashbury, você pode encontrá-lo no seu mapa. Pergunte por Edward Teach, um velho lobo do mar rabugento. Ele está no comando de um dos barcos que uso para trabalhos "especiais".}{Vá aos docas de Ashbury, você pode encontrá-lo no seu mapa. Pergunte por Edward Teach, um velho lobo do mar rabugento. Ele está no comando de um dos barcos que uso para trabalhos "especiais".}{}{52}{}{mm 8, gf 1008 1 }
+{531}{E ele me levará? Esse homem pode ser confiável?}{}{5}{}{540}{ }
+{540}{Eu confio nele implicitamente. Há rumores de uma carreira um tanto quanto não virtuosa nos mares, mas ele é um bom homem caso uma situação difícil surja.}{Eu confio nele implicitamente. Há rumores de uma carreira um tanto quanto não virtuosa nos mares, mas ele é um bom homem caso uma situação difícil surja.}{}{53}{}{ru2018 }
+{541}{Isso é reconfortante.}{}{5}{ch12}{-48}{ }
+{542}{Isso é reconfortante.}{}{5}{ch -11}{560}{ }
+{550}{Vou avisar Teach com antecedência para esperar por você. [Ele olha para seu guarda-costas.] Chukka, aqui, é bastante útil para proteção. Se estiver interessado, talvez consiga persuadi-lo a acompanhá-lo em sua jornada.}{Vou avisar Teach com antecedência para esperar por você. [Ele olha para seu guarda-costas.] Chukka, aqui, é bastante útil para proteção. Se estiver interessado, talvez consiga persuadi-lo a acompanhá-lo em sua jornada.}{}{54}{}{gf1008 1, gf1020 1 }
+{551}{K:}{}{5}{}{1290}{ }
+{559}{Agradeço por sua generosidade. Vou informá-lo sobre minhas descobertas.}{}{5}{}{0}{qu1015 2 }
+{560}{Vou avisar Teach com antecedência para esperar por você.}{Vou telegrafar adiante para avisar o Teach que você está chegando.}{}{55}{}{gf1008 1 }
+{561}{K:}{}{5}{}{1290}{ }
+{569}{Obrigado pela sua generosidade. Eu o informarei sobre minhas descobertas.}{}{5}{}{0}{qu1015 2 }
+{570}{Claro, claro, aqui estão mais 100. Você poderia, por favor, ir até a Ilha do Desespero para mim?}{Claro, claro, aqui estão mais 100. Você poderia, por favor, ir até a Ilha do Desespero para mim?}{}{56}{}{$$ 100, qu1015 1, gf2542 1 }
+{571}{Claro.}{}{5}{}{520}{ }
+{572}{O que é a Ilha do Desespero?}{}{5}{}{580}{ }
+{573}{Talvez em outra ocasião. Tenha um bom dia.}{}{5}{}{0}{ }
+{580}{A Ilha do Desespero é uma colônia penal. Extremamente perigosa. Os criminosos são deixados sem cerimônia em suas praias para se defenderem dos elementos e dos outros 'detentos'. Eu ficaria em dívida com você, é claro.}{A Ilha do Desespero é uma colônia penal. Extremamente perigosa. Os criminosos são deixados sem cerimônia em suas praias para se defenderem dos elementos e dos outros 'detentos'. Eu ficaria em dívida com você, é claro.}{}{57}{}{ }
+{581}{Eu faço isso, mas como chego lá?}{}{5}{}{530}{qu1015 2 }
+{582}{Sua dívida vai passar de 300 peças de ouro desta vez?}{}{5}{ps 12, lf6 0}{590}{ }
+{589}{Tenho certeza de que você garantiria um belo enterro para mim. Não, obrigado.}{}{5}{}{0}{ }
+{590}{Com certeza. Acho que isso deve cobrir quaisquer dificuldades que você encontre pelo caminho.}{Com certeza. Acho que isso deve cobrir quaisquer dificuldades que você encontre pelo caminho.}{}{58}{}{$$450 }
+{591}{Excelente. Como chego lá?}{}{5}{}{530}{qu1015 2 }
+{600}{Sobre o que seria isso?}{Sobre o que seria isso?}{}{59}{}{ }
+{601}{Gostaria de perguntar sobre este anel.}{}{5}{in 2804, ra -2}{10}{ }
+{602}{Gostaria de perguntar sobre este anel que eu tinha. [Descreva o anel.]}{}{5}{ni 2804, ra -2}{10}{ }
+{609}{F:}{}{5}{}{0}{ }
+{610}{Há alguma novidade?}{Há alguma novidade?}{}{60}{}{ }
+{611}{Os anões foram banidos para a Ilha do Desespero porque, hã...}{}{5}{gf1007 1, lf11 0}{500}{lf11 1 }
+{612}{Decidi ir para a Ilha do Desespero. Como chego lá?}{}{5}{qu1013 4, qu1015 1, gf2542 1}{530}{qu1015 2 }
+{613}{Eles não estão na Ilha do Desespero. Nunca estiveram lá.}{}{5}{qu1015 4, qb1017 3, lf5 0}{630}{ }
+{614}{Eu conversei com Loghaire, do Clã da Roda.}{}{5}{qu1016 2, lf7 0}{690}{lf7 1 }
+{615}{Decidi vasculhar as minas da Montanha Negra para você.}{}{5}{qu1013 1}{470}{ }
+{616}{O Clã da Montanha Negra foi banido para o vazio pelos elfos negros.}{}{5}{qa1016 3}{970}{ }
+{617}{O que pode me dizer sobre a recente tentativa contra sua vida?}{}{5}{gf1028 1, lf15 0}{1225}{lf15 1 }
+{619}{Não encontrei nenhuma informação nova desde a última vez que conversamos.}{}{5}{}{0}{ }
+{620}{Esplêndido! Aqui está seu ouro.}{Esplêndido! Aqui está seu ouro.}{}{61}{}{$$200 }
+{621}{300 seria melhor para mim.}{}{5}{ps 15}{625}{ }
+{622}{A:}{}{5}{}{610}{ }
+{625}{Sim, você está correto. Isso parece ser uma quantia razoável.}{Sim, você está correto. Isso parece ser uma quantia razoável.}{}{62}{}{$$100 }
+{626}{A:}{}{5}{}{610}{ }
+{630}{Que tipo de trama diabólica está em andamento aqui? Tem certeza disso?}{Que tipo de trama diabólica está em andamento aqui? Tem certeza disso?}{}{63}{}{ }
+{631}{Este é Thorvald. Ele foi aprisionado lá por 100 anos.}{}{5}{pa6410}{640}{ }
+{632}{Falei com um anão que esteve lá por 100 anos.}{}{5}{pa-6410}{640}{ }
+{640}{Deuses! Isso é desastroso! O que vamos fazer agora?}{Deuses! Isso é desastroso! O que vamos fazer agora?}{}{64}{}{ }
+{641}{Estou a caminho de falar com Loghaire do Clã da Roda.}{}{5}{}{650}{ }
+{649}{Eu mesmo estou perdido. Avise-me se os encontrar. Tenha um bom dia.}{}{5}{}{0}{ }
+{650}{Sim, sim. Esse é nosso próximo passo lógico. Diga-me, há algo que eu possa fazer para ajudá-lo?}{Sim, sim. Esse é nosso próximo passo lógico. Diga-me, há algo que eu possa fazer para ajudá-lo?}{}{65}{}{ }
+{651}{Hã, você esqueceu de me pagar por vasculhar a Ilha do Desespero.}{}{5}{ps 15}{660}{ }
+{652}{Hã, você esqueceu de me pagar por vasculhar a Ilha do Desespero.}{}{5}{ps -14}{670}{ }
+{660}{Ah, as extravagâncias da mente idosa... perdoe minha falta de memória, aqui está seu ouro.}{Ah, as extravagâncias da mente idosa... perdoe minha falta de memória, aqui está seu ouro.}{}{66}{}{$$500, lf5 1 }
+{661}{K:}{}{5}{}{1290}{ }
+{669}{Voltarei depois que conseguir uma audiência com Loghaire.}{}{5}{}{0}{ }
+{670}{Ah, as extravagâncias da mente idosa... perdoe minha falta de memória, aqui está ouro.}{Ah, as extravagâncias da mente idosa... perdoe minha falta de memória, aqui está ouro.}{}{67}{}{$$400, lf5 1 }
+{671}{K:}{}{5}{}{1290}{ }
+{679}{Voltarei depois que conseguir uma audiência com Loghaire.}{}{5}{}{0}{ }
+{680}{Que ideia capital. Eu nunca poderia pedir algo tão perigoso a alguém, mas já que foi tão gentil em oferecer...}{Que ideia capital. Eu nunca poderia pedir algo tão perigoso a alguém, mas já que foi tão gentil em oferecer...}{}{68}{}{qu1015 1, gf2542 1 }
+{681}{Como chego lá?}{}{5}{}{530}{qu1015 2 }
+{682}{Perigoso? O que exatamente é a Ilha do Desespero?}{}{5}{}{580}{lf6 1  }
+{683}{Sinto muito, mas não irei a nenhuma Ilha do Desespero.}{}{5}{}{0}{ }
+{690}{O que ele lhe disse?}{O que ele lhe disse?}{}{69}{}{ }
+{691}{Ele disse que os elfos fizeram o banimento de fato.}{}{5}{}{700}{ }
+{700}{Eles permitiram que elfos banissem anões?! Que diabos está acontecendo com este mundo?}{Eles permitiram que os elfos banissem os anões?! Que diabos está acontecendo com este mundo?}{}{70}{}{ }
+{701}{Ele também ficou bem chateado com isso.}{}{5}{}{710}{ }
+{710}{Bem, o que os elfos têm a dizer sobre tudo isso?}{Bem, o que os elfos têm a dizer sobre tudo isso?}{}{71}{}{ }
+{711}{Estou a caminho para falar com eles.}{}{5}{qb1018 2, re 49}{720}{ }
+{712}{Eles culpam os elfos negros.}{}{5}{qa1020 3}{730}{ }
+{713}{Espero que entenda que não tenho nenhuma associação com aqueles elfos.}{}{5}{ra 3, re 49, qa1020 3}{750}{ }
+{714}{Espero que entenda que não tenho nenhuma associação com aqueles elfos.}{}{5}{ra 3, re -48, qa1020 3}{830}{ }
+{715}{Estou a caminho para falar com eles.}{}{5}{qb1018 2, re -48}{820}{ }
+{720}{Excelente! Aqui está mais um pouco de ouro para ajudá-lo em sua jornada.}{Aqui está mais um pouco de ouro para ajudá-lo em sua jornada.}{}{72}{}{$$400 }
+{721}{K:}{}{5}{}{1290}{ }
+{729}{A:}{}{5}{}{0}{ }
+{730}{Claro que diriam isso! Essa meada emaranhada de pistas enganosas e subterfúgios é o suficiente para enlouquecer um homem! Precisamos chegar ao fundo dessas mentiras!}{Claro que diriam isso! Essa meada emaranhada de pistas enganosas e subterfúgios é o suficiente para enlouquecer um homem! Precisamos chegar ao fundo dessas mentiras!}{}{73}{}{ }
+{731}{Concordo. Não descansarei até que toda essa questão seja resolvida.}{}{5}{}{740}{ }
+{732}{Espero que entenda que não tenho nenhuma associação com aqueles elfos.}{}{5}{ra 3, lf8 0, re 49, qa1020 3}{750}{lf8 1 }
+{733}{Espero que entenda que não tenho nenhuma associação com aqueles elfos.}{}{5}{ra 3, lf8 0, re -48, qa1020 3}{820}{lf8 1 }
+{740}{O que você fará agora?}{O que você fará agora?}{}{74}{}{ }
+{741}{Vou falar com os elfos negros.}{}{5}{re 49}{720}{ }
+{742}{Vou falar com os elfos negros.}{}{5}{re -48}{820}{ }
+{750}{Claro, meu amigo, claro. Mas me diga, que desculpa eles ofereceram para engolirmos como colegiais ingênuas?}{Claro, meu amigo, claro. Mas me diga, que desculpa eles ofereceram para engolirmos como colegiais ingênuas?}{}{75}{}{ }
+{751}{Ainda não falei com eles. Estou a caminho para falar com eles agora.}{}{5}{qb1018 2}{720}{ }
+{752}{Eles culpam os elfos negros.}{}{5}{qa1018 3}{730}{ }
+{760}{Em nome de tudo o que é sagrado, o que o faz dignar-se a me dirigir a palavra? Suponho que tenha alguma informação pertinente a transmitir.}{Em nome de tudo o que é sagrado, o que o faz dignar-se a me dirigir a palavra? Suponho que tenha alguma informação pertinente a transmitir.}{}{76}{}{ }
+{761}{Os anões foram banidos para a Ilha do Desespero porque, hã...}{}{5}{gf1007 1, lf11 0}{500}{lf11 1 }
+{762}{Trouxe o anel para você. <<<PH1>>>}{}{5}{lf2 1, in 2804}{770}{re +10 }
+{763}{Decidi ir para a Ilha do Desespero. Como chego lá?}{}{5}{qu1013 4, qu1015 1, gf2542 1}{780}{re +10, qu1015 2 }
+{764}{Eles não estão na Ilha do Desespero. Nunca estiveram lá.}{}{5}{qu1015 4, qb1017 3, lf5 0}{630}{re +10 }
+{765}{Eu conversei com Loghaire, do Clã da Roda.}{}{5}{qu1016 2, lf7 0}{690}{re +10 }
+{766}{Tenho algo importante para discutir.}{}{5}{ qu1013 0}{310}{ }
+{767}{Decidi procurar as minas da Montanha Negra para você.}{}{5}{qu1013 1}{780}{re +10 }
+{768}{O Clã da Montanha Negra foi banido para o vazio pelos elfos negros.}{}{5}{qa1016 3}{970}{ }
+{769}{Peço seu perdão, mas não tenho nada para relatar.}{}{5}{}{0}{re -5 }
+{770}{Suponho que lhe devo agradecimentos por isso. Aqui está um sinal da minha gratidão. [Ele lhe entrega um pouco de ouro.]}{Suponho que lhe devo agradecimentos por isso. Aqui está um sinal da minha gratidão. [Ele lhe entrega um pouco de ouro.]}{}{77}{}{$$100 }
+{771}{A:}{}{5}{}{610}{ in2804 }
+{772}{Ora, seu mão-de-vaca sovina! 100 moedas é um insulto!}{}{5}{}{1020}{re -15 }
+{780}{Não tenho certeza se devo empregá-lo como meu emissário. Não gosto de você nem dos sentimentos que despertaria nas pessoas como representante do nome Bates.}{Não tenho certeza se devo empregá-lo como meu emissário. Não gosto de você nem dos sentimentos que despertaria nas pessoas como representante do nome Bates.}{}{78}{}{ }
+{781}{Por favor, conceda-me esta oportunidade de provar meu valor a você.}{}{5}{ch 14}{800}{re +15 }
+{782}{Por favor, conceda-me esta oportunidade de provar meu valor a você.}{}{5}{ch -14}{790}{ }
+{784}{Não tenho certeza se devo estripar você ou decapitá-lo.}{}{5}{}{0}{fl  1050 ,co}
+{790}{Como desejar, camponês. Mas ouça meu aviso: se trouxer vergonha à minha casa, mandarei caçá-lo e matá-lo como o cão que é.}{Como desejar, camponês. Mas ouça meu aviso: se trouxer vergonha à minha casa, mandarei caçá-lo e matá-lo como o cão que é.}{}{79}{}{ }
+{791}{Agradeço pela oportunidade, senhor.}{}{5}{qu1013 1}{810}{ }
+{792}{Agradeço pela oportunidade, senhor.}{}{5}{qu1013 4, qb1015 3, gf2542 1}{530}{ }
+{799}{Vou pensar no seu aviso enquanto uso seus ossos para limpar meus dentes.}{}{5}{}{0}{fl  1050 ,co}
+{800}{Certamente. Afinal, você não é tão ruim quanto me pareceu no início.}{Certamente. Afinal, você não é tão ruim quanto me pareceu no início.}{}{80}{}{ }
+{801}{Estávamos falando da minha expedição ao Clã da Montanha Negra para você?}{}{5}{qu1013 1}{470}{ }
+{802}{Estávamos falando da minha expedição à Ilha do Desespero?}{}{5}{qu1013 4, qb1015 2, gf2542 1}{530}{ }
+{803}{É tarde demais para retirar suas palavras. Devemos lutar até a morte.}{}{5}{}{0}{fl  1050 ,co}
+{810}{Agora, quanto às Minas da Montanha Negra, deixe-me marcar seu mapa. Assim que descobrir qualquer coisa, volte e talvez eu lhe conceda algumas moedas pelo seu esforço.}{Agora, quanto às Minas da Montanha Negra, deixe-me marcar seu mapa. Assim que descobrir qualquer coisa, volte e talvez eu lhe conceda algumas moedas pelo seu esforço.}{}{81}{}{mm 7, ss 4, gf1024 1 }
+{811}{Retornarei com as informações que solicitou.}{}{5}{qb1014 2}{170}{qu1013 2 }
+{812}{Retornarei com as informações que solicitou.}{}{5}{qu1014 2}{170}{ }
+{820}{Não tenho tanta certeza sobre você ou onde podem estar suas lealdades. Estarei de olho em você, pode ter certeza disso.}{Não tenho tanta certeza sobre você ou onde podem estar suas lealdades. Estarei de olho em você, pode ter certeza disso.}{}{82}{}{ }
+{821}{Agradeço pelo voto de confiança. Tenha um bom dia.}{}{5}{}{0}{ }
+{822}{Você me descobriu! Maldição e fogo do inferno, agora você morre!}{}{5}{}{0}{fl  1050 ,co}
+{830}{O tempo dirá, o tempo dirá. Que mentiras élficas eles te contaram para me dizer?}{O tempo dirá, o tempo dirá. Que mentiras élficas eles te contaram para me dizer?}{}{83}{}{ }
+{831}{Eu não falei com eles. Estou a caminho de falar com eles agora.}{}{5}{qb1018 2}{820}{ }
+{832}{Eles culpam os elfos negros.}{}{5}{qa1018 3}{730}{ }
+{840}{E o que esse imbecil gostaria de me dizer agora?}{E o que esse imbecil gostaria de me dizer agora?}{}{84}{}{ }
+{841}{Você culpa os anões banidos, eu desespero.}{}{-4}{gf1007 1, lf11 0}{510}{lf11 1, qu1013 4 }
+{843}{Como eu amo o desespero?}{}{-4}{qu1013 4, qb1015 3, gf2542 1}{860}{qu1015 2 }
+{844}{Os caras anões não estão na ilha. Nunca.}{}{-4}{qu1015 4, qb1017 3, lf5 0}{870}{lf5 1 }
+{845}{Eu falo com o cara do Log. O anão-chefe.}{}{-4}{qu1016 2, lf7 0}{900}{ }
+{846}{Discussão impotente.}{}{-4}{ qu1013 0}{380}{ }
+{847}{Eu vou para o Clã da Montanha Negra?}{}{-4}{qu1013 1}{425}{ }
+{848}{ANÕES BANIDOS PARA O VAZIO! ANÕES BANIDOS PARA O VAZIO!!}{}{-4}{qa1016 3, lf9 0}{920}{lf9 1 }
+{849}{Eu não sei de nada.}{}{-4}{}{0}{ }
+{850}{(Como pude ter esquecido com quem estava falando?) VOCÊ VAI PARA A ILHA ONDE OS MAUS ESTÃO.}{(Como pude ter esquecido com quem estava falando?) VOCÊ VAI PARA A ILHA ONDE OS MAUS ESTÃO.}{}{85}{}{ }
+{851}{Tá bom, tá bom. Como chego lá?}{}{-4}{}{860}{ }
+{860}{AQUI ESTÁ ASHBURY NO MAPA. VÁ ENCONTRAR O CAPITÃO TEACH. ELE TE LEVA.}{AQUI ESTÁ ASHBURY NO MAPA. VÁ ENCONTRAR O CAPITÃO TEACH. ELE TE LEVA.}{}{86}{}{mm 8, gf1008 1, qu1015 2, ru2018 }
+{861}{sim.}{}{-4}{}{0}{ }
+{870}{É MESMO?}{É MESMO?}{}{87}{}{ }
+{871}{Eu vou. Falar com o anão-chefe Log.}{}{-4}{}{880}{ }
+{880}{Faça isso.}{Faça isso.}{}{88}{}{ }
+{881}{Posso ganhar dinheiro?}{}{-4}{}{890}{ }
+{890}{Claro, por que não. Aqui está um pouco de ouro. Por favor, me deixe em paz.}{Claro, por que não. Aqui está um pouco de ouro. Por favor, me deixe em paz.}{}{89}{}{$$100 }
+{891}{Uhu! 100 moedas de ouro! Tchau.}{}{-4}{}{0}{ }
+{900}{Não tenho tempo para isso. Você realmente não tem nada importante para me dizer, não é?}{Não tenho tempo para isso. Você realmente não tem nada importante para me dizer, não é?}{}{90}{}{ }
+{901}{O Log não sabe de nada.}{}{-4}{}{910}{ }
+{910}{Como eu suspeitava. SAIA AGORA. TÁ BOM?}{Como eu suspeitava. SAIA AGORA. TÁ BOM?}{}{91}{}{ }
+{911}{dinheiro?}{}{-4}{}{915}{ }
+{915}{Aqui estão algumas moedas. Saia daqui.}{Aqui estão algumas moedas. Saia daqui.}{}{92}{}{$$50 }
+{916}{obrigado.}{}{-4}{}{0}{ }
+{920}{PELOS DEUSES, HOMEM, O QUE VOCÊ ESTÁ DIZENDO?}{PELOS DEUSES, MULHER, O QUE VOCÊ ESTÁ DIZENDO?}{}{93}{}{ }
+{921}{Não sei.}{}{-4}{}{925}{ }
+{925}{Obrigado, de verdade, você foi extremamente útil SEU IDIOTA DESGRAÇADO!!!!!}{Obrigado, de verdade, você foi extremamente útil SEU IDIOTA DESGRAÇADO!!!!!}{}{94}{}{ }
+{926}{Dinheiro? Eu me saí bem?}{}{-4}{}{930}{ }
+{927}{Você quis dizer... você morre agora.}{}{-4}{}{0}{fl  1050 ,co}
+{930}{Vou te dar essas moedas para nunca mais voltar aqui, tá bom?}{Vou te dar essas moedas para nunca mais voltar aqui, tá bom?}{}{95}{}{$$250 }
+{931}{TÁ BOM!}{}{-4}{}{0}{gf1011 1 }
+{940}{Que respostas você procura?}{Que respostas você procura?}{}{96}{}{ }
+{941}{Qual é a sua história? E quanto a este anel?}{}{5}{in 2804, ss 2}{-42}{qu1012 4 }
+{942}{Onde ficam as minas do Clã da Montanha Negra?}{}{5}{qb1013 2, qu1012 4}{960}{ }
+{943}{Como posso chegar à Ilha do Desespero?}{}{5}{qu1012 4, gf1007 1, qb1015 2}{965}{ }
+{944}{Qual é a sua história? E quanto ao seu anel que me foi dado?}{}{5}{ni 2804, ss 2}{-42}{qu1012 4 }
+{949}{Eu te liberto.}{}{5}{}{0}{ }
+{950}{Eu dei aquele anel para o Stennar da última vez que o vi. E agora nós dois estamos mortos.....}{Eu dei aquele anel para o Stennar da última vez que o vi. E agora nós dois estamos mortos.....}{}{97}{}{ }
+{951}{Onde ficam as minas do Clã da Montanha Negra?}{}{5}{qb1013 2, qu1012 4}{960}{ }
+{952}{Como posso chegar à Ilha do Desespero?}{}{5}{qu1012 4, gf1007 1, qu1015 1}{965}{ }
+{953}{E:}{}{5}{}{0}{ }
+{960}{O Clã da Montanha Negra foi marcado em seu mapa.}{O Clã da Montanha Negra foi marcado em seu mapa.}{}{98}{}{mm 7, ss 4, gf1024 1 }
+{961}{Como posso chegar à Ilha do Desespero?}{}{5}{qu1012 4, gf1007 1, qu1015 1}{965}{ }
+{962}{E:}{}{5}{}{0}{ }
+{965}{Capitão Edward Teach. Ashbury. Seu mapa foi marcado.}{Capitão Edward Teach. Ashbury. Seu mapa foi marcado.}{}{99}{}{mm 8, gf1008 1 }
+{966}{E:}{}{5}{}{0}{ }
+{970}{Isso... não pode ser. Que propósito possível isso poderia ter servido?}{Isso... não pode ser. Que propósito possível isso poderia ter servido?}{}{100}{}{ }
+{971}{Os elfos negros estavam esperando por qualquer desculpa para banir os anões.}{}{5}{}{1000}{ }
+{972}{Não sei. Bem, adeus.}{}{5}{}{980}{ }
+{980}{Você tem que me contar! Não pode simplesmente ir embora assim!}{Você tem que me contar! Não pode simplesmente ir embora assim!}{}{101}{}{ }
+{981}{Sinto muito, não tenho mais nada para lhe dizer.}{}{5}{}{0}{al -50 }
+{982}{Não posso? Corri por todo este continente para quê? Para nada!}{}{5}{}{990}{ }
+{983}{Os elfos negros estavam esperando por qualquer desculpa para banir os anões.}{}{5}{}{1000}{ }
+{990}{Você está louco! Não vou deixá-lo sair sem me contar por que tudo isso aconteceu!}{Você está louco! Não vou deixá-lo sair sem me contar por que tudo isso aconteceu!}{}{102}{}{ }
+{991}{Os elfos negros estavam esperando por qualquer desculpa para banir os anões.}{}{5}{}{1000}{ }
+{992}{Tente me impedir, velho.}{}{5}{}{0}{fl  1050 ,co}
+{1000}{Mas por quê?}{Mas por quê?}{}{103}{}{ }
+{1001}{[Conte-lhe toda a história.]}{}{5}{}{1010}{gf1011 1 }
+{1002}{Descubra por si mesmo, Ebeneezer. Tenha um bom dia.}{}{5}{}{0}{fl  1050 ,co}
+{1010}{E pensar que minha vida foi conduzida sob a sombra da culpa sem motivo algum, a não ser que se encaixava nas maquinações hediondas dos elfos negros. Preciso refletir sobre isso... mas aqui, por favor, aceite estas moedas por todo o seu trabalho.}{E pensar que minha vida foi conduzida sob a sombra da culpa sem motivo algum, a não ser que se encaixava nas maquinações hediondas dos elfos negros. Preciso refletir sobre isso... mas aqui, por favor, aceite estas moedas por todo o seu trabalho.}{}{104}{}{$$500 }
+{1011}{A:}{}{5}{}{0}{lf10 1 }
+{1020}{Longe de mim insultá-lo, vou apenas ficar com isso. Meu próximo insulto envolve ferimentos corporais. Seus.}{Longe de mim insultá-lo, vou apenas ficar com isso. Meu próximo insulto envolve ferimentos corporais. Seus.}{}{105}{}{re -15 }
+{1021}{Claro, por favor, aceite minhas desculpas. Aqui está o anel.}{}{5}{}{610}{in2804 }
+{1022}{Não, seu. Vamos começar a lutar.}{}{5}{}{0}{fl  1050 ,co}
+{1030}{Ousa, senhor? Devo ensiná-lo sobre a maneira adequada de se comportar na sociedade?}{Ousa, senhora? Devo ensiná-la sobre a maneira adequada de se comportar na sociedade?}{}{106}{}{ }
+{1031}{Não foi minha intenção soar tão duro quanto pode ter parecido.}{}{5}{ch 14}{510}{ }
+{1032}{Sou um tolo simplório. Por favor, tenha piedade da minha falta de cultura.}{}{5}{}{510}{ }
+{1033}{Por favor, tente me ensinar enquanto eu lhe dou uma lição de dor.}{}{5}{}{0}{fl  1050 ,co}
+{1035}{Eu nunca afirmei ter feito isso. Foi apenas suposição das pessoas. Inventei inúmeros dispositivos baseados em seus princípios, mas não inventei o primeiro.}{Eu nunca afirmei ter feito isso. Foi apenas suposição das pessoas. Inventei inúmeros dispositivos baseados em seus princípios, mas não inventei o primeiro.}{}{107}{}{ }
+{1036}{Isso não é desonesto? Receber crédito por algo que você não fez?}{}{5}{}{1038}{ }
+{1037}{O que você achou que aconteceria quando vendeu o motor?}{}{5}{}{1310}{ }
+{1038}{Sim, é, e isso me atormenta todos os dias. Eu era apenas uma criança quando os encapuzados me deram seus avisos terríveis, e fiquei apavorado. Eles foram explícitos em dizer que eu não deveria revelar as origens do motor a vapor.}{Sim, é, e isso me atormenta todos os dias. Eu era apenas uma criança quando os encapuzados me deram seus avisos terríveis, e fiquei apavorado. Eles foram explícitos em dizer que eu não deveria revelar as origens do motor a vapor.}{}{108}{}{ }
+{1039}{K:}{}{5}{}{1290}{ }
+{1040}{Sim, ser fabulosamente rico deve ser um fardo para você.}{}{5}{ch 14}{1042}{ }
+{1042}{Toda essa riqueza é um albatroz em meu pescoço. Todos os dias, me lembrando do erro hediondo da minha juventude.}{Toda essa riqueza é um albatroz em meu pescoço. Todos os dias, me lembrando do erro hediondo da minha juventude.}{}{109}{}{ }
+{1043}{K:}{}{5}{}{1290}{ }
+{1044}{Decidi explorar as minas do Clã Montanha Negra para você.}{}{5}{qu1014 2, qb1013 1}{470}{ }
+{1045}{Decidi explorar as minas do Clã Montanha Negra para você.}{}{5}{qb1014 1, qb1013 1}{470}{qu1013 2 }
+{1049}{Devo me retirar, bom senhor.}{}{5}{}{0}{ }
+{1050}{Chukka! Ataque!}{Chukka! Ataque!}{}{110}{}{ }
+{1051}{Recuso-me a falar com qualquer indivíduo nesse estado de nudez. Por favor, vista suas roupas.}{Recuso-me a falar com qualquer indivíduo nesse estado de nudez. Por favor, vista suas roupas.}{}{111}{}{ }
+{1052}{Não estou com disposição para os truques de seu feiticeiro. Não falarei com você até que cesse sua atividade mágica.}{Não estou com disposição para os truques de seu feiticeiro. Não falarei com você até que cesse sua atividade mágica.}{}{112}{}{ }
+{1053}{Quem deixou esse animal entrar aqui?}{Quem deixou esse animal entrar aqui?}{}{113}{}{ }
+{1054}{Agradeço por toda a sua ajuda. Desejo ficar sozinho para refletir sobre minha vida.}{Agradeço por toda a sua ajuda. Desejo ficar sozinho para refletir sobre minha vida.}{}{114}{}{ }
+{1055}{Appleby é um charlatão perturbado. Nós nos conhecemos desde que usávamos calças curtas, quando éramos realmente amigos. No entanto, à medida que comecei a patentear minhas invenções, ele se tornou cada vez mais hostil.}{Appleby é um charlatão perturbado. Nós nos conhecemos desde que usávamos calças curtas, quando éramos realmente amigos. No entanto, à medida que comecei a patentear minhas invenções, ele se tornou cada vez mais hostil.}{}{115}{}{ }
+{1056}{Por que isso?}{}{5}{}{1058}{ }
+{1058}{Ele sempre falava sobre como se tornaria um industrialista fabulosamente rico, mas não é muito inteligente. No início, era triste, mas nos últimos anos ele se tornou perigosamente desequilibrado.}{Ele sempre falava sobre como se tornaria um industrialista fabulosamente rico, mas não é muito inteligente. No início, era triste, mas nos últimos anos ele se tornou perigosamente desequilibrado.}{}{116}{}{ }
+{1059}{Sobre aquele trabalho de que você estava falando...}{}{5}{lf11 1}{120}{ }
+{1060}{Gostaria de perguntar sobre este anel.}{}{5}{in 2804, lf12 1}{10}{ }
+{1061}{Gostaria de falar com você sobre um anel. [Descreva o anel.]}{}{5}{ni 2804, lf12 1}{10}{ }
+{1062}{Bem, só queria avisá-lo. Adeus.}{}{5}{lf12 1}{0}{lf 1 1, re +10 }
+{1065}{Banido... pelos deuses... Eu fiz isso com eles. [Ele começa a chorar baixinho.] Sempre temi o pior...}{Banido... pelos deuses... Eu fiz isso com eles. [Ele começa a chorar baixinho.] Sempre temi o pior...}{}{117}{}{ }
+{1066}{Como você se envolveu com anões?}{}{5}{}{-42}{ }
+{1070}{Ora, você tem algo a esconder? Talvez o tenha roubado - diga-me, onde o conseguiu?}{Ora, você tem algo a esconder? Talvez o tenha roubado - diga-me, onde o conseguiu?}{}{118}{}{ }
+{1071}{Acalme-se, eu não o roubei. Como você o perdeu?}{}{5}{}{1075}{ }
+{1072}{Não aprecio suas acusações, velho.}{}{5}{}{1082}{re -5 }
+{1075}{Isso não é da sua conta. Pergunto-lhe pela última vez, onde conseguiu o anel?}{Isso não é da sua conta. Pergunto-lhe pela última vez, onde conseguiu o anel?}{}{119}{}{ }
+{1076}{Um gnomo me deu enquanto agonizava.}{}{5}{ra -5, ra -2}{20}{ }
+{1077}{Um sujeito de aparência estranha me deu.}{}{5}{ra 5}{30}{ }
+{1078}{Um gnomo de aparência estranha me deu enquanto agonizava.}{}{5}{ra 2}{30}{ }
+{1079}{Seria melhor tomar cuidado com o tom. Aqui quem faz as perguntas sou eu.}{}{5}{}{1082}{re -5 }
+{1082}{Vou ignorar sua falta de respeito desta vez - desde que me diga como obteve esse anel.}{Vou ignorar sua falta de respeito desta vez - desde que me diga como obteve esse anel.}{}{120}{}{ }
+{1083}{Um gnomo me deu enquanto agonizava.}{}{5}{ra -5, ra -2}{20}{ }
+{1084}{Um sujeito de aparência estranha me deu.}{}{5}{ra 5}{30}{ }
+{1085}{Um gnomo de aparência estranha me deu enquanto agonizava.}{}{5}{ra 2}{30}{ }
+{1086}{Vou arrancar sua arrogância à chibatada, cão.}{}{5}{}{0}{fl 1050 ,co}
+{1090}{É uma longa história, e que não lhe diz respeito. Basta dizer que deveria estar em posse de um anão.}{É uma longa história, e que não lhe diz respeito. Basta dizer que deveria estar em posse de um anão.}{}{121}{}{ }
+{1091}{Bem, não era um anão. Muito magro, e não tinha barba.}{}{5}{}{60}{ }
+{1095}{Stennar era um velho amigo meu... mas ele cortar a barba... pelos deuses! É impensável! [Ele faz uma pausa.] Mas, por favor, diga-me, ele disse algo a você antes de morrer? Disse algo sobre, hã... sobre mim?}{Stennar era um velho amigo meu... mas ele cortar a barba... pelos deuses! É impensável! [Ele faz uma pausa.] Mas, por favor, diga-me, ele disse algo a você antes de morrer? Disse algo sobre, hã... sobre mim?}{}{122}{}{ }
+{1096}{Ele disse que tinha escapado para nos avisar sobre o mal...}{}{5}{}{1330}{ }
+{1100}{Na verdade, não há muito, pois Chukka tende ao excesso de zelo na proteção da minha pessoa. Ele deixou o intruso sem vida antes que eu pudesse interrogá-lo. Tudo o que tinha consigo era um amuleto com o símbolo da Mão Molocheana, o olho no hexagrama.}{Na verdade, não há muito, pois Chukka tende a ser excessivamente zeloso na proteção da minha pessoa. Ele deixou o intruso sem vida antes que eu pudesse interrogá-lo. Tudo o que ele carregava era um amuleto com o símbolo da Mão Molocheana, o olho no hexagrama.}{}{123}{}{gf1085 1 }
+{1101}{A Mão Molocheana?}{}{5}{}{1110}{lf15 1 }
+{1110}{Eles eram uma ordem religiosa de assassinos há cerca de 500 anos. Rumores sobre sua existência contínua surgem periodicamente, mas geralmente são comprovados como farsas. Acho que se trata de um novo grupo tentando adotar parte do prestígio do nome.}{Eles eram uma ordem religiosa de assassinos há cerca de 500 anos. Rumores sobre sua existência contínua surgem periodicamente, mas geralmente são comprovados como farsas. Acho que se trata de um novo grupo tentando adotar parte do prestígio do nome.}{}{124}{}{ru2019 }
+{1111}{Parece que também estão atrás de mim.}{}{5}{gf1045 1}{1120}{ }
+{1112}{Bem, eu gostaria de perguntar sobre este anel.}{}{5}{in 2804,  lf13 0}{10}{lf13 1 }
+{1113}{Interessante. Eu gostaria de perguntar sobre um anel. [Descreva o anel.]}{}{5}{ni 2804,  lf13 0}{10}{lf13 1 }
+{1119}{E:}{}{5}{}{0}{ }
+{1120}{Esperemos, então, que sejam apenas pretensos ao nome, em benefício de nós dois. Eu detestaria ter os verdadeiros Molocheanos atrás do meu sangue.}{Esperemos, então, que sejam apenas pretensos ao nome, em benefício de nós dois. Eu detestaria ter os verdadeiros Molocheanos atrás do meu sangue.}{}{125}{}{ }
+{1121}{Bem, eu gostaria de perguntar sobre este anel.}{}{5}{in 2804,  lf13 0}{10}{lf13 1 }
+{1122}{Interessante. Eu gostaria de perguntar sobre um anel. [Descreva o anel.]}{}{5}{ni 2804,  lf13 0}{10}{lf13 1 }
+{1123}{K:}{}{5}{lf13 1}{1290}{ }
+{1124}{Por que você acha que eles tentaram nos matar?}{}{5}{lf13 1}{1380}{ }
+{1129}{Vou manter um olho atento, então. Tenha um bom dia.}{}{5}{}{0}{ }
+{1130}{Na verdade, não há muito, pois Chukka tende a ser excessivamente zeloso na proteção da minha pessoa. Ele deixou o intruso sem vida antes que eu pudesse interrogá-lo. Tudo o que ele carregava era um amuleto com o símbolo da Mão Molocheana, o olho no hexagrama.}{Na verdade, não há muito, pois Chukka tende a ser excessivamente zeloso na proteção da minha pessoa. Ele deixou o intruso sem vida antes que eu pudesse interrogá-lo. Tudo o que ele carregava era um amuleto com o símbolo da Mão Molocheana, o olho no hexagrama.}{}{126}{}{gf1085 1 }
+{1131}{A Mão Molocheana?}{}{5}{}{1140}{lf15 1 }
+{1140}{Eles eram uma ordem religiosa de assassinos há cerca de 500 anos. Rumores sobre sua existência contínua surgem periodicamente, mas geralmente são comprovados como farsas. Acho que se trata de um novo grupo tentando adotar parte do prestígio do nome.}{Eles eram uma ordem religiosa de assassinos há cerca de 500 anos. Rumores sobre sua existência contínua surgem periodicamente, mas geralmente são comprovados como farsas. Acho que se trata de um novo grupo tentando adotar parte do prestígio do nome.}{}{127}{}{ru2019 }
+{1141}{Parece que também estão atrás de mim.}{}{5}{gf1045 1}{1150}{ }
+{1144}{E:}{}{5}{}{0}{ }
+{1150}{Esperemos, então, que sejam apenas pretensos ao nome, em benefício de nós dois. Eu detestaria ter os verdadeiros Molocheanos atrás do meu sangue.}{Esperemos, então, que sejam apenas pretensos ao nome, em benefício de nós dois. Eu detestaria ter os verdadeiros Molocheanos atrás do meu sangue.}{}{128}{}{ }
+{1151}{Por que você acha que eles tentaram nos matar?}{}{5}{}{1380}{ }
+{1152}{K:}{}{5}{}{1290}{ }
+{1153}{Vou manter um olho atento, então. Tenha um bom dia.}{}{5}{}{0}{ }
+{1160}{Na verdade, não há muito, pois Chukka tende a ser excessivamente zeloso na proteção da minha pessoa. Ele deixou o intruso sem vida antes que eu pudesse interrogá-lo. Tudo o que ele carregava era um amuleto com o símbolo da Mão Molocheana, o olho no hexagrama.}{Na verdade, não há muito, pois Chukka tende a ser excessivamente zeloso na proteção da minha pessoa. Ele deixou o intruso sem vida antes que eu pudesse interrogá-lo. Tudo o que ele carregava era um amuleto com o símbolo da Mão Molocheana, o olho no hexagrama.}{}{129}{}{gf1085 1 }
+{1161}{A Mão Molocheana?}{}{5}{}{1170}{lf15 1 }
+{1170}{Eles eram uma ordem religiosa de assassinos há cerca de 500 anos. Rumores sobre sua existência contínua surgem periodicamente, mas geralmente são comprovados como farsas. Acho que se trata de um novo grupo tentando adotar parte do prestígio do nome.}{Eles eram uma ordem religiosa de assassinos há cerca de 500 anos. Rumores sobre sua existência contínua surgem periodicamente, mas geralmente são comprovados como farsas. Acho que se trata de um novo grupo tentando adotar parte do prestígio do nome.}{}{130}{}{ru2019 }
+{1171}{Parece que também estão atrás de mim.}{}{5}{gf1045 1}{1180}{ }
+{1174}{Interessante, mas precisamos falar sobre um anel. [Descreva o anel.]}{}{5}{ni 2804, lf13 0}{10}{lf13 1 }
+{1175}{Entendo. Mas, mais importante, Appleby me contratou para expô-lo.}{}{5}{qu1039 1, in 5202}{260}{re - 10 }
+{1176}{Entendo. Mais importante ainda, Appleby tentou me contratar para expô-lo.}{}{5}{qu1039 2}{260}{re - 10 }
+{1177}{Na verdade, estou aqui para avisá-lo de que Appleby está querendo arruiná-lo.}{}{5}{qu1039 1, gf1006 0, ni5202}{260}{gf1012 1 }
+{1178}{Interessante, mas estou aqui para falar sobre este anel. [Mostrar Anel.]}{}{5}{in 2804, lf13 0}{10}{lf3 1 }
+{1179}{Na verdade, estou aqui para avisá-lo de que Appleby está querendo arruiná-lo.}{}{5}{ gf1006 1}{290}{gf1012 1 }
+{1180}{Esperemos, em nome de nós dois, que sejam apenas impostores usando esse nome. Eu detestaria ter os verdadeiros Molocheanos atrás do meu sangue.}{Esperemos, em nome de nós dois, que sejam apenas impostores usando esse nome. Eu detestaria ter os verdadeiros Molocheanos atrás do meu sangue.}{}{131}{}{ }
+{1183}{Interessante, mas precisamos falar sobre um anel. [Descrever anel.]}{}{5}{ni 2804, lf13 0}{10}{lf13 1 }
+{1184}{Entendo. Mas, mais importante, Appleby me contratou para expô-lo.}{}{5}{qu1039 1, in 5202}{260}{re - 10 }
+{1185}{Entendo. Mais importante ainda, Appleby tentou me contratar para expô-lo.}{}{5}{qu1039 2}{260}{re - 10 }
+{1186}{Na verdade, estou aqui para avisá-lo de que Appleby está querendo arruiná-lo.}{}{5}{qu1039 1, gf1006 0, ni5202}{260}{gf1012 1 }
+{1187}{Interessante, mas estou aqui para falar sobre este anel. [Mostrar Anel.]}{}{5}{in 2804, lf13 0}{10}{lf3 1 }
+{1188}{Na verdade, estou aqui para avisá-lo de que Appleby está querendo arruiná-lo.}{}{5}{ gf1006 1}{290}{gf1012 1 }
+{1190}{Por que acha que tentaram nos matar?}{}{5}{lf13 1}{1380}{ }
+{1194}{Vou ficar de olho, então. Tenha um bom dia.}{}{5}{}{0}{ }
+{1195}{Não há muito, na verdade, pois Chukka tende a ser excessivamente zeloso na proteção da minha pessoa. Ele deixou o intruso sem vida antes que eu pudesse interrogá-lo. Tudo o que ele carregava era um amuleto com o símbolo da Mão Molocheana, o olho no hexagrama.}{Não há muito, na verdade, pois Chukka tende a ser excessivamente zeloso na proteção da minha pessoa. Ele deixou o intruso sem vida antes que eu pudesse interrogá-lo. Tudo o que ele carregava era um amuleto com o símbolo da Mão Molocheana, o olho no hexagrama.}{}{132}{}{gf1085 1 }
+{1196}{A Mão Molocheana?}{}{5}{}{1205}{lf15 1 }
+{1205}{Eles eram uma ordem religiosa de assassinos há cerca de 500 anos. Rumores de sua existência contínua surgem periodicamente, mas geralmente são comprovados como farsas. Acho que se trata de um novo grupo tentando adotar parte do prestígio do nome.}{Eles eram uma ordem religiosa de assassinos há cerca de 500 anos. Rumores de sua existência contínua surgem periodicamente, mas geralmente são comprovados como farsas. Acho que se trata de um novo grupo tentando adotar parte do prestígio do nome.}{}{133}{}{ru2019 }
+{1206}{Parece que também estão atrás de mim.}{}{5}{gf1045 1}{1215}{ }
+{1207}{Bem, eu gostaria de perguntar sobre este anel.}{}{5}{in 2804,  lf13 0}{10}{lf13 1 }
+{1208}{Interessante. Gostaria de perguntar sobre um anel. [Descrever o anel.]}{}{5}{ni 2804,  lf13 0}{10}{lf13 1 }
+{1209}{Qual é o seu envolvimento com o Clã da Montanha Negra?}{}{5}{gf1007 1}{360}{ }
+{1214}{E:}{}{5}{}{0}{ }
+{1215}{Esperemos, em nome de nós dois, que sejam apenas impostores usando esse nome. Eu detestaria ter os verdadeiros Molocheanos atrás do meu sangue.}{Esperemos, em nome de nós dois, que sejam apenas impostores usando esse nome. Eu detestaria ter os verdadeiros Molocheanos atrás do meu sangue.}{}{134}{}{ }
+{1216}{Bem, eu gostaria de perguntar sobre este anel.}{}{5}{in 2804,  lf13 0}{10}{lf13 1 }
+{1217}{Interessante. Gostaria de perguntar sobre um anel. [Descrever o anel.]}{}{5}{ni 2804,  lf13 0}{10}{lf13 1 }
+{1218}{Qual é o seu envolvimento com o Clã da Montanha Negra?}{}{5}{gf1007 1}{360}{ }
+{1223}{Por que acha que tentaram nos matar?}{}{5}{lf13 1}{1380}{ }
+{1224}{Vou manter um olhar atento, então. Tenha um bom dia.}{}{5}{}{0}{ }
+{1225}{Não há muito, na verdade, pois Chukka tende ao excesso de zelo na proteção da minha pessoa. Ele deixou o intruso sem vida antes que eu pudesse interrogá-lo. Tudo o que ele carregava era um amuleto com o símbolo da Mão Molocheana, o olho no hexagrama.}{Não há muito, na verdade, pois Chukka tende ao excesso de zelo na proteção da minha pessoa. Ele deixou o intruso sem vida antes que eu pudesse interrogá-lo. Tudo o que ele carregava era um amuleto com o símbolo da Mão Molocheana, o olho no hexagrama.}{}{135}{}{gf1085 1 }
+{1226}{A Mão Molocheana?}{}{5}{}{1235}{lf15 1 }
+{1235}{Eles eram uma ordem religiosa de assassinos há cerca de 500 anos. Rumores de sua existência contínua surgem periodicamente, mas geralmente são comprovados como fraudes. Acho que se trata de um novo grupo tentando adotar parte do prestígio do nome.}{Eles eram uma ordem religiosa de assassinos há cerca de 500 anos. Rumores de sua existência contínua surgem periodicamente, mas geralmente são comprovados como fraudes. Acho que se trata de um novo grupo tentando adotar parte do prestígio do nome.}{}{136}{}{gf1085 1, ru2019 }
+{1236}{Parece que eles também estão atrás de mim.}{}{5}{gf1045 1}{1240}{ }
+{1239}{Isso é muito interessante.}{}{5}{}{610}{ }
+{1240}{Esperemos, então, que sejam meros impostores do nome, em prol de nós dois. Eu detestaria ter os autênticos Molocheanos atrás do meu sangue.}{Esperemos, então, que sejam meros impostores do nome, em prol de nós dois. Eu detestaria ter os autênticos Molocheanos atrás do meu sangue.}{}{137}{}{ }
+{1244}{Vou manter um olhar atento, então.}{}{5}{}{610}{ }
+{1245}{Por que está me incomodando com isso de novo?}{Por que está me incomodando com isso de novo?}{}{138}{}{ }
+{1246}{Quero saber como você esteve envolvido com Stennar Cortador de Pedra.}{}{5}{}{1250}{ }
+{1247}{Perdoe minha intrusão. Tenha um bom dia.}{}{5}{}{0}{ }
+{1250}{Stennar? Eu o conheci quando era jovem. Na verdade, é uma história e tanto.}{Stennar? Eu o conheci quando era jovem. Na verdade, é uma história e tanto.}{}{139}{}{ }
+{1251}{Estou ouvindo.}{}{5}{}{-42}{ }
+{1252}{Devo pedir seu perdão e me retirar.}{}{5}{}{0}{ }
+{1260}{Essa, essa é uma história bem longa... uma história da minha vergonha, é.}{Essa, essa é uma história bem longa... uma história da minha vergonha, é.}{}{140}{}{ }
+{1261}{Estou ouvindo.}{}{5}{}{-42}{ru2017 }
+{1270}{Ele sabia que aquele anel daria veracidade à sua história. Eu dei aquele anel a Stennar na última vez em que o vi. E agora ele está morto... [Ele faz uma pausa por um momento, talvez para se recompor.] Se ao menos soubéssemos o que ele quis dizer com "o mal".}{Ele sabia que aquele anel daria veracidade à sua história. Eu dei aquele anel a Stennar na última vez em que o vi. E agora ele está morto... [Ele faz uma pausa por um momento, talvez para se recompor.] Se ao menos soubéssemos o que ele quis dizer com "o mal".}{}{141}{}{ }
+{1272}{Os Panarii acreditam que "o mal" se refere a alguém chamado Arronax.}{}{5}{gf2344 1}{1480}{ }
+{1273}{Conheci um acólito Panarii que achava que tinha algum significado religioso.}{}{5}{gf2004 1, gf2344 0, pa-6409}{1490}{ }
+{1274}{Virgil, aqui, acha que tem algo a ver com a religião dele.}{}{5}{gf2344 0, pa6409}{1490}{ }
+{1278}{O que podemos fazer agora?}{}{5}{gf1007 0, gf2004 0, gf2344 0, pa-6409}{1280}{ }
+{1279}{O que podemos fazer agora?}{}{5}{gf1007 1, gf2004 0, gf2344 0}{450}{ }
+{1280}{Deve haver alguma pista deixada nas minas da Montanha Negra, tenho certeza disso. Você parece ser uma pessoa engenhosa, estaria interessado em vasculhar as minas em busca de alguma pista sobre o paradeiro deles? Eu faria valer a pena, posso lhe assegurar.}{Deve haver alguma pista deixada nas minas da Montanha Negra, tenho certeza disso. Você parece ser uma pessoa engenhosa, estaria interessado em vasculhar as minas em busca de alguma pista sobre o paradeiro deles? Eu faria valer a pena, posso lhe assegurar.}{}{142}{}{ }
+{1281}{Também estou ansioso para resolver esse enigma. Aceito.}{}{5}{qb1014 1}{470}{qu1013 2 }
+{1282}{Eu também estou ansioso para resolver esse enigma. Aceito.}{}{5}{qu1014 2}{470}{ }
+{1283}{Gostaria de lhe fazer mais algumas perguntas antes de me comprometer.}{}{5}{qb1014 1}{1290}{qu1013 1 }
+{1284}{Gostaria de lhe fazer mais algumas perguntas antes de me comprometer.}{}{5}{qu1014 2}{1290}{ }
+{1288}{Isso me parece perigoso demais. Tenha um bom dia, senhor.}{}{5}{qu1014 2}{0}{ }
+{1289}{Isso me parece perigoso demais. Tenha um bom dia, senhor.}{}{5}{qb1014 1}{0}{qu1013 1 }
+{1290}{Claro. O que deseja me perguntar?}{Claro. O que deseja me perguntar?}{}{143}{}{ }
+{1291}{Você não inventou de fato a máquina a vapor?}{}{5}{}{1035}{ }
+{1292}{Por que a necessidade de impressionar os anões depois que eles o rejeitaram?}{}{5}{}{1320}{ }
+{1293}{O que pode me contar sobre a recente tentativa contra sua vida?}{}{5}{gf1028 1, lf15 0}{1130}{lf15 1 }
+{1294}{Por que acha que a Mão Molocheana tentou nos matar?}{}{5}{lf15 1}{1380}{ }
+{1295}{Pode me contar sobre o seu negócio?}{}{5}{}{1395}{ }
+{1307}{Decidi explorar as minas do Clã Montanha Negra para você.}{}{5}{qu1014 2, qb1013 1}{470}{ }
+{1308}{Decidi explorar as minas do Clã Montanha Negra para você.}{}{5}{qb1014 1, qb1013 1}{470}{qu1013 2 }
+{1309}{E:}{}{5}{}{0}{ }
+{1310}{Tal é o entusiasmo, ou talvez a impetuosidade, da juventude que não parei para considerar as consequências dos meus atos. Tudo o que eu via era uma maneira de ganhar o respeito dos anões. Era tudo o que importava.}{Tal é o entusiasmo, ou talvez a impetuosidade, da juventude que não parei para considerar as consequências dos meus atos. Tudo o que eu via era uma maneira de ganhar o respeito dos anões. Era tudo o que importava.}{}{144}{}{ }
+{1311}{Deve ser desconcertante receber tantos elogios pela máquina a vapor.}{}{5}{}{1038}{ }
+{1320}{Você não entende, eu... eu fui órfão ainda jovem. Os anões representavam tudo o que eu queria que minha família fosse - um clã unido. E o respeito que eu tinha pela sua genialidade com a tecnologia... Cometi o erro comum da juventude, achei que inteligência equivalia a compaixão. Eu precisava pertencer, encontrar algum valor em mim.}{Você não entende, eu... eu fui órfão ainda jovem. Os anões representavam tudo o que eu queria que minha família fosse - um clã unido. E o respeito que eu tinha pela sua genialidade com a tecnologia... Cometi o erro comum da juventude, achei que inteligência equivalia a compaixão. Eu precisava pertencer, encontrar algum valor em mim.}{}{145}{}{ }
+{1321}{Você foi órfão? O que aconteceu?}{}{5}{}{1350}{ }
+{1322}{K:}{}{5}{}{1290}{ }
+{1329}{Devo me retirar, bom senhor.}{}{5}{}{0}{ }
+{1330}{O mal? Que mal? E de onde ele escapou?}{O mal? Que mal? E de onde ele escapou?}{}{146}{}{ }
+{1331}{Ele não disse. Eu esperava que você soubesse o que isso significava.}{}{5}{}{1340}{ }
+{1340}{Algo horrível deve ter acontecido depois que eu... depois que eu... [Sua voz some. Ele está obviamente muito abalado para continuar.] Ele... ele disse mais alguma coisa?}{Algo horrível deve ter acontecido depois que eu... depois que eu... [Sua voz some. Ele está obviamente muito abalado para continuar.] Ele... ele disse mais alguma coisa?}{}{147}{}{ }
+{1341}{Ele se referiu a você como um garoto. Por que faria isso?}{}{5}{}{90}{ }
+{1350}{Minha mãe morreu ao me trazer a este mundo. Acredito que meu pai também morreu então, embora tenha continuado a existir por mais oito anos. Quando não pôde mais suportar viver, tirou a própria vida.}{Minha mãe morreu ao me trazer a este mundo. Acredito que meu pai também morreu então, embora tenha continuado a existir por mais oito anos. Quando não pôde mais suportar viver, tirou a própria vida.}{}{148}{}{ }
+{1351}{Mas abandoná-lo assim...}{}{5}{}{1360}{ }
+{1360}{Ele me deixou decentemente provido, e com sua percepção da realidade se tornando mais tênue a cada dia, acredito que ele sentiu que eu estaria mais seguro sob os cuidados de outros. [Ele balança a cabeça, tristemente.] A última coisa que ele fez nesta vida foi me dar aquele anel.}{Ele me deixou decentemente provido, e com sua percepção da realidade se tornando mais tênue a cada dia, acredito que ele sentiu que eu estaria mais seguro sob os cuidados de outros. [Ele balança a cabeça, tristemente.] A última coisa que ele fez nesta vida foi me dar aquele anel.}{}{149}{}{ }
+{1361}{E então você o deu para Stennar?}{}{5}{}{1370}{ }
+{1362}{Isso é muito triste. Decidi explorar o Clã da Montanha Negra por você, senhor.}{}{5}{qu1014 2, qb1013 1}{470}{ }
+{1363}{Isso é muito triste. Decidi explorar o Clã da Montanha Negra por você, senhor.}{}{5}{qb1014 1, qb1013 1}{470}{qu1013 2 }
+{1370}{Foi o quanto a amizade dele significou para mim. Fiquei arrasado quando ele desapareceu com o resto do clã. Acredito que me senti mais abandonado e sozinho naquela época do que quando meu pai se matou.}{Foi o quanto a amizade dele significou para mim. Fiquei arrasado quando ele desapareceu com o resto do clã. Acredito que me senti mais abandonado e sozinho naquela época do que quando meu pai se matou.}{}{150}{}{ }
+{1371}{K:}{}{5}{}{1290}{ }
+{1379}{Devo me retirar, bom senhor.}{}{5}{}{0}{ }
+{1380}{Eu não sei. Mas estou começando a acreditar que eles estão por trás da morte de Stennar. Tudo isso parece apontar para o meu envolvimento com o Clã da Montanha Negra, não é? É por isso que sinto que é imperativo descobrir o destino deles. Nossas vidas parecem depender disso, na verdade.}{Eu não sei. Mas estou começando a acreditar que eles estão por trás da morte de Stennar. Tudo isso parece apontar para o meu envolvimento com o Clã da Montanha Negra, não é? É por isso que sinto que é imperativo descobrir o destino deles. Nossas vidas parecem depender disso, na verdade.}{}{151}{}{ }
+{1381}{K:}{}{5}{}{1290}{ }
+{1382}{Algumas de nossas vidas mais do que outras, hein?}{}{5}{}{1390}{ }
+{1389}{E:}{}{5}{}{0}{ }
+{1390}{[Ele olha para seu enorme guarda-costas.] Sim, parece que estou bem protegido aqui, mas quanto mais funcionários alguém tem, mais fácil é para um deles ser subornado ou substituído por um assassino. Além disso, minha notoriedade me mantém prisioneiro dentro da minha casa. Eles sempre saberão onde me procurar. Você, por outro lado, pode se misturar à multidão, por assim dizer.}{[Ele olha para seu enorme guarda-costas.] Sim, parece que estou bem protegido aqui, mas quanto mais funcionários alguém tem, mais fácil é para um deles ser subornado ou substituído por um assassino. Além disso, minha notoriedade me mantém prisioneiro dentro da minha casa. Eles sempre saberão onde me procurar. Você, por outro lado, pode se misturar à multidão, por assim dizer.}{}{152}{}{ }
+{1391}{K:}{}{5}{}{1290}{ }
+{1394}{E:}{}{5}{}{0}{ }
+{1395}{Bem, como você sabe, sou o principal fabricante de motores a vapor em Arcanum, praticamente sem concorrência. Na verdade, estou trabalhando em um protótipo para um motor menor e mais eficiente neste momento. Também tenho vários interesses em outras empreitadas tecnológicas.}{Bem, como você sabe, sou o principal fabricante de motores a vapor em Arcanum, praticamente sem concorrência. Na verdade, estou trabalhando em um protótipo para um motor menor e mais eficiente neste momento. Também tenho vários interesses em outras empreitadas tecnológicas.}{}{153}{}{ }
+{1396}{Como você devastou sua concorrência assim?}{}{5}{}{1405}{ }
+{1397}{Você tem alguma dificuldade trabalhista em suas fábricas?}{}{5}{ra7}{1430}{re-5 }
+{1398}{Você tem alguma dificuldade trabalhista em suas fábricas?}{}{5}{ra-7}{1460}{ }
+{1399}{K:}{}{5}{}{1290}{ }
+{1404}{E:}{}{5}{}{0}{ }
+{1405}{Não é uma grande conquista quando o velho Cedric Appleby é seu principal concorrente. Pobre Cedric. Sempre foi um pouco desastrado. Eu realmente gostaria de tê-lo convencido a vir trabalhar para mim...}{Não é uma grande conquista quando o velho Cedric Appleby é seu principal concorrente. Pobre Cedric. Sempre foi um pouco desastrado. Eu realmente gostaria de tê-lo convencido a vir trabalhar para mim...}{}{154}{}{ }
+{1406}{Por quê? Quero dizer, se ele é tão idiota assim?}{}{5}{}{1410}{ }
+{1407}{K:}{}{5}{}{1290}{ }
+{1409}{E:}{}{5}{}{0}{ }
+{1410}{Cedric e eu éramos amigos próximos quando éramos crianças. Ele ficou furioso porque eu não o apresentei aos anões... consegue imaginar? Eu já tinha dificuldade suficiente para ganhar o respeito deles sem a sua simplicidade mental. Depois que eu "inventei" o motor a vapor, ele começou a me desprezar. Estranhamente, às vezes ainda desejo que ele fosse meu amigo.}{Cedric e eu éramos amigos próximos quando éramos crianças. Ele ficou furioso porque eu não o apresentei aos anões... consegue imaginar? Eu já tinha dificuldade suficiente para ganhar o respeito deles sem a sua simplicidade mental. Depois que eu "inventei" o motor a vapor, ele começou a me desprezar. Estranhamente, às vezes ainda desejo que ele fosse meu amigo.}{}{155}{}{ }
+{1411}{Appleby tentou me contratar para roubar algo e expor você.}{}{5}{qa1039 1, gf1012 0}{1420}{gf1012 1 }
+{1414}{K:}{}{5}{}{1290}{ }
+{1419}{E:}{}{5}{}{0}{ }
+{1420}{Cedric, seu bastardo! Estou cansado de seus jogos... infelizmente, acho que é hora de alguém fazer uma visita a ele, antes que ele finalmente tenha coragem de começar a contratar pessoas para me matar.}{Cedric, seu bastardo! Estou cansado de seus jogos... infelizmente, acho que é hora de alguém fazer uma visita a ele, antes que ele finalmente tenha coragem de começar a contratar pessoas para me matar.}{}{156}{}{ }
+{1421}{Você tem alguma dificuldade trabalhista em suas fábricas?}{}{5}{ra7}{1430}{re-5 }
+{1422}{Você tem alguma dificuldade trabalhista em suas fábricas?}{}{5}{ra-7}{1460}{ }
+{1423}{K:}{}{5}{}{1290}{ }
+{1429}{E:}{}{5}{}{0}{ }
+{1430}{[Ele olha para você com desconfiança.] Por que pergunta, [ele faz uma pausa para efeito]... meio-orque? Você não é um simpatizante dos trabalhadores, é? Um "sindicalista", talvez? Posso assegurar-lhe que meus trabalhadores estão felizes por terem os empregos que lhes dou. Trato seu povo melhor do que qualquer outro dono de fábrica, disso posso lhe assegurar.}{[Ele olha para você com desconfiança.] Por que pergunta, [ele faz uma pausa para efeito]... meio-orque? Você não é um simpatizante dos trabalhadores, é? Um "sindicalista", talvez? Posso assegurar-lhe que meus trabalhadores estão felizes por terem os empregos que lhes dou. Trato seu povo melhor do que qualquer outro dono de fábrica, disso posso lhe assegurar.}{}{157}{}{ }
+{1431}{Não tive a intenção de insinuar nada, senhor. Apenas curioso.}{}{5}{}{1440}{re+5 }
+{1432}{Tenho certeza de que o senhor acredita nisso, seu opressor racista.}{}{5}{}{1450}{re-10 }
+{1433}{K:}{}{5}{}{1290}{ }
+{1439}{E:}{}{5}{}{0}{ }
+{1440}{Sim, consigo entender isso, com toda essa conversa sobre dificuldades trabalhistas e protestos em todos os jornais. Mas, em resposta à sua pergunta original, acredito que tenho sorte por ter sido poupado de muitos dos problemas que outros têm enfrentado com seus trabalhadores. Acredito que seja porque trato meus trabalhadores melhor do que a maioria. Ora, suas condições de trabalho são quase humanas.}{Sim, consigo entender isso, com toda essa conversa sobre dificuldades trabalhistas e protestos em todos os jornais. Mas, em resposta à sua pergunta original, acredito que tenho sorte por ter sido poupado de muitos dos problemas que outros têm enfrentado com seus trabalhadores. Acredito que seja porque trato meus trabalhadores melhor do que a maioria. Ora, suas condições de trabalho são quase humanas.}{}{158}{}{ }
+{1441}{K:}{}{5}{}{1290}{ }
+{1442}{Não aguento mais sua pomposidade! Morte à burguesia!}{}{5}{}{0}{fl 1050 ,co}
+{1449}{E:}{}{5}{}{0}{ }
+{1450}{Como ousa, senhor! Não permitirei que agitadores trabalhistas subumanos me insultem em minha própria casa!}{Como ousa, madame! Não permitirei que agitadores trabalhistas subumanos me insultem em minha própria casa!}{}{159}{}{ }
+{1451}{Peço desculpas. Subumanos como eu são propensos a explosões.}{}{5}{}{1455}{re+10 }
+{1452}{Não aguento mais sua pomposidade! Morte à burguesia!}{}{5}{}{0}{fl 1050 ,co}
+{1455}{Sim, sim, isso é verdade. As raças inferiores são desprovidas de moderação. Suponho que suas deficiências raciais não sejam culpa sua.}{Sim, sim, isso é verdade. As raças inferiores são desprovidas de moderação. Suponho que suas deficiências raciais não sejam culpa sua.}{}{160}{}{ }
+{1456}{Devo dar um exemplo com seu couro burguês, porco!}{}{5}{}{0}{fl 1050 ,co}
+{1457}{K:}{}{5}{}{1290}{ }
+{1459}{E:}{}{5}{}{0}{ }
+{1460}{[Ele olha para você com desconfiança.] Por que pergunta? Você não é um simpatizante dos trabalhadores, é? Um "sindicalista", talvez? Posso assegurar-lhe que meus trabalhadores estão felizes por terem os empregos que lhes dou. Trato todos os orcs, de sangue puro e mestiços, melhor do que qualquer outro dono de fábrica. Disso posso assegurar-lhe.}{[Ele olha para você com desconfiança.] Por que pergunta? Você não é um simpatizante dos trabalhadores, é? Um "sindicalista", talvez? Posso assegurar-lhe que meus trabalhadores estão felizes por terem os empregos que lhes dou. Trato todos os orcs, de sangue puro e mestiços, melhor do que qualquer outro dono de fábrica. Disso posso assegurar-lhe.}{}{161}{}{ }
+{1461}{Não tive a intenção de insinuar nada, senhor. Apenas curioso.}{}{5}{}{1440}{re+5 }
+{1462}{Tenho certeza de que o senhor acredita nisso, seu opressor racista.}{}{5}{}{1470}{re-10 }
+{1463}{K:}{}{5}{}{1290}{ }
+{1469}{E:}{}{5}{}{0}{ }
+{1470}{Como ousa! Não permitirei que agitadores trabalhistas me insultem em minha própria casa!}{Como ousa! Não permitirei que agitadores trabalhistas me insultem em minha própria casa!}{}{162}{}{ }
+{1471}{Peço desculpas, senhor. Minha explosão foi desnecessária.}{}{5}{}{1475}{ }
+{1472}{Não aguento mais sua pomposidade! Morte à burguesia!}{}{5}{}{0}{fl 1050 ,co}
+{1475}{Suponho que possa perdoar sua rudeza, desta vez.}{Suponho que possa perdoar sua rudeza, desta vez.}{}{163}{}{ }
+{1476}{K:}{}{5}{}{1290}{ }
+{1479}{Agradeço sua generosidade, senhor. Mas já devo ir. Tenha um bom dia.}{}{5}{}{0}{ }
+{1480}{Não dou muita importância a divagações religiosas. Estou mais preocupado com quem matou Stennar, e por quê, e o que tudo isso tem a ver com meu relacionamento com o Clã da Montanha Negra.}{Não dou muita importância a divagações religiosas. Estou mais preocupado com quem matou Stennar, e por quê, e o que tudo isso tem a ver com meu relacionamento com o Clã da Montanha Negra.}{}{164}{}{ }
+{1481}{Então, o que deve ser feito agora?}{}{5}{gf1007 1}{450}{ }
+{1482}{Então, o que deve ser feito agora?}{}{5}{gf1007 0}{1280}{ }
+{1490}{Eu mesmo não dou muita importância a divagações religiosas. Mas se acredita que isso pode ajudá-lo a obter mais informações sobre os Panarii, deveria ir ao templo deles na extremidade norte do Círculo da Cabeça de Leão. Estou mais preocupado com quem matou Stennar, e por quê, e o que tudo isso tem a ver com meu relacionamento com o Clã da Montanha Negra.}{Eu mesmo não dou muita importância a divagações religiosas. Mas se acredita que isso pode ajudá-lo a obter mais informações sobre os Panarii, deveria ir ao templo deles na extremidade norte do Círculo da Cabeça de Leão. Estou mais preocupado com quem matou Stennar, e por quê, e o que tudo isso tem a ver com meu relacionamento com o Clã da Montanha Negra.}{}{165}{}{ru2154 }
+{1491}{Então, o que deve ser feito agora?}{}{5}{gf1007 1}{450}{ }
+{1492}{E então, o que deve ser feito agora?}{}{5}{gf1007 0}{1280}{ }
+{1500}{É irônico que meu maior erro seja justamente o que me trouxe tanta riqueza. Quando jovem, eu era fascinado por tudo relacionado aos anões, então procurei o clã mais próximo e tentei impressioná-los com meu entendimento de sua tecnologia. Eles riram.}{É irônico que meu maior erro seja justamente o que me trouxe tanta riqueza. Quando jovem, eu era fascinado por tudo relacionado aos anões, então procurei o clã mais próximo e tentei impressioná-los com meu entendimento de sua tecnologia. Eles riram.}{}{166}{}{ }
+{1501}{[Continue]}{}{1}{}{1502}{ }
+{1502}{Para eles, era obviamente uma novidade, um humano ridículo que tinha uma inclinação natural para a tecnologia. Suponho que não ajudou o fato de eu ter apenas 14 anos na época. Acabei me tornando algo com que eles se divertiam para passar o tempo.}{Para eles, era obviamente uma novidade, um humano ridículo que tinha uma inclinação natural para a tecnologia. Suponho que não ajudou o fato de eu ter apenas 14 anos na época. Acabei me tornando algo com que eles se divertiam para passar o tempo.}{}{167}{}{ }
+{1503}{[Continue]}{}{1}{}{1504}{ }
+{1504}{Stennar foi o único que realmente me chamou de amigo durante todos aqueles anos, e foi com traição que paguei sua amizade. Foi ele quem me mostrou pela primeira vez a máquina a vapor deles, pois sabia que eu poderia apreciar as belas complexidades de seu design.}{Stennar foi o único que realmente me chamou de amigo durante todos aqueles anos, e foi com traição que paguei sua amizade. Foi ele quem me mostrou pela primeira vez a máquina a vapor deles, pois sabia que eu poderia apreciar as belas complexidades de seu design.}{}{168}{}{ }
+{1505}{[Continue]}{}{1}{}{1506}{ }
+{1506}{Eles a haviam deixado enferrujar em um canto, pois tinham pouca utilidade para um dispositivo que reduziria a necessidade de força física bruta. Imagine um anão confiando em um aparelho para fazer sua escavação por ele! É um absurdo.}{Eles a haviam deixado enferrujar em um canto, pois tinham pouca utilidade para um dispositivo que reduziria a necessidade de força física bruta. Imagine um anão confiando em um aparelho para fazer sua escavação por ele! É um absurdo.}{}{169}{}{ }
+{1507}{[Continue]}{}{1}{}{1508}{ }
+{1508}{Perguntei a ele se podia mexer nela, talvez melhorá-la, pois eu sabia que essa era a chave para me tornar verdadeiramente parte do mundo dos anões. Rapidamente, idealizei uma maneira de usá-la para alimentar uma bomba de drenagem para as minas.}{Perguntei a ele se podia mexer nela, talvez melhorá-la, pois eu sabia que essa era a chave para me tornar verdadeiramente parte do mundo dos anões. Rapidamente, idealizei uma maneira de usá-la para alimentar uma bomba de drenagem para as minas.}{}{170}{}{ }
+{1509}{[Continue]}{}{1}{}{1510}{ }
+{1510}{Quando eu me atrapalhei todo tentando explicar para eles, mais uma vez, risos foram sua única resposta. Eu sabia que precisava de alguma forma ganhar o respeito deles, então rapidamente esbocei alguns esquemas e parti para provar minha teoria.}{Quando eu me atrapalhei todo tentando explicar para eles, mais uma vez, risos foram sua única resposta. Eu sabia que precisava de alguma forma ganhar o respeito deles, então rapidamente esbocei alguns esquemas e parti para provar minha teoria.}{}{171}{}{ }
+{1511}{[Continue]}{}{1}{}{1512}{ }
+{1512}{A empresa de mineração humana em dificuldades para a qual levei os planos me ofereceu uma participação em suas minas pela bomba a vapor! Fiquei eufórico - não me importava com as minas ou com o dinheiro, eu desejava vingança!}{A empresa de mineração humana em dificuldades para a qual levei os planos me ofereceu uma participação em suas minas pela bomba a vapor! Fiquei eufórico - não me importava com as minas ou com o dinheiro, eu desejava vingança!}{}{172}{}{ }
+{1513}{[Continue]}{}{1}{}{1514}{ }
+{1514}{Quando voltei aos anões para me gabar de minhas realizações e ser aceito em seu clã... eles haviam sumido. As invenções vieram rapidamente depois disso, alimentadas pela minha raiva e confusão.}{Quando voltei aos anões para me gabar de minhas realizações e ser aceito em seu clã... eles haviam sumido. As invenções vieram rapidamente depois disso, alimentadas pela minha raiva e confusão.}{}{173}{}{ }
+{1515}{[Continue]}{}{1}{}{1516}{ }
+{1516}{Como puderam me negar um lugar entre eles depois de todo o meu esforço? De alguma forma, senti que ainda podia provar meu valor para eles. Continuei procurando por eles em todos os meus momentos livres, mas sem sucesso. Até que, então, eles vieram - os encapuzados.}{Como puderam me negar um lugar entre eles depois de todo o meu esforço? De alguma forma, senti que ainda podia provar meu valor para eles. Continuei procurando por eles em todos os meus momentos livres, mas sem sucesso. Até que, então, eles vieram - os encapuzados.}{}{174}{}{ }
+{1517}{[Continue]}{}{1}{}{1518}{ }
+{1518}{Eles apareceram para mim tarde da noite e me advertiram a nunca mais falar dos anões, nem tentar encontrá-los novamente. Ainda sendo apenas um garoto, você pode imaginar o terror que isso me causou. Conforme minha riqueza e poder cresceram, superei parte do meu medo juvenil e contratei o primeiro de uma longa série de investigadores para localizar Stennar e seu clã.}{Eles apareceram para mim tarde da noite e me advertiram a nunca mais falar dos anões, nem tentar encontrá-los novamente. Ainda sendo apenas um garoto, você pode imaginar o terror que isso me causou. Conforme minha riqueza e poder cresceram, superei parte do meu medo juvenil e contratei o primeiro de uma longa série de investigadores para localizar Stennar e seu clã.}{}{175}{}{ }
+{1519}{[Continuar]}{}{1}{}{-46}{ }
+

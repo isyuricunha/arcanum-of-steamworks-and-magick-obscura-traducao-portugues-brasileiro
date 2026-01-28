@@ -1,0 +1,186 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá, bom ogro. Posso saber quem é você?}{}{5}{me 0, re 41}{27}{}
+{3}{Olá, Sogg. Posso incomodá-lo por um momento?}{}{5}{me 1, re 41}{41}{}
+{4}{Com licença, bom ogro? Por que palavras tão duras?}{}{5}{me 0, re -40}{11}{}
+{5}{Sogg! Fiz algo para ofendê-lo?}{}{5}{me 1, re -40}{11}{}
+{7}{Oi! Quem é você?}{}{-4}{me 0}{27}{}
+{8}{Ei, Soggy! Você fala comigo...?}{}{-4}{me 1}{41}{}
+{9}{E:}{}{1}{}{0}{}
+{11}{[O ogro olha para você com raiva através de olhos semicerrados e injetados de sangue.] Eu só não [HIC!] gosto muito de você, forasteiro. Sugiro que me deixe em paz e vá cuidar da sua vida....}{[O ogro olha para você com raiva através de olhos semicerrados e injetados de sangue.] Eu só não [HIC!] gosto muito de você, moça. Sugiro que me deixe em paz e vá cuidar da sua vida....}{}{}{}{}
+{12}{Senhor! Por favor! Talvez eu pudesse, hã, lhe pagar uma bebida...?}{}{5}{me 0}{23}{re +10}
+{13}{Sogg! Você não lembra? Eu ia lhe pagar aquela bebida...}{}{5}{me 1}{23}{re +10}
+{14}{Não aceitarei esse tipo de tratamento do bêbado da cidade...}{}{5}{}{16}{re -5}
+{15}{E:}{}{5}{}{0}{}
+{16}{Hã? Quem você está chamando de bêbado? [O ogro se vira para você, balançando pesadamente, seus olhos tentando focar. Saliva voa de sua boca enquanto ele grita.] Eu não sou bêbado! Eu aguento minha cerveja tanto quanto [HIC!] o próximo homem. Está procurando [HIC!] encrenca, forasteiro?}{Hã? Quem você está chamando de bêbada? [O ogro se vira para você, balançando pesadamente, seus olhos tentando focar. Saliva voa de sua boca enquanto ele grita.] Eu não sou bêbada! Eu aguento minha cerveja tanto quanto [HIC!] o próximo homem. Está procurando [HIC!] encrenca, moça?}{}{}{}{}
+{17}{Não, de forma alguma. Hã, talvez eu pudesse lhe pagar uma bebida?}{}{5}{}{23}{re +10}
+{18}{Você selou seu destino hoje, beberrão...}{}{5}{ra -8}{}{co, fl 21}
+{19}{Você é uma vergonha para a nossa herança ogra, esponja de cerveja...}{}{5}{ra 8}{}{co, fl 21}
+{20}{E:}{}{5}{}{0}{}
+{21}{[O ogro ruge ininteligivelmente e ataca você.]}{[O ogro ruge ininteligivelmente e ataca você.]}{}{}{}{}
+{23}{[A testa do ogro se desfranze, e ele sorri estupidamente.] Agora você está falando a minha língua, parceiro! Claro, pode me pagar uma bebida! Você não é um mau sujeito [HIC!] afinal!}{[A testa do ogro se desfranze, e ele sorri estupidamente.] Agora você está falando a minha língua, moça! Claro, pode me pagar uma bebida! Você não é uma má garota [HIC!] afinal!}{}{}{}{}
+{24}{Sim, vamos tratar disso em um momento... posso saber quem é você?}{}{5}{me 0}{27}{re +5}
+{25}{É melhor assim, Sogg. Vamos conversar por um momento...}{}{5}{me 1}{41}{}
+{26}{E:}{}{5}{}{0}{}
+{27}{Eu? [O ogro pousa seu copo de cerveja, estufando o peito. Pateticamente.] Eu sou Sogg Caneca de Hidromel!}{Eu? [O ogro pousa seu copo de cerveja, estufando o peito. Pateticamente.] Eu sou Sogg Caneca de Hidromel!}{}{}{}{}
+{28}{'Caneca de Hidromel'? Me desculpe, esse é o nome da sua família?}{}{5}{}{35}{}
+{29}{Prazer em conhecê-lo, Sogg. Posso lhe fazer algumas perguntas?}{}{5}{}{41}{}
+{31}{Hã... 'Caneca de Hidromel'? Esse é o seu nome?}{}{-4}{}{35}{}
+{32}{Oi, Sogg! Posso te fazer algumas perguntas?}{}{-4}{}{41}{}
+{33}{E:}{}{1}{}{0}{}
+{35}{Claro! Você não sabe nada [HIC!] sobre nomes de ogros, forasteiro? Nomes de ogros contam sobre a pessoa ou a família que os tem. [Sogg desvia o olhar, parecendo um pouco confuso.] Pensando bem, talvez esse [HIC!] não seja meu nome verdadeiro. Mas é como as pessoas me chamam por aqui...}{Claro! Você não sabe nada [HIC!] sobre nomes de ogros, mulher? Nomes de ogros contam sobre a pessoa ou a família que os tem. [Sogg desvia o olhar, parecendo um pouco confuso.] Pensando bem, talvez esse [HIC!] não seja meu nome verdadeiro. Mas é como as pessoas me chamam por aqui...}{}{}{}{}
+{36}{K:}{}{1}{}{41}{}
+{37}{E:}{}{1}{}{0}{}
+{41}{Claro. O que você [HIC!] quer saber?}{Claro. O que você [HIC!] quer saber?}{}{}{}{}
+{42}{O que você está fazendo aqui em Shrouded Hills?}{}{5}{}{51}{}
+{43}{O que pode me contar sobre este lugar?}{}{5}{}{60}{}
+{44}{Tem certeza de que não vai me acompanhar, Sogg? Estou querendo sair da cidade...}{}{5}{lf1 1, ch 9}{68}{jo 0 73}
+{45}{Tem certeza de que não vai me acompanhar, Sogg? Estou querendo sair da cidade...}{}{5}{lf1 1, ch -8}{76}{}
+{46}{Hã... o que você faz em Shrouded Hills, Soggy?}{}{-4}{}{51}{}
+{47}{O que você sabe sobre este lugar?}{}{-4}{}{60}{}
+{48}{Que tal me acompanhar, Soggy! Quero sair da cidade...!}{}{-4}{lf1 1, ch 9}{68}{jo 0 73}
+{49}{Que tal me acompanhar, Soggy! Quero sair da cidade...!}{}{-4}{lf1 1, ch -8}{76}{}
+{50}{E:}{}{1}{}{0}{}
+{51}{Eu? Ah, não muito. Faço uns bicos, ganho umas moedas quando [HIC!] preciso. Na maior parte do tempo, fico aqui nesta ótima estalagem! Te digo, camarada, [HIC!] já estive em quase todas as estalagens e tavernas de Arcanum, e acho que esta [HIC!] é a minha favorita!}{Eu? Ah, não muito. Faço uns bicos, ganho umas moedas quando [HIC!] preciso. Na maior parte do tempo, fico aqui nesta ótima estalagem! Te digo, moça, [HIC!] já estive em quase todas as estalagens e tavernas de Arcanum, e acho que esta [HIC!] é a minha favorita!}{}{}{}{}
+{52}{Entendo. O que você pode me contar sobre Shrouded Hills?}{}{5}{}{60}{}
+{53}{Por que não me acompanha? Eu poderia usar sua experiência com tavernas...}{}{5}{lf1 1, ch 9}{68}{jo 0 73}
+{54}{Por que não me acompanha? Eu poderia usar sua experiência com tavernas...}{}{5}{lf1 1, ch -8}{76}{}
+{55}{O que você sabe sobre este lugar?}{}{-4}{}{60}{}
+{56}{Que tal me acompanhar! Vamos sair daqui juntos!}{}{-4}{lf1 1, ch 9}{68}{jo 0 73}
+{57}{Que tal me acompanhar! Vamos sair daqui juntos!}{}{-4}{lf1 1, ch -8}{76}{}
+{58}{K:}{}{1}{}{41}{}
+{59}{E:}{}{1}{}{0}{}
+{60}{Shrouded [HIC!] Hills? Não é um mau lugar, um pouco chato... [Ele balança um pouco. Parece prestes a cair no sono.] Não dá pra ir a lugar nenhum agora, no entanto. Tem uns ladrões desgraçados na ponte que não deixam ninguém [HIC!] sair da cidade! Cobrando uma taxa desgraçada, e eu não tenho dinheiro...}{Shrouded [HIC!] Hills? Não é um mau lugar, um pouco chato... [Ele balança um pouco. Parece prestes a cair no sono.] Não dá pra ir a lugar nenhum agora, no entanto. Tem uns ladrões desgraçados na ponte que não deixam ninguém [HIC!] sair da cidade! Cobrando uma taxa desgraçada, e eu não tenho dinheiro...}{}{}{}{lf1 1}
+{61}{Talvez você devesse me acompanhar. Estou querendo sair da cidade...}{}{5}{ch 9}{68}{jo 0 73}
+{62}{Talvez você devesse me acompanhar. Estou querendo sair da cidade...}{}{5}{ch -8}{76}{}
+{63}{Que tal me acompanhar, Soggy! Eu também quero sair da cidade!}{}{-4}{ch 9}{68}{jo 0 73}
+{64}{Que tal me acompanhar, Soggy! Eu também quero sair da cidade!}{}{-4}{ch -8}{76}{}
+{65}{K:}{}{-4}{}{41}{}
+{66}{E:}{}{1}{}{0}{}
+{68}{Precisa [HIC!] de mais alguma coisa?}{Precisa [HIC!] de mais alguma coisa?}{}{}{}{}
+{69}{K:}{}{1}{}{41}{}
+{70}{E:}{}{1}{}{0}{}
+{73}{Claro! Parece [HIC!] uma boa ideia! Duas cabeças pensam melhor que uma, [BURP!], mesmo que uma delas esteja tão bêbada quanto a minha! Ha! Vamos sair daqui!}{Claro! Parece [HIC!] uma boa ideia! Duas cabeças pensam melhor que uma, [BURP!], mesmo que uma delas esteja tão bêbada quanto a minha! Ha! Vamos sair daqui!}{}{}{}{}
+{74}{Ótimo. Então vamos...}{}{5}{}{0}{}
+{75}{Vamos!}{}{-4}{}{0}{}
+{76}{Ahn, acho que não, camarada [HIC!]. Sem ofensas, mas não estou [HIC!] convencido de que [HIC!] você é o homem certo pra seguir... ainda não...}{Ahn, acho que não, moça [HIC!]. Sem ofensas, mas não estou [HIC!] convencida de que [HIC!] você é a mulher certa pra seguir... ainda não...}{}{}{}{}
+{77}{K:}{}{1}{}{41}{}
+{78}{E:}{}{1}{}{0}{}
+{79}{Como posso [HIC!] te ajudar?}{Como posso [HIC!] te ajudar?}{}{}{}{}
+{80}{B:}{}{1}{wa 0}{}{}
+{81}{K:}{}{5}{wa 0}{87}{}
+{82}{Gostaria que fizesse algo por mim, Sogg...}{}{5}{wa 0}{190}{}
+{83}{Preciso que faça algo, Soggy...}{}{-4}{wa 0}{190}{}
+{84}{Pode parar de esperar agora, Sogg...}{}{5}{wa 1}{222}{uw 0 208}
+{85}{Você pode parar de esperá, Soggy!}{}{-4}{wa 1}{222}{uw 0 208}
+{86}{E:}{}{1}{}{0}{}
+{87}{O que você precisa saber?}{O que você precisa saber?}{}{}{}{}
+{88}{Gostaria de saber algumas coisas sobre você, Sogg...}{}{5}{}{}{ce}
+{89}{Quero saber umas coisas sobre você...}{}{-4}{}{}{ce}
+{90}{O que você sabe sobre este lugar?}{}{5}{ia 1}{241}{}
+{91}{O que você sabe sobre aqui?}{}{-4}{ia 1}{241}{}
+{92}{O que você sabe sobre este lugar?}{}{5}{ia 21}{245}{}
+{93}{O que você sabe sobre aqui?}{}{-4}{ia 21}{245}{}
+{94}{O que você sabe sobre este lugar?  [Black Root.]}{}{5}{ia 3}{249}{}
+{95}{O que você sabe sobre este lugar?  [Caladon.]}{}{5}{ia 4}{253}{}
+{96}{O que você sabe sobre este lugar? [Dernholm.]}{}{5}{ia 5}{257}{}
+{97}{O que você sabe sobre este lugar? [Ashbury.]}{}{5}{ia 8}{261}{}
+{98}{O que você sabe sobre este lugar? [Stillwater.]}{}{5}{ia 10}{265}{}
+{99}{O que você sabe sobre este lugar? [Roseborough.]}{}{5}{ia 13}{269}{}
+{100}{O que você sabe sobre este lugar? [Ilha do Desespero.]}{}{5}{ia 19}{273}{}
+{101}{O que você sabe sobre este lugar?   [Black Root.]}{}{-4}{ia 3}{249}{}
+{102}{O que você sabe sobre este lugar?   [Caladon.]}{}{-4}{ia 4}{253}{}
+{103}{O que você sabe sobre este lugar?   [Dernholm.]}{}{-4}{ia 5}{257}{}
+{104}{O que você sabe sobre este lugar?   [Ashbury.]}{}{-4}{ia 8}{261}{}
+{105}{O que você sabe sobre este lugar?   [Stillwater.]}{}{-4}{ia 10}{265}{}
+{106}{O que você sabe sobre este lugar?   [Roseborough.]}{}{-4}{ia 13}{269}{}
+{107}{O que você sabe sobre este lugar?   [Ilha do Desespero.]}{}{-4}{ia 19}{273}{}
+{108}{Sogg... você parece bravo comigo. Tem algo que eu possa fazer por você?}{}{5}{re -20}{120}{}
+{109}{Soggy! Você tá bravo comigo! Posso fazer alguma coisa por você?}{}{-4}{re -20}{120}{}
+{110}{E:}{}{1}{}{0}{}
+{120}{Bom...[HIC!]...normalmente não sou do tipo exigente, mas...[BURP!]...não tô nada feliz com o que...[HIC!] você anda fazendo. Claro...não é nada que uma garrafinha de vinho não resolva...[HIC!]...}{Bom...[HIC!]...normalmente não sou do tipo exigente, mas...[BURP!]...não tô nada feliz com o que...[HIC!] você anda fazendo. Claro...não é nada que uma garrafinha de vinho não resolva...[HIC!]...}{}{69}{}{}
+{121}{Sogg... precisamos mesmo ser assim?}{}{5}{ch 20}{130}{re +20}
+{122}{Claro, meu amigo! E tenho uma aqui agora mesmo!}{}{5}{in 3608, ch -19}{-11}{re +20}
+{123}{Tenho certeza de que podemos arranjar um pouco para você, Sogg. Vou ver o que consigo...}{}{5}{in -3608, ch -19}{133}{}
+{124}{Acho que essa é a ÚLTIMA coisa que você precisa, meu amigo bêbado. Vamos...}{}{5}{}{}{re -5, fl 139}
+{125}{Tô com um pouco aqui mesmo, Molenga!}{}{-4}{in 3608, ch -19}{-11}{re +20}
+{126}{Hmm...talvez eu arrume uns pra você, Molenga!}{}{-4}{in -3608, ch -19}{133}{}
+{127}{Que pena você não conseguir nenhum. A gente vai agora...}{}{-4}{}{}{re -5, fl 139}
+{130}{[Molenga parece bravo, mas então seu rosto se abre num sorriso enorme e desleixado.] Tá certo! Essa maldita bebida me deixou todo...[HIC!]...meloso! Desculpa pelo incômodo, meu chapa..}{[Molenga parece bravo, mas então seu rosto se abre num sorriso enorme e desleixado.] Tá certo! Essa maldita bebida me deixou todo...[HIC!]...meloso! Desculpa pelo incômodo, meu chapa..}{}{70}{}{}
+{131}{E:}{}{1}{}{0}{}
+{133}{[Ele pega a garrafa de você e vira tudo de uma vez.] Ahhh! Isso é bem...[BURP!]...melhor! Tô pronto pra ir...[HIC!]...quando você estiver!}{[Ele pega a garrafa de você e vira tudo de uma vez.] Ahhh! Isso é bem...[BURP!]...melhor! Tô pronto pra ir...[HIC!]...quando você estiver!}{}{71}{}{}
+{134}{Eu estava pensando se você gostaria de me acompanhar de novo?}{}{5}{pa -6612}{222}{jo 0 233}
+{135}{Quer me acompanhar de novo, Molenga?}{}{-4}{pa -6612}{222}{jo 0 233}
+{136}{E:}{}{1}{}{0}{}
+{137}{É melhor ser...[HIC!]...rápido, antes que eu vá procurar sozinho...}{É melhor ser...[HIC!]...rápido, antes que eu vá procurar sozinho...}{}{72}{}{}
+{138}{E:}{}{1}{}{0}{}
+{139}{[Molenga não parece nada feliz com sua resposta.] Diz PRA MIM o que eu posso e...[BURP!]...não posso beber! [HIC!] Não vou aguentar muito mais disso!}{[Molenga não parece nada feliz com sua resposta.] Diz PRA MIM o que eu posso e...[BURP!]...não posso beber! [HIC!] Não vou aguentar muito mais disso!}{}{73}{}{}
+{190}{O que você [HIC!] quer que eu faça?}{O que você gostaria que eu fizesse?}{}{}{}{}
+{191}{Saia da frente, Molenga...}{}{5}{}{0}{so}
+{192}{Sai de perto, Molenga!}{}{-4}{}{0}{so}
+{193}{Chegue mais perto, Molenga...}{}{5}{}{0}{sc}
+{194}{Chega mais perto, Molenga!}{}{-4}{}{0}{sc}
+{195}{Por favor, espere aqui, Molenga...}{}{5}{wa 0}{211}{wa}
+{196}{Espere aqui, Molenga!}{}{-4}{wa 0}{211}{wa}
+{197}{Pode parar de esperar agora, Molenga...}{}{5}{wa 1}{222}{uw 0 208}
+{198}{Para de esperar, Molenga!}{}{-4}{wa 1}{222}{uw 0 208}
+{199}{Acho que é melhor você sair do grupo, Molenga...}{}{5}{}{214}{lv}
+{200}{Quero que você vá embora agora!}{}{-4}{}{214}{lv}
+{201}{[Voltar]}{}{1}{}{79}{}
+{208}{Tá bom... tô [HIC!] pronto pra ir...}{Tá bom... tô [HIC!] pronto pra ir...}{}{}{}{}
+{209}{E:}{}{1}{}{0}{}
+{211}{Claro...[HIC!]. Vou ficar aqui um tempinho... mas posso acabar procurando uma taverna se você demorar muito...}{Claro...[HIC!]. Vou ficar aqui um tempinho... mas posso acabar procurando uma taverna se você demorar muito...}{}{}{}{}
+{212}{E:}{}{1}{}{0}{}
+{214}{Tá. Talvez eu [HIC!] te veja de novo, qualquer hora. Agora... onde é que a gente tá? Tem que ter uma taverna por aqui em algum lugar...}{Tá. Talvez eu [HIC!] te veja de novo, qualquer hora. Agora... onde é que a gente tá? Tem que ter uma taverna por aqui em algum lugar...}{}{}{}{lf31 1}
+{215}{E:}{}{1}{}{0}{}
+{217}{Ora! Se não é o meu velho [HIC!] amigo! Quer tomar uma...?}{Ora! Se não é o meu velho [HIC!] amigo! Quer tomar uma...?}{}{}{}{}
+{218}{Não, Sogg. Eu estava me perguntando se você gostaria de se juntar a mim de novo?}{}{5}{}{222}{jo 0 225}
+{219}{Quer se juntar a mim de novo, Soggy?}{}{-4}{}{222}{jo 0 225}
+{220}{Sogg... você parece bravo comigo. Tem algo que eu possa fazer por você?}{}{5}{re -20}{120}{}
+{221}{Soggy! Tá bravo comigo! Eu fiz alguma coisa pra você?}{}{-4}{re -20}{120}{}
+{222}{Precisa [HIC!] de mais alguma coisa?}{Precisa [HIC!] de mais alguma coisa?}{}{}{}{}
+{223}{E:}{}{1}{}{0}{}
+{225}{Claro! Não tenho nada melhor pra fazer... [HIC!] Vamos sair daqui!}{Claro! Não tenho nada melhor pra fazer... [HIC!] Vamos sair daqui!}{}{}{}{lf31 0}
+{226}{E:}{}{1}{}{0}{}
+{228}{Já era hora, amigo! [Sua cabeça pende desajeitadamente.] Sabe quanto tempo eu tô esperando aqui? Espera um minuto... [Ele olha ao redor, confuso.] Onde diabos eu tô? Que taverna bacana, hein...}{Já era hora, moça! [Sua cabeça pende desajeitadamente.] Sabe quanto tempo eu tô esperando aqui? Espera um minuto... [Ele olha ao redor, confuso.] Onde diabos eu tô? Que taverna bacana, hein...}{}{}{}{}
+{229}{Eu estava me perguntando se você gostaria de se juntar a mim de novo?}{}{5}{}{222}{jo 0 233}
+{230}{Quer se juntar a mim de novo, Soggy?}{}{-4}{}{222}{jo 0 233}
+{231}{Sogg... você parece bravo comigo. Tem algo que eu possa fazer por você?}{}{5}{re -20}{120}{}
+{232}{Soggy! Tá bravo comigo! Eu fiz alguma coisa pra você?}{}{-4}{re -20}{120}{}
+{233}{Tá, eu acho. Quer dizer, desde que você não me faça ficar [HIC!] esperando o dia todo de novo. Vamos!}{Tá, eu acho. Quer dizer, desde que você não me faça ficar [HIC!] esperando o dia todo de novo. Vamos!}{}{}{}{}
+{234}{E:}{}{1}{}{0}{}
+{241}{Uh... parece que são as Colinas Sombrias! [HIC!] Eles têm a melhor estalagenzinha aqui... a Estalagem Colinas Sombrias... e a taverna! Nunca [HIC!] provei uma cerveja melhor em todo o Arcanum! Será que a gente pode parar pra tomar uma rapidinho...?}{Uh... parece que são as Colinas Sombrias! [HIC!] Eles têm a melhor estalagenzinha aqui... a Estalagem Colinas Sombrias... e a taverna! Nunca [HIC!] provei uma cerveja melhor em todo o Arcanum! Será que a gente pode parar pra tomar uma rapidinho...?}{}{}{}{}
+{242}{K:}{}{1}{}{190}{}
+{243}{E:}{}{1}{}{0}{}
+{244}{}{}{}{}{}{}
+{245}{Hã? [Ele pisca, cambaleando um pouco.] Parece Tarant. Acho que a gente devia passar na Taverna do Grant... uh, na Kensington, eu acho. O melhor vinho [HIC!] da cidade. Ou sempre tem o do Caleb Malloy no Caldeirão, mas você tem que [HIC!] tomar cuidado por lá...}{Hã? [Ele pisca, cambaleando um pouco.] Parece Tarant. Acho que a gente devia passar na Taverna do Grant... uh, na Kensington, eu acho. O melhor vinho [HIC!] da cidade. Ou sempre tem o do Caleb Malloy no Caldeirão, mas você tem que [HIC!] tomar cuidado por lá...}{}{}{}{}
+{246}{K:}{}{1}{}{190}{}
+{247}{E:}{}{1}{}{0}{}
+{248}{}{}{}{}{}{}
+{249}{[BURP!] Uh? Ei! Isso aqui é Black Root! A gente precisa achar o Sour Barnacle, e rápido! É a melhor taverna de [HIC!] toda a costa leste! Um monte de velhos lobos do mar salgados, e cerveja mais escura que os dentes da frente de um orc! Tem que estar por aqui em algum lugar!}{[BURP!] Uh? Ei! Isso aqui é Black Root! A gente precisa achar o Sour Barnacle, e rápido! É a melhor taverna de [HIC!] toda a costa leste! Um monte de velhos lobos do mar salgados, e cerveja mais escura que os dentes da frente de um orc! Tem que estar por aqui em algum lugar!}{}{}{}{}
+{250}{K:}{}{1}{}{190}{}
+{251}{E:}{}{1}{}{0}{}
+{252}{}{}{}{}{}{}
+{253}{[HIC!] Isso aqui é Caladon! Lugar bacana, se você gosta de cidades limpinhas. Eu, gosto de um pouco de sujeira [BURP!]. Mas! Em algum lugar por aqui tem um barzinho legal chamado Cebola Chorona. Ah, as histórias que eu poderia contar [HIC!] sobre esse lugar!}{[HIC!] Isso aqui é Caladon! Lugar bacana, se você gosta de cidades limpinhas. Eu, gosto de um pouco de sujeira [BURP!]. Mas! Em algum lugar por aqui tem um barzinho legal chamado Cebola Chorona. Ah, as histórias que eu poderia contar [HIC!] sobre esse lugar!}{}{}{}{}
+{254}{K:}{}{1}{}{190}{}
+{255}{E:}{}{1}{}{0}{}
+{256}{}{}{}{}{}{}
+{257}{[Sogg parece acordar, olhando ao redor confuso.] Eh? Uh... sim! Isso aqui é Dernholm, em Cumbria. Não é um lugar muito [BURP!] interessante pra visitar, mas tem uma ótima taverna por aqui chamada O Bafo do Dragão. Ah, eu passei [HIC!] muitas noites lá no bar, me [HIC!] divertindo pra caramba. Claro, acho que eu era o único rindo... não tem muita gente feliz por aqui...}{[Sogg parece acordar, olhando ao redor confuso.] Eh? Uh... sim! Isso aqui é Dernholm, em Cumbria. Não é um lugar muito [BURP!] interessante pra visitar, mas tem uma ótima taverna por aqui chamada O Bafo do Dragão. Ah, eu passei [HIC!] muitas noites lá no bar, me [HIC!] divertindo pra caramba. Claro, acho que eu era o único rindo... não tem muita gente feliz por aqui...}{}{}{}{}
+{258}{K:}{}{1}{}{190}{}
+{259}{E:}{}{1}{}{0}{}
+{260}{}{}{}{}{}{}
+{261}{Aqui? Isso é Ashbury, não é? Não posso dizer que gosto [HIC!] muito do lugar, mas tem uma taverninha legal por aqui... como era mesmo o nome?... ah! Taverna do Rei Louco! Já tá na hora de uma bebida, não é...?}{Aqui? Isso é Ashbury, não é? Não posso dizer que gosto [HIC!] muito do lugar, mas tem uma taverninha legal por aqui... como era mesmo o nome?... ah! Taverna do Rei Louco! Já tá na hora de uma bebida, não é...?}{}{}{}{}
+{262}{K:}{}{1}{}{190}{}
+{263}{E:}{}{1}{}{0}{}
+{264}{}{}{}{}{}{}
+{265}{[BURP!] O que eu sei sobre este lugar? Isto aqui é Stillwater! Um bando de caçadores de monstros e religiosos malucos [HIC!] por aqui, pelo que me lembro. Ah! E o Saloon Alma Sedenta é um ótimo lugar pra parar e tomar alguma coisa [HIC!] pra esquentar do frio. É melhor irmos pra lá agora mesmo!}{[BURP!] O que eu sei sobre este lugar? Isto aqui é Stillwater! Um bando de caçadores de monstros e religiosos malucos [HIC!] por aqui, pelo que me lembro. Ah! E o Saloon Alma Sedenta é um ótimo lugar pra parar e tomar alguma coisa [HIC!] pra esquentar do frio. É melhor irmos pra lá agora mesmo!}{}{}{}{}
+{266}{K:}{}{1}{}{190}{}
+{267}{E:}{}{1}{}{0}{}
+{268}{}{}{}{}{}{}
+{269}{Hmm... é... [BURP!] Ah, é! Isto aqui é Roseborough! Tem algum tipo de relíquia antiga por aqui ou coisa assim. [HIC!] Nunca consegui ir ver, porque nunca conseguia sair daquele bar perto da Estalagem... como era o nome mesmo?... algo chique e [HIC!] elegante. Espera! Já sei! O Coração Três Vezes Partido! O melhor taberneiro de lá...}{Hmm... é... [BURP!] Ah, é! Isto aqui é Roseborough! Tem algum tipo de relíquia antiga por aqui ou coisa assim. [HIC!] Nunca consegui ir ver, porque nunca conseguia sair daquele bar perto da Estalagem... como era o nome mesmo?... algo chique e [HIC!] elegante. Espera! Já sei! O Coração Três Vezes Partido! O melhor taberneiro de lá...}{}{}{}{}
+{270}{K:}{}{1}{}{190}{}
+{271}{E:}{}{1}{}{0}{}
+{272}{}{}{}{}{}{}
+{273}{[HIC!] Ah... espera um pouco... isto aqui é a Ilha do Desespero, não é? Não sei muito sobre o [BURP!] lugar. Claro, me lembro de um velho mecânico em Stillwater dizendo que tem um homem aqui [HIC!] que faz a cachaça mais forte de todo o Arcanum! Acho que o nome dele é Norian, ou algo [BURP!] parecido. Tenho certeza de que podemos encontrá-lo se tentarmos...}{[HIC!] Ah... espera um pouco... isto aqui é a Ilha do Desespero, não é? Não sei muito sobre o [BURP!] lugar. Claro, me lembro de um velho mecânico em Stillwater dizendo que tem um homem aqui [HIC!] que faz a cachaça mais forte de todo o Arcanum! Acho que o nome dele é Norian, ou algo [BURP!] parecido. Tenho certeza de que podemos encontrá-lo se tentarmos...}{}{}{}{}
+{274}{K:}{}{1}{}{190}{}
+{275}{E:}{}{1}{}{0}{}
+

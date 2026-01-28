@@ -1,0 +1,651 @@
+{1}{G:}{}{}{}{}{}
+{2}{Posso lhe fazer uma pergunta?}{}{5}{ me 0, re41, ss3}{21}{}
+{3}{Sinto muito por incomodá-lo, mas não pretendo causar mal...}{}{5}{re-40, ch-10}{558}{}
+{4}{Posso lhe fazer uma pergunta?}{}{5}{ me0, re41, ss-2}{47}{}
+{5}{Fale comigo assim de novo e eu arranco sua língua.}{}{5}{re-40, sk2 12}{583}{re45}
+{6}{Não vejo necessidade para tanta grosseria.}{}{5}{re-40, ch11}{583}{re50}
+{7}{Olá. Posso lhe fazer uma pergunta?}{}{5}{ me 1, re41, ss3}{37}{}
+{8}{Não vejo necessidade para tanta grosseria.}{}{5}{re-40, ch-10, sk2 8, sk13 -7}{650}{re41}
+{9}{Posso lhe fazer uma pergunta?}{}{5}{ me1, re41, ss-2}{71}{}
+{10}{Não vejo necessidade para tanta grosseria.}{}{5}{re-40, ch-10,  sk13 8}{650}{re41}
+{11}{Eu pergunto uma coisa?}{}{-4}{ me 0, re41, ss3}{21}{}
+{12}{Hã... Eu pergunto uma coisa?}{}{-4}{me 0, re -40, ss3}{27}{re41}
+{13}{Hã... Eu pergunto uma coisa?}{}{-4}{me0, re41,  ss-2}{47}{}
+{14}{Hã... Eu pergunto uma coisa?}{}{-4}{ me0, re-40, ss-2}{55}{re41}
+{15}{Hã... Eu quero gritar pelo Deespayer.}{}{-4}{ss5, ss-6}{}{fl 615}
+{16}{Hã... Eu pergunto uma coisa?}{}{-4}{me 1, re41, ss3}{37}{}
+{17}{Hã... Eu pergunto uma coisa?}{}{-4}{me 1, re-40, ss3}{42}{re41}
+{18}{Hã... Posso te perguntar uma coisa?}{}{-4}{me1, re41, ss-2}{71}{}
+{19}{Hã... Eu pergunto uma coisa?}{}{-4}{me1, re-40, ss-2}{63}{re41}
+{20}{E:}{}{1}{}{0}{}
+{21}{Em que posso ajudá-lo, senhor?}{O que posso fazer por você, madame?}{}{}{}{}
+{22}{R:$0,1040-1049}{}{1}{}{33}{}
+{23}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{616}{}
+{24}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{616}{}
+{25}{C:}{}{1}{}{33}{}
+{26}{E:}{}{1}{}{0}{}
+{27}{O que é?}{O que é?}{}{}{}{}
+{28}{R:$0,1040-1049}{}{1}{}{33}{}
+{29}{C:}{}{1}{}{33}{}
+{30}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{616}{}
+{31}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{616}{}
+{32}{E:}{}{1}{}{0}{}
+{33}{Tem mais alguma coisa em que eu possa te ajudar?}{Tem mais alguma coisa em que eu possa te ajudar?}{}{}{}{}
+{34}{R:$0,1040-1049}{}{1}{}{33}{}
+{35}{C:}{}{1}{}{33}{}
+{36}{E:}{}{1}{}{0}{}
+{37}{O que você precisa?}{O que você precisa?}{}{}{}{}
+{38}{R:$0,1040-1049}{}{1}{}{33}{}
+{40}{C:}{}{1}{}{33}{}
+{41}{E:}{}{1}{}{0}{}
+{42}{O que é?}{O que é?}{}{}{}{}
+{43}{R:$0,1040-1049}{}{1}{}{33}{}
+{45}{C:}{}{1}{}{33}{}
+{46}{E:}{}{1}{}{0}{}
+{47}{Em que posso ajudá-lo, senhor?}{O que posso fazer por você, madame?}{}{}{}{}
+{48}{R:$0,1040-1049}{}{1}{}{82}{}
+{49}{Como faço para chegar à Ilha do Desespero?}{}{5}{ss5, ss-6}{}{fl 615}
+{50}{Você pode me indicar o caminho para a propriedade de Gilbert Bates?}{}{5}{ss2, ss-2}{77}{}
+{51}{Me procura casa de Bates?}{}{-4}{ss2, ss-2}{77}{}
+{52}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{616}{}
+{53}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{616}{}
+{54}{E:}{}{1}{}{0}{}
+{55}{O que é?}{O que é?}{}{}{}{}
+{56}{R:$0,1040-1049}{}{1}{}{82}{}
+{57}{Como faço para chegar à Ilha do Desespero?}{}{5}{ss5, ss-6}{}{fl 615}
+{58}{Você pode me indicar o caminho para a propriedade de Gilbert Bates?}{}{5}{ss2, ss-2}{77}{}
+{59}{Me procura casa de Bates?}{}{-4}{ss2, ss-2}{77}{}
+{60}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{616}{}
+{61}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{616}{}
+{62}{E:}{}{1}{}{0}{}
+{63}{O que é?}{O que é?}{}{}{}{}
+{64}{R:$0,1040-1049}{}{1}{}{82}{}
+{65}{Como faço para chegar à Ilha do Desespero?}{}{5}{ss5, ss-6}{}{fl 615}
+{66}{Você pode me indicar o caminho para a propriedade de Gilbert Bates?}{}{5}{ss2, ss-2}{77}{}
+{67}{Me procura casa de Bates?}{}{-4}{ss2, ss-2}{77}{}
+{68}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{616}{}
+{69}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{616}{}
+{70}{E:}{}{1}{}{0}{}
+{71}{O que você precisa?}{O que você precisa?}{}{}{}{}
+{72}{R:$0,1040-1049}{}{1}{}{33}{}
+{73}{Como faço para chegar à Ilha do Desespero?}{}{5}{ss5, ss-6}{}{fl 615}
+{74}{Você pode me indicar o caminho para a propriedade de Gilbert Bates?}{}{5}{ss2, ss-2}{77}{}
+{75}{Me procura casa de Bates?}{}{-4}{ss2, ss-2}{77}{}
+{76}{E:}{}{1}{}{0}{}
+{77}{Ah, sim. Ele mora no lado leste superior. Não é longe. Avenida East End, 50, no final da Kensington Broadway. Mas se você está procurando entrar para vê-lo, eu nem perderia meu tempo, senhor.}{Ah, sim. Ele mora no lado leste superior. Não é longe. Avenida East End, 50, no final da Kensington Broadway. Mas se você está procurando entrar para vê-lo, eu nem perderia meu tempo, senhora.}{}{}{}{ru2199}
+{78}{Ah, por que isso?}{}{5}{}{594}{}
+{79}{Por que isso?}{}{-4}{}{594}{}
+{81}{E:}{}{1}{}{0}{}
+{82}{Tem mais alguma coisa em que eu possa te ajudar?}{Tem mais alguma coisa em que eu possa te ajudar?}{}{}{}{}
+{83}{R:$0,1040-1049}{}{1}{}{82}{}
+{84}{Você pode me indicar o caminho para a propriedade de Gilbert Bates?}{}{5}{ss2, ss-2}{77}{}
+{85}{Me procura casa de Bates?}{}{-4}{ss2, ss-2}{77}{}
+{86}{E:}{}{1}{}{0}{}
+{87}{Ora... você é aquele homem... do jornal! Você sobreviveu àquele terrível acidente!}{Ora... você é aquela mulher... do jornal! Você sobreviveu àquele terrível acidente!}{}{}{}{lf10 1}
+{88}{Hã... Não. Você deve estar enganado.}{}{5}{}{93}{}
+{89}{Sim... Sim, sou eu.}{}{5}{}{97}{}
+{90}{Hã... Não.}{}{-4}{}{93}{}
+{91}{Hã... Sim. Sou eu mesmo.}{}{-4}{}{97}{}
+{92}{E:}{}{1}{}{0}{}
+{93}{Oh... Peço desculpas, senhor. O senhor se parece muito com a foto do jornal... O que deseja?}{Oh... Peço desculpas, senhora. A senhora se parece muito com a foto do jornal... O que deseja?}{}{}{}{}
+{94}{R:$0,1040-1049}{}{1}{}{33}{}
+{95}{C:}{}{1}{}{33}{}
+{96}{E:}{}{1}{}{0}{}
+{97}{É um grande prazer conhecê-lo, senhor! Tome! Aqui estão algumas moedas para ajudá-lo em seu caminho. Há algo mais que eu possa fazer pelo senhor?}{Oh, pobrezinha! A senhora deve ter ficado tão traumatizada. Uma dama nunca deveria ser submetida a tal tragédia! Tome! Aqui estão algumas moedas para ajudá-la em seu caminho. Há algo mais que eu possa fazer pela senhora?}{}{}{}{re+10, $$25}
+{98}{R:$0,1040-1049}{}{1}{}{33}{}
+{99}{Como faço para chegar à Ilha do Desespero?}{}{5}{ss5, ss-6}{}{fl 615}
+{100}{Como faço para chegar a Qintarra?}{}{5}{ss8, ss-8}{616}{}
+{101}{Mi qué ir pra Kin Tara.}{}{-4}{ss8, ss-8}{616}{}
+{102}{Você pode me indicar o caminho para a propriedade de Gilbert Bates?}{}{5}{ ss2, ss-2}{77}{}
+{103}{Me procura casa de Bates?}{}{-4}{ ss2, ss-2}{77}{}
+{104}{C:}{}{1}{}{33}{}
+{105}{E:}{}{1}{}{0}{}
+{106}{}{}{}{}{}{}
+{107}{}{}{}{}{}{}
+{108}{}{}{}{}{}{}
+{109}{}{}{}{}{}{}
+{110}{}{}{}{}{}{}
+{111}{}{}{}{}{}{}
+{112}{}{}{}{}{}{}
+{113}{}{}{}{}{}{}
+{114}{}{}{}{}{}{}
+{115}{}{}{}{}{}{}
+{116}{}{}{}{}{}{}
+{117}{}{}{}{}{}{}
+{118}{}{}{}{}{}{}
+{119}{}{}{}{}{}{}
+{120}{}{}{}{}{}{}
+{121}{}{}{}{}{}{}
+{122}{}{}{}{}{}{}
+{123}{}{}{}{}{}{}
+{124}{}{}{}{}{}{}
+{125}{}{}{}{}{}{}
+{126}{}{}{}{}{}{}
+{127}{}{}{}{}{}{}
+{128}{}{}{}{}{}{}
+{129}{}{}{}{}{}{}
+{130}{}{}{}{}{}{}
+{131}{}{}{}{}{}{}
+{132}{}{}{}{}{}{}
+{133}{}{}{}{}{}{}
+{134}{}{}{}{}{}{}
+{135}{}{}{}{}{}{}
+{136}{}{}{}{}{}{}
+{137}{}{}{}{}{}{}
+{138}{}{}{}{}{}{}
+{139}{}{}{}{}{}{}
+{140}{}{}{}{}{}{}
+{141}{}{}{}{}{}{}
+{142}{}{}{}{}{}{}
+{143}{}{}{}{}{}{}
+{144}{}{}{}{}{}{}
+{145}{}{}{}{}{}{}
+{146}{}{}{}{}{}{}
+{147}{}{}{}{}{}{}
+{148}{}{}{}{}{}{}
+{149}{}{}{}{}{}{}
+{150}{}{}{}{}{}{}
+{151}{}{}{}{}{}{}
+{152}{}{}{}{}{}{}
+{153}{}{}{}{}{}{}
+{154}{}{}{}{}{}{}
+{155}{}{}{}{}{}{}
+{156}{}{}{}{}{}{}
+{157}{}{}{}{}{}{}
+{158}{}{}{}{}{}{}
+{159}{}{}{}{}{}{}
+{160}{}{}{}{}{}{}
+{161}{}{}{}{}{}{}
+{162}{}{}{}{}{}{}
+{163}{}{}{}{}{}{}
+{164}{}{}{}{}{}{}
+{165}{}{}{}{}{}{}
+{166}{}{}{}{}{}{}
+{167}{}{}{}{}{}{}
+{168}{}{}{}{}{}{}
+{169}{}{}{}{}{}{}
+{170}{}{}{}{}{}{}
+{171}{}{}{}{}{}{}
+{172}{}{}{}{}{}{}
+{173}{}{}{}{}{}{}
+{174}{}{}{}{}{}{}
+{175}{}{}{}{}{}{}
+{176}{}{}{}{}{}{}
+{177}{}{}{}{}{}{}
+{178}{}{}{}{}{}{}
+{179}{}{}{}{}{}{}
+{180}{}{}{}{}{}{}
+{181}{}{}{}{}{}{}
+{182}{}{}{}{}{}{}
+{183}{}{}{}{}{}{}
+{184}{}{}{}{}{}{}
+{185}{}{}{}{}{}{}
+{186}{}{}{}{}{}{}
+{187}{}{}{}{}{}{}
+{188}{}{}{}{}{}{}
+{189}{}{}{}{}{}{}
+{190}{}{}{}{}{}{}
+{191}{}{}{}{}{}{}
+{192}{}{}{}{}{}{}
+{193}{}{}{}{}{}{}
+{194}{}{}{}{}{}{}
+{195}{}{}{}{}{}{}
+{196}{}{}{}{}{}{}
+{197}{}{}{}{}{}{}
+{198}{}{}{}{}{}{}
+{199}{}{}{}{}{}{}
+{200}{}{}{}{}{}{}
+{201}{}{}{}{}{}{}
+{202}{}{}{}{}{}{}
+{203}{}{}{}{}{}{}
+{204}{}{}{}{}{}{}
+{205}{}{}{}{}{}{}
+{206}{}{}{}{}{}{}
+{207}{}{}{}{}{}{}
+{208}{}{}{}{}{}{}
+{209}{}{}{}{}{}{}
+{210}{}{}{}{}{}{}
+{211}{}{}{}{}{}{}
+{212}{}{}{}{}{}{}
+{213}{}{}{}{}{}{}
+{214}{}{}{}{}{}{}
+{215}{}{}{}{}{}{}
+{216}{}{}{}{}{}{}
+{217}{}{}{}{}{}{}
+{218}{}{}{}{}{}{}
+{219}{}{}{}{}{}{}
+{220}{}{}{}{}{}{}
+{221}{}{}{}{}{}{}
+{222}{}{}{}{}{}{}
+{223}{}{}{}{}{}{}
+{224}{}{}{}{}{}{}
+{225}{}{}{}{}{}{}
+{226}{}{}{}{}{}{}
+{227}{}{}{}{}{}{}
+{228}{}{}{}{}{}{}
+{229}{}{}{}{}{}{}
+{230}{}{}{}{}{}{}
+{231}{}{}{}{}{}{}
+{232}{}{}{}{}{}{}
+{233}{}{}{}{}{}{}
+{234}{}{}{}{}{}{}
+{235}{É bom ver você novamente @pcname@. }{É bom ver você novamente @pcname@. }{}{}{}{lf 14 1 , lf 15 1}
+{236}{T: 4, 5, 6, 7}{}{1}{}{243}{}
+{237}{R:$0, 1131-1144}{}{1}{}{-7}{}
+{238}{E:}{}{1}{}{0}{}
+{239}{}{}{}{}{}{}
+{240}{Onde fica o mercado negro?}{}{5}{gf2389 0}{253}{}
+{241}{Onde eu acho o mercado negro?}{}{-4}{gf2389 0}{253}{}
+{242}{E:}{}{1}{}{0}{}
+{243}{Precisa de mais alguma coisa?}{Precisa de mais alguma coisa?}{}{}{}{lf 15 1}
+{244}{T: 4, 5, 6, 7}{}{1}{}{243}{}
+{245}{R:$0, 1131-1144}{}{1}{}{-7}{}
+{246}{E:}{}{1}{}{0}{}
+{247}{}{}{}{}{}{}
+{248}{Onde fica o mercado negro?}{}{5}{gf2389 0}{253}{}
+{249}{Onde eu acho o mercado negro?}{}{-4}{gf2389 0}{253}{}
+{250}{Onde posso encontrar um treinador especializado em detectar armadilhas?}{}{5}{tr7 1, tr7 -1, ru-2181}{298}{}
+{251}{Onde tá o mestre pra achar armadilha?}{}{-4}{tr7 1, tr7 -1, ru-2181}{298}{}
+{252}{E:}{}{1}{}{0}{}
+{253}{Fica perto da Madame Lil, na Rua Baixa dos Dervixes. Você vai querer falar com o Sr. Black.}{Fica perto da Madame Lil, na Rua Baixa dos Dervixes. Você vai querer falar com o Sr. Black.}{}{}{}{}
+{254}{K:}{}{1}{}{243}{}
+{255}{E:}{}{1}{}{0}{}
+{256}{O que posso fazer por você, @pcname@?}{O que posso fazer por você, @pcname@?}{}{}{}{lf 14 1, lf 15 1}
+{257}{T: 4, 5, 6, 7}{}{1}{}{263}{}
+{258}{Há alguma novidade?}{}{5}{}{274}{}
+{259}{Mais novidades?}{}{-4}{}{274}{}
+{260}{Onde fica o mercado negro?}{}{5}{gf2389 0}{272}{}
+{261}{Onde eu acho o mercado negro?}{}{-4}{gf2389 0}{272}{}
+{262}{E:}{}{1}{}{0}{}
+{263}{Precisa de mais alguma coisa?}{Precisa de mais alguma coisa?}{}{}{}{lf 15 1}
+{264}{T: 4, 5, 6, 7}{}{1}{}{263}{}
+{265}{Tem algum "serviço" novo?}{}{5}{}{274}{}
+{266}{Tem mais "serviço"?}{}{-4}{}{274}{}
+{267}{Onde fica o mercado negro?}{}{5}{gf2389 0}{272}{}
+{268}{Onde eu acho o mercado negro?}{}{-4}{gf2389 0}{272}{}
+{269}{Onde posso encontrar um treinador especializado em detectar armadilhas?}{}{5}{tr7 1, tr7 -1, ru-2181}{298}{}
+{270}{Onde tá o mestre pra achar armadilha?}{}{-4}{tr7 1, tr7 -1, ru-2181}{298}{}
+{271}{E:}{}{1}{}{0}{}
+{272}{Fica perto da Madame Lil, na Rua Baixa dos Dervixes. Você vai querer falar com o Sr. Black.}{Fica perto da Madame Lil, na Rua Baixa dos Dervixes. Você vai querer falar com o Sr. Black.}{}{}{}{}
+{273}{E:}{}{1}{}{0}{}
+{274}{Desculpe @pcname@... O chefe acha que você pode estar com muito trabalho no momento. ...Parece que você tem vários "serviços" pendentes. Talvez devesse resolver seus assuntos primeiro... depois a gente conversa sobre outras oportunidades.}{Desculpe @pcname@... O chefe acha que você pode estar com muito trabalho no momento. ...Parece que você tem vários "serviços" pendentes. Talvez devesse resolver seus assuntos primeiro... depois a gente conversa sobre outras oportunidades.}{}{}{}{}
+{275}{K:}{}{1}{}{263}{}
+{276}{F:}{}{1}{}{0}{}
+{277}{Onde fica o mercado negro?}{}{5}{gf2389 0}{272}{}
+{278}{Onde eu acho o mercado negro?}{}{-4}{gf2389 0}{272}{}
+{279}{E:}{}{1}{}{0}{}
+{280}{Saia de perto de mim! Sabemos tudo sobre o Sr. Black... A Resistência não tem utilidade para traidores assassinos!}{Saia de perto de mim! Sabemos tudo sobre o Sr. Black... A Resistência não tem utilidade para traidores assassinos!}{}{}{}{}
+{281}{Assassino! Achou que ninguém notaria a morte do Sr. Razzia? Saia de perto de mim, traidor!}{Assassina! Achou que ninguém notaria a morte do Sr. Razzia? Saia de perto de mim, traidora!}{}{}{}{}
+{282}{É bom ver você @pcname@. Aqueles que importam na Resistência falam muito bem de você. ...O que posso fazer por você?}{É bom ver você @pcname@. Aqueles que importam no Submundo falam muito bem de você. ...O que posso fazer por você?}{}{}{}{lf 14 1, lf 15 1}
+{283}{T: 4, 5, 6, 7}{}{1}{}{243}{}
+{284}{R:$0, 1131-1144}{}{1}{}{-7}{}
+{285}{E:}{}{1}{}{0}{}
+{286}{}{}{}{}{}{}
+{287}{Onde fica o mercado negro?}{}{5}{gf2389 0}{253}{}
+{288}{Onde eu acho o mercado negro?}{}{-4}{gf2389 0}{253}{}
+{289}{E:}{}{1}{}{0}{}
+{290}{É bom ver você @pcname@. Aqueles que importam no Submundo falam muito bem de você. ...O que posso fazer por você?}{É bom ver você @pcname@. Aqueles que importam no Submundo falam muito bem de você. ...O que posso fazer por você?}{}{}{}{lf 14 1, lf 15 1}
+{291}{T: 4, 5, 6, 7}{}{1}{}{243}{}
+{292}{Há alguma novidade?}{}{5}{}{274}{}
+{293}{Tem mais "serviços"?}{}{-4}{}{274}{}
+{294}{E:}{}{1}{}{0}{}
+{295}{Onde fica o mercado negro?}{}{5}{gf2389 0}{253}{}
+{296}{Onde eu acho o mercado negro?}{}{-4}{gf2389 0}{253}{}
+{297}{E:}{}{1}{}{0}{}
+{298}{Um treinador especializado em detectar armadilhas? Hmm... Tente Blackroot... ou talvez o Clã da Roda. Talvez você precise procurar em alguns lugares para encontrar alguém habilidoso o suficiente.}{Um treinador especializado em detectar armadilhas? Hmm... Tente Blackroot... ou talvez o Clã da Roda. Talvez você precise procurar em alguns lugares para encontrar alguém habilidoso o suficiente.}{}{}{}{ru2181}
+{299}{}{}{}{}{}{}
+{300}{}{}{}{}{}{}
+{301}{}{}{}{}{}{}
+{302}{}{}{}{}{}{}
+{303}{}{}{}{}{}{}
+{304}{}{}{}{}{}{}
+{305}{}{}{}{}{}{}
+{306}{}{}{}{}{}{}
+{307}{}{}{}{}{}{}
+{308}{}{}{}{}{}{}
+{309}{}{}{}{}{}{}
+{310}{}{}{}{}{}{}
+{311}{}{}{}{}{}{}
+{312}{}{}{}{}{}{}
+{313}{}{}{}{}{}{}
+{314}{}{}{}{}{}{}
+{315}{}{}{}{}{}{}
+{316}{}{}{}{}{}{}
+{317}{}{}{}{}{}{}
+{318}{}{}{}{}{}{}
+{319}{}{}{}{}{}{}
+{320}{G:}{}{}{}{}{}
+{321}{O que exatamente você está tentando fazer?}{}{5}{}{324}{}
+{322}{Ei! O que você acha que está fazendo?}{}{-4}{}{324}{}
+{323}{E:}{}{1}{}{0}{}
+{324}{Peço perdão, senhor!}{Peço perdão, madame!}{}{}{}{}
+{325}{Não brinque comigo!}{}{5}{}{328}{}
+{326}{Ei! Você não entende o que eu falo!}{}{-4}{}{328}{}
+{327}{E:}{}{1}{}{0}{}
+{328}{Não faço ideia do que você está falando e apreciaria não ser tratado dessa maneira!}{Não faço ideia do que você está falando e apreciaria não ser tratado dessa maneira!}{}{}{}{}
+{329}{Você acabou de tentar roubar minha bolsa! Eu vi você!}{}{5}{}{332}{}
+{330}{Você acabou de tentar pegar minhas coisas! Eu vi você!}{}{-4}{}{332}{}
+{331}{E:}{}{1}{}{0}{}
+{332}{Eu não fiz nada disso! Sério! Me acusar de uma coisa tão bárbara! É revoltante!}{Eu não fiz nada disso! Sério! Me acusar de uma coisa tão bárbara! É revoltante!}{}{}{}{}
+{333}{Não minta para mim, seu ladrão!}{}{5}{}{}{lf12 0, fl 336}
+{334}{Não minta! Você é um ladrão!}{}{-4}{}{}{lf12 0, fl 336}
+{335}{E:}{}{1}{}{0}{}
+{336}{[Em um sussurro ameaçador] Você realmente quer começar algo, amigo? Quem você acha que os guardas vão acreditar... um cidadão respeitável ou algum "estranho"? Eu deixaria isso pra lá, se fosse você.}{[Em um sussurro ameaçador] Você realmente quer começar algo, madame? Quem você acha que os guardas vão acreditar... um cidadão respeitável ou algum "estranho"? Eu deixaria isso pra lá, se fosse você.}{}{}{}{}
+{337}{}{}{}{}{}{}
+{338}{}{}{}{}{}{}
+{339}{}{}{}{}{}{}
+{340}{}{}{}{}{}{}
+{341}{}{}{}{}{}{}
+{342}{}{}{}{}{}{}
+{343}{}{}{}{}{}{}
+{344}{}{}{}{}{}{}
+{345}{}{}{}{}{}{}
+{346}{}{}{}{}{}{}
+{347}{}{}{}{}{}{}
+{348}{}{}{}{}{}{}
+{349}{}{}{}{}{}{}
+{350}{}{}{}{}{}{}
+{351}{}{}{}{}{}{}
+{352}{}{}{}{}{}{}
+{353}{}{}{}{}{}{}
+{354}{}{}{}{}{}{}
+{355}{}{}{}{}{}{}
+{356}{}{}{}{}{}{}
+{357}{}{}{}{}{}{}
+{358}{}{}{}{}{}{}
+{359}{}{}{}{}{}{}
+{360}{}{}{}{}{}{}
+{361}{}{}{}{}{}{}
+{362}{}{}{}{}{}{}
+{363}{}{}{}{}{}{}
+{364}{}{}{}{}{}{}
+{365}{}{}{}{}{}{}
+{366}{}{}{}{}{}{}
+{367}{}{}{}{}{}{}
+{368}{}{}{}{}{}{}
+{369}{}{}{}{}{}{}
+{370}{}{}{}{}{}{}
+{371}{}{}{}{}{}{}
+{372}{}{}{}{}{}{}
+{373}{}{}{}{}{}{}
+{374}{}{}{}{}{}{}
+{375}{}{}{}{}{}{}
+{376}{}{}{}{}{}{}
+{377}{}{}{}{}{}{}
+{378}{}{}{}{}{}{}
+{379}{}{}{}{}{}{}
+{380}{}{}{}{}{}{}
+{381}{}{}{}{}{}{}
+{382}{}{}{}{}{}{}
+{383}{}{}{}{}{}{}
+{384}{}{}{}{}{}{}
+{385}{}{}{}{}{}{}
+{386}{}{}{}{}{}{}
+{387}{}{}{}{}{}{}
+{388}{}{}{}{}{}{}
+{389}{}{}{}{}{}{}
+{390}{}{}{}{}{}{}
+{391}{}{}{}{}{}{}
+{392}{}{}{}{}{}{}
+{393}{}{}{}{}{}{}
+{394}{}{}{}{}{}{}
+{395}{}{}{}{}{}{}
+{396}{}{}{}{}{}{}
+{397}{}{}{}{}{}{}
+{398}{}{}{}{}{}{}
+{399}{}{}{}{}{}{}
+{400}{}{}{}{}{}{}
+{401}{}{}{}{}{}{}
+{402}{}{}{}{}{}{}
+{403}{}{}{}{}{}{}
+{404}{}{}{}{}{}{}
+{405}{}{}{}{}{}{}
+{406}{}{}{}{}{}{}
+{407}{}{}{}{}{}{}
+{408}{}{}{}{}{}{}
+{409}{}{}{}{}{}{}
+{410}{}{}{}{}{}{}
+{411}{}{}{}{}{}{}
+{412}{}{}{}{}{}{}
+{413}{}{}{}{}{}{}
+{414}{}{}{}{}{}{}
+{415}{}{}{}{}{}{}
+{416}{}{}{}{}{}{}
+{417}{}{}{}{}{}{}
+{418}{}{}{}{}{}{}
+{419}{}{}{}{}{}{}
+{420}{}{}{}{}{}{}
+{421}{}{}{}{}{}{}
+{422}{}{}{}{}{}{}
+{423}{}{}{}{}{}{}
+{424}{}{}{}{}{}{}
+{425}{}{}{}{}{}{}
+{426}{}{}{}{}{}{}
+{427}{}{}{}{}{}{}
+{428}{}{}{}{}{}{}
+{429}{}{}{}{}{}{}
+{430}{}{}{}{}{}{}
+{431}{}{}{}{}{}{}
+{432}{}{}{}{}{}{}
+{433}{}{}{}{}{}{}
+{434}{}{}{}{}{}{}
+{435}{}{}{}{}{}{}
+{436}{}{}{}{}{}{}
+{437}{}{}{}{}{}{}
+{438}{}{}{}{}{}{}
+{439}{}{}{}{}{}{}
+{440}{}{}{}{}{}{}
+{441}{}{}{}{}{}{}
+{442}{}{}{}{}{}{}
+{443}{}{}{}{}{}{}
+{444}{}{}{}{}{}{}
+{445}{}{}{}{}{}{}
+{446}{}{}{}{}{}{}
+{447}{}{}{}{}{}{}
+{448}{}{}{}{}{}{}
+{449}{}{}{}{}{}{}
+{450}{}{}{}{}{}{}
+{451}{}{}{}{}{}{}
+{452}{}{}{}{}{}{}
+{453}{}{}{}{}{}{}
+{454}{}{}{}{}{}{}
+{455}{}{}{}{}{}{}
+{456}{}{}{}{}{}{}
+{457}{}{}{}{}{}{}
+{458}{}{}{}{}{}{}
+{459}{}{}{}{}{}{}
+{460}{}{}{}{}{}{}
+{461}{}{}{}{}{}{}
+{462}{}{}{}{}{}{}
+{463}{}{}{}{}{}{}
+{464}{}{}{}{}{}{}
+{465}{}{}{}{}{}{}
+{466}{}{}{}{}{}{}
+{467}{}{}{}{}{}{}
+{468}{}{}{}{}{}{}
+{469}{}{}{}{}{}{}
+{470}{}{}{}{}{}{}
+{471}{}{}{}{}{}{}
+{472}{}{}{}{}{}{}
+{473}{}{}{}{}{}{}
+{474}{}{}{}{}{}{}
+{475}{}{}{}{}{}{}
+{476}{}{}{}{}{}{}
+{477}{}{}{}{}{}{}
+{478}{}{}{}{}{}{}
+{479}{}{}{}{}{}{}
+{480}{}{}{}{}{}{}
+{481}{}{}{}{}{}{}
+{482}{}{}{}{}{}{}
+{483}{}{}{}{}{}{}
+{484}{}{}{}{}{}{}
+{485}{}{}{}{}{}{}
+{486}{}{}{}{}{}{}
+{487}{}{}{}{}{}{}
+{488}{}{}{}{}{}{}
+{489}{}{}{}{}{}{}
+{490}{}{}{}{}{}{}
+{491}{}{}{}{}{}{}
+{492}{}{}{}{}{}{}
+{493}{}{}{}{}{}{}
+{494}{}{}{}{}{}{}
+{495}{}{}{}{}{}{}
+{496}{}{}{}{}{}{}
+{497}{}{}{}{}{}{}
+{498}{}{}{}{}{}{}
+{499}{}{}{}{}{}{}
+{500}{}{}{}{}{}{}
+{501}{}{}{}{}{}{}
+{502}{}{}{}{}{}{}
+{503}{}{}{}{}{}{}
+{504}{}{}{}{}{}{}
+{505}{}{}{}{}{}{}
+{506}{}{}{}{}{}{}
+{507}{}{}{}{}{}{}
+{508}{}{}{}{}{}{}
+{509}{}{}{}{}{}{}
+{510}{}{}{}{}{}{}
+{511}{}{}{}{}{}{}
+{512}{}{}{}{}{}{}
+{513}{}{}{}{}{}{}
+{514}{}{}{}{}{}{}
+{515}{}{}{}{}{}{}
+{516}{}{}{}{}{}{}
+{517}{}{}{}{}{}{}
+{518}{}{}{}{}{}{}
+{519}{}{}{}{}{}{}
+{520}{}{}{}{}{}{}
+{521}{}{}{}{}{}{}
+{522}{}{}{}{}{}{}
+{523}{}{}{}{}{}{}
+{524}{}{}{}{}{}{}
+{525}{}{}{}{}{}{}
+{526}{}{}{}{}{}{}
+{527}{}{}{}{}{}{}
+{528}{}{}{}{}{}{}
+{529}{}{}{}{}{}{}
+{530}{}{}{}{}{}{}
+{531}{}{}{}{}{}{}
+{532}{}{}{}{}{}{}
+{533}{}{}{}{}{}{}
+{534}{}{}{}{}{}{}
+{535}{}{}{}{}{}{}
+{536}{}{}{}{}{}{}
+{537}{}{}{}{}{}{}
+{538}{}{}{}{}{}{}
+{539}{}{}{}{}{}{}
+{540}{}{}{}{}{}{}
+{541}{}{}{}{}{}{}
+{542}{}{}{}{}{}{}
+{543}{}{}{}{}{}{}
+{544}{}{}{}{}{}{}
+{545}{}{}{}{}{}{}
+{546}{}{}{}{}{}{}
+{547}{}{}{}{}{}{}
+{548}{}{}{}{}{}{}
+{549}{}{}{}{}{}{}
+{550}{}{}{}{}{}{}
+{551}{}{}{}{}{}{}
+{552}{}{}{}{}{}{}
+{553}{}{}{}{}{}{}
+{554}{}{}{}{}{}{}
+{555}{}{}{}{}{}{}
+{556}{}{}{}{}{}{}
+{557}{}{}{}{}{}{}
+{558}{Acho sua presença extremamente desagradável, para dizer o mínimo.}{Acho sua presença extremamente desagradável, para dizer o mínimo.}{}{}{}{}
+{559}{Se ao menos pudesse ter um momento do seu tempo...}{}{5}{}{568}{re45}
+{560}{Esse sentimento é mútuo... Mas preciso de algumas informações.}{}{5}{}{568}{}
+{567}{Se é assim que se sente, então vou me retirar.}{}{5}{}{0}{}
+{568}{Bem... desde que mantenha a língua civilizada, talvez eu me digne a falar com você por um momento ou dois. O que deseja?}{Bem... desde que mantenha a língua civilizada, talvez eu me digne a falar com você por um momento ou dois. O que deseja?}{}{}{}{}
+{569}{Posso lhe fazer uma pergunta?}{}{5}{ss3}{27}{}
+{570}{Posso lhe fazer uma pergunta?}{}{5}{ ss-2}{55}{}
+{571}{Posso lhe fazer uma pergunta?}{}{5}{GF2030 1, lf10 0}{87}{}
+{572}{Língua civilizada? O que me diz de meu joelho na sua cara?}{}{5}{}{0}{lf1 1, re-10, fl 578}
+{573}{Após refletir melhor, preciso ir.}{}{5}{}{0}{}
+{574}{}{}{}{}{}{}
+{575}{}{}{}{}{}{}
+{576}{}{}{}{}{}{}
+{577}{}{}{}{}{}{}
+{578}{Se não sair da minha presença imediatamente, serei forçado a chamar um oficial para dar um fim à sua pele inútil!}{Se não sair da minha presença imediatamente, serei forçado a chamar um oficial para dar um fim à sua pele inútil!}{}{}{}{}
+{579}{}{}{}{}{}{}
+{580}{}{}{}{}{}{}
+{581}{}{}{}{}{}{}
+{582}{}{}{}{}{}{}
+{583}{Ah, sim, senhor... Desculpe, senhor, não sei no que estava pensando. Por favor, em que posso ajudá-lo?}{Ah, sim, senhora... Desculpe, senhora, não sei no que estava pensando. Por favor, em que posso ajudá-la?}{}{}{}{}
+{584}{Preciso de informações.}{}{5}{ss3}{27}{}
+{585}{Preciso de informações.}{}{5}{ ss-2}{55}{}
+{586}{Preciso de informações.}{}{5}{GF2030 1, lf10 0}{87}{}
+{587}{Já é tarde demais para isso. Causar-lhe grande dor é minha única alternativa.}{}{5}{}{0}{lf1 1, re-10, fl 578}
+{588}{Após refletir melhor, preciso ir.}{}{5}{}{0}{}
+{589}{}{}{}{}{}{}
+{590}{}{}{}{}{}{}
+{591}{}{}{}{}{}{}
+{592}{}{}{}{}{}{}
+{593}{}{}{}{}{}{}
+{594}{Ele é um pouco recluso, é sim. Pelo que ouvi, ninguém consegue vê-lo. Mas se quiser dar boas risadas, procure o velho Cedric Appleby, seu principal concorrente. Ele mora na Rua Low Dervish, número 29.}{Ele é um pouco recluso, é sim. Pelo que ouvi, ninguém consegue vê-lo. Mas se quiser dar boas risadas, procure o velho Cedric Appleby, seu principal concorrente. Ele mora na Rua Low Dervish, número 29.}{}{}{}{ru2198}
+{595}{Por que isso é engraçado?}{}{5}{}{604}{}
+{596}{Por quê? Ele é um cara engraçado e bobo?}{}{-4}{}{604}{}
+{597}{}{}{}{}{}{}
+{598}{}{}{}{}{}{}
+{599}{}{}{}{}{}{}
+{600}{}{}{}{}{}{}
+{601}{}{}{}{}{}{}
+{602}{}{}{}{}{}{}
+{603}{}{}{}{}{}{}
+{604}{Ele odeia o velho Gilbert, sim. Fica completamente enlouquecido se você menciona o nome de Bates para ele. Está sempre tentando desacreditar Bates de alguma forma.}{Ele odeia o velho Gilbert, sim. Fica completamente enlouquecido se você menciona o nome de Bates para ele. Está sempre tentando desacreditar Bates de alguma forma.}{}{}{}{}
+{605}{Por quê?}{}{1}{}{612}{}
+{606}{Obrigado pelas informações.}{}{5}{}{82}{}
+{607}{Valeu.}{}{-4}{}{82}{}
+{608}{}{}{}{}{}{}
+{609}{}{}{}{}{}{}
+{610}{}{}{}{}{}{}
+{611}{}{}{}{}{}{}
+{612}{Ciúme. Bates é um gênio, e Appleby não conseguiria fazer um motor a vapor decente nem para salvar a própria vida.}{Ciúme. Bates é um gênio, e Appleby não conseguiria fazer um motor a vapor decente nem para salvar a própria vida.}{}{}{}{}
+{613}{Entendo. Obrigado pelo seu tempo.}{}{5}{}{82}{}
+{614}{Valeu.}{}{-4}{}{82}{}
+{615}{A Ilha do Desespero! [completamente chocado] ...Bem, acho que você poderia tentar procurar em Ashbury. Mas nenhum indivíduo são jamais "quereria" ir para aquela ilha depravada!}{A Ilha do Desespero! [completamente chocada] ...Bem, acho que você poderia tentar procurar em Ashbury. Mas nenhuma dama respeitável jamais "quereria" ir para aquela ilha depravada!}{}{}{}{re-3}
+{616}{Hmmm... Não tenho certeza. Talvez devesse perguntar aos bons cidadãos de Stillwater.}{Hmmm... Não tenho certeza. Talvez devesse perguntar aos bons cidadãos de Stillwater.}{}{}{}{}
+{617}{Obrigado pela informação.}{}{5}{}{0}{}
+{618}{Valeu.}{}{-4}{}{0}{}
+{619}{Posso perguntar onde fica Stillwater?}{}{5}{}{621}{}
+{620}{Onde fica Steel Wat'r?}{}{-4}{}{621}{}
+{621}{Mas é claro. Fica logo ali. [Eles apontam para um local no seu mapa.]}{Mas é claro. Fica logo ali. [Eles apontam para um local no seu mapa.]}{}{}{}{mm10}
+{622}{Obrigado pela informação.}{}{5}{}{0}{}
+{623}{Valeu.}{}{-4}{}{0}{}
+{624}{Hmmm... Não tenho certeza exata. Se bem me lembro, fica em algum lugar perto de Stillwater.}{Hmmm... Não tenho certeza exata. Se bem me lembro, fica em algum lugar perto de Stillwater.}{}{}{}{}
+{625}{Obrigado pela informação.}{}{5}{}{0}{}
+{626}{Valeu.}{}{-4}{}{0}{}
+{627}{Posso perguntar onde fica Stillwater?}{}{5}{}{629}{}
+{628}{Onde fica Steel Wat'r?}{}{-4}{}{629}{}
+{629}{Claro. Fica logo ali. [Eles apontam para um local no seu mapa.]}{Claro. Fica logo ali. [Eles apontam para um local no seu mapa.]}{}{}{}{mm10}
+{630}{Obrigado pela informação.}{}{5}{}{0}{}
+{631}{Valeu.}{}{-4}{}{0}{}
+{640}{Claro. Aqui, deixe-me mostrar no seu mapa.}{Claro. Aqui, deixe-me mostrar no seu mapa.}{}{}{}{mm5}
+{641}{Obrigado pela informação.}{}{5}{}{0}{}
+{642}{Corre o boato de que há as ruínas de um antigo templo logo a leste daqui. Dizem que pode guardar tesouros inestimáveis!}{Corre o boato de que há as ruínas de um antigo templo logo a leste daqui. Dizem que pode guardar tesouros inestimáveis!}{}{}{}{mm56}
+{643}{K:}{}{1}{}{130}{}
+{644}{E:}{}{1}{}{0}{}
+{645}{}{}{}{}{}{}
+{646}{}{}{}{}{}{}
+{647}{}{}{}{}{}{}
+{648}{}{}{}{}{}{}
+{649}{}{}{}{}{}{}
+{650}{Suponho que não... o que deseja de mim?}{Suponho que não... o que deseja de mim?}{}{}{}{}
+{651}{Preciso de informações.}{}{5}{ss3}{27}{}
+{652}{Preciso de informações.}{}{5}{ ss-2}{55}{}
+{653}{Preciso de informações.}{}{5}{GF2030 1, lf10 0}{87}{}
+{654}{Quero que você grite de dor, seu porco inculto!}{}{5}{}{0}{lf1 1, re-10, fl 578}
+{655}{Após refletir melhor, preciso ir.}{}{5}{}{0}{}
+{656}{}{}{}{}{}{}
+{657}{}{}{}{}{}{}
+{658}{}{}{}{}{}{}
+{659}{}{}{}{}{}{}
+{660}{Hmmm. Acho que você está certo, senhor. O que deseja de mim?}{Hmmm. Acho que você está certa, senhora. O que deseja de mim?}{}{}{}{}
+{661}{Preciso de informações.}{}{5}{ gf2342 1, gf11 1, lf12 1}{177}{}
+{662}{Preciso de informações.}{}{5}{ GF2342 0, lf11 0}{187}{}
+{663}{Preciso de informações.}{}{5}{GF2342 1,  lf11 0, ar-21}{238}{}
+{664}{Preciso de informações.}{}{5}{gf2342 0, lf11 1}{187}{}
+{665}{Houve um terrível acidente com um dirigível nas colinas.}{}{5}{gf2342 0, lf11 0}{226}{}
+{666}{Preciso de informações.}{}{5}{ GF2342 1,  lf11 0, ar21}{172}{}
+{669}{Talvez mais tarde. Preciso ir.}{}{5}{}{0}{}
+

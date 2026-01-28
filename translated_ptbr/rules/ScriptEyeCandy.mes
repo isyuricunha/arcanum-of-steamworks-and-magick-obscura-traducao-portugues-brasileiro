@@ -1,0 +1,114 @@
+//
+// Script EyeCandy Effect List:
+//
+
+
+
+// WARNING: NOTE: Palette numbers are 0-3 instead of 1-4!
+
+
+// Each line consists of a sequence of descriptor fields.  These are:
+// Art: -- The Art # from the eyecandy.mes message file corresponding to this art
+// Palette: -- Which of the 4 palettes (currently 0-3) to use
+// Scale: -- What scale (25%-200%) to display the art at -- NOT CURRENTLY WORKING
+// Blend: -- Which of the various blending functions to use -- NOT CURRENTLY WORKING
+// Sound: -- The Sound #.  This is the same as the number which is prepended to the
+// .snd file in the sounds folder.
+// Flags: -- These specify various extra things:
+		// overlay_f -- the art is a foreground overlay
+		// overlay_b -- the art is a background overlay
+		// overlay_fb -- the art has both foreground and background overlays
+		// underlay -- the art is an underlay (flat under object)
+		// animates -- the art should animate once
+		// anim_forever -- the art should continuously loop animating
+// Light: -- the art # from the art\light\light.mes file
+// Light Color: (red @ green @ blue)
+
+
+// Note: This first one is currently unused, but is just here to illustrate how it should look...
+{0}{Art: 27, Palette: 1, Scale: 100%, Blend: Add, Sound: 9010, Flags: overlay_f | animates, Light: 1, Light Color:  (187 @ 0 @ 215)}
+{1}{Art: 381, Palette: 1, Scale: 100%, Blend: None, Sound: 8524, Flags: overlay_f | animates}
+// PAD Lighting:
+{2}{Art: 402, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever}	// Air Rune
+{3}{Art: 403, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever}	// Divination Rune
+{4}{Art: 404, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever}	// Earth Rune
+{5}{Art: 405, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever}	// Fire Rune
+{6}{Art: 406, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever}	// Force Rune
+{7}{Art: 407, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever}	// Material Rune
+{8}{Art: 408, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever}	// Mental Rune
+{9}{Art: 409, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever}	// Meta Rune
+{10}{Art: 410, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever}	// Morph Rune
+{11}{Art: 411, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever}	// Nature Rune
+{12}{Art: 412, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever}	// Necro (Black) Rune
+{13}{Art: 413, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever}	// Necro (White) Rune
+{14}{Art: 414, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever}	// Pelojians Rune
+{15}{Art: 415, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever}	// Phantasm Rune
+{16}{Art: 416, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever}	// Power Rune
+{17}{Art: 417, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever} // Spirit Rune
+{18}{Art: 418, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever} // Summon Rune
+{19}{Art: 419, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever} // Temporal Rune
+{20}{Art: 420, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever} // Truth Rune
+{21}{Art: 421, Palette: 1, Scale: 100%, Blend: None, Flags: underlay | animates | anim_forever} // Water Rune
+// MISC EFFECTS
+{22}{Art: 377, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates, Light: 1, Light Color:  (255 @ 255 @ 255)}
+{23}{Art: 378, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates, Light: 1, Light Color:  (255 @ 255 @ 255)}
+{24}{Art: 379, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (187 @ 0 @ 215)}
+{25}{Art: 380, Palette: 1, Scale: 100%, Blend: None, Flags: overlay_f | animates}
+{26}{Art: 401, Palette: 1, Scale: 100%, Blend: None, Flags: overlay_f | animates | anim_forever}	// Conveyance Rune
+{27}{Art: 382, Palette: 1, Scale: 100%, Blend: Add, Sound: 9010, Flags: overlay_f | animates, Light: 1, Light Color:  (255 @ 255 @ 255)}
+{28}{Art: 383, Palette: 1, Scale: 100%, Blend: Add, Sound: 9010, Flags: overlay_f | animates, Light: 1, Light Color:  (255 @ 255 @ 255)}
+{29}{Art: 386, Palette: 1, Scale: 100%, Blend: Add, Sound: 9010, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 255 @ 255)}
+{30}{Art: 387, Palette: 1, Scale: 100%, Blend: Add, Sound: 8803, Flags: underlay | animates}
+{31}{Art: 388, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates}
+{32}{Art: 389, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates}
+{33}{Art: 395, Palette: 1, Scale: 100%, Blend: None, Flags: overlay_f | animates}
+{34}{Art: 350, Palette: 1, Scale: 100%, Blend: None, Sound: 8524, Flags: overlay_f | animates}
+
+{35}{Art: 500, Palette: 1, Scale: 100%, Blend: Add, Sound: 24070, Flags: overlay_f | animates}//Generic Light Heal Effect
+{36}{Art: 501, Palette: 1, Scale: 50%, Blend: Add, Sound: 24070, Flags: overlay_f | animates}//Generic Parial Light Heal Effect
+
+{37}{Art: 502, Palette: 1, Scale: 100%, Blend: Add, Sound: 24070, Flags: overlay_fb | animates}//Generic Major Heal Effect
+{38}{Art: 503, Palette: 1, Scale: 50%, Blend: Add, Sound: 24070, Flags: overlay_fb | animates}//Generic Parial Major Heal Effect
+
+{39}{Art: 504, Palette: 1, Scale: 100%, Blend: Add, Sound: 24070, Flags: overlay_fb | animates}//Generic Light Fatigue Restore Effect
+{40}{Art: 505, Palette: 1, Scale: 50%, Blend: Add, Sound: 24070, Flags: overlay_fb | animates}//Generic Parial Light Fatigue Restore Effect
+
+{41}{Art: 506, Palette: 1, Scale: 100%, Blend: Add, Sound: 24070, Flags: overlay_fb | animates}//Generic Major Fatigue Restore Effect
+{42}{Art: 507, Palette: 1, Scale: 50%, Blend: Add, Sound: 24070, Flags: overlay_fb | animates}//Generic Parial Major Fatigue Restore Effect
+
+{43}{Art: 508, Palette: 1, Scale: 100%, Blend: Add, Sound: 24070, Flags: overlay_fb | animates}//Generic Cure Poison Effect
+{44}{Art: 509, Palette: 1, Scale: 50%, Blend: Add, Sound: 24070, Flags: overlay_fb | animates}//Generic Parial Cure Poison Effect
+
+{45}{Art: 510, Palette: 1, Scale: 100%, Blend: Add, Sound: 24070, Flags: overlay_fb | animates}//Generic Full Healing Effect
+{46}{Art: 511, Palette: 1, Scale: 50%, Blend: Add, Sound: 24070, Flags: overlay_fb | animates}//Generic Parial Full Healing Effect
+
+{47}{Art: 400, Palette: 1, Scale: 100%, Blend: Add, Sound: 24070, Flags: overlay_f | animates}//Generic Spell Faiure
+{48}{Art: 424, Palette: 0, Scale: 100%, Blend: Add, Flags: overlay_f | animates}//Phantom Knight Death
+{49}{Art: 424, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates}//Phantom Knight Death
+{50}{Art: 424, Palette: 2, Scale: 100%, Blend: Add, Flags: overlay_f | animates}//Phantom Knight Death
+{51}{Art: 424, Palette: 3, Scale: 100%, Blend: Add, Flags: overlay_f | animates}//Phantom Knight Death
+
+{52}{Art: 425, Palette: 0, Scale: 100%, Blend: Add, Flags: overlay_fb | animates}//Familiar
+{53}{Art: 426, Palette: 0, Scale: 100%, Blend: Add, Flags: overlay_fb | animates}//Familiar Slasher
+{54}{Art: 427, Palette: 0, Scale: 100%, Blend: Add, Flags: overlay_fb | animates}//Familiar Bloodclaw
+
+{55}{Art: 98, Palette: 1, Scale: 100%, Blend: Add, Sound: 24095, Flags: overlay_f | animates, Light: 1, Light Color:   (242 @ 165 @ 0)}	// Explosion!
+{56}{Art: 350, Palette: 1, Scale: 100%, Blend: Add, Sound: 24095, Flags: overlay_f | animates, Light: 1, Light Color:   (242 @ 165 @ 0)}
+{57}{Art: 428, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates, Light: 1, Light Color:   (242 @ 165 @ 0)}
+{58}{Art: 25, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:   (255 @ 255 @ 255)}
+{59}{Art: 349, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates}	// Puff of Smoke for Fire Damage.
+{60}{Art: 439, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates, Light: 1, Light Color:   (255 @ 255 @ 255)}
+{61}{Art: 440, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates, Light: 4, Light Color:   (255 @ 255 @ 255)}
+{62}{Art: 441, Palette: 0, Scale: 100%, Blend: Add, Flags: overlay_f | anim_forever}// Multi-Player Flag Red 
+{63}{Art: 441, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | anim_forever}// Multi-Player Flag Blue
+{64}{Art: 441, Palette: 2, Scale: 100%, Blend: Add, Flags: overlay_f | anim_forever}// Multi-Player Flag Yellow
+{65}{Art: 441, Palette: 3, Scale: 100%, Blend: Add, Flags: overlay_f | anim_forever}// Multi-Player Flag Green
+{66}{Art: 442, Palette: 0, Scale: 100%, Blend: Add, Flags: underlay | anim_forever}// Multi-Player X underlay Red
+{67}{Art: 442, Palette: 1, Scale: 100%, Blend: Add, Flags: underlay | anim_forever}// Multi-Player X underlay Blue
+{68}{Art: 442, Palette: 2, Scale: 100%, Blend: Add, Flags: underlay | anim_forever}// Multi-Player X underlay Yellow
+{69}{Art: 442, Palette: 3, Scale: 100%, Blend: Add, Flags: underlay | anim_forever}// Multi-Player X underlay Green
+{70}{Art: 443, Palette: 0, Scale: 100%, Blend: Add, Flags: underlay | anim_forever}// Multi-Player O underlay Red
+{71}{Art: 443, Palette: 1, Scale: 100%, Blend: Add, Flags: underlay | anim_forever}// Multi-Player O underlay Blue
+{72}{Art: 443, Palette: 2, Scale: 100%, Blend: Add, Flags: underlay | anim_forever}// Multi-Player O underlay Yellow
+{73}{Art: 443, Palette: 3, Scale: 100%, Blend: Add, Flags: underlay | anim_forever}// Multi-Player O underlay Green
+{74}{Art: 438, Palette: 0, Scale: 100%, Blend: Add, Flags: overlay_f | animates}

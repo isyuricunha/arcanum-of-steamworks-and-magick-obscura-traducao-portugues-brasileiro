@@ -1,0 +1,105 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá, senhor. Posso saber seu nome?}{}{5}{me 0, re 41}{27}{}
+{3}{Saudações, Jones. Poderia me conceder um momento?}{}{5}{me 1, re 41}{71}{}
+{4}{Com licença! Acabamos de nos conhecer, e já está me insultando?}{}{5}{me 0, re -40}{11}{}
+{5}{Jones! Por que esse mau humor?}{}{5}{me 1, re -40}{11}{}
+{7}{Oi! Quem é você?}{}{-4}{me 0}{27}{}
+{8}{Jones! Posso lhe fazer algumas perguntas?}{}{-4}{me 1}{71}{}
+{9}{E:}{}{-4}{}{0}{}
+{11}{Um homem faz o que bem entende por aqui, garoto. Se não gostou do meu jeito de falar, pode seguir em frente...}{Um homem faz o que bem entende por aqui, garota. Se não gostou do meu jeito de falar, pode seguir em frente...}{}{}{}{}
+{12}{Não estou aqui para brigar, mas gostaria de conversar com você...}{}{5}{}{23}{re +10}
+{13}{Não tenho reservas em derramar seu sangue, cretino...}{}{5}{}{16}{re -5}
+{14}{E:}{}{5}{}{0}{}
+{16}{[Ele parece um pouco inseguro.] T-t-alvez p-p-odemos chegar a algum tipo de acordo, então? Talvez eu tenha falado rápido demais, mas você poderia ser um pouco mais c-cuidadoso com suas a-ameaças, garoto...}{[Ele parece um pouco inseguro.] T-t-alvez p-p-odemos chegar a algum tipo de acordo, então? Talvez eu tenha falado rápido demais, mas você poderia ser um pouco mais c-cuidadosa com suas a-ameaças, garota...}{}{}{}{}
+{17}{Sim, acho que podemos ser um pouco mais razoáveis...}{}{5}{}{23}{re +10}
+{18}{Você começou isso. Agora vai pagar o preço, amigo...}{}{5}{}{}{co, fl 21}
+{19}{E:}{}{5}{}{0}{}
+{21}{E-eu não v-vou aceitar isso de você! L-lute!}{E-eu não v-vou aceitar isso de você! L-lute!}{}{}{}{}
+{23}{Sim... pensando bem, essa é a melhor opção. [Ele se inclina para você, sussurrando.] Perdoe minha bravata, amigo. Aqui na Ilha, qualquer camaradagem com estranhos é vista como fraqueza. Eu não tive escolha a não ser dizer essas coisas...}{Sim... pensando bem, essa é a melhor opção. [Ele se inclina para você, sussurrando.] Perdoe minha bravata, amigo. Aqui na Ilha, qualquer camaradagem com estranhos é vista como fraqueza. Eu não tive escolha a não ser dizer essas coisas...}{}{}{}{}
+{24}{Entendo. O que você faz por aqui?}{}{5}{me 0}{27}{re +5}
+{25}{Fico feliz que tenhamos chegado a esse acordo. Tenho algumas perguntas...}{}{5}{me 1}{71}{}
+{26}{E:}{}{5}{}{0}{}
+{27}{[O homem à sua frente está vestido em trapos, mas do pescoço aos pés estão pendurados pequenos objetos e bugigangas de todos os tipos.] Meu nome é Jones... Jones, o Colecionador, é como me chamam por aqui.}{Meu nome é Jones... Jones, o Colecionador, é como me chamam por aqui.}{}{}{}{}
+{28}{Olá. Por que o chamam de 'o Colecionador'?}{}{5}{}{33}{}
+{29}{E:}{}{5}{}{0}{}
+{30}{Oi! Por que você é chamado de 'Co-o-l-ec-cio-nador'?}{}{-4}{}{33}{}
+{31}{E:}{}{-4}{}{0}{}
+{33}{Porque é isso que eu faço, garoto! Eu coleciono coisas... todo tipo de coisas, todos os formatos, tamanhos, gostos e cores. Se pode ser encontrado na Ilha, o velho Jones tem. Entendeu, garoto? Não há ninguém que saiba mais sobre conseguir coisas do que Jones, o Colecionador...}{Porque é isso que eu faço, garota! Eu coleciono coisas... todo tipo de coisas, todos os formatos, tamanhos, gostos e cores. Se pode ser encontrado na Ilha, o velho Jones tem. Entendeu, garota? Não há ninguém que saiba mais sobre conseguir coisas do que Jones, o Colecionador...}{}{}{}{lf3 1}
+{34}{Acho que entendi, Jones. Você também negocia...?}{}{5}{}{37}{}
+{35}{Hã... você também troca coisas...?}{}{-4}{}{37}{}
+{37}{O hálito de um ogro cheira a peixe de ontem? Negociar...? Garoto, eu venho negociando desde antes de você começar a fazer perguntas idiotas. [Jones ri, batendo no joelho. Os objetos tilintam e batem enquanto ele se move.] Estou só brincando com você, garoto. Mas sim, eu entendo bastante de comércio e negociação...}{O hálito de um ogro cheira a peixe de ontem? Negociar...? Garota, eu venho negociando desde antes de você começar a fazer perguntas idiotas. [Jones ri, batendo no joelho. Os objetos tilintam e batem enquanto ele se move.] Estou só brincando com você, garota. Mas sim, eu entendo bastante de comércio e negociação...}{}{}{}{}
+{38}{Que tipo de coisas você tem coletado ultimamente?}{}{5}{}{43}{}
+{39}{Hã...que coisas você coleciona agora?}{}{-4}{}{43}{}
+{43}{Ah...quase tudo que dá na praia...garfos velhos, canos enferrujados e o sapato ou bota de vez em quando. Tá procurando sapatos? Tenho sapatos que você não acreditaria! Nenhum combina, mas aqui fora...espera...[Ele parece se lembrar de algo.] Você é novo por aqui, garoto? Tá querendo ganhar alguns itens, fazer uma troca...?}{Ah...quase tudo que dá na praia...garfos velhos, canos enferrujados e o sapato ou bota de vez em quando. Tá procurando sapatos? Tenho sapatos que você não acreditaria! Nenhum combina, mas aqui fora...espera...[Ele parece se lembrar de algo.] Você é nova por aqui, garota? Tá querendo ganhar alguns itens, fazer uma troca...?}{}{}{}{}
+{44}{É uma possibilidade. O que você tinha em mente?}{}{5}{}{51}{re +5}
+{45}{Na verdade, estou procurando alguns anões. Você poderia me ajudar?}{}{5}{}{112}{}
+{46}{No momento, não estou procurando trabalho. Tenha um bom dia...}{}{5}{}{0}{re -5}
+{47}{Talvez... o que você precisa que eu faça?}{}{-4}{}{51}{re +5}
+{48}{Hã... eu tô procurando anão!}{}{-4}{}{112}{}
+{49}{Eu não preciso de trabalho. Buh-bye!}{}{-4}{}{0}{re -5}
+{51}{Bom... estou tentando convencer alguém a ir até a Praia das Sombras nos últimos meses... tem algo MUITO estranho lá embaixo e, pelo que me disseram, BASTANTE coisa que um homem como eu poderia se interessar...}{Bom... estou tentando convencer alguém a ir até a Praia das Sombras nos últimos meses... tem algo MUITO estranho lá embaixo e, pelo que me disseram, BASTANTE coisa que um homem como eu poderia se interessar...}{}{}{}{}
+{52}{O que você quer dizer com 'estranho'? O que tem lá embaixo?}{}{5}{}{120}{}
+{53}{Acho que não estou interessado nisso. Tenha um bom dia...}{}{5}{}{0}{}
+{54}{Hã... o que tem lá embaixo, Jones?}{}{-4}{}{120}{}
+{55}{Hã... não gosto disso. Tchau!}{}{-4}{}{0}{}
+{59}{[Ele aperta os olhos, pensando.] Vou te dizer uma coisa. Se você trouxer alguns objetos da praia e encontrar algo bom, eu troco com você aquela arma que te falei. Só Deus sabe que não consigo entender patavinas dela.}{[Ela aperta os olhos, pensando.] Vou te dizer uma coisa. Se você trouxer alguns objetos da praia e encontrar algo bom, eu troco com você aquela arma que te falei. Só Deus sabe que não consigo entender patavinas dela.}{}{}{}{qu1073 1}
+{60}{Vou fazer isso e retornar...}{}{5}{}{68}{qu1073 2}
+{61}{Talvez. Tenha um bom dia...}{}{5}{}{0}{}
+{62}{Hã... tá bom! Eu faço isso!}{}{-4}{}{68}{qu1073 2}
+{63}{Hã... a gente conversa depois...}{}{-4}{}{0}{}
+{64}{Eu já estive lá e encontrei alguns objetos...}{}{5}{gf2137 1}{88}{}
+{65}{Hã... eu já estive lá! Encontrei algumas coisas!}{}{-4}{gf2137 1}{88}{}
+{68}{Feito! Aqui é onde fica a praia...[Ele aponta um lugar no seu mapa.] Boa sorte! Mal posso esperar para ver o que você vai desenterrar!}{Feito! Aqui é onde fica a praia...[Ele aponta um lugar no seu mapa.] Boa sorte! Mal posso esperar para ver o que você vai desenterrar!}{}{}{}{mm 32}
+{69}{E:}{}{1}{}{0}{}
+{71}{Claro! O que o velho Jones pode fazer por você...?}{Claro! O que o velho Jones pode fazer por você...?}{}{}{}{}
+{72}{Por que te chamam de 'O Colecionador'...?}{}{5}{qu1073 0}{33}{}
+{73}{Estou procurando trabalho, Jones...}{}{5}{qu1073 0, lf3 1}{51}{}
+{74}{Estive considerando sua oferta sobre a Praia das Sombras...}{}{5}{qu1073 1, gf 2137 0}{59}{}
+{75}{Ainda não trouxe os objetos da Praia das Sombras...}{}{5}{qu1073 2, gf 2137 0}{84}{}
+{76}{Encontrei alguns objetos na Praia das Sombras...}{}{5}{qu1073 2, gf2137 1}{88}{}
+{78}{Por que te chamam de 'Co-o-l-ec-tor'?}{}{-4}{qu1073 0}{33}{}
+{79}{Estou procurando trabalho, Jones!}{}{-4}{qu1073 0, lf3 1}{51}{}
+{80}{Talvez eu vá até a P-p-raia das S-s-sombras pra você, Jones?}{}{-4}{qu1073 1, gf 2137 0}{59}{}
+{81}{Ainda não consegui pegar as coisas da praia...}{}{-4}{qu1073 2, gf 2137 0}{84}{}
+{82}{Achei umas coisas na praia! Achei umas coisas na praia!}{}{-4}{qu1073 2, gf2137 1}{88}{}
+{83}{E:}{}{1}{}{0}{}
+{84}{Boa sorte quando chegar lá... quem sabe o que está esperando por uma alma naquela praia...}{Boa sorte quando chegar lá... quem sabe o que está esperando por uma alma naquela praia...}{}{}{}{}
+{85}{E:}{}{1}{}{0}{}
+{88}{Vamos ver o que você tem...!}{Vamos ver o que você tem...!}{}{}{}{}
+{89}{Eu achei isto... (Engrenagens Ancestrais). Vamos negociar...}{}{5}{in 5632}{126}{in 5632}
+{90}{Eu achei este esquema. Vamos negociar...}{}{5}{in 5226}{130}{}
+{91}{Eu achei isto... (Filamento Ancestral). Vamos negociar...}{}{5}{in 5634}{130}{}
+{92}{Eu achei isto... (Luneta Ancestral). Vamos negociar...}{}{5}{in 5635}{126}{in 5635}
+{93}{Eu achei isto... (Relógio de Bolso Ancestral). Vamos negociar...}{}{5}{in 5636}{126}{in 5636}
+{94}{Eu achei isto... (Engrenagens Ancestrais). Vamos negociar...}{}{-4}{in 5632}{126}{in 5632}
+{95}{Eu achei este esquema. Vamos negociar...}{}{-4}{in 5226}{130}{}
+{96}{Eu achei isto... (Filamento Ancestral). Vamos negociar...}{}{-4}{in 5634}{130}{}
+{97}{Eu achei isto... (Luneta Ancestral). Vamos negociar...}{}{-4}{in 5635}{126}{in 5635}
+{98}{Eu achei isto... (Relógio de Bolso Ancestral). Vamos negociar...}{}{-4}{in 5636}{126}{in 5636}
+{99}{Parece que eu os perdi...}{}{5}{ni 5632, ni 5633, ni 5634, ni 5635, ni5636}{106}{}
+{100}{Hã... eu os perdi!}{}{-4}{ni 5632, ni 5633, ni 5634, ni 5635, ni5636}{106}{}
+{101}{Talvez a gente negocie depois. Tenha um bom dia...}{}{5}{}{0}{}
+{102}{Talvez a gente negocie depois...}{}{-4}{}{0}{}
+{106}{Bom, veja se consegue encontrá-los e volte aqui quando conseguir...}{Bom, veja se consegue encontrá-los e volte aqui quando conseguir...}{}{}{}{}
+{107}{E:}{}{5}{}{0}{}
+{110}{Você pode acabar se tornando um bom colecionador, garoto! Foi bom fazer negócios com você...}{Você pode acabar se tornando uma boa colecionadora, garota! Foi bom fazer negócios com você...}{}{}{}{}
+{112}{Anões? O que você quer com Anões? Ninguém por aqui vai trocar nada por um anão! [Jones começa a gargalhar sem controle, quase se desequilibrando.] HA! Desculpe, garoto... meio que me deu um ataque de riso...}{Anões? O que você quer com Anões? Ninguém por aqui vai trocar nada por um anão! [Jones começa a gargalhar sem controle, quase se desequilibrando.] HA! Desculpe, garota... meio que me deu um ataque de riso...}{}{}{}{}
+{113}{Ha ha. Você viu algum, Jones?}{}{5}{}{116}{}
+{114}{Hã... muito engraçado! Agora, onde estão os anões...?}{}{-4}{}{116}{}
+{116}{[Jones se acalma depois de um momento.] Só tem um anão na Ilha, garoto, e é Thorvald Duas-Pedras. Ele manda nas coisas por aqui. A casa dele fica na parte norte da cidade...}{[Jones se acalma depois de um momento.] Só tem um anão na Ilha, garota, e é Thorvald Duas-Pedras. Ele manda nas coisas por aqui. A casa dele fica na extremidade norte da cidade...}{}{}{}{}
+{117}{Obrigado, Jones... posso lhe fazer outra pergunta?}{}{5}{}{71}{}
+{118}{Valeu, Jones! Posso fazer mais perguntas?}{}{-4}{}{71}{}
+{120}{Tem uns tipos de magos por aqui, e eles dizem que só de chegar perto do alcance da voz daquele lugar, seus feitiços já dão errado. Tem alguma coisa lá embaixo que não combina com magia. Além disso, o velho Deitrich trouxe de lá uma arma que eu nunca tinha visto igual. Eu mesmo desceria, mas dizem que o lugar está infestado de feras e sabe-se lá o quê...}{Tem uns tipos de magos por aqui, e eles dizem que só de chegar perto do alcance da voz daquele lugar, seus feitiços já dão errado. Tem alguma coisa lá embaixo que não combina com magia. Além disso, o velho Deitrich trouxe de lá uma arma que eu nunca tinha visto igual. Eu mesmo desceria, mas dizem que o lugar está infestado de feras e sabe-se lá o quê...}{}{}{}{}
+{121}{Hmmm. Interessante. O que você me oferece se eu descer lá?}{}{5}{}{59}{}
+{122}{Não parece ser da minha área de especialidade. Tenha um bom dia...}{}{5}{}{0}{}
+{123}{O que eu ganho se descer até a praia?}{}{-4}{}{59}{}
+{124}{Hmm... eu não gosto disso. Tchau!}{}{-4}{}{0}{}
+{126}{Parece uma boa troca! Fechado! Eu fico com isso, e você pode ficar com a arma. [Ele a entrega para você.] Foi um prazer fazer negócios com você...}{Parece uma boa troca! Fechado! Eu fico com isso, e você pode ficar com a arma. [Ele a entrega para você.] Foi um prazer fazer negócios com você...}{}{}{}{in -5692, qu1073 4}
+{127}{E com você também, Jones. Tenha um bom dia...}{}{5}{}{0}{lf2 1}
+{128}{Tchau, Jones!}{}{-4}{}{0}{lf2 1}
+{130}{Acho que o velho Jones não teria muita utilidade para isso. Você tem mais alguma coisa?}{Acho que o velho Jones não teria muita utilidade para isso. Você tem mais alguma coisa?}{}{}{}{}
+{131}{Sim, tenho mais alguns objetos...}{}{5}{}{88}{}
+{132}{Não. Talvez eu precise conseguir mais algumas coisas. Tenha um bom dia.}{}{5}{}{0}{}
+{133}{Hmm... é!}{}{-4}{}{88}{}
+{134}{Talvez eu precise procurar mais. Tchau!}{}{-4}{}{0}{}
+

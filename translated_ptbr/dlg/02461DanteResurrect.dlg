@@ -1,0 +1,16 @@
+{1}{Obrigado por devolver minha vida a mim, senhor.}{Obrigado por devolver minha vida a mim, senhora.}{}{1}{}{}
+{2}{Isso nem merece ser mencionado, na verdade. Você gostaria de se juntar a mim novamente?}{}{5}{}{15}{jo 0 10 lf30 1}
+{3}{Você se une.}{}{-4}{}{15}{jo 0 10 lf30 1}
+{9}{E:}{}{1}{}{0}{  lf30 1}
+{10}{Seria uma honra.}{Seria uma honra.}{}{2}{}{}
+{11}{Vamos então.}{}{5}{}{-6}{}
+{12}{Tá.}{}{-4}{}{-6}{}
+{15}{Deseja algo mais?}{Deseja algo mais?}{}{3}{}{}
+{16}{N:}{}{1}{}{0}{}
+{20}{Eu... estou perdido... dor... onde estou...}{Eu... estou perdida... dor... onde estou...}{}{4}{}{}
+{25}{Ah, é você novamente.}{Ah, é você novamente.}{}{5}{}{}
+{26}{Gostaria de se unir a mim novamente?}{}{5}{}{15}{jo 0 10}
+{27}{Você se une.}{}{-4}{}{15}{jo 0 10}
+{33}{E:}{}{1}{}{0}{}
+{34}{Obrigado por devolver minha vida a mim, senhor.}{Obrigado por devolver minha vida a mim, senhora.}{}{}{}{}
+

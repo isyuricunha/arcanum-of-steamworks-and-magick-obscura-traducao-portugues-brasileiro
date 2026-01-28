@@ -1,0 +1,210 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{É um prazer, madame. Posso saber quem é a senhora?}{}{5}{lf1 0}{10}{lf1 1}
+{3}{Olá, Srta. Misk. A senhora tem um momento?}{}{5}{lf1 1}{20}{}
+{4}{Oi, moça! Quem é você?}{}{-4}{lf1 0}{10}{lf1 1}
+{5}{Oi, Srta. Misk! Tem perguntas?}{}{-4}{lf1 1}{20}{}
+{6}{E:}{}{1}{}{0}{}
+{10}{[A jovem diante de você está vestida com um vestido azul-escuro, usando um pequeno chapéu e véu. Ela é impressionantemente bela - seu cabelo tem um tom profundo de âmbar, seus olhos são azul-gelo, mas um pouco inchados e vermelhos... você deduz que ela esteve chorando.] Sou Lillian Misk, esposa do falecido Victor Misk.}{[A jovem diante de você está vestida com um vestido azul-escuro, usando um pequeno chapéu e véu. Ela é impressionantemente bela - seu cabelo tem um tom profundo de âmbar, seus olhos são azul-gelo, mas um pouco inchados e vermelhos... você deduz que ela esteve chorando.] Sou Lillian Misk, esposa do falecido Victor Misk.}{}{}{}{gf2521 1}
+{11}{O FINADO Sr. Misk? Ele está morto?}{}{5}{}{15}{}
+{12}{Hã? Misk morreu?}{}{-4}{}{15}{}
+{15}{Sim... ele faleceu recentemente... nós o enterramos há não mais que quatro dias.}{Sim... ele faleceu recentemente... nós o enterramos há não mais que quatro dias.}{}{}{}{qu1048 4}
+{16}{Sinto muito pela sua perda, madame. A senhora tem um momento?}{}{5}{}{20}{}
+{17}{Hmmm... hã... fazer perguntas?}{}{-4}{}{20}{}
+{20}{Certamente...}{Certamente...}{}{}{}{}
+{21}{Gostaria de falar com a senhora sobre aquele livro na vitrine...}{}{5}{lf14 0, gf2653 1, lf15 0}{227}{}
+{22}{Hã... o quê aquele livro no vidro ali?}{}{-4}{lf14 0, gf2653 1, lf15 0}{227}{}
+{23}{Gostaria de falar com a senhora sobre "O Livro da Verdade de Durin"...}{}{5}{lf14 0, gf2653 1, lf15 1}{207}{}
+{24}{Preciso falar com a senhora sobre "O Dente de Der-uns!"}{}{-4}{lf14 0, gf2653 1, lf15 1}{207}{}
+{25}{Posso fazer algumas perguntas sobre Victor?}{}{5}{lf4 0}{38}{}
+{26}{Fazer perguntas sobre Vik-tor-r Mis-sk..?}{}{-4}{lf4 0}{38}{}
+{27}{Poderia me falar sobre "Horror Entre os Elfos Negros"?}{}{5}{lf4 0}{50}{}
+{28}{Hã... preciso saber sobre o livro dos Elfos Ruins...}{}{-4}{lf4 0}{50}{}
+{29}{O que você sabe sobre Roseborough, ou sua Loja de Presentes?}{}{5}{ru2002, lf4 0}{164}{lf4 1}
+{30}{O que você sabe sobre Ro-os-b-o-r-o?}{}{-4}{ru2002, lf4 0}{164}{lf4 1}
+{31}{Deve ser uma época solitária... talvez eu pudesse, hã, consolá-la...}{}{5}{lf4 1, ch 18, qu1052 4, lf16 0}{174}{lf16 1}
+{32}{Deve ser uma época solitária... talvez eu pudesse, hã, consolá-la...}{}{5}{lf4 1, ch -17, qu1052 4, lf16 0}{171}{lf16 1}
+{33}{Descobri quem vendeu as informações sobre Victor...}{}{5}{ru2194, lf12 0}{195}{lf12 1}
+{34}{E:}{}{1}{}{0}{}
+{38}{O que gostaria de saber sobre ele?}{O que gostaria de saber sobre ele?}{}{}{}{}
+{39}{O que aconteceu com ele?}{}{5}{lf2 0}{59}{lf2 1}
+{40}{O que aconteceu com Vik-ter...?}{}{-4}{lf2 0}{59}{lf2 1}
+{41}{Que tipo de delírios ele estava tendo?}{}{5}{lf2 1}{84}{}
+{42}{De-lí-rios? Que de-lí-rios-s-s?}{}{-4}{lf2 1}{84}{}
+{43}{O que aconteceu com o pai dele?}{}{5}{lf2 1}{121}{}
+{44}{O que houve com o pai de Vik-ter?}{}{-4}{lf2 1}{121}{}
+{45}{Onde Victor está enterrado?}{}{5}{lf3 1}{137}{}
+{46}{Onde Vik-ter está enterrado?}{}{-4}{lf3 1}{137}{}
+{47}{E:}{}{1}{}{0}{}
+{50}{O que você gostaria de saber sobre o livro?}{O que você gostaria de saber sobre o livro?}{}{}{}{}
+{51}{Você ainda tem uma cópia dele?}{}{5}{}{113}{}
+{52}{Você tem o livro do Elfo Maligno?}{}{-4}{}{113}{}
+{53}{Como se espalhou a notícia de que Victor ainda tinha uma cópia...?}{}{5}{qb1052 1}{96}{}
+{54}{E:}{}{1}{}{0}{}
+{59}{Ele se afogou...[Lágrimas brotam em seus olhos.] Eles o encontraram perto dos docas, jogado na margem. Não o víamos há dias, mas ele estava...daquele jeito...nos últimos meses...}{Ele se afogou...[Lágrimas brotam em seus olhos.] Eles o encontraram perto dos docas, jogado na margem. Não o víamos há dias, mas ele estava...daquele jeito...nos últimos meses...}{}{}{}{}
+{60}{O que você quer dizer com 'daquele jeito'?}{}{5}{}{66}{}
+{61}{Como assim? Ele pirou?}{}{-4}{}{66}{}
+{62}{Controle-se, mulher!}{}{5}{}{155}{}
+{63}{E:}{}{1}{}{0}{}
+{66}{Victor ficou...[soluço] desequilibrado... nos últimos meses de vida. Ele começou a ter delírios, crises frequentes de ansiedade...desde que lançaram aquele livro amaldiçoado...}{Victor ficou...[soluço] desequilibrado... nos últimos meses de vida. Ele começou a ter delírios, crises frequentes de ansiedade...desde que lançaram aquele livro amaldiçoado...}{}{}{}{}
+{67}{Você está falando de "A Maldição de T'sen-Ang", de Kendrick Wales?}{}{5}{}{74}{}
+{68}{Tá falando do livro sobre o livro do Elfo Maligno?}{}{-4}{}{74}{}
+{74}{Sim...assim que o livro foi lançado aqui em Caladon, ele ficou convencido de que seria a próxima vítima daquela suposta maldição. Tentei consolá-lo, dizer que era tudo conjectura do autor, mas ele simplesmente não escutava. Ele dizia "eles pegaram meu velho pai, e agora estão vindo atrás de mim..." Nós o enterramos um mês depois...}{Sim...assim que o livro foi lançado aqui em Caladon, ele ficou convencido de que seria a próxima vítima daquela suposta maldição. Tentei consolá-lo, dizer que era tudo conjectura do autor, mas ele simplesmente não escutava. Ele dizia "eles pegaram meu velho pai, e agora estão vindo atrás de mim..."}{}{}{}{ru 2091, lf3 1}
+{75}{Onde foi o funeral?}{}{5}{}{137}{}
+{76}{Onde ele tá enterrado?}{}{-4}{}{137}{}
+{77}{Mais algumas perguntas sobre Victor?}{}{5}{}{38}{}
+{78}{Mais perguntas sobre Vik-ter}{}{-4}{}{38}{}
+{79}{Mais algumas perguntas sobre o livro?}{}{5}{}{50}{}
+{80}{Mais perguntas sobre o livro!}{}{-4}{}{50}{}
+{81}{E:}{}{1}{}{0}{}
+{84}{Ele dizia que pessoas o perseguiam...que figuras encapuzadas e vestidas com mantos apareciam ao seu redor, encarando-o, observando-o. Ele disse que elas se aproximavam dele, exigindo o livro e ameaçando coisas horríveis se ele não o entregasse. Quase exatamente o que havia sido descrito como acontecendo com os donos anteriores do livro...}{Ele dizia que pessoas o perseguiam...que figuras encapuzadas e vestidas com mantos apareciam ao seu redor, encarando-o, observando-o. Ele disse que elas se aproximavam dele, exigindo o livro e ameaçando coisas horríveis se ele não o entregasse. Quase exatamente o que havia sido descrito como acontecendo com os donos anteriores do livro...}{}{}{}{}
+{85}{E você nunca viu nada disso?}{}{5}{}{88}{}
+{86}{Você também viu essas pessoas assustadoras?}{}{-4}{}{88}{}
+{88}{Não...acredito que todas essas histórias levaram meu pobre Victor à loucura. Claro, havia um número absurdo de colecionadores que apareceram quando descobriram que ele ainda tinha uma cópia do livro...mas todos eram educados e profissionais. Nenhum homem mau entre eles...}{Não...acredito que todas essas histórias levaram meu pobre Victor à loucura. Claro, havia um número absurdo de colecionadores que apareceram quando descobriram que ele ainda tinha uma cópia do livro...mas todos eram educados e profissionais. Nenhum homem mau entre eles...}{}{}{}{}
+{89}{Mais algumas perguntas sobre Victor?}{}{5}{}{38}{}
+{90}{Mais perguntas sobre Vik-ter}{}{-4}{}{38}{}
+{91}{Mais algumas perguntas sobre o livro?}{}{5}{}{50}{}
+{92}{Mais perguntas sobre o livro!}{}{-4}{}{50}{}
+{93}{E:}{}{1}{}{0}{}
+{96}{[Raiva nos olhos dela.] Eu não sei! Mantivemos isso em segredo por tanto tempo... só Victor e eu sabíamos, assim como alguns de nossos empregados... mas nenhum deles jamais teria dito algo... eles são como família para nós, e sempre os tratamos tão bem...}{[Raiva nos olhos dela.] Eu não sei! Mantivemos isso em segredo por tanto tempo... só Victor e eu sabíamos, assim como alguns de nossos empregados... mas nenhum deles jamais teria dito algo... eles são como família para nós, e sempre os tratamos tão bem...}{}{}{}{ru 2093}
+{97}{Talvez o Sr. Wales tenha pago uma boa quantia a um deles pela informação...?}{}{5}{}{100}{}
+{100}{Sim, sim, eu sei. E nós perguntamos a todos eles, mas todos negaram qualquer envolvimento no assunto. Eu confio em todos eles... e, além disso, não tenho provas em contrário. Suponho que ficaria grata se alguém investigasse o assunto...}{Sim, sim, eu sei. E nós perguntamos a todos eles, mas todos negaram qualquer envolvimento no assunto. Eu confio em todos eles... e, além disso, não tenho provas em contrário. Suponho que ficaria grata se alguém investigasse o assunto...}{}{}{}{qu1052 1}
+{101}{Seria uma honra oferecer meus serviços...}{}{5}{qb1052 1}{105}{qu1052 2}
+{102}{Talvez... vou pensar no assunto...}{}{5}{qb1052 1}{105}{}
+{103}{K:}{}{1}{}{20}{}
+{104}{E:}{}{1}{}{0}{}
+{105}{Qualquer ajuda seria apreciada. Os empregados estão pela casa... sinta-se à vontade para falar com eles...}{Qualquer ajuda seria apreciada. Os empregados estão pela casa... sinta-se à vontade para falar com eles...}{}{}{}{}
+{106}{Talvez eu faça isso. Mais algumas perguntas sobre Victor?}{}{5}{}{38}{}
+{107}{Mais perguntas sobre Vik-ter}{}{-4}{}{38}{}
+{108}{Mais algumas perguntas sobre o livro?}{}{5}{}{50}{}
+{109}{Mais perguntas sobre o livro!}{}{-4}{}{50}{}
+{110}{E:}{}{1}{}{0}{}
+{113}{Não... até duas semanas atrás, Victor o carregava consigo o tempo todo. Então, um dia, ele voltou para casa e nos disse que o havia escondido "em algum lugar que só ele e seu velho pai saberiam." Todos achamos muito estranho, mas, naquela altura, não havia muito em Victor que não fosse.}{Não... até duas semanas atrás, Victor o carregava consigo o tempo todo. Então, um dia, ele voltou para casa e nos disse que o havia escondido "em algum lugar que só ele e seu velho pai saberiam." Todos achamos muito estranho, mas, naquela altura, não havia muito em Victor que não fosse.}{}{}{}{}
+{114}{Mais algumas perguntas sobre Victor?}{}{5}{}{38}{}
+{115}{Mais perguntas sobre Vik-ter}{}{-4}{}{38}{}
+{116}{Mais algumas perguntas sobre o livro?}{}{5}{}{50}{}
+{117}{Mais perguntas sobre o livro!}{}{-4}{}{50}{}
+{118}{E:}{}{1}{}{0}{}
+{121}{O pai de Victor, Phillip Misk, era um ávido colecionador de livros... em certa época, ele tinha a maior coleção de todo o Caladon. Ele morreu em um incêndio... deduziu-se que ele havia adormecido em seu escritório enquanto fumava um charuto... algo pegou fogo, e ele foi morto nas chamas. A maior parte de sua coleção foi perdida no incêndio...}{O pai de Victor, Phillip Misk, era um ávido colecionador de livros... em certa época, ele tinha a maior coleção de todo o Caladon. Ele morreu em um incêndio... deduziu-se que ele havia adormecido em seu escritório enquanto fumava um charuto... algo pegou fogo, e ele foi morto nas chamas. A maior parte de sua coleção foi perdida no incêndio...}{}{}{}{}
+{122}{Mas não "Horror Entre os Elfos Negros"...}{}{5}{}{125}{}
+{123}{Mas não o livro dos Elfos Malvados?}{}{-4}{}{125}{}
+{125}{Não... mas Victor não o encontrou por muitos anos... ele estava escondido em um velho baú no sótão de nossa casa de verão. Parece que a paranoia de Victor pode ter sido um traço herdado...}{Não... mas Victor não o encontrou por muitos anos... ele estava escondido em um velho baú no sótão de nossa casa de verão. Parece que a paranoia de Victor pode ter sido um traço herdado...}{}{}{}{}
+{126}{Não parece estranho que ambos tenham morrido de maneira um tanto misteriosa...?}{}{5}{}{129}{}
+{127}{Uh... os dois morreram! Isso é muito estranho!}{}{-4}{}{129}{}
+{129}{Eu não compartilho dessa opinião, senhor. [Chora novamente.] Não sou uma mulher supersticiosa. Sinto falta do meu Victor mais do que tudo, mas não dou crédito a essas bobagens. Tanto Victor quanto seu pai foram vítimas do acaso e das circunstâncias. Não quero ouvir mais nada sobre isso.}{Eu não compartilho dessa opinião, senhora. [Chora novamente.] Não sou uma mulher supersticiosa. Sinto falta do meu Victor mais do que tudo, mas não dou crédito a essas bobagens. Tanto Victor quanto seu pai foram vítimas do acaso e das circunstâncias. Não quero ouvir mais nada sobre isso.}{}{}{}{}
+{130}{Mais algumas perguntas sobre Victor?}{}{5}{}{38}{}
+{131}{Mais perguntas sobre Vik-ter}{}{-4}{}{38}{}
+{132}{Mais algumas perguntas sobre o livro?}{}{5}{}{50}{}
+{133}{Mais perguntas sobre o livro!}{}{-4}{}{50}{}
+{134}{E:}{}{1}{}{0}{}
+{137}{No cemitério de Caladon. Fica a noroeste daqui, perto do Templo Panarii...}{No cemitério de Caladon. Fica a noroeste daqui, perto do Templo Panarii...}{}{}{}{gf2006 1, ru 2092}
+{138}{Havia alguém estranho no funeral?}{}{5}{}{147}{}
+{139}{Quem estava no funeral? Pessoas esquisitas?}{}{-4}{}{147}{}
+{140}{Mais algumas perguntas sobre Victor?}{}{5}{}{38}{}
+{141}{Mais perguntas sobre Vik-ter}{}{-4}{}{38}{}
+{142}{Mais algumas perguntas sobre o livro?}{}{5}{}{50}{}
+{143}{Mais perguntas sobre o livro!}{}{-4}{}{50}{}
+{144}{E:}{}{1}{}{0}{}
+{147}{Não me lembro de nada. Estavam alguns dos nossos amigos, os criados e um pouco da família.}{Não me lembro de nada. Estavam alguns dos nossos amigos, os criados e um pouco da família.}{}{}{}{}
+{148}{Mais algumas perguntas sobre Victor?}{}{5}{}{38}{}
+{149}{Mais perguntas sobre Vik-ter}{}{-4}{}{38}{}
+{150}{Mais algumas perguntas sobre o livro?}{}{5}{}{50}{}
+{151}{Mais perguntas sobre o livro!}{}{-4}{}{50}{}
+{152}{E:}{}{1}{}{0}{}
+{155}{O quê? Acabei de perder um marido para a loucura! O senhor não tem coração?}{O quê? Acabei de perder um marido para a loucura! A senhora não tem coração?}{}{}{}{}
+{156}{Sem dúvida a loucura dele foi por culpa sua...}{}{5}{}{}{lf5 1, fl 161}
+{157}{Sinto muito... Mais algumas perguntas sobre Victor?}{}{5}{}{38}{}
+{158}{Sinto muito... Mais algumas perguntas sobre o livro?}{}{5}{}{50}{}
+{159}{E:}{}{1}{}{0}{}
+{161}{Como ousa! Eu amava o Victor! Pode sair daqui, senhor! Não quero mais nada com o senhor!}{Como ousa! Eu amava o Victor! Pode sair daqui, senhora! Não quero mais nada com a senhora!}{}{}{}{}
+{164}{Roseborough? Só estive lá uma vez... Victor e eu viajamos até lá uma vez para visitar o túmulo do pai dele. Nunca mais voltei desde então. Uma cidadezinha, bem entediante. Aqui, vou lhe mostrar onde fica...}{Roseborough? Só estive lá uma vez... Victor e eu viajamos até lá uma vez para visitar o túmulo do pai dele. Nunca mais voltei desde então. Uma cidadezinha, bem entediante. Aqui, vou lhe mostrar onde fica...}{}{}{}{ru 2094, mm 13, ss 13}
+{165}{Entendo. Agradeço pela sua ajuda, senhora...}{}{5}{}{}{fl 168}
+{166}{Ah... tá bom. Tchau, senhora Misk!}{}{-4}{}{}{fl 168}
+{168}{Obrigado, senhor. E boa sorte em suas viagens...}{Obrigado, senhora. E boa sorte em suas viagens...}{}{}{}{}
+{171}{[Ela olha para você, astutamente.] Com licença, senhor. Posso ser jovem, mas tenho sabedoria sobre os caminhos dos homens maus. Uma tentativa gentil, mas estou de luto...}{[Ela olha para você, um pouco surpresa.] Com licença, senhora. Não quero ofender, mas estou de luto. E devo dizer que você não é exatamente o meu... tipo habitual.}{}{}{}{}
+{172}{Entendo. Então vou me despedir...}{}{5}{}{0}{lf6 1}
+{174}{[Ela olha para você, ponderando. Então, estendendo a mão para você...] Sim, tem sido... exaustivo. Talvez possamos encontrar algo para distrair minha mente de tudo isso...}{[Ela olha para você, seus olhos se arregalando, então ponderando. Então, estendendo a mão para você...] Sim, tem sido... exaustivo. Talvez algo... novo... possa distrair minha mente de tudo isso...}{}{}{}{}
+{175}{Tenho certeza de que vamos dar um jeito...}{}{5}{}{-12}{}
+{180}{[Ela se inclina para você, beijando-o suavemente na bochecha.] Você foi um grande... 'conforto' para mim, @PCNAME@. Talvez quando sua missão terminar, você possa voltar para mim? Não ficarei de luto para sempre... (ela olha para você, esperançosa...)}{[Ela se inclina para você, beijando-o suavemente na bochecha.] Você foi um grande... 'conforto' para mim. Lembrarei com carinho do tempo que passamos juntos...}{}{}{}{}
+{181}{Assim como eu, senhora... tenha um bom dia.}{0}{5}{}{}{lf7 1}
+{182}{Talvez eu faça isso, Lillian. Tenha um bom dia...}{1}{5}{}{}{lf 8 1, fl 185}
+{183}{Duvido. Tenho uma longa lista de outros que requerem minha atenção...}{1}{5}{}{}{lf9 1, fl 187}
+{185}{Aguardo ansiosamente seu retorno, @PCNAME@...}{Aguardo ansiosamente seu retorno, @PCNAME@...}{}{}{}{}
+{187}{Patife! Fique longe de mim! Espero nunca mais ver você!}{Patife! Fique longe de mim! Espero nunca mais ver você!}{}{}{}{}
+{189}{Você... me ensinou muitas coisas, @PCNAME@. Nunca me esquecerei de você...}{Você... me ensinou muitas coisas, @PCNAME@. Nunca me esquecerei de você...}{}{}{}{}
+{191}{Bom dia para o senhor.}{Bom dia para você, senhora.}{}{}{}{}
+{193}{Sinto muito, mas estamos passando por... dificuldades... dentro da família. Não tenho tempo para conversar agora...}{Sinto muito, mas estamos passando por... dificuldades... dentro da família. Não tenho tempo para conversar agora...}{}{}{}{}
+{195}{Você tem? Quem foi?}{Você tem? Quem foi?}{}{}{}{}
+{196}{Quem mais? O mordomo fez isso... [Conte a ela a história.]}{}{5}{}{199}{}
+{199}{Entendo. [Há uma grande tristeza em seus olhos.] Bem, acho que nunca se sabe sobre as pessoas. Nem mesmo as mais próximas. Talvez houvesse alguma justiça em sua morte prematura. Agradeço pela sua ajuda, senhor...}{Entendo. [Há uma grande tristeza em seus olhos.] Bem, acho que nunca se sabe sobre as pessoas. Nem mesmo as mais próximas. Talvez houvesse alguma justiça em sua morte prematura. Agradeço pela sua ajuda, senhora...}{}{}{}{qu1052 4}
+{200}{Foi um prazer. Mais algumas perguntas, se não se importa...}{}{5}{gf2522 1}{20}{}
+{201}{O que você quer dizer com 'morte prematura' dele?}{}{5}{gf2522 0}{204}{}
+{202}{E:}{}{1}{}{0}{}
+{204}{Não ficou sabendo? Ele foi encontrado em sua casa há alguns dias, com uma faca cravada no coração. Talvez houvesse algo de verdade naquela maldição, afinal. Bem, agradeço pela sua ajuda no assunto, senhor...}{Não ficou sabendo? Ele foi encontrado em sua casa há alguns dias, com uma faca cravada no coração. Talvez houvesse algo de verdade naquela maldição, afinal. Bem, agradeço pela sua ajuda no assunto, senhora...}{}{}{}{}
+{205}{Foi um prazer. Mais algumas perguntas, se não se importar...}{}{5}{}{20}{}
+{206}{E:}{}{1}{}{0}{}
+{207}{"O Livro da Verdade de Durin? Sobre o que deseja falar?}{"O Livro da Verdade de Durin? Sobre o que deseja falar?}{}{}{}{}
+{208}{Entendo. Está à venda?}{}{5}{ru -2215}{237}{}
+{209}{Hã... eu posso comprá-lo de você?}{}{-4}{ru -2215}{237}{}
+{210}{Preciso desse livro. Há alguma forma de consegui-lo?}{}{5}{ru 2215, lf8 0, lf9 0, lf10 0, lf11 0}{242}{}
+{211}{Eu preciso dele! Eu preciso dele!}{}{-4}{ru 2215, lf8 0, lf9 0, lf10 0, lf11 0}{242}{}
+{212}{Estou aqui com o dinheiro que combinamos, senhora...}{}{5}{lf8 1, $$2000}{298}{}
+{215}{Ainda não tenho as 2000 peças de ouro pelo livro, senhora...}{}{5}{lf8 1, $$2000}{288}{}
+{216}{Estou aqui com o dinheiro que combinamos, senhora...}{}{5}{lf9 1, $$2000}{298}{}
+{217}{Ainda não tenho as 1750 peças de ouro pelo livro, senhora...}{}{5}{lf9 1, $$2000}{288}{}
+{218}{Estou aqui com o dinheiro que combinamos, senhora...}{}{5}{lf10 1, $$2000}{298}{}
+{219}{Ainda não tenho as 1500 peças de ouro pelo livro, senhora...}{}{5}{lf10 1, $$2000}{288}{}
+{220}{Estou aqui com o dinheiro que combinamos, senhora...}{}{5}{lf11 1, $$2000}{298}{}
+{221}{Ainda não tenho as 1250 peças de ouro pelo livro, senhora...}{}{5}{lf11 1, $$2000}{288}{}
+{222}{Eu trago dinheiro pelo livro!}{}{-4}{$$2000, lf13 1}{298}{}
+{223}{Eu ainda não tenho 2000 peças de ouro pelo livro, senhora...}{}{-4}{$$-1999, lf13 1}{288}{}
+{224}{K:}{}{1}{}{20}{}
+{225}{E:}{}{1}{}{0}{}
+{227}{Ah, esse é o "Livro da Verdade de Durin", acredito que seja um antigo tomo anão. Era uma das posses mais valiosas de Victor... [Ela soluça um pouco, enxuga o canto do olho com um lenço.]}{Ah, esse é o "Livro da Verdade de Durin", acredito que seja um antigo tomo anão. Era uma das posses mais valiosas de Victor... [Ela soluça um pouco, enxuga o canto do olho com um lenço.]}{}{}{}{lf15 1}
+{228}{Entendo. Está à venda?}{}{5}{ru -2215}{237}{}
+{229}{Hã... eu posso comprá-lo de você?}{}{-4}{ru -2215}{237}{}
+{230}{Preciso desse livro. Há alguma forma de consegui-lo?}{}{5}{ru 2215}{242}{}
+{231}{Eu preciso dele! Eu preciso dele!}{}{-4}{ru 2215}{242}{}
+{232}{K:}{}{1}{}{20}{}
+{233}{E:}{}{1}{}{0}{}
+{237}{Não, receio que não. Eu o guardo aqui... por valor sentimental...}{Não, receio que não. Eu o guardo aqui... por valor sentimental...}{}{}{}{}
+{238}{K:}{}{1}{}{20}{}
+{239}{E:}{}{1}{}{0}{}
+{242}{Por que diabos você precisaria exatamente desse livro?}{Por que diabos você precisaria exatamente desse livro?}{}{}{}{}
+{243}{Veja, estou procurando pelo Clã de Ferro... [Conte a ela a história.]}{}{5}{}{252}{}
+{244}{Preciso encontrar Irun Klan! [Conte a história para ela.]}{}{-4}{}{252}{}
+{245}{K:}{}{1}{}{20}{}
+{246}{E:}{}{1}{}{0}{}
+{252}{Hmmm. Uma missão interessante, meu amigo. Talvez eu esteja interessado em vendê-la, afinal. Você está interessado em comprá-la?}{Hmmm. Uma missão interessante, meu amigo. Talvez eu esteja interessado em vendê-la, afinal. Você está interessado em comprá-la?}{}{}{}{}
+{253}{Claro. Em que preço você estava pensando?}{}{5}{}{258}{}
+{254}{É! Quanto custa?}{}{-4}{}{258}{}
+{255}{Comprar? Madame! Isto é uma relíquia cultural! Não tem vergonha na cara?}{}{5}{}{278}{}
+{256}{Hã... Eu não quero comprar! Só me dê o livro!}{}{-4}{}{278}{}
+{257}{E:}{}{1}{}{0}{}
+{258}{Que tal estabelecermos o preço em 2000 peças de ouro? Mais do que um preço justo, considerando seu valor...}{Entendo. Bem, parece uma missão muito importante, meu amigo. Talvez eu possa ser persuadido a vender o livro para você, afinal. Que tal estabelecermos o preço em 2000 peças de ouro? Mais do que um preço justo, considerando seu valor...}{}{}{}{}
+{259}{Feito. [Dê o dinheiro a ela.]}{}{5}{ha -6, $$2000}{298}{$$-2000}
+{260}{Feito.}{}{5}{ha -6, $$-1999}{288}{lf8 1}
+{261}{Eu estava pensando mais em algo como 1750... [Dê o dinheiro a ela.]}{}{5}{ha 7, ha -10, $$1750}{298}{$$-1750}
+{262}{Eu estava pensando mais em algo como 1750...}{}{5}{ha 7, ha -10, $$-1749}{288}{lf9 1}
+{263}{Que tal fecharmos em 1500... [Dê o dinheiro a ela.]}{}{5}{ha 11, ha -14, $$1500}{298}{$$-1500}
+{264}{Que tal fecharmos em 1500...}{}{5}{ha 11, ha -14, $$-1499}{288}{lf10 1}
+{265}{Talvez 1250 seja um preço mais razoável... [Dê o dinheiro a ela.]}{}{5}{ha 15, $$1250}{298}{$$-1250}
+{266}{Talvez 1250 seja um preço mais razoável.}{}{5}{ha 15, $$-1249}{288}{lf11 1}
+{267}{Tá bom! [Dê o dinheiro a ela.]}{}{-4}{$$2000}{298}{$$-2000}
+{268}{Certo!}{}{-4}{$$-1999}{288}{lf13 1}
+{269}{Acho que não gostei nada desse preço, madame...}{}{5}{}{278}{}
+{270}{Eu não gostei disso!}{}{-4}{}{278}{}
+{271}{E:}{}{1}{}{0}{}
+{278}{[Ela lhe lança um olhar perspicaz.] Negócios são negócios, meu amigo. E não pense em obter o livro por outros meios... aquela vitrine tem um mecanismo de fechadura bem desagradável. Então, vai levar o livro ou não? 2000 é o preço para você agora, aceite ou deixe.}{[Ela lhe lança um olhar perspicaz.] Negócios são negócios, meu amigo. E não pense em obter o livro por outros meios... aquela vitrine tem um mecanismo de fechadura bem desagradável. Então, vai levar o livro ou não? 2000 é o preço para você agora, aceite ou deixe.}{}{}{}{lf8 1}
+{279}{Feito. [Dê o dinheiro a ela.]}{}{5}{$$2000}{298}{$$-2000}
+{280}{Feito.}{}{5}{$$-1999}{288}{}
+{281}{Tá bom! [Dê o dinheiro a ela.]}{}{-4}{$$2000}{298}{$$-2000}
+{282}{Certo!}{}{-4}{$$-1999}{288}{lf13 1}
+{283}{K:}{}{1}{}{20}{}
+{284}{E:}{}{1}{}{0}{}
+{288}{Vejo que parece não ter as moedas, amigo. Volte quando tiver...}{Vejo que parece não ter as moedas, amigo. Volte quando tiver...}{}{}{}{}
+{289}{K:}{}{1}{}{20}{}
+{290}{E:}{}{1}{}{0}{}
+{298}{Obrigado. Aqui está a chave da vitrine. Pegue o livro quando quiser.}{Obrigado. Aqui está a chave da vitrine. Pegue o livro quando quiser.}{}{}{}{in -4422, lf14 1}
+{299}{K:}{}{1}{}{20}{}
+{300}{E:}{}{1}{}{0}{}
+

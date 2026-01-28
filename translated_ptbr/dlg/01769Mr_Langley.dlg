@@ -1,0 +1,106 @@
+{1}{G:}{}{}{}{}{}
+{2}{Saudações, senhor. E quem seria você?}{}{5}{me0, re41}{22}{}
+{3}{É assim que você fala com hóspedes? Qual é o seu nome?}{}{5}{me0, re-40}{22}{}
+{4}{Olá, Ronald. Posso lhe fazer algumas perguntas?}{}{5}{me1, re41}{28}{}
+{5}{Hmm... Ainda faltando com as boas maneiras, Ronald? Tenho algumas perguntas...}{}{5}{me1, re-40}{28}{}
+{6}{Madame Lil me enviou para falar com você...}{}{5}{QA1126 1, QB1126 3, lf5 0}{76}{}
+{7}{Vim pelo dinheiro...}{}{5}{QA1126 1, QB1126 3, lf5 1}{-4}{}
+{8}{Vim pelo dinheiro...}{}{5}{QA1126 1, QB1126 3, lf6 1}{-4}{}
+{9}{Olá, Ronald... Tem ido à casa da Madame Lil ultimamente?}{}{5}{QU1126 4}{}{fl 109}
+{12}{Hã... Oi, senhor. Qua' é o seu nome?}{}{-4}{me0, re41}{22}{}
+{13}{Isso num é legal... Hã... qua' é o seu nome?}{}{-4}{me0, re-40}{22}{}
+{14}{Hã... Oi, Ron. Posso te perguntar uma coisa?}{}{-4}{me1, re41}{28}{}
+{15}{Você num é um homem legal, Ron. Hã... quero te perguntar uma coisa.}{}{-4}{me1, re-40}{28}{}
+{16}{Madame Lil me disse pra falar com você sobre o dinheiro...}{}{-4}{QA1126 1, QB1126 3, lf5 0}{76}{}
+{17}{Eu tô aqui pelo dinheiro...}{}{-4}{QA1126 1, QB1126 3, lf5 1, lf 13 0}{-4}{}
+{18}{Eu tô aqui pelo dinheiro...}{}{-4}{QA1126 1, QB1126 3, lf6 1, lf 13 0}{-4}{}
+{19}{Hã... Oi, Ron. Você tem ido à casa da Madame?}{}{-4}{QU1126 4}{}{fl 109}
+{22}{Meu nome é Ronald Langley. Sou o porteiro da Estalagem Bridesdale, o melhor hotel de toda Tarant.}{Meu nome é Ronald Langley. Sou o porteiro da Estalagem Bridesdale, o melhor hotel de toda Tarant.}{}{}{}{}
+{23}{Olá, Ronald. Posso lhe fazer algumas perguntas?}{}{5}{}{28}{}
+{24}{Então você recomendaria ficar aqui?}{}{5}{lf1 0}{46}{}
+{25}{Hã... Oi, Ron. Posso te perguntar uma coisa?}{}{-4}{}{28}{}
+{26}{Esse é um bom lugar pra dormir?}{}{-4}{lf1 0}{46}{}
+{27}{E:}{}{1}{}{0}{}
+{28}{Com o que posso ajudá-lo, senhor?}{Em que posso ajudá-la, madame?}{}{}{}{}
+{29}{Você recomenda esta estalagem?}{}{5}{lf1 0}{46}{}
+{30}{Qual é a forma mais rápida de se locomover em Tarant?}{}{5}{lf2 0}{69}{}
+{31}{Há algum ponto turístico em Tarant que você recomendaria?}{}{5}{lf3 0}{53}{}
+{32}{Esse é um bom lugar pra dormir?}{}{-4}{lf1 0}{46}{}
+{33}{Como eu faço pra andar rápido por Tarant?}{}{-4}{lf2 0}{69}{}
+{34}{Que coisa boa tem pra ver em Tarant?}{}{-4}{lf3 0}{53}{}
+{35}{T: 8}{}{1}{}{37}{}
+{36}{E:}{}{1}{}{0}{}
+{37}{Posso ajudá-lo com mais alguma coisa, senhor?}{Posso ajudá-la com mais alguma coisa, madame?}{}{}{}{}
+{38}{O senhor recomenda esta estalagem?}{}{5}{lf1 0}{46}{}
+{39}{Qual é a forma mais rápida de se locomover em Tarant?}{}{5}{lf2 0}{69}{}
+{40}{Há algum ponto turístico em Tarant que o senhor recomendaria?}{}{5}{lf3 0}{53}{}
+{41}{Bom lugá pra dormi?}{}{-4}{lf1 0}{46}{}
+{42}{Como eu faço pra andá rápido em Tarant?}{}{-4}{lf2 0}{69}{}
+{43}{Que coisa boa tem pra vê em Tarant?}{}{-4}{lf3 0}{53}{}
+{44}{T: 8}{}{1}{}{37}{}
+{45}{E:}{}{1}{}{0}{}
+{46}{Oh, eu recomendo fortemente ficar aqui no Bridesdale, senhor. A decoração é bastante moderna, os quartos são ricamente mobiliados e as tarifas são as mais baixas que o senhor encontrará em toda Tarant. Tenho certeza de que ficará extremamente satisfeito se decidir ficar conosco.}{Oh, eu recomendo fortemente ficar aqui no Bridesdale, senhora. A decoração é bastante moderna, os quartos são ricamente mobiliados e as tarifas são as mais baixas que a senhora encontrará em toda Tarant. Tenho certeza de que ficará extremamente satisfeita se decidir ficar conosco.}{}{}{}{lf1 1}
+{47}{Qual é a forma mais rápida de se locomover em Tarant?}{}{5}{lf2 0}{69}{}
+{48}{Há algum ponto turístico em Tarant que a senhora recomendaria?}{}{5}{lf3 0}{53}{}
+{49}{Como eu faço pra andá rápido em Tarant?}{}{-4}{lf2 0}{69}{}
+{50}{Que coisa boa tem pra vê em Tarant?}{}{-4}{lf3 0}{53}{}
+{51}{K:}{}{1}{}{37}{}
+{52}{E:}{}{1}{}{0}{}
+{53}{O Parque da Universidade é provavelmente a área "imperdível" de Tarant. Esse quarteirão da cidade é uma fonte de conhecimento. Abriga a prefeitura, a sociedade zoológica e a universidade. São simplesmente impressionantes!}{O Parque da Universidade é provavelmente a área "imperdível" de Tarant. Esse quarteirão da cidade é uma fonte de conhecimento. Abriga a prefeitura, a sociedade zoológica e a universidade. São simplesmente impressionantes!}{}{}{}{lf3 1}
+{54}{O senhor recomenda esta estalagem?}{}{5}{lf1 0}{46}{}
+{55}{Qual é a forma mais rápida de se locomover em Tarant?}{}{5}{lf2 0}{69}{}
+{56}{Estou procurando algo mais aventureiro...}{}{5}{lf4 0}{62}{}
+{57}{Tô procurando diversão de verdade...}{}{-4}{lf4 0}{62}{}
+{58}{Bom lugá pra dormi?}{}{-4}{lf1 0}{46}{}
+{59}{Como eu faço pra andá rápido em Tarant?}{}{-4}{lf2 0}{69}{}
+{60}{K:}{}{1}{}{37}{}
+{61}{E:}{}{1}{}{0}{}
+{62}{Entendo. Então o estabelecimento da Madame Lil é o lugar certo para a senhora. Tenho certeza de que ela terá algo para satisfazer seu espírito aventureiro.}{Entendo. Então talvez uma viagem em nossa excelente locomotiva seja para a senhora. Tenho certeza de que isso satisfaria seu lado mais aventureiro, madame.}{}{}{}{lf4 1}
+{63}{O senhor recomenda esta estalagem?}{}{5}{lf1 0}{46}{}
+{64}{Qual é a forma mais rápida de se locomover em Tarant?}{}{5}{lf2 0}{69}{}
+{65}{Bom lugá pra dormi?}{}{-4}{lf1 0}{46}{}
+{66}{Como eu faço pra andá rápido em Tarant?}{}{-4}{lf2 0}{69}{}
+{67}{K:}{}{1}{}{37}{}
+{68}{E:}{}{1}{}{0}{}
+{69}{Seria nas estações do trem a vapor, senhor. Uma invenção maravilhosa! Tarant é conectada por uma série de túneis subterrâneos. O senhor encontrará oito estações pela cidade... Elas são definitivamente a forma mais rápida de locomoção aqui em Tarant.}{Seria nas estações do trem a vapor, senhora. Uma invenção maravilhosa! Tarant é conectada por uma série de túneis subterrâneos. A senhora encontrará oito estações pela cidade... Elas são definitivamente a forma mais rápida de locomoção aqui em Tarant.}{}{}{}{lf2 1}
+{70}{O senhor recomenda esta estalagem?}{}{5}{lf1 0}{46}{}
+{71}{Há algum ponto turístico em Tarant que o senhor recomendaria?}{}{5}{lf3 0}{53}{}
+{72}{Esse é um bom lugar pra dormir?}{}{-4}{lf1 0}{46}{}
+{73}{O que tem de bom pra ver em Tarant?}{}{-4}{lf3 0}{53}{}
+{74}{K:}{}{1}{}{37}{}
+{75}{E:}{}{1}{}{0}{}
+{76}{[com ar culpado] Eu sei... eu sei... devo tanta moeda pra ela! [frustrado] Aquelas malditas garotas! Não consigo me controlar! ...Willow... ela é simplesmente incrível! Não sei o que vou fazer...}{[com ar culpado] Eu sei... eu sei... devo tanta moeda pra ela! [frustrado] Aquelas malditas garotas! Não consigo me controlar! ...Willow... ela é simplesmente incrível! Não sei o que vou fazer...}{}{}{}{}
+{77}{Ela quer as 400 moedas. Diz que é ruim pro negócio deixar passar...}{}{5}{}{82}{}
+{78}{É... eu entendo o que você quer dizer. Mas ela quer as 400 moedas...}{}{5}{}{82}{}
+{79}{A Madam quer 400 moedas. Ela não tá feliz que você não pagou...}{}{-4}{}{82}{}
+{80}{É... a Willow é legal... Uh... mas a Madam quer 400 moedas!}{}{-4}{}{82}{}
+{81}{E:}{}{1}{}{0}{}
+{82}{Não tenho. Esse trabalho [aponta para a estalagem] mal paga o suficiente pra me manter abrigado... quanto mais sustentar meus... err... hobbies. [Pensa por um momento.] Posso te dar 200 moedas agora, mas não tenho as 400.}{Não tenho. Esse trabalho [aponta para a estalagem] mal paga o suficiente pra me manter abrigado... quanto mais sustentar meus... err... hobbies. [Pensa por um momento.] Posso te dar 200 moedas agora, mas não tenho as 400.}{}{}{}{}
+{83}{Duvido que ela vá ficar feliz com a metade. Precisa de algum incentivo?}{}{5}{}{88}{}
+{84}{[ameaçador] Escuta aqui, amigo... Ela quer o que é dela... agora!}{}{5}{}{88}{}
+{85}{A Madam não vai ficar feliz com 200. Eu faço alguma coisa pra você dar mais?}{}{-4}{}{88}{}
+{86}{[ameaçador] Me dá a moeda da Madam agora!}{}{-4}{}{88}{}
+{87}{E:}{}{1}{}{0}{}
+{88}{[empalidecendo] Me desculpa! Tudo o que tenho agora são as 200 moedas. ...Mas espera! O Bridesdale vai me pagar de novo em 5 dias. Se você voltar então, eu te dou o valor todo! [choramingando um pouco] ...É o melhor que posso fazer...}{[empalidecendo] Me desculpa! Tudo o que tenho agora são as 200 moedas. ...Mas espera! O Bridesdale vai me pagar de novo em 5 dias. Se você voltar então, eu te dou o valor todo! [choramingando um pouco] ...É o melhor que posso fazer...}{}{}{}{}
+{89}{Então volto em 5 dias... E é melhor você ter!}{}{5}{}{-2}{lf5 1, lf 6 0}
+{90}{Não confio em você, Langley...}{}{5}{}{94}{}
+{91}{Eu volto em 5 dias... É melhor você ter! Tchau.}{}{-4}{}{-2}{lf5 1, lf 6 0}
+{92}{Eu não confio em você...}{}{-4}{}{94}{}
+{93}{E:}{}{1}{}{0}{}
+{94}{[com ar preocupado] Escuta... Eu sou bom pra isso... Pode confiar em mim. Que tal assim? Como prova das minhas boas intenções, te dou as 200 agora. Depois volta em 5 dias, e eu te dou o resto. É o melhor que posso fazer...}{[com ar preocupado] Escuta... Eu sou bom pra isso... Pode confiar em mim. Que tal assim? Como prova das minhas boas intenções, te dou as 200 agora. Depois volta em 5 dias, e eu te dou o resto. É o melhor que posso fazer...}{}{}{}{}
+{95}{Vai ter que servir. [Você pega a moeda.] Volto pelo resto.}{}{5}{}{-2}{lf6 1, lf 5 0, $$200}
+{96}{Não... vou confiar em você. Volto em 5 dias. Adeus.}{}{5}{}{-2}{lf5 1, lf 6 0, re+5}
+{97}{Uh... Tá bom. [Você pega a moeda.] Eu volto pelo resto.}{}{-4}{}{-2}{lf6 1, lf 5 0, $$200}
+{98}{Não... Eu vou esperar. Volto em 5 dias. Tchau.}{}{-4}{}{-2}{lf5 1, lf 6 0, re+5}
+{99}{E:}{}{1}{}{0}{}
+{100}{Eu te disse que só ia receber de novo em 5 dias. Ainda não tenho. Você vai ter que esperar o tempo todo, @pcname@.}{Eu te disse que só ia receber de novo em 5 dias. Ainda não tenho. Você vai ter que esperar o tempo todo, @pcname@.}{}{}{}{}
+{101}{Aqui está. [Ele te entrega a moeda.] Por favor, dê meus cumprimentos à Madam Lil. Garanta a ela que, a partir de agora, virei com a moeda na mão. [suspirando] ...mais uma semana. Só mais uma semana e posso ver a Willow de novo...}{Aqui está. [Ele te entrega a moeda.] Por favor, dê meus cumprimentos à Madam Lil. Garanta a ela que, a partir de agora, virei com a moeda na mão. [suspirando] ...mais uma semana. Só mais uma semana e posso ver a Willow de novo... [Ele parece se lembrar de algo.] Oh! Peço desculpas, madame.}{}{}{}{QU1126 3, $$400, lf 13 1}
+{102}{Obrigado, Ronald. Vou entregar isto à Madame Lil. Adeus.}{}{5}{}{0}{}
+{103}{Valeu. Eu ir ver Madum. Tchau-tchau.}{}{-4}{}{0}{}
+{104}{E:}{}{1}{}{0}{}
+{105}{Aqui. Veja... Eu te disse, sou um homem de palavra. [Ele lhe entrega a moeda.] Por favor, transmita meus cumprimentos à Madame Lil. Assegure-lhe que, de agora em diante, virei com moedas em mãos. [suspirando] ...mais uma semana... Mais uma semana e poderei ver Willow novamente.}{Aqui. Veja... Eu te disse, sou um homem de palavra. [Ele lhe entrega a moeda.] Por favor, transmita meus cumprimentos à Madame Lil. Assegure-lhe que, de agora em diante, virei com moedas em mãos. [suspirando] ...mais uma semana... Mais uma semana e poderei ver Willow novamente. [Ele parece se recompor.] Oh! Peço-lhe perdão, madame.}{}{}{}{QU1126 3, $$200, lf 13 1}
+{106}{Obrigado, Ronald. Vou entregar isto à Madame Lil. Adeus.}{}{5}{}{0}{}
+{107}{Hã... Tá bom. Eu ir ver Madum. Tchau-tchau.}{}{-4}{}{0}{}
+{108}{E:}{}{1}{}{0}{}
+{109}{[Ele pisca para você.] Ah, sim... Não sei o que esta cidade faria sem o fino estabelecimento dela!}{[Ele cora levemente.] Hã, sim... [Ele limpa a garganta.] Sim, já estive. Tenha um bom dia, madame.}{}{}{}{}
+

@@ -1,0 +1,149 @@
+{1}{Saudações, bom senhor. Posso ser útil de alguma forma?}{Saudações, minha senhora. Posso ser útil de alguma forma?}{}{}{}{}
+{2}{Que tipo de lugar é este, se me permite perguntar.}{}{5}{lf14 0}{13}{lf14 1}
+{3}{K:}{}{5}{lf14 1}{48}{}
+{4}{Mim com fome.}{}{-4}{qu1021 0}{0}{fl 115}
+{5}{Procure por T-e-r-w-i-l-l-i-g-e-r.}{}{-4}{qa1021 1,gf1068 1}{116}{lf13 1}
+{6}{G:}{G:}{}{}{}{}
+{7}{Mim com fome.}{}{-4}{qu1021 0}{0}{fl 115}
+{8}{Hã... Oi.}{}{-4}{lf13 1}{0}{fl 115}
+{9}{Encontre T-e-r-w-i-l-l-i-g-e-r. .......por favor.}{}{-4}{qa1021 1,gf1068 1}{116}{}
+{10}{K:}{}{5}{}{48}{}
+{11}{E:}{}{1}{}{0}{}
+{12}{Com licença, senhor, mas seria melhor se pudesse esperar e falar comigo pela manhã.}{Com licença, senhora, mas seria melhor se pudesse esperar e falar comigo pela manhã.}{}{}{}{}
+{13}{Este grandioso lugar é conhecido como O Salão dos Registros. Todo tipo de conhecimento é mantido nestas instalações. É aqui que todos os nossos registros censitários são guardados, assim como inúmeros tomos de arquivos.}{Este grandioso lugar é conhecido como O Salão dos Registros. Todo tipo de conhecimento é mantido nestas instalações. É aqui que todos os nossos registros censitários são guardados, assim como inúmeros tomos de arquivos.}{}{}{}{}
+{14}{Censo? O que é um censo?}{}{-9}{lf1 0}{18}{lf1 1,lf7 1}
+{15}{Pode me dizer quantos anos de censo foram mantidos?}{}{10}{lf2 0}{23}{lf2 1,lf7 1}
+{16}{Que tipo de informação os arquivos contêm?}{}{5}{lf3 0}{36}{}
+{17}{E:}{}{1}{}{0}{}
+{18}{Um censo é uma contagem oficial do número de pessoas no continente civilizado, juntamente com o valor de seus bens para fins de tributação.}{Um censo é uma contagem oficial do número de pessoas no continente civilizado, juntamente com o valor de seus bens para fins de tributação.}{}{}{}{}
+{19}{Pode me dizer quantos anos de censo foram mantidos?}{}{10}{lf2 0}{23}{lf2 1,lf7 1}
+{20}{Que tipo de informação os arquivos contêm?}{}{5}{lf3 0}{36}{}
+{21}{K:}{}{5}{}{48}{}
+{22}{E:}{}{1}{}{0}{}
+{23}{É uma circunstância infeliz que um censo preciso do continente civilizado só tenha sido mantido nos últimos vinte anos. No entanto, deve-se notar que, para Tarant, temos registros que datam de até duzentos anos.}{É uma circunstância infeliz que um censo preciso do continente civilizado só tenha sido mantido nos últimos vinte anos. No entanto, deve-se notar que, para Tarant, temos registros que datam de até duzentos anos.}{}{}{}{}
+{24}{Censo? O que é um censo?}{}{-9}{lf1 0}{18}{lf1 1,lf7 1}
+{25}{Que tipo de informação os arquivos contêm?}{}{5}{lf3 0}{36}{}
+{26}{O que você quer dizer com civilizado?}{}{5}{ra -1}{30}{}
+{27}{O que você quer dizer com civilizado?}{}{5}{ra 1}{33}{}
+{28}{K:}{}{5}{}{48}{}
+{29}{E:}{}{1}{}{0}{}
+{30}{Oh! Mas, por favor, me perdoe, bom senhor. Não foi minha intenção ofender. Permita-me oferecer uma explicação. Os registros censitários são mantidos exclusivamente para as cidades e reinos maiores. Até esta data, ninguém se empenhou em fazer um censo das regiões periféricas. Ou seja, como aldeias élficas, hordas órquicas e vilarejos afastados de halflings.}{Oh! Mas, por favor, me perdoe, minha senhora. Não foi minha intenção ofender. Permita-me oferecer uma explicação. Os registros censitários são mantidos exclusivamente para as cidades e reinos maiores. Até esta data, ninguém se empenhou em fazer um censo das regiões periféricas. Ou seja, como aldeias élficas, hordas órquicas e vilarejos afastados de halflings.}{}{}{}{}
+{31}{K:}{}{5}{}{48}{}
+{32}{E:}{}{1}{}{0}{}
+{33}{Os registros censitários são mantidos exclusivamente para as cidades e reinos maiores. Até esta data, ninguém se empenhou em fazer um censo das regiões periféricas. Ou seja, como aldeias élficas, hordas órquicas e vilarejos afastados de halflings.}{Os registros censitários são mantidos exclusivamente para as cidades e reinos maiores. Até esta data, ninguém se empenhou em fazer um censo das regiões periféricas. Ou seja, como aldeias élficas, hordas órquicas e vilarejos afastados de halflings.}{}{}{}{}
+{34}{K:}{}{5}{}{48}{}
+{35}{E:}{}{1}{}{0}{}
+{36}{Os arquivos contêm uma quantidade profusa de informações. A maior parte existe na forma de escrituras e outros documentos legais, mas também há jornais.}{Os arquivos contêm uma quantidade profusa de informações. A maior parte existe na forma de escrituras e outros documentos legais, mas também há jornais.}{}{}{}{}
+{37}{Censo? O que é um censo?}{}{-9}{lf1 0}{18}{lf1 1,lf7 1}
+{38}{Você poderia me dizer quantos anos de censo foram mantidos?}{}{10}{lf2 0}{23}{lf2 1,lf7 1}
+{39}{Jornais?}{}{5}{}{42}{}
+{40}{K:}{}{5}{}{48}{}
+{41}{E:}{}{1}{}{0}{}
+{42}{Sim. É um empreendimento muito empolgante que assumimos. Estamos arquivando todos os jornais dos últimos 120 anos. Eles se revelaram um recurso excepcional para pesquisa sobre muitos assuntos, pois os jornais contêm uma miríade de informações. Tudo, desde manchetes chamativas até obituários dos últimos 120 anos, está armazenado em nossos arquivos.}{Sim. É um empreendimento muito empolgante que assumimos. Estamos arquivando todos os jornais dos últimos 120 anos. Eles se revelaram um recurso excepcional para pesquisa sobre muitos assuntos, pois os jornais contêm uma miríade de informações. Tudo, desde manchetes chamativas até obituários dos últimos 120 anos, está armazenado em nossos arquivos.}{}{}{}{lf3 1}
+{43}{Incrível. Seus requisitos de armazenamento devem ser imensos.}{}{5}{}{45}{}
+{44}{E:}{}{1}{}{0}{}
+{45}{Não tanto quanto se poderia pensar. Antes da prensa de impressão automatizada surgir, há trinta anos, os jornais eram produzidos apenas a cada um ou dois meses.}{Não tanto quanto se poderia pensar. Antes da prensa de impressão automatizada surgir, há trinta anos, os jornais eram produzidos apenas a cada um ou dois meses.}{}{}{}{}
+{46}{K:}{}{5}{}{48}{}
+{47}{E:}{}{1}{}{0}{}
+{48}{Mas é claro, senhor, estou ao seu dispor.}{Mas é claro, senhora, estou ao seu dispor.}{}{}{}{}
+{49}{Que tipo de lugar é este, se me permite perguntar.}{}{5}{lf14 0}{13}{lf14 1}
+{50}{Censo? O que é um censo?}{}{-9}{lf1 0,lf14 1}{18}{lf1 1,lf7 1}
+{51}{Você poderia me dizer quantos anos de censo foram mantidos?}{}{10}{lf2 0,lf14 1}{23}{lf2 1, lf7 1}
+{52}{Que tipo de informação os arquivos contêm?}{}{5}{lf3 0,lf14 1}{36}{lf3 1}
+{53}{É possível que você encontre um obituário para mim?}{}{5}{lf12 0,gf1068 1,qa1021 1,lf3 1,lf14 1}{58}{lf12 1}
+{54}{Você pode me ajudar a localizar um indivíduo?}{}{5}{lf7 1}{68}{}
+{55}{Existem livros contidos em seus arquivos?}{}{5}{qa1022 1,lf3 1,lf8 0,lf14 1}{63}{lf8 1}
+{56}{Você poderia procurar um obituário para mim, por favor?}{}{5}{lf9 1, qb1021 3}{58}{}
+{57}{E:}{}{1}{}{0}{}
+{58}{Isso está dentro das minhas capacidades. Poderia, por favor, me fornecer o nome do falecido e a data de seu falecimento?}{Isso está dentro das minhas capacidades. Poderia, por favor, me fornecer o nome do falecido e a data de seu falecimento?}{}{}{}{}
+{59}{Falecimento?}{}{-9}{}{61}{}
+{60}{Renford A. Terwilliger. Ele faleceu em 5.11.1804.}{}{10}{}{93}{lf6 1}
+{61}{Em que data o indivíduo faleceu?}{Em que data o indivíduo faleceu?}{}{}{}{}
+{62}{Ah. Renford A. Terwilliger. Ele faleceu em 5.11.1804.}{}{5}{}{93}{lf6 1}
+{63}{Se são livros que procura, deveria visitar a Biblioteca de Tarant. Eles possuem uma coleção extensa.}{Se são livros que procura, deveria visitar a Biblioteca de Tarant. Eles possuem uma coleção extensa.}{}{}{}{}
+{64}{K:}{}{5}{}{48}{}
+{65}{E:}{}{5}{}{0}{}
+{66}{Tentarei ser útil. Em qual cidade essa pessoa reside?}{Tentarei ser útil. Em qual cidade essa pessoa reside?}{}{}{}{}
+{67}{Tarant}{}{5}{}{68}{}
+{68}{Posso saber o nome do indivíduo?}{Posso saber o nome do indivíduo?}{}{}{}{}
+{69}{Renford A. Terwilliger.}{}{5}{qa1021 1}{74}{lf4 1}
+{70}{Gilbert Bates.}{}{5}{lf10 0,ss 2, ss -3}{99}{lf10 1}
+{71}{Cedric Appleby.}{}{5}{lf11 0,gf1069 1}{109}{lf11 1}
+{72}{[Mais.]}{}{5}{}{134}{}
+{73}{Ninguém em particular. Mais algumas perguntas...?}{}{5}{}{48}{}
+{74}{[O funcionário começa a procurar nos registros]}{[O funcionário começa a procurar nos registros]}{}{}{}{}
+{75}{[aguarde]}{}{5}{lf6 0}{78}{}
+{76}{[aguarde]}{}{5}{lf6 1}{91}{}
+{77}{[sair]}{}{5}{}{0}{lf13 0. Lf9 1}
+{78}{Minhas desculpas, senhor, parece que não há nenhum indivíduo com esse nome em Tarant.}{Minhas desculpas, senhora, parece que não há nenhum indivíduo com esse nome em Tarant.}{}{}{}{}
+{79}{Seria possível verificar registros mais antigos?}{}{5}{lf4 1,lf2 1, lf5 0}{85}{}
+{80}{Me disseram que ele poderia ser encontrado em Tarant.}{}{5}{lf4 1}{82}{}
+{81}{Você pode pesquisar outras datas?}{}{5}{lf5 1}{85}{}
+{82}{Infelizmente, o censo não é cem por cento preciso. Talvez fosse sensato verificar alguns registros anteriores.}{Infelizmente, o censo não é cem por cento preciso. Talvez fosse sensato verificar alguns registros anteriores.}{}{}{}{}
+{83}{K:}{}{5}{}{48}{}
+{84}{Sim. Talvez devêssemos.}{}{5}{}{85}{}
+{85}{Sim, senhor. Até que ano atrás deseja consultar?}{Sim, senhora. Até que ano atrás deseja consultar?}{}{}{}{lf5 1}
+{86}{5 anos atrás}{}{5}{}{74}{}
+{87}{5 a 10 anos atrás}{}{5}{}{74}{}
+{88}{10 a 50 anos atrás}{}{5}{}{74}{}
+{89}{50 a 100 anos atrás}{}{5}{}{74}{lf 6 1}
+{90}{100 a 200 anos atrás}{}{5}{}{74}{}
+{91}{Oh! Boas notícias, senhor! Renford A. Terwilliger, humano... Nascimento: desconhecido... Falecido: 1804... aqui em Tarant. Bem! Isso explicaria por que não conseguimos localizá-lo vivo em Tarant. Deseja que eu recupere o obituário dele?}{Oh! Boas notícias, senhora! Renford A. Terwilliger, humano... Nascimento: desconhecido... Falecido: 1804... aqui em Tarant. Bem! Isso explicaria por que não conseguimos localizá-lo vivo em Tarant. Deseja que eu recupere o obituário dele?}{}{}{}{}
+{92}{Sim, por favor.}{}{5}{}{93}{}
+{93}{[O funcionário começa a procurar nos arquivos]}{[O funcionário começa a procurar nos arquivos]}{}{}{}{}
+{94}{[aguarde]}{}{5}{lf6 1}{96}{}
+{95}{[sair]}{}{5}{}{0}{lf13 0. Lf9 1}
+{96}{Ah, sim.....aqui estamos.   Ahem...... 5.11.1804 - Renford A. Terwilliger, autor de "T'sen-Ang: Horror Entre os Elfos Negros" foi encontrado morto em sua casa hoje.  Sua morte parece ter ocorrido em circunstâncias misteriosas.  As autoridades estão pedindo uma investigação mais aprofundada.  .......Oh, meu Deus, que incidente terrível.}{Ah, sim.....aqui estamos.   Ahem...... 5.11.1804 - Renford A. Terwilliger, autor de "T'sen-Ang: Horror Entre os Elfos Negros" foi encontrado morto em sua casa hoje.  Sua morte parece ter ocorrido em circunstâncias misteriosas.  As autoridades estão pedindo uma investigação mais aprofundada.  .......Oh, meu Deus, que incidente terrível.}{}{}{}{qu1021 4,qu1022 2,lf9 1, ss11}
+{97}{K:}{}{5}{}{48}{}
+{98}{E:}{}{1}{}{0}{}
+{99}{[O funcionário olha para você como se você fosse louco]  Mas senhor......todo mundo sabe quem é Gilbert Bates.}{[O funcionário olha para você como se você fosse louca]  Mas madame......todo mundo sabe quem é Gilbert Bates.}{}{}{}{}
+{100}{Quem é ele?}{}{5}{}{103}{}
+{101}{Não sei.}{}{5}{}{103}{}
+{102}{Não me olhe assim!}{}{5}{}{106}{}
+{103}{O Sr. Bates é o homem mais rico do mundo! Ele inventou a máquina a vapor...}{O Sr. Bates é o homem mais rico do mundo! Ele inventou a máquina a vapor...}{}{}{}{}
+{104}{K:}{}{5}{}{48}{}
+{105}{E:}{}{5}{}{0}{}
+{106}{Minhas mais profundas desculpas. É só que você me surpreendeu. É verdade que você realmente não sabe quem é Gilbert Bates?}{Minhas mais profundas desculpas. É só que você me surpreendeu. É verdade que você realmente não sabe quem é Gilbert Bates?}{}{}{}{}
+{107}{Não.}{}{5}{}{103}{}
+{108}{Esquece.}{}{5}{}{0}{}
+{109}{[O funcionário começa a procurar nos registros]}{[O funcionário começa a procurar nos registros]}{}{}{}{}
+{110}{[aguarde]}{}{5}{}{112}{}
+{111}{[sair]}{}{5}{}{0}{lf11 0}
+{112}{Ah, sim. Aqui está, senhor. ........Estes documentos indicam que Cedric Appleby atualmente mora em Tarant. Parece que o Sr. Appleby administra uma pequena empresa de máquinas a vapor. Oh, meu Deus, não parece estar indo excepcionalmente bem, com a concorrência de Gilbert Bates. Parece que o Sr. Appleby tem uma boa quantidade de dívidas pendentes e relações comerciais ruins. Que pena.}{Ah, sim. Aqui está, madame. ........Estes documentos indicam que Cedric Appleby atualmente mora em Tarant. Parece que o Sr. Appleby administra uma pequena empresa de máquinas a vapor. Oh, meu Deus, não parece estar indo excepcionalmente bem, com a concorrência de Gilbert Bates. Parece que o Sr. Appleby tem uma boa quantidade de dívidas pendentes e relações comerciais ruins. Que pena.}{}{}{}{}
+{113}{K:}{}{5}{}{48}{}
+{114}{E:}{}{1}{}{0}{}
+{115}{O Salão de Registros não é lugar para você estar. Circule.}{O Salão de Registros não é lugar para você estar. Circule.}{}{}{}{}
+{116}{Terwilliger? Receio que precise de mais informações do que isso para realizar uma busca minuciosa.}{Terwilliger? Receio que precise de mais informações do que isso para realizar uma busca minuciosa.}{}{}{}{}
+{117}{Ele foi enterrado na terra.}{}{-4}{}{118}{}
+{118}{Ah......Você sabe a data aproximada de sua morte?}{Ah......Você sabe a data aproximada de sua morte?}{}{}{}{}
+{119}{Hã?}{}{-4}{}{120}{}
+{120}{[Ela pensa por um momento.] Algum número?}{[Ela pensa por um momento.] Algum número?}{}{}{}{}
+{121}{5-1-1-1-8-0-4}{}{-4}{}{122}{}
+{122}{5.11.1804? Vou tentar localizar informações nos obituários.}{5.11.1804? Vou tentar localizar informações nos obituários.}{}{}{}{}
+{123}{[aguarde]}{}{-4}{}{96}{}
+{132}{[sair]}{}{-4}{}{0}{lf13 0}
+{134}{Desculpe, senhor. Qual era o nome?}{Desculpe-me, madame. Qual era o nome?}{}{}{}{}
+{135}{Rorry Limes.}{}{5}{gf2111 1, gf2268 1}{154}{}
+{136}{Rorry Limes.}{}{5}{gf2111 0, gf2268 1}{154}{}
+{137}{Rorry Limes.}{}{5}{gf2111 1, gf2268 0}{154}{}
+{138}{Lawrence Brummond.}{}{5}{gf2318 1, lf15 0}{158}{lf15 1}
+{139}{Elmer Burbottom.}{}{5}{gf2520 1}{161}{}
+{140}{[Mais.]}{}{5}{}{146}{}
+{144}{Ninguém em particular. Mais algumas perguntas...?}{}{5}{}{48}{}
+{146}{Senhor? Havia alguém que o senhor queria encontrar ou não?}{Madame? Havia alguém que a senhora queria encontrar ou não?}{}{}{}{}
+{147}{Wendell Wellington.}{}{5}{gf2649 1}{164}{}
+{148}{Ninguém em particular. Mais algumas perguntas...?}{}{5}{}{48}{}
+{149}{E:}{}{5}{}{0}{}
+{154}{Hmmm. Deixe-me ver... sim, há um indivíduo com esse nome aqui. Nenhum endereço residencial atual... MAS! Parece que ele possui um prédio no distrito dos armazéns. O endereço é 57 Beco Mulligan Bone. Havia mais alguma coisa?}{Hmmm. Deixe-me ver... sim, há um indivíduo com esse nome aqui. Nenhum endereço residencial atual... MAS! Parece que ele possui um prédio no distrito dos armazéns. O endereço é 57 Beco Mulligan Bone. Havia mais alguma coisa?}{}{}{}{ru 2148}
+{155}{Sim. Tenho mais algumas perguntas, se não se importar...}{}{5}{}{48}{}
+{156}{E:}{}{5}{}{0}{}
+{158}{Aguarde um momento. [Ela procura em seus arquivos.] Sim, tenho algo aqui sobre um Lawrence Brummond, embora ele não seja cidadão de Tarant. É um artigo de jornal... aqui está uma cópia para o senhor...}{Aguarde um momento. [Ela procura em seus arquivos.] Sim, tenho algo aqui sobre um Lawrence Brummond, embora ele não seja cidadão de Tarant. É um artigo de jornal... aqui está uma cópia para o senhor...}{}{}{}{in -5250}
+{159}{Obrigado, madame. Tenho mais algumas perguntas...}{}{5}{}{48}{}
+{160}{E:}{}{5}{}{0}{}
+{161}{Burbottom? Hmmm. Vamos ver. [Ela procura em seus registros.] Tenho um endereço residencial para o Sr. Burbottom, mas é em Ashbury. É na Rua Trellis, número 14...}{Burbottom? Hmmm. Vamos ver. [Ela procura em seus registros.] Tenho um endereço residencial para o Sr. Burbottom, mas é em Ashbury. É na Rua Trellis, número 14...}{}{}{}{ru 2193}
+{162}{Obrigado, madame. Tenho mais algumas perguntas...}{}{5}{}{48}{}
+{163}{E:}{}{5}{}{0}{}
+{164}{[Ela procura em seus registros.] Hmmm. Wendell Wellington... Wellington... Ah! Aqui está! O Sr. Wellington mora aqui em Tarant. O endereço dele é Rua Vermillion, número 42...}{[Ela procura em seus registros.] Hmmm. Wendell Wellington... Wellington... Ah! Aqui está! O Sr. Wellington mora aqui em Tarant. O endereço dele é Rua Vermillion, número 42...}{}{}{}{ru 2213}
+{165}{Obrigado, madame. Tenho mais algumas perguntas...}{}{5}{}{48}{}
+{174}{E:}{}{5}{}{0}{}
+

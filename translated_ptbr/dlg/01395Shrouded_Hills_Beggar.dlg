@@ -1,0 +1,47 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{R:($0, 1020-1027)}{}{5}{}{1}{}
+{3}{S:}{}{5}{}{1}{}
+{4}{I:}{}{5}{re -35}{1}{re -5 , rp -2}
+{5}{Parece que você está sofrendo, há algo que eu possa fazer para ajudar?}{}{5}{pe 13 , lf0 0}{14}{}
+{6}{R:($0, 1020-1027)}{}{-4}{}{1}{}
+{7}{I:}{}{-4}{re -35}{1}{re -5 , rp -2}
+{8}{E:}{}{5}{}{}{}
+{9}{E:}{}{-4}{}{}{}
+{10}{}{}{}{}{}{}
+{11}{}{}{}{}{}{}
+{12}{}{}{}{}{}{}
+{13}{}{}{}{}{}{}
+{14}{Obrigado por notar, meu pé ficou preso em uma daquelas bombas movidas a vapor. Nossa, como doeu. O Doutor me consertou. Cobrou também. Não tenho dinheiro para vê-lo de novo. Até eu melhorar e voltar ao trabalho, é meu triste destino viver da caridade de estranhos como você.}{Obrigado por notar, meu pé ficou preso em uma daquelas bombas movidas a vapor. Nossa, como doeu. O Doutor me consertou. Cobrou também. Não tenho dinheiro para vê-lo de novo. Até eu melhorar e voltar ao trabalho, é meu triste destino viver da caridade de estranhos como você.}{}{}{}{}
+{15}{Há algo que eu possa fazer para ajudar?}{}{5}{}{22}{}
+{16}{Posso ajudar você?}{}{-4}{}{22}{}
+{17}{Aqui está uma nota de 10 para você continuar.}{}{5}{$$10}{28}{lf0 1,$$ -10 , rp 2 , re +10}
+{18}{aqui dinheiro para você, nota de 10.}{}{-4}{$$20}{28}{lf0 1, $$ -10, rp 2 , re +10}
+{19}{E:}{}{5}{}{}{}
+{20}{E:}{}{-4}{}{}{}
+{21}{}{}{}{}{}{}
+{22}{Bom, é por causa dessas ataduras que estou usando. Elas estão me dando uma coceira danada! Mas o Doutor disse para não tirá-las por mais uma semana!}{Bom, é por causa dessas ataduras que estou usando. Elas estão me dando uma coceira danada! Mas o Doutor disse para não tirá-las por mais uma semana!}{}{}{}{}
+{23}{Posso consertar suas ataduras velhas e coçando de uma semana.}{}{5}{}{-4}{ lf0 1,rp 2 , re +10}
+{24}{Eu faço ficar melhor.}{}{-4}{}{-4}{lf0 1,rp 2 , re +10}
+{25}{Bem, é melhor você fazer o que o Doutor disse.}{}{5}{}{1}{}
+{26}{Não toque, não não não não!}{}{-4}{}{1}{}
+{27}{}{}{}{}{}{}
+{28}{Muito agradecido. Por ter me ajudado, vou lhe contar tudo o que sei sobre esta região.}{Muito agradecido. Por ter me ajudado, vou lhe contar tudo o que sei sobre esta região.}{}{}{}{}
+{29}{R:($0, 1020-1027)}{}{5}{}{35}{}
+{30}{R:($0, 1020-1027)}{}{-4}{}{35}{}
+{31}{E:}{}{5}{}{}{}
+{32}{E:}{}{-4}{}{}{}
+{33}{}{}{}{}{}{}
+{34}{}{}{}{}{}{}
+{35}{As coisas por aqui não estão tão tranquilas como costumavam ser.}{As coisas por aqui não estão tão tranquilas como costumavam ser.}{}{}{}{}
+{36}{R:($0, 1020-1027)}{}{5}{}{41}{}
+{37}{R:($0, 1020-1027)}{}{-4}{}{41}{}
+{38}{E:}{}{5}{}{}{}
+{39}{E:}{}{-4}{}{}{}
+{40}{}{}{}{}{}{}
+{41}{Tenho ouvido algumas coisas bem estranhas recentemente.}{Tenho ouvido algumas coisas bem estranhas recentemente.}{}{}{}{}
+{42}{R:($0, 1020-1027)}{}{5}{}{}{}
+{43}{R:($0, 1020-1027)}{}{-4}{}{}{}
+{44}{E:}{}{5}{}{}{}
+{45}{E:}{}{-4}{}{}{}
+{46}{}{}{}{}{}{}
+

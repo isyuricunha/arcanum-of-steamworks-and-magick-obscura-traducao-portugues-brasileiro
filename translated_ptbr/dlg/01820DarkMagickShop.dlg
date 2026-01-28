@@ -1,0 +1,48 @@
+{1}{G:}{}{}{}{}{}
+{2}{B:}{}{1}{}{25}{}
+{3}{T:11, 4}{}{1}{}{25}{}
+{4}{Que tipo de mercadorias você tem aqui?}{}{5}{}{30}{}
+{5}{Hã... O que você tem aí?}{}{-4}{}{30}{}
+{6}{C:}{}{1}{}{30}{}
+{7}{E:}{}{1}{}{0}{}
+{8}{Oh! Vejo que teve muito treinamento, mago. É uma honra conhecer um homem de seu poder. Como posso servi-lo?}{Oh! Vejo que teve muito treinamento, maga. É uma honra conhecer uma dama de seu poder. Como posso servi-la?}{}{}{}{}
+{9}{T:11, 4}{}{1}{}{25}{}
+{10}{Que tipo de mercadorias você tem aqui?}{}{5}{}{30}{}
+{11}{Hã... O que você tem aí?}{}{-4}{}{30}{}
+{12}{B:}{}{1}{}{25}{}
+{13}{E:}{}{1}{}{0}{}
+{14}{Você retornou. Saudações a você, grandioso. Que necessidade o traz aqui?}{Você retornou. Saudações a você, grandiosa. Que necessidade a traz aqui?}{}{}{}{}
+{15}{T:11, 4}{}{1}{}{25}{}
+{16}{B:}{}{1}{}{25}{}
+{17}{C:}{}{1}{}{25}{}
+{18}{E:}{}{1}{}{0}{}
+{19}{Alto! A presença de tecnologia o cerca... saia deste lugar! Você não tem negócios aqui.}{Alto! A presença de tecnologia o cerca. Saia deste lugar! Você não tem negócios aqui.}{}{}{}{}
+{20}{I:}{}{1}{}{0}{re -3}
+{21}{F:}{}{1}{}{0}{re -1}
+{22}{E:}{}{1}{}{0}{}
+{23}{}{}{}{}{}{}
+{24}{}{}{}{}{}{}
+{25}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{}
+{26}{T:11, 4}{}{1}{}{25}{}
+{27}{C:}{}{1}{}{25}{}
+{28}{B:}{}{1}{}{25}{}
+{29}{E:}{}{1}{}{0}{}
+{30}{Eu trago itens para magia ofensiva e necromancia sombria. Cajados encantados, pergaminhos e poções, coisas que um mago pode precisar para agir com confiança em qualquer situação. Por favor, dê uma olhada e me avise se tiver alguma dúvida.}{Eu trago itens para magia ofensiva e necromancia sombria. Cajados encantados, pergaminhos e poções, coisas que uma maga pode precisar para agir com confiança em qualquer situação. Por favor, dê uma olhada e me avise se tiver alguma dúvida.}{}{}{}{}
+{31}{T:11, 4}{}{1}{}{25}{}
+{32}{C:}{}{1}{}{25}{}
+{33}{B:}{}{1}{}{25}{}
+{34}{E:}{}{1}{}{0}{}
+{35}{O que você quer, @pcname@?}{O que você quer, @pcname@?}{}{}{}{}
+{36}{T:11, 4}{}{1}{}{25}{}
+{37}{B:}{}{1}{}{25}{}
+{38}{C:}{}{1}{}{25}{}
+{39}{E:}{}{1}{}{0}{}
+{40}{[Uma expressão de reconhecimento cruza o rosto do mago.] Você voltou para desafiar o destino, é? Você não passa de um tolo! Saia deste lugar imediatamente... antes que faça a magia agir de forma antinatural!}{[Uma expressão de reconhecimento cruza o rosto da maga.] Você voltou para desafiar o destino, é? Você não passa de uma tola! Saia deste lugar imediatamente... antes que faça a magia agir de forma antinatural!}{}{}{}{}
+{41}{I:}{}{1}{}{0}{re -3}
+{42}{F:}{}{1}{}{0}{re -1}
+{43}{E:}{}{1}{}{0}{}
+{44}{Saia deste lugar, aberração tecnológica!}{Saia deste lugar, aberração tecnológica!}{}{}{}{}
+{45}{I:}{}{1}{}{0}{re -3}
+{46}{F:}{}{1}{}{0}{re -1}
+{47}{E:}{}{1}{}{0}{}
+

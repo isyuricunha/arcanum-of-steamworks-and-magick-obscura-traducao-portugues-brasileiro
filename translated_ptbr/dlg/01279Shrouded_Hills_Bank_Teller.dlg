@@ -1,0 +1,33 @@
+{1}{Olá. Bem-vindo ao Banco de Colinas Sombrias. Como posso ajudá-lo hoje?}{Olá. Bem-vinda ao Banco de Colinas Sombrias. Como posso ajudá-la hoje?}{}{}{}{}
+{2}{Eu estava só de passagem, obrigado. Tenha um bom dia.}{}{5}{}{0}{}
+{3}{Estou aqui para fazer um saque. MÃOS AO ALTO!}{}{5}{qa1059 1, qu1060 0}{-7}{}
+{4}{Estou aqui para fazer um saque. MÃOS AO ALTO!}{}{5}{qa1059 1, qa1060 1}{-7}{}
+{5}{Estou aqui para fazer um saque. MÃOS AO ALTO!}{}{5}{qu1059 0, qa1060 1}{-7}{}
+{6}{Nada... tchau...}{}{-4}{}{0}{}
+{7}{EU ASSALTO O BANCO! Levantem as mãos!}{}{-4}{qa1059 1, qu1060 0}{-7}{}
+{8}{EU ASSALTO O BANCO! Levantem as mãos!}{}{-4}{qa1059 1, qa1060 1}{-7}{}
+{9}{EU ASSALTO O BANCO! Levantem as mãos!}{}{-4}{qu1059 0, qa1060 1}{-7}{}
+{10}{[Sua mandíbula cai ao ver a arma.] Tudo bem... como quiser. Por favor... pegue a chave da sala dos fundos... a combinação do cofre é 12-03-70! [Ela lhe entrega uma chave e então sussurra.] Só não me machuque...}{[Sua mandíbula cai ao ver a arma.] Tudo bem... como quiser. Por favor... pegue a chave da sala dos fundos... a combinação do cofre é 12-03-70! [Ela lhe entrega uma chave e então sussurra.] Só não me machuque...}{}{}{}{rp-1049, rp1050}
+{11}{Boa escolha, madame. Fique em silêncio agora e tenha um bom dia...}{}{5}{}{-14}{gf2116 1, in -4409, gf2126 1}
+{12}{Obrigado, senhora! Tchau!}{}{-4}{}{-14}{gf2116 1, in -4409, gf2126 1}
+{13}{[A atendente olha para você e dá um sorrisinho.] O quê, vai nos assaltar com uma espada grande ou talvez lançar um feitiço? Olha, garoto... se sair daqui agora mesmo, nem vou contar aos guardas como você está sendo tolo.}{[A atendente olha para você e dá um sorrisinho.] O quê, vai nos assaltar com uma espada grande ou talvez lançar um feitiço? Olha, garota... se sair daqui agora mesmo, nem vou contar aos guardas como você está sendo tola.}{}{}{}{}
+{14}{Entendo. Tenha um bom dia, então.}{}{5}{}{0}{}
+{15}{Você vai se arrepender disso...}{}{5}{}{-25}{}
+{16}{Hã... tá bom. Eu vou agora.}{}{-4}{}{0}{}
+{17}{Vou te esmagar por isso...}{}{-4}{}{-25}{}
+{18}{Guardas! Guardas! Este homem está me ameaçando!}{Sinto muito ter que fazer isso. Guardas! Cuidem desta mulher!}{}{}{}{}
+{19}{}{}{}{}{}{}
+{20}{Seu covarde filho de uma cadela! NINGUÉM leva o meu dinheiro!}{Sua covarde! NINGUÉM leva o meu dinheiro!}{}{}{}{}
+{21}{}{}{}{}{}{}
+{22}{Ladrão! É o ladrão! Socorro! Socorro!}{Ladra! É a ladra! Socorro! Socorro!}{}{}{}{}
+{23}{}{}{}{}{}{}
+{24}{Muito obrigado! Você é um herói! Tem mais alguma coisa que eu possa fazer por você?}{Muito obrigada! Você é uma heroína! Tem mais alguma coisa que eu possa fazer por você?}{}{}{}{lf3 1}
+{25}{Eu estava só de passagem, obrigado. Tenha um bom dia.}{}{5}{}{0}{}
+{26}{Estou aqui para fazer um saque. MÃOS AO ALTO!}{}{5}{qa1059 1, qu1060 0}{-7}{}
+{27}{Estou aqui para fazer um saque. MÃOS AO ALTO!}{}{5}{qa1059 1, qa1060 1}{-7}{}
+{28}{Estou aqui para fazer um saque. MÃOS PARA O ALTO!}{}{5}{qu1059 0, qa1060 1}{-7}{}
+{29}{Nada... tchau...}{}{-4}{}{0}{}
+{30}{EU ASSALTO BANCOS! Mãos para cima!}{}{-4}{qa1059 1, qu1060 0}{-7}{}
+{31}{EU ASSALTO BANCOS! Mãos para cima!}{}{-4}{qa1059 1, qa1060 1}{-7}{}
+{32}{EU ASSALTO BANCOS! Mãos para cima!}{}{-4}{qu1059 0, qa1060 1}{-7}{}
+

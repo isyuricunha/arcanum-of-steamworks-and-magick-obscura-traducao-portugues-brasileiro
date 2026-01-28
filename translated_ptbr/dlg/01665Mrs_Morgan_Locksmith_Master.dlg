@@ -1,0 +1,171 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Saudações, minha boa senhora. Posso perguntar seu nome?}{}{5}{lf1 0, re 41}{46}{}
+{3}{Madame! Isso foi desnecessário!}{}{5}{lf1 0, re -40}{27}{}
+{4}{Saudações, Sra. Morgan. A senhora é a mãe de JT Morgan, correto?}{}{5}{lf1 1, gf2225 1}{77}{}
+{5}{Saudações, Sra. Morgan.}{}{5}{lf1 1, gf2225 0}{54}{}
+{6}{Ah. Sra. Morgan. Nos encontramos novamente...}{}{5}{gf 2277 1, qu1112 4, ni 2819}{60}{re +20}
+{7}{Ah. Sra. Morgan. Nos encontramos novamente...}{}{5}{gf 2277 1, qu1112 4, in 2819}{142}{}
+{8}{Ah. Sra. Morgan. Nos encontramos novamente...}{}{5}{gf 2278 1, qu1112 5}{0}{co, fl 146}
+{9}{Melhorei minha habilidade, Sra. Morgan...}{}{5}{lf2 1, tr14 2, tr14 -2, sk14 18}{134}{}
+{10}{Melhorei minha habilidade, Sra. Morgan...}{}{5}{lf2 1, tr14 -2, sk14 -17}{128}{}
+{11}{Decidi ajudar o JT.}{}{5}{qu1112 1}{114}{}
+{12}{Ainda não entreguei as ferramentas do JT para ele.}{}{5}{qu1112 2}{138}{}
+{13}{Tenho um pacote para a senhora, Sra. Morgan.}{}{5}{qa1121 1, in5664}{147}{lf1 1, in 5664}
+{14}{Meu tem pacote pra senhora, Sra. Morgan.}{}{-4}{qa1121 1, in5664}{147}{lf1 1, in 5664}
+{15}{Ei, moça! Qual é o seu nome?}{}{-4}{re 41}{27}{}
+{16}{Ei, moça! Isso não foi legal...}{}{-4}{re -40}{27}{}
+{17}{Sra. Moorgun? A senhora é a mãe do Jay Tee, né?}{}{-4}{lf1 1, gf2225 1}{77}{}
+{18}{Hm... Oi, Sra. Moorgun.}{}{-4}{lf1 1, gf2225 0}{54}{}
+{19}{Meu tá de volta, Sra. Moorgun.}{}{-4}{gf 2277 1, qu1112 4, ni 2819}{60}{re +20}
+{20}{Meu tá de volta, Sra. Moorgun.}{}{-4}{gf 2277 1, qu1112 4, in 2819}{142}{}
+{21}{Meu tá de volta, Sra. Moorgun.}{}{-4}{gf 2278 1, qu1112 5}{0}{co, fl 146}
+{22}{Meu tá com a habilidade boa agora, Sra. Moorgun.}{}{-4}{lf2 1, tr14 2, tr14 -2, sk14 18}{134}{}
+{23}{Meu tá com a habilidade boa agora, Sra. Moorgun.}{}{-4}{lf2 1, tr14 -2, sk14 -17}{128}{}
+{24}{Meu quer ajudar o Jay Tee.}{}{-4}{qu1112 1}{114}{}
+{25}{Meu ainda não deu as coisas do Jay Tee pra ele.}{}{-4}{qu1112 2}{138}{}
+{26}{E:}{}{1}{}{0}{}
+{27}{Que ousadia a sua! ...simplesmente invadindo a casa das pessoas sem avisar! Onde estão seus modos?!?}{Que ousadia a sua! ...simplesmente invadindo a casa das pessoas sem avisar! Onde estão seus modos?!?}{}{}{}{}
+{28}{Peço desculpas. Estou tentando localizar a Sra. Morgan.}{}{5}{gf 2225 1, lf1 0}{46}{re +10}
+{29}{Peço desculpas, madame. Sou novo na região. Posso perguntar seu nome?}{}{5}{lf1 0, gf2225 0}{46}{re +5}
+{30}{Não oferece uma saudação a um convidado? ...Onde estão seus modos?}{}{5}{}{35}{re -10}
+{31}{Homem o quê? Meu não tem homem? Hã......    quê?}{}{-4}{}{35}{re -10}
+{32}{Me desculpe. Estou procurando pela Senhora Moorgun.}{}{-4}{gf 2225 1, lf1 0}{46}{re +10}
+{33}{Me desculpe. Sou novo aqui. Qual é o seu nome?}{}{-4}{lf1 0, gf2225 0}{46}{re +5}
+{34}{E:}{}{1}{}{0}{}
+{35}{Imbecil! Saia da minha casa imediatamente ou serei forçado a chamar as autoridades!}{Imbecil! Saia da minha casa imediatamente ou serei forçado a chamar as autoridades!}{}{}{}{}
+{36}{Por favor, só desejo perguntar seu nome...}{}{5}{gf2225 1}{46}{}
+{37}{Por favor, só desejo perguntar seu nome...}{}{5}{gf2225 0}{64}{}
+{38}{Vejo que sua sabedoria não é melhor... Morra, mulher rude!}{}{5}{}{}{re -20, co, fl 45}
+{39}{Não tenho tempo para sua grosseria! Adeus!}{}{5}{}{0}{re -10}
+{40}{Porfis... Eu só quero saber seu nome...}{}{-4}{gf2225 1}{46}{}
+{41}{Porfis... Eu só quero saber seu nome...}{}{-4}{gf2225 0}{64}{}
+{42}{Ah, tá... OK. Eu vou embora. Me desculpe.}{}{-4}{}{0}{re +10}
+{43}{Você não é legal. Eu vou te machucar...}{}{-4}{}{}{re -20, co, fl 45}
+{44}{E:}{}{1}{}{0}{}
+{45}{Socorro! Alguém me ajude!}{Socorro! Alguém me ajude!}{}{}{}{}
+{46}{Ah. Certamente. Eu sou a Senhora Morgan.}{Ah. Certamente. Eu sou a Senhora Morgan.}{}{}{}{lf1 1}
+{47}{Oh, graças aos céus! Estava procurando por você.}{}{5}{tr14 1, gf2225 1}{72}{re -5}
+{48}{Posso lhe fazer algumas perguntas?}{}{5}{tr14 -1, sk14 -4}{54}{}
+{49}{Posso tomar um momento do seu tempo?}{}{5}{gf2225 0}{54}{}
+{50}{Ah, que bom! Eu estava procurando por você!}{}{-4}{tr14 1, gf2225 1}{72}{re -5}
+{51}{Hã... Posso te perguntar uma coisa?}{}{-4}{tr14 -1, sk14 -4}{54}{}
+{52}{Hã... Posso te perguntar uma coisa, por favor?}{}{-4}{gf2225 0}{54}{}
+{53}{E:}{}{1}{}{0}{}
+{54}{Estou no meio de uma pequena dificuldade. Receio não ter tempo para você. Por favor, desculpe meu comportamento rude. Adeus.}{Estou no meio de uma pequena dificuldade. Receio não ter tempo para você. Por favor, desculpe meu comportamento rude. Adeus.}{}{}{}{}
+{55}{Talvez eu possa ajudar?}{}{5}{tr14 -2, sk 14 -17}{70}{}
+{56}{Talvez eu possa ajudar?}{}{5}{tr14 2, sk 14 18}{161}{}
+{57}{Talvez eu ajude?}{}{-4}{tr14 -2, sk 14 -17}{70}{}
+{58}{Talvez eu ajude?}{}{-4}{tr14 2, sk 14 18}{161}{}
+{59}{E:}{}{1}{}{0}{}
+{60}{Oh, que os deuses te abençoem. Muito obrigada por ajudar meu JT a escapar daquele lugar horrível! Estava esperando pelo seu retorno. Tenho um presente para você. Aqui. Este anel pertenceu ao pai do JT. Ele vai te ajudar a se mover com mais furtividade quando usado. Use-o com a minha bênção! Que os deuses sempre sorriam para você! Obrigada novamente! Você me deixou tão feliz, nem imagina.}{Oh, que os deuses te abençoem. Muito obrigada por ajudar meu JT a escapar daquele lugar horrível! Estava esperando pelo seu retorno. Tenho um presente para você. Aqui. Este anel pertenceu ao pai do JT. Ele vai te ajudar a se mover com mais furtividade quando usado. Use-o com a minha bênção! Que os deuses sempre sorriam para você! Obrigada novamente! Você me deixou tão feliz, nem imagina.}{}{}{}{in -2819}
+{61}{Obrigada. Seu filho é realmente um Mestre. Estou feliz por ter podido ajudar.}{}{5}{}{0}{}
+{62}{Tanks. Cê é bom com trancas! Fico feliz em ajudar. Falou.}{}{-4}{}{0}{}
+{63}{E:}{}{1}{}{0}{}
+{64}{Peço desculpas pela minha rudeza, mas estou no meio de um pequeno problema. Receio não ter tempo para você. Adeus.}{Peço desculpas pela minha rudeza, mas estou no meio de um pequeno problema. Receio não ter tempo para você. Adeus.}{}{}{}{}
+{65}{Talvez eu possa ser útil?}{}{5}{tr14 -2, sk 14 -17}{70}{}
+{66}{Talvez eu possa ser útil?}{}{5}{tr14 2, sk 14 18}{161}{}
+{67}{Quiçá eu possa ajudar?}{}{-4}{tr14 -2, sk 14 -17}{70}{}
+{68}{Quiçá eu possa ajudar?}{}{-4}{tr14 2, sk 14 18}{161}{}
+{69}{E:}{}{1}{}{0}{}
+{70}{[Ela o observa lentamente.] Você parece bastante inexperiente. Receio que não me seria útil. Embora agradeça pela sua preocupação. Adeus.}{[Ela o observa lentamente.] Você parece bastante inexperiente. Receio que não me seria útil. Embora agradeça pela sua preocupação. Adeus.}{}{}{}{}
+{71}{E:}{}{5}{}{0}{}
+{72}{[Desconfiada] Procurando por mim? Por que estaria me procurando?}{[Desconfiada] Procurando por mim? Por que estaria me procurando?}{}{}{}{}
+{73}{Os guardas da prisão do JT mencionaram que você era o único visitante permitido.}{}{5}{}{77}{}
+{74}{Me disseram que você é o único visitante permitido para ver o JT.}{}{5}{}{77}{}
+{75}{O guarda de Caladon disse que só a Senhora Morgan pode visitar o Jay Tee.}{}{-4}{}{77}{}
+{76}{E:}{}{1}{}{0}{}
+{77}{Isso é verdade.}{Isso é verdade.}{}{}{}{}
+{78}{Eu esperava buscar o conhecimento dele como treinador...}{}{5}{}{82}{}
+{79}{Tenho pena de você... Que seu filho tenha se tornado um lixo desses!}{}{5}{}{}{co, fl 45}
+{80}{Eu quero ser Mestre como o Jay Tee. Ele me treina.}{}{-4}{}{82}{}
+{81}{E:}{}{1}{}{0}{}
+{82}{Isso é um pouco difícil, considerando a situação dele, não acha?}{Isso é um pouco difícil, considerando a situação dele, não acha?}{}{}{}{}
+{83}{Sim. Mas talvez haja algo que eu possa fazer para ajudar?}{}{5}{tr14 1, tr14 -1}{122}{}
+{84}{Concordo. Mas eu esperava que talvez pudesse ser útil para você.}{}{5}{tr14 2, sk14 -17}{124}{}
+{85}{Concordo. Mas eu esperava que talvez pudesse ser útil para você.}{}{5}{tr14 2, tr14 -2, sk14 18}{92}{}
+{86}{Sim. Mas talvez haja algo que eu possa fazer a respeito...}{}{5}{tr14 2, tr14 -2, sk14 18}{96}{}
+{87}{Quiçá eu possa ajudar?}{}{-4}{tr14 1, tr14 -1}{122}{}
+{88}{Sim... Mas talvez eu possa ser útil para a Senhora Morgan e o Jay Tee?}{}{-4}{tr14 2, sk14 -17}{124}{}
+{89}{Sim... Mas talvez eu possa ser útil para a Senhora Morgan e o Jay Tee?}{}{-4}{tr14 2, tr14 -2, sk14 18}{92}{}
+{90}{Quiçá eu possa ajudar?}{}{-4}{tr14 2, tr14 -2, sk14 18}{96}{}
+{91}{E:}{}{1}{}{0}{}
+{92}{Útil para mim? De que maneira?}{Já usou antes? De que forma?}{}{}{}{}
+{93}{Talvez haja algo que eu possa fazer para ajudar na "situação" dele?}{}{5}{}{96}{}
+{94}{Quiçá eu 'ajudar'?}{}{-4}{}{96}{}
+{95}{E:}{}{1}{}{0}{}
+{96}{Entendo. E se houvesse algo que você pudesse fazer... O que pediria em troca?}{Entendo. E se houvesse algo que você pudesse fazer... O que pediria em troca?}{}{}{}{}
+{97}{Apenas que ele me treinasse como Mestre, nada mais.}{}{5}{}{100}{}
+{98}{Eu quer ser Mestre como Jay Tee. Ele me ensiná.}{}{-4}{}{100}{}
+{99}{E:}{}{1}{}{0}{}
+{100}{Hmmm. Ele é capaz de treiná-lo...}{Hmmm. Ele é capaz de treiná-lo...}{}{}{}{}
+{101}{Acho que é um pedido pequeno, considerando os riscos que correria...}{}{5}{}{104}{}
+{102}{Eu num pedi muito... e eu tô em muito perigo...}{}{-4}{}{104}{}
+{103}{E:}{}{1}{}{0}{}
+{104}{Talvez você possa ajudar. Deixe-me pensar por um momento... [ela faz uma pausa, parecendo mergulhada em pensamentos por alguns instantes. Então, de repente, sua expressão se ilumina com uma ideia.] Tive uma ideia! Agora escute com atenção...}{Talvez você possa ajudar. Deixe-me pensar por um momento... [ela faz uma pausa, parecendo mergulhada em pensamentos por alguns instantes. Então, de repente, sua expressão se ilumina com uma ideia.] Tive uma ideia! Agora escute com atenção...}{}{}{}{}
+{105}{Pois não?}{}{5}{}{108}{}
+{106}{Hã... é?}{}{-4}{}{108}{}
+{107}{E:}{}{1}{}{0}{}
+{108}{Tenho um conjunto de ferramentas de chaveiro do JT. Se você pudesse levá-las até ele, tenho certeza de que conseguiria escapar. Sente-se capaz de realizar essa tarefa?}{Tenho um conjunto de ferramentas de chaveiro do JT. Se você pudesse levá-las até ele, tenho certeza de que conseguiria escapar. Sente-se capaz de realizar essa tarefa?}{}{}{}{qu1112 1}
+{109}{Sou capaz. Mas pode me garantir que ele me treinará?}{}{5}{}{114}{re +5}
+{110}{Não tenho certeza se estou à altura de tal tarefa. Deixe-me pensar sobre isso.}{}{5}{}{0}{}
+{111}{Hã... é. Mas ele me ensiná?}{}{-4}{}{114}{re +5}
+{112}{Hã... quiçá. Eu pensá nisso.}{}{-4}{}{0}{}
+{113}{E:}{}{1}{}{0}{}
+{114}{Ah, obrigada! Irei até ele amanhã e o informarei sobre nosso acordo. Dou-lhe minha palavra de mãe. Se levar essas ferramentas até ele, ele o treinará.}{Ah, obrigada! Irei até ele amanhã e o informarei sobre nosso acordo. Dou-lhe minha palavra de mãe. Se levar essas ferramentas até ele, ele o treinará.}{}{}{}{}
+{115}{Concordo. Confiarei em sua palavra, senhora.}{}{5}{}{118}{}
+{116}{Tá bom. Eu confio no Jay Tee e na Sra. Moorgun.}{}{-4}{}{118}{}
+{117}{E:}{}{1}{}{0}{}
+{118}{Um conselho. Há vários corredores trancados pelos quais terá que passar, além das patrulhas dos guardas. Seja muito cauteloso. Terá que usar cada grama de habilidade que possui. Além disso, o guarda noturno parece um preguiçoso. Talvez isso seja a seu favor, talvez não. Aqui estão as ferramentas. Por favor, ajude meu filho a sair daquele lugar horrível! Obrigada.}{Um conselho. Há vários corredores trancados pelos quais terá que passar, além das patrulhas dos guardas. Seja muito cauteloso. Terá que usar cada grama de habilidade que possui. Além disso, o guarda noturno parece um preguiçoso. Talvez isso seja a seu favor, talvez não. Aqui estão as ferramentas. Por favor, ajude meu filho a sair daquele lugar horrível! Obrigada.}{}{}{}{qu1112 2, in -5659}
+{119}{Estou partindo. Tem minha palavra de que ele estará livre.}{}{5}{}{0}{}
+{120}{Eu vô! Ele ficá livre logo!}{}{-4}{}{0}{}
+{121}{E:}{}{1}{}{0}{}
+{122}{[Ela o observa lentamente.] Você parece bastante inexperiente. JT está preso na prisão de segurança máxima de Caladon. Receio que precise ser muito mais habilidoso para nos ajudar. Volte quando estiver mais capacitado.}{[Ela o observa lentamente.] Você parece bastante inexperiente. JT está preso na prisão de segurança máxima de Caladon. Receio que precise ser muito mais habilidoso para nos ajudar. Volte quando estiver mais capacitado.}{}{}{}{lf2 1}
+{123}{E:}{}{1}{}{0}{}
+{124}{[Ela te examina lentamente.] Você parece inexperiente. JT está preso na prisão de segurança máxima de Caladon. Receio que suas habilidades talvez não sejam suficientes para o desafio.}{[Ela te examina lentamente.] Você parece inexperiente. JT está preso na prisão de segurança máxima de Caladon. Receio que suas habilidades talvez não sejam suficientes para o desafio.}{}{}{}{lf2 1}
+{125}{Madame! Sou um Especialista em serralheria!}{}{5}{}{128}{}
+{126}{Eu sô um Expe'!}{}{-4}{}{128}{}
+{127}{E:}{}{1}{}{0}{}
+{128}{Sim. Mas não acho que você ainda esteja qualificado para o treinamento de Mestre. Talvez só precise praticar um pouco mais...}{Sim. Mas não acho que você ainda esteja qualificado para o treinamento de Mestre. Talvez só precise praticar um pouco mais...}{}{}{}{}
+{129}{Concordo que preciso praticar um pouco mais. Voltarei em breve!}{}{5}{}{0}{}
+{130}{Como ousa me insultar assim!}{}{5}{}{}{co, fl 45}
+{131}{Hã... tá bom. Eu vô praticá mais. Eu vô vortá!}{}{-4}{}{0}{}
+{132}{Cê num fala COMIGO assim! Eu vô te machucá...}{}{-4}{}{}{co, fl 45}
+{133}{E:}{}{1}{}{0}{}
+{134}{Então você tem...}{Então você tem...}{}{}{}{}
+{135}{Desejo ajudar seu filho a sair dessa situação difícil.}{}{5}{}{96}{}
+{136}{Eu quero ajudá o Jay Tee.}{}{-4}{}{96}{}
+{137}{E:}{}{1}{}{0}{}
+{138}{Por favor, leve isso a ele o mais rápido possível. Não suporto pensar nele definhando naquele lugar horrível!}{Por favor, leve isso a ele o mais rápido possível. Não suporto pensar nele definhando naquele lugar horrível!}{}{}{}{}
+{139}{Entendo como deve se sentir. Vou me apressar.}{}{5}{}{0}{}
+{140}{Tá bom. Eu vô!}{}{-4}{}{0}{}
+{141}{E:}{}{1}{}{0}{}
+{142}{Muito obrigada por ajudar meu filho! Você tem minha eterna gratidão.}{Muito obrigada por ajudar meu filho! Você tem minha eterna gratidão.}{}{}{}{}
+{143}{Foi um prazer, Sra. Morgan.}{}{5}{}{0}{}
+{144}{Isso foi legal. Valeu, Sinhôra Moorgun.}{}{-4}{}{0}{}
+{145}{E:}{}{1}{}{0}{}
+{146}{Assassino! Como ousa mostrar sua cara para mim! Meu pobre bebê! Assassinado por um covarde enquanto estava trancado na cela!}{Assassino! Como ousa mostrar sua cara para mim! Meu pobre bebê! Assassinado por um covarde enquanto estava trancado na cela!}{}{}{}{re -50}
+{147}{Ah, sim. Estava esperando por você. Você não é um dos mensageiros habituais... Por que o enviaram?}{Ah, sim. Estava esperando por você. Você não é um dos mensageiros habituais... Por que o enviaram?}{}{}{}{}
+{148}{Me disseram para entregar isso a você, nenhuma explicação foi dada.}{}{5}{}{151}{}
+{149}{O homem me disse pra entregá isso pra você. Ele num me disse mais nada.}{}{-4}{}{151}{}
+{150}{E:}{}{1}{}{0}{}
+{151}{Entendo. Você está sendo testado. Se saiu muito bem. Aqui. Me dê o pacote.}{Entendo. Você está sendo testado. Se saiu muito bem. Aqui. Me dê o pacote.}{}{}{}{}
+{152}{Aqui estão.}{}{5}{}{155}{qu1121 3}
+{153}{Aqui.}{}{-4}{}{155}{qu1121 3}
+{154}{E:}{}{1}{}{155}{}
+{155}{Como não tem mais instruções, vou lhe dar a taxa padrão de "manuseio". Agradeço pelo seu comprometimento com o Subterrâneo.}{Como não tem mais instruções, vou lhe dar a taxa padrão de "manuseio". Agradeço pelo seu comprometimento com o Subterrâneo.}{}{}{}{$$ 250, qu1121 4}
+{156}{Obrigado. Foi um prazer.}{}{5}{}{0}{}
+{157}{Obrigado. Foi um prazer. Posso lhe fazer uma pergunta?}{}{5}{}{54}{}
+{158}{Obrigadu.}{}{-4}{}{0}{}
+{159}{Obrigadu. Posso te perguntá uma coisa?}{}{-4}{}{54}{}
+{160}{E:}{}{1}{}{0}{}
+{161}{[Ela o observa lentamente.] Você realmente parece bastante experiente. Já ouviu falar do dilema do meu filho?}{[Ela o observa lentamente.] Você realmente parece bastante experiente. Já ouviu falar do dilema do meu filho?}{}{}{}{}
+{162}{Sim. Ele está preso na prisão de segurança máxima de Caladon.}{}{5}{}{77}{}
+{163}{Não. O que aconteceu?}{}{5}{}{167}{}
+{164}{Hã... Sim. Ele tá na prisão de Caladon.}{}{-4}{}{77}{}
+{165}{Não. O que aconteceu?}{}{-4}{}{167}{}
+{166}{E:}{}{1}{}{0}{}
+{167}{Ele foi pego invadindo o Castelo de Caladon e o Rei o condenou a prisão perpétua!}{Ele foi pego invadindo o Castelo de Caladon e o Rei o condenou a prisão perpétua!}{}{}{}{}
+{168}{Então ele está preso na prisão de segurança máxima de Caladon?}{}{5}{}{77}{}
+{169}{Ah. Hã... Ele tá na prisão de Caladon?}{}{-4}{}{77}{}
+{170}{E:}{}{1}{}{0}{}
+

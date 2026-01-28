@@ -1,0 +1,77 @@
+{1}{Espere aí... o que está fazendo aqui em cima?}{Espere aí... o que está fazendo aqui em cima?}{}{}{}{gf2322 1}
+{2}{Meu Deus, homem! Acabei de sobreviver a um inferno em chamas!}{}{5}{pa -6409, lf1 0}{11}{lf1 1, lf2 1}
+{3}{Meu Deus, homem! Acabei de sobreviver a um inferno em chamas!}{}{5}{pa 6409}{-2}{lf1 1, lf2 1}
+{4}{Quem é você para perguntar? O que VOCÊ está fazendo aqui?}{}{5}{pa -6409}{23}{lf1 1}
+{5}{Quem é você para perguntar? O que VOCÊ está fazendo aqui?}{}{5}{pa 6409}{-2}{lf1 1}
+{6}{Acabei de ver o acidente e corri para cá o mais rápido que pude...}{}{5}{pa -6409}{35}{lf1 1}
+{7}{Acabei de ver o acidente e corri para cá o mais rápido que pude...}{}{5}{pa 6409}{-2}{lf1 1}
+{8}{Hã... eu saí do dirigível! Ele caiu!}{}{-4}{pa -6409}{11}{lf1 1, lf2 1}
+{9}{Hã... eu saí do dirigível! Ele caiu!}{}{-4}{pa 6409}{-2}{lf1 1, lf2 1}
+{11}{Então você estava no IFS Zéfiro e sobreviveu? Por acaso viu um gnomo... o nome dele era Preston Radcliffe?}{Então você estava no IFS Zéfiro e sobreviveu? Por acaso viu um gnomo... o nome dele era Preston Radcliffe?}{}{}{}{lf3 1}
+{12}{Sim... ele está deitado logo ali. Falei com ele antes de morrer...}{}{5}{}{17}{}
+{13}{Por que está tão curioso sobre todo esse assunto?}{}{5}{}{23}{}
+{14}{Não estou a fim de falar sobre isso... me deixe em paz...}{}{5}{}{57}{}
+{15}{Pestone? Aquele gnominho bobo morto? Ele tá ali.}{}{-4}{}{17}{}
+{17}{Ele disse alguma coisa antes de morrer?}{Ele disse alguma coisa antes de morrer?}{}{}{}{}
+{18}{Sim, e ele me deu um anel... [Conte a ele o que ele disse.]}{}{5}{}{62}{}
+{19}{Por que está tão curioso sobre todo esse assunto?}{}{5}{}{68}{}
+{20}{Não estou a fim de falar sobre isso... me deixe em paz...}{}{5}{}{57}{}
+{21}{É! Ele disse ajuda anel! Garoto? [Mostre a ele.]}{}{-4}{}{62}{}
+{23}{Sou de Colinas Sombrias... uma cidade não muito longe daqui. Vi o acidente e vim o mais rápido que pude...}{Sou de Colinas Sombrias... uma cidade não muito longe daqui. Vi o acidente e vim o mais rápido que pude...}{}{}{}{}
+{24}{Entendo. Bem, eu sobrevivi ao acidente...}{}{5}{lf2 0}{11}{lf2 1}
+{25}{Acabei de ver o acidente e corri para cá o mais rápido que pude...}{}{5}{lf2 0}{35}{}
+{26}{Eu vi um gnomo. Ele está deitado logo ali...}{}{5}{lf3 1}{17}{}
+{27}{Não estou a fim de falar sobre isso... me deixe em paz...}{}{5}{}{57}{}
+{29}{[O homem lança um olhar duro para Virgil, então se vira para você, assentindo.] Sim, isso é mais razoável. Agora, por que está aqui?}{[O homem lança um olhar duro para Virgil, então se vira para você, assentindo.] Sim, isso é mais razoável. Agora, por que está aqui?}{}{}{}{}
+{30}{Como eu já disse, acabei de sobreviver à queda do dirigível...}{}{5}{lf2 1}{11}{lf2 1}
+{31}{Parece que sou o único sobrevivente da queda do IFS Zéfiro...}{}{5}{}{11}{lf2 1}
+{32}{Talvez você devesse me dizer o que VOCÊ está fazendo aqui...}{}{5}{}{23}{}
+{33}{Vi que houve uma perturbação e vim investigar...}{}{5}{}{35}{}
+{34}{Hã... eu saí do dirigível! Ele caiu!}{}{-4}{}{11}{}
+{35}{Ah, é mesmo? Então você não estava no dirigível? O que estava fazendo aqui em cima, afinal?}{Ah, é mesmo? Então você não estava no dirigível? O que estava fazendo aqui em cima, afinal?}{}{}{}{}
+{36}{Estava acampando. Vi a queda de longe e vim investigar...}{}{5}{}{40}{}
+{37}{Está duvidando da minha palavra, senhor? Não recomendo...}{}{5}{}{40}{}
+{38}{Não é cheio de perguntas? Por que quer saber?}{}{5}{}{68}{}
+{39}{Acho que já falei o suficiente sobre isso. Tenha um bom dia...}{}{5}{}{57}{}
+{40}{[O homem olha para você com desconfiança.] Bem longe na natureza, não acha? Lugar estranho para acampar... está caçando ou algo mais?}{[O homem olha para você com desconfiança.] Bem longe na natureza, não acha? Lugar estranho para acampar... está caçando ou algo mais?}{}{}{}{}
+{41}{Hã... sim, caçando...}{}{5}{}{45}{}
+{42}{O que VOCÊ está fazendo aqui, estranho?}{}{5}{}{68}{}
+{43}{Já tive o suficiente das suas perguntas. Tenha um bom dia...}{}{5}{}{57}{}
+{45}{Hmmm. Que tipo de caça você está procurando?}{Hmmm. Onde estão suas armas? Que tipo de caça se faz sem armas?}{}{}{}{}
+{46}{Ah, sabe como é, o que aparecer...}{}{5}{}{50}{}
+{47}{Comece a responder algumas perguntas. Por que VOCÊ está aqui?}{}{5}{}{68}{}
+{48}{Já tive o suficiente das suas perguntas. Tenha um bom dia...}{}{5}{}{57}{}
+{50}{[Ele dá um passo à frente.] Sua história não soa verdadeira, estranho. Acho que você sobreviveu à queda do dirigível.}{[Ele dá um passo à frente.] Sua história não soa verdadeira, estranho. Acho que você sobreviveu à queda do dirigível.}{}{}{}{}
+{51}{Não, não estou mentindo! Estou mesmo caçando!}{}{5}{}{}{ru 2176, gf1045 1, co, fl 55}
+{52}{Não gostei do seu tom nem das suas perguntas...}{}{5}{}{}{ru 2176, gf1045 1, co, fl 55}
+{53}{Acho que é hora de eu ir...}{}{5}{}{}{ru 2176, gf1045 1, co, fl 55}
+{55}{E estou garantindo que não haja sobreviventes. Agora você morre...}{E estou garantindo que não haja sobreviventes. Agora você morre...}{}{}{}{}
+{57}{Receio que essa não seja uma opção aqui. Sabe, estou aqui para ver se houve sobreviventes...}{Receio que essa não seja uma opção aqui. Sabe, estou aqui para ver se houve sobreviventes...}{}{}{}{}
+{58}{Como eu já disse... EU SOU um sobrevivente...}{}{5}{lf2 1}{}{ru 2176, gf1045 1, co, fl 55}
+{59}{Só estou aqui para ver o que aconteceu...}{}{5}{}{}{ru 2176, gf1045 1, co, fl 55}
+{60}{Não gostei do seu tom, senhor. Saia da minha frente...}{}{5}{}{}{ru 2176, gf1045 1, co, fl 55}
+{62}{Ah. Entendi. Sinto muito mesmo...}{Ah. Entendi. Sinto muito mesmo...}{}{}{}{}
+{63}{Pelo quê? Eu nem o conhecia...}{}{5}{}{}{ru 2176, gf1045 1, co, fl 66}
+{64}{Por que você tá triste? Conhecia o boboca morto?}{}{-4}{}{}{ru 2176, gf1045 1, co, fl 66}
+{66}{Não. Sinto muito por ter que fazer isso...}{Não. Sinto muito por ter que fazer isso...}{}{}{}{}
+{68}{Eu? Só vi o acidente e quis ver se havia sobreviventes...}{Eu? Só vi o acidente e quis ver se havia sobreviventes...}{}{}{}{}
+{69}{Como eu já disse... EU SOU um sobrevivente...}{}{5}{lf2 1}{}{ru 2176, gf1045 1, co, fl 55}
+{70}{Bom, eu também só estou aqui para ver o que aconteceu...}{}{5}{lf2 0}{}{ru 2176, gf1045 1, co, fl 55}
+{71}{Não gostei do seu tom, senhor. Saia da minha frente...}{}{5}{}{}{ru 2176, gf1045 1, co, fl 55}
+{100}{Só estou fazendo uma pergunta simples... o que vocês dois estão fazendo aqui? Sou de Shrouded Hills, uma vila não muito longe daqui, e testemunhei esse terrível acidente! É crime querer saber exatamente o que está acontecendo?}{Só estou fazendo uma pergunta simples... o que vocês dois estão fazendo aqui? Sou de Shrouded Hills, uma vila não muito longe daqui, e testemunhei esse terrível acidente! É crime querer saber exatamente o que está acontecendo?}{}{}{}{}
+{101}{[Deixe Virgil falar.]}{}{1}{}{-5}{}
+{102}{Virgil... eu assumo daqui...}{}{5}{}{-26}{}
+{103}{Hã... agora eu falo, Vigrol.}{}{-4}{}{-26}{}
+{105}{Eu... hã... não vim de Shrouded Hills agora. Estava acampando não muito longe daqui e vi o incêndio. Por que está me interrogando? Não lhe fiz mal algum...}{Eu... hã... não vim de Shrouded Hills agora. Estava acampando não muito longe daqui e vi o incêndio. Por que está me interrogando? Não lhe fiz mal algum...}{}{}{}{}
+{106}{[Deixe Virgil falar.]}{}{1}{}{-10}{}
+{107}{Virgil... eu assumo daqui...}{}{5}{}{-26}{}
+{108}{Hã... agora eu falo, Vigrol.}{}{-4}{}{-26}{}
+{110}{[Um olhar frio toma conta do rosto do homem.] Não recomendo que fale comigo desse jeito, amigo. Só fiz uma pergunta e espero uma resposta. [Ele olha para você, depois de volta para Virgil.] Podemos resolver isso de forma simples ou mais difícil...}{[Um olhar frio toma conta do rosto do homem.] Não recomendo que fale comigo desse jeito, amigo. Só fiz uma pergunta e espero uma resposta. [Ele olha para você, depois de volta para Virgil.] Podemos resolver isso de forma simples ou mais difícil...}{}{}{}{}
+{111}{[Deixe Virgil falar.]}{}{1}{}{-17}{}
+{112}{Hã, Virgil... talvez seja melhor eu assumir...}{}{5}{}{-26}{}
+{113}{Hã... agora eu falo, Vigrol.}{}{-4}{}{-26}{}
+{115}{[O homem parece não saber o que fazer. Você vê medo em seus olhos.] Talvez essa seja uma discussão para depois, amigo. Tenho certeza de que essa questão será resolvida a tempo. [Ele olha para você, assentindo. Em seus olhos, um ódio ardente.] Tenha um bom dia, senhor.}{[O homem parece não saber o que fazer. Há medo em seus olhos.] Talvez essa seja uma conversa que teremos mais tarde, amigo. Tenho certeza de que essa questão será resolvida em breve. [Ele olha para você, assentindo. Em seus olhos, um ódio ardente.] Tenha um bom dia, madame.}{}{}{}{ru 2177}
+{116}{Hmm... sim. Tenha um bom dia, então...}{}{5}{}{-22}{lf4 1}
+{117}{Urgh.}{}{-4}{}{-22}{lf4 1}
+{119}{[Com ódio.] Tenha um bom dia, senhor...}{[Com ódio.] Tenha um bom dia, madame...}{}{}{}{}
+

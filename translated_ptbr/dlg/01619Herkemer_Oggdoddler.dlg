@@ -1,0 +1,230 @@
+{1}{G:}{G:}{}{}{}{lf 8 0, lf 7 0}
+{2}{Não lhe dei motivo para esse comentário.}{}{5}{re -40, me 0}{12}{re41}
+{3}{Olá, senhor, posso saber seu nome?}{}{5}{re 41, me 0}{19}{}
+{4}{Vejo que continua tão desagradável como sempre!}{}{5}{re -40, me 1}{34}{re41}
+{5}{É bom vê-lo novamente.}{}{5}{re 41, me 1}{34}{}
+{6}{Gostaria de conversar sobre treinamento com você.}{}{5}{lf 13 1}{155}{}
+{7}{Você não deveria ser rude comigo!}{}{-4}{re -40, me 0}{12}{re41}
+{8}{Me fala oi!}{}{-4}{re 41, me 0}{19}{}
+{9}{Você não deveria ser rude comigo!}{}{-4}{re -40, me 1}{34}{re41}
+{10}{Me fala oi!}{}{-4}{re 41, me 1}{34}{}
+{11}{Me quer aprender.}{}{-4}{lf 13 1}{155}{}
+{12}{É verdade, é verdade. Você tem toda a razão, às vezes esqueço meus modos. Por favor, desculpe minha grosseria.}{É verdade, é verdade. Você tem toda a razão, às vezes esqueço meus modos. Por favor, desculpe minha grosseria.}{}{}{}{}
+{13}{Não se preocupe com isso.}{}{5}{}{19}{re +10}
+{14}{Permita-me ensinar-lhe algumas coisas, cão!}{}{5}{}{0}{co, fl 255}
+{15}{Tá tudo bem! Me não tá bravo!}{}{-4}{}{19}{re +10}
+{16}{Me mata você agora!}{}{-4}{}{0}{co, fl 255}
+{18}{E:}{}{1}{}{0}{}
+{19}{Permita-me me apresentar, sou Herkemer Ogg. Quem seria você?}{Permita-me me apresentar, sou Herkemer Ogg. Quem seria você?}{}{}{}{lf 1 1}
+{20}{Sou conhecido como @pcname@.}{}{5}{}{34}{}
+{21}{Meu nome não é importante.}{}{5}{}{24}{}
+{22}{Me @pcname@}{}{-4}{}{34}{}
+{23}{Me não digo meu nome.}{}{-4}{}{24}{}
+{24}{Senhor, não falo com estranhos sem nome. O nome de um homem é a medida de seu valor. É uma ideia antiquada nestes tempos modernos, mas sou resoluto. Qual é o seu nome, senhor?}{Senhora, não falo com estranhos sem nome. O bom nome de uma mulher é a personificação de seu caráter e virtude. Faço algumas concessões aos tempos modernos, mas nisso sou resoluto. Qual é o seu nome, senhora?}{}{}{}{}
+{25}{O senhor está ultrapassado. Deixe-me aposentá-lo, velho!}{}{5}{}{0}{co, fl 255}
+{26}{Sou conhecido como @pcname@.}{}{5}{}{34}{}
+{27}{Me diz que você morre!}{}{-4}{}{0}{co, fl 255}
+{28}{Me é @pcname@!}{}{-4}{}{34}{}
+{33}{E:}{}{1}{}{0}{}
+{34}{O que posso fazer por você, @pcname@?}{O que posso fazer por você, @pcname@?}{}{}{}{}
+{35}{O que é que você faz?}{}{5}{lf 13 0, lf 14 0}{68}{}
+{36}{Gostaria de ouvir sua história agora.}{}{5}{lf 13 0 , lf 14 1}{88}{}
+{37}{Vamos discutir sobre treinamento.}{}{5}{lf 13 1}{155}{}
+{38}{C:}{}{5}{lf 8 0}{47}{lf 8 1}
+{39}{R:$0,1175 - 1184}{}{5}{lf 7 0}{47}{lf 7 1}
+{41}{Quem é você?}{}{-4}{lf 13 0, lf 14 0}{68}{}
+{42}{Conte-me mais sobre sua história, por favor.}{}{-4}{lf 13 0 , lf 14 1}{88}{}
+{43}{Eu quero aprender.}{}{-4}{lf 13 1}{155}{}
+{44}{C:}{}{-4}{lf 8 0}{47}{lf 8 1}
+{45}{R:$0,1175 - 1184}{}{-4}{lf 7 0}{47}{lf 7 1}
+{46}{E:}{}{1}{}{0}{}
+{47}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{}
+{48}{O que é que você faz?}{}{5}{lf 13 0, lf 14 0}{68}{}
+{49}{Gostaria de ouvir sua história agora.}{}{5}{lf 13 0 , lf 14 1}{88}{}
+{50}{Vamos discutir sobre treinamento.}{}{5}{lf 13 1}{155}{}
+{51}{C:}{}{5}{lf 8 0}{47}{lf 8 1}
+{52}{R:$0,1175 - 1184}{}{5}{lf 7 0}{47}{lf 7 1}
+{53}{E:}{}{5}{}{0}{}
+{54}{Quem é você?}{}{-4}{lf 13 0, lf 14 0}{68}{}
+{55}{Conte-me mais sobre sua história, por favor.}{}{-4}{lf 13 0 , lf 14 1}{88}{}
+{56}{Eu quero aprender.}{}{-4}{lf 13 1}{155}{}
+{57}{C:}{}{-4}{lf 8 0}{47}{lf 8 1}
+{58}{R:$0,1175 - 1184}{}{-4}{lf 7 0}{47}{lf 7 1}
+{59}{E:}{}{-4}{}{0}{}
+{60}{Não preciso de nada extravagante, apenas 500 moedas, e você deve estar pronto para aprender. Acho que você precisa de mais experiência antes que eu aceite seu dinheiro, no entanto. Volte quando estiver pronto.}{Não preciso de nada extravagante, apenas 500 moedas, e você deve estar pronto para aprender. Acho que você precisa de mais experiência antes que eu aceite seu dinheiro, no entanto. Volte quando estiver pronto.}{}{}{}{}
+{61}{K:}{}{1}{}{47}{}
+{62}{E:}{}{1}{}{0}{}
+{68}{Sou um simples soldado... um veterano das guerras contra Tarant e Dernholm. [hesitando um pouco] Estou aposentado agora, vivendo aqui em Blackroot. Às vezes ofereço instrução em habilidades marciais para aqueles que se qualificam e têm um interesse genuíno em aprender. É um dinheiro honesto, e eu gosto da companhia.}{Sou um simples soldado... um veterano das guerras contra Tarant e Dernholm. [hesitando um pouco] Estou aposentado agora, vivendo aqui em Blackroot. Às vezes ofereço instrução em habilidades marciais para aqueles que se qualificam e têm um interesse genuíno em aprender. É um dinheiro honesto, e eu gosto da companhia.}{}{}{}{}
+{69}{Talvez eu treine com você algum dia.}{}{5}{}{47}{}
+{70}{Se não for um incômodo, poderia me contar sobre a guerra?}{}{5}{lf 14 0}{73}{lf 14 1}
+{71}{Talvez eu aprenda com você algum dia.}{}{-4}{}{47}{}
+{72}{Conte-me a história da grande guerra.}{}{-4}{lf 14 0}{73}{lf 14 1}
+{73}{[com orgulho e amargura] Sou um dos últimos que se lembram das guerras, embora preferisse não me lembrar. Desde o dia em que Cumbria foi derrotada, as políticas do Conselho Industrial Tarantiano drenaram o reino de Cumbria até secar e reduziram sua capital, Dernholm, a ruínas.}{[com orgulho e amargura] Sou um dos últimos que se lembram das guerras, embora preferisse não me lembrar. Desde o dia em que Cumbria foi derrotada, as políticas do Conselho Industrial Tarantiano drenaram o reino de Cumbria até secar e reduziram sua capital, Dernholm, a ruínas.}{}{}{}{}
+{74}{Isso é uma coisa boa, também. Cumbria é irremediavelmente atrasada!}{}{5}{}{193}{}
+{75}{Por favor, continue.}{}{5}{}{81}{}
+{77}{Eu quero ouvir mais!}{}{-4}{}{81}{}
+{79}{Eu já ouvi sua história.}{}{-4}{}{47}{}
+{80}{Obrigado por compartilhar sua história comigo.}{}{5}{}{47}{}
+{81}{Na guerra, servi na guarda de elite de Cumbria, os Cavaleiros do Dragão. Éramos imbatíveis com a espada, maça ou machado. Treinados desde a infância, éramos. Primeiro escudeiros, depois homens de armas, e então cavaleiros servindo ao nosso Rei. Lutamos com honra e virtude.}{Na guerra, servi na guarda de elite de Cumbria, os Cavaleiros do Dragão. Éramos imbatíveis com a espada, maça ou machado. Treinados desde a infância, éramos. Primeiro escudeiros, depois homens de armas, e então cavaleiros servindo ao nosso Rei. Lutamos com honra e virtude.}{}{}{}{}
+{82}{Por favor, continue.}{}{5}{}{88}{}
+{83}{Eu quero ouvir mais!}{}{-4}{}{88}{}
+{86}{Eu já ouvi sua história.}{}{-4}{}{47}{}
+{87}{Obrigado por compartilhar sua história comigo.}{}{5}{}{47}{}
+{88}{A guerra contra Tarant foi diferente de todas as outras guerras. Viu o fim da era da cavalaria. O nobre cavaleiro foi substituído por uma linha de recrutas novatos com armas de fogo.}{A guerra contra Tarant foi diferente de todas as outras guerras. Viu o fim da era da cavalaria. O nobre cavaleiro foi substituído por uma linha de recrutas novatos com armas de fogo.}{}{}{}{}
+{89}{Por favor, continue.}{}{5}{}{96}{}
+{90}{Eu quero ouvir mais!}{}{-4}{}{96}{}
+{94}{Eu escutei sua história.}{}{-4}{}{47}{}
+{95}{Obrigado por compartilhar sua história comigo.}{}{5}{}{47}{}
+{96}{No início da guerra, o rifle era distribuído apenas para atiradores de elite tarantianos, mas, no fim, já era equipamento padrão para todo recruta do Exército Tarantiano! Combinado com formações de unidades em fileiras para concentrar o fogo, os tarantianos conseguiam controlar o campo de batalha. E fazer isso com soldados inferiores!}{No início da guerra, o rifle era distribuído apenas para atiradores de elite tarantianos, mas, no fim, já era equipamento padrão para todo recruta do Exército Tarantiano! Combinado com formações de unidades em fileiras para concentrar o fogo, os tarantianos conseguiam controlar o campo de batalha. E fazer isso com soldados inferiores!}{}{}{}{}
+{97}{De fato, a arma de fogo sempre será o refúgio do covarde.}{}{5}{}{103}{re+10}
+{98}{Por favor, continue.}{}{5}{}{103}{}
+{99}{Obrigado por compartilhar sua história comigo.}{}{5}{}{47}{}
+{100}{Eu quero ouvir mais!}{}{-4}{}{103}{}
+{101}{Eu escutei sua história.}{}{-4}{}{47}{}
+{103}{Foi o fim de 500 anos de tradição! [Ele balança a cabeça com tristeza] Eu testemunhei cavaleiros sendo abatidos enquanto ofereciam desafios em um campo de honra. A covardia desse novo tipo de guerra é uma desgraça!}{Foi o fim de 500 anos de tradição! [Ele balança a cabeça com tristeza] Eu testemunhei cavaleiros sendo abatidos enquanto ofereciam desafios em um campo de honra. A covardia desse novo tipo de guerra é uma desgraça!}{}{}{}{}
+{104}{Cavalheirismo?! Tradição?! Não há honra na guerra!}{}{5}{}{193}{re-10}
+{105}{Por favor, continue.}{}{5}{}{110}{}
+{106}{Obrigado por compartilhar sua história comigo.}{}{5}{}{47}{}
+{107}{Eu quero ouvir mais!}{}{-4}{}{110}{}
+{108}{Eu escutei sua história.}{}{-4}{}{47}{}
+{110}{A única fraqueza de suas formações era que não conseguiam suportar o choque do combate corpo a corpo. Quando conseguíamos enfrentá-los mão a mão, a vitória era nossa! Nossas táticas se tornaram as de emboscada, de lutar nas florestas, colinas e montanhas, onde a proximidade do terreno favorecia nosso estilo de combate.}{A única fraqueza de suas formações era que não conseguiam suportar o choque do combate corpo a corpo. Quando conseguíamos enfrentá-los mão a mão, a vitória era nossa! Nossas táticas se tornaram as de emboscada, de lutar nas florestas, colinas e montanhas, onde a proximidade do terreno favorecia nosso estilo de combate.}{}{}{}{}
+{111}{Por favor, continue.}{}{5}{}{117}{}
+{112}{Eu quero ouvir mais!}{}{-4}{}{117}{}
+{113}{Obrigado por compartilhar sua história comigo.}{}{5}{}{47}{}
+{115}{Eu escutei sua história.}{}{-4}{}{47}{}
+{117}{Mas essas são táticas usadas por uma força mais fraca contra uma mais forte. Tivemos muitas vitórias gloriosas em batalha. Mas, no fim, e a um grande custo, os tarantianos prevaleceram, e nós perdemos a guerra. As forças militares cumbrianas foram destroçadas, desarmadas e dissolvidas. O Reino da Cúmbria deixou de existir como potência militar em Arcanum.}{Mas essas são táticas usadas por uma força mais fraca contra uma mais forte. Tivemos muitas vitórias gloriosas em batalha. Mas, no fim, e a um grande custo, os tarantianos prevaleceram, e nós perdemos a guerra. As forças militares cumbrianas foram destroçadas, desarmadas e dissolvidas. O Reino da Cúmbria deixou de existir como potência militar em Arcanum.}{}{}{}{}
+{118}{Então você admite a superioridade tarantiana?}{}{5}{}{193}{}
+{119}{Por favor, continue.}{}{5}{}{124}{}
+{120}{Obrigado por compartilhar sua história comigo.}{}{5}{}{47}{}
+{121}{Eu quero ouvir mais!}{}{-4}{}{124}{}
+{122}{Eu escutei sua história.}{}{-4}{}{47}{}
+{124}{Por duas gerações, a Cúmbria definhou como um rincão economicamente explorado e tecnologicamente atrasado à sombra de Tarant. Sua outrora bela capital, Dernholm, tornou-se uma ruína. Eu me mudei para encontrar paz aqui em Blackroot. Estou resignado com isso. A guerra foi há muito tempo e nós perdemos... [ele olha para você, como se tivesse esquecido que você estava ali.] Por favor, perdoe um velho por suas divagações, você tem sido muito paciente.}{Por duas gerações, a Cúmbria definhou como um rincão economicamente explorado e tecnologicamente atrasado à sombra de Tarant. Sua outrora bela capital, Dernholm, tornou-se uma ruína. Eu me mudei para encontrar paz aqui em Blackroot. Estou resignado com isso. A guerra foi há muito tempo e nós perdemos... [ele olha para você, como se tivesse esquecido que você estava ali.] Por favor, perdoe um velho por suas divagações, você tem sido muito paciente.}{}{}{}{}
+{125}{Senhor, o senhor não divaga. Foi um prazer.}{}{5}{}{131}{}
+{126}{A derrota é amarga, mas Tarant venceu porque era superior.}{}{5}{}{193}{re -25}
+{127}{Não foi nada... Desejo-lhe tudo de bom.}{}{5}{}{131}{}
+{128}{Gosto da história!}{}{-4}{}{131}{}
+{129}{Eu digo que Tarant é melhor.!}{}{-4}{}{193}{re -25}
+{130}{Sinto muito por você.}{}{-4}{}{131}{}
+{131}{Você tem sido muito paciente... sinal de um bom aluno. Se algum dia precisar de treinamento em Combate Corpo a Corpo, Esquiva, Detecção de Armadilhas ou Armas de Fogo, eu o aceitarei como aluno.}{Você tem sido muito paciente... sinal de um bom aluno. Se algum dia precisar de treinamento em Combate Corpo a Corpo, Esquiva, Detecção de Armadilhas ou Armas de Fogo, eu o aceitarei como aluno.}{}{}{}{lf 13 1, re 75}
+{132}{A senhora é muito bondosa.}{}{5}{}{47}{}
+{133}{A:}{}{5}{}{47}{}
+{134}{O que exatamente você está propondo?}{}{5}{}{138}{}
+{135}{Você é um homem legal.}{}{-4}{}{47}{}
+{136}{A:}{}{-4}{}{47}{}
+{137}{Estou confuso.}{}{-4}{}{138}{}
+{138}{Estou aposentado agora, mas já fui mestre de armas do Exército Cumbriano. Cavaleiros que treinaram comigo se tornaram especialistas em Combate Corpo a Corpo e Esquiva. Perto do fim da minha carreira, também treinei em Armas de Fogo e Detecção de Armadilhas. Posso treiná-lo em qualquer uma dessas habilidades por uma taxa modesta.}{Estou aposentado agora, mas já fui mestre de armas do Exército Cumbriano. Cavaleiros que treinaram comigo se tornaram especialistas em Combate Corpo a Corpo e Esquiva. Perto do fim da minha carreira, também treinei em Armas de Fogo e Detecção de Armadilhas. Posso treiná-lo em qualquer uma dessas habilidades por uma taxa modesta.}{}{}{}{}
+{139}{Conte-me mais sobre o treinamento.}{}{5}{}{144}{}
+{140}{K:}{}{5}{}{47}{}
+{141}{Quero saber mais.}{}{-4}{}{144}{}
+{142}{K:}{}{-4}{}{47}{}
+{144}{Não exijo nada extravagante, apenas 500 moedas, e você deve estar pronto para aprender. Ou seja, se já tiver treinamento básico e habilidade suficiente para se tornar um especialista.}{Não exijo nada extravagante, apenas 500 moedas, e você deve estar pronto para aprender. Ou seja, se já tiver treinamento básico e habilidade suficiente para se tornar um especialista.}{}{}{}{}
+{146}{Uma política bastante razoável.}{}{5}{}{47}{}
+{147}{Acredito que desejo ser treinado agora.}{}{5}{}{155}{}
+{150}{Urgh.}{}{-4}{}{47}{}
+{151}{Quero aprender agora!}{}{-4}{}{155}{}
+{154}{E:}{}{1}{}{0}{}
+{155}{Ofereço instrução em quatro habilidades. Esquiva, Combate Corpo a Corpo, Detecção de Armadilhas e Armas de Fogo, como já disse, por 500 moedas. Você deve ser um aprendiz e ter habilidade suficiente.}{Ofereço instrução em quatro habilidades. Esquiva, Combate Corpo a Corpo, Detecção de Armadilhas e Armas de Fogo, como já disse, por 500 moedas. Você deve ser um aprendiz e ter habilidade suficiente.}{}{}{}{}
+{156}{Gostaria de ser treinado na habilidade de Esquiva.}{}{5}{tr 1 1, tr 1 -1, sk 1 9,  $$ 500}{204}{tr 1 2,  $$ -500, rq2178}
+{157}{Gostaria de ser treinado na habilidade de Combate Corpo a Corpo.}{}{5}{tr 2 1, tr 2 -1, sk 2 9,  $$ 500}{213}{tr 2 2, $$ - 500, rq2179}
+{158}{Gostaria de ser treinado na habilidade de Detecção de Armadilhas.}{}{5}{tr 7 1, tr 7 -1, sk 7 9,  $$ 500}{235}{tr 7 2, $$ -500, rq2181}
+{159}{Gostaria de ser treinado na habilidade de Armas de Fogo.}{}{5}{tr 13 1, tr 13 -1, sk 13 9,  $$ 500}{244}{tr 13 2,  $$ -500, rq2182}
+{160}{Quem pode me treinar para ser um Mestre em Esquiva?}{}{5}{tr 1 2, tr 1 -2}{209}{}
+{161}{Quem pode me treinar para ser um Mestre em Combate Corpo a Corpo?}{}{5}{tr 2 2, tr 2 -2}{218}{}
+{162}{Quem pode me treinar para ser um Mestre em Detecção de Armadilhas?}{}{5}{tr 7 2, tr 7 -2}{240}{}
+{163}{Quem pode me treinar para ser um Mestre em Armas de Fogo?}{}{5}{tr 13 2, tr 13 -2}{249}{}
+{164}{Sinto muito, mas não posso pagar seu preço de 500 moedas.}{}{5}{$$ -499}{178}{}
+{165}{Está disposto a negociar a taxa?}{}{5}{ha 11}{181}{}
+{166}{Quero aprender Esquiva agora.}{}{-4}{tr 1 1, tr 1 -1, sk 1 9,  $$ 500}{204}{tr 1 2,  $$ -500, rq2178}
+{167}{Eu vou aprender Combate Corpo a Corpo agora.}{}{-4}{tr 2 1, tr 2 -1, sk 2 9,  $$ 500}{213}{tr 2 2, $$ - 500, rq2179}
+{168}{Eu vou aprender a Detectar Armadilhas agora.}{}{-4}{tr 7 1, tr 7 -1, sk 7 9,  $$ 500}{235}{tr 7 2, $$ -500, rq2181}
+{169}{Eu vou aprender Armas de Fogo agora.}{}{-4}{tr 13 1, tr 13 -1, sk 13 9,  $$ 500}{244}{tr 13 2,  $$ -500, rq2182}
+{170}{Quem foi esse cara que me tornou Mestre em Esquiva?}{}{-4}{tr 1 2, tr 1 -2}{209}{}
+{171}{Quem foi esse cara que me tornou Mestre em Combate Corpo a Corpo?}{}{-4}{tr 2 2, tr 2 -2}{218}{}
+{172}{Quem foi esse cara que me tornou Mestre em Detectar Armadilhas com furtividade?}{}{-4}{tr 7 2, tr 7 -2}{240}{}
+{173}{Quem foi esse cara que me tornou Mestre em ARMAS?}{}{-4}{tr 13 2, tr 13 -2}{249}{}
+{174}{Eu não tenho 500 moedas.}{}{-4}{$$ -499}{178}{}
+{175}{Vamos fazer um acordo!}{}{-4}{ha 11}{181}{}
+{176}{K:}{}{1}{}{47}{}
+{177}{E:}{}{1}{}{0}{}
+{178}{Volte quando tiver. Ficarei feliz em treiná-lo então.}{Volte quando tiver. Ficarei feliz em treiná-lo então.}{}{}{}{}
+{179}{K:}{}{1}{}{47}{}
+{180}{E:}{}{1}{}{0}{}
+{181}{Bem... talvez eu faça uma exceção para você. Os negócios andam devagar ultimamente. Aceito 300 moedas para treiná-lo.}{Bem... talvez eu faça uma exceção para você. Os negócios andam devagar ultimamente. Aceito 300 moedas para treiná-lo.}{}{}{}{}
+{182}{Treine-me em Esquiva agora.}{}{5}{tr 1 1, tr 1 -1, sk 1 9,  $$ 300}{204}{tr 1 2,  $$ -300, rq2178}
+{183}{Treine-me em Combate Corpo a Corpo agora.}{}{5}{tr 2 1, tr 2 -1, sk 2 9,  $$ 300}{213}{tr 2 2, $$ -300, rq2179}
+{184}{Treine-me em Detectar Armadilhas agora.}{}{5}{tr 7 1, tr 7 -1, sk 7 9,  $$ 300}{235}{tr 7 2, $$ -300, rq2181}
+{185}{Treine-me em Armas de Fogo agora.}{}{5}{tr 13 1, tr 13 -1, sk 13 9,  $$ 300}{244}{tr 13 2, $$ -300, rq2182}
+{186}{Eu vou aprender Esquiva agora.}{}{-4}{tr 1 1, tr 1 -1, sk 1 9,  $$ 300}{204}{tr 1 2,  $$ -300, rq2178}
+{187}{Eu vou aprender Combate Corpo a Corpo agora.}{}{-4}{tr 2 1, tr 2 -1, sk 2 9,  $$ 300}{213}{tr 2 2, $$ -300, rq2179}
+{188}{Eu vou aprender a Detectar Armadilhas agora.}{}{-4}{tr 7 1, tr 7 -1, sk 7 9,  $$ 300}{235}{tr 7 2, $$ -300, rq2181}
+{189}{Eu vou aprender Armas de Fogo agora.}{}{-4}{tr 13 1, tr 13 -1, sk 13 9,  $$ 300}{244}{tr 13 2, $$ -300, rq2182}
+{190}{F:}{}{1}{}{47}{}
+{191}{E:}{}{1}{}{0}{}
+{193}{O senhor me ofendeu! Retire o que disse ou exigirei satisfação. Escolha suas palavras com cuidado...}{O senhor me ofendeu! Retire o que disse ou exigirei satisfação. Escolha suas palavras com cuidado...}{}{}{}{}
+{194}{Peço desculpas e retiro minhas palavras.}{}{5}{}{47}{}
+{195}{Tarant venceu a Guerra, eles são superiores. Não retiro nada.}{}{5}{}{0}{lf 5 1,co , fl 254}
+{196}{Eu sinto muito.}{}{-4}{}{47}{}
+{197}{Eu digo que não sinto muito. Eu digo que você vai morrer!}{}{-4}{}{0}{lf 5 1,co , fl 254}
+{198}{Chambers foi cegado em um duelo com Garrick Stout. Chambers defendia a honra de sua noiva... uma mulher bela e virtuosa conhecida como Lady Druella. Os detalhes são vergonhosos para mim e não falarei deles. O julgamento por combate provou a inocência de Stout, pois ele saiu vitorioso. No entanto, ele se desgraçou ao atacar depois que seu oponente havia se rendido.}{Chambers foi cegado em um duelo com Garrick Stout. Chambers defendia a honra de sua noiva... uma mulher bela e virtuosa conhecida como Lady Druella. Os detalhes são vergonhosos para mim e não falarei deles. O julgamento por combate provou a inocência de Stout, pois ele saiu vitorioso. No entanto, ele se desgraçou ao atacar depois que seu oponente havia se rendido.}{}{}{}{}
+{199}{Quem é Garrick Stout?}{}{5}{}{218}{}
+{200}{Obrigado! Você foi muito prestativo.}{}{5}{}{47}{}
+{201}{Quem é Garreeeck Stout?}{}{-4}{}{218}{}
+{202}{Eu agradeço ocê pq ocê me ajudou.}{}{-4}{}{47}{}
+{203}{E:}{}{1}{}{0}{}
+{204}{Seu treinamento está completo. Há mais alguma coisa?}{Seu treinamento está completo. Há mais alguma coisa?}{}{}{}{}
+{205}{Quem poderia me treinar para ser um mestre em esquiva?}{}{5}{}{209}{}
+{206}{Obrigado pela sua ajuda.}{}{5}{}{0}{}
+{207}{Eu quero saber quem é o mestre da esquiva?}{}{-4}{}{209}{}
+{208}{Eu digo valeu.}{}{-4}{}{0}{}
+{209}{Por mais incrível que pareça, o mestre da esquiva é um eremita cego chamado Adkin Chambers. Ele foi cegado e desfigurado em um duelo, por um golpe desleal desferido depois que ele já havia se rendido. Essas coisas são esperadas na guerra, mas não em um duelo de armas. Agora ele se esconde da sociedade nos arredores de Stillwater.}{Por mais incrível que pareça, o mestre da esquiva é um eremita cego chamado Adkin Chambers. Ele foi cegado e desfigurado em um duelo, por um golpe desleal desferido depois que ele já havia se rendido. Essas coisas são esperadas na guerra, mas não em um duelo de armas. Agora ele se esconde da sociedade nos arredores de Stillwater.}{}{}{}{ru 2163}
+{210}{Conte-me mais sobre esse duelo.}{}{5}{}{198}{}
+{211}{Eu quero saber mais.}{}{-4}{}{198}{}
+{213}{Seu treinamento está completo. Há mais alguma coisa?}{Seu treinamento está completo. Há mais alguma coisa?}{}{}{}{}
+{214}{Quem poderia me treinar para ser um mestre em combate corpo a corpo?}{}{5}{}{218}{}
+{215}{Obrigado pela sua expertise.}{}{5}{}{0}{}
+{216}{Eu quero saber quem é o mestre do combate corpo a corpo.}{}{-4}{}{218}{}
+{217}{Eu digo valeu.}{}{-4}{}{0}{}
+{218}{Garrick Stout é o mestre do combate corpo a corpo. Ele provou ser o melhor em inúmeros duelos de armas. Sua habilidade é lendária e respeitada por todo o Arcanum, mas sua proeza gerou arrogância em seu caráter. É lamentável que tantos o procurem por sua "sabedoria".}{Garrick Stout é o mestre do combate corpo a corpo. Ele provou ser o melhor em inúmeros duelos de armas. Sua habilidade é lendária e respeitada por todo o Arcanum, mas sua proeza gerou arrogância em seu caráter. É lamentável que tantos o procurem por sua "sabedoria".}{}{}{}{ru 2164}
+{219}{Você não deveria invejar a habilidade de um mestre.}{}{5}{}{257}{}
+{220}{É uma pena... a arrogância é um luxo de tolos.}{}{5}{}{227}{}
+{221}{Não vamos discutir isso mais.}{}{5}{}{47}{}
+{222}{I:}{}{-4}{}{257}{}
+{223}{Eu não gosto do Gareeek Stout.}{}{-4}{}{227}{}
+{224}{Tô cansado.}{}{-4}{}{47}{}
+{225}{Onde fica Dernholm?}{}{5}{}{262}{}
+{226}{Onde fica Durhome?}{}{-4}{}{262}{}
+{227}{Ele é um homem grosseiro. Desleal e lascivo em seus assuntos. Se abandonar tudo o que é puro e bom é a consequência da maestria, então nunca a buscarei. Não poderia aprender nada com um homem assim. Acredito que ele ainda vive em Dernholm, fizeram dele Capitão da Guarda. Lembro-me de quando essa posição era ocupada por homens honrados. Repugnante...}{Ele é um homem grosseiro. Desleal e lascivo em seus assuntos. Se abandonar tudo o que é puro e bom é a consequência da maestria, então nunca a buscarei. Não poderia aprender nada com um homem assim. Acredito que ele ainda vive em Dernholm, fizeram dele Capitão da Guarda. Lembro-me de quando essa posição era ocupada por homens honrados. Repugnante...}{}{}{}{}
+{228}{Um homem como aquele não merece respeito.}{}{5}{}{47}{re +10}
+{229}{Ele vai receber o que merece. Tenho certeza.}{}{5}{}{47}{}
+{230}{Me odeia Gareeek Stout}{}{-4}{}{47}{re +10}
+{231}{Me vai matar Gareeek Stout. Me faz ele morrer.}{}{-4}{}{47}{}
+{232}{Onde fica Dernholm?}{}{5}{}{262}{}
+{233}{Onde fica Durhome?}{}{-4}{}{262}{}
+{234}{E:}{}{1}{}{0}{}
+{235}{Seu treinamento está completo. Há mais alguma coisa?}{Seu treinamento está completo. Há mais alguma coisa?}{}{}{}{}
+{236}{Quem poderia me treinar para ser um mestre em detectar armadilhas?}{}{5}{}{240}{}
+{237}{Obrigado pela sua ajuda.}{}{5}{}{0}{}
+{238}{Me quer saber quem é mestre em detectar armadilhas?}{}{-4}{}{240}{}
+{239}{Me diz valeu.}{}{-4}{}{0}{}
+{240}{Aprendi a detectar armadilhas com um homem que foi morto na guerra. Me disseram que há um homem em Tarant que agora é o mestre, chamado Frederick T. Fitzgerald.}{Aprendi a detectar armadilhas com um homem que foi morto na guerra. Me disseram que há um homem em Tarant que agora é o mestre, chamado Frederick T. Fitzgerald.}{}{}{}{ru 2167}
+{242}{E:}{}{1}{}{0}{}
+{244}{Seu treinamento está completo. Há mais alguma coisa?}{Seu treinamento está completo. Há mais alguma coisa?}{}{}{}{}
+{245}{Quem poderia me treinar para ser um mestre em armas de fogo?}{}{5}{}{249}{}
+{246}{Obrigado pela sua ajuda.}{}{5}{}{0}{}
+{247}{Me quer saber quem me ensina armas de fogo?}{}{-4}{}{249}{}
+{248}{Me diz que me alegro.}{}{-4}{}{0}{}
+{249}{Aprendi a habilidade com armas de fogo com um homem que foi morto na guerra. O melhor homem com uma arma que conheço é William Thorndop, que, pelo que ouvi falar pela última vez, estava morando em Ashbury... mas não tenho notícias dele há algum tempo.}{Aprendi a habilidade com armas de fogo com um homem que foi morto na guerra. O melhor homem com uma arma que conheço é William Thorndop, que, pelo que ouvi falar pela última vez, estava morando em Ashbury... mas não tenho notícias dele há algum tempo.}{}{}{}{ru2172}
+{250}{Obrigado pela informação.}{}{5}{}{47}{re +10}
+{252}{Me diz que me sinto feliz.}{}{-4}{}{47}{re +10}
+{253}{E:}{}{1}{}{0}{}
+{254}{Em guarda, senhor! Não darei trégua.}{Em guarda, senhora! Não darei trégua.}{}{}{}{}
+{255}{É você quem vai aprender uma lição!}{É você quem vai aprender uma lição!}{}{}{}{}
+{257}{I:}{I:}{}{}{}{}
+{258}{I:}{}{1}{}{0}{}
+{259}{Peço desculpas e retiro o que disse.}{}{5}{}{47}{}
+{260}{Me desculpa, me não quis dizer o que me falou.}{}{-4}{}{47}{}
+{261}{E:}{}{1}{}{0}{}
+{262}{Aqui. Vou marcar o local no seu mapa.}{Aqui. Vou marcar o local no seu mapa.}{}{}{}{mm5}
+{263}{E:}{}{1}{}{0}{}
+{264}{K:}{}{1}{}{47}{}
+

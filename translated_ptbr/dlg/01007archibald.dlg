@@ -1,0 +1,61 @@
+{1}{[Este velho rabugento rosna em sua direção.] Sim, o que é?}{Sim, o que é?}{}{}{}{ }
+{2}{Posso saber seu nome, bom senhor?}{}{5}{lf1 0}{10}{lf1 1 }
+{3}{Não aprecio seu tom.}{}{5}{lf1 0}{70}{lf1 1, re-5 }
+{4}{W:}{}{-4}{}{0}{fl 90}
+{5}{Archibald? Gladys me enviou para perguntar sobre um anel...}{}{5}{lf1 1, gf2620 1, lf10 0}{60}{lf10 1 }
+{9}{E:}{}{1}{}{0}{ }
+{10}{Meu nome é Archibald. E daí?}{Meu nome é Archibald. E daí?}{}{}{}{ }
+{11}{Gladys me enviou. Ela acha que você pode saber algo sobre um anel?}{}{5}{gf2620 1}{60}{ }
+{19}{Nada, apenas sendo educado. Tenha um bom dia.}{}{5}{}{0}{ }
+{20}{[Ele olha para você, incerto se ouviu corretamente.] Eu poderia ter acreditado nisso algum tempo atrás, mas não agora. Quer dizer, olhe para mim.}{[Ele olha para você, incerto se ouviu corretamente.] Eu poderia ter acreditado nisso algum tempo atrás, mas não agora. Quer dizer, olhe para mim.}{}{}{}{ }
+{21}{Ela confiou em mim que estava interessada em você.}{}{5}{}{30}{ }
+{22}{Você tem razão, você é bem nojento de se olhar.}{}{5}{}{0}{fl 161 ,co}
+{23}{Ora, vamos, você ainda é um sujeito bem atraente!}{}{5}{}{140}{re-5 }
+{30}{Sinceramente? Você acha que ela... falaria comigo se eu devolvesse o anel?}{Sinceramente? Você acha que ela... falaria comigo se eu devolvesse o anel?}{}{}{}{ }
+{32}{Provavelmente não, você é um idiota tão repulsivo.}{}{5}{}{0}{fl 161 ,co}
+{33}{Tenho certeza de que ela gostaria de mostrar sua... "gratidão".}{}{5}{}{40}{ }
+{40}{Você levaria o anel para ela e diria que eu gostaria de falar com ela?}{Você levaria o anel para ela e diria que eu gostaria de falar com ela?}{}{}{}{ }
+{41}{Eu poderia ser persuadido a fazer isso, por uma taxa simbólica.}{}{5}{ps8}{50}{ }
+{42}{Seria um prazer.}{}{5}{}{0}{in-2801, gf1001 1 }
+{43}{Eu poderia ser persuadido a fazer isso, por uma taxa simbólica.}{}{5}{ps-7}{170}{re-5 }
+{50}{Não tenho muito, mas poderia lhe dar 50 moedas.}{Não tenho muito, mas poderia lhe dar 50 moedas.}{}{}{}{ }
+{51}{Trato feito, meu amigo.}{}{5}{}{0}{$$50, in-2801, gf1001 1 }
+{52}{Não poderia aceitar seu dinheiro, farei isso de graça.}{}{5}{}{0}{al+50 , in-2801, gf1001 1 }
+{53}{50 moedas? Eu não cuspiria em você nem por 50 moedas!}{}{5}{}{0}{fl 161 ,co}
+{60}{Gladys?! Diga àquela velha bruxa que nunca devolverei o anel para ela! Nunca! Se aparecer aqui de novo, mandarei meu filho Bernard lhe dar uma boa surra!}{Gladys?! Diga àquela velha bruxa que nunca devolverei o anel para ela! Nunca! Se aparecer aqui de novo, mandarei meu filho Bernard lhe dar uma boa surra!}{}{}{}{gf2618 1 }
+{61}{Não posso acreditar que o senhor seria tão cruel com uma velha senhora!}{}{5}{}{80}{re-5 }
+{62}{O senhor vai me dar o anel, ou eu vou lhe dar uma surra!}{}{5}{}{80}{re-10 }
+{70}{É mesmo? Bem, Archibald J. Sloane não se importa com o que o senhor gosta ou deixa de gostar!}{É mesmo? Bem, Archibald J. Sloane não se importa com o que o senhor gosta ou deixa de gostar!}{}{}{}{ }
+{71}{O senhor é o Archibald? Gladys me enviou.}{}{5}{gf2620 1}{60}{ }
+{72}{Senhor! Exijo satisfação por seus comentários! [Dá um tapa nele.]}{}{5}{}{0}{fl 161 ,co}
+{79}{Entendo. Bem, perdão pela intrusão.}{}{5}{}{0}{ }
+{80}{O senhor vai sair da minha casa imediatamente, ou vou chamar meu filho Bernard! Está me ouvindo?!}{O senhor vai sair da minha casa imediatamente, ou vou chamar meu filho Bernard! Está me ouvindo?!}{}{}{}{ }
+{81}{O senhor estará morto antes que ele chegue aqui!}{}{5}{}{0}{gf2618 0, fl 161 ,co}
+{89}{Tudo bem, estou indo embora.}{}{5}{}{0}{ }
+{90}{Não preciso ter nenhum negócio com um imbecil! Deixe-me em paz!}{Não preciso ter nenhum negócio com um imbecil! Deixe-me em paz!}{}{}{}{ }
+{100}{Ah, é o senhor. O que quer agora? Aquela velha bruxa o mandou de volta aqui?}{Ah, é o senhor. O que quer agora? Aquela velha bruxa o mandou de volta aqui?}{}{}{}{ }
+{101}{Não. Tive uma conversa com seu filho...}{}{5}{lf3 0}{110}{ }
+{102}{Decidi levar o anel para a Gladys para o senhor, sem cobrar nada.}{}{5}{lf3 1}{0}{re+5, in-2801, gf1001 1, fl 180}
+{109}{E:}{}{5}{}{0}{ }
+{110}{[Ele parece angustiado.] O que aquele jovem tolo lhe contou? Ele não sabe quando manter a boca fechada!}{[Ele parece angustiado.] O que aquele jovem tolo lhe contou? Ele não sabe quando manter a boca fechada!}{}{}{}{ }
+{111}{Eu sei o que está acontecendo entre o senhor e a Gladys.}{}{5}{}{120}{ }
+{120}{O... o quê?! O que está insinuando? Não quero nada com ela, eu lhe digo!}{O... o quê?! O que está insinuando? Não quero nada com ela, eu lhe digo!}{}{}{}{ }
+{121}{Acho que a Gladys sente atração pelo senhor.}{}{5}{ps4}{20}{re+5 }
+{122}{Acho que a Gladys sente atração pelo senhor.}{}{5}{ps-3}{0}{re-5, fl 130}
+{123}{Ela é bem desagradável de se olhar, não é?}{}{5}{}{0}{re-5, fl 160}
+{130}{[Ele pensa por um momento e então rosna para você.] Bobagem! Não vou permitir que zombem de mim na minha própria casa! Saia! E diga àquela bruxa que ela nunca mais vai ter o anel de volta! Nunca!}{[Ele pensa por um momento e então rosna para você.] Bobagem! Não vou permitir que zombem de mim na minha própria casa! Saia! E diga àquela bruxa que ela nunca mais vai ter o anel de volta! Nunca!}{}{}{}{ }
+{140}{Como ousa zombar de mim! Eu sei como sou! O senhor me toma por algum tipo de tolo?!}{Como ousa zombar de mim! Eu sei como sou! O senhor me toma por algum tipo de tolo?!}{}{}{}{ }
+{141}{Estou apenas repetindo o que ela me disse.}{}{5}{}{0}{re-5, fl 130}
+{142}{Minhas desculpas. Achei que você estava sendo duro demais consigo mesmo...}{}{5}{}{150}{ }
+{150}{Acho que minha visão do mundo é um pouco rude. Vivo sozinho aqui há muito tempo, suponho. Meu filho tenta me convencer a sair e conversar com as pessoas, mas não sei...}{Acho que minha visão do mundo é um pouco rude. Vivo sozinho aqui há muito tempo, suponho. Meu filho tenta me convencer a sair e conversar com as pessoas, mas não sei...}{}{}{}{ }
+{151}{Para mim é óbvio que a Gladys quer ser amigável com você.}{}{5}{}{40}{ }
+{152}{Por favor, você me entedia, senhor. Não pedi para ouvir a história da sua vida...}{}{5}{}{0}{fl 161 ,co}
+{160}{Como ousa dizer isso sobre aquele excelente... hã... deixe-me em paz! Não desejo mais falar com você!}{Como ousa dizer isso sobre aquele excelente... hã... deixe-me em paz! Não desejo mais falar com você!}{}{}{}{ }
+{161}{Morra, herege!}{Morra, herege!}{}{}{}{ }
+{162}{Obrigado por me ajudar com aquele assunto do anel.}{Obrigado por me ajudar com aquele assunto do anel.}{}{}{}{ }
+{170}{Saia daqui, seu canalha desalmado! Agindo assim com os velhos e pobres!}{Saia daqui, sua vadia sem coração! Agindo assim com os velhos e pobres!}{}{}{}{ }
+{171}{Peço desculpas. Levarei o anel para ela para você, sem cobrar nada.}{}{5}{}{0}{re+5, in-2801, gf1001 1, fl 180}
+{172}{Senhor! Exijo satisfação por seus comentários! [Bate nele.]}{}{5}{}{0}{fl 161 ,co}
+{179}{Se é assim que se sente, irei embora.}{}{5}{}{0}{lf3 1 }
+{180}{Obrigado. Peço desculpas pela minha rudeza anterior com você. Aqui está o anel, e por favor, transmita meus cumprimentos a ela...}{Obrigado. Peço desculpas pela minha rudeza anterior com você. Aqui está o anel, e por favor, transmita meus cumprimentos a ela...}{}{}{}{ }
+

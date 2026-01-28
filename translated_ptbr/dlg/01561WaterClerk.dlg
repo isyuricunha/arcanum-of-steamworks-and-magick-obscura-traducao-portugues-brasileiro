@@ -1,0 +1,34 @@
+{1}{G:}{G:}{}{}{}{ }
+{2}{Onde estou?}{}{5}{re-40}{10}{lf1 1 }
+{3}{Onde estou?}{}{5}{re41}{40}{lf1 1 }
+{4}{Onde é que eu tô?}{}{-4}{}{10}{ }
+{5}{Preciso conseguir o mapa dos esgotos abaixo de Tarant.}{}{5}{qa1067 1, re-40, lf1 1}{20}{ }
+{6}{Preciso do mapa azedo.}{}{-4}{qa1067 1, lf1 1}{20}{ }
+{7}{Preciso conseguir o mapa dos esgotos abaixo de Tarant.}{}{5}{qa1067 1, re41, lf1 1}{50}{ }
+{9}{E:}{}{1}{}{0}{ }
+{10}{Isto é a Prefeitura, e eu sou o Secretário do Departamento de Água e Energia, idiota. Por que está me incomodando?}{Isto é a Prefeitura, e eu sou o Secretário do Departamento de Água e Energia, idiota. Por que está me incomodando?}{}{}{}{ }
+{11}{Preciso conseguir o mapa dos esgotos abaixo de Tarant.}{}{5}{qa1067 1}{20}{ }
+{12}{Preciso do mapa azedo.}{}{-4}{qa1067 1}{20}{ }
+{13}{O que você faz aqui?}{}{5}{}{60}{ }
+{18}{Eu vou embora. Agora. Já.}{}{-4}{}{0}{ }
+{19}{Sem motivo. Eu vou sair, agora.}{}{5}{}{0}{ }
+{20}{Você e todos os outros ladrões desta cidade. Saia daqui antes que eu chame um guarda.}{Você e todos os outros ladrões desta cidade. Saia daqui antes que eu chame um guarda.}{}{}{}{ }
+{21}{E:}{}{1}{}{0}{lf2 1 }
+{22}{Tudo o que o guarda vai encontrar é o seu cadáver.}{}{5}{}{0}{lf3 1, re-10, fl 30}
+{30}{Ha, ha. Que engraçado. Não tenho necessidade de falar com um rufião como você. Tenha um bom dia.}{Ha, ha. Que engraçado. Não tenho necessidade de falar com um rufião como você. Tenha um bom dia.}{}{}{}{ }
+{40}{Isto é a Prefeitura, e eu sou o Secretário do Departamento de Água e Energia, meu bom senhor.}{Isto é a Prefeitura, e eu sou o Secretária do Departamento de Água e Energia, minha senhora.}{}{}{}{ }
+{41}{Preciso conseguir o mapa dos esgotos abaixo de Tarant.}{}{5}{qa1067 1}{50}{ }
+{42}{O que você faz aqui?}{}{5}{qu1067 0}{70}{ }
+{44}{E:}{}{1}{}{0}{ }
+{50}{Sinto muito, senhor. Essa informação é confidencial. Tenho certeza de que tem um motivo legítimo para desejá-la, mas há outros por aí de natureza mais inescrupulosa, digamos.}{Sinto muito, senhora. Essa informação é confidencial. Tenho certeza de que tem um motivo legítimo para desejá-la, mas há outros por aí de natureza mais inescrupulosa, digamos.}{}{}{}{ }
+{51}{Entendo. Tenha um bom dia.}{}{5}{}{0}{lf2 1 }
+{52}{Entregue isso ou passarei por cima do seu cadáver para pegar eu mesmo.}{}{5}{}{0}{lf3 1, re30, fl 30}
+{60}{Nós regulamos a água e a energia, o que acha que o Departamento de Água e Energia faz, idiota? É mentalmente incapaz?}{Nós regulamos a água e a energia, o que acha que o Departamento de Água e Energia faz, idiota? É mentalmente incapaz?}{}{}{}{ }
+{61}{Não, sou o seu carrasco.}{}{5}{}{0}{lf3 1, re-10, fl 30}
+{62}{Não, senhor.}{}{5}{}{0}{fl 80}
+{69}{}{}{}{}{}{ }
+{70}{Nós regulamos o fluxo de água para dentro e fora da cidade, monitoramos o consumo de energia das várias áreas de Tarant e mantemos os esgotos e as máquinas pela cidade.}{Nós regulamos o fluxo de água para dentro e fora da cidade, monitoramos o consumo de energia das várias áreas de Tarant e mantemos os esgotos e as máquinas pela cidade.}{}{}{}{ }
+{71}{Preciso conseguir o mapa dos esgotos abaixo de Tarant.}{}{5}{qa1067 1, re41, lf1 1}{50}{ }
+{79}{Obrigado pelo seu tempo. Tenha um bom dia.}{}{5}{}{0}{ }
+{80}{Bem, então, eu agradeceria se me deixasse em paz.}{Bem, então, eu agradeceria se me deixasse em paz.}{}{}{}{ }
+

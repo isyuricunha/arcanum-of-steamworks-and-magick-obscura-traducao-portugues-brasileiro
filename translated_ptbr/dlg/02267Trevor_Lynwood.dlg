@@ -1,0 +1,139 @@
+{1}{G:}{}{}{}{}{}
+{2}{Olá, senhor. Qual é o seu nome?}{}{5}{lf1 0, re 41}{26}{}
+{3}{Hmm... Bem... Posso perguntar seu nome, senhor?}{}{5}{lf1 0, re-40}{26}{}
+{10}{Olá, Trevor.}{}{5}{lf1 1, re 41}{32}{}
+{11}{Hmm... Olá, Trevor.}{}{5}{lf1 1, re-40}{32}{}
+{12}{Vou conseguir aquela foto, se ainda quiser que eu faça isso. Basta me dizer o que fazer.}{}{5}{qu1135 1}{115}{}
+{13}{Ainda estou tentando conseguir aquela fotografia.}{}{5}{qu1135 2}{119}{}
+{14}{Consegui! Consegui!}{}{5}{qu1135 3, in5669}{123}{}
+{15}{A câmera... ela quebrou.}{}{5}{qu1135 6}{134}{}
+{16}{Hmm... oi. Qual é o seu nome?}{}{-4}{lf1 0, re 41}{26}{}
+{17}{Hmm... isso não é legal... Qual é o seu nome?}{}{-4}{lf1 0, re-40}{26}{}
+{18}{Hmm... Oi, Trevor.}{}{-4}{lf1 1, re 41}{32}{}
+{19}{Hmm... É... Oi, Trevor.}{}{-4}{lf1 1, re-40}{32}{}
+{20}{Eu pego a foto, se você quiser. Me diz o que fazer.}{}{-4}{qu1135 1}{115}{}
+{21}{Eu ainda não peguei a foto...}{}{-4}{qu1135 2}{119}{}
+{22}{Eu consegui a foto!}{}{-4}{qu1135 3, in5669}{123}{}
+{23}{Hmm... a coisa da foto... ela quebrou.}{}{-4}{qu1135 6}{134}{}
+{24}{E:}{}{1}{}{0}{}
+{25}{}{}{}{}{}{}
+{26}{Meu nome é Trevor. Trevor Lynwood. Sou jornalista do Tarantiano.}{Meu nome é Trevor. Trevor Lynwood. Sou jornalista do Tarantiano.}{}{}{}{lf1 1}
+{27}{Está bem longe de casa, não está?}{}{5}{}{42}{}
+{28}{O Tarantiano! O que está fazendo aqui?}{}{5}{}{42}{}
+{29}{Por que você está aqui?}{}{-4}{}{42}{}
+{30}{Esse jornal? Por que o homem do jornal está aqui?}{}{-4}{}{42}{}
+{31}{E:}{}{1}{}{0}{}
+{32}{Oh! Olá de novo, @pcname@. O que posso fazer por você?}{Oh! Olá de novo, @pcname@. O que posso fazer por você?}{}{}{}{}
+{33}{C:}{}{1}{}{37}{}
+{34}{O que está fazendo aqui? Fica bem longe de Tarant...}{}{5}{qu1135 0}{42}{}
+{35}{T:4, 6, 1, 0}{}{1}{}{37}{}
+{36}{E:}{}{1}{}{0}{}
+{37}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{}
+{38}{C:}{}{1}{}{37}{}
+{39}{O que está fazendo aqui? Fica bem longe de Tarant...}{}{5}{qu1135 0}{42}{}
+{40}{T:4, 6, 1, 0}{}{1}{}{37}{}
+{41}{E:}{}{1}{}{0}{}
+{42}{Sim... Estou em uma missão. Embora não esteja indo muito bem...}{Sim... Estou em uma missão. Embora não esteja indo muito bem...}{}{}{}{}
+{43}{Qual é o problema?}{}{5}{}{47}{}
+{44}{Em missão? Por que não está indo bem?}{}{5}{}{47}{}
+{45}{Por que não está indo bem?}{}{-4}{}{47}{}
+{46}{E:}{}{1}{}{0}{}
+{47}{Bem... Ia ser simples. Tirar uma foto e voltar para Tarant o mais rápido que pudesse. [sarcasticamente] Não tinha nada de mais, certo?}{Bem... Ia ser simples. Tirar uma foto e voltar para Tarant o mais rápido que pudesse. [sarcasticamente] Não tinha nada de mais, certo?}{}{}{}{}
+{48}{Uma foto? O que você deveria fotografar?}{}{5}{}{53}{}
+{49}{Parece simples... Foto de quê?}{}{5}{}{53}{}
+{50}{Fotografia? Que fotografia?}{}{-4}{}{53}{}
+{51}{Fazê foto do quê?}{}{-4}{}{53}{}
+{52}{E:}{}{1}{}{0}{}
+{53}{O esquivo Wyvern de Lethe... Já ouviu falar?}{O esquivo Wyvern de Lethe... Já ouviu falar?}{}{}{}{}
+{54}{Não... O que é isso?}{}{5}{}{57}{}
+{55}{Hmm... não.}{}{-4}{}{57}{}
+{56}{E:}{}{1}{}{0}{}
+{57}{Bem, a lenda o descreve como um dragão tremendo de duas pernas... Asas, garras, tudo. A diferença do Lethe, pelo que li, está no seu ataque.}{Bem, a lenda o descreve como um dragão tremendo... Asas, garras, tudo. A diferença do Lethe, pelo que li, está no seu ataque.}{}{}{}{}
+{58}{O que ele faz?}{}{5}{}{63}{}
+{59}{Um dragão? Por aqui? O que há de diferente no ataque dele?}{}{5}{}{63}{}
+{60}{Ele faz o quê?}{}{-4}{}{63}{}
+{61}{E:}{}{1}{}{0}{}
+{62}{}{}{}{}{}{}
+{63}{Aparentemente, cada vez que ataca, destrói um pouco da memória da vítima... Algum tipo de veneno ou algo assim. Depois de vários ataques, a vítima nem sequer lembra como fugir, e o Lethe tem uma refeição fácil.}{Aparentemente, cada vez que ataca, destrói um pouco da memória da vítima... Algum tipo de veneno ou algo assim. Depois de vários ataques, a vítima nem sequer lembra como fugir, e o Lethe tem uma refeição fácil.}{}{}{}{}
+{64}{Isso parece uma criatura bem perigosa.}{}{5}{}{67}{}
+{65}{Isso parece ruim...}{}{-4}{}{67}{}
+{66}{}{}{}{}{}{}
+{67}{Sim. Pela minha pesquisa, deduzi que pouquíssimas criaturas sobrevivem a um encontro com o Lethe. E aquelas poucas que sobrevivem, geralmente não se lembram exatamente do que ou de quem escaparam.}{Sim. Pela minha pesquisa, deduzi que pouquíssimas criaturas sobrevivem a um encontro com o Lethe. E aquelas poucas que sobrevivem, geralmente não se lembram exatamente do que ou de quem escaparam.}{}{}{}{}
+{68}{Certamente não vejo nada de "simples" nessa missão.}{}{5}{}{72}{}
+{69}{Você realmente acha que essa coisa existe?}{}{5}{}{72}{}
+{70}{Parece um trabalho difícil...}{}{-4}{}{72}{}
+{71}{E:}{}{1}{}{0}{}
+{72}{Bem... Eu não acreditava muito nisso. Achava que era tudo um embuste. Só vim aqui porque meu editor, o Sr. Wright, queria uma história "quente". Ele pensou que, se conseguíssemos uma foto do wyvern, nossas vendas disparariam.}{Bem... Eu não acreditava muito nisso. Achava que era tudo um embuste. Só vim aqui porque meu editor, o Sr. Wright, queria uma história "quente". Ele pensou que, se conseguíssemos uma foto do wyvern, nossas vendas disparariam.}{}{}{}{}
+{73}{Entendo por que ele queria que você viesse. Não teve sorte em encontrar o wyvern, né?}{}{5}{}{78}{}
+{74}{Acabou sendo um embuste, né?}{}{5}{}{78}{}
+{75}{Ele não tá aqui?}{}{-4}{}{78}{}
+{76}{E:}{}{1}{}{0}{}
+{77}{}{}{}{}{}{}
+{78}{[com o rosto pálido] Não... é justamente isso. Eu o vi! Uma criatura verdadeiramente horrível! Mal o avistei... mas foi o suficiente! Era gigantesco! Meu coração gelou... minha pele começou a arrepiar... Juro que até esqueci para que lado deveria correr...}{[com a aparência pálida] Não... é exatamente isso. Eu vi! Uma criatura verdadeiramente horrível! Eu mal a avistei... mas foi o suficiente! Era gigantesca! Meu coração gelou... minha pele começou a arrepiar... Juro que até esqueci para que lado deveria correr...}{}{}{}{}
+{79}{Parece horrível... Você não tirou uma fotografia?}{}{5}{}{83}{}
+{80}{Você deve ter ficado apavorado...}{}{5}{}{83}{}
+{81}{Isso assustador...}{}{-4}{}{83}{}
+{82}{Você pegou foto?}{}{-4}{}{83}{}
+{83}{Eu não consegui nem tirar uma foto! Estava apavorado demais! E não vou voltar... De jeito nenhum vou voltar! O que vou fazer? O Sr. Wright vai me demitir com certeza!}{Eu não consegui nem tirar uma foto! Estava apavorado demais! E não vou voltar... De jeito nenhum vou voltar! O que vou fazer? O Sr. Wright vai me demitir com certeza!}{}{}{}{QU1135 1}
+{84}{Você só precisa de uma fotografia? Não precisa confrontar a criatura?}{}{5}{}{88}{}
+{85}{Sinto muito. Desejo sorte na sua próxima carreira. Adeus.}{}{5}{}{0}{}
+{86}{Não lutar? Só pegar fotografia?}{}{-4}{}{88}{}
+{87}{Sinto muito que você perdeu o trabalho. Eu vou. Tchau.}{}{-4}{}{0}{}
+{88}{Sim. Está correto. Eu só preciso de uma fotografia. [visivelmente aterrorizado] Mas não consigo. Não consigo, eu lhe digo!}{Sim. Está correto. Eu só preciso de uma fotografia. [visivelmente aterrorizado] Mas não consigo. Não consigo, eu lhe digo!}{}{}{}{}
+{89}{Não... não você. Eu. E se eu tirasse a fotografia para você?}{}{5}{}{94}{}
+{90}{E se eu tirasse a fotografia?}{}{5}{}{94}{}
+{91}{Não... não você. Eu.}{}{-4}{}{94}{}
+{92}{Eu tirar foto?}{}{-4}{}{94}{}
+{93}{E:}{}{1}{}{0}{}
+{94}{Você? Você gostaria de se arriscar para fotografar essa criatura? Por que faria isso?}{Você? Você gostaria de se arriscar para fotografar essa criatura? Por que faria isso?}{}{}{}{}
+{95}{Bem... a aventura, para começar. Além disso, eu seria compensado, certo?}{}{5}{}{100}{}
+{96}{Eu receberia pagamento, não é?}{}{5}{}{100}{}
+{97}{Quer ver essa coisa! Talvez ganhar moeda também?}{}{-4}{}{100}{}
+{98}{Eu fazer, ganhar moeda?}{}{-4}{}{100}{}
+{99}{E:}{}{1}{}{0}{}
+{100}{Ah... mas é claro. Estou sendo pago 500 moedas pela foto. Mas já gastei parte disso em suprimentos até agora. Não poderia pagar mais do que 300...}{Ah... mas é claro. Estou sendo pago 500 moedas pela foto. Mas já gastei parte disso em suprimentos até agora. Não poderia pagar mais do que 300...}{}{}{}{}
+{101}{300 moedas? Por arriscar minha mente? Acho que vale mais do que isso.}{}{5}{ps-11}{105}{}
+{102}{300 moedas? Por arriscar minha mente? Acho que vale mais do que isso.}{}{5}{ps12}{110}{}
+{103}{Uh... 300? Por isso? Não... quero mais moeda!}{}{-4}{ps-11}{105}{}
+{104}{Uh... 300? Por isso? Não... quero mais moeda!}{}{-4}{ps12}{110}{}
+{105}{Sinto muito. É tudo o que me resta. De qualquer forma, era perigoso demais. Acho que vou procurar outra linha de trabalho...}{Sinto muito. Isso é tudo que me restou. De qualquer forma, era perigoso demais. Acho que vou procurar outra linha de trabalho...}{}{}{}{lf2 1}
+{106}{Sinto muito por isso. Boa sorte na sua nova carreira. Adeus.}{}{5}{}{0}{}
+{107}{Bem... acho que poderia fazer por 300. Eu realmente gostaria de ver a criatura...}{}{5}{}{115}{}
+{108}{Hã... Não, valeu. Num quero fazê. Tchau.}{}{-4}{}{0}{}
+{109}{Hã... tá bom. Eu faço. 300 moedas.}{}{-4}{}{115}{}
+{110}{Sim. Definitivamente concordo que vale mais do que isso. Hmmm... Sabe, você estaria salvando minha carreira. Eu poderia colocar um pouco do meu próprio dinheiro nisso. Se você fizesse... eu pagaria os 500 completos. O que me diz?}{Sim. Definitivamente concordo que vale mais do que isso. Hmmm... Sabe, você estaria salvando minha carreira. Eu poderia colocar um pouco do meu próprio dinheiro nisso. Se você fizesse... eu pagaria os 500 completos. O que me diz?}{}{}{}{lf3 1}
+{111}{Combinado. O que preciso fazer?}{}{5}{}{115}{}
+{112}{Pensando melhor... talvez seja perigoso demais. Boa sorte!}{}{5}{}{0}{}
+{113}{Tá bom! Eu faço! O que eu faço pra foto?}{}{-4}{}{115}{}
+{114}{Hã... Não, valeu. Num quero fazê. Tchau.}{}{-4}{}{0}{}
+{115}{Aqui. Pegue minha câmera. Tudo que precisa fazer é chegar perto o suficiente para ver o Lethe, então usar a câmera nele. Depois disso, eu correria como o vento! Aqui, vou marcar no seu mapa a localização. Mais uma coisa... ouvi rumores de que existe uma ponte antiga em algum lugar perto dali. Não tive chance de procurar, mas pode ser do seu interesse, um aventureiro como eu.}{Aqui. Pegue minha câmera. Tudo que precisa fazer é chegar perto o suficiente para ver o Lethe, então usar a câmera nele. Depois disso, eu correria como o vento! Aqui, vou marcar no seu mapa a localização. Mais uma coisa... ouvi rumores de que existe uma ponte antiga em algum lugar perto dali. Não tive chance de procurar, mas pode ser do seu interesse, um aventureiro como eu.}{}{}{}{qu1135 2, MM 49, IN-5669}
+{116}{Obrigado, Trevor. Vou conseguir essa fotografia para você num instante!}{}{5}{}{0}{}
+{117}{Valeu, Trevor. Eu pego a fotograf. Volto logo!}{}{-4}{}{0}{}
+{118}{E:}{}{1}{}{0}{}
+{119}{Ah... o Sr. Wright vai desistir de mim em breve. Está demorando tanto... Talvez você devesse esquecer isso...}{Ah... o Sr. Wright vai desistir de mim em breve. Está demorando tanto... Talvez você devesse esquecer isso...}{}{}{}{}
+{120}{Não, não... me dê mais alguns dias... Eu consigo.}{}{5}{}{0}{}
+{121}{Não. Eu consigo. Só espera.}{}{-4}{}{0}{}
+{122}{E:}{}{1}{}{0}{}
+{123}{Conseguiu! Nossa! Estou tão animado! Você não faz ideia do quanto me ajudou! Aqui... deixe-me ver a câmera. [pega de você] O Sr. Wright vai ficar tão empolgado!}{Conseguiu! Nossa! Estou tão animado! Você não faz ideia do quanto me ajudou! Aqui... deixe-me ver a câmera. [pega de você] O Sr. Wright vai ficar tão empolgado!}{}{}{}{in5669, qu1135 4}
+{124}{Fico feliz em ter sido útil. Agora, sobre minha compensação...}{}{5}{lf2 1}{128}{}
+{125}{Fico feliz em ter sido útil. Agora, sobre minha compensação...}{}{5}{lf3 1}{131}{}
+{126}{Bom que tá feliz. Agora me dá as moedas?}{}{-4}{lf2 1}{128}{}
+{127}{Bom que tá feliz. Agora me dá as moedas?}{}{-4}{lf3 1}{131}{}
+{128}{Ah, sim. Aqui está... 300 moedas, como combinamos. Obrigado, @pcname@. Você não faz ideia de como me deixou feliz! Adeus.}{Ah, sim. Aqui está... 300 moedas, como combinamos. Obrigado, @pcname@. Você não faz ideia de como me deixou feliz! Adeus.}{}{}{}{$$300}
+{129}{Obrigado, Trevor.}{}{5}{}{138}{}
+{130}{Valeu...}{}{-4}{}{138}{}
+{131}{Ah, sim. Aqui está... 500 moedas, como combinamos. Obrigado, @pcname@. Você não faz ideia de como me deixou feliz! Adeus.}{Ah, sim. Aqui está... 500 moedas, como combinamos. Obrigado, @pcname@. Você não faz ideia de como me deixou feliz! Adeus.}{}{}{}{$$500}
+{132}{Obrigado, Trevor.}{}{5}{}{138}{}
+{133}{Obrigadu...}{}{-4}{}{138}{}
+{134}{Ah, não! Aquela era minha única câmera! [ele suspira audivelmente] Sei que você só estava tentando me ajudar. Obrigado pela tentativa. É hora de eu voltar para Tarant. Adeus, @pcname@.}{Ah, não! Aquela era minha única câmera! [ele suspira audivelmente] Sei que você só estava tentando me ajudar. Obrigado pela tentativa. É hora de eu voltar para Tarant. Adeus, @pcname@.}{}{}{}{}
+{135}{Adeus, Trevor.}{}{5}{}{0}{}
+{136}{Tchau-tchau.}{}{-4}{}{0}{}
+{137}{E:}{}{1}{}{0}{}
+{138}{E a ponte? Você viu algum sinal dela?}{E a ponte? Você viu algum sinal dela?}{}{}{}{}
+{139}{Não. Saí de lá o mais rápido que pude.}{}{5}{}{}{fl 143}
+{140}{Vi, sim. Obrigado. Isso com certeza vai me poupar muito tempo.}{}{5}{}{}{fl 144}
+{141}{Hã... Não. Eu fui embora bem rápido.}{}{-4}{}{}{fl 143}
+{142}{Hã... sim. Ponte lá! Tá boa. Eu vou rápido agora!}{}{-4}{}{}{fl 144}
+{143}{Entendo perfeitamente. Bem, é melhor eu levar isso para Tarant. Obrigado mais uma vez, @pcname@. Adeus.}{Entendo perfeitamente. Bem, é melhor eu levar isso para Tarant. Obrigado mais uma vez, @pcname@. Adeus.}{}{}{}{}
+{144}{Essa é uma notícia maravilhosa! Tenho certeza de que a existência dessa ponte estava perdida há anos! Ela com certeza vai agilizar as viagens. Bem, é melhor eu levar essa câmera de volta para Tarant. Obrigado mais uma vez, @pcname@. Adeus!}{Essa é uma notícia maravilhosa! Tenho certeza de que a existência dessa ponte estava perdida há anos! Ela com certeza vai agilizar as viagens. Bem, é melhor eu levar essa câmera de volta para Tarant. Obrigado mais uma vez, @pcname@. Adeus!}{}{}{}{}
+

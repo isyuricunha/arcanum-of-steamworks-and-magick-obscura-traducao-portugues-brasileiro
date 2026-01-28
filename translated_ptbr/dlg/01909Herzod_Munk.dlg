@@ -1,0 +1,66 @@
+{1}{G:}{G:}{}{}{}{}
+{2}{Olá, senhor. Posso saber seu nome?}{}{5}{me 0, re 41}{33}{}
+{3}{Saudações, Herzod. Tem um momento?}{}{5}{me 1, re 41}{86}{}
+{4}{Senhor! Por que está me insultando!}{}{5}{me 0, re -40}{11}{}
+{5}{Herzod! Por que as palavras tão duras?}{}{5}{me 1, re -40}{11}{}
+{7}{Hã... Oi! Quem é você?}{}{-4}{me 0}{33}{}
+{8}{Ei, Herzod! Quer conversar comigo...?}{}{-4}{me 1}{86}{}
+{9}{E:}{}{1}{}{0}{}
+{11}{Posso ser apenas um estudante aqui em Tulla, mas até eu consigo ver as falhas óbvias em seu caráter, senhor! Deixe-me com meus estudos!}{Posso ser apenas uma estudante aqui em Tulla, mas até eu consigo ver as falhas óbvias em seu caráter, senhora! Deixe-me com meus estudos!}{}{}{}{}
+{12}{Espere, senhor. Tem certeza de que está correto a meu respeito...?}{}{5}{ch 17}{18}{re +15}
+{13}{Não quero incomodar. Poderia ignorá-las por enquanto?}{}{5}{me 0}{29}{re +10}
+{14}{Herzod, por favor! Se pudesse ter um pouco de paciência comigo...}{}{5}{me 1}{29}{re +10}
+{15}{Continue falando assim e não vai se formar...}{}{5}{}{23}{re -5}
+{16}{E:}{}{5}{}{0}{}
+{18}{[O jovem olha você de cima a baixo, assentindo.] Sim, vejo que está correto, senhor. Por favor, perdoe minha miopia e língua afiada. Como posso ajudá-lo hoje?}{[O jovem olha você de cima a baixo, assentindo.] Sim, vejo que está correta, senhora. Por favor, perdoe minha miopia e língua afiada. Como posso ajudá-la hoje?}{}{}{}{}
+{19}{Obrigado. E quem é o senhor?}{}{5}{}{86}{}
+{20}{Agradeço, Herzod. Posso incomodá-lo por um momento?}{}{5}{}{86}{}
+{21}{E:}{}{5}{}{0}{}
+{23}{Acha mesmo? Para mim é óbvio que não tem experiência com magia ou com os homens que a usam! Não acreditaria nas coisas que aprendi! Poderia destruí-lo com um simples movimento de pulso!}{Acha mesmo? Para mim é óbvio que não tem experiência com magia ou com os homens que a usam! Não acreditaria nas coisas que aprendi! Poderia destruí-lo com um simples movimento de pulso!}{}{}{}{}
+{24}{Não precisa chegar a isso. Por favor, perdoe meu acesso de raiva...}{}{5}{}{29}{re +10}
+{25}{Vou gostar muito de lhe ensinar esta lição...}{}{5}{}{}{co, fl 27}
+{26}{E:}{}{5}{}{0}{}
+{27}{Tolo! Vou destruí-lo! (Se, hã, eu conseguir me lembrar do feitiço...)}{Tola! Vou destruí-la! (Se, hã, eu conseguir me lembrar do feitiço...)}{}{}{}{}
+{29}{[O jovem olha você de cima a baixo, avaliando.] Suponho que poderia tentar enxergar além de suas inúmeras imperfeições. O que deseja?}{[A jovem olha você de cima a baixo, avaliando.] Suponho que poderia tentar enxergar além de suas inúmeras imperfeições. O que deseja?}{}{}{}{}
+{30}{Obrigado. E quem é o senhor?}{}{5}{me 0}{33}{re +5}
+{31}{Agradeço, Herzod. Posso incomodá-lo por um momento?}{}{5}{me 1}{86}{}
+{32}{E:}{}{5}{}{0}{}
+{33}{Sou Herzod Munk, aprendiz de mago no Colégio do Fantasma! Como vai, senhor?}{Sou Herzod Munk, aprendiz de maga no Colégio do Fantasma! Como vai, senhora?}{}{}{}{}
+{34}{Muito bem, obrigado. Posso fazer algumas perguntas, Herzod?}{}{5}{}{86}{}
+{36}{Hã... oi! Posso te fazer algumas perguntas?}{}{-4}{}{86}{}
+{37}{E:}{}{1}{}{0}{}
+{39}{Tulla? Ah, é um lugar maravilhoso! Cheio de coisas estranhas e pessoas interessantes. Se ao menos eu não tivesse que fazer toda essa maldita lição de casa! Como alguém pode se divertir se está sempre com o nariz nos livros?}{Tulla? Ah, é um lugar maravilhoso! Cheia de coisas estranhas e pessoas interessantes. Se ao menos eu não tivesse que fazer toda essa maldita lição de casa! Como alguém pode se divertir se está sempre com o nariz nos livros?}{}{}{}{}
+{40}{Falta muito para terminar seus estudos?}{}{5}{}{46}{}
+{42}{Hã... tá bom. Muitos caçadores?}{}{-4}{}{46}{}
+{43}{E:}{}{1}{}{0}{}
+{46}{Ah, não muito. Alguns trabalhos chatos, algumas apresentações ilusórias... nada tão difícil. Claro, tem o exame final...}{Ah, não é nada demais. Alguns papéis chatos, algumas apresentações ilusórias... nada tão difícil assim. Claro, tem o exame final...}{}{}{}{}
+{47}{O que isso envolve?}{}{5}{}{56}{}
+{48}{O que isso?}{}{-4}{}{56}{}
+{49}{E:}{}{1}{}{0}{}
+{56}{Há um labirinto embaixo de Tulla. Foi construído por um ilusionista séculos atrás... um velho elfo chamado Fa'al Kin. Para passar no exame final, preciso recuperar um cálice de platina do centro do Labirinto de Fa'al Kin e trazê-lo de volta ao Mestre Ilusionista. Não é que eu não ache que consigo fazer isso, é só que há tantas outras coisas que eu preferiria estar fazendo...}{Há um labirinto embaixo de Tulla. Foi construído por um ilusionista séculos atrás... um velho elfo chamado Fa'al Kin. Para passar no exame final, preciso recuperar um cálice de platina do centro do Labirinto de Fa'al Kin e trazê-lo de volta ao Mestre Ilusionista. Não é que eu não ache que consigo fazer isso, é só que há tantas outras coisas que eu preferiria estar fazendo...}{}{}{}{}
+{57}{Bem, ninguém nunca disse que a escola era fácil. Boa sorte para você...}{}{5}{}{75}{re -5}
+{58}{Hmmm. Talvez eu possa te ajudar?}{}{5}{}{78}{re +5}
+{60}{Quiçá eu ajude!}{}{-4}{}{71}{}
+{61}{E:}{}{1}{}{0}{}
+{71}{[Ele contém uma risada.] Não, acho que você não estaria à altura da tarefa, amigo. Sem ofensas, mas sua lâmina está um pouco cega. Obrigado pela oferta, no entanto...}{[Ele contém uma risada.] Não, acho que você não estaria à altura da tarefa, senhora. Sem ofensas, mas sua lâmina está um pouco cega. Obrigado pela oferta, no entanto...}{}{}{}{}
+{72}{E:}{}{1}{}{0}{}
+{75}{Ora! Essa não é uma atitude muito simpática. Obviamente você não faz ideia das pressões a que estou submetido aqui. Tenha um bom dia, senhor...}{Ora! Essa não é uma atitude muito simpática. Obviamente você não faz ideia das pressões a que estou submetido aqui. Tenha um bom dia, senhora...}{}{}{}{}
+{76}{E:}{}{5}{}{0}{}
+{78}{[Ele lhe lança um olhar astuto.] Agora sim, essa é uma possibilidade. Sim, isso poderia dar certo. Assim, eu poderia sair mais tarde com os rapazes... tem um torneio de bola de fogo hoje à tarde que eu adoraria jogar. Ótimo! E tenho um velho Pergaminho de Demônio Fantasmagórico por aqui em algum lugar... vamos considerar isso como seu pagamento?}{[Ele lhe lança um olhar astuto.] Agora sim, essa é uma possibilidade. Sim, isso poderia dar certo. Assim, eu poderia sair mais tarde com os rapazes... tem um torneio de bola de fogo hoje à tarde que eu adoraria jogar. Ótimo! E tenho um velho Pergaminho de Demônio Fantasmagórico por aqui em algum lugar... vamos considerar isso como seu pagamento?}{}{}{}{qu1150 1}
+{79}{Feito...}{}{5}{}{84}{qu1150 2}
+{80}{Talvez. Tenha um bom dia...}{}{5}{}{0}{}
+{84}{Muito bem! O pergaminho será seu, assim que retornar com o cálice. A entrada do Labirinto fica logo ali no pátio... é um arco feito de pedra. Você vai precisar desta moeda para passar por ele e entrar no Labirinto. [Ele lhe entrega uma moeda.] Estarei aqui quando você terminar!}{Muito bem! O pergaminho será seu, assim que retornar com o cálice. A entrada do Labirinto fica logo ali no pátio... é um arco feito de pedra. Você vai precisar desta moeda para passar por ele e entrar no Labirinto. [Ele lhe entrega uma moeda.] Estarei aqui quando você terminar!}{}{}{}{in -5695}
+{85}{E:}{}{5}{}{0}{}
+{86}{Claro! O que você precisa saber?}{Claro! O que você precisa saber?}{}{}{}{}
+{88}{O que você pode me contar sobre Tulla, Herzod?}{}{5}{qu1150 0}{39}{}
+{89}{Eu poderia recuperar o cálice do Labirinto de Fa'al Kin...}{}{5}{qu1150 1}{78}{}
+{91}{Ainda não recuperei o cálice do Labirinto de Fa'al Kin...}{}{5}{qu1150 2, ni 5694}{107}{}
+{92}{Recuperei o cálice... [Entregue-o a ele.]}{}{5}{ qu1150 2, in 5694}{-4}{in 5694}
+{94}{Fala sobre Tulla, Herzod!}{}{-4}{qu1150 0}{39}{}
+{95}{E:}{}{1}{}{0}{}
+{107}{Entendo. Boa sorte! Estarei aqui quando você tiver o cálice...}{Entendo. Boa sorte! Estarei aqui quando você tiver o cálice...}{}{}{}{}
+{108}{E:}{}{1}{}{0}{}
+{113}{Você conseguiu! Isso é ótimo! Aqui está o pergaminho que prometi. [Ele o entrega a você.] Escute... vamos manter isso entre nós, certo? Não acho que o Diretor aprovaria meus métodos...}{Você conseguiu! Isso é ótimo! Aqui está o pergaminho que prometi. [Ele o entrega a você.] Escute... vamos manter isso entre nós, certo? Não acho que o Diretor aprovaria meus métodos...}{}{}{}{qu1150 4, lf1 1}
+{114}{E:}{}{1}{}{0}{}
+{116}{Obrigado novamente pela sua ajuda! Estudar deveria ser sempre tão fácil!}{Obrigado novamente pela sua ajuda! Estudar deveria ser sempre tão fácil!}{}{}{}{}
+

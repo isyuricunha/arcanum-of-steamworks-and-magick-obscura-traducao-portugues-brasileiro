@@ -1,0 +1,286 @@
+{1}{Sabe jogar dados?}{Sabe jogar dados?}{}{}{}{ } 
+{2}{Sim. Já joguei antes.}{}{5}{}{235}{ } 
+{3}{Não, por favor me explique, como se joga?}{}{5}{}{24}{ } 
+{4}{Ééé, ééé, ééé!}{}{-4}{}{235}{ } 
+{5}{Eu num sabe como. Eu qué sabê como!}{}{-4}{}{24}{ } 
+{6}{E:}{}{1}{}{0}{ } 
+{9}{Você esvaziou minha bolsa! Maldição! Não jogo mais dados com você!}{Você esvaziou minha bolsa! Maldição! Não jogo mais dados com você!}{}{}{}{lf 16 1} 
+{10}{E:}{}{1}{}{-153}{} 
+{24}{O jogo é jogado com dois dados. Você faz uma série de jogadas. Primeiro, você define uma MARCA e depois tenta tirar a mesma MARCA de novo para VENCER.}{O jogo é jogado com dois dados. Você faz uma série de jogadas. Primeiro, você define uma MARCA e depois tenta tirar a mesma MARCA de novo para VENCER.}{}{}{}{ } 
+{25}{Poderia explicar melhor?}{}{5}{}{30}{ } 
+{26}{Sim, sim... Eu conheço esse jogo. Quais são as apostas?}{}{5}{}{235}{ } 
+{27}{O quê? Eu num entendo.}{}{-4}{}{30}{ } 
+{28}{Ééé, ééé, ééé!}{}{-4}{}{235}{ } 
+{30}{Você pode VENCER na primeira jogada. Se a soma dos dados der SETE ou ONZE, sua sorte é verdadeira e você é o VENCEDOR na PRIMEIRA JOGADA. Se tirar olhos de cobra, um DOIS, você perde. Se não vencer ou perder na primeira jogada, então você memoriza o número, o que é conhecido como DEFINIR sua MARCA.}{Você pode VENCER na primeira jogada. Se a soma dos dados der SETE ou ONZE, sua sorte é verdadeira e você é o VENCEDOR na PRIMEIRA JOGADA. Se tirar olhos de cobra, um DOIS, você perde. Se não vencer ou perder na primeira jogada, então você memoriza o número, o que é conhecido como DEFINIR sua MARCA.}{}{}{}{ } 
+{31}{Entendo.}{}{5}{}{33}{ } 
+{32}{Urgh.}{}{-4}{}{33}{ } 
+{33}{Depois de DEFINIR sua MARCA, você tenta tirar a soma exata da sua MARCA de novo, mas se tirar um SETE ou olhos de cobra, um DOIS, ANTES de conseguir sua MARCA, você perde. Jogamos com apostas iguais.}{Depois de DEFINIR sua MARCA, você tenta tirar a soma exata da sua MARCA de novo, mas se tirar um SETE ou olhos de cobra, um DOIS, ANTES de conseguir sua MARCA, você perde. Jogamos com apostas iguais.}{}{}{}{ } 
+{34}{Quais seriam as apostas?}{}{5}{}{235}{ } 
+{35}{Pelo que estamos jogando?}{}{-4}{}{235}{ } 
+{36}{F:}{}{1}{}{0}{ } 
+{37}{A senhora tirou um SEIS e um SEIS.}{A senhora tirou um SEIS e um SEIS.}{}{}{}{ } 
+{38}{Role novamente.}{}{5}{lf1 1, lf12 0}{-6}{ } 
+{39}{Um DOZE! Maldição! Nunca conseguirei isso.}{}{5}{lf1 0}{-6}{lf1 1, lf12 1 } 
+{40}{Má sorte, senhor. Parece que sou imbatível hoje.}{}{5}{lf1 1,lf12 1}{-53}{re -4} 
+{41}{Eu joga de novo!!}{}{-4}{lf1 1, lf12 0}{-6}{ } 
+{42}{Eu tento de novo.}{}{-4}{lf1 0}{-6}{lf1 1, lf12 1 } 
+{43}{Eu ganhei! Uhuuuu!}{}{-4}{lf1 1,lf12 1}{-53}{re -4} 
+{44}{A senhora tirou um SEIS e um CINCO.}{A senhora tirou um SEIS e um CINCO.}{}{}{}{ } 
+{45}{Role novamente.}{}{5}{lf 7 0, lf1 1}{-6}{ } 
+{46}{ONZE é vencedor, que doce é isso!}{}{5}{lf 7 0, lf1 0}{-53}{re -4} 
+{47}{OUTRO VENCEDOR!}{}{5}{lf 7 1}{-53}{re -4} 
+{48}{Eu joga de novo!!}{}{-4}{lf 7 0, lf1 1}{-6}{ } 
+{49}{Eu ganhei! Uhuuuu!}{}{-4}{lf 7 0, lf1 0}{-53}{re -4} 
+{50}{Eu ganhei! Uhuuuu!}{}{-4}{lf 7 1}{-53}{re -4} 
+{51}{Você tirou um SEIS e um QUATRO.}{Você tirou um SEIS e um QUATRO.}{}{}{}{ } 
+{52}{Role novamente.}{}{5}{lf1 1, lf10 0}{-6}{ } 
+{53}{Uma marca de DEZ. É bom, sinto que a sorte está comigo hoje.}{}{5}{lf1 0}{-6}{lf1 1, lf10 1 } 
+{54}{Receio que meus estilos sejam incomparáveis, bom senhor.}{}{5}{lf1 1,lf10 1}{-53}{re -4} 
+{55}{Eu joga de novo!!}{}{-4}{lf1 1, lf10 0}{-6}{ } 
+{56}{Eu tento de novo.}{}{-4}{lf1 0}{-6}{lf1 1, lf10 1 } 
+{57}{Eu ganhei! Uhuuuu!}{}{-4}{lf1 1,lf10 1}{-53}{re -4} 
+{58}{Você tirou um SEIS e um TRÊS.}{Você tirou um SEIS e um TRÊS.}{}{}{}{ } 
+{59}{Role novamente.}{}{5}{lf1 1, lf9 0}{-6}{ } 
+{60}{Diabos! Um resultado de NOVE é difícil de alcançar.}{}{5}{lf1 0}{-6}{lf1 1, lf9 1 } 
+{61}{Pelos deuses! Outro vencedor!}{}{5}{lf1 1,lf9 1}{-53}{re -4} 
+{62}{Eu joga de novo!!}{}{-4}{lf1 1, lf9 0}{-6}{ } 
+{63}{Eu tento de novo.}{}{-4}{lf1 0}{-6}{lf1 1, lf9 1 } 
+{64}{Eu venci! Uhuuuu!}{}{-4}{lf1 1,lf9 1}{-53}{re -4} 
+{65}{Você tirou um SEIS e um DOIS.}{Você tirou um SEIS e um DOIS.}{}{}{}{ } 
+{66}{Role novamente.}{}{5}{lf1 1, lf8 0}{-6}{ } 
+{67}{Um OITO! Isso não deve ser muito difícil de conseguir.}{}{5}{lf1 0}{-6}{lf1 1, lf8 1 } 
+{68}{Doce vitória! Eu ganhei.}{}{5}{lf1 1,lf8 1}{-53}{re -4} 
+{69}{Eu rolo de novo!!}{}{-4}{lf1 1, lf8 0}{-6}{ } 
+{70}{Eu tento de novo.}{}{-4}{lf1 0}{-6}{lf1 1, lf8 1 } 
+{71}{Eu venci! Uhuuuu!}{}{-4}{lf1 1,lf8 1}{-53}{re -4} 
+{72}{Você tirou um SEIS e um UM.}{Você tirou um SEIS e um UM.}{}{}{}{ } 
+{73}{Parece que eu venci esta rodada.}{}{5}{lf 7 0, lf1 0}{-53}{re -4} 
+{74}{Que diabos. Eu perdi.}{}{5}{lf 7 0, lf1 1}{-56}{re +1} 
+{75}{Parece que encontrei minha sorte, senhor.}{}{5}{lf 7 1}{-53}{re -4} 
+{76}{Eu venci! Uhuuuu!}{}{-4}{lf 7 0, lf1 0}{-53}{re -4} 
+{77}{Aaaaaagh! Eu perdi! Eu não quero perder!}{}{-4}{lf 7 0, lf1 1}{-56}{re +1} 
+{78}{Eu venci! Uhuuuu!}{}{-4}{lf 7 1}{-53}{re -4} 
+{79}{Você tirou um CINCO e um CINCO.}{Você tirou um CINCO e um CINCO.}{}{}{}{ } 
+{80}{Role novamente.}{}{5}{lf1 1, lf10 0}{-6}{ } 
+{81}{Parece que vou ter que vencer do jeito difícil.}{}{5}{lf1 0}{-6}{lf1 1, lf10 1 } 
+{82}{Aí está! Um vencedor!}{}{5}{lf1 1,lf10 1}{-53}{re -4} 
+{83}{Eu rolo de novo!!}{}{-4}{lf1 1, lf10 0}{-6}{ } 
+{84}{Eu tento de novo.}{}{-4}{lf1 0}{-6}{lf1 1, lf10 1 } 
+{85}{Eu venci! Uhuuuu!}{}{-4}{lf1 1,lf10 1}{-53}{re -4} 
+{86}{Você tirou um CINCO e um QUATRO.}{Você tirou um CINCO e um QUATRO.}{}{}{}{ } 
+{87}{Role novamente.}{}{5}{lf1 1, lf9 0}{-6}{ } 
+{88}{Diabos! Um resultado de NOVE é difícil de alcançar.}{}{5}{lf1 0}{-6}{lf1 1, lf9 1 } 
+{89}{Doce sucesso, eu venci!}{}{5}{lf1 1,lf9 1}{-53}{re -4} 
+{90}{Eu rolo de novo!!}{}{-4}{lf1 1, lf9 0}{-6}{ } 
+{91}{Eu tento de novo.}{}{-4}{lf1 0}{-6}{lf1 1, lf9 1 } 
+{92}{Eu venci! Uhuuuu!}{}{-4}{lf1 1,lf9 1}{-53}{re -4} 
+{93}{Você tirou um CINCO e um TRÊS.}{Você tirou um CINCO e um TRÊS.}{}{}{}{ } 
+{94}{Role novamente.}{}{5}{lf1 1, lf8 0}{-6}{ } 
+{95}{OITO! Outro resultado fácil!}{}{5}{lf1 0}{-6}{lf1 1, lf8 1 } 
+{96}{Espero que sua carteira esteja cheia, parece que a sorte me sorriu.}{}{5}{lf1 1,lf8 1}{-53}{re -4} 
+{97}{Eu rolo de novo!!}{}{-4}{lf1 1, lf8 0}{-6}{ } 
+{98}{Eu tento de novo.}{}{-4}{lf1 0}{-6}{lf1 1, lf8 1 } 
+{99}{Eu venci! Uhuuuu!}{}{-4}{lf1 1,lf8 1}{-53}{re -4} 
+{100}{Você tirou um CINCO e um DOIS.}{Você tirou um CINCO e um DOIS.}{}{}{}{ } 
+{101}{A sorte está comigo hoje! Um vencedor!}{}{5}{lf1 0, lf 7 0}{-53}{re -4} 
+{102}{Sorte podre! Eu perdi.}{}{5}{lf1 1, lf 7 0}{-56}{re +1} 
+{103}{Sou vitorioso, mais uma vez!}{}{5}{lf 7 1}{-53}{re -4} 
+{104}{Eu venci! Uhuuuu!}{}{-4}{lf1 0, lf 7 0}{-53}{re -4} 
+{105}{Aaaaaagh! Eu perdi! Eu não quero perder!}{}{-4}{lf1 1, lf 7 0}{-56}{re +1} 
+{106}{Eu venci! Uhuuuu!}{}{-4}{lf 7 1}{-53}{re -4} 
+{107}{Você tirou um CINCO e um UM.}{Você tirou um CINCO e um UM.}{}{}{}{ } 
+{108}{Role novamente.}{}{5}{lf1 1, lf6 0}{-6}{ } 
+{109}{Prepare-se para se despedir de algumas de suas moedas queridas!}{}{5}{lf1 0}{-6}{lf1 1, lf6 1 } 
+{110}{Hora de pagar o flautista. É quase doloroso vencer assim, não é, senhor?}{}{5}{lf1 1,lf6 1}{-53}{re -4} 
+{111}{Eu rolo de novo!!}{}{-4}{lf1 1, lf6 0}{-6}{ } 
+{112}{Eu tento de novo.}{}{-4}{lf1 0}{-6}{lf1 1, lf6 1 } 
+{113}{Eu venci! Uhuuuu!}{}{-4}{lf1 1,lf6 1}{-53}{re -4} 
+{114}{Você tirou um QUATRO e um QUATRO.}{Você tirou um QUATRO e um QUATRO.}{}{}{}{ } 
+{115}{Role novamente.}{}{5}{lf1 1, lf8 0}{-6}{ } 
+{116}{Um belo e fácil OITO. Isso está praticamente ganho.}{}{5}{lf1 0}{-6}{lf1 1, lf8 1 } 
+{117}{Foi fácil demais. Eu venci.}{}{5}{lf1 1,lf8 1}{-53}{re -4} 
+{118}{Eu rolo de novo!!}{}{-4}{lf1 1, lf8 0}{-6}{ } 
+{119}{Eu tento de novo.}{}{-4}{lf1 0}{-6}{lf1 1, lf8 1 } 
+{120}{Eu ganhei! Uhuuuu!}{}{-4}{lf1 1,lf8 1}{-53}{re -4} 
+{121}{Você tirou um QUATRO e um TRÊS.}{Você tirou um QUATRO e um TRÊS.}{}{}{}{ } 
+{122}{Número da sorte SETE! Parece que eu sou um vencedor!}{}{5}{lf1 0, lf 7 0}{-53}{re -4} 
+{123}{Um SETE! Malditos dados! Eu perdi.}{}{5}{lf1 1, lf 7 0}{-56}{re +1} 
+{124}{QUEM É O MESTRE AGORA?!}{}{5}{lf 7 1}{-53}{re -4} 
+{125}{Eu ganhei! Uhuuuu!}{}{-4}{lf1 0, lf 7 0}{-53}{re -4} 
+{126}{Aaaaaagh! Eu perdi! Eu não quero perder!}{}{-4}{lf1 1, lf 7 0}{-56}{re +1} 
+{127}{Eu ganhei! Uhuuuu!}{}{-4}{lf 7 1}{-53}{re -4} 
+{128}{Você tirou um QUATRO e um DOIS.}{Você tirou um QUATRO e um DOIS.}{}{}{}{ } 
+{129}{Role novamente.}{}{5}{lf1 1, lf6 0}{-6}{ } 
+{130}{Um SEIS. Alvo fácil! Lá vem...}{}{5}{lf1 0}{-6}{lf1 1, lf6 1 } 
+{131}{SEIS! Outro vencedor!}{}{5}{lf1 1,lf6 1}{-53}{re -4} 
+{132}{Eu rolo de novo!!}{}{-4}{lf1 1, lf6 0}{-6}{ } 
+{133}{Eu tento novamente.}{}{-4}{lf1 0}{-6}{lf1 1, lf6 1 } 
+{134}{Eu ganhei! Uhuuuu!}{}{-4}{lf1 1,lf6 1}{-53}{re -4} 
+{135}{Você tirou um QUATRO e um UM.}{Você tirou um QUATRO e um UM.}{}{}{}{ } 
+{136}{Role novamente}{}{5}{lf1 1, lf5 0}{-6}{ } 
+{137}{Um CINCO. Parece que você vai me dever.}{}{5}{lf1 0}{-6}{lf1 1, lf5 1 } 
+{138}{Um CINCO é um vencedor sortudo!}{}{5}{lf1 1,lf5 1}{-53}{re -4} 
+{139}{Eu rolo de novo!!}{}{-4}{lf1 1, lf5 0}{-6}{ } 
+{140}{Eu tento novamente.}{}{-4}{lf1 0}{-6}{lf1 1, lf5 1 } 
+{141}{Eu ganhei! Uhuuuu!}{}{-4}{lf1 1,lf5 1}{-53}{re -4} 
+{142}{Você tirou um TRÊS e um TRÊS.}{Você tirou um TRÊS e um TRÊS.}{}{}{}{ } 
+{143}{Role novamente.}{}{5}{lf1 1, lf6 0}{-6}{ } 
+{144}{Um SEIS. Estou com sorte.}{}{5}{lf1 0}{-6}{lf1 1, lf6 1 } 
+{145}{Um SEIS! Meu sistema está valendo a pena...}{}{5}{lf1 1,lf6 1}{-53}{re -4} 
+{146}{Eu rolo de novo!!}{}{-4}{lf1 1, lf6 0}{-6}{ } 
+{147}{Eu tento novamente.}{}{-4}{lf1 0}{-6}{lf1 1, lf6 1 } 
+{148}{Eu ganhei! Uhuuuu!}{}{-4}{lf1 1,lf6 1}{-53}{re -4} 
+{149}{Você tirou um TRÊS e um DOIS.}{Você tirou um TRÊS e um DOIS.}{}{}{}{ } 
+{150}{Role novamente.}{}{5}{lf1 1, lf5 0}{-6}{ } 
+{151}{Esse é um alvo difícil de acertar.}{}{5}{lf1 0}{-6}{lf1 1, lf5 1 } 
+{152}{Um CINCO! Desculpe, mas você perdeu!}{}{5}{lf1 1,lf5 1}{-53}{re -4} 
+{153}{Eu rolo de novo!!}{}{-4}{lf1 1, lf5 0}{-6}{ } 
+{154}{Eu tento novamente.}{}{-4}{lf1 0}{-6}{lf1 1, lf5 1 } 
+{155}{Eu ganhei! Uhuuuu!}{}{-4}{lf1 1,lf5 1}{-53}{re -4} 
+{156}{Você tirou um TRÊS e um UM.}{Você tirou um TRÊS e um UM.}{}{}{}{ } 
+{157}{Role novamente}{}{5}{lf1 1, lf4 0}{-6}{ } 
+{158}{Não é um QUATRO! Estou fazendo isso da maneira mais difícil.}{}{5}{lf1 0}{-6}{lf1 1, lf4 1 } 
+{159}{Um QUATRO! Desculpe por tirar seu dinheiro de novo!}{}{5}{lf1 1,lf4 1}{-53}{re -4} 
+{160}{Eu rolo de novo!!}{}{-4}{lf1 1, lf4 0}{-6}{ } 
+{161}{Eu tento novamente.}{}{-4}{lf1 0}{-6}{lf1 1, lf4 1 } 
+{162}{Eu ganhei! Uhuuuu!}{}{-4}{lf1 1,lf4 1}{-53}{re -4} 
+{163}{Você tirou um DOIS e um DOIS.}{Você tirou um DOIS e um DOIS.}{}{}{}{ } 
+{164}{Role novamente.}{}{5}{lf1 1, lf4 0}{-6}{ } 
+{165}{Esse vai ser um alvo difícil!}{}{5}{lf1 0}{-6}{lf1 1, lf4 1 } 
+{166}{Maravilhoso! Doce é a vitória!}{}{5}{lf1 1,lf4 1}{-53}{re -4} 
+{167}{Eu rolo de novo!!}{}{-4}{lf1 1, lf4 0}{-6}{ } 
+{168}{Eu tento novamente.}{}{-4}{lf1 0}{-6}{lf1 1, lf4 1 } 
+{169}{Eu ganhei! Uhuuuu!}{}{-4}{lf1 1,lf4 1}{-53}{re -4} 
+{170}{Você tirou um DOIS e um UM.}{Você tirou um DOIS e um UM.}{}{}{}{ } 
+{171}{Role novamente.}{}{5}{lf1 1, lf3 0}{-6}{ } 
+{172}{Céus! Não um TRÊS! Que jogada medíocre.}{}{5}{lf1 0}{-6}{lf1 1, lf3 1 } 
+{173}{Um TRÊS! Era impossível, mas eu consegui mesmo assim!}{}{5}{lf1 1,lf3 1}{-53}{re -4} 
+{174}{Eu rolo de novo!!}{}{-4}{lf1 1, lf3 0}{-6}{ } 
+{175}{Eu tento novamente.}{}{-4}{lf1 0}{-6}{lf1 1, lf3 1 } 
+{176}{Eu ganhei! Uhuuuu!}{}{-4}{lf1 1,lf3 1}{-53}{re -4} 
+{177}{Olhos de Cobra! Você tirou um UM e um UM.}{Você tirou um UM e um UM.}{}{}{}{ } 
+{178}{Que diabos esses dados!}{}{5}{lf2 0}{-56}{re +1} 
+{179}{Que diabos esses dados!}{}{5}{lf2 1}{-56}{re +1} 
+{180}{Ohhh nãooooooo!}{}{-4}{lf2 0}{-56}{re +1} 
+{181}{Aaaah nãooooooo!}{}{-4}{lf2 1}{-56}{re +1} 
+{185}{Você venceu, meu amigo.}{Você venceu, meu amigo.}{}{}{}{ } 
+{186}{Está pronto para jogar de novo?}{}{5}{gv1019 25}{-59}{$$ 25} 
+{187}{Está pronto para jogar de novo?}{}{5}{gv1019 50}{-59}{$$ 50} 
+{188}{Vamos jogar mais!!!!}{}{-4}{gv1019 25}{-59}{$$ 25} 
+{189}{Vamos jogar mais!!!!}{}{-4}{gv1019 50}{-59}{$$ 50} 
+{196}{Você perdeu, meu amigo.}{Você perdeu, meu amigo.}{}{}{}{ } 
+{197}{Está pronto para jogar de novo?}{}{5}{gv1019 25, $$ 50}{-59}{$$ -25} 
+{198}{Está pronto para jogar de novo?}{}{5}{gv1019 50, $$ 100}{-59}{$$ -50} 
+{199}{Está pronto para jogar de novo?}{}{5}{gv1019 25, $$ -49}{231}{$$ -25} 
+{200}{Está pronto para jogar de novo?}{}{5}{gv1019 50, $$ -99}{231}{$$ -50} 
+{201}{Vamos jogar mais!!!!}{}{-4}{gv1019 25, $$ 50}{-59}{$$ -25} 
+{202}{Vamos jogar mais!!!!}{}{-4}{gv1019 50, $$ 100}{-59}{$$ -50} 
+{203}{Vamos jogar mais!!!!}{}{-4}{gv1019 25, $$ -49}{231}{$$ -25} 
+{204}{Vamos jogar mais!!!!}{}{-4}{gv1019 50, $$ -99}{231}{$$ -50} 
+{209}{Gosto de uma ou duas partidas amigáveis por 25 moedas. Que odds você propõe?}{Gosto de uma ou duas partidas amigáveis por 25 moedas. Que odds você propõe?}{}{}{}{ } 
+{210}{[25 moedas por partida]}{}{5}{$$ 50}{216}{gv1019 25} 
+{211}{[50 moedas por partida]}{}{5}{$$ 100}{216}{gv1019 50} 
+{212}{Não posso pagar o custo...}{}{5}{$$ -49}{231}{ } 
+{213}{[25 moedas por partida]}{}{-4}{$$ 50}{216}{gv1019 25} 
+{214}{[50 moedas por partida]}{}{-4}{$$ 100}{216}{gv1019 50} 
+{215}{Eu não tenho moedas.}{}{-4}{$$ -49}{231}{ } 
+{216}{Certo, este é o seu primeiro lançamento de dados para definir sua marca.}{Certo, este é o seu primeiro lançamento de dados para definir sua marca.}{}{}{}{ } 
+{217}{Lance.}{}{1}{re 31}{-9}{lf1 0, lf3 0, lf4 0, lf5 0, lf6 0, lf8 0, lf9 0, lf10 0, lf 12 0 } 
+{218}{Lance.}{}{1}{re -30}{224}{} 
+{219}{Gostaria de mudar as apostas primeiro, se me permite.}{}{5}{}{209}{} 
+{220}{Eu mudo os valores das moedas... Urrrg!}{}{-4}{}{209}{} 
+{221}{Preciso me retirar.}{}{5}{}{0}{} 
+{222}{Eu vou agora!}{}{-4}{}{0}{} 
+{224}{Aaaargh! Não jogue esses dados! Minha sorte virou feia, e você está testando minha paciência! É hora de parar antes que me chame de mau perdedor.}{Aaaargh! Não jogue esses dados! Minha sorte virou feia, e você está testando minha paciência! É hora de parar antes que me chame de mau perdedor.}{}{}{}{ } 
+{225}{E:}{}{1}{}{0}{ } 
+{226}{Aaaargh! Você me toma por idiota? Não vou perder mais moedas com você! Preciso cuidar do meu trabalho aqui. Adeus.}{Aaaargh! Você me toma por idiota? Não vou perder mais moedas com você! Preciso cuidar do meu trabalho aqui. Adeus.}{}{}{}{ } 
+{227}{Aaaargh! Não vou jogar dados com você. Meu mau humor espantou minha sorte!}{Aaaargh! Não vou jogar dados com você. Meu mau humor espantou minha sorte!}{}{}{}{lf 15 1} 
+{228}{Você deve estar brincando! Eu nunca jogaria dados com alguém como você!}{Você deve estar brincando! Eu nunca jogaria dados com alguém como você!}{}{}{}{} 
+{229}{É uma pena você não ter moedas. Estou com sorte hoje! Volte quando puder, gostaria de testar minha sorte com você.}{É uma pena você não ter moedas. Estou com sorte hoje! Volte quando puder, gostaria de testar minha sorte com você.}{}{}{}{ } 
+{230}{E:}{}{1}{}{0}{ } 
+{231}{Bem, senhor, nós jogamos por dinheiro vivo. Se estiver sem moedas, está fora do jogo. Azar o seu, senhor.}{Bem, senhora, nós jogamos por dinheiro vivo. Se estiver sem moedas, está fora do jogo. Azar o seu, senhora.}{}{}{}{ } 
+{232}{Gostaria de mudar as apostas.}{}{5}{$$ 50}{209}{} 
+{233}{Quero mais moedas! Mais moedas agora!!}{}{-4}{$$ 50}{209}{ } 
+{234}{E:}{}{1}{}{0}{ } 
+{235}{As apostas são o que você quiser. Aqui só jogamos dados por moedas. Nada de "acordos de cavalheiros", porque não somos cavalheiros, e eu dou um soco no primeiro que disser o contrário! Heh, heh. Nada de fichas, notas promissórias ou vales, só moedas. Geralmente jogamos por apostas pequenas.}{As apostas são o que você quiser. Aqui só jogamos dados por moedas. Nada de "acordos de cavalheiros", porque não somos cavalheiros, e eu dou um soco no primeiro que disser o contrário! Heh, heh. Nada de fichas, notas promissórias ou vales, só moedas. Geralmente jogamos por apostas pequenas.}{}{}{}{ } 
+{236}{Estou praticamente quebrado, não posso arriscar minha sorte.}{}{5}{$$ -24}{229}{ } 
+{237}{Tenho algumas moedas. Gostaria de tentar a sorte.}{}{5}{$$ 25}{209}{ } 
+{238}{Eu num tem moedas!}{}{-4}{$$ -24}{229}{ } 
+{239}{Eu tem moedas!}{}{-4}{$$ 25}{209}{ } 
+{240}{E:}{}{1}{}{0}{ } 
+{241}{Olá, forasteiro.}{Olá, forasteiro.}{}{}{}{}
+{242}{Olá. Como faço para reservar passagem em um navio?}{1}{5}{re 41}{261}{}
+{243}{Saudações, senhor. Pode me ajudar a reservar passagem em um navio?}{0}{5}{re 41}{277}{}
+{244}{Como eu subo no barco?}{1}{-4}{re 41}{261}{}
+{245}{Eu subo no barco?}{0}{-4}{re 41}{282}{}
+{246}{Com licença, preciso saber como reservar passagem em um navio.}{}{5}{re-40}{288}{}
+{247}{Como eu subo no barco?}{}{-4}{re-40}{288}{}
+{252}{Gostaria de jogar uma partida de dados?}{}{5}{lf 16 0, lf 14 0, re 31}{1}{lf 14 1}
+{253}{Você joga dados? Eu jogo dados! Jogamos dados?!}{}{-4}{lf 16 0, lf 14 0, re 31}{1}{lf 14 1}
+{254}{Gostaria de jogar uma partida de dados?}{}{5}{lf 16 1, re 31, lf 14 1}{}{fl  226}
+{255}{Você joga dados? Eu jogo dados! Jogamos dados?!}{}{-4}{lf 16 1, re 31, lf 14 1}{}{fl  226}
+{256}{Gostaria de jogar uma partida de dados?}{}{5}{lf 16 0, re -30, lf 14 1}{}{fl  227}
+{257}{Você joga dados? Eu jogo dados! Jogamos dados?!}{}{-4}{lf 16 0, re -30, lf 14 1}{}{fl  227}
+{258}{Gostaria de jogar uma partida de dados?}{}{5}{lf 14 0, re -30}{}{fl  228}
+{259}{Você joga dados? Eu jogo dados! Jogamos dados?!}{}{-4}{lf 14 0, re -30}{}{fl  228}
+{260}{E:}{}{1}{}{0}{}
+{261}{Você está falando com o cara errado, amigo. Suba a bordo e fale com o capitão. É ele quem você procura.}{Você está falando com a pessoa errada, senhora. Suba a bordo e fale com o capitão. É ele quem você procura.}{}{}{}{}
+{262}{Obrigado pela ajuda. Vou fazer isso.}{}{5}{}{0}{}
+{263}{Otá! Eu vou embora agora.}{}{-4}{}{0}{}
+{264}{Gostaria de jogar uma partida de dados?}{}{5}{lf 16 0, lf 14 0, re 31}{1}{lf 14 1}
+{265}{Você joga dados? Eu jogo dados! Jogamos dados?!}{}{-4}{lf 16 0, lf 14 0, re 31}{1}{lf 14 1}
+{266}{Gostaria de jogar uma partida de dados?}{}{5}{lf 16 1, re 31, lf 14 1}{}{fl  226}
+{267}{Você joga dados? Eu jogo dados! Vamos jogar dados?!}{}{-4}{lf 16 1, re 31, lf 14 1}{}{fl  226}
+{268}{Gostaria de jogar uma partida de dados?}{}{5}{lf 16 0, re -30, lf 14 1}{}{fl  227}
+{269}{Você joga dados? Eu jogo dados! Vamos jogar dados?!}{}{-4}{lf 16 0, re -30, lf 14 1}{}{fl  227}
+{270}{Gostaria de jogar uma partida de dados?}{}{5}{lf 14 0, re -30}{}{fl  228}
+{271}{Você joga dados? Eu jogo dados! Vamos jogar dados?!}{}{-4}{lf 14 0, re -30}{}{fl  228}
+{272}{E:}{}{1}{}{0}{}
+{277}{O senhor está falando com a pessoa errada, patrão. Suba a bordo e fale com o capitão. É ele quem o senhor procura.}{O senhor está falando com a pessoa errada, patrão. Suba a bordo e fale com o capitão. É ele quem o senhor procura.}{}{}{}{}
+{278}{Obrigado, senhor.}{}{5}{}{0}{}
+{279}{Gostaria de tentar a sorte em uma partida de dados com o belo sexo, cavalheiro?}{}{5}{lf 16 0}{1}{}
+{280}{Gostaria de tentar a sorte em uma partida de dados com o belo sexo, cavalheiro?}{}{5}{lf 16 1}{}{fl  226}
+{281}{E:}{}{1}{}{0}{}
+{282}{O senhor está falando com a pessoa errada, patrão. Suba a bordo e fale com o capitão. É ele quem o senhor procura.}{Bem, eu tenho uma coisa para você, querida. Que tal irmos lá atrás dos docas?}{}{}{}{}
+{283}{Hã... O quê? Eu não sou sua irmã...}{}{-4}{}{286}{}
+{284}{Barco! Eu quero barco! ...Vai embora.}{}{-4}{}{286}{}
+{285}{E:}{}{1}{}{0}{}
+{286}{Vá até o barco e fale com o capitão se quiser viajar em seu navio.}{Sua idiota! Vá até o barco e fale com o capitão se quiser viajar em seu navio.}{}{}{}{}
+{287}{E:}{}{1}{}{0}{}
+{288}{Escuta aqui, imbecil... Eu pareço um capitão!?! Suba a bordo e fale com ele se quiser passagem!}{Escuta aqui, imbecil... Eu pareço um capitão!?! Suba a bordo e fale com ele se quiser passagem!}{}{}{}{}
+{289}{Tá.}{}{5}{}{0}{}
+{290}{Hã... Tá bom!}{}{-4}{}{0}{}
+{291}{Gostaria de jogar uma partida de dados?}{}{5}{lf 16 0, lf 14 0, re 31}{1}{lf 14 1}
+{292}{Você joga dados? Eu jogo dados! Vamos jogar dados?!}{}{-4}{lf 16 0, lf 14 0, re 31}{1}{lf 14 1}
+{293}{Gostaria de jogar uma partida de dados?}{}{5}{lf 16 1, re 31, lf 14 1}{}{fl  226}
+{294}{Você joga dados? Eu jogo dados! Vamos jogar dados?!}{}{-4}{lf 16 1, re 31, lf 14 1}{}{fl  226}
+{295}{Gostaria de jogar uma partida de dados?}{}{5}{lf 16 0, re -30, lf 14 1}{}{fl  227}
+{296}{Você joga dados? Eu jogo dados! Vamos jogar dados?!}{}{-4}{lf 16 0, re -30, lf 14 1}{}{fl  227}
+{297}{Gostaria de jogar uma partida de dados?}{}{5}{lf 14 0, re -30}{}{fl  228}
+{298}{Você joga dados? Eu jogo dados! Vamos jogar dados?!}{}{-4}{lf 14 0, re -30}{}{fl  228}
+{299}{E:}{}{1}{}{0}{}
+{300}{Desculpe. Tenho muito o que fazer. Adeus.}{Desculpe. Tenho muito o que fazer. Adeus.}{}{}{}{}
+{301}{Eu poderia usar algumas moedas a mais... vamos jogar.}{Poderia usar algumas moedas a mais... vamos jogar.}{}{}{}{}
+{302}{Thanatos! Ninguém por aqui é burro o suficiente para ir até aquele lugar! Tente encontrar alguém em Black Root.}{Thanatos! Ninguém por aqui é burro o suficiente para ir até aquele lugar! Tente encontrar alguém em Black Root.}{}{}{}{}
+{303}{Black Root? Onde fica Black Root?}{}{5}{}{306}{}
+{304}{Onde fica isso?}{}{-4}{}{306}{}
+{305}{E:}{}{1}{}{0}{}
+{306}{Deixa eu ver seu mapa...}{Deixa eu ver seu mapa...}{}{}{}{}
+{307}{[Mostre-lhe seu mapa]}{}{1}{}{309}{}
+{308}{F:}{}{1}{}{0}{}
+{309}{Black Root fica bem ali. [Aponta para um local no seu mapa.]}{Black Root fica bem ali. [Aponta para um local no seu mapa.]}{}{}{}{mm 3}
+{310}{Obrigado.}{}{5}{}{0}{}
+{311}{Valeu. Eu vô.}{}{-4}{}{0}{}
+{312}{Thanatos? Nenhum desses navios vai para lá! Você pode tentar no bar. Talvez tenha alguém lá burro o suficiente para ir.}{Thanatos? Nenhum desses navios vai para lá! Você pode tentar no bar. Talvez tenha alguém lá burro o suficiente para ir.}{}{}{}{}
+{313}{Gostaria de jogar uma partida de dados?}{}{5}{lf 16 0, lf 14 0, re 31}{1}{lf 14 1}
+{314}{Você joga dados? Eu jogo dados! A gente joga dados?!}{}{-4}{lf 16 0, lf 14 0, re 31}{1}{lf 14 1}
+{315}{Gostaria de jogar uma partida de dados?}{}{5}{lf 16 1, re 31, lf 14 1}{}{fl  226}
+{316}{Você joga dados? Eu jogo dados! A gente joga dados?!}{}{-4}{lf 16 1, re 31, lf 14 1}{}{fl  226}
+{317}{Gostaria de jogar uma partida de dados?}{}{5}{lf 16 0, re -30, lf 14 1}{}{fl  227}
+{318}{Você joga dados? Eu jogo dados! A gente joga dados?!}{}{-4}{lf 16 0, re -30, lf 14 1}{}{fl  227}
+{319}{Gostaria de jogar uma partida de dados?}{}{5}{lf 14 0, re -30}{}{fl  228}
+{320}{Você joga dados? Eu jogo dados! A gente joga dados?!}{}{-4}{lf 14 0, re -30}{}{fl  228}
+{321}{E:}{}{1}{}{0}{}
+{322}{}{}{}{}{}{}
+{323}{}{}{}{}{}{}
+

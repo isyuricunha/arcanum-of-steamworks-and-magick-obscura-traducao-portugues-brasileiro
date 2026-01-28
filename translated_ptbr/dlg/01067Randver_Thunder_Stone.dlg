@@ -1,0 +1,390 @@
+{1}{G:1 3,2 8,3 13,4 18,5 23,6 28,7 33,8 38,9 43}{G:1 3,2 6,3 9,4 12,5 15,6 18,7 21,8 24,9 27}{}{}{}{}
+{3}{Saudações. Você viaja com companhias estranhas. Anões têm pouca paciência para essas coisas...}{Saudações. Você viaja com companhias estranhas. Anões têm pouca paciência para essas coisas...}{}{}{}{}
+{4}{Desculpe, acho que não nos conhecemos...}{}{5}{me 0}{51}{}
+{5}{Olá, Randver. Você tem um momento para conversar...?}{}{5}{me 1}{61}{}
+{6}{E-eh... quem é você?}{}{-4}{me 0}{490}{}
+{7}{Ei, Randy! Você fala comigo?}{}{-4}{me 1}{500}{}
+{8}{Eu sei que você está aqui. Nós, anões, temos pouca paciência para esses truques.}{Eu sei que você está aqui. Nós, anões, temos pouca paciência para esses truques.}{}{}{}{}
+{9}{Desculpe, acho que não nos conhecemos...}{}{5}{me 0}{51}{}
+{10}{Olá, Randver. Você tem um momento para conversar...?}{}{5}{me 1}{61}{}
+{11}{E-eh... quem é você?}{}{-4}{me 0}{490}{}
+{12}{Ei, Randy! Você fala comigo?}{}{-4}{me 1}{500}{}
+{13}{Parece que você é versado nos caminhos da magia, mas não precisa de seus disfarces aqui...}{Parece que você é versado nos caminhos da magia, mas não precisa de seus disfarces aqui...}{}{}{}{}
+{14}{Desculpe, acho que não nos conhecemos...}{}{5}{me 0}{51}{}
+{15}{Olá, Randver. Você tem um momento para conversar...?}{}{5}{me 1}{61}{}
+{16}{E-eh... quem é você?}{}{-4}{me 0}{490}{}
+{17}{Ei, Randy! Você fala comigo?}{}{-4}{me 1}{500}{}
+{18}{Parece que você não está muito bem. Esse é o preço de brincar com magia...}{Parece que você não está muito bem. Esse é o preço de brincar com magia...}{}{}{}{}
+{19}{Desculpe, acho que não nos conhecemos...}{}{5}{me 0}{51}{}
+{20}{Olá, Randver. Você tem um momento para conversar...?}{}{5}{me 1}{61}{}
+{21}{E-eh... quem é você?}{}{-4}{me 0}{490}{}
+{22}{Ei, Randy! Você fala comigo?}{}{-4}{me 1}{500}{}
+{23}{Tenho pouca paciência para essa duplicidade. Vamos conversar como homens...}{Tenho pouca paciência para essa duplicidade. Vamos conversar como homens...}{}{}{}{}
+{24}{Desculpe, acho que não nos conhecemos...}{}{5}{me 0}{51}{}
+{25}{Olá, Randver. Você tem um momento para conversar...?}{}{5}{me 1}{61}{}
+{26}{E-eh... quem é você?}{}{-4}{me 0}{490}{}
+{27}{Ei, Randy! Você fala comigo?}{}{-4}{me 1}{500}{}
+{28}{Um homem não é valorizado pelo seu tamanho, mas muitas vezes é desvalorizado por sua magia. Parece que você sabe...}{Um homem não é valorizado pelo seu tamanho, mas muitas vezes é desvalorizado por sua magia. Parece que você sabe...}{}{}{}{}
+{29}{Desculpe, acho que não nos conhecemos...}{}{5}{me 0}{51}{}
+{30}{Olá, Randver. Você tem um momento para conversar...?}{}{5}{me 1}{61}{}
+{31}{E-eh... quem é você?}{}{-4}{me 0}{490}{}
+{32}{Ei, Randy! Você fala comigo?}{}{-4}{me 1}{500}{}
+{33}{Recomendo que você vista algo. A pedra é vida, mas também é fria...}{Recomendo que você vista algo. A pedra é vida, mas também é fria...}{}{}{}{}
+{34}{Desculpe, acho que não nos conhecemos...}{}{5}{me 0}{51}{}
+{35}{Olá, Randver. Você tem um momento para conversar...?}{}{5}{me 1}{61}{}
+{36}{E-eh... quem é você?}{}{-4}{me 0}{490}{}
+{37}{Ei, Randy! Você fala comigo?}{}{-4}{me 1}{500}{}
+{38}{Estranhas vestes você tem aí, viajante. Faz anos que não vejo os adornos de um bárbaro...}{Estranhas vestes você tem aí, viajante. Faz anos que não vejo os adornos de um bárbaro...}{}{}{}{}
+{39}{Desculpe, acho que não nos conhecemos...}{}{5}{me 0}{51}{}
+{40}{Olá, Randver. Você tem um momento para conversar...?}{}{5}{me 1}{61}{}
+{41}{E-eh... quem é você?}{}{-4}{me 0}{490}{}
+{42}{Ei, Randy! Quer falar comigo?}{}{-4}{me 1}{500}{}
+{43}{Saudações, viajante.}{Saudações, viajante.}{}{}{}{}
+{44}{Desculpe, acho que não nos conhecemos...}{}{5}{me 0}{51}{}
+{45}{Olá, Randver. Você tem um momento para conversar...?}{}{5}{me 1}{61}{}
+{46}{E-eh... quem é você?}{}{-4}{me 0}{490}{}
+{47}{Ei, Randy! Quer falar comigo?}{}{-4}{me 1}{500}{}
+{51}{Eu sou Randver Trovão-Pedra, filho de Loghaire Trovão-Pedra. Sou o chefe e Rei-em-Espera de todos os anões, tanto das montanhas quanto das profundezas, nas terras de Arcanum. Seja bem-vindo às cavernas do Clã da Roda.}{Eu sou Randver Trovão-Pedra, filho de Loghaire Trovão-Pedra. Sou o chefe e Rei-em-Espera de todos os anões, tanto das montanhas quanto das profundezas, nas terras de Arcanum. Seja bem-vindo às cavernas do Clã da Roda.}{}{}{}{ru 2041}
+{52}{É um prazer conhecê-lo, Randver. Tenho algumas perguntas...}{}{5}{}{61}{}
+{53}{Prazer em conhecê-lo, mas preciso ir embora...}{}{5}{}{0}{}
+{61}{Claro... do que precisa?}{Claro... do que precisa?}{}{}{}{}
+{62}{Trago notícias de Thorvald Duas-Pedras...}{}{5}{qu1042 2, lf11 1, lf12 0, gf1052 0}{77}{}
+{63}{Você disse que era Rei-em-Espera...?}{}{5}{lf13 0}{99}{lf13 1}
+{64}{Venho com notícias de natureza muito grave...}{}{5}{lf17 0}{109}{lf17 1}
+{65}{Preciso encontrar seu pai. Ele sabe o que está acontecendo aqui...}{}{5}{lf16 0, lf17 1, lf6 0}{127}{}
+{66}{O que aconteceu depois que seu pai partiu?}{}{5}{lf18 0, lf16 1, lf6 0, lf19 0}{160}{}
+{67}{Diga-me novamente onde posso encontrar seu pai.}{}{5}{qu1017 2, lf6 1, lf15 0, lf19 0}{220}{}
+{68}{Diga-me novamente onde posso encontrar seu pai.}{}{5}{qu1017 2, lf6 1, lf14 1, lf15 0, lf19 0}{284}{}
+{69}{Diga-me novamente onde posso encontrar seu pai.}{}{5}{qu1017 2, lf15 1, lf19 0}{224}{}
+{70}{Diga-me novamente onde posso encontrar seu pai.}{}{5}{qu1017 2, lf19 1}{224}{}
+{71}{Encontrei seu pai...}{}{5}{gf2737 1}{575}{}
+{72}{Encontrei seu pai. Ele me deu as informações de que eu precisava.}{}{5}{qu1017 4, gf1050 0}{}{fl  461}
+{73}{Encontrei seu pai. Ele está retornando para governar mais uma vez...}{}{5}{qu1017 4, gf1050 1}{}{fl  462}
+{74}{Tenho algumas perguntas sobre o que me contou até agora...}{}{5}{lf16 1}{467}{}
+{75}{E:}{}{5}{}{0}{}
+{77}{Thorvald! Faz bastante tempo que ele partiu... estávamos pensando em enviar uma expedição de busca. Quer dizer, já se passaram uns 100 anos ou mais... mas, pensando bem, Thorvald sempre foi meio solitário. Que notícias traz sobre ele?}{Thorvald! Faz bastante tempo que ele partiu... estávamos pensando em enviar uma expedição de busca. Quer dizer, já se passaram uns 100 anos ou mais... mas, pensando bem, Thorvald sempre foi meio solitário. Que notícias traz sobre ele?}{}{}{}{}
+{78}{Ele está na Ilha do Desespero... <<<PH1>>>}{}{5}{qu1042 2, gf1049 0}{84}{qu1042 4}
+{79}{Eu o trouxe de volta da Ilha do Desespero... <<<PH1>>>}{}{5}{gf1049 1}{87}{}
+{80}{Eu o trouxe de volta da Ilha do Desespero... <<<PH1>>>}{}{5}{gf1046 1}{90}{}
+{81}{Infelizmente, ele está morto. [Conte-lhe a história.]}{}{5}{gf1052 1}{93}{}
+{82}{Hmm... eu só tinha ouvido rumores de que ele estava desaparecido...}{}{5}{qb1042 1, gf1052 0, gf1046 0, gf1049 0,}{96}{}
+{84}{Agradeço por nos informar. Enviarei uma tropa o mais rápido possível... nós o traremos de volta para casa...}{Agradeço por nos informar. Enviarei uma tropa o mais rápido possível... nós o traremos de volta para casa...}{}{}{}{lf12 1}
+{85}{Que bom saber. Mais uma ou duas coisas...}{}{5}{}{61}{}
+{87}{Muito obrigado por devolvê-lo a nós. Sempre é bom quando um irmão perdido retorna para casa.}{Muito obrigado por devolvê-lo a nós. Sempre é bom quando um irmão perdido retorna para casa.}{}{}{}{lf12 1}
+{88}{Foi um prazer. Mais uma ou duas coisas...}{}{5}{}{61}{}
+{90}{Sim... ele voltou para nós não faz muito tempo e nos contou toda a história. Obrigado por devolvê-lo a nós. Sempre é bom quando um irmão perdido retorna para casa.}{Sim... ele voltou para nós não faz muito tempo e nos contou toda a história. Obrigado por devolvê-lo a nós. Sempre é bom quando um irmão perdido retorna para casa.}{}{}{}{lf12 1}
+{91}{Foi um prazer. Mais uma ou duas coisas...}{}{5}{}{61}{}
+{93}{Uma tragédia. Eu desejaria mais do que qualquer coisa que tivéssemos sabido... nós lamentaremos a perda do nosso irmão...}{Uma tragédia. Eu desejaria mais do que qualquer coisa que tivéssemos sabido... nós lamentaremos a perda do nosso irmão...}{}{}{}{lf12 1}
+{94}{Ele era um anão e tanto. Mais uma ou duas coisas...}{}{5}{}{61}{}
+{96}{Sim... nunca mais ouvimos uma palavra desde que ele partiu. Uma verdadeira vergonha...}{Sim... nunca mais ouvimos uma palavra desde que ele partiu. Uma verdadeira vergonha...}{}{}{}{lf12 1}
+{97}{Tenho certeza... Mais uma ou duas coisas...}{}{5}{}{61}{}
+{99}{Sim. Meu pai está... indisponível, e eu governo em seu lugar. Mas não sou o verdadeiro Rei, e não serei enquanto meu pai viver. Sou apenas um Rei-em-Espera.}{Sim. Meu pai está... indisponível, e eu governo em seu lugar. Mas não sou o verdadeiro Rei, e não serei enquanto meu pai viver. Sou apenas um Rei-em-Espera.}{}{}{}{}
+{100}{Entendo. Preciso de sua ajuda...}{}{5}{}{61}{}
+{109}{Natureza sinistra? Do que está falando?}{Natureza sinistra? Do que está falando?}{}{}{}{}
+{110}{Tenho uma história para contar... [Conte-lhe o que aconteceu.]}{}{5}{}{114}{}
+{114}{[Randver fica em silêncio por algum tempo.] Entendo. E você diz que esteve na Ilha do Desespero para confirmar a história de Gudmund Dobrador de Minério?}{[Randver fica em silêncio por algum tempo.] Entendo. E você diz que esteve na Ilha do Desespero para confirmar a história de Gudmund Dobrador de Minério?}{}{}{}{lf11 1}
+{115}{Sim. Eu estive lá e não havia sinal dos anões da CMB.}{}{5}{}{122}{}
+{116}{Eu estive lá. E trago notícias de Thorvald Duas Pedras...}{}{5}{qu1042 2, lf11 1, lf12 0, gf1052 0}{77}{}
+{117}{E:}{}{5}{}{0}{}
+{122}{Isso me preocupa, meu amigo. Nós recebemos garantias, de Alberich! Garantias! Maldita intromissão... ah, que todos sejam amaldiçoados às profundezas escuras!}{Isso me preocupa, meu amigo. Nós recebemos garantias, de Alberich! Garantias! Maldita intromissão... ah, que todos sejam amaldiçoados às profundezas escuras!}{}{}{}{}
+{123}{Amaldiçoar quem? Os elfos? O que está acontecendo aqui?}{}{5}{}{127}{}
+{124}{E:}{}{5}{}{0}{}
+{127}{Este é um negócio antigo e sombrio... o negócio do meu pai. E, como sou seu herdeiro, cabe a mim consertá-lo. Mas não sei o que fazer! Ele me contou tão pouco...}{Este é um negócio antigo e sombrio... o negócio do meu pai. E, como sou seu herdeiro, cabe a mim consertá-lo. Mas não sei o que fazer! Ele me contou tão pouco...}{}{}{}{}
+{128}{O que aconteceu com seu pai, Randver?}{}{5}{}{134}{}
+{134}{[Visivelmente abalado.] Meu pai! Grande e sólido Loghaire Trovão de Pedra! Rei dos Anões! Você o conhece, forasteiro? As histórias de sua coragem, de sua força, de sua sabedoria? Meu pai, pedra entre pedras... em meio à loucura das Guerras dos Clãs, ele nos uniu sob uma bandeira, sob um Rei, pelo puro poder de sua vontade...}{[Visivelmente abalado.] Meu pai! Grande e sólido Loghaire Trovão de Pedra! Rei dos Anões! Você o conhece, forasteiro? As histórias de sua coragem, de sua força, de sua sabedoria? Meu pai, pedra entre pedras... em meio à loucura das Guerras dos Clãs, ele nos uniu sob uma bandeira, sob um Rei, pelo puro poder de sua vontade...}{}{}{}{}
+{135}{Onde ele está, Randver? O que aconteceu com ele?}{}{5}{}{146}{}
+{136}{As Guerras dos Clãs?}{}{5}{}{138}{}
+{138}{Sim... um tempo triste em nossa história. Por quinhentos anos, houve uma divisão entre os anões. Construímos grandes máquinas de guerra e nos lançamos uns contra os outros, e clãs inteiros foram perdidos nas batalhas. Um tempo sombrio, o tempo da loucura de Lorek. Falamos muito pouco sobre essa época...}{Sim... um tempo triste em nossa história. Por quinhentos anos, houve uma divisão entre os anões. Construímos grandes máquinas de guerra e nos lançamos uns contra os outros, e clãs inteiros foram perdidos nas batalhas. Um tempo sombrio, o tempo da loucura de Lorek. Falamos muito pouco sobre essa época...}{}{}{}{}
+{139}{Quem foi Lorek?}{}{5}{}{142}{}
+{140}{Onde está Loghaire, Randver? O que aconteceu com ele?}{}{5}{}{146}{}
+{142}{Eu disse que não falamos disso com frequência. Essa é uma conversa para outra hora, talvez...}{Eu disse que não falamos disso com frequência. Essa é uma conversa para outra hora, talvez...}{}{}{}{}
+{143}{Onde está Loghaire, Randver? O que aconteceu com ele?}{}{5}{}{146}{}
+{146}{Isso partiu seu coração... aquele coração pesado, de pedra! Ele, que guerreou contra Lorek, o Abjurador, no desfiladeiro de Gorgoth... que, na vitória, queimou Lorek vivo, junto com dez mil de seus seguidores anões. E isso! Isso o quebrou como uma criança sobre as pedras do mundo...}{Isso partiu seu coração... aquele coração pesado, de pedra! Ele, que guerreou contra Lorek, o Abjurador, no desfiladeiro de Gorgoth... que, na vitória, queimou Lorek vivo, junto com dez mil de seus seguidores anões. E isso! Isso o quebrou como uma criança sobre as pedras do mundo...}{}{}{}{}
+{147}{Por favor, Randver. Preciso saber o que aconteceu aqui...}{}{5}{}{152}{}
+{152}{[Randver se acalma.] É como o Dobrador de Minério lhe disse. Meu pai permitiu o banimento de seu próprio povo. Pelos elfos. Ele os viu serem expulsos, ouviu seus gritos, com a dureza nascida de cem gerações dos Trovão de Pedra...}{[Randver se acalma.] É como o Dobrador de Minério lhe disse. Meu pai permitiu o banimento de seu próprio povo. Pelos elfos. Ele os viu serem expulsos, ouviu seus gritos, com a dureza nascida de cem gerações dos Trovão de Pedra...}{}{}{}{}
+{153}{Então, onde ele está?}{}{5}{}{157}{}
+{157}{Meu pai voltou para casa e, de joelhos, gritou por seus irmãos perdidos e tolos. Lágrimas de arrependimento, forasteiro. Arrependimento, vergonha e tristeza. As cavernas tremeram com sua fúria, tremeram com o impacto de suas mãos na pedra nua. Ele rasgou as roupas do corpo e se lançou contra as paredes e o chão, e sua dor foi marcada em sangue...}{Meu pai voltou para casa e, de joelhos, gritou por seus irmãos perdidos e tolos. Lágrimas de arrependimento, forasteiro. Arrependimento, vergonha e tristeza. As cavernas tremeram com sua fúria, tremeram com o impacto de suas mãos na pedra nua. Ele rasgou as roupas do corpo e se lançou contra as paredes e o chão, e sua dor foi marcada em sangue...}{}{}{}{}
+{158}{E depois?}{}{5}{}{160}{lf4 1}
+{160}{Eu já lhe disse. Ele nos deixou... caminhou para as cavernas antigas com nada além de Harrow, o primeiro machado dos Trovão de Pedra. E com essa arma ele desapareceu, exilado por sua própria dor, e deixou o Clã da Roda. Ele nunca voltou.}{Eu já lhe disse. Ele nos deixou... caminhou para as cavernas antigas com nada além de Harrow, o primeiro machado dos Trovão de Pedra. E com essa arma ele desapareceu, exilado por sua própria dor, e deixou o Clã da Roda. Ele nunca voltou.}{}{}{}{lf16 1}
+{161}{Sinto muito. O que os elfos têm a ver com isso?}{}{5}{lf2 0}{170}{lf2 1}
+{162}{Gudmund falou de uma conexão com Gilbert Bates...}{}{5}{lf1 0}{185}{lf1 1}
+{163}{Parece que terei que falar com Loghaire. Onde ele está?}{}{5}{lf1 1, lf2 1, lf3 1,lf4 1}{220}{lf18 1}
+{164}{O que a tecnologia fez aos elfos?}{}{5}{lf2 1, lf3 0}{193}{lf3 1}
+{165}{O que o resto dos clãs disse?}{}{5}{lf5 0}{214}{lf5 1}
+{166}{E:}{}{5}{}{0}{}
+{170}{Os elfos? Foram eles que exigiram o banimento do Clã da Montanha Negra por seus crimes. Mas quanto aos motivos... como eu disse, sei muito pouco. Meu pai nunca me contou os detalhes de suas discussões com eles, apenas que o que havia sido decidido era necessário, e que a responsabilidade seria dele...}{Os elfos? Foram eles que exigiram o banimento do Clã da Montanha Negra por seus crimes. Mas quanto aos motivos... como eu disse, sei muito pouco. Meu pai nunca me contou os detalhes de suas discussões com eles, apenas que o que havia sido decidido era necessário, e que a responsabilidade seria dele...}{}{}{}{ru 2042}
+{171}{Que crimes? O que o Clã da Montanha Negra havia feito?}{}{5}{}{178}{}
+{172}{O que o resto dos clãs disse?}{}{5}{lf5 0}{214}{lf5 1}
+{173}{Quem eram esses elfos?}{}{5}{}{193}{}
+{178}{Tecnologia! Manipulação da força natural, as engrenagens e mecanismos que transformam os homens em deuses! Esta, nossa herança, entregue nas mãos de crianças imprudentes. E a doença se espalhou... e o preço, forasteiro! Oh, o preço sangrento...!}{Tecnologia! Manipulação da força natural, as engrenagens e mecanismos que transformam os homens em deuses! Esta, nossa herança, entregue nas mãos de crianças imprudentes. E a doença se espalhou... e o preço, forasteiro! Oh, o preço sangrento...!}{}{}{}{}
+{179}{Gudmund falou de Gilbert Bates...?}{}{5}{lf1 0}{185}{lf1 1}
+{180}{Quem eram esses elfos?}{}{5}{lf2 1, lf3 0}{193}{lf3 1}
+{181}{Onde está Loghaire? O que aconteceu com ele?}{}{5}{lf4 0}{146}{}
+{182}{Parece que terei que falar com Loghaire. Onde ele está?}{}{5}{lf1 1, lf2 1, lf3 1,lf4 1}{220}{lf18 1}
+{183}{O que o resto dos clãs disse?}{}{5}{lf5 0}{214}{lf5 1}
+{184}{E:}{}{5}{}{0}{}
+{185}{Bates! Foi Bates quem espalhou a tecnologia e sua doença... e quem somos nós para culpá-lo? Humanos! Amaldiçoados pela brevidade, sem paciência, sem discernimento. Passei VIDAS humanas decidindo que tipo de pedra usar em um mural, e veja o que eles fizeram em apenas algumas luas. E com isso, esses elfos vieram até nós, falando de punições...}{Bates! Foi Bates quem espalhou a tecnologia e sua doença... e quem somos nós para culpá-lo? Humanos! Amaldiçoados pela brevidade, sem paciência, sem discernimento. Passei VIDAS humanas decidindo que tipo de pedra usar em um mural, e veja o que eles fizeram em apenas algumas luas. E com isso, esses elfos vieram até nós, falando de punições...}{}{}{}{}
+{186}{Os elfos? Qual foi o papel deles nisso?}{}{5}{lf2 0}{170}{lf2 1}
+{187}{Quem eram esses elfos?}{}{5}{lf2 1, lf3 0}{193}{lf3 1}
+{188}{Onde está Loghaire? O que aconteceu com ele?}{}{5}{lf4 0}{146}{}
+{189}{Parece que terei que falar com Loghaire. Onde ele está?}{}{5}{lf1 1, lf2 1, lf3 1,lf4 1}{220}{lf18 1}
+{190}{O que o resto dos clãs disse?}{}{5}{lf5 0}{214}{lf5 1}
+{191}{E:}{}{5}{}{0}{}
+{193}{Não faço ideia. E não sei por que meu pai achou necessário falar com eles, nem acatar suas exigências. Como Rei, meu pai nunca deveria ter permitido que interferissem, mas, por algum motivo, ele permitiu. Nunca disse uma palavra sobre isso desde então.}{Não faço ideia. E não sei por que meu pai achou necessário falar com eles, nem acatar suas exigências. Como Rei, meu pai nunca deveria ter permitido que interferissem, mas, por algum motivo, ele permitiu. Nunca disse uma palavra sobre isso desde então.}{}{}{}{}
+{194}{E quanto a Gilbert Bates? Que papel ele desempenhou?}{}{5}{lf1 0}{185}{lf1 1}
+{195}{Os elfos? Qual foi o papel deles nisso?}{}{5}{lf2 0}{170}{lf2 1}
+{196}{Parece que terei que falar com Loghaire. Onde ele está?}{}{5}{lf1 1, lf2 1, lf3 1,lf4 1}{146}{lf18 1}
+{197}{Para onde seu pai desapareceu?}{}{5}{lf4 0}{220}{}
+{198}{O que o resto dos clãs disse?}{}{5}{lf5 0}{214}{lf5 1}
+{199}{E:}{}{5}{}{0}{}
+{214}{Os outros clãs nunca souberam que os elfos estavam envolvidos no banimento. Eles só foram informados de que o Clã da Montanha Negra havia sido exilado, punido por seus crimes, e meu pai foi o único presente quando a sentença foi proferida...}{Os outros clãs nunca souberam que os elfos estavam envolvidos no banimento. Eles só foram informados de que o Clã da Montanha Negra havia sido exilado, punido por seus crimes, e meu pai foi o único presente quando a sentença foi proferida...}{}{}{}{}
+{215}{E quanto a Gilbert Bates? Que papel ele desempenhou?}{}{5}{lf1 0}{185}{lf1 1}
+{216}{Os elfos? Qual foi o papel deles nisso?}{}{5}{lf2 0}{170}{lf2 1}
+{217}{Onde está Loghaire? O que aconteceu com ele?}{}{5}{lf4 0}{146}{}
+{218}{Parece que terei que falar com Loghaire. Onde ele está?}{}{5}{lf1 1, lf2 1, lf3 1,lf4 1}{220}{lf18 1}
+{219}{E os elfos que o abordaram? Quem eram eles?}{}{5}{lf2 1, lf3 0}{193}{lf3 1}
+{220}{Eu já lhe disse... ele se exilou. Caminhou para dentro do Abismo e nunca mais voltou...}{Eu já lhe disse... ele se exilou. Caminhou para dentro do Abismo e nunca mais voltou...}{}{}{}{lf6 1}
+{221}{O Abismo? O que é isso, e onde posso encontrá-lo?}{}{5}{}{228}{lf8 1}
+{222}{O que posso esperar encontrar neste... hã... Abismo?}{}{5}{}{234}{lf7 1}
+{224}{Ele está nas profundezas do Abismo... as antigas cavernas de mina do Clã Roda. A entrada fica logo fora das Câmaras Reais, a sudeste.}{Ele está nas profundezas do Abismo... as antigas cavernas de mina do Clã Roda. A entrada fica logo fora das Câmaras Reais, a sudeste.}{}{}{}{}
+{225}{Obrigado. Só mais uma coisa...}{}{5}{}{61}{}
+{228}{O Abismo é um antigo sistema de cavernas - na verdade, uma mina - não muito longe daqui. A entrada fica logo depois da entrada destas câmaras, a sudeste. Lá você encontrará um arco de pedra. Além dele, está o Abismo, para onde meu pai desapareceu...}{O Abismo é um antigo sistema de cavernas - na verdade, uma mina - não muito longe daqui. A entrada fica logo depois da entrada destas câmaras, a sudeste. Lá você encontrará um arco de pedra. Além dele, está o Abismo, para onde meu pai desapareceu...}{}{}{}{}
+{229}{VOCÊ deve saber onde ele está. Posso convencê-lo a me dizer?}{}{5}{lf7 1, lf8 1, ps 8}{244}{}
+{230}{VOCÊ deve saber onde ele está. Posso convencê-lo a me dizer?}{}{5}{lf7 1, lf8 1, ps -7}{241}{}
+{231}{Estou confuso. Por que exatamente seu pai estava tão envergonhado?}{}{5}{lf7 1, lf8 1, lf10 0}{346}{lf10 1, lc1 1}
+{232}{O que posso esperar encontrar neste... hã... Abismo?}{}{5}{lf7 0}{234}{lf7 1}
+{234}{No momento, ele serve apenas para abrigar uma variedade de criaturas repugnantes. Há trilhos de carrinhos de mina e um depósito ocasional. Ninguém mais se aventura lá, então não sei nada além disso...}{No momento, ele serve apenas para abrigar uma variedade de criaturas repugnantes. Há trilhos de carrinhos de mina e um depósito ocasional. Ninguém mais se aventura lá, então não sei nada além disso...}{}{}{}{ru 2043}
+{235}{VOCÊ deve saber onde ele está. Posso convencê-lo a me dizer?}{}{5}{lf7 1, lf8 1, ps 8}{244}{}
+{236}{VOCÊ deve saber onde ele está. Posso convencê-lo a me dizer?}{}{5}{lf7 1, lf8 1, ps -7}{241}{}
+{237}{Estou confuso. Por que exatamente seu pai estava tão envergonhado?}{}{5}{lf7 1, lf8 1, lf10 0}{346}{lf10 1, lc1 2}
+{238}{O que exatamente é o Abismo, e onde eu o encontro?}{}{5}{lf8 0}{228}{lf8 1}
+{241}{Hã... não. Não faço IDEIA de onde ele está. Se está procurando por ele, terá que encontrá-lo sozinho no Abismo. Direi aos guardas de lá para deixá-lo passar. Espero que encontre suas respostas, forasteiro.}{Hã... não. Não faço IDEIA de onde ele está. Se está procurando por ele, terá que encontrá-lo sozinho no Abismo. Direi aos guardas de lá para deixá-lo passar. Espero que encontre suas respostas, forasteiro.}{}{}{}{gf2650 1}
+{242}{Entendo. Então vou agora procurá-lo.}{}{5}{}{571}{lf15 1}
+{244}{Por que pensaria isso? Se um anão quer ficar sozinho, então um anão fica sozinho...}{Por que pensaria isso? Se um anão quer ficar sozinho, então um anão fica sozinho...}{}{}{}{}
+{245}{Você é filho e herdeiro dele. Teria ido procurá-lo...}{}{5}{}{249}{}
+{246}{Estou confuso. Por que exatamente seu pai estava tão envergonhado?}{}{5}{lf10 0}{346}{lf10 1, lc1 3}
+{247}{Estou cansado desses jogos. Vou agora procurá-lo eu mesmo.}{}{5}{}{571}{lf19 1}
+{249}{E por quê? Ele me deixou aqui para governar um reino, e governá-lo eu governarei! Que tipo de filho eu seria se... hã... saísse correndo no escuro procurando por um pai que não se importa...?}{E por quê? Ele me deixou aqui para governar um reino, e governá-lo eu governarei! Que tipo de filho eu seria se... hã... saísse correndo no escuro procurando por um pai que não se importa...?}{}{}{}{}
+{250}{Sua raiva é vazia. Você não precisa protegê-lo de mim.}{}{5}{pe 8}{258}{re +10}
+{251}{E o que ele deixou para você, Randver?}{}{5}{}{264}{}
+{252}{Por favor, esclareça para mim por que ele sentia tanta vergonha de suas ações?}{}{5}{lf10 0}{346}{lf10 1, lc1 4}
+{253}{Não sei e não me importo mais. Agora vou procurá-lo eu mesmo.}{}{5}{}{571}{lf19 1}
+{258}{[Suspiro] Você enxerga mais do que a maioria, meu amigo. Está certo... não guardo ressentimento pelo meu pai. Meu coração se parte a cada dia em que ele está ausente...}{[Suspiro] Você enxerga mais do que a maioria, meu amigo. Está certo... não guardo ressentimento pelo meu pai. Meu coração se parte a cada dia em que ele está ausente...}{}{}{}{}
+{259}{Busco a verdade. Acho que seu pai gostaria disso também.}{}{5}{}{261}{}
+{261}{Acredito em você, estranho. De verdade. Talvez eu consiga lhe indicar a direção certa.}{Acredito em você, estranho. De verdade. Talvez eu consiga lhe indicar a direção certa.}{}{}{}{}
+{262}{Qualquer ajuda que você pudesse dar seria apreciada...}{}{5}{}{280}{}
+{264}{Para mim? Ele deixou um clã em ruínas... seu povo confuso e assustado com as mudanças em nosso mundo, magoado pelo abandono de seu pai de clã e Rei. E cabe a mim... a mim!... mantê-los unidos...}{Para mim? Ele deixou um clã em ruínas... seu povo confuso e assustado com as mudanças em nosso mundo, magoado pelo abandono de seu pai de clã e Rei. E cabe a mim... a mim!... mantê-los unidos...}{}{}{}{}
+{265}{Você fez o seu melhor, Randver. Seu pai ficaria orgulhoso.}{}{5}{}{268}{re +10}
+{266}{Você é um Trovão de Pedra. Comece a agir como um, pelo seu pai...}{}{5}{lf9 0}{299}{lf9 1}
+{268}{Mas sou tão jovem. O respeito do meu povo por mim vem mais do meu nome do que da minha experiência. Ainda assim... "Um punhado de magnetita pesa mais do que um braço cheio de pedra-pomes." Ele ainda me diz isso... hã, quero dizer, ele costumava dizer...}{Mas sou tão jovem. O respeito do meu povo por mim vem mais do meu nome do que da minha experiência. Ainda assim... "Um punhado de magnetita pesa mais do que um braço cheio de pedra-pomes." Ele ainda me diz isso... hã, quero dizer, ele costumava dizer...}{}{}{}{}
+{269}{Eu sabia! Você o viu! Onde ele está?}{}{5}{}{288}{re -5}
+{270}{Ele parece um homem muito sábio. Espero um dia conhecê-lo...}{}{5}{}{273}{}
+{271}{Hmmm. Ainda não tenho certeza do porquê ele sentia tanta vergonha...}{}{5}{lf10 0}{346}{lf10 1, lc1 5}
+{273}{Acredito que ele apreciaria sua companhia. Meu pai é um homem da verdade e respeita homens talhados da mesma pedra...}{Acredito que ele apreciaria sua companhia. Meu pai é um homem da verdade e respeita homens talhados da mesma pedra...}{}{}{}{}
+{274}{Tenho certeza. Por que exatamente ele sentia tanta vergonha?}{}{5}{lf10 0}{346}{lf10 1, lc1 6}
+{275}{Obrigado. Acho que é melhor eu ir... preciso tentar encontrá-lo.}{}{5}{}{277}{}
+{277}{Não, espere!...}{Não, espere!...}{}{}{}{}
+{278}{Pois não?}{}{5}{}{280}{}
+{280}{Devo admitir... você está certo. Eu o vejo, quase todos os dias, embora ele fale muito pouco. Ele vive nas profundezas do Dredge, mas tenho um caminho secreto pelo qual viajo, e nele você não encontrará problemas. Basta entrar aqui... há um passagem secreta sob o trono. Confio em você, estranho. Encontre suas respostas. Faça o que é certo. Rezo para que ele lhe diga o que precisa saber...}{Devo admitir... você está certo. Eu o vejo, quase todos os dias, embora ele fale muito pouco. Ele vive nas profundezas do Dredge, mas tenho um caminho secreto pelo qual viajo, e nele você não encontrará problemas. Basta entrar aqui... há um passagem secreta sob o trono. Confio em você, estranho. Encontre suas respostas. Faça o que é certo. Rezo para que ele lhe diga o que precisa saber...}{}{}{}{lf14 1, gf1056 1, ru 2045}
+{281}{Certamente tentarei. Obrigado pela sua ajuda, Randver.}{}{5}{}{-9}{}
+{284}{Ele está nas Minas Abandonadas... mas como eu lhe disse, há um passagem secreta que o levará direto até ele. Fica no chão do meu quarto...}{Ele está nas Minas Abandonadas... mas como eu lhe disse, há um passagem secreta que o levará direto até ele. Fica no chão do meu quarto...}{}{}{}{}
+{285}{Obrigado. Só mais uma coisa...}{}{5}{}{61}{}
+{286}{Vou até ele agora mesmo...}{}{5}{}{0}{}
+{288}{O-quê? Está me chamando de mentiroso? Estou cansado de falar, forasteiro. Desejo-lhe boa sorte, mas não posso lhe dar mais nada...}{O-quê? Está me chamando de mentiroso? Estou cansado de falar, forasteiro. Desejo-lhe boa sorte, mas não posso lhe dar mais nada...}{}{}{}{}
+{289}{Claro que não. Só estou tentando descobrir a verdade...}{}{5}{}{293}{re +5}
+{290}{Seu pai não aprovaria essa atitude, Randver...}{}{5}{lf9 0}{299}{lf9 1, re -10}
+{291}{Lamento que pense assim. Vou agora procurar seu pai...}{}{5}{}{571}{lf19 1}
+{293}{Sério? Os riscos são muito altos neste jogo que jogamos... como posso saber a base sobre a qual repousa sua alma?}{Sério? Os riscos são muito altos neste jogo que jogamos... como posso saber a base sobre a qual repousa sua alma?}{}{}{}{}
+{294}{Confie em seus sentimentos. Procuro lançar luz sobre tudo isso...}{}{5}{}{261}{re +5}
+{295}{Tenha cuidado. Já vimos UMA VEZ os frutos de um julgamento imprudente...}{}{5}{lf9 1}{309}{re -10}
+{296}{Parece que sofre da mesma covardia que seu pai...}{}{5}{lf9 0}{299}{lf9 1, re -10}
+{297}{Suponho que não possa. Deixo-o para ir encontrá-lo.}{}{5}{}{571}{lf19 1}
+{299}{NUNCA fale da minha família, da minha honra ou do meu pai! Eu o esmagaria tão rápido quanto ouvir outra palavra tola sua!}{NUNCA fale da minha família, da minha honra ou do meu pai! Eu o esmagaria tão rápido quanto ouvir outra palavra tola sua!}{}{}{}{}
+{300}{Perdoe-me, só quero fazer o que é certo...}{}{5}{}{304}{re +5}
+{301}{Suas ameaças são vazias, Rei-em-Espera. Não me pressione...}{}{5}{}{312}{re -10}
+{302}{Talvez eu tenha ido longe demais. Vou procurá-lo sozinho.}{}{5}{}{571}{lf19 1}
+{304}{É mesmo? Como posso ter certeza? Está falando do meu pai... do meu povo! Tanta coisa está em jogo! Como posso saber?}{É mesmo? Como posso ter certeza? Está falando do meu pai... do meu povo! Tanta coisa está em jogo! Como posso saber?}{}{}{}{}
+{305}{Confie em seus sentimentos. Procuro lançar luz sobre tudo isso...}{}{5}{}{261}{re +5}
+{306}{Tenha cuidado. Já vimos UMA VEZ os frutos de um julgamento imprudente...}{}{5}{lf9 1}{309}{re -10}
+{307}{Suponho que não possa. Deixo-o para ir encontrar Loghaire.}{}{5}{}{571}{lf19 1}
+{309}{Acredito que ouvi o suficiente de suas palavras. Saia, forasteiro... deixo-o para encontrar meu pai sozinho.}{Acredito que ouvi o suficiente de suas palavras. Saia, forasteiro... deixo-o para encontrar meu pai sozinho.}{}{}{}{gf2650 1}
+{310}{Vou me despedir, então. Vou procurar seu pai.}{}{5}{}{0}{lf19 1}
+{312}{Ameace-me de novo, forasteiro, e juro pelo meu nome que seu sangue correrá.}{Ameace-me de novo, forasteiro, e juro pelo meu nome que seu sangue correrá.}{}{}{}{}
+{313}{Entendo. Talvez seja melhor eu ir embora. Adeus.}{}{5}{}{0}{}
+{314}{Eu o desafio, Blunder Stone. Prepare-se para morrer.}{}{5}{}{}{co, fl 316}
+{316}{Insolente forasteiro! Pagará com a vida!}{Insolente forasteiro! Pagará com a vida!}{}{}{}{}
+{321}{Discordo. Acho que seria melhor retomarmos nossa discussão anterior...}{Discordo. Acho que seria melhor retomarmos nossa discussão anterior...}{}{}{}{}
+{322}{VOCÊ deve saber onde ele está. Posso convencê-lo a me contar?}{}{5}{lf7 1, lf8 1, ps 8, lc1 1}{244}{}
+{323}{VOCÊ deve saber onde ele está. Posso convencê-lo a me contar?}{}{5}{lf7 1, lf8 1, ps -7, lc1 1}{241}{}
+{324}{O que posso esperar encontrar neste... hum... Dredge?}{}{5}{lf7 0, lc1 1}{234}{lf7 1}
+{325}{VOCÊ deve saber onde ele está. Posso convencê-lo a me contar?}{}{5}{lf7 1, lf8 1, ps 8, lc1 2}{244}{}
+{326}{VOCÊ deve saber onde ele está. Posso convencê-lo a me contar?}{}{5}{lf7 1, lf8 1, ps -7, lc1 2}{241}{}
+{327}{O que exatamente é o Dredge, e onde posso encontrá-lo?}{}{5}{lf8 0, lc1 2}{228}{lf8 1}
+{328}{Certo... você é filho dele. Teria ido procurá-lo...}{}{5}{lc1 3}{249}{}
+{329}{Certo. Mas sinto que sua raiva pelo seu pai é vazia...}{}{5}{pe 8, lc1 4}{258}{re +10}
+{330}{Tudo bem. O que seu pai deixou para você, Randver?}{}{5}{lc1 4}{264}{}
+{331}{Tudo bem! Mas seu jeito o entrega! Você o viu...!}{}{5}{lc1 5}{288}{}
+{332}{Loghaire parece um homem muito sábio. Espero um dia conhecê-lo...}{}{5}{lc1 5}{273}{}
+{333}{Entendo. Acho melhor eu ir embora... Preciso tentar encontrá-lo.}{}{5}{lc1 6}{277}{}
+{346}{Essa é uma discussão complicada, amigo. Uma muito longa que não tenho certeza se você conseguiria entender completamente...}{Essa é uma discussão complicada, amigo. Uma que não tenho certeza se você conseguiria entender completamente...}{}{}{}{}
+{347}{Acredito que minhas capacidades mentais estão à altura da tarefa...}{}{10}{}{351}{}
+{348}{Acredito que minhas capacidades mentais estão à altura da tarefa...}{}{-9}{}{321}{}
+{349}{Talvez você esteja certo... vamos continuar nossa discussão anterior...}{}{5}{}{444}{}
+{351}{Hmm. Talvez você esteja correto. Certo. As razões do meu pai para partir estão ligadas a uma tradição ancestral... na opinião dele, não tinha outra opção senão deixar seu clã. Ele apenas fez o que acreditava ser sua única escolha...}{Hmm. Talvez você esteja correto. Certo. As razões do meu pai para partir estão ligadas a uma tradição ancestral... na opinião dele, não tinha outra opção senão deixar seu clã. Ele apenas fez o que acreditava ser sua única escolha...}{}{}{}{}
+{352}{Você falou das tradições anãs... de quais está falando?}{}{5}{}{360}{}
+{353}{Você disse "na opinião dele...". Discorda da escolha dele?}{}{5}{}{355}{}
+{355}{Talvez você deva perguntar isso mais tarde, depois de ouvir o que tenho a dizer...}{Talvez você deva perguntar isso mais tarde, depois de ouvir o que tenho a dizer...}{}{}{}{}
+{356}{Claro... por favor, continue. Você estava falando sobre tradição?}{}{5}{}{360}{}
+{360}{Talvez 'tradição' não seja a palavra certa. 'Filosofia' pode ser melhor, embora nós, anões, raramente nos consideremos filósofos. Uma filosofia, como a maioria a conhece, implica uma certa dose de opinião subjetiva e uma abertura particular para outras linhas de pensamento. O que eu falo é diferente...}{Talvez 'tradição' não seja a palavra certa. 'Filosofia' pode ser melhor, embora nós, anões, raramente nos consideremos filósofos. Uma filosofia, como a maioria a conhece, implica uma certa dose de opinião subjetiva e uma abertura particular para outras linhas de pensamento. O que eu falo é diferente...}{}{}{}{}
+{361}{Não existem filósofos anões?}{}{5}{}{364}{}
+{362}{Ao que exatamente você está se referindo?}{}{5}{}{367}{}
+{364}{Já houve o que você poderia considerar filósofos. Você se lembra de antes, quando falei de Lorek, o Abjurador, e das Guerras dos Clãs? Lorek era o que você chamaria de filósofo. Infelizmente, suas visões eram terrivelmente, terrivelmente distorcidas. Pergunte-me sobre ele mais tarde...}{Já houve o que você poderia considerar filósofos. Você se lembra de antes, quando falei de Lorek, o Abjurador, e das Guerras dos Clãs? Lorek era o que você chamaria de filósofo. Infelizmente, suas visões eram terrivelmente, terrivelmente distorcidas. Pergunte-me sobre ele mais tarde...}{}{}{}{}
+{365}{Vou perguntar. Sobre o que você estava falando antes...?}{}{5}{}{367}{}
+{367}{Estou falando da essência das almas anãs, dos princípios pelos quais vivemos, de nossa fibra moral... embora a moralidade não tenha parte nisso. Não a moralidade como a maioria a conhece. O que eu falo, amigo, é o que se conhece como a Pedra e a Forma...}{Estou falando da essência das almas anãs, dos princípios pelos quais vivemos, de nossa fibra moral... embora a moralidade não tenha parte nisso. Não a moralidade como a maioria a conhece. O que eu falo, amigo, é o que se conhece como a Pedra e a Forma...}{}{}{}{}
+{368}{Continue, por favor...}{}{5}{}{375}{}
+{369}{Espere... o que você quer dizer com a moralidade não ter parte nisso...?}{}{5}{}{371}{}
+{371}{A moralidade, em seu nível mais básico, pressupõe uma escolha, meu amigo. Viver por um código 'moral' significa que existe, inherentemente, um código 'imoral'. Esses não são termos que empregamos em discussões sobre os intangíveis anões. Se você entende isso, o resto fica mais fácil. Como eu disse antes, nos referimos ao que é conhecido como a Pedra e a Forma...}{A moralidade, em seu nível mais básico, pressupõe uma escolha, meu amigo. Viver por um código 'moral' significa que existe, inherentemente, um código 'imoral'. Esses não são termos que empregamos em discussões sobre os intangíveis anões. Se você entende isso, o resto fica mais fácil. Como eu disse antes, nos referimos ao que é conhecido como a Pedra e a Forma...}{}{}{}{}
+{372}{Obrigado por esclarecer isso. Por favor, continue...}{}{5}{}{375}{}
+{373}{Estou cansado disso. Vamos continuar nossa discussão anterior...}{}{5}{}{444}{}
+{375}{Ser um Anão... o que isso significa? Nosso caráter é definido pela imutabilidade, pela solidez da pedra. Nós, anões, não vemos a alma como algo efêmero ou transitório... mas tão enraizada nesta realidade quanto as montanhas das quais esculpimos nossos lares... você entende?}{Ser um Anão... o que isso significa? Nosso caráter é definido pela imutabilidade, pela solidez da pedra. Nós, anões, não vemos a alma como algo efêmero ou transitório... mas tão enraizada nesta realidade quanto as montanhas das quais esculpimos nossos lares... você entende?}{}{}{}{}
+{376}{Claramente... você está falando da comunalidade anã...?}{}{5}{}{382}{}
+{377}{Acho que sim, mas poderia explicar um pouco mais...?}{}{5}{}{379}{}
+{379}{Veja esta montanha... a visão dela no horizonte pode incendiar nossos corações, e com gritos roucos e sufocados por lágrimas saudaremos ou nos despediremos. Mas viver dentro dela! Sentir seu movimento e acomodação, suas rachaduras, veias cheias com o sangue de ouro e prata... e ela é tanto dura quanto generosa, e nos regozijamos em ambas porque somos Anões.}{Veja esta montanha... a visão dela no horizonte pode incendiar nossos corações, e com gritos roucos e sufocados por lágrimas saudaremos ou nos despediremos. Mas viver dentro dela! Sentir seu movimento e acomodação, suas rachaduras, veias cheias com o sangue de ouro e prata... e ela é tanto dura quanto generosa, e nos regozijamos em ambas porque somos Anões.}{}{}{}{}
+{380}{Traços comuns dos anões, sim... mas há mais?}{}{5}{}{382}{}
+{382}{Sim!... Falo tanto metaforicamente quanto literalmente... somos anões, e há muito em nós que é como a pedra. Não nos sentimos mais em casa do que quando ela nos cerca, e ela nos traz o rugido dos grandes fluxos de magma, ou o lento lamento dos rios oceânicos subterrâneos, ou, quando tudo está quieto, sussurros das montanhas tão antigos que até as estrelas eram jovens quando foram ditos pela primeira vez...}{Sim... falo tanto metaforicamente quanto literalmente... somos anões, e há muito em nós que é como a pedra. Não nos sentimos mais em casa do que quando ela nos cerca, e ela nos traz o rugido dos grandes fluxos de magma, ou o lento lamento dos rios oceânicos subterrâneos, ou, quando tudo está quieto, sussurros das montanhas tão antigos que até as estrelas eram jovens quando foram ditos pela primeira vez...}{}{}{}{}
+{383}{E então...}{}{5}{}{385}{}
+{385}{E então... entender isso é entender uma parte do que nos torna anões... esses amores são imutáveis e inalteráveis, e assim somos como a Pedra.}{E então... entender isso é entender uma parte do que nos torna anões... esses amores são imutáveis e inalteráveis, e assim somos como a Pedra.}{}{}{}{}
+{386}{Você está dizendo que todos os anões são iguais?}{}{5}{}{390}{}
+{387}{Entendo. Mas e a Forma?}{}{5}{}{397}{}
+{388}{Estou cansado disso. Vamos continuar nossa discussão anterior...}{}{5}{}{444}{}
+{390}{Claro que não. Existem muitos tipos de pedra. O que eu falo é daquilo de que todos nós somos talhados, não da forma que assumimos depois. Isso, meu amigo, é o que se conhece como a Forma. É muito importante entender a diferença...entende?}{Claro que não. Existem muitos tipos de pedra. O que eu falo é daquilo de que todos nós somos talhados, não da forma que assumimos depois. Isso, meu amigo, é o que se conhece como a Forma. É muito importante entender a diferença...entende?}{}{}{}{}
+{391}{Sim... por favor, conte-me mais...}{}{5}{}{397}{}
+{392}{Ainda estou um pouco confuso... poderia deixar mais claro?}{}{5}{}{394}{}
+{394}{Quando falo da Pedra, estou me referindo às coisas imutáveis e inegáveis que nos fazem anões. Para fazer uma comparação... a pedra é pedra por causa de propriedades físicas e minerais comuns. Eu digo que a alma dos anões é a mesma...}{Quando falo da Pedra, estou me referindo às coisas imutáveis e inegáveis que nos fazem anões. Para fazer uma comparação... a pedra é pedra por causa de propriedades físicas e minerais comuns. Eu digo que a alma dos anões é a mesma...}{}{}{}{}
+{395}{Obrigado. E a Forma?}{}{5}{}{397}{}
+{397}{A Forma é o que NOS FORMA, o que define nosso ser, nosso propósito e as coisas que dizemos e fazemos. Assim como existem muitos tipos de pedra, também existem muitas formas. Granito para tijolos, xisto para pedras de amolar, mármore para estátuas e cristal para o frágil e o preciso.}{A Forma é o que NOS FORMA, o que define nosso ser, nosso propósito e as coisas que dizemos e fazemos. Assim como existem muitos tipos de pedra, também existem muitas formas. Granito para tijolos, xisto para pedras de amolar, mármore para estátuas e cristal para o frágil e o preciso.}{}{}{}{}
+{398}{Espere... é a Forma que define o que a Pedra se torna?}{}{5}{}{409}{}
+{399}{Poderia elaborar um pouco mais, por favor...}{}{5}{}{402}{}
+{400}{Já ouvi o suficiente. Quanto ao que estávamos discutindo antes...}{}{5}{}{444}{}
+{402}{Como posso deixar isso mais claro para você?... uma pedra revela o que já está dentro dela, e assim nós, como Anões, olhamos para dentro e vemos o que devemos nos tornar.}{Como posso deixar isso mais claro para você?... uma pedra revela o que já está dentro dela, e assim nós, como Anões, olhamos para dentro e vemos o que devemos nos tornar.}{}{}{}{}
+{403}{Então, simbolicamente, 'quartzo' seria a Forma de uma Pedra...}{}{5}{}{406}{}
+{404}{Espere... é a Forma que define o que a Pedra se torna?}{}{5}{}{409}{}
+{406}{'Quartzo' não é a Forma, mas sua Forma está ligada a ele ser quartzo... tanto o alabastro quanto o mármore são pedra, mas as Formas que podem se tornar são vastamente diferentes... não é difícil de entender, mas é importante...}{'Quartzo' não é a Forma, mas sua Forma está ligada a ele ser quartzo... tanto o alabastro quanto o mármore são pedra, mas as Formas que podem se tornar são vastamente diferentes... não é difícil de entender, mas é importante...}{}{}{}{}
+{407}{Entendo. E a Forma define o que a Pedra se torna...?}{}{5}{}{409}{}
+{409}{Este é o conceito mais importante. Um não pode existir sem o outro. Até certo ponto, a Forma define o que a Pedra se torna... o sílex faz um bom bastão de percussão... mas o inverso também é verdadeiro... você não pode fazer um bom bastão de percussão sem sílex. A Forma surge da Pedra, mas a Pedra depende da Forma... entende?}{Este é o conceito mais importante. Um não pode existir sem o outro. Até certo ponto, a Forma define o que a Pedra se torna... o sílex faz um bom bastão de percussão... mas o inverso também é verdadeiro... você não pode fazer um bom bastão de percussão sem sílex. A Forma surge da Pedra, mas a Pedra depende da Forma... entende?}{}{}{}{}
+{410}{Quero ter certeza de que entendi isso...}{}{5}{}{412}{}
+{412}{Talvez seja explicado da forma mais simples assim. Assim como a ardósia lasca e trinca sob o cinzel do escultor, assim também um anão que não conhece seu propósito, não conhece sua Forma.}{Talvez seja explicado da forma mais simples assim. Assim como a ardósia lasca e trinca sob o cinzel do escultor, assim também um anão que não conhece seu propósito, não conhece sua Forma.}{}{}{}{}
+{413}{Entendo. Interessante. Então, em termos do seu pai...}{}{5}{}{428}{}
+{414}{Então... Pedra e Forma definem sua "moralidade"...}{}{5}{}{418}{}
+{415}{Parece que o Destino está desempenhando um papel muito grande aqui...}{}{5}{}{423}{}
+{416}{Estou cansado disso. Gostaria de voltar à nossa discussão anterior...}{}{5}{}{444}{}
+{418}{Exatamente... você parece entender isso muito bem. A moralidade anã... as escolhas que fazemos... no nível mais básico, é definida por sermos anões. Ética no trabalho, amor pela família, respeito pela sabedoria... essas são nossa moralidade. Não as vemos como escolhas, porque, como anões, é simplesmente ser quem somos. A Pedra é a existência dessas coisas... a Forma é sua expressão.}{Exatamente... você parece entender isso muito bem. A moralidade anã... as escolhas que fazemos... no nível mais básico, é definida por sermos anões. Ética no trabalho, amor pela família, respeito pela sabedoria... essas são nossa moralidade. Não as vemos como escolhas, porque, como anões, é simplesmente ser quem somos. A Pedra é a existência dessas coisas... a Forma é sua expressão.}{}{}{}{}
+{419}{Entendo. Mas o Destino parece estar desempenhando um papel muito grande aqui...}{}{5}{}{423}{}
+{420}{Então, Pedra e Forma, em relação ao seu pai...}{}{5}{}{428}{}
+{423}{Se o que você quer dizer é que somos "destinados" desde o nascimento a ser um tipo específico de pessoa, você está incorreto, embora eu possa ver de onde tiraria essa conexão. Eu disse apenas que sua Forma deve ser fiel à sua Pedra. O uso da palavra "destino" pressupõe uma linha única e inalterável. O propósito dos Anões é uma sala com muitas portas...}{Se o que você quer dizer é que somos "destinados" desde o nascimento a ser um tipo específico de pessoa, você está incorreto, embora eu possa ver de onde tiraria essa conexão. Eu disse apenas que sua Forma deve ser fiel à sua Pedra. O uso da palavra "destino" pressupõe uma linha única e inalterável. O propósito dos Anões é uma sala com muitas portas...}{}{}{}{}
+{424}{Então, Pedra e Forma, em relação ao seu pai...}{}{5}{}{428}{}
+{425}{Portanto, Pedra e Forma definem sua "moralidade"...}{}{5}{}{418}{}
+{426}{Estou cansado disso. Gostaria de voltar à nossa discussão anterior...}{}{5}{}{444}{}
+{428}{Meu pai nos deixou porque sentiu que havia traído tanto sua Pedra quanto sua Forma. Ele sentiu que permitir que os elfos banissem seus irmãos foi uma traição à sua Pedra. O mesmo ato também foi uma traição à sua Forma, sendo Rei dos Anões. Sem nenhuma das duas, ele estava vazio.}{Meu pai nos deixou porque sentiu que havia traído tanto sua Pedra quanto sua Forma. Ele sentiu que permitir que os elfos banissem seus irmãos foi uma traição à sua Pedra. O mesmo ato também foi uma traição à sua Forma, sendo Rei dos Anões. Sem nenhuma das duas, ele estava vazio.}{}{}{}{}
+{429}{E qual é a sua opinião, Randver? Foi uma traição?}{}{5}{}{438}{}
+{430}{E quanto a Lorek, o Abjurador?}{}{5}{}{432}{gf1063 1}
+{432}{Lorek era um anão que havia traído sua Pedra... ele acreditava que seu clã era superior aos de outros anões, e por isso apenas eles eram dignos de governar. Quem se opunha a ele era morto. Suas palavras eram más, mas ele as proferia bem. Muitos anões o seguiram, e muitos mais morreram por causa disso.}{Lorek era um anão que havia traído sua Pedra... ele acreditava que seu clã era superior aos de outros anões, e por isso apenas eles eram dignos de governar. Quem se opunha a ele era morto. Suas palavras eram más, mas ele as proferia bem. Muitos anões o seguiram, e muitos mais morreram por causa disso.}{}{}{}{}
+{433}{A Pedra de Lorek era falha... sua Forma não poderia ser diferente...}{}{5}{}{435}{}
+{435}{Bem dito, meu amigo. Você tem sabedoria além dos seus anos...}{Bem dito, meu amigo. Você tem sabedoria além dos seus anos...}{}{}{}{}
+{436}{E sua opinião sobre a escolha do seu pai?}{}{5}{}{438}{}
+{438}{Há momentos, meu amigo, em que as escolhas que somos forçados a fazer não podem ser fiéis tanto à Forma quanto à Pedra. Pensei muito sobre o assunto... não tenho as respostas. Mas sei que meu pai é um anão entre anões. Há um ditado entre nós... "Pese sua própria Pedra." Não cabe a mim decidir...}{Há momentos, meu amigo, em que as escolhas que somos forçados a fazer não podem ser fiéis tanto à Forma quanto à Pedra. Pensei muito sobre o assunto... não tenho as respostas. Mas sei que meu pai é um anão entre anões. Há um ditado entre nós... "Pese sua própria Pedra." Não cabe a mim decidir...}{}{}{}{}
+{439}{Obrigado, Randver. Sinto que compreendo melhor seu pai...}{}{5}{}{441}{}
+{441}{Não, obrigado a você, meu amigo. Poucos são os forasteiros que sequer se importariam em perguntar. É bom que eu tenha compartilhado essas coisas com você hoje...}{Não, obrigado a você, meu amigo. Poucos são os forasteiros que sequer se importariam em perguntar. É bom que eu tenha compartilhado essas coisas com você hoje...}{}{}{}{gf1051 1, ru 2044}
+{442}{Podemos continuar nossa discussão anterior?}{}{6}{}{444}{}
+{444}{Certamente... onde estávamos?}{Certamente... onde estávamos?}{}{}{}{}
+{445}{Com certeza VOCÊ deve ter alguma ideia sobre o paradeiro dele?}{}{5}{lf7 1, lf8 1, ps 8, lc1 1}{244}{}
+{446}{Com certeza VOCÊ deve ter alguma ideia sobre o paradeiro dele?}{}{5}{lf7 1, lf8 1, ps -7, lc1 1}{241}{}
+{447}{O que posso esperar encontrar neste... uh... <<<PH1>>>?}{}{5}{lf7 0, lc1 1}{234}{lf7 1}
+{448}{Com certeza VOCÊ deve ter alguma ideia sobre o paradeiro dele?}{}{5}{lf7 1, lf8 1, ps 8, lc1 2}{244}{}
+{449}{Com certeza VOCÊ deve ter alguma ideia sobre o paradeiro dele?}{}{5}{lf7 1, lf8 1, ps -7, lc1 2}{241}{}
+{450}{O que exatamente é o Dredge, e onde posso encontrá-lo?}{}{5}{lf8 0, lc1 2}{228}{lf8 1}
+{451}{Você é filho dele. Presumi que teria ido procurá-lo...}{}{5}{lc1 3}{249}{}
+{452}{Sinto que sua raiva pelo seu pai é vazia, Randver...}{}{5}{pe 8, lc1 4}{258}{re +10}
+{453}{O que seu pai deixou para você, Randver?}{}{5}{lc1 4}{264}{}
+{454}{Suas palavras me dizem que você o vê com frequência. Agora, onde ele está?}{}{5}{lc1 5}{288}{}
+{455}{Loghaire parece um homem muito sábio. Espero um dia conhecê-lo...}{}{5}{lc1 5}{273}{}
+{456}{Acho que é melhor eu ir... Preciso tentar encontrar seu pai.}{}{5}{lc1 6}{277}{}
+{460}{Desejo-lhe boa sorte em encontrá-lo, meu amigo...}{Desejo-lhe boa sorte em encontrá-lo, meu amigo...}{}{}{}{}
+{461}{Fico muito feliz. Boa sorte em sua missão. Espero que encontre a verdade...}{Fico muito feliz. Boa sorte em sua missão. Espero que encontre a verdade...}{}{}{}{}
+{462}{Os anões estão para sempre em dívida com você. Muito obrigado pela sua ajuda, e que os deuses lhe acompanhem em sua missão...}{Os anões estão para sempre em dívida com você. Muito obrigado pela sua ajuda, e que os deuses lhe acompanhem em sua missão...}{}{}{}{}
+{467}{Sobre o que você não está claro?}{Sobre o que você não está claro?}{}{}{}{}
+{468}{Conte-me sobre quando seu pai partiu...}{}{5}{lf16 1}{477}{}
+{469}{E quanto aos motivos por trás do banimento do CMM?}{}{5}{lf18 1}{481}{}
+{470}{Nada, por enquanto. Mais algumas perguntas gerais...}{}{5}{}{61}{}
+{477}{Certo. Você sabe que o Clã da Montanha Negra foi banido, e sabe que os elfos estiveram envolvidos. Quando retornamos do banimento, a vergonha de meu pai pelo incidente o levou ao exílio...}{Certo. Você sabe que o Clã da Montanha Negra foi banido, e sabe que os elfos estiveram envolvidos. Quando retornamos do banimento, a vergonha de meu pai pelo incidente o levou ao exílio...}{}{}{}{}
+{478}{Obrigado... mais algumas perguntas gerais...}{}{5}{}{61}{}
+{479}{Talvez eu precise de esclarecimentos sobre outro assunto...}{}{5}{}{467}{}
+{481}{O Clã da Montanha Negra havia mostrado a Gilbert Bates alguns dos segredos da tecnologia. Por causa disso, a tecnologia se espalhou a uma taxa alarmante por todo o Arcanum, e não muito depois, alguns elfos procuraram meu pai, exigindo retribuição. Quem eram esses elfos, eu não sei. A punição foi o banimento do Clã da Montanha Negra, que meu pai aprovou.}{O Clã da Montanha Negra havia mostrado a Gilbert Bates alguns dos segredos da tecnologia. Por causa disso, a tecnologia se espalhou a uma taxa alarmante por todo o Arcanum, e não muito depois, alguns elfos procuraram meu pai, exigindo retribuição. Quem eram esses elfos, eu não sei. A punição foi o banimento do Clã da Montanha Negra, que meu pai aprovou.}{}{}{}{}
+{482}{Obrigado... mais algumas perguntas gerais...}{}{5}{}{61}{}
+{483}{Talvez eu precise de esclarecimentos sobre outro assunto...}{}{5}{}{467}{}
+{490}{Eu sou Randver Pedra do Trovão, filho de Loghaire Pedra do Trovão. Sou o chefe e Rei-em-Espera de todos os anões, tanto os das montanhas quanto os subterrâneos, nas terras de Arcanum. Bem-vindo às cavernas do Clã da Roda. Você parece um pouco... hã... simples, meu amigo?}{Eu sou Randver Pedra do Trovão, filho de Loghaire Pedra do Trovão. Sou o chefe e Rei-em-Espera de todos os anões, tanto os das montanhas quanto os subterrâneos, nas terras de Arcanum. Bem-vindo às cavernas do Clã da Roda. Você parece um pouco... hã... simples, meu amigo?}{}{}{}{ru 2041}
+{491}{Simples...? Hã, sim! Tenho perguntas, Randy!}{}{-4}{}{500}{}
+{492}{Hã... eu ir.}{}{-4}{}{0}{}
+{500}{Certamente... como posso ajudá-lo?}{Certamente... como posso ajudá-lo?}{}{}{}{}
+{501}{Thors careca duas pedras preso no desespero!}{}{-4}{qu1042 2, lf21 0, gf1052 0}{509}{lf21 1}
+{502}{Tenho más notícias!}{}{-4}{lf23 0, lf24 0, lf25 0}{515}{}
+{503}{Você sabe onde eu encontro Logare, Randy?}{}{-4}{lf23 1, lf24 1, lf25 1}{531}{}
+{504}{Eu encontrei Logare!}{}{-4}{gf3737 1}{575}{}
+{505}{Eu encontrei Logare. Ele me contou umas coisas!}{}{-4}{qu1017 4, gf2737 0}{}{fl 541}
+{506}{Tenho que ir.}{}{-4}{}{0}{}
+{509}{Thors careca duas... o quê? Espere! Você quer dizer Thorvald Duas-Pedras?}{Thors careca duas... o quê? Espere! Você quer dizer Thorvald Duas-Pedras?}{}{}{}{}
+{510}{Sim! Sim! Preso no desespero!}{}{-4}{}{512}{}
+{512}{Entendo! Ele está preso na Ilha do Desespero! Faz bastante tempo que ele se foi... não é à toa que não tivemos notícias dele! Vamos enviar um destacamento para resgatá-lo imediatamente! Obrigado pela informação...}{Entendo! Ele está preso na Ilha do Desespero! Faz bastante tempo que ele se foi... não é à toa que não tivemos notícias dele! Vamos enviar um destacamento para resgatá-lo imediatamente! Obrigado pela informação...}{}{}{}{qu1042 4}
+{513}{Claro, Randy! Tem mais perguntas...}{}{-4}{}{500}{}
+{515}{Más notícias, você diz? O que é, meu simples amigo?}{Más notícias, você diz? O que é, meu simples amigo?}{}{}{}{}
+{516}{Eu sei de umas coisas... [Conte a ele o que você sabe.]}{}{-4}{}{518}{}
+{518}{Entendo. Esta é uma situação muito grave, e uma que só é plenamente conhecida pelo meu pai. Ele nunca me contou os detalhes por trás do banimento do CMM...}{Entendo. Esta é uma situação muito grave, e uma que só é plenamente conhecida pelo meu pai. Ele nunca me contou os detalhes por trás do banimento do CMM...}{}{}{}{lf20 1}
+{519}{Hã... eu falo com ele! Onde está Logare?}{}{-4}{}{522}{}
+{522}{Sinto muito, meu simples amigo. Meu pai entrou em exílio e não verá nem falará com ninguém. Como seu filho, devo respeitar seus desejos...}{Sinto muito, meu simples amigo. Meu pai entrou em exílio e não verá nem falará com ninguém. Como seu filho, devo respeitar seus desejos...}{}{}{}{}
+{523}{Ex-x-xí-lio...?}{}{-4}{lf24 0}{527}{lf24 1}
+{524}{Você sabe onde eu o encontro, Randy?}{}{-4}{lf23 0}{531}{lf24 1}
+{527}{Sim. Após o banimento do Clã da Montanha Negra, ele ficou tão cheio de vergonha e tristeza que deixou o clã e desapareceu nos Abismos... ele nunca voltou.}{Sim. Após o banimento do Clã da Montanha Negra, ele ficou tão cheio de vergonha e tristeza que deixou o clã e desapareceu nos Abismos... ele nunca voltou.}{}{}{}{}
+{528}{Você sabe onde eu o encontro, Randy?}{}{-4}{lf23 0}{531}{lf23 1}
+{529}{A-a-bismos?}{}{-4}{lf25 0}{536}{lf25 1}
+{531}{Hã... sinto muito, mas não faço ideia. Ele me diz... quer dizer, ele me disse, sabe, quando partiu... que seu exílio nunca deveria ser perturbado. Sinto muito. Se quiser falar com ele, terá que encontrá-lo sozinho nos Abismos...}{Hã... sinto muito, mas não faço ideia. Ele me diz... quer dizer, ele me disse, sabe, quando partiu... que nunca deveria ser perturbado. Sinto muito. Se quiser falar com ele, terá que encontrá-lo sozinho nos Abismos...}{}{}{}{}
+{532}{Dre-e-ed-ge?}{}{-4}{lf25 0}{536}{lf25 1}
+{533}{O que é ex-x-i-lí-o?}{}{-4}{lf24 0}{527}{lf24 1}
+{534}{Eu vou agora.}{}{-4}{}{571}{}
+{536}{O Dredge é uma rede de minas e cavernas antigas não muito longe daqui... onde meu pai se exilou. A entrada fica logo após a entrada destas câmaras e a sudeste.}{O Dredge é uma rede de minas e cavernas antigas não muito longe daqui... onde meu pai se exilou. A entrada fica logo após a entrada destas câmaras e a sudeste.}{}{}{}{ru 2043}
+{537}{Você sabe onde eu o encontro, Randy?}{}{-4}{lf23 0}{531}{lf23 1}
+{538}{O que é ex-x-i-lí-o?}{}{-4}{lf24 0}{527}{lf24 1}
+{539}{Eu vou agora.}{}{-4}{}{571}{}
+{541}{Fico feliz que ele tenha falado com você. Boa sorte em sua missão.}{Fico feliz que ele tenha falado com você. Boa sorte em sua missão.}{}{}{}{}
+{544}{Arrrggghhh! Você! Você me matou! Minha hora ainda não havia chegado! Eu tinha tanto a fazer! Ahhh! A dor... é insuportável...}{Arrrggghhh! Você! Você me matou! Minha hora ainda não havia chegado! Eu tinha tanto a fazer! Ahhh! A dor... é insuportável...}{}{}{}{}
+{545}{Sim, sim, eu sei. Mas tenho perguntas e você vai responder...}{}{5}{}{548}{}
+{546}{E:}{}{5}{}{0}{}
+{548}{Não vou responder nada para você, assassino... grrrrrr... ahhhh!!! Você me e-e-e-escuta? N-Nada!}{Não vou responder nada para você, assassino... grrrrrr... ahhhh!!! Você me e-e-e-escuta? N-Nada!}{}{}{}{}
+{549}{Tudo bem... posso esperar aqui o dia todo...}{}{5}{}{552}{}
+{550}{E:}{}{5}{}{0}{}
+{552}{Ooohhh! Vou lutar contra você por toda a eternidade se for preciso...}{Ooohhh! Vou lutar contra você por toda a eternidade se for preciso...}{}{}{}{}
+{553}{[Assobio.]}{}{5}{}{556}{}
+{554}{E:}{}{5}{}{0}{}
+{556}{Nnnnnggghh! Por favor! Deixe-me em paz! Você já tirou o suficiente!!!}{Nnnnnggghh! Por favor! Deixe-me em paz! Você já tirou o suficiente!!!}{}{}{}{}
+{557}{Respostas ou não?}{}{5}{}{560}{}
+{558}{E:}{}{5}{}{0}{}
+{560}{Tudo bem! Ahhh! O que você quer saber?}{Tudo bem! Ahhh! O que você quer saber?}{}{}{}{}
+{561}{Loghaire Pedra do Trovão... onde ele está?}{}{5}{}{564}{}
+{562}{E:}{}{5}{}{0}{}
+{564}{Meu pai? Ele se foi! Exilou-se após o banimento do Clã da Montanha Negra! Por favor... oh deus...!}{Meu pai? Ele se foi! Exilou-se após o banimento do Clã da Montanha Negra! Por favor... oh deus...!}{}{}{}{}
+{565}{Para onde ele foi? Rápido agora...}{}{5}{}{568}{}
+{566}{E:}{}{5}{}{0}{}
+{568}{Ele entrou nas cavernas do Dredge! A entrada fica logo a sudeste daqui... Aaaarrggghhh!!!}{Ele entrou nas cavernas do Dredge! A entrada fica logo a sudeste daqui... Aaaarrggghhh!!!}{}{}{}{lf26 1}
+{569}{Descanse em paz....}{}{5}{}{0}{}
+{570}{Deixe-me em paz! Dói tanto voltar! Não sei de mais nada! Aaaaarrrggghhh!}{Deixe-me em paz! Dói tanto voltar! Eu não conheço outra coisa! Aaaaarrrggghhh!}{}{}{}{}
+{571}{Sim... você deve seguir seu próprio caminho nisso, forasteiro. Direi aos guardas na entrada do Dredge para deixá-lo passar. Tenha um bom dia...}{Sim... você deve seguir seu próprio caminho nisso, forasteiro. Direi aos guardas na entrada do Dredge para deixá-lo passar. Tenha um bom dia...}{}{}{}{gf2650 1}
+{572}{E:}{}{1}{}{0}{}
+{575}{Você fez? E o que ele lhe disse?}{Você fez? E o que ele lhe disse?}{}{}{}{}
+{576}{Bem, vamos ver... isso foi antes ou depois de eu matá-lo?}{}{5}{}{}{rp 1072, rp -1054, co, fl 595}
+{577}{Hmm... não muito. Acho que você não o verá novamente, infelizmente...}{}{5}{}{585}{}
+{578}{Hã... ele teve problemas para falar depois que eu o matei!}{}{-4}{}{}{rp 1072, rp -1054, co, fl 595}
+{579}{Hmm... err... ele disse que não vai voltar! Nunca!}{}{-4}{}{585}{}
+{585}{Entendo. [Randver abaixa a cabeça.] Com licença. Prefiro ficar sozinho...}{Entendo. [Randver abaixa a cabeça.] Com licença. Prefiro ficar sozinho...}{}{}{}{lf27 1}
+{586}{E:}{}{1}{}{0}{}
+{590}{[Randver permanece em silêncio, perdido em pensamentos.]}{[Randver permanece em silêncio, perdido em pensamentos.]}{}{}{}{}
+{595}{O quê?! Traidor! Guardas! Meu pai foi assassinado! Matem-no imediatamente!}{O quê?! Traidora! Guardas! Meu pai foi assassinado! Matem-na imediatamente!}{}{}{}{}
+

@@ -1,0 +1,62 @@
+// Trap Eye Candy Effect List
+
+// WARNING: NOTE: Palette numbers are 1-4 instead of 0-3!
+
+
+// Each line consists of a sequence of descriptor fields.  These are:
+// Art: -- The Art # from the eyecandy.mes message file corresponding to this art
+// Palette: -- Which of the 4 palettes (currently 1-4, not 0-3) to use
+// Scale: -- What scale (25%-200%) to display the art at -- NOT CURRENTLY WORKING
+// Blend: -- Which of the various blending functions to use -- NOT CURRENTLY WORKING
+// Sound: -- The Sound #.  This is the same as the number which is prepended to the
+// .snd file in the sounds folder.
+// Flags: -- These specify various extra things:
+		// overlay_f -- the art is a foreground overlay
+		// overlay_b -- the art is a background overlay
+		// overlay_fb -- the art has both foreground and background overlays
+		// underlay -- the art is an underlay (flat under object)
+		// animates -- the art should animate once
+		// anim_forever -- the art should continuously loop animating
+// Light: -- the art # from the art\light\light.mes file
+// Light Color: (red @ green @ blue)
+
+// There are three lines for each trap
+//	1. what the trap trigger effect looks like
+//	2. what the effect on each victim looks like
+//	3. what the detected trap on object appears like when spotted
+
+
+// magical
+{0}{}
+{1}{}
+{2}{Art: 355, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | anim_forever}
+
+// mechanical
+{10}{Art: 98, Palette: 1, Scale: 100%, Blend: Add, Sound: 24095, Flags: overlay_f | animates, Light: 1, Light Color:   (242 @ 165 @ 0)}
+{11}{Art: 349, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates}
+{12}{Art: 356, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | anim_forever}
+
+// arrow
+{20}{Sound: 4060}
+{21}{}
+{22}{Art: 351, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | anim_forever}
+
+// bullet
+{30}{Sound: 4080}
+{31}{}
+{32}{Art: 354, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | anim_forever}
+
+// fire
+{40}{Art: 98, Palette: 1, Scale: 100%, Blend: Add, Sound: 24095, Flags: overlay_f | animates, Light: 1, Light Color:   (242 @ 165 @ 0)}	// Trap
+{41}{Art: 349, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | animates}	// Victim
+{42}{Art: 353, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | anim_forever}
+
+// electrical
+{50}{Art: 141, Palette: 1, Scale: 100%, Blend: Add, Sound: 24105, Flags: overlay_fb | animates, Light: 1}
+{51}{}
+{52}{Art: 352, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | anim_forever}
+
+// poison
+{60}{Art: 239, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_fb | animates, Light: 1, Light Color:  (255 @ 50 @ 50)}
+{61}{}
+{62}{Art: 357, Palette: 1, Scale: 100%, Blend: Add, Flags: overlay_f | anim_forever}

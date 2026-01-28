@@ -1,0 +1,382 @@
+{1}{Pare! Você não sabe que consigo sentir seu cheiro, tolo?!}{Pare! Você não sabe que consigo sentir seu cheiro, tolo?!}{}{}{}{re 30 }
+{2}{Hm, olá, senhor. Posso saber quem é você?}{}{5}{lf1 0}{16}{re 30 }
+{3}{Saudações, Adkin. Posso falar com você um momento?}{}{5}{lf1 1}{154}{re 30 }
+{4}{Trouxe um presente da Senhora Druella para você.}{}{5}{in 3603, lf 14 0, qa 1115 1, qb 1115 2}{198}{re +50, lf 14 1 }
+{5}{Tenho os olhos do Sir Garrick Stout!}{}{5}{in 5660, lf 15 0, qu1105 3}{162}{re +50, lf 15 1 }
+{6}{Tenho os olhos do Sir Garrick Stout!}{}{5}{in 5660, lf 15 0, qu1116 3}{257}{re +50, lf 15 1 }
+{7}{Melhorei minha habilidade. Por favor, treine-me.}{}{5}{qu1116 4, tr1 2, tr1 -2, sk1 20}{271}{ }
+{8}{Melhorei agora. Você me treina?}{}{-4}{qu1116 4, tr1 2, tr1 -2, sk1 20}{271}{ }
+{9}{Consegui olhos! Consegui olhos!}{}{-4}{in 5660, lf 15 0, qu1105 3}{162}{re +50, lf 15 1 }
+{10}{Consegui olhos! Consegui olhos!}{}{-4}{in 5660, lf 15 0, qu1116 3}{257}{re +50, lf 15 1 }
+{11}{Hm... é... Eu te pergunto uma coisa?}{}{-4}{lf1 1}{154}{re 30 }
+{12}{Hm... Eu estou fedendo?}{}{-4}{lf1 0}{16}{re 30 }
+{13}{Tenho uma garrafinha bonita de uma senhora gentil.}{}{-4}{in 3603, lf 14 0, qa 1115 1, qb 1115 2}{198}{re +50, lf 14 1 }
+{15}{E:}{}{1}{}{0}{ }
+{16}{Você realmente achou que seria capaz de me pegar desprevenido, não é?! Quem mandou você?!}{Você realmente achou que seria capaz de me pegar desprevenido, não é?! Quem mandou você?!}{}{}{}{ }
+{17}{Não quero lhe fazer mal. Poderia me dizer seu nome, senhor?}{}{5}{}{21}{ }
+{19}{Eu não mandei... hm... qual seu nome?}{}{-4}{}{21}{ }
+{20}{E:}{}{1}{}{0}{ }
+{21}{Nomes... nomes... que importância eles têm? Apenas uma ferramenta que nossos inimigos usam para nos destruir! Qual é o nome que será sua própria ruína?}{Nomes... nomes... que importância eles têm? Apenas uma ferramenta que nossos inimigos usam para nos destruir! Qual é o nome que será sua própria ruína?}{}{}{}{ }
+{22}{Hm, sim... sou conhecido como @pcname@. Posso saber o seu?}{}{5}{}{26}{ }
+{23}{Meu nome é tão irrelevante quanto o seu.}{}{5}{}{0}{ }
+{24}{Urgh?}{}{-4}{}{103}{ }
+{25}{E:}{}{1}{}{0}{ }
+{26}{Por que veio incomodar um velho cego, @pcname@? Foi ele quem mandou você me liquidar? Foi?!}{Por que veio incomodar um velho cego, @pcname@? Foi ele quem mandou você me liquidar? Foi?!}{}{}{}{ }
+{27}{Não sei do que está falando. Ninguém me mandou.}{}{5}{}{46}{ }
+{29}{Olha, tudo que pedi foi seu nome! Você está me testando...}{}{5}{}{33}{ }
+{30}{Eu não entender.}{}{-4}{}{46}{ }
+{31}{Você me deixa bravo... não responde o que eu pergunto!}{}{-4}{}{33}{ }
+{32}{Está na hora de eu lhe ensinar uma lição...}{Está na hora de eu lhe ensinar uma lição...}{}{}{}{re -15 }
+{33}{Então suma daqui! Não preciso de imbecis babando na máscara grotesca que um dia me deu visão. Não me incomode mais!}{Então suma daqui! Não preciso de imbecis babando na máscara grotesca que um dia me deu visão. Não me incomode mais!}{}{}{}{ }
+{35}{Quem é que está tentando te prejudicar?}{}{5}{}{46}{ }
+{36}{Não tenho utilidade para um louco! Estou indo embora!}{}{5}{}{40}{ }
+{37}{Precisa d'ajuda? Invocar o mal pra prender homem?}{}{-4}{}{46}{ }
+{38}{Quem te machucou?}{}{-4}{}{46}{ }
+{39}{Você é maluco! Eu vou embora!}{}{-4}{}{40}{ }
+{40}{Espere um momento! Preste atenção... se você revelar nosso encontro aqui, encontrará seu nome na lista de morte do maligno, ao lado do meu. [Ele ri, maniacamente.] Maligno. MALIGNO! Ladrão da visão! Destruidor dos inocentes!}{Espere um momento! Preste atenção... se você revelar nosso encontro aqui, encontrará seu nome na lista de morte do maligno, ao lado do meu. [Ele ri, maniacamente.] Maligno. MALIGNO! Ladrão da visão! Destruidor dos inocentes!}{}{}{}{ }
+{41}{Acho que você está sozinho aqui há tempo demais.}{}{5}{}{0}{ }
+{42}{Cego ou não... você é irritante demais para ficar vivo!}{}{5}{}{}{co, fl 32}
+{44}{Seu maluco! Eu vou embora agora.}{}{-4}{}{0}{ }
+{45}{Eu morrer?!? Não! VOCÊ QUE VAI MORRER!}{}{-4}{}{}{co, fl 32}
+{46}{Ele nunca me encontrou, sabe... nunca vai me encontrar! Nem eu! O Mestre da Esquiva é astuto demais para alguém como Stout! ...nunca, nunca, nunca...}{Ele nunca me encontrou, sabe... nunca vai me encontrar! Nem eu! O Mestre da Esquiva é astuto demais para alguém como Stout! ...nunca, nunca, nunca...}{}{}{}{ }
+{47}{Você é Adkin Chambers... o Mestre da Esquiva?}{}{5}{tr1 2, tr1 -2}{64}{lf1 1 }
+{48}{Mestre da Esquiva? Você é o Mestre da Esquiva?!?}{}{5}{tr1 -1}{55}{ }
+{49}{Você é um Mestre? Ha ha ha... conte outra, aleijado.}{}{5}{tr1 -1}{55}{ }
+{50}{Você é o Mestre da Esquiva? A'ken Chabers? Tô procurando por você!}{}{-4}{tr1 2, tr1 -2}{64}{ }
+{53}{Ha ha ha... Cego faz graça! Quem você é de verdade?}{}{-4}{tr1 -1}{55}{ }
+{54}{E:}{}{1}{}{0}{ }
+{55}{Não sabe com quem está falando, idiota? Eu sou Adkin Chambers... Mestre da Esquiva!}{Não sabe com quem está falando, idiota? Eu sou Adkin Chambers... Mestre da Esquiva!}{}{}{}{lf1 1, gf2280 1 }
+{56}{Se você é o "Mestre"... por que não me treina?}{}{5}{}{81}{ }
+{57}{O Mestre da Esquiva é um cego maluco... Prove!}{}{5}{}{}{co, fl 32}
+{58}{Posso lhe fazer uma pergunta, Sr. Chambers?}{}{5}{}{139}{ }
+{60}{Você é o Mestre, é? Se for verdade, então treine @pcname@!}{}{-4}{}{81}{ }
+{61}{Tá bom, engraçadinho da esquiva... você é tão bom... esquive DISSO!}{}{-4}{}{}{co, fl 32}
+{62}{Posso te perguntar uma coisa?}{}{-4}{}{139}{ }
+{63}{E:}{}{1}{}{0}{ }
+{64}{Quem te contou isso?! O que você sabe? Achei que não soubesse de nada... e agora tem meu nome... Mentiroso! Ainda sou o melhor... você não vai me matar!}{Quem te contou isso?! O que você sabe? Achei que não soubesse de nada... e agora tem meu nome... Mentiroso! Ainda sou o melhor... você não vai me matar!}{}{}{}{ }
+{65}{Estou procurando por você, mas apenas para treinamento, sem outro propósito.}{}{5}{tr1 2, tr1 -2}{69}{ }
+{67}{Me não mentir! Me só querer treinar. Você fazer?}{}{-4}{tr1 2, tr1 -2}{69}{ }
+{68}{E:}{}{1}{}{0}{ }
+{69}{Mentiroso! Ele mandou você para me acabar! Não foi!?! Não bastou ele ter roubado a Druella, não é!?! Ou ter me cegado e me deixado para morrer?}{Mentiroso! Ele mandou você para me acabar! Não foi!?! Não bastou ele ter roubado a Druella, não é!?! Ou ter me cegado e me deixado para morrer?}{}{}{}{ }
+{70}{Não, senhor. Vim apenas em busca de sua sabedoria como treinador.}{}{5}{}{75}{ }
+{73}{Me só querer treinar!}{}{-4}{}{75}{ }
+{74}{E:}{}{1}{}{0}{ }
+{75}{Você espera que eu acredite que procurou um velho cego para completar seu treinamento de Esquiva Mestre? Que tolo deve me achar!}{Você espera que eu acredite que procurou um velho cego para completar seu treinamento de Esquiva Mestre? Que tolo deve me achar!}{}{}{}{ }
+{76}{É verdade, senhor. Não há outro motivo além do treinamento.}{}{5}{}{81}{ }
+{79}{Homem cego ainda treinar? Ou muito difícil?}{}{-4}{}{81}{ }
+{80}{E:}{}{1}{}{0}{ }
+{81}{[Sarcasticamente] Como devo verificar seu nível de sabedoria na arte da esquiva? Se for verdadeiramente versado, será capaz de antecipar ISTO... [ele subitamente lança o braço para golpeá-lo...]}{[Sarcasticamente] Como devo verificar seu nível de sabedoria na arte da esquiva? Se for verdadeiramente versado, será capaz de antecipar ISTO... [ele subitamente lança o braço para golpeá-lo...]}{}{}{}{ }
+{82}{O quê? [Esquivar]}{}{5}{tr1 2, tr1 -2, sk1 20}{179}{ }
+{83}{O quê? [Esquivar]}{}{5}{tr1 2, tr1 -2, sk1 -19}{191}{ }
+{84}{O quê? [Esquivar]}{}{5}{tr1 1, tr1 -1}{186}{ }
+{85}{Ei! Velho louco! [Esquivar]}{}{5}{tr1 -1}{186}{ }
+{86}{Urgh? [Esquivar]}{}{-4}{tr1 2, tr1 -2, sk1 20}{179}{ }
+{87}{Urgh? [Esquivar]}{}{-4}{tr1 2, tr1 -2, sk1 -19}{191}{ }
+{88}{Urgh? [Esquivar]}{}{-4}{tr1 1, tr1 -1}{186}{ }
+{89}{Ei! Você está louco! [Esquivar]}{}{-4}{tr1 -1}{186}{ }
+{90}{Ha! Tudo bem! Vou "acreditar" em você. Se o treinamento Mestre é o que realmente busca, tenho uma tarefa que deve completar antes de revelar meus segredos.}{Ha! Tudo bem! Vou "acreditar" em você. Se o treinamento Mestre é o que realmente busca, tenho uma tarefa que deve completar antes de revelar meus segredos.}{}{}{}{ }
+{91}{Qualquer coisa, Mestre.}{}{5}{}{96}{ }
+{92}{O que devo fazer para provar minha habilidade?}{}{5}{}{96}{ }
+{94}{O que eu faço?}{}{-4}{}{96}{ }
+{95}{E:}{}{1}{}{0}{ }
+{96}{Morte! Quero morte! Mate Sir Garrick Stout, o Mestre do combate corpo a corpo! Ha ha! Lá! Prove que ele não é seu mestre, e então o recompensarei com treinamento!}{Morte! Quero morte! Mate Sir Garrick Stout, o Mestre do combate corpo a corpo! Ha ha! Lá! Prove que ele não é seu mestre, e então o recompensarei com treinamento!}{}{}{}{qu1105 1 }
+{97}{Você quer que eu mate o Mestre do combate corpo a corpo? Mas por quê?}{}{5}{gf2291 0}{107}{ }
+{98}{Que propósito sua morte serviria para você?}{}{5}{gf2291 0}{107}{ }
+{99}{Eu já matei aquele arrogante.}{}{5}{gf2291  1}{336}{ }
+{100}{Por que me matar Mastur de maylay?}{}{-4}{gf2291 0}{107}{ }
+{101}{O que ele fez com você?}{}{-4}{gf2291 0}{107}{ }
+{102}{Eu já matei o homem mau.}{}{-4}{gf2291  1}{336}{ }
+{103}{Ha! Vejo que ele mandou um idiota para completar a tarefa. Não conseguiu encontrar ninguém melhor?! Perguntei seu nome, tolo!}{Ha! Vejo que ele mandou um idiota para completar a tarefa. Não conseguiu encontrar ninguém melhor?! Perguntei seu nome, tolo!}{}{}{}{ }
+{104}{Ah... @pcname@. Esse é meu nome.}{}{-4}{}{26}{ }
+{105}{Eu não sou idiota! Isso me deixa furioso! Vou pegar você agora!}{}{-4}{}{}{co, fl 32}
+{106}{E:}{}{-4}{}{0}{ }
+{107}{Por que ele deveria morrer? POR QUE ELE DEVERIA MORRER?!? Por destruir minha vida e me cegar, seu tolo! Druella era minha! Minha, eu digo! Ele sabia disso, sabia que ela me amava... Foi por isso que a quis para si!}{Por que ele deveria morrer? POR QUE ELE DEVERIA MORRER?!? Por destruir minha vida e me cegar, seu tolo! Druella era minha! Minha, eu digo! Ele sabia disso, sabia que ela me amava... Foi por isso que a quis para si!}{}{}{}{ }
+{108}{Ele te cegou por causa de uma mulher?}{}{5}{}{112}{ }
+{110}{Vocês brigaram por causa de uma garota?}{}{-4}{}{112}{ }
+{111}{E:}{}{1}{}{0}{ }
+{112}{Ele e eu sempre tivemos desavenças. Mas então ele me desafiou para um duelo pela mão dela. Fiquei furioso! O porco pomposo! Orgulhoso como eu era, aceitei, mesmo contra os protestos dela... Mal sabia eu o quão obcecado por Druella ele havia se tornado...}{Ele e eu sempre tivemos desavenças. Mas então ele me desafiou para um duelo pela mão dela. Fiquei furioso! O porco pomposo! Orgulhoso como eu era, aceitei, mesmo contra os protestos dela... Mal sabia eu o quão obcecado por Druella ele havia se tornado...}{}{}{}{ }
+{113}{Como foi que você foi cegado, mas não morto?}{}{5}{}{118}{ }
+{116}{Ele te cegou durante o duelo? Isso não parece certo.}{}{-4}{}{118}{ }
+{117}{E:}{}{-4}{}{0}{ }
+{118}{Eu fiz um cálculo errado, e ele me pegou. Eu me rendi, mas ele continuou... tentou me forçar a exaltar sua habilidade como lutador. Quando recusei, ele disse que garantiria que eu nunca mais me considerasse seu igual. Então me cegou com sua espada. O último som que ouvi enquanto a dor tomava minha consciência foi o grito de Druella.}{Eu fiz um cálculo errado, e ele me pegou. Eu me rendi, mas ele continuou... tentou me forçar a exaltar sua habilidade como lutador. Quando recusei, ele disse que garantiria que eu nunca mais me considerasse seu igual. Então me cegou com sua espada. O último som que ouvi enquanto a dor tomava minha consciência foi o grito de Druella.}{}{}{}{ }
+{119}{O que aconteceu então?}{}{5}{}{124}{ }
+{120}{Vingarei você! O que devo trazer como prova?}{}{5}{}{134}{qu1105 2 }
+{121}{E então?}{}{-4}{}{124}{ }
+{122}{Eu pego ele para você!}{}{-4}{}{134}{qu1105 2 }
+{124}{Enquanto me recuperava em um hospital, desfigurado e cego, meu ódio por Stout cresceu até se tornar uma sede insaciável. Consome cada momento em que estou acordado. Você é a ferramenta que me foi enviada. Você será meus olhos!}{Enquanto me recuperava em um hospital, desfigurado e cego, meu ódio por Stout cresceu até se tornar uma sede insaciável. Consome cada momento em que estou acordado. Você é a ferramenta que me foi enviada. Você será meus olhos!}{}{}{}{ }
+{125}{Vingarei em seu nome!}{}{5}{}{134}{qu1105 2 }
+{126}{Eu pego ele para você!}{}{-4}{}{134}{qu1105 2 }
+{127}{Ele é um oponente forte. Vou ter que pensar sobre isso...}{}{5}{}{0}{ }
+{128}{Ele é grandão. Não tenho certeza... Volto depois.}{}{-4}{}{0}{ }
+{129}{Ouvi um boato de que Druella havia escapado das garras dele. É o único pensamento prazeroso que existe na minha vida. Talvez você a encontre em suas viagens. Eu aceitaria notícias dela, se as obtiver. [Ele de repente volta à sua obsessão...] Ele finalmente pagará por destruir nossa vida, Druella, meu amor. Ele finalmente pagará!!! ...VÁ! Destrua o demônio conhecido como Garrick Stout e traga os olhos dele para mim!!!}{Ouvi um boato de que Druella havia escapado das garras dele. É o único pensamento prazeroso que existe na minha vida. Talvez você a encontre em suas viagens. Eu aceitaria notícias dela, se as obtiver. [Ele de repente volta à sua obsessão...] Ele finalmente pagará por destruir nossa vida, Druella, meu amor. Ele finalmente pagará!!! ...VÁ! Destrua o demônio conhecido como Garrick Stout e traga os olhos dele para mim!!!}{}{}{}{ }
+{130}{Eu vou!}{}{5}{}{0}{ }
+{131}{Sim! Tenho uma pergunta antes de ir...}{}{5}{}{139}{ }
+{132}{Eu pego ele!}{}{-4}{}{0}{ }
+{133}{Sim! Mas deixe-me perguntar mais uma coisa primeiro...}{}{-4}{}{139}{ }
+{134}{[Rindo maldosamente] Traga-me os olhos dele. Isso será prova suficiente de que ele está morto.}{[Rindo maldosamente] Traga-me os olhos dele. Isso será prova suficiente de que ele está morto.}{}{}{}{ }
+{135}{Considere-os seus. Se me permite, o que aconteceu com a Druella?}{}{5}{}{129}{ }
+{137}{Eu os consegui! O que aconteceu com a moça?}{}{-4}{}{129}{ }
+{138}{E:}{}{1}{}{0}{ }
+{139}{O que é?}{O que é?}{}{}{}{ }
+{140}{Você me treinaria como Mestre da Esquiva?}{}{5}{qb 1105 0, qb 1116 0}{75}{ }
+{141}{H:}{}{5}{}{139}{ }
+{142}{E:}{}{5}{}{0}{ }
+{143}{Eu matarei o Stout para você.}{}{5}{qu1105 1}{134}{qu1105 2 }
+{144}{Eu tenho os olhos do seu inimigo!}{}{5}{qu1105 3, in5660, lf 15 0}{162}{ }
+{145}{Eu trouxe um presente da Senhora Druella para você.}{}{5}{in 3603, lf 14 0, qa 1115 1, qb 1115 2}{198}{ }
+{146}{Eu tenho uma coisinha pra você... da sua Senhora!}{}{-4}{in 3603, lf 14 0, qa 1115 1, qb 1115 2}{198}{ }
+{147}{Me ensina a ser Mast'r da Esquiva?}{}{-4}{qb 1105 0, qb 1116 0}{75}{ }
+{148}{H:}{}{-4}{}{139}{ }
+{149}{Eu peguei o Stout para você!}{}{-4}{qu1105 1}{134}{qu1105 2 }
+{150}{Eu consegui os olhos! Eu consegui os olhos!}{}{-4}{qu1105 3, in5660, lf 15 0}{162}{ }
+{151}{E:}{}{-4}{}{0}{ }
+{152}{Ainda não consegui os olhos do Stout.}{}{5}{qu1105 2, ni5660}{157}{ }
+{153}{Eu ainda não consegui os olhos.}{}{-4}{qu1105 2, ni5660}{157}{ }
+{154}{Ah, é você, @pcname@. Achei que tinha reconhecido seu fedor!}{Ah, é você, @pcname@. Achei que tinha reconhecido seu perfume!}{}{}{}{ }
+{155}{Tenho uma pergunta...}{}{5}{}{139}{ }
+{156}{Posso perguntar?}{}{-4}{}{139}{ }
+{157}{Então por que está aqui!?! Não tenho nada para você até que o Stout esteja morto! MATE-O!!!}{Então por que está aqui!?! Não tenho nada para você até que o Stout esteja morto! MATE-O!!!}{}{}{}{ }
+{158}{K:}{}{5}{}{139}{ }
+{159}{E:}{}{5}{}{0}{ }
+{160}{K:}{}{-4}{}{139}{ }
+{161}{E:}{}{-4}{}{0}{ }
+{162}{[Ele começa a rir, maniacamente.] Sim! SIM!! Eu sabia que você era capaz! Deixe-me vê-los!}{[Ele começa a rir, maniacamente.] Sim! SIM!! Eu sabia que você era capaz! Deixe-me vê-los!}{}{}{}{lf 15 1 }
+{163}{Aqui, pegue-os.}{}{5}{}{167}{in 5660 }
+{164}{Por favor, leve essas coisas nojentas!}{}{5}{}{167}{in 5660 }
+{165}{Tá bom. Aqui estão.}{}{-4}{}{167}{in 5660 }
+{166}{Pegue o nojento nojento!}{}{-4}{}{167}{in 5660 }
+{167}{[Ele começa a falar com os olhos.] Eu sabia que teria minha vingança! Agora você pagou por seus crimes! A vingança é MINHA! [Ele esmaga os olhos com as mãos cerradas, rindo o tempo todo.]}{[Ele começa a falar com os olhos.] Eu sabia que teria minha vingança! Agora você pagou por seus crimes! A vingança é MINHA! [Ele esmaga os olhos com as mãos cerradas, rindo o tempo todo.]}{}{}{}{ }
+{168}{Ahem. Sr. Chambers, posso receber meu treinamento agora?}{}{5}{}{170}{ }
+{169}{Hmmm... Quer que eu treine agora?}{}{-4}{}{170}{ }
+{170}{Sim, meu filho! Qualquer coisa que desejar por livrar o mundo daquela criatura vil! Ao matar Stout, você provou sua habilidade em nossa arte. Permita-me conceder-lhe o título de Mestre do Esquiva. Obrigado. Muito obrigado mesmo.}{Sim, madame! Qualquer coisa que desejar por livrar o mundo daquela criatura vil! Ao matar Stout, você provou sua habilidade em nossa arte. Permita-me conceder-lhe o título de Mestra do Esquiva. Obrigado. Muito obrigado mesmo.}{}{}{}{tr1 3, qu1105 4, rq2163 }
+{171}{Obrigado. Continuarei minhas aventuras...}{}{5}{}{-15}{ }
+{172}{Agora devo eliminá-lo. Só pode haver um mestre.}{}{5}{}{}{co, fl 32}
+{173}{Trago um presente... da Lady Druella!}{}{5}{ in3603, lf 14 0, qa1115 1, qb 1115 2}{198}{lf 14 1 }
+{175}{Obrigado, Mestre}{}{-4}{}{-15}{ }
+{176}{Eu tenho uma coisinha pra você... da sua Lady!}{}{-4}{ in3603, lf 14 0, qa1115 1, qb 1115 2}{198}{lf 14 1 }
+{177}{Tá bom. Agora você morre! Eu serei o único mestre!}{}{-4}{}{}{co, fl 32}
+{178}{E:}{}{1}{}{-15}{ }
+{179}{[Você consegue esquivar do golpe dele.] Vejo que alcançou o status de Especialista em nossa habilidade...}{[Você consegue esquivar do golpe dele.] Vejo que alcançou o status de Especialista em nossa habilidade...}{}{}{}{ }
+{180}{Eu disse que só estava buscando treinamento!}{}{5}{}{90}{ }
+{181}{É isso, cego! Defenda-se!}{}{5}{}{}{co, fl 32}
+{183}{Ei! Louco, eu só quero treinamento!}{}{-4}{}{90}{ }
+{184}{Você tentou me machucar! Eu vou pegar você!}{}{-4}{}{}{co, fl 32}
+{185}{E:}{}{1}{}{0}{ }
+{186}{[Você é atingido pelo golpe surpreendentemente poderoso do cego.] Ha! Eu sabia que estava mentindo! Você não tem nem perto da habilidade necessária para treinar como Mestre, deve ser um espião! Saia daqui ou enfrente as consequências!}{[Você é atingido pelo golpe surpreendentemente poderoso do cego.] Ha! Eu sabia que estava mentindo! Você não tem nem perto da habilidade necessária para treinar como Mestre, deve ser um espião! Saia daqui ou enfrente as consequências!}{}{}{}{ }
+{187}{É isso, você é louco! Estou indo embora!}{}{5}{}{40}{ }
+{188}{Você vai pagar por isso, cego...}{}{5}{}{}{co, fl 32}
+{189}{Você é maluco! Eu vou embora!}{}{-4}{}{40}{ }
+{190}{Ei! Você me bateu! Agora eu bato em você!}{}{-4}{}{}{co, fl 32}
+{191}{[Você tenta desviar do golpe, mas é atingido pela rapidez surpreendente do cego.] Hmmm... Vejo que alcançou o nível de Especialista na arte do esquiva. No entanto, sua habilidade ainda não é suficiente para se tornar um Mestre. Melhore-se - então, talvez eu o treine.}{[Você tenta desviar do golpe, mas é atingido pela rapidez surpreendente do cego.] Hmmm... Vejo que alcançou o nível de Especialista na arte do esquiva. No entanto, sua habilidade ainda não é suficiente para se tornar um Mestre. Melhore-se - então, talvez eu o treine.}{}{}{}{ }
+{192}{Vou me aperfeiçoar e retornar.}{}{5}{}{0}{ }
+{193}{É isso, cego! Defenda-se!}{}{5}{}{}{co, fl 32}
+{195}{Eu vou melhorar. Depois volto.}{}{-4}{}{0}{ }
+{196}{Você tentou me machucar! Eu vou pegar você!}{}{-4}{}{}{co, fl 32}
+{197}{E:}{}{1}{}{0}{ }
+{198}{Lady Druella! Você a viu! O que ela mandou?}{Lady Druella! Você a viu! O que ela mandou?}{}{}{}{ }
+{199}{Uma poção. Fui informado que ela restaurará sua visão!}{}{5}{ gf2291 1}{203}{ }
+{200}{Uma poção. Ela faz você enxergar de novo!}{}{-4}{gf2291 1}{203}{ }
+{201}{Uma poção. Disseram-me que ela restaurará sua visão!}{}{5}{gf2291 0}{-10}{ }
+{202}{Uma poção. Ela faz você enxergar de novo!}{}{-4}{ gf2291 0}{-10}{ }
+{203}{Restaurar minha visão?! Como ela conseguiu uma coisa dessas? Isso é algum tipo de enganação?}{Restaurar minha visão?! Como ela conseguiu uma coisa dessas? Isso é algum tipo de enganação?}{}{}{}{ }
+{204}{Garrick tentou chantageá-la para casar-se com ele usando isso.}{}{5}{}{206}{ }
+{205}{Gareek tentou fazê-la casar com ele para devolver seus olhos.}{}{-4}{}{206}{ }
+{206}{Aquele monstro maligno e astuto! Não havia fim para as atrocidades das quais ele era capaz? Você fez bem em livrar o mundo de sua presença. O que está esperando? Dê-me a poção!}{Aquele monstro maligno e astuto! Não havia fim para as atrocidades das quais ele era capaz? Você fez bem em livrar o mundo de sua presença. O que está esperando? Dê-me a poção!}{}{}{}{ }
+{207}{Aqui. Beba.}{}{5}{}{-10}{ }
+{209}{Aqui. Beba isso.}{}{-4}{}{-10}{ }
+{211}{Eu consigo ver! Eu consigo ver! Graças aos deuses! Nunca ouvi falar de uma magia assim antes! Aquele monstro deve ter pago caro por este elixir! Oh, bendito seja! Por favor... e quanto à Druella?}{Eu consigo ver! Eu consigo ver! Graças aos deuses! Nunca ouvi falar de uma magia assim antes! Aquele monstro deve ter pago caro por este elixir! Oh, bendito seja! Por favor... e quanto à Druella?}{}{}{}{gf 2292 1, qu 1115 4, in 3603, al +100, fp }
+{212}{Ela está em Dernholm - ela não tinha certeza se você ainda a amava.}{}{5}{qu1114 4, gf2290 0, gf2291 1}{-19}{ }
+{213}{Ela se tornou a noiva de Sir Garrick, em troca da sua visão.}{}{5}{qu1114 4, gf2290 0, gf2291 0}{400}{ }
+{214}{Receio que ela não tenha sobrevivido. Ela o amou até o fim.}{}{5}{gf2290 1}{229}{ }
+{215}{Ela era irritante. Eu a matei, assim como estou prestes a fazer com você.}{}{5}{gf2290 1}{}{co, fl 234}
+{216}{Ela espera em Dernholm. Ela não sabe se você ainda a ama.}{}{-4}{qu1114 4, gf2290 0, gf2291 1}{-19}{ }
+{217}{Ela está em Dernholm, casou-se com Sir Gareek para que você pudesse enxergar.}{}{-4}{qu1114 4, gf2290 0, gf2291 0}{400}{ }
+{218}{Sinto muito. Ela o amou até morrer...}{}{-4}{gf2290 1}{229}{ }
+{219}{Ela era um incômodo. Eu a matei, assim como vou matar você!}{}{-4}{gf2290 1}{}{co, fl 234}
+{220}{Meu amor por ela nunca vacilou. Partirei imediatamente! Obrigado por tudo o que fez por nós. Você é um guerreiro honrado. Que os deuses o abençoem em sua jornada! Adeus!}{Meu amor por ela nunca vacilou. Partirei imediatamente! Obrigado por tudo o que fez por nós. Você é um guerreiro honrado. Que os deuses o abençoem em sua jornada! Adeus!}{}{}{}{ }
+{221}{Adeus.}{}{5}{}{-15}{ }
+{222}{Há uma coisa que você poderia fazer por mim... <<<PH1>>>... Mestre do Esquiva...}{}{5}{sk1 18, tr 1 2, tr 1 -2, gf2291 1, qu 1105 0}{350}{ }
+{223}{Devo lhe contar, Sir Garrick está morto. Eu tenho os olhos dele.}{}{5}{lf 15 0, in 5660, qu 1105 3}{162}{ }
+{224}{Agora que será uma luta justa... eu vou matá-lo!}{}{5}{}{}{co, fl 32}
+{225}{Gareek está morto! Eu tenho os ooolhos dele!}{}{-4}{lf 15 0, in 5660, qu 1105 3}{162}{ }
+{226}{Sim. Estou muito agitado. Quero aprender a ser <<<PH1>>> Mestre do Esquiva.}{}{-4}{sk1 18, tr 1 2, tr 1 -2, gf2291 1, qu 1105 0}{350}{ }
+{227}{Tchau-tchau.}{}{-4}{}{-15}{ }
+{228}{Agora você pode ver enquanto eu o mato!!}{}{-4}{}{}{co, fl 32}
+{229}{NÃÃÃÃO! Diga que não é verdade! Oh! Que preço teve esta visão! Que preço! Eu a trocaria num instante se ela estivesse viva! [Sua dor o abala com soluços] Por favor... deixe-me, para que eu possa chorar em solidão.}{NÃÃÃO! Diga que não é verdade! Oh! Que preço essa visão teve! Que preço! Eu a trocaria num instante se ao menos ela estivesse viva! [Sua dor o faz tremer em soluços] Por favor... vá embora, para que eu possa chorar em solidão.}{}{}{}{ }
+{230}{Sinto muito, Adkin. Eu vou embora. Adeus.}{}{5}{}{0}{ }
+{231}{Vamos ver se você será tão fácil de matar quanto ela foi...}{}{5}{}{}{co, fl 234}
+{232}{Me desculpa, A'ken. Tchau.}{}{-4}{}{0}{ }
+{233}{Me vê se ocê é fácil de matar como ela. Ocê grita feito muié?}{}{-4}{}{}{co, fl 234}
+{234}{O QUÊ!?! Você! Como ousa voltar para tripudiar! Eu terei minha vingança sobre você!}{O QUÊ!?! Você! Como ousa voltar para tripudiar! Eu terei minha vingança sobre você!}{}{}{}{ }
+{235}{}{}{}{}{}{ }
+{236}{}{}{}{}{}{ }
+{237}{}{}{}{}{}{ }
+{238}{}{}{}{}{}{ }
+{239}{}{}{}{}{}{ }
+{240}{Lady Druella! Você a viu! O que ela enviou?}{Lady Druella! Você a viu! O que ela enviou?}{}{}{}{ }
+{241}{Uma poção. Disseram-me que ela restaurará sua visão!}{}{5}{}{-10}{ }
+{242}{Uma poxão. Ela faz ocê enxergar de novo! Toma. Bebe isso.}{}{-4}{}{-10}{ }
+{244}{}{}{}{}{}{ }
+{245}{}{}{}{}{}{ }
+{246}{}{}{}{}{}{ }
+{247}{}{}{}{}{}{ }
+{248}{}{}{}{}{}{ }
+{249}{}{}{}{}{}{ }
+{252}{[Ele pensa por um momento.]...Os olhos dele. [Ri malignamente] Sim. Os olhos dele! Essa é a prova que eu quero! Traga-me os olhos de Sir Garrick Stout, e eu lhe ensinarei o Domínio da Esquiva.}{[Ele pensa por um momento.]...Os olhos dele. [Ri malignamente] Sim. Os olhos dele! Essa é a prova que eu quero! Traga-me os olhos de Sir Garrick Stout, e eu lhe ensinarei o Domínio da Esquiva.}{}{}{}{ }
+{253}{Voltarei com eles em breve.}{}{5}{}{0}{qu1116 2 }
+{254}{Sinto muito. Não quero matá-lo. Adeus.}{}{5}{}{0}{ }
+{255}{Me vai buscar eles. Volta logo.}{}{-4}{}{0}{qu1116 2 }
+{256}{Não. Me não quer matar Sir Gareek. Tchau.}{}{-4}{}{0}{ }
+{257}{[Ele começa a rir, maniacamente.] Sim! SIM!! Eu sabia que você era capaz! Deixe-me vê-los!}{[Ele começa a rir, maniacamente.] Sim! SIM!! Eu sabia que você era capaz! Deixe-me vê-los!}{}{}{}{lf 15 1 }
+{258}{Aqui, pegue-os.}{}{5}{}{262}{in 5660 }
+{259}{Por favor, leve essas coisas nojentas!}{}{5}{}{262}{in 5660 }
+{260}{Tá bom. Aqui estão.}{}{-4}{}{262}{in 5660 }
+{261}{Pega essa coisa nojenta nojenta!}{}{-4}{}{262}{in 5660 }
+{262}{[Ele começa a falar com os olhos.] Eu sabia que teria retribuição! Agora você pagou por seus crimes! A vingança é MINHA! [Ele esmaga os olhos em seus punhos cerrados, rindo o tempo todo.]}{[Ele começa a falar com os olhos.] Eu sabia que teria retribuição! Agora você pagou por seus crimes! A vingança é MINHA! [Ele esmaga os olhos em seus punhos cerrados, rindo o tempo todo.]}{}{}{}{ }
+{263}{Ahem. Adkin, posso receber meu treinamento agora?}{}{5}{sk1 18, tr 1 2, tr 1 -2}{271}{ }
+{264}{Ãhn... Me treina agora?}{}{-4}{sk1 18, tr 1 2, tr 1 -2}{271}{ }
+{265}{Ahem. Adkin, posso receber meu treinamento agora?}{}{5}{sk1 -17, tr 1 2, tr 1 -2}{285}{ }
+{266}{Ãhn... Me treina agora?}{}{-4}{sk1 -17, tr 1 2, tr 1 -2}{285}{ }
+{267}{Ahem. Adkin, posso receber meu treinamento agora?}{}{5}{tr 1 -1}{285}{ }
+{268}{humm... Me treinar agora?}{}{-4}{tr 1 -1}{285}{ }
+{271}{Sim, meu filho! Qualquer coisa que desejar por livrar o mundo daquela criatura vil! Ao matar Stout, você provou sua capacidade em nossa arte. Permita-me conceder-lhe o título de Mestre do Esquiva. Obrigado. Muito obrigado... E o que houve com minha amada Druella?}{Sim, minha filha! Qualquer coisa que desejar por livrar o mundo daquela criatura vil! Ao matar Stout, você provou sua capacidade em nossa arte. Permita-me conceder-lhe o título de Mestra do Esquiva. Obrigado. Muito obrigado... E o que houve com minha amada Druella?}{}{}{}{tr1 3, qu1116 4, Rq2163 }
+{272}{Ela está em Dernholm - ela não tinha certeza se você ainda a amava.}{}{5}{qu1114 4, gf2290 0, gf2291 1}{-19}{ }
+{273}{Ela se tornou a noiva de Sir Garrick, em troca da sua visão.}{}{5}{qu1114 4, gf2290 0, gf2291 0}{400}{ }
+{274}{Receio que ela não tenha resistido. Ela o amou até o fim.}{}{5}{gf2290 1}{229}{ }
+{275}{Ela era irritante. Eu a matei, assim como estou prestes a fazer com você.}{}{5}{gf2290 1}{}{co, fl 234}
+{276}{Ela espera em Dernholm. Ela não sabe se você ainda a ama.}{}{-4}{qu1114 4, gf2290 0, gf2291 1}{-19}{ }
+{277}{Ela está em Dernholm, casou-se com Sir Gareek, para que você pudesse enxergar.}{}{-4}{qu1114 4, gf2290 0, gf2291 0}{400}{ }
+{278}{Sinto muito. Ela o amou até morrer...}{}{-4}{gf2290 1}{229}{ }
+{279}{Ela era um incômodo. Eu a matei, assim como vou matar você!}{}{-4}{gf2290 1}{}{co, fl 234}
+{280}{Sou muito especializado. Não posso treiná-lo até que tenha completado tanto seu Aprendizado quanto o Treinamento de Especialista, e tenha praticado o suficiente para ser digno do Treinamento de Mestre. Sinto muito. Mas é tudo o que tenho a oferecer...}{Sou muito especializado. Não posso treiná-lo até que tenha completado tanto seu Aprendizado quanto o Treinamento de Especialista, e tenha praticado o suficiente para ser digno do Treinamento de Mestre. Sinto muito. Mas é tudo o que tenho a oferecer...}{}{}{}{ }
+{281}{Vou aprimorar minhas habilidades. O que servirá como prova da morte dele?}{}{5}{}{252}{qu1116 2 }
+{283}{Vou melhorar. Eu o matei. Que prova você quer de que ele está morto?}{}{-4}{}{252}{qu1116 2 }
+{284}{E:}{}{1}{}{0}{ }
+{285}{Sou muito especializado. Não posso treiná-lo até que tenha completado tanto seu Aprendizado quanto o Treinamento de Especialista, e tenha praticado o suficiente para ser digno do Treinamento de Mestre. Sinto muito. Volte quando tiver desenvolvido suas habilidades. Eu o treinarei.}{Sou muito especializado. Não posso treiná-lo até que tenha completado tanto seu Aprendizado quanto o Treinamento de Especialista, e tenha praticado o suficiente para ser digno do Treinamento de Mestre. Sinto muito. Volte quando tiver desenvolvido suas habilidades. Eu o treinarei.}{}{}{}{ }
+{286}{Vou me aprimorar e retornar.}{}{5}{}{0}{ }
+{288}{Vou melhorar. Depois volto.}{}{-4}{}{0}{ }
+{289}{E:}{}{1}{}{0}{ }
+{292}{}{}{}{}{}{ }
+{293}{}{}{}{}{}{ }
+{294}{}{}{}{}{}{ }
+{295}{}{}{}{}{}{ }
+{296}{Sim, meu filho! Qualquer coisa que desejar por livrar o mundo daquela criatura vil! Ao matar Stout, você provou sua capacidade como lutador. A qualquer momento... em breve, espero... que esteja pronto para aprender, concederei a você o título de Mestre do Esquiva. Obrigado. Muito obrigado... E o que houve com minha amada Druella?}{Sim, minha filha! Qualquer coisa que desejar por livrar o mundo daquela criatura vil! Ao matar Stout, você provou sua capacidade como lutadora. A qualquer momento... em breve, espero... que esteja pronta para aprender, concederei a você o título de Mestra do Esquiva. Obrigado. Muito obrigado... E o que houve com minha amada Druella?}{}{}{}{ }
+{297}{Ela está em Dernholm - ela não tinha certeza se você ainda a amava.}{}{5}{qu1114 4, gf2290 0, gf2291 1}{-19}{ }
+{298}{Ela se tornou a noiva de Sir Garrick, em troca da sua visão.}{}{5}{qu1114 4, gf2290 0, gf2291 0}{400}{ }
+{299}{Receio que ela não tenha resistido. Ela o amou até o fim.}{}{5}{gf2290 1}{229}{ }
+{300}{Ela era irritante. Eu a matei, assim como estou prestes a fazer com você.}{}{5}{gf2290 1}{}{co, fl 260}
+{301}{Ela espera em Dernholm. Ela não sabe se você ainda a ama.}{}{-4}{qu1114 4, gf2290 0, gf2291 1}{-19}{ }
+{302}{Ela está em Dernholm, casou-se com Sir Gareek, para que você pudesse enxergar.}{}{-4}{qu1114 4, gf2290 0, gf2291 0}{400}{ }
+{303}{Sinto muito. Ela o amou até morrer...}{}{-4}{gf2290 1}{229}{ }
+{304}{Ela era um incômodo. Eu a matei, assim como vou matar você!}{}{-4}{gf2290 1}{}{co, fl 260}
+{309}{Finalmente, você dominou as habilidades necessárias. Concedo-lhe o título de Mestre do Esquiva!}{Finalmente, você dominou a habilidade necessária. Eu lhe concedo o título de Mestre do Esquiva!}{}{}{}{tr1 3, qu1116 4, rq2163 }
+{310}{Obrigado pela sua paciência.}{}{5}{}{0}{ }
+{312}{Me dizê obrigadooo pro mestre!}{}{-4}{}{0}{ }
+{313}{E:}{}{1}{}{0}{ }
+{314}{G:}{G:}{}{}{}{ }
+{315}{Tenho os olhos de Garrick Stout como você pediu!}{}{5}{in5660, lf 13 0}{262}{lf 13 1, in 5660 }
+{316}{Ainda estou tentando matar Stout e trazer os olhos dele para você!}{}{5}{ni5660, lf 13 0}{0}{ }
+{317}{Estou pronto para o treinamento do mestre.}{}{5}{lf 13 1, tr 1 2, tr 1 -2, sk1 18}{309}{ }
+{318}{Ainda estou trabalhando no meu treinamento.}{}{5}{tr 1 -1, tr 1 1}{0}{ }
+{319}{Ainda estou aprimorando minha habilidade.}{}{5}{sk1 -17, tr 1 1}{0}{ }
+{320}{Não estou pronto para o treinamento.}{}{5}{}{0}{ }
+{321}{Me tem olhos de homem ruim.}{}{-4}{in5660, lf 13 0}{262}{lf 13 1, in 5660 }
+{322}{Me logo vai ter olhos de homem ruim.}{}{-4}{ni5660, lf 13 0}{0}{ }
+{323}{Ugh, me treinar. Agora!}{}{-4}{lf 13 1, tr 1 2, tr 1 -2, sk1 18}{309}{ }
+{324}{Ugh, me não treinar. Me precisa treinar. Me vai agora!}{}{-4}{tr 1 -1, tr 13 1}{0}{ }
+{325}{Ugh, me não treinar. Me precisa habilidade. Me vai agora!}{}{-4}{sk1 -17, tr 13 1}{0}{ }
+{326}{Ugh, me não pronto pra aprender.}{}{-4}{}{0}{ }
+{327}{A menos que você me traga os olhos de Sir Garrick Stout, não cumprirei nosso acordo. Traga-me os olhos dele!}{A menos que você me traga os olhos de Sir Garrick Stout, não cumprirei nosso acordo. Traga-me os olhos dele!}{}{}{}{ }
+{328}{E:}{}{5}{}{0}{ }
+{329}{E:}{}{-4}{}{0}{ }
+{330}{[Rindo] Você já é um mestre! Desejo-lhe sorte em todas as suas aventuras!}{[Rindo] Você já é um mestre! Desejo-lhe sorte em todas as suas aventuras!}{}{}{}{qu 1116 4 }
+{331}{E:}{}{5}{}{0}{ }
+{332}{E:}{}{-4}{}{0}{ }
+{335}{Mate Stout! E traga-me os olhos dele!}{Mate Stout! E traga-me os olhos dele!}{}{}{}{ }
+{336}{[Sua boca cai de descrença.] O que você disse? Garrick Stout está morto?}{[Sua boca cai de descrença.] O que você disse? Garrick Stout está morto?}{}{}{}{ }
+{337}{Sim.}{}{5}{}{339}{ }
+{338}{Sim! Ele tá morto.}{}{-4}{}{339}{ }
+{339}{Que prova você tem? Ele era o mestre do Combate Corpo a Corpo. Não poderia ter sido derrotado tão facilmente.}{Que prova você tem? Ele era o mestre do Combate Corpo a Corpo. Não poderia ter sido derrotado tão facilmente.}{}{}{}{ }
+{340}{Eu digo que ele está morto. Você pode duvidar de mim por sua própria conta e risco.}{}{5}{}{343}{ }
+{341}{Não questione minha honra, senhor.}{}{5}{}{343}{ }
+{342}{Ele tá muito muito morto. Me certeza!}{}{-4}{}{343}{ }
+{343}{[Ele aceita isso como verdade.] Pelos deuses de Arcanum, eu sabia que um dia teria minha retribuição! A vingança é MINHA, finalmente! Ha Ha Ha Ha}{[Ele aceita isso como verdade.] Como existem deuses em Arcanum, eu sabia que um dia teria minha retribuição! A vingança é MINHA, finalmente! Ha Ha Ha Ha}{}{}{}{ }
+{344}{Ahem. Adkin, podemos discutir sobre treinamento?}{}{5}{sk1 18, tr 1 2, tr 1 -2}{271}{ }
+{345}{Hmmm... Eu ser treinado agora?}{}{-4}{sk1 18, tr 1 2, tr 1 -2}{271}{ }
+{346}{Ahem. Adkin, podemos discutir sobre treinamento?}{}{5}{sk1 -17, tr 1 2, tr 1 -2}{285}{ }
+{347}{Hmmm... Eu ser treinado agora?}{}{-4}{sk1 -17, tr 1 2, tr 1 -2}{285}{ }
+{348}{Ahem. Adkin, podemos discutir sobre treinamento?}{}{5}{tr 1 -1}{285}{ }
+{349}{Hmmm... Eu ser treinado agora?}{}{-4}{tr 1 -1}{285}{ }
+{350}{Mas é claro... seria uma honra, depois de tudo que você fez @pcname@, lhe mostrar o segredo da Esquiva. Precisamos passar algumas horas treinando. Aqui, vamos começar...}{Mas é claro... seria uma honra, depois de tudo que você fez @pcname@, lhe mostrar o segredo da Esquiva. Precisamos passar algumas horas treinando. Aqui, vamos começar...}{}{}{}{ }
+{351}{[iniciar treinamento]}{}{1}{}{0}{tr 1 3 , rq2163 }
+{352}{}{}{}{}{}{ }
+{353}{Não tenho posses... espere! Sou muito habilidoso. Afinal, sou o Mestre da Esquiva. Ofereço treinamento de Mestre, se você o matar.}{Não tenho posses... espere! Sou muito habilidoso. Afinal, sou o Mestre da Esquiva. Ofereço treinamento de Mestre, se você o matar.}{}{}{}{qu1116 1 }
+{354}{Eu o matarei para você.}{}{5}{sk1 18, tr 1 2, tr 1 -2}{252}{ }
+{355}{Não sou habilidoso o suficiente para me tornar um Mestre.}{}{5}{sk1 -17, tr 1 2, tr 1 -2}{280}{ }
+{356}{Não sou um assassino de aluguel, recuso-me.}{}{5}{}{157}{ }
+{357}{Oh! Eu querer ser Mestre. Eu matar ele.}{}{-4}{sk1 18, tr 1 2, tr 1 -2}{252}{ }
+{358}{Isso parecer bom. Mas eu não ser bom o suficiente para ser Mestre.}{}{-4}{sk1 -17, tr 1 2, tr 1 -2}{280}{ }
+{359}{Eu não vou matar ele. Eu dizer não.}{}{-4}{}{157}{ }
+{360}{}{}{}{}{}{ }
+{361}{Saudações @pcname@, não tenho como agradecer por ter restaurado minha visão. Sempre estarei em dívida com você.}{Saudações @pcname@, não tenho como agradecer por ter restaurado minha visão. Sempre estarei em dívida com você.}{}{}{}{ }
+{362}{Há uma coisa que você poderia fazer por mim... Mestre da Esquiva...}{}{5}{sk1 18, tr 1 2, tr 1 -2, gf2291 1, qu 1105 0}{350}{ }
+{363}{Sim. Eu muito ágil. Eu querer aprender a ser Mestre da Esquiva.}{}{-4}{sk1 18, tr 1 2, tr 1 -2, gf2291 1, qu 1105 0}{350}{ }
+{364}{Você vai me treinar para ser um Mestre da Esquiva então?}{}{5}{sk1 18, tr 1 2, tr 1 -2, gf2291 0, qu 1105 0}{373}{ }
+{365}{Eu querer ser Mestre da Esquiva. Você ensinar eu?}{}{-4}{sk1 18, tr 1 2, tr 1 -2, gf2291 0, qu 1105 0}{373}{ }
+{366}{Tenho pensado na sua oferta de matar Stout.}{}{5}{sk1 18, tr 1 2, tr 1 -2, gf2291 0, qu 1105 1}{392}{ }
+{367}{Eu estar pensando em matar Stout.}{}{-4}{sk1 18, tr 1 2, tr 1 -2, gf2291 0, qu 1105 1}{392}{ }
+{368}{Tenho os olhos de Sir Garrick Stout!}{}{5}{qu1105 3, in5660, lf 15 0}{162}{ }
+{369}{Eu consegui olhos! Eu consegui olhos!}{}{-4}{qu1105 3, in5660, lf 15 0}{162}{ }
+{370}{Ainda não consegui os olhos de Stout.}{}{5}{qu1105 2, ni5660}{157}{ }
+{371}{Eu não consegui olhos ainda.}{}{-4}{qu1105 2, ni5660}{157}{ }
+{372}{E:}{}{1}{}{0}{ }
+{373}{[pensativamente] Sim, mas com uma condição... Que Garrick Stout morra. Mate-o e eu o treinarei.}{[pensativamente] Sim, mas com uma condição... Que Garrick Stout morra. Mate-o e eu o treinarei.}{}{}{}{ }
+{374}{Se eu o matar, você me treinará como pagamento?}{}{5}{}{383}{ }
+{375}{Não. Não tenho desavenças com ele. Não o farei.}{}{5}{}{0}{ }
+{376}{É assim que você o retribui? Você deve morrer!}{}{5}{}{}{co, fl 32}
+{377}{Eu matar ele então você me treina?}{}{-4}{}{383}{ }
+{378}{Não. Eu não tô bravo com Sir Gareek. Eu não matar ele.}{}{-4}{}{0}{ }
+{379}{Ele te ajudou! Você é quem deve morrer!}{}{-4}{}{}{co, fl 32}
+{380}{}{}{}{}{}{ }
+{381}{}{}{}{}{}{ }
+{382}{}{}{}{}{}{ }
+{383}{Sim, eu ofereço treinamento de Mestre, se você o matar.}{Sim, eu ofereço treinamento de Mestre, se você o matar.}{}{}{}{qu1116 1 }
+{384}{Eu o matarei por você.}{}{5}{sk1 18, tr 1 2, tr 1 -2}{252}{ }
+{385}{Não sou um assassino de aluguel, recuso.}{}{5}{}{157}{ }
+{386}{Oh! Eu querer ser Mestre. Eu matar ele.}{}{-4}{sk1 18, tr 1 2, tr 1 -2}{252}{ }
+{387}{Eu não vou matar ele. Eu digo não.}{}{-4}{}{157}{ }
+{388}{}{}{}{}{}{ }
+{389}{}{}{}{}{}{ }
+{390}{}{}{}{}{}{ }
+{391}{}{}{}{}{}{ }
+{392}{[Rindo malignamente] Traga-me os olhos dele. Isso será prova suficiente de que está morto.}{[Rindo malignamente] Traga-me os olhos dele. Isso será prova suficiente de que está morto.}{}{}{}{ }
+{393}{Considere-os seus.}{}{5}{}{0}{qu 1105 2 }
+{394}{E:}{}{5}{}{0}{ }
+{395}{Eu os consigo.}{}{-4}{}{0}{qu 1105 2 }
+{396}{E:}{}{1}{}{0}{ }
+{397}{}{}{}{}{}{ }
+{398}{}{}{}{}{}{ }
+{399}{}{}{}{}{}{ }
+{400}{[Horrorizado] Não! ...Que preço teve essa visão! Que preço! Eu jamais teria pedido a ela que se casasse com aquele monstro! ...Ele deve morrer! Mas ele provou que não sou páreo para ele... Você parece forte. Destruirá essa criatura imunda? O que me diz?}{[Horrorizado] Não! ...Que preço teve essa visão! Que preço! Eu jamais teria pedido a ela que se casasse com aquele monstro! ...Ele deve morrer! Mas ele provou que não sou páreo para ele... Você parece forte. Destruirá essa criatura imunda? O que me diz?}{}{}{}{ }
+{401}{Que pagamento você oferece?}{}{5}{qu 1105 0}{353}{ }
+{402}{Você já sugeriu matar Stout antes.}{}{5}{qa 1105 1, qb 1105 2}{414}{ }
+{403}{Tenho os olhos de Sir Garrick Stout!}{}{5}{qu1105 3, in5660, lf 15 0}{162}{ }
+{404}{Eu tenho os olhos! Eu tenho os olhos!}{}{-4}{qu1105 3, in5660, lf 15 0}{162}{ }
+{405}{Não. Não tenho desavenças com ele. Não o farei.}{}{5}{}{0}{ }
+{406}{É assim que você o retribui? Você deve morrer!}{}{5}{}{}{co, fl 32}
+{407}{O que você me dá pra matar ele?}{}{-4}{qu 1105 0}{353}{ }
+{408}{Você já me falou sobre matar Stout antes.}{}{-4}{qa 1105 1, qb 1105 2}{414}{ }
+{409}{Ainda não consegui os olhos de Stout.}{}{5}{qu1105 2, ni5660}{157}{ }
+{410}{Eu ainda não peguei os olhos.}{}{-4}{qu1105 2, ni5660}{157}{ }
+{411}{Não. Eu não estou bravo com o Sir Gareek. Eu não o matei.}{}{-4}{}{0}{ }
+{412}{Ele te consertou! Você é quem precisa morrer!}{}{-4}{}{}{co, fl 32}
+{413}{E:}{}{1}{}{0}{ }
+{414}{Sim... e meu desejo por vingança permanece inalterado! Mate Stout e traga-me os olhos dele como prova! Faça isso... e eu o treinarei como Mestre do Esquiva!}{Sim... e meu desejo por vingança permanece inalterado! Mate Stout e traga-me os olhos dele como prova! Faça isso... e eu o treinarei como Mestre do Esquiva!}{}{}{}{ }
+{415}{Eu o matarei por você e retornarei.}{}{5}{sk1 18, tr 1 2, tr 1 -2}{0}{qu 1105 2 }
+{416}{Eu não sou um assassino de aluguel, eu recuso.}{}{5}{}{0}{ }
+{417}{Oh! Eu gosto de ser Mestre. Eu o matarei.}{}{-4}{sk1 18, tr 1 2, tr 1 -2}{0}{qu 1105 2 }
+{418}{Eu não vou matá-lo. Eu digo não.}{}{-4}{}{0}{ }
+{419}{E:}{}{1}{}{0}{ }
+{420}{}{}{}{}{}{ }
+{421}{}{}{}{}{}{ }
+

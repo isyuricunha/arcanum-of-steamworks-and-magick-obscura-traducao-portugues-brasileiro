@@ -1,0 +1,957 @@
+// These are race-based NPC messages, said by female NPC's to female PC's
+// based on the PC's race
+
+// Insult messages start at 1000. Each PC race gets 50 messages
+// starting on multiples of 50 (and the first block is reserved
+// for when the NPC race is the same as the PC race)
+
+
+{1000}{Seu verme insolente! Como ousa?}
+{1001}{Saia da minha frente, seu rufião nojento!}
+{1002}{Não tenho que ouvir isso!}
+{1003}{Você é um grosseirão sem modos!}
+{1004}{Saia de perto de mim, seu maluco desgraçado!}
+{1005}{Droga! Você está maluco?}
+{1006}{Some daqui, seu saco de pulgas imundo!}
+{1007}{Vaza, seu troglodita rato!}
+{1008}{Me deixe em paz, seu idiota tagarela!}
+{1009}{Não vou aturar suas bobagens, seu maluco desgraçado!}
+{1010}{Vaza, seu cabeça-de-vento imbecil!}
+{1011}{Você não passa de um reles saco de lixo!}
+{1012}{Seu sujo desgraçado! Seu piolhento! Odeio sua raça!}
+{1013}{O que está olhando, seu idiota completo?}
+{1014}{Que criatura sórdida e desprezível você é!}
+{1015}{Ora, você está louco, completamente louco.}
+{1016}{Que uma praga caia sobre você e os seus!}
+{1017}{Que uma maldição recaia sobre você e sua casa!}
+{1018}{Maldito seja você e tudo o que defende!}
+{1019}{Sua raça é uma praga!}
+{1020}{Droga! Você é um delinquente sem esperança.}
+{1021}{Droga! Você não tem redenção.}
+{1022}{Nada! Você é um bruto incorrigível e insensível.}
+{1023}{Você é um indivíduo depravado, com certeza.}
+{1024}{Você é um farsante e um charlatão!}
+{1025}{Bobagem! Você é um preguiçoso, um inútil cretino.}
+{1026}{Você é um serviçal, um peão, um mero subalterno. Saia daqui!}
+{1027}{Você é um canalha imoral e libertino!}
+
+{1050}{O que está olhando, escória humana?}
+{1051}{Olha só! Um humano respondão e cheio de si!}
+{1052}{Vocês, humanos, não passam de pilhas ambulantes de esterco fedorento!}
+{1053}{Humano ladrão e escória! Você não é bem-vindo aqui!}
+{1054}{Não vou aturar suas bobagens humanas, seu saco de pulgas!}
+{1055}{Humanos nojentos! Sumam daqui, seu covarde imprestável!}
+{1056}{Dê uma olhada nisto: um humano desajeitado e desastrado!}
+{1057}{Seu humano idiota e podre! Some daqui!}
+{1058}{Vocês, humanos, são um bando chato e cabeças-ocas.}
+{1059}{Vocês, humanos, são fracos e covardes, indignos de viver.} 
+{1060}{Escória humana! Espero que apodreça.}
+{1061}{Vocês, humanos, não merecem nem desprezo!} 
+{1062}{Sua raça é uma praga maligna no mundo!} 
+
+
+{1100}{<<<PH1>>>}
+{1101}{O que está fazendo aqui, seu velho <<<PH2>>>?}
+{1102}{Você não pertence aqui, seu <<<PH3>>>!}
+{1103}{Some daqui, seu anão desastrado e imundo!}
+{1104}{Não gosto do seu fedor, seu anão podre e botador de ovos!}
+{1105}{Droga! Some daqui ou vou cortar sua barba suja!}
+{1106}{Vocês, anões preguiçosos e inúteis, são uma praga no mundo!}
+{1107}{Vocês, anões, não passam de pilhas barbadas de esterco fedorento!}
+{1108}{Seu <<<PH4>>> rabugento!}
+{1109}{Fique longe de mim ou vou cortar sua barba fedorenta!}
+{1110}{Some daqui, seu <<<PH5>>>! Odeio vocês, barbudos ambulantes!}
+
+{1150}{Seu elfo arrogante desgraçado!}
+{1151}{Seu <<<PH6>>> orelhudo e saltitante!}
+{1152}{Vocês, elfos preguiçosos e inúteis, são uma praga maldita no mundo!}
+{1153}{Vocês, elfos, não passam de pilhas saltitantes de esterco perfumado fedorento!}
+{1154}{Some daqui, seu <<<PH7>>> saltitante!}
+{1155}{Droga! Não aguento mais sua arrogância élfica!}
+{1156}{Seu tolo orelhudo!}
+{1157}{Some daqui, seu orelhudo primo de um orc!}
+{1158}{Vaza daqui, seu saco de pulgas nojento! Odeio vocês, elfos cara-de-pau!}
+{1159}{Vocês, elfos metidos a santos, não são melhores que orcs!}
+
+{1200}{Do que você tem que ser arrogante, Meio-Elfo?}
+{1201}{Vocês, meio-elfos, são todos malucos!}
+{1202}{Seus Meio-Elfos fedidos e orelhudos são todos uns tolos!}
+{1203}{Seu Meio-Elfo bundão! Vou usar suas tripas como ligas!}
+{1204}{Vocês, meio-elfos preguiçosos e inúteis, são uma praga no mundo!}
+{1205}{Vocês, meio-elfos, não passam de montes de esterco perfumado!}
+{1206}{Seu Meio-Elfo ignorante e burro!}
+{1207}{Some daqui, seu Meio-Elfo tagarela.}
+{1208}{Vaza daqui, seu saco de pulgas nojento! Odeio vocês, meio-elfos!} 
+{1209}{Vocês, meio-elfos de baixa estirpe, são todos lascivos e desprezíveis.}
+{1210}{Bah! Meio-Elfos! Vocês são todos mestiços covardes.}
+ 
+{1250}{Vá pro inferno, seu porco capitalista rico!}
+{1251}{Tente me responder, gnomo, e eu te mostro o que é bom!}
+{1252}{Vocês, seus gananciosos de meia-tigela, deviam todos morrer!}
+{1253}{Seu gnomo tonto! O que veio fazer aqui?}
+{1254}{Cala a boca, seu gnomo imundo!}
+{1255}{Vocês, gnomos, são montes de esterco fedorento vestindo ternos!}
+{1256}{Some daqui, seu gnomo fedido!}
+{1257}{Vaza daqui, seu gnomo velho e imundo!}
+{1258}{Vaza daqui, seu saco de pulgas nojento! Odeio vocês, gnomos feios!}
+{1259}{Vocês, gnomos beligerantes, são todos uns tolos bestiais!}
+
+{1300}{Volta pro seu buraco lamacento, halfling!}
+{1301}{Some daqui, seu nanico!}
+{1302}{Some daqui, seu ladrãozinho de meia-tigela!}
+{1303}{Vocês, pestinhas baixinhos, são todos descalços e sem noção!}
+{1304}{Vocês, pés-peludos chorões, são todos uns inúteis!}
+{1305}{Vocês, halflings preguiçosos, são uma praga maldita no mundo!}
+{1306}{Seu halfling ignorante e burro!}
+{1307}{Some daqui, seu saco de pulgas nojento! Odeio vocês, hobbits gordos!}
+{1308}{Vocês, pés-peludos covardes, não passam de sapos!}
+{1309}{Vocês, hobbits, são um bando de pés-peludos idiotas!}
+{1310}{Você é um bobão de pés grandes!}
+{1311}{Some daqui, seu ladrãozinho bajulador!}
+
+
+{1350}{Meio-orc? Para mim, você fede 100% orc!}
+{1351}{Que se dane! Vocês, meio-orcs, são uns sacos de lixo nojentos!}
+{1352}{Some daqui, meio-orc! Ou vou usar suas tripas como ligas!}
+{1353}{Some daqui, Meio-Sangue! Seu porco ladrão me dá nojo!}
+{1354}{Vaza daqui, seu troglodita nojento!}
+{1355}{Seu meio-orc preguiçoso, inútil e feio!}
+{1356}{Some daqui, seu saco de pulgas nojento! Odeio vocês, meio-orcs feios!}
+{1357}{Vocês, meio-orcs preguiçosos e inúteis, são uma praga no mundo!}
+{1358}{Vocês, meio-orcs, são montes covardes de esterco fedorento!}
+{1359}{Seu meio-orc ignorante e meio-cérebro!}
+{1360}{Vocês, meio-orcs estúpidos, são um bando incivilizado e bárbaro.}
+{1361}{Meio-orcs não são dignos de conviver com pessoas de verdade.}
+{1362}{Vocês, meio-orcs repulsivos, não deveriam ser vistos à luz do dia.}
+
+ 
+{1400}{Vocês, meio-ogros, são um bando de burros, né?}
+{1401}{Que se dane! Vocês, Meio-Grandes, são todos burros como uma porta!}
+{1402}{Vocês, meio-ogros, são uns brutamontes ignorantes!}
+{1403}{Some daqui, seu idiota de cabeça dura e burro!}
+{1404}{Some daqui, sua montanha ambulante!}
+{1405}{Some daqui, seu meio-ogro preguiçoso e ignorante!}
+{1406}{Vocês, meio-ogros, são montanhas ambulantes de esterco fedorento!}
+{1407}{Seu grandalhão idiota! Nenhum de vocês, meio-ogros, tem meio-cérebro!}
+{1408}{Seu capacho ignorante de meio-ogro!}
+{1409}{Seu meio-ogro estúpido e meio-tolo!}
+{1410}{Some daqui, seu saco de pulgas nojento! Odeio vocês, meio-orcs feios!} 
+{1411}{Vocês, meio-ogros estúpidos, são um bando incivilizado e bárbaro!}
+{1412}{Onde está o seu pequeno mestre gnomo, idiota?}
+{1413}{Bobagem! Você não passa de um serviçal de gnomo.}
+
+
+// Initial bad greeting messages start at 2000. Each PC race gets 50
+// messages starting on multiples of 50 (and the first block is reserved
+// for when the NPC race is the same as the PC race)
+
+{2000}{O que você quer?}
+{2001}{O que é que você quer de mim?}
+{2002}{Eu preferiria não falar com você.}
+{2003}{Por que está me incomodando?}
+{2004}{Por que você me incomoda?}
+{2005}{O quê? Estou ocupado. Me deixe em paz.}
+{2006}{O que você poderia querer de mim?}
+{2007}{Por que você presumiria que eu teria algum desejo de falar com alguém como você?}
+{2008}{Vá direto ao ponto. Não tenho o dia todo.}
+{2009}{Sim? Vá direto ao ponto.}
+{2010}{Não posso te ajudar.}
+{2011}{Por que você me aborda?}
+{2012}{Não tenho tempo para gente como você.}
+{2013}{O que significa isso?}
+{2014}{Você deve estar perdido. Você não pertence a este lugar.}
+
+
+{2050}{O que um humano quer de mim?}
+{2051}{O que você quer, humano?}
+{2052}{Não tenho tempo para humanos.}
+{2053}{O que um humano quer comigo?}
+{2054}{Vá direto ao ponto, humano. Não tenho o dia todo.}
+{2055}{Não tenho tempo para você, humano.}
+{2056}{Não posso te ajudar, humano.}
+{2057}{Não tenho tempo para sua laia, humano.}
+{2058}{Não me associo com humanos.}
+{2059}{Fale, humano. Ou você não sabe como?}
+{2060}{Não te conheço, humano, nem quero conhecer.}
+{2061}{O que um humano poderia querer comigo?}
+{2062}{Vá direto ao ponto, humano.}
+{2063}{O quê? Você é um mendigo? O que é, humano?}
+{2064}{Fale alto, humano. Não resmungue.}
+
+
+{2100}{Não tenho tempo para os da sua raça, anão.}
+{2101}{O que é, anão?}
+{2102}{Não tenho tempo para anões.}
+{2103}{O que um anão quer comigo?}
+{2104}{Anda logo, anão. Não tenho o dia todo.}
+{2105}{Não posso te ajudar, anão.}
+{2106}{Não tenho tempo para os do seu tipo, anão.}
+{2107}{Não me relaciono com anões.}
+{2108}{Fale, anão. Ou não sabe como?}
+{2109}{Não te conheço, anão, nem quero conhecer.}
+{2110}{O que um anão poderia querer comigo?}
+{2111}{Anda logo, anão.}
+{2112}{Deve estar perdido, anão. Você não pertence a este lugar.}
+{2113}{O quê? É um mendigo? O que é, anão?}
+{2114}{Fale alto, anão. Não resmungue.}
+{2115}{Você não pertence a este lugar, anão.}
+
+
+{2150}{Não tenho paciência para os da sua raça, orelhudo.}
+{2151}{Não tenho tempo para você, elfo.}
+{2152}{Sugiro que vá embora, orelhudo.}
+{2153}{Não tenho tempo para elfos.}
+{2154}{O que um elfo quer comigo?}
+{2155}{Anda logo, elfo. Não tenho o dia todo.}
+{2156}{Não desejo falar com você, elfo.}
+{2157}{Não posso te ajudar, elfo.}
+{2158}{Não tenho tempo para os do seu tipo, elfo.}
+{2159}{Não me relaciono com elfos.}
+{2160}{Fale, elfo. Ou não sabe como?}
+{2161}{Não te conheço, elfo, nem quero conhecer.}
+{2162}{O que um elfo poderia querer comigo?}
+{2163}{Vamos logo com isso, elfo.}
+{2164}{O quê? Você é um mendigo? O que quer, elfo?}
+{2165}{Você não pertence a este lugar, elfo.}
+
+
+{2200}{Não tenho paciência para mestiços.}
+{2201}{Não gosto do seu tipo, meio-elfo.}
+{2202}{O que você quer, meio-elfo? Nada de bom, disso tenho certeza.}
+{2203}{Não tenho tempo para mestiços.}
+{2204}{O que um meio-elfo quer comigo?}
+{2205}{Vamos logo com isso, meio-elfo. Não tenho o dia todo.}
+{2206}{Não desejo falar com você, mestiço.}
+{2207}{Não posso ajudá-lo, meio-elfo.}
+{2208}{Não tenho tempo para sua laia, meio-elfo.}
+{2209}{Não me associo com mestiços.}
+{2210}{Fale, meio-elfo. Ou não sabe como?}
+{2211}{Não o conheço, meio-elfo, nem quero conhecer.}
+{2212}{O que um meio-elfo poderia querer comigo?}
+{2213}{Vamos logo com isso, meio-elfo.}
+{2214}{Deve estar perdido, mestiço. Você não pertence a este lugar.}
+{2215}{O quê? Você é um mendigo? O que quer, meio-elfo?}
+{2216}{Você não pertence a este lugar, mestiço.}
+{2217}{Aqui não nos associamos com mestiços.}
+
+
+
+{2250}{Um gnomo se digna a falar comigo?}
+{2251}{Não gosto do seu tipo, gnomo.}
+{2252}{O que você quer, gnomo? Nada de bom, disso tenho certeza.}
+{2253}{Não tenho tempo para gnomos.}
+{2254}{O que um gnomo quer comigo?}
+{2255}{Vamos logo com isso, gnomo. Não tenho o dia todo.}
+{2256}{Não tenho paciência para gnomos, tolo.}
+{2257}{Não posso ajudá-lo, gnomo.}
+{2258}{Não tenho tempo para sua laia, gnomo.}
+{2259}{Eu não me associo com gnomos.}
+{2260}{Fale, gnomo. Ou não sabe como?}
+{2261}{Eu não conheço você, gnomo, nem desejo conhecer.}
+{2262}{O que um gnomo poderia querer comigo?}
+{2263}{Vá logo ao ponto, gnomo.}
+{2264}{Por que você acha que eu desejaria falar com um gnomo?}
+{2265}{Você deve estar perdido, gnomo. Não é bem-vindo aqui.}
+{2266}{O quê? Você é um mendigo? O que é, gnomo?}
+{2267}{Fale alto, gnomo. Não resmungue.}
+{2268}{Nós não nos associamos com a sua espécie por aqui, gnomo.}
+
+
+
+{2300}{Um halfling se digna a falar comigo?}
+{2301}{Eu não gosto da sua espécie, halfling.}
+{2302}{O que você quer, halfling? Nada de bom, disso tenho certeza.}
+{2303}{Eu não tenho tempo para halflings.}
+{2304}{O que um halfling quer comigo?}
+{2305}{Vá logo ao ponto, halfling. Não tenho o dia todo.}
+{2306}{Eu não tenho paciência para halflings, tolo.}
+{2307}{Eu não posso te ajudar, halfling.}
+{2308}{Eu não tenho tempo para a sua laia, halfling.}
+{2309}{Eu não me associo com halflings.}
+{2310}{Fale, halfling. Ou não sabe como?}
+{2311}{Eu não conheço você, halfling, nem desejo conhecer.}
+{2312}{O que um halfling poderia querer comigo?}
+{2313}{Vá logo ao ponto, halfling.}
+{2314}{Por que você acha que eu desejaria falar com um halfling?}
+{2315}{Você deve estar perdido, halfling. Não é bem-vindo aqui.}
+{2316}{O quê? Você é um mendigo? O que é, halfling?}
+{2317}{Fale alto, halfling. Não resmungue.}
+{2318}{Nós não nos associamos com a sua espécie por aqui, halfling.}
+
+
+{2350}{Um meio-orque se digna a falar comigo?}
+{2351}{Não gosto do seu tipo, meio-orque.}
+{2352}{O que você quer, meio-orque? Nada de bom, disso tenho certeza.}
+{2353}{Não tenho tempo para meio-orques.}
+{2354}{O que um meio-orque quer comigo?}
+{2355}{Anda logo, meio-orque. Não tenho o dia todo.}
+{2356}{Não tenho paciência para meio-orques, tolo.}
+{2357}{Não posso ajudá-lo, meio-orque.}
+{2358}{Não tenho tempo para sua laia, meio-orque.}
+{2359}{Não me associo com meio-orques.}
+{2360}{Fale, meio-orque. Ou será que não sabe?}
+{2361}{Não o conheço, meio-orque, nem desejo conhecer.}
+{2362}{O que um meio-orque poderia querer comigo?}
+{2363}{Anda logo, meio-orque.}
+{2364}{Por que acha que eu gostaria de falar com um meio-orque?}
+{2365}{Deve estar perdido, meio-orque. Você não é bem-vindo aqui.}
+{2366}{O quê? É um mendigo? O que é, meio-orque?}
+{2367}{Fale alto, meio-orque. Não resmungue.}
+{2368}{Aqui não nos associamos com sua espécie, meio-orque.}
+
+
+{2400}{Um meio-ogro se digna a falar comigo?}
+{2401}{Não gosto do seu tipo, meio-ogro.}
+{2402}{O que você quer, meio-ogro? Nada de bom, disso tenho certeza.}
+{2403}{Não tenho tempo para meio-ogros.}
+{2404}{O que um meio-ogro quer comigo?}
+{2405}{Anda logo, meio-ogro. Não tenho o dia todo.}
+{2406}{Não tenho paciência para meio-ogros, tolo.}
+{2407}{Não posso ajudá-lo, meio-ogro.}
+{2408}{Não tenho tempo para sua laia, meio-ogro.}
+{2409}{Não me associo com meio-ogros.}
+{2410}{Fale, meio-ogro. Ou será que não sabe?}
+{2411}{Não o conheço, meio-ogro, nem desejo conhecer.}
+{2412}{O que um meio-ogro poderia querer comigo?}
+{2413}{Anda logo, meio-ogro.}
+{2414}{Por que você acha que eu gostaria de falar com um meio-ogro?}
+{2415}{Você deve estar perdido, meio-ogro. Você não é bem-vindo aqui.}
+{2416}{O quê? Você é um mendigo? O que é, meio-ogro?}
+{2417}{Fale logo, meio-ogro. Não resmungue.}
+{2418}{Nós não nos associamos com a sua espécie por aqui, meio-ogro.}
+
+
+// Initial worst greeting messages start at 3000. Each PC race gets 50
+// messages starting on multiples of 50 (and the first block is reserved
+// for when the NPC race is the same as the PC race)
+
+{3000}{Deixe-me em paz, idiota.}
+{3001}{Sangue e Areia! Por que você está me incomodando, idiota?}
+{3002}{Some daqui, sim? Estou ocupado.}
+{3003}{Por que um idiota como você sente necessidade de me incomodar?}
+{3004}{Você não parece melhor do que cheira.}
+{3005}{Eu não gosto de ser incomodado por cabeças-de-vento como você. Entendeu?}
+{3006}{O que é, idiota?}
+{3007}{Escória. Eu preferiria não falar com a sua espécie.}
+{3008}{Deixe-me em paz antes que eu abra você, idiota.}
+{3009}{Some daqui, imbecil.}
+
+{3050}{Vocês humanos são os piores da raça...}
+{3051}{Some daqui, humano! Estou ocupado.}
+{3052}{Você é um humano cabeça-de-vento se eu já vi um...}
+{3053}{Humanos! Deviam trancar todos vocês...}
+{3054}{Vocês humanos me enojam!}
+{3055}{O que é, escória humana?}
+{3056}{O que é, humano ignorante?}
+{3057}{Escória humana. Eu não falo com a sua espécie.}
+{3058}{Sua mera presença me enoja, humano.}
+{3059}{Saia da minha frente, humano.}
+
+{3100}{Vocês anões são os piores da raça...}
+{3101}{Some daqui, seu anão nojento! Estou ocupado.}
+{3102}{Você é um anão cabeça-dura se eu já vi um...}
+{3103}{Anões! Deviam enterrar todos vocês...}
+{3104}{Outro anão arrogante. O que você quer, idiota?}
+{3105}{Vocês, anões, me dão náuseas.}
+{3106}{Eu odeio anões.}
+{3107}{O que é, seu anão ignorante?}
+{3108}{Escória anã. Não falo com gente como você.}
+{3109}{Sua simples presença me enoja, anão.}
+{3110}{Some da minha frente, anão.}
+
+
+{3150}{Vocês, elfos, são os piores de todos...}
+{3151}{Some daqui, seu elfo nojento! Estou ocupado.}
+{3152}{Você é um elfo cabeça-de-pau como nunca vi antes...}
+{3153}{Elfos! Deviam enforcar todos vocês...}
+{3154}{Outro elfo arrogante. O que você quer?}
+{3155}{Eu sabia que os elfos eram repulsivos, mas você...}
+{3156}{Eu odeio elfos. Ficou claro?}
+{3157}{O que é, seu elfo ignorante?}
+{3158}{Escória élfica. Não falo com gente como você.}
+{3159}{Sua simples presença me enoja, elfo.}
+{3160}{Some da minha frente, elfo.}
+{3161}{Seu ar de superioridade élfica me dá náuseas. Saia daqui.}
+
+{3200}{Outro mestiço desgraçado. O que você quer?}
+{3201}{Vocês, elfos, são os piores de todos...}
+{3202}{Some daqui, seu mestiço nojento! Estou ocupado.}
+{3203}{Você é um mestiço cabeça-de-pau como nunca vi antes...}
+{3204}{Mestiços! Deviam queimar todos vocês...}
+{3205}{Outro mestiço arrogante. O que você quer?}
+{3206}{Eu achava que os elfos verdadeiros eram repulsivos, mas você...}
+{3207}{Eu odeio elfos e seus parentes.}
+{3208}{O que é, seu mestiço ignorante?}
+{3209}{Escória élfica. Não falo com gente como você.}
+{3210}{Sua mera presença me enoja, mestiço.}
+{3211}{Saia da minha frente, lixo élfico.}
+
+
+{3250}{Outro gnomo mimado. O que você quer?}
+{3251}{Vocês, gnomos, são os piores de todos...}
+{3252}{Some daqui, seu gnomo nojento! Estou ocupado.}
+{3253}{Outro gnomo pão-duro...}
+{3254}{Gnomos! Deviam queimar todos vocês...}
+{3255}{Outro gnomo sovina. O que você quer, idiota?}
+{3256}{Odeio gnomos e sua raça.}
+{3257}{O que é, seu gnomo ignorante?}
+{3258}{Escória gnômica. Não falo com sua espécie.}
+{3259}{Sua mera presença me enoja, gnomo.}
+{3260}{Saia da minha frente, lixo gnômico.}
+{3261}{A maioria dos gnomos é detestável, mas você ganhou o prêmio.}
+
+{3300}{Outro halfling insuportável. O que você quer?}
+{3301}{Vocês, halflings, são os piores de todos...}
+{3302}{Some daqui, seu halfling nojento! Estou ocupado.}
+{3303}{Outro halfling cabeça-oca...}
+{3304}{Halflings! Deviam espetar todos vocês...}
+{3305}{Halflings incômodos... o que você quer?}
+{3306}{Você me causa repulsa, halfling.}
+{3307}{Odeio halflings e sua raça.}
+{3308}{O que é, seu halfling ignorante?}
+{3309}{Escória halfling. Não falo com sua espécie.}
+{3310}{Sua mera presença me enoja, halfling.}
+{3311}{Saia da minha frente, lixo halfling.}
+{3312}{Para ser tão pequeno, você é monumentalmente repugnante, halfling...}
+
+{3350}{Outro mestiço desgraçado. O que você quer?}
+{3351}{Vocês, orcs ralé, são os piores de todos...}
+{3352}{Some daqui, seu mestiço nojento! Estou ocupado.}
+{3353}{Só podia ser um mestiço de cérebro pequeno...}
+{3354}{Mestiços! Deviam esfolar todos vocês...}
+{3355}{Outro mestiço insolente. O que você quer?}
+{3356}{Achei que orcs normais já eram repulsivos, mas você...}
+{3357}{Odeio orcs e sua laia.}
+{3358}{O que é, seu mestiço ignorante?}
+{3359}{Escória orc. Não falo com a sua espécie.}
+{3360}{Sua presença me enoja, mestiço.}
+{3361}{Some da minha frente, lixo orc.}
+{3362}{Até os mestiços orcs são nojentos, vejo. Some daqui.}
+
+{3400}{Outro mestiço bárbaro. O que você quer?}
+{3401}{Vocês, ogros ralé, são os piores de todos...}
+{3402}{Some daqui, seu mestiço nojento! Estou ocupado.}
+{3403}{Só podia ser um mestiço de cérebro pequeno...}
+{3404}{Mestiços! Deviam apedrejar todos vocês...}
+{3405}{Outro mestiço analfabeto. O que você quer?}
+{3406}{Odeio ogros e sua laia.}
+{3407}{O que é, seu mestiço ignorante?}
+{3408}{Escória ogra. Não falo com a sua espécie.}
+{3409}{Sua presença me enoja, mestiço.}
+{3410}{Some da minha frente, lixo ogro.}
+{3411}{Até os mestiços ogros são nojentos, vejo. Some daqui.}
+
+
+// Second bad greeting messages start at 4000. Each PC race gets 50
+// messages starting on multiples of 50 (and the first block is reserved
+// for when the NPC race is the same as the PC race)
+
+{4000}{Por que voltou aqui? Não tenho vontade de falar com você de novo...}
+{4001}{Não me lembro de querer falar com você novamente.}
+{4002}{Pare de voltar aqui.}
+{4003}{Já aguentei o suficiente das suas bobagens. Me deixe em paz.}
+{4004}{Prefiro não falar com você.}
+{4005}{Vá logo com isso. Não tenho o dia todo.}
+{4006}{Não tenho tempo para gente como você.}
+{4007}{Me deixe em paz. Não gosto de você.}
+{4008}{Acho que não quero falar com você.}
+{4009}{É melhor você ter um bom motivo para falar comigo de novo.}
+{4010}{O que significa isso?}
+{4011}{Diga o que tem a dizer e vá embora.}
+{4012}{O que você quer de mim?}
+{4013}{Prefiro não falar com você.}
+{4014}{Por que está me incomodando?}
+{4015}{Tenho pouco tempo para gente como você...}
+{4016}{Vá embora. Não gostei de você da última vez que conversamos...}
+{4017}{Me deixe em paz. Já tive o suficiente de você...}
+
+{4050}{Não tenho desejo de falar com você, humano.}
+{4051}{Por que está me incomodando de novo, humano?}
+{4052}{Não me lembro de ter pedido para você voltar, humano.}
+{4053}{Me deixe em paz. Não tenho tempo para humanos, especialmente você...}
+{4054}{Se metendo como sempre... não pode simplesmente me deixar em paz, humano?}
+{4055}{Apenas se afaste de mim, humano...}
+{4056}{Por que está me incomodando de novo, humano?}
+{4057}{Vocês, humanos, sempre falam demais. Não tenho tempo para isso...}
+{4058}{Não tenho estômago para você, nem para suas falhas humanas...}
+{4059}{Por que está me irritando de novo, humano?}
+{4060}{Vá embora, humano. Não preciso da sua irritação...}
+{4061}{Não tenho interesse em nada que você tenha a dizer, humano.}
+{4062}{O que você quer de mim, humano?}
+{4063}{Por que alguém da sua espécie está falando comigo, humano?}
+{4064}{Prefiro não falar com você, humano.}
+{4065}{Me deixe em paz. Seu blá-blá-blá me incomoda, humano...}
+{4066}{Tenho pouco tempo para gente como você, humano...}
+{4067}{Talvez eu precise ser um pouco mais claro, humano. Vá embora.}
+{4068}{Não tenho paciência para humanos hoje. Por favor, siga em frente...}
+
+{4100}{Não tenho desejo de falar com você, anão.}
+{4101}{Por que está me incomodando de novo, anão?}
+{4102}{Não me lembro de ter pedido para você voltar, anão.}
+{4103}{Deixe-me em paz. Não tenho tempo para anões, especialmente você...}
+{4104}{Se metendo como sempre... não pode simplesmente me deixar em paz, anão?}
+{4105}{Apenas se afaste de mim, anão...}
+{4106}{Por que está me incomodando de novo, anão?}
+{4107}{Vocês, anões, sempre falam demais. Não tenho tempo para isso...}
+{4108}{Não tenho estômago para você, nem para suas falhas anãs...}
+{4109}{Por que está me irritando de novo, anão?}
+{4110}{Vá embora, anão. Não preciso da sua provocação...}
+{4111}{Não tenho interesse em nada que você tenha a dizer, anão.}
+{4112}{Diga o que tem a dizer e vá embora, anão.}
+{4113}{Você veio falar com a pessoa errada, anão.}
+{4114}{O que você quer de mim, anão?}
+{4115}{Por que alguém da sua espécie está falando comigo, anão?}
+{4116}{Prefiro não falar com você, anão.}
+{4117}{Deixe-me em paz. Sua conversa fiada me irrita, anão...}
+{4118}{Tenho pouco tempo para gente como você, anão...}
+{4119}{Talvez eu precise ser um pouco mais claro, anão. Saia daqui.}
+{4120}{Não tenho paciência para anões hoje. Por favor, siga em frente...}
+
+{4150}{Não tenho desejo de falar com você, elfo.}
+{4151}{Por que está me incomodando de novo, elfo?}
+{4152}{Não me lembro de ter pedido para você voltar, elfo.}
+{4153}{Deixe-me em paz. Não tenho tempo para elfos, especialmente você...}
+{4154}{Se metendo como sempre... não pode simplesmente me deixar em paz, elfo?}
+{4155}{Apenas se afaste de mim, elfo...}
+{4156}{Por que está me incomodando de novo, elfo?}
+{4157}{Vocês, elfos, sempre falam demais. Não tenho tempo para isso...}
+{4158}{Não tenho estômago para você, nem para suas falhas élficas...}
+{4159}{Por que está me irritando de novo, elfo?}
+{4160}{Vai embora, elfo. Não preciso da sua provocação...}
+{4161}{Não tenho interesse em nada que você tenha a dizer, elfo.}
+{4162}{Diga o que quer e suma, elfo.}
+{4163}{Você veio falar com a pessoa errada, elfo.}
+{4164}{O que você quer de mim, elfo?}
+{4165}{Por que alguém da sua espécie está falando comigo, elfo?}
+{4166}{Prefiro não falar com você, elfo.}
+{4167}{Me deixe em paz. Sua ladainha me irrita, elfo...}
+{4168}{Tenho pouco tempo para gente como você, elfo...}
+{4169}{Talvez eu precise ser mais claro, elfo. Some daqui.}
+{4170}{Hoje não tenho paciência para elfos. Por favor, vá embora...}
+
+{4200}{Não tenho desejo de falar com você, mestiço.}
+{4201}{Por que está me incomodando de novo, mestiço?}
+{4202}{Não me lembro de ter pedido para você voltar, mestiço.}
+{4203}{Me deixe em paz. Não tenho tempo para elfos, especialmente você...}
+{4204}{Sempre se metendo... não pode simplesmente me deixar em paz, mestiço?}
+{4205}{Só suma daqui, mestiço...}
+{4206}{Por que está me incomodando de novo, mestiço?}
+{4207}{Vocês, elfos, sempre falam demais. Não tenho tempo para isso...}
+{4208}{Não tenho estômago para você, meio-elfo...}
+{4209}{Por que está me irritando de novo, mestiço?}
+{4210}{Vai embora, mestiço. Não preciso da sua provocação...}
+{4211}{Não tenho interesse em nada que você tenha a dizer, mestiço.}
+{4212}{Diga o que quer e suma, mestiço.}
+{4213}{Você veio falar com a pessoa errada, mestiço.}
+{4214}{O que você quer de mim, mestiço?}
+{4215}{Por que alguém da sua espécie está falando comigo, mestiço?}
+{4216}{Prefiro não falar com você, mestiço.}
+{4217}{Me deixe em paz. Sua ladainha me irrita, mestiço...}
+{4218}{Tenho pouco tempo para gente como você, mestiço...}
+{4219}{Talvez eu precise ser um pouco mais claro, mestiço. Saia daqui.}
+
+
+{4250}{Não tenho vontade de falar com você, gnomo.}
+{4251}{Por que está me incomodando de novo, gnomo?}
+{4252}{Não me lembro de ter pedido para você voltar, gnomo.}
+{4253}{Deixe-me em paz. Não tenho tempo para vocês, gnomos mão-de-vaca.}
+{4254}{Se metendo como sempre... não pode simplesmente me deixar em paz, gnomo?}
+{4255}{Apenas se afaste de mim, gnomo...}
+{4256}{Por que está me incomodando de novo, gnomo?}
+{4257}{Vocês, gnomos, estão sempre falando bobagem. Não tenho tempo para isso...}
+{4258}{Não tenho estômago para você, nem para seus modos avarentos...}
+{4259}{Por que está me irritando de novo, gnomo?}
+{4260}{Vá embora, gnomo. Não preciso da sua irritação...}
+{4261}{Não tenho interesse em nada que você tenha a dizer, gnomo.}
+{4262}{Diga o que tem a dizer e vá embora, gnomo.}
+{4263}{Você veio falar com a pessoa errada, gnomo.}
+{4264}{O que você quer de mim, gnomo?}
+{4265}{Por que alguém da sua laia está falando comigo, seu gnomo ganancioso?}
+{4266}{Prefiro não falar com você, gnomo.}
+{4267}{Deixe-me em paz. Sua tagarelice me incomoda, cambista...}
+{4268}{Tenho pouco tempo para gente como você, gnomo...}
+{4269}{Talvez eu precise ser um pouco mais claro, gnomo. Saia daqui.}
+{4270}{Não tenho paciência para gnomos hoje. Por favor, siga seu caminho...}
+
+{4300}{Não tenho vontade de falar com você, halfling.}
+{4301}{Por que está me incomodando de novo, halfling?}
+{4302}{Não me lembro de ter pedido para você voltar, halfling.}
+{4303}{Deixe-me em paz. Não tenho tempo para halflings, especialmente você...}
+{4304}{Se metendo como sempre... não pode simplesmente me deixar em paz, halfling?}
+{4305}{Apenas se afaste de mim, halfling...}
+{4306}{Por que está me incomodando de novo, halfling?}
+{4307}{Vocês, halflings, só falam besteira. Não tenho tempo para isso...}
+{4308}{Não tenho estômago para você, nem para as falhas dos seus semelhantes meio-pés...}
+{4309}{Por que está me incomodando de novo, meio-pé?}
+{4310}{Vá embora, mestiço. Não preciso da sua irritação...}
+{4311}{Não tenho interesse em nada que você tenha a dizer, meio-pé.}
+{4312}{Diga o que tem a dizer e suma, meio-pé.}
+{4313}{Você veio falar com a pessoa errada, meio-pé.}
+{4314}{O que você quer de mim, meio-pé?}
+{4315}{Por que alguém da sua laia está falando comigo, meio-pé?}
+{4316}{Prefiro não falar com você, meio-pé.}
+{4317}{Deixe-me em paz. Sua ladainha me dói, meio-pé...}
+{4318}{Tenho pouco tempo para gente como você, meio-pé...}
+{4319}{Talvez eu precise ser mais claro, meio-pé. Some daqui.}
+{4320}{Não tenho paciência para meio-pés hoje. Por favor, siga seu caminho...}
+{4321}{Vocês, meio-pés preguiçosos, sempre trazem problemas aonde quer que vão.}
+
+{4350}{Não tenho desejo de falar com você, mestiço.}
+{4351}{Por que está me incomodando de novo, mestiço?}
+{4352}{Não me lembro de ter pedido para você voltar, mestiço.}
+{4353}{Deixe-me em paz. Não tenho tempo para orcs, especialmente você...}
+{4354}{Se metendo como sempre... não pode simplesmente me deixar em paz, mestiço?}
+{4355}{Apenas se afaste de mim, mestiço...}
+{4356}{Por que está me incomodando de novo, mestiço?}
+{4357}{Vocês, orcs, estão sempre causando problemas. Não tenho tempo para isso...}
+{4358}{Não tenho estômago para você, nem para a sua idiotice orc.}
+{4359}{Por que está me incomodando de novo, mestiço?}
+{4360}{Vá embora, mestiço. Não preciso da sua irritação...}
+{4361}{Não tenho interesse em nada que você tenha a dizer, mestiço.}
+{4362}{Diga o que tem a dizer e suma, mestiço.}
+{4363}{Você veio falar com a pessoa errada, mestiço.}
+{4364}{O que você quer de mim, mestiço?}
+{4365}{Por que alguém da sua laia está falando comigo, mestiço?}
+{4366}{Prefiro não falar com você, mestiço.}
+{4367}{Deixe-me em paz. Sua baboseira me incomoda, mestiço...}
+{4368}{Tenho pouco tempo para gente como você, mestiço...}
+{4369}{O que o traz para fora da segurança da sua toca, mestiço?}
+
+{4400}{Não tenho desejo de falar com você, mestiço.}
+{4401}{Por que está me incomodando de novo, mestiço?}
+{4402}{Não me lembro de ter pedido para você voltar, mestiço.}
+{4403}{Deixe-me em paz. Não tenho tempo para ogros, especialmente você...}
+{4404}{Se metendo como sempre... não pode simplesmente me deixar em paz, mestiço?}
+{4405}{Apenas se afaste de mim, mestiço...}
+{4406}{Por que está me incomodando de novo, ogro mestiço?}
+{4407}{Vocês, ogros, estão sempre no caminho. Não tenho tempo para isso...}
+{4408}{Não tenho estômago para você, nem para sua idiotice de ogro.}
+{4409}{Por que está me irritando de novo, mestiço?}
+{4410}{Vá embora, mestiço. Não preciso da sua provocação...}
+{4411}{Não tenho interesse em nada que você tenha a dizer, mestiço.}
+{4412}{Diga o que tem a dizer e suma, mestiço.}
+{4413}{Você veio falar com a pessoa errada, mestiço.}
+{4414}{O que você quer de mim, mestiço?}
+{4415}{Por que alguém da sua espécie está falando comigo, ogro?}
+{4416}{Prefiro não falar com você, mestiço.}
+{4417}{Deixe-me em paz. Sua baboseira me incomoda, mestiço...}
+{4418}{Tenho pouco tempo para gente como você, meio-ogro...}
+{4419}{Talvez eu precise ser um pouco mais claro, meio-ogro. Saia daqui.}
+{4420}{Não tenho paciência para ogros hoje. Por favor, siga em frente...}
+
+
+
+// Second worst greeting messages start at 5000. Each PC race gets 50
+// messages starting on multiples of 50 (and the first block is reserved
+// for when the NPC race is the same as the PC race)
+
+{5000}{Por que voltou aqui para me incomodar de novo, tolo?}
+{5001}{Não quero falar com você de novo, cão ignorante.}
+{5002}{Pare de voltar aqui, canalha.}
+{5003}{Já tive o suficiente da sua bobagem. Deixe-me em paz.}
+{5004}{Droga! Se não é o canalha. O que você quer agora?}
+{5005}{Não quero falar com você.}
+{5006}{Não quero falar com você, cão.}
+{5007}{Oh, maldição sangrenta. O que você quer agora, seu miserável insuportável?}
+{5008}{Some daqui! Por que está me importunando?}
+{5009}{Não tenho tempo para gente como você.}
+{5010}{Não gosto nem um pouco de você. Por que insiste em me incomodar?}
+{5011}{Não quero falar com você.}
+{5012}{Você não pertence a este lugar. Por favor, vá embora antes que eu seja forçado a lhe dar uma surra.}
+{5013}{Fogo e danação, é o traste decrépito! Diga o que quer e suma daqui.}
+{5014}{Está falando comigo, seu patife nojento?}
+{5015}{Por que insiste em me incomodar tanto?}
+{5016}{O que quer de mim agora?}
+{5017}{Deixe-me em paz, seu canalha imundo!}
+{5018}{Vá embora!}
+{5019}{Saia daqui, cão!}
+
+
+
+{5050}{Nada! Humano ignorante. Vá embora.}
+{5051}{Não me lembro de tê-lo convidado de volta aqui, humano pestilento.}
+{5052}{O que é agora, miserável? Não tenho tempo para humanos.}
+{5053}{Por que me incomoda de novo, humano covarde?}
+{5054}{<resmungo> O que traz lodo como você aqui, humano?}
+{5055}{Que loucura humana pequena, miserável e insana é essa hoje?}
+{5056}{Se não é o humano insignificante e covarde.}
+{5057}{Por que está sempre me incomodando, piolho humano?}
+{5058}{Fique longe de mim, humano amaldiçoado. Não quero sua irritação nojenta.}
+{5059}{Humano insolente! Vá embora.}
+{5060}{Escória humana, deixe-me em paz!}
+{5061}{Por que está me incomodando de novo, humano grosseiro?}
+{5062}{Não deixei claro meu desgosto por humanos, seu tolo?}
+{5063}{Olha, humano, eu não gosto de você, ENTENDEU?}
+{5064}{Vá embora, seu humano macaco de queixo caído!}
+{5065}{Preciso lembrá-lo de que humanos não são bem-vindos por aqui?}
+{5066}{Pah! O humano covarde de novo? Deixe-me em paz, seu macaco de queixo caído!}
+{5067}{Eu desprezo você e sua parentela insípida, seu humano meloso.}
+
+
+{5100}{Droga! Anão ignorante. Vá embora.}
+{5101}{Não me lembro de ter pedido para você voltar aqui, seu anão pestilento.}
+{5102}{O que é agora, miserável? Não tenho tempo para anões.}
+{5103}{Por que você está me incomodando de novo, anão sem espinha dorsal?}
+{5104}{<resmungo> O que traz um lodo como você por aqui, anão?}
+{5105}{Que loucura de anão miserável e pequeno é essa que você está falando hoje?}
+{5106}{Se não é o anão covarde e insignificante.}
+{5107}{Por que você está sempre me incomodando, piolho anão?}
+{5108}{Fique longe de mim, anão amaldiçoado. Não quero sua irritação vil.}
+{5109}{Anão insolente! Vá embora.}
+{5110}{Escória anã, deixe-me em paz!}
+{5111}{Por que você está me incomodando de novo, anão grosseiro?}
+{5112}{Será que não deixei claro o quanto não gosto de anões, idiota?}
+{5113}{Olha, anão, eu não gosto de você, ENTENDEU?}
+{5114}{Vá embora, seu macaco anão de queixo caído!}
+{5115}{Preciso lembrá-lo de que anões não são bem-vindos por aqui?}
+{5116}{Pah! O anão covarde de novo? Deixe-me em paz, seu macaco de queixo caído!}
+{5117}{Eu desprezo você e sua parentela insípida, seu anão meloso.}
+
+
+{5150}{Droga! Elfo ignorante. Vá embora.}
+{5151}{Não me lembro de ter pedido para você voltar aqui, seu elfo pestilento.}
+{5152}{O que é agora, miserável? Não tenho tempo para elfos.}
+{5153}{Por que você está me incomodando de novo, elfo sem espinha dorsal?}
+{5154}{<resmungo> O que traz um lodo como você por aqui, elfo?}
+{5155}{Que loucura de elfo miserável e pequeno é essa que você está falando hoje?}
+{5156}{Se não é o elfo covarde e insignificante.}
+{5157}{Por que você está sempre me incomodando, piolho élfico?}
+{5158}{Fique longe de mim, elfo amaldiçoado. Não quero sua irritação vil.}
+{5159}{Elfo insolente! Vá embora.}
+{5160}{Escória élfica, me deixe em paz!}
+{5161}{Por que você está me incomodando de novo, elfo grosseiro?}
+{5162}{Será que não deixei claro o quanto não gosto de elfos, seu idiota?}
+{5163}{Olha, elfo, eu não gosto de você, ENTENDEU?}
+{5164}{Vá embora, seu elfo macaco de queixo caído!}
+{5165}{Preciso lembrar que elfos não são bem-vindos por aqui?}
+{5166}{Pah! O elfo covarde de novo? Me deixe em paz, seu macaco de queixo caído!}
+{5167}{Eu desprezo você e sua parentela insípida, seu elfo meloso.}
+{5168}{Vá embora, seu macaco élfico de queixo caído e cara de árvore!}
+{5169}{Eu desprezo você e sua parentela presunçosa, seu elfo esnobe.}
+
+
+
+{5200}{Dane-se! Meio-elfo ignorante. Vá embora.}
+{5201}{Não me lembro de ter pedido para você voltar aqui, seu meio-elfo pestilento.}
+{5202}{O que é agora, miserável? Não tenho tempo para mestiços.}
+{5203}{Por que você está me incomodando de novo, meio-elfo covarde?}
+{5204}{<resmungo> O que traz um lodo como você aqui, meio-elfo?}
+{5205}{Que loucura de meio-elfo miserável e pequeno é essa hoje?}
+{5206}{Se não é o meio-elfo frouxo e insignificante.}
+{5207}{Por que você está sempre me incomodando, seu piolho mestiço?}
+{5208}{Fique longe de mim, mestiço amaldiçoado. Não quero sua irritação vil.}
+{5209}{Meio-elfo insolente! Vá embora.}
+{5210}{Escória mestiça, me deixe em paz!}
+{5211}{Por que você está me incomodando de novo, meio-elfo grosseiro?}
+{5212}{Será que não deixei claro o quanto não gosto de mestiços, seu idiota?}
+{5213}{Olha, meio-elfo, eu não gosto de você, ENTENDEU?}
+{5214}{Vá embora, seu meio-elfo macaco de queixo caído!}
+{5215}{Preciso lembrar que mestiços não são bem-vindos por aqui?}
+{5216}{Pah! O meio-elfo covarde de novo? Me deixe em paz, seu macaco de queixo caído!}
+{5217}{Eu desprezo você e sua parentela insípida, seu meio-elfo meloso.}
+{5218}{Vá embora, seu mestiço macaco de queixo caído e cara de árvore!}
+{5219}{Eu te desprezo e à sua parentela presunçosa, seu meio-elfo esnobe.}
+
+
+{5250}{Diabos te levem! Gnomo ignorante. Vá embora.}
+{5251}{Não me lembro de ter te chamado de volta aqui, seu gnomo pestilento.}
+{5252}{O que é agora, miserável? Não tenho tempo para gnomos.}
+{5253}{Por que você me incomoda de novo, gnomo covarde?}
+{5254}{<resmungo> O que traz lodo como você por aqui, gnomo?}
+{5255}{Que loucura de gnomo miserável e pequeno é essa que você está falando hoje?}
+{5256}{Se não é o gnomo covarde e insignificante.}
+{5257}{Por que você está sempre me incomodando, piolho de gnomo vira-lata?}
+{5258}{Fique longe de mim, gnomo amaldiçoado. Não quero sua irritação nojenta.}
+{5259}{Gnomo insolente! Vá embora.}
+{5260}{Escória de gnomo, deixe-me em paz!}
+{5261}{Por que você está me incomodando de novo, gnomo grosseiro?}
+{5262}{Eu não deixei claro o meu desprezo por gnomos, seu tolo?}
+{5263}{Olha, gnomo, eu não gosto de você, ENTENDEU?}
+{5264}{Vá embora, seu paquiderme gnômico de nariz peludo!}
+{5265}{Preciso lembrar que gnomos não são bem-vindos por aqui?}
+{5266}{Pah! O gnomo covarde de novo? Deixe-me em paz, seu macaco de queixo caído!}
+{5267}{Eu te desprezo e à sua parentela, seu gnomo capitalista nojento.}
+{5268}{Vá embora, seu gnomo macaco-de-árvore de queixo caído!}
+{5269}{Eu te desprezo e à sua parentela de barões ladrões, seu gnomo avarento.}
+
+{5300}{Diabos te levem! Halfling ignorante. Vá embora.}
+{5301}{Não me lembro de ter te chamado de volta aqui, seu halfling pestilento.}
+{5302}{O que é agora, miserável? Não tenho tempo para halflings.}
+{5303}{Por que você me incomoda de novo, halfling covarde?}
+{5304}{<resmungo> O que traz lodo como você por aqui, halfling?}
+{5305}{Que loucura de halfling miserável e pequeno é essa que você está falando hoje?}
+{5306}{Se não é o halfling covarde e insignificante.}
+{5307}{Por que você está sempre me incomodando, piolho de halfling?}
+{5308}{Fique longe de mim, halfling amaldiçoado. Não quero sua irritação nojenta.}
+{5309}{Halfling insolente! Vá embora.}
+{5310}{Escória de halfling, suma da minha frente!}
+{5311}{Por que está me incomodando de novo, halfling grosseiro?}
+{5312}{Será que não deixei claro o quanto não gosto de halflings, simplório?}
+{5313}{Olha, halfling, eu não gosto de você, ENTENDEU?}
+{5314}{Vá embora, seu halfling desleixado e seboso, macaco!}
+{5315}{Preciso lembrar que halflings não são bem-vindos por aqui?}
+{5316}{Pah! O halfling covarde de novo? Deixe-me em paz, seu macaco de queixo caído!}
+{5317}{Eu desprezo você e sua parentela cabeça-oca, seu halfling roliço.}
+{5318}{Olha, halfling, eu não gosto de você, ENTENDEU?}
+{5319}{Vá embora, seu halfling burro feito uma cabra!}
+{5320}{Os da sua raça de halfling não são bem-vindos por aqui.}
+{5321}{Pah! O halfling covarde de novo? Deixe-me em paz, seu marmota miserável!}
+{5322}{Não tenho paciência para nenhum halfling barrigudo e de pés sujos.}
+{5323}{Eu desprezo você e sua parentela de ladrões, seu halfling gordo.}
+{5324}{Fique longe de mim, seu halfling bundão.} 
+
+{5350}{Droga! Meio-orc ignorante. Vá embora.}
+{5351}{Não me lembro de ter pedido para você voltar aqui, seu meio-orc pestilento.}
+{5352}{O que é agora, miserável? Não tenho tempo para meio-orcs.}
+{5353}{Por que está me incomodando de novo, meio-orc covarde?}
+{5354}{<resmungo> O que traz lodo como você por aqui, meio-orc?}
+{5355}{Que loucura de meio-orc miserável e pequeno é essa hoje?}
+{5356}{Se não é o meio-orc frouxo e insignificante.}
+{5357}{Por que está sempre me incomodando, piolho de meio-orc?}
+{5358}{Fique longe de mim, meio-orc amaldiçoado. Não quero sua irritação nojenta.}
+{5359}{Meio-orc insolente! Vá embora.}
+{5360}{Escória de meio-orc, suma da minha frente!}
+{5361}{Por que está me incomodando de novo, meio-orc grosseiro?}
+{5362}{Será que não deixei claro o quanto não gosto de meio-orcs, idiota?}
+{5363}{Olha, meio-orc, eu não gosto de você, ENTENDEU?}
+{5364}{Vai embora, seu macaco meio-orc de queixo caído!}
+{5365}{Preciso lembrar que meio-orcs não são bem-vindos por aqui?}
+{5366}{Pah! O meio-orc covarde de novo? Deixe-me em paz, seu macaco de queixo caído!}
+{5367}{Eu desprezo você e sua parentela ignorante, seu meio-orc bestial.}
+
+{5400}{Que se dane! Meio-ogro ignorante. Vá embora.}
+{5401}{Não me lembro de ter pedido para você voltar aqui, seu meio-ogro pestilento.}
+{5402}{O que é agora, miserável? Não tenho tempo para meio-ogros.}
+{5403}{Por que está me incomodando de novo, meio-ogro sem-vergonha?}
+{5404}{<resmungo> O que traz um lodo como você aqui, meio-ogro?}
+{5405}{Que loucura de meio-ogro miserável e pequeno é essa hoje?}
+{5406}{Se não é o meio-ogre covarde e insignificante.}
+{5407}{Por que está sempre me incomodando, piolho meio-ogro?}
+{5408}{Fique longe de mim, meio-ogro amaldiçoado. Não quero sua irritação nojenta.}
+{5409}{Meio-ogro insolente! Vá embora.}
+{5410}{Escória de meio-ogro, deixe-me em paz!}
+{5411}{Por que está me incomodando de novo, meio-ogro grosseiro?}
+{5412}{Não deixei claro o quanto não gosto de meio-ogros, seu idiota?}
+{5413}{Olha, meio-ogro, eu não gosto de você, ENTENDEU?}
+{5414}{Vai embora, seu macaco meio-orc de queixo caído!}
+{5415}{Preciso lembrar que meio-ogros não são bem-vindos por aqui?}
+{5416}{Pah! O meio-ogro covarde de novo? Deixe-me em paz, seu macaco de queixo caído!}
+{5417}{Eu desprezo você e sua parentela ignorante, seu meio-ogre bestial.}
+
+
+// Shrink spell messages start at 6000. Each PC race gets 50
+// messages starting on multiples of 50 (and the first block is reserved
+// for when the NPC race is the same as the PC race)
+
+{6000}{O que aconteceu com sua, hã, altura?}
+{6001}{Por que você é tão pequeno?}
+{6002}{Caramba! Um pouco de duende na sua família, é?}
+{6003}{Ora! Como está o ar aí embaixo?}
+{6004}{Oh! Quase não te vi. Poderia ser confundido com um sprite, quase!}
+{6005}{Oh, meu! Cuidado para não ser pisado aí embaixo.}
+{6006}{Pelos clavos! Você é um bocadinho miúdo, não é?}
+
+
+{6050}{Olha só o humanozinho!}
+{6051}{Palavra Sagrada! Que pixie feio.}
+{6052}{Hmm. Magricelo demais para um halfling. E seus pés são muito pequenos!}
+{6053}{Nossa! Que narizinho minúsculo para um gnomo!}
+{6054}{Oh, meu Deus! Nunca vi um anão com uma aparência tão doentia antes!}
+{6055}{Vá embora, criança. Você está me incomodando.}
+{6056}{Hmm. O que você é? Um humano pequenininho?}
+{6057}{Não sabia que vocês, humanos, vinham em tamanhos tão variados... especialmente tão pequenos!}
+{6058}{Meu Deus! Você é um humanozinho minúsculo!}
+
+{6100}{Olha só o anãozinho!}
+{6101}{Palavra Sagrada! Você é um kobold?}
+{6102}{Hmm. Muito robusto para um leprechaun! E eu não sabia que eles tinham barbas tão ralas.}
+{6103}{Nossa! Que barba grande para um sprite!}
+{6104}{Oh, meu Deus! Nunca vi um bebê anão antes! Até os bebês anões têm barba!}
+{6105}{Vá embora, criança anã. Você está me incomodando.}
+{6106}{Hmm. Algo está errado aqui. O que você é? Um anãozinho?}
+{6107}{Não sabia que vocês, anões, vinham em tamanhos tão variados... especialmente tão pequenos!}
+{6108}{Você é um anão, não é? Como é que você é tão pequeno?}
+{6109}{Oh! Você é... não, não pode ser. O que você é?}
+{6110}{Bobagem! Você é um pouco baixo demais para um anão!}
+{6111}{Meu Deus! Você é um anãozinho minúsculo!}
+
+{6150}{Olha só o elfinho!}
+{6151}{Palavra Sagrada! Você é um leprechaun?}
+{6152}{Hmm. Orelhas pontudas demais para um leprechaun!}
+{6153}{Nossa! Um sprite! Onde estão suas asas?}
+{6154}{Oh, meu Deus! Nunca vi um bebê elfo antes! Que pontas de orelha afiadas!}
+{6155}{Vá embora, criança élfica. Você está me incomodando.}
+{6156}{Hmm. Algo está errado aqui. O que você é? Um elfinho?}
+{6157}{Não sabia que vocês, elfos, vinham em tamanhos tão variados... especialmente tão pequenos!}
+{6158}{Você é um elfo, não é? Como é que você é tão pequeno?}
+{6159}{Oh! Você é... não, não pode ser. O que você é?}
+{6160}{Bobagem! Você é um tanto baixinho para um elfo!}
+{6161}{Meu Deus! Você é um elfinho bem pequeno!}
+
+{6200}{Olha só esse meio-elfo minúsculo!}
+{6201}{Palavra Sagrada! Você é meio-leprechaun?}
+{6202}{Nossa! Um pixie! Por que diabos você está aqui?}
+{6203}{Vá embora, criança élfica. Você está me incomodando.}
+{6204}{Hmm. Algo está errado aqui. O que você é? Um meio-elfo pequenino?}
+{6205}{Eu não sabia que vocês, meio-elfos, vinham em tamanhos tão variados... especialmente tão pequenos!}
+{6206}{Você é um meio-elfo, não é? Como é que você é tão pequeno?}
+{6207}{Oh! Você é... não, não pode ser. O que você é?}
+{6208}{Bobagem! Você é um tanto baixinho para um meio-elfo!}
+{6209}{Meu Deus! Você é um meio-elfinho bem pequeno!}
+{6210}{Você parece um cruzamento entre um elfo e um halfling!}
+
+{6250}{Olha só esse gnomo minúsculo!}
+{6251}{Palavra Sagrada! Você é um gnomo bebê?}
+{6252}{Hmm. Nariz bem grande para uma fada!}
+{6253}{Nossa! Uma fadinha minúscula! Onde estão suas asas?}
+{6254}{Oh, meu Deus! Nunca vi um gnomo bebê antes! Nariz tão grande em uma cabecinha tão pequena!}
+{6255}{Vá embora, criança gnômica. Você está me incomodando.}
+{6256}{Hmm. Algo está errado aqui. O que você é? Um gnomo pequenino?}
+{6257}{Eu não sabia que vocês, gnomos, vinham em tamanhos tão variados... especialmente tão pequenos!}
+{6258}{Você é um gnomo, não é? Como é que você é tão pequeno?}
+{6259}{Oh! Você é... não, não pode ser. O que você é?}
+{6260}{Bobagem! Você é um tanto baixinho para um gnomo!}
+{6261}{Meu Deus! Você é um gnominho bem pequeno!}
+{6262}{Você é o menor gnomo que já vi!}
+
+{6300}{Olha só esse halfling minúsculo!}
+{6301}{Palavra Sagrada! Você é um sprite gordo?}
+{6302}{Nossa! Um pixie de pés grandes! Por que diabos você está aqui?}
+{6303}{Oh, meu Deus! Nunca vi um leprechaun antes! Onde está seu pote de ouro?}
+{6304}{Vá embora, criança meio-humana. Você está me incomodando.}
+{6305}{Hmm. Algo está errado aqui. O que você é? Um meio-humano minúsculo?}
+{6306}{Eu não sabia que vocês, meio-humanos, vinham em tamanhos tão variados... especialmente tão pequenos!}
+{6307}{Bobagem! Você é um pouco baixo demais, até para um meio-humano!}
+{6308}{Meu Deus! Você é um meio-humano pequenininho!}
+{6309}{Você parece um cruzamento entre uma fadinha minúscula e um meio-humano!}
+{6310}{Você é tão pequenino! É um quarto-humano?}
+
+{6350}{Olha só o meio-orc minúsculo!}
+{6351}{Palavra Sagrada! Você é um bebê meio-orc?}
+{6352}{Hmm. Feio demais para uma fada!}
+{6353}{Nossa! Uma fada horrenda! Você é um exilado?}
+{6354}{Oh, meu! Nunca vi um bebê meio-orc antes! Um rosto que só uma mãe poderia amar!}
+{6355}{Vá embora, criança órquica. Você está me incomodando.}
+{6356}{Hmm. Algo está errado aqui. O que você é? Um meio-orc minúsculo?}
+{6357}{Eu não sabia que vocês, meio-orcs, vinham em tamanhos tão variados... especialmente tão pequenos!}
+{6358}{Você é um meio-orc, não é? Como é que você é tão pequeno?}
+{6359}{Oh! Você é... não, não pode ser. O que você é?}
+{6360}{Bobagem! Você é um pouco baixo demais para um meio-orc!}
+{6361}{Meu Deus! Você é um meio-orc pequenininho!}
+{6362}{Você é o menor meio-orc que eu já vi!}
+{6363}{Você parece que alguém cruzou um orc com um meio-humano!}
+
+{6400}{Olha! Um troglodita!}
+{6401}{Palavra Sagrada! Você é o humano mais feio que eu já vi!}
+{6402}{Você é a coisa mais estranha que eu já vi! Pequeno demais para ser um meio-ogro, mas com certeza feio o suficiente.}
+{6403}{Nossa! Um meio-ogro em miniatura! Parece que você precisa de um irmão mais velho para protegê-lo, não é?}
+{6404}{Oh, meu! Nunca vi um meio-ogro tão pequeno! Ou será que você é um meio-orc?}
+{6405}{Vá embora, criança meio-ogro. Você está me incomodando.}
+{6406}{Hmm. Algo está errado aqui. O que você é? Um meio-ogro minúsculo?}
+{6407}{Eu não sabia que vocês, meio-ogros, vinham em tamanhos tão variados... especialmente tão pequenos!}
+{6408}{Você é um meio-ogro, não é? Como é que você é tão pequeno?}
+{6409}{Oh! Você é... não, não pode ser. O que você é?}
+{6410}{Bobagem! Você é um tanto baixinho, especialmente para um meio-ogro!}
+{6411}{Meu Deus! Você é um meio-ogro pequenininho!}
+{6412}{Você parece um cruzamento entre um orc anão e um ogro!}
+{6413}{Você é um meio-orc ou um meio-ogro?}

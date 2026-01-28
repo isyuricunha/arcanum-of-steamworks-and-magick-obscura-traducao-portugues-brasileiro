@@ -1,0 +1,121 @@
+{1}{G:}{}{}{}{}{}
+{2}{B:}{}{1}{ta -69, ma -69}{71}{}
+{3}{T:9, 11, 12}{}{1}{ta -69, ma -69}{71}{}
+{4}{Que tipo de mercadorias você tem aqui?}{}{5}{re 41}{86}{}
+{5}{O que você tem pra mim comprar?}{}{-4}{re 41}{86}{}
+{6}{Isso foi desnecessário.}{}{5}{re -40, ta -69, ma -69}{80}{}
+{7}{Saudações, senhor.}{}{5}{re 41, me0, ma 70}{29}{}
+{8}{Isso foi rude!}{}{5}{re -40, me0, ma 70}{40}{}
+{9}{Saudações, Sr. Pierce.}{}{5}{re 41, me1, ma 70}{35}{}
+{10}{O senhor é "sempre" rude quando clientes entram, Sr. Pierce?}{}{5}{re -40, me1, ma 70}{46}{}
+{11}{Saudações, senhor.}{}{5}{re 41, me0, ta 70}{50}{}
+{12}{Isso foi rude!}{}{5}{re -40, me0, ta 70}{56}{}
+{13}{Saudações, Sr. Pierce.}{}{5}{re 41, me1, ta 70}{61}{}
+{14}{O senhor é "sempre" rude quando clientes entram, Sr. Pierce?}{}{5}{re -40, me1, ta 70}{67}{}
+{15}{O senhor poderia fazer uns óculos sob medida para mim, Sr. Pierce?}{}{5}{lf1 1, gf1035 1}{100}{}
+{16}{Hã... Eu qué uns trem de olho feitos.}{}{-4}{lf1 1, gf1035 1}{100}{}
+{17}{Vim pelos óculos, Sr. Pierce.}{}{5}{lf2 1}{118}{}
+{18}{Hã... Tá prontos?}{}{-4}{lf2 1}{118}{}
+{19}{Isso foi maldoso.}{}{-4}{re -40, ta -69, ma -69}{80}{}
+{20}{Hã... Oi.}{}{-4}{re 41, me0, ma 70}{29}{}
+{21}{Isso foi maldoso.}{}{-4}{re -40, me0, ma 70}{40}{}
+{22}{Hã... Oi, Sinhor Peers.}{}{-4}{re 41, me1, ma 70}{35}{}
+{23}{Hã... Sinhor Peers é grosso sempre?}{}{-4}{re -40, me1, ma 70}{46}{}
+{24}{Hã... Oi.}{}{-4}{re 41, me0, ta 70}{50}{}
+{25}{Isso foi maldoso.}{}{-4}{re -40, me0, ta 70}{56}{}
+{26}{Hã... Oi, Sinhor Peers.}{}{-4}{re 41, me1, ta 70}{61}{}
+{27}{Hã... Sinhor Peers é grosso sempre?}{}{-4}{re -40, me1, ta 70}{67}{}
+{28}{E:}{}{1}{}{0}{}
+{29}{Ahh... Um mago poderoso. É um prazer conhecê-lo, senhor. Em que posso ajudá-lo neste belo dia?}{Ahh... Uma maga poderosa. É um prazer conhecê-la, senhora. Em que posso ajudá-la neste belo dia?}{}{}{}{}
+{30}{T:9, 11, 12}{}{1}{}{71}{}
+{31}{Que tipo de mercadorias você tem aqui?}{}{5}{lf1 0}{86}{}
+{32}{O que cê qué que eu compre?}{}{-4}{lf1 0}{86}{}
+{33}{B:}{}{1}{}{71}{}
+{34}{E:}{}{1}{}{0}{}
+{35}{Em que posso ajudá-lo hoje, @pcname@?}{Em que posso ajudá-la hoje, @pcname@?}{}{}{}{}
+{36}{T:9, 11, 12}{}{1}{}{71}{}
+{37}{B:}{}{1}{}{71}{}
+{38}{C:}{}{1}{}{71}{}
+{39}{E:}{}{1}{}{0}{}
+{40}{Oh, céus! Perdoe minha rudeza, grande mago. Não percebi seu poder de imediato. Em que posso ajudá-lo neste belo dia?}{Oh, céus! Perdoe minha rudeza, grande maga. Não percebi seu poder de imediato. Em que posso ajudá-la neste belo dia?}{}{}{}{}
+{41}{T:9, 11, 12}{}{1}{}{71}{}
+{42}{Que tipo de mercadorias você tem aqui?}{}{5}{lf1 0}{86}{}
+{43}{O que cê qué que eu compre?}{}{-4}{lf1 0}{86}{}
+{44}{B:}{}{1}{}{71}{}
+{45}{E:}{}{1}{}{0}{}
+{46}{Oh! Minhas desculpas. Às vezes meu preconceito fala mais alto. Por favor, perdoe minha rudeza, @pcname@. Estava interessado em algo especial hoje?}{Oh! Minhas desculpas. Às vezes meu preconceito fala mais alto. Por favor, perdoe minha rudeza, @pcname@. Estava interessada em algo especial hoje?}{}{}{}{}
+{47}{T:9, 11, 12}{}{1}{}{71}{}
+{48}{B:}{}{1}{}{71}{}
+{49}{E:}{}{1}{}{0}{}
+{50}{Ahh... O senhor tem jeito de um tecnólogo poderoso. É um prazer conhecê-lo, senhor. Em que posso ajudá-lo neste belo dia?}{Ahh... A senhora tem jeito de uma tecnóloga poderosa. É um prazer conhecê-la, senhora. Em que posso ajudá-la neste belo dia?}{}{}{}{}
+{51}{T:9, 11, 12}{}{1}{}{71}{}
+{52}{Que tipo de mercadorias você tem aqui?}{}{5}{lf1 0}{86}{}
+{53}{O que cê qué que eu compre?}{}{-4}{lf1 0}{86}{}
+{54}{B:}{}{1}{}{71}{}
+{55}{E:}{}{1}{}{0}{}
+{56}{Em que posso ajudá-lo hoje, @pcname@?}{Em que posso ajudá-la hoje, @pcname@?}{}{}{}{}
+{57}{T:9, 11, 12}{}{1}{}{71}{}
+{58}{B:}{}{1}{}{71}{}
+{59}{C:}{}{1}{}{71}{}
+{60}{E:}{}{1}{}{0}{}
+{61}{Oh, céus! Perdoe minha rudeza... Hmmm... Você parece um tecnólogo muito experiente. É um prazer conhecê-lo. Em que posso ajudá-lo neste belo dia?}{Oh, céus! Perdoe minha rudeza... Hmmm... Você parece uma tecnóloga muito experiente. É um prazer conhecê-la. Em que posso ajudá-la neste belo dia?}{}{}{}{}
+{62}{T:9, 11, 12}{}{1}{}{71}{}
+{63}{Que tipo de mercadorias você tem aqui?}{}{5}{lf1 0}{86}{}
+{64}{O que você 'tá querendo que eu compre?}{}{-4}{lf1 0}{86}{}
+{65}{B:}{}{1}{}{71}{}
+{66}{E:}{}{1}{}{0}{}
+{67}{Oh! Às vezes meu preconceito fala mais alto. Por favor, perdoe minha rudeza, @pcname@. Estava interessado em algo especial hoje?}{Oh! Às vezes meu preconceito fala mais alto. Por favor, perdoe minha rudeza, @pcname@. Estava interessada em algo especial hoje?}{}{}{}{}
+{68}{T:9, 11, 12}{}{1}{}{71}{}
+{69}{B:}{}{1}{}{71}{}
+{70}{E:}{}{1}{}{0}{}
+{71}{Deseja algo mais?}{Deseja algo mais?}{}{}{}{}
+{72}{T:9, 11, 12}{}{1}{}{71}{}
+{73}{C:}{}{1}{}{71}{}
+{74}{B:}{}{1}{}{71}{}
+{75}{Que tipo de mercadorias você tem aqui?}{}{5}{lf1 0}{93}{}
+{76}{O que você 'tá querendo que eu compre?}{}{-4}{lf1 0}{93}{}
+{77}{O senhor poderia fazer uns óculos sob medida para mim, Sr. Pierce?}{}{5}{lf1 1, gf1035 1}{100}{}
+{78}{Hã... Eu qué coisa pa' os óio feita.}{}{-4}{lf1 1, gf1035 1}{100}{}
+{79}{E:}{}{1}{}{0}{}
+{80}{O que você quer?}{O que você quer?}{}{}{}{}
+{81}{T:9, 11, 12}{}{1}{}{71}{}
+{82}{B:}{}{1}{}{71}{}
+{83}{Que tipo de mercadorias você tem aqui?}{}{5}{lf1 0}{93}{}
+{84}{O que você 'tá querendo que eu compre?}{}{-4}{lf1 0}{93}{}
+{85}{E:}{}{1}{}{0}{}
+{86}{Oh, minhas habilidades são bem especializadas, senhor! Veja bem, eu fabrico instrumentos ópticos de qualidade que aprimoram sua visão. Tenho vários pares de óculos prontos no momento. Fique à vontade para examiná-los. Pode ver por si mesmo que são da mais alta qualidade. E lembre-se, se algum dia precisar de um par, sou totalmente capaz de preparar óculos sob medida.}{Oh, minhas habilidades são bem especializadas, senhora! Veja bem, eu fabrico instrumentos ópticos de qualidade que aprimoram sua visão. Tenho vários pares de óculos prontos no momento. Fique à vontade para examiná-los. Pode ver por si mesmo que são da mais alta qualidade. E lembre-se, se algum dia precisar de um par, sou totalmente capaz de preparar óculos sob medida.}{}{}{}{lf1 1}
+{87}{T:9, 11, 12}{}{1}{}{71}{}
+{88}{C:}{}{1}{}{71}{}
+{89}{B:}{}{1}{}{71}{}
+{90}{O senhor poderia fazer uns óculos sob medida para mim, Sr. Pierce?}{}{5}{lf1 1, gf1035 1}{100}{}
+{91}{Hã... Eu qué coisa pa' os óio feita.}{}{-4}{lf1 1, gf1035 1}{100}{}
+{92}{E:}{}{1}{}{0}{}
+{93}{Oh, minhas habilidades são bem especializadas, senhor! Veja bem, eu fabrico instrumentos ópticos de qualidade que aprimoram sua visão. Sou até capaz de preparar óculos sob medida para quem precisar. Tenho vários pares prontos no momento. Pode olhar, mas não toque! Tenho certeza de que não tem como pagar por mercadorias tão especializadas!}{Oh, minhas habilidades são bem especializadas, senhora! Veja bem, eu fabrico instrumentos ópticos de qualidade que aprimoram sua visão. Sou até capaz de preparar óculos sob medida para quem precisar. Tenho vários pares prontos no momento. Pode olhar, mas não toque! Tenho certeza de que não tem como pagar por mercadorias tão especializadas!}{}{}{}{lf1 1}
+{94}{T:9, 11, 12}{}{1}{}{71}{}
+{95}{C:}{}{1}{}{71}{}
+{96}{B:}{}{1}{}{71}{}
+{97}{O senhor poderia fazer uns óculos sob medida para mim, Sr. Pierce?}{}{5}{lf1 1, gf1035 1}{100}{}
+{98}{Hã... Eu qué coisa pa' os óio feita.}{}{-4}{lf1 1, gf1035 1}{100}{}
+{99}{E:}{}{1}{}{0}{}
+{100}{Óculos sob medida? Ah, sim, senhor! Sou totalmente capaz de fabricar tais itens. Posso perguntar quais são suas necessidades?}{Óculos sob medida? Ah, sim, senhora! Sou totalmente capaz de fabricar tais itens. Posso perguntar quais são suas necessidades?}{}{}{}{}
+{101}{Preciso de um par feito de cristal de kathorin.}{}{5}{}{104}{}
+{102}{Hã... Preciso de vidro de kreestall de kathoreen.}{}{-4}{}{104}{}
+{103}{E:}{}{1}{}{0}{}
+{104}{Bem. Não é sempre que me pedem um par desses... Mas sim, posso fabricá-los. Porém, é uma tarefa delicada trabalhar com cristal de kathorin. Terei que cobrar 1000 moedas por um par desses, e você precisaria fornecer o cristal, é claro. Além disso, fico com qualquer fragmento restante do cristal. Esses termos são aceitáveis para o senhor?}{Bem. Não é sempre que me pedem um par desses... Mas sim, posso fabricá-los. Porém, é uma tarefa delicada trabalhar com cristal de kathorin. Terei que cobrar 1000 moedas por um par desses, e você precisaria fornecer o cristal, é claro. Além disso, fico com qualquer fragmento restante do cristal. Esses termos são aceitáveis para a senhora?}{}{}{}{}
+{105}{É aceitável. Aqui estão as moedas e o cristal.}{}{5}{$$1000, in5693}{112}{$$-1000, in5693}
+{106}{Hã... tá bom. Aqui. Eu tenho moeda. Eu tenho kreestall.}{}{-4}{$$1000, in5693}{112}{$$-1000, in5693}
+{107}{Voltarei mais tarde com as moedas.}{}{5}{$$-999}{0}{}
+{108}{Hã... eu pego moeda. Volto já.}{}{-4}{$$-999}{0}{}
+{109}{Voltarei em breve com o cristal. Obrigado.}{}{5}{in-5693}{0}{}
+{110}{Hmm... vou pegar o cristal. Já volto.}{}{-4}{in-5693}{0}{}
+{111}{F:}{}{1}{}{0}{}
+{112}{Muito bem. Muito bem... [Ele faz uma pausa, pensando.] Não deve demorar muito. Por favor, aguarde aqui por eles.}{Muito bem. Muito bem... [Ele faz uma pausa, pensando.] Não deve demorar muito. Por favor, aguarde aqui por eles.}{}{}{}{}
+{113}{[aguarde]}{}{1}{}{115}{}
+{114}{E:}{}{1}{}{0}{lf2 1}
+{115}{[Ele se ocupa, cuidadosamente lapidando o cristal, moldando-o lentamente em um par de lentes e encaixando-as em armações de óculos que tinha em estoque.]}{[Ele se ocupa, cuidadosamente lapidando o cristal, moldando-o lentamente em um par de lentes e encaixando-as em armações de óculos que tinha em estoque.]}{}{}{}{}
+{116}{[aguarde]}{}{1}{}{118}{}
+{117}{E:}{}{1}{}{0}{lf2 1}
+{118}{Ah, sim. Aqui estão. Um par muito fino, se me permite dizer.}{Ah, sim. Aqui estão. Um par muito fino, se me permite dizer.}{}{}{}{}
+{119}{Obrigado, Sr. Pierce.}{}{5}{}{-2}{}
+{120}{Obrigadu, Sinhô Peers.}{}{-4}{}{-2}{}
+

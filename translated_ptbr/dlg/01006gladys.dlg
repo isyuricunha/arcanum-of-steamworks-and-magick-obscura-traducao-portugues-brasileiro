@@ -1,0 +1,89 @@
+{1}{G: 9 160}{G: 9 160}{}{}{}{ }
+{2}{Há algo em que eu possa ajudá-lo?}{}{5}{qu1003 0}{10}{ }
+{3}{Tenho pensado sobre o seu anel.}{}{5}{qu1003 1}{50}{ }
+{4}{Ainda estou procurando pelo seu anel, senhora.}{}{5}{qu1003 2, ni2801}{70}{ }
+{5}{Sinto muito pelo seu anel, senhora.}{}{5}{qu1003 6}{0}{fl 211}
+{6}{Eu encontrei o seu anel.}{}{5}{qa1003 1, in2801}{100}{ }
+{7}{Archibald chamou-a de bruxa e disse que nunca devolveria o seu anel.}{}{5}{gf2622 1}{215}{ }
+{8}{Falei com Archibald. Ele está com o seu anel.}{}{5}{gf2618 1, qa1003 1, ni2801, gf2619 0}{290}{ }
+{9}{E:}{}{1}{}{0}{ }
+{10}{Eu não gostaria de sobrecarregar um estranho com os meus problemas.}{Eu não gostaria de sobrecarregar um estranho com os meus problemas.}{}{}{}{ }
+{11}{Por favor, conte-me. Talvez eu possa ajudar.}{}{5}{}{20}{ }
+{12}{Que bom, porque falar com você já é carga suficiente.}{}{5}{}{0}{lf2 1, re-15, fl 210}
+{19}{E:}{}{1}{}{0}{ }
+{20}{Uma relíquia de família foi roubada. Um anel de prata que pertenceu à minha avó.}{Uma relíquia de família foi roubada. Um anel de prata que pertenceu à minha avó.}{}{}{}{qu1003 1 }
+{21}{Você tem alguma ideia de quem poderia tê-lo roubado?}{}{5}{}{30}{ }
+{22}{Quando foi a última vez que viu o anel?}{}{5}{lf0 0}{80}{lf0 1 }
+{30}{Não. Ele está desaparecido há anos. Receio que eu vá partir antes de vê-lo novamente.}{Não. Ele está desaparecido há anos. Receio que eu vá partir antes de vê-lo novamente.}{}{}{}{ }
+{31}{Quando foi a última vez que o viu?}{}{5}{lf0 0}{80}{lf0 1 }
+{32}{Quanto me pagará para encontrar este anel?}{}{5}{}{60}{ }
+{39}{Isso é realmente angustiante. Ah, bem. Tenha um bom dia.}{}{5}{}{0}{re-5 }
+{40}{Obrigado, gentil senhor!}{Obrigado, gentil senhora!}{}{}{}{qu1003 2 }
+{41}{Quando foi a última vez que viu o anel?}{}{5}{lf0 0}{80}{lf0 1 }
+{49}{Voltarei em breve.}{}{5}{lf0 1}{0}{ }
+{50}{Então você vai me ajudar? Pode encontrar o meu anel para mim? Por favor?}{Então você vai me ajudar? Pode encontrar o meu anel para mim? Por favor?}{}{}{}{ }
+{51}{Há algum tipo de recompensa?}{}{5}{}{60}{ }
+{52}{Claro, como poderia não ajudar?}{}{5}{}{40}{re+5 }
+{53}{Você me entristece porque é um miserável patético.}{}{5}{}{0}{lf2 1, re-15, fl 210}
+{59}{Acho que não. Tenha um bom dia.}{}{5}{}{0}{re-5 }
+{60}{Sou apenas uma pobre velha. Não tenho nada para lhe oferecer.}{Sou apenas uma pobre velhinha. Não tenho nada para lhe oferecer.}{}{}{}{ }
+{61}{Então é nada o que receberá.}{}{5}{}{0}{lf2 1, re-10, fl 210}
+{62}{Ainda assim, vou ajudá-lo.}{}{5}{}{40}{re+5 }
+{63}{Tudo bem. Quando foi a última vez que viu o anel?}{}{5}{lf0 0}{80}{lf0 1 }
+{70}{Entendo. Esperei 20 anos por ele, posso esperar um pouco mais.}{Entendo. Esperei 20 anos por ele, posso esperar um pouco mais.}{}{}{}{ }
+{71}{Quando foi a última vez que viu o anel?}{}{5}{lf0 0}{80}{lf0 1 }
+{79}{E:}{}{1}{lf0 1}{0}{ }
+{80}{Eu o confiei ao meu filho antes que ele morresse.}{Eu o confiei ao meu filho antes que ele morresse.}{}{}{}{ }
+{81}{Quando ele morreu?}{}{5}{}{90}{ }
+{90}{Vinte anos atrás. Perdi tanto ele quanto meu marido para a peste. Estou sozinha desde então.}{Vinte anos atrás. Perdi tanto ele quanto meu marido para a peste. Estou sozinha desde então.}{}{}{}{ }
+{92}{Com quem mais eu poderia falar sobre seu filho?}{}{5}{}{180}{ }
+{100}{Você o encontrou? Como conseguiu?}{Oh, que bênção. Posso tê-lo de volta, por favor?}{}{}{}{ }
+{101}{Hmm, o Archibald... me deu ele.}{}{5}{in2801, gf1001 0}{250}{in 2801 }
+{102}{Archibald me deu ele, junto com seus cumprimentos.}{}{5}{in2801, gf1001 1}{130}{in 2801 }
+{103}{Matei o desgraçado que o roubou de você!}{}{5}{in2801, gf1001 0, gf2621 1}{0}{lf5 1, qu1003 6, re-20, fl 270}
+{110}{Obrigada pelo seu esforço...}{Obrigada pelo seu esforço...}{}{}{}{qu1003 4, re+10, al+50 }
+{111}{Foi um prazer, madame.}{}{5}{}{0}{ }
+{130}{Ele fez isso? Que gentil da parte dele pensar em mim.}{Ele fez isso? Que gentil da parte dele pensar em mim.}{}{}{}{qu1003 4, re+25, al+50 }
+{131}{Você deveria prestar suas homenagens a ele.}{}{5}{}{200}{xp1 }
+{140}{Sou apenas uma pobre velhinha, não possuo nada de valor. Por favor, deixe-me ficar com o anel.}{Sou apenas uma pobre velhinha, não possuo nada de valor. Por favor, deixe-me ficar com o anel.}{}{}{}{ }
+{141}{Claro, aqui está.}{}{5}{in2801}{110}{in 2801 }
+{142}{Vou guardá-lo até que consiga 50 moedas.}{}{5}{}{0}{qu1003 6, lf2 1, re-20, al-50, fl 212}
+{150}{Obrigada por trazer meu anel de volta.}{Obrigada por trazer meu anel de volta.}{}{}{}{ }
+{160}{[Esta velha senhora está soluçando, baixinho.]...Olá...}{[Esta velha senhora está soluçando, baixinho.]...Olá...}{}{}{}{ }
+{161}{Há algo em que eu possa ajudá-lo?}{}{5}{qu1003 0}{10}{ }
+{162}{Tenho pensado sobre o seu anel.}{}{5}{qu1003 1}{50}{ }
+{163}{Ainda estou procurando pelo seu anel, senhora.}{}{5}{qu1003 2, ni2801}{70}{ }
+{164}{Lamento pelo seu anel, senhora.}{}{5}{qu1003 6}{0}{fl 211}
+{165}{Encontrei o seu anel.}{}{5}{qa1003 1, in2801}{100}{ }
+{166}{Falei com Archibald. Ele está com o seu anel.}{}{5}{gf2618 1, qa1003 1, ni2801, gf2619 0}{290}{ }
+{167}{Eu sei sobre o joguinho que você e Archibald estão fazendo.}{}{5}{gf2619 1, ni2801, lf15 0}{300}{lf15 1 }
+{169}{E:}{}{1}{}{0}{ }
+{170}{Oh, que triste, um idiota tagarela.}{Oh, que triste, um idiota tagarela.}{}{}{}{ }
+{171}{Urgh.}{}{1}{}{0}{ }
+{180}{Um homem chamado Archibald era amigo do meu filho antes dele morrer.}{Um homem chamado Archibald era amigo do meu filho antes dele morrer.}{}{}{}{gf2620 1, ru2212 }
+{181}{Como posso encontrar esse Archibald?}{}{5}{}{190}{ }
+{190}{Pelo que ouvi, ele estava morando perto dos docas.}{Pelo que ouvi, ele estava morando perto dos docas.}{}{}{}{ }
+{191}{Vou falar com ele. Talvez ele saiba de algo.}{}{5}{}{40}{re+5 }
+{199}{Entendo. Bem, preciso ir agora.}{}{5}{}{0}{ }
+{200}{Que ideia maravilhosa! Vou fazer exatamente isso. Obrigado novamente, jovem.}{Que ideia maravilhosa! Vou fazer exatamente isso. Obrigado novamente, senhorita.}{}{}{}{gf1002 1 }
+{209}{Boa sorte.}{}{5}{}{0}{ }
+{210}{Seu jovem horrível!}{Que moça rude você é!}{}{}{}{ }
+{211}{[Ela começa a chorar, descontroladamente.]}{[Ela começa a chorar, descontroladamente.]}{}{}{}{ }
+{212}{Saia daqui! Nunca vou lhe pagar nada!}{Saia daqui! Nunca vou lhe pagar nada!}{}{}{}{ }
+{213}{Deixe-me em paz, seu miserável!}{Deixe-me em paz, seu miserável!}{}{}{}{ }
+{215}{Isso é o que eu esperaria daquele cão!}{Isso é o que eu esperaria daquele cão!}{}{}{}{ }
+{216}{Há algo em que você possa pensar que possa me ajudar a conseguir o anel?}{}{5}{}{0}{fl 240}
+{239}{E:}{}{1}{}{0}{ }
+{240}{Não, nada que eu consiga pensar.}{Não, nada que eu consiga pensar.}{}{}{}{ }
+{250}{Ele fez isso? [Ela parece triste.] Entendo. Ah, bem, eu... agradeço, é claro. Posso pegar o anel, por favor?}{Ele fez isso? [Ela parece triste.] Entendo. Ah, bem, eu... agradeço, é claro. Posso pegar o anel, por favor?}{}{}{}{ }
+{260}{Não posso me separar dele por menos de 50 moedas.}{}{5}{}{140}{ }
+{261}{Claro, aqui está.}{}{5}{}{110}{in 2801 }
+{270}{O quê?!!!! Como ousa matar aquele querido homem! Saia daqui, nunca mais quero ver você ou aquele anel novamente!}{O quê?!!!! Como ousa matar aquele querido homem! Saia daqui, nunca mais quero ver você ou aquele anel novamente!}{}{}{}{ }
+{280}{Saia de perto de mim, cão!}{Saia de perto de mim, vadia!}{}{}{}{ }
+{290}{Ele faz isso?! Estou chocada! O canalha!}{Ele faz isso?! Estou chocada! O canalha!}{}{}{}{ }
+{291}{Há algo em que você possa pensar que possa me ajudar a conseguir o anel?}{}{5}{}{0}{fl 240}
+{299}{E:}{}{1}{}{0}{ }
+{300}{O que... hã, do que diabos você está falando?}{O que... hã, do que diabos você está falando?}{}{}{}{ }
+{301}{Você sabia desde o início que Archibald tinha o anel! Você estava me usando.}{}{5}{}{0}{fl 310}
+{310}{Eu, hã, não faço a menor ideia do que você está falando. Por favor, recupere meu anel para mim...}{Eu, hã, não faço a menor ideia do que você está falando. Por favor, recupere meu anel para mim...}{}{}{}{ }
+

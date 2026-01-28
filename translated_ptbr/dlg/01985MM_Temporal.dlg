@@ -1,0 +1,119 @@
+{1}{G:}{}{}{}{}{}
+{2}{Saudações, Mestre. Posso perguntar em qual colégio você se especializou?}{}{5}{lf1 0, re 41}{28}{}
+{3}{De qual colégio você é Mestre, grande mago?}{}{5}{lf1 0, re 41}{28}{}
+{4}{Então do que você é Mestre, mago?}{}{5}{lf1 0, re 41}{28}{}
+{5}{Perdoe-me por qualquer ofensa, grande mago. Posso perguntar seu nome?}{}{5}{lf1 0, re -40}{28}{re+5}
+{6}{Hã... Posso perguntar seu nome, senhora?}{}{5}{lf1 0, re -40}{28}{re+2}
+{7}{Bem grosseiro para um "Mestre". Quem é você, afinal?}{}{5}{lf1 0, re -40}{28}{}
+{8}{Tenho uma pergunta.}{}{5}{lf1 1, re 41}{36}{}
+{9}{S'yala? Posso lhe fazer uma pergunta?}{}{5}{lf1 1, re 41}{36}{}
+{10}{Poderia me conceder um momento do seu tempo, S'yala?}{}{5}{lf1 1, re 41}{36}{}
+{11}{Humpf! ...Tenho uma pergunta... "Mestre".}{}{5}{lf1 1, re -40}{36}{}
+{12}{Por favor, perdoe minha intrusão, S'yala. Posso fazer uma pergunta?}{}{5}{lf1 1, re -40}{36}{re+2}
+{13}{Poderia me conceder um momento do seu tempo, S'yala?}{}{5}{lf1 1, re -40}{36}{re+1}
+{14}{Hã... Qual é o seu nome?}{}{-4}{lf1 0, re 41}{28}{}
+{15}{Hã... qual é o seu nome, malvado?}{}{-4}{lf1 0, re -40}{28}{}
+{16}{Hã... Eu pergunto uma coisa?}{}{-4}{lf1 1, re 41}{36}{}
+{17}{Hã... eu pergunto uma coisa, malvado?}{}{-4}{lf1 1, re -40}{36}{}
+{18}{Aperfeiçoei minhas habilidades temporais, S'yala.}{}{5}{lf4 1, sc15 5}{78}{}
+{19}{Reforcei minha aura mágica, S'yala.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
+{20}{Tenho interesse em me tornar Mestre do temporal.}{}{5}{gf2411 0, ma30, lf1 1}{101}{}
+{21}{Ainda não completei o teste de mestria, S'yala.}{}{5}{LF7 1, gf2427 0}{115}{}
+{22}{Completei o teste de mestria do temporal!}{}{5}{gf2427 1, lf9 0}{119}{}
+{27}{E:}{}{1}{}{0}{}
+{28}{Eu sou S'yala, Mestra da Magia Temporal.}{Eu sou S'yala, Mestra da Magia Temporal.}{}{}{}{lf1 1}
+{29}{É uma honra conhecê-la, senhora.}{}{5}{sc15 1, sc15 -4, lf4 0}{73}{}
+{30}{É uma honra conhecê-la, senhora.}{}{5}{sc15 5, lf5 0}{78}{}
+{31}{Qual sua opinião sobre tecnologia, madame?}{}{5}{sc15 0, lf3 0}{65}{}
+{32}{Por favor, explique-me o temporal.}{}{5}{sc15 0, lf2 0}{57}{}
+{33}{Wha' tim porul?}{}{-4}{sc15 0, lf2 0}{57}{}
+{34}{Wha' you t'ink o teknawlugy?}{}{-4}{sc15 0, lf3 0}{65}{}
+{35}{E:}{}{1}{sc15 0}{0}{}
+{36}{Do que precisa, @pcname@?}{Do que precisa, @pcname@?}{}{}{}{}
+{37}{Aperfeiçoei minhas habilidades temporais, S'yala.}{}{5}{lf4 1, sc15 5, ma 30}{78}{}
+{38}{Reforcei minha aura mágica, S'yala.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
+{39}{Tenho interesse em me tornar Mestre do temporal.}{}{5}{gf2411 0, ma30}{101}{}
+{40}{Qual sua opinião sobre tecnologia, madame?}{}{5}{lf3 0}{65}{}
+{41}{Por favor, explique-me o temporal.}{}{5}{lf2 0}{57}{}
+{42}{Wha' tim porul?}{}{-4}{lf2 0}{57}{}
+{43}{Wha' you t'ink o teknawlugy?}{}{-4}{lf3 0}{65}{}
+{44}{F:}{}{1}{}{0}{}
+{45}{E:}{}{1}{}{0}{}
+{46}{Precisa de algo mais?}{Precisa de algo mais?}{}{}{}{}
+{47}{Aperfeiçoei minhas habilidades temporais, S'yala.}{}{5}{lf4 1, sc15 5, ma 30}{78}{}
+{48}{Reforcei minha aura mágica, S'yala.}{}{5}{lf5 1, lf6 0, ma 30, lf7 0}{95}{}
+{49}{Tenho interesse em me tornar Mestre do temporal.}{}{5}{gf2411 0, ma30}{101}{}
+{50}{Qual sua opinião sobre tecnologia, madame?}{}{5}{lf3 0}{65}{}
+{51}{Por favor, explique-me o temporal.}{}{5}{lf2 0}{57}{}
+{52}{Não. Obrigado pelo seu tempo.}{}{5}{}{0}{}
+{53}{O que é 'tim porul'?}{}{-4}{lf2 0}{57}{}
+{54}{O que você acha da tecnomagia?}{}{-4}{lf3 0}{65}{}
+{55}{Não. Obrigado.}{}{-4}{}{0}{}
+{56}{E:}{}{1}{}{0}{}
+{57}{As magias Temporais consistem naqueles feitiços que distorcem o tempo e os efeitos que ele tem sobre as criaturas. É uma magia extremamente difícil de ser executada corretamente, exigindo imensa concentração e força de vontade. Apenas os estudantes mais dedicados têm sucesso em Temporal.}{As magias Temporais consistem naqueles feitiços que distorcem o tempo e os efeitos que ele tem sobre as criaturas. É uma magia extremamente difícil de ser executada corretamente, exigindo imensa concentração e força de vontade. Apenas os estudantes mais dedicados têm sucesso em Temporal.}{}{}{}{lf2 1}
+{58}{A senhora é claramente uma maga de imenso poder.}{}{5}{}{46}{re+3}
+{59}{A:}{}{5}{}{46}{re+2}
+{60}{Hmm... com uma ou duas garrafas de vinho, eu também consigo distorcer o tempo!}{}{5}{ma-29}{}{re-3, fl 123}
+{61}{O que a senhora acha da tecnologia?}{}{5}{lf3 0}{65}{}
+{62}{O que você acha da tecnomagia?}{}{-4}{lf3 0}{65}{}
+{63}{Hã... tá bom. Valeu.}{}{-4}{}{0}{}
+{64}{E:}{}{1}{}{0}{}
+{65}{Tecnologia? É um movimento insignificante entre as raças inferiores. Não vi nada desses tecnólogos que sequer "comece" a competir com minhas habilidades. Não passa de um modismo passageiro.}{Tecnologia? É um movimento insignificante entre as raças inferiores. Não vi nada desses tecnólogos que sequer "comece" a competir com minhas habilidades. Não passa de um modismo passageiro.}{}{}{}{lf3 1}
+{66}{Não poderia concordar mais com a senhora, S'yala.}{}{5}{}{46}{re+3}
+{67}{Você é incrivelmente ingênuo, se "isso" é o que acredita, mago.}{}{5}{ma-29}{}{re-3, fl 123}
+{68}{Hmm... Uma opinião interessante. Obrigado por compartilhá-la comigo.}{}{5}{}{46}{}
+{69}{Por favor, explique-me o temporal.}{}{5}{lf2 0}{57}{}
+{70}{O que é 'tim porul'?}{}{-4}{lf2 0}{57}{}
+{71}{Hã... tá bom. Valeu.}{}{-4}{}{0}{}
+{72}{E:}{}{1}{}{0}{}
+{73}{[examinando-o detalhadamente] Sinto poder em você... Sim... Você é um estudante da magia Temporal. [com expressão satisfeita] Uma excelente escolha de estudo para um mago muito promissor. Eu também me sinto honrada em conhecê-lo @pcname@.}{[examinando-o detalhadamente] Sinto poder em você... Sim... Você é um estudante da magia Temporal. [com expressão satisfeita] Uma excelente escolha de estudo para um mago muito promissor. Eu também me sinto honrada em conhecê-lo @pcname@.}{}{}{}{lf4 1}
+{74}{Obrigada. Diga-me, o que a senhora acha da tecnologia?}{}{5}{lf3 0}{65}{}
+{75}{Obrigada, senhora. Pode explicar o temporal com mais detalhes?}{}{5}{lf2 0}{57}{}
+{76}{Agradeço, Mestre.}{}{5}{}{0}{}
+{77}{E:}{}{1}{}{0}{}
+{78}{[examinando-o detalhadamente] Você adquiriu conhecimento dos cinco feitiços temporais. Estou impressionada. Não é sempre que encontro um estudante do seu nível. Diga-me, @pcname@, achou difícil dominar o feitiço Tempus Fugit?}{[examinando-o detalhadamente] Você adquiriu conhecimento dos cinco feitiços temporais. Estou impressionada. Não é sempre que encontro um estudante do seu nível. Diga-me, @pcname@, achou difícil dominar o feitiço Tempus Fugit?}{}{}{}{lf5 1}
+{79}{Fui um talento natural, senhora.}{}{5}{gf2411 0, ma 30}{95}{}
+{80}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 0, ma 30}{95}{}
+{81}{Extremamente difícil, senhora. Porém, minha resistência compensou.}{}{5}{gf2411 0, ma 30}{95}{}
+{82}{Fui um talento natural, senhora.}{}{5}{gf2411 0, ma -29}{89}{}
+{83}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 0, ma -29}{89}{}
+{84}{Extremamente difícil, senhora. Porém, minha resistência compensou.}{}{5}{gf2411 0, ma -29}{89}{}
+{85}{Fui um talento natural, senhora.}{}{5}{gf2411 1}{46}{}
+{86}{Levou algum tempo, mas valeu a pena o esforço.}{}{5}{gf2411 1}{46}{}
+{87}{Extremamente difícil, senhora. Porém, minha resistência compensou.}{}{5}{gf2411 1}{46}{}
+{88}{E:}{}{1}{}{0}{}
+{89}{[pensativa] Você tem conhecimento dos cinco feitiços... No entanto, o poder que emana de seu ser não condiz com seu nível de realização. Receio que tenha passado tempo demais na presença da tecnologia. Posso ensinar-lhe mais, caso algum dia escolha aumentar sua aura mágica, @pcname@.}{[pensativa] Você tem conhecimento dos cinco feitiços... No entanto, o poder que emana de seu ser não condiz com seu nível de realização. Receio que tenha passado tempo demais na presença da tecnologia. Posso ensinar-lhe mais, caso algum dia escolha aumentar sua aura mágica, @pcname@.}{}{}{}{}
+{90}{O que a senhora acha da tecnologia?}{}{5}{lf3 0}{65}{}
+{91}{É meu desejo permanecer equilibrado entre as duas forças.}{}{5}{}{46}{re-2}
+{92}{Acredito que o futuro está na tecnologia, não na magia, senhora.}{}{5}{}{46}{re-5}
+{93}{Estou trabalhando para melhorar minhas habilidades mágicas, senhora.}{}{5}{}{46}{re+5}
+{94}{E:}{}{1}{}{0}{}
+{95}{Hmm... Você realmente tem uma aura forte de magia ao seu redor... Pergunto-me... Estaria interessado em se tornar um Mestre em Magia Temporal?}{Hmm... Você realmente tem uma aura forte de magia ao seu redor... Pergunto-me... Estaria interessado em se tornar um Mestre em Magia Temporal?}{}{}{}{lf6 1}
+{96}{Mestre? O que é necessário para alcançar tal título?}{}{5}{}{101}{}
+{97}{O que eu preciso fazer?}{}{5}{}{101}{}
+{98}{Não neste momento, obrigado.}{}{5}{}{46}{}
+{100}{E:}{}{1}{}{0}{}
+{101}{O título de Mestre é concedido quando o estudante passa por um teste final. É tanto difícil quanto perigoso. Junto com o título de Mestre vem a habilidade de lançar qualquer feitiço em Temporal gastando apenas metade do esforço que usa agora. Gostaria de tentar o teste, @pcname@?}{O título de Mestre é concedido quando o estudante passa por um teste final. É tanto difícil quanto perigoso. Junto com o título de Mestre vem a habilidade de lançar qualquer feitiço em Temporal gastando apenas metade do esforço que usa agora. Gostaria de tentar o teste, @pcname@?}{}{}{}{}
+{102}{Sim, eu gostaria, madame.}{}{5}{}{106}{}
+{103}{Sim.}{}{5}{}{106}{}
+{104}{Não neste momento, obrigado.}{}{5}{}{46}{}
+{105}{E:}{}{1}{}{0}{}
+{106}{No entanto, devo informá-lo... Você só pode obter maestria em uma das escolas de magia. Deseja dominar a escola de Temporal, acima de todas as outras?}{No entanto, devo informá-lo... Você só pode obter maestria em uma das escolas de magia. Deseja dominar a escola de Temporal, acima de todas as outras?}{}{}{}{}
+{107}{Sim, eu gostaria.}{}{5}{}{111}{}
+{108}{Vou pensar a respeito.}{}{5}{}{46}{}
+{109}{Não neste momento, obrigado.}{}{5}{}{46}{}
+{110}{E:}{}{1}{}{0}{}
+{111}{Uma excelente escolha. Aqui. [Ela retira o medalhão de seu pescoço.] Pegue este medalhão. Quando estiver preparado para enfrentar sua prova, coloque-o e avance pelo portal no centro deste salão. Isso iniciará seu teste. Desejo-lhe sorte, @pcname@.}{Uma excelente escolha. Aqui. [Ela retira o medalhão de seu pescoço.] Pegue este medalhão. Quando estiver preparado para enfrentar sua prova, coloque-o e avance pelo portal no centro deste salão. Isso iniciará seu teste. Desejo-lhe sorte, @pcname@.}{}{}{}{in-2847, lf7 1, gf2411 1}
+{112}{Obrigado.}{}{5}{}{0}{}
+{113}{A:}{}{5}{}{0}{}
+{114}{E:}{}{5}{}{0}{}
+{115}{Sim... Às vezes, é difícil preparar-se para tal prova. Quando se sentir adequadamente preparado, prossiga pelos arcos localizados no coração de Tulla. Lembre-se, você deve estar usando o medalhão que criei para você.}{Sim... Às vezes, é difícil preparar-se para tal prova. Quando se sentir adequadamente preparado, prossiga pelos arcos localizados no coração de Tulla. Lembre-se, você deve estar usando o medalhão que criei para você.}{}{}{}{}
+{116}{Completarei meus preparativos e realizarei o teste. Adeus.}{}{5}{}{0}{}
+{117}{Vou me tornar um Mestre! Adeus.}{}{5}{}{0}{}
+{118}{E:}{}{5}{}{0}{}
+{119}{Muito impressionante, @pcname@! Eu sabia que você era um aluno excepcional! Permita-me ser o primeiro a parabenizá-lo por seu novo título e pelas recompensas que o acompanham. Sua força nas magias Temporais agora aumentou em dobro. Use suas novas habilidades com sabedoria, @pcname@.}{Muito impressionante, @pcname@! Eu sabia que você era um aluno excepcional! Permita-me ser o primeiro a parabenizá-lo por seu novo título e pelas recompensas que o acompanham. Sua força nas magias Temporais agora aumentou em dobro. Use suas novas habilidades com sabedoria, @pcname@.}{}{}{}{lf9 1}
+{120}{Obrigado, Mestre.}{}{5}{}{0}{}
+{121}{Obrigado, S'yala. Posso lhe perguntar mais uma coisa?}{}{5}{}{46}{}
+{122}{E:}{}{5}{}{0}{}
+{123}{Não tenho tempo para tolos ignorantes. Adeus!}{Não tenho tempo para tolos ignorantes. Adeus!}{}{}{}{}
+
