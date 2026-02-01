@@ -1,5 +1,8 @@
 # Tradução em Português Brasileiro para Arcanum: Of Steamworks and Magick Obscura
 
+**Participe da comunidade no Discord:** https://discord.com/invite/aYbWBr4
+
+
 ## 📦 Instalação da Tradução
 
 Este é um guia **detalhado** passo a passo para instalar a tradução em Português Brasileiro para o jogo Arcanum. Siga as instruções cuidadosamente.
