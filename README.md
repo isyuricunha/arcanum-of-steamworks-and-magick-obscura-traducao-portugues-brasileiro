@@ -1,7 +1,6 @@
 # Tradução em Português Brasileiro para Arcanum: Of Steamworks and Magick Obscura
 
-**Participe da comunidade no Discord:** https://discord.com/invite/aYbWBr4
-
+> **Participe da comunidade no Discord:** <https://discord.gg/uFEwSMwUYb>
 
 ## 📦 Instalação da Tradução
 
