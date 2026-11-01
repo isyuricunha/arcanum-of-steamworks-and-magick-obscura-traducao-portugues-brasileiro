@@ -1,0 +1,507 @@
+// This message file contains text to be used in game-supplied newspapers
+// Only the message line numbers 1000 or higher are valid
+// Each new newspaper begins on a multiple of 10, and can use up to 10
+// lines, which must be consecutive. The first line is always the main 
+// headline, while the 9 remaining lines go into 4 columns of the paper.
+// Format: each line begins with a font number and justification letter,
+// followed by the text for that line.
+
+// Some font numbers to use:
+//	490 Extra Large Headline
+//	486 Large Headline
+//	492 Normal Headline
+//	483 Story Body
+//	488 Clip Art 0-6
+
+// Justification letters (you must use one)
+//	l = left
+//	c = center
+
+// NOTE: The first blocks, 0 thru 999, are reserved for UI use
+
+// tarantian paper
+{0}{EXTRA!}
+{1}{[ O TARANTIANO ]}
+{2}{Preço: 2 Moedas}
+{3}{A Melhor Fonte de Notícias de Arcanum}
+
+// vendigrothian paper
+{4}{[ O DIÁRIO DE VENDIGROTH ]}
+{5}{Todas as Notícias Dignas de Impressão}
+
+// filler articles
+{10}{492c _ TEMPO _}
+{11}{483l O Serviço Meteorológico de Tarant prevê tempo ensolarado nos próximos dois ou três dias, com Chance crescente de Chuva antes do fim da quinzena.}
+{12}{492c _ AUMENTO DE IMPOSTO _}
+{13}{483l O Parlamento volta a considerar aumentar o Imposto de Renda em Tarant em mais 2 moedas a cada 100 ganhas. O Presidente da casa rebateu todas as Críticas, citando a importância das Obras Públicas em andamento.}
+{14}{492c _ AVISO DE UTILIDADE PÚBLICA _}
+{15}{483l Haverá uma reunião do Conselho Municipal nesta sexta-feira, aberta ao Público. A reunião começará pontualmente às 19h.}
+{16}{492c _ LEMBRETE DA REDAÇÃO _}
+{17}{483l O Tarantiano aproveita para lembrar ao seu Gentil Leitor que as cartas ao Editor não refletem necessariamente as opiniões do Jornal ou de seu Proprietário, Sir William Willaby.}
+{18}{492c _ LEI SECA _}
+{19}{483l O espectro da Lei Seca ressurgiu, pois o Parlamento analisa um Projeto que proíbe a venda de Bebidas Destiladas dentro da Cidade. Os defensores citam o aumento do Crime e das Faltas ao Trabalho como principal Justificativa, enquanto os Críticos citam Estatísticas parecidas da última Lei Seca, há mais de 30 anos.}
+{20}{492c _ CICLO DE PALESTRAS DA UNIVERSIDADE _}
+{21}{483l A Escola de Engenharia da Universidade de Tarant promove neste semestre um Ciclo de Palestrantes Ilustres. Os interessados devem procurar a Secretaria da Universidade para mais Informações.}
+{22}{492c _ BAILE BENEFICENTE _}
+{23}{483l A Sociedade das Damas de Tarant fará mais uma vez um Baile Beneficente neste sábado à noite, em prol dos Órfãos e Sobreviventes das Guerras no Exterior. As festividades começam às 20h. Traje a rigor obrigatório.}
+{24}{492c _ TÁBUA DAS MARÉS _}
+{25}{483l Hoje haverá maré alta às 6h15 e às 19h30, e maré baixa por volta das 13h05 e 25 minutos depois da meia-noite. A tábua completa está na página 8.}
+
+//Game Related Newspapers
+//Use lines 1000-4990
+//Generic Newspapers Start at line 5000
+
+{1000}{490c MANCHETE DE EXEMPLO!}
+{1001}{492c _ Coloque o subtítulo aqui _}
+{1002}{483l E aqui vai o texto da matéria. É bem emocionante!}
+
+{1020}{490c ROUBO NA CASA GARRINGSBURG!
+QUADRO ROUBADO!}
+{1021}{492c _ LADRÕES AINDA À SOLTA _}
+{1022}{483l Na noite de terça-feira, a mansão do Sr. James e da Sra. Evelyn Garringsburg, na Rua Devonshire, 37, foi invadida e saqueada por ladrões, segundo fontes próximas à família. Entre os muitos itens roubados estava o célebre 'Kerghan e Perséfone', de Pizarro. Vendido no ano passado na Renaud's por supostas 50.000 moedas de ouro, o quadro era a joia da galeria Garringsburg.
+O Sr. Garringsburg, membro antigo do Clube de Cavalheiros Wellington, declarou: "Podem ter certeza de que os autores deste crime hediondo serão levados à justiça e de que haverá reparação." A Sra. Garringsburg não quis comentar.
+Os Garringsburg oferecem 300 moedas de ouro de recompensa. O crime é só o mais recente de vários roubos de arte, que incluem a estátua "Lorek em repouso" e o Vaso Blendom.}
+
+{1030}{490c TÚMULOS ÉLFICOS DESCOBERTOS!}
+{1031}{492c _ DESCOBERTA DE TÚMULOS NAS PLANÍCIES DE MORBIHAN PELO ERUDITO PROFESSOR R.I. JAMES CAUSA GRANDE AGITAÇÃO _}
+{1032}{483l O Professor William G. Harriman está prestes a partir numa expedição às Planícies de Morbihan, onde uma nova série de antigos túmulos élficos foi desenterrada há pouco, incluindo este primoroso exemplo de arte funerária élfica pré-histórica.}
+{1033}{488c 6}
+{1034}{483l Segundo o erudito professor R.I. James, da Universidade Tarantiana, que está no local, "Estes túmulos provam de forma conclusiva que a sociedade élfica pré-histórica enterrava seus mortos no chão, como eu já havia teorizado." O Professor James descobriu os túmulos enquanto procurava na região mais dos Fósseis que tanto encantaram os visitantes do Salão de História Natural da Politécnica. A colaboração inédita entre os Srs. James e Harriman é um fato único na história de suas instituições e talvez anuncie uma nova era de cooperação entre as duas. De todo modo, o curador foi efusivo nos elogios à gentileza e ao bom senso do Professor James, que o chamou assim que a natureza da descoberta ficou clara.}
+
+{1040}{490c GILBERT BATES ASSASSINADO!}
+{1041}{492c _ FAMOSO INDUSTRIAL MORTO POR AGRESSOR DESCONHECIDO _}
+{1042}{483l 	O Sr. Gilbert Bates, o "Pai da Indústria", como era chamado, foi encontrado morto hoje em sua mansão, aparentemente vítima de um crime. Seu assassino continua à solta.}
+{1043}{483l		O Sr. Bates ganhou fama nacional ainda jovem, quando inventou a primeira máquina a vapor do mundo. Homem reservado e humilde, o Sr. Bates costumava minimizar suas conquistas, dizendo que não inventou de fato a máquina a vapor, mas que "juntou ideias que existiam havia séculos", e muitas vezes se dizia espantado por ter sido o primeiro a fazê-lo.
+	Cedric Appleby, conhecido rival e detrator do estimado Sr. Bates, é considerado no momento um possível suspeito. "Suas denúncias públicas contra Bates e seus laços com as classes baixas e degeneradas o põem no topo da nossa lista", disse o chefe de polícia.}
+{1044}{483l 	Um funeral público será realizado na semana que vem. Horário e local a anunciar.}
+
+{1050}{490c GILBERT BATES DESMASCARADO COMO FRAUDE!}
+{1051}{492c _ DIÁRIO DE BATES VENDIDO À IMPRENSA PROVA ORIGEM ANÃ DA MÁQUINA A VAPOR _}
+{1052}{483l 	Numa revelação que chocou todo o Reino Unificado, o diário de Gilbert Bates revelou a verdadeira origem da máquina a vapor: as profundezas das cavernas do Clã da Montanha Negra!
+	"Há anos digo que ele é uma fraude, e agora tenho provas", gritou o Sr. Appleby, agitando o diário de Bates para todos verem. "Graças aos deuses este impostor enfim foi desmascarado!"} 
+{1053}{483l		Não foi possível ouvir o Sr. Bates, que deixou sua suntuosa propriedade em Tarant rumo a destino ignorado. Nenhum detalhe sobre seu paradeiro veio à tona até agora. A opinião pública, porém, ainda parece estar do lado de Gilbert Bates, para grande consternação do Sr. Appleby.
+	Também envolvida na denúncia do Sr. Bates está uma figura misteriosa, uma espécie de aventureiro, sobre quem pouco se sabe (veja o retrato falado na página 2).}
+
+{1060}{490c CEDRIC APPLEBY ENCONTRADO MORTO!}
+{1061}{492c _ CANALHA LOCAL VÍTIMA DE CRIME _}
+{1062}{483l O "inventor" Cedric Appleby foi encontrado morto em sua fábrica ontem à noite, obviamente vítima de suas próprias tramoias.
+	"Está bem claro para todos que o Sr. Appleby recebeu o que merecia", opinou o policial no local, "com ele atacando o Sr. Bates em público o tempo todo, isso ia acontecer mais cedo ou mais tarde."
+	O sempre cordial Sr. Bates disse sobre o falecido rival: "Lamento sinceramente que Cedric tenha chegado a isso. Talvez um cliente insatisfeito tenha posto fim à sua triste vida." Nesse ponto, a imprensa e o Sr. Bates riram muito do caso todo.}
+{1063}{483l		Este repórter, pelo menos, vai sentir falta do velho Cedric, pois suas peripécias sempre rendiam umas notas divertidas.
+	Appleby, famoso por suas imitações malfeitas das máquinas de Bates, também foi ligado a tentativas recentes de sabotar o novo protótipo de máquina de Bates.}
+
+
+{1070}{490c DESASTRE DE TREM NA
+ESTAÇÃO VERMILLION!}
+{1071}{492c _ DESASTRE LEVA A VÁRIAS PRISÕES _}
+{1072}{483l Na sexta-feira à noite, o trem da linha Brackenton descarrilou por influência mágica, ferindo vários passageiros e transeuntes. O incidente se seguiu a um ataque de bandidos locais ao Conselheiro Edward Willoughsby e ao mago tullano Perriman Smythe. A reação de Smythe causou o descarrilamento.
+Mais tarde, Willoughsby e Smythe foram abordados de novo na mansão Willoughsby. A intervenção de Smythe e de um cavalheiro não identificado levou à prisão de vários indivíduos, um deles um mago poderoso. Willoughsby, ao contrário do costume, falou pouco sobre o caso.
+"Foi um assunto particular, e foi resolvido dessa forma." Smythe disse que talvez fique mais tempo na cidade, mas pretende evitar a Estação Vermillion. "Um caso terrível. Prefiro esquecer tudo isso", disse Smythe. }
+
+{1080}{490c ASSASSINO DE WHYTECHURCH ATACA!}
+{1081}{492c _ POLÍCIA PERPLEXA PEDE AJUDA AOS CIDADÃOS _}
+{1082}{483l 	"Qualquer informação que os cidadãos de Caladon puderem dar será muito bem-vinda", disse hoje cedo o Inspetor-Chefe Henderson aos repórteres. "Usaremos todos os meios necessários para pegar este assassino hediondo."
+Este é o segundo de uma série de assassinatos que a polícia teme que continue se o louco responsável não for levado à justiça logo.
+	Os detalhes divulgados pela polícia são escassos, mas sabemos que o assassino parece preferir as chamadas damas da noite. "Isso não quer dizer que o público possa ficar tranquilo", continuou o Inspetor-Chefe Henderson, "quem sabe quando o assassino vai se cansar das presas fáceis e começar a procurar nossas esposas e filhas."}
+{1083}{483l 	Qualquer cidadão com informações sobre o caso deve procurar imediatamente o Inspetor-Chefe na Avenida dos Santos, 5.}	
+
+{1090}{490c CONSELHEIRO PEDE GUERRA CONTRA CALADON!}
+{1091}{492c	_ É PRECISO DETÊ-LOS ANTES QUE DESTRUAM NOSSO MODO DE VIDA _}
+{1092}{483l 	Num discurso inflamado, e às vezes violento, no plenário do Conselho Industrial, o Conselheiro Braithe exigiu nada menos que a rendição incondicional de Caladon, embora nenhuma declaração formal de guerra tenha sido feita.
+	"Se os inclinados à magia em Tarant tentassem usurpar o poder, como nas sangrentas revoltas dos magos de dez anos atrás, Caladon os apoiaria por completo", gritou ele. "Não se pode confiar numa monarquia, muito menos numa que abraça a magia e a tecnologia! Eu digo: anexemos Caladon já!"}
+{1093}{483l 	Este repórter não poderia concordar mais com o Conselheiro Braithe. Já passou da hora de darmos uma lição nesses caladonianos! Nós, do Tarantiano, esperamos que você se junte a nós para pedir a destituição do atual presidente Willoughsby e a posse de Braithe em seu lugar.}
+
+{1100}{490c REI DE CALADON
+ASSASSINADO!}
+{1101}{492c _ INCIDENTE AMEAÇA AS PRÓXIMAS NEGOCIAÇÕES _}
+{1102}{483l	O Rei Farad de Caladon foi encontrado morto em seus aposentos, vítima de um ataque terrível de um ou mais agressores. O assassinato ocorreu na véspera das negociações entre o Reino Unificado e Caladon e ameaça seriamente a entrada de Caladon. Disse o Príncipe Auguste Farad: "Ainda não temos provas de que isso tenha relação com as negociações, mas seguimos investigando. Meu pai será vingado."
+	Garret Blye, Capitão da Guarda Real de Caladon, declarou: "O fato de o crime ter ocorrido nos Aposentos do Rei, bem debaixo do nosso nariz, indica traição. Muitos criados do castelo estão passando por um exaustivo, hã, interrogatório."
+	Edward Willoughsby, Presidente do Conselho Industrial de Tarant e principal defensor da entrada de Caladon, não quis comentar.}
+
+{1110}{490c CALADONIANO
+BRUTALMENTE ASSASSINADO!}
+{1111}{492c _ "Cidadão exemplar" deixa apenas o irmão _}
+{1112}{483l	O cavalheiro Lawrence Brummond foi encontrado morto em seu apartamento ontem à noite, vítima de um espancamento brutal por um ou mais agressores. Até o momento, a polícia não tem suspeitos.
+	"É de fato intrigante", disse o detetive William Prescott. "Nada foi roubado do apartamento, e havia muito o que roubar. Pelo que apuramos, o Sr. Brummond era um cidadão exemplar, de uma família respeitada aqui de Caladon. Alguém antipatizou com ele, e vamos descobrir quem e por quê."
+	A polícia investiga boatos de que o crime tem alguma ligação com a Quadrilha de Caladon, que estaria sediada na Taverna da Cebola Chorona, mas nenhuma prova concreta foi encontrada.
+	O Sr. Brummond deixa apenas o irmão, Virgil, que a polícia ainda tenta contatar. "Esperamos que ele saiba algo sobre o caso. Estamos com dificuldade para encontrá-lo."}
+
+{1120}{490c FORASTEIRO ACHA
+QUADRO ROUBADO!}
+{1121}{492c _ Ladrões Locais Frustrados por Herói _}
+{1122}{483l	A socialite Evelyn Garringsburg anunciou que seu quadro, o famoso "Kerghan e Perséfone", foi devolvido por um cavalheiro desconhecido de notável engenhosidade e coragem. O quadro, encontrado no Beco Mulligan Bone, estava sumido desde que os Garringsburg comunicaram o roubo na semana passada.
+	As circunstâncias da devolução são vagas, mas a Sra. Garringsburg demonstrou total confiança no caráter do cavalheiro que o devolveu.
+	"Ah, ele foi uma joia! Claro que paguei pelos serviços, mas os motivos dele eram de um cavalheirismo singular! Se ao menos todos os homens desta cidade horrível fossem assim." O Sr. Garringsburg não quis comentar.
+	E ao forasteiro que encontrou o quadro, este repórter tira o chapéu, senhor! Tarant é um lugar melhor graças ao senhor.}
+
+{1130}{490c FORASTEIRA ACHA
+QUADRO ROUBADO!}
+{1131}{492c _ Ladrões Locais Frustrados por Heroína _}
+{1132}{483l	A socialite Evelyn Garringsburg anunciou que seu quadro, o famoso "Kerghan e Perséfone", foi devolvido por uma dama desconhecida de notável engenhosidade e coragem. O quadro, encontrado no Beco Mulligan Bone, estava sumido desde que os Garringsburg comunicaram o roubo na semana passada.
+	As circunstâncias da devolução são vagas, mas a Sra. Garringsburg demonstrou total confiança no caráter da dama que o devolveu.
+	"Ah, ela foi um anjo! Claro que paguei pelos serviços, mas os motivos dela eram totalmente altruístas! Se ao menos todas as mulheres desta cidade horrível fossem assim." O Sr. Garringsburg não quis comentar.
+	E à forasteira que encontrou o quadro, este repórter tira o chapéu, madame! Tarant é um lugar melhor graças à senhora.}
+
+{1140}{490c ISTO É UM ERRO!}
+{1141}{492c _ O Chad esqueceu que matéria era esta! _}
+{1142}{483l	Por favor, avise o Chad se vir isto!}
+
+{1150}{490c MILAGRE DO IFS ZEPHYR!
+SOBREVIVENTE CONTA TUDO!}
+{1151}{492c _ Homem Escapa da Morte em Chamas! _}
+{1152}{483l	Saudações, caros tarantianos! Sou eu, Victor Wright, seu fiel e vigilante editor, trazendo uma matéria exclusiva que só um jornal desta envergadura e qualidade poderia trazer!
+	Ontem mesmo, nosso humilde escritório recebeu a visita de ninguém menos que o único sobrevivente da tragédia do dirigível IFS Zephyr (veja a foto, pág. 2), que se dignou a me relatar os minutos finais daquela viagem fatídica, relato que agora compartilho com vocês! Atenção! Esta história não é para os fracos de coração! É um relato tão real e assustador que só o recomendo aos de vontade e constituição de ferro!
+	Interrogado, o cavalheiro disse o seguinte sobre a terrível experiência: "Houve uma explosão tremenda... sacudiu a nave inteira... Não vi nada no ar, mas ouvi tiros... ouvi motores também... acho que eram 2 diferentes." Por mais impossível que pareça, o Zephyr teria sido atacado por algum outro tipo de aeronave. Sobre a queda, o cavalheiro disse que "Havia destroços também, perto do dirigível. Uma nave estranha..." Que naves eram essas, o cavalheiro não soube dizer.
+	O destino do Zephyr foi selado poucos instantes após o ataque. "Lamento dizer que ninguém mais sobreviveu ao impacto", disse o cavalheiro. Ele ainda estava visivelmente abalado, e logo encerrei as perguntas.
+	E então, caros amigos da cidade? O que pensar disso? Que naves estranhas eram essas? Por que atacaram uma nave tão nobre quanto o Zephyr? Bandidos voadores? Ou algo ainda mais sombrio e traiçoeiro? Não estamos seguros nem em nossos belos céus? Nós, do Tarantiano, vamos trazer a verdade, e eu, Victor Wright, não descansarei até conseguir!}
+
+{1160}{490c MILAGRE DO IFS ZEPHYR!
+SOBREVIVENTE CONTA TUDO!}
+{1161}{492c _ Mulher Escapa da Morte em Chamas _}
+{1162}{483l	Saudações, caros tarantianos! Sou eu, Victor Wright, seu fiel e vigilante editor, trazendo uma matéria exclusiva que só um jornal desta envergadura e qualidade poderia trazer!
+	Ontem mesmo, nosso humilde escritório recebeu a visita de ninguém menos que a única sobrevivente da tragédia do dirigível IFS Zephyr (veja a foto, pág. 2), que se dignou a me relatar os minutos finais daquela viagem fatídica, relato que agora compartilho com vocês! Atenção! Esta história não é para os fracos de coração! É um relato tão real e assustador que só o recomendo aos de vontade e constituição de ferro!
+	Interrogada, a dama disse o seguinte sobre a terrível experiência: "Houve uma explosão tremenda... sacudiu a nave inteira... Não vi nada no ar, mas ouvi tiros... ouvi motores também... acho que eram 2 diferentes." Por mais impossível que pareça, o Zephyr teria sido atacado por algum outro tipo de aeronave. Sobre a queda, a dama disse que "Havia destroços também, perto do dirigível. Uma nave estranha..." Que naves eram essas, ela não soube dizer.
+	O destino do Zephyr foi selado poucos instantes após o ataque. "Lamento dizer que ninguém mais sobreviveu ao impacto", disse a mulher. Ela ainda estava visivelmente abalada, e logo encerrei as perguntas.
+	E então, caros amigos da cidade? O que pensar disso? Que naves estranhas eram essas? Por que atacaram uma nave tão nobre quanto o Zephyr? Bandidos voadores? Ou algo ainda mais sombrio e traiçoeiro? Não estamos seguros nem em nossos belos céus? Nós, do Tarantiano, vamos trazer a verdade, e eu, Victor Wright, não descansarei até conseguir!}
+
+{1170}{490c MILAGRE DO IFS ZEPHYR!
+SOBREVIVENTE CONTA TUDO!}
+{1171}{492c _ Homem Escapa da Morte em Chamas! _}
+{1172}{483l	Saudações, caros tarantianos! Sou eu, Victor Wright, seu fiel e vigilante editor, trazendo uma matéria exclusiva que só um jornal desta envergadura e qualidade poderia trazer!
+	Ontem mesmo, nosso humilde escritório recebeu a visita de ninguém menos que o único sobrevivente da tragédia do dirigível IFS Zephyr (veja a foto, pág. 2), que se dignou a me relatar os minutos finais daquela viagem fatídica, relato que agora compartilho com vocês! Atenção! Esta história não é para os fracos de coração! É um relato tão real e assustador que só o recomendo aos de vontade e constituição de ferro!
+	Interrogado, o simplório cavalheiro disse o seguinte sobre a terrível experiência: "Teve bum grandão! Sacudiu balão todo... Eu num vê nada, mas eu ouvi arma grandona atirá... Eu ouvi motô tamém. Eu acha que era 2." Por mais impossível que pareça, o Zephyr teria sido atacado por algum outro tipo de aeronave. Sobre a queda, o cavalheiro disse que "Eu vê destroço tamém. Perto do balão. Ôtra coisa voadora!" Que naves eram essas, o cavalheiro não soube dizer.
+	O destino do Zephyr foi selado poucos instantes após o ataque. "Num tem ôtro povo vivo quando bateu no chão", disse o cavalheiro. Embora não seja o mais inteligente dos homens, ele ainda estava visivelmente abalado, e logo encerrei as perguntas.
+	E então, caros amigos da cidade? O que pensar disso? Que naves estranhas eram essas? Por que atacaram uma nave tão nobre quanto o Zephyr? Bandidos voadores? Ou algo ainda mais sombrio e traiçoeiro? Não estamos seguros nem em nossos belos céus? Nós, do Tarantiano, vamos trazer a verdade, e eu, Victor Wright, não descansarei até conseguir!}
+
+{1180}{490c MILAGRE DO IFS ZEPHYR!
+SOBREVIVENTE CONTA TUDO!}
+{1181}{492c _ Mulher Escapa da Morte em Chamas! _}
+{1182}{483l	Saudações, caros tarantianos! Sou eu, Victor Wright, seu fiel e vigilante editor, trazendo uma matéria exclusiva que só um jornal desta envergadura e qualidade poderia trazer!
+	Ontem mesmo, nosso humilde escritório recebeu a visita de ninguém menos que a única sobrevivente da tragédia do dirigível IFS Zephyr (veja a foto, pág. 2), que se dignou a me relatar os minutos finais daquela viagem fatídica, relato que agora compartilho com vocês! Atenção! Esta história não é para os fracos de coração! É um relato tão real e assustador que só o recomendo aos de vontade e constituição de ferro!
+	Interrogada, a simplória dama disse o seguinte sobre a terrível experiência: "Teve bum grandão! Sacudiu balão todo... Eu num vê nada, mas eu ouvi arma grandona atirá... Eu ouvi motô tamém. Eu acha que era 2." Por mais impossível que pareça, o Zephyr teria sido atacado por algum outro tipo de aeronave. Sobre a queda, ela disse que "Eu vê destroço tamém. Perto do balão. Ôtra coisa voadora!" Que naves eram essas, a dama não soube dizer.
+	O destino do Zephyr foi selado poucos instantes após o ataque. "Num tem ôtro povo vivo quando bateu no chão", disse ela. Embora não seja a mais inteligente das mulheres, ela ainda estava visivelmente abalada, e logo encerrei as perguntas.
+	E então, caros amigos da cidade? O que pensar disso? Que naves estranhas eram essas? Por que atacaram uma nave tão nobre quanto o Zephyr? Bandidos voadores? Ou algo ainda mais sombrio e traiçoeiro? Não estamos seguros nem em nossos belos céus? Nós, do Tarantiano, vamos trazer a verdade, e eu, Victor Wright, não descansarei até conseguir!}
+
+{1190}{490c IFS ZEPHYR DESAPARECIDO!}
+{1191}{492c _ Destino do Grande Dirigível É Desconhecido! _}
+{1192}{483l	A viagem inaugural do IFS Zephyr, o primeiro dirigível "mais leve que o ar" de toda Arcanum, teve um fim incerto e misterioso. Os primeiros relatos da Estação Vermillion são confusos e vagos, mas parece que a nave foi vista pela última vez passando sobre as Montanhas Cinzentas, perto do pequeno vilarejo minerador de Shrouded Hills.
+	Ainda não conseguimos contatar o vilarejo por telegrama, mas o fato de o Zephyr não ter chegado a Tarant é um mau presságio. "O dirigível só foi projetado para pousar em certos locais, e não tem carvão para se manter no ar por tanto tempo", disse o Chefe da Estação Vermillion. "Receio que a lógica só aponte uma alternativa."
+	Edward Willoughsby, Presidente do Conselho Industrial e grande investidor da Estação Vermillion, declarou: "Não quero que todos presumam o pior. O capitão do Zephyr era um piloto habilidoso. Quem garante que ele não pousou a nave em outro lugar? Eu mesmo espero pelo melhor, e meus melhores pensamentos vão para os passageiros a bordo."
+	A notícia chega logo após o desastre de trem na Estação Vermillion, há poucos dias. Esperemos que o IFS Zephyr tenha tido sorte melhor que a do trem da Linha Brackenton.}
+
+{1200}{490c PAYNE MATA DEMÔNIO!}
+{1201}{492c _ Famoso Aventureiro Payne Põe Fim aos Assassinatos de Whytechurch! _}
+{1202}{483l		É isso mesmo, caros leitores: nossa cidade está segura de novo graças à coragem de ninguém menos que o famoso caçador de feras Franklin Payne!
+	Perguntado se foi difícil matar a criatura, Payne gracejou: "Abater um demônio é sempre uma ótima maneira de começar a manhã! Ha! Este deu um pouco de trabalho, mas nada de muito difícil, devo dizer."}
+{1203}{483l		Como sempre, nosso "estimado" Inspetor-Chefe não comentou por que a polícia foi incapaz de deter a criatura. Também ficou sem resposta por que ele não conseguiu perceber a natureza demoníaca do assassino.}
+{1204}{483l		Segundo o Professor Eakins, da Universidade de Tarant, o demônio foi invocado originalmente em Tarant, há uns 500 anos, e desde então espreitava nos velhos esgotos de lá. Ele despertou há pouco, quando construíram o novo sistema de esgotos.
+	Mais uma vez, a insensatez de Tarant vira problema de Caladon! É hora de rompermos todos os laços com Tarant antes que eles nos arruínem de vez!}
+
+{1210}{490c RENFORD A. TERWILLIGER ENCONTRADO MORTO!}
+{1211}{492c _ FAMOSO AUTOR MORRE EM CIRCUNSTÂNCIAS MISTERIOSAS _}
+{1212}{483l 	O Sr. Renford A. Terwilliger, autor de má fama, foi encontrado morto hoje em sua casa, em circunstâncias muito suspeitas.}
+{1213}{483l	O Sr. Terwilliger ganhou notoriedade com a publicação de seu polêmico romance "Horror Entre os Elfos Negros", quando fez de tudo para garantir ao público que a obra se baseava em fatos reais. Porém, para desgosto do Sr. Terwilliger, as mentes criteriosas julgaram o livro pura ficção. O assessor do Sr. Terwilliger anunciou que o atormentado autor vinha fazendo tratamentos contra a ilusão persistente de que alguém tentava matá-lo por ter publicado a obra.
+		As autoridades seguem investigando a causa de sua morte prematura.}
+{1214}{483l 	Um funeral reservado a parentes e amigos próximos será realizado na semana que vem.}
+
+{1220}{490c DAMA DA SOCIEDADE ASSASSINADA!}
+{1221}{492c _ PETTIBONE ENCONTRADA MORTA COM FACA CERIMONIAL _}
+{1222}{483l		A Sra. Cassandra Pettibone foi encontrada por sua criada hoje de manhã cedo com uma faca cravada no peito. A arma do crime parece ser uma antiga lâmina cerimonial, talvez de origem élfica.}
+{1223}{483l		O Capitão Wheeler, da Guarda Tarantiana, declarou: "No momento não temos pistas, mas não me surpreenderia se isso tivesse algo a ver com a mais recente febre da alta sociedade por relíquias élficas."
+	E continuou: "Dizem que algumas das aquisições recentes de alguns de nossos cidadãos mais ilustres foram obtidas por meios um tanto duvidosos. O público pode ficar tranquilo: estamos analisando todas essas acusações com cuidado."}
+
+{1230}{490c DONN THROGG AINDA À SOLTA!}
+{1231}{492c _ MEIO-ORC COVARDE CONTINUA ESCONDIDO _}
+{1232}{483l		Donn Throgg, o infame agitador meio-orc, está sumido desde que o Cap. Wheeler, da Guarda Tarantiana, foi obrigado a demonstrar a eficácia da nova arma mecanizada da Guarda contra os desordeiros anarquistas no Parque Kensington. Acredita-se que a reunião ilegal de orcs e meio-orcs tenha sido organizada por Throgg para semear mais agitação na cidade.
+	"Esse Throgg não passa de um baderneiro", disse o Cap. Wheeler. "Ele deve ser considerado extremamente perigoso, e se algum dos nossos bons cidadãos o encontrar, não deve de modo algum falar com ele nem ter qualquer contato com ele. Qualquer avistamento de Throgg deve ser comunicado imediatamente à Guarda. Este é um assunto da Guarda e deve ser tratado como tal."}
+{1233}{483l		O Conselho Industrial estuda conceder uma condecoração ao Cap. Wheeler por seus recentes esforços heroicos; só os Conselheiros Willoughsby, Babcock e McGeehan são contra.}
+
+{1240}{490c ANARQUISTAS TOMAM FÁBRICA!}
+{1241}{492c _ CAP. WHEELER DECLARA A REUNIÃO ILEGAL _}
+{1242}{483l		Donn Throgg liderou um bando de orcs mal-encarados na tomada do seu local de trabalho, uma fábrica no Beco das Dez Mãos, 15, bem na beira do bairro dos armazéns. Neste momento, o Cap. Wheeler está no local com sua Guarda Tarantiana de Elite.
+	"Throgg não vai escapar desta vez. Podem ter certeza", afirmou o Cap. Wheeler. "Ele é uma ameaça à nossa sociedade, ao nosso próprio modo de vida."}
+{1243}{483l		Também estava no local o Conselheiro Babcock, que via os acontecimentos de modo bem diferente. "É errado tratar orcs e meio-orcs como se fossem animais. É preciso fazer algo a respeito de um sistema de leis que discrimina certas raças."
+	Este repórter acha que o Sr. Babcock devia cuidar da própria vida e deixar a disciplina das raças inferiores e desordeiras para pessoas qualificadas, como o Cap. Wheeler.}
+
+{1250}{490c THROGG MORTO!}
+{1251}{492c _ "A CIDADE PODE DORMIR EM PAZ", DIZ WHEELER _}
+{1252}{483l		Os bravos homens da nossa Guarda Tarantiana abateram ontem o notório agitador Donn Throgg sob uma chuva de balas. Throgg, ligado a vários surtos de violência entre manifestantes e a Guarda, era considerado o inimigo público número um pelo Conselho Industrial.
+	"Já passou da hora de esse canalha receber o que merecia", disse o Capitão Wheeler, que comandava o destacamento que pôs fim à vida miserável de Throgg.}
+{1253}{483l		Como sempre, o Conselheiro Babcock estava lá para condenar o necessário uso da violência contra tais arruaceiros. "O que vimos hoje foi a morte de um monstro criado pelos jornalistas! Na verdade, ele só tentava conseguir para o seu povo o que todos queremos: respeito e nossos direitos." O Sr. Babcock seguiu nessa linha por um bom tempo, mas este repórter se recusa a submeter os leitores a mais dessa baboseira.}
+
+{1260}{490c THROGG MORTO!}
+{1261}{492c _ "A CIDADE PODE DORMIR EM PAZ", DIZ WHEELER _}
+{1262}{483l		Um herói desconhecido enfim matou o infame Donn Throgg, depois de anos perturbando nossa bela cidade com protestos ilegais e pedidos de igualdade. Throgg, ligado a vários surtos de violência entre manifestantes e a Guarda, era considerado o inimigo público número um pelo Conselho Industrial.
+	"Já passou da hora de esse canalha receber o que merecia", disse o Capitão Wheeler, que comandava o destacamento que encurralou Throgg num armazém, onde o assassino não identificado atacou.}
+{1263}{483l		Como sempre, o Conselheiro Babcock estava lá para condenar o necessário uso da violência contra tais arruaceiros. "O que vimos hoje foi a morte de um monstro criado pelos jornalistas! Na verdade, ele só tentava conseguir para o seu povo o que todos queremos: respeito e nossos direitos." O Sr. Babcock seguiu nessa linha por um bom tempo, mas este repórter se recusa a submeter os leitores a mais dessa baboseira.}
+
+{1270}{490c THROGG FOGE!!}
+{1271}{492c _ WHEELER CULPA INTERFERÊNCIA DE BABCOCK E DE UM FORASTEIRO _}
+{1272}{483l		Depois de uma operação cuidadosamente planejada, em que o infame agitador Donn Throgg estava a instantes de ser preso, o Conselheiro Babcock e um forasteiro não identificado conspiraram para garantir sua fuga.
+	"Não acredito que o "estimado" Sr. Babcock teve a ousadia de interferir num assunto da Guarda! Vou cuidar para que ele seja processado!", esbravejou o Cap. Wheeler, da Guarda Tarantiana. E continuou: "Hoje seria o fim da ameaça de Donn Throgg, e a interferência de Babcock soltou essa ameaça sobre Tarant de novo!"
+	O Sr. Babcock negou conhecer o forasteiro que Wheeler aponta como seu cúmplice e não quis comentar o caso, a não ser para dizer: "Acho que já passou da hora de tratarmos todas as raças por igual e acabarmos com o racismo maligno praticado por Wheeler e seus semelhantes."}
+
+{1280}{490c MAGO AMEAÇA VENDIGROTH!}
+{1281}{492c _ MAGO ENLOUQUECIDO ALERTA CONTRA A TECNOLOGIA _}
+{1282}{483l		Um mago não convidado invadiu ontem o gabinete do Governador e o alertou de graves consequências se Vendigroth não parar de desenvolver tecnologia. O mago, que se apresentou como "Arronax" e disse ser membro do "Conselho Élfico", exigiu que obedecêssemos às decisões do tal conselho.
+	O Governador Nikolai informou a Arronax que Vendigroth é um país totalmente independente. Nunca pedimos nem aceitamos ajuda do Conselho Élfico, nem reconhecemos sua autoridade. Arronax começou um longo sermão sobre o direito dos elfos de governar, e então o Governador lhe pediu que se retirasse. Antes de partir, Arronax disse que faríamos bem em ouvir seus avisos.
+	Nós, do Diário de Vendigroth, aplaudimos a atitude do Governador, a quem já criticamos no passado, e conclamamos os cidadãos a se prepararem para um possível conflito com esse mago enlouquecido.}
+{1283}{492c _ CIENTISTAS INICIAM TRABALHO DE DEFESA _}
+{1284}{483l		Cientistas locais começaram a trabalhar num dispositivo que, espera-se, fará qualquer mago pensar duas vezes antes de nos atacar. Depois do encontro de ontem com Arronax, o Governador liberou os fundos para o dispositivo, que os cientistas vinham propondo havia meses.
+	Nós, do Diário de Vendigroth, conseguimos ter uma ideia geral de como o dispositivo funciona, embora, compreensivelmente, seus detalhes sejam segredo de governo. O dispositivo deve de algum modo drenar a própria força vital de um mago! Só com as maravilhas da ciência algo assim é possível!}
+{1285}{492c _ GOVERNADOR CONVOCA REUNIÃO DE EMERGÊNCIA _}
+{1286}{483l		O Governador Nikolai convocou hoje uma reunião de emergência do gabinete para elaborar novas estratégias de defesa.}
+
+{1290}{490c MAGO DESTRÓI FÁBRICA SCANLAN!}
+{1291}{492c _ "ISSO NÃO VAI FICAR ASSIM", JURA O GOVERNADOR _}
+{1292}{483l		O mago que ameaçou nosso estimado Governador há duas semanas voltou, e desta vez trouxe a morte. Depois de destruir friamente a Fábrica Scanlan (causando incontáveis mortes), teve a audácia de ameaçar o governador mais uma vez, dizendo: "isto é só o começo, se continuarem no caminho que escolheram".
+	O Governador, para seu mérito, recusou-se a ceder aos caprichos desse "Arronax" e mandou que ele saísse do gabinete. Não temos comentários do Governador sobre o rumo da reunião depois disso, pois ele continua internado em estado grave. Suas funções foram assumidas pelo Vice-Governador durante sua recuperação.
+}
+{1293}{492c _ DISPOSITIVO DE FREUHOFF CONCLUÍDO! _}
+{1294}{483l		"Nossa primeira linha de defesa está pronta", gabou-se o Dr. Samuel Freuhoff, erguendo o que a imprensa passou a chamar de "Dispositivo de Freuhoff". "Qualquer mago vai pensar duas vezes antes de atacar uma civilização capaz de arrancar a própria força vital de seu corpo, sem nenhuma esperança de ressurreição mágica", continuou.
+	Já estão em andamento os planos para construir mais dispositivos, além de vários outros tipos de dispositivos antimagos.
+
+}
+{1295}{492c _ AVISO DE UTILIDADE PÚBLICA _}
+{1296}{483l Haverá uma reunião de emergência nesta sexta-feira, aberta ao público. A reunião começará pontualmente às 19h e tratará do que fazer em caso de novos ataques de magos.}
+{1297}{492c _ LEMBRETE DA REDAÇÃO _}
+{1298}{483l O Diário de Vendigroth aproveita para lembrar ao seu Gentil Leitor que as cartas ao Editor não refletem necessariamente as opiniões do Jornal ou de seu Proprietário.}
+
+{1300}{490c PROFESSOR HUNLEY VAI TESTAR SUBMERSÍVEL}
+{1301}{492c_ LIGA DOS CIENTISTAS CONTESTA SUAS TEORIAS _}
+{1302}{483l		O Professor Aldous Hunley deve lançar amanhã ao meio-dia sua embarcação totalmente submersível, mas seus colegas da Liga dos Cientistas afirmam que suas teorias estão erradas e que ele corre grave perigo de morte.
+	"As teorias dele sobre flutuação e reciclagem do ar se baseiam em princípios sólidos, mas suas conclusões sobre a capacidade de controlar esses fatores importantes são, no mínimo, questionáveis", afirmou seu colega, o Professor Jonathan Frink. E continuou: "Temo que seu plano de recuperar a flutuação com ar pressurizado esteja fadado ao fracasso. Quando aquela monstruosidade submergir, temo que nunca mais volte à tona. Implorei que ele fizesse mais testes antes de ir a campo, mas ele está decidido a provar que está certo, custe o que custar."
+	A embarcação do Professor Hunley, que lembra uma grande criatura marinha, pode ser vista no Cais Dixon, no Porto Sul, antes da viagem inaugural de amanhã.
+}
+{1303}{492c _ BAILE BENEFICENTE _}
+{1304}{483l A Sociedade das Damas de Vendigroth fará mais uma vez um Baile Beneficente neste sábado à noite, em prol dos Órfãos e Sobreviventes das Guerras no Exterior. As festividades começam às 20h. Traje a rigor obrigatório.}
+{1305}{492c _ ALÍVIO FISCAL _}
+{1306}{483l O Governador estuda reduzir o Imposto de Renda em Vendigroth em 2 moedas a cada 50 ganhas. O Governador rebateu todas as Críticas de seu Gabinete à Redução.}
+{1307}{492c _ TÁBUA DAS MARÉS _}
+{1308}{483l Hoje haverá maré alta às 6h15 e às 19h30, e maré baixa por volta das 13h05 e 25 minutos depois da meia-noite. A tábua completa está na página 8.}
+
+{1310}{490c PROF. HUNLEY DESAPARECIDO, PROVAVELMENTE MORTO!}
+{1311}{492c _ SUBMERSÍVEL EXPERIMENTAL NÃO VOLTA _}
+{1312}{483l		O Professor Aldous Hunley, da Liga dos Cientistas, foi dado como desaparecido e provavelmente morto depois que sua embarcação experimental não voltou ao porto na hora prevista.
+	"Este é um dia triste para toda a ciência", comentou seu ocasional adversário no conselho, o Professor Jonathan Frink. "Discordávamos em muitas coisas, mas respeitávamos a opinião um do outro. Ele fará falta."
+	O Professor Hunley lançou seu submersível experimental há uns sete dias e devia ter voltado há dois. O Professor Frink previu esse desfecho e tentou, sem sucesso, convencer Hunley a desistir do teste. "Imagino que meu colega esteja descansando em algum ponto do fundo do mar a esta altura", ouviram-no dizer ao deixar a entrevista coletiva em que o desaparecimento foi anunciado.
+}
+{1313}{492c _ UNIVERSIDADE PROCURA SUBSTITUTO _}
+{1314}{483l 	A Escola de Engenharia da Universidade de Vendigroth procura um substituto para o Professor Hunley, agora dado como morto. Todos os candidatos qualificados devem se apresentar pessoalmente.
+} 
+{1315}{492c _ LEI SECA _}
+{1316}{483l 	O espectro da Lei Seca ressurgiu, pois o Governador analisa um Projeto que proíbe a venda de Bebidas Destiladas dentro da Cidade. Os defensores citam o aumento do Crime e das Faltas ao Trabalho como principal Justificativa, enquanto os Críticos citam Estatísticas parecidas da última Lei Seca, há mais de 30 anos.}
+{1317}{492c _ TEMPO _}
+{1318}{483l 	O Ministério do Tempo de Vendigroth prevê Chance crescente de Chuva para a próxima quinzena, com tempo firme logo depois.}
+
+
+
+
+	
+
+	
+
+
+//Generic Newspapers
+
+{5000}{490c PROTESTO CONTRA TECNOLOGIA
+DEIXA 3 MORTOS}
+{5001}{492c _ USO EXCESSIVO DA FORÇA? _}
+{5002}{483l 	Ontem a Guarda Tarantiana foi chamada para conter um protesto violento nas escadarias da Prefeitura. O grupo organizador, os Amigos da Magia, havia se reunido lá de manhã, gritando obscenidades e atirando vários objetos tecnológicos.
+A Guarda, atendendo a queixas sobre o protesto, chegou ao local cerca de uma hora depois do início, armada de armas e porretes. Minutos depois, o caos era geral, com agitadores dos dois lados. Quando a fumaça baixou, três manifestantes estavam mortos.
+O protesto era contra o número crescente de fábricas em Tarant e seus efeitos nocivos sobre o ar da cidade. "Não vamos mais tolerar isso", disse Josiah Hummel, porta-voz dos Amigos. "Tarant também é a nossa cidade."
+O Capitão da Guarda Tarantiana declarou: "A Guarda está aqui para proteger a cidade, seja lá como estiver o ar dela. Qualquer outro coração mole da cidade pode esperar o mesmo tratamento."}
+
+
+{5010}{490c BOATOS DE MÁQUINAS VOADORAS DESMENTIDOS}
+{5011}{492c _ MAGO ERUDITO SE PRONUNCIA _}
+{5012}{483l	Ultimamente surgiram muitos boatos sobre avistamentos, e até sobre a própria existência, das chamadas "aeronaves mais pesadas que o ar". Muitos relatos descrevem naves "em forma de pássaro" que fazem um barulhão. Como recebemos aqui no Tarantiano tantas cartas sobre esses "avistamentos" ou fenômenos, decidimos consultar um especialista no assunto, o Mestre Mago Krolus Brajercliff.
+	Ele é mestre nos colégios do Ar e da Condução. Perguntado sobre essas naves misteriosas, o Mestre Brajercliff nos informou que tal engenhoca simplesmente não é possível e nos disse o seguinte: "Até um plebeu sabe que os ossos dos pássaros são ocos e cheios de ar. Mesmo assim, eles não precisam fazer um esforço enorme? Nem o melhor desses malditos "motores" novos teria um décimo da potência necessária. Não, receio que o homem comum só possa voar usando uma daquelas perigosíssimas e incômodas naves mais leves que o ar, ou pelo estudo rigoroso da Magia."
+	Nós, do Tarantiano, agradecemos ao Mestre Brajercliff por compartilhar suas ideias e opiniões sobre o assunto.}
+
+{5020}{490c CONSELHO APROVA
+LEI DOS ROEDORES}
+{5021}{492c _ AS RUAS FICARÃO MAIS SEGURAS? _}
+{5022}{483l Da Redação
+
+	Esta lei polêmica estava em debate havia quase um ano, sem que nenhum dos lados cedesse. Por fim, o conselho decidiu votá-la e resolver a questão de uma vez. Na apuração, a lei foi aprovada por pequena margem. A oposição pediu de imediato a recontagem, feita na hora, que confirmou a aprovação.
+	O debate começou por causa da presença crescente de ratos grandes nas ruas de Tarant. Esses roedores são do tipo normalmente encontrado no vasto sistema de esgotos sob a cidade. Ultimamente ficaram mais ousados, a ponto de se aventurarem pelas ruas da nossa bela cidade em plena luz do dia. Algumas autoridades temiam que esse aumento da atividade dos bichos fétidos pudesse aumentar os surtos de doenças.
+	A nova lei restringe a alimentação de pequenos animais, como esquilos e coelhos, a áreas predeterminadas, e só aos domingos, entre o meio-dia e as seis da tarde. A lei progressista vem logo após a decisão do Sr. Charles Dunston de interditar trechos maiores dos esgotos. O Sr. Dunston, gerente da Usina de Água e Energia de Tarant, tomou a decisão depois que vários ataques fatais foram atribuídos aos bichos dos esgotos.}
+
+{5030}{490c ACONTECIMENTOS ESTRANHOS
+EM ASHBURY}
+{5031}{492c _ HABITANTES DAS FLORESTAS ÉLFICAS SÃO AVISTADOS _}
+{5032}{483l Da Redação
+
+	Alguns moradores de Ashbury relatam ter avistado si'im tala, ou "luzes do amor", como são conhecidas na língua comum. Esses relatos curiosos começaram a chegar aqui em Tarant há cerca de uma semana. Enviamos um jornalista de trem a Ashbury para investigar.
+	Ele entrevistou muitas das pessoas que disseram ter visto as estranhas e magníficas criaturas. Parece que elas têm aparecido ao anoitecer, em pequeno número, nos jardins floridos de alguns moradores. Ninguém sabe ao certo como essas criaturas foram parar em Ashbury, tão longe da Floresta Cintilante, onde costumam viver.
+	Consultamos especialistas do Ateneu de Tarant e, embora digam conhecer os relatos, a única explicação que puderam dar para as criaturas estarem tão longe de seu habitat foi que alguém desconhecido as capturou e trouxe para cá. Perguntados por que alguém faria isso, nossos especialistas não souberam explicar.
+	Seja qual for a causa, os moradores de Ashbury estão encantados com os novos visitantes e esperam que eles fixem residência no novo lar. Para os leitores que desejam mais
+	informações sobre os hábitos e o comportamento dos si'im tala, nossos editores recomendam "Cidades Proibidas do Norte", de Gregor Seamus Darton. Este volume de primeira está à venda na maioria dos livreiros mais exigentes de Tarant.}
+
+{5040}{490c A CIÊNCIA CRIMINAL
+AVANÇA}
+{5041}{492c _ PROFESSOR FAZ DESCOBERTA INCRÍVEL _}
+{5042}{483l Da Redação
+
+	A Universidade Tarantiana concedeu um doutorado honorário ao Professor Benjamin Gershwin por seu trabalho pioneiro no novo campo da ciência forense criminal. O Professor Gershwin, renomado frenologista, leciona na prestigiosa escola há quase 20 anos.
+	A teoria do Prof. Gershwin, descoberta por acaso, propõe um modo interessante de pegar criminosos com uma técnica que ele chama de "impressão digital". Entrevistamos o bom professor e pedimos que nos explicasse a teoria e como chegou a ela.
+	"Eu estava em casa certa noite e a governanta dos meus filhos os repreendia por deixarem as marcas dos dedos na mesa recém-encerada da sala de jantar. Foi quando a ideia me atingiu como um raio. Antes que ela chamasse a criada para limpar a mesa, corri até a sala de jantar e comecei a examinar as marcas que as crianças tinham deixado. Pegando um pergaminho bem seco da minha escrivaninha, consegui pressioná-lo sobre as marcas, que passaram para o papel. Então pude examiná-las com mais facilidade sob a lupa."
+	"Depois de compará-las com outras que colhi das crianças mais tarde, foi como eu imaginava: cada uma era única e podia ser associada às que elas tinham deixado antes na mesa."
+	Comecei então a teorizar que, se a polícia conseguisse "colher" ou fazer cópias de impressões digitais semelhantes na cena de um crime, poderia de algum modo associá-las às dos suspeitos e ter as provas necessárias para uma condenação."
+	O professor trabalha atualmente com colegas e membros da polícia para aperfeiçoar o processo.}
+
+{5050}{490c MISTÉRIO NO
+HADRIAN}
+{5051}{492c _ MAGO É VISTO EM RITUAL ESTRANHO _}
+{5052}{483l Da Redação
+	
+	A polícia relatou um encontro curioso ocorrido às margens do Rio Hadrian, que corta Tarant. Parece que um policial local observou um homem envolvido no que descreveu como "um comportamento dos mais peculiares".
+	O policial declarou: "Observei esse indivíduo por vários minutos de onde eu estava, não muito longe do suspeito. Ele segurava uma espécie de saco numa das mãos e tirava penas dele com a outra. Então segurava a pena com o braço esticado diante do rosto e parecia concentrar algum tipo de Magia nela, e então a pena explodia num clarão azul e sumia da mão dele. Observei esse ritual esquisito várias vezes antes de decidir dar um tiro de advertência por cima da cabeça dele. Infelizmente, minha arma não funcionou".
+	O policial explicou ainda que o homem fugiu, mas na pressa deixou cair o saco de onde tirava as penas. O saco continha várias penas diferentes. O exame das penas pelo ilustre Professor Tristan Fenwick, da Sociedade Zoológica Tarantiana, mostrou que eram mesmo de vários pássaros, inclusive de espécies até então desconhecidas.
+	Essa informação, somada ao relato do policial sobre a falha da arma, efeito colateral conhecido de Magia forte nas proximidades, levou Fenwick a crer que esse homem e seu ritual estranho podem ter algo a ver com as recentes anomalias migratórias nos viveiros de aves do Hadrian, que outros, sobretudo usuários de magia, atribuem ao chamado "envenenamento" do Hadrian pelas fábricas locais. A polícia afirmou que vai continuar a investigação.}
+
+{5060}{490c NÁUFRAGOS RESGATADOS
+DE ILHA!}
+{5061}{492c _ FAMÍLIA PERDIDA É ENFIM ENCONTRADA _}
+{5062}{483l Da Redação
+
+	Há quase 6 anos, o malfadado navio Orgulho de Hadrian partiu de Caladon rumo a Tarant com passageiros e carga a bordo. Ele nunca chegou ao destino, e só pela divina providência sabemos agora o que lhe aconteceu.
+	O bom capitão Edward Teach, do navio mercante "Gypsy Shadow", de Ashbury, seguia por coincidência quase a mesma rota do Orgulho de Hadrian quando foi atingido por uma tempestade violenta e arrastado para bem ao sul da rota planejada. O capitão e sua tripulação, marinheiros de primeira que são, não perderam o rumo durante a tempestade.
+	Passada a tormenta, avistaram uma ilha que não constava em nenhuma de suas cartas. Decidiram desembarcar em busca de água doce, pois o mar tinha contaminado vários de seus barris durante a tempestade. Ao se aproximarem da ilha, notaram movimento na praia onde pretendiam desembarcar.
+	Para sua grande surpresa, o que, ou melhor, quem encontraram foi John Borlindas e sua família, antes moradores de Ashbury. Eles contaram em detalhes ao capitão do Gypsy Shadow como voltavam para casa no Orgulho de Hadrian e pretendiam desembarcar em Tarant e pegar um trem até Ashbury. O Sr. Borlindas falou ao solidário capitão da tempestade que os jogou na ilha e das muitas aventuras que viveram desde que foram obrigados a morar no novo lar.
+	O Capitão Teach, generoso como é, ofereceu ao Sr. Borlindas e à família passagem até Tarant. O Sr. Borlindas aceitou agradecido, e eles chegaram felizes a Ashbury na última terça-feira.}
+
+{5070}{490c NAVIO PIRATA
+ATACA DE NOVO!}
+{5071}{492c _ CONSELHO DECIDE O QUE FAZER _}
+{5072}{483l Da Redação
+	
+	Outro navio mercante, o Estrela Brilhante, de Tarant, parece ser a mais recente vítima da crescente atividade pirata que vem atrapalhando o comércio marítimo tarantiano.
+	O navio foi encontrado à deriva, a cerca de um dia de viagem de Tarant, com o casco riscado e o convés ensanguentado pelos sinais de batalha. Os donos disseram que todos os porões foram esvaziados e que nem a tripulação nem os corpos foram encontrados.
+	Em resposta ao incidente, alguns magnatas da navegação mercante de Tarant pediram uma reunião de emergência do Conselho Industrial. Na reunião, propuseram construir um "navio de guerra rápido e encouraçado, com a mais nova tecnologia a vapor e armamento pesado". O navio poderia patrulhar as rotas marítimas e acabar com esse flagelo de uma vez, ou assim dizem os mercadores.
+	Diante da proposta, a grande questão é de onde virá o dinheiro para tal empreitada. Os tarantianos temem aumento de impostos e, considerando a política do Conselho no passado, seus temores têm fundamento. "Algo precisa ser feito, e logo", disse Edward Willoughsby, presidente do Conselho.
+	A identidade dos piratas é desconhecida, embora uma teoria interessante tenha sido proposta por Três Dentes McCoy, pescador local. "Num é ninguém menos que o fantasma do próprio Stringy Pete. O velho Pete num gosta de muito navio nas águas dele, e o sangue vai correr até ele cansar." Para quem não conhece a lenda, Stringy Pete foi um pirata que aterrorizou os mares de Arcanum há quase 200 anos. Este redator prefere crer que o velho pirata está descansando após uma carreira tão ilustre.}
+
+{5080}{490c ESPADEIRO FAMOSO
+DÁ PALESTRA}
+{5081}{492c _ TEORIAS POLÊMICAS GERAM DEBATE _}
+{5082}{483l Sir Alex Livingston
+
+	Richard Leeks, mestre espadeiro, deu uma palestra em Stillwater sobre as semelhanças entre as disciplinas científicas e o estudo e a prática da magia. Leeks defendeu que as tradições de encantamento e artifício não diferem muito dos métodos modernos e progressistas da ciência.
+	"A atenção aos detalhes, aos ingredientes, à forma e ao tamanho, que são uma segunda natureza para o encantador, se repete no ferreiro", afirmou Leeks. "Um mago julga um artefato do mesmo modo que um mecânico julga suas ferramentas. O objetivo é o mesmo nas duas escolas: mudar o mundo por meio de um método cuidadoso e regular."
+	Apesar dos sibilos furiosos da plateia, em sua maioria élfica, Leeks manteve a calma durante toda a palestra. Leeks é famoso por suas Lâminas de Stillwater, que ele mesmo forja e depois manda encantar por um mago local. "Não há motivo para o tecnólogo e o mago viverem em conflito. Usamos técnicas parecidas e, no mínimo, devíamos respeitar o ofício um do outro."}
+
+
+
+{5090}{490c PROFESSOR VAI
+TENTAR O IMPOSSÍVEL!}
+{5091}{492c _ MAGIA E TECNOLOGIA PODEM SE UNIR? _}
+{5092}{483l Sir David Moody
+	
+	O Professor Jules Vorvinstern firmou hoje o compromisso de gerar entendimento entre Engenheiro e Mago forjando um amálgama de suas respectivas obras. Ele intitula seu pacificador de 'arma de fogo mágica'. "Este dispositivo empregará os enigmas dos tecnólogos e os mistérios do arcano para produzir o primeiro artefato guerreiro incomparável do mundo", disse o Professor Vorvinstern.
+	O Professor Vorvinstern estudou dezessete anos com o Mago Donovan Pride antes de se aventurar pela tecnologia. "Jules era um tolo naquela época e é um tolo agora. A Magia não tolerará suas trapalhadas ignorantes", disse o Mago Pride. Herbie Bumber, engenheiro presente à conferência, disse: "se funcionar, ótimo, mas não vai funcionar."
+	Sem se deixar abater pela rejeição dos colegas às suas ideias inovadoras, o Professor Vorvinstern descreve o método que usará para forjar seu artefato. "Tomarei um mosquete de cano liso e a ele prenderei, por meio de aparato mágico, um demônio que aumentará sua precisão." O Mago Pride e o Engenheiro Bumber concordaram (fato raro) que tal ligação é antinatural e não deve ser tentada. Disse Pride: "Ele mal consegue abotoar as calças; como então prenderá um demônio?" "Vai acabar dando um tiro no próprio pé!", resmungou Bumber.
+	O professor prometeu uma exibição do seu produto assim que estiver funcionando.}
+
+{5100}{490c PROFESSOR FAMOSO
+MORRE TRAGICAMENTE}
+{5101}{492c _ TEORIAS NÃO TESTADAS LEVAM A FIM TERRÍVEL _}
+{5102}{483l Sir David Moody
+
+	Toda Arcanum lamenta a morte do Professor Jules Vorvinstern, criador da 'arma de fogo mágica'. No teste mais recente da arma, na Praça Kensington, houve uma reviravolta infeliz e bastante assustadora. Segundo o Mago Pride, mentor do professor em tudo o que é mágico, "as forças mágicas e tecnológicas se anularam e permitiram que o extraordinário ocorresse." Exclamou o Engenheiro Herbie Bumber: "Eu disse que não ia funcionar! Malditos mágicos... meu cachimbo tem mais juízo!"
+	Segundo testemunhas, o Professor Vorvinstern foi ouvido murmurando sobre hexagramas, sangue de morcego e razões de inversão no instante em que disparou a arma. Agora que seus registros foram abertos ao escrutínio, sabemos que ele pretendia fazer o demônio se inverter, adquirindo afinidade tecnológica. O demônio, entediado com longos meses de servidão e sem vontade de se inverter, matou o professor com um lápis apontado que estava por perto. Disse o demônio: "Uma arma mágica? Quem ia querer essa porcaria?", antes de sumir numa nuvem de fumaça.
+	Embora interrogado a fundo, o mosquete de cano liso não quis comentar.}
+
+{5110}{490c MORADORA LOCAL
+TEM MÃO BOA PARA PLANTAS}
+{5111}{492c _ FLOR TULLANA ROUBA A CENA _}
+{5112}{483l Da Redação
+
+	Um notável exemplar de esplendor floral inscrito na recente Mostra de Flores e Exposição de Jardinagem de Toda Tarant tem dado o que falar entre os visitantes.
+	Chamada de "Flor Tullana de Pelojian", a flor lembra uma orquídea de pétalas carmesim com bordas amarelo-vivo. Mas, em claro contraste com a querida orquídea tarantiana, dizem que essa flor estranha exala um aroma inebriante e penetrante, que de algum modo despertou em muitos visitantes lembranças de sua juventude vigorosa. Os visitantes mais afetados afirmaram que tal efeito só podia vir de artes mágicas.
+	A flor foi a estreia da Sra. Florence Willoughsby, esposa do Presidente do Conselho Tarantiano. Longe de descartar especulações sobre possíveis elementos mágicos na natureza da planta, a Sra. Willoughsby pareceu estimulá-las ativamente, segundo testemunhas.
+	Depois que várias visitantes, ao cheirarem a Flor Tullana, foram vistas saindo da mostra coradas e se abanando, juízas do Comitê de Jardinagem das Damas Tarantianas, organizador da Exposição, pediram informalmente que a Sra. Willoughsby retirasse sua inscrição. A dama obedeceu na hora e de fato deixou o salão, embora (segundo testemunhas) não sem respostas afiadas.
+	A Sra. Willoughsby, como lembram os de boa memória, não é estranha a escândalos. Há uns doze anos, causou alvoroço na alta sociedade ao se gabar abertamente de uma distante ascendência élfica. O Ilustre Sr. Willoughsby depois retirou publicamente a curiosa afirmação em nome da esposa, alegando um delírio causado pela ingestão acidental de ervas importadas. A Sra. Willoughsby partiu numa Grande Viagem para cuidar da saúde e só há pouco voltou à sociedade.}
+
+{5120}{490c PEQUENOS FURTOS
+CONTINUAM!}
+{5121}{492c _ POLICIAL LOCAL EM AÇÃO _}
+{5122}{483l Sir Kevin McDonald
+
+ 	A polícia local anda perplexa com o frequente desaparecimento de pequenos dispositivos mecânicos pela cidade. Embora os usuários de magia sejam os principais suspeitos, o Policial Larik Greenshaw observa que qualquer um pode ser o responsável.
+	Segundo o policial: "Embora o mais provável seja que procuramos um bando dissidente de feiticeiros que quer acabar com as tecnologias de hoje, não podemos descartar outros grupos que também podem ser os responsáveis, como os orcs, que são fascinados por tudo o que é mecânico e podem estar levando os objetos por curiosidade. Nem é preciso dizer que esses criminosos serão presos e levados à justiça."}
+{5123}{492c _ MULHER ASSASSINADA EM CALADON _}
+{5124}{483l
+	Um corpo foi encontrado no bairro de Whytechurch, em Caladon, elevando para três o total de assassinatos deste mês. Caladon anda abalada com esses crimes, algo que nunca foi frequente na região. O Inspetor-Chefe Henderson se preocupa: "Nossos moradores andam com medo de sair de casa. Nunca tivemos que lidar com assassinatos, e de repente temos três. Estamos investigando, mas temo que esses crimes sejam uma ameaça muito maior do que a maioria pensa. Até lá, nossos cidadãos e comerciantes sofrem com os atos desse louco." As autoridades pedem que os moradores fiquem atentos ao andar sozinhos ou à noite, lembrando que todas as vítimas estavam sozinhas na hora da morte.}
+
+{5130}{490c NOVA SIDERÚRGICA
+ABRE AS PORTAS}
+{5131}{492c _ GARRINGSBURG INAUGURA FÁBRICA MODERNA _}
+{5132}{483l Sir Kevin McDonald
+	O Presidente Edward Willoughsby cortou hoje a fita da mais nova fábrica de alta capacidade de Tarant. De propriedade do magnata local do aço James Garringsburg, a nova usina vai produzir mais aço que qualquer outra já existente. Disse Garringsburg: "Com a necessidade cada vez maior de materiais de construção, a Aço Garringsburg se orgulha de fornecer a Arcanum o aço da mais alta qualidade ao menor preço possível."
+	Como de costume ultimamente, há polêmica sobre a mão de obra orc da usina e as condições a que ela será submetida dentro da fábrica. Sobre esse ponto, Garringsburg não quis comentar.}
+{5133}{492c _ ASHBURY TEM ÓTIMA COLHEITA _}
+{5134}{483l
+	Foi mais um ótimo ano de colheita em Ashbury. Os moradores temiam o pior quando a geada prolongada do último inverno parecia condenar a colheita da primavera. Para seu alívio, a colheita deste ano parece mais forte do que nunca. O lavrador Meegosh Nelram teve uma safra especialmente boa: "Num sei como minha plantação aguentô aquele inverno. Aquela geada foi braba, e eu achei que tava tudo perdido. Deve tê sido o povo das fada fazendo as mágica deles na minha roça, Deus os abençoe. Vou ganhá o bastante este ano pra mandá meu sobrinho pra Univer'sidade, onde tão os amigo dele." E todos os leitores poderão comprar grãos e frutas de Ashbury quando chegar o primeiro carregamento, semana que vem.}
+
+{5140}{490c POLUIÇÃO
+EM ALTA}
+{5141}{492c _ DONA DE "NEGÓCIO" LOCAL SE PRONUNCIA _}
+{5142}{483l
+	Um grupo de moradores do baixo lado leste se reuniu ontem com o conselho municipal para discutir a poluição desenfreada que, segundo eles, está destruindo o bairro. Muitos moram na área de 10 quarteirões entre a Rua Baixa Dervish e o Círculo da Cabeça de Leão, paralela ao bairro industrial de Tarant.
+	"Nossas ruas estão cheias da sujeira que as carroças trazem das fábricas, e nossos prédios estão cobertos da fuligem preta da usina de carvão. É o bastante para deixar qualquer dama de anáguas em pé", disse Madame Lil, dona da sempre polêmica casa de má reputação. "Não bastasse essa poluição, ainda temos que aguentar os mal-encarados operários orcs, que importunam minhas meninas a qualquer hora do dia!"
+	O Conselho Tarantiano não comentou a situação, a não ser para garantir aos cidadãos que "tudo estava sendo resolvido."}
+{5143}{492c _ ARTISTA LOCAL É HOMENAGEADO _}
+{5144}{483l Srta. Guinevere A. Sykes
+
+	Um artista tarantiano do East End foi homenageado hoje ao se tornar o primeiro artista humano em 153 anos a expor na Grande Galeria de Lorde Brandoch. A famosa galeria expõe quase só artistas élficos há muitos e muitos anos. Mas Percy Smelt agora se junta a famosos artistas humanos como Bertolo e Remmer, o Jovem, na Galeria Brandoch. Os esboços do Sr. Smelt dos operários orcs nas fábricas de tecidos de Tarant apareceram no 'Estudo das Condições de Trabalho' de Morant e Fletcher, do ano passado. A boa acolhida do livro em muitas comunidades élficas levou ao destaque recente da obra do Sr. Smelt.
+	Alguns membros da comunidade mercantil de Tarant se incomodaram com a popularidade da obra do Sr. Smelt, o que o levou a deixar sua casa aqui em Tarant e se mudar para outro lugar. É uma grata surpresa ver o Sr. Smelt fazendo tanto sucesso no exílio.}
+
+{5150}{490c  FRANKLIN PAYNE HOMENAGEADO}
+{5151}{492c _ BRASÃO DE TARANT CONCEDIDO PELO CONJUNTO DA OBRA _}
+{5152}{483l Franklin Payne recebeu o Brasão de Tarant ontem à noite no banquete anual de prêmios cívicos. Depois de aceitar o prestigioso prêmio, o Sr. Payne regalou os presentes com uma de suas habituais histórias chocantes de bravura.}
+{5153}{492c _ CARTA AO EDITOR _}
+{5154}{483l	Senhores,
+	A publicação do artigo da semana passada intitulado "Artista Local É Homenageado" só pode ser qualificada como desprezível. A qualidade editorial do seu jornal caiu muito nos últimos meses. Esse lixo difamatório é um exemplo perfeito desse declínio da edição responsável. A Srta. Sykes demonstra notável falta de maturidade; é muito fácil uma moça de pouca idade ser desencaminhada por uma retórica apaixonada. Peço aos pais dela que a matriculem numa das muitas escolas de boas maneiras para moças da nossa bela cidade. Ela verá que o que aprender lá será muito eficaz para ajudá-la no que deve ser o objetivo principal de toda moça bem-educada: o matrimônio.
+	Quanto à sua redação: que vergonha. Os senhores deram liberdade demais a essa jovem ao deixá-la escrever esse lixo. E demonstraram total irresponsabilidade ao permitir que fosse publicado. As ilustrações imaginosas demais do Sr. Smelt foram a pior parte daquela vil propaganda anti-industrial do ano passado. Sem aqueles rabiscos horríveis, nem de longe haveria tanta agitação entre as classes trabalhadoras analfabetas. Se é verdade que esses elfos resolveram de algum modo homenagear esse homem, deve-se isso à sua incomparável caridade, e não a qualquer mérito artístico do Sr. Smelt.
+	Questiono tanto a veracidade da sua reportagem quanto a necessidade de divulgar essa mancha na comunidade artística. Estou profundamente enojada com o seu jornal.
+Sra. Celeste Knight-Phillips.}
+
+
+{5160}{490c MÉDICO ENCONTRADO BRUTALMENTE ASSASSINADO!}
+{5161}{492c _ SÓCIO É PROCURADO PARA DEPOR _}
+{5162}{483l O Doutor Theo. Wilford, o médico mais respeitado de Tarant, foi encontrado ontem tarde da noite em seu consultório, aparentemente vítima de um assassinato brutal. As autoridades nos informaram que a vida do Sr. Wilford foi extinta da forma mais horrenda: ele foi apunhalado pelas costas com uma pena de escrever.
+	Os responsáveis pela investigação acham que o assassino certamente conhece muito bem a anatomia humana, pois o instrumento foi posto na posição exata para causar a morte. Como muitos leitores sabem, o Sr. Wilford tinha arranjado há pouco um sócio, o Doutor Edmund Craig, para ajudá-lo com o grande número de pacientes.
+	A recente e escandalosa descoberta da ascendência orc do Doutor Craig abalou a cidade, e as autoridades não conseguem encontrá-lo para depor. Qualquer informação sobre seu paradeiro deve ser comunicada o quanto antes. Não tente prender o Doutor Craig sem a ajuda da guarda, pois ele deve ser considerado extremamente perigoso.}
+{5163}{492c _ "DANÇA DOS SALTIMBANCOS" ENCANTA E INTRIGA _}
+{5164}{483l	Srta. Guinevere A. Sykes
+
+A nova montagem da "Dança dos Saltimbancos" pelos Atores de Richold no Teatro do Mercado Velho, ontem à noite, foi um verdadeiro colírio para os olhos. Depois da repetição tediosa de cada velho clássico dos palcos que marcou a monótona temporada passada, a nova interpretação deste clássico pela criativa trupe foi uma explosão de emoção. O uso de figurinos modernos e de falas coloquiais de hoje transformou esta história clássica num romance moderno.
+	Para nós, criados com as obras de T. Bremmer e Matthias Leeks, é um espetáculo que vai reacender o amor pelos velhos mestres. Para quem não conhece a narrativa tradicional das sagas antigas, vai trazer uma familiaridade muito necessária a histórias que nem sempre parecem caber neste mundo moderno e agitado.}
+
+
+{5170}{490c CONSELHEIRO BABCOCK FALA}
+{5171}{492c _ DEBATE SOBRE SERVIDÃO PÚBLICA SE ACIRRA _}
+{5172}{483l 
+
+	A batalha de terras entre a Autoridade Ferroviária de Tarant e o Tribunal dos Magos volta às manchetes enquanto as trincheiras são cavadas. Recapitulando: há vários meses, a Autoridade Ferroviária de Tarant pede ao Conselho que lhe ceda mais terras por meio de servidões públicas. A terra em questão é nada menos que o bairro mágico de Tarant.
+	A Autoridade Ferroviária de Tarant afirma que precisa dessa terra para construir um pátio ferroviário muito necessário, onde mais locomotivas e vagões possam ser construídos e guardados. Muitos questionam os motivos do pedido e acusam a Autoridade Ferroviária de tentar minar o Tribunal dos Magos, dizendo que a Ferrovia só teme o Poder que envolve o bairro e acredita que ele acabará atrapalhando seu funcionamento.
+	Em entrevista a nós, o Conselheiro Babcock fez um comentário inesperado. "Receio que, após analisar as informações da Autoridade Ferroviária de Tarant, minha opinião é que seria do interesse de Tarant transferir o bairro mágico para outra área da cidade." Quando lhe pedimos mais detalhes, respondeu: "Nossa maior preocupação deve ser a segurança dos cidadãos. Se houver a mínima possibilidade de que a localização do bairro mágico ponha a Ferrovia em perigo, ele deve ser transferido o quanto antes."}
+
+{5180}{490c EDIÇÃO ESPECIAL}
+{5181}{492c _ CARTA AO EDITOR _}
+{5182}{483l	Senhores,
+	Sou obrigada a escrever de novo em protesto contra sua recente Coluna de Artes, que recomenda a infame montagem da "Dança dos Saltimbancos" no Teatro do Mercado Velho. Mais uma vez, a lamentavelmente desorientada Srta. Sykes achou por bem elogiar tudo o que há de errado e horrível na sociedade artística de hoje. Pegar os antigos e tradicionais Contos dos Saltimbancos e corrompê-los desse jeito é um ultraje. A Srta. Sykes acha os figurinos dessa farsa "um colírio para os olhos". Confesso que meus olhos arderam de tanto chorar ao ver os figurinos e máscaras tradicionais trocados pelas roupas banais do mundo moderno. A Srta. Sykes também elogia o uso de "falas coloquiais de hoje". Pegar as palavras do maior poeta humano da história e transformá-las numa versalhada nojenta de classe operária é puro vandalismo.
+	Para piorar, creio que o ator que fazia o 'Camponês Bondoso' era uma espécie de mestiço de orc. É esse o tipo de porcaria nojenta que seu jornal acha por bem elogiar? Garanto aos senhores que meu marido faz parte da equipe de Lorde Beaumont, e pretendo pedir que use toda a influência que puder para tomar uma providência. Os senhores ainda vão ouvir falar de mim.
+
+Sra. Celeste Knight-Phillips
+
+}
+{5183}{492c _ ANÚNCIO ESPECIAL _}
+
+{5184}{483l		Temos o prazer de anunciar o início de uma série de correspondências do exterior da nossa nova observadora viajante, a Srta. Guinevere A. Sykes. A Srta. Sykes fará uma longa visita a muitas das terras vizinhas, e nossos editores a contrataram para nos enviar muitas descrições das pessoas e lugares fascinantes que verá. Pedimos a todos os nossos fiéis leitores que se preparem para se surpreender com os relatos da Srta. Sykes e que acompanhem os próximos capítulos desta série emocionante.}
+
+
+
+

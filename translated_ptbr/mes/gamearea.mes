@@ -1,0 +1,92 @@
+//
+// Area -- List of areas
+//   X-Coord, Y-Coord, WM-X-offset, WM-Y-offset /Name /Description./Radius:<#>
+//
+//   Coords are on the main world-map.  Radius is detection radius (in sectors),
+// in other words, the # of sectors that the player must pass near it on the
+// WorldMap to make it visible if it isn't already known; default value is 5.
+//   The WM-#-offset values are used to position the name text in the worldmap.
+//
+
+{0}{0, 0, 0, 0 /Um Lugar Sem Importância/Esta é a área desconhecida.}
+{1}{90226,84176, 0, 0 /Shrouded Hills/Uma pequena cidade mineira.}
+{2}{92960,82592, 0, -5 /Local da Queda/Os destroços do dirigível que caiu.}
+{3}{70218,92096, 0, 0 /Black Root/Uma cidade de fronteira.}
+{4}{102768, 116894, 0, 5 /Caladon/Um próspero reino feudal.}
+{5}{79163, 105618, 0, 0 /Dernholm, capital de Cumbria/Um reino feudal moribundo.}
+{6}{98922, 42009, 0, 0 /Qintarra/Uma grande comunidade élfica.}
+{7}{83690, 48174, -5, 15 /Minas da Montanha Negra/O lar abandonado do Clã da Montanha Negra./Radius:-1}
+{8}{32320, 62472, 0, 0 /Ashbury/Uma cidade no litoral leste.}
+{9}{61050, 42562, 0, 0 /Clã da Roda/Uma sociedade anã nas profundezas das Montanhas Cinzentas./Radius:-1}
+{10}{76113, 48162, 0, -10 /Stillwater/Uma pequena cidade, famosa por suas espadas.}
+{11}{28455, 31171, 0, 0 /Tulla/Uma misteriosa cidade de magos no coração dos Ermos de Vendigroth.} //Old Tulla 28319, 31202
+{12}{104172,35969, 0, 0 /Falcon's Ache/Solo sagrado élfico, na orla da Floresta Cintilante}
+{13}{112027, 96883, 0, 0 /Roseborough/Uma pequena cidade perto do Anel de Brodgar}
+{14}{112279,94639, 0, 0 /Ruínas Antigas/Ruínas Antigas/Radius:5}//Old Ring of Brodgar
+{15}{22184,41521, 0, 0 /Acampamento dos Elfos Negros/O acampamento-base dos elfos negros perto das ruínas de Vendigroth}
+{16}{96416, 18911, 0, 0 /T'sen-Ang/Lar dos Elfos Negros./Radius:-1}
+{17}{82492, 45629, 0, 0 /Passo de Hardin/Um traiçoeiro passo nevado que leva à Floresta Cintilante.}
+{18}{96014,92287, 0, 0 /Passo de Gorgoth/Um passo há muito esquecido que une os reinos de Dernholm e Caladon./Radius:5}
+{19}{20693, 56027, 0, 0 /Ilha do Desespero/Uma colônia penal.}
+{20}{29874,47350, 0, 0 /Portal dos Ermos/Uma ponte que leva aos Ermos de Vendigroth.} // Old Leahbo 29151,48287  
+{21}{62182,65662, 0, 0 /Tarant/A maior e mais industrial cidade de Arcanum.}
+{22}{19704,37452, 0, 0 /Ruínas de Vendigroth/Os restos de uma cidade antiga./Radius:1}// entrance to ruins: 19689,37487 
+{23}{46198,120881, -60, 10 /Repouso de Nasrudin/Dizem ser o local onde jazem os restos de Nasrudin.}//old:46827,120680 
+{24}{43669, 85717, 0, 0 /Enseada de Stringy Pete/Uma enseada assombrada./Radius:-1}
+{25}{32602, 71189, 0, 0/Propriedade dos Williamson/Um barraco em ruínas.}
+{26}{55779, 76127, 0, 0/Vooriden/Uma pequena aldeia logo ao sul de Tarant./Radius:20}
+{27}{75486, 18380, 0, -10/Profundezas Bangellianas/O local de repouso do Flagelo Bangelliano.}
+{28}{90818, 70319, 0, 0/Pedreira de Torin/Uma antiga pedreira anã.}//90825, 70292
+{29}{51705, 85747, -80, 10/Tesouro de Stringy Pete/O destino final do butim do infame pirata./Radius:-1}
+{30}{45527, 65394, 0, 10/Ruínas Élficas/Um lugar que pode guardar incontáveis riquezas élficas./Radius:1}
+{31}{20526, 53542, 0, 0/Lar de Maximillian/Um velho estranho na Ilha do Desespero.}
+{32}{22157, 52802, -40, -15/Praia das Sombras/Um lugar que dizem estar cheio de objetos estranhos.}
+{33}{17196, 52632, 0, -10/Acampamento das Mulheres/Uma pequena aldeia formada só por mulheres nômades.}
+{34}{75497, 20051, 0, 5/Aldeia Bedokaan/Uma pequena aldeia de criaturas reptilianas, nos Pântanos Sombrios./Radius:-1}
+{35}{77170, 17560, -120, -15/Acampamento dos Caçadores/O acampamento de alguns caçadores ilegais de Bedokaan.}
+{36}{0, 0, 0, 0 /Um Lugar Sem Importância/Esta é a área desconhecida.}
+{37}{85994, 56686, 0, 0/Clã Talha-Pedra/O lar do Clã Talha-Pedra.}
+{38}{101536, 116144, 0, 0/Um local misterioso/Descoberto na pintura de parede no Cogumelo.}
+{39}{50845, 15901, 0, 0/Clareira de Rubi/Um lugar antigo e sinistro./Radius:-1}
+{40}{88650, 40995, 0, 0/Castelo S'nel N'fa /Ruína cheia de armadilhas que dizem conter o cajado de K'an T'au./Radius:-1}
+{41}{75700, 101216, 0, 0/Covil de Gyr Dolours/O último paradeiro conhecido da atormentada Lady Druella./Radius:-1}
+{42}{75470, 93736, 0, 0/Oficina de Liam/A oficina de Liam Cameron./Radius:3}
+{43}{40699, 76973, 0, 0/Kree/A outrora grande cidade destruída pela Ruína de Kree./Radius:20}
+{44}{87403, 59823, 0, 0/Fosso de Fogo/O local da Lâmina de Xerxes.}
+{45}{59131, 108638, 0, 0/Ilha dos Meio-Ogros/Suposto local do laboratório secreto de reprodução.}// old: 59028, 108560
+{46}{0, 0, 0, 0/Um Lugar Sem Importância/Esta é a área desconhecida.}
+{47}{78754, 62751, 0, 0/Ponto de Encontro de Vollinger/O ponto de encontro de Vollinger./Radius:-1}
+{48}{49267, 53559, 0, 0/Covil de Bellerogrim/Uma caverna onde encontraram o último Dragão de Arcanum.}
+{49}{101152, 64478, 0, 0/Avistamento da Serpe Lethe/Suposto covil da serpe lethe./Radius:-1}
+{50}{40223, 101945, 0, 0/Desembarque em Thanatos/Desembarque para a Ilha da Morte}
+{51}{47628, 108786, 0, 0/Aldeia da Tribo Ashlag/O lar de uma tribo primitiva que adora uma divindade misteriosa.}
+{52}{41056, 112926, 0, 0/Covil do Bogaroth/O suposto covil do monstro que massacrou toda a tribo Ashlag.}
+{53}{65824, 84632, 0, 0/Ruínas de Szabo/Algumas ruínas antigas./Radius:1}
+{54}{46112, 120624, 0, 0/Ponte de Terra/Início da trilha que leva ao deus de Thanatos.}
+{55}{63608, 50488, 0, 0/Masmorra do Poço do Dragão/Masmorra do Poço do Dragão.}
+{56}{49718, 58743, 0, 0/Templo Antigo/Um templo que dizem guardar tesouros incontáveis.}
+{57}{96948, 75722, 0, -15/Entrada Secreta do Clã de Ferro/A entrada do lendário clã anão./Radius:-1}
+{58}{91902, 39305, 0, 0/K'na Tha/Um lugar de magia antiga que dizem conter a Estrela de Azram./Radius:-1}
+{59}{96319, 113312, 0, 0/Ponta das Navalhas/Os navios temem estas águas traiçoeiras, que é preciso cruzar para contornar a ponta de Arcanum./Radius:20}
+{60}{31891, 56980, 0, 0/Naufrágio Antigo/Os restos de um antigo navio pirata./Radius:10}
+{61}{67130, 44393, 0, 0/Caverna Inexplorada/Ninguém sabe que mistérios podem existir nesta caverna inexplorada./Radius:10}
+{62}{99225, 98206, 0, 0/Caverna dos Ladrões/Caverna dos Ladrões/Radius:25}
+{63}{87907,45024, 0, -10/Cerimônia Estranha/Ouve-se um cântico estranho ali perto..../Radius:5}
+{64}{84513,11425, 0, 0/Aldeia Secreta/Você ouve uma comemoração aguda...../Radius:5}
+{65}{53341, 66079, 0, 0/Fosso Proibido/Um fosso de aspecto perigoso, cheio de esqueletos e viúvos./Radius:10}
+{66}{92830, 84702, 0, 10/Barraco de Simon Fahrkus/Barraco de Simon Fahrkus/Radius:-1}
+{67}{92896, 83359, -140, 0/Casa de Arbalah/Casa de Arbalah/Radius:-1}
+{68}{78751, 97887, 0, 0/Caverna do Lobo/Caverna do Lobo/Radius:10}
+{69}{77797, 72805, 0, 0/Altar de Torg/Um velho altar de pedra/Radius:15}
+{70}{56490, 26977, 0, 0/Altar de Kerlin/Um antigo altar dourado/Radius:20}
+{71}{104104, 104610, 0, 0/Altar de Bolo/Um altar de pedra desgastado/Radius:20}
+{72}{84586, 53037, 0, 0/Lugar das Vozes Perdidas/Um local mostrado a você pelo mapa no Baú do Clã de Ferro/Radius:-1}
+{73}{30364, 44319, 0, 0/Ruínas misteriosas dos ermos/Um local mostrado a você por Weldo Rubin.}
+{74}{39588, 33621, 0, 0/Lagoa Estranha/Uma lagoa curiosa no meio do nada./Radius:25}
+{75}{68876, 32889, 0, 0/O Brejo/Um lugar de aparência maligna./Radius:25}
+{76}{104148, 77062, 0, 0/Catedral em Ruínas/Um lugar de velhas ruínas./Radius:25}
+{77}{108504, 84356, 0, 0/Velha Laguna/Uma laguna remota./Radius:25}
+{78}{87527, 101345, 0, 0/Labirinto Antigo/Um velho labirinto misterioso./Radius:25}
+{79}{103116, 90384, 0, 0/O Lugar Frio/Um lugar agourento./Radius:25}
+{80}{80738, 30497, 0, 0/Pequeno Acampamento/Um pequeno acampamento é visível ao longe./Radius:25}
+{81}{102113, 56290, 0, 0/Pequena Lagoa/Você ouve gritos e estalos de chicote./Radius:25}

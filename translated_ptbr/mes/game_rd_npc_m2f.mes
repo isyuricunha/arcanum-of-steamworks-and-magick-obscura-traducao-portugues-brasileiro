@@ -1,0 +1,400 @@
+// This section is for RUMORS in the game.
+// THESE ONLY GET USED BY THE RUMOR OPCODE
+// start at 20000
+// rumors start at rumor number * 20
+// the first message is the logbook message
+// all others are filled in based on NPC's social class
+
+{20020}{Há ladrões nos arredores ao norte de Black Root.}
+{20021}{Tem um bando de ladrões dos piores nos arredores ao norte da cidade.}
+
+{20060}{Dizem que Tugal é um mago.}
+{20061}{Dizem que o velho Tugal é um mago, mas ninguém sabe ao certo...}
+
+
+//20400 - 20780 Shrouded Hills rumors (1020-1039)
+
+{20400}{}
+{20401}{Dizem que ninguém entende mais de objetos exóticos do que Ristezze, o Importador.}
+
+{20420}{}
+{20421}{O povo diz que o Delegado Owens é o especialista em Shrouded Hills e na sua história.}
+
+{20440}{}
+{20441}{Dizem que a ponte para fora da cidade está nas mãos de bandidos!}
+
+{20460}{}
+{20461}{Não vá até a velha mina Bessie Toone! Ela é mal-assombrada!}
+
+{20480}{}
+{20481}{Se precisa de um bom ferreiro, Lloyd Gurloes é o homem certo.}
+
+{20500}{}
+{20501}{Soube o que aconteceu com aquele usuário de magia que quis mandar por aqui? O Doutor Roberts derrubou o sujeito com um tiro no meio dos olhos!}
+
+{20520}{}
+{20521}{O velho Jongle Dunne, o feiticeiro do vilarejo, anda esquisito. Parece que começou logo depois que o Delegado Owens comprou a velha máquina a vapor.}
+
+{20540}{}
+{20541}{Tem aparecido gente estranha por aqui ultimamente. Perguntando sobre as profecias dos Panarii e coisas assim.}
+
+{20560}{}
+{20561}{O Delegado Owens pode até se pavonear por aí feito galo novo, mas todo mundo sabe que o velho Doutor Roberts é a única lei de verdade em Shrouded Hills.}
+
+{20580}{}
+{20581}{Já viu a Prefeitura? É meio chique para um lugar como Shrouded Hills. Muito tempo atrás era um templo Panarii, mas por algum motivo deixaram de usá-lo.}
+
+{20600}{}
+{20601}{Já viu o nosso banco novo aqui na cidade? É feito de tijolos! Forte feito uma mula! Todo mundo tá guardando o dinheiro lá!}
+
+{20620}{}
+{20621}{Vi Jacob Bens zanzando pela Estalagem de Shrouded Hills. Não confio naquele homem nem um pouco, isso eu garanto...}
+
+{20640}{}
+{20641}{Soube do fantasma de Bessie Toone? Desde que ela começou a assombrar a mina, não sai mais minério bom de lá. O filho dela, Percival, anda bem desesperado com isso também.}
+
+{20660}{}
+{20661}{Ouvi dizer que a nossa herbalista, Gaylin, descende de uma linhagem de grandes curandeiros élficos.}
+
+
+//20800 - 21380 Tarant rumors (1040-1069)
+//(1040-1049 are through story state 6)
+//(1040-1059 are through story state 13)
+//(1040-1069 are through the last story state)
+
+{20800}{}
+{20801}{Já conheceu o Sr. Cedric Appleby? É a piada da cidade. Não conseguiria fazer uma máquina a vapor nem que a vida dele dependesse disso!}
+
+{20820}{}
+{20821}{Talvez seja bom trancar seus objetos de valor. Tem havido vários roubos na cidade, a maioria de arte preciosa.}
+
+{20840}{}
+{20841}{Já ouviu falar da P. Schuyler & Filhos, a famigerada joalheria da Rua Devonshire? Dizem que coisas estranhas acontecem lá dentro à noite...}
+
+{20860}{}
+{20861}{Tarant está cheia de adivinhos tentando ganhar uma ou duas moedas, mas dizem que Madame Toussaude consegue mesmo ver o futuro!}
+
+{20880}{}
+{20881}{Acompanha a moda? Artefatos élficos antigos são a última febre da alta sociedade tarantiana.}
+
+{20900}{}
+{20901}{Se está tentando encontrar alguém em Arcanum, tente o Salão dos Registros aqui em Tarant. Parece que eles sabem onde muita gente mora...}
+
+{20920}{}
+{20921}{"Todos os caminhos levam à Estação Vermillion." É o que dizem, amiga. É a maior estação de trem de toda Arcanum.}
+
+{20940}{}
+{20941}{Soube? Charles Dunston, da Usina de Água e Energia de Tarant, interditou parte dos esgotos da cidade por algum motivo.}
+
+{20960}{}
+{20961}{Ouvi dizer que Madame Lil comanda um belo estabelecimento lá no lado sul da cidade.}
+
+{20980}{}
+{20981}{O Clube de Cavalheiros Wellington é um bom lugar para uma bebida e boa companhia, desde que você goste da companhia dos homens mais ricos de Tarant.}
+
+{21000}{}
+{21001}{Acho que ouvi alguém dizer que o Presidente Edward Willoughsby, do Conselho de Tarant, voltou à cidade. Dizem que ficou fora um bom tempo... em Caladon, acho eu...}
+
+{21020}{}
+{21021}{Já foi à Universidade? Ela tem alguns dos professores mais eruditos do país!}
+
+{21040}{}
+{21041}{Acompanha a política, amiga? Pois parece que Caladon está pensando em se juntar ao Reino Unificado! Imagine só!}
+
+{21060}{}
+{21061}{Soube o que está acontecendo na fábrica do número 15 do Beco das Dez Mãos? Os orcs tomaram conta! Ouvi dizer que aquele anarquista, Donn Throgg, está envolvido também.}
+
+{21080}{}
+{21081}{Já ouviu falar do famoso ladrão gato de Tarant? Dizem que não existe armadilha capaz de detê-lo!}
+
+
+//21400 - 21780 Ashbury rumors (1070-1089)
+
+{21400}{}
+{21401}{Ouvi dizer que o pessoal tem visto zumbis pelo cemitério. Recomendo que fique longe.}
+
+{21420}{}
+{21421}{A cidade inteira está em polvorosa por causa da estátua de Oliver Bettington. Parece que cada um tem uma opinião diferente sobre como e onde ela deve ser construída.}
+
+{21440}{}
+{21441}{Já ouviu falar do naufrágio antigo que dizem estar um pouco ao norte daqui, na costa? Muitos tentaram encontrá-lo, mas poucos voltaram.}
+
+{21460}{}
+{21461}{Dizem que o castelo do velho Malachi Rench, ao norte de Ashbury, é mal-assombrado. Não me surpreende; dizem que aquele velho Malachi era um sujeito esquisito.}
+
+{21480}{}
+{21481}{Ouvi um velho aventureiro que passou por aqui outro dia. Não sei o que ele achou, mas o ouvi mencionar estas coordenadas: 617O, 528S.}
+
+{21500}{}
+{21501}{Já conheceu William Thorndop? Ele é bem estranho. Deve ser meio maluco, para fazer o que fez consigo mesmo...}
+
+{21520}{}
+{21521}{Já conheceu Theo Brightstart? Nunca vi outro homem que arremesse tão bem quanto ele!}
+
+{21540}{}
+{21541}{Um velho aventureiro passou por aqui semana passada. Disse que encontrou umas ruínas antigas a noroeste, depois das Montanhas Cinzentas. Disse que nas ruínas havia um altar antigo de ouro maciço!}
+
+{21560}{}
+{21561}{Já topou com Kendrick Wales aqui em Ashbury? Ele anda por aí contando a todo mundo que está escrevendo um livro, mas não diz a ninguém do que se trata!}
+
+{21580}{}
+{21581}{Se precisa de um capitão habilidoso, Edward Teach é o homem certo.}
+
+{21600}{}
+{21601}{Se por acaso passar pelos portões do cemitério, fique longe do mago que fica parado ali. Que esnobe completo e absoluto!}
+
+//21800 - 22180 Stillwater rumors (1090-1109)
+
+{21800}{}
+{21801}{Soube do Marley? Morar em Stillwater deve estar lhe fazendo bem: virou um amigo disputado e um amante para as mulheres. Estranho, já que antes ninguém gostava dele....}
+
+{21820}{}
+{21821}{Se procura uma boa lâmina, não há homem melhor de quem comprar do que Richard Leeks, o ferreiro da cidade. Ele é um mestre espadeiro!}
+
+{21840}{}
+{21841}{Stillwater nunca mais foi a mesma desde que o Culto de Geshtianna chegou à cidade. Se quiser saber mais sobre eles, fale com a sacerdotisa Brigitte.}
+
+{21860}{}
+{21861}{O velho Cyrus, o Mago, mora logo a noroeste da cidade. Não o tenho visto muito ultimamente...}
+
+{21880}{}
+{21881}{Se for viajar pelas colinas a noroeste de Stillwater, cuidado com o velho Drog Dente Negro, o ogro. Ele é quase inofensivo, mas com ogros nunca se sabe...}
+
+{21900}{} 
+{21901}{Já ouviu falar do Gigante de Stillwater? É uma velha lenda aqui de Stillwater! Todo mundo por aqui jura que viu a criatura uma ou duas vezes...}
+
+{21920}{}
+{21921}{Ninguém sabe mais sobre o Gigante de Stillwater do que Stanley Hippington. Ele mora num chalé pequeno, ao norte da cidade.}
+
+{21940}{}
+{21941}{Não temos muitos elfos aqui em Stillwater, mas tem um chamado Myrth que mora na cidade. Um sujeito bem estranho, na verdade...}
+
+{21960}{}
+{21961}{Se quer mesmo saber o que acontece por aqui, visite o Alma Sedenta. É o lugar mais animado da cidade.}
+
+{21980}{}
+{21981}{Soube do passado trágico de Adkin Chambers? Ficar aleijado daquele jeito... aquele tal de Stout é um verdadeiro bárbaro!}
+
+//22200 - 22580 Dernholm rumors (1110-1129)
+
+{22200}{}
+{22201}{Já viu os Poços? Dernholm não tem muita coisa, mas temos os Poços... são uma espécie de prisão, e alguns dos indivíduos mais malignos foram jogados lá.}
+
+{22220}{}
+{22221}{Você não ouviu isso de mim, amiga, mas o Rei Praetor não era o herdeiro legítimo do trono. E não digo mais nada...}
+
+{22240}{}
+{22241}{Já conheceu Lianna Pel Dar, amiga? Eu não a provocaria, se fosse você. O pai dela a treinou desde o berço para ser uma guerreira habilidosa.}
+
+{22260}{}
+{22261}{Já conheceu Jayna Stiles? Pobre moça, vivendo sozinha daquele jeito. E sempre estudando seus livros... diz que quer ser curandeira!}
+
+{22280}{}
+{22281}{Vi Gladys chorando por algo que ela perdeu.}
+
+{22300}{}
+{22301}{Ouvi dizer que o capitão da guarda, o "Sir" Garrick Stout, é um javali pomposo e grosseiro. Dizem que os homens dele o temem, mas não têm o menor respeito por ele!}
+
+{22320}{}
+{22321}{Eu andava a noroeste daqui e encontrei um labirinto antigo, ou pelo menos as ruínas de um. Ouvi uns barulhos estranhos e saí de lá rapidinho!}
+
+{22340}{}
+{22341}{Não sei se já foi à Estalagem, mas tem um gnomo estranho rondando o balcão nos últimos dias.}
+
+
+//22600 - 22880 Tarant Thieves Underground rumors (1130-1144)
+
+{22600}{}
+{22601}{Um pequeno navio afundou ao largo da Rua Baixa Dervish. Dizem que pode haver tesouro escondido nas águas por ali. Imagino que renderia um bom dinheiro no mercado negro.}
+
+{22620}{}
+{22621}{Soube que há um espelho encantado escondido na casa da Sra. Pettibone, lá na Estrada Lungsten. Temos alguém interessado em obter um item tão notável.}
+
+{22640}{}
+{22641}{Dizem que a Sra. Regina Halster, lá na Rua Devonshire, recebeu um decantador especial de Água de Napha. Dizem que é um dos lotes mais puros de perfume élfico criados em séculos. O mercado negro receberia de bom grado um tesouro desses.}
+
+{22660}{}
+{22661}{Dizem que a loja do Parnell acabou de receber uma rara Essência de Fogo-Fátuo. Ela vale um bom preço no mercado paralelo.}
+
+{22680}{}
+{22681}{Um cliente do Submundo está interessado em obter um frasco de veneno da Serpe do Lete. Alguns dizem que a Sociedade Zoológica guarda raridades assim em seus depósitos.}
+
+{22700}{}
+{22701}{A Fábrica Bates desenvolveu planos secretos de uma nova arma chamada Pistola de Múltiplos Canos de Schreck. Temos compradores muito interessados nessa nova tecnologia.}
+
+{22720}{}
+{22721}{Soube que um dos navios no porto chegou carregado de rubis anões perfeitos. Temos uma parte interessada em possuir tamanha perfeição.}
+
+{22740}{}
+{22741}{Dizem que um dos vagabundos lá do Poone pôs as mãos num medalhão da sorte. Muita gente pagaria caro por uma bugiganga dessas.}
+
+{22760}{}
+{22761}{O Sr. Appleby adquiriu uma espada rara dos Derian Ka. Temos outro colecionador que a quer para si.}
+
+{22780}{}
+{22781}{Madame Lil leva consigo uma certa caixinha de música. Alguém que conhecemos está muito interessado em pôr as mãos nela.}
+
+{22800}{}
+{22801}{O templo Panarii foi presenteado com a abençoada Joia de Hebe. Ela foi incrustada num medalhão, e dizem que quem o usar será amado por todos. Temos um comprador aguardando sua chegada.}
+
+{22820}{}
+{22821}{Dizem que o Sr. Franklin leva consigo um anel que aumenta sua virilidade. Um presente pelo qual, tenho certeza, muitos homens pagariam caro.}
+
+{22840}{}
+{22841}{Soubemos que o Sr. Fitzgerald pôs as mãos numa poção do poder mais sombrio. O Submundo não acha que ela esteja segura com ele e prefere cuidar dela pessoalmente. Ele mora no número 40 do Cruzamento Polton.}
+
+{22860}{}
+{22861}{Cassie guarda uma coleção muito valiosa de joias no quarto dos fundos da casa de Madame Lil. Conhecemos alguém com uma certa obsessão por Cassie. Ele está muito interessado em obter as joias dela.}
+
+{22880}{}
+{22881}{Soube que criaram um novo tipo de motor experimental, chamado Dispositivo de Heron. Dizem que está muito bem guardado num armazém perto da Fábrica Bates. O Submundo deseja possuir esse dispositivo.}
+
+
+//22900 - 23080 Caladon Thieves Underground rumors (1145-1154)
+
+{22900}{}
+{22901}{Há um casal hospedado no Cogumelo. Foram ouvidos se gabando de um colar de família com grandes poderes. O Submundo está interessado em obtê-lo.}
+
+{22920}{}
+{22921}{Ryan Sanders leva consigo um relógio de bolso raro e valioso. Temos uma parte interessada em obter essa peça requintada de tecnologia.}
+
+{22940}{}
+{22941}{Fomos avisados de que um navio naufragou na costa ao sul de Caladon. Dizem que levava uma grande quantia em ouro. Se conseguir recuperá-lo antes das autoridades, será ricamente recompensado.}
+
+{22960}{}
+{22961}{Há um arsenal secreto escondido sob uma das casas da guarda de Caladon. Se conseguir localizá-lo, o Submundo está interessado na Armadura Cruzada de Caladon.}
+
+{22980}{}
+{22981}{Um membro do Submundo, Ryan Marshall, tem um documento bastante extenso sobre seus crimes compilado contra ele. Está arquivado na delegacia. Gostaríamos de obtê-lo para nossa própria "guarda".}
+
+{23000}{}
+{23001}{O Submundo está interessado no conteúdo do carregamento postal destinado a Tarant. Ele aguarda um navio no armazém das docas.}
+
+{23020}{}
+{23021}{Jonathan Sanders tem um porão secreto debaixo da casa. Dizem que ele guarda um Cajado da Restauração escondido lá. Temos uma parte interessada em obter esse item.}
+
+//23100 - 23480 Caladon rumors (1155-1174)
+
+{23100}{}
+{23101}{Já ouviu falar do Assassino de Whytechurch que os guardas estão procurando? Ele deixou todo mundo aqui bem assustado, deixou sim!}
+
+{23120}{}
+{23121}{Soube das novas defesas do castelo? Dizem que o Rei tem mantido Daniel MacPherson muito ocupado, garantindo que tudo esteja em perfeito estado.}
+
+{23140}{}
+{23141}{Ouvi dizer que o Submundo dos Ladrões tem uma bela operação aqui em Caladon...}
+
+{23160}{}
+{23161}{Soube do Ryan Sanders? Tsc, tsc... o almofadinha egoísta gasta o dinheiro suado do pai como se não houvesse fim!}
+
+{23180}{}
+{23181}{Já conheceu Adam Maxwell? Um sujeito bem suspeito, se quer saber.}
+
+{23200}{}
+{23201}{Já ouviu falar do lobisomem? Tem gente que diz ter visto mesmo a fera rondando os arredores da cidade tarde da noite!}
+
+{23220}{}
+{23221}{Soube o que aconteceu com a fábrica do Maxim? Foi depredada por uns tolos quaisquer. Ninguém sabe por quê.}
+
+{23240}{}
+{23241}{Ouvi dizer que há uma passagem pelas Montanhas Stonewall, em algum ponto ao norte daqui, que liga as metades sul do continente. O velho aventureiro que me contou disse que também viu um estranho altar de pedra lá...}
+
+{23260}{}
+{23261}{Já viu o Primeiro Templo Panarii aqui em Caladon, amiga? É um prédio lindo... um lugar de conhecimento sagrado!}
+
+{23280}{}
+{23281}{Soube do Victor Misk, o colecionador de livros? Ele é mencionado naquele livro novo, "A Maldição de T'sen-Ang"! Parece que está dando uma bela polêmica!}
+
+{23300}{}
+{23301}{Ouviu algo sobre os Assassinatos de Whytechurch? Terrível, simplesmente terrível. Mas o Inspetor Henderson disse que vai pegar o assassino num piscar de olhos...}
+
+//23500 - 23680 Blackroot rumors (1175-1184)
+
+{23500}{}
+{23501}{Se procura um bom lugar para tomar uma cerveja, tente o Sour Barnacle. E os velhos lobos do mar que bebem lá costumam saber o que está acontecendo...}
+
+{23520}{}
+{23521}{Ouvi dizer que Herkemer Oggdoddler foi um dos melhores soldados de Dernholm no seu auge. Dizem que é muito bem treinado em todas as habilidades necessárias à guerra.}
+
+{23540}{}
+{23541}{Soube da pobre Sra. Cameron? O filho dela está desaparecido há quase um mês, e a coitada está fora de si de tanta preocupação.}
+
+{23560}{}
+{23561}{Já conheceu Kietzel Pierce? Ouvi dizer que ele é o melhor arqueiro de toda Arcanum.}
+
+{23580}{}
+{23581}{Já falou com Clarissa Shalmo? Ouvi dizer que ela descobriu umas ruínas que podem conter uma arma antiga e poderosa.}
+
+{23600}{}
+{23601}{Black Root é o lugar certo para quem quer comprar um barco, ah, se é.}
+
+{23620}{}
+{23621}{Já viu Killian Drake, lá no Sour Barnacle? Nunca vi um jogador de dados com mais sorte na vida...}
+
+{23640}{}
+{23641}{Já viu o Seadrick? Ele está falando de alguma coisa de novo.}
+
+{23660}{}
+{23661}{Black Root ficava sob a proteção de Cúmbria, mas acho que o Prefeito tem outros planos.}
+
+{23680}{}
+{23681}{Aqui em Black Root, dizem que ninguém faz venenos melhores do que Grunwalde.}
+
+
+//23700 - 24800 Roseborough rumors (1185-1194)
+
+{23700}{}
+{23701}{Dizem que há um bando de ladrões escondido nas montanhas aqui perto. Eles teriam participado de um roubo na Estalagem.}
+
+{23720}{}
+{23721}{Já foi ao Anel de Brodgar? Fica logo a noroeste daqui. Dizem que tem milhares de anos... tem algo a ver com magia...}
+
+{23740}{}
+{23741}{Ouvi dizer que a Estalagem de Roseborough é a melhor de toda a região.}
+
+{23760}{}
+{23761}{Soube da situação da pobre Sra. Morgan? O filho ladrão dela foi condenado à prisão perpétua na prisão de segurança máxima de Caladon. O tolo tentou mesmo invadir o castelo!}
+
+{23780}{}
+{23781}{Reparou no forasteiro que se mudou para a cidade há pouco? Que homem grosseiro!}
+
+{23800}{}
+{23801}{Já conheceu Jason C. Guy? Ele tem passado um tempo enorme estudando o Anel de Brodgar... um sujeito bem esquisito.}
+
+{23820}{}
+{23821}{Dá para acreditar? Alguém disse mesmo que viu de relance uma serpe do Lete vagando pelos campos ao norte da cidade. Que bobagem!}
+
+{23840}{}
+{23841}{Ouvi um velho mercador na taverna outra noite... ele falava de uma lagoa estranha que viu no caminho, descendo da Floresta Cintilante. Fica logo ao norte daqui, ao longo da costa... não que eu fosse chegar perto dela, veja bem!}
+
+{23860}{}
+{23861}{Não sou de histórias malignas, mas um amigo de um amigo me falou de um lugar maligno a nordeste daqui... diz que é frio, até no verão, e cheira a magias antigas e sombrias. Só de pensar me dá arrepios!}
+
+{23880}{}
+{23881}{Ouvi dizer que alguém tem desenterrado túmulos no cemitério de Roseborough.}
+
+//23900 - 24500 Wheel Clan rumors (1195-1225)
+
+{23900}{}
+{23901}{Se quer saber sobre o Dredge, fale com Vegard Fluxo-Fundido. Ele trabalhava naquelas velhas minas antes de as fecharem...}
+
+{23920}{}
+{23921}{Nós, anões, não damos muito valor a livros e coisas do tipo, mas parece que é só com isso que Erick Obsidiana se importa. Ele se chama de "historiador", acho eu...}
+
+{23940}{}
+{23941}{Alguém me contou que Thrayne Coração de Ferro está procurando o irmão, Erland...}
+
+{23960}{}
+{23961}{Eu ficaria longe das minas de minério, se fosse você, amiga. Os mineiros lá embaixo dizem que algo maligno foi libertado ali, e não foram poucos os homens que desapareceram...}
+
+{23980}{}
+{23981}{Você não ouviu isso de mim, amiga, mas ninguém vê o verdadeiro rei, Loghaire Pedra do Trovão, há muitos anos. E ninguém sabe por quê.}
+
+{24000}{}
+{24001}{Estou mesmo preocupado com Thorvald Duas Pedras. Não o vemos por aqui há quase 200 anos! Tenho medo de que ele esteja perdido...}
+
+{24020}{}
+{24021}{Se quer fazer uma oferenda a Alberich, amiga, o altar fica nas Terras Reais.}
+
+{24040}{}
+{24041}{Não que eu saia muito, mas ouvi falar que há um velho pântano estranho logo a noroeste daqui, depois das montanhas. Quem sabe o que pode haver lá?}

@@ -1,0 +1,760 @@
+// This section is for RUMORS in the game.
+// THESE ONLY GET USED BY THE RUMOR OPCODE
+// start at 20000
+// rumors start at rumor number * 20
+// the first message is the logbook message
+// all others are filled in based on NPC's social class
+
+{20020}{Tem ladrãozis nos arredô do nórti de Bléqui Rut.}
+
+{20060}{Tugau é um moço mágico.}
+
+
+
+//20400 - 20780 Shrouded Hills rumors (1020-1039)
+
+{20400}{Uns povo fica falano que o Ristezzezi Importadô sabe das coisa ezótica.}
+
+{20420}{Uns povo fica falano que o Delegado Ôus sabe um montão de coisa de Xraudi Rils.}
+
+{20440}{Uns povo fica falano que a única ponti pra sai de Xraudi Rils tem uns moço ladrão guardano ela.}
+
+{20460}{Uns povo fica falano que a mina Béssi Tune em Xraudi Rils tem fantasmazinho.}
+
+{20480}{Lóidi Gurlôs moço ferrêro de Xraudi Rils diz que é bom moço ferrêro.}
+
+{20500}{Dotô Róbertis matô um moço da mágica purque ele tava sendo mau.}
+
+{20520}{Jônguel Dã moço mágico bobinho tá mais bobinho purque o Delegado Ôus tem um motô de vapô veio.}
+
+{20540}{Uns povo fica me contano que viram uns povo estranhozis em Xraudi Rils preguntano das profe... proféss... das coisa dos Panariiiis, eles fala.}
+
+{20560}{Uns povo fica falano que o Dotô Róbertis é o moço da lei di verdade em Xraudi Rils.}
+
+{20580}{A prefeitura de Xraudi Rils era um tempro dos Panariiiis.}
+
+{20600}{Todo mundo de Xraudi Rils guarda os dinhêro no banco novo. Ele é feito de tijolo!}
+
+{20620}{Povo diz que Jacó Bens é moço sorratêro que fica mais na estalagi de Xraudi Rils.}
+
+{20640}{O fantasma da Béssi Tune tá na mina dela! Ela deixa as coisa da mina fedida e o fio dela Percivau fica triste.}
+
+{20660}{Povo fica falano que a Gaylin das prantinha tem um montão de elfo de pai e mãe e essas coisa.}
+
+
+
+//20800 - 21380 Tarant rumors (1040-1069)
+//(1040-1049 are through story state 6)
+//(1040-1059 are through story state 13)
+//(1040-1069 are through the last story state)
+
+{20800}{Cedrico Apôbi odeia o Sinhô Beitis e qué distruí ele.}
+
+{20820}{Uns povo fica falano que robaro um montão de pintura em Tarrante agorinha.}
+
+{20840}{povo tem medo dos Pi Escáiler e Fio que são moço de vendê joia purque acontece coisa estranha lá na Rua Devonchi.}
+
+{20860}{Povo fica falano que a Madâmi Tussôdi uma muié cigana vê o futuro de verdade.}
+
+{20880}{Uns povo fica falano que os povo rico de Tarrante qué coisa véia dos elfo.}
+
+{20900}{Povo diz pra i no Salão dos Registro em Tarrante se ocê qué achá onde um povo tá em Arcanum.}
+
+{20920}{Estação Vermilião é o lugá dos trem em Tarrante.}
+
+{20940}{Xico Dânston da coisa de Água e Energia de Tarrante fechô um pedaço dos esgoto?}
+
+{20960}{Povo fica me falano que se eu qué diversão é pra eu i na Madâmi Liu no lado sul de Tarrante. Eu sempre qué diversão!}
+
+{20980}{Uns povo fica falano que os moço mais rico de Tarrante fica no Clube dos Cavalêro Uélinton.}
+
+{21000}{Eu ouvi que o Edi Uiloubi vortô pra cidade! Ele tava em Caladão, eu acho.}
+
+{21020}{Universidade de Tarrante tem os moço prefessô mais sabido de toda Arcanum!}
+
+{21040}{Povo fica falano que Caladão qué entrá no Reino Unificado.}
+
+{21060}{Um montão de orc com o Dom Trógui de chefe pegaro a fábrica do 15 no Beco das Dez Mão em Tarrante!}
+
+{21080}{Povo diz que o Ladrão Gato de Tarrante passa em quarqué armadilha!}
+
+
+
+//21400 - 21780 Ashbury rumors (1070-1089)
+
+{21400}{Uns povo fica falano que tem zumbi no cemitério de Ésburi! Ninguém sabe purque é assim.}
+
+{21420}{Uns povo fica falano que Ésburi qué fazê uma estauta dum herói daqui.}
+
+{21440}{Tem um navio quebradão mistérioso lá pra cima da praia de Ésburi!}
+
+{21460}{Lá pra cima no nórti de Ésburi diz que tem castelo assombrado!}
+
+{21480}{Povo fica falano que tem uma coisa estranha nas coordenada 617O, 528S}
+
+{21500}{Uns povo diz que o Uiliam Tórndop é moço bobo esquisito.}
+
+{21520}{Eu ouvi que o Téo Braitistarti é moço bom demais de jogá coisa.}
+
+{21540}{tem umas ruína véia pro noroeste de Ésburi depois das Montanha Cinzenta e as ruína diz que tem artá de ouro inteirinho!}
+
+{21560}{Uns povo fica falano que o Kendrique Uêls tá escreveno livro mas num fala do que é.}
+
+{21580}{Eu ouvi que o Eduardo Títi é o marinhêro mais mió de Ésburi!}
+
+{21600}{Povo diz que tem moço mágico metido na frente do cemitério de Ésburi.}
+
+
+
+//21800 - 22180 Stillwater rumors (1090-1109)
+
+{21800}{Os povo de Istiuóter gosta do moço fedido Márli agora. Antes eles achava que ele era só fedido.}
+
+{21820}{Eu ouvi que o Ritxa Liques moço ferrêro faz as mió espada de Istiuóter.}
+
+{21840}{Povo diz que a Brigiti é a muié pra falá das coisa do Culto da Gextianananana em Istiuóter.}
+
+{21860}{Uns povo diz que tem um mago véio Sairus que mora pertinho no nórti de Istiuóter. Ninguém viu ele agorinha.}
+
+{21880}{Eu ouvi que um ogro véio Drogui Dente Preto mora nos morro no noroeste de Istiuóter.}
+
+{21900}{Povo diz que tem um bichão chamado Gigante de Istiuóter em argum lugá perto de Istiuóter.} 
+
+{21920}{Eu ouvi que ninguém sabe mais do Gigante de Istiuóter que o Istânlei Ripinton que é moço que mora pertinho no noroeste de Istiuóter.}
+
+{21940}{Povo diz que o elfo bobo Mirti mora em Istiuóter.}
+
+{21960}{Alma Sedenta é lugá bom pra contá coisa pra gente!}
+
+{21980}{Povo diz que o Ádikin Xêimbers é moço machucado purque ele tem passado trágicudo.}
+
+
+
+//22200 - 22580 Dernholm rumors (1110-1129)
+
+{22200}{Poço de Dérnrôm é onde coloca os bandido mais mau de toda Arcanum.}
+
+{22220}{Uns povo fica falano que teve uma coisa estranha de como o Preitô virô rei de Cúmbriaaa.}
+
+{22240}{Povo fica falano que a Liana Pel Dar foi treinada pelo pai dela pra sê lutadora brava.}
+
+{22260}{Jaina Istáiles em Dérnrôm tá estudano pra sê pessoa de curá.}
+
+{22280}{Gládis tá choranu por causa de argum coisa.}
+
+{22300}{Eu ouvi que o Sir Gárrique Istáuti é moço bobo e os moço dele num gosta dele tamém.}
+
+{22320}{Tem um labirinto véio pertinho no noroeste de Dérnrôm!}
+
+{22340}{Uns povo fica falano que tem um gnomo estranho no bar da Estalagi de Dérnrôm.}
+
+
+
+//22600 - 22880 Tarant Thieves Underground rumors (1130-1144)
+
+{22600}{Os moço ladrão de Debaxo da Terra qué que eu pega um tesôro que afundô perto da Rua Baxa Dervixi.}
+
+
+{22620}{Os moço ladrão de Debaxo da Terra qué que eu pega o espêio encantadu da casa da Dona Petibone na Estrada Lunguistão.}
+
+
+{22640}{Os moço ladrão de Debaxo da Terra qué que eu pega uma garrafa de Água de Nafa da casa da Dona Rálster na Devonchi.}
+
+
+{22660}{Os moço ladrão de Debaxo da Terra qué que eu pega a Essença de Fogo-Fato do Parnéu.}
+
+
+{22680}{Os moço ladrão de Debaxo da Terra qué que eu pega um vidrinho de venenu da Serpi do Léti da Sociedade Zolológica.}
+
+
+{22700}{Os moço ladrão de Debaxo da Terra qué que eu pega os prano da Pistola de Muitos Cano do Xréqui da Fábrica Beitis.}
+
+
+{22720}{Os moço ladrão de Debaxo da Terra qué que eu pega os rubi dos anão que diz que tá no navio que tá em Tarrante.}
+
+
+{22740}{Os moço ladrão de Debaxo da Terra qué que eu pega o medaião da sorte que diz que tá com um dos moço pobre fedido do Púni.}
+
+
+{22760}{Os moço ladrão de Debaxo da Terra qué que eu pega a espada Dériân Cá da casa do Sinhô Apôbi.}
+
+
+{22780}{Os moço ladrão de Debaxo da Terra qué que eu pega a caxinha de música que a Madâmi Liu tem.}
+
+
+{22800}{Os moço ladrão de Debaxo da Terra qué que eu pega a Jóia de Ébi do tempro dos Panariiiano.}
+
+
+{22820}{Os moço ladrão de Debaxo da Terra qué que eu pega o Anel da Virilidádi que o Sinhô Fránquilin tem.}
+
+
+{22840}{Os moço ladrão de Debaxo da Terra qué que eu pega a poção de poder escuro da casa do Sinhô Fitzgerôudi no 40 do Cruzamentu Pôltu.}
+
+
+{22860}{Os moço ladrão de Debaxo da Terra qué que eu pega as joia da Quéssi do quarto do fundo da Madâmi Liu.}
+
+
+{22880}{Os moço ladrão de Debaxo da Terra qué que eu pega um expré... espremen... um motô de tipo novo chamado Dispositivo do Érão. Ele tá muito guardado lá perto da Fábrica Beitis em argum lugá.}
+
+
+
+//22900 - 23080 Caladon Thieves Underground rumors (1145-1154)
+
+{22900}{Os moço ladrão de Debaxo da Terra qué que eu pega um colá que tem poder mágico! do casau que tá na Estalagi do Cogumelo.}
+
+
+{22920}{Os moço ladrão de Debaxo da Terra qué que eu pega o relójo de bolso do Raiã Sânders.}
+
+
+{22940}{Os moço ladrão de Debaxo da Terra qué que eu pega um baú de ouro dum navio quebradu no sul de Caladão antes dos guarda chegá nele.}
+
+
+{22960}{Os moço ladrão de Debaxo da Terra qué que eu pega uma Armadura Cruzada de Caladão de um lugá escondidu debaxo duma casa dos guarda.}
+
+
+{22980}{Os moço ladrão de Debaxo da Terra qué que eu pega os papel da polícia do Raiã Márxau.}
+
+
+{23000}{Os moço ladrão de Debaxo da Terra qué que eu vai no armazém das doca e pega as carta que vai pra Tarrante.}
+
+
+{23020}{Os moço ladrão de Debaxo da Terra qué que eu acha um porão secreto na casa do Jônatan Sânders e pega o Cajado da Restauração que diz que tá escondidu lá.}
+
+
+
+//23100 - 23480 Caladon rumors (1155-1174)
+
+{23100}{Moço assassino medonho de Uaitixurch deixa todo mundo com medo e os guarda qué pegá ele!}
+
+{23120}{Fofoca diz que o Rei tá deixano o Daniéu Méquiférson ocupado fazeno as defesa do castelo mais mió.}
+
+{23140}{Diz que tem um montão de moço ladrão de Debaxo da Terra em Caladão.}
+
+{23160}{Povo diz que o moço Raiã Sânders gastô todo o dinhêro do pai dele.}
+
+{23180}{Eu ouvi que o Adão Méxuel é moço sorratêro.}
+
+{23200}{Fofoca diz que um lobisome tá assustano os arredô de Caladão.}
+
+{23220}{Rierônimo Méxim de Caladão é moço inventadô famoso mas a fábrica dele foi quebradinha por uns moço que ele num conhece.}
+
+{23240}{Tem uma passage nas montanha no nórti de Caladão que junta as metade do sul do continentchi e que tem um artá véio de pedra lá.}
+
+{23260}{O Primêro Tempro dos Panariiiis é em Caladão!}
+
+{23280}{Fofoca diz que o Vitô Misqui é colecionadô famoso de livro e falam dele num livro novo chamado A Mardição de Tisen Angui.}
+
+{23300}{Eu ouvi que o Inspetô Rendersão é o moço que manda nos moço que procura o Assassinato de Uaitixurch.}
+
+
+
+
+//23500 - 23680 Blackroot rumors (1175-1184)
+
+{23500}{O Sour Bárnacou em Bléqui Rut é lugá bom pra cerveja! ou pra descobri as coisa.}
+
+{23520}{Povo diz que o Rérquemer Ógui é muito treinadu nas coisa de guerra!}
+
+{23540}{Eu ouvi que a dona Quêmeron tá preocupada purque o fio dela sumiu.}
+
+{23560}{Povo diz que o Quítsel Pírce é o mió arquêro de Arcanum.}
+
+{23580}{Uns povo fica falano que a Clarissa Xalmo qué uma arma véia forte.}
+
+{23600}{Bléqui Rut é o lugá mais mió pra comprá barco!}
+
+{23620}{Povo diz que o Quiliã Dreique é o mió jogadô de Bléqui Rut. Ele joga dado lá no Sour Bárnacou.}
+
+{23640}{O moço véio bêbo Sidrique tá falano de argum coisa que ele num sei onde!}
+
+{23660}{Uns povo diz que o prefeito de Bléqui Rut num tava feliz de sê amigo de Cúmbria.}
+
+{23680}{Grunuáudi faz veneno em Bléqui Rut.}
+
+
+
+
+//23700 - 24800 Roseborough rumors (1185-1194)
+
+{23700}{Diz que tem uns moço ladrão escondidu nas montanha perto de Rôsbóru!}
+
+{23720}{Eu ouvi que o Anel de Bródigar é pertinho no noroeste de Rôsbóru.}
+
+{23740}{Povo fica falano que a Estalagi de Rôsbóru é a mais mió de toda Arcanum.}
+
+{23760}{Uns povo fica falano que o fio da Dona Mórgã tá na cadeia em Caladão pra sempre purque ele tentô entrá no castelo!}
+
+{23780}{Tem moço grosso novo em Rôsbóru que ninguém gosta.}
+
+{23800}{Aquele Jeisão Ci Gai fica oiano o Anel de Bródigar um montão.}
+
+{23820}{Serpi do Léti medonha tá no nórti de Rôsbóru!}
+
+{23840}{Eu ouvi que tem uma lagoa estranhada no nórti de Rôsbóru e ela fica na praia.}
+
+{23860}{Tem um lugá estranho e gelado no nordeste de Rôsbóru e uns diz que tem chêro de mágica véia e malvada! Fedido!}
+
+{23880}{Argum povo tá cavano os túmulo no cemitério de Rôsbóru.}
+
+
+
+//23900 - 24500 Wheel Clan rumors (1195-1225)
+
+{23900}{Eu ouvi que ninguém sabe mais do Dredji que o Végar Fluxo-Fundido que é mineradô véio do Clã da Roda.}
+
+{23920}{Povo diz que o Érique Obsidiana do Clã da Roda é moço anão de históra.}
+
+{23940}{Povo fica falano que o Treine Coração de Ferro do Clã da Roda tá procurano o irmão dele Érlan.}
+
+{23960}{Tem uma coisa malvada nas mina de minério do Clã da Roda!}
+
+{23980}{Povo fica me falano que o Lógair Pedra do Trovão é Rei dos Anão e ninguém vê ele faz tempão tempão.}
+
+{24000}{Ninguém no Clã da Roda vê o Torvaudi Duas Pedra faz 200 tempão de ano!}
+
+{24020}{Eu ouvi que o artá do Áuberique fica nas Terra Reau do Clã da Roda.}
+
+{24040}{Eu ouvi uns povo me falano que tem um brejo estranho pertinho no noroeste do Clã da Roda depois das montanha.}
+
+
+// This section is for notes taken in the game.
+// THESE SHOULD NEVER GET USED BY THE RUMOR OPCODE
+// start at 40000
+
+{40000}{Eu achei um moço véio estranho do lado de fora de Xraudi Rils.}
+
+{40020}{O livro "Horrô Entre os Elfo Preto" é a históra do moço Tervilijé que foi pegado e depois ele fugiu do lugá dos Elfo Preto Ti.sen Angui. Bilhetinho bobo na frente do livro diz que o moço que escreveu gosta de corvo (Raven é um passarinho, eu acho).}
+
+{40040}{Eu peguei livro no túmulo do Vitô e ele é falso fedido! Eu sei fácil! Ele chama de verdade "Como o Nafrudim Ganhô do Nefário Arronaxi! e Ôtras Históra" do Óscar Grenti. Tem uma coisa escrevida dentro na frente que diz "Loja de Presente de Rôsbóru".}
+
+{40060}{Tem uns osso que parece que era um moço de vestidão mas tá fartano dedo dentro de onde o Nafrudim era pra tá.}
+
+{40080}{Eu acho palavra no lugá de enterrá do Nafrudim e depois eu acho buraco no chão purque eu descobri as palavra que eu achei no lugá de enterrá purque eu sô inteligenti! Eu achei livro no buraco do moço Manóquis que diz que o Cã Ruá é Elfo Preto malvadão e ele Traiu o Manóqui! Eu peguei uma espada legal tamém!}
+
+{40100}{O livro no buraco de enterrá do Fíli Misqui é aquele livro "Ti. sen Angui: Horrô Entre os Elfo Preto." Ele tem mapa legal dentro que diz onde é o lugá dos elfo preto!}
+
+{40120}{Eu achei papel que diz que o Benji Beitis comprô anel chique pro fio dele Gibéti Beitis!}
+
+{40140}{Eu achei papel de recibo de coisa compradas dos Pi Escáiler e Fio no armário do Ristezzezi. Ele diz que eles fica em Tarrante.}
+
+{40160}{Eu peguei bilhete pro Lógair Pedra-de-Argum-Coisa de elfo chamado Mini Gorádi que diz que o Clã da Montanha Preta tem que i pra Ilha do Desispero. Eu acho que o bilhete veio de Quintarra onde os elfo mora.}
+
+{40180}{Papel do Gúnter Uiuirmete diz o que é diferente da cópia véia do Arquéeeon e das nova. Gúnter diz que o Nasrudim num tá descansano em Caladão mas em Tanatôs!}
+
+{40200}{Eu achei bilhete de amor beijoqueiro do moço Tervulijé pra Rêivin. O moço Tervulijé tamém tava procurano os elfo preto.}
+
+{40220}{Eu vi uma coisa escrevida com sangue! Tava dentro da tampa de pedra do lugá de enterrá do Nafrudim. Era um desenho de uma roda quebrada com X dentro e 2 palavra que eu num sei o que era.}
+
+{40240}{Uma coisa de pedra grandona onde o balão caiu diz: E o cuspe dele vai renascê na asa de fogo no morro coberto de neblina. Arcuuun 5:16"}
+
+{40260}{Eu sô a única pessoa que saiu do balão Zéfer sem morrê! Umas coisa voadora engraçada atiraro no balão e ele fez bum e pegô fogo e tudo! Moço gnomo bobo morreno me deu um anel chique e falô que eu tem que achá um minino e dá pra ele. Ele bobo, ele diz que coisa malvada tá vino e ele fugiu e essas coisa. Aí ele morreu. Ele bobo. e morto.}
+
+{40280}{Moço gnomo morto bobo chamava Préstão Rédiclifi. Eu sei purque eu achei uma coisa nele que falava isso!}
+
+{40300}{Tem um moço Ogro morto debaxo da coisa voadora caída que atirô no balão e fez ele caí! Ele tem uma coisa engraçada com olho numa estrela tamém.}
+
+{40320}{Préstão Rédiclifi num era gnomo mas era anão chamado Istêna Corta-Pedra. Ele cortô as barba dele! Ele magrelo demais tamém. Ele num come muito eu aposto pra ele parecê moço gnomo.}
+
+{40340}{Aquele moço Gilbéti Beitis fala demais! Ele fala e fala e fala! Ele me conta que fez o primêro motô de vapô mas é igual um que ele pegô dos anão! Ele diz que é por isso que o Clã da Montanha Preta num tá em lugá nenhum mais, mas ele qué descobri onde eles tá. Ele diz que uns moço de vestidão falaro pra ele nunca falá dos anão e do motô de vapô deles senão eles vai sê malvado com o gilbéti!} 
+
+{40360}{Gilbéti Beitis me manda pra Ésburi achá o capitão do mar Eduardo Títi. Títi é amigo do Beitis que faz coisa especiau pra ele. Ele é moço pirata eu acho mas ele me leva na Ilha do Desispero! É lá que eles guarda os bandido malvado e essas coisa.} 
+
+{40380}{Um Assassassino bobo tentô matá o Gilbéti e ele usa coisa com olho na estrela. A coisa de estrela de olho qué dizê que eles era pra sê a mão Molóquina que é os assassassino matadô de 500 ano atrás! Era pra eles tê sumido, mas o Beitis num sabe se esses moço é falso ou não.}
+
+{40400}{Um moço me atacô! Ele tava usano coisa de olho na estrela, igual a que o moço Ogro debaxo da coisa voadora tava usano.}
+
+{40420}{Um moço me atacô! Ele tava usano coisa de olho na estrela!}
+
+{40440}{Eu achei o Gúdimum Dobra-Minério anão doido escondido nas mina do Clã da Montanha Preta. Ele fala bobêra e tem medo que os povo vem pegá ele. Ele botô armadilha em tudo quanto é lugá! Ele se escondeu pra num sê banidu pra Ilha do Desispero com o resto do clã dele.}
+
+{40460}{Eu meio que li a coisa de pilá de pedra no Clã da Montanha Preta e diz que eles foi colocado na Ilha do Desispero purque o Beitis robô motô deles. Eu num entendo como é que os elfo tava lá...}
+
+{40480}{Ógdim é o guarda de porta do Torvaudi ele diz que eu tem que brigá no buraco pra conversá com o Torvau. Eu tem que achá o Górim mestre do buraco pra eu podê brigá.}
+
+{40500}{Só tem só um anão na Ilha do Desispero ele é o moço que manda o nome dele é Torvau.}
+
+{40520}{Torvau diz que ele é o único anão que já morô na Ilha do Desispero o Clã da Montanha Preta nunca teve lá.}
+
+{40540}{Torvau diz que eu precisa de um par especiau de óculozis feito de fatia fininha de cristau de Catórni pra eu vê onde eu entra no Clã da Roda. Eu num sei do que ele tá falano.}
+
+{40560}{Istânlei Xavié Ripinton me dá armadilha pequena e uma coisa de "Chêro de Gigante de Istiuóter" pra eu pegá o gigante. Ele diz que eu precisa ficá peladão e passá o chêro em mim e eu tem que pegá o gigante enquanto ele parece coelhinho azul antes dele ficá grandão e me comê.}
+
+{40580}{Eu tem que levá a gaiola com o Gigante de Istiuóter pro Dotô Tristão Fenuéqui da Sociedade Zolológica em Tarrante e ele diz se é de verdade. Pra mim parece de verdade. Eu num entendo o que eu tô fazeno, de verdade.}
+
+{40600}{Delegado Ôus diz que o Ristezzezi Impotadô pode falá uma coisa pra mim de onde o anel veio.}
+
+{40620}{Ristezzezi Importantadô diz que os Pi Escáiler e Fio fica no 44 da Rua Devonchi na cidade de Tarrante. Ele marcô meu mapa! Que alegria feliz!}
+
+{40640}{Eu conheci um anão chamado Mágnus do lado de fora dos Pi Escáiler e Fio ele fala umas coisa esquisita do que eles faz lá dentro ele fala.}
+
+{40660}{Mágnus vai sê meu amigo enquanto eu oia os Pi Escáiler e Fio ele diz que tem bracelete que vem do clã dele e ele diz que o bracelete veio dos Pi Escáiler e Fio.}
+
+{40680}{Eu achei um lugá véio de povo morto dos anão debaxo dos Pi Escáiler e Fio eles usa os moço morto coitado pra trabaiá pra eles.}
+
+{40700}{Eu achei 3 irmão Escáiler Uínston Náiles Eduardo no fundo do lugá de anão morto eles é moço da mágica de morto e eles usa povo morto pras coisa faz tempão.}
+
+{40720}{Eu falo que eu num conta pra ninguém o que os Pi Escáiler e Fio faz com os povo morto e eles me conta quem é o dono do anel.}
+
+{40740}{Eu falo que eu num conta pra ninguém o que os Pi Escáiler e Fio faz com os povo morto e eles me conta quem é o dono do anel e o Mágnus ficô bravo e foi matado. Mas eu sei pra quem eu tem que levá o anel!}
+
+{40760}{Pelônio Escáiler é o pai morto do Uínston e dos irmão dele e eu falo com o fantasma dele! E ele me conta as resposta das minhas pregunta do anel que o Gubéti Beitis é o moço dono!}
+
+{40780}{Eu conheci um capitão de barco do mar Edu Títi. Ele diz que o navio dele era pra alugá (o que isso qué dizê?) mas só se o Beitis falá que pode.}
+
+{40800}{Edu Títi me contô como ele pegô o barco dele o Gípsi Xádou que era do Jaque Isquelibôns que foi matado pelo fantasma do moço Istrínji Píti que é o moço mais malvado que já teve!} 
+
+{40820}{Eu conheci o Rándever fio do Lógair Pedra do Truvão que foi embora pro exílo e o Rándever é Rei esperano do Clã da Roda. Eu num sei o que ele tá esperano. E onde é o exílo?}
+
+{40840}{Rándever me conta que os elfo tem a vê com o banimentu do Clã da Montanha Preta mas ele num sabe o quê e o pai dele que sabe foi pro lugá de exílo depois que eles foi banido.}
+
+{40860}{Rándever diz que o Lógair entrô no Dredji que era umas mina meio véia dos anão e agora tem uns bicho malvado lá.}
+
+{40880}{Rándever me falô da Forma e a Pedra (?) que é filosofia de anão e eu num entendi nada mas o Lógair foi embora purque ele traiu ela de argum jeito.}
+
+{40900}{Rándever me mostra o caminho secreto que ele usa pra vê o pai dele.}
+
+{40920}{Lógair Pedra do Truvão me contô de uns elfo que era da Dama Prateada eles falaro quando eles veio depois que o Beitis fez o motô de vapô dele que deixa os elfo bravo purque eles num gosta de tecnolojia e as árvore deles foi cortada e essas coisa e eles qué que argum povo seja castigado.}
+
+{40940}{Lógair diz que os elfo falaro que vai tê guerra se o Clã da Montanha Preta num fô castigado e os elfo falaro que eles tem que sê os que manda os anão da Montanha Preta pra Ilha do Desispero. Isso é tudo bobo e eu ainda num entendo como os elfo é tão malvado nem por que os anão liga.}
+
+{40960}{Lógair diz que ele dexô os elfo sê malvado purque ele num queria que acontecesse coisa de guerra com os elfo.}
+
+{40980}{Eu falo que a coisa de Pedra do Lógair ainda é verdade e ele devia sê rei de novo.}
+
+{41000}{Lógair diz que o Mini Gorádi era o elfo que falô que ele tem que bani o Clã da Montanha Preta e eu tem que procurá o Mini no lugá dos elfo Quintarra e os povo de Istiuóter pode sabê onde é e eu devo vortá pra contá pra ele o que aconteceu com o Clã da Montanha Preta se eu descobri.}
+
+{41020}{Lógair ficô triste depois que eu contei as coisa do Clã da Montanha Preta ele me deu bilhete e diz que eu tem que achá o lugá dos elfo Quintarra ele falô que os povo de Istiuóter pode sabê onde é.}
+
+{41040}{Eu conheci a Rêivin e a Dama Prateada é a mãe dela! Eu falei pra ela que eu precisa falá com a mãe dela mas ela diz que eu tem que fazê uns povo saí do Fálcons Eique antes dela falá comigo o lugá Fálcons Eique é chão santo dos elfo na beirada da Floresta. Num pode fazê nada sangrá enquanto eu faz isso.}
+
+{41060}{Eu contei pra Rêivin tudo que aconteceu comigo ela num conhece o Mini Gorádi mas diz pra eu i falá com a mãe dela das coisa e i falá com a Rêivin quando eu acabá de falá com a mãe dela.}
+
+{41080}{Eu falo com a Rêivin das coisa esquisita que a mãe dela fala e o Mini Gorádi pode sê elfo preto!}
+
+{41100}{Rêivin diz que eu tem que achá o moço pessoa Tervilijé que era o moço que tava procurano os Elfo Preto e ele pode sabê onde os Elfo Preto tá talvez.}
+
+{41120}{Rêivin diz que eu tem que procurá em Caladão pra eu fazê mais pregunta do Nafrudim lá purque o tempro primêro grandão dos Panariiiis é lá e os moço padre de lá sabe um montão do Arronaxisquis e das coisa.}
+
+{41140}{Eu falo com a Dama Prateada e pregunto pra ela do Mini Gorádi e ela fala e fala e eu num sei nada do que ela diz e minha cabeça dói agora.}
+
+{41160}{Eu pregunto pra Dama Prateada o que eu faz agora que eu sei que os Elfo Preto era os povo que baniu o Clã da Montanha Preta e ela diz que minhas resposta tá com o Nafrudim. O que isso qué dizê? Eu num gosto de falá com a Dama Prateada ela me confunde.}
+
+{41180}{Alexandre moço Primêro Acóli Acóito dos Panariiiis me contô que os osso e as coisa do Nafrudim tá enterrado debaxo do tempro lá em Caladão.}
+
+{41200}{Alexandre diz que eu tem que falá com o Gúnter Uiuirmete o históriadô da igreja e o Adriãão o moço cavadô arqueologuista da igreja dos osso e das coisa do Nafrudim.}
+
+{41220}{Alexandre moço Primêro dos Panariiiis sabe que eu sô a pessoa do balão caído que num morreu. ele feliz que eu num morri! Ele diz que eu sô o Vivo purque eu num morri mas ele diz que o Sumo Padre num acredita mas eu num entendo purque é claro que eu num tô morto e o Sumo Padre fala pra todos os povo da igreja que eu sô falso. Mas eu tenho quase certeza que eu num morri então eu num entendo nada disso.}
+
+{41240}{Alexandre diz que eu tem que tomá cuidado pra quem eu fala que eu sô a pessoa do balão caído que num morreu ele diz que o Gúnter vai acreditá mas o Adrião pode num acreditá então eu tem que tomá cuidado.}
+
+{41260}{Alexandre me contô do São Manóqui um moço especiau na Igreja dos Panariiiis.}
+
+{41280}{Alexandre me contô como o Manóqui moço especiau foi assumi... assunci... levado pra ôtro lugá que num é aqui pelo Nafrudim e isso nunca aconteceu de novo.}
+
+{41300}{Alexandre me mostra onde eu pode vê uma cópia do Arcáion o livro mais santíssimo da religião dos Panariiiis.}
+
+{41320}{Eu contei pro Alexandre o que eu achei do Manóqui sê matado pelo Cã Ruí. Ele bravo!}
+
+{41340}{Eu falei com o Gúnter Uiuirme o históriadô da igreja e ele me contô de umas tradução que ele tá fazeno que é uma cópia véia véia mesmo do Arqueoon que ninguém tinha achado antes e ele diz que Panariiiis qué dizê ôtra coisa agora.}
+
+{41360}{Eu contei pro Gúnfer do balão caído e ele diz que ele me ajuda do jeito que ele podê.}
+
+{41380}{Gúnfer diz que o Alexandre é descendênti do São Manóqui.}
+
+{41400}{É engraçado que o único moço que viu o Manóqui sê levado pelo Nafrudim era o mesmo moço que descubriu os osso do Nafrudim e ele chamava Cã Ruá.}
+
+{41420}{Moço Gúnfer Uiuirmete diz que eu tem que tomá cuidado de eu sê o moço do balão quando eu falá com o Adrião mas ele é o mió moço pra falá dos osso do Natsrudim.}
+
+{41440}{Gúnter me contô o que qué dizê as palavra dentro da tampa de pedra da coisa de enterrá. A primêra palavra qué dizê "oposto" a segunda qué dizê "verdade" e ele num sabe o que qué dizê a roda quebrada.}
+
+{41460}{Gúnter achô ôtra coisa engraçada no Arcaoon véio véio mesmo. Ele diz que isso qué dizê que os Osso do Nafrudim tá em Tanatôs e num em Caladão.}
+
+{41480}{Eu contei pro Gúnter o que eu li no livro do Manóqui. Ele diz que eu devia contá pro Alexandre o mais rapidinho possívi.}
+
+{41500}{Eu falo com o Adrião o cientista cavadô dos osso do Nazrudim. Ele diz que nem ele pode i vê eles.}
+
+{41520}{Adrião diz que se eu oiá em vorta dos esgoto daqui eu pode achá um jeito de entrá pra vê os osso do moço Nazruuuudim.}
+
+{41540}{Adrião diz que ele sabe um jeito de vê os osso do Nafrudim. Tem uma porta secreta que leva onde ele tá enterrado mas ela é fechada com mágica mas ele diz que a senha é Crimstone.}
+
+{41560}{Eu contei pro Adrião do balão caído mas ele ficô bravo e num quis mais falá comigo.}
+
+{41580}{Eu levei a caveira que eu achei no lugá de enterrá do Nazrudim pro Adrião e ele diz que ela é de humano, num de elfo e ele ficô triste com isso por argum motivo.}
+
+{41600}{Eu contei pro Adrião da coisa escrevida com sangue na tampa de pedra da coisa de enterrá mas ele num sabe o que qué dizê mas ele diz pra falá com o Gúnter purque ele pode sabê.}
+
+{41620}{Eu contei pro Adrião as coisa que eu sei do Manóqui sê matado ele diz que eu tem que falá com o Alexandre agora disso agora.}
+
+{41640}{Eu achei o Edu Títi no Sour Bárnacou em Bléqui Rut enquanto eu tento achá um jeito de i pra Tanatôs. Ele diz que ele perdeu o Gípsi Xádou no jogo com o moço Quiliã Dreique.}
+
+{41660}{Edu Títi diz que tem três jeito de eu i pra Tanatôs eu pode ganhá o Gípsi de vorta do Quiliã Dreique eu pode comprá barco pra mim eu pode tentá robá barco do fantasma do istrínji píti.}
+
+{41680}{Eu conheci um Bêbo fedido no Sour Bárnacou em Bléqui Rut. Ele tinha mapa pro lugá secreto do Istrínji Píti.}
+
+{41700}{Eu achei o lugá secreto do Istrínji Píti onde os osso dele tá enterrado.}
+
+{41720}{Eu falo com o fantasma do moço istrínji píti purque eu qué pegá o barco dele mas ele é amardiçoado pra sempre e sempre e sempre.}
+
+{41740}{Istrínji Pitinho diz que pode tê um jeito de quebrá a mardiçãozice dele e se eu quebrá a mardiçãozice dele ele me dá o barco.}
+
+{41760}{Eu falo com o Quérigão o terríbo no lugá dele e ele me contô como ele foi banido pelo conselho dos elfo purque ele tava fazeno espriência com coisa morta.}
+
+{41780}{Quérgão parece que ficô mais forte no Vazio e o tempo num passa aqui igual em Arcainum.}
+
+{41800}{Quérigão diz que toda vida é uma abdominaçãozona uma coisa ruim que num é parte da orde naturau e ele qué acabá com toda vida no Vazio e em Arcanum purque aí tudo fica divertido e calminho!}
+
+{41820}{A viúva do Vitô Misqui diz que ele ficô esquisito antes dele morrê purque um livro novo chamado "Mardição de Ti. Sen Angui" que diz que ele tem a úrtima cópia do "Horrô Entre os Elfo Preto" que tamém é livro.}
+
+{41840}{Vitô Misqui morreu só uns dia antes deu chegá aqui e ele tá enterrado debaxo do chão no Cemitério de Caladão.}
+
+{41860}{A viúva Misqui diz que ela num sabe quem falô que o Vitô tinha aquele livro dos Elfo Preto. Talvez eu tem que oiá em vorta disso. Ou talvez eu tem que esquecê as coisa que me confunde.}
+
+{41880}{Eu pregunto pra viúva Misqui o que a cidade de Rôsbóru ou a Loja de Presente dela pode querê dizê e ela diz que nada só que o pai do sinhô Misqui tá enterrado debaxo do chão no cemitério de Rôsbóru meio igual o Vitô tá debaxo do chão em Caladão então eu acho que tem uma ligação purque os dois tá debaxo do chão!}
+
+{41900}{O moço anão véio Bíngam Xulipé no Cemitério de Caladão diz que conhece o Mágnus e o Mágnus diz que ele mente mas ficô bravo quando eu tentei preguntá mais.}
+
+{41920}{Bíngam Xulifunqui era um moço malvado da Mão Molóquina! O Mágnus parece triste.}
+
+{41940}{A moça do Salão dos Registro diz que o Renférdi Tervilijé tá morto mas ele escreveu um livro chamado "Ti.Sen Angui: Horrô Entre os Elfo Preto." Ela diz que eu pode achá cópia do livro na bibrioteca de Tarrante.}
+
+{41960}{A bibriotecária de Tarrante diz que "Ti'Sen Angui: Horrô Entre os Elfo Preto" é raro demais e que num tem cópia disponívi e ela me deu livro novo chamado "A Mardição de Ti. Sen Angui".}
+
+{41980}{"A Mardição de Ti. Sen Angui" é das coisa estranha do Renférdi Tervulijé e do livro dele "Horrô Entre os Elfo Preto". Ele tamém diz que o único moço que tá vivo e tem o livro é o Vitô Misqui e ele mora em Caladão.}
+
+{42000}{Eu falo com a Rêivin do Mini Gorádi e parece que ela pode sê elfo preto eu qué dizê o Mini num a Rêivin.}
+
+{42020}{Eu contei pro Adrião que os osso onde o Nafrudim tá enterrado tá fartano dedo e ele ficô bravo purque ele acha que é o Manóqui e num o Nazrudim.}
+
+{42040}{Dotô Tristão Fenuéqui me contô que o Gigante de Istiuóter é coelhinho falso pintado de azul.}
+
+{42060}{Dotô Fenuéquis diz que o Agá Tê Parnéu tem cinto falso do Gigante de Istiuóter no muzeu dele.}
+
+{42080}{Mini Gorádi diz que os elfo preto ficô pensano faz tempão num jeito de bani uns anão pra eles fazê portão pro Arronaxis vortá.} 
+
+{42100}{Mini Gugrádi diz que o Istênar fugiu bem pelo portão purque ele num é mágico.}
+
+{42120}{Eu me juntei com os elfo preto! O Mini Gorádi é meu amigo agora e eu tem que i falá com o CãRuRuá no tempro dos Panariiiis em Caladão e ele vai sê meu amigo tamém e ele tamém é sumo padre!}
+
+{42140}{Eu peguei bilhete do CãRuí pro Mini Gorádi e diz que o Clã da Montanha Preta tá no Vazio e o Istunár fugiu de lá purque ele usô o portão que eles tá fazeno mas num tava pronto e os anão é escravo e eles tem que fazê o portão pro Arrunáxis vortá pra Arcanum e eles tamém qué pegá o Dispusitivo de Vendibóti seja lá o que isso fô.}
+
+{42160}{Cã Ruá diz que os elfo preto pegaro a religião dos Panariiiis pra confundi os povo e funciona purque eu tô confuso mesmo.} 
+
+{42180}{Cã Ruí diz que os segredo dele tá com o Nafruudim mas ele num fala mais nada disso quando eu pregunto mais.}
+
+{42200}{Cã Ruá diz que a religião dos Panariiiis num cuida mais das proteção e elas tá ficano fraquinha agora purque ninguém cuida delas.}
+
+{42220}{Arronáxis é fio do Nafrudim!}
+
+{42240}{Cã Ruá me contô do banimentu do Arronáxis. Vendibróti fez coisa pra matá o Arronáxis quando ele falô que eles num devia fazê mais coisa de tecnolojia então ele matô eles purque eles ia matá ele e os elfo do conselho era fraco e ele teve que brigá com eles tamém e ele perdeu purque os moço dele era fraco num igual o Arronáxis que podia tê matado todo mundo se ele tivesse amigo forte mas ele num tinha e aí ele foi banido mas isso fez um buracão que teve que sê fechado com proteção!} 
+
+{42260}{Ouvi a saga de Kerghan, o Terrível, o único membro humano do Conselho Élfico. Quando ele descobriu as artes necromânticas, o Conselho lhe pediu que não as pesquisasse mais, pois achavam que tinham um enorme potencial para o mal. Quando Arronax descobriu que Kerghan andava brincando com os espíritos das pessoas, convenceu o conselho a condená-lo ao banimento. Ele foi docilmente, sem lutar, apesar de possuir um poder enorme.} 
+
+{42280}{Me contaro a históra do banimentu do Fragelo de Cri que era moço guerrêro nômade malvado e ele tinha exército grandão e ele matô um montão de povo até as muié e os nenê em Cri e o Nafrudim num gostô então ele baniu ele sozinho e isso deixô o Nafrudim meio famoso.}
+
+{42300}{Craca-turdi era um monstro malvado meio dragão meio homem e ele matô um montão de povo e ele foi banido depois de uma briga grandona gigantona!}
+
+{42320}{Contaram-me a história do banimento de Gorgoth, uma fera irracional de apetite insaciável. Ele finalmente foi capturado pelo Conselho depois de uma luta que durou dias e, sem outra alternativa, decidiu-se que ele seria banido de Arcanum.}
+
+{42340}{Nafrudim ainda tá vivo! Eu acho ele em Tanatôs e ele me contô a históra do banimentu do Arronáxis! Arronáxis diz que vai matá Vendibróti se eles num pará de fazê coisa de tecnolojia então eles fizero dispusitivo pra brigá com ele e ele matô eles e tudo em vorta deles por légua e légua! O Nafrudim era o moço principau que queria bani o fio dele Arronáxis mas foi briga grandona gigantona e fez um buracão quando eles baniro ele e eles precisa fazê proteção pra fechá o buraco.}
+
+{42360}{O dispusitivo de Vendibróti foi feito pra chupá a força da vida de um mago enquanto ele tá dentro da casca dele que sara.} 
+
+{42380}{Arronáxis diz que tá preso pelo Quérgão faz quase dois mil ano!}
+
+{42400}{Os elfo preto foi enganado pelo Querganovitch e acha que ele é o Arrodináxis, pra eles ajudá ele a vortá pra Arcanum.}
+
+{42420}{Arronáxis diz que eu devia falá com o Quérigão pra eu vê que ele é doidão e que o Arronáxis tá me contano a verdade.}
+
+{42440}{Arronáuxis me pede pra soltá ele pra ele me ajudá a brigá com o Quériguem mas ele num sabe como ele tá preso na bolha mágica.}
+
+{42460}{Num usado}
+
+{42480}{Arronáxis eu tem que achá uns moço pra me ajudá antes deu brigá com o Quérgão!}
+
+{42500}{Eu tem que descobri como anda pelo vazio.}
+
+{42520}{Depois que eu num morri no balão Zéfer caído um moço monge de vestidão correu pra mim e diz que eu sô moço religioso impotente da religião dos Panariiiis purque eu sô o moço renascido "o Vivo".}
+
+{42540}{"O Moço Vivo" era pra sê o renascimento do moço elfo Nafrudinski que é mago elfo poderoso.}
+
+{42560}{Eu peguei bilhete de um moço bobo no clube Uélinton em Tarrante que diz: Beco Mulligã Bone, 57.}
+
+{42580}{Eu conheci um moço anão bobo hoje! Ele é o Jórmum, e ele mora em Quintarra e ele até diz que é mago treinado pelos elfo! Mas ele num qué ficá e ficá debaxo de contrato purque ele tá infeliz e ele num gosta do moço elfo malvado Rati.}
+
+{42600}{Eu conheci coisa chamada Cã Quêri e ele é chefe dos Bedocão que é uns lagarto que mora nos pântano preto e ele tá bravo purque tão fazeno coisa ruim com o povo dele.}
+
+{42620}{Moço lagarto tão sendo matado pelos Caçadô!}
+
+{42640}{Eu falo com o Cã Quêri e falo pra ele que ele num devia ficá bravo com todos os povo e ele diz que eu devia levá um moço guerrêro dele chamado Uórman.}
+
+{42660}{Wrath foi matado com venenu. Eu tem que falá com o Xarpi o moço que vende venenu e essas coisa em Quintarra.}
+
+{42680}{O moço coisinha cobra Trite era da famía da Legião Preta que foi feita pelo Zalacá na Era das Lenda! E é por isso que ele virô coisa de cobra quando eu tentei matá ele!}
+
+{42700}{Eu tem que descobri como o Pólóqui entra e sai da casa dele pra eu podê matá ele.}
+
+{42720}{Moço fedido diz que eu devia falá com o Mãgues que é moço anão bem vestidão no bar no boil se eu qué entrá no Clã Maug.}
+
+{42740}{Moço zumbi morto-vivo briga comigo quando eu entro no clã Stonecutter! Érlum Coração de Ferro fez eles com coisa que ele achô num labaratóro véio sem querê.}
+
+{42760}{Eu conheci o Edu Uiloubi e ele diz que é presidente do Conselho de Tarrante e ele diz que eu devia i encontrá ele no escritóro dele na prefeitura.}
+
+{42780}{Num usado.}
+
+{42800}{Edu Uiloubi diz que eu sô o moço de conversá entre Caladão e Tarrante e eu vai falá com os moço de Caladão de sê amigo de Tarrante. Eu tem que encontrá o moço Renár na frente do Castelo quando eu chegá em Caladão.}
+
+{42820}{Chefe Rendersão qué que eu seja rápido e mata o demônio assassinadô rápido pro moço Peine num vim matá o demônio e fazê o Rendersão parecê bobo.}
+
+{42840}{Rínrique Jênquis qué que eu mata o Rei Farádi de Caladão purque eu sô moço de conversá com Caladão eu pode entrá no castelo e quando eu entrá eu tem que falá com o moço Vérnão que me conta mais coisa.}
+
+{42860}{Rínrique Jênquis qué que eu mata o Rei Farádi de Caladão e se eu virá moço de conversá com Caladão eu pode entrá no castelo e quando eu entrá eu tem que falá com o moço Vérnim que me conta mais coisa ou eu tem que falá com o moço Bulórs nas doca de Caladão e ele me põe no castelo e aí eu tem que falá com o moço Vérnim.}
+
+{42880}{Rínrique Jênquis qué que eu mata o Rei Farádi de Caladão e eu tem que falá com o moço Bulórs nas doca de Caladão e ele me põe no castelo e aí eu tem que falá com o moço Vérnim.}
+
+{42900}{Tem 2 moço morto no quarto do Ancião Joaquim em Xraudi Rils e os dois tem coisa com olho na estrela neles.}
+
+{42920}{Ancião Joaquim deixô bilhete pro Vórgui falano que a gente tem que oiá o escritóro do telégrafo em Tarrante pra vê mensage dele quando a gente chegá lá.}
+
+{42940}{Tadeu Mínor diz que eu pode sê moço ladrão de debaxo da terra se eu robá um mapa dos esgoto debaxo de Tarrante da Prefeitura e dá pra ele.}
+
+{42960}{Salão dos Registro diz que o moço Rôri Láimis é dono de prédio no Beco Mulligã Bone, 57.}
+
+{42980}{Telegrama do Ancião Joaquim diz que ele tá investigano os assassassino que qué me matá morto e a gente tem que i na Estalagi da Rosa Sangrenta em Istiuóter pra gente falá com o Estalajadô de como a gente acha o Joaquim.}
+
+{43000}{Joaquim me dá livro véio da Mão Molóquina que diz que eles saiu dos Dériân Cá purque eles descobriro que num gosta do Quérigão um moço véio véio da mágica da morte que eles achava que gostava mas agora num gosta.}
+
+{43020}{Vórgiu sai de perto de mim no cemitério e eu acho ele na frente do túmulo do moço Lourenço Brâmondi e o Vórgiu diz que era amigo véio dele de Tarrante mas eu acho que talvez eu tem que pensá nisso mais depois.}
+
+{43040}{Moça que eu falei em Tarrante diz que se eu qué trabaiá eu devia i na casa dela no 3 da Estrada Lunguistão.}
+
+{43060}{Moço esquisito em Tarrante diz que eu devia i vê o Tadeu Mínor que é moço ladrão de debaxo da terra e ele mora na esquina da Westrel Sul com a Curva Quiutão.}
+
+{43080}{Gilbéti Beitis diz que eu devia i no tempro dos Panariiiis no fim do nórti do Círculo da Cabeça de Leão.}
+
+{43100}{Jorião o Adivinhadô diz que eu tem que oiá a coisa de pintura do mural antes dele dexá eu falá com o Simião moço líder de Tula.} 
+
+{43120}{Simião Tôr fala comigo do moço véio da mágica Pelojião que era o moço que fez Tula e ele pintava e poetava e ele sabia das coisa que ia acontecê.}
+
+{43140}{Sinhô Uiloubi é moço Mestre da Persuasão e ele tá em Tarrante.}
+
+{43160}{Tadeu Mínor diz que eu pode comprá e vendê coisa com um receptadô no 11 da Estrada Baxa Dervixi purque eu agora sô moço ladrão de debaxo da terra tamém!}
+
+{43180}{Jeisão o Moço qué sabê se eu achá quarqué tecnolojia véia em argum lugá.}
+
+{43200}{Sâmi Uáiti pode me dá treinamento de mestre em furto e ele fica na Estação Metro em Tarrante.}
+
+{43220}{Se eu qué sê mestre de espreitá eu tem que achá o mestre descobrino o bilhete que eu peguei depois que eu virei perito.}
+
+{43240}{Quítsel Pírs pode me fazê mestre treinado no arco! Ele tá em Bléqui Rut.}
+
+{43260}{Ádikin Xêimbers pode me fazê mestre treinado em esquivice! Ele é ermitão do lado de fora de Istiuóter.}
+
+{43280}{Sir Gárrique Istáuti pode me fazê moço mestre treinado de corpo a corpo! Ele é capitão dos guarda em Dérnrôm.}
+
+{43300}{Clarissa Xalmo pode me fazê mestre treinado em arremessá! Ela é mercenária em Bléqui Rut.}
+
+{43320}{Dotô Edmum Crêigui pode me fazê mestre treinado em facada nas costa! Mas ele tá escondido num sei onde, dispois que ele matô ôtro dotô em Tarrante. Eu tem que achá ele.}
+
+{43340}{Fred Fitzgerôudi pode me fazê mestre treinado em achá armadilha! Ele tá em Tarrante na Estalagi chamada Bridesdale.}
+
+{43360}{Gúrim Rok Rólou pode me fazê mestre treinado em jogatina! Ele tá no clube dos cavalêro em Tarrante.}
+
+{43380}{Jota Eme Morá pode me fazê moço mestre treinado de Barganha! Ele diz que fica num bar em Tarrante.}
+
+{43400}{Fáun pode me fazê mestre treinado em curá! Ela tá em Quintarra!}
+
+{43420}{Rierônimo Méxum pode me dá mestre treinado em consertá. Ele tá na fábrica dele em Caladão.}
+
+{43440}{Uiliam Tórn Drópi pode me fazê mestre treinado em coisa de arma de fogo. Ele tá em Ésburi.}
+
+{43460}{Jota Tê Mórgã pode me dá mestre treinado em arrombá. Ele tá no lugá de cadeia de prisão brava de Caladão.}
+
+{43480}{Daniéu Méquifírsão pode me fazê mestre treinado em desarmá armadilha. Ele tá em Caladão.}
+
+{43500}{Rierônimo Méxum diz que se eu levá pra ele mecanismo de carregá e um rifle Clarintão ele me faz uma arma mecanizada.}
+
+{43520}{Moço estranho me atacô no lugá do balão caído e ele qué sabê o que eu tô fazeno lá e aí ele me ataca! e aí eu matei ele.}
+
+{43540}{Moço estranho começa a me preguntá coisa no lugá do balão caído mas o Vórgui foi malvado com ele e ele fugiu. Eu acho que ele ia sê malvado comigo mas o Vórgui parô ele.}
+
+{43560}{Treinamentu de Perito em Esquiva tem em Bléquirut ou Quintarra.}
+
+{43580}{Treinamentu de Perito em Corpo a Corpo tem em Bléquirut ou na Ilha do Desispero.}
+
+{43600}{Treinamentu de Perito em Arremesso tem em Dérnrôm ou Ésburi.}
+
+{43620}{Treinamentu de Perito em Detectá Armadilha tem em Bléquirut ou no Clã da Roda.}
+
+{43640}{Treinamentu de Perito em Arma de Fogo tem em Bléquirut ou Xraudi Rils.}
+
+{43660}{Treinamentu de Perito em Arrombamento tem em Caladão ou Bléqui Rut.}
+
+{43680}{Treinamentu de Perito em Desarmá Armadilha tem em Caladão, Rôsbóru ou no Clã da Roda.}
+
+{43700}{Lukã Desmiolado me contô de uma coisa chamada Ladrão de Debaxo da Terra e que eu pode descobri dela em Tarrante.}
+
+{43720}{Eu enganei o Lukã! Ele achô que eu era de Tarrante e que eu sô parte da coisa de Ladrão de Debaxo da Terra e eu acho que eu devia descobri o que é isso de verdade.}
+
+{43740}{Coisa de metau brilhosa na máquina voadora quebrada diz "Maquinaria Méxum Caladão".}
+
+{43760}{Um padre dos Panariiiis me contô do Arronáxis um elfo malvado que era mau com o Nafrudim e o Conselho dos Elfo na Era das Lenda. Esse deve sê o moço que eu tem que brigá na "batalha finau".}
+
+{43780}{Um padre dos Panariiiis me contô do Nafrudim o líder mais bonzinho do Conselho dos Elfo que viveu faz tempão na Era das Lenda e os Panariiiis acha ele moço legau e eu feliz purque eu era pra sê ele o moço vivo que é igual o Nafrudim eu acho de argum jeito mas eu num tenho certeza.}
+
+{43800}{Moço padre dos Panariiiis me contô do Arquíon que é livro das escrevida do Nafrudim e ele tá no tempro principau em Caladão.}
+
+{43820}{Agora que eu sô moço do Clã Maug eu tem que falá com o moço Darião Maug que fica no Bentley que é hotel véio no arto do North Boil.}
+
+{43840}{Eu achei papel que diz que o Érmer Bundaqueimada deve 500 moeda pro Uéslei que é o mordomo da Lílian Misqui mas num diz pra que é.}
+
+{43860}{Eu pregunto do Érmer Bundaqueimada no Salão dos Registro em Tarrante e eles diz que ele tá em Ésburi no 14 da Rua Trélis.}
+
+{43880}{Quando eu entro na casa do Érmer Bundaqueimada eu vejo moço teletransportá embora e aí eu falo com o Bundaqueimada antes dele morrê purque o moço machucô ele feio e ele diz que escreveu "A Mardição de Ti.sen-Angui" mas o livro diz que ele era o Kendrique Uêls e ele tamém diz que pagô o moço mordomo pela informação do moço Vitô Misqui.}
+
+{43900}{Tadeu Mínor diz que o Cedrico Apôbi que fica no 29 da Rua Baxa Dervixi qué que robe uma coisa da casa do Gilbéti Beitis.}
+
+{43920}{Dorvaudi diz que se eu pegá pra ele garrafa da cachaça do Norião ele me conta onde o Clã da Roda fica.}
+
+{43940}{Madâmi Tussôdi diz que a pintura do Garringsburgui tá no Beco Mulligã Bone, 57.}
+
+{43960}{Povo diz que eu devia falá com o Cedrico Apôbi purque ele é burro e engraçado e ele tá no 29 da Estrada Baxa Dervixi e ele fica mais engraçado ainda se eu falá Beitis pra ele.}
+
+{43980}{Gilbéti Beitis mora no 50 da Avenida East End que fica no fim da Kensington Broadway.}
+
+{44000}{Simião Dôr me contô que o Pelojião era um grande artista e ele pintô o Mural do Esclarecimentu. Ele tamém diz que os povo meditava nas pinturadas dele pra ficá perto de virá unicidade seja lá o que isso fô.}
+
+{44020}{Simião Dôr diz que as coisa de poeta do Pelojião mostrava o dentro dele mas era difícil de entendê mas ninguém sabe certinho purque ninguém tem as poesia orijinau só nos livro e ele tá certo eu num entendo.}
+
+{44040}{Diz que o Pelojião era clarivi... Clarivô... moço que vê o futuro e o fantasma dele vai me contá onde Vendibróti tá mesmo se ele nunca viu.}
+
+{44060}{Ninguém sabe o que é o símbolo no meio do Mural do Esclarecimentu mas uns povo diz que é o símbolo de um colégio de Mágica perdido.}
+
+{44080}{Eu tem que i na Estalagi do Cogumelo no 23 da Rua do Rei em Caladão pra oiá o lugá novo de assassinato de Uaitixurch.}
+
+{44100}{Eu tem que i oiá os quarto dos lugá de assassinato de Uaitixurch Eles é: Retorno do Dragão, 21 (saino da Estrada do Tempro) e Desembarque Uaitixurch, 1 (entre o Terraço do Lobo Cinzento e a Estrada do Tempro).}
+
+{44120}{Sara Tune diz que a mãe dela queria que a mina ficasse na famía.}
+
+{44140}{Os moço novo dono da Mina Béssi Tune é os Stanton Importantadô que fica no 25 do Círculo da Cabeça de Leão em Tarrante.}
+
+{44160}{Eu li o livro do Torvaudi Duas Pedra e agora eu acho que o Clã da Montanha Preta nunca teve aqui na Ilha do Desispero.}
+
+{44180}{Dotô Gérxuim qué que eu pega as caveira dos gêmeo siamês Rentar do lugá de enterrá mausolo... mausolonéu deles no Cemitério de Tarrante.}
+
+{44200}{Percivau Tune diz que a irmã dele tá em Dérnrôm.}
+
+{44220}{Artu Táirão fugiu de Bléqui Rut purque o papel de bilhete dele diz que eles tava chegano muito perto e eu num sei onde ele tá agora.}
+
+{44240}{Gládis a véia choradêra que qué o anel dela de vorta diz que o moço Arxibaudo pode sabê argum coisa do anel e ele mora perto das doca em Dérnrôm.}
+
+{44260}{Eles num me dexa entrá no Clube dos Cavalêro purque eu sô menina. Moço da porta malvado diz que eu tem que falá com o Uêndu Uélin-tão, mas ele num me conta onde ele mora.}
+
+{44280}{Moça do lugá dos Registro me conta que o Uêndu Uélin-tão mora no 42 da Rua Vermilião.}
+
+{44300}{Máquina esquisita, do Clã de Ferro eu acho, me falô pra achá o Livro do Dente do Durin.}
+
+{44320}{Eu vê mestre do arco. Ele qué que eu procura o minino Dudli Croston e se eu achá eu conta pra ele que ele foi pra Caladão pro rei.}
+
+{44340}{Rei Preitô diz que tecnolojia é o que deixa o lugá dele triste e fraquinho.}
+
+{44360}{Rei Preitô diz que os moço da mágica falô errado pra ele da tecnolojiologia sê fraquinha e essas coisa purque ela num era.}

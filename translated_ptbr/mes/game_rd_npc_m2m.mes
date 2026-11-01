@@ -1,0 +1,844 @@
+// This section is for RUMORS in the game.
+// THESE ONLY GET USED BY THE RUMOR OPCODE
+// start at 20000
+// rumors start at rumor number * 20
+// the first message is the logbook message
+// all others are filled in based on NPC's social class
+
+{20020}{Há ladrões nos arredores ao norte de Black Root.}
+{20021}{Tem um bando de ladrões dos piores nos arredores ao norte da cidade.}
+
+{20060}{Dizem que Tugal é um mago.}
+{20061}{Dizem que o velho Tugal é um mago, mas ninguém sabe ao certo...}
+
+
+//20400 - 20780 Shrouded Hills rumors (1020-1039)
+
+{20400}{Dizem que Ristezze, o Importador, é o homem a procurar para objetos raros ou exóticos.}
+{20401}{Dizem que ninguém entende mais de objetos exóticos do que Ristezze, o Importador.}
+
+{20420}{Dizem que o Delegado Owens sabe mais sobre Shrouded Hills do que qualquer um.}
+{20421}{O povo diz que o Delegado Owens é o especialista em Shrouded Hills e na sua história.}
+
+{20440}{Dizem que a única ponte para sair de Shrouded Hills está tomada por um bando de ladrões.}
+{20441}{Dizem que a ponte para fora da cidade está nas mãos de bandidos!}
+
+{20460}{Dizem que a mina Bessie Toone, nos arredores de Shrouded Hills, é mal-assombrada.}
+{20461}{Não vá até a velha mina Bessie Toone! Ela é mal-assombrada!}
+
+{20480}{Dizem que Lloyd Gurloes, o ferreiro de Shrouded Hills, faz um trabalho muito bom.}
+{20481}{Se precisa de um bom ferreiro, Lloyd Gurloes é o homem certo.}
+
+{20500}{Dizem que o Doutor Roberts matou um mago que tentou causar confusão em Shrouded Hills.}
+{20501}{Soube o que aconteceu com aquele usuário de magia que quis mandar por aqui? O Doutor Roberts derrubou o sujeito com um tiro no meio dos olhos!}
+
+{20520}{Dizem que Jongle Dunne, o feiticeiro do vilarejo, anda meio estranho desde que o Delegado Owens comprou a velha máquina a vapor.}
+{20521}{O velho Jongle Dunne, o feiticeiro do vilarejo, anda esquisito. Parece que começou logo depois que o Delegado Owens comprou a velha máquina a vapor.}
+
+{20540}{Dizem que gente estranha tem aparecido em Shrouded Hills, fazendo perguntas sobre as profecias dos Panarii.}
+{20541}{Tem aparecido gente estranha por aqui ultimamente. Perguntando sobre as profecias dos Panarii e coisas assim.}
+
+{20560}{Dizem que o Doutor Roberts é a única lei de verdade em Shrouded Hills.}
+{20561}{O Delegado Owens pode até se pavonear por aí feito galo novo, mas todo mundo sabe que o velho Doutor Roberts é a única lei de verdade em Shrouded Hills.}
+
+{20580}{A prefeitura de Shrouded Hills já foi um templo Panarii.}
+{20581}{Já viu a Prefeitura? É meio chique para um lugar como Shrouded Hills. Muito tempo atrás era um templo Panarii, mas por algum motivo deixaram de usá-lo.}
+
+{20600}{Acabaram de construir um banco em Shrouded Hills. Parece que todos os moradores guardam o dinheiro lá.}
+{20601}{Já viu o nosso banco novo aqui na cidade? É feito de tijolos! Forte feito uma mula! Todo mundo tá guardando o dinheiro lá!}
+
+{20620}{Dizem que Jacob Bens é um sujeito suspeito. Ele costuma ficar na Estalagem de Shrouded Hills.}
+{20621}{Vi Jacob Bens zanzando pela Estalagem de Shrouded Hills. Não confio naquele homem nem um pouco, isso eu garanto...}
+
+{20640}{O fantasma de Bessie Toone assombra a mina dela em Shrouded Hills e estraga o minério. O filho dela, Percival, está muito aflito com isso.}
+{20641}{Soube do fantasma de Bessie Toone? Desde que ela começou a assombrar a mina, não sai mais minério bom de lá. O filho dela, Percival, anda bem desesperado com isso também.}
+
+{20660}{Dizem que a herbalista, Gaylin, descende de uma longa linhagem de curandeiros élficos.}
+{20661}{Ouvi dizer que a nossa herbalista, Gaylin, descende de uma linhagem de grandes curandeiros élficos.}
+
+
+//20800 - 21380 Tarant rumors (1040-1069)
+//(1040-1049 are through story state 6)
+//(1040-1059 are through story state 13)
+//(1040-1069 are through the last story state)
+
+{20800}{Dizem que Cedric Appleby faria qualquer coisa para destruir o Sr. Bates.}
+{20801}{Já conheceu o Sr. Cedric Appleby? É a piada da cidade. Não conseguiria fazer uma máquina a vapor nem que a vida dele dependesse disso!}
+
+{20820}{Dizem que tem havido uma enxurrada de roubos aqui em Tarant, muitos deles de obras de arte famosas.}
+{20821}{Talvez seja bom trancar seus objetos de valor. Tem havido vários roubos na cidade, a maioria de arte preciosa.}
+
+{20840}{A maioria das pessoas acha que coisas estranhas acontecem na P. Schuyler & Filhos, a joalheria da Rua Devonshire.}
+{20841}{Já ouviu falar da P. Schuyler & Filhos, a famigerada joalheria da Rua Devonshire? Dizem que coisas estranhas acontecem lá dentro à noite...}
+
+{20860}{Dizem que Madame Toussaude, uma cigana, consegue mesmo ver o futuro.}
+{20861}{Tarant está cheia de adivinhos tentando ganhar uma ou duas moedas, mas dizem que Madame Toussaude consegue mesmo ver o futuro!}
+
+{20880}{Dizem que artefatos élficos antigos estão muito procurados na alta sociedade tarantiana.}
+{20881}{Acompanha a moda? Artefatos élficos antigos são a última febre da alta sociedade tarantiana.}
+
+{20900}{Dizem que o Salão dos Registros de Tarant é o lugar para quem procura alguém em Arcanum.}
+{20901}{Se está tentando encontrar alguém em Arcanum, tente o Salão dos Registros aqui em Tarant. Parece que eles sabem onde muita gente mora...}
+
+{20920}{A Estação Vermillion é a estação de trem aqui de Tarant.}
+{20921}{"Todos os caminhos levam à Estação Vermillion." É o que dizem, amigo. É a maior estação de trem de toda Arcanum.}
+
+{20940}{Dizem que Charles Dunston, da Usina de Água e Energia de Tarant, interditou uma parte dos esgotos da cidade.}
+{20941}{Soube? Charles Dunston, da Usina de Água e Energia de Tarant, interditou parte dos esgotos da cidade por algum motivo.}
+
+{20960}{Dizem que Madame Lil tem "um belo estabelecimento" no lado sul da cidade.}
+{20961}{Ouvi dizer que Madame Lil comanda um belo estabelecimento lá no lado sul da cidade.}
+
+{20980}{Dizem que os homens mais ricos de Tarant frequentam o Clube de Cavalheiros Wellington.}
+{20981}{O Clube de Cavalheiros Wellington é um bom lugar para uma bebida e boa companhia, desde que você goste da companhia dos homens mais ricos de Tarant.}
+
+{21000}{Dizem que Edward Willoughsby voltou à cidade depois de uma longa temporada em Caladon.}
+{21001}{Acho que ouvi alguém dizer que o Presidente Edward Willoughsby, do Conselho de Tarant, voltou à cidade. Dizem que ficou fora um bom tempo... em Caladon, acho eu...}
+
+{21020}{Dizem que a Universidade de Tarant tem alguns dos professores mais eruditos de toda Arcanum.}
+{21021}{Já foi à Universidade? Ela tem alguns dos professores mais eruditos do país!}
+
+{21040}{Dizem que Caladon está pensando em se juntar ao Reino Unificado.}
+{21041}{Acompanha a política, amigo? Pois parece que Caladon está pensando em se juntar ao Reino Unificado! Imagine só!}
+
+{21060}{Um grupo de orcs liderado por Donn Throgg tomou uma fábrica no número 15 do Beco das Dez Mãos, em Tarant.}
+{21061}{Soube o que está acontecendo na fábrica do número 15 do Beco das Dez Mãos? Os orcs tomaram conta! Ouvi dizer que aquele anarquista, Donn Throgg, está envolvido também.}
+
+{21080}{Dizem que o famoso Ladrão Gato de Tarant passa por qualquer armadilha que exista.}
+{21081}{Já ouviu falar do famoso ladrão gato de Tarant? Dizem que não existe armadilha capaz de detê-lo!}
+
+
+//21400 - 21780 Ashbury rumors (1070-1089)
+
+{21400}{Dizem que há zumbis no cemitério de Ashbury. Ninguém parece saber por quê.}
+{21401}{Ouvi dizer que o pessoal tem visto zumbis pelo cemitério. Recomendo que fique longe.}
+
+{21420}{A cidade de Ashbury quer construir um monumento para um herói local.}
+{21421}{A cidade inteira está em polvorosa por causa da estátua de Oliver Bettington. Parece que cada um tem uma opinião diferente sobre como e onde ela deve ser construída.}
+
+{21440}{Corre em Ashbury o boato de um naufrágio antigo e misterioso em algum ponto da costa ao norte de Ashbury. Ninguém que foi explorá-lo jamais voltou.}
+{21441}{Já ouviu falar do naufrágio antigo que dizem estar um pouco ao norte daqui, na costa? Muitos tentaram encontrá-lo, mas poucos voltaram.}
+
+{21460}{Dizem que o Castelo Malachi, abandonado ao norte de Ashbury, é mal-assombrado.}
+{21461}{Dizem que o castelo do velho Malachi Rench, ao norte de Ashbury, é mal-assombrado. Não me surpreende; dizem que aquele velho Malachi era um sujeito esquisito.}
+
+{21480}{Dizem que há algo estranho nas coordenadas 617O, 528S}
+{21481}{Ouvi um velho aventureiro que passou por aqui outro dia. Não sei o que ele achou, mas o ouvi mencionar estas coordenadas: 617O, 528S.}
+
+{21500}{Dizem que William Thorndop é um sujeito bem estranho.}
+{21501}{Já conheceu William Thorndop? Ele é bem estranho. Deve ser meio maluco, para fazer o que fez consigo mesmo...}
+
+{21520}{Dizem que Theo Brightstart é muito habilidoso no arremesso.}
+{21521}{Já conheceu Theo Brightstart? Nunca vi outro homem que arremesse tão bem quanto ele!}
+
+{21540}{Dizem que há umas ruínas antigas a noroeste de Ashbury, depois das Montanhas Cinzentas. Supostamente as ruínas guardam um altar de ouro maciço.}
+{21541}{Um velho aventureiro passou por aqui semana passada. Disse que encontrou umas ruínas antigas a noroeste, depois das Montanhas Cinzentas. Disse que nas ruínas havia um altar antigo de ouro maciço!}
+
+{21560}{Dizem que Kendrick Wales, um escritor local, está escrevendo um livro, mas não conta a ninguém do que se trata.}
+{21561}{Já topou com Kendrick Wales aqui em Ashbury? Ele anda por aí contando a todo mundo que está escrevendo um livro, mas não diz a ninguém do que se trata!}
+
+{21580}{Dizem que Edward Teach é o marinheiro mais habilidoso de Ashbury.}
+{21581}{Se precisa de um capitão habilidoso, Edward Teach é o homem certo.}
+
+{21600}{Dizem que um mago bastante esnobe anda vadiando em frente ao cemitério de Ashbury.}
+{21601}{Se por acaso passar pelos portões do cemitério, fique longe do mago que fica parado ali. Que esnobe completo e absoluto!}
+
+//21800 - 22180 Stillwater rumors (1090-1109)
+
+{21800}{Um morador de Stillwater chamado Marley parece ter se tornado alguém muito mais atraente e carismático nos últimos dias.}
+{21801}{Soube do Marley? Morar em Stillwater deve estar lhe fazendo bem: virou um amigo disputado e um amante para as mulheres. Estranho, já que antes ninguém gostava dele....}
+
+{21820}{Dizem que Richard Leeks, o ferreiro, faz as melhores espadas de Stillwater.}
+{21821}{Se procura uma boa lâmina, não há homem melhor de quem comprar do que Richard Leeks, o ferreiro da cidade. Ele é um mestre espadeiro!}
+
+{21840}{Dizem que Brigitte é a mulher com quem falar sobre o Culto de Geshtianna aqui em Stillwater.}
+{21841}{Stillwater nunca mais foi a mesma desde que o Culto de Geshtianna chegou à cidade. Se quiser saber mais sobre eles, fale com a sacerdotisa Brigitte.}
+
+{21860}{Dizem que há um velho mago chamado Cyrus que mora logo a noroeste de Stillwater. Ninguém o tem visto ultimamente.}
+{21861}{O velho Cyrus, o Mago, mora logo a noroeste da cidade. Não o tenho visto muito ultimamente...}
+
+{21880}{Dizem que um velho ogro chamado Drog Dente Negro mora nas colinas logo a noroeste de Stillwater.}
+{21881}{Se for viajar pelas colinas a noroeste de Stillwater, cuidado com o velho Drog Dente Negro, o ogro. Ele é quase inofensivo, mas com ogros nunca se sabe...}
+
+{21900}{Dizem que há uma criatura lendária por aqui chamada Gigante de Stillwater.} 
+{21901}{Já ouviu falar do Gigante de Stillwater? É uma velha lenda aqui de Stillwater! Todo mundo por aqui jura que viu a criatura uma ou duas vezes...}
+
+{21920}{Dizem que ninguém sabe mais sobre o Gigante de Stillwater do que Stanley Hippington, que mora logo ao norte de Stillwater.}
+{21921}{Ninguém sabe mais sobre o Gigante de Stillwater do que Stanley Hippington. Ele mora num chalé pequeno, ao norte da cidade.}
+
+{21940}{Dizem que um elfo estranho chamado Myrth mora aqui em Stillwater.}
+{21941}{Não temos muitos elfos aqui em Stillwater, mas tem um chamado Myrth que mora na cidade. Um sujeito bem estranho, na verdade...}
+
+{21960}{Dizem que o Alma Sedenta é um ótimo lugar para conseguir informações.}
+{21961}{Se quer mesmo saber o que acontece por aqui, visite o Alma Sedenta. É o lugar mais animado da cidade.}
+
+{21980}{Dizem que os ferimentos que aleijaram Adkin Chambers são fruto de um passado trágico.}
+{21981}{Soube do passado trágico de Adkin Chambers? Ficar aleijado daquele jeito... aquele tal de Stout é um verdadeiro bárbaro!}
+
+//22200 - 22580 Dernholm rumors (1110-1129)
+
+{22200}{Dizem que os Poços de Dernholm abrigam alguns dos criminosos mais malignos de toda Arcanum.}
+{22201}{Já viu os Poços? Dernholm não tem muita coisa, mas temos os Poços... são uma espécie de prisão, e alguns dos indivíduos mais malignos foram jogados lá.}
+
+{22220}{Dizem que houve algo muito estranho na forma como o Rei Praetor chegou ao trono de Cúmbria.}
+{22221}{Você não ouviu isso de mim, amigo, mas o Rei Praetor não era o herdeiro legítimo do trono. E não digo mais nada...}
+
+{22240}{Dizem que Lianna Pel Dar foi treinada pelo pai para ser uma guerreira habilidosa.}
+{22241}{Já conheceu Lianna Pel Dar, amigo? Eu não a provocaria, se fosse você. O pai dela a treinou desde o berço para ser uma guerreira habilidosa.}
+
+{22260}{Dizem que Jayna Stiles, de Dernholm, está estudando para ser curandeira.}
+{22261}{Já conheceu Jayna Stiles? Pobre moça, vivendo sozinha daquele jeito. E sempre estudando seus livros... diz que quer ser curandeira!}
+
+{22280}{Dizem que Gladys foi vista chorando por algo que perdeu.}
+{22281}{Vi Gladys chorando por algo que ela perdeu.}
+
+{22300}{Dizem que Sir Garrick Stout não é muito querido pelos seus homens.}
+{22301}{Ouvi dizer que o capitão da guarda, o "Sir" Garrick Stout, é um javali pomposo e grosseiro. Dizem que os homens dele o temem, mas não têm o menor respeito por ele!}
+
+{22320}{Dizem que há um labirinto antigo logo a noroeste de Dernholm.}
+{22321}{Eu andava a noroeste daqui e encontrei um labirinto antigo, ou pelo menos as ruínas de um. Ouvi uns barulhos estranhos e saí de lá rapidinho!}
+
+{22340}{Dizem que há um gnomo estranho no bar da Estalagem de Dernholm.}
+{22341}{Não sei se já foi à Estalagem, mas tem um gnomo estranho rondando o balcão nos últimos dias.}
+
+
+//22600 - 22880 Tarant Thieves Underground rumors (1130-1144)
+
+{22600}{O Submundo dos Ladrões quer que eu recupere um tesouro que afundou ao largo da Rua Baixa Dervish.}
+{22601}{Um pequeno navio afundou ao largo da Rua Baixa Dervish. Dizem que pode haver tesouro escondido nas águas por ali. Imagino que renderia um bom dinheiro no mercado negro.}
+
+{22620}{O Submundo dos Ladrões quer que eu recupere o espelho encantado da casa da Sra. Pettibone, na Estrada Lungsten.}
+{22621}{Soube que há um espelho encantado escondido na casa da Sra. Pettibone, lá na Estrada Lungsten. Temos alguém interessado em obter um item tão notável.}
+
+{22640}{O Submundo dos Ladrões quer que eu recupere o frasco de Água de Napha da casa da Sra. Halster, na Rua Devonshire.}
+{22641}{Dizem que a Sra. Regina Halster, lá na Rua Devonshire, recebeu um decantador especial de Água de Napha. Dizem que é um dos lotes mais puros de perfume élfico criados em séculos. O mercado negro receberia de bom grado um tesouro desses.}
+
+{22660}{O Submundo dos Ladrões quer que eu recupere a Essência de Fogo-Fátuo da loja do Parnell.}
+{22661}{Dizem que a loja do Parnell acabou de receber uma rara Essência de Fogo-Fátuo. Ela vale um bom preço no mercado paralelo.}
+
+{22680}{O Submundo dos Ladrões quer que eu recupere da Sociedade Zoológica um frasco de veneno da Serpe do Lete.}
+{22681}{Um cliente do Submundo está interessado em obter um frasco de veneno da Serpe do Lete. Alguns dizem que a Sociedade Zoológica guarda raridades assim em seus depósitos.}
+
+{22700}{O Submundo dos Ladrões quer que eu recupere da Fábrica Bates os planos da Pistola de Múltiplos Canos de Schreck.}
+{22701}{A Fábrica Bates desenvolveu planos secretos de uma nova arma chamada Pistola de Múltiplos Canos de Schreck. Temos compradores muito interessados nessa nova tecnologia.}
+
+{22720}{O Submundo dos Ladrões quer que eu recupere os rubis anões perfeitos que dizem estar a bordo de um navio ancorado em Tarant.}
+{22721}{Soube que um dos navios no porto chegou carregado de rubis anões perfeitos. Temos uma parte interessada em possuir tamanha perfeição.}
+
+{22740}{O Submundo dos Ladrões quer que eu recupere o medalhão da sorte que dizem estar com um dos vagabundos do Poone.}
+{22741}{Dizem que um dos vagabundos lá do Poone pôs as mãos num medalhão da sorte. Muita gente pagaria caro por uma bugiganga dessas.}
+
+{22760}{O Submundo dos Ladrões quer que eu recupere a rara espada Derian Ka da casa do Sr. Appleby.}
+{22761}{O Sr. Appleby adquiriu uma espada rara dos Derian Ka. Temos outro colecionador que a quer para si.}
+
+{22780}{O Submundo dos Ladrões quer que eu recupere a caixinha de música que Madame Lil leva consigo.}
+{22781}{Madame Lil leva consigo uma certa caixinha de música. Alguém que conhecemos está muito interessado em pôr as mãos nela.}
+
+{22800}{O Submundo dos Ladrões quer que eu recupere a Joia de Hebe do templo Panarii.}
+{22801}{O templo Panarii foi presenteado com a abençoada Joia de Hebe. Ela foi incrustada num medalhão, e dizem que quem o usar será amado por todos. Temos um comprador aguardando sua chegada.}
+
+{22820}{O Submundo dos Ladrões quer que eu recupere o Anel da Virilidade que o Sr. Franklin leva consigo.}
+{22821}{Dizem que o Sr. Franklin leva consigo um anel que aumenta sua virilidade. Um presente pelo qual, tenho certeza, muitos homens pagariam caro.}
+
+{22840}{O Submundo dos Ladrões quer que eu recupere a poção de poder sombrio da casa do Sr. Fitzgerald, no número 40 do Cruzamento Polton.}
+{22841}{Soubemos que o Sr. Fitzgerald pôs as mãos numa poção do poder mais sombrio. O Submundo não acha que ela esteja segura com ele e prefere cuidar dela pessoalmente. Ele mora no número 40 do Cruzamento Polton.}
+
+{22860}{O Submundo dos Ladrões quer que eu recupere as joias de Cassie do quarto dos fundos da casa de Madame Lil.}
+{22861}{Cassie guarda uma coleção muito valiosa de joias no quarto dos fundos da casa de Madame Lil. Conhecemos alguém com uma certa obsessão por Cassie. Ele está muito interessado em obter as joias dela.}
+
+{22880}{O Submundo dos Ladrões quer que eu recupere um motor experimental chamado Dispositivo de Heron. Dizem que está muito bem guardado num armazém perto da Fábrica Bates.}
+{22881}{Soube que criaram um novo tipo de motor experimental, chamado Dispositivo de Heron. Dizem que está muito bem guardado num armazém perto da Fábrica Bates. O Submundo deseja possuir esse dispositivo.}
+
+
+//22900 - 23080 Caladon Thieves Underground rumors (1145-1154)
+
+{22900}{O Submundo dos Ladrões quer que eu recupere, do casal hospedado na Estalagem do Cogumelo, um colar que dizem ter poderes mágicos.}
+{22901}{Há um casal hospedado no Cogumelo. Foram ouvidos se gabando de um colar de família com grandes poderes. O Submundo está interessado em obtê-lo.}
+
+{22920}{O Submundo dos Ladrões quer que eu recupere o relógio de bolso de Ryan Sanders.}
+{22921}{Ryan Sanders leva consigo um relógio de bolso raro e valioso. Temos uma parte interessada em obter essa peça requintada de tecnologia.}
+
+{22940}{O Submundo dos Ladrões quer que eu recupere um baú de ouro de um navio naufragado ao sul de Caladon antes que as autoridades cheguem até ele.}
+{22941}{Fomos avisados de que um navio naufragou na costa ao sul de Caladon. Dizem que levava uma grande quantia em ouro. Se conseguir recuperá-lo antes das autoridades, será ricamente recompensado.}
+
+{22960}{O Submundo dos Ladrões quer que eu recupere uma Armadura Cruzada de Caladon de um arsenal secreto escondido sob uma das casas da guarda.}
+{22961}{Há um arsenal secreto escondido sob uma das casas da guarda de Caladon. Se conseguir localizá-lo, o Submundo está interessado na Armadura Cruzada de Caladon.}
+
+{22980}{O Submundo dos Ladrões quer que eu recupere a ficha policial de Ryan Marshall.}
+{22981}{Um membro do Submundo, Ryan Marshall, tem um documento bastante extenso sobre seus crimes compilado contra ele. Está arquivado na delegacia. Gostaríamos de obtê-lo para nossa própria "guarda".}
+
+{23000}{O Submundo dos Ladrões quer que eu vá ao armazém das docas e recupere o correio destinado a Tarant.}
+{23001}{O Submundo está interessado no conteúdo do carregamento postal destinado a Tarant. Ele aguarda um navio no armazém das docas.}
+
+{23020}{O Submundo dos Ladrões quer que eu encontre o porão secreto da casa de Jonathan Sanders e recupere o Cajado da Restauração que dizem estar escondido lá.}
+{23021}{Jonathan Sanders tem um porão secreto debaixo da casa. Dizem que ele guarda um Cajado da Restauração escondido lá. Temos uma parte interessada em obter esse item.}
+
+//23100 - 23480 Caladon rumors (1155-1174)
+
+{23100}{Há um assassino em série rondando as ruas de Caladon. Ele é chamado de Assassino de Whytechurch, e os guardas procuram qualquer pista que ajude a encontrá-lo.}
+{23101}{Já ouviu falar do Assassino de Whytechurch que os guardas estão procurando? Ele deixou todo mundo aqui bem assustado, deixou sim!}
+
+{23120}{Dizem que o Rei tem mantido Daniel MacPherson muito ocupado reforçando as defesas do castelo.}
+{23121}{Soube das novas defesas do castelo? Dizem que o Rei tem mantido Daniel MacPherson muito ocupado, garantindo que tudo esteja em perfeito estado.}
+
+{23140}{Dizem que o Submundo dos Ladrões é muito ativo aqui em Caladon.}
+{23141}{Ouvi dizer que o Submundo dos Ladrões tem uma bela operação aqui em Caladon...}
+
+{23160}{Dizem que Ryan Sanders esbanja o dinheiro do pai.}
+{23161}{Soube do Ryan Sanders? Tsc, tsc... o almofadinha egoísta gasta o dinheiro suado do pai como se não houvesse fim!}
+
+{23180}{Dizem que Adam Maxwell é um sujeito bem suspeito.}
+{23181}{Já conheceu Adam Maxwell? Um sujeito bem suspeito, se quer saber.}
+
+{23200}{Dizem que um lobisomem anda aterrorizando os arredores de Caladon.}
+{23201}{Já ouviu falar do lobisomem? Tem gente que diz ter visto mesmo a fera rondando os arredores da cidade tarde da noite!}
+
+{23220}{A fábrica de Hieronymous Maxim, o famoso inventor de Caladon, foi destruída por vândalos desconhecidos.}
+{23221}{Soube o que aconteceu com a fábrica do Maxim? Foi depredada por uns tolos quaisquer. Ninguém sabe por quê.}
+
+{23240}{Dizem que há uma passagem nas montanhas ao norte de Caladon que liga as metades sul do continente. Dizem também que há um velho altar de pedra lá.}
+{23241}{Ouvi dizer que há uma passagem pelas Montanhas Stonewall, em algum ponto ao norte daqui, que liga as metades sul do continente. O velho aventureiro que me contou disse que também viu um estranho altar de pedra lá...}
+
+{23260}{O Primeiro Templo Panarii fica aqui em Caladon.}
+{23261}{Já viu o Primeiro Templo Panarii aqui em Caladon, amigo? É um prédio lindo... um lugar de conhecimento sagrado!}
+
+{23280}{Dizem que Victor Misk, o famoso colecionador de livros, é mencionado num livro novo chamado "A Maldição de T'sen-Ang".}
+{23281}{Soube do Victor Misk, o colecionador de livros? Ele é mencionado naquele livro novo, "A Maldição de T'sen-Ang"! Parece que está dando uma bela polêmica!}
+
+{23300}{Dizem que o Inspetor Henderson está à frente da investigação dos Assassinatos de Whytechurch.}
+{23301}{Ouviu algo sobre os Assassinatos de Whytechurch? Terrível, simplesmente terrível. Mas o Inspetor Henderson disse que vai pegar o assassino num piscar de olhos...}
+
+//23500 - 23680 Blackroot rumors (1175-1184)
+
+{23500}{Dizem que o Sour Barnacle, em Black Root, é um bom lugar para cerveja ou informações.}
+{23501}{Se procura um bom lugar para tomar uma cerveja, tente o Sour Barnacle. E os velhos lobos do mar que bebem lá costumam saber o que está acontecendo...}
+
+{23520}{Dizem que Herkemer Oggdoddler é muito bem treinado nas artes da guerra.}
+{23521}{Ouvi dizer que Herkemer Oggdoddler foi um dos melhores soldados de Dernholm no seu auge. Dizem que é muito bem treinado em todas as habilidades necessárias à guerra.}
+
+{23540}{Dizem que a Sra. Cameron está preocupada porque o filho dela desapareceu.}
+{23541}{Soube da pobre Sra. Cameron? O filho dela está desaparecido há quase um mês, e a coitada está fora de si de tanta preocupação.}
+
+{23560}{Dizem que Kietzel Pierce é o melhor arqueiro de Arcanum.}
+{23561}{Já conheceu Kietzel Pierce? Ouvi dizer que ele é o melhor arqueiro de toda Arcanum.}
+
+{23580}{Dizem que Clarissa Shalmo está procurando uma arma antiga e poderosa.}
+{23581}{Já falou com Clarissa Shalmo? Ouvi dizer que ela descobriu umas ruínas que podem conter uma arma antiga e poderosa.}
+
+{23600}{Dizem que Black Root é o melhor lugar de toda Arcanum para comprar um navio.}
+{23601}{Black Root é o lugar certo para quem quer comprar um barco, ah, se é.}
+
+{23620}{Dizem que Killian Drake é o melhor jogador de Black Root. Ele joga seus dados lá no Sour Barnacle.}
+{23621}{Já viu Killian Drake, lá no Sour Barnacle? Nunca vi um jogador de dados com mais sorte na vida...}
+
+{23640}{Dizem que de vez em quando um velho lobo do mar bêbado anda vagando por Black Root, falando sem parar de alguma coisa fantástica que descobriu.}
+{23641}{Já viu o Seadrick? Ele está falando de alguma coisa de novo.}
+
+{23660}{Dizem que o prefeito de Black Root não está feliz sob a proteção de Cúmbria.}
+{23661}{Black Root ficava sob a proteção de Cúmbria, mas acho que o Prefeito tem outros planos.}
+
+{23680}{Dizem que Grunwalde faz venenos em Black Root.}
+{23681}{Aqui em Black Root, dizem que ninguém faz venenos melhores do que Grunwalde.}
+
+
+//23700 - 24800 Roseborough rumors (1185-1194)
+
+{23700}{Dizem que há um bando de ladrões escondido nas montanhas perto de Roseborough. Eles teriam participado de um roubo na Estalagem.}
+{23701}{Dizem que há um bando de ladrões escondido nas montanhas aqui perto. Eles teriam participado de um roubo na Estalagem.}
+
+{23720}{Dizem que o Anel de Brodgar fica logo a noroeste de Roseborough.}
+{23721}{Já foi ao Anel de Brodgar? Fica logo a noroeste daqui. Dizem que tem milhares de anos... tem algo a ver com magia...}
+
+{23740}{Dizem que a Estalagem de Roseborough é a melhor de toda Arcanum.}
+{23741}{Ouvi dizer que a Estalagem de Roseborough é a melhor de toda a região.}
+
+{23760}{Dizem que o filho da Sra. Morgan foi condenado à prisão perpétua na prisão de segurança máxima de Caladon por tentar invadir o castelo.}
+{23761}{Soube da situação da pobre Sra. Morgan? O filho ladrão dela foi condenado à prisão perpétua na prisão de segurança máxima de Caladon. O tolo tentou mesmo invadir o castelo!}
+
+{23780}{Dizem que o forasteiro que se mudou para a cidade há pouco é muito grosseiro.}
+{23781}{Reparou no forasteiro que se mudou para a cidade há pouco? Que homem grosseiro!}
+
+{23800}{Dizem que Jason C. Guy tem passado um tempo enorme estudando o Anel de Brodgar.}
+{23801}{Já conheceu Jason C. Guy? Ele tem passado um tempo enorme estudando o Anel de Brodgar... um sujeito bem esquisito.}
+
+{23820}{Dizem que uma serpe do Lete foi avistada ao norte da cidade.}
+{23821}{Dá para acreditar? Alguém disse mesmo que viu de relance uma serpe do Lete vagando pelos campos ao norte da cidade. Que bobagem!}
+
+{23840}{Dizem que há uma lagoa estranha logo ao norte de Roseborough, ao longo da costa.}
+{23841}{Ouvi um velho mercador na taverna outra noite... ele falava de uma lagoa estranha que viu no caminho, descendo da Floresta Cintilante. Fica logo ao norte daqui, ao longo da costa... não que eu fosse chegar perto dela, veja bem!}
+
+{23860}{Dizem que há um lugar estranho e frio a nordeste de Roseborough. Alguns dizem que cheira a magias antigas e malignas.}
+{23861}{Não sou de histórias malignas, mas um amigo de um amigo me falou de um lugar maligno a nordeste daqui... diz que é frio, até no verão, e cheira a magias antigas e sombrias. Só de pensar me dá arrepios!}
+
+{23880}{Dizem que alguém tem desenterrado túmulos no cemitério de Roseborough.}
+{23881}{Ouvi dizer que alguém tem desenterrado túmulos no cemitério de Roseborough.}
+
+//23900 - 24500 Wheel Clan rumors (1195-1225)
+
+{23900}{Dizem que ninguém sabe mais sobre o Dredge do que Vegard Fluxo-Fundido, um velho mineiro do Clã da Roda.}
+{23901}{Se quer saber sobre o Dredge, fale com Vegard Fluxo-Fundido. Ele trabalhava naquelas velhas minas antes de as fecharem...}
+
+{23920}{Dizem que Erick Obsidiana, do Clã da Roda, é um historiador anão.}
+{23921}{Nós, anões, não damos muito valor a livros e coisas do tipo, mas parece que é só com isso que Erick Obsidiana se importa. Ele se chama de "historiador", acho eu...}
+
+{23940}{Dizem que Thrayne Coração de Ferro, do Clã da Roda, está procurando o irmão, Erland.}
+{23941}{Alguém me contou que Thrayne Coração de Ferro está procurando o irmão, Erland...}
+
+{23960}{Dizem que há algo maligno à espreita nas minas de minério do Clã da Roda.}
+{23961}{Eu ficaria longe das minas de minério, se fosse você, amigo. Os mineiros lá embaixo dizem que algo maligno foi libertado ali, e não foram poucos os homens que desapareceram...}
+
+{23980}{Dizem que Loghaire Pedra do Trovão, Rei dos Anões, não é visto no Clã da Roda há muitos e muitos anos.}
+{23981}{Você não ouviu isso de mim, amigo, mas ninguém vê o verdadeiro rei, Loghaire Pedra do Trovão, há muitos anos. E ninguém sabe por quê.}
+
+{24000}{Dizem que Thorvald Duas Pedras está desaparecido do Clã da Roda há quase 200 anos.}
+{24001}{Estou mesmo preocupado com Thorvald Duas Pedras. Não o vemos por aqui há quase 200 anos! Tenho medo de que ele esteja perdido...}
+
+{24020}{Dizem que o altar de Alberich fica nas Terras Reais do Clã da Roda.}
+{24021}{Se quer fazer uma oferenda a Alberich, amigo, o altar fica nas Terras Reais.}
+
+{24040}{Dizem que há um pântano estranho logo a noroeste do Clã da Roda, depois das montanhas.}
+{24041}{Não que eu saia muito, mas ouvi falar que há um velho pântano estranho logo a noroeste daqui, depois das montanhas. Quem sabe o que pode haver lá?}
+
+
+// This section is for notes taken in the game.
+// THESE SHOULD NEVER GET USED BY THE RUMOR OPCODE
+// start at 40000
+
+{40000}{Encontrei um velho estranho nos arredores de Shrouded Hills}
+
+{40020}{O livro "Horror Entre os Elfos Negros" narra a experiência de arrepiar os cabelos do Sr. Renford A. Terwilliger, sua captura e sua fuga da Aldeia dos Elfos Negros de T'sen-Ang. Curiosamente, a dedicatória diz... "Para a doce Raven, que ainda assombra minha memória."}
+
+{40040}{Encontrei um livro no túmulo de Victor Misk, mas a encadernação era obviamente falsa. O livro de verdade, escondido dentro dela, é "Como Nasrudin Derrotou o Nefasto Arronax! e Outras Histórias", de Oscar Grant. Há um selo do impressor na folha de rosto. Diz "Loja de Presentes de Roseborogh".}
+
+{40060}{A cripta de Nasrudin guardava um esqueleto vestido com túnicas, ao qual, reparei, faltava o dedo direito.}
+
+{40080}{A mensagem na cripta me levou a uma câmara antiga. Dentro dela estava o diário de São Mannox, que descrevia sua traição por um elfo chamado K'an Hua, assim como a verdadeira função da igreja Panarii. A câmara guardava também a espada de sua família, gravada com o nome 'Mannox'.}
+
+{40100}{O livro no túmulo de Phillip Misk é uma cópia verdadeira de "Horror Entre os Elfos Negros". Dentro dele há um mapa que aponta a localização da aldeia dos Elfos Negros.}
+
+{40120}{Encontrei uma ordem de compra de um anel de sinete. O pedido foi feito por um tal Benjamin Bates, mas o anel foi comprado para o filho dele, Gilbert Bates.}
+
+{40140}{Encontrei no arquivo de Ristezze um recibo de mercadorias compradas na P. Schuyler & Filhos. O endereço fica na cidade de Tarant.}
+
+{40160}{O bilhete de um elfo chamado M'in Gorad para Loghaire Pedra do Trovão declara, sem rodeios, a sentença desejada para os anões do Clã da Montanha Negra: exílio na Ilha do Desespero. O bilhete parece ter sido enviado da aldeia élfica de Qintarra.}
+
+{40180}{O bilhete de Gunther Wilhelm descreve as diferenças entre uma cópia antiga do Archaeon e a atual. Parece que Gunther acredita que o local de descanso final de Nasrudin não é Caladon, mas a Ilha de Thanatos.}
+
+{40200}{Encontrei um bilhete de amor de um homem chamado Renford A. Terwilliger para Raven. Parece que eles eram muito próximos. Ele também mencionava algo sobre sua busca pelos Elfos Negros.}
+
+{40220}{Na parte de dentro da tampa do sarcófago havia uma mensagem enigmática que parecia pintada com sangue. Havia o desenho de um anel quebrado com um 'X' dentro, e também duas palavras numa língua que desconheço.}
+
+{40240}{Um santuário estranho no local da queda tinha isto gravado: "E o Seu espírito renascerá em asas de fogo em colinas envoltas em névoa. Archaeon 5:16"}
+
+{40260}{Parece que só eu sobrevivi à queda do I.F.S. Zephyr. O zepelim foi atacado de surpresa por estranhas máquinas voadoras. Entre os destroços, encontrei um gnomo moribundo que me deu um anel de sinete e me pediu que encontrasse o garoto a quem ele pertencia, com um aviso vago sobre algo que "está quase aqui". Ele também disse que tinha "escapado", mas não tenho pistas de onde ele escapou.}
+
+{40280}{Identifiquei o gnomo morto como Preston Radcliffe, pela passagem que ele tinha no bolso.}
+
+{40300}{Enterrado sob os destroços de uma das bizarras máquinas voadoras responsáveis por derrubar o Zephyr, encontrei um Ogro morto. Por incrível que pareça, ele parece ter sido o piloto da aeronave. Também encontrei com ele um amuleto com um olho dentro de um hexagrama.}
+
+{40320}{Preston Radcliffe não era um gnomo, mas um anão chamado Stennar Cortador de Pedra. Por algum motivo desconhecido, ele fez o impensável: cortou a própria barba só para se passar por gnomo. Ele deve ter passado fome também, para parecer mais com um gnomo.}
+
+{40340}{Gilbert Bates, o industrial, parecia sentir necessidade de aliviar a consciência contando-me seu segredo mais profundo. Ele desenvolveu sua primeira máquina a vapor a partir de um protótipo anão do Clã da Montanha Negra, que ele aperfeiçoou. Ele não a inventou, como todos supunham. Ele acha que essa indiscrição da juventude levou, de algum modo, ao desaparecimento do Clã da Montanha Negra, e está ansioso para descobrir o que realmente aconteceu com eles. Ele foi avisado à noite por misteriosas figuras de túnica para nunca falar de sua ligação com o povo da Montanha Negra, nem do fato de ter usado a máquina deles para desenvolver a sua.} 
+
+{40360}{Gilbert Bates me mandou a Ashbury procurar um capitão chamado Edward Teach, um "associado" de Bates que cuida de trabalhos "especiais" para ele. Para mim, parece algum tipo de pirata. Ele deve me levar de barco até a Ilha do Desespero, uma colônia penal.} 
+
+{40380}{Gilbert Bates sofreu um atentado de um assassino que usava o símbolo da Mão Molocheana, o olho no hexagrama. A Mão Molocheana foi uma ordem de assassinos de 500 anos atrás, e acredita-se que tenha desaparecido há muito tempo. Bates não tinha certeza se o pretenso assassino era mesmo um servo da Mão Molocheana.} 
+
+{40400}{Sofri um ataque de alguém que usava um amuleto com o símbolo do olho no hexagrama, parecido com o que encontrei no Ogro nos destroços da máquina voadora.}
+
+{40420}{Sofri um ataque de alguém que usava um amuleto com a imagem de um olho dentro de um hexagrama.}
+
+{40440}{Encontrei Gudmund Dobrador-de-Minério, um anão enlouquecido escondido nas entranhas das minas do Clã da Montanha Negra, balbuciando coisas sem sentido sobre o Clã da Roda ser joguete dos elfos. Ele se escondeu para não ser banido com o resto do clã, e acho que a culpa causou sua paranoia desenfreada. Ele encheu de armadilhas muitos túneis da mina para impedir que "eles" o "peguem".}
+
+{40460}{O Pilar da Verdade nas minas do Clã da Montanha Negra conta a história do banimento do clã para a Ilha do Desespero por permitir que a tecnologia se espalhasse entre os humanos, principalmente por causa de Gilbert Bates e de sua máquina a vapor. Estranhamente, parece que havia elfos lá para executar o banimento, com a cooperação do Clã da Roda.}
+
+{40480}{Ogdin, o guarda da porta de Thorvald, me disse que preciso lutar na arena para conseguir uma audiência com ele. Preciso procurar Gorrin, o mestre da arena, para que ele marque uma luta para mim.}
+
+{40500}{Só há um anão na Ilha do Desespero, e parece que ele está no comando. O nome dele é Thorvald.}
+
+{40520}{Thorvald diz que é o único anão que já viveu na Ilha do Desespero. O Clã da Montanha Negra nunca esteve lá.}
+
+{40540}{Thorvald me informou que vou precisar de um par especial de óculos, feito de finas lâminas de cristal de Kathorn, para conseguir ver a entrada das minas do Clã da Roda.}
+
+{40560}{Stanley Xavier Hippington me deu uma pequena armadilha e um frasco de "Cheiro de Gigante de Stillwater" para eu tentar capturar o gigante. Ele me instruiu a tirar qualquer armadura que eu estiver usando (para fazer menos barulho e também parecer menos uma ameaça) e passar o cheiro no corpo antes de me aproximar dele. Depois devo usar a armadilha para capturar o gigante em sua forma de repouso, a de um coelho azul.}
+
+{40580}{Devo levar o Gigante de Stillwater engaiolado ao Dr. Tristan Fenwick, da Sociedade Zoológica de Tarant, para que ele o autentique.}
+
+{40600}{Quando o interroguei sobre o estranho anel de sinete, o Delegado Owens me disse que Ristezze, o Importador, talvez tenha mais informações sobre sua origem.}
+
+{40620}{Ristezze, o Importador, me disse que a P. Schuyler & Filhos fica no número 44 da Rua Devonshire, na cidade de Tarant, e marcou o local no meu mapa.}
+
+{40640}{Conheci um anão chamado Magnus vadiando em frente à P. Schuyler & Filhos. Ele tinha umas teorias estranhas sobre os métodos de negócio deles.}
+
+{40660}{Magnus e eu decidimos cooperar na investigação da P. Schuyler & Filhos. Parece que ele encontrou um bracelete que supostamente vem do seu clã perdido.}
+
+{40680}{Encontrei um túmulo anão antigo bem debaixo da P. Schuyler & Filhos. Acredito que eles estejam usando os recursos dele em seus negócios.}
+
+{40700}{Encontrei os três irmãos Schuyler, Winston, Niles e Edward, no nível mais baixo do túmulo anão. Eles são de uma antiga família de Necromantes que usam seus poderes para localizar itens valiosos e raros.}
+
+{40720}{Concordei em manter silêncio sobre os negócios da P. Schuyler & Filhos em troca da identidade do dono do anel de sinete.}
+
+{40740}{Concordei em manter silêncio sobre os negócios da P. Schuyler & Filhos em troca da identidade do dono do anel de sinete. Infelizmente, Magnus não gostou nada disso e foi perdido na batalha que se seguiu.}
+
+{40760}{Pelonious Schuyler, o pai, morto há muito tempo, de Winston e seus irmãos, foi trazido de volta dos mortos para responder à minha pergunta sobre o anel. Ele divagou de forma incoerente por alguns instantes e então revelou o nome do dono: um tal Sr. Gilbert Bates.}
+
+{40780}{Conheci um capitão chamado Edward Teach. Ele me disse que seu navio estava disponível para frete, mas só com a permissão de Gilbert Bates.}
+
+{40800}{Edward Teach me contou a história de como ele se tornou dono do seu barco, o Gypsy Shadow. O antigo dono do Gypsy, um homem chamado Jack Skellybones, teria sido assassinado pelo fantasma de Stringy Pete, que, segundo Teach, foi o pirata mais cruel que já navegou pelos mares de Arcanum. Achei a história divertida, embora um tanto fantasiosa.} 
+
+{40820}{Conheci Randver, filho de Loghaire Pedra do Trovão. Parece que Loghaire se exilou e que Randver é o Rei-em-Espera do Clã da Roda.}
+
+{40840}{Randver me disse que os elfos tiveram algo a ver com o banimento do Clã da Montanha Negra. Infelizmente, ele não sabe a natureza exata do envolvimento deles, só que Loghaire se exilou por vontade própria logo depois do banimento.}
+
+{40860}{Randver me contou que Loghaire desapareceu nas cavernas do Dredge, um antigo sistema de minas anãs que hoje abriga uma variedade de criaturas repugnantes.}
+
+{40880}{Randver me falou da Forma e a Pedra, uma forma de filosofia anã. Parece que Loghaire talvez tenha se exilado em resposta ao que viu como uma traição a esse código.}
+
+{40900}{Randver me mostrou uma passagem secreta que ele usa para visitar o pai.}
+
+{40920}{Loghaire Pedra do Trovão falou de uma delegação de elfos, supostamente enviada pela Dama Prateada, que o visitou pouco depois da invenção da primeira máquina a vapor. Os elfos estavam indignados com o uso da tecnologia na destruição de suas florestas e exigiram reparação.}
+
+{40940}{Loghaire me contou que os elfos ameaçaram guerra se o Clã da Montanha Negra não fosse punido, e exigiram ser eles os responsáveis por seu banimento para a Ilha do Desespero. Achei isso estranho, considerando que os elfos não são um povo belicoso.}
+
+{40960}{Loghaire aceitou os termos dos elfos porque temia a enormidade de um conflito entre elfos e anões.}
+
+{40980}{Convenci Loghaire de que sua Pedra ainda era verdadeira e de que seu lugar de direito era de volta entre o seu povo.}
+
+{41000}{Loghaire me disse o nome do elfo que liderou a delegação: M'in Gorad. Ele me disse para começar minha busca por esse M'in Gorad na antiga aldeia élfica de Qintarra, e que alguém em Stillwater talvez saiba a localização exata de Qintarra. Também me disse para voltar se eu descobrir o que realmente aconteceu com o Clã da Montanha Negra.}
+
+{41020}{Loghaire, abatido e perdido após as notícias sobre o Clã da Montanha Negra, me deu um bilhete e me disse para continuar minha busca na aldeia élfica de Qintarra. Ele disse que alguém em Stillwater talvez saiba onde ela fica.}
+
+{41040}{Conheci Raven, filha da Dama Prateada. Eu disse a ela que precisava falar com sua mãe, mas parece que antes preciso expulsar alguns humanos de Falcon's Ache. Falcon's Ache é solo sagrado élfico, na orla da Floresta Cintilante. Em nenhuma circunstância devo derramar sangue ao expulsar esses homens.}
+
+{41060}{Contei a Raven tudo o que aconteceu. Ela não conhecia o nome de M'in Gorad, mas me disse para falar com a Dama Prateada sobre essas coisas e voltar a ela depois disso.}
+
+{41080}{Falei com Raven sobre as visões da Dama Prateada. Muito do que conversamos foi especulação, mas parece que M'in Gorad talvez seja um Elfo Negro.}
+
+{41100}{Raven me disse que preciso encontrar um indivíduo chamado Renford A. Terwilliger. Parece que esse Terwilliger era um pesquisador que procurava os Elfos Negros. Raven acredita que, se alguém sabe onde fica a aldeia deles, é ele.}
+
+{41120}{Raven me disse que preciso buscar mais respostas sobre Nasrudin na cidade de Caladon. Lá encontrarei o Primeiro Templo dos Panarii, cujos sacerdotes conhecem bem a história do banimento de Arronax.}
+
+{41140}{Falei com a Dama Prateada e perguntei a ela sobre M'in Gorad. Ela teve muitas visões, todas enigmáticas e confusas.}
+
+{41160}{À luz das descobertas recentes sobre o envolvimento dos Elfos Negros no banimento do Clã da Montanha Negra, perguntei à Dama Prateada o que eu deveria fazer em seguida. Ela me disse que minhas respostas estão com Nasrudin.}
+
+{41180}{Alexander, Primeiro Acólito dos Panarii, me disse que os restos de Nasrudin estão debaixo do Templo Panarii.}
+
+{41200}{Alexander me disse que preciso falar com Gunther Willhelm, o historiador da igreja, e com Hadrian, o arqueólogo da igreja, sobre os restos de Nasrudin.}
+
+{41220}{Alexander, Primeiro Acólito dos Panarii, descobriu que sou a única pessoa que sobreviveu à queda do dirigível. Ele pareceu radiante em me conhecer, saudando-me como o Vivo, mas me avisou que o Sumo Sacerdote não acredita. Parece que ele emitiu uma ordem para toda a igreja me denunciar como uma fraude. Bem estranho, considerando que ele nunca me viu.}
+
+{41240}{Alexander me disse para tomar cuidado com quem eu conto que sobrevivi à queda do dirigível. Ele disse que Gunther Willhelm me aceitaria, mas que Hadrian talvez não. Vou ter que tomar cuidado ao lidar com eles.}
+
+{41260}{Alexander me falou de São Mannox, uma figura sagrada da Igreja Panarii.}
+
+{41280}{Alexander me contou sobre a ascensão de São Mannox. Supostamente, Nasrudin levou Mannox diretamente deste plano de existência para o próximo, a única vez na história da igreja em que isso aconteceu.}
+
+{41300}{Alexander me mostrou onde eu poderia ver uma cópia do Archaeon, o livro mais sagrado da religião dos Panarii.}
+
+{41320}{Contei a Alexander o que descobri sobre o assassinato de Mannox por K'an Hua. Ele não ficou nada contente.}
+
+{41340}{Falei com Gunther Willhelm, o historiador da igreja. Ele me falou de umas traduções em que está trabalhando... uma cópia mais antiga e até então desconhecida do Archaeon. Ele encontrou uma discrepância interessante no significado do nome "Panarii".}
+
+{41360}{Confiei a Gunther Willhelm a história da queda do dirigível. Ele me acolheu de coração e disse que me ajudaria como pudesse.}
+
+{41380}{Gunther Willhelm me contou que Alexander é descendente direto de São Mannox.}
+
+{41400}{Achei estranho que a pessoa que testemunhou a ascensão fosse a mesma que descobriu os restos. O nome desse indivíduo era K'an Hua.}
+
+{41420}{Gunther Willhelm me disse para ter cautela ao me revelar a Hadrian, o Arqueólogo, mas que ele seria a melhor fonte de informações sobre os restos de Nasrudin.}
+
+{41440}{Gunther me disse o significado das palavras na parte de dentro da cripta. A primeira palavra significa "oposto"; a segunda, "verdade". Ele não sabia o significado do anel quebrado.}
+
+{41460}{Parece que Gunther encontrou outra discrepância na tradução mais antiga do Archaeon. Isso o levou a concluir que os restos de Nasrudin não estão aqui, mas na Ilha de Thanatos.}
+
+{41480}{Contei a Gunther Willhelm que descobri o diário de Mannox. Ele me disse que eu devia contar a Alexander o quanto antes.}
+
+{41500}{Falei com Hadrian, o Arqueólogo, sobre os restos de Nasrudin. Parece que nem ele tem acesso a eles.}
+
+{41520}{Hadrian me deu uma dica de como eu poderia entrar para ver os restos de Nasrudin. Ele disse para eu dar uma olhada nos esgotos da cidade.}
+
+{41540}{Depois de um pequeno subterfúgio, Hadrian me confidenciou que descobriu um jeito de ver os restos de Nasrudin com os próprios olhos. Devo entrar nas antigas catacumbas por uma rachadura nas paredes do esgoto, bem debaixo do templo. Segundo Hadrian, há uma porta secreta que leva direto à câmara funerária. Ela está selada por magia, e a senha para abri-la é "Crimstone".}
+
+{41560}{Contei a Hadrian sobre a queda do dirigível, mas ele ficou zangado e não quis mais falar comigo.}
+
+{41580}{Trouxe de volta o crânio que encontrei no túmulo de Nasrudin e o mostrei a Hadrian. Parece que o crânio é humano, e não élfico. Hadrian ficou visivelmente abalado com a descoberta.}
+
+{41600}{Contei a Hadrian sobre a mensagem escrita com sangue na tampa do sarcófago. Ele não sabe o que significa, mas me disse para consultar Gunther Willhelm a respeito.}
+
+{41620}{Contei a Hadrian o que descobri sobre o assassinato de São Mannox. Ele me disse que preciso falar com Alexander sobre isso imediatamente.}
+
+{41640}{Encontrei Edward Teach no Sour Barnacle, em Black Root, enquanto procurava passagem para a Ilha de Thanatos. Ele me contou que perdeu o Gypsy Shadow num jogo de azar para um homem chamado Killian Drake.}
+
+{41660}{Edward Teach sugeriu três opções para conseguir passagem para a Ilha de Thanatos: ganhar o Gypsy de volta de Killian Drake, comprar um barco para mim ou tentar roubar um barco do fantasma de Stringy Pete.}
+
+{41680}{Conheci um velho Bêbado no Sour Barnacle, em Black Root. Ele tinha um mapa da enseada secreta de Stringy Pete. Talvez mereça uma investigação mais a fundo.}
+
+{41700}{Encontrei a enseada secreta de Stringy Pete, onde estão enterrados os restos dele.}
+
+{41720}{Confrontei o fantasma de Stringy Pete para conseguir o barco dele. Parece que ele está amaldiçoado a navegar pelos mares de Arcanum por toda a eternidade.}
+
+{41740}{Stringy Pete acha que talvez haja um jeito de quebrar sua maldição. Se eu fizer o que for necessário, ele me dará o barco dele.}
+
+{41760}{Confrontei Kerghan, o Terrível, em sua fortaleza. Ele me contou a história de seu banimento de Arcanum pelo Conselho Élfico por causa dos experimentos necromânticos que vinha conduzindo.}
+
+{41780}{Parece que Kerghan cresceu em poder durante sua estadia no Vazio. Parece que o tempo não passa aqui.}
+
+{41800}{Kerghan vê toda a vida como uma abominação, um desvio da ordem natural. Ele quer se livrar de toda a vida, tanto no Vazio quanto em Arcanum. Só então, diz ele, as almas atormentadas dos mortos terão paz.}
+
+{41820}{Falei com a viúva de Victor Misk. Ela disse que ele estava agindo de forma estranha em seus últimos dias. Parece que esse comportamento foi provocado pelo lançamento recente do livro "A Maldição de T'sen-Ang", que o apontava como dono do último exemplar existente de "T'sen-Ang: Horror Entre os Elfos Negros".}
+
+{41840}{Parece que Victor Misk morreu poucos dias antes da minha chegada. Ele está enterrado no Cemitério de Caladon.}
+
+{41860}{A viúva Misk não faz ideia de quem revelou o segredo de que seu marido possuía o livro raro. Talvez mereça uma investigação mais a fundo.}
+
+{41880}{Perguntei à viúva Misk que importância a cidade de Roseborough, ou sua Loja de Presentes, poderia ter para ela. Ela disse que nenhuma, exceto que o pai de Victor, Phillip Misk, está enterrado no cemitério de Roseborough.}
+
+{41900}{Conheci um velho anão chamado Bingham Shulefest no Cemitério de Caladon que afirmava conhecer Magnus. Magnus negou, mas ficou na defensiva quando perguntei mais.}
+
+{41920}{Bingham Shulefest era um agente da Mão Molocheana. Magnus tem pouco a dizer sobre o assunto.}
+
+{41940}{A mulher do Salão dos Registros disse que Renford Terwilliger estava morto, mas que ele havia escrito um livro chamado "T'sen-Ang: Horror Entre os Elfos Negros". Ela disse que talvez eu consiga um exemplar do livro na biblioteca municipal de Tarant.}
+
+{41960}{A Bibliotecária de Tarant disse que "T'sen-Ang: Horror Entre os Elfos Negros" é extremamente raro e que não há nenhum exemplar disponível. Ela me deu um livro chamado "A Maldição de T'sen-Ang", lançado há muito pouco tempo.}
+
+{41980}{"A Maldição de T'sen-Ang" é um livro sobre o estranho conjunto de circunstâncias que envolve Renford A. Terwilliger e seu livro "...Horror Entre os Elfos Negros". Ele também revela o único dono sobrevivente do livro: um homem chamado Victor Misk, que mora em Caladon.}
+
+{42000}{Falei com Raven sobre M'in Gorad, que parece ser um Elfo Negro.}
+
+{42020}{Contei a Hadrian que reparei que faltava o dedo direito ao esqueleto do sarcófago. Ele acha que pode ser São Mannox quem foi enterrado ali, e não Nasrudin. Nem é preciso dizer que ele está muito abalado.}
+
+{42040}{O Dr. Tristan Fenwick me informou, sem rodeios, que o Gigante de Stillwater é uma farsa. O coelho azul que capturei como Gigante de Stillwater era só um coelho comum pintado de azul.}
+
+{42060}{O Dr. Fenwick me contou que o showman H.T. Parnell tem uma pele falsa do Gigante de Stillwater em exposição.}
+
+{42080}{M'in Gorad me contou que os elfos negros esperaram anos por um pretexto para banir um grupo de anões para o Vazio, com o objetivo de construir um portal que permitisse a volta de Arronax.} 
+
+{42100}{M'in Gorad revelou que Stennar conseguiu escapar pelo portal, que mal funciona, por causa da sua falta de aptidão mágica.}
+
+{42120}{Juntei-me aos elfos negros, e M'in Gorad me disse para ir ao templo Panarii de Caladon me encontrar com K'an Hua, o sumo sacerdote.}
+
+{42140}{Recuperei um bilhete de alguém chamado K'an Hua endereçado a M'in Gorad. Ele dá a entender que o CMN está no Vazio e que Stennar de algum modo escapou de lá usando um portal inacabado que os anões estão construindo. Parece que os anões estão sendo usados como mão de obra escrava para construir um meio de Arronax voltar. O bilhete também menciona Vendigroth e a tentativa deles de recuperar algum tipo de dispositivo.}
+
+{42160}{K'an Hua me confidenciou que os elfos negros tomaram a religião Panarii para subvertê-la e semear a dúvida na mente das pessoas sobre se Arronax de fato existiu.} 
+
+{42180}{K'an Hua deixou escapar que seus segredos estão com Nasrudin, mas não consegui convencê-lo a dar mais detalhes quando insisti no assunto.}
+
+{42200}{K'an Hua me contou que a religião Panarii, sob sua orientação subversiva, deixou de manter as proteções que mantêm selada a fenda entre Arcanum e o Vazio. Sem manutenção regular, as proteções estão enfraquecendo.}
+
+{42220}{Descobri que Arronax era filho de Nasrudin.}
+
+{42240}{K'an Hua me contou a história do banimento de Arronax. Vendigroth começou a construir um dispositivo para matar Arronax depois que ele lhes pediu que parassem com seus experimentos perigosos e irresponsáveis com a tecnologia, e por isso ele foi obrigado a destruí-los em legítima defesa. Arronax foi então obrigado a entrar em guerra com o Conselho Élfico e, se seus aliados fracos não o tivessem abandonado, teria saído vitorioso. Mesmo sozinho, sua força era tamanha que a luta para bani-lo criou uma fenda entre Arcanum e o Vazio que precisou ser selada com proteções mágicas.} 
+
+{42260}{Ouvi a saga de Kerghan, o Terrível, o único membro humano do Conselho Élfico. Quando ele descobriu as artes necromânticas, o Conselho lhe pediu que não as pesquisasse mais, pois achavam que tinham um enorme potencial para o mal. Quando Arronax descobriu que Kerghan andava brincando com os espíritos das pessoas, convenceu o conselho a condená-lo ao banimento. Ele foi docilmente, sem lutar, apesar de possuir um poder enorme.} 
+
+{42280}{Contaram-me a história por trás do banimento do Flagelo de Kree. Ele era um guerreiro nômade que conseguiu reunir quase todas as antigas tribos nômades e formar com elas um exército feroz. Quando seu exército desceu sobre Kree, ele matou sem piedade todos os homens, mulheres e crianças que viviam lá. Nasrudin foi obrigado a confrontá-lo e bani-lo sozinho. Foi o começo da fama de Nasrudin, que acabou por elevá-lo a uma condição quase mítica aos olhos de toda Arcanum.}
+
+{42300}{Contaram-me a história do banimento de Kraka-tur, um monstro ardiloso e perverso, metade homem e metade dragão, que aterrorizava cidades e aldeias, matando seus habitantes e queimando-as até o chão. Depois de uma batalha colossal, ele foi subjugado e banido.}
+
+{42320}{Contaram-me a história do banimento de Gorgoth, uma fera irracional de apetite insaciável. Ele finalmente foi capturado pelo Conselho depois de uma luta que durou dias e, sem outra alternativa, decidiu-se que ele seria banido de Arcanum.}
+
+{42340}{Nasrudin ainda está vivo! Encontrei-o em Thanatos, e ele me contou a verdadeira história por trás da lenda do banimento de Arronax. Arronax destruiu a cidade de Vendigroth quando tentaram criar um dispositivo para combatê-lo. Nasrudin liderou a batalha para banir o próprio filho por seus crimes, e a guerra que se seguiu devastou os exércitos de ambos. Depois de banir Arronax, Nasrudin e seus aliados criaram proteções mágicas para impedir que Arronax voltasse do Vazio.}
+
+{42360}{Ouvi dizer que o dispositivo de Vendigroth foi projetado para drenar a força vital de um mago enquanto ele estiver envolto em seu casulo regenerador impenetrável.}
+
+{42380}{Arronax me contou que está aprisionado por Kerghan há quase dois mil anos.}
+
+{42400}{Kerghan enganou os elfos negros, fazendo-os acreditar que ele é Arronax, para que o ajudassem a voltar a Arcanum.}
+
+{42420}{Arronax sugeriu que eu consiga uma audiência com Kerghan para provar a mim mesmo que ele é louco e que Arronax está me dizendo a verdade.}
+
+{42440}{Arronax me pediu que o liberte para que ele possa se juntar a mim na luta contra Kerghan. Mas ele não sabe como o escudo mágico em que está preso está sendo mantido.}
+
+{42460}{Não usado}
+
+{42480}{Arronax me disse que seria sensato recrutar mais ajuda antes de confrontar Kerghan.}
+
+{42500}{Vou precisar deduzir o uso correto dos portais para conseguir me orientar pelo Vazio.}
+
+{42520}{Depois que me arrastei para fora dos destroços do zepelim, um monge da religião Panarii me abordou. Ele parece acreditar que sou o "Vivo", a reencarnação de alguma divindade deles.}
+
+{42540}{O "Vivo" seria a reencarnação de um Elfo chamado Nasrudin, um poderoso mago élfico.}
+
+{42560}{Recebi um bilhete de um homem estranho no Clube de Cavalheiros Wellington, em Tarant. Ao abri-lo, descobri que o bilhete trazia um endereço: Beco Mulligan Bone, 57.}
+
+{42580}{Conheci um anão estranho hoje. O nome dele era Jormund, e ele morava em Qintarra, logo onde. Mais estranho ainda, ele afirmava ser um mago treinado por um elfo! Ele me confidenciou que está terrivelmente infeliz por cumprir o resto do seu contrato sob as ordens de um elfo chamado Wrath.}
+
+{42600}{Conheci uma criatura chamada Kan Kerai. Ele é o chefe dos Bedokaan, uma raça de répteis inteligentes que vivem nos Pântanos Sombrios. Ele está furioso... parece que uma grande injustiça foi cometida contra o seu povo.}
+
+{42620}{Conversando com Kan Kerai, deduzi que o seu povo está sendo morto por caçadores ilegais da região por causa da pele.}
+
+{42640}{Depois que convenci Kan Kerai de que não precisa travar guerra contra toda a humanidade, ele me ofereceu os serviços de um de seus guerreiros. O nome da criatura é Waromon.}
+
+{42660}{Wrath foi morto com veneno. Preciso falar com Sharpe, o boticário, sobre quem pode ter comprado o veneno dele.}
+
+{42680}{Descobri que Treat descendia da Legião Negra, criada por Zalakar durante a Era das Lendas. Foi essa ascendência que lhe permitiu se transformar numa horrenda criatura serpente durante a nossa batalha.}
+
+{42700}{Preciso deduzir de que modo Pollock consegue entrar e sair de casa sem ser detectado, para matá-lo sem ter que partir para um ataque frontal suicida à casa dele.}
+
+{42720}{Um sujeito com um fedor bem forte me disse para falar com Muggs, um anão bem-vestido que vi num bar do Boil, se eu estivesse interessado em entrar para o Clã Maug.}
+
+{42740}{Ao entrar nas cavernas do Clã Stonecutter, zumbis me atacaram, para minha grande surpresa. Parece que um tal Erland Coração de Ferro descobriu o laboratório de um antigo necromante junto às cavernas do Clã e, sem querer, criou vários mortos-vivos com um método científico que inventou.}
+
+{42760}{Conheci um homem chamado Edward Willoughsby, que afirmava ser o Presidente do Conselho Industrial de Tarant. Depois de uma breve conversa, ele me convidou a visitar seu gabinete, na Prefeitura de Tarant.}
+
+{42780}{Edward Willoughsby mencionou algumas medidas "pessoais" que vinha tomando para controlar o crime no Boil. Ele me disse para procurar um homem chamado Sebastian no Caleb Malloy's, no Boil, se eu estivesse interessado em ajudar na empreitada.}
+
+{42800}{Edward Willoughsby me encarregou de mediar entre Tarant e Caladon nas negociações sobre a entrada de Caladon no Reino Unificado. Ele me disse para viajar a Caladon e encontrar um homem chamado Renard em frente ao castelo Real. Renard vai me orientar melhor sobre as negociações quando eu chegar.}
+
+{42820}{O Inspetor-Chefe Henderson quer que eu me apresse na tentativa de deter L'anamelach, o demônio de Whytechurch. Se eu demorar demais, os conselheiros do rei vão chamar um tal Franklin Payne, um conhecido caçador de feras, para caçar o demônio.}
+
+{42840}{Heinrich Jenks me contratou para matar o Rei Farad de Caladon. Graças aos privilégios especiais que tenho na mediação das negociações, devo entrar no castelo real, encontrar as cozinhas e falar com um homem chamado Vernon. Ele vai me dar mais instruções.}
+
+{42860}{Heinrich Jenks contratou você para matar o Rei Farad de Caladon. Se Edward Willoughsby encarregar você da mediação das negociações entre Tarant e Caladon, você deve entrar no castelo real, encontrar as cozinhas e falar com um homem chamado Vernon. Ele vai lhe dar mais instruções. Caso contrário, deve falar com um homem chamado Bullors nas docas de Caladon, e ele vai colocar você dentro do castelo, onde poderá então encontrar Vernon.}
+
+{42880}{Heinrich Jenks contratou você para matar o Rei Farad de Caladon. Você deve encontrar um homem chamado Bullors nas docas de Caladon. Ao que parece, esse Bullors vai colocar você às escondidas dentro do castelo, onde deve encontrar um homem chamado Vernon nas cozinhas reais. Vernon vai lhe dar mais instruções.}
+
+{42900}{Encontrei dois homens mortos no quarto do Ancião Joachim, em Shrouded Hills. Os dois usavam um amuleto com o símbolo do olho no hexagrama.}
+
+{42920}{O Ancião Joachim deixou um bilhete para Virgil, dizendo para verificarmos o posto de telégrafo de Tarant em busca de uma mensagem dele quando chegarmos lá.}
+
+{42940}{Um sujeito chamado Thaddeus Mynor me ofereceu entrada no "Submundo dos Ladrões" se eu roubar da Prefeitura um mapa dos esgotos de Tarant e entregá-lo a ele.}
+
+{42960}{Depois de perguntar sobre Rorry Limes no Salão dos Registros de Tarant, descobri que ele é dono de um prédio. O endereço é Beco Mulligan Bone, 57.}
+
+{42980}{Um telegrama do Ancião Joachim dizia que ele estava investigando os assassinos que parecem decididos a tentar me matar. Devemos viajar até a Estalagem da Rosa Sangrenta, em Stillwater. Lá, devemos falar com o Estalajadeiro sobre como contatar o Ancião Joachim.}
+
+{43000}{O texto antigo que Joachim me deu trata da Mão Molocheana. O motivo da separação deles dos Derian Ka parece ser algo que foi descoberto sobre Kerghan, que foi o primeiro dos necromantes negros e cuja morte foi o motivo da formação da Ordem dos Mortos.}
+
+{43020}{Virgil se afastou de mim por um momento hoje no Cemitério de Caladon, e o encontrei parado diante do túmulo de um tal Lawrence Brummond. Ele me disse que Brummond tinha sido seu amigo e que os dois cresceram juntos em Tarant. Talvez mereça uma investigação mais a fundo se algum dia voltarmos lá.}
+
+{43040}{Uma mulher que conheci nas ruas de Tarant me pediu que passasse na casa dela, na Estrada Lungsten, 3, para um possível trabalho.}
+
+{43060}{Conheci um sujeito estranho em Tarant hoje, meio que um espreitador. Ele me disse para fazer uma visita a um tal Thaddeus Mynor, que mora na esquina da Westrel Sul com a Curva Quilton. Devo perguntar sobre uma tal organização chamada Submundo dos Ladrões.}
+
+{43080}{Depois de conversar com Gilbert Bates sobre os possíveis aspectos "religiosos" do que me aconteceu, ele sugeriu que eu passasse no templo Panarii de Tarant para obter mais informações. Fica no extremo norte do Círculo da Cabeça de Leão.}
+
+{43100}{Jorian, o Adivinho, me mandou ver um mural na parede do corredor principal antes de me deixar falar com Simeon Tor, o líder de Tulla. Ele não quer me dizer o motivo.} 
+
+{43120}{Simeon Tor me falou de um velho feiticeiro chamado Pelojian, o fundador de Tulla. Ele também era artista, poeta e clarividente.}
+
+{43140}{Disseram-me que o Sr. Willoughsby pode me dar treinamento de mestre em persuasão. Ele mora em Tarant.}
+
+{43160}{Segundo Thaddeus Mynor, agora que sou membro do Submundo dos Ladrões, posso comprar e vender mercadorias com o "receptador" da Estrada Baixa Dervish, 11, perto da Devonshire.}
+
+{43180}{Jason C. Guy quer que eu o avise se encontrar qualquer sinal de tecnologia antiga em minhas viagens.}
+
+{43200}{Disseram-me que Sammie White pode me dar treinamento de mestre em furto. Ele costuma ficar perto da Estação Metro, em Tarant.}
+
+{43220}{Se eu quiser me tornar mestre em espreitar, preciso localizar o mestre decifrando o bilhete que recebi ao alcançar o nível de perito.}
+
+{43240}{Disseram-me que Kietzel Pearce pode me dar treinamento de mestre em arco. Ele fica em Black Root.}
+
+{43260}{Disseram-me que Adkin Chambers pode me dar treinamento de mestre em esquiva. Ele é um eremita que mora fora de Stillwater.}
+
+{43280}{Disseram-me que Sir Garrick Stout pode me dar treinamento de mestre em corpo a corpo. Ele é o capitão da guarda de Dernholm.}
+
+{43300}{Disseram-me que Clarissa Shalmo pode me dar treinamento de mestre em arremesso. Ela é uma mercenária em Black Root.}
+
+{43320}{Disseram-me que o Doutor Edmund Craig pode me dar treinamento de mestre em ataque furtivo. Porém, ele fugiu de Tarant para escapar de acusações de assassinato e está escondido em lugar desconhecido.}
+
+{43340}{Disseram-me que Frederick T. Fitzgerald pode me dar treinamento de mestre em detectar armadilhas. Ele tem um quarto na Estalagem Bridesdale, em Tarant.}
+
+{43360}{Disseram-me que Gurin Rockhollow pode me dar treinamento de mestre em jogatina. Ele fica no clube de cavalheiros de Tarant.}
+
+{43380}{Disseram-me que J.M. Morat pode me dar treinamento de mestre em barganha. Ele costuma ficar num bar de Tarant.}
+
+{43400}{Disseram-me que Fawn pode me dar treinamento de mestre em cura. Ela fica em Qintarra.}
+
+{43420}{Disseram-me que Hieronymous Maxim pode me dar treinamento de mestre em reparo. Ele fica em sua fábrica, em Caladon.}
+
+{43440}{Disseram-me que William Thorndop pode me dar treinamento de mestre em armas de fogo. Ele mora em Ashbury.}
+
+{43460}{Disseram-me que J.T. Morgan pode me dar treinamento de mestre em arrombamento. No momento, ele está preso na prisão de segurança máxima de Caladon.}
+
+{43480}{Disseram-me que Daniel McPherson pode me dar treinamento de mestre em desarmar armadilhas. Ele mora em Caladon.}
+
+{43500}{Hieronymous Maxim me disse que, se eu lhe trouxer um mecanismo de recarga e um rifle Clarington, ele vai construir para mim uma arma mecanizada.}
+
+{43520}{Um homem estranho me atacou no local da queda. Ele estava muito curioso sobre o que eu fazia ali, e me agrediu depois de algumas perguntas. Receio que algo muito estranho esteja acontecendo aqui.}
+
+{43540}{Um homem estranho me abordou no local da queda, mas Virgil o confrontou e ele fugiu. Ele parecia curioso demais sobre o motivo de estarmos ali, quase ao ponto da hostilidade. Receio que algo muito estranho esteja acontecendo aqui.}
+
+{43560}{Disseram-me que o treinamento de Perito em Esquiva pode ser encontrado em Black Root ou em Qintarra.}
+
+{43580}{Disseram-me que o treinamento de Perito em Corpo a Corpo pode ser encontrado em Black Root ou na Ilha do Desespero.}
+
+{43600}{Disseram-me que o treinamento de Perito em Arremesso pode ser encontrado em Dernholm ou em Ashbury.}
+
+{43620}{Disseram-me que o treinamento de Perito em Detectar Armadilha pode ser encontrado em Black Root ou no Clã da Roda.}
+
+{43640}{Disseram-me que o treinamento de Perito em Armas de Fogo pode ser encontrado em Black Root ou em Shrouded Hills.}
+
+{43660}{Disseram-me que o treinamento de Perito em Arrombamento pode ser encontrado em Caladon ou em Black Root.}
+
+{43680}{Disseram-me que o treinamento de Perito em Desarmar Armadilhas pode ser encontrado em Caladon, em Roseborough ou possivelmente no Clã da Roda.}
+
+{43700}{Lukan, o Desmiolado, me falou de algo chamado Submundo dos Ladrões e disse que talvez eu descubra mais sobre isso em Tarant.}
+
+{43720}{Enganei Lukan, fazendo-o pensar que eu fazia parte da filial de Tarant de algo chamado Submundo dos Ladrões. Se algum dia eu for até lá, talvez mereça uma investigação mais a fundo.}
+
+{43740}{Encontrei uma placa numa das máquinas voadoras com a inscrição "Maquinaria Maxim, Caladon".}
+
+{43760}{Um sacerdote Panarii me falou de Arronax, um elfo maligno que se opôs a Nasrudin e ao Conselho Élfico durante a Era das Lendas. Parece que esse é o indivíduo que devo enfrentar nessa tal "batalha final".}
+
+{43780}{Um sacerdote Panarii me falou de Nasrudin, o benevolente líder do Conselho Élfico, que viveu durante o que ele chamou de "Era das Lendas". Os Panarii parecem ter esse sujeito em alta conta. Acho que isso é um pouco reconfortante, já que eu seria a reencarnação dele.}
+
+{43800}{Um sacerdote Panarii me falou do Archaeon, um livro sagrado com os ensinamentos de Nasrudin que fica guardado no Primeiro Templo Panarii, na cidade de Caladon. Talvez mereça uma investigação mais a fundo.}
+
+{43820}{Agora que sou membro do Clã Maug, me disseram para procurar o próprio Sr. Darian Maug. Ele mora no Bentley, um velho hotel no alto do North Boil.}
+
+{43840}{Encontrei uma nota promissória de um homem chamado Elmer Burbottom para Wesley, o mordomo de Lillian Misk. A nota, que prometia 500 moedas a Wesley, não dizia a que se referia o pagamento.}
+
+{43860}{Depois de perguntar sobre Elmer Burbottom no Salão dos Registros de Tarant, recebi o endereço dele em Ashbury, que é Rua Trellis, 14.}
+
+{43880}{Ao entrar na casa de Elmer Burbottom, encontrei um agressor que logo se teletransportou para longe. Falei brevemente com o Sr. Burbottom antes que ele morresse. Parece que o Sr. Burbottom escreveu "A Maldição de T'sen-Ang" sob o pseudônimo de Kendrick Wales. Ele também confirmou que pagou Wesley pelas informações sobre Victor Misk.}
+
+{43900}{Thaddeus Mynor me disse que um tal Cedric Appleby, que mora na Rua Baixa Dervish, 29, quer que roubem algo da casa de Gilbert Bates.}
+
+{43920}{Thorvald demonstrou interesse por uma garrafa da aguardente de Norian em troca das informações sobre a localização do Clã da Roda.}
+
+{43940}{Madame Toussaude me disse que o quadro de Garringsburg pode ser encontrado no Beco Mulligan Bone, 57.}
+
+{43960}{Disseram-me que, se eu precisar dar boas risadas, devo procurar um tal Cedric Appleby, que mora na Rua Baixa Dervish, 29, e mencionar Gilbert Bates para ele.}
+
+{43980}{Descobri que Gilbert Bates mora na Avenida East End, 50, no fim da Kensington Broadway.}
+
+{44000}{Simeon Tor me contou que Pelojian foi um grande artista e que pintou o Mural do Esclarecimento. Ele também me disse que suas pinturas, dizem, ajudam quem medita diante delas a se aproximar da unicidade.}
+
+{44020}{Simeon Tor acha que a poesia de Pelojian revelava seu íntimo, mas era difícil de entender. Isso é especulação, porém, já que nenhum poema original de Pelojian sobreviveu. Só são conhecidos pelos escritos de outros.}
+
+{44040}{Dizem que Pelojian foi um grande clarividente, e seu espírito deve ser capaz de me dizer a localização de Vendigroth, mesmo que ele nunca a tenha visto em vida.}
+
+{44060}{Ninguém tem certeza do significado do símbolo no centro do Mural do Esclarecimento. Alguns acham que é o símbolo de um colégio de Magia perdido.}
+
+{44080}{Devo ir à Estalagem do Cogumelo, na Rua do Rei, 23, em Caladon, para inspecionar a cena do último Assassinato de Whytechurch.}
+
+{44100}{Recebi a tarefa de revistar os quartos das vítimas dos Assassinatos de Whytechurch. Os endereços são: Retorno do Dragão, 21 (saindo da Estrada do Templo) e Desembarque Whytechurch, 1 (entre o Terraço do Lobo Cinzento e a Estrada do Templo).}
+
+{44120}{Sarah Toone me contou que a mãe dela sempre quis que a mina continuasse na família.}
+
+{44140}{O novo dono da Mina Bessie Toone é a Stanton Importadores, que fica no Círculo da Cabeça de Leão, 25, em Tarant.}
+
+{44160}{Depois de ler o diário de Thorvald Duas Pedras, tenho certeza de que o Clã da Montanha Negra nunca esteve na Ilha do Desespero.}
+
+{44180}{O Dr. Gershwin quer que eu recupere os crânios de Jin e Xin, os famosos gêmeos siameses Ren'ar, do mausoléu deles no Cemitério de Tarant.}
+
+{44200}{Percival Toone deixou escapar que a irmã dele mora em Dernholm.}
+
+{44220}{Arthur Tyron fugiu de Black Root, pois "eles" estavam chegando perto demais. Seu paradeiro atual é desconhecido.}
+
+{44240}{Gladys, a velha senhora de Dernholm que quer que eu encontre o anel que ela perdeu, me informou que um homem chamado Archibald talvez tenha alguma ideia de onde posso encontrar o anel. Ele mora perto das docas.}
+
+{44260}{Minha entrada no Clube de Cavalheiros Wellington foi recusada por motivos óbvios. O porteiro me disse que, se eu tivesse alguma objeção às regras do clube, devia falar com o Sr. Wendell Wellington, o dono do estabelecimento. Infelizmente, o porteiro não foi muito prestativo sobre onde eu poderia encontrar o cavalheiro.}
+
+{44280}{Perguntei no Salão dos Registros o endereço do Sr. Wendell Wellington. Ele mora na Rua Vermillion, 42.}
+
+{44300}{Ouvi o que parecia uma voz gravada saindo de um dispositivo estranho que, presumo, foi construído milhares de anos atrás pelo Clã de Ferro. Ela me disse para encontrar o Livro da Verdade de Durin.}
+
+{44320}{Kietzel Pierce, o Mestre do Arco, me pediu que ficasse de olho em seu aluno desaparecido, Dudley Crosston. Se eu o encontrar, devo informar a Dudley que Kietzel seguiu para Caladon a serviço do rei.}
+
+{44340}{O Rei Praetor me contou sobre a triste situação do seu reino de Cúmbria. Ele culpa a tecnologia pelo declínio da sorte de Cúmbria.}
+
+{44360}{O Rei Praetor acha que foi enganado por seus conselheiros de Magia, que lhe garantiram que a tecnologia era fraca em comparação com a Magia.}
+
