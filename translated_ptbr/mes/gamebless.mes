@@ -1,0 +1,80 @@
+// This is the Bless Message File
+// Each Bless starts on a multiple of 10
+// The first line is the log entry. This line is mandatory.
+// The second line is the effect number that should be applied when the Bless activates. This line is mandatory.
+// The third line is the message that appears when the Bless activates. This line is optional.
+
+{500}{Bênção de Imineemee}
+{501}{4}
+
+{510}{Enquanto possuir o Cálice Sagrado, você estará abençoado.}
+{511}{8}
+{512}{Bênção do Cálice Sagrado}
+
+{520}{Por ajudar Madame Toussaude, você recebeu uma bênção cigana.}
+{521}{115}
+{522}{Você sente um leve formigamento quando Madame Toussaude gesticula à sua frente.}
+
+{530}{A Sacerdotisa Brigitte o abençoou por devolver o ídolo de Geshtianna.}
+{531}{126}
+{532}{Você sente uma alegria interior crescer enquanto Brigitte o abençoa.}
+
+{540}{Aqueles que usam a Joia de Hebe são abençoados com muitos admiradores.}
+{541}{164}
+{542}{De repente, você se sente muito bem consigo mesmo.}
+
+{550}{Por ter feito uma oferenda ao deus Ter'el, você recebe a bênção dele.}
+{551}{191}
+{552}{A Bênção de Ter'el!}
+
+{560}{Por ter feito uma oferenda ao deus Makaal, você recebe a bênção dele.}
+{561}{192}
+{562}{A Bênção de Makaal!}
+
+{570}{Por ter feito uma oferenda ao deus Alberich, você recebe a bênção dele.}
+{571}{193}
+{572}{A Bênção de Alberich!}
+
+{580}{Por ter feito uma oferenda à deusa Geshtianna, você recebe a bênção dela.}
+{581}{194}
+{582}{A Bênção de Geshtianna!}
+
+{590}{Você completou o Primeiro Círculo, o da Bondade.  Por isso, recebe a bênção de Halcyon, Deus da Verdade.}
+{591}{195}
+{592}{A Bênção de Halcyon!}
+
+{600}{Por ter feito uma oferenda ao deus Torg, você recebe a bênção dele.}
+{601}{196}
+{602}{A Bênção de Torg}
+
+{610}{Por ter feito uma oferenda ao deus Bolo, você recebe a bênção dele.}
+{611}{197}
+{612}{A Bênção de Bolo!}
+
+{620}{Por ter feito uma oferenda ao deus Kerlin, você recebe a bênção dele.}
+{621}{198}
+{622}{A Bênção de Kerlin!}
+
+{630}{Por ter feito uma oferenda ao deus Shakar, você recebe a bênção dele.}
+{631}{199}
+{632}{A Bênção de Shakar!}
+
+{640}{Você completou o Segundo Círculo, o do Mal.  Por isso, recebe a bênção de Moorindal, Deus das Sombras.}
+{641}{200}
+{642}{A Bênção de Moorindal!}
+
+{650}{Você completou o Terceiro Círculo, o da Neutralidade.  Por isso, recebe a bênção de Kai'tan, Deusa do Equilíbrio.}
+{651}{201}
+{652}{A Bênção de Kai'tan!}
+
+{660}{Você uniu os Três Círculos e ofereceu sua vida a Velorien, o Pai de Todos.  Por isso, recebe a bênção dele do Poder Supremo!}
+{661}{202}
+{662}{A Bênção do Poder Supremo de Velorien!}
+
+{670}{Por devolver a Arbalah seu artefato sagrado, você recebeu a bênção dele.}
+{671}{327}
+{672}{Você sente uma sensação cálida e agradável enquanto Arbalah lhe concede sua bênção.}
+
+// Messages used by the bless module
+
+{1000}{Você recebeu uma Bênção!}
